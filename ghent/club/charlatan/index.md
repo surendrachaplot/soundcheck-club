@@ -1,6 +1,6 @@
 # Charlatan
 
-Charlatan is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween - DRESS TO DISTRESS" on Sat, 31 Oct 2026.
+Charlatan is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween - DRESS TO DISTRESS" on Sat, 31 Oct 2026.
 
 Charlatan is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including Carlamote, DJ Beast, Dj Licious and GALAGO (BE) and 2 more. See dates, start times and who's playing. Vlasmarkt 6, 9000 Gent, Belgium.
 
@@ -17,4 +17,4 @@ Charlatan is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with 
 
 Vlasmarkt 6, 9000 Gent, Belgium, Ghent
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/charlatan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/charlatan/)*

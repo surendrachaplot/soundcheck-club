@@ -1,6 +1,6 @@
 # Yraki
 
-Yraki is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Living Womb, London on Thu, 12 Nov 2026.
+Yraki is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Living Womb, London on Thu, 12 Nov 2026.
 
 Yraki is a bass and techno artist, with 9 gigs on soundcheck across London, New York City, Paris and Tallinn. Often billed alongside Airali, Alec Pace and Andy Martin. Next up: Living Womb, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Yraki is a bass and techno artist, with 9 gigs on soundcheck across London, New 
 
 Airali, Alec Pace, Andy Martin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yraki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yraki/)*

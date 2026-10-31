@@ -1,6 +1,6 @@
 # Casey Club
 
-Casey Club is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Casey Club is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 Casey Club is a dubstep and bass artist based in United Kingdom, with 17 gigs on soundcheck across Brighton, Bristol, Detroit and Jacksonville and 5 more. Often billed alongside Flava D, A Little Sound and Anaïs. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -14,6 +14,7 @@ Casey Club is a dubstep and bass artist based in United Kingdom, with 17 gigs on
 
 ## Recently played
 
+- Wamu Theatre, Seattle · Fri, 30 Oct 2026
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - SILO, New York City · Fri, 11 Sept 2026
 - Cu, London · Wed, 3 Jun 2026
@@ -21,10 +22,9 @@ Casey Club is a dubstep and bass artist based in United Kingdom, with 17 gigs on
 - The Croft, Bristol · Mon, 2 Mar 2026
 - The Croft, Bristol · Wed, 21 Jan 2026
 - fabric, London · Fri, 12 Dec 2025
-- The Prospect Building, Bristol · Sat, 25 Oct 2025
 
 ## Shares bills with
 
 Flava D, A Little Sound, Anaïs
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyclub/)*

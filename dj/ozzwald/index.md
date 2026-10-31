@@ -1,6 +1,6 @@
 # Ozzwald
 
-Ozzwald is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
+Ozzwald is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
 Ozzwald is a trance and techno artist based in Spain, with 76 gigs on soundcheck across Barcelona, Berlin, Bogotá and Cologne and 5 more. Often billed alongside Cobb Douglas, Sandwicho and Amøn. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Ozzwald is a trance and techno artist based in Spain, with 76 gigs on soundcheck
 
 Cobb Douglas, Sandwicho, Amøn
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzwald/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzwald/)*

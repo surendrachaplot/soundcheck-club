@@ -1,6 +1,6 @@
 # Greg Brockmann
 
-Greg Brockmann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+Greg Brockmann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
 
 Greg Brockmann is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Barcelona and London. Often billed alongside Sam Bangura, Jeneva and Katya. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Greg Brockmann is a techno and house artist based in United Kingdom, with 42 gig
 
 Sam Bangura, Jeneva, Katya
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbrockmann/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregbrockmann/)*

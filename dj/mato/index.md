@@ -1,6 +1,6 @@
 # MATO
 
-MATO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Big Rons Records, Malta on Sat, 21 Nov 2026.
+MATO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Big Rons Records, Malta on Sat, 21 Nov 2026.
 
 MATO is a house and techno artist based in Malta, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 3 more. Often billed alongside Luca Cordina, BENGY and Owen Jay. Next up: Big Rons Records, Malta on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MATO is a house and techno artist based in Malta, with 36 gigs on soundcheck acr
 
 Luca Cordina, BENGY, Owen Jay
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mato/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mato/)*

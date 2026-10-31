@@ -1,6 +1,6 @@
 # YAMAG
 
-YAMAG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at R Lounge, Tokyo on Wed, 4 Nov 2026.
+YAMAG is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at R Lounge, Tokyo on Wed, 4 Nov 2026.
 
 YAMAG is a techno and house artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside nylon, Hackmarkt and uuu7. Next up: R Lounge, Tokyo on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ YAMAG is a techno and house artist based in Japan, with 22 gigs on soundcheck ac
 
 nylon, Hackmarkt, uuu7
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamag/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamag/)*

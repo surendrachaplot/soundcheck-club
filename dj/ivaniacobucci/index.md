@@ -1,6 +1,6 @@
 # Ivan Iacobucci
 
-Ivan Iacobucci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gianca - Murazzi, Turin on Sat, 31 Oct 2026.
+Ivan Iacobucci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Gianca - Murazzi, Turin on Sat, 31 Oct 2026.
 
 Ivan Iacobucci is a house and techno artist, with 40 gigs on soundcheck across Athens, Barcelona, Berlin and Bogotá and 17 more. Often billed alongside Stella Fiore, Dino and Francesco Farfa. Next up: Gianca - Murazzi, Turin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ivan Iacobucci is a house and techno artist, with 40 gigs on soundcheck across A
 
 Stella Fiore, Dino (2), Francesco Farfa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivaniacobucci/)*

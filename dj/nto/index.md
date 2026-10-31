@@ -1,6 +1,6 @@
 # NTO
 
-NTO is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tonhalle, Munich on Fri, 6 Nov 2026.
+NTO is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Tonhalle, Munich on Fri, 6 Nov 2026.
 
 NTO is a techno and house artist based in France, with 144 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Tonhalle, Munich on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ NTO is a techno and house artist based in France, with 144 gigs on soundcheck ac
 
 Prismode, Solvane, Joachim Pastor
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

@@ -1,6 +1,6 @@
 # SOLARYTHM
 
-SOLARYTHM is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Funke, Ghent on Sat, 21 Nov 2026.
+SOLARYTHM is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Funke, Ghent on Sat, 21 Nov 2026.
 
 SOLARYTHM is a techno and ambient artist based in France, with 14 gigs on soundcheck across Berlin, Brussels, Ghent and London and 5 more. Often billed alongside Andy Pi, Aérienne and Bobbi Watson. Next up: Funke, Ghent on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SOLARYTHM is a techno and ambient artist based in France, with 14 gigs on soundc
 
 Andy Pi, Aérienne, Bobbi Watson
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solarythm/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solarythm/)*

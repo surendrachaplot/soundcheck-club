@@ -1,6 +1,6 @@
 # Brizman
 
-Brizman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Thu, 12 Nov 2026.
+Brizman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Thu, 12 Nov 2026.
 
 Brizman is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin, Geneva, Poznan and Prague. Often billed alongside Edgar Peng, Nils Ohrmann and Tripmastaz. Next up: Golden Gate, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Brizman is a techno and house artist based in Germany, with 33 gigs on soundchec
 
 Edgar Peng, Nils Ohrmann, Tripmastaz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brizman/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brizman/)*

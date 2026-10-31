@@ -1,6 +1,6 @@
 # jmo corleone
 
-jmo corleone is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
+jmo corleone is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
 
 jmo corleone is a club and techno artist based in United States of America, with 39 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside ZZ, 40split and Just Another Bitch. Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ jmo corleone is a club and techno artist based in United States of America, with
 
 ZZ (4), 40split, Just Another Bitch
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmocorleone/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jmocorleone/)*

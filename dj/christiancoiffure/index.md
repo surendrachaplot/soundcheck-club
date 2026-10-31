@@ -1,6 +1,6 @@
 # Christian Coiffure
 
-Christian Coiffure is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Macadam, Nantes on Sat, 28 Nov 2026.
+Christian Coiffure is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Macadam, Nantes on Sat, 28 Nov 2026.
 
 Christian Coiffure is a techno and bass artist, with 22 gigs on soundcheck across Berlin, Bristol, Brussels and Lisbon and 6 more. Often billed alongside Konduku, Souzo and livwutang. Next up: Macadam, Nantes on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Christian Coiffure is a techno and bass artist, with 22 gigs on soundcheck acros
 
 Konduku, Souzo, livwutang
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christiancoiffure/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christiancoiffure/)*

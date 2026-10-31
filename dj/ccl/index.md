@@ -1,14 +1,13 @@
 # CCL
 
-CCL is a Techno and Bass artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 30 Oct 2026.
+CCL is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at UMI, Brussels on Sat, 31 Oct 2026.
 
-CCL is a techno and bass artist based in United States of America, with 232 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 71 more. Often billed alongside Objekt, Eris Drew and Simo Cell. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 30 Oct.
+CCL is a techno and bass artist based in United States of America, with 232 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 71 more. Often billed alongside Objekt, Eris Drew and Simo Cell. Next up: UMI, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 31 Oct 2026 | UMI | Brussels |
 | Sat, 7 Nov 2026 | Argo16 | Venice |
 | Fri, 13 Nov 2026 | boomroom | Perth |
@@ -22,6 +21,7 @@ CCL is a techno and bass artist based in United States of America, with 232 gigs
 
 ## Recently played
 
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 30 Oct 2026
 - OHM, Berlin · Sun, 18 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 16 Oct 2026
 - Hotel Forum, Krakow · Sat, 10 Oct 2026
@@ -29,10 +29,9 @@ CCL is a techno and bass artist based in United States of America, with 232 gigs
 - The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
-- TBA, Montreal · Sun, 20 Sept 2026
 
 ## Shares bills with
 
 Objekt, Eris Drew, Simo Cell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccl/)*

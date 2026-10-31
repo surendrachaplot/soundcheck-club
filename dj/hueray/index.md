@@ -1,6 +1,6 @@
 # Hue Ray
 
-Hue Ray is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
+Hue Ray is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 20 Nov 2026.
 
 Hue Ray is a techno and house artist based in Japan, with 75 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside E.O.U, Vís and arow. Next up: MIDNIGHT EAST, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Hue Ray is a techno and house artist based in Japan, with 75 gigs on soundcheck 
 
 E.O.U, Vís (1), arow
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hueray/)*

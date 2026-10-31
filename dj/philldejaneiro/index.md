@@ -1,6 +1,6 @@
 # Phill de Janeiro
 
-Phill de Janeiro is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
+Phill de Janeiro is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
 Phill de Janeiro is a house and tech house artist based in Brazil, with 104 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: The Cause, London on Sun 1 Nov.
 
@@ -29,4 +29,4 @@ Phill de Janeiro is a house and tech house artist based in Brazil, with 104 gigs
 
 Benji King, Jude Lenihan, Truly Madly
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philldejaneiro/)*

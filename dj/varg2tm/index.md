@@ -1,6 +1,6 @@
 # Varg²™
 
-Varg²™ is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nova PDX, Portland on Sat, 31 Oct 2026.
+Varg²™ is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Nova PDX, Portland on Sat, 31 Oct 2026.
 
 Varg²™ is a techno and experimental artist based in Sweden, with 43 gigs on soundcheck across Basel, Berlin, Brussels and Chicago and 18 more. Often billed alongside jamesjamesjames, Mechatok and Anthony Linell. Next up: Nova PDX, Portland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Varg²™ is a techno and experimental artist based in Sweden, with 43 gigs on s
 
 jamesjamesjames, Mechatok, Anthony Linell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*

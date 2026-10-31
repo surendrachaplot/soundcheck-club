@@ -1,6 +1,6 @@
 # kafuka naiki
 
-kafuka naiki is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at club asia, Tokyo on Mon, 2 Nov 2026.
+kafuka naiki is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at club asia, Tokyo on Mon, 2 Nov 2026.
 
 kafuka naiki is a bass and dubstep artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside Albino Sound, CITY1 and Dayzero. Next up: club asia, Tokyo on Mon 2 Nov.
 
@@ -19,4 +19,4 @@ kafuka naiki is a bass and dubstep artist based in Japan, with 3 gigs on soundch
 
 Albino Sound, CITY1, Dayzero
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafukanaiki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kafukanaiki/)*

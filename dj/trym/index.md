@@ -1,6 +1,6 @@
 # Trym
 
-Trym is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Trym is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Trym is a techno and trance artist based in France, with 216 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Arizona and 80 more. Often billed alongside Shlømo, Nico Moreno and Alignment. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -23,17 +23,17 @@ Trym is a techno and trance artist based in France, with 216 gigs on soundcheck 
 
 ## Recently played
 
+- NOS Event Center, Los Angeles · Fri, 30 Oct 2026
+- Westworld of Scottsdale, Arizona · Fri, 30 Oct 2026
 - Afas Live, Amsterdam · Sat, 24 Oct 2026
 - Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Sat, 17 Oct 2026
 - The Ivy, Sydney · Sat, 17 Oct 2026
 - D! Club, Lausanne · Fri, 25 Sept 2026
 - Studio Duplex, Hong Kong · Sat, 19 Sept 2026
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
-- TBA - Wasteland Festival, Cologne · Sat, 5 Sept 2026
-- New City Gas, Montreal · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Shlømo, Nico Moreno, Alignment
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trym/)*

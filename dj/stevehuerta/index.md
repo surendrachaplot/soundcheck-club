@@ -1,14 +1,13 @@
 # Huerta
 
-Huerta is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
+Huerta is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Strange Brew, Bristol on Sat, 14 Nov 2026.
 
-Huerta is a house and techno artist based in United States of America, with 137 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 49 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
+Huerta is a house and techno artist based in United States of America, with 137 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 49 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Strange Brew, Bristol on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 14 Nov 2026 | Strange Brew | Bristol |
 | Fri, 20 Nov 2026 | Salon Daomé | Montreal |
 | Fri, 27 Nov 2026 | TBA - DTLA | Los Angeles |
@@ -17,6 +16,7 @@ Huerta is a house and techno artist based in United States of America, with 137 
 
 ## Recently played
 
+- Seaseaclub Barcelona, Barcelona · Fri, 30 Oct 2026
 - Distrikt, Leeds · Sat, 17 Oct 2026
 - Haus der Visionäre, Berlin · Thu, 8 Oct 2026
 - Oven Club, Valencia · Fri, 2 Oct 2026
@@ -24,10 +24,9 @@ Huerta is a house and techno artist based in United States of America, with 137 
 - The Loft, Manchester · Sat, 12 Sept 2026
 - BRET, Amsterdam · Sat, 5 Sept 2026
 - Mitsuki, Tokyo · Fri, 21 Aug 2026
-- Circus Osaka, Osaka · Thu, 20 Aug 2026
 
 ## Shares bills with
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

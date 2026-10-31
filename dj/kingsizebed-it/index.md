@@ -1,6 +1,6 @@
 # Kingsizebed
 
-Kingsizebed is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ÆDEN, Berlin on Sat, 31 Oct 2026.
+Kingsizebed is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ÆDEN, Berlin on Sat, 31 Oct 2026.
 
 Kingsizebed is a house and techno artist based in Italy, with 61 gigs on soundcheck across Athens, Berlin, Bologna and Brussels and 4 more. Often billed alongside Aaron Blau, R.ocks and 131bpm. Next up: ÆDEN, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Kingsizebed is a house and techno artist based in Italy, with 61 gigs on soundch
 
 Aaron Blau, R.ocks, 131bpm
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsizebed-it/)*

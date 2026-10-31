@@ -1,6 +1,6 @@
 # Kabeaushé
 
-Kabeaushé is a Experimental and Pop artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Lune des Pirates, North on Sat, 31 Oct 2026.
+Kabeaushé is a Experimental and Pop artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Lune des Pirates, North on Sat, 31 Oct 2026.
 
 Kabeaushé is an experimental and pop artist based in Kenya, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside HAAi, TAAHLIAH and Adrian Sherwood. Next up: La Lune des Pirates, North on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Kabeaushé is an experimental and pop artist based in Kenya, with 26 gigs on sou
 
 HAAi, TAAHLIAH, Adrian Sherwood
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabeaushe/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabeaushe/)*

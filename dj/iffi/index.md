@@ -1,6 +1,6 @@
 # iffi
 
-iffi is a Bass and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
+iffi is a Bass and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
 
 iffi is a bass and latin bass artist based in Poland, with 55 gigs on soundcheck across Krakow, Mexico City, Poznan and Warsaw. Often billed alongside Some Guest, faron and Taan. Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ iffi is a bass and latin bass artist based in Poland, with 55 gigs on soundcheck
 
 Some Guest, faron, Taan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iffi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iffi/)*

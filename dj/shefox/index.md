@@ -1,6 +1,6 @@
 # shefox
 
-shefox is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 14 Nov 2026.
+shefox is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 14 Nov 2026.
 
 shefox is a bass and club artist, with 11 gigs on soundcheck across Marseille. Often billed alongside Racing Nokia, 42L and Aasi. Next up: Le Chapiteau - Marseille, Marseille on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ shefox is a bass and club artist, with 11 gigs on soundcheck across Marseille. O
 
 Racing Nokia, 42L (1), Aasi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shefox/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shefox/)*

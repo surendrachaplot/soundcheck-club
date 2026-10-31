@@ -1,6 +1,6 @@
 # DiLLZ
 
-DiLLZ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Gibson Street Bar, Austin on Sat, 31 Oct 2026.
+DiLLZ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Gibson Street Bar, Austin on Sat, 31 Oct 2026.
 
 DiLLZ is a house and disco artist, with 14 gigs on soundcheck across Austin. Often billed alongside 2Tall, Friendzone and Julian Abam. Next up: TBA - Gibson Street Bar, Austin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DiLLZ is a house and disco artist, with 14 gigs on soundcheck across Austin. Oft
 
 2Tall, Friendzone, Julian Abam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dillz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dillz/)*

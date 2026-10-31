@@ -1,6 +1,6 @@
 # Doc Brown
 
-Doc Brown is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Doc Brown is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Doc Brown is a tech house and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, London, Miami and New York City and 1 more. Often billed alongside Nicole Fiallo, Essential Freaks and Redux Saints. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Doc Brown is a tech house and house artist based in United States of America, wi
 
 Nicole Fiallo, Essential Freaks, Redux Saints
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docbrown/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/docbrown/)*

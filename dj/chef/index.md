@@ -1,6 +1,6 @@
 # CHEF
 
-CHEF is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
+CHEF is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
 
 CHEF is a jungle and bass artist, with 14 gigs on soundcheck across London, Melbourne, Milan and Osaka and 1 more. Often billed alongside Hughesee, IC3 and Louise Plus One. Next up: La Java, Paris on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ CHEF is a jungle and bass artist, with 14 gigs on soundcheck across London, Melb
 
 Hughesee, IC3, Louise Plus One
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chef/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chef/)*

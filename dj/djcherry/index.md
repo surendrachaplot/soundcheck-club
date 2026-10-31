@@ -1,6 +1,6 @@
 # Dj Cherry
 
-Dj Cherry is a Techno and Dembow artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Avda/ Mediterrani,24 17300 Blanes, Barcelona on Sat, 14 Nov 2026.
+Dj Cherry is a Techno and Dembow artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Avda/ Mediterrani,24 17300 Blanes, Barcelona on Sat, 14 Nov 2026.
 
 Dj Cherry is a techno and dembow artist based in Spain, with 10 gigs on soundcheck across Barcelona, Ibiza and San Francisco/Oakland. Often billed alongside Kleyver Reyes, 3Letters and DJ JUANNY. Next up: TBA - Avda/ Mediterrani,24 17300 Blanes, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dj Cherry is a techno and dembow artist based in Spain, with 10 gigs on soundche
 
 Kleyver Reyes, 3Letters, DJ JUANNY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcherry/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djcherry/)*

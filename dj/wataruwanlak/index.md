@@ -1,6 +1,6 @@
 # Wataru Wanlak
 
-Wataru Wanlak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Disco Eddie's, Tokyo on Fri, 20 Nov 2026.
+Wataru Wanlak is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Disco Eddie's, Tokyo on Fri, 20 Nov 2026.
 
 Wataru Wanlak is a house and techno artist based in Japan, with 83 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside Remi Ohsugi, Hackmarkt and Leefia. Next up: Disco Eddie's, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Wataru Wanlak is a house and techno artist based in Japan, with 83 gigs on sound
 
 Remi Ohsugi, Hackmarkt, Leefia
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataruwanlak/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataruwanlak/)*

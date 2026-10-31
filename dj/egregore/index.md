@@ -1,6 +1,6 @@
 # Egregore
 
-Egregore is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Egregore is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 Egregore is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Beijing, Berlin, Brussels and Chengdu and 10 more. Often billed alongside DINA, David Fogarty and Sound Metaphors Djs. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Egregore is a techno and trance artist based in Germany, with 41 gigs on soundch
 
 DINA, David Fogarty, Sound Metaphors Djs
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egregore/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egregore/)*

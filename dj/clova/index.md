@@ -1,6 +1,6 @@
 # CLOVA
 
-CLOVA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+CLOVA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 CLOVA is a techno and club artist based in United Kingdom, with 12 gigs on soundcheck across Auckland, Glasgow and North Island. Often billed alongside Nessy, Benjaminaudio. and K-LUB. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -26,4 +26,4 @@ CLOVA is a techno and club artist based in United Kingdom, with 12 gigs on sound
 
 Nessy, Benjaminaudio., K-LUB
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clova/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clova/)*

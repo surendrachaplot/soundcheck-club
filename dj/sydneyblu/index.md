@@ -1,6 +1,6 @@
 # Sydney Blu
 
-Sydney Blu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wiggle Room, Toronto on Fri, 20 Nov 2026.
+Sydney Blu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Wiggle Room, Toronto on Fri, 20 Nov 2026.
 
 Sydney Blu is a house and tech house artist based in Canada, with 46 gigs on soundcheck across Amsterdam, Berlin, Detroit and Ibiza and 10 more. Often billed alongside SHERA, Videri and RUDEE NIK. Next up: Wiggle Room, Toronto on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Sydney Blu is a house and tech house artist based in Canada, with 46 gigs on sou
 
 SHERA, Videri, RUDEE NIK
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyblu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sydneyblu/)*

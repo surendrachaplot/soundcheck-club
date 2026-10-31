@@ -1,6 +1,6 @@
 # Romare
 
-Romare is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Band on the Wall, Manchester on Thu, 5 Nov 2026.
+Romare is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Band on the Wall, Manchester on Thu, 5 Nov 2026.
 
 Romare is a house and electronica artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Austin, Berlin and Brighton and 28 more. Often billed alongside Nightmares on Wax, Tamati and Tarzsa. Next up: Band on the Wall, Manchester on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Romare is a house and electronica artist based in United Kingdom, with 85 gigs o
 
 Nightmares on Wax, Tamati, Tarzsa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/romare/)*

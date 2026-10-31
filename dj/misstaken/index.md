@@ -1,19 +1,19 @@
 # MISSTAKEN
 
-MISSTAKEN is a Techno and Gabber artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OST, Berlin on Fri, 30 Oct 2026.
+MISSTAKEN is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 31 Oct 2026.
 
-MISSTAKEN is a techno and gabber artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Stinny Stone, Cobb Douglas and DJ Henk. Next up: OST, Berlin on Fri 30 Oct.
+MISSTAKEN is a techno and gabber artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Stinny Stone, Cobb Douglas and DJ Henk. Next up: Lokschuppen Berlin, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | OST | Berlin |
 | Sat, 31 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sun, 27 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
+- OST, Berlin · Fri, 30 Oct 2026
 - ÆDEN, Berlin · Thu, 6 Aug 2026
 - Lokschuppen Berlin, Berlin · Sun, 21 Jun 2026
 - Lokschuppen Berlin, Berlin · Sun, 14 Jun 2026
@@ -23,4 +23,4 @@ MISSTAKEN is a techno and gabber artist based in Germany, with 7 gigs on soundch
 
 Stinny Stone, Cobb Douglas, DJ Henk
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstaken/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misstaken/)*

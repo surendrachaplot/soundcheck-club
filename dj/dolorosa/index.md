@@ -1,6 +1,6 @@
 # Dolorosa
 
-Dolorosa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Absenta del Raval, Barcelona on Sat, 31 Oct 2026.
+Dolorosa is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Absenta del Raval, Barcelona on Sat, 31 Oct 2026.
 
 Dolorosa is a techno and electro artist based in Uruguay, with 14 gigs on soundcheck across Austin, Barcelona, Berlin and London. Often billed alongside Ed Warner, DJ KILLING and Devesa. Next up: Absenta del Raval, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dolorosa is a techno and electro artist based in Uruguay, with 14 gigs on soundc
 
 Ed Warner, DJ KILLING, Devesa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolorosa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dolorosa/)*

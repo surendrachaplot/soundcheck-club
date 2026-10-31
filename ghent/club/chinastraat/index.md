@@ -1,6 +1,6 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sweet Nothing Daytime Warehouse - Afterparty" on Sat, 31 Oct 2026.
+Chinastraat is a music venue in Ghent with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Sweet Nothing Daytime Warehouse - Afterparty" on Sat, 31 Oct 2026.
 
 Chinastraat is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, with line-ups including Alain, Amalie, Amotik and Arthur Robert and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
@@ -21,4 +21,4 @@ Chinastraat is a music venue in Ghent listed on soundcheck. 8 upcoming gigs, wit
 
 Chinastraat 1, 9000 Ghent, Ghent
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/chinastraat/)*

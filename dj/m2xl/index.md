@@ -1,6 +1,6 @@
 # M2XL
 
-M2XL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+M2XL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
 
 M2XL is a techno and electro artist based in South Korea, with 29 gigs on soundcheck across Seoul. Often billed alongside YXXN, Kuro and JAMIEST. Next up: Blank Site, Seoul on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ M2XL is a techno and electro artist based in South Korea, with 29 gigs on soundc
 
 ## Recently played
 
+- Blank Site, Seoul · Fri, 30 Oct 2026
 - Cakeshop, Seoul · Sat, 15 Aug 2026
 - Blank Site, Seoul · Fri, 14 Aug 2026
 - Shelter, Seoul · Fri, 10 Jul 2026
@@ -19,10 +20,9 @@ M2XL is a techno and electro artist based in South Korea, with 29 gigs on soundc
 - Blank Site, Seoul · Fri, 19 Jun 2026
 - BBCB: Beton Brut+Concrete Bar, Seoul · Sat, 9 May 2026
 - BBCB: Beton Brut+Concrete Bar, Seoul · Fri, 24 Apr 2026
-- BBCB: Beton Brut+Concrete Bar, Seoul · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 YXXN, Kuro, JAMIEST
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m2xl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m2xl/)*

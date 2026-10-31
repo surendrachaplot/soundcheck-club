@@ -1,6 +1,6 @@
 # Chinonegro
 
-Chinonegro is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Casa Real Getsemani Cartagena, Colombia on Sat, 14 Nov 2026.
+Chinonegro is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Casa Real Getsemani Cartagena, Colombia on Sat, 14 Nov 2026.
 
 Chinonegro is a tech house and house artist based in Peru, with 36 gigs on soundcheck across Amsterdam, Austin, Barcelona and Buenos Aires and 16 more. Often billed alongside BLOND:ISH, Ammo Avenue and Luuk van Dijk. Next up: Casa Real Getsemani Cartagena, Colombia on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Chinonegro is a tech house and house artist based in Peru, with 36 gigs on sound
 
 BLOND:ISH, Ammo Avenue, Luuk van Dijk
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinonegro/)*

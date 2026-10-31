@@ -1,6 +1,6 @@
 # elbonitosounds
 
-elbonitosounds is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Casa De La Luna, Medellin on Sun, 1 Nov 2026.
+elbonitosounds is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Casa De La Luna, Medellin on Sun, 1 Nov 2026.
 
 elbonitosounds is a techno and house artist, with 50 gigs on soundcheck across Medellin. Often billed alongside Emma Yasumi, T.D.D and Violeta Villa. Next up: Casa De La Luna, Medellin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ elbonitosounds is a techno and house artist, with 50 gigs on soundcheck across M
 
 Emma Yasumi, T.D.D, Violeta Villa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elbonitosounds/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elbonitosounds/)*

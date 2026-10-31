@@ -1,6 +1,6 @@
 # Awesome Tapes From Africa
 
-Awesome Tapes From Africa is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Fox and Firkin, London on Fri, 22 Jan 2027.
+Awesome Tapes From Africa is a Afrobeat and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Fox and Firkin, London on Fri, 22 Jan 2027.
 
 Awesome Tapes From Africa is an afrobeat and house artist based in United States of America, with 35 gigs on soundcheck across Baltimore, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside 2THEMAX, Adam Shelton and Alexa D!saster. Next up: The Fox and Firkin, London on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Awesome Tapes From Africa is an afrobeat and house artist based in United States
 
 2THEMAX, Adam Shelton, Alexa D!saster
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awesometapesfromafrica/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awesometapesfromafrica/)*

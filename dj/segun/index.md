@@ -1,6 +1,6 @@
 # Segun
 
-Segun is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Das Zimmer, Mannheim on Sat, 14 Nov 2026.
+Segun is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Das Zimmer, Mannheim on Sat, 14 Nov 2026.
 
 Segun is a techno and trance artist, with 35 gigs on soundcheck across Berlin, Dresden, London and Mannheim. Often billed alongside Kopflos, A.I.F.O.S. and DaSoMaZo. Next up: Das Zimmer, Mannheim on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Segun is a techno and trance artist, with 35 gigs on soundcheck across Berlin, D
 
 Kopflos, A.I.F.O.S., DaSoMaZo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/segun/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/segun/)*

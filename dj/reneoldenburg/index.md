@@ -1,6 +1,6 @@
 # Rene Oldenburg
 
-Rene Oldenburg is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at AMT, Berlin on Fri, 6 Nov 2026.
+Rene Oldenburg is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at AMT, Berlin on Fri, 6 Nov 2026.
 
 Rene Oldenburg is a techno and tech house artist based in Germany, with 25 gigs on soundcheck across Berlin. Often billed alongside Milk N Coffee, Somaphon and Honschu Lee. Next up: AMT, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rene Oldenburg is a techno and tech house artist based in Germany, with 25 gigs 
 
 Milk N Coffee, Somaphon, Honschu Lee
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reneoldenburg/)*

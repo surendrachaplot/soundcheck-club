@@ -1,6 +1,6 @@
 # NIX (3)
 
-NIX (3) is a Electro and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - LFO, Madrid on Fri, 13 Nov 2026.
+NIX (3) is a Electro and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - LFO, Madrid on Fri, 13 Nov 2026.
 
 NIX is an electro and trance artist, with 9 gigs on soundcheck across Barcelona, Madrid, Malaga and Valencia. Often billed alongside LVL1, Natural Language and Alputo. Next up: TBA - LFO, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ NIX is an electro and trance artist, with 9 gigs on soundcheck across Barcelona,
 
 LVL1, Natural Language, Alputo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nix-3/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nix-3/)*

@@ -1,6 +1,6 @@
 # Efdemin
 
-Efdemin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gaffe, London on Fri, 6 Nov 2026.
+Efdemin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Gaffe, London on Fri, 6 Nov 2026.
 
 Efdemin is a techno and house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside Polygonia, Steffi and Quelza. Next up: Gaffe, London on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Efdemin is a techno and house artist based in Germany, with 133 gigs on soundche
 
 Polygonia, Steffi, Quelza
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/efdemin/)*

@@ -1,6 +1,6 @@
 # Isis Moray
 
-Isis Moray is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Grub Records, Sheffield on Fri, 13 Nov 2026.
+Isis Moray is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Grub Records, Sheffield on Fri, 13 Nov 2026.
 
 Isis Moray is a techno and electronica artist based in United Kingdom, with 9 gigs on soundcheck across Birmingham, Leeds and Sheffield. Often billed alongside Alarico, CL:ARK and Cimmerian. Next up: Grub Records, Sheffield on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Isis Moray is a techno and electronica artist based in United Kingdom, with 9 gi
 
 Alarico, CL:ARK, Cimmerian
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isismoray/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isismoray/)*

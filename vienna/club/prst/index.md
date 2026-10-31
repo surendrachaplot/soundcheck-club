@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN at PRST Club with Camion Bazar & Franziska Berns" on Sat, 31 Oct 2026.
+PRST is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLOWEEN at PRST Club with Camion Bazar & Franziska Berns" on Sat, 31 Oct 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Andre Zimmer, Andy Catana, Anni Herzer and Apua and 2 more. See dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -18,4 +18,4 @@ PRST is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

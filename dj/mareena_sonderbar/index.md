@@ -1,6 +1,6 @@
 # Mareena
 
-Mareena is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Circus Osaka, Osaka on Sat, 31 Oct 2026.
+Mareena is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Circus Osaka, Osaka on Sat, 31 Oct 2026.
 
 Mareena is a techno and house artist based in Germany, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside Kerrie, JakoJako and Stojche. Next up: Circus Osaka, Osaka on Sat 31 Oct.
 
@@ -16,6 +16,7 @@ Mareena is a techno and house artist based in Germany, with 132 gigs on soundche
 
 ## Recently played
 
+- Circus Tokyo, Tokyo · Fri, 30 Oct 2026
 - Saloon, Tokyo · Thu, 29 Oct 2026
 - Drugstore Beograd, Belgrade · Fri, 23 Oct 2026
 - ∄, Kyiv · Sat, 10 Oct 2026
@@ -23,10 +24,9 @@ Mareena is a techno and house artist based in Germany, with 132 gigs on soundche
 - Tresor / Globus, Berlin · Sat, 26 Sept 2026
 - Hive Club, Zurich · Fri, 25 Sept 2026
 - Barragem da Queimadela, Porto · Thu, 10 Sept 2026
-- SMUT Athens, Athens · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Kerrie, JakoJako, Stojche
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mareena_sonderbar/)*

@@ -1,6 +1,6 @@
 # Vidaloca
 
-Vidaloca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Vidaloca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Vidaloca is a tech house and house artist based in Spain, with 84 gigs on soundcheck across Amsterdam, Barcelona, Bologna and Buenos Aires and 9 more. Often billed alongside Pau Guilera, DIROS and Abdon. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Vidaloca is a tech house and house artist based in Spain, with 84 gigs on soundc
 
 Pau Guilera, DIROS, Abdon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vidaloca-es/)*

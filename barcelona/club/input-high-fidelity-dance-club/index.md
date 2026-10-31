@@ -1,14 +1,13 @@
 # INPUT High Fidelity Dance Club
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "INPUT pres Luciid" on Fri, 30 Oct 2026.
+INPUT High Fidelity Dance Club is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "PRISM pres HALLOWEEN with Quelza, JUAAN" on Sat, 31 Oct 2026.
 
-INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Ammo Avenue, Beste Hira, Chinonegro and Chris Avantgarde and 2 more. See dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
+INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Ammo Avenue, Beste Hira, Chinonegro and Chris Avantgarde and 2 more. See dates, start times and who's playing. Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | INPUT pres Luciid | Luciid |
 | Sat, 31 Oct 2026 | PRISM pres HALLOWEEN with Quelza, JUAAN | Quelza |
 | Fri, 6 Nov 2026 | INPUT pres MR BELT & WEZOL | Mr. Belt & Wezol |
 | Fri, 6 Nov 2026 | INPUT pres Mika Heggemann | Mika Heggemann |
@@ -18,9 +17,10 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Sat, 21 Nov 2026 | INPUT pres L.P RHYTHM | L.P. Rhythm |
 | Fri, 27 Nov 2026 | INPUT pres Shonky All Night Long | Shonky |
 | Sat, 28 Nov 2026 | ONíRICA pres Chris Avantgarde | Chris Avantgarde, Oriol Calvo |
+| Fri, 4 Dec 2026 | PRISM Hard pres OGUZ | OGUZ |
 
 ## Address
 
 Avenida de Francesc Ferrer i Guàrdia, 13-27; 08038 Barcelona; Spain, Barcelona
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/input-high-fidelity-dance-club/)*

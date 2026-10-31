@@ -1,6 +1,6 @@
 # Wallace
 
-Wallace is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Eiger Studios, Leeds on Thu, 12 Nov 2026.
+Wallace is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Eiger Studios, Leeds on Thu, 12 Nov 2026.
 
 Wallace is a house and techno artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Bergen and 35 more. Often billed alongside Bradley Zero, Gallegos and Moxie. Next up: Eiger Studios, Leeds on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Wallace is a house and techno artist based in United Kingdom, with 87 gigs on so
 
 Bradley Zero, Gallegos, Moxie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wallace/)*

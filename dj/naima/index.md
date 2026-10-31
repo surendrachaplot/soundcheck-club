@@ -1,6 +1,6 @@
 # Naima
 
-Naima is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sigurd CPH, Copenhagen on Sat, 28 Nov 2026.
+Naima is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sigurd CPH, Copenhagen on Sat, 28 Nov 2026.
 
 Naima is a techno and house artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Hamburg and 5 more. Often billed alongside CARISTA, Carlos Valdes and Garnett. Next up: Sigurd CPH, Copenhagen on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Naima is a techno and house artist based in Netherlands, with 19 gigs on soundch
 
 CARISTA, Carlos Valdes, Garnett
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naima/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naima/)*

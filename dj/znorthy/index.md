@@ -1,6 +1,6 @@
 # znorthy
 
-znorthy is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 27 Nov 2026.
+znorthy is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 27 Nov 2026.
 
 znorthy is a club and techno artist based in United States of America, with 73 gigs on soundcheck across Baltimore, Bogotá, New York City and Richmond and 1 more. Often billed alongside Franxx, GET FACE and Gabberbitch69. Next up: TRANSMISSION DC, Washington DC on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ znorthy is a club and techno artist based in United States of America, with 73 g
 
 Franxx, GET FACE, Gabberbitch69
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/znorthy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/znorthy/)*

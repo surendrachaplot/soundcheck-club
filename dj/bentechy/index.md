@@ -1,6 +1,6 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+Ben Techy is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
 Ben Techy is a techno and industrial artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 32 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
@@ -21,6 +21,7 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 58 gig
 
 ## Recently played
 
+- La Cubierta de Leganés, Madrid · Fri, 30 Oct 2026
 - BASIS, Utrecht · Sat, 24 Oct 2026
 - Afas Live, Amsterdam · Sat, 24 Oct 2026
 - MÄX, Zurich · Fri, 16 Oct 2026
@@ -28,10 +29,9 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 58 gig
 - Indiego Glocksee, Hannover · Sat, 3 Oct 2026
 - OST, Berlin · Sat, 26 Sept 2026
 - TBA - PETER-GROSS-BAU AREAL , Karlsruhe · Fri, 18 Sept 2026
-- Essigfabrik, Cologne · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Raxeller, SANTØS, KARAH
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

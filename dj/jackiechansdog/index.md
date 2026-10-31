@@ -1,6 +1,6 @@
 # JACKIECHANSDOG
 
-JACKIECHANSDOG is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 20 Nov 2026.
+JACKIECHANSDOG is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 20 Nov 2026.
 
 JACKIECHANSDOG is a club and ghetto tech artist, with 23 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Mooncrumb, CYB3R T0NIN and DJ KORIS. Next up: Sinners and Saints, Washington DC on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ JACKIECHANSDOG is a club and ghetto tech artist, with 23 gigs on soundcheck acro
 
 Mooncrumb, CYB3R T0NIN, DJ KORIS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiechansdog/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiechansdog/)*

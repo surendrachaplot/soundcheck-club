@@ -1,6 +1,6 @@
 # DJ NECO
 
-DJ NECO is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 5 Dec 2026.
+DJ NECO is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 5 Dec 2026.
 
 DJ NECO is a progressive house and techno artist based in Japan, with 26 gigs on soundcheck across Tokyo. Often billed alongside Kamekawa, Shingo Nakamura and Conures (DJ Tokunaga). Next up: ZEROTOKYO, Tokyo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ NECO is a progressive house and techno artist based in Japan, with 26 gigs on
 
 Kamekawa, Shingo Nakamura, Conures (DJ Tokunaga)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djneco/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djneco/)*

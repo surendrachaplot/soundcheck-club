@@ -1,13 +1,14 @@
 # Baby Alcatraz
 
-Baby Alcatraz is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lithuanian Hall, Baltimore on Sat, 7 Nov 2026.
+Baby Alcatraz is a Funk / Soul and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Suns Cinema, Washington DC on Sat, 31 Oct 2026.
 
-Baby Alcatraz is a funk / soul and r&b artist, with 27 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside That Rob Macy, Rhythm and SugarNasty. Next up: Lithuanian Hall, Baltimore on Sat 7 Nov.
+Baby Alcatraz is a funk / soul and r&b artist, with 28 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside That Rob Macy, Rhythm and SugarNasty. Next up: Suns Cinema, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Suns Cinema | Washington DC |
 | Sat, 7 Nov 2026 | Lithuanian Hall | Baltimore |
 
 ## Recently played
@@ -25,4 +26,4 @@ Baby Alcatraz is a funk / soul and r&b artist, with 27 gigs on soundcheck across
 
 That Rob Macy, Rhythm (1), SugarNasty
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyalcatraz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyalcatraz/)*

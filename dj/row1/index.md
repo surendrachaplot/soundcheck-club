@@ -1,6 +1,6 @@
 # ROW1
 
-ROW1 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OST, Berlin on Fri, 6 Nov 2026.
+ROW1 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at OST, Berlin on Fri, 6 Nov 2026.
 
 ROW1 is a techno and trance artist based in Belgium, with 20 gigs on soundcheck across Antwerp, Barcelona, Basel and Berlin and 12 more. Often billed alongside CALLUSH, NOVAH and ALT8. Next up: OST, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ ROW1 is a techno and trance artist based in Belgium, with 20 gigs on soundcheck 
 
 CALLUSH, NOVAH, ALT8
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/row1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/row1/)*

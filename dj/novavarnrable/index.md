@@ -1,6 +1,6 @@
 # Nova Varnrable
 
-Nova Varnrable is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at RUST, Copenhagen on Tue, 3 Nov 2026.
+Nova Varnrable is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at RUST, Copenhagen on Tue, 3 Nov 2026.
 
 Nova Varnrable is an experimental and club artist, with 12 gigs on soundcheck across Belgrade, Berlin, Copenhagen and London and 3 more. Often billed alongside Alfredo92, Ciro Vitiello and Cliché Toupée. Next up: RUST, Copenhagen on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Nova Varnrable is an experimental and club artist, with 12 gigs on soundcheck ac
 
 Alfredo92, Ciro Vitiello, Cliché Toupée
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novavarnrable/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novavarnrable/)*

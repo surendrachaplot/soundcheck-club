@@ -1,6 +1,6 @@
 # M75
 
-M75 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Model, Nottingham on Fri, 6 Nov 2026.
+M75 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Model, Nottingham on Fri, 6 Nov 2026.
 
 M75 is a techno and bass artist based in United Kingdom, with 3 gigs on soundcheck across Nottingham. Often billed alongside Freshta, Jimmy Rocket and Siren GG. Next up: The Model, Nottingham on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ M75 is a techno and bass artist based in United Kingdom, with 3 gigs on soundche
 
 Freshta, Jimmy Rocket, Siren GG
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m75/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m75/)*

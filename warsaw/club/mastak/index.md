@@ -1,14 +1,13 @@
 # Mastak
 
-Mastak is a music venue in Warsaw with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Puha / Pridi" on Fri, 30 Oct 2026.
+Mastak is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLOWEEN: gathering of local scumbags" on Sat, 31 Oct 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Kosta, Inhaberin, Internal Observer and Kovvalsky and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Kosta, Inhaberin, Internal Observer and Kovvalsky and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Puha / Pridi | Pridi, Puha |
 | Sat, 31 Oct 2026 | HALLOWEEN: gathering of local scumbags | Alex Kosta, MARCUCCIO, Nana_k, Slava Bernat |
 | Sun, 1 Nov 2026 | SUNDAY: gnglsk |  |
 | Fri, 6 Nov 2026 | Pantano Libero 06 | Kovvalsky, Leona Jacewska |
@@ -18,9 +17,10 @@ Mastak is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with l
 | Sat, 14 Nov 2026 | Label Night |  |
 | Sat, 14 Nov 2026 | Mastak 2ND BIRTHDAY: DAY 2 - LABEL NIGHT |  |
 | Sat, 21 Nov 2026 | L.A.N.L. IV – Live Acts All Night Long IV | Internal Observer, Private Press |
+| Sat, 12 Dec 2026 | Label Night |  |
 
 ## Address
 
 Solec 81B, Wieżyca, 00-382 Warszawa, Warsaw
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/mastak/)*

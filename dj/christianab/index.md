@@ -1,6 +1,6 @@
 # Christian AB
 
-Christian AB is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
+Christian AB is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
 
 Christian AB is a techno and house artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 23 more. Often billed alongside Christian AB, Francesco Del Garda and Ogazón. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Christian AB is a techno and house artist based in United Kingdom, with 43 gigs 
 
 Christian AB, Francesco Del Garda, Ogazón
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

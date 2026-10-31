@@ -1,6 +1,6 @@
 # Park:ING
 
-Park:ING is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Park:ING is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 Park:ING is a house and techno artist, with 128 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 2 more. Often billed alongside BongBongQuayQuay, Anh Vy and Khoi Mai. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -27,4 +27,4 @@ Park:ING is a house and techno artist, with 128 gigs on soundcheck across Bangko
 
 BongBongQuayQuay, Anh Vy, Khoi Mai
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parking/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parking/)*

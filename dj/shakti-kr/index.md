@@ -1,6 +1,6 @@
 # Shakti (KR)
 
-Shakti (KR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Shakti (KR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 Shakti (KR) is a techno and house artist, with 68 gigs on soundcheck across Beijing, Berlin, Krakow and Lyon and 4 more. Often billed alongside Lucide, Kim.Qna and Berlin Bunny. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Shakti (KR) is a techno and house artist, with 68 gigs on soundcheck across Beij
 
 Lucide, Kim.Qna, Berlin Bunny
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti-kr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shakti-kr/)*

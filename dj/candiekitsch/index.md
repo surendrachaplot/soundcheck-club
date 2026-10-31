@@ -1,6 +1,6 @@
 # Candie Kitsch
 
-Candie Kitsch is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Neptune Room, Washington DC on Fri, 13 Nov 2026.
+Candie Kitsch is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Neptune Room, Washington DC on Fri, 13 Nov 2026.
 
 Candie Kitsch is a funk / soul and r&b artist based in United States of America, with 16 gigs on soundcheck across Washington DC. Next up: Neptune Room, Washington DC on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Candie Kitsch is a funk / soul and r&b artist based in United States of America,
 - Vagabond, Washington DC · Sun, 21 Jun 2026
 - Showtime Lounge, Washington DC · Fri, 12 Jun 2026
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candiekitsch/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candiekitsch/)*

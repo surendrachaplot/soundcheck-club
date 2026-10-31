@@ -1,6 +1,6 @@
 # Jacky Jeane
 
-Jacky Jeane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Unité.22, Marseille on Sat, 7 Nov 2026.
+Jacky Jeane is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Unité.22, Marseille on Sat, 7 Nov 2026.
 
 Jacky Jeane is a techno and house artist based in France, with 72 gigs on soundcheck across Berlin, Bordeaux, Brussels and Lyon and 4 more. Often billed alongside Sarcus Soundsystem, Ubik (Fr) and OLGA B.. Next up: Unité.22, Marseille on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jacky Jeane is a techno and house artist based in France, with 72 gigs on soundc
 
 Sarcus Soundsystem, Ubik (Fr), OLGA B.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyjeane/)*

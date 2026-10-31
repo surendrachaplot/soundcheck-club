@@ -1,6 +1,6 @@
 # ASHTATTZ
 
-ASHTATTZ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Colour Factory, London on Fri, 4 Dec 2026.
+ASHTATTZ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Colour Factory, London on Fri, 4 Dec 2026.
 
 ASHTATTZ is a house and disco artist based in Spain, with 16 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside Absoluut, Doppelgang and Protopapa. Next up: Colour Factory, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ASHTATTZ is a house and disco artist based in Spain, with 16 gigs on soundcheck 
 
 Absoluut, Doppelgang, Protopapa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtattz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ashtattz/)*

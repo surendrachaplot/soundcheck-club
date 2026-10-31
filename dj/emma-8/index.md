@@ -1,6 +1,6 @@
 # Emma (8)
 
-Emma (8) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 31 Oct 2026.
+Emma (8) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 31 Oct 2026.
 
 Emma is a techno and trance artist based in Germany, with 77 gigs on soundcheck across Berlin. Often billed alongside Epicx, TechNovaBader and Kopflos. Next up: Der Weiße Hase, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Emma is a techno and trance artist based in Germany, with 77 gigs on soundcheck 
 
 Epicx, TechNovaBader, Kopflos
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-8/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emma-8/)*

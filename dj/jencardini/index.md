@@ -1,14 +1,13 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DURO, Milan on Fri, 30 Oct 2026.
+Jen Cardini is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ÆDEN, Berlin on Sat, 31 Oct 2026.
 
-Jen Cardini is a techno and house artist based in France, with 290 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: DURO, Milan on Fri 30 Oct.
+Jen Cardini is a techno and house artist based in France, with 290 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: ÆDEN, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | DURO | Milan |
 | Sat, 31 Oct 2026 | ÆDEN | Berlin |
 | Sun, 1 Nov 2026 | Le Sucre | Lyon |
 | Sat, 7 Nov 2026 | REC Napoli | Naples |
@@ -21,6 +20,7 @@ Jen Cardini is a techno and house artist based in France, with 290 gigs on sound
 
 ## Recently played
 
+- DURO, Milan · Fri, 30 Oct 2026
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
@@ -28,10 +28,9 @@ Jen Cardini is a techno and house artist based in France, with 290 gigs on sound
 - Klaproos, Amsterdam · Thu, 22 Oct 2026
 - La Gaîté Lyrique, Paris · Sun, 18 Oct 2026
 - FOLD, London · Fri, 9 Oct 2026
-- Café Nuances  - Marais, Paris · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

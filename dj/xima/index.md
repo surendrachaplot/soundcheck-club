@@ -1,6 +1,6 @@
 # XIMA
 
-XIMA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 13 Nov 2026.
+XIMA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 13 Nov 2026.
 
 XIMA is a techno and trance artist based in Germany, with 128 gigs on soundcheck across Berlin, Hannover, Leipzig and Munich. Often billed alongside HØLLE, DJ TIPSTER and YOVA. Next up: Humboldthain Club, Berlin on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ XIMA is a techno and trance artist based in Germany, with 128 gigs on soundcheck
 
 HØLLE (2), DJ TIPSTER, YOVA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xima/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xima/)*

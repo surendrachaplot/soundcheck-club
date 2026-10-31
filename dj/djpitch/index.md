@@ -1,6 +1,6 @@
 # DJ Pitch
 
-DJ Pitch is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ormside Projects, London on Sat, 12 Dec 2026.
+DJ Pitch is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ormside Projects, London on Sat, 12 Dec 2026.
 
 DJ Pitch is a techno and club artist, with 53 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bristol and 17 more. Often billed alongside Simkin, Madjestic Kasual and Coe. Next up: Ormside Projects, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DJ Pitch is a techno and club artist, with 53 gigs on soundcheck across Amsterda
 
 Simkin, Madjestic Kasual, Coe (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpitch/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpitch/)*

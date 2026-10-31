@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Club Elevate 5th Birthday feat. Hotplate Vinyl Fair" on Sat, 31 Oct 2026.
+Solace is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Club Elevate 5th Birthday feat. Hotplate Vinyl Fair" on Sat, 31 Oct 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Afrodisiac, AMY., Andy Hart and Bex and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -17,4 +17,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

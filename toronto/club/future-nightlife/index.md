@@ -1,14 +1,13 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Damian Lazarus - Oct 30 inside Future - Halloween Fri" on Fri, 30 Oct 2026.
+Future Nightlife is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Afterlife - Halloween Night inside Future - Sat Oct 31" on Sat, 31 Oct 2026.
 
-Future Nightlife is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Wann, Damian Lazarus, Rafael Cerato and Rivo and 2 more. See dates, start times and who's playing. 570 Queen Street West.
+Future Nightlife is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Wann, Rafael Cerato, Rivo and Roger Sanchez and 1 more. See dates, start times and who's playing. 570 Queen Street West.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Damian Lazarus - Oct 30 inside Future - Halloween Fri | Damian Lazarus |
 | Sat, 31 Oct 2026 | Afterlife - Halloween Night inside Future - Sat Oct 31 |  |
 | Fri, 6 Nov 2026 | Alex Wann Takes Over Future - November 6 | Alex Wann |
 | Sat, 7 Nov 2026 | Alive Saturdays |  |
@@ -22,4 +21,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 9 upcoming gi
 
 570 Queen Street West, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

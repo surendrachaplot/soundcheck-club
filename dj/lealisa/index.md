@@ -1,6 +1,6 @@
 # Lea Lisa
 
-Lea Lisa is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
+Lea Lisa is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kater, Berlin on Sat, 5 Dec 2026.
 
 Lea Lisa is a house and electro artist based in Switzerland, with 78 gigs on soundcheck across Amsterdam, Berlin, Bristol and Frankfurt and 18 more. Often billed alongside Nahomi, Elliot Schooling and Kerri Chandler. Next up: Kater, Berlin on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ Lea Lisa is a house and electro artist based in Switzerland, with 78 gigs on sou
 
 Nahomi, Elliot Schooling, Kerri Chandler
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lealisa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lealisa/)*

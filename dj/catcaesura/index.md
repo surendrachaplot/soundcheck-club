@@ -1,6 +1,6 @@
 # Cat Caesura
 
-Cat Caesura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Rolling Stock, London on Fri, 27 Nov 2026.
+Cat Caesura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Rolling Stock, London on Fri, 27 Nov 2026.
 
 Cat Caesura is a techno and house artist based in United Kingdom, with 3 gigs on soundcheck across Bristol and London. Often billed alongside Tribal, Larnie and Luchik. Next up: Rolling Stock, London on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Cat Caesura is a techno and house artist based in United Kingdom, with 3 gigs on
 
 Tribal, Larnie, Luchik
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catcaesura/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/catcaesura/)*

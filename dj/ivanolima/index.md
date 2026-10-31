@@ -1,6 +1,6 @@
 # Iváno Lima
 
-Iváno Lima is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Prysm Nightclub, Chicago on Fri, 20 Nov 2026.
+Iváno Lima is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Prysm Nightclub, Chicago on Fri, 20 Nov 2026.
 
 Iváno Lima is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Chicago and New York City. Often billed alongside Chelita, Miguel Ante and Tre Daniels. Next up: Prysm Nightclub, Chicago on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Iváno Lima is a house and techno artist based in United States of America, with
 
 Chelita, Miguel Ante, Tre Daniels
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanolima/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanolima/)*

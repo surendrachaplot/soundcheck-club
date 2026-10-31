@@ -1,6 +1,6 @@
 # Toru Ikemoto
 
-Toru Ikemoto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OXI, Berlin on Sat, 31 Oct 2026.
+Toru Ikemoto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at OXI, Berlin on Sat, 31 Oct 2026.
 
 Toru Ikemoto is a techno and house artist based in Japan, with 35 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Dortmund / Essen and 10 more. Often billed alongside DJ HI-C, TENO and DJ MARIA.. Next up: OXI, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Toru Ikemoto is a techno and house artist based in Japan, with 35 gigs on soundc
 
 DJ HI-C, TENO, DJ MARIA.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toruikemoto/)*

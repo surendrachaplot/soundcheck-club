@@ -1,6 +1,6 @@
 # Eklekt1k
 
-Eklekt1k is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lauschangriff, Berlin on Thu, 5 Nov 2026.
+Eklekt1k is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lauschangriff, Berlin on Thu, 5 Nov 2026.
 
 Eklekt1k is a bass and dubstep artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Hovercat, Dub Isotope and Matryoschka. Next up: Lauschangriff, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Eklekt1k is a bass and dubstep artist based in Germany, with 14 gigs on soundche
 
 Hovercat, Dub Isotope, Matryoschka
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eklekt1k/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eklekt1k/)*

@@ -1,6 +1,6 @@
 # Juan Buitrago
 
-Juan Buitrago is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Somewhere Special, Los Angeles on Sun, 6 Dec 2026.
+Juan Buitrago is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Somewhere Special, Los Angeles on Sun, 6 Dec 2026.
 
 Juan Buitrago is a progressive house and deep house artist based in Colombia, with 19 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Los Angeles and 1 more. Often billed alongside Around Us, Antrim and Callecat. Next up: Somewhere Special, Los Angeles on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Juan Buitrago is a progressive house and deep house artist based in Colombia, wi
 
 Around Us, Antrim, Callecat
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanbuitrago/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanbuitrago/)*

@@ -1,6 +1,6 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at WOMB, Tokyo on Sat, 31 Oct 2026.
+Craig Richards is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at WOMB, Tokyo on Sat, 31 Oct 2026.
 
 Craig Richards is a house and techno artist based in United Kingdom, with 166 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: WOMB, Tokyo on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Craig Richards is a house and techno artist based in United Kingdom, with 166 gi
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

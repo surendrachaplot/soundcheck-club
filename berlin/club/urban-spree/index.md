@@ -1,15 +1,13 @@
 # Urban Spree
 
-Urban Spree is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Escape with Romeo + The Calm Grey // Urban Spree, Berlin" on Fri, 30 Oct 2026.
+Urban Spree is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Bragolin + Carrellee // Urban Spree, Berlin" on Thu, 19 Nov 2026.
 
-Urban Spree is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Darin Epsilon, Gareden, Philipp Strobel and SCHNEIDER and 2 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
+Urban Spree is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Darin Epsilon, Gareden, Philipp Strobel and SCHNEIDER and 1 more. See dates, start times and who's playing. Revaler Str. 99, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Escape with Romeo + The Calm Grey // Urban Spree, Berlin |  |
-| Fri, 30 Oct 2026 | Urban Spree KLUBNACHT (Dj Tower, Slak) | Slak |
 | Thu, 19 Nov 2026 | Bragolin + Carrellee // Urban Spree, Berlin |  |
 | Fri, 20 Nov 2026 | Process Party x Effetto Notte: Hall of Bats with Lovataraxx, Hysteric Helen, Olgha |  |
 | Sun, 22 Nov 2026 | Blood & Sun + Society Of The Silver Cross + Linnea Hjertén // Urban Spree, Berlin |  |
@@ -23,4 +21,4 @@ Urban Spree is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, w
 
 Revaler Str. 99, 10245 Berlin, Germany, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/urban-spree/)*

@@ -1,14 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 27 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Mark Broom, Julia Govor / Blue Hour, Neel / Yasmeenah" on Fri, 30 Oct 2026.
+public records is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Dope Jams Halloween Ball / Turtle Bugg, 4AM NYC / GE-OLOGY" on Sat, 31 Oct 2026.
 
-public records is a music venue in New York City listed on soundcheck. 27 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Abby Echiverri and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Abby Echiverri and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Mark Broom, Julia Govor / Blue Hour, Neel / Yasmeenah | Julia Govor, Mark Broom, Neel, YASMEENAH (2) |
 | Sat, 31 Oct 2026 | Dope Jams Halloween Ball / Turtle Bugg, 4AM NYC / GE-OLOGY | 4AM NYC, Ge-ology, Paul Nickerson, Turtle Bugg |
 | Sun, 1 Nov 2026 | Conducta b2b AceMo, Surusinghe / x3butterfly b2b Physical Therapy, Conducta | AceMo, Conducta, Physical Therapy, Surusinghe, x3butterfly |
 | Thu, 5 Nov 2026 | Mousse T. | Mousse T. |
@@ -18,9 +17,10 @@ public records is a music venue in New York City listed on soundcheck. 27 upcomi
 | Mon, 9 Nov 2026 | DURATIONS Festival 2026 | Abby Echiverri, Afrikan Sciences, Ayanna Heaven, Buttechno, Chantal Michelle, Claudio PRC, Courtney Bailey, DJ Sprinkles, Dasha Rush, Decoder, Eden Aurelius, Eiko Ishibashi, Francis Harris, Ghost Dubs, Human Space Machine, Innersha, JJJJJerome Ellis, K Wata, Kara-Lis Coverdale, Klein, LEYA, MORENXXX, Matana Roberts, Molina, Naone, Russell E.L. Butler, Significant Other, Suzanne Ciani, Terre Thaemlitz, William Basinski, Yu Su |
 | Mon, 9 Nov 2026 | DURATIONS: William Basinski, Cholla | William Basinski |
 | Tue, 10 Nov 2026 | DURATIONS: William Basinski, muein | William Basinski |
+| Wed, 11 Nov 2026 | DURATIONS: William Basinski, Chantal Michelle | Chantal Michelle, William Basinski |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

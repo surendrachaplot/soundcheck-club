@@ -1,6 +1,6 @@
 # KAHO
 
-KAHO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at COUNTER CLUB, Tokyo on Sun, 8 Nov 2026.
+KAHO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at COUNTER CLUB, Tokyo on Sun, 8 Nov 2026.
 
 KAHO is a techno and house artist based in Japan, with 18 gigs on soundcheck across Tokyo. Often billed alongside RYOHEI, Smollman and ALEXANDER M. Next up: COUNTER CLUB, Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ KAHO is a techno and house artist based in Japan, with 18 gigs on soundcheck acr
 
 RYOHEI, Smollman, ALEXANDER M
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaho/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaho/)*

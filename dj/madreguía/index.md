@@ -1,6 +1,6 @@
 # Madre Guía
 
-Madre Guía is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mood Ring, New York City on Wed, 4 Nov 2026.
+Madre Guía is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mood Ring, New York City on Wed, 4 Nov 2026.
 
 Madre Guía is a house and techno artist based in United States of America, with 44 gigs on soundcheck across New York City, Philadelphia, Pittsburgh and San Francisco/Oakland. Often billed alongside DJ Shannon, sola system and Niyah West. Next up: Mood Ring, New York City on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Madre Guía is a house and techno artist based in United States of America, with
 
 DJ Shannon, sola system, Niyah West
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madreguía/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madreguía/)*

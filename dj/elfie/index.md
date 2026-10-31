@@ -1,6 +1,6 @@
 # elfie
 
-elfie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
+elfie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ÆDEN, Berlin on Sat, 28 Nov 2026.
 
 elfie is a trance and techno artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside Tiefklang, DJ Bumski and DJ Frechdachs. Next up: ÆDEN, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ elfie is a trance and techno artist based in Germany, with 19 gigs on soundcheck
 
 Tiefklang, DJ Bumski, DJ Frechdachs
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elfie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elfie/)*

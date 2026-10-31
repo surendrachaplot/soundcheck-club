@@ -1,6 +1,6 @@
 # Ms.Lefki
 
-Ms.Lefki is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at El Chapo Cocktail Bar, Athens on Sat, 31 Oct 2026.
+Ms.Lefki is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at El Chapo Cocktail Bar, Athens on Sat, 31 Oct 2026.
 
 Ms.Lefki is a progressive house and tech house artist, with 9 gigs on soundcheck across Athens. Often billed alongside Tanison, Anna Maria X and G.Pal. Next up: El Chapo Cocktail Bar, Athens on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ms.Lefki is a progressive house and tech house artist, with 9 gigs on soundcheck
 
 Tanison, Anna Maria X, G.Pal
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mslefki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mslefki/)*

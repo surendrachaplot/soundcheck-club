@@ -1,6 +1,6 @@
 # Ellie Cocks
 
-Ellie Cocks is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
+Ellie Cocks is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at LDN East, London on Sat, 31 Oct 2026.
 
 Ellie Cocks is a house and tech house artist based in United Kingdom, with 41 gigs on soundcheck across Brighton, Bristol, Ibiza and Leeds and 2 more. Often billed alongside GW Harrison, Will Taylor and Billy Cocks. Next up: LDN East, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ellie Cocks is a house and tech house artist based in United Kingdom, with 41 gi
 
 GW Harrison, Will Taylor, Billy Cocks
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliecocks/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elliecocks/)*

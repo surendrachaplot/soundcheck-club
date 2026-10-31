@@ -1,6 +1,6 @@
 # MPH (1)
 
-MPH (1) is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+MPH (1) is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 MPH is a garage and bass artist based in United Kingdom, with 132 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 50 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ MPH is a garage and bass artist based in United Kingdom, with 132 gigs on soundc
 
 Oppidan, Flava D, Hamdi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mph-1/)*

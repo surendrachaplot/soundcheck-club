@@ -1,18 +1,18 @@
 # Reza Tabrizi
 
-Reza Tabrizi is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+Reza Tabrizi is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ciaorigato, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Reza Tabrizi is a deep house and house artist based in United States of America, with 9 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Alkemiss Erika, Ali Farahani and IZIK. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
+Reza Tabrizi is a deep house and house artist based in United States of America, with 9 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Alkemiss Erika, Ali Farahani and IZIK. Next up: Ciaorigato, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Ciaorigato | San Francisco/Oakland |
 
 ## Recently played
 
+- Public Works, San Francisco/Oakland · Fri, 30 Oct 2026
 - F8 1192 Folsom, San Francisco/Oakland · Thu, 29 Oct 2026
 - Gospël New York, New York City · Sun, 26 Jul 2026
 - Hotel Via, San Francisco/Oakland · Sun, 19 Jul 2026
@@ -25,4 +25,4 @@ Reza Tabrizi is a deep house and house artist based in United States of America,
 
 Alkemiss Erika, Ali Farahani, IZIK
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reza-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reza-2/)*

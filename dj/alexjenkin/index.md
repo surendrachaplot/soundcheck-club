@@ -1,6 +1,6 @@
 # Alex Jenkin
 
-Alex Jenkin is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
+Alex Jenkin is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
 
 Alex Jenkin is an ambient and experimental artist based in Chile, with 8 gigs on soundcheck across Berlin. Often billed alongside CuCiCuCi, Kyle Toole and Lb Honne. Next up: TBA, Berlin on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Alex Jenkin is an ambient and experimental artist based in Chile, with 8 gigs on
 
 CuCiCuCi, Kyle Toole, Lb Honne
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexjenkin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexjenkin/)*

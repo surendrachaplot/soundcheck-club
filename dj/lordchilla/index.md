@@ -1,6 +1,6 @@
 # Lord Chilla
 
-Lord Chilla is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Poor Boy's, New Orleans on Sat, 7 Nov 2026.
+Lord Chilla is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Poor Boy's, New Orleans on Sat, 7 Nov 2026.
 
 Lord Chilla is a house and club artist, with 36 gigs on soundcheck across New Orleans. Often billed alongside KILOBAUUD, Lil Jodeci and Mars The Vampire. Next up: Poor Boy's, New Orleans on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lord Chilla is a house and club artist, with 36 gigs on soundcheck across New Or
 
 KILOBAUUD, Lil Jodeci, Mars The Vampire
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordchilla/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordchilla/)*

@@ -1,6 +1,6 @@
 # Der Nautilus (2)
 
-Der Nautilus (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club 1, Santiago on Thu, 12 Nov 2026.
+Der Nautilus (2) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club 1, Santiago on Thu, 12 Nov 2026.
 
 Der Nautilus is a techno and acid artist, with 11 gigs on soundcheck across Santiago. Often billed alongside Diegors, Katalina Schwarz and Melania Wonder. Next up: Club 1, Santiago on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Der Nautilus is a techno and acid artist, with 11 gigs on soundcheck across Sant
 
 Diegors, Katalina Schwarz, Melania Wonder
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dernautilus-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dernautilus-2/)*

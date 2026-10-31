@@ -1,6 +1,6 @@
 # KNOXDOTMP3
 
-KNOXDOTMP3 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Los Globos, Los Angeles on Sat, 12 Dec 2026.
+KNOXDOTMP3 is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Los Globos, Los Angeles on Sat, 12 Dec 2026.
 
 KNOXDOTMP3 is a techno and club artist based in United States of America, with 17 gigs on soundcheck across Berlin, Los Angeles, Paris and Seattle. Often billed alongside Shane Thomas, Flabbergast (LA) and MISS BRICKS. Next up: Los Globos, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KNOXDOTMP3 is a techno and club artist based in United States of America, with 1
 
 Shane Thomas, Flabbergast (LA), MISS BRICKS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knoxdotmp3/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knoxdotmp3/)*

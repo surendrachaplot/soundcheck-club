@@ -1,6 +1,6 @@
 # Le Zeralda
 
-Le Zeralda is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Dissidance : Ara, Rrose Selavy, Servye & More" on Sun, 1 Nov 2026.
+Le Zeralda is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Dissidance : Ara, Rrose Selavy, Servye & More" on Sun, 1 Nov 2026.
 
 Le Zeralda is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 125 avenue Gallieni, Bagnolet.
 
@@ -15,4 +15,4 @@ Le Zeralda is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See 
 
 125 avenue Gallieni, Bagnolet, Paris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-zeralda/)*

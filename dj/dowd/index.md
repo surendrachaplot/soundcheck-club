@@ -1,6 +1,6 @@
 # Dowd
 
-Dowd is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+Dowd is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
 
 Dowd is a house and electro artist based in United Kingdom, with 35 gigs on soundcheck across Liverpool and Manchester. Often billed alongside DJ Peach Iced Tea, ell.iot and Jacinta. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Dowd is a house and electro artist based in United Kingdom, with 35 gigs on soun
 
 DJ Peach Iced Tea, ell.iot, Jacinta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dowd/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dowd/)*

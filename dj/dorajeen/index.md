@@ -1,6 +1,6 @@
 # Dora Jeen
 
-Dora Jeen is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at City Hall, Barcelona on Wed, 4 Nov 2026.
+Dora Jeen is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at City Hall, Barcelona on Wed, 4 Nov 2026.
 
 Dora Jeen is a techno and electronica artist based in Spain, with 13 gigs on soundcheck across Barcelona. Often billed alongside JAKKÖ, TONNO and AARON BLEEK. Next up: City Hall, Barcelona on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Dora Jeen is a techno and electronica artist based in Spain, with 13 gigs on sou
 
 JAKKÖ, TONNO, AARON BLEEK
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorajeen/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorajeen/)*

@@ -1,6 +1,6 @@
 # Olive F
 
-Olive F is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Olive F is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Olive F is a house and tech house artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 27 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Olive F is a house and tech house artist based in United Kingdom, with 133 gigs 
 
 Darius Syrossian, Eats Everything, Nic Fanciulli
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olivef/)*

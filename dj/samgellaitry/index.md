@@ -1,6 +1,6 @@
 # Sam Gellaitry
 
-Sam Gellaitry is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bill Graham Civic Auditorium, San Francisco/Oakland on Fri, 13 Nov 2026.
+Sam Gellaitry is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bill Graham Civic Auditorium, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Sam Gellaitry is a house and electronica artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Austin, Brighton and Glasgow and 18 more. Often billed alongside Kovop, Jyoty and Channel Tres. Next up: Bill Graham Civic Auditorium, San Francisco/Oakland on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Sam Gellaitry is a house and electronica artist based in United Kingdom, with 45
 
 Kovop, Jyoty, Channel Tres
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samgellaitry/)*

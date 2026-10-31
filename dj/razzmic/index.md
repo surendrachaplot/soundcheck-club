@@ -1,6 +1,6 @@
 # Razzmic
 
-Razzmic is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NAR, Utrecht on Sat, 31 Oct 2026.
+Razzmic is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NAR, Utrecht on Sat, 31 Oct 2026.
 
 Razzmic is a house and disco artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside Leroy Rey, Mo Wrights and Elias Mazian. Next up: NAR, Utrecht on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Razzmic is a house and disco artist based in Netherlands, with 29 gigs on soundc
 
 Leroy Rey, Mo Wrights, Elias Mazian
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmic/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/razzmic/)*

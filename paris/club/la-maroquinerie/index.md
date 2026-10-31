@@ -1,6 +1,6 @@
 # La Maroquinerie
 
-La Maroquinerie is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Modestep" on Wed, 2 Dec 2026.
+La Maroquinerie is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Modestep" on Wed, 2 Dec 2026.
 
 La Maroquinerie is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Modestep. See dates, start times and who's playing. 23 rue Boyer 75020 PARIS.
 
@@ -14,4 +14,4 @@ La Maroquinerie is a music venue in Paris listed on soundcheck. 1 upcoming gig, 
 
 23 rue Boyer 75020 PARIS, Paris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-maroquinerie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-maroquinerie/)*

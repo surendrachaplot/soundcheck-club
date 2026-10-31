@@ -1,6 +1,6 @@
 # Raden (UK)
 
-Raden (UK) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Egg London, London on Sat, 26 Dec 2026.
+Raden (UK) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Egg London, London on Sat, 26 Dec 2026.
 
 Raden (UK) is a techno and trance artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Helsinki, London and Manchester. Often billed alongside DREIAN, Ununu and Will Lewis. Next up: Egg London, London on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Raden (UK) is a techno and trance artist based in United Kingdom, with 18 gigs o
 
 DREIAN, Ununu, Will Lewis
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raden-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raden-uk/)*

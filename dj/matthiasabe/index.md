@@ -1,6 +1,6 @@
 # Matthias Abe
 
-Matthias Abe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at West Harlem, Kyoto on Mon, 2 Nov 2026.
+Matthias Abe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at West Harlem, Kyoto on Mon, 2 Nov 2026.
 
 Matthias Abe is a house and techno artist, with 67 gigs on soundcheck across Kyoto and Osaka. Often billed alongside DJ Master Kohta, Mario Kassian and EUREKA. Next up: West Harlem, Kyoto on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Matthias Abe is a house and techno artist, with 67 gigs on soundcheck across Kyo
 
 DJ Master Kohta, Mario Kassian, EUREKA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasabe/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasabe/)*

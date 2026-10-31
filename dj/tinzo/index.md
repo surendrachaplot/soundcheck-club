@@ -1,6 +1,6 @@
 # Tinzo
 
-Tinzo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 31 Oct 2026.
+Tinzo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Brooklyn, New York City on Sat, 31 Oct 2026.
 
 Tinzo is a house and techno artist based in United States of America, with 137 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 25 more. Often billed alongside Jojo Lorenzo, RaeCola and Varist. Next up: TBA - Brooklyn, New York City on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Tinzo is a house and techno artist based in United States of America, with 137 g
 
 Jojo Lorenzo, RaeCola, Varist
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinzo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tinzo/)*

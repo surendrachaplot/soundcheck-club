@@ -1,6 +1,6 @@
 # BJs White Swan
 
-BJs White Swan is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "SleazeBox indie disco: TALKING HEADS SPECIAL" on Sat, 23 Jan 2027.
+BJs White Swan is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "SleazeBox indie disco: TALKING HEADS SPECIAL" on Sat, 23 Jan 2027.
 
 BJs White Swan is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Zkeletonz. See dates, start times and who's playing. 556 Commercial Road, Limehouse, London, E14 7JD.
 
@@ -14,4 +14,4 @@ BJs White Swan is a music venue in London listed on soundcheck. 1 upcoming gig, 
 
 556 Commercial Road, Limehouse, London, E14 7JD, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bjs-white-swan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bjs-white-swan/)*

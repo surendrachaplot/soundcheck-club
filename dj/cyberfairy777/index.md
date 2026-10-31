@@ -1,18 +1,18 @@
 # CyberFairy777
 
-CyberFairy777 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at RADION, Amsterdam on Fri, 30 Oct 2026.
+CyberFairy777 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
 
-CyberFairy777 is a techno and bass artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Frankfurt, London and Rotterdam and 1 more. Often billed alongside Slimfit, DEROZAN and HyperLili. Next up: RADION, Amsterdam on Fri 30 Oct.
+CyberFairy777 is a techno and bass artist based in Netherlands, with 33 gigs on soundcheck across Amsterdam, Frankfurt, London and Rotterdam and 1 more. Often billed alongside Slimfit, DEROZAN and HyperLili. Next up: export, Rotterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | RADION | Amsterdam |
 | Sat, 7 Nov 2026 | export | Rotterdam |
 
 ## Recently played
 
+- RADION, Amsterdam · Fri, 30 Oct 2026
 - Garage Noord, Amsterdam · Fri, 18 Sept 2026
 - RADION, Amsterdam · Fri, 13 Feb 2026
 - RADION, Amsterdam · Fri, 31 Oct 2025
@@ -20,10 +20,9 @@ CyberFairy777 is a techno and bass artist based in Netherlands, with 33 gigs on 
 - Garage Noord, Amsterdam · Fri, 20 Jun 2025
 - The Grey Space In The Middle, The Hague · Fri, 6 Jun 2025
 - The Grey Space In The Middle, The Hague · Fri, 16 May 2025
-- Now&Wow, Rotterdam · Fri, 28 Mar 2025
 
 ## Shares bills with
 
 Slimfit, DEROZAN, HyperLili
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberfairy777/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cyberfairy777/)*

@@ -1,6 +1,6 @@
 # Vagabund
 
-Vagabund is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
+Vagabund is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
 
 Vagabund is a techno and trance artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 19 more. Often billed alongside KUKO, Cloudy and Johannes Schuster. Next up: Left Bank Leeds, Leeds on Sat 31 Oct.
 
@@ -33,4 +33,4 @@ Vagabund is a techno and trance artist based in Germany, with 90 gigs on soundch
 
 KUKO, Cloudy, Johannes Schuster
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vagabund/)*

@@ -1,14 +1,13 @@
 # Blawan
 
-Blawan is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Blawan is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Uber Eats Music Hall, Berlin on Thu, 12 Nov 2026.
 
-Blawan is a techno and house artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Helena Hauff, JakoJako and Overmono. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
+Blawan is a techno and house artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Helena Hauff, JakoJako and Overmono. Next up: Uber Eats Music Hall, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 12 Nov 2026 | Uber Eats Music Hall | Berlin |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Fri, 27 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
@@ -19,6 +18,7 @@ Blawan is a techno and house artist based in United Kingdom, with 174 gigs on so
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 30 Oct 2026
 - Cieloterra, Rome · Fri, 16 Oct 2026
 - TBA - Multiple Venues across Sheffield & Rotherham, North · Fri, 9 Oct 2026
 - Hotel Forum, Krakow · Thu, 8 Oct 2026
@@ -26,10 +26,9 @@ Blawan is a techno and house artist based in United Kingdom, with 174 gigs on so
 - Outernet Live, London · Fri, 25 Sept 2026
 - Various Venues, London · Thu, 24 Sept 2026
 - Lehmann Club, Stuttgart · Sat, 29 Aug 2026
-- RSO.BERLIN, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Helena Hauff, JakoJako, Overmono
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blawan/)*

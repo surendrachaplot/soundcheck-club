@@ -1,6 +1,6 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Stazione Leopolda, Florence on Sat, 31 Oct 2026.
+Donato Dozzy is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Stazione Leopolda, Florence on Sat, 31 Oct 2026.
 
 Donato Dozzy is a techno and house artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: Stazione Leopolda, Florence on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Donato Dozzy is a techno and house artist based in Italy, with 110 gigs on sound
 
 Voices From The Lake, Spekki Webu, Batu
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*

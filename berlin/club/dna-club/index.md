@@ -1,6 +1,6 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween Rave // Inferno x Hotwire x Glovex" on Sat, 31 Oct 2026.
+DNA. CLUB is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween Rave // Inferno x Hotwire x Glovex" on Sat, 31 Oct 2026.
 
 DNA. CLUB is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Friday, Blck-Swan, Caren Callas and cell1 and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
@@ -19,4 +19,4 @@ DNA. CLUB is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with
 
 Adalbertstraße 98, 10999 Berlin, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dna-club/)*

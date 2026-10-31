@@ -1,6 +1,6 @@
 # Johnnyaga
 
-Johnnyaga is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at elipamanoke, Leipzig on Fri, 27 Nov 2026.
+Johnnyaga is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at elipamanoke, Leipzig on Fri, 27 Nov 2026.
 
 Johnnyaga is a techno and trance artist, with 9 gigs on soundcheck across Leipzig. Often billed alongside Mondenkind, AMBROXAN and Bendix. Next up: elipamanoke, Leipzig on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Johnnyaga is a techno and trance artist, with 9 gigs on soundcheck across Leipzi
 
 Mondenkind, AMBROXAN, Bendix
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyaga/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyaga/)*

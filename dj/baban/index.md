@@ -1,6 +1,6 @@
 # Baban
 
-Baban is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Baban is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Baban is a house and minimal artist, with 46 gigs on soundcheck across Bogotá, Budapest, Istanbul and Medellin and 5 more. Often billed alongside Morteza Minouei, Taycan and Childplay. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Baban is a house and minimal artist, with 46 gigs on soundcheck across Bogotá, 
 
 Morteza Minouei, Taycan, Childplay
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baban/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baban/)*

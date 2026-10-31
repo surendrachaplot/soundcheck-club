@@ -1,6 +1,6 @@
 # Gres Teh
 
-Gres Teh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
+Gres Teh is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Little Moon Villa Koh Mak, Thailand on Tue, 29 Dec 2026.
 
 Gres Teh is a house and disco artist based in Thailand, with 19 gigs on soundcheck across Bangkok and Thailand. Often billed alongside Mae Happyair, Pam Anantr and TAM (TH). Next up: Little Moon Villa Koh Mak, Thailand on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Gres Teh is a house and disco artist based in Thailand, with 19 gigs on soundche
 
 Mae Happyair, Pam Anantr, TAM (TH)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gresteh/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gresteh/)*

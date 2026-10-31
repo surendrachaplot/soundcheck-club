@@ -1,6 +1,6 @@
 # Jonah K
 
-Jonah K is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Motorista Studio, Toronto on Sat, 31 Oct 2026.
+Jonah K is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Motorista Studio, Toronto on Sat, 31 Oct 2026.
 
 Jonah K is a drum & bass and bass artist, with 14 gigs on soundcheck across Toronto and Vancouver. Often billed alongside Miss Kleio, Rhombi and Feliciana Silvestre. Next up: Motorista Studio, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jonah K is a drum & bass and bass artist, with 14 gigs on soundcheck across Toro
 
 Miss Kleio, Rhombi, Feliciana Silvestre
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonahk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonahk/)*

@@ -1,6 +1,6 @@
 # MKHXR
 
-MKHXR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
+MKHXR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
 
 MKHXR is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Berlin, Hamburg, Lyon and Munich and 1 more. Often billed alongside SKKIN VELVET, KENZ and LNTX. Next up: Edelfettwerk, Hamburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MKHXR is a techno and trance artist based in Germany, with 37 gigs on soundcheck
 
 SKKIN VELVET, KENZ, LNTX
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mkhxr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mkhxr/)*

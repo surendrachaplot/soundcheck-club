@@ -1,6 +1,6 @@
 # Vice Luna
 
-Vice Luna is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Forma, Naples on Sat, 21 Nov 2026.
+Vice Luna is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Forma, Naples on Sat, 21 Nov 2026.
 
 Vice Luna is a house and progressive house artist based in Mexico, with 20 gigs on soundcheck across Amsterdam, Ibiza, Mexico City and Milan and 1 more. Often billed alongside ETNA, Makossa and ALDAVE. Next up: Forma, Naples on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vice Luna is a house and progressive house artist based in Mexico, with 20 gigs 
 
 ETNA, Makossa, ALDAVE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceluna/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceluna/)*

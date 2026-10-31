@@ -1,6 +1,6 @@
 # Party Politics: A Panel presented by Peace Portal at Process PDX
 
-Party Politics: A Panel presented by Peace Portal at Process PDX on Fri 13 Nov, Portland. 4 artists: 'nohup', Moussa مُوسَى, Seelene and Trustfall. See the line-up on soundcheck.
+Party Politics: A Panel presented by Peace Portal at Process PDX on Fri 13 Nov, Portland. 3 artists: 'nohup', Seelene and Trustfall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Party Politics: A Panel presented by Peace Portal at Process PDX on Fri 13 Nov, 
 ## Line-up
 
 - 'nohup'
-- Moussa مُوسَى
 - Seelene
 - Trustfall
 

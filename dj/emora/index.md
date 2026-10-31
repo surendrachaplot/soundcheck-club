@@ -1,6 +1,6 @@
 # Emora
 
-Emora is a Electronica and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Simone's, Liverpool on Sat, 31 Oct 2026.
+Emora is a Electronica and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Simone's, Liverpool on Sat, 31 Oct 2026.
 
 Emora is an electronica and hip-hop artist based in United Kingdom, with 11 gigs on soundcheck across Liverpool and Manchester. Often billed alongside AdomasLP, Tommy Cross and Abby Harris. Next up: Simone's, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Emora is an electronica and hip-hop artist based in United Kingdom, with 11 gigs
 
 AdomasLP, Tommy Cross, Abby Harris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emora/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emora/)*

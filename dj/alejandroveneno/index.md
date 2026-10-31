@@ -1,6 +1,6 @@
 # Alejandro Veneno
 
-Alejandro Veneno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Departamento, Mexico City on Wed, 28 Oct 2026.
+Alejandro Veneno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Departamento, Mexico City on Wed, 28 Oct 2026.
 
 Alejandro Veneno is a house and deep house artist based in Argentina, with 51 gigs on soundcheck across Buenos Aires, Madrid and Mexico City. Often billed alongside Barreto, JNGLEJ and Don Alex Albert. Next up: Departamento, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Alejandro Veneno is a house and deep house artist based in Argentina, with 51 gi
 
 Barreto, JNGLEJ, Don Alex Albert
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroveneno/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandroveneno/)*

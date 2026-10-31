@@ -1,6 +1,6 @@
 # Madeleine
 
-Madeleine is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Twist Bar, Prague on Wed, 11 Nov 2026.
+Madeleine is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Twist Bar, Prague on Wed, 11 Nov 2026.
 
 Madeleine is a techno and electro artist based in Slovakia, with 47 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Bristol and 4 more. Often billed alongside Atch22, Kobayashi Maru and DDAT. Next up: Twist Bar, Prague on Wed 11 Nov.
 
@@ -27,4 +27,4 @@ Madeleine is a techno and electro artist based in Slovakia, with 47 gigs on soun
 
 Atch22, Kobayashi Maru, DDAT
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeleine/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeleine/)*

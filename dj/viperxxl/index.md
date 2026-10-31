@@ -1,6 +1,6 @@
 # ViperXXL
 
-ViperXXL is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
+ViperXXL is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
 
 ViperXXL is a techno and acid artist based in Germany, with 19 gigs on soundcheck across Berlin, Budapest, Cologne and Düsseldorf and 7 more. Often billed alongside Golpe, Ropemaker and Obscure Shape. Next up: Inguz Club, Portugal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ ViperXXL is a techno and acid artist based in Germany, with 19 gigs on soundchec
 
 Golpe, Ropemaker, Obscure Shape
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viperxxl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viperxxl/)*

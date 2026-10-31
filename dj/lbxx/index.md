@@ -1,6 +1,6 @@
 # LBXX
 
-LBXX is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 11 Dec 2026.
+LBXX is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 LBXX is a club and house artist based in United States of America, with 26 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Kilo, Subeaux and Papa Xanny. Next up: Public Works, San Francisco/Oakland on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ LBXX is a club and house artist based in United States of America, with 26 gigs 
 
 Kilo, Subeaux, Papa Xanny
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lbxx/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lbxx/)*

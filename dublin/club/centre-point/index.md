@@ -1,6 +1,6 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Influence x Centre Point: Halloween Special" on Sat, 31 Oct 2026.
+Centre Point is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Influence x Centre Point: Halloween Special" on Sat, 31 Oct 2026.
 
 Centre Point is a music venue in Dublin listed on soundcheck. 12 upcoming gigs, with line-ups including Annie Mac, The Avalanches, Ayolxi and BAUGRUPPE90 and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
@@ -23,4 +23,4 @@ Centre Point is a music venue in Dublin listed on soundcheck. 12 upcoming gigs, 
 
 Temple Lane Street, Temple Bar, Dublin, Dublin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/centre-point/)*

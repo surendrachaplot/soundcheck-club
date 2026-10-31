@@ -1,6 +1,6 @@
 # ollo11
 
-ollo11 is a Techno and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - TRXX WRHS, Minneapolis-st-paul on Sat, 21 Nov 2026.
+ollo11 is a Techno and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - TRXX WRHS, Minneapolis-st-paul on Sat, 21 Nov 2026.
 
 ollo11 is a techno and post-punk artist based in United States of America, with 5 gigs on soundcheck across Minneapolis/St Paul and Minneapolis St Paul. Often billed alongside Centrific, Flange and Kerrie. Next up: TBA - TRXX WRHS, Minneapolis St Paul on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ ollo11 is a techno and post-punk artist based in United States of America, with 
 
 Centrific, Flange, Kerrie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollo11/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ollo11/)*

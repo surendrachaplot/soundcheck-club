@@ -1,6 +1,6 @@
 # Hizz Lounge
 
-Hizz Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Abdul El-Sayed Fundraiser with Shigeto, DJ Holographic, Sinistarr, Mike Clark, Bruce Bailey " on Sun, 1 Nov 2026.
+Hizz Lounge is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Abdul El-Sayed Fundraiser with Shigeto, DJ Holographic, Sinistarr, Mike Clark, Bruce Bailey " on Sun, 1 Nov 2026.
 
 Hizz Lounge is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Bruce Bailey, Charles Trees, DJ Holographic and Drummer B and 2 more. See dates, start times and who's playing. 2475 W Grand Blvd, Detroit, MI 48208.
 
@@ -15,4 +15,4 @@ Hizz Lounge is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, w
 
 2475 W Grand Blvd, Detroit, MI 48208, Detroit
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/hizz-lounge/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/hizz-lounge/)*

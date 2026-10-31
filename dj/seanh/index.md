@@ -1,6 +1,6 @@
 # Sean H
 
-Sean H is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 7 Nov 2026.
+Sean H is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 7 Nov 2026.
 
 Sean H is a techno and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Berlin and Rome. Often billed alongside Ady Toledano, Sampi and Trancesetters of Westphalia. Next up: Garage Noord, Amsterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sean H is a techno and house artist based in Netherlands, with 17 gigs on soundc
 
 Ady Toledano, Sampi, Trancesetters of Westphalia
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanh/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seanh/)*

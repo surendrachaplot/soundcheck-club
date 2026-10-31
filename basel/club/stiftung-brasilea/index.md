@@ -1,6 +1,6 @@
 # Stiftung Brasilea
 
-Stiftung Brasilea is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Christmas Daydance" on Sat, 19 Dec 2026.
+Stiftung Brasilea is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Christmas Daydance" on Sat, 19 Dec 2026.
 
 Stiftung Brasilea is a music venue in Basel listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Stiftung Brasilea is a music venue in Basel listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Christmas Daydance |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/stiftung-brasilea/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/stiftung-brasilea/)*

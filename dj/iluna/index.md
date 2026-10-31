@@ -1,6 +1,6 @@
 # iluna
 
-iluna is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 18 Dec 2026.
+iluna is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 18 Dec 2026.
 
 iluna is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across Edinburgh, Glasgow and Mexico City. Often billed alongside ona:v, Boom Merchant and Kairogen. Next up: EXIT Glasgow, Glasgow on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ iluna is a techno and electro artist based in United Kingdom, with 24 gigs on so
 
 ona:v, Boom Merchant, Kairogen
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iluna/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iluna/)*

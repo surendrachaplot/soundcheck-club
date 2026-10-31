@@ -1,6 +1,6 @@
 # Özten
 
-Özten is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Makossa, London on Fri, 20 Nov 2026.
+Özten is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Makossa, London on Fri, 20 Nov 2026.
 
 Özten is a garage and house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Chedda Bred, Marco (UK) and Adela. Next up: Club Makossa, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@
 
 Chedda Bred, Marco (UK), Adela
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ozten-uk/)*

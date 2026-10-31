@@ -1,6 +1,6 @@
 # ALEX REV
 
-ALEX REV is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ESC, Montreal on Thu, 12 Nov 2026.
+ALEX REV is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ESC, Montreal on Thu, 12 Nov 2026.
 
 ALEX REV is a techno and minimal techno artist based in Canada, with 16 gigs on soundcheck across Montreal. Often billed alongside Char.l.n, Babaganouschka and Toltech. Next up: ESC, Montreal on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ ALEX REV is a techno and minimal techno artist based in Canada, with 16 gigs on 
 
 Char.l.n, Babaganouschka, Toltech
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrev/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexrev/)*

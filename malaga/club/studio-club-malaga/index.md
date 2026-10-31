@@ -1,6 +1,6 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "STUDIO X COCOA ESPECIAL HALLOWEEN" on Sat, 31 Oct 2026.
+Studio Club Malaga is a music venue in Malaga with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "STUDIO X COCOA ESPECIAL HALLOWEEN" on Sat, 31 Oct 2026.
 
 Studio Club Malaga is a music venue in Malaga listed on soundcheck. 7 upcoming gigs, with line-ups including Adrian Mills, Anabel Arroyo, Arcfilter and ART NO LOGIA and 2 more. See dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
@@ -20,4 +20,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 7 upcoming g
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

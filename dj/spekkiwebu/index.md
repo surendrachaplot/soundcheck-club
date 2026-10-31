@@ -1,6 +1,6 @@
 # Spekki Webu
 
-Spekki Webu is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 5 Nov 2026.
+Spekki Webu is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 5 Nov 2026.
 
 Spekki Webu is a techno and house artist based in Netherlands, with 230 gigs on soundcheck across Amsterdam, Athens, Auckland and Baltimore and 54 more. Often billed alongside Mama Snake, OCCA and Feral. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 5 Nov.
 
@@ -33,4 +33,4 @@ Spekki Webu is a techno and house artist based in Netherlands, with 230 gigs on 
 
 Mama Snake, OCCA, Feral
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spekkiwebu/)*

@@ -1,6 +1,6 @@
 # Max Kulchinsky
 
-Max Kulchinsky is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Silence Please, New York City on Sat, 31 Oct 2026.
+Max Kulchinsky is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Silence Please, New York City on Sat, 31 Oct 2026.
 
 Max Kulchinsky is a house and funk / soul artist, with 11 gigs on soundcheck across New York City, Philadelphia and Tokyo. Often billed alongside Billy Bevevino, Funktion Two and Rasaaq. Next up: Silence Please, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Max Kulchinsky is a house and funk / soul artist, with 11 gigs on soundcheck acr
 
 Billy Bevevino, Funktion Two, Rasaaq
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkulchinsky/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkulchinsky/)*

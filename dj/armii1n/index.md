@@ -1,6 +1,6 @@
 # Armii1n
 
-Armii1n is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Armii1n is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Armii1n is a house and techno artist based in Iran, with 137 gigs on soundcheck across Miami and New York City. Often billed alongside Choukroun, Zayd and Monk. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Armii1n is a house and techno artist based in Iran, with 137 gigs on soundcheck 
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

@@ -1,6 +1,6 @@
 # Theater de Richel
 
-Theater de Richel is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Secousses" on Sat, 21 Nov 2026.
+Theater de Richel is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Secousses" on Sat, 21 Nov 2026.
 
 Theater de Richel is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including BROM and zennx. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Theater de Richel is a music venue in Amsterdam listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Secousses | BROM, zennx |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/theater-de-richel/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/theater-de-richel/)*

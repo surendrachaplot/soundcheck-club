@@ -1,6 +1,6 @@
 # Karolanne
 
-Karolanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Under Warschauer Bridge, Berlin on Sat, 31 Oct 2026.
+Karolanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Under Warschauer Bridge, Berlin on Sat, 31 Oct 2026.
 
 Karolanne is a techno and house artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside DJ Hitwave, Levandream and RichBeat. Next up: TBA - Under Warschauer Bridge, Berlin on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Karolanne is a techno and house artist based in Germany, with 6 gigs on soundche
 
 DJ Hitwave, Levandream, RichBeat
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolanne/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karolanne/)*

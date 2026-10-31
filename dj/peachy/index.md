@@ -1,6 +1,6 @@
 # PEACHY
 
-PEACHY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gianpula Main Room, Malta on Fri, 13 Nov 2026.
+PEACHY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Gianpula Main Room, Malta on Fri, 13 Nov 2026.
 
 PEACHY is a techno and trance artist based in Malta, with 9 gigs on soundcheck across Malta. Often billed alongside INVERTED (MT), Idealist and Naomi Baldacchino. Next up: Gianpula Main Room, Malta on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ PEACHY is a techno and trance artist based in Malta, with 9 gigs on soundcheck a
 
 INVERTED (MT), Idealist (2), Naomi Baldacchino
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peachy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peachy/)*

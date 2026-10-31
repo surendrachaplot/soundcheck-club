@@ -1,6 +1,6 @@
 # Maria Chavez
 
-Maria Chavez is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Maria Chavez is a Experimental and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Maria Chavez is an experimental and house artist, with 27 gigs on soundcheck across Athens, Bergen, Berlin and Brussels and 11 more. Often billed alongside Stefan Goldmann, Harley (US) and xXabiXx. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Maria Chavez is an experimental and house artist, with 27 gigs on soundcheck acr
 
 Stefan Goldmann, Harley (US), xXabiXx
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariachavez/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariachavez/)*

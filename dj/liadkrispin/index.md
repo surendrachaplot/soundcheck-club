@@ -1,6 +1,6 @@
 # Liad Krispin
 
-Liad Krispin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+Liad Krispin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
 Liad Krispin is a techno and house artist based in United States of America, with 40 gigs on soundcheck across Berlin, Brussels, Copenhagen and Hamburg and 7 more. Often billed alongside Luigi Di Venere, ONX (CH) and AAguilAA. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Liad Krispin is a techno and house artist based in United States of America, wit
 
 Luigi Di Venere, ONX (CH), AAguilAA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*

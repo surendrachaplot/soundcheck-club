@@ -1,6 +1,6 @@
 # deepyadip
 
-deepyadip is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Crust Basement, Athens on Sat, 31 Oct 2026.
+deepyadip is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Crust Basement, Athens on Sat, 31 Oct 2026.
 
 deepyadip is a house and techno artist, with 7 gigs on soundcheck across Athens. Often billed alongside Gaia, Stratos and David Cumplido. Next up: Crust Basement, Athens on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ deepyadip is a house and techno artist, with 7 gigs on soundcheck across Athens.
 
 Gaia (2), Stratos (2), David Cumplido
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepyadip/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepyadip/)*

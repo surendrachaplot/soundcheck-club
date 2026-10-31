@@ -1,6 +1,6 @@
 # Workforce
 
-Workforce is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Cell, Nottingham on Fri, 6 Nov 2026.
+Workforce is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Cell, Nottingham on Fri, 6 Nov 2026.
 
 Workforce is a drum & bass and jungle artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Birmingham, Bratislava and Brighton and 14 more. Often billed alongside SP:MC, LSB and Halogenix. Next up: The Cell, Nottingham on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Workforce is a drum & bass and jungle artist based in United Kingdom, with 47 gi
 
 SP:MC, LSB, Halogenix
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/workforce/)*

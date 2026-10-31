@@ -1,6 +1,6 @@
 # Gomorra
 
-Gomorra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
+Gomorra is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Elysia, Basel on Sat, 14 Nov 2026.
 
 Gomorra is a techno and trance artist based in Switzerland, with 37 gigs on soundcheck across Basel, Geneva, Stuttgart and Zurich. Often billed alongside Herrrouine, kso12 and Cepheì. Next up: Elysia, Basel on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Gomorra is a techno and trance artist based in Switzerland, with 37 gigs on soun
 
 Herrrouine, kso12, Cepheì
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gomorra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gomorra/)*

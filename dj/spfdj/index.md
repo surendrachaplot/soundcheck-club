@@ -1,6 +1,6 @@
 # SPFDJ
 
-SPFDJ is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
+SPFDJ is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
 
 SPFDJ is a techno and house artist based in Sweden, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 90 more. Often billed alongside Anetha, DAX J and KI/KI. Next up: Club Cultural Lima, Peru on Fri 30 Oct.
 
@@ -21,6 +21,7 @@ SPFDJ is a techno and house artist based in Sweden, with 272 gigs on soundcheck 
 
 ## Recently played
 
+- Club Cultural Lima, Peru · Fri, 30 Oct 2026
 - H7 Warehouse, Amsterdam · Sat, 24 Oct 2026
 - RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
@@ -28,10 +29,9 @@ SPFDJ is a techno and house artist based in Sweden, with 272 gigs on soundcheck 
 - The Bongo Club, Edinburgh · Fri, 25 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
 - Virage, Paris · Sat, 29 Aug 2026
-- fi, Cologne · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Anetha, DAX J, KI/KI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spfdj/)*

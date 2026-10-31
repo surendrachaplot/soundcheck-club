@@ -1,6 +1,6 @@
 # Aline Umber
 
-Aline Umber is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
+Aline Umber is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
 
 Aline Umber is a house and minimal artist based in France, with 112 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Maxime dB, Krol and Tomas Station. Next up: Brooklyn Storehouse, New York City on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Aline Umber is a house and minimal artist based in France, with 112 gigs on soun
 
 Maxime dB, Krol, Tomas Station
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alineumber/)*

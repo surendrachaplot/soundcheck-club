@@ -1,6 +1,6 @@
 # SEZBENNY
 
-SEZBENNY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tangerine, Manchester on Fri, 6 Nov 2026.
+SEZBENNY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Tangerine, Manchester on Fri, 6 Nov 2026.
 
 SEZBENNY is a house and disco artist based in United Kingdom, with 10 gigs on soundcheck across Manchester. Often billed alongside Charms, Craig Harrison and Cup Noods. Next up: Tangerine, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SEZBENNY is a house and disco artist based in United Kingdom, with 10 gigs on so
 
 Charms, Craig Harrison, Cup Noods
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sezbenny/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sezbenny/)*

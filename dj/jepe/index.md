@@ -1,6 +1,6 @@
 # Jepe
 
-Jepe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Haus von Klaus, Zurich on Sat, 14 Nov 2026.
+Jepe is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Haus von Klaus, Zurich on Sat, 14 Nov 2026.
 
 Jepe is a house and techno artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cyprus and 10 more. Often billed alongside Berny, Manu Strasse and Sasse. Next up: Haus von Klaus, Zurich on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Jepe is a house and techno artist based in Germany, with 43 gigs on soundcheck a
 
 Berny, Manu Strasse, Sasse
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jepe/)*

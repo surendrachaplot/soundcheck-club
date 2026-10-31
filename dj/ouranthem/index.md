@@ -1,6 +1,6 @@
 # Our Anthem
 
-Our Anthem is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location (Duomo Area), Milan on Sun, 1 Nov 2026.
+Our Anthem is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location (Duomo Area), Milan on Sun, 1 Nov 2026.
 
 Our Anthem is a tech house and electronica artist, with 11 gigs on soundcheck across Milan. Often billed alongside BlackSun, Fexsays and Marcomassi. Next up: TBA - Secret Location (Duomo Area), Milan on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Our Anthem is a tech house and electronica artist, with 11 gigs on soundcheck ac
 
 BlackSun, Fexsays, Marcomassi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouranthem/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ouranthem/)*

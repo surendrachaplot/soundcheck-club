@@ -1,6 +1,6 @@
 # Emma DJ
 
-Emma DJ is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
+Emma DJ is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
 
 Emma DJ is an experimental and club artist based in France, with 96 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 33 more. Often billed alongside Toma Kami, ojoo and Europa. Next up: Fylkingen, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Emma DJ is an experimental and club artist based in France, with 96 gigs on soun
 
 Toma Kami, ojoo, Europa (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmadj/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmadj/)*

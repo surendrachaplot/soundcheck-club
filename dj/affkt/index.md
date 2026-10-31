@@ -1,6 +1,6 @@
 # AFFKT
 
-AFFKT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Macarena Club, Barcelona on Wed, 27 Jan 2027.
+AFFKT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Macarena Club, Barcelona on Wed, 27 Jan 2027.
 
 AFFKT is a house and techno artist based in Spain, with 23 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 12 more. Often billed alongside Acid Alien, Bonnie Spacey and Fernando Lagreca. Next up: Macarena Club, Barcelona on Wed 27 Jan.
 
@@ -25,4 +25,4 @@ AFFKT is a house and techno artist based in Spain, with 23 gigs on soundcheck ac
 
 Acid Alien, Bonnie Spacey, Fernando Lagreca
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/affkt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/affkt/)*

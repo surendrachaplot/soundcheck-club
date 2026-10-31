@@ -1,6 +1,6 @@
 # Benny Benassi
 
-Benny Benassi is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Benny Benassi is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Benny Benassi is a house and electro artist based in Italy, with 48 gigs on soundcheck across Boston, Chicago, Copenhagen and Cyprus and 17 more. Often billed alongside Terry, Zedd and Alok. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -14,6 +14,7 @@ Benny Benassi is a house and electro artist based in Italy, with 48 gigs on soun
 
 ## Recently played
 
+- NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Poolen, Copenhagen · Sat, 10 Oct 2026
 - Kastel, Istanbul · Fri, 9 Oct 2026
 - Etko, Cyprus · Fri, 25 Sept 2026
@@ -21,10 +22,9 @@ Benny Benassi is a house and electro artist based in Italy, with 48 gigs on soun
 - Ushuaïa Ibiza, Ibiza · Thu, 3 Sept 2026
 - Cavo Paradiso, Mykonos · Sat, 22 Aug 2026
 - Cavo Paradiso, Mykonos · Sat, 18 Jul 2026
-- Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Terry, Zedd, Alok
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*

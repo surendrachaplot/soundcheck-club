@@ -1,6 +1,6 @@
 # Zoe Pea
 
-Zoe Pea is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ormside Projects, London on Sun, 15 Nov 2026.
+Zoe Pea is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ormside Projects, London on Sun, 15 Nov 2026.
 
 Zoe Pea is a dub and experimental artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, Glasgow, Leeds and London and 3 more. Often billed alongside Elijah Minnelli, Rat Section and babyschön. Next up: Ormside Projects, London on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Zoe Pea is a dub and experimental artist based in United Kingdom, with 21 gigs o
 
 Elijah Minnelli, Rat Section, babyschön
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zoepea/)*

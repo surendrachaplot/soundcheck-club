@@ -1,6 +1,6 @@
 # Ramblur
 
-Ramblur is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
+Ramblur is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
 
 Ramblur is a bass and dubstep artist, with 12 gigs on soundcheck across Baltimore, New York City, Pittsburgh and Washington DC. Often billed alongside Jacq Jill, MÖSEE and enz.O. Next up: Industry City, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ramblur is a bass and dubstep artist, with 12 gigs on soundcheck across Baltimor
 
 Jacq Jill, MÖSEE, enz.O
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramblur/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ramblur/)*

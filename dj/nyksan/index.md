@@ -1,6 +1,6 @@
 # Nyksan
 
-Nyksan is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Grüner Salon Der Volksbühne, Berlin on Sat, 31 Oct 2026.
+Nyksan is a Latin Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Grüner Salon Der Volksbühne, Berlin on Sat, 31 Oct 2026.
 
 Nyksan is a latin bass and techno artist, with 37 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bristol and 9 more. Often billed alongside Colombian Drone Mafia, Ehua and Bitter Babe. Next up: Grüner Salon Der Volksbühne, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nyksan is a latin bass and techno artist, with 37 gigs on soundcheck across Amst
 
 Colombian Drone Mafia, Ehua, Bitter Babe
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyksan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyksan/)*

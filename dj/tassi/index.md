@@ -1,6 +1,6 @@
 # Tassi
 
-Tassi is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sun, 8 Nov 2026.
+Tassi is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sun, 8 Nov 2026.
 
 Tassi is a house and downtempo artist based in Germany, with 21 gigs on soundcheck across Hamburg. Often billed alongside Crew Ombrelle, E-Gerät and Late Night Jockel Session. Next up: Fabrique im Gängeviertel, Hamburg on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Tassi is a house and downtempo artist based in Germany, with 21 gigs on soundche
 
 Crew Ombrelle, E-Gerät, Late Night Jockel Session
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tassi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tassi/)*

@@ -1,18 +1,18 @@
 # Brokenchord
 
-Brokenchord is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 30 Oct 2026.
+Brokenchord is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Wigwam, Shanghai on Sat, 31 Oct 2026.
 
-Brokenchord is a house and techno artist based in Lithuania, with 15 gigs on soundcheck across Amsterdam, Berlin, Chengdu and London and 4 more. Often billed alongside Rosie Ama, A.Certo and Ajukaja and Ats. Next up: Nulab Chengdu, Chengdu on Fri 30 Oct.
+Brokenchord is a house and techno artist based in Lithuania, with 15 gigs on soundcheck across Amsterdam, Berlin, Chengdu and London and 4 more. Often billed alongside Rosie Ama, A.Certo and Ajukaja and Ats. Next up: Wigwam, Shanghai on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Nulab Chengdu | Chengdu |
 | Sat, 31 Oct 2026 | Wigwam | Shanghai |
 
 ## Recently played
 
+- Nulab Chengdu, Chengdu · Fri, 30 Oct 2026
 - The Social, London · Fri, 9 Oct 2026
 - Grace Darling Hotel, Melbourne · Thu, 24 Sept 2026
 - arkaoda Berlin, Berlin · Sat, 20 Jun 2026
@@ -20,10 +20,9 @@ Brokenchord is a house and techno artist based in Lithuania, with 15 gigs on sou
 - Sala Siroco, Madrid · Sat, 25 Apr 2026
 - Geležinkelio g. 6, Vilnius · Fri, 29 Aug 2025
 - 90mil, Berlin · Fri, 30 May 2025
-- Opium Club, Vilnius · Sat, 22 Feb 2025
 
 ## Shares bills with
 
 Rosie Ama, A.Certo, Ajukaja and Ats
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenchord/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brokenchord/)*

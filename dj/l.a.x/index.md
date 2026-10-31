@@ -1,6 +1,6 @@
 # L.A.X
 
-L.A.X is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lieberscholli, Munich on Fri, 20 Nov 2026.
+L.A.X is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lieberscholli, Munich on Fri, 20 Nov 2026.
 
 L.A.X is a house and techno artist based in Germany, with 11 gigs on soundcheck across Munich. Often billed alongside Punktmidi, Roshan (DE) and SpanierOhneAuto. Next up: Lieberscholli, Munich on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ L.A.X is a house and techno artist based in Germany, with 11 gigs on soundcheck 
 
 Punktmidi, Roshan (DE), SpanierOhneAuto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.x/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.a.x/)*

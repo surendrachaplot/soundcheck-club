@@ -1,6 +1,6 @@
 # Lucid Feel
 
-Lucid Feel is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Location in Telegram, Berlin on Sat, 21 Nov 2026.
+Lucid Feel is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Location in Telegram, Berlin on Sat, 21 Nov 2026.
 
 Lucid Feel is a techno and tech house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Athens and Berlin. Often billed alongside Jayzo, Compound Rhythm and Jairo Godoy. Next up: TBA - Location in Telegram, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lucid Feel is a techno and tech house artist based in Netherlands, with 20 gigs 
 
 Jayzo, Compound Rhythm, Jairo Godoy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucidfeel/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucidfeel/)*

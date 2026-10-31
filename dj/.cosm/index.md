@@ -1,6 +1,6 @@
 # .cosm
 
-.cosm is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 19 Nov 2026.
+.cosm is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 19 Nov 2026.
 
 .cosm is a house and electro artist based in United Kingdom, with 32 gigs on soundcheck across Bali, Barcelona, Berlin and Leeds and 4 more. Often billed alongside Nikol, Alex Picone and pekkuliar. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 19 Nov.
 
@@ -25,4 +25,4 @@
 
 Nikol, Alex Picone, pekkuliar
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.cosm/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/.cosm/)*

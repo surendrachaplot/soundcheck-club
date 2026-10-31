@@ -1,6 +1,6 @@
 # Valenthin
 
-Valenthin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Arzenal, Budapest on Sat, 14 Nov 2026.
+Valenthin is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Arzenal, Budapest on Sat, 14 Nov 2026.
 
 Valenthin is a techno and trance artist based in Hungary, with 70 gigs on soundcheck across Berlin, Budapest, Rotterdam and Vienna. Often billed alongside Paralich, THIRD 2HIFT and schraeder. Next up: Arzenal, Budapest on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Valenthin is a techno and trance artist based in Hungary, with 70 gigs on soundc
 
 Paralich, THIRD 2HIFT, schraeder
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valenthin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valenthin/)*

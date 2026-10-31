@@ -1,6 +1,6 @@
 # HERA (MX)
 
-HERA (MX) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Biltmore Cabaret, Vancouver on Thu, 17 Dec 2026.
+HERA (MX) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Biltmore Cabaret, Vancouver on Thu, 17 Dec 2026.
 
 HERA (MX) is a house and techno artist, with 14 gigs on soundcheck across Vancouver. Often billed alongside Beiti, DJ dood and Galen Allan. Next up: Biltmore Cabaret, Vancouver on Thu 17 Dec.
 
@@ -25,4 +25,4 @@ HERA (MX) is a house and techno artist, with 14 gigs on soundcheck across Vancou
 
 Beiti, DJ dood, Galen Allan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hera-mx/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hera-mx/)*

@@ -1,6 +1,6 @@
 # Wax Wings
 
-Wax Wings is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
+Wax Wings is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
 
 Wax Wings is a techno and house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 6 more. Often billed alongside Lewis G. Burton, Brother of Set and Ricardo Castro. Next up: Electrowerkz, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Wax Wings is a techno and house artist based in United Kingdom, with 38 gigs on 
 
 Lewis G. Burton, Brother of Set, Ricardo Castro
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxwings/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxwings/)*

@@ -1,6 +1,6 @@
 # Thorpey
 
-Thorpey is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gut Level, Sheffield on Sat, 5 Dec 2026.
+Thorpey is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Gut Level, Sheffield on Sat, 5 Dec 2026.
 
 Thorpey is a bass and garage artist based in United Kingdom, with 30 gigs on soundcheck across Brighton, Bristol, Leeds and London and 4 more. Often billed alongside Dr Cryptic, Phatworld and Cardiac. Next up: Gut Level, Sheffield on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Thorpey is a bass and garage artist based in United Kingdom, with 30 gigs on sou
 
 Dr Cryptic, Phatworld, Cardiac
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thorpey/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thorpey/)*

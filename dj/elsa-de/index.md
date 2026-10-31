@@ -1,6 +1,6 @@
 # ELSA (DE)
 
-ELSA (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at THF Radio / Torhaus, Berlin on Fri, 6 Nov 2026.
+ELSA (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at THF Radio / Torhaus, Berlin on Fri, 6 Nov 2026.
 
 ELSA (DE) is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Dortmund / Essen, Frankfurt and Karlsruhe and 2 more. Often billed alongside .Cheka, Ceasul and Francesca Kazka. Next up: THF Radio / Torhaus, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ELSA (DE) is a techno and house artist based in Germany, with 16 gigs on soundch
 
 .Cheka, Ceasul, Francesca Kazka
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elsa-de/)*

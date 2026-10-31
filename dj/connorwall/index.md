@@ -1,6 +1,6 @@
 # Connor Wall
 
-Connor Wall is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OXI, Berlin on Sat, 31 Oct 2026.
+Connor Wall is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at OXI, Berlin on Sat, 31 Oct 2026.
 
 Connor Wall is a techno and house artist based in Australia, with 52 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 28 more. Often billed alongside Anthony Linell, Tauceti (FR) and Toobris. Next up: OXI, Berlin on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Connor Wall is a techno and house artist based in Australia, with 52 gigs on sou
 
 Anthony Linell, Tauceti (FR), Toobris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/connorwall/)*

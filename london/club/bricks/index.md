@@ -1,14 +1,13 @@
 # Bricks
 
-Bricks is a music venue in London with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hebe Jeebie Halloween" on Fri, 30 Oct 2026.
+Bricks is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY" on Sat, 31 Oct 2026.
 
-Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Body Clinic and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
+Bricks is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Adela, Antepop, AVANTIME and Body Clinic and 2 more. See dates, start times and who's playing. 414 Coldharbour Lane, London, United Kingdom SW9 8LF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Hebe Jeebie Halloween |  |
 | Sat, 31 Oct 2026 | HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY |  |
 | Fri, 6 Nov 2026 | Juice Rekords w/ Strike-E, Tom Da Silva + more |  |
 | Fri, 6 Nov 2026 | SYCAMORE.club | Henson, Parff |
@@ -18,9 +17,10 @@ Bricks is a music venue in London listed on soundcheck. 12 upcoming gigs, with l
 | Fri, 20 Nov 2026 | ADVANCED DANCE | ewing |
 | Fri, 27 Nov 2026 | Ceazars Uk: Winter Warmers |  |
 | Sat, 28 Nov 2026 | AM x ARRVL present: Two Years of AM | AVANTIME, Adela, Innerstice, Ritchie Haydn, ZIYING |
+| Sat, 28 Nov 2026 | take1 presents: Wigs, Body Clinic, SOFA | Body Clinic, Mark Darcy, SOFA (UK), TARZI, Tom Wigley, Wigs, tasha.mp4 |
 
 ## Address
 
 414 Coldharbour Lane, London, United Kingdom SW9 8LF, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bricks/)*

@@ -1,6 +1,6 @@
 # randal1na
 
-randal1na is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Goethebunker, Dortmund / Essen on Sat, 31 Oct 2026.
+randal1na is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Goethebunker, Dortmund / Essen on Sat, 31 Oct 2026.
 
 randal1na is a techno and house artist, with 16 gigs on soundcheck across Dortmund / Essen and Hamburg. Often billed alongside EPHIE, wonka and Gutkind. Next up: Goethebunker, Dortmund / Essen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ randal1na is a techno and house artist, with 16 gigs on soundcheck across Dortmu
 
 EPHIE, wonka, Gutkind
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randal1na/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/randal1na/)*

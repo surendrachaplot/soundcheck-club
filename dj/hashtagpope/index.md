@@ -1,6 +1,6 @@
 # HASHTAGPOPE
 
-HASHTAGPOPE is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Dubai on Sat, 31 Oct 2026.
+HASHTAGPOPE is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Dubai on Sat, 31 Oct 2026.
 
 HASHTAGPOPE is a breakbeat and bass artist based in South Korea, with 41 gigs on soundcheck across Dubai, Seoul and Tokyo. Often billed alongside Nimvy, Tabris and AEIDA. Next up: TBA, Dubai on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ HASHTAGPOPE is a breakbeat and bass artist based in South Korea, with 41 gigs on
 
 Nimvy, Tabris, AEIDA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hashtagpope/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hashtagpope/)*

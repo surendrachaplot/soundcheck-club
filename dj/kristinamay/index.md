@@ -1,6 +1,6 @@
 # Kristina May
 
-Kristina May is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Vittoria Wharf Studio, London on Sat, 31 Oct 2026.
+Kristina May is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Vittoria Wharf Studio, London on Sat, 31 Oct 2026.
 
 Kristina May is a techno and electro artist based in Moldova, with 19 gigs on soundcheck across Hamburg and London. Often billed alongside Alien Communications, CRL and 50PHIE. Next up: Vittoria Wharf Studio, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kristina May is a techno and electro artist based in Moldova, with 19 gigs on so
 
 Alien Communications, CRL (1), 50PHIE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*

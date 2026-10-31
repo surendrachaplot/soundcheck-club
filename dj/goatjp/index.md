@@ -1,6 +1,6 @@
 # Goat (JP)
 
-Goat (JP) is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at MS Stubnitz, Hamburg on Tue, 3 Nov 2026.
+Goat (JP) is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at MS Stubnitz, Hamburg on Tue, 3 Nov 2026.
 
 Goat (JP) is an experimental and techno artist based in Japan, with 18 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 8 more. Often billed alongside Alva Noto, Arsenal Mikebe and Nicola Cruz. Next up: MS Stubnitz, Hamburg on Tue 3 Nov.
 
@@ -29,4 +29,4 @@ Goat (JP) is an experimental and techno artist based in Japan, with 18 gigs on s
 
 Alva Noto, Arsenal Mikebe, Nicola Cruz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goatjp/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goatjp/)*

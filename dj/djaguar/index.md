@@ -1,6 +1,6 @@
 # D Jaguar
 
-D Jaguar is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Rama Soundgarden, Medellin on Sun, 15 Nov 2026.
+D Jaguar is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Rama Soundgarden, Medellin on Sun, 15 Nov 2026.
 
 D Jaguar is a house and minimal artist based in Colombia, with 87 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogotá and 2 more. Often billed alongside Martin Leaves, JD Groovin' and Donnie Cosmo. Next up: Rama Soundgarden, Medellin on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ D Jaguar is a house and minimal artist based in Colombia, with 87 gigs on soundc
 
 Martin Leaves, JD Groovin', Donnie Cosmo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguar/)*

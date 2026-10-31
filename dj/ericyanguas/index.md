@@ -1,6 +1,6 @@
 # Eric Yanguas
 
-Eric Yanguas is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Noxe Barcelona, Barcelona on Tue, 3 Nov 2026.
+Eric Yanguas is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Noxe Barcelona, Barcelona on Tue, 3 Nov 2026.
 
 Eric Yanguas is a house and minimal artist based in Spain, with 17 gigs on soundcheck across Barcelona. Often billed alongside Vikki, Alex Silva and Nesi. Next up: Noxe Barcelona, Barcelona on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Eric Yanguas is a house and minimal artist based in Spain, with 17 gigs on sound
 
 Vikki, Alex Silva, Nesi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyanguas/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyanguas/)*

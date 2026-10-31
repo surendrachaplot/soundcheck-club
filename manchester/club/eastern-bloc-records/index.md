@@ -1,14 +1,13 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "present Tense" on Fri, 30 Oct 2026.
+Eastern Bloc Records is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Yard One presents" on Sat, 31 Oct 2026.
 
-Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Amy Amor, Balrog, Benedict and BinaryFunction and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
+Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including Balrog, BinaryFunction, Campbell and Charlie Boy Manson and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | present Tense | Amy Amor, Benedict |
 | Sat, 31 Oct 2026 | Yard One presents | Means&3rd, Sam The Bastard, Yard One |
 | Thu, 5 Nov 2026 | Bussdown | Campbell, Charlie Boy Manson, Mattik (UK), Subbuteo, Urma |
 | Fri, 6 Nov 2026 | Precision | Connor Southerland, Dig This |
@@ -18,9 +17,10 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 15 upc
 | Sat, 14 Nov 2026 | Mujo | Ikigai, Nikol |
 | Thu, 19 Nov 2026 | Scrambled Network |  |
 | Fri, 20 Nov 2026 | BLERP |  |
+| Sat, 21 Nov 2026 | eastern bloc presents Sam Redmore | Jim Bane, Sam Redmore |
 
 ## Address
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

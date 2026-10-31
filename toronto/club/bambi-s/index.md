@@ -1,14 +1,13 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Slayers Ball w/Pato Mallet, House of Lords and Ludo" on Fri, 30 Oct 2026.
+Bambi's is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Dungeon Dance - Halloween in The Grotto 4AM" on Sat, 31 Oct 2026.
 
-Bambi's is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including 99hp, Amedeo (CA), Carlos Estebban and DINO and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
+Bambi's is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including 99hp, Amedeo (CA), Carlos Estebban and DINO and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Slayers Ball w/Pato Mallet, House of Lords and Ludo | House of Lords, Immigrant Muscle, Pato Mallet |
 | Sat, 31 Oct 2026 | Dungeon Dance - Halloween in The Grotto 4AM | Maria Taifour, Mikey Apples, R-ODERICK, Tony Price |
 | Fri, 6 Nov 2026 | NiceUP! - Trailcam / Nautiluss / Raf Reza | Nautiluss, Raf Reza, Trailcam |
 | Sat, 7 Nov 2026 | pirouette | Amedeo (CA), DINO (3), Ficilio |
@@ -23,4 +22,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

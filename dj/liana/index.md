@@ -1,6 +1,6 @@
 # Liana
 
-Liana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bikini Club, Barcelona on Sat, 21 Nov 2026.
+Liana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bikini Club, Barcelona on Sat, 21 Nov 2026.
 
 Liana is a house and techno artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Pacome, Fer (ES) and A.M. Project. Next up: Bikini Club, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Liana is a house and techno artist based in Spain, with 45 gigs on soundcheck ac
 
 Pacome, Fer (ES), A.M. Project
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liana/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liana/)*

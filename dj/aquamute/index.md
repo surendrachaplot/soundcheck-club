@@ -1,6 +1,6 @@
 # Aqua Mute
 
-Aqua Mute is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Roma, Norte, Mexico City on Sat, 21 Nov 2026.
+Aqua Mute is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Roma, Norte, Mexico City on Sat, 21 Nov 2026.
 
 Aqua Mute is an electronica and ambient artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside Bluecommand, Bvlok and Phanta. Next up: TBA - Roma, Norte, Mexico City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Aqua Mute is an electronica and ambient artist based in Mexico, with 10 gigs on 
 
 Bluecommand, Bvlok, Phanta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamute/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamute/)*

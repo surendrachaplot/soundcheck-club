@@ -1,6 +1,6 @@
 # Innersha
 
-Innersha is a Techno and Experimental artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
+Innersha is a Techno and Experimental artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Innersha is a techno and experimental artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 17 more. Often billed alongside Dasha Rush, Polar Inertia and Spekki Webu. Next up: Gray Area, San Francisco/Oakland on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Innersha is a techno and experimental artist based in Armenia, with 32 gigs on s
 
 Dasha Rush, Polar Inertia, Spekki Webu
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

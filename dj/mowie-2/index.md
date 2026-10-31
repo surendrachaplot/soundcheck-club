@@ -1,6 +1,6 @@
 # Mowie (2)
 
-Mowie (2) is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ESC, Montreal on Sat, 31 Oct 2026.
+Mowie (2) is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ESC, Montreal on Sat, 31 Oct 2026.
 
 Mowie is a hardcore and gabber artist based in Canada, with 20 gigs on soundcheck across Montreal and Toronto. Often billed alongside the bald girl, Baby Bimbo and Outback. Next up: ESC, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Mowie is a hardcore and gabber artist based in Canada, with 20 gigs on soundchec
 
 the bald girl, Baby Bimbo, Outback
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie-2/)*

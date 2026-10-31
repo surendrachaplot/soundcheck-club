@@ -1,6 +1,6 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Alex Kassian is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
 Alex Kassian is a house and techno artist based in Germany, with 204 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 67 more. Often billed alongside PARAMIDA, Running Hot and Job Jobse. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Alex Kassian is a house and techno artist based in Germany, with 204 gigs on sou
 
 PARAMIDA, Running Hot, Job Jobse
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

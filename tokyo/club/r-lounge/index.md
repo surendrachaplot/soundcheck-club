@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "NEKO MAFIA × /baile HALLOWEEN SPECIAL with MEZZER B2B GOUZOU" on Sat, 31 Oct 2026.
+R Lounge is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "NEKO MAFIA × /baile HALLOWEEN SPECIAL with MEZZER B2B GOUZOU" on Sat, 31 Oct 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including 063N13, 雷庵(RYan), akii and Aliceyuki and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with 
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

@@ -1,6 +1,6 @@
 # Kousei
 
-Kousei is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 13 Nov 2026.
+Kousei is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Nulab Chengdu, Chengdu on Fri, 13 Nov 2026.
 
 Kousei is a techno and trance artist based in China, with 45 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside Heiyuen, Night Swimmer and S.M.S.H. Next up: Nulab Chengdu, Chengdu on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kousei is a techno and trance artist based in China, with 45 gigs on soundcheck 
 
 Heiyuen, Night Swimmer, S.M.S.H
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kousei/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kousei/)*

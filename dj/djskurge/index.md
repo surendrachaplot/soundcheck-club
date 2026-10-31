@@ -1,6 +1,6 @@
 # DJ Skurge
 
-DJ Skurge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 7 Nov 2026.
+DJ Skurge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 7 Nov 2026.
 
 DJ Skurge is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Berlin, Detroit and Montreal. Often billed alongside Isaac Prieto, MGUN and Nick Speed. Next up: Acud Macht NEU, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Skurge is a techno and house artist based in United States of America, with 1
 
 Isaac Prieto, MGUN, Nick Speed
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskurge/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskurge/)*

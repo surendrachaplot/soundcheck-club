@@ -1,6 +1,6 @@
 # Baby J (2)
 
-Baby J (2) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Don Quixote, Los Angeles on Fri, 13 Nov 2026.
+Baby J (2) is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Don Quixote, Los Angeles on Fri, 13 Nov 2026.
 
 Baby J is a baile funk and bass artist based in Australia, with 19 gigs on soundcheck across Birmingham, Bristol, Chicago and Hong Kong and 10 more. Often billed alongside Tye Turner, LARISHKA (UK) and IN PARALLEL. Next up: Don Quixote, Los Angeles on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Baby J is a baile funk and bass artist based in Australia, with 19 gigs on sound
 
 Tye Turner, LARISHKA (UK), IN PARALLEL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babyj-2/)*

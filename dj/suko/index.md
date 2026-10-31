@@ -1,6 +1,6 @@
 # Suko
 
-Suko is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
+Suko is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
 
 Suko is a techno and r&b artist based in Spain, with 13 gigs on soundcheck across Barcelona, Dublin and Madrid. Often billed alongside Miguel Rivas, Renderkid and HARVAR. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Suko is a techno and r&b artist based in Spain, with 13 gigs on soundcheck acros
 
 Miguel Rivas, Renderkid, HARVAR
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suko/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suko/)*

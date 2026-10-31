@@ -1,6 +1,6 @@
 # TS7
 
-TS7 is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 20 Nov 2026.
+TS7 is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 20 Nov 2026.
 
 TS7 is a bass and house artist based in United Kingdom, with 21 gigs on soundcheck across Auckland, Birmingham, Bristol and Glasgow and 6 more. Often billed alongside Burgaboy, Chad Harrison and DJ Q. Next up: Joshua Brooks, Manchester on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ TS7 is a bass and house artist based in United Kingdom, with 21 gigs on soundche
 
 Burgaboy, Chad Harrison, DJ Q
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ts7/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ts7/)*

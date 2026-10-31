@@ -1,6 +1,6 @@
 # Lino Fuso
 
-Lino Fuso is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - FREQUENZA 79, Naples on Sat, 31 Oct 2026.
+Lino Fuso is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - FREQUENZA 79, Naples on Sat, 31 Oct 2026.
 
 Lino Fuso is a techno and tech house artist based in Italy, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 11 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: TBA - FREQUENZA 79, Naples on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Lino Fuso is a techno and tech house artist based in Italy, with 76 gigs on soun
 
 Cambric, Alex Sharp, ADRIANNA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linofuso/)*

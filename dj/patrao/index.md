@@ -1,6 +1,6 @@
 # PATRAO
 
-PATRAO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pitoëff / Salle Communale De Plainpalais, Geneva on Sat, 7 Nov 2026.
+PATRAO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Pitoëff / Salle Communale De Plainpalais, Geneva on Sat, 7 Nov 2026.
 
 PATRAO is a techno and house artist based in India, with 23 gigs on soundcheck across Amsterdam, Byron Bay, Geneva and Melbourne and 2 more. Often billed alongside Mazuko, Ben Nott and Cassette. Next up: Pitoëff / Salle Communale De Plainpalais, Geneva on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ PATRAO is a techno and house artist based in India, with 23 gigs on soundcheck a
 
 Mazuko, Ben Nott, Cassette
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrao/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrao/)*

@@ -1,6 +1,6 @@
 # Ida Engberg
 
-Ida Engberg is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Studio 338, London on Sat, 31 Oct 2026.
+Ida Engberg is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Studio 338, London on Sat, 31 Oct 2026.
 
 Ida Engberg is a techno and house artist based in Sweden, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside Carl Cox, Kölsch and Indira Paganotto. Next up: Studio 338, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Ida Engberg is a techno and house artist based in Sweden, with 114 gigs on sound
 
 Carl Cox, Kölsch, Indira Paganotto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*

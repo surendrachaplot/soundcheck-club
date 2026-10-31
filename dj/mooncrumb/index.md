@@ -1,6 +1,6 @@
 # Mooncrumb
 
-Mooncrumb is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 20 Nov 2026.
+Mooncrumb is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sinners and Saints, Washington DC on Fri, 20 Nov 2026.
 
 Mooncrumb is a club and ghetto tech artist based in United States of America, with 27 gigs on soundcheck across Baltimore, Philadelphia and Washington DC. Often billed alongside JACKIECHANSDOG, CYB3R T0NIN and DJ KORIS. Next up: Sinners and Saints, Washington DC on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mooncrumb is a club and ghetto tech artist based in United States of America, wi
 
 JACKIECHANSDOG, CYB3R T0NIN, DJ KORIS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mooncrumb/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mooncrumb/)*

@@ -1,6 +1,6 @@
 # Garnica
 
-Garnica is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Dr. Dou Social Club, Barcelona on Fri, 6 Nov 2026.
+Garnica is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Dr. Dou Social Club, Barcelona on Fri, 6 Nov 2026.
 
 Garnica is a disco and balearic artist, with 32 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Kiss Me Again and Trujillo. Next up: Dr. Dou Social Club, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Garnica is a disco and balearic artist, with 32 gigs on soundcheck across Barcel
 
 Kiss Me Again, Trujillo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garnica/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/garnica/)*

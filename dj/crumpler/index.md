@@ -1,6 +1,6 @@
 # Crumpler
 
-Crumpler is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bricks, London on Fri, 4 Dec 2026.
+Crumpler is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bricks, London on Fri, 4 Dec 2026.
 
 Crumpler is a house and broken beat artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Listiq, Sam Sharp and Yozza. Next up: Bricks, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Crumpler is a house and broken beat artist based in United Kingdom, with 13 gigs
 
 Listiq, Sam Sharp, Yozza
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crumpler/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crumpler/)*

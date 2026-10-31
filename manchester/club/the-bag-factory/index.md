@@ -1,6 +1,6 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Club Curated: Open Decks & Social - Bonfire Night" on Thu, 5 Nov 2026.
+The Bag Factory is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Club Curated: Open Decks & Social - Bonfire Night" on Thu, 5 Nov 2026.
 
 The Bag Factory is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including FOULMOUTH, KABOCANA, Lilyn and Madelaine Jemine and 2 more. See dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
@@ -19,4 +19,4 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 6 upcoming 
 
 Dickinson St, Manchester M3 7LW, Manchester
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-bag-factory/)*

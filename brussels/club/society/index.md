@@ -1,6 +1,6 @@
 # Society
 
-Society is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "𝐒𝐎𝐂𝐈𝐄𝐓𝐘 x 𝐇𝐀𝐋𝐋𝐎𝐖𝐄𝐄𝐍 • ᴡɪᴛʜ 𝗦𝗢𝗖𝗜𝗘𝗧𝗬 𝗦𝗢𝗨𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠 • SAT 31.10" on Sat, 31 Oct 2026.
+Society is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "𝐒𝐎𝐂𝐈𝐄𝐓𝐘 x 𝐇𝐀𝐋𝐋𝐎𝐖𝐄𝐄𝐍 • ᴡɪᴛʜ 𝗦𝗢𝗖𝗜𝗘𝗧𝗬 𝗦𝗢𝗨𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠 • SAT 31.10" on Sat, 31 Oct 2026.
 
 Society is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Belben, Ivory and MAKII. See dates, start times and who's playing. Rue Sainte-Anne 20, 1000 Bruxelles.
 
@@ -15,4 +15,4 @@ Society is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with
 
 Rue Sainte-Anne 20, 1000 Bruxelles, Brussels
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/society/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/society/)*

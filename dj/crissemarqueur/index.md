@@ -1,6 +1,6 @@
 # CrisseMarqueur
 
-CrisseMarqueur is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Datcha, Montreal on Sat, 31 Oct 2026.
+CrisseMarqueur is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bar Datcha, Montreal on Sat, 31 Oct 2026.
 
 CrisseMarqueur is a techno and electro artist based in Canada, with 73 gigs on soundcheck across Montreal and Toronto. Often billed alongside Pretty Privilege, Syana and Jade(MTL). Next up: Bar Datcha, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CrisseMarqueur is a techno and electro artist based in Canada, with 73 gigs on s
 
 Pretty Privilege, Syana, Jade(MTL)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crissemarqueur/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crissemarqueur/)*

@@ -1,6 +1,6 @@
 # Dr Morse
 
-Dr Morse is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Space'd presents: Jack J (DJ Set) (Mood Hut/Pender Street Steppers)" on Mon, 2 Nov 2026.
+Dr Morse is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Space'd presents: Jack J (DJ Set) (Mood Hut/Pender Street Steppers)" on Mon, 2 Nov 2026.
 
 Dr Morse is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Empty DJ and Mullen. See dates, start times and who's playing. 274 Johnston St; Abbotsford VIC 3067.
 
@@ -15,4 +15,4 @@ Dr Morse is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, wi
 
 274 Johnston St; Abbotsford VIC 3067, Melbourne
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/dr-morse/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/dr-morse/)*

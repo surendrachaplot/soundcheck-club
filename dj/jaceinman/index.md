@@ -1,6 +1,6 @@
 # Jace Inman
 
-Jace Inman is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Schubas, Chicago on Fri, 13 Nov 2026.
+Jace Inman is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Schubas, Chicago on Fri, 13 Nov 2026.
 
 Jace Inman is a techno and idm artist based in United States of America, with 34 gigs on soundcheck across Chicago. Often billed alongside Steve Noah, Dj Scari and Caro Arroba. Next up: Schubas, Chicago on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Jace Inman is a techno and idm artist based in United States of America, with 34
 
 Steve Noah, Dj Scari, Caro Arroba
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaceinman/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaceinman/)*

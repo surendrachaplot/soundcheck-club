@@ -1,6 +1,6 @@
 # Neon Christina
 
-Neon Christina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at H0L0, New York City on Fri, 20 Nov 2026.
+Neon Christina is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at H0L0, New York City on Fri, 20 Nov 2026.
 
 Neon Christina is a techno and house artist, with 9 gigs on soundcheck across New York City. Often billed alongside Via App, Yaki and ALEXIS DE LA ROSA. Next up: H0L0, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Neon Christina is a techno and house artist, with 9 gigs on soundcheck across Ne
 
 Via App, Yaki, ALEXIS DE LA ROSA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonchristina/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neonchristina/)*

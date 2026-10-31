@@ -1,6 +1,6 @@
 # Vsan
 
-Vsan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Oven Club, Valencia on Sat, 31 Oct 2026.
+Vsan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Oven Club, Valencia on Sat, 31 Oct 2026.
 
 Vsan is a house and tech house artist, with 27 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 4 more. Often billed alongside ELi, Blanch and Hamish & Toby. Next up: Oven Club, Valencia on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Vsan is a house and tech house artist, with 27 gigs on soundcheck across Barcelo
 
 ELi, Blanch, Hamish & Toby
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsan/)*

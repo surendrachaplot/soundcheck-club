@@ -1,6 +1,6 @@
 # OGUZ
 
-OGUZ is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 31 Oct 2026.
+OGUZ is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 31 Oct 2026.
 
 OGUZ is a techno and house artist based in Turkey, with 233 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 76 more. Often billed alongside DYEN, Nico Moreno and Basswell. Next up: The Classic Grand, Glasgow on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ OGUZ is a techno and house artist based in Turkey, with 233 gigs on soundcheck a
 
 DYEN, Nico Moreno, Basswell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oguz/)*

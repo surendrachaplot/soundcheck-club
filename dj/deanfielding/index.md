@@ -1,6 +1,6 @@
 # Dean Fielding
 
-Dean Fielding is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hope House, Leeds on Fri, 6 Nov 2026.
+Dean Fielding is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Hope House, Leeds on Fri, 6 Nov 2026.
 
 Dean Fielding is a deep house and disco artist, with 15 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Harry Rook, Jamz Supernova and Joe Hell. Next up: Hope House, Leeds on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dean Fielding is a deep house and disco artist, with 15 gigs on soundcheck acros
 
 Harry Rook, Jamz Supernova, Joe Hell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanfielding/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deanfielding/)*

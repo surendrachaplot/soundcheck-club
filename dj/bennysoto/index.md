@@ -1,6 +1,6 @@
 # Benny Soto
 
-Benny Soto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Benny Soto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
 Benny Soto is a house and techno artist based in United States of America, with 39 gigs on soundcheck across New York City. Often billed alongside Mike Nervous, Danny Krivit and AG (NYC). Next up: H0L0, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Benny Soto is a house and techno artist based in United States of America, with 
 
 Mike Nervous, Danny Krivit, AG (NYC)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysoto/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysoto/)*

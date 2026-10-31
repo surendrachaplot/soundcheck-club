@@ -1,6 +1,6 @@
 # FAballert
 
-FAballert is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Späti Bro, Warschauer Str., Berlin on Sat, 31 Oct 2026.
+FAballert is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Späti Bro, Warschauer Str., Berlin on Sat, 31 Oct 2026.
 
 FAballert is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Dr.Waumiau, Armaville and F O R E S I G H T. Next up: TBA - Späti Bro, Warschauer Str., Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ FAballert is a techno and trance artist based in Germany, with 15 gigs on soundc
 
 Dr.Waumiau, Armaville, F O R E S I G H T
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faballert/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faballert/)*

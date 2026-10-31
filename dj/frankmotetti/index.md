@@ -1,6 +1,6 @@
 # Frank Motetti
 
-Frank Motetti is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fitzroy, Berlin on Sun, 22 Nov 2026.
+Frank Motetti is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fitzroy, Berlin on Sun, 22 Nov 2026.
 
 Frank Motetti is a house and disco artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside NeZoomie, Unsined and Anjawah. Next up: Fitzroy, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Frank Motetti is a house and disco artist based in Germany, with 10 gigs on soun
 
 NeZoomie, Unsined, Anjawah
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankmotetti/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankmotetti/)*

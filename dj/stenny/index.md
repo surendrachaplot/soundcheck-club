@@ -1,14 +1,13 @@
 # Stenny
 
-Stenny is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bunker, Turin on Fri, 30 Oct 2026.
+Stenny is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 31 Oct 2026.
 
-Stenny is a techno and house artist based in Italy, with 139 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Bunker, Turin on Fri 30 Oct.
+Stenny is a techno and house artist based in Italy, with 139 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Bunker | Turin |
 | Sat, 31 Oct 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
 | Sat, 7 Nov 2026 | Garage Noord | Amsterdam |
 | Wed, 11 Nov 2026 | Utopia - A Happening Place | Munich |
@@ -20,6 +19,7 @@ Stenny is a techno and house artist based in Italy, with 139 gigs on soundcheck 
 
 ## Recently played
 
+- Bunker, Turin · Fri, 30 Oct 2026
 - Torso Electronics, Copenhagen · Fri, 2 Oct 2026
 - Rote Sonne, Munich · Fri, 18 Sept 2026
 - Renate, Berlin · Fri, 11 Sept 2026
@@ -27,10 +27,9 @@ Stenny is a techno and house artist based in Italy, with 139 gigs on soundcheck 
 - BLITZ, Munich · Fri, 31 Jul 2026
 - Garchinger See, Munich · Sat, 18 Jul 2026
 - Legal, Munich · Sat, 18 Jul 2026
-- Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Zenker Brothers, Tasha, Skee Mask
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

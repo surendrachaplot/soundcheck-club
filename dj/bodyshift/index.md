@@ -1,6 +1,6 @@
 # BODYSHIFT
 
-BODYSHIFT is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+BODYSHIFT is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 BODYSHIFT is a house and techno artist based in Germany, with 28 gigs on soundcheck across Berlin, Hamburg and Lisbon. Often billed alongside SIBAST, Qualia Trax and Manta. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -14,6 +14,7 @@ BODYSHIFT is a house and techno artist based in Germany, with 28 gigs on soundch
 
 ## Recently played
 
+- Kater, Berlin · Fri, 30 Oct 2026
 - Hoppetosse, Berlin · Fri, 11 Sept 2026
 - KitKatClub, Berlin · Fri, 4 Sept 2026
 - Kater, Berlin · Fri, 21 Aug 2026
@@ -21,10 +22,9 @@ BODYSHIFT is a house and techno artist based in Germany, with 28 gigs on soundch
 - Kater, Berlin · Sat, 25 Jul 2026
 - OXI, Berlin · Sun, 28 Jun 2026
 - Fitzroy, Berlin · Fri, 22 May 2026
-- Outra Cena, Lisbon · Sat, 16 May 2026
 
 ## Shares bills with
 
 SIBAST, Qualia Trax, Manta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodyshift/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bodyshift/)*

@@ -1,6 +1,6 @@
 # AMOUNKA
 
-AMOUNKA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KOKO, London on Fri, 11 Dec 2026.
+AMOUNKA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at KOKO, London on Fri, 11 Dec 2026.
 
 AMOUNKA is a house and afro house artist, with 15 gigs on soundcheck across Berlin, Cologne, Copenhagen and Düsseldorf and 2 more. Often billed alongside Jo van der Meer, ALADAG and AMÉMÉ. Next up: KOKO, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ AMOUNKA is a house and afro house artist, with 15 gigs on soundcheck across Berl
 
 Jo van der Meer, ALADAG, AMÉMÉ
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amounka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amounka/)*

@@ -1,6 +1,6 @@
 # Akey
 
-Akey is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cube, Tokyo on Sat, 21 Nov 2026.
+Akey is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Cube, Tokyo on Sat, 21 Nov 2026.
 
 Akey is a techno and electro artist based in Japan, with 47 gigs on soundcheck across Hanoi, Melbourne, Osaka and Tokyo. Often billed alongside Golpe Mortal, MAYUDEPTH and the2$. Next up: Cube, Tokyo on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Akey is a techno and electro artist based in Japan, with 47 gigs on soundcheck a
 
 Golpe Mortal, MAYUDEPTH, the2$
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akey/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akey/)*

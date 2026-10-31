@@ -1,6 +1,6 @@
 # Akufen
 
-Akufen is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Salon Daomé, Montreal on Sat, 7 Nov 2026.
+Akufen is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Salon Daomé, Montreal on Sat, 7 Nov 2026.
 
 Akufen is a minimal and house artist based in Canada, with 10 gigs on soundcheck across Berlin, Bucharest, London and Montreal. Often billed alongside Ohm Hourani, Claire and Foehn & Jerome. Next up: Salon Daomé, Montreal on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Akufen is a minimal and house artist based in Canada, with 10 gigs on soundcheck
 
 Ohm Hourani, Claire, Foehn & Jerome
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akufen/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akufen/)*

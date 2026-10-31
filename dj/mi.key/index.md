@@ -1,6 +1,6 @@
 # mi.key
 
-mi.key is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Sydney on Fri, 20 Nov 2026.
+mi.key is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Sydney on Fri, 20 Nov 2026.
 
 mi.key is a progressive house and techno artist based in Australia, with 14 gigs on soundcheck across Sydney. Often billed alongside Bouki, Rowhan and fuchsia. Next up: TBA, Sydney on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ mi.key is a progressive house and techno artist based in Australia, with 14 gigs
 
 Bouki, Rowhan, fuchsia
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mi.key/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mi.key/)*

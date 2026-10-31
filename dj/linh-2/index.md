@@ -1,6 +1,6 @@
 # Linh (2)
 
-Linh (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
+Linh (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at glimmer, Hamburg on Sat, 31 Oct 2026.
 
 Linh is a techno and house artist based in Germany, with 19 gigs on soundcheck across Hamburg, Hannover and Ho Chi Minh City. Often billed alongside SPORTMANN, co:co and Alex Benz. Next up: glimmer, Hamburg on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Linh is a techno and house artist based in Germany, with 19 gigs on soundcheck a
 
 SPORTMANN, co:co, Alex Benz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linh-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linh-2/)*

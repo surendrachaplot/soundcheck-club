@@ -1,6 +1,6 @@
 # JULIA
 
-JULIA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+JULIA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 JULIA is a house and techno artist, with 7 gigs on soundcheck across Bali, Budapest, Moscow and Saint Petersburg and 2 more. Often billed alongside Chain Damage, Kyk and ALOD. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ JULIA is a house and techno artist, with 7 gigs on soundcheck across Bali, Budap
 
 Chain Damage, Kyk, ALOD
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/julia/)*

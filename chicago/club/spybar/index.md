@@ -1,14 +1,13 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Joss Dean" on Fri, 30 Oct 2026.
+Spybar is a music venue in Chicago with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween Night feat. Iglesias" on Sat, 31 Oct 2026.
 
-Spybar is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including Franc Fala, Iglesias, Joss Dean and Luke Alexander and 1 more. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
+Spybar is a music venue in Chicago listed on soundcheck. 8 upcoming gigs, with line-ups including Franc Fala, Iglesias, Luke Alexander and Tre Reynolds. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Joss Dean | Joss Dean |
 | Sat, 31 Oct 2026 | Halloween Night feat. Iglesias | Iglesias |
 | Sat, 7 Nov 2026 | Avina's House |  |
 | Fri, 13 Nov 2026 | Pedroz |  |
@@ -22,4 +21,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with l
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

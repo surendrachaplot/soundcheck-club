@@ -1,14 +1,13 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 19 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk" on Fri, 30 Oct 2026.
+Ormside Projects is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "5 GATE TEMPLE ~ HALLOWEEN ~ Nkisi / JUNIOR LOVES / D. PHYLLEIA / LANDLOCK (LIVE)" on Sat, 31 Oct 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Alba Akvama, Anina, Appleblim and Beatrice M. and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Alba Akvama, Anina, Appleblim and Beatrice M. and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | mi-el presents Pulling Threads w/ Kelman Duran, ojoo, Lord Tusk | Kelman Duran, Lord Tusk, mi-el, ojoo |
 | Sat, 31 Oct 2026 | 5 GATE TEMPLE ~ HALLOWEEN ~ Nkisi / JUNIOR LOVES / D. PHYLLEIA / LANDLOCK (LIVE) | John T. Gast, Nkisi, Xterea, d.phylleia |
 | Wed, 4 Nov 2026 | PRIVATELIFE011 | Alba Akvama |
 | Thu, 5 Nov 2026 | SAFADA: Nature Hacks Technology | Gadutra, Nymity |
@@ -18,9 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 19 upcoming gi
 | Fri, 13 Nov 2026 | Manuka Honey Invites: Pochola / Oluwa / Kaanijo | Kaanijo, Manuka Honey, Pochola |
 | Sat, 14 Nov 2026 | Buckley Curates: Appleblim and Beatrice M | Appleblim, Beatrice M., Buckley (UK) |
 | Sun, 15 Nov 2026 | Diversion with Beatcrime Soundsystem | Cloud Management, Elijah Minnelli, Zoe Pea, sinny |
+| Thu, 19 Nov 2026 | Automatic Album Launch | Rat Section |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

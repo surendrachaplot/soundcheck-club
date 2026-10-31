@@ -1,6 +1,6 @@
 # KAVAL
 
-KAVAL is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 28 Nov 2026.
+KAVAL is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 28 Nov 2026.
 
 KAVAL is a bass and club artist, with 9 gigs on soundcheck across Bordeaux, Bristol, Brussels and Glasgow and 4 more. Often billed alongside Another Pixel, Apollo Noir and Charlotte Tuesday. Next up: Kazimier Garden, Liverpool on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KAVAL is a bass and club artist, with 9 gigs on soundcheck across Bordeaux, Bris
 
 Another Pixel, Apollo Noir, Charlotte Tuesday
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaval/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaval/)*

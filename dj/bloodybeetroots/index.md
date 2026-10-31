@@ -1,6 +1,6 @@
 # The Bloody Beetroots
 
-The Bloody Beetroots is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+The Bloody Beetroots is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
 
 The Bloody Beetroots is an electro and house artist based in Italy, with 17 gigs on soundcheck across Antwerp, Austin, Barcelona and Budapest and 12 more. Often billed alongside Acidnena, Aerobica and Alex Martin. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ The Bloody Beetroots is an electro and house artist based in Italy, with 17 gigs
 
 ## Recently played
 
+- Parc des Expositions Paris Nord, Paris · Fri, 30 Oct 2026
 - Zuiderpark, Rotterdam · Fri, 11 Sept 2026
 - Bootshaus, Cologne · Sat, 16 Aug 2025
 - Nitsa Club, Barcelona · Fri, 25 Jul 2025
@@ -19,10 +20,9 @@ The Bloody Beetroots is an electro and house artist based in Italy, with 17 gigs
 - Smolna, Warsaw · Fri, 23 May 2025
 - Webster Hall, New York City · Fri, 2 May 2025
 - Fairmount Theatre, Montreal · Thu, 1 May 2025
-- Fonda Theatre, Los Angeles · Fri, 25 Apr 2025
 
 ## Shares bills with
 
 Acidnena, Aerobica, Alex Martin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodybeetroots/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodybeetroots/)*

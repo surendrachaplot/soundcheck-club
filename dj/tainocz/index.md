@@ -1,6 +1,6 @@
 # Täino
 
-Täino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bike Jesus, Prague on Fri, 6 Nov 2026.
+Täino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bike Jesus, Prague on Fri, 6 Nov 2026.
 
 Täino is a techno and house artist based in Czech Republic, with 2 gigs on soundcheck across Prague. Often billed alongside Roman Rai, Funk D'Void and Ludviq. Next up: Bike Jesus, Prague on Fri 6 Nov.
 
@@ -15,4 +15,4 @@ Täino is a techno and house artist based in Czech Republic, with 2 gigs on soun
 
 Roman Rai, Funk D'Void, Ludviq
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tainocz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tainocz/)*

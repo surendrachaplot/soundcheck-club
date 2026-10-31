@@ -1,6 +1,6 @@
 # David Moleon
 
-David Moleon is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sala Oxido, Madrid on Fri, 27 Nov 2026.
+David Moleon is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sala Oxido, Madrid on Fri, 27 Nov 2026.
 
 David Moleon is a techno artist based in Spain, with 13 gigs on soundcheck across Barcelona, Berlin, Madrid and Mallorca and 2 more. Often billed alongside Nuke, Oscar Mulero and Adriana Lopez. Next up: Sala Oxido, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ David Moleon is a techno artist based in Spain, with 13 gigs on soundcheck acros
 
 Nuke, Oscar Mulero, Adriana Lopez
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmoleon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmoleon/)*

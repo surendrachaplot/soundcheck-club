@@ -1,6 +1,6 @@
 # Prosto Dre
 
-Prosto Dre is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sekta Selekta, Krakow on Sun, 1 Nov 2026.
+Prosto Dre is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sekta Selekta, Krakow on Sun, 1 Nov 2026.
 
 Prosto Dre is an electro and techno artist based in Ukraine, with 61 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Badalian, Kondrat and Meke. Next up: Sekta Selekta, Krakow on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Prosto Dre is an electro and techno artist based in Ukraine, with 61 gigs on sou
 
 Badalian, Kondrat, Meke
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prostodre/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prostodre/)*

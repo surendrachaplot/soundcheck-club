@@ -1,6 +1,6 @@
 # STIPP
 
-STIPP is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 13 Nov 2026.
+STIPP is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 13 Nov 2026.
 
 STIPP is a house and techno artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Malta, Rotterdam and Utrecht. Often billed alongside Alec Dienaar, Figi and TWIENA. Next up: Skatecafe, Amsterdam on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ STIPP is a house and techno artist based in Netherlands, with 26 gigs on soundch
 
 Alec Dienaar, Figi, TWIENA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stipp/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stipp/)*

@@ -1,6 +1,6 @@
 # MBark
 
-MBark is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat, 31 Oct 2026.
+MBark is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat, 31 Oct 2026.
 
 MBark is a hardcore and techno artist based in Latvia, with 8 gigs on soundcheck across Riga. Often billed alongside XSYNC19, MVKO and oshigakill. Next up: TBA - SECRET LOCATION, GRĪZIŅKALNS, Riga on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ MBark is a hardcore and techno artist based in Latvia, with 8 gigs on soundcheck
 
 XSYNC19, MVKO, oshigakill
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbark/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mbark/)*

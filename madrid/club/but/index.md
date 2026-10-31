@@ -1,6 +1,6 @@
 # But
 
-But is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "COBRAH" on Wed, 25 Nov 2026.
+But is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "COBRAH" on Wed, 25 Nov 2026.
 
 But is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including COBRAH, Jersey and NTO. See dates, start times and who's playing. Barcelo, 11; 28004 Madrid; Spain.
 
@@ -16,4 +16,4 @@ But is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-
 
 Barcelo, 11; 28004 Madrid; Spain, Madrid
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/but/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/but/)*

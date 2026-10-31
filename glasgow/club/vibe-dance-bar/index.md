@@ -1,6 +1,6 @@
 # Vibe Dance Bar
 
-Vibe Dance Bar is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Twin Flame Presents: Girls Of Underground" on Sat, 12 Dec 2026.
+Vibe Dance Bar is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Twin Flame Presents: Girls Of Underground" on Sat, 12 Dec 2026.
 
 Vibe Dance Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Vibe Dance Bar is a music venue in Glasgow listed on soundcheck. 1 upcoming gig.
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Twin Flame Presents: Girls Of Underground |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibe-dance-bar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/vibe-dance-bar/)*

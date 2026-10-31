@@ -1,6 +1,6 @@
 # Space Motion
 
-Space Motion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mansion Club, Malta on Sat, 12 Dec 2026.
+Space Motion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mansion Club, Malta on Sat, 12 Dec 2026.
 
 Space Motion is a techno and house artist based in Serbia, with 62 gigs on soundcheck across Austin, Bali, Barcelona and Belgrade and 28 more. Often billed alongside MOii, Mar+Mer and Anfisa Letyago. Next up: Mansion Club, Malta on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Space Motion is a techno and house artist based in Serbia, with 62 gigs on sound
 
 MOii, Mar+Mer, Anfisa Letyago
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacemotion/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spacemotion/)*

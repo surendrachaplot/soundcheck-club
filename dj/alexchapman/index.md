@@ -1,6 +1,6 @@
 # Alex Chapman
 
-Alex Chapman is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Alex Chapman is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Alex Chapman is a club and pop artist based in United States of America, with 28 gigs on soundcheck across Chicago, Ibiza, London and Los Angeles and 6 more. Often billed alongside Zoe Gitter, MALUGI and VTSS. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ Alex Chapman is a club and pop artist based in United States of America, with 28
 
 ## Recently played
 
+- NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Avalon Hollywood, Los Angeles · Thu, 29 Oct 2026
 - Ingram Plaza, San Diego · Sat, 17 Oct 2026
 - Celebrities Night Club, Vancouver · Sat, 1 Aug 2026
@@ -19,10 +20,9 @@ Alex Chapman is a club and pop artist based in United States of America, with 28
 - Silencio, Paris · Wed, 24 Jun 2026
 - The Regency Ballroom, San Francisco/Oakland · Sat, 13 Jun 2026
 - Avalon Hollywood, Los Angeles · Fri, 12 Jun 2026
-- TBA, Los Angeles · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Zoe Gitter, MALUGI, VTSS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexchapman/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexchapman/)*

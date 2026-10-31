@@ -1,6 +1,6 @@
 # shaiwarrior
 
-shaiwarrior is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Stereo, Glasgow on Thu, 5 Nov 2026.
+shaiwarrior is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Stereo, Glasgow on Thu, 5 Nov 2026.
 
 shaiwarrior is an experimental and hip-hop artist, with 9 gigs on soundcheck across Birmingham, Glasgow and London. Often billed alongside Lijan, Megsuperstarprincess and Oatmilkandcodeine. Next up: Stereo, Glasgow on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ shaiwarrior is an experimental and hip-hop artist, with 9 gigs on soundcheck acr
 
 Lijan, Megsuperstarprincess, Oatmilkandcodeine
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaiwarrior/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaiwarrior/)*

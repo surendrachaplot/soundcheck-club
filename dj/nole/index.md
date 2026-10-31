@@ -1,6 +1,6 @@
 # Nöle
 
-Nöle is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Skin Club, Madrid on Sat, 7 Nov 2026.
+Nöle is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Skin Club, Madrid on Sat, 7 Nov 2026.
 
 Nöle is a techno and electro artist based in Spain, with 54 gigs on soundcheck across Madrid, Paris and Valencia. Often billed alongside Ricardo Morales, HCOR and 1st Degree. Next up: Skin Club, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nöle is a techno and electro artist based in Spain, with 54 gigs on soundcheck 
 
 Ricardo Morales, HCOR, 1st Degree
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nole/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nole/)*

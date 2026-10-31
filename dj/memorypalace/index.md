@@ -1,6 +1,6 @@
 # Memory Palace
 
-Memory Palace is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at LAUT, Barcelona on Fri, 6 Nov 2026.
+Memory Palace is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at LAUT, Barcelona on Fri, 6 Nov 2026.
 
 Memory Palace is a techno and club artist based in Colombia, with 19 gigs on soundcheck across Barcelona and London. Often billed alongside Jhort, Breixo Martinez and Christian AB. Next up: LAUT, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Memory Palace is a techno and club artist based in Colombia, with 19 gigs on sou
 
 Jhort, Breixo Martinez, Christian AB
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memorypalace/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memorypalace/)*

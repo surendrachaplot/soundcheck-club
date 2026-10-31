@@ -1,6 +1,6 @@
 # Hare & Hounds
 
-Hare & Hounds is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "An Afternoon with Mr Scruff" on Sun, 1 Nov 2026.
+Hare & Hounds is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "An Afternoon with Mr Scruff" on Sun, 1 Nov 2026.
 
 Hare & Hounds is a music venue in Birmingham listed on soundcheck. 5 upcoming gigs, with line-ups including Fabio, Grooverider, Horse Meat Disco and Mr Scruff and 1 more. See dates, start times and who's playing. 106 High Street; Birmingham, B14 7JZ; United Kingdom.
 
@@ -18,4 +18,4 @@ Hare & Hounds is a music venue in Birmingham listed on soundcheck. 5 upcoming gi
 
 106 High Street; Birmingham, B14 7JZ; United Kingdom, Birmingham
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/hare-hounds/)*

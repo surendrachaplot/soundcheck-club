@@ -1,6 +1,6 @@
 # Gysèle
 
-Gysèle is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at export, Rotterdam on Sat, 23 Jan 2027.
+Gysèle is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at export, Rotterdam on Sat, 23 Jan 2027.
 
 Gysèle is a hardcore and gabber artist based in Netherlands, with 47 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Leipzig and 2 more. Often billed alongside Akemiö Grey, Da Gremlin and HyperLili. Next up: export, Rotterdam on Sat 23 Jan.
 
@@ -26,4 +26,4 @@ Gysèle is a hardcore and gabber artist based in Netherlands, with 47 gigs on so
 
 Akemiö Grey, Da Gremlin, HyperLili
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gysele-nl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gysele-nl/)*

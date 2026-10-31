@@ -1,6 +1,6 @@
 # Rena
 
-Rena is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at COUNTER CLUB, Tokyo on Sun, 1 Nov 2026.
+Rena is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at COUNTER CLUB, Tokyo on Sun, 1 Nov 2026.
 
 Rena is a techno and hip-hop artist, with 11 gigs on soundcheck across Athens, New York City and Tokyo. Often billed alongside IMPVLSIV, BACCHE and LUCID.. Next up: COUNTER CLUB, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Rena is a techno and hip-hop artist, with 11 gigs on soundcheck across Athens, N
 
 IMPVLSIV, BACCHE, LUCID.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rena/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rena/)*

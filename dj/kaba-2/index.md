@@ -1,6 +1,6 @@
 # Kaba (2)
 
-Kaba (2) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nido Marseille, Marseille on Sun, 8 Nov 2026.
+Kaba (2) is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Nido Marseille, Marseille on Sun, 8 Nov 2026.
 
 Kaba is a house and hip-hop artist based in France, with 11 gigs on soundcheck across Bordeaux, Lausanne, Lyon and Marseille and 1 more. Often billed alongside Hyas, Beatrice M. and MaelCobb. Next up: Nido Marseille, Marseille on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Kaba is a house and hip-hop artist based in France, with 11 gigs on soundcheck a
 
 Hyas, Beatrice M., MaelCobb
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaba-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaba-2/)*

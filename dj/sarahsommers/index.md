@@ -1,6 +1,6 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ZENNER, Berlin on Sat, 31 Oct 2026.
+Sarah Sommers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ZENNER, Berlin on Sat, 31 Oct 2026.
 
 Sarah Sommers is a techno and house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 27 more. Often billed alongside Josef Kunz, Dr. Rubinstein and Ellen Allien. Next up: ZENNER, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Sarah Sommers is a techno and house artist based in Germany, with 62 gigs on sou
 
 Josef Kunz, Dr. Rubinstein, Ellen Allien
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

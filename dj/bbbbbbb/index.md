@@ -1,6 +1,6 @@
 # BBBBBBB
 
-BBBBBBB is a Hardcore and Noise artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+BBBBBBB is a Hardcore and Noise artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 BBBBBBB is a hardcore and noise artist based in Japan, with 22 gigs on soundcheck across Berlin, Kyoto, Lisbon and Ljubljana and 5 more. Often billed alongside moreru, deadfish eyes and iida Reo. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ BBBBBBB is a hardcore and noise artist based in Japan, with 22 gigs on soundchec
 
 moreru, deadfish eyes, iida Reo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bbbbbbb/)*

@@ -1,6 +1,6 @@
 # Deckard
 
-Deckard is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Paloma, Barcelona on Sat, 7 Nov 2026.
+Deckard is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Paloma, Barcelona on Sat, 7 Nov 2026.
 
 Deckard is a house and techno artist based in Spain, with 167 gigs on soundcheck across Barcelona, Bologna, Lyon and Madrid and 3 more. Often billed alongside Fede Zerdan, Zonzo and Bruno (DO). Next up: La Paloma, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Deckard is a house and techno artist based in Spain, with 167 gigs on soundcheck
 
 Fede Zerdan, Zonzo, Bruno (DO)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deckard/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deckard/)*

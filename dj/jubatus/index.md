@@ -1,6 +1,6 @@
 # Jubatus
 
-Jubatus is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Xero Club, Medellin on Sun, 1 Nov 2026.
+Jubatus is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Xero Club, Medellin on Sun, 1 Nov 2026.
 
 Jubatus is a techno and hardcore artist, with 29 gigs on soundcheck across Medellin. Often billed alongside Common Poetry, The Fabric Of Reality and Hologramm. Next up: Xero Club, Medellin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Jubatus is a techno and hardcore artist, with 29 gigs on soundcheck across Medel
 
 Common Poetry, The Fabric Of Reality, Hologramm
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubatus/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jubatus/)*

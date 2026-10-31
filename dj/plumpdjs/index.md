@@ -1,6 +1,6 @@
 # Plump DJs
 
-Plump DJs is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
+Plump DJs is a Breakbeat and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
 
 Plump DJs is a breakbeat and house artist based in United Kingdom, with 23 gigs on soundcheck across Auckland, Birmingham, Brighton and Budapest and 8 more. Often billed alongside Krafty Kuts, Freestylers and Stanton Warriors. Next up: Brixton Jamm, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Plump DJs is a breakbeat and house artist based in United Kingdom, with 23 gigs 
 
 Krafty Kuts, Freestylers, Stanton Warriors
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plumpdjs/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/plumpdjs/)*

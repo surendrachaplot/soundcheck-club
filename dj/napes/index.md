@@ -1,6 +1,6 @@
 # Napes
 
-Napes is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+Napes is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
 
 Napes is a drum & bass and jungle artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 16 more. Often billed alongside Samurai Breaks, Toby Ross and 4am Kru. Next up: The Prospect Building, Bristol on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ Napes is a drum & bass and jungle artist based in United Kingdom, with 90 gigs o
 
 Samurai Breaks, Toby Ross, 4am Kru
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napes/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/napes/)*

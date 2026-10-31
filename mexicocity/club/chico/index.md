@@ -1,15 +1,13 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sonido Isla & TYFS presents:" on Fri, 30 Oct 2026.
+CHICO is a music venue in Mexico City with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Ritual del Kaoz: Halloween" on Sat, 31 Oct 2026.
 
-CHICO is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including BB Lux, binkan!, BLOODHOUND and Charles Moon and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
+CHICO is a music venue in Mexico City listed on soundcheck. 6 upcoming gigs, with line-ups including binkan!, Concepción Huerta, deeplinkin and El irreal Veintiuno and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Sonido Isla & TYFS presents: | BB Lux, BLOODHOUND (3), Charles Moon, NAP (MX), ZDBT |
-| Fri, 30 Oct 2026 | Otono x Utensilio Takeover con Ansiedad1000 |  |
 | Sat, 31 Oct 2026 | Ritual del Kaoz: Halloween | Milothicc, Murderith |
 | Sat, 7 Nov 2026 | MUTEK en CHICO | El irreal Veintiuno, Miss Jay (RO), Seli (2), binkan!, nimrock11 |
 | Thu, 12 Nov 2026 | Paisaje Futuro: Son Los Dioses Tribales | Rosa Pistola, Tony Gallardo |
@@ -21,4 +19,4 @@ CHICO is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, wit
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

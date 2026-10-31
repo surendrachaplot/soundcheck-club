@@ -1,6 +1,6 @@
 # Shoma fr,dambosound
 
-Shoma fr,dambosound is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
+Shoma fr,dambosound is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Aoyama Hachi, Tokyo on Sat, 31 Oct 2026.
 
 Shoma fr,dambosound are a house and hip-hop duo based in Japan, with 29 gigs on soundcheck across Tokyo. Often billed alongside miute, ecec and JUN INAGAWA. Next up: Aoyama Hachi, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Shoma fr,dambosound are a house and hip-hop duo based in Japan, with 29 gigs on 
 
 miute, ecec, JUN INAGAWA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shomafr,dambosound/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shomafr,dambosound/)*

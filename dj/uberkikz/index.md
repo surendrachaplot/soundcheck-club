@@ -1,14 +1,13 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+ÜBERKIKZ is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Complejo Embrujo, South on Sat, 31 Oct 2026.
 
-ÜBERKIKZ is a techno and house artist based in Russia, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: E1, London on Fri 30 Oct.
+ÜBERKIKZ is a techno and house artist based in Russia, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: Complejo Embrujo, South on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | E1 | London |
 | Sat, 31 Oct 2026 | Complejo Embrujo | South |
 | Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 7 Nov 2026 | Muziekcentrum Enschede | Netherlands |
@@ -20,9 +19,11 @@
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 11 Dec 2026 | Gate Milano | Milan |
 | Fri, 11 Dec 2026 | Gate Milano | Milan |
+| Fri, 18 Dec 2026 | Smolna | Warsaw |
 
 ## Recently played
 
+- E1, London · Fri, 30 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - RADION, Amsterdam · Sun, 25 Oct 2026
 - Gotec, Karlsruhe · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - INPUT High Fidelity Dance Club, Barcelona · Fri, 2 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 19 Sept 2026
-- TBA - Brussels, Brussels · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 future.666, DJ Hyperdrive, Cloudy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

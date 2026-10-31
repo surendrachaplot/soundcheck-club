@@ -1,14 +1,13 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Red Room Halloween Launch - SECRET GUEST" on Fri, 30 Oct 2026.
+NDR2 Red Room is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Syncopate presents: Benny Ill (Horsepower Productions)" on Sat, 31 Oct 2026.
 
-NDR2 Red Room is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, anne névroses and Aria and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
+NDR2 Red Room is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Aaron Burr, Alex, from Deep, anne névroses and Aria and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Red Room Halloween Launch - SECRET GUEST |  |
 | Sat, 31 Oct 2026 | Syncopate presents: Benny Ill (Horsepower Productions) | Alex, from Deep, Aria (3), Benny Ill, Ovrtic |
 | Sat, 7 Nov 2026 | Grounded London: Matteo Manzini | Aaron Burr (2), Martel (UK), Matteo Manzini, Myles Apps, Rhys Dyer |
 | Fri, 13 Nov 2026 | Benyayer (Live) + Tania Atyabi + Rainbow Conspiracy | Benyayer, Rainbow Conspiracy, Tania Atyabi |
@@ -21,4 +20,4 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 8 upcoming gigs, 
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

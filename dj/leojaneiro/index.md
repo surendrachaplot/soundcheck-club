@@ -1,6 +1,6 @@
 # Leo Janeiro
 
-Leo Janeiro is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Armazem Solon, Sao Paulo on Sat, 28 Nov 2026.
+Leo Janeiro is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Armazem Solon, Sao Paulo on Sat, 28 Nov 2026.
 
 Leo Janeiro is a house and disco artist based in Brazil, with 69 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 5 more. Often billed alongside Leo J, Bernardo Campos and From House to Disco. Next up: Armazem Solon, Sao Paulo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Leo Janeiro is a house and disco artist based in Brazil, with 69 gigs on soundch
 
 Leo J, Bernardo Campos, From House to Disco
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leojaneiro/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leojaneiro/)*

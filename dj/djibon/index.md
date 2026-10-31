@@ -1,6 +1,6 @@
 # DJ IBON
 
-DJ IBON is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Villa, Oslo on Fri, 6 Nov 2026.
+DJ IBON is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Villa, Oslo on Fri, 6 Nov 2026.
 
 DJ IBON is a trance and techno artist based in Norway, with 67 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside ibon, Matriark and HORNS. Next up: The Villa, Oslo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ IBON is a trance and techno artist based in Norway, with 67 gigs on soundchec
 
 ibon, Matriark, HORNS (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djibon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djibon/)*

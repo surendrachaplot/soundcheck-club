@@ -1,8 +1,8 @@
 # Kyra Khaldi
 
-Kyra Khaldi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 7 Nov 2026.
+Kyra Khaldi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 7 Nov 2026.
 
-Kyra Khaldi is a house and techno artist based in Netherlands, with 148 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: Radio Radio, Amsterdam on Sat 7 Nov.
+Kyra Khaldi is a house and techno artist based in Netherlands, with 149 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside Moody Mehran, Benny Rodrigues and Boris Coelman. Next up: Radio Radio, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kyra Khaldi is a house and techno artist based in Netherlands, with 148 gigs on 
 | Sat, 7 Nov 2026 | Radio Radio | Amsterdam |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 12 Dec 2026 | Lofi | Amsterdam |
+| Fri, 25 Dec 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Kyra Khaldi is a house and techno artist based in Netherlands, with 148 gigs on 
 
 Moody Mehran, Benny Rodrigues, Boris Coelman
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrakhaldi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyrakhaldi/)*

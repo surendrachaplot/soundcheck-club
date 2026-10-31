@@ -1,6 +1,6 @@
 # YOTAKHI
 
-YOTAKHI is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Supermarket, Zurich on Fri, 20 Nov 2026.
+YOTAKHI is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Supermarket, Zurich on Fri, 20 Nov 2026.
 
 YOTAKHI is a deep house and afro house artist based in Switzerland, with 20 gigs on soundcheck across Basel and Zurich. Often billed alongside whereisvero, Dejan and Ronny Grauer. Next up: Supermarket, Zurich on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ YOTAKHI is a deep house and afro house artist based in Switzerland, with 20 gigs
 
 whereisvero, Dejan, Ronny Grauer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yotakhi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yotakhi/)*

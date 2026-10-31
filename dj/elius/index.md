@@ -1,6 +1,6 @@
 # Eli (US)
 
-Eli (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Knockdown Center, New-york-city on Fri, 29 Jan 2027.
+Eli (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Knockdown Center, New-york-city on Fri, 29 Jan 2027.
 
 Eli (US) is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Los Angeles, Mexico City and New York City. Often billed alongside Mateo (US), Sainte Vie and Ivory. Next up: Knockdown Center, New York City on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Eli (US) is a techno and house artist based in United States of America, with 18
 
 Mateo (US), Sainte Vie, Ivory
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elius/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elius/)*

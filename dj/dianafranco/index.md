@@ -1,6 +1,6 @@
 # Diana Franco
 
-Diana Franco is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Domicile, Miami on Fri, 6 Nov 2026.
+Diana Franco is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Domicile, Miami on Fri, 6 Nov 2026.
 
 Diana Franco is a techno and experimental artist based in United States of America, with 12 gigs on soundcheck across Miami. Often billed alongside Low Earth Orbit, Mila Gama and Radar. Next up: Domicile, Miami on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Diana Franco is a techno and experimental artist based in United States of Ameri
 
 Low Earth Orbit, Mila Gama, Radar
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianafranco/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dianafranco/)*

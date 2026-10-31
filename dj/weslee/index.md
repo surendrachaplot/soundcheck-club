@@ -1,6 +1,6 @@
 # Wes Lee
 
-Wes Lee is a Afro Tech and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
+Wes Lee is a Afro Tech and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
 
 Wes Lee is an afro tech and amapiano artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Helsinki, Montreal and New York City and 4 more. Often billed alongside State OFFF, Cincity and Rancido. Next up: SMS 514.613.5811 FOR LOCATION, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wes Lee is an afro tech and amapiano artist based in Netherlands, with 67 gigs o
 
 State OFFF, Cincity, Rancido
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weslee/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/weslee/)*

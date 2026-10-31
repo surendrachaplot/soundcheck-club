@@ -1,6 +1,6 @@
 # Auntie Klockwise
 
-Auntie Klockwise is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rovr Soho, London on Sat, 28 Nov 2026.
+Auntie Klockwise is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rovr Soho, London on Sat, 28 Nov 2026.
 
 Auntie Klockwise is a techno and bass artist based in Taiwan, with 12 gigs on soundcheck across London. Often billed alongside bejeebe, Vince Lam and Stella Z. Next up: Rovr Soho, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Auntie Klockwise is a techno and bass artist based in Taiwan, with 12 gigs on so
 
 bejeebe, Vince Lam, Stella Z
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieklockwise/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auntieklockwise/)*

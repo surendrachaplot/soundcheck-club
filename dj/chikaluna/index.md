@@ -1,6 +1,6 @@
 # Chika Luna
 
-Chika Luna is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at COUNTER CLUB, Tokyo on Sun, 1 Nov 2026.
+Chika Luna is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at COUNTER CLUB, Tokyo on Sun, 1 Nov 2026.
 
 Chika Luna is a house and techno artist based in Japan, with 94 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SUETSUGU. Next up: COUNTER CLUB, Tokyo on Sun 1 Nov.
 
@@ -28,4 +28,4 @@ Chika Luna is a house and techno artist based in Japan, with 94 gigs on soundche
 
 Yamariki, PUNK N MATRIX, SUETSUGU
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chikaluna/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chikaluna/)*

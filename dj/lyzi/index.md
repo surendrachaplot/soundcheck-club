@@ -1,6 +1,6 @@
 # LYZI
 
-LYZI is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
+LYZI is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at elipamanoke, Leipzig on Fri, 20 Nov 2026.
 
 LYZI is a techno and hardcore artist, with 14 gigs on soundcheck across Berlin and Leipzig. Often billed alongside UNTENLINKS, noirn0a and SPLINTER. Next up: elipamanoke, Leipzig on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ LYZI is a techno and hardcore artist, with 14 gigs on soundcheck across Berlin a
 
 UNTENLINKS, noirn0a, SPLINTER (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lyzi/)*

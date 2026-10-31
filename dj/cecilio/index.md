@@ -1,6 +1,6 @@
 # Cecilio
 
-Cecilio is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
+Cecilio is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
 
 Cecilio is a house and techno artist based in Spain, with 118 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 28 more. Often billed alongside Laurine, S.Moreira and Jorge Escribano. Next up: Hoppetosse, Berlin on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Cecilio is a house and techno artist based in Spain, with 118 gigs on soundcheck
 
 Laurine, S.Moreira, Jorge Escribano
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cecilio/)*

@@ -1,6 +1,6 @@
 # Tom_Ato
 
-Tom_Ato is a Trance and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 28 Nov 2026.
+Tom_Ato is a Trance and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Palazzo Permanens, Budapest on Sat, 28 Nov 2026.
 
 Tom_Ato is a trance and acid artist based in Hungary, with 22 gigs on soundcheck across Budapest. Often billed alongside Faktor-X, Kvrk and SLYM. Next up: Palazzo Permanens, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tom_Ato is a trance and acid artist based in Hungary, with 22 gigs on soundcheck
 
 Faktor-X, Kvrk, SLYM
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tom-ato/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tom-ato/)*

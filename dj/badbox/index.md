@@ -1,6 +1,6 @@
 # BADBOX
 
-BADBOX is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Villa Thalia, Rotterdam on Fri, 6 Nov 2026.
+BADBOX is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Villa Thalia, Rotterdam on Fri, 6 Nov 2026.
 
 BADBOX is an afro house and afro tech artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Ibiza, London and Oslo and 1 more. Often billed alongside Mr Silk, Tinovcc and AfroKillerz. Next up: Club Villa Thalia, Rotterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ BADBOX is an afro house and afro tech artist based in United Kingdom, with 28 gi
 
 Mr Silk, Tinovcc, AfroKillerz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badbox/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badbox/)*

@@ -1,6 +1,6 @@
 # Sugar
 
-Sugar is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 7 Nov 2026.
+Sugar is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at EXIT Glasgow, Glasgow on Sat, 7 Nov 2026.
 
 Sugar is a techno and trance artist based in Denmark, with 52 gigs on soundcheck across Antwerp, Barcelona, Basel and Berlin and 17 more. Often billed alongside Schacke, Ezy and Mohajer. Next up: EXIT Glasgow, Glasgow on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Sugar is a techno and trance artist based in Denmark, with 52 gigs on soundcheck
 
 Schacke, Ezy, Mohajer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sugar/)*

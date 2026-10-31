@@ -1,6 +1,6 @@
 # Katnada
 
-Katnada is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fitzroy, Berlin on Fri, 11 Dec 2026.
+Katnada is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fitzroy, Berlin on Fri, 11 Dec 2026.
 
 Katnada is a techno and tech house artist, with 37 gigs on soundcheck across Barcelona, Berlin, Ibiza and Milan. Often billed alongside Mar-T, Marco Faraone and SEMREH. Next up: Fitzroy, Berlin on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Katnada is a techno and tech house artist, with 37 gigs on soundcheck across Bar
 
 Mar-T, Marco Faraone, SEMREH
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katnada/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katnada/)*

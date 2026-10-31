@@ -1,6 +1,6 @@
 # Interference
 
-Interference is a music venue in Toulouse with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "23:59: Doruksen - All Night long" on Tue, 10 Nov 2026.
+Interference is a music venue in Toulouse with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "23:59: Doruksen - All Night long" on Tue, 10 Nov 2026.
 
 Interference is a music venue in Toulouse listed on soundcheck. 3 upcoming gigs, with line-ups including Chocolanouar and Doruksen. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Interference is a music venue in Toulouse listed on soundcheck. 3 upcoming gigs,
 | Fri, 20 Nov 2026 | 10 YEARS OF RAVE - Moontrip x Interference | Chocolanouar |
 | Sat, 26 Dec 2026 | Jingle RAVE: Moontrip x Interference |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toulouse/club/interference/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toulouse/club/interference/)*

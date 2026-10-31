@@ -1,6 +1,6 @@
 # Alien D
 
-Alien D is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ErF Studios, New York City on Fri, 13 Nov 2026.
+Alien D is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ErF Studios, New York City on Fri, 13 Nov 2026.
 
 Alien D is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Denver, Los Angeles, Miami and Montreal and 3 more. Often billed alongside No Sir, Andrew Devlin and Yibing. Next up: ErF Studios, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Alien D is a techno and house artist based in United States of America, with 67 
 
 No Sir, Andrew Devlin, Yibing
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliend/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliend/)*

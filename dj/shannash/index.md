@@ -1,6 +1,6 @@
 # Shan Nash
 
-Shan Nash is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - DTLA, Los Angeles on Thu, 31 Dec 2026.
+Shan Nash is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - DTLA, Los Angeles on Thu, 31 Dec 2026.
 
 Shan Nash is a deep house and house artist based in United States of America, with 28 gigs on soundcheck across Istanbul, Los Angeles, Miami and New York City and 2 more. Often billed alongside Ali Farahani, Borak and Gru.di. Next up: TBA - DTLA, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Shan Nash is a deep house and house artist based in United States of America, wi
 
 Ali Farahani, Borak, Gru.di
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannash/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shannash/)*

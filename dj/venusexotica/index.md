@@ -1,6 +1,6 @@
 # Venus Exotica
 
-Venus Exotica is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Péniche Cinéma, Paris on Fri, 13 Nov 2026.
+Venus Exotica is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Péniche Cinéma, Paris on Fri, 13 Nov 2026.
 
 Venus Exotica is a house and acid artist based in Turkey, with 11 gigs on soundcheck across Istanbul, London and Paris. Often billed alongside MIRZA, Track Advisor and Abul Mogard. Next up: La Péniche Cinéma, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Venus Exotica is a house and acid artist based in Turkey, with 11 gigs on soundc
 
 MIRZA, Track Advisor, Abul Mogard
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venusexotica/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venusexotica/)*

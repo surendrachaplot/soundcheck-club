@@ -1,6 +1,6 @@
 # Skepsis
 
-Skepsis is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
+Skepsis is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
 Skepsis is a drum & bass and bass artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 26 more. Often billed alongside Darkzy, Window Kid and Charlie Tee. Next up: Lab11, Birmingham on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Skepsis is a drum & bass and bass artist based in United Kingdom, with 67 gigs o
 
 Darkzy, Window Kid, Charlie Tee
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skepsis/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skepsis/)*

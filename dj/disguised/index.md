@@ -1,6 +1,6 @@
 # Disguised
 
-Disguised is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at C115, Berlin on Sat, 14 Nov 2026.
+Disguised is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at C115, Berlin on Sat, 14 Nov 2026.
 
 Disguised is a techno and house artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Beijing, Berlin and Cologne and 19 more. Often billed alongside Kim She, AYLIN IDAH and Cryptofauna. Next up: C115, Berlin on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Disguised is a techno and house artist based in Germany, with 104 gigs on soundc
 
 Kim She, AYLIN IDAH, Cryptofauna
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disguised/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disguised/)*

@@ -1,6 +1,6 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "★ S.A.S.H Sydney ★ Sam Bangura ★ Saturday 31st October ★" on Sat, 31 Oct 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 17 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "★ S.A.S.H Sydney ★ Sam Bangura ★ Saturday 31st October ★" on Sat, 31 Oct 2026.
 
 Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 17 upcoming gigs, with line-ups including Cristina Lazic, Ellia Jaya, Lauren Lo Sung and Patrice Bäumel and 1 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
@@ -23,4 +23,4 @@ Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 17 upco
 
 Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000, Sydney
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/carousel-bar-ballroom/)*

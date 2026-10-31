@@ -1,6 +1,6 @@
 # Cáit
 
-Cáit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 14 Nov 2026.
+Cáit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 14 Nov 2026.
 
 Cáit is a house and techno artist based in Ireland, with 60 gigs on soundcheck across Amsterdam, Belfast, Berlin and Copenhagen and 11 more. Often billed alongside Fio Fa, Mercorn and Angel D'lite. Next up: The Ulster Sports Club, Belfast on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Cáit is a house and techno artist based in Ireland, with 60 gigs on soundcheck 
 
 Fio Fa, Mercorn, Angel D'lite
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cait/)*

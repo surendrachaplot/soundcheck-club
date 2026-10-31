@@ -1,6 +1,6 @@
 # Cris Herrera
 
-Cris Herrera is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Quartyard, San Diego on Sat, 19 Dec 2026.
+Cris Herrera is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Quartyard, San Diego on Sat, 19 Dec 2026.
 
 Cris Herrera is a house and deep house artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Detroit, Guadalajara and San Diego and 1 more. Often billed alongside Paul Najera, Boys Don't Disco and Oscar P. Next up: Quartyard, San Diego on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Cris Herrera is a house and deep house artist based in United States of America,
 
 Paul Najera, Boys Don't Disco, Oscar P
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crisherrera/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crisherrera/)*

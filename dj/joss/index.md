@@ -1,6 +1,6 @@
 # Joss
 
-Joss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Thu, 12 Nov 2026.
+Joss is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Thu, 12 Nov 2026.
 
 Joss is a house and tech house artist based in Ukraine, with 12 gigs on soundcheck across Bali, Berlin, Cyprus and Mexico City and 4 more. Often billed alongside ALXS, AWEN and Adam Beyer. Next up: Golden Gate, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Joss is a house and tech house artist based in Ukraine, with 12 gigs on soundche
 
 ALXS, AWEN, Adam Beyer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joss/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joss/)*

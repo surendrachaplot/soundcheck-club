@@ -1,6 +1,6 @@
 # Sleeparchive
 
-Sleeparchive is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sat, 28 Nov 2026.
+Sleeparchive is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Paloma, Berlin on Sat, 28 Nov 2026.
 
 Sleeparchive is a techno and electro artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brussels and 3 more. Often billed alongside DJ Pete, Developer and Finn Johannsen. Next up: Paloma, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Sleeparchive is a techno and electro artist based in Germany, with 20 gigs on so
 
 DJ Pete, Developer, Finn Johannsen
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeparchive/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sleeparchive/)*

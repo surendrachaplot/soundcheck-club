@@ -1,6 +1,6 @@
 # Local Suicide
 
-Local Suicide is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Colours Hoxton, London on Sat, 31 Oct 2026.
+Local Suicide is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Colours Hoxton, London on Sat, 31 Oct 2026.
 
 Local Suicide is a techno and house artist based in Greece, with 91 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 24 more. Often billed alongside Frankie Flowerz, Dina Summer and Kalipo. Next up: Colours Hoxton, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Local Suicide is a techno and house artist based in Greece, with 91 gigs on soun
 
 Frankie Flowerz, Dina Summer, Kalipo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localsuicide/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/localsuicide/)*

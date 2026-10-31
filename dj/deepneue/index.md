@@ -1,6 +1,6 @@
 # Deepneue
 
-Deepneue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
+Deepneue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
 
 Deepneue is a techno and house artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 17 more. Often billed alongside Rakans, Projekt Gestalten and Rachel Noon. Next up: ROSA, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Deepneue is a techno and house artist based in Germany, with 72 gigs on soundche
 
 Rakans, Projekt Gestalten, Rachel Noon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepneue/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deepneue/)*

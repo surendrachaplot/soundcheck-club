@@ -1,6 +1,6 @@
 # Little Buildings
 
-Little Buildings is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "_grıt: DADs x Sovnarkom" on Sat, 14 Nov 2026.
+Little Buildings is a music venue in Newcastle with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "_grıt: DADs x Sovnarkom" on Sat, 14 Nov 2026.
 
 Little Buildings is a music venue in Newcastle listed on soundcheck. 1 upcoming gig, with line-ups including DADs. See dates, start times and who's playing. Ford St, Newcastle upon Tyne NE6 1LN, UK.
 
@@ -14,4 +14,4 @@ Little Buildings is a music venue in Newcastle listed on soundcheck. 1 upcoming 
 
 Ford St, Newcastle upon Tyne NE6 1LN, UK, Newcastle
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/little-buildings/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/little-buildings/)*

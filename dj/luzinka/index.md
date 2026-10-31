@@ -1,6 +1,6 @@
 # Luzinka
 
-Luzinka is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Graf Karl, Kassel on Fri, 6 Nov 2026.
+Luzinka is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Graf Karl, Kassel on Fri, 6 Nov 2026.
 
 Luzinka is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Kassel and Münster. Often billed alongside snoritz, M.A.S.C and Valeby. Next up: Graf Karl, Kassel on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Luzinka is a trance and techno artist based in Germany, with 14 gigs on soundche
 
 snoritz, M.A.S.C, Valeby
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luzinka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luzinka/)*

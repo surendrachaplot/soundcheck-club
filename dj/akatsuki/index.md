@@ -1,6 +1,6 @@
 # Akatsuki
 
-Akatsuki is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
+Akatsuki is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Red River Cruise, Hanoi on Sat, 31 Oct 2026.
 
 Akatsuki is a house and funk / soul artist, with 40 gigs on soundcheck across Hanoi and Tokyo. Often billed alongside NaiBan, Wai Kru and Sydney Barringer. Next up: Red River Cruise, Hanoi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Akatsuki is a house and funk / soul artist, with 40 gigs on soundcheck across Ha
 
 NaiBan, Wai Kru, Sydney Barringer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akatsuki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akatsuki/)*

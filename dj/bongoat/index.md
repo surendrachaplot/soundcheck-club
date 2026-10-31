@@ -1,18 +1,18 @@
 # Bongoat
 
-Bongoat is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at RADION, Amsterdam on Fri, 30 Oct 2026.
+Bongoat is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 8 Nov 2026.
 
-Bongoat is a techno and experimental artist, with 9 gigs on soundcheck across Amsterdam. Often billed alongside CyberFairy777, Kaikaina and Millyosa. Next up: RADION, Amsterdam on Fri 30 Oct.
+Bongoat is a techno and experimental artist, with 9 gigs on soundcheck across Amsterdam. Often billed alongside CyberFairy777, Kaikaina and Millyosa. Next up: Garage Noord, Amsterdam on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | RADION | Amsterdam |
 | Sun, 8 Nov 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 
+- RADION, Amsterdam · Fri, 30 Oct 2026
 - Garage Noord, Amsterdam · Fri, 18 Sept 2026
 - De Fik Garden, Amsterdam · Fri, 8 May 2026
 - Garage Noord, Amsterdam · Sat, 4 Apr 2026
@@ -25,4 +25,4 @@ Bongoat is a techno and experimental artist, with 9 gigs on soundcheck across Am
 
 CyberFairy777, Kaikaina, Millyosa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoat/)*

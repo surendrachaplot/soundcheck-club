@@ -1,15 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Elsewhere x H0L0: Machine Girl 5 Yr NYC Halloween Anniversary Afterparty" on Fri, 30 Oct 2026.
+H0L0 is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ReSolute presents: Why So Serious!" on Sat, 31 Oct 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 3mouth, Argenis Brito, Armii1n and Automatic Writing and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including Argenis Brito, Armii1n, Automatic Writing and Bea Trinidad and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Elsewhere x H0L0: Machine Girl 5 Yr NYC Halloween Anniversary Afterparty | 3mouth, CITYSPROBLEM, XXHARDBIT3S, Yesterdayneverhappened |
-| Fri, 30 Oct 2026 | Elsewhere x H0L0: Machine Girl 5 Yr NYC Halloween Anniversary Afterparty | 3mouth, CITYSPROBLEM, XXHARDBIT3S, Yesterdayneverhappened |
 | Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! | Argenis Brito, Automatic Writing, Benny Soto, Bruno Limma, Connie, Dan Shake, Dandy Jack, E.LINA, Henry Chow, J Gabriel, Joe Tagessian, Jonny Sum, Lauren Ritter, Maksim, Masomenos, Max Sprauer, Mayell, O.BEE, Onur Özer, Orazio Rispo, Rasho, Ron Like Hell, Shvili, Sibil (1), Sweely, Tobias Lindén, Tomas Station, Willy Soul |
 | Thu, 5 Nov 2026 | eianne esau's FUCKINGLOVELY NO.8  | CR4CKROCK, Fredo, eianne esau, jjjesuschristsuperstarrr |
 | Fri, 6 Nov 2026 | KEIN KLUB: Martyn, Kendal  +  | Kendal, Ksenyeah, Manguito, Martyn, rrao |
@@ -18,9 +16,11 @@ H0L0 is a music venue in New York City listed on soundcheck. 14 upcoming gigs, w
 | Sat, 14 Nov 2026 | ReSolute with Dyed Soundorom  | CAMILLA, Dyed Soundorom, Josefina Tapia, Shvili |
 | Thu, 19 Nov 2026 | BKG Takeover | Jaxx, NICHE (2), Sangarang |
 | Fri, 20 Nov 2026 | SHEILA | Dee Diggs, Gail Force One, MarceauxMarceaux, Neon Christina |
+| Sat, 21 Nov 2026 | MegaMilk | Leonardo Glovibes |
+| Fri, 11 Dec 2026 | KEIN KLUB: Marie Davidson b2b Danny Daze  | Danny Daze, Jon K, Kilopatrah Jones, Marie Davidson |
 
 ## Address
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

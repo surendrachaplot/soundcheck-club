@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Restricted is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 Restricted is a techno and hardcore artist based in Australia, with 91 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 56 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -23,17 +23,17 @@ Restricted is a techno and hardcore artist based in Australia, with 91 gigs on s
 
 ## Recently played
 
+- Travis County Exposition Center, Austin · Fri, 30 Oct 2026
+- Westworld of Scottsdale, Arizona · Fri, 30 Oct 2026
 - SOMA, San Diego · Fri, 23 Oct 2026
 - Royale, Boston · Sat, 17 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Grand Quai du Port de Montreal, Montreal · Sat, 10 Oct 2026
 - Revolver Upstairs, Melbourne · Sun, 20 Sept 2026
 - Brooklyn Storehouse, New York City · Sun, 6 Sept 2026
-- Boucher Road Fields, Belfast · Sun, 30 Aug 2026
-- UNO MALTA, Malta · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Azyr, Onlynumbers, Vieze Asbak
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

@@ -1,6 +1,6 @@
 # Dimitri K
 
-Dimitri K is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Epic Prague, Prague on Fri, 11 Dec 2026.
+Dimitri K is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Epic Prague, Prague on Fri, 11 Dec 2026.
 
 Dimitri K is a hardcore and techno artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cologne and 14 more. Often billed alongside Angerfist, Major Conspiracy and The Dark Horror. Next up: Epic Prague, Prague on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Dimitri K is a hardcore and techno artist based in Netherlands, with 40 gigs on 
 
 Angerfist, Major Conspiracy, The Dark Horror
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrik/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitrik/)*

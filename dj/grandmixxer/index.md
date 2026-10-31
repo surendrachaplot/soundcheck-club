@@ -1,6 +1,6 @@
 # Grandmixxer
 
-Grandmixxer is a Grime and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fuchs2, Prague on Sat, 14 Nov 2026.
+Grandmixxer is a Grime and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fuchs2, Prague on Sat, 14 Nov 2026.
 
 Grandmixxer is a grime and dub artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Manga Saint Hilare, Flowdan and Mantra. Next up: Fuchs2, Prague on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Grandmixxer is a grime and dub artist based in United Kingdom, with 27 gigs on s
 
 Manga Saint Hilare, Flowdan, Mantra
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmixxer/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandmixxer/)*

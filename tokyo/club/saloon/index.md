@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SECRET WEAPONS" on Fri, 30 Oct 2026.
+Saloon is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "SECRET WEAPONS" on Fri, 30 Oct 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including AJA, ALPHA, arpxp and Aya ( Human Elements ) and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -23,4 +23,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with li
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

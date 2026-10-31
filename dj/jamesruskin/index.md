@@ -1,6 +1,6 @@
 # James Ruskin
 
-James Ruskin is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
+James Ruskin is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
 
 James Ruskin is a techno and electro artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Regis, Ben Sims and Cecilia Tosh. Next up: Tresor / Globus, Berlin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ James Ruskin is a techno and electro artist based in United Kingdom, with 66 gig
 
 Regis, Ben Sims, Cecilia Tosh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesruskin/)*

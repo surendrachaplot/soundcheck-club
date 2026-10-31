@@ -1,6 +1,6 @@
 # T.NO
 
-T.NO is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Saloon, Tokyo on Sat, 31 Oct 2026.
+T.NO is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Saloon, Tokyo on Sat, 31 Oct 2026.
 
 T.NO is a bass and techno artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Bristol and 17 more. Often billed alongside Styn, Christian AB and Rozaly. Next up: Saloon, Tokyo on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ T.NO is a bass and techno artist based in Netherlands, with 65 gigs on soundchec
 
 Styn, Christian AB, Rozaly
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/t.no-ne/)*

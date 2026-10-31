@@ -1,6 +1,6 @@
 # Volvox
 
-Volvox is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
+Volvox is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Industry City, New York City on Sat, 31 Oct 2026.
 
 Volvox is a techno and house artist based in United States of America, with 177 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 57 more. Often billed alongside Elli Acula, Boris and Ellen Allien. Next up: Industry City, New York City on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Volvox is a techno and house artist based in United States of America, with 177 
 
 Elli Acula, Boris, Ellen Allien
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volvox/)*

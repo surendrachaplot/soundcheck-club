@@ -1,6 +1,6 @@
 # Love Language
 
-Love Language is a House and Ballroom artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Restaurante Covadonga, Mexico City on Sat, 31 Oct 2026.
+Love Language is a House and Ballroom artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Restaurante Covadonga, Mexico City on Sat, 31 Oct 2026.
 
 Love Language is a house and ballroom artist based in New Zealand, with 26 gigs on soundcheck across Auckland, Boston, Mexico City and Montreal and 2 more. Often billed alongside Ritmonzón, Dj Raw (MX) and Gallō. Next up: Restaurante Covadonga, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Love Language is a house and ballroom artist based in New Zealand, with 26 gigs 
 
 Ritmonzón, Dj Raw (MX), Gallō
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelanguage/)*

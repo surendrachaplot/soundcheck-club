@@ -1,6 +1,6 @@
 # Quetamine
 
-Quetamine is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Xanadu, New York City on Thu, 5 Nov 2026.
+Quetamine is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Xanadu, New York City on Thu, 5 Nov 2026.
 
 Quetamine is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Chicago, Miami, New York City and Orlando and 2 more. Often billed alongside SATURNSARii, Ultrathem and Vyper. Next up: Xanadu, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Quetamine is a techno and club artist based in United States of America, with 52
 
 SATURNSARii, Ultrathem, Vyper
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quetamine/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quetamine/)*

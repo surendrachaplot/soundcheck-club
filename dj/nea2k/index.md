@@ -1,6 +1,6 @@
 # Nea2k
 
-Nea2k is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Post Bar, Helsinki on Sat, 14 Nov 2026.
+Nea2k is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Post Bar, Helsinki on Sat, 14 Nov 2026.
 
 Nea2k is a house and bass artist based in Finland, with 49 gigs on soundcheck across Helsinki. Often billed alongside Joni DJ, Daniel Kayrouz and KOFU. Next up: Post Bar, Helsinki on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Nea2k is a house and bass artist based in Finland, with 49 gigs on soundcheck ac
 
 Joni DJ, Daniel Kayrouz, KOFU
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nea2k/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nea2k/)*

@@ -1,6 +1,6 @@
 # DJ Oscillate
 
-DJ Oscillate is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Péniche Loupika, Lyon on Sat, 14 Nov 2026.
+DJ Oscillate is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Péniche Loupika, Lyon on Sat, 14 Nov 2026.
 
 DJ Oscillate is a jungle and drum & bass artist, with 19 gigs on soundcheck across Bristol, London, Lyon and Manchester. Often billed alongside Lodge, Dyl and Silva Snipa. Next up: Péniche Loupika, Lyon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Oscillate is a jungle and drum & bass artist, with 19 gigs on soundcheck acro
 
 Lodge, Dyl (4), Silva Snipa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djoscillate/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djoscillate/)*

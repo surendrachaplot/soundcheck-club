@@ -1,6 +1,6 @@
 # The Piston
 
-The Piston is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BODYCLOCK TECHNO - ARK1TEK, Miss Kleio, Zola" on Thu, 5 Nov 2026.
+The Piston is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BODYCLOCK TECHNO - ARK1TEK, Miss Kleio, Zola" on Thu, 5 Nov 2026.
 
 The Piston is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including ARK1TEK, Chumbo, martinses and Miss Kleio and 1 more. See dates, start times and who's playing. 937 Bloor St W; Toronto, ON M6H 1L1; Canada.
 
@@ -16,4 +16,4 @@ The Piston is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, wi
 
 937 Bloor St W; Toronto, ON M6H 1L1; Canada, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-piston/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-piston/)*

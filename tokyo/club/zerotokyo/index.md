@@ -1,6 +1,6 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 24 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween'" on Sat, 31 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 24 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween'" on Sat, 31 Oct 2026.
 
 ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with line-ups including AEMI, Aiobahn, Anfisa Letyago and AVALON and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
@@ -23,4 +23,4 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with
 
 B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo, Tokyo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zerotokyo/)*

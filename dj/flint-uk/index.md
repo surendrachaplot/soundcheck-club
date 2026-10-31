@@ -1,6 +1,6 @@
 # Flint (UK)
 
-Flint (UK) is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 31 Oct 2026.
+Flint (UK) is a Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 31 Oct 2026.
 
 Flint (UK) is a techno and jungle artist, with 9 gigs on soundcheck across Berlin, Brighton, Sheffield and Tokyo. Often billed alongside colecta, Hames and Omari. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Flint (UK) is a techno and jungle artist, with 9 gigs on soundcheck across Berli
 
 colecta, Hames, Omari (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flint-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flint-uk/)*

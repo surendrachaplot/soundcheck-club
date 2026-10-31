@@ -1,6 +1,6 @@
 # Alex Culross
 
-Alex Culross is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kiki Cambridge, South-east on Sat, 31 Oct 2026.
+Alex Culross is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kiki Cambridge, South-east on Sat, 31 Oct 2026.
 
 Alex Culross is a tech house and house artist based in United Kingdom, with 19 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Ibiza and 6 more. Often billed alongside Charlie Kennedy, Alexandria and Eldon. Next up: Kiki Cambridge, South East on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Alex Culross is a tech house and house artist based in United Kingdom, with 19 g
 
 Charlie Kennedy, Alexandria, Eldon (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexculross/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexculross/)*

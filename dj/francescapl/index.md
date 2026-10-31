@@ -1,6 +1,6 @@
 # Francesca (PL)
 
-Francesca (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+Francesca (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 Francesca (PL) is a techno and house artist based in Poland, with 28 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside SYS.END, Butwho and Lyor Kalt. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Francesca (PL) is a techno and house artist based in Poland, with 28 gigs on sou
 
 SYS.END, Butwho, Lyor Kalt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescapl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescapl/)*

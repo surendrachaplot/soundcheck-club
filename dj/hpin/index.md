@@ -1,6 +1,6 @@
 # Hpin
 
-Hpin is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fuerst Wiacek, Berlin on Wed, 18 Nov 2026.
+Hpin is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fuerst Wiacek, Berlin on Wed, 18 Nov 2026.
 
 Hpin is an experimental and techno artist based in United States of America, with 9 gigs on soundcheck across Berlin, Glasgow, New York City and Philadelphia. Often billed alongside Eden Aurelius, Gaul Plus and Goyle. Next up: Fuerst Wiacek, Berlin on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Hpin is an experimental and techno artist based in United States of America, wit
 
 Eden Aurelius, Gaul Plus, Goyle
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hpin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hpin/)*

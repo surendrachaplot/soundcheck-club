@@ -1,6 +1,6 @@
 # UVITA
 
-UVITA is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kowalski, Stuttgart on Sat, 7 Nov 2026.
+UVITA is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kowalski, Stuttgart on Sat, 7 Nov 2026.
 
 UVITA is a house and afro house artist based in Ireland, with 12 gigs on soundcheck across Beijing, Dubai, Frankfurt and Ibiza and 6 more. Often billed alongside OSFUR, Acierate and Bedouin. Next up: Kowalski, Stuttgart on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ UVITA is a house and afro house artist based in Ireland, with 12 gigs on soundch
 
 OSFUR, Acierate, Bedouin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvita/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uvita/)*

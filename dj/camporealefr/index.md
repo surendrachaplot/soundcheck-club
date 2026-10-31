@@ -1,6 +1,6 @@
 # Camporeale (FR)
 
-Camporeale (FR) is a UK Funky and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Glazart, Paris on Sat, 7 Nov 2026.
+Camporeale (FR) is a UK Funky and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Glazart, Paris on Sat, 7 Nov 2026.
 
 Camporeale (FR) is an uk funky and garage artist based in France, with 17 gigs on soundcheck across London, Milan and Paris. Often billed alongside Annyrock, Audem and BADSISTA. Next up: Glazart, Paris on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Camporeale (FR) is an uk funky and garage artist based in France, with 17 gigs o
 
 Annyrock, Audem, BADSISTA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camporealefr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camporealefr/)*

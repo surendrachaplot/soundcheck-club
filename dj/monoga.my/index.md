@@ -1,6 +1,6 @@
 # monoga.my
 
-monoga.my is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 7 Nov 2026.
+monoga.my is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 7 Nov 2026.
 
 monoga.my is a techno and club artist based in New Zealand, with 14 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Caru (NZ), Burna and Sub Sahara. Next up: Neck of the Woods, Auckland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ monoga.my is a techno and club artist based in New Zealand, with 14 gigs on soun
 
 Caru (NZ), Burna, Sub Sahara
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoga.my/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoga.my/)*

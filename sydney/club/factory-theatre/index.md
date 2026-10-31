@@ -1,6 +1,6 @@
 # Factory Theatre
 
-Factory Theatre is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "FREE KIN WEEKENDS & THE ELEMENTS OF TECH & Bass" on Sun, 29 Nov 2026.
+Factory Theatre is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "FREE KIN WEEKENDS & THE ELEMENTS OF TECH & Bass" on Sun, 29 Nov 2026.
 
 Factory Theatre is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Bass, Jungle (UK), Kate Savage and KevinC and 2 more. See dates, start times and who's playing. 105 Victoria Rd; Enmore, NSW 2042; Australia.
 
@@ -14,4 +14,4 @@ Factory Theatre is a music venue in Sydney listed on soundcheck. 1 upcoming gig,
 
 105 Victoria Rd; Enmore, NSW 2042; Australia, Sydney
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/factory-theatre/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/factory-theatre/)*

@@ -1,6 +1,6 @@
 # Luuk van Dijk
 
-Luuk van Dijk is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
+Luuk van Dijk is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
 Luuk van Dijk is a house and tech house artist based in Netherlands, with 251 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside Prunk, L.P. Rhythm and Max Dean. Next up: The Cause, London on Sun 1 Nov.
 
@@ -34,4 +34,4 @@ Luuk van Dijk is a house and tech house artist based in Netherlands, with 251 gi
 
 Prunk, L.P. Rhythm, Max Dean
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luukvandijk-nl/)*

@@ -1,6 +1,6 @@
 # Baby Bimbo
 
-Baby Bimbo is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ESC, Montreal on Sat, 31 Oct 2026.
+Baby Bimbo is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ESC, Montreal on Sat, 31 Oct 2026.
 
 Baby Bimbo is a hardcore and gabber artist based in Canada, with 29 gigs on soundcheck across Montreal and Toronto. Often billed alongside the bald girl, Outback and DJ Pacifier. Next up: ESC, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Baby Bimbo is a hardcore and gabber artist based in Canada, with 29 gigs on soun
 
 the bald girl, Outback, DJ Pacifier
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybimbo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babybimbo/)*

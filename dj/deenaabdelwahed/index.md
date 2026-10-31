@@ -1,6 +1,6 @@
 # Deena Abdelwahed
 
-Deena Abdelwahed is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 7 Nov 2026.
+Deena Abdelwahed is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Beursschouwburg, Brussels on Sat, 7 Nov 2026.
 
 Deena Abdelwahed is an experimental and electronica artist based in Tunisia, with 68 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside GLITTER55, Simo Cell and Ale Hop. Next up: Beursschouwburg, Brussels on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Deena Abdelwahed is an experimental and electronica artist based in Tunisia, wit
 
 GLITTER55, Simo Cell, Ale Hop
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deenaabdelwahed/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deenaabdelwahed/)*

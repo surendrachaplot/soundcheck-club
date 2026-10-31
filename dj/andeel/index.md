@@ -1,6 +1,6 @@
 # Andeel
 
-Andeel is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+Andeel is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 Andeel is a psytrance and techno artist based in Germany, with 28 gigs on soundcheck across Berlin. Often billed alongside Abdallah and I, Lara Elfara and Noor Sanchez. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Andeel is a psytrance and techno artist based in Germany, with 28 gigs on soundc
 
 Abdallah and I, Lara Elfara, Noor Sanchez
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andeel/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andeel/)*

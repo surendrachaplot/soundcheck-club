@@ -1,6 +1,6 @@
 # Kỳ Mỹ
 
-Kỳ Mỹ is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Kỳ Mỹ is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
 Kỳ Mỹ is a techno and club artist, with 55 gigs on soundcheck across Bangkok, Hanoi and Ho Chi Minh City. Often billed alongside Smoothie Boiz, Phát Paris and lil toilet. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kỳ Mỹ is a techno and club artist, with 55 gigs on soundcheck across Bangkok
 
 Smoothie Boiz, Phát Paris, lil toilet
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ky-my/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ky-my/)*

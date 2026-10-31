@@ -1,6 +1,6 @@
 # Lil Vän
 
-Lil Vän is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at LAUT, Barcelona on Sat, 31 Oct 2026.
+Lil Vän is a Disco and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at LAUT, Barcelona on Sat, 31 Oct 2026.
 
 Lil Vän is a disco and italo disco artist, with 16 gigs on soundcheck across Barcelona, Berlin, Madrid and Marseille. Often billed alongside Billy Idle, Bizarre Billy and Black Devil Disco Club. Next up: LAUT, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lil Vän is a disco and italo disco artist, with 16 gigs on soundcheck across Ba
 
 Billy Idle, Bizarre Billy, Black Devil Disco Club
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilvan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilvan/)*

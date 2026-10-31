@@ -1,6 +1,6 @@
 # Bunni
 
-Bunni is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
+Bunni is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
 
 Bunni is a techno and club artist, with 31 gigs on soundcheck across Melbourne, Miami and New York City. Often billed alongside Love Higher, bossy boots and BASSBEAR!!. Next up: Bossa Nova Civic Club, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Bunni is a techno and club artist, with 31 gigs on soundcheck across Melbourne, 
 
 Love Higher, bossy boots, BASSBEAR!!
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bunni/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bunni/)*

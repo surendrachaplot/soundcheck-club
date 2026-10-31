@@ -1,6 +1,6 @@
 # ZHU
 
-ZHU is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat, 31 Oct 2026.
+ZHU is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 ZHU is a house and deep house artist based in United States of America, with 30 gigs on soundcheck across Austin, Bogotá, Chicago and Denver and 12 more. Often billed alongside Diplo, Azzecca and Biscits. Next up: TBA - Gold Bar Distillery Treasure Island, San Francisco/Oakland on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ ZHU is a house and deep house artist based in United States of America, with 30 
 
 Diplo, Azzecca, Biscits
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zhu/)*

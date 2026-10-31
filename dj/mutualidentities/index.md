@@ -1,6 +1,6 @@
 # Mutual Identities
 
-Mutual Identities is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
+Mutual Identities is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
 
 Mutual Identities is a techno and house artist, with 11 gigs on soundcheck across Minneapolis/St Paul and New York City. Often billed alongside 1morning, Akko and Autokinetic. Next up: Honey's, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mutual Identities is a techno and house artist, with 11 gigs on soundcheck acros
 
 1morning, Akko, Autokinetic
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualidentities/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mutualidentities/)*

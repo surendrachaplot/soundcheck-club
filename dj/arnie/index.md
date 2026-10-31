@@ -1,6 +1,6 @@
 # arnie
 
-arnie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Top Floor, Newcastle on Sat, 31 Oct 2026.
+arnie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Top Floor, Newcastle on Sat, 31 Oct 2026.
 
 arnie is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside DJ Bz, Doogi and eosap. Next up: Top Floor, Newcastle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ arnie is a house and tech house artist based in United Kingdom, with 11 gigs on 
 
 DJ Bz, Doogi, eosap
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arnie/)*

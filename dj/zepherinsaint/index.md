@@ -1,6 +1,6 @@
 # Zepherin Saint
 
-Zepherin Saint is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Common Rooms, Melbourne on Mon, 2 Nov 2026.
+Zepherin Saint is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Common Rooms, Melbourne on Mon, 2 Nov 2026.
 
 Zepherin Saint is a house and deep house artist based in United Kingdom, with 53 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Byron Bay and 5 more. Often billed alongside Mike Gurrieri, Zjoso and Chris NG. Next up: Common Rooms, Melbourne on Mon 2 Nov.
 
@@ -26,4 +26,4 @@ Zepherin Saint is a house and deep house artist based in United Kingdom, with 53
 
 Mike Gurrieri, Zjoso, Chris NG
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zepherinsaint/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zepherinsaint/)*

@@ -1,14 +1,13 @@
 # O2 Academy
 
-O2 Academy is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PRTY x HSSH Halloween: CADZOW, All Night Long" on Fri, 30 Oct 2026.
+O2 Academy is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "One More Tune!" on Sat, 31 Oct 2026.
 
-O2 Academy is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including CADZOW, Chicane, Dual Damage and Fergie and 2 more. See dates, start times and who's playing. 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom.
+O2 Academy is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Chicane, Dual Damage, Fergie and John O'Callaghan and 2 more. See dates, start times and who's playing. 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | PRTY x HSSH Halloween: CADZOW, All Night Long | CADZOW |
 | Sat, 31 Oct 2026 | One More Tune! | Fergie, John O'Callaghan, Judge Jules, Marco V |
 | Sat, 14 Nov 2026 | An Evening With Chicane - Glasgow | Chicane |
 | Sat, 14 Nov 2026 | HSSH presents Sub Zero Project & Dual Damage | Dual Damage |
@@ -17,4 +16,4 @@ O2 Academy is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, wi
 
 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/o2-academy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/o2-academy/)*

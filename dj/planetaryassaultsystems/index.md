@@ -1,14 +1,13 @@
 # Planetary Assault Systems
 
-Planetary Assault Systems is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mia Mao, Paris on Fri, 30 Oct 2026.
+Planetary Assault Systems is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
 
-Planetary Assault Systems is a techno and electronica artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Fadi Mohem, DJ Red and DVS1. Next up: Mia Mao, Paris on Fri 30 Oct.
+Planetary Assault Systems is a techno and electronica artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Fadi Mohem, DJ Red and DVS1. Next up: TBA, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Mia Mao | Paris |
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
 | Sat, 28 Nov 2026 | De Papierfabriek | Nijmegen |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
@@ -16,6 +15,7 @@ Planetary Assault Systems is a techno and electronica artist based in United Kin
 
 ## Recently played
 
+- Mia Mao, Paris · Fri, 30 Oct 2026
 - Barraca, Valencia · Sat, 3 Oct 2026
 - LAB theCLUB, Madrid · Fri, 2 Oct 2026
 - The Cause, London · Sat, 6 Jun 2026
@@ -23,10 +23,9 @@ Planetary Assault Systems is a techno and electronica artist based in United Kin
 - Corferias, Bogotá · Fri, 22 May 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 16 May 2026
 - Lofi, Amsterdam · Sat, 16 May 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 9 May 2026
 
 ## Shares bills with
 
 Fadi Mohem, DJ Red, DVS1
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryassaultsystems/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/planetaryassaultsystems/)*

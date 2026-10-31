@@ -1,6 +1,6 @@
 # zerka
 
-zerka is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Minimal Bar, Berlin on Wed, 4 Nov 2026.
+zerka is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Minimal Bar, Berlin on Wed, 4 Nov 2026.
 
 zerka is a techno and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin and Munich. Often billed alongside Cleemente, Igadi and Kat_Es. Next up: Minimal Bar, Berlin on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ zerka is a techno and tech house artist based in Germany, with 10 gigs on soundc
 
 Cleemente, Igadi, Kat_Es
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zerka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zerka/)*

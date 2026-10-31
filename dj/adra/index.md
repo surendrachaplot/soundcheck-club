@@ -1,6 +1,6 @@
 # Adra
 
-Adra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
+Adra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Gold Bar Hangar, California on Fri, 30 Oct 2026.
 
 Adra is a techno and house artist based in United States of America, with 69 gigs on soundcheck across California, Detroit, Los Angeles and New York City and 2 more. Often billed alongside Max Gardner, MILANA and Truncate. Next up: Gold Bar Hangar, California on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Adra is a techno and house artist based in United States of America, with 69 gig
 
 ## Recently played
 
+- Gold Bar Hangar, California · Fri, 30 Oct 2026
 - Halcyon, San Francisco/Oakland · Fri, 28 Aug 2026
 - Salesforce Park, San Francisco/Oakland · Sat, 22 Aug 2026
 - TBA - UNDISCLOSED LOCATION, San Francisco/Oakland · Fri, 21 Aug 2026
@@ -20,10 +21,9 @@ Adra is a techno and house artist based in United States of America, with 69 gig
 - 1015 Folsom, San Francisco/Oakland · Fri, 10 Jul 2026
 - TBA, Detroit · Fri, 22 May 2026
 - Union Square, San Francisco/Oakland · Sat, 2 May 2026
-- TBA - SAN FRANCISCO LOCATION (SOMA), San Francisco/Oakland · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Max Gardner, MILANA, Truncate
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adra/)*

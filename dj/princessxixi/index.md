@@ -1,6 +1,6 @@
 # Princess Xixi
 
-Princess Xixi is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Algha's Plantroom, London on Sat, 31 Oct 2026.
+Princess Xixi is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Algha's Plantroom, London on Sat, 31 Oct 2026.
 
 Princess Xixi is a bass and club artist based in United Kingdom, with 58 gigs on soundcheck across Beijing, Berlin, Brighton and Bristol and 7 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: Algha's Plantroom, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Princess Xixi is a bass and club artist based in United Kingdom, with 58 gigs on
 
 THEMPRESS, CHEZA LUCINA, LOVECAT
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*

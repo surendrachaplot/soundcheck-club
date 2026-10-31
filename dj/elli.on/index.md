@@ -1,6 +1,6 @@
 # Elli.on
 
-Elli.on is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+Elli.on is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 Elli.on is a house and minimal artist based in Germany, with 56 gigs on soundcheck across Berlin, Cologne, Hamburg and Istanbul and 1 more. Often billed alongside Edgar Peng, Inner and FEVZEE. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Elli.on is a house and minimal artist based in Germany, with 56 gigs on soundche
 
 Edgar Peng, Inner, FEVZEE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elli.on/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elli.on/)*

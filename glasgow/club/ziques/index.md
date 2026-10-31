@@ -1,6 +1,6 @@
 # Ziques
 
-Ziques is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Ziques After Dark: The Official West End Halloween Pre Party" on Sat, 31 Oct 2026.
+Ziques is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Ziques After Dark: The Official West End Halloween Pre Party" on Sat, 31 Oct 2026.
 
 Ziques is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Ziques is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dat
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Ziques After Dark: The Official West End Halloween Pre Party |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/ziques/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/ziques/)*

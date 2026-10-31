@@ -1,6 +1,6 @@
 # Lauren Lo Sung
 
-Lauren Lo Sung is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at BRET, Amsterdam on Fri, 13 Nov 2026.
+Lauren Lo Sung is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at BRET, Amsterdam on Fri, 13 Nov 2026.
 
 Lauren Lo Sung is a house and tech house artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 31 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: BRET, Amsterdam on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Lauren Lo Sung is a house and tech house artist based in United Kingdom, with 11
 
 Fabe, Luuk van Dijk, Prunk
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*

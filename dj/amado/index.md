@@ -1,6 +1,6 @@
 # Amado
 
-Amado is a Techno and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
+Amado is a Techno and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 10 Nov 2026.
 
 Amado is a techno and funk / soul artist, with 17 gigs on soundcheck across Berlin, Bogotá, Boston and Lisbon and 2 more. Often billed alongside STEEN, ABEILLE and AJACENT. Next up: Bossa Nova Civic Club, New York City on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Amado is a techno and funk / soul artist, with 17 gigs on soundcheck across Berl
 
 STEEN, ABEILLE, AJACENT
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amado/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amado/)*

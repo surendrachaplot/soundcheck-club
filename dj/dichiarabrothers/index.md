@@ -1,6 +1,6 @@
 # Di Chiara Brothers
 
-Di Chiara Brothers is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
+Di Chiara Brothers is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Chelmsford City Racecourse, London on Sat, 31 Oct 2026.
 
 Di Chiara Brothers is a tech house and house artist based in Italy, with 32 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 13 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Chelmsford City Racecourse, London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Di Chiara Brothers is a tech house and house artist based in Italy, with 32 gigs
 
 Chiara B, East End Dubs, RUZE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dichiarabrothers/)*

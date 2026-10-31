@@ -1,14 +1,13 @@
 # Club Makossa
 
-Club Makossa is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass)" on Fri, 30 Oct 2026.
+Club Makossa is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Sturm presents: Halloween Hard Techno" on Sat, 31 Oct 2026.
 
-Club Makossa is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alexei Byzone, Chedda Bred, Eliah Culker and GALIVERSE and 2 more. See dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
+Club Makossa is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alexei Byzone, Chedda Bred, Eliah Culker and GALIVERSE and 2 more. See dates, start times and who's playing. 113 Kingsland High Street, London E8 2PB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | FRIYAYS at MAKOSSA (House, Tech House, UK Bass, Drum & Bass) | SQUWUIS |
 | Sat, 31 Oct 2026 | Sturm presents: Halloween Hard Techno |  |
 | Thu, 5 Nov 2026 | BENEATH THE BREAKS: Dubstep, Grime, Jungle, D&B - FREE ENTRY | ItsJermayne, NISHABYNIGHT, VERTEX (2), karishma |
 | Fri, 6 Nov 2026 | Pleasure Centre | Eliah Culker, Gibby., Jackie Stewart |
@@ -23,4 +22,4 @@ Club Makossa is a music venue in London listed on soundcheck. 10 upcoming gigs, 
 
 113 Kingsland High Street, London E8 2PB, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-makossa/)*

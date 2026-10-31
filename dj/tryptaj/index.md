@@ -1,6 +1,6 @@
 # TRYPTAJ
 
-TRYPTAJ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at UWE Reeperbahn, Hamburg on Sat, 14 Nov 2026.
+TRYPTAJ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at UWE Reeperbahn, Hamburg on Sat, 14 Nov 2026.
 
 TRYPTAJ is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Frank Rayo, Staszko and TZO. Next up: UWE Reeperbahn, Hamburg on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ TRYPTAJ is a techno and trance artist based in Germany, with 20 gigs on soundche
 
 Frank Rayo, Staszko, TZO (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tryptaj/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tryptaj/)*

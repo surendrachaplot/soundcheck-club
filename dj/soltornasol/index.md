@@ -1,6 +1,6 @@
 # Sol Angel
 
-Sol Angel is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lark, Berlin on Sat, 14 Nov 2026.
+Sol Angel is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lark, Berlin on Sat, 14 Nov 2026.
 
 Sol Angel is a club and techno artist based in Colombia, with 32 gigs on soundcheck across Barcelona, Berlin, Bogotá and Hamburg and 5 more. Often billed alongside Eddy Lover, EDGAR KERRI and ESCOBUTT. Next up: Lark, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sol Angel is a club and techno artist based in Colombia, with 32 gigs on soundch
 
 Eddy Lover, EDGAR KERRI, ESCOBUTT
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soltornasol/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soltornasol/)*

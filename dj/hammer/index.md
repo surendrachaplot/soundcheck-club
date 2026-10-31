@@ -1,6 +1,6 @@
 # Hammer
 
-Hammer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Edinburgh on Sat, 31 Oct 2026.
+Hammer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location, Edinburgh on Sat, 31 Oct 2026.
 
 Hammer is a house and techno artist based in United Kingdom, with 60 gigs on soundcheck across Barcelona, Belfast, Boston and Brisbane and 16 more. Often billed alongside Bicep, CAOIMHE and Colin Perkins. Next up: TBA - Secret Location, Edinburgh on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Hammer is a house and techno artist based in United Kingdom, with 60 gigs on sou
 
 Bicep, CAOIMHE, Colin Perkins
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*

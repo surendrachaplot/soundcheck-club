@@ -1,6 +1,6 @@
 # TBA - Bunker
 
-TBA - Bunker is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Control. adobeprincess, Aaron Dynamic & Wow & Flutter" on Sat, 5 Dec 2026.
+TBA - Bunker is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Control. adobeprincess, Aaron Dynamic & Wow & Flutter" on Sat, 5 Dec 2026.
 
 TBA - Bunker is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with line-ups including Aaron Dynamic, adobeprincess and Wow & Flutter. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Bunker is a music venue in Cologne listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Control. adobeprincess, Aaron Dynamic & Wow & Flutter | Aaron Dynamic, Wow & Flutter, adobeprincess |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tba-bunker/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/tba-bunker/)*

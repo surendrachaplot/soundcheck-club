@@ -1,14 +1,13 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ART Madrid Club, Madrid on Fri, 30 Oct 2026.
+Sam Paganini is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Exil, Vienna on Fri, 6 Nov 2026.
 
-Sam Paganini is a techno and house artist based in Italy, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Len Faki, Adiel and Indira Paganotto. Next up: ART Madrid Club, Madrid on Fri 30 Oct.
+Sam Paganini is a techno and house artist based in Italy, with 128 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Len Faki, Adiel and Indira Paganotto. Next up: Club Exil, Vienna on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | ART Madrid Club | Madrid |
 | Fri, 6 Nov 2026 | Club Exil | Vienna |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Fri, 11 Dec 2026 | LA Frecuencia Violeta | Cali |
@@ -17,6 +16,7 @@ Sam Paganini is a techno and house artist based in Italy, with 128 gigs on sound
 
 ## Recently played
 
+- ART Madrid Club, Madrid · Fri, 30 Oct 2026
 - Cieloterra, Rome · Sat, 10 Oct 2026
 - Smolna, Warsaw · Sat, 26 Sept 2026
 - fabric, London · Sat, 19 Sept 2026
@@ -24,10 +24,9 @@ Sam Paganini is a techno and house artist based in Italy, with 128 gigs on sound
 - Hï Ibiza, Ibiza · Sun, 16 Aug 2026
 - Ritter Butzke, Berlin · Sat, 4 Jul 2026
 - Circolo Magnolia, Milan · Mon, 1 Jun 2026
-- Link, Bologna · Sat, 23 May 2026
 
 ## Shares bills with
 
 Len Faki, Adiel, Indira Paganotto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*

@@ -1,6 +1,6 @@
 # Groove
 
-Groove is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at MASSHOUSE, Nairobi on Sat, 5 Dec 2026.
+Groove is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at MASSHOUSE, Nairobi on Sat, 5 Dec 2026.
 
 Groove is a techno and tech house artist based in Bulgaria, with 31 gigs on soundcheck across Athens, Bangkok, Berlin and Bristol and 14 more. Often billed alongside DANI8L, Dj Maphorisa and Kabza De Small. Next up: MASSHOUSE, Nairobi on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Groove is a techno and tech house artist based in Bulgaria, with 31 gigs on soun
 
 DANI8L, Dj Maphorisa, Kabza De Small
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groove/)*

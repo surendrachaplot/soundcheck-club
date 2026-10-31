@@ -1,6 +1,6 @@
 # Soap House - Ex Saponerie Mira Lanza
 
-Soap House - Ex Saponerie Mira Lanza is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Jungle with Loa Szala" on Sat, 21 Nov 2026.
+Soap House - Ex Saponerie Mira Lanza is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Jungle with Loa Szala" on Sat, 21 Nov 2026.
 
 Soap House - Ex Saponerie Mira Lanza is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Hicham, Loa Szala, Matteo Canori and Mordak and 2 more. See dates, start times and who's playing. Via degli Argonauti, 20, 00154 Roma RM.
 
@@ -15,4 +15,4 @@ Soap House - Ex Saponerie Mira Lanza is a music venue in Rome listed on soundche
 
 Via degli Argonauti, 20, 00154 Roma RM, Rome
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/soap-house-ex-saponerie-mira-lanza/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/soap-house-ex-saponerie-mira-lanza/)*

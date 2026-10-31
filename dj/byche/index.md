@@ -1,6 +1,6 @@
 # Byche
 
-Byche is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Unité.22, Marseille on Fri, 6 Nov 2026.
+Byche is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Unité.22, Marseille on Fri, 6 Nov 2026.
 
 Byche is a techno and trance artist based in France, with 10 gigs on soundcheck across Lyon and Marseille. Often billed alongside Binary Digit, Forest and Lumbago. Next up: Unité.22, Marseille on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Byche is a techno and trance artist based in France, with 10 gigs on soundcheck 
 
 Binary Digit, Forest, Lumbago
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byche/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byche/)*

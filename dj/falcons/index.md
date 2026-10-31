@@ -1,6 +1,6 @@
 # Falcons
 
-Falcons is a Baile Funk and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Sat, 31 Oct 2026.
+Falcons is a Baile Funk and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
 Falcons is a baile funk and amapiano artist based in United States of America, with 56 gigs on soundcheck across Atlanta, Austin, Chicago and Los Angeles and 9 more. Often billed alongside JOAQU.N, SuperNova (US) and Supernova. Next up: The Vermont Hollywood, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Falcons is a baile funk and amapiano artist based in United States of America, w
 
 JOAQU.N, SuperNova (US), Supernova
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falcons/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/falcons/)*

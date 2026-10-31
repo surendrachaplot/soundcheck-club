@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RollMods Residency ' - 100% Live performances" on Thu, 19 Nov 2026.
+Lavallée is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "RollMods Residency ' - 100% Live performances" on Thu, 19 Nov 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Basic Feelings and Torc. See dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -15,4 +15,4 @@ Lavallée is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wi
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

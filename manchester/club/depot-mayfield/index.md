@@ -1,14 +1,13 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Overmono presents Pure Devotion - World Tour, Manchester" on Fri, 30 Oct 2026.
+Depot Mayfield is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "NeXup, Manchester" on Sat, 31 Oct 2026.
 
-Depot Mayfield is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Spinelli, 2FEL, 2ManyDJs and 4000 Hz and 2 more. See dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
+Depot Mayfield is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including Spinelli, 2FEL, 2ManyDJs and 4000 Hz and 2 more. See dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Overmono presents Pure Devotion - World Tour, Manchester | Andy C, Ash Lauryn, Aurora Halal, Blackhaine, Blawan, Cersy, DJ Bone, DJ SET (Uk), DR MYSTERY, Helena Hauff, James Blake, Joy Orbison, KAVARI, Lee Gamble, Moodymann, Nkisi, Overmono, Rainy Miller, Space Afrika, Special Guest (US) |
 | Sat, 31 Oct 2026 | NeXup, Manchester |  |
 | Thu, 5 Nov 2026 | WHP 26 /// The Streets |  |
 | Fri, 6 Nov 2026 | KETTAMA presents Steel City Dance Discs | Bella Claxton, Clouds, DART, DJ Carpenter, DJ Gigola, DJ Heartstring, Daria Kolosova, Didi Han, Evian Christ, Ewan McVicar, Juicy Romance, KETTAMA, Loods, Ma Sha, Minna-no-Kimochi, Partiboi69, Riordan, Robbie Doherty, SAIDAH, SALOME, Sam Alfred, Skin On Skin, Tommy Holohan, Vault, X CLUB., seretide |
@@ -18,9 +17,10 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 15 upcoming 
 | Fri, 27 Nov 2026 | WHP presents: 20 Years of The Warehouse Project | Benji King, Boss Priester, Cam Stockman, Emma 2000, Enzo Siragusa, HALFPINT, Jamback, Jamie Fielding, Jhobei, Jude Lenihan, Lily C-D, Locky, Luciano, M-High, Marlie, Marsolo, Mella Dee, Nautica (NL), Obskur, Olive F, PACH, Phill de Janeiro, Ranger Trucco, Rossi, Saoirse, Sweely, bullet tooth, j:me |
 | Sat, 28 Nov 2026 | WHP presents: XXL, Manchester | 2FEL, 4000 Hz, Alex Farell, Anetha, Azyr, Bella Claxton, DJ Bax, DJ SWISHERMAN, Darren Styles, ENFAN, Faster Horses, HANAA, IceLipzz, KIRARA, KIRSTY, KUKO, KimberlaID, Krampf, Kyle Starkey, Laze, Lolalita, MC Tazo, MCR-T, MXGN, Nanna Makina, Onlynumbers, Paul Seul, Pegassi, Restricted, Samuel Moriero (2), Stinny Stone, Trym, Vieze Asbak, Vladimir Dubyshkin, Winson, Yanamaste, Yasmin Regisford |
 | Fri, 11 Dec 2026 | WHP presents: TIËSTO | Tiesto |
+| Sat, 12 Dec 2026 | WHP presents: STEPPERS [Concourse Only] |  |
 
 ## Address
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

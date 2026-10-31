@@ -1,6 +1,6 @@
 # Tsuuu
 
-Tsuuu is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
+Tsuuu is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Pawnshop, Taipei on Sat, 31 Oct 2026.
 
 Tsuuu is a bass and house artist based in Taiwan, with 21 gigs on soundcheck across Taipei and Tokyo. Often billed alongside L-CC, Melting 99 and miranda ku. Next up: Pawnshop, Taipei on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tsuuu is a bass and house artist based in Taiwan, with 21 gigs on soundcheck acr
 
 L-CC, Melting 99, miranda ku
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuuu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsuuu/)*

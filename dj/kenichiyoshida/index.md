@@ -1,6 +1,6 @@
 # kenichi yoshida
 
-kenichi yoshida is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Shibuya Club Ball, Tokyo on Thu, 26 Nov 2026.
+kenichi yoshida is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Shibuya Club Ball, Tokyo on Thu, 26 Nov 2026.
 
 kenichi yoshida is a techno and house artist based in Japan, with 32 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Santamaria and Nao.Ichikawa. Next up: Shibuya Club Ball, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ kenichi yoshida is a techno and house artist based in Japan, with 32 gigs on sou
 
 SIGNAL (JP), Santamaria, Nao.Ichikawa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenichiyoshida/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kenichiyoshida/)*

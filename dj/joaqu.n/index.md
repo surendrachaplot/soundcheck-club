@@ -1,6 +1,6 @@
 # JOAQU.N
 
-JOAQU.N is a Reggaeton and Dembow artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Sat, 31 Oct 2026.
+JOAQU.N is a Reggaeton and Dembow artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
 JOAQU.N is a reggaeton and dembow artist based in United States of America, with 75 gigs on soundcheck across Atlanta, Austin, Chicago and Los Angeles and 5 more. Often billed alongside Falcons, DINABN and SuperNova (US). Next up: The Vermont Hollywood, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JOAQU.N is a reggaeton and dembow artist based in United States of America, with
 
 Falcons, DINABN, SuperNova (US)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joaqu.n/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joaqu.n/)*

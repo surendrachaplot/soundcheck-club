@@ -1,6 +1,6 @@
 # Aegony
 
-Aegony is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Aegony is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Aegony is a techno and electronica artist, with 10 gigs on soundcheck across Bologna and Milan. Often billed alongside Alessandro Reale, Cristopher Arcuri and HEMPTOTE. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Aegony is a techno and electronica artist, with 10 gigs on soundcheck across Bol
 
 Alessandro Reale, Cristopher Arcuri, HEMPTOTE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aegony/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aegony/)*

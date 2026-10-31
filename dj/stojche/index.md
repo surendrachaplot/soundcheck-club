@@ -1,6 +1,6 @@
 # Stojche
 
-Stojche is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 19 Dec 2026.
+Stojche is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 19 Dec 2026.
 
 Stojche is a techno and dub techno artist based in North Macedonia, with 69 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside SHDW, Anika Kunst and Phara. Next up: Tresor / Globus, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Stojche is a techno and dub techno artist based in North Macedonia, with 69 gigs
 
 SHDW, Anika Kunst, Phara
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stojche/)*

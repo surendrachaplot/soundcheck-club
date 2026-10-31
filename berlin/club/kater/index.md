@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FOREVER 25 curated by Mila Stern & Esther Silex" on Fri, 30 Oct 2026.
+Kater is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "FOREVER 25 curated by Mila Stern & Esther Silex" on Fri, 30 Oct 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Aio and Alison Swing and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -23,4 +23,4 @@ Kater is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with li
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

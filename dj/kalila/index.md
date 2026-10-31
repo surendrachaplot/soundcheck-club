@@ -1,6 +1,6 @@
 # Kalila
 
-Kalila is a Hardcore and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 4 Dec 2026.
+Kalila is a Hardcore and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 4 Dec 2026.
 
 Kalila is a hardcore and garage artist, with 11 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Princess Elf Bar, 3DMA and A.N.I.. Next up: TAC (Tottenham Arts Collective), London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kalila is a hardcore and garage artist, with 11 gigs on soundcheck across Leeds,
 
 Princess Elf Bar, 3DMA, A.N.I.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalila/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalila/)*

@@ -1,6 +1,6 @@
 # QV (1)
 
-QV (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Radio Berlín, Bogotá on Fri, 6 Nov 2026.
+QV (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Radio Berlín, Bogotá on Fri, 6 Nov 2026.
 
 QV is a techno and house artist based in Colombia, with 18 gigs on soundcheck across Amsterdam, Bogot and Bogotá. Often billed alongside Confidential Recipe, Laurel and Iris Leidenschaft. Next up: Radio Berlín, Bogotá on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ QV is a techno and house artist based in Colombia, with 18 gigs on soundcheck ac
 
 Confidential Recipe, Laurel, Iris Leidenschaft
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qv-1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qv-1/)*

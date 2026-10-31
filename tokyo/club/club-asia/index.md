@@ -1,6 +1,6 @@
 # club asia
 
-club asia is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "EMO NIGHT HALLOWEEN" on Sat, 31 Oct 2026.
+club asia is a music venue in Tokyo with 16 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "EMO NIGHT HALLOWEEN" on Sat, 31 Oct 2026.
 
 club asia is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with line-ups including 80KIDZ, Albino Sound, Amps and ayaka and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
@@ -23,4 +23,4 @@ club asia is a music venue in Tokyo listed on soundcheck. 16 upcoming gigs, with
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*

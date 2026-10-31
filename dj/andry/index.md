@@ -1,6 +1,6 @@
 # Andry
 
-Andry is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Andry is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Andry is a house and experimental artist based in Japan, with 9 gigs on soundcheck across Bologna, Osaka and Tokyo. Often billed alongside 5ive, KOOLMFL and Powder. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Andry is a house and experimental artist based in Japan, with 9 gigs on soundche
 
 5ive, KOOLMFL, Powder
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andry/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andry/)*

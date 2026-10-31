@@ -1,6 +1,6 @@
 # xtine
 
-xtine is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Biltmore Cabaret, Vancouver on Thu, 3 Dec 2026.
+xtine is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Biltmore Cabaret, Vancouver on Thu, 3 Dec 2026.
 
 xtine is a techno and acid artist, with 17 gigs on soundcheck across Vancouver. Often billed alongside Overland, Ciel and Derek Plaslaiko. Next up: Biltmore Cabaret, Vancouver on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ xtine is a techno and acid artist, with 17 gigs on soundcheck across Vancouver. 
 
 Overland, Ciel, Derek Plaslaiko
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xtine/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xtine/)*

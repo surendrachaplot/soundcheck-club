@@ -1,6 +1,6 @@
 # Купе / Kupe
 
-Купе / Kupe is a music venue in Sofia with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Monster Hard / Halloween edition" on Sat, 31 Oct 2026.
+Купе / Kupe is a music venue in Sofia with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Monster Hard / Halloween edition" on Sat, 31 Oct 2026.
 
 Купе / Kupe is a music venue in Sofia listed on soundcheck. 5 upcoming gigs, with line-ups including 5ogol, ANGL, ARLECIN and CMDR WAUU and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@
 | Fri, 13 Nov 2026 | SBC - Invites Pixie Dust | Egor Sintsoff, NERONE (2), Pixie Dust |
 | Sat, 21 Nov 2026 | Cathartica: OSTROM SHOWCASE at CLUB K.U.P.E | 5ogol, GØBLIN, KASSIS, VAYROX, VIK B |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/kupe/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/kupe/)*

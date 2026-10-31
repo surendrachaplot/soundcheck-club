@@ -1,6 +1,6 @@
 # Initial Code
 
-Initial Code is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fuse, Brussels on Sat, 12 Dec 2026.
+Initial Code is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fuse, Brussels on Sat, 12 Dec 2026.
 
 Initial Code is a techno artist, with 39 gigs on soundcheck across Antwerp, Berlin, Brussels and Dortmund / Essen and 2 more. Often billed alongside Herton, Clara D and Downside. Next up: Fuse, Brussels on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Initial Code is a techno artist, with 39 gigs on soundcheck across Antwerp, Berl
 
 Herton, Clara D, Downside
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/initialcode/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/initialcode/)*

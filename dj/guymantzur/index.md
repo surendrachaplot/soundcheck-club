@@ -1,6 +1,6 @@
 # Guy Mantzur
 
-Guy Mantzur is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Throw Social DC, Washington DC on Sat, 14 Nov 2026.
+Guy Mantzur is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Throw Social DC, Washington DC on Sat, 14 Nov 2026.
 
 Guy Mantzur is a progressive house and house artist based in Israel, with 103 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Guy J, Sahar Z and Roy Rosenfeld. Next up: Throw Social DC, Washington DC on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Guy Mantzur is a progressive house and house artist based in Israel, with 103 gi
 
 Guy J, Sahar Z, Roy Rosenfeld
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guymantzur/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guymantzur/)*

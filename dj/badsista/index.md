@@ -1,6 +1,6 @@
 # BADSISTA
 
-BADSISTA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Union Pine, Portland on Sat, 31 Oct 2026.
+BADSISTA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Union Pine, Portland on Sat, 31 Oct 2026.
 
 BADSISTA is a house and techno artist based in Brazil, with 162 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 54 more. Often billed alongside Cashu, Paulete Lindacelva and Ananda (BR). Next up: TBA - Union Pine, Portland on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ BADSISTA is a house and techno artist based in Brazil, with 162 gigs on soundche
 
 Cashu, Paulete Lindacelva, Ananda (BR)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

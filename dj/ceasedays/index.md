@@ -1,6 +1,6 @@
 # CeaseDays
 
-CeaseDays is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Giant Penny Whistle, Chicago on Sat, 31 Oct 2026.
+CeaseDays is a House and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Giant Penny Whistle, Chicago on Sat, 31 Oct 2026.
 
 CeaseDays is a house and footwork artist based in United States of America, with 58 gigs on soundcheck across Chicago, Miami, New York City and Utrecht. Often billed alongside M-Dok, Syko (US) and Tre Daniels. Next up: The Giant Penny Whistle, Chicago on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CeaseDays is a house and footwork artist based in United States of America, with
 
 M-Dok, Syko (US), Tre Daniels
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceasedays/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ceasedays/)*

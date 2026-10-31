@@ -1,6 +1,6 @@
 # The Echoplex
 
-The Echoplex is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "And Always Forever" on Fri, 6 Nov 2026.
+The Echoplex is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "And Always Forever" on Fri, 6 Nov 2026.
 
 The Echoplex is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including B0YG1RL, EQ (Estratosfera + Qiri), james K and Jawnino and 2 more. See dates, start times and who's playing. 1154 Glendale Blvd, Los Angeles, CA 90026.
 
@@ -14,4 +14,4 @@ The Echoplex is a music venue in Los Angeles listed on soundcheck. 1 upcoming gi
 
 1154 Glendale Blvd, Los Angeles, CA 90026, Los Angeles
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-echoplex/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-echoplex/)*

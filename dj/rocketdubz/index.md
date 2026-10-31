@@ -1,6 +1,6 @@
 # Rocket Dubz
 
-Rocket Dubz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at [ Loading BAY ], London on Sat, 21 Nov 2026.
+Rocket Dubz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at [ Loading BAY ], London on Sat, 21 Nov 2026.
 
 Rocket Dubz is a garage and house artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside DJ Listener, Daniel Ward and Hermit. Next up: [ Loading BAY ], London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rocket Dubz is a garage and house artist based in United Kingdom, with 13 gigs o
 
 DJ Listener, Daniel Ward, Hermit
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rocketdubz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rocketdubz/)*

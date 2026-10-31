@@ -1,6 +1,6 @@
 # Kels (US)
 
-Kels (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
+Kels (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
 
 Kels (US) is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Detroit, Miami, Montreal and New York City and 1 more. Often billed alongside Shawn Dub, Kels and Alina (MTL). Next up: Good Room, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Kels (US) is a house and techno artist based in United States of America, with 4
 
 Shawn Dub, Kels, Alina (MTL)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelsdavidson/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelsdavidson/)*

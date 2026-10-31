@@ -1,6 +1,6 @@
 # Cabin Luv Affair
 
-Cabin Luv Affair is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Casa Amante Club, Madrid on Sat, 31 Oct 2026.
+Cabin Luv Affair is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Casa Amante Club, Madrid on Sat, 31 Oct 2026.
 
 Cabin Luv Affair is a house and electronica artist based in Spain, with 14 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside Jay Luna, BIHABI and Brisa Then. Next up: Casa Amante Club, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cabin Luv Affair is a house and electronica artist based in Spain, with 14 gigs 
 
 Jay Luna, BIHABI, Brisa Then
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabinluvaffair/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cabinluvaffair/)*

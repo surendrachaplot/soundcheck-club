@@ -1,6 +1,6 @@
 # charis
 
-charis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Fri, 4 Dec 2026.
+charis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Renate, Berlin on Fri, 4 Dec 2026.
 
 charis is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Hannover, Leipzig and London and 1 more. Often billed alongside Cherrie, Sparkly Pony and dxrvo. Next up: Renate, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ charis is a techno and house artist based in Germany, with 22 gigs on soundcheck
 
 Cherrie, Sparkly Pony, dxrvo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charis/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charis/)*

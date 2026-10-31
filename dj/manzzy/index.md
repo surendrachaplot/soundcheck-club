@@ -1,6 +1,6 @@
 # Manzzy
 
-Manzzy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Vertigo, Toronto on Fri, 30 Oct 2026.
+Manzzy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Vertigo, Toronto on Fri, 30 Oct 2026.
 
 Manzzy is a house and tech house artist based in Canada, with 20 gigs on soundcheck across Toronto. Often billed alongside RUDEE NIK, Jonathan Rosa and Stazia. Next up: Vertigo, Toronto on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Manzzy is a house and tech house artist based in Canada, with 20 gigs on soundch
 
 ## Recently played
 
+- Vertigo, Toronto · Fri, 30 Oct 2026
 - Reverie at the Park, Toronto · Fri, 28 Aug 2026
 - Vertigo, Toronto · Fri, 21 Aug 2026
 - Vertigo, Toronto · Fri, 24 Jul 2026
@@ -20,10 +21,9 @@ Manzzy is a house and tech house artist based in Canada, with 20 gigs on soundch
 - NØMAD, Toronto · Sun, 17 May 2026
 - Reverie at the Park, Toronto · Fri, 8 May 2026
 - Reverie at the Park, Toronto · Fri, 17 Apr 2026
-- Reverie at the Park, Toronto · Fri, 10 Apr 2026
 
 ## Shares bills with
 
 RUDEE NIK, Jonathan Rosa, Stazia
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manzzy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manzzy/)*

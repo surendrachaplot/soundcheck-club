@@ -1,6 +1,6 @@
 # Tim Lucent
 
-Tim Lucent is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jupiter Disco, New York City on Sat, 7 Nov 2026.
+Tim Lucent is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jupiter Disco, New York City on Sat, 7 Nov 2026.
 
 Tim Lucent is a house and disco artist based in United States of America, with 66 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Laila Amira, Armii1n and Choukroun. Next up: Jupiter Disco, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Tim Lucent is a house and disco artist based in United States of America, with 6
 
 Laila Amira, Armii1n, Choukroun
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timlucent/)*

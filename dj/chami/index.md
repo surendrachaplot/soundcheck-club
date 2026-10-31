@@ -1,6 +1,6 @@
 # Chami
 
-Chami is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Bassement, Madrid on Sat, 7 Nov 2026.
+Chami is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Bassement, Madrid on Sat, 7 Nov 2026.
 
 Chami is a techno and house artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 27 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: The Bassement, Madrid on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Chami is a techno and house artist based in Germany, with 117 gigs on soundcheck
 
 Olivia Mendez, OPH, Blasha & Allatt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chami/)*

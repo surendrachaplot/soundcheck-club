@@ -1,0 +1,26 @@
+# Donncha
+
+Donncha is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Slane Castle, Ireland on Thu, 31 Dec 2026.
+
+Donncha is a house and garage artist based in Ireland, with 7 gigs on soundcheck across Dublin, Ireland and Utrecht. Often billed alongside Surferboy, Marie Eli and ADRIANA. Next up: Slane Castle, Ireland on Thu 31 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 31 Dec 2026 | Slane Castle | Ireland |
+
+## Recently played
+
+- Yamamori Tengu, Dublin · Thu, 29 Oct 2026
+- Frame, Dublin · Sat, 26 Sept 2026
+- KABUL à GoGo, Utrecht · Wed, 27 May 2026
+- Yamamori Tengu, Dublin · Thu, 12 Mar 2026
+- Yamamori Tengu, Dublin · Thu, 5 Feb 2026
+- Wigwam, Dublin · Fri, 19 Dec 2025
+
+## Shares bills with
+
+Surferboy, Marie Eli, ADRIANA (4)
+
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donncha/)*

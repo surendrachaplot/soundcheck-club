@@ -1,6 +1,6 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Edinburgh on Sat, 31 Oct 2026.
+Horse Meat Disco is a House and Disco artist with 17 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location, Edinburgh on Sat, 31 Oct 2026.
 
 Horse Meat Disco is a house and disco artist based in United Kingdom, with 421 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 65 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: TBA - Secret Location, Edinburgh on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, with 421 g
 
 Luke Howard, James Hillard, Severino
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

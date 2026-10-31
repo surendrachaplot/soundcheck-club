@@ -1,6 +1,6 @@
 # Lucas Frank
 
-Lucas Frank is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Opposite, Barcelona on Fri, 13 Nov 2026.
+Lucas Frank is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Opposite, Barcelona on Fri, 13 Nov 2026.
 
 Lucas Frank is a house and progressive house artist based in Argentina, with 14 gigs on soundcheck across Barcelona. Often billed alongside Babo, Frucula and DC81. Next up: Opposite, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lucas Frank is a house and progressive house artist based in Argentina, with 14 
 
 Babo, Frucula, DC81
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasfrank/)*

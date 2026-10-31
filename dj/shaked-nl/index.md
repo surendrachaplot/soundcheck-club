@@ -1,6 +1,6 @@
 # Shakèd
 
-Shakèd is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, San Diego on Fri, 6 Nov 2026.
+Shakèd is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, San Diego on Fri, 6 Nov 2026.
 
 Shakèd is a house and minimal artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 7 more. Often billed alongside Julien Simmons, Cabanne and Dana Ruh. Next up: TBA, San Diego on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Shakèd is a house and minimal artist based in Netherlands, with 46 gigs on soun
 
 Julien Simmons, Cabanne, Dana Ruh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaked-nl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaked-nl/)*

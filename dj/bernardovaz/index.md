@@ -1,6 +1,6 @@
 # Bernardo Vaz
 
-Bernardo Vaz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rūmu, Lisbon on Fri, 6 Nov 2026.
+Bernardo Vaz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rūmu, Lisbon on Fri, 6 Nov 2026.
 
 Bernardo Vaz is a house and techno artist based in Portugal, with 108 gigs on soundcheck across Lisbon and Porto. Often billed alongside Kaesar, John-E and Gear. Next up: Rūmu, Lisbon on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bernardo Vaz is a house and techno artist based in Portugal, with 108 gigs on so
 
 Kaesar, John-E, Gear
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bernardovaz/)*

@@ -1,6 +1,6 @@
 # Der Loth
 
-Der Loth is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Fri, 20 Nov 2026.
+Der Loth is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at KitKatClub, Berlin on Fri, 20 Nov 2026.
 
 Der Loth is a psytrance and techno artist, with 9 gigs on soundcheck across Berlin. Often billed alongside Jedah, Musiphile and Anton Quasi. Next up: KitKatClub, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Der Loth is a psytrance and techno artist, with 9 gigs on soundcheck across Berl
 
 Jedah, Musiphile, Anton Quasi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derloth/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derloth/)*

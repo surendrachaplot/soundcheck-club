@@ -1,6 +1,6 @@
 # Charlemagne Palestine
 
-Charlemagne Palestine is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Espacio Gaviota, Madrid on Sat, 7 Nov 2026.
+Charlemagne Palestine is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Espacio Gaviota, Madrid on Sat, 7 Nov 2026.
 
 Charlemagne Palestine is an experimental and electronica artist based in United States of America, with 11 gigs on soundcheck across Amsterdam, Bergen, Berlin and London and 7 more. Often billed alongside Oren Ambarchi, Antonina Nowacka and Brian Eno. Next up: Espacio Gaviota, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Charlemagne Palestine is an experimental and electronica artist based in United 
 
 Oren Ambarchi, Antonina Nowacka, Brian Eno
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlemagnepalestine/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/charlemagnepalestine/)*

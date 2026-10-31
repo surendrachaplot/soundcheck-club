@@ -1,6 +1,6 @@
 # Sandra Mason
 
-Sandra Mason is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gattaccio, Florence on Sat, 31 Oct 2026.
+Sandra Mason is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Gattaccio, Florence on Sat, 31 Oct 2026.
 
 Sandra Mason is an experimental and techno artist based in Italy, with 43 gigs on soundcheck across Berlin, Bordeaux, Central and Florence and 6 more. Often billed alongside Marco Ragni, Cosimo Damiano and Gattonero. Next up: Gattaccio, Florence on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Sandra Mason is an experimental and techno artist based in Italy, with 43 gigs o
 
 Marco Ragni, Cosimo Damiano, Gattonero
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandramason/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandramason/)*

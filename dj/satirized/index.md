@@ -1,6 +1,6 @@
 # Satirized
 
-Satirized is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Bikini, South-west on Sat, 14 Nov 2026.
+Satirized is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Le Bikini, South-west on Sat, 14 Nov 2026.
 
 Satirized is a hardcore and gabber artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Frankfurt, Glasgow and Madrid and 1 more. Often billed alongside Noxiouz, The Dark Horror and Pinotello. Next up: Le Bikini, South West on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Satirized is a hardcore and gabber artist based in Netherlands, with 9 gigs on s
 
 Noxiouz, The Dark Horror, Pinotello
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satirized/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satirized/)*

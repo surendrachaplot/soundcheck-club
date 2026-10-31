@@ -1,6 +1,6 @@
 # Autumns
 
-Autumns is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Workmans Club, Dublin on Sat, 21 Nov 2026.
+Autumns is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Workmans Club, Dublin on Sat, 21 Nov 2026.
 
 Autumns is an industrial and techno artist based in Ireland, with 36 gigs on soundcheck across Berlin, Bristol, Cork and Dublin and 12 more. Often billed alongside Kahn, Batu and CCL. Next up: The Workmans Club, Dublin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Autumns is an industrial and techno artist based in Ireland, with 36 gigs on sou
 
 Kahn, Batu, CCL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/autumns/)*

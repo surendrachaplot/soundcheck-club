@@ -1,6 +1,6 @@
 # Sandy Rivera
 
-Sandy Rivera is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Odiseja BTC Ljubljana, Slovenia on Fri, 18 Dec 2026.
+Sandy Rivera is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Odiseja BTC Ljubljana, Slovenia on Fri, 18 Dec 2026.
 
 Sandy Rivera is a house and deep house artist based in United States of America, with 58 gigs on soundcheck across Auckland, Barcelona, Berlin and Brighton and 23 more. Often billed alongside Ella Knight, Chez Damier and Kellie Allen. Next up: Odiseja BTC Ljubljana, Slovenia on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Sandy Rivera is a house and deep house artist based in United States of America,
 
 Ella Knight, Chez Damier, Kellie Allen
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandyrivera/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandyrivera/)*

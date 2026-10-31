@@ -1,6 +1,6 @@
 # McNeills
 
-McNeills is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HallOH!ween Open Hoose" on Sat, 31 Oct 2026.
+McNeills is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HallOH!ween Open Hoose" on Sat, 31 Oct 2026.
 
 McNeills is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with line-ups including GK Machine, Illogical Operator, Ravelston and Slush and 1 more. See dates, start times and who's playing. 106 Torrisdale Street, Glasgow, G42 8ED.
 
@@ -17,4 +17,4 @@ McNeills is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs, with
 
 106 Torrisdale Street, Glasgow, G42 8ED, Glasgow
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcneills/)*

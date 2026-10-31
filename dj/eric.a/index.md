@@ -1,6 +1,6 @@
 # eric.a
 
-eric.a is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+eric.a is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 eric.a is a house and techno artist based in Spain, with 17 gigs on soundcheck across Berlin. Often billed alongside JD Typo, Lyo. and xupid. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ eric.a is a house and techno artist based in Spain, with 17 gigs on soundcheck a
 
 JD Typo, Lyo., xupid
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eric.a/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eric.a/)*

@@ -1,6 +1,6 @@
 # Mystral
 
-Mystral is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 5 Nov 2026.
+Mystral is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 5 Nov 2026.
 
 Mystral is a techno and house artist based in Spain, with 6 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Akua, Andy Garvey and Andy Martin. Next up: Les Enfants Brillants, Barcelona on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Mystral is a techno and house artist based in Spain, with 6 gigs on soundcheck a
 
 Akua, Andy Garvey, Andy Martin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mystral/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mystral/)*

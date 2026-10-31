@@ -1,6 +1,6 @@
 # Dave Shichman
 
-Dave Shichman is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Phoenix Landing, Boston on Thu, 5 Nov 2026.
+Dave Shichman is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Phoenix Landing, Boston on Thu, 5 Nov 2026.
 
 Dave Shichman is a drum & bass and jungle artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Boston, Brighton and Miami and 4 more. Often billed alongside Agent 137, Dieselboy and DJ Strife. Next up: Phoenix Landing, Boston on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Dave Shichman is a drum & bass and jungle artist based in United States of Ameri
 
 Agent 137, Dieselboy, DJ Strife
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveshichman/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daveshichman/)*

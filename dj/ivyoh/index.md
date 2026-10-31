@@ -1,6 +1,6 @@
 # Ivy Oh
 
-Ivy Oh is a EBM and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mood Ring, New York City on Wed, 11 Nov 2026.
+Ivy Oh is a EBM and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Mood Ring, New York City on Wed, 11 Nov 2026.
 
 Ivy Oh is an ebm and post-punk artist based in United States of America, with 30 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Brad Scott, DJ Baby Berlin and Mofongo Massacre. Next up: Mood Ring, New York City on Wed 11 Nov.
 
@@ -27,4 +27,4 @@ Ivy Oh is an ebm and post-punk artist based in United States of America, with 30
 
 Brad Scott, DJ Baby Berlin, Mofongo Massacre
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyoh/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyoh/)*

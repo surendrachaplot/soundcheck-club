@@ -1,6 +1,6 @@
 # Body-O
 
-Body-O is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lula Club, Madrid on Sat, 31 Oct 2026.
+Body-O is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lula Club, Madrid on Sat, 31 Oct 2026.
 
 Body-O is a house and disco artist based in France, with 77 gigs on soundcheck across Madrid and Paris. Often billed alongside Victor Carré, Maik Miroux and Torrione. Next up: Lula Club, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Body-O is a house and disco artist based in France, with 77 gigs on soundcheck a
 
 Victor Carré, Maik Miroux, Torrione
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/body-o/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/body-o/)*

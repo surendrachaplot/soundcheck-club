@@ -1,6 +1,6 @@
 # KAIKAI
 
-KAIKAI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
+KAIKAI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Aoyama Hachi, Tokyo on Sun, 1 Nov 2026.
 
 KAIKAI is a house and techno artist based in Japan, with 39 gigs on soundcheck across Bali, Ibiza, San Francisco/Oakland and Sydney and 1 more. Often billed alongside SIGNAL (JP), Krankent and ALEXANDER M. Next up: Aoyama Hachi, Tokyo on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ KAIKAI is a house and techno artist based in Japan, with 39 gigs on soundcheck a
 
 SIGNAL (JP), Krankent, ALEXANDER M
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikai/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaikai/)*

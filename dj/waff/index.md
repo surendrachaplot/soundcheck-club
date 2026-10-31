@@ -1,6 +1,6 @@
 # wAFF
 
-wAFF is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
+wAFF is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
 
 wAFF is a tech house and house artist based in United Kingdom, with 143 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 40 more. Often billed alongside Jamie Jones, Max Dean and Richy Ahmed. Next up: Mint XL, Leeds on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ wAFF is a tech house and house artist based in United Kingdom, with 143 gigs on 
 
 Jamie Jones, Max Dean, Richy Ahmed
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waff/)*

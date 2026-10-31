@@ -1,6 +1,6 @@
 # Jaromil
 
-Jaromil is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Atlantic Club, Barcelona on Sat, 31 Oct 2026.
+Jaromil is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Atlantic Club, Barcelona on Sat, 31 Oct 2026.
 
 Jaromil is a house and disco artist based in Spain, with 24 gigs on soundcheck across Barcelona and London. Often billed alongside Al Gray, Alex Thunder and Rele. Next up: Atlantic Club, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jaromil is a house and disco artist based in Spain, with 24 gigs on soundcheck a
 
 Al Gray, Alex Thunder, Rele
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaromil/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaromil/)*

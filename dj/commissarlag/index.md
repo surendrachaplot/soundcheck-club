@@ -1,6 +1,6 @@
 # Commissar  Lag
 
-Commissar  Lag is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at control, Bucharest on Fri, 6 Nov 2026.
+Commissar  Lag is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at control, Bucharest on Fri, 6 Nov 2026.
 
 Commissar  Lag is a techno and house artist, with 34 gigs on soundcheck across Belgrade, Berlin, Bucharest and Budapest and 14 more. Often billed alongside Filip Xavi, Akos Wex and Cosmic Xplorer. Next up: control, Bucharest on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Commissar  Lag is a techno and house artist, with 34 gigs on soundcheck across B
 
 Filip Xavi, Akos Wex, Cosmic Xplorer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commissarlag/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/commissarlag/)*

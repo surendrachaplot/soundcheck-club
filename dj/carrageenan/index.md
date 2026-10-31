@@ -1,6 +1,6 @@
 # Carrageenan
 
-Carrageenan is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Recyclart, Brussels on Fri, 4 Dec 2026.
+Carrageenan is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Recyclart, Brussels on Fri, 4 Dec 2026.
 
 Carrageenan is a dub and experimental artist based in Belgium, with 14 gigs on soundcheck across Amsterdam, Brussels, Prague and The Hague. Often billed alongside EliseThere, Rick Shiver and Új Bála. Next up: Recyclart, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Carrageenan is a dub and experimental artist based in Belgium, with 14 gigs on s
 
 EliseThere, Rick Shiver, Új Bála
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrageenan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carrageenan/)*

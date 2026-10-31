@@ -1,6 +1,6 @@
 # Dj Scari
 
-Dj Scari is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gracey’s, Chicago on Sun, 1 Nov 2026.
+Dj Scari is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Gracey’s, Chicago on Sun, 1 Nov 2026.
 
 Dj Scari is a house and bass artist based in United States of America, with 27 gigs on soundcheck across Chicago. Often billed alongside Relativity Lounge, 2tipz and swesdo. Next up: Gracey’s, Chicago on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Dj Scari is a house and bass artist based in United States of America, with 27 g
 
 Relativity Lounge, 2tipz, swesdo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djscari/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djscari/)*

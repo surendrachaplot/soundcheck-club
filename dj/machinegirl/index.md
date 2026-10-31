@@ -1,6 +1,6 @@
 # Machine Girl
 
-Machine Girl is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Machine Girl is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Machine Girl is an experimental and techno artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Barcelona and 21 more. Often billed alongside Chaotic Ugly, John Talabot and Nick León. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Machine Girl is an experimental and techno artist based in United States of Amer
 
 Chaotic Ugly, John Talabot, Nick León
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/machinegirl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/machinegirl/)*

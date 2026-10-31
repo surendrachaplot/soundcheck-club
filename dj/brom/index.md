@@ -1,6 +1,6 @@
 # BROM
 
-BROM is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Theater de Richel, Amsterdam on Sat, 21 Nov 2026.
+BROM is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Theater de Richel, Amsterdam on Sat, 21 Nov 2026.
 
 BROM is a techno and breakbeat artist based in France, with 15 gigs on soundcheck across Amsterdam, Bordeaux, Brussels and Cologne and 5 more. Often billed alongside DJ Brom, Sarah San and 41ISSA. Next up: Theater de Richel, Amsterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ BROM is a techno and breakbeat artist based in France, with 15 gigs on soundchec
 
 DJ Brom, Sarah San, 41ISSA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brom/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brom/)*

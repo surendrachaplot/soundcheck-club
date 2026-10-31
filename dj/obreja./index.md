@@ -1,8 +1,8 @@
 # Obreja.
 
-Obreja. is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
+Obreja. is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
 
-Obreja. is a minimal techno and house artist, with 34 gigs on soundcheck across Berlin and London. Often billed alongside Vlad Ioachimescu, Stefan Andrei and Desuba. Next up: TBA - East London Location TBA, London on Sat 7 Nov.
+Obreja. is a minimal techno and house artist based in United Kingdom, with 34 gigs on soundcheck across Berlin and London. Often billed alongside Vlad Ioachimescu, Stefan Andrei and Desuba. Next up: TBA - East London Location TBA, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Obreja. is a minimal techno and house artist, with 34 gigs on soundcheck across 
 
 Vlad Ioachimescu, Stefan Andrei, Desuba
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obreja./)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obreja./)*

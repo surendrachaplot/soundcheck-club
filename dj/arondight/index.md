@@ -1,6 +1,6 @@
 # Arondight
 
-Arondight is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Seoul Community Radio, Seoul on Sat, 31 Oct 2026.
+Arondight is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Seoul Community Radio, Seoul on Sat, 31 Oct 2026.
 
 Arondight is a deep house and afro house artist, with 27 gigs on soundcheck across Seoul. Often billed alongside Beijo Bae, Onizmik and Seon Hyul. Next up: Seoul Community Radio, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Arondight is a deep house and afro house artist, with 27 gigs on soundcheck acro
 
 Beijo Bae, Onizmik, Seon Hyul
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arondight/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arondight/)*

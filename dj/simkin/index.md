@@ -1,6 +1,6 @@
 # Simkin
 
-Simkin is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ormside Projects, London on Sat, 12 Dec 2026.
+Simkin is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ormside Projects, London on Sat, 12 Dec 2026.
 
 Simkin is a techno and club artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Bristol, London and Manchester and 5 more. Often billed alongside DJ Pitch, Coe and Jennifer Walton. Next up: Ormside Projects, London on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Simkin is a techno and club artist based in United Kingdom, with 26 gigs on soun
 
 DJ Pitch, Coe (1), Jennifer Walton
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simkin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simkin/)*

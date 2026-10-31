@@ -1,6 +1,6 @@
 # James Juke
 
-James Juke is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
+James Juke is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 James Juke is a house and disco artist based in United States of America, with 61 gigs on soundcheck across Berlin, Hamburg, London and Los Angeles and 5 more. Often billed alongside James Juke, shanty mane and Bakke. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ James Juke is a house and disco artist based in United States of America, with 6
 
 James Juke, shanty mane, Bakke
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjuke/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjuke/)*

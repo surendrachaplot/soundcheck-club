@@ -1,6 +1,6 @@
 # Opera Club
 
-Opera Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN В ВАРШАВЕ ОТ IMPREZA" on Sat, 31 Oct 2026.
+Opera Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLOWEEN В ВАРШАВЕ ОТ IMPREZA" on Sat, 31 Oct 2026.
 
 Opera Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Opera Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | HALLOWEEN В ВАРШАВЕ ОТ IMPREZA |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/opera-club/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/opera-club/)*

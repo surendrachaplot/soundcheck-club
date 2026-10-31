@@ -1,6 +1,6 @@
 # Lorenzo Donato
 
-Lorenzo Donato is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
+Lorenzo Donato is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Warehouse Location, Hong Kong on Sat, 31 Oct 2026.
 
 Lorenzo Donato is a techno and experimental artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Beijing, Bologna and Chengdu and 4 more. Often billed alongside PERAMORE, 100%WONG and An On Bast. Next up: TBA - Secret Warehouse Location, Hong Kong on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Lorenzo Donato is a techno and experimental artist based in Italy, with 18 gigs 
 
 PERAMORE, 100%WONG, An On Bast
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*

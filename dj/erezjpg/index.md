@@ -1,6 +1,6 @@
 # EREZ.JPG
 
-EREZ.JPG is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
+EREZ.JPG is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 EREZ.JPG is a house and minimal artist based in United States of America, with 47 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 3 more. Often billed alongside shanty mane, Armii1n and Bakke. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ EREZ.JPG is a house and minimal artist based in United States of America, with 4
 
 shanty mane, Armii1n, Bakke
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erezjpg/)*

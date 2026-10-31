@@ -1,6 +1,6 @@
 # Diagnostix
 
-Diagnostix is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
+Diagnostix is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sat, 31 Oct 2026.
 
 Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 16 more. Often billed alongside Carasel, Crossy and Benny L. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Diagnostix is a drum & bass and jungle artist based in United Kingdom, with 53 g
 
 Carasel, Crossy, Benny L
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diagnostix/)*

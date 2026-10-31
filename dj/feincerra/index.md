@@ -1,6 +1,6 @@
 # Fein Cerra
 
-Fein Cerra is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 28 Nov 2026.
+Fein Cerra is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 28 Nov 2026.
 
 Fein Cerra is a techno and tech house artist, with 12 gigs on soundcheck across Amsterdam, Berlin, Geneva and Ibiza and 1 more. Often billed alongside Nelson Reis, Raeya Chen and ANouch. Next up: Crack Bellmer, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Fein Cerra is a techno and tech house artist, with 12 gigs on soundcheck across 
 
 Nelson Reis, Raeya Chen, ANouch
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feincerra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feincerra/)*

@@ -1,6 +1,6 @@
 # SuperNova (US)
 
-SuperNova (US) is a Baile Funk and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Sat, 31 Oct 2026.
+SuperNova (US) is a Baile Funk and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
 SuperNova (US) is a baile funk and amapiano artist based in United States of America, with 35 gigs on soundcheck across Atlanta, Austin, Los Angeles and Mexico City and 5 more. Often billed alongside Falcons, JOAQU.N and Giselle Peppers. Next up: The Vermont Hollywood, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SuperNova (US) is a baile funk and amapiano artist based in United States of Ame
 
 Falcons, JOAQU.N, Giselle Peppers
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernovaus/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/supernovaus/)*

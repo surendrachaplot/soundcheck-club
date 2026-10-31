@@ -1,6 +1,6 @@
 # JUWLZ
 
-JUWLZ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Motzener Strasse 5 in 12277, Berlin on Sat, 31 Oct 2026.
+JUWLZ is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Motzener Strasse 5 in 12277, Berlin on Sat, 31 Oct 2026.
 
 JUWLZ is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 1 more. Often billed alongside Lisatrix, cell1 and ClubSubbe. Next up: TBA - Motzener Strasse 5 in 12277, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ JUWLZ is a techno and trance artist based in Germany, with 34 gigs on soundcheck
 
 Lisatrix, cell1, ClubSubbe
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juwlz/)*

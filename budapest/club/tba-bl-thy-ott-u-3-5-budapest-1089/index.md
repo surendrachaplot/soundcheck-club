@@ -1,6 +1,6 @@
 # TBA - Bláthy Ottó u. 3-5. Budapest, 1089
 
-TBA - Bláthy Ottó u. 3-5. Budapest, 1089 is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "MAF HALLOWEEN" on Sat, 31 Oct 2026.
+TBA - Bláthy Ottó u. 3-5. Budapest, 1089 is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "MAF HALLOWEEN" on Sat, 31 Oct 2026.
 
 TBA - Bláthy Ottó u. 3-5. Budapest, 1089 is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including Aamir and Andrija Jäger. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ TBA - Bláthy Ottó u. 3-5. Budapest, 1089 is a music venue in Budapest listed o
 | Fri, 13 Nov 2026 | Baraka presents AYIM with Zituli Space Poject NU:S |  |
 | Sat, 14 Nov 2026 | Dephenesztráció |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-bl-thy-ott-u-3-5-budapest-1089/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/tba-bl-thy-ott-u-3-5-budapest-1089/)*

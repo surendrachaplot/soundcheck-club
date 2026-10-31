@@ -1,6 +1,6 @@
 # Lezza
 
-Lezza is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Späti Bro, Warschauer Str., Berlin on Sat, 31 Oct 2026.
+Lezza is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Späti Bro, Warschauer Str., Berlin on Sat, 31 Oct 2026.
 
 Lezza is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside DJ Spaßgetränk, EZA (DE) and MARRE. Next up: TBA - Späti Bro, Warschauer Str., Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lezza is a techno and trance artist based in Germany, with 9 gigs on soundcheck 
 
 DJ Spaßgetränk, EZA (DE), MARRE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezza/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lezza/)*

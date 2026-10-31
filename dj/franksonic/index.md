@@ -1,6 +1,6 @@
 # Frank Sonic
 
-Frank Sonic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ampere Düsseldorf, D-sseldorf on Sat, 27 Mar 2027.
+Frank Sonic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ampere Düsseldorf, D-sseldorf on Sat, 27 Mar 2027.
 
 Frank Sonic is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin, Cologne, D Sseldorf and Düsseldorf and 1 more. Often billed alongside Drumcomplex, Marc Romboy and L-ex. Next up: Ampere Düsseldorf, D Sseldorf on Sat 27 Mar.
 
@@ -25,4 +25,4 @@ Frank Sonic is a techno and house artist based in Germany, with 33 gigs on sound
 
 Drumcomplex, Marc Romboy, L-ex
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franksonic/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franksonic/)*

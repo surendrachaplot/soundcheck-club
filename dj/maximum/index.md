@@ -1,6 +1,6 @@
 # MAXImum
 
-MAXImum is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Oddity Club, Athens on Sat, 7 Nov 2026.
+MAXImum is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Oddity Club, Athens on Sat, 7 Nov 2026.
 
 MAXImum is a techno and trance artist based in Greece, with 20 gigs on soundcheck across Athens, Dublin, Ibiza and Manchester and 2 more. Often billed alongside Nivk Jane, Clowl and Enjoint. Next up: Oddity Club, Athens on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ MAXImum is a techno and trance artist based in Greece, with 20 gigs on soundchec
 
 Nivk Jane, Clowl, Enjoint
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximum/)*

@@ -1,6 +1,6 @@
 # Avenir
 
-Avenir is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rex Club, Paris on Wed, 18 Nov 2026.
+Avenir is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rex Club, Paris on Wed, 18 Nov 2026.
 
 Avenir is a techno and trance artist, with 13 gigs on soundcheck across Marseille, Nantes, Paris and Rome. Often billed alongside ALT8, Artifak and Aureb. Next up: Rex Club, Paris on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Avenir is a techno and trance artist, with 13 gigs on soundcheck across Marseill
 
 ALT8, Artifak, Aureb
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avenir/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avenir/)*

@@ -1,6 +1,6 @@
 # DADO
 
-DADO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at R Lounge, Tokyo on Sun, 22 Nov 2026.
+DADO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at R Lounge, Tokyo on Sun, 22 Nov 2026.
 
 DADO is a house and techno artist based in Japan, with 85 gigs on soundcheck across Atlanta, Bali, Kuala Lumpur and Ljubljana and 4 more. Often billed alongside AY, TAKUTO and ALEXANDER M. Next up: R Lounge, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ DADO is a house and techno artist based in Japan, with 85 gigs on soundcheck acr
 
 AY (10), TAKUTO (2), ALEXANDER M
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dado/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dado/)*

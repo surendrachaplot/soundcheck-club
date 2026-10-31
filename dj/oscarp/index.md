@@ -1,6 +1,6 @@
 # Oscar P
 
-Oscar P is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Commonality Collective, Los Angeles on Thu, 31 Dec 2026.
+Oscar P is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Commonality Collective, Los Angeles on Thu, 31 Dec 2026.
 
 Oscar P is a house and afro house artist based in United States of America, with 48 gigs on soundcheck across Charlotte, Detroit, Los Angeles and Miami and 5 more. Often billed alongside Terry Jasinto, Cris Herrera and Mr Wright. Next up: Commonality Collective, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Oscar P is a house and afro house artist based in United States of America, with
 
 Terry Jasinto, Cris Herrera, Mr Wright
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarp/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarp/)*

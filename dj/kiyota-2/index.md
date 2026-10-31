@@ -1,6 +1,6 @@
 # kiyota (2)
 
-kiyota (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at club asia, Tokyo on Thu, 19 Nov 2026.
+kiyota (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at club asia, Tokyo on Thu, 19 Nov 2026.
 
 kiyota is a house and techno artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside arow, Bonnie and DJ melody. Next up: club asia, Tokyo on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ kiyota is a house and techno artist based in Japan, with 10 gigs on soundcheck a
 
 arow, Bonnie, DJ melody
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyota-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiyota-2/)*

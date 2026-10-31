@@ -1,14 +1,13 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 35 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Rinse FM: Yung Singh + miira" on Fri, 30 Oct 2026.
+Sneaky Pete's is a music venue in Edinburgh with 34 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Soul Jam: Fierro Grande" on Sat, 31 Oct 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming gigs, with line-ups including 3MR., YVI, Amber Leith and Big Miz and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 34 upcoming gigs, with line-ups including 3MR., YVI, Amber Leith and Big Miz and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Rinse FM: Yung Singh + miira | Yung Singh, miira |
 | Sat, 31 Oct 2026 | Soul Jam: Fierro Grande | Fierro Grande, Percy Main |
 | Sun, 1 Nov 2026 | Postal: DJ CABLECAR | DJ CABLECAR |
 | Mon, 2 Nov 2026 | Konversion | 3MR., Buckfast Barbie |
@@ -18,9 +17,10 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 35 upcoming gi
 | Fri, 6 Nov 2026 | Hot Mess: Queer Dance Party | Simonotron |
 | Sat, 7 Nov 2026 | Athens of the North Disco Club | Euan Fryer, Lel Palfrey |
 | Sun, 8 Nov 2026 | Dusky: Free Time - Signals Tour | Dusky, Sally Swan |
+| Sun, 8 Nov 2026 | Postal 5th Birthday | Buckfast Barbie, DV60, Fierro Grande, JI_2001, Lara Sinclair, Mixfits (2) |
 
 ## Address
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

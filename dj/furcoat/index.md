@@ -1,6 +1,6 @@
 # Fur Coat
 
-Fur Coat is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club M2 Miami, Miami on Sat, 7 Nov 2026.
+Fur Coat is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club M2 Miami, Miami on Sat, 7 Nov 2026.
 
 Fur Coat is a techno and tech house artist based in Venezuela, with 35 gigs on soundcheck across Austin, Barcelona, Budapest and Buenos Aires and 16 more. Often billed alongside Art Department, Korolova and Miss Monique. Next up: Club M2 Miami, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Fur Coat is a techno and tech house artist based in Venezuela, with 35 gigs on s
 
 Art Department, Korolova, Miss Monique
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/furcoat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/furcoat/)*

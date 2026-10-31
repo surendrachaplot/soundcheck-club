@@ -1,6 +1,6 @@
 # DJ Rush
 
-DJ Rush is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
+DJ Rush is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
 
 DJ Rush is a techno and house artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 38 more. Often billed alongside J.Fernandes, Alignment and Kobosil. Next up: Inguz Club, Portugal on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ DJ Rush is a techno and house artist based in United States of America, with 96 
 
 J.Fernandes, Alignment, Kobosil
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrush/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrush/)*

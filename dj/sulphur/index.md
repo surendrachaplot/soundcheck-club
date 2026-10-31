@@ -1,6 +1,6 @@
 # Sulphur
 
-Sulphur is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kapsule, Liverpool on Sat, 14 Nov 2026.
+Sulphur is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kapsule, Liverpool on Sat, 14 Nov 2026.
 
 Sulphur is a garage and house artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, Bristol, Cardiff and Leeds and 6 more. Often billed alongside Oldboy, SUFI and Scruz. Next up: Kapsule, Liverpool on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Sulphur is a garage and house artist based in United Kingdom, with 20 gigs on so
 
 Oldboy (2), SUFI, Scruz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulphur/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sulphur/)*

@@ -1,6 +1,6 @@
 # Qamareen
 
-Qamareen is a Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Lucia, Vienna on Sat, 14 Nov 2026.
+Qamareen is a Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Lucia, Vienna on Sat, 14 Nov 2026.
 
 Qamareen is a club artist, with 18 gigs on soundcheck across Berlin and Vienna. Often billed alongside Abu Naima, মm. and zey. Next up: Club Lucia, Vienna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Qamareen is a club artist, with 18 gigs on soundcheck across Berlin and Vienna. 
 
 Abu Naima, মm., zey
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qamareen/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/qamareen/)*

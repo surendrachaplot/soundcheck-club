@@ -1,6 +1,6 @@
 # Ale De Tuglie
 
-Ale De Tuglie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Ale De Tuglie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Ale De Tuglie is a tech house and house artist based in Italy, with 85 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bogotá and 24 more. Often billed alongside Marco Carola, Joey Daniel and Franky Rizardo. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ale De Tuglie is a tech house and house artist based in Italy, with 85 gigs on s
 
 Marco Carola, Joey Daniel, Franky Rizardo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aledetuglie/)*

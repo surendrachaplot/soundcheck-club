@@ -1,6 +1,6 @@
 # Tumbalong Park
 
-Tumbalong Park is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Kool & The Gang + Sister Sledge feat. Slegendary [Sydney]" on Fri, 27 Nov 2026.
+Tumbalong Park is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Kool & The Gang + Sister Sledge feat. Slegendary [Sydney]" on Fri, 27 Nov 2026.
 
 Tumbalong Park is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Catching Flies, Dosem, Drifting Clouds and Eli & Fur and 2 more. See dates, start times and who's playing. Darling Harbour, NSW 2000; Australia.
 
@@ -16,4 +16,4 @@ Tumbalong Park is a music venue in Sydney listed on soundcheck. 3 upcoming gigs,
 
 Darling Harbour, NSW 2000; Australia, Sydney
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tumbalong-park/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tumbalong-park/)*

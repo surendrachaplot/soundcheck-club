@@ -1,6 +1,6 @@
 # Vakho
 
-Vakho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 6 Nov 2026.
+Vakho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mtkvarze, Tbilisi on Fri, 6 Nov 2026.
 
 Vakho is a house and techno artist based in Georgia, with 41 gigs on soundcheck across Bergen, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside Zurkin, Sandro Jorbenadze and Generali Minerali. Next up: Mtkvarze, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Vakho is a house and techno artist based in Georgia, with 41 gigs on soundcheck 
 
 Zurkin, Sandro Jorbenadze, Generali Minerali
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vakho/)*

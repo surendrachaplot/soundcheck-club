@@ -1,6 +1,6 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and Italo Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
+Alex Oxley is a Disco and Italo Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ZeyZey, Miami on Fri, 30 Oct 2026.
 
 Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 25 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: ZeyZey, Miami on Fri 30 Oct.
 
@@ -8,7 +8,6 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gi
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | ZeyZey | Miami |
 | Fri, 30 Oct 2026 | ZeyZey | Miami |
 | Sat, 31 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | Public Works Oddjob Loft | San Francisco/Oakland |
@@ -18,17 +17,17 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gi
 
 ## Recently played
 
+- ZeyZey, Miami · Fri, 30 Oct 2026
+- ZeyZey, Miami · Fri, 30 Oct 2026
 - Zebulon, Los Angeles · Sat, 24 Oct 2026
 - Kiku Room, San Diego · Fri, 23 Oct 2026
 - House of Yes, New York City · Fri, 16 Oct 2026
 - The Onyx Room at House of Yes, New York City · Fri, 16 Oct 2026
 - The Social, London · Fri, 25 Sept 2026
 - TBA - 1566 Carroll Ave, San Francisco, CA 94124, San Francisco/Oakland · Sat, 6 Jun 2026
-- Gold Diggers, Los Angeles · Thu, 28 May 2026
-- Club Tee Gee, Los Angeles · Fri, 8 May 2026
 
 ## Shares bills with
 
 Roxanne Roll, Fleetmac Wood, Horror Hi-Fi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*

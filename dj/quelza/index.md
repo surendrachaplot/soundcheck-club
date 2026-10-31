@@ -1,6 +1,6 @@
 # Quelza
 
-Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 31 Oct 2026.
+Quelza is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 31 Oct 2026.
 
 Quelza is a techno and house artist based in France, with 248 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 76 more. Often billed alongside Freddy K, BASHKKA and Ogazón. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 31 Oct.
 
@@ -35,4 +35,4 @@ Quelza is a techno and house artist based in France, with 248 gigs on soundcheck
 
 Freddy K, BASHKKA, Ogazón
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quelza/)*

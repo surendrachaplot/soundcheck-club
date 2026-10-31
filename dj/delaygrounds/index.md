@@ -1,19 +1,19 @@
 # Delay Grounds
 
-Delay Grounds is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at radial, London on Fri, 30 Oct 2026.
+Delay Grounds is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Future Temple, Bristol on Sat, 21 Nov 2026.
 
-Delay Grounds is a techno and bass artist based in United Kingdom, with 24 gigs on soundcheck across Bristol, Cape Town, Leeds and London. Often billed alongside carmen, Djuar and Paul McManamon. Next up: radial, London on Fri 30 Oct.
+Delay Grounds is a techno and bass artist based in United Kingdom, with 24 gigs on soundcheck across Bristol, Cape Town, Leeds and London. Often billed alongside carmen, Djuar and Paul McManamon. Next up: Future Temple, Bristol on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | radial | London |
 | Sat, 21 Nov 2026 | Future Temple | Bristol |
 | Sat, 16 Jan 2027 | M.O.T | London |
 
 ## Recently played
 
+- radial, London · Fri, 30 Oct 2026
 - radial, London · Fri, 11 Sept 2026
 - M.O.T, London · Sat, 1 Aug 2026
 - radial, London · Fri, 26 Jun 2026
@@ -21,10 +21,9 @@ Delay Grounds is a techno and bass artist based in United Kingdom, with 24 gigs 
 - Green Works, Bristol · Sat, 14 Mar 2026
 - The Greyhound, London · Sat, 29 Nov 2025
 - The Greyhound, London · Sat, 11 Oct 2025
-- Document, Bristol · Sat, 27 Sept 2025
 
 ## Shares bills with
 
 carmen (7), Djuar, Paul McManamon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delaygrounds/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delaygrounds/)*

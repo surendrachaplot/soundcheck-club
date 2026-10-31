@@ -1,6 +1,6 @@
 # Stereociti
 
-Stereociti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rūmu, Lisbon on Wed, 25 Nov 2026.
+Stereociti is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rūmu, Lisbon on Wed, 25 Nov 2026.
 
 Stereociti is a house and techno artist based in Japan, with 12 gigs on soundcheck across Berlin, Kyoto, Lisbon and Osaka and 1 more. Often billed alongside Akatana, 3LIAS and 95 STEPS. Next up: Rūmu, Lisbon on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Stereociti is a house and techno artist based in Japan, with 12 gigs on soundche
 
 Akatana, 3LIAS, 95 STEPS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereociti/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stereociti/)*

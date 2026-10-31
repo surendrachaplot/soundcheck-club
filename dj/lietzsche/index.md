@@ -1,6 +1,6 @@
 # Lietzsche
 
-Lietzsche is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
+Lietzsche is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Pitt Market, Edinburgh on Sat, 31 Oct 2026.
 
 Lietzsche is a disco and house artist, with 29 gigs on soundcheck across Edinburgh. Often billed alongside discjocelyne, Ann Tweak and HAPOL. Next up: The Pitt Market, Edinburgh on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Lietzsche is a disco and house artist, with 29 gigs on soundcheck across Edinbur
 
 discjocelyne, Ann Tweak, HAPOL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lietzsche/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lietzsche/)*

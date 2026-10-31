@@ -1,6 +1,6 @@
 # PINK
 
-PINK is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "duniya .1: tadhor, KD22LR, bundy" on Fri, 6 Nov 2026.
+PINK is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "duniya .1: tadhor, KD22LR, bundy" on Fri, 6 Nov 2026.
 
 PINK is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including bundy, KD22LR and tadhor. See dates, start times and who's playing. Hilton House  Lord Street, Stockport  SK1 3NA.
 
@@ -14,4 +14,4 @@ PINK is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with l
 
 Hilton House  Lord Street, Stockport  SK1 3NA, Manchester
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/pink/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/pink/)*

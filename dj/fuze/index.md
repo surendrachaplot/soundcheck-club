@@ -1,6 +1,6 @@
 # FUZE
 
-FUZE is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Phonox, London on Sat, 31 Oct 2026.
+FUZE is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Phonox, London on Sat, 31 Oct 2026.
 
 FUZE is a drum & bass and house artist based in United Kingdom, with 7 gigs on soundcheck across Bristol, Cardiff and London. Often billed alongside ACID HARRY, Anton X and HARTY. Next up: Phonox, London on Sat 31 Oct.
 
@@ -23,4 +23,4 @@ FUZE is a drum & bass and house artist based in United Kingdom, with 7 gigs on s
 
 ACID HARRY, Anton X, HARTY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuze/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fuze/)*

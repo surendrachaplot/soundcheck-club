@@ -1,6 +1,6 @@
 # Aline Rocha
 
-Aline Rocha is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Home The Venue, Sydney on Fri, 5 Mar 2027.
+Aline Rocha is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Home The Venue, Sydney on Fri, 5 Mar 2027.
 
 Aline Rocha is a house and disco artist based in Brazil, with 67 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Bristol and 22 more. Often billed alongside The Shapeshifters, Horse Meat Disco and Melvo Baptiste. Next up: Home The Venue, Sydney on Fri 5 Mar.
 
@@ -29,4 +29,4 @@ Aline Rocha is a house and disco artist based in Brazil, with 67 gigs on soundch
 
 The Shapeshifters, Horse Meat Disco, Melvo Baptiste
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinerocha/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinerocha/)*

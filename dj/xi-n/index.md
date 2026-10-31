@@ -1,6 +1,6 @@
 # XI-N
 
-XI-N is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Studio dB, Berlin on Fri, 27 Nov 2026.
+XI-N is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Studio dB, Berlin on Fri, 27 Nov 2026.
 
 XI-N is an experimental and ambient artist based in Germany, with 9 gigs on soundcheck across Berlin and Sofia. Often billed alongside Masha Dusapin, AVA RABIAT and Ancestral Vision. Next up: Studio dB, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ XI-N is an experimental and ambient artist based in Germany, with 9 gigs on soun
 
 Masha Dusapin, AVA RABIAT, Ancestral Vision
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xi-n/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xi-n/)*

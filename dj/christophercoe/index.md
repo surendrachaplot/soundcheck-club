@@ -1,6 +1,6 @@
 # Christopher Coe
 
-Christopher Coe is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Collingwood Basement, Melbourne on Sat, 12 Dec 2026.
+Christopher Coe is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Collingwood Basement, Melbourne on Sat, 12 Dec 2026.
 
 Christopher Coe is a techno and tech house artist based in Australia, with 24 gigs on soundcheck across Amsterdam, Austin, Belfast and Chicago and 10 more. Often billed alongside Carl Cox, Hannes Bieger and Vintage Culture. Next up: Collingwood Basement, Melbourne on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Christopher Coe is a techno and tech house artist based in Australia, with 24 gi
 
 Carl Cox, Hannes Bieger, Vintage Culture
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercoe/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christophercoe/)*

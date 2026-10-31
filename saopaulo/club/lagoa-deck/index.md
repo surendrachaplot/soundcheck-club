@@ -1,6 +1,6 @@
 # Lagoa Deck
 
-Lagoa Deck is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "33 RPM" on Sat, 31 Oct 2026.
+Lagoa Deck is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "33 RPM" on Sat, 31 Oct 2026.
 
 Lagoa Deck is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, with line-ups including Radiocuts. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Lagoa Deck is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | 33 RPM | Radiocuts |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/lagoa-deck/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/lagoa-deck/)*

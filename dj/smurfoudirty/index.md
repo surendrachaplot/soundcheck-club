@@ -1,20 +1,20 @@
 # SMURFOUDIRTY
 
-SMURFOUDIRTY is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
+SMURFOUDIRTY is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jupiter Disco, New York City on Sat, 21 Nov 2026.
 
-SMURFOUDIRTY is a house and disco artist based in United States of America, with 50 gigs on soundcheck across New York City. Often billed alongside Regis Noir, Deo'jorge and Anna Collecta. Next up: Dead Letter No. 9, New York City on Fri 30 Oct.
+SMURFOUDIRTY is a house and disco artist based in United States of America, with 50 gigs on soundcheck across New York City. Often billed alongside Regis Noir, Deo'jorge and Anna Collecta. Next up: Jupiter Disco, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Dead Letter No. 9 | New York City |
 | Sat, 21 Nov 2026 | Jupiter Disco | New York City |
 | Sun, 22 Nov 2026 | Good Room | New York City |
 | Sat, 12 Dec 2026 | Paragon | New York City |
 
 ## Recently played
 
+- Dead Letter No. 9, New York City · Fri, 30 Oct 2026
 - Dead Letter No. 9, New York City · Sat, 10 Oct 2026
 - Xanadu, New York City · Sun, 27 Sept 2026
 - Danger Danger, New York City · Fri, 25 Sept 2026
@@ -22,10 +22,9 @@ SMURFOUDIRTY is a house and disco artist based in United States of America, with
 - Pier 78 at Hudson River Park, New York City · Sat, 22 Aug 2026
 - Green Room NYC, New York City · Sat, 15 Aug 2026
 - McCarren Park, New York City · Sat, 15 Aug 2026
-- Dead Letter No. 9, New York City · Fri, 31 Jul 2026
 
 ## Shares bills with
 
 Regis Noir, Deo'jorge, Anna Collecta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*

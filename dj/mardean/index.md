@@ -1,6 +1,6 @@
 # Mar Dean
 
-Mar Dean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kauz, Zurich on Sat, 31 Oct 2026.
+Mar Dean is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kauz, Zurich on Sat, 31 Oct 2026.
 
 Mar Dean is a techno and house artist based in Switzerland, with 15 gigs on soundcheck across Bangkok, Berlin, Nürnberg and Prague and 1 more. Often billed alongside Solvane, Prismode and Britta Arnold. Next up: Kauz, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mar Dean is a techno and house artist based in Switzerland, with 15 gigs on soun
 
 Solvane, Prismode, Britta Arnold
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mardean/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mardean/)*

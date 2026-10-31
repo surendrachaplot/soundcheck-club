@@ -1,6 +1,6 @@
 # Eva Charley
 
-Eva Charley is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
+Eva Charley is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
 
 Eva Charley is a techno and trance artist based in Australia, with 40 gigs on soundcheck across Berlin, Cologne, Hamburg and Münster and 2 more. Often billed alongside GMOZ, BabaBass3000 and Malfunkt. Next up: Edelfettwerk, Hamburg on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Eva Charley is a techno and trance artist based in Australia, with 40 gigs on so
 
 GMOZ, BabaBass3000, Malfunkt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evacharley/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evacharley/)*

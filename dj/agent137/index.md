@@ -1,6 +1,6 @@
 # Agent 137
 
-Agent 137 is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Crown, New York City on Fri, 27 Nov 2026.
+Agent 137 is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Crown, New York City on Fri, 27 Nov 2026.
 
 Agent 137 is a drum & bass and jungle artist based in United States of America, with 27 gigs on soundcheck across Boston, New York City, Philadelphia and Toronto and 1 more. Often billed alongside Dave Shichman, DJ Strife and Dieselboy. Next up: The Crown, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Agent 137 is a drum & bass and jungle artist based in United States of America, 
 
 Dave Shichman, DJ Strife, Dieselboy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agent137/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/agent137/)*

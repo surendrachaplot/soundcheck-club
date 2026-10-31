@@ -1,6 +1,6 @@
 # Coone
 
-Coone is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Coone is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Coone is a techno and hardcore artist based in Belgium, with 26 gigs on soundcheck across Amsterdam, Brussels, Copenhagen and Düsseldorf and 10 more. Often billed alongside Da Tweekaz, Brennan Heart and Alok. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -15,6 +15,7 @@ Coone is a techno and hardcore artist based in Belgium, with 26 gigs on soundche
 
 ## Recently played
 
+- NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Chicago Social Club, Amsterdam · Wed, 21 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Electrisize, Düsseldorf · Fri, 7 Aug 2026
@@ -22,10 +23,9 @@ Coone is a techno and hardcore artist based in Belgium, with 26 gigs on soundche
 - Fabrik, Madrid · Sat, 21 Feb 2026
 - Epic Prague, Prague · Fri, 13 Feb 2026
 - T7 Paris, Paris · Sat, 29 Nov 2025
-- Club Hípico de Santiago, Santiago · Sat, 11 Oct 2025
 
 ## Shares bills with
 
 Da Tweekaz, Brennan Heart, Alok
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*

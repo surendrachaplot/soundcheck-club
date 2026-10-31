@@ -1,6 +1,6 @@
 # Hala Koszyki
 
-Hala Koszyki is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "KLUBOWA ANTRESOLA | Pop Up Speakeasy" on Sat, 31 Oct 2026.
+Hala Koszyki is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "KLUBOWA ANTRESOLA | Pop Up Speakeasy" on Sat, 31 Oct 2026.
 
 Hala Koszyki is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Mushin. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Hala Koszyki is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | KLUBOWA ANTRESOLA / Pop Up Speakeasy | Mushin |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hala-koszyki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/hala-koszyki/)*

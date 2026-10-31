@@ -1,6 +1,6 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 42 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "WARA, SHOWHEY & naovillan" on Sat, 31 Oct 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 42 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "WARA, SHOWHEY & naovillan" on Sat, 31 Oct 2026.
 
 DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 42 upcoming gigs, with line-ups including Abiu, callithyia, Dazzle Drums and Dictionally and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
@@ -23,4 +23,4 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 42 upcomi
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

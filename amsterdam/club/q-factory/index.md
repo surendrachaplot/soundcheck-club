@@ -1,6 +1,6 @@
 # Q-Factory
 
-Q-Factory is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Checkmate Sessions" on Thu, 5 Nov 2026.
+Q-Factory is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Checkmate Sessions" on Thu, 5 Nov 2026.
 
 Q-Factory is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including YALI HENDRIX. See dates, start times and who's playing. Atlantisplein 1, 1093 NE, Amsterdam.
 
@@ -15,4 +15,4 @@ Q-Factory is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, w
 
 Atlantisplein 1, 1093 NE, Amsterdam, Amsterdam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/q-factory/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/q-factory/)*

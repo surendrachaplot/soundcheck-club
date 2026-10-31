@@ -1,6 +1,6 @@
 # PITCHKA
 
-PITCHKA is a Pop and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Revolver Upstairs, Melbourne on Mon, 2 Nov 2026.
+PITCHKA is a Pop and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Revolver Upstairs, Melbourne on Mon, 2 Nov 2026.
 
 PITCHKA is a pop and house artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside Zalina, Aquenta and Deepa. Next up: Revolver Upstairs, Melbourne on Mon 2 Nov.
 
@@ -16,4 +16,4 @@ PITCHKA is a pop and house artist based in Australia, with 3 gigs on soundcheck 
 
 Zalina, Aquenta, Deepa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pitchka/)*

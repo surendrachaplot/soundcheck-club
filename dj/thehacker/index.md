@@ -1,6 +1,6 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 31 Oct 2026.
+The Hacker is a Techno and Electro artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 31 Oct 2026.
 
 The Hacker is a techno and electro artist based in France, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Mondo Open Air, Madrid on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ The Hacker is a techno and electro artist based in France, with 131 gigs on soun
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

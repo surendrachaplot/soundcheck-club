@@ -1,6 +1,6 @@
 # DOREY
 
-DOREY is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Manning Bar, Sydney on Sat, 31 Oct 2026.
+DOREY is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Manning Bar, Sydney on Sat, 31 Oct 2026.
 
 DOREY is a house and trance artist based in United Kingdom, with 15 gigs on soundcheck across Aberdeen, Amsterdam, Brisbane and Dundee and 4 more. Often billed alongside Céleste, Vivace (UK) and AKA DISPLAY. Next up: Manning Bar, Sydney on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DOREY is a house and trance artist based in United Kingdom, with 15 gigs on soun
 
 Céleste, Vivace (UK), AKA DISPLAY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorey/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorey/)*

@@ -1,6 +1,6 @@
 # Grand River
 
-Grand River is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Grand River is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Grand River is an experimental and ambient artist, with 37 gigs on soundcheck across Athens, Barcelona, Bergen and Berlin and 16 more. Often billed alongside Abul Mogard, upsammy and Zoë Mc Pherson. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Grand River is an experimental and ambient artist, with 37 gigs on soundcheck ac
 
 Abul Mogard, upsammy, Zoë Mc Pherson
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandriver-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grandriver-de/)*

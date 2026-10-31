@@ -1,6 +1,6 @@
 # Carla Schack
 
-Carla Schack is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar de Escuta, Rio de Janeiro on Sun, 1 Nov 2026.
+Carla Schack is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bar de Escuta, Rio de Janeiro on Sun, 1 Nov 2026.
 
 Carla Schack is a house and hip-hop artist, with 9 gigs on soundcheck across Copenhagen and Rio de Janeiro. Often billed alongside Sound and Fury, AELVA K and Buja. Next up: Bar de Escuta, Rio de Janeiro on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Carla Schack is a house and hip-hop artist, with 9 gigs on soundcheck across Cop
 
 Sound and Fury, AELVA K, Buja
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschack/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschack/)*

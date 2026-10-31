@@ -1,6 +1,6 @@
 # Virgi Nou
 
-Virgi Nou is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nordstern, Basel on Fri, 20 Nov 2026.
+Virgi Nou is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Nordstern, Basel on Fri, 20 Nov 2026.
 
 Virgi Nou is a techno and electro artist based in Italy, with 20 gigs on soundcheck across Barcelona, Basel and Milan. Often billed alongside Ale Hope, ONA (SP) and ValaV. Next up: Nordstern, Basel on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Virgi Nou is a techno and electro artist based in Italy, with 20 gigs on soundch
 
 Ale Hope, ONA (SP), ValaV
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virginou/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/virginou/)*

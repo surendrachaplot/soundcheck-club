@@ -1,6 +1,6 @@
 # Oenothera
 
-Oenothera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
+Oenothera is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Pipe Live Music, Taipei on Sat, 31 Oct 2026.
 
 Oenothera is a techno and house artist based in Taiwan, with 12 gigs on soundcheck across Taipei. Often billed alongside ASTAT, Overthink and Hangedman53. Next up: Pipe Live Music, Taipei on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Oenothera is a techno and house artist based in Taiwan, with 12 gigs on soundche
 
 ASTAT, Overthink, Hangedman53
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oenothera/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oenothera/)*

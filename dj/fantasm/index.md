@@ -1,6 +1,6 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Leopardstown Racecourse, Dublin on Fri, 30 Oct 2026.
+Fantasm is a Techno and Hardcore artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Leopardstown Racecourse, Dublin on Fri, 30 Oct 2026.
 
 Fantasm is a techno and hardcore artist based in United States of America, with 102 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 51 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Leopardstown Racecourse, Dublin on Fri 30 Oct.
 
@@ -23,6 +23,7 @@ Fantasm is a techno and hardcore artist based in United States of America, with 
 
 ## Recently played
 
+- Leopardstown Racecourse, Dublin · Fri, 30 Oct 2026
 - Spook Club, Valencia · Sat, 17 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
@@ -30,10 +31,9 @@ Fantasm is a techno and hardcore artist based in United States of America, with 
 - Sektor 6D, Warsaw · Fri, 9 Oct 2026
 - TBA - Areal Böhler, Düsseldorf · Sat, 3 Oct 2026
 - Pavilhão Carlos Lopes, Lisbon · Fri, 2 Oct 2026
-- The Telegraph Building, Belfast · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 KLOFAMA, NOVAH, Holy Priest
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fantasm/)*

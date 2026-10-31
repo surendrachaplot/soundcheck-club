@@ -1,6 +1,6 @@
 # Yari (VE)
 
-Yari (VE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Taco Kat, Orlando on Sat, 31 Oct 2026.
+Yari (VE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Taco Kat, Orlando on Sat, 31 Oct 2026.
 
 Yari (VE) is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Florence, Miami, Orlando and San Francisco/Oakland and 1 more. Often billed alongside Jake Anthony (PR), DomnRob and INIGMA. Next up: Taco Kat, Orlando on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Yari (VE) is a techno and house artist based in United States of America, with 1
 
 Jake Anthony (PR), DomnRob, INIGMA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarive-us/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yarive-us/)*

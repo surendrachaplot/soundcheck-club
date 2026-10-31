@@ -1,6 +1,6 @@
 # SWIMS
 
-SWIMS is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Balagan, Mexico City on Sat, 31 Oct 2026.
+SWIMS is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Balagan, Mexico City on Sat, 31 Oct 2026.
 
 SWIMS is a downtempo and electronica artist, with 12 gigs on soundcheck across Mexico City and New York City. Often billed alongside Badknees, Maseriche and Saturna. Next up: Balagan, Mexico City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ SWIMS is a downtempo and electronica artist, with 12 gigs on soundcheck across M
 
 Badknees, Maseriche, Saturna
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swims/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swims/)*

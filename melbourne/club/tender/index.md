@@ -1,6 +1,6 @@
 # Tender
 
-Tender is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Efficient Space pres. Eiji Taniguchi (Revelation Time/JP)" on Wed, 4 Nov 2026.
+Tender is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Efficient Space pres. Eiji Taniguchi (Revelation Time/JP)" on Wed, 4 Nov 2026.
 
 Tender is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Albrecht and Martinou. See dates, start times and who's playing. 535 Sydney Road.
 
@@ -16,4 +16,4 @@ Tender is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with
 
 535 Sydney Road, Melbourne
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*

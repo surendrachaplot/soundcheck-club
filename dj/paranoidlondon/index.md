@@ -1,6 +1,6 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Beaver Works, Leeds on Fri, 6 Nov 2026.
+Paranoid London is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Beaver Works, Leeds on Fri, 6 Nov 2026.
 
 Paranoid London is a techno and acid artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baltimore and 47 more. Often billed alongside Palms Trax, Soul Clap and Elena Colombi. Next up: Beaver Works, Leeds on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Paranoid London is a techno and acid artist based in United Kingdom, with 132 gi
 
 Palms Trax, Soul Clap, Elena Colombi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paranoidlondon/)*

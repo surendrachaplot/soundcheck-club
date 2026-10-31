@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 31 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PiepShow - OctoberPiep" on Fri, 30 Oct 2026.
+KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Disco Bizarre: Poking Fun at Halloween" on Sat, 31 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alessia Cattani and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alex Nantaya and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | PiepShow - OctoberPiep | Alessia Cattani, Chiara Fucci, Chris Fuego, DJ PayPaul, Daryl Johnson, David Strasser, FLEXTASY, Juan Del Chambo, KEN (DE), Maleska |
 | Sat, 31 Oct 2026 | Disco Bizarre: Poking Fun at Halloween | Ben Gomori, Bizarre Billy, Marvel83', Queen E |
 | Sun, 1 Nov 2026 | Nachspiel | GALAGO (BE), Jaxter |
 | Mon, 2 Nov 2026 | Electric Monday@Kitkat | André Lodemann, Frankie Flowerz, Milk N Coffee, Ricardo Rodriguez |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 31 upcoming gigs, wi
 | Sun, 8 Nov 2026 | Nachspiel | Fran-Cee |
 | Mon, 9 Nov 2026 | Electric Monday@KitKat | Frankie Flowerz, Ludmila Houben, Ricardo Rodriguez |
 | Wed, 11 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Heepmann, LadyBird aka C.J. Parker, maniaclina |
+| Thu, 12 Nov 2026 | PSYCHO Collage | Ari Denaro |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

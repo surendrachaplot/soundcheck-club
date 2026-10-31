@@ -1,6 +1,6 @@
 # The Tunnels
 
-The Tunnels is a music venue in Aberdeen with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "All Night Passion's Halloween Disco (8pm-12am)" on Sat, 31 Oct 2026.
+The Tunnels is a music venue in Aberdeen with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "All Night Passion's Halloween Disco (8pm-12am)" on Sat, 31 Oct 2026.
 
 The Tunnels is a music venue in Aberdeen listed on soundcheck. 4 upcoming gigs, with line-ups including All Night Passion, Danny Snowden, Richard Sen and Zoe from Finance. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ The Tunnels is a music venue in Aberdeen listed on soundcheck. 4 upcoming gigs, 
 | Fri, 18 Dec 2026 | Danny Snowden - Rift Aberdeen | Danny Snowden |
 | Sun, 27 Dec 2026 | Richard Sen, Zoe from Finance, A.B.HABIBI [live] & more | Richard Sen, Zoe from Finance |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/the-tunnels/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/aberdeen/club/the-tunnels/)*

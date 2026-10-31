@@ -1,6 +1,6 @@
 # SKALAH (UK)
 
-SKALAH (UK) is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 31 Oct 2026.
+SKALAH (UK) is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 31 Oct 2026.
 
 SKALAH (UK) is a dubstep and bass artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Brighton, Bristol and Cardiff and 11 more. Often billed alongside JAZ IMSKY, Saint Ludo and Plastician. Next up: Gaswrx Birmingham, London on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ SKALAH (UK) is a dubstep and bass artist based in United Kingdom, with 51 gigs o
 
 JAZ IMSKY, Saint Ludo, Plastician
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*

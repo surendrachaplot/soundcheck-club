@@ -1,14 +1,13 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Club Rawhide FRIDAY: Freakish Friday Formula #79 with Will Automagic, Leonce, Delilah At Night" on Fri, 30 Oct 2026.
+Club Rawhide is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Club Rawhide SATURDAY: Potent HALLOWEEN Concentrate #26 with Lauren Flax, Alexis, Stiletto" on Sat, 31 Oct 2026.
 
-Club Rawhide is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, Delilah At Night, DJ Dawson and Lauren Flax and 2 more. See dates, start times and who's playing. 250 W 26TH ST.
+Club Rawhide is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including ALEXIS DE LA ROSA, DJ Dawson, Lauren Flax and Tory Stiletto. See dates, start times and who's playing. 250 W 26TH ST.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Club Rawhide FRIDAY: Freakish Friday Formula #79 with Will Automagic, Leonce, Delilah At Night | Delilah At Night, Leonce, Will Automagic |
 | Sat, 31 Oct 2026 | Club Rawhide SATURDAY: Potent HALLOWEEN Concentrate #26 with Lauren Flax, Alexis, Stiletto | ALEXIS DE LA ROSA, Lauren Flax, Tory Stiletto |
 | Sat, 31 Oct 2026 | Conway the Machine UK Tour |  |
 | Sun, 1 Nov 2026 | LOVE SENSATION SUNDAYS: SÉANCE FOR THE DAY OF THE DEAD DISCO with DJ Lina, Dawson | DJ Dawson |
@@ -21,4 +20,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 8 upcoming 
 
 250 W 26TH ST, New York City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

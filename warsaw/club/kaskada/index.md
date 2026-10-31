@@ -1,6 +1,6 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Wixapol HALLOWEEN BOAT RAVE: THE GHOST SHIP" on Sat, 31 Oct 2026.
+Kaskada is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Wixapol HALLOWEEN BOAT RAVE: THE GHOST SHIP" on Sat, 31 Oct 2026.
 
 Kaskada is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Mikouaj Rejw / Wixapol S.A., PLATTER, TORRENTZ and Wixapol. See dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
@@ -14,4 +14,4 @@ Kaskada is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with li
 
 Wybrzeże Kościuszkowskie 2, 00-390 Warszawa, Warsaw
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/kaskada/)*

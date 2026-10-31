@@ -1,6 +1,6 @@
 # Bergen Kjøtt
 
-Bergen Kjøtt is a music venue in Bergen with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "NANA PLAZA" on Fri, 6 Nov 2026.
+Bergen Kjøtt is a music venue in Bergen with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "NANA PLAZA" on Fri, 6 Nov 2026.
 
 Bergen Kjøtt is a music venue in Bergen listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Bergen Kjøtt is a music venue in Bergen listed on soundcheck. 1 upcoming gig. S
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | NANA PLAZA |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/bergen-kj-tt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/bergen/club/bergen-kj-tt/)*

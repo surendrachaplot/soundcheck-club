@@ -1,6 +1,6 @@
 # Duality (US)
 
-Duality (US) is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Boombox, Miami on Sat, 7 Nov 2026.
+Duality (US) is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Boombox, Miami on Sat, 7 Nov 2026.
 
 Duality (US) is a footwork and club artist based in United States of America, with 54 gigs on soundcheck across Austin, Baltimore, Chicago and Jacksonville and 6 more. Often billed alongside 619!, Roll-e and Sel.6. Next up: The Boombox, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Duality (US) is a footwork and club artist based in United States of America, wi
 
 619!, Roll-e, Sel.6
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duality-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/duality-2/)*

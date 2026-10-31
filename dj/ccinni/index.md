@@ -1,6 +1,6 @@
 # CCINNI
 
-CCINNI is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 7 Nov 2026.
+CCINNI is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Nitsa Club, Barcelona on Sat, 7 Nov 2026.
 
 CCINNI is a techno and electronica artist, with 10 gigs on soundcheck across Barcelona, Berlin and Buenos Aires. Often billed alongside Tiello, RADON and Adron (DE). Next up: Nitsa Club, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ CCINNI is a techno and electronica artist, with 10 gigs on soundcheck across Bar
 
 Tiello, RADON, Adron (DE)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccinni/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ccinni/)*

@@ -1,6 +1,6 @@
 # Ferra Black
 
-Ferra Black is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 6 Nov 2026.
+Ferra Black is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NIX Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Ferra Black is a tech house and house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Boston and 12 more. Often billed alongside Franky Rizardo, Jay de Lys and Mai iachetti. Next up: NIX Barcelona, Barcelona on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Ferra Black is a tech house and house artist based in United States of America, 
 
 Franky Rizardo, Jay de Lys, Mai iachetti
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrablack/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrablack/)*

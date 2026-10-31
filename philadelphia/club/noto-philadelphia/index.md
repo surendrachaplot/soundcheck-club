@@ -1,6 +1,6 @@
 # Noto Philadelphia
 
-Noto Philadelphia is a music venue in Philadelphia with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Nightmare on Vine Street: Drake vs Bad Bunny Dance Night" on Sat, 31 Oct 2026.
+Noto Philadelphia is a music venue in Philadelphia with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Nightmare on Vine Street: Drake vs Bad Bunny Dance Night" on Sat, 31 Oct 2026.
 
 Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 13 upcoming gigs, with line-ups including ANDi MANDi, Angelinkast, Conrad Taylor and Joyhauser and 2 more. See dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
 
@@ -23,4 +23,4 @@ Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 13 upco
 
 1209 Vine Street Philadelphia, Pennsylvania, Philadelphia
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*

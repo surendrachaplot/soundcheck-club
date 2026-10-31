@@ -1,6 +1,6 @@
 # Mousse T.
 
-Mousse T. is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at public records, New York City on Thu, 5 Nov 2026.
+Mousse T. is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at public records, New York City on Thu, 5 Nov 2026.
 
 Mousse T. is a house and disco artist based in Germany, with 104 gigs on soundcheck across Adelaide, Amsterdam, Bali and Barcelona and 31 more. Often billed alongside Dave Lee, Horse Meat Disco and Melvo Baptiste. Next up: public records, New York City on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ Mousse T. is a house and disco artist based in Germany, with 104 gigs on soundch
 
 Dave Lee, Horse Meat Disco, Melvo Baptiste
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*

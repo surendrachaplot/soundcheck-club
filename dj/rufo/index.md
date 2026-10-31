@@ -1,6 +1,6 @@
 # Rufo
 
-Rufo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Glove That Fits, London on Sat, 7 Nov 2026.
+Rufo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Glove That Fits, London on Sat, 7 Nov 2026.
 
 Rufo is a house and techno artist based in Peru, with 53 gigs on soundcheck across Barcelona, Bogotá, Edinburgh and Lisbon and 6 more. Often billed alongside Onoffon, Sebastián and Christian Arcila. Next up: The Glove That Fits, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Rufo is a house and techno artist based in Peru, with 53 gigs on soundcheck acro
 
 Onoffon, Sebastián, Christian Arcila
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufo/)*

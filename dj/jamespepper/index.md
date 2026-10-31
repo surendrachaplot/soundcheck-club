@@ -1,6 +1,6 @@
 # James Pepper
 
-James Pepper is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Sydney on Sat, 19 Dec 2026.
+James Pepper is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Sydney on Sat, 19 Dec 2026.
 
 James Pepper is a house and techno artist based in Australia, with 41 gigs on soundcheck across Amsterdam, Berlin, London and Melbourne and 3 more. Often billed alongside Caleb Jackson, Jacqui Cunningham and Sasha Milani. Next up: TBA, Sydney on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ James Pepper is a house and techno artist based in Australia, with 41 gigs on so
 
 Caleb Jackson, Jacqui Cunningham, Sasha Milani
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespepper/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespepper/)*

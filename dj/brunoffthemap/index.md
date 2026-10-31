@@ -1,6 +1,6 @@
 # BR:UNO
 
-BR:UNO is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Pico do Jaraguá, Sao Paulo on Sat, 31 Oct 2026.
+BR:UNO is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Pico do Jaraguá, Sao Paulo on Sat, 31 Oct 2026.
 
 BR:UNO is a techno and acid artist, with 8 gigs on soundcheck across Sao Paulo. Often billed alongside Acid Asian, Adnan Sharif and Alejo. Next up: TBA - Pico do Jaraguá, Sao Paulo on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ BR:UNO is a techno and acid artist, with 8 gigs on soundcheck across Sao Paulo. 
 
 Acid Asian, Adnan Sharif, Alejo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoffthemap/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoffthemap/)*

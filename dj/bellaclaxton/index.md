@@ -1,14 +1,13 @@
 # Bella Claxton
 
-Bella Claxton is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 30 Oct 2026.
+Bella Claxton is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-Bella Claxton is a techno and house artist based in Australia, with 138 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: The Berkeley Suite, Glasgow on Fri 30 Oct.
+Bella Claxton is a techno and house artist based in Australia, with 138 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 35 more. Often billed alongside Faster Horses, Kyle Starkey and LAMMER. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | The Berkeley Suite | Glasgow |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 7 Nov 2026 | Cabaret  Aléatoire | Marseille |
 | Fri, 20 Nov 2026 | Colour Factory | London |
@@ -21,6 +20,7 @@ Bella Claxton is a techno and house artist based in Australia, with 138 gigs on 
 
 ## Recently played
 
+- The Berkeley Suite, Glasgow · Fri, 30 Oct 2026
 - H7 Warehouse, Amsterdam · Fri, 23 Oct 2026
 - Thuishaven, Amsterdam · Fri, 23 Oct 2026
 - RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
@@ -28,10 +28,9 @@ Bella Claxton is a techno and house artist based in Australia, with 138 gigs on 
 - Mint XL, Leeds · Sat, 10 Oct 2026
 - Virage, Paris · Sat, 10 Oct 2026
 - Amnesia Ibiza, Ibiza · Thu, 8 Oct 2026
-- Cockatoo Island, Sydney · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Faster Horses, Kyle Starkey, LAMMER
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bellaclaxton/)*

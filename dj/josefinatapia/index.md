@@ -1,6 +1,6 @@
 # Josefina Tapia
 
-Josefina Tapia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at H0L0, New York City on Sat, 14 Nov 2026.
+Josefina Tapia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at H0L0, New York City on Sat, 14 Nov 2026.
 
 Josefina Tapia is a house and techno artist based in Australia, with 14 gigs on soundcheck across Berlin, Hamburg, New York City and Paris and 1 more. Often billed alongside Kerry Wallace, ritmiq and Rosa Kante. Next up: H0L0, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Josefina Tapia is a house and techno artist based in Australia, with 14 gigs on 
 
 Kerry Wallace, ritmiq, Rosa Kante
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josefinatapia/)*

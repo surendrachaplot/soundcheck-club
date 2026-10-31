@@ -1,6 +1,6 @@
 # Pierre Louis
 
-Pierre Louis is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 21 Nov 2026.
+Pierre Louis is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 21 Nov 2026.
 
 Pierre Louis is a techno and tech house artist based in United States of America, with 12 gigs on soundcheck across Miami and New York City. Often billed alongside DREAMINSLOW, Pauli Cakes and Total XTC. Next up: Bossa Nova Civic Club, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Pierre Louis is a techno and tech house artist based in United States of America
 
 DREAMINSLOW, Pauli Cakes, Total XTC
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrelouis/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrelouis/)*

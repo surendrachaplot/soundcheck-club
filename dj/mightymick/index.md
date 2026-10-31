@@ -1,6 +1,6 @@
 # Mighty Mick
 
-Mighty Mick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Departamento, Mexico City on Wed, 28 Oct 2026.
+Mighty Mick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Departamento, Mexico City on Wed, 28 Oct 2026.
 
 Mighty Mick is a house and techno artist, with 14 gigs on soundcheck across Mexico City. Often billed alongside Dj Render, Djezzz and Lyo XS. Next up: Departamento, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Mighty Mick is a house and techno artist, with 14 gigs on soundcheck across Mexi
 
 Dj Render, Djezzz, Lyo XS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mightymick/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mightymick/)*

@@ -1,6 +1,6 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Nora En Pure is a Deep House and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Nora En Pure is a deep house and house artist based in South Africa, with 165 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 47 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -9,7 +9,6 @@ Nora En Pure is a deep house and house artist based in South Africa, with 165 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Fri, 30 Oct 2026 | Ductwork Houston | Houston |
 | Sat, 7 Nov 2026 | TBA - Archi Club, Costanera | Buenos Aires |
 | Fri, 13 Nov 2026 | Lunchbox | Atlanta |
 | Sat, 14 Nov 2026 | Audio SF | San Francisco/Oakland |
@@ -19,17 +18,17 @@ Nora En Pure is a deep house and house artist based in South Africa, with 165 gi
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 30 Oct 2026
+- Ductwork Houston, Houston · Fri, 30 Oct 2026
 - Oceandiva Original, Netherlands · Fri, 23 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 10 Oct 2026
 - Electric Bristol, Bristol · Fri, 2 Oct 2026
 - TBA, Melbourne · Sat, 19 Sept 2026
 - Home The Venue, Sydney · Fri, 18 Sept 2026
 - Arts Factory Garden Bar, Byron Bay · Sat, 12 Sept 2026
-- It'll Do, Dallas/Fort Worth · Sat, 29 Aug 2026
-- Beach House San Diego, San Diego · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Paradoks, Corren Cavini, Claptone
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

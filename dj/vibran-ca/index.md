@@ -1,6 +1,6 @@
 # VIBRAN
 
-VIBRAN is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+VIBRAN is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
 
 VIBRAN is a house and disco artist based in Canada, with 30 gigs on soundcheck across Montreal. Often billed alongside Jino K, Deneb and MilSif. Next up: Le Sainte-Catherine Hall, Montreal on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ VIBRAN is a house and disco artist based in Canada, with 30 gigs on soundcheck a
 
 Jino K, Deneb, MilSif
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibran-ca/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vibran-ca/)*

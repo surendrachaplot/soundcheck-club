@@ -1,6 +1,6 @@
 # Under Black Helmet
 
-Under Black Helmet is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+Under Black Helmet is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
 
 Under Black Helmet is a techno and industrial artist, with 64 gigs on soundcheck across Athens, Berlin, Brussels and Buenos Aires and 15 more. Often billed alongside Valdagger, Illnurse and Mirror Slave. Next up: Elastica, Vilnius on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Under Black Helmet is a techno and industrial artist, with 64 gigs on soundcheck
 
 Valdagger, Illnurse, Mirror Slave
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underblackhelmet/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/underblackhelmet/)*

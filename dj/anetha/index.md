@@ -1,6 +1,6 @@
 # Anetha
 
-Anetha is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
+Anetha is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
 
 Anetha is a techno and house artist based in France, with 244 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 76 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Club Cultural Lima, Peru on Fri 30 Oct.
 
@@ -23,6 +23,7 @@ Anetha is a techno and house artist based in France, with 244 gigs on soundcheck
 
 ## Recently played
 
+- Club Cultural Lima, Peru · Fri, 30 Oct 2026
 - RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
@@ -30,10 +31,9 @@ Anetha is a techno and house artist based in France, with 244 gigs on soundcheck
 - Hï Ibiza, Ibiza · Sun, 4 Oct 2026
 - Nitsa Club, Barcelona · Sat, 3 Oct 2026
 - Smolna, Warsaw · Fri, 2 Oct 2026
-- Labattoir, Thessaloniki · Wed, 16 Sept 2026
 
 ## Shares bills with
 
 Mac Declos, SPFDJ, DJ Gigola
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

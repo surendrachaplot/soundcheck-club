@@ -1,6 +1,6 @@
 # Andrew Rayel
 
-Andrew Rayel is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Andrew Rayel is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
 
 Andrew Rayel is a trance and techno artist based in Moldova, with 31 gigs on soundcheck across Amsterdam, Austin, Dallas/Fort Worth and Denver and 19 more. Often billed alongside Alesso, Armin van Buuren and Bart Skils. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Andrew Rayel is a trance and techno artist based in Moldova, with 31 gigs on sou
 
 ## Recently played
 
+- Edmonton Expo Center, Edmonton · Fri, 30 Oct 2026
 - Amsterdam Central Station, Amsterdam · Fri, 23 Oct 2026
 - Tunnel, Milan · Sat, 3 Oct 2026
 - Epic Prague, Prague · Sat, 19 Sept 2026
@@ -20,10 +21,9 @@ Andrew Rayel is a trance and techno artist based in Moldova, with 31 gigs on sou
 - Avalon Hollywood, Los Angeles · Sat, 30 May 2026
 - New City Gas, Montreal · Wed, 31 Dec 2025
 - Avalon Hollywood, Los Angeles · Sat, 27 Dec 2025
-- Melbourne Showgrounds, Melbourne · Sun, 30 Nov 2025
 
 ## Shares bills with
 
 Alesso, Armin van Buuren, Bart Skils
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewrayel/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewrayel/)*

@@ -1,14 +1,13 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Loft, Manchester on Fri, 30 Oct 2026.
+Nicolas Lutz is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
 
-Nicolas Lutz is a techno and house artist based in Uruguay, with 186 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: The Loft, Manchester on Fri 30 Oct.
+Nicolas Lutz is a techno and house artist based in Uruguay, with 186 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | The Loft | Manchester |
 | Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Sat, 7 Nov 2026 | essaim | Paris |
 | Fri, 13 Nov 2026 | DURO | Milan |
@@ -20,9 +19,11 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 186 gigs on sou
 | Sat, 19 Dec 2026 | Phonox | London |
 | Thu, 31 Dec 2026 | TBA - IYKYK  | Los Angeles |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- The Loft, Manchester · Fri, 30 Oct 2026
 - Garage Noord, Amsterdam · Sun, 25 Oct 2026
 - Pllek, Amsterdam · Sun, 25 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
@@ -30,10 +31,9 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 186 gigs on sou
 - Hertz, Seoul · Thu, 8 Oct 2026
 - FOLD, London · Sat, 3 Oct 2026
 - THE MAGICK BAR, Rome · Sat, 26 Sept 2026
-- Karmakoma, Belgrade · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

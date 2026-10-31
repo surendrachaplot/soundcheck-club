@@ -1,14 +1,13 @@
 # Palais Brongniart
 
-Palais Brongniart is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Monstres & Merveilles" on Fri, 30 Oct 2026.
+Palais Brongniart is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Babylon Halloween 2026: Marten Lou au Palais Brongniart" on Sat, 31 Oct 2026.
 
-Palais Brongniart is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Marten Lou. See dates, start times and who's playing.
+Palais Brongniart is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Marten Lou. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Monstres & Merveilles |  |
 | Sat, 31 Oct 2026 | Babylon Halloween 2026: Marten Lou au Palais Brongniart | Marten Lou |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/palais-brongniart/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/palais-brongniart/)*

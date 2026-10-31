@@ -1,14 +1,13 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Collect w/ Vitor Batista" on Fri, 30 Oct 2026.
+Collect LX Factory is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "XDB Residency" on Sat, 31 Oct 2026.
 
-Collect LX Factory is a music venue in Lisbon listed on soundcheck. 7 upcoming gigs, with line-ups including 2jack4u, Amulador, Bobby Dreams and C3D-E and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
+Collect LX Factory is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including 2jack4u, Amulador, Bobby Dreams and C3D-E and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Collect w/ Vitor Batista | Vitor Batista |
 | Sat, 31 Oct 2026 | XDB Residency | XDB |
 | Fri, 13 Nov 2026 | All Nice Records #2 | Bobby Dreams, NSX3000, Trol2000 |
 | Sat, 14 Nov 2026 | Collect LX Factory presents Dorisburg (live) | Amulador, Dorisburg, Elless & Benn |
@@ -20,4 +19,4 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 7 upcoming g
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

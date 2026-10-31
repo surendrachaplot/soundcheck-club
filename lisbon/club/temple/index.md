@@ -1,6 +1,6 @@
 # TEMPLE
 
-TEMPLE is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Common Ground" on Fri, 6 Nov 2026.
+TEMPLE is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Common Ground" on Fri, 6 Nov 2026.
 
 TEMPLE is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including David J Newton, Oscar Rosmano and Pete K. See dates, start times and who's playing. Pátio do Pinzaleiro 26, 1200-869 Lisboa.
 
@@ -15,4 +15,4 @@ TEMPLE is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with li
 
 Pátio do Pinzaleiro 26, 1200-869 Lisboa, Lisbon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/temple/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/temple/)*

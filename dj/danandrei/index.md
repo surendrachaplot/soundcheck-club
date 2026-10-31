@@ -1,6 +1,6 @@
 # Dan Andrei
 
-Dan Andrei is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
+Dan Andrei is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
 
 Dan Andrei is a house and minimal artist based in Romania, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 32 more. Often billed alongside Cap, Rhadoo and Sonja Moonear. Next up: TBA - East London Location TBA, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Dan Andrei is a house and minimal artist based in Romania, with 125 gigs on soun
 
 Cap, Rhadoo, Sonja Moonear
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danandrei/)*

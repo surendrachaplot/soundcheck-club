@@ -1,6 +1,6 @@
 # DJ Winggold
 
-DJ Winggold is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 14 Nov 2026.
+DJ Winggold is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 14 Nov 2026.
 
 DJ Winggold is a techno and house artist based in United Kingdom, with 33 gigs on soundcheck across Bristol, Lisbon, Liverpool and London. Often billed alongside NIKS, THEMPRESS and 1000raks. Next up: TBA - Secret North London Location, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ Winggold is a techno and house artist based in United Kingdom, with 33 gigs o
 
 NIKS, THEMPRESS, 1000raks
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwinggold/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djwinggold/)*

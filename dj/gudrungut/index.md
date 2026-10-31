@@ -1,6 +1,6 @@
 # Gudrun Gut
 
-Gudrun Gut is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
+Gudrun Gut is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Berlin on Fri, 22 Jan 2027.
 
 Gudrun Gut is a club and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Kabeaushé, Modeselektor and 96 Back. Next up: TBA, Berlin on Fri 22 Jan.
 
@@ -21,4 +21,4 @@ Gudrun Gut is a club and techno artist based in Germany, with 5 gigs on soundche
 
 Kabeaushé, Modeselektor, 96 Back
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gudrungut/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gudrungut/)*

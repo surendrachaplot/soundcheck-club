@@ -1,6 +1,6 @@
 # Hermes Disco Eterno
 
-Hermes Disco Eterno is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Slow Club, Barcelona on Thu, 12 Nov 2026.
+Hermes Disco Eterno is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Slow Club, Barcelona on Thu, 12 Nov 2026.
 
 Hermes Disco Eterno is a house and progressive house artist, with 60 gigs on soundcheck across Barcelona. Often billed alongside Icey, D.T.H. and Navider. Next up: Slow Club, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Hermes Disco Eterno is a house and progressive house artist, with 60 gigs on sou
 
 Icey, D.T.H., Navider
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermesdiscoeterno/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hermesdiscoeterno/)*

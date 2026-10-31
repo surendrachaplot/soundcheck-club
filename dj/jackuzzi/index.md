@@ -1,6 +1,6 @@
 # JACKUZZI
 
-JACKUZZI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri, 13 Nov 2026.
+JACKUZZI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri, 13 Nov 2026.
 
 JACKUZZI is a house and techno artist based in Belgium, with 12 gigs on soundcheck across Antwerp, Brussels, Ghent and London. Often billed alongside Lucimille, Jana Joanna and Bapow. Next up: TBA - Pelgrimstraat 15, 2000 Antwerpen. , Antwerp on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ JACKUZZI is a house and techno artist based in Belgium, with 12 gigs on soundche
 
 Lucimille, Jana Joanna, Bapow
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackuzzi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackuzzi/)*

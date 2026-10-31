@@ -1,6 +1,6 @@
 # Andres Gil
 
-Andres Gil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sonorama, Medellin on Sun, 1 Nov 2026.
+Andres Gil is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sonorama, Medellin on Sun, 1 Nov 2026.
 
 Andres Gil is a techno and house artist, with 61 gigs on soundcheck across Buenos Aires and Medellin. Often billed alongside Vannesa Gnz, Deraout and GHERAN. Next up: Sonorama, Medellin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Andres Gil is a techno and house artist, with 61 gigs on soundcheck across Bueno
 
 Vannesa Gnz, Deraout, GHERAN
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andresgil/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andresgil/)*

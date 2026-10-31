@@ -1,6 +1,6 @@
 # Azalea the Witch
 
-Azalea the Witch is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Ontario on Sun, 5 Sept 2027.
+Azalea the Witch is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Ontario on Sun, 5 Sept 2027.
 
 Azalea the Witch is a drum & bass and hardcore artist based in Canada, with 8 gigs on soundcheck across Ontario and Toronto. Often billed alongside 'PAVV', Audi Étoffe and Psyberix. Next up: TBA, Ontario on Sun 5 Sept.
 
@@ -24,4 +24,4 @@ Azalea the Witch is a drum & bass and hardcore artist based in Canada, with 8 gi
 
 'PAVV', Audi Étoffe, Psyberix
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleathewitch/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azaleathewitch/)*

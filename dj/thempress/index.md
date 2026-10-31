@@ -1,6 +1,6 @@
 # THEMPRESS
 
-THEMPRESS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Algha's Plantroom, London on Sat, 31 Oct 2026.
+THEMPRESS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Algha's Plantroom, London on Sat, 31 Oct 2026.
 
 THEMPRESS is a techno and bass artist based in United Kingdom, with 99 gigs on soundcheck across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside CHEZA LUCINA, Michelle Manetti and Princess Xixi. Next up: Algha's Plantroom, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ THEMPRESS is a techno and bass artist based in United Kingdom, with 99 gigs on s
 
 CHEZA LUCINA, Michelle Manetti, Princess Xixi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thempress/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thempress/)*

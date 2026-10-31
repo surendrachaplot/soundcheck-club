@@ -1,6 +1,6 @@
 # mintwhisper
 
-mintwhisper is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Village Ballroom, Portland on Sat, 31 Oct 2026.
+mintwhisper is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Village Ballroom, Portland on Sat, 31 Oct 2026.
 
 mintwhisper is a deep house and house artist based in United States of America, with 13 gigs on soundcheck across Portland, San Diego and Seattle. Often billed alongside Luum, Batom and Feu du Camp. Next up: The Village Ballroom, Portland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ mintwhisper is a deep house and house artist based in United States of America, 
 
 Luum, Batom, Feu du Camp
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mintwhisper/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mintwhisper/)*

@@ -1,6 +1,6 @@
 # Alfonsvs
 
-Alfonsvs is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
+Alfonsvs is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
 
 Alfonsvs is a house and techno artist based in Portugal, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Adriana Ruas, Luís Afonso and Nuno Carneiro. Next up: Oneonefive., Porto on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Alfonsvs is a house and techno artist based in Portugal, with 69 gigs on soundch
 
 Adriana Ruas, Luís Afonso, Nuno Carneiro
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsvs/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsvs/)*

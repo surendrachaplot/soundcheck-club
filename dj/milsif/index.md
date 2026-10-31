@@ -1,6 +1,6 @@
 # MilSif
 
-MilSif is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vino Disco, Montreal on Fri, 27 Nov 2026.
+MilSif is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Vino Disco, Montreal on Fri, 27 Nov 2026.
 
 MilSif is a house and disco artist based in Canada, with 10 gigs on soundcheck across Montreal. Often billed alongside VIBRAN, Colmee and DUZA. Next up: Vino Disco, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ MilSif is a house and disco artist based in Canada, with 10 gigs on soundcheck a
 
 VIBRAN, Colmee, DUZA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milsif/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milsif/)*

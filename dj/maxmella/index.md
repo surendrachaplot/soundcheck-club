@@ -1,6 +1,6 @@
 # Max Mella
 
-Max Mella is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 3 Nov 2026.
+Max Mella is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Süss War Gestern, Berlin on Tue, 3 Nov 2026.
 
 Max Mella is a house and disco artist, with 10 gigs on soundcheck across Berlin and London. Often billed alongside Do you know Juno, Crimson Lake and Will C. Next up: Süss War Gestern, Berlin on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Max Mella is a house and disco artist, with 10 gigs on soundcheck across Berlin 
 
 Do you know Juno, Crimson Lake, Will C
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmella/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxmella/)*

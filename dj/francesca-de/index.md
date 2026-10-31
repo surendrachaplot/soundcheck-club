@@ -1,6 +1,6 @@
 # francesca (DE)
 
-francesca (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+francesca (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
 francesca (DE) is a house and techno artist based in Germany, with 20 gigs on soundcheck across Berlin, Hamburg and Munich. Often billed alongside Maria Theresia von Eberg, 2 Girls 1 Club and Apolonia. Next up: Kater, Berlin on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ francesca (DE) is a house and techno artist based in Germany, with 20 gigs on so
 
 ## Recently played
 
+- Kater, Berlin · Fri, 30 Oct 2026
 - TBA - near Rathaus Neukölln-Location Details via IG @kornsportrecords, Berlin · Fri, 16 Oct 2026
 - Mellowpark, Berlin · Sat, 26 Sept 2026
 - Mellowpark, Berlin · Sat, 12 Sept 2026
@@ -19,10 +20,9 @@ francesca (DE) is a house and techno artist based in Germany, with 20 gigs on so
 - ://about blank, Berlin · Sun, 18 Jan 2026
 - Beate Uwe, Berlin · Sat, 20 Dec 2025
 - Bahnwärter Thiel, Munich · Sat, 25 Oct 2025
-- Kater, Berlin · Sat, 3 May 2025
 
 ## Shares bills with
 
 Maria Theresia von Eberg, 2 Girls 1 Club, Apolonia
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca-de/)*

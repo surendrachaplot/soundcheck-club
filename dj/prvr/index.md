@@ -1,6 +1,6 @@
 # PRVR
 
-PRVR is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Noce KRK, Krakow on Fri, 27 Nov 2026.
+PRVR is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Noce KRK, Krakow on Fri, 27 Nov 2026.
 
 PRVR is a techno and industrial artist based in Poland, with 26 gigs on soundcheck across Krakow. Often billed alongside MRV, RAJZ and Pyotrek. Next up: Noce KRK, Krakow on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ PRVR is a techno and industrial artist based in Poland, with 26 gigs on soundche
 
 MRV (1), RAJZ, Pyotrek
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prvr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prvr/)*

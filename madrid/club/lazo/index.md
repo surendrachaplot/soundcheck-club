@@ -1,6 +1,6 @@
 # Lazo
 
-Lazo is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Coordenada Sonora ↂ1" on Thu, 5 Nov 2026.
+Lazo is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Coordenada Sonora ↂ1" on Thu, 5 Nov 2026.
 
 Lazo is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Truglut. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Lazo is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Coordenada Sonora ↂ1 | Truglut |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lazo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lazo/)*

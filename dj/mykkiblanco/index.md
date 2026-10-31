@@ -1,6 +1,6 @@
 # Mykki Blanco
 
-Mykki Blanco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Headrow House, Leeds on Wed, 4 Nov 2026.
+Mykki Blanco is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Headrow House, Leeds on Wed, 4 Nov 2026.
 
 Mykki Blanco is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Basel, Berlin, Bristol and Brussels and 16 more. Often billed alongside COBRAH, Olof Dreijer and 2ManyDJs. Next up: Headrow House, Leeds on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Mykki Blanco is a house and techno artist based in United States of America, wit
 
 COBRAH, Olof Dreijer, 2ManyDJs
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mykkiblanco/)*

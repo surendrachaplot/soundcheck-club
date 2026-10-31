@@ -1,6 +1,6 @@
 # Minimale Fatale
 
-Minimale Fatale is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
+Minimale Fatale is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
 
 Minimale Fatale is a techno and house artist based in Australia, with 29 gigs on soundcheck across Adelaide, Bali, Bangkok and Melbourne and 2 more. Often billed alongside Floss Dogg, Luqman and RAMSEY (AU). Next up: TBA, Melbourne on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Minimale Fatale is a techno and house artist based in Australia, with 29 gigs on
 
 ## Recently played
 
+- TBA, Melbourne · Fri, 30 Oct 2026
 - Shop Bao Ngoc, Melbourne · Fri, 10 Jul 2026
 - Angel Music Bar, Melbourne · Sat, 7 Mar 2026
 - Misfits, Melbourne · Sat, 7 Feb 2026
@@ -20,10 +21,9 @@ Minimale Fatale is a techno and house artist based in Australia, with 29 gigs on
 - Northcote Theatre, Melbourne · Fri, 5 Dec 2025
 - Dr Morse, Melbourne · Sat, 27 Sept 2025
 - Solace, Melbourne · Sat, 30 Aug 2025
-- Whitehart Bar, Melbourne · Sat, 2 Aug 2025
 
 ## Shares bills with
 
 Floss Dogg, Luqman, RAMSEY (AU)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minimalefatale/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/minimalefatale/)*

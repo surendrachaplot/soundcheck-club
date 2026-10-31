@@ -1,6 +1,6 @@
 # RIKHTER
 
-RIKHTER is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Yalta Club, Sofia on Sat, 31 Oct 2026.
+RIKHTER is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Yalta Club, Sofia on Sat, 31 Oct 2026.
 
 RIKHTER is a techno and industrial artist based in Spain, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Somewhen, Kobosil and In Verruf. Next up: Yalta Club, Sofia on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ RIKHTER is a techno and industrial artist based in Spain, with 176 gigs on sound
 
 Somewhen, Kobosil, In Verruf
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rikhter/)*

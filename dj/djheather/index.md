@@ -1,6 +1,6 @@
 # DJ Heather
 
-DJ Heather is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+DJ Heather is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
 
 DJ Heather is a house and deep house artist based in United States of America, with 145 gigs on soundcheck across Austin, Chicago, Cleveland and Dallas/Fort Worth and 13 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
 
@@ -17,6 +17,7 @@ DJ Heather is a house and deep house artist based in United States of America, w
 
 ## Recently played
 
+- Wamu Theatre, Seattle · Fri, 30 Oct 2026
 - Blue Leopard Lounge, Chicago · Sat, 24 Oct 2026
 - smartbar, Chicago · Fri, 23 Oct 2026
 - Wiggle Room, Toronto · Sat, 17 Oct 2026
@@ -24,10 +25,9 @@ DJ Heather is a house and deep house artist based in United States of America, w
 - Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
 - Le Nocturne, Chicago · Sun, 27 Sept 2026
 - Navy Pier, Chicago · Sat, 26 Sept 2026
-- Masada, Chicago · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 DJ Colette, Derrick Carter, Mark Farina
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*

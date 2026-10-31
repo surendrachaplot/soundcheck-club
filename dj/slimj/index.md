@@ -1,6 +1,6 @@
 # SLIM J
 
-SLIM J is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Carmo Rooftop, Lisbon on Sun, 29 Nov 2026.
+SLIM J is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Carmo Rooftop, Lisbon on Sun, 29 Nov 2026.
 
 SLIM J is a house and techno artist based in Portugal, with 41 gigs on soundcheck across Brussels, Lisbon, London and Vancouver. Often billed alongside Rui Alves, Octo and AVRY. Next up: Carmo Rooftop, Lisbon on Sun 29 Nov.
 
@@ -27,4 +27,4 @@ SLIM J is a house and techno artist based in Portugal, with 41 gigs on soundchec
 
 Rui Alves, Octo, AVRY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimj/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slimj/)*

@@ -1,14 +1,13 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN BOOM! by Susanne Bartsch" on Fri, 30 Oct 2026.
+Le Bain is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLOWEEN Le Bain + Boom" on Sat, 31 Oct 2026.
 
-Le Bain is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including ali rq, Amber Valentine, boyyyish and DREAMINSLOW and 2 more. See dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
+Le Bain is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including ali rq, DREAMINSLOW, Francois K and Fundido and 2 more. See dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | HALLOWEEN BOOM! by Susanne Bartsch | Amber Valentine, Robyn DaBank, W. Jeremy, boyyyish |
 | Sat, 31 Oct 2026 | HALLOWEEN Le Bain + Boom | Fundido, Harim, INJI, Mike Guimond, Nick León, Orson.NYC, ali rq |
 | Sun, 1 Nov 2026 | WORLD OF ECHOES by François K | Francois K |
 | Fri, 6 Nov 2026 | Rich Medina All Night | Rich Medina |
@@ -19,4 +18,4 @@ Le Bain is a music venue in New York City listed on soundcheck. 6 upcoming gigs,
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

@@ -1,6 +1,6 @@
 # jord.n
 
-jord.n is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Headrow House, Leeds on Tue, 10 Nov 2026.
+jord.n is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Headrow House, Leeds on Tue, 10 Nov 2026.
 
 jord.n is a house and garage artist, with 13 gigs on soundcheck across Leeds, London and Sheffield. Often billed alongside Jordan Diston, Alexandria and Binyamhn. Next up: Headrow House, Leeds on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ jord.n is a house and garage artist, with 13 gigs on soundcheck across Leeds, Lo
 
 Jordan Diston, Alexandria, Binyamhn
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jord.n/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jord.n/)*

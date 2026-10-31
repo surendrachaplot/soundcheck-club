@@ -1,6 +1,6 @@
 # AleBCostantino
 
-AleBCostantino is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Union Tavern, Boston on Sat, 31 Oct 2026.
+AleBCostantino is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Union Tavern, Boston on Sat, 31 Oct 2026.
 
 AleBCostantino is a house and progressive house artist based in Argentina, with 24 gigs on soundcheck across Boston and New York City. Often billed alongside ViV:On, FRANZIV and 1R.fm. Next up: Union Tavern, Boston on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ AleBCostantino is a house and progressive house artist based in Argentina, with 
 
 ViV:On, FRANZIV, 1R.fm
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alebcostantino/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alebcostantino/)*

@@ -1,14 +1,13 @@
 # Indiego Glocksee
 
-Indiego Glocksee is a music venue in Hannover with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "unceen x Cardio im Club with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks" on Fri, 30 Oct 2026.
+Indiego Glocksee is a music venue in Hannover with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Trancecore Berlin with GIØ, Antonym, Amøn feat. Fronsi, VIVUS and FEROTONINO" on Sat, 7 Nov 2026.
 
-Indiego Glocksee is a music venue in Hannover listed on soundcheck. 5 upcoming gigs, with line-ups including Alpha Tracks, Amøn, Antonym and BNZN and 2 more. See dates, start times and who's playing. Glockseestr.35; 30169 Hannover; Germany.
+Indiego Glocksee is a music venue in Hannover listed on soundcheck. 4 upcoming gigs, with line-ups including Amøn, Antonym, BNZN and Cari Lekebusch and 2 more. See dates, start times and who's playing. Glockseestr.35; 30169 Hannover; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | unceen x Cardio im Club with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks | Alpha Tracks, Byron Yeates, DJ AYA, Jetski., Luechow, Maruwa, mauli |
 | Sat, 7 Nov 2026 | Trancecore Berlin with GIØ, Antonym, Amøn feat. Fronsi, VIVUS and FEROTONINO | Amøn, Antonym, FEROTONINO, Fronsi, GIØ (1), VIVUS |
 | Sat, 14 Nov 2026 | 3YRS - RAUH IM INDIEGO | Cari Lekebusch, Cryptofauna, HAL, Perm, Session Restore |
 | Sat, 12 Dec 2026 | MILLIAMPERE with Niotech, DJ Tallboy and YËDM | DJ Tallboy, Niotech, YËDM |
@@ -18,4 +17,4 @@ Indiego Glocksee is a music venue in Hannover listed on soundcheck. 5 upcoming g
 
 Glockseestr.35; 30169 Hannover; Germany, Hannover
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*

@@ -1,6 +1,6 @@
 # Didier Dlb
 
-Didier Dlb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+Didier Dlb is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 Didier Dlb is a house and techno artist based in Germany, with 20 gigs on soundcheck across Berlin, Lisbon and Münster. Often billed alongside Neco, Bee Lincoln and Coco. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Didier Dlb is a house and techno artist based in Germany, with 20 gigs on soundc
 
 Neco, Bee Lincoln, Coco
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didierdlb/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didierdlb/)*

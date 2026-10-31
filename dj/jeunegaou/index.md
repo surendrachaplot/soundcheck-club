@@ -1,6 +1,6 @@
 # Jeune Gaou
 
-Jeune Gaou is a Dembow and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
+Jeune Gaou is a Dembow and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
 
 Jeune Gaou is a dembow and club artist based in France, with 14 gigs on soundcheck across Paris. Often billed alongside BJF, Scarlett (ohgodscarlett) and Tim Karbon. Next up: La Java, Paris on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Jeune Gaou is a dembow and club artist based in France, with 14 gigs on soundche
 
 BJF, Scarlett (ohgodscarlett), Tim Karbon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeunegaou/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeunegaou/)*

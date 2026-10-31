@@ -1,20 +1,20 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 30 Oct 2026.
+Timnah is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
-Timnah is a techno and ambient artist based in Switzerland, with 56 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 30 Oct.
+Timnah is a techno and ambient artist based in Switzerland, with 56 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 15 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 | Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 30 Oct 2026
 - Nordstern, Basel · Sat, 17 Oct 2026
 - Zentralwäscherei, Zurich · Sat, 10 Oct 2026
 - Gaffe, London · Fri, 18 Sept 2026
@@ -22,10 +22,9 @@ Timnah is a techno and ambient artist based in Switzerland, with 56 gigs on soun
 - LAUT, Barcelona · Sat, 5 Sept 2026
 - Nowadays, New York City · Sat, 1 Aug 2026
 - TBA - Sarthe, Paris · Fri, 24 Jul 2026
-- Marble Bar, Detroit · Fri, 22 May 2026
 
 ## Shares bills with
 
 Agonis, Garçon, Patrick Russell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/timnahsommerfeldt/)*

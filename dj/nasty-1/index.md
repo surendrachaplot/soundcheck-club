@@ -1,6 +1,6 @@
 # nasty (1)
 
-nasty (1) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
+nasty (1) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at CHICO, Mexico City on Sat, 14 Nov 2026.
 
 nasty is a house and electronica artist based in Germany, with 18 gigs on soundcheck across Berlin, Hamburg, Mexico City and Paris and 1 more. Often billed alongside BBetriebswirt, EUROBABES and Ecke & Hugo. Next up: CHICO, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ nasty is a house and electronica artist based in Germany, with 18 gigs on soundc
 
 BBetriebswirt, EUROBABES, Ecke & Hugo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nasty-1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nasty-1/)*

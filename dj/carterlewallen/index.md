@@ -1,6 +1,6 @@
 # Carter Lewallen
 
-Carter Lewallen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 26 Nov 2026.
+Carter Lewallen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Cheetah Club, Glasgow on Thu, 26 Nov 2026.
 
 Carter Lewallen is a techno and house artist, with 15 gigs on soundcheck across Brighton, Glasgow and London. Often billed alongside Arlo Duke, HALFPINT and By. Jansz. Next up: La Cheetah Club, Glasgow on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Carter Lewallen is a techno and house artist, with 15 gigs on soundcheck across 
 
 Arlo Duke, HALFPINT, By. Jansz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carterlewallen/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carterlewallen/)*

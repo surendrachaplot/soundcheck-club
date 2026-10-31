@@ -1,6 +1,6 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 14 Nov 2026.
+mad miran is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 14 Nov 2026.
 
 mad miran is a techno and bass artist based in Netherlands, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ mad miran is a techno and bass artist based in Netherlands, with 226 gigs on sou
 
 Identified Patient, Pariah, DjRUM
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*

@@ -1,6 +1,6 @@
 # B.UNQ!
 
-B.UNQ! is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at City Hall, Barcelona on Sat, 14 Nov 2026.
+B.UNQ! is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at City Hall, Barcelona on Sat, 14 Nov 2026.
 
 B.UNQ! is a techno and gabber artist based in Czech Republic, with 10 gigs on soundcheck across Barcelona, Berlin, London and Toulouse and 1 more. Often billed alongside B.UNQ, DIL KASHMIR and Mat Weasel Busters. Next up: City Hall, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ B.UNQ! is a techno and gabber artist based in Czech Republic, with 10 gigs on so
 
 B.UNQ, DIL KASHMIR, Mat Weasel Busters
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.unq!/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b.unq!/)*

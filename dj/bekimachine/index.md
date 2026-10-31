@@ -1,6 +1,6 @@
 # BEKIMACHINE
 
-BEKIMACHINE is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hackney Bridge, London on Sat, 5 Dec 2026.
+BEKIMACHINE is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Hackney Bridge, London on Sat, 5 Dec 2026.
 
 BEKIMACHINE is a techno and progressive house artist based in United Kingdom, with 12 gigs on soundcheck across Birmingham, Brighton, London and Manchester and 1 more. Often billed alongside Tris (UK), Azur and Jenkaya. Next up: Hackney Bridge, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ BEKIMACHINE is a techno and progressive house artist based in United Kingdom, wi
 
 Tris (UK), Azur, Jenkaya
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekimachine/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bekimachine/)*

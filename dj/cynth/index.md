@@ -1,6 +1,6 @@
 # Cynth
 
-Cynth is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Madrid on Sat, 14 Nov 2026.
+Cynth is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Madrid on Sat, 14 Nov 2026.
 
 Cynth is a techno and minimal techno artist based in Spain, with 34 gigs on soundcheck across Madrid. Often billed alongside Hector MAD, JALA and ADRI.G. Next up: TBA, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Cynth is a techno and minimal techno artist based in Spain, with 34 gigs on soun
 
 Hector MAD, JALA, ADRI.G
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cynth/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cynth/)*

@@ -1,6 +1,6 @@
 # Nazar
 
-Nazar is a Experimental and Kuduro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ormside Projects, London on Fri, 4 Dec 2026.
+Nazar is a Experimental and Kuduro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ormside Projects, London on Fri, 4 Dec 2026.
 
 Nazar is an experimental and kuduro artist based in United Kingdom, with 44 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Bergen and 17 more. Often billed alongside Ikonika, The Bug and gyrofield. Next up: Ormside Projects, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nazar is an experimental and kuduro artist based in United Kingdom, with 44 gigs
 
 Ikonika, The Bug, gyrofield
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nazar/)*

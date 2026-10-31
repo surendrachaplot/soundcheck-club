@@ -1,6 +1,6 @@
 # Erinc
 
-Erinc is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Marquise Club, Paris on Sat, 21 Nov 2026.
+Erinc is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Marquise Club, Paris on Sat, 21 Nov 2026.
 
 Erinc is an afro house and afro tech artist based in United Kingdom, with 3 gigs on soundcheck across London and Paris. Often billed alongside Batuka. Next up: La Marquise Club, Paris on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Erinc is an afro house and afro tech artist based in United Kingdom, with 3 gigs
 
 Batuka
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erinc/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erinc/)*

@@ -1,6 +1,6 @@
 # JANEIN
 
-JANEIN is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Begrüntes Haus, Bangkok on Sat, 31 Oct 2026.
+JANEIN is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Begrüntes Haus, Bangkok on Sat, 31 Oct 2026.
 
 JANEIN is a techno and house artist based in Germany, with 109 gigs on soundcheck across Auckland, Bangkok, Basel and Beijing and 27 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: Begrüntes Haus, Bangkok on Sat 31 Oct.
 
@@ -31,4 +31,4 @@ JANEIN is a techno and house artist based in Germany, with 109 gigs on soundchec
 
 Stigmatique, Shaleen, Anna Hjalmarsson
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*

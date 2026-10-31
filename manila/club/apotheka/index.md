@@ -1,6 +1,6 @@
 # Apotheka
 
-Apotheka is a music venue in Manila with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "We're Just Fiends 2: Murder on The Dancefloor" on Sat, 31 Oct 2026.
+Apotheka is a music venue in Manila with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "We're Just Fiends 2: Murder on The Dancefloor" on Sat, 31 Oct 2026.
 
 Apotheka is a music venue in Manila listed on soundcheck. 6 upcoming gigs, with line-ups including Duality, Kugel and Shaoxing. See dates, start times and who's playing. G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines.
 
@@ -19,4 +19,4 @@ Apotheka is a music venue in Manila listed on soundcheck. 6 upcoming gigs, with 
 
 G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines, Manila
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*

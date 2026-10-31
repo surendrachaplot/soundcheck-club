@@ -1,6 +1,6 @@
 # Taichi Nagayama
 
-Taichi Nagayama is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 2 Nov 2026.
+Taichi Nagayama is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 2 Nov 2026.
 
 Taichi Nagayama is a house and techno artist, with 43 gigs on soundcheck across Tokyo. Often billed alongside MIZUKI OGISU, Masahide Ohno and niwa. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 2 Nov.
 
@@ -27,4 +27,4 @@ Taichi Nagayama is a house and techno artist, with 43 gigs on soundcheck across 
 
 MIZUKI OGISU, Masahide Ohno, niwa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taichinagayama/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taichinagayama/)*

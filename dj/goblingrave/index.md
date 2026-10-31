@@ -1,6 +1,6 @@
 # Goblin Grave
 
-Goblin Grave is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Warehouse, Nantes on Fri, 13 Nov 2026.
+Goblin Grave is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Warehouse, Nantes on Fri, 13 Nov 2026.
 
 Goblin Grave is a techno and gabber artist based in Germany, with 10 gigs on soundcheck across Berlin, Frankfurt, Glasgow and Nantes and 2 more. Often billed alongside INTOX, DJ BenGalo and EAX030. Next up: Warehouse, Nantes on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Goblin Grave is a techno and gabber artist based in Germany, with 10 gigs on sou
 
 INTOX, DJ BenGalo, EAX030
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goblingrave/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goblingrave/)*

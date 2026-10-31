@@ -1,6 +1,6 @@
 # Evie
 
-Evie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Cause, London on Fri, 11 Dec 2026.
+Evie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Cause, London on Fri, 11 Dec 2026.
 
 Evie is a house and tech house artist based in Australia, with 57 gigs on soundcheck across Aberdeen, Amsterdam, Berlin and Edinburgh and 9 more. Often billed alongside Danny Bodega, Mike Who and Ben Fester. Next up: The Cause, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Evie is a house and tech house artist based in Australia, with 57 gigs on soundc
 
 Danny Bodega, Mike Who, Ben Fester
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evie/)*

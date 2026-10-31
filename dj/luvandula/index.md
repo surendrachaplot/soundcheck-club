@@ -1,6 +1,6 @@
 # luvandula
 
-luvandula is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
+luvandula is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
 
 luvandula is an ambient and downtempo artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Bristol, Leeds and London. Often billed alongside teleopath, Aquamarine and Avsluta. Next up: Unit 58, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ luvandula is an ambient and downtempo artist based in United Kingdom, with 14 gi
 
 teleopath, Aquamarine, Avsluta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luvandula/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luvandula/)*

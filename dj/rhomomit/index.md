@@ -1,6 +1,6 @@
 # Rhom Omit
 
-Rhom Omit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
+Rhom Omit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Fri, 30 Oct 2026.
 
 Rhom Omit is a house and techno artist based in Germany, with 44 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 7 more. Often billed alongside Cesare vs Disorder, Weg (DE) and August Artier. Next up: Golden Gate, Berlin on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ Rhom Omit is a house and techno artist based in Germany, with 44 gigs on soundch
 
 ## Recently played
 
+- Golden Gate, Berlin · Fri, 30 Oct 2026
 - Macarena Club, Barcelona · Sat, 10 Oct 2026
 - Bridge 48, Barcelona · Sat, 10 Oct 2026
 - Elsewhere, Bangkok · Sat, 26 Sept 2026
@@ -19,10 +20,9 @@ Rhom Omit is a house and techno artist based in Germany, with 44 gigs on soundch
 - Golden Gate, Berlin · Sat, 15 Aug 2026
 - TBA - Berlin - Secret Location - Neukölln, Berlin · Fri, 7 Aug 2026
 - Secret Forest, Beijing · Fri, 17 Jul 2026
-- Nué Seoul, Seoul · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Cesare vs Disorder, Weg (DE), August Artier
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhomomit/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhomomit/)*

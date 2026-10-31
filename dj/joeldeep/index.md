@@ -1,6 +1,6 @@
 # Joel Deep
 
-Joel Deep is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
+Joel Deep is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Aaja Basement, London on Sat, 31 Oct 2026.
 
 Joel Deep is a dubstep and jungle artist based in Italy, with 10 gigs on soundcheck across London. Often billed alongside Abby Daze, Pressa and Snoozy. Next up: Aaja Basement, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Joel Deep is a dubstep and jungle artist based in Italy, with 10 gigs on soundch
 
 Abby Daze, Pressa, Snoozy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeldeep/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joeldeep/)*

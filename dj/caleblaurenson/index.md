@@ -1,6 +1,6 @@
 # Caleb Laurenson
 
-Caleb Laurenson is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+Caleb Laurenson is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 Caleb Laurenson is a house and garage artist based in United Kingdom, with 3 gigs on soundcheck across Amsterdam, London and Mallorca. Often billed alongside Danny P, Lily C-D and Robbie Doherty. Next up: Shelter Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -16,4 +16,4 @@ Caleb Laurenson is a house and garage artist based in United Kingdom, with 3 gig
 
 Danny P, Lily C-D, Robbie Doherty
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caleblaurenson/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caleblaurenson/)*

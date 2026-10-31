@@ -1,6 +1,6 @@
 # DJ Programma
 
-DJ Programma is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
+DJ Programma is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at fabric, London on Fri, 27 Nov 2026.
 
 DJ Programma is a techno and acid artist, with 28 gigs on soundcheck across London. Often billed alongside limi, Neue Grafik and AUKA. Next up: fabric, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Programma is a techno and acid artist, with 28 gigs on soundcheck across Lond
 
 limi, Neue Grafik, AUKA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djprogramma/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djprogramma/)*

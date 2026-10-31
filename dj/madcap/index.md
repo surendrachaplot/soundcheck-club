@@ -1,6 +1,6 @@
 # Madcap
 
-Madcap is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Brixton Jamm, London on Fri, 13 Nov 2026.
+Madcap is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Brixton Jamm, London on Fri, 13 Nov 2026.
 
 Madcap is a drum & bass and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Antwerp, Bergen and Birmingham and 4 more. Often billed alongside Nookie (UK), Arkyn and Jay Cunning. Next up: Brixton Jamm, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Madcap is a drum & bass and jungle artist based in United Kingdom, with 40 gigs 
 
 Nookie (UK), Arkyn, Jay Cunning
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madcap/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madcap/)*

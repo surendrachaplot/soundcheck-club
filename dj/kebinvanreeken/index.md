@@ -1,6 +1,6 @@
 # Kebin van Reeken
 
-Kebin van Reeken is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Copper Boot, Toronto on Sat, 31 Oct 2026.
+Kebin van Reeken is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Copper Boot, Toronto on Sat, 31 Oct 2026.
 
 Kebin van Reeken is a progressive house and techno artist based in Antigua and Barbuda, with 16 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Chicago and 5 more. Often billed alongside Agustin Ficarra, Nicholas Van Orton and Rauschhaus. Next up: The Copper Boot, Toronto on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Kebin van Reeken is a progressive house and techno artist based in Antigua and B
 
 Agustin Ficarra, Nicholas Van Orton, Rauschhaus
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*

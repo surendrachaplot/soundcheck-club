@@ -1,6 +1,6 @@
 # Dizo
 
-Dizo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 31 Oct 2026.
+Dizo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 31 Oct 2026.
 
 Dizo is a techno and tech house artist based in Belgium, with 37 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent. Often billed alongside Ce$ar, Auk. and Makoveev. Next up: Barrio Cafe, Brussels on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Dizo is a techno and tech house artist based in Belgium, with 37 gigs on soundch
 
 Ce$ar, Auk., Makoveev
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizo/)*

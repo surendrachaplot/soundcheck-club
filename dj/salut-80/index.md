@@ -1,6 +1,6 @@
 # Salut 80
 
-Salut 80 is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at B-SIDE, Warsaw on Sat, 7 Nov 2026.
+Salut 80 is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at B-SIDE, Warsaw on Sat, 7 Nov 2026.
 
 Salut 80 is an italo disco and house artist, with 18 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Verde, Viikatory and Ilya Semashkevich. Next up: B-SIDE, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Salut 80 is an italo disco and house artist, with 18 gigs on soundcheck across K
 
 Verde, Viikatory, Ilya Semashkevich
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salut-80/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salut-80/)*

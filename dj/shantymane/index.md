@@ -1,6 +1,6 @@
 # shanty mane
 
-shanty mane is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at feedbk, New York City on Thu, 5 Nov 2026.
+shanty mane is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at feedbk, New York City on Thu, 5 Nov 2026.
 
 shanty mane is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Detroit, Los Angeles and Mexico City and 5 more. Often billed alongside EREZ.JPG, Willy Gorgon and Jeny Michelle. Next up: feedbk, New York City on Thu 5 Nov.
 
@@ -30,4 +30,4 @@ shanty mane is a house and techno artist based in United States of America, with
 
 EREZ.JPG, Willy Gorgon, Jeny Michelle
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

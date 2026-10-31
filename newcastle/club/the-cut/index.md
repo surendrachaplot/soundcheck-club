@@ -1,6 +1,6 @@
 # The Cut
 
-The Cut is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "DBT.  - Launch Night (Age 23+)" on Fri, 6 Nov 2026.
+The Cut is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "DBT.  - Launch Night (Age 23+)" on Fri, 6 Nov 2026.
 
 The Cut is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs, with line-ups including Danny Jarvis. See dates, start times and who's playing. St Nicolas Street; Newcastle upon tyne; NE1 3BB.
 
@@ -17,4 +17,4 @@ The Cut is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs, wit
 
 St Nicolas Street; Newcastle upon tyne; NE1 3BB, Newcastle
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-cut/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/the-cut/)*

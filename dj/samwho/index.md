@@ -1,6 +1,6 @@
 # SAMWHO
 
-SAMWHO is a Techno and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+SAMWHO is a Techno and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 SAMWHO is a techno and uk funky artist, with 18 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and The Hague. Often billed alongside Ferré, Pino Peña and dirtydms. Next up: SISSI'S Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ SAMWHO is a techno and uk funky artist, with 18 gigs on soundcheck across Amster
 
 Ferré, Pino Peña, dirtydms
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwho/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samwho/)*

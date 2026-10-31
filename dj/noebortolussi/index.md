@@ -1,6 +1,6 @@
 # Noe Bortolussi
 
-Noe Bortolussi is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 31 Oct 2026.
+Noe Bortolussi is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 31 Oct 2026.
 
 Noe Bortolussi is a progressive house and deep house artist, with 19 gigs on soundcheck across Amsterdam, Leipzig, Rotterdam and Vienna. Often billed alongside Fede Frostl, Cris-H and Ean Adamson. Next up: Kadinsky Cafe, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Noe Bortolussi is a progressive house and deep house artist, with 19 gigs on sou
 
 Fede Frostl, Cris-H, Ean Adamson
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noebortolussi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noebortolussi/)*

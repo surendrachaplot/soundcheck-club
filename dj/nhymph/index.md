@@ -1,6 +1,6 @@
 # NHYMPH
 
-NHYMPH is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 26 Nov 2026.
+NHYMPH is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 26 Nov 2026.
 
 NHYMPH is a techno and industrial artist based in Spain, with 53 gigs on soundcheck across Barcelona, Berlin, Hamburg and Lisbon and 1 more. Often billed alongside KØDAK, JAKKÖ and LUNAR. Next up: Les Enfants Brillants, Barcelona on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ NHYMPH is a techno and industrial artist based in Spain, with 53 gigs on soundch
 
 KØDAK, JAKKÖ, LUNAR
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhymph/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nhymph/)*

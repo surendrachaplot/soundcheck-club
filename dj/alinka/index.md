@@ -1,6 +1,6 @@
 # Alinka
 
-Alinka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Printhouse, Munich on Sat, 31 Oct 2026.
+Alinka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Printhouse, Munich on Sat, 31 Oct 2026.
 
 Alinka is a house and techno artist based in Ukraine, with 124 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Printhouse, Munich on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Alinka is a house and techno artist based in Ukraine, with 124 gigs on soundchec
 
 Massimiliano Pagliara, Budino, Sara Miller
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

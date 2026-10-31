@@ -1,6 +1,6 @@
 # Costa (FR)
 
-Costa (FR) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Costa (FR) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
 Costa (FR) is a techno and breakbeat artist based in France, with 24 gigs on soundcheck across Austin, Berlin, Dundee and Hamburg and 3 more. Often billed alongside Sariim, VIĆERO and Chaosy. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ Costa (FR) is a techno and breakbeat artist based in France, with 24 gigs on sou
 
 ## Recently played
 
+- Travis County Exposition Center, Austin · Fri, 30 Oct 2026
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - Helgoländer Allee, Hamburg · Sat, 29 Aug 2026
 - Baalsaal, Hamburg · Sat, 27 Jun 2026
@@ -19,10 +20,9 @@ Costa (FR) is a techno and breakbeat artist based in France, with 24 gigs on sou
 - Goldener Salon, Hamburg · Fri, 19 Jun 2026
 - TBA - Senza Nome Studio , Hamburg · Sat, 28 Mar 2026
 - TBA - OLD FACTORY - Greifswalder Str. 23A, 10405 Berlin, Berlin · Sat, 13 Dec 2025
-- Sala Siroco, Madrid · Thu, 13 Nov 2025
 
 ## Shares bills with
 
 Sariim, VIĆERO, Chaosy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/costa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/costa/)*

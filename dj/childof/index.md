@@ -1,6 +1,6 @@
 # Child Of
 
-Child Of is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pixelated Records, New York City on Sat, 31 Oct 2026.
+Child Of is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Pixelated Records, New York City on Sat, 31 Oct 2026.
 
 Child Of is a house and tech house artist based in United States of America, with 11 gigs on soundcheck across Chicago, Denver and New York City. Often billed alongside LV RSL, BOOTH4NG and Alan Morehouse. Next up: Pixelated Records, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Child Of is a house and tech house artist based in United States of America, wit
 
 LV RSL, BOOTH4NG, Alan Morehouse
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/childof/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/childof/)*

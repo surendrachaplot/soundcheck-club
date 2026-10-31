@@ -1,6 +1,6 @@
 # Centre PHI
 
-Centre PHI is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Ferias + MIMS w. Theo Parrish [Open to Close]" on Fri, 20 Nov 2026.
+Centre PHI is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Ferias + MIMS w. Theo Parrish [Open to Close]" on Fri, 20 Nov 2026.
 
 Centre PHI is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Alina (MTL), Ferias, Guthrie and Lexis (Music Is My Sanctuary) and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Centre PHI is a music venue in Montreal listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Ferias + MIMS w. Theo Parrish [Open to Close] | Alina (MTL), Ferias, Guthrie, Lexis (Music Is My Sanctuary), Theo Parrish |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/centre-phi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/centre-phi/)*

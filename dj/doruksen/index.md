@@ -1,6 +1,6 @@
 # Doruksen
 
-Doruksen is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
+Doruksen is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Tirana, Tirana on Fri, 30 Oct 2026.
 
 Doruksen is a techno and hardcore artist based in Cyprus, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside LESSSS, Raxeller and Cloudy. Next up: TBA - Tirana, Tirana on Fri 30 Oct.
 
@@ -14,6 +14,7 @@ Doruksen is a techno and hardcore artist based in Cyprus, with 119 gigs on sound
 
 ## Recently played
 
+- TBA - Tirana, Tirana · Fri, 30 Oct 2026
 - E1, London · Fri, 16 Oct 2026
 - 74 Hall, Istanbul · Sat, 10 Oct 2026
 - Essigfabrik, Cologne · Fri, 11 Sept 2026
@@ -21,10 +22,9 @@ Doruksen is a techno and hardcore artist based in Cyprus, with 119 gigs on sound
 - Harbour Event Centre, Vancouver · Sat, 8 Aug 2026
 - The Comfort Zone, Toronto · Fri, 7 Aug 2026
 - Luka, Seoul · Sat, 23 May 2026
-- OIL Club, Shenzhen · Fri, 22 May 2026
 
 ## Shares bills with
 
 LESSSS, Raxeller, Cloudy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doruksen/)*

@@ -1,6 +1,6 @@
 # 3DMA
 
-3DMA is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Loco Klub, Bristol on Sat, 31 Oct 2026.
+3DMA is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Loco Klub, Bristol on Sat, 31 Oct 2026.
 
 3DMA is a hardcore and trance artist based in United Kingdom, with 48 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 19 more. Often billed alongside Holly Warcup, alterum and Peggy Viennetta. Next up: The Loco Klub, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@
 
 Holly Warcup, alterum, Peggy Viennetta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3dma/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/3dma/)*

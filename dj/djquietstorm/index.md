@@ -1,6 +1,6 @@
 # DJ Quietstorm
 
-DJ Quietstorm is a Hip-Hop and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Harajuku Quest, Tokyo on Mon, 2 Nov 2026.
+DJ Quietstorm is a Hip-Hop and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Harajuku Quest, Tokyo on Mon, 2 Nov 2026.
 
 DJ Quietstorm is a hip-hop and house artist based in Japan, with 56 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DJ Krush, Jomo and Black Mood. Next up: Harajuku Quest, Tokyo on Mon 2 Nov.
 
@@ -28,4 +28,4 @@ DJ Quietstorm is a hip-hop and house artist based in Japan, with 56 gigs on soun
 
 DJ Krush, Jomo, Black Mood
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djquietstorm/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djquietstorm/)*

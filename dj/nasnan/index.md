@@ -1,6 +1,6 @@
 # nasnan
 
-nasnan is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Beate Uwe, Berlin on Fri, 4 Dec 2026.
+nasnan is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Beate Uwe, Berlin on Fri, 4 Dec 2026.
 
 nasnan is a house and bass artist based in Germany, with 18 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Lisa Thaens, Yanakuna and Monkyman. Next up: Beate Uwe, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ nasnan is a house and bass artist based in Germany, with 18 gigs on soundcheck a
 
 Lisa Thaens, Yanakuna, Monkyman
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nasnan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nasnan/)*

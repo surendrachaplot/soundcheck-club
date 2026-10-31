@@ -1,6 +1,6 @@
 # Emily Makis
 
-Emily Makis is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 19 Dec 2026.
+Emily Makis is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 19 Dec 2026.
 
 Emily Makis is a drum & bass and bass artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 16 more. Often billed alongside Monrroe, Pola & Bryson and Camo & Krooked. Next up: Akvárium Klub, Budapest on Sat 19 Dec.
 
@@ -28,4 +28,4 @@ Emily Makis is a drum & bass and bass artist based in United Kingdom, with 43 gi
 
 Monrroe, Pola & Bryson, Camo & Krooked
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilymakis/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilymakis/)*

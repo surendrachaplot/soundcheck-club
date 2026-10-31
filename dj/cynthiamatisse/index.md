@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
+Cynthia Matisse is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Paloma, Berlin on Sat, 31 Oct 2026.
 
 Cynthia Matisse is a techno and house artist, with 21 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig and 3 more. Often billed alongside Submod, Lydmate and MAY/O. Next up: Paloma, Berlin on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Cynthia Matisse is a techno and house artist, with 21 gigs on soundcheck across 
 
 Submod, Lydmate, MAY/O
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

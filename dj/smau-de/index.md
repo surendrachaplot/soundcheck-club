@@ -1,6 +1,6 @@
 # Smau
 
-Smau is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at frachtkante, Berlin on Sat, 28 Nov 2026.
+Smau is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at frachtkante, Berlin on Sat, 28 Nov 2026.
 
 Smau is a house and funk / soul artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside groovyjuri, Almost Famous and Carl Hang. Next up: frachtkante, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Smau is a house and funk / soul artist based in Germany, with 19 gigs on soundch
 
 groovyjuri, Almost Famous, Carl Hang
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smau-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/smau-de/)*

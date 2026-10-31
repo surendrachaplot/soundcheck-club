@@ -1,6 +1,6 @@
 # Anton Kubikov
 
-Anton Kubikov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Audiofficina - HI-FI Corner, Milan on Sat, 14 Nov 2026.
+Anton Kubikov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Audiofficina - HI-FI Corner, Milan on Sat, 14 Nov 2026.
 
 Anton Kubikov is a techno and house artist based in Russia, with 43 gigs on soundcheck across Bali, Beijing, Berlin and Budapest and 6 more. Often billed alongside Robert Drewek, Daniel Neighbour and Ark3r. Next up: Audiofficina - HI-FI Corner, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Anton Kubikov is a techno and house artist based in Russia, with 43 gigs on soun
 
 Robert Drewek, Daniel Neighbour, Ark3r
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonkubikov/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antonkubikov/)*

@@ -1,6 +1,6 @@
 # MSKI
 
-MSKI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tanztag. Schwerin, Mecklenburg-vorpommern on Sat, 7 Nov 2026.
+MSKI is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Tanztag. Schwerin, Mecklenburg-vorpommern on Sat, 7 Nov 2026.
 
 MSKI is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Frankfurt, Heidelberg and Mecklenburg Vorpommern. Often billed alongside Dawit Asfaha, Disguised and Frederic.. Next up: Tanztag. Schwerin, Mecklenburg Vorpommern on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MSKI is a trance and techno artist based in Germany, with 13 gigs on soundcheck 
 
 Dawit Asfaha, Disguised, Frederic.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mski/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mski/)*

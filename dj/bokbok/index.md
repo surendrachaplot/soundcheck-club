@@ -1,6 +1,6 @@
 # Bok Bok
 
-Bok Bok is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hidden, Manchester on Sat, 31 Oct 2026.
+Bok Bok is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hidden, Manchester on Sat, 31 Oct 2026.
 
 Bok Bok is a club and bass artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 28 more. Often billed alongside Ikonika, Girl Unit and Nico Adomako. Next up: Hidden, Manchester on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bok Bok is a club and bass artist based in United Kingdom, with 88 gigs on sound
 
 Ikonika, Girl Unit, Nico Adomako
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bokbok/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bokbok/)*

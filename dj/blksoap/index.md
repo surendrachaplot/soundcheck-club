@@ -1,6 +1,6 @@
 # blksoap
 
-blksoap is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Airliner, Los Angeles on Sat, 31 Oct 2026.
+blksoap is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Airliner, Los Angeles on Sat, 31 Oct 2026.
 
 blksoap is a house and afro house artist, with 26 gigs on soundcheck across Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Jayvi Velasco, Juliet Mendoza and Mark de Clive-Lowe. Next up: The Airliner, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ blksoap is a house and afro house artist, with 26 gigs on soundcheck across Los 
 
 Jayvi Velasco, Juliet Mendoza, Mark de Clive-Lowe
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blksoap/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blksoap/)*

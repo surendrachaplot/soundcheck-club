@@ -1,6 +1,6 @@
 # Teorema
 
-Teorema is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Goethebunker, Dortmund / Essen on Sat, 31 Oct 2026.
+Teorema is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Goethebunker, Dortmund / Essen on Sat, 31 Oct 2026.
 
 Teorema is a techno artist based in Germany, with 11 gigs on soundcheck across Dortmund / Essen and Düsseldorf. Often billed alongside Guus Christian, Kléo and Legowelt. Next up: Goethebunker, Dortmund / Essen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Teorema is a techno artist based in Germany, with 11 gigs on soundcheck across D
 
 Guus Christian, Kléo, Legowelt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teorema-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teorema-uk/)*

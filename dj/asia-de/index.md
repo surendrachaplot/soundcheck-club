@@ -1,6 +1,6 @@
 # ASIA (DE)
 
-ASIA (DE) is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Omni Space Beijing, Beijing on Sat, 31 Oct 2026.
+ASIA (DE) is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Omni Space Beijing, Beijing on Sat, 31 Oct 2026.
 
 ASIA (DE) is a techno and house artist based in Russia, with 58 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 21 more. Often billed alongside DJ Koolt, NEW YORK and Neik. Next up: Omni Space Beijing, Beijing on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ ASIA (DE) is a techno and house artist based in Russia, with 58 gigs on soundche
 
 DJ Koolt, NEW YORK, Neik
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asia-de/)*

@@ -1,6 +1,6 @@
 # ADMNTi
 
-ADMNTi is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 31 Oct 2026.
+ADMNTi is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 31 Oct 2026.
 
 ADMNTi is a house and tech house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 10 more. Often billed alongside Just Jam, Laidlaw and PACH. Next up: Starlane Pizza Bar, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ ADMNTi is a house and tech house artist based in United Kingdom, with 65 gigs on
 
 Just Jam, Laidlaw, PACH
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/admnti/)*

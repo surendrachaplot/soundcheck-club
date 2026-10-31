@@ -1,6 +1,6 @@
 # Dennis Free
 
-Dennis Free is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
+Dennis Free is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Green Room NYC, New York City on Fri, 30 Oct 2026.
 
 Dennis Free is a house and techno artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, London, Miami and New York City and 2 more. Often billed alongside MESA (DJ), Pedrose and EDEN BEKELE. Next up: Green Room NYC, New York City on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Dennis Free is a house and techno artist based in United States of America, with
 
 ## Recently played
 
+- Green Room NYC, New York City · Fri, 30 Oct 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - House of Yes, New York City · Sat, 5 Sept 2026
 - Signal, New York City · Thu, 6 Aug 2026
@@ -20,10 +21,9 @@ Dennis Free is a house and techno artist based in United States of America, with
 - Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
 - H0L0, New York City · Fri, 22 May 2026
 - Bossa Nova Civic Club, New York City · Sat, 18 Apr 2026
-- Green Room, New York City · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 MESA (DJ), Pedrose, EDEN BEKELE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisfree/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisfree/)*

@@ -1,6 +1,6 @@
 # DJ GayBash!
 
-DJ GayBash! is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Radius, Chicago on Fri, 30 Oct 2026.
+DJ GayBash! is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Radius, Chicago on Fri, 30 Oct 2026.
 
 DJ GayBash! is a techno and club artist based in United States of America, with 18 gigs on soundcheck across Chicago and New York City. Often billed alongside Kirk (US), ASL Princess and Doss. Next up: Radius, Chicago on Fri 30 Oct.
 
@@ -9,21 +9,20 @@ DJ GayBash! is a techno and club artist based in United States of America, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Radius | Chicago |
-| Fri, 30 Oct 2026 | TBA | Chicago |
 
 ## Recently played
 
+- Radius, Chicago · Fri, 30 Oct 2026
+- TBA, Chicago · Fri, 30 Oct 2026
 - Podlasie Club, Chicago · Sat, 24 Oct 2026
 - Decibel, Chicago · Thu, 8 Oct 2026
 - smartbar, Chicago · Fri, 24 Jul 2026
 - Epiphany Center for the Arts, Chicago · Sat, 4 Jul 2026
 - Podlasie Club, Chicago · Thu, 18 Jun 2026
 - Chicago Eagle, Chicago · Sat, 13 Jun 2026
-- The California Clipper, Chicago · Wed, 18 Feb 2026
-- Bossa Nova Civic Club, New York City · Sun, 23 Nov 2025
 
 ## Shares bills with
 
 Kirk (US), ASL Princess, Doss
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgaybash!/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgaybash!/)*

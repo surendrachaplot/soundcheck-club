@@ -1,6 +1,6 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Unmute, Hanoi on Fri, 13 Nov 2026.
+Mari.te is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Unmute, Hanoi on Fri, 13 Nov 2026.
 
 Mari.te is a house and techno artist based in Venezuela, with 172 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 43 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Unmute, Hanoi on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Mari.te is a house and techno artist based in Venezuela, with 172 gigs on soundc
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

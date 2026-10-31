@@ -1,6 +1,6 @@
 # Fox Stevenson
 
-Fox Stevenson is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lee's Palace, Toronto on Thu, 19 Nov 2026.
+Fox Stevenson is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Lee's Palace, Toronto on Thu, 19 Nov 2026.
 
 Fox Stevenson is a drum & bass and bass artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 17 more. Often billed alongside Maduk, Delta Heavy and Hiraeth. Next up: Lee's Palace, Toronto on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Fox Stevenson is a drum & bass and bass artist based in United Kingdom, with 34 
 
 Maduk, Delta Heavy, Hiraeth
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxstevenson/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foxstevenson/)*

@@ -1,6 +1,6 @@
 # Candy Cox
 
-Candy Cox is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
+Candy Cox is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
 Candy Cox is a techno and industrial artist based in Brazil, with 22 gigs on soundcheck across Barcelona, Madrid, Naples and Paris and 1 more. Often billed alongside Nuke, CESAR ALMENA and Dave Clarke. Next up: Fabrik, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Candy Cox is a techno and industrial artist based in Brazil, with 22 gigs on sou
 
 Nuke, CESAR ALMENA, Dave Clarke
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candycox/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/candycox/)*

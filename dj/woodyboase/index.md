@@ -1,6 +1,6 @@
 # Woody Boase
 
-Woody Boase is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at M.O.T, London on Thu, 5 Nov 2026.
+Woody Boase is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at M.O.T, London on Thu, 5 Nov 2026.
 
 Woody Boase is a techno and bass artist based in United Kingdom, with 27 gigs on soundcheck across Brighton, Cardiff, London and Manchester. Often billed alongside Antoin KMA, Jossy Mitsu and Nora (UK). Next up: M.O.T, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Woody Boase is a techno and bass artist based in United Kingdom, with 27 gigs on
 
 Antoin KMA, Jossy Mitsu, Nora (UK)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodyboase/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/woodyboase/)*

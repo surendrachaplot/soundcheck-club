@@ -1,6 +1,6 @@
 # Stefano Andriezzi
 
-Stefano Andriezzi is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
+Stefano Andriezzi is a Electro and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
 
 Stefano Andriezzi is an electro and house artist based in Venezuela, with 60 gigs on soundcheck across Barcelona, Brussels, Buenos Aires and Cologne and 8 more. Often billed alongside Sampol, Brieela and LM. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Stefano Andriezzi is an electro and house artist based in Venezuela, with 60 gig
 
 Sampol, Brieela, LM
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*

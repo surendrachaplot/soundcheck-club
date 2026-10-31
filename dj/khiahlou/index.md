@@ -1,6 +1,6 @@
 # Khiah Lou
 
-Khiah Lou is a Dancehall and Amapiano artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lost & Found Bristol, Bristol on Sat, 31 Oct 2026.
+Khiah Lou is a Dancehall and Amapiano artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lost & Found Bristol, Bristol on Sat, 31 Oct 2026.
 
 Khiah Lou is a dancehall and amapiano artist, with 14 gigs on soundcheck across Bristol. Often billed alongside Anything But Becky, Chiedza and K Stylz. Next up: Lost & Found Bristol, Bristol on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Khiah Lou is a dancehall and amapiano artist, with 14 gigs on soundcheck across 
 
 Anything But Becky, Chiedza, K Stylz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khiahlou/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khiahlou/)*

@@ -1,6 +1,6 @@
 # Kalyma
 
-Kalyma is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Volt Club Milano, Milan on Sat, 7 Nov 2026.
+Kalyma is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Volt Club Milano, Milan on Sat, 7 Nov 2026.
 
 Kalyma is a techno and tech house artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Berlin, Milan and Munich. Often billed alongside AMÉMÉ, DESIREE (RSA) and Guy Gerber. Next up: Volt Club Milano, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kalyma is a techno and tech house artist based in Germany, with 18 gigs on sound
 
 AMÉMÉ, DESIREE (RSA), Guy Gerber
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalyma/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kalyma/)*

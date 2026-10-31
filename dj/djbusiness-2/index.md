@@ -1,6 +1,6 @@
 # DJ Business (2)
 
-DJ Business (2) is a House and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Broncos, Hannover on Sat, 31 Oct 2026.
+DJ Business (2) is a House and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Broncos, Hannover on Sat, 31 Oct 2026.
 
 DJ Business is a house and bass artist based in Germany, with 64 gigs on soundcheck across Basel, Bavaria, Berlin and Cologne and 10 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: Broncos, Hannover on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ DJ Business is a house and bass artist based in Germany, with 64 gigs on soundch
 
 Wall Ra, Carl Hang, Sophti
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*

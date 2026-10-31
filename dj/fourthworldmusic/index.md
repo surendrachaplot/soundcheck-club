@@ -1,18 +1,18 @@
 # Fourth World Music
 
-Fourth World Music is a Latin Bass and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Piękny Pies, Krakow on Fri, 30 Oct 2026.
+Fourth World Music is a Latin Bass and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at underiolo, Warsaw on Sat, 14 Nov 2026.
 
-Fourth World Music is a latin bass and baile funk artist based in Poland, with 39 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside KarateKnur, eylau and Cosaco. Next up: Piękny Pies, Krakow on Fri 30 Oct.
+Fourth World Music is a latin bass and baile funk artist based in Poland, with 39 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside KarateKnur, eylau and Cosaco. Next up: underiolo, Warsaw on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Piękny Pies | Krakow |
 | Sat, 14 Nov 2026 | underiolo | Warsaw |
 
 ## Recently played
 
+- Piękny Pies, Krakow · Fri, 30 Oct 2026
 - Karma Crew Warsaw, Warsaw · Fri, 9 Oct 2026
 - K-Bar Powiśle, Warsaw · Fri, 25 Sept 2026
 - Vizavi (Stara Miłosna), Warsaw · Sat, 22 Aug 2026
@@ -20,10 +20,9 @@ Fourth World Music is a latin bass and baile funk artist based in Poland, with 3
 - Schodki Bar, Warsaw · Fri, 7 Aug 2026
 - BarKa, Warsaw · Wed, 29 Jul 2026
 - TBA - Most Śląsko-Dąbrowski (Praga), Warsaw · Sat, 27 Jun 2026
-- K-Bar Powiśle, Warsaw · Fri, 19 Jun 2026
 
 ## Shares bills with
 
 KarateKnur, eylau, Cosaco
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthworldmusic/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fourthworldmusic/)*

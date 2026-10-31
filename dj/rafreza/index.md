@@ -1,6 +1,6 @@
 # Raf Reza
 
-Raf Reza is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bambi's, Toronto on Fri, 6 Nov 2026.
+Raf Reza is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bambi's, Toronto on Fri, 6 Nov 2026.
 
 Raf Reza is a house and dub artist based in Canada, with 86 gigs on soundcheck across Bristol, Glasgow, London and Manchester and 2 more. Often billed alongside Kaspr, DJ Trustfall and Ragz. Next up: Bambi's, Toronto on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Raf Reza is a house and dub artist based in Canada, with 86 gigs on soundcheck a
 
 Kaspr, DJ Trustfall, Ragz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafreza/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafreza/)*

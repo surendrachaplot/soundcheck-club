@@ -1,6 +1,6 @@
 # Atilla Ural
 
-Atilla Ural is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Manhattan Location, New York City on Sat, 21 Nov 2026.
+Atilla Ural is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Manhattan Location, New York City on Sat, 21 Nov 2026.
 
 Atilla Ural is a house and techno artist based in Turkey, with 42 gigs on soundcheck across Amsterdam, Medellin, New York City and Rio de Janeiro. Often billed alongside Deo'jorge, Anna Collecta and Van Der Laan. Next up: TBA - Secret Manhattan Location, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Atilla Ural is a house and techno artist based in Turkey, with 42 gigs on soundc
 
 Deo'jorge, Anna Collecta, Van Der Laan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atillaural/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atillaural/)*

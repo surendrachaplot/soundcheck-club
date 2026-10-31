@@ -1,6 +1,6 @@
 # Mark Knight
 
-Mark Knight is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bauhaus Vegas, Las-vegas on Sat, 31 Oct 2026.
+Mark Knight is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bauhaus Vegas, Las-vegas on Sat, 31 Oct 2026.
 
 Mark Knight is a house and tech house artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Austin, Barcelona and Chicago and 24 more. Often billed alongside Martin Ikin, Gene Farris and CASSIMM. Next up: Bauhaus Vegas, Las Vegas on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mark Knight is a house and tech house artist based in United Kingdom, with 80 gi
 
 Martin Ikin, Gene Farris, CASSIMM
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markknight/)*

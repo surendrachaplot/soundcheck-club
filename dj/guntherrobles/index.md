@@ -1,6 +1,6 @@
 # Günther Robles
 
-Günther Robles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nobu Za'abeel, Dubai on Fri, 20 Nov 2026.
+Günther Robles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Nobu Za'abeel, Dubai on Fri, 20 Nov 2026.
 
 Günther Robles is a house and tech house artist based in Spain, with 10 gigs on soundcheck across Amsterdam, Barcelona, Dubai and Madrid. Often billed alongside ZEIA, ATMEN and Affani. Next up: Nobu Za'abeel, Dubai on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Günther Robles is a house and tech house artist based in Spain, with 10 gigs on
 
 ZEIA, ATMEN, Affani
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guntherrobles/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/guntherrobles/)*

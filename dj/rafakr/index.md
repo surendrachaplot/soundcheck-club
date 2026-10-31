@@ -1,6 +1,6 @@
 # RAFA (KR)
 
-RAFA (KR) is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cakeshop, Seoul on Fri, 6 Nov 2026.
+RAFA (KR) is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Cakeshop, Seoul on Fri, 6 Nov 2026.
 
 RAFA (KR) is a bass and jungle artist based in South Korea, with 17 gigs on soundcheck across Seoul. Often billed alongside MOONICE, untitled and DJ Co.kr. Next up: Cakeshop, Seoul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ RAFA (KR) is a bass and jungle artist based in South Korea, with 17 gigs on soun
 
 MOONICE, untitled (2), DJ Co.kr
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafakr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rafakr/)*

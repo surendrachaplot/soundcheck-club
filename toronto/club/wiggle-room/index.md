@@ -1,14 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "GET FREAKY HALLOWEEN with FreQ Nasty, Big League Chu & Dave Saddler" on Fri, 30 Oct 2026.
+Wiggle Room is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "WiGGLEWEEN + Afterparty [10pm-7am]" on Sat, 31 Oct 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 16 upcoming gigs, with line-ups including Addy, Anthony Cole, Barroness and Brash-B and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, with line-ups including Addy, Anthony Cole, Barroness and Brash-B and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | GET FREAKY HALLOWEEN with FreQ Nasty, Big League Chu & Dave Saddler | Farbsie Funk, FreQ Nasty, Jay NuFunk, Kid Funky J |
 | Sat, 31 Oct 2026 | WiGGLEWEEN + Afterparty [10pm-7am] | Barroness, Manzone & Strong, Miz Megs, Nour (CAN), TAKiN, Tyler Hill |
 | Sun, 1 Nov 2026 | Sunday SerVice: Manzone & Strong - Addy / 4AM LAST CALL | Addy, Manzone & Strong, Mike Dunn |
 | Fri, 6 Nov 2026 | WR Records: LITTLE BAD ASS [LBA] Release Party |  |
@@ -18,9 +17,10 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 16 upcoming gigs, 
 | Sat, 14 Nov 2026 | Soul Connections: Barroness - GMONEY - Junior Lopez - Paolo | Barroness, Juan Gmoney Jaramillo, Junior Lopez |
 | Sun, 15 Nov 2026 | Sunday SerVice: Kenny Glasgow - Manzone & Strong - 4AM LAST CALL | Barroness, Kenny Glasgow, Manzone & Strong |
 | Fri, 20 Nov 2026 | Change the Beat: Sydney Blu's Birthday Fundraiser | Miz Megs, Natalie Nox, SHERA, Sydney Blu |
+| Sat, 21 Nov 2026 | Animal Instinx: Hector Romero [NYC] | Hector Romero, TAKiN |
 
 ## Address
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

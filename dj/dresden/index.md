@@ -1,6 +1,6 @@
 # Dresden
 
-Dresden is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Dresden is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
 Dresden is a techno and house artist based in Spain, with 25 gigs on soundcheck across Amsterdam, Berlin, Brussels and Bucharest and 11 more. Often billed alongside Ivan Smagghe, Manfredas and Gabrielle Kwarteng. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Dresden is a techno and house artist based in Spain, with 25 gigs on soundcheck 
 
 Ivan Smagghe, Manfredas, Gabrielle Kwarteng
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dresden/)*

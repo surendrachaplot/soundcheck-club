@@ -1,6 +1,6 @@
 # NOCH (2)
 
-NOCH (2) is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 12 Dec 2026.
+NOCH (2) is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 12 Dec 2026.
 
 NOCH is an electro and tech house artist based in France, with 9 gigs on soundcheck across Paris and Tbilisi. Often billed alongside El Hey, Sebizarre and IAMBP. Next up: Cabaret Sauvage, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ NOCH is an electro and tech house artist based in France, with 9 gigs on soundch
 
 El Hey, Sebizarre, IAMBP
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noch-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noch-2/)*

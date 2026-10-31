@@ -1,6 +1,6 @@
 # Boris
 
-Boris is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paragon, New York City on Sat, 31 Oct 2026.
+Boris is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Paragon, New York City on Sat, 31 Oct 2026.
 
 Boris is a techno and house artist based in Germany, with 255 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 71 more. Often billed alongside BASHKKA, Massimiliano Pagliara and Roi Perez. Next up: Paragon, New York City on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Boris is a techno and house artist based in Germany, with 255 gigs on soundcheck
 
 BASHKKA, Massimiliano Pagliara, Roi Perez
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisdj/)*

@@ -1,6 +1,6 @@
 # LOVRA
 
-LOVRA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Wed, 25 Nov 2026.
+LOVRA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at KitKatClub, Berlin on Wed, 25 Nov 2026.
 
 LOVRA is a house and techno artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Austin, Austria and Berlin and 20 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: KitKatClub, Berlin on Wed 25 Nov.
 
@@ -27,4 +27,4 @@ LOVRA is a house and techno artist based in Germany, with 109 gigs on soundcheck
 
 Robin Schulz, DJ Jordan, Felix Kröcher
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovra/)*

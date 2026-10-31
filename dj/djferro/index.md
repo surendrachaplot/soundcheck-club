@@ -1,6 +1,6 @@
 # DJ Ferro
 
-DJ Ferro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+DJ Ferro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 DJ Ferro is a techno and house artist based in Portugal, with 22 gigs on soundcheck across Bologna and Lisbon. Often billed alongside Gear, Lile and Kee_ko. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Ferro is a techno and house artist based in Portugal, with 22 gigs on soundch
 
 Gear, Lile, Kee_ko
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djferro/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djferro/)*

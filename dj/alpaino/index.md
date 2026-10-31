@@ -1,6 +1,6 @@
 # Al Paino
 
-Al Paino is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ekō, Milan on Sat, 31 Oct 2026.
+Al Paino is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ekō, Milan on Sat, 31 Oct 2026.
 
 Al Paino is an electronica and techno artist based in Italy, with 18 gigs on soundcheck across Milan and Rome. Often billed alongside Monica Witty, Giesse and Kara. Next up: ekō, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Al Paino is an electronica and techno artist based in Italy, with 18 gigs on sou
 
 Monica Witty, Giesse, Kara (3)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alpaino/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alpaino/)*

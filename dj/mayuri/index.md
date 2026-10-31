@@ -1,6 +1,6 @@
 # Mayuri
 
-Mayuri is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 14 Nov 2026.
+Mayuri is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 14 Nov 2026.
 
 Mayuri is a techno and house artist based in Japan, with 22 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Q'hey, Takami and Drunken Kong. Next up: THE HAPPY mAN CHEAKS, Tokyo on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Mayuri is a techno and house artist based in Japan, with 22 gigs on soundcheck a
 
 Q'hey, Takami, Drunken Kong
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayuri/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mayuri/)*

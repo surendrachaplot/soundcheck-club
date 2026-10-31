@@ -1,6 +1,6 @@
 # jojogigirl
 
-jojogigirl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bredouille, Berlin on Fri, 6 Nov 2026.
+jojogigirl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bredouille, Berlin on Fri, 6 Nov 2026.
 
 jojogigirl is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nail on the Hat, Nanno and get no. Next up: Bredouille, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ jojogigirl is a techno and house artist based in Germany, with 29 gigs on soundc
 
 Nail on the Hat, Nanno, get no
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojogigirl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jojogigirl/)*

@@ -1,6 +1,6 @@
 # Carlo Karacho
 
-Carlo Karacho is a Breakbeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZIK Zeit ist Knapp, Berlin on Sat, 7 Nov 2026.
+Carlo Karacho is a Breakbeat and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ZIK Zeit ist Knapp, Berlin on Sat, 7 Nov 2026.
 
 Carlo Karacho is a breakbeat and electronica artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 5 more. Often billed alongside SQF2000, 3LNA and BBetriebswirt. Next up: ZIK Zeit ist Knapp, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Carlo Karacho is a breakbeat and electronica artist based in Germany, with 34 gi
 
 SQF2000, 3LNA, BBetriebswirt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokaracho/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokaracho/)*

@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "ClearSound 5th Anniversary" on Mon, 2 Nov 2026.
+Joule is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ClearSound 5th Anniversary" on Mon, 2 Nov 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including _goodbyeforever_, DJ OGAWA, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -18,4 +18,4 @@ Joule is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

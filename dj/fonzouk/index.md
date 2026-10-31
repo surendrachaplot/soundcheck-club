@@ -1,6 +1,6 @@
 # Fonzo (UK)
 
-Fonzo (UK) is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Fonzo (UK) is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
 Fonzo (UK) is a garage and bass artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 10 more. Often billed alongside Yemz, Arthi and Notion. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Fonzo (UK) is a garage and bass artist based in United Kingdom, with 39 gigs on 
 
 Yemz, Arthi, Notion
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonzouk/)*

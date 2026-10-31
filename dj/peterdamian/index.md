@@ -1,6 +1,6 @@
 # PETER DAMIAN
 
-PETER DAMIAN is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Salon Daomé, Montreal on Sat, 21 Nov 2026.
+PETER DAMIAN is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Salon Daomé, Montreal on Sat, 21 Nov 2026.
 
 PETER DAMIAN is a house and deep house artist based in Canada, with 46 gigs on soundcheck across Montreal and Toronto. Often billed alongside Andy Reid, wazzo and Addy. Next up: Salon Daomé, Montreal on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ PETER DAMIAN is a house and deep house artist based in Canada, with 46 gigs on s
 
 Andy Reid, wazzo, Addy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterdamian/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterdamian/)*

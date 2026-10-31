@@ -1,6 +1,6 @@
 # Kim (FR)
 
-Kim (FR) is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Circus Tokyo, Tokyo on Tue, 3 Nov 2026.
+Kim (FR) is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Circus Tokyo, Tokyo on Tue, 3 Nov 2026.
 
 Kim (FR) is a drum & bass and techno artist based in France, with 22 gigs on soundcheck across Berlin, Marseille, Osaka and Paris and 3 more. Often billed alongside SAKO, ANTOM and Altemica. Next up: Circus Tokyo, Tokyo on Tue 3 Nov.
 
@@ -26,4 +26,4 @@ Kim (FR) is a drum & bass and techno artist based in France, with 22 gigs on sou
 
 SAKO, ANTOM, Altemica
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kim-fr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kim-fr/)*

@@ -1,6 +1,6 @@
 # Deer Jade
 
-Deer Jade is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
+Deer Jade is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
 
 Deer Jade is a house and techno artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Adriatique, Ben Böhmer and LP Giobbi. Next up: LA Coralina Island House OF AD Sidera, Panama on Fri 30 Oct.
 
@@ -18,6 +18,7 @@ Deer Jade is a house and techno artist based in Switzerland, with 124 gigs on so
 
 ## Recently played
 
+- LA Coralina Island House OF AD Sidera, Panama · Fri, 30 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Crane Hotel Faralda, Amsterdam · Fri, 23 Oct 2026
 - Cova Santa, Ibiza · Fri, 2 Oct 2026
@@ -25,10 +26,9 @@ Deer Jade is a house and techno artist based in Switzerland, with 124 gigs on so
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
 - Cova Santa, Ibiza · Fri, 11 Sept 2026
 - The Concourse Project, Austin · Sat, 29 Aug 2026
-- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Adriatique, Ben Böhmer, LP Giobbi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*

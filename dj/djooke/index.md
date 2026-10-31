@@ -1,6 +1,6 @@
 # Djooke
 
-Djooke is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 31 Oct 2026.
+Djooke is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 31 Oct 2026.
 
 Djooke is a techno and house artist based in Portugal, with 31 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 5 more. Often billed alongside ANÍBAL, Spacer Woman and ENGALANAN. Next up: NADA Lisbon, Lisbon on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Djooke is a techno and house artist based in Portugal, with 31 gigs on soundchec
 
 ANÍBAL, Spacer Woman, ENGALANAN
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djooke/)*

@@ -1,6 +1,6 @@
 # Grant Dell
 
-Grant Dell is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NOWHERE, Manchester on Sat, 31 Oct 2026.
+Grant Dell is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOWHERE, Manchester on Sat, 31 Oct 2026.
 
 Grant Dell is a house and tech house artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Boston and 12 more. Often billed alongside 3 Minds, Adam Collins and Laurence. Next up: NOWHERE, Manchester on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Grant Dell is a house and tech house artist based in United Kingdom, with 32 gig
 
 3 Minds, Adam Collins, Laurence
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*

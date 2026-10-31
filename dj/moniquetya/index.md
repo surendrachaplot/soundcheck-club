@@ -1,6 +1,6 @@
 # Monique Tya
 
-Monique Tya is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gilpin Park, Melbourne on Fri, 1 Jan 2027.
+Monique Tya is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Gilpin Park, Melbourne on Fri, 1 Jan 2027.
 
 Monique Tya is a bass and techno artist based in Australia, with 15 gigs on soundcheck across Melbourne, New York City and Sydney. Often billed alongside DJ PGZ, Emelyne and Kate Miller. Next up: Gilpin Park, Melbourne on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Monique Tya is a bass and techno artist based in Australia, with 15 gigs on soun
 
 DJ PGZ, Emelyne, Kate Miller
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moniquetya/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moniquetya/)*

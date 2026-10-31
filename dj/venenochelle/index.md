@@ -1,6 +1,6 @@
 # Veneno Chelle
 
-Veneno Chelle is a Neo Perreo and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Los Angeles on Sun, 1 Nov 2026.
+Veneno Chelle is a Neo Perreo and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Los Angeles on Sun, 1 Nov 2026.
 
 Veneno Chelle is a neo perreo and reggaeton artist based in United States of America, with 9 gigs on soundcheck across Los Angeles. Often billed alongside TECH GRL, Chaboi and LOVE. Next up: TBA, Los Angeles on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Veneno Chelle is a neo perreo and reggaeton artist based in United States of Ame
 
 TECH GRL, Chaboi, LOVE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venenochelle/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/venenochelle/)*

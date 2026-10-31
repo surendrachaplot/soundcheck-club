@@ -1,6 +1,6 @@
 # Pōnky
 
-Pōnky is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 31 Oct 2026.
+Pōnky is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 31 Oct 2026.
 
 Pōnky is a techno and house artist based in France, with 51 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 10 more. Often billed alongside FENIM0RE, Caniche and MADMAN. Next up: TBA - Secret Location, Malta on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Pōnky is a techno and house artist based in France, with 51 gigs on soundcheck 
 
 FENIM0RE, Caniche, MADMAN (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ponky/)*

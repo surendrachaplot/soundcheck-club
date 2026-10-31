@@ -1,6 +1,6 @@
 # Franco (1)
 
-Franco (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hackney Bridge, London on Sat, 5 Dec 2026.
+Franco (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Hackney Bridge, London on Sat, 5 Dec 2026.
 
 Franco is a house and techno artist based in Netherlands, with 13 gigs on soundcheck across Bogotá, Lisbon, London and Manchester and 5 more. Often billed alongside ARWEN, AfroNinja and Agents Of Alchemy. Next up: Hackney Bridge, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Franco is a house and techno artist based in Netherlands, with 13 gigs on soundc
 
 ARWEN, AfroNinja, Agents Of Alchemy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franco-1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franco-1/)*

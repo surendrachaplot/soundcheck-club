@@ -1,6 +1,6 @@
 # Ginji
 
-Ginji is a Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
+Ginji is a Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Forestlimit, Tokyo on Sat, 7 Nov 2026.
 
 Ginji is a bass and experimental artist based in Japan, with 55 gigs on soundcheck across Tokyo. Often billed alongside KIMURA, AKIRAM EN and ITSUKI. Next up: Forestlimit, Tokyo on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Ginji is a bass and experimental artist based in Japan, with 55 gigs on soundche
 
 KIMURA, AKIRAM EN, ITSUKI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginji/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ginji/)*

@@ -1,6 +1,6 @@
 # Het Bos
 
-Het Bos is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Nachtraven speelt Grans & Hietje" on Fri, 20 Nov 2026.
+Het Bos is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Nachtraven speelt Grans & Hietje" on Fri, 20 Nov 2026.
 
 Het Bos is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including Butchpm and sophew. See dates, start times and who's playing. Ankerrui 5-7 B-2000 Antwerpen.
 
@@ -15,4 +15,4 @@ Het Bos is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with 
 
 Ankerrui 5-7 B-2000 Antwerpen, Antwerp
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/het-bos/)*

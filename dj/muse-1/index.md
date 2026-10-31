@@ -1,6 +1,6 @@
 # Muse (1)
 
-Muse (1) is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at COUNTER CLUB, Tokyo on Sat, 7 Nov 2026.
+Muse (1) is a Techno and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at COUNTER CLUB, Tokyo on Sat, 7 Nov 2026.
 
 Muse is a techno and jazz artist based in United States of America, with 9 gigs on soundcheck across Cologne and Tokyo. Often billed alongside 5harpy, AMBAM and DJ B2B. Next up: COUNTER CLUB, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Muse is a techno and jazz artist based in United States of America, with 9 gigs 
 
 5harpy, AMBAM, DJ B2B
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muse-1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muse-1/)*

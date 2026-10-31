@@ -1,18 +1,18 @@
 # Leon Michael
 
-Leon Michael is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brixton Radio, London on Fri, 30 Oct 2026.
+Leon Michael is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Basing House, London on Fri, 27 Nov 2026.
 
-Leon Michael is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam and London. Often billed alongside El Cassar, Shiloh (UK) and Tylah Sanchez. Next up: Brixton Radio, London on Fri 30 Oct.
+Leon Michael is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam and London. Often billed alongside El Cassar, Shiloh (UK) and Tylah Sanchez. Next up: Basing House, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Brixton Radio | London |
 | Fri, 27 Nov 2026 | Basing House | London |
 
 ## Recently played
 
+- Brixton Radio, London · Fri, 30 Oct 2026
 - HWK Garden / Terrace, London · Sat, 29 Aug 2026
 - Union Club, Vauxhall, London · Fri, 10 Jul 2026
 - Union Club, Vauxhall, London · Fri, 29 May 2026
@@ -20,10 +20,9 @@ Leon Michael is a house and tech house artist based in United Kingdom, with 11 g
 - Next Door, Amsterdam · Sat, 10 May 2025
 - Basing House, London · Sun, 30 Jul 2023
 - IF Venue, London · Fri, 28 Jul 2023
-- IF Venue, London · Fri, 14 Jul 2023
 
 ## Shares bills with
 
 El Cassar, Shiloh (UK), Tylah Sanchez
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonmichael/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonmichael/)*

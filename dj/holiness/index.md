@@ -1,6 +1,6 @@
 # Holiness
 
-Holiness is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at B21, Brussels on Sat, 31 Oct 2026.
+Holiness is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at B21, Brussels on Sat, 31 Oct 2026.
 
 Holiness is a techno and trance artist based in Belgium, with 22 gigs on soundcheck across Brussels. Often billed alongside Ce$ar, Hysope and ATARAXY. Next up: B21, Brussels on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Holiness is a techno and trance artist based in Belgium, with 22 gigs on soundch
 
 Ce$ar, Hysope, ATARAXY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holiness/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/holiness/)*

@@ -1,6 +1,6 @@
 # Pinty
 
-Pinty is a Bass and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Pinty is a Bass and Broken Beat artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
 Pinty is a bass and broken beat artist based in United Kingdom, with 20 gigs on soundcheck across London and Zurich. Often billed alongside Maxwell Owin, Nat Home and Ally Tropical. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Pinty is a bass and broken beat artist based in United Kingdom, with 20 gigs on 
 
 Maxwell Owin, Nat Home, Ally Tropical
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcpinty/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mcpinty/)*

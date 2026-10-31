@@ -1,6 +1,6 @@
 # Anne-Lu
 
-Anne-Lu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Baalsaal, Hamburg on Fri, 13 Nov 2026.
+Anne-Lu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Baalsaal, Hamburg on Fri, 13 Nov 2026.
 
 Anne-Lu is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside LEAN MARIS, FI3BER and DJ Semisecco. Next up: Baalsaal, Hamburg on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Anne-Lu is a techno and trance artist based in Germany, with 37 gigs on soundche
 
 LEAN MARIS, FI3BER, DJ Semisecco
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne-lu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anne-lu/)*

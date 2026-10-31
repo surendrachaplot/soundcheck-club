@@ -1,6 +1,6 @@
 # C12
 
-C12 is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "C12 Halloween with Luke Slater, Kasper Marott, Clara D, Paulo Sea" on Sat, 31 Oct 2026.
+C12 is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "C12 Halloween with Luke Slater, Kasper Marott, Clara D, Paulo Sea" on Sat, 31 Oct 2026.
 
 C12 is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with line-ups including Altinbas, Boris, Card Mercier and Clara D and 2 more. See dates, start times and who's playing. 116 rue Marché aux Herbes 1000 Brussels.
 
@@ -18,4 +18,4 @@ C12 is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with lin
 
 116 rue Marché aux Herbes 1000 Brussels, Brussels
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/c12/)*

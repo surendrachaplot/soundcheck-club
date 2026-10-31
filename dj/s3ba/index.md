@@ -1,6 +1,6 @@
 # S3BA
 
-S3BA is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
+S3BA is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
 
 S3BA is a techno and hardcore artist based in United Kingdom, with 32 gigs on soundcheck across Copenhagen, Istanbul and London. Often billed alongside Anahita Shamsaei, Lewis G. Burton and Gloria Rose. Next up: NUMBER 90 LONDON, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ S3BA is a techno and hardcore artist based in United Kingdom, with 32 gigs on so
 
 Anahita Shamsaei, Lewis G. Burton, Gloria Rose
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ba/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s3ba/)*

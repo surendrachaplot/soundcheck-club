@@ -1,6 +1,6 @@
 # Polanski
 
-Polanski is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jasna 1, Warsaw on Fri, 13 Nov 2026.
+Polanski is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Jasna 1, Warsaw on Fri, 13 Nov 2026.
 
 Polanski is a techno and industrial artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, London, Riga and Warsaw and 1 more. Often billed alongside Antonio De Angelis, Laure Croft and SNTS. Next up: Jasna 1, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Polanski is a techno and industrial artist based in United Kingdom, with 23 gigs
 
 Antonio De Angelis, Laure Croft, SNTS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polanski/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/polanski/)*

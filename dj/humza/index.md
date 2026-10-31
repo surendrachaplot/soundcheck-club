@@ -1,6 +1,6 @@
 # Humza
 
-Humza is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 10 Nov 2026.
+Humza is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 10 Nov 2026.
 
 Humza is a club and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Edinburgh. Often billed alongside Buckfast Barbie, DV60 and Sweet Philly. Next up: People's Leisure Club, Edinburgh on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Humza is a club and drum & bass artist based in United Kingdom, with 16 gigs on 
 
 Buckfast Barbie, DV60, Sweet Philly
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humza/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/humza/)*

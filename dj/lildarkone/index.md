@@ -1,6 +1,6 @@
 # LIL DARK ONE
 
-LIL DARK ONE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Sun, 1 Nov 2026.
+LIL DARK ONE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at E1, London on Sun, 1 Nov 2026.
 
 LIL DARK ONE is a techno and trance artist based in United Kingdom, with 21 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Tara Erizo, 4000 Hz and Faster Horses. Next up: E1, London on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ LIL DARK ONE is a techno and trance artist based in United Kingdom, with 21 gigs
 
 Tara Erizo, 4000 Hz, Faster Horses
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lildarkone/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lildarkone/)*

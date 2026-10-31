@@ -1,6 +1,6 @@
 # Dimension
 
-Dimension is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Arzenal, Budapest on Thu, 19 Nov 2026.
+Dimension is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Arzenal, Budapest on Thu, 19 Nov 2026.
 
 Dimension is a drum & bass and bass artist based in United Kingdom, with 81 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 38 more. Often billed alongside Sub Focus, Culture Shock and Andy C. Next up: Arzenal, Budapest on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Dimension is a drum & bass and bass artist based in United Kingdom, with 81 gigs
 
 Sub Focus, Culture Shock, Andy C
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimension/)*

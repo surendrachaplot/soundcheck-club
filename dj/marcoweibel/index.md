@@ -1,6 +1,6 @@
 # Marco Weibel
 
-Marco Weibel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at West Harlem, Kyoto on Fri, 6 Nov 2026.
+Marco Weibel is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at West Harlem, Kyoto on Fri, 6 Nov 2026.
 
 Marco Weibel is a house and techno artist, with 139 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 25 more. Often billed alongside Lefto Early Bird, Spurge and Dexter Colt. Next up: West Harlem, Kyoto on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Marco Weibel is a house and techno artist, with 139 gigs on soundcheck across Am
 
 Lefto Early Bird, Spurge, Dexter Colt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcoweibel/)*

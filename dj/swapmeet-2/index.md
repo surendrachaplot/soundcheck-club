@@ -1,6 +1,6 @@
 # SWAP MEET! (2)
 
-SWAP MEET! (2) is a Jungle and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Jama, Toronto on Sat, 14 Nov 2026.
+SWAP MEET! (2) is a Jungle and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Jama, Toronto on Sat, 14 Nov 2026.
 
 SWAP MEET! is a jungle and club artist based in United States of America, with 10 gigs on soundcheck across Austin, Houston, Los Angeles and Nashville and 3 more. Often billed alongside 30000AD, AceMo and Ana Luisa. Next up: The Jama, Toronto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SWAP MEET! is a jungle and club artist based in United States of America, with 1
 
 30000AD, AceMo, Ana Luisa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swapmeet-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/swapmeet-2/)*

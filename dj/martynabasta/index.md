@@ -1,6 +1,6 @@
 # Martyna Basta
 
-Martyna Basta is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Martyna Basta is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
 
 Martyna Basta is an experimental and ambient artist based in Poland, with 20 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 8 more. Often billed alongside Heinali, Deena Abdelwahed and Kitty Sarcasm. Next up: Botanique, Brussels on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Martyna Basta is an experimental and ambient artist based in Poland, with 20 gig
 
 Heinali, Deena Abdelwahed, Kitty Sarcasm
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*

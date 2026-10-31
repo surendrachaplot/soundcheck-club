@@ -1,6 +1,6 @@
 # Araknyl
 
-Araknyl is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Villa, Oslo on Fri, 6 Nov 2026.
+Araknyl is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Villa, Oslo on Fri, 6 Nov 2026.
 
 Araknyl is a trance and techno artist based in Sweden, with 14 gigs on soundcheck across Berlin, Brussels, Copenhagen and Leipzig and 3 more. Often billed alongside My Gander, Jidder and Matriark. Next up: The Villa, Oslo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Araknyl is a trance and techno artist based in Sweden, with 14 gigs on soundchec
 
 My Gander, Jidder, Matriark
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/araknyl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/araknyl/)*

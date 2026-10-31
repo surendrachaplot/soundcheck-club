@@ -1,6 +1,6 @@
 # André Galluzzi
 
-André Galluzzi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+André Galluzzi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
 André Galluzzi is a house and techno artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 14 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dana Ruh. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ André Galluzzi is a house and techno artist based in Germany, with 81 gigs on s
 
 Sven Vath, Maurizio Schmitz, Dana Ruh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*

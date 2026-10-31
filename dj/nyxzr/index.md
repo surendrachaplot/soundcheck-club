@@ -1,6 +1,6 @@
 # nyxzr
 
-nyxzr is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at City Hall, Barcelona on Wed, 4 Nov 2026.
+nyxzr is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at City Hall, Barcelona on Wed, 4 Nov 2026.
 
 nyxzr is a techno and industrial artist, with 33 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Giusseppi, Architects Of Adversity and NHYMPH. Next up: City Hall, Barcelona on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ nyxzr is a techno and industrial artist, with 33 gigs on soundcheck across Barce
 
 Giusseppi, Architects Of Adversity, NHYMPH
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxzr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxzr/)*

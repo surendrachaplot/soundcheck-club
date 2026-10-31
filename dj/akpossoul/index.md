@@ -1,6 +1,6 @@
 # Akpossoul
 
-Akpossoul is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
+Akpossoul is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
 
 Akpossoul is an afro house and house artist based in France, with 30 gigs on soundcheck across Geneva, Lyon and Montreal. Often billed alongside Don Barbarino, MLLE CEE and AKAntu. Next up: SMS 514.613.5811 FOR LOCATION, Montreal on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Akpossoul is an afro house and house artist based in France, with 30 gigs on sou
 
 Don Barbarino, MLLE CEE, AKAntu
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akpossoul/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akpossoul/)*

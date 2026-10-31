@@ -1,6 +1,6 @@
 # Dreimal T
 
-Dreimal T is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sat, 7 Nov 2026.
+Dreimal T is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Paloma, Berlin on Sat, 7 Nov 2026.
 
 Dreimal T is a techno and house artist based in Germany, with 42 gigs on soundcheck across Berlin, Leipzig, Munich and Warsaw. Often billed alongside degen, Leone Knight and mole. Next up: Paloma, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Dreimal T is a techno and house artist based in Germany, with 42 gigs on soundch
 
 degen, Leone Knight, mole (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreimalt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dreimalt/)*

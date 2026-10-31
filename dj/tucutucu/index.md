@@ -1,6 +1,6 @@
 # Tucu (Tucu)
 
-Tucu (Tucu) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 31 Oct 2026.
+Tucu (Tucu) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Under Bridge Madrid, Madrid on Sat, 31 Oct 2026.
 
 Tucu (Tucu) is a house and techno artist based in Argentina, with 85 gigs on soundcheck across Madrid. Often billed alongside Brisa Then, Guidomik and TRIXXI. Next up: Under Bridge Madrid, Madrid on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Tucu (Tucu) is a house and techno artist based in Argentina, with 85 gigs on sou
 
 Brisa Then, Guidomik, TRIXXI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tucutucu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tucutucu/)*

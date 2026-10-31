@@ -1,6 +1,6 @@
 # Low End Activist
 
-Low End Activist is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OHM, Berlin on Fri, 27 Nov 2026.
+Low End Activist is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at OHM, Berlin on Fri, 27 Nov 2026.
 
 Low End Activist is a dub and bass artist, with 40 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Appleblim, Demdike Stare and Traynor. Next up: OHM, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Low End Activist is a dub and bass artist, with 40 gigs on soundcheck across Ams
 
 Appleblim, Demdike Stare, Traynor
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowendactivist/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lowendactivist/)*

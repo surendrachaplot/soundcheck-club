@@ -1,6 +1,6 @@
 # Cuerpo Negro
 
-Cuerpo Negro is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Howler, Melbourne on Sun, 15 Nov 2026.
+Cuerpo Negro is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Howler, Melbourne on Sun, 15 Nov 2026.
 
 Cuerpo Negro is an electronica and house artist based in Colombia, with 16 gigs on soundcheck across Brisbane, Byron Bay, Medellin and Melbourne and 1 more. Often billed alongside Otorongo, La Payara and Martha van Straaten. Next up: Howler, Melbourne on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Cuerpo Negro is an electronica and house artist based in Colombia, with 16 gigs 
 
 Otorongo, La Payara, Martha van Straaten
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerponegro/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerponegro/)*

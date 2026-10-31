@@ -1,6 +1,6 @@
 # SJQ
 
-SJQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Wax & Wane: Donna Leake" on Sat, 14 Nov 2026.
+SJQ is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Wax & Wane: Donna Leake" on Sat, 14 Nov 2026.
 
 SJQ is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Crystal Murray and Donna Leake. See dates, start times and who's playing. 10a Bradbury Street , Dalston, N16 8JH.
 
@@ -15,4 +15,4 @@ SJQ is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-
 
 10a Bradbury Street , Dalston, N16 8JH, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/sjq/)*

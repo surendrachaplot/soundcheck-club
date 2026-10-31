@@ -1,6 +1,6 @@
 # Rich Thomas
 
-Rich Thomas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Flash, Washington DC on Sat, 31 Oct 2026.
+Rich Thomas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Flash, Washington DC on Sat, 31 Oct 2026.
 
 Rich Thomas is a house and deep house artist based in United States of America, with 21 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Aaron Sparks, Chris Nitti and Feroun. Next up: Flash, Washington DC on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Rich Thomas is a house and deep house artist based in United States of America, 
 
 Aaron Sparks, Chris Nitti, Feroun
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richthomas/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richthomas/)*

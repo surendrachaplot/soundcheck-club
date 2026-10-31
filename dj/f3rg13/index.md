@@ -1,6 +1,6 @@
 # F3rg13
 
-F3rg13 is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 31 Oct 2026.
+F3rg13 is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Sidney & Matilda, Sheffield on Sat, 31 Oct 2026.
 
 F3rg13 is a garage and house artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, Liverpool, Manchester and Sheffield. Often billed alongside B-HIND, Phia (UK) and TJOS. Next up: Sidney & Matilda, Sheffield on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ F3rg13 is a garage and house artist based in United Kingdom, with 16 gigs on sou
 
 B-HIND, Phia (UK), TJOS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f3rg13/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/f3rg13/)*

@@ -1,6 +1,6 @@
 # Amandla
 
-Amandla is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Benelux BAR, Amsterdam on Sun, 6 Dec 2026.
+Amandla is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Benelux BAR, Amsterdam on Sun, 6 Dec 2026.
 
 Amandla is a house and trance artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Rotterdam and Tirana. Often billed alongside Aron Friedman, Galen and Julien Simmons. Next up: Benelux BAR, Amsterdam on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Amandla is a house and trance artist based in Netherlands, with 22 gigs on sound
 
 Aron Friedman, Galen, Julien Simmons
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandla/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandla/)*

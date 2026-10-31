@@ -1,6 +1,6 @@
 # Saint Velez
 
-Saint Velez is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Bushwick, Brooklyn, New York City on Sat, 14 Nov 2026.
+Saint Velez is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Bushwick, Brooklyn, New York City on Sat, 14 Nov 2026.
 
 Saint Velez is a techno and trance artist based in United States of America, with 33 gigs on soundcheck across Atlanta, Berlin, New York City and Philadelphia and 1 more. Often billed alongside Junkfile, Ramsey Neville and Concrete Husband. Next up: TBA - Bushwick, Brooklyn, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Saint Velez is a techno and trance artist based in United States of America, wit
 
 Junkfile, Ramsey Neville, Concrete Husband
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintvelez/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saintvelez/)*

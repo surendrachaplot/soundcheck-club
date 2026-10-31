@@ -1,6 +1,6 @@
 # Bobaz Lobster
 
-Bobaz Lobster is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
+Bobaz Lobster is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
 
 Bobaz Lobster is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin, Manchester and Vienna. Often billed alongside EGE363, Nettta and bbymeister. Next up: Skatehalle Berlin, Berlin on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Bobaz Lobster is a techno and trance artist based in Germany, with 19 gigs on so
 
 EGE363, Nettta, bbymeister
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobazlobster/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobazlobster/)*

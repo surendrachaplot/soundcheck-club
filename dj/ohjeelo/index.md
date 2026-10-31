@@ -1,6 +1,6 @@
 # ohjeelo
 
-ohjeelo is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+ohjeelo is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 ohjeelo is a bass and techno artist based in Ivory Coast, with 64 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 10 more. Often billed alongside Nico Adomako, Franssouax and Bamao Yendé. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ohjeelo is a bass and techno artist based in Ivory Coast, with 64 gigs on soundc
 
 Nico Adomako, Franssouax, Bamao Yendé
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ohjeelo/)*

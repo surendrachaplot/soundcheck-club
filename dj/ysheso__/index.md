@@ -1,6 +1,6 @@
 # ysheso__
 
-ysheso__ is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Loso, Richmond on Sat, 5 Dec 2026.
+ysheso__ is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Loso, Richmond on Sat, 5 Dec 2026.
 
 ysheso__ is a house and breakbeat artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 6 more. Often billed alongside Akarsh, Dee Diggs and Ralo. Next up: Loso, Richmond on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ ysheso__ is a house and breakbeat artist based in United States of America, with
 
 Akarsh, Dee Diggs, Ralo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ysheso__/)*

@@ -1,6 +1,6 @@
 # Knuckle G
 
-Knuckle G is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sigurd CPH, Copenhagen on Sat, 21 Nov 2026.
+Knuckle G is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sigurd CPH, Copenhagen on Sat, 21 Nov 2026.
 
 Knuckle G is a house and disco artist based in France, with 48 gigs on soundcheck across Copenhagen, Geneva, Liverpool and London and 2 more. Often billed alongside Chinau, Larry G and Dielli. Next up: Sigurd CPH, Copenhagen on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Knuckle G is a house and disco artist based in France, with 48 gigs on soundchec
 
 Chinau, Larry G, Dielli
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knuckleg/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/knuckleg/)*

@@ -1,6 +1,6 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Osmose: Jolly + Emma Neil" on Fri, 27 Nov 2026.
+La Gare / Le Gore is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Osmose: Jolly + Emma Neil" on Fri, 27 Nov 2026.
 
 La Gare / Le Gore is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Jolly (FR) and Lastvuska. See dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
@@ -15,4 +15,4 @@ La Gare / Le Gore is a music venue in Paris listed on soundcheck. 2 upcoming gig
 
 1 Av. Corentin Cariou, 75019 Paris, Paris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-gare-le-gore/)*

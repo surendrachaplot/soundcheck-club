@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 31 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Microsteria Halloween with Ascetic Practices" on Sat, 31 Oct 2026.
+People's Leisure Club is a music venue in Edinburgh with 31 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Microsteria Halloween with Ascetic Practices" on Sat, 31 Oct 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 31 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BPK and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 31 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

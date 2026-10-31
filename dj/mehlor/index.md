@@ -1,6 +1,6 @@
 # Mehlor
 
-Mehlor is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 6 Nov 2026.
+Mehlor is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 6 Nov 2026.
 
 Mehlor is a house and garage artist based in United Kingdom, with 33 gigs on soundcheck across Leeds, Malmo, Manchester and Sheffield. Often billed alongside Max Le Louche, Joe Reece and Kinso. Next up: Joshua Brooks, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mehlor is a house and garage artist based in United Kingdom, with 33 gigs on sou
 
 Max Le Louche, Joe Reece, Kinso
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mehlor/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mehlor/)*

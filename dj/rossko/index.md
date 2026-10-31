@@ -1,14 +1,13 @@
 # Rossko
 
-Rossko is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kapsule, Liverpool on Fri, 30 Oct 2026.
+Rossko is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at fabric, London on Sun, 8 Nov 2026.
 
-Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 15 more. Often billed alongside Julian Anthony, Rich NXT and Reeshy. Next up: Kapsule, Liverpool on Fri 30 Oct.
+Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 15 more. Often billed alongside Julian Anthony, Rich NXT and Reeshy. Next up: fabric, London on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Kapsule | Liverpool |
 | Sun, 8 Nov 2026 | fabric | London |
 | Sat, 14 Nov 2026 | Upper East | London |
 | Sat, 14 Nov 2026 | Hoppetosse | Berlin |
@@ -16,6 +15,7 @@ Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on
 
 ## Recently played
 
+- Kapsule, Liverpool · Fri, 30 Oct 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - Dune Park, Buenos Aires · Fri, 14 Aug 2026
 - [UNVRS], Ibiza · Wed, 15 Jul 2026
@@ -23,10 +23,9 @@ Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on
 - Hazelwood Castle, Leeds · Sat, 30 May 2026
 - BRET, Amsterdam · Sat, 9 May 2026
 - TBA - Enso Lounge, 124–126 Brick Lane, E1 6RU, London · Sun, 3 May 2026
-- Hackney Wick Multiple Venues, London · Sat, 2 May 2026
 
 ## Shares bills with
 
 Julian Anthony, Rich NXT, Reeshy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*

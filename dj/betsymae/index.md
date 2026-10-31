@@ -1,6 +1,6 @@
 # Betsy Mae
 
-Betsy Mae is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Cause, London on Fri, 18 Dec 2026.
+Betsy Mae is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Cause, London on Fri, 18 Dec 2026.
 
 Betsy Mae is a jungle and garage artist based in United Kingdom, with 61 gigs on soundcheck across Barcelona, Brighton, Bristol and Leeds and 2 more. Often billed alongside Sexy Lady Massive, ASIAN BRAT and Missy P. Next up: The Cause, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Betsy Mae is a jungle and garage artist based in United Kingdom, with 61 gigs on
 
 Sexy Lady Massive, ASIAN BRAT, Missy P
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/betsymae/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/betsymae/)*

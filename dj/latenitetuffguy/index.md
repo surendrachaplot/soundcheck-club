@@ -1,6 +1,6 @@
 # Late Nite Tuff Guy
 
-Late Nite Tuff Guy is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Electric Circus, Adelaide on Sat, 31 Oct 2026.
+Late Nite Tuff Guy is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Electric Circus, Adelaide on Sat, 31 Oct 2026.
 
 Late Nite Tuff Guy is a house and disco artist, with 26 gigs on soundcheck across Adelaide, Auckland, Bali and Byron Bay and 3 more. Often billed alongside Aline Rocha, DJ HMC and The Shapeshifters. Next up: Electric Circus, Adelaide on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Late Nite Tuff Guy is a house and disco artist, with 26 gigs on soundcheck acros
 
 Aline Rocha, DJ HMC, The Shapeshifters
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latenitetuffguy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/latenitetuffguy/)*

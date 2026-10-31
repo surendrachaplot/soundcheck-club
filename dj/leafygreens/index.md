@@ -1,6 +1,6 @@
 # Leafy Greens
 
-Leafy Greens is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ErF Studios, New York City on Thu, 12 Nov 2026.
+Leafy Greens is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ErF Studios, New York City on Thu, 12 Nov 2026.
 
 Leafy Greens is an acid and house artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, London and New York City. Often billed alongside 98dots, Very J and estro. Next up: ErF Studios, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Leafy Greens is an acid and house artist based in United Kingdom, with 10 gigs o
 
 98dots, Very J, estro
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leafygreens/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leafygreens/)*

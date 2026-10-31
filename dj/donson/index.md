@@ -1,6 +1,6 @@
 # Don Son
 
-Don Son is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Absinthe Wormwood, Osaka on Sat, 7 Nov 2026.
+Don Son is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Absinthe Wormwood, Osaka on Sat, 7 Nov 2026.
 
 Don Son is a techno and electronica artist based in Switzerland, with 20 gigs on soundcheck across Barcelona, Basel, Berlin and London and 4 more. Often billed alongside DMITRI ABSINTHE, MAX PELA and Michael Ritter. Next up: Absinthe Wormwood, Osaka on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Don Son is a techno and electronica artist based in Switzerland, with 20 gigs on
 
 DMITRI ABSINTHE, MAX PELA, Michael Ritter
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donson/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donson/)*

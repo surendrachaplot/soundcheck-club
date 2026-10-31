@@ -1,6 +1,6 @@
 # Moxie
 
-Moxie is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
+Moxie is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
 
 Moxie is a house and techno artist based in United Kingdom, with 203 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 59 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: Brussels Gate, Brussels on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Moxie is a house and techno artist based in United Kingdom, with 203 gigs on sou
 
 Leon Vynehall, Shanti Celeste, NIKS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*

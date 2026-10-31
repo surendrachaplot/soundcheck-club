@@ -1,6 +1,6 @@
 # Stateless (UK)
 
-Stateless (UK) is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Basing House, London on Sat, 21 Nov 2026.
+Stateless (UK) is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Basing House, London on Sat, 21 Nov 2026.
 
 Stateless (UK) is a drum & bass and dubstep artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Joe Le Groove, Subject 13 and Abby Daze. Next up: Basing House, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Stateless (UK) is a drum & bass and dubstep artist based in United Kingdom, with
 
 Joe Le Groove, Subject 13, Abby Daze
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stateless-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stateless-uk/)*

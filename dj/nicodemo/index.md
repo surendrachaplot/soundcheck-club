@@ -1,6 +1,6 @@
 # Nicodemo
 
-Nicodemo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 31 Oct 2026.
+Nicodemo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 31 Oct 2026.
 
 Nicodemo is a house and techno artist based in Italy, with 75 gigs on soundcheck across Berlin, Bologna, Florence and Lausanne and 9 more. Often billed alongside Volantis, Odd Shy Guy and Fabrizio Mammarella. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Nicodemo is a house and techno artist based in Italy, with 75 gigs on soundcheck
 
 Volantis, Odd Shy Guy, Fabrizio Mammarella
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicodemo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicodemo/)*

@@ -1,6 +1,6 @@
 # Arty (UK)
 
-Arty (UK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Distrikt, Leeds on Sat, 5 Dec 2026.
+Arty (UK) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Distrikt, Leeds on Sat, 5 Dec 2026.
 
 Arty (UK) is a house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Leeds, Manchester and Miami. Often billed alongside Jartley, Loki-Hi and Cian Joy. Next up: Distrikt, Leeds on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Arty (UK) is a house and tech house artist based in United Kingdom, with 8 gigs 
 
 Jartley, Loki-Hi, Cian Joy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arty-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arty-uk/)*

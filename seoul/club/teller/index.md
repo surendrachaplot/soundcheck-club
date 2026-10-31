@@ -1,6 +1,6 @@
 # teller
 
-teller is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "3rd anniversary of teller" on Fri, 30 Oct 2026.
+teller is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "3rd anniversary of teller" on Fri, 30 Oct 2026.
 
 teller is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-ups including .2ndfloor, Dakim, Evan Baggs and Hakim. and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
@@ -22,4 +22,4 @@ teller is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with lin
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

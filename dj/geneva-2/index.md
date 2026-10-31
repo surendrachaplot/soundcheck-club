@@ -1,6 +1,6 @@
 # Geneva (2)
 
-Geneva (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Minneapolis/St Paul on Wed, 30 Dec 2026.
+Geneva (2) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Minneapolis/St Paul on Wed, 30 Dec 2026.
 
 Geneva is a techno and electro artist based in Canada, with 23 gigs on soundcheck across Detroit, Hamilton, Minneapolis/St Paul and Paris and 1 more. Often billed alongside Circumscums, Measure Divide and Program Sam. Next up: TBA, Minneapolis/St Paul on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Geneva is a techno and electro artist based in Canada, with 23 gigs on soundchec
 
 Circumscums, Measure Divide, Program Sam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*

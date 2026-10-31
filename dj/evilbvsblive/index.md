@@ -1,6 +1,6 @@
 # Evil B vs B Live
 
-Evil B vs B Live is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 7 Nov 2026.
+Evil B vs B Live is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at 11 Bromley Street, Birmingham on Sat, 7 Nov 2026.
 
 Evil B vs B Live are a drum & bass and jungle duo based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Birmingham, London and Riga and 1 more. Often billed alongside Bou (UK), IC3 and Logan D. Next up: 11 Bromley Street, Birmingham on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Evil B vs B Live are a drum & bass and jungle duo based in United Kingdom, with 
 
 Bou (UK), IC3, Logan D
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilbvsblive/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evilbvsblive/)*

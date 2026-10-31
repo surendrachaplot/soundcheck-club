@@ -1,14 +1,13 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hope House, Leeds on Fri, 30 Oct 2026.
+Soul Mass Transit System is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Quarters, Brighton on Sat, 31 Oct 2026.
 
-Soul Mass Transit System is a garage and house artist based in United Kingdom, with 165 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Hope House, Leeds on Fri 30 Oct.
+Soul Mass Transit System is a garage and house artist based in United Kingdom, with 165 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Quarters, Brighton on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Hope House | Leeds |
 | Sat, 31 Oct 2026 | Quarters | Brighton |
 | Tue, 3 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 6 Nov 2026 | Plot 22 | Sheffield |
@@ -20,9 +19,11 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
+| Sat, 9 Jan 2027 | The Night Cat | Melbourne |
 
 ## Recently played
 
+- Hope House, Leeds · Fri, 30 Oct 2026
 - Basement Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Gaswrx Birmingham, Birmingham · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 - Toffler, Rotterdam · Fri, 9 Oct 2026
 - The Love Inn, Bristol · Thu, 1 Oct 2026
 - Thuishaven, Amsterdam · Sat, 15 Aug 2026
-- Finsbury Park, London · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

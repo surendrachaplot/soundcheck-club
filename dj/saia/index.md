@@ -1,18 +1,18 @@
 # Saia
 
-Saia is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Elsewhere, New York City on Fri, 30 Oct 2026.
+Saia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TRANSMISSION DC, Washington DC on Sat, 14 Nov 2026.
 
-Saia is a house and techno artist based in United States of America, with 25 gigs on soundcheck across Mexico City, New York City and Washington DC. Often billed alongside Arvin T, Markus (US) and Sharlese. Next up: Elsewhere, New York City on Fri 30 Oct.
+Saia is a house and techno artist based in United States of America, with 25 gigs on soundcheck across Mexico City, New York City and Washington DC. Often billed alongside Arvin T, Markus (US) and Sharlese. Next up: TRANSMISSION DC, Washington DC on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Elsewhere | New York City |
 | Sat, 14 Nov 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
+- Elsewhere, New York City · Fri, 30 Oct 2026
 - public records, New York City · Sun, 25 Oct 2026
 - Paragon, New York City · Fri, 23 Oct 2026
 - Club Rawhide, New York City · Fri, 16 Oct 2026
@@ -20,10 +20,9 @@ Saia is a house and techno artist based in United States of America, with 25 gig
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - public records, New York City · Sun, 9 Aug 2026
 - Green Room NYC, New York City · Sat, 1 Aug 2026
-- 9 Bob Note, New York City · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Arvin T, Markus (US), Sharlese
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saia/)*

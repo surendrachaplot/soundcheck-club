@@ -1,6 +1,6 @@
 # Alisa Stovik
 
-Alisa Stovik is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at WDM, Hannover on Sat, 28 Nov 2026.
+Alisa Stovik is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at WDM, Hannover on Sat, 28 Nov 2026.
 
 Alisa Stovik is a trance and techno artist based in Germany, with 12 gigs on soundcheck across Berlin, Hannover and Leipzig. Often billed alongside VLUNA, BENITO (DE) and BOUNCEBACK. Next up: WDM, Hannover on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Alisa Stovik is a trance and techno artist based in Germany, with 12 gigs on sou
 
 VLUNA, BENITO (DE), BOUNCEBACK
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisastovik/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alisastovik/)*

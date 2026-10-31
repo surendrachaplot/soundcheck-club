@@ -1,6 +1,6 @@
 # MIRALEO
 
-MIRALEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+MIRALEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
 
 MIRALEO is a techno and house artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Phillinger, Captain Ahoi and Aslan Venom. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ MIRALEO is a techno and house artist based in Germany, with 15 gigs on soundchec
 
 Phillinger, Captain Ahoi, Aslan Venom
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miraleo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miraleo/)*

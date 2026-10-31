@@ -1,6 +1,6 @@
 # Roller Gal
 
-Roller Gal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
+Roller Gal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kaputt Club / Proyecto Kinder, Bogotá on Sat, 31 Oct 2026.
 
 Roller Gal is a techno and house artist based in Colombia, with 48 gigs on soundcheck across Berlin, Bogotá, Medellin and Rotterdam. Often billed alongside Juanitablue, Yabanko and Polinne Moth. Next up: Kaputt Club / Proyecto Kinder, Bogotá on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Roller Gal is a techno and house artist based in Colombia, with 48 gigs on sound
 
 Juanitablue, Yabanko, Polinne Moth
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rollergal/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rollergal/)*

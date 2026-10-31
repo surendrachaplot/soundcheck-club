@@ -1,6 +1,6 @@
 # Emma Kearns
 
-Emma Kearns is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Emma Kearns is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 Emma Kearns is a house and techno artist based in Ireland, with 7 gigs on soundcheck across Dublin and Taipei. Often billed alongside Gabb (PRY), Royce Larøca and Tunney. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -14,6 +14,7 @@ Emma Kearns is a house and techno artist based in Ireland, with 7 gigs on soundc
 
 ## Recently played
 
+- Orlagh House, Dublin · Fri, 30 Oct 2026
 - Yamamori Tengu, Dublin · Thu, 15 Oct 2026
 - Pygmalion, Dublin · Fri, 18 Sept 2026
 - Wigwam, Dublin · Fri, 11 Sept 2026
@@ -23,4 +24,4 @@ Emma Kearns is a house and techno artist based in Ireland, with 7 gigs on soundc
 
 Gabb (PRY), Royce Larøca, Tunney
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakearns/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmakearns/)*

@@ -1,6 +1,6 @@
 # Metrodome
 
-Metrodome is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
+Metrodome is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
 
 Metrodome is a jungle and drum & bass artist based in United Kingdom, with 65 gigs on soundcheck across Berlin, Hamburg, London and Manchester. Often billed alongside Rich Reason, Chunky and DAIZ. Next up: Albert Hall, Manchester on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Metrodome is a jungle and drum & bass artist based in United Kingdom, with 65 gi
 
 Rich Reason, Chunky, DAIZ
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrodome/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrodome/)*

@@ -1,6 +1,6 @@
 # Left Hand Loz
 
-Left Hand Loz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 7 Nov 2026.
+Left Hand Loz is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Neck of the Woods, Auckland on Sat, 7 Nov 2026.
 
 Left Hand Loz is a techno and trance artist based in New Zealand, with 9 gigs on soundcheck across Auckland and Christchurch. Often billed alongside Aunty Bev, Aunty El and Awa (uwu). Next up: Neck of the Woods, Auckland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Left Hand Loz is a techno and trance artist based in New Zealand, with 9 gigs on
 
 Aunty Bev, Aunty El, Awa (uwu)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lefthandloz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lefthandloz/)*

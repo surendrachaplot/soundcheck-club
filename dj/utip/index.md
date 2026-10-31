@@ -1,6 +1,6 @@
 # Utip
 
-Utip is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Fri, 6 Nov 2026.
+Utip is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Fri, 6 Nov 2026.
 
 Utip is a house and minimal artist, with 34 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 3 more. Often billed alongside Hypnoize, Isaac Elejalde and Danilo Schneider. Next up: Golden Gate, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Utip is a house and minimal artist, with 34 gigs on soundcheck across Barcelona,
 
 Hypnoize, Isaac Elejalde, Danilo Schneider
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/utip/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/utip/)*

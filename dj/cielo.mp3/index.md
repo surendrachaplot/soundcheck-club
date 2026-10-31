@@ -1,18 +1,18 @@
 # Cielo.MP3
 
-Cielo.MP3 is a Tech House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at glimmer, Hamburg on Fri, 30 Oct 2026.
+Cielo.MP3 is a Tech House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Slot, Hamburg on Fri, 6 Nov 2026.
 
-Cielo.MP3 is a tech house and breakbeat artist based in Germany, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nikitastern, ZANIAH and yung_womb. Next up: glimmer, Hamburg on Fri 30 Oct.
+Cielo.MP3 is a tech house and breakbeat artist based in Germany, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nikitastern, ZANIAH and yung_womb. Next up: Slot, Hamburg on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | glimmer | Hamburg |
 | Fri, 6 Nov 2026 | Slot | Hamburg |
 
 ## Recently played
 
+- glimmer, Hamburg · Fri, 30 Oct 2026
 - Bar131, Berlin · Sat, 4 Jul 2026
 - Golden Pudel Club, Hamburg · Thu, 12 Jun 2025
 - Slot, Hamburg · Fri, 6 Jun 2025
@@ -25,4 +25,4 @@ Cielo.MP3 is a tech house and breakbeat artist based in Germany, with 9 gigs on 
 
 Nikitastern, ZANIAH, yung_womb
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cielo.mp3/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cielo.mp3/)*

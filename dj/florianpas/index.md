@@ -1,6 +1,6 @@
 # Florian Pas
 
-Florian Pas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Florian Pas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Florian Pas is a house and techno artist based in Germany, with 16 gigs on soundcheck across Berlin and Glasgow. Often billed alongside M A R, CC:NIELOS and Johænsson. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Florian Pas is a house and techno artist based in Germany, with 16 gigs on sound
 
 M A R, CC:NIELOS, Johænsson
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpas/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florianpas/)*

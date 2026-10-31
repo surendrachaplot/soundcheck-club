@@ -1,6 +1,6 @@
 # The Monty Bar
 
-The Monty Bar is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "DANSE-X: HALLOWEEN EDITION" on Sat, 31 Oct 2026.
+The Monty Bar is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "DANSE-X: HALLOWEEN EDITION" on Sat, 31 Oct 2026.
 
 The Monty Bar is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1222 W 7th St, Los Angeles, CA 90017, USA.
 
@@ -14,4 +14,4 @@ The Monty Bar is a music venue in Los Angeles listed on soundcheck. 1 upcoming g
 
 1222 W 7th St, Los Angeles, CA 90017, USA, Los Angeles
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-monty-bar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-monty-bar/)*

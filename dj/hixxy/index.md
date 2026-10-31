@@ -1,6 +1,6 @@
 # Hixxy
 
-Hixxy is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
+Hixxy is a Hardcore and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Old Firestation, South-east on Sat, 31 Oct 2026.
 
 Hixxy is a hardcore and bass artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Austin, Brighton and Edinburgh and 12 more. Often billed alongside Dougal, Mark Breeze and Darren Styles. Next up: The Old Firestation, South East on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hixxy is a hardcore and bass artist based in United Kingdom, with 26 gigs on sou
 
 Dougal, Mark Breeze, Darren Styles
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hixxy/)*

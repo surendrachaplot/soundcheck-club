@@ -1,6 +1,6 @@
 # Melly (1)
 
-Melly (1) is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+Melly (1) is a House and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 Melly is a house and dancehall artist based in United Kingdom, with 15 gigs on soundcheck across Glasgow, London, Oslo and Sao Paulo. Often billed alongside AUDIO DUNE, warmluke and DJoe. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Melly is a house and dancehall artist based in United Kingdom, with 15 gigs on s
 
 AUDIO DUNE, warmluke, DJoe
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melly-1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/melly-1/)*

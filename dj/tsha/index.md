@@ -1,6 +1,6 @@
 # TSHA
 
-TSHA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mia Mao, Paris on Fri, 6 Nov 2026.
+TSHA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Mia Mao, Paris on Fri, 6 Nov 2026.
 
 TSHA is a house and techno artist based in United Kingdom, with 205 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 63 more. Often billed alongside Eliza Rose, Honey Dijon and Seth Troxler. Next up: Mia Mao, Paris on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ TSHA is a house and techno artist based in United Kingdom, with 205 gigs on soun
 
 Eliza Rose, Honey Dijon, Seth Troxler
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsha/)*

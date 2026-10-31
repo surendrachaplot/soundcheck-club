@@ -1,6 +1,6 @@
 # Paradiso
 
-Paradiso is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Fleetmac Wood presents Chiffon Frenzy - Amsterdam" on Thu, 5 Nov 2026.
+Paradiso is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Fleetmac Wood presents Chiffon Frenzy - Amsterdam" on Thu, 5 Nov 2026.
 
 Paradiso is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Oxley, Dynamax, Fleetmac Wood and Gysèle and 2 more. See dates, start times and who's playing. Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands.
 
@@ -19,4 +19,4 @@ Paradiso is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, wi
 
 Weteringschans 6; 1017 Binnenstad; Amsterdam; Netherlands, Amsterdam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/paradiso/)*

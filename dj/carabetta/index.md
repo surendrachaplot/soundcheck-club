@@ -1,6 +1,6 @@
 # Carabetta
 
-Carabetta is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wiggle Room, Toronto on Sun, 29 Nov 2026.
+Carabetta is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Wiggle Room, Toronto on Sun, 29 Nov 2026.
 
 Carabetta is a tech house and house artist based in United States of America, with 8 gigs on soundcheck across Amsterdam, Boston and Toronto. Often billed alongside Carlo Lio, Manzone & Strong and Tyler Hill. Next up: Wiggle Room, Toronto on Sun 29 Nov.
 
@@ -24,4 +24,4 @@ Carabetta is a tech house and house artist based in United States of America, wi
 
 Carlo Lio, Manzone & Strong, Tyler Hill
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carabetta/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carabetta/)*

@@ -1,6 +1,6 @@
 # Harriet Jaxxon
 
-Harriet Jaxxon is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
+Harriet Jaxxon is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at MK Arena, Midlands on Sat, 31 Oct 2026.
 
 Harriet Jaxxon is a drum & bass and jungle artist based in United Kingdom, with 66 gigs on soundcheck across Auckland, Baltimore, Berlin and Boston and 26 more. Often billed alongside Mozey, Inja and Voltage. Next up: MK Arena, Midlands on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Harriet Jaxxon is a drum & bass and jungle artist based in United Kingdom, with 
 
 Mozey, Inja, Voltage
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*

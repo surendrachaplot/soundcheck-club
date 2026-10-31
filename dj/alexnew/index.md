@@ -1,6 +1,6 @@
 # Alex New
 
-Alex New is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Thu, 26 Nov 2026.
+Alex New is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Thu, 26 Nov 2026.
 
 Alex New is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Cologne, Riga and Stuttgart. Often billed alongside Vicky Brabeck, Kevin Mey and kalkyl. Next up: Golden Gate, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Alex New is a techno and house artist based in Germany, with 22 gigs on soundche
 
 Vicky Brabeck, Kevin Mey, kalkyl
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnew/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexnew/)*

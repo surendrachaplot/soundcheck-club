@@ -1,6 +1,6 @@
 # Jasper James
 
-Jasper James is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Unit 51, Aberdeen on Sat, 31 Oct 2026.
+Jasper James is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Unit 51, Aberdeen on Sat, 31 Oct 2026.
 
 Jasper James is a house and techno artist based in United Kingdom, with 99 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 30 more. Often billed alongside Ewan McVicar, MiNNA and Armand Van Helden. Next up: Unit 51, Aberdeen on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Jasper James is a house and techno artist based in United Kingdom, with 99 gigs 
 
 Ewan McVicar, MiNNA, Armand Van Helden
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*

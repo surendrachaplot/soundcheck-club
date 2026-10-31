@@ -1,6 +1,6 @@
 # Lx Factory
 
-Lx Factory is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BCCO with ÜBERKIKZ, Mac Declos, Ketarina & More" on Fri, 13 Nov 2026.
+Lx Factory is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BCCO with ÜBERKIKZ, Mac Declos, Ketarina & More" on Fri, 13 Nov 2026.
 
 Lx Factory is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Eris Drew, Folamour, Ketarina and Mac Declos and 2 more. See dates, start times and who's playing. RUA RODRIGUES FARIA, 103 (ALCÂNTARA / CÁLVARIO) LISBON.
 
@@ -16,4 +16,4 @@ Lx Factory is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, wit
 
 RUA RODRIGUES FARIA, 103 (ALCÂNTARA / CÁLVARIO) LISBON, Lisbon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lx-factory/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/lx-factory/)*

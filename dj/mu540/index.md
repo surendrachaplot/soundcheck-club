@@ -1,6 +1,6 @@
 # Mu540
 
-Mu540 is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Presidenta Bar e Espaço Cultural, Sao Paulo on Sat, 31 Oct 2026.
+Mu540 is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Presidenta Bar e Espaço Cultural, Sao Paulo on Sat, 31 Oct 2026.
 
 Mu540 is a baile funk and house artist based in Brazil, with 21 gigs on soundcheck across Amsterdam, Lisbon, London and Lyon and 4 more. Often billed alongside NOIA, RHR and Anetha. Next up: Presidenta Bar e Espaço Cultural, Sao Paulo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mu540 is a baile funk and house artist based in Brazil, with 21 gigs on soundche
 
 NOIA, RHR, Anetha
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mu540/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mu540/)*

@@ -1,6 +1,6 @@
 # OX Music Bar
 
-OX Music Bar is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "HALLOWEEN В ПРАГЕ ОТ IMPREZA" on Sat, 31 Oct 2026.
+OX Music Bar is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLOWEEN В ПРАГЕ ОТ IMPREZA" on Sat, 31 Oct 2026.
 
 OX Music Bar is a music venue in Prague listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ OX Music Bar is a music venue in Prague listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | HALLOWEEN В ПРАГЕ ОТ IMPREZA |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ox-music-bar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/ox-music-bar/)*

@@ -1,6 +1,6 @@
 # DOMii
 
-DOMii is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Rabbit Hole, Charlotte on Sat, 31 Oct 2026.
+DOMii is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Rabbit Hole, Charlotte on Sat, 31 Oct 2026.
 
 DOMii is a house and tech house artist, with 13 gigs on soundcheck across Charlotte, Jacksonville, New York City and Philadelphia and 1 more. Often billed alongside ATRIP, Afrobeta and Ahadadream. Next up: The Rabbit Hole, Charlotte on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DOMii is a house and tech house artist, with 13 gigs on soundcheck across Charlo
 
 ATRIP, Afrobeta, Ahadadream
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domii/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/domii/)*

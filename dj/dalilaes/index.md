@@ -1,6 +1,6 @@
 # Dalila (ES)
 
-Dalila (ES) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Dalila (ES) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Dalila (ES) is a techno and electronica artist, with 21 gigs on soundcheck across Barcelona, Bologna, Madrid and Malaga and 3 more. Often billed alongside Gazzi, Eliza Rose and Richie Hawtin. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dalila (ES) is a techno and electronica artist, with 21 gigs on soundcheck acros
 
 Gazzi, Eliza Rose, Richie Hawtin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalilaes/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalilaes/)*

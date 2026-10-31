@@ -1,6 +1,6 @@
 # Secrets
 
-Secrets is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hizz Lounge, Detroit on Sun, 1 Nov 2026.
+Secrets is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Hizz Lounge, Detroit on Sun, 1 Nov 2026.
 
 Secrets is a house and techno artist based in United States of America, with 46 gigs on soundcheck across Chicago and Detroit. Often billed alongside DJ Psycho, E Spleece and Charles Trees. Next up: Hizz Lounge, Detroit on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Secrets is a house and techno artist based in United States of America, with 46 
 
 DJ Psycho, E Spleece, Charles Trees
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secrets/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/secrets/)*

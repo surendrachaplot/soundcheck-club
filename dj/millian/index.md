@@ -1,6 +1,6 @@
 # Millian
 
-Millian is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Night Tales, London on Sat, 31 Oct 2026.
+Millian is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Night Tales, London on Sat, 31 Oct 2026.
 
 Millian is a house and disco artist based in United Kingdom, with 27 gigs on soundcheck across London and Manchester. Often billed alongside ODJ, Armând and ANLON. Next up: Night Tales, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Millian is a house and disco artist based in United Kingdom, with 27 gigs on sou
 
 ODJ (1), Armând, ANLON
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millian/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/millian/)*

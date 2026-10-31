@@ -1,6 +1,6 @@
 # Laurel Halo
 
-Laurel Halo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Downtown, Los Angeles on Fri, 13 Nov 2026.
+Laurel Halo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Downtown, Los Angeles on Fri, 13 Nov 2026.
 
 Laurel Halo is a techno and house artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 29 more. Often billed alongside Marie Davidson, Aurora Halal and CCL. Next up: TBA - Downtown, Los Angeles on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Laurel Halo is a techno and house artist based in United States of America, with
 
 Marie Davidson, Aurora Halal, CCL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurelhalo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laurelhalo/)*

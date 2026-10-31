@@ -1,6 +1,6 @@
 # A-Trak
 
-A-Trak is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZeyZey, Miami on Fri, 4 Dec 2026.
+A-Trak is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ZeyZey, Miami on Fri, 4 Dec 2026.
 
 A-Trak is a house and hip-hop artist based in Canada, with 96 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 31 more. Often billed alongside The Magician, Claptone and James Juke. Next up: ZeyZey, Miami on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ A-Trak is a house and hip-hop artist based in Canada, with 96 gigs on soundcheck
 
 The Magician, Claptone, James Juke
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atrak/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atrak/)*

@@ -1,6 +1,6 @@
 # Beechy
 
-Beechy is a Disco and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Frederik's Bar, Liverpool on Sat, 31 Oct 2026.
+Beechy is a Disco and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Frederik's Bar, Liverpool on Sat, 31 Oct 2026.
 
 Beechy is a disco and funk / soul artist based in United Kingdom, with 20 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside LARA-RA, Izaac Moses and Touch Of Funk. Next up: Frederik's Bar, Liverpool on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ Beechy is a disco and funk / soul artist based in United Kingdom, with 20 gigs o
 
 LARA-RA, Izaac Moses, Touch Of Funk
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beechy/)*

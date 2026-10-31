@@ -1,6 +1,6 @@
 # Raúl Pacheco
 
-Raúl Pacheco is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Recinto Ferial de Cáceres, South on Sun, 1 Nov 2026.
+Raúl Pacheco is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Recinto Ferial de Cáceres, South on Sun, 1 Nov 2026.
 
 Raúl Pacheco is a techno and house artist based in Spain, with 21 gigs on soundcheck across Andorra, Barcelona, Ibiza and Madrid and 1 more. Often billed alongside Fatima Hajji, Chelina Manuhutu and DIROS. Next up: Recinto Ferial de Cáceres, South on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ Raúl Pacheco is a techno and house artist based in Spain, with 21 gigs on sound
 
 Fatima Hajji, Chelina Manuhutu, DIROS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulpacheco-es/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raulpacheco-es/)*

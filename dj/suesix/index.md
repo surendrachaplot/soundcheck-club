@@ -1,6 +1,6 @@
 # SUE SIX
 
-SUE SIX is a Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 4 Dec 2026.
+SUE SIX is a Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 4 Dec 2026.
 
 SUE SIX is a bass artist based in Denmark, with 19 gigs on soundcheck across Copenhagen. Often billed alongside øre snu, Følsom and DJ Lukey. Next up: Den Anden Side, Copenhagen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ SUE SIX is a bass artist based in Denmark, with 19 gigs on soundcheck across Cop
 
 øre snu, Følsom, DJ Lukey
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suesix/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suesix/)*

@@ -1,6 +1,6 @@
 # María Mestiza
 
-María Mestiza is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tigullio, Malta on Sat, 31 Oct 2026.
+María Mestiza is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Tigullio, Malta on Sat, 31 Oct 2026.
 
 María Mestiza is a house and techno artist, with 18 gigs on soundcheck across Bogotá, Malta and Medellin. Often billed alongside Niebla, 2AT and Aguirre. Next up: Tigullio, Malta on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ María Mestiza is a house and techno artist, with 18 gigs on soundcheck across B
 
 Niebla, 2AT, Aguirre
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamestiza/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariamestiza/)*

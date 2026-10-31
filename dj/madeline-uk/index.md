@@ -1,6 +1,6 @@
 # Madeline (UK)
 
-Madeline (UK) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at smartbar, Chicago on Fri, 20 Nov 2026.
+Madeline (UK) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at smartbar, Chicago on Fri, 20 Nov 2026.
 
 Madeline (UK) is a house and disco artist based in United Kingdom, with 10 gigs on soundcheck across Chicago and London. Often billed alongside Theon Bower, Danny Vito and AMANE. Next up: smartbar, Chicago on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Madeline (UK) is a house and disco artist based in United Kingdom, with 10 gigs 
 
 Theon Bower, Danny Vito, AMANE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeline-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madeline-uk/)*

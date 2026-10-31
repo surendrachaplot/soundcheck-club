@@ -1,6 +1,6 @@
 # echocatcher
 
-echocatcher is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Nué Seoul, Seoul on Sat, 7 Nov 2026.
+echocatcher is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Nué Seoul, Seoul on Sat, 7 Nov 2026.
 
 echocatcher is a techno and bass artist based in China, with 84 gigs on soundcheck across Chengdu, Hanoi, Ho Chi Minh City and Kyoto and 6 more. Often billed alongside Knopha, YKK (CN) and chuan. Next up: Nué Seoul, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ echocatcher is a techno and bass artist based in China, with 84 gigs on soundche
 
 Knopha, YKK (CN), chuan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/echocatcher/)*

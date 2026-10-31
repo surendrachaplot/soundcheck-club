@@ -1,6 +1,6 @@
 # Beirut Groove Collective
 
-Beirut Groove Collective is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Fox and Firkin, London on Fri, 22 Jan 2027.
+Beirut Groove Collective is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Fox and Firkin, London on Fri, 22 Jan 2027.
 
 Beirut Groove Collective is a funk / soul and hip-hop artist based in United Kingdom, with 9 gigs on soundcheck across Hamburg, London, Milan and Paris and 1 more. Often billed alongside Ernesto Chahoud, Natalie Shooter and David Triana. Next up: The Fox and Firkin, London on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Beirut Groove Collective is a funk / soul and hip-hop artist based in United Kin
 
 Ernesto Chahoud, Natalie Shooter, David Triana
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beirutgroovecollective/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beirutgroovecollective/)*

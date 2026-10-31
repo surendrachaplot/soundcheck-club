@@ -1,6 +1,6 @@
 # KOFU
 
-KOFU is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kaiku, Helsinki on Sat, 7 Nov 2026.
+KOFU is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kaiku, Helsinki on Sat, 7 Nov 2026.
 
 KOFU is a house and bass artist based in Finland, with 46 gigs on soundcheck across Helsinki and Tallinn. Often billed alongside Saint Nia, Katerina and MORA (FI). Next up: Kaiku, Helsinki on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ KOFU is a house and bass artist based in Finland, with 46 gigs on soundcheck acr
 
 Saint Nia, Katerina, MORA (FI)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kofu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kofu/)*

@@ -1,15 +1,14 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Rocky Horror Picture Rave" on Fri, 30 Oct 2026.
+Haus73 is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Torture the Artist pres. eDEMi with eira haul (Limousine Dream, Slump Recordings / Berlin)" on Sat, 31 Oct 2026.
 
-Haus73 is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including eira haul, FUNKA04, Selin (DE) and TRAX. See dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
+Haus73 is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including eira haul, FUNKA04, Henry (DE) and Selin (DE) and 1 more. See dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Rocky Horror Picture Rave |  |
-| Sat, 31 Oct 2026 | Torture the Artist pres. eDEMi with eira haul (Limousine Dream, Slump Recordings / Berlin) | Selin (DE), eira haul |
+| Sat, 31 Oct 2026 | Torture the Artist pres. eDEMi with eira haul (Limousine Dream, Slump Recordings / Berlin) | Henry (DE), Selin (DE), eira haul |
 | Sat, 7 Nov 2026 | Joy Dispenser |  |
 | Sat, 21 Nov 2026 | OPERATION | FUNKA04 |
 | Fri, 27 Nov 2026 | TRAX | TRAX |
@@ -18,4 +17,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with l
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

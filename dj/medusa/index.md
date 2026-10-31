@@ -1,6 +1,6 @@
 # Medusa
 
-Medusa is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Spkrbox, Detroit on Sat, 31 Oct 2026.
+Medusa is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Spkrbox, Detroit on Sat, 31 Oct 2026.
 
 Medusa is a hardcore and gabber artist based in Germany, with 28 gigs on soundcheck across Basel, Bristol, Detroit and Dubai and 7 more. Often billed alongside Edgerunner, Pada and cyaabottom. Next up: Spkrbox, Detroit on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Medusa is a hardcore and gabber artist based in Germany, with 28 gigs on soundch
 
 Edgerunner, Pada, cyaabottom
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*

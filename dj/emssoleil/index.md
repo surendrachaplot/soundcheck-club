@@ -1,6 +1,6 @@
 # emssoleil
 
-emssoleil is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 13 Nov 2026.
+emssoleil is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 13 Nov 2026.
 
 emssoleil is a house and electro artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Bogotá and Rotterdam. Often billed alongside Snooz, Callie Reiff and Franky Sticks. Next up: Skatecafe, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ emssoleil is a house and electro artist based in Netherlands, with 14 gigs on so
 
 Snooz, Callie Reiff, Franky Sticks
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emssoleil/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emssoleil/)*

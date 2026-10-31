@@ -1,6 +1,6 @@
 # Takekiyo Ishimoto
 
-Takekiyo Ishimoto is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Joule, Osaka on Fri, 6 Nov 2026.
+Takekiyo Ishimoto is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Joule, Osaka on Fri, 6 Nov 2026.
 
 Takekiyo Ishimoto is a techno and progressive house artist based in Japan, with 27 gigs on soundcheck across Osaka. Often billed alongside Nao Nomura, TAMO and KONDO Mitsuo. Next up: Joule, Osaka on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Takekiyo Ishimoto is a techno and progressive house artist based in Japan, with 
 
 Nao Nomura, TAMO, KONDO Mitsuo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takekiyoishimoto-jp/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takekiyoishimoto-jp/)*

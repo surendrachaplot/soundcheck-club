@@ -1,6 +1,6 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cielo Farms Malibu, Los Angeles on Sat, 31 Oct 2026.
+Rodriguez Jr. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Cielo Farms Malibu, Los Angeles on Sat, 31 Oct 2026.
 
 Rodriguez Jr. is a house and techno artist based in United States of America, with 145 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 44 more. Often billed alongside Nick Warren, Bart Skils and Konstantin Sibold. Next up: Cielo Farms Malibu, Los Angeles on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Rodriguez Jr. is a house and techno artist based in United States of America, wi
 
 Nick Warren, Bart Skils, Konstantin Sibold
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

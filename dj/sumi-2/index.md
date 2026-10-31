@@ -1,6 +1,6 @@
 # sumi
 
-sumi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 26 Nov 2026.
+sumi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 26 Nov 2026.
 
 sumi is a techno and house artist, with 35 gigs on soundcheck across Amsterdam, Berlin, Bristol and Kyoto and 5 more. Often billed alongside AY, vince and Felix Rupprecht. Next up: ZEROTOKYO, Tokyo on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ sumi is a techno and house artist, with 35 gigs on soundcheck across Amsterdam, 
 
 AY (10), vince, Felix Rupprecht
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sumi-2/)*

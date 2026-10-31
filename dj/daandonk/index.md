@@ -1,6 +1,6 @@
 # Daan Donk
 
-Daan Donk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 15 Nov 2026.
+Daan Donk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Garage Noord, Amsterdam on Sun, 15 Nov 2026.
 
 Daan Donk is a house and techno artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Desyn, Mia Cecille and Idilay. Next up: Garage Noord, Amsterdam on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Daan Donk is a house and techno artist based in Netherlands, with 69 gigs on sou
 
 Desyn, Mia Cecille, Idilay
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daandonk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daandonk/)*

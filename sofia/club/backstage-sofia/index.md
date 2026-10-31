@@ -1,6 +1,6 @@
 # Backstage Sofia
 
-Backstage Sofia is a music venue in Sofia with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Backstage with Cosmo & Laylla Dane" on Sat, 7 Nov 2026.
+Backstage Sofia is a music venue in Sofia with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Backstage with Cosmo & Laylla Dane" on Sat, 7 Nov 2026.
 
 Backstage Sofia is a music venue in Sofia listed on soundcheck. 2 upcoming gigs, with line-ups including Cosmo (KR) and Laylla Dane. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Backstage Sofia is a music venue in Sofia listed on soundcheck. 2 upcoming gigs,
 | Sat, 7 Nov 2026 | Backstage with Cosmo & Laylla Dane | Cosmo (KR), Laylla Dane |
 | Fri, 20 Nov 2026 | Backstage |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/backstage-sofia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/backstage-sofia/)*

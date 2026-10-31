@@ -1,6 +1,6 @@
 # JASHTECH
 
-JASHTECH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Segelschiff Mare Frisium, Hamburg on Sat, 31 Oct 2026.
+JASHTECH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Segelschiff Mare Frisium, Hamburg on Sat, 31 Oct 2026.
 
 JASHTECH is a house and techno artist based in Germany, with 18 gigs on soundcheck across Hamburg. Often billed alongside NELØ, Alexej and CHICHO. Next up: Segelschiff Mare Frisium, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ JASHTECH is a house and techno artist based in Germany, with 18 gigs on soundche
 
 NELØ, Alexej, CHICHO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jashtech/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jashtech/)*

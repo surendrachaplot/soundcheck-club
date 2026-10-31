@@ -1,6 +1,6 @@
 # Megatronic
 
-Megatronic is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Night Tales, London on Fri, 6 Nov 2026.
+Megatronic is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Night Tales, London on Fri, 6 Nov 2026.
 
 Megatronic is a house and disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 12 more. Often billed alongside JKriv, Disgonuts and Aaron Dae. Next up: Night Tales, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Megatronic is a house and disco artist based in United Kingdom, with 63 gigs on 
 
 JKriv, Disgonuts, Aaron Dae
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megatronic/)*

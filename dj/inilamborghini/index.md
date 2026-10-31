@@ -1,6 +1,6 @@
 # Ini Lamborghini
 
-Ini Lamborghini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 7 Nov 2026.
+Ini Lamborghini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 7 Nov 2026.
 
 Ini Lamborghini is a techno and house artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside Bamela Paywatch, Pavelo Promillo and Rudolph Beuys. Next up: Humboldthain Club, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ini Lamborghini is a techno and house artist based in Germany, with 15 gigs on s
 
 Bamela Paywatch, Pavelo Promillo, Rudolph Beuys
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inilamborghini/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inilamborghini/)*

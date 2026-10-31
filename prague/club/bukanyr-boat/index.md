@@ -1,14 +1,13 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Decks - djs Blackloud (Diynamic, TAU), Topal, Mirko Solo" on Fri, 30 Oct 2026.
+Bukanyr Boat is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween - djs Omek, aros, Biodan" on Sat, 31 Oct 2026.
 
-Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including Ark3r, aros, Big Lil and Biodan and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
+Bukanyr Boat is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Ark3r, aros, Big Lil and Biodan and 2 more. See dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Decks - djs Blackloud (Diynamic, TAU), Topal, Mirko Solo | Blackloud, Topal |
 | Sat, 31 Oct 2026 | Halloween - djs Omek, aros, Biodan | Biodan, Omek, aros |
 | Fri, 6 Nov 2026 | Vilém, nnastie, Telly | DJ Vilém, Telly Savalas, nnastie |
 | Sat, 7 Nov 2026 | It's A Spiritual Thing - Ghándí, Z-Aires, Segment | Ghandi, Segment |
@@ -23,4 +22,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 10 upcoming gigs, 
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

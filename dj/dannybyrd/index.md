@@ -1,19 +1,19 @@
 # Danny Byrd
 
-Danny Byrd is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Black Box, Denver on Fri, 30 Oct 2026.
+Danny Byrd is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Sidney & Matilda, Sheffield on Fri, 13 Nov 2026.
 
-Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 46 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 19 more. Often billed alongside DJ SS, Bladerunner and Unglued. Next up: The Black Box, Denver on Fri 30 Oct.
+Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 46 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 19 more. Often billed alongside DJ SS, Bladerunner and Unglued. Next up: Sidney & Matilda, Sheffield on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | The Black Box | Denver |
 | Fri, 13 Nov 2026 | Sidney & Matilda | Sheffield |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
+- The Black Box, Denver · Fri, 30 Oct 2026
 - Meow Nui, Wellington · Sat, 17 Oct 2026
 - Studio the Venue, Auckland · Fri, 16 Oct 2026
 - The Court Hotel, Perth · Sat, 10 Oct 2026
@@ -21,10 +21,9 @@ Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 46 g
 - Watsons EQ, Sydney · Sat, 3 Oct 2026
 - The Jazz Cafe, London · Fri, 8 May 2026
 - Karma Live Music Venue, Washington DC · Sat, 14 Mar 2026
-- Quantum, New York City · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 DJ SS, Bladerunner, Unglued
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybyrd/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannybyrd/)*

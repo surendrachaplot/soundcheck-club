@@ -1,6 +1,6 @@
 # Redshift (2)
 
-Redshift (2) is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
+Redshift (2) is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
 
 Redshift is a house and electro artist based in United Kingdom, with 28 gigs on soundcheck across Leeds, London and Newcastle. Often billed alongside Cam Harrop, LEN. and Oliver Kristian. Next up: Eiger Studios, Leeds on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Redshift is a house and electro artist based in United Kingdom, with 28 gigs on 
 
 Cam Harrop, LEN., Oliver Kristian
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redshift-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/redshift-2/)*

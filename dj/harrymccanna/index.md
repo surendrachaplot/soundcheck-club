@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
+Harry McCanna is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Gaffe, London on Sat, 31 Oct 2026.
 
 Harry McCanna is a house and tech house artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Gaffe, London on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 141
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

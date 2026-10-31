@@ -1,18 +1,18 @@
 # Ryan Jones
 
-Ryan Jones is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Grow, London on Fri, 30 Oct 2026.
+Ryan Jones is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Vittoria Wharf Studio, London on Sun, 29 Nov 2026.
 
-Ryan Jones is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Voigtmann, Amaliah and Bekefi. Next up: Grow, London on Fri 30 Oct.
+Ryan Jones is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Voigtmann, Amaliah and Bekefi. Next up: Vittoria Wharf Studio, London on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Grow | London |
 | Sun, 29 Nov 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
+- Grow, London · Fri, 30 Oct 2026
 - Vittoria Wharf Studio, London · Sun, 25 Oct 2026
 - All My Friends, London · Sun, 30 Aug 2026
 - Vittoria Wharf Studio, London · Sun, 5 Apr 2026
@@ -25,4 +25,4 @@ Ryan Jones is a house and tech house artist based in United Kingdom, with 9 gigs
 
 Voigtmann, Amaliah, Bekefi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanjones/)*

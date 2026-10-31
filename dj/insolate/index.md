@@ -1,6 +1,6 @@
 # Insolate
 
-Insolate is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Trikotaža Factory pub, Croatia on Sat, 31 Oct 2026.
+Insolate is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Trikotaža Factory pub, Croatia on Sat, 31 Oct 2026.
 
 Insolate is a techno and house artist based in Croatia, with 60 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside GLIA, Asarri and Lady Starlight. Next up: Trikotaža Factory pub, Croatia on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Insolate is a techno and house artist based in Croatia, with 60 gigs on soundche
 
 GLIA, Asarri, Lady Starlight
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insolate/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/insolate/)*

@@ -1,6 +1,6 @@
 # Roi Perez
 
-Roi Perez is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ∄, Kyiv on Sat, 31 Oct 2026.
+Roi Perez is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ∄, Kyiv on Sat, 31 Oct 2026.
 
 Roi Perez is a house and techno artist based in Germany, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 61 more. Often billed alongside Partok, BASHKKA and David Elimelech. Next up: ∄, Kyiv on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Roi Perez is a house and techno artist based in Germany, with 241 gigs on soundc
 
 Partok, BASHKKA, David Elimelech
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roiperez/)*

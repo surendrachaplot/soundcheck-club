@@ -1,6 +1,6 @@
 # CHOREOPHILA
 
-CHOREOPHILA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
+CHOREOPHILA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
 
 CHOREOPHILA is a techno and house artist based in Germany, with 52 gigs on soundcheck across Berlin, Dresden, Krakow and Nantes. Often billed alongside Multifun, Schorli and Hanna Baertig. Next up: ://about blank, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ CHOREOPHILA is a techno and house artist based in Germany, with 52 gigs on sound
 
 Multifun, Schorli, Hanna Baertig
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choreophila/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/choreophila/)*

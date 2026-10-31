@@ -1,18 +1,18 @@
 # Lee Gamble
 
-Lee Gamble is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 30 Oct 2026.
+Lee Gamble is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 4 Dec 2026.
 
-Lee Gamble is a techno and experimental artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside ojoo, Crystallmess and JASSS. Next up: Depot Mayfield, Manchester on Fri 30 Oct.
+Lee Gamble is a techno and experimental artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside ojoo, Crystallmess and JASSS. Next up: Tresor / Globus, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 30 Oct 2026
 - Sonnenraum, Berlin · Sun, 30 Aug 2026
 - essaim, Paris · Sat, 16 May 2026
 - Ormside Projects, London · Sat, 4 Apr 2026
@@ -20,10 +20,9 @@ Lee Gamble is a techno and experimental artist based in United Kingdom, with 65 
 - Tresor / Globus, Berlin · Fri, 13 Mar 2026
 - 83 Rivington Street, London · Wed, 31 Dec 2025
 - Jasna 1, Warsaw · Fri, 21 Nov 2025
-- FOLD, London · Fri, 24 Oct 2025
 
 ## Shares bills with
 
 ojoo, Crystallmess, JASSS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leegamble/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leegamble/)*

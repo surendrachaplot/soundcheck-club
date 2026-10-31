@@ -1,6 +1,6 @@
 # Karim
 
-Karim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Outline, Mexico City on Wed, 28 Oct 2026.
+Karim is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Outline, Mexico City on Wed, 28 Oct 2026.
 
 Karim is a techno and house artist based in Russia, with 16 gigs on soundcheck across Bali, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Alsan, Anelle and Bastian Bell. Next up: Outline, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Karim is a techno and house artist based in Russia, with 16 gigs on soundcheck a
 
 Alsan, Anelle, Bastian Bell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karim/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karim/)*

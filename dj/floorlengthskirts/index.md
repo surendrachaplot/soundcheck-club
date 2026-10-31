@@ -1,6 +1,6 @@
 # floor length skirts
 
-floor length skirts is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Baumhaus, Bologna on Sat, 14 Nov 2026.
+floor length skirts is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Baumhaus, Bologna on Sat, 14 Nov 2026.
 
 floor length skirts is a house and balearic artist based in United Kingdom, with 30 gigs on soundcheck across Berlin, Bologna, Leeds and London and 5 more. Often billed alongside off supply, babyschön and DJ Subaru. Next up: TBA - Baumhaus, Bologna on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ floor length skirts is a house and balearic artist based in United Kingdom, with
 
 off supply, babyschön, DJ Subaru
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floorlengthskirts/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/floorlengthskirts/)*

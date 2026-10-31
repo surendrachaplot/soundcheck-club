@@ -1,6 +1,6 @@
 # Petar Tverkal
 
-Petar Tverkal is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jasna 1, Warsaw on Tue, 10 Nov 2026.
+Petar Tverkal is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Jasna 1, Warsaw on Tue, 10 Nov 2026.
 
 Petar Tverkal is a trance and techno artist, with 36 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Helga, Slowmode and Stroppy Pie. Next up: Jasna 1, Warsaw on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Petar Tverkal is a trance and techno artist, with 36 gigs on soundcheck across K
 
 Helga, Slowmode, Stroppy Pie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petartverkal/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petartverkal/)*

@@ -1,6 +1,6 @@
 # AK SPORTS
 
-AK SPORTS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Wan Chai Harbourfront, Hong Kong on Fri, 30 Oct 2026.
+AK SPORTS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wan Chai Harbourfront, Hong Kong on Fri, 30 Oct 2026.
 
 AK SPORTS is a techno and house artist based in Australia, with 8 gigs on soundcheck across Amsterdam, Brisbane, Hong Kong and Jacksonville and 4 more. Often billed alongside Riordan, salute and Bella Claxton. Next up: Wan Chai Harbourfront, Hong Kong on Fri 30 Oct.
 
@@ -17,6 +17,7 @@ AK SPORTS is a techno and house artist based in Australia, with 8 gigs on soundc
 
 ## Recently played
 
+- Wan Chai Harbourfront, Hong Kong · Fri, 30 Oct 2026
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - Melkweg, Amsterdam · Wed, 21 Oct 2026
 
@@ -24,4 +25,4 @@ AK SPORTS is a techno and house artist based in Australia, with 8 gigs on soundc
 
 Riordan, salute, Bella Claxton
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*

@@ -1,14 +1,13 @@
 # Index
 
-Index is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Index: Rendezvous Halloween Special" on Fri, 30 Oct 2026.
+Index is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Index: Miss Bashful + DBBD" on Sat, 31 Oct 2026.
 
-Index is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Alan Fitzpatrick, Anil Aras, Apollonia and Eddie Halliwell and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
+Index is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Alan Fitzpatrick, Anil Aras, Apollonia and Eddie Halliwell and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Index: Rendezvous Halloween Special |  |
 | Sat, 31 Oct 2026 | Index: Miss Bashful + DBBD | Miss Bashful x DBBD |
 | Fri, 6 Nov 2026 | Index: Eddie Halliwell & Mauro Picotto | Eddie Halliwell, Mauro Picotto |
 | Sat, 7 Nov 2026 | Riordan & Ranger Trucco | Ranger Trucco, Riordan |
@@ -23,4 +22,4 @@ Index is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with li
 
 57 Middle Abbey St, North City, Dublin 1, D01 W573, Dublin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/index/)*

@@ -1,6 +1,6 @@
 # Heedon
 
-Heedon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Elsewhere, New York City on Fri, 20 Nov 2026.
+Heedon is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Elsewhere, New York City on Fri, 20 Nov 2026.
 
 Heedon is a house and deep house artist, with 34 gigs on soundcheck across New York City. Often billed alongside Denninger, Drew Proud and Kipp. Next up: Elsewhere, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Heedon is a house and deep house artist, with 34 gigs on soundcheck across New Y
 
 Denninger, Drew Proud, Kipp
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heedon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heedon/)*

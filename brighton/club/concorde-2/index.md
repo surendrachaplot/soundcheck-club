@@ -1,14 +1,13 @@
 # Concorde 2
 
-Concorde 2 is a music venue in Brighton with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Born On Road: Brighton" on Fri, 30 Oct 2026.
+Concorde 2 is a music venue in Brighton with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Moody Disco Halloween Rave with Obskür" on Sat, 31 Oct 2026.
 
-Concorde 2 is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with line-ups including 2 Bad Mice, Aries, Coco Bryce and Culture Shock and 2 more. See dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
+Concorde 2 is a music venue in Brighton listed on soundcheck. 8 upcoming gigs, with line-ups including 2 Bad Mice, Coco Bryce, Culture Shock and Deefa and 2 more. See dates, start times and who's playing. 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Born On Road: Brighton | Aries, Kelvin 373 |
 | Sat, 31 Oct 2026 | Moody Disco Halloween Rave with Obskür | Obskur |
 | Sat, 31 Oct 2026 | Drum & Bass Classics: Brighton (Halloween All Dayer) | DJ Hazard, Deefa, Kleu, Logan D, Mampi Swift, Navigator, tnt (1) |
 | Fri, 6 Nov 2026 | It's A Jungle Out There: Coco Bryce & J:Kenzo | Coco Bryce, J:Kenzo |
@@ -22,4 +21,4 @@ Concorde 2 is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, w
 
 286A Madeira Drive; Brighton; BN2 1EN; United Kingdom, Brighton
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/concorde-2/)*

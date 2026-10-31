@@ -1,6 +1,6 @@
 # Mark Dynamix
 
-Mark Dynamix is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat, 28 Nov 2026.
+Mark Dynamix is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat, 28 Nov 2026.
 
 Mark Dynamix is a house and club artist based in Australia, with 11 gigs on soundcheck across Adelaide, Bali, Brisbane and Canberra and 2 more. Often billed alongside John Course, Robbie Lowe and Kate Monroe. Next up: TBA - Patrick White Lawns, Lake Burley Griffin, Canberra on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mark Dynamix is a house and club artist based in Australia, with 11 gigs on soun
 
 John Course, Robbie Lowe, Kate Monroe
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markdynamix/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markdynamix/)*

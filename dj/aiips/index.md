@@ -1,6 +1,6 @@
 # Aii PS
 
-Aii PS is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Locke, Hamburg on Sat, 31 Oct 2026.
+Aii PS is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Locke, Hamburg on Sat, 31 Oct 2026.
 
 Aii PS is an electronica and house artist based in Germany, with 28 gigs on soundcheck across Berlin, Hamburg, Tbilisi and Warsaw. Often billed alongside Jacob Knob, Ilja Franz and Acid Pablo. Next up: Locke, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Aii PS is an electronica and house artist based in Germany, with 28 gigs on soun
 
 Jacob Knob, Ilja Franz, Acid Pablo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiips/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aiips/)*

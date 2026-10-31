@@ -1,6 +1,6 @@
 # Cruel Mistress
 
-Cruel Mistress is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Studio 615, Nashville on Sat, 31 Oct 2026.
+Cruel Mistress is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Studio 615, Nashville on Sat, 31 Oct 2026.
 
 Cruel Mistress is a house and garage artist based in United States of America, with 9 gigs on soundcheck across Nashville. Often billed alongside Arht, Casa Nova and Juan Vargas. Next up: Studio 615, Nashville on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Cruel Mistress is a house and garage artist based in United States of America, w
 
 Arht, Casa Nova, Juan Vargas
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cruelmistress/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cruelmistress/)*

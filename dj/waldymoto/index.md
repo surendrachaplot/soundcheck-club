@@ -1,19 +1,19 @@
 # Waldymoto
 
-Waldymoto is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Fri, 30 Oct 2026.
+Waldymoto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at THF Radio / Torhaus, Berlin on Fri, 6 Nov 2026.
 
-Waldymoto is a techno and house artist based in Germany, with 38 gigs on soundcheck across Antwerp, Berlin, Cologne and Dortmund / Essen and 4 more. Often billed alongside mojo, Ariel (DE) and Anna Konda. Next up: Renate, Berlin on Fri 30 Oct.
+Waldymoto is a techno and house artist based in Germany, with 38 gigs on soundcheck across Antwerp, Berlin, Cologne and Dortmund / Essen and 4 more. Often billed alongside mojo, Ariel (DE) and Anna Konda. Next up: THF Radio / Torhaus, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Renate | Berlin |
 | Fri, 6 Nov 2026 | THF Radio / Torhaus | Berlin |
 | Sat, 21 Nov 2026 | TBA - Location in Telegram | Berlin |
 
 ## Recently played
 
+- Renate, Berlin · Fri, 30 Oct 2026
 - Tokonoma Club, Frankfurt · Fri, 9 Oct 2026
 - Sonnenraum, Berlin · Fri, 27 Feb 2026
 - Tresor / Globus, Berlin · Wed, 3 Dec 2025
@@ -21,10 +21,9 @@ Waldymoto is a techno and house artist based in Germany, with 38 gigs on soundch
 - Tresor.West, Dortmund / Essen · Fri, 31 Oct 2025
 - fi, Cologne · Fri, 6 Jun 2025
 - TBA, Berlin · Fri, 7 Mar 2025
-- CUBE, Düsseldorf · Fri, 17 Jan 2025
 
 ## Shares bills with
 
 mojo, Ariel (DE), Anna Konda
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waldymoto/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waldymoto/)*

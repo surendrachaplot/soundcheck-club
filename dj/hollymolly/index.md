@@ -1,6 +1,6 @@
 # Holly Molly
 
-Holly Molly is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 31 Oct 2026.
+Holly Molly is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 31 Oct 2026.
 
 Holly Molly is a house and deep house artist, with 17 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Morocco and 1 more. Often billed alongside Nathabes, Anzar and Deatra. Next up: Les Enfants Brillants, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Holly Molly is a house and deep house artist, with 17 gigs on soundcheck across 
 
 Nathabes, Anzar, Deatra
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollymolly/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollymolly/)*

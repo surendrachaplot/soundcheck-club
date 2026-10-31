@@ -1,6 +1,6 @@
 # J.Fernandes
 
-J.Fernandes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
+J.Fernandes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
 
 J.Fernandes is a techno and house artist, with 24 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Glasgow and 13 more. Often billed alongside DJ Rush, Airod and CESAR ALMENA. Next up: Inguz Club, Portugal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ J.Fernandes is a techno and house artist, with 24 gigs on soundcheck across Amst
 
 DJ Rush, Airod, CESAR ALMENA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/J.Fernandes/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/J.Fernandes/)*

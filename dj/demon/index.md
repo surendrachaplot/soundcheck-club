@@ -1,6 +1,6 @@
 # Demon
 
-Demon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Xero Club, Medellin on Sun, 1 Nov 2026.
+Demon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Xero Club, Medellin on Sun, 1 Nov 2026.
 
 Demon is a techno and industrial artist, with 27 gigs on soundcheck across Istanbul, Madrid and Medellin. Often billed alongside GHERAN, Hologramm and Andres Gil. Next up: Xero Club, Medellin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Demon is a techno and industrial artist, with 27 gigs on soundcheck across Istan
 
 GHERAN, Hologramm, Andres Gil
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demon/)*

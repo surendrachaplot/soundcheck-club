@@ -1,6 +1,6 @@
 # Jamahr
 
-Jamahr is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gianca - Murazzi, Turin on Sat, 31 Oct 2026.
+Jamahr is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Gianca - Murazzi, Turin on Sat, 31 Oct 2026.
 
 Jamahr is a tech house and techno artist based in Italy, with 15 gigs on soundcheck across London, Milan and Turin. Often billed alongside Alex Neri, Simon T and Bast. Next up: Gianca - Murazzi, Turin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jamahr is a tech house and techno artist based in Italy, with 15 gigs on soundch
 
 Alex Neri, Simon T, Bast
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamahr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamahr/)*

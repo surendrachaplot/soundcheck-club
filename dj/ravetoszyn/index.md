@@ -1,6 +1,6 @@
 # Ravetoszyn
 
-Ravetoszyn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ciało, Wroclaw on Sat, 21 Nov 2026.
+Ravetoszyn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ciało, Wroclaw on Sat, 21 Nov 2026.
 
 Ravetoszyn is a techno and trance artist, with 23 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Pan JJ, Wix Collina and Donija. Next up: Ciało, Wroclaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ravetoszyn is a techno and trance artist, with 23 gigs on soundcheck across Krak
 
 Pan JJ, Wix Collina, Donija
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravetoszyn/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ravetoszyn/)*

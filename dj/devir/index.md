@@ -1,6 +1,6 @@
 # De:Vir
 
-De:Vir is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 13 Nov 2026.
+De:Vir is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 13 Nov 2026.
 
 De:Vir is a techno and bass artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside OatMilk, Acidic Juice and COIDO. Next up: Crack Bellmer, Berlin on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ De:Vir is a techno and bass artist based in Germany, with 3 gigs on soundcheck a
 
 OatMilk, Acidic Juice, COIDO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devir/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/devir/)*

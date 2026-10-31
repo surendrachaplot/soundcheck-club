@@ -1,6 +1,6 @@
 # Lysia
 
-Lysia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Frisson, Rio de Janeiro on Sat, 31 Oct 2026.
+Lysia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Frisson, Rio de Janeiro on Sat, 31 Oct 2026.
 
 Lysia is a house and disco artist based in Brazil, with 39 gigs on soundcheck across Lisbon, Munich, Rio De Janeiro and Rio de Janeiro and 2 more. Often billed alongside Man From Rio, TropiCals and Beno. Next up: Frisson, Rio de Janeiro on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lysia is a house and disco artist based in Brazil, with 39 gigs on soundcheck ac
 
 Man From Rio, TropiCals, Beno
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lysia/)*

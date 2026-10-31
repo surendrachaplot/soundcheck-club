@@ -1,6 +1,6 @@
 # SHIFT K3Y
 
-SHIFT K3Y is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Aaja Basement, London on Sat, 5 Dec 2026.
+SHIFT K3Y is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Aaja Basement, London on Sat, 5 Dec 2026.
 
 SHIFT K3Y is a house and tech house artist, with 9 gigs on soundcheck across London and Los Angeles. Often billed alongside Benteki, Drinks On Me and GEM (UK). Next up: Aaja Basement, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ SHIFT K3Y is a house and tech house artist, with 9 gigs on soundcheck across Lon
 
 Benteki, Drinks On Me, GEM (UK)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftk3y/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftk3y/)*

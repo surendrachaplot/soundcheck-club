@@ -1,6 +1,6 @@
 # Hamdi
 
-Hamdi is a Dubstep and Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FORGE, Sheffield on Fri, 13 Nov 2026.
+Hamdi is a Dubstep and Bass artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at FORGE, Sheffield on Fri, 13 Nov 2026.
 
 Hamdi is a dubstep and bass artist based in Germany, with 69 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 28 more. Often billed alongside MPH, Oppidan and Flava D. Next up: FORGE, Sheffield on Fri 13 Nov.
 
@@ -33,4 +33,4 @@ Hamdi is a dubstep and bass artist based in Germany, with 69 gigs on soundcheck 
 
 MPH (1), Oppidan, Flava D
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdi/)*

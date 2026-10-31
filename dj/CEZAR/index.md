@@ -1,6 +1,6 @@
 # CEZAR
 
-CEZAR is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
+CEZAR is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
 
 CEZAR is a minimal and house artist, with 62 gigs on soundcheck across Athens, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside Gescu, Praslea and Mihigh. Next up: Club Guesthouse, Bucharest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ CEZAR is a minimal and house artist, with 62 gigs on soundcheck across Athens, B
 
 Gescu, Praslea, Mihigh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/CEZAR/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/CEZAR/)*

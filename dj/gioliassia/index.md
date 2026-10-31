@@ -1,6 +1,6 @@
 # Giolì & Assia
 
-Giolì & Assia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Zumana Bali, Bali on Fri, 20 Nov 2026.
+Giolì & Assia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Zumana Bali, Bali on Fri, 20 Nov 2026.
 
 Giolì & Assia are a techno and house duo based in Italy, with 92 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 36 more. Often billed alongside Nora En Pure, Black Coffee and 8KAYS. Next up: Zumana Bali, Bali on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Giolì & Assia are a techno and house duo based in Italy, with 92 gigs on soundc
 
 Nora En Pure, Black Coffee, 8KAYS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioliassia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioliassia/)*

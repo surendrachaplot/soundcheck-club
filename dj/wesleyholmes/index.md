@@ -1,6 +1,6 @@
 # Wesley Holmes
 
-Wesley Holmes is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 31 Oct 2026.
+Wesley Holmes is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Monkey Loft, Seattle on Sat, 31 Oct 2026.
 
 Wesley Holmes is a house and deep house artist based in United States of America, with 21 gigs on soundcheck across Seattle. Often billed alongside Brian Lyons, Julie Herrera and Black Velveteen. Next up: The Monkey Loft, Seattle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Wesley Holmes is a house and deep house artist based in United States of America
 
 Brian Lyons, Julie Herrera, Black Velveteen
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyholmes/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wesleyholmes/)*

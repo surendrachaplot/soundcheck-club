@@ -1,6 +1,6 @@
 # Tom2trax
 
-Tom2trax is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+Tom2trax is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
 Tom2trax is a house and italo disco artist based in United Kingdom, with 31 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Liam Oliver, James Greenwood and Kickin Pigeon. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tom2trax is a house and italo disco artist based in United Kingdom, with 31 gigs
 
 Liam Oliver, James Greenwood, Kickin Pigeon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2trax/)*

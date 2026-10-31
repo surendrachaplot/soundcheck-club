@@ -1,6 +1,6 @@
 # Mdlr
 
-Mdlr is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "[Bussy Temple x Strange Weather] KINNARI 001: BUSSY WEATHER" on Sat, 7 Nov 2026.
+Mdlr is a music venue in Singapore with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "[Bussy Temple x Strange Weather] KINNARI 001: BUSSY WEATHER" on Sat, 7 Nov 2026.
 
 Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with line-ups including Animistic Beliefs, charmicide, howrøng and Loyboy and 2 more. See dates, start times and who's playing. 62 Cecil Street #02-00, Singapore 049710.
 
@@ -17,4 +17,4 @@ Mdlr is a music venue in Singapore listed on soundcheck. 4 upcoming gigs, with l
 
 62 Cecil Street #02-00, Singapore 049710, Singapore
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/mdlr/)*

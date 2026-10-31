@@ -1,6 +1,6 @@
 # Miguel Bastida
 
-Miguel Bastida is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Edge Miami, Miami on Fri, 20 Nov 2026.
+Miguel Bastida is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Edge Miami, Miami on Fri, 20 Nov 2026.
 
 Miguel Bastida is a tech house and house artist based in Spain, with 27 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Lisbon and 6 more. Often billed alongside Wade, Daniel Aguilar and FISHER. Next up: Edge Miami, Miami on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Miguel Bastida is a tech house and house artist based in Spain, with 27 gigs on 
 
 Wade, Daniel Aguilar (2), FISHER
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelbastida/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelbastida/)*

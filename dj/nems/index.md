@@ -1,6 +1,6 @@
 # Nems
 
-Nems is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Parallel, Amsterdam on Sat, 31 Oct 2026.
+Nems is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Parallel, Amsterdam on Sat, 31 Oct 2026.
 
 Nems is a house and pop artist, with 10 gigs on soundcheck across Amsterdam, New York City, Rotterdam and Utrecht. Often billed alongside Benny Rodrigues, DJ Shahmaran and David Vunk. Next up: Parallel, Amsterdam on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Nems is a house and pop artist, with 10 gigs on soundcheck across Amsterdam, New
 
 Benny Rodrigues, DJ Shahmaran, David Vunk
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nems/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nems/)*

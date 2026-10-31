@@ -1,6 +1,6 @@
 # Doogi
 
-Doogi is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Top Floor, Newcastle on Sat, 31 Oct 2026.
+Doogi is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Top Floor, Newcastle on Sat, 31 Oct 2026.
 
 Doogi is a house and minimal techno artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Basel, Berlin and Dundee and 8 more. Often billed alongside DJ Bz, Sammy Peeps and Kirmelian. Next up: Top Floor, Newcastle on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Doogi is a house and minimal techno artist based in United Kingdom, with 51 gigs
 
 DJ Bz, Sammy Peeps, Kirmelian
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doogi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doogi/)*

@@ -1,6 +1,6 @@
 # Lucia Haze
 
-Lucia Haze is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Danger Danger, New York City on Sun, 1 Nov 2026.
+Lucia Haze is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Danger Danger, New York City on Sun, 1 Nov 2026.
 
 Lucia Haze is a house and tech house artist based in Mexico, with 19 gigs on soundcheck across New York City. Often billed alongside baby-g, Chillosophy and J.N.R.. Next up: Danger Danger, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Lucia Haze is a house and tech house artist based in Mexico, with 19 gigs on sou
 
 baby-g, Chillosophy, J.N.R.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciahaze/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciahaze/)*

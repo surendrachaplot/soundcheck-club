@@ -1,6 +1,6 @@
 # Los Suruba
 
-Los Suruba is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Esbirra Ibiza, Ibiza on Sat, 31 Oct 2026.
+Los Suruba is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Esbirra Ibiza, Ibiza on Sat, 31 Oct 2026.
 
 Los Suruba is a house and minimal artist based in Spain, with 41 gigs on soundcheck across Barcelona, Buenos Aires, Ibiza and Madrid and 1 more. Often billed alongside Amadori, Calabasa and Chelu Garcia. Next up: Esbirra Ibiza, Ibiza on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Los Suruba is a house and minimal artist based in Spain, with 41 gigs on soundch
 
 Amadori, Calabasa, Chelu Garcia
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lossuruba/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lossuruba/)*

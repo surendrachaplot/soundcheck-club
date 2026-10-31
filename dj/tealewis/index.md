@@ -1,6 +1,6 @@
 # Tea Lewis
 
-Tea Lewis is a Dubstep and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 22 Jan 2027.
+Tea Lewis is a Dubstep and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Pumpehuset, Copenhagen on Fri, 22 Jan 2027.
 
 Tea Lewis is a dubstep and baile funk artist based in United Kingdom, with 10 gigs on soundcheck across Copenhagen and London. Often billed alongside DJ Lukey, Gavnlig and Sound and Fury. Next up: Pumpehuset, Copenhagen on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Tea Lewis is a dubstep and baile funk artist based in United Kingdom, with 10 gi
 
 DJ Lukey, Gavnlig, Sound and Fury
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tealewis/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tealewis/)*

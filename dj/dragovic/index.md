@@ -1,6 +1,6 @@
 # Dragovic
 
-Dragovic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
+Dragovic is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
 
 Dragovic is a techno and trance artist based in Romania, with 26 gigs on soundcheck across Berlin, Copenhagen, Malmo and Paris. Often billed alongside Nora Asteroid, Astral Bandit and CERJ. Next up: Den Anden Side, Copenhagen on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dragovic is a techno and trance artist based in Romania, with 26 gigs on soundch
 
 Nora Asteroid, Astral Bandit, CERJ
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragovic/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragovic/)*

@@ -1,6 +1,6 @@
 # Der Würfler
 
-Der Würfler is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
+Der Würfler is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
 
 Der Würfler is a techno and tech house artist based in Germany, with 41 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Tanith, WolleXDP and DJ Jauche. Next up: Der Weiße Hase, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Der Würfler is a techno and tech house artist based in Germany, with 41 gigs on
 
 Tanith, WolleXDP, DJ Jauche
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derwurfler/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/derwurfler/)*

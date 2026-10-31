@@ -1,6 +1,6 @@
 # iCKY
 
-iCKY is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
+iCKY is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
 
 iCKY is a techno and trance artist based in United States of America, with 17 gigs on soundcheck across Miami, New York City and Orlando. Often billed alongside DomnRob, CÛLTÛS VÎS and Dadrev. Next up: Market Hotel, New York City on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ iCKY is a techno and trance artist based in United States of America, with 17 gi
 
 DomnRob, CÛLTÛS VÎS, Dadrev
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icky/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icky/)*

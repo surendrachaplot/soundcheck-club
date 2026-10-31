@@ -1,6 +1,6 @@
 # 1535 N. Ashland
 
-1535 N. Ashland is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Midwest Rave Culture Archive Exhibition" on Sat, 14 Nov 2026.
+1535 N. Ashland is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Midwest Rave Culture Archive Exhibition" on Sat, 14 Nov 2026.
 
 1535 N. Ashland is a music venue in Chicago listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Midwest Rave Culture Archive Exhibition |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/1535-n-ashland/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/1535-n-ashland/)*

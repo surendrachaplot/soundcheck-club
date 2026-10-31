@@ -1,6 +1,6 @@
 # Rampe 70
 
-Rampe 70 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "ECSTATIC DANCE DANCE WITH THE SHADOW HALLOWEEN" on Sat, 31 Oct 2026.
+Rampe 70 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ECSTATIC DANCE DANCE WITH THE SHADOW HALLOWEEN" on Sat, 31 Oct 2026.
 
 Rampe 70 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Psysoul. See dates, start times and who's playing. Hermetschloostrasse 70, 8048 Zürich, Switzerland.
 
@@ -15,4 +15,4 @@ Rampe 70 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with 
 
 Hermetschloostrasse 70, 8048 Zürich, Switzerland, Zurich
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rampe-70/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rampe-70/)*

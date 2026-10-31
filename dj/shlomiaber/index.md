@@ -1,6 +1,6 @@
 # Shlomi Aber
 
-Shlomi Aber is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 12 Nov 2026.
+Shlomi Aber is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Les Enfants Brillants, Barcelona on Thu, 12 Nov 2026.
 
 Shlomi Aber is a techno and tech house artist based in Spain, with 28 gigs on soundcheck across Barcelona, Berlin, Budapest and Lisbon and 4 more. Often billed alongside Flug, Linkan Ray and Kashpitzky. Next up: Les Enfants Brillants, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Shlomi Aber is a techno and tech house artist based in Spain, with 28 gigs on so
 
 Flug, Linkan Ray, Kashpitzky
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shlomiaber/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shlomiaber/)*

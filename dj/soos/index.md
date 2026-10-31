@@ -1,6 +1,6 @@
 # Soos
 
-Soos is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
+Soos is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
 
 Soos is a house and italo disco artist based in Mexico, with 104 gigs on soundcheck across Barcelona, Berlin, Bogotá and Denver and 17 more. Often billed alongside Rafatel, papa jazz and Palmi. Next up: Drama Radio Bar, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Soos is a house and italo disco artist based in Mexico, with 104 gigs on soundch
 
 Rafatel, papa jazz, Palmi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soos/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/soos/)*

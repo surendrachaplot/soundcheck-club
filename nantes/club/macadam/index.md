@@ -1,14 +1,13 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 22 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia" on Fri, 30 Oct 2026.
+Macadam is a music venue in Nantes with 21 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Macadam x DREAMLAND • Peach ~ IAMBP ~ Maï-Linh" on Sat, 31 Oct 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 22 upcoming gigs, with line-ups including Akira Yamagata, Alexia, Bambi (FR) and Bella Sarris and 2 more. See dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 21 upcoming gigs, with line-ups including Akira Yamagata, Alexia, Bambi (FR) and Bella Sarris and 2 more. See dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia | Carrier, Garçon, Redluved, Sinesthesia |
 | Sat, 31 Oct 2026 | Macadam x DREAMLAND • Peach ~ IAMBP ~ Maï-Linh | IAMBP, Maï-Linh, Peach |
 | Sat, 7 Nov 2026 | Macadam • Mohammad Reza Mortazavi (live) ~ Luisa ~ OLGA B. ~ Bambi - curated by Bambi | Bambi (FR), Luisa, Mohammad Reza Mortazavi, OLGA B. |
 | Sun, 8 Nov 2026 | Gloria • u.r.trax ~ Bella Sarris ~ Moksha ~ GTI ~ Heidy Fly | Bella Sarris, GTI, Heidy Fly, u.r.trax |
@@ -18,9 +17,10 @@ Macadam is a music venue in Nantes listed on soundcheck. 22 upcoming gigs, with 
 | Fri, 20 Nov 2026 | Macadam • Manfredas ~ Amor Leone ~ Ottäkam | Manfredas, Ottäkam |
 | Sat, 21 Nov 2026 | Macadam Expansion • Elli Acula ~ Nene H ~ Kamen | Elli Acula, Kamen (FR), Nene H |
 | Sat, 28 Nov 2026 | Macadam • Darwin ~ Christian Coiffure (live) ~ Slodki | Christian Coiffure, Darwin, Slodki |
+| Fri, 4 Dec 2026 | Macadam • Binary Digit (live) ~ Multifun ~ Somoine B2B CHOREOPHILA | Binary Digit, CHOREOPHILA, Multifun, Somoine |
 
 ## Address
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

@@ -1,6 +1,6 @@
 # Serena Thunderbolt (2)
 
-Serena Thunderbolt (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Serena Thunderbolt (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 Serena Thunderbolt is a techno and electronica artist based in Italy, with 12 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 1 more. Often billed alongside Erica (IT), A.I.F.O.S. and AVA. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Serena Thunderbolt is a techno and electronica artist based in Italy, with 12 gi
 
 Erica (IT), A.I.F.O.S., AVA (3)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenathunderbolt-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/serenathunderbolt-2/)*

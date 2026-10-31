@@ -1,6 +1,6 @@
 # Ido Plumes
 
-Ido Plumes is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Love Inn, Bristol on Fri, 20 Nov 2026.
+Ido Plumes is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Love Inn, Bristol on Fri, 20 Nov 2026.
 
 Ido Plumes is a club and techno artist, with 34 gigs on soundcheck across Bristol, London and Sheffield. Often billed alongside Chez de Milo, Lukas Wigflex and Willow. Next up: The Love Inn, Bristol on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Ido Plumes is a club and techno artist, with 34 gigs on soundcheck across Bristo
 
 Chez de Milo, Lukas Wigflex, Willow
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idoplumes/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idoplumes/)*

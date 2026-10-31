@@ -1,6 +1,6 @@
 # Turtur
 
-Turtur is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Back to the Turtur" on Fri, 30 Oct 2026.
+Turtur is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Back to the Turtur" on Fri, 30 Oct 2026.
 
 Turtur is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Atomlui, Audio Werner, Bouncing Mirrors and Caro Vola and 2 more. See dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Turtur is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with l
 
 Am Veringhof 13, 21107, Hamburg, Germany, Hamburg
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*

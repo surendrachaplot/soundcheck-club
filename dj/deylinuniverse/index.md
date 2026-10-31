@@ -1,6 +1,6 @@
 # Deylin Universe
 
-Deylin Universe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Deylin Universe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
 Deylin Universe is a techno and house artist, with 9 gigs on soundcheck across Berlin, Cape Town and Vienna. Often billed alongside Ben Probert, Hypoestes and Soulchoke. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Deylin Universe is a techno and house artist, with 9 gigs on soundcheck across B
 
 Ben Probert, Hypoestes, Soulchoke
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deylinuniverse/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deylinuniverse/)*

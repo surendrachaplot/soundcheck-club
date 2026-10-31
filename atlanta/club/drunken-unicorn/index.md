@@ -1,6 +1,6 @@
 # Drunken Unicorn
 
-Drunken Unicorn is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hoochie Palace x DickAppointment (ATLANTA)" on Sat, 12 Dec 2026.
+Drunken Unicorn is a music venue in Atlanta with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Hoochie Palace x DickAppointment (ATLANTA)" on Sat, 12 Dec 2026.
 
 Drunken Unicorn is a music venue in Atlanta listed on soundcheck. 1 upcoming gig, with line-ups including SKY JETTA. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Drunken Unicorn is a music venue in Atlanta listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Hoochie Palace x DickAppointment (ATLANTA) | SKY JETTA |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/drunken-unicorn/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/atlanta/club/drunken-unicorn/)*

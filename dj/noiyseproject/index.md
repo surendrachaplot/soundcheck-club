@@ -1,6 +1,6 @@
 # NOIYSE PROJECT
 
-NOIYSE PROJECT is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Sol Sky Bar, Canopy by Hilton, Al Seef, Dubai on Sat, 28 Nov 2026.
+NOIYSE PROJECT is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Sol Sky Bar, Canopy by Hilton, Al Seef, Dubai on Sat, 28 Nov 2026.
 
 NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with 35 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 12 more. Often billed alongside Aaiste, Emi Galvan and Mark Craven. Next up: TBA - Sol Sky Bar, Canopy by Hilton, Al Seef, Dubai on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ NOIYSE PROJECT is a progressive house and techno artist based in Sri Lanka, with
 
 Aaiste, Emi Galvan, Mark Craven
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noiyseproject/)*

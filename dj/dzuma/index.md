@@ -1,6 +1,6 @@
 # dzuma
 
-dzuma is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jasna 1, Warsaw on Fri, 6 Nov 2026.
+dzuma is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Jasna 1, Warsaw on Fri, 6 Nov 2026.
 
 dzuma is a techno and electro artist, with 25 gigs on soundcheck across Berlin, Krakow, Prague and Warsaw. Often billed alongside Dyktando, Galas and PLATTER. Next up: Jasna 1, Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ dzuma is a techno and electro artist, with 25 gigs on soundcheck across Berlin, 
 
 Dyktando, Galas, PLATTER
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzuma/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzuma/)*

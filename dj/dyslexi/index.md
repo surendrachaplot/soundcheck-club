@@ -1,6 +1,6 @@
 # Dyslexi
 
-Dyslexi is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
+Dyslexi is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
 
 Dyslexi is a house and garage artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Berunth, Yukon Nature and Cosmic Cherry. Next up: Paloma, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Dyslexi is a house and garage artist based in Germany, with 10 gigs on soundchec
 
 Berunth, Yukon Nature, Cosmic Cherry
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyslexi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dyslexi/)*

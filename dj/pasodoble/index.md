@@ -1,6 +1,6 @@
 # Paso Doble
 
-Paso Doble is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
+Paso Doble is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Le Sainte-Catherine Hall, Montreal on Sat, 31 Oct 2026.
 
 Paso Doble is a house and deep house artist based in Canada, with 23 gigs on soundcheck across Dubai, Geneva, Ibiza and Istanbul and 6 more. Often billed alongside Jay Fase, AJNA and Acid Pauli. Next up: Le Sainte-Catherine Hall, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Paso Doble is a house and deep house artist based in Canada, with 23 gigs on sou
 
 Jay Fase, AJNA, Acid Pauli
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasodoble/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pasodoble/)*

@@ -1,6 +1,6 @@
 # Dale Castell
 
-Dale Castell is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 31 Oct 2026.
+Dale Castell is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mint Warehouse, Leeds on Sat, 31 Oct 2026.
 
 Dale Castell is a trance and house artist based in United Kingdom, with 15 gigs on soundcheck across Ibiza and Leeds. Often billed alongside Rob Tissera, John Marshall and Lange. Next up: Mint Warehouse, Leeds on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dale Castell is a trance and house artist based in United Kingdom, with 15 gigs 
 
 Rob Tissera, John Marshall, Lange
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalecastell/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dalecastell/)*

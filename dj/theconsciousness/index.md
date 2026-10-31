@@ -1,6 +1,6 @@
 # The Consciousness
 
-The Consciousness is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Boston, Boston on Sat, 31 Oct 2026.
+The Consciousness is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Boston, Boston on Sat, 31 Oct 2026.
 
 The Consciousness is a techno and acid artist based in Colombia, with 42 gigs on soundcheck across Boston and New York City. Often billed alongside Lufer, Steph Angel and ANDRÉS GARCIL. Next up: TBA - Boston, Boston on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ The Consciousness is a techno and acid artist based in Colombia, with 42 gigs on
 
 Lufer, Steph Angel, ANDRÉS GARCIL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theconsciousness/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theconsciousness/)*

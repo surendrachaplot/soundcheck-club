@@ -1,6 +1,6 @@
 # Ka Baird
 
-Ka Baird is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Silent Green, Berlin on Wed, 2 Dec 2026.
+Ka Baird is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Silent Green, Berlin on Wed, 2 Dec 2026.
 
 Ka Baird is an experimental and electronica artist based in United States of America, with 14 gigs on soundcheck across Adelaide, Berlin, Krakow and Los Angeles and 4 more. Often billed alongside 2K88, Actress and Bianca Scout. Next up: Silent Green, Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Ka Baird is an experimental and electronica artist based in United States of Ame
 
 2K88, Actress, Bianca Scout
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabaird/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kabaird/)*

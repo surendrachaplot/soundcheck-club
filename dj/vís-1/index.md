@@ -1,6 +1,6 @@
 # Vís (1)
 
-Vís (1) is a Techno and Dub artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Forestlimit, Tokyo on Wed, 4 Nov 2026.
+Vís (1) is a Techno and Dub artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Forestlimit, Tokyo on Wed, 4 Nov 2026.
 
 Vís is a techno and dub artist based in Japan, with 137 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Ryogo, Chanaz and E.O.U. Next up: Forestlimit, Tokyo on Wed 4 Nov.
 
@@ -28,4 +28,4 @@ Vís is a techno and dub artist based in Japan, with 137 gigs on soundcheck acro
 
 Ryogo, Chanaz, E.O.U
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vís-1/)*

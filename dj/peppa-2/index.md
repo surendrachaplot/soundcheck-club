@@ -1,6 +1,6 @@
 # PEPPA (2)
 
-PEPPA (2) is a Footwork and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Secret Location, London on Fri, 20 Nov 2026.
+PEPPA (2) is a Footwork and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Secret Location, London on Fri, 20 Nov 2026.
 
 PEPPA is a footwork and hardcore artist based in United Kingdom, with 30 gigs on soundcheck across Bristol, London, Manchester and Sheffield. Often billed alongside Sleazebag, Shirley Temper and Rodney. Next up: Secret Location, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ PEPPA is a footwork and hardcore artist based in United Kingdom, with 30 gigs on
 
 Sleazebag, Shirley Temper, Rodney
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peppa-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peppa-2/)*

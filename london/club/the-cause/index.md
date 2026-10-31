@@ -1,14 +1,13 @@
 # The Cause
 
-The Cause is a music venue in London with 28 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cirque Du Soul: London // Halloween Special // 20 TICKETS LEFT" on Fri, 30 Oct 2026.
+The Cause is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "The Cause: Halloween Festival" on Sat, 31 Oct 2026.
 
-The Cause is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including 4000 Hz, 808 State, KT and Acid Sally and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
+The Cause is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including 4000 Hz, 808 State, KT and Acid Sally and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Cirque Du Soul: London // Halloween Special // 20 TICKETS LEFT | KING BOOO!, Laurence Guy, SHEE |
 | Sat, 31 Oct 2026 | The Cause: Halloween Festival | Acid Sally, Adiel, BLUMITSU, Billy Jack, Blixa, D'vey, Dan Anderson, Deetron, Deselecta, El-B, Ellie Anderson, Ellie Stokes, FAFF, Flash Mitra, Frank Haag, Freja, Gabber Eleganza, H-Foundation, Hannah Holland, ISAbella, Joe Murphy, Jos, KT, Kylie Wears Berghaus, Michelle Manetti, Modeselektor, Mr James, Nick Clev, Nina Yamada, SLVN, Sam Beach, Studio Batsumi, Z@p, Zenker Brothers, ketia |
 | Sun, 1 Nov 2026 | LOCUS x Modern Funktion Halloween | A For Alpha, Alexandria, Archie Hamilton, Benji King, Cam Stockman, Captain Wallop, DAISY, DJ Split, DXNBY, Dr Dubplate, Garrett David, Gaskin, Hidde van Wee, Izzy, Jude Lenihan, Local Dub, Locky, Lucas Alexander, Luuk van Dijk, MADVILLA, Mella Dee, Mya (1), Oldboy, Phill de Janeiro, Rich NXT, Watchers, j:me, jWave |
 | Fri, 6 Nov 2026 | I Love Acid presents DJ Pierre + 808 State + Lauren Flax | 808 State, DJ Pierre, Jon Dasilva, Lauren Flax, Posthuman |
@@ -18,9 +17,10 @@ The Cause is a music venue in London listed on soundcheck. 28 upcoming gigs, wit
 | Sat, 14 Nov 2026 | Body Movements Winter Festival |  |
 | Fri, 20 Nov 2026 | Bass Face // DNB // 360° BOILER ROOM *VERY SPECIAL GUESTS*! |  |
 | Fri, 20 Nov 2026 | XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – |  |
+| Fri, 20 Nov 2026 | Teletech: London Mandidextrous | 4000 Hz, Antonym, LIL DARK ONE, Mandidextrous |
 
 ## Address
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

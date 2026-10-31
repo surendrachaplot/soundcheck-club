@@ -1,6 +1,6 @@
 # Kode9
 
-Kode9 is a Bass and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Kode9 is a Bass and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Kode9 is a bass and experimental artist based in United Kingdom, with 141 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 53 more. Often billed alongside Tim Reaper, Mala and Skee Mask. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -29,4 +29,4 @@ Kode9 is a bass and experimental artist based in United Kingdom, with 141 gigs o
 
 Tim Reaper, Mala, Skee Mask
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kode9/)*

@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK" on Sat, 31 Oct 2026.
+Lark is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "VRAUWEEN ཐི ₍^.ˬˬ.^₎ ཋྀ 2 CLUBS: QUEER BAILE FUNK" on Sat, 31 Oct 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including _hiø, auto_timer, BAMBI (UK) and DJ Pichula and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -21,4 +21,4 @@ Lark is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

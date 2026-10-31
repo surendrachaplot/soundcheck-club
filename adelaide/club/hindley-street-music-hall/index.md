@@ -1,6 +1,6 @@
 # Hindley Street Music Hall
 
-Hindley Street Music Hall is a music venue in Adelaide with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Kool & The Gang + Sister Sledge feat. Slegendary [Adelaide]" on Mon, 30 Nov 2026.
+Hindley Street Music Hall is a music venue in Adelaide with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Kool & The Gang + Sister Sledge feat. Slegendary [Adelaide]" on Mon, 30 Nov 2026.
 
 Hindley Street Music Hall is a music venue in Adelaide listed on soundcheck. 3 upcoming gigs, with line-ups including Aline Rocha, Late Nite Tuff Guy, The Shapeshifters and SWIM (AU). See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ Hindley Street Music Hall is a music venue in Adelaide listed on soundcheck. 3 u
 | Sat, 13 Feb 2027 | SWIM - AU Tour 2027 | SWIM (AU) |
 | Sat, 6 Mar 2027 | Glitterbox Adelaide 2027 | Aline Rocha, Late Nite Tuff Guy, The Shapeshifters |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/hindley-street-music-hall/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/hindley-street-music-hall/)*

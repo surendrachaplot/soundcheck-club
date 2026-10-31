@@ -1,14 +1,13 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Resting in the Arms of Morpheus AFTERPARTY" on Fri, 30 Oct 2026.
+Den Anden Side is a music venue in Copenhagen with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Zeitgeist: Immortal" on Sat, 31 Oct 2026.
 
-Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming gigs, with line-ups including abs8lute, ALiNA, Anastasia Kristensen and Anders Horse and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
+Den Anden Side is a music venue in Copenhagen listed on soundcheck. 10 upcoming gigs, with line-ups including abs8lute, Anastasia Kristensen, Anders Horse and Asta Fugazi and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Resting in the Arms of Morpheus AFTERPARTY | ALiNA, Beste Hira, Lukas Danys |
 | Sat, 31 Oct 2026 | Zeitgeist: Immortal | BitterCaress, DJ 2LATE, Fanni Fluid, Karim Alkhayat, steamboi |
 | Sat, 31 Oct 2026 | Zeitgeist invites: Astral Bandit & Dragovic | Astral Bandit, Dragovic |
 | Fri, 6 Nov 2026 | 9HRS of ESCAPISM ft Octave One Live + Denis Horvat + Prom Night + Sakena | Denis Horvat, Octave One, Prom Night, Sakena Ali |
@@ -18,9 +17,10 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 11 upcoming 
 | Fri, 20 Nov 2026 | International Transgender day of Remembrance by BASH IS BACK | Baltza, DJ Woo Girl, Delove, Dgeral, Gavnlig, Immy |
 | Fri, 27 Nov 2026 | One Dragon Service with CEM & DJ TOOL | CEM, DJ TOOL |
 | Sat, 28 Nov 2026 | Søstre i Trance - Soup of the Night | Asta Fugazi, Filen, My Gander, Signe Alarcón |
+| Fri, 4 Dec 2026 | BAUGRUPPE90 x Lisa Korver & MORE | BAUGRUPPE90, Lisa Korver, SUE SIX |
 
 ## Address
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

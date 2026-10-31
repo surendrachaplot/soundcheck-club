@@ -1,6 +1,6 @@
 # Aliceyuki
 
-Aliceyuki is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at R Lounge, Tokyo on Sat, 31 Oct 2026.
+Aliceyuki is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at R Lounge, Tokyo on Sat, 31 Oct 2026.
 
 Aliceyuki is a techno and bass artist based in Japan, with 57 gigs on soundcheck across Barcelona, Chubu, Osaka and Paris and 2 more. Often billed alongside M.I.O, akii and cera. Next up: R Lounge, Tokyo on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Aliceyuki is a techno and bass artist based in Japan, with 57 gigs on soundcheck
 
 M.I.O, akii, cera
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyuki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aliceyuki/)*

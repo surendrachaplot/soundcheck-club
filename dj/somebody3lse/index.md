@@ -1,6 +1,6 @@
 # somebody3lse
 
-somebody3lse is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 31 Oct 2026.
+somebody3lse is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bar Le Ritz PDB, Montreal on Sat, 31 Oct 2026.
 
 somebody3lse is a bass and house artist based in United Kingdom, with 57 gigs on soundcheck across Montreal. Often billed alongside CMD, Emil Paquin and Mok-T. Next up: Bar Le Ritz PDB, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ somebody3lse is a bass and house artist based in United Kingdom, with 57 gigs on
 
 CMD, Emil Paquin, Mok-T
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*

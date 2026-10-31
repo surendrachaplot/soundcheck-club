@@ -1,14 +1,13 @@
 # Das Zimmer
 
-Das Zimmer is a music venue in Mannheim with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "DJ DRECKISCH" on Fri, 30 Oct 2026.
+Das Zimmer is a music venue in Mannheim with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLOWEEN" on Sat, 31 Oct 2026.
 
-Das Zimmer is a music venue in Mannheim listed on soundcheck. 10 upcoming gigs, with line-ups including alejandrø, DJ DRECKISCH, DJ Unholy and FENIM0RE and 2 more. See dates, start times and who's playing. Q5 Passage 14-22, 68161, Mannheim.
+Das Zimmer is a music venue in Mannheim listed on soundcheck. 9 upcoming gigs, with line-ups including alejandrø, DJ Unholy, FENIM0RE and Kø:lab and 2 more. See dates, start times and who's playing. Q5 Passage 14-22, 68161, Mannheim.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | DJ DRECKISCH | DJ DRECKISCH |
 | Sat, 31 Oct 2026 | HALLOWEEN |  |
 | Fri, 6 Nov 2026 | Rasselbande Showcase |  |
 | Sun, 8 Nov 2026 | ROWdeo | Matthias Tanzmann, Merissa Mahilaa, RDL.wav |
@@ -23,4 +22,4 @@ Das Zimmer is a music venue in Mannheim listed on soundcheck. 10 upcoming gigs, 
 
 Q5 Passage 14-22, 68161, Mannheim, Mannheim
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/das-zimmer/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/das-zimmer/)*

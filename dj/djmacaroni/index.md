@@ -1,6 +1,6 @@
 # DJ MACARONI
 
-DJ MACARONI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 7 Nov 2026.
+DJ MACARONI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 7 Nov 2026.
 
 DJ MACARONI is a house and techno artist based in Australia, with 34 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside JOVE, 1tbsp and Bag Raiders. Next up: Chinese Laundry, Sydney on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ MACARONI is a house and techno artist based in Australia, with 34 gigs on sou
 
 JOVE, 1tbsp, Bag Raiders
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmacaroni/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmacaroni/)*

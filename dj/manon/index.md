@@ -1,6 +1,6 @@
 # Manon
 
-Manon is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Manon is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Manon is a techno and electronica artist, with 11 gigs on soundcheck across Berlin, Ghent, Hesse and Tokyo and 2 more. Often billed alongside STARKIDS, ecec and HIMAWARI. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Manon is a techno and electronica artist, with 11 gigs on soundcheck across Berl
 
 STARKIDS, ecec, HIMAWARI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manon/)*

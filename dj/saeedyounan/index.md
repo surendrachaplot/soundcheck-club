@@ -1,6 +1,6 @@
 # Saeed Younan
 
-Saeed Younan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wiggle Room, Toronto on Sat, 19 Dec 2026.
+Saeed Younan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Wiggle Room, Toronto on Sat, 19 Dec 2026.
 
 Saeed Younan is a house and tech house artist based in United States of America, with 29 gigs on soundcheck across Berlin, Los Angeles, Miami and Montreal and 5 more. Often billed alongside SPCL.K, DJ T.E.C. and Neko Berg. Next up: Wiggle Room, Toronto on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Saeed Younan is a house and tech house artist based in United States of America,
 
 SPCL.K, DJ T.E.C., Neko Berg
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saeedyounan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saeedyounan/)*

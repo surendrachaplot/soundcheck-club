@@ -1,6 +1,6 @@
 # Tigerbalm
 
-Tigerbalm is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ROCA HIFI, Mexico City on Wed, 28 Oct 2026.
+Tigerbalm is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ROCA HIFI, Mexico City on Wed, 28 Oct 2026.
 
 Tigerbalm is a house and disco artist based in United Kingdom, with 61 gigs on soundcheck across Barcelona, Bristol, Edinburgh and Guadalajara and 11 more. Often billed alongside JKriv, Bill Brewster and Crazy P. Next up: ROCA HIFI, Mexico City on Wed 28 Oct.
 
@@ -26,4 +26,4 @@ Tigerbalm is a house and disco artist based in United Kingdom, with 61 gigs on s
 
 JKriv, Bill Brewster, Crazy P
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerbalm-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tigerbalm-2/)*

@@ -1,6 +1,6 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Nina Kraviz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 Nina Kraviz is a techno and house artist based in Russia, with 179 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -18,6 +18,7 @@ Nina Kraviz is a techno and house artist based in Russia, with 179 gigs on sound
 
 ## Recently played
 
+- NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - essaim, Paris · Sun, 25 Oct 2026
 - THE OTHER SIDE, Amsterdam · Sun, 25 Oct 2026
 - The Social Hub Amsterdam City, Amsterdam · Sat, 24 Oct 2026
@@ -25,10 +26,9 @@ Nina Kraviz is a techno and house artist based in Russia, with 179 gigs on sound
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - Parc d’Atraccions del Tibidabo, Barcelona · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
-- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

@@ -1,6 +1,6 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Refuge, New York City on Sat, 31 Oct 2026.
+Nicole Moudaber is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Refuge, New York City on Sat, 31 Oct 2026.
 
 Nicole Moudaber is a techno and house artist based in United Kingdom, with 147 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 46 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Refuge, New York City on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, with 147 g
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

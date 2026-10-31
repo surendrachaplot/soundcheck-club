@@ -1,6 +1,6 @@
 # Dj Lynce
 
-Dj Lynce is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
+Dj Lynce is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
 
 Dj Lynce is a techno and experimental artist based in Portugal, with 39 gigs on soundcheck across Berlin, Lisbon, Porto and Portugal. Often billed alongside Nuno Beats, Nídia and Pisitakun. Next up: TBA - Various Venues, Guimarães, PT, Portugal on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ Dj Lynce is a techno and experimental artist based in Portugal, with 39 gigs on 
 
 Nuno Beats, Nídia, Pisitakun
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlynce/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djlynce/)*

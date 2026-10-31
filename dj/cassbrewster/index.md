@@ -1,6 +1,6 @@
 # Cass Brewster
 
-Cass Brewster is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at XOYO, London on Wed, 4 Nov 2026.
+Cass Brewster is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at XOYO, London on Wed, 4 Nov 2026.
 
 Cass Brewster is a tech house and minimal artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside El Cassar, MADAMA and 00ab. Next up: XOYO, London on Wed 4 Nov.
 
@@ -24,4 +24,4 @@ Cass Brewster is a tech house and minimal artist based in United Kingdom, with 8
 
 El Cassar, MADAMA, 00ab
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassbrewster/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassbrewster/)*

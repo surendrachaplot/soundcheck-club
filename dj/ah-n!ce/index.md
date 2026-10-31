@@ -1,6 +1,6 @@
 # AH-N!CE
 
-AH-N!CE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Cova, Hamburg on Sat, 31 Oct 2026.
+AH-N!CE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Cova, Hamburg on Sat, 31 Oct 2026.
 
 AH-N!CE is a techno and electro artist based in Germany, with 35 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Frank Rayo, Eva Nyx and TMB. Next up: La Cova, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ AH-N!CE is a techno and electro artist based in Germany, with 35 gigs on soundch
 
 Frank Rayo, Eva Nyx, TMB (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-n!ce/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ah-n!ce/)*

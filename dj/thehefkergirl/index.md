@@ -1,6 +1,6 @@
 # The Hefker Girl
 
-The Hefker Girl is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ErF Studios, New York City on Thu, 12 Nov 2026.
+The Hefker Girl is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ErF Studios, New York City on Thu, 12 Nov 2026.
 
 The Hefker Girl is a house and dub techno artist based in United States of America, with 28 gigs on soundcheck across New York City. Often billed alongside Valentin Lamar, J. Mordechai and ALIKHAN. Next up: ErF Studios, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ The Hefker Girl is a house and dub techno artist based in United States of Ameri
 
 Valentin Lamar, J. Mordechai, ALIKHAN
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehefkergirl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thehefkergirl/)*

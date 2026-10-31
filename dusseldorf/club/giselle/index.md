@@ -1,14 +1,13 @@
 # Giselle
 
-Giselle is a music venue in Düsseldorf with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "TWYNSFORMATIONSABEND" on Fri, 30 Oct 2026.
+Giselle is a music venue in Düsseldorf with 15 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween w. Surf2Glory" on Sat, 31 Oct 2026.
 
-Giselle is a music venue in Düsseldorf listed on soundcheck. 16 upcoming gigs, with line-ups including André Galluzzi, Arthur Baron, Bergen (DE) and Daniel Fritschi and 2 more. See dates, start times and who's playing. 147 Oststrasse 40210.
+Giselle is a music venue in Düsseldorf listed on soundcheck. 15 upcoming gigs, with line-ups including André Galluzzi, Arthur Baron, Bergen (DE) and Daniel Fritschi and 2 more. See dates, start times and who's playing. 147 Oststrasse 40210.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TWYNSFORMATIONSABEND |  |
 | Sat, 31 Oct 2026 | Halloween w. Surf2Glory | Summe Total, Surf 2 Glory |
 | Fri, 6 Nov 2026 | Muallem & Jorkes | Jorkes, Muallem |
 | Sat, 7 Nov 2026 | SAFE ROOM SESSIONS w. Andre Galuzzi | André Galluzzi |
@@ -18,9 +17,10 @@ Giselle is a music venue in Düsseldorf listed on soundcheck. 16 upcoming gigs, 
 | Sat, 21 Nov 2026 | Daniel Fritschi and friends | Daniel Fritschi |
 | Fri, 27 Nov 2026 | Vy Tran | Vy Tran |
 | Sat, 28 Nov 2026 | Night of the Jaguar |  |
+| Fri, 4 Dec 2026 | TWYNSMORMATIONSABEND |  |
 
 ## Address
 
 147 Oststrasse 40210, Düsseldorf
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/giselle/)*

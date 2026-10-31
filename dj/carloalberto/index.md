@@ -1,6 +1,6 @@
 # Carloalberto
 
-Carloalberto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sono bar, Zurich on Sat, 31 Oct 2026.
+Carloalberto is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sono bar, Zurich on Sat, 31 Oct 2026.
 
 Carloalberto is a house and tech house artist based in Italy, with 47 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 4 more. Often billed alongside KARBONI, Phill Prince and Coni. Next up: Sono bar, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Carloalberto is a house and tech house artist based in Italy, with 47 gigs on so
 
 KARBONI, Phill Prince, Coni (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carloalberto/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carloalberto/)*

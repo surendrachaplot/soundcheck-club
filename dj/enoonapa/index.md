@@ -1,6 +1,6 @@
 # Enoo Napa
 
-Enoo Napa is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Roundhouse, London on Sat, 31 Oct 2026.
+Enoo Napa is a Afro House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Roundhouse, London on Sat, 31 Oct 2026.
 
 Enoo Napa is an afro house and afro tech artist based in South Africa, with 59 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 20 more. Often billed alongside Da Capo, Caiiro and Van Zand. Next up: The Roundhouse, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Enoo Napa is an afro house and afro tech artist based in South Africa, with 59 g
 
 Da Capo, Caiiro, Van Zand
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enoonapa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enoonapa/)*

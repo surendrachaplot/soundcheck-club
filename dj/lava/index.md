@@ -1,6 +1,6 @@
 # Lava
 
-Lava is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+Lava is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 Lava is an industrial and techno artist based in Portugal, with 14 gigs on soundcheck across Basel, Istanbul, Lisbon and Porto and 2 more. Often billed alongside Ash, AANN and Alírio. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lava is an industrial and techno artist based in Portugal, with 14 gigs on sound
 
 Ash, AANN, Alírio
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lava/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lava/)*

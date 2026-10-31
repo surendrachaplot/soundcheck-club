@@ -1,6 +1,6 @@
 # Lisa Fosmark
 
-Lisa Fosmark is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sigurd CPH, Copenhagen on Fri, 6 Nov 2026.
+Lisa Fosmark is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sigurd CPH, Copenhagen on Fri, 6 Nov 2026.
 
 Lisa Fosmark is a house and garage artist based in Denmark, with 22 gigs on soundcheck across Copenhagen. Often billed alongside ELOQ, parashoot and A.dixen. Next up: Sigurd CPH, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Lisa Fosmark is a house and garage artist based in Denmark, with 22 gigs on soun
 
 ELOQ, parashoot, A.dixen
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisafosmark/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisafosmark/)*

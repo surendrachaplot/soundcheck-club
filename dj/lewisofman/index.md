@@ -1,6 +1,6 @@
 # Lewis OfMan
 
-Lewis OfMan is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Botanique, Brussels on Wed, 10 Feb 2027.
+Lewis OfMan is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Botanique, Brussels on Wed, 10 Feb 2027.
 
 Lewis OfMan is an electro and electronica artist based in France, with 26 gigs on soundcheck across Berlin, Brussels, Geneva and Hamburg and 12 more. Often billed alongside Anetha, CeeDeeGee and Laurent Garnier. Next up: Botanique, Brussels on Wed 10 Feb.
 
@@ -25,4 +25,4 @@ Lewis OfMan is an electro and electronica artist based in France, with 26 gigs o
 
 Anetha, CeeDeeGee, Laurent Garnier
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisofman/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisofman/)*

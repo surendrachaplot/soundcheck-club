@@ -1,14 +1,13 @@
 # Kauz
 
-Kauz is a music venue in Zurich with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "hotbox" on Fri, 30 Oct 2026.
+Kauz is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Heimlich Knüller" on Sat, 31 Oct 2026.
 
-Kauz is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, with line-ups including Agonis, Alessia Ceruti, Aline (CH) and Âme and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
+Kauz is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including Agonis, Alessia Ceruti, Aline (CH) and Âme and 2 more. See dates, start times and who's playing. Ausstellungsstrasse 21, Zurich, Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | hotbox | FD, GLXY |
 | Sat, 31 Oct 2026 | Heimlich Knüller | Heimlich Knüller, Mar Dean, Mia Kaltes |
 | Thu, 5 Nov 2026 | half notes // live-jazz im Kauz |  |
 | Fri, 6 Nov 2026 | 𝕏𝕀𝕀𝕀 𝕁𝕒𝕙𝕣𝕖 𝕂𝕒𝕦𝕫 • Friday | Agonis, Atrice, Luke Redford, Pangaea, Rearte |
@@ -18,9 +17,10 @@ Kauz is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, with lin
 | Sat, 14 Nov 2026 | ritmo union × szenenwechsel | Kaidi Tatham, Ngoc Lan |
 | Wed, 18 Nov 2026 | kaltstart |  |
 | Fri, 20 Nov 2026 | tanzen6000 | Luka Staem, Marie Malarie |
+| Sat, 21 Nov 2026 | Bass Bude - Love Edition | Anthik, Dirty Doering, Marcus Meinhardt, Mardean, RIGOROS |
 
 ## Address
 
 Ausstellungsstrasse 21, Zurich, Switzerland, Zurich
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kauz/)*

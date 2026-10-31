@@ -1,6 +1,6 @@
 # NYCTO
 
-NYCTO is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 13 Nov 2026.
+NYCTO is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Crack Bellmer, Berlin on Fri, 13 Nov 2026.
 
 NYCTO is a tech house and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Budapest, Gothenburg and Los Angeles and 3 more. Often billed alongside SAAMO, Petra Yelda and Blck-Swan. Next up: Crack Bellmer, Berlin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ NYCTO is a tech house and techno artist based in Germany, with 38 gigs on soundc
 
 SAAMO, Petra Yelda, Blck-Swan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nycto/)*

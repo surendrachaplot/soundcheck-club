@@ -1,6 +1,6 @@
 # Calvin Clarke
 
-Calvin Clarke is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Universidad Simon Bolivar, Venezuela on Sat, 31 Oct 2026.
+Calvin Clarke is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Universidad Simon Bolivar, Venezuela on Sat, 31 Oct 2026.
 
 Calvin Clarke is a tech house and minimal artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bratislava and 12 more. Often billed alongside Marco Carola, Ale De Tuglie and Franky Rizardo. Next up: TBA - Universidad Simon Bolivar, Venezuela on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Calvin Clarke is a tech house and minimal artist based in United Kingdom, with 5
 
 Marco Carola, Ale De Tuglie, Franky Rizardo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinclarke/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/calvinclarke/)*

@@ -1,6 +1,6 @@
 # Juan Ramos
 
-Juan Ramos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SMUT Athens, Athens on Sat, 7 Nov 2026.
+Juan Ramos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at SMUT Athens, Athens on Sat, 7 Nov 2026.
 
 Juan Ramos is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 13 more. Often billed alongside Ady Toledano, Trent and Amy Dabbs. Next up: SMUT Athens, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Juan Ramos is a house and techno artist based in United States of America, with 
 
 Ady Toledano, Trent, Amy Dabbs
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanramos/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanramos/)*

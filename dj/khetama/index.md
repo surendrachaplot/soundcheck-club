@@ -1,6 +1,6 @@
 # Khetama
 
-Khetama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Dockland, Münster on Sat, 19 Dec 2026.
+Khetama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Dockland, Münster on Sat, 19 Dec 2026.
 
 Khetama is a techno and house artist based in Germany, with 17 gigs on soundcheck across Münster. Often billed alongside Redfocks, ALYF and Steve Stix. Next up: Dockland, Münster on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Khetama is a techno and house artist based in Germany, with 17 gigs on soundchec
 
 Redfocks, ALYF, Steve Stix
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khetama/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khetama/)*

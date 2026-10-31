@@ -1,6 +1,6 @@
 # John Kong
 
-John Kong is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - 70 Huron St , Toronto on Sat, 31 Oct 2026.
+John Kong is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - 70 Huron St , Toronto on Sat, 31 Oct 2026.
 
 John Kong is a disco and house artist based in Canada, with 23 gigs on soundcheck across Montreal and Toronto. Often billed alongside Alister Johnson, The Patchouli Brothers and Automaticamore. Next up: TBA - 70 Huron St , Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ John Kong is a disco and house artist based in Canada, with 23 gigs on soundchec
 
 Alister Johnson, The Patchouli Brothers, Automaticamore
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkong/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnkong/)*

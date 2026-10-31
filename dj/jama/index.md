@@ -1,6 +1,6 @@
 # Jama
 
-Jama is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Turtur, Hamburg on Fri, 30 Oct 2026.
+Jama is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Turtur, Hamburg on Fri, 30 Oct 2026.
 
 Jama is a house and techno artist based in Netherlands, with 45 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Seoul and 1 more. Often billed alongside Pauli Pocket, Britta Arnold and Chris Schwarzwälder. Next up: Turtur, Hamburg on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Jama is a house and techno artist based in Netherlands, with 45 gigs on soundche
 
 ## Recently played
 
+- Turtur, Hamburg · Fri, 30 Oct 2026
 - Kater, Berlin · Fri, 21 Aug 2026
 - Evening, Seoul · Sat, 15 Aug 2026
 - Thuishaven, Amsterdam · Sat, 11 Jul 2026
@@ -20,10 +21,9 @@ Jama is a house and techno artist based in Netherlands, with 45 gigs on soundche
 - Turtur, Hamburg · Sat, 21 Mar 2026
 - Nyapi, Seoul · Thu, 19 Mar 2026
 - Thuishaven, Amsterdam · Sat, 14 Mar 2026
-- Bar Piment, Seoul · Fri, 6 Mar 2026
 
 ## Shares bills with
 
 Pauli Pocket, Britta Arnold, Chris Schwarzwälder
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jama/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jama/)*

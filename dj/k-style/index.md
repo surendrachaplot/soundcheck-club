@@ -1,6 +1,6 @@
 # K-Style
 
-K-Style is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 27 Nov 2026.
+K-Style is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at E1, London on Fri, 27 Nov 2026.
 
 K-Style is a techno and minimal techno artist based in Spain, with 16 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Carlos Pérez, Gaston Zani and Basswell. Next up: E1, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ K-Style is a techno and minimal techno artist based in Spain, with 16 gigs on so
 
 Carlos Pérez, Gaston Zani, Basswell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-style/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/k-style/)*

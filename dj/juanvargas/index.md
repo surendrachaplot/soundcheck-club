@@ -1,6 +1,6 @@
 # Juan Vargas
 
-Juan Vargas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Studio 615, Nashville on Sat, 31 Oct 2026.
+Juan Vargas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Studio 615, Nashville on Sat, 31 Oct 2026.
 
 Juan Vargas is a tech house and house artist based in Colombia, with 17 gigs on soundcheck across Medellin and Nashville. Often billed alongside Sean Random, Amal Nemer and Andruss. Next up: Studio 615, Nashville on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Juan Vargas is a tech house and house artist based in Colombia, with 17 gigs on 
 
 Sean Random, Amal Nemer, Andruss
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanvargas/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanvargas/)*

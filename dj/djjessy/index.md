@@ -1,6 +1,6 @@
 # DJ Jessy
 
-DJ Jessy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Glamorama, Melbourne on Mon, 2 Nov 2026.
+DJ Jessy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Glamorama, Melbourne on Mon, 2 Nov 2026.
 
 DJ Jessy is a house and techno artist based in Australia, with 9 gigs on soundcheck across Adelaide and Melbourne. Often billed alongside Charlie Shell, A.Well and BETHANY. Next up: Glamorama, Melbourne on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ DJ Jessy is a house and techno artist based in Australia, with 9 gigs on soundch
 
 Charlie Shell, A.Well, BETHANY (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjessy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djjessy/)*

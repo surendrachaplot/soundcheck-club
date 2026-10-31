@@ -1,6 +1,6 @@
 # Thomas Xu
 
-Thomas Xu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Elastic Arts, Chicago on Sun, 15 Nov 2026.
+Thomas Xu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Elastic Arts, Chicago on Sun, 15 Nov 2026.
 
 Thomas Xu is a house and techno artist based in United States of America, with 21 gigs on soundcheck across Chicago, Detroit, Kyoto and New York City. Often billed alongside Meftah, otodojo and Aboudi Issa. Next up: Elastic Arts, Chicago on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Thomas Xu is a house and techno artist based in United States of America, with 2
 
 Meftah, otodojo, Aboudi Issa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasxu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasxu/)*

@@ -1,6 +1,6 @@
 # Yozza
 
-Yozza is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bricks, London on Fri, 4 Dec 2026.
+Yozza is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bricks, London on Fri, 4 Dec 2026.
 
 Yozza is a funk / soul and house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Sam Sharp, Crumpler and Listiq. Next up: Bricks, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Yozza is a funk / soul and house artist based in United Kingdom, with 14 gigs on
 
 Sam Sharp, Crumpler, Listiq
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yozza/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yozza/)*

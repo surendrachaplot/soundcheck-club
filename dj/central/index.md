@@ -1,6 +1,6 @@
 # Central
 
-Central is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Unmute, Hanoi on Fri, 25 Dec 2026.
+Central is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Unmute, Hanoi on Fri, 25 Dec 2026.
 
 Central is a house and techno artist based in Denmark, with 12 gigs on soundcheck across Amsterdam, Bogotá, Bristol and Copenhagen and 3 more. Often billed alongside DJ Popup, Manmade Deejay and Ana Karla. Next up: Unmute, Hanoi on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ Central is a house and techno artist based in Denmark, with 12 gigs on soundchec
 
 DJ Popup, Manmade Deejay, Ana Karla
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/central/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/central/)*

@@ -1,6 +1,6 @@
 # Nizan
 
-Nizan is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Onyx (E1), London on Sat, 19 Dec 2026.
+Nizan is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Onyx (E1), London on Sat, 19 Dec 2026.
 
 Nizan is a drum & bass and house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Rodderz, Dovetail and Joseph Dooley. Next up: Onyx (E1), London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Nizan is a drum & bass and house artist based in United Kingdom, with 9 gigs on 
 
 Rodderz, Dovetail, Joseph Dooley
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nizan/)*

@@ -1,6 +1,6 @@
 # Nico Hartt
 
-Nico Hartt is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rich's Nightclub, San Diego on Sat, 7 Nov 2026.
+Nico Hartt is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rich's Nightclub, San Diego on Sat, 7 Nov 2026.
 
 Nico Hartt is a trance and techno artist based in United States of America, with 10 gigs on soundcheck across San Diego. Often billed alongside Josh Taylor, Adrian Reyes and Agents Of Alchemy. Next up: Rich's Nightclub, San Diego on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nico Hartt is a trance and techno artist based in United States of America, with
 
 Josh Taylor, Adrian Reyes, Agents Of Alchemy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicohartt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicohartt/)*

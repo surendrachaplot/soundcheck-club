@@ -1,6 +1,6 @@
 # Bob Manzanilla
 
-Bob Manzanilla is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Vancouver on Sat, 28 Nov 2026.
+Bob Manzanilla is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Vancouver on Sat, 28 Nov 2026.
 
 Bob Manzanilla is a house and tech house artist based in Ireland, with 26 gigs on soundcheck across Dublin, Liverpool and Vancouver. Often billed alongside ShaunaDee, REEN and Collie. Next up: TBA, Vancouver on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Bob Manzanilla is a house and tech house artist based in Ireland, with 26 gigs o
 
 ShaunaDee, REEN, Collie (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmanzanilla/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bobmanzanilla/)*

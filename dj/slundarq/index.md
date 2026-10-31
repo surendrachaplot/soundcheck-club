@@ -1,6 +1,6 @@
 # Slundarq
 
-Slundarq is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Planet Wax, London on Sun, 8 Nov 2026.
+Slundarq is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Planet Wax, London on Sun, 8 Nov 2026.
 
 Slundarq is a drum & bass and hardcore artist based in United Kingdom, with 32 gigs on soundcheck across London. Often billed alongside Uncle G, Dexta and Abby Daze. Next up: Planet Wax, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Slundarq is a drum & bass and hardcore artist based in United Kingdom, with 32 g
 
 Uncle G, Dexta, Abby Daze
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slundarq/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slundarq/)*

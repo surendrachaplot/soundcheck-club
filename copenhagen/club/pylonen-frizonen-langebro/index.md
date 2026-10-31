@@ -1,6 +1,6 @@
 # Pylonen - Frizonen Langebro
 
-Pylonen - Frizonen Langebro is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Perfect Slip" on Sat, 31 Oct 2026.
+Pylonen - Frizonen Langebro is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Perfect Slip" on Sat, 31 Oct 2026.
 
 Pylonen - Frizonen Langebro is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including 3LNA, Andi Müller, babysquid and Dennis DAFG and 2 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Pylonen - Frizonen Langebro is a music venue in Copenhagen listed on soundcheck.
 | Sat, 14 Nov 2026 | (Con)Doctors: Too Hard For House | Emma Priis, Keith Chuckles, steamboi |
 | Sat, 21 Nov 2026 | Close Encounters III: Live Electronics Under Langebro | Andi Müller |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pylonen-frizonen-langebro/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/pylonen-frizonen-langebro/)*

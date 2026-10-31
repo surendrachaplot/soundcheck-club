@@ -1,6 +1,6 @@
 # Rachel Raw
 
-Rachel Raw is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+Rachel Raw is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
 Rachel Raw is a techno and tech house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 7 more. Often billed alongside Avocado, DJ Jordan and Dave Dinger. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Rachel Raw is a techno and tech house artist based in Germany, with 60 gigs on s
 
 Avocado, DJ Jordan, Dave Dinger
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelraw/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rachelraw/)*

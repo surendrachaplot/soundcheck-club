@@ -1,6 +1,6 @@
 # Sender Berlin
 
-Sender Berlin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 18 Dec 2026.
+Sender Berlin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 18 Dec 2026.
 
 Sender Berlin is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Squaric, Anri and A². Next up: Tresor / Globus, Berlin on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sender Berlin is a techno and house artist based in Germany, with 13 gigs on sou
 
 Squaric, Anri, A²
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senderberlin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senderberlin/)*

@@ -1,6 +1,6 @@
 # THYORA
 
-THYORA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 12 Dec 2026.
+THYORA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 12 Dec 2026.
 
 THYORA is a techno and house artist based in Switzerland, with 23 gigs on soundcheck across Basel, Bern and Zurich. Often billed alongside Michel Sacher, Read the News and NTO. Next up: Druckerei Solothurn, Bern on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ THYORA is a techno and house artist based in Switzerland, with 23 gigs on soundc
 
 Michel Sacher, Read the News, NTO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thyora/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thyora/)*

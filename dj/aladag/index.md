@@ -1,6 +1,6 @@
 # ALADAG
 
-ALADAG is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Coco Boule, Berlin on Sat, 28 Nov 2026.
+ALADAG is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Coco Boule, Berlin on Sat, 28 Nov 2026.
 
 ALADAG is a house and tech house artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 4 more. Often billed alongside Baime, Yara Yard and Echonomist. Next up: Coco Boule, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ ALADAG is a house and tech house artist based in Germany, with 24 gigs on soundc
 
 Baime, Yara Yard, Echonomist
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aladag/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aladag/)*

@@ -1,6 +1,6 @@
 # Franziska Berns
 
-Franziska Berns is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at PRST, Vienna on Sat, 31 Oct 2026.
+Franziska Berns is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at PRST, Vienna on Sat, 31 Oct 2026.
 
 Franziska Berns is a house and techno artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 30 more. Often billed alongside dj sweet6teen, BASHKKA and JakoJako. Next up: PRST, Vienna on Sat 31 Oct.
 
@@ -29,4 +29,4 @@ Franziska Berns is a house and techno artist based in Germany, with 106 gigs on 
 
 dj sweet6teen, BASHKKA, JakoJako
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*

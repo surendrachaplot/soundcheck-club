@@ -1,6 +1,6 @@
 # Tenju
 
-Tenju is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+Tenju is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 Tenju is a techno and progressive house artist based in South Korea, with 10 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Yetsuby, Moon Ki and ACHANORI. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Tenju is a techno and progressive house artist based in South Korea, with 10 gig
 
 Yetsuby, Moon Ki, ACHANORI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tenju/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tenju/)*

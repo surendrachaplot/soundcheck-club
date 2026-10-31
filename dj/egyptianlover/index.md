@@ -1,14 +1,13 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Peti Kupe, Zagreb on Fri, 30 Oct 2026.
+Egyptian Lover is a Electro and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ironworks, London on Sat, 31 Oct 2026.
 
-Egyptian Lover is an electro and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside DJ Godfather, FREAKENSTEIN and Binh. Next up: Peti Kupe, Zagreb on Fri 30 Oct.
+Egyptian Lover is an electro and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside DJ Godfather, FREAKENSTEIN and Binh. Next up: Ironworks, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Peti Kupe | Zagreb |
 | Sat, 31 Oct 2026 | Ironworks | London |
 | Sat, 31 Oct 2026 | Sawmills | Bristol |
 | Fri, 6 Nov 2026 | Razzmatazz | Barcelona |
@@ -20,9 +19,11 @@ Egyptian Lover is an electro and house artist based in United States of America,
 | Thu, 18 Feb 2027 | The Art School | Glasgow |
 | Sat, 20 Feb 2027 | The Wardrobe | Leeds |
 | Sat, 6 Mar 2027 | The Cause | London |
+| Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
 
 ## Recently played
 
+- Peti Kupe, Zagreb · Fri, 30 Oct 2026
 - Café Schöne Aussichten (CSA), Hamburg · Sun, 25 Oct 2026
 - The Bernard Shaw, Dublin · Sat, 24 Oct 2026
 - Melkweg, Amsterdam · Fri, 23 Oct 2026
@@ -30,10 +31,9 @@ Egyptian Lover is an electro and house artist based in United States of America,
 - Humboldthain Club, Berlin · Fri, 9 Oct 2026
 - Garden Shinkiba Factory, Tokyo · Sat, 3 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 27 Sept 2026
-- Hidden, Manchester · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 DJ Godfather, FREAKENSTEIN, Binh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Nyctophilia" on Fri, 30 Oct 2026.
+M-BIA is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Intoxication Halloween SPECIAL" on Sat, 31 Oct 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including ALICA RØUGH, BrettHit, BrettHit, Lukas Freudenberger and Daora and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including BrettHit, BrettHit, Lukas Freudenberger, Daora and DELTA LABS and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Nyctophilia | ALICA RØUGH, NYXEA, SON!CA |
 | Sat, 31 Oct 2026 | Intoxication Halloween SPECIAL | BrettHit, Lukas Freudenberger, Momentune |
 | Fri, 6 Nov 2026 | 9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORGE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16 | Sei A, TEKKO, Techno Frühstück, Tekk, Tekk DJ'z, Tekk Nikk, Tekknik |
 | Sat, 7 Nov 2026 | GOA MAGIC Special pres Reverence | Daora, John Kotti, Lewii (2), Støffwechsel |
@@ -18,9 +17,10 @@ M-BIA is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with li
 | Sat, 21 Nov 2026 | GOA Herbst Edition [pres. Naturalize, Vertigos] |  |
 | Fri, 27 Nov 2026 | Mega 90er Rave - DJ QUICKSILVER |  |
 | Sat, 28 Nov 2026 | PsyLab – Escape the Grey |  |
+| Fri, 11 Dec 2026 | VEXED presents BERBA | BrettHit, LISA LOCA |
 
 ## Address
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

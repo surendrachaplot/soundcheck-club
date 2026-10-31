@@ -1,18 +1,18 @@
 # Dj Ryte Nou
 
-Dj Ryte Nou is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Per Ankh Detroit Entheogenic Church, Detroit on Fri, 30 Oct 2026.
+Dj Ryte Nou is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Spkrbox, Detroit on Sat, 14 Nov 2026.
 
-Dj Ryte Nou is a house and deep house artist based in United States of America, with 15 gigs on soundcheck across Detroit. Often billed alongside Ryan Sadorus, Marcus NF Harris and DJ SYNC. Next up: Per Ankh Detroit Entheogenic Church, Detroit on Fri 30 Oct.
+Dj Ryte Nou is a house and deep house artist based in United States of America, with 15 gigs on soundcheck across Detroit. Often billed alongside Ryan Sadorus, Marcus NF Harris and DJ SYNC. Next up: Spkrbox, Detroit on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Per Ankh Detroit Entheogenic Church | Detroit |
 | Sat, 14 Nov 2026 | Spkrbox | Detroit |
 
 ## Recently played
 
+- Per Ankh Detroit Entheogenic Church, Detroit · Fri, 30 Oct 2026
 - Per Ankh Detroit Entheogenic Church, Detroit · Sat, 3 Oct 2026
 - TBA - Roar Brewing, Detroit · Sat, 26 Sept 2026
 - Spkrbox, Detroit · Sat, 12 Sept 2026
@@ -20,10 +20,9 @@ Dj Ryte Nou is a house and deep house artist based in United States of America, 
 - Spkrbox, Detroit · Sat, 11 Jul 2026
 - Spkrbox, Detroit · Mon, 6 Apr 2026
 - HALO DETROIT, Detroit · Sat, 14 Mar 2026
-- Spkrbox, Detroit · Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Ryan Sadorus, Marcus NF Harris, DJ SYNC
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrytenou/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrytenou/)*

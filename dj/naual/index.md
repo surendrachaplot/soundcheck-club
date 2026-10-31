@@ -1,6 +1,6 @@
 # NAUAL
 
-NAUAL is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sauvage Swinger Club, Barcelona on Fri, 6 Nov 2026.
+NAUAL is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Sauvage Swinger Club, Barcelona on Fri, 6 Nov 2026.
 
 NAUAL is a techno and electro artist based in Spain, with 27 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Rabent, Giusseppi and DJ2D2. Next up: Sauvage Swinger Club, Barcelona on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ NAUAL is a techno and electro artist based in Spain, with 27 gigs on soundcheck 
 
 Rabent, Giusseppi, DJ2D2
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/naual/)*

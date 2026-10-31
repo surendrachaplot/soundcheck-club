@@ -1,6 +1,6 @@
 # Ams (FR)
 
-Ams (FR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Bizarre, Naples on Sat, 31 Oct 2026.
+Ams (FR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Bizarre, Naples on Sat, 31 Oct 2026.
 
 Ams (FR) is a house and techno artist based in France, with 61 gigs on soundcheck across Barcelona, Berlin, Florence and Lausanne and 10 more. Often billed alongside Camille Doe, GOGO GREEN and Lefblom. Next up: Club Bizarre, Naples on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ams (FR) is a house and techno artist based in France, with 61 gigs on soundchec
 
 Camille Doe, GOGO GREEN, Lefblom
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amsfr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amsfr/)*

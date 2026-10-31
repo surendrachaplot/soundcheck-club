@@ -1,6 +1,6 @@
 # Descent
 
-Descent is a music venue in Boston with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PROVINCE 44 presents Julian Fijma" on Sat, 31 Oct 2026.
+Descent is a music venue in Boston with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "PROVINCE 44 presents Julian Fijma" on Sat, 31 Oct 2026.
 
 Descent is a music venue in Boston listed on soundcheck. 8 upcoming gigs, with line-ups including Cam Stockman, D.Dan, DVS1 and Fatzo and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
@@ -21,4 +21,4 @@ Descent is a music venue in Boston listed on soundcheck. 8 upcoming gigs, with l
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

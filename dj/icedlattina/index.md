@@ -1,6 +1,6 @@
 # iced lattina
 
-iced lattina is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Strange Brew, Bristol on Sat, 31 Oct 2026.
+iced lattina is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Strange Brew, Bristol on Sat, 31 Oct 2026.
 
 iced lattina is a club and experimental artist based in Portugal, with 54 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 10 more. Often billed alongside VINESSETT, Brodinski and Dangermami. Next up: Strange Brew, Bristol on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ iced lattina is a club and experimental artist based in Portugal, with 54 gigs o
 
 VINESSETT, Brodinski, Dangermami
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/icedlattina/)*

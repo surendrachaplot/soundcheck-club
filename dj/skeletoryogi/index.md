@@ -1,6 +1,6 @@
 # Skeletor Yogi
 
-Skeletor Yogi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
+Skeletor Yogi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Flanders Expo Centre, Ghent on Sat, 5 Dec 2026.
 
 Skeletor Yogi is a techno and trance artist based in Belgium, with 45 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Pete Howl, MOKER and Lena De Roose. Next up: Flanders Expo Centre, Ghent on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Skeletor Yogi is a techno and trance artist based in Belgium, with 45 gigs on so
 
 Pete Howl, MOKER, Lena De Roose
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletoryogi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skeletoryogi/)*

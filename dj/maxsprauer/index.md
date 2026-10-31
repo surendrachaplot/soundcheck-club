@@ -1,6 +1,6 @@
 # Max Sprauer
 
-Max Sprauer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Max Sprauer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
 Max Sprauer is a house and techno artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 14 more. Often billed alongside Shvili, Rama NYC and Rasho. Next up: H0L0, New York City on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Max Sprauer is a house and techno artist based in United States of America, with
 
 Shvili, Rama NYC, Rasho
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsprauer/)*

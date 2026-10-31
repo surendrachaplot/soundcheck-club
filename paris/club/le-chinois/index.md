@@ -1,6 +1,6 @@
 # Le Chinois
 
-Le Chinois is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Shattaween - Afro & Caribbean Halloween Party " on Sat, 31 Oct 2026.
+Le Chinois is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Shattaween - Afro & Caribbean Halloween Party " on Sat, 31 Oct 2026.
 
 Le Chinois is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including mika.collage, dieglitter, DJ Python and Orieta Chrem and 1 more. See dates, start times and who's playing. 6 place du Marché, Montreuil.
 
@@ -15,4 +15,4 @@ Le Chinois is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with
 
 6 place du Marché, Montreuil, Paris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-chinois/)*

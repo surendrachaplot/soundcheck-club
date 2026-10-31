@@ -1,6 +1,6 @@
 # CARGO
 
-CARGO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
+CARGO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
 
 CARGO is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin, Hamburg, Leipzig and Münster and 2 more. Often billed alongside CARGO (DE), DJ Zugzwang and Dominique Lamee. Next up: Distillery, Leipzig on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ CARGO is a techno and trance artist based in Germany, with 16 gigs on soundcheck
 
 CARGO (DE), DJ Zugzwang, Dominique Lamee
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cargo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cargo/)*

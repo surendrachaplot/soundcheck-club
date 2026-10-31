@@ -1,6 +1,6 @@
 # KRÄFTY
 
-KRÄFTY is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 12 Dec 2026.
+KRÄFTY is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 12 Dec 2026.
 
 KRÄFTY is a progressive house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam and Manchester. Often billed alongside Aiden Francis, A Little Bit Orange and Baby Rollén. Next up: Honey Street Studio, Manchester on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KRÄFTY is a progressive house and tech house artist based in United Kingdom, wi
 
 Aiden Francis, A Little Bit Orange, Baby Rollén
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krafty/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krafty/)*

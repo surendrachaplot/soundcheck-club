@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hoe__mies: Dolloween [Limited Tickets Available at Door]" on Sat, 31 Oct 2026.
+KREUZWERK is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Hoe__mies: Dolloween [Limited Tickets Available at Door]" on Sat, 31 Oct 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including 131bpm, ābnamā, ADAM MUNNINGS and Amanda Mussi and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, wit
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

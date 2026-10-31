@@ -1,6 +1,6 @@
 # Majandra
 
-Majandra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 31 Oct 2026.
+Majandra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sektor Evolution, Dresden on Sat, 31 Oct 2026.
 
 Majandra is a techno and trance artist, with 26 gigs on soundcheck across Berlin, Dresden, Hamburg and Münster. Often billed alongside Mergence, DAIVER and Oliver Eich. Next up: Sektor Evolution, Dresden on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Majandra is a techno and trance artist, with 26 gigs on soundcheck across Berlin
 
 Mergence, DAIVER, Oliver Eich
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majandra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/majandra/)*

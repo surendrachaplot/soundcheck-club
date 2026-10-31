@@ -1,6 +1,6 @@
 # rubi*
 
-rubi* is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Thu, 19 Nov 2026.
+rubi* is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at KitKatClub, Berlin on Thu, 19 Nov 2026.
 
 rubi* is a house and techno artist based in Spain, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 7 more. Often billed alongside Cleymoore, Atree and ALINA. Next up: KitKatClub, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ rubi* is a house and techno artist based in Spain, with 59 gigs on soundcheck ac
 
 Cleymoore, Atree, ALINA (3)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi-de/)*

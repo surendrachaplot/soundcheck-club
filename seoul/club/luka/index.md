@@ -1,6 +1,6 @@
 # Luka
 
-Luka is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "AK SPORTS x B RAVER - HARD TECHNO SPECIAL INVITES" on Sat, 31 Oct 2026.
+Luka is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "AK SPORTS x B RAVER - HARD TECHNO SPECIAL INVITES" on Sat, 31 Oct 2026.
 
 Luka is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including AK SPORTS, BASSKRAP, Casepeat and D.E.F and 2 more. See dates, start times and who's playing. B1, 46 152Gil, Gangnamdaero, Seoul.
 
@@ -16,4 +16,4 @@ Luka is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-
 
 B1, 46 152Gil, Gangnamdaero, Seoul, Seoul
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/luka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/luka/)*

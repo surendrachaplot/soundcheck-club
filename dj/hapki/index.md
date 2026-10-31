@@ -1,6 +1,6 @@
 # HAPKI
 
-HAPKI is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
+HAPKI is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 HAPKI is a house and afro house artist, with 17 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Emanate, SSEDA and SAGMO. Next up: The Great Northern, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ HAPKI is a house and afro house artist, with 17 gigs on soundcheck across San Fr
 
 Emanate, SSEDA, SAGMO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hapki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hapki/)*

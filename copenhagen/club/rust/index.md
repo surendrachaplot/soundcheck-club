@@ -1,6 +1,6 @@
 # RUST
 
-RUST is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BEA1991 (UK/NL) + Nova Varnrable" on Tue, 3 Nov 2026.
+RUST is a music venue in Copenhagen with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BEA1991 (UK/NL) + Nova Varnrable" on Tue, 3 Nov 2026.
 
 RUST is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with line-ups including Anton Goltermann, Nova Varnrable, Tiffi M and Virtual Jasper. See dates, start times and who's playing. Guldbergsgade 8, 2200 København N.
 
@@ -18,4 +18,4 @@ RUST is a music venue in Copenhagen listed on soundcheck. 5 upcoming gigs, with 
 
 Guldbergsgade 8, 2200 København N, Copenhagen
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/rust/)*

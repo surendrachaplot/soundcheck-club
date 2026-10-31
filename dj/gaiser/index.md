@@ -1,6 +1,6 @@
 # Gaiser
 
-Gaiser is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Gaiser is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Gaiser is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Athens, Berlin and Denver and 5 more. Often billed alongside Anfisa Letyago, Laure Croft and Shosho. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Gaiser is a techno and house artist based in United States of America, with 13 g
 
 Anfisa Letyago, Laure Croft, Shosho
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaiser/)*

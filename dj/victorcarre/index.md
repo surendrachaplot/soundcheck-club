@@ -1,6 +1,6 @@
 # Victor Carré
 
-Victor Carré is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lula Club, Madrid on Sat, 31 Oct 2026.
+Victor Carré is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lula Club, Madrid on Sat, 31 Oct 2026.
 
 Victor Carré is a techno and house artist based in Spain, with 58 gigs on soundcheck across Madrid and Paris. Often billed alongside Body-O, Maik Miroux and Torrione. Next up: Lula Club, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Victor Carré is a techno and house artist based in Spain, with 58 gigs on sound
 
 Body-O, Maik Miroux, Torrione
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcarre/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcarre/)*

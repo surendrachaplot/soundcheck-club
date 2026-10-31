@@ -1,6 +1,6 @@
 # Mr Scruff
 
-Mr Scruff is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hare & Hounds, Birmingham on Sun, 1 Nov 2026.
+Mr Scruff is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hare & Hounds, Birmingham on Sun, 1 Nov 2026.
 
 Mr Scruff is a house and disco artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: Hare & Hounds, Birmingham on Sun 1 Nov.
 
@@ -30,4 +30,4 @@ Mr Scruff is a house and disco artist based in United Kingdom, with 115 gigs on 
 
 Aroop Roy, Luke Una, Chunky
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*

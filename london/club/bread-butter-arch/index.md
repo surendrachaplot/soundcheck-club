@@ -1,6 +1,6 @@
 # Bread & Butter Arch
 
-Bread & Butter Arch is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Munch Food Party" on Sat, 7 Nov 2026.
+Bread & Butter Arch is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Munch Food Party" on Sat, 7 Nov 2026.
 
 Bread & Butter Arch is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Faded Society, Jamesey, Matt L-S and Max Sinàl and 1 more. See dates, start times and who's playing. 3 Bohemia Place, Hackney Central, E8 1DU.
 
@@ -17,4 +17,4 @@ Bread & Butter Arch is a music venue in London listed on soundcheck. 4 upcoming 
 
 3 Bohemia Place, Hackney Central, E8 1DU, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-butter-arch/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/bread-butter-arch/)*

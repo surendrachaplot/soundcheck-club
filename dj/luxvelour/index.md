@@ -1,6 +1,6 @@
 # Lux Velour
 
-Lux Velour is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Studio 615, Nashville on Sat, 31 Oct 2026.
+Lux Velour is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Studio 615, Nashville on Sat, 31 Oct 2026.
 
 Lux Velour is a deep house and tech house artist, with 9 gigs on soundcheck across Nashville. Often billed alongside Subrinse, Alex Kennon and Arht. Next up: Studio 615, Nashville on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Lux Velour is a deep house and tech house artist, with 9 gigs on soundcheck acro
 
 Subrinse, Alex Kennon, Arht
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxvelour/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luxvelour/)*

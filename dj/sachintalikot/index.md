@@ -1,6 +1,6 @@
 # SACHIN TALIKOT
 
-SACHIN TALIKOT is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
+SACHIN TALIKOT is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
 
 SACHIN TALIKOT is a minimal and deep house artist, with 24 gigs on soundcheck across Miami, New York City, Orlando and Tampa Bay. Often billed alongside Andravida, Cataclisma and Auphoria. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SACHIN TALIKOT is a minimal and deep house artist, with 24 gigs on soundcheck ac
 
 Andravida, Cataclisma, Auphoria
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sachintalikot/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sachintalikot/)*

@@ -1,6 +1,6 @@
 # SNTS
 
-SNTS is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+SNTS is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
 
 SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Charlie Sparks, 999999999 and DYEN. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
 
@@ -20,6 +20,7 @@ SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundc
 
 ## Recently played
 
+- La Cubierta de Leganés, Madrid · Fri, 30 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Drugstore Beograd, Belgrade · Sat, 19 Sept 2026
@@ -27,10 +28,9 @@ SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundc
 - Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 - E1, London · Fri, 11 Sept 2026
 - Toplocentrala, Sofia · Fri, 4 Sept 2026
-- Eden, Ibiza · Tue, 11 Aug 2026
 
 ## Shares bills with
 
 Charlie Sparks, 999999999, DYEN
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*

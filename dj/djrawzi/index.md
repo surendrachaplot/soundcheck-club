@@ -1,6 +1,6 @@
 # DJ Rawzi
 
-DJ Rawzi is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Biscuit Factory, Edinburgh on Sat, 14 Nov 2026.
+DJ Rawzi is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Biscuit Factory, Edinburgh on Sat, 14 Nov 2026.
 
 DJ Rawzi is a house and afrobeat artist based in Uganda, with 11 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Annafleur, Groundskeeper Fanny and Katelate. Next up: The Biscuit Factory, Edinburgh on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Rawzi is a house and afrobeat artist based in Uganda, with 11 gigs on soundch
 
 Annafleur, Groundskeeper Fanny, Katelate
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrawzi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djrawzi/)*

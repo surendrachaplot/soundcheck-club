@@ -1,6 +1,6 @@
 # Blažen DJ
 
-Blažen DJ is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Klub KGB Maribor, Slovenia on Fri, 13 Nov 2026.
+Blažen DJ is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Klub KGB Maribor, Slovenia on Fri, 13 Nov 2026.
 
 Blažen DJ is a bass and techno artist based in Slovenia, with 16 gigs on soundcheck across Ljubljana and Slovenia. Often billed alongside Jaša Bužinel, Zvèn and DVS. Next up: Klub KGB Maribor, Slovenia on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Blažen DJ is a bass and techno artist based in Slovenia, with 16 gigs on soundc
 
 Jaša Bužinel, Zvèn, DVS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blažendj/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blažendj/)*

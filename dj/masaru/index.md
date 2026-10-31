@@ -1,6 +1,6 @@
 # MASARU
 
-MASARU is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at COUNTER CLUB, Tokyo on Tue, 3 Nov 2026.
+MASARU is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at COUNTER CLUB, Tokyo on Tue, 3 Nov 2026.
 
 MASARU is a techno and hip-hop artist based in Romania, with 20 gigs on soundcheck across Tokyo. Often billed alongside Dance, Goat and KOSHIRO. Next up: COUNTER CLUB, Tokyo on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ MASARU is a techno and hip-hop artist based in Romania, with 20 gigs on soundche
 
 Dance, Goat (1), KOSHIRO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masaru/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masaru/)*

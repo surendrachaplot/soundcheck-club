@@ -1,6 +1,6 @@
 # Casual
 
-Casual is a music venue in Hong Kong with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BLACK MAGIC VOODOO: Pablo Valentino (MCDE Recordings, France)" on Sat, 31 Oct 2026.
+Casual is a music venue in Hong Kong with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BLACK MAGIC VOODOO: Pablo Valentino (MCDE Recordings, France)" on Sat, 31 Oct 2026.
 
 Casual is a music venue in Hong Kong listed on soundcheck. 12 upcoming gigs, with line-ups including CASAMUSICA, Chucheewa, Emel and Mamie's and 2 more. See dates, start times and who's playing. 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island.
 
@@ -23,4 +23,4 @@ Casual is a music venue in Hong Kong listed on soundcheck. 12 upcoming gigs, wit
 
 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island, Hong Kong
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*

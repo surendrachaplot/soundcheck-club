@@ -1,6 +1,6 @@
 # Igloofest
 
-Igloofest is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Igloofest MTL #1: Kaytranada" on Thu, 14 Jan 2027.
+Igloofest is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Igloofest MTL #1: Kaytranada" on Thu, 14 Jan 2027.
 
 Igloofest is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including Beamskii, Chippy Nonstop, Chris Lorenzo and Chris Luno and 2 more. See dates, start times and who's playing. Quais du Vieux-Port de Montréal (Promenade du Vieux-Port), Montréal QC, Canada.
 
@@ -23,4 +23,4 @@ Igloofest is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, w
 
 Quais du Vieux-Port de Montréal (Promenade du Vieux-Port), Montréal QC, Canada, Montreal
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/igloofest/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/igloofest/)*

@@ -1,6 +1,6 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jacobs Basement, Cardiff on Sat, 31 Oct 2026.
+Elena Colombi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jacobs Basement, Cardiff on Sat, 31 Oct 2026.
 
 Elena Colombi is a techno and house artist based in Italy, with 154 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: Jacobs Basement, Cardiff on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Elena Colombi is a techno and house artist based in Italy, with 154 gigs on soun
 
 Lena Willikens, Amelia Holt, Sepehr
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*

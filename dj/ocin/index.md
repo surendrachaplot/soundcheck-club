@@ -1,6 +1,6 @@
 # OCIN
 
-OCIN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 21 Nov 2026.
+OCIN is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 21 Nov 2026.
 
 OCIN is a trance and techno artist based in Germany, with 36 gigs on soundcheck across Amsterdam, Basel, Berlin and Frankfurt and 1 more. Often billed alongside DJ Sweedee, Sober At The Disco and L.zwo. Next up: Lokschuppen Berlin, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ OCIN is a trance and techno artist based in Germany, with 36 gigs on soundcheck 
 
 DJ Sweedee, Sober At The Disco, L.zwo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ocin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ocin/)*

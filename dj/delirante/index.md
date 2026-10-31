@@ -1,0 +1,27 @@
+# Delirante
+
+Delirante is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Distillery, Leipzig on Tue, 17 Nov 2026.
+
+Delirante is a techno and trance artist based in Germany, with 8 gigs on soundcheck across Berlin and Leipzig. Often billed alongside DJ Skonti, InterStella and LuckyLeo. Next up: Distillery, Leipzig on Tue 17 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 17 Nov 2026 | Distillery | Leipzig |
+
+## Recently played
+
+- Distillery, Leipzig · Sat, 10 Oct 2026
+- Distillery, Leipzig · Sat, 29 Aug 2026
+- Gwuni Mopera Zentrum Leipzig, Leipzig · Sat, 8 Aug 2026
+- Distillery, Leipzig · Sat, 30 May 2026
+- ÆDEN, Berlin · Fri, 20 Feb 2026
+- elipamanoke, Leipzig · Sat, 14 Feb 2026
+- elipamanoke, Leipzig · Wed, 2 Jul 2025
+
+## Shares bills with
+
+DJ Skonti, InterStella, LuckyLeo
+
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/delirante/)*

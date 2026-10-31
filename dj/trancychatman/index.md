@@ -1,6 +1,6 @@
 # Trancy Chatman
 
-Trancy Chatman is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Altenburg 1964, Prague on Sat, 31 Oct 2026.
+Trancy Chatman is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Altenburg 1964, Prague on Sat, 31 Oct 2026.
 
 Trancy Chatman is a trance and techno artist based in Germany, with 15 gigs on soundcheck across Berlin, Cologne, Freiburg and Geneva and 3 more. Often billed alongside DJ Henk, SACID and Sabu!. Next up: Altenburg 1964, Prague on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Trancy Chatman is a trance and techno artist based in Germany, with 15 gigs on s
 
 DJ Henk, SACID, Sabu!
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancychatman/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trancychatman/)*

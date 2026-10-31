@@ -1,6 +1,6 @@
 # Amine K
 
-Amine K is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Fri, 4 Dec 2026.
+Amine K is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kater, Berlin on Fri, 4 Dec 2026.
 
 Amine K is a house and deep house artist based in Morocco, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Mr ID, OTTMANN and Acid Eastern. Next up: Kater, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Amine K is a house and deep house artist based in Morocco, with 65 gigs on sound
 
 Mr ID, OTTMANN, Acid Eastern
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aminek/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aminek/)*

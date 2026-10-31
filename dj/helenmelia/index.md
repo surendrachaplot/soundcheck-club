@@ -1,6 +1,6 @@
 # Helen Me Lia
 
-Helen Me Lia is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hotel Negresco Princess, Barcelona on Sat, 31 Oct 2026.
+Helen Me Lia is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hotel Negresco Princess, Barcelona on Sat, 31 Oct 2026.
 
 Helen Me Lia is a house and disco artist based in Spain, with 284 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 24 more. Often billed alongside RAUL ORELLANA. Next up: Hotel Negresco Princess, Barcelona on Sat 31 Oct.
 
@@ -34,4 +34,4 @@ Helen Me Lia is a house and disco artist based in Spain, with 284 gigs on soundc
 
 RAUL ORELLANA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenmelia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenmelia/)*

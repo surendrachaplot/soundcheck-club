@@ -1,6 +1,6 @@
 # Salam Kitty
 
-Salam Kitty is a Club and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 10 Nov 2026.
+Salam Kitty is a Club and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at People's Leisure Club, Edinburgh on Tue, 10 Nov 2026.
 
 Salam Kitty is a club and afro tech artist based in United Kingdom, with 54 gigs on soundcheck across Edinburgh, Glasgow, London and Seoul. Often billed alongside Bellarosa, DIJA and HUNTRESS. Next up: People's Leisure Club, Edinburgh on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Salam Kitty is a club and afro tech artist based in United Kingdom, with 54 gigs
 
 Bellarosa, DIJA, HUNTRESS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/salamkitty/)*

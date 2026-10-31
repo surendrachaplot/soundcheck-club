@@ -1,6 +1,6 @@
 # Yorel
 
-Yorel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bain Mathieu, Montreal on Sat, 31 Oct 2026.
+Yorel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bain Mathieu, Montreal on Sat, 31 Oct 2026.
 
 Yorel is a techno and house artist, with 19 gigs on soundcheck across Bangkok, Montreal, Seoul and Tokyo. Often billed alongside Xaviera, Jacidorex and Kris Tin. Next up: Bain Mathieu, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Yorel is a techno and house artist, with 19 gigs on soundcheck across Bangkok, M
 
 Xaviera, Jacidorex, Kris Tin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yorel/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yorel/)*

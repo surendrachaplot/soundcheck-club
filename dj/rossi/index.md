@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
+Rossi is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
 
 Rossi is a house and tech house artist based in United Kingdom, with 253 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 54 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Brooklyn Storehouse, New York City on Sat 31 Oct.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist based in United Kingdom, with 253 gigs on
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

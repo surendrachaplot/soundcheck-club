@@ -1,6 +1,6 @@
 # Riskii (2)
 
-Riskii (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
+Riskii (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
 
 Riskii is a house and techno artist based in South Korea, with 144 gigs on soundcheck across Seoul and Vietnam. Often billed alongside givogi, JNS and Lyumin. Next up: Gatosano Da Nang, Vietnam on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ Riskii is a house and techno artist based in South Korea, with 144 gigs on sound
 
 ## Recently played
 
+- Gatosano Da Nang, Vietnam · Fri, 30 Oct 2026
 - Stoked&stoned, Seoul · Mon, 19 Oct 2026
 - Stoked&stoned, Seoul · Sat, 17 Oct 2026
 - Paper, Seoul · Fri, 16 Oct 2026
@@ -19,10 +20,9 @@ Riskii is a house and techno artist based in South Korea, with 144 gigs on sound
 - Stoked&stoned, Seoul · Sat, 26 Sept 2026
 - Stoked&stoned, Seoul · Mon, 21 Sept 2026
 - Soap Seoul., Seoul · Sat, 5 Sept 2026
-- Shelter, Seoul · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 givogi, JNS, Lyumin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riskii-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riskii-2/)*

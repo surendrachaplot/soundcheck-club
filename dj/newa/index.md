@@ -1,6 +1,6 @@
 # Newa
 
-Newa is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fuse, Brussels on Sat, 14 Nov 2026.
+Newa is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fuse, Brussels on Sat, 14 Nov 2026.
 
 Newa is a techno and house artist based in Georgia, with 140 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 25 more. Often billed alongside Kancheli, Ndrx and Kvanchi. Next up: Fuse, Brussels on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Newa is a techno and house artist based in Georgia, with 140 gigs on soundcheck 
 
 Kancheli, Ndrx, Kvanchi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/newa/)*

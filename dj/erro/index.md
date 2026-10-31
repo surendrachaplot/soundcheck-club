@@ -1,6 +1,6 @@
 # Erro
 
-Erro is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Manas Garden, Hungary on Wed, 7 Jul 2027.
+Erro is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Manas Garden, Hungary on Wed, 7 Jul 2027.
 
 Erro is a house and tech house artist based in Hungary, with 58 gigs on soundcheck across Budapest and Hungary. Often billed alongside Adx, BACO and Captain Knuckles. Next up: Manas Garden, Hungary on Wed 7 Jul.
 
@@ -26,4 +26,4 @@ Erro is a house and tech house artist based in Hungary, with 58 gigs on soundche
 
 Adx, BACO, Captain Knuckles
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erro/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erro/)*

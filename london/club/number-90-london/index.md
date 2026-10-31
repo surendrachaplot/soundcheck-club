@@ -1,15 +1,13 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 15 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Rolling Ritmo & Night Tube Halloween: DJ Hell, Reptant (Live), Magda, Mariiin, Vera, Residents" on Fri, 30 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "LOW LIFE presents THE WITCHES OF EAST WICK" on Sat, 31 Oct 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Mariiin, Ruby SD, Alisdair and Bill Brewster and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Alisdair, Bill Brewster, Blasha & Allatt and Cecilio and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Rolling Ritmo & Night Tube Halloween: DJ Hell, Reptant (Live), Magda, Mariiin, Vera, Residents | Alisdair, DJ Hell, Joe Seymour, Magda, Mariiin, Reptant, Ruby SD, Son of Paul, Vera |
-| Fri, 30 Oct 2026 | FWEAKY - 3rd Birthday / Halloween Ball w/ FREAKENSTEIN & FRIENDS |  |
 | Sat, 31 Oct 2026 | LOW LIFE presents THE WITCHES OF EAST WICK | Bill Brewster, Frank Broughton, Sarahtonin, Zakia |
 | Sat, 31 Oct 2026 | Brama presents House Of Horrors: Doudou MD, Fais Le Beau, Grace Sands & Toby, Sam PV | Doudou MD, Fais Le Beau, Grace Sands, S3BA, Sam PV, Stckman, Toby (UK), ono.sendai.runner |
 | Sat, 31 Oct 2026 | Ironworks By Night: Appetite Halloween |  |
@@ -18,9 +16,11 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 15 upcoming gi
 | Fri, 20 Nov 2026 | Ezequiel Arias | Ezequiel Arias, Maze 28 |
 | Sat, 21 Nov 2026 | M.A.D Records 6th BIRTHDAY | Ellie Anderson, Make A Dance, Tino |
 | Sun, 22 Nov 2026 | Cartulis 17th Anniversary After Party | Cecilio, Laurine |
+| Fri, 27 Nov 2026 | Faem e Li presents: Malix & Friends | malix |
+| Sat, 28 Nov 2026 | Unica - Part 4 | Meeshy |
 
 ## Address
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

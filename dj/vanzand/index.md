@@ -1,6 +1,6 @@
 # Van Zand
 
-Van Zand is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
+Van Zand is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
 
 Van Zand is an afro house and afro tech artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Antwerp, Ibiza and Rotterdam and 1 more. Often billed alongside Da Capo, Enoo Napa and Philou Louzolo. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Van Zand is an afro house and afro tech artist based in Netherlands, with 27 gig
 
 Da Capo, Enoo Napa, Philou Louzolo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanzand/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vanzand/)*

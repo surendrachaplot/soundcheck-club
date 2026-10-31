@@ -1,6 +1,6 @@
 # Paoler
 
-Paoler is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at PWCC, North on Sun, 1 Nov 2026.
+Paoler is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at PWCC, North on Sun, 1 Nov 2026.
 
 Paoler is a techno and experimental artist based in Germany, with 22 gigs on soundcheck across Berlin, Munich and North. Often billed alongside Overthink 71, Al_Massimo and Funken. Next up: PWCC, North on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Paoler is a techno and experimental artist based in Germany, with 22 gigs on sou
 
 Overthink 71, Al_Massimo, Funken
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paoler/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paoler/)*

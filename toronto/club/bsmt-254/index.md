@@ -1,6 +1,6 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Visitor (Edmonton)/Siviyex/Phantom Channel" on Fri, 6 Nov 2026.
+Bsmt 254 is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Visitor (Edmonton)/Siviyex/Phantom Channel" on Fri, 6 Nov 2026.
 
 Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Assassin Bug, Babies R Stupid, Burnin' Vernon and CAETANO and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
@@ -20,4 +20,4 @@ Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with
 
 254 Lansdowne Ave, Toronto, ON M6H 3X9, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bsmt-254/)*

@@ -1,6 +1,6 @@
 # Larry De Kat
 
-Larry De Kat is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sat, 7 Nov 2026.
+Larry De Kat is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Paloma, Berlin on Sat, 7 Nov 2026.
 
 Larry De Kat is a house and tech house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Berlin and Netherlands. Often billed alongside LORI (NL), Samuel Deep and A.M. Project. Next up: Paloma, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Larry De Kat is a house and tech house artist based in Netherlands, with 9 gigs 
 
 LORI (NL), Samuel Deep, A.M. Project
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrydekat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larrydekat/)*

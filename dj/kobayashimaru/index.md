@@ -1,6 +1,6 @@
 # Kobayashi Maru
 
-Kobayashi Maru is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Twist Bar, Prague on Sat, 28 Nov 2026.
+Kobayashi Maru is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Twist Bar, Prague on Sat, 28 Nov 2026.
 
 Kobayashi Maru is a techno and club artist based in Czech Republic, with 27 gigs on soundcheck across Berlin, London, Prague and Strasbourg. Often billed alongside Atch22, Madeleine and Marie Pravda. Next up: Twist Bar, Prague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kobayashi Maru is a techno and club artist based in Czech Republic, with 27 gigs
 
 Atch22, Madeleine, Marie Pravda
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobayashimaru/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobayashimaru/)*

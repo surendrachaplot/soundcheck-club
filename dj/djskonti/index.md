@@ -1,6 +1,6 @@
 # DJ Skonti
 
-DJ Skonti is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Distillery, Leipzig on Tue, 17 Nov 2026.
+DJ Skonti is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Distillery, Leipzig on Tue, 17 Nov 2026.
 
 DJ Skonti is a trance and techno artist based in Germany, with 13 gigs on soundcheck across Leipzig. Often billed alongside Delirante, Timstagram and ESCALEA. Next up: Distillery, Leipzig on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ DJ Skonti is a trance and techno artist based in Germany, with 13 gigs on soundc
 
 Delirante, Timstagram, ESCALEA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskonti/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djskonti/)*

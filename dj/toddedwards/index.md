@@ -1,6 +1,6 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Todd Edwards is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Todd Edwards is a house and garage artist based in United States of America, with 132 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -17,6 +17,7 @@ Todd Edwards is a house and garage artist based in United States of America, wit
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 30 Oct 2026
 - Los Globos, Los Angeles · Sat, 3 Oct 2026
 - Night Tales Loft, London · Sat, 5 Sept 2026
 - Night Tales Loft, London · Fri, 4 Sept 2026
@@ -24,10 +25,9 @@ Todd Edwards is a house and garage artist based in United States of America, wit
 - Kelvedon Hall, London · Sat, 29 Aug 2026
 - Eden, Ibiza · Wed, 26 Aug 2026
 - Elsewhere, New York City · Sat, 22 Aug 2026
-- The Barbary, Philadelphia · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Conducta, Sam Divine, Rio Tashan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*

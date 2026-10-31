@@ -1,6 +1,6 @@
 # Johannes Astrup
 
-Johannes Astrup is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 14 Nov 2026.
+Johannes Astrup is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 14 Nov 2026.
 
 Johannes Astrup is a techno and trance artist based in Denmark, with 60 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Düsseldorf and 3 more. Often billed alongside Milo Makua, Anders Horse and Anna Logic. Next up: Den Anden Side, Copenhagen on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Johannes Astrup is a techno and trance artist based in Denmark, with 60 gigs on 
 
 Milo Makua, Anders Horse, Anna Logic
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesastrup/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesastrup/)*

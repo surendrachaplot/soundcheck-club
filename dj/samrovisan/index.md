@@ -1,6 +1,6 @@
 # Sam Rovisan
 
-Sam Rovisan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
+Sam Rovisan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
 
 Sam Rovisan is a techno and house artist, with 12 gigs on soundcheck across Belgrade, Dresden, Gothenburg and Zurich. Often billed alongside Tajara, Toni Dextor and Mishael Müller. Next up: Amboss Rampe, Zurich on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sam Rovisan is a techno and house artist, with 12 gigs on soundcheck across Belg
 
 Tajara, Toni Dextor, Mishael Müller
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samrovisan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samrovisan/)*

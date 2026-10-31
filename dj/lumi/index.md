@@ -1,6 +1,6 @@
 # LUMI
 
-LUMI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+LUMI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
 LUMI is a techno and house artist based in Finland, with 23 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Cologne and 6 more. Often billed alongside Bouncy Bitch, Pamela Rave and Wax Witch. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ LUMI is a techno and house artist based in Finland, with 23 gigs on soundcheck a
 
 ## Recently played
 
+- NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Odonien, Cologne · Wed, 28 Oct 2026
 - Odonien, Cologne · Wed, 26 Aug 2026
 - Odonien, Cologne · Wed, 29 Jul 2026
@@ -20,10 +21,9 @@ LUMI is a techno and house artist based in Finland, with 23 gigs on soundcheck a
 - Los Angeles State Historic Park, Los Angeles · Sun, 21 Jun 2026
 - Odonien, Cologne · Wed, 27 May 2026
 - The Monkey Loft, Seattle · Sat, 29 Nov 2025
-- The Midway, San Francisco/Oakland · Fri, 31 Oct 2025
 
 ## Shares bills with
 
 Bouncy Bitch, Pamela Rave, Wax Witch
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lumi/)*

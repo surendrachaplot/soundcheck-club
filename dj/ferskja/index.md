@@ -1,6 +1,6 @@
 # Ferskja
 
-Ferskja is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jasna 1, Warsaw on Sat, 7 Nov 2026.
+Ferskja is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Jasna 1, Warsaw on Sat, 7 Nov 2026.
 
 Ferskja is a breakbeat and electro artist, with 17 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside dd (PL), Halina World and Avtomat. Next up: Jasna 1, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ferskja is a breakbeat and electro artist, with 17 gigs on soundcheck across Poz
 
 dd (PL), Halina World, Avtomat
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferskja/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferskja/)*

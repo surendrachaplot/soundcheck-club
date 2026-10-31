@@ -1,6 +1,6 @@
 # ILONA
 
-ILONA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 31 Oct 2026.
+ILONA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Le Maquis Club, Hanoi on Sat, 31 Oct 2026.
 
 ILONA is a techno and house artist based in Russia, with 34 gigs on soundcheck across Hanoi, Ho Chi Minh City, Okinawa and Tokyo. Often billed alongside Goss, Phát Paris and Smoothie Boiz. Next up: Le Maquis Club, Hanoi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ILONA is a techno and house artist based in Russia, with 34 gigs on soundcheck a
 
 Goss, Phát Paris, Smoothie Boiz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilona/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilona/)*

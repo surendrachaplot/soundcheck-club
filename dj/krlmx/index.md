@@ -1,6 +1,6 @@
 # Krl Mx
 
-Krl Mx is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Exil, Vienna on Fri, 13 Nov 2026.
+Krl Mx is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Exil, Vienna on Fri, 13 Nov 2026.
 
 Krl Mx is a techno and trance artist based in France, with 143 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 47 more. Often billed alongside Cassie Raptor, Shlømo and CALLUSH. Next up: Club Exil, Vienna on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Krl Mx is a techno and trance artist based in France, with 143 gigs on soundchec
 
 Cassie Raptor, Shlømo, CALLUSH
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krlmx/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krlmx/)*

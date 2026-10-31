@@ -1,6 +1,6 @@
 # Futeki
 
-Futeki is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 31 Oct 2026.
+Futeki is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ivans Pilsnerbar, Gothenburg on Sat, 31 Oct 2026.
 
 Futeki is a techno and tech house artist based in Sweden, with 9 gigs on soundcheck across Gothenburg. Often billed alongside Ivo Mono, Rich and Joseph Wickins. Next up: Ivans Pilsnerbar, Gothenburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Futeki is a techno and tech house artist based in Sweden, with 9 gigs on soundch
 
 Ivo Mono, Rich, Joseph Wickins
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/futeki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/futeki/)*

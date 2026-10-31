@@ -1,6 +1,6 @@
 # Cucut
 
-Cucut is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bridge 48, Barcelona on Fri, 6 Nov 2026.
+Cucut is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bridge 48, Barcelona on Fri, 6 Nov 2026.
 
 Cucut is a house and afro house artist based in Spain, with 212 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Tamborero, Arnau Obiols and DJ Sandwich. Next up: Bridge 48, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Cucut is a house and afro house artist based in Spain, with 212 gigs on soundche
 
 Tamborero, Arnau Obiols, DJ Sandwich
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cucut/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cucut/)*

@@ -1,14 +1,13 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "<3 Y2K ICONS :: HALLOWEEN PARTY <3" on Fri, 30 Oct 2026.
+Nice N Sleazy is a music venue in Glasgow with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "INDIE SLEAZY HALLOWEEN 2 FLOOR PARTY (INDIE SLEAZE / ELECTROCLASH PARTY)" on Sat, 31 Oct 2026.
 
-Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs, with line-ups including Casual Look, Gabor Matty and Rodent. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
+Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 6 upcoming gigs, with line-ups including Gabor Matty and Rodent. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | <3 Y2K ICONS :: HALLOWEEN PARTY <3 | Casual Look |
 | Sat, 31 Oct 2026 | INDIE SLEAZY HALLOWEEN 2 FLOOR PARTY (INDIE SLEAZE / ELECTROCLASH PARTY) | Gabor Matty |
 | Thu, 5 Nov 2026 | Mono Culture Fundraiser Party |  |
 | Fri, 6 Nov 2026 | Sidechain VI: BNJ1, Teragroove and Surplus |  |
@@ -20,4 +19,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs,
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

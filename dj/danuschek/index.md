@@ -1,6 +1,6 @@
 # danuschek
 
-danuschek is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lieberscholli, Munich on Fri, 13 Nov 2026.
+danuschek is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Lieberscholli, Munich on Fri, 13 Nov 2026.
 
 danuschek is a techno and house artist based in Germany, with 11 gigs on soundcheck across Munich. Often billed alongside Terzenbreaker, antyo and LOOMINAS. Next up: Lieberscholli, Munich on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ danuschek is a techno and house artist based in Germany, with 11 gigs on soundch
 
 Terzenbreaker, antyo, LOOMINAS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danuschek/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danuschek/)*

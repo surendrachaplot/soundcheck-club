@@ -1,8 +1,8 @@
 # Bownce
 
-Bownce is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Viuz, Medellin on Sat, 31 Oct 2026.
+Bownce is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Viuz, Medellin on Sat, 31 Oct 2026.
 
-Bownce is a tech house and house artist, with 86 gigs on soundcheck across Barcelona and Medellin. Often billed alongside Dem Boyz, Rel3r and Sortech. Next up: Viuz, Medellin on Sat 31 Oct.
+Bownce is a tech house and house artist based in Colombia, with 86 gigs on soundcheck across Barcelona and Medellin. Often billed alongside Dem Boyz, Rel3r and Sortech. Next up: Viuz, Medellin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bownce is a tech house and house artist, with 86 gigs on soundcheck across Barce
 
 Dem Boyz, Rel3r, Sortech
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bownce/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bownce/)*

@@ -1,14 +1,13 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx" on Fri, 30 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BCCO Halloween" on Sat, 31 Oct 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 131bpm, Justine Perry, ABADIR and Adiel and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including 131bpm, Justine Perry, ABADIR and Adiel and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | FIGURE NACHT w/ Len Faki, Arthur Robert live, Decoder, IGLO, and Inox Traxx | Arthur Robert, Decoder, IGLO, Inox Traxx, Len Faki |
 | Sat, 31 Oct 2026 | BCCO Halloween | AEREA, ASEC, Bailey Ibbs, Benabou, DJ Hyperdrive, Elnur, FENIM0RE, Luigi Madonna, Luxi Villar, Mac Declos, Matrixxman, Mython, PAU (6), SALIMATA, SELESSA T., future.666 |
 | Fri, 6 Nov 2026 | TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH | Funk Tribu, KARISH, Linds, Supergloss |
 | Sat, 7 Nov 2026 | XTRUDE x Mechatronica w/ Freddy K, Hyden, ÜBERKIKZ, IMOGEN, Ben Pest (live), FUMI, Lobster | BENZA, Ben Pest, Freddy K, Hyden, IMOGEN, Lobster (NL), Marco Bruno, Milan Hermess, Tauceti (FR), Vilchezz, fumi (DE), ÜBERKIKZ |
@@ -18,9 +17,10 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, wi
 | Fri, 27 Nov 2026 | Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau | CAIVA, Frederic., Keyklau, PRADA2000, Panteros666 |
 | Sat, 28 Nov 2026 | XTRUDE w/ Antigone, Peryl (Live), Lars Huismann, Newa, STEYA, Bambi, oma totem | Ana Rs, Antigone, Audrey Danza, Bambi (FR), LPV, Lars Huismann, Ndrx, Newa, Peryl, STEYA, Shaleen, oma totem |
 | Fri, 4 Dec 2026 | Plasma: 6 Years Femme Bass Mafia with Introspekt, Logan, EMA, Kontronatura, Flore b2b Dangermami | Dangermami, EMA (1), Flore, Genoe, Introspekt, Kontronatura, Logan_olm |
+| Sat, 12 Dec 2026 | XTRUDE x SEXYRECS X OPUS |  |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

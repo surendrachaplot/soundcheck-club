@@ -1,14 +1,13 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Gare Porto, Porto on Fri, 30 Oct 2026.
+Freddy K is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Complejo Embrujo, South on Sat, 31 Oct 2026.
 
-Freddy K is a techno and house artist based in Germany, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 80 more. Often billed alongside Blasha & Allatt, Chlär and Ogazón. Next up: Gare Porto, Porto on Fri 30 Oct.
+Freddy K is a techno and house artist based in Germany, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 80 more. Often billed alongside Blasha & Allatt, Chlär and Ogazón. Next up: Complejo Embrujo, South on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Gare Porto | Porto |
 | Sat, 31 Oct 2026 | Complejo Embrujo | South |
 | Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
@@ -20,9 +19,11 @@ Freddy K is a techno and house artist based in Germany, with 318 gigs on soundch
 | Fri, 11 Dec 2026 | FVTVR | Paris |
 | Fri, 18 Dec 2026 | Flash | Washington DC |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
+| Fri, 19 Feb 2027 | Gate Milano | Milan |
 
 ## Recently played
 
+- Gare Porto, Porto · Fri, 30 Oct 2026
 - RADION, Amsterdam · Sun, 25 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - BRET, Amsterdam · Fri, 23 Oct 2026
@@ -30,10 +31,9 @@ Freddy K is a techno and house artist based in Germany, with 318 gigs on soundch
 - fabric, London · Sat, 17 Oct 2026
 - Fuse, Brussels · Sat, 17 Oct 2026
 - Tokonoma Club, Frankfurt · Fri, 16 Oct 2026
-- not|or|ius Club, Turin · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Blasha & Allatt, Chlär, Ogazón
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

@@ -1,6 +1,6 @@
 # DJ Discostoff
 
-DJ Discostoff is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Artheater, Cologne on Sat, 14 Nov 2026.
+DJ Discostoff is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Artheater, Cologne on Sat, 14 Nov 2026.
 
 DJ Discostoff is a techno and trance artist based in Germany, with 41 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg. Often billed alongside DJ Tallboy, Rosilicious and Marco Eisenberg. Next up: Artheater, Cologne on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ DJ Discostoff is a techno and trance artist based in Germany, with 41 gigs on so
 
 DJ Tallboy, Rosilicious, Marco Eisenberg
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisctostoff/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdisctostoff/)*

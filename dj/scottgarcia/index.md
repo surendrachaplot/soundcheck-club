@@ -1,6 +1,6 @@
 # Scott Garcia
 
-Scott Garcia is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
+Scott Garcia is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Cambridge Junction, South-east on Sat, 31 Oct 2026.
 
 Scott Garcia is a garage and house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, London and South East. Often billed alongside Matt Jam Lamont, MC Creed and MC CKP. Next up: The Cambridge Junction, South East on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Scott Garcia is a garage and house artist based in United Kingdom, with 24 gigs 
 
 Matt Jam Lamont, MC Creed, MC CKP
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgarcia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/scottgarcia/)*

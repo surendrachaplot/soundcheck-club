@@ -1,6 +1,6 @@
 # Telefixa
 
-Telefixa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ark (Melb), Melbourne on Sat, 31 Oct 2026.
+Telefixa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ark (Melb), Melbourne on Sat, 31 Oct 2026.
 
 Telefixa is a techno and house artist based in Australia, with 48 gigs on soundcheck across Melbourne. Often billed alongside Tommy Craig, 3LOAR and Black Dave. Next up: ark (Melb), Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Telefixa is a techno and house artist based in Australia, with 48 gigs on soundc
 
 Tommy Craig, 3LOAR, Black Dave
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telefixa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/telefixa/)*

@@ -1,6 +1,6 @@
 # Ketzaal
 
-Ketzaal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Boston on Fri, 20 Nov 2026.
+Ketzaal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location, Boston on Fri, 20 Nov 2026.
 
 Ketzaal is a techno and house artist based in Spain, with 43 gigs on soundcheck across Barcelona, Bogotá, Boston and Los Angeles and 4 more. Often billed alongside Bullosa, Xoce and Niqi. Next up: TBA - Secret Location, Boston on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ketzaal is a techno and house artist based in Spain, with 43 gigs on soundcheck 
 
 Bullosa, Xoce, Niqi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketzaal/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ketzaal/)*

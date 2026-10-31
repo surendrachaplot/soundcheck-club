@@ -1,6 +1,6 @@
 # Misty
 
-Misty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Misty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
 
 Misty is a techno and house artist, with 21 gigs on soundcheck across Amsterdam, Auckland, Dubai and Egypt and 7 more. Often billed alongside Cine, Jade and MINERVA. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Misty is a techno and house artist, with 21 gigs on soundcheck across Amsterdam,
 
 ## Recently played
 
+- Sandy Beach Hotel & Resort, Dubai · Fri, 30 Oct 2026
 - Garage Noord, Amsterdam · Thu, 22 Oct 2026
 - Ceryle, Egypt · Thu, 15 Oct 2026
 - Costa Da Caparica, Lisbon · Fri, 29 May 2026
@@ -20,10 +21,9 @@ Misty is a techno and house artist, with 21 gigs on soundcheck across Amsterdam,
 - Area_osaka, Osaka · Tue, 17 Feb 2026
 - Helipad by Frozen Cherry, Dubai · Sat, 7 Feb 2026
 - Club.Nine, Tallinn · Fri, 21 Nov 2025
-- 25hours Hotel One Central, Dubai · Thu, 13 Nov 2025
 
 ## Shares bills with
 
 Cine, Jade, MINERVA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misty/)*

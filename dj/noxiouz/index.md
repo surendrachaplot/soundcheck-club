@@ -1,6 +1,6 @@
 # Noxiouz
 
-Noxiouz is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kesselhaus, Munich on Sat, 31 Oct 2026.
+Noxiouz is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kesselhaus, Munich on Sat, 31 Oct 2026.
 
 Noxiouz is a hardcore and techno artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Cologne, Frankfurt and Freiburg and 4 more. Often billed alongside Dimitri K, Lekkerfaces and Satirized. Next up: Kesselhaus, Munich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Noxiouz is a hardcore and techno artist based in Netherlands, with 15 gigs on so
 
 Dimitri K, Lekkerfaces, Satirized
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noxiouz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noxiouz/)*

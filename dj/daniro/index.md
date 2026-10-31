@@ -1,6 +1,6 @@
 # Daniro
 
-Daniro is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Los-angeles on Sat, 31 Oct 2026.
+Daniro is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Los-angeles on Sat, 31 Oct 2026.
 
 Daniro is a club and techno artist based in United States of America, with 112 gigs on soundcheck across Atlanta, Chicago, Helsinki and Los Angeles and 6 more. Often billed alongside Bodegaparty, PINKYY and shekdash. Next up: TBA, Los Angeles on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Daniro is a club and techno artist based in United States of America, with 112 g
 
 Bodegaparty, PINKYY, shekdash
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniro/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniro/)*

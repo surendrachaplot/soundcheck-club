@@ -1,6 +1,6 @@
 # PNNY
 
-PNNY is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Brisa, Bali on Sat, 31 Oct 2026.
+PNNY is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Brisa, Bali on Sat, 31 Oct 2026.
 
 PNNY is a house and disco artist based in Indonesia, with 125 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Tiago Oudman, Tjade and DITA (ID). Next up: La Brisa, Bali on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ PNNY is a house and disco artist based in Indonesia, with 125 gigs on soundcheck
 
 Tiago Oudman, Tjade, DITA (ID)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pnny/)*

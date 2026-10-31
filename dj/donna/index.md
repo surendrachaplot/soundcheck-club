@@ -1,6 +1,6 @@
 # Donna
 
-Donna is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Maassilo, Rotterdam on Thu, 31 Dec 2026.
+Donna is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Maassilo, Rotterdam on Thu, 31 Dec 2026.
 
 Donna is a techno and club artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Glasgow and 4 more. Often billed alongside Samantha Togni, ASHTREY and Anahita Shamsaei. Next up: Maassilo, Rotterdam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Donna is a techno and club artist based in Germany, with 16 gigs on soundcheck a
 
 Samantha Togni, ASHTREY, Anahita Shamsaei
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donna/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donna/)*

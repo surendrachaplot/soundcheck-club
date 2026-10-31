@@ -1,20 +1,20 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at radial, London on Fri, 30 Oct 2026.
+Yushh is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Soup, Manchester on Fri, 6 Nov 2026.
 
-Yushh is a bass and techno artist based in United Kingdom, with 121 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: radial, London on Fri 30 Oct.
+Yushh is a bass and techno artist based in United Kingdom, with 121 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Soup, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | radial | London |
 | Fri, 6 Nov 2026 | Soup | Manchester |
 | Sat, 7 Nov 2026 | Argo16 | Venice |
 | Fri, 4 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
+- radial, London · Fri, 30 Oct 2026
 - Razzmatazz, Barcelona · Sat, 10 Oct 2026
 - Post Bar, Helsinki · Sat, 3 Oct 2026
 - Process PDX, Portland · Fri, 18 Sept 2026
@@ -22,10 +22,9 @@ Yushh is a bass and techno artist based in United Kingdom, with 121 gigs on soun
 - Camp Kennybrook, New York City · Thu, 10 Sept 2026
 - Holdenweid, Basel · Fri, 4 Sept 2026
 - Strange Brew, Bristol · Fri, 7 Aug 2026
-- Sawmills, Bristol · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Breaka, Dubrunner, Batu
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yushh/)*

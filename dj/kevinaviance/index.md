@@ -1,6 +1,6 @@
 # Kevin Aviance
 
-Kevin Aviance is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Warehouse, Portland on Fri, 6 Nov 2026.
+Kevin Aviance is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Warehouse, Portland on Fri, 6 Nov 2026.
 
 Kevin Aviance is a house and techno artist based in United States of America, with 43 gigs on soundcheck across Atlanta, Berlin, Brussels and Chicago and 7 more. Often billed alongside Kilopatrah Jones, The Carry Nation and Boris. Next up: TBA - Secret Warehouse, Portland on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Kevin Aviance is a house and techno artist based in United States of America, wi
 
 Kilopatrah Jones, The Carry Nation, Boris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinaviance/)*

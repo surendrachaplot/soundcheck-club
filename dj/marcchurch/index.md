@@ -1,6 +1,6 @@
 # Marc Church
 
-Marc Church is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Detroit on Sat, 14 Nov 2026.
+Marc Church is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location, Detroit on Sat, 14 Nov 2026.
 
 Marc Church is an industrial and techno artist, with 14 gigs on soundcheck across Detroit. Often billed alongside Justin Carver, Veldt and Cervello Elettronico. Next up: TBA - Secret Location, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Marc Church is an industrial and techno artist, with 14 gigs on soundcheck acros
 
 Justin Carver, Veldt, Cervello Elettronico
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcchurch/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcchurch/)*

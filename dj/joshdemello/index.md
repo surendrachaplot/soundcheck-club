@@ -1,18 +1,18 @@
 # Josh Demello
 
-Josh Demello is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Distrikt, Leeds on Fri, 30 Oct 2026.
+Josh Demello is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TESTBED, Leeds on Fri, 13 Nov 2026.
 
-Josh Demello is a house and tech house artist based in United Kingdom, with 21 gigs on soundcheck across Leeds. Often billed alongside Reeshy, Holly Why and Kepler. Next up: Distrikt, Leeds on Fri 30 Oct.
+Josh Demello is a house and tech house artist based in United Kingdom, with 21 gigs on soundcheck across Leeds. Often billed alongside Reeshy, Holly Why and Kepler. Next up: TESTBED, Leeds on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Distrikt | Leeds |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
 
 ## Recently played
 
+- Distrikt, Leeds · Fri, 30 Oct 2026
 - TESTBED, Leeds · Fri, 9 Oct 2026
 - Under The Arches, Leeds · Sat, 6 Dec 2025
 - TBA - WAKEFIELD / LEEDS, Leeds · Sat, 26 Jul 2025
@@ -20,10 +20,9 @@ Josh Demello is a house and tech house artist based in United Kingdom, with 21 g
 - Hazelwood Castle, Leeds · Sat, 7 Jun 2025
 - Under The Arches, Leeds · Sun, 20 Apr 2025
 - Under The Arches, Leeds · Sat, 15 Feb 2025
-- Under The Arches, Leeds · Tue, 31 Dec 2024
 
 ## Shares bills with
 
 Reeshy, Holly Why, Kepler
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdemello/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshdemello/)*

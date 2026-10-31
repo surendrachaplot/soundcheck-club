@@ -1,6 +1,6 @@
 # SVN
 
-SVN is a Acid and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Third Day, Melbourne on Fri, 4 Dec 2026.
+SVN is a Acid and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Third Day, Melbourne on Fri, 4 Dec 2026.
 
 SVN is an acid and hardcore artist based in Germany, with 9 gigs on soundcheck across Berlin, Brussels and Melbourne. Often billed alongside Dynamo Dreesen, Finn Johannsen and Craigie Knowes. Next up: The Third Day, Melbourne on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ SVN is an acid and hardcore artist based in Germany, with 9 gigs on soundcheck a
 
 Dynamo Dreesen, Finn Johannsen, Craigie Knowes
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svn/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/svn/)*

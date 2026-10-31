@@ -1,6 +1,6 @@
 # Zuri
 
-Zuri is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Loft, Manchester on Fri, 6 Nov 2026.
+Zuri is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Loft, Manchester on Fri, 6 Nov 2026.
 
 Zuri is a techno and house artist based in Spain, with 79 gigs on soundcheck across Amsterdam, Edinburgh, Hong Kong and Leeds and 4 more. Often billed alongside Aletha, Korzi and Atiké. Next up: The Loft, Manchester on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Zuri is a techno and house artist based in Spain, with 79 gigs on soundcheck acr
 
 Aletha, Korzi, Atiké
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zuri/)*

@@ -1,6 +1,6 @@
 # Reset (2)
 
-Reset (2) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 6 Nov 2026.
+Reset (2) is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 6 Nov 2026.
 
 Reset is an electronica and techno artist, with 11 gigs on soundcheck across Amsterdam, Athens, Lisbon and Marseille and 1 more. Often billed alongside John-E, Ignez and Better Call Karll. Next up: QQQ ST. Park, Melbourne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Reset is an electronica and techno artist, with 11 gigs on soundcheck across Ams
 
 John-E, Ignez, Better Call Karll
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reset-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reset-2/)*

@@ -1,6 +1,6 @@
 # Daenell
 
-Daenell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Beate Uwe, Berlin on Fri, 4 Dec 2026.
+Daenell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Beate Uwe, Berlin on Fri, 4 Dec 2026.
 
 Daenell is a techno and house artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Munich and 1 more. Often billed alongside Miss Kitchen, Algerics and AINA.KRU. Next up: Beate Uwe, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Daenell is a techno and house artist based in Germany, with 19 gigs on soundchec
 
 Miss Kitchen, Algerics, AINA.KRU
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daenell/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daenell/)*

@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "AFTERPARTY w/Vlad Arapasu" on Sun, 1 Nov 2026.
+Nether Club is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "AFTERPARTY w/Vlad Arapasu" on Sun, 1 Nov 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including AMEDEUS, Amnesico, Controlled Voltage and DA NA and 2 more. See dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -21,4 +21,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs,
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

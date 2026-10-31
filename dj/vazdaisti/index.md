@@ -1,6 +1,6 @@
 # Vazdaisti
 
-Vazdaisti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Depo Klub, Zagreb on Fri, 6 Nov 2026.
+Vazdaisti is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Depo Klub, Zagreb on Fri, 6 Nov 2026.
 
 Vazdaisti is a techno and house artist based in Bosnia and Herzegovina, with 33 gigs on soundcheck across Belgrade, Berlin, Ljubljana and Malta and 1 more. Often billed alongside Pres, Cevi and Parabelt. Next up: Depo Klub, Zagreb on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Vazdaisti is a techno and house artist based in Bosnia and Herzegovina, with 33 
 
 Pres (3), Cevi, Parabelt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vazdaisti/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vazdaisti/)*

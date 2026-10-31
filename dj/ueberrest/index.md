@@ -1,6 +1,6 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
+Ueberrest is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
 
 Ueberrest is a techno and trance artist based in Switzerland, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 53 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Club Cultural Lima, Peru on Fri 30 Oct.
 
@@ -23,6 +23,7 @@ Ueberrest is a techno and trance artist based in Switzerland, with 126 gigs on s
 
 ## Recently played
 
+- Club Cultural Lima, Peru · Fri, 30 Oct 2026
 - Basel Venue, Santiago · Thu, 29 Oct 2026
 - Club Vaag, Antwerp · Sun, 25 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ Ueberrest is a techno and trance artist based in Switzerland, with 126 gigs on s
 - Warehouse Elementenstraat, Amsterdam · Thu, 22 Oct 2026
 - TBA - Heat Club, Switzerland · Sat, 17 Oct 2026
 - Valsemøllen, Bergen · Fri, 16 Oct 2026
-- Blackstone Street Warehouse, Liverpool · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Kobosil, Somewhen, KUKO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

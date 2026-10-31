@@ -1,14 +1,13 @@
 # Johannes Schuster
 
-Johannes Schuster is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri, 30 Oct 2026.
+Johannes Schuster is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bernexpo Halle, Bern on Sat, 31 Oct 2026.
 
-Johannes Schuster is a techno and trance artist based in Germany, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 58 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri 30 Oct.
+Johannes Schuster is a techno and trance artist based in Germany, with 241 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 58 more. Often billed alongside KUKO, Cloudy and Neon Graveyard. Next up: Bernexpo Halle, Bern on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
 | Sat, 31 Oct 2026 | Bernexpo Halle | Bern |
 | Fri, 6 Nov 2026 | Bootshaus | Cologne |
 | Sat, 14 Nov 2026 | OST | Berlin |
@@ -22,6 +21,7 @@ Johannes Schuster is a techno and trance artist based in Germany, with 241 gigs 
 
 ## Recently played
 
+- TBA - Fohrstraat, 9000 Gent, België, Belgium · Fri, 30 Oct 2026
 - Warehouse Elementenstraat, Amsterdam · Sun, 25 Oct 2026
 - Ääniwalli, Helsinki · Fri, 16 Oct 2026
 - OST, Berlin · Fri, 9 Oct 2026
@@ -29,10 +29,9 @@ Johannes Schuster is a techno and trance artist based in Germany, with 241 gigs 
 - Spook Club, Valencia · Sat, 3 Oct 2026
 - Z-Bau, Nürnberg · Sat, 26 Sept 2026
 - Bootshaus, Cologne · Fri, 25 Sept 2026
-- Bootshaus, Cologne · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 KUKO, Cloudy, Neon Graveyard
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johannesschuster/)*

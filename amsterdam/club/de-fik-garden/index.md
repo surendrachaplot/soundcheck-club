@@ -1,6 +1,6 @@
 # De Fik Garden
 
-De Fik Garden is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "EAST Techno Collective - Halloween Warehouse w/ Manrick Stapez [BCCO]" on Sat, 31 Oct 2026.
+De Fik Garden is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "EAST Techno Collective - Halloween Warehouse w/ Manrick Stapez [BCCO]" on Sat, 31 Oct 2026.
 
 De Fik Garden is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including WON (NL), Bianchetti, CØPTER and DJ Crystal Bitch and 2 more. See dates, start times and who's playing. Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands.
 
@@ -15,4 +15,4 @@ De Fik Garden is a music venue in Amsterdam listed on soundcheck. 2 upcoming gig
 
 Sportparklaan 19, 1062 ZA Amsterdam, The Netherlands, Amsterdam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/de-fik-garden/)*

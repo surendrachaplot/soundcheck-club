@@ -1,6 +1,6 @@
 # Big Happy
 
-Big Happy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 6 Nov 2026.
+Big Happy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Arcana, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Big Happy is a house and disco artist based in United States of America, with 23 gigs on soundcheck across Berlin, Mexico City, Miami and New York City and 1 more. Often billed alongside Disgonuts, Spiñorita and Barreto. Next up: Arcana, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Big Happy is a house and disco artist based in United States of America, with 23
 
 Disgonuts, Spiñorita, Barreto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bighappy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bighappy/)*

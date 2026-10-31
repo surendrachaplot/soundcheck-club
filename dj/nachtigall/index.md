@@ -1,8 +1,8 @@
 # NACHTIGALL
 
-NACHTIGALL is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+NACHTIGALL is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
-NACHTIGALL is a techno and industrial artist, with 33 gigs on soundcheck across Berlin, Bogotá, Dresden and Hamburg and 1 more. Often billed alongside Hypnosta, GLASSBASS and SLANY. Next up: elipamanoke, Leipzig on Sat 7 Nov.
+NACHTIGALL is a techno and industrial artist based in Germany, with 33 gigs on soundcheck across Berlin, Bogotá, Dresden and Hamburg and 1 more. Often billed alongside Hypnosta, GLASSBASS and SLANY. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NACHTIGALL is a techno and industrial artist, with 33 gigs on soundcheck across 
 
 Hypnosta, GLASSBASS, SLANY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigall/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nachtigall/)*

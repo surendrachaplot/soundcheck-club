@@ -1,6 +1,6 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kilomètre25, Paris on Sat, 31 Oct 2026.
+Danny Wabbit is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kilomètre25, Paris on Sat, 31 Oct 2026.
 
 Danny Wabbit is a techno and trance artist, with 66 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 23 more. Often billed alongside The Chronics, Beau Didier and Bours?. Next up: Kilomètre25, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Danny Wabbit is a techno and trance artist, with 66 gigs on soundcheck across Am
 
 The Chronics, Beau Didier, Bours?
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*

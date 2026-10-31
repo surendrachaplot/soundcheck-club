@@ -1,6 +1,6 @@
 # Vodka
 
-Vodka is a Drum & Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Toronto on Sat, 31 Oct 2026.
+Vodka is a Drum & Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Toronto on Sat, 31 Oct 2026.
 
 Vodka is a drum & bass and hip-hop artist based in Canada, with 10 gigs on soundcheck across Toronto. Often billed alongside Mrii, Angelphroot and Dameer. Next up: TBA, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Vodka is a drum & bass and hip-hop artist based in Canada, with 10 gigs on sound
 
 Mrii, Angelphroot, Dameer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vodka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vodka/)*

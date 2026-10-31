@@ -1,6 +1,6 @@
 # ELIHU
 
-ELIHU is a Progressive House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Palaeden, Naples on Sat, 31 Oct 2026.
+ELIHU is a Progressive House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Palaeden, Naples on Sat, 31 Oct 2026.
 
 ELIHU is a progressive house and afro tech artist based in Italy, with 10 gigs on soundcheck across Milan and Naples. Often billed alongside MIND the GAP and da Believer. Next up: Palaeden, Naples on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ ELIHU is a progressive house and afro tech artist based in Italy, with 10 gigs o
 
 MIND the GAP, da Believer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elihu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elihu/)*

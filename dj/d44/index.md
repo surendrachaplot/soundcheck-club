@@ -1,6 +1,6 @@
 # D44
 
-D44 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Cargö, West on Sat, 5 Dec 2026.
+D44 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Le Cargö, West on Sat, 5 Dec 2026.
 
 D44 is a techno and trance artist, with 20 gigs on soundcheck across Berlin, Madrid, Marseille and Paris and 2 more. Often billed alongside Parfait, Airod and Angerfist. Next up: Le Cargö, West on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ D44 is a techno and trance artist, with 20 gigs on soundcheck across Berlin, Mad
 
 Parfait, Airod, Angerfist
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d44/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/d44/)*

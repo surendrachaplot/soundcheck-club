@@ -1,6 +1,6 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Digitalism - Barcelona" on Sat, 31 Oct 2026.
+Sala Apolo is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Digitalism - Barcelona" on Sat, 31 Oct 2026.
 
 Sala Apolo is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Digitalism, Jersey, PEAK and Rebolledo. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
@@ -17,4 +17,4 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, 
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

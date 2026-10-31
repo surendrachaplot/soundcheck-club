@@ -1,6 +1,6 @@
 # CLAIR (BAI)
 
-CLAIR (BAI) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at New Guernica, Melbourne on Fri, 13 Nov 2026.
+CLAIR (BAI) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at New Guernica, Melbourne on Fri, 13 Nov 2026.
 
 CLAIR (BAI) is a trance and techno artist based in China, with 24 gigs on soundcheck across Beijing, Brisbane, Madrid and Melbourne and 8 more. Often billed alongside seretide, zzm and Beibeilon. Next up: New Guernica, Melbourne on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ CLAIR (BAI) is a trance and techno artist based in China, with 24 gigs on soundc
 
 seretide, zzm (2), Beibeilon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clair-bai/)*

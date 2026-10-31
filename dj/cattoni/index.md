@@ -1,6 +1,6 @@
 # Cattoni
 
-Cattoni is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kilomètre25, Paris on Sat, 31 Oct 2026.
+Cattoni is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kilomètre25, Paris on Sat, 31 Oct 2026.
 
 Cattoni is a techno and trance artist based in France, with 26 gigs on soundcheck across Berlin, Lyon and Paris. Often billed alongside In-Tan, Kelbail and Artifak. Next up: Kilomètre25, Paris on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Cattoni is a techno and trance artist based in France, with 26 gigs on soundchec
 
 In-Tan, Kelbail, Artifak
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cattoni/)*

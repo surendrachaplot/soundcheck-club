@@ -1,6 +1,6 @@
 # Flabbergast (LA)
 
-Flabbergast (LA) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Globe Theatre, Los Angeles on Sat, 31 Oct 2026.
+Flabbergast (LA) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Globe Theatre, Los Angeles on Sat, 31 Oct 2026.
 
 Flabbergast (LA) is a house and techno artist based in United States of America, with 39 gigs on soundcheck across Los Angeles and New York City. Often billed alongside BUCK/OFF, Heidi Lawden and Naté. Next up: The Globe Theatre, Los Angeles on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Flabbergast (LA) is a house and techno artist based in United States of America,
 
 BUCK/OFF, Heidi Lawden, Naté
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast-la/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flabbergast-la/)*

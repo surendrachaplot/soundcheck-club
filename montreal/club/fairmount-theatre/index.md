@@ -1,6 +1,6 @@
 # Fairmount Theatre
 
-Fairmount Theatre is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "KADERA X STICKYRICE: DEAD STILL DANCE" on Sat, 31 Oct 2026.
+Fairmount Theatre is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "KADERA X STICKYRICE: DEAD STILL DANCE" on Sat, 31 Oct 2026.
 
 Fairmount Theatre is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Baby Jane, Cannelle, Con Secuencias and Gulod Tanawin and 2 more. See dates, start times and who's playing. 5240 Park Ave, Montreal, Quebec H2V 4G7.
 
@@ -18,4 +18,4 @@ Fairmount Theatre is a music venue in Montreal listed on soundcheck. 5 upcoming 
 
 5240 Park Ave, Montreal, Quebec H2V 4G7, Montreal
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/fairmount-theatre/)*

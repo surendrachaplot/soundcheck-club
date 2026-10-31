@@ -1,6 +1,6 @@
 # Sony Hall
 
-Sony Hall is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sony Hall HALLOWEEN PARTY 2026" on Sat, 31 Oct 2026.
+Sony Hall is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Sony Hall HALLOWEEN PARTY 2026" on Sat, 31 Oct 2026.
 
 Sony Hall is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Sony Hall is a music venue in New York City listed on soundcheck. 2 upcoming gig
 | Sat, 31 Oct 2026 | Sony Hall HALLOWEEN PARTY 2026 |  |
 | Thu, 31 Dec 2026 | Sony Hall NYE 27 NYC |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sony-hall/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/sony-hall/)*

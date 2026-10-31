@@ -1,6 +1,6 @@
 # Ben Gomori
 
-Ben Gomori is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
+Ben Gomori is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
 
 Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside Ariane V, Gaucho (UK) and Sarahtonin. Next up: KitKatClub, Berlin on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ Ben Gomori is a house and disco artist based in United Kingdom, with 61 gigs on 
 
 Ariane V, Gaucho (UK), Sarahtonin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bengomori/)*

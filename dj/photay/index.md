@@ -1,6 +1,6 @@
 # Photay
 
-Photay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Agora Records, Los Angeles on Sat, 13 Feb 2027.
+Photay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Agora Records, Los Angeles on Sat, 13 Feb 2027.
 
 Photay is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Berlin, Chicago, Detroit and London and 5 more. Often billed alongside Toribio, Celia Hollander and Colloboh. Next up: Agora Records, Los Angeles on Sat 13 Feb.
 
@@ -25,4 +25,4 @@ Photay is a house and techno artist based in United States of America, with 30 g
 
 Toribio, Celia Hollander, Colloboh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/photay/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/photay/)*

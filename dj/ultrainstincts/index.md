@@ -1,6 +1,6 @@
 # Ultra Instincts
 
-Ultra Instincts is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Ultra Instincts is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 Ultra Instincts is a bass and techno artist, with 12 gigs on soundcheck across Berlin, Poznan, Warsaw and Zurich. Often billed alongside Melania ., Inverse Element and ASEC. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ultra Instincts is a bass and techno artist, with 12 gigs on soundcheck across B
 
 Melania ., Inverse Element, ASEC
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrainstincts/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrainstincts/)*

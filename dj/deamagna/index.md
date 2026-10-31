@@ -1,6 +1,6 @@
 # DEA MAGNA
 
-DEA MAGNA is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at At&t Performing Arts Center, Dallas/Fort Worth on Sat, 31 Oct 2026.
+DEA MAGNA is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at At&t Performing Arts Center, Dallas/Fort Worth on Sat, 31 Oct 2026.
 
 DEA MAGNA is a techno and hardcore artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Barcelona, Dallas/Fort Worth and Los Angeles and 5 more. Often billed alongside Fatima Hajji, A.Knives and ARCHON. Next up: At&t Performing Arts Center, Dallas/Fort Worth on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ DEA MAGNA is a techno and hardcore artist based in United States of America, wit
 
 Fatima Hajji, A.Knives, ARCHON
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deamagna/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deamagna/)*

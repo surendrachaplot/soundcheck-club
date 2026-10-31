@@ -1,6 +1,6 @@
 # Kotelett
 
-Kotelett is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+Kotelett is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
 Kotelett is a house and techno artist based in Germany, with 47 gigs on soundcheck across Berlin, Cape Town, Hamburg and Istanbul and 2 more. Often billed alongside Foolik, Pauli Pocket and Mimi Love. Next up: Kater, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kotelett is a house and techno artist based in Germany, with 47 gigs on soundche
 
 Foolik, Pauli Pocket, Mimi Love
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotelett/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotelett/)*

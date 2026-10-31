@@ -1,8 +1,8 @@
 # Alis
 
-Alis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Alis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
-Alis is a techno and house artist, with 12 gigs on soundcheck across Barcelona, Berlin, Bologna and Madrid and 3 more. Often billed alongside Sinai, 3polar and ALIS.. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
+Alis is a techno and house artist based in Germany, with 12 gigs on soundcheck across Barcelona, Berlin, Bologna and Madrid and 3 more. Often billed alongside Sinai, 3polar and ALIS.. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alis is a techno and house artist, with 12 gigs on soundcheck across Barcelona, 
 
 Sinai (1), 3polar, ALIS.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alis/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alis/)*

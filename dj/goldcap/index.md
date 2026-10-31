@@ -1,6 +1,6 @@
 # Goldcap
 
-Goldcap is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - DTLA, Los Angeles on Thu, 31 Dec 2026.
+Goldcap is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - DTLA, Los Angeles on Thu, 31 Dec 2026.
 
 Goldcap is a deep house and house artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Bali, Chicago and Denver and 11 more. Often billed alongside Sabo, ELIF and Authentic. Next up: TBA - DTLA, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Goldcap is a deep house and house artist based in United States of America, with
 
 Sabo, ELIF, Authentic
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldcap/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goldcap/)*

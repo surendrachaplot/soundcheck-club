@@ -1,6 +1,6 @@
 # S-vibe
 
-S-vibe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Plan B, Malmo on Thu, 31 Dec 2026.
+S-vibe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Plan B, Malmo on Thu, 31 Dec 2026.
 
 S-vibe is a techno and house artist based in Sweden, with 79 gigs on soundcheck across Amsterdam, Copenhagen, Helsinki and Krakow and 2 more. Often billed alongside Aleksander Lopez, Jayzo and AELVA K. Next up: Plan B, Malmo on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ S-vibe is a techno and house artist based in Sweden, with 79 gigs on soundcheck 
 
 Aleksander Lopez, Jayzo, AELVA K
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-vibe/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-vibe/)*

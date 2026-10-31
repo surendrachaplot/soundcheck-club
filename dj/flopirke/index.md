@@ -1,6 +1,6 @@
 # Flo Pirke
 
-Flo Pirke is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
+Flo Pirke is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hafenklang, Hamburg on Sat, 31 Oct 2026.
 
 Flo Pirke is a house and techno artist based in Germany, with 31 gigs on soundcheck across Barcelona, Berlin and Hamburg. Often billed alongside Coco, Bee Lincoln and Annina. Next up: Hafenklang, Hamburg on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Flo Pirke is a house and techno artist based in Germany, with 31 gigs on soundch
 
 Coco, Bee Lincoln, Annina
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flopirke/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flopirke/)*

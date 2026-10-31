@@ -1,14 +1,13 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 32 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Ponyboy Halloween : A Nightlife Horror Opera (GALVANIZERS TAKEOVER)" on Fri, 30 Oct 2026.
+SWG3 is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "FLY | House Heads Halloween | Glasgow" on Sat, 31 Oct 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 32 upcoming gigs, with line-ups including Alexandria, AMMARA, Archie Hamilton and Boss Priester and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, with line-ups including Alexandria, AMMARA, Archie Hamilton and Boss Priester and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Ponyboy Halloween : A Nightlife Horror Opera (GALVANIZERS TAKEOVER) | Crystallmess, HUNTRESS, I. JORDAN, Miss Cabbage, Plantainchipps |
 | Sat, 31 Oct 2026 | FLY / House Heads Halloween / Glasgow | Archie Hamilton, Papa Nugs, Sidney Charles |
 | Sat, 31 Oct 2026 | House Heads Halloween - Glasgow | Archie Hamilton, Carmen Baía, Gaskin, Papa Nugs, Sidney Charles |
 | Fri, 6 Nov 2026 | L.P. Rhythm Glasgow Weekender | Alexandria, The Trip |
@@ -18,9 +17,10 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 32 upcoming gigs, with li
 | Fri, 13 Nov 2026 | SYNRG Presents - Francesco Del Garda & DJ Masda | DJ Masda, Francesco Del Garda |
 | Fri, 13 Nov 2026 | SYNRG Presents - Francesco Del Garda & DJ Masda | DJ Masda, Francesco Del Garda |
 | Fri, 13 Nov 2026 | SYNRG presents: Francesco Del Garda b2b DJ Masda (All Night Long) | DJ Masda, Francesco Del Garda |
+| Fri, 13 Nov 2026 | FLY / Jamback, Locky & Boss Priester / Glasgow | Boss Priester, Jamback, Locky |
 
 ## Address
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

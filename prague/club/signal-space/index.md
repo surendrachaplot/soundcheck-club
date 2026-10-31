@@ -1,6 +1,6 @@
 # Signal Space
 
-Signal Space is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Zkouška Sirén #48" on Wed, 4 Nov 2026.
+Signal Space is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Zkouška Sirén #48" on Wed, 4 Nov 2026.
 
 Signal Space is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Nocturnal Thing. See dates, start times and who's playing. Rytířská 406/10, 110 00 Old Town, Prague 1.
 
@@ -14,4 +14,4 @@ Signal Space is a music venue in Prague listed on soundcheck. 1 upcoming gig, wi
 
 Rytířská 406/10, 110 00 Old Town, Prague 1, Prague
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/signal-space/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/signal-space/)*

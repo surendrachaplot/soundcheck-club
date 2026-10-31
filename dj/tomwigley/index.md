@@ -1,6 +1,6 @@
 # Tom Wigley
 
-Tom Wigley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+Tom Wigley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 Tom Wigley is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside Sam Day, YRS and tasha.mp4. Next up: Bricks, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tom Wigley is a house and techno artist based in United Kingdom, with 12 gigs on
 
 Sam Day, YRS (1), tasha.mp4
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwigley/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomwigley/)*

@@ -1,6 +1,6 @@
 # Alexia Glensy
 
-Alexia Glensy is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Alexia Glensy is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
 
 Alexia Glensy is a house and techno artist based in Brazil, with 179 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 39 more. Often billed alongside Alex Dima, Gabbs and Cap. Next up: Orlagh House, Dublin on Fri 30 Oct.
 
@@ -19,6 +19,7 @@ Alexia Glensy is a house and techno artist based in Brazil, with 179 gigs on sou
 
 ## Recently played
 
+- Orlagh House, Dublin · Fri, 30 Oct 2026
 - TILLATEC, Amsterdam · Mon, 26 Oct 2026
 - TBA, Amsterdam · Sun, 25 Oct 2026
 - Klaproos, Amsterdam · Fri, 23 Oct 2026
@@ -26,10 +27,9 @@ Alexia Glensy is a house and techno artist based in Brazil, with 179 gigs on sou
 - Les Enfants Brillants, Barcelona · Sat, 3 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - MOGO, Milan · Fri, 18 Sept 2026
-- Bunker, Turin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Alex Dima, Gabbs, Cap
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexiaglensy/)*

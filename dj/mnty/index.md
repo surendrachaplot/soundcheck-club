@@ -1,6 +1,6 @@
 # MNTY
 
-MNTY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Fünk, Mexico City on Sat, 31 Oct 2026.
+MNTY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fünk, Mexico City on Sat, 31 Oct 2026.
 
 MNTY is a house and techno artist based in Mexico, with 97 gigs on soundcheck across Amsterdam, Berlin, Guadalajara and Mexico City and 4 more. Often billed alongside Bluecommand, Valeriana and AAAA. Next up: Fünk, Mexico City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ MNTY is a house and techno artist based in Mexico, with 97 gigs on soundcheck ac
 
 Bluecommand, Valeriana, AAAA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mnty/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mnty/)*

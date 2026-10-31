@@ -1,6 +1,6 @@
 # lilbesh ramko
 
-lilbesh ramko is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at WWW X, Tokyo on Sat, 7 Nov 2026.
+lilbesh ramko is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at WWW X, Tokyo on Sat, 7 Nov 2026.
 
 lilbesh ramko is a club and electro artist based in Japan, with 40 gigs on soundcheck across Kyoto, Seoul and Tokyo. Often billed alongside music fm, okadada and Aiobahn. Next up: WWW X, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ lilbesh ramko is a club and electro artist based in Japan, with 40 gigs on sound
 
 music fm, okadada, Aiobahn
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilbeshramko/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilbeshramko/)*

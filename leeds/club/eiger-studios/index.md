@@ -1,14 +1,13 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "OnTime Records Pres: Rob Pearson" on Fri, 30 Oct 2026.
+Eiger Studios is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Shy Bairns X Club Eiger" on Sat, 31 Oct 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 14 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | OnTime Records Pres: Rob Pearson | PAS, Rob Pearson, TriForm |
 | Sat, 31 Oct 2026 | Shy Bairns X Club Eiger | Oliver Kristian, PIP., Redshift (2), Torin Grady, Weston |
 | Fri, 6 Nov 2026 | Twister x Peppermint w/ Club Cosmos | Elliot Holt, Jordan Walker, Richard Gregory, Simon Scott |
 | Sat, 7 Nov 2026 | ROGUE PUPPET presents: Decka | Decka, Kessie, nilehn, quarter ohm |
@@ -18,9 +17,10 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 14 upcoming gigs, 
 | Fri, 20 Nov 2026 | Big Boys presents Opening Night with Cottam | Cottam (2), Joe Ross, Kid Charlemagne |
 | Sat, 21 Nov 2026 | La Bise 1st Birthday: Dan Andrei, Benny Bysouth & Redshift | Benny Bysouth, Dan Andrei, Redshift (2) |
 | Fri, 27 Nov 2026 | desire line with mad miran & residents | Constance, Eve Lizard, Jetsam, mad miran |
+| Sat, 28 Nov 2026 | Introducing Voltage | BUTCHABOI, SUBVISIONS |
 
 ## Address
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

@@ -1,6 +1,6 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Interstellar Funk, Gabriele Russo, Domgreek" on Sat, 31 Oct 2026.
+REC Napoli is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Interstellar Funk, Gabriele Russo, Domgreek" on Sat, 31 Oct 2026.
 
 REC Napoli is a music venue in Naples listed on soundcheck. 13 upcoming gigs, with line-ups including Ale Hope, Anthea, Bobby. and busexy and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
@@ -23,4 +23,4 @@ REC Napoli is a music venue in Naples listed on soundcheck. 13 upcoming gigs, wi
 
 Via Campana 233, Pozzuoli, 80078, Napoli, Naples
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*

@@ -1,6 +1,6 @@
 # source:link
 
-source:link is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
+source:link is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
 
 source:link is a house and techno artist based in France, with 25 gigs on soundcheck across Barcelona, Berlin, Helsinki and Leipzig and 5 more. Often billed alongside ābnamā, ADAM MUNNINGS and Hanaby. Next up: Circolo Amelia, Milan on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ source:link is a house and techno artist based in France, with 25 gigs on soundc
 
 ābnamā, ADAM MUNNINGS, Hanaby
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcelink/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sourcelink/)*

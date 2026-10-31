@@ -1,6 +1,6 @@
 # DMS1N3RGY
 
-DMS1N3RGY is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at John Doe, Amsterdam on Sat, 28 Nov 2026.
+DMS1N3RGY is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at John Doe, Amsterdam on Sat, 28 Nov 2026.
 
 DMS1N3RGY is a techno and hardcore artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Berlin and Sofia. Often billed alongside Paroxyzm, Popsen and Robin Hastings. Next up: John Doe, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DMS1N3RGY is a techno and hardcore artist based in Netherlands, with 34 gigs on 
 
 Paroxyzm, Popsen, Robin Hastings
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dms1n3rgy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dms1n3rgy/)*

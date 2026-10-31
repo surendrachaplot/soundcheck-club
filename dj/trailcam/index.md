@@ -1,6 +1,6 @@
 # Trailcam
 
-Trailcam is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bambi's, Toronto on Fri, 6 Nov 2026.
+Trailcam is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bambi's, Toronto on Fri, 6 Nov 2026.
 
 Trailcam is a techno and dub techno artist based in Canada, with 23 gigs on soundcheck across Berlin, Detroit, London and Melbourne and 4 more. Often billed alongside Anthony Linell, Evigt Mörker and Jessie Granqvist. Next up: Bambi's, Toronto on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Trailcam is a techno and dub techno artist based in Canada, with 23 gigs on soun
 
 Anthony Linell, Evigt Mörker, Jessie Granqvist
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trailcam/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trailcam/)*

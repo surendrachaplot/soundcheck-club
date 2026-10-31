@@ -1,14 +1,13 @@
 # Radius
 
-Radius is a music venue in Chicago with 27 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "ATLiens" on Fri, 30 Oct 2026.
+Radius is a music venue in Chicago with 26 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BOOTS HALLOWEEN - COBRAH, BREE RUNWAY, Pixel Grip, deBasement + MORE" on Fri, 30 Oct 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 27 upcoming gigs, with line-ups including 10cust, Adiel, AEREA and Ariel Zetina and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 26 upcoming gigs, with line-ups including 10cust, Adiel, AEREA and Ariel Zetina and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | ATLiens |  |
 | Fri, 30 Oct 2026 | BOOTS HALLOWEEN - COBRAH, BREE RUNWAY, Pixel Grip, deBasement + MORE | Ariel Zetina, COBRAH, DJ GayBash!, Kirk (US), Miss Twink USA, Pixel Grip, Shaun J. Wright, deBasement |
 | Fri, 6 Nov 2026 | Kaskade | Kaskade |
 | Fri, 6 Nov 2026 | Rossi. at Cermak Hall | Rossi |
@@ -18,9 +17,10 @@ Radius is a music venue in Chicago listed on soundcheck. 27 upcoming gigs, with 
 | Sat, 14 Nov 2026 | Brutalismus 3000 | 10cust, Brutalismus 3000, Cannelle, Tdy (1) |
 | Sat, 14 Nov 2026 | Benwal, Diffrent, Kyle Starkey, Paige Tomlinson, STÜM, + b2b2b2b2b2b at Cermak Hall | Benwal, Diffrent, Kyle Starkey, Paige Tomlinson, STÜM |
 | Fri, 20 Nov 2026 | PROSPA presents Prophecy |  |
+| Fri, 20 Nov 2026 | AEREA at Cermak Hall | AEREA, Adiel, Clara Cuvé |
 
 ## Address
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

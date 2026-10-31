@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Midway, San Francisco/Oakland on Fri, 6 Nov 2026.
+Adriatique is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Midway, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Adriatique is a techno and house artist based in Switzerland, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 48 more. Often billed alongside Mind Against, Colyn and DJ Tennis. Next up: The Midway, San Francisco/Oakland on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Adriatique is a techno and house artist based in Switzerland, with 184 gigs on s
 
 Mind Against, Colyn, DJ Tennis
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

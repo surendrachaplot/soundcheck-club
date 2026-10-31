@@ -1,14 +1,15 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Arts District LA, Los Angeles on Sat, 31 Oct 2026.
+Satoshi Tomiie is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Arts District LA, Los Angeles on Sat, 31 Oct 2026.
 
-Satoshi Tomiie is a house and techno artist based in Japan, with 146 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 48 more. Often billed alongside Doudou MD, Kuniyuki and Tomoki Tamura. Next up: TBA - Arts District LA, Los Angeles on Sat 31 Oct.
+Satoshi Tomiie is a house and techno artist based in Japan, with 147 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 48 more. Often billed alongside Doudou MD, Tomoki Tamura and Kuniyuki. Next up: TBA - Arts District LA, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | TBA - Arts District LA | Los Angeles |
+| Sun, 1 Nov 2026 | TBA - Outdoor Location - DTLA  | Los Angeles |
 | Sat, 7 Nov 2026 | Refuge | New York City |
 | Fri, 13 Nov 2026 | Salon Daomé | Montreal |
 | Sat, 14 Nov 2026 | Bastet | Philadelphia |
@@ -29,6 +30,6 @@ Satoshi Tomiie is a house and techno artist based in Japan, with 146 gigs on sou
 
 ## Shares bills with
 
-Doudou MD, Kuniyuki, Tomoki Tamura
+Doudou MD, Tomoki Tamura, Kuniyuki
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshitomiie/)*

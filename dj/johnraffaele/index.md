@@ -1,6 +1,6 @@
 # John Raffaele
 
-John Raffaele is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Mad Radio Miami, Miami on Sat, 31 Oct 2026.
+John Raffaele is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Mad Radio Miami, Miami on Sat, 31 Oct 2026.
 
 John Raffaele is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 10 more. Often billed alongside Keen, Sweater and Rob Paine. Next up: Mad Radio Miami, Miami on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ John Raffaele is a house and techno artist based in United States of America, wi
 
 Keen, Sweater, Rob Paine
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*

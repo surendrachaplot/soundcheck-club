@@ -1,6 +1,6 @@
 # sim0ne
 
-sim0ne is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 31 Oct 2026.
+sim0ne is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Q35 WAREHOUSE, Turin on Sat, 31 Oct 2026.
 
 sim0ne is a techno and house artist based in United Kingdom, with 126 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 47 more. Often billed alongside Juicy Romance, DJ Heartstring and Mischluft. Next up: Q35 WAREHOUSE, Turin on Sat 31 Oct.
 
@@ -34,4 +34,4 @@ sim0ne is a techno and house artist based in United Kingdom, with 126 gigs on so
 
 Juicy Romance, DJ Heartstring, Mischluft
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sim0ne/)*

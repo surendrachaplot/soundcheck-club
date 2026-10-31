@@ -1,6 +1,6 @@
 # Ta1da
 
-Ta1da is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Blå, Oslo on Sat, 7 Nov 2026.
+Ta1da is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Blå, Oslo on Sat, 7 Nov 2026.
 
 Ta1da is a house and garage artist based in Norway, with 11 gigs on soundcheck across Gothenburg, Helsinki and Oslo. Often billed alongside Loveshy, Morstaq and NASHA. Next up: Blå, Oslo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Ta1da is a house and garage artist based in Norway, with 11 gigs on soundcheck a
 
 Loveshy, Morstaq, NASHA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ta1da/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ta1da/)*

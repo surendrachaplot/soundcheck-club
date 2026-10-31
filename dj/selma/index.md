@@ -1,6 +1,6 @@
 # Selma
 
-Selma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ÆDEN, Berlin on Sat, 21 Nov 2026.
+Selma is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ÆDEN, Berlin on Sat, 21 Nov 2026.
 
 Selma is a techno and house artist based in Norway, with 18 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Madrid and 2 more. Often billed alongside Frederik Tollund, Lucky Lube and Dgeral. Next up: ÆDEN, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Selma is a techno and house artist based in Norway, with 18 gigs on soundcheck a
 
 Frederik Tollund, Lucky Lube, Dgeral
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selma/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selma/)*

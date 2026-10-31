@@ -1,8 +1,8 @@
 # lizz.e
 
-lizz.e is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+lizz.e is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 13 Nov 2026.
 
-lizz.e is a house and progressive house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Berlin, Nijmegen and Rotterdam and 2 more. Often billed alongside Boss Priester, Nathan Homan and DJ Life. Next up: Shelter Amsterdam, Amsterdam on Fri 13 Nov.
+lizz.e is a house and progressive house artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, Nijmegen and Rotterdam and 2 more. Often billed alongside Boss Priester, Nathan Homan and DJ Life. Next up: Shelter Amsterdam, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ lizz.e is a house and progressive house artist based in Netherlands, with 20 gig
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 27 Nov 2026 | De Papierfabriek | Nijmegen |
+| Fri, 25 Dec 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 27 Dec 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -27,4 +28,4 @@ lizz.e is a house and progressive house artist based in Netherlands, with 20 gig
 
 Boss Priester, Nathan Homan, DJ Life
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz.e/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz.e/)*

@@ -1,6 +1,6 @@
 # YUXI
 
-YUXI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+YUXI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 YUXI is a techno and house artist, with 75 gigs on soundcheck across Osaka and Tokyo. Often billed alongside DALJAE, ALEXANDER M and Drunken Kong. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ YUXI is a techno and house artist, with 75 gigs on soundcheck across Osaka and T
 
 DALJAE, ALEXANDER M, Drunken Kong
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuxi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yuxi/)*

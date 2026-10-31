@@ -1,6 +1,6 @@
 # CALDEE
 
-CALDEE is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 31 Oct 2026.
+CALDEE is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 CALDEE is a house and club artist, with 11 gigs on soundcheck across Ho Chi Minh City, Los Angeles, Manila and Mexico City and 2 more. Often billed alongside Mackswell, Aku and Bastian Bell. Next up: The Great Northern, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CALDEE is a house and club artist, with 11 gigs on soundcheck across Ho Chi Minh
 
 Mackswell, Aku, Bastian Bell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caldee/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caldee/)*

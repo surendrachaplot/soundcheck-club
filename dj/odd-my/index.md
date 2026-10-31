@@ -1,6 +1,6 @@
 # Odd (MY)
 
-Odd (MY) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 31 Oct 2026.
+Odd (MY) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - JOLOKO, Kuala Lumpur on Sat, 31 Oct 2026.
 
 Odd (MY) is a techno and house artist based in Malaysia, with 47 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Meliha and JonnyVicious. Next up: TBA - JOLOKO, Kuala Lumpur on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Odd (MY) is a techno and house artist based in Malaysia, with 47 gigs on soundch
 
 Alam, Meliha, JonnyVicious
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odd-my/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/odd-my/)*

@@ -1,6 +1,6 @@
 # Kuniyuki
 
-Kuniyuki is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Castle, Kansai on Sat, 14 Nov 2026.
+Kuniyuki is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Castle, Kansai on Sat, 14 Nov 2026.
 
 Kuniyuki is a house and techno artist based in Japan, with 81 gigs on soundcheck across Adelaide, Amsterdam, Bali and Beijing and 22 more. Often billed alongside Toshiya Kawasaki, Sleep D and KZA. Next up: The Castle, Kansai on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Kuniyuki is a house and techno artist based in Japan, with 81 gigs on soundcheck
 
 Toshiya Kawasaki, Sleep D, KZA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniyuki/)*

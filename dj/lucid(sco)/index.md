@@ -1,6 +1,6 @@
 # Lucid (Sco)
 
-Lucid (Sco) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at People's Leisure Club, Edinburgh on Thu, 5 Nov 2026.
+Lucid (Sco) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at People's Leisure Club, Edinburgh on Thu, 5 Nov 2026.
 
 Lucid (Sco) is a techno and industrial artist based in United Kingdom, with 9 gigs on soundcheck across Edinburgh. Often billed alongside NEONVITA, 3SBAT and Dissonance Network. Next up: People's Leisure Club, Edinburgh on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Lucid (Sco) is a techno and industrial artist based in United Kingdom, with 9 gi
 
 NEONVITA, 3SBAT, Dissonance Network
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid(sco)/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucid(sco)/)*

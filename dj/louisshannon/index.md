@@ -1,6 +1,6 @@
 # Louis Shannon
 
-Louis Shannon is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
+Louis Shannon is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at WOMB, Tokyo on Sat, 14 Nov 2026.
 
 Louis Shannon is a tech house and house artist based in Japan, with 144 gigs on soundcheck across Tokyo. Often billed alongside ALEXANDER M, Rickey Shannon and JUNKO ONAGI. Next up: WOMB, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Louis Shannon is a tech house and house artist based in Japan, with 144 gigs on 
 
 ALEXANDER M, Rickey Shannon, JUNKO ONAGI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louisshannon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louisshannon/)*

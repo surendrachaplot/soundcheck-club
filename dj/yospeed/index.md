@@ -1,6 +1,6 @@
 # Yo Speed
 
-Yo Speed is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
+Yo Speed is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brixton Jamm, London on Sat, 31 Oct 2026.
 
 Yo Speed is a breakbeat and bass artist based in Spain, with 6 gigs on soundcheck across Brisbane, London, Melbourne and Osaka and 1 more. Often billed alongside Guau, AC Industries and Evil Nine. Next up: Brixton Jamm, London on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Yo Speed is a breakbeat and bass artist based in Spain, with 6 gigs on soundchec
 
 Guau, AC Industries, Evil Nine
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yospeed/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yospeed/)*

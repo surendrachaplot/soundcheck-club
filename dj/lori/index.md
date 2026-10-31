@@ -1,6 +1,6 @@
 # Lori (1)
 
-Lori (1) is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Zanzibar - Various Venues, Tanzania on Thu, 14 Jan 2027.
+Lori (1) is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Zanzibar - Various Venues, Tanzania on Thu, 14 Jan 2027.
 
 Lori is a house and dub artist based in Australia, with 22 gigs on soundcheck across Amsterdam, Melbourne, Riga and Sydney and 2 more. Often billed alongside Boris Coelman, Cynthia Spiering and DJ JNETT. Next up: Zanzibar - Various Venues, Tanzania on Thu 14 Jan.
 
@@ -25,4 +25,4 @@ Lori is a house and dub artist based in Australia, with 22 gigs on soundcheck ac
 
 Boris Coelman, Cynthia Spiering, DJ JNETT
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lori/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lori/)*

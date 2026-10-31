@@ -1,6 +1,6 @@
 # DJ Hybrid
 
-DJ Hybrid is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hangar 34, Liverpool on Sat, 31 Oct 2026.
+DJ Hybrid is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hangar 34, Liverpool on Sat, 31 Oct 2026.
 
 DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Auckland, Boston and Brighton and 14 more. Often billed alongside Benny Page, Deekline and Hypershe. Next up: Hangar 34, Liverpool on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, with 34 gi
 
 Benny Page, Deekline, Hypershe
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhybrid/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhybrid/)*

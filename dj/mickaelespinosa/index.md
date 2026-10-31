@@ -1,6 +1,6 @@
 # Mickael Espinosa
 
-Mickael Espinosa is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Vault Club, East on Fri, 27 Nov 2026.
+Mickael Espinosa is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Vault Club, East on Fri, 27 Nov 2026.
 
 Mickael Espinosa is a tech house and house artist based in Switzerland, with 19 gigs on soundcheck across Basel, East, London and Zurich. Often billed alongside Ramoss, Ale Grooves and And Hazel. Next up: Vault Club, East on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mickael Espinosa is a tech house and house artist based in Switzerland, with 19 
 
 Ramoss, Ale Grooves, And Hazel
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mickaelespinosa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mickaelespinosa/)*

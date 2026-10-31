@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "404: DURDENHAUER" on Fri, 30 Oct 2026.
+The Comfort Zone is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "404: DURDENHAUER" on Fri, 30 Oct 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Carlo Lio, DURDENHAUER, Gene Farris and Hatiras and 2 more. See dates, start times and who's playing. 1369 Queen St. West.
 
@@ -23,4 +23,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 10 upcoming g
 
 1369 Queen St. West, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

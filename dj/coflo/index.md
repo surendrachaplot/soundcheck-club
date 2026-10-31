@@ -1,6 +1,6 @@
 # Coflo
 
-Coflo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Middlesex, Boston on Thu, 17 Dec 2026.
+Coflo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Middlesex, Boston on Thu, 17 Dec 2026.
 
 Coflo is a house and deep house artist based in United States of America, with 63 gigs on soundcheck across Amsterdam, Boston, Charlotte and Chicago and 19 more. Often billed alongside sillygirlcarmen, Jayvi Velasco and Norm Talley. Next up: Middlesex, Boston on Thu 17 Dec.
 
@@ -26,4 +26,4 @@ Coflo is a house and deep house artist based in United States of America, with 6
 
 sillygirlcarmen, Jayvi Velasco, Norm Talley
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coflo/)*

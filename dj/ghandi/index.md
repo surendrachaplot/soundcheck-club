@@ -1,6 +1,6 @@
 # Ghandi
 
-Ghandi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bukanyr Boat, Prague on Sat, 7 Nov 2026.
+Ghandi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bukanyr Boat, Prague on Sat, 7 Nov 2026.
 
 Ghandi is a house and techno artist based in Czech Republic, with 25 gigs on soundcheck across Glasgow, Ibiza, Los Angeles and Prague. Often billed alongside Saku, Bazooka Joe and Dash (CZ). Next up: Bukanyr Boat, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ghandi is a house and techno artist based in Czech Republic, with 25 gigs on sou
 
 Saku, Bazooka Joe, Dash (CZ)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghandi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghandi/)*

@@ -1,6 +1,6 @@
 # VLTRA (IT)
 
-VLTRA (IT) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+VLTRA (IT) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
 VLTRA (IT) is a tech house and house artist based in Italy, with 26 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bologna and 11 more. Often billed alongside Eddy M, Ferreck Dawn and GENESI. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ VLTRA (IT) is a tech house and house artist based in Italy, with 26 gigs on soun
 
 Eddy M, Ferreck Dawn, GENESI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vltra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vltra/)*

@@ -1,6 +1,6 @@
 # Dagger
 
-Dagger is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ciao ciao Bar, Berlin on Sat, 31 Oct 2026.
+Dagger is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ciao ciao Bar, Berlin on Sat, 31 Oct 2026.
 
 Dagger is an ebm and industrial artist, with 23 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Stacey Cute, Chica Acosta and Eva Faerie. Next up: ciao ciao Bar, Berlin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dagger is an ebm and industrial artist, with 23 gigs on soundcheck across Barcel
 
 Stacey Cute, Chica Acosta, Eva Faerie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagger/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagger/)*

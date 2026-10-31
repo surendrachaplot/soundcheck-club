@@ -1,14 +1,13 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Golden Lion, Manchester on Fri, 30 Oct 2026.
+Make A Dance is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Outer Heaven, New York City on Fri, 13 Nov 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 41 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: The Golden Lion, Manchester on Fri 30 Oct.
+Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 41 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Outer Heaven, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | The Golden Lion | Manchester |
 | Fri, 13 Nov 2026 | Outer Heaven | New York City |
 | Sat, 14 Nov 2026 | TBA - Open Air: Downtown Los Angeles | Los Angeles |
 | Sat, 21 Nov 2026 | NUMBER 90 LONDON | London |
@@ -20,9 +19,11 @@ Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs 
 | Thu, 31 Dec 2026 | KOKO | London |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 | Thu, 14 Jan 2027 | Igloofest | Montreal |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- The Golden Lion, Manchester · Fri, 30 Oct 2026
 - Sub Club, Glasgow · Fri, 23 Oct 2026
 - Sub Club, Glasgow · Fri, 23 Oct 2026
 - Morgan's Bar, Manchester · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs 
 - Sneaky Pete's, Edinburgh · Sat, 10 Oct 2026
 - Night Tales, London · Fri, 9 Oct 2026
 - Yellow Arch Studios, Sheffield · Fri, 2 Oct 2026
-- Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Paula Tape, Tash LC, Thom Parris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/makeadance/)*

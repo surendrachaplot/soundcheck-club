@@ -1,6 +1,6 @@
 # Mall Grab
 
-Mall Grab is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Mall Grab is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Mall Grab is a house and techno artist based in Australia, with 229 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 80 more. Often billed alongside Effy, KETTAMA and Skin On Skin. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -18,6 +18,7 @@ Mall Grab is a house and techno artist based in Australia, with 229 gigs on soun
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 30 Oct 2026
 - Substation, Seattle · Thu, 29 Oct 2026
 - Société des arts technologiques, Montreal · Sat, 24 Oct 2026
 - Carriageworks, Sydney · Sat, 10 Oct 2026
@@ -25,10 +26,9 @@ Mall Grab is a house and techno artist based in Australia, with 229 gigs on soun
 - Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
 - Prince Charles, Berlin · Fri, 11 Sept 2026
 - Escala25, Lisbon · Sat, 5 Sept 2026
-- Electric Studios, Sheffield · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Effy, KETTAMA, Skin On Skin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mallgrab/)*

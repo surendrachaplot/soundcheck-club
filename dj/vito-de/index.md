@@ -1,6 +1,6 @@
 # ViTo
 
-ViTo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Delgalleria - Espa, Helsinki on Sat, 14 Nov 2026.
+ViTo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Delgalleria - Espa, Helsinki on Sat, 14 Nov 2026.
 
 ViTo is a tech house and house artist based in Germany, with 15 gigs on soundcheck across Barcelona, Basel, Glasgow and Helsinki and 4 more. Often billed alongside AJ Christou, Blanch and Joëlla Jackson. Next up: Delgalleria - Espa, Helsinki on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ViTo is a tech house and house artist based in Germany, with 15 gigs on soundche
 
 AJ Christou, Blanch, Joëlla Jackson
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vito-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vito-de/)*

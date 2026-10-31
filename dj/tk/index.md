@@ -1,6 +1,6 @@
 # TK
 
-TK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wönzimer, Los Angeles on Sun, 1 Nov 2026.
+TK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Wönzimer, Los Angeles on Sun, 1 Nov 2026.
 
 TK is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Dublin, Istanbul and London and 6 more. Often billed alongside Galen, Sean Murray and Solar. Next up: Wönzimer, Los Angeles on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ TK is a house and techno artist based in United States of America, with 22 gigs 
 
 Galen, Sean Murray, Solar
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tk/)*

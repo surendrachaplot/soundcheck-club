@@ -1,6 +1,6 @@
 # The Packhorse
 
-The Packhorse is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Lock, Stock & Two Turntables" on Fri, 20 Nov 2026.
+The Packhorse is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Lock, Stock & Two Turntables" on Fri, 20 Nov 2026.
 
 The Packhorse is a music venue in Leeds listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 208 Woodhouse Ln., Woodhouse, Leeds LS2 9DX.
 
@@ -15,4 +15,4 @@ The Packhorse is a music venue in Leeds listed on soundcheck. 2 upcoming gigs. S
 
 208 Woodhouse Ln., Woodhouse, Leeds LS2 9DX, Leeds
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-packhorse/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-packhorse/)*

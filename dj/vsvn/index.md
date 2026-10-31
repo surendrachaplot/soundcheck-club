@@ -1,6 +1,6 @@
 # VSVN
 
-VSVN is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at All My Friends, London on Sun, 27 Dec 2026.
+VSVN is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at All My Friends, London on Sun, 27 Dec 2026.
 
 VSVN is a house and garage artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Steamy Bumplings, fae (UK) and Jhumka. Next up: All My Friends, London on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ VSVN is a house and garage artist based in United Kingdom, with 13 gigs on sound
 
 Steamy Bumplings, fae (UK), Jhumka
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsvn/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vsvn/)*

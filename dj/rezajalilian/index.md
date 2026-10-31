@@ -1,6 +1,6 @@
 # Reza Jalilian
 
-Reza Jalilian is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+Reza Jalilian is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
 Reza Jalilian is a house and disco artist based in Iran, with 3 gigs on soundcheck across Berlin. Often billed alongside ADAM MUNNINGS, Alison Swing and Alma Negrot. Next up: Kater, Berlin on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Reza Jalilian is a house and disco artist based in Iran, with 3 gigs on soundche
 
 ADAM MUNNINGS, Alison Swing, Alma Negrot
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rezajalilian/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rezajalilian/)*

@@ -1,6 +1,6 @@
 # Giu Nunez
 
-Giu Nunez is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
+Giu Nunez is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
 
 Giu Nunez is a house and disco artist based in Brazil, with 106 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brazil and 14 more. Often billed alongside Craig Ouar, Carrot Green and Cashu. Next up: TBA - Caleta - Dr. Atl 62, Mexico City on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Giu Nunez is a house and disco artist based in Brazil, with 106 gigs on soundche
 
 Craig Ouar, Carrot Green, Cashu
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giununez/)*

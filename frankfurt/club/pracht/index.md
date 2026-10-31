@@ -1,18 +1,17 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SPEECHLESS x Pracht with Pascale Voltaire" on Fri, 30 Oct 2026.
+Pracht is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "PrachtNACHT X HALLOWEEN with heSAWyou, Maex, Benja Asima" on Sat, 31 Oct 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including Andrea Castells, Benja Asima, heSAWyou and Maex and 1 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including Benja Asima, heSAWyou and Maex. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | SPEECHLESS x Pracht with Pascale Voltaire | Andrea Castells, Pascale Voltaire |
 | Sat, 31 Oct 2026 | PrachtNACHT X HALLOWEEN with heSAWyou, Maex, Benja Asima | Benja Asima, Maex, heSAWyou |
 
 ## Address
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

@@ -1,14 +1,13 @@
 # Electric Studios
 
-Electric Studios is a music venue in Sheffield with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Danza x Sunken presents Jamie Fielding" on Fri, 30 Oct 2026.
+Electric Studios is a music venue in Sheffield with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween: Girls Don't Sync" on Sat, 31 Oct 2026.
 
-Electric Studios is a music venue in Sheffield listed on soundcheck. 8 upcoming gigs, with line-ups including Big Ang, Channel One Sound, Chicane and Dan Shake and 2 more. See dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
+Electric Studios is a music venue in Sheffield listed on soundcheck. 7 upcoming gigs, with line-ups including Big Ang, Channel One Sound, Chicane and Dan Shake and 2 more. See dates, start times and who's playing. 6 Leadmill Road, Sheffield, S1 4SE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Danza x Sunken presents Jamie Fielding | Jamie Fielding |
 | Sat, 31 Oct 2026 | Halloween: Girls Don't Sync | Big Ang, Frazer Ray, Girls Don't Sync |
 | Thu, 5 Nov 2026 | Channel One Sound System UK Tour: Sheffield | Channel One Sound |
 | Fri, 6 Nov 2026 | Fever 105 Sheffield: Dan Shake, Horse Meat Disco, MiNNA + more | Dan Shake, Horse Meat Disco, La Rumba, MiNNA, Theon Bower |
@@ -21,4 +20,4 @@ Electric Studios is a music venue in Sheffield listed on soundcheck. 8 upcoming 
 
 6 Leadmill Road, Sheffield, S1 4SE, Sheffield
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/electric-studios/)*

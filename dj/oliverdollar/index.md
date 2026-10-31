@@ -1,6 +1,6 @@
 # Oliver Dollar
 
-Oliver Dollar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Three House Hotel, Portugal on Sat, 31 Oct 2026.
+Oliver Dollar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Three House Hotel, Portugal on Sat, 31 Oct 2026.
 
 Oliver Dollar is a house and tech house artist, with 51 gigs on soundcheck across Adelaide, Bali, Berlin and Boston and 16 more. Often billed alongside Nils Ohrmann, Boogs and Eastside Jon. Next up: Three House Hotel, Portugal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Oliver Dollar is a house and tech house artist, with 51 gigs on soundcheck acros
 
 Nils Ohrmann, Boogs, Eastside Jon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverdollar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverdollar/)*

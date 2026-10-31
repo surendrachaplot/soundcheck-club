@@ -1,14 +1,13 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "'PERSIAN LOVE / SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN)" on Fri, 30 Oct 2026.
+Acud Macht NEU is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Psychopomps" on Sat, 31 Oct 2026.
 
-Acud Macht NEU is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Amowia, Bokaric, DJ Hristos and DJ Sea View and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
+Acud Macht NEU is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Amowia, Bokaric, DJ Hristos and DJ Sea View and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | 'PERSIAN LOVE / SHAB SHOD HALLOWEEN: A Middle Eastern / SWANA Rave' with Milli (MEHMOONI LDN) | Milli |
 | Sat, 31 Oct 2026 | Psychopomps | HWXXNG, Leng Seong, Memeshift, NaN., Sabiwa, Thiên, fugitive radio, mobin |
 | Fri, 6 Nov 2026 | Hyper Fog presents: HYD • ultra caro • s1m0nc3ll0 • DJ Hristos | DJ Hristos, lokik, ultra caro |
 | Sat, 7 Nov 2026 | Reflective Waves | DJ Skurge, Levat, Sarah Farina, TRU:L |
@@ -21,4 +20,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 8 upcoming gigs,
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

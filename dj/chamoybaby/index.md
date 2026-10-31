@@ -1,6 +1,6 @@
 # Chamoy Baby
 
-Chamoy Baby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 31 Oct 2026.
+Chamoy Baby is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 31 Oct 2026.
 
 Chamoy Baby is a techno and house artist based in United States of America, with 32 gigs on soundcheck across Denver, Los Angeles and San Diego. Often billed alongside GRLFRND, Lavenge and Albina Van. Next up: TBA - DTLA, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Chamoy Baby is a techno and house artist based in United States of America, with
 
 GRLFRND, Lavenge, Albina Van
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamoybaby/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chamoybaby/)*

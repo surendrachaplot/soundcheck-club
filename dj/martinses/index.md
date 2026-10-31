@@ -1,6 +1,6 @@
 # martinses
 
-martinses is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
+martinses is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at SMS 514.613.5811 FOR LOCATION, Montreal on Sat, 31 Oct 2026.
 
 martinses is an afro house and afro tech artist based in Canada, with 39 gigs on soundcheck across Montreal and Toronto. Often billed alongside Razaq El Toro, Sonic Griot and Afrique Like Me. Next up: SMS 514.613.5811 FOR LOCATION, Montreal on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ martinses is an afro house and afro tech artist based in Canada, with 39 gigs on
 
 Razaq El Toro, Sonic Griot, Afrique Like Me
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinses/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/martinses/)*

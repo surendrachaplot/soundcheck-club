@@ -1,6 +1,6 @@
 # POGO (JP)
 
-POGO (JP) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Triangle, Osaka on Wed, 11 Nov 2026.
+POGO (JP) is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Triangle, Osaka on Wed, 11 Nov 2026.
 
 POGO (JP) is a bass and drum & bass artist based in Japan, with 14 gigs on soundcheck across Ibiza and Osaka. Often billed alongside kakepon, matres and Savage States. Next up: Triangle, Osaka on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ POGO (JP) is a bass and drum & bass artist based in Japan, with 14 gigs on sound
 
 kakepon, matres, Savage States
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pogo-jp/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pogo-jp/)*

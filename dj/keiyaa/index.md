@@ -1,6 +1,6 @@
 # keiyaA
 
-keiyaA is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Marseille, Marseille on Thu, 12 Nov 2026.
+keiyaA is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Marseille, Marseille on Thu, 12 Nov 2026.
 
 keiyaA is a club and experimental artist based in United States of America, with 34 gigs on soundcheck across Atlanta, Brussels, Detroit and Dublin and 9 more. Often billed alongside YHWH Nailgun, ARCHANGEL (US) and Ciel. Next up: TBA - Marseille, Marseille on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ keiyaA is a club and experimental artist based in United States of America, with
 
 YHWH Nailgun, ARCHANGEL (US), Ciel
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keiyaa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keiyaa/)*

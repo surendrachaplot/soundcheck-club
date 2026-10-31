@@ -1,14 +1,13 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tmnit plays at migas" on Fri, 30 Oct 2026.
+migas, a listening bar is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "sonomayrit plays at migas" on Sat, 31 Oct 2026.
 
-migas, a listening bar is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Amanita, Mauricio Fleury, maxiu and moe.. See dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
+migas, a listening bar is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Amanita, Mauricio Fleury, maxiu and moe.. See dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Tmnit plays at migas |  |
 | Sat, 31 Oct 2026 | sonomayrit plays at migas |  |
 | Wed, 4 Nov 2026 | Anthony Kroytor plays at migas |  |
 | Fri, 6 Nov 2026 | Mauricio Fleury plays at migas | Mauricio Fleury |
@@ -18,9 +17,10 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 12 upcom
 | Sat, 14 Nov 2026 | Gabriel plays at migas |  |
 | Fri, 20 Nov 2026 | Lady Pink Panther plays at migas |  |
 | Sat, 21 Nov 2026 | Diebrotfrau plays at migas |  |
+| Fri, 27 Nov 2026 | moe plays at migas | moe. |
 
 ## Address
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Silencio HALLOWEEN PARTY: GRAND DEUIL" on Sat, 31 Oct 2026.
+Silencio is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Silencio HALLOWEEN PARTY: GRAND DEUIL" on Sat, 31 Oct 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Fabrice Dayan. See dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -16,4 +16,4 @@ Silencio is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with l
 
 142 rue Montmartre Paris, Paris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

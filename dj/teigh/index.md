@@ -1,6 +1,6 @@
 # Teigh
 
-Teigh is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paragon, New York City on Fri, 27 Nov 2026.
+Teigh is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Paragon, New York City on Fri, 27 Nov 2026.
 
 Teigh is a club and footwork artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside EDEN BEKELE, FuckQ and Daniro. Next up: Paragon, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Teigh is a club and footwork artist based in United States of America, with 26 g
 
 EDEN BEKELE, FuckQ, Daniro
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teigh/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teigh/)*

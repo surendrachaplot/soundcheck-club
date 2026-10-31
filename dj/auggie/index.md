@@ -1,6 +1,6 @@
 # Auggië
 
-Auggië is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Macarena Club, Barcelona on Fri, 13 Nov 2026.
+Auggië is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Macarena Club, Barcelona on Fri, 13 Nov 2026.
 
 Auggië is a techno and house artist based in Italy, with 85 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Ivory, Âme and Cipy. Next up: Macarena Club, Barcelona on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Auggië is a techno and house artist based in Italy, with 85 gigs on soundcheck 
 
 Ivory, Âme, Cipy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/auggie/)*

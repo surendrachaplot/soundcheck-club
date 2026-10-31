@@ -1,6 +1,6 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "LOBOTOMY 4 pres by 140+ X Fwb X Xunt" on Sat, 31 Oct 2026.
+TRANSMISSION DC is a music venue in Washington DC with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "LOBOTOMY 4 pres by 140+ X Fwb X Xunt" on Sat, 31 Oct 2026.
 
 TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 14 upcoming gigs, with line-ups including 6 SENSE, B0YG1RL, Bodegaparty and Bulma and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
@@ -23,4 +23,4 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 14 upcom
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

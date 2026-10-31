@@ -1,6 +1,6 @@
 # Seabra
 
-Seabra is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
+Seabra is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 14 Nov 2026.
 
 Seabra is a house and pop artist based in France, with 11 gigs on soundcheck across Paris and Sao Paulo. Often billed alongside Avante, Blinkduus Dischetto and Clementaum. Next up: Cabaret Sauvage, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Seabra is a house and pop artist based in France, with 11 gigs on soundcheck acr
 
 Avante, Blinkduus Dischetto (2), Clementaum
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seabra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seabra/)*

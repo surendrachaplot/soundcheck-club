@@ -1,14 +1,13 @@
 # EartH
 
-EartH is a music venue in London with 16 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tessellate x Origins: The Trip, Scarlett O'Malley & Madelic" on Fri, 30 Oct 2026.
+EartH is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HAAi - Open to Close" on Sat, 31 Oct 2026.
 
-EartH is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, The Avalanches and Buttechno and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
+EartH is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, The Avalanches and Buttechno and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Tessellate x Origins: The Trip, Scarlett O'Malley & Madelic | Madelic, Scarlett O'Malley, The Trip |
 | Sat, 31 Oct 2026 | HAAi - Open to Close | HAAi |
 | Sat, 31 Oct 2026 | HAAi - Open to Close [SOLD OUT] | HAAi |
 | Sun, 1 Nov 2026 | Almamegretta - 30 years of Indubb |  |
@@ -18,9 +17,10 @@ EartH is a music venue in London listed on soundcheck. 16 upcoming gigs, with li
 | Sat, 21 Nov 2026 | Mietze Conte - EartH Hall | Mietze Conte |
 | Sat, 28 Nov 2026 | Unsound London: Space Afrika + Nardus Williams, Księżyc | Space Afrika |
 | Sat, 28 Nov 2026 | Unsound London: Simo Cell & Abdullah Miniawy, Anz, gyrofield, Tercet Imperial | Abdullah Miniawy, Anz, Simo Cell, gyrofield |
+| Fri, 4 Dec 2026 | Hunee - Hunchin' All Night | Hunee |
 
 ## Address
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

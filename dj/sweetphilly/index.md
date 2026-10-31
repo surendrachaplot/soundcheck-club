@@ -1,6 +1,6 @@
 # Sweet Philly
 
-Sweet Philly is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Mash House, Edinburgh on Sat, 31 Oct 2026.
+Sweet Philly is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Mash House, Edinburgh on Sat, 31 Oct 2026.
 
 Sweet Philly is a club and techno artist based in Ireland, with 75 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Katelate, DV60 and Buckfast Barbie. Next up: The Mash House, Edinburgh on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sweet Philly is a club and techno artist based in Ireland, with 75 gigs on sound
 
 Katelate, DV60, Buckfast Barbie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetphilly/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetphilly/)*

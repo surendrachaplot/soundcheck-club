@@ -1,6 +1,6 @@
 # Khaøz
 
-Khaøz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
+Khaøz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
 
 Khaøz is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside TEZMA, Alex Friday and DJ Discostoff. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
 
@@ -15,4 +15,4 @@ Khaøz is a techno and trance artist based in Germany, with 2 gigs on soundcheck
 
 TEZMA, Alex Friday, DJ Discostoff
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khaoz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khaoz/)*

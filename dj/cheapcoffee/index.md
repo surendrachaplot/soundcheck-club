@@ -1,6 +1,6 @@
 # Cheap Coffee
 
-Cheap Coffee is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
+Cheap Coffee is a House and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
 
 Cheap Coffee is a house and r&b artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Czech Strings, DJ Fresh Garlic and NicolasNico. Next up: Promenaden Eck, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Cheap Coffee is a house and r&b artist based in Germany, with 14 gigs on soundch
 
 Czech Strings, DJ Fresh Garlic, NicolasNico
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheapcoffee/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheapcoffee/)*

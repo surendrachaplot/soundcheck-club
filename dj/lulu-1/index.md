@@ -1,6 +1,6 @@
 # LULU (1)
 
-LULU (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
+LULU (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
 
 LULU is a techno and trance artist based in Japan, with 22 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Bristol and 5 more. Often billed alongside Dash (CZ), Perc and S.M.S.H. Next up: OT301, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ LULU is a techno and trance artist based in Japan, with 22 gigs on soundcheck ac
 
 Dash (CZ), Perc, S.M.S.H
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-1/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lulu-1/)*

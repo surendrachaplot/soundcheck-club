@@ -1,6 +1,6 @@
 # Cris-H
 
-Cris-H is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Slow Club, Barcelona on Sat, 7 Nov 2026.
+Cris-H is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Slow Club, Barcelona on Sat, 7 Nov 2026.
 
 Cris-H is a progressive house and deep house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Slow Club, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Cris-H is a progressive house and deep house artist based in United Kingdom, wit
 
 Paul Sparkes, Prismode, Solvane
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cris-h/)*

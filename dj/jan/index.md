@@ -1,6 +1,6 @@
 # Jan
 
-Jan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Fri, 6 Nov 2026.
+Jan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Fri, 6 Nov 2026.
 
 Jan is a tech house and house artist based in Germany, with 20 gigs on soundcheck across Barcelona, Berlin, Ibiza and London and 4 more. Often billed alongside Francisco Allendes, Annina and CAAL. Next up: Golden Gate, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jan is a tech house and house artist based in Germany, with 20 gigs on soundchec
 
 Francisco Allendes, Annina, CAAL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jan/)*

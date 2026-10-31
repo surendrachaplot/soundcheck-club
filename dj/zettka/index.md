@@ -1,6 +1,6 @@
 # Zettka
 
-Zettka is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
+Zettka is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
 
 Zettka is a techno and downtempo artist based in Germany, with 27 gigs on soundcheck across Berlin, Istanbul, Mexico City and Munich. Often billed alongside Coss, David Benjamin and SUKISU. Next up: Beate Uwe, Berlin on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Zettka is a techno and downtempo artist based in Germany, with 27 gigs on soundc
 
 Coss, David Benjamin, SUKISU
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zettka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zettka/)*

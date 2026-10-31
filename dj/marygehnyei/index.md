@@ -1,6 +1,6 @@
 # Mary Gehnyei
 
-Mary Gehnyei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 31 Oct 2026.
+Mary Gehnyei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 31 Oct 2026.
 
 Mary Gehnyei is a house and techno artist, with 23 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Florence and 2 more. Often billed alongside Mary G, Ameliée and Lela Xein. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mary Gehnyei is a house and techno artist, with 23 gigs on soundcheck across Bar
 
 Mary G, Ameliée, Lela Xein
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marygehnyei/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marygehnyei/)*

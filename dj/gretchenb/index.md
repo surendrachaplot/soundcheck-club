@@ -1,6 +1,6 @@
 # Gretchen B
 
-Gretchen B is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
+Gretchen B is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ://about blank, Berlin on Sat, 31 Oct 2026.
 
 Gretchen B is a techno and hardcore artist based in Germany, with 32 gigs on soundcheck across Berlin, Leipzig and Vienna. Often billed alongside OUTOFORDERB2B, DJ Rakita and K1KO. Next up: ://about blank, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Gretchen B is a techno and hardcore artist based in Germany, with 32 gigs on sou
 
 OUTOFORDERB2B, DJ Rakita, K1KO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretchenb/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gretchenb/)*

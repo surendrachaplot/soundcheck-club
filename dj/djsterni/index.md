@@ -1,6 +1,6 @@
 # DJ Sterni
 
-DJ Sterni is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Motzener Strasse 5 in 12277, Berlin on Sat, 31 Oct 2026.
+DJ Sterni is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Motzener Strasse 5 in 12277, Berlin on Sat, 31 Oct 2026.
 
 DJ Sterni is a trance and techno artist, with 5 gigs on soundcheck across Berlin. Often billed alongside 5euroGoldi, 80HDJ and A.I.F.O.S.. Next up: TBA - Motzener Strasse 5 in 12277, Berlin on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ DJ Sterni is a trance and techno artist, with 5 gigs on soundcheck across Berlin
 
 5euroGoldi, 80HDJ, A.I.F.O.S.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsterni/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsterni/)*

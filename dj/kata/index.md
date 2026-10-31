@@ -1,6 +1,6 @@
 # /KATA/
 
-/KATA/ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jupiter Disco, New York City on Sat, 14 Nov 2026.
+/KATA/ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jupiter Disco, New York City on Sat, 14 Nov 2026.
 
 /KATA/ is a techno and house artist based in United States of America, with 27 gigs on soundcheck across New York City. Often billed alongside Marco Neves, Lexicon and Tlim Shug. Next up: Jupiter Disco, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@
 
 Marco Neves, Lexicon, Tlim Shug
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kata/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kata/)*

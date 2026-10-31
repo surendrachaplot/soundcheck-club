@@ -1,6 +1,6 @@
 # Dasha Rush
 
-Dasha Rush is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
+Dasha Rush is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
 
 Dasha Rush is a techno and experimental artist, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside DVS1, Adriana Lopez and Quelza. Next up: Maravilla Studios, Mexico City on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ Dasha Rush is a techno and experimental artist, with 186 gigs on soundcheck acro
 
 DVS1, Adriana Lopez, Quelza
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dasharush/)*

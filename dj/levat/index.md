@@ -1,6 +1,6 @@
 # Levat
 
-Levat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 7 Nov 2026.
+Levat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 7 Nov 2026.
 
 Levat is a house and techno artist based in Germany, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 6 more. Often billed alongside GRETA, Onirik and Andrew James Gustav. Next up: Acud Macht NEU, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Levat is a house and techno artist based in Germany, with 28 gigs on soundcheck 
 
 GRETA (2), Onirik, Andrew James Gustav
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/levat/)*

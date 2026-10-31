@@ -1,6 +1,6 @@
 # Yazmina Gasolina
 
-Yazmina Gasolina is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Algha's Plantroom, London on Sat, 7 Nov 2026.
+Yazmina Gasolina is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Algha's Plantroom, London on Sat, 7 Nov 2026.
 
 Yazmina Gasolina is a techno and electro artist based in United Kingdom, with 9 gigs on soundcheck across Barcelona, Berlin, Hannover and London and 1 more. Often billed alongside HASZNAT, JONE OF ARX and S3BA. Next up: Algha's Plantroom, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Yazmina Gasolina is a techno and electro artist based in United Kingdom, with 9 
 
 HASZNAT, JONE OF ARX, S3BA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazminagasolina/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazminagasolina/)*

@@ -1,14 +1,15 @@
 # Boyfriend Dick
 
-Boyfriend Dick is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
+Boyfriend Dick is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Market Hotel, New York City on Sat, 31 Oct 2026.
 
-Boyfriend Dick is a techno and club artist based in United States of America, with 51 gigs on soundcheck across Chicago, Detroit, Leipzig and London and 8 more. Often billed alongside Garrison XR, Amino and Luca Miel. Next up: Market Hotel, New York City on Sat 31 Oct.
+Boyfriend Dick is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Chicago, Detroit, Leipzig and London and 8 more. Often billed alongside Garrison XR, Amino and Luca Miel. Next up: Market Hotel, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Market Hotel | New York City |
+| Sat, 28 Nov 2026 | Menjo's | Detroit |
 | Sat, 26 Dec 2026 | Olympus Theater | Detroit |
 
 ## Recently played
@@ -26,4 +27,4 @@ Boyfriend Dick is a techno and club artist based in United States of America, wi
 
 Garrison XR, Amino, Luca Miel
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyfrienddick/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boyfrienddick/)*

@@ -1,6 +1,6 @@
 # Dazzle Drums
 
-Dazzle Drums is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Aoyama Tunnel, Tokyo on Sat, 31 Oct 2026.
+Dazzle Drums is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Aoyama Tunnel, Tokyo on Sat, 31 Oct 2026.
 
 Dazzle Drums is a house and techno artist based in Japan, with 278 gigs on soundcheck across Amsterdam, Barcelona, Kanto and Kyoto and 8 more. Often billed alongside MINAMI, Toshio Matsuura and DJ Emma. Next up: Aoyama Tunnel, Tokyo on Sat 31 Oct.
 
@@ -34,4 +34,4 @@ Dazzle Drums is a house and techno artist based in Japan, with 278 gigs on sound
 
 MINAMI, Toshio Matsuura, DJ Emma
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazzledrums/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dazzledrums/)*

@@ -1,6 +1,6 @@
 # JOSELO
 
-JOSELO is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paragon, New York City on Sat, 7 Nov 2026.
+JOSELO is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Paragon, New York City on Sat, 7 Nov 2026.
 
 JOSELO is a techno and reggaeton artist based in United States of America, with 59 gigs on soundcheck across Mexico City, New York City and Toronto. Often billed alongside friedplatano, ALEXIS DE LA ROSA and Byrell The Great. Next up: Paragon, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ JOSELO is a techno and reggaeton artist based in United States of America, with 
 
 friedplatano, ALEXIS DE LA ROSA, Byrell The Great
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joselo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joselo/)*

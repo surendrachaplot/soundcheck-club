@@ -1,6 +1,6 @@
 # Electronic Music Producer Meetup - Signal Chain at The Clubroom @ Citizenm Glasgow
 
-Electronic Music Producer Meetup - Signal Chain at The Clubroom @ Citizenm Glasgow on Thu 12 Nov, Glasgow. See the line-up on soundcheck.
+Electronic Music Producer Meetup - Signal Chain at The Clubroom @ Citizenm Glasgow on Thu 12 Nov, Glasgow. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

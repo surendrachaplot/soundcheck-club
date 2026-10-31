@@ -1,6 +1,6 @@
 # Le Consulat Voltaire
 
-Le Consulat Voltaire is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Boogie Frizzante de retour au Consulat Voltaire" on Fri, 6 Nov 2026.
+Le Consulat Voltaire is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Boogie Frizzante de retour au Consulat Voltaire" on Fri, 6 Nov 2026.
 
 Le Consulat Voltaire is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Cannelle, LeBRON, Luksek and RADIO SOFA (DJ). See dates, start times and who's playing. 14 avenue Parmentier, 75011 Paris.
 
@@ -15,4 +15,4 @@ Le Consulat Voltaire is a music venue in Paris listed on soundcheck. 2 upcoming 
 
 14 avenue Parmentier, 75011 Paris, Paris
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-consulat-voltaire/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-consulat-voltaire/)*

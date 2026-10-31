@@ -1,6 +1,6 @@
 # Garage Klub
 
-Garage Klub is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "VERKNIPT NYE Antwerp" on Thu, 31 Dec 2026.
+Garage Klub is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "VERKNIPT NYE Antwerp" on Thu, 31 Dec 2026.
 
 Garage Klub is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, with line-ups including Ben Techy, BØĘRY, KRUELTY and myu:sa and 2 more. See dates, start times and who's playing. Noorderlaan 72, 2030 Antwerpen, Belgium.
 
@@ -14,4 +14,4 @@ Garage Klub is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, wi
 
 Noorderlaan 72, 2030 Antwerpen, Belgium, Antwerp
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/garage-klub/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/garage-klub/)*

@@ -1,6 +1,6 @@
 # Aaron Burr (2)
 
-Aaron Burr (2) is a Electro and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
+Aaron Burr (2) is a Electro and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NDR2 Red Room, London on Sat, 7 Nov 2026.
 
 Aaron Burr is an electro and progressive house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside Max Fisher, Rhys Dyer and Son of Paul. Next up: NDR2 Red Room, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Aaron Burr is an electro and progressive house artist based in United Kingdom, w
 
 Max Fisher, Rhys Dyer, Son of Paul
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronburr-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronburr-2/)*

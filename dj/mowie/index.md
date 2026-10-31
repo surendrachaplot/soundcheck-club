@@ -1,6 +1,6 @@
 # Mowie
 
-Mowie is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at New River Studios, London on Sun, 8 Nov 2026.
+Mowie is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at New River Studios, London on Sun, 8 Nov 2026.
 
 Mowie is a techno and hardcore artist based in Italy, with 14 gigs on soundcheck across London and Montreal. Often billed alongside Outback, the bald girl and Casa Kobrae. Next up: New River Studios, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Mowie is a techno and hardcore artist based in Italy, with 14 gigs on soundcheck
 
 Outback, the bald girl, Casa Kobrae
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mowie/)*

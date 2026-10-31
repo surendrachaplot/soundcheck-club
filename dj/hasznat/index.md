@@ -1,6 +1,6 @@
 # HASZNAT
 
-HASZNAT is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Algha's Plantroom, London on Sat, 7 Nov 2026.
+HASZNAT is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Algha's Plantroom, London on Sat, 7 Nov 2026.
 
 HASZNAT is a techno and experimental artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Brighton and London. Often billed alongside LOVECAT, Lewis G. Burton and Princess Xixi. Next up: Algha's Plantroom, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ HASZNAT is a techno and experimental artist based in United Kingdom, with 20 gig
 
 LOVECAT, Lewis G. Burton, Princess Xixi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hasznat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hasznat/)*

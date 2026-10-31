@@ -1,6 +1,6 @@
 # Evol
 
-Evol is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Passos Manuel, Porto on Fri, 13 Nov 2026.
+Evol is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Passos Manuel, Porto on Fri, 13 Nov 2026.
 
 Evol is an experimental and electronica artist based in Spain, with 13 gigs on soundcheck across Berlin, Copenhagen, Kyoto and London and 5 more. Often billed alongside Dungeon Acid, Francesco Corvi and Kikù Hibino. Next up: Passos Manuel, Porto on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Evol is an experimental and electronica artist based in Spain, with 13 gigs on s
 
 Dungeon Acid, Francesco Corvi, Kikù Hibino
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evol/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evol/)*

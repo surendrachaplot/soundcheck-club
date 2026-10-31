@@ -1,6 +1,6 @@
 # Unconformist
 
-Unconformist is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Martigny Expo., Lausanne on Sat, 23 Jan 2027.
+Unconformist is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Martigny Expo., Lausanne on Sat, 23 Jan 2027.
 
 Unconformist is a techno and hardcore artist, with 10 gigs on soundcheck across Basel, Lausanne, Lisbon and Madrid and 3 more. Often billed alongside Midinoize, John-E and AMORAL. Next up: Martigny Expo., Lausanne on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Unconformist is a techno and hardcore artist, with 10 gigs on soundcheck across 
 
 Midinoize, John-E, AMORAL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unconformist/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/unconformist/)*

@@ -1,14 +1,13 @@
 # block.
 
-block. is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Omni x SlapFunk: Samuel Deep & Julian Anthony" on Fri, 30 Oct 2026.
+block. is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Block: Or:la, Diebyveg & Síofra" on Sat, 31 Oct 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including BIIA, Blasha & Allatt, John Digweed and Jamie Fielding and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including BIIA, Blasha & Allatt, John Digweed and Jamie Fielding and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Omni x SlapFunk: Samuel Deep & Julian Anthony | Julian Anthony (US), Samuel Deep |
 | Sat, 31 Oct 2026 | Block: Or:la, Diebyveg & Síofra | Or:la, Síofra |
 | Fri, 6 Nov 2026 | Block x Asahi Super Dry: Special Request | Special Request |
 | Sat, 7 Nov 2026 | Block x Endless: Jamie Fielding All Night Long | Jamie Fielding |
@@ -23,4 +22,4 @@ block. is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with l
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

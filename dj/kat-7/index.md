@@ -1,6 +1,6 @@
 # KAT (7)
 
-KAT (7) is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
+KAT (7) is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
 
 KAT is a hip-hop and pop artist, with 19 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 6 more. Often billed alongside Maroki, Hokuto and A. Brehme. Next up: Golden Gate, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KAT is a hip-hop and pop artist, with 19 gigs on soundcheck across Amsterdam, Ba
 
 Maroki, Hokuto (1), A. Brehme
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-7/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kat-7/)*

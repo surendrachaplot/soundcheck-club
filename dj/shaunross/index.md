@@ -1,6 +1,6 @@
 # Shaun Ross
 
-Shaun Ross is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Los Globos, Los Angeles on Sat, 12 Dec 2026.
+Shaun Ross is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Los Globos, Los Angeles on Sat, 12 Dec 2026.
 
 Shaun Ross is a house and afro house artist based in United States of America, with 67 gigs on soundcheck across Berlin, Chicago, Detroit and Ibiza and 8 more. Often billed alongside Rush Davis, Ashley Younniä and Calvin Dunn. Next up: Los Globos, Los Angeles on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Shaun Ross is a house and afro house artist based in United States of America, w
 
 Rush Davis, Ashley Younniä, Calvin Dunn
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunross/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaunross/)*

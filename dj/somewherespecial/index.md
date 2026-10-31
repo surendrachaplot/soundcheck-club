@@ -1,6 +1,6 @@
 # Somewhere Special
 
-Somewhere Special is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mi Sabor Cafe, New York City on Sat, 31 Oct 2026.
+Somewhere Special is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mi Sabor Cafe, New York City on Sat, 31 Oct 2026.
 
 Somewhere Special is a pop and club artist based in United States of America, with 24 gigs on soundcheck across Chicago, London, Los Angeles and Montreal and 4 more. Often billed alongside ali rq, Isla Den and SEES00000. Next up: Mi Sabor Cafe, New York City on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Somewhere Special is a pop and club artist based in United States of America, wi
 
 ali rq, Isla Den, SEES00000
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewherespecial/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewherespecial/)*

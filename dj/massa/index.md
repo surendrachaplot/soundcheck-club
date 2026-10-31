@@ -1,6 +1,6 @@
 # Massa
 
-Massa is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 12 Dec 2026.
+Massa is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ankali & Planeta Za, Prague on Sat, 12 Dec 2026.
 
 Massa is a techno and dub techno artist based in Spain, with 9 gigs on soundcheck across Barcelona, Porto, Prague and Tokyo. Often billed alongside 135, 35DH-1 and ABSIS. Next up: Ankali & Planeta Za, Prague on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Massa is a techno and dub techno artist based in Spain, with 9 gigs on soundchec
 
 135 (1), 35DH-1, ABSIS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massa/)*

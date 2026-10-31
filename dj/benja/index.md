@@ -1,6 +1,6 @@
 # Benja
 
-Benja is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Desa Kitsune, Bali on Tue, 17 Nov 2026.
+Benja is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Desa Kitsune, Bali on Tue, 17 Nov 2026.
 
 Benja is a house and tech house artist based in Switzerland, with 24 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 8 more. Often billed alongside Franc Fala, Cincity and Mahmut Orhan. Next up: Desa Kitsune, Bali on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ Benja is a house and tech house artist based in Switzerland, with 24 gigs on sou
 
 Franc Fala, Cincity, Mahmut Orhan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benja/)*

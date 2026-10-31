@@ -1,6 +1,6 @@
 # Yamaneko
 
-Yamaneko is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Shibuya Club Ball, Tokyo on Sat, 7 Nov 2026.
+Yamaneko is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Shibuya Club Ball, Tokyo on Sat, 7 Nov 2026.
 
 Yamaneko is a club and bass artist based in United Kingdom, with 18 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Stupid Kozo, Submerse and HIBI BLISS. Next up: Shibuya Club Ball, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Yamaneko is a club and bass artist based in United Kingdom, with 18 gigs on soun
 
 Stupid Kozo, Submerse, HIBI BLISS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamaneko/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yamaneko/)*

@@ -1,6 +1,6 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tilt with Princess P, Tebe, Greta, HyperLili, Furka Radio and others" on Sat, 31 Oct 2026.
+Zentralwäscherei is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Tilt with Princess P, Tebe, Greta, HyperLili, Furka Radio and others" on Sat, 31 Oct 2026.
 
 Zentralwäscherei is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including GRETA, HyperLili, Jolly and Lord Spikeheart and 2 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
@@ -17,4 +17,4 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 4 upcoming gi
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

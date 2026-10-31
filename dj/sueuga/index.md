@@ -1,6 +1,6 @@
 # Sueuga
 
-Sueuga is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
+Sueuga is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Sueuga is a bass and club artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Athens, New York City and Rotterdam and 3 more. Often billed alongside Krai, Vlennes and YoungWoman. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sueuga is a bass and club artist based in United States of America, with 13 gigs
 
 Krai, Vlennes, YoungWoman
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sueuga/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sueuga/)*

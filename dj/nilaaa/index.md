@@ -1,6 +1,6 @@
 # NILAAA
 
-NILAAA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Wigwam, Dublin on Fri, 13 Nov 2026.
+NILAAA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wigwam, Dublin on Fri, 13 Nov 2026.
 
 NILAAA is a techno and minimal techno artist based in Ireland, with 22 gigs on soundcheck across Dublin. Often billed alongside Phil Bass, Romanetto and Connect. Next up: Wigwam, Dublin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ NILAAA is a techno and minimal techno artist based in Ireland, with 22 gigs on s
 
 Phil Bass, Romanetto, Connect
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilaaa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilaaa/)*

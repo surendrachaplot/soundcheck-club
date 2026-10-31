@@ -1,6 +1,6 @@
 # laspalas
 
-laspalas is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sala Siroco, Madrid on Sun, 1 Nov 2026.
+laspalas is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sala Siroco, Madrid on Sun, 1 Nov 2026.
 
 laspalas is a techno and ebm artist, with 9 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Eder Croket, lebollet and Heinech. Next up: Sala Siroco, Madrid on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ laspalas is a techno and ebm artist, with 9 gigs on soundcheck across Barcelona 
 
 Eder Croket, lebollet, Heinech
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laspalas/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laspalas/)*

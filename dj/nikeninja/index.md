@@ -1,6 +1,6 @@
 # NIKENINJA
 
-NIKENINJA is a Electro and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at C.S.A. Intifada, Rome on Sat, 7 Nov 2026.
+NIKENINJA is a Electro and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at C.S.A. Intifada, Rome on Sat, 7 Nov 2026.
 
 NIKENINJA is an electro and ghetto tech artist based in Italy, with 20 gigs on soundcheck across Rome. Often billed alongside Lørenzø Cøluccia, Satoru and ANNYAH. Next up: C.S.A. Intifada, Rome on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ NIKENINJA is an electro and ghetto tech artist based in Italy, with 20 gigs on s
 
 Lørenzø Cøluccia, Satoru, ANNYAH
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikeninja/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikeninja/)*

@@ -1,6 +1,6 @@
 # Michael Wagner
 
-Michael Wagner is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Hackney Wick - Secret Location, London on Fri, 27 Nov 2026.
+Michael Wagner is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Hackney Wick - Secret Location, London on Fri, 27 Nov 2026.
 
 Michael Wagner is a house and tech house artist based in Austria, with 15 gigs on soundcheck across Berlin, Hamburg, London and Los Angeles and 2 more. Often billed alongside Stipo, Dig This and Eye F. Next up: TBA - Hackney Wick - Secret Location, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Michael Wagner is a house and tech house artist based in Austria, with 15 gigs o
 
 Stipo, Dig This, Eye F
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*

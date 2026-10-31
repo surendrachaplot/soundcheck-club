@@ -1,6 +1,6 @@
 # BigT
 
-BigT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 5 Nov 2026.
+BigT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ministerium Club, Lisbon on Thu, 5 Nov 2026.
 
 BigT is a techno and hardcore artist, with 17 gigs on soundcheck across Amsterdam, Lisbon and Paris. Often billed alongside VLB, Frik and Madson Carpenter. Next up: Ministerium Club, Lisbon on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ BigT is a techno and hardcore artist, with 17 gigs on soundcheck across Amsterda
 
 VLB (1), Frik, Madson Carpenter
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bigt/)*

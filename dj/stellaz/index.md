@@ -1,6 +1,6 @@
 # Stella Z
 
-Stella Z is a Techno and Jazz artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Sauna Social Club, London on Sat, 7 Nov 2026.
+Stella Z is a Techno and Jazz artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Sauna Social Club, London on Sat, 7 Nov 2026.
 
 Stella Z is a techno and jazz artist based in China, with 58 gigs on soundcheck across Bristol, Lisbon, London and Munich. Often billed alongside Deejay Nye, Megan Leo and Vince Lam. Next up: Sauna Social Club, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Stella Z is a techno and jazz artist based in China, with 58 gigs on soundcheck 
 
 Deejay Nye, Megan Leo, Vince Lam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stellaz/)*

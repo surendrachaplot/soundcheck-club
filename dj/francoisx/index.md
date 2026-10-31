@@ -1,6 +1,6 @@
 # François X
 
-François X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Parque Norte, Medellin on Sat, 12 Dec 2026.
+François X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Parque Norte, Medellin on Sat, 12 Dec 2026.
 
 François X is a techno and house artist based in France, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 56 more. Often billed alongside Elise Massoni, Hashashin and Akua. Next up: Parque Norte, Medellin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ François X is a techno and house artist based in France, with 160 gigs on sound
 
 Elise Massoni, Hashashin, Akua
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisx/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisx/)*

@@ -1,6 +1,6 @@
 # Solofan
 
-Solofan is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri, 13 Nov 2026.
+Solofan is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri, 13 Nov 2026.
 
 Solofan is a techno and club artist based in Egypt, with 28 gigs on soundcheck across New York City. Often billed alongside Alissa Brianna, DJPT and Mohamed (US). Next up: TBA - Playground 1114 Bedford Avenue Brooklyn, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Solofan is a techno and club artist based in Egypt, with 28 gigs on soundcheck a
 
 Alissa Brianna, DJPT, Mohamed (US)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solofan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/solofan/)*

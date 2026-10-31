@@ -1,6 +1,6 @@
 # Brockney C
 
-Brockney C is a Deep House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jungla London, London on Sat, 31 Oct 2026.
+Brockney C is a Deep House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jungla London, London on Sat, 31 Oct 2026.
 
 Brockney C is a deep house and tech house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Ace Shyllon, Dominique Danielle and Kryss Kelly. Next up: Jungla London, London on Sat 31 Oct.
 
@@ -16,4 +16,4 @@ Brockney C is a deep house and tech house artist based in United Kingdom, with 3
 
 Ace Shyllon, Dominique Danielle, Kryss Kelly
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brockneyc/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brockneyc/)*

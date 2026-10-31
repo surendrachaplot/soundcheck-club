@@ -1,6 +1,6 @@
 # Elf Traps
 
-Elf Traps is a Electronica and IDM artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Hyde Park Book Club, Leeds on Tue, 24 Nov 2026.
+Elf Traps is a Electronica and IDM artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hyde Park Book Club, Leeds on Tue, 24 Nov 2026.
 
 Elf Traps is an electronica and idm artist, with 4 gigs on soundcheck across Edinburgh, Leeds and Manchester. Often billed alongside Shunya, Paddy Steer and WaqWaq Kingdom. Next up: Hyde Park Book Club, Leeds on Tue 24 Nov.
 
@@ -20,4 +20,4 @@ Elf Traps is an electronica and idm artist, with 4 gigs on soundcheck across Edi
 
 Shunya, Paddy Steer, WaqWaq Kingdom
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elftraps/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elftraps/)*

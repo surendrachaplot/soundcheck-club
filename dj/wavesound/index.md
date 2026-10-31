@@ -1,6 +1,6 @@
 # Wavesound
 
-Wavesound is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Specka, Madrid on Sat, 28 Nov 2026.
+Wavesound is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Specka, Madrid on Sat, 28 Nov 2026.
 
 Wavesound is a techno and ebm artist based in Spain, with 16 gigs on soundcheck across Madrid. Often billed alongside Jesus Riaño, MDTCODE and Ricardo Morales. Next up: Specka, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Wavesound is a techno and ebm artist based in Spain, with 16 gigs on soundcheck 
 
 Jesus Riaño, MDTCODE, Ricardo Morales
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wavesound/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wavesound/)*

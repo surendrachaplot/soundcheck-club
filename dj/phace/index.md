@@ -1,18 +1,18 @@
 # Phace
 
-Phace is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Maassilo, Rotterdam on Fri, 30 Oct 2026.
+Phace is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Petit Bain, Paris on Sat, 12 Dec 2026.
 
-Phace is a drum & bass and bass artist based in Germany, with 37 gigs on soundcheck across Auckland, Berlin, Bristol and Budapest and 19 more. Often billed alongside Misanthrop, Rockwell and Buunshin. Next up: Maassilo, Rotterdam on Fri 30 Oct.
+Phace is a drum & bass and bass artist based in Germany, with 37 gigs on soundcheck across Auckland, Berlin, Bristol and Budapest and 19 more. Often billed alongside Misanthrop, Rockwell and Buunshin. Next up: Petit Bain, Paris on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 12 Dec 2026 | Petit Bain | Paris |
 
 ## Recently played
 
+- Maassilo, Rotterdam · Fri, 30 Oct 2026
 - Le Bikini, South-west · Fri, 2 Oct 2026
 - The Black Box, Denver · Sat, 12 Sept 2026
 - F8 1192 Folsom, San Francisco/Oakland · Sun, 6 Sept 2026
@@ -20,10 +20,9 @@ Phace is a drum & bass and bass artist based in Germany, with 37 gigs on soundch
 - Gretchen, Berlin · Sat, 11 Jul 2026
 - Kassa Boat, Budapest · Sat, 23 May 2026
 - Grelle Forelle, Vienna · Sat, 21 Mar 2026
-- Muffatwerk, Munich · Fri, 9 Jan 2026
 
 ## Shares bills with
 
 Misanthrop, Rockwell, Buunshin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phace/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phace/)*

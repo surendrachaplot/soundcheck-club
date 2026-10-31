@@ -1,6 +1,6 @@
 # BFAM
 
-BFAM is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
+BFAM is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
 
 BFAM is a house and minimal techno artist based in Germany, with 8 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Lisa Cropp, Pablo Asturizaga and dj boyfriend. Next up: Fitzroy, Berlin on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ BFAM is a house and minimal techno artist based in Germany, with 8 gigs on sound
 
 Lisa Cropp, Pablo Asturizaga, dj boyfriend
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bfam/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bfam/)*

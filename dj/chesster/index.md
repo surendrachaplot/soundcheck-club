@@ -1,6 +1,6 @@
 # Chesster
 
-Chesster is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 11 Dec 2026.
+Chesster is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at 99 Scott Ave, New York City on Fri, 11 Dec 2026.
 
 Chesster is a house and tech house artist based in Italy, with 39 gigs on soundcheck across Amsterdam, Barcelona, Chicago and Ibiza and 9 more. Often billed alongside Prunk, Dennis Quin and Kellie Allen. Next up: 99 Scott Ave, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Chesster is a house and tech house artist based in Italy, with 39 gigs on soundc
 
 Prunk, Dennis Quin, Kellie Allen
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chesster/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chesster/)*

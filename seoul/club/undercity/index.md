@@ -1,6 +1,6 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "UNDERCITY presents Friction" on Sat, 7 Nov 2026.
+UNDERCITY is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "UNDERCITY presents Friction" on Sat, 7 Nov 2026.
 
 UNDERCITY is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including Friction, Seyn, Wata Igarashi and YUNJI. See dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
@@ -15,4 +15,4 @@ UNDERCITY is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with 
 
 Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul, Seoul
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/undercity/)*

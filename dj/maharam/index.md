@@ -1,6 +1,6 @@
 # Maharam
 
-Maharam is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mood Ring, New York City on Sat, 14 Nov 2026.
+Maharam is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mood Ring, New York City on Sat, 14 Nov 2026.
 
 Maharam is a techno and bass artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside kennzoid, Full Body Stretch and kk.Shucko. Next up: Mood Ring, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Maharam is a techno and bass artist based in United States of America, with 11 g
 
 kennzoid, Full Body Stretch, kk.Shucko
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maharam/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maharam/)*

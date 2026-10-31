@@ -1,6 +1,6 @@
 # Belaria
 
-Belaria is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+Belaria is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
 
 Belaria is a techno and house artist based in France, with 78 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Brussels and 13 more. Often billed alongside Kendal, Olympe4000 and Audrey Danza. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Belaria is a techno and house artist based in France, with 78 gigs on soundcheck
 
 Kendal, Olympe4000, Audrey Danza
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*

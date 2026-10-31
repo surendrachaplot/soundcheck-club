@@ -1,14 +1,13 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Hannah Wants x counter culture - the last dance" on Fri, 30 Oct 2026.
+Distrikt is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Distrikt presents Ryan Elliott, Serenne, Jennifer Loveless, Mya" on Sat, 31 Oct 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including 3PM RECORDS, Alexandria, Alexia Glensy and Alex Osifo and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including 3PM RECORDS, Alexandria, Alexia Glensy and Alex Osifo and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Hannah Wants x counter culture - the last dance | Hannah Wants, Josh Demello, Miruna Ghica, Tom Shorterz |
 | Sat, 31 Oct 2026 | Distrikt presents Ryan Elliott, Serenne, Jennifer Loveless, Mya | Alex Osifo, Binyamhn, Jennifer Loveless, Ryan Elliott, Serenne |
 | Fri, 6 Nov 2026 | Cinco Shades: Josh Pace & Friends |  |
 | Sat, 7 Nov 2026 | 3PM present Alexandria & Jude Lenihan | 3PM RECORDS, Alexandria, Fentonffp, Jude Lenihan, Partridge |
@@ -18,9 +17,10 @@ Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with 
 | Fri, 27 Nov 2026 | In Motion  |  |
 | Sat, 28 Nov 2026 | Special Delivery presents: Voigtmann B2B Jhobei | Jhobei, Voigtmann |
 | Sat, 5 Dec 2026 | Art Club Christmas Doo: James Creed b2b DJ Pipe + Willow + Arty + Mango Boogy Joy | Arty (UK), Cian Joy, DJ Pipe, Mango Boogy, The Ghost, Willow |
+| Fri, 11 Dec 2026 | Distrikt presents x Face2face: Pancratio, Huerta, Alexia Glensy | Alexia Glensy, Huerta, Pancratio |
 
 ## Address
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

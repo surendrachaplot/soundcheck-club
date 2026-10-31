@@ -1,6 +1,6 @@
 # kso12
 
-kso12 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bernexpo Halle, Bern on Sat, 31 Oct 2026.
+kso12 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bernexpo Halle, Bern on Sat, 31 Oct 2026.
 
 kso12 is a techno and house artist based in Switzerland, with 61 gigs on soundcheck across Basel, Berlin, Bern and Dresden and 5 more. Often billed alongside MARCISM, Toni Dextor and Thomas Bianco. Next up: Bernexpo Halle, Bern on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ kso12 is a techno and house artist based in Switzerland, with 61 gigs on soundch
 
 MARCISM, Toni Dextor, Thomas Bianco
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kso12/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kso12/)*

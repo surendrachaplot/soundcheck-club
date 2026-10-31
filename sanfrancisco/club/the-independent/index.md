@@ -1,6 +1,6 @@
 # The Independent
 
-The Independent is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "NICKCHEO the *TOUR* the *MOVIE*" on Fri, 20 Nov 2026.
+The Independent is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "NICKCHEO the *TOUR* the *MOVIE*" on Fri, 20 Nov 2026.
 
 The Independent is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including Ely Oaks, Fatzo, Oden and O'Flynn and 1 more. See dates, start times and who's playing. 628 Divisadero Street, San Francisco, CA, United States.
 
@@ -19,4 +19,4 @@ The Independent is a music venue in San Francisco/Oakland listed on soundcheck. 
 
 628 Divisadero Street, San Francisco, CA, United States, San Francisco/Oakland
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-independent/)*

@@ -1,6 +1,6 @@
 # Photrix
 
-Photrix is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hackney Bridge, London on Sat, 5 Dec 2026.
+Photrix is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Hackney Bridge, London on Sat, 5 Dec 2026.
 
 Photrix is a techno and progressive house artist, with 16 gigs on soundcheck across London. Often billed alongside AVANTIME, Alex Taliana and Bushy Squirrel. Next up: Hackney Bridge, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Photrix is a techno and progressive house artist, with 16 gigs on soundcheck acr
 
 AVANTIME, Alex Taliana, Bushy Squirrel
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/photrix/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/photrix/)*

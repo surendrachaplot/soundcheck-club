@@ -1,18 +1,18 @@
 # Millz
 
-Millz is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brixton Jamm, London on Fri, 30 Oct 2026.
+Millz is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Brixton Jamm, London on Sat, 5 Dec 2026.
 
-Millz is a jungle and drum & bass artist based in United Kingdom, with 20 gigs on soundcheck across Bangkok, Brighton, Bristol and London. Often billed alongside Nicky Blackmarket, Nicky B and Deekline. Next up: Brixton Jamm, London on Fri 30 Oct.
+Millz is a jungle and drum & bass artist based in United Kingdom, with 20 gigs on soundcheck across Bangkok, Brighton, Bristol and London. Often billed alongside Nicky Blackmarket, Nicky B and Deekline. Next up: Brixton Jamm, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Brixton Jamm | London |
 | Sat, 5 Dec 2026 | Brixton Jamm | London |
 
 ## Recently played
 
+- Brixton Jamm, London · Fri, 30 Oct 2026
 - Fire, London · Sat, 26 Sept 2026
 - The Fox and Firkin, London · Fri, 28 Aug 2026
 - Dunnings 2, London · Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ Millz is a jungle and drum & bass artist based in United Kingdom, with 20 gigs o
 - Brixton Jamm, London · Sun, 24 May 2026
 - Jumunjy Bar, London · Sun, 3 May 2026
 - UNLOCKED, London · Sat, 28 Feb 2026
-- Brixton Jamm, London · Fri, 6 Feb 2026
 
 ## Shares bills with
 
 Nicky Blackmarket, Nicky B, Deekline
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmillz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djmillz/)*

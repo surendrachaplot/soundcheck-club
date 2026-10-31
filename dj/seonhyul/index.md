@@ -1,6 +1,6 @@
 # Seon Hyul
 
-Seon Hyul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Seoul Community Radio, Seoul on Sat, 31 Oct 2026.
+Seon Hyul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Seoul Community Radio, Seoul on Sat, 31 Oct 2026.
 
 Seon Hyul is a house and techno artist based in South Korea, with 91 gigs on soundcheck across Seoul. Often billed alongside Moeuv, DARIMI TABLE and RTRP. Next up: Seoul Community Radio, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Seon Hyul is a house and techno artist based in South Korea, with 91 gigs on sou
 
 Moeuv, DARIMI TABLE, RTRP
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seonhyul/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seonhyul/)*

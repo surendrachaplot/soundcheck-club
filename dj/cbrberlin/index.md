@@ -1,6 +1,6 @@
 # CBR (Berlin)
 
-CBR (Berlin) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 1 Nov 2026.
+CBR (Berlin) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ciao ciao Bar, Berlin on Sun, 1 Nov 2026.
 
 CBR (Berlin) is a house and techno artist, with 9 gigs on soundcheck across Berlin. Often billed alongside Viénce, Laurent Lorenzo and Lilli Winter. Next up: ciao ciao Bar, Berlin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ CBR (Berlin) is a house and techno artist, with 9 gigs on soundcheck across Berl
 
 Viénce, Laurent Lorenzo, Lilli Winter
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cbrberlin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cbrberlin/)*

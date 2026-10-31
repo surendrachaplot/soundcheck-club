@@ -1,6 +1,6 @@
 # TBA - Wommel - Fort II Wommelgem
 
-TBA - Wommel - Fort II Wommelgem is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Belgian Electro Wave Is Not Dead pt.5" on Sat, 7 Nov 2026.
+TBA - Wommel - Fort II Wommelgem is a music venue in Antwerp with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Belgian Electro Wave Is Not Dead pt.5" on Sat, 7 Nov 2026.
 
 TBA - Wommel - Fort II Wommelgem is a music venue in Antwerp listed on soundcheck. 1 upcoming gig, with line-ups including Deadly Sins. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Wommel - Fort II Wommelgem is a music venue in Antwerp listed on soundchec
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Belgian Electro Wave Is Not Dead pt.5 | Deadly Sins |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/tba-wommel-fort-ii-wommelgem/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/tba-wommel-fort-ii-wommelgem/)*

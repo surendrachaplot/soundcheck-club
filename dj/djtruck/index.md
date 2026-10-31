@@ -1,6 +1,6 @@
 # DJ TRUCK
 
-DJ TRUCK is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rugs*, Beijing on Sat, 7 Nov 2026.
+DJ TRUCK is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rugs*, Beijing on Sat, 7 Nov 2026.
 
 DJ TRUCK is a club and experimental artist based in China, with 43 gigs on soundcheck across Beijing and Shanghai. Often billed alongside 10000 (CN), YKK (CN) and Lex (CN). Next up: Rugs*, Beijing on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ TRUCK is a club and experimental artist based in China, with 43 gigs on sound
 
 10000 (CN), YKK (CN), Lex (CN)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtruck/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtruck/)*

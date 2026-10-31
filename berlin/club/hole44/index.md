@@ -1,6 +1,6 @@
 # Hole44
 
-Hole44 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Mietze Conte" on Thu, 5 Nov 2026.
+Hole44 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Mietze Conte" on Thu, 5 Nov 2026.
 
 Hole44 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Black Devil Disco Club, Dina Summer and Mietze Conte. See dates, start times and who's playing. Hermannstr. 146, 12051 Berlin.
 
@@ -16,4 +16,4 @@ Hole44 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with li
 
 Hermannstr. 146, 12051 Berlin, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hole44/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hole44/)*

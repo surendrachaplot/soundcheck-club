@@ -1,14 +1,13 @@
 # Luke Alessi
 
-Luke Alessi is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NT's Loft, London on Fri, 30 Oct 2026.
+Luke Alessi is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Armazem Solon, Sao-paulo on Sat, 7 Nov 2026.
 
-Luke Alessi is a house and techno artist based in Australia, with 131 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: NT's Loft, London on Fri 30 Oct.
+Luke Alessi is a house and techno artist based in Australia, with 131 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 43 more. Often billed alongside Jordan Brando, DJ Tennis and William Kiss. Next up: Armazem Solon, Sao Paulo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | NT's Loft | London |
 | Sat, 7 Nov 2026 | Armazem Solon | Sao-paulo |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | 3oz Dive Club | San Diego |
@@ -19,6 +18,7 @@ Luke Alessi is a house and techno artist based in Australia, with 131 gigs on so
 
 ## Recently played
 
+- NT's Loft, London · Fri, 30 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Sat, 24 Oct 2026
 - BRET, Amsterdam · Fri, 23 Oct 2026
 - Shelter Amsterdam, Amsterdam · Thu, 22 Oct 2026
@@ -26,10 +26,9 @@ Luke Alessi is a house and techno artist based in Australia, with 131 gigs on so
 - Switch, Porto · Sat, 17 Oct 2026
 - H0L0, New York City · Sat, 3 Oct 2026
 - Quinta Mira Rio, Lisbon · Sat, 26 Sept 2026
-- The Cause, London · Sun, 20 Sept 2026
 
 ## Shares bills with
 
 Jordan Brando, DJ Tennis, William Kiss
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukealessi/)*

@@ -1,6 +1,6 @@
 # Pekodjinn
 
-Pekodjinn is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Pitoëff / Salle Communale De Plainpalais, Geneva on Fri, 6 Nov 2026.
+Pekodjinn is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Pitoëff / Salle Communale De Plainpalais, Geneva on Fri, 6 Nov 2026.
 
 Pekodjinn is a baile funk and afrobeat artist, with 39 gigs on soundcheck across Barcelona, Bordeaux, Brussels and Calgary and 6 more. Often billed alongside Cheb Runner, Dj Danifox and Esengo. Next up: Pitoëff / Salle Communale De Plainpalais, Geneva on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Pekodjinn is a baile funk and afrobeat artist, with 39 gigs on soundcheck across
 
 Cheb Runner, Dj Danifox, Esengo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pekodjinn/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pekodjinn/)*

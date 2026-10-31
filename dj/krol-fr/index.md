@@ -1,6 +1,6 @@
 # Krol
 
-Krol is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
+Krol is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brooklyn Storehouse, New York City on Sat, 31 Oct 2026.
 
 Krol is a house and minimal artist based in France, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 11 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Brooklyn Storehouse, New York City on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Krol is a house and minimal artist based in France, with 68 gigs on soundcheck a
 
 Aline Umber, Aline Brooklyn, Aman Umber
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/krol-fr/)*

@@ -1,6 +1,6 @@
 # MILANCHOLIE
 
-MILANCHOLIE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
+MILANCHOLIE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
 
 MILANCHOLIE is a techno and trance artist, with 31 gigs on soundcheck across Berlin. Often billed alongside Zukunftsfritze, DJ Jetset and e.leptic. Next up: Skatehalle Berlin, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MILANCHOLIE is a techno and trance artist, with 31 gigs on soundcheck across Ber
 
 Zukunftsfritze, DJ Jetset, e.leptic
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milancholie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milancholie/)*

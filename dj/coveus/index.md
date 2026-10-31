@@ -1,6 +1,6 @@
 # COVE(US)
 
-COVE(US) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
+COVE(US) is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bossa Nova Civic Club, New York City on Tue, 17 Nov 2026.
 
 COVE(US) is a techno and experimental artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Cow Tools, Megan Rosengarten and R-DNA. Next up: Bossa Nova Civic Club, New York City on Tue 17 Nov.
 
@@ -26,4 +26,4 @@ COVE(US) is a techno and experimental artist based in United States of America, 
 
 Cow Tools, Megan Rosengarten, R-DNA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coveus/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/coveus/)*

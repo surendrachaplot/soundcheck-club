@@ -1,6 +1,6 @@
 # Third Self
 
-Third Self is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mood Ring, New York City on Thu, 5 Nov 2026.
+Third Self is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mood Ring, New York City on Thu, 5 Nov 2026.
 
 Third Self is a club and breakbeat artist, with 22 gigs on soundcheck across New York City. Often billed alongside KOOXLA, bossy boots and JIALING. Next up: Mood Ring, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Third Self is a club and breakbeat artist, with 22 gigs on soundcheck across New
 
 KOOXLA, bossy boots, JIALING
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdself/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thirdself/)*

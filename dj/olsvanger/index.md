@@ -1,6 +1,6 @@
 # Olsvangèr
 
-Olsvangèr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 7 Nov 2026.
+Olsvangèr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Orangerie Neukölln, Berlin on Sat, 7 Nov 2026.
 
 Olsvangèr is a house and techno artist based in Germany, with 81 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 26 more. Often billed alongside MYKI, Niklas Wandt and Bijon. Next up: Orangerie Neukölln, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Olsvangèr is a house and techno artist based in Germany, with 81 gigs on soundc
 
 MYKI, Niklas Wandt, Bijon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olsvanger/)*

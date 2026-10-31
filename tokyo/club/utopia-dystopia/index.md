@@ -1,6 +1,6 @@
 # UTOPIA / DYSTOPIA
 
-UTOPIA / DYSTOPIA is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sync The Bass" on Sat, 31 Oct 2026.
+UTOPIA / DYSTOPIA is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Sync The Bass" on Sat, 31 Oct 2026.
 
 UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Aviator, Da Yama, Flint (UK) and Jackit and 2 more. See dates, start times and who's playing. 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F.
 
@@ -17,4 +17,4 @@ UTOPIA / DYSTOPIA is a music venue in Tokyo listed on soundcheck. 4 upcoming gig
 
 〒150-0044 Tokyo, Shibuya, Maruyamacho, 4−6 QLINK渋谷神泉 B1F B2F, Tokyo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/utopia-dystopia/)*

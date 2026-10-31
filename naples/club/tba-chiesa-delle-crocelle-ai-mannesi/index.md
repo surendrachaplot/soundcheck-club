@@ -1,6 +1,6 @@
 # TBA - Chiesa delle Crocelle ai Mannesi
 
-TBA - Chiesa delle Crocelle ai Mannesi is a music venue in Naples with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Rite 001 - Deconsecrated Church" on Sun, 8 Nov 2026.
+TBA - Chiesa delle Crocelle ai Mannesi is a music venue in Naples with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Rite 001 - Deconsecrated Church" on Sun, 8 Nov 2026.
 
 TBA - Chiesa delle Crocelle ai Mannesi is a music venue in Naples listed on soundcheck. 1 upcoming gig, with line-ups including CIRØ, GDT (ITA), Michele Lopardo and Soulmates. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Chiesa delle Crocelle ai Mannesi is a music venue in Naples listed on soun
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | Rite 001 - Deconsecrated Church | CIRØ, GDT (ITA), Michele Lopardo, Soulmates |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-chiesa-delle-crocelle-ai-mannesi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/tba-chiesa-delle-crocelle-ai-mannesi/)*

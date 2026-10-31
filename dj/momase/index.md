@@ -1,6 +1,6 @@
 # Momasé
 
-Momasé is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Paloma, Barcelona on Fri, 6 Nov 2026.
+Momasé is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Paloma, Barcelona on Fri, 6 Nov 2026.
 
 Momasé is a techno and house artist based in Colombia, with 35 gigs on soundcheck across Barcelona, Berlin and Bogotá. Often billed alongside REDNBLUE, Intruso and Dr Humedo. Next up: La Paloma, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Momasé is a techno and house artist based in Colombia, with 35 gigs on soundche
 
 REDNBLUE, Intruso, Dr Humedo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momase/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/momase/)*

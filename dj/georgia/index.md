@@ -1,6 +1,6 @@
 # Georgia
 
-Georgia is a Drum & Bass and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ef Hutton/founders Park, USC Campus, Los Angeles on Sat, 31 Oct 2026.
+Georgia is a Drum & Bass and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ef Hutton/founders Park, USC Campus, Los Angeles on Sat, 31 Oct 2026.
 
 Georgia is a drum & bass and dubstep artist based in Indonesia, with 147 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 47 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: Ef Hutton/founders Park, USC Campus, Los Angeles on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Georgia is a drum & bass and dubstep artist based in Indonesia, with 147 gigs on
 
 AMEX (UK), APP, Alaska (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/georgia/)*

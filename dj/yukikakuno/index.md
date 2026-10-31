@@ -1,6 +1,6 @@
 # Yuki Kakuno
 
-Yuki Kakuno is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bahama Kitchen, Tokyo on Sat, 28 Nov 2026.
+Yuki Kakuno is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bahama Kitchen, Tokyo on Sat, 28 Nov 2026.
 
 Yuki Kakuno is a house and techno artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside Kengo, Satoshi Matsui and Kaory. Next up: Bahama Kitchen, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Yuki Kakuno is a house and techno artist based in Japan, with 22 gigs on soundch
 
 Kengo, Satoshi Matsui, Kaory
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukikakuno/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yukikakuno/)*

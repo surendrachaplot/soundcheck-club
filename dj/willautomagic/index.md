@@ -1,14 +1,13 @@
 # Will Automagic
 
-Will Automagic is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Rawhide, New York City on Fri, 30 Oct 2026.
+Will Automagic is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Brooklyn, New-york-city on Sun, 1 Nov 2026.
 
-Will Automagic is a house and techno artist based in United States of America, with 75 gigs on soundcheck across New York City. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: Club Rawhide, New York City on Fri 30 Oct.
+Will Automagic is a house and techno artist based in United States of America, with 75 gigs on soundcheck across New York City. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: TBA - Brooklyn, New York City on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Club Rawhide | New York City |
 | Sun, 1 Nov 2026 | TBA - Brooklyn | New-york-city |
 | Sat, 7 Nov 2026 | Brooklyn Pacha | New-york-city |
 | Sun, 15 Nov 2026 | TBA - Ticket Holders Only | New York City |
@@ -18,6 +17,7 @@ Will Automagic is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- Club Rawhide, New York City · Fri, 30 Oct 2026
 - Signal, New York City · Sun, 27 Sept 2026
 - 314 Scholes, New York City · Sun, 20 Sept 2026
 - Club Rawhide, New York City · Fri, 21 Aug 2026
@@ -25,10 +25,9 @@ Will Automagic is a house and techno artist based in United States of America, w
 - Club Rawhide, New York City · Fri, 10 Jul 2026
 - TBA, New York City · Sat, 20 Jun 2026
 - TBA - Doll Quarry, Bushwick, New York City · Sat, 2 May 2026
-- Le Bain, New York City · Sun, 12 Apr 2026
 
 ## Shares bills with
 
 Nita Aviance, The Carry Nation, S'aint Panic
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willautomagic/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/willautomagic/)*

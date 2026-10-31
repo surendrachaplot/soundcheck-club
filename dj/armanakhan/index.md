@@ -1,6 +1,6 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
+ARMANA KHAN is a Club and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
 
 ARMANA KHAN is a club and baile funk artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside ARCHANGEL (US), Meg10 and SRI. Next up: KREUZWERK, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ ARMANA KHAN is a club and baile funk artist based in United States of America, w
 
 ARCHANGEL (US), Meg10, SRI (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/armanakhan/)*

@@ -1,6 +1,6 @@
 # FeLine
 
-FeLine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Monarch, San Francisco/Oakland on Thu, 19 Nov 2026.
+FeLine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Monarch, San Francisco/Oakland on Thu, 19 Nov 2026.
 
 FeLine is a house and disco artist based in United States of America, with 17 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Camillionaire, Huffy and Jaage. Next up: Monarch, San Francisco/Oakland on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ FeLine is a house and disco artist based in United States of America, with 17 gi
 
 Camillionaire, Huffy (2), Jaage
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feline/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/feline/)*

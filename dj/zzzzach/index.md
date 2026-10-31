@@ -1,6 +1,6 @@
 # zzzzach
 
-zzzzach is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
+zzzzach is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
 
 zzzzach is a club and house artist based in United States of America, with 11 gigs on soundcheck across Detroit, Los Angeles and New York City. Often billed alongside Adelaide, Christinathesaintt and kuntress. Next up: Paragon, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ zzzzach is a club and house artist based in United States of America, with 11 gi
 
 Adelaide (1), Christinathesaintt, kuntress
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*

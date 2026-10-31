@@ -1,6 +1,6 @@
 # DETEKT
 
-DETEKT is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Daylight Glasnevin, Dublin on Sat, 14 Nov 2026.
+DETEKT is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Daylight Glasnevin, Dublin on Sat, 14 Nov 2026.
 
 DETEKT is a dub and jungle artist based in Ireland, with 9 gigs on soundcheck across Dublin and London. Often billed alongside DJelley, LUX (uk) and Memory Muscle. Next up: Daylight Glasnevin, Dublin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DETEKT is a dub and jungle artist based in Ireland, with 9 gigs on soundcheck ac
 
 DJelley, LUX (uk), Memory Muscle
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detekt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detekt/)*

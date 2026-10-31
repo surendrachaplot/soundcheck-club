@@ -1,6 +1,6 @@
 # Carerra & Tavares
 
-Carerra & Tavares is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rhythm, Toronto on Thu, 19 Nov 2026.
+Carerra & Tavares is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rhythm, Toronto on Thu, 19 Nov 2026.
 
 Carerra & Tavares are a house and deep house duo, with 25 gigs on soundcheck across New York City, Toronto and Washington DC. Often billed alongside Jonathan Rosa, RUDEE NIK and Alley Kay. Next up: Rhythm, Toronto on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Carerra & Tavares are a house and deep house duo, with 25 gigs on soundcheck acr
 
 Jonathan Rosa, RUDEE NIK, Alley Kay
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carerratavares/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carerratavares/)*

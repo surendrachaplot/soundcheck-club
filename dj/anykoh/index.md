@@ -1,18 +1,18 @@
 # Any Koh
 
-Any Koh is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jungla London, London on Fri, 30 Oct 2026.
+Any Koh is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bread and Butter, London on Sat, 19 Dec 2026.
 
-Any Koh is a techno and electro artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Dimanté, Moonz and Phåro. Next up: Jungla London, London on Fri 30 Oct.
+Any Koh is a techno and electro artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Dimanté, Moonz and Phåro. Next up: Bread and Butter, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Jungla London | London |
 | Sat, 19 Dec 2026 | Bread and Butter | London |
 
 ## Recently played
 
+- Jungla London, London · Fri, 30 Oct 2026
 - TBA - CENTRAL LONDON- announced to ticket holders on the day, London · Fri, 16 Oct 2026
 - Bar A Bar, London · Sat, 26 Sept 2026
 - TBA - EAST LONDON - Announced to ticket holders on the day, London · Fri, 18 Sept 2026
@@ -24,4 +24,4 @@ Any Koh is a techno and electro artist based in United Kingdom, with 8 gigs on s
 
 Dimanté, Moonz, Phåro (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anykoh/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anykoh/)*

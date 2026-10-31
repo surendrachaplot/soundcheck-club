@@ -1,14 +1,13 @@
 # Superior Ingredients
 
-Superior Ingredients is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Rivo Day & Night Full Venue Takeover" on Fri, 30 Oct 2026.
+Superior Ingredients is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Superior Ingredients - Saints & Sinners - The Roof 10/31" on Sat, 31 Oct 2026.
 
-Superior Ingredients is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Bendito, Cam Stockman, Chus & Ceballos and Cosmic Gate and 2 more. See dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
+Superior Ingredients is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including Bendito, Cam Stockman, Chus & Ceballos and Cosmic Gate and 2 more. See dates, start times and who's playing. 74 Wythe Avenue, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Rivo Day & Night Full Venue Takeover | Rivo |
 | Sat, 31 Oct 2026 | Superior Ingredients - Saints & Sinners - The Roof 10/31 |  |
 | Sat, 31 Oct 2026 | Superior Ingredients Roof & Room 10/31 |  |
 | Sat, 31 Oct 2026 | Superior Ingredients Halloween 10/31 - The Room |  |
@@ -18,9 +17,10 @@ Superior Ingredients is a music venue in New York City listed on soundcheck. 13 
 | Sun, 29 Nov 2026 | Chus & Ceballos: Back In Brooklyn | Chus & Ceballos, DJ Chus, Pablo Ceballos |
 | Sun, 13 Dec 2026 | DOUBLEHEADER: Cam Stockman x Tommy Phillips | Cam Stockman, Tommy Phillips |
 | Thu, 31 Dec 2026 | Superior Ingredients NYE 27 |  |
+| Thu, 31 Dec 2026 | Superior Ingredients NYE 27: The Room |  |
 
 ## Address
 
 74 Wythe Avenue, Brooklyn, NY 11249, New York City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/superior-ingredients/)*

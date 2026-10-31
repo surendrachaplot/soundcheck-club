@@ -1,6 +1,6 @@
 # Fede Roses
 
-Fede Roses is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Puerto Bahia Club de Mar, Barcelona on Sat, 31 Oct 2026.
+Fede Roses is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Puerto Bahia Club de Mar, Barcelona on Sat, 31 Oct 2026.
 
 Fede Roses is a techno and progressive house artist based in Argentina, with 11 gigs on soundcheck across Barcelona. Often billed alongside Juannce, VASAP and NAC Oliver. Next up: Puerto Bahia Club de Mar, Barcelona on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Fede Roses is a techno and progressive house artist based in Argentina, with 11 
 
 Juannce, VASAP, NAC Oliver
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/federoses/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/federoses/)*

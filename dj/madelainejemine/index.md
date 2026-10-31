@@ -1,6 +1,6 @@
 # Madelaine Jemine
 
-Madelaine Jemine is a Jungle and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Commune, Liverpool on Sat, 31 Oct 2026.
+Madelaine Jemine is a Jungle and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Commune, Liverpool on Sat, 31 Oct 2026.
 
 Madelaine Jemine is a jungle and garage artist based in United Kingdom, with 9 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside ZESTY (UK), ASHTYLR and Amber Rose. Next up: Commune, Liverpool on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Madelaine Jemine is a jungle and garage artist based in United Kingdom, with 9 g
 
 ZESTY (UK), ASHTYLR, Amber Rose
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madelainejemine/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madelainejemine/)*

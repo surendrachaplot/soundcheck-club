@@ -1,6 +1,6 @@
 # Fran Lobato
 
-Fran Lobato is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bardo Speakeasy, Mexico City on Thu, 29 Oct 2026.
+Fran Lobato is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bardo Speakeasy, Mexico City on Thu, 29 Oct 2026.
 
 Fran Lobato is a tech house and house artist based in Spain, with 25 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Ruben Luna, Red Effects and Mylo. Next up: Bardo Speakeasy, Mexico City on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Fran Lobato is a tech house and house artist based in Spain, with 25 gigs on sou
 
 Ruben Luna, Red Effects, Mylo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franlobato/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franlobato/)*

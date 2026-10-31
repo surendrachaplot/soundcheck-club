@@ -1,6 +1,6 @@
 # DJ Optimism
 
-DJ Optimism is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ark (Melb), Melbourne on Sat, 5 Dec 2026.
+DJ Optimism is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ark (Melb), Melbourne on Sat, 5 Dec 2026.
 
 DJ Optimism is a garage and house artist based in Australia, with 19 gigs on soundcheck across Melbourne. Often billed alongside dozie (uk), Caleb Jay and Charlie Shell. Next up: ark (Melb), Melbourne on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ DJ Optimism is a garage and house artist based in Australia, with 19 gigs on sou
 
 dozie (uk), Caleb Jay, Charlie Shell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djoptimism/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djoptimism/)*

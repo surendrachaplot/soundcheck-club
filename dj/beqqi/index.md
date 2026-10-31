@@ -1,6 +1,6 @@
 # Beqqi
 
-Beqqi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
+Beqqi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Paloma, Berlin on Sun, 15 Nov 2026.
 
 Beqqi is a house and techno artist based in Germany, with 37 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside charli/e, Christa K and Montezuma (DE). Next up: Paloma, Berlin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Beqqi is a house and techno artist based in Germany, with 37 gigs on soundcheck 
 
 charli/e, Christa K, Montezuma (DE)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beqqi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beqqi/)*

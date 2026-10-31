@@ -1,6 +1,6 @@
 # Dj Schnake
 
-Dj Schnake is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Warehouse, Nantes on Fri, 4 Dec 2026.
+Dj Schnake is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Warehouse, Nantes on Fri, 4 Dec 2026.
 
 Dj Schnake is a techno and trance artist based in France, with 56 gigs on soundcheck across Antwerp, Berlin, Brussels and Budapest and 11 more. Often billed alongside Die Klar, DJ Caline and Kichta. Next up: Warehouse, Nantes on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Dj Schnake is a techno and trance artist based in France, with 56 gigs on soundc
 
 Die Klar, DJ Caline, Kichta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djschnake/)*

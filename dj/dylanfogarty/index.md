@@ -1,6 +1,6 @@
 # Dylan Fogarty
 
-Dylan Fogarty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Savoy, Cork on Sat, 31 Oct 2026.
+Dylan Fogarty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Savoy, Cork on Sat, 31 Oct 2026.
 
 Dylan Fogarty is a techno and house artist based in Ireland, with 129 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Belgrade and 33 more. Often billed alongside CULT, Antigone and MEJMI. Next up: Savoy, Cork on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dylan Fogarty is a techno and house artist based in Ireland, with 129 gigs on so
 
 CULT, Antigone, MEJMI
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dylanfogarty/)*

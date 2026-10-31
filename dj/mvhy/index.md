@@ -1,6 +1,6 @@
 # MVHY
 
-MVHY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Paloma, Berlin on Sun, 22 Nov 2026.
+MVHY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Paloma, Berlin on Sun, 22 Nov 2026.
 
 MVHY is a house and techno artist based in Germany, with 23 gigs on soundcheck across Berlin, New York City, Stockholm and Stuttgart and 1 more. Often billed alongside La Schmock, DJ City and Giulia Gutterer. Next up: Paloma, Berlin on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ MVHY is a house and techno artist based in Germany, with 23 gigs on soundcheck a
 
 La Schmock, DJ City, Giulia Gutterer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mvhy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mvhy/)*

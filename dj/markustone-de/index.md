@@ -1,6 +1,6 @@
 # Markus Tone
 
-Markus Tone is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Jmes, Berlin on Thu, 5 Nov 2026.
+Markus Tone is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Jmes, Berlin on Thu, 5 Nov 2026.
 
 Markus Tone is a house and electronica artist based in Germany, with 23 gigs on soundcheck across Berlin and Zurich. Often billed alongside Alex Barck, Jazzanova and Eddy Ramich. Next up: Jmes, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Markus Tone is a house and electronica artist based in Germany, with 23 gigs on 
 
 Alex Barck, Jazzanova, Eddy Ramich
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markustone-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markustone-de/)*

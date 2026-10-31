@@ -1,6 +1,6 @@
 # Shanghai Ultra
 
-Shanghai Ultra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Reactor Shanghai, Shanghai on Sat, 31 Oct 2026.
+Shanghai Ultra is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Reactor Shanghai, Shanghai on Sat, 31 Oct 2026.
 
 Shanghai Ultra is a techno and electro artist based in China, with 15 gigs on soundcheck across Shanghai. Often billed alongside Ma Haiping, NAXIN and Illsee. Next up: Reactor Shanghai, Shanghai on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Shanghai Ultra is a techno and electro artist based in China, with 15 gigs on so
 
 Ma Haiping, NAXIN, Illsee
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanghaiultra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shanghaiultra/)*

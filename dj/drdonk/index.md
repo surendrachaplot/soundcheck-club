@@ -1,6 +1,6 @@
 # Dr Donk
 
-Dr Donk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
+Dr Donk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
 
 Dr Donk is a techno and hardcore artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 9 more. Often billed alongside The Dark Horror, Mish and Paul Elstak. Next up: Maimarkthalle, Mannheim on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Dr Donk is a techno and hardcore artist based in Germany, with 17 gigs on soundc
 
 The Dark Horror, Mish, Paul Elstak
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdonk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drdonk/)*

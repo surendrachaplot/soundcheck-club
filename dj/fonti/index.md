@@ -1,6 +1,6 @@
 # Fonti
 
-Fonti is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Eutopia Warehouse, London on Sat, 5 Dec 2026.
+Fonti is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Eutopia Warehouse, London on Sat, 5 Dec 2026.
 
 Fonti is a garage and house artist, with 10 gigs on soundcheck across Birmingham, London and Milan. Often billed alongside MC Bushkin, MC DT and Artful Dodger. Next up: Eutopia Warehouse, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Fonti is a garage and house artist, with 10 gigs on soundcheck across Birmingham
 
 MC Bushkin, MC DT, Artful Dodger
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonti/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fonti/)*

@@ -1,6 +1,6 @@
 # Zee-Pa
 
-Zee-Pa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Noce KRK, Krakow on Fri, 13 Nov 2026.
+Zee-Pa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Noce KRK, Krakow on Fri, 13 Nov 2026.
 
 Zee-Pa is a techno and house artist based in Poland, with 9 gigs on soundcheck across Krakow. Often billed alongside Bartman, House Martin and Jusvybe. Next up: Noce KRK, Krakow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Zee-Pa is a techno and house artist based in Poland, with 9 gigs on soundcheck a
 
 Bartman, House Martin, Jusvybe
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zee-pa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zee-pa/)*

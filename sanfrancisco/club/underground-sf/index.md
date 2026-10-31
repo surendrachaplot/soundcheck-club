@@ -1,14 +1,13 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬" on Fri, 30 Oct 2026.
+Underground SF is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween Underground (SF): Primo, Oso Feo, M66, Very Much Romance" on Sat, 31 Oct 2026.
 
-Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including 2dahlia, 480P (US), 9-System and Aepricity and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including 2dahlia, 480P (US), 9-System and Aepricity and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | FIXED GLOSS presents: 𝑩𝑬𝑯𝑰𝑵𝑫 𝑻𝑯𝑬 𝑰𝑹𝑶𝑵 𝑮𝑨𝑻𝑬 | ALICE STRIBLING, Charles Hawthorne |
 | Sat, 31 Oct 2026 | Halloween Underground (SF): Primo, Oso Feo, M66, Very Much Romance | DJ Primo, M66 (1), Oso Feo, Very Much Romance |
 | Thu, 5 Nov 2026 | Age of Sin | 2dahlia, Aralia, Lonald J. Bandz, Tom Marsi |
 | Fri, 6 Nov 2026 | Party for No Reason |  |
@@ -18,9 +17,10 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 | Sat, 21 Nov 2026 | hydraphex presents: Freeman 713, Emma Rak, Midnight Climax, 9-System, Stasis Field | 9-System, Emma Rak, Freeman 713, Midnight Climax |
 | Thu, 26 Nov 2026 | FIXED GLOSS presents 𝑮𝑶𝑻𝑯𝑺𝑮𝑰𝑽𝑰𝑵𝑮 | ALICE STRIBLING |
 | Sat, 28 Nov 2026 | OnSet | Mossmoss, Peter Clarke |
+| Sat, 5 Dec 2026 | Hector Moralez and friends presents 'A Vibe Called Tribe' |  |
 
 ## Address
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

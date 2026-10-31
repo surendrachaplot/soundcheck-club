@@ -1,6 +1,6 @@
 # Negativ
 
-Negativ is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
+Negativ is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
 
 Negativ is a bass and uk funky artist, with 13 gigs on soundcheck across Amsterdam, Belfast, Frankfurt and Poznan and 1 more. Often billed alongside SHHME, long w and A.N.I.. Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Negativ is a bass and uk funky artist, with 13 gigs on soundcheck across Amsterd
 
 SHHME, long w, A.N.I.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negativ/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/negativ/)*

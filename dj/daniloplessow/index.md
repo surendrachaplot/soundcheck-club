@@ -1,6 +1,6 @@
 # Danilo Plessow
 
-Danilo Plessow is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Danilo Plessow is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
 
 Danilo Plessow is a house and disco artist based in Germany, with 185 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 59 more. Often billed alongside Motor City Drum Ensemble, Antal and Hugo LX. Next up: Østre, Bergen on Thu 29 Oct.
 
@@ -32,4 +32,4 @@ Danilo Plessow is a house and disco artist based in Germany, with 185 gigs on so
 
 Motor City Drum Ensemble, Antal, Hugo LX
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daniloplessow/)*

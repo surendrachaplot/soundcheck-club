@@ -1,14 +1,13 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Fri, 30 Oct 2026.
+future.666 is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
-future.666 is a techno and trance artist based in Germany, with 272 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 75 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: E1, London on Fri 30 Oct.
+future.666 is a techno and trance artist based in Germany, with 272 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 75 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | E1 | London |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 31 Oct 2026 | Fabrik | Madrid |
 | Fri, 27 Nov 2026 | Cieloterra | Rome |
@@ -21,6 +20,7 @@ future.666 is a techno and trance artist based in Germany, with 272 gigs on soun
 
 ## Recently played
 
+- E1, London · Fri, 30 Oct 2026
 - Spook Club, Valencia · Sat, 24 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
@@ -28,10 +28,9 @@ future.666 is a techno and trance artist based in Germany, with 272 gigs on soun
 - Spacehall, Tbilisi · Fri, 16 Oct 2026
 - Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
 - Kømplex Lisbon, Lisbon · Sun, 4 Oct 2026
-- Flux, Istanbul · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 DJ Hyperdrive, ÜBERKIKZ, Adrian Mills
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/future666/)*

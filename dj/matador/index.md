@@ -1,6 +1,6 @@
 # Matador
 
-Matador is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Loo Loo, Mexico City on Fri, 4 Dec 2026.
+Matador is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Loo Loo, Mexico City on Fri, 4 Dec 2026.
 
 Matador is a techno and house artist based in Ireland, with 54 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Budapest and 23 more. Often billed alongside Deep Dish, Anhauser and Briska. Next up: Loo Loo, Mexico City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Matador is a techno and house artist based in Ireland, with 54 gigs on soundchec
 
 Deep Dish, Anhauser, Briska
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matador/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matador/)*

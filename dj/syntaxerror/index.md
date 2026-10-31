@@ -1,6 +1,6 @@
 # Syntax Error
 
-Syntax Error is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Baalsaal, Hamburg on Sat, 31 Oct 2026.
+Syntax Error is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Baalsaal, Hamburg on Sat, 31 Oct 2026.
 
 Syntax Error is a techno and minimal techno artist based in Germany, with 9 gigs on soundcheck across Hamburg, Leipzig and Prague. Often billed alongside ROOB, After X and Aseptic. Next up: Baalsaal, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Syntax Error is a techno and minimal techno artist based in Germany, with 9 gigs
 
 ROOB, After X, Aseptic
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntaxerror/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntaxerror/)*

@@ -1,14 +1,14 @@
 # a landscape
 
-a landscape is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Mile-Ex, Montreal on Sun, 1 Nov 2026.
+a landscape is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - 6750 Esplanade (through the alley), Montreal on Sun, 1 Nov 2026.
 
-a landscape is a minimal techno and house artist based in Mexico, with 9 gigs on soundcheck across Berlin, Mexico City and Montreal. Often billed alongside Daniel Alanís, O/Y and Onai. Next up: TBA - Mile-Ex, Montreal on Sun 1 Nov.
+a landscape is a minimal techno and house artist based in Mexico, with 9 gigs on soundcheck across Berlin, Mexico City and Montreal. Often billed alongside Daniel Alanís, O/Y and Onai. Next up: TBA - 6750 Esplanade (through the alley), Montreal on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | TBA - Mile-Ex | Montreal |
+| Sun, 1 Nov 2026 | TBA - 6750 Esplanade (through the alley) | Montreal |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ a landscape is a minimal techno and house artist based in Mexico, with 9 gigs on
 
 Daniel Alanís, O/Y, Onai
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alandscape/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alandscape/)*

@@ -1,6 +1,6 @@
 # Dzeko
 
-Dzeko is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sala El Tren, South on Sat, 7 Nov 2026.
+Dzeko is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sala El Tren, South on Sat, 7 Nov 2026.
 
 Dzeko is a techno and electro artist based in Spain, with 43 gigs on soundcheck across Barcelona, Madrid and South. Often billed alongside Anika Kunst, HERMETICA and Aizikovic. Next up: Sala El Tren, South on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dzeko is a techno and electro artist based in Spain, with 43 gigs on soundcheck 
 
 Anika Kunst, HERMETICA, Aizikovic
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzeko/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzeko/)*

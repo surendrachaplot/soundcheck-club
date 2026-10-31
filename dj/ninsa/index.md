@@ -1,6 +1,6 @@
 # Ninsa
 
-Ninsa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 13 Nov 2026.
+Ninsa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 13 Nov 2026.
 
 Ninsa is a techno and house artist based in Netherlands, with 59 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 6 more. Often billed alongside Gabriel Ananda, Vero (NL) and Miss Melera. Next up: THE OTHER SIDE, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ninsa is a techno and house artist based in Netherlands, with 59 gigs on soundch
 
 Gabriel Ananda, Vero (NL), Miss Melera
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninsa/)*

@@ -1,6 +1,6 @@
 # hörmi
 
-hörmi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 4 Dec 2026.
+hörmi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 4 Dec 2026.
 
 hörmi is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside justUS, ganz oder gar nicht and Katzengold. Next up: Ritter Butzke, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ hörmi is a techno and house artist based in Germany, with 9 gigs on soundcheck 
 
 justUS, ganz oder gar nicht, Katzengold
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hormi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hormi/)*

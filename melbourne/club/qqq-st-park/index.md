@@ -1,6 +1,6 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Greenhouse kollective Spooky Sessions" on Sat, 31 Oct 2026.
+QQQ ST. Park is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Greenhouse kollective Spooky Sessions" on Sat, 31 Oct 2026.
 
 QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Static, Azifm, EMCD and Hound and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
@@ -21,4 +21,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

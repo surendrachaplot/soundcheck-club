@@ -1,14 +1,13 @@
 # komunal
 
-komunal is a music venue in Birmingham with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Owen Parsons + friends with Faraz, Mark Birch, MINI + Mizzy" on Fri, 30 Oct 2026.
+komunal is a music venue in Birmingham with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "halloween by Arcane with Richard Gregory, Dannheimer [kru], Ferg b2b Liam G + Matiiz" on Sat, 31 Oct 2026.
 
-komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Mclean, Cam Foster, Dannheimer and Faraz (UK) and 2 more. See dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
+komunal is a music venue in Birmingham listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Mclean, Cam Foster, Dannheimer and GMDS and 2 more. See dates, start times and who's playing. 11 Shaw's Passage, Digbeth, B5 5JG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Owen Parsons + friends with Faraz, Mark Birch, MINI + Mizzy | Faraz (UK) |
 | Sat, 31 Oct 2026 | halloween by Arcane with Richard Gregory, Dannheimer [kru], Ferg b2b Liam G + Matiiz | Dannheimer, Richard Gregory |
 | Fri, 6 Nov 2026 | Neat Neat Neat with Viscera, Gambol [kru], Josh Padgett + Matt Pugh | Matt Cowell, Viscera |
 | Sat, 7 Nov 2026 | FunkedUp [pre-party] with Malps b2b Cam Foster + Jake Webber b2b Blox | Cam Foster |
@@ -19,4 +18,4 @@ komunal is a music venue in Birmingham listed on soundcheck. 6 upcoming gigs, wi
 
 11 Shaw's Passage, Digbeth, B5 5JG, Birmingham
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/komunal/)*

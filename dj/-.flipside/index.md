@@ -1,6 +1,6 @@
 # FLIPSIDE.
 
-FLIPSIDE. is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+FLIPSIDE. is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 FLIPSIDE. is a bass and garage artist based in United Kingdom, with 27 gigs on soundcheck across Aberdeen, Edinburgh and Glasgow. Often billed alongside Talkless, Cornetta and Lara Sinclair. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ FLIPSIDE. is a bass and garage artist based in United Kingdom, with 27 gigs on s
 
 Talkless, Cornetta, Lara Sinclair
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/-.flipside/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/-.flipside/)*

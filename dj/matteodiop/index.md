@@ -1,6 +1,6 @@
 # Matteo Diop
 
-Matteo Diop is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
+Matteo Diop is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
 
 Matteo Diop is a house and tech house artist based in France, with 28 gigs on soundcheck across Ibiza, London, Munich and Naples and 2 more. Often billed alongside II FACES, Arthur Nozen and Parea (FR). Next up: fabric, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Matteo Diop is a house and tech house artist based in France, with 28 gigs on so
 
 II FACES, Arthur Nozen, Parea (FR)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodiop/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteodiop/)*

@@ -1,6 +1,6 @@
 # Lost Desert
 
-Lost Desert is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Beach Hotel - Byron Bay, Byron-bay on Fri, 20 Nov 2026.
+Lost Desert is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Beach Hotel - Byron Bay, Byron-bay on Fri, 20 Nov 2026.
 
 Lost Desert is a deep house and house artist based in Belgium, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 18 more. Often billed alongside Lee Burridge, Jim Rider and Tim Green. Next up: Beach Hotel - Byron Bay, Byron Bay on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Lost Desert is a deep house and house artist based in Belgium, with 51 gigs on s
 
 Lee Burridge, Jim Rider, Tim Green
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostdesert/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lostdesert/)*

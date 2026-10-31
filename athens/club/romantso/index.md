@@ -1,6 +1,6 @@
 # Romantso
 
-Romantso is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "MO'FI RECORDS Showcase #1 with Franz Scala (IT) & Italo Brutalo (DE)" on Sat, 7 Nov 2026.
+Romantso is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "MO'FI RECORDS Showcase #1 with Franz Scala (IT) & Italo Brutalo (DE)" on Sat, 7 Nov 2026.
 
 Romantso is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Chevy, Dora Mask, Franz Scala and Italo Brutalo and 2 more. See dates, start times and who's playing. Αnaxagora 3-5, Athens 10552, Greece.
 
@@ -15,4 +15,4 @@ Romantso is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with 
 
 Αnaxagora 3-5, Athens 10552, Greece, Athens
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/romantso/)*

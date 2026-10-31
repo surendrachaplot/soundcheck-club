@@ -1,6 +1,6 @@
 # Anthony Georges Patrice
 
-Anthony Georges Patrice is a Minimal and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
+Anthony Georges Patrice is a Minimal and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
 
 Anthony Georges Patrice is a minimal and dub techno artist based in France, with 22 gigs on soundcheck across Berlin. Often billed alongside Marelko, Jezero and Fletcher. Next up: TBA - Berlin Neukölln , Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Anthony Georges Patrice is a minimal and dub techno artist based in France, with
 
 Marelko, Jezero, Fletcher
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygeorgespatrice-fr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygeorgespatrice-fr/)*

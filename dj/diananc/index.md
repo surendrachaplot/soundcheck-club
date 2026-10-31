@@ -1,6 +1,6 @@
 # Diana NC
 
-Diana NC is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
+Diana NC is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
 
 Diana NC is a house and minimal artist based in Colombia, with 34 gigs on soundcheck across Miami, New York City, Orlando and Tampa Bay and 1 more. Often billed alongside Felis Beātus, David Zapata and Hugh Malo. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Diana NC is a house and minimal artist based in Colombia, with 34 gigs on soundc
 
 Felis Beātus, David Zapata, Hugh Malo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diananc/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diananc/)*

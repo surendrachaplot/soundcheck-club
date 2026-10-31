@@ -1,6 +1,6 @@
 # Nesta
 
-Nesta is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+Nesta is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
 
 Nesta is a house and deep house artist based in Lebanon, with 38 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside DJ Senc, Hugo Martinez and Andrea Fiorito. Next up: FVTVR, Paris on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Nesta is a house and deep house artist based in Lebanon, with 38 gigs on soundch
 
 DJ Senc, Hugo Martinez, Andrea Fiorito
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nesta/)*

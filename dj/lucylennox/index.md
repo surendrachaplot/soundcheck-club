@@ -1,6 +1,6 @@
 # Lucy Lennox
 
-Lucy Lennox is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Outernet Live, London on Thu, 31 Dec 2026.
+Lucy Lennox is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Outernet Live, London on Thu, 31 Dec 2026.
 
 Lucy Lennox is a house and disco artist, with 16 gigs on soundcheck across Amsterdam, Bristol, Edinburgh and London and 1 more. Often billed alongside The Duke, Danny Krivit and Eats Everything. Next up: Outernet Live, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lucy Lennox is a house and disco artist, with 16 gigs on soundcheck across Amste
 
 The Duke, Danny Krivit, Eats Everything
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylennox/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucylennox/)*

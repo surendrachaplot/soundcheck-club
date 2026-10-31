@@ -1,6 +1,6 @@
 # Sinopoli
 
-Sinopoli is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Sinopoli is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Sinopoli is a house and experimental artist based in United States of America, with 11 gigs on soundcheck across Bogotá and Miami. Often billed alongside Cami di Marzo, Nikita Green and SIEGEL. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ Sinopoli is a house and experimental artist based in United States of America, w
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 30 Oct 2026
 - Floyd, Miami · Sat, 26 Sept 2026
 - Floyd, Miami · Fri, 28 Aug 2026
 - Domicile, Miami · Sat, 8 Aug 2026
@@ -19,10 +20,9 @@ Sinopoli is a house and experimental artist based in United States of America, w
 - Lion's Den, Miami · Sun, 21 Jun 2026
 - Mad Radio Miami, Miami · Sat, 9 May 2026
 - Jolene Downtown Miami, Miami · Sun, 3 May 2026
-- Club Space Miami, Miami · Sat, 25 Apr 2026
 
 ## Shares bills with
 
 Cami di Marzo, Nikita Green, SIEGEL (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinopoli/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinopoli/)*

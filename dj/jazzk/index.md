@@ -1,6 +1,6 @@
 # Jazz K
 
-Jazz K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Dr. Resin Social Club, Barcelona on Sat, 31 Oct 2026.
+Jazz K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Dr. Resin Social Club, Barcelona on Sat, 31 Oct 2026.
 
 Jazz K is a techno and house artist based in France, with 129 gigs on soundcheck across Barcelona. Often billed alongside LUXX, NIIXII and ERRANT. Next up: Dr. Resin Social Club, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jazz K is a techno and house artist based in France, with 129 gigs on soundcheck
 
 LUXX, NIIXII, ERRANT
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzk/)*

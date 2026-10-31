@@ -1,6 +1,6 @@
 # Uakoz
 
-Uakoz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at E1, London on Sun, 1 Nov 2026.
+Uakoz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at E1, London on Sun, 1 Nov 2026.
 
 Uakoz is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, London and Munich. Often billed alongside RANIERO, Kyle E and Thomas Galbardi. Next up: E1, London on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Uakoz is a techno and house artist based in United Kingdom, with 25 gigs on soun
 
 RANIERO, Kyle E, Thomas Galbardi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uakoz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uakoz/)*

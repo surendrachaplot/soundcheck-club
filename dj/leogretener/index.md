@@ -1,6 +1,6 @@
 # Leo Gretener
 
-Leo Gretener is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
+Leo Gretener is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
 
 Leo Gretener is a house and electronica artist based in Switzerland, with 27 gigs on soundcheck across Geneva, Manchester and Zurich. Often billed alongside Princess P, Kalabrese and Ethimm. Next up: The Golden Lion, Manchester on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Leo Gretener is a house and electronica artist based in Switzerland, with 27 gig
 
 Princess P, Kalabrese, Ethimm
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leogretener/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leogretener/)*

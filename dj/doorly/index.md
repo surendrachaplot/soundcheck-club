@@ -1,6 +1,6 @@
 # Doorly
 
-Doorly is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
+Doorly is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Court Hotel, Perth on Sun, 3 Jan 2027.
 
 Doorly is a house and tech house artist based in United States of America, with 31 gigs on soundcheck across Boston, Brighton, Cleveland and Detroit and 12 more. Often billed alongside Devon James, Jason Bye and Justin Martin. Next up: The Court Hotel, Perth on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ Doorly is a house and tech house artist based in United States of America, with 
 
 Devon James, Jason Bye, Justin Martin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doorly/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doorly/)*

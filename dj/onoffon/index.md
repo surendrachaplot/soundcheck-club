@@ -1,6 +1,6 @@
 # Onoffon
 
-Onoffon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Glove That Fits, London on Sat, 7 Nov 2026.
+Onoffon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Glove That Fits, London on Sat, 7 Nov 2026.
 
 Onoffon is a house and techno artist based in Venezuela, with 80 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Bogotá and 15 more. Often billed alongside Rufo, Sebastián and Christian Arcila. Next up: The Glove That Fits, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Onoffon is a house and techno artist based in Venezuela, with 80 gigs on soundch
 
 Rufo, Sebastián, Christian Arcila
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onoffon/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onoffon/)*

@@ -1,6 +1,6 @@
 # Leonardo Cruz DJ
 
-Leonardo Cruz DJ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
+Leonardo Cruz DJ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
 
 Leonardo Cruz DJ is a house and tech house artist based in Brazil, with 38 gigs on soundcheck across London and South East. Often billed alongside Juliana Branco, Simoon Pedro and G Belmonte. Next up: Not For Sale Gallery, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Leonardo Cruz DJ is a house and tech house artist based in Brazil, with 38 gigs 
 
 Juliana Branco, Simoon Pedro, G Belmonte
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardocruzdj/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leonardocruzdj/)*

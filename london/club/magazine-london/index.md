@@ -1,6 +1,6 @@
 # Magazine London
 
-Magazine London is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "The Hydra presents Honey Dijon - 4 Hour Set (Halloween)" on Sat, 31 Oct 2026.
+Magazine London is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "The Hydra presents Honey Dijon - 4 Hour Set (Halloween)" on Sat, 31 Oct 2026.
 
 Magazine London is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Anyasa, Delilah, Drea and KI/KI and 2 more. See dates, start times and who's playing. 11 Ordnance Crescent, London SE10 0JH.
 
@@ -16,4 +16,4 @@ Magazine London is a music venue in London listed on soundcheck. 3 upcoming gigs
 
 11 Ordnance Crescent, London SE10 0JH, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/magazine-london/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/magazine-london/)*

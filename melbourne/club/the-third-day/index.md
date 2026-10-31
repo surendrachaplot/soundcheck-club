@@ -1,6 +1,6 @@
 # The Third Day
 
-The Third Day is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Asylum Halloween Rave" on Sat, 31 Oct 2026.
+The Third Day is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Asylum Halloween Rave" on Sat, 31 Oct 2026.
 
 The Third Day is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Four To Eight, Korey Dobson, Papa Smurf and SVN. See dates, start times and who's playing. 290 Macaulay Road, North Melbourne, Victoria 3051.
 
@@ -16,4 +16,4 @@ The Third Day is a music venue in Melbourne listed on soundcheck. 3 upcoming gig
 
 290 Macaulay Road, North Melbourne, Victoria 3051, Melbourne
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-third-day/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-third-day/)*

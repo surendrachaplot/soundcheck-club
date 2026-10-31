@@ -1,6 +1,6 @@
 # Korenberg
 
-Korenberg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Piekło nad Niebem, Warsaw on Sat, 14 Nov 2026.
+Korenberg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Piekło nad Niebem, Warsaw on Sat, 14 Nov 2026.
 
 Korenberg is a house and tech house artist based in Poland, with 31 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside WEIKUM, GiGi (PL) and Mazi (PL). Next up: Piekło nad Niebem, Warsaw on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Korenberg is a house and tech house artist based in Poland, with 31 gigs on soun
 
 WEIKUM, GiGi (PL), Mazi (PL)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korenberg/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/korenberg/)*

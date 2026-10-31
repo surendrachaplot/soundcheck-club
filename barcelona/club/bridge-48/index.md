@@ -1,14 +1,13 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BRIDGE 48 — 2 ROOMS x El Tony Mate" on Fri, 30 Oct 2026.
+Bridge 48 is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "UNÁNIME TECHNO HALLOWEEN NIGHT" on Sat, 31 Oct 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Ale Hope, Alice Youngling, Atari Stacey and Aude and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Ale Hope, Alice Youngling, Atari Stacey and Aude and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | BRIDGE 48 — 2 ROOMS x El Tony Mate | Diego Ro-k, Mac (4) |
 | Sat, 31 Oct 2026 | UNÁNIME TECHNO HALLOWEEN NIGHT | KRYTE, Pullär, SASAXX |
 | Sun, 1 Nov 2026 | Culture Hub X Utgava | Avraxas |
 | Mon, 2 Nov 2026 | AUDE Listening Session: D'Angelo, Voodoo (2000) |  |
@@ -23,4 +22,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

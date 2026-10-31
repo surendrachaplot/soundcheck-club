@@ -1,6 +1,6 @@
 # Kayleigh Glynn
 
-Kayleigh Glynn is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 14 Nov 2026.
+Kayleigh Glynn is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 14 Nov 2026.
 
 Kayleigh Glynn is an electronica and techno artist based in Ireland, with 21 gigs on soundcheck across Belfast, Dublin and Ibiza. Often billed alongside Kaycee, LAMMER and A K. Next up: The Telegraph Building, Belfast on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kayleigh Glynn is an electronica and techno artist based in Ireland, with 21 gig
 
 Kaycee, LAMMER, A K
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayleighglynn/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayleighglynn/)*

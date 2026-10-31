@@ -1,6 +1,6 @@
 # Reelworks Denver
 
-Reelworks Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Shades (Alix Perez x EPROM)" on Fri, 6 Nov 2026.
+Reelworks Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Shades (Alix Perez x EPROM)" on Fri, 6 Nov 2026.
 
 Reelworks Denver is a music venue in Denver listed on soundcheck. 2 upcoming gigs, with line-ups including Daedelus, HIJINX, KOAN Sound and Kursa and 1 more. See dates, start times and who's playing. 1399 35th St. Denver CO. 80205.
 
@@ -15,4 +15,4 @@ Reelworks Denver is a music venue in Denver listed on soundcheck. 2 upcoming gig
 
 1399 35th St. Denver CO. 80205, Denver
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/denver/club/reelworks-denver/)*

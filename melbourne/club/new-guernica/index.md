@@ -1,6 +1,6 @@
 # New Guernica
 
-New Guernica is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "New Guernica 17th Bday: Halloween Special" on Sat, 31 Oct 2026.
+New Guernica is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "New Guernica 17th Bday: Halloween Special" on Sat, 31 Oct 2026.
 
 New Guernica is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including BERGA, CLAIR (BAI), DJ ALI (AU) and DJ Kiti and 2 more. See dates, start times and who's playing. 64 Smith Street, Collingwood, VIC 3066.
 
@@ -22,4 +22,4 @@ New Guernica is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs
 
 64 Smith Street, Collingwood, VIC 3066, Melbourne
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/new-guernica/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/new-guernica/)*

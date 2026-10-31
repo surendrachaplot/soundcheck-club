@@ -1,6 +1,6 @@
 # Cozmic Cat
 
-Cozmic Cat is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wiggle Room, Toronto on Sun, 22 Nov 2026.
+Cozmic Cat is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Wiggle Room, Toronto on Sun, 22 Nov 2026.
 
 Cozmic Cat is a tech house and house artist based in Canada, with 57 gigs on soundcheck across Toronto. Often billed alongside Barroness, Manzone & Strong and Miz Megs. Next up: Wiggle Room, Toronto on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Cozmic Cat is a tech house and house artist based in Canada, with 57 gigs on sou
 
 Barroness, Manzone & Strong, Miz Megs
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cozmiccat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cozmiccat/)*

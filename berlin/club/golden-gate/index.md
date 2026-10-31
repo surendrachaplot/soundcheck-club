@@ -1,6 +1,6 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Serialism + Afterhour" on Fri, 30 Oct 2026.
+Golden Gate is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Serialism + Afterhour" on Fri, 30 Oct 2026.
 
 Golden Gate is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including A. Brehme, Alex New, Ancut and Anderson and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
@@ -23,4 +23,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, w
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

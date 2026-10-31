@@ -1,14 +1,13 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri, 30 Oct 2026.
+Cara Elizabeth is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Nordstern, Basel on Sat, 7 Nov 2026.
 
-Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Kø:lab, davyboi and Mika Heggemann. Next up: TBA - Fohrstraat, 9000 Gent, België, Belgium on Fri 30 Oct.
+Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 33 more. Often billed alongside Kø:lab, davyboi and Mika Heggemann. Next up: Nordstern, Basel on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - Fohrstraat, 9000 Gent, België | Belgium |
 | Sat, 7 Nov 2026 | Nordstern | Basel |
 | Fri, 13 Nov 2026 | Fuse | Brussels |
 | Fri, 20 Nov 2026 | Lokschuppen Berlin | Berlin |
@@ -16,6 +15,7 @@ Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on 
 
 ## Recently played
 
+- TBA - Fohrstraat, 9000 Gent, België, Belgium · Fri, 30 Oct 2026
 - Thuishaven, Amsterdam · Sun, 25 Oct 2026
 - DRUMSHEDS, London · Fri, 23 Oct 2026
 - Hangaren, Copenhagen · Sat, 17 Oct 2026
@@ -23,10 +23,9 @@ Cara Elizabeth is a techno and trance artist based in Germany, with 159 gigs on 
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Palacio de la Oliva, North · Fri, 9 Oct 2026
 - Artheater, Cologne · Sat, 19 Sept 2026
-- The Foundry, San Francisco/Oakland · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 Kø:lab, davyboi, Mika Heggemann
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caraelizabeth/)*

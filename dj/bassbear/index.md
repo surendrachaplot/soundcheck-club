@@ -1,6 +1,6 @@
 # BASSBEAR!!
 
-BASSBEAR!! is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 30 Nov 2026.
+BASSBEAR!! is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 30 Nov 2026.
 
 BASSBEAR!! is a club and techno artist based in United States of America, with 59 gigs on soundcheck across Baltimore, Boston, Los Angeles and Miami and 5 more. Often billed alongside bossy boots, DJ SWISHA and Syd (US). Next up: Bossa Nova Civic Club, New York City on Mon 30 Nov.
 
@@ -25,4 +25,4 @@ BASSBEAR!! is a club and techno artist based in United States of America, with 5
 
 bossy boots, DJ SWISHA, Syd (US)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbear/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbear/)*

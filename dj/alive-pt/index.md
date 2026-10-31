@@ -1,6 +1,6 @@
 # Alive
 
-Alive is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Carmo Rooftop, Lisbon on Sun, 1 Nov 2026.
+Alive is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Carmo Rooftop, Lisbon on Sun, 1 Nov 2026.
 
 Alive is a house and techno artist based in Portugal, with 11 gigs on soundcheck across Athens, Budapest, Lisbon and Los Angeles and 2 more. Often billed alongside Andy C, Pedro Tabuada and Rui Alves. Next up: Carmo Rooftop, Lisbon on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Alive is a house and techno artist based in Portugal, with 11 gigs on soundcheck
 
 Andy C, Pedro Tabuada, Rui Alves
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alive-pt/)*

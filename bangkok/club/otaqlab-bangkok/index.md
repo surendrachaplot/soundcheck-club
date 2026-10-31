@@ -1,6 +1,6 @@
 # Otaqlab Bangkok
 
-Otaqlab Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "BREAK into SMILE" on Fri, 6 Nov 2026.
+Otaqlab Bangkok is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "BREAK into SMILE" on Fri, 6 Nov 2026.
 
 Otaqlab Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including D. Goodman and Noritachibana. See dates, start times and who's playing. 490/2 Phahoyothin Road Samsen Subdistrict Phaya Thai District, Bangkok 10400.
 
@@ -14,4 +14,4 @@ Otaqlab Bangkok is a music venue in Bangkok listed on soundcheck. 1 upcoming gig
 
 490/2 Phahoyothin Road Samsen Subdistrict Phaya Thai District, Bangkok 10400, Bangkok
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/otaqlab-bangkok/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/otaqlab-bangkok/)*

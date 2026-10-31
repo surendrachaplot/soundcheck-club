@@ -1,6 +1,6 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Eris Drew is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
 
 Eris Drew is a house and techno artist based in United States of America, with 205 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 65 more. Often billed alongside Octo Octa, Mike Servito and CCL. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
 
@@ -20,6 +20,7 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 
 ## Recently played
 
+- Tangent Gallery, Detroit · Fri, 30 Oct 2026
 - Skatecafe, Amsterdam · Sun, 25 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Fri, 23 Oct 2026
@@ -27,10 +28,9 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 - NUMBER 90 LONDON, London · Thu, 15 Oct 2026
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 4 Oct 2026
-- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Octo Octa, Mike Servito, CCL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

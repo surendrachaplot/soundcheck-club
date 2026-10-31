@@ -1,6 +1,6 @@
 # Isa Rojas
 
-Isa Rojas is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
+Isa Rojas is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
 
 Isa Rojas is a house and deep house artist based in Chile, with 114 gigs on soundcheck across Barcelona, Madrid, Paris and Santiago. Often billed alongside Amalia Balbontin, Jade Rolt and Jen Cruz. Next up: Nitsa Club, Barcelona on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Isa Rojas is a house and deep house artist based in Chile, with 114 gigs on soun
 
 Amalia Balbontin, Jade Rolt, Jen Cruz
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isarojas/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isarojas/)*

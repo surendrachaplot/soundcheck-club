@@ -1,6 +1,6 @@
 # HEX ELECTRONIX
 
-HEX ELECTRONIX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Cecil AM, Copenhagen on Fri, 27 Nov 2026.
+HEX ELECTRONIX is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Cecil AM, Copenhagen on Fri, 27 Nov 2026.
 
 HEX ELECTRONIX is a techno and house artist based in Denmark, with 33 gigs on soundcheck across Copenhagen. Often billed alongside Adexia, dragongirl and Debbie Sings. Next up: Cecil AM, Copenhagen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ HEX ELECTRONIX is a techno and house artist based in Denmark, with 33 gigs on so
 
 Adexia, dragongirl, Debbie Sings
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hexelectronix/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hexelectronix/)*

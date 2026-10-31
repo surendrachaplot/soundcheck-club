@@ -1,6 +1,6 @@
 # JPYE
 
-JPYE is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Pop-Up du Label, Paris on Sat, 14 Nov 2026.
+JPYE is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Le Pop-Up du Label, Paris on Sat, 14 Nov 2026.
 
 JPYE is a disco and house artist based in France, with 22 gigs on soundcheck across Paris. Often billed alongside Yaël Ohayon, Alex From Tokyo and Danny Fortunato. Next up: Le Pop-Up du Label, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ JPYE is a disco and house artist based in France, with 22 gigs on soundcheck acr
 
 Yaël Ohayon, Alex From Tokyo, Danny Fortunato
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpye/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jpye/)*

@@ -1,6 +1,6 @@
 # Drea
 
-Drea is a Hip-Hop and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Magazine London, London on Sat, 31 Oct 2026.
+Drea is a Hip-Hop and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Magazine London, London on Sat, 31 Oct 2026.
 
 Drea is a hip-hop and deep house artist based in Switzerland, with 30 gigs on soundcheck across Amsterdam, Barcelona, Geneva and London and 2 more. Often billed alongside Dirti Larita, CRKS290 and Umami. Next up: Magazine London, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Drea is a hip-hop and deep house artist based in Switzerland, with 30 gigs on so
 
 Dirti Larita, CRKS290, Umami
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drea/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drea/)*

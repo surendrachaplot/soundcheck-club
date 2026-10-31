@@ -1,6 +1,6 @@
 # NANA (3)
 
-NANA (3) is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at AUX Club, Athens on Sat, 14 Nov 2026.
+NANA (3) is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at AUX Club, Athens on Sat, 14 Nov 2026.
 
 NANA is a hip-hop and techno artist based in Greece, with 24 gigs on soundcheck across Athens, Guadalajara, Madrid and Seoul and 1 more. Often billed alongside SALIN, Nivk Jane and Até.. Next up: AUX Club, Athens on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ NANA is a hip-hop and techno artist based in Greece, with 24 gigs on soundcheck 
 
 SALIN, Nivk Jane, Até.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana-3/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nana-3/)*

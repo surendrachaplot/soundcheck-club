@@ -1,6 +1,6 @@
 # CASSIMM
 
-CASSIMM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
+CASSIMM is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
 
 CASSIMM is a house and tech house artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 18 more. Often billed alongside Claptone, Mark Knight and Martin Ikin. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ CASSIMM is a house and tech house artist based in United Kingdom, with 54 gigs o
 
 Claptone, Mark Knight, Martin Ikin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cassimm/)*

@@ -1,6 +1,6 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BASH" on Sat, 31 Oct 2026.
+Electrowerkz is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BASH" on Sat, 31 Oct 2026.
 
 Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AUKA, AyChibs, Bethan and Brother of Set and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
@@ -22,4 +22,4 @@ Electrowerkz is a music venue in London listed on soundcheck. 9 upcoming gigs, w
 
 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electrowerkz/)*

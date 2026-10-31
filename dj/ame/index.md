@@ -1,6 +1,6 @@
 # Âme
 
-Âme is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Âme is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Âme is a techno and house artist based in Germany, with 403 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -23,17 +23,17 @@
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 30 Oct 2026
+- Fünk, Mexico City · Fri, 30 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - Silencio, Paris · Sat, 24 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 23 Oct 2026
 - Studio Club Malaga, Malaga · Sat, 17 Oct 2026
 - The Garage, Madrid · Sun, 11 Oct 2026
 - The Bassement, Madrid · Sun, 11 Oct 2026
-- Pandora Sevilla, South · Sat, 10 Oct 2026
-- Audio Club, Geneva · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

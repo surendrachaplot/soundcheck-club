@@ -1,6 +1,6 @@
 # Sardafi
 
-Sardafi is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "PORTALL REUNION" on Sat, 7 Nov 2026.
+Sardafi is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "PORTALL REUNION" on Sat, 7 Nov 2026.
 
 Sardafi is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including Kӣr, KXAH, MAX DURANTE and Sander. See dates, start times and who's playing. DEDAENA PARK.
 
@@ -15,4 +15,4 @@ Sardafi is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with 
 
 DEDAENA PARK, Tbilisi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/sardafi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/sardafi/)*

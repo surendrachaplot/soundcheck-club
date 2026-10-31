@@ -1,6 +1,6 @@
 # anna(n)
 
-anna(n) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Coil, Melbourne on Sat, 31 Oct 2026.
+anna(n) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Coil, Melbourne on Sat, 31 Oct 2026.
 
 anna(n) is a techno and house artist based in Sweden, with 28 gigs on soundcheck across Melbourne. Often billed alongside Charlotte Rooney, Hasvat Informant and ADMINISTRATOR. Next up: Coil, Melbourne on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ anna(n) is a techno and house artist based in Sweden, with 28 gigs on soundcheck
 
 Charlotte Rooney, Hasvat Informant, ADMINISTRATOR
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annan/)*

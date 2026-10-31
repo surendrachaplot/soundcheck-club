@@ -1,6 +1,6 @@
 # Palmistry
 
-Palmistry is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Old Church, London on Thu, 12 Nov 2026.
+Palmistry is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Old Church, London on Thu, 12 Nov 2026.
 
 Palmistry is an experimental and club artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 11 more. Often billed alongside Blood of Aza, Kamixlo and bod [包家巷]. Next up: The Old Church, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Palmistry is an experimental and club artist based in United Kingdom, with 37 gi
 
 Blood of Aza, Kamixlo, bod [包家巷]
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palmistry/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/palmistry/)*

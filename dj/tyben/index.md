@@ -1,6 +1,6 @@
 # tyben
 
-tyben is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Green Room NYC, New York City on Fri, 6 Nov 2026.
+tyben is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Green Room NYC, New York City on Fri, 6 Nov 2026.
 
 tyben is a house and techno artist based in United States of America, with 29 gigs on soundcheck across New York City. Often billed alongside okDUNC, S A M I and Manimogo. Next up: Green Room NYC, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ tyben is a house and techno artist based in United States of America, with 29 gi
 
 okDUNC, S A M I, Manimogo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyben/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyben/)*

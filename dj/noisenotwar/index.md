@@ -1,14 +1,13 @@
 # Noise Not War
 
-Noise Not War is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
+Noise Not War is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Studio Orfei, Sofia on Sat, 31 Oct 2026.
 
-Noise Not War is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bochum and 21 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
+Noise Not War is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bochum and 21 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: TBA - Studio Orfei, Sofia on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Airport Würzburg | Nürnberg |
 | Sat, 31 Oct 2026 | TBA - Studio Orfei | Sofia |
 | Fri, 6 Nov 2026 | Edelfettwerk | Hamburg |
 | Sat, 7 Nov 2026 | objekt klein a | Dresden |
@@ -18,6 +17,7 @@ Noise Not War is a techno and trance artist based in Germany, with 62 gigs on so
 
 ## Recently played
 
+- Airport Würzburg, Nürnberg · Fri, 30 Oct 2026
 - Hype Park, Krakow · Sat, 24 Oct 2026
 - Rotunde, Bochum · Sat, 10 Oct 2026
 - Roof 175, Frankfurt · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ Noise Not War is a techno and trance artist based in Germany, with 62 gigs on so
 - Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
 - Delta Gelände, Dortmund / Essen · Fri, 21 Aug 2026
 - Mobilat Club, Stuttgart · Sat, 15 Aug 2026
-- OST, Berlin · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 Death of Mars, Filialleiter, SIKXTO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*

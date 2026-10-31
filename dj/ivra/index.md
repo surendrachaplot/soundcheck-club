@@ -1,6 +1,6 @@
 # IVRA
 
-IVRA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Samis Bar, Athens on Wed, 4 Nov 2026.
+IVRA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Samis Bar, Athens on Wed, 4 Nov 2026.
 
 IVRA is a techno and house artist based in Algeria, with 16 gigs on soundcheck across Athens, Berlin and Helsinki. Often billed alongside NAAMAA, AMH and EMPERØR. Next up: Samis Bar, Athens on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ IVRA is a techno and house artist based in Algeria, with 16 gigs on soundcheck a
 
 NAAMAA, AMH (1), EMPERØR
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivra/)*

@@ -1,6 +1,6 @@
 # N-Type
 
-N-Type is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Village Underground, London on Sat, 12 Dec 2026.
+N-Type is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Village Underground, London on Sat, 12 Dec 2026.
 
 N-Type is a dubstep and bass artist based in United Kingdom, with 33 gigs on soundcheck across Barcelona, Berlin, Bristol and Denver and 10 more. Often billed alongside SGT Pokes, MINTY and DFUSE. Next up: Village Underground, London on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ N-Type is a dubstep and bass artist based in United Kingdom, with 33 gigs on sou
 
 SGT Pokes, MINTY, DFUSE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ntype/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ntype/)*

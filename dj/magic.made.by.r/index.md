@@ -1,6 +1,6 @@
 # magic.made.by.r
 
-magic.made.by.r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+magic.made.by.r is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 magic.made.by.r is a house and techno artist based in Ukraine, with 23 gigs on soundcheck across Berlin, Hamburg and Warsaw. Often billed alongside Manu Strasse, Adron_ and Hagel. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ magic.made.by.r is a house and techno artist based in Ukraine, with 23 gigs on s
 
 Manu Strasse, Adron_, Hagel
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magic.made.by.r/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/magic.made.by.r/)*

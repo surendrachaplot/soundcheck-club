@@ -1,6 +1,6 @@
 # The Stud
 
-The Stud is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FAKE and GAY x Dark Entries: GLAMNESIA 2000 with Sweet Pussy Pauline + Vivacious" on Sat, 31 Oct 2026.
+The Stud is a music venue in San Francisco/Oakland with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "FAKE and GAY x Dark Entries: GLAMNESIA 2000 with Sweet Pussy Pauline + Vivacious" on Sat, 31 Oct 2026.
 
 The Stud is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcoming gigs, with line-ups including BEYA, Chris Cruse, felipe d and Infinite Jess and 2 more. See dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
 
@@ -18,4 +18,4 @@ The Stud is a music venue in San Francisco/Oakland listed on soundcheck. 5 upcom
 
 1123 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-stud/)*

@@ -1,6 +1,6 @@
 # Boogaloo Steve
 
-Boogaloo Steve is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Celeste, Vienna on Sun, 24 Jan 2027.
+Boogaloo Steve is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Celeste, Vienna on Sun, 24 Jan 2027.
 
 Boogaloo Steve is an electronica and house artist based in Austria, with 15 gigs on soundcheck across Porto and Vienna. Often billed alongside Mister Teaser, Flying Horstman and Alexandra Marr. Next up: Celeste, Vienna on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Boogaloo Steve is an electronica and house artist based in Austria, with 15 gigs
 
 Mister Teaser, Flying Horstman, Alexandra Marr
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogaloosteve/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boogaloosteve/)*

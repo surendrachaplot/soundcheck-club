@@ -1,6 +1,6 @@
 # Leopold
 
-Leopold is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
+Leopold is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
 
 Leopold is a house and disco artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London and 2 more. Often billed alongside Davide Del Vecchio, effgee and Giles Smith. Next up: Leysin Ski Resort, Switzerland on Mon 15 Mar.
 
@@ -25,4 +25,4 @@ Leopold is a house and disco artist based in United Kingdom, with 23 gigs on sou
 
 Davide Del Vecchio, effgee, Giles Smith
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leopold-uk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leopold-uk/)*

@@ -1,6 +1,6 @@
 # LNS
 
-LNS is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Circolo Amelia, Milan on Sat, 28 Nov 2026.
+LNS is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Circolo Amelia, Milan on Sat, 28 Nov 2026.
 
 LNS is an electro and techno artist based in Canada, with 52 gigs on soundcheck across Amsterdam, Bergen, Berlin and Detroit and 10 more. Often billed alongside DJ Sotofett, IMOGEN and Function. Next up: Circolo Amelia, Milan on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ LNS is an electro and techno artist based in Canada, with 52 gigs on soundcheck 
 
 DJ Sotofett, IMOGEN, Function
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lns/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lns/)*

@@ -1,6 +1,6 @@
 # VICKY
 
-VICKY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Fin Taipei, Taipei on Sat, 7 Nov 2026.
+VICKY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Fin Taipei, Taipei on Sat, 7 Nov 2026.
 
 VICKY is a techno and trance artist based in Taiwan, with 22 gigs on soundcheck across Berlin, Florence, Hannover and Ibiza and 3 more. Often billed alongside Deltapeak, ASTAT and AK SPORTS. Next up: La Fin Taipei, Taipei on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ VICKY is a techno and trance artist based in Taiwan, with 22 gigs on soundcheck 
 
 Deltapeak, ASTAT, AK SPORTS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vicky/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vicky/)*

@@ -1,6 +1,6 @@
 # haloplus+
 
-haloplus+ is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Arci Bellezza, Milan on Tue, 15 Dec 2026.
+haloplus+ is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Arci Bellezza, Milan on Tue, 15 Dec 2026.
 
 haloplus+ is an experimental and club artist based in Denmark, with 14 gigs on soundcheck across Copenhagen, Milan and Paris. Often billed alongside Atusa, A Good Year and Deb Foam. Next up: Arci Bellezza, Milan on Tue 15 Dec.
 
@@ -25,4 +25,4 @@ haloplus+ is an experimental and club artist based in Denmark, with 14 gigs on s
 
 Atusa, A Good Year, Deb Foam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haloplus/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haloplus/)*

@@ -1,14 +1,13 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at FORGE, Sheffield on Fri, 30 Oct 2026.
+Dr Banana is a House and Garage artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 31 Oct 2026.
 
-Dr Banana is a house and garage artist based in United Kingdom, with 270 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belfast and 51 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: FORGE, Sheffield on Fri 30 Oct.
+Dr Banana is a house and garage artist based in United Kingdom, with 270 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belfast and 51 more. Often billed alongside Laidlaw, Melody RA+RE and The Ghost. Next up: NX Newcastle, Newcastle on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | FORGE | Sheffield |
 | Sat, 31 Oct 2026 | NX Newcastle | Newcastle |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Sat, 31 Oct 2026 | NOWHERE | Manchester |
@@ -20,9 +19,11 @@ Dr Banana is a house and garage artist based in United Kingdom, with 270 gigs on
 | Sat, 28 Nov 2026 | fi | Cologne |
 | Fri, 11 Dec 2026 | Fidelity Studio | Dublin |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Thu, 31 Dec 2026 | E1 | London |
 
 ## Recently played
 
+- FORGE, Sheffield · Fri, 30 Oct 2026
 - TILLATEC, Amsterdam · Mon, 26 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Bassiani, Tbilisi · Fri, 9 Oct 2026
@@ -30,10 +31,9 @@ Dr Banana is a house and garage artist based in United Kingdom, with 270 gigs on
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - UNO MALTA, Malta · Thu, 17 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
-- TBA - KENT COUNTY SHOWGROUND, London · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Laidlaw, Melody RA+RE, The Ghost
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drbanana/)*

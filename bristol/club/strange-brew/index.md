@@ -1,14 +1,13 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Dreamland with Peach + TBH" on Fri, 30 Oct 2026.
+Strange Brew is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "PTS Halloween ϟ Pearson Sound, Shannen SP " on Sat, 31 Oct 2026.
 
-Strange Brew is a music venue in Bristol listed on soundcheck. 10 upcoming gigs, with line-ups including Berwick, BLUMITSU, Chez de Milo and fig and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
+Strange Brew is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including Berwick, BLUMITSU, Chez de Milo and fig and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Dreamland with Peach + TBH | Peach, tbh (2) |
 | Sat, 31 Oct 2026 | PTS Halloween ϟ Pearson Sound, Shannen SP  | Pearson Sound, Shannen SP, fig (4), iced lattina |
 | Fri, 6 Nov 2026 | StepTwice presents: BLUMITSU | BLUMITSU, Berwick, YSL (Young Saucy Lovers) |
 | Fri, 13 Nov 2026 | Strange Brew Presents SHERELLE | SHERELLE |
@@ -23,4 +22,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 10 upcoming gigs,
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

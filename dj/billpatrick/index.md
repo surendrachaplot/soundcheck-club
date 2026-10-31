@@ -1,6 +1,6 @@
 # Bill Patrick
 
-Bill Patrick is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Bill Patrick is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
 
 Bill Patrick is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Chicago, Dubai, Ibiza and London and 6 more. Often billed alongside Seth Troxler, Greg Paulus and Maher Daniel. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Bill Patrick is a house and techno artist based in United States of America, wit
 
 Seth Troxler, Greg Paulus, Maher Daniel
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billpatrick/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/billpatrick/)*

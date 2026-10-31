@@ -1,6 +1,6 @@
 # BECCA SORANA
 
-BECCA SORANA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Dr. Dou Social Club, Barcelona on Thu, 5 Nov 2026.
+BECCA SORANA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Dr. Dou Social Club, Barcelona on Thu, 5 Nov 2026.
 
 BECCA SORANA is a techno and house artist based in Brazil, with 31 gigs on soundcheck across Barcelona, Berlin and Milan. Often billed alongside ATMEN, Blonde Brunette and Alex Pott. Next up: Dr. Dou Social Club, Barcelona on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ BECCA SORANA is a techno and house artist based in Brazil, with 31 gigs on sound
 
 ATMEN, Blonde Brunette, Alex Pott
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beccasorana/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beccasorana/)*

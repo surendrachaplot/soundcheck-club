@@ -1,6 +1,6 @@
 # Lutsu
 
-Lutsu is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Fox and Firkin, London on Thu, 31 Dec 2026.
+Lutsu is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Fox and Firkin, London on Thu, 31 Dec 2026.
 
 Lutsu is a bass and garage artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside J V N, JESSI and Knegativ. Next up: The Fox and Firkin, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lutsu is a bass and garage artist based in United Kingdom, with 21 gigs on sound
 
 J V N, JESSI, Knegativ
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lutsu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lutsu/)*

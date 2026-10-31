@@ -1,6 +1,6 @@
 # thomyorko
 
-thomyorko is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Cellar, London on Sat, 31 Oct 2026.
+thomyorko is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Cellar, London on Sat, 31 Oct 2026.
 
 thomyorko is a techno and acid artist based in Japan, with 22 gigs on soundcheck across London, Osaka and Tokyo. Often billed alongside DJ Himitsu, Keisuke Wada and Sho Komatsu. Next up: Cellar, London on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ thomyorko is a techno and acid artist based in Japan, with 22 gigs on soundcheck
 
 DJ Himitsu, Keisuke Wada, Sho Komatsu
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomyorko/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thomyorko/)*

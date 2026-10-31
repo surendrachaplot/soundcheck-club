@@ -1,6 +1,6 @@
 # menicx
 
-menicx is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
+menicx is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sensorium, Berlin on Wed, 25 Nov 2026.
 
 menicx is a techno and tech house artist based in United States of America, with 9 gigs on soundcheck across Berlin, Los Angeles, Orange County and San Diego. Often billed alongside Jovella, Lady Afrodisiac and NYCTO. Next up: Sensorium, Berlin on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ menicx is a techno and tech house artist based in United States of America, with
 
 Jovella, Lady Afrodisiac, NYCTO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menicx/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/menicx/)*

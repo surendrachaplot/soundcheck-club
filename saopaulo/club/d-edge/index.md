@@ -1,6 +1,6 @@
 # D-EDGE
 
-D-EDGE is a music venue in Sao Paulo with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "FREAK CHIC D-EDGE SP pres.: P1: GOES. Halfcab. STERIUM. Viot" on Fri, 30 Oct 2026.
+D-EDGE is a music venue in Sao Paulo with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "FREAK CHIC D-EDGE SP pres.: P1: GOES. Halfcab. STERIUM. Viot" on Fri, 30 Oct 2026.
 
 D-EDGE is a music venue in Sao Paulo listed on soundcheck. 2 upcoming gigs, with line-ups including Carla Elektra, Halfcab, Paola Vigorito and Viot. See dates, start times and who's playing. Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil.
 
@@ -15,4 +15,4 @@ D-EDGE is a music venue in Sao Paulo listed on soundcheck. 2 upcoming gigs, with
 
 Av. Auro Soares de Moura Andrade, 141. 01155-040 São Paulo , Brazil, Sao Paulo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/d-edge/)*

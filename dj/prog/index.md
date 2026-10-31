@@ -1,6 +1,6 @@
 # PRO G
 
-PRO G is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TAG Culture Rome, Rome on Sat, 31 Oct 2026.
+PRO G is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TAG Culture Rome, Rome on Sat, 31 Oct 2026.
 
 PRO G is a trance and techno artist, with 13 gigs on soundcheck across Bangkok, Naples and Rome. Often billed alongside GIANO, 00100 and SP3RISH. Next up: TAG Culture Rome, Rome on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ PRO G is a trance and techno artist, with 13 gigs on soundcheck across Bangkok, 
 
 GIANO (2), 00100, SP3RISH
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prog/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prog/)*

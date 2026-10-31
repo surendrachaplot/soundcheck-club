@@ -1,6 +1,6 @@
 # Cheech
 
-Cheech is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jbj's, Nashville on Wed, 4 Nov 2026.
+Cheech is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jbj's, Nashville on Wed, 4 Nov 2026.
 
 Cheech is a techno and house artist based in Malta, with 15 gigs on soundcheck across Berlin, Bordeaux, Malta and Montreal and 1 more. Often billed alongside Georg MT, Patient (MT) and Andrew Pololos. Next up: Jbj's, Nashville on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Cheech is a techno and house artist based in Malta, with 15 gigs on soundcheck a
 
 Georg MT, Patient (MT), Andrew Pololos
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheech/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheech/)*

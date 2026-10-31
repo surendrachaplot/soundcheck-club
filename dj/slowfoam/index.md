@@ -1,6 +1,6 @@
 # Slowfoam
 
-Slowfoam is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Slowfoam is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Slowfoam is an experimental and club artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 6 more. Often billed alongside Conna Haraway, slyn and Avsluta. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ Slowfoam is an experimental and club artist based in United States of America, w
 
 Conna Haraway, slyn, Avsluta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slowfoam/)*

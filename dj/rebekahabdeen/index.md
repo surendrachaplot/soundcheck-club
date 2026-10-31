@@ -1,6 +1,6 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Rebekah Abdeen is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
 Rebekah Abdeen is a bass and techno artist based in United Kingdom, with 64 gigs on soundcheck across Basel, Berlin, Brighton and Byron Bay and 12 more. Often billed alongside Denham Audio, Trudy Knight and Triple Point. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Rebekah Abdeen is a bass and techno artist based in United Kingdom, with 64 gigs
 
 Denham Audio, Trudy Knight, Triple Point
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*

@@ -1,6 +1,6 @@
 # B.Love
 
-B.Love is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
+B.Love is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
 
 B.Love is a house and tech house artist based in United Kingdom, with 96 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 18 more. Often billed alongside Jhobei, Felon5 and Oliver.r. Next up: fabric, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ B.Love is a house and tech house artist based in United Kingdom, with 96 gigs on
 
 Jhobei, Felon5, Oliver.r
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-love/)*

@@ -1,6 +1,6 @@
 # Osterinsel
 
-Osterinsel is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sameheads, Berlin on Sat, 21 Nov 2026.
+Osterinsel is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sameheads, Berlin on Sat, 21 Nov 2026.
 
 Osterinsel is a balearic and disco artist based in Germany, with 9 gigs on soundcheck across Berlin and Vienna. Often billed alongside Alexander Arpeggio, Albion Venables and GAZZA. Next up: Sameheads, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Osterinsel is a balearic and disco artist based in Germany, with 9 gigs on sound
 
 Alexander Arpeggio, Albion Venables, GAZZA (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osterinsel/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/osterinsel/)*

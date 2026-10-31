@@ -1,6 +1,6 @@
 # Hangr
 
-Hangr is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "KARGO 5th Birthday" on Sat, 14 Nov 2026.
+Hangr is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "KARGO 5th Birthday" on Sat, 14 Nov 2026.
 
 Hangr is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including CJ Mackintosh, Groove Assassin, RAWKORED and Redemption. See dates, start times and who's playing. Unit 19, Kingfisher Works, Bardwell Road, Neepsend, Sheffield, S3 8AS.
 
@@ -15,4 +15,4 @@ Hangr is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with 
 
 Unit 19, Kingfisher Works, Bardwell Road, Neepsend, Sheffield, S3 8AS, Sheffield
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hangr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/hangr/)*

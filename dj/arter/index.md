@@ -1,18 +1,18 @@
 # Arter
 
-Arter is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Amigo, Ghent on Fri, 30 Oct 2026.
+Arter is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Antwerp Expo, Antwerp on Fri, 13 Nov 2026.
 
-Arter is a house and garage artist based in Belgium, with 47 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside DC Noises, BAVR and Prinsezy. Next up: Amigo, Ghent on Fri 30 Oct.
+Arter is a house and garage artist based in Belgium, with 47 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside DC Noises, BAVR and Prinsezy. Next up: Antwerp Expo, Antwerp on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Amigo | Ghent |
 | Fri, 13 Nov 2026 | Antwerp Expo | Antwerp |
 
 ## Recently played
 
+- Amigo, Ghent · Fri, 30 Oct 2026
 - TRAUM, Antwerp · Fri, 2 Oct 2026
 - Konijnenwei, Antwerp · Sat, 29 Aug 2026
 - Fuse, Brussels · Sat, 22 Aug 2026
@@ -20,10 +20,9 @@ Arter is a house and garage artist based in Belgium, with 47 gigs on soundcheck 
 - TBA - Justitiepaleis Antwerpen, Antwerp · Sat, 4 Jul 2026
 - TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
 - Port of Brussels, Brussels · Fri, 1 May 2026
-- Antwerp Expo, Antwerp · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 DC Noises, BAVR, Prinsezy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arter/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arter/)*

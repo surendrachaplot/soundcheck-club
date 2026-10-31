@@ -1,18 +1,18 @@
 # Luigi Madonna
 
-Luigi Madonna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at P61 Gallery, Berlin on Fri, 30 Oct 2026.
+Luigi Madonna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
-Luigi Madonna is a techno and house artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Indira Paganotto, Joseph Capriati and Markantonio. Next up: P61 Gallery, Berlin on Fri 30 Oct.
+Luigi Madonna is a techno and house artist based in Italy, with 70 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 28 more. Often billed alongside Indira Paganotto, Joseph Capriati and Markantonio. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | P61 Gallery | Berlin |
 | Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- P61 Gallery, Berlin · Fri, 30 Oct 2026
 - The Bulldog Palace, Amsterdam · Fri, 23 Oct 2026
 - TBA, Amsterdam · Thu, 22 Oct 2026
 - TILLATEC, Amsterdam · Sat, 26 Sept 2026
@@ -20,10 +20,9 @@ Luigi Madonna is a techno and house artist based in Italy, with 70 gigs on sound
 - Stereo, Montreal · Fri, 28 Aug 2026
 - TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver · Sat, 22 Aug 2026
 - Amnesia Ibiza, Ibiza · Tue, 28 Jul 2026
-- TBA - RSVP, Rotterdam · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Indira Paganotto, Joseph Capriati, Markantonio
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigimadonna/)*

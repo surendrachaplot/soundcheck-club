@@ -1,6 +1,6 @@
 # Rat Galactic
 
-Rat Galactic is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Mad Chiller World, Tampa Bay on Sat, 21 Nov 2026.
+Rat Galactic is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mad Chiller World, Tampa Bay on Sat, 21 Nov 2026.
 
 Rat Galactic is an acid and house artist, with 50 gigs on soundcheck across Tampa Bay. Often billed alongside Brian Busto, Christian Parchuke and Austen van der Bleek. Next up: Mad Chiller World, Tampa Bay on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rat Galactic is an acid and house artist, with 50 gigs on soundcheck across Tamp
 
 Brian Busto, Christian Parchuke, Austen van der Bleek
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratgalactic/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ratgalactic/)*

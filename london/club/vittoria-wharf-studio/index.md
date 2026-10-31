@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 14 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May" on Sat, 31 Oct 2026.
+Vittoria Wharf Studio is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May" on Sat, 31 Oct 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Alien Communications, Andrew Robertson, Basement Maxx and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -23,4 +23,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 14 upcomi
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

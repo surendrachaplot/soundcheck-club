@@ -1,6 +1,6 @@
 # Monoky (2)
 
-Monoky (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Monoky (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Monoky is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across Miami and Orlando. Often billed alongside ChaseWest, Franky Rizardo and Inbal. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Monoky is a house and tech house artist based in United States of America, with 
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 30 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Floyd, Miami · Sat, 10 Oct 2026
 - Hollywood Live, Miami · Wed, 23 Sept 2026
@@ -24,4 +25,4 @@ Monoky is a house and tech house artist based in United States of America, with 
 
 ChaseWest, Franky Rizardo, Inbal
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*

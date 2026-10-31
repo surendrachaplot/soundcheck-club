@@ -1,6 +1,6 @@
 # Art Cuebik
 
-Art Cuebik is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Upstairs at the 700, Philadelphia on Fri, 6 Nov 2026.
+Art Cuebik is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Upstairs at the 700, Philadelphia on Fri, 6 Nov 2026.
 
 Art Cuebik is a drum & bass and jungle artist based in United States of America, with 22 gigs on soundcheck across Philadelphia. Often billed alongside Joey Breakdown, Armen and Mis-Ty. Next up: Upstairs at the 700, Philadelphia on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Art Cuebik is a drum & bass and jungle artist based in United States of America,
 
 Joey Breakdown, Armen, Mis-Ty
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artcuebik/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/artcuebik/)*

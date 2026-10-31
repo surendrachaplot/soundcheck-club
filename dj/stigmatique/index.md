@@ -1,6 +1,6 @@
 # Stigmatique
 
-Stigmatique is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Odonien, Cologne on Sat, 28 Nov 2026.
+Stigmatique is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Odonien, Cologne on Sat, 28 Nov 2026.
 
 Stigmatique is a techno and house artist based in Germany, with 60 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Dresden and 10 more. Often billed alongside JANEIN, Shaleen and Anna Hjalmarsson. Next up: Odonien, Cologne on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Stigmatique is a techno and house artist based in Germany, with 60 gigs on sound
 
 JANEIN, Shaleen, Anna Hjalmarsson
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stigmatique/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stigmatique/)*

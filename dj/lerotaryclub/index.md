@@ -1,18 +1,18 @@
 # Le Rotary Club
 
-Le Rotary Club is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bar Datcha, Montreal on Fri, 30 Oct 2026.
+Le Rotary Club is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Système, Montreal on Sat, 14 Nov 2026.
 
-Le Rotary Club is a house and disco artist, with 23 gigs on soundcheck across Montreal, Paris and Toronto. Often billed alongside Groovy Castle, yourgalal and Barbara Boeing. Next up: Bar Datcha, Montreal on Fri 30 Oct.
+Le Rotary Club is a house and disco artist, with 23 gigs on soundcheck across Montreal, Paris and Toronto. Often billed alongside Groovy Castle, yourgalal and Barbara Boeing. Next up: Système, Montreal on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Bar Datcha | Montreal |
 | Sat, 14 Nov 2026 | Système | Montreal |
 
 ## Recently played
 
+- Bar Datcha, Montreal · Fri, 30 Oct 2026
 - Bar Datcha, Montreal · Fri, 11 Sept 2026
 - Système, Montreal · Fri, 7 Aug 2026
 - Bar Datcha, Montreal · Fri, 26 Jun 2026
@@ -20,10 +20,9 @@ Le Rotary Club is a house and disco artist, with 23 gigs on soundcheck across Mo
 - Système, Montreal · Fri, 17 Apr 2026
 - Bar Datcha, Montreal · Sat, 28 Mar 2026
 - Société des arts technologiques, Montreal · Sat, 28 Feb 2026
-- Bar Datcha, Montreal · Fri, 30 Jan 2026
 
 ## Shares bills with
 
 Groovy Castle, yourgalal, Barbara Boeing
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerotaryclub/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lerotaryclub/)*

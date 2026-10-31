@@ -1,6 +1,6 @@
 # jewelry
 
-jewelry is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
+jewelry is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
 
 jewelry is a house and techno artist, with 47 gigs on soundcheck across Berlin, Brussels, Dresden and Frankfurt and 3 more. Often billed alongside Miss Take, SAM and Hannie Phi. Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ jewelry is a house and techno artist, with 47 gigs on soundcheck across Berlin, 
 
 Miss Take, SAM (9), Hannie Phi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelry/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jewelry/)*

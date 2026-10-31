@@ -1,6 +1,6 @@
 # &friends
 
-&friends is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Nuit, Paris on Fri, 20 Nov 2026.
+&friends is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Nuit, Paris on Fri, 20 Nov 2026.
 
 &friends is an afro house and house artist based in United States of America, with 8 gigs on soundcheck across Barcelona, London, Los Angeles and Miami and 4 more. Often billed alongside OSCAAR, Above & Beyond and Apache. Next up: La Nuit, Paris on Fri 20 Nov.
 
@@ -24,4 +24,4 @@
 
 OSCAAR, Above & Beyond, Apache
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andfriends/)*

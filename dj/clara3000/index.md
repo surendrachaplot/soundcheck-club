@@ -1,6 +1,6 @@
 # Clara 3000
 
-Clara 3000 is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Clara 3000 is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Clara 3000 is a techno and pop artist, with 13 gigs on soundcheck across Antwerp, Berlin, Ibiza and Madrid and 4 more. Often billed alongside Miqui Brightside, Richie Hawtin and Ti Es. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Clara 3000 is a techno and pop artist, with 13 gigs on soundcheck across Antwerp
 
 Miqui Brightside, Richie Hawtin, Ti Es
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clara3000/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clara3000/)*

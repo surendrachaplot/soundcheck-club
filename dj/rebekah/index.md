@@ -1,6 +1,6 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Complejo Embrujo, South on Sat, 31 Oct 2026.
+Rebekah is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Complejo Embrujo, South on Sat, 31 Oct 2026.
 
 Rebekah is a techno and hardcore artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 75 more. Often billed alongside DYEN, Kobosil and SNTS. Next up: Complejo Embrujo, South on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ Rebekah is a techno and hardcore artist based in United Kingdom, with 189 gigs o
 
 DYEN, Kobosil, SNTS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

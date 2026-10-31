@@ -1,6 +1,6 @@
 # Cataclisma
 
-Cataclisma is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
+Cataclisma is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Nest at St. Pete Brewing Co., Tampa Bay on Sat, 14 Nov 2026.
 
 Cataclisma is a house and garage artist based in United States of America, with 12 gigs on soundcheck across Orlando and Tampa Bay. Often billed alongside Sknls, Ant. (US) and Kappauccino.G. Next up: The Nest at St. Pete Brewing Co., Tampa Bay on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Cataclisma is a house and garage artist based in United States of America, with 
 
 Sknls, Ant. (US), Kappauccino.G
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cataclisma/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cataclisma/)*

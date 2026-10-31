@@ -1,6 +1,6 @@
 # Gonçalo Afonso
 
-Gonçalo Afonso is a Afrobeat and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lux Fragil, Lisbon on Thu, 5 Nov 2026.
+Gonçalo Afonso is a Afrobeat and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lux Fragil, Lisbon on Thu, 5 Nov 2026.
 
 Gonçalo Afonso is an afrobeat and club artist, with 10 gigs on soundcheck across Lisbon. Often billed alongside Cherry Knot, Sinnotsin and Chungadaddy. Next up: Lux Fragil, Lisbon on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Gonçalo Afonso is an afrobeat and club artist, with 10 gigs on soundcheck acros
 
 Cherry Knot, Sinnotsin, Chungadaddy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonçaloafonso/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gonçaloafonso/)*

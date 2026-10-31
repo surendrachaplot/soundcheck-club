@@ -1,6 +1,6 @@
 # Sergio LLamas
 
-Sergio LLamas is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sat, 31 Oct 2026.
+Sergio LLamas is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sat, 31 Oct 2026.
 
 Sergio LLamas is a deep house and house artist based in Spain, with 53 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside VITALI, Violeta Reynal and Bill Hates. Next up: Azul Rooftop Barceloneta, Barcelona on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sergio LLamas is a deep house and house artist based in Spain, with 53 gigs on s
 
 VITALI (1), Violeta Reynal, Bill Hates
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sergiollamas/)*

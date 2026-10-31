@@ -1,6 +1,6 @@
 # Ali Rajat
 
-Ali Rajat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+Ali Rajat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
 
 Ali Rajat is a house and techno artist based in Bangladesh, with 12 gigs on soundcheck across Berlin. Often billed alongside IRAD, Upzet and Dino S. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ali Rajat is a house and techno artist based in Bangladesh, with 12 gigs on soun
 
 IRAD, Upzet, Dino S
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alirajat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alirajat/)*

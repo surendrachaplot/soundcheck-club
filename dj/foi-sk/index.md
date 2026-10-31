@@ -1,6 +1,6 @@
 # FOI (SK)
 
-FOI (SK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
+FOI (SK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Gatosano Da Nang, Vietnam on Fri, 30 Oct 2026.
 
 FOI (SK) is a house and techno artist based in South Korea, with 73 gigs on soundcheck across Seoul and Vietnam. Often billed alongside givogi, Jimin and Nolove. Next up: Gatosano Da Nang, Vietnam on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ FOI (SK) is a house and techno artist based in South Korea, with 73 gigs on soun
 
 ## Recently played
 
+- Gatosano Da Nang, Vietnam · Fri, 30 Oct 2026
 - Paper, Seoul · Sun, 25 Oct 2026
 - Nué Seoul, Seoul · Sat, 24 Oct 2026
 - Stoked&stoned, Seoul · Mon, 19 Oct 2026
@@ -19,10 +20,9 @@ FOI (SK) is a house and techno artist based in South Korea, with 73 gigs on soun
 - Graphic Hangang, Seoul · Fri, 9 Oct 2026
 - Paper, Seoul · Sat, 26 Sept 2026
 - Nyapi, Seoul · Thu, 17 Sept 2026
-- Nyapi, Seoul · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 givogi, Jimin, Nolove
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foi-sk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/foi-sk/)*

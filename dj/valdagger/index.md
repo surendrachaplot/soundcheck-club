@@ -1,19 +1,19 @@
 # Valdagger
 
-Valdagger is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kongresai, Vilnius on Fri, 30 Oct 2026.
+Valdagger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
 
-Valdagger is a techno and house artist, with 62 gigs on soundcheck across Berlin, Krakow, Paris and Riga and 3 more. Often billed alongside Mirror Slave, Phase Line and Mario Moretti. Next up: Kongresai, Vilnius on Fri 30 Oct.
+Valdagger is a techno and house artist based in Lithuania, with 62 gigs on soundcheck across Berlin, Krakow, Paris and Riga and 3 more. Often billed alongside Mirror Slave, Phase Line and Mario Moretti. Next up: Elastica, Vilnius on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Kongresai | Vilnius |
 | Thu, 12 Nov 2026 | Elastica | Vilnius |
 | Fri, 20 Nov 2026 | gallery 1986 | Vilnius |
 
 ## Recently played
 
+- Kongresai, Vilnius · Fri, 30 Oct 2026
 - Elastica, Vilnius · Fri, 23 Oct 2026
 - Hall, Tallinn · Fri, 18 Sept 2026
 - Opium Club, Vilnius · Fri, 11 Sept 2026
@@ -21,10 +21,9 @@ Valdagger is a techno and house artist, with 62 gigs on soundcheck across Berlin
 - Litexpo, Vilnius · Sat, 2 May 2026
 - Elastica, Vilnius · Fri, 24 Apr 2026
 - Elastica, Vilnius · Fri, 10 Apr 2026
-- Šiuolaikinio Meno Centras / Contemporary Art Centre, Vilnius · Fri, 27 Mar 2026
 
 ## Shares bills with
 
 Mirror Slave, Phase Line, Mario Moretti
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valdagger/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valdagger/)*

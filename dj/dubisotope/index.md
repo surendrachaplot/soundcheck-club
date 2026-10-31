@@ -1,6 +1,6 @@
 # Dub Isotope
 
-Dub Isotope is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
+Dub Isotope is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
 
 Dub Isotope is a bass and drum & bass artist based in Germany, with 54 gigs on soundcheck across Berlin. Often billed alongside Migz, Upzet and Hovercat. Next up: Void Hall, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dub Isotope is a bass and drum & bass artist based in Germany, with 54 gigs on s
 
 Migz, Upzet, Hovercat
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubisotope/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dubisotope/)*

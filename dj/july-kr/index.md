@@ -1,6 +1,6 @@
 # July.
 
-July. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Seoul Community Radio, Seoul on Sun, 8 Nov 2026.
+July. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Seoul Community Radio, Seoul on Sun, 8 Nov 2026.
 
 July. is a house and techno artist based in South Korea, with 33 gigs on soundcheck across Bangkok, Seoul and Tokyo. Often billed alongside Bolm, Cosmo (KR) and Youknowsong. Next up: Seoul Community Radio, Seoul on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ July. is a house and techno artist based in South Korea, with 33 gigs on soundch
 
 Bolm, Cosmo (KR), Youknowsong
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/july-kr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/july-kr/)*

@@ -1,6 +1,6 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kindergarten Club, Bologna on Sat, 31 Oct 2026.
+DOCTOR MÜCKE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kindergarten Club, Bologna on Sat, 31 Oct 2026.
 
 DOCTOR MÜCKE is a techno and trance artist based in Italy, with 52 gigs on soundcheck across Barcelona, Berlin, Bologna and Cologne and 14 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Kindergarten Club, Bologna on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DOCTOR MÜCKE is a techno and trance artist based in Italy, with 52 gigs on soun
 
 RESA UTOPICA, EGE363, Amo (IT)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doctormucke/)*

@@ -1,6 +1,6 @@
 # Burt Cope
 
-Burt Cope is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
+Burt Cope is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
 
 Burt Cope is a drum & bass and jungle artist based in United Kingdom, with 41 gigs on soundcheck across Bangkok, Birmingham, Brighton and Bristol and 10 more. Often billed alongside Benny Page, Deekline and Bladerunner. Next up: Sawmills, Bristol on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Burt Cope is a drum & bass and jungle artist based in United Kingdom, with 41 gi
 
 Benny Page, Deekline, Bladerunner
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burtcope/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/burtcope/)*

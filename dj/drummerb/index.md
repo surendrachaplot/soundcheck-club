@@ -1,6 +1,6 @@
 # Drummer B
 
-Drummer B is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hizz Lounge, Detroit on Sun, 1 Nov 2026.
+Drummer B is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Hizz Lounge, Detroit on Sun, 1 Nov 2026.
 
 Drummer B is a techno and ghetto tech artist based in United States of America, with 26 gigs on soundcheck across Detroit. Often billed alongside Nick Speed, Mike Agent X Clark and Sheefy McFly. Next up: Hizz Lounge, Detroit on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Drummer B is a techno and ghetto tech artist based in United States of America, 
 
 Nick Speed, Mike Agent X Clark, Sheefy McFly
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drummerb/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drummerb/)*

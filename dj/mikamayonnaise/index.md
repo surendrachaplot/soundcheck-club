@@ -1,6 +1,6 @@
 # Mikamayonnaise
 
-Mikamayonnaise is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Mikamayonnaise is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Mikamayonnaise is a techno and post-punk artist based in Belgium, with 10 gigs on soundcheck across Brussels. Often billed alongside KŌMA, Adi and Alex Lesage. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mikamayonnaise is a techno and post-punk artist based in Belgium, with 10 gigs o
 
 KŌMA (3), Adi, Alex Lesage
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikamayonnaise/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikamayonnaise/)*

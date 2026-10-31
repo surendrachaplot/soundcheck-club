@@ -1,6 +1,6 @@
 # GGGG
 
-GGGG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rūmu, Lisbon on Wed, 4 Nov 2026.
+GGGG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rūmu, Lisbon on Wed, 4 Nov 2026.
 
 GGGG is a house and techno artist based in France, with 24 gigs on soundcheck across Bordeaux, Brussels, Geneva and Lisbon and 1 more. Often billed alongside Mad Rey, Flabaire and Mézigue. Next up: Rūmu, Lisbon on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ GGGG is a house and techno artist based in France, with 24 gigs on soundcheck ac
 
 Mad Rey, Flabaire, Mézigue
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gggg/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gggg/)*

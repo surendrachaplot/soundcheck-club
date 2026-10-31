@@ -1,6 +1,6 @@
 # Kamyar Keramati
 
-Kamyar Keramati is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Atno, Budapest on Sat, 19 Dec 2026.
+Kamyar Keramati is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Atno, Budapest on Sat, 19 Dec 2026.
 
 Kamyar Keramati is a house and techno artist based in Iran, with 35 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 4 more. Often billed alongside Patamamba, Chicaiza and Dea. Next up: Atno, Budapest on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Kamyar Keramati is a house and techno artist based in Iran, with 35 gigs on soun
 
 Patamamba, Chicaiza, Dea (6)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamyarkeramati/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kamyarkeramati/)*

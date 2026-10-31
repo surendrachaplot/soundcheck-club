@@ -1,6 +1,6 @@
 # Philip Kylberg
 
-Philip Kylberg is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Circolo Amelia, Milan on Sat, 31 Oct 2026.
+Philip Kylberg is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Circolo Amelia, Milan on Sat, 31 Oct 2026.
 
 Philip Kylberg is a techno and ambient artist, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 7 more. Often billed alongside SEIYA, Alessandro Baroncini and Medlock. Next up: Circolo Amelia, Milan on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Philip Kylberg is a techno and ambient artist, with 23 gigs on soundcheck across
 
 SEIYA, Alessandro Baroncini, Medlock
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipkylberg/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philipkylberg/)*

@@ -1,6 +1,6 @@
 # adrialin
 
-adrialin is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rhiz, Vienna on Sat, 7 Nov 2026.
+adrialin is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rhiz, Vienna on Sat, 7 Nov 2026.
 
 adrialin is a techno and hardcore artist based in Austria, with 32 gigs on soundcheck across Vienna. Often billed alongside KRETA, DANBERG and Relinquo. Next up: Rhiz, Vienna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ adrialin is a techno and hardcore artist based in Austria, with 32 gigs on sound
 
 KRETA, DANBERG, Relinquo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialin/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrialin/)*

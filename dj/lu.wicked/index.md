@@ -1,6 +1,6 @@
 # lu.wicked
 
-lu.wicked is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
+lu.wicked is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Renate, Berlin on Sat, 7 Nov 2026.
 
 lu.wicked is a house and techno artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 3 more. Often billed alongside Vroomfondel, N:in (DE) and Lara Fein. Next up: Renate, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ lu.wicked is a house and techno artist based in Germany, with 34 gigs on soundch
 
 Vroomfondel, N:in (DE), Lara Fein
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.wicked/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.wicked/)*

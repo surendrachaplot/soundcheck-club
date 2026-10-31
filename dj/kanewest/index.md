@@ -1,6 +1,6 @@
 # Kane West
 
-Kane West is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
+Kane West is a Club and Pop artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Colour Factory, London on Sat, 31 Oct 2026.
 
 Kane West is a club and pop artist based in United Kingdom, with 8 gigs on soundcheck across London and New York City. Often billed alongside Hannah Diamond, CITYTRONIX and Koreless. Next up: Colour Factory, London on Sat 31 Oct.
 
@@ -24,4 +24,4 @@ Kane West is a club and pop artist based in United Kingdom, with 8 gigs on sound
 
 Hannah Diamond, CITYTRONIX, Koreless
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanewest/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanewest/)*

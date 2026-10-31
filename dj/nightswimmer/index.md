@@ -1,6 +1,6 @@
 # Night Swimmer
 
-Night Swimmer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rugs*, Beijing on Sat, 7 Nov 2026.
+Night Swimmer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rugs*, Beijing on Sat, 7 Nov 2026.
 
 Night Swimmer is a techno and trance artist based in China, with 86 gigs on soundcheck across Beijing, Chengdu, London and Milan and 2 more. Often billed alongside S.M.S.H, 10000 (CN) and W.X.M. Next up: Rugs*, Beijing on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Night Swimmer is a techno and trance artist based in China, with 86 gigs on soun
 
 S.M.S.H, 10000 (CN), W.X.M
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightswimmer/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nightswimmer/)*

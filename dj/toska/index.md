@@ -1,6 +1,6 @@
 # Toska
 
-Toska is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 7 Nov 2026.
+Toska is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 7 Nov 2026.
 
 Toska is a techno and tech house artist based in Taiwan, with 21 gigs on soundcheck across Melbourne, New York City and Taipei. Often billed alongside Kerena, Loey and Tsui. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Toska is a techno and tech house artist based in Taiwan, with 21 gigs on soundch
 
 Kerena, Loey, Tsui
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toska/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toska/)*

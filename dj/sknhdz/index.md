@@ -1,6 +1,6 @@
 # SKNHDZ
 
-SKNHDZ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at PBOX STND, Tokyo on Mon, 2 Nov 2026.
+SKNHDZ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at PBOX STND, Tokyo on Mon, 2 Nov 2026.
 
 SKNHDZ is a house and techno artist based in Japan, with 45 gigs on soundcheck across Tokyo. Often billed alongside DJ246, KZA and CALPISS. Next up: PBOX STND, Tokyo on Mon 2 Nov.
 
@@ -26,4 +26,4 @@ SKNHDZ is a house and techno artist based in Japan, with 45 gigs on soundcheck a
 
 DJ246, KZA, CALPISS
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sknhdz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sknhdz/)*

@@ -1,6 +1,6 @@
 # Zadig
 
-Zadig is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 22 Nov 2026.
+Zadig is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Para Klub Beograd, Belgrade on Sun, 22 Nov 2026.
 
 Zadig is a techno and trance artist based in France, with 47 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 14 more. Often billed alongside Maemm, abs8lute and Benabou. Next up: Para Klub Beograd, Belgrade on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Zadig is a techno and trance artist based in France, with 47 gigs on soundcheck 
 
 Maemm, abs8lute, Benabou
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zadig/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zadig/)*

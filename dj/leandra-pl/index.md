@@ -1,6 +1,6 @@
 # Leandra (PL)
 
-Leandra (PL) is a Bass and Guaracha artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Czuła Jest noc, Wroclaw on Sat, 31 Oct 2026.
+Leandra (PL) is a Bass and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Czuła Jest noc, Wroclaw on Sat, 31 Oct 2026.
 
 Leandra (PL) is a bass and guaracha artist, with 12 gigs on soundcheck across Krakow, Poznan, Prague and Warsaw and 1 more. Often billed alongside DiV4, 2K88 and ALLG. Next up: Czuła Jest noc, Wroclaw on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Leandra (PL) is a bass and guaracha artist, with 12 gigs on soundcheck across Kr
 
 DiV4, 2K88, ALLG
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leandra-pl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leandra-pl/)*

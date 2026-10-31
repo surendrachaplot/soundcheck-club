@@ -1,6 +1,6 @@
 # Jordan K Joseph
 
-Jordan K Joseph is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at renae, Manchester on Sat, 31 Oct 2026.
+Jordan K Joseph is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at renae, Manchester on Sat, 31 Oct 2026.
 
 Jordan K Joseph is a bass and trance artist based in United Kingdom, with 14 gigs on soundcheck across London and Manchester. Often billed alongside Marley Reid, Conrad Lee and Maria Hanlon. Next up: renae, Manchester on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Jordan K Joseph is a bass and trance artist based in United Kingdom, with 14 gig
 
 Marley Reid, Conrad Lee, Maria Hanlon
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordankjoseph/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jordankjoseph/)*

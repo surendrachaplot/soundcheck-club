@@ -1,6 +1,6 @@
 # Geheimzinnig Soundsystem
 
-Geheimzinnig Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ampere, Antwerp on Sat, 31 Oct 2026.
+Geheimzinnig Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ampere, Antwerp on Sat, 31 Oct 2026.
 
 Geheimzinnig Soundsystem is a house and disco artist based in Belgium, with 41 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent and 1 more. Often billed alongside Kenny Montana, kneiz and Bibi Seck. Next up: Ampere, Antwerp on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Geheimzinnig Soundsystem is a house and disco artist based in Belgium, with 41 g
 
 Kenny Montana, kneiz, Bibi Seck
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geheimzinnigsoundsystem/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geheimzinnigsoundsystem/)*

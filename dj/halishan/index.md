@@ -1,6 +1,6 @@
 # Halishan
 
-Halishan is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Soiree restaurant and lounge, Dubai on Sat, 31 Oct 2026.
+Halishan is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Soiree restaurant and lounge, Dubai on Sat, 31 Oct 2026.
 
 Halishan is a progressive house and house artist based in United Arab Emirates, with 4 gigs on soundcheck across Dubai. Often billed alongside Border Control, Harith and Goos. Next up: TBA - Soiree restaurant and lounge, Dubai on Sat 31 Oct.
 
@@ -20,4 +20,4 @@ Halishan is a progressive house and house artist based in United Arab Emirates, 
 
 Border Control, Harith, Goos (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halishan/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/halishan/)*

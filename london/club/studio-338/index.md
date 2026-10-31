@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Release Halloween - Ida Engberg, Bontan, Nick Curly, Matthias Tanzmann + more" on Sat, 31 Oct 2026.
+Studio 338 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Release Halloween - Ida Engberg, Bontan, Nick Curly, Matthias Tanzmann + more" on Sat, 31 Oct 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including ASHOJU, Beezo, Bontan and Casey Spillman and 2 more. See dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -18,4 +18,4 @@ Studio 338 is a music venue in London listed on soundcheck. 5 upcoming gigs, wit
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

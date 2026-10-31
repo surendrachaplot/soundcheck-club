@@ -1,14 +1,13 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bikini Club, Barcelona on Fri, 30 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at SWG3, Glasgow on Sat, 31 Oct 2026.
 
-Archie Hamilton is a house and tech house artist based in United Kingdom, with 231 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Bikini Club, Barcelona on Fri 30 Oct.
+Archie Hamilton is a house and tech house artist based in United Kingdom, with 231 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: SWG3, Glasgow on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Bikini Club | Barcelona |
 | Sat, 31 Oct 2026 | SWG3 | Glasgow |
 | Sat, 31 Oct 2026 | SWG3 | Glasgow |
 | Sun, 1 Nov 2026 | The Cause | London |
@@ -22,6 +21,7 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 
 ## Recently played
 
+- Bikini Club, Barcelona · Fri, 30 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Fri, 23 Oct 2026
 - RAWFACTORY, Amsterdam · Thu, 22 Oct 2026
@@ -29,10 +29,9 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 - Descent, Boston · Sat, 3 Oct 2026
 - Prysm Nightclub, Chicago · Fri, 2 Oct 2026
 - Shelter Amsterdam, Amsterdam · Sat, 26 Sept 2026
-- D-Edge RIO, Rio de Janeiro · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

@@ -1,6 +1,6 @@
 # Kellerkind
 
-Kellerkind is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Hive Club, Zurich on Sat, 31 Oct 2026.
+Kellerkind is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Hive Club, Zurich on Sat, 31 Oct 2026.
 
 Kellerkind is a house and techno artist based in Switzerland, with 27 gigs on soundcheck across Basel, Berlin, Bern and Lausanne and 2 more. Often billed alongside Anthik, Animal Trainer and ACID FLORA. Next up: Hive Club, Zurich on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Kellerkind is a house and techno artist based in Switzerland, with 27 gigs on so
 
 Anthik, Animal Trainer, ACID FLORA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellerkind/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kellerkind/)*

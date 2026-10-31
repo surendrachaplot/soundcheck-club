@@ -1,6 +1,6 @@
 # Dameer
 
-Dameer is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Toronto on Sat, 31 Oct 2026.
+Dameer is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Toronto on Sat, 31 Oct 2026.
 
 Dameer is a house and bass artist, with 12 gigs on soundcheck across Bristol, Montreal and Toronto. Often billed alongside Raf Reza, malfnktion and mayalabae. Next up: TBA, Toronto on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Dameer is a house and bass artist, with 12 gigs on soundcheck across Bristol, Mo
 
 Raf Reza, malfnktion, mayalabae
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dameer/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dameer/)*

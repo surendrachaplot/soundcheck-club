@@ -1,6 +1,6 @@
 # The Pedagogist
 
-The Pedagogist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
+The Pedagogist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Renate, Berlin on Fri, 27 Nov 2026.
 
 The Pedagogist is a house and techno artist based in Hungary, with 22 gigs on soundcheck across Berlin, Budapest, Hanoi and Ho Chi Minh City and 2 more. Often billed alongside Biliguudei, Pascale Project and Rolo. Next up: Renate, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ The Pedagogist is a house and techno artist based in Hungary, with 22 gigs on so
 
 Biliguudei, Pascale Project, Rolo (3)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepedagogist/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepedagogist/)*

@@ -1,6 +1,6 @@
 # Aiden Francis
 
-Aiden Francis is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Yes, Manchester on Fri, 6 Nov 2026.
+Aiden Francis is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Yes, Manchester on Fri, 6 Nov 2026.
 
 Aiden Francis is a house and progressive house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 11 more. Often billed alongside Fastlove, Angel D'lite and Bollibubbles. Next up: Yes, Manchester on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Aiden Francis is a house and progressive house artist based in United Kingdom, w
 
 Fastlove, Angel D'lite, Bollibubbles
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenfrancis/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aidenfrancis/)*

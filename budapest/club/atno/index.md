@@ -1,14 +1,13 @@
 # Atno
 
-Atno is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Mehet" on Fri, 30 Oct 2026.
+Atno is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Diszkóázis" on Sat, 31 Oct 2026.
 
-Atno is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Pits, Aikatherina, Akos V and Arash Ete and 2 more. See dates, start times and who's playing. 1044, Zsilip utca 17..
+Atno is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Pits, Aikatherina, Arash Ete and Atomik and 2 more. See dates, start times and who's playing. 1044, Zsilip utca 17..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Mehet | Akos V, Hanussen, Kiqo, Meduzah, Rolo (2), Stark |
 | Sat, 31 Oct 2026 | Diszkóázis | Infragandhi, Softense |
 | Fri, 6 Nov 2026 | Elektroázis | Atomik, Galactic Jackson, Kvrk, LAU (6), Max Sinclair, Mesterhazy |
 | Sat, 7 Nov 2026 | Shifted Frequencies 006: BLNDFLD (GE) | BLNDFLD, Réti Virág, sabw.ay, szoliver |
@@ -23,4 +22,4 @@ Atno is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with l
 
 1044, Zsilip utca 17., Budapest
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*

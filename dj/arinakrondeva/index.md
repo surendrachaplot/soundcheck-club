@@ -1,6 +1,6 @@
 # Arina Krondeva
 
-Arina Krondeva is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Arina Krondeva is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Arina Krondeva is a techno and breakbeat artist based in Russia, with 10 gigs on soundcheck across Miami, New York City and Orlando. Often billed alongside ATRIP, Cole Knight and Jamie Jones. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ Arina Krondeva is a techno and breakbeat artist based in Russia, with 10 gigs on
 
 ## Recently played
 
+- Factory Town, Miami · Fri, 30 Oct 2026
 - Good Room, New York City · Sat, 26 Sept 2026
 - Toejam Backlot, Miami · Sun, 29 Mar 2026
 - Factory Town, Miami · Thu, 26 Mar 2026
@@ -19,10 +20,9 @@ Arina Krondeva is a techno and breakbeat artist based in Russia, with 10 gigs on
 - The Ground at Club Space, Miami · Sat, 18 Oct 2025
 - Iron Cow, Orlando · Fri, 28 Feb 2025
 - The Monkey Bar, Orlando · Fri, 12 Jul 2024
-- Floyd, Miami · Thu, 4 Jan 2024
 
 ## Shares bills with
 
 ATRIP, Cole Knight, Jamie Jones
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arinakrondeva/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arinakrondeva/)*

@@ -1,6 +1,6 @@
 # Eva Vrijdag
 
-Eva Vrijdag is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
+Eva Vrijdag is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
 
 Eva Vrijdag is a trance and techno artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Antwerp, Ghent and Paris and 4 more. Often billed alongside SUPERSTRINGS, Pegassi and Ben Hemsley. Next up: TBA, Amsterdam on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Eva Vrijdag is a trance and techno artist based in Netherlands, with 55 gigs on 
 
 SUPERSTRINGS, Pegassi, Ben Hemsley
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evavrijdag/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evavrijdag/)*

@@ -1,6 +1,6 @@
 # Omi on Acid
 
-Omi on Acid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Beate Uwe, Berlin on Fri, 8 Jan 2027.
+Omi on Acid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Beate Uwe, Berlin on Fri, 8 Jan 2027.
 
 Omi on Acid is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, London, Munich and Vienna. Often billed alongside Rhast, Jose Puerto and Gino Kampari. Next up: Beate Uwe, Berlin on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Omi on Acid is a techno and house artist based in Germany, with 29 gigs on sound
 
 Rhast, Jose Puerto, Gino Kampari
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omionacid/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omionacid/)*

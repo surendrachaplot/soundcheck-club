@@ -1,14 +1,13 @@
 # Linska
 
-Linska is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Celine Orlando, Orlando on Fri, 30 Oct 2026.
+Linska is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Decca Live, Jacksonville on Sat, 31 Oct 2026.
 
-Linska is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 21 more. Often billed alongside Gorgon City, Adam Beyer and Eli Brown. Next up: Celine Orlando, Orlando on Fri 30 Oct.
+Linska is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 21 more. Often billed alongside Gorgon City, Adam Beyer and Eli Brown. Next up: Decca Live, Jacksonville on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Celine Orlando | Orlando |
 | Sat, 31 Oct 2026 | Decca Live | Jacksonville |
 | Sat, 14 Nov 2026 | City Market | Los Angeles |
 | Sat, 21 Nov 2026 | Electric Brixton | London |
@@ -17,6 +16,7 @@ Linska is a techno and house artist based in United Kingdom, with 52 gigs on sou
 
 ## Recently played
 
+- Celine Orlando, Orlando · Fri, 30 Oct 2026
 - Prysm Nightclub, Chicago · Sat, 24 Oct 2026
 - Night We Met, Nashville · Fri, 23 Oct 2026
 - Monarch, San Francisco/Oakland · Fri, 9 Oct 2026
@@ -24,10 +24,9 @@ Linska is a techno and house artist based in United Kingdom, with 52 gigs on sou
 - Newspeak, Montreal · Sat, 19 Sept 2026
 - Coda, Toronto · Fri, 18 Sept 2026
 - EQ San Diego, San Diego · Fri, 11 Sept 2026
-- Cavo Paradiso, Mykonos · Wed, 26 Aug 2026
 
 ## Shares bills with
 
 Gorgon City, Adam Beyer, Eli Brown
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

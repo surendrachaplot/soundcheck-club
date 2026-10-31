@@ -1,6 +1,6 @@
 # 7ip7o3
 
-7ip7o3 is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+7ip7o3 is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
 
 7ip7o3 is a bass and club artist based in South Korea, with 8 gigs on soundcheck across London and Seoul. Often billed alongside ABOPF, Arexibo and Hyejin. Next up: Blank Site, Seoul on Fri 30 Oct.
 
@@ -13,6 +13,7 @@
 
 ## Recently played
 
+- Blank Site, Seoul · Fri, 30 Oct 2026
 - The Henz Club, Seoul · Fri, 16 Oct 2026
 - Evening, Seoul · Fri, 9 Oct 2026
 - Cakeshop, Seoul · Wed, 23 Sept 2026
@@ -24,4 +25,4 @@
 
 ABOPF, Arexibo, Hyejin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7ip7o3/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/7ip7o3/)*

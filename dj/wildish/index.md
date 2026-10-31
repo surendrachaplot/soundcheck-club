@@ -1,6 +1,6 @@
 # Wildish
 
-Wildish is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 13 Nov 2026.
+Wildish is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 13 Nov 2026.
 
 Wildish is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, Cardiff, Glasgow and Leeds and 3 more. Often billed alongside Ellia Jaya, Gaskin and BTAY. Next up: NX Newcastle, Newcastle on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Wildish is a house and tech house artist based in United Kingdom, with 9 gigs on
 
 Ellia Jaya, Gaskin, BTAY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wildish/)*

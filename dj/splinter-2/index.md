@@ -1,6 +1,6 @@
 # SPLINTER (2)
 
-SPLINTER (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at elipamanoke, Leipzig on Fri, 27 Nov 2026.
+SPLINTER (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at elipamanoke, Leipzig on Fri, 27 Nov 2026.
 
 SPLINTER is a techno and industrial artist, with 34 gigs on soundcheck across Amsterdam and Leipzig. Often billed alongside Siggi Petrol, DJ STIMULA and Nienein. Next up: elipamanoke, Leipzig on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ SPLINTER is a techno and industrial artist, with 34 gigs on soundcheck across Am
 
 Siggi Petrol, DJ STIMULA, Nienein
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/splinter-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/splinter-2/)*

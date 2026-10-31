@@ -1,6 +1,6 @@
 # Mateo (US)
 
-Mateo (US) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Knockdown Center, New-york-city on Fri, 29 Jan 2027.
+Mateo (US) is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Knockdown Center, New-york-city on Fri, 29 Jan 2027.
 
 Mateo (US) is a techno and deep house artist based in United States of America, with 15 gigs on soundcheck across New York City. Often billed alongside Eli (US), Sainte Vie and Ivory. Next up: Knockdown Center, New York City on Fri 29 Jan.
 
@@ -25,4 +25,4 @@ Mateo (US) is a techno and deep house artist based in United States of America, 
 
 Eli (US), Sainte Vie, Ivory
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteo-us/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matteo-us/)*

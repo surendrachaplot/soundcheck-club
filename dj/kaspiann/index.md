@@ -1,6 +1,6 @@
 # Kaspiann
 
-Kaspiann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kaiku, Helsinki on Fri, 20 Nov 2026.
+Kaspiann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kaiku, Helsinki on Fri, 20 Nov 2026.
 
 Kaspiann is a techno and house artist based in Finland, with 42 gigs on soundcheck across Amsterdam, Basel, Helsinki and Milan and 3 more. Often billed alongside Emma Valtonen, DJ JVS and Jeku. Next up: Kaiku, Helsinki on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kaspiann is a techno and house artist based in Finland, with 42 gigs on soundche
 
 Emma Valtonen, DJ JVS, Jeku
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspiann/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspiann/)*

@@ -1,6 +1,6 @@
 # Cosmo (NY)
 
-Cosmo (NY) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Shinsen, New York City on Thu, 5 Nov 2026.
+Cosmo (NY) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Shinsen, New York City on Thu, 5 Nov 2026.
 
 Cosmo (NY) is a house and techno artist based in United States of America, with 144 gigs on soundcheck across Boston, Detroit, Montreal and New York City. Often billed alongside Eli Escobar, Donis and Mike Servito. Next up: Shinsen, New York City on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Cosmo (NY) is a house and techno artist based in United States of America, with 
 
 Eli Escobar, Donis, Mike Servito
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-ny/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo-ny/)*

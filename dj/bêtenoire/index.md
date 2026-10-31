@@ -1,6 +1,6 @@
 # BÊTE NOIRE
 
-BÊTE NOIRE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Don't be a Dick, Athens on Sat, 31 Oct 2026.
+BÊTE NOIRE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Don't be a Dick, Athens on Sat, 31 Oct 2026.
 
 BÊTE NOIRE is a house and disco artist based in Greece, with 19 gigs on soundcheck across Athens. Often billed alongside ClubKid, .Fro. and The Dreamer. Next up: Don't be a Dick, Athens on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ BÊTE NOIRE is a house and disco artist based in Greece, with 19 gigs on soundch
 
 ClubKid, .Fro., The Dreamer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bêtenoire/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bêtenoire/)*

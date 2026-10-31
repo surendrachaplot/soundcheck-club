@@ -1,6 +1,6 @@
 # STARKIDS
 
-STARKIDS is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 6 Nov 2026.
+STARKIDS is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 6 Nov 2026.
 
 STARKIDS is a hip-hop and club artist, with 21 gigs on soundcheck across Osaka and Tokyo. Often billed alongside lilbesh ramko, pinponpanpon and JUN INAGAWA. Next up: ZEROTOKYO, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ STARKIDS is a hip-hop and club artist, with 21 gigs on soundcheck across Osaka a
 
 lilbesh ramko, pinponpanpon, JUN INAGAWA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/starkids/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/starkids/)*

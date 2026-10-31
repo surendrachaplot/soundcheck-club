@@ -1,6 +1,6 @@
 # VIERNULVIER
 
-VIERNULVIER is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Liquicity Ghent 2026" on Fri, 27 Nov 2026.
+VIERNULVIER is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Liquicity Ghent 2026" on Fri, 27 Nov 2026.
 
 VIERNULVIER is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line-ups including Fred V, Muzz Khan and Technimatic. See dates, start times and who's playing. Sint-Pietersnieuwstraat 23; Ghent 9000; Belgium.
 
@@ -15,4 +15,4 @@ VIERNULVIER is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, wit
 
 Sint-Pietersnieuwstraat 23; Ghent 9000; Belgium, Ghent
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/viernulvier/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/viernulvier/)*

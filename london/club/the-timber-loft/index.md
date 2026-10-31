@@ -1,14 +1,13 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Because of Art" on Fri, 30 Oct 2026.
+The Timber Loft is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Only For Promotion" on Sun, 1 Nov 2026.
 
-The Timber Loft is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Mariiin, Anna Wall, Atjazz and Because of Art and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
+The Timber Loft is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Mariiin, Anna Wall, Atjazz and Cadence and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Because of Art | Because of Art, Carina Lawrence, Steven Weston |
 | Sun, 1 Nov 2026 | Only For Promotion | Anna Wall, Laurence, Mariiin |
 | Sun, 8 Nov 2026 | Step Inside | MUNNI |
 | Sun, 8 Nov 2026 | Step Inside presents: All Day | Cadence (1), TODDZ |
@@ -18,9 +17,10 @@ The Timber Loft is a music venue in London listed on soundcheck. 12 upcoming gig
 | Sun, 29 Nov 2026 | Balance LDN | Kofi (UK), Life Recorder, Rap Saunders, The Duke |
 | Sat, 5 Dec 2026 | Makin' Moves Xmas Party | Jamesey, Matt L-S |
 | Sun, 6 Dec 2026 | Campo Christmas | Sancho Panza, Sophie Lloyd, Trevor Fung |
+| Sun, 13 Dec 2026 | Smokin Sundays - Christmas Special | Smokin Jo |
 
 ## Address
 
 233 Shoreditch High St, London E1 6PJ, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*

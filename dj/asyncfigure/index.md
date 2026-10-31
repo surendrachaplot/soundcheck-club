@@ -1,6 +1,6 @@
 # Async Figure
 
-Async Figure is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Final, Taipei on Fri, 11 Dec 2026.
+Async Figure is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Final, Taipei on Fri, 11 Dec 2026.
 
 Async Figure is a club and experimental artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, Cork, Glasgow and London and 6 more. Often billed alongside AKUMU, Tzusing and -Doubt. Next up: Final, Taipei on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Async Figure is a club and experimental artist based in United Kingdom, with 14 
 
 AKUMU, Tzusing, -Doubt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asyncfigure/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/asyncfigure/)*

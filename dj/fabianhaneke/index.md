@@ -1,6 +1,6 @@
 # Fabian Haneke
 
-Fabian Haneke is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Yellow House, Amsterdam on Fri, 6 Nov 2026.
+Fabian Haneke is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Yellow House, Amsterdam on Fri, 6 Nov 2026.
 
 Fabian Haneke is a tech house and house artist based in Germany, with 3 gigs on soundcheck across Amsterdam and Bochum. Often billed alongside Micky Hurts, ACA (YU) and Capron. Next up: Yellow House, Amsterdam on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Fabian Haneke is a tech house and house artist based in Germany, with 3 gigs on 
 
 Micky Hurts, ACA (YU), Capron
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianhaneke/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianhaneke/)*

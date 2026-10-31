@@ -1,6 +1,6 @@
 # Happy New Tears
 
-Happy New Tears is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 20 Nov 2026.
+Happy New Tears is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Time is the new space, Rotterdam on Fri, 20 Nov 2026.
 
 Happy New Tears is a techno and bass artist, with 19 gigs on soundcheck across Amsterdam, Berlin, Lyon and Paris and 2 more. Often billed alongside Assyouti, Hanaby and LCN. Next up: Time is the new space, Rotterdam on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Happy New Tears is a techno and bass artist, with 19 gigs on soundcheck across A
 
 Assyouti, Hanaby, LCN
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/happynewtears/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/happynewtears/)*

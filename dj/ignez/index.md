@@ -1,6 +1,6 @@
 # Ignez
 
-Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
+Ignez is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
 
 Ignez is a techno and house artist based in Netherlands, with 236 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 74 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: TBA - Brooklyn, New York City on Fri 30 Oct.
 
@@ -23,6 +23,7 @@ Ignez is a techno and house artist based in Netherlands, with 236 gigs on soundc
 
 ## Recently played
 
+- TBA - Brooklyn, New York City · Fri, 30 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 24 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
@@ -30,10 +31,9 @@ Ignez is a techno and house artist based in Netherlands, with 236 gigs on soundc
 - Den Anden Side, Copenhagen · Fri, 16 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Flux, Istanbul · Sat, 10 Oct 2026
-- Tokonoma Club, Frankfurt · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Yanamaste, Rødhåd, Alarico
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

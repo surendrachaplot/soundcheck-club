@@ -1,6 +1,6 @@
 # Noritachibana
 
-Noritachibana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Otaqlab Bangkok, Bangkok on Fri, 6 Nov 2026.
+Noritachibana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Otaqlab Bangkok, Bangkok on Fri, 6 Nov 2026.
 
 Noritachibana is a techno and house artist based in Japan, with 24 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside Gojitmal, Sojourna and Yokote Acid. Next up: Otaqlab Bangkok, Bangkok on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Noritachibana is a techno and house artist based in Japan, with 24 gigs on sound
 
 Gojitmal, Sojourna, Yokote Acid
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noritachibana/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/noritachibana/)*

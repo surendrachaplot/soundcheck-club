@@ -1,6 +1,6 @@
 # Teykirisi
 
-Teykirisi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
+Teykirisi is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fairmount Theatre, Montreal on Sat, 31 Oct 2026.
 
 Teykirisi is a techno and club artist based in Honduras, with 35 gigs on soundcheck across Calgary, Mexico City, Montreal and Toronto. Often billed alongside RICO RICA, LaFHomme and Monsieurmadam. Next up: Fairmount Theatre, Montreal on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Teykirisi is a techno and club artist based in Honduras, with 35 gigs on soundch
 
 RICO RICA, LaFHomme, Monsieurmadam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teykirisi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teykirisi/)*

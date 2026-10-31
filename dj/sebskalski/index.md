@@ -1,6 +1,6 @@
 # Seb Skalski
 
-Seb Skalski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+Seb Skalski is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
 
 Seb Skalski is a techno and house artist based in Poland, with 12 gigs on soundcheck across London, Warsaw and Wroclaw. Often billed alongside SeBAss, Mabu and Rytmik. Next up: Luzztro, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Seb Skalski is a techno and house artist based in Poland, with 12 gigs on soundc
 
 SeBAss, Mabu, Rytmik
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebskalski/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sebskalski/)*

@@ -1,20 +1,20 @@
 # Spikey Lee
 
-Spikey Lee is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Cova, Hamburg on Fri, 30 Oct 2026.
+Spikey Lee is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 13 Nov 2026.
 
-Spikey Lee is a techno and house artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 19 more. Often billed alongside Lenard Klein, Laure Croft and DJ Petite. Next up: La Cova, Hamburg on Fri 30 Oct.
+Spikey Lee is a techno and house artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 19 more. Often billed alongside Lenard Klein, Laure Croft and DJ Petite. Next up: La Machine Du Moulin Rouge, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | La Cova | Hamburg |
 | Fri, 13 Nov 2026 | La Machine Du Moulin Rouge | Paris |
 | Sun, 15 Nov 2026 | KitKatClub | Berlin |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
 
+- La Cova, Hamburg · Fri, 30 Oct 2026
 - Club NYX, Amsterdam · Sat, 24 Oct 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
 - RADION, Amsterdam · Sat, 26 Sept 2026
@@ -22,10 +22,9 @@ Spikey Lee is a techno and house artist based in Netherlands, with 113 gigs on s
 - Life Club Milano, Milan · Fri, 18 Sept 2026
 - KitKatClub, Berlin · Fri, 11 Sept 2026
 - Club NYX, Amsterdam · Sat, 29 Aug 2026
-- TILLATEC, Amsterdam · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Lenard Klein, Laure Croft, DJ Petite
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spikeylee/)*

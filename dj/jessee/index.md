@@ -1,6 +1,6 @@
 # Jessee
 
-Jessee is a Drum & Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
+Jessee is a Drum & Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
 
 Jessee is a drum & bass and trance artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Dresden and 2 more. Often billed alongside T & Sugah, 1991 (UK) and A Little Sound. Next up: Onyx (E1), London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jessee is a drum & bass and trance artist based in Germany, with 10 gigs on soun
 
 T & Sugah, 1991 (UK), A Little Sound
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessee/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jessee/)*

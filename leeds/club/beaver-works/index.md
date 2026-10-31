@@ -1,14 +1,13 @@
 # Beaver Works
 
-Beaver Works is a music venue in Leeds with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cirque Du Soul: Leeds // Halloween" on Fri, 30 Oct 2026.
+Beaver Works is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Beaver Works Halloween w/ Y U QT b2b Saint Ludo, Gray + more" on Sat, 31 Oct 2026.
 
-Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, with line-ups including Amelia Leigh, Badger (UK), Chinese Daughter and CICELY and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
+Beaver Works is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Amelia Leigh, Chinese Daughter, CICELY and Crossy and 2 more. See dates, start times and who's playing. 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Cirque Du Soul: Leeds // Halloween | Badger (UK), IsGwan |
 | Sat, 31 Oct 2026 | Beaver Works Halloween w/ Y U QT b2b Saint Ludo, Gray + more | Gray, JAZ IMSKY, Saint Ludo, Y U QT |
 | Fri, 6 Nov 2026 | Acid Ballroom: Paranoid London | E-Boo, Jake Rollinson, OJ Willis, ORI (ozone), Paranoid London |
 | Fri, 6 Nov 2026 | Acid Ballroom After Party |  |
@@ -21,4 +20,4 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 8 upcoming gigs, wi
 
 36 Whitehouse Street; Leeds; LS10 1AD; United Kingdom, Leeds
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/beaver-works/)*

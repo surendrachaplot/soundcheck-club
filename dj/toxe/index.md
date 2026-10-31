@@ -1,6 +1,6 @@
 # TOXE
 
-TOXE is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Laak, The Hague on Sat, 7 Nov 2026.
+TOXE is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Laak, The Hague on Sat, 7 Nov 2026.
 
 TOXE is a club and techno artist based in Sweden, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Mechatok, Fakethias and Otis (BE). Next up: Laak, The Hague on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ TOXE is a club and techno artist based in Sweden, with 34 gigs on soundcheck acr
 
 Mechatok, Fakethias, Otis (BE)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*

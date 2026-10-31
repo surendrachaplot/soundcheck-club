@@ -1,6 +1,6 @@
 # Skepta
 
-Skepta is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Skepta is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Skepta is a tech house and house artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Chicago and 22 more. Often billed alongside Black Coffee, TSHA and Djammin. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -28,4 +28,4 @@ Skepta is a tech house and house artist based in United Kingdom, with 88 gigs on
 
 Black Coffee, TSHA, Djammin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skepta/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skepta/)*

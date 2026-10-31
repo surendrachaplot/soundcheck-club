@@ -1,6 +1,6 @@
 # NET GALA
 
-NET GALA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
+NET GALA is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 31 Oct 2026.
 
 NET GALA is a club and bass artist based in South Korea, with 98 gigs on soundcheck across Adelaide, Beijing, Berlin and Brisbane and 17 more. Often billed alongside Ligrye, mokhzolla and KISEWA. Next up: La Station - Gare des Mines, Paris on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ NET GALA is a club and bass artist based in South Korea, with 98 gigs on soundch
 
 Ligrye, mokhzolla, KISEWA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/netgala/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/netgala/)*

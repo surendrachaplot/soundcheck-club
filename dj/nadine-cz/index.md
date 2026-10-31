@@ -1,6 +1,6 @@
 # Nadine
 
-Nadine is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 6 Nov 2026.
+Nadine is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 6 Nov 2026.
 
 Nadine is a techno and electro artist, with 10 gigs on soundcheck across Berlin, Hamburg, Melbourne and Prague. Often billed alongside Patricio Strix, Bonjour Ben and Daniel Czerner. Next up: QQQ ST. Park, Melbourne on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Nadine is a techno and electro artist, with 10 gigs on soundcheck across Berlin,
 
 Patricio Strix, Bonjour Ben, Daniel Czerner
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadine-cz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nadine-cz/)*

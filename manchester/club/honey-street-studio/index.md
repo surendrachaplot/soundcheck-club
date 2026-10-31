@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RUNWAY 008 - Halloween Edition [SOLD OUT]" on Sat, 31 Oct 2026.
+Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "RUNWAY 008 - Halloween Edition [SOLD OUT]" on Sat, 31 Oct 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Anop, Arkane, Baby Rollén and Banana Hill and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -23,4 +23,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

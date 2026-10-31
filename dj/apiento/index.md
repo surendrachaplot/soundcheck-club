@@ -1,6 +1,6 @@
 # Apiento
 
-Apiento is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Garden Tisno, Croatia on Wed, 7 Jul 2027.
+Apiento is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Garden Tisno, Croatia on Wed, 7 Jul 2027.
 
 Apiento is a house and balearic artist based in United Kingdom, with 39 gigs on soundcheck across Athens, Belfast, Berlin and Croatia and 8 more. Often billed alongside Alex Kassian, Sofie K and Dave Harvey. Next up: The Garden Tisno, Croatia on Wed 7 Jul.
 
@@ -25,4 +25,4 @@ Apiento is a house and balearic artist based in United Kingdom, with 39 gigs on 
 
 Alex Kassian, Sofie K, Dave Harvey
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apiento/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apiento/)*

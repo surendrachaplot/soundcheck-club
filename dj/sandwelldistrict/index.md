@@ -1,6 +1,6 @@
 # Sandwell District
 
-Sandwell District is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Brooklyn, New York City on Wed, 27 Jan 2027.
+Sandwell District is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Brooklyn, New York City on Wed, 27 Jan 2027.
 
 Sandwell District is a techno and electronica artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Regis, Function and mad miran. Next up: TBA - Brooklyn, New York City on Wed 27 Jan.
 
@@ -25,4 +25,4 @@ Sandwell District is a techno and electronica artist based in Germany, with 44 g
 
 Regis, Function, mad miran
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwelldistrict/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandwelldistrict/)*

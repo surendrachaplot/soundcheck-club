@@ -1,6 +1,6 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Massive, Seattle on Fri, 30 Oct 2026.
+Only Fire is a Techno and Club artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Massive, Seattle on Fri, 30 Oct 2026.
 
 Only Fire is a techno and club artist based in Croatia, with 96 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 36 more. Often billed alongside River Moon, Chippy Nonstop and Memphy. Next up: Massive, Seattle on Fri 30 Oct.
 
@@ -21,6 +21,7 @@ Only Fire is a techno and club artist based in Croatia, with 96 gigs on soundche
 
 ## Recently played
 
+- Massive, Seattle · Fri, 30 Oct 2026
 - House of Q, Stockholm · Sat, 24 Oct 2026
 - TBA - Avenida Francisco Matarazzo, 694, Sao Paulo · Sat, 10 Oct 2026
 - Underground Atlanta, Atlanta · Sun, 27 Sept 2026
@@ -28,10 +29,9 @@ Only Fire is a techno and club artist based in Croatia, with 96 gigs on soundche
 - TBA, New York City · Fri, 25 Sept 2026
 - Palais Carli, Marseille · Fri, 28 Aug 2026
 - Shunter, Rotterdam · Sat, 22 Aug 2026
-- Studio1111, Berlin · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 River Moon, Chippy Nonstop, Memphy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

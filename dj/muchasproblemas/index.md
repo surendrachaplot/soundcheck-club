@@ -1,6 +1,6 @@
 # Muchas Problemas
 
-Muchas Problemas is a Post-Punk and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Badaboum, Paris on Sat, 31 Oct 2026.
+Muchas Problemas is a Post-Punk and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Badaboum, Paris on Sat, 31 Oct 2026.
 
 Muchas Problemas is a post-punk and tech house artist based in France, with 5 gigs on soundcheck across Bristol, New York City and Paris. Often billed alongside Hannah Diamond, RAG and 96 Back. Next up: Badaboum, Paris on Sat 31 Oct.
 
@@ -21,4 +21,4 @@ Muchas Problemas is a post-punk and tech house artist based in France, with 5 gi
 
 Hannah Diamond, RAG, 96 Back
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muchasproblemas/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muchasproblemas/)*

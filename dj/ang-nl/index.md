@@ -1,6 +1,6 @@
 # AnG (NL)
 
-AnG (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
+AnG (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
 
 AnG (NL) is a techno and house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Malta, Netherlands and Rotterdam and 1 more. Often billed alongside 2FEL, 36framez and A2XBY. Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ AnG (NL) is a techno and house artist based in Netherlands, with 9 gigs on sound
 
 2FEL, 36framez, A2XBY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ang-nl/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ang-nl/)*

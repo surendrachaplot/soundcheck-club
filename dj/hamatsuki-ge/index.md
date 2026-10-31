@@ -1,20 +1,20 @@
 # Hamatsuki
 
-Hamatsuki is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bassiani, Tbilisi on Fri, 30 Oct 2026.
+Hamatsuki is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
 
-Hamatsuki is a house and techno artist based in Georgia, with 81 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Helsinki and 10 more. Often billed alongside Kvanchi, Sophie Phare and Newa. Next up: Bassiani, Tbilisi on Fri 30 Oct.
+Hamatsuki is a house and techno artist based in Georgia, with 81 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Helsinki and 10 more. Often billed alongside Kvanchi, Sophie Phare and Newa. Next up: Bassiani, Tbilisi on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Bassiani | Tbilisi |
 | Fri, 6 Nov 2026 | Bassiani | Tbilisi |
 | Sun, 15 Nov 2026 | Masada | Milan |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
 ## Recently played
 
+- Bassiani, Tbilisi · Fri, 30 Oct 2026
 - Bassiani, Tbilisi · Fri, 9 Oct 2026
 - Sunseabar Beach Club, Barcelona · Sun, 13 Sept 2026
 - Atelier Gardens Campus, Berlin · Sat, 5 Sept 2026
@@ -22,10 +22,9 @@ Hamatsuki is a house and techno artist based in Georgia, with 81 gigs on soundch
 - Bassiani, Tbilisi · Fri, 10 Jul 2026
 - Bassiani, Tbilisi · Sat, 20 Jun 2026
 - Spacehall, Tbilisi · Sat, 20 Jun 2026
-- Bassiani, Tbilisi · Sat, 6 Jun 2026
 
 ## Shares bills with
 
 Kvanchi, Sophie Phare, Newa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamatsuki-ge/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hamatsuki-ge/)*

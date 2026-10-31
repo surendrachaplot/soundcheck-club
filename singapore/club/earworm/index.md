@@ -1,6 +1,6 @@
 # Earworm
 
-Earworm is a music venue in Singapore with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Wormhole: Toppings & Xinyi" on Sat, 31 Oct 2026.
+Earworm is a music venue in Singapore with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Wormhole: Toppings & Xinyi" on Sat, 31 Oct 2026.
 
 Earworm is a music venue in Singapore listed on soundcheck. 7 upcoming gigs, with line-ups including Bongomann, Dean Chew, Sivanesh and Toppings. See dates, start times and who's playing. 16 North Canal Rd, Singapore 048828.
 
@@ -20,4 +20,4 @@ Earworm is a music venue in Singapore listed on soundcheck. 7 upcoming gigs, wit
 
 16 North Canal Rd, Singapore 048828, Singapore
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/earworm/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/earworm/)*

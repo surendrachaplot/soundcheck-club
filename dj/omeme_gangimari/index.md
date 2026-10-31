@@ -1,6 +1,6 @@
 # omeme_gangimari
 
-omeme_gangimari is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at DeTour, Tokyo on Sat, 31 Oct 2026.
+omeme_gangimari is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at DeTour, Tokyo on Sat, 31 Oct 2026.
 
 omeme_gangimari is a drum & bass and techno artist based in Japan, with 95 gigs on soundcheck across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Barbie. Next up: DeTour, Tokyo on Sat 31 Oct.
 
@@ -27,4 +27,4 @@ omeme_gangimari is a drum & bass and techno artist based in Japan, with 95 gigs 
 
 SN_Yeah, ReFuCafé, Barbie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*

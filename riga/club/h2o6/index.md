@@ -1,14 +1,13 @@
 # H2o6
 
-H2o6 is a music venue in Riga with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Selecta: BIG Halloween 2026 > DNB x TECHNO" on Fri, 30 Oct 2026.
+H2o6 is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Friction X Grafix  X  RIGA  X MAZE" on Sat, 14 Nov 2026.
 
-H2o6 is a music venue in Riga listed on soundcheck. 3 upcoming gigs, with line-ups including Aphrodite, Blooom, DEEP-Z and Existal and 2 more. See dates, start times and who's playing. Ūdens iela 6, Riga, Latvia-1007.
+H2o6 is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including DEEP-Z, Existal, Freiya March and Friction and 2 more. See dates, start times and who's playing. Ūdens iela 6, Riga, Latvia-1007.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Selecta: BIG Halloween 2026 > DNB x TECHNO | Aphrodite, Blooom, Existal, SKIYE, Sagatxgod, Skryption, Venjent |
 | Sat, 14 Nov 2026 | Friction X Grafix  X  RIGA  X MAZE | Friction, Grafix, KETA (LV), MSK (LV) |
 | Sat, 28 Nov 2026 | TELPA: 12H TECHNO WAREHOUSE | DEEP-Z, Existal, Freiya March, Ikss, Koss, Michael Myth, Paul Hnikin, Phil Berg, miss kookie |
 
@@ -16,4 +15,4 @@ H2o6 is a music venue in Riga listed on soundcheck. 3 upcoming gigs, with line-u
 
 Ūdens iela 6, Riga, Latvia-1007, Riga
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/h2o6/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/h2o6/)*

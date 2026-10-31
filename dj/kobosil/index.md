@@ -1,6 +1,6 @@
 # Kobosil
 
-Kobosil is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
+Kobosil is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Cultural Lima, Peru on Fri, 30 Oct 2026.
 
 Kobosil is a techno and house artist based in Germany, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 80 more. Often billed alongside Somewhen, Clara Cuvé and I Hate Models. Next up: Club Cultural Lima, Peru on Fri 30 Oct.
 
@@ -20,6 +20,7 @@ Kobosil is a techno and house artist based in Germany, with 277 gigs on soundche
 
 ## Recently played
 
+- Club Cultural Lima, Peru · Fri, 30 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - [UNVRS], Ibiza · Thu, 8 Oct 2026
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
@@ -27,10 +28,9 @@ Kobosil is a techno and house artist based in Germany, with 277 gigs on soundche
 - Akvárium Klub, Budapest · Fri, 2 Oct 2026
 - Gate Milano, Milan · Fri, 25 Sept 2026
 - 131 Mccormack St, Toronto · Sat, 19 Sept 2026
-- Radius, Chicago · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Somewhen, Clara Cuvé, I Hate Models
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kobosil/)*

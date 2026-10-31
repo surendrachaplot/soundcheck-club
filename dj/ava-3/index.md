@@ -1,8 +1,8 @@
 # AVA (3)
 
-AVA (3) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+AVA (3) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
 
-AVA is a tech house and house artist, with 9 gigs on soundcheck across Bologna, Bristol, London and Southampton. Often billed alongside Azumei, DASHY and IZZIT. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
+AVA is a tech house and house artist based in United Kingdom, with 9 gigs on soundcheck across Bologna, Bristol, London and Southampton. Often billed alongside Azumei, DASHY and IZZIT. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AVA is a tech house and house artist, with 9 gigs on soundcheck across Bologna, 
 
 Azumei, DASHY, IZZIT
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ava-3/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ava-3/)*

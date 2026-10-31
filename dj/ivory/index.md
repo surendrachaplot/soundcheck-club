@@ -1,6 +1,6 @@
 # Ivory
 
-Ivory is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kowalski, Stuttgart on Fri, 6 Nov 2026.
+Ivory is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kowalski, Stuttgart on Fri, 6 Nov 2026.
 
 Ivory is a techno and house artist based in Italy, with 146 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 41 more. Often billed alongside Nandu, Aera and Auggië. Next up: Kowalski, Stuttgart on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ivory is a techno and house artist based in Italy, with 146 gigs on soundcheck a
 
 Nandu, Aera, Auggië
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivory/)*

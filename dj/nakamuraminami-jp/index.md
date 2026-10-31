@@ -1,6 +1,6 @@
 # Nakamura Minami
 
-Nakamura Minami is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 1 Dec 2026.
+Nakamura Minami is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Enter Shibuya, Tokyo on Tue, 1 Dec 2026.
 
 Nakamura Minami is a bass and hip-hop artist based in Japan, with 17 gigs on soundcheck across Los Angeles, San Francisco/Oakland, Seattle and Tokyo. Often billed alongside Andrew (TREKKIE TRAX), Carpainter and Seimei. Next up: Enter Shibuya, Tokyo on Tue 1 Dec.
 
@@ -25,4 +25,4 @@ Nakamura Minami is a bass and hip-hop artist based in Japan, with 17 gigs on sou
 
 Andrew (TREKKIE TRAX), Carpainter, Seimei
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamuraminami-jp/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nakamuraminami-jp/)*

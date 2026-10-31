@@ -1,6 +1,6 @@
 # Full Multi
 
-Full Multi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
+Full Multi is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
 
 Full Multi is a house and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside DJ WETPANTS, Alex Grebe and System 42. Next up: ://about blank, Berlin on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Full Multi is a house and tech house artist based in Germany, with 7 gigs on sou
 
 DJ WETPANTS, Alex Grebe, System 42
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fullmulti/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fullmulti/)*

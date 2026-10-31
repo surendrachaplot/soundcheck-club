@@ -1,6 +1,6 @@
 # Josta
 
-Josta is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fünk, Mexico City on Sat, 28 Nov 2026.
+Josta is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fünk, Mexico City on Sat, 28 Nov 2026.
 
 Josta is a techno and progressive house artist based in Mexico, with 16 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Mexico City. Often billed alongside Michael Ritter, Felix E and Intaktogene. Next up: Fünk, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Josta is a techno and progressive house artist based in Mexico, with 16 gigs on 
 
 Michael Ritter, Felix E, Intaktogene
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josta/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/josta/)*

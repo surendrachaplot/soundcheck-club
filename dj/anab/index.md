@@ -1,6 +1,6 @@
 # Ana B
 
-Ana B is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at ∄, Kyiv on Sat, 31 Oct 2026.
+Ana B is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at ∄, Kyiv on Sat, 31 Oct 2026.
 
 Ana B is a techno and house artist based in Ukraine, with 25 gigs on soundcheck across Berlin, Kyiv, London and New York City and 2 more. Often billed alongside Marco Neves, Devoye and Kilopatrah Jones. Next up: ∄, Kyiv on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ana B is a techno and house artist based in Ukraine, with 25 gigs on soundcheck 
 
 Marco Neves, Devoye, Kilopatrah Jones
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anab/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anab/)*

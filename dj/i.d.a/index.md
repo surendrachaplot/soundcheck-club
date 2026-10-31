@@ -1,6 +1,6 @@
 # I.D.A
 
-I.D.A is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Elektroküche, Cologne on Sat, 14 Nov 2026.
+I.D.A is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Elektroküche, Cologne on Sat, 14 Nov 2026.
 
 I.D.A is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Cologne and Düsseldorf. Often billed alongside Ropemaker, MAURO and HOTBOI2300. Next up: Elektroküche, Cologne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ I.D.A is a techno and trance artist based in Germany, with 14 gigs on soundcheck
 
 Ropemaker, MAURO, HOTBOI2300
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i.d.a/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i.d.a/)*

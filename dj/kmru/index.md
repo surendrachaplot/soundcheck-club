@@ -1,6 +1,6 @@
 # KMRU
 
-KMRU is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+KMRU is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 KMRU is an experimental and techno artist based in Kenya, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Carmen Villain, The Bug and Aho Ssan. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ KMRU is an experimental and techno artist based in Kenya, with 47 gigs on soundc
 
 Carmen Villain, The Bug, Aho Ssan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmru/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kmru/)*

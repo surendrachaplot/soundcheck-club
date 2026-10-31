@@ -1,6 +1,6 @@
 # E.R.P.
 
-E.R.P. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 4 Dec 2026.
+E.R.P. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Biltmore Cabaret, Vancouver on Fri, 4 Dec 2026.
 
 E.R.P. is a techno and electro artist, with 9 gigs on soundcheck across Barcelona, Berlin, Detroit and London and 4 more. Often billed alongside Convextion, Carl Finlow and Kudeki. Next up: Biltmore Cabaret, Vancouver on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ E.R.P. is a techno and electro artist, with 9 gigs on soundcheck across Barcelon
 
 Convextion, Carl Finlow, Kudeki
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erp/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erp/)*

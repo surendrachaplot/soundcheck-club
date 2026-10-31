@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Club 77: Phil Smart" on Sat, 31 Oct 2026.
+Club 77 is a music venue in Sydney with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Club 77: Phil Smart" on Sat, 31 Oct 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 13 upcoming gigs, with line-ups including A Guy Called Gerald, Ben Fester, Benny Chiu and CC:DISCO! and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 13 upcoming gigs, with 
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

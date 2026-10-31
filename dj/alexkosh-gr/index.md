@@ -1,6 +1,6 @@
 # Alex Kosh
 
-Alex Kosh is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Zelus Athens, Athens on Sat, 31 Oct 2026.
+Alex Kosh is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Zelus Athens, Athens on Sat, 31 Oct 2026.
 
 Alex Kosh is an electronic artist based in Greece, with 14 gigs on soundcheck across Athens and Mykonos. Often billed alongside Nick Jojo, Fideles and Alec Monopoly. Next up: Zelus Athens, Athens on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Alex Kosh is an electronic artist based in Greece, with 14 gigs on soundcheck ac
 
 Nick Jojo (2), Fideles, Alec Monopoly
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkosh-gr/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkosh-gr/)*

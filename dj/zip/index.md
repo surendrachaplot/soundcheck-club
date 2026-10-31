@@ -1,6 +1,6 @@
 # Zip
 
-Zip is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sonnenraum, Berlin on Fri, 4 Dec 2026.
+Zip is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sonnenraum, Berlin on Fri, 4 Dec 2026.
 
 Zip is a minimal and house artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Sammy Dee, Ricardo Villalobos and Margaret Dygas. Next up: Sonnenraum, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Zip is a minimal and house artist based in Germany, with 73 gigs on soundcheck a
 
 Sammy Dee, Ricardo Villalobos, Margaret Dygas
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zip/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zip/)*

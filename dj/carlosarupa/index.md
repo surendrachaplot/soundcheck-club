@@ -1,6 +1,6 @@
 # Carlos (Arupa)
 
-Carlos (Arupa) is a Disco and Kwaito artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sigma, Ibiza on Thu, 26 Nov 2026.
+Carlos (Arupa) is a Disco and Kwaito artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sigma, Ibiza on Thu, 26 Nov 2026.
 
 Carlos (Arupa) is a disco and kwaito artist, with 8 gigs on soundcheck across Berlin, Glasgow, Ibiza and Oslo and 1 more. Often billed alongside Luigi Rossi, ALXJ and AMR. Next up: Sigma, Ibiza on Thu 26 Nov.
 
@@ -24,4 +24,4 @@ Carlos (Arupa) is a disco and kwaito artist, with 8 gigs on soundcheck across Be
 
 Luigi Rossi, ALXJ, AMR
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosarupa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosarupa/)*

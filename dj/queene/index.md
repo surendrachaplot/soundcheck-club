@@ -1,6 +1,6 @@
 # Queen E
 
-Queen E is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
+Queen E is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at KitKatClub, Berlin on Sat, 31 Oct 2026.
 
 Queen E is a house and techno artist based in Sweden, with 36 gigs on soundcheck across Berlin, Copenhagen, Ibiza and Stockholm. Often billed alongside Sean Fender, Dgeral and Billie Jo. Next up: KitKatClub, Berlin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Queen E is a house and techno artist based in Sweden, with 36 gigs on soundcheck
 
 Sean Fender, Dgeral, Billie Jo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queene/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/queene/)*

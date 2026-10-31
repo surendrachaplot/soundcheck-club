@@ -1,6 +1,6 @@
 # Clemente (DE)
 
-Clemente (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
+Clemente (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
 
 Clemente (DE) is a techno and house artist based in Chile, with 23 gigs on soundcheck across Berlin, Ibiza, Lisbon and London and 1 more. Often billed alongside Juan Ferreyra, Josefina Tapia and Easy Latinos. Next up: Golden Gate, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Clemente (DE) is a techno and house artist based in Chile, with 23 gigs on sound
 
 Juan Ferreyra, Josefina Tapia (2), Easy Latinos
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clemente-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clemente-de/)*

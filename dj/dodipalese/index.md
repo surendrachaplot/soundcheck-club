@@ -1,6 +1,6 @@
 # Dodi Palese
 
-Dodi Palese is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Suma Han, Istanbul on Sat, 14 Nov 2026.
+Dodi Palese is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Suma Han, Istanbul on Sat, 14 Nov 2026.
 
 Dodi Palese is a house and techno artist, with 10 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Istanbul and 4 more. Often billed alongside Phunkadelica, Alan Dixon and Amy Dabbs. Next up: Suma Han, Istanbul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Dodi Palese is a house and techno artist, with 10 gigs on soundcheck across Barc
 
 Phunkadelica, Alan Dixon, Amy Dabbs
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dodipalese/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dodipalese/)*

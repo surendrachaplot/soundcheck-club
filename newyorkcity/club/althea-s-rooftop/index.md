@@ -1,6 +1,6 @@
 # Althea's Rooftop
 
-Althea's Rooftop is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Solarium Halloween Edition - A House Music Journey" on Sat, 31 Oct 2026.
+Althea's Rooftop is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Solarium Halloween Edition - A House Music Journey" on Sat, 31 Oct 2026.
 
 Althea's Rooftop is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including IgP. See dates, start times and who's playing. 634 west 52 str New york.
 
@@ -14,4 +14,4 @@ Althea's Rooftop is a music venue in New York City listed on soundcheck. 1 upcom
 
 634 west 52 str New york, New York City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/althea-s-rooftop/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/althea-s-rooftop/)*

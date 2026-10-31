@@ -1,6 +1,6 @@
 # Viertel
 
-Viertel is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Feiern wie früher, nur früher - Basel" on Sat, 20 Mar 2027.
+Viertel is a music venue in Basel with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Feiern wie früher, nur früher - Basel" on Sat, 20 Mar 2027.
 
 Viertel is a music venue in Basel listed on soundcheck. 1 upcoming gig, with line-ups including Anna Reusch, Scar and Thomas Schumacher. See dates, start times and who's playing. Münchensteinerstrasse 81, 4052 Basel.
 
@@ -14,4 +14,4 @@ Viertel is a music venue in Basel listed on soundcheck. 1 upcoming gig, with lin
 
 Münchensteinerstrasse 81, 4052 Basel, Basel
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/viertel/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/basel/club/viertel/)*

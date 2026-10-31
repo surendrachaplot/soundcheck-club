@@ -1,6 +1,6 @@
 # Daniel Monaco
 
-Daniel Monaco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Daniel Monaco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Daniel Monaco is a house and disco artist based in Italy, with 58 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Max NRG Supply, Jason K (IT) and Alden Tyrell. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Daniel Monaco is a house and disco artist based in Italy, with 58 gigs on soundc
 
 Max NRG Supply, Jason K (IT), Alden Tyrell
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*

@@ -1,6 +1,6 @@
 # Taylah Elaine
 
-Taylah Elaine is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Sat, 31 Oct 2026.
+Taylah Elaine is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Vermont Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
 Taylah Elaine is a house and hip-hop artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Bali and 33 more. Often billed alongside Conducta, Donnie Sunshine and Jyoty. Next up: The Vermont Hollywood, Los Angeles on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Taylah Elaine is a house and hip-hop artist based in United Kingdom, with 87 gig
 
 Conducta, Donnie Sunshine, Jyoty
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taylahelaine/)*

@@ -1,6 +1,6 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Cafeteria Halloween: Invisible City x LYRIX" on Sat, 31 Oct 2026.
+Cafeteria is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Cafeteria Halloween: Invisible City x LYRIX" on Sat, 31 Oct 2026.
 
 Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Akkai, Amedeo (CA), Ard1n and Blkvirgo and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
@@ -20,4 +20,4 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, wit
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

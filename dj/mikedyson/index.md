@@ -1,6 +1,6 @@
 # Mike Dyson
 
-Mike Dyson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Factory 47, Hanoi on Sat, 31 Oct 2026.
+Mike Dyson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory 47, Hanoi on Sat, 31 Oct 2026.
 
 Mike Dyson is a techno and house artist, with 32 gigs on soundcheck across Hanoi, Ho Chi Minh City, Mannheim and Melbourne. Often billed alongside Hocking, Feelz and George Adore. Next up: Factory 47, Hanoi on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Mike Dyson is a techno and house artist, with 32 gigs on soundcheck across Hanoi
 
 Hocking, Feelz, George Adore
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedyson/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedyson/)*

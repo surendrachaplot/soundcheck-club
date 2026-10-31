@@ -1,6 +1,6 @@
 # Maryu
 
-Maryu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Le Trabendo, Paris on Fri, 18 Dec 2026.
+Maryu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Le Trabendo, Paris on Fri, 18 Dec 2026.
 
 Maryu is a techno and trance artist based in France, with 29 gigs on soundcheck across Barcelona, Madrid, Marseille and Mexico City and 1 more. Often billed alongside Jolly (FR), Lastvuska and HORS-SOL. Next up: Le Trabendo, Paris on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Maryu is a techno and trance artist based in France, with 29 gigs on soundcheck 
 
 Jolly (FR), Lastvuska, HORS-SOL
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryu/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maryu/)*

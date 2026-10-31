@@ -1,14 +1,13 @@
 # 77
 
-77 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Halloween: The 77th Hour | Nafe Smallz" on Fri, 30 Oct 2026.
+77 is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "77 PRESENT SUNDAYZ: DJ OBI" on Sun, 1 Nov 2026.
 
-77 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Alan Dixon, AliTR, Deb FA and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Alan Dixon, AliTR, Deb FA and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Halloween: The 77th Hour / Nafe Smallz | Deb FA, Nafe Smallz |
 | Sun, 1 Nov 2026 | 77 PRESENT SUNDAYZ: DJ OBI |  |
 | Mon, 2 Nov 2026 | FullHouse Monday Party: Special Guest |  |
 | Fri, 6 Nov 2026 | 77: SONA | SONA (2) |
@@ -18,9 +17,10 @@
 | Fri, 20 Nov 2026 | 77: Alan Dixon | Alan Dixon, Deb FA, Sam Holland |
 | Sat, 21 Nov 2026 | Nightly x DOVnROBS (The 77 Takeover) | DOVnROBS |
 | Fri, 11 Dec 2026 | 77 hosts MASAKA AFRICANA: DEB FA |  |
+| Fri, 18 Dec 2026 | 20 Years Of Circle |  |
 
 ## Address
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

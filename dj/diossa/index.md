@@ -1,6 +1,6 @@
 # Diossa
 
-Diossa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
+Diossa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
 
 Diossa is a techno and trance artist based in United States of America, with 43 gigs on soundcheck across Amsterdam, Bogot, Bogotá and Boston and 5 more. Often billed alongside Confidential Recipe, Kaizen and Paula Velez. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Diossa is a techno and trance artist based in United States of America, with 43 
 
 Confidential Recipe, Kaizen (2), Paula Velez
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diossa/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diossa/)*

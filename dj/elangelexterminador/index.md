@@ -1,6 +1,6 @@
 # El Ángel Exterminador
 
-El Ángel Exterminador is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sun, 20 Dec 2026.
+El Ángel Exterminador is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Biltmore Cabaret, Vancouver on Sun, 20 Dec 2026.
 
 El Ángel Exterminador is an experimental and techno artist based in Canada, with 18 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside Brendocha, Alan Harman and Con Secuencias. Next up: Biltmore Cabaret, Vancouver on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ El Ángel Exterminador is an experimental and techno artist based in Canada, wit
 
 Brendocha, Alan Harman, Con Secuencias
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elangelexterminador/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elangelexterminador/)*

@@ -1,6 +1,6 @@
 # Veronica Schip
 
-Veronica Schip is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Wavemakers" on Fri, 6 Nov 2026.
+Veronica Schip is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Wavemakers" on Fri, 6 Nov 2026.
 
 Veronica Schip is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including sol.sous.sol and Yu Yang. See dates, start times and who's playing. NDSM-Pier 1, 1033 RG Amsterdam, Netherlands.
 
@@ -17,4 +17,4 @@ Veronica Schip is a music venue in Amsterdam listed on soundcheck. 4 upcoming gi
 
 NDSM-Pier 1, 1033 RG Amsterdam, Netherlands, Amsterdam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/veronica-schip/)*

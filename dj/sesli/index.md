@@ -1,6 +1,6 @@
 # Sesli
 
-Sesli is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA, Pittsburgh on Sat, 31 Oct 2026.
+Sesli is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Pittsburgh on Sat, 31 Oct 2026.
 
 Sesli is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Atlanta, Los Angeles, New York City and Philadelphia and 1 more. Often billed alongside Black Box, Alexion and Angelinkast. Next up: TBA, Pittsburgh on Sat 31 Oct.
 
@@ -28,4 +28,4 @@ Sesli is a techno and house artist based in United States of America, with 12 gi
 
 Black Box, Alexion, Angelinkast
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sesli/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sesli/)*

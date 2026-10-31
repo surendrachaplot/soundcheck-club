@@ -1,6 +1,6 @@
 # Arp Frique
 
-Arp Frique is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
+Arp Frique is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Truman Brewery Multiple Venues, London on Fri, 23 Apr 2027.
 
 Arp Frique is a disco and funk / soul artist based in Netherlands, with 24 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Antal, Ays (NL) and Bryte. Next up: Truman Brewery Multiple Venues, London on Fri 23 Apr.
 
@@ -25,4 +25,4 @@ Arp Frique is a disco and funk / soul artist based in Netherlands, with 24 gigs 
 
 Antal, Ays (NL), Bryte
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpfrique/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arpfrique/)*

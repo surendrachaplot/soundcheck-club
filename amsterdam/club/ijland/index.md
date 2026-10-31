@@ -1,6 +1,6 @@
 # Ijland
 
-Ijland is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Rose Ringed 6hrs - The new years dance" on Fri, 1 Jan 2027.
+Ijland is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Rose Ringed 6hrs - The new years dance" on Fri, 1 Jan 2027.
 
 Ijland is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Rose Ringed. See dates, start times and who's playing. Tt. Vasumweg 171, 1033 SG Amsterdam.
 
@@ -14,4 +14,4 @@ Ijland is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with 
 
 Tt. Vasumweg 171, 1033 SG Amsterdam, Amsterdam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ijland/)*

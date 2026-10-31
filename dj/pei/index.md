@@ -1,6 +1,6 @@
 # Pei
 
-Pei is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at HVEN, Tokyo on Mon, 9 Nov 2026.
+Pei is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at HVEN, Tokyo on Mon, 9 Nov 2026.
 
 Pei is a house and electro artist based in China, with 56 gigs on soundcheck across Bangkok, Beijing, Berlin and Chongqing and 4 more. Often billed alongside Leo Furioso, Aled and YOSHI KANOU. Next up: HVEN, Tokyo on Mon 9 Nov.
 
@@ -26,4 +26,4 @@ Pei is a house and electro artist based in China, with 56 gigs on soundcheck acr
 
 Leo Furioso, Aled, YOSHI KANOU
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pei/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pei/)*

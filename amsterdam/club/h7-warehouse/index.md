@@ -1,6 +1,6 @@
 # H7 Warehouse
 
-H7 Warehouse is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "H7 Warehouse - Amsterdam's Ultimate Warehouse New Year's Eve Festival" on Thu, 31 Dec 2026.
+H7 Warehouse is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "H7 Warehouse - Amsterdam's Ultimate Warehouse New Year's Eve Festival" on Thu, 31 Dec 2026.
 
 H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
 
@@ -14,4 +14,4 @@ H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig.
 
 Humberweg7, 1043 AC Amsterdam, Amsterdam
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/h7-warehouse/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/h7-warehouse/)*

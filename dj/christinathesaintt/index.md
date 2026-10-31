@@ -1,18 +1,18 @@
 # Christinathesaintt
 
-Christinathesaintt is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Zuzu, Boston on Fri, 30 Oct 2026.
+Christinathesaintt is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Paragon, New York City on Fri, 4 Dec 2026.
 
-Christinathesaintt is a club and house artist based in United States of America, with 9 gigs on soundcheck across Boston and New York City. Often billed alongside Elysian, Adelaide and Amarji King. Next up: Zuzu, Boston on Fri 30 Oct.
+Christinathesaintt is a club and house artist based in United States of America, with 9 gigs on soundcheck across Boston and New York City. Often billed alongside Elysian, Adelaide and Amarji King. Next up: Paragon, New York City on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Zuzu | Boston |
 | Fri, 4 Dec 2026 | Paragon | New York City |
 
 ## Recently played
 
+- Zuzu, Boston · Fri, 30 Oct 2026
 - The Smoot Standard, Boston · Fri, 23 Oct 2026
 - Hart Bar, New York City · Fri, 18 Sept 2026
 - Bossa Nova Civic Club, New York City · Sat, 5 Sept 2026
@@ -25,4 +25,4 @@ Christinathesaintt is a club and house artist based in United States of America,
 
 Elysian (1), Adelaide (1), Amarji King
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinathesaintt/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/christinathesaintt/)*

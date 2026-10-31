@@ -1,6 +1,6 @@
 # DATSKO
 
-DATSKO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Leopardstown Racecourse, Dublin on Sat, 31 Oct 2026.
+DATSKO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Leopardstown Racecourse, Dublin on Sat, 31 Oct 2026.
 
 DATSKO is a techno and trance artist based in Ireland, with 82 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 27 more. Often billed alongside Black Traffic, blk. and Jezza & Jod. Next up: Leopardstown Racecourse, Dublin on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DATSKO is a techno and trance artist based in Ireland, with 82 gigs on soundchec
 
 Black Traffic, blk., Jezza & Jod
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/datsko/)*

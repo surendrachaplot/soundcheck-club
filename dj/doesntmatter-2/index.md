@@ -1,18 +1,18 @@
 # doesn't matter (2)
 
-doesn't matter (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Cova, Hamburg on Fri, 30 Oct 2026.
+doesn't matter (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at La Cova, Hamburg on Sat, 31 Oct 2026.
 
-doesn't matter is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Hamburg. Often billed alongside AKIIM, Elon Bass and AH-N!CE. Next up: La Cova, Hamburg on Fri 30 Oct.
+doesn't matter is a techno and trance artist based in Germany, with 15 gigs on soundcheck across Hamburg. Often billed alongside AKIIM, Elon Bass and AH-N!CE. Next up: La Cova, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | La Cova | Hamburg |
 | Sat, 31 Oct 2026 | La Cova | Hamburg |
 
 ## Recently played
 
+- La Cova, Hamburg · Fri, 30 Oct 2026
 - La Cova, Hamburg · Sat, 26 Sept 2026
 - La Cova, Hamburg · Sat, 1 Aug 2026
 - La Cova, Hamburg · Sat, 30 May 2026
@@ -20,10 +20,9 @@ doesn't matter is a techno and trance artist based in Germany, with 15 gigs on s
 - La Cova, Hamburg · Tue, 30 Apr 2024
 - La Cova, Hamburg · Sat, 6 Apr 2024
 - La Cova, Hamburg · Sat, 17 Feb 2024
-- La Cova, Hamburg · Sat, 3 Feb 2024
 
 ## Shares bills with
 
 AKIIM, Elon Bass, AH-N!CE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doesntmatter-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doesntmatter-2/)*

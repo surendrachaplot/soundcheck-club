@@ -1,6 +1,6 @@
 # Clärchen's Ballhaus
 
-Clärchen's Ballhaus is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Ma Baker Party ✪ Disco RnB House ✪ €5 Off After Midnight ✪" on Sat, 31 Oct 2026.
+Clärchen's Ballhaus is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Ma Baker Party ✪ Disco RnB House ✪ €5 Off After Midnight ✪" on Sat, 31 Oct 2026.
 
 Clärchen's Ballhaus is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Auguststrasse 24/25.
 
@@ -14,4 +14,4 @@ Clärchen's Ballhaus is a music venue in Berlin listed on soundcheck. 1 upcoming
 
 Auguststrasse 24/25, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cl-rchen-s-ballhaus/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/cl-rchen-s-ballhaus/)*

@@ -1,6 +1,6 @@
 # Oldfield
 
-Oldfield is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The System, Sheffield on Fri, 6 Nov 2026.
+Oldfield is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The System, Sheffield on Fri, 6 Nov 2026.
 
 Oldfield is a garage and house artist based in United Kingdom, with 38 gigs on soundcheck across Brighton, Leeds, London and Manchester and 1 more. Often billed alongside Josh Keit, Revstreet and Isaac Frost. Next up: The System, Sheffield on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Oldfield is a garage and house artist based in United Kingdom, with 38 gigs on s
 
 Josh Keit, Revstreet, Isaac Frost
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldfield/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oldfield/)*

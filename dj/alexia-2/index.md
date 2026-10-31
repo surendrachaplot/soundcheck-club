@@ -1,6 +1,6 @@
 # Alexia (2)
 
-Alexia (2) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 20 Nov 2026.
+Alexia (2) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 20 Nov 2026.
 
 Alexia is a house and deep house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 11 more. Often billed alongside Just1, Paul Kine and Penelope. Next up: TBA - Secret Location, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Alexia is a house and deep house artist based in United Kingdom, with 60 gigs on
 
 Just1, Paul Kine, Penelope (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexia-2/)*

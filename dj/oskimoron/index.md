@@ -1,6 +1,6 @@
 # OSKIMORON
 
-OSKIMORON is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
+OSKIMORON is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
 
 OSKIMORON is a bass and breakbeat artist, with 12 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside Teen Spirit, Yes Stanley and dj neurospicy. Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ OSKIMORON is a bass and breakbeat artist, with 12 gigs on soundcheck across Krak
 
 Teen Spirit, Yes Stanley, dj neurospicy
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskimoron/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oskimoron/)*

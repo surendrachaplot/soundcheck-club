@@ -1,6 +1,6 @@
 # Pueblo Gelb
 
-Pueblo Gelb is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Helios37, Cologne on Wed, 11 Nov 2026.
+Pueblo Gelb is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Helios37, Cologne on Wed, 11 Nov 2026.
 
 Pueblo Gelb is a club and techno artist based in Germany, with 20 gigs on soundcheck across Berlin, Cologne and Munich. Often billed alongside BabaBass3000, OSKAMAXX and Baumeister98. Next up: Helios37, Cologne on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Pueblo Gelb is a club and techno artist based in Germany, with 20 gigs on soundc
 
 BabaBass3000, OSKAMAXX, Baumeister98
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pueblogelb/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pueblogelb/)*

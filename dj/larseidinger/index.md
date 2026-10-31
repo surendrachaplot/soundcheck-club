@@ -1,6 +1,6 @@
 # Lars Eidinger
 
-Lars Eidinger is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at ZIK Zeit ist Knapp, Berlin on Sat, 7 Nov 2026.
+Lars Eidinger is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ZIK Zeit ist Knapp, Berlin on Sat, 7 Nov 2026.
 
 Lars Eidinger is a house and disco artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Dresden and Düsseldorf and 2 more. Often billed alongside Voltmar, A.tari and Kapote. Next up: ZIK Zeit ist Knapp, Berlin on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Lars Eidinger is a house and disco artist based in Germany, with 28 gigs on soun
 
 Voltmar, A.tari, Kapote
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larseidinger/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/larseidinger/)*

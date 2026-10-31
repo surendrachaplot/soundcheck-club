@@ -1,6 +1,6 @@
 # Emily Jacko
 
-Emily Jacko is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Ouseburn Garden, Newcastle on Fri, 20 Nov 2026.
+Emily Jacko is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ouseburn Garden, Newcastle on Fri, 20 Nov 2026.
 
 Emily Jacko is a garage and house artist based in United Kingdom, with 17 gigs on soundcheck across Leeds, London and Newcastle. Often billed alongside Macca, NEENZY (UK) and Amelia Leigh. Next up: Ouseburn Garden, Newcastle on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Emily Jacko is a garage and house artist based in United Kingdom, with 17 gigs o
 
 Macca (2), NEENZY (UK), Amelia Leigh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjacko/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emilyjacko/)*

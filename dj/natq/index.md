@@ -1,6 +1,6 @@
 # natq
 
-natq is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Basement Vesterbro, Copenhagen on Fri, 20 Nov 2026.
+natq is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Basement Vesterbro, Copenhagen on Fri, 20 Nov 2026.
 
 natq is an experimental and electronica artist based in Denmark, with 14 gigs on soundcheck across Berlin, Copenhagen, Malmo and Vienna. Often billed alongside Cristian Vogel, Mesak and Abul Mogard. Next up: Basement Vesterbro, Copenhagen on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ natq is an experimental and electronica artist based in Denmark, with 14 gigs on
 
 Cristian Vogel, Mesak, Abul Mogard
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natq/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natq/)*

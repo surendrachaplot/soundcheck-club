@@ -1,14 +1,13 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 12 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Radioactive presents - Halloween Rave" on Fri, 30 Oct 2026.
+Liquid Club is a music venue in Malta with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLLOWEEN (BACKROOM)" on Sat, 31 Oct 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, with line-ups including NYRA (DE), Acidulant, Andrea Giordani and Anna Amato and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 11 upcoming gigs, with line-ups including Acidulant, Andrea Giordani, Anna Amato and Anna V. and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Radioactive presents - Halloween Rave | INVERTED (MT), NYRA (DE), Scythe, shabxxs |
 | Sat, 31 Oct 2026 | HALLLOWEEN (BACKROOM) |  |
 | Fri, 6 Nov 2026 | LOCALS × LIQUID: 2026 FINALE [2 STAGES]   | Cheech, Georg MT, Joshua Calleja, OBLX, Visualizer, iNK MT |
 | Sat, 7 Nov 2026 | TRIKKI - MAURER + RARE MAMBA | MAURER, Reactant |
@@ -18,9 +17,10 @@ Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 21 Nov 2026 | Neolitika Club Night // Bailey Ibbs | Bailey Ibbs, Limón, Manthrax |
 | Fri, 27 Nov 2026 | 77CELLAR: Anna Amato, GVZ, MAAKS B2B Molario, P RISCO | Anna Amato, GVZ (1), MAAKS MT, Molario, P RISCO |
 | Sat, 28 Nov 2026 | IMPULSE DIVISION | Anna V., FIASKA, Joshua Calleja, OBLX, iNK MT |
+| Fri, 4 Dec 2026 | Techno Agency (OSMWSTA) (2 STAGE) | DJ Nasty Deluxe, Philip Ackowsky, The Electronic Advance |
 
 ## Address
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

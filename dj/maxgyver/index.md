@@ -1,6 +1,6 @@
 # Max Gyver
 
-Max Gyver is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Frappant, Hamburg on Sat, 7 Nov 2026.
+Max Gyver is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Frappant, Hamburg on Sat, 7 Nov 2026.
 
 Max Gyver is a disco and funk / soul artist based in Germany, with 14 gigs on soundcheck across Dortmund / Essen and Hamburg. Often billed alongside Bushfya, André Dancekowski and CHEWCHEW. Next up: Frappant, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Max Gyver is a disco and funk / soul artist based in Germany, with 14 gigs on so
 
 Bushfya, André Dancekowski, CHEWCHEW
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgyver/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maxgyver/)*

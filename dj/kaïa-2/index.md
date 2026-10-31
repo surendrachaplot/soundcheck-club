@@ -1,6 +1,6 @@
 # KAïA (2)
 
-KAïA (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at MÄX, Zurich on Thu, 31 Dec 2026.
+KAïA (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at MÄX, Zurich on Thu, 31 Dec 2026.
 
 KAïA is a techno and electronica artist based in Switzerland, with 17 gigs on soundcheck across Zurich. Often billed alongside Megix, CAERMI and Miska. Next up: MÄX, Zurich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ KAïA is a techno and electronica artist based in Switzerland, with 17 gigs on s
 
 Megix, CAERMI, Miska
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaïa-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaïa-2/)*

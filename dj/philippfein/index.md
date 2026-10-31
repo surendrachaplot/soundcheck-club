@@ -1,6 +1,6 @@
 # Philipp Fein
 
-Philipp Fein is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Philipp Fein is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Philipp Fein is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin, Cologne, Hamburg and Stuttgart and 1 more. Often billed alongside keikee, Heimlich Knüller and Martha van Straaten. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -12,6 +12,7 @@ Philipp Fein is a techno and house artist based in Germany, with 38 gigs on soun
 
 ## Recently played
 
+- Südpol, Hamburg · Fri, 30 Oct 2026
 - Gewölbe, Cologne · Sat, 10 Oct 2026
 - Fridas Pier, Stuttgart · Sat, 8 Aug 2026
 - TBA -  Fühlinger See, Cologne · Thu, 4 Jun 2026
@@ -19,10 +20,9 @@ Philipp Fein is a techno and house artist based in Germany, with 38 gigs on soun
 - Kater, Berlin · Sat, 6 Dec 2025
 - Gewölbe, Cologne · Fri, 3 Oct 2025
 - Pratersauna, Vienna · Sat, 27 Sept 2025
-- fi, Cologne · Sat, 30 Aug 2025
 
 ## Shares bills with
 
 keikee, Heimlich Knüller, Martha van Straaten
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippfein/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippfein/)*

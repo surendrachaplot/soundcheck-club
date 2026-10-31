@@ -1,14 +1,13 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo" on Fri, 30 Oct 2026.
+Standard Time is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "[CANCELLED] Teal (Live), Prince Nifty and DJ Snack Time" on Thu, 5 Nov 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Amedeo (CA) and Andrew Ross and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Andrew Ross and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | An ASNM Halloween with Kanyon (NYC), Tony Price, Miss Kleio, & Amedeo | Amedeo (CA), Kanyon, Miss Kleio, Tony Price |
 | Thu, 5 Nov 2026 | [CANCELLED] Teal (Live), Prince Nifty and DJ Snack Time | Teal |
 | Fri, 6 Nov 2026 | Benji B and Immigrant Muscle | Benji B, Immigrant Muscle |
 | Sat, 7 Nov 2026 | FORMAT x Standard Time: Altinbas / Measure Divide / anise | Altinbas, Measure Divide, anise |
@@ -18,9 +17,10 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs
 | Sat, 21 Nov 2026 | Theo Parrish - Open To Close | Theo Parrish |
 | Sat, 28 Nov 2026 | Frits Wentink presented by Untold Stories x House of Lords | Frits Wentink, House of Lords, Zoi (CA) |
 | Sat, 5 Dec 2026 | DJ Marcelle and Destiny presented by Sem Forma and Standard Time | DJ Marcelle, Destiny (CA) |
+| Sat, 19 Dec 2026 | Darwin, Gremlinz and Rhythmo presented by Bass Station x Standard Time | Darwin, Gremlinz, Rhythmo |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

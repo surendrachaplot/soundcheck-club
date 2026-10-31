@@ -1,6 +1,6 @@
 # Tomi & Kesh
 
-Tomi & Kesh is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Tomi & Kesh is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Tomi & Kesh are a tech house and house duo based in Germany, with 55 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 20 more. Often billed alongside Kesh, Melanie Ribbe and Paco Osuna. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Tomi & Kesh are a tech house and house duo based in Germany, with 55 gigs on sou
 
 Kesh (1), Melanie Ribbe, Paco Osuna
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomikesh/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomikesh/)*

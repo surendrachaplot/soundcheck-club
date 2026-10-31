@@ -1,6 +1,6 @@
 # Steller
 
-Steller is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Elektricity, Detroit on Sat, 14 Nov 2026.
+Steller is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Elektricity, Detroit on Sat, 14 Nov 2026.
 
 Steller is a bass and dubstep artist based in United Kingdom, with 9 gigs on soundcheck across Austin, Boston, Detroit and Jacksonville and 3 more. Often billed alongside Big Gigantic, Dom Dolla and Eli Brown. Next up: Elektricity, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Steller is a bass and dubstep artist based in United Kingdom, with 9 gigs on sou
 
 Big Gigantic, Dom Dolla, Eli Brown
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steller/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steller/)*

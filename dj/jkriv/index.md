@@ -1,6 +1,6 @@
 # JKriv
 
-JKriv is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+JKriv is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 JKriv is a house and disco artist based in United States of America, with 135 gigs on soundcheck across Atlanta, Auckland, Barcelona and Brazil and 27 more. Often billed alongside Aaron Dae, Disgonuts and Jason Lindner. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ JKriv is a house and disco artist based in United States of America, with 135 gi
 
 Aaron Dae, Disgonuts, Jason Lindner
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkriv/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jkriv/)*

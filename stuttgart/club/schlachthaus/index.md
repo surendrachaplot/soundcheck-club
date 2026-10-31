@@ -1,6 +1,6 @@
 # Schlachthaus
 
-Schlachthaus is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Tanztee #36" on Sun, 8 Nov 2026.
+Schlachthaus is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Tanztee #36" on Sun, 8 Nov 2026.
 
 Schlachthaus is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including Julius Elias and timodufner. See dates, start times and who's playing. Schlachthausstraße 9, 72074, Tübingen, Germany.
 
@@ -14,4 +14,4 @@ Schlachthaus is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig,
 
 Schlachthausstraße 9, 72074, Tübingen, Germany, Stuttgart
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/schlachthaus/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/schlachthaus/)*

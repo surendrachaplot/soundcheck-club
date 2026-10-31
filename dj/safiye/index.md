@@ -1,6 +1,6 @@
 # Safiye
 
-Safiye is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Ballroom at Palais, London on Sat, 31 Oct 2026.
+Safiye is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ballroom at Palais, London on Sat, 31 Oct 2026.
 
 Safiye is a house and disco artist based in United Kingdom, with 52 gigs on soundcheck across Bristol, Bucharest, Cardiff and Ibiza and 3 more. Often billed alongside SPICYIVY, Burly Chassis and Brad Bradley. Next up: Ballroom at Palais, London on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Safiye is a house and disco artist based in United Kingdom, with 52 gigs on soun
 
 SPICYIVY, Burly Chassis, Brad Bradley
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safiye/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/safiye/)*

@@ -1,6 +1,6 @@
 # Horston
 
-Horston is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 31 Oct 2026.
+Horston is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 31 Oct 2026.
 
 Horston is a techno and trance artist based in United Kingdom, with 6 gigs on soundcheck across London and Malta. Often billed alongside AKnight, ANNX and Belin. Next up: TBA - Secret Location, Malta on Sat 31 Oct.
 
@@ -22,4 +22,4 @@ Horston is a techno and trance artist based in United Kingdom, with 6 gigs on so
 
 AKnight, ANNX, Belin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horston/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/horston/)*

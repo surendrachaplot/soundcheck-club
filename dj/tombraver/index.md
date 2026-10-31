@@ -1,6 +1,6 @@
 # Tomb Raver
 
-Tomb Raver is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Comfort Zone, Toronto on Fri, 6 Nov 2026.
+Tomb Raver is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Comfort Zone, Toronto on Fri, 6 Nov 2026.
 
 Tomb Raver is a techno and tech house artist, with 26 gigs on soundcheck across Toronto. Often billed alongside SAMM DU, rahi4ever and Burnii. Next up: The Comfort Zone, Toronto on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Tomb Raver is a techno and tech house artist, with 26 gigs on soundcheck across 
 
 SAMM DU, rahi4ever, Burnii
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tombraver/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tombraver/)*

@@ -1,6 +1,6 @@
 # DJ Baker
 
-DJ Baker is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at 42 Marches, Paris on Sat, 28 Nov 2026.
+DJ Baker is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at 42 Marches, Paris on Sat, 28 Nov 2026.
 
 DJ Baker is a house and electro artist based in France, with 16 gigs on soundcheck across Paris. Often billed alongside Deb Saadoun, Khanh and Khanh. Next up: 42 Marches, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Baker is a house and electro artist based in France, with 16 gigs on soundche
 
 Deb Saadoun, Khanh (2), Khanh
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaker/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaker/)*

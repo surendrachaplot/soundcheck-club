@@ -1,6 +1,6 @@
 # petra bomb
 
-petra bomb is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Loco Klub, Bristol on Sat, 31 Oct 2026.
+petra bomb is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Loco Klub, Bristol on Sat, 31 Oct 2026.
 
 petra bomb is a jungle and techno artist based in United Kingdom, with 2 gigs on soundcheck across Bristol and Manchester. Often billed alongside 3DMA, Brother of Set and Dani Whylie. Next up: The Loco Klub, Bristol on Sat 31 Oct.
 
@@ -15,4 +15,4 @@ petra bomb is a jungle and techno artist based in United Kingdom, with 2 gigs on
 
 3DMA, Brother of Set, Dani Whylie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petrabomb/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petrabomb/)*

@@ -1,6 +1,6 @@
 # fabric Johannesburg: HAAi, Midland, Daniel Avery, Desiree + more at Carfax
 
-fabric Johannesburg: HAAi, Midland, Daniel Avery, Desiree + more at Carfax on Fri 15 Jan, Johannesburg. 4 artists: Daniel Avery, DESIREE (RSA), HAAi and Midland. See the line-up on soundcheck.
+fabric Johannesburg: HAAi, Midland, Daniel Avery, Desiree + more at Carfax on Fri 15 Jan, Johannesburg. 5 artists: Daniel Avery, DESIREE (RSA), Ellen Allien and HAAi and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ fabric Johannesburg: HAAi, Midland, Daniel Avery, Desiree + more at Carfax on Fr
 
 - Daniel Avery
 - DESIREE (RSA)
+- Ellen Allien
 - HAAi
 - Midland
 

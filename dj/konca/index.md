@@ -1,6 +1,6 @@
 # Konca
 
-Konca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 7 Nov 2026.
+Konca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Moon Warsaw, Warsaw on Sat, 7 Nov 2026.
 
 Konca is a house and techno artist based in Poland, with 33 gigs on soundcheck across Warsaw. Often billed alongside Kuvau, Angelo Mike and NuCasa. Next up: Moon Warsaw, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Konca is a house and techno artist based in Poland, with 33 gigs on soundcheck a
 
 Kuvau, Angelo Mike, NuCasa
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konca/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konca/)*

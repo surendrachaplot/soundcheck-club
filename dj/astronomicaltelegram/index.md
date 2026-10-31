@@ -1,6 +1,6 @@
 # Astronomical Telegram
 
-Astronomical Telegram is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Sonorama, Medellin on Sun, 1 Nov 2026.
+Astronomical Telegram is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sonorama, Medellin on Sun, 1 Nov 2026.
 
 Astronomical Telegram is a techno and ambient artist, with 11 gigs on soundcheck across Medellin. Often billed alongside GHERAN, Sons Of Hidden and Agua. Next up: Sonorama, Medellin on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Astronomical Telegram is a techno and ambient artist, with 11 gigs on soundcheck
 
 GHERAN, Sons Of Hidden, Agua
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astronomicaltelegram/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astronomicaltelegram/)*

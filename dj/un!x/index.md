@@ -1,6 +1,6 @@
 # UN!X
 
-UN!X is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Speaker Box Live House, Thailand on Sat, 31 Oct 2026.
+UN!X is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Speaker Box Live House, Thailand on Sat, 31 Oct 2026.
 
 UN!X is a house and techno artist based in Thailand, with 55 gigs on soundcheck across Bangkok, Ho Chi Minh City, Hong Kong and Shanghai and 1 more. Often billed alongside PPOINT, Yorsab and Virion. Next up: Speaker Box Live House, Thailand on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ UN!X is a house and techno artist based in Thailand, with 55 gigs on soundcheck 
 
 ## Recently played
 
+- Horn, Bangkok · Fri, 30 Oct 2026
 - Dirty Rabbit Hidden Bar, Bangkok · Sat, 8 Aug 2026
 - Bar Temp., Bangkok · Wed, 8 Jul 2026
 - Horn, Bangkok · Sat, 30 May 2026
@@ -20,10 +21,9 @@ UN!X is a house and techno artist based in Thailand, with 55 gigs on soundcheck 
 - TBA - The Wireless Club, Bangkok · Fri, 24 Apr 2026
 - Dirty Rabbit Hidden Bar, Bangkok · Fri, 24 Apr 2026
 - Horn, Bangkok · Fri, 20 Feb 2026
-- Clutch, Warehouse Bangkok, Bangkok · Fri, 6 Feb 2026
 
 ## Shares bills with
 
 PPOINT, Yorsab, Virion
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/un!x/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/un!x/)*

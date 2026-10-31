@@ -1,6 +1,6 @@
 # Myriam
 
-Myriam is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
+Myriam is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - East London Location TBA, London on Sat, 7 Nov 2026.
 
 Myriam is a minimal and minimal techno artist based in Lebanon, with 82 gigs on soundcheck across London and New York City. Often billed alongside LUUD, Ludgero Costa and Kesh. Next up: TBA - East London Location TBA, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Myriam is a minimal and minimal techno artist based in Lebanon, with 82 gigs on 
 
 LUUD, Ludgero Costa, Kesh (1)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myriam/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/myriam/)*

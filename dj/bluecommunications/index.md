@@ -1,6 +1,6 @@
 # Blue Communications
 
-Blue Communications is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Thornbury Theatre, Melbourne on Sat, 31 Oct 2026.
+Blue Communications is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Thornbury Theatre, Melbourne on Sat, 31 Oct 2026.
 
 Blue Communications is a house and disco artist based in Australia, with 5 gigs on soundcheck across Melbourne and New South Wales. Often billed alongside Aarti Jadu, AceMo and Bridget Small. Next up: Thornbury Theatre, Melbourne on Sat 31 Oct.
 
@@ -18,4 +18,4 @@ Blue Communications is a house and disco artist based in Australia, with 5 gigs 
 
 Aarti Jadu, AceMo, Bridget Small (2)
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommunications/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommunications/)*

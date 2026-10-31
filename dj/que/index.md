@@ -1,6 +1,6 @@
 # qUE
 
-qUE is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at COUNTER CLUB, Tokyo on Sat, 7 Nov 2026.
+qUE is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at COUNTER CLUB, Tokyo on Sat, 7 Nov 2026.
 
 qUE is a house and hip-hop artist based in United Kingdom, with 12 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside 5harpy, Conan and Glico. Next up: COUNTER CLUB, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ qUE is a house and hip-hop artist based in United Kingdom, with 12 gigs on sound
 
 5harpy, Conan, Glico
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/que/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/que/)*

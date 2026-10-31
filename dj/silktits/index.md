@@ -1,6 +1,6 @@
 # Silktits
 
-Silktits is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at La Récré, Montreal on Fri, 27 Nov 2026.
+Silktits is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Récré, Montreal on Fri, 27 Nov 2026.
 
 Silktits is a house and balearic artist, with 38 gigs on soundcheck across Detroit, Mexico City, Montreal and New York City and 1 more. Often billed alongside somebody3lse, Alina (MTL) and DJ Hidi. Next up: La Récré, Montreal on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Silktits is a house and balearic artist, with 38 gigs on soundcheck across Detro
 
 somebody3lse, Alina (MTL), DJ Hidi
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silktits/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/silktits/)*

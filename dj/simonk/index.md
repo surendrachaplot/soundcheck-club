@@ -1,6 +1,6 @@
 # Simon K
 
-Simon K is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Macarena Club, Barcelona on Fri, 6 Nov 2026.
+Simon K is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Macarena Club, Barcelona on Fri, 6 Nov 2026.
 
 Simon K is a hardcore and gabber artist, with 13 gigs on soundcheck across Barcelona, Berlin and Frankfurt. Often billed alongside Simone Adinolfi, Ulatowski and MNZR. Next up: Macarena Club, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Simon K is a hardcore and gabber artist, with 13 gigs on soundcheck across Barce
 
 Simone Adinolfi, Ulatowski, MNZR
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonk/)*

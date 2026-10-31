@@ -1,6 +1,6 @@
 # TRU:L
 
-TRU:L is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 7 Nov 2026.
+TRU:L is a House and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Acud Macht NEU, Berlin on Sat, 7 Nov 2026.
 
 TRU:L is a house and afrobeat artist based in Romania, with 32 gigs on soundcheck across Berlin and Brussels. Often billed alongside Ken Okuda, Sarah Farina and Aaronovsky. Next up: Acud Macht NEU, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ TRU:L is a house and afrobeat artist based in Romania, with 32 gigs on soundchec
 
 Ken Okuda, Sarah Farina, Aaronovsky
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trul/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/trul/)*

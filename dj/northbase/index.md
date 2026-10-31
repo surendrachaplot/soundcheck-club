@@ -1,6 +1,6 @@
 # North Base
 
-North Base is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
+North Base is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
 
 North Base is a drum & bass and jungle artist based in United Kingdom, with 31 gigs on soundcheck across Birmingham, Leeds, London and Manchester and 2 more. Often billed alongside Bou (UK), Hedex and Mark XTC. Next up: Rebellion, Manchester on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ North Base is a drum & bass and jungle artist based in United Kingdom, with 31 g
 
 Bou (UK), Hedex, Mark XTC
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/northbase/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/northbase/)*

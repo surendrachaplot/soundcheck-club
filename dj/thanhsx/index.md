@@ -1,6 +1,6 @@
 # Thanhsx
 
-Thanhsx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 21 Nov 2026.
+Thanhsx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 21 Nov 2026.
 
 Thanhsx is a house and techno artist based in Italy, with 11 gigs on soundcheck across Milan. Often billed alongside Kingsizebed, 131bpm and R.ocks. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Thanhsx is a house and techno artist based in Italy, with 11 gigs on soundcheck 
 
 Kingsizebed, 131bpm, R.ocks
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thanhsx/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thanhsx/)*

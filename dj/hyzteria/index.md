@@ -1,6 +1,6 @@
 # Hyzteria
 
-Hyzteria is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Egg London, London on Sat, 31 Oct 2026.
+Hyzteria is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Egg London, London on Sat, 31 Oct 2026.
 
 Hyzteria is a house and tech house artist, with 41 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Sammy Porter, Charlotte Van de Peer and George Mensah. Next up: Egg London, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Hyzteria is a house and tech house artist, with 41 gigs on soundcheck across Ibi
 
 Sammy Porter, Charlotte Van de Peer, George Mensah
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyzteria/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hyzteria/)*

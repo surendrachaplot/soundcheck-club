@@ -1,6 +1,6 @@
 # Ne/Re/A
 
-Ne/Re/A is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
+Ne/Re/A is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 30 Oct 2026.
 
 Ne/Re/A is a techno and house artist based in United States of America, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 9 more. Often billed alongside Clarisa Kimskii, Juana and Auspex. Next up: TBA - Brooklyn, New York City on Fri 30 Oct.
 
@@ -13,6 +13,7 @@ Ne/Re/A is a techno and house artist based in United States of America, with 100
 
 ## Recently played
 
+- TBA - Brooklyn, New York City · Fri, 30 Oct 2026
 - TBA - Brooklyn, New York City · Fri, 18 Sept 2026
 - Moog Club, Barcelona · Wed, 9 Sept 2026
 - Nowadays, New York City · Sat, 29 Aug 2026
@@ -20,10 +21,9 @@ Ne/Re/A is a techno and house artist based in United States of America, with 100
 - BASEMENT, New York City · Sat, 1 Aug 2026
 - TBA - Brooklyn, New York City · Fri, 17 Jul 2026
 - RADION, Amsterdam · Sat, 4 Jul 2026
-- TBA - Brooklyn, New York City · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Clarisa Kimskii, Juana, Auspex
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerea/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nerea/)*

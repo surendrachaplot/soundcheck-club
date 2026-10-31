@@ -1,6 +1,6 @@
 # My Gander
 
-My Gander is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The Villa, Oslo on Fri, 6 Nov 2026.
+My Gander is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Villa, Oslo on Fri, 6 Nov 2026.
 
 My Gander is a trance and techno artist based in Sweden, with 30 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 5 more. Often billed alongside Matriark, Araknyl and Jidder. Next up: The Villa, Oslo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ My Gander is a trance and techno artist based in Sweden, with 30 gigs on soundch
 
 Matriark, Araknyl, Jidder
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mygander-se/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mygander-se/)*

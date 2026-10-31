@@ -1,18 +1,18 @@
 # BUSSI
 
-BUSSI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Giri, Berlin on Fri, 30 Oct 2026.
+BUSSI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
 
-BUSSI is a techno and house artist based in Turkey, with 39 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dubai and 3 more. Often billed alongside ONNI, Ozarc and FEVZEE. Next up: Giri, Berlin on Fri 30 Oct.
+BUSSI is a techno and house artist based in Turkey, with 39 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dubai and 3 more. Often billed alongside ONNI, Ozarc and FEVZEE. Next up: Kater, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Giri | Berlin |
 | Sat, 14 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 
+- Giri, Berlin · Fri, 30 Oct 2026
 - Klein Phönix, Istanbul · Sat, 10 Oct 2026
 - Bahnwärter Thiel, Munich · Thu, 20 Aug 2026
 - Gestrandet An Der Jannowitzbrücke, Berlin · Sat, 15 Aug 2026
@@ -20,10 +20,9 @@ BUSSI is a techno and house artist based in Turkey, with 39 gigs on soundcheck a
 - Crack Bellmer, Berlin · Thu, 7 May 2026
 - Astra Kulturhaus, Berlin · Fri, 1 May 2026
 - Birgit, Berlin · Fri, 24 Apr 2026
-- Renate, Berlin · Thu, 26 Feb 2026
 
 ## Shares bills with
 
 ONNI, Ozarc, FEVZEE
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bussi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bussi/)*

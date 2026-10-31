@@ -1,6 +1,6 @@
 # thevodka
 
-thevodka is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Wejscie 3, Lodz on Fri, 6 Nov 2026.
+thevodka is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Wejscie 3, Lodz on Fri, 6 Nov 2026.
 
 thevodka is a trance and techno artist, with 15 gigs on soundcheck across Krakow, Lodz, Warsaw and Wroclaw. Often billed alongside ADHARDER, AZDRA and Theviacya. Next up: Wejscie 3, Lodz on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ thevodka is a trance and techno artist, with 15 gigs on soundcheck across Krakow
 
 ADHARDER, AZDRA, Theviacya
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thevodka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thevodka/)*

@@ -1,6 +1,6 @@
 # Zehn.
 
-Zehn. is a Dub Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Audiofficina - HI-FI Corner, Milan on Sat, 14 Nov 2026.
+Zehn. is a Dub Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Audiofficina - HI-FI Corner, Milan on Sat, 14 Nov 2026.
 
 Zehn. is a dub techno and minimal techno artist based in Italy, with 24 gigs on soundcheck across Athens, Milan and Rome. Often billed alongside Tomahs., Lorenzo LSP and Pabie. Next up: Audiofficina - HI-FI Corner, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zehn. is a dub techno and minimal techno artist based in Italy, with 24 gigs on 
 
 Tomahs., Lorenzo LSP, Pabie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zehn./)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zehn./)*

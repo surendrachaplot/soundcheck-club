@@ -1,6 +1,6 @@
 # NIKS
 
-NIKS is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at OHM, Berlin on Sat, 31 Oct 2026.
+NIKS is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at OHM, Berlin on Sat, 31 Oct 2026.
 
 NIKS is a house and techno artist based in United Kingdom, with 170 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Amaliah, Josh Caffé and Moxie. Next up: OHM, Berlin on Sat 31 Oct.
 
@@ -30,4 +30,4 @@ NIKS is a house and techno artist based in United Kingdom, with 170 gigs on soun
 
 Amaliah, Josh Caffé, Moxie
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niks/)*

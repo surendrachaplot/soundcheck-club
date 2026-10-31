@@ -1,6 +1,6 @@
 # felix (2)
 
-felix (2) is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TAG Culture Rome, Rome on Sat, 31 Oct 2026.
+felix (2) is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TAG Culture Rome, Rome on Sat, 31 Oct 2026.
 
 felix is a techno and ghetto tech artist based in Switzerland, with 10 gigs on soundcheck across Berlin, Brisbane, Budapest and Frankfurt and 3 more. Often billed alongside (NOT) XCESS, Akoriz and Alexander Aurel. Next up: TAG Culture Rome, Rome on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ felix is a techno and ghetto tech artist based in Switzerland, with 10 gigs on s
 
 (NOT) XCESS, Akoriz, Alexander Aurel
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felix-2/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felix-2/)*

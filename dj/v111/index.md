@@ -1,6 +1,6 @@
 # V111
 
-V111 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Tenax, Florence on Sat, 14 Nov 2026.
+V111 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Tenax, Florence on Sat, 14 Nov 2026.
 
 V111 is a techno and electro artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Florence, Ibiza and London and 3 more. Often billed alongside ANKKH, Mattia Trani and Gianni Di Bernardo. Next up: Tenax, Florence on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ V111 is a techno and electro artist based in Italy, with 18 gigs on soundcheck a
 
 ANKKH, Mattia Trani, Gianni Di Bernardo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v111/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/v111/)*

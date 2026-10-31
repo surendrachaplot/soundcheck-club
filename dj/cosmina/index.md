@@ -1,6 +1,6 @@
 # Cosmina
 
-Cosmina is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
+Cosmina is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
 
 Cosmina is a minimal and house artist, with 13 gigs on soundcheck across Birmingham, Bucharest, Copenhagen and Liverpool and 3 more. Often billed alongside BILA, Mihnea Rog and CEZAR. Next up: Club Guesthouse, Bucharest on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Cosmina is a minimal and house artist, with 13 gigs on soundcheck across Birming
 
 BILA, Mihnea Rog, CEZAR
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmina/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmina/)*

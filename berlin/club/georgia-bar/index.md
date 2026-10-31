@@ -1,14 +1,13 @@
 # Georgia Bar
 
-Georgia Bar is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "SUNCHILD & APOLONIA" on Fri, 30 Oct 2026.
+Georgia Bar is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ZIA" on Sat, 31 Oct 2026.
 
-Georgia Bar is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Guiddo, MiiSCHA and Radial Gaze. See dates, start times and who's playing. Georgenstraße 194, 10117 Berlin, Germany.
+Georgia Bar is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Guiddo, MiiSCHA and Radial Gaze. See dates, start times and who's playing. Georgenstraße 194, 10117 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | SUNCHILD & APOLONIA |  |
 | Sat, 31 Oct 2026 | ZIA |  |
 | Sat, 7 Nov 2026 | Everything is O.K. Collective presents MiiSCHA, Tomasz Guiddo & Radial Gaze (SPECIAL GUEST) | Guiddo, MiiSCHA, Radial Gaze |
 
@@ -16,4 +15,4 @@ Georgia Bar is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wi
 
 Georgenstraße 194, 10117 Berlin, Germany, Berlin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*

@@ -1,6 +1,6 @@
 # Temple Bar
 
-Temple Bar is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "BMR: HONEYMOON HALLOWEEN" on Sat, 31 Oct 2026.
+Temple Bar is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BMR: HONEYMOON HALLOWEEN" on Sat, 31 Oct 2026.
 
 Temple Bar is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Ameera, Ginger Snap, Joseph Fakih and saylem celeste. See dates, start times and who's playing. 2906 Cass Avenue. Detroit, MI 48201-2636.
 
@@ -15,4 +15,4 @@ Temple Bar is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, wi
 
 2906 Cass Avenue. Detroit, MI 48201-2636, Detroit
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/temple-bar/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/temple-bar/)*

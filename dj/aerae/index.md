@@ -1,6 +1,6 @@
 # AERAE
 
-AERAE is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
+AERAE is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Shunter, Rotterdam on Fri, 27 Nov 2026.
 
 AERAE is a techno and drum & bass artist based in France, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 17 more. Often billed alongside upsammy, Aaron J and Konduku. Next up: Shunter, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ AERAE is a techno and drum & bass artist based in France, with 31 gigs on soundc
 
 upsammy, Aaron J, Konduku
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerae/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aerae/)*

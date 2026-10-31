@@ -1,14 +1,13 @@
 # Le Makeda
 
-Le Makeda is a music venue in Marseille with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Pop Porn" on Fri, 30 Oct 2026.
+Le Makeda is a music venue in Marseille with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "La Wo dj set spécial halloween" on Sat, 31 Oct 2026.
 
-Le Makeda is a music venue in Marseille listed on soundcheck. 8 upcoming gigs. See dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
+Le Makeda is a music venue in Marseille listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. 103, rue Ferrari 13005 Marseille.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Pop Porn |  |
 | Sat, 31 Oct 2026 | La Wo dj set spécial halloween |  |
 | Fri, 6 Nov 2026 | Sunshine people |  |
 | Sat, 7 Nov 2026 | La Boum du Samedi (Novembre) |  |
@@ -21,4 +20,4 @@ Le Makeda is a music venue in Marseille listed on soundcheck. 8 upcoming gigs. S
 
 103, rue Ferrari 13005 Marseille, Marseille
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/le-makeda/)*

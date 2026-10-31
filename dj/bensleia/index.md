@@ -1,6 +1,6 @@
 # Ben Sleia
 
-Ben Sleia is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Panke, Berlin on Fri, 27 Nov 2026.
+Ben Sleia is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Panke, Berlin on Fri, 27 Nov 2026.
 
 Ben Sleia is a bass and house artist, with 31 gigs on soundcheck across Berlin, Bristol, Brussels and Leipzig and 2 more. Often billed alongside kawasaki2000, Denham Audio and Freigeist. Next up: Panke, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Ben Sleia is a bass and house artist, with 31 gigs on soundcheck across Berlin, 
 
 kawasaki2000, Denham Audio, Freigeist
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensleia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensleia/)*

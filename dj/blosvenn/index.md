@@ -1,6 +1,6 @@
 # Blosvenn
 
-Blosvenn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
+Blosvenn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
 
 Blosvenn is a techno and trance artist based in Germany, with 12 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside BAHAA AL DEEN, NYCTO and SURCO. Next up: Siggi, Brandenburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Blosvenn is a techno and trance artist based in Germany, with 12 gigs on soundch
 
 BAHAA AL DEEN, NYCTO, SURCO
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blosvenn/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/blosvenn/)*

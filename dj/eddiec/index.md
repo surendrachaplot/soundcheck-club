@@ -1,6 +1,6 @@
 # Eddie C
 
-Eddie C is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bambi's, Toronto on Sat, 14 Nov 2026.
+Eddie C is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bambi's, Toronto on Sat, 14 Nov 2026.
 
 Eddie C is a house and disco artist based in Canada, with 57 gigs on soundcheck across Adelaide, Austin, Baltimore and Detroit and 18 more. Often billed alongside Anthony Mansfield, Kiki LeFreak and Andy Warren. Next up: Bambi's, Toronto on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Eddie C is a house and disco artist based in Canada, with 57 gigs on soundcheck 
 
 Anthony Mansfield, Kiki LeFreak, Andy Warren
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiec/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiec/)*

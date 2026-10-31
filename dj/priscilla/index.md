@@ -1,6 +1,6 @@
 # Priscilla
 
-Priscilla is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Phonox, London on Thu, 12 Nov 2026.
+Priscilla is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Phonox, London on Thu, 12 Nov 2026.
 
 Priscilla is a house and jungle artist, with 14 gigs on soundcheck across London, New York City, San Francisco/Oakland and Zurich. Often billed alongside Chinese Daughter, Darkstepper and H3L3NA. Next up: Phonox, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Priscilla is a house and jungle artist, with 14 gigs on soundcheck across London
 
 Chinese Daughter, Darkstepper, H3L3NA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/priscilla/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/priscilla/)*

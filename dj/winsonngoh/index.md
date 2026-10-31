@@ -1,6 +1,6 @@
 # Winson Ngoh
 
-Winson Ngoh is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Leopardstown Racecourse, Dublin on Fri, 30 Oct 2026.
+Winson Ngoh is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Leopardstown Racecourse, Dublin on Fri, 30 Oct 2026.
 
 Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 28 more. Often billed alongside KUKO, Fantasm and KLOFAMA. Next up: Leopardstown Racecourse, Dublin on Fri 30 Oct.
 
@@ -19,6 +19,7 @@ Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs
 
 ## Recently played
 
+- Leopardstown Racecourse, Dublin · Fri, 30 Oct 2026
 - Afas Live, Amsterdam · Sun, 25 Oct 2026
 - TBA, Ireland · Sat, 24 Oct 2026
 - TBA, Leipzig · Sat, 17 Oct 2026
@@ -26,10 +27,9 @@ Winson Ngoh is a techno and industrial artist based in Netherlands, with 43 gigs
 - Gateshead International Stadium, Newcastle · Sat, 26 Sept 2026
 - IFEMA, Madrid · Fri, 25 Sept 2026
 - TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City · Sat, 19 Sept 2026
-- Radius, Chicago · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 KUKO, Fantasm, KLOFAMA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winsonngoh/)*

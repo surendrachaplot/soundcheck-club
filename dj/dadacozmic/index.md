@@ -1,6 +1,6 @@
 # DADA COZMIC
 
-DADA COZMIC is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Xanadu, New York City on Thu, 5 Nov 2026.
+DADA COZMIC is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Xanadu, New York City on Thu, 5 Nov 2026.
 
 DADA COZMIC is a reggaeton and club artist based in United States of America, with 54 gigs on soundcheck across New York City. Often billed alongside DJ Ultra Violet, Dana Lu and Donis. Next up: Xanadu, New York City on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ DADA COZMIC is a reggaeton and club artist based in United States of America, wi
 
 DJ Ultra Violet, Dana Lu, Donis
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadacozmic/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dadacozmic/)*

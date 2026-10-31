@@ -1,6 +1,6 @@
 # Northern Lights Lounge
 
-Northern Lights Lounge is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Alternative School presents: Open Enrollment (Open Decks)" on Thu, 5 Nov 2026.
+Northern Lights Lounge is a music venue in Detroit with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Alternative School presents: Open Enrollment (Open Decks)" on Thu, 5 Nov 2026.
 
 Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 4 upcoming gigs, with line-ups including Ameera, Glenn Underground, SKY JETTA and Turtle Bugg. See dates, start times and who's playing. 660 W. Baltimore Street; Detroit, MI 48202; United States.
 
@@ -17,4 +17,4 @@ Northern Lights Lounge is a music venue in Detroit listed on soundcheck. 4 upcom
 
 660 W. Baltimore Street; Detroit, MI 48202; United States, Detroit
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/northern-lights-lounge/)*

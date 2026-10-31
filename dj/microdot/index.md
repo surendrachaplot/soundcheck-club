@@ -1,6 +1,6 @@
 # Microdot
 
-Microdot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Indigo Mrkto, Chicago on Sat, 14 Nov 2026.
+Microdot is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Indigo Mrkto, Chicago on Sat, 14 Nov 2026.
 
 Microdot is a techno and house artist based in United States of America, with 79 gigs on soundcheck across Chicago, Detroit, London and Los Angeles and 1 more. Often billed alongside Aaron Chase, Blu9 and LADIESMAN. Next up: Indigo Mrkto, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Microdot is a techno and house artist based in United States of America, with 79
 
 Aaron Chase, Blu9, LADIESMAN
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microdot/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/microdot/)*

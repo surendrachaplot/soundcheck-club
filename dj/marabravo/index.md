@@ -1,6 +1,6 @@
 # MARA BRAVO
 
-MARA BRAVO is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Kowalski, Stuttgart on Fri, 13 Nov 2026.
+MARA BRAVO is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kowalski, Stuttgart on Fri, 13 Nov 2026.
 
 MARA BRAVO is an afro house and techno artist based in Spain, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Frankfurt and 4 more. Often billed alongside Lupe Republic, Cucut and ERRANT. Next up: Kowalski, Stuttgart on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ MARA BRAVO is an afro house and techno artist based in Spain, with 71 gigs on so
 
 Lupe Republic, Cucut, ERRANT
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marabravo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marabravo/)*

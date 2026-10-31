@@ -1,14 +1,13 @@
 # BENITO (DE)
 
-BENITO (DE) is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Absturz, Leipzig on Fri, 30 Oct 2026.
+BENITO (DE) is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
 
-BENITO (DE) is a trance and techno artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Dresden and Erfurt and 3 more. Often billed alongside Limoncello, Amo (IT) and BRTLGR. Next up: Absturz, Leipzig on Fri 30 Oct.
+BENITO (DE) is a trance and techno artist based in Germany, with 38 gigs on soundcheck across Amsterdam, Berlin, Dresden and Erfurt and 3 more. Often billed alongside Limoncello, Amo (IT) and BRTLGR. Next up: Kalif Storch, Erfurt on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Absturz | Leipzig |
 | Sat, 7 Nov 2026 | Kalif Storch | Erfurt |
 | Fri, 13 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 5 Dec 2026 | ://about blank | Berlin |
@@ -16,6 +15,7 @@ BENITO (DE) is a trance and techno artist based in Germany, with 38 gigs on soun
 
 ## Recently played
 
+- Absturz, Leipzig · Fri, 30 Oct 2026
 - PKH Warehouse, Berlin · Fri, 2 Oct 2026
 - Fundbureau, Hamburg · Sat, 5 Sept 2026
 - Skatecafe, Amsterdam · Sat, 29 Aug 2026
@@ -23,10 +23,9 @@ BENITO (DE) is a trance and techno artist based in Germany, with 38 gigs on soun
 - TBA - Leipzig Neue Messe, Leipzig · Sat, 18 Jul 2026
 - Absturz, Leipzig · Fri, 17 Jul 2026
 - Lokschuppen Berlin, Berlin · Sun, 12 Jul 2026
-- Lokschuppen Berlin, Berlin · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Limoncello, Amo (IT), BRTLGR
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benito-de/)*

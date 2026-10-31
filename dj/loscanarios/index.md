@@ -1,6 +1,6 @@
 # Los Canarios
 
-Los Canarios is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Los Canarios is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Los Canarios is a tech house and house artist based in Spain, with 26 gigs on soundcheck across Austria, Barcelona, Belgrade and Ibiza and 3 more. Often billed alongside BizZa, Fran Hernandez and Classmatic. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Los Canarios is a tech house and house artist based in Spain, with 26 gigs on so
 
 BizZa, Fran Hernandez, Classmatic
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loscanarios/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loscanarios/)*

@@ -1,19 +1,19 @@
 # GHOST DE
 
-GHOST DE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Void Club, Berlin on Fri, 30 Oct 2026.
+GHOST DE is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
 
-GHOST DE is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Berlin, Munich and Zurich. Often billed alongside Rob Robsen, DJ Jordan and Klipp&Klar. Next up: Void Club, Berlin on Fri 30 Oct.
+GHOST DE is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Berlin, Munich and Zurich. Often billed alongside Rob Robsen, DJ Jordan and Klipp&Klar. Next up: Void Club, Berlin on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Void Club | Berlin |
 | Fri, 11 Dec 2026 | Void Club | Berlin |
 | Fri, 11 Dec 2026 | Void Club | Berlin |
 
 ## Recently played
 
+- Void Club, Berlin · Fri, 30 Oct 2026
 - Void Club, Berlin · Sat, 15 Aug 2026
 - Void Club, Berlin · Fri, 17 Jul 2026
 - Der Weiße Hase, Berlin · Fri, 3 Jul 2026
@@ -21,10 +21,9 @@ GHOST DE is a techno and trance artist based in Germany, with 52 gigs on soundch
 - AMT, Berlin · Sat, 2 May 2026
 - Void Club, Berlin · Sat, 18 Apr 2026
 - Top Disco, Berlin · Fri, 10 Apr 2026
-- AMT, Berlin · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Rob Robsen, DJ Jordan, Klipp&Klar
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostde/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostde/)*

@@ -1,6 +1,6 @@
 # Resy
 
-Resy is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Seoul Community Radio, Seoul on Sat, 31 Oct 2026.
+Resy is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Seoul Community Radio, Seoul on Sat, 31 Oct 2026.
 
 Resy is a house and afro house artist, with 10 gigs on soundcheck across Detroit, New York City, Philadelphia and Portland and 2 more. Often billed alongside ARTST, Apachi and Arondight. Next up: Seoul Community Radio, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Resy is a house and afro house artist, with 10 gigs on soundcheck across Detroit
 
 ARTST, Apachi, Arondight
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resy/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/resy/)*

@@ -1,14 +1,13 @@
 # Silbergold
 
-Silbergold is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "RE:CREATE" on Fri, 30 Oct 2026.
+Silbergold is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "THE D.I.P. HALLOWEEN HAUNTED HOUSE" on Sat, 31 Oct 2026.
 
-Silbergold is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, with line-ups including Chris Beulich, David Böning, eira haul and Fabrizio Mammarella and 2 more. See dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
+Silbergold is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including David Böning, Fabrizio Mammarella, Ido Toledano and Max Buchalik. See dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | RE:CREATE | Chris Beulich, Nico Gregori, eira haul |
 | Sat, 31 Oct 2026 | THE D.I.P. HALLOWEEN HAUNTED HOUSE | David Böning, Ido Toledano |
 | Fri, 6 Nov 2026 | YES | Fabrizio Mammarella, Max Buchalik |
 
@@ -16,4 +15,4 @@ Silbergold is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, 
 
 Heiligkreuzgasse 22; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*

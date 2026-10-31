@@ -1,6 +1,6 @@
 # Síofra
 
-Síofra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at block., Dublin on Sat, 31 Oct 2026.
+Síofra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at block., Dublin on Sat, 31 Oct 2026.
 
 Síofra is a techno and house artist based in Ireland, with 81 gigs on soundcheck across Belfast, Berlin, Bologna and Copenhagen and 9 more. Often billed alongside Lucky Lube, Mark Gill and Popmix. Next up: block., Dublin on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Síofra is a techno and house artist based in Ireland, with 81 gigs on soundchec
 
 Lucky Lube, Mark Gill, Popmix
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siofra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/siofra/)*

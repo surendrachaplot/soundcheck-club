@@ -1,6 +1,6 @@
 # ANNYAH
 
-ANNYAH is a Drum & Bass and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at C.S.A. Intifada, Rome on Sat, 7 Nov 2026.
+ANNYAH is a Drum & Bass and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at C.S.A. Intifada, Rome on Sat, 7 Nov 2026.
 
 ANNYAH is a drum & bass and industrial artist based in Italy, with 14 gigs on soundcheck across Rome. Often billed alongside NIKENINJA, Lørenzø Cøluccia and Bliviøn. Next up: C.S.A. Intifada, Rome on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ANNYAH is a drum & bass and industrial artist based in Italy, with 14 gigs on so
 
 NIKENINJA, Lørenzø Cøluccia, Bliviøn
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annyah/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annyah/)*

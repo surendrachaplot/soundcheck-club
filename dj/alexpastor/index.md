@@ -1,6 +1,6 @@
 # Alex Pastor
 
-Alex Pastor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - IYKYK , Los Angeles on Thu, 31 Dec 2026.
+Alex Pastor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - IYKYK , Los Angeles on Thu, 31 Dec 2026.
 
 Alex Pastor is a house and techno artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Bologna, Boston and Chicago and 12 more. Often billed alongside Kev Gee, Connor Mikami and John Patrick. Next up: TBA - IYKYK , Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Alex Pastor is a house and techno artist based in United States of America, with
 
 Kev Gee, Connor Mikami, John Patrick
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastor/)*

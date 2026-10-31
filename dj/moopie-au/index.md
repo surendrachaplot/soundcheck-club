@@ -1,6 +1,6 @@
 # Moopie
 
-Moopie is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Moopie is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
 Moopie is a house and techno artist based in Australia, with 230 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
@@ -23,6 +23,7 @@ Moopie is a house and techno artist based in Australia, with 230 gigs on soundch
 
 ## Recently played
 
+- Angel Music Bar, Melbourne · Fri, 30 Oct 2026
 - Lofi, Amsterdam · Sun, 25 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Sat, 24 Oct 2026
 - Klaproos, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ Moopie is a house and techno artist based in Australia, with 230 gigs on soundch
 - Under Bron, Stockholm · Fri, 16 Oct 2026
 - Under Bron, Stockholm · Fri, 16 Oct 2026
 - Nowadays, New York City · Sat, 10 Oct 2026
-- Miscellania, Melbourne · Mon, 5 Oct 2026
 
 ## Shares bills with
 
 Kia (AU), Emelyne, Hannah D
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

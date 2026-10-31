@@ -1,6 +1,6 @@
 # Uri Callejo
 
-Uri Callejo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at The lab Barcelona, Barcelona on Sat, 7 Nov 2026.
+Uri Callejo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The lab Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 Uri Callejo is a techno and house artist based in Spain, with 53 gigs on soundcheck across Barcelona. Often billed alongside Elwei, Saulo Pisa and Hernán Lagos. Next up: The lab Barcelona, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Uri Callejo is a techno and house artist based in Spain, with 53 gigs on soundch
 
 Elwei, Saulo Pisa, Hernán Lagos
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uricallejo/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/uricallejo/)*

@@ -1,6 +1,6 @@
 # séa (BE)
 
-séa (BE) is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
+séa (BE) is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
 
 séa (BE) is a house and trance artist based in Belgium, with 35 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside Bibi Seck, BAVR and Kenny Montana. Next up: Brussels Gate, Brussels on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ séa (BE) is a house and trance artist based in Belgium, with 35 gigs on soundch
 
 Bibi Seck, BAVR, Kenny Montana
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sea-be/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sea-be/)*

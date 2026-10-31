@@ -1,6 +1,6 @@
 # Wrisk
 
-Wrisk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Fruitmarket, Edinburgh on Sat, 14 Nov 2026.
+Wrisk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Fruitmarket, Edinburgh on Sat, 14 Nov 2026.
 
 Wrisk is a techno and hardcore artist based in United Kingdom, with 79 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside DV60, Smiff and Sea Urchin. Next up: Fruitmarket, Edinburgh on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Wrisk is a techno and hardcore artist based in United Kingdom, with 79 gigs on s
 
 DV60, Smiff, Sea Urchin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wrisk/)*

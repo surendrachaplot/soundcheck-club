@@ -1,8 +1,8 @@
 # Nissa Carrington
 
-Nissa Carrington is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 31 Oct 2026.
+Nissa Carrington is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 31 Oct 2026.
 
-Nissa Carrington is a bass and club artist, with 38 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 2 more. Often billed alongside yung_womb, Slimgirl fat and SLIC Unit. Next up: Bossa Nova Civic Club, New York City on Sat 31 Oct.
+Nissa Carrington is a bass and club artist, with 39 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 2 more. Often billed alongside yung_womb, SLIC Unit and Slimgirl fat. Next up: Bossa Nova Civic Club, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nissa Carrington is a bass and club artist, with 38 gigs on soundcheck across Be
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Thu, 5 Nov 2026 | Mood Ring | New York City |
+| Sat, 28 Nov 2026 | Golden Pudel Club | Hamburg |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Nissa Carrington is a bass and club artist, with 38 gigs on soundcheck across Be
 
 ## Shares bills with
 
-yung_womb, Slimgirl fat, SLIC Unit
+yung_womb, SLIC Unit, Slimgirl fat
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nissacarrington/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nissacarrington/)*

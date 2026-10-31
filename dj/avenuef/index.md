@@ -1,6 +1,6 @@
 # Avenue F
 
-Avenue F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 15 Nov 2026.
+Avenue F is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 15 Nov 2026.
 
 Avenue F is a house and techno artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Nema Hän, Drupe Jam and Max Sprauer. Next up: Bossa Nova Civic Club, New York City on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Avenue F is a house and techno artist based in United States of America, with 11
 
 Nema Hän, Drupe Jam, Max Sprauer
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avenuef/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avenuef/)*

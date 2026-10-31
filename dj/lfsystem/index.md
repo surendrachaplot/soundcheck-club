@@ -1,14 +1,13 @@
 # LF SYSTEM
 
-LF SYSTEM is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pygmalion, Dublin on Fri, 30 Oct 2026.
+LF SYSTEM is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at fabric, London on Fri, 20 Nov 2026.
 
-LF SYSTEM is a house and disco artist based in United Kingdom, with 144 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Austin and 44 more. Often billed alongside Sonny Fodera, Solardo and Eats Everything. Next up: Pygmalion, Dublin on Fri 30 Oct.
+LF SYSTEM is a house and disco artist based in United Kingdom, with 144 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Austin and 44 more. Often billed alongside Sonny Fodera, Solardo and Eats Everything. Next up: fabric, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Pygmalion | Dublin |
 | Fri, 20 Nov 2026 | fabric | London |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Fri, 27 Nov 2026 | The Prince Consort | Brisbane |
@@ -17,6 +16,7 @@ LF SYSTEM is a house and disco artist based in United Kingdom, with 144 gigs on 
 
 ## Recently played
 
+- Pygmalion, Dublin · Fri, 30 Oct 2026
 - Hï Ibiza, Ibiza · Fri, 9 Oct 2026
 - LDN East, London · Sat, 15 Aug 2026
 - Sub Club, Glasgow · Sun, 26 Jul 2026
@@ -24,10 +24,9 @@ LF SYSTEM is a house and disco artist based in United Kingdom, with 144 gigs on 
 - The Concourse Project, Austin · Thu, 25 Jun 2026
 - The Music Yard, Charlotte · Sat, 20 Jun 2026
 - Club Space Miami, Miami · Sat, 13 Jun 2026
-- Refuge, New York City · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Sonny Fodera, Solardo, Eats Everything
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lfsystem/)*

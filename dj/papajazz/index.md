@@ -1,6 +1,6 @@
 # papa jazz
 
-papa jazz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
+papa jazz is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
 
 papa jazz is a house and deep house artist based in Canada, with 109 gigs on soundcheck across Berlin, Guadalajara, London and Madrid and 4 more. Often billed alongside Rafatel, Barreto and Valeriana. Next up: TBA - Caleta - Dr. Atl 62, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ papa jazz is a house and deep house artist based in Canada, with 109 gigs on sou
 
 Rafatel, Barreto, Valeriana
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/papajazz/)*

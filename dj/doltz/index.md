@@ -1,6 +1,6 @@
 # Doltz
 
-Doltz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
+Doltz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
 
 Doltz is a techno and house artist, with 33 gigs on soundcheck across Athens, Barcelona, Berlin and Bristol and 13 more. Often billed alongside DJ Nobu, OCCA and Tobias.. Next up: Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu 11 Mar.
 
@@ -25,4 +25,4 @@ Doltz is a techno and house artist, with 33 gigs on soundcheck across Athens, Ba
 
 DJ Nobu, OCCA, Tobias.
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doltz/)*

@@ -1,6 +1,6 @@
 # EMCD
 
-EMCD is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 6 Nov 2026.
+EMCD is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 6 Nov 2026.
 
 EMCD is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Bangkok, Hanoi, Liverpool and Manchester and 2 more. Often billed alongside Deekline, 2Peas and Flakes. Next up: QQQ ST. Park, Melbourne on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ EMCD is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on
 
 Deekline, 2Peas, Flakes
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emcd/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emcd/)*

@@ -1,6 +1,6 @@
 # ASTER (DJ)
 
-ASTER (DJ) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Bootleg Bar NYC, New York City on Sat, 31 Oct 2026.
+ASTER (DJ) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bootleg Bar NYC, New York City on Sat, 31 Oct 2026.
 
 ASTER (DJ) is a trance and techno artist based in United States of America, with 47 gigs on soundcheck across New York City. Often billed alongside Lilflower, hans bas and fake.stan. Next up: Bootleg Bar NYC, New York City on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ ASTER (DJ) is a trance and techno artist based in United States of America, with
 
 Lilflower, hans bas, fake.stan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aster-dj/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aster-dj/)*

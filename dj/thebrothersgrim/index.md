@@ -1,6 +1,6 @@
 # The Brothers Grim
 
-The Brothers Grim is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 7 Nov 2026.
+The Brothers Grim is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 7 Nov 2026.
 
 The Brothers Grim is a techno and tech house artist based in Spain, with 12 gigs on soundcheck across Ibiza, London and Miami. Often billed alongside Jeremy Weeks, Man Power and AMPRS&ND. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ The Brothers Grim is a techno and tech house artist based in Spain, with 12 gigs
 
 Jeremy Weeks, Man Power, AMPRS&ND
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrothersgrim/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebrothersgrim/)*

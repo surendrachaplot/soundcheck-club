@@ -1,6 +1,6 @@
 # TERU
 
-TERU is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Upsidedown, Osaka on Sat, 21 Nov 2026.
+TERU is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Upsidedown, Osaka on Sat, 21 Nov 2026.
 
 TERU is a bass and drum & bass artist based in Japan, with 75 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside CHISE, kakepon and yu-more. Next up: Upsidedown, Osaka on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ TERU is a bass and drum & bass artist based in Japan, with 75 gigs on soundcheck
 
 CHISE, kakepon, yu-more
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teru/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/teru/)*

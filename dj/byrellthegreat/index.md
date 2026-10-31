@@ -1,6 +1,6 @@
 # Byrell The Great
 
-Byrell The Great is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Paragon, New York City on Fri, 13 Nov 2026.
+Byrell The Great is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Paragon, New York City on Fri, 13 Nov 2026.
 
 Byrell The Great is a techno and club artist based in United States of America, with 83 gigs on soundcheck across Atlanta, Berlin, Chicago and Los Angeles and 7 more. Often billed alongside Kenni Javon, BEARCAT and Miss Parker. Next up: Paragon, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Byrell The Great is a techno and club artist based in United States of America, 
 
 Kenni Javon, BEARCAT, Miss Parker
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byrellthegreat/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byrellthegreat/)*

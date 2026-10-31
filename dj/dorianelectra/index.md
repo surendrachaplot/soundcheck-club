@@ -1,6 +1,6 @@
 # Dorian Electra
 
-Dorian Electra is a Pop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
+Dorian Electra is a Pop and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
 
 Dorian Electra is a pop and experimental artist based in Czech Republic, with 35 gigs on soundcheck across Barcelona, Berlin, Brussels and Chicago and 19 more. Often billed alongside Count Baldor, Frost Children and Brutalismus 3000. Next up: Union Transfer, Philadelphia on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Dorian Electra is a pop and experimental artist based in Czech Republic, with 35
 
 Count Baldor, Frost Children, Brutalismus 3000
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianelectra/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dorianelectra/)*

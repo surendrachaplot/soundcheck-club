@@ -1,14 +1,13 @@
 # Night Tales
 
-Night Tales is a music venue in London with 38 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Night Tales: Luke Una (All Night Long) - The 'É Soul Cultura' Residency [4 Fridays In October]" on Fri, 30 Oct 2026.
+Night Tales is a music venue in London with 37 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Paraiso Disco: House, Disco, Classics [Halloween Special]" on Sat, 31 Oct 2026.
 
-Night Tales is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including 1-800 GIRLS, A Guy Called Gerald, Andy Luff and Bailey (UK) and 2 more. See dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
+Night Tales is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including 1-800 GIRLS, A Guy Called Gerald, Andy Luff and Bailey (UK) and 2 more. See dates, start times and who's playing. 14 Bohemia Pl, London E8 1DU, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Night Tales: Luke Una (All Night Long) - The 'É Soul Cultura' Residency [4 Fridays In October] | Luke Una, Richard Denahy |
 | Sat, 31 Oct 2026 | Paraiso Disco: House, Disco, Classics [Halloween Special] | Millian, Pilot, Sara Tabar |
 | Sat, 31 Oct 2026 | Night Tales: A Halloween Day Party | Millian |
 | Sat, 31 Oct 2026 | Big Fish Little Fish Halloween Family Rave - Hackney | Louise Plus One |
@@ -18,9 +17,10 @@ Night Tales is a music venue in London listed on soundcheck. 38 upcoming gigs, w
 | Sat, 7 Nov 2026 | Origins: Panjabi Hit Squad [All Night Long] | Panjabi Hit Squad |
 | Fri, 13 Nov 2026 | Night Tales: Maya Jane Coles & Guests TBA | Maya Jane Coles |
 | Sat, 14 Nov 2026 | Paraiso Disco: House, Disco, Classics with Jafunk | Jafunk |
+| Sat, 14 Nov 2026 | A One Night Stand Gass Club Reunion Part 2 | Billy Daniel Bunter, Greg Stainer, LOVE, MC CKP, MC Creed, MC DT, Norris Da Boss Windross |
 
 ## Address
 
 14 Bohemia Pl, London E8 1DU, United Kingdom, London
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/night-tales/)*

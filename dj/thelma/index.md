@@ -1,6 +1,6 @@
 # THELMA
 
-THELMA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Kilomètre25, Paris on Sat, 31 Oct 2026.
+THELMA is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kilomètre25, Paris on Sat, 31 Oct 2026.
 
 THELMA is a techno and house artist based in Switzerland, with 106 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 39 more. Often billed alongside Faster Horses, Helena Lauwaert and Skin On Skin. Next up: Kilomètre25, Paris on Sat 31 Oct.
 
@@ -32,4 +32,4 @@ THELMA is a techno and house artist based in Switzerland, with 106 gigs on sound
 
 Faster Horses, Helena Lauwaert, Skin On Skin
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelma/)*

@@ -1,6 +1,6 @@
 # Opuntia
 
-Opuntia is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Opuntia is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Opuntia is an electronica and techno artist based in Switzerland, with 18 gigs on soundcheck across Lausanne, Mexico City, Milan and Monterrey. Often billed alongside AAAA, Buena Tarde and Ejival. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Opuntia is an electronica and techno artist based in Switzerland, with 18 gigs o
 
 AAAA, Buena Tarde, Ejival
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opuntia/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/opuntia/)*

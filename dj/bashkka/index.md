@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 6 Nov 2026.
+BASHKKA is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jolene Downtown Miami, Miami on Fri, 6 Nov 2026.
 
 BASHKKA is a techno and house artist based in Germany, with 331 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 71 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Jolene Downtown Miami, Miami on Fri 6 Nov.
 
@@ -34,4 +34,4 @@ BASHKKA is a techno and house artist based in Germany, with 331 gigs on soundche
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

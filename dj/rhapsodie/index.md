@@ -1,6 +1,6 @@
 # RHAPSODIE
 
-RHAPSODIE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Village du Soir, Geneva on Sat, 21 Nov 2026.
+RHAPSODIE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Village du Soir, Geneva on Sat, 21 Nov 2026.
 
 RHAPSODIE is a techno and trance artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Berlin and Geneva. Often billed alongside DJ Jordan, Vero_ and maniaclina. Next up: Village du Soir, Geneva on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ RHAPSODIE is a techno and trance artist based in Germany, with 24 gigs on soundc
 
 DJ Jordan, Vero_, maniaclina
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhapsodie/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhapsodie/)*

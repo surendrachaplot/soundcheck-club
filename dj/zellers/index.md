@@ -1,6 +1,6 @@
 # Zellers
 
-Zellers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at TBA - ADD-1570 DUNDAS, Toronto on Fri, 27 Nov 2026.
+Zellers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - ADD-1570 DUNDAS, Toronto on Fri, 27 Nov 2026.
 
 Zellers is a techno and house artist based in Canada, with 71 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Marnigurl, Jaw Jones and DJ RATA. Next up: TBA - ADD-1570 DUNDAS, Toronto on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Zellers is a techno and house artist based in Canada, with 71 gigs on soundcheck
 
 Marnigurl, Jaw Jones, DJ RATA
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zellers/)*

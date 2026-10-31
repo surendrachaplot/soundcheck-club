@@ -1,6 +1,6 @@
 # DARKSIDE
 
-DARKSIDE is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 28 Nov 2026.
+DARKSIDE is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Classic Grand, Glasgow on Sat, 28 Nov 2026.
 
 DARKSIDE is an electronica and experimental artist based in United States of America, with 32 gigs on soundcheck across Amsterdam, Chicago, Dublin and Edinburgh and 12 more. Often billed alongside Adam Ten, Beltran and Blawan. Next up: The Classic Grand, Glasgow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DARKSIDE is an electronica and experimental artist based in United States of Ame
 
 Adam Ten, Beltran, Blawan
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkside/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darkside/)*

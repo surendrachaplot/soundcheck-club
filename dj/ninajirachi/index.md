@@ -1,6 +1,6 @@
 # Ninajirachi
 
-Ninajirachi is a Club and Pop artist with 6 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 28 Nov 2026.
+Ninajirachi is a Club and Pop artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Ninajirachi is a club and pop artist based in Australia, with 69 gigs on soundcheck across Adelaide, Auckland, Austin and Barcelona and 33 more. Often billed alongside umru, KETTAMA and Doss. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 28 Nov.
 
@@ -30,4 +30,4 @@ Ninajirachi is a club and pop artist based in Australia, with 69 gigs on soundch
 
 umru, KETTAMA, Doss
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*

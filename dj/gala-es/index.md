@@ -1,6 +1,6 @@
 # Gala (ES)
 
-Gala (ES) is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
+Gala (ES) is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
 
 Gala (ES) is a techno and electronica artist based in Spain, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside SYSTEMA, Baldman and Certain People. Next up: Razzmatazz, Barcelona on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Gala (ES) is a techno and electronica artist based in Spain, with 23 gigs on sou
 
 SYSTEMA, Baldman, Certain People
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gala-es/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gala-es/)*

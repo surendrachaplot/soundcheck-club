@@ -1,6 +1,6 @@
 # DAVID MEYER .
 
-DAVID MEYER . is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Casa Amante Club, Madrid on Fri, 13 Nov 2026.
+DAVID MEYER . is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Casa Amante Club, Madrid on Fri, 13 Nov 2026.
 
 DAVID MEYER . is an electro and house artist, with 17 gigs on soundcheck across Barcelona and Madrid. Often billed alongside ISAAC ARGA, Arkademode and Heinech. Next up: Casa Amante Club, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DAVID MEYER . is an electro and house artist, with 17 gigs on soundcheck across 
 
 ISAAC ARGA, Arkademode, Heinech
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmeyer./)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmeyer./)*

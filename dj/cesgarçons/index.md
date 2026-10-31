@@ -1,6 +1,6 @@
 # Ces Garçons
 
-Ces Garçons is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Lanificio 159, Rome on Sat, 31 Oct 2026.
+Ces Garçons is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lanificio 159, Rome on Sat, 31 Oct 2026.
 
 Ces Garçons is a disco and house artist, with 24 gigs on soundcheck across Madrid, Milan and Rome. Often billed alongside Oceanwax, Jason K (IT) and GOME. Next up: Lanificio 159, Rome on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ces Garçons is a disco and house artist, with 24 gigs on soundcheck across Madr
 
 Oceanwax, Jason K (IT), GOME
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesgarçons/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cesgarçons/)*

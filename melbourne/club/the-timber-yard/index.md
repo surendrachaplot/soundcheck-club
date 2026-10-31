@@ -1,6 +1,6 @@
 # The Timber Yard
 
-The Timber Yard is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Don't F**k with Disco - Melbourne" on Fri, 5 Feb 2027.
+The Timber Yard is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Don't F**k with Disco - Melbourne" on Fri, 5 Feb 2027.
 
 The Timber Yard is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Anthony Pappa, Chicane, Don't F**k with Disco and Robbie Lowe and 1 more. See dates, start times and who's playing. 351 Plummer Street, Port Melbourne, Victoria 3207.
 
@@ -16,4 +16,4 @@ The Timber Yard is a music venue in Melbourne listed on soundcheck. 3 upcoming g
 
 351 Plummer Street, Port Melbourne, Victoria 3207, Melbourne
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-timber-yard/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-timber-yard/)*

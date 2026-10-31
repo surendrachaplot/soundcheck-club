@@ -1,6 +1,6 @@
 # DJ Botermelk
 
-DJ Botermelk is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at Seoul Community Radio, Seoul on Sat, 31 Oct 2026.
+DJ Botermelk is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Seoul Community Radio, Seoul on Sat, 31 Oct 2026.
 
 DJ Botermelk is a house and tech house artist based in United Kingdom, with 44 gigs on soundcheck across Seoul. Often billed alongside Shlemba, YESL and odix. Next up: Seoul Community Radio, Seoul on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ Botermelk is a house and tech house artist based in United Kingdom, with 44 g
 
 Shlemba, YESL, odix
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbotermelk/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbotermelk/)*

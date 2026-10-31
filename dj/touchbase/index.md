@@ -1,6 +1,6 @@
 # Touch Base
 
-Touch Base is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. Next at SILO, New York City on Wed, 18 Nov 2026.
+Touch Base is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at SILO, New York City on Wed, 18 Nov 2026.
 
 Touch Base is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Manchester, New York City and Tokyo. Often billed alongside ceviché, Choo Choo and SHRAY. Next up: SILO, New York City on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Touch Base is a techno and house artist based in United States of America, with 
 
 ceviché, Choo Choo, SHRAY
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/touchbase/)*
+*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/touchbase/)*
