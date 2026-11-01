@@ -1,8 +1,8 @@
 # Tango
 
-Tango is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Neck of the Woods, Auckland on Fri, 27 Nov 2026.
+Tango is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Neck of the Woods, Auckland on Fri, 27 Nov 2026.
 
-Tango is a house and techno artist, with 14 gigs on soundcheck across Auckland, Berlin, Los Angeles and San Diego and 1 more. Often billed alongside Funkhousir, Jesusdapnk and Memo Rex. Next up: Neck of the Woods, Auckland on Fri 27 Nov.
+Tango is a house and techno artist based in United States of America, with 14 gigs on soundcheck across Auckland, Berlin, Los Angeles and San Diego and 1 more. Often billed alongside Funkhousir, Jesusdapnk and Memo Rex. Next up: Neck of the Woods, Auckland on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Tango is a house and techno artist, with 14 gigs on soundcheck across Auckland, 
 
 Funkhousir, Jesusdapnk, Memo Rex
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tango/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tango/)*

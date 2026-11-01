@@ -1,6 +1,6 @@
 # Jetsk.ian
 
-Jetsk.ian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Garage Nord, Hannover on Sat, 7 Nov 2026.
+Jetsk.ian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Garage Nord, Hannover on Sat, 7 Nov 2026.
 
 Jetsk.ian is a techno and house artist, with 9 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside LEAN MARIS, Smoothie Operator and Anne-Lu. Next up: Garage Nord, Hannover on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jetsk.ian is a techno and house artist, with 9 gigs on soundcheck across Berlin,
 
 LEAN MARIS, Smoothie Operator, Anne-Lu
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jetsk.ian/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jetsk.ian/)*

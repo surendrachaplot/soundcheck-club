@@ -1,6 +1,6 @@
 # MIRA MIRA
 
-MIRA MIRA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Carnegie Music Hall, Pittsburgh on Sun, 1 Nov 2026.
+MIRA MIRA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Carnegie Music Hall, Pittsburgh on Sun, 1 Nov 2026.
 
 MIRA MIRA is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Baltimore, Cleveland, Detroit and London and 6 more. Often billed alongside Kiernan Laveaux, Malzof and Rage.inald. Next up: Carnegie Music Hall, Pittsburgh on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ MIRA MIRA is a house and techno artist based in United States of America, with 6
 
 Kiernan Laveaux, Malzof, Rage.inald
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-us/)*

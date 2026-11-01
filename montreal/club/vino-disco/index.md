@@ -1,14 +1,13 @@
 # Vino Disco
 
-Vino Disco is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HALLOWEEN: UNE NUIT AU Vino Disco (EXTENDED 6AM)" on Sat, 31 Oct 2026.
+Vino Disco is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Vino Disco Thursdays: BENJI, ZAKK & Colmee" on Thu, 5 Nov 2026.
 
-Vino Disco is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, with line-ups including Akpossoul, Ali Coleman, Andie and Bolarinho and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
+Vino Disco is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Akpossoul, Ali Coleman, Andie and Bolarinho and 2 more. See dates, start times and who's playing. 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | HALLOWEEN: UNE NUIT AU Vino Disco (EXTENDED 6AM) |  |
 | Thu, 5 Nov 2026 | Vino Disco Thursdays: BENJI, ZAKK & Colmee | Colmee |
 | Fri, 6 Nov 2026 | Vino Disco Fridays: Cel Ullberg, Malka & Fred Sadoun | MALKA (CA) |
 | Sat, 7 Nov 2026 | Vino Disco Saturdays: Andie, Cooldad, YVNNI & VIBRAN | Andie, VIBRAN, YVNNI |
@@ -18,9 +17,10 @@ Vino Disco is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, 
 | Thu, 19 Nov 2026 | Vino Disco Thursdays: Tony Jacks & Teeto |  |
 | Fri, 20 Nov 2026 | Vino Disco Fridays: Groovy Castle - JP Groove & SOBAKA | Jean Pascal Groove, SOBAKA |
 | Sat, 21 Nov 2026 | Vino Disco Saturdays: Akpossoul, Don Barbarino, Minzi Roberta (EXTENDED 6AM) | Akpossoul, Don Barbarino |
+| Thu, 26 Nov 2026 | Vino Disco Thursdays: MOONART, HØSS |  |
 
 ## Address
 
 1192 Boul. St-Laurent, Montreal QC, H2X 2S6, Canada, Montreal
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/vino-disco/)*

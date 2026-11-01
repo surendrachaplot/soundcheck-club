@@ -1,6 +1,6 @@
 # Angel Negrin
 
-Angel Negrin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
+Angel Negrin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at ://about blank, Berlin on Sat, 12 Dec 2026.
 
 Angel Negrin is a techno and house artist based in Venezuela, with 21 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and Glasgow. Often billed alongside LOVELL, hubey and Co-Accused. Next up: ://about blank, Berlin on Sat 12 Dec.
 
@@ -26,4 +26,4 @@ Angel Negrin is a techno and house artist based in Venezuela, with 21 gigs on so
 
 LOVELL, hubey, Co-Accused
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angelnegrin/)*

@@ -1,6 +1,6 @@
 # Tresor Klubnacht at Tresor / Globus
 
-Tresor Klubnacht at Tresor / Globus on Sat 12 Dec, Berlin. 8 artists: Clé, Erik Luebs, Eva Be and MAEDON and 4 more. Techno and House. See the line-up on soundcheck.
+Tresor Klubnacht at Tresor / Globus on Sat 12 Dec, Berlin. 7 artists: Clé, Erik Luebs, Eva Be and MAEDON and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,7 +16,6 @@ Tresor Klubnacht at Tresor / Globus on Sat 12 Dec, Berlin. 8 artists: Clé, Erik
 - MAEDON
 - ORBE
 - Psyk
-- Soraya
 - Tapirus
 
 *Source: [soundcheck](https://soundcheck.club/e/2572501-tresor-klubnacht-at-tresor-globus/)*

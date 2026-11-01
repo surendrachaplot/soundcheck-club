@@ -1,14 +1,13 @@
 # DJ Storm
 
-DJ Storm is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Prospect Building, Bristol on Sat, 31 Oct 2026.
+DJ Storm is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-DJ Storm is a drum & bass and jungle artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 26 more. Often billed alongside Blackeye MC, Doc Scott and Ant TC1. Next up: The Prospect Building, Bristol on Sat 31 Oct.
+DJ Storm is a drum & bass and jungle artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Birmingham and 26 more. Often billed alongside Blackeye MC, Doc Scott and Ant TC1. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | The Prospect Building | Bristol |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Thu, 12 Nov 2026 | Phonox | London |
 | Thu, 31 Dec 2026 | The Fox and Firkin | London |
@@ -17,6 +16,7 @@ DJ Storm is a drum & bass and jungle artist based in United Kingdom, with 84 gig
 
 ## Recently played
 
+- The Prospect Building, Bristol · Sat, 31 Oct 2026
 - Studio 338, London · Sat, 26 Sept 2026
 - Palais, London · Sat, 19 Sept 2026
 - The Cause, London · Sat, 12 Sept 2026
@@ -24,10 +24,9 @@ DJ Storm is a drum & bass and jungle artist based in United Kingdom, with 84 gig
 - Rukatunturi, Helsinki · Thu, 18 Jun 2026
 - The Cause, London · Sun, 14 Jun 2026
 - Cupra City Garage Manchester, Manchester · Fri, 29 May 2026
-- ASIAT Park, Brussels · Thu, 14 May 2026
 
 ## Shares bills with
 
 Blackeye MC, Doc Scott, Ant TC1
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djstorm/)*

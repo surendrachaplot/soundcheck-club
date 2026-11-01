@@ -1,14 +1,15 @@
 # Bruno Browning
 
-Bruno Browning is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Air Conditioned Lounge, San Diego on Thu, 12 Nov 2026.
+Bruno Browning is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Air Conditioned Lounge, San Diego on Thu, 12 Nov 2026.
 
-Bruno Browning is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Chicago and San Diego. Often billed alongside Matthew Brian, DJ Heather and Eric Leonardis. Next up: The Air Conditioned Lounge, San Diego on Thu 12 Nov.
+Bruno Browning is a house and techno artist based in United States of America, with 7 gigs on soundcheck across Chicago and San Diego. Often billed alongside Matthew Brian, Eric Leonardis and DJ Colette. Next up: The Air Conditioned Lounge, San Diego on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | The Air Conditioned Lounge | San Diego |
+| Fri, 13 Nov 2026 | The Air Conditioned Lounge | San Diego |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Bruno Browning is a house and techno artist based in United States of America, w
 
 ## Shares bills with
 
-Matthew Brian, DJ Heather, Eric Leonardis
+Matthew Brian, Eric Leonardis, DJ Colette
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobrowning/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobrowning/)*

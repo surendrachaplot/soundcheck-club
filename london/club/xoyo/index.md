@@ -1,6 +1,6 @@
 # XOYO
 
-XOYO is a music venue in London with 46 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "XOYO Halloween: In The Field with Jamie Fielding [SOLD OUT]" on Sat, 31 Oct 2026.
+XOYO is a music venue in London with 46 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "MOTION Every Monday" on Mon, 2 Nov 2026.
 
 XOYO is a music venue in London listed on soundcheck. 46 upcoming gigs, with line-ups including Adela, Alex Osifo, Andy C and BRADII and 2 more. See dates, start times and who's playing. 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom.
 
@@ -8,7 +8,6 @@ XOYO is a music venue in London listed on soundcheck. 46 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | XOYO Halloween: In The Field with Jamie Fielding [SOLD OUT] | Jamie Fielding |
 | Mon, 2 Nov 2026 | MOTION Every Monday |  |
 | Wed, 4 Nov 2026 | PARADOX | Alex Osifo, Cass Brewster, David Ferreira |
 | Thu, 5 Nov 2026 | Paradox Nexus - Thursdays at Gallery | BRADII, DEFILE, Exotico, Tomi H |
@@ -18,9 +17,10 @@ XOYO is a music venue in London listed on soundcheck. 46 upcoming gigs, with lin
 | Mon, 9 Nov 2026 | MOTION Every Monday |  |
 | Wed, 11 Nov 2026 | PARADOX |  |
 | Thu, 12 Nov 2026 | Cherry - House & Disco - XOYO | BTAY |
+| Thu, 12 Nov 2026 | Paradox Nexus - Thursdays at Gallery |  |
 
 ## Address
 
 32-37 Cowper Street; Shoreditch; London EC2A 4AP; United Kingdom, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/xoyo/)*

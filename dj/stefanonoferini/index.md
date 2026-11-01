@@ -1,6 +1,6 @@
 # Stefano Noferini
 
-Stefano Noferini is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Macarena Club, Barcelona on Thu, 12 Nov 2026.
+Stefano Noferini is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Macarena Club, Barcelona on Thu, 12 Nov 2026.
 
 Stefano Noferini is a tech house and techno artist based in Italy, with 91 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 28 more. Often billed alongside Dimmish, Joe Vanditti and Aaryon. Next up: Macarena Club, Barcelona on Thu 12 Nov.
 
@@ -12,8 +12,8 @@ Stefano Noferini is a tech house and techno artist based in Italy, with 91 gigs 
 
 ## Recently played
 
-- Amsterdam Central Station, Amsterdam · Fri, 23 Oct 2026
 - Macarena Club, Barcelona · Thu, 8 Oct 2026
+- Bar Americas, Guadalajara · Fri, 2 Oct 2026
 - The Comfort Zone, Toronto · Sat, 26 Sept 2026
 - Eden, Ibiza · Thu, 13 Aug 2026
 - La Terrrazza, Barcelona · Sat, 1 Aug 2026
@@ -25,4 +25,4 @@ Stefano Noferini is a tech house and techno artist based in Italy, with 91 gigs 
 
 Dimmish, Joe Vanditti, Aaryon
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanonoferini/)*

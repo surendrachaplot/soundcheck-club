@@ -1,6 +1,6 @@
 # Shaolin Cowboy
 
-Shaolin Cowboy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Phonox, London on Sat, 14 Nov 2026.
+Shaolin Cowboy is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Phonox, London on Sat, 14 Nov 2026.
 
 Shaolin Cowboy is a house and garage artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside dj poolboi, DJ Cinéma Quartier Latin and Target Demographic. Next up: Phonox, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Shaolin Cowboy is a house and garage artist based in United Kingdom, with 53 gig
 
 dj poolboi, DJ Cinéma Quartier Latin, Target Demographic
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaolincowboy/)*

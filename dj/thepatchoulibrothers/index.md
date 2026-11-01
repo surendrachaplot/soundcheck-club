@@ -1,8 +1,8 @@
 # The Patchouli Brothers
 
-The Patchouli Brothers is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - 11/20 Midnight, Toronto on Fri, 20 Nov 2026.
+The Patchouli Brothers is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - 11/20 Midnight, Toronto on Fri, 20 Nov 2026.
 
-The Patchouli Brothers is a disco and house artist, with 45 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside DJelley, Reece Hodges and John Kong. Next up: TBA - 11/20 Midnight, Toronto on Fri 20 Nov.
+The Patchouli Brothers is a disco and house artist based in Canada, with 45 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 21 more. Often billed alongside DJelley, Reece Hodges and John Kong. Next up: TBA - 11/20 Midnight, Toronto on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ The Patchouli Brothers is a disco and house artist, with 45 gigs on soundcheck a
 
 DJelley, Reece Hodges, John Kong
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thepatchoulibrothers/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thepatchoulibrothers/)*

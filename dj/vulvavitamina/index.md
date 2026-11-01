@@ -1,8 +1,8 @@
 # Vulva Vitamina
 
-Vulva Vitamina is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Folklor, Lausanne on Sat, 28 Nov 2026.
+Vulva Vitamina is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Folklor, Lausanne on Sat, 28 Nov 2026.
 
-Vulva Vitamina is a house and electronica artist, with 21 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Ibiza and 5 more. Often billed alongside Angelinanyulí, FAG HAG and Feroui. Next up: Folklor, Lausanne on Sat 28 Nov.
+Vulva Vitamina is a house and electronica artist based in France, with 21 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Ibiza and 5 more. Often billed alongside Angelinanyulí, FAG HAG and Feroui. Next up: Folklor, Lausanne on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Vulva Vitamina is a house and electronica artist, with 21 gigs on soundcheck acr
 
 Angelinanyulí, FAG HAG, Feroui
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vulvavitamina/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vulvavitamina/)*

@@ -1,15 +1,13 @@
 # Samurai Breaks
 
-Samurai Breaks is a Jungle and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Meraki, Liverpool on Sat, 31 Oct 2026.
+Samurai Breaks is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Stereo, Glasgow on Fri, 20 Nov 2026.
 
-Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Meraki, Liverpool on Sat 31 Oct.
+Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 118 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Napes, Mandidextrous and 4am Kru. Next up: Stereo, Glasgow on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Meraki | Liverpool |
-| Sat, 31 Oct 2026 | Meraki | Liverpool |
 | Fri, 20 Nov 2026 | Stereo | Glasgow |
 | Thu, 31 Dec 2026 | The Clock Factory | Bristol |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
@@ -17,17 +15,17 @@ Samurai Breaks is a jungle and drum & bass artist based in United Kingdom, with 
 
 ## Recently played
 
+- Meraki, Liverpool · Sat, 31 Oct 2026
+- Meraki, Liverpool · Sat, 31 Oct 2026
 - Hidden, Manchester · Fri, 30 Oct 2026
 - fabric, London · Fri, 23 Oct 2026
 - Beaver Works, Leeds · Fri, 16 Oct 2026
 - Fuchs2, Prague · Sat, 10 Oct 2026
 - Unité.22, Marseille · Sat, 3 Oct 2026
 - FORGE, Sheffield · Fri, 25 Sept 2026
-- Port Beach Brewery, Perth · Sat, 5 Sept 2026
-- Chinese Laundry, Sydney · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Napes, Mandidextrous, 4am Kru
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuraibreaks/)*

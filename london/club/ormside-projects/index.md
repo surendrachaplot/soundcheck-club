@@ -1,14 +1,13 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "5 GATE TEMPLE ~ HALLOWEEN ~ Nkisi / JUNIOR LOVES / D. PHYLLEIA / LANDLOCK (LIVE)" on Sat, 31 Oct 2026.
+Ormside Projects is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "PRIVATELIFE011" on Wed, 4 Nov 2026.
 
-Ormside Projects is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Alba Akvama, Anina, Appleblim and Beatrice M. and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
+Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alba Akvama, Anina, Appleblim and Beatrice M. and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | 5 GATE TEMPLE ~ HALLOWEEN ~ Nkisi / JUNIOR LOVES / D. PHYLLEIA / LANDLOCK (LIVE) | John T. Gast, Nkisi, Xterea, d.phylleia |
 | Wed, 4 Nov 2026 | PRIVATELIFE011 | Alba Akvama |
 | Thu, 5 Nov 2026 | SAFADA: Nature Hacks Technology | Gadutra, Nymity |
 | Fri, 6 Nov 2026 | Expert Death 13: Gaetano Parisio, Tasha, Ilya-Gurin Babayeu + drysu | Gaetano Parisio, Ilya Gurin-Babayeu, Tasha, drysu |
@@ -18,9 +17,10 @@ Ormside Projects is a music venue in London listed on soundcheck. 18 upcoming gi
 | Sat, 14 Nov 2026 | Buckley Curates: Appleblim and Beatrice M | Appleblim, Beatrice M., Buckley (UK) |
 | Sun, 15 Nov 2026 | Diversion with Beatcrime Soundsystem | Cloud Management, Elijah Minnelli, Zoe Pea, sinny |
 | Thu, 19 Nov 2026 | Automatic Album Launch | Rat Section |
+| Fri, 20 Nov 2026 | common room with Maara (Ultra Villain live) / Dj wiggles / Pearl2 (live) / Nusheen | Dj wiggles, Maara, Nusheen |
 
 ## Address
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

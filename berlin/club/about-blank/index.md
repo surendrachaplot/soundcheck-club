@@ -1,15 +1,13 @@
 # ://about blank
 
-://about blank is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Glücklich durch die Krise (G2DK) - Daytime Rave" on Sat, 31 Oct 2026.
+://about blank is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Strassen Aus Zucker" on Fri, 6 Nov 2026.
 
-://about blank is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including 4NOUK, 50PHIE, Aamir and Acid Managment and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
+://about blank is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including 4NOUK, 50PHIE, Aamir and Acid Managment and 2 more. See dates, start times and who's playing. Markgrafendamm 24c, 10245 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Glücklich durch die Krise (G2DK) - Daytime Rave | Anna Kasyan, DJ.KRISE, Felizissima, Rosa Luxemburg, The Brvtalist |
-| Sat, 31 Oct 2026 | Fangtasm Vol.2 | Anna Kasyan, Dj Exagggerator, Gretchen B, Heshumi, Holywanderer, Lifka, ZAGROZA, tech_punk |
 | Fri, 6 Nov 2026 | Strassen Aus Zucker | Bruder Jakob |
 | Fri, 6 Nov 2026 | Party aus ZUCKER | 50PHIE, Acid Managment, Bruder Jakob (2), Christian Kluge, DJ Detective, DJ WETPANTS, Full Multi, Gwen Wayne, Haiyti, Kenji Tanaka, Modschi |
 | Sat, 7 Nov 2026 | ANTIHOUR - Party minus Antisemitismus | Saturator, Staím, deliora |
@@ -18,9 +16,11 @@
 | Fri, 13 Nov 2026 | 128<3 - Der Elternabend im Club | Tragz |
 | Sat, 14 Nov 2026 | STAUB XL |  |
 | Sun, 15 Nov 2026 | LnX | Theo Gramal, Tvísker, kayBe (UK) |
+| Sat, 21 Nov 2026 | ://BLANKS GIVING  | Alex.Do, CHOREOPHILA, DJ ZBB, DJ ritalino, Erik Jäähalli, Fasme, Hanna Baertig, K1KO, Lena Brumby, MATHILDA (2), Miss Take, Pino Peña, Rodmin, SORAYA*, Schorli, THNTS, Vy Tran, fr. JPLA, vanX |
+| Fri, 27 Nov 2026 | Expeditions |  |
 
 ## Address
 
 Markgrafendamm 24c, 10245 Berlin, Germany, Berlin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/about-blank/)*

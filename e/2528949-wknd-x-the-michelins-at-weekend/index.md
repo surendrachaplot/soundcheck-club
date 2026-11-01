@@ -1,6 +1,6 @@
 # WKND X THE MICHELINS at Weekend
 
-WKND X THE MICHELINS at Weekend on Fri 20 Nov, Berlin. 2 artists: Misha Svirid and Phonique. Techno and House. See the line-up on soundcheck.
+WKND X THE MICHELINS at Weekend on Fri 20 Nov, Berlin. 3 artists: Anna Belove, Misha Svirid and Phonique. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WKND X THE MICHELINS at Weekend on Fri 20 Nov, Berlin. 2 artists: Misha Svirid a
 
 ## Line-up
 
+- Anna Belove
 - Misha Svirid
 - Phonique
 

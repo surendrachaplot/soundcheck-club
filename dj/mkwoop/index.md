@@ -1,6 +1,6 @@
 # MK woop
 
-MK woop is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Saloon, Tokyo on Sun, 1 Nov 2026.
+MK woop is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Saloon, Tokyo on Sun, 1 Nov 2026.
 
 MK woop is a hip-hop and house artist based in Japan, with 36 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside miute, WASP and Gen Yamada. Next up: Saloon, Tokyo on Sun 1 Nov.
 
@@ -13,7 +13,7 @@ MK woop is a hip-hop and house artist based in Japan, with 36 gigs on soundcheck
 
 ## Recently played
 
-- clubasia, Tokyo · Fri, 16 Oct 2026
+- club asia, Tokyo · Fri, 16 Oct 2026
 - WWWβ, Tokyo · Sat, 3 Oct 2026
 - ZEROTOKYO, Tokyo · Sun, 27 Sept 2026
 - Circus Tokyo, Tokyo · Sat, 5 Sept 2026
@@ -26,4 +26,4 @@ MK woop is a hip-hop and house artist based in Japan, with 36 gigs on soundcheck
 
 miute, WASP, Gen Yamada
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mkwoop/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mkwoop/)*

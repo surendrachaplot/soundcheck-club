@@ -1,14 +1,13 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bernexpo Halle, Bern on Sat, 31 Oct 2026.
+Nico Moreno is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Nico Moreno is a techno and house artist based in France, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 85 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Bernexpo Halle, Bern on Sat 31 Oct.
+Nico Moreno is a techno and house artist based in France, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 85 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Bernexpo Halle | Bern |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 6 Nov 2026 | Echostage | Washington DC |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
@@ -23,6 +22,7 @@ Nico Moreno is a techno and house artist based in France, with 226 gigs on sound
 
 ## Recently played
 
+- Bernexpo Halle, Bern · Sat, 31 Oct 2026
 - Kameleonten Areena, Finland · Fri, 30 Oct 2026
 - GASHOUDER, Amsterdam · Thu, 22 Oct 2026
 - Poolen, Copenhagen · Fri, 16 Oct 2026
@@ -30,10 +30,9 @@ Nico Moreno is a techno and house artist based in France, with 226 gigs on sound
 - TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City · Sat, 19 Sept 2026
 - Sede Stage, Guadalajara · Fri, 18 Sept 2026
 - TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
-- Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 I Hate Models, DYEN, Trym
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

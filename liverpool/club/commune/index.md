@@ -1,14 +1,13 @@
 # Commune
 
-Commune is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Cultureween" on Sat, 31 Oct 2026.
+Commune is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Rearview Mountain" on Sun, 8 Nov 2026.
 
-Commune is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including aaypea, J. Conley, Ken(UK) and Madelaine Jemine and 2 more. See dates, start times and who's playing. Constance St, Liverpool L3 8HB.
+Commune is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with line-ups including aaypea, J. Conley, Ken(UK) and Malissa and 2 more. See dates, start times and who's playing. Constance St, Liverpool L3 8HB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Cultureween | Madelaine Jemine |
 | Sun, 8 Nov 2026 | Rearview Mountain | Voyeur |
 | Thu, 19 Nov 2026 | Homesick presents: Malissa + support | Malissa |
 | Thu, 3 Dec 2026 | RADIANCE (Ambient Evening) | J. Conley, Paula Salurand, aaypea |
@@ -18,4 +17,4 @@ Commune is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, wit
 
 Constance St, Liverpool L3 8HB, Liverpool
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/commune/)*

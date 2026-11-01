@@ -1,14 +1,13 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location, Atlanta on Fri, 30 Oct 2026.
+Ellen Allien is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 298 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: TBA - Secret Location, Atlanta on Fri 30 Oct.
+Ellen Allien is a techno and house artist based in Germany, with 298 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - Secret Location | Atlanta |
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Fri, 6 Nov 2026 | Gewölbe | Cologne |
 | Sat, 7 Nov 2026 | fabric | London |
@@ -20,9 +19,11 @@ Ellen Allien is a techno and house artist based in Germany, with 298 gigs on sou
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 | Sat, 12 Dec 2026 | Q35 WAREHOUSE | Turin |
 | Sat, 26 Dec 2026 | RSO.BERLIN | Berlin |
+| Fri, 15 Jan 2027 | Carfax | Johannesburg |
 
 ## Recently played
 
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 31 Oct 2026
 - TBA - Secret Location, Atlanta · Fri, 30 Oct 2026
 - TILLATEC, Amsterdam · Fri, 23 Oct 2026
 - SMUT Athens, Athens · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ Ellen Allien is a techno and house artist based in Germany, with 298 gigs on sou
 - Le Cargö, West · Wed, 7 Oct 2026
 - REC Napoli, Naples · Sat, 3 Oct 2026
 - Elastica, Vilnius · Fri, 2 Oct 2026
-- Flash, Washington DC · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Dr. Rubinstein, Shaleen, Daria Kolosova
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

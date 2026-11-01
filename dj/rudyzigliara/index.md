@@ -1,17 +1,19 @@
 # Rudy Zigliara
 
-Rudy Zigliara is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - DM @pulse_friction on Instagram for details, Berlin on Sat, 31 Oct 2026.
+Rudy Zigliara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
 
-Rudy Zigliara is a techno and house artist based in France, with 17 gigs on soundcheck across Berlin and Paris. Often billed alongside doctor doms, Roots. and Caldii. Next up: TBA - DM @pulse_friction on Instagram for details, Berlin on Sat 31 Oct.
+Rudy Zigliara is a house and techno artist based in France, with 19 gigs on soundcheck across Berlin and Paris. Often billed alongside doctor doms, Roots. and Caldii. Next up: Crack Bellmer, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - DM @pulse_friction on Instagram for details | Berlin |
+| Thu, 26 Nov 2026 | Crack Bellmer | Berlin |
+| Fri, 11 Dec 2026 | Madame Claude | Berlin |
 
 ## Recently played
 
+- TBA - Adress available on our Telegram, Berlin · Sat, 31 Oct 2026
 - Madame Claude, Berlin · Sat, 3 Oct 2026
 - TBA, Berlin · Sun, 12 Jul 2026
 - TBA - HIDDEN LOCATION (DM @Pulse_Friction) , Berlin · Fri, 1 May 2026
@@ -19,10 +21,9 @@ Rudy Zigliara is a techno and house artist based in France, with 17 gigs on soun
 - Madame Claude, Berlin · Sat, 14 Mar 2026
 - TBA - DM for adress, Berlin · Sat, 7 Feb 2026
 - Madame Claude, Berlin · Sat, 17 Jan 2026
-- AVA Club, Berlin · Wed, 7 Jan 2026
 
 ## Shares bills with
 
 doctor doms, Roots., Caldii
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rudyzigliara/)*

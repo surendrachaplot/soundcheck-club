@@ -1,14 +1,13 @@
 # Alesso
 
-Alesso is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Alesso is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Alesso is a house and techno artist based in Sweden, with 34 gigs on soundcheck across Amsterdam, Bangkok, Brisbane and Buenos Aires and 17 more. Often billed alongside Gryffin, KREAM and Steve Aoki. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
+Alesso is a house and techno artist based in Sweden, with 34 gigs on soundcheck across Amsterdam, Bangkok, Brisbane and Buenos Aires and 17 more. Often billed alongside Gryffin, KREAM and Steve Aoki. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
@@ -27,4 +26,4 @@ Alesso is a house and techno artist based in Sweden, with 34 gigs on soundcheck 
 
 Gryffin, KREAM, Steve Aoki
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alesso/)*

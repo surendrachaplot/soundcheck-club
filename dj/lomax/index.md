@@ -1,20 +1,20 @@
 # Lomax
 
-Lomax is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at BAR Inc, Osaka on Sat, 31 Oct 2026.
+Lomax is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at West Harlem, Kyoto on Sat, 7 Nov 2026.
 
-Lomax is a house and techno artist based in Japan, with 156 gigs on soundcheck across Amsterdam, Ho Chi Minh City, Kyoto and Leeds and 3 more. Often billed alongside Stones Taro, kitapon and droove. Next up: BAR Inc, Osaka on Sat 31 Oct.
+Lomax is a house and techno artist based in Japan, with 156 gigs on soundcheck across Amsterdam, Ho Chi Minh City, Kyoto and Leeds and 3 more. Often billed alongside Stones Taro, kitapon and droove. Next up: West Harlem, Kyoto on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | BAR Inc | Osaka |
 | Sat, 7 Nov 2026 | West Harlem | Kyoto |
 | Sat, 14 Nov 2026 | Circus Osaka | Osaka |
 | Sat, 28 Nov 2026 | West Harlem | Kyoto |
 
 ## Recently played
 
+- BAR Inc, Osaka · Sat, 31 Oct 2026
 - West Harlem, Kyoto · Sat, 17 Oct 2026
 - West Harlem, Kyoto · Fri, 16 Oct 2026
 - West Harlem, Kyoto · Thu, 15 Oct 2026
@@ -22,10 +22,9 @@ Lomax is a house and techno artist based in Japan, with 156 gigs on soundcheck a
 - Circus Osaka, Osaka · Thu, 10 Sept 2026
 - West Harlem, Kyoto · Wed, 9 Sept 2026
 - West Harlem, Kyoto · Fri, 14 Aug 2026
-- West Harlem, Kyoto · Wed, 12 Aug 2026
 
 ## Shares bills with
 
 Stones Taro, kitapon, droove
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lomax/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lomax/)*

@@ -1,6 +1,6 @@
 # Jodie Mooney
 
-Jodie Mooney is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fruitmarket, Edinburgh on Sat, 14 Nov 2026.
+Jodie Mooney is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Fruitmarket, Edinburgh on Sat, 14 Nov 2026.
 
 Jodie Mooney is a techno and garage artist based in United Kingdom, with 24 gigs on soundcheck across Belfast, Edinburgh, Glasgow and Melbourne. Often billed alongside LinkCity, Mixfits and RUA DJ. Next up: Fruitmarket, Edinburgh on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Jodie Mooney is a techno and garage artist based in United Kingdom, with 24 gigs
 
 LinkCity, Mixfits (2), RUA DJ
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jodiemooney/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jodiemooney/)*

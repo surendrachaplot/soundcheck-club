@@ -1,8 +1,8 @@
 # Any Yugël
 
-Any Yugël is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Babour Sauvage, Paris on Sat, 14 Nov 2026.
+Any Yugël is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Babour Sauvage, Paris on Sat, 14 Nov 2026.
 
-Any Yugël is a minimal and house artist, with 16 gigs on soundcheck across Montreal and Paris. Often billed alongside Gaspero, CO.KO and Gatien Delobel. Next up: Babour Sauvage, Paris on Sat 14 Nov.
+Any Yugël is a minimal and house artist based in France, with 16 gigs on soundcheck across Montreal and Paris. Often billed alongside Gaspero, CO.KO and Gatien Delobel. Next up: Babour Sauvage, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Any Yugël is a minimal and house artist, with 16 gigs on soundcheck across Mont
 
 Gaspero, CO.KO, Gatien Delobel
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anyyugel/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anyyugel/)*

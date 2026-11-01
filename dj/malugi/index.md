@@ -1,6 +1,6 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+MALUGI is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 MALUGI is a techno and house artist based in Germany, with 255 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 68 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -9,7 +9,6 @@ MALUGI is a techno and house artist based in Germany, with 255 gigs on soundchec
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Thu, 5 Nov 2026 | Refuge | New York City |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 7 Nov 2026 | Coda | Toronto |
@@ -35,4 +34,4 @@ MALUGI is a techno and house artist based in Germany, with 255 gigs on soundchec
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

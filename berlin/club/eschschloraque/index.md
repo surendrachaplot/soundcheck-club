@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ESCHLOWEEN" on Sat, 31 Oct 2026.
+Eschschloraque is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Fabulous Songs for Fall" on Wed, 4 Nov 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including MissVergnügen and Sheila Chipperfield. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including MissVergnügen. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | ESCHLOWEEN | Sheila Chipperfield |
 | Wed, 4 Nov 2026 | Fabulous Songs for Fall | MissVergnügen |
 | Wed, 11 Nov 2026 | MissVergnügen presents SHE WILL LISTEN - live | MissVergnügen |
 | Sat, 14 Nov 2026 | DISCO ELECTRONICA – 4th Anniversary |  |
@@ -19,4 +18,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 6 upcoming gigs,
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

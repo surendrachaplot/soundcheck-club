@@ -1,21 +1,20 @@
 # Amaliah
 
-Amaliah is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Amaliah is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
 
-Amaliah is a house and techno artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside NIKS, Danielle (UK) and Or:la. Next up: One Marylebone, London on Thu 29 Oct.
+Amaliah is a house and techno artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 45 more. Often billed alongside NIKS, Danielle (UK) and Or:la. Next up: TBA, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | One Marylebone | London |
-| Sat, 31 Oct 2026 | OHM | Berlin |
 | Fri, 13 Nov 2026 | TBA | Amsterdam |
 | Fri, 13 Nov 2026 | export | Rotterdam |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- OHM, Berlin · Sat, 31 Oct 2026
 - One Marylebone, London · Thu, 29 Oct 2026
 - The Berkeley Suite, Glasgow · Fri, 23 Oct 2026
 - Abbotsford Convent, Melbourne · Sat, 10 Oct 2026
@@ -23,10 +22,9 @@ Amaliah is a house and techno artist based in United Kingdom, with 183 gigs on s
 - Phonox, London · Sat, 26 Sept 2026
 - Cadavra, Madrid · Sat, 19 Sept 2026
 - Vittoria Wharf Studio, London · Sat, 5 Sept 2026
-- Southwark Park, London · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 NIKS, Danielle (UK), Or:la
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amaliah/)*

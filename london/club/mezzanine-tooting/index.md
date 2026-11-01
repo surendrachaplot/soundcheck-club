@@ -1,20 +1,19 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Disco Night" on Fri, 30 Oct 2026.
+Mezzanine - Tooting is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Mezzanine Rinse Out - Teez Takeover UMAD invites" on Fri, 6 Nov 2026.
 
-Mezzanine - Tooting is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Amy Cutter, Counter Culture, C R T and Drone (UK) and 2 more. See dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
+Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Amy Cutter, Counter Culture, C R T and Kritical Mass and 2 more. See dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Disco Night |  |
-| Sat, 31 Oct 2026 | Waves - Halloween Special w/ Drone, MJK, Patrice | Drone (UK), Kassita, Knegativ, MJK, flux vortex |
 | Fri, 6 Nov 2026 | Mezzanine Rinse Out - Teez Takeover UMAD invites |  |
 | Fri, 20 Nov 2026 | Club Culture UK presents: Gifta (UKG Set) |  |
 | Sat, 21 Nov 2026 | The Mezzanine - Bassment takeover |  |
 | Fri, 27 Nov 2026 | Groovy Juice - Amy Cutter | Amy Cutter, Lucky Penny |
 | Sat, 28 Nov 2026 | ORBITAL RECORDINGS X MEZZANINE PT2 | Counter Culture, Shaddows |
+| Fri, 4 Dec 2026 | Funk Around N Find Out | Spinimana |
 | Fri, 11 Dec 2026 | Kritical Mass PRESENTS: 001 | Kritical Mass, Max_Fader |
 | Fri, 18 Dec 2026 | Bites & Beats House & Techno Party | Matt Arnold |
 | Sat, 19 Dec 2026 | The BPM Project: THE CHRISTMAS FILES at the Mezzanine | C R T, Tommy Eats |
@@ -23,4 +22,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 10 upcoming
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

@@ -1,6 +1,6 @@
 # Mira
 
-Mira is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Refuge, New York City on Sun, 1 Nov 2026.
+Mira is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Refuge, New York City on Sun, 1 Nov 2026.
 
 Mira is a house and techno artist based in Germany, with 209 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 45 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Refuge, New York City on Sun 1 Nov.
 
@@ -30,4 +30,4 @@ Mira is a house and techno artist based in Germany, with 209 gigs on soundcheck 
 
 Chris Schwarzwälder, Britta Arnold, Caleesi
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mira/)*

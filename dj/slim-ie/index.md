@@ -1,14 +1,13 @@
 # Slim (IE)
 
-Slim (IE) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Slim (IE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Yamamori Tengu, Dublin on Sat, 14 Nov 2026.
 
-Slim (IE) is a house and techno artist based in Ireland, with 29 gigs on soundcheck across Belfast, Bristol, Dublin and London and 2 more. Often billed alongside Royce Larøca, NM Musik and Niz (IE). Next up: Orlagh House, Dublin on Fri 30 Oct.
+Slim (IE) is a house and techno artist based in Ireland, with 29 gigs on soundcheck across Belfast, Bristol, Dublin and London and 2 more. Often billed alongside Royce Larøca, NM Musik and Niz (IE). Next up: Yamamori Tengu, Dublin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Orlagh House | Dublin |
 | Sat, 14 Nov 2026 | Yamamori Tengu | Dublin |
 | Sat, 28 Nov 2026 | Cellar | London |
 
@@ -27,4 +26,4 @@ Slim (IE) is a house and techno artist based in Ireland, with 29 gigs on soundch
 
 Royce Larøca, NM Musik, Niz (IE)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slim-ie/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slim-ie/)*

@@ -1,14 +1,15 @@
 # Beardyman
 
-Beardyman is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Charlies Loft, Glasgow on Fri, 20 Nov 2026.
+Beardyman is a Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Charlies Loft, Glasgow on Fri, 20 Nov 2026.
 
-Beardyman is a bass and hip-hop artist, with 6 gigs on soundcheck across Berlin, Budapest, Glasgow and London and 1 more. Often billed alongside Craig Charles, Folamour and Aroop Roy. Next up: Charlies Loft, Glasgow on Fri 20 Nov.
+Beardyman is a bass and hip-hop artist, with 7 gigs on soundcheck across Berlin, Budapest, Glasgow and London and 1 more. Often billed alongside Craig Charles, Folamour and Aroop Roy. Next up: Charlies Loft, Glasgow on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Charlies Loft | Glasgow |
+| Fri, 29 Jan 2027 | Gretchen | Berlin |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Beardyman is a bass and hip-hop artist, with 6 gigs on soundcheck across Berlin,
 
 Craig Charles, Folamour, Aroop Roy
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beardyman/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beardyman/)*

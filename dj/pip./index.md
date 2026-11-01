@@ -1,14 +1,13 @@
 # PIP.
 
-PIP. is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Eiger Studios, Leeds on Sat, 31 Oct 2026.
+PIP. is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Berkeley Suite, Glasgow on Fri, 13 Nov 2026.
 
-PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 3 more. Often billed alongside Weston, FroD and Westy. Next up: Eiger Studios, Leeds on Sat 31 Oct.
+PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Glasgow, Leeds and London and 3 more. Often billed alongside Weston, FroD and Westy. Next up: The Berkeley Suite, Glasgow on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Eiger Studios | Leeds |
 | Fri, 13 Nov 2026 | The Berkeley Suite | Glasgow |
 | Sat, 14 Nov 2026 | Cobalt Studios | Newcastle |
 | Sat, 21 Nov 2026 | Honey Street Studio | Manchester |
@@ -16,6 +15,7 @@ PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soun
 
 ## Recently played
 
+- Eiger Studios, Leeds · Sat, 31 Oct 2026
 - Ouseburn Garden, Newcastle · Sat, 24 Oct 2026
 - Cobalt Studios, Newcastle · Sat, 24 Oct 2026
 - The Berkeley Suite, Glasgow · Fri, 11 Sept 2026
@@ -23,10 +23,9 @@ PIP. is a house and electro artist based in United Kingdom, with 47 gigs on soun
 - Ernest, Newcastle · Wed, 26 Aug 2026
 - Ernest, Newcastle · Fri, 31 Jul 2026
 - Waterhouse Studios, Amsterdam · Sat, 13 Jun 2026
-- Eastern Bloc Records, Manchester · Fri, 29 May 2026
 
 ## Shares bills with
 
 Weston, FroD, Westy
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pip./)*

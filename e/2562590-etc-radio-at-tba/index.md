@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Sun 29 Nov, Chicago. 1 artist: m50. Ambient and Acid. See the line-up on soundcheck.
+etc radio at TBA on Sun 29 Nov, Chicago. 3 artists: m50, Milieu and Sinner DC. Ambient and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ etc radio at TBA on Sun 29 Nov, Chicago. 1 artist: m50. Ambient and Acid. See th
 ## Line-up
 
 - m50
+- Milieu
+- Sinner DC
 
 *Source: [soundcheck](https://soundcheck.club/e/2562590-etc-radio-at-tba/)*

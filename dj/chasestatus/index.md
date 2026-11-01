@@ -1,6 +1,6 @@
 # Chase & Status
 
-Chase & Status is a Drum & Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Chase & Status is a Drum & Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Chase & Status are a drum & bass and techno duo based in United Kingdom, with 102 gigs on soundcheck across Aberdeen, Adelaide, Antwerp and Auckland and 49 more. Often billed alongside Mozey, Dimension and Andy C. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -9,7 +9,6 @@ Chase & Status are a drum & bass and techno duo based in United Kingdom, with 10
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
 | Wed, 11 Nov 2026 | Camp and Furnace | Liverpool |
 | Sat, 20 Feb 2027 | UFO im Velodrom | Berlin |
 | Sun, 28 Feb 2027 | Zénith Paris - La Villette | Paris |
@@ -29,4 +28,4 @@ Chase & Status are a drum & bass and techno duo based in United Kingdom, with 10
 
 Mozey, Dimension, Andy C
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chasestatus/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chasestatus/)*

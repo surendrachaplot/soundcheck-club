@@ -1,6 +1,6 @@
 # Victor Rodriguez
 
-Victor Rodriguez is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Los Angeles on Sat, 31 Oct 2026.
+Victor Rodriguez is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Los Angeles on Sat, 31 Oct 2026.
 
 Victor Rodriguez is a house and disco artist based in United States of America, with 62 gigs on soundcheck across Berlin, Bristol, London and Los Angeles and 9 more. Often billed alongside Perfect Lovers, Bears In Space and Chris Bowen. Next up: TBA, Los Angeles on Sat 31 Oct.
 
@@ -12,6 +12,7 @@ Victor Rodriguez is a house and disco artist based in United States of America, 
 
 ## Recently played
 
+- TBA, Los Angeles · Sat, 31 Oct 2026
 - BASEMENT, New York City · Sat, 26 Sept 2026
 - The Hoxton Hotel - LA, Los Angeles · Sun, 13 Sept 2026
 - Akbar, Los Angeles · Sun, 6 Sept 2026
@@ -19,10 +20,9 @@ Victor Rodriguez is a house and disco artist based in United States of America, 
 - Akbar, Los Angeles · Sun, 9 Aug 2026
 - TBA, Mexico City · Sat, 27 Jun 2026
 - Massive, Seattle · Wed, 24 Jun 2026
-- Akbar, Los Angeles · Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Perfect Lovers, Bears In Space, Chris Bowen
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/victorrodriguez/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorrodriguez/)*

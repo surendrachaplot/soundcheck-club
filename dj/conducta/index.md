@@ -1,6 +1,6 @@
 # Conducta
 
-Conducta is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Conducta is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Conducta is a garage and house artist based in United Kingdom, with 206 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 61 more. Often billed alongside Oppidan, Notion and Surusinghe. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -9,7 +9,6 @@ Conducta is a garage and house artist based in United Kingdom, with 206 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Sat, 31 Oct 2026 | Franklin Music Hall | Philadelphia |
 | Sun, 1 Nov 2026 | public records | New York City |
 | Thu, 19 Nov 2026 | Yes | Manchester |
 | Fri, 20 Nov 2026 | Digital | Newcastle |
@@ -18,6 +17,7 @@ Conducta is a garage and house artist based in United Kingdom, with 206 gigs on 
 
 ## Recently played
 
+- Franklin Music Hall, Philadelphia · Sat, 31 Oct 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - 24 Kitchen Street, Liverpool · Fri, 23 Oct 2026
 - Palais, London · Fri, 16 Oct 2026
@@ -25,10 +25,9 @@ Conducta is a garage and house artist based in United Kingdom, with 206 gigs on 
 - TBA, Los Angeles · Fri, 2 Oct 2026
 - The Brickworks, Nottingham · Sat, 19 Sept 2026
 - FS., Tokyo · Fri, 18 Sept 2026
-- Place Noord, Brussels · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Oppidan, Notion, Surusinghe
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*

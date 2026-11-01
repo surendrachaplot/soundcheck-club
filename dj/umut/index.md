@@ -1,19 +1,18 @@
 # Umut
 
-Umut is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Melbourne on Fri, 30 Oct 2026.
+Umut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Northcote Theatre, Melbourne on Thu, 31 Dec 2026.
 
-Umut is a house and techno artist based in Australia, with 9 gigs on soundcheck across Adelaide, Istanbul, Melbourne and Warsaw. Often billed alongside Adriana, Alignment and Aquenta. Next up: TBA, Melbourne on Fri 30 Oct.
+Umut is a house and techno artist based in Australia, with 9 gigs on soundcheck across Adelaide, Istanbul, Melbourne and Warsaw. Often billed alongside Adriana, Alignment and Aquenta. Next up: Northcote Theatre, Melbourne on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA | Melbourne |
-| Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 | Thu, 31 Dec 2026 | Northcote Theatre | Melbourne |
 
 ## Recently played
 
+- Collingwood Children's Farm, Melbourne · Sat, 31 Oct 2026
 - TBA, Melbourne · Fri, 30 Oct 2026
 - Angel Music Bar, Melbourne · Sat, 20 Jun 2026
 - Angel Music Bar, Melbourne · Fri, 26 Dec 2025
@@ -26,4 +25,4 @@ Umut is a house and techno artist based in Australia, with 9 gigs on soundcheck 
 
 Adriana (1), Alignment, Aquenta
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/umut/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umut/)*

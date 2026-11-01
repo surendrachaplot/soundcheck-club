@@ -1,14 +1,13 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "RUNWAY 008 - Halloween Edition [SOLD OUT]" on Sat, 31 Oct 2026.
+Honey Street Studio is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "DREAMLAND W/ MARIMARI + ELFZ" on Fri, 6 Nov 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Anop, Arkane, Baby Rollén and Banana Hill and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Anop, Arkane, Baby Rollén and Banana Hill and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | RUNWAY 008 - Halloween Edition [SOLD OUT] | Girlfriend, Jase Jeffery, Rachel de Moncuit, caonix |
 | Fri, 6 Nov 2026 | DREAMLAND W/ MARIMARI + ELFZ | Anop, Hollyamorous, chlo333e |
 | Sat, 7 Nov 2026 | NYUMBA: Afro & Melodic House at Honey Street, Manchester | Kakura, MYDIR, Trekkah |
 | Sat, 14 Nov 2026 | Fingers Crossed: Shroom Shroom | Club Penguin, Ethan A., GayBoy, JAMS (UK), King Kit, SDJ (1), mxtina |
@@ -23,4 +22,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

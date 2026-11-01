@@ -1,6 +1,6 @@
 # Oliver Heldens
 
-Oliver Heldens is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+Oliver Heldens is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 Oliver Heldens is a house and techno artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Austin, Boston and Buenos Aires and 22 more. Often billed alongside HI-LO, Kaskade and Tiesto. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Oliver Heldens is a house and techno artist based in Netherlands, with 57 gigs o
 
 HI-LO, Kaskade, Tiesto
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverheldens/)*

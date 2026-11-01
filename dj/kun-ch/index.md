@@ -1,8 +1,8 @@
 # Kun (CH)
 
-Kun (CH) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Reactor Shanghai, Shanghai on Sat, 7 Nov 2026.
+Kun (CH) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 7 Nov 2026.
 
-Kun (CH) is a club and techno artist, with 23 gigs on soundcheck across Lausanne, Shanghai and Tokyo. Often billed alongside kongbb, Terax and Titoffee. Next up: Reactor Shanghai, Shanghai on Sat 7 Nov.
+Kun (CH) is a club and techno artist, with 24 gigs on soundcheck across Lausanne, Shanghai and Tokyo. Often billed alongside kongbb, Terax and Titoffee. Next up: Reactor Shanghai, Shanghai on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kun (CH) is a club and techno artist, with 23 gigs on soundcheck across Lausanne
 
 ## Recently played
 
+- ILLUM, Shanghai · Sat, 3 Oct 2026
 - Heim Shanghai, Shanghai · Wed, 30 Sept 2026
 - Folklor, Lausanne · Fri, 31 Jul 2026
 - Reactor Shanghai, Shanghai · Fri, 17 Jul 2026
@@ -19,10 +20,9 @@ Kun (CH) is a club and techno artist, with 23 gigs on soundcheck across Lausanne
 - Folklor, Lausanne · Thu, 30 Apr 2026
 - ZUBAR, Tokyo · Thu, 31 Jul 2025
 - Continuum, Lausanne · Sat, 24 May 2025
-- Folklor, Lausanne · Sat, 19 Oct 2024
 
 ## Shares bills with
 
 kongbb, Terax, Titoffee
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kun-ch/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kun-ch/)*

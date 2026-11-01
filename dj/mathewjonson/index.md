@@ -1,14 +1,13 @@
 # Mathew Jonson
 
-Mathew Jonson is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+Mathew Jonson is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
-Mathew Jonson is a techno and house artist based in Canada, with 160 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 55 more. Often billed alongside EVGHENIIA, Damian Lazarus and Francesco Del Garda. Next up: Signal, New York City on Fri 30 Oct.
+Mathew Jonson is a techno and house artist based in Canada, with 160 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 55 more. Often billed alongside EVGHENIIA, Damian Lazarus and Francesco Del Garda. Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Signal | New York City |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 7 Nov 2026 | Kauz | Zurich |
 | Fri, 13 Nov 2026 | Lincoln Factory | Detroit |
@@ -31,4 +30,4 @@ Mathew Jonson is a techno and house artist based in Canada, with 160 gigs on sou
 
 EVGHENIIA, Damian Lazarus, Francesco Del Garda
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathewjonson/)*

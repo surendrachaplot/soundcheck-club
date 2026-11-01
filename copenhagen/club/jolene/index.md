@@ -1,14 +1,13 @@
 # Jolene
 
-Jolene is a music venue in Copenhagen with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Jolene Invites with Denzel (FI), Martin Gilleshøj & Soft Pxrn" on Sat, 31 Oct 2026.
+Jolene is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Love.Rave. - Autumn Edition" on Sun, 1 Nov 2026.
 
-Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, with line-ups including BRAVER (DK), Christina Evangelista, Denzel and DJ Woo Girl and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
+Jolene is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including BRAVER (DK), Christina Evangelista, DJ Woo Girl and NAT (SK) and 2 more. See dates, start times and who's playing. Flaesketorvet 81; Copenhagen V. 1711; Denmark.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Jolene Invites with Denzel (FI), Martin Gilleshøj & Soft Pxrn | Denzel, Martin Gilleshøj, Soft Pxrn |
 | Sun, 1 Nov 2026 | Love.Rave. - Autumn Edition | BRAVER (DK), Christina Evangelista, NILU |
 | Fri, 27 Nov 2026 | BUTTERFLY EFFECT W/ Tifra (NL), NAT, DJ Woo Girl | DJ Woo Girl, NAT (SK), Tifra |
 
@@ -16,4 +15,4 @@ Jolene is a music venue in Copenhagen listed on soundcheck. 3 upcoming gigs, wit
 
 Flaesketorvet 81; Copenhagen V. 1711; Denmark, Copenhagen
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/jolene/)*

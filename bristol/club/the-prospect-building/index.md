@@ -1,14 +1,13 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "4am Kru | [The Blast] Halloween Carnival of the Dead x LSTD" on Sat, 31 Oct 2026.
+The Prospect Building is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "UKF Bristol" on Sat, 14 Nov 2026.
 
-The Prospect Building is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, with line-ups including 4am Kru, A Little Sound, Anaïs and Anz and 2 more. See dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
+The Prospect Building is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with line-ups including A Little Sound, Anaïs, Anz and Aries and 2 more. See dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | 4am Kru / [The Blast] Halloween Carnival of the Dead x LSTD | 4am Kru, Blackeye MC, Chimpo, DJ Storm, Guido YZ, Hypershe, Janaway, Lou Nour, Napes, Oppidan, Origin8a & Propa, SIS:DEM, Sexy Lady Massive, Shirley Temper, The Bass Injector |
 | Sat, 14 Nov 2026 | UKF Bristol | A Little Sound, Anaïs, IC3, K Motionz, MC Texas, Wilkinson |
 | Fri, 27 Nov 2026 | Teletech: Bristol | Lola Cerise, Restricted |
 | Fri, 27 Nov 2026 | Teletech Bristol | BØĘRY, Lola Cerise, Restricted |
@@ -22,4 +21,4 @@ The Prospect Building is a music venue in Bristol listed on soundcheck. 9 upcomi
 
 45 Feeder Rd Bristol, BS2 0SE, Bristol
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-prospect-building/)*

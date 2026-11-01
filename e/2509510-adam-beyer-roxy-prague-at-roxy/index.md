@@ -1,10 +1,10 @@
 # Adam Beyer ∞ ROXY Prague at Roxy
 
-Adam Beyer ∞ ROXY Prague at Roxy on Sat 5 Dec, Prague. 1 artist: Adam Beyer. Trance and Techno. See the line-up on soundcheck.
+Adam Beyer ∞ ROXY Prague at Roxy on Fri 29 Jan, Prague. 1 artist: Adam Beyer. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 5 Dec 2026 |
+| Date | Fri, 29 Jan 2027 |
 | Venue | Roxy |
 | City | Prague |
 

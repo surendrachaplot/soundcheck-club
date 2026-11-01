@@ -1,14 +1,13 @@
 # The Rabbit Hole
 
-The Rabbit Hole is a music venue in Charlotte with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Resonate Halloween Rave" on Sat, 31 Oct 2026.
+The Rabbit Hole is a music venue in Charlotte with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "CREATE & DESTROY TOUR CHARLOTTE" on Sat, 21 Nov 2026.
 
-The Rabbit Hole is a music venue in Charlotte listed on soundcheck. 2 upcoming gigs, with line-ups including Craze, Dieselboy and DOMii. See dates, start times and who's playing.
+The Rabbit Hole is a music venue in Charlotte listed on soundcheck. 1 upcoming gig, with line-ups including Craze and Dieselboy. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Resonate Halloween Rave | DOMii |
 | Sat, 21 Nov 2026 | CREATE & DESTROY TOUR CHARLOTTE | Craze, Dieselboy |
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/charlotte/club/the-rabbit-hole/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/charlotte/club/the-rabbit-hole/)*

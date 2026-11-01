@@ -1,6 +1,6 @@
 # DINA
 
-DINA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+DINA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 DINA is a techno and trance artist based in Canada, with 146 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 42 more. Often billed alongside Alpha Tracks, Philipp Drube and Jeans (NL). Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -29,4 +29,4 @@ DINA is a techno and trance artist based in Canada, with 146 gigs on soundcheck 
 
 Alpha Tracks, Philipp Drube, Jeans (NL)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dina/)*

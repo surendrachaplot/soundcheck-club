@@ -1,13 +1,15 @@
 # Nomad
 
-Nomad is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Nomad is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Private House party, Playa-del-carmen on Fri, 6 Nov 2026.
 
-Nomad is a house and techno artist based in Mexico, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Calgary and 11 more. Often billed alongside Ejeckt, Franky A and Gus McKinna. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
+Nomad is a house and techno artist based in Mexico, with 27 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Calgary and 13 more. Often billed alongside Ejeckt, Franky A and Gus McKinna. Next up: TBA - Private House party, Playa Del Carmen on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TBA - Private House party | Playa-del-carmen |
+| Fri, 20 Nov 2026 | Obsidiana Tulum | Tulum |
 | Fri, 4 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 
 ## Recently played
@@ -25,4 +27,4 @@ Nomad is a house and techno artist based in Mexico, with 25 gigs on soundcheck a
 
 Ejeckt, Franky A, Gus McKinna
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nomad/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomad/)*

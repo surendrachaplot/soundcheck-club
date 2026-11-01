@@ -1,14 +1,13 @@
 # Ligrye
 
-Ligrye is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+Ligrye is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Blank Site, Seoul on Sat, 7 Nov 2026.
 
-Ligrye is a house and techno artist based in South Africa, with 148 gigs on soundcheck across Bangkok, Beijing, Cape Town and Hanoi and 6 more. Often billed alongside NET GALA, DJ Co.kr and KING SHE. Next up: Blank Site, Seoul on Fri 30 Oct.
+Ligrye is a house and techno artist based in South Africa, with 148 gigs on soundcheck across Bangkok, Beijing, Cape Town and Hanoi and 6 more. Often billed alongside NET GALA, DJ Co.kr and KING SHE. Next up: Blank Site, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Blank Site | Seoul |
 | Sat, 7 Nov 2026 | Blank Site | Seoul |
 
 ## Recently played
@@ -26,4 +25,4 @@ Ligrye is a house and techno artist based in South Africa, with 148 gigs on soun
 
 NET GALA, DJ Co.kr, KING SHE
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ligrye/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ligrye/)*

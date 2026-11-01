@@ -1,14 +1,13 @@
 # Walker & Royce
 
-Walker & Royce is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Walker & Royce is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
-Walker & Royce are a house and tech house duo based in United States of America, with 94 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 19 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
+Walker & Royce are a house and tech house duo based in United States of America, with 94 gigs on soundcheck across Atlanta, Austin, Boston and Charlotte and 19 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
@@ -26,4 +25,4 @@ Walker & Royce are a house and tech house duo based in United States of America,
 
 Vnssa, Kyle Watson, Sara Landry
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/walkerroyce/)*

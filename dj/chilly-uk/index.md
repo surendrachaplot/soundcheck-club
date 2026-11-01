@@ -1,6 +1,6 @@
 # Chilly
 
-Chilly is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Globe, Glossop, Manchester on Sat, 7 Nov 2026.
+Chilly is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Globe, Glossop, Manchester on Sat, 7 Nov 2026.
 
 Chilly is an ebm and industrial artist, with 6 gigs on soundcheck across Barcelona, Liverpool, London and Manchester. Often billed alongside All Trades, Ambarcita and Balrog. Next up: The Globe, Glossop, Manchester on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Chilly is an ebm and industrial artist, with 6 gigs on soundcheck across Barcelo
 
 All Trades, Ambarcita, Balrog
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chilly-uk/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chilly-uk/)*

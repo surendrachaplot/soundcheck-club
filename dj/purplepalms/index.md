@@ -1,13 +1,14 @@
 # Purple Palms
 
-Purple Palms is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+Purple Palms is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
 
-Purple Palms is a tech house and techno artist, with 15 gigs on soundcheck across Berlin, Cologne, Cyprus and Dortmund / Essen and 1 more. Often billed alongside Roxy Nox, Vinylsurfer and Flo Mrzdk. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
+Purple Palms is a tech house and techno artist based in Germany, with 16 gigs on soundcheck across Berlin, Cologne, Cyprus and Dortmund / Essen and 1 more. Often billed alongside Roxy Nox, Vinylsurfer and Flo Mrzdk. Next up: Am Hawerkamp, Münster on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | Am Hawerkamp | Münster |
 | Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
 
 ## Recently played
@@ -25,4 +26,4 @@ Purple Palms is a tech house and techno artist, with 15 gigs on soundcheck acros
 
 Roxy Nox, Vinylsurfer, Flo Mrzdk
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/purplepalms/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purplepalms/)*

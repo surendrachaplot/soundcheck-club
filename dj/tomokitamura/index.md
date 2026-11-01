@@ -1,14 +1,13 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Flash, Washington DC on Sat, 31 Oct 2026.
+Tomoki Tamura is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Outdoor Location - DTLA , Los Angeles on Sun, 1 Nov 2026.
 
-Tomoki Tamura is a house and techno artist based in Germany, with 116 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Baltimore and 43 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Flash, Washington DC on Sat 31 Oct.
+Tomoki Tamura is a house and techno artist based in Germany, with 118 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Baltimore and 44 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: TBA - Outdoor Location - DTLA , Los Angeles on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Flash | Washington DC |
 | Sun, 1 Nov 2026 | TBA - Outdoor Location - DTLA  | Los Angeles |
 | Fri, 6 Nov 2026 | TBA | San Diego |
 | Sat, 7 Nov 2026 | Rhythm | Toronto |
@@ -18,17 +17,17 @@ Tomoki Tamura is a house and techno artist based in Germany, with 116 gigs on so
 
 ## Recently played
 
-- TBA - 402 N Howard St /// Entrance from the alley, Baltimore · Fri, 30 Oct 2026
+- Flash, Washington DC · Sat, 31 Oct 2026
+- TBA - Email Deepsidebaltimore@gmail.com for info/address, Baltimore · Fri, 30 Oct 2026
 - Read The Room, Atlanta · Thu, 29 Oct 2026
 - Klaproos, Amsterdam · Sat, 24 Oct 2026
 - Benelux BAR, Amsterdam · Thu, 22 Oct 2026
 - Benelux BAR, Amsterdam · Thu, 22 Oct 2026
 - Frankhan Selectist, Istanbul · Sat, 17 Oct 2026
-- TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City · Sat, 3 Oct 2026
-- Audiodise Park Montjuic, Barcelona · Sun, 27 Sept 2026
+- Topazdeluxe, Monterrey · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

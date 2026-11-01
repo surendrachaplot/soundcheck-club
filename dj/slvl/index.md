@@ -1,14 +1,13 @@
 # SLVL
 
-SLVL is a Techno and Industrial artist with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+SLVL is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
-SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 38 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
+SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 38 more. Often billed alongside KLOFAMA, KRUELTY and KARAH. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 20 Nov 2026 | Epic Prague | Prague |
 | Sat, 21 Nov 2026 | Complex Maastricht | Netherlands |
@@ -36,4 +35,4 @@ SLVL is a techno and industrial artist based in Netherlands, with 98 gigs on sou
 
 KLOFAMA, KRUELTY, KARAH
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slvl/)*

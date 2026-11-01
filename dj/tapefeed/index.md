@@ -1,6 +1,6 @@
 # Tapefeed
 
-Tapefeed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Studionotte, Milan on Sun, 1 Nov 2026.
+Tapefeed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Studionotte, Milan on Sun, 1 Nov 2026.
 
 Tapefeed is a techno and house artist based in Italy, with 78 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bologna and 11 more. Often billed alongside Anna Wall, Craig Richards and Rene Wise. Next up: Studionotte, Milan on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Tapefeed is a techno and house artist based in Italy, with 78 gigs on soundcheck
 
 Anna Wall, Craig Richards, Rene Wise
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tapefeed/)*

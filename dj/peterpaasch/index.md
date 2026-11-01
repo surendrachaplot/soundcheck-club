@@ -1,6 +1,6 @@
 # Peter Paasch
 
-Peter Paasch is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Peter Paasch is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Peter Paasch is an electronic artist, with 7 gigs on soundcheck across Hamburg. Often billed alongside Antoine Baiser, Marco Baskind and Tino Tranquilo. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Peter Paasch is an electronic artist, with 7 gigs on soundcheck across Hamburg. 
 
 Antoine Baiser, Marco Baskind, Tino Tranquilo
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpaasch/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpaasch/)*

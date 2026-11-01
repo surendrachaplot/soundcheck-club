@@ -1,14 +1,13 @@
 # Convinzed
 
-Convinzed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+Convinzed is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Fundbureau, Hamburg on Sat, 28 Nov 2026.
 
-Convinzed is a house and techno artist based in Germany, with 22 gigs on soundcheck across Hamburg, Madrid and Stuttgart. Often billed alongside Sitze, Dennis Louvra and Femmzy. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
+Convinzed is a house and techno artist based in Germany, with 22 gigs on soundcheck across Hamburg, Madrid and Stuttgart. Often billed alongside Sitze, Dennis Louvra and Femmzy. Next up: Fundbureau, Hamburg on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Ehemaliges Hauptzollamt | Hamburg |
 | Sat, 28 Nov 2026 | Fundbureau | Hamburg |
 
 ## Recently played
@@ -26,4 +25,4 @@ Convinzed is a house and techno artist based in Germany, with 22 gigs on soundch
 
 Sitze, Dennis Louvra, Femmzy
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/convinzed-de/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/convinzed-de/)*

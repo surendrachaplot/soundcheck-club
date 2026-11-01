@@ -1,13 +1,14 @@
 # Nathan Homan
 
-Nathan Homan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+Nathan Homan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at LOU, Rotterdam on Sat, 7 Nov 2026.
 
-Nathan Homan is a house and techno artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Berlin, Paris and Rotterdam and 1 more. Often billed alongside Tsepo, Merel Helderman and SOLIT. Next up: Shelter Amsterdam, Amsterdam on Fri 13 Nov.
+Nathan Homan is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Berlin, Paris and Rotterdam and 1 more. Often billed alongside Tsepo, Merel Helderman and SOLIT. Next up: LOU, Rotterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | LOU | Rotterdam |
 | Fri, 13 Nov 2026 | Shelter Amsterdam | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Nathan Homan is a house and techno artist based in Netherlands, with 48 gigs on 
 
 Tsepo, Merel Helderman, SOLIT
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanhoman/)*

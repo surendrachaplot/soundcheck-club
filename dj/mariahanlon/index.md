@@ -1,6 +1,6 @@
 # Maria Hanlon
 
-Maria Hanlon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
+Maria Hanlon is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Colour Factory, London on Fri, 11 Dec 2026.
 
 Maria Hanlon is a house and disco artist, with 48 gigs on soundcheck across London and Southampton. Often billed alongside Tiffany Quinn, Jojo Jones and Mas Que Nada Brothers. Next up: Colour Factory, London on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Maria Hanlon is a house and disco artist, with 48 gigs on soundcheck across Lond
 
 Tiffany Quinn, Jojo Jones, Mas Que Nada Brothers
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*

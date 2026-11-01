@@ -1,20 +1,20 @@
 # Klanglos
 
-Klanglos is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Schrotty, Cologne on Sat, 31 Oct 2026.
+Klanglos is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
 
-Klanglos is a techno and electro artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Mark Dekoda, Sylvie Miles and Ben Dust. Next up: Schrotty, Cologne on Sat 31 Oct.
+Klanglos is a techno and electro artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 17 more. Often billed alongside Mark Dekoda, Sylvie Miles and Ben Dust. Next up: Die Rakete, Nürnberg on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Schrotty | Cologne |
 | Fri, 11 Dec 2026 | Die Rakete | Nürnberg |
 | Sat, 20 Mar 2027 | Harmonie Bonn | North-rhine-westphalia |
 | Fri, 9 Apr 2027 | Die Rakete | N-rnberg |
 
 ## Recently played
 
+- Schrotty, Cologne · Sat, 31 Oct 2026
 - Hafen 49, Mannheim · Sun, 23 Aug 2026
 - TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
 - Ritter Butzke, Berlin · Sat, 15 Aug 2026
@@ -22,10 +22,9 @@ Klanglos is a techno and electro artist based in Germany, with 70 gigs on soundc
 - Westhafen, Leipzig · Sat, 27 Jun 2026
 - TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf, Düsseldorf · Wed, 13 May 2026
 - Die Rakete, Nürnberg · Fri, 10 Apr 2026
-- Modus Berlin, Berlin · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Mark Dekoda, Sylvie Miles, Ben Dust
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klanglos/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klanglos/)*

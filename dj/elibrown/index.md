@@ -1,6 +1,6 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at City Market, Los Angeles on Sat, 14 Nov 2026.
+Eli Brown is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at City Market, Los Angeles on Sat, 14 Nov 2026.
 
 Eli Brown is a techno and house artist based in United Kingdom, with 171 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Atlanta and 56 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: City Market, Los Angeles on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Eli Brown is a techno and house artist based in United Kingdom, with 171 gigs on
 
 Adam Beyer, John Summit, Anfisa Letyago
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elibrown/)*

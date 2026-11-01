@@ -1,18 +1,18 @@
 # Vinur
 
-Vinur is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Amp, Münster on Sat, 31 Oct 2026.
+Vinur is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Amp, Münster on Sat, 21 Nov 2026.
 
-Vinur is a techno and trance artist, with 7 gigs on soundcheck across Berlin and Münster. Often billed alongside Matzubi, ADRENALINA and Bella Claxton. Next up: Amp, Münster on Sat 31 Oct.
+Vinur is a techno and trance artist, with 7 gigs on soundcheck across Berlin and Münster. Often billed alongside Matzubi, ADRENALINA and Bella Claxton. Next up: Amp, Münster on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Amp | Münster |
 | Sat, 21 Nov 2026 | Amp | Münster |
 
 ## Recently played
 
+- Amp, Münster · Sat, 31 Oct 2026
 - Amp, Münster · Sat, 8 Aug 2026
 - Amp, Münster · Sat, 11 Jul 2026
 - ://about blank, Berlin · Thu, 9 Jul 2026
@@ -23,4 +23,4 @@ Vinur is a techno and trance artist, with 7 gigs on soundcheck across Berlin and
 
 Matzubi, ADRENALINA, Bella Claxton
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vinur/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinur/)*

@@ -1,14 +1,13 @@
 # Blackstone Street Warehouse
 
-Blackstone Street Warehouse is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Circus Halloween: East End Dubs" on Sat, 31 Oct 2026.
+Blackstone Street Warehouse is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Cloonee Presents Hellbent Liverpool" on Sat, 7 Nov 2026.
 
-Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including Ben Sterling, Bontan, CHRIS STASSY and Cloonee and 2 more. See dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
+Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Sterling, Bontan, CHRIS STASSY and Cloonee and 2 more. See dates, start times and who's playing. Blackstone Street, Liverpool, L5 9TL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Circus Halloween: East End Dubs | East End Dubs |
 | Sat, 7 Nov 2026 | Cloonee Presents Hellbent Liverpool | Bontan, Cloonee, Jamback, Ranger Trucco |
 | Sat, 7 Nov 2026 | Cloonee presents Hellbent Liverpool | Bontan, Cloonee, Delilah, Jamback, Ranger Trucco |
 | Sat, 14 Nov 2026 | Glitterbox Liverpool |  |
@@ -22,4 +21,4 @@ Blackstone Street Warehouse is a music venue in Liverpool listed on soundcheck. 
 
 Blackstone Street, Liverpool, L5 9TL, Liverpool
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/blackstone-street-warehouse/)*

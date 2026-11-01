@@ -1,14 +1,13 @@
 # [119]
 
-[119] is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "SHADYLINES BIRTHDAY INVITES" on Sat, 31 Oct 2026.
+[119] is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "JUICY QUEER DANCE" on Fri, 6 Nov 2026.
 
-[119] is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Afgang, Carl Raban, ISA (ES) and LUCKY4U and 2 more. See dates, start times and who's playing. Storkower Straße 119, 10407 Berlin.
+[119] is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Afgang, LUCKY4U, Mia Lund and RON B and 1 more. See dates, start times and who's playing. Storkower Straße 119, 10407 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | SHADYLINES BIRTHDAY INVITES | Carl Raban, ISA (ES), RobertTamagotchi, SACID, SHADYLINES, Tilman Riddelt, Younes Jamil |
 | Fri, 6 Nov 2026 | JUICY QUEER DANCE | RON B |
 | Fri, 4 Dec 2026 | Silencer x Speedgasm | Afgang, LUCKY4U, Mia Lund, SHADYLINES |
 
@@ -16,4 +15,4 @@
 
 Storkower Straße 119, 10407 Berlin, Berlin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*

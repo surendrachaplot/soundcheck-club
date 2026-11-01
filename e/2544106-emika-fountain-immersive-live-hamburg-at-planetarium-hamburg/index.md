@@ -1,6 +1,6 @@
 # Emika - Fountain Immersive Live / Hamburg at Planetarium Hamburg
 
-Emika - Fountain Immersive Live / Hamburg at Planetarium Hamburg on Fri 29 Jan, Hamburg. 1 artist: Emika. See the line-up on soundcheck.
+Emika - Fountain Immersive Live / Hamburg at Planetarium Hamburg on Fri 29 Jan, Hamburg. 1 artist: Emika. Classical and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

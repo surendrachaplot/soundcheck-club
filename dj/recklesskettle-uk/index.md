@@ -1,14 +1,13 @@
 # Reckless Kettle
 
-Reckless Kettle is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Reckless Kettle is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Østre, Bergen on Fri, 4 Dec 2026.
 
-Reckless Kettle is a bass and techno artist based in United Kingdom, with 27 gigs on soundcheck across Bergen. Often billed alongside Hildisvini, Julie Silset and Olav Eggestøl. Next up: Østre, Bergen on Thu 29 Oct.
+Reckless Kettle is a bass and techno artist based in United Kingdom, with 27 gigs on soundcheck across Bergen. Often billed alongside Hildisvini, Julie Silset and Olav Eggestøl. Next up: Østre, Bergen on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Østre | Bergen |
 | Fri, 4 Dec 2026 | Østre | Bergen |
 
 ## Recently played
@@ -26,4 +25,4 @@ Reckless Kettle is a bass and techno artist based in United Kingdom, with 27 gig
 
 Hildisvini, Julie Silset, Olav Eggestøl
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/recklesskettle-uk/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/recklesskettle-uk/)*

@@ -1,14 +1,13 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 18 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Mister Wallace - Virago" on Sat, 31 Oct 2026.
+smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "All-Building Hallo-Queen" on Sun, 1 Nov 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming gigs, with line-ups including AMR*, Ariel Zetina, Brenda and Centrific and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, with line-ups including AMR*, Ariel Zetina, Brenda and Centrific and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | THE HOT B!T@# HALLOWEEN PARTY feat. Miss Toto - Madeline - Mister Wallace - Virago | Madeline (Chi), Miss Toto, Mister Wallace |
 | Sun, 1 Nov 2026 | All-Building Hallo-Queen | Chris Cruse, Czboogie, DJ Minx, Derrick Carter, Michael Serafini |
 | Fri, 6 Nov 2026 | Tinzo & Jojo - DJ Lady D | DJ Lady D, Jojo Lorenzo, Tinzo |
 | Sat, 7 Nov 2026 | Format presents UFO95 (Live) - Brenda - KX1000 | Brenda, KX1000, UFO95 |
@@ -18,9 +17,10 @@ smartbar is a music venue in Chicago listed on soundcheck. 18 upcoming gigs, wit
 | Sun, 15 Nov 2026 | Queen! feat. Derrick Carter - Michael Serafini - T Mixwell | Derrick Carter, Michael Serafini |
 | Thu, 19 Nov 2026 | Bitchin Bajas (Live) - Radio de Gregorio - Potions | Potions |
 | Fri, 20 Nov 2026 | Vegyn feat. Headache - Madeline - AMR* | AMR*, Madeline (UK) |
+| Sat, 21 Nov 2026 | Expansions NYC feat. Louie Vega (All Night) | Louie Vega |
 
 ## Address
 
 3730 N. Clark St; Chicago, IL 60613; United States, Chicago
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/smartbar/)*

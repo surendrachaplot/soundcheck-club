@@ -1,6 +1,6 @@
 # Bladeblanc
 
-Bladeblanc is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Bladeblanc is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
 Bladeblanc is a bass and techno artist based in Italy, with 16 gigs on soundcheck across Berlin, Florence, Milan and Turin. Often billed alongside DNN, Asiya and Odd Shy Guy. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Bladeblanc is a bass and techno artist based in Italy, with 16 gigs on soundchec
 
 DNN, Asiya, Odd Shy Guy
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bladeblanc/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bladeblanc/)*

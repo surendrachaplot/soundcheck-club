@@ -1,6 +1,6 @@
 # SENAIDA
 
-SENAIDA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
+SENAIDA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Kinone Pension, Kanto on Sat, 31 Oct 2026.
 
 SENAIDA is a techno and house artist based in Canada, with 58 gigs on soundcheck across Athens, Bangkok, Berlin and Brussels and 10 more. Often billed alongside estro, AnEmD and CRYFXB. Next up: TBA - Kinone Pension, Kanto on Sat 31 Oct.
 
@@ -13,17 +13,17 @@ SENAIDA is a techno and house artist based in Canada, with 58 gigs on soundcheck
 
 ## Recently played
 
+- TBA - Kinone Pension, Kanto · Sat, 31 Oct 2026
+- Kinone Pension, Kanto · Sat, 31 Oct 2026
 - Tempio del Futuro Perduto, Milan · Fri, 2 Oct 2026
 - Atemporal, Berlin · Sun, 6 Sept 2026
 - The Grey Space In The Middle, The Hague · Sat, 5 Sept 2026
 - Altenburg 1964, Prague · Sat, 8 Aug 2026
 - Tempio del Futuro Perduto, Milan · Fri, 10 Jul 2026
 - TBA - Secret Warehouse Brooklyn, New York City · Sat, 20 Jun 2026
-- Infinity Room Inside Future, Toronto · Thu, 11 Jun 2026
-- 2ten, Athens · Fri, 15 May 2026
 
 ## Shares bills with
 
 estro, AnEmD, CRYFXB
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/senaida/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senaida/)*

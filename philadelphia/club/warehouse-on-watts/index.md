@@ -1,14 +1,13 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Hallowink no. 11" on Sat, 31 Oct 2026.
+Warehouse on Watts is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Book of Bass: Chapter 7 ft. Bommer" on Fri, 6 Nov 2026.
 
-Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 9 upcoming gigs, with line-ups including Barbara Tucker, De León, DJ Tennis and FAME LUST and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
+Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 8 upcoming gigs, with line-ups including Barbara Tucker, De León, FAME LUST and Foxy Nora and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Hallowink no. 11 | DJ Tennis, Josh Wink |
 | Fri, 6 Nov 2026 | Book of Bass: Chapter 7 ft. Bommer |  |
 | Sat, 7 Nov 2026 | Shameless Final feat SHDW + Afters F2F Edition | De León, JFK (USA), SHDW |
 | Fri, 13 Nov 2026 | TEAR YOU APART (Dark Electronic / Hell Rave / Devil Disco) | FAME LUST |
@@ -22,4 +21,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 9 upco
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

@@ -1,14 +1,13 @@
 # Softmatter
 
-Softmatter is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
+Softmatter is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, London on Sat, 7 Nov 2026.
 
-Softmatter is an experimental and club artist based in Canada, with 30 gigs on soundcheck across Berlin, Ljubljana, London and Prague. Often billed alongside bod [包家巷], PAX and Freestyler. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 30 Oct.
+Softmatter is an experimental and club artist based in Canada, with 30 gigs on soundcheck across Berlin, Ljubljana, London and Prague. Often billed alongside bod [包家巷], PAX and Freestyler. Next up: TBA, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Sat, 7 Nov 2026 | TBA | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Softmatter is an experimental and club artist based in Canada, with 30 gigs on s
 
 bod [包家巷], PAX (2), Freestyler (2)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/softmatter/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softmatter/)*

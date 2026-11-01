@@ -1,6 +1,6 @@
 # Ironick
 
-Ironick is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Foro Normandie, Mexico City on Sat, 31 Oct 2026.
+Ironick is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Foro Normandie, Mexico City on Sat, 31 Oct 2026.
 
 Ironick is a techno and industrial artist based in Mexico, with 7 gigs on soundcheck across Mexico City. Often billed alongside Salem X, JHAXIE and XOVOKY. Next up: Foro Normandie, Mexico City on Sat 31 Oct.
 
@@ -12,6 +12,7 @@ Ironick is a techno and industrial artist based in Mexico, with 7 gigs on soundc
 
 ## Recently played
 
+- Foro Normandie, Mexico City · Sat, 31 Oct 2026
 - Bajo Circuito, Mexico City · Thu, 22 Oct 2026
 - Foro Normandie, Mexico City · Fri, 25 Sept 2026
 - Foro EX Normandie, Mexico City · Fri, 28 Aug 2026
@@ -23,4 +24,4 @@ Ironick is a techno and industrial artist based in Mexico, with 7 gigs on soundc
 
 Salem X, JHAXIE, XOVOKY
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ironick/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ironick/)*

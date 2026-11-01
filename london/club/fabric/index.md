@@ -1,14 +1,13 @@
 # fabric
 
-fabric is a music venue in London with 27 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "fabric: Rødhåd, FJAAK, Demi Riquisimo, Kamma & Masalo, Desireè, B.Love + more" on Sat, 31 Oct 2026.
+fabric is a music venue in London with 26 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "CAYA by fabric: Rave Rabbit - Lola Palmer, Jacob Husley B2B Will Davison, Frenchhh" on Sun, 1 Nov 2026.
 
-fabric is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including 2 Bad Mice, Adam Clark, Alexis Raphael and Alfie Aukett and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including 2 Bad Mice, Adam Clark, Alexis Raphael and ALIBI and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | fabric: Rødhåd, FJAAK, Demi Riquisimo, Kamma & Masalo, Desireè, B.Love + more | Alfie Aukett, B.Love, Demi Riquisimo, Desiree', FJAAK, Kamma, Louis Ray, Masalo, Rødhåd, Thom Parris |
 | Sun, 1 Nov 2026 | CAYA by fabric: Rave Rabbit - Lola Palmer, Jacob Husley B2B Will Davison, Frenchhh | Frenchhh, Jacob Husley, Lola Palmer |
 | Thu, 5 Nov 2026 | Loukeman | Loukeman |
 | Fri, 6 Nov 2026 | FABRICLIVE: Keyrah B2B Izco, Karen Nyame KG Zengxrl, Lorkestra, Jack Bagshaw, SHAYK | Daviaa, Flores, Izco, Karen Nyame KG, Keyrah, Lorkestra, Mithun, Zengxrl |
@@ -18,9 +17,10 @@ fabric is a music venue in London listed on soundcheck. 27 upcoming gigs, with l
 | Sat, 14 Nov 2026 | FABRICLIVE: Planet V | ALIBI, Bladerunner, Bryan Gee, Command Strange, DREAD MC, Dillinja, Dynamite MC, Jumping Jack Frost, Krust, MC GQ, Meraki (3), Minor Forms, Need For Mirrors, Peshay, Promo ZO, SL8R, SP:MC, Think Tonk, Visionobi, Zero T, cloud lord (2) |
 | Sat, 14 Nov 2026 | fabric: Steffi x Virginia (Live), Elli Acula (Live), Gabbs, Quelza, Fafi Abdel Nour, Ø [Phase] | Elli Acula, Fafi Abdel Nour, Gabbs, Mauro Ferno, Oliver Moon, Quelza, Samir Chani, Steffi, Tai Lokun, Trixie, Virginia, Ø [Phase] |
 | Sun, 15 Nov 2026 | CAYA by fabric: Serenity Records - Theo Kottis, Annie Errez, JUXTA | Annie Errez, JUXTA, Theo Kottis |
+| Fri, 20 Nov 2026 | AVAION, Notre Dame, LF SYSTEM, Eats Everything, REMIXIA, Hayley Zalassi + more | AVAION, Eats Everything, Hayley Zalassi, LF SYSTEM, Matteo Diop, Notre Dame, Parea, REMIXIA |
 
 ## Address
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

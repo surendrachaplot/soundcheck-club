@@ -1,18 +1,18 @@
 # E.T.
 
-E.T. is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Motzener Strasse 5 in 12277, Berlin on Sat, 31 Oct 2026.
+E.T. is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at La Rotonde Stalingrad, Paris on Fri, 6 Nov 2026.
 
-E.T. is a guaracha and latin bass artist based in France, with 51 gigs on soundcheck across Berlin, Madrid, Mexico City and Paris. Often billed alongside PAK-E, MIMI404 and e.leptic. Next up: TBA - Motzener Strasse 5 in 12277, Berlin on Sat 31 Oct.
+E.T. is a guaracha and latin bass artist based in France, with 51 gigs on soundcheck across Berlin, Madrid, Mexico City and Paris. Often billed alongside PAK-E, MIMI404 and e.leptic. Next up: La Rotonde Stalingrad, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Motzener Strasse 5 in 12277 | Berlin |
 | Fri, 6 Nov 2026 | La Rotonde Stalingrad | Paris |
 
 ## Recently played
 
+- TBA - Motzener Strasse 5 in 12277, Berlin · Sat, 31 Oct 2026
 - Abrazarnos, Mexico City · Wed, 21 Oct 2026
 - Humboldthain Club, Berlin · Fri, 2 Oct 2026
 - ://about blank, Berlin · Fri, 4 Sept 2026
@@ -20,10 +20,9 @@ E.T. is a guaracha and latin bass artist based in France, with 51 gigs on soundc
 - La Rotonde Stalingrad, Paris · Fri, 31 Jul 2026
 - TBA - Flakturm (Humbolthain), Berlin · Fri, 24 Jul 2026
 - Humboldthain Club, Berlin · Fri, 17 Jul 2026
-- Marmorbar, Berlin · Fri, 5 Jun 2026
 
 ## Shares bills with
 
 PAK-E, MIMI404, e.leptic
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e.t/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e.t/)*

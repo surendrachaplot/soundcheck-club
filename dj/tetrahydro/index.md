@@ -1,6 +1,6 @@
 # Tetra Hydro
 
-Tetra Hydro is a Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Tetra Hydro is a Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Tetra Hydro is a dub artist, with 7 gigs on soundcheck across Barcelona, Hamburg, Lisbon and London and 1 more. Often billed alongside Artemis, AGILY and Antoine Baiser. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -24,4 +24,4 @@ Tetra Hydro is a dub artist, with 7 gigs on soundcheck across Barcelona, Hamburg
 
 Artemis, AGILY, Antoine Baiser
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tetrahydro/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tetrahydro/)*

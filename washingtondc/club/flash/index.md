@@ -1,14 +1,13 @@
 # Flash
 
-Flash is a music venue in Washington DC with 21 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Flesh & Fangs: Jayda G - Tomoki Tamura" on Sat, 31 Oct 2026.
+Flash is a music venue in Washington DC with 20 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Sunday Love Closing 2026: Amores de Muertos" on Sun, 1 Nov 2026.
 
-Flash is a music venue in Washington DC listed on soundcheck. 21 upcoming gigs, with line-ups including Aaron Sparks, Alanapana, Alan Fitzpatrick and Aline Umber and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
+Flash is a music venue in Washington DC listed on soundcheck. 20 upcoming gigs, with line-ups including Alanapana, Alan Fitzpatrick, Aline Umber and Anetha and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Flesh & Fangs: Jayda G - Tomoki Tamura | Aaron Sparks, DJ Soul (US), G.E.N.E., Jayda G, Rich Thomas, Tomoki Tamura |
 | Sun, 1 Nov 2026 | Sunday Love Closing 2026: Amores de Muertos | Aline Umber, Apollonia, BehTarin, Jus Nowhere, KayLaSoul |
 | Fri, 6 Nov 2026 | Sweely [DJ Set] | Frankie P., Sweely |
 | Sat, 7 Nov 2026 | FOCUS: Alan Fitzpatrick | Alan Fitzpatrick, Benjy Bradshaw, Dabz, Micfreak, STUKES |
@@ -18,9 +17,10 @@ Flash is a music venue in Washington DC listed on soundcheck. 21 upcoming gigs, 
 | Thu, 19 Nov 2026 | FOCUS: Anetha | Anetha, Xav (US) |
 | Thu, 19 Nov 2026 | Headroom Listening Sessions: Washington, DC |  |
 | Fri, 20 Nov 2026 | Radio Slave - Budakid | Budakid, Casa Nova, Henry P (US), Radio Slave |
+| Sat, 21 Nov 2026 | FOCUS: Ogazón - Verraco | Ogazón, Verraco |
 
 ## Address
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

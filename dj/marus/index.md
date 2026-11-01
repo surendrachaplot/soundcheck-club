@@ -1,8 +1,8 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+Mar/us is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
-Mar/us is a techno and house artist, with 109 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 33 more. Often billed alongside Cristian Marras, Metaraph and BOYCA. Next up: Pawnshop, Taipei on Sun 1 Nov.
+Mar/us is a techno and house artist, with 110 gigs on soundcheck across Amsterdam, Athens, Bangkok and Beijing and 33 more. Often billed alongside Cristian Marras, Metaraph and BOYCA. Next up: Pawnshop, Taipei on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mar/us is a techno and house artist, with 109 gigs on soundcheck across Amsterda
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Pawnshop | Taipei |
 | Fri, 6 Nov 2026 | Foundationclub | Nanjing |
+| Sat, 7 Nov 2026 | POTENT | Shanghai |
 | Fri, 13 Nov 2026 | FOLD | London |
 | Sat, 21 Nov 2026 | Skin Club | Madrid |
 | Sat, 28 Nov 2026 | C12 | Brussels |
@@ -30,4 +31,4 @@ Mar/us is a techno and house artist, with 109 gigs on soundcheck across Amsterda
 
 Cristian Marras, Metaraph, BOYCA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marus/)*

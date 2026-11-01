@@ -1,14 +1,13 @@
 # Ben Böhmer
 
-Ben Böhmer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Thu, 29 Oct 2026.
+Ben Böhmer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Trübsee Station, Engelberg, Switzerland on Sat, 28 Nov 2026.
 
-Ben Böhmer is a house and techno artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 48 more. Often billed alongside Adriatique, KI/KI and Paul Kalkbrenner. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Thu 29 Oct.
+Ben Böhmer is a house and techno artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 48 more. Often billed alongside Adriatique, KI/KI and Paul Kalkbrenner. Next up: Trübsee Station, Engelberg, Switzerland on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Ex Hacienda de San Pablo de Enmedio | Mexico City |
 | Sat, 28 Nov 2026 | Trübsee Station, Engelberg | Switzerland |
 | Fri, 1 Jan 2027 | Cabo Beach Club | Cape Town |
 
@@ -27,4 +26,4 @@ Ben Böhmer is a house and techno artist based in Germany, with 98 gigs on sound
 
 Adriatique, KI/KI, Paul Kalkbrenner
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benbohmer/)*

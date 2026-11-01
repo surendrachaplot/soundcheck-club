@@ -1,8 +1,8 @@
 # corto.alto
 
-corto.alto is a Jazz and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Future Yard, Liverpool on Wed, 18 Nov 2026.
+corto.alto is a Jazz and Broken Beat artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Future Yard, Liverpool on Wed, 18 Nov 2026.
 
-corto.alto is a jazz and experimental artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Birmingham, Bristol and Brussels and 11 more. Often billed alongside Chunky, Craig Charles and Joy Guidry. Next up: Future Yard, Liverpool on Wed 18 Nov.
+corto.alto is a jazz and broken beat artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Birmingham, Bristol and Brussels and 11 more. Often billed alongside Chunky, Craig Charles and Joy Guidry. Next up: Future Yard, Liverpool on Wed 18 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ corto.alto is a jazz and experimental artist based in United Kingdom, with 22 gi
 
 Chunky, Craig Charles, Joy Guidry
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/corto.alto/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/corto.alto/)*

@@ -1,6 +1,6 @@
 # Indiego Glocksee
 
-Indiego Glocksee is a music venue in Hannover with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Trancecore Berlin with GIØ, Antonym, Amøn feat. Fronsi, VIVUS and FEROTONINO" on Sat, 7 Nov 2026.
+Indiego Glocksee is a music venue in Hannover with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Trancecore Berlin with GIØ, Antonym, Amøn feat. Fronsi, VIVUS and FEROTONINO" on Sat, 7 Nov 2026.
 
 Indiego Glocksee is a music venue in Hannover listed on soundcheck. 4 upcoming gigs, with line-ups including Amøn, Antonym, BNZN and Cari Lekebusch and 2 more. See dates, start times and who's playing. Glockseestr.35; 30169 Hannover; Germany.
 
@@ -17,4 +17,4 @@ Indiego Glocksee is a music venue in Hannover listed on soundcheck. 4 upcoming g
 
 Glockseestr.35; 30169 Hannover; Germany, Hannover
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/indiego-glocksee/)*

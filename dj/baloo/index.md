@@ -1,14 +1,15 @@
 # Baloo
 
-Baloo is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Baloo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Baloo is a disco and house artist based in United Kingdom, with 11 gigs on soundcheck across Berlin, Frankfurt, Ibiza and London and 3 more. Often billed alongside Danuka, Bolts and Yadava. Next up: One Resort, Tunisia on Thu 5 Nov.
+Baloo is a house and disco artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Frankfurt, Ibiza and London and 3 more. Often billed alongside Danuka, Bolts and Luke Gomm. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
+| Sat, 7 Nov 2026 | The Haggerston | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Baloo is a disco and house artist based in United Kingdom, with 11 gigs on sound
 
 ## Shares bills with
 
-Danuka, Bolts, Yadava
+Danuka, Bolts, Luke Gomm
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baloo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baloo/)*

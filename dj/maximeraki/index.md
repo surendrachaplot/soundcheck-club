@@ -1,14 +1,13 @@
 # Maxi Meraki
 
-Maxi Meraki is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at One Marylebone, London on Thu, 29 Oct 2026.
+Maxi Meraki is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
 
-Maxi Meraki is a house and afro house artist based in Belgium, with 106 gigs on soundcheck across Antwerp, Athens, Austin and Bali and 41 more. Often billed alongside LUCH (MEX), Mahmut Orhan and Marten Lou. Next up: One Marylebone, London on Thu 29 Oct.
+Maxi Meraki is a house and afro house artist based in Belgium, with 106 gigs on soundcheck across Antwerp, Athens, Austin and Bali and 41 more. Often billed alongside LUCH (MEX), Mahmut Orhan and Marten Lou. Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | One Marylebone | London |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
@@ -28,4 +27,4 @@ Maxi Meraki is a house and afro house artist based in Belgium, with 106 gigs on 
 
 LUCH (MEX), Mahmut Orhan, Marten Lou
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximeraki/)*

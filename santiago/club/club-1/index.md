@@ -1,14 +1,13 @@
 # Club 1
 
-Club 1 is a music venue in Santiago with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "31 de Octubre en CLUB 1: Eurydome - Kalopsia - Non us" on Sat, 31 Oct 2026.
+Club 1 is a music venue in Santiago with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "06 de Noviembre en CLUB 1: Anavel - Das Es - Gravüz" on Fri, 6 Nov 2026.
 
-Club 1 is a music venue in Santiago listed on soundcheck. 11 upcoming gigs, with line-ups including Andrea Riffo, Der Nautilus, Eurydome and FRVNCCSCV and 2 more. See dates, start times and who's playing. Bombero Nuñez 1. Recoleta..
+Club 1 is a music venue in Santiago listed on soundcheck. 10 upcoming gigs, with line-ups including Andrea Riffo, Der Nautilus, FRVNCCSCV and NPLNSSS and 2 more. See dates, start times and who's playing. Bombero Nuñez 1. Recoleta..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | 31 de Octubre en CLUB 1: Eurydome - Kalopsia - Non us | Eurydome |
 | Fri, 6 Nov 2026 | 06 de Noviembre en CLUB 1: Anavel - Das Es - Gravüz |  |
 | Sat, 7 Nov 2026 | 07 de Noviembre en CLUB 1: Carrot Vega - Ismael Quezada - Valløk |  |
 | Thu, 12 Nov 2026 | 12 de Noviembre en CLUB 1: Der Nautilus - Le Mort | Der Nautilus (2) |
@@ -18,9 +17,10 @@ Club 1 is a music venue in Santiago listed on soundcheck. 11 upcoming gigs, with
 | Thu, 19 Nov 2026 | 19 de Noviembre en CLUB 1: FRVNCCSCV - Machromel | FRVNCCSCV |
 | Sat, 21 Nov 2026 | 21 de Noviembre en CLUB 1: Colorblind - Eterenoretorno - Xia |  |
 | Fri, 27 Nov 2026 | 27 de Noviembre en CLUB 1: Jeremías Hinojosa - Naboru - Tokio |  |
+| Sat, 28 Nov 2026 | 28 de Noviembre en CLUB 1: [CLUB 1 x Hebi] Andrea Riffo - Joaks - Oblivion | Andrea Riffo |
 
 ## Address
 
 Bombero Nuñez 1. Recoleta., Santiago
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*

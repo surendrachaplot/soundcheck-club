@@ -1,14 +1,13 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+Roy Rosenfeld is a House and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Downtown LA, Los Angeles on Sat, 31 Oct 2026.
 
-Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 139 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
+Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 139 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: TBA - Downtown LA, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Public Works | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | TBA - Downtown LA | Los Angeles |
 | Sun, 1 Nov 2026 | TBA - Private Location | San Diego |
 | Fri, 13 Nov 2026 | Upside | Florida |
@@ -18,6 +17,7 @@ Roy Rosenfeld is a house and progressive house artist based in Czech Republic, w
 
 ## Recently played
 
+- TBA - Downtown LA, Los Angeles · Sat, 31 Oct 2026
 - Public Works, San Francisco/Oakland · Fri, 30 Oct 2026
 - Ijver, Amsterdam · Sun, 25 Oct 2026
 - WestWeelde, Amsterdam · Sat, 24 Oct 2026
@@ -25,10 +25,9 @@ Roy Rosenfeld is a house and progressive house artist based in Czech Republic, w
 - TBA -  Ex Hacienda de San Pablo de Enmedio, Mexico City · Fri, 16 Oct 2026
 - Ex Hacienda de San Pablo de Enmedio, Mexico City · Fri, 16 Oct 2026
 - Slaktkyrkan, Stockholm · Sat, 10 Oct 2026
-- Club Vaag, Antwerp · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

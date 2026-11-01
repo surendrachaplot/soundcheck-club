@@ -1,14 +1,13 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Fuse presents: Silva Bumpa" on Sat, 31 Oct 2026.
+Fuse is a music venue in Brussels with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Fuse presents: Edward & Loidis" on Fri, 6 Nov 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 14 upcoming gigs, with line-ups including Alarico, Alba Franch, AliA and Altinbas and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 13 upcoming gigs, with line-ups including Alarico, Alba Franch, AliA and Altinbas and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Fuse presents: Silva Bumpa | BAVR, Catalina, DC Noises, DJ Cosworth, Jhobei, Miamor, Silva Bumpa |
 | Fri, 6 Nov 2026 | Fuse presents: Edward & Loidis | AliA, Edward, Loidis |
 | Sat, 7 Nov 2026 | Fuse presents: WSNWG (live all night long) | Fadi Mohem, Ignez, Lady Starlight, Phara, Rødhåd |
 | Tue, 10 Nov 2026 | Fuse presents: Worakls | Lexx (BE), MAKII, Worakls |
@@ -18,9 +17,10 @@ Fuse is a music venue in Brussels listed on soundcheck. 14 upcoming gigs, with l
 | Sat, 21 Nov 2026 | Fuse x Listen Festival with MCR-T & Miss Bashful | MCR-T, Miss Bashful, Stella K |
 | Fri, 27 Nov 2026 | Fuse presents: Alarico & Iman Janes | Alarico, Downside, Hadone |
 | Fri, 27 Nov 2026 | Fuse presents: Alarico & Iman Janes | Alarico, Downside, Hadone, Iman Janes |
+| Sat, 28 Nov 2026 | Fuse presents: Onur Özer (all night long) | Onur Özer |
 
 ## Address
 
 Blaesstraat 208, 1000 Brussel, Belgium, Brussels
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/fuse/)*

@@ -1,6 +1,6 @@
 # Höwley
 
-Höwley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
+Höwley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
 
 Höwley is a techno and house artist based in Canada, with 10 gigs on soundcheck across Vancouver. Often billed alongside Marist, C-Star and DK PAU. Next up: Frankie’s, Vancouver on Sat 31 Oct.
 
@@ -12,6 +12,7 @@ Höwley is a techno and house artist based in Canada, with 10 gigs on soundcheck
 
 ## Recently played
 
+- Frankie’s, Vancouver · Sat, 31 Oct 2026
 - TBA - 150 W HASTINGS, Vancouver · Fri, 23 Oct 2026
 - Frankie's, Vancouver · Sat, 27 Jun 2026
 - TBA, Vancouver · Fri, 26 Jun 2026
@@ -19,10 +20,9 @@ Höwley is a techno and house artist based in Canada, with 10 gigs on soundcheck
 - TBA, Vancouver · Sat, 23 May 2026
 - Industrial 236, Vancouver · Fri, 31 Oct 2025
 - TBA - 520 Alexander, Vancouver · Sat, 7 Jun 2025
-- Industrial 236, Vancouver · Fri, 16 May 2025
 
 ## Shares bills with
 
 Marist, C-Star, DK PAU
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/howley/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howley/)*

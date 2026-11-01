@@ -1,15 +1,13 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "INPUT pres. HALLOWEEN - Lil' Louis, CARISTA, Camelia" on Sat, 31 Oct 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Les Enfants at SEASEACLUB pres. DJ Masda, Mathew Jonson live, Tal Fussman, Sansibar live" on Sat, 7 Nov 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, ATMEN and Binh and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, ATMEN and Binh and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | INPUT pres. HALLOWEEN - Lil' Louis, CARISTA, Camelia | CARISTA, Camelia (IT), Lil' Louis |
-| Sat, 31 Oct 2026 | NEO Elegance - Halloween: Afrobeats, Hip Hop, RnB, Afrohouse |  |
 | Sat, 7 Nov 2026 | Les Enfants at SEASEACLUB pres. DJ Masda, Mathew Jonson live, Tal Fussman, Sansibar live | C4m., Charlotte (FR), DJ Masda, Francesco Carvetta, Gabriel Belabbas, Marco Spalletta, Mathew Jonson, Poggio, Sansibar, Tal Fussman |
 | Sun, 8 Nov 2026 | TSOA: X Years w. Jan Blomqvist (Open Air) | Agatha Pher, Brizas, Jan Blomqvist |
 | Sat, 14 Nov 2026 | LOST x REECORDS | ATMEN, HANIE, Reelow, Simon Erar |
@@ -18,9 +16,10 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 11 upco
 | Sat, 28 Nov 2026 | ■ Checkpoint & Les Enfants goes to Seaseaclub with The Ghost, Evan Baggs  | Evan Baggs, Mari.te, Otis, Paul Lution, Punky and the brain, Raf & Rod, The Ghost |
 | Sat, 5 Dec 2026 | Alta Fidelidad 3D - 3 stages experience - 17:30 to 3:00 |  |
 | Sun, 6 Dec 2026 | Enrenou 1st anniversary pres. Binh | Binh, Javier Carballo, Tunik |
+| Fri, 1 Jan 2027 | AUDIODISE New Year's Day Festival - 14:00-02:00 - 4 stages |  |
 
 ## Address
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

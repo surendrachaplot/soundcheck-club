@@ -1,6 +1,6 @@
 # Chloé Caillet
 
-Chloé Caillet is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brooklyn Storehouse, New-york-city on Sun, 1 Nov 2026.
+Chloé Caillet is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Brooklyn Storehouse, New-york-city on Sun, 1 Nov 2026.
 
 Chloé Caillet is a house and techno artist based in United States of America, with 264 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 64 more. Often billed alongside Seth Troxler, DJ Tennis and Mochakk. Next up: Brooklyn Storehouse, New York City on Sun 1 Nov.
 
@@ -23,7 +23,7 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 - Klaproos, Amsterdam · Thu, 22 Oct 2026
 - Fabrik, Madrid · Sat, 10 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
-- Fvtvr, Paris · Fri, 2 Oct 2026
+- FVTVR, Paris · Fri, 2 Oct 2026
 - Public Works, San Francisco/Oakland · Sat, 26 Sept 2026
 - Knockdown Center, New York City · Fri, 25 Sept 2026
 
@@ -31,4 +31,4 @@ Chloé Caillet is a house and techno artist based in United States of America, w
 
 Seth Troxler, DJ Tennis, Mochakk
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloecaillet/)*

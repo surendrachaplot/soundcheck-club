@@ -1,14 +1,13 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jahrhunderthalle, Bochum on Sat, 31 Oct 2026.
+KUKO is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - MATREZ, Žorža Klemansoa 37, 11000, Belgrade on Sat, 7 Nov 2026.
 
-KUKO is a techno and trance artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: Jahrhunderthalle, Bochum on Sat 31 Oct.
+KUKO is a techno and trance artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: TBA - MATREZ, Žorža Klemansoa 37, 11000, Belgrade on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Jahrhunderthalle | Bochum |
 | Sat, 7 Nov 2026 | TBA - MATREZ, Žorža Klemansoa 37, 11000 | Belgrade |
 | Fri, 13 Nov 2026 | Melbourne Pavilion | Melbourne |
 | Sat, 14 Nov 2026 | The Ivy | Sydney |
@@ -20,9 +19,11 @@ KUKO is a techno and trance artist based in Germany, with 258 gigs on soundcheck
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
 | Sat, 12 Dec 2026 | Kompass Klub | Ghent |
+| Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
 
 ## Recently played
 
+- Jahrhunderthalle, Bochum · Sat, 31 Oct 2026
 - Gotec, Karlsruhe · Fri, 30 Oct 2026
 - Afas Live, Amsterdam · Fri, 23 Oct 2026
 - Lutfi Kirdar Congress Center, Istanbul · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ KUKO is a techno and trance artist based in Germany, with 258 gigs on soundcheck
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
-- Hans Bunte Areal, Freiburg · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

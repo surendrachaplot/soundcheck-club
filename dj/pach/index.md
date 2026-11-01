@@ -1,20 +1,20 @@
 # PACH
 
-PACH is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 31 Oct 2026.
+PACH is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
-PACH is a house and tech house artist based in United Kingdom, with 69 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 12 more. Often billed alongside Marlie, ADMNTi and Rossi. Next up: NX Newcastle, Newcastle on Sat 31 Oct.
+PACH is a house and tech house artist based in United Kingdom, with 69 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 12 more. Often billed alongside Marlie, ADMNTi and Rossi. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | NX Newcastle | Newcastle |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Fri, 11 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played
 
+- NX Newcastle, Newcastle · Sat, 31 Oct 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - The Carpet Shop, London · Fri, 11 Sept 2026
 - Shelter Amsterdam, Amsterdam · Sat, 1 Aug 2026
@@ -22,10 +22,9 @@ PACH is a house and tech house artist based in United Kingdom, with 69 gigs on s
 - La Terrrazza, Barcelona · Sun, 21 Jun 2026
 - Bosc Tancat / Diverbosc, Barcelona · Thu, 18 Jun 2026
 - High Lights - Barking Park, London · Sat, 30 May 2026
-- block., Dublin · Fri, 29 May 2026
 
 ## Shares bills with
 
 Marlie, ADMNTi, Rossi
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pach/)*

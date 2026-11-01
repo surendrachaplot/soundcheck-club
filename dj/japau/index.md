@@ -1,14 +1,15 @@
 # JAPAU
 
-JAPAU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Arzenal, Budapest on Fri, 12 Mar 2027.
+JAPAU is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Arzenal, Budapest on Fri, 12 Mar 2027.
 
-JAPAU is a techno and industrial artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 12 more. Often billed alongside Raxeller, Aphøtic and Stan Christ. Next up: Arzenal, Budapest on Fri 12 Mar.
+JAPAU is a techno and industrial artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 12 more. Often billed alongside Raxeller, Aphøtic and Stan Christ. Next up: Arzenal, Budapest on Fri 12 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 12 Mar 2027 | Arzenal | Budapest |
+| Sat, 20 Mar 2027 | TBA - SECRET PORTAL WAREHOUSE RAVE | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JAPAU is a techno and industrial artist based in Germany, with 40 gigs on soundc
 
 Raxeller, Aphøtic, Stan Christ
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/japau/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/japau/)*

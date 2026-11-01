@@ -1,8 +1,8 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "IAM Productions presents: Bob Moses" on Sun, 1 Nov 2026.
+Akvárium Klub is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "IAM Productions presents: Bob Moses" on Sun, 1 Nov 2026.
 
-Akvárium Klub is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, with line-ups including ALT8, Andrew Cairns, Belocca and blk. and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
+Akvárium Klub is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, with line-ups including Alignment, ALT8, Andrew Cairns and Belocca and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 12 upcoming gi
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

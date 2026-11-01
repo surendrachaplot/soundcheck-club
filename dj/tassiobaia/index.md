@@ -1,6 +1,6 @@
 # Tassio Baía
 
-Tassio Baía is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Magno, Madrid on Sun, 1 Nov 2026.
+Tassio Baía is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Club Magno, Madrid on Sun, 1 Nov 2026.
 
 Tassio Baía is a house and disco artist based in Brazil, with 8 gigs on soundcheck across Lisbon, Madrid, Rio de Janeiro and Sao Paulo. Often billed alongside Paulete Lindacelva, Lady Shaka and OMOLOKO. Next up: Club Magno, Madrid on Sun 1 Nov.
 
@@ -24,4 +24,4 @@ Tassio Baía is a house and disco artist based in Brazil, with 8 gigs on soundch
 
 Paulete Lindacelva, Lady Shaka, OMOLOKO
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tassiobaia/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tassiobaia/)*

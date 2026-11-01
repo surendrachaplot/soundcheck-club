@@ -1,0 +1,21 @@
+# DubGuy
+
+DubGuy is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at club asia, Tokyo on Sat, 21 Nov 2026.
+
+DubGuy is a bass and electro artist based in Japan, with 2 gigs on soundcheck across Osaka and Tokyo. Often billed alongside 80KIDZ, Amps and Carpainter. Next up: club asia, Tokyo on Sat 21 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | club asia | Tokyo |
+
+## Recently played
+
+- Upsidedown, Osaka · Fri, 23 Oct 2026
+
+## Shares bills with
+
+80KIDZ, Amps, Carpainter
+
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubguy/)*

@@ -1,14 +1,13 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Club Roto - Halloween [sold out]" on Sat, 31 Oct 2026.
+Lofi is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Chaos In The CBD pres. In Dust We Trust" on Sat, 7 Nov 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including 36framez, AAT (NL), Agents Of Time and Alexander Koning and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including 36framez, AAT (NL), Agents Of Time and Alexander Koning and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Club Roto - Halloween [sold out] | Dennis Quin, Helly, Job de Jong, Michel de Hey, Noach, Reeshy, Reiss, jWave |
 | Sat, 7 Nov 2026 | Chaos In The CBD pres. In Dust We Trust | Chaos In The CBD, Elias Mazian, Jennifer Loveless, Ryan Elliott |
 | Fri, 13 Nov 2026 | Loco Dice [all night long] | Loco Dice |
 | Sat, 14 Nov 2026 | Sala | ASEC, Bastienne, Beste Hira, Colin Benders, Len Faki, Shed, VNTM |
@@ -18,9 +17,10 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with 
 | Sun, 29 Nov 2026 | Partiboi69 pres. Life Extension | AAT (NL), Benny2, Partiboi69, Robbie Doherty |
 | Fri, 4 Dec 2026 | Amsterdub weekender by King Shiloh Soundystem | Ital Power, King Shiloh |
 | Sat, 12 Dec 2026 | Sven Väth [3hr set], Luna Ludmila [live], Kyra Khaldi | Kyra Khaldi, Luna Ludmila, Sven Vath |
+| Sat, 12 Dec 2026 | Herrensauna | Boris, CEM, JASSS, MCMLXXXV, SALOME |
 
 ## Address
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

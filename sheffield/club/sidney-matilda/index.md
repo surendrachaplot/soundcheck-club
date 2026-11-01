@@ -1,14 +1,13 @@
 # Sidney & Matilda
 
-Sidney & Matilda is a music venue in Sheffield with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE " on Sat, 31 Oct 2026.
+Sidney & Matilda is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Steel City D&B Winter Warmer with Danny Byrd + Aries" on Fri, 13 Nov 2026.
 
-Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 6 upcoming gigs, with line-ups including Aries, Crazy P, Danny Byrd and DJ Hazard and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
+Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs, with line-ups including Aries, Crazy P, Danny Byrd and DJ Hazard and 2 more. See dates, start times and who's playing. Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | WICKED BEHAVIOUR: MATTIK, Ziggy Ostas, DEADBEAT UK & MANY MORE  | F3rg13, IMO UK, INKLING GIRLZ, JOESELECTA, Mattik (UK), Ziggy Ostas |
 | Fri, 13 Nov 2026 | Steel City D&B Winter Warmer with Danny Byrd + Aries | Aries, Danny Byrd |
 | Fri, 20 Nov 2026 | S&M x BB presents: DJ Hazard | DJ Hazard |
 | Fri, 27 Nov 2026 | S&M X Junglist Alliance presents: DJ Rap | DJ Rap |
@@ -19,4 +18,4 @@ Sidney & Matilda is a music venue in Sheffield listed on soundcheck. 6 upcoming 
 
 Rivelin Works, 46B Sidney St, Sheffield S1 4RH, United Kingdom, Sheffield
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/sidney-matilda/)*

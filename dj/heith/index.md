@@ -1,14 +1,13 @@
 # Heith
 
-Heith is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Østre, Bergen on Thu, 29 Oct 2026.
+Heith is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Heith is an experimental and electronica artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Athens, Bergen and Berlin and 20 more. Often billed alongside ojoo, Amnesia Scanner and Azu Tiwaline. Next up: Østre, Bergen on Thu 29 Oct.
+Heith is an experimental and electronica artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Athens, Bergen and Berlin and 20 more. Often billed alongside ojoo, Amnesia Scanner and Azu Tiwaline. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Østre | Bergen |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 
 ## Recently played
@@ -26,4 +25,4 @@ Heith is an experimental and electronica artist based in Italy, with 46 gigs on 
 
 ojoo, Amnesia Scanner, Azu Tiwaline
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/heith/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heith/)*

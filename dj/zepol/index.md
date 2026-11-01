@@ -1,6 +1,6 @@
 # Zepol
 
-Zepol is a Classical and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at nueve cero nueve, Mexico City on Thu, 5 Nov 2026.
+Zepol is a Classical and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 5 Nov 2026.
 
 Zepol is a classical and dancehall artist, with 7 gigs on soundcheck across Medellin and Mexico City. Often billed alongside AB, Luna and Tchakomi. Next up: nueve cero nueve, Mexico City on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ Zepol is a classical and dancehall artist, with 7 gigs on soundcheck across Mede
 
 AB, Luna (1), Tchakomi
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zepol/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zepol/)*

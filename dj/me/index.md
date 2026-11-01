@@ -1,6 +1,6 @@
 # &ME
 
-&ME is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Uhuru Gardens, Nairobi on Sat, 21 Nov 2026.
+&ME is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Uhuru Gardens, Nairobi on Sat, 21 Nov 2026.
 
 &ME is a house and techno artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: Uhuru Gardens, Nairobi on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 Rampa, Adam Port, Sossa
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*

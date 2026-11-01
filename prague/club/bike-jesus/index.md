@@ -1,14 +1,13 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ" on Sat, 31 Oct 2026.
+Bike Jesus is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "LYRA with FUNK D'VOID [ Cocoon / Bedrock ]" on Fri, 6 Nov 2026.
 
-Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including BERLIN, Credit 00, DARDANELLA and Dash (CZ) and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
+Bike Jesus is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including BERLIN, Credit 00, DARDANELLA and Dash (CZ) and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | ƑƩⱮӾႠӨⱤƩ: Ӈలҝลţల ርลไไĬתּဌ | Mother Menace, SAVBEA, XENEA LUMRA |
 | Fri, 6 Nov 2026 | LYRA with FUNK D'VOID [ Cocoon / Bedrock ] | Funk D'Void, Ondrej Husak, Rico Casazza, Roman Rai, Smeti, Täino |
 | Fri, 13 Nov 2026 | Lick with Bobok & Teoman, Gökdeniz, Fembot, Keo Jesse & Dash | Dash (CZ), Fembot, too many Jesses |
 | Fri, 20 Nov 2026 | Credit 00 (live), Midirama & Raphael Kosmos | Credit 00, Midirama, Raphael Kosmos |
@@ -22,4 +21,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 9 upcoming gigs, wit
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

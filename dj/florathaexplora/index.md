@@ -1,19 +1,19 @@
 # FLORA THA EXPLORA
 
-FLORA THA EXPLORA is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ironworks, London on Sat, 31 Oct 2026.
+FLORA THA EXPLORA is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at fabric, London on Sun, 22 Nov 2026.
 
-FLORA THA EXPLORA is a house and minimal artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside Rhiavas, DRIA and Elliot Schooling. Next up: Ironworks, London on Sat 31 Oct.
+FLORA THA EXPLORA is a house and minimal artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside Rhiavas, DRIA and Elliot Schooling. Next up: fabric, London on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Ironworks | London |
 | Sun, 22 Nov 2026 | fabric | London |
 | Fri, 27 Nov 2026 | Upper East | London |
 
 ## Recently played
 
+- Ironworks, London · Sat, 31 Oct 2026
 - 77, London · Mon, 19 Oct 2026
 - 77, London · Fri, 4 Sept 2026
 - Club Cheek, London · Fri, 31 Jul 2026
@@ -21,10 +21,9 @@ FLORA THA EXPLORA is a house and minimal artist based in United Kingdom, with 21
 - fabric, London · Sun, 21 Jun 2026
 - Vittoria Wharf Studio, London · Thu, 11 Jun 2026
 - 93 Feet East, London · Sat, 16 May 2026
-- Bermondsey Social Club, London · Sat, 18 Apr 2026
 
 ## Shares bills with
 
 Rhiavas, DRIA, Elliot Schooling
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florathaexplora/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florathaexplora/)*

@@ -1,14 +1,13 @@
 # ecec
 
-ecec is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Saloon, Tokyo on Fri, 30 Oct 2026.
+ecec is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Saloon, Tokyo on Mon, 2 Nov 2026.
 
-ecec is a techno and house artist based in Japan, with 188 gigs on soundcheck across Chengdu, Osaka, Seoul and Shanghai and 3 more. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: Saloon, Tokyo on Fri 30 Oct.
+ecec is a techno and house artist based in Japan, with 188 gigs on soundcheck across Chengdu, Osaka, Seoul and Shanghai and 3 more. Often billed alongside JUN INAGAWA, OKAMOTO REIJI and MoEPiKA. Next up: Saloon, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Saloon | Tokyo |
 | Mon, 2 Nov 2026 | Saloon | Tokyo |
 
 ## Recently played
@@ -26,4 +25,4 @@ ecec is a techno and house artist based in Japan, with 188 gigs on soundcheck ac
 
 JUN INAGAWA, OKAMOTO REIJI, MoEPiKA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ecec/)*

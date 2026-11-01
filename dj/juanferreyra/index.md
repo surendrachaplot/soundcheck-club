@@ -1,6 +1,6 @@
 # Juan Ferreyra
 
-Juan Ferreyra is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
+Juan Ferreyra is a Acid and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
 
 Juan Ferreyra is an acid and italo disco artist based in Argentina, with 7 gigs on soundcheck across Berlin. Often billed alongside Clemente (DE), Easy Latinos and Felipe G. Next up: Golden Gate, Berlin on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Juan Ferreyra is an acid and italo disco artist based in Argentina, with 7 gigs 
 
 Clemente (DE), Easy Latinos, Felipe G
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/juanferreyra/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanferreyra/)*

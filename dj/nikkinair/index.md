@@ -1,15 +1,13 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Various Venues, Guimarães, PT, Portugal on Thu, 29 Oct 2026.
+Nikki Nair is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Badaboum, Paris on Thu, 5 Nov 2026.
 
-Nikki Nair is a techno and bass artist based in United States of America, with 182 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 58 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: TBA - Various Venues, Guimarães, PT, Portugal on Thu 29 Oct.
+Nikki Nair is a techno and bass artist based in United States of America, with 182 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 58 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: Badaboum, Paris on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | TBA - Various Venues, Guimarães, PT | Portugal |
-| Sat, 31 Oct 2026 | M.O.T | London |
 | Thu, 5 Nov 2026 | Badaboum | Paris |
 | Fri, 13 Nov 2026 | Hidden | Manchester |
 | Sat, 14 Nov 2026 | Le Confort Moderne | West |
@@ -17,6 +15,7 @@ Nikki Nair is a techno and bass artist based in United States of America, with 1
 
 ## Recently played
 
+- M.O.T, London · Sat, 31 Oct 2026
 - TBA - Various Venues, Guimarães, PT, Portugal · Thu, 29 Oct 2026
 - Hotel Forum, Krakow · Sat, 10 Oct 2026
 - Wigwam, Dublin · Fri, 9 Oct 2026
@@ -24,10 +23,9 @@ Nikki Nair is a techno and bass artist based in United States of America, with 1
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - TBA - Downtown Los Angeles, Los Angeles · Sat, 5 Sept 2026
 - Process PDX, Portland · Thu, 3 Sept 2026
-- TBA - Downtown Los Angeles, Los Angeles · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Hudson Mohawke, DJ ADHD, Chloé Robinson
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkinair/)*

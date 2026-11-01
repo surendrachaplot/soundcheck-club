@@ -1,14 +1,13 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Gallagher Square, San Diego on Sat, 31 Oct 2026.
+CHRIS STASSY is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Lenovo Garage, Madrid on Sun, 8 Nov 2026.
 
-CHRIS STASSY is a house and techno artist based in Netherlands, with 304 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 69 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: Gallagher Square, San Diego on Sat 31 Oct.
+CHRIS STASSY is a house and techno artist based in Netherlands, with 304 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 69 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: The Lenovo Garage, Madrid on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Gallagher Square | San Diego |
 | Sun, 8 Nov 2026 | The Lenovo Garage | Madrid |
 | Fri, 13 Nov 2026 | Antwerp Expo | Antwerp |
 | Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
@@ -20,9 +19,11 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 304 gigs on
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 8 Jan 2027 | TBA - La Fabrica, Cordoba | Argentina |
 | Sun, 28 Feb 2027 | Ozone Reserve | Perth |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- Gallagher Square, San Diego · Sat, 31 Oct 2026
 - The Concourse Project, Austin · Thu, 29 Oct 2026
 - Taets Art & Event Park, Amsterdam · Sat, 24 Oct 2026
 - Pavilhão Carlos Lopes, Lisbon · Sat, 17 Oct 2026
@@ -30,10 +31,9 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 304 gigs on
 - Aviva Studios, Manchester · Sat, 10 Oct 2026
 - Aviva Studios, Manchester · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Tue, 29 Sept 2026
-- Ex Base Nato, Naples · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

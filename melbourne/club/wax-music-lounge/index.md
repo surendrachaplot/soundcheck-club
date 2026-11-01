@@ -1,14 +1,13 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 44 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "SUB LEVEL 002" on Sat, 31 Oct 2026.
+Wax Music Lounge is a music venue in Melbourne with 43 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "CIRCADIAN RHYTHMS" on Mon, 2 Nov 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 44 upcoming gigs, with line-ups including CHARLES-EDDY, Joey Coco, leverson and Manchild and 2 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 43 upcoming gigs, with line-ups including leverson, Manchild, Miles Nautu and Savage The Girl and 1 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | SUB LEVEL 002 | CHARLES-EDDY, Joey Coco |
 | Mon, 2 Nov 2026 | CIRCADIAN RHYTHMS |  |
 | Tue, 3 Nov 2026 | BRAZLOMBIA |  |
 | Wed, 4 Nov 2026 | MELLOWDÍAS THUMP |  |
@@ -18,9 +17,10 @@ Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 44 upcoming
 | Sat, 7 Nov 2026 | THE SHUT UP AND LISTEN CLUB – No. 10 |  |
 | Mon, 9 Nov 2026 | CIRCADIAN RHYTHMS |  |
 | Mon, 9 Nov 2026 | leverson x Wax Music Lounge | leverson |
+| Tue, 10 Nov 2026 | BRAZLOMBIA |  |
 
 ## Address
 
 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria, Melbourne
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/wax-music-lounge/)*

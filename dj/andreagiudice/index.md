@@ -1,14 +1,13 @@
 # Andrea Giudice
 
-Andrea Giudice is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London on Sat, 31 Oct 2026.
+Andrea Giudice is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 8 Nov 2026.
 
-Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on soundcheck across Barcelona and London. Often billed alongside Larry Cadge, Grittrip and Reeno. Next up: TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London on Sat 31 Oct.
+Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on soundcheck across Barcelona and London. Often billed alongside Larry Cadge, Grittrip and Reeno. Next up: Starlane Pizza Bar, London on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick | London |
 | Sun, 8 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 14 Nov 2026 | Colour Factory | London |
 | Sat, 19 Dec 2026 | Colour Factory | London |
@@ -20,6 +19,7 @@ Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on
 
 ## Recently played
 
+- TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London · Sat, 31 Oct 2026
 - Colour Factory, London · Sat, 24 Oct 2026
 - Colour Factory, London · Sat, 24 Oct 2026
 - Fabwick, London · Sun, 20 Sept 2026
@@ -27,10 +27,9 @@ Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on
 - Gallery, London · Thu, 6 Aug 2026
 - Starlane Pizza Bar, London · Sun, 19 Jul 2026
 - Colour Factory, London · Sat, 18 Jul 2026
-- Starlane Pizza Bar, London · Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Larry Cadge, Grittrip, Reeno
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreagiudice/)*

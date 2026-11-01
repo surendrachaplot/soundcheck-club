@@ -1,6 +1,6 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+Mac Declos is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
 Mac Declos is a techno and house artist based in France, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Anetha, Lacchesi and Chlär. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
@@ -22,6 +22,7 @@ Mac Declos is a techno and house artist based in France, with 225 gigs on soundc
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Sat, 31 Oct 2026
 - Wigwam, Dublin · Fri, 23 Oct 2026
 - RADION, Amsterdam · Wed, 21 Oct 2026
 - Masada, Milan · Sat, 17 Oct 2026
@@ -29,10 +30,9 @@ Mac Declos is a techno and house artist based in France, with 225 gigs on soundc
 - FOLD, London · Sat, 3 Oct 2026
 - Boogaloo, Zagreb · Fri, 2 Oct 2026
 - BASEMENT, New York City · Sat, 26 Sept 2026
-- 131 Mccormack St, Toronto · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Anetha, Lacchesi, Chlär
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

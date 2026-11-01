@@ -1,6 +1,6 @@
 # Nü Androids presents: Durante at Tigres de la Noche
 
-Nü Androids presents: Durante at Tigres de la Noche on Sat 30 Jan, Washington Dc. 1 artist: Durante. See the line-up on soundcheck.
+Nü Androids presents: Durante at Tigres de la Noche on Sat 30 Jan, Washington Dc. 1 artist: Durante. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

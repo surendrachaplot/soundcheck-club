@@ -1,14 +1,13 @@
 # Dirtyphonics
 
-Dirtyphonics is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Dirtyphonics is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
 
-Dirtyphonics is a drum & bass and dubstep artist based in France, with 28 gigs on soundcheck across Amsterdam, Auckland, Bratislava and Brisbane and 15 more. Often billed alongside Black Sun Empire, Koven and Mandragora. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+Dirtyphonics is a drum & bass and dubstep artist based in France, with 28 gigs on soundcheck across Amsterdam, Auckland, Bratislava and Brisbane and 15 more. Often billed alongside Black Sun Empire, Koven and Mandragora. Next up: The Woodshop, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Fri, 13 Nov 2026 | The Woodshop | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Dirtyphonics is a drum & bass and dubstep artist based in France, with 28 gigs o
 
 Black Sun Empire, Koven, Mandragora
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyphonics/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dirtyphonics/)*

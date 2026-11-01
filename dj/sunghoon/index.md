@@ -1,6 +1,6 @@
 # Sunghoon
 
-Sunghoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at teller, Seoul on Fri, 13 Nov 2026.
+Sunghoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at teller, Seoul on Fri, 13 Nov 2026.
 
 Sunghoon is a techno and house artist based in South Korea, with 83 gigs on soundcheck across Seoul. Often billed alongside Xanexx, hcy. and Koshin. Next up: teller, Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sunghoon is a techno and house artist based in South Korea, with 83 gigs on soun
 
 Xanexx, hcy., Koshin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sunghoon/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunghoon/)*

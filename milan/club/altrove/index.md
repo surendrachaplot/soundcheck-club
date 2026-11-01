@@ -1,14 +1,13 @@
 # Altrove
 
-Altrove is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "1 Year of LAMA STUDIO w/ Kreggo" on Sat, 31 Oct 2026.
+Altrove is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Art d'enfer at Altrove Milano" on Fri, 13 Nov 2026.
 
-Altrove is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including ALDAVE, AMBRA, Jasmine Delle Vedove and Kreggo and 2 more. See dates, start times and who's playing. Via Arcangelo Corelli, 27, 20134 Milano MI, Italy.
+Altrove is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including ALDAVE, AMBRA, Lucifero and Marc Anthony Bowen and 1 more. See dates, start times and who's playing. Via Arcangelo Corelli, 27, 20134 Milano MI, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | 1 Year of LAMA STUDIO w/ Kreggo | Jasmine Delle Vedove, Kreggo, Mareeo, Wusketti |
 | Fri, 13 Nov 2026 | Art d'enfer at Altrove Milano | Lucifero, Marc Anthony Bowen |
 | Sat, 14 Nov 2026 | Mischia - Altrove Milano | ALDAVE, AMBRA, Nicodemo |
 
@@ -16,4 +15,4 @@ Altrove is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with li
 
 Via Arcangelo Corelli, 27, 20134 Milano MI, Italy, Milan
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/altrove/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/altrove/)*

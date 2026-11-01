@@ -1,14 +1,15 @@
 # Esther Summer
 
-Esther Summer is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Lasociaciøn, Madrid on Fri, 27 Nov 2026.
+Esther Summer is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Lasociaciøn, Madrid on Fri, 27 Nov 2026.
 
-Esther Summer is a techno and tech house artist based in Spain, with 13 gigs on soundcheck across Madrid. Often billed alongside KRSDJ, Pulpix and 3polar. Next up: Lasociaciøn, Madrid on Fri 27 Nov.
+Esther Summer is a techno and electronica artist based in Spain, with 14 gigs on soundcheck across Madrid. Often billed alongside KRSDJ, Pulpix and 3polar. Next up: Lasociaciøn, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Lasociaciøn | Madrid |
+| Sat, 26 Dec 2026 | Specka | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Esther Summer is a techno and tech house artist based in Spain, with 13 gigs on 
 
 KRSDJ, Pulpix, 3polar
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esthersummer/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esthersummer/)*

@@ -1,8 +1,8 @@
 # object blue
 
-object blue is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
+object blue is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
 
-object blue is a techno and experimental artist based in Japan, with 52 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 23 more. Often billed alongside TSVI, Anz and DJ Voices. Next up: SCHRON, Poznan on Fri 6 Nov.
+object blue is a techno and experimental artist based in Japan, with 53 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 23 more. Often billed alongside TSVI, Anz and DJ Voices. Next up: SCHRON, Poznan on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ object blue is a techno and experimental artist based in Japan, with 52 gigs on 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | SCHRON | Poznan |
 | Thu, 18 Feb 2027 | TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects) | London |
+| Fri, 19 Feb 2027 | Cafe OTO | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ object blue is a techno and experimental artist based in Japan, with 52 gigs on 
 
 TSVI, Anz, DJ Voices
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/objectblue/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/objectblue/)*

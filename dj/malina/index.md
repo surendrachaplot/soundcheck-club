@@ -1,6 +1,6 @@
 # Malina
 
-Malina is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Edmonton on Fri, 6 Nov 2026.
+Malina is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Edmonton on Fri, 6 Nov 2026.
 
 Malina is a techno and bass artist, with 14 gigs on soundcheck across Calgary and Edmonton. Often billed alongside Crimson, Mother Mary and A-51. Next up: TBA, Edmonton on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Malina is a techno and bass artist, with 14 gigs on soundcheck across Calgary an
 
 Crimson (2), Mother Mary, A-51
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malina/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malina/)*

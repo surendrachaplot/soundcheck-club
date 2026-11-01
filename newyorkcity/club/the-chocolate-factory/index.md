@@ -1,14 +1,13 @@
 # The Chocolate Factory
 
-The Chocolate Factory is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Azure presents: Bakermat" on Sat, 31 Oct 2026.
+The Chocolate Factory is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Teksupport: Volkoder (all night long) SOLD OUT" on Fri, 6 Nov 2026.
 
-The Chocolate Factory is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Bakermat, Flash Gea, Hypho and Kim Ann Foxman and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
+The Chocolate Factory is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Flash Gea, Hypho, Kim Ann Foxman and Mija and 2 more. See dates, start times and who's playing. 70 Scott Ave Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Azure presents: Bakermat | Bakermat |
 | Fri, 6 Nov 2026 | Teksupport: Volkoder (all night long) SOLD OUT | Volkoder |
 | Sat, 7 Nov 2026 | Sights & Sounds: Zombies In Miami (live), Youandewan, Kim Ann Foxman, Nate Mohler (A/V set) | Kim Ann Foxman, Youandewan, Zombies In Miami |
 | Sat, 7 Nov 2026 | ØTTA (Hotties) & Guests | ØTTA |
@@ -20,4 +19,4 @@ The Chocolate Factory is a music venue in New York City listed on soundcheck. 7 
 
 70 Scott Ave Brooklyn, NY 11237, New York City
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-chocolate-factory/)*

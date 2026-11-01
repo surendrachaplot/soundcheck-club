@@ -1,14 +1,14 @@
 # Atusa
 
-Atusa is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Huset I Magstræde, Copenhagen on Sat, 7 Nov 2026.
+Atusa is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Stairway, Copenhagen on Sat, 7 Nov 2026.
 
-Atusa is a techno and progressive house artist based in Denmark, with 26 gigs on soundcheck across Copenhagen and Los Angeles. Often billed alongside Muskila, Téa and Angel Wei. Next up: Huset I Magstræde, Copenhagen on Sat 7 Nov.
+Atusa is a techno and progressive house artist based in Denmark, with 26 gigs on soundcheck across Copenhagen and Los Angeles. Often billed alongside Muskila, Téa and Angel Wei. Next up: Stairway, Copenhagen on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Huset I Magstræde | Copenhagen |
+| Sat, 7 Nov 2026 | Stairway | Copenhagen |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Atusa is a techno and progressive house artist based in Denmark, with 26 gigs on
 
 Muskila, Téa, Angel Wei
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atusa/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atusa/)*

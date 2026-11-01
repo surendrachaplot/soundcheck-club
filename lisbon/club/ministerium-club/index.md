@@ -1,14 +1,13 @@
 # Ministerium Club
 
-Ministerium Club is a music venue in Lisbon with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "1/4 Escuro Club Series with Kr!z & Kameliia" on Sat, 31 Oct 2026.
+Ministerium Club is a music venue in Lisbon with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Riktus with Vinka Wydro (Fr) • TEGRON (Br) • Thais Lorme • CYFER b2b BigT • VEPÜIR" on Thu, 5 Nov 2026.
 
-Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming gigs, with line-ups including 753, Aleeki, Ben Sims and BigT and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
+Ministerium Club is a music venue in Lisbon listed on soundcheck. 8 upcoming gigs, with line-ups including 753, Aleeki, Ben Sims and BigT and 2 more. See dates, start times and who's playing. Praça Comércio 72, 1100-148, Lisboa, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | 1/4 Escuro Club Series with Kr!z & Kameliia | Gear, Kameliia, Kr!z |
 | Thu, 5 Nov 2026 | Riktus with Vinka Wydro (Fr) • TEGRON (Br) • Thais Lorme • CYFER b2b BigT • VEPÜIR | BigT, TEGRON, Thaïs LORME, Vinka Wydro |
 | Fri, 6 Nov 2026 | Lost & Found × COUNTERPOINT | Aleeki, HLZ (IT), MOLECULAR, PIX.L, djAlite |
 | Sat, 7 Nov 2026 | Noite Príncipe | Bubas, DJ Doraemon, DJ K (BR), DJ Marfox, DJ Narciso, Helviofox, Nídia |
@@ -22,4 +21,4 @@ Ministerium Club is a music venue in Lisbon listed on soundcheck. 9 upcoming gig
 
 Praça Comércio 72, 1100-148, Lisboa, Portugal, Lisbon
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/ministerium-club/)*

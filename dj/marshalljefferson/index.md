@@ -1,18 +1,18 @@
 # Marshall Jefferson
 
-Marshall Jefferson is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Marshall Jefferson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Woldenberg Riverfront Park, New-orleans on Fri, 13 Nov 2026.
 
-Marshall Jefferson is a house and deep house artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bologna and 18 more. Often billed alongside Andy Baxter, Jason Bye and Armand Van Helden. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
+Marshall Jefferson is a house and deep house artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Austin, Barcelona and Bologna and 18 more. Often billed alongside Andy Baxter, Jason Bye and Armand Van Helden. Next up: Woldenberg Riverfront Park, New Orleans on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Autodromo Enzo e Dino Ferrari | Bologna |
 | Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
 
 ## Recently played
 
+- Autodromo Enzo e Dino Ferrari, Bologna · Sat, 31 Oct 2026
 - Freeze HiFi, Liverpool · Sat, 19 Sept 2026
 - Paragon, New York City · Sat, 11 Jul 2026
 - Charlies Loft, Glasgow · Sat, 16 May 2026
@@ -20,10 +20,9 @@ Marshall Jefferson is a house and deep house artist based in United States of Am
 - The Warehouse Project, Manchester · Sat, 22 Nov 2025
 - The Fox and Firkin, London · Fri, 7 Nov 2025
 - Industry City, New York City · Sat, 4 Oct 2025
-- TBA - 7337 W 100th Pl, Bridgeview, IL, 60455, Chicago · Sat, 20 Sept 2025
 
 ## Shares bills with
 
 Andy Baxter, Jason Bye, Armand Van Helden
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marshalljefferson/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marshalljefferson/)*

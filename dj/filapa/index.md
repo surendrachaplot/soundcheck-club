@@ -1,19 +1,19 @@
 # filapa
 
-filapa is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - SECRET LOCATION, Hannover on Sat, 31 Oct 2026.
+filapa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at WDM, Hannover on Fri, 27 Nov 2026.
 
-filapa is a techno and trance artist, with 16 gigs on soundcheck across Berlin and Hannover. Often billed alongside Aztronom, 80HD and J-DEK. Next up: TBA - SECRET LOCATION, Hannover on Sat 31 Oct.
+filapa is a techno and trance artist, with 16 gigs on soundcheck across Berlin and Hannover. Often billed alongside Aztronom, 80HD and J-DEK. Next up: WDM, Hannover on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - SECRET LOCATION | Hannover |
 | Fri, 27 Nov 2026 | WDM | Hannover |
 | Fri, 11 Dec 2026 | WDM | Hannover |
 
 ## Recently played
 
+- TBA - SECRET LOCATION, Hannover · Sat, 31 Oct 2026
 - WDM, Hannover · Sat, 17 Oct 2026
 - WDM, Hannover · Sat, 22 Aug 2026
 - WDM, Hannover · Wed, 13 May 2026
@@ -21,10 +21,9 @@ filapa is a techno and trance artist, with 16 gigs on soundcheck across Berlin a
 - TBA - ihmeKULT! Ihmeplatz 7E, 30449 Hannover, Hannover · Sat, 25 Apr 2026
 - Brain Klub, Hannover · Fri, 28 Nov 2025
 - Garage Nord, Hannover · Sat, 15 Nov 2025
-- Garage Nord, Hannover · Sat, 18 Oct 2025
 
 ## Shares bills with
 
 Aztronom, 80HD, J-DEK
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/filapa/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filapa/)*

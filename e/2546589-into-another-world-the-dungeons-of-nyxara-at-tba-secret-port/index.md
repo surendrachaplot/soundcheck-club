@@ -1,6 +1,6 @@
 # Into Another World ✦ THE DUNGEONS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE RAVE
 
-Into Another World ✦ THE DUNGEONS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE RAVE on Sat 20 Mar, Berlin. 11 artists: ÆCSEDI, Aslan, cee_ohh and HTRX and 7 more. See the line-up on soundcheck.
+Into Another World ✦ THE DUNGEONS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE RAVE on Sat 20 Mar, Berlin. 12 artists: ÆCSEDI, Aslan, cee_ohh and HTRX and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Into Another World ✦ THE DUNGEONS OF NYXARA at TBA - SECRET PORTAL WAREHOUSE R
 - cee_ohh
 - HTRX
 - Isabelle Beaucamp
+- JAPAU
 - M.ACKE
 - MAGMAOM
 - MROOK

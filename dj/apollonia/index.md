@@ -1,6 +1,6 @@
 # Apollonia
 
-Apollonia is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Apollonia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Apollonia is a house and techno artist based in France, with 105 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 26 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Shonky. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -9,7 +9,6 @@ Apollonia is a house and techno artist based in France, with 105 gigs on soundch
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Fri, 30 Oct 2026 | Signal | New York City |
 | Sun, 1 Nov 2026 | Flash | Washington DC |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sat, 28 Nov 2026 | Index | Dublin |
@@ -29,4 +28,4 @@ Apollonia is a house and techno artist based in France, with 105 gigs on soundch
 
 Dyed Soundorom, Dan Ghenacia, Shonky
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apollonia/)*

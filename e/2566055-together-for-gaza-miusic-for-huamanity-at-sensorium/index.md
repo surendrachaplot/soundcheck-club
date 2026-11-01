@@ -1,6 +1,6 @@
 # TOGETHER FOR GAZA /// MIUSIC FOR HUAMANITY at Sensorium
 
-TOGETHER FOR GAZA /// MIUSIC FOR HUAMANITY at Sensorium on Fri 20 Nov, Berlin. 12 artists: Andeel, Blachord, d4ia and DJ Hitwave and 8 more. Techno and Tech House. See the line-up on soundcheck.
+TOGETHER FOR GAZA /// MIUSIC FOR HUAMANITY at Sensorium on Fri 20 Nov, Berlin. 13 artists: Andeel, Ankit, Blachord and d4ia and 9 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ TOGETHER FOR GAZA /// MIUSIC FOR HUAMANITY at Sensorium on Fri 20 Nov, Berlin. 1
 ## Line-up
 
 - Andeel
+- Ankit
 - Blachord
 - d4ia
 - DJ Hitwave

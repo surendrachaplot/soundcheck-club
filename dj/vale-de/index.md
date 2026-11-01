@@ -1,6 +1,6 @@
 # Vale
 
-Vale is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Vale is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
 
 Vale is a techno and house artist based in Belgium, with 13 gigs on soundcheck across Basel, Berlin, Hamburg and Munich. Often billed alongside 2 Girls 1 Club, AGILY and ALCATRAZ. Next up: Südpol, Hamburg on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Vale is a techno and house artist based in Belgium, with 13 gigs on soundcheck a
 
 2 Girls 1 Club, AGILY, ALCATRAZ
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vale-de/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vale-de/)*

@@ -1,19 +1,19 @@
 # S4M23
 
-S4M23 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at crobar, Cleveland on Sat, 31 Oct 2026.
+S4M23 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
 
-S4M23 is a techno and house artist based in United States of America, with 85 gigs on soundcheck across Athens, Austin, Berlin and Boston and 9 more. Often billed alongside Mike Servito, Miss Parker and Lauren Flax. Next up: crobar, Cleveland on Sat 31 Oct.
+S4M23 is a techno and house artist based in United States of America, with 85 gigs on soundcheck across Athens, Austin, Berlin and Boston and 9 more. Often billed alongside Mike Servito, Miss Parker and Lauren Flax. Next up: Signal, New York City on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | crobar | Cleveland |
 | Thu, 5 Nov 2026 | Signal | New York City |
 | Fri, 4 Dec 2026 | Paragon | New York City |
 
 ## Recently played
 
+- crobar, Cleveland · Sat, 31 Oct 2026
 - TBA - 1624 U St NW, Washington DC · Fri, 16 Oct 2026
 - Nowadays, New York City · Thu, 15 Oct 2026
 - Club Rawhide, New York City · Sat, 10 Oct 2026
@@ -21,10 +21,9 @@ S4M23 is a techno and house artist based in United States of America, with 85 gi
 - Green Room NYC, New York City · Fri, 2 Oct 2026
 - TBA, New York City · Fri, 25 Sept 2026
 - TBA - Humboldt Park (Follow @humboldtarboreal for details), Chicago · Sun, 13 Sept 2026
-- public records, New York City · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Mike Servito, Miss Parker, Lauren Flax
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s4m23/)*

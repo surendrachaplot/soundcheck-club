@@ -1,14 +1,13 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "I-F • Intergalactic Gary • Eileen" on Sat, 31 Oct 2026.
+Radio Radio is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Elevate: Nomit • Mees Javois b2b Varuna Agosti" on Thu, 5 Nov 2026.
 
-Radio Radio is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Anna Wall, BELLA (NL), Carlos Valdes and Danielle (UK) and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
+Radio Radio is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Anna Wall, BELLA (NL), Carlos Valdes and Danielle (UK) and 2 more. See dates, start times and who's playing. Pazzanistraat 3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | I-F • Intergalactic Gary • Eileen | Eileen (NL), I-F, Intergalactic Gary |
 | Thu, 5 Nov 2026 | Elevate: Nomit • Mees Javois b2b Varuna Agosti | Mees Javois, Varuna Agosti |
 | Fri, 6 Nov 2026 | Doudou MD invites Carlos Valdes | Carlos Valdes, Doudou MD |
 | Sat, 7 Nov 2026 | Kyra Khaldi b2b Luna Ludmila • Eljoenai • Mallie | Kyra Khaldi, Luna Ludmila, Mallie |
@@ -18,9 +17,10 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs
 | Fri, 20 Nov 2026 | BELLA - All Night | BELLA (NL) |
 | Sat, 21 Nov 2026 | Jex Opolis • Dany E | Dany E, Jex Opolis |
 | Thu, 26 Nov 2026 | FERMI presents... From Start to Finish |  |
+| Fri, 27 Nov 2026 | Danielle • Interstellar Funk | Danielle (UK), Interstellar Funk |
 
 ## Address
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

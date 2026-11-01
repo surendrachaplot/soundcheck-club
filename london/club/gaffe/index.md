@@ -1,14 +1,13 @@
 # Gaffe
 
-Gaffe is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Wiggle Halloween Spookathon [SOLD OUT]" on Sat, 31 Oct 2026.
+Gaffe is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Bloom Ldn: Efdemin, DJ Red, Burden" on Fri, 6 Nov 2026.
 
-Gaffe is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including 1morning, 3 Minds, Andrew James Gustav and Bunney and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
+Gaffe is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including 1morning, Andrew James Gustav, Bunney and Burden and 2 more. See dates, start times and who's playing. 1 Anthony Way, N18 3QT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Wiggle Halloween Spookathon [SOLD OUT] | 3 Minds, Eddie Richards, Georgia Girl, HEAVEN-LEE, Harry McCanna, Jake Hodgkinson, Rhythms Of Prescott, Terry Francis |
 | Fri, 6 Nov 2026 | Bloom Ldn: Efdemin, DJ Red, Burden | Burden, DJ Red, Efdemin |
 | Sat, 7 Nov 2026 | Yoyaku X House Of Gaffe | DJ Rino, Eli Verveine, Kian OK, Picasso, Zeina |
 | Fri, 13 Nov 2026 | FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit | Bunney, Josh Keit, Matthias (1), Yamour |
@@ -18,9 +17,10 @@ Gaffe is a music venue in London listed on soundcheck. 11 upcoming gigs, with li
 | Sat, 5 Dec 2026 | outransa 8th Anniversary | Kensa, Melina Serser, Nicky Macha, Saro, So-Fi |
 | Sat, 12 Dec 2026 | WIGS 5th Birthday: Skee Mask, IMOGEN (Live), 1morning & Jay Duncan B2B Dyslecta | 1morning, Dyslecta, IMOGEN, Jay Duncan, Skee Mask |
 | Fri, 18 Dec 2026 | XTD - 013 - Priku | Eksish, Priku |
+| Thu, 31 Dec 2026 | Wiggle x Zuku |  |
 
 ## Address
 
 1 Anthony Way, N18 3QT, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gaffe/)*

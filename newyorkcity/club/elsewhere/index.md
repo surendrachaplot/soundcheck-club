@@ -1,14 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Elsewhere Halloween - Major League Djz, Bantu, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott" on Sat, 31 Oct 2026.
+Elsewhere is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more" on Sat, 31 Oct 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and ali rq and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and ali rq and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Elsewhere Halloween - Major League Djz, Bantu, SAIDAH, D Stone, Ariel Lights b2b Sissy Elliott | Bantu, D Stone, Kush Jones, Major League Djz, SAIDAH, Sissy Elliott |
 | Sat, 31 Oct 2026 | Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more | Cannelle, EQ (Estratosfera + Qiri), Isla Den, Petal Supply, RICO RICA, ali rq |
 | Sun, 1 Nov 2026 | Fever x Frisky: Afterhours Revolution | Dangerous Rose |
 | Fri, 6 Nov 2026 | AEREA, Alex Farell | AEREA, Alex Farell |
@@ -18,9 +17,10 @@ Elsewhere is a music venue in New York City listed on soundcheck. 20 upcoming gi
 | Thu, 19 Nov 2026 | SASSY 009 - In the Round | SASSY 009 |
 | Fri, 20 Nov 2026 | 49th & Main (DJ Set), Mona Matsuoka, Tre Reynolds, Denninger / Heedon / Kipp + more | Alive Girl, Denninger, Heedon, Kipp, Mona Matsuoka, Tre Reynolds |
 | Sat, 21 Nov 2026 | Snakehips, TWOFACED |  |
+| Wed, 25 Nov 2026 | DayBreak |  |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

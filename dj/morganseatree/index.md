@@ -1,14 +1,13 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wamu Theatre, Seattle on Fri, 30 Oct 2026.
+Morgan Seatree is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Mint XL, Leeds on Sat, 14 Nov 2026.
 
-Morgan Seatree is a house and tech house artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 28 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Wamu Theatre, Seattle on Fri 30 Oct.
+Morgan Seatree is a house and tech house artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 28 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Mint XL, Leeds on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Sat, 14 Nov 2026 | Mint XL | Leeds |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
@@ -33,4 +32,4 @@ Morgan Seatree is a house and tech house artist based in United Kingdom, with 97
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

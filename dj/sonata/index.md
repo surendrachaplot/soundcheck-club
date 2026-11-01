@@ -1,18 +1,18 @@
 # SONATA
 
-SONATA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Secret Location , Tokyo on Sat, 31 Oct 2026.
+SONATA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
-SONATA is a techno and industrial artist based in Belarus, with 66 gigs on soundcheck across Austin, Bangkok, Brighton and Chicago and 15 more. Often billed alongside EMILIO, Amy Wiles and BEATTEKNIKS. Next up: TBA - Secret Location , Tokyo on Sat 31 Oct.
+SONATA is a techno and industrial artist based in Belarus, with 66 gigs on soundcheck across Austin, Bangkok, Brighton and Chicago and 15 more. Often billed alongside EMILIO, Amy Wiles and BEATTEKNIKS. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Secret Location  | Tokyo |
 | Fri, 13 Nov 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
 
+- TBA - Secret Location , Tokyo · Sat, 31 Oct 2026
 - Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 20 Sept 2026
 - ZEROTOKYO, Tokyo · Sat, 5 Sept 2026
 - R Lounge, Tokyo · Sat, 29 Aug 2026
@@ -20,10 +20,9 @@ SONATA is a techno and industrial artist based in Belarus, with 66 gigs on sound
 - clubasia, Tokyo · Fri, 26 Jun 2026
 - FS., Tokyo · Sat, 30 May 2026
 - clubasia, Tokyo · Fri, 29 May 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 23 May 2026
 
 ## Shares bills with
 
 EMILIO (3), Amy Wiles, BEATTEKNIKS
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonata/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonata/)*

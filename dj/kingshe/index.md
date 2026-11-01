@@ -1,14 +1,13 @@
 # KING SHE
 
-KING SHE is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+KING SHE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Blank Site, Seoul on Sat, 7 Nov 2026.
 
-KING SHE is a club and techno artist based in United States of America, with 40 gigs on soundcheck across Seoul. Often billed alongside Ligrye, FAKEDEEPLEE and KISEWA. Next up: Blank Site, Seoul on Fri 30 Oct.
+KING SHE is a club and techno artist based in United States of America, with 40 gigs on soundcheck across Seoul. Often billed alongside Ligrye, FAKEDEEPLEE and KISEWA. Next up: Blank Site, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Blank Site | Seoul |
 | Sat, 7 Nov 2026 | Blank Site | Seoul |
 
 ## Recently played
@@ -26,4 +25,4 @@ KING SHE is a club and techno artist based in United States of America, with 40 
 
 Ligrye, FAKEDEEPLEE, KISEWA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshe/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingshe/)*

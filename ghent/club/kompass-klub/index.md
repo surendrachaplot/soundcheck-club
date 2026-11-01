@@ -1,14 +1,13 @@
 # Kompass Klub
 
-Kompass Klub is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Hotmeal at Kompass" on Sat, 31 Oct 2026.
+Kompass Klub is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "The Subs at Kompass" on Sat, 21 Nov 2026.
 
-Kompass Klub is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line-ups including Alignment, Azo, Bad Boombox and BLANKA and 2 more. See dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
+Kompass Klub is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Alignment, Azo, BLANKA and Chlär and 2 more. See dates, start times and who's playing. Vliegtuiglaan 12, 9000 Gent - Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Hotmeal at Kompass | Bad Boombox, Jessie Dols, Mija, Mischluft, Ollie Lishman |
 | Sat, 21 Nov 2026 | The Subs at Kompass | Azo, Crookers, Digitalism, Dr. Lektroluv, Etienne De Crecy, Kenny Montana, The Subs |
 | Fri, 27 Nov 2026 | KRUELTY, Toxic Machinery at Kompass | Jane Muss, KRUELTY, SLVL |
 | Sat, 28 Nov 2026 | I Hate Models at Kompass (4HOUR SET) | I Hate Models, SOYA, Swarobski, myu:sa |
@@ -19,4 +18,4 @@ Kompass Klub is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, wi
 
 Vliegtuiglaan 12, 9000 Gent - Belgium, Ghent
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/kompass-klub/)*

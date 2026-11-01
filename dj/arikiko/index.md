@@ -1,18 +1,18 @@
 # Ari Kiko
 
-Ari Kiko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Pleasure Club, Sydney on Sat, 31 Oct 2026.
+Ari Kiko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
 
-Ari Kiko is a house and techno artist based in Australia, with 61 gigs on soundcheck across Byron Bay, Lyon, Melbourne and Sydney. Often billed alongside Mina Tonic, Postponez and Broccoli Effect. Next up: Pleasure Club, Sydney on Sat 31 Oct.
+Ari Kiko is a house and techno artist based in Australia, with 61 gigs on soundcheck across Byron Bay, Lyon, Melbourne and Sydney. Often billed alongside Mina Tonic, Postponez and Broccoli Effect. Next up: TBA - 2 Hours from Sydney, Sydney on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Pleasure Club | Sydney |
 | Fri, 4 Dec 2026 | TBA - 2 Hours from Sydney | Sydney |
 
 ## Recently played
 
+- Pleasure Club, Sydney · Sat, 31 Oct 2026
 - Super5, Lyon · Sat, 1 Aug 2026
 - Factory Theatre, Sydney · Sat, 18 Jul 2026
 - TBA, Sydney · Sat, 27 Jun 2026
@@ -20,10 +20,9 @@ Ari Kiko is a house and techno artist based in Australia, with 61 gigs on soundc
 - TBA, Sydney · Sun, 7 Jun 2026
 - TBA, Sydney · Sun, 31 May 2026
 - TBA, Sydney · Sat, 25 Apr 2026
-- Abercrombie Hotel, Sydney · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Mina Tonic, Postponez, Broccoli Effect
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arikiko/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arikiko/)*

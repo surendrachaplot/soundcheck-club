@@ -1,14 +1,13 @@
 # DURO
 
-DURO is a music venue in Milan with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "OXYGÈNE - Mental Modern" on Sat, 31 Oct 2026.
+DURO is a music venue in Milan with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Noise Orchestra // MARRØN - Pre Silent" on Fri, 6 Nov 2026.
 
-DURO is a music venue in Milan listed on soundcheck. 14 upcoming gigs, with line-ups including Biocym, Bulma Brief, Chloé and DRUMS AND CHANTS and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
+DURO is a music venue in Milan listed on soundcheck. 13 upcoming gigs, with line-ups including Biocym, Bulma Brief, Chloé and DRUMS AND CHANTS and 2 more. See dates, start times and who's playing. Via Perin del Vaga, 8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | OXYGÈNE - Mental Modern | Feral, Hoedus, Luigi Tozzi, SOLE DOSI |
 | Fri, 6 Nov 2026 | Noise Orchestra // MARRØN - Pre Silent | MARRØN, Pre Silent, Yamila |
 | Sat, 7 Nov 2026 | OXYGÈNE - Vera Lodigiani - Shkedul | Shkedul |
 | Sat, 7 Nov 2026 | Oxygène // Vera Logdanidi - Shkedul | Shkedul, Vera Logdanidi |
@@ -18,9 +17,10 @@ DURO is a music venue in Milan listed on soundcheck. 14 upcoming gigs, with line
 | Fri, 20 Nov 2026 | MOAB - Xiaolin | Xiaolin |
 | Fri, 20 Nov 2026 | MOAB // Xiaolin | Xiaolin |
 | Fri, 20 Nov 2026 | MOAB at DURO Club with Xiaolin, Ness, Biocym b2b Luce | Biocym, LUCE (IT), Ness, Xiaolin |
+| Sat, 21 Nov 2026 | OXYGÈNE - Objekt | Objekt |
 
 ## Address
 
 Via Perin del Vaga, 8, Milan
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/duro/)*

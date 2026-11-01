@@ -1,0 +1,25 @@
+# Sean Green
+
+Sean Green is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Jupiter Disco, New York City on Sun, 8 Nov 2026.
+
+Sean Green is a techno and house artist, with 6 gigs on soundcheck across New York City. Often billed alongside Botanist, Niyx and Petal. Next up: Jupiter Disco, New York City on Sun 8 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sun, 8 Nov 2026 | Jupiter Disco | New York City |
+
+## Recently played
+
+- Empire Stage, New York City · Fri, 30 Oct 2026
+- The REP Music Cafe, New York City · Sun, 1 Feb 2026
+- The Onyx Room at House of Yes, New York City · Wed, 10 Dec 2025
+- The REP Music Cafe, New York City · Sat, 18 Oct 2025
+- TBA - Secret Rooftop, Bushwick Brooklyn, New York City · Fri, 3 Oct 2025
+
+## Shares bills with
+
+Botanist, Niyx, Petal
+
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seangreen/)*

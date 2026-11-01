@@ -1,15 +1,13 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Cardiff Students' Union - The Great Hall, Cardiff on Sat, 31 Oct 2026.
+Andy C is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Quarters, Brighton on Sat, 7 Nov 2026.
 
-Andy C is a drum & bass and jungle artist based in United Kingdom, with 112 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 49 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Cardiff Students' Union - The Great Hall, Cardiff on Sat 31 Oct.
+Andy C is a drum & bass and jungle artist based in United Kingdom, with 112 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 49 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Quarters, Brighton on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
-| Sat, 31 Oct 2026 | MK Arena | Midlands |
 | Sat, 7 Nov 2026 | Quarters | Brighton |
 | Wed, 25 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | XOYO | London |
@@ -17,17 +15,17 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, with 112 gigs
 
 ## Recently played
 
+- Cardiff Students' Union - The Great Hall, Cardiff · Sat, 31 Oct 2026
+- MK Arena, Midlands · Sat, 31 Oct 2026
 - Depot Mayfield, Manchester · Fri, 30 Oct 2026
 - Depot Mayfield, Manchester · Fri, 9 Oct 2026
 - Document, Bristol · Sat, 3 Oct 2026
 - Ministry Of Sound, London · Fri, 2 Oct 2026
 - Roxy, Prague · Sat, 26 Sept 2026
 - Fuse, Brussels · Sat, 12 Sept 2026
-- Live From Wythenshawe Park, Manchester · Sun, 30 Aug 2026
-- TBA, Vienna · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Tonn Piper, Bou (UK), Hybrid Minds
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*

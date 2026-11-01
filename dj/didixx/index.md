@@ -1,6 +1,6 @@
 # DIDIXX
 
-DIDIXX is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
+DIDIXX is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
 
 DIDIXX is a techno and hardcore artist based in Spain, with 40 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside KARELBLADE, Rowsi and ANJELIKA SAHAKIAN. Next up: Razzmatazz, Barcelona on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ DIDIXX is a techno and hardcore artist based in Spain, with 40 gigs on soundchec
 
 KARELBLADE, Rowsi, ANJELIKA SAHAKIAN
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/didixx/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/didixx/)*

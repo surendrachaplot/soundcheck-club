@@ -1,8 +1,8 @@
 # Karam
 
-Karam is a Psytrance and R&B artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Exil, Vienna on Sat, 5 Dec 2026.
+Karam is a Psytrance and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Club Exil, Vienna on Sat, 5 Dec 2026.
 
-Karam is a psytrance and r&b artist, with 10 gigs on soundcheck across Los Angeles, Milan, Turin and Vienna. Often billed alongside Akero, Giuseppe Schembri and HIBA.KNTK. Next up: Club Exil, Vienna on Sat 5 Dec.
+Karam is a psytrance and r&b artist based in Italy, with 10 gigs on soundcheck across Los Angeles, Milan, Turin and Vienna. Often billed alongside Akero, Giuseppe Schembri and HIBA.KNTK. Next up: Club Exil, Vienna on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Karam is a psytrance and r&b artist, with 10 gigs on soundcheck across Los Angel
 
 Akero, Giuseppe Schembri, HIBA.KNTK
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karam/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karam/)*

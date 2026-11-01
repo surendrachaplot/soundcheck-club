@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Massive, Seattle on Sat, 31 Oct 2026.
+Prosumer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Massive, Seattle on Sat, 31 Oct 2026.
 
 Prosumer is a house and techno artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 51 more. Often billed alongside Horse Meat Disco, Peach and Gene On Earth. Next up: Massive, Seattle on Sat 31 Oct.
 
@@ -15,6 +15,7 @@ Prosumer is a house and techno artist based in United Kingdom, with 177 gigs on 
 
 ## Recently played
 
+- Massive, Seattle · Sat, 31 Oct 2026
 - public records, New York City · Sat, 17 Oct 2026
 - TBA - Shipyards Waterfront, Vancouver · Sat, 3 Oct 2026
 - Monarch, San Francisco/Oakland · Fri, 2 Oct 2026
@@ -22,10 +23,9 @@ Prosumer is a house and techno artist based in United Kingdom, with 177 gigs on 
 - The Art School, Glasgow · Thu, 24 Sept 2026
 - Night Tales Loft, London · Sat, 19 Sept 2026
 - Pontoon Budapest, Budapest · Thu, 10 Sept 2026
-- 528 Ibiza, Ibiza · Tue, 8 Sept 2026
 
 ## Shares bills with
 
 Horse Meat Disco, Peach, Gene On Earth
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

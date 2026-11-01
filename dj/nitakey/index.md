@@ -1,14 +1,15 @@
 # Nita Key
 
-Nita Key is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at M7 Club, Barcelona on Sun, 1 Nov 2026.
+Nita Key is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at M7 Club, Barcelona on Sun, 1 Nov 2026.
 
-Nita Key is a techno and trance artist based in Spain, with 23 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CRONEKIA, Nahum Korm and INEXXSTABLE. Next up: M7 Club, Barcelona on Sun 1 Nov.
+Nita Key is a techno and trance artist based in Spain, with 24 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CRONEKIA, Nahum Korm and INEXXSTABLE. Next up: M7 Club, Barcelona on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | M7 Club | Barcelona |
+| Sat, 30 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nita Key is a techno and trance artist based in Spain, with 23 gigs on soundchec
 
 CRONEKIA, Nahum Korm, INEXXSTABLE
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nitakey/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitakey/)*

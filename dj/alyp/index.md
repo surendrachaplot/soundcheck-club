@@ -1,19 +1,20 @@
 # Aly P
 
-Aly P is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+Aly P is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Kazimier Garden, Liverpool on Fri, 13 Nov 2026.
 
-Aly P is a house and techno artist based in United Kingdom, with 35 gigs on soundcheck across Edinburgh, Liverpool and Manchester. Often billed alongside Elleinad, Kathryn and 4D (UK). Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
+Aly P is a house and techno artist based in United Kingdom, with 36 gigs on soundcheck across Edinburgh, Liverpool and Manchester. Often billed alongside Elleinad, Kathryn and 4D (UK). Next up: Kazimier Garden, Liverpool on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Kazimier Garden | Liverpool |
 | Fri, 13 Nov 2026 | Kazimier Garden | Liverpool |
 | Fri, 4 Dec 2026 | 24 Kitchen Street | Liverpool |
+| Fri, 29 Jan 2027 | 24 Kitchen Street | Liverpool |
 
 ## Recently played
 
+- Kazimier Garden, Liverpool · Sat, 31 Oct 2026
 - Heebie Jeebies, Liverpool · Fri, 16 Oct 2026
 - Kazimier Garden, Liverpool · Sun, 30 Aug 2026
 - St Brides Church, Liverpool · Sat, 22 Aug 2026
@@ -21,10 +22,9 @@ Aly P is a house and techno artist based in United Kingdom, with 35 gigs on soun
 - Kapsule, Liverpool · Sat, 11 Jul 2026
 - TBA - FABRIC STUDIOS , Liverpool · Sat, 20 Jun 2026
 - 24 Kitchen Street Green Room, Liverpool · Fri, 5 Jun 2026
-- Baltic Triangle, Liverpool · Fri, 29 May 2026
 
 ## Shares bills with
 
 Elleinad, Kathryn, 4D (UK)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alyp/)*

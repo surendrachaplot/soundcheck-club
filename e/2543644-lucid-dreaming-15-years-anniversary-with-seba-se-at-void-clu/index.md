@@ -1,6 +1,6 @@
 # Lucid Dreaming - 15 Years Anniversary with Seba (SE) at Void Club
 
-Lucid Dreaming - 15 Years Anniversary with Seba (SE) at Void Club on Fri 20 Nov, Berlin. 5 artists: CainDNB, Dirty Plates, Seba and Shaded Lines and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Lucid Dreaming - 15 Years Anniversary with Seba (SE) at Void Club on Fri 20 Nov, Berlin. 6 artists: CainDNB, Dirty Plates, MARIE.MOON and Seba and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Lucid Dreaming - 15 Years Anniversary with Seba (SE) at Void Club on Fri 20 Nov,
 
 - CainDNB
 - Dirty Plates
+- MARIE.MOON
 - Seba
 - Shaded Lines
 - Upzet

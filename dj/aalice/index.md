@@ -1,6 +1,6 @@
 # aalice
 
-aalice is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The DBA, Manchester on Fri, 1 Jan 2027.
+aalice is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The DBA, Manchester on Fri, 1 Jan 2027.
 
 aalice is a techno and house artist based in Ireland, with 75 gigs on soundcheck across Amsterdam, Belfast, Berlin and Leeds and 8 more. Often billed alongside Blasha & Allatt, Hanz and Steffi. Next up: The DBA, Manchester on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ aalice is a techno and house artist based in Ireland, with 75 gigs on soundcheck
 
 Blasha & Allatt, Hanz, Steffi
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aalice/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aalice/)*

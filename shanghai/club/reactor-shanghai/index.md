@@ -1,14 +1,13 @@
 # Reactor Shanghai
 
-Reactor Shanghai is a music venue in Shanghai with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "REACTOR Pres. Akua & Sweatshop" on Sat, 31 Oct 2026.
+Reactor Shanghai is a music venue in Shanghai with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Antigen Pres.Herrensauna十周年showcase" on Fri, 6 Nov 2026.
 
-Reactor Shanghai is a music venue in Shanghai listed on soundcheck. 6 upcoming gigs, with line-ups including Afra, Akua, CEM and Daniel Power and 2 more. See dates, start times and who's playing. D-L1-03, B1, C·PARK, No. 638 Zhaohua Road, Changning District, Shanghai.
+Reactor Shanghai is a music venue in Shanghai listed on soundcheck. 5 upcoming gigs, with line-ups including Afra, CEM, Drew McDowall and Finascia and 2 more. See dates, start times and who's playing. D-L1-03, B1, C·PARK, No. 638 Zhaohua Road, Changning District, Shanghai.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | REACTOR Pres. Akua & Sweatshop | Akua, Daniel Power, Jiahao, Shanghai Ultra |
 | Fri, 6 Nov 2026 | Antigen Pres.Herrensauna十周年showcase | CEM, MCMLXXXV, Quan |
 | Sat, 7 Nov 2026 | Pulse 9th Anniversary | Kun (CH), SilkBoi, kongbb, purp |
 | Wed, 11 Nov 2026 | Antigen Pres.Hiro Kone+Drew McDowall | Drew McDowall, Hiro Kone |
@@ -19,4 +18,4 @@ Reactor Shanghai is a music venue in Shanghai listed on soundcheck. 6 upcoming g
 
 D-L1-03, B1, C·PARK, No. 638 Zhaohua Road, Changning District, Shanghai, Shanghai
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/reactor-shanghai/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/reactor-shanghai/)*

@@ -1,14 +1,13 @@
 # La Java
 
-La Java is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Pentagon X Happiness Therapy: Halloween Edition" on Sat, 31 Oct 2026.
+La Java is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Only Fire, Kennymphe, Divine Van Herpen: La Gomorrhée 2 Ans" on Fri, 6 Nov 2026.
 
-La Java is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Alhena_, Audem, Baron Von Trax and CASSIOPÉE and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
+La Java is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Alhena_, Audem, Baron Von Trax and CASSIOPÉE and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Pentagon X Happiness Therapy: Halloween Edition | Crowd Control, Debeunne (2), Geneva_, NairLess, Strandtuch |
 | Fri, 6 Nov 2026 | Only Fire, Kennymphe, Divine Van Herpen: La Gomorrhée 2 Ans | CASSIOPÉE, Only Fire |
 | Sat, 7 Nov 2026 | Baron Von Trax, Cattoni, Gray & More: Connect Chicken | Baron Von Trax, Cattoni |
 | Tue, 10 Nov 2026 | DJ Polo, Romy White & More: Baile Do Gangz & Couvre X CHEFs | CHEF, DJ FRRR, DJ Polo, Jeune Gaou, Jiken, Tévéa |
@@ -23,4 +22,4 @@ La Java is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with l
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

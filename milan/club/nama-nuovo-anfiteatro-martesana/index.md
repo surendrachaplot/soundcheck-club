@@ -1,14 +1,13 @@
 # NAMA - Nuovo Anfiteatro Martesana
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween's Night at NAMA with MOAB & Alzaya | 3 stages from 6PM" on Sat, 31 Oct 2026.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "fvtvristica x Fluids at NAMA" on Sat, 7 Nov 2026.
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Alessandro Adriani, Andrea Normanno, Arkane and Charley Bolton and 2 more. See dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Arkane, Charley Bolton, Deena Abdelwahed and DJ Red and 2 more. See dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Halloween's Night at NAMA with MOAB & Alzaya / 3 stages from 6PM | Alessandro Adriani, Andrea Normanno, LUCE (IT), Mary Gehnyei, Nicodemo, SHARA, Stenny, Timur Basha, Volantis |
 | Sat, 7 Nov 2026 | fvtvristica x Fluids at NAMA | DONALD - BIIG_DONNY, Fybes, Guglielmo Morandini, Pabie, Totino, Young Sun |
 | Fri, 20 Nov 2026 | LOBO 14yrs x isciān | DNN, Deena Abdelwahed, Etta Simone, NVST, Nic Casalino, Ormeye, Xaxer, kwality |
 | Sat, 21 Nov 2026 | SLATE meets HØL, inviting DJ Red | Arkane, Charley Bolton, DJ Red, Emi Lee, IKIIR, Mold Boutique, Thanhsx |
@@ -17,4 +16,4 @@ NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck
 
 Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia, Milan
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*

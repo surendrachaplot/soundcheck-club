@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Aurora Halal is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
 
 Aurora Halal is a techno and house artist based in United States of America, with 248 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 62 more. Often billed alongside DJ Nobu, Ben UFO and Priori. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
 
@@ -23,6 +23,7 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 31 Oct 2026
 - Depot Mayfield, Manchester · Fri, 30 Oct 2026
 - Lofi, Amsterdam · Sun, 25 Oct 2026
 - Palais, London · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 - Nowadays, New York City · Sun, 18 Oct 2026
 - Aisle 5, Atlanta · Sat, 17 Oct 2026
 - H0L0, New York City · Fri, 9 Oct 2026
-- Société des arts technologiques, Montreal · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 DJ Nobu, Ben UFO, Priori
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

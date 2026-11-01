@@ -1,6 +1,6 @@
 # Joung Philip
 
-Joung Philip is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
+Joung Philip is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
 
 Joung Philip is a techno and trance artist, with 4 gigs on soundcheck across Berlin, Lower Saxony and Münster. Often billed alongside KYUB, DJ Dios and FRÆNCIS. Next up: Fusion Club, Münster on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Joung Philip is a techno and trance artist, with 4 gigs on soundcheck across Ber
 
 KYUB, DJ Dios, FRÆNCIS
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joungphilip/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joungphilip/)*

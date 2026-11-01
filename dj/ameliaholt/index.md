@@ -1,14 +1,13 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at MAD Radio NYC, New York City on Sat, 31 Oct 2026.
+Amelia Holt is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Xanadu, New York City on Sun, 8 Nov 2026.
 
-Amelia Holt is a house and techno artist based in Mexico, with 221 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: MAD Radio NYC, New York City on Sat 31 Oct.
+Amelia Holt is a house and techno artist based in Mexico, with 221 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 39 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: Xanadu, New York City on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | MAD Radio NYC | New York City |
 | Sun, 8 Nov 2026 | Xanadu | New York City |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
@@ -20,6 +19,7 @@ Amelia Holt is a house and techno artist based in Mexico, with 221 gigs on sound
 
 ## Recently played
 
+- MAD Radio NYC, New York City · Sat, 31 Oct 2026
 - Blipsy Bar, Los Angeles · Fri, 30 Oct 2026
 - TBA - The Bakery, New York City · Fri, 23 Oct 2026
 - Honey's, New York City · Wed, 21 Oct 2026
@@ -27,10 +27,9 @@ Amelia Holt is a house and techno artist based in Mexico, with 221 gigs on sound
 - feedbk, New York City · Fri, 16 Oct 2026
 - TBA - Outdoor Gathering, New York City · Sat, 10 Oct 2026
 - H0L0, New York City · Fri, 9 Oct 2026
-- Mansions, New York City · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Second Contact, 98dots, Cole Evelev
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ameliaholt/)*

@@ -1,19 +1,19 @@
 # Nick V
 
-Nick V is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bien Public, Bordeaux on Sat, 31 Oct 2026.
+Nick V is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at La Bellevilloise, Paris on Fri, 6 Nov 2026.
 
-Nick V is a house and disco artist based in France, with 87 gigs on soundcheck across Berlin, Bordeaux, Geneva and Liverpool and 6 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: Bien Public, Bordeaux on Sat 31 Oct.
+Nick V is a house and disco artist based in France, with 87 gigs on soundcheck across Berlin, Bordeaux, Geneva and Liverpool and 6 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: La Bellevilloise, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Bien Public | Bordeaux |
 | Fri, 6 Nov 2026 | La Bellevilloise | Paris |
 | Fri, 27 Nov 2026 | Cabaret Sauvage | Paris |
 
 ## Recently played
 
+- Bien Public, Bordeaux · Sat, 31 Oct 2026
 - Plantation, Paris · Fri, 9 Oct 2026
 - Le Chapiteau - Marseille, Marseille · Sat, 3 Oct 2026
 - La Bellevilloise, Paris · Sat, 26 Sept 2026
@@ -21,10 +21,9 @@ Nick V is a house and disco artist based in France, with 87 gigs on soundcheck a
 - La Javelle (Bercy), Paris · Sat, 29 Aug 2026
 - Badaboum, Paris · Sat, 22 Aug 2026
 - La Prairie du Canal, Paris · Sun, 19 Jul 2026
-- La Prairie du Canal, Paris · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 DJ André, Odd Sweet, Crowd Control
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickv/)*

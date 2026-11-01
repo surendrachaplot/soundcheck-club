@@ -1,6 +1,6 @@
 # Stark
 
-Stark is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
+Stark is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
 
 Stark is a house and club artist, with 27 gigs on soundcheck across Berlin, Budapest, Melbourne and New York City. Often billed alongside Hanussen, Knoll and MSKD. Next up: Revolver Upstairs, Melbourne on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Stark is a house and club artist, with 27 gigs on soundcheck across Berlin, Buda
 
 Hanussen, Knoll, MSKD
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stark/)*

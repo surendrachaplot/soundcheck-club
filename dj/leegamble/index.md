@@ -1,6 +1,6 @@
 # Lee Gamble
 
-Lee Gamble is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 4 Dec 2026.
+Lee Gamble is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 4 Dec 2026.
 
 Lee Gamble is a techno and experimental artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside ojoo, Crystallmess and JASSS. Next up: Tresor / Globus, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Lee Gamble is a techno and experimental artist based in United Kingdom, with 65 
 
 ojoo, Crystallmess, JASSS
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leegamble/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leegamble/)*

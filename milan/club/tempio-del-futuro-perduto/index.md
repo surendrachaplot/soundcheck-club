@@ -1,14 +1,13 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 16 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "EDUCAZIONE TECHNO SESSUALE: LA NOTTE DELLE ANIME VIVE" on Sat, 31 Oct 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Oriental Techno Club - 東極玄音寺: DJ HI-C, Zenyee, Shū" on Fri, 6 Nov 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 16 upcoming gigs, with line-ups including Acidalia, ADAJO, Alimac and Berlin Bunny and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 15 upcoming gigs, with line-ups including Acidalia, ADAJO, Alimac and Berlin Bunny and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | EDUCAZIONE TECHNO SESSUALE: LA NOTTE DELLE ANIME VIVE | Acidalia, Alimac, GLADJEE, Industrial Romantico |
 | Fri, 6 Nov 2026 | Oriental Techno Club - 東極玄音寺: DJ HI-C, Zenyee, Shū | DJ HI-C, SHŪ (1), Zenyee |
 | Sat, 7 Nov 2026 | NOTTE TEKNO: Crystal Distortion (Spiral Tribe), Drum the System live, LUPIN, Waldo | Crystal Distortion, DRUM THE SYSTEM live, Waldo |
 | Thu, 12 Nov 2026 | Tempio Radio Notturna x Sintonia: Humbert, ADAJO, Lowrenso, D-Grade | ADAJO, D-GRADE (IT), Humbert (2) |
@@ -18,9 +17,10 @@ Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 16 upc
 | Fri, 20 Nov 2026 | Oriental Techno Club - 東極玄音寺: Pooja B, Morva, Zenyee | Morva, Pooja B, Zenyee |
 | Sat, 21 Nov 2026 | DISCO FELINA: Dj Spiller, Futuro Tropicale, Naydiaa, Tania Kim | Futuro Tropicale, Naydiaa, Spiller, Tania Kim |
 | Fri, 27 Nov 2026 | Oriental Techno Club - 東極玄音寺: NYCTO, Morva, DÅwN | DÅwN, Morva, NYCTO |
+| Sat, 28 Nov 2026 | Educazione Techno Sessuale |  |
 
 ## Address
 
 via Luigi Nono 9 20100 Milan, Italy, Milan
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tempio-del-futuro-perduto/)*

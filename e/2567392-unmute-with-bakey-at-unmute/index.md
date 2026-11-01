@@ -1,6 +1,6 @@
 # Unmute with Bakey at Unmute
 
-Unmute with Bakey on Fri 29 Jan, Hanoi. 1 artist: Bakey. See the line-up on soundcheck.
+Unmute with Bakey on Fri 29 Jan, Hanoi. 1 artist: Bakey. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Ubbah
 
-Ubbah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 12 Mar 2027.
+Ubbah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 12 Mar 2027.
 
-Ubbah is a techno and house artist, with 33 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 10 more. Often billed alongside Tale Of Us, Kevin de Vries and Chris Avantgarde. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 12 Mar.
+Ubbah is a techno and house artist, with 34 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 11 more. Often billed alongside Tale Of Us, Kevin de Vries and Chris Avantgarde. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 12 Mar.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ubbah is a techno and house artist, with 33 gigs on soundcheck across Amsterdam,
 
 ## Recently played
 
+- Bar Americas, Guadalajara · Thu, 8 Oct 2026
 - Bikini Club, Barcelona · Sat, 30 May 2026
 - TBA - BNN, Costanera, Buenos Aires · Sat, 17 Jan 2026
 - Red Ruby, Bali · Fri, 14 Nov 2025
@@ -19,10 +20,9 @@ Ubbah is a techno and house artist, with 33 gigs on soundcheck across Amsterdam,
 - Escape, Amsterdam · Thu, 23 Oct 2025
 - Code DXB, Dubai · Fri, 8 Aug 2025
 - Klein Phönix, Istanbul · Sat, 12 Apr 2025
-- Lieberscholli, Munich · Fri, 28 Mar 2025
 
 ## Shares bills with
 
 Tale Of Us, Kevin de Vries, Chris Avantgarde
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ubbah/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ubbah/)*

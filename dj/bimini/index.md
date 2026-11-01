@@ -1,18 +1,18 @@
 # Bimini
 
-Bimini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wanderlust, Paris on Sat, 31 Oct 2026.
+Bimini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at New Century Locker, Manchester on Sat, 28 Nov 2026.
 
-Bimini is a techno and house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brisbane and 18 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: Wanderlust, Paris on Sat 31 Oct.
+Bimini is a techno and house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brisbane and 18 more. Often billed alongside ABSOLUTE., Hannah Holland and Horse Meat Disco. Next up: New Century Locker, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Wanderlust | Paris |
 | Sat, 28 Nov 2026 | New Century Locker | Manchester |
 
 ## Recently played
 
+- Wanderlust, Paris · Sat, 31 Oct 2026
 - FORGE, Sheffield · Sun, 25 Oct 2026
 - The Prospect Building, Bristol · Sat, 24 Oct 2026
 - Preston Park, Brighton, Berlin · Sat, 1 Aug 2026
@@ -20,10 +20,9 @@ Bimini is a techno and house artist based in United Kingdom, with 50 gigs on sou
 - Times Square, Newcastle, Newcastle · Sat, 25 Jul 2026
 - TBA - M&S Bank Arena, Liverpool · Fri, 24 Jul 2026
 - Lakota, Bristol · Sat, 18 Jul 2026
-- Ostrov Štvanice, Prague · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 ABSOLUTE., Hannah Holland, Horse Meat Disco
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bimini/)*

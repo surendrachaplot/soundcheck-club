@@ -1,6 +1,6 @@
 # Matas Petrikas
 
-Matas Petrikas is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kongresai, Vilnius on Fri, 20 Nov 2026.
+Matas Petrikas is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Kongresai, Vilnius on Fri, 20 Nov 2026.
 
 Matas Petrikas is an electronica and house artist, with 7 gigs on soundcheck across Berlin, Riga and Vilnius. Often billed alongside Teatre, Aiste Regina and Ario. Next up: Kongresai, Vilnius on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Matas Petrikas is an electronica and house artist, with 7 gigs on soundcheck acr
 
 Teatre, Aiste Regina, Ario
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mataspetrikas/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mataspetrikas/)*

@@ -1,14 +1,13 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 31 Oct 2026.
+Sonja Moonear is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 6 Nov 2026.
 
-Sonja Moonear is a house and techno artist based in Switzerland, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Circolo degli Illuminati, Rome on Sat 31 Oct.
+Sonja Moonear is a house and techno artist based in Switzerland, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: Peti Kupe, Zagreb on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Circolo degli Illuminati | Rome |
 | Fri, 6 Nov 2026 | Peti Kupe | Zagreb |
 | Fri, 20 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
@@ -21,6 +20,7 @@ Sonja Moonear is a house and techno artist based in Switzerland, with 213 gigs o
 
 ## Recently played
 
+- Circolo degli Illuminati, Rome · Sat, 31 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Levenslang Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - DURO, Milan · Fri, 23 Oct 2026
@@ -28,10 +28,9 @@ Sonja Moonear is a house and techno artist based in Switzerland, with 213 gigs o
 - Yamamori Tengu, Dublin · Sat, 26 Sept 2026
 - Mint XL, Leeds · Fri, 25 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
-- The Cause, London · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

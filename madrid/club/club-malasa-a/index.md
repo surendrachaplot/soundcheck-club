@@ -1,18 +1,17 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Hallowen Special: Pachanga con Arista, Jorge Padilla, 1 night only y Foie Gras" on Sat, 31 Oct 2026.
+Club Malasaña is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "Clímax" on Thu, 5 Nov 2026.
 
-Club Malasaña is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including 1Night Only, Arista, Foie Gras and Jorge Padilla and 1 more. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
+Club Malasaña is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Hallowen Special: Pachanga con Arista, Jorge Padilla, 1 night only y Foie Gras | 1Night Only, Arista, Foie Gras, Jorge Padilla, Pachanga Boys |
 | Thu, 5 Nov 2026 | Clímax |  |
 
 ## Address
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

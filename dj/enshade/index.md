@@ -1,6 +1,6 @@
 # Enshade
 
-Enshade is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - SECRET PLACE, Lyon on Sat, 28 Nov 2026.
+Enshade is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - SECRET PLACE, Lyon on Sat, 28 Nov 2026.
 
 Enshade is a techno and industrial artist based in France, with 11 gigs on soundcheck across Lyon. Often billed alongside Diapasøn, A.Silentio and AERAE. Next up: TBA - SECRET PLACE, Lyon on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Enshade is a techno and industrial artist based in France, with 11 gigs on sound
 
 Diapasøn, A.Silentio, AERAE
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enshade/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enshade/)*

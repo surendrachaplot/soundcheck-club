@@ -1,6 +1,6 @@
 # Glotzer
 
-Glotzer is a New Wave and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
+Glotzer is a New Wave and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Void Club, Berlin on Sat, 21 Nov 2026.
 
 Glotzer is a new wave and ebm artist based in United Kingdom, with 20 gigs on soundcheck across Berlin and London. Often billed alongside Proteus, Becky Stroke and Mara Mortem. Next up: Void Club, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Glotzer is a new wave and ebm artist based in United Kingdom, with 20 gigs on so
 
 Proteus, Becky Stroke, Mara Mortem
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glotzer/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glotzer/)*

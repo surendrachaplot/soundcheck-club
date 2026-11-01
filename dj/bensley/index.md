@@ -1,6 +1,6 @@
 # Bensley
 
-Bensley is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Onyx (E1), London on Fri, 11 Dec 2026.
+Bensley is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Onyx (E1), London on Fri, 11 Dec 2026.
 
 Bensley is a drum & bass and jungle artist, with 22 gigs on soundcheck across Auckland, Brisbane, Bristol and Christchurch and 13 more. Often billed alongside Anny (UK), Delta Heavy and Kaizah. Next up: Onyx (E1), London on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Bensley is a drum & bass and jungle artist, with 22 gigs on soundcheck across Au
 
 Anny (UK), Delta Heavy, Kaizah
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bensley/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bensley/)*

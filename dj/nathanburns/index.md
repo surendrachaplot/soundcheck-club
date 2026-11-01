@@ -1,6 +1,6 @@
 # Nathan Burns
 
-Nathan Burns is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Salon Daomé, Montreal on Sat, 31 Oct 2026.
+Nathan Burns is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Salon Daomé, Montreal on Sat, 31 Oct 2026.
 
 Nathan Burns is a minimal and house artist, with 29 gigs on soundcheck across Boston, Montreal and Nashville. Often billed alongside Queenie Jr, Guillaume Michaud and Clochette. Next up: Salon Daomé, Montreal on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ Nathan Burns is a minimal and house artist, with 29 gigs on soundcheck across Bo
 
 ## Recently played
 
+- Salon Daomé, Montreal · Sat, 31 Oct 2026
 - Salon Daomé, Montreal · Sun, 6 Sept 2026
 - Salon Daomé, Montreal · Sat, 22 Aug 2026
 - Salon Daomé, Montreal · Sat, 18 Jul 2026
@@ -20,10 +21,9 @@ Nathan Burns is a minimal and house artist, with 29 gigs on soundcheck across Bo
 - Vino Disco, Montreal · Wed, 17 Jun 2026
 - Bar Datcha, Montreal · Sat, 23 May 2026
 - Salon Daomé, Montreal · Sat, 18 Apr 2026
-- StereoBar, Montreal · Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Queenie Jr, Guillaume Michaud, Clochette
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanburns/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanburns/)*

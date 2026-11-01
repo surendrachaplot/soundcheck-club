@@ -1,14 +1,13 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "NCTRN028: Club Nocturne presents Danse Atmos b2b Macka [Halloween Special]" on Sat, 31 Oct 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Annex: Afterglow" on Thu, 5 Nov 2026.
 
-Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 9 upcoming gigs, with line-ups including Bakey, Becca Egan, Casi (UK) and Danse Atmos and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
+Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 8 upcoming gigs, with line-ups including Bakey, Becca Egan, Casi (UK) and Denis Sulta and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | NCTRN028: Club Nocturne presents Danse Atmos b2b Macka [Halloween Special] | Danse Atmos, Macka |
 | Thu, 5 Nov 2026 | Annex: Afterglow |  |
 | Fri, 6 Nov 2026 | FLY x Black Flag / Bakey & Dr Dubplate | Bakey, Becca Egan, Casi (UK), Dr Dubplate |
 | Fri, 13 Nov 2026 | Dreams 21+ - wAFF + more | wAFF |
@@ -22,4 +21,4 @@ Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 9 upcoming 
 
 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom, Edinburgh
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cabaret-voltaire/)*

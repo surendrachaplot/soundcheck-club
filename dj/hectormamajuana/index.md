@@ -1,6 +1,6 @@
 # Hector Mamajuana
 
-Hector Mamajuana is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at KEYBAR, New York City on Sun, 1 Nov 2026.
+Hector Mamajuana is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at KEYBAR, New York City on Sun, 1 Nov 2026.
 
 Hector Mamajuana is a drum & bass and jungle artist, with 15 gigs on soundcheck across New York City. Often billed alongside DJ Paul C, MIZTAH LEX and Alex Jay. Next up: KEYBAR, New York City on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Hector Mamajuana is a drum & bass and jungle artist, with 15 gigs on soundcheck 
 
 DJ Paul C, MIZTAH LEX, Alex Jay
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormamajuana/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectormamajuana/)*

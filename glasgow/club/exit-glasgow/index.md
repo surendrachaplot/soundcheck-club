@@ -1,14 +1,13 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 18 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "EXIT CLUB: Halloween [30 tickets OTD]" on Sat, 31 Oct 2026.
+EXIT Glasgow is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus" on Fri, 6 Nov 2026.
 
-EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming gigs, with line-ups including Aba Shanti-I, Adrian Skiba, Angel Negrin and Blackeye MC and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
+EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including Aba Shanti-I, Adrian Skiba, Angel Negrin and Blackeye MC and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | EXIT CLUB: Halloween [30 tickets OTD] | Headless Horseman, Lizzie Urquhart, Marc Matter, Rrose, TRSSX |
 | Fri, 6 Nov 2026 | EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus | Aba Shanti-I, Mellowdramatics, ojoo |
 | Sat, 7 Nov 2026 | Rubadub presents Limited Network - Max Watts, Sugar, 5tr8tch, Tanum Soundsystem | Max Watts, Sugar |
 | Fri, 13 Nov 2026 | Curated Wax 6th Birthday - Noizar (Closer Kyiv), Elk, Green LTC | Elk, Green like the Colour, Noizar |
@@ -18,9 +17,10 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming gigs,
 | Fri, 20 Nov 2026 | A.D.S.R w/ Keepsakes, Shedcat, manu_facturer | Keepsakes, Shedcat, manu_facturer |
 | Sat, 21 Nov 2026 | EXIT CLUB | Kerrie |
 | Fri, 27 Nov 2026 | Elegia x EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay | Conor Thomas, Faux Naif, JayJay, Veronica Vasicka |
+| Sat, 28 Nov 2026 | EXIT CLUB |  |
 
 ## Address
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

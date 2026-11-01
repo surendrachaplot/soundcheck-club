@@ -1,14 +1,13 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Avalon Emerson is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Avalon Emerson is a techno and house artist based in United States of America, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 57 more. Often billed alongside Sedef Adasï, BASHKKA and Ben UFO. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Thu, 5 Nov 2026 | Music Hall of Williamsburg | New York City |
 | Thu, 5 Nov 2026 | Music Hall of Williamsburg | New-york-city |
@@ -21,6 +20,7 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 
 ## Recently played
 
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 31 Oct 2026
 - The Great Northern, San Francisco/Oakland · Fri, 30 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Sub Club, Glasgow · Sat, 24 Oct 2026
@@ -28,10 +28,9 @@ Avalon Emerson is a techno and house artist based in United States of America, w
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Sedef Adasï, BASHKKA, Ben UFO
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalonemerson/)*

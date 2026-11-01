@@ -1,6 +1,6 @@
 # Gio Shengelia
 
-Gio Shengelia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - 333, New York City on Fri, 13 Nov 2026.
+Gio Shengelia is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - 333, New York City on Fri, 13 Nov 2026.
 
 Gio Shengelia is a house and techno artist based in Georgia, with 175 gigs on soundcheck across Berlin, Dubai, Los Angeles and New York City and 3 more. Often billed alongside Sevda, SUMO and Tomma. Next up: TBA - 333, New York City on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Gio Shengelia is a house and techno artist based in Georgia, with 175 gigs on so
 
 Sevda, SUMO, Tomma
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gioshengelia/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gioshengelia/)*

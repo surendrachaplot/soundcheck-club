@@ -1,6 +1,6 @@
 # Eat Pray Disco at TBA
 
-Eat Pray Disco at TBA on Sat 14 Nov, Sydney. 3 artists: KARLA, Mitch and Steka. Drum & Bass and Disco. See the line-up on soundcheck.
+Eat Pray Disco at TBA on Sat 14 Nov, Sydney. 3 artists: KÄRLA, Mitch and Steka. Drum & Bass and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Eat Pray Disco at TBA on Sat 14 Nov, Sydney. 3 artists: KARLA, Mitch and Steka. 
 
 ## Line-up
 
-- KARLA
+- KÄRLA
 - Mitch
 - Steka
 

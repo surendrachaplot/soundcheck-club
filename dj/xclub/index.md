@@ -1,6 +1,6 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+X CLUB. is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 X CLUB. is a techno and house artist based in Australia, with 246 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 79 more. Often billed alongside VTSS, DJ Heartstring and KETTAMA. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ X CLUB. is a techno and house artist based in Australia, with 246 gigs on soundc
 
 VTSS, DJ Heartstring, KETTAMA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

@@ -1,14 +1,13 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Cali Colombia, Cali on Sat, 31 Oct 2026.
+Chris Liebing is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
 
-Chris Liebing is a techno and house artist based in Germany, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Speedy J, Ben Klock and Daria Kolosova. Next up: Cali Colombia, Cali on Sat 31 Oct.
+Chris Liebing is a techno and house artist based in Germany, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Speedy J, Ben Klock and Daria Kolosova. Next up: TBA, Vancouver on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Cali Colombia | Cali |
 | Sat, 7 Nov 2026 | TBA | Vancouver |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Sat, 14 Nov 2026 | TBA - DTLA | Los Angeles |
@@ -22,6 +21,7 @@ Chris Liebing is a techno and house artist based in Germany, with 225 gigs on so
 
 ## Recently played
 
+- Cali Colombia, Cali · Sat, 31 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 - What Is Happening Here Gallery, Amsterdam · Fri, 23 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 17 Oct 2026
@@ -29,10 +29,9 @@ Chris Liebing is a techno and house artist based in Germany, with 225 gigs on so
 - Kesselhaus Augsburg, Augsburg · Sat, 10 Oct 2026
 - Kran Beograd, Belgrade · Fri, 9 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
-- Complejo Embrujo, South · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Speedy J, Ben Klock, Daria Kolosova
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

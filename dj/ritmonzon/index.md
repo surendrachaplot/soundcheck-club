@@ -1,6 +1,6 @@
 # Ritmonzón
 
-Ritmonzón is a Funk / Soul and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Restaurante Covadonga, Mexico City on Sat, 31 Oct 2026.
+Ritmonzón is a Funk / Soul and Vaporwave artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Restaurante Covadonga, Mexico City on Sat, 31 Oct 2026.
 
 Ritmonzón is a funk / soul and vaporwave artist based in Mexico, with 22 gigs on soundcheck across Mexico City. Often billed alongside Dj Raw (MX), Pablo Miya and Love Language. Next up: Restaurante Covadonga, Mexico City on Sat 31 Oct.
 
@@ -12,6 +12,7 @@ Ritmonzón is a funk / soul and vaporwave artist based in Mexico, with 22 gigs o
 
 ## Recently played
 
+- Restaurante Covadonga, Mexico City · Sat, 31 Oct 2026
 - Café de Nadie, Mexico City · Wed, 21 Oct 2026
 - Café de Nadie, Mexico City · Wed, 16 Sept 2026
 - Café de Nadie, Mexico City · Wed, 3 Jun 2026
@@ -19,10 +20,9 @@ Ritmonzón is a funk / soul and vaporwave artist based in Mexico, with 22 gigs o
 - Café de Nadie, Mexico City · Wed, 15 Apr 2026
 - Café de Nadie, Mexico City · Wed, 25 Mar 2026
 - Café de Nadie, Mexico City · Wed, 25 Feb 2026
-- Café de Nadie, Mexico City · Wed, 21 Jan 2026
 
 ## Shares bills with
 
 Dj Raw (MX), Pablo Miya, Love Language
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritmonzon/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ritmonzon/)*

@@ -1,6 +1,6 @@
 # Orcus
 
-Orcus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
+Orcus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 5 Dec 2026.
 
 Orcus is a techno and trance artist, with 12 gigs on soundcheck across Berlin, Istanbul and Lyon. Often billed alongside Roots., MILANCHOLIE and senaitstar. Next up: Crack Bellmer, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Orcus is a techno and trance artist, with 12 gigs on soundcheck across Berlin, I
 
 Roots., MILANCHOLIE, senaitstar
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orcus/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orcus/)*

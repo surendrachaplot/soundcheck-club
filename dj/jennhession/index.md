@@ -1,18 +1,18 @@
 # Jenn Hession
 
-Jenn Hession is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wigwam, Dublin on Sat, 31 Oct 2026.
+Jenn Hession is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Wigwam, Dublin on Fri, 6 Nov 2026.
 
-Jenn Hession is a techno and house artist based in Ireland, with 33 gigs on soundcheck across Dublin and London. Often billed alongside Culchee, Surferboy and eskay. Next up: Wigwam, Dublin on Sat 31 Oct.
+Jenn Hession is a techno and house artist based in Ireland, with 33 gigs on soundcheck across Dublin and London. Often billed alongside Culchee, Surferboy and eskay. Next up: Wigwam, Dublin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Wigwam | Dublin |
 | Fri, 6 Nov 2026 | Wigwam | Dublin |
 
 ## Recently played
 
+- Wigwam, Dublin · Sat, 31 Oct 2026
 - The Workmans Club, Dublin · Fri, 18 Sept 2026
 - Crate Brewery, London · Sat, 15 Aug 2026
 - Wigwam, Dublin · Sat, 8 Aug 2026
@@ -20,10 +20,9 @@ Jenn Hession is a techno and house artist based in Ireland, with 33 gigs on soun
 - Yamamori Tengu, Dublin · Tue, 17 Mar 2026
 - Wigwam, Dublin · Fri, 28 Nov 2025
 - Slane Castle, Dublin · Fri, 31 Oct 2025
-- The Grand Social, Dublin · Sun, 26 Oct 2025
 
 ## Shares bills with
 
 Culchee, Surferboy, eskay
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jennhession/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jennhession/)*

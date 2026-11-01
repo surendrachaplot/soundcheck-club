@@ -1,14 +1,13 @@
 # Wata Igarashi
 
-Wata Igarashi is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Mia Mao, Paris on Sat, 31 Oct 2026.
+Wata Igarashi is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at FOLD, London on Sat, 7 Nov 2026.
 
-Wata Igarashi is a techno and house artist based in Japan, with 244 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 64 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: Mia Mao, Paris on Sat 31 Oct.
+Wata Igarashi is a techno and house artist based in Japan, with 244 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 64 more. Often billed alongside DJ Nobu, CCL and Octo Octa. Next up: FOLD, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Mia Mao | Paris |
 | Sat, 7 Nov 2026 | FOLD | London |
 | Fri, 13 Nov 2026 | Bassiani | Tbilisi |
 | Fri, 20 Nov 2026 | control | Bucharest |
@@ -20,6 +19,7 @@ Wata Igarashi is a techno and house artist based in Japan, with 244 gigs on soun
 
 ## Recently played
 
+- Mia Mao, Paris · Sat, 31 Oct 2026
 - The Bassement, Madrid · Fri, 30 Oct 2026
 - H7 Warehouse, Amsterdam · Sat, 24 Oct 2026
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
@@ -27,10 +27,9 @@ Wata Igarashi is a techno and house artist based in Japan, with 244 gigs on soun
 - Loods6, Amsterdam · Thu, 22 Oct 2026
 - ZENNER, Berlin · Fri, 16 Oct 2026
 - smartbar, Chicago · Sat, 10 Oct 2026
-- BASEMENT, New York City · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 DJ Nobu, CCL, Octo Octa
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wataigarashi/)*

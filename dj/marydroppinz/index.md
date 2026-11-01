@@ -1,14 +1,13 @@
 # Mary Droppinz
 
-Mary Droppinz is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Mary Droppinz is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Mary Droppinz is a house and bass artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 18 more. Often billed alongside Zeds Dead, Interplanetary Criminal and Layton Giordani. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Mary Droppinz is a house and bass artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Austin, Boston and Chicago and 18 more. Often billed alongside Zeds Dead, Interplanetary Criminal and Layton Giordani. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 7 Nov 2026 | Elektricity | Detroit |
 | Sat, 21 Nov 2026 | BERHTA | Washington DC |
@@ -29,4 +28,4 @@ Mary Droppinz is a house and bass artist based in United States of America, with
 
 Zeds Dead, Interplanetary Criminal, Layton Giordani
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marydroppinz/)*

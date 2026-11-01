@@ -1,26 +1,27 @@
 # LPG (2)
 
-LPG (2) is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 31 Oct 2026.
+LPG (2) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - OBLK, Sofia on Sat, 21 Nov 2026.
 
-LPG is a techno and hardcore artist based in Bulgaria, with 7 gigs on soundcheck across Calgary and Sofia. Often billed alongside Royal Flush, ANGL and ANSY. Next up: Купе / Kupe, Sofia on Sat 31 Oct.
+LPG is a techno and hardcore artist based in Bulgaria, with 8 gigs on soundcheck across Calgary and Sofia. Often billed alongside Royal Flush, AMY (BG) and ANGL. Next up: TBA - OBLK, Sofia on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Купе / Kupe | Sofia |
 | Sat, 21 Nov 2026 | TBA - OBLK | Sofia |
 
 ## Recently played
 
+- Купе / Kupe, Sofia · Sat, 31 Oct 2026
 - Club Pave, Sofia · Fri, 30 Oct 2026
 - Купе / Kupe, Sofia · Thu, 29 Oct 2026
+- Купе / Kupe, Sofia · Fri, 2 Oct 2026
 - Skunkworks, Calgary · Fri, 28 Aug 2026
 - Купе / Kupe, Sofia · Sat, 27 Jun 2026
 - Купе / Kupe, Sofia · Thu, 11 Jun 2026
 
 ## Shares bills with
 
-Royal Flush, ANGL (2), ANSY
+Royal Flush, AMY (BG), ANGL (2)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lpg-2/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lpg-2/)*

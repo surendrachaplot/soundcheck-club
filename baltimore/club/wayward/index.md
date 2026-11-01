@@ -1,16 +1,13 @@
 # Wayward
 
-Wayward is a music venue in Baltimore with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Federal Hill's 16th Annual Hilloween Bar Crawl" on Sat, 31 Oct 2026.
+Wayward is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "Wayward NYE27 Baltimore" on Thu, 31 Dec 2026.
 
-Wayward is a music venue in Baltimore listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing.
+Wayward is a music venue in Baltimore listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Federal Hill's 16th Annual Hilloween Bar Crawl |  |
-| Sat, 31 Oct 2026 | Baltimore's Charles Street Haunted Halloween Block Party |  |
-| Sat, 31 Oct 2026 | Wayward OG Halloween Party 10/31 |  |
 | Thu, 31 Dec 2026 | Wayward NYE27 Baltimore |  |
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/wayward/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/wayward/)*

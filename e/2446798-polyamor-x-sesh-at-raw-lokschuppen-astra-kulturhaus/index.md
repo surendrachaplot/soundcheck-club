@@ -38,7 +38,7 @@ Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus on Wed 30 Dec, Berlin. 32
 - SATYS FYRE
 - Segun
 - snoritz
-- The Muffin Man
+- TheMuffinMan
 - Trancemaster Krause
 - VIVI909
 - XIMA

@@ -1,15 +1,13 @@
 # Kayzo
 
-Kayzo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Edmonton Expo Center, Edmonton on Fri, 30 Oct 2026.
+Kayzo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Radius, Chicago on Fri, 5 Mar 2027.
 
-Kayzo is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 20 more. Often billed alongside hhunter, Alesso and Audien. Next up: Edmonton Expo Center, Edmonton on Fri 30 Oct.
+Kayzo is a techno and house artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 20 more. Often billed alongside hhunter, Alesso and Audien. Next up: Radius, Chicago on Fri 5 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Edmonton Expo Center | Edmonton |
-| Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 5 Mar 2027 | Radius | Chicago |
 
 ## Recently played
@@ -27,4 +25,4 @@ Kayzo is a techno and house artist based in United States of America, with 31 gi
 
 hhunter, Alesso, Audien
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayzo/)*

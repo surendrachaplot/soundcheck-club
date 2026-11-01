@@ -1,6 +1,6 @@
 # Mike.Gov
 
-Mike.Gov is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - No Fun - 275 River St, Troy, NY 12180, New-york-state on Sat, 28 Nov 2026.
+Mike.Gov is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - No Fun - 275 River St, Troy, NY 12180, New-york-state on Sat, 28 Nov 2026.
 
 Mike.Gov is a bass and dubstep artist based in United States of America, with 14 gigs on soundcheck across New York State, New York City and Philadelphia. Often billed alongside Feral Sound, Melodelic and Ellis Delta. Next up: TBA - No Fun - 275 River St, Troy, NY 12180, New York State on Sat 28 Nov.
 
@@ -12,7 +12,7 @@ Mike.Gov is a bass and dubstep artist based in United States of America, with 14
 
 ## Recently played
 
-- TBA - NAMELESS, Philadelphia · Sat, 24 Oct 2026
+- Nameless, Philadelphia · Sat, 24 Oct 2026
 - Upstairs at the 700, Philadelphia · Sat, 18 Jul 2026
 - Upstairs at the 700, Philadelphia · Sat, 20 Jun 2026
 - The Woodshop, New York City · Sat, 9 May 2026
@@ -25,4 +25,4 @@ Mike.Gov is a bass and dubstep artist based in United States of America, with 14
 
 Feral Sound, Melodelic, Ellis Delta
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mike.gov/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mike.gov/)*

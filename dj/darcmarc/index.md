@@ -1,18 +1,18 @@
 # Darc Marc
 
-Darc Marc is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hoxton Cabin, London on Sat, 31 Oct 2026.
+Darc Marc is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Eiger Studios, Leeds on Sat, 20 Feb 2027.
 
-Darc Marc is a techno and acid artist based in United Kingdom, with 8 gigs on soundcheck across Athens, Leeds, London and Sao Paulo. Often billed alongside ALNA, Aaron Liberator and Acid Steve. Next up: Hoxton Cabin, London on Sat 31 Oct.
+Darc Marc is a techno and acid artist based in United Kingdom, with 8 gigs on soundcheck across Athens, Leeds, London and Sao Paulo. Often billed alongside ALNA, Aaron Liberator and Acid Steve. Next up: Eiger Studios, Leeds on Sat 20 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Hoxton Cabin | London |
 | Sat, 20 Feb 2027 | Eiger Studios | Leeds |
 
 ## Recently played
 
+- Hoxton Cabin, London · Sat, 31 Oct 2026
 - FOLD, London · Sat, 6 Jun 2026
 - Distillery N17, London · Sat, 18 Apr 2026
 - TBA - Palace Vinyl, London · Sat, 29 Nov 2025
@@ -24,4 +24,4 @@ Darc Marc is a techno and acid artist based in United Kingdom, with 8 gigs on so
 
 ALNA, Aaron Liberator, Acid Steve
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/darcmarc/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darcmarc/)*

@@ -1,8 +1,8 @@
 # DJ Furniture
 
-DJ Furniture is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Collapse, Pittsburgh on Sun, 15 Nov 2026.
+DJ Furniture is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Collapse, Pittsburgh on Sun, 15 Nov 2026.
 
-DJ Furniture is an ambient and techno artist, with 13 gigs on soundcheck across Baltimore, New York City, Philadelphia and Pittsburgh. Often billed alongside America Loves Me, Angel Jelly and Cubby. Next up: Collapse, Pittsburgh on Sun 15 Nov.
+DJ Furniture is an ambient and bass artist, with 14 gigs on soundcheck across Baltimore, New York City, Philadelphia and Pittsburgh. Often billed alongside America Loves Me, Angel Jelly and Cubby. Next up: Collapse, Pittsburgh on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Furniture is an ambient and techno artist, with 13 gigs on soundcheck across 
 
 ## Recently played
 
+- Jackworth Ginger Beer, Pittsburgh · Thu, 15 Oct 2026
 - The New Hot Mass, Pittsburgh · Sat, 22 Nov 2025
 - The New Hot Mass, Pittsburgh · Sat, 22 Nov 2025
 - H0L0, New York City · Wed, 29 Oct 2025
@@ -19,10 +20,9 @@ DJ Furniture is an ambient and techno artist, with 13 gigs on soundcheck across 
 - The Pottery Gym, Philadelphia · Fri, 16 May 2025
 - Scobi Hotel, Pittsburgh · Sat, 19 Apr 2025
 - Launderette Records, Philadelphia · Sat, 12 Apr 2025
-- Bantha Tea Bar, Pittsburgh · Wed, 15 Jan 2025
 
 ## Shares bills with
 
 America Loves Me, Angel Jelly, Cubby
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfurniture/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfurniture/)*

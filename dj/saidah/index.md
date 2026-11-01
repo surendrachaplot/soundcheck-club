@@ -1,15 +1,13 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+SAIDAH is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-SAIDAH is a house and garage artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 24 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+SAIDAH is a house and garage artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 24 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
-| Sat, 31 Oct 2026 | Elsewhere | New York City |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
@@ -20,9 +18,11 @@ SAIDAH is a house and garage artist based in Netherlands, with 126 gigs on sound
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 | Sun, 28 Feb 2027 | Ozone Reserve | Perth |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
+| Sat, 6 Mar 2027 | Gateway Bridge Underpass | Brisbane |
 
 ## Recently played
 
+- Elsewhere, New York City · Sat, 31 Oct 2026
 - Travis County Exposition Center, Austin · Fri, 30 Oct 2026
 - H7 Warehouse, Amsterdam · Sun, 25 Oct 2026
 - GASHOUDER, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +30,9 @@ SAIDAH is a house and garage artist based in Netherlands, with 126 gigs on sound
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Jardins de Joan Brossa, Barcelona · Sun, 13 Sept 2026
 - TBA - Brussels, Brussels · Fri, 11 Sept 2026
-- Radio Radio, Amsterdam · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Diffrent, Benwal, Sam Alfred
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

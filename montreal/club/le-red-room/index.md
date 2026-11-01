@@ -1,14 +1,13 @@
 # Le Red Room
 
-Le Red Room is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "My Haunted Haus 2026" on Sat, 31 Oct 2026.
+Le Red Room is a music venue in Montreal with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Lost and Loved 3" on Fri, 6 Nov 2026.
 
-Le Red Room is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including AKL!, Fatal Gravity, Make Sense and Ratchet and 1 more. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
+Le Red Room is a music venue in Montreal listed on soundcheck. 6 upcoming gigs, with line-ups including AKL!, Fatal Gravity, Make Sense and sabafrap. See dates, start times and who's playing. 2037 rue Saint-Denis, Montreal, Quebec H2X3K8.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | My Haunted Haus 2026 | Ratchet |
 | Fri, 6 Nov 2026 | Lost and Loved 3 |  |
 | Sat, 7 Nov 2026 | KRYTURE + more @ Le Red Room | Fatal Gravity |
 | Thu, 12 Nov 2026 | Future Jungle Deep n Liquid |  |
@@ -20,4 +19,4 @@ Le Red Room is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, 
 
 2037 rue Saint-Denis, Montreal, Quebec H2X3K8, Montreal
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-red-room/)*

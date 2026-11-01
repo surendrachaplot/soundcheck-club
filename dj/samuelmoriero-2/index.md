@@ -1,14 +1,13 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Psytrance artist with 18 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Samuel Moriero (2) is a Techno and Psytrance artist with 17 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
 
-Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 23 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 23 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Razzmatazz, Barcelona on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Sun, 1 Nov 2026 | Razzmatazz | Barcelona |
 | Fri, 6 Nov 2026 | Gate Milano | Milan |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
@@ -20,6 +19,7 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 | Sat, 26 Dec 2026 | The Telegraph Building | Belfast |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
+| Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 
 Onlynumbers, ASLO, Adam Bartas
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

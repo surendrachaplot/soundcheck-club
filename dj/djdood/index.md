@@ -1,6 +1,6 @@
 # DJ dood
 
-DJ dood is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Birdhouse, Vancouver on Sat, 21 Nov 2026.
+DJ dood is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Birdhouse, Vancouver on Sat, 21 Nov 2026.
 
 DJ dood is a house and techno artist based in Canada, with 45 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Max Ulis, Lerma and Dane. Next up: The Birdhouse, Vancouver on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ DJ dood is a house and techno artist based in Canada, with 45 gigs on soundcheck
 
 Max Ulis, Lerma, Dane
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdood/)*

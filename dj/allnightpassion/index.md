@@ -1,18 +1,18 @@
 # All Night Passion
 
-All Night Passion is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Tunnels, Aberdeen on Sat, 31 Oct 2026.
+All Night Passion is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Tunnels, Aberdeen on Sat, 12 Dec 2026.
 
-All Night Passion is a disco and house artist based in United Kingdom, with 43 gigs on soundcheck across Aberdeen, Berlin, Dundee and Edinburgh and 1 more. Often billed alongside Oakley Carter, Calowae and gau7t. Next up: The Tunnels, Aberdeen on Sat 31 Oct.
+All Night Passion is a disco and house artist based in United Kingdom, with 43 gigs on soundcheck across Aberdeen, Berlin, Dundee and Edinburgh and 1 more. Often billed alongside Oakley Carter, Calowae and gau7t. Next up: The Tunnels, Aberdeen on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | The Tunnels | Aberdeen |
 | Sat, 12 Dec 2026 | The Tunnels | Aberdeen |
 
 ## Recently played
 
+- The Tunnels, Aberdeen · Sat, 31 Oct 2026
 - Sneaky Pete's, Edinburgh · Sat, 29 Aug 2026
 - The Arlington, Glasgow · Sat, 15 Aug 2026
 - The Arlington, Glasgow · Sat, 9 May 2026
@@ -20,10 +20,9 @@ All Night Passion is a disco and house artist based in United Kingdom, with 43 g
 - The Arlington, Glasgow · Sat, 21 Mar 2026
 - The Tunnels, Aberdeen · Sat, 7 Mar 2026
 - The Tunnels, Aberdeen · Sat, 10 Jan 2026
-- The Tunnels, Aberdeen · Sat, 13 Dec 2025
 
 ## Shares bills with
 
 Oakley Carter, Calowae, gau7t
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/allnightpassion/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allnightpassion/)*

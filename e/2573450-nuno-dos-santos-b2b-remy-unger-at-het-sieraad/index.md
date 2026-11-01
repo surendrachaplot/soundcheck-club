@@ -1,6 +1,6 @@
 # Nuno dos Santos b2b Remy Unger at Het Sieraad
 
-Nuno dos Santos b2b Remy Unger at Het Sieraad on Fri 20 Nov, Amsterdam. 2 artists: Nuno dos Santos and Remy Unger. See the line-up on soundcheck.
+Nuno dos Santos b2b Remy Unger at Het Sieraad on Fri 20 Nov, Amsterdam. 2 artists: Nuno dos Santos and Remy Unger. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

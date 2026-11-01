@@ -1,15 +1,13 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Freakin' Disco, Gorg & Benzol @ KASSA Halloween" on Sat, 31 Oct 2026.
+Kassa Boat is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Liquid Night invites CHRSTPHR" on Fri, 6 Nov 2026.
 
-Kassa Boat is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, with line-ups including Axel Karakasis, CHRSTPHR, Counterstrike and Daniel Avery and 2 more. See dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
+Kassa Boat is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Axel Karakasis, CHRSTPHR, Daniel Avery and Demmy J and 2 more. See dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Freakin' Disco, Gorg & Benzol @ KASSA Halloween |  |
-| Sat, 31 Oct 2026 | Therapy Sessions Halloween with Zardonic, Counterstrike, Fragz | Counterstrike, Zardonic |
 | Fri, 6 Nov 2026 | Liquid Night invites CHRSTPHR | CHRSTPHR, Dual DeStress |
 | Sat, 14 Nov 2026 | Ivy Lab: A Farewell Tour | Ivy Lab |
 | Fri, 20 Nov 2026 | 2 years of KASSA w/ Daniel Avery | Daniel Avery, Maron, Mirmur, Vava (1), klpflrtpr |
@@ -21,4 +19,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 8 upcoming gigs, w
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

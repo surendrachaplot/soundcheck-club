@@ -1,6 +1,6 @@
 # Helm
 
-Helm is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The White Hotel, Manchester on Mon, 9 Nov 2026.
+Helm is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The White Hotel, Manchester on Mon, 9 Nov 2026.
 
 Helm is an experimental and industrial artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Copenhagen, Manchester and Osaka and 3 more. Often billed alongside AELVA K, AfroNinja and Alif Hilal. Next up: The White Hotel, Manchester on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ Helm is an experimental and industrial artist based in United Kingdom, with 10 g
 
 AELVA K, AfroNinja, Alif Hilal
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helm/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helm/)*

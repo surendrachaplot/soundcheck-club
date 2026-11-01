@@ -1,6 +1,6 @@
 # Lick Quid Gold with DJ Sotofett at Hope House
 
-Lick Quid Gold with DJ Sotofett at Hope House on Sat 5 Dec, Leeds. 1 artist: DJ Sotofett. Dub and Acid. See the line-up on soundcheck.
+Lick Quid Gold with DJ Sotofett at Hope House on Sat 5 Dec, Leeds. 1 artist: DJ Sotofett. Acid and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

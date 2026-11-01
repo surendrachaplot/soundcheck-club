@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "BCCO Halloween" on Sat, 31 Oct 2026.
+RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "BCCO Halloween" on Sat, 31 Oct 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including 131bpm, Justine Perry, ABADIR and Adiel and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 131bpm, Justine Perry, ABADIR and Adiel and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
@@ -23,4 +23,4 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wi
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

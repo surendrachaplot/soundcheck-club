@@ -1,6 +1,6 @@
 # Oscil
 
-Oscil is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Sleepwalk, New York City on Wed, 4 Nov 2026.
+Oscil is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sleepwalk, New York City on Wed, 4 Nov 2026.
 
 Oscil is a techno and house artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside alter.world, Uttaraa and Qtea. Next up: Sleepwalk, New York City on Wed 4 Nov.
 
@@ -29,4 +29,4 @@ Oscil is a techno and house artist based in United States of America, with 14 gi
 
 alter.world, Uttaraa, Qtea
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil/)*

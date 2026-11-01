@@ -1,14 +1,13 @@
 # Dj Quien
 
-Dj Quien is a Hip-Hop and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA -  R 303, Tokyo on Sun, 1 Nov 2026.
+Dj Quien is a Hip-Hop and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Débris, Tokyo on Sun, 8 Nov 2026.
 
-Dj Quien is a hip-hop and drum & bass artist based in Bolivia, with 73 gigs on soundcheck across Berlin, Hamburg, Osaka and Tokyo. Often billed alongside Tommy Lexxus, VILIFY and Boogie Dan. Next up: TBA -  R 303, Tokyo on Sun 1 Nov.
+Dj Quien is a hip-hop and drum & bass artist based in Bolivia, with 73 gigs on soundcheck across Berlin, Hamburg, Osaka and Tokyo. Often billed alongside Tommy Lexxus, VILIFY and Boogie Dan. Next up: Débris, Tokyo on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | TBA -  R 303 | Tokyo |
 | Sun, 8 Nov 2026 | Débris | Tokyo |
 | Wed, 11 Nov 2026 | Triangle | Osaka |
 | Fri, 13 Nov 2026 | TBA - Corner Stone | Osaka |
@@ -28,4 +27,4 @@ Dj Quien is a hip-hop and drum & bass artist based in Bolivia, with 73 gigs on s
 
 Tommy Lexxus, VILIFY, Boogie Dan
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djquien-bo/)*

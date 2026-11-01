@@ -1,14 +1,13 @@
 # OHM
 
-OHM is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Garage Girls - Trick or Treat " on Sat, 31 Oct 2026.
+OHM is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Neighbourhood - Tim Reaper & friends" on Thu, 5 Nov 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including AliA, Amaliah, Appleblim and Ario and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AliA, Appleblim, Ario and Ayū and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Garage Girls - Trick or Treat  | Amaliah, DJ NORTHERN, Katy De Jesus, Mx. Blaire, NIKS |
 | Thu, 5 Nov 2026 | Neighbourhood - Tim Reaper & friends | Tim Reaper |
 | Fri, 6 Nov 2026 | poems with Scratchclart & Shannen SP | Genus Aix, Scratcha DVA, Shannen SP, dérive, pesadj |
 | Sat, 7 Nov 2026 | PuMp Berlin Daytime hosted by Monty Luke | Monty Luke, Toxido Mask |
@@ -18,9 +17,10 @@ OHM is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line
 | Sat, 14 Nov 2026 | Echidna x irsh feat. B3CKI, Gretchen, ltfll, Miserere Mei, Rama b2b ZULI, STI ZOI | B3CKI, Rama (2), ZULI |
 | Thu, 19 Nov 2026 | LA CASITA presents: Rrose All Night Long & much more | Rrose |
 | Fri, 27 Nov 2026 | Sneaker Social Club with Demdike Stare & ojoo | Appleblim, Demdike Stare, Low End Activist, Tempestfeather, Traynor, ojoo |
+| Sun, 29 Nov 2026 | TETAS LOCAS |  |
 
 ## Address
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

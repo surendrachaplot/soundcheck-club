@@ -1,18 +1,18 @@
 # Boundless (1)
 
-Boundless (1) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Boundless (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
-Boundless is a techno and tech house artist based in Portugal, with 21 gigs on soundcheck across Berlin, Copenhagen, Lisbon and London and 5 more. Often billed alongside Ben Jammin, George Ellis and Jorge Martins. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Boundless is a techno and tech house artist based in Portugal, with 21 gigs on soundcheck across Berlin, Copenhagen, Lisbon and London and 5 more. Often billed alongside Ben Jammin, George Ellis and Jorge Martins. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Fire & Lightbox | London |
 | Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |
 
 ## Recently played
 
+- Fire & Lightbox, London · Sat, 31 Oct 2026
 - Tapada da Ajuda, Lisbon · Sat, 29 Aug 2026
 - Village Underground Lisboa, Lisbon · Fri, 21 Aug 2026
 - Zinkbad Eventhalle, Zurich · Fri, 1 May 2026
@@ -20,10 +20,9 @@ Boundless is a techno and tech house artist based in Portugal, with 21 gigs on s
 - Zinkbad Eventhalle, Zurich · Fri, 1 May 2026
 - Village Underground Lisboa, Lisbon · Sat, 25 Apr 2026
 - Village Underground Lisboa, Lisbon · Sat, 28 Feb 2026
-- Riverwood Downs Mountain Valley Resort, Sydney · Fri, 5 Dec 2025
 
 ## Shares bills with
 
 Ben Jammin, George Ellis, Jorge Martins
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boundless-1/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boundless-1/)*

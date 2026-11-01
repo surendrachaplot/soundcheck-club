@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "feedbk Halloween with Faciendo Soundsystem and friends" on Sat, 31 Oct 2026.
+feedbk is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "feedbk Halloween with Faciendo Soundsystem and friends" on Sat, 31 Oct 2026.
 
 feedbk is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Garcia, Andrew James Gustav, Aton and Bruno (DO) and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -22,4 +22,4 @@ feedbk is a music venue in New York City listed on soundcheck. 9 upcoming gigs, 
 
 153 Morgan Avenue, New York City
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

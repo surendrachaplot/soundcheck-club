@@ -1,18 +1,18 @@
 # Laura MRLS
 
-Laura MRLS is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Post Bar, Helsinki on Sat, 31 Oct 2026.
+Laura MRLS is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Glove That Fits, London on Sat, 5 Dec 2026.
 
-Laura MRLS is a techno and ambient artist based in Germany, with 37 gigs on soundcheck across Barcelona, Berlin, Helsinki and London and 2 more. Often billed alongside Exploited Body, JASSASS and Joni DJ. Next up: Post Bar, Helsinki on Sat 31 Oct.
+Laura MRLS is a techno and ambient artist based in Germany, with 37 gigs on soundcheck across Barcelona, Berlin, Helsinki and London and 2 more. Often billed alongside Exploited Body, JASSASS and Joni DJ. Next up: The Glove That Fits, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Post Bar | Helsinki |
 | Sat, 5 Dec 2026 | The Glove That Fits | London |
 
 ## Recently played
 
+- Post Bar, Helsinki · Sat, 31 Oct 2026
 - Oranssi ry, Helsinki · Sun, 18 Oct 2026
 - Kaiku, Helsinki · Fri, 11 Sept 2026
 - M.O.T, London · Fri, 28 Aug 2026
@@ -20,10 +20,9 @@ Laura MRLS is a techno and ambient artist based in Germany, with 37 gigs on soun
 - TBA - Secret Location, Berlin · Fri, 12 Jun 2026
 - Äänen Lumo, Helsinki · Fri, 8 May 2026
 - M.O.T, London · Sat, 14 Mar 2026
-- Elastica, Vilnius · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Exploited Body, JASSASS, Joni DJ
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lauramrls/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauramrls/)*

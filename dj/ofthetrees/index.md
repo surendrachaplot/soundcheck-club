@@ -1,14 +1,13 @@
 # Of The Trees
 
-Of The Trees is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
+Of The Trees is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Of The Trees is a bass and house artist based in United States of America, with 19 gigs on soundcheck across Austin, California, Chicago and Dallas/Fort Worth and 9 more. Often billed alongside Dimension, Zedd and Alesso. Next up: New Orleans, LA, Mardi Gras World, New Orleans on Fri 30 Oct.
+Of The Trees is a bass and house artist based in United States of America, with 19 gigs on soundcheck across Austin, California, Chicago and Dallas/Fort Worth and 9 more. Often billed alongside Dimension, Zedd and Alesso. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | New Orleans, LA, Mardi Gras World | New-orleans |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 
 ## Recently played
@@ -26,4 +25,4 @@ Of The Trees is a bass and house artist based in United States of America, with 
 
 Dimension, Zedd, Alesso
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ofthetrees/)*

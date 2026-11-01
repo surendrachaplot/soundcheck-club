@@ -1,6 +1,6 @@
 # Lexicon
 
-Lexicon is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
+Lexicon is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
 
 Lexicon is a techno and club artist based in United States of America, with 37 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), sfcowboy and moth (US). Next up: Signal, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Lexicon is a techno and club artist based in United States of America, with 37 g
 
 erika (SF), sfcowboy, moth (US)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexicon/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexicon/)*

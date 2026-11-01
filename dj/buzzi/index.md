@@ -1,6 +1,6 @@
 # Buzzi
 
-Buzzi is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Podlasie Club, Chicago on Sat, 7 Nov 2026.
+Buzzi is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Podlasie Club, Chicago on Sat, 7 Nov 2026.
 
 Buzzi is a techno and hardcore artist based in United States of America, with 28 gigs on soundcheck across Berlin, Boston, Chicago and Detroit and 6 more. Often billed alongside Kilbourne, S4M23 and Vyper. Next up: Podlasie Club, Chicago on Sat 7 Nov.
 
@@ -12,7 +12,7 @@ Buzzi is a techno and hardcore artist based in United States of America, with 28
 
 ## Recently played
 
-- TBA - Tech 25, Pittsburgh · Sat, 24 Oct 2026
+- Tech 25, Pittsburgh · Sat, 24 Oct 2026
 - Bossa Nova Civic Club, New York City · Sat, 25 Jul 2026
 - Eden NYC, New York City · Sun, 12 Jul 2026
 - TBA, Detroit · Fri, 22 May 2026
@@ -25,4 +25,4 @@ Buzzi is a techno and hardcore artist based in United States of America, with 28
 
 Kilbourne, S4M23, Vyper
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/buzzi/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buzzi/)*

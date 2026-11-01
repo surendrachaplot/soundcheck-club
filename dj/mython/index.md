@@ -1,6 +1,6 @@
 # Mython
 
-Mython is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+Mython is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
 
 Mython is a techno and house artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Beijing, Berlin and Budapest and 14 more. Often billed alongside Jonas Xenon, Scepticism and Tanzanfall. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
 
@@ -14,6 +14,7 @@ Mython is a techno and house artist based in Germany, with 76 gigs on soundcheck
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Sat, 31 Oct 2026
 - STK 47 WAREHOUSE, Krakow · Sat, 24 Oct 2026
 - Surr Warehouse, Uzbekistan · Sat, 10 Oct 2026
 - Tresor / Globus, Berlin · Fri, 9 Oct 2026
@@ -21,10 +22,9 @@ Mython is a techno and house artist based in Germany, with 76 gigs on soundcheck
 - Atno, Budapest · Fri, 2 Oct 2026
 - Renate, Berlin · Sat, 5 Sept 2026
 - Lehmann Club, Stuttgart · Sat, 5 Sept 2026
-- ÆDEN, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Jonas Xenon, Scepticism, Tanzanfall
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mython/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mython/)*

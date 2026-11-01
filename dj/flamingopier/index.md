@@ -1,8 +1,8 @@
 # Flamingo Pier
 
-Flamingo Pier is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Flamingo Pier is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
-Flamingo Pier is a disco and house artist based in New Zealand, with 30 gigs on soundcheck across Auckland, Brisbane, Cleveland and Detroit and 13 more. Often billed alongside Frank Booker, JKriv and Make A Dance. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
+Flamingo Pier is a disco and house artist based in New Zealand, with 31 gigs on soundcheck across Auckland, Brisbane, Christchurch and Cleveland and 14 more. Often billed alongside Frank Booker, JKriv and Make A Dance. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Flamingo Pier is a disco and house artist based in New Zealand, with 30 gigs on 
 | Thu, 21 Jan 2027 | The Lansdowne | Sydney |
 | Fri, 22 Jan 2027 | Felons Barrel Hall | Brisbane |
 | Sat, 23 Jan 2027 | The Night Cat | Melbourne |
+| Fri, 29 Jan 2027 | Sydenham Underpass | Christchurch |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Flamingo Pier is a disco and house artist based in New Zealand, with 30 gigs on 
 
 Frank Booker, JKriv, Make A Dance
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flamingopier/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flamingopier/)*

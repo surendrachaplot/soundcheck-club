@@ -1,14 +1,13 @@
 # Crema Club
 
-Crema Club is a music venue in Sao Paulo with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Crema Club presents: HALLOWEEN NIGHT - 31.10" on Sat, 31 Oct 2026.
+Crema Club is a music venue in Sao Paulo with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Crema Club presents: NO SLEEP CLUB - 01.11" on Sun, 1 Nov 2026.
 
-Crema Club is a music venue in Sao Paulo listed on soundcheck. 11 upcoming gigs, with line-ups including Cactunes and Etcetera. See dates, start times and who's playing. R. Cristóvão Gonçalves, 84 - Pinheiros, São Paulo - SP, 05426-050.
+Crema Club is a music venue in Sao Paulo listed on soundcheck. 10 upcoming gigs, with line-ups including Cactunes and Etcetera. See dates, start times and who's playing. R. Cristóvão Gonçalves, 84 - Pinheiros, São Paulo - SP, 05426-050.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Crema Club presents: HALLOWEEN NIGHT - 31.10 |  |
 | Sun, 1 Nov 2026 | Crema Club presents: NO SLEEP CLUB - 01.11 | Cactunes |
 | Fri, 6 Nov 2026 | Crema Club: From House To Techno - 06.11 |  |
 | Sat, 7 Nov 2026 | Crema Club - 07.11 |  |
@@ -18,9 +17,10 @@ Crema Club is a music venue in Sao Paulo listed on soundcheck. 11 upcoming gigs,
 | Fri, 20 Nov 2026 | Crema Club - 20.11 |  |
 | Sat, 21 Nov 2026 | Crema Club - 21.11 | Cactunes |
 | Fri, 27 Nov 2026 | Crema Club - 27.10 |  |
+| Sat, 28 Nov 2026 | Crema Club - 28.11 | Etcetera |
 
 ## Address
 
 R. Cristóvão Gonçalves, 84 - Pinheiros, São Paulo - SP, 05426-050, Sao Paulo
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/crema-club/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/crema-club/)*

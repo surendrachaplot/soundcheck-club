@@ -1,14 +1,13 @@
 # Slow Club
 
-Slow Club is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Glamour Freaks Halloween: Toni The Boss + Navider" on Sat, 31 Oct 2026.
+Slow Club is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Deep, Tech, House by Navider" on Thu, 5 Nov 2026.
 
-Slow Club is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including Cris-H, Frankie G, Hermes Disco Eterno and Kenzø and 2 more. See dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
+Slow Club is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Cris-H, Frankie G, Hermes Disco Eterno and Kenzø and 1 more. See dates, start times and who's playing. Carrer de París, 186, 08036 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Glamour Freaks Halloween: Toni The Boss + Navider | Navider, Toni The Boss |
 | Thu, 5 Nov 2026 | Deep, Tech, House by Navider | Navider |
 | Fri, 6 Nov 2026 | Tribalesque: Navider | Navider |
 | Sat, 7 Nov 2026 | Hypnotic: Cris-H, Frankie G | Cris-H, Frankie G |
@@ -18,9 +17,10 @@ Slow Club is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, 
 | Thu, 19 Nov 2026 | Deep, Tech, House by Navider | Navider |
 | Fri, 20 Nov 2026 | Soulful City: Navider | Navider |
 | Sat, 21 Nov 2026 | The Retrospective: Frankie G | Frankie G |
+| Thu, 26 Nov 2026 | Deep, Tech, House by Navider | Navider |
 
 ## Address
 
 Carrer de París, 186, 08036 Barcelona, Barcelona
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/slow-club/)*

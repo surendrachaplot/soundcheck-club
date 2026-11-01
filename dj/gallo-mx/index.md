@@ -1,6 +1,6 @@
 # Gallō
 
-Gallō is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Marsella 47 Colonia Juarez, Mexico City on Sat, 31 Oct 2026.
+Gallō is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Marsella 47 Colonia Juarez, Mexico City on Sat, 31 Oct 2026.
 
 Gallō is a house and minimal artist based in Mexico, with 40 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Shisho, chldrns and Louie Fresco. Next up: TBA - Marsella 47 Colonia Juarez, Mexico City on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ Gallō is a house and minimal artist based in Mexico, with 40 gigs on soundcheck
 
 ## Recently played
 
+- TBA - Marsella 47 Colonia Juarez, Mexico City · Sat, 31 Oct 2026
 - Fünk, Mexico City · Thu, 29 Oct 2026
 - TBA -  Copenhague 31, esq Hamburgo, Juárez. 2º Piso. CDMX, Mexico City · Sun, 4 Oct 2026
 - Medellin 65, Mexico City · Sat, 12 Sept 2026
@@ -20,10 +21,9 @@ Gallō is a house and minimal artist based in Mexico, with 40 gigs on soundcheck
 - La Vista, Mexico City · Thu, 2 Jul 2026
 - Pardo Club, Guadalajara · Wed, 1 Jul 2026
 - NO HOUSE, Mexico City · Sat, 20 Jun 2026
-- CHICO, Mexico City · Thu, 18 Jun 2026
 
 ## Shares bills with
 
 Shisho, chldrns, Louie Fresco
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gallo-mx/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gallo-mx/)*

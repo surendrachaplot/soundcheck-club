@@ -1,6 +1,6 @@
 # Space Afrika
 
-Space Afrika is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Botanique, Brussels on Sun, 1 Nov 2026.
+Space Afrika is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Botanique, Brussels on Sun, 1 Nov 2026.
 
 Space Afrika is an experimental and ambient artist based in United Kingdom, with 67 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 24 more. Often billed alongside Helena Hauff, Loraine James and Rainy Miller. Next up: Botanique, Brussels on Sun 1 Nov.
 
@@ -28,4 +28,4 @@ Space Afrika is an experimental and ambient artist based in United Kingdom, with
 
 Helena Hauff, Loraine James, Rainy Miller
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spaceafrika/)*

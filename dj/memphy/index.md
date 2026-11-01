@@ -1,18 +1,18 @@
 # Memphy
 
-Memphy is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - 3460 Pickett St. San Diego CA, 92110, San Diego on Fri, 30 Oct 2026.
+Memphy is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Los Angeles on Sat, 31 Oct 2026.
 
-Memphy is a techno and club artist based in United States of America, with 93 gigs on soundcheck across Auckland, Berlin, Chicago and London and 11 more. Often billed alongside Bapari, Sevyn 0000 and FASHION (US). Next up: TBA - 3460 Pickett St. San Diego CA, 92110, San Diego on Fri 30 Oct.
+Memphy is a techno and club artist based in United States of America, with 93 gigs on soundcheck across Auckland, Berlin, Chicago and London and 11 more. Often billed alongside Bapari, Sevyn 0000 and FASHION (US). Next up: TBA, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - 3460 Pickett St. San Diego CA, 92110 | San Diego |
 | Sat, 31 Oct 2026 | TBA | Los Angeles |
 
 ## Recently played
 
+- TBA, Los Angeles · Sat, 31 Oct 2026
 - TBA - 3460 Pickett St. San Diego CA, 92110, San Diego · Fri, 30 Oct 2026
 - Unveiled, New York City · Fri, 23 Oct 2026
 - Good Room, New York City · Sat, 10 Oct 2026
@@ -20,10 +20,9 @@ Memphy is a techno and club artist based in United States of America, with 93 gi
 - Club Rawhide, New York City · Sat, 5 Sept 2026
 - Massive, Seattle · Sat, 22 Aug 2026
 - FOLD, London · Sat, 11 Jul 2026
-- Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Bapari, Sevyn 0000, FASHION (US)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memphy/)*

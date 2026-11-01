@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ACCESS: House & Techno Free Rave" on Fri, 6 Nov 2026.
+Lakota is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ACCESS: House & Techno Free Rave" on Fri, 6 Nov 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including 2HOT2PLAY, Captain Wallop, Faster Horses and Jamie Unknown and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

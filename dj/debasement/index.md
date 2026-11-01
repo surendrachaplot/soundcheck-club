@@ -1,14 +1,13 @@
 # deBasement
 
-deBasement is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Radius, Chicago on Fri, 30 Oct 2026.
+deBasement is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Thu, 19 Nov 2026.
 
-deBasement is a techno and club artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Marie Davidson, Brutalismus 3000 and Eurohead. Next up: Radius, Chicago on Fri 30 Oct.
+deBasement is a techno and club artist based in United States of America, with 41 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 17 more. Often billed alongside Marie Davidson, Brutalismus 3000 and Eurohead. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Radius | Chicago |
 | Thu, 19 Nov 2026 | Shrine Auditorium and Expo Hall | Los Angeles |
 | Sat, 21 Nov 2026 | The Warfield | San Francisco/Oakland |
 | Sun, 22 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
@@ -28,4 +27,4 @@ deBasement is a techno and club artist based in United States of America, with 4
 
 Marie Davidson, Brutalismus 3000, Eurohead
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debasement/)*

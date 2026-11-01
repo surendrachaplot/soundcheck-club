@@ -1,18 +1,18 @@
 # DJ Ace
 
-DJ Ace is a R&B and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Eutopia Warehouse, London on Sat, 31 Oct 2026.
+DJ Ace is a R&B and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at DRUMSHEDS, London on Sat, 21 Nov 2026.
 
-DJ Ace is a r&b and afro house artist based in United States of America, with 18 gigs on soundcheck across Detroit, Ibiza and London. Often billed alongside Supa D, DJ Godfather and Pioneer. Next up: Eutopia Warehouse, London on Sat 31 Oct.
+DJ Ace is a r&b and afro house artist based in United States of America, with 18 gigs on soundcheck across Detroit, Ibiza and London. Often billed alongside Supa D, DJ Godfather and Pioneer. Next up: DRUMSHEDS, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Eutopia Warehouse | London |
 | Sat, 21 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
 
+- Eutopia Warehouse, London · Sat, 31 Oct 2026
 - Marble Bar, Detroit · Thu, 24 Sept 2026
 - The Cause, London · Sun, 9 Aug 2026
 - Eutopia Warehouse, London · Sat, 18 Jul 2026
@@ -20,10 +20,9 @@ DJ Ace is a r&b and afro house artist based in United States of America, with 18
 - Brockwell Park, London · Mon, 25 May 2026
 - Lincoln Factory, Detroit · Sat, 7 Feb 2026
 - E1, London · Sun, 16 Nov 2025
-- TBA - The Container Globe 1151Taylor St Detroit, MI 4820, Detroit · Fri, 15 Aug 2025
 
 ## Shares bills with
 
 Supa D, DJ Godfather, Pioneer
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djace/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djace/)*

@@ -1,6 +1,6 @@
 # Cvrdwell
 
-Cvrdwell is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Toldi Klub, Budapest on Sat, 5 Dec 2026.
+Cvrdwell is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Toldi Klub, Budapest on Sat, 5 Dec 2026.
 
 Cvrdwell is a techno and trance artist based in Hungary, with 52 gigs on soundcheck across Budapest. Often billed alongside AGA2L, Indirect Movement and isu. Next up: Toldi Klub, Budapest on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Cvrdwell is a techno and trance artist based in Hungary, with 52 gigs on soundch
 
 AGA2L, Indirect Movement, isu
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrdwell/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvrdwell/)*

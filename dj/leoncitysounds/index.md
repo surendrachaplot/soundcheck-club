@@ -1,6 +1,6 @@
 # Leon City Sounds
 
-Leon City Sounds is a Latin Bass and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Throw Social DC, Washington DC on Sun, 1 Nov 2026.
+Leon City Sounds is a Latin Bass and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Throw Social DC, Washington DC on Sun, 1 Nov 2026.
 
 Leon City Sounds is a latin bass and funk / soul artist, with 11 gigs on soundcheck across Washington DC. Often billed alongside Martín Miguel, DJ Con and DJ Eddy Bauer. Next up: Throw Social DC, Washington DC on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Leon City Sounds is a latin bass and funk / soul artist, with 11 gigs on soundch
 
 Martín Miguel, DJ Con, DJ Eddy Bauer
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leoncitysounds/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leoncitysounds/)*

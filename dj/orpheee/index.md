@@ -1,18 +1,18 @@
 # Orpheee
 
-Orpheee is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Cité Fertile, Paris on Sat, 31 Oct 2026.
+Orpheee is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Babour Sauvage, Paris on Sat, 14 Nov 2026.
 
-Orpheee is a techno and bass artist based in France, with 8 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Itaho, Cardus and 33Soleil. Next up: La Cité Fertile, Paris on Sat 31 Oct.
+Orpheee is a techno and bass artist based in France, with 8 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Itaho, Cardus and 33Soleil. Next up: Babour Sauvage, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | La Cité Fertile | Paris |
 | Sat, 14 Nov 2026 | Babour Sauvage | Paris |
 
 ## Recently played
 
+- La Cité Fertile, Paris · Sat, 31 Oct 2026
 - Karmen Camina, Strasbourg · Sat, 20 Jun 2026
 - Karmen Camina, Strasbourg · Thu, 12 Feb 2026
 - Karmen Camina, Strasbourg · Sat, 13 Dec 2025
@@ -24,4 +24,4 @@ Orpheee is a techno and bass artist based in France, with 8 gigs on soundcheck a
 
 Itaho, Cardus, 33Soleil
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/orpheee/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orpheee/)*

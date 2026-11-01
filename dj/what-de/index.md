@@ -1,14 +1,13 @@
 # What?
 
-What? is a Experimental and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 30 Oct 2026.
+What? is a Experimental and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Panke, Berlin on Fri, 6 Nov 2026.
 
-What? is an experimental and r&b artist based in Ukraine, with 6 gigs on soundcheck across Berlin. Often billed alongside SOCIAL VLAD, Terikon and Alex Wilcox. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 30 Oct.
+What? is an experimental and r&b artist based in Ukraine, with 6 gigs on soundcheck across Berlin. Often billed alongside SOCIAL VLAD, Terikon and Alex Wilcox. Next up: Panke, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | TBA - WARSCHAUER PLATZ 18 10245 BERLIN | Berlin |
 | Fri, 6 Nov 2026 | Panke | Berlin |
 
 ## Recently played
@@ -23,4 +22,4 @@ What? is an experimental and r&b artist based in Ukraine, with 6 gigs on soundch
 
 SOCIAL VLAD, Terikon, Alex Wilcox
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/what-de/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/what-de/)*

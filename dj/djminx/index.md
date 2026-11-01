@@ -1,14 +1,13 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Spirit, Pittsburgh on Sat, 31 Oct 2026.
+DJ Minx is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at smartbar, Chicago on Sun, 1 Nov 2026.
 
-DJ Minx is a house and techno artist based in United States of America, with 203 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 37 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: Spirit, Pittsburgh on Sat 31 Oct.
+DJ Minx is a house and techno artist based in United States of America, with 203 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 37 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: smartbar, Chicago on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Spirit | Pittsburgh |
 | Sun, 1 Nov 2026 | smartbar | Chicago |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
@@ -16,6 +15,7 @@ DJ Minx is a house and techno artist based in United States of America, with 203
 
 ## Recently played
 
+- Spirit, Pittsburgh · Sat, 31 Oct 2026
 - Lincoln Factory, Detroit · Sat, 10 Oct 2026
 - House of Yes, New York City · Sat, 3 Oct 2026
 - House of Yes, New York City · Sat, 3 Oct 2026
@@ -23,10 +23,9 @@ DJ Minx is a house and techno artist based in United States of America, with 203
 - Los Globos, Los Angeles · Fri, 25 Sept 2026
 - Südpol, Hamburg · Sat, 12 Sept 2026
 - Südpol, Hamburg · Fri, 11 Sept 2026
-- Under the K Bridge, New York City · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

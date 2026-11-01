@@ -1,14 +1,13 @@
 # Le Sucre
 
-Le Sucre is a music venue in Lyon with 17 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "A week-end with Jen Cardini" on Sat, 31 Oct 2026.
+Le Sucre is a music venue in Lyon with 16 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "A week-end with Jen Cardini" on Sun, 1 Nov 2026.
 
-Le Sucre is a music venue in Lyon listed on soundcheck. 17 upcoming gigs, with line-ups including Anetha, aya, Bad Boombox and Blood of Aza and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
+Le Sucre is a music venue in Lyon listed on soundcheck. 16 upcoming gigs, with line-ups including Anetha, aya, Bad Boombox and Blood of Aza and 2 more. See dates, start times and who's playing. 50 quai Rambaud, 69002 Lyon, France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | A week-end with Jen Cardini | Ciel, Maggy Smiss, TTristana |
 | Sun, 1 Nov 2026 | A week-end with Jen Cardini | Jen Cardini |
 | Fri, 6 Nov 2026 | ALGORAVE ZONE XP 2026 | Eye Measure |
 | Fri, 6 Nov 2026 | Vitess to Grand V - All Live Long | Vitess |
@@ -18,9 +17,10 @@ Le Sucre is a music venue in Lyon listed on soundcheck. 17 upcoming gigs, with l
 | Sun, 15 Nov 2026 | S.society: Mac Declos - All Day Long | Mac Declos |
 | Fri, 20 Nov 2026 | Unsupported File Format | Blood of Aza, aya |
 | Sat, 21 Nov 2026 | Ravoluson | Marco Bailey, Umwelt |
+| Sun, 22 Nov 2026 | S.society | Bad Boombox, Dr G |
 
 ## Address
 
 50 quai Rambaud, 69002 Lyon, France, Lyon
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/le-sucre/)*

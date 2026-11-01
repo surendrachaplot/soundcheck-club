@@ -1,6 +1,6 @@
 # Kilbourne
 
-Kilbourne is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
+Kilbourne is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
 
 Kilbourne is a hardcore and techno artist based in United States of America, with 76 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Relaxer, Buzzi and Manu Le Malin. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 31 Oct.
 
@@ -14,6 +14,7 @@ Kilbourne is a hardcore and techno artist based in United States of America, wit
 
 ## Recently played
 
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 31 Oct 2026
 - Bossa Nova Civic Club, New York City · Tue, 20 Oct 2026
 - TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
 - Quartier Des Spectacles, Montreal · Tue, 25 Aug 2026
@@ -21,10 +22,9 @@ Kilbourne is a hardcore and techno artist based in United States of America, wit
 - TBA, Chicago · Sat, 25 Jul 2026
 - Nowadays, New York City · Sat, 18 Jul 2026
 - Le Sucre, Lyon · Sat, 27 Jun 2026
-- Mia Mao, Paris · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Relaxer, Buzzi, Manu Le Malin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*

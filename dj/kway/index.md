@@ -1,8 +1,8 @@
 # Kway
 
-Kway is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Unmute, Hanoi on Fri, 20 Nov 2026.
+Kway is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Unmute, Hanoi on Fri, 20 Nov 2026.
 
-Kway is a techno and house artist, with 40 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Yang (VN), dMb (VN) and Viet Anh. Next up: Unmute, Hanoi on Fri 20 Nov.
+Kway is a techno and house artist based in Vietnam, with 40 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Yang (VN), dMb (VN) and Viet Anh. Next up: Unmute, Hanoi on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kway is a techno and house artist, with 40 gigs on soundcheck across Hanoi and H
 
 Yang (VN), dMb (VN), Viet Anh
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kway/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kway/)*

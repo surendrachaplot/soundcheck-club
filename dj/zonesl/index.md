@@ -1,18 +1,18 @@
 # zoneSL
 
-zoneSL is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Two Tribes CAMPFIRE, London on Sat, 31 Oct 2026.
+zoneSL is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tola, London on Fri, 6 Nov 2026.
 
-zoneSL is a jungle and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Bryn Brax, Whatsname and Agility. Next up: Two Tribes CAMPFIRE, London on Sat 31 Oct.
+zoneSL is a jungle and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Bryn Brax, Whatsname and Agility. Next up: Tola, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Two Tribes CAMPFIRE | London |
 | Fri, 6 Nov 2026 | Tola | London |
 
 ## Recently played
 
+- Two Tribes CAMPFIRE, London · Sat, 31 Oct 2026
 - Dalston Den, London · Fri, 2 Oct 2026
 - Dalston Den, London · Fri, 28 Aug 2026
 - Dalston Den, London · Fri, 7 Aug 2026
@@ -20,10 +20,9 @@ zoneSL is a jungle and drum & bass artist based in United Kingdom, with 15 gigs 
 - Dalston Den, London · Fri, 12 Jun 2026
 - Dalston Den, London · Fri, 5 Jun 2026
 - Dalston Den, London · Sat, 16 May 2026
-- Dalston Den, London · Fri, 1 May 2026
 
 ## Shares bills with
 
 Bryn Brax, Whatsname, Agility
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zonesl/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zonesl/)*

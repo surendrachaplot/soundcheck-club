@@ -1,6 +1,6 @@
 # Force Placement
 
-Force Placement is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Coyote Studios, Los Angeles on Sat, 31 Oct 2026.
+Force Placement is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Coyote Studios, Los Angeles on Sat, 31 Oct 2026.
 
 Force Placement is a techno and house artist based in United States of America, with 63 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 5 more. Often billed alongside Teira, Maheras and Max Ellington. Next up: Coyote Studios, Los Angeles on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ Force Placement is a techno and house artist based in United States of America, 
 
 ## Recently played
 
+- Coyote Studios, Los Angeles · Sat, 31 Oct 2026
 - TBA, Los Angeles · Fri, 25 Sept 2026
 - TBA - Downtown Los Angeles, Los Angeles · Sat, 1 Aug 2026
 - TBA - Bar 1924- 2820 Lytton St, San Diego CA 92110, San Diego · Sat, 11 Jul 2026
@@ -20,10 +21,9 @@ Force Placement is a techno and house artist based in United States of America, 
 - TBA, Los Angeles · Fri, 8 May 2026
 - TBA - The Hood, Los Angeles · Sat, 28 Feb 2026
 - The Compound, Los Angeles · Fri, 27 Feb 2026
-- TBA, Los Angeles · Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Teira, Maheras, Max Ellington
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forceplacement/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forceplacement/)*

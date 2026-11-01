@@ -1,14 +1,13 @@
 # dubble
 
-dubble is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "afternoon interlude: Nico Borgio" on Sat, 31 Oct 2026.
+dubble is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Afternoon Interlude: Sinnay4" on Sat, 7 Nov 2026.
 
-dubble is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Cathy Grogan, Fenna Fiction, Karmel Sabri and Mo Wrights and 2 more. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
+dubble is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Cathy Grogan, Fenna Fiction, Karmel Sabri and Mo Wrights and 2 more. See dates, start times and who's playing. Bilderdijkstraat 46H, Amsterdam, 1052NB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | afternoon interlude: Nico Borgio | Nico Borgio |
 | Sat, 7 Nov 2026 | Afternoon Interlude: Sinnay4 |  |
 | Sun, 8 Nov 2026 | New Residency: The Space Between | Nikko Axzul |
 | Fri, 13 Nov 2026 | friday special: jazz jam |  |
@@ -22,4 +21,4 @@ dubble is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with
 
 Bilderdijkstraat 46H, Amsterdam, 1052NB, Amsterdam
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/dubble/)*

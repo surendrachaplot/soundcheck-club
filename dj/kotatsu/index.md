@@ -1,17 +1,18 @@
 # Kotatsu
 
-Kotatsu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at HVEN, Tokyo on Sat, 31 Oct 2026.
+Kotatsu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at MEIMEI, Tokyo on Fri, 6 Nov 2026.
 
-Kotatsu is a techno and house artist based in France, with 50 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SIGNAL (JP), WAKA XINXI and Alex Ormond. Next up: HVEN, Tokyo on Sat 31 Oct.
+Kotatsu is a techno and house artist based in France, with 51 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SIGNAL (JP), WAKA XINXI and Alex Ormond. Next up: MEIMEI, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | HVEN | Tokyo |
+| Fri, 6 Nov 2026 | MEIMEI | Tokyo |
 
 ## Recently played
 
+- HVEN, Tokyo · Sat, 31 Oct 2026
 - Fai Aoyama, Tokyo · Fri, 30 Oct 2026
 - DeTour, Tokyo · Wed, 23 Sept 2026
 - R Lounge, Tokyo · Fri, 11 Sept 2026
@@ -19,10 +20,9 @@ Kotatsu is a techno and house artist based in France, with 50 gigs on soundcheck
 - R Lounge, Tokyo · Sat, 1 Aug 2026
 - Aoyama Hachi, Tokyo · Sun, 26 Jul 2026
 - Aoyama Hachi, Tokyo · Sun, 21 Jun 2026
-- MEIMEI, Tokyo · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 SIGNAL (JP), WAKA XINXI, Alex Ormond
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kotatsu/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kotatsu/)*

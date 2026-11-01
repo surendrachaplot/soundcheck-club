@@ -1,19 +1,19 @@
 # Monty
 
-Monty is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Black Box, Denver on Sat, 31 Oct 2026.
+Monty is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at OT301, Amsterdam on Sat, 14 Nov 2026.
 
-Monty is a drum & bass and bass artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Visages, Wiebe Roose and SP:MC. Next up: The Black Box, Denver on Sat 31 Oct.
+Monty is a drum & bass and bass artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 26 more. Often billed alongside Visages, Wiebe Roose and SP:MC. Next up: OT301, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | The Black Box | Denver |
 | Sat, 14 Nov 2026 | OT301 | Amsterdam |
 | Sat, 26 Dec 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
 
+- The Black Box, Denver · Sat, 31 Oct 2026
 - Insomnia, Berlin · Fri, 23 Oct 2026
 - Favela Chic, New Orleans · Fri, 16 Oct 2026
 - Insomnia, Berlin · Fri, 9 Oct 2026
@@ -21,10 +21,9 @@ Monty is a drum & bass and bass artist based in Germany, with 89 gigs on soundch
 - Outernet Live, London · Fri, 4 Sept 2026
 - SAGE, Berlin · Sun, 30 Aug 2026
 - Le Sucre, Lyon · Fri, 21 Aug 2026
-- EL SÓTANO, Madrid · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Visages, Wiebe Roose, SP:MC
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monty/)*

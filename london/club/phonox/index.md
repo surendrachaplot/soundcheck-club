@@ -1,15 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 40 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "NEVERMIND HALLOWEEN: p-rallel, PROZAK, Melé, CASNOVA, Djammin AMY OS" on Fri, 30 Oct 2026.
+Phonox is a music venue in London with 39 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Insomnia: Dusty Dan, karishma, REYKA" on Thu, 5 Nov 2026.
 
-Phonox is a music venue in London listed on soundcheck. 40 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Angel D'lite, Billy Daniel Bunter and Cameo Blush and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | NEVERMIND HALLOWEEN: p-rallel, PROZAK, Melé, CASNOVA, Djammin AMY OS | Amy Os, Casnova, Djammin, Melé, Prozak (IRL), p-rallel |
-| Sat, 31 Oct 2026 | FMS 6 Deck - London | FUZE |
 | Thu, 5 Nov 2026 | Insomnia: Dusty Dan, karishma, REYKA | Dusty Dan, REYKA, karishma |
 | Fri, 6 Nov 2026 | Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party) | Cameo Blush, Ross From Friends |
 | Sat, 7 Nov 2026 | Dusky presents Take A Trip: Dusky (All Day Long) | Dusky |
@@ -18,9 +16,11 @@ Phonox is a music venue in London listed on soundcheck. 40 upcoming gigs, with l
 | Fri, 13 Nov 2026 | Ross From Friends & ones: 4 Fridays at Phonox (13th Nov) | Ross From Friends, ones (UK) |
 | Sat, 14 Nov 2026 | Dusky: Originals (2010 - 2025 Set) - [2nd Date] | Dusky |
 | Sat, 14 Nov 2026 | [EELF RECORDS] Shaolin Cowboy, Paluma Sound, Surfbored + more | Paluma Sound, Shaolin Cowboy, surfbored. |
+| Thu, 19 Nov 2026 | Insomnia: Kessler, Ned Spencer & YAZ | Kessler, Ned Spencer |
+| Fri, 20 Nov 2026 | Ross From Friends & LOVEFOXY: 4 Fridays at Phonox (20th Nov) | LOVEFOXY, Ross From Friends |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

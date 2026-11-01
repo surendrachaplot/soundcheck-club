@@ -1,14 +1,13 @@
 # Netsky
 
-Netsky is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+Netsky is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Hagley Park, Christchurch on Mon, 28 Dec 2026.
 
-Netsky is a drum & bass and bass artist based in Belgium, with 55 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 32 more. Often billed alongside A Little Sound, Delta Heavy and Hedex. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+Netsky is a drum & bass and bass artist based in Belgium, with 55 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 32 more. Often billed alongside A Little Sound, Delta Heavy and Hedex. Next up: TBA - Hagley Park, Christchurch on Mon 28 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 
 ## Recently played
@@ -26,4 +25,4 @@ Netsky is a drum & bass and bass artist based in Belgium, with 55 gigs on soundc
 
 A Little Sound, Delta Heavy, Hedex
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/netsky/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/netsky/)*

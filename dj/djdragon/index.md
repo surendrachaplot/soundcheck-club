@@ -1,6 +1,6 @@
 # DJ Dragon
 
-DJ Dragon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+DJ Dragon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
 DJ Dragon is a techno and house artist based in Thailand, with 17 gigs on soundcheck across Bangkok. Often billed alongside DJ Krit Morton, Gishiyama and GodDam. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ DJ Dragon is a techno and house artist based in Thailand, with 17 gigs on soundc
 
 ## Recently played
 
+- Cloud 11 Hall, Bangkok · Sat, 31 Oct 2026
 - Speakerbox, Bangkok · Sun, 13 Sept 2026
 - 12 x 12, Bangkok · Sat, 11 Jul 2026
 - TBA - 1981 soul & sold building (Ramkhamhaeng 15), Bangkok, Bangkok · Sat, 4 Jul 2026
@@ -20,10 +21,9 @@ DJ Dragon is a techno and house artist based in Thailand, with 17 gigs on soundc
 - Siwilai Radical Club, Bangkok · Sat, 18 Apr 2026
 - TBA - OtaQ Lab, Bangkok · Fri, 6 Mar 2026
 - TBA - Bonanza Khaoyai, Bangkok · Fri, 30 Jan 2026
-- Elsewhere, Bangkok · Fri, 9 Jan 2026
 
 ## Shares bills with
 
 DJ Krit Morton, Gishiyama, GodDam
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdragon/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdragon/)*

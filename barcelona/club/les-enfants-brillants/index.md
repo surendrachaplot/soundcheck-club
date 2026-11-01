@@ -1,14 +1,13 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 26 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Les Enfants x Reload pres. Francesco Farfa HALLOWEEN" on Sat, 31 Oct 2026.
+Les Enfants Brillants is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Noizer x Selectors pres. Mystral + Fiama Molina" on Thu, 5 Nov 2026.
 
-Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 26 upcoming gigs, with line-ups including Alex Pott, Ana Alves, Anah and Angel D'lite and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
+Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 25 upcoming gigs, with line-ups including Alex Pott, Ana Alves, Anah and Angel D'lite and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Les Enfants x Reload pres. Francesco Farfa HALLOWEEN | Anzar, Francesco Farfa, Holly Molly |
 | Thu, 5 Nov 2026 | Noizer x Selectors pres. Mystral + Fiama Molina | Fiama Molina, Mystral |
 | Fri, 6 Nov 2026 | Pegatina pres. Young Sun | Javier Carballo, Young Sun |
 | Sat, 7 Nov 2026 | Spark On The Dust pres. Nathalie Seres | Alex Pott, Ion Pananides, Nathalie Seres |
@@ -18,9 +17,10 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 26 upc
 | Sat, 14 Nov 2026 | INPUT pres. Tony Verdi 60/40 TOUR |  |
 | Thu, 19 Nov 2026 | Noizer pres. Pfirter + Ronze | Pfirter, Ronze |
 | Fri, 20 Nov 2026 | Les Enfants x Roots pres. Dan Ghenacia All Night Long | Dan Ghenacia |
+| Sat, 21 Nov 2026 | Outcast x Les Enfants pres. Paquita Gordon + Munir Nadir | Munir Nadir, Paquita Gordon |
 
 ## Address
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

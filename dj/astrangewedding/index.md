@@ -1,8 +1,8 @@
 # A Strange Wedding
 
-A Strange Wedding is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Zoo, Geneva on Sat, 7 Nov 2026.
+A Strange Wedding is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Zoo, Geneva on Sat, 7 Nov 2026.
 
-A Strange Wedding is a techno and bass artist based in France, with 79 gigs on soundcheck across Amsterdam, Athens, Berlin and Bordeaux and 26 more. Often billed alongside VEL (MA), Anetha and Spekki Webu. Next up: Zoo, Geneva on Sat 7 Nov.
+A Strange Wedding is a techno and bass artist based in France, with 80 gigs on soundcheck across Amsterdam, Athens, Berlin and Bordeaux and 26 more. Often billed alongside VEL (MA), Anetha and Spekki Webu. Next up: Zoo, Geneva on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ A Strange Wedding is a techno and bass artist based in France, with 79 gigs on s
 
 ## Recently played
 
+- Pawnshop, Taipei · Sat, 3 Oct 2026
 - Volnost, Seoul · Fri, 2 Oct 2026
 - TBA - Wee Jasper, Sydney · Fri, 25 Sept 2026
 - WOMB, Tokyo · Mon, 21 Sept 2026
@@ -23,10 +24,9 @@ A Strange Wedding is a techno and bass artist based in France, with 79 gigs on s
 - Giri, Berlin · Thu, 30 Jul 2026
 - TBA - Toledo, Madrid · Fri, 29 May 2026
 - La Machine Du Moulin Rouge, Paris · Sat, 25 Apr 2026
-- MaHalla, Berlin · Sat, 11 Apr 2026
 
 ## Shares bills with
 
 VEL (MA), Anetha, Spekki Webu
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/astrangewedding/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astrangewedding/)*

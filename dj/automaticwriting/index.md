@@ -1,6 +1,6 @@
 # Automatic Writing
 
-Automatic Writing is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Automatic Writing is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
 
 Automatic Writing is a house and techno artist based in France, with 72 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Darween, Guillermo Jamas and Jacan. Next up: H0L0, New York City on Sat 31 Oct.
 
@@ -16,6 +16,7 @@ Automatic Writing is a house and techno artist based in France, with 72 gigs on 
 
 ## Recently played
 
+- H0L0, New York City · Sat, 31 Oct 2026
 - Tenuta Tor De' Sordi, Rome · Sat, 10 Oct 2026
 - Auber Garden, Paris · Sat, 19 Sept 2026
 - Platforma Wolff, Bucharest · Sat, 5 Sept 2026
@@ -23,10 +24,9 @@ Automatic Writing is a house and techno artist based in France, with 72 gigs on 
 - TBA - ART CLUB Cabriès, Marseille · Sat, 1 Aug 2026
 - Le point fort d'Aubervilliers, Paris · Sat, 11 Jul 2026
 - Fvtvr, Paris · Fri, 3 Jul 2026
-- TBA - BOIS DE BOULOGNE , Paris · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Darween, Guillermo Jamas, Jacan
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/automaticwriting/)*

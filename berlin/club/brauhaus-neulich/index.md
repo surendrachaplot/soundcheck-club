@@ -1,13 +1,14 @@
 # Brauhaus Neulich
 
-Brauhaus Neulich is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Fizzy Fizzy" on Fri, 13 Nov 2026.
+Brauhaus Neulich is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Neulich Mixtapes with ROBERT KAMP" on Thu, 5 Nov 2026.
 
-Brauhaus Neulich is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including KLUBMATI and Tibotonic. See dates, start times and who's playing.
+Brauhaus Neulich is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including KLUBMATI, ROBERT KAMP and Tibotonic. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Neulich Mixtapes with ROBERT KAMP | ROBERT KAMP |
 | Fri, 13 Nov 2026 | Fizzy Fizzy | KLUBMATI, Tibotonic |
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/brauhaus-neulich/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/brauhaus-neulich/)*

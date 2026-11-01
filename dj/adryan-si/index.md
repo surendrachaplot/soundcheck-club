@@ -1,6 +1,6 @@
 # Adryan
 
-Adryan is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Klub KGB Maribor, Slovenia on Fri, 13 Nov 2026.
+Adryan is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Klub KGB Maribor, Slovenia on Fri, 13 Nov 2026.
 
 Adryan is a club and bass artist, with 6 gigs on soundcheck across Ljubljana, Milan and Slovenia. Often billed alongside DVS, Blažen DJ and Doublewave. Next up: Klub KGB Maribor, Slovenia on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Adryan is a club and bass artist, with 6 gigs on soundcheck across Ljubljana, Mi
 
 DVS, Blažen DJ, Doublewave
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adryan-si/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adryan-si/)*

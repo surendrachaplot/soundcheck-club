@@ -1,6 +1,6 @@
 # Usherenko
 
-Usherenko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Outdoor Location - DTLA , Los Angeles on Sun, 1 Nov 2026.
+Usherenko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Outdoor Location - DTLA , Los Angeles on Sun, 1 Nov 2026.
 
 Usherenko is a house and techno artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 19 more. Often billed alongside Ika (GE), Gio Shengelia and Julian Bomm. Next up: TBA - Outdoor Location - DTLA , Los Angeles on Sun 1 Nov.
 
@@ -26,4 +26,4 @@ Usherenko is a house and techno artist based in United States of America, with 8
 
 Ika (GE), Gio Shengelia, Julian Bomm
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/usherenko/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/usherenko/)*

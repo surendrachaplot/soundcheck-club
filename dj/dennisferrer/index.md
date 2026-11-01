@@ -1,14 +1,13 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Balboa Park, San Diego on Sat, 31 Oct 2026.
+Dennis Ferrer is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Dennis Ferrer is a house and tech house artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 35 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Balboa Park, San Diego on Sat 31 Oct.
+Dennis Ferrer is a house and tech house artist based in United States of America, with 147 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 35 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Balboa Park | San Diego |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
@@ -17,17 +16,17 @@ Dennis Ferrer is a house and tech house artist based in United States of America
 
 ## Recently played
 
+- Balboa Park, San Diego · Sat, 31 Oct 2026
 - Kingdom Nightclub, Austin · Fri, 30 Oct 2026
 - Pacha New York, New York City · Thu, 29 Oct 2026
-- Gallery 1986, Vilnius · Fri, 23 Oct 2026
+- gallery 1986, Vilnius · Fri, 23 Oct 2026
 - Club Space Miami, Miami · Sat, 10 Oct 2026
 - Chinois Ibiza, Ibiza · Thu, 8 Oct 2026
 - TBA - Various Venues, Malta · Thu, 1 Oct 2026
 - UNO MALTA, Malta · Thu, 1 Oct 2026
-- Gallery, London · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

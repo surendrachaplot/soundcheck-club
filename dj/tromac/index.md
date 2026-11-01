@@ -1,13 +1,14 @@
 # Tromac
 
-Tromac is a Club and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Paragon, New York City on Fri, 20 Nov 2026.
+Tromac is a Club and Ghetto Tech artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Halo Baltimore, Baltimore on Sat, 7 Nov 2026.
 
-Tromac is a club and ghetto tech artist based in United States of America, with 168 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 13 more. Often billed alongside DJ-SUN, flotussin and DJ Dolla. Next up: Paragon, New York City on Fri 20 Nov.
+Tromac is a club and ghetto tech artist based in United States of America, with 169 gigs on soundcheck across Atlanta, Austin, Baltimore and Boston and 13 more. Often billed alongside DJ-SUN, flotussin and DJ Dolla. Next up: Halo Baltimore, Baltimore on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Halo Baltimore | Baltimore |
 | Fri, 20 Nov 2026 | Paragon | New York City |
 | Sat, 21 Nov 2026 | Trans-Pecos | New York City |
 | Fri, 27 Nov 2026 | TRANSMISSION DC | Washington DC |
@@ -29,4 +30,4 @@ Tromac is a club and ghetto tech artist based in United States of America, with 
 
 DJ-SUN, flotussin, DJ Dolla
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tromac/)*

@@ -1,8 +1,8 @@
 # Techa
 
-Techa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
+Techa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Observatory, Ho-chi-minh-city on Thu, 29 Oct 2026.
 
-Techa is a house and techno artist based in Serbia, with 61 gigs on soundcheck across Bangkok, Belgrade, Chengdu and Hanoi and 6 more. Often billed alongside Dusan Nikolic, Zwi and CONG. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
+Techa is a house and techno artist based in Serbia, with 62 gigs on soundcheck across Bangkok, Belgrade, Chengdu and Hanoi and 6 more. Often billed alongside Dusan Nikolic, Zwi and CONG. Next up: The Observatory, Ho Chi Minh City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Techa is a house and techno artist based in Serbia, with 61 gigs on soundcheck a
 - The Observatory, Ho-chi-minh-city · Thu, 29 Oct 2026
 - Unmute, Hanoi · Fri, 16 Oct 2026
 - Le Maquis Club, Hanoi · Sat, 10 Oct 2026
+- Factory 47, Hanoi · Sat, 3 Oct 2026
 - Unmute, Hanoi · Fri, 18 Sept 2026
 - Le Maquis Club, Hanoi · Sat, 12 Sept 2026
 - Paper, Seoul · Sat, 29 Aug 2026
 - OMA, Hong Kong · Sat, 8 Aug 2026
-- Unmute, Hanoi · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Dusan Nikolic, Zwi, CONG
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/techa/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/techa/)*

@@ -1,8 +1,8 @@
 # AMBROXAN
 
-AMBROXAN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at elipamanoke, Leipzig on Fri, 27 Nov 2026.
+AMBROXAN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at elipamanoke, Leipzig on Fri, 27 Nov 2026.
 
-AMBROXAN is a techno and industrial artist, with 12 gigs on soundcheck across Leipzig and Vienna. Often billed alongside .koshka., amalidakirsch and Arman Shadow. Next up: elipamanoke, Leipzig on Fri 27 Nov.
+AMBROXAN is a techno and industrial artist based in Germany, with 12 gigs on soundcheck across Leipzig and Vienna. Often billed alongside .koshka., amalidakirsch and Arman Shadow. Next up: elipamanoke, Leipzig on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ AMBROXAN is a techno and industrial artist, with 12 gigs on soundcheck across Le
 
 .koshka., amalidakirsch, Arman Shadow
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ambroxan/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ambroxan/)*

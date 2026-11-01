@@ -1,6 +1,6 @@
 # Ultrabruma
 
-Ultrabruma is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Mad Chiller World, Tampa Bay on Fri, 6 Nov 2026.
+Ultrabruma is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Mad Chiller World, Tampa Bay on Fri, 6 Nov 2026.
 
 Ultrabruma is a bass and techno artist based in Colombia, with 10 gigs on soundcheck across Amsterdam, Bogotá, Boston and Geneva and 5 more. Often billed alongside Brenda., MARIA MANUELA and Aguirre. Next up: Mad Chiller World, Tampa Bay on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ultrabruma is a bass and techno artist based in Colombia, with 10 gigs on soundc
 
 Brenda., MARIA MANUELA, Aguirre
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabruma/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabruma/)*

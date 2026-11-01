@@ -1,14 +1,13 @@
 # The Ghost
 
-The Ghost is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at FOLD, London on Sat, 31 Oct 2026.
+The Ghost is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Digital, Newcastle on Fri, 13 Nov 2026.
 
-The Ghost is a house and tech house artist based in United Kingdom, with 188 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 44 more. Often billed alongside Gene On Earth, Dr Banana and Coast 2 Coast. Next up: FOLD, London on Sat 31 Oct.
+The Ghost is a house and tech house artist based in United Kingdom, with 188 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 44 more. Often billed alongside Gene On Earth, Dr Banana and Coast 2 Coast. Next up: Digital, Newcastle on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | FOLD | London |
 | Fri, 13 Nov 2026 | Digital | Newcastle |
 | Sat, 28 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Sat, 5 Dec 2026 | Distrikt | Leeds |
@@ -18,6 +17,7 @@ The Ghost is a house and tech house artist based in United Kingdom, with 188 gig
 
 ## Recently played
 
+- FOLD, London · Sat, 31 Oct 2026
 - Blast Galaxy, Amsterdam · Thu, 22 Oct 2026
 - Fuse, Brussels · Fri, 2 Oct 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
@@ -25,10 +25,9 @@ The Ghost is a house and tech house artist based in United Kingdom, with 188 gig
 - Village Underground Barcelona, Barcelona · Sat, 5 Sept 2026
 - Yamamori Tengu, Dublin · Fri, 4 Sept 2026
 - Shelter Amsterdam, Amsterdam · Sat, 22 Aug 2026
-- Tresor / Globus, Berlin · Thu, 13 Aug 2026
 
 ## Shares bills with
 
 Gene On Earth, Dr Banana, Coast 2 Coast
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theghost/)*

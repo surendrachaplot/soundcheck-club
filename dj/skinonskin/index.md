@@ -1,14 +1,13 @@
 # Skin On Skin
 
-Skin On Skin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Brussels Gate, Brussels on Sat, 31 Oct 2026.
+Skin On Skin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-Skin On Skin is a techno and house artist based in South Sudan, with 160 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 66 more. Often billed alongside Mall Grab, KETTAMA and X CLUB.. Next up: Brussels Gate, Brussels on Sat 31 Oct.
+Skin On Skin is a techno and house artist based in South Sudan, with 160 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 66 more. Often billed alongside Mall Grab, KETTAMA and X CLUB.. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Brussels Gate | Brussels |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 7 Nov 2026 | Sala Cocó | Madrid |
 | Fri, 13 Nov 2026 | Mirage | Hanoi |
@@ -21,6 +20,7 @@ Skin On Skin is a techno and house artist based in South Sudan, with 160 gigs on
 
 ## Recently played
 
+- Brussels Gate, Brussels · Sat, 31 Oct 2026
 - Ciało, Wroclaw · Fri, 30 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
@@ -28,10 +28,9 @@ Skin On Skin is a techno and house artist based in South Sudan, with 160 gigs on
 - NX Newcastle, Newcastle · Sat, 17 Oct 2026
 - The Telegraph Building, Belfast · Fri, 16 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
-- De Papierfabriek, Nijmegen · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Mall Grab, KETTAMA, X CLUB.
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinonskin/)*

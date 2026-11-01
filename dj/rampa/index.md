@@ -1,6 +1,6 @@
 # Rampa
 
-Rampa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Uhuru Gardens, Nairobi on Sat, 21 Nov 2026.
+Rampa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Uhuru Gardens, Nairobi on Sat, 21 Nov 2026.
 
 Rampa is a house and techno artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside &ME, Adam Port and Seth Troxler. Next up: Uhuru Gardens, Nairobi on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Rampa is a house and techno artist based in Germany, with 97 gigs on soundcheck 
 
 &ME, Adam Port, Seth Troxler
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rampa/)*

@@ -1,14 +1,13 @@
 # Interplanetary Criminal
 
-Interplanetary Criminal is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Interplanetary Criminal is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Interplanetary Criminal is a garage and house artist based in United Kingdom, with 278 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 82 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Interplanetary Criminal is a garage and house artist based in United Kingdom, with 278 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 82 more. Often billed alongside Main Phase, MALUGI and KI/KI. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 7 Nov 2026 | BERHTA | Washington DC |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
@@ -35,4 +34,4 @@ Interplanetary Criminal is a garage and house artist based in United Kingdom, wi
 
 Main Phase, MALUGI, KI/KI
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interplanetarycriminal/)*

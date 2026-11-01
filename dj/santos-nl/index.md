@@ -1,17 +1,13 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at La Cubierta de Leganés, Madrid on Fri, 30 Oct 2026.
+SANTØS is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tempo, Glasgow on Fri, 6 Nov 2026.
 
-SANTØS is a techno and industrial artist based in Netherlands, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: La Cubierta de Leganés, Madrid on Fri 30 Oct.
+SANTØS is a techno and industrial artist based in Netherlands, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: Tempo, Glasgow on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
-| Sat, 31 Oct 2026 | TBA - Autodromo di Imola | Central |
-| Sat, 31 Oct 2026 | Autodromo Enzo e Dino Ferrari | Bologna |
 | Fri, 6 Nov 2026 | Tempo | Glasgow |
 | Sat, 21 Nov 2026 | Panama | Amsterdam |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
@@ -22,17 +18,17 @@ SANTØS is a techno and industrial artist based in Netherlands, with 117 gigs on
 
 ## Recently played
 
+- Maassilo, Rotterdam · Sat, 31 Oct 2026
+- TBA - Autodromo di Imola, Central · Sat, 31 Oct 2026
+- Autodromo Enzo e Dino Ferrari, Bologna · Sat, 31 Oct 2026
 - La Cubierta de Leganés, Madrid · Fri, 30 Oct 2026
 - OCZKI, Warsaw · Sat, 24 Oct 2026
 - Afas Live, Amsterdam · Sat, 24 Oct 2026
 - TBA - Amsterdam Central Station , Amsterdam · Fri, 23 Oct 2026
-- Amsterdam Central Station, Amsterdam · Fri, 23 Oct 2026
 - Edelfettwerk, Hamburg · Fri, 16 Oct 2026
-- Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
-- BASIS, Utrecht · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 KARAH, KLOFAMA, 6EJOU
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

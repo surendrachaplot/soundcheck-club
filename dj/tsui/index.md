@@ -1,8 +1,8 @@
 # Tsui
 
-Tsui is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
+Tsui is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Pawnshop, Taipei on Sun, 1 Nov 2026.
 
-Tsui is a techno and house artist based in Taiwan, with 100 gigs on soundcheck across Hanoi, Ho Chi Minh City and Taipei. Often billed alongside L-CC, Kerena and Gemnital. Next up: Pawnshop, Taipei on Sun 1 Nov.
+Tsui is a techno and house artist based in Taiwan, with 101 gigs on soundcheck across Hanoi, Ho Chi Minh City and Taipei. Often billed alongside L-CC, Kerena and Gemnital. Next up: Pawnshop, Taipei on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Tsui is a techno and house artist based in Taiwan, with 100 gigs on soundcheck a
 
 ## Recently played
 
+- Pawnshop, Taipei · Sat, 3 Oct 2026
 - Pawnshop, Taipei · Fri, 25 Sept 2026
 - Pawnshop, Taipei · Fri, 4 Sept 2026
 - Pawnshop, Taipei · Sat, 29 Aug 2026
@@ -21,10 +22,9 @@ Tsui is a techno and house artist based in Taiwan, with 100 gigs on soundcheck a
 - Pawnshop, Taipei · Sat, 25 Jul 2026
 - Pawnshop, Taipei · Fri, 10 Jul 2026
 - Pawnshop, Taipei · Sat, 20 Jun 2026
-- Pawnshop, Taipei · Fri, 29 May 2026
 
 ## Shares bills with
 
 L-CC, Kerena, Gemnital
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tsui/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsui/)*

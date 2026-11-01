@@ -1,14 +1,13 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Airport Düsseldorf, Düsseldorf on Sat, 31 Oct 2026.
+Jonathan Kaspar is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Volt Club Milano, Milan on Sat, 14 Nov 2026.
 
-Jonathan Kaspar is a house and techno artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 35 more. Often billed alongside Mira, Kollektiv Turmstrasse and Mano Le Tough. Next up: Airport Düsseldorf, Düsseldorf on Sat 31 Oct.
+Jonathan Kaspar is a house and techno artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 35 more. Often billed alongside Mira, Kollektiv Turmstrasse and Mano Le Tough. Next up: Volt Club Milano, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Airport Düsseldorf | Düsseldorf |
 | Sat, 14 Nov 2026 | Volt Club Milano | Milan |
 | Sat, 21 Nov 2026 | Hidden | Manchester |
 | Fri, 27 Nov 2026 | fi | Cologne |
@@ -18,6 +17,7 @@ Jonathan Kaspar is a house and techno artist based in Germany, with 214 gigs on 
 
 ## Recently played
 
+- Airport Düsseldorf, Düsseldorf · Sat, 31 Oct 2026
 - 50:Hertz Club Train, Amsterdam · Sun, 25 Oct 2026
 - Generator, Amsterdam · Fri, 23 Oct 2026
 - fi, Cologne · Sat, 17 Oct 2026
@@ -25,10 +25,9 @@ Jonathan Kaspar is a house and techno artist based in Germany, with 214 gigs on 
 - La Terrrazza, Barcelona · Sun, 11 Oct 2026
 - fabric, London · Sat, 26 Sept 2026
 - Odonien, Cologne · Sat, 26 Sept 2026
-- Veronica Schip, Amsterdam · Thu, 24 Sept 2026
 
 ## Shares bills with
 
 Mira, Kollektiv Turmstrasse, Mano Le Tough
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

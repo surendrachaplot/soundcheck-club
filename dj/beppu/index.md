@@ -1,6 +1,6 @@
 # BEPPU
 
-BEPPU is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at DeTour, Tokyo on Sun, 1 Nov 2026.
+BEPPU is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at DeTour, Tokyo on Sun, 1 Nov 2026.
 
 BEPPU is a techno and trance artist based in Japan, with 154 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Takami, Remo-con and YOSHIMASA. Next up: DeTour, Tokyo on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ BEPPU is a techno and trance artist based in Japan, with 154 gigs on soundcheck 
 
 Takami, Remo-con, YOSHIMASA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/beppu/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beppu/)*

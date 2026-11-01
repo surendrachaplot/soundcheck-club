@@ -1,14 +1,13 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Nikolina is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
 
-Nikolina is a techno and industrial artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside Restricted, Azyr and Onlynumbers. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Nikolina is a techno and industrial artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside Restricted, Azyr and Onlynumbers. Next up: Edelfettwerk, Hamburg on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
 | Sat, 14 Nov 2026 | Edelfettwerk | Hamburg |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Mon, 30 Nov 2026 | Music Station | Lisbon |
@@ -34,4 +33,4 @@ Nikolina is a techno and industrial artist based in United Kingdom, with 131 gig
 
 Restricted, Azyr, Onlynumbers
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

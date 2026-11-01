@@ -1,6 +1,6 @@
 # i-sha
 
-i-sha is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Island, Bristol on Fri, 6 Nov 2026.
+i-sha is a Experimental and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Island, Bristol on Fri, 6 Nov 2026.
 
 i-sha is an experimental and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside k means, Batu and Anina. Next up: The Island, Bristol on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ i-sha is an experimental and techno artist based in United Kingdom, with 85 gigs
 
 k means, Batu, Anina
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*

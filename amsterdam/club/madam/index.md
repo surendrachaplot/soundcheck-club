@@ -1,14 +1,13 @@
 # Madam
 
-Madam is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Madam by Night: Halloween Special" on Sat, 31 Oct 2026.
+Madam is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Madam by Night invites: VELVET" on Fri, 6 Nov 2026.
 
-Madam is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including ADEZ, Alexia, Bustin' Loose and Cees and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
+Madam is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including ADEZ, Alexia, Bustin' Loose and Ciclo and 2 more. See dates, start times and who's playing. Overhoeksplein 3, 1031 KS Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Madam by Night: Halloween Special | Cees, Pascal Morais |
 | Fri, 6 Nov 2026 | Madam by Night invites: VELVET | Ciclo, Lidia Lo, Sanne Dammers |
 | Sat, 7 Nov 2026 | Madam by Night invites: Robin Nicolas | Robin Nicolas |
 | Fri, 13 Nov 2026 | Madam by Night invites: Silven invites | GIORG, Silven |
@@ -18,9 +17,10 @@ Madam is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with
 | Thu, 26 Nov 2026 | Madam by Night invites: MONARK x HAUSIN' COLLECTIVE | Okeam |
 | Fri, 27 Nov 2026 | Madam by Night invites: EDEN | Edann |
 | Sat, 28 Nov 2026 | Madam by Night invites: Guerrilla x Savana | ADEZ, Alexia, Julian Justin, Nitefield |
+| Thu, 31 Dec 2026 | Madam by Night: NYE 2026/2027 |  |
 
 ## Address
 
 Overhoeksplein 3, 1031 KS Amsterdam, Netherlands, Amsterdam
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/madam/)*

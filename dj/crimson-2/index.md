@@ -1,6 +1,6 @@
 # Crimson (2)
 
-Crimson (2) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Edmonton on Fri, 6 Nov 2026.
+Crimson (2) is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Edmonton on Fri, 6 Nov 2026.
 
 Crimson is a garage and bass artist, with 6 gigs on soundcheck across Calgary and Edmonton. Often billed alongside Malina, A-51 and ALOKIN. Next up: TBA, Edmonton on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Crimson is a garage and bass artist, with 6 gigs on soundcheck across Calgary an
 
 Malina, A-51, ALOKIN
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crimson-2/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crimson-2/)*

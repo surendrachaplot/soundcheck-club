@@ -1,14 +1,13 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at fabric, London on Sat, 31 Oct 2026.
+FJAAK is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Fuchs2, Prague on Fri, 6 Nov 2026.
 
-FJAAK is a techno and house artist based in Germany, with 300 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 90 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: fabric, London on Sat 31 Oct.
+FJAAK is a techno and house artist based in Germany, with 300 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 90 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Fuchs2, Prague on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | fabric | London |
 | Fri, 6 Nov 2026 | Fuchs2 | Prague |
 | Sat, 7 Nov 2026 | Jasna 1 | Warsaw |
 | Thu, 12 Nov 2026 | TRANSMISSION DC | Washington DC |
@@ -20,9 +19,11 @@ FJAAK is a techno and house artist based in Germany, with 300 gigs on soundcheck
 | Sat, 28 Nov 2026 | Warehouse ZRH | Zurich |
 | Fri, 4 Dec 2026 | Razzmatazz | Barcelona |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
+| Fri, 11 Dec 2026 | WDM | Hannover |
 
 ## Recently played
 
+- fabric, London · Sat, 31 Oct 2026
 - Mia Mao, Paris · Fri, 30 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 - TBA, Atlanta · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ FJAAK is a techno and house artist based in Germany, with 300 gigs on soundcheck
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - Das Zimmer, Mannheim · Fri, 16 Oct 2026
 - Fabrik, Madrid · Sun, 11 Oct 2026
-- Selva Club, East · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Elli Acula, Anna Z., Ben Klock
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

@@ -1,14 +1,13 @@
 # Kenny Dope
 
-Kenny Dope is a House and Deep House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Culture, Washington DC on Sat, 31 Oct 2026.
+Kenny Dope is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 7 Nov 2026.
 
-Kenny Dope is a house and deep house artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Terry Hunter, Louie Vega and Young Pulse. Next up: Culture, Washington DC on Sat 31 Oct.
+Kenny Dope is a house and deep house artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 21 more. Often billed alongside Terry Hunter, Louie Vega and Young Pulse. Next up: Het Sieraad, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Culture | Washington DC |
 | Sat, 7 Nov 2026 | Het Sieraad | Amsterdam |
 | Sun, 8 Nov 2026 | O2 Academy Bristol | Bristol |
 | Fri, 13 Nov 2026 | Knockdown Center | New York City |
@@ -20,6 +19,7 @@ Kenny Dope is a house and deep house artist based in United States of America, w
 
 ## Recently played
 
+- Culture, Washington DC · Sat, 31 Oct 2026
 - Borisov Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Borisov Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - House of Yes, New York City · Fri, 24 Jul 2026
@@ -27,10 +27,9 @@ Kenny Dope is a house and deep house artist based in United States of America, w
 - Praia Irmão, Lisbon · Thu, 18 Jun 2026
 - TV Lounge, Detroit · Sun, 24 May 2026
 - TV Lounge, Detroit · Sat, 23 May 2026
-- Quarters, Brighton · Fri, 22 May 2026
 
 ## Shares bills with
 
 Terry Hunter, Louie Vega, Young Pulse
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydope/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennydope/)*

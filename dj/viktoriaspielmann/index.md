@@ -1,8 +1,8 @@
 # Viktoria Spielmann
 
-Viktoria Spielmann is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Liquid Club, Malta on Fri, 13 Nov 2026.
+Viktoria Spielmann is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Liquid Club, Malta on Fri, 13 Nov 2026.
 
-Viktoria Spielmann is a techno and electronica artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Hannover and Kassel and 5 more. Often billed alongside future.666, AEREA and DJ Cringey. Next up: Liquid Club, Malta on Fri 13 Nov.
+Viktoria Spielmann is a techno and electronica artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Hannover and Kassel and 5 more. Often billed alongside future.666, AEREA and DJ Cringey. Next up: Liquid Club, Malta on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Viktoria Spielmann is a techno and electronica artist based in Germany, with 23 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Liquid Club | Malta |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
+| Mon, 29 Mar 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Viktoria Spielmann is a techno and electronica artist based in Germany, with 23 
 
 future.666, AEREA, DJ Cringey
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viktoriaspielmann/)*

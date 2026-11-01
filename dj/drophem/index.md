@@ -1,6 +1,6 @@
 # Drophem
 
-Drophem is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
+Drophem is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
 
 Drophem is a house and minimal artist based in Mexico, with 19 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Alatriste, Ani Phoebe and Blanco. Next up: Drama Radio Bar, Mexico City on Wed 28 Oct.
 
@@ -25,4 +25,4 @@ Drophem is a house and minimal artist based in Mexico, with 19 gigs on soundchec
 
 Alatriste, Ani Phoebe, Blanco
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drophem/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drophem/)*

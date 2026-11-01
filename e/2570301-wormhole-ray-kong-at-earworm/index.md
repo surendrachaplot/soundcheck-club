@@ -1,6 +1,6 @@
 # Wormhole: Ray Kong at Earworm
 
-Wormhole: Ray Kong at Earworm on Fri 13 Nov, Singapore. Jazz and Broken Beat. See the line-up on soundcheck.
+Wormhole: Ray Kong at Earworm on Fri 13 Nov, Singapore. Broken Beat and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MEDINA
 
-MEDINA is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
+MEDINA is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Eden NYC, New York City on Sun, 1 Nov 2026.
 
 MEDINA is a techno and minimal techno artist based in United States of America, with 23 gigs on soundcheck across Barcelona, New York City and Tallinn. Often billed alongside Adrian Hex, KRAVE and Katja Adrikova. Next up: Eden NYC, New York City on Sun 1 Nov.
 
@@ -27,4 +27,4 @@ MEDINA is a techno and minimal techno artist based in United States of America, 
 
 Adrian Hex, KRAVE, Katja Adrikova
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/medina/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/medina/)*

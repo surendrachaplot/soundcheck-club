@@ -1,13 +1,14 @@
 # Jeska
 
-Jeska is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Studio V Dance, Toronto on Sat, 21 Nov 2026.
+Jeska is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Twotwotwo, Ontario on Fri, 20 Nov 2026.
 
-Jeska is a drum & bass and bass artist, with 22 gigs on soundcheck across Montreal, Perth and Toronto. Often billed alongside STLKR, FlowHer and Crimewave. Next up: Studio V Dance, Toronto on Sat 21 Nov.
+Jeska is a drum & bass and bass artist, with 23 gigs on soundcheck across Montreal, Ontario, Perth and Toronto. Often billed alongside STLKR, FlowHer and Crimewave. Next up: Twotwotwo, Ontario on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Twotwotwo | Ontario |
 | Sat, 21 Nov 2026 | Studio V Dance | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jeska is a drum & bass and bass artist, with 22 gigs on soundcheck across Montre
 
 STLKR, FlowHer, Crimewave
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeska/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeska/)*

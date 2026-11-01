@@ -1,18 +1,17 @@
 # YSY
 
-YSY is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "SWIRL with Clouzer, LOKIDÍ, and Tempestfeather" on Fri, 30 Oct 2026.
+YSY is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "2 Years of YSY Bar" on Sat, 7 Nov 2026.
 
-YSY is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Clouzer, LOKIDÍ, Revivis and Running Hot and 2 more. See dates, start times and who's playing. Frankfurter Allee 23.
+YSY is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Revivis, Running Hot and Sara Miller. See dates, start times and who's playing. Frankfurter Allee 23.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | SWIRL with Clouzer, LOKIDÍ, and Tempestfeather | Clouzer, LOKIDÍ, Tempestfeather |
 | Sat, 7 Nov 2026 | 2 Years of YSY Bar | Revivis, Running Hot, Sara Miller |
 
 ## Address
 
 Frankfurter Allee 23, Berlin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ysy/)*

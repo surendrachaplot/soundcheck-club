@@ -1,14 +1,13 @@
 # Lou Flores
 
-Lou Flores is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Paraiso Estereo, Miami on Fri, 30 Oct 2026.
+Lou Flores is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lion's Den, Miami on Thu, 3 Dec 2026.
 
-Lou Flores is a house and tech house artist based in Venezuela, with 19 gigs on soundcheck across Miami. Often billed alongside demenz, Israel Sunshine and Atomyard. Next up: Paraiso Estereo, Miami on Fri 30 Oct.
+Lou Flores is a house and tech house artist based in Venezuela, with 19 gigs on soundcheck across Miami. Often billed alongside demenz, Israel Sunshine and Atomyard. Next up: Lion's Den, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Paraiso Estereo | Miami |
 | Thu, 3 Dec 2026 | Lion's Den | Miami |
 
 ## Recently played
@@ -26,4 +25,4 @@ Lou Flores is a house and tech house artist based in Venezuela, with 19 gigs on 
 
 demenz, Israel Sunshine, Atomyard
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/louflores/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louflores/)*

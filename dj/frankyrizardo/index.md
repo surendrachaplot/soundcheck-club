@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Franky Rizardo is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Franky Rizardo is a house and tech house artist based in Netherlands, with 268 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 57 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -9,8 +9,6 @@ Franky Rizardo is a house and tech house artist based in Netherlands, with 268 g
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Fri, 30 Oct 2026 | Gold Bar Hangar | California |
-| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 13 Nov 2026 | Pandora Sevilla | South |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -20,6 +18,7 @@ Franky Rizardo is a house and tech house artist based in Netherlands, with 268 g
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | The Concourse Project | Austin |
 | Mon, 28 Dec 2026 | Blackstone Street Warehouse | Liverpool |
+| Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
 
@@ -36,4 +35,4 @@ Franky Rizardo is a house and tech house artist based in Netherlands, with 268 g
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

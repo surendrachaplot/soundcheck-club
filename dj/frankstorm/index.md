@@ -1,19 +1,19 @@
 # Frank Storm
 
-Frank Storm is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Autodromo Enzo e Dino Ferrari, Bologna on Sat, 31 Oct 2026.
+Frank Storm is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cinecittà World, Rome on Sat, 21 Nov 2026.
 
-Frank Storm is a tech house and techno artist based in Italy, with 50 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 14 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Autodromo Enzo e Dino Ferrari, Bologna on Sat 31 Oct.
+Frank Storm is a tech house and techno artist based in Italy, with 50 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 14 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Cinecittà World, Rome on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Autodromo Enzo e Dino Ferrari | Bologna |
 | Sat, 21 Nov 2026 | Cinecittà World | Rome |
 | Sat, 2 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
 
 ## Recently played
 
+- Autodromo Enzo e Dino Ferrari, Bologna · Sat, 31 Oct 2026
 - Floyd, Miami · Sun, 25 Oct 2026
 - Tenax, Florence · Sat, 24 Oct 2026
 - Pacha Ibiza, Ibiza · Thu, 8 Oct 2026
@@ -21,10 +21,9 @@ Frank Storm is a tech house and techno artist based in Italy, with 50 gigs on so
 - Pacha Ibiza, Ibiza · Fri, 21 Aug 2026
 - Ministry Of Sound, London · Sat, 1 Aug 2026
 - Pacha Ibiza, Ibiza · Fri, 10 Jul 2026
-- Safari Disco Club, Barcelona · Sun, 21 Jun 2026
 
 ## Shares bills with
 
 Marco Carola, Ale De Tuglie, Wade
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*

@@ -1,15 +1,13 @@
 # Gaskin
 
-Gaskin is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at SWG3, Glasgow on Sat, 31 Oct 2026.
+Gaskin is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
-Gaskin is a house and tech house artist based in United Kingdom, with 192 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: SWG3, Glasgow on Sat 31 Oct.
+Gaskin is a house and tech house artist based in United Kingdom, with 192 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside Ellia Jaya, L.P. Rhythm and Ellam. Next up: The Cause, London on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | SWG3 | Glasgow |
-| Sat, 31 Oct 2026 | The Liquid Room | Edinburgh |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 27 Nov 2026 | Pumpehuset | Copenhagen |
@@ -18,17 +16,17 @@ Gaskin is a house and tech house artist based in United Kingdom, with 192 gigs o
 
 ## Recently played
 
+- SWG3, Glasgow · Sat, 31 Oct 2026
+- The Liquid Room, Edinburgh · Sat, 31 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
 - Theater Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - The Limelight, Belfast · Sat, 17 Oct 2026
 - Hï Ibiza, Ibiza · Fri, 9 Oct 2026
 - 528 Ibiza, Ibiza · Sun, 27 Sept 2026
 - [UNVRS], Ibiza · Wed, 23 Sept 2026
-- UNO MALTA, Malta · Fri, 18 Sept 2026
-- Tunnel, Milan · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Ellia Jaya, L.P. Rhythm, Ellam
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaskin/)*

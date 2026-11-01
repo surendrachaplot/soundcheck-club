@@ -1,18 +1,18 @@
 # Royal Flush
 
-Royal Flush is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Купе / Kupe, Sofia on Sat, 31 Oct 2026.
+Royal Flush is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Club Oblk, Sofia on Fri, 20 Nov 2026.
 
-Royal Flush is a techno and hardcore artist, with 24 gigs on soundcheck across Amsterdam, Bucharest, Prague and Sofia. Often billed alongside KR:KD K, ALICE VR and LPG. Next up: Купе / Kupe, Sofia on Sat 31 Oct.
+Royal Flush is a techno and hardcore artist, with 24 gigs on soundcheck across Amsterdam, Bucharest, Prague and Sofia. Often billed alongside KR:KD K, ALICE VR and LPG. Next up: Club Oblk, Sofia on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Купе / Kupe | Sofia |
 | Fri, 20 Nov 2026 | Club Oblk | Sofia |
 
 ## Recently played
 
+- Купе / Kupe, Sofia · Sat, 31 Oct 2026
 - Club Pave, Sofia · Fri, 30 Oct 2026
 - Купе / Kupe, Sofia · Sat, 22 Aug 2026
 - Купе / Kupe, Sofia · Fri, 17 Jul 2026
@@ -20,10 +20,9 @@ Royal Flush is a techno and hardcore artist, with 24 gigs on soundcheck across A
 - TBA - OBLK, Sofia · Fri, 29 May 2026
 - Forge, Bucharest · Fri, 20 Mar 2026
 - Купе / Kupe, Sofia · Sat, 7 Mar 2026
-- Bunker Club, Sofia · Sat, 6 Dec 2025
 
 ## Shares bills with
 
 KR:KD K, ALICE VR, LPG (2)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/royalflush/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royalflush/)*

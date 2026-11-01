@@ -1,14 +1,13 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Oscar Mulero · Sylvia · Dj Fra / MSE: Verushka b2b Bella Sarris · Cashu b2b Meritxell De Soto" on Sat, 31 Oct 2026.
+Nitsa Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · ACIDNENA · AMANTRA" on Fri, 6 Nov 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including 2ManyDJs, Bad Boombox, Bambounou and Bella Sarris and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including 2ManyDJs, Bad Boombox, Bambounou and Bofirax and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Oscar Mulero · Sylvia · Dj Fra / MSE: Verushka b2b Bella Sarris · Cashu b2b Meritxell De Soto | Bella Sarris, Cashu, Dj Fra, Meritxell De Soto, Oscar Mulero, Sylvia (ES), Verushka |
 | Fri, 6 Nov 2026 | Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · ACIDNENA · AMANTRA | Bad Boombox, Mija, horsegiirL, lizaliza |
 | Sat, 7 Nov 2026 | Reinier Zonneveld Live · Lucia Gea / Bambounou · CCINNI | Bambounou, CCINNI, Lucía Gea, Reinier Zonneveld |
 | Fri, 13 Nov 2026 | oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy | Bofirax, DJ Python, Isa Rojas, RHR, oskar med k |
@@ -23,4 +22,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

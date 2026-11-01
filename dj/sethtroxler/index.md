@@ -1,6 +1,6 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Seth Troxler is a house and techno artist based in United States of America, with 352 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 65 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -23,6 +23,7 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 
 ## Recently played
 
+- Club Space Miami, Miami · Sat, 31 Oct 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Brooklyn Storehouse, New York City · Fri, 30 Oct 2026
 - Madam, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 - BRET, Amsterdam · Thu, 22 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
-- Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 DJ Tennis, Chloé Caillet, Sossa
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

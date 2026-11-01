@@ -1,15 +1,13 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Club Space Miami, Miami on Fri, 30 Oct 2026.
+Volkoder is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 6 Nov 2026.
 
-Volkoder is a house and tech house artist based in Brazil, with 26 gigs on soundcheck across Amsterdam, Austin, Belgrade and Budapest and 12 more. Often billed alongside CamelPhat, KI/KI and Mahmut Orhan. Next up: Club Space Miami, Miami on Fri 30 Oct.
+Volkoder is a house and tech house artist based in Brazil, with 26 gigs on soundcheck across Amsterdam, Austin, Belgrade and Budapest and 12 more. Often billed alongside CamelPhat, KI/KI and Mahmut Orhan. Next up: The Chocolate Factory, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Club Space Miami | Miami |
-| Sat, 31 Oct 2026 | Loo Loo | Mexico City |
 | Fri, 6 Nov 2026 | The Chocolate Factory | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
@@ -20,6 +18,7 @@ Volkoder is a house and tech house artist based in Brazil, with 26 gigs on sound
 
 ## Recently played
 
+- Loo Loo, Mexico City · Sat, 31 Oct 2026
 - Club Space Miami, Miami · Fri, 30 Oct 2026
 - Theater Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Hangar Luke Beograd, Belgrade · Fri, 16 Oct 2026
@@ -27,10 +26,9 @@ Volkoder is a house and tech house artist based in Brazil, with 26 gigs on sound
 - Lieberscholli, Munich · Fri, 21 Aug 2026
 - Chinois Ibiza, Ibiza · Wed, 5 Aug 2026
 - Kowalski, Stuttgart · Fri, 31 Jul 2026
-- [UNVRS], Ibiza · Tue, 28 Jul 2026
 
 ## Shares bills with
 
 CamelPhat, KI/KI, Mahmut Orhan
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

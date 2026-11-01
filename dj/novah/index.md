@@ -1,14 +1,13 @@
 # NOVAH
 
-NOVAH is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Parc des Expositions Paris Nord, Paris on Fri, 30 Oct 2026.
+NOVAH is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cinecittà World, Rome on Sat, 14 Nov 2026.
 
-NOVAH is a techno and trance artist based in Belgium, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Cloudy, Adrian Mills and KUKO. Next up: Parc des Expositions Paris Nord, Paris on Fri 30 Oct.
+NOVAH is a techno and trance artist based in Belgium, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Cloudy, Adrian Mills and KUKO. Next up: Cinecittà World, Rome on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Parc des Expositions Paris Nord | Paris |
 | Sat, 14 Nov 2026 | Cinecittà World | Rome |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
@@ -20,6 +19,7 @@ NOVAH is a techno and trance artist based in Belgium, with 201 gigs on soundchec
 | Fri, 18 Dec 2026 | Messe Stuttgart | Stuttgart |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
 | Sat, 19 Dec 2026 | DRUMSHEDS | London |
+| Thu, 31 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ NOVAH is a techno and trance artist based in Belgium, with 201 gigs on soundchec
 
 Cloudy, Adrian Mills, KUKO
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novah/)*

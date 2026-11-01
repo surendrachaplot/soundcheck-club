@@ -1,15 +1,13 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Westworld of Scottsdale, Arizona on Fri, 30 Oct 2026.
+Gravagerz is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Night Cat, Melbourne on Fri, 6 Nov 2026.
 
-Gravagerz is a house and garage artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 14 more. Often billed alongside James Hype (UK), Tini Gessler and Casey Club. Next up: Westworld of Scottsdale, Arizona on Fri 30 Oct.
+Gravagerz is a house and garage artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 14 more. Often billed alongside James Hype (UK), Tini Gessler and Casey Club. Next up: The Night Cat, Melbourne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
-| Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Fri, 6 Nov 2026 | The Night Cat | Melbourne |
 | Sun, 15 Nov 2026 | Elsewhere | Gold-coast |
 | Fri, 20 Nov 2026 | Villa Nightclub | Perth |
@@ -32,4 +30,4 @@ Gravagerz is a house and garage artist based in Italy, with 18 gigs on soundchec
 
 James Hype (UK), Tini Gessler, Casey Club
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

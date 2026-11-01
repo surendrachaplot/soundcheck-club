@@ -1,19 +1,19 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Subcero x Italhalloween" on Sat, 31 Oct 2026.
+Subcero Club is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "SUBCERO x WAKUKO" on Thu, 5 Nov 2026.
 
-Subcero Club is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including BEJA, Francesco Collesei, Paki and Palimpseste and 1 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
+Subcero Club is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including BEJA, Chris Gorrie, Francesco Collesei and Gromma and 1 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Subcero x Italhalloween | Paki, Palimpseste, Sol (HN) |
 | Thu, 5 Nov 2026 | SUBCERO x WAKUKO | BEJA |
 | Fri, 6 Nov 2026 | Subcero x A Series of Melodies | Francesco Collesei |
+| Sat, 7 Nov 2026 | Subcero x Quinoa Experience | Chris Gorrie, Gromma, Joy Boy |
 
 ## Address
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

@@ -1,6 +1,6 @@
 # Daniel Neuland
 
-Daniel Neuland is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
+Daniel Neuland is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
 
 Daniel Neuland is a techno and tech house artist based in Germany, with 71 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Naicet. Next up: Ritter Butzke, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Daniel Neuland is a techno and tech house artist based in Germany, with 71 gigs 
 
 vom Feisten, Martin Ka, Naicet
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*

@@ -1,14 +1,13 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Parc del Fòrum, Barcelona on Sat, 31 Oct 2026.
+Claptone is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
-Claptone is a house and tech house artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 73 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: Parc del Fòrum, Barcelona on Sat 31 Oct.
+Claptone is a house and tech house artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 73 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Parc del Fòrum | Barcelona |
 | Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
 | Sat, 7 Nov 2026 | LAB theCLUB | Madrid |
 | Sat, 14 Nov 2026 | KOKO | London |
@@ -20,6 +19,7 @@ Claptone is a house and tech house artist based in Germany, with 260 gigs on sou
 
 ## Recently played
 
+- Parc del Fòrum, Barcelona · Sat, 31 Oct 2026
 - Pacha, Munich · Sat, 17 Oct 2026
 - Chinois Ibiza, Ibiza · Sun, 11 Oct 2026
 - TBA - Lurin live, Peru · Sat, 10 Oct 2026
@@ -27,10 +27,9 @@ Claptone is a house and tech house artist based in Germany, with 260 gigs on sou
 - Mi Pueblito Afroantillano, Panama · Fri, 9 Oct 2026
 - Chinois Ibiza, Ibiza · Sat, 3 Oct 2026
 - Santa Monica Pier, Los Angeles · Sat, 3 Oct 2026
-- The Church Nightclub, Denver · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 DIEGO SAN DIEGO, Hannah Wants, Solardo
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

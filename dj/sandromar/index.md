@@ -1,6 +1,6 @@
 # Sandro M.
 
-Sandro M. is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
+Sandro M. is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
 
 Sandro M. is a techno artist, with 8 gigs on soundcheck across Lisbon, Porto, Portugal and Zagreb. Often billed alongside Antonio De Angelis, DJ Rush and Fernanda Martins. Next up: Inguz Club, Portugal on Sat 31 Oct.
 
@@ -12,6 +12,7 @@ Sandro M. is a techno artist, with 8 gigs on soundcheck across Lisbon, Porto, Po
 
 ## Recently played
 
+- Inguz Club, Portugal · Sat, 31 Oct 2026
 - NADA Lisbon, Lisbon · Sun, 15 Feb 2026
 - NADA Lisbon, Lisbon · Sat, 17 Aug 2024
 - Escala25, Lisbon · Sat, 22 Jun 2024
@@ -24,4 +25,4 @@ Sandro M. is a techno artist, with 8 gigs on soundcheck across Lisbon, Porto, Po
 
 Antonio De Angelis, DJ Rush, Fernanda Martins
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandromar/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandromar/)*

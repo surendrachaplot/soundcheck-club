@@ -1,18 +1,18 @@
 # Patrick Gibin
 
-Patrick Gibin is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Hang Dai Chinese, Dublin on Sat, 31 Oct 2026.
+Patrick Gibin is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at DURO, Milan on Sun, 8 Nov 2026.
 
-Patrick Gibin is a house and funk / soul artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Volcov, Kaidi Tatham and Craig White. Next up: Hang Dai Chinese, Dublin on Sat 31 Oct.
+Patrick Gibin is a house and funk / soul artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 7 more. Often billed alongside Volcov, Kaidi Tatham and Craig White. Next up: DURO, Milan on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Hang Dai Chinese | Dublin |
 | Sun, 8 Nov 2026 | DURO | Milan |
 
 ## Recently played
 
+- Hang Dai Chinese, Dublin · Sat, 31 Oct 2026
 - Space Studios, South-east · Sat, 10 Oct 2026
 - Paloma, Berlin · Sat, 6 Jun 2026
 - Vittoria Wharf Studio, London · Sat, 16 May 2026
@@ -20,10 +20,9 @@ Patrick Gibin is a house and funk / soul artist based in Italy, with 25 gigs on 
 - Refuge Worldwide / Niemetzstraße, Berlin · Fri, 20 Feb 2026
 - Basement, Amsterdam · Fri, 20 Feb 2026
 - Lanificio 159, Rome · Sat, 13 Dec 2025
-- TBA, Rome · Thu, 11 Dec 2025
 
 ## Shares bills with
 
 Volcov, Kaidi Tatham, Craig White
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickgibin/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrickgibin/)*

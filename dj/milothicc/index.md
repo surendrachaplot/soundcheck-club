@@ -1,6 +1,6 @@
 # Milothicc
 
-Milothicc is a Reggaeton and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
+Milothicc is a Reggaeton and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Drama Radio Bar, Mexico City on Wed, 28 Oct 2026.
 
 Milothicc is a reggaeton and dancehall artist based in Mexico, with 15 gigs on soundcheck across Mexico City. Often billed alongside Marvin Marciano, Alacrán del Amor and Alcala. Next up: Drama Radio Bar, Mexico City on Wed 28 Oct.
 
@@ -13,6 +13,7 @@ Milothicc is a reggaeton and dancehall artist based in Mexico, with 15 gigs on s
 
 ## Recently played
 
+- CHICO, Mexico City · Sat, 31 Oct 2026
 - Drama Radio Bar, Mexico City · Wed, 28 Oct 2026
 - Relink:Data, Mexico City · Wed, 16 Sept 2026
 - TBA, Mexico City · Fri, 27 Mar 2026
@@ -20,10 +21,9 @@ Milothicc is a reggaeton and dancehall artist based in Mexico, with 15 gigs on s
 - Levu VIP, Mexico City · Thu, 30 Oct 2025
 - Tonal, Mexico City · Sat, 4 Oct 2025
 - Club Amok, Mexico City · Fri, 19 Sept 2025
-- Bajo Mundo, Mexico City · Fri, 23 May 2025
 
 ## Shares bills with
 
 Marvin Marciano, Alacrán del Amor, Alcala
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milothicc/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milothicc/)*

@@ -1,14 +1,13 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "nospace presents: Final Screening " on Sat, 31 Oct 2026.
+Low Profile Studios is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Digger's Paradise w./ Ralph Lawson" on Sat, 7 Nov 2026.
 
-Low Profile Studios is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including AKnight, ANNX, Arrosa and Chester Hayes and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
+Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including AKnight, ANNX, Arrosa and Chester Hayes and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | nospace presents: Final Screening  |  |
 | Sat, 7 Nov 2026 | Digger's Paradise w./ Ralph Lawson | Isaac Reuben, Ralph Lawson |
 | Fri, 13 Nov 2026 | SPICED: SUPERSTITION |  |
 | Fri, 13 Nov 2026 | Technodrome: Friday The 13th - Warehouse Rave | Arrosa, Fvck Totvm, Labåzuy, Lady Maru, Lau.tastic, MARIEEEA, TECHSIA |
@@ -18,9 +17,10 @@ Low Profile Studios is a music venue in London listed on soundcheck. 11 upcoming
 | Sat, 28 Nov 2026 | Sue Veneers | Chester Hayes, Jay Duncan, Sue Veneers, r:elise |
 | Fri, 11 Dec 2026 | eclipse by ellipsis.ldn | Pallister |
 | Fri, 11 Dec 2026 | KUSHTY XXXMAS RAVE at Low Profile Loft |  |
+| Sat, 19 Dec 2026 | Onda | Kamar |
 
 ## Address
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

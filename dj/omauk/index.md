@@ -1,18 +1,19 @@
 # Oma (UK)
 
-Oma (UK) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Cross, London on Sat, 31 Oct 2026.
+Oma (UK) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Gaffe, London on Sat, 14 Nov 2026.
 
-Oma (UK) is a techno and tech house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Regan Funk, From A To B and Son of Paul. Next up: The Cross, London on Sat 31 Oct.
+Oma (UK) is a techno and tech house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Regan Funk, From A To B and Son of Paul. Next up: Gaffe, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | The Cross | London |
 | Sat, 14 Nov 2026 | Gaffe | London |
 
 ## Recently played
 
+- The Cross, London · Sat, 31 Oct 2026
+- Endeavour, London · Fri, 2 Oct 2026
 - fabric, London · Fri, 21 Aug 2026
 - Gaffe, London · Sat, 20 Jun 2026
 - Last Arch, London · Sat, 4 Apr 2026
@@ -22,4 +23,4 @@ Oma (UK) is a techno and tech house artist based in United Kingdom, with 6 gigs 
 
 Regan Funk, From A To B, Son of Paul
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omauk/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omauk/)*

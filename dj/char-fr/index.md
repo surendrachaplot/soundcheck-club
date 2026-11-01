@@ -1,8 +1,8 @@
 # CHAR
 
-CHAR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Nobel, Netherlands on Sat, 7 Nov 2026.
+CHAR is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Nobel, Netherlands on Sat, 7 Nov 2026.
 
-CHAR is a techno and house artist, with 8 gigs on soundcheck across Berlin, Chicago, Detroit and London and 3 more. Often billed alongside Beezo, European 305 and Gemini. Next up: Nobel, Netherlands on Sat 7 Nov.
+CHAR is a techno and drum & bass artist, with 9 gigs on soundcheck across Berlin, Chicago, Detroit and London and 4 more. Often billed alongside Beezo, European 305 and Gemini. Next up: Nobel, Netherlands on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ CHAR is a techno and house artist, with 8 gigs on soundcheck across Berlin, Chic
 ## Recently played
 
 - ://about blank, Berlin · Fri, 30 Oct 2026
+- Psyon, Okinawa · Sat, 3 Oct 2026
 - LDN East, London · Sat, 8 Nov 2025
 - LDN East, London · Sat, 8 Nov 2025
 - Perth HPC, Perth · Sat, 7 Jun 2025
@@ -24,4 +25,4 @@ CHAR is a techno and house artist, with 8 gigs on soundcheck across Berlin, Chic
 
 Beezo, European 305, Gemini
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/char-fr/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/char-fr/)*

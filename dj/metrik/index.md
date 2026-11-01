@@ -1,8 +1,8 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
+Metrik is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
 
-Metrik is a drum & bass and bass artist based in United Kingdom, with 68 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 28 more. Often billed alongside Degs, Camo & Krooked and P Money. Next up: Mina Museum, Cluj Napoca on Sat 7 Nov.
+Metrik is a drum & bass and bass artist based in United Kingdom, with 69 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 29 more. Often billed alongside Degs, Camo & Krooked and Whiney. Next up: Mina Museum, Cluj Napoca on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Metrik is a drum & bass and bass artist based in United Kingdom, with 68 gigs on
 | Sat, 7 Nov 2026 | Mina Museum | Cluj-napoca |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
 | Sat, 5 Dec 2026 | La Riviera | Madrid |
+| Fri, 18 Dec 2026 | Doornroosje | Nijmegen |
 | Sat, 19 Dec 2026 | Akvárium Klub | Budapest |
 | Fri, 22 Jan 2027 | Sala Dresden | Barcelona |
 | Sat, 4 Dec 2027 | Brno Exhibition Centre | Brno |
@@ -28,6 +29,6 @@ Metrik is a drum & bass and bass artist based in United Kingdom, with 68 gigs on
 
 ## Shares bills with
 
-Degs, Camo & Krooked, P Money
+Degs, Camo & Krooked, Whiney
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*

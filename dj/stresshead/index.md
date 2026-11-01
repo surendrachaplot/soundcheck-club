@@ -1,19 +1,19 @@
 # Stresshead
 
-Stresshead is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Greyhound, London on Sat, 31 Oct 2026.
+Stresshead is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Jazz Cafe, London on Sat, 7 Nov 2026.
 
-Stresshead is a house and garage artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 1 more. Often billed alongside Drinks On Me, Baobei and 1111. Next up: The Greyhound, London on Sat 31 Oct.
+Stresshead is a house and garage artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 1 more. Often billed alongside Drinks On Me, Baobei and 1111. Next up: The Jazz Cafe, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | The Greyhound | London |
 | Sat, 7 Nov 2026 | The Jazz Cafe | London |
 | Sat, 5 Dec 2026 | Aaja Basement | London |
 
 ## Recently played
 
+- The Greyhound, London · Sat, 31 Oct 2026
 - Last Arch, London · Sat, 15 Aug 2026
 - TBA - Yate, Bristol · Thu, 16 Jul 2026
 - Hootananny Brixton, London · Sat, 2 May 2026
@@ -21,10 +21,9 @@ Stresshead is a house and garage artist based in United Kingdom, with 20 gigs on
 - Motion, Bristol · Fri, 24 Oct 2025
 - Phonox, London · Thu, 23 Oct 2025
 - Ritter Butzke, Berlin · Fri, 17 Oct 2025
-- Belgrave Music Hall, Leeds · Fri, 26 Sept 2025
 
 ## Shares bills with
 
 Drinks On Me, Baobei, 1111
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stresshead/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stresshead/)*

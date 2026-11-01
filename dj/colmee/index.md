@@ -1,6 +1,6 @@
 # Colmee
 
-Colmee is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Vino Disco, Montreal on Thu, 5 Nov 2026.
+Colmee is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Vino Disco, Montreal on Thu, 5 Nov 2026.
 
 Colmee is a house and funk / soul artist based in Canada, with 6 gigs on soundcheck across Montreal. Often billed alongside FREEEMAN, DUZA and Freeman. Next up: Vino Disco, Montreal on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Colmee is a house and funk / soul artist based in Canada, with 6 gigs on soundch
 
 FREEEMAN, DUZA, Freeman
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colmee/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colmee/)*

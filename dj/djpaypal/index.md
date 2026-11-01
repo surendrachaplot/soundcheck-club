@@ -1,13 +1,14 @@
 # DJ Paypal
 
-DJ Paypal is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 21 Nov 2026.
+DJ Paypal is a Footwork and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - DTLA Venue, Los Angeles on Fri, 6 Nov 2026.
 
-DJ Paypal is a footwork and bass artist based in United States of America, with 64 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Bangkok and 26 more. Often billed alongside Missy, DJ Chad and Kloxii Li. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 21 Nov.
+DJ Paypal is a footwork and bass artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Bangkok and 26 more. Often billed alongside Missy, DJ Chad and Kloxii Li. Next up: TBA - DTLA Venue, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TBA - DTLA Venue | Los Angeles |
 | Sat, 21 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ Paypal is a footwork and bass artist based in United States of America, with 
 
 Missy, DJ Chad, Kloxii Li
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpaypal/)*

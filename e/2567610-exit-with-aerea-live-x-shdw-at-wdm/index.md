@@ -1,6 +1,6 @@
 # EXIT with AEREA LIVE x SHDW at WDM
 
-EXIT with AEREA LIVE x SHDW at WDM on Sat 30 Jan, Hannover. 4 artists: AEREA, Gina Demarchi, J-DEK and SHDW. See the line-up on soundcheck.
+EXIT with AEREA LIVE x SHDW at WDM on Sat 30 Jan, Hannover. 4 artists: AEREA, Gina Demarchi, J-DEK and SHDW. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

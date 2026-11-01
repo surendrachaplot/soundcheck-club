@@ -1,6 +1,6 @@
 # NIGELTHREETIMES [at Upsidedown] at Upsidedown
 
-NIGELTHREETIMES [at Upsidedown] on Sat 21 Nov, Osaka. 3 artists: CHISE, NIGELTHREETIMES and TERU. House and Jungle. See the line-up on soundcheck.
+NIGELTHREETIMES [at Upsidedown] on Sat 21 Nov, Osaka. 4 artists: CHISE, DJ Compufunk, NIGELTHREETIMES and TERU. House and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ NIGELTHREETIMES [at Upsidedown] on Sat 21 Nov, Osaka. 3 artists: CHISE, NIGELTHR
 ## Line-up
 
 - CHISE
+- DJ Compufunk
 - NIGELTHREETIMES
 - TERU
 

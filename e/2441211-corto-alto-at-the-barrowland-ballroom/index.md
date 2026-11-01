@@ -1,6 +1,6 @@
 # corto.alto at The Barrowland Ballroom
 
-corto.alto at The Barrowland Ballroom on Fri 29 Jan, Glasgow. 1 artist: corto.alto. See the line-up on soundcheck.
+corto.alto at The Barrowland Ballroom on Fri 29 Jan, Glasgow. 1 artist: corto.alto. Hip-Hop and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

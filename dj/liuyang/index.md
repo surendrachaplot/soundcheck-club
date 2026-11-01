@@ -1,29 +1,28 @@
 # LIUYANG
 
-LIUYANG is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Dirty House, Shanghai on Sat, 31 Oct 2026.
+LIUYANG is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
 
-LIUYANG is a techno and house artist, with 59 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Chongqing and 7 more. Often billed alongside Shengchou, S.M.S.H and cisco. Next up: Dirty House, Shanghai on Sat 31 Oct.
+LIUYANG is a techno and electro artist, with 61 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Chongqing and 7 more. Often billed alongside Shengchou, cisco and S.M.S.H. Next up: Dada Beijing, Beijing on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Dirty House | Shanghai |
 | Sat, 7 Nov 2026 | Dada Beijing | Beijing |
 
 ## Recently played
 
+- Dirty House, Shanghai · Sat, 31 Oct 2026
 - KOK Bazar, Kazakhstan · Fri, 16 Oct 2026
+- TBA - Workers' Stadium, Beijing · Sun, 11 Oct 2026
+- TBA - 京南华美胜地, Beijing · Mon, 5 Oct 2026
 - Groundless Factory, Beijing · Thu, 24 Sept 2026
 - TBA, Shanghai · Thu, 24 Sept 2026
 - 505 Wulumuqi Rd (N), Jing’an District, Shanghai · Thu, 24 Sept 2026
 - Reactor Shanghai, Shanghai · Fri, 11 Sept 2026
-- TBA - SCHHOL, Beijing · Fri, 28 Aug 2026
-- Pillbox Beijing, Beijing · Fri, 14 Aug 2026
-- Dada Beijing, Beijing · Fri, 14 Aug 2026
 
 ## Shares bills with
 
-Shengchou, S.M.S.H, cisco (3)
+Shengchou, cisco (3), S.M.S.H
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liuyang/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liuyang/)*

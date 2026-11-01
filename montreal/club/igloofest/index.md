@@ -1,8 +1,8 @@
 # Igloofest
 
-Igloofest is a music venue in Montreal with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Igloofest MTL #1: Kaytranada" on Thu, 14 Jan 2027.
+Igloofest is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Igloofest MTL #1: Kaytranada" on Thu, 14 Jan 2027.
 
-Igloofest is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, with line-ups including Beamskii, Chippy Nonstop, Chris Lorenzo and Chris Luno and 2 more. See dates, start times and who's playing. Quais du Vieux-Port de Montréal (Promenade du Vieux-Port), Montréal QC, Canada.
+Igloofest is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including Beamskii, Boris Brejcha, Chippy Nonstop and Chris Lorenzo and 2 more. See dates, start times and who's playing. Quais du Vieux-Port de Montréal (Promenade du Vieux-Port), Montréal QC, Canada.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Igloofest is a music venue in Montreal listed on soundcheck. 10 upcoming gigs, w
 | Thu, 28 Jan 2027 | Igloofest MTL #7: Mosimann | Mosimann, Tony Romera |
 | Thu, 28 Jan 2027 | Igloofest MTL #8: Prog' à venir / Chris Luno  | Chris Luno, DUZA, Moti (CR) |
 | Sat, 30 Jan 2027 | Igloofest MTL #9: Deadmau5 | Claireyy, Deadmau5, Rodriguez Jr., TDJ |
-| Sat, 6 Feb 2027 | Igloofest #12: Subtronics | Miss Bashful, Siren Mars, hÿdra |
+| Fri, 5 Feb 2027 | Igloofest MTL #11: Boris Brejcha | Boris Brejcha, Dimitry, Kolophane, Lara Bee, tINI |
 
 ## Address
 
 Quais du Vieux-Port de Montréal (Promenade du Vieux-Port), Montréal QC, Canada, Montreal
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/igloofest/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/igloofest/)*

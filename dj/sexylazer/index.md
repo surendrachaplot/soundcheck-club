@@ -1,8 +1,8 @@
 # Sexy Lazer
 
-Sexy Lazer is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Sexy Lazer is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
-Sexy Lazer is a house and disco artist, with 19 gigs on soundcheck across Berlin, Cologne, Copenhagen and Düsseldorf and 3 more. Often billed alongside Shumi, Peter Invasion and Esther Silex. Next up: Kater, Berlin on Fri 30 Oct.
+Sexy Lazer is a house and disco artist based in Iceland, with 19 gigs on soundcheck across Berlin, Cologne, Copenhagen and Düsseldorf and 3 more. Often billed alongside Shumi, Peter Invasion and Esther Silex. Next up: Kater, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sexy Lazer is a house and disco artist, with 19 gigs on soundcheck across Berlin
 
 Shumi, Peter Invasion, Esther Silex
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sexylazer/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sexylazer/)*

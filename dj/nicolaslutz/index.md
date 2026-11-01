@@ -1,14 +1,13 @@
 # Nicolas Lutz
 
-Nicolas Lutz is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Las Tres Chimeneas, Barcelona on Sat, 31 Oct 2026.
+Nicolas Lutz is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at essaim, Paris on Sat, 7 Nov 2026.
 
-Nicolas Lutz is a techno and house artist based in Uruguay, with 186 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: Las Tres Chimeneas, Barcelona on Sat 31 Oct.
+Nicolas Lutz is a techno and house artist based in Uruguay, with 186 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 48 more. Often billed alongside Binh, DJ Masda and Craig Richards. Next up: essaim, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Las Tres Chimeneas | Barcelona |
 | Sat, 7 Nov 2026 | essaim | Paris |
 | Fri, 13 Nov 2026 | DURO | Milan |
 | Fri, 13 Nov 2026 | DURO | Milan |
@@ -23,6 +22,7 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 186 gigs on sou
 
 ## Recently played
 
+- Las Tres Chimeneas, Barcelona · Sat, 31 Oct 2026
 - The Loft, Manchester · Fri, 30 Oct 2026
 - Garage Noord, Amsterdam · Sun, 25 Oct 2026
 - Pllek, Amsterdam · Sun, 25 Oct 2026
@@ -30,10 +30,9 @@ Nicolas Lutz is a techno and house artist based in Uruguay, with 186 gigs on sou
 - WOMB, Tokyo · Sat, 10 Oct 2026
 - Hertz, Seoul · Thu, 8 Oct 2026
 - FOLD, London · Sat, 3 Oct 2026
-- THE MAGICK BAR, Rome · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Binh, DJ Masda, Craig Richards
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolaslutz/)*

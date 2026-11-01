@@ -1,14 +1,13 @@
 # Xanexx
 
-Xanexx is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+Xanexx is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at teller, Seoul on Fri, 13 Nov 2026.
 
-Xanexx is a techno and house artist based in South Korea, with 156 gigs on soundcheck across Barcelona, Gothenburg, Seoul and Tokyo. Often billed alongside Scøpe, Noidman and Sunghoon. Next up: Blank Site, Seoul on Fri 30 Oct.
+Xanexx is a techno and house artist based in South Korea, with 156 gigs on soundcheck across Barcelona, Gothenburg, Seoul and Tokyo. Often billed alongside Scøpe, Noidman and Sunghoon. Next up: teller, Seoul on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Blank Site | Seoul |
 | Fri, 13 Nov 2026 | teller | Seoul |
 
 ## Recently played
@@ -26,4 +25,4 @@ Xanexx is a techno and house artist based in South Korea, with 156 gigs on sound
 
 Scøpe, Noidman, Sunghoon
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xanexx/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xanexx/)*

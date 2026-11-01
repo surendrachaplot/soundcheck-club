@@ -1,6 +1,6 @@
 # OMAR at Knockdown Center
 
-OMAR at Knockdown Center on Sat 30 Jan, New York City. 1 artist: Omar+. See the line-up on soundcheck.
+OMAR at Knockdown Center on Sat 30 Jan, New York City. 1 artist: Omar+. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

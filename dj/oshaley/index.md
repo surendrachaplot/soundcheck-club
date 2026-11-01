@@ -1,19 +1,19 @@
 # OSHALEY
 
-OSHALEY is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Upsidedown, Osaka on Sat, 31 Oct 2026.
+OSHALEY is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
 
-OSHALEY is a techno and minimal techno artist based in Japan, with 55 gigs on soundcheck across Osaka and Tokyo. Often billed alongside TENO, HSC and OCCA. Next up: Upsidedown, Osaka on Sat 31 Oct.
+OSHALEY is a techno and minimal techno artist based in Japan, with 55 gigs on soundcheck across Osaka and Tokyo. Often billed alongside TENO, HSC and OCCA. Next up: Club Daphnia, Osaka on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Upsidedown | Osaka |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
 | Sat, 2 Oct 2027 | Upsidedown | Osaka |
 
 ## Recently played
 
+- Upsidedown, Osaka · Sat, 31 Oct 2026
 - rake?raka?, Osaka · Wed, 21 Oct 2026
 - Upsidedown, Osaka · Fri, 2 Oct 2026
 - Upsidedown, Osaka · Fri, 18 Sept 2026
@@ -21,10 +21,9 @@ OSHALEY is a techno and minimal techno artist based in Japan, with 55 gigs on so
 - rake?raka?, Osaka · Mon, 24 Aug 2026
 - rake?raka?, Osaka · Sat, 15 Aug 2026
 - Upsidedown, Osaka · Sat, 25 Jul 2026
-- Area_osaka, Osaka · Wed, 10 Jun 2026
 
 ## Shares bills with
 
 TENO, HSC (1), OCCA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oshaley/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oshaley/)*

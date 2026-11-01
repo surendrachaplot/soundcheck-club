@@ -1,6 +1,6 @@
 # CYØN Festival at Base Events Venue
 
-CYØN Festival at Base Events Venue on Fri 6 Aug, Cyprus. 16 artists: African Stevenson, AnDe Trois, Anna Reusch and Daniela Hensel and 12 more. See the line-up on soundcheck.
+CYØN Festival at Base Events Venue on Fri 6 Aug, Cyprus. 19 artists: African Stevenson, AnDe Trois, Anna Reusch and Daniela Hensel and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,10 +16,13 @@ CYØN Festival at Base Events Venue on Fri 6 Aug, Cyprus. 16 artists: African St
 - Daniela Hensel
 - Dari Dark
 - DJ Unholy
+- Doruksen
 - Dreus
+- Kirozen
 - LUBIMAYA
 - Mark Dekoda
 - Nakadia
+- Niotech
 - Penny K
 - PLOYZZ
 - Purple Palms

@@ -1,16 +1,14 @@
 # Heim Shanghai
 
-Heim Shanghai is a music venue in Shanghai with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Mycelium 菌丝网络Vol.4 换皮" on Fri, 30 Oct 2026.
+Heim Shanghai is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "璀璨繁复的狂舞 bluebubble 3 Year Anniversary Pres. Kasimyn + 拗拗NeoNew" on Sat, 7 Nov 2026.
 
-Heim Shanghai is a music venue in Shanghai listed on soundcheck. 4 upcoming gigs, with line-ups including 10000 (CN), 1OO1O, Jamira Estrada and NVST and 2 more. See dates, start times and who's playing.
+Heim Shanghai is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with line-ups including 10000 (CN), 1OO1O and Simon Frank. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Mycelium 菌丝网络Vol.4 换皮 | PUNX |
-| Sat, 31 Oct 2026 | 周六｜十月压轴好戏：NVST & Jamira Estrada 绝代双骄再现！ | Jamira Estrada, NVST |
 | Sat, 7 Nov 2026 | 璀璨繁复的狂舞 bluebubble 3 Year Anniversary Pres. Kasimyn + 拗拗NeoNew | Simon Frank |
 | Fri, 18 Dec 2026 | Shy People + LeavesCalm pres. 1OO1O | 10000 (CN), 1OO1O |
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/heim-shanghai/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/heim-shanghai/)*

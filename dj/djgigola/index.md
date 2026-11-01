@@ -1,6 +1,6 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+DJ Gigola is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 DJ Gigola is a techno and house artist based in Germany, with 281 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 78 more. Often billed alongside MCR-T, Anetha and KI/KI. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -20,7 +20,7 @@ DJ Gigola is a techno and house artist based in Germany, with 281 gigs on soundc
 - RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
-- Fvtvr, Paris · Sat, 3 Oct 2026
+- FVTVR, Paris · Sat, 3 Oct 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
 - Brooklyn Army Terminal, New York City · Sun, 13 Sept 2026
 - TBA, Washington DC · Sat, 12 Sept 2026
@@ -29,4 +29,4 @@ DJ Gigola is a techno and house artist based in Germany, with 281 gigs on soundc
 
 MCR-T, Anetha, KI/KI
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

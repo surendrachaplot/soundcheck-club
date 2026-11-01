@@ -1,15 +1,13 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween: Cassie Raptor + DYEN + A.N.I. & Total with ines isla & Special-k with Laia + Sugar Free" on Sat, 31 Oct 2026.
+Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Hector Oaks all night long + Egyptian Lover" on Sat, 7 Nov 2026.
 
-Spook Club is a music venue in Valencia listed on soundcheck. 12 upcoming gigs, with line-ups including Angelinanyulí, Alarico, Andres Campo and A.N.I. and 2 more. See dates, start times and who's playing. Pinedo Valencia.
+Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Andres Campo, Ariezzz and Egyptian Lover and 2 more. See dates, start times and who's playing. Pinedo Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Halloween: Cassie Raptor + DYEN + A.N.I. & Total with ines isla & Special-k with Laia + Sugar Free | A.N.I., Angelinanyulí, Ariezzz, Cassie Raptor, DYEN, Fran.cis, Laia, Lucía Gea, Paola (1), Pau Pérez, Sueezo, Sugar Free, The Cap Boy, ines isla |
-| Sat, 31 Oct 2026 | Special-K Halloween (tickets link in bio) | Fran.cis, Laia, Pau Pérez, Pin, Sueezo, Sugar Free, The Cap Boy, Tommaso Pizzelli |
 | Sat, 7 Nov 2026 | Hector Oaks all night long + Egyptian Lover | Egyptian Lover, Héctor Oaks |
 | Sat, 14 Nov 2026 | Vendex + invitados | Ariezzz, ENGALANAN, Lucía Gea, M8NSE, Vendex |
 | Sat, 21 Nov 2026 | Spook conection + Special K |  |
@@ -18,9 +16,11 @@ Spook Club is a music venue in Valencia listed on soundcheck. 12 upcoming gigs, 
 | Mon, 7 Dec 2026 | 42 anniversary: Onlynumbers + invitados | Ariezzz, Finalversion3, Lucía Gea, Onlynumbers |
 | Sat, 12 Dec 2026 | Richie Hawtin + invitados & Cartulis with Unai Trotti + Vass | Fase Bipolar, Richie Hawtin, SCHRZØ, Unai Trotti, Vass |
 | Sat, 19 Dec 2026 | Andres Campo (extended set) + invitados | Andres Campo |
+| Sat, 26 Dec 2026 | Alarico + invitados | Alarico |
+| Thu, 31 Dec 2026 | NYE Special-k (tickets in bio) | Not A Headliner, Olga Korol, The Ghost |
 
 ## Address
 
 Pinedo Valencia, Valencia
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

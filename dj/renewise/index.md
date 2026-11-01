@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
+Rene Wise is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
 
 Rene Wise is a techno and house artist based in United Kingdom, with 283 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: Nowadays, New York City on Fri 30 Oct.
 
@@ -34,4 +34,4 @@ Rene Wise is a techno and house artist based in United Kingdom, with 283 gigs on
 
 MARRØN, Blasha & Allatt, Ogazón
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

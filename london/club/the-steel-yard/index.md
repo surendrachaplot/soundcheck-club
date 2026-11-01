@@ -1,8 +1,8 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK" on Fri, 13 Nov 2026.
+The Steel Yard is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Bass Face // DNB, HOUSE:TECHNO, UKG // 360° LEVEL UP *SPECIAL GUESTS* FREE TICKETS + FREE DRINK" on Fri, 13 Nov 2026.
 
-The Steel Yard is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Arrosa, Bassface, Claudia Kane and Crossy and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
+The Steel Yard is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Arrosa, Bassface, Claudia Kane and Crossy and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
 ## What's on
 
@@ -16,11 +16,11 @@ The Steel Yard is a music venue in London listed on soundcheck. 10 upcoming gigs
 | Fri, 4 Dec 2026 | Modestep Live | Modestep |
 | Sat, 5 Dec 2026 | Crossy presents: The Breakthrough - London | Crossy |
 | Sat, 5 Dec 2026 | Housework presents Bad Santa 5 | Erik Hagleton, John Jones, K-Klass |
+| Sat, 26 Dec 2026 | Inked Ldn ( Free Tickets ) |  |
 | Thu, 31 Dec 2026 | My House - NYE | Dean Lambert, Dolly Rockers, Lizzie Curious, Seb Fontaine |
-| Sat, 23 Jan 2027 | Necropolis Festival 4 Years Anniversary: WINTER BALL | Arrosa, Claudia Kane, DungeonMaster, Jane Darke, LIZAZA, Leviminks, Odilon's Grip, SONI LOBO |
 
 ## Address
 
 13-16 Allhallows Lane, London, EC4R 3UL, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-steel-yard/)*

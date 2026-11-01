@@ -1,8 +1,8 @@
 # Khmgnff
 
-Khmgnff is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Prisma, Berlin on Thu, 12 Nov 2026.
+Khmgnff is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Prisma, Berlin on Thu, 12 Nov 2026.
 
-Khmgnff is a techno artist, with 24 gigs on soundcheck across Berlin, Hamburg, Paris and Prague. Often billed alongside Audio Werner, DALOG and Kaloustian. Next up: Prisma, Berlin on Thu 12 Nov.
+Khmgnff is a techno artist based in Germany, with 24 gigs on soundcheck across Berlin, Hamburg, Paris and Prague. Often billed alongside Audio Werner, DALOG and Kaloustian. Next up: Prisma, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Khmgnff is a techno artist, with 24 gigs on soundcheck across Berlin, Hamburg, P
 
 Audio Werner, DALOG, Kaloustian
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khmgnff-3/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/khmgnff-3/)*

@@ -1,6 +1,6 @@
 # Odonien
 
-Odonien is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "AYA Connecting: Tiefgang & Funky Float" on Fri, 6 Nov 2026.
+Odonien is a music venue in Cologne with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "AYA Connecting: Tiefgang & Funky Float" on Fri, 6 Nov 2026.
 
 Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with line-ups including Aio, andré wiese, Bergen and Cecilia Tosh and 2 more. See dates, start times and who's playing. Hornstrasse 85; 50825 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Odonien is a music venue in Cologne listed on soundcheck. 10 upcoming gigs, with
 
 Hornstrasse 85; 50825 Cologne; Germany, Cologne
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/odonien/)*

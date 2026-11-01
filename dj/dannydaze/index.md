@@ -1,6 +1,6 @@
 # Danny Daze
 
-Danny Daze is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Danny Daze is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Danny Daze is a house and techno artist based in United States of America, with 180 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 39 more. Often billed alongside Will Renuart, Jonny From Space and Terence Tabeau. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -9,7 +9,6 @@ Danny Daze is a house and techno artist based in United States of America, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
-| Fri, 30 Oct 2026 | Société des arts technologiques | Montreal |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sun, 6 Dec 2026 | Jolene Downtown Miami | Miami |
 | Fri, 11 Dec 2026 | H0L0 | New York City |
@@ -29,4 +28,4 @@ Danny Daze is a house and techno artist based in United States of America, with 
 
 Will Renuart, Jonny From Space, Terence Tabeau
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannydaze/)*

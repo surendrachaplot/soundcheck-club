@@ -1,14 +1,13 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "FACE-OFF: 2NDRA F2F NEUWERTH ☆ SJ Yellow F2F tmk ☆ Etienn Grey F2F Fake Agent ☆ Dunik F2F Mich" on Sat, 31 Oct 2026.
+Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "TECHNO ALLIANCE: FJAAK ☆ Nina Farrina ☆ Midirama" on Fri, 6 Nov 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including 2NDRA, Atlaskin, DDK and Dj Alyaz and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 2NDRA, DDK, Dj Alyaz and DJames and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | FACE-OFF: 2NDRA F2F NEUWERTH ☆ SJ Yellow F2F tmk ☆ Etienn Grey F2F Fake Agent ☆ Dunik F2F Mich | 2NDRA, Atlaskin, Etienn Grey, Fake Agent, NEUWERTH, SJ Yellow, VNNUK, tmk (CZ) |
 | Fri, 6 Nov 2026 | TECHNO ALLIANCE: FJAAK ☆ Nina Farrina ☆ Midirama | FJAAK, Midirama, Nina Farrina |
 | Sat, 7 Nov 2026 | Rave Generation / Fuchs2+ - Bike Jesus - Techno Agency | DjEgo, GRVYWRLD, KJAER, Kerrie, Lucas Hulan, Mirka, Paul Krist, Philip Ackowsky, Raul Young, Rudeboy |
 | Thu, 12 Nov 2026 | SALO: Lovačka Srca Takeover | VLZQUES |
@@ -18,9 +17,10 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with l
 | Mon, 16 Nov 2026 | ALL NIGHT LONG: SJ Yellow | SJ Yellow |
 | Fri, 20 Nov 2026 | HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk | DJ KING KOBRA, LIIA, Theya, tmk (CZ) |
 | Fri, 27 Nov 2026 | WRONG 10 YEARS with Prison Religion, Wick, Zaffer 9 | ESTER., Prison Religion, tmk (CZ) |
+| Fri, 4 Dec 2026 | House Of Eden | 2NDRA, DJames (2), Electro rite, Kewu, NEUWERTH, Niotech, PAY2PLAY, RiVid, XENEA LUMRA |
 
 ## Address
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

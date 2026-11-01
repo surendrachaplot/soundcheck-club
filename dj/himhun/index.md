@@ -1,6 +1,6 @@
 # Him Hun
 
-Him Hun is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
+Him Hun is a Techno and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Location Distributed Day Of, Chicago on Sat, 31 Oct 2026.
 
 Him Hun is a techno and gabber artist based in United States of America, with 18 gigs on soundcheck across Chicago, Cleveland, New York City and San Francisco/Oakland and 1 more. Often billed alongside Vesolo, Miss Twink USA and uRaNg3L. Next up: TBA - Location Distributed Day Of, Chicago on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ Him Hun is a techno and gabber artist based in United States of America, with 18
 
 ## Recently played
 
+- TBA - Location Distributed Day Of, Chicago · Sat, 31 Oct 2026
 - TBA - address will be released day of , Chicago · Sat, 20 Jun 2026
 - TBA - please fill out the ticket request form in bio, Seattle · Sat, 14 Feb 2026
 - Podlasie Club, Chicago · Thu, 30 Oct 2025
@@ -20,10 +21,9 @@ Him Hun is a techno and gabber artist based in United States of America, with 18
 - Trans-Pecos, New York City · Sat, 15 Mar 2025
 - smartbar, Chicago · Fri, 14 Mar 2025
 - 99 Scott Ave, New York City · Sun, 16 Feb 2025
-- TBA, Chicago · Sat, 11 Jan 2025
 
 ## Shares bills with
 
 Vesolo, Miss Twink USA, uRaNg3L
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/himhun/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/himhun/)*

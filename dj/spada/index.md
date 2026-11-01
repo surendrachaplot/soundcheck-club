@@ -1,6 +1,6 @@
 # Spada
 
-Spada is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Toronto on Sat, 14 Nov 2026.
+Spada is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Toronto on Sat, 14 Nov 2026.
 
 Spada is a techno and progressive house artist based in Czech Republic, with 25 gigs on soundcheck across Berlin, Cologne, Dubai and Istanbul and 7 more. Often billed alongside Giuseppe Ottaviani, Hugorieri and Lina K. Next up: TBA, Toronto on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Spada is a techno and progressive house artist based in Czech Republic, with 25 
 
 Giuseppe Ottaviani, Hugorieri, Lina K
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spada/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spada/)*

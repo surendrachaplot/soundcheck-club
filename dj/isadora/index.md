@@ -1,8 +1,8 @@
 # Isadora
 
-Isadora is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Honey's, New-york-city on Sat, 21 Nov 2026.
+Isadora is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Honey's, New-york-city on Sat, 21 Nov 2026.
 
-Isadora is a house and electronica artist based in United States of America, with 13 gigs on soundcheck across Dublin, Ibiza, New York City and Sao Paulo. Often billed alongside Iggy Nuclear, Kettle and Conduit. Next up: Honey's, New York City on Sat 21 Nov.
+Isadora is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Dublin, Ibiza, New York City and Sao Paulo. Often billed alongside Iggy Nuclear, Kettle and Conduit. Next up: Honey's, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Isadora is a house and electronica artist based in United States of America, wit
 
 Iggy Nuclear, Kettle, Conduit
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isadora/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isadora/)*

@@ -1,8 +1,8 @@
 # Steely Ann
 
-Steely Ann is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Wax Music Lounge, Melbourne on Fri, 13 Nov 2026.
+Steely Ann is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Wax Music Lounge, Melbourne on Fri, 13 Nov 2026.
 
-Steely Ann is a house and disco artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside Manchild. Next up: Wax Music Lounge, Melbourne on Fri 13 Nov.
+Steely Ann is a house and disco artist based in Australia, with 5 gigs on soundcheck across Melbourne. Often billed alongside Manchild and Mothafunk. Next up: Wax Music Lounge, Melbourne on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -15,9 +15,10 @@ Steely Ann is a house and disco artist based in Australia, with 4 gigs on soundc
 ## Recently played
 
 - Angel Music Bar, Melbourne · Wed, 28 Oct 2026
+- Wax Music Lounge, Melbourne · Fri, 9 Oct 2026
 
 ## Shares bills with
 
-Manchild
+Manchild, Mothafunk
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/steelyann/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steelyann/)*

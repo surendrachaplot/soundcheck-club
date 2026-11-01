@@ -1,6 +1,6 @@
 # Morphs
 
-Morphs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at B side Athens, Athens on Fri, 6 Nov 2026.
+Morphs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at B side Athens, Athens on Fri, 6 Nov 2026.
 
 Morphs is a techno and house artist based in Greece, with 8 gigs on soundcheck across Athens. Often billed alongside Morken, Romphea and Petros Spatharos. Next up: B side Athens, Athens on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Morphs is a techno and house artist based in Greece, with 8 gigs on soundcheck a
 
 Morken, Romphea, Petros Spatharos
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/morphs/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morphs/)*

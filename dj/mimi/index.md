@@ -1,13 +1,15 @@
 # Mimi
 
-Mimi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Mimi is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Gare Porto, Porto on Sat, 7 Nov 2026.
 
-Mimi is a techno and electronica artist based in Croatia, with 72 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 17 more. Often billed alongside DJ Labud, JOVE and schwabe. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
+Mimi is a techno and electronica artist based in Croatia, with 74 gigs on soundcheck across Athens, Basel, Belgrade and Brighton and 18 more. Often billed alongside DJ Labud, JOVE and schwabe. Next up: Gare Porto, Porto on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Gare Porto | Porto |
+| Fri, 27 Nov 2026 | Mali Barbarellas | Croatia |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played
@@ -25,4 +27,4 @@ Mimi is a techno and electronica artist based in Croatia, with 72 gigs on soundc
 
 DJ Labud, JOVE, schwabe
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimi/)*

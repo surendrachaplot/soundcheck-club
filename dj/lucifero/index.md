@@ -1,18 +1,22 @@
 # Lucifero
 
-Lucifero is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at SAM Sampling Moods, Milan on Sat, 31 Oct 2026.
+Lucifero is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Altrove, Milan on Fri, 13 Nov 2026.
 
-Lucifero is a techno and electronica artist based in Italy, with 2 gigs on soundcheck across Milan. Often billed alongside Giamma Soren, Marc Anthony Bowen and Paul Lution. Next up: SAM Sampling Moods, Milan on Sat 31 Oct.
+Lucifero is a techno and electronica artist based in Italy, with 3 gigs on soundcheck across Milan. Often billed alongside David Fogarty, Gabriele and Giamma Soren. Next up: Altrove, Milan on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | SAM Sampling Moods | Milan |
 | Fri, 13 Nov 2026 | Altrove | Milan |
+
+## Recently played
+
+- SAM Sampling Moods, Milan · Sat, 31 Oct 2026
+- Altrove, Milan · Fri, 2 Oct 2026
 
 ## Shares bills with
 
-Giamma Soren, Marc Anthony Bowen, Paul Lution
+David Fogarty, Gabriele, Giamma Soren
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifero/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifero/)*

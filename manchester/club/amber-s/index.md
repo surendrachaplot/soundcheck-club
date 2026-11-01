@@ -1,6 +1,6 @@
 # Amber's
 
-Amber's is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "AFTERJAM [04]: MANCHESTER" on Sat, 7 Nov 2026.
+Amber's is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "AFTERJAM [04]: MANCHESTER" on Sat, 7 Nov 2026.
 
 Amber's is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including Addison Groove, DAIZ, Denham Audio and HALFPINT and 2 more. See dates, start times and who's playing. 1 Circle Square, 3 Symphony Park, Manchester M17FS.
 
@@ -11,10 +11,10 @@ Amber's is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, wi
 | Sat, 7 Nov 2026 | AFTERJAM [04]: MANCHESTER | HALFPINT, Jamback, Mya (1) |
 | Fri, 20 Nov 2026 | Amber's presents: Skeptical & SP:MC | DAIZ, SP:MC, Simmo., Skeptical |
 | Fri, 27 Nov 2026 | Amber's presents: Addison Groove & Denham Audio | Addison Groove, Denham Audio, Syntax (2) |
-| Sat, 28 Nov 2026 | Saturday's At Ambers: Horse Meat Disco | Horse Meat Disco |
+| Sat, 28 Nov 2026 | Saturdays At Ambers: Horse Meat Disco | Horse Meat Disco |
 
 ## Address
 
 1 Circle Square, 3 Symphony Park, Manchester M17FS, Manchester
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/amber-s/)*

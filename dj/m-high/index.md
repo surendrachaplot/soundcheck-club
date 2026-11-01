@@ -1,14 +1,13 @@
 # M-High
 
-M-High is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Cardiff Students' Union - Y Plas, Cardiff on Sat, 31 Oct 2026.
+M-High is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tunnel, Milan on Fri, 13 Nov 2026.
 
-M-High is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside Prunk, Job de Jong and Sidney Charles. Next up: Cardiff Students' Union - Y Plas, Cardiff on Sat 31 Oct.
+M-High is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside Prunk, Job de Jong and Sidney Charles. Next up: Tunnel, Milan on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Cardiff Students' Union - Y Plas | Cardiff |
 | Fri, 13 Nov 2026 | Tunnel | Milan |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Fri, 20 Nov 2026 | The Barbary | Philadelphia |
@@ -20,6 +19,7 @@ M-High is a house and tech house artist based in Netherlands, with 195 gigs on s
 
 ## Recently played
 
+- Cardiff Students' Union - Y Plas, Cardiff · Sat, 31 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
 - Theater Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 10 Oct 2026
@@ -27,10 +27,9 @@ M-High is a house and tech house artist based in Netherlands, with 195 gigs on s
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
 - Cabaret Voltaire, Edinburgh · Fri, 2 Oct 2026
 - Sub Club, Glasgow · Thu, 1 Oct 2026
-- Thuishaven, Amsterdam · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Prunk, Job de Jong, Sidney Charles
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

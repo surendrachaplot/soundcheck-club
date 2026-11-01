@@ -1,14 +1,15 @@
 # Radart
 
-Radart is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Radart is a Electronica and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
-Radart is an electronica and downtempo artist, with 14 gigs on soundcheck across Berlin, Brussels, Melbourne and The Hague and 1 more. Often billed alongside Mike Midnight, Paper-Cuts and D-Grade. Next up: TBA, Victoria on Fri 6 Nov.
+Radart is an electronica and downtempo artist, with 15 gigs on soundcheck across Berlin, Brussels, Melbourne and The Hague and 1 more. Often billed alongside Mike Midnight, Paper-Cuts and Bridget Small. Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA | Victoria |
+| Sat, 30 Jan 2027 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Radart is an electronica and downtempo artist, with 14 gigs on soundcheck across
 
 ## Shares bills with
 
-Mike Midnight, Paper-Cuts, D-Grade
+Mike Midnight, Paper-Cuts, Bridget Small (2)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/radart/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radart/)*

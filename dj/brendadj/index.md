@@ -1,19 +1,19 @@
 # Brenda.
 
-Brenda. is a Latin Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Union Pine, Portland on Sat, 31 Oct 2026.
+Brenda. is a Latin Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
 
-Brenda. is a latin bass and techno artist based in Colombia, with 62 gigs on soundcheck across Belgrade, Berlin, Bogotá and Boston and 19 more. Often billed alongside MARIA MANUELA, Aguirre and Ultrabruma. Next up: TBA - Union Pine, Portland on Sat 31 Oct.
+Brenda. is a latin bass and techno artist based in Colombia, with 62 gigs on soundcheck across Belgrade, Berlin, Bogotá and Boston and 19 more. Often billed alongside MARIA MANUELA, Aguirre and Ultrabruma. Next up: Nowadays, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Union Pine | Portland |
 | Sat, 7 Nov 2026 | Nowadays | New York City |
 | Fri, 13 Nov 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
+- TBA - Union Pine, Portland · Sat, 31 Oct 2026
 - TBA - 288 Green St, Cambridge, MA, Boston · Fri, 30 Oct 2026
 - TBA, Bogotá · Sat, 26 Sept 2026
 - Video Club, Bogotá · Sat, 19 Sept 2026
@@ -21,10 +21,9 @@ Brenda. is a latin bass and techno artist based in Colombia, with 62 gigs on sou
 - Badaboum, Paris · Fri, 24 Jul 2026
 - TBA - Daylight, Dublin · Sat, 11 Jul 2026
 - TBA - Epigmenio González 1080, Guadalajara · Fri, 19 Jun 2026
-- CHICO, Mexico City · Thu, 18 Jun 2026
 
 ## Shares bills with
 
 MARIA MANUELA, Aguirre, Ultrabruma
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brendadj/)*

@@ -1,20 +1,20 @@
 # Dungeon Meat
 
-Dungeon Meat is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TESTBED, Leeds on Sat, 31 Oct 2026.
+Dungeon Meat is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Digital, Newcastle on Fri, 13 Nov 2026.
 
-Dungeon Meat is a house and minimal artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Chicago and 17 more. Often billed alongside Tristan da Cunha, Brawther and Samuel Deep. Next up: TESTBED, Leeds on Sat 31 Oct.
+Dungeon Meat is a house and minimal artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Chicago and 17 more. Often billed alongside Tristan da Cunha, Brawther and Samuel Deep. Next up: Digital, Newcastle on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Fri, 13 Nov 2026 | Digital | Newcastle |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Fri, 18 Dec 2026 | The Loft | Manchester |
 
 ## Recently played
 
+- TESTBED, Leeds · Sat, 31 Oct 2026
 - Shelter Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - S.A.S.H in the Street, New-south-wales · Sun, 4 Oct 2026
 - Home The Venue, Sydney · Sun, 4 Oct 2026
@@ -22,10 +22,9 @@ Dungeon Meat is a house and minimal artist based in United Kingdom, with 66 gigs
 - La Terrrazza, Barcelona · Fri, 19 Jun 2026
 - Hazelwood Castle, Leeds · Sat, 30 May 2026
 - PROGRESS, Manchester · Sun, 3 May 2026
-- Club Colette, Birmingham · Sat, 2 May 2026
 
 ## Shares bills with
 
 Tristan da Cunha, Brawther, Samuel Deep
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmeat/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dungeonmeat/)*

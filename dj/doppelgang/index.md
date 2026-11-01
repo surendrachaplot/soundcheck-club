@@ -1,8 +1,8 @@
 # Doppelgang
 
-Doppelgang is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Grey Space In The Middle, The Hague on Sat, 7 Nov 2026.
+Doppelgang is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Grey Space In The Middle, The Hague on Sat, 7 Nov 2026.
 
-Doppelgang is a house and techno artist based in Netherlands, with 125 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 20 more. Often billed alongside TWIENA, Lola Edo and Elias Mazian. Next up: The Grey Space In The Middle, The Hague on Sat 7 Nov.
+Doppelgang is a house and techno artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 20 more. Often billed alongside TWIENA, Lola Edo and Elias Mazian. Next up: The Grey Space In The Middle, The Hague on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -19,13 +19,13 @@ Doppelgang is a house and techno artist based in Netherlands, with 125 gigs on s
 - TILLATEC, Amsterdam · Sat, 24 Oct 2026
 - SISSI'S Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Doka, Amsterdam · Sat, 17 Oct 2026
+- Borisov Amsterdam, Amsterdam · Sat, 10 Oct 2026
 - Shelter Amsterdam, Amsterdam · Fri, 9 Oct 2026
 - PIP Den Haag, The Hague · Sat, 12 Sept 2026
 - Kaiku, Helsinki · Sat, 5 Sept 2026
-- NAR, Utrecht · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 TWIENA, Lola Edo, Elias Mazian
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doppelgang/)*

@@ -1,14 +1,13 @@
 # Rote Sonne
 
-Rote Sonne is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "RS:CommunityWeekender - support your local subculture" on Fri, 30 Oct 2026.
+Rote Sonne is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "garryklein" on Wed, 4 Nov 2026.
 
-Rote Sonne is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including 9LALEY, Alicea, Amotik and ANASTASÍA and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Rote Sonne is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Amotik, Artifex (DE), Chet Rubbs and E2NMN and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | RS:CommunityWeekender - support your local subculture | 9LALEY, ANASTASÍA, Alicea, Aniza (DE), Chuha, Elleyza, Erhyc, JBox, Käthe & Haes, Lavandonia, Listenblondie, Rollo3000, SHAJAN, back2beanie, kamo. |
 | Wed, 4 Nov 2026 | garryklein |  |
 | Wed, 11 Nov 2026 | garryklein |  |
 | Sat, 28 Nov 2026 | Ritual I (24h) I Rhythm is Ritual | Amotik, Artifex (DE), Chet Rubbs, E2NMN, Goiaba, IZZYA, Impedance, Luka Jukic, Melchiorr, Nepōmuk, Stenny, WINDFUHR |
@@ -19,4 +18,4 @@ Rote Sonne is a music venue in Munich listed on soundcheck. 6 upcoming gigs, wit
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/rote-sonne/)*

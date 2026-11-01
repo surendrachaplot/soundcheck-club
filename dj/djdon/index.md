@@ -1,8 +1,8 @@
 # DJ Don
 
-DJ Don is a Bass and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Suns Shimokitazawa, Tokyo on Sat, 21 Nov 2026.
+DJ Don is a Bass and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Suns Shimokitazawa, Tokyo on Sat, 21 Nov 2026.
 
-DJ Don is a bass and afro house artist based in Japan, with 6 gigs on soundcheck across Lausanne, Osaka, Pittsburgh and Rio de Janeiro and 1 more. Often billed alongside Art (AU), HW BINGO and Namira. Next up: Suns Shimokitazawa, Tokyo on Sat 21 Nov.
+DJ Don is a bass and afro house artist based in Japan, with 7 gigs on soundcheck across Berlin, Lausanne, Osaka and Pittsburgh and 2 more. Often billed alongside Art (AU), Carluschka and DJ Don Höschen. Next up: Suns Shimokitazawa, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Don is a bass and afro house artist based in Japan, with 6 gigs on soundcheck
 ## Recently played
 
 - Triangle, Osaka · Fri, 30 Oct 2026
+- Spartacus Potsdam, Berlin · Sat, 3 Oct 2026
 - SideQuest on 44th, Pittsburgh · Sun, 9 Aug 2026
 - Brillobox, Pittsburgh · Fri, 5 Sept 2025
 - Kza Sal, Rio de Janeiro · Thu, 19 Jun 2025
@@ -20,6 +21,6 @@ DJ Don is a bass and afro house artist based in Japan, with 6 gigs on soundcheck
 
 ## Shares bills with
 
-Art (AU), HW BINGO, Namira
+Art (AU), Carluschka, DJ Don Höschen
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djdon/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdon/)*

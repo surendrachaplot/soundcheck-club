@@ -1,8 +1,8 @@
 # Jalo
 
-Jalo is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Room 2 Glasgow, Glasgow on Fri, 4 Dec 2026.
+Jalo is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Room 2 Glasgow, Glasgow on Fri, 4 Dec 2026.
 
-Jalo is a techno and minimal artist based in Turkey, with 11 gigs on soundcheck across Amsterdam, Antwerp, Budapest and Ghent and 4 more. Often billed alongside Baban, Jemmi and Merem. Next up: Room 2 Glasgow, Glasgow on Fri 4 Dec.
+Jalo is a techno and minimal artist based in Turkey, with 12 gigs on soundcheck across Amsterdam, Antwerp, Budapest and Cardiff and 5 more. Often billed alongside Baban, Jemmi and Merem. Next up: Room 2 Glasgow, Glasgow on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Jalo is a techno and minimal artist based in Turkey, with 11 gigs on soundcheck 
 
 ## Recently played
 
+- Cardiff Students' Union - Y Plas, Cardiff · Fri, 9 Oct 2026
 - Chinastraat, Ghent · Fri, 18 Sept 2026
 - Hangar 34, Liverpool · Sat, 15 Nov 2025
 - Toffler, Rotterdam · Fri, 8 Aug 2025
@@ -19,10 +20,9 @@ Jalo is a techno and minimal artist based in Turkey, with 11 gigs on soundcheck 
 - Toffler, Rotterdam · Fri, 14 Feb 2025
 - Suma Han, Istanbul · Sat, 26 Oct 2024
 - Club Hard, Antwerp · Fri, 16 Aug 2024
-- Suma Han, Istanbul · Fri, 9 Feb 2024
 
 ## Shares bills with
 
 Baban, Jemmi, Merem
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jalo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jalo/)*

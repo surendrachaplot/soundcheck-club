@@ -1,14 +1,13 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 19 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HYBRID: SZG" on Sat, 31 Oct 2026.
+Sala Cocó is a music venue in Madrid with 18 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "EXTENDED Benwal B2B Olive Anguz / Gerardo Niva / DJ SWISHERMAN B2B doccudder / Luca vd Hombergh" on Sun, 1 Nov 2026.
 
-Sala Cocó is a music venue in Madrid listed on soundcheck. 19 upcoming gigs, with line-ups including Benwal, Bushbaby, Clouds and DJ Heartstring and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
+Sala Cocó is a music venue in Madrid listed on soundcheck. 18 upcoming gigs, with line-ups including Benwal, Bushbaby, Clouds and DJ Heartstring and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | HYBRID: SZG | RODS (ES), SZG |
 | Sun, 1 Nov 2026 | EXTENDED Benwal B2B Olive Anguz / Gerardo Niva / DJ SWISHERMAN B2B doccudder / Luca vd Hombergh | Benwal, DJ SWISHERMAN, Gerardo Niva, Olive Anguz, doccudder |
 | Thu, 5 Nov 2026 | Bushbaby / Gerardo Niva / doccudder | Bushbaby, Gerardo Niva, doccudder |
 | Sat, 7 Nov 2026 | HYBRID: FØBIA (Hardbounce) | FØBIA, Køni |
@@ -18,9 +17,10 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 19 upcoming gigs, wi
 | Sat, 14 Nov 2026 | HYBRID: SMVGGLER | SMVGGLERS |
 | Sat, 14 Nov 2026 | Clouds / Gerardo Niva | Clouds, Gerardo Niva |
 | Thu, 19 Nov 2026 | Kara Okay / Gerardo Niva | Gerardo Niva, Kara Okay |
+| Sat, 21 Nov 2026 | HYBRID: SBTM | RODS (ES) |
 
 ## Address
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

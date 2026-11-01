@@ -1,14 +1,13 @@
 # Miscellania
 
-Miscellania is a music venue in Melbourne with 15 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Chuleo Club X VELVET AFTER MIDNIGHT: Halloween 2026" on Sat, 31 Oct 2026.
+Miscellania is a music venue in Melbourne with 14 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Party People: Secret Guest, Fetch, Miscmeg & Nino, Tackle (LIVE) & more" on Sun, 1 Nov 2026.
 
-Miscellania is a music venue in Melbourne listed on soundcheck. 15 upcoming gigs, with line-ups including Amphi, ATARANGI, b. caszh and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
+Miscellania is a music venue in Melbourne listed on soundcheck. 14 upcoming gigs, with line-ups including Amphi, ATARANGI, b. caszh and CCL and 2 more. See dates, start times and who's playing. 2/401 Swanston St, Melbourne VIC 3004.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Chuleo Club X VELVET AFTER MIDNIGHT: Halloween 2026 | LAZA (3), Linapary, Zalina |
 | Sun, 1 Nov 2026 | Party People: Secret Guest, Fetch, Miscmeg & Nino, Tackle (LIVE) & more | DJ Mum, Disgrays, Gillielove, Greer, Miscmeg, Twinsanity, eofy |
 | Fri, 6 Nov 2026 | Misc pres. Vladimir Ivkovic (all night long) | Vladimir Ivkovic |
 | Sat, 7 Nov 2026 | COWRY w/ C.FRIM, Cedar, Shuko & Shazzoh | C.FRIM, Cedar (2), Shuko |
@@ -18,9 +17,10 @@ Miscellania is a music venue in Melbourne listed on soundcheck. 15 upcoming gigs
 | Sat, 14 Nov 2026 | MUTATIONS WEEKENDER | CCL, Charms, DJ Mum, Emelyne, Gillielove, Kate Miller, Kiernan Laveaux, Moopie, Nerve, Piezo, Simo Cell, The Rat, dBridge |
 | Sun, 15 Nov 2026 | MUTATIONS WEEKENDER | CCL, DJ Mum, DJ Plead, Emelyne, Gillielove, Kate Miller, Moopie, Piezo, Simo Cell, dBridge |
 | Thu, 19 Nov 2026 | Aus.udg x H.O pres. 'The Haps' ft 4ORTTUNE, Kenny Bounce, ECO$YSTEM + more |  |
+| Fri, 20 Nov 2026 | Misc x Tribqu pres. Galcher Lustwerk LIVE | D. Tyrone, DJ Earl Grey, Galcher Lustwerk, Kuzco, Zjoso |
 
 ## Address
 
 2/401 Swanston St, Melbourne VIC 3004, Melbourne
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/miscellania/)*

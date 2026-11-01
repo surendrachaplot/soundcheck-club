@@ -1,14 +1,13 @@
 # So-Fi
 
-So-Fi is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
+So-Fi is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-So-Fi is a house and techno artist based in France, with 105 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 26 more. Often billed alongside Matthias, Ancut and Carl H. Next up: Signal, New York City on Fri 30 Oct.
+So-Fi is a house and techno artist based in France, with 105 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 26 more. Often billed alongside Matthias, Ancut and Carl H. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Signal | New York City |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sat, 28 Nov 2026 | TBA - Special Secret Garden. | Barcelona |
 | Sat, 5 Dec 2026 | Gaffe | London |
@@ -28,4 +27,4 @@ So-Fi is a house and techno artist based in France, with 105 gigs on soundcheck 
 
 Matthias (1), Ancut, Carl H
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/so-fi/)*

@@ -1,17 +1,13 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Maddix is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Maddix is a techno and trance artist based in Netherlands, with 198 gigs on soundcheck across Amsterdam, Arizona, Atlanta and Austin and 74 more. Often billed alongside The Rocketman, Billy Gillies and Lilly Palmer. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Maddix is a techno and trance artist based in Netherlands, with 198 gigs on soundcheck across Amsterdam, Arizona, Atlanta and Austin and 74 more. Often billed alongside The Rocketman, Billy Gillies and Lilly Palmer. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
-| Fri, 30 Oct 2026 | Westworld of Scottsdale | Arizona |
-| Sat, 31 Oct 2026 | Time Nightclub | Orange-county |
-| Sat, 31 Oct 2026 | Time Nightclub | Orange-county |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sun, 8 Nov 2026 | Margaritaville Resort Orlando | Orlando |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
@@ -22,17 +18,17 @@ Maddix is a techno and trance artist based in Netherlands, with 198 gigs on soun
 
 ## Recently played
 
+- Time Nightclub, Orange-county · Sat, 31 Oct 2026
+- Time Nightclub, Orange-county · Sat, 31 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Westworld of Scottsdale, Arizona · Fri, 30 Oct 2026
 - Plebiscytowa 5, Poland · Sat, 24 Oct 2026
 - H7 Warehouse, Amsterdam · Thu, 22 Oct 2026
 - TBA, Melbourne · Tue, 20 Oct 2026
 - TBA, Chicago · Sat, 10 Oct 2026
-- Odaiba Ultra Park, Tokyo · Sat, 19 Sept 2026
-- Vulkan Arena, Oslo · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 The Rocketman, Billy Gillies, Lilly Palmer
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

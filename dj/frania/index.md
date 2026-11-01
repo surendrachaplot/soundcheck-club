@@ -1,6 +1,6 @@
 # Frania
 
-Frania is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
+Frania is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
 
 Frania is a house and techno artist based in Romania, with 8 gigs on soundcheck across Berlin, Bucharest and Munich. Often billed alongside Chica Paula, Darie and Felix Hk. Next up: Golden Gate, Berlin on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Frania is a house and techno artist based in Romania, with 8 gigs on soundcheck 
 
 Chica Paula, Darie, Felix Hk
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frania/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frania/)*

@@ -1,6 +1,6 @@
 # Nico Ramírez
 
-Nico Ramírez is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Gallery, London on Sat, 7 Nov 2026.
+Nico Ramírez is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Gallery, London on Sat, 7 Nov 2026.
 
 Nico Ramírez is a tech house and minimal artist based in United Kingdom, with 9 gigs on soundcheck across London and Milan. Often billed alongside Ramoss, Ale Grooves and Pedro Villa. Next up: Gallery, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nico Ramírez is a tech house and minimal artist based in United Kingdom, with 9
 
 Ramoss, Ale Grooves, Pedro Villa
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoramírez/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoramírez/)*

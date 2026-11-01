@@ -1,6 +1,6 @@
 # Genji
 
-Genji is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Dual, Bangkok on Sat, 7 Nov 2026.
+Genji is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Dual, Bangkok on Sat, 7 Nov 2026.
 
 Genji is a club and bass artist based in Thailand, with 22 gigs on soundcheck across Bangkok. Often billed alongside OXYBOY, JWP. and .g (TH). Next up: Dual, Bangkok on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Genji is a club and bass artist based in Thailand, with 22 gigs on soundcheck ac
 
 OXYBOY, JWP., .g (TH)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genji/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genji/)*

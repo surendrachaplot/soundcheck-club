@@ -1,15 +1,13 @@
 # Azyr
 
-Azyr is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Azyr is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
-Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, Charlie Sparks and I Hate Models. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, Charlie Sparks and I Hate Models. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | NOS Event Center | Los Angeles |
-| Fri, 30 Oct 2026 | Wamu Theatre | Seattle |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 7 Nov 2026 | NX Newcastle | Newcastle |
 | Fri, 13 Nov 2026 | Club Cultural Lima | Peru |
@@ -36,4 +34,4 @@ Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soun
 
 LESSSS, Charlie Sparks, I Hate Models
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

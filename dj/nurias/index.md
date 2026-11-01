@@ -1,20 +1,20 @@
 # Nurias
 
-Nurias is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Cadavra, Madrid on Sat, 31 Oct 2026.
+Nurias is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cadavra, Madrid on Sat, 7 Nov 2026.
 
-Nurias is an electronica and house artist based in Spain, with 45 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Avo (ES), Cesc (ES) and Luska. Next up: Cadavra, Madrid on Sat 31 Oct.
+Nurias is an electronica and house artist based in Spain, with 45 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Avo (ES), Cesc (ES) and Luska. Next up: Cadavra, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Cadavra | Madrid |
 | Sat, 7 Nov 2026 | Cadavra | Madrid |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 | Fri, 5 Mar 2027 | Cadavra | Madrid |
 
 ## Recently played
 
+- Cadavra, Madrid · Sat, 31 Oct 2026
 - Cadavra, Madrid · Fri, 18 Sept 2026
 - Village Underground Barcelona, Barcelona · Sat, 12 Sept 2026
 - Cadavra, Madrid · Fri, 7 Aug 2026
@@ -22,10 +22,9 @@ Nurias is an electronica and house artist based in Spain, with 45 gigs on soundc
 - Specka, Madrid · Sat, 6 Jun 2026
 - Cadavra, Madrid · Fri, 22 May 2026
 - Cadavra, Madrid · Fri, 3 Apr 2026
-- Cadavra, Madrid · Sat, 7 Mar 2026
 
 ## Shares bills with
 
 Avo (ES), Cesc (ES), Luska
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nurias/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nurias/)*

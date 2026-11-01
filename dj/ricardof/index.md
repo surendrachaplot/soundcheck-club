@@ -1,14 +1,15 @@
 # Ricardo F
 
-Ricardo F is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at M7 Club, Barcelona on Sat, 21 Nov 2026.
+Ricardo F is a Electronica and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at M7 Club, Barcelona on Sat, 21 Nov 2026.
 
-Ricardo F is an electronica and trance artist based in Spain, with 21 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Frank Trax, Marian Dacal and Ruben XXL. Next up: M7 Club, Barcelona on Sat 21 Nov.
+Ricardo F is an electronica and trance artist based in Spain, with 22 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Frank Trax, Marian Dacal and DJ Marta. Next up: M7 Club, Barcelona on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | M7 Club | Barcelona |
+| Sat, 30 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ricardo F is an electronica and trance artist based in Spain, with 21 gigs on so
 
 ## Shares bills with
 
-Frank Trax, Marian Dacal, Ruben XXL
+Frank Trax, Marian Dacal, DJ Marta
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardof/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardof/)*

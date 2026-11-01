@@ -1,14 +1,15 @@
 # Esilise
 
-Esilise is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Mia Mao, Paris on Thu, 12 Nov 2026.
+Esilise is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Mia Mao, Paris on Thu, 12 Nov 2026.
 
-Esilise is a techno and industrial artist based in France, with 51 gigs on soundcheck across Barcelona, Basel, Berlin and Budapest and 11 more. Often billed alongside Krypton, NICE KEED and DYEN. Next up: Mia Mao, Paris on Thu 12 Nov.
+Esilise is a techno and industrial artist based in France, with 52 gigs on soundcheck across Barcelona, Basel, Berlin and Budapest and 12 more. Often billed alongside Krypton, NICE KEED and DYEN. Next up: Mia Mao, Paris on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Mia Mao | Paris |
+| Sat, 28 Nov 2026 | Switch | South-east |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Esilise is a techno and industrial artist based in France, with 51 gigs on sound
 
 Krypton, NICE KEED, DYEN
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esilise/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esilise/)*

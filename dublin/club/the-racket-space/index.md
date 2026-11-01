@@ -1,6 +1,6 @@
 # The Racket Space
 
-The Racket Space is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "MAZE X & AURA909 - HALLOWEEN NIGHT TECHNO" on Sat, 31 Oct 2026.
+The Racket Space is a music venue in Dublin with 14 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "TUDJ x Grassroots Ave" on Thu, 5 Nov 2026.
 
 The Racket Space is a music venue in Dublin listed on soundcheck. 14 upcoming gigs, with line-ups including Alexander Skancke, Andre Zimmer, Billy Spike Iland and Dorian Concept and 2 more. See dates, start times and who's playing. Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44.
 
@@ -8,7 +8,6 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 14 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | MAZE X & AURA909 - HALLOWEEN NIGHT TECHNO |  |
 | Thu, 5 Nov 2026 | TUDJ x Grassroots Ave |  |
 | Fri, 6 Nov 2026 | DOT. presents: Andre Zimmer  | Andre Zimmer |
 | Sat, 7 Nov 2026 | UPHONY PRESENTS: THE LAST DANCE |  |
@@ -18,9 +17,10 @@ The Racket Space is a music venue in Dublin listed on soundcheck. 14 upcoming gi
 | Fri, 20 Nov 2026 | DirtyDogs |  |
 | Sat, 21 Nov 2026 | Bread & Butter II | Emma Kearns, Tunney |
 | Sat, 28 Nov 2026 | Racket Space presents: Skeptic | Skeptic |
+| Sat, 5 Dec 2026 | Shed | Billy Spike Iland, Shed |
 
 ## Address
 
 Cross Guns Bridge, Drumcondra, Dublin 9, D09 XW44, Dublin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-racket-space/)*

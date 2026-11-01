@@ -1,14 +1,13 @@
 # Yes
 
-Yes is a music venue in Manchester with 17 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "365 Party Ghouls: Halloween" on Sat, 31 Oct 2026.
+Yes is a music venue in Manchester with 16 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Grey Lantern presents: Maria BC / Sara Wolff" on Wed, 4 Nov 2026.
 
-Yes is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with line-ups including Aiden Francis, Cameo Blush, Conducta and Elkka and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
+Yes is a music venue in Manchester listed on soundcheck. 16 upcoming gigs, with line-ups including Aiden Francis, Cameo Blush, Conducta and Elkka and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | 365 Party Ghouls: Halloween | kaoti |
 | Wed, 4 Nov 2026 | Grey Lantern presents: Maria BC / Sara Wolff | Sara Wolff |
 | Fri, 6 Nov 2026 | Elkka + Aiden Francis - Yes Basement | Aiden Francis, Elkka |
 | Sat, 7 Nov 2026 | Jeshi + Cameo Blush - Yes Basement | Cameo Blush, Jeshi |
@@ -18,9 +17,10 @@ Yes is a music venue in Manchester listed on soundcheck. 17 upcoming gigs, with 
 | Sat, 21 Nov 2026 | 10 Years of Deptford Northern Soul Club |  |
 | Tue, 24 Nov 2026 | System Olympia (Live) | System Olympia |
 | Wed, 25 Nov 2026 | KILIMANJARO Live | KILIMANJARO |
+| Fri, 27 Nov 2026 | Laurence Guy | Laurence Guy |
 
 ## Address
 
 38 Charles Street Manchester, M1 7BD, United Kingdom, Manchester
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/yes/)*

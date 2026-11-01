@@ -1,6 +1,6 @@
 # Sinmo
 
-Sinmo is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 7 Nov 2026.
+Sinmo is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sekta Selekta, Krakow on Sat, 7 Nov 2026.
 
 Sinmo is a tech house and electro artist, with 11 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Buchan, Abuelita and Animistic Beliefs. Next up: Sekta Selekta, Krakow on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sinmo is a tech house and electro artist, with 11 gigs on soundcheck across Krak
 
 Buchan, Abuelita, Animistic Beliefs
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinmo/)*

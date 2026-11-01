@@ -1,14 +1,13 @@
 # Marco Faraone
 
-Marco Faraone is a Techno and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Recinto Iberdrola Music, Madrid on Sat, 31 Oct 2026.
+Marco Faraone is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Clwd, Sofia on Sat, 14 Nov 2026.
 
-Marco Faraone is a techno and tech house artist based in Italy, with 161 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 44 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Recinto Iberdrola Music, Madrid on Sat 31 Oct.
+Marco Faraone is a techno and tech house artist based in Italy, with 161 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 44 more. Often billed alongside Mar-T, Luca Donzelli and CAAL. Next up: Clwd, Sofia on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Recinto Iberdrola Music | Madrid |
 | Sat, 14 Nov 2026 | Clwd | Sofia |
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Sat, 28 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
@@ -18,6 +17,7 @@ Marco Faraone is a techno and tech house artist based in Italy, with 161 gigs on
 
 ## Recently played
 
+- Recinto Iberdrola Music, Madrid · Sat, 31 Oct 2026
 - Kristal Club, Bucharest · Fri, 30 Oct 2026
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - The Range, Turin · Fri, 9 Oct 2026
@@ -25,10 +25,9 @@ Marco Faraone is a techno and tech house artist based in Italy, with 161 gigs on
 - Baby Club, Marseille · Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
 - fabric, London · Sat, 19 Sept 2026
-- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 Mar-T, Luca Donzelli, CAAL
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcofaraone/)*

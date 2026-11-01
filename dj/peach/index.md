@@ -1,14 +1,13 @@
 # Peach
 
-Peach is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Macadam, Nantes on Sat, 31 Oct 2026.
+Peach is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 6 Nov 2026.
 
-Peach is a house and techno artist based in Canada, with 240 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 63 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Macadam, Nantes on Sat 31 Oct.
+Peach is a house and techno artist based in Canada, with 241 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 63 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Cobalt Studios, Newcastle on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Macadam | Nantes |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 | Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
@@ -20,20 +19,21 @@ Peach is a house and techno artist based in Canada, with 240 gigs on soundcheck 
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 | Sat, 6 Mar 2027 | Meredith Supernatural Ampitheatre | Melbourne |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- Macadam, Nantes · Sat, 31 Oct 2026
 - Strange Brew, Bristol · Fri, 30 Oct 2026
 - FOLD, London · Sat, 24 Oct 2026
 - Klaproos, Amsterdam · Fri, 23 Oct 2026
 - Pllek, Amsterdam · Thu, 22 Oct 2026
 - Nowadays, New York City · Sat, 17 Oct 2026
+- TBA - Near/FAW/Wherever You Are, New York City · Sat, 17 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
-- Jolene Downtown Miami, Miami · Thu, 15 Oct 2026
-- Backsteinboot, Berlin · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

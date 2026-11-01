@@ -1,8 +1,8 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HERZ & SEELE w./ Kaufmann, Karla Blum, Konfusia, tim|bre" on Fri, 6 Nov 2026.
+Fridas Pier is a music venue in Stuttgart with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "HERZ & SEELE w./ Kaufmann, Karla Blum, Konfusia, tim|bre" on Fri, 6 Nov 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 14 upcoming gigs, with line-ups including Bjørnson, Danilo Filipe, Dejago and Domenic D'Agnelli and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 15 upcoming gigs, with line-ups including Bjørnson, Danilo Filipe, Dejago and DJ Gysi and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 14 upcoming gigs
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

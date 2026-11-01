@@ -1,14 +1,13 @@
 # Post Bar
 
-Post Bar is a music venue in Helsinki with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Post Bar Halloween Half-Marathon" on Sat, 31 Oct 2026.
+Post Bar is a music venue in Helsinki with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "FREE PARTY – HiToshi, DJ Aleksi, Hanna Ojanen" on Fri, 6 Nov 2026.
 
-Post Bar is a music venue in Helsinki listed on soundcheck. 11 upcoming gigs, with line-ups including Aurora Halal, Daniel Kayrouz, Denzel and Desto and 2 more. See dates, start times and who's playing. Kaikukatu 2.
+Post Bar is a music venue in Helsinki listed on soundcheck. 10 upcoming gigs, with line-ups including Aurora Halal, Daniel Kayrouz, Denzel and Desto and 2 more. See dates, start times and who's playing. Kaikukatu 2.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Post Bar Halloween Half-Marathon | Jeku, Joni DJ, Justus Valtanen, Laura MRLS, Ojelma, Sepehr |
 | Fri, 6 Nov 2026 | FREE PARTY – HiToshi, DJ Aleksi, Hanna Ojanen | DJ Aleksi, Hanna Ojanen, HiToshi |
 | Sat, 7 Nov 2026 | RADC Kekri Yö — Natural (Live), Hylke, saffet, Paula Koski, una | Hylke, Paula Koski, una (1) |
 | Fri, 13 Nov 2026 | DEFRAGGED invites: ⁠Kameliia, undrtow, Ozan, Tatu, ⁠⁠Idamine | Kameliia, Ozan, Tatu, undrtow |
@@ -18,9 +17,10 @@ Post Bar is a music venue in Helsinki listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 27 Nov 2026 | Club Analogia — Eduardo de la Calle, una & Justus Valtanen, Ojelma & Emma Valtonen | Eduardo de la Calle, Emma Valtonen, Justus Valtanen, Ojelma, una (1) |
 | Sat, 28 Nov 2026 | Club2ᴋ dubstep takeover: Soa420, Desto b2b Mary Young, Nea2ᴋ | Desto, Mary Young, Nea2k, Soa420 |
 | Fri, 18 Dec 2026 | Post Bar Club Night – Aurora Halal, Sansibar & IDA & more | Aurora Halal, Ida (CH), Sansibar |
+| Sat, 26 Dec 2026 | Post Bar Posse | Denzel, Joni DJ, Justus Valtanen |
 
 ## Address
 
 Kaikukatu 2, Helsinki
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/post-bar/)*

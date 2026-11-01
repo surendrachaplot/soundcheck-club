@@ -1,6 +1,6 @@
 # RSquared
 
-RSquared is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+RSquared is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 RSquared is a tech house and house artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brisbane and 20 more. Often billed alongside Paco Osuna, Iglesias and Fatzo. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ RSquared is a tech house and house artist based in United Kingdom, with 62 gigs 
 
 Paco Osuna, Iglesias, Fatzo
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rsquared/)*

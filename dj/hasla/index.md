@@ -1,14 +1,13 @@
 # HASLA
 
-HASLA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Blank Site, Seoul on Fri, 30 Oct 2026.
+HASLA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Seoul Community Radio, Seoul on Sun, 8 Nov 2026.
 
-HASLA is a techno and house artist based in South Korea, with 25 gigs on soundcheck across Berlin, Seoul, Tokyo and Vilnius. Often billed alongside VOID (KR), Kim.Qna and Berlin Bunny. Next up: Blank Site, Seoul on Fri 30 Oct.
+HASLA is a techno and house artist based in South Korea, with 25 gigs on soundcheck across Berlin, Seoul, Tokyo and Vilnius. Often billed alongside VOID (KR), Kim.Qna and Berlin Bunny. Next up: Seoul Community Radio, Seoul on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Blank Site | Seoul |
 | Sun, 8 Nov 2026 | Seoul Community Radio | Seoul |
 | Thu, 12 Nov 2026 | Elastica | Vilnius |
 | Fri, 20 Nov 2026 | OXI | Berlin |
@@ -28,4 +27,4 @@ HASLA is a techno and house artist based in South Korea, with 25 gigs on soundch
 
 VOID (KR), Kim.Qna, Berlin Bunny
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hasla/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hasla/)*

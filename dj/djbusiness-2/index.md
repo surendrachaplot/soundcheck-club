@@ -1,14 +1,13 @@
 # DJ Business (2)
 
-DJ Business (2) is a House and Bass artist with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Broncos, Hannover on Sat, 31 Oct 2026.
+DJ Business (2) is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Kurt & Komisch, Bavaria on Fri, 6 Nov 2026.
 
-DJ Business is a house and bass artist based in Germany, with 64 gigs on soundcheck across Basel, Bavaria, Berlin and Cologne and 10 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: Broncos, Hannover on Sat 31 Oct.
+DJ Business is a house and bass artist based in Germany, with 64 gigs on soundcheck across Basel, Bavaria, Berlin and Cologne and 10 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: Kurt & Komisch, Bavaria on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Broncos | Hannover |
 | Fri, 6 Nov 2026 | Kurt & Komisch | Bavaria |
 | Fri, 13 Nov 2026 | C2 OST | Karlsruhe |
 | Sat, 28 Nov 2026 | MS Stubnitz | Hamburg |
@@ -17,6 +16,7 @@ DJ Business is a house and bass artist based in Germany, with 64 gigs on soundch
 
 ## Recently played
 
+- Broncos, Hannover · Sat, 31 Oct 2026
 - Paloma, Berlin · Thu, 29 Oct 2026
 - Goldener Reiter, Munich · Sat, 17 Oct 2026
 - Garagen, Cologne · Sat, 10 Oct 2026
@@ -24,10 +24,9 @@ DJ Business is a house and bass artist based in Germany, with 64 gigs on soundch
 - Goldener Reiter, Munich · Sat, 22 Aug 2026
 - Humboldthain Club, Berlin · Sat, 18 Jul 2026
 - Goldener Reiter, Munich · Fri, 19 Jun 2026
-- elipamanoke, Leipzig · Fri, 8 May 2026
 
 ## Shares bills with
 
 Wall Ra, Carl Hang, Sophti
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*

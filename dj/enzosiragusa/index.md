@@ -1,14 +1,13 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at NX Newcastle, Newcastle on Sat, 31 Oct 2026.
+Enzo Siragusa is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Flash, Washington DC on Fri, 13 Nov 2026.
 
-Enzo Siragusa is a house and tech house artist based in United Kingdom, with 206 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 45 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: NX Newcastle, Newcastle on Sat 31 Oct.
+Enzo Siragusa is a house and tech house artist based in United Kingdom, with 206 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 45 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: Flash, Washington DC on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | NX Newcastle | Newcastle |
 | Fri, 13 Nov 2026 | Flash | Washington DC |
 | Sat, 14 Nov 2026 | Refuge | New York City |
 | Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
@@ -20,6 +19,7 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 206
 
 ## Recently played
 
+- NX Newcastle, Newcastle · Sat, 31 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - block., Dublin · Fri, 9 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
@@ -27,10 +27,9 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 206
 - Mint XL, Leeds · Fri, 25 Sept 2026
 - UNO MALTA, Malta · Fri, 18 Sept 2026
 - UNO MALTA, Malta · Thu, 17 Sept 2026
-- Amnesia Ibiza, Ibiza · Thu, 3 Sept 2026
 
 ## Shares bills with
 
 Laidlaw, Traumer, Rossi
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

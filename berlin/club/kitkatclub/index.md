@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Disco Bizarre: Poking Fun at Halloween" on Sat, 31 Oct 2026.
+KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Nachspiel" on Sun, 1 Nov 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alex Nantaya and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -8,7 +8,6 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Disco Bizarre: Poking Fun at Halloween | Ben Gomori, Bizarre Billy, Marvel83', Queen E |
 | Sun, 1 Nov 2026 | Nachspiel | GALAGO (BE), Jaxter |
 | Mon, 2 Nov 2026 | Electric Monday@Kitkat | André Lodemann, Frankie Flowerz, Milk N Coffee, Ricardo Rodriguez |
 | Wed, 4 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | CHVZ.722, DJ Jordan, Kalimanda, Sin:port |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, wi
 | Mon, 9 Nov 2026 | Electric Monday@KitKat | Frankie Flowerz, Ludmila Houben, Ricardo Rodriguez |
 | Wed, 11 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Heepmann, LadyBird aka C.J. Parker, maniaclina |
 | Thu, 12 Nov 2026 | PSYCHO Collage | Ari Denaro |
+| Fri, 13 Nov 2026 | GEGEN SPORTS | AAguilAA, BOYCA, Buday, Byron Yeates, CHRANDY, Citizens Union, Cristian Marras, IVRA, Juan Cernadas, Liad Krispin, Lucas Abadi, PLATTER, Schacke, androgienia, g3kko |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

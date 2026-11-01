@@ -1,14 +1,13 @@
 # public records
 
-public records is a music venue in New York City with 26 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Dope Jams Halloween Ball / Turtle Bugg, 4AM NYC / GE-OLOGY" on Sat, 31 Oct 2026.
+public records is a music venue in New York City with 25 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Conducta b2b AceMo, Surusinghe / x3butterfly b2b Physical Therapy, Conducta" on Sun, 1 Nov 2026.
 
-public records is a music venue in New York City listed on soundcheck. 26 upcoming gigs, with line-ups including 320, 4AM NYC, MORENXXX and Abby Echiverri and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
+public records is a music venue in New York City listed on soundcheck. 25 upcoming gigs, with line-ups including 320, MORENXXX, Abby Echiverri and AceMo and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Dope Jams Halloween Ball / Turtle Bugg, 4AM NYC / GE-OLOGY | 4AM NYC, Ge-ology, Paul Nickerson, Turtle Bugg |
 | Sun, 1 Nov 2026 | Conducta b2b AceMo, Surusinghe / x3butterfly b2b Physical Therapy, Conducta | AceMo, Conducta, Physical Therapy, Surusinghe, x3butterfly |
 | Thu, 5 Nov 2026 | Mousse T. | Mousse T. |
 | Fri, 6 Nov 2026 | Clone Records: Serge, Afra / Detroit In Effect, Ak-4ya / Louise Chen | Afra, Ak-4ya, Detroit In Effect, Louise Chen, Serge |
@@ -18,9 +17,10 @@ public records is a music venue in New York City listed on soundcheck. 26 upcomi
 | Mon, 9 Nov 2026 | DURATIONS: William Basinski, Cholla | William Basinski |
 | Tue, 10 Nov 2026 | DURATIONS: William Basinski, muein | William Basinski |
 | Wed, 11 Nov 2026 | DURATIONS: William Basinski, Chantal Michelle | Chantal Michelle, William Basinski |
+| Thu, 12 Nov 2026 | DURATIONS: Ballet: Buttechno, Klein, Matana Roberts & Lesley Mok, Significant Other | Buttechno, Klein, Matana Roberts, Significant Other |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

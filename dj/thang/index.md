@@ -1,18 +1,18 @@
 # Thang
 
-Thang is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ampere, Antwerp on Sat, 31 Oct 2026.
+Thang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Amigo, Ghent on Thu, 31 Dec 2026.
 
-Thang is a house and disco artist based in Belgium, with 40 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris and 2 more. Often billed alongside Kenny Montana, John Noseda and Bafana. Next up: Ampere, Antwerp on Sat 31 Oct.
+Thang is a house and disco artist based in Belgium, with 40 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris and 2 more. Often billed alongside Kenny Montana, John Noseda and Bafana. Next up: Amigo, Ghent on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Ampere | Antwerp |
 | Thu, 31 Dec 2026 | Amigo | Ghent |
 
 ## Recently played
 
+- Ampere, Antwerp · Sat, 31 Oct 2026
 - Funke, Ghent · Sat, 15 Aug 2026
 - Vanhaerents Art Collection, Brussels · Fri, 31 Jul 2026
 - TBA - Vlasmarkt, Ghent · Sat, 25 Jul 2026
@@ -20,10 +20,9 @@ Thang is a house and disco artist based in Belgium, with 40 gigs on soundcheck a
 - Kompass Klub, Ghent · Sat, 18 Apr 2026
 - Amigo, Ghent · Fri, 20 Mar 2026
 - TBA - Ghent, Ghent · Fri, 20 Feb 2026
-- TBA, Ghent · Fri, 20 Feb 2026
 
 ## Shares bills with
 
 Kenny Montana, John Noseda, Bafana
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thang/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thang/)*

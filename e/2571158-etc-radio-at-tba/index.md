@@ -1,6 +1,6 @@
 # etc radio at TBA
 
-etc radio at TBA on Fri 18 Dec, Chicago. 1 artist: m50. Ambient and Acid. See the line-up on soundcheck.
+etc radio at TBA on Fri 18 Dec, Chicago. 2 artists: m50 and Milieu. Ambient and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ etc radio at TBA on Fri 18 Dec, Chicago. 1 artist: m50. Ambient and Acid. See th
 ## Line-up
 
 - m50
+- Milieu
 
 *Source: [soundcheck](https://soundcheck.club/e/2571158-etc-radio-at-tba/)*

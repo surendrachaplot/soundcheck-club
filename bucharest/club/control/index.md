@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 12 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Cabinet Caligari: David Carretta, La Mverte, Walentin Pauer & Nek, Moss Farai & DeNada" on Sat, 31 Oct 2026.
+control is a music venue in Bucharest with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ctrl LIVE: #FLUID- „all that is solid melts into air' Album Launch" on Wed, 4 Nov 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 12 upcoming gigs, with line-ups including Actress, Admina, Bjørn Torske and Borusiade and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -8,7 +8,6 @@ control is a music venue in Bucharest listed on soundcheck. 12 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Cabinet Caligari: David Carretta, La Mverte, Walentin Pauer & Nek, Moss Farai & DeNada | David Carretta, La Mverte, Moss Farai |
 | Wed, 4 Nov 2026 | ctrl LIVE: #FLUID- „all that is solid melts into air' Album Launch | Admina |
 | Thu, 5 Nov 2026 | ctrl x ICHIGO: Roger Rabbit with Marcia Carr [UK] & Xena | Marcia Carr |
 | Fri, 6 Nov 2026 | Reka Zalan [DE], Commissar Lag [RS] & Carmen | Commissar  Lag, Reka Zalan |
@@ -18,9 +17,10 @@ control is a music venue in Bucharest listed on soundcheck. 12 upcoming gigs, wi
 | Fri, 13 Nov 2026 | Years of Denial [LIVE], Lena Willikens, Borusiade, Bjørn Torske, Călin, Irina Mele | Bjørn Torske, Borusiade, Lena Willikens, Years of Denial |
 | Thu, 19 Nov 2026 | Two Wrongs: Actress | Actress |
 | Fri, 20 Nov 2026 | Wata Igarashi [JP] | Wata Igarashi |
+| Sat, 21 Nov 2026 | ctrl x inTension x RTF with Greg Downey [UK/ES], dragosh, SkyDreamer | Greg Downey, dragosh (RO) |
 
 ## Address
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

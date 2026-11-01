@@ -1,14 +1,13 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 20 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "ENSITE 4 Year Anniversary with Mareena (Tresor, Unrush, Fides)" on Sat, 31 Oct 2026.
+Circus Osaka is a music venue in Osaka with 19 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Craig Richards" on Mon, 2 Nov 2026.
 
-Circus Osaka is a music venue in Osaka listed on soundcheck. 20 upcoming gigs, with line-ups including AI, Alex Neri, Al Jones and AOKI takamasa and 2 more. See dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
+Circus Osaka is a music venue in Osaka listed on soundcheck. 19 upcoming gigs, with line-ups including Alex Neri, Al Jones, AOKI takamasa and Baldo and 2 more. See dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | ENSITE 4 Year Anniversary with Mareena (Tresor, Unrush, Fides) | AI (10), Isshin, Kotaro Shimizu, Lynta, Mareena, Yui (JP), tnseei |
 | Mon, 2 Nov 2026 | Craig Richards | AOKI takamasa, Craig Richards |
 | Mon, 2 Nov 2026 | Craig Richards | AOKI takamasa, Craig Richards, SAMO (JP) |
 | Thu, 5 Nov 2026 | Sandrien | Sandrien, YAMA(JP/OSK) |
@@ -18,9 +17,10 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 20 upcoming gigs, w
 | Sat, 14 Nov 2026 | LYNY Osaka show | SAKO |
 | Sat, 14 Nov 2026 | Sleep D | Ground (1), Lomax, Sleep D |
 | Sun, 15 Nov 2026 | #MADWANT | Cuttenimid |
+| Thu, 19 Nov 2026 | Yo Speed × Awesome 5th Party | Yo Speed |
 
 ## Address
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

@@ -1,14 +1,13 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Otto Wagner Areal, Vienna on Sat, 31 Oct 2026.
+dj sweet6teen is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Badaboum, Paris on Fri, 6 Nov 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, with 273 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Gene On Earth. Next up: Otto Wagner Areal, Vienna on Sat 31 Oct.
+dj sweet6teen is a house and techno artist based in Germany, with 273 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Gene On Earth. Next up: Badaboum, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Otto Wagner Areal | Vienna |
 | Fri, 6 Nov 2026 | Badaboum | Paris |
 | Sat, 7 Nov 2026 | C12 | Brussels |
 | Fri, 13 Nov 2026 | The Loft | Manchester |
@@ -20,9 +19,11 @@ dj sweet6teen is a house and techno artist based in Germany, with 273 gigs on so
 | Sat, 19 Dec 2026 | Gewölbe | Cologne |
 | Fri, 25 Dec 2026 | REC Napoli | Naples |
 | Sun, 27 Dec 2026 | Thuishaven | Amsterdam |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- Otto Wagner Areal, Vienna · Sat, 31 Oct 2026
 - FORGE, Sheffield · Fri, 30 Oct 2026
 - Robert Johnson, Hesse · Sat, 24 Oct 2026
 - Pllek, Amsterdam · Thu, 22 Oct 2026
@@ -30,10 +31,9 @@ dj sweet6teen is a house and techno artist based in Germany, with 273 gigs on so
 - Under The Arches, Leeds · Sat, 17 Oct 2026
 - ZENNER, Berlin · Fri, 16 Oct 2026
 - Minimüzikhol, Istanbul · Fri, 9 Oct 2026
-- Club Guesthouse, Bucharest · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Angel D'lite, Peach, Gene On Earth
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

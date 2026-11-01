@@ -1,14 +1,13 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Kastel #KLUBNIGHTSERIES: HALLOWEEN WEEKEND CHAPTER 2" on Sat, 31 Oct 2026.
+Kastel is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Kastel #WAREHOUSESERIES: Oliver Huntemann" on Sat, 7 Nov 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with line-ups including Adana Twins, Dixon, Manendria and Oliver Huntemann and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including Adana Twins, Dixon, Oliver Huntemann and People Like Us and 1 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Kastel #KLUBNIGHTSERIES: HALLOWEEN WEEKEND CHAPTER 2 | Manendria, Volkan Gunduz |
 | Sat, 7 Nov 2026 | Kastel #WAREHOUSESERIES: Oliver Huntemann | Oliver Huntemann |
 | Sat, 14 Nov 2026 | PEOPLE LIKE US (all night long) | People Like Us (3) |
 | Fri, 20 Nov 2026 | Adana Twins — PRESENTED BY THE FALLS | Adana Twins |
@@ -18,4 +17,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 5 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

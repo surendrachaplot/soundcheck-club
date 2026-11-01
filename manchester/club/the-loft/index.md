@@ -1,6 +1,6 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "The Loft: Objekt, Kasra V b2b Sepehr & Zuri" on Fri, 6 Nov 2026.
+The Loft is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "The Loft: Objekt, Kasra V b2b Sepehr & Zuri" on Fri, 6 Nov 2026.
 
 The Loft is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including 2 Bad Mice, Alexander Skancke, Alexia Glensy and Captain Wallop and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
@@ -23,4 +23,4 @@ The Loft is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, 
 
 Unit 1, New Street, Manchester, M40 8AW, Manchester
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-loft/)*

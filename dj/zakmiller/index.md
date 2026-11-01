@@ -1,19 +1,19 @@
 # Zak Miller
 
-Zak Miller is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 31 Oct 2026.
+Zak Miller is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Ninety One, London on Sat, 7 Nov 2026.
 
-Zak Miller is a house and garage artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside Alfaz, Bear Winder and A Hard Day's Dance. Next up: Starlane Pizza Bar, London on Sat 31 Oct.
+Zak Miller is a house and garage artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside Alfaz, Bear Winder and A Hard Day's Dance. Next up: Ninety One, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 7 Nov 2026 | Ninety One | London |
 | Fri, 20 Nov 2026 | Grow | London |
 
 ## Recently played
 
+- Starlane Pizza Bar, London · Sat, 31 Oct 2026
 - Basing House, London · Sat, 22 Aug 2026
 - Starlane Pizza Bar, London · Sat, 22 Aug 2026
 - The Glove That Fits, London · Sun, 16 Aug 2026
@@ -21,10 +21,9 @@ Zak Miller is a house and garage artist based in United Kingdom, with 21 gigs on
 - Two Tribes CAMPFIRE, London · Fri, 24 Jul 2026
 - 93 Feet East, London · Sat, 6 Jun 2026
 - The Greyhound, London · Sat, 30 May 2026
-- Night Tales Loft, London · Fri, 17 Apr 2026
 
 ## Shares bills with
 
 Alfaz, Bear Winder, A Hard Day's Dance
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zakmiller/)*

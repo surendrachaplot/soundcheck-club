@@ -1,6 +1,6 @@
 # The Social
 
-The Social is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Gloop Unit Single Release Show" on Thu, 5 Nov 2026.
+The Social is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Gloop Unit Single Release Show" on Thu, 5 Nov 2026.
 
 The Social is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Abby Daze, Ben Repertoire, CHÉ WAX and Dj magic touch and 2 more. See dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
@@ -18,4 +18,4 @@ The Social is a music venue in London listed on soundcheck. 5 upcoming gigs, wit
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

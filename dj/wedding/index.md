@@ -1,8 +1,8 @@
 # Wedding
 
-Wedding is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Den Anden Side, Copenhagen on Sat, 7 Nov 2026.
+Wedding is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 7 Nov 2026.
 
-Wedding is an experimental and techno artist, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Astrid Engberg, Dj Algorythm and dragongirl. Next up: Den Anden Side, Copenhagen on Sat 7 Nov.
+Wedding is an experimental and techno artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Astrid Engberg, Dj Algorythm and dragongirl. Next up: Den Anden Side, Copenhagen on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Wedding is an experimental and techno artist, with 8 gigs on soundcheck across C
 
 Astrid Engberg, Dj Algorythm, dragongirl
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wedding/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wedding/)*

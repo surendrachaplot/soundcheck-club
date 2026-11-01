@@ -1,14 +1,13 @@
 # FORGE
 
-FORGE is a music venue in Sheffield with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "FEARFEST After Party" on Sat, 31 Oct 2026.
+FORGE is a music venue in Sheffield with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Queers For Beers x FORGE = DJ Fuckoff, SYNTAX, dj egoshooter ೃ⁀➷" on Fri, 6 Nov 2026.
 
-FORGE is a music venue in Sheffield listed on soundcheck. 6 upcoming gigs, with line-ups including Adam F, adamine, Charla Green and Double O and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
+FORGE is a music venue in Sheffield listed on soundcheck. 5 upcoming gigs, with line-ups including Adam F, adamine, Charla Green and Double O and 2 more. See dates, start times and who's playing. 148 Effingham Road, Sheffield, S4 7YS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | FEARFEST After Party |  |
 | Fri, 6 Nov 2026 | Queers For Beers x FORGE = DJ Fuckoff, SYNTAX, dj egoshooter ೃ⁀➷ |  |
 | Fri, 13 Nov 2026 | Big Fat Rave: Hamdi + Osmosis Jones + SKALAH | Hamdi, Osmosis Jones, SKALAH (UK) |
 | Fri, 27 Nov 2026 | Adam F Live W/ Kirsty Hawkshaw: Circles Revisited Tour Sheffield | Adam F, Hardcore Babes, Harry Shotta, Milzy, SNAPE, adamine |
@@ -19,4 +18,4 @@ FORGE is a music venue in Sheffield listed on soundcheck. 6 upcoming gigs, with 
 
 148 Effingham Road, Sheffield, S4 7YS, Sheffield
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/forge/)*

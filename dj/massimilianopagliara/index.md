@@ -1,14 +1,13 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Printhouse, Munich on Sat, 31 Oct 2026.
+Massimiliano Pagliara is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
-Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 81 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: Printhouse, Munich on Sat 31 Oct.
+Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 81 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Printhouse | Munich |
 | Fri, 6 Nov 2026 | TBA - 3 LOCAIS / 3 LOCATIONS | Sao-paulo |
 | Fri, 6 Nov 2026 | TBA - CIRCULO ESPAÑOL | Santiago |
 | Sat, 14 Nov 2026 | TRAUM | Antwerp |
@@ -20,6 +19,7 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs
 
 ## Recently played
 
+- Printhouse, Munich · Sat, 31 Oct 2026
 - SASS Music Club, Vienna · Fri, 30 Oct 2026
 - REC Napoli, Naples · Sat, 24 Oct 2026
 - KREUZWERK, Berlin · Fri, 23 Oct 2026
@@ -27,10 +27,9 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 277 gigs
 - New Century Locker, Manchester · Fri, 16 Oct 2026
 - Pérola Negra Club, Porto · Sat, 10 Oct 2026
 - Apollo Club Milano, Milan · Fri, 9 Oct 2026
-- Société des arts technologiques, Montreal · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

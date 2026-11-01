@@ -1,8 +1,8 @@
 # Dimitry
 
-Dimitry is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Système, Montreal on Sun, 1 Nov 2026.
+Dimitry is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Système, Montreal on Sun, 1 Nov 2026.
 
-Dimitry is a house and disco artist, with 6 gigs on soundcheck across Montreal. Often billed alongside Lara Bee, Artphorm and Salvo (CA). Next up: Système, Montreal on Sun 1 Nov.
+Dimitry is a house and disco artist, with 7 gigs on soundcheck across Montreal. Often billed alongside Lara Bee, Artphorm and Salvo (CA). Next up: Système, Montreal on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dimitry is a house and disco artist, with 6 gigs on soundcheck across Montreal. 
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Système | Montreal |
 | Fri, 20 Nov 2026 | Salon Daomé | Montreal |
+| Fri, 5 Feb 2027 | Igloofest | Montreal |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Dimitry is a house and disco artist, with 6 gigs on soundcheck across Montreal. 
 
 Lara Bee, Artphorm, Salvo (CA)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitry/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimitry/)*

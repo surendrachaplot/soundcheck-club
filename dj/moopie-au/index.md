@@ -1,14 +1,13 @@
 # Moopie
 
-Moopie is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Moopie is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
-Moopie is a house and techno artist based in Australia, with 230 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
+Moopie is a house and techno artist based in Australia, with 230 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Fri, 6 Nov 2026 | Solace | Melbourne |
 | Sun, 8 Nov 2026 | Miscellania | Melbourne |
@@ -20,9 +19,11 @@ Moopie is a house and techno artist based in Australia, with 230 gigs on soundch
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
+- Collingwood Children's Farm, Melbourne · Sat, 31 Oct 2026
 - Angel Music Bar, Melbourne · Fri, 30 Oct 2026
 - Lofi, Amsterdam · Sun, 25 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ Moopie is a house and techno artist based in Australia, with 230 gigs on soundch
 - LAUT, Barcelona · Sat, 17 Oct 2026
 - Under Bron, Stockholm · Fri, 16 Oct 2026
 - Under Bron, Stockholm · Fri, 16 Oct 2026
-- Nowadays, New York City · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Kia (AU), Emelyne, Hannah D
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

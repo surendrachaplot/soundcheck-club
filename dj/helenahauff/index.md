@@ -1,6 +1,6 @@
 # Helena Hauff
 
-Helena Hauff is a Techno and Electro artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Helena Hauff is a Techno and Electro artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Helena Hauff is a techno and electro artist based in Germany, with 241 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 84 more. Often billed alongside DVS1, Job Jobse and Ben UFO. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -34,4 +34,4 @@ Helena Hauff is a techno and electro artist based in Germany, with 241 gigs on s
 
 DVS1, Job Jobse, Ben UFO
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helenahauff/)*

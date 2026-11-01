@@ -1,6 +1,6 @@
 # VIKk
 
-VIKk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Village Underground Barcelona, Barcelona on Fri, 13 Nov 2026.
+VIKk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Village Underground Barcelona, Barcelona on Fri, 13 Nov 2026.
 
 VIKk is a house and techno artist based in Spain, with 77 gigs on soundcheck across Barcelona, Berlin, Brussels and Budapest and 8 more. Often billed alongside Perro Jimbo, MATT.. and Lamache. Next up: Village Underground Barcelona, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ VIKk is a house and techno artist based in Spain, with 77 gigs on soundcheck acr
 
 Perro Jimbo, MATT.., Lamache
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikk/)*

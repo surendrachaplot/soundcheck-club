@@ -1,14 +1,13 @@
 # Käthe & Haes
 
-Käthe & Haes is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Rote Sonne, Munich on Fri, 30 Oct 2026.
+Käthe & Haes is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Paloma, Berlin on Fri, 13 Nov 2026.
 
-Käthe & Haes are a house and deep house duo based in Germany, with 50 gigs on soundcheck across Berlin and Munich. Often billed alongside Almost Famous, Julie Fleischer and Kapote. Next up: Rote Sonne, Munich on Fri 30 Oct.
+Käthe & Haes are a house and deep house duo based in Germany, with 50 gigs on soundcheck across Berlin and Munich. Often billed alongside Almost Famous, Julie Fleischer and Kapote. Next up: Paloma, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Rote Sonne | Munich |
 | Fri, 13 Nov 2026 | Paloma | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Käthe & Haes are a house and deep house duo based in Germany, with 50 gigs on s
 
 Almost Famous, Julie Fleischer, Kapote
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kathehaes/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kathehaes/)*

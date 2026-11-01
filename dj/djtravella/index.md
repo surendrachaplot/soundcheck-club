@@ -1,18 +1,18 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Jumbi, London on Sat, 31 Oct 2026.
+DJ Travella is a Singeli and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
-DJ Travella is a singeli and club artist based in Tanzania, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside DJ Diaki, Mia Koden and De Schuurman. Next up: Jumbi, London on Sat 31 Oct.
+DJ Travella is a singeli and club artist based in Tanzania, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside DJ Diaki, Mia Koden and De Schuurman. Next up: The Garden Tisno, London on Thu 22 Jul.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Jumbi | London |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
+- Jumbi, London · Sat, 31 Oct 2026
 - Beato 30, Lisbon · Fri, 30 Oct 2026
 - Bryggeriet Scene, Norway · Wed, 14 Oct 2026
 - Backsteinboot, Berlin · Sat, 10 Oct 2026
@@ -20,10 +20,9 @@ DJ Travella is a singeli and club artist based in Tanzania, with 82 gigs on soun
 - Le Poisson Volant, Paris · Fri, 2 Oct 2026
 - La Fabriek, Brussels · Fri, 25 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 8 Aug 2026
-- Ormside Projects, London · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 DJ Diaki, Mia Koden, De Schuurman
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*

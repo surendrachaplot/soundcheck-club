@@ -1,6 +1,6 @@
 # NaNaSSUS
 
-NaNaSSUS is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Forestlimit, Tokyo on Sun, 1 Nov 2026.
+NaNaSSUS is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Forestlimit, Tokyo on Sun, 1 Nov 2026.
 
 NaNaSSUS is a techno and bass artist, with 7 gigs on soundcheck across New York City, Taipei and Tokyo. Often billed alongside Molly Lin, younger dryas and Alec Pace. Next up: Forestlimit, Tokyo on Sun 1 Nov.
 
@@ -23,4 +23,4 @@ NaNaSSUS is a techno and bass artist, with 7 gigs on soundcheck across New York 
 
 Molly Lin, younger dryas, Alec Pace
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanassus/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanassus/)*

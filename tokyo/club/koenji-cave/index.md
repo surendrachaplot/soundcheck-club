@@ -1,14 +1,13 @@
 # Koenji Cave
 
-Koenji Cave is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Koenji Cave presents Halloween Party 2026" on Sat, 31 Oct 2026.
+Koenji Cave is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Koenji Cave presents: Psychedelic Friday Vol.31" on Fri, 6 Nov 2026.
 
-Koenji Cave is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including amachaaan, aya, BERLINER KINDL and Bones and 2 more. See dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
+Koenji Cave is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including amachaaan, BERLINER KINDL, Funky Gong and Jerry and 2 more. See dates, start times and who's playing. 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Koenji Cave presents Halloween Party 2026 | BERLINER KINDL, Bones, R Ξ Π, Takuya Asakura, Tsuyoshi Suzuki, aya |
 | Fri, 6 Nov 2026 | Koenji Cave presents: Psychedelic Friday Vol.31 | BERLINER KINDL, amachaaan |
 | Sat, 7 Nov 2026 | Koenji Cave presents Gravity Vol.23 |  |
 | Fri, 13 Nov 2026 | Koenji Cave presents; Elven Dance - Vol.36 | NAGEE |
@@ -22,4 +21,4 @@ Koenji Cave is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, wit
 
 4-23-5 Koenjiminami, Suginami-ku, Tokyo, 166-0003 Japan, Tokyo
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/koenji-cave/)*

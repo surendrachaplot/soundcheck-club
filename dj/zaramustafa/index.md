@@ -1,6 +1,6 @@
 # Zara Mustafa
 
-Zara Mustafa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at How Much Studios, Austin on Sat, 31 Oct 2026.
+Zara Mustafa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at How Much Studios, Austin on Sat, 31 Oct 2026.
 
 Zara Mustafa is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Amsterdam and Austin. Often billed alongside Brett Johnson, Joan Dark and AMANDA KOONTZ. Next up: How Much Studios, Austin on Sat 31 Oct.
 
@@ -12,6 +12,7 @@ Zara Mustafa is a techno and house artist based in United States of America, wit
 
 ## Recently played
 
+- How Much Studios, Austin · Sat, 31 Oct 2026
 - Xuxa, Austin · Sat, 12 Sept 2026
 - Stardust Garage, Austin · Fri, 21 Aug 2026
 - TBA - VARIOUS VENUES, Austin · Sat, 14 Mar 2026
@@ -19,10 +20,9 @@ Zara Mustafa is a techno and house artist based in United States of America, wit
 - John Doe, Amsterdam · Fri, 2 Jan 2026
 - Neon Grotto, Austin · Sat, 8 Nov 2025
 - Marlow, Austin · Thu, 30 Oct 2025
-- TBA - Barton Creek Greenbelt Trailhead, Barton Creek Greenbelt Trail, Austin, TX 78746, Austin · Fri, 19 Sept 2025
 
 ## Shares bills with
 
 Brett Johnson, Joan Dark, AMANDA KOONTZ
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zaramustafa/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaramustafa/)*

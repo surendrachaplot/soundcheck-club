@@ -1,8 +1,8 @@
 # Userkiller
 
-Userkiller is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
+Userkiller is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
 
-Userkiller is a techno and tech house artist, with 39 gigs on soundcheck across Berlin and Vienna. Often billed alongside DAV3, Bisk and ED2000. Next up: The Loft, Vienna on Fri 20 Nov.
+Userkiller is a techno and tech house artist based in Germany, with 39 gigs on soundcheck across Berlin and Vienna. Often billed alongside DAV3, Bisk and ED2000. Next up: The Loft, Vienna on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Userkiller is a techno and tech house artist, with 39 gigs on soundcheck across 
 
 DAV3, Bisk, ED2000
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/userkiller/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/userkiller/)*

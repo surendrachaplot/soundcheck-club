@@ -1,6 +1,6 @@
 # House of Lords
 
-House of Lords is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Reverie at the Park, Toronto on Fri, 20 Nov 2026.
+House of Lords is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Reverie at the Park, Toronto on Fri, 20 Nov 2026.
 
 House of Lords is a house and deep house artist based in Canada, with 36 gigs on soundcheck across Toronto. Often billed alongside Will Scheffel, Chloe J and me, myself &i. Next up: Reverie at the Park, Toronto on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ House of Lords is a house and deep house artist based in Canada, with 36 gigs on
 
 Will Scheffel, Chloe J, me, myself &i
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/houseoflords/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/houseoflords/)*

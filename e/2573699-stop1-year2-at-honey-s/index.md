@@ -1,6 +1,6 @@
 # Stop1 Year2 at Honey's
 
-Stop1 Year2 at Honey's on Sat 21 Nov, New York City. 5 artists: Iggy Nuclear, Isadora, Kettle and Kindred and 1 more. See the line-up on soundcheck.
+Stop1 Year2 at Honey's on Sat 21 Nov, New York City. 5 artists: Iggy Nuclear, Isadora, Kettle and Kindred and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

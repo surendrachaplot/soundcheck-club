@@ -1,14 +1,13 @@
 # Madarae San Francisco
 
-Madarae San Francisco is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Halloween with Autograf at MadaRae Nightclub San Francisco" on Sat, 31 Oct 2026.
+Madarae San Francisco is a music venue in San Francisco/Oakland with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Sasson (FR) at MadaRae Nighclub San Francisco" on Fri, 6 Nov 2026.
 
-Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including Autograf, nocapz., Rivo and Sasson and 2 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
+Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 6 upcoming gigs, with line-ups including nocapz., Rivo, Sasson and Sharam and 1 more. See dates, start times and who's playing. 46 Minna St, San Francisco, CA 94105, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Halloween with Autograf at MadaRae Nightclub San Francisco | Autograf |
 | Fri, 6 Nov 2026 | Sasson (FR) at MadaRae Nighclub San Francisco | Sasson |
 | Sat, 7 Nov 2026 | Rivo at Madarae Nightclub San Francisco | Rivo |
 | Fri, 13 Nov 2026 | Sharam (Deep Dish) at MadaRae | Sharam |
@@ -20,4 +19,4 @@ Madarae San Francisco is a music venue in San Francisco/Oakland listed on soundc
 
 46 Minna St, San Francisco, CA 94105, United States, San Francisco/Oakland
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/madarae-san-francisco/)*

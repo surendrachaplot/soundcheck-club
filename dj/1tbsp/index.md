@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Antro Juan, Mexico City on Sun, 1 Nov 2026.
+1tbsp is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Antro Juan, Mexico City on Sun, 1 Nov 2026.
 
 1tbsp is a house and electronica artist based in Australia, with 131 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 38 more. Often billed alongside Killian, Mietze Conte and SOLTERA. Next up: Antro Juan, Mexico City on Sun 1 Nov.
 
@@ -28,4 +28,4 @@
 
 Killian, Mietze Conte, SOLTERA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

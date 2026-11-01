@@ -1,14 +1,13 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 31 Oct 2026.
+Club Angel is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
-Club Angel is a garage and house artist based in Australia, with 110 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: The Liquid Room, Edinburgh on Sat 31 Oct.
+Club Angel is a garage and house artist based in Australia, with 110 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | The Liquid Room | Edinburgh |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
@@ -16,6 +15,7 @@ Club Angel is a garage and house artist based in Australia, with 110 gigs on sou
 
 ## Recently played
 
+- The Liquid Room, Edinburgh · Sat, 31 Oct 2026
 - Pllek, Amsterdam · Sat, 24 Oct 2026
 - Prozak 2.0, Krakow · Fri, 23 Oct 2026
 - Centre Point, Dublin · Sat, 17 Oct 2026
@@ -23,10 +23,9 @@ Club Angel is a garage and house artist based in Australia, with 110 gigs on sou
 - Mondo Open Air, Madrid · Sun, 11 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
 - Mint XL, Leeds · Sat, 3 Oct 2026
-- Digital, Newcastle · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Sam Alfred, salute, Faster Horses
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

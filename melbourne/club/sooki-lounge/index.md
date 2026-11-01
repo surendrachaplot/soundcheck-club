@@ -1,14 +1,13 @@
 # Sooki Lounge
 
-Sooki Lounge is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Sickiest House - Takeover" on Sat, 31 Oct 2026.
+Sooki Lounge is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "SCUBA SELEKTS" on Sat, 7 Nov 2026.
 
-Sooki Lounge is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including DJ BJ, FDK and Malika. See dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
+Sooki Lounge is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including DJ BJ, FDK and Malika. See dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sickiest House - Takeover |  |
 | Sat, 7 Nov 2026 | SCUBA SELEKTS |  |
 | Fri, 20 Nov 2026 | SuuperNova II | DJ BJ, FDK, Malika |
 | Sat, 21 Nov 2026 | SUNSHiiNE |  |
@@ -20,4 +19,4 @@ Sooki Lounge is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs
 
 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160, Melbourne
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*

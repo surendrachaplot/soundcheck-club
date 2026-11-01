@@ -1,6 +1,6 @@
 # Phreakwency
 
-Phreakwency is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Bastet, Philadelphia on Fri, 20 Nov 2026.
+Phreakwency is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bastet, Philadelphia on Fri, 20 Nov 2026.
 
 Phreakwency is a techno and club artist based in United States of America, with 46 gigs on soundcheck across New York City and Philadelphia. Often billed alongside low iron, Nail Salon and JEWELSSEA. Next up: Bastet, Philadelphia on Fri 20 Nov.
 
@@ -12,7 +12,7 @@ Phreakwency is a techno and club artist based in United States of America, with 
 
 ## Recently played
 
-- TBA - NAMELESS, Philadelphia · Sat, 24 Oct 2026
+- Nameless, Philadelphia · Sat, 24 Oct 2026
 - Bastet, Philadelphia · Sat, 4 Jul 2026
 - Warehouse on Watts, Philadelphia · Fri, 26 Jun 2026
 - TBA - North Philly Warehouse, Philadelphia · Sat, 21 Mar 2026
@@ -25,4 +25,4 @@ Phreakwency is a techno and club artist based in United States of America, with 
 
 low iron, Nail Salon (2), JEWELSSEA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phreakwency/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phreakwency/)*

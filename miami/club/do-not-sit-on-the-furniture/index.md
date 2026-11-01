@@ -1,14 +1,13 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 24 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Do Not Sit On Halloween ft. Lehar [Multinotes]" on Sat, 31 Oct 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 24 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Jessy & Friends" on Wed, 4 Nov 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 24 upcoming gigs, with line-ups including Armen Miran, baez, Britta Arnold and DAVI and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 24 upcoming gigs, with line-ups including Anthony Middleton, Armen Miran, baez and Britta Arnold and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Do Not Sit On Halloween ft. Lehar [Multinotes] | Lehar, Lucas Zarate |
 | Wed, 4 Nov 2026 | Jessy & Friends | Kebin van Reeken |
 | Fri, 6 Nov 2026 | Nico Morano | Nico Morano, baez |
 | Sat, 7 Nov 2026 | Valentin Huedo | Valentin Huedo |
@@ -18,9 +17,10 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 24 u
 | Fri, 20 Nov 2026 | Halo Varga [ H Foundation / Muted Noise] | Halo Varga |
 | Sat, 21 Nov 2026 | Fernando Olaya [The Soundgarden / Balance Music] | Fernando Olaya, Lucas Zarate |
 | Fri, 27 Nov 2026 | Sander Kleinenberg [Armada Music] | Lucas Zarate, Sander Kleinenberg |
+| Sat, 28 Nov 2026 | Raw Main [All Day I Dream / Lost Mircale] | Jessy Nimni, Raw Main |
 
 ## Address
 
 423 16th St, Miami Beach, FL 33139, Miami
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*

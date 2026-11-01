@@ -1,6 +1,6 @@
 # Cue Drops: Grace Sands Interview + 5hr Club Set with guests at The Ministry
 
-Cue Drops: Grace Sands Interview + 5hr Club Set with guests at The Ministry on Sun 13 Dec, London. 2 artists: Grace Sands and KABBAGE. Deep House. See the line-up on soundcheck.
+Cue Drops: Grace Sands Interview + 5hr Club Set with guests at The Ministry on Sun 13 Dec, London. 2 artists: Grace Sands and KABBAGE. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

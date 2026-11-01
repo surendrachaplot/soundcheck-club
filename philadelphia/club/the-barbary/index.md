@@ -1,14 +1,13 @@
 # The Barbary
 
-The Barbary is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "House of Horrors" on Sat, 31 Oct 2026.
+The Barbary is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "The Barbary pres. Chus & Ceballos + Caleb Jackson" on Fri, 6 Nov 2026.
 
-The Barbary is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, with line-ups including Ben Arsenal, Black Box, Caleb Jackson and Chus & Ceballos and 2 more. See dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
+The Barbary is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including Ben Arsenal, Black Box, Caleb Jackson and Chus & Ceballos and 2 more. See dates, start times and who's playing. 951 Frankford Avenue; Philadelphia, PA 19125; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | House of Horrors | Oscar N (US) |
 | Fri, 6 Nov 2026 | The Barbary pres. Chus & Ceballos + Caleb Jackson | Caleb Jackson, Chus & Ceballos, Garvin |
 | Fri, 13 Nov 2026 | The Barbary pres. GREG 99 |  |
 | Sat, 14 Nov 2026 | Barbary pres. 25 years of the Shakedown with Danny Tenaglia | Ben Arsenal, Danny Tenaglia, Rob Paine |
@@ -20,4 +19,4 @@ The Barbary is a music venue in Philadelphia listed on soundcheck. 7 upcoming gi
 
 951 Frankford Avenue; Philadelphia, PA 19125; United States, Philadelphia
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-barbary/)*

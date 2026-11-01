@@ -1,15 +1,15 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Quarters, Brighton on Sat, 31 Oct 2026.
+Captain Wallop is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
-Captain Wallop is a garage and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside RTK Tarantino, DAISY and Locky. Next up: Quarters, Brighton on Sat 31 Oct.
+Captain Wallop is a garage and house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside RTK Tarantino, MADVILLA and DAISY. Next up: The Cause, London on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Quarters | Brighton |
 | Sun, 1 Nov 2026 | The Cause | London |
+| Sat, 7 Nov 2026 | The Cause | London |
 | Fri, 13 Nov 2026 | Lakota | Bristol |
 | Sat, 21 Nov 2026 | 24 Kitchen Street | Liverpool |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
@@ -20,6 +20,7 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 58 gig
 
 ## Recently played
 
+- Quarters, Brighton · Sat, 31 Oct 2026
 - Jacobs Basement, Cardiff · Sat, 10 Oct 2026
 - Cabaret Voltaire, Edinburgh · Fri, 9 Oct 2026
 - Mint Warehouse, Leeds · Sat, 3 Oct 2026
@@ -27,10 +28,9 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 58 gig
 - Kapsule, Liverpool · Sat, 26 Sept 2026
 - Ouseburn Garden, Newcastle · Sat, 26 Sept 2026
 - The Loft, Manchester · Thu, 24 Sept 2026
-- The Croft, Bristol · Fri, 18 Sept 2026
 
 ## Shares bills with
 
-RTK Tarantino, DAISY, Locky
+RTK Tarantino, MADVILLA, DAISY
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

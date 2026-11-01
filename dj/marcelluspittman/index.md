@@ -1,14 +1,13 @@
 # Marcellus Pittman
 
-Marcellus Pittman is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Video Club, Bogotá on Sat, 31 Oct 2026.
+Marcellus Pittman is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Joule, Osaka on Sat, 7 Nov 2026.
 
-Marcellus Pittman is a house and techno artist based in United States of America, with 174 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Ash Lauryn, Antal and DITA (ID). Next up: Video Club, Bogotá on Sat 31 Oct.
+Marcellus Pittman is a house and techno artist based in United States of America, with 174 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside Ash Lauryn, Antal and DITA (ID). Next up: Joule, Osaka on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Video Club | Bogotá |
 | Sat, 7 Nov 2026 | Joule | Osaka |
 | Thu, 12 Nov 2026 | Modeci | Seoul |
 | Sat, 14 Nov 2026 | VENT | Tokyo |
@@ -20,6 +19,7 @@ Marcellus Pittman is a house and techno artist based in United States of America
 
 ## Recently played
 
+- Video Club, Bogotá · Sat, 31 Oct 2026
 - Deseo BS AS, Buenos Aires · Fri, 30 Oct 2026
 - Deseo BS AS, Buenos Aires · Fri, 30 Oct 2026
 - Amber's, Manchester · Sat, 24 Oct 2026
@@ -27,10 +27,9 @@ Marcellus Pittman is a house and techno artist based in United States of America
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Refuge, New York City · Sun, 4 Oct 2026
 - People's Leisure Club, Edinburgh · Sat, 26 Sept 2026
-- The Bernard Shaw, Dublin · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Ash Lauryn, Antal, DITA (ID)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelluspittman/)*

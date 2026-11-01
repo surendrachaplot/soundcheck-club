@@ -1,19 +1,19 @@
 # Jack Ling
 
-Jack Ling is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 31 Oct 2026.
+Jack Ling is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
-Jack Ling is a house and tech house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Leeds and 1 more. Often billed alongside Jayar, Zach Murray and ADMNTi. Next up: Starlane Pizza Bar, London on Sat 31 Oct.
+Jack Ling is a house and tech house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Leeds and 1 more. Often billed alongside Jayar, Zach Murray and ADMNTi. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Starlane Pizza Bar | London |
 | Sat, 5 Dec 2026 | NUMBER 90 LONDON | London |
 | Sat, 12 Dec 2026 | TBA | London |
 
 ## Recently played
 
+- Starlane Pizza Bar, London · Sat, 31 Oct 2026
 - Distrikt, Leeds · Sat, 18 Apr 2026
 - Gallery, London · Fri, 27 Feb 2026
 - NUMBER 90 LONDON, London · Sun, 28 Dec 2025
@@ -21,10 +21,9 @@ Jack Ling is a house and tech house artist based in United Kingdom, with 31 gigs
 - Eutopia Warehouse, London · Sat, 1 Nov 2025
 - Starlane Pizza Bar, London · Sat, 27 Sept 2025
 - 93 Feet East, London · Sat, 6 Sept 2025
-- Starlane Pizza Bar, London · Sat, 6 Sept 2025
 
 ## Shares bills with
 
 Jayar, Zach Murray, ADMNTi
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackling/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackling/)*

@@ -1,14 +1,13 @@
 # Palais
 
-Palais is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Palais: In House" on Sat, 31 Oct 2026.
+Palais is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Palais: Axel Boman & CC:DISCO" on Fri, 6 Nov 2026.
 
-Palais is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Adi (CO), anu, Axel Boman and Bakey and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
+Palais is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Adi (CO), anu, Axel Boman and Bakey and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Palais: In House |  |
 | Fri, 6 Nov 2026 | Palais: Axel Boman & CC:DISCO | Axel Boman, CC:DISCO! |
 | Sat, 7 Nov 2026 | Origins: Or:la & JASSS | JASSS, Or:la |
 | Fri, 13 Nov 2026 | Palais: Adi, Loidis & Marco Shuttle | Adi (CO), Loidis, Marco Shuttle |
@@ -18,9 +17,10 @@ Palais is a music venue in London listed on soundcheck. 16 upcoming gigs, with l
 | Fri, 27 Nov 2026 | Origins: Main Phase (All Night Long) | Main Phase |
 | Sat, 28 Nov 2026 | Origins: Moxie (All Night Long) [SOLD OUT] | Moxie |
 | Fri, 4 Dec 2026 | Palais: Ignez (All Night Long) | Ignez |
+| Sat, 5 Dec 2026 | Palais: Suze Ijó, Giles Smith & Serenda | Giles Smith, Serenda, Suze Ijó |
 
 ## Address
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

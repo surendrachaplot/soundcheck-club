@@ -1,14 +1,13 @@
 # Dahlia Stereo
 
-Dahlia Stereo is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "DAHLIA STEREO HALLOWEEN with COCO MARÍA" on Sat, 31 Oct 2026.
+Dahlia Stereo is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "SHELLING.IT 008" on Thu, 5 Nov 2026.
 
-Dahlia Stereo is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including Aletha, Coco Maria, Dam Swindle and DJ Die and 2 more. See dates, start times and who's playing. Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN.
+Dahlia Stereo is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including Aletha, Dam Swindle, DJ Die and Luke Una and 1 more. See dates, start times and who's playing. Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | DAHLIA STEREO HALLOWEEN with COCO MARÍA | Coco Maria |
 | Thu, 5 Nov 2026 | SHELLING.IT 008 | Aletha, Shelle.y |
 | Thu, 12 Nov 2026 | DAHLIA STEREO with SOMEWHERE SOUL |  |
 | Thu, 19 Nov 2026 | DAHLIA STEREO with DJ Die | DJ Die |
@@ -19,4 +18,4 @@ Dahlia Stereo is a music venue in Manchester listed on soundcheck. 6 upcoming gi
 
 Unit 1-2, The Hive, 47 Lever st, Manchester M1 1FN, Manchester
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/dahlia-stereo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/dahlia-stereo/)*

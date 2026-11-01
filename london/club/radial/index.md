@@ -1,15 +1,13 @@
 # radial
 
-radial is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Violet Moss x Percolate: Halloween with Strath" on Sat, 31 Oct 2026.
+radial is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ambre club presents: Janeret, Dana Kuehr, Cem Ozden & katje" on Sun, 1 Nov 2026.
 
-radial is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Violet Moss x Percolate: Halloween with Strath | Strath |
-| Sat, 31 Oct 2026 | Polar Disco Day to Night Party | Bibiminor, MANNIO, Mitch Presents, Nancy Wilde, Niall Kelly, Portamento |
 | Sun, 1 Nov 2026 | ambre club presents: Janeret, Dana Kuehr, Cem Ozden & katje | Cem Ozden, Dana Kuehr, Janeret, katje |
 | Wed, 4 Nov 2026 | from the source: House of Multiple Occupants |  |
 | Fri, 6 Nov 2026 | Rancho Relaxo #5 with Eversines & Monika Taneska | Compass, Eversines, Joey Fontaine, L.J. Violet, Monika Taneska |
@@ -18,9 +16,11 @@ radial is a music venue in London listed on soundcheck. 17 upcoming gigs, with l
 | Sun, 15 Nov 2026 | Satiate | Ivy F, LO-LOW, Milly on Air, Ms.G, Oliver Scala, Selecky, Someone Sunny |
 | Fri, 20 Nov 2026 | Electrobar: Launch Party | Alien Communications, James Shinra, Plant43, Tania Atyabi |
 | Sat, 21 Nov 2026 | NOIDMATE - radial.london | NOIDMATE |
+| Fri, 27 Nov 2026 | Zen Arcade w/ Harri Pepper & Kyle Toole, Ellie Anderson | Ellie Anderson, Harri Pepper, Kyle Toole |
+| Sat, 28 Nov 2026 | Willow, Ste Roberts (live), Free Zing & Adam Curtain - Trouble Maker | Adam Curtain, Free Zing, Ste Roberts, Willow |
 
 ## Address
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

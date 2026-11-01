@@ -1,6 +1,6 @@
 # FROND
 
-FROND is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 1 Nov 2026.
+FROND is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sun, 1 Nov 2026.
 
 FROND is a techno and trance artist based in United Kingdom, with 58 gigs on soundcheck across Bristol, Copenhagen, Leeds and Liverpool and 3 more. Often billed alongside Adam Pits, Yasmine (UK) and Lisene. Next up: Outlaws Yacht Club, Leeds on Sun 1 Nov.
 
@@ -28,4 +28,4 @@ FROND is a techno and trance artist based in United Kingdom, with 58 gigs on sou
 
 Adam Pits, Yasmine (UK), Lisene
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frond/)*

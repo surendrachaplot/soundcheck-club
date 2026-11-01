@@ -1,14 +1,13 @@
 # Gabb (PRY)
 
-Gabb (PRY) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Orlagh House, Dublin on Fri, 30 Oct 2026.
+Gabb (PRY) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Opium Botanical Garden, Dublin on Sat, 14 Nov 2026.
 
-Gabb (PRY) is a house and minimal artist based in Paraguay, with 7 gigs on soundcheck across Dublin, Paris and Taipei. Often billed alongside Royce Larøca, G.G (LB) and (navarro). Next up: Orlagh House, Dublin on Fri 30 Oct.
+Gabb (PRY) is a house and minimal artist based in Paraguay, with 7 gigs on soundcheck across Dublin, Paris and Taipei. Often billed alongside Royce Larøca, G.G (LB) and (navarro). Next up: Opium Botanical Garden, Dublin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Orlagh House | Dublin |
 | Sat, 14 Nov 2026 | Opium Botanical Garden | Dublin |
 
 ## Recently played
@@ -24,4 +23,4 @@ Gabb (PRY) is a house and minimal artist based in Paraguay, with 7 gigs on sound
 
 Royce Larøca, G.G (LB), (navarro)
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbpry/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabbpry/)*

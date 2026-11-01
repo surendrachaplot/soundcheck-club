@@ -1,18 +1,18 @@
 # NURI (CH)
 
-NURI (CH) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Sono bar, Zurich on Sat, 31 Oct 2026.
+NURI (CH) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Supermarket, Zurich on Sat, 7 Nov 2026.
 
-NURI (CH) is a house and deep house artist based in Switzerland, with 7 gigs on soundcheck across Zurich. Often billed alongside ALBERT2BOLLO, Alessio da Silva and And Hazel. Next up: Sono bar, Zurich on Sat 31 Oct.
+NURI (CH) is a house and deep house artist based in Switzerland, with 7 gigs on soundcheck across Zurich. Often billed alongside ALBERT2BOLLO, Alessio da Silva and And Hazel. Next up: Supermarket, Zurich on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sono bar | Zurich |
 | Sat, 7 Nov 2026 | Supermarket | Zurich |
 
 ## Recently played
 
+- Sono bar, Zurich · Sat, 31 Oct 2026
 - Frieda's Büxe, Zurich · Fri, 25 Sept 2026
 - Supermarket, Zurich · Sat, 11 Jul 2026
 - Club04, Zurich · Sun, 21 Jun 2026
@@ -23,4 +23,4 @@ NURI (CH) is a house and deep house artist based in Switzerland, with 7 gigs on 
 
 ALBERT2BOLLO, Alessio da Silva, And Hazel
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nuri-ch/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuri-ch/)*

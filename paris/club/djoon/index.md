@@ -1,14 +1,13 @@
 # Djoon
 
-Djoon is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "HOUSE FREAKS: Halloween 2026" on Sat, 31 Oct 2026.
+Djoon is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Soulful Sunday" on Sun, 1 Nov 2026.
 
-Djoon is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Adri, Chaos In The CBD, Eileen (NL) and Kapela and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
+Djoon is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Adri, Chaos In The CBD, Eileen (NL) and Kapela and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | HOUSE FREAKS: Halloween 2026 |  |
 | Sun, 1 Nov 2026 | Soulful Sunday | Kapela, Mari Ella |
 | Fri, 6 Nov 2026 | Chaos In The CBD presents: In Dust We Trust Tour | Chaos In The CBD |
 | Sat, 7 Nov 2026 | DiscoStormy: Raw Queen invite Ricky Chong |  |
@@ -21,4 +20,4 @@ Djoon is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

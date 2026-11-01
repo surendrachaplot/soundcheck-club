@@ -1,14 +1,13 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "PW x CINCIN Halloween • Asa Tate, Bianca Oance, Nipple's Delight" on Sat, 31 Oct 2026.
+Platforma Wolff is a music venue in Bucharest with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "PW Club Season • DJ Fart in the Club, Dragoș Ilici" on Fri, 6 Nov 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including Arnic, Asa Tate, Barbu and Cosmin TRG and 2 more. See dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 6 upcoming gigs, with line-ups including Arnic, Barbu, Cosmin TRG and DJ Fart in the Club and 2 more. See dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | PW x CINCIN Halloween • Asa Tate, Bianca Oance, Nipple's Delight | Asa Tate |
 | Fri, 6 Nov 2026 | PW Club Season • DJ Fart in the Club, Dragoș Ilici | DJ Fart in the Club, Dragos Ilici |
 | Sat, 7 Nov 2026 | PW x DeDans • Mareena, Cosmin TRG | Cosmin TRG, Mareena |
 | Fri, 13 Nov 2026 | PW x Flipside • Stipo, SunnySun, Barbu | Barbu, Stipo, SunnySun |
@@ -20,4 +19,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming g
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

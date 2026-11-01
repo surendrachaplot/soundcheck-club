@@ -1,6 +1,6 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at The White Hotel, Manchester on Sun, 1 Nov 2026.
+Rhadoo is a Minimal and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The White Hotel, Manchester on Sun, 1 Nov 2026.
 
 Rhadoo is a minimal and house artist based in Romania, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: The White Hotel, Manchester on Sun 1 Nov.
 
@@ -34,4 +34,4 @@ Rhadoo is a minimal and house artist based in Romania, with 196 gigs on soundche
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

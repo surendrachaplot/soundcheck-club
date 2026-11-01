@@ -1,14 +1,13 @@
 # The Model
 
-The Model is a music venue in Nottingham with 11 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Paranormal Disco - Two Rooms, Nine Hours" on Sat, 31 Oct 2026.
+The Model is a music venue in Nottingham with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Cold Brewed Diwali w/ Freshta, harpriya, M75 & Jimmy Rocket" on Fri, 6 Nov 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 11 upcoming gigs, with line-ups including Anna Wall, Brad Bradley, Burly Chassis and CONFLICT BUREAU and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming gigs, with line-ups including Anna Wall, CONFLICT BUREAU, Detroit In Effect and dj come and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Paranormal Disco - Two Rooms, Nine Hours | Brad Bradley, Burly Chassis, Evil Woman, Kay Fabe, SPICYIVY, dj come, rPal |
 | Fri, 6 Nov 2026 | Cold Brewed Diwali w/ Freshta, harpriya, M75 & Jimmy Rocket | Freshta, Jimmy Rocket, M75, harpriya |
 | Sat, 7 Nov 2026 | klub mush w Sol Service | Mush Love (UK), dj sneaze |
 | Thu, 12 Nov 2026 | Detroit In Effect | Detroit In Effect |
@@ -18,9 +17,10 @@ The Model is a music venue in Nottingham listed on soundcheck. 11 upcoming gigs,
 | Fri, 27 Nov 2026 | Lobster Lounge brings the FUNK |  |
 | Sat, 28 Nov 2026 | Electroground - Anna Wall, James Tristan, dj come & Keeks | Anna Wall, James Tristan, Keeks, dj come |
 | Fri, 4 Dec 2026 | Duty Free #6 |  |
+| Fri, 11 Dec 2026 | Pleasure Promise Records presents: CONFLICT BUREAU | CONFLICT BUREAU, No Caller ID, Wes Baggaley |
 
 ## Address
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

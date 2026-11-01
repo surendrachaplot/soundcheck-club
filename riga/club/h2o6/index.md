@@ -1,6 +1,6 @@
 # H2o6
 
-H2o6 is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Friction X Grafix  X  RIGA  X MAZE" on Sat, 14 Nov 2026.
+H2o6 is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Friction X Grafix  X  RIGA  X MAZE" on Sat, 14 Nov 2026.
 
 H2o6 is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including DEEP-Z, Existal, Freiya March and Friction and 2 more. See dates, start times and who's playing. Ūdens iela 6, Riga, Latvia-1007.
 
@@ -15,4 +15,4 @@ H2o6 is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-u
 
 Ūdens iela 6, Riga, Latvia-1007, Riga
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/riga/club/h2o6/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/h2o6/)*

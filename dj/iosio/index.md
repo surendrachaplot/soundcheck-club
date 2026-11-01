@@ -1,14 +1,13 @@
 # IOSIO
 
-IOSIO is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
+IOSIO is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
-IOSIO is a techno and trance artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Eindhoven and 9 more. Often billed alongside Cynthia Spiering, BØĘRY and THISO. Next up: Maassilo, Rotterdam on Sat 31 Oct.
+IOSIO is a techno and trance artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Eindhoven and 9 more. Often billed alongside Cynthia Spiering, BØĘRY and THISO. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
@@ -18,6 +17,7 @@ IOSIO is a techno and trance artist based in Netherlands, with 39 gigs on soundc
 
 ## Recently played
 
+- Maassilo, Rotterdam · Sat, 31 Oct 2026
 - Kilomètre25, Paris · Fri, 30 Oct 2026
 - Afas Live, Amsterdam · Sun, 25 Oct 2026
 - Thuishaven, Amsterdam · Sun, 4 Oct 2026
@@ -25,10 +25,9 @@ IOSIO is a techno and trance artist based in Netherlands, with 39 gigs on soundc
 - Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
 - Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 - Maassilo, Rotterdam · Sat, 29 Aug 2026
-- Thuishaven, Amsterdam · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Cynthia Spiering, BØĘRY, THISO
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iosio/)*

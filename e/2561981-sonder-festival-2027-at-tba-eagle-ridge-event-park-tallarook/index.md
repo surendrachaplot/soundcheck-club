@@ -1,6 +1,6 @@
 # Sonder Festival 2027 at TBA - Eagle Ridge Event Park, Tallarook
 
-Sonder Festival 2027 at TBA - Eagle Ridge Event Park, Tallarook on Fri 26 Mar, Victoria. 24 artists: Ayebatonye, bbsanii, Bradley Zero and Brown Suga Princess and 20 more. See the line-up on soundcheck.
+Sonder Festival 2027 at TBA - Eagle Ridge Event Park, Tallarook on Fri 26 Mar, Victoria. 25 artists: Ayebatonye, bbsanii, Bradley Zero and Brown Suga Princess and 21 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -24,6 +24,7 @@ Sonder Festival 2027 at TBA - Eagle Ridge Event Park, Tallarook on Fri 26 Mar, V
 - IN2POL
 - JUPiTA
 - Love, Jess
+- Miles Nautu
 - Mordi
 - Mothafunk
 - Narciss

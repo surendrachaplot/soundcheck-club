@@ -1,14 +1,13 @@
 # Amy Os
 
-Amy Os is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Phonox, London on Fri, 30 Oct 2026.
+Amy Os is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at fabric, London on Sat, 21 Nov 2026.
 
-Amy Os is a tech house and house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 1 more. Often billed alongside Ben Rau, Benji King and Dennis Quin. Next up: Phonox, London on Fri 30 Oct.
+Amy Os is a tech house and house artist based in United Kingdom, with 27 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 1 more. Often billed alongside Ben Rau, Benji King and Dennis Quin. Next up: fabric, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Phonox | London |
 | Sat, 21 Nov 2026 | fabric | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Amy Os is a tech house and house artist based in United Kingdom, with 27 gigs on
 
 Ben Rau, Benji King, Dennis Quin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amyos/)*

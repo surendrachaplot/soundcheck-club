@@ -1,6 +1,6 @@
 # Junya Shimizu
 
-Junya Shimizu is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Royal Lounge, Tokyo on Mon, 2 Nov 2026.
+Junya Shimizu is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Royal Lounge, Tokyo on Mon, 2 Nov 2026.
 
 Junya Shimizu is a house and disco artist based in Japan, with 22 gigs on soundcheck across Tokyo. Often billed alongside ReFuCafé, FUMOFFU and YOSHIMASA. Next up: Royal Lounge, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Junya Shimizu is a house and disco artist based in Japan, with 22 gigs on soundc
 
 ReFuCafé, FUMOFFU, YOSHIMASA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/junyashimizu/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junyashimizu/)*

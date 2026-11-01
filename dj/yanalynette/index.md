@@ -1,6 +1,6 @@
 # Yanna Lynette
 
-Yanna Lynette is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
+Yanna Lynette is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Chicago on Sat, 31 Oct 2026.
 
 Yanna Lynette is a house and deep house artist based in United States of America, with 5 gigs on soundcheck across Chicago. Often billed alongside COBRA B, Abisai and CTRLZORA. Next up: TBA, Chicago on Sat 31 Oct.
 
@@ -14,6 +14,7 @@ Yanna Lynette is a house and deep house artist based in United States of America
 
 ## Recently played
 
+- TBA, Chicago · Sat, 31 Oct 2026
 - The First Presbyterian Church of Chicago, Chicago · Sat, 17 Oct 2026
 - TBA - Location Provided After Purchase, Chicago · Fri, 16 Oct 2026
 
@@ -21,4 +22,4 @@ Yanna Lynette is a house and deep house artist based in United States of America
 
 COBRA B, Abisai, CTRLZORA
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yanalynette/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanalynette/)*

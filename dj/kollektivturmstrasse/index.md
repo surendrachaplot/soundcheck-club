@@ -1,14 +1,13 @@
 # Kollektiv Turmstrasse
 
-Kollektiv Turmstrasse is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ehemaliges Hauptzollamt, Hamburg on Fri, 30 Oct 2026.
+Kollektiv Turmstrasse is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Villa, Oslo on Fri, 12 Feb 2027.
 
-Kollektiv Turmstrasse is a house and techno artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belgrade and 39 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: Ehemaliges Hauptzollamt, Hamburg on Fri 30 Oct.
+Kollektiv Turmstrasse is a house and techno artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belgrade and 39 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: The Villa, Oslo on Fri 12 Feb.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Ehemaliges Hauptzollamt | Hamburg |
 | Fri, 12 Feb 2027 | The Villa | Oslo |
 | Sat, 13 Feb 2027 | Hangaren | Copenhagen |
 
@@ -27,4 +26,4 @@ Kollektiv Turmstrasse is a house and techno artist based in Germany, with 113 gi
 
 Jonathan Kaspar, Miura, Biesmans
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kollektivturmstrasse/)*

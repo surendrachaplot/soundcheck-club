@@ -1,6 +1,6 @@
 # LEISAN
 
-LEISAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+LEISAN is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
 LEISAN is a house and techno artist based in Russia, with 30 gigs on soundcheck across Boston, Ibiza, Los Angeles and Miami and 2 more. Often billed alongside ALKMST, Adam Rose and Afriqua. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
@@ -13,6 +13,7 @@ LEISAN is a house and techno artist based in Russia, with 30 gigs on soundcheck 
 
 ## Recently played
 
+- TBA - Private Location, San Diego · Sat, 31 Oct 2026
 - Hï Ibiza, Ibiza · Wed, 3 Jun 2026
 - Los Angeles State Historic Park, Los Angeles · Sat, 2 May 2026
 - Urban Wild, Boston · Sun, 21 Sept 2025
@@ -20,10 +21,9 @@ LEISAN is a house and techno artist based in Russia, with 30 gigs on soundcheck 
 - TBA - Private Hot Springs Resort in Sequoia National Forest, Los Angeles · Fri, 29 Aug 2025
 - TBA - Private Hot Springs Resort in Sequoia National Forest, San Diego · Fri, 29 Aug 2025
 - TBA - Private Hot Springs Resort in Sequoia National Forest, San Francisco/Oakland · Fri, 29 Aug 2025
-- Buena Vista Lake, Los Angeles · Wed, 21 May 2025
 
 ## Shares bills with
 
 ALKMST, Adam Rose, Afriqua
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/leisan/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leisan/)*

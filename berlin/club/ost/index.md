@@ -1,6 +1,6 @@
 # OST
 
-OST is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Slave To The Rave Halloween" on Sat, 31 Oct 2026.
+OST is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 5 Nov 2026.
 
 OST is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ALP (DE) and ALT8 and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
@@ -8,11 +8,11 @@ OST is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Slave To The Rave Halloween | BAUGRUPPE90, Baron Von Trax, DJ Hell, Upper90, Yuada, slin |
 | Thu, 5 Nov 2026 | [FREE ENTRY TILL 00:30] SAVORY | TIKOA, TMS (Dj), WAN.1, Xiorro |
 | Fri, 6 Nov 2026 | SESH pres. Clara Cuvé invites | ALT8, CALLUSH, Clara Cuvé, DJ Cringey, FJUSHA, PANA (Ger), ROW1, TOXIMAMI |
 | Sat, 7 Nov 2026 | Convent pres. Charlie Sparks, CLTX, Kotorri | Astrid Gnosis, CLTX, Charlie Sparks, GLASSBASS, Lola Cerise, Louv |
 | Thu, 12 Nov 2026 | [FREE ENTRY TILL 00:30] SAVORY | MIMI404, e.leptic |
+| Fri, 13 Nov 2026 | Mixmag Germany Session | Daniella da Silva, KLING&KLANG, L.zwo, Per Pleks, THISO, Trancestrudel |
 | Sat, 14 Nov 2026 | FACE 2 FACE: BERLIN | GM1 (IT), Johannes Schuster, Paranormila, SUSKA, doppeltes lottchen, luke madness |
 | Thu, 19 Nov 2026 | [FREE ENTRY TILL 00:30] SAVORY | Lukr Range, TAUBE, WAN.1 |
 | Fri, 20 Nov 2026 | ONYX: 'ONE LAST DANCE' w / Paraçek, two girls one mom, HANÀ | Bruno Brero, CARGO (DE), HANÀ, KARISH, Paraçek, two girls one mom |
@@ -23,4 +23,4 @@ OST is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line
 
 Alt-Stralau, 1-2 Friedrichshain 10245, Berlin
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ost/)*

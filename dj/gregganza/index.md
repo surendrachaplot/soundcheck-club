@@ -1,8 +1,8 @@
 # Gregganza
 
-Gregganza is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
+Gregganza is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
 
-Gregganza is a techno and club artist, with 9 gigs on soundcheck across Liverpool and Manchester. Often billed alongside djcd, Identikid and Waxtek. Next up: Meraki, Liverpool on Fri 20 Nov.
+Gregganza is a techno and club artist based in United Kingdom, with 9 gigs on soundcheck across Liverpool and Manchester. Often billed alongside djcd, Identikid and Waxtek. Next up: Meraki, Liverpool on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Gregganza is a techno and club artist, with 9 gigs on soundcheck across Liverpoo
 
 djcd, Identikid, Waxtek
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gregganza/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregganza/)*

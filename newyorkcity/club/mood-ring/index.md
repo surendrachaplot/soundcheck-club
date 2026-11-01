@@ -1,15 +1,13 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "JACOBDIOR PRESENTS HALLOWEEN" on Sat, 31 Oct 2026.
+Mood Ring is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Beats without Borders" on Wed, 4 Nov 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including Abril IRL, BEYBLADE SHAWTY, BlackDanielWhite and Botanist and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including Abril IRL, BEYBLADE SHAWTY, BlackDanielWhite and Botanist and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | JACOBDIOR PRESENTS HALLOWEEN |  |
-| Sat, 31 Oct 2026 | The Pregame | Love Higher, Niyx |
 | Wed, 4 Nov 2026 | Beats without Borders | Kweku, Madre Guía |
 | Thu, 5 Nov 2026 | super sweet with yung_womb (SLIC Unit), Third Self & Nissa Carrington | Nissa Carrington, SLIC Unit, Third Self, yung_womb |
 | Fri, 6 Nov 2026 | Baddie 2 Baddie | BEYBLADE SHAWTY, CMD+JAZMINE, KOOB, Petal |
@@ -18,9 +16,11 @@ Mood Ring is a music venue in New York City listed on soundcheck. 16 upcoming gi
 | Wed, 11 Nov 2026 | Hand to Phone | Ivy Oh |
 | Thu, 12 Nov 2026 | RENDERS.003 | Abril IRL, Sasha Rome, entity_A |
 | Fri, 13 Nov 2026 | Protein 2 Year Celebration | BUNZ, DJ Primo, Dirtyfinger, Henry Jennings, Peregrine (US), nataliepops |
+| Fri, 13 Nov 2026 | [happy hour] Friday the 13th | DJ Triple AAA |
+| Sat, 14 Nov 2026 | SWEAT SESSION N°10 with Teqmun, Martini, Vertigo, and Maharam b2b Full Body Stretch | Full Body Stretch, Maharam, Teqmun, Vertigo |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

@@ -1,6 +1,6 @@
 # Young Gaina
 
-Young Gaina is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Studionotte, Milan on Sun, 1 Nov 2026.
+Young Gaina is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Studionotte, Milan on Sun, 1 Nov 2026.
 
 Young Gaina is a techno and electro artist based in Italy, with 33 gigs on soundcheck across Barcelona, Berlin, Brussels and Lisbon and 7 more. Often billed alongside Luce Clandestina, Lupo Mangiafrutta and DNN. Next up: Studionotte, Milan on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ Young Gaina is a techno and electro artist based in Italy, with 33 gigs on sound
 
 Luce Clandestina, Lupo Mangiafrutta, DNN
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/younggaina/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/younggaina/)*

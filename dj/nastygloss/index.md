@@ -1,19 +1,19 @@
 # nastygloss
 
-nastygloss is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Bar Datcha, Montreal on Sat, 31 Oct 2026.
+nastygloss is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at NWHR, Montreal on Fri, 13 Nov 2026.
 
-nastygloss is a techno and club artist based in Canada, with 62 gigs on soundcheck across Montreal and Quebec City. Often billed alongside hÿdra, Casa Kobrae and Katamina. Next up: Bar Datcha, Montreal on Sat 31 Oct.
+nastygloss is a techno and club artist based in Canada, with 62 gigs on soundcheck across Montreal and Quebec City. Often billed alongside hÿdra, Casa Kobrae and Katamina. Next up: NWHR, Montreal on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Bar Datcha | Montreal |
 | Fri, 13 Nov 2026 | NWHR | Montreal |
 | Sat, 28 Nov 2026 | Parking.Radio | Quebec City |
 
 ## Recently played
 
+- Bar Datcha, Montreal · Sat, 31 Oct 2026
 - ESC, Montreal · Sat, 24 Oct 2026
 - Le Red Room, Montreal · Sun, 18 Oct 2026
 - ESC, Montreal · Thu, 15 Oct 2026
@@ -21,10 +21,9 @@ nastygloss is a techno and club artist based in Canada, with 62 gigs on soundche
 - TBA - mile ex, Montreal · Sat, 8 Aug 2026
 - ESC, Montreal · Fri, 31 Jul 2026
 - ESC, Montreal · Sat, 25 Jul 2026
-- ESC, Montreal · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 hÿdra, Casa Kobrae, Katamina
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nastygloss/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastygloss/)*

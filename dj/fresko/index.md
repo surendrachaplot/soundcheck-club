@@ -1,8 +1,8 @@
 # FRESKO
 
-FRESKO is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Radio Berlín, Bogotá on Fri, 6 Nov 2026.
+FRESKO is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Radio Berlín, Bogotá on Fri, 6 Nov 2026.
 
-FRESKO is a techno and house artist based in Portugal, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 7 more. Often billed alongside VIL (PT), Midinoize and Brusca. Next up: Radio Berlín, Bogotá on Fri 6 Nov.
+FRESKO is a techno and house artist based in Portugal, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 7 more. Often billed alongside VIL (PT), Midinoize and Brusca. Next up: Radio Berlín, Bogotá on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ FRESKO is a techno and house artist based in Portugal, with 47 gigs on soundchec
 | Fri, 6 Nov 2026 | Radio Berlín | Bogotá |
 | Sat, 7 Nov 2026 | Oriente | Medellin |
 | Sat, 21 Nov 2026 | Lux Fragil | Lisbon |
+| Mon, 29 Mar 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ FRESKO is a techno and house artist based in Portugal, with 47 gigs on soundchec
 
 VIL (PT), Midinoize, Brusca
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fresko/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fresko/)*

@@ -1,6 +1,6 @@
 # HALI at Cube
 
-HALI at Cube on Sat 14 Nov, Tokyo. 3 artists: Kosuke, RICKY and Ryuta Ishimoto. Techno and Acid. See the line-up on soundcheck.
+HALI at Cube on Sat 14 Nov, Tokyo. 4 artists: Kosuke, RICKY, Ryuta Ishimoto and VÏVÏ. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ HALI at Cube on Sat 14 Nov, Tokyo. 3 artists: Kosuke, RICKY and Ryuta Ishimoto. 
 - Kosuke
 - RICKY
 - Ryuta Ishimoto
+- VÏVÏ
 
 *Source: [soundcheck](https://soundcheck.club/e/2567279-hali-at-cube/)*

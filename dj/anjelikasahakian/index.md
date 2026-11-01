@@ -1,6 +1,6 @@
 # ANJELIKA SAHAKIAN
 
-ANJELIKA SAHAKIAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
+ANJELIKA SAHAKIAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Razzmatazz, Barcelona on Sun, 1 Nov 2026.
 
 ANJELIKA SAHAKIAN is a techno and house artist based in Poland, with 12 gigs on soundcheck across Barcelona and Madrid. Often billed alongside KSAL, DIDIXX and Miguel Rivas. Next up: Razzmatazz, Barcelona on Sun 1 Nov.
 
@@ -25,4 +25,4 @@ ANJELIKA SAHAKIAN is a techno and house artist based in Poland, with 12 gigs on 
 
 KSAL, DIDIXX, Miguel Rivas
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anjelikasahakian/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anjelikasahakian/)*

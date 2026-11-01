@@ -1,18 +1,18 @@
 # Josh Wuf
 
-Josh Wuf is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Ernest, Newcastle on Sat, 31 Oct 2026.
+Josh Wuf is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ouseburn Garden, Newcastle on Fri, 20 Nov 2026.
 
-Josh Wuf is a house and deep house artist based in United Kingdom, with 27 gigs on soundcheck across London, Newcastle and Paris. Often billed alongside PHJ.WAV, Molly Sinnott and DJ Shandy. Next up: Ernest, Newcastle on Sat 31 Oct.
+Josh Wuf is a house and deep house artist based in United Kingdom, with 27 gigs on soundcheck across London, Newcastle and Paris. Often billed alongside PHJ.WAV, Molly Sinnott and DJ Shandy. Next up: Ouseburn Garden, Newcastle on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Ernest | Newcastle |
 | Fri, 20 Nov 2026 | Ouseburn Garden | Newcastle |
 
 ## Recently played
 
+- Ernest, Newcastle · Sat, 31 Oct 2026
 - Cu, London · Fri, 25 Sept 2026
 - Peckham Arches, London · Sun, 30 Aug 2026
 - Top Floor, Newcastle · Sat, 27 Jun 2026
@@ -20,10 +20,9 @@ Josh Wuf is a house and deep house artist based in United Kingdom, with 27 gigs 
 - Harbour House, Newcastle · Sat, 28 Feb 2026
 - TBA - 12 Rue Saint-Sauveur, 75002 (Heclipse, Paris), Paris · Sat, 21 Feb 2026
 - The Lubber Fiend, Newcastle · Fri, 7 Nov 2025
-- Tokyo Bar, Newcastle · Fri, 31 Oct 2025
 
 ## Shares bills with
 
 PHJ.WAV, Molly Sinnott, DJ Shandy
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwuf/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwuf/)*

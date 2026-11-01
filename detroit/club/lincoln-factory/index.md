@@ -1,14 +1,13 @@
 # Lincoln Factory
 
-Lincoln Factory is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. The next is "Nightmare on Holden Street 2" on Sat, 31 Oct 2026.
+Lincoln Factory is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Mark Broom, Sard (live), Zoe Talley" on Fri, 6 Nov 2026.
 
-Lincoln Factory is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Ataxia, Blackmoonchild, Carl Craig and Dasha Rush and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
+Lincoln Factory is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including Ataxia, Blackmoonchild, Carl Craig and Dasha Rush and 2 more. See dates, start times and who's playing. 1331 Holden Street, Detroit, MI 48202, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Nightmare on Holden Street 2 | DJ Godfather, Detroit In Effect, Disc Jockey George, Dru Ruiz, Rebecca Goldberg, Sheefy McFly, Silverdome Boyz, something blue |
 | Fri, 6 Nov 2026 | Mark Broom, Sard (live), Zoe Talley | Mark Broom, Sard, Zoe Talley |
 | Sat, 7 Nov 2026 | Skream - Open to Close Tour | Skream |
 | Fri, 13 Nov 2026 | GHETTOTECHTOPIA | Blackmoonchild, Isaac Prieto, Sheefy McFly |
@@ -21,4 +20,4 @@ Lincoln Factory is a music venue in Detroit listed on soundcheck. 8 upcoming gig
 
 1331 Holden Street, Detroit, MI 48202, USA, Detroit
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/lincoln-factory/)*

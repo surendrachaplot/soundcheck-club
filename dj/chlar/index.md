@@ -1,6 +1,6 @@
 # Chlär
 
-Chlär is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 31 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Chlär is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
 Chlär is a techno and house artist based in Switzerland, with 288 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 69 more. Often billed alongside Alarico, Funk Assault and Freddy K. Next up: Factory Town, Miami on Fri 30 Oct.
 
@@ -36,4 +36,4 @@ Chlär is a techno and house artist based in Switzerland, with 288 gigs on sound
 
 Alarico, Funk Assault, Freddy K
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
+*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chlar/)*
