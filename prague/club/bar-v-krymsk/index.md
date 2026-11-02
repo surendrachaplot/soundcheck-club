@@ -1,18 +1,25 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "House 4 Adults ___ DJ Cubik" on Fri, 30 Oct 2026.
+Bar v Krymský is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Sasha Nevolin" on Fri, 6 Nov 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including Cubik and Kat Kat Tat. See dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Brady, Haseeb Iqbal, Lillou and Marcelo K2 and 2 more. See dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | House 4 Adults ___ DJ Cubik | Cubik |
-| Sat, 31 Oct 2026 | Kat Kat Tat (Berlin/DE) | Kat Kat Tat |
+| Fri, 6 Nov 2026 | Sasha Nevolin | Sasha Nevolin |
+| Sat, 7 Nov 2026 | Novelist Album Listening Party + Q&A with Haseeb Iqbal | Haseeb Iqbal, Novelist |
+| Sat, 7 Nov 2026 | Marcelo K2 & VIK | Marcelo K2 |
+| Fri, 13 Nov 2026 | BE GOOD with Aiffel, johan, Mido |  |
+| Sat, 14 Nov 2026 | Baltazar |  |
+| Fri, 20 Nov 2026 | Babe LN |  |
+| Sat, 21 Nov 2026 | Petr K & Lillou | Lillou |
+| Fri, 27 Nov 2026 | Brady & Next - Bday Bash | Brady |
+| Sat, 28 Nov 2026 | Kohl & Vitton |  |
 
 ## Address
 
 Krymská 21, Praha, Prague
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

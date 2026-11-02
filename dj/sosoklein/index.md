@@ -1,13 +1,14 @@
 # Soso Klein
 
-Soso Klein is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Odonien, Cologne on Sat, 2 Oct 2027.
+Soso Klein is a Downtempo and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Beate Uwe, Berlin on Sun, 6 Dec 2026.
 
-Soso Klein is a downtempo and deep house artist based in France, with 46 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 1 more. Often billed alongside Horst Haller, Alex.Do and Elias Doré. Next up: Odonien, Cologne on Sat 2 Oct.
+Soso Klein is a downtempo and deep house artist based in France, with 47 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 1 more. Often billed alongside Horst Haller, Alex.Do and Elias Doré. Next up: Beate Uwe, Berlin on Sun 6 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 6 Dec 2026 | Beate Uwe | Berlin |
 | Sat, 2 Oct 2027 | Odonien | Cologne |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Vibe-Tribe Vol. 2 at Beat Boutique
 
-Vibe-Tribe Vol. 2 at Beat Boutique on Fri 11 Dec, Hamburg. 1 artist: Majandra. See the line-up on soundcheck.
+Vibe-Tribe Vol. 2 at Beat Boutique on Fri 11 Dec, Hamburg. 1 artist: Majandra. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SHINE" on Fri, 6 Nov 2026.
+ZUBAR is a music venue in Tokyo with 23 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SHINE" on Fri, 6 Nov 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including cirra, Futa, Kazu and Ken Sugai and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 23 upcoming gigs, with line-ups including AKARI, cirra, Futa and Katie (NL) and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 

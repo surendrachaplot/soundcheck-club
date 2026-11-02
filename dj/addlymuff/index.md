@@ -1,14 +1,15 @@
 # AddlyMuff
 
-AddlyMuff is a Guaracha and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 14 Nov 2026.
+AddlyMuff is a Guaracha and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at El Pumarejo Barcelona, Barcelona on Sat, 14 Nov 2026.
 
-AddlyMuff is a guaracha and electronica artist based in Mexico, with 16 gigs on soundcheck across Barcelona and Mexico City. Often billed alongside Choi, Amapola Rose and Iris Estefanía. Next up: El Pumarejo Barcelona, Barcelona on Sat 14 Nov.
+AddlyMuff is a guaracha and electronica artist based in Mexico, with 17 gigs on soundcheck across Barcelona, Mexico City and Prague. Often billed alongside Choi, Amapola Rose and Iris Estefanía. Next up: El Pumarejo Barcelona, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | El Pumarejo Barcelona | Barcelona |
+| Thu, 26 Nov 2026 | Fuchs2 | Prague |
 | Fri, 4 Dec 2026 | Barba Azul | Mexico City |
 
 ## Recently played

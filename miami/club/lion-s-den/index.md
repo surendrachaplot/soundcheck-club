@@ -1,13 +1,14 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Art Basel: AirFunk - Chez Damier & More" on Thu, 3 Dec 2026.
+Lion's Den is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Mimi Love, Manumat" on Fri, 6 Nov 2026.
 
-Lion's Den is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including Adam Collins, Chez Damier, Lou Flores and Maxime dB and 1 more. See dates, start times and who's playing. 150 NW 73rd st.
+Lion's Den is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including Adam Collins, Chez Damier, Lou Flores and Manumat and 2 more. See dates, start times and who's playing. 150 NW 73rd st.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Mimi Love, Manumat | Manumat, Mimi Love |
 | Thu, 3 Dec 2026 | Art Basel: AirFunk - Chez Damier & More | Adam Collins, Chez Damier, Lou Flores, Maxime dB, Shaun Reeves |
 
 ## Address

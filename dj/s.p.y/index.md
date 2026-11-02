@@ -1,14 +1,13 @@
 # S.P.Y
 
-S.P.Y is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kindred Studios, Melbourne on Mon, 2 Nov 2026.
+S.P.Y is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Marble Bar, Detroit on Thu, 10 Dec 2026.
 
-S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside LowQui, K Motionz and Andy C. Next up: Kindred Studios, Melbourne on Mon 2 Nov.
+S.P.Y is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 36 more. Often billed alongside LowQui, K Motionz and Andy C. Next up: Marble Bar, Detroit on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Kindred Studios | Melbourne |
 | Thu, 10 Dec 2026 | Marble Bar | Detroit |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 

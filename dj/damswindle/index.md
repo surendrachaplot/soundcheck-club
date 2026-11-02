@@ -1,14 +1,13 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Night Cat, Melbourne on Mon, 2 Nov 2026.
+Dam Swindle is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Armazem Solon, Sao Paulo on Sat, 28 Nov 2026.
 
-Dam Swindle is a house and disco artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 50 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: The Night Cat, Melbourne on Mon 2 Nov.
+Dam Swindle is a house and disco artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 50 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: Armazem Solon, Sao Paulo on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | The Night Cat | Melbourne |
 | Sat, 28 Nov 2026 | Armazem Solon | Sao Paulo |
 | Thu, 3 Dec 2026 | Dahlia Stereo | Manchester |
 | Fri, 11 Dec 2026 | Jaeger | Oslo |

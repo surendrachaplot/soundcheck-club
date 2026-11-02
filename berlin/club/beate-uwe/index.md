@@ -1,8 +1,8 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Tanzen3000" on Tue, 3 Nov 2026.
+Beate Uwe is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Tanzen3000" on Tue, 3 Nov 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Schneider, ANXA, Better Call Paul and Brahmski and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including Adrian Schneider, ANXA, Audae and Better Call Paul and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 

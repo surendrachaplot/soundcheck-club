@@ -10,8 +10,8 @@ Osmosis Jones is a garage and house artist based in Australia, with 103 gigs on 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Bullingdon | South-east |
 | Fri, 13 Nov 2026 | FORGE | Sheffield |
-| Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
-| Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
+| Sat, 21 Nov 2026 | TBA | Singapore |
+| Sun, 22 Nov 2026 | TBA | Hong Kong |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Langley Park | Perth |

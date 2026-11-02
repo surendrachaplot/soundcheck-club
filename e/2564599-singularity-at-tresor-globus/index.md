@@ -1,6 +1,6 @@
 # ◥◣SINGULARITY◥◣ at Tresor / Globus
 
-◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 30 Nov, Berlin. 3 artists: Danny Wabbit, Parisha and Ruslan Mays. Techno. See the line-up on soundcheck.
+◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 30 Nov, Berlin. 4 artists: Alex.Do, Danny Wabbit, Parisha and Ruslan Mays. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Alex.Do
 - Danny Wabbit
 - Parisha
 - Ruslan Mays

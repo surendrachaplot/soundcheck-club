@@ -1,8 +1,8 @@
 # RUIZ OSC1
 
-RUIZ OSC1 is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 7 Nov 2026.
+RUIZ OSC1 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 7 Nov 2026.
 
-RUIZ OSC1 is a techno and house artist based in Colombia, with 179 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 51 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: Karmen Camina, Strasbourg on Sat 7 Nov.
+RUIZ OSC1 is a techno and house artist based in Colombia, with 178 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 51 more. Often billed alongside Carmen Electro, Tarkno and slin. Next up: Karmen Camina, Strasbourg on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ RUIZ OSC1 is a techno and house artist based in Colombia, with 179 gigs on sound
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Karmen Camina | Strasbourg |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
-| Fri, 20 Nov 2026 | Yamamori Tengu | Dublin |
 | Sat, 5 Dec 2026 | Le Cargö | West |
 | Thu, 31 Dec 2026 | TBA - Secret Place | Paris |
 

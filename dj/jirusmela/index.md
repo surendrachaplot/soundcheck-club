@@ -1,13 +1,14 @@
 # Jirus (MELA)
 
-Jirus (MELA) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Elsewhere, Bangkok on Sat, 7 Nov 2026.
+Jirus (MELA) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Elsewhere, Bangkok on Fri, 6 Nov 2026.
 
-Jirus (MELA) is a house and techno artist based in Thailand, with 103 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 4 more. Often billed alongside DOTT, Sarayu and Kova O' Sarin. Next up: Elsewhere, Bangkok on Sat 7 Nov.
+Jirus (MELA) is a house and techno artist based in Thailand, with 104 gigs on soundcheck across Bali, Bangkok, Hanoi and Ho Chi Minh City and 4 more. Often billed alongside DOTT, Sarayu and Kova O' Sarin. Next up: Elsewhere, Bangkok on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Elsewhere | Bangkok |
 | Sat, 7 Nov 2026 | Elsewhere | Bangkok |
 
 ## Recently played

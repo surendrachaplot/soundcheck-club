@@ -1,8 +1,8 @@
 # Kaoru Inoue
 
-Kaoru Inoue is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Numm, Tokyo on Fri, 6 Nov 2026.
+Kaoru Inoue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Numm, Tokyo on Fri, 6 Nov 2026.
 
-Kaoru Inoue is a house and techno artist based in Japan, with 41 gigs on soundcheck across Chubu, Kyoto, Mexico City and Osaka and 1 more. Often billed alongside CHIDA, SIGNAL (JP) and TAT2K. Next up: Numm, Tokyo on Fri 6 Nov.
+Kaoru Inoue is a house and techno artist based in Japan, with 42 gigs on soundcheck across Chubu, Kyoto, Mexico City and Osaka and 1 more. Often billed alongside CHIDA, SIGNAL (JP) and TAT2K. Next up: Numm, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kaoru Inoue is a house and techno artist based in Japan, with 41 gigs on soundch
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Numm | Tokyo |
 | Fri, 6 Nov 2026 | Numm | Tokyo |
+| Thu, 3 Dec 2026 | WOMB | Tokyo |
 
 ## Recently played
 

@@ -2,7 +2,7 @@
 
 Harry Connell is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
 
-Harry Connell is a techno and house artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside MASSI., Mordi and 3LOAR. Next up: ark (Melb), Melbourne on Sat 7 Nov.
+Harry Connell is a techno and house artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside MASSI., DAARONS and Mordi. Next up: ark (Melb), Melbourne on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Harry Connell is a techno and house artist based in Australia, with 10 gigs on s
 
 ## Shares bills with
 
-MASSI., Mordi, 3LOAR
+MASSI., DAARONS, Mordi
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryconnell/)*

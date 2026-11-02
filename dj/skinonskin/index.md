@@ -12,8 +12,8 @@ Skin On Skin is a techno and house artist based in South Sudan, with 160 gigs on
 | Sat, 7 Nov 2026 | Sala Cocó | Madrid |
 | Fri, 13 Nov 2026 | Mirage | Hanoi |
 | Sat, 14 Nov 2026 | Panorama Studio | Ho Chi Minh City |
-| Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
-| Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
+| Sat, 21 Nov 2026 | TBA | Singapore |
+| Sun, 22 Nov 2026 | TBA | Hong Kong |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Fri, 28 May 2027 | Peckham Rye Park | London |

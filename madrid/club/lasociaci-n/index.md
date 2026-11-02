@@ -1,8 +1,8 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Roots [extended] with Gabbs" on Fri, 6 Nov 2026.
+Lasociaciøn is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Roots [extended] with Gabbs" on Fri, 6 Nov 2026.
 
-Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including ADRI.G, Alex (ES), Ania Bruster and Arlase and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
+Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including ADRI.G, Alex (ES), Ania Bruster and Arlase and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, w
 | Sun, 29 Nov 2026 | EXTENDED TIME of OVERDRIVE | Jesus Riaño, Ricardo Morales, Yvan Corrochano |
 | Mon, 7 Dec 2026 | Dunkeln Madrid | Oscar Blue, PW DISTORTION, Yiye |
 | Sat, 12 Dec 2026 | Only Vinyl Night: Selected Records Showcase — XVIII Years | G4G0, Gabriel D'or & Bordoy, Pyramidal Decode, SERNA, Trasto, Xpansul |
+| Thu, 24 Dec 2026 | Soundhall Aniversario | Beatrice (DE), E2NMN, K1000o, Redondoo, Yiye, exuvia |
 
 ## Address
 

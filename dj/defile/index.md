@@ -1,14 +1,14 @@
 # DEFILE
 
-DEFILE is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at XOYO, London on Thu, 5 Nov 2026.
+DEFILE is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Gallery, London on Thu, 5 Nov 2026.
 
-DEFILE is a deep house and tech house artist based in Italy, with 29 gigs on soundcheck across London and Prague. Often billed alongside Billa Bazz, Giacomo Mei and Umaedo. Next up: XOYO, London on Thu 5 Nov.
+DEFILE is a deep house and tech house artist based in Italy, with 29 gigs on soundcheck across London and Prague. Often billed alongside Billa Bazz, Giacomo Mei and Umaedo. Next up: Gallery, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | XOYO | London |
+| Thu, 5 Nov 2026 | Gallery | London |
 
 ## Recently played
 

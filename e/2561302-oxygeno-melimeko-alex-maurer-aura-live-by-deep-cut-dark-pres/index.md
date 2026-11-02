@@ -1,6 +1,6 @@
 # Oxygeno, MELIMEKO , Alex Maurer, Aura (live) by deep cut & Dark Pressure - Hypnotic Techno at FLUCC
 
-Oxygeno, MELIMEKO , Alex Maurer, Aura (live) by deep cut & Dark Pressure - Hypnotic Techno at FLUCC on Fri 13 Nov, Vienna. 2 artists: MELIMEKO and Oxygeno. Techno and Experimental. See the line-up on soundcheck.
+Oxygeno, MELIMEKO , Alex Maurer, Aura (live) by deep cut & Dark Pressure - Hypnotic Techno at FLUCC on Fri 13 Nov, Vienna. 3 artists: Aura Live, MELIMEKO and Oxygeno. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Oxygeno, MELIMEKO , Alex Maurer, Aura (live) by deep cut & Dark Pressure - Hypno
 
 ## Line-up
 
+- Aura Live
 - MELIMEKO
 - Oxygeno
 

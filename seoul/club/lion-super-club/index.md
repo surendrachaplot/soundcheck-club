@@ -1,13 +1,14 @@
 # Lion Super Club
 
-Lion Super Club is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "GLOBAL CALLING: CamelPhat" on Thu, 12 Nov 2026.
+Lion Super Club is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DOMESTIC CALLING: PULS" on Sat, 7 Nov 2026.
 
-Lion Super Club is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including CamelPhat and Kasablanca. See dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
+Lion Super Club is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including CamelPhat and Kasablanca. See dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | DOMESTIC CALLING: PULS |  |
 | Thu, 12 Nov 2026 | GLOBAL CALLING: CamelPhat | CamelPhat |
 | Fri, 27 Nov 2026 | GLOBAL CALLING: Kasablanca | Kasablanca |
 

@@ -9,7 +9,7 @@ INPUT High Fidelity Dance Club is a music venue in Barcelona listed on soundchec
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | INPUT pres MR BELT & WEZOL | Mr. Belt & Wezol |
-| Fri, 6 Nov 2026 | INPUT pres Mika Heggemann | Mika Heggemann |
+| Fri, 6 Nov 2026 | INPUT pres Mika Heggemann | Mika Heggemann, Nita Key, VIVAY |
 | Sat, 7 Nov 2026 | PRISM pres Dubfire 20 | Dubfire, Sciahri |
 | Fri, 13 Nov 2026 | PRISM pres Colin Benders live & Beste Hira | Beste Hira, Colin Benders, Hitch |
 | Fri, 20 Nov 2026 | PRISM pres Kangding Ray & Kerrie | Kangding Ray, Kerrie |

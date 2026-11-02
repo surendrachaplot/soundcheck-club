@@ -1,8 +1,8 @@
 # umru
 
-umru is a Club and Pop artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Botanique, Brussels on Fri, 6 Nov 2026.
+umru is a Club and Pop artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Botanique, Brussels on Fri, 6 Nov 2026.
 
-umru is a club and pop artist based in United States of America, with 169 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 55 more. Often billed alongside Petal Supply, Ninajirachi and GRRL. Next up: Botanique, Brussels on Fri 6 Nov.
+umru is a club and pop artist based in United States of America, with 170 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 55 more. Often billed alongside Petal Supply, Ninajirachi and GRRL. Next up: Botanique, Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ umru is a club and pop artist based in United States of America, with 169 gigs o
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Botanique | Brussels |
 | Sat, 7 Nov 2026 | MOD Club | Tallinn |
+| Mon, 9 Nov 2026 | Yamamori Tengu | Dublin |
 | Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 

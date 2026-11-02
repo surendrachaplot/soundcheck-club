@@ -2,13 +2,13 @@
 
 TBA - Lisboa is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "BELOW ZERO" on Sat, 7 Nov 2026.
 
-TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. To Be Announced.
+TBA - Lisboa is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including THANILA. See dates, start times and who's playing. To Be Announced.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | BELOW ZERO |  |
+| Sat, 7 Nov 2026 | BELOW ZERO | THANILA |
 
 ## Address
 

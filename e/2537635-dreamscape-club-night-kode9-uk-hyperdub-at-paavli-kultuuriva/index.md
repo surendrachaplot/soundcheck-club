@@ -1,6 +1,6 @@
 # Dreamscape Club Night: Kode9 (UK / Hyperdub) at Paavli Kultuurivabrik
 
-Dreamscape Club Night: Kode9 (UK / Hyperdub) at Paavli Kultuurivabrik on Fri 13 Nov, Tallinn. 7 artists: Gary Gwadera, Kode9, Nikolajev and Silvia Kastel and 3 more. Bass and Footwork. See the line-up on soundcheck.
+Dreamscape Club Night: Kode9 (UK / Hyperdub) at Paavli Kultuurivabrik on Fri 13 Nov, Tallinn. 10 artists: celestica, Gary Gwadera, Kode9 and Loann Lukyann and 6 more. Bass and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,14 @@ Dreamscape Club Night: Kode9 (UK / Hyperdub) at Paavli Kultuurivabrik on Fri 13 
 
 ## Line-up
 
+- celestica
 - Gary Gwadera
 - Kode9
+- Loann Lukyann
 - Nikolajev
 - Silvia Kastel
 - Susanna Raiend
+- Tanel Mütt
 - Type1
 - Wash Electra
 

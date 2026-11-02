@@ -1,13 +1,14 @@
 # Ayato
 
-Ayato is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Socore Factory, Osaka on Fri, 20 Nov 2026.
+Ayato is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Socore Factory, Osaka on Fri, 20 Nov 2026.
 
-Ayato is a techno and house artist based in Japan, with 25 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SASAKI Hiroaki, ALEXANDER M and CARTOON. Next up: Socore Factory, Osaka on Fri 20 Nov.
+Ayato is a techno and house artist based in Japan, with 26 gigs on soundcheck across Osaka and Tokyo. Often billed alongside SASAKI Hiroaki, ALEXANDER M and CARTOON. Next up: Socore Factory, Osaka on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Socore Factory | Osaka |
 | Fri, 20 Nov 2026 | Socore Factory | Osaka |
 | Sun, 6 Dec 2026 | Forestlimit | Tokyo |
 

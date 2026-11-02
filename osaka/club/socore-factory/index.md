@@ -1,8 +1,8 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 23 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "aryy ONE-MAN SHOW" on Thu, 5 Nov 2026.
+Socore Factory is a music venue in Osaka with 24 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "aryy ONE-MAN SHOW" on Thu, 5 Nov 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 23 upcoming gigs, with line-ups including Ayato, Can, DJ Compufunk and Fluid and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 24 upcoming gigs, with line-ups including Ayato, Can, DJ Compufunk and Fluid and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 

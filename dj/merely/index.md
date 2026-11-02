@@ -1,13 +1,14 @@
 # merely
 
-merely is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at EartH, London on Mon, 7 Dec 2026.
+merely is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Galeria Zé Dos Bois, Lisbon on Sat, 14 Nov 2026.
 
-merely is an experimental and ambient artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Berlin, Helsinki and London and 1 more. Often billed alongside Niko Demus, Himera and baby ganoush. Next up: EartH, London on Mon 7 Dec.
+merely is an electronica and experimental artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Berlin, Helsinki and Lisbon and 2 more. Often billed alongside Niko Demus, Himera and baby ganoush. Next up: Galeria Zé Dos Bois, Lisbon on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Galeria Zé Dos Bois | Lisbon |
 | Mon, 7 Dec 2026 | EartH | London |
 
 ## Recently played

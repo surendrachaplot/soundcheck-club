@@ -1,6 +1,6 @@
-# CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker at Eventhuset
+# CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker: TyStyle, Holtter at Eventhuset
 
-CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker at Eventhuset on Sat 7 Nov, Stockholm. 2 artists: CC Luna and Metapattern. Techno and Tech House. See the line-up on soundcheck.
+CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker: TyStyle, Holtter at Eventhuset on Sat 7 Nov, Stockholm. 2 artists: CC Luna and Metapattern. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

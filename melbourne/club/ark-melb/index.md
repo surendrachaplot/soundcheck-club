@@ -1,14 +1,14 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ark // Crÿbaby - MASSI. - Harry Connell - " on Sat, 7 Nov 2026.
+ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ark // Crÿbaby - MASSI. - Harry Connell " on Sat, 7 Nov 2026.
 
-ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Auramatic, Crybaby, Cybernet and Dan Newman and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
+ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Auramatic, Crybaby, Cybernet and DAARONS and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | ark // Crÿbaby - MASSI. - Harry Connell -  | Crybaby, Harry Connell, MASSI. |
+| Sat, 7 Nov 2026 | ark // Crÿbaby - MASSI. - Harry Connell  | Crybaby, DAARONS, Harry Connell, MASSI., N.Y.A |
 | Sat, 14 Nov 2026 | ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] | James Poole, KELLAR |
 | Sat, 21 Nov 2026 | ark // Ellia Jaya [UK] - Dark x Guerrilla Afterparty | Ellia Jaya |
 | Sat, 28 Nov 2026 | ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL] | Auramatic, Dan Newman, Merel Helderman |

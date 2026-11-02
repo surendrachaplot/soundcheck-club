@@ -1,6 +1,6 @@
-# Sauti by Amour Africain at Monarch
+# SAUTI by Amour Africain at Monarch
 
-Sauti by Amour Africain at Monarch on Fri 6 Nov, Berlin. 4 artists: hero, Hey Bony, Juba and STEFFOO. Gqom and Kuduro. See the line-up on soundcheck.
+SAUTI by Amour Africain at Monarch on Fri 6 Nov, Berlin. 4 artists: hero, Hey Bony, Juba and STEFFOO. Gqom and Kuduro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

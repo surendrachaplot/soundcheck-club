@@ -1,13 +1,14 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Domicile, Miami on Fri, 6 Nov 2026.
+Laure Croft is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Domicile, Miami on Fri, 6 Nov 2026.
 
-Laure Croft is a techno and house artist based in Netherlands, with 227 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 68 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Domicile, Miami on Fri 6 Nov.
+Laure Croft is a techno and house artist based in Netherlands, with 228 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 68 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Domicile, Miami on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Domicile | Miami |
 | Fri, 6 Nov 2026 | Domicile | Miami |
 | Sat, 7 Nov 2026 | TBA | Atlanta |
 | Sat, 14 Nov 2026 | TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84 | Tbilisi |

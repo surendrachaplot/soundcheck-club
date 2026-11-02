@@ -1,13 +1,14 @@
 # ANDREA SALVAGGIO
 
-ANDREA SALVAGGIO is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tenax, Florence on Sat, 14 Nov 2026.
+ANDREA SALVAGGIO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at BARDO, Milan on Fri, 6 Nov 2026.
 
-ANDREA SALVAGGIO is a techno and electro artist based in Italy, with 51 gigs on soundcheck across Barcelona, Bologna, Florence and London and 7 more. Often billed alongside Valerio Della Notte, Enrico Vivaldi and Test_One. Next up: Tenax, Florence on Sat 14 Nov.
+ANDREA SALVAGGIO is a techno and house artist based in Italy, with 52 gigs on soundcheck across Barcelona, Bologna, Florence and London and 7 more. Often billed alongside Valerio Della Notte, Enrico Vivaldi and Test_One. Next up: BARDO, Milan on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | BARDO | Milan |
 | Sat, 14 Nov 2026 | Tenax | Florence |
 
 ## Recently played

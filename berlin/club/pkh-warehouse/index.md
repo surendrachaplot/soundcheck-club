@@ -11,6 +11,6 @@ PKH Warehouse is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, 
 | Sat, 7 Nov 2026 | Clubnacht |  |
 | Sat, 21 Nov 2026 | SYMBIOSIS | Atype, Daora, Grace Thompson, K3VKO, Michael Klotz, Momentune, NYXEA, RHYTMOX, Texo |
 | Sat, 5 Dec 2026 | Clubnacht with Tragedie, uvm | Teenage Mutants |
-| Sat, 12 Dec 2026 | ParkhausRave - KlangSubsTanz | Ali Rajat, Aslan Venom, Einfach Taffo, Jabuka, LANA:YEN, Lizzy LoOp, MIRALEO, Maltesar, Marc Eisenberg, OPSOAS, VITØ VITE, Zallix, agls, selo |
+| Sat, 12 Dec 2026 | ParkhausRave - KlangSubsTanz | Ali Rajat, Aslan Venom, Einfach Taffo, FYZIØ, Jabuka, LANA:YEN, Lizzy LoOp, MIRALEO, Maltesar, Marc Eisenberg, OPSOAS, VITØ VITE, Zallix, agls, selo |
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/pkh-warehouse/)*

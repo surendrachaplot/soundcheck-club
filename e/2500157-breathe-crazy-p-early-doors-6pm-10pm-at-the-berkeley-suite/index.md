@@ -1,6 +1,6 @@
 # BREATHE: Crazy P : Early Doors 6PM -10PM at The Berkeley Suite
 
-BREATHE: Crazy P : Early Doors 6PM -10PM at The Berkeley Suite on Sat 28 Nov, Glasgow. 1 artist: Crazy P. House and Disco. See the line-up on soundcheck.
+BREATHE: Crazy P : Early Doors 6PM -10PM at The Berkeley Suite on Sat 28 Nov, Glasgow. 2 artists: Crazy P and Jamie Gunn. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ BREATHE: Crazy P : Early Doors 6PM -10PM at The Berkeley Suite on Sat 28 Nov, Gl
 ## Line-up
 
 - Crazy P
+- Jamie Gunn
 
 *Source: [soundcheck](https://soundcheck.club/e/2500157-breathe-crazy-p-early-doors-6pm-10pm-at-the-berkeley-suite/)*

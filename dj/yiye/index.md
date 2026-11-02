@@ -1,14 +1,15 @@
 # Yiye
 
-Yiye is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lasociaciøn, Madrid on Mon, 7 Dec 2026.
+Yiye is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Lasociaciøn, Madrid on Mon, 7 Dec 2026.
 
-Yiye is a techno and dub techno artist based in Spain, with 8 gigs on soundcheck across Berlin and Madrid. Often billed alongside Redondoo, Oscar Blue and K1000o. Next up: Lasociaciøn, Madrid on Mon 7 Dec.
+Yiye is a techno and dub techno artist based in Spain, with 9 gigs on soundcheck across Berlin and Madrid. Often billed alongside Redondoo, K1000o and Oscar Blue. Next up: Lasociaciøn, Madrid on Mon 7 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 7 Dec 2026 | Lasociaciøn | Madrid |
+| Thu, 24 Dec 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ Yiye is a techno and dub techno artist based in Spain, with 8 gigs on soundcheck
 
 ## Shares bills with
 
-Redondoo, Oscar Blue, K1000o
+Redondoo, K1000o, Oscar Blue
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yiye/)*

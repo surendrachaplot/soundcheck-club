@@ -2,7 +2,7 @@
 
 BAGGA is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Le 211, Paris on Sun, 22 Nov 2026.
 
-BAGGA is a techno and dub techno artist, with 4 gigs on soundcheck across Paris. Often billed alongside AMAYO, H2O and OHM. Next up: Le 211, Paris on Sun 22 Nov.
+BAGGA is a techno and dub techno artist based in France, with 4 gigs on soundcheck across Paris. Often billed alongside AMAYO, H2O and OHM. Next up: Le 211, Paris on Sun 22 Nov.
 
 ## Upcoming shows
 

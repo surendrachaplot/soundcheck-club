@@ -1,14 +1,15 @@
 # Captain Knuckles
 
-Captain Knuckles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Turbina, Budapest on Thu, 12 Nov 2026.
+Captain Knuckles is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Turbina, Budapest on Thu, 12 Nov 2026.
 
-Captain Knuckles is a house and tech house artist based in Hungary, with 80 gigs on soundcheck across Budapest. Often billed alongside Sobek, Sabani and Adx. Next up: Turbina, Budapest on Thu 12 Nov.
+Captain Knuckles is a house and tech house artist based in Hungary, with 81 gigs on soundcheck across Budapest. Often billed alongside Sobek, Sabani and Adx. Next up: Turbina, Budapest on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Turbina | Budapest |
+| Sat, 14 Nov 2026 | Vektor - The Klub | Budapest |
 
 ## Recently played
 

@@ -1,10 +1,10 @@
 # Pedro Tabuada • Dj Vibe Tribute at Era uma vez no Porto
 
-Pedro Tabuada • Dj Vibe Tribute at Era uma vez no Porto on Wed 11 Nov, Porto. 1 artist: Pedro Tabuada. Techno and House. See the line-up on soundcheck.
+Pedro Tabuada • Dj Vibe Tribute at Era uma vez no Porto on Wed 4 Nov, Porto. 1 artist: Pedro Tabuada. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 11 Nov 2026 |
+| Date | Wed, 4 Nov 2026 |
 | Venue | Era uma vez no Porto |
 | City | Porto |
 

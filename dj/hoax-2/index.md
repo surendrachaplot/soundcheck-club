@@ -1,13 +1,14 @@
 # Hoax (UK)
 
-Hoax (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Outernet Live, London on Fri, 27 Nov 2026.
+Hoax (UK) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Melkweg, Amsterdam on Sat, 14 Nov 2026.
 
-Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, with 14 gigs on soundcheck across Auckland, Brighton, Bristol and Ibiza and 5 more. Often billed alongside Nu:Tone, Danny Byrd and Fred V. Next up: Outernet Live, London on Fri 27 Nov.
+Hoax (UK) is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 6 more. Often billed alongside Nu:Tone, Danny Byrd and Fred V. Next up: Melkweg, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Melkweg | Amsterdam |
 | Fri, 27 Nov 2026 | Outernet Live | London |
 | Fri, 4 Dec 2026 | Stealth | Nottingham |
 

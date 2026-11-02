@@ -9,7 +9,7 @@ Hotel Labtwentytwo is a music venue in Barcelona listed on soundcheck. 2 upcomin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | CALYMA The Opening | LYNNA |
-| Sun, 22 Nov 2026 | AYLA Tribal Rave BCN - Vol. 6 | LYNNA |
+| Sun, 22 Nov 2026 | AYLA Tribal Rave BCN – Vol. 6 / Main RSVPs on Luma | LYNNA |
 
 ## Address
 

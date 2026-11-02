@@ -1,6 +1,6 @@
 # Roos Revival at Bar Silver Vinyl Lounge & The Vault
 
-Roos Revival at Bar Silver Vinyl Lounge & The Vault on Sat 28 Nov, London. 1 artist: DJ-Roo. Techno and House. See the line-up on soundcheck.
+Roos Revival at Bar Silver Vinyl Lounge & The Vault on Sat 28 Nov, London. 3 artists: DirtyBassLover, DJ-Roo and Photrix. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Roos Revival at Bar Silver Vinyl Lounge & The Vault on Sat 28 Nov, London. 1 art
 
 ## Line-up
 
+- DirtyBassLover
 - DJ-Roo
+- Photrix
 
 *Source: [soundcheck](https://soundcheck.club/e/2544854-roos-revival-at-bar-silver-vinyl-lounge-the-vault/)*

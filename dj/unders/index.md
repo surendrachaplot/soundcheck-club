@@ -1,13 +1,14 @@
 # unders
 
-unders is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 5 Dec 2026.
+unders is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at BASE Milano, Milan on Fri, 27 Nov 2026.
 
-unders is a deep house and house artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside Igor Marijuan, Omer Tayar and Words of Niō. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 5 Dec.
+unders is a deep house and house artist based in Netherlands, with 70 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Igor Marijuan, Omer Tayar and Words of Niō. Next up: BASE Milano, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | BASE Milano | Milan |
 | Sat, 5 Dec 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
 | Thu, 31 Dec 2026 | Zamna Tulum | Tulum |
 

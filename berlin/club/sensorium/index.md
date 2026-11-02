@@ -8,13 +8,13 @@ Sensorium is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | TECHNO MITTWOCH | CEEE, ChéRebel, EVYA, H7 (3), Katja Kilig, UniKhatu, Viktor Kampf, jaynetics |
+| Wed, 4 Nov 2026 | TECHNO MITTWOCH | CEEE, ChéRebel, EVYA, H7 (3), Katja Kilig, UniKhatu, Viktor Kampf, jaynetics, rynbj (2) |
 | Fri, 6 Nov 2026 | ETHER | Daviti, pink-panther |
-| Sat, 7 Nov 2026 | SENSO NACHT | Ankit, Kijara, LA BITCHENCIO, Mute, Nicolaus Made, Viktor Kampf |
+| Sat, 7 Nov 2026 | SENSO NACHT | Ankit, Eleonor Bianchi, Kijara, LA BITCHENCIO, Mute., Nicolaus Made, Viktor Kampf |
 | Wed, 11 Nov 2026 | TECHNO MITTWOCH | Bee Lincoln, Blck-Swan, Bouquet |
 | Sun, 15 Nov 2026 | ETHER WITH TRIG & Afternoon | Caterina Carrera, Viktor Kampf |
 | Wed, 18 Nov 2026 | TECHNO MITTWOCH | PETDuo, Viktor Kampf, nixmoon |
-| Fri, 20 Nov 2026 | TOGETHER FOR GAZA /// MIUSIC FOR HUAMANITY  | Andeel, Ankit, Blachord, DJ Hitwave, Finjas, Jvhnq, KÜRÜF, VEGANICECREAM, d4ia, k.meower, krawallin, peak2soon, pink-panther |
+| Fri, 20 Nov 2026 | TOGETHER FOR GAZA /// MIUSIC FOR HUMANITY  | Andeel, Ankit, Blachord, DJ Hitwave, Finjas, Jvhnq, KÜRÜF, VEGANICECREAM, d4ia, k.meower, krawallin, peak2soon, pink-panther |
 | Sat, 21 Nov 2026 | SENSO NACHT |  |
 | Wed, 25 Nov 2026 | TECHNO MITTWOCH | NYCTO, menicx |
 | Fri, 27 Nov 2026 | Senso Nacht | Camilla Tarantino, Esposito, Loco (IT), NORA (BR), Stallo, Viktor Kampf, Zokiren |

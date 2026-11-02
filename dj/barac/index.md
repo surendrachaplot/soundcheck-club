@@ -1,13 +1,14 @@
 # Barac
 
-Barac is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Puerto-rico on Thu, 7 Jan 2027.
+Barac is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Dybbuk, Athens on Sat, 14 Nov 2026.
 
-Barac is a minimal and minimal techno artist based in Romania, with 48 gigs on soundcheck across Athens, Atlanta, Belgrade and Bogotá and 18 more. Often billed alongside Traumer, Andreas Ramos and Arapu. Next up: TBA, Puerto Rico on Thu 7 Jan.
+Barac is a minimal and minimal techno artist based in Romania, with 49 gigs on soundcheck across Athens, Atlanta, Belgrade and Bogotá and 18 more. Often billed alongside Traumer, Andreas Ramos and Arapu. Next up: Dybbuk, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Dybbuk | Athens |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played

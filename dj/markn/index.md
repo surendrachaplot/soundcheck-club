@@ -2,7 +2,7 @@
 
 Mark N is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Miscellania, Melbourne on Fri, 4 Dec 2026.
 
-Mark N is a jungle and breakbeat artist, with 6 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Kato, AHJU and CS + Kreme. Next up: Miscellania, Melbourne on Fri 4 Dec.
+Mark N is a jungle and breakbeat artist based in Australia, with 6 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Kato, AHJU and CS + Kreme. Next up: Miscellania, Melbourne on Fri 4 Dec.
 
 ## Upcoming shows
 

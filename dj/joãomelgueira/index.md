@@ -1,14 +1,15 @@
 # João Melgueira
 
-João Melgueira is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Pensão Amor, Lisbon on Mon, 2 Nov 2026.
+João Melgueira is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Pensão Amor, Lisbon on Mon, 2 Nov 2026.
 
-João Melgueira is a house and tech house artist based in Portugal, with 146 gigs on soundcheck across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: TBA - Pensão Amor, Lisbon on Mon 2 Nov.
+João Melgueira is a house and tech house artist based in Portugal, with 147 gigs on soundcheck across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: TBA - Pensão Amor, Lisbon on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | TBA - Pensão Amor | Lisbon |
+| Fri, 6 Nov 2026 | TBA - Pink Wine Point | Lisbon |
 | Tue, 17 Nov 2026 | TBA - Pensão Amor | Lisbon |
 | Fri, 20 Nov 2026 | Desterro | Lisbon |
 | Mon, 30 Nov 2026 | TBA - Pensão Amor | Lisbon |

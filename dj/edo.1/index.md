@@ -1,13 +1,14 @@
 # Edo.1
 
-Edo.1 is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tide Nightclub, Brighton on Sat, 12 Dec 2026.
+Edo.1 is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Katapoull, Paris on Sat, 21 Nov 2026.
 
-Edo.1 is a minimal and house artist based in United Kingdom, with 19 gigs on soundcheck across Brighton, London and Paris. Often billed alongside Retrospect, Yard Customer and Adam Chapman. Next up: Tide Nightclub, Brighton on Sat 12 Dec.
+Edo.1 is a minimal and house artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, London and Paris. Often billed alongside Retrospect, Yard Customer and Adam Chapman. Next up: TBA - Katapoull, Paris on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | TBA - Katapoull | Paris |
 | Sat, 12 Dec 2026 | Tide Nightclub | Brighton |
 
 ## Recently played

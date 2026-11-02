@@ -1,14 +1,15 @@
 # Dual Drive
 
-Dual Drive is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kramladen, Vienna on Fri, 6 Nov 2026.
+Dual Drive is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kramladen, Vienna on Fri, 6 Nov 2026.
 
-Dual Drive is a techno and tech house artist based in Sweden, with 21 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and London and 3 more. Often billed alongside Ola Roström, Bøgen and Chopper (Scotland). Next up: Kramladen, Vienna on Fri 6 Nov.
+Dual Drive is a techno and tech house artist based in Sweden, with 22 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and London and 3 more. Often billed alongside Ola Roström, Bøgen and Chopper (Scotland). Next up: Kramladen, Vienna on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Kramladen | Vienna |
+| Sat, 7 Nov 2026 | Slakthuset | Stockholm |
 
 ## Recently played
 

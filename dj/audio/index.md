@@ -1,14 +1,15 @@
 # Audio
 
-Audio is a Drum & Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Křižík Pavilion B, Prague on Fri, 13 Nov 2026.
+Audio is a Drum & Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Křižík Pavilion B, Prague on Fri, 13 Nov 2026.
 
-Audio is a drum & bass and experimental artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bogotá and 21 more. Often billed alongside Ed Rush, Optical and Pythius. Next up: Křižík Pavilion B, Prague on Fri 13 Nov.
+Audio is a drum & bass and experimental artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bogotá and 21 more. Often billed alongside Ed Rush, Optical and Pythius. Next up: Křižík Pavilion B, Prague on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Křižík Pavilion B | Prague |
+| Sat, 14 Nov 2026 | Slakthuset | Stockholm |
 | Fri, 11 Dec 2026 | TBA - B17 Art Complex | Bogotá |
 | Sun, 13 Dec 2026 | Lunchbox | Atlanta |
 

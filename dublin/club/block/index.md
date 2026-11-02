@@ -1,8 +1,8 @@
 # block.
 
-block. is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Block x Asahi Super Dry: Special Request" on Fri, 6 Nov 2026.
+block. is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Block x Asahi Super Dry: Special Request" on Fri, 6 Nov 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including BIIA, Blasha & Allatt, John Digweed and Jamie Fielding and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including BIIA, Blasha & Allatt, John Digweed and Jamie Fielding and 2 more. See dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
@@ -15,6 +15,7 @@ block. is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with li
 | Fri, 27 Nov 2026 | Block x RAW: BIIA | BIIA, NILAAA |
 | Sat, 28 Nov 2026 | Block: John Digweed | John Digweed, Ste Flynn |
 | Fri, 4 Dec 2026 | Block x Influence: Jowi b2b KIRSTY | KIRSTY |
+| Sat, 5 Dec 2026 | Block. Dusky |  |
 | Sat, 19 Dec 2026 | Block: SYREETA & JWY | JWY (1), SYREETA |
 
 ## Address

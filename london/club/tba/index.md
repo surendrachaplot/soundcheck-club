@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 248 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Interstellar Groove Festival 2026" on Fri, 30 Oct 2026.
+TBA is a music venue in London with 256 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Interstellar Groove Festival 2026" on Fri, 30 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 248 upcoming gigs, with line-ups including 1OO1O, 2flowers, 96 Back and Artbat and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 256 upcoming gigs, with line-ups including 1OO1O, 2flowers, 96 Back and Artbat and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

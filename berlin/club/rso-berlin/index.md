@@ -17,7 +17,7 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wi
 | Sat, 28 Nov 2026 | XTRUDE w/ Antigone, Peryl (Live), Lars Huismann, Newa, STEYA, Bambi, oma totem | Ana Rs, Antigone, Audrey Danza, Bambi (FR), LPV, Lars Huismann, Ndrx, Newa, Peryl, STEYA, Shaleen, oma totem |
 | Fri, 4 Dec 2026 | Plasma: 6 Years Femme Bass Mafia with Introspekt, Logan, EMA, Kontronatura, Flore b2b Dangermami | Dangermami, EMA (1), Flore, Genoe, Introspekt, Kontronatura, Logan_olm |
 | Sat, 12 Dec 2026 | XTRUDE x SEXYRECS X OPUS |  |
-| Sat, 19 Dec 2026 | HEISSS I 30 hours | Justine Perry, Paula Koski, Temudo |
+| Sat, 19 Dec 2026 | HEISSS I 30 hours | Elvin, Eoin DJ, Justine Perry, Mathys Lenne, Paula Koski, Temudo |
 
 ## Address
 

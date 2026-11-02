@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 4 Nov, Berlin. 8 artists: CEEE, ChéRebel, EVYA and H7 and 4 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 4 Nov, Berlin. 9 artists: CEEE, ChéRebel, EVYA and H7 and 5 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ TECHNO MITTWOCH at Sensorium on Wed 4 Nov, Berlin. 8 artists: CEEE, ChéRebel, E
 - H7 (3)
 - jaynetics
 - Katja Kilig
+- rynbj (2)
 - UniKhatu
 - Viktor Kampf
 

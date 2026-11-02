@@ -1,8 +1,8 @@
 # Azumaya
 
-Azumaya is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Azumaya -Monday-" on Mon, 2 Nov 2026.
+Azumaya is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Azumaya -Monday-" on Mon, 2 Nov 2026.
 
-Azumaya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including ACID NAGATA, AME (JP), AMIDAdrive and CALPISS and 2 more. See dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
+Azumaya is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including ACID NAGATA, AME (JP), AMIDAdrive and bungo and 2 more. See dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Azumaya is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with l
 | Fri, 6 Nov 2026 | Azumaya -Friday- | Kobashi Mitsuki, Taichi Nagayama |
 | Tue, 10 Nov 2026 | Azumaya -Tuesday- | CALPISS, Shun Kurashima |
 | Wed, 11 Nov 2026 | SubCurrent Vol.18 | AMIDAdrive, HELKTRAM, KCT (1), Rt3mis, SolaNino |
+| Mon, 16 Nov 2026 | Azumaya -Monday- | Sasaki Daichi, kuniii |
 | Fri, 20 Nov 2026 | Azumaya Fridays: Abibi, aoken, Pernet & more |  |
 | Sat, 21 Nov 2026 | m.i.d (mind in development) | YELLOWUHURU |
-| Thu, 26 Nov 2026 | -waah- | ACID NAGATA |
 
 ## Address
 

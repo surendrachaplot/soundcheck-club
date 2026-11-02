@@ -1,14 +1,13 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Dam Swindle (Heist Recordings, NL)" on Mon, 2 Nov 2026.
+The Night Cat is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Gravagerz" on Fri, 6 Nov 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Dam Swindle, dozie (uk), Elsie and Flamingo Pier and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Elsie, Flamingo Pier, Gravagerz and Hercules & Love Affair and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Dam Swindle (Heist Recordings, NL) | Dam Swindle, dozie (uk) |
 | Fri, 6 Nov 2026 | Gravagerz | Gravagerz |
 | Sat, 14 Nov 2026 | Hercules & Love Affair (DJ Set) | Hercules & Love Affair |
 | Fri, 20 Nov 2026 | VENNA - MELBOURNE - The Night Cat |  |

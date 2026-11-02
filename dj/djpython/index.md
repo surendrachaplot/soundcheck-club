@@ -1,8 +1,8 @@
 # DJ Python
 
-DJ Python is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
+DJ Python is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
 
-DJ Python is a techno and house artist based in United States of America, with 194 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 49 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: Nitsa Club, Barcelona on Fri 13 Nov.
+DJ Python is a techno and house artist based in United States of America, with 195 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 49 more. Often billed alongside Nick León, Ana Roxanne and VTSS. Next up: Nitsa Club, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Python is a techno and house artist based in United States of America, with 1
 | Fri, 27 Nov 2026 | Le Chinois | Paris |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Fri, 4 Dec 2026 | Final | Taipei |
+| Sat, 5 Dec 2026 | VENT | Tokyo |
 
 ## Recently played
 

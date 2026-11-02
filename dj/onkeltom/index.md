@@ -1,14 +1,15 @@
 # Onkel Tom
 
-Onkel Tom is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at KitKatClub, Berlin on Sun, 15 Nov 2026.
+Onkel Tom is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at KitKatClub, Berlin on Sun, 15 Nov 2026.
 
-Onkel Tom is a techno and electro artist based in Germany, with 13 gigs on soundcheck across Berlin and Dortmund / Essen. Often billed alongside Daora, Till Krimsen and Bolster. Next up: KitKatClub, Berlin on Sun 15 Nov.
+Onkel Tom is a techno and electro artist based in Germany, with 14 gigs on soundcheck across Berlin and Dortmund / Essen. Often billed alongside Daora, Till Krimsen and Bolster. Next up: KitKatClub, Berlin on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | KitKatClub | Berlin |
+| Thu, 31 Dec 2026 | Kulturbrauerei | Berlin |
 
 ## Recently played
 

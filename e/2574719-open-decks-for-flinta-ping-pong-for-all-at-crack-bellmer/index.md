@@ -1,0 +1,11 @@
+# OPEN DECKS FOR FLINTA* PING PONG FOR ALL at Crack Bellmer
+
+OPEN DECKS FOR FLINTA* PING PONG FOR ALL at Crack Bellmer on Wed 11 Nov, Berlin. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 11 Nov 2026 |
+| Venue | Crack Bellmer |
+| City | Berlin |
+
+*Source: [soundcheck](https://soundcheck.club/e/2574719-open-decks-for-flinta-ping-pong-for-all-at-crack-bellmer/)*

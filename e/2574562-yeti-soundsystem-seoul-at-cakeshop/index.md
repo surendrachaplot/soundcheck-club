@@ -1,6 +1,6 @@
 # YETI SOUNDSYSTEM: SEOUL at Cakeshop
 
-YETI SOUNDSYSTEM: SEOUL at Cakeshop on Fri 13 Nov, Seoul. 7 artists: Arthur Yeti, bojvck, Coziest and h4rdy and 3 more. See the line-up on soundcheck.
+YETI SOUNDSYSTEM: SEOUL at Cakeshop on Fri 13 Nov, Seoul. 7 artists: Arthur Yeti, bojvck, Coziest and h4rdy and 3 more. Garage and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

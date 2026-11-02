@@ -1,8 +1,8 @@
 # BRAND SHIBUYA
 
-BRAND SHIBUYA is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Otologue" on Mon, 2 Nov 2026.
+BRAND SHIBUYA is a music venue in Tokyo with 24 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Otologue" on Mon, 2 Nov 2026.
 
-BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including Aleyum, ANZU, ATT and BEPPU and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
+BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 24 upcoming gigs, with line-ups including Aleyum, ANZU, ATT and BEPPU and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−23−13 渋谷デリタワービル B1F.
 
 ## What's on
 
@@ -10,12 +10,14 @@ BRAND SHIBUYA is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, w
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | Otologue | DJ ISE |
 | Tue, 3 Nov 2026 | TWILO, NEW YORK |  |
+| Tue, 3 Nov 2026 | MUSIC BAR |  |
+| Wed, 4 Nov 2026 | MUSIC BAR |  |
+| Thu, 5 Nov 2026 | Tokyo Deep & Tech Community | Da Yama |
+| Thu, 5 Nov 2026 | MUSIC BAR |  |
+| Fri, 6 Nov 2026 | FBRA -PARTY GATE- |  |
 | Sat, 7 Nov 2026 | Your Night Forever | ANZU, Aleyum, PUNK N MATRIX, Winterflood |
-| Sun, 15 Nov 2026 | MAX MOTION |  |
-| Sun, 15 Nov 2026 | MAX MOTION: ORIGIN # 5 |  |
-| Thu, 19 Nov 2026 | Vinyl Only: Ehito Onuma, Daisuke Tanaka & Masao Mase |  |
-| Fri, 20 Nov 2026 | Cathouse |  |
-| Sun, 22 Nov 2026 | SCOSI -RECORD ONLY- | ATT, BEPPU, Kentaro Takizawa, Remo-con |
+| Tue, 10 Nov 2026 | LOVE |  |
+| Tue, 10 Nov 2026 | MUSIC BAR |  |
 
 ## Address
 

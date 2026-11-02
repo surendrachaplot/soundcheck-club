@@ -1,8 +1,8 @@
 # PC (MX)
 
-PC (MX) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Los Angeles State Historic Park, Los Angeles on Sat, 7 Nov 2026.
+PC (MX) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Los Angeles State Historic Park, Los Angeles on Sat, 7 Nov 2026.
 
-PC (MX) is a techno and house artist, with 15 gigs on soundcheck across Austin, Barcelona, Beijing and Chengdu and 5 more. Often billed alongside CBS, Fox (US) and ROKU. Next up: Los Angeles State Historic Park, Los Angeles on Sat 7 Nov.
+PC (MX) is a techno and house artist, with 16 gigs on soundcheck across Austin, Barcelona, Beijing and Chengdu and 6 more. Often billed alongside CBS, Fox (US) and ROKU. Next up: Los Angeles State Historic Park, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PC (MX) is a techno and house artist, with 15 gigs on soundcheck across Austin, 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Los Angeles State Historic Park | Los Angeles |
 | Sat, 7 Nov 2026 | Parc del Fòrum | Barcelona |
+| Sat, 7 Nov 2026 | Camden Assembly | London |
 | Sat, 7 Nov 2026 | People Like Us Beer Bar | Copenhagen |
 | Sat, 7 Nov 2026 | Utopia | Los Angeles |
 | Sat, 7 Nov 2026 | Tu jau zini Kur | Riga |

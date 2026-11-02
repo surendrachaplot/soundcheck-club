@@ -9,7 +9,7 @@ Steven Shade is a techno and tech house artist based in Germany, with 76 gigs on
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Baalsaal | Hamburg |
-| Fri, 4 Dec 2026 | Baalsaal | Hamburg |
+| Sat, 5 Dec 2026 | Baalsaal | Hamburg |
 | Fri, 18 Dec 2026 | Baalsaal | Hamburg |
 
 ## Recently played

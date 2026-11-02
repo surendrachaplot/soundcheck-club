@@ -1,6 +1,6 @@
 # Naked Grapes with Ru.i at Orangerie Neukölln
 
-Naked Grapes with Ru.i at Orangerie Neukölln on Thu 12 Nov, Berlin. 1 artist: Ru.i. Minimal and Dub. See the line-up on soundcheck.
+Naked Grapes with Ru.i at Orangerie Neukölln on Thu 12 Nov, Berlin. 1 artist: Ru.i. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

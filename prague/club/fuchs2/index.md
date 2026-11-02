@@ -1,8 +1,8 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "TECHNO ALLIANCE: FJAAK ☆ Nina Farrina ☆ Midirama" on Fri, 6 Nov 2026.
+Fuchs2 is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "TECHNO ALLIANCE: FJAAK ☆ Nina Farrina ☆ Midirama" on Fri, 6 Nov 2026.
 
-Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with line-ups including 2NDRA, DDK, Dj Alyaz and DJames and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
+Fuchs2 is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including 2NDRA, AddlyMuff, DDK and Dj Alyaz and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 11 upcoming gigs, with l
 | Sat, 14 Nov 2026 | STVW: Punk Rave - Europe Tour 2026 |  |
 | Mon, 16 Nov 2026 | ALL NIGHT LONG: SJ Yellow | SJ Yellow |
 | Fri, 20 Nov 2026 | HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk | DJ KING KOBRA, LIIA, Theya, tmk (CZ) |
+| Thu, 26 Nov 2026 | LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily | AddlyMuff, VLZQUES, weimar |
 | Fri, 27 Nov 2026 | WRONG 10 YEARS with Prison Religion, Wick, Zaffer 9 | ESTER., Prison Religion, tmk (CZ) |
-| Fri, 4 Dec 2026 | House Of Eden | 2NDRA, DJames (2), Electro rite, Kewu, NEUWERTH, Niotech, PAY2PLAY, RiVid, XENEA LUMRA |
 
 ## Address
 

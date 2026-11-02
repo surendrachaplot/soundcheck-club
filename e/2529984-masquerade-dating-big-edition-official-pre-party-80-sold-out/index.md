@@ -1,0 +1,15 @@
+# Masquerade Dating - BIG EDITION Official Pre-Party [80% SOLD OUT] at Gatsby Hall
+
+Masquerade Dating - BIG EDITION Official Pre-Party [80% SOLD OUT] at Gatsby Hall on Thu 5 Nov, Prague. 1 artist: SAVBEA. Techno and House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 5 Nov 2026 |
+| Venue | Gatsby Hall |
+| City | Prague |
+
+## Line-up
+
+- SAVBEA
+
+*Source: [soundcheck](https://soundcheck.club/e/2529984-masquerade-dating-big-edition-official-pre-party-80-sold-out/)*

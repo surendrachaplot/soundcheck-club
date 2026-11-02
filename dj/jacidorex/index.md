@@ -1,8 +1,8 @@
 # Jacidorex
 
-Jacidorex is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cieloterra, Rome on Sat, 7 Nov 2026.
+Jacidorex is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cieloterra, Rome on Sat, 7 Nov 2026.
 
-Jacidorex is a techno and trance artist based in Belgium, with 116 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: Cieloterra, Rome on Sat 7 Nov.
+Jacidorex is a techno and trance artist based in Belgium, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside Airod, LESSSS and Nico Moreno. Next up: Cieloterra, Rome on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Jacidorex is a techno and trance artist based in Belgium, with 116 gigs on sound
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Cieloterra | Rome |
 | Fri, 20 Nov 2026 | E1 | London |
+| Fri, 11 Dec 2026 | Studio Citygate | Brussels |
 
 ## Recently played
 

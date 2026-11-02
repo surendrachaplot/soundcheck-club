@@ -2,7 +2,7 @@
 
 Nikolajev is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
 
-Nikolajev is a techno and house artist, with 45 gigs on soundcheck across Berlin, Helsinki, London and Milan and 2 more. Often billed alongside Denzel, no-a and Dharma Doom. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
+Nikolajev is a techno and house artist, with 45 gigs on soundcheck across Berlin, Helsinki, London and Milan and 2 more. Often billed alongside Denzel, Tanel Mütt and no-a. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Nikolajev is a techno and house artist, with 45 gigs on soundcheck across Berlin
 
 ## Shares bills with
 
-Denzel, no-a, Dharma Doom
+Denzel, Tanel Mütt, no-a
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolajev/)*

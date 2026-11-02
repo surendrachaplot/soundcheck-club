@@ -1,13 +1,14 @@
 # Mr. Disco Kid
 
-Mr. Disco Kid is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Wed, 11 Nov 2026.
+Mr. Disco Kid is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Koara, Tokyo on Fri, 6 Nov 2026.
 
-Mr. Disco Kid is a house and club artist based in Japan, with 5 gigs on soundcheck across Kyushu and Tokyo. Often billed alongside Abiu, DJ FUMI and DJ SO. Next up: DJ Bar Bridge Shinjuku, Tokyo on Wed 11 Nov.
+Mr. Disco Kid is a house and club artist based in Japan, with 6 gigs on soundcheck across Kyushu and Tokyo. Often billed alongside Abiu, DJ FUMI and DJ SO. Next up: Koara, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Koara | Tokyo |
 | Wed, 11 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Wed, 9 Dec 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 

@@ -1,8 +1,8 @@
 # Costanza
 
-Costanza is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at FOLD, London on Fri, 6 Nov 2026.
+Costanza is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at FOLD, London on Fri, 6 Nov 2026.
 
-Costanza is a techno and house artist based in Italy, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Freddy K, Chami and D.Dan. Next up: FOLD, London on Fri 6 Nov.
+Costanza is a techno and house artist based in Italy, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 11 more. Often billed alongside Freddy K, Chami and D.Dan. Next up: FOLD, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Costanza is a techno and house artist based in Italy, with 44 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | FOLD | London |
 | Sat, 7 Nov 2026 | Om Being | London |
+| Fri, 13 Nov 2026 | TBA | Berlin |
 | Sat, 14 Nov 2026 | KREUZWERK | Berlin |
 | Fri, 20 Nov 2026 | fi | Cologne |
 

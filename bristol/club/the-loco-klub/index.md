@@ -1,13 +1,14 @@
 # The Loco Klub
 
-The Loco Klub is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Goat (JP) + Dali de Saint Paul, Dan Johnson & Ossia" on Thu, 12 Nov 2026.
+The Loco Klub is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "All Ears x Guy Fawks" on Thu, 5 Nov 2026.
 
-The Loco Klub is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Bambi (FR), Borai, Brad Bradley and Burly Chassis and 2 more. See dates, start times and who's playing. Clock Tower Yard, Bristol BS1 6QH, United Kingdom.
+The Loco Klub is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Bambi (FR), Borai, Brad Bradley and Burly Chassis and 2 more. See dates, start times and who's playing. Clock Tower Yard, Bristol BS1 6QH, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | All Ears x Guy Fawks |  |
 | Thu, 12 Nov 2026 | Goat (JP) + Dali de Saint Paul, Dan Johnson & Ossia | Dan Johnson, Goat (JP), Ossia |
 | Sat, 21 Nov 2026 | Tuff Breaks x Nobody is Watching: Kassian, VXRGO, LMajor | Borai, JPEG (3), Kassian, LMajor, Rose Holland, VXRGO |
 | Fri, 4 Dec 2026 | Disco Isn't Dead with Derrick Carter | Brad Bradley, Burly Chassis, Danielle (UK), Derrick Carter, SPICYIVY, Safiye |

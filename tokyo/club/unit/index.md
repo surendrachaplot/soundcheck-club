@@ -1,13 +1,16 @@
 # Unit
 
-Unit is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "DJ Krush 'TOKYØHUM' JAPAN TOUR 2026" on Sun, 27 Dec 2026.
+Unit is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Levity Unit TOKYO" on Sat, 5 Dec 2026.
 
-Unit is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including DJ Krush, MC Yallah and Riko Dan. See dates, start times and who's playing. 1-34-17 Ebisunishi, Shibuya, Tokyo, 150-0021, Japan.
+Unit is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Krush, Gyatso, JOMMY and Juicy Romance and 2 more. See dates, start times and who's playing. 1-34-17 Ebisunishi, Shibuya, Tokyo, 150-0021, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Levity Unit TOKYO |  |
+| Fri, 11 Dec 2026 | Whethan Unit Tokyo |  |
+| Sat, 12 Dec 2026 | X CLUB Unit TOKYO | Gyatso, JOMMY, Juicy Romance, X CLUB. |
 | Sun, 27 Dec 2026 | DJ Krush 'TOKYØHUM' JAPAN TOUR 2026 | DJ Krush, MC Yallah, Riko Dan |
 
 ## Address

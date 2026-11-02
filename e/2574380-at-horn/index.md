@@ -1,6 +1,6 @@
 # 𝐁𝐀𝐃𝐌𝐀𝐍: 𝐅𝐄𝐓𝐈𝐒𝐇 at Horn
 
-𝐁𝐀𝐃𝐌𝐀𝐍: 𝐅𝐄𝐓𝐈𝐒𝐇 at Horn on Fri 20 Nov, Bangkok. 2 artists: KATER AERA and OLLE (TH). See the line-up on soundcheck.
+𝐁𝐀𝐃𝐌𝐀𝐍: 𝐅𝐄𝐓𝐈𝐒𝐇 at Horn on Fri 20 Nov, Bangkok. 2 artists: KATER AERA and OLLE (TH). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

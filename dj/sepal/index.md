@@ -2,7 +2,7 @@
 
 Sepal is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 7 Nov 2026.
 
-Sepal is a house and disco artist, with 12 gigs on soundcheck across Edinburgh and London. Often billed alongside Sepal Rye, Scaefa and Dan Jakson. Next up: The Bongo Club, Edinburgh on Sat 7 Nov.
+Sepal is a house and disco artist based in United Kingdom, with 12 gigs on soundcheck across Edinburgh and London. Often billed alongside Sepal Rye, Scaefa and Dan Jakson. Next up: The Bongo Club, Edinburgh on Sat 7 Nov.
 
 ## Upcoming shows
 

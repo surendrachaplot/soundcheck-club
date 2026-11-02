@@ -1,14 +1,15 @@
 # diladï
 
-diladï is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
+diladï is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
 
-diladï is a techno and downtempo artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Hamburg and Mexico City and 3 more. Often billed alongside Naicet, Ele Luz and Mona Pirzad. Next up: Kater, Berlin on Sat 7 Nov.
+diladï is a techno and downtempo artist based in Germany, with 52 gigs on soundcheck across Berlin, Cologne, Hamburg and Mexico City and 3 more. Often billed alongside Naicet, Ele Luz and Mona Pirzad. Next up: Kater, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Kater | Berlin |
+| Sun, 6 Dec 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 

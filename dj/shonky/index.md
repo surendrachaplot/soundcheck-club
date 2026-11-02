@@ -1,14 +1,15 @@
 # Shonky
 
-Shonky is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at fabric, London on Sat, 7 Nov 2026.
+Shonky is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at fabric, London on Sat, 7 Nov 2026.
 
-Shonky is a house and minimal artist based in France, with 252 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: fabric, London on Sat 7 Nov.
+Shonky is a house and minimal artist based in France, with 253 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: fabric, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | fabric | London |
+| Sat, 21 Nov 2026 | Kapsule | Liverpool |
 | Fri, 27 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sun, 29 Nov 2026 | Hoppetosse | Berlin |

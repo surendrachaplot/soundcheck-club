@@ -1,6 +1,6 @@
 # Freunde Legen Auf at Golden Gate
 
-Freunde Legen Auf at Golden Gate on Thu 26 Nov, Berlin. 4 artists: Alex New, Juanito, Kevin Mey and Vicky Brabeck. See the line-up on soundcheck.
+Freunde Legen Auf at Golden Gate on Thu 26 Nov, Berlin. 3 artists: Alex New, Kevin Mey and Vicky Brabeck. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Freunde Legen Auf at Golden Gate on Thu 26 Nov, Berlin. 4 artists: Alex New, Jua
 ## Line-up
 
 - Alex New
-- Juanito
 - Kevin Mey
 - Vicky Brabeck
 

@@ -1,6 +1,6 @@
 # FRISK 5th Anniversary with Mahony at TBA - Grand Hyatt JJ Mahoney's
 
-FRISK 5th Anniversary with Mahony at TBA - Grand Hyatt JJ Mahoney's on Sat 7 Nov, Seoul. 5 artists: Davico, Demuk, Departs and Jaebin and 1 more. See the line-up on soundcheck.
+FRISK 5th Anniversary with Mahony at TBA - Grand Hyatt JJ Mahoney's on Sat 7 Nov, Seoul. 5 artists: Davico, Demuk, Departs and Jaebin and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

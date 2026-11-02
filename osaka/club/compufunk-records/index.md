@@ -1,13 +1,15 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DON'T BULLSHIT ME" on Sat, 7 Nov 2026.
+Compufunk Records is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "BAFFARIN 13th ANNIVERSARY" on Thu, 5 Nov 2026.
 
-Compufunk Records is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Ashikaga, DJ KAZUMA, IKUZO and Kohei and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
+Compufunk Records is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including Ashikaga, DJ KAZUMA, IKUZO and Kohei and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | BAFFARIN 13th ANNIVERSARY |  |
+| Fri, 6 Nov 2026 | Garden |  |
 | Sat, 7 Nov 2026 | DON'T BULLSHIT ME |  |
 | Sat, 21 Nov 2026 | MINT | DJ KAZUMA, Koji Nakamura |
 | Fri, 27 Nov 2026 | Rudolf C (Japan Tour) | Ashikaga, IKUZO, Kohei, Rudolf C |

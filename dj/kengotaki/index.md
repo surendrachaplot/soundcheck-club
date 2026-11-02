@@ -1,8 +1,8 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Saloon, Tokyo on Mon, 2 Nov 2026.
+kengotaki is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Saloon, Tokyo on Mon, 2 Nov 2026.
 
-kengotaki is a house and techno artist based in Japan, with 179 gigs on soundcheck across Kyushu, Okinawa, Osaka and Sydney and 1 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Saloon, Tokyo on Mon 2 Nov.
+kengotaki is a house and techno artist based in Japan, with 180 gigs on soundcheck across Kyushu, Okinawa, Osaka and Sydney and 1 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Saloon, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ kengotaki is a house and techno artist based in Japan, with 179 gigs on soundche
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | Saloon | Tokyo |
 | Thu, 5 Nov 2026 | Little Rockers | Okinawa |
+| Fri, 6 Nov 2026 | 不眠遊戯ライオン - Music Bar Lion | Tokyo |
 | Sat, 7 Nov 2026 | Circus Osaka | Osaka |
 | Fri, 20 Nov 2026 | Kieth Flack | Kyushu |
 | Thu, 3 Dec 2026 | Circus Osaka | Osaka |

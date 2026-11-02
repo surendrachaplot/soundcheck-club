@@ -9,7 +9,7 @@ Wendy Bkz is a house and techno artist based in France, with 62 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | 303 Audiophile Bar | Barcelona |
-| Sat, 7 Nov 2026 | TBA - Secret Location | Amsterdam |
+| Sat, 7 Nov 2026 | TBA - Secret Location (Address in Description) | Amsterdam |
 
 ## Recently played
 

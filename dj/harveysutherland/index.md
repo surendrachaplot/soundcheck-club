@@ -1,14 +1,13 @@
 # Harvey Sutherland
 
-Harvey Sutherland is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Common Rooms, Melbourne on Mon, 2 Nov 2026.
+Harvey Sutherland is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Harvey Sutherland is a house and disco artist based in Australia, with 47 gigs on soundcheck across Auckland, Berlin, Brisbane and Chicago and 10 more. Often billed alongside Kuzco, Chaos In The CBD and Marli. Next up: Common Rooms, Melbourne on Mon 2 Nov.
+Harvey Sutherland is a house and disco artist based in Australia, with 47 gigs on soundcheck across Auckland, Berlin, Brisbane and Chicago and 10 more. Often billed alongside Kuzco, Chaos In The CBD and Marli. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Common Rooms | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 

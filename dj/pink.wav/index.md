@@ -1,13 +1,14 @@
 # pink.wav
 
-pink.wav is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Universe Athens, Athens on Fri, 27 Nov 2026.
+pink.wav is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Samis Bar, Athens on Sat, 7 Nov 2026.
 
-pink.wav is a bass and techno artist based in Greece, with 50 gigs on soundcheck across Athens, Brussels, Prague and Thessaloniki. Often billed alongside Andreas Palmer, Poor J’Darr and A. Square. Next up: Universe Athens, Athens on Fri 27 Nov.
+pink.wav is a bass and techno artist based in Greece, with 51 gigs on soundcheck across Athens, Brussels, Prague and Thessaloniki. Often billed alongside Andreas Palmer, Poor J’Darr and A. Square. Next up: Samis Bar, Athens on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Samis Bar | Athens |
 | Fri, 27 Nov 2026 | Universe Athens | Athens |
 
 ## Recently played

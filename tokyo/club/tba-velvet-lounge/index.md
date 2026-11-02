@@ -12,8 +12,8 @@ TBA -  VELVET Lounge is a music venue in Tokyo listed on soundcheck. 7 upcoming 
 | Tue, 3 Nov 2026 | VELVET Lounge (Disco, Funky House) |  |
 | Wed, 4 Nov 2026 | Velvet Lounge (Tribal House & Techno) |  |
 | Thu, 5 Nov 2026 | Velvet Lounge (Melodic Techno) |  |
-| Fri, 6 Nov 2026 | Velvet Lounge |  |
-| Sat, 7 Nov 2026 | Velvet Lounge |  |
+| Fri, 6 Nov 2026 | Velvet Lounge (All House & Techno) |  |
+| Sat, 7 Nov 2026 | Velvet Lounge (All House & Techno) |  |
 | Sun, 8 Nov 2026 | Velvet Lounge (Organic House) |  |
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/tba-velvet-lounge/)*

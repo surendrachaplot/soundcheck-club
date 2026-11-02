@@ -1,13 +1,14 @@
 # Brady
 
-Brady is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Weetamix, Geneva on Fri, 18 Dec 2026.
+Brady is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bar v Krymský, Prague on Fri, 27 Nov 2026.
 
-Brady is a techno and industrial artist based in Switzerland, with 3 gigs on soundcheck across Geneva. Often billed alongside Sad Paco, Christelle Angela and ALIASLOH. Next up: Weetamix, Geneva on Fri 18 Dec.
+Brady is a techno and industrial artist based in Switzerland, with 4 gigs on soundcheck across Geneva and Prague. Often billed alongside Sad Paco, Christelle Angela and ALIASLOH. Next up: Bar v Krymský, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Bar v Krymský | Prague |
 | Fri, 18 Dec 2026 | Weetamix | Geneva |
 
 ## Recently played

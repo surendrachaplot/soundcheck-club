@@ -1,13 +1,14 @@
 # Mute.
 
-Mute. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at KALT, Strasbourg on Sat, 28 Nov 2026.
+Mute. is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Sat, 7 Nov 2026.
 
-Mute. is a techno and electro artist based in France, with 21 gigs on soundcheck across Berlin, Madrid, Prague and Strasbourg and 1 more. Often billed alongside 1client, Dima Roas and FTFL. Next up: KALT, Strasbourg on Sat 28 Nov.
+Mute. is a techno and tech house artist based in France, with 22 gigs on soundcheck across Berlin, Madrid, Prague and Strasbourg and 1 more. Often billed alongside 1client, Dima Roas and FTFL. Next up: Sensorium, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Sensorium | Berlin |
 | Sat, 28 Nov 2026 | KALT | Strasbourg |
 
 ## Recently played

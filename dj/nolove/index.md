@@ -2,7 +2,7 @@
 
 Nolove is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
 
-Nolove is a house and techno artist based in South Korea, with 127 gigs on soundcheck across Seoul and South Korea. Often billed alongside Youngseok, Gyusco and Mignon. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
+Nolove is a house and techno artist based in South Korea, with 128 gigs on soundcheck across Seoul and South Korea. Often billed alongside Youngseok, Mignon and Gyusco. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Nolove is a house and techno artist based in South Korea, with 127 gigs on sound
 
 ## Shares bills with
 
-Youngseok, Gyusco, Mignon (2)
+Youngseok, Mignon (2), Gyusco
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nolove/)*

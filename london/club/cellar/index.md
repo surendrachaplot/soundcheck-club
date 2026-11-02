@@ -9,7 +9,7 @@ Cellar is a music venue in London listed on soundcheck. 4 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | ./OnQ v12.0 with Remi Mazet (Live) | Earth2Sam, Finn Nelson, Remi Mazet, Ryan Wells |
-| Sat, 7 Nov 2026 | Manual Flash at Cellar Dalston w/ Sparky, Mr. Freeze & Secret Guests | Mr. Freeze, Sparky (AU) |
+| Sat, 7 Nov 2026 | Manual Flash at Cellar Dalston w/ Captain Oz & The Jester, Sparky, Mr. Freeze | Mr. Freeze, Sparky (AU) |
 | Sat, 28 Nov 2026 | Subterrain Records presents: Slim & Juliana Branco | Aaron Burr (2), Juliana Branco, Max Fisher, Slim (IE) |
 | Fri, 11 Dec 2026 | InSenses: Studio Batsumi, Kreshik (Huveshta Rituals) | Kreshik, Studio Batsumi |
 

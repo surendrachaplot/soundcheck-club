@@ -1,6 +1,6 @@
 # SENSO NACHT at Sensorium
 
-SENSO NACHT at Sensorium on Sat 7 Nov, Berlin. 6 artists: Ankit, Kijara, LA BITCHENCIO and Mute and 2 more. Techno and Tech House. See the line-up on soundcheck.
+SENSO NACHT at Sensorium on Sat 7 Nov, Berlin. 7 artists: Ankit, Eleonor Bianchi, Kijara and LA BITCHENCIO and 3 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,10 @@ SENSO NACHT at Sensorium on Sat 7 Nov, Berlin. 6 artists: Ankit, Kijara, LA BITC
 ## Line-up
 
 - Ankit
+- Eleonor Bianchi
 - Kijara
 - LA BITCHENCIO
-- Mute
+- Mute.
 - Nicolaus Made
 - Viktor Kampf
 

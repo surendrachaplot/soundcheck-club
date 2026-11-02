@@ -1,6 +1,6 @@
 # HIGH TEA presents: Kanine Reflections Amsterdam at Melkweg
 
-HIGH TEA presents: Kanine Reflections Amsterdam at Melkweg on Sat 14 Nov, Amsterdam. 1 artist: Kanine. Drum & Bass. See the line-up on soundcheck.
+HIGH TEA presents: Kanine Reflections Amsterdam at Melkweg on Sat 14 Nov, Amsterdam. 2 artists: Hoax (UK) and Kanine. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HIGH TEA presents: Kanine Reflections Amsterdam at Melkweg on Sat 14 Nov, Amster
 
 ## Line-up
 
+- Hoax (UK)
 - Kanine
 
 *Source: [soundcheck](https://soundcheck.club/e/2529510-high-tea-presents-kanine-reflections-amsterdam-at-melkweg/)*

@@ -1,6 +1,6 @@
 # Session Victim (Live Show) & St Amour at The Jazz Cafe
 
-Session Victim (Live Show) & St Amour at The Jazz Cafe on Fri 11 Dec, London. 2 artists: Session Victim and St-Amour. House. See the line-up on soundcheck.
+Session Victim (Live Show) & St Amour at The Jazz Cafe on Fri 11 Dec, London. 3 artists: Maria Hanlon, Session Victim and St-Amour. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Session Victim (Live Show) & St Amour at The Jazz Cafe on Fri 11 Dec, London. 2 
 
 ## Line-up
 
+- Maria Hanlon
 - Session Victim
 - St-Amour
 

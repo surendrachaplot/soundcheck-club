@@ -15,8 +15,8 @@ Baalsaal is a music venue in Hamburg listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 14 Nov 2026 | MUTABLE | AKIIM, SVPERCELL |
 | Sat, 21 Nov 2026 | Move to Groove |  |
 | Sat, 28 Nov 2026 | STCTRS w/ Larook (Geheimclub), URSUS , RØØB  | Larook, ROOB |
-| Fri, 4 Dec 2026 | GROOVE with: Steven Shade (Berlin) & Specific Objects (Berlin) | Specific Objects, Steven Shade |
-| Fri, 18 Dec 2026 | NONCHALANT | Steven Shade |
+| Sat, 5 Dec 2026 | GROOVE with: Steven Shade (Berlin) & TBA | Steven Shade |
+| Fri, 18 Dec 2026 | NONCHALANT | Specific Objects, Steven Shade |
 | Sat, 19 Dec 2026 | STCTRS with RØØB tba | ROOB |
 
 ## Address

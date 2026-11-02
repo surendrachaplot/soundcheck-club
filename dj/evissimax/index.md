@@ -1,13 +1,14 @@
 # Evissimax
 
-Evissimax is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at fi, Cologne on Wed, 11 Nov 2026.
+Evissimax is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Q Club, Milan on Fri, 6 Nov 2026.
 
-Evissimax is a techno and baile funk artist based in Italy, with 32 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 10 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: fi, Cologne on Wed 11 Nov.
+Evissimax is a techno and house artist based in Italy, with 33 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 10 more. Often billed alongside Slim Soledad, Aiden (DE) and Faster Horses. Next up: Q Club, Milan on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Q Club | Milan |
 | Wed, 11 Nov 2026 | fi | Cologne |
 
 ## Recently played

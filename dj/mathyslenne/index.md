@@ -1,14 +1,15 @@
 # Mathys Lenne
 
-Mathys Lenne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 14 Nov 2026.
+Mathys Lenne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 14 Nov 2026.
 
-Mathys Lenne is a techno and house artist based in France, with 99 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Olivia Mendez, Maris Shilton and Mara Menace. Next up: RSO.BERLIN, Berlin on Sat 14 Nov.
+Mathys Lenne is a techno and house artist based in France, with 100 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 32 more. Often billed alongside Olivia Mendez, Maris Shilton and Mara Menace. Next up: RSO.BERLIN, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | RSO.BERLIN | Berlin |
+| Sat, 19 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 

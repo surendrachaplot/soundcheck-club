@@ -1,8 +1,8 @@
 # Fox (US)
 
-Fox (US) is a House and Drum & Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Los Angeles State Historic Park, Los Angeles on Sat, 7 Nov 2026.
+Fox (US) is a House and Drum & Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Los Angeles State Historic Park, Los Angeles on Sat, 7 Nov 2026.
 
-Fox (US) is a house and drum & bass artist based in United States of America, with 28 gigs on soundcheck across Barcelona, Bristol, Copenhagen and Leeds and 8 more. Often billed alongside Lenzman, Strategy and CBS. Next up: Los Angeles State Historic Park, Los Angeles on Sat 7 Nov.
+Fox (US) is a house and drum & bass artist based in United States of America, with 29 gigs on soundcheck across Barcelona, Bristol, Copenhagen and Leeds and 8 more. Often billed alongside CBS, Lenzman and PC (MX). Next up: Los Angeles State Historic Park, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fox (US) is a house and drum & bass artist based in United States of America, wi
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Los Angeles State Historic Park | Los Angeles |
 | Sat, 7 Nov 2026 | Parc del Fòrum | Barcelona |
+| Sat, 7 Nov 2026 | Camden Assembly | London |
 | Sat, 7 Nov 2026 | People Like Us Beer Bar | Copenhagen |
 | Sat, 7 Nov 2026 | Utopia | Los Angeles |
 | Sat, 7 Nov 2026 | Tu jau zini Kur | Riga |
@@ -28,6 +29,6 @@ Fox (US) is a house and drum & bass artist based in United States of America, wi
 
 ## Shares bills with
 
-Lenzman, Strategy, CBS
+CBS, Lenzman, PC (MX)
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fox-us/)*

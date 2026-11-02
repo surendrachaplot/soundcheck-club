@@ -1,14 +1,15 @@
 # The Menendez Brothers
 
-The Menendez Brothers is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Lion and Lamb, London on Sat, 7 Nov 2026.
+The Menendez Brothers is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Lion and Lamb, London on Sat, 7 Nov 2026.
 
-The Menendez Brothers is a house and tech house artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dubai and 4 more. Often billed alongside Meeshy, Andrea Oliva and Raul Rodriguez. Next up: The Lion and Lamb, London on Sat 7 Nov.
+The Menendez Brothers is a house and tech house artist based in United Kingdom, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 5 more. Often billed alongside Meeshy, Andrea Oliva and Raul Rodriguez. Next up: The Lion and Lamb, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Lion and Lamb | London |
+| Sat, 7 Nov 2026 | Input Club | Barcelona |
 | Fri, 13 Nov 2026 | E1 | London |
 | Fri, 20 Nov 2026 | E1 | London |
 | Fri, 4 Dec 2026 | E1 | London |

@@ -1,6 +1,6 @@
 # Subtrance at teller
 
-Subtrance at teller on Fri 13 Nov, Seoul. 2 artists: Sunghoon and Xanexx. Trance and Techno. See the line-up on soundcheck.
+Subtrance at teller on Fri 13 Nov, Seoul. 4 artists: hcy., Krijka, Sunghoon and Xanexx. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Subtrance at teller on Fri 13 Nov, Seoul. 2 artists: Sunghoon and Xanexx. Trance
 
 ## Line-up
 
+- hcy.
+- Krijka
 - Sunghoon
 - Xanexx
 

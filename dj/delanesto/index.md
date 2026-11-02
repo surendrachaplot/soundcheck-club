@@ -1,14 +1,15 @@
 # Dela Nesto
 
-Dela Nesto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
+Dela Nesto is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
 
-Dela Nesto is a house and techno artist based in Germany, with 49 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside MARIE.MOON, Caro Vola and Dorsch. Next up: KitKatClub, Berlin on Fri 6 Nov.
+Dela Nesto is a house and techno artist based in Germany, with 50 gigs on soundcheck across Berlin, Cologne, Hamburg and Leipzig and 2 more. Often billed alongside MARIE.MOON, Caro Vola and Dorsch. Next up: KitKatClub, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | KitKatClub | Berlin |
+| Sat, 5 Dec 2026 | Beate Uwe | Berlin |
 | Fri, 22 Jan 2027 | KitKatClub | Berlin |
 
 ## Recently played

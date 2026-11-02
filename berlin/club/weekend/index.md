@@ -14,7 +14,7 @@ Weekend is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with 
 | Sat, 21 Nov 2026 | NOIRE – TAKE ME HIGHER |  |
 | Fri, 27 Nov 2026 | WKND X Nika Herero | Nika Herero |
 | Fri, 11 Dec 2026 | WKND X USHA BERLIN | Denno Matini |
-| Fri, 18 Dec 2026 | SPEECHLESS x WKND w/ Brigado Crew & Pascale Voltaire | Brigado Crew, Pascale Voltaire |
+| Fri, 18 Dec 2026 | SPEECHLESS x WKND w/ Brigado Crew & Pascale Voltaire  - CLOSING FRIDAYS 2026 | Brigado Crew, Pascale Voltaire |
 | Thu, 31 Dec 2026 | NEW YEAR'S EVE 2026/27 – ROOFTOP OVER BERLIN | Alex Gallus, Dennis Beutler |
 | Fri, 15 Jan 2027 | WKND - 2 YEARS ANNIVERSARY | Pascale Voltaire |
 | Fri, 22 Jan 2027 | WKND X Move Roof - 2027 Opening Series | Phonique |

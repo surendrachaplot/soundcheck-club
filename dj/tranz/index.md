@@ -1,14 +1,13 @@
 # TRANZ
 
-TRANZ is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at John Doe, Amsterdam on Tue, 10 Nov 2026.
+TRANZ is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at John Doe, Amsterdam on Tue, 1 Dec 2026.
 
-TRANZ is a techno and industrial artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 5 more. Often billed alongside HÅKK, La Fatale and MILØW. Next up: John Doe, Amsterdam on Tue 10 Nov.
+TRANZ is a techno and tech house artist based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 5 more. Often billed alongside HÅKK, La Fatale and MILØW. Next up: John Doe, Amsterdam on Tue 1 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 10 Nov 2026 | John Doe | Amsterdam |
 | Tue, 1 Dec 2026 | John Doe | Amsterdam |
 
 ## Recently played

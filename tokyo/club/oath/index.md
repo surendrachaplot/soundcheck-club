@@ -1,15 +1,17 @@
 # Oath
 
-Oath is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "OATH WEDNESDAY" on Wed, 4 Nov 2026.
+Oath is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "OATH TUESDAY" on Tue, 3 Nov 2026.
 
-Oath is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including Ren Yokoi. See dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
+Oath is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Kyohei Tanaka and Ren Yokoi. See dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Tue, 3 Nov 2026 | OATH TUESDAY | Kyohei Tanaka |
 | Wed, 4 Nov 2026 | OATH WEDNESDAY |  |
 | Thu, 5 Nov 2026 | FUNKTION | Ren Yokoi |
+| Sat, 7 Nov 2026 | GUIDANCE |  |
 
 ## Address
 

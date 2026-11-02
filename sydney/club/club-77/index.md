@@ -1,8 +1,8 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Fridays at 77: Putrika, Mikkapedia, Scruffs" on Fri, 6 Nov 2026.
+Club 77 is a music venue in Sydney with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Fridays at 77: Putrika, Mikkapedia, Scruffs" on Fri, 6 Nov 2026.
 
-Club 77 is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including A Guy Called Gerald, Ben Fester, Benny Chiu and CC:DISCO! and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
+Club 77 is a music venue in Sydney listed on soundcheck. 13 upcoming gigs, with line-ups including A Guy Called Gerald, Ayebatonye, Ben Fester and Benny Chiu and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
 ## What's on
 

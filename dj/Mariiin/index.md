@@ -1,13 +1,14 @@
 # Mariiin
 
-Mariiin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Basic Club, Naples on Sat, 19 Dec 2026.
+Mariiin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
-Mariiin is a techno and electro artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Bobby., Jos and Anna Wall. Next up: Basic Club, Naples on Sat 19 Dec.
+Mariiin is a techno and electro artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Bobby., Jos and Anna Wall. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | TBA - Circolo Masada + Circolo Amelia | Milan |
 | Sat, 19 Dec 2026 | Basic Club | Naples |
 
 ## Recently played

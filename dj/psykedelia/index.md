@@ -1,13 +1,14 @@
 # PSYKEDELIA
 
-PSYKEDELIA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ex.Dynamo, Bologna on Sat, 28 Nov 2026.
+PSYKEDELIA is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 13 Nov 2026.
 
-PSYKEDELIA is a techno and trance artist based in Italy, with 5 gigs on soundcheck across Bologna and Milan. Often billed alongside Acidalia, Alimac and Alinette. Next up: Ex.Dynamo, Bologna on Sat 28 Nov.
+PSYKEDELIA is a techno and ambient artist based in Italy, with 6 gigs on soundcheck across Berlin, Bologna and Milan. Often billed alongside Acidalia, Alimac and Alinette. Next up: Zemin Art Gallery, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Zemin Art Gallery | Berlin |
 | Sat, 28 Nov 2026 | Ex.Dynamo | Bologna |
 
 ## Recently played

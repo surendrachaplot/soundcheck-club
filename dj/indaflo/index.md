@@ -1,13 +1,14 @@
 # inda Flo
 
-inda Flo is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Unit 58, London on Fri, 27 Nov 2026.
+inda Flo is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Jam Jar, Bristol on Fri, 20 Nov 2026.
 
-inda Flo is a techno and bass artist based in United Kingdom, with 61 gigs on soundcheck across Berlin, Birmingham, Bristol and London and 2 more. Often billed alongside Hacker Boi Ale, Sha3by Chic and Adela. Next up: Unit 58, London on Fri 27 Nov.
+inda Flo is a techno and bass artist based in United Kingdom, with 62 gigs on soundcheck across Berlin, Birmingham, Bristol and London and 2 more. Often billed alongside Hacker Boi Ale, Sha3by Chic and Adela. Next up: The Jam Jar, Bristol on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | The Jam Jar | Bristol |
 | Fri, 27 Nov 2026 | Unit 58 | London |
 | Fri, 30 Apr 2027 | Three Pools | West-wales |
 

@@ -1,13 +1,14 @@
 # Ferrari
 
-Ferrari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Gate Milano, Milan on Fri, 20 Nov 2026.
+Ferrari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Fri, 6 Nov 2026.
 
-Ferrari is a house and disco artist based in Italy, with 61 gigs on soundcheck across Amsterdam, Berlin, Bologna and Madrid and 3 more. Often billed alongside Dante (H501), Coni and Larry Masmero. Next up: Gate Milano, Milan on Fri 20 Nov.
+Ferrari is a house and disco artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Berlin, Bologna and Madrid and 3 more. Often billed alongside Dante (H501), Coni and Larry Masmero. Next up: CGM - Club Giovanile Milano, Milan on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | CGM - Club Giovanile Milano | Milan |
 | Fri, 20 Nov 2026 | Gate Milano | Milan |
 
 ## Recently played

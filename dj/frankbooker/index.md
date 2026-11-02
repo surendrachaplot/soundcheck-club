@@ -1,14 +1,15 @@
 # Frank Booker
 
-Frank Booker is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Frank Booker is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
-Frank Booker is a house and disco artist based in New Zealand, with 42 gigs on soundcheck across Adelaide, Auckland, Christchurch and Melbourne and 3 more. Often billed alongside Samuel Harmony, Flamingo Pier and Nathan Haines. Next up: TBA, Victoria on Fri 6 Nov.
+Frank Booker is a house and disco artist based in New Zealand, with 43 gigs on soundcheck across Adelaide, Auckland, Christchurch and Melbourne and 3 more. Often billed alongside Samuel Harmony, Flamingo Pier and Nathan Haines. Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA | Victoria |
+| Sat, 7 Nov 2026 | Angel Music Bar | Melbourne |
 | Fri, 20 Nov 2026 | The Mothership | Auckland |
 | Wed, 30 Dec 2026 | Leighton's Farm | Auckland |
 

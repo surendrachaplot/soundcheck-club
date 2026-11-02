@@ -1,13 +1,14 @@
 # Lyumin
 
-Lyumin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
+Lyumin is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Paper, Seoul on Sat, 7 Nov 2026.
 
-Lyumin is a house and tech house artist based in South Korea, with 253 gigs on soundcheck across Barcelona, Seoul and South Korea. Often billed alongside Mihak, givogi and .2ndfloor. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
+Lyumin is a house and tech house artist based in South Korea, with 254 gigs on soundcheck across Barcelona, Seoul and South Korea. Often billed alongside Mihak, givogi and .2ndfloor. Next up: Paper, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Paper | Seoul |
 | Sun, 8 Nov 2026 | TBA - Binae Island | South-korea |
 | Fri, 27 Nov 2026 | teller | Seoul |
 

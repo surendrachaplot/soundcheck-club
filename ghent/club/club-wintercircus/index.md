@@ -11,7 +11,7 @@ Club Wintercircus is a music venue in Ghent listed on soundcheck. 6 upcoming gig
 | Sat, 7 Nov 2026 | 𝗠𝗼' 𝗝𝘂𝗶𝗰𝗲 𝗫 𝗖𝘂𝗿𝗳𝗲𝘄 | Forbidden Fruit, Kamma, Masalo, Nico Juice |
 | Tue, 10 Nov 2026 | Spreey x Ksawery Komputery ✱ Wintercircus - Arena & Club |  |
 | Fri, 13 Nov 2026 | Max Cooper - 3D/AV Live | Max Cooper |
-| Sat, 14 Nov 2026 | Max Cooper: DJ | Max Cooper |
+| Sat, 14 Nov 2026 | Max Cooper: 3D A/V LIVE | Max Cooper |
 | Sat, 12 Dec 2026 | FROM DUSK TILL DAWN x CLOSER - VINYL ONLY |  |
 | Fri, 10 Sept 2027 | Pongo | Pongo |
 

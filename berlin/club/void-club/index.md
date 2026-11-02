@@ -17,7 +17,7 @@ Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, wit
 | Fri, 27 Nov 2026 | Drum and Bass w/Billain (BA), Erotic Cafe' (IT) - human_made 007 | Alex Pastore, Anton Quasi, Billain, IHOPEIEXIST, Kenzura, Krushak, RMW (DE), Torn (RU), icanseesounds, nillonollin |
 | Sat, 28 Nov 2026 | 8 Years Expedicion with Mountain (JP), Jabba, Jumpat, Upzet, Iza, edgarwilles, Astraluna | IZA (6), Upzet, edgarwilles |
 | Fri, 11 Dec 2026 | Face 2 Face by Kinder der Nacht | GHOST DE, Rob Robsen, Talla 2XLC |
-| Fri, 11 Dec 2026 | Face 2 Face by Kinder der Nacht - with Talla 2XLC | Bonq, Bouras, Forehand, GHOST DE, LEPIDO, Lale Hepborn, Marc van Linden, Rob Robsen, Talla 2XLC |
+| Fri, 11 Dec 2026 | Face 2 Face by Kinder der Nacht - with Talla 2XLC | Bonq, Bouras, Førehand, GHOST DE, LEPIDO, Lale Hepborn, Marc van Linden, Rob Robsen, Talla 2XLC |
 
 ## Address
 

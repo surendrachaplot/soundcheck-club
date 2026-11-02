@@ -1,6 +1,6 @@
 # Eventhuset
 
-Eventhuset is a music venue in Stockholm with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker" on Sat, 7 Nov 2026.
+Eventhuset is a music venue in Stockholm with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker: TyStyle, Holtter" on Sat, 7 Nov 2026.
 
 Eventhuset is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, with line-ups including ARANEA, Billie Jo, BMI (GE) and CC Luna and 2 more. See dates, start times and who's playing. Vretensborgsvägen 5, 12630 Hägersten.
 
@@ -8,7 +8,7 @@ Eventhuset is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker | CC Luna, Metapattern |
+| Sat, 7 Nov 2026 | CC Luna invites Metapattern and Neo to Bronx Sauna + The Bunker: TyStyle, Holtter | CC Luna, Metapattern |
 | Sat, 14 Nov 2026 | hypnorex [Berlin], 'Mindbender', Momenth, The Machine Soul, Högt I Tak, Yomi One, Nevada Cato | Håkan Momenth, Marten Attling, The Machine Soul, hypnorex |
 | Sat, 21 Nov 2026 | LOLSNAKE (Weeeirdos Säule Berlin) >> MAGNUS CC >> MERILIN >> OSO at BRONX | LOLSNAKE, MERILIN, Magnuscc |
 | Sat, 28 Nov 2026 | BRONX > LAMACHINE (STHLM) > ARANEA (GBG) > PAUL FITZGIBBON (Ireland) > Billie Jo > Queen E | ARANEA, Billie Jo, Evelina Nässén, LAMACHINE, Paul Fitzgibbon, Queen E |

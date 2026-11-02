@@ -1,8 +1,8 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Breakfast Club #522 (Cup Weekend 36hr)" on Sun, 1 Nov 2026.
+OneSixOne is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Breakfast Club #522 (Cup Weekend 36hr)" on Sun, 1 Nov 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Trace, Amber Ferraro, Amity and au4r33y and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Amity and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 
@@ -11,6 +11,7 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, w
 | Sun, 1 Nov 2026 | Breakfast Club #522 (Cup Weekend 36hr) | Bobby Padron, Eddie Guy, Evan Baggs, Fabe, Jmcee, LEXI (2), Miscmeg, Monika Ross, Sam Bangura, Secretsundaze, Yarra (2), au4r33y |
 | Fri, 6 Nov 2026 | CA LOU - onesixone | Adam Trace, Amber Ferraro, CA LOU, Jay Ramon |
 | Sat, 7 Nov 2026 | COMES IN WAVES pres. Day Party |  |
+| Sat, 7 Nov 2026 | Audio Porn - onesixone Saturday's | Agent 86, Cara Murphy, Chris NG, Jay Ramon |
 | Fri, 13 Nov 2026 | CIOZ (LIVE) | Amity, Fosters, The Journey |
 | Fri, 20 Nov 2026 | Yarra - onesixone | Adam Trace, Amber Ferraro, Jay Ramon, Yarra (2) |
 | Fri, 27 Nov 2026 | Tiff Cornish - onesixone | Adam Trace, Jay Ramon, Tiff Cornish |

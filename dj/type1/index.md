@@ -2,7 +2,7 @@
 
 Type1 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
 
-Type1 is a techno and house artist based in Estonia, with 14 gigs on soundcheck across Berlin and Tallinn. Often billed alongside Tanel Mütt, no-a and White Gloss. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
+Type1 is a techno and house artist based in Estonia, with 14 gigs on soundcheck across Berlin and Tallinn. Often billed alongside Tanel Mütt, celestica and no-a. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Type1 is a techno and house artist based in Estonia, with 14 gigs on soundcheck 
 
 ## Shares bills with
 
-Tanel Mütt, no-a, White Gloss
+Tanel Mütt, celestica, no-a
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/type1/)*

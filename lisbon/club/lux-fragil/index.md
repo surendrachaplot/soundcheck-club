@@ -12,12 +12,12 @@ Lux Fragil is a music venue in Lisbon listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 6 Nov 2026 | Pancratio, Rui Vargas, Nicolle Velcro, Skyrager, Mário Valente | Mário Valente, Nicolle Velcro, Pancratio, Psychemagik, Rui Vargas |
 | Sat, 7 Nov 2026 | Quest, Space Riders, Anya, NVNO | Quest (IT), Space Riders |
 | Thu, 12 Nov 2026 | Colectivo Lenha: Vampiro, DJ 420@ôa, DJ Vicecity, DJ MAFIA | 420@ôa, DJ MAFIA |
-| Fri, 13 Nov 2026 | Konduku, Dexter, Tiago, Grishagreg | Dexter Lux, Konduku, Tiago DJ |
+| Fri, 13 Nov 2026 | Konduku, Dexter, Tiago, Kaori | Dexter Lux, Konduku, Tiago DJ |
 | Sat, 14 Nov 2026 | LOVEFOXY, Chima Isaaro, Inês Duarte, Pérola Negra Rádio | Chima Isaaro, Inês Duarte, LOVEFOXY, Nuno di Rosso |
 | Thu, 19 Nov 2026 | DJ AL & CVLT | CVLT |
 | Fri, 20 Nov 2026 | Gene On Earth, GAYANCE, HNRQ, Fragoso, M.Dusa | Fragoso, GAYANCE, Gene On Earth, HNRQ (2), M.Dusa |
 | Sat, 21 Nov 2026 | Hayes Collective 9th Anniversary | Brusca, CRAVO, FRESKO, Nørbak, Temudo, Tiago DJ, VIL (PT), Varela |
-| Fri, 27 Nov 2026 | Cassius, Isaac Carter, Andre2000, AZM, Varela | AZM (1), Cassius, Isaac Carter, Varela |
+| Fri, 27 Nov 2026 | Superb: Cassius, Isaac Carter, Andre2000, AZM, Varela | AZM (1), Cassius, Isaac Carter, Varela |
 
 ## Address
 

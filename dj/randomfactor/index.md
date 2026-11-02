@@ -1,13 +1,14 @@
 # Random Factor
 
-Random Factor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
+Random Factor is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
-Random Factor is a house and techno artist based in France, with 18 gigs on soundcheck across Barcelona, Berlin, Bucharest and Chicago and 9 more. Often billed alongside Carl Finlow, Ralph Lawson and Alien Communications. Next up: Cadavra, Madrid on Fri 27 Nov.
+Random Factor is a house and techno artist based in France, with 19 gigs on soundcheck across Barcelona, Berlin, Bucharest and Chicago and 10 more. Often billed alongside Carl Finlow, Ralph Lawson and Alien Communications. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | TBA - Circolo Masada + Circolo Amelia | Milan |
 | Fri, 27 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played

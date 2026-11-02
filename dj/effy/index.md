@@ -1,15 +1,15 @@
 # Effy
 
-Effy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Pasir Panjang Power Station, Singapore on Sat, 21 Nov 2026.
+Effy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Singapore on Sat, 21 Nov 2026.
 
-Effy is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Pasir Panjang Power Station, Singapore on Sat 21 Nov.
+Effy is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: TBA, Singapore on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
-| Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
+| Sat, 21 Nov 2026 | TBA | Singapore |
+| Sun, 22 Nov 2026 | TBA | Hong Kong |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 
 ## Recently played

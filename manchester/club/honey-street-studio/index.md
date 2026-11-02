@@ -1,8 +1,8 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DREAMLAND W/ MARIMARI + ELFZ" on Fri, 6 Nov 2026.
+Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DREAMLAND W/ MARIMARI + ELFZ" on Fri, 6 Nov 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcoming gigs, with line-ups including Anop, Arkane, Baby Rollén and Banana Hill and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including Anop, Arkane, Baby Rollén and Banana Hill and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 9 upcom
 | Sun, 22 Nov 2026 | DAT_URA 004 |  |
 | Sat, 28 Nov 2026 | Banana Hill | Banana Hill, Cervo, Contours, King Kit |
 | Sat, 28 Nov 2026 | R2M with Il Bosco & Pangölin | Il Bosco, Liam Oliver, Pangölin, Tom2trax |
+| Fri, 4 Dec 2026 | (DnB & Jungle) Jaded Audio presents: ENTA at HoneyStreet Studio |  |
 | Sat, 12 Dec 2026 | ✦ CLUBCOSMICA ✦ [Baby Rollén / Niamh / KRÄFTY / Epler] | Baby Rollén, Epler, KRÄFTY, Niamh (2) |
 | Sat, 12 Dec 2026 | HØL x Perc Trax: Production Workshop with Perc, Arkane, INLIMEN | Arkane, INLIMEN, Perc |
 

@@ -1,13 +1,14 @@
 # AnDe Trois
 
-AnDe Trois is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+AnDe Trois is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mustache Bangkok, Bangkok on Fri, 6 Nov 2026.
 
-AnDe Trois is a techno and industrial artist based in Italy, with 10 gigs on soundcheck across Amsterdam, Bologna, Cyprus and Lausanne and 5 more. Often billed alongside Doumu, Joris Turenhout and ALEXANDER M. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
+AnDe Trois is a techno and industrial artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Bangkok, Bologna and Cyprus and 6 more. Often billed alongside Doumu, Joris Turenhout and ALEXANDER M. Next up: Mustache Bangkok, Bangkok on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Mustache Bangkok | Bangkok |
 | Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
 
 ## Recently played

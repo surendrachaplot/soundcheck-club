@@ -1,13 +1,14 @@
 # ISA
 
-ISA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
+ISA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
-ISA is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Athens, Austin, Berlin and Copenhagen and 9 more. Often billed alongside Alec Sander, Aram and Ayebatonye. Next up: Golden Gate, Berlin on Fri 27 Nov.
+ISA is a techno and house artist based in United States of America, with 29 gigs on soundcheck across Athens, Austin, Berlin and Copenhagen and 9 more. Often billed alongside Alec Sander, Aram and Ayebatonye. Next up: TBA, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | TBA | Berlin |
 | Fri, 27 Nov 2026 | Golden Gate | Berlin |
 
 ## Recently played

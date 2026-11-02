@@ -1,25 +1,25 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
+Horse Meat Disco is a House and Disco artist with 19 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
 
-Horse Meat Disco is a house and disco artist based in United Kingdom, with 421 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 65 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Electric Studios, Sheffield on Fri 6 Nov.
+Horse Meat Disco is a house and disco artist based in United Kingdom, with 425 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 65 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Electric Studios, Sheffield on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Electric Studios | Sheffield |
+| Sun, 8 Nov 2026 | The Eagle | London |
 | Sat, 14 Nov 2026 | Hare & Hounds | Birmingham |
 | Sat, 14 Nov 2026 | Cine Jussara | Sao Paulo |
+| Sun, 15 Nov 2026 | The Eagle | London |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
+| Sun, 22 Nov 2026 | The Eagle | London |
 | Sat, 28 Nov 2026 | Amber's | Manchester |
+| Sun, 29 Nov 2026 | The Eagle | London |
 | Sat, 5 Dec 2026 | SWG3 | Glasgow |
 | Fri, 18 Dec 2026 | Sala Villanos | Madrid |
 | Thu, 31 Dec 2026 | Outernet Live | London |
-| Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
-| Sun, 3 Jan 2027 | Museu do Amanhã | Rio de Janeiro |
-| Fri, 5 Mar 2027 | Home The Venue | Sydney |
-| Fri, 12 Mar 2027 | Chasers Nightclub | Melbourne |
 
 ## Recently played
 

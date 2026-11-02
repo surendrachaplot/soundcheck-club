@@ -1,14 +1,15 @@
 # Dragos Ilici
 
-Dragos Ilici is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 6 Nov 2026.
+Dragos Ilici is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 6 Nov 2026.
 
-Dragos Ilici is a house and techno artist based in Romania, with 69 gigs on soundcheck across Amsterdam, Berlin, Boston and Brussels and 9 more. Often billed alongside Prichindel, Mark Dumitrescu and Dan Andrei. Next up: Platforma Wolff, Bucharest on Fri 6 Nov.
+Dragos Ilici is a house and techno artist based in Romania, with 70 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 10 more. Often billed alongside Prichindel, Mark Dumitrescu and Dan Andrei. Next up: Platforma Wolff, Bucharest on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Platforma Wolff | Bucharest |
+| Fri, 11 Dec 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
 

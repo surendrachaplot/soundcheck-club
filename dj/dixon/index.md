@@ -1,14 +1,13 @@
 # Dixon
 
-Dixon is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Space Miami, Miami on Sun, 1 Nov 2026.
+Dixon is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Source Marrakesh, Morocco on Sat, 7 Nov 2026.
 
-Dixon is a house and techno artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: Club Space Miami, Miami on Sun 1 Nov.
+Dixon is a house and techno artist based in Germany, with 210 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Jimi Jules, Âme and Trikk. Next up: The Source Marrakesh, Morocco on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Club Space Miami | Miami |
 | Sat, 7 Nov 2026 | The Source Marrakesh | Morocco |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |

@@ -1,14 +1,15 @@
 # Parfait
 
-Parfait is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Parfait is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
-Parfait is a techno and house artist based in France, with 180 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Charlie Sparks, SNTS and 999999999. Next up: Fabrik, Madrid on Sat 14 Nov.
+Parfait is a techno and trance artist based in France, with 181 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside Charlie Sparks, SNTS and 999999999. Next up: Fabrik, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Sat, 19 Dec 2026 | Oddity Club | Athens |
 
 ## Recently played
 

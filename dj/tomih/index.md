@@ -1,14 +1,14 @@
 # Tomi H
 
-Tomi H is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at XOYO, London on Thu, 5 Nov 2026.
+Tomi H is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Gallery, London on Thu, 5 Nov 2026.
 
-Tomi H is a tech house and deep house artist, with 8 gigs on soundcheck across London. Often billed alongside Nic Cammelli, Tear of Joy and AOB. Next up: XOYO, London on Thu 5 Nov.
+Tomi H is a tech house and deep house artist, with 8 gigs on soundcheck across London. Often billed alongside Nic Cammelli, Tear of Joy and AOB. Next up: Gallery, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | XOYO | London |
+| Thu, 5 Nov 2026 | Gallery | London |
 
 ## Recently played
 

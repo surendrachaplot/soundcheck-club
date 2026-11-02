@@ -1,14 +1,14 @@
 # BRADII
 
-BRADII is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at XOYO, London on Thu, 5 Nov 2026.
+BRADII is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Gallery, London on Thu, 5 Nov 2026.
 
-BRADII is a tech house and minimal artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Savio Testa, Verso and BECKIE ADAMS. Next up: XOYO, London on Thu 5 Nov.
+BRADII is a tech house and minimal artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Savio Testa, Verso and BECKIE ADAMS. Next up: Gallery, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | XOYO | London |
+| Thu, 5 Nov 2026 | Gallery | London |
 
 ## Recently played
 

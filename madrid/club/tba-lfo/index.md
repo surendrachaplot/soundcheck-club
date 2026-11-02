@@ -1,8 +1,8 @@
-# TBA -  LFO
+# TBA - LFO
 
-TBA -  LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "R.E.M: Continuum" on Fri, 13 Nov 2026.
+TBA - LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "R.E.M: Continuum" on Fri, 13 Nov 2026.
 
-TBA -  LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Angelinanyulí, AliA, Alputo and azul and 2 more. See dates, start times and who's playing.
+TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Angelinanyulí, AliA, Alputo and azul and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

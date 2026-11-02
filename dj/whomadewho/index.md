@@ -1,14 +1,13 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Space Miami, Miami on Sun, 1 Nov 2026.
+WhoMadeWho is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 14 Nov 2026.
 
-WhoMadeWho is a house and techno artist based in Denmark, with 174 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Club Space Miami, Miami on Sun 1 Nov.
+WhoMadeWho is a house and techno artist based in Denmark, with 174 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Club Space Miami | Miami |
 | Sat, 14 Nov 2026 | Palace of Fine Arts | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | KOKO | London |
 | Fri, 27 Nov 2026 | KOKO | London |

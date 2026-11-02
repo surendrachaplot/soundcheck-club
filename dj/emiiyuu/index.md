@@ -1,13 +1,14 @@
 # emiiyuu
 
-emiiyuu is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Hulme Garden Centre, Manchester on Sat, 14 Nov 2026.
+emiiyuu is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at New Wave Ramen, Manchester on Fri, 6 Nov 2026.
 
-emiiyuu is a house and acid artist based in United Kingdom, with 5 gigs on soundcheck across Manchester. Often billed alongside Sharayda, ronch and BANSHII. Next up: Hulme Garden Centre, Manchester on Sat 14 Nov.
+emiiyuu is a house and acid artist based in United Kingdom, with 6 gigs on soundcheck across Manchester. Often billed alongside Sharayda, ronch and BANSHII. Next up: New Wave Ramen, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | New Wave Ramen | Manchester |
 | Sat, 14 Nov 2026 | Hulme Garden Centre | Manchester |
 | Sat, 21 Nov 2026 | renae | Manchester |
 

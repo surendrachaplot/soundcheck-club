@@ -1,8 +1,8 @@
 # Virginia
 
-Virginia is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Virginia is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
-Virginia is a house and techno artist based in Germany, with 259 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 64 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
+Virginia is a house and techno artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bali and 64 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Virginia is a house and techno artist based in Germany, with 259 gigs on soundch
 | Sat, 14 Nov 2026 | fabric | London |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | La Paloma | Barcelona |
+| Sat, 28 Nov 2026 | The Ulster Sports Club | Belfast |
 | Fri, 18 Dec 2026 | RADION | Amsterdam |
 
 ## Recently played

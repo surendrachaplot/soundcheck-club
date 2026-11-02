@@ -15,7 +15,7 @@ Renate Klubnacht & Daytime with Flight Mode & GTI on Sat 28 Nov, Berlin. 11 arti
 - ilbroccolovolante
 - Kidcat
 - Laylla Dane
-- Leona
+- Leona Jacewska
 - Sarahtonin
 - Tactile
 - TS Kahuna

@@ -1,14 +1,15 @@
 # Mihak
 
-Mihak is a Tech House and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
+Mihak is a Tech House and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
 
-Mihak is a tech house and electro artist based in South Korea, with 154 gigs on soundcheck across Bangkok, Hanoi, Osaka and Seoul and 3 more. Often billed alongside Lyumin, Kang Seongmin and Krijka. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
+Mihak is a tech house and electro artist based in South Korea, with 155 gigs on soundcheck across Bangkok, Hanoi, Osaka and Seoul and 3 more. Often billed alongside Lyumin, Kang Seongmin and Krijka. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | TBA - Binae Island | South-korea |
+| Sun, 8 Nov 2026 | teller | Seoul |
 | Fri, 13 Nov 2026 | Ring | Seoul |
 
 ## Recently played

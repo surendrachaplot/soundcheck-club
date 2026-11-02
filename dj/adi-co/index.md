@@ -1,8 +1,8 @@
 # Adi (CO)
 
-Adi (CO) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
+Adi (CO) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
 
-Adi (CO) is a techno and house artist based in Colombia, with 121 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 30 more. Often billed alongside Unai Trotti, Walrus and Jane Fitz. Next up: Palais, London on Fri 13 Nov.
+Adi (CO) is a techno and house artist based in Colombia, with 122 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 30 more. Often billed alongside Unai Trotti, Walrus and Jane Fitz. Next up: Palais, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Adi (CO) is a techno and house artist based in Colombia, with 121 gigs on soundc
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Palais | London |
 | Fri, 27 Nov 2026 | UMI | Brussels |
+| Sat, 28 Nov 2026 | Ministerium Club | Lisbon |
 | Fri, 2 Apr 2027 | TBA | Sheffield |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 

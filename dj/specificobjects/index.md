@@ -1,14 +1,14 @@
 # Specific Objects
 
-Specific Objects is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Baalsaal, Hamburg on Fri, 4 Dec 2026.
+Specific Objects is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Baalsaal, Hamburg on Fri, 18 Dec 2026.
 
-Specific Objects is a techno and trance artist, with 69 gigs on soundcheck across Antwerp, Berlin, Bucharest and Cologne and 18 more. Often billed alongside Caniche, Steven Shade and DJ.P. Next up: Baalsaal, Hamburg on Fri 4 Dec.
+Specific Objects is a techno and trance artist, with 69 gigs on soundcheck across Antwerp, Berlin, Bucharest and Cologne and 18 more. Often billed alongside Caniche, Steven Shade and DJ.P. Next up: Baalsaal, Hamburg on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 4 Dec 2026 | Baalsaal | Hamburg |
+| Fri, 18 Dec 2026 | Baalsaal | Hamburg |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Panke
 
-Panke is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Who got da Props? (Open Mic with DJ BOOM BAP)" on Wed, 4 Nov 2026.
+Panke is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Who got da Props? (Open Mic with DJ BOOM BAP)" on Wed, 4 Nov 2026.
 
-Panke is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Wilcox, Amuleto Manuela, AXT and Bacon Chang and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
+Panke is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Wilcox, Amuleto Manuela, AXT and Bacon Chang and 2 more. See dates, start times and who's playing. Gerichtstraße 23, 13347 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | Who got da Props? (Open Mic with DJ BOOM BAP) |  |
+| Thu, 5 Nov 2026 | Disko International with AFREAK |  |
 | Fri, 6 Nov 2026 | ACT!ON: Alex Wilcox, BBBBBBB, Catnapp | Alex Wilcox, BBBBBBB, Catnapp, Terikon, What? |
 | Sat, 7 Nov 2026 | Batida Baile | Cajoux, Catu Diosis, Lua Preta, Lucha Luna, Maldita Vaina |
 | Fri, 13 Nov 2026 | Outside the BigMac, vol 6: November Edition | Malu |

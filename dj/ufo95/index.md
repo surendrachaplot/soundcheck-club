@@ -1,13 +1,14 @@
 # UFO95
 
-UFO95 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Domicile, Miami on Fri, 6 Nov 2026.
+UFO95 is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Domicile, Miami on Fri, 6 Nov 2026.
 
-UFO95 is a techno and house artist based in France, with 194 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 70 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Domicile, Miami on Fri 6 Nov.
+UFO95 is a techno and house artist based in France, with 195 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 70 more. Often billed alongside Hadone, Adriana Lopez and Anetha. Next up: Domicile, Miami on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Domicile | Miami |
 | Fri, 6 Nov 2026 | Domicile | Miami |
 | Sat, 7 Nov 2026 | smartbar | Chicago |
 | Fri, 13 Nov 2026 | RADION | Amsterdam |

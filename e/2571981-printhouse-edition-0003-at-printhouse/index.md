@@ -1,6 +1,6 @@
 # Printhouse Edition 0003 at Printhouse
 
-Printhouse Edition 0003 on Sat 14 Nov, Munich. 4 artists: .VRIL, IZZYA, Kinzua and Recondite. Techno. See the line-up on soundcheck.
+Printhouse Edition 0003 on Sat 14 Nov, Munich. 5 artists: .VRIL, Euphrat, IZZYA and Kinzua and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Printhouse Edition 0003 on Sat 14 Nov, Munich. 4 artists: .VRIL, IZZYA, Kinzua a
 ## Line-up
 
 - .VRIL
+- Euphrat
 - IZZYA
 - Kinzua
 - Recondite

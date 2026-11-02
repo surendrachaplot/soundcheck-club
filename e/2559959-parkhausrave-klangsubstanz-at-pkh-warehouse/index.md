@@ -1,6 +1,6 @@
 # ParkhausRave - KlangSubsTanz at PKH Warehouse
 
-ParkhausRave - KlangSubsTanz at PKH Warehouse on Sat 12 Dec, Berlin. 14 artists: agls, Ali Rajat, Aslan Venom and Einfach Taffo and 10 more. Techno and House. See the line-up on soundcheck.
+ParkhausRave - KlangSubsTanz at PKH Warehouse on Sat 12 Dec, Berlin. 15 artists: agls, Ali Rajat, Aslan Venom and Einfach Taffo and 11 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ ParkhausRave - KlangSubsTanz at PKH Warehouse on Sat 12 Dec, Berlin. 14 artists:
 - Ali Rajat
 - Aslan Venom
 - Einfach Taffo
+- FYZIØ
 - Jabuka
 - LANA:YEN
 - Lizzy LoOp

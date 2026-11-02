@@ -1,8 +1,8 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+X CLUB. is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-X CLUB. is a techno and house artist based in Australia, with 246 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 79 more. Often billed alongside VTSS, DJ Heartstring and KETTAMA. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+X CLUB. is a techno and house artist based in Australia, with 248 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Atlanta and 79 more. Often billed alongside VTSS, DJ Heartstring and KETTAMA. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,8 @@ X CLUB. is a techno and house artist based in Australia, with 246 gigs on soundc
 | Fri, 27 Nov 2026 | De Papierfabriek | Nijmegen |
 | Sat, 28 Nov 2026 | SWG3 | Glasgow |
 | Sat, 28 Nov 2026 | SWG3 | Glasgow |
+| Sat, 12 Dec 2026 | Unit | Tokyo |
+| Sun, 13 Dec 2026 | Circus Osaka | Osaka |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |

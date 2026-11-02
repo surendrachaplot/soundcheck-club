@@ -1,14 +1,14 @@
 # dozie (uk)
 
-dozie (uk) is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Night Cat, Melbourne on Mon, 2 Nov 2026.
+dozie (uk) is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
 
-dozie (uk) is a house and electronica artist based in United Kingdom, with 26 gigs on soundcheck across Melbourne. Often billed alongside Slumdog, DJ Optimism and Love, Jess. Next up: The Night Cat, Melbourne on Mon 2 Nov.
+dozie (uk) is a house and electronica artist based in United Kingdom, with 27 gigs on soundcheck across Melbourne. Often billed alongside Slumdog, DJ Optimism and Kailyn Crabbe. Next up: Glamorama, Melbourne on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | The Night Cat | Melbourne |
+| Sat, 7 Nov 2026 | Glamorama | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 26 Dec 2026 | Second Story Studios | Melbourne |
 
@@ -25,6 +25,6 @@ dozie (uk) is a house and electronica artist based in United Kingdom, with 26 gi
 
 ## Shares bills with
 
-Slumdog, DJ Optimism, Love, Jess
+Slumdog, DJ Optimism, Kailyn Crabbe
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dozieuk/)*

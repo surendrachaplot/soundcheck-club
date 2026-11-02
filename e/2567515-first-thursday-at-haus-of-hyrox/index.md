@@ -1,6 +1,6 @@
-# First Thursday at Haus of Hyrox
+# FIRST THURSDAY at Haus of Hyrox
 
-First Thursday at Haus of Hyrox on Thu 5 Nov, Hamburg. Deep House and Minimal Techno. See the line-up on soundcheck.
+FIRST THURSDAY at Haus of Hyrox on Thu 5 Nov, Hamburg. Deep House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

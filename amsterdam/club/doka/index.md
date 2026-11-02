@@ -1,8 +1,8 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Doka Studio with Mia Cecille b2b Andy" on Fri, 6 Nov 2026.
+Doka is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Doka Studio with Mia Cecille b2b Andy" on Fri, 6 Nov 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Andy (NL), Dj Heartbreak, DJ Tracksuit and ESTRELLA and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Andy (NL), Dj Heartbreak, DJ Tracksuit and ESTRELLA and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Doka is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with l
 | Fri, 20 Nov 2026 | Polychrome x Doka Studio with Willow (UK) - Lennie | Lennie, Willow |
 | Sat, 21 Nov 2026 | Doka Studio with Yamour - Pieter Jansen - tba | Jetti, Pieter Jansen, Yamour |
 | Fri, 27 Nov 2026 | Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco | I-F, Marsman, Vasco |
+| Fri, 11 Dec 2026 | Doka Studio x Call 4 Rhythm with LADYMONIX - KIéo | Kléo, LADYMONIX |
 | Sat, 12 Dec 2026 | Doka Studio x Call 4 Rhythm with LADYMONIX - KIéo | Kléo, LADYMONIX |
 
 ## Address

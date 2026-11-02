@@ -1,6 +1,6 @@
 # ENTER THE REALM - LAUNCH EDITION at Secret Location
 
-ENTER THE REALM - LAUNCH EDITION at Secret Location on Sat 21 Nov, London. 1 artist: Gareth Wild. Techno and House. See the line-up on soundcheck.
+ENTER THE REALM - LAUNCH EDITION at Secret Location on Sat 21 Nov, London. 2 artists: Bluer and Gareth Wild. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ ENTER THE REALM - LAUNCH EDITION at Secret Location on Sat 21 Nov, London. 1 art
 
 ## Line-up
 
+- Bluer
 - Gareth Wild
 
 *Source: [soundcheck](https://soundcheck.club/e/2539357-enter-the-realm-launch-edition-at-secret-location/)*
