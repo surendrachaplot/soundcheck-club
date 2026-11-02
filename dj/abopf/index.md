@@ -2,7 +2,7 @@
 
 ABOPF is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Blank Site, Seoul on Sat, 7 Nov 2026.
 
-ABOPF is an experimental and bass artist, with 16 gigs on soundcheck across Berlin and Seoul. Often billed alongside Yetsuby, dayoung and Arexibo. Next up: Blank Site, Seoul on Sat 7 Nov.
+ABOPF is an experimental and bass artist based in South Korea, with 16 gigs on soundcheck across Berlin and Seoul. Often billed alongside Yetsuby, dayoung and Arexibo. Next up: Blank Site, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 

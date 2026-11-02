@@ -1,14 +1,14 @@
 # Yemisul
 
-Yemisul is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Innermost Warehouse , Sydney on Sat, 14 Nov 2026.
+Yemisul is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
-Yemisul is a house and club artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Farnozz, Kenfo and 2touch. Next up: TBA - Innermost Warehouse , Sydney on Sat 14 Nov.
+Yemisul is a house and club artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Farnozz, Kenfo and 2touch. Next up: TBA, Sydney on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Innermost Warehouse  | Sydney |
+| Sat, 14 Nov 2026 | TBA | Sydney |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # JUN INAGAWA
 
-JUN INAGAWA is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Harajuku Quest, Tokyo on Mon, 2 Nov 2026.
+JUN INAGAWA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Metro, Kyoto on Fri, 6 Nov 2026.
 
-JUN INAGAWA is a techno and house artist based in Japan, with 198 gigs on soundcheck across Brussels, Hanoi, Ho Chi Minh City and Kyoto and 5 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: Harajuku Quest, Tokyo on Mon 2 Nov.
+JUN INAGAWA is a techno and house artist based in Japan, with 198 gigs on soundcheck across Brussels, Hanoi, Ho Chi Minh City and Kyoto and 5 more. Often billed alongside ecec, Eichi Abe and OKAMOTO REIJI. Next up: Club Metro, Kyoto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Harajuku Quest | Tokyo |
 | Fri, 6 Nov 2026 | Club Metro | Kyoto |
 | Sun, 15 Nov 2026 | West Harlem | Kyoto |
 | Sun, 15 Nov 2026 | WALL & WALL | Tokyo |

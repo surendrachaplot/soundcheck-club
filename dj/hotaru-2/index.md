@@ -2,7 +2,7 @@
 
 HOTARU (2) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - PUBLIC PUBLIC, Tokyo on Sat, 12 Dec 2026.
 
-HOTARU is a techno and hardcore artist, with 8 gigs on soundcheck across Tokyo. Often billed alongside IPPØ, MARU and NØEL (JP). Next up: TBA - PUBLIC PUBLIC, Tokyo on Sat 12 Dec.
+HOTARU is a techno and hardcore artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside IPPØ, MARU and NØEL (JP). Next up: TBA - PUBLIC PUBLIC, Tokyo on Sat 12 Dec.
 
 ## Upcoming shows
 

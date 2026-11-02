@@ -2,7 +2,7 @@
 
 John Garcia is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA -  LFO, Madrid on Sat, 14 Nov 2026.
 
-John Garcia is an electronica artist, with 9 gigs on soundcheck across Madrid. Often billed alongside Pillen, Gancho and 2Qimic. Next up: TBA -  LFO, Madrid on Sat 14 Nov.
+John Garcia is an electronica artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside Pillen, Gancho and 2Qimic. Next up: TBA -  LFO, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 

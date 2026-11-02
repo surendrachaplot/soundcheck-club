@@ -1,8 +1,8 @@
 # Ross From Friends
 
-Ross From Friends is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Phonox, London on Fri, 6 Nov 2026.
+Ross From Friends is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Phonox, London on Fri, 6 Nov 2026.
 
-Ross From Friends is a house and techno artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 53 more. Often billed alongside Bicep, Cameo Blush and VTSS. Next up: Phonox, London on Fri 6 Nov.
+Ross From Friends is a house and techno artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 54 more. Often billed alongside Bicep, Cameo Blush and VTSS. Next up: Phonox, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Ross From Friends is a house and techno artist based in United Kingdom, with 161
 | Fri, 13 Nov 2026 | Phonox | London |
 | Fri, 20 Nov 2026 | Phonox | London |
 | Sat, 21 Nov 2026 | The Cambridge Junction | South-east |
+| Thu, 26 Nov 2026 | Komedia Bath | West-wales |
 | Fri, 27 Nov 2026 | Phonox | London |
 
 ## Recently played

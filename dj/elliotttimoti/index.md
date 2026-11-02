@@ -2,7 +2,7 @@
 
 Elliott Timoti is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 8 Nov 2026.
 
-Elliott Timoti is a house and minimal artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Myles Timoti, Andrea Giudice and Larry Cadge. Next up: Starlane Pizza Bar, London on Sun 8 Nov.
+Elliott Timoti is a house and minimal artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Myles Timoti, Larry Cadge and Analog Disease. Next up: Starlane Pizza Bar, London on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Elliott Timoti is a house and minimal artist based in United Kingdom, with 8 gig
 
 ## Shares bills with
 
-Myles Timoti, Andrea Giudice, Larry Cadge
+Myles Timoti, Larry Cadge, Analog Disease
 
 *Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotttimoti/)*

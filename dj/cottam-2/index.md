@@ -2,7 +2,7 @@
 
 Cottam (2) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Eiger Studios, Leeds on Fri, 20 Nov 2026.
 
-Cottam is a garage and house artist, with 15 gigs on soundcheck across Budapest, Dublin, Leeds and London and 5 more. Often billed alongside Saint Ludo, TABZ and DJ Cosworth. Next up: Eiger Studios, Leeds on Fri 20 Nov.
+Cottam is a garage and house artist based in United Kingdom, with 15 gigs on soundcheck across Budapest, Dublin, Leeds and London and 5 more. Often billed alongside Saint Ludo, TABZ and DJ Cosworth. Next up: Eiger Studios, Leeds on Fri 20 Nov.
 
 ## Upcoming shows
 

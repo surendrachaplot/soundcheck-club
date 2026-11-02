@@ -1,13 +1,14 @@
 # TAIHEI
 
-TAIHEI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at club asia, Tokyo on Mon, 30 Nov 2026.
+TAIHEI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club (o)Utopos, Chubu on Fri, 20 Nov 2026.
 
-TAIHEI is a house and techno artist based in Japan, with 50 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside bungo, DJ HI-C and Haruka Katagata. Next up: club asia, Tokyo on Mon 30 Nov.
+TAIHEI is a house and techno artist based in Japan, with 51 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside bungo, DJ HI-C and Haruka Katagata. Next up: Club (o)Utopos, Chubu on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Club (o)Utopos | Chubu |
 | Mon, 30 Nov 2026 | club asia | Tokyo |
 
 ## Recently played

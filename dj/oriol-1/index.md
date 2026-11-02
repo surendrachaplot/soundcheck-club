@@ -1,13 +1,14 @@
 # ORIOL //
 
-ORIOL // is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kink Bar & Restaurant, Berlin on Thu, 26 Nov 2026.
+ORIOL // is a Disco and Balearic artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bembé Club, North on Sat, 21 Nov 2026.
 
-ORIOL // is a disco and balearic artist based in Spain, with 11 gigs on soundcheck across Berlin. Often billed alongside VictorDiscos. Next up: Kink Bar & Restaurant, Berlin on Thu 26 Nov.
+ORIOL // is a disco and balearic artist based in Spain, with 12 gigs on soundcheck across Berlin and North. Often billed alongside VictorDiscos. Next up: Bembé Club, North on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Bembé Club | North |
 | Thu, 26 Nov 2026 | Kink Bar & Restaurant | Berlin |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Mono Dust_
 
-Mono Dust_ is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 8 Nov 2026.
+Mono Dust_ is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
 
-Mono Dust_ is a house and minimal artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Andrea Giudice, Larry Cadge and Irren. Next up: Starlane Pizza Bar, London on Sun 8 Nov.
+Mono Dust_ is a house and minimal artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Andrea Giudice, Larry Cadge and Irren. Next up: Colour Factory, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 14 Nov 2026 | Colour Factory | London |
 
 ## Recently played

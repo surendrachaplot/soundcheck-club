@@ -1,6 +1,6 @@
 # tamanaramen
 
-tamanaramen is a Experimental and Electronica artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Toho Cinemas Roppongi Hills, Tokyo on Sat, 31 Oct 2026.
+tamanaramen is a Experimental and Electronica artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Toho Cinemas Roppongi Hills, Tokyo on Sat, 31 Oct 2026.
 
 tamanaramen is an experimental and electronica artist based in Japan, with 45 gigs on soundcheck across Beijing, Berlin, Brussels and Hong Kong and 7 more. Often billed alongside DJ Quietstorm, HIMAWARI and Daito Manabe. Next up: Toho Cinemas Roppongi Hills, Tokyo on Sat 31 Oct.
 
@@ -9,7 +9,6 @@ tamanaramen is an experimental and electronica artist based in Japan, with 45 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Toho Cinemas Roppongi Hills | Tokyo |
-| Mon, 2 Nov 2026 | Harajuku Quest | Tokyo |
 | Fri, 6 Nov 2026 | Shibuya Stream Hall | Tokyo |
 | Fri, 6 Nov 2026 | Enter Shibuya | Tokyo |
 | Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |

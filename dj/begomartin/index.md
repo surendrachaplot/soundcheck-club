@@ -2,7 +2,7 @@
 
 Bego Martin is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Lenovo Garage, Madrid on Sat, 7 Nov 2026.
 
-Bego Martin is a disco and house artist, with 10 gigs on soundcheck across Ibiza, Madrid and Tbilisi. Often billed alongside Alexis mayer, Brisa Then and Chelu Garcia. Next up: The Lenovo Garage, Madrid on Sat 7 Nov.
+Bego Martin is a disco and house artist based in Spain, with 10 gigs on soundcheck across Ibiza, Madrid and Tbilisi. Often billed alongside Alexis mayer, Brisa Then and Chelu Garcia. Next up: The Lenovo Garage, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 

@@ -2,7 +2,7 @@
 
 Thelma Cappello is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Holgura, Madrid on Fri, 6 Nov 2026.
 
-Thelma Cappello is an experimental and electronica artist, with 6 gigs on soundcheck across Brussels, Madrid and Paris. Often billed alongside LOW LOV, Promesses and 0neo. Next up: TBA - Holgura, Madrid on Fri 6 Nov.
+Thelma Cappello is an experimental and electronica artist based in France, with 6 gigs on soundcheck across Brussels, Madrid and Paris. Often billed alongside LOW LOV, Promesses and 0neo. Next up: TBA - Holgura, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 

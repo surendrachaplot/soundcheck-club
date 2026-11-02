@@ -1,8 +1,8 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Naked Grapes with juan and only" on Thu, 5 Nov 2026.
+Orangerie Neukölln is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Naked Grapes with juan and only" on Thu, 5 Nov 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Blossom Hill, Dario Radisic, Jelle from the Block and Olsvangèr and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Blossom Hill, Dario Radisic, Jelle from the Block and Mystigrix and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 8 upcoming 
 | Sat, 7 Nov 2026 | D'Frac mini Club Night | Olsvangèr |
 | Thu, 12 Nov 2026 | Naked Grapes with Ru.i | Ru.i |
 | Fri, 13 Nov 2026 | Sound Canteen with Dario Radišić | Dario Radisic |
+| Sat, 14 Nov 2026 | Flirt Records x Emotional Support Dog | Mystigrix, Stevo Bajski |
 | Thu, 19 Nov 2026 | Naked Grapes with Dracaena |  |
 | Sat, 21 Nov 2026 | ÍNTIMO with Sarah Ninon, The Brahma & Jelle from the Block | Jelle from the Block, Sarah Ninon, The Brahma |
 | Fri, 29 Jan 2027 | Sound Canteen with mnm |  |

@@ -2,7 +2,7 @@
 
 Carlos René is a Classical and Dancehall artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
-Carlos René is a classical and dancehall artist, with 15 gigs on soundcheck across Berlin, Brazil, London and Mexico City and 1 more. Often billed alongside Coco Maria, Lu Fortis and AAK (MX). Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
+Carlos René is a classical and dancehall artist based in Mexico, with 15 gigs on soundcheck across Berlin, Brazil, London and Mexico City and 1 more. Often billed alongside Coco Maria, Lu Fortis and AAK (MX). Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
 ## Upcoming shows
 

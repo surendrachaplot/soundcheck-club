@@ -2,7 +2,7 @@
 
 Visiter is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - No Fun - 275 River St, Troy, NY 12180, New-york-state on Sat, 28 Nov 2026.
 
-Visiter is a dubstep and bass artist, with 15 gigs on soundcheck across New York State, New York City and Philadelphia. Often billed alongside Ellis Delta, Melodelic and Mike.Gov. Next up: TBA - No Fun - 275 River St, Troy, NY 12180, New York State on Sat 28 Nov.
+Visiter is a dubstep and bass artist based in United States of America, with 15 gigs on soundcheck across New York State, New York City and Philadelphia. Often billed alongside Ellis Delta, Melodelic and Mike.Gov. Next up: TBA - No Fun - 275 River St, Troy, NY 12180, New York State on Sat 28 Nov.
 
 ## Upcoming shows
 

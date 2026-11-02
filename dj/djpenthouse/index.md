@@ -2,7 +2,7 @@
 
 DJ Penthouse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Club 77, Sydney on Thu, 31 Dec 2026.
 
-DJ Penthouse is a house and techno artist, with 8 gigs on soundcheck across Sydney. Often billed alongside Kato, Reenie and Tiit Whip. Next up: Club 77, Sydney on Thu 31 Dec.
+DJ Penthouse is a house and techno artist based in Australia, with 8 gigs on soundcheck across Sydney. Often billed alongside Kato, Reenie and Tiit Whip. Next up: Club 77, Sydney on Thu 31 Dec.
 
 ## Upcoming shows
 

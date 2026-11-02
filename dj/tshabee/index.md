@@ -2,7 +2,7 @@
 
 tshabee is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Atno, Budapest on Sat, 14 Nov 2026.
 
-tshabee is a bass and garage artist, with 14 gigs on soundcheck across Budapest. Often billed alongside Ben Dover, ico and AESZTETIK. Next up: Atno, Budapest on Sat 14 Nov.
+tshabee is a bass and garage artist based in Hungary, with 14 gigs on soundcheck across Budapest. Often billed alongside Ben Dover, ico and AESZTETIK. Next up: Atno, Budapest on Sat 14 Nov.
 
 ## Upcoming shows
 

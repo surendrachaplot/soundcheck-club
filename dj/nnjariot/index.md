@@ -2,7 +2,7 @@
 
 NNJA RIOT is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at All is Joy Studios, London on Sat, 28 Nov 2026.
 
-NNJA RIOT is an experimental and electronica artist, with 9 gigs on soundcheck across Berlin and London. Often billed alongside Dhangsha, Merkaba Macabre and Miedo Total. Next up: All is Joy Studios, London on Sat 28 Nov.
+NNJA RIOT is an experimental and electronica artist based in United Kingdom, with 9 gigs on soundcheck across Berlin and London. Often billed alongside Dhangsha, Merkaba Macabre and Miedo Total. Next up: All is Joy Studios, London on Sat 28 Nov.
 
 ## Upcoming shows
 

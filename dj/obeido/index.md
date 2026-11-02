@@ -1,14 +1,14 @@
 # Obeido
 
-Obeido is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Innermost Warehouse , Sydney on Sat, 14 Nov 2026.
+Obeido is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
-Obeido is a garage and house artist based in Australia, with 44 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, Bella Bella and Jane Decks. Next up: TBA - Innermost Warehouse , Sydney on Sat 14 Nov.
+Obeido is a garage and house artist based in Australia, with 44 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bouki, Bella Bella and Jane Decks. Next up: TBA, Sydney on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA - Innermost Warehouse  | Sydney |
+| Sat, 14 Nov 2026 | TBA | Sydney |
 
 ## Recently played
 

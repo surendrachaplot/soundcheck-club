@@ -12,7 +12,7 @@ Gretchen is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with
 | Tue, 3 Nov 2026 | ETRAN DE L'AÏR *live |  |
 | Thu, 5 Nov 2026 | ÀBÁSE  *live | Àbáse |
 | Fri, 6 Nov 2026 | NORLYZ feat. MALIKA ALAOUI *live |  |
-| Sat, 7 Nov 2026 | Rey&Kjavik live | Rey&Kjavik |
+| Sat, 7 Nov 2026 | Rey&Kjavik | Rey&Kjavik |
 | Sun, 8 Nov 2026 | LEITER & HHV present: NOAH X PETTER – DRIFT *live* |  |
 | Tue, 10 Nov 2026 | TRUE LOVES *live |  |
 | Wed, 11 Nov 2026 | NICK HAKIM |  |

@@ -2,7 +2,7 @@
 
 Psychemagik is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 6 Nov 2026.
 
-Psychemagik is a disco and house artist, with 15 gigs on soundcheck across Dublin, Lisbon, London and Los Angeles and 7 more. Often billed alongside FC Kahuna, Luke Una and 2 Bad Mice. Next up: Lux Fragil, Lisbon on Fri 6 Nov.
+Psychemagik is a disco and house artist based in United Kingdom, with 15 gigs on soundcheck across Dublin, Lisbon, London and Los Angeles and 7 more. Often billed alongside FC Kahuna, Luke Una and 2 Bad Mice. Next up: Lux Fragil, Lisbon on Fri 6 Nov.
 
 ## Upcoming shows
 

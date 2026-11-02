@@ -2,7 +2,7 @@
 
 Raul Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 6 Nov 2026.
 
-Raul Lee is a techno and house artist, with 11 gigs on soundcheck across Amsterdam and Kuala Lumpur. Often billed alongside Alam, Meliha and Arthur Robert. Next up: Pisco Bar, Kuala Lumpur on Fri 6 Nov.
+Raul Lee is a techno and house artist based in Malaysia, with 11 gigs on soundcheck across Amsterdam and Kuala Lumpur. Often billed alongside Alam, Meliha and Arthur Robert. Next up: Pisco Bar, Kuala Lumpur on Fri 6 Nov.
 
 ## Upcoming shows
 
