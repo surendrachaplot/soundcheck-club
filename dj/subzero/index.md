@@ -1,13 +1,14 @@
 # Sub Zero
 
-Sub Zero is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Fire, London on Thu, 31 Dec 2026.
+Sub Zero is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cross Club, Prague on Fri, 27 Nov 2026.
 
-Sub Zero is a drum & bass and bass artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Brighton and 12 more. Often billed alongside Harry Shotta, Eksman and BassLayerz. Next up: Fire, London on Thu 31 Dec.
+Sub Zero is a drum & bass and bass artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Brighton and 13 more. Often billed alongside Harry Shotta, Eksman and BassLayerz. Next up: Cross Club, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Cross Club | Prague |
 | Thu, 31 Dec 2026 | Fire | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sub Zero is a drum & bass and bass artist based in United Kingdom, with 61 gigs 
 
 Harry Shotta, Eksman, BassLayerz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subzero/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subzero/)*

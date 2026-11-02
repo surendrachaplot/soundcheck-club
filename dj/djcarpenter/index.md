@@ -1,6 +1,6 @@
 # DJ Carpenter
 
-DJ Carpenter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+DJ Carpenter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 DJ Carpenter is a techno and house artist based in Sweden, with 2 gigs on soundcheck across London and Manchester. Often billed alongside Bella Claxton, Clouds and DART. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ DJ Carpenter is a techno and house artist based in Sweden, with 2 gigs on soundc
 
 Bella Claxton, Clouds, DART
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcarpenter/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcarpenter/)*

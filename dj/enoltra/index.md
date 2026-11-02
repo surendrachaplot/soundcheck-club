@@ -1,6 +1,6 @@
 # Enoltra
 
-Enoltra is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Rhiz, Vienna on Sat, 7 Nov 2026.
+Enoltra is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Rhiz, Vienna on Sat, 7 Nov 2026.
 
 Enoltra is a hardcore and techno artist based in Austria, with 12 gigs on soundcheck across Vienna. Often billed alongside Fede Frostl, DJ Soulcat and Daniel Darkhofer. Next up: Rhiz, Vienna on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Enoltra is a hardcore and techno artist based in Austria, with 12 gigs on soundc
 
 Fede Frostl, DJ Soulcat, Daniel Darkhofer
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enoltra/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enoltra/)*

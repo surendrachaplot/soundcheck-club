@@ -1,6 +1,6 @@
 # BigRedMachine
 
-BigRedMachine is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+BigRedMachine is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 BigRedMachine is a tech house and house artist, with 2 gigs on soundcheck across Denver and Iceland. Often billed alongside Ryan Crosson, Agzilla and Ali Love. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -18,4 +18,4 @@ BigRedMachine is a tech house and house artist, with 2 gigs on soundcheck across
 
 Ryan Crosson, Agzilla, Ali Love
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigredmachine/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigredmachine/)*

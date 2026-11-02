@@ -1,6 +1,6 @@
 # Audiodrome
 
-Audiodrome is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Enrico Sangiuliano for Audiodrome ALIVE CLUB" on Fri, 6 Nov 2026.
+Audiodrome is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Enrico Sangiuliano for Audiodrome ALIVE CLUB" on Fri, 6 Nov 2026.
 
 Audiodrome is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with line-ups including A.N.I., Enrico Sangiuliano, Fatima Hajji and Lee Ann Roberts and 1 more. See dates, start times and who's playing. Strada Mongina 9, 10024 Moncalieri (TO), Italy.
 
@@ -20,4 +20,4 @@ Audiodrome is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with
 
 Strada Mongina 9, 10024 Moncalieri (TO), Italy, Turin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/audiodrome/)*

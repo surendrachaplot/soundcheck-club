@@ -1,6 +1,6 @@
 # Preciado
 
-Preciado is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
+Preciado is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
 
 Preciado is a techno and trance artist based in Belgium, with 2 gigs on soundcheck across Brussels. Often billed alongside WHYDANCING, DECONOFF and INDY.B. Next up: UMI, Brussels on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Preciado is a techno and trance artist based in Belgium, with 2 gigs on soundche
 
 WHYDANCING, DECONOFF, INDY.B
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/preciado/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/preciado/)*

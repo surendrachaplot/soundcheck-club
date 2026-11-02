@@ -1,8 +1,8 @@
 # X&trick
 
-X&trick is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Chinastraat, Ghent on Sat, 28 Nov 2026.
+X&trick is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Chinastraat, Ghent on Sat, 28 Nov 2026.
 
-X&trick is a techno and trance artist, with 40 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bologna and 16 more. Often billed alongside DXPE (ES), Sopik and CLAWZ. Next up: Chinastraat, Ghent on Sat 28 Nov.
+X&trick is a techno and trance artist based in Belgium, with 40 gigs on soundcheck across Antwerp, Barcelona, Berlin and Bologna and 16 more. Often billed alongside DXPE (ES), Sopik and CLAWZ. Next up: Chinastraat, Ghent on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ X&trick is a techno and trance artist, with 40 gigs on soundcheck across Antwerp
 
 DXPE (ES), Sopik, CLAWZ
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xtrick/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xtrick/)*

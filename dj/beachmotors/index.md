@@ -1,6 +1,6 @@
 # Beach Motors
 
-Beach Motors is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Arcana, San Francisco/Oakland on Fri, 13 Nov 2026.
+Beach Motors is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Arcana, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Beach Motors is a deep house and house artist based in New Zealand, with 2 gigs on soundcheck across San Francisco/Oakland. Often billed alongside &ndmore, Louiv and Phil Spank. Next up: Arcana, San Francisco/Oakland on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ Beach Motors is a deep house and house artist based in New Zealand, with 2 gigs 
 
 &ndmore, Louiv, Phil Spank
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beachmotors/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beachmotors/)*

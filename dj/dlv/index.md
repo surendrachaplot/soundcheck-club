@@ -1,14 +1,13 @@
 # DLV
 
-DLV is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at 20 Meadow, New York City on Sat, 31 Oct 2026.
+DLV is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Schrotty, Cologne on Wed, 11 Nov 2026.
 
-DLV is a techno and acid artist based in Austria, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside KTK (DE), Sept and Blame The Mono. Next up: 20 Meadow, New York City on Sat 31 Oct.
+DLV is a techno and acid artist based in Austria, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside KTK (DE), Sept and Blame The Mono. Next up: Schrotty, Cologne on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | 20 Meadow | New York City |
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
 | Sat, 14 Nov 2026 | AUX Club | Athens |
 
@@ -27,4 +26,4 @@ DLV is a techno and acid artist based in Austria, with 130 gigs on soundcheck ac
 
 KTK (DE), Sept, Blame The Mono
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlv/)*

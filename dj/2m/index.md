@@ -1,6 +1,6 @@
 # 2M
 
-2M is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Supermarket, Zurich on Sat, 14 Nov 2026.
+2M is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Supermarket, Zurich on Sat, 14 Nov 2026.
 
 2M is a techno and deep house artist based in Germany, with 22 gigs on soundcheck across Brussels, Copenhagen, Dublin and Lausanne and 3 more. Often billed alongside Alex Dallas, Manuel Fischer and Kalabrese. Next up: Supermarket, Zurich on Sat 14 Nov.
 
@@ -26,4 +26,4 @@
 
 Alex Dallas, Manuel Fischer, Kalabrese
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2m/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2m/)*

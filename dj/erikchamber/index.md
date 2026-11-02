@@ -1,6 +1,6 @@
 # Erik Chamber
 
-Erik Chamber is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
+Erik Chamber is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 28 Nov 2026.
 
 Erik Chamber is a techno and house artist based in Spain, with 5 gigs on soundcheck across Barcelona, Copenhagen and Manchester. Often billed alongside Jhort, Sushinigami and Alvva. Next up: Razzmatazz, Barcelona on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Erik Chamber is a techno and house artist based in Spain, with 5 gigs on soundch
 
 Jhort, Sushinigami, Alvva
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikchamber/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikchamber/)*

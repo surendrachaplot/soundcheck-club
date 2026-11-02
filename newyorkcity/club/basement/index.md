@@ -1,14 +1,13 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Herrensauna: MCMLXXXV / SALOME / LORD ASA / CEM / Dee Diggs / Sevyn Love" on Sat, 31 Oct 2026.
+BASEMENT is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Aurora Halal / Altinbas / Roza Terenzi / Alex Kassian / Matas" on Fri, 6 Nov 2026.
 
-BASEMENT is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Justine Perry, LYDO, Alex Kassian and Altinbas and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
+BASEMENT is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Justine Perry, LYDO, Alex Kassian and Altinbas and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Herrensauna: MCMLXXXV / SALOME / LORD ASA / CEM / Dee Diggs / Sevyn Love | CEM, Dee Diggs, LORD ASA, MCMLXXXV, SALOME, Sevyn Love |
 | Fri, 6 Nov 2026 | Aurora Halal / Altinbas / Roza Terenzi / Alex Kassian / Matas | Alex Kassian, Altinbas, Aurora Halal, Matas, Roza Terenzi |
 | Sat, 7 Nov 2026 | WRECKED: Partok / Mike Servito / PEPIITA / Loren / Ron Like Hell / Ryan Smith | Loren, Mike Servito, PEPIITA, Partok, Ron Like Hell |
 | Fri, 13 Nov 2026 | Schwefelgelb / Justine Perry / Liza Rivs / Makadsi / Serenda / Sterling Juan Diaz | Justine Perry, Liza Rivs, Makadsi, Schwefelgelb, Serenda, Sterling Juan Diaz |
@@ -20,4 +19,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 7 upcoming gigs
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

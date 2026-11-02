@@ -1,6 +1,6 @@
 # Marko La Rocca
 
-Marko La Rocca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
+Marko La Rocca is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
 
 Marko La Rocca is a house and techno artist, with 2 gigs on soundcheck across Belgium and Ghent. Often billed alongside Don Cabron, GALAGO (BE) and Jaxter. Next up: Cercle Royal Gaulois, Belgium on Sun 15 Nov.
 
@@ -18,4 +18,4 @@ Marko La Rocca is a house and techno artist, with 2 gigs on soundcheck across Be
 
 Don Cabron, GALAGO (BE), Jaxter
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markolarocca/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markolarocca/)*

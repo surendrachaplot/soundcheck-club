@@ -1,6 +1,6 @@
 # 50JING
 
-50JING is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at ILLUM, Shanghai on Sat, 7 Nov 2026.
+50JING is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ILLUM, Shanghai on Sat, 7 Nov 2026.
 
 50JING is a club and hardcore artist based in China, with 3 gigs on soundcheck across Berlin and Shanghai. Often billed alongside B3CKI, DJ GHEPARD and KALI.. Next up: ILLUM, Shanghai on Sat 7 Nov.
 
@@ -19,4 +19,4 @@
 
 B3CKI, DJ GHEPARD, KALI.
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/50jing/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/50jing/)*

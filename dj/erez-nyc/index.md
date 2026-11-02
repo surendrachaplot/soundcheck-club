@@ -1,6 +1,6 @@
 # E R E Z
 
-E R E Z is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 4 Dec 2026.
+E R E Z is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Factory Town, Miami on Fri, 4 Dec 2026.
 
 E R E Z is a tech house and house artist based in Israel, with 2 gigs on soundcheck across Miami and New York City. Often billed alongside Alci, Amy Jor and Avalon Emerson. Next up: Factory Town, Miami on Fri 4 Dec.
 
@@ -18,4 +18,4 @@ E R E Z is a tech house and house artist based in Israel, with 2 gigs on soundch
 
 Alci, Amy Jor, Avalon Emerson
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erez-nyc/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erez-nyc/)*

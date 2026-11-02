@@ -1,6 +1,6 @@
 # Circadian Seeker
 
-Circadian Seeker is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Trekanten, Oslo on Sun, 15 Nov 2026.
+Circadian Seeker is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Trekanten, Oslo on Sun, 15 Nov 2026.
 
 Circadian Seeker is a trance and techno artist, with 2 gigs on soundcheck across Oslo. Often billed alongside Guild Navigator, Komet99 and Naboklage. Next up: Trekanten, Oslo on Sun 15 Nov.
 
@@ -18,4 +18,4 @@ Circadian Seeker is a trance and techno artist, with 2 gigs on soundcheck across
 
 Guild Navigator, Komet99, Naboklage
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/circadianseeker/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/circadianseeker/)*

@@ -1,6 +1,6 @@
 # Don Gato
 
-Don Gato is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Talleyrand, Manchester on Sat, 21 Nov 2026.
+Don Gato is a Disco and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Talleyrand, Manchester on Sat, 21 Nov 2026.
 
 Don Gato is a disco and acid artist, with 3 gigs on soundcheck across Manchester. Often billed alongside AdomasLP, Kusasa and Tommy Cross. Next up: The Talleyrand, Manchester on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Don Gato is a disco and acid artist, with 3 gigs on soundcheck across Manchester
 
 AdomasLP, Kusasa, Tommy Cross
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dongato/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dongato/)*

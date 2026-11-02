@@ -1,6 +1,6 @@
 # Jax Vrooge
 
-Jax Vrooge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, London on Thu, 31 Dec 2026.
+Jax Vrooge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, London on Thu, 31 Dec 2026.
 
 Jax Vrooge is a techno and house artist, with 3 gigs on soundcheck across London. Often billed alongside AMAR (UK), UNCUT (UK) and Yazmin (UK). Next up: TBA, London on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ Jax Vrooge is a techno and house artist, with 3 gigs on soundcheck across London
 
 AMAR (UK), UNCUT (UK), Yazmin (UK)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxvrooge/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxvrooge/)*

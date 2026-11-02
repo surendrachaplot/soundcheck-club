@@ -1,6 +1,6 @@
 # ETER (2)
 
-ETER (2) is a Electronica and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+ETER (2) is a Electronica and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 ETER is an electronica and reggaeton artist based in Georgia, with 2 gigs on soundcheck across Barcelona and Moscow. Often billed alongside ALOD, Annie and Chain Damage. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ ETER is an electronica and reggaeton artist based in Georgia, with 2 gigs on sou
 
 ALOD, Annie, Chain Damage
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eter-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eter-2/)*

@@ -1,6 +1,6 @@
 # Elkka
 
-Elkka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Yes, Manchester on Fri, 6 Nov 2026.
+Elkka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Yes, Manchester on Fri, 6 Nov 2026.
 
 Elkka is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 35 more. Often billed alongside Dan Shake, TSHA and Bonobo. Next up: Yes, Manchester on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Elkka is a house and techno artist based in United Kingdom, with 104 gigs on sou
 
 Dan Shake, TSHA, Bonobo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elkka/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elkka/)*

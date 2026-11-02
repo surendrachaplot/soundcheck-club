@@ -1,6 +1,6 @@
 # Mystery Affair
 
-Mystery Affair is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Polifonic.MX, Guadalajara on Thu, 19 Nov 2026.
+Mystery Affair is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Polifonic.MX, Guadalajara on Thu, 19 Nov 2026.
 
 Mystery Affair is a house and techno artist based in Mexico, with 148 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Ursula Prawn, Portugal and Celice Monnette. Next up: Polifonic.MX, Guadalajara on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Mystery Affair is a house and techno artist based in Mexico, with 148 gigs on so
 
 Ursula Prawn, Portugal, Celice Monnette
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysteryaffair/)*

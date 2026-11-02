@@ -1,15 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "WiGGLEWEEN + Afterparty [10pm-7am]" on Sat, 31 Oct 2026.
+Wiggle Room is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "WR Records: LITTLE BAD ASS [LBA] Release Party" on Fri, 6 Nov 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, with line-ups including Addy, Anthony Cole, Barroness and Brash-B and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Anthony Cole, Barroness, Brash-B and Carabetta and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | WiGGLEWEEN + Afterparty [10pm-7am] | Barroness, Manzone & Strong, Miz Megs, Nour (CAN), TAKiN, Tyler Hill |
-| Sun, 1 Nov 2026 | Sunday SerVice: Manzone & Strong - Addy / 4AM LAST CALL | Addy, Manzone & Strong, Mike Dunn |
 | Fri, 6 Nov 2026 | WR Records: LITTLE BAD ASS [LBA] Release Party |  |
 | Sat, 7 Nov 2026 | Madam Wiggle's Annual Unicorn Party | Barroness, Dick Diamonds, Nathan Barato, Nour (CAN), TAKiN, Tyler Hill |
 | Sun, 8 Nov 2026 | Sunday SerVice: SHERA - Manzone & Strong - 4AM LAST CALL | Manzone & Strong, SHERA |
@@ -18,9 +16,11 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, 
 | Sun, 15 Nov 2026 | Sunday SerVice: Kenny Glasgow - Manzone & Strong - 4AM LAST CALL | Barroness, Kenny Glasgow, Manzone & Strong |
 | Fri, 20 Nov 2026 | Change the Beat: Sydney Blu's Birthday Fundraiser | Miz Megs, Natalie Nox, SHERA, Sydney Blu |
 | Sat, 21 Nov 2026 | Animal Instinx: Hector Romero [NYC] | Hector Romero, TAKiN |
+| Sun, 22 Nov 2026 | Sunday SerVice: Manzone & Strong - FLIPSIDE - 4AM LAST CALL | Cozmic Cat, MC Flipside, Manzone & Strong |
+| Sun, 29 Nov 2026 | Sunday SerVice: Carabetta - Manzone & Strong - 4AM LAST CALL | Carabetta, Manzone & Strong |
 
 ## Address
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

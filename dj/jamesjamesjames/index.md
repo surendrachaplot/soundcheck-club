@@ -1,6 +1,6 @@
 # jamesjamesjames
 
-jamesjamesjames is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
+jamesjamesjames is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
 
 jamesjamesjames is a techno and progressive house artist based in Australia, with 25 gigs on soundcheck across Adelaide, Brisbane, Chicago and Helsinki and 9 more. Often billed alongside Varg²™, Willaris. K and Caucasian Opportunities. Next up: Igloofest, Montreal on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ jamesjamesjames is a techno and progressive house artist based in Australia, wit
 
 Varg²™, Willaris. K, Caucasian Opportunities
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesjamesjames/)*

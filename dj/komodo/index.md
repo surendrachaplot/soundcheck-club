@@ -1,6 +1,6 @@
 # Komodo
 
-Komodo is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Rex Club, Paris on Thu, 12 Nov 2026.
+Komodo is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Rex Club, Paris on Thu, 12 Nov 2026.
 
 Komodo is a dubstep and drum & bass artist based in United Kingdom, with 2 gigs on soundcheck across Paris. Often billed alongside Kalopsia. Next up: Rex Club, Paris on Thu 12 Nov.
 
@@ -18,4 +18,4 @@ Komodo is a dubstep and drum & bass artist based in United Kingdom, with 2 gigs 
 
 Kalopsia
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/komodo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/komodo/)*

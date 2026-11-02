@@ -1,6 +1,6 @@
 # Jakey
 
-Jakey is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Section 8, Melbourne on Thu, 5 Nov 2026.
+Jakey is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Section 8, Melbourne on Thu, 5 Nov 2026.
 
 Jakey is a garage and dubstep artist, with 2 gigs on soundcheck across Melbourne. Often billed alongside Bekks, Callaghan and freakydiquey. Next up: Section 8, Melbourne on Thu 5 Nov.
 
@@ -18,4 +18,4 @@ Jakey is a garage and dubstep artist, with 2 gigs on soundcheck across Melbourne
 
 Bekks, Callaghan, freakydiquey
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakey/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakey/)*

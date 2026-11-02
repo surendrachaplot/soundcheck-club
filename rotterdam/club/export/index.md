@@ -1,6 +1,6 @@
 # export
 
-export is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Fantastic Man, Jeff Solo" on Fri, 6 Nov 2026.
+export is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Fantastic Man, Jeff Solo" on Fri, 6 Nov 2026.
 
 export is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Amaliah, Ambu Bambu, CAIN and Candy Coup and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
@@ -22,4 +22,4 @@ export is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with
 
 Keilestraat 7E, 3029 BP, Rotterdam, Rotterdam
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/export/)*

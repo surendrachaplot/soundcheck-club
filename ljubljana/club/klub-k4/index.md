@@ -1,6 +1,6 @@
 # Klub K4
 
-Klub K4 is a music venue in Ljubljana with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "STELLAR x K4: Janeret & Twineffect" on Fri, 6 Nov 2026.
+Klub K4 is a music venue in Ljubljana with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "STELLAR x K4: Janeret & Twineffect" on Fri, 6 Nov 2026.
 
 Klub K4 is a music venue in Ljubljana listed on soundcheck. 4 upcoming gigs, with line-ups including 93kb, Amotik, Asarri and Daniella da Silva and 2 more. See dates, start times and who's playing. Kersnikova 4 1000 Ljubljana, Slovenia.
 
@@ -17,4 +17,4 @@ Klub K4 is a music venue in Ljubljana listed on soundcheck. 4 upcoming gigs, wit
 
 Kersnikova 4 1000 Ljubljana, Slovenia, Ljubljana
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/klub-k4/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/klub-k4/)*

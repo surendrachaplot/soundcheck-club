@@ -1,6 +1,6 @@
 # TBA - Email Deepsidebaltimore@gmail.com for info/address
 
-TBA - Email Deepsidebaltimore@gmail.com for info/address is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "Cassy at Dark Room" on Sat, 12 Dec 2026.
+TBA - Email Deepsidebaltimore@gmail.com for info/address is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Cassy at Dark Room" on Sat, 12 Dec 2026.
 
 TBA - Email Deepsidebaltimore@gmail.com for info/address is a music venue in Baltimore listed on soundcheck. 1 upcoming gig, with line-ups including Cassy and Feroun. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Email Deepsidebaltimore@gmail.com for info/address is a music venue in Bal
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Cassy at Dark Room | Cassy, Feroun |
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/tba-email-deepsidebaltimore-gmail-com-for-info-address/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/tba-email-deepsidebaltimore-gmail-com-for-info-address/)*

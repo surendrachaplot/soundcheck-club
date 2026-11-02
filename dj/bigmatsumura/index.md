@@ -1,6 +1,6 @@
 # BIG MATSUMURA
 
-BIG MATSUMURA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at West Harlem, Kyoto on Sat, 5 Dec 2026.
+BIG MATSUMURA is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at West Harlem, Kyoto on Sat, 5 Dec 2026.
 
 BIG MATSUMURA is a tech house and house artist based in Japan, with 21 gigs on soundcheck across Kyoto and Osaka. Often billed alongside DJ Master Kohta, Mannuma and Lewo Chyba. Next up: West Harlem, Kyoto on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ BIG MATSUMURA is a tech house and house artist based in Japan, with 21 gigs on s
 
 DJ Master Kohta, Mannuma, Lewo Chyba
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmatsumura/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmatsumura/)*

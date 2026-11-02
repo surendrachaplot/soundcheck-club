@@ -1,8 +1,8 @@
 # YUKO ARAKI
 
-YUKO ARAKI is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
+YUKO ARAKI is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Forestlimit, Tokyo on Fri, 13 Nov 2026.
 
-YUKO ARAKI is an experimental and techno artist, with 23 gigs on soundcheck across Brussels, London, Rome and Shanghai and 3 more. Often billed alongside mlosims, Aho Ssan and JACKSON kaki. Next up: Forestlimit, Tokyo on Fri 13 Nov.
+YUKO ARAKI is an experimental and techno artist based in Japan, with 23 gigs on soundcheck across Brussels, London, Rome and Shanghai and 3 more. Often billed alongside mlosims, Aho Ssan and JACKSON kaki. Next up: Forestlimit, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ YUKO ARAKI is an experimental and techno artist, with 23 gigs on soundcheck acro
 
 mlosims, Aho Ssan, JACKSON kaki
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukoaraki/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukoaraki/)*

@@ -1,6 +1,6 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - HARBOUR CLUB (PRIVATE MEMBERS), Miami on Fri, 6 Nov 2026.
+Levi (AU) is a Afro House and Deep House artist with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - HARBOUR CLUB (PRIVATE MEMBERS), Miami on Fri, 6 Nov 2026.
 
 Levi (AU) is an afro house and deep house artist based in Australia, with 122 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 51 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: TBA - HARBOUR CLUB (PRIVATE MEMBERS), Miami on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Levi (AU) is an afro house and deep house artist based in Australia, with 122 gi
 
 AJ Christou, Freddy Bello, SARA AFSHAR
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-au/)*

@@ -1,8 +1,8 @@
 # Anderson
 
-Anderson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+Anderson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
-Anderson is a techno and house artist, with 14 gigs on soundcheck across Berlin, Bordeaux, Lisbon and Miami and 2 more. Often billed alongside Mari.te, SOLANA and AAA. Next up: Golden Gate, Berlin on Thu 19 Nov.
+Anderson is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across Berlin, Bordeaux, Lisbon and Miami and 2 more. Often billed alongside Mari.te, SOLANA and AAA. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Anderson is a techno and house artist, with 14 gigs on soundcheck across Berlin,
 
 Mari.te, SOLANA, AAA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anderson/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anderson/)*

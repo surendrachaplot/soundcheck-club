@@ -1,6 +1,6 @@
 # Gørzo
 
-Gørzo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sexto Piso, Mexico City on Sun, 15 Nov 2026.
+Gørzo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sexto Piso, Mexico City on Sun, 15 Nov 2026.
 
 Gørzo is a techno and trance artist, with 3 gigs on soundcheck across Mexico City. Often billed alongside BEYA, Barbara Butch and INAKARA. Next up: Sexto Piso, Mexico City on Sun 15 Nov.
 
@@ -19,4 +19,4 @@ Gørzo is a techno and trance artist, with 3 gigs on soundcheck across Mexico Ci
 
 BEYA, Barbara Butch, INAKARA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gorzo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gorzo/)*

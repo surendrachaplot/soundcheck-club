@@ -1,8 +1,8 @@
 # Salvatore Foglia
 
-Salvatore Foglia is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Brancaleone, Rome on Fri, 6 Nov 2026.
+Salvatore Foglia is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Brancaleone, Rome on Fri, 6 Nov 2026.
 
-Salvatore Foglia is a techno and minimal artist, with 13 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 2 more. Often billed alongside Kenny Dahl, Daniel Norrel and G.oss. Next up: Brancaleone, Rome on Fri 6 Nov.
+Salvatore Foglia is a techno and minimal artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 2 more. Often billed alongside Kenny Dahl, Daniel Norrel and G.oss. Next up: Brancaleone, Rome on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Salvatore Foglia is a techno and minimal artist, with 13 gigs on soundcheck acro
 
 Kenny Dahl, Daniel Norrel, G.oss
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salvatorefoglia/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salvatorefoglia/)*

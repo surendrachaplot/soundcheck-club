@@ -1,6 +1,6 @@
 # CSCX
 
-CSCX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - SECRET LOCATION, Turin on Sat, 7 Nov 2026.
+CSCX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - SECRET LOCATION, Turin on Sat, 7 Nov 2026.
 
 CSCX is a house and techno artist, with 4 gigs on soundcheck across Turin. Often billed alongside Minimal Larsen, DJ TEETH and Dj Autogrill. Next up: TBA - SECRET LOCATION, Turin on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ CSCX is a house and techno artist, with 4 gigs on soundcheck across Turin. Often
 
 Minimal Larsen, DJ TEETH, Dj Autogrill
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cscx/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cscx/)*

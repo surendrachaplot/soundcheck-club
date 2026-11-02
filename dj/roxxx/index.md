@@ -1,6 +1,6 @@
 # Roxxx
 
-Roxxx is a R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at House Party, London on Sat, 19 Dec 2026.
+Roxxx is a R&B artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at House Party, London on Sat, 19 Dec 2026.
 
 Roxxx is a r&b artist, with 2 gigs on soundcheck across Barcelona and London. Often billed alongside Babsy. Next up: House Party, London on Sat 19 Dec.
 
@@ -18,4 +18,4 @@ Roxxx is a r&b artist, with 2 gigs on soundcheck across Barcelona and London. Of
 
 Babsy
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxxx/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxxx/)*

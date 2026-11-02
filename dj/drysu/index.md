@@ -1,6 +1,6 @@
 # drysu
 
-drysu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ormside Projects, London on Fri, 6 Nov 2026.
+drysu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ormside Projects, London on Fri, 6 Nov 2026.
 
 drysu is a house and techno artist based in United Kingdom, with 3 gigs on soundcheck across London and Perth. Often billed alongside Ariane V, Beautiful Swimmers and CCL. Next up: Ormside Projects, London on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ drysu is a house and techno artist based in United Kingdom, with 3 gigs on sound
 
 Ariane V, Beautiful Swimmers, CCL
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drysu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drysu/)*

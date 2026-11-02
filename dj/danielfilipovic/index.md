@@ -1,8 +1,8 @@
 # Daniel Filipovic
 
-Daniel Filipovic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Surge Nightclube, Adelaide on Fri, 6 Nov 2026.
+Daniel Filipovic is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Surge Nightclube, Adelaide on Fri, 6 Nov 2026.
 
-Daniel Filipovic is a techno and electro artist, with 7 gigs on soundcheck across Adelaide, Berlin and Melbourne. Often billed alongside Ranjit Nijjer, Andrew Till and Ben Cromack. Next up: Surge Nightclube, Adelaide on Fri 6 Nov.
+Daniel Filipovic is a techno and electro artist based in Australia, with 7 gigs on soundcheck across Adelaide, Berlin and Melbourne. Often billed alongside Ranjit Nijjer, Andrew Till and Ben Cromack. Next up: Surge Nightclube, Adelaide on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Daniel Filipovic is a techno and electro artist, with 7 gigs on soundcheck acros
 
 Ranjit Nijjer, Andrew Till, Ben Cromack
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielfilipovic/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielfilipovic/)*

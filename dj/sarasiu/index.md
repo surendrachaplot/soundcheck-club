@@ -1,8 +1,8 @@
 # Sara Siu
 
-Sara Siu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Desa Kitsune, Bali on Fri, 13 Nov 2026.
+Sara Siu is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Desa Kitsune, Bali on Fri, 13 Nov 2026.
 
-Sara Siu is a house and tech house artist, with 10 gigs on soundcheck across Bali, Milan, Paris and Rome and 1 more. Often billed alongside Francesco Castelli, Aghnes and Sofiget. Next up: Desa Kitsune, Bali on Fri 13 Nov.
+Sara Siu is a house and tech house artist based in Italy, with 10 gigs on soundcheck across Bali, Milan, Paris and Rome and 1 more. Often billed alongside Francesco Castelli, Aghnes and Sofiget. Next up: Desa Kitsune, Bali on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sara Siu is a house and tech house artist, with 10 gigs on soundcheck across Bal
 
 Francesco Castelli, Aghnes, Sofiget
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarasiu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarasiu/)*

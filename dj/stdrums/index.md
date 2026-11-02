@@ -1,6 +1,6 @@
 # #STDRUMS
 
-#STDRUMS is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at FS., Tokyo on Tue, 17 Nov 2026.
+#STDRUMS is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at FS., Tokyo on Tue, 17 Nov 2026.
 
 #STDRUMS is a drum & bass and house artist, with 4 gigs on soundcheck across Osaka and Tokyo. Often billed alongside 8trone. Next up: FS., Tokyo on Tue 17 Nov.
 
@@ -20,4 +20,4 @@
 
 8trone
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stdrums/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stdrums/)*

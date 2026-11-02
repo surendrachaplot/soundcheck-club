@@ -1,6 +1,6 @@
 # Lenny Ye$
 
-Lenny Ye$ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - The Church, Canal St., Manchester on Sat, 7 Nov 2026.
+Lenny Ye$ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - The Church, Canal St., Manchester on Sat, 7 Nov 2026.
 
 Lenny Ye$ is a house and disco artist, with 3 gigs on soundcheck across Manchester. Often billed alongside DJ Scissher, Hello From Ben and DJ Klitbait. Next up: TBA - The Church, Canal St., Manchester on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Lenny Ye$ is a house and disco artist, with 3 gigs on soundcheck across Manchest
 
 DJ Scissher, Hello From Ben, DJ Klitbait
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyye/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennyye/)*

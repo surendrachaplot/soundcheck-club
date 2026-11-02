@@ -1,6 +1,6 @@
 # Hand-made
 
-Hand-made is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at People's Leisure Club, Edinburgh on Fri, 13 Nov 2026.
+Hand-made is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at People's Leisure Club, Edinburgh on Fri, 13 Nov 2026.
 
 Hand-made is a house and disco artist, with 73 gigs on soundcheck across Amsterdam, Bangkok, Chongqing and Dublin and 3 more. Often billed alongside Boboxa, Sally Swan and Ann Tweak. Next up: People's Leisure Club, Edinburgh on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Hand-made is a house and disco artist, with 73 gigs on soundcheck across Amsterd
 
 Boboxa, Sally Swan, Ann Tweak
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hand-made/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hand-made/)*

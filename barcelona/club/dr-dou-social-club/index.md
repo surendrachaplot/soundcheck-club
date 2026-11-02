@@ -1,14 +1,13 @@
 # Dr. Dou Social Club
 
-Dr. Dou Social Club is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Sunday's Prescription - Groove Research" on Sun, 1 Nov 2026.
+Dr. Dou Social Club is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Tuesday's Prescription - Jùlio Marks" on Tue, 3 Nov 2026.
 
-Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including BECCA SORANA, Garnica and Groove Research. See dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
+Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including BECCA SORANA and Garnica. See dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Sunday's Prescription - Groove Research | Groove Research |
 | Tue, 3 Nov 2026 | Tuesday's Prescription - Jùlio Marks |  |
 | Wed, 4 Nov 2026 | Wednesday's Prescription - Guy Rome |  |
 | Thu, 5 Nov 2026 | Thursday's Prescription - BECCA SORANA | BECCA SORANA |
@@ -19,4 +18,4 @@ Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 6 upcomi
 
 Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain, Barcelona
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/dr-dou-social-club/)*

@@ -1,14 +1,13 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
+JOKESONYOU is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 6 Nov 2026.
 
-JOKESONYOU is a techno and trance artist based in Australia, with 76 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: Frankie’s, Vancouver on Sat 31 Oct.
+JOKESONYOU is a techno and trance artist based in Australia, with 76 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside 3LEEZA, Azyr and Mika Heggemann. Next up: The Comfort Zone, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Frankie’s | Vancouver |
 | Fri, 6 Nov 2026 | The Comfort Zone | Toronto |
 | Fri, 4 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 10 Apr 2027 | Lokschuppen Berlin | Berlin |
@@ -28,4 +27,4 @@ JOKESONYOU is a techno and trance artist based in Australia, with 76 gigs on sou
 
 3LEEZA, Azyr, Mika Heggemann
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

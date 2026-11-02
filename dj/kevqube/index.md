@@ -1,8 +1,8 @@
 # Kevqube
 
-Kevqube is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Palais Mascotte, Zurich on Sat, 7 Nov 2026.
+Kevqube is a Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Palais Mascotte, Zurich on Sat, 7 Nov 2026.
 
-Kevqube is a techno artist based in Switzerland, with 2 gigs on soundcheck across Bern and Zurich. Often billed alongside David Kawka, Dee Jota and Annina Frey. Next up: Palais Mascotte, Zurich on Sat 7 Nov.
+Kevqube is a techno artist based in Switzerland, with 3 gigs on soundcheck across Bern and Zurich. Often billed alongside David Kawka, Dee Jota and Annina Frey. Next up: Palais Mascotte, Zurich on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,9 +10,10 @@ Kevqube is a techno artist based in Switzerland, with 2 gigs on soundcheck acros
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Palais Mascotte | Zurich |
 | Sat, 21 Nov 2026 | Gaskessel Bern | Bern |
+| Fri, 4 Dec 2026 | TBA - Sous Soul | Bern |
 
 ## Shares bills with
 
 David Kawka, Dee Jota, Annina Frey
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevqube/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevqube/)*

@@ -1,6 +1,6 @@
 # Lerma
 
-Lerma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Biltmore Cabaret, Vancouver on Thu, 3 Dec 2026.
+Lerma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Biltmore Cabaret, Vancouver on Thu, 3 Dec 2026.
 
 Lerma is a techno and house artist based in Canada, with 28 gigs on soundcheck across Vancouver. Often billed alongside DJ dood, Max Ulis and INNEZZ. Next up: Biltmore Cabaret, Vancouver on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Lerma is a techno and house artist based in Canada, with 28 gigs on soundcheck a
 
 DJ dood, Max Ulis, INNEZZ
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lerma/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lerma/)*

@@ -1,6 +1,6 @@
 # Shpongle
 
-Shpongle is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Shpongle is a Psytrance and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
 Shpongle is a psytrance and trance artist, with 3 gigs on soundcheck across Morelos, Tokyo and Warsaw. Often billed alongside Act One, Alex Stein and Antix. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Shpongle is a psytrance and trance artist, with 3 gigs on soundcheck across More
 
 Act One, Alex Stein, Antix
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shpongle/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shpongle/)*

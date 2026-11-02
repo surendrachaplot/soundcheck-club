@@ -1,6 +1,6 @@
 # Anna Cainelli
 
-Anna Cainelli is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 7 Nov 2026.
+Anna Cainelli is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Sat, 7 Nov 2026.
 
 Anna Cainelli is a house and disco artist based in Germany, with 34 gigs on soundcheck across Berlin, Cologne, Copenhagen and Düsseldorf. Often billed alongside Savsannah, Sedaction and Nikity. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Anna Cainelli is a house and disco artist based in Germany, with 34 gigs on soun
 
 Savsannah, Sedaction, Nikity
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annacainelli/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annacainelli/)*

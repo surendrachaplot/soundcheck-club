@@ -1,6 +1,6 @@
 # De Gladde Paling
 
-De Gladde Paling is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
+De Gladde Paling is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
 
 De Gladde Paling is a jungle and drum & bass artist based in Netherlands, with 2 gigs on soundcheck across Bristol and Manchester. Often billed alongside Aerbreak, Badger (UK) and Bladerunner. Next up: Sawmills, Bristol on Thu 31 Dec.
 
@@ -18,4 +18,4 @@ De Gladde Paling is a jungle and drum & bass artist based in Netherlands, with 2
 
 Aerbreak, Badger (UK), Bladerunner
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/degladdepaling/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/degladdepaling/)*

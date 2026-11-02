@@ -1,6 +1,6 @@
 # Gunilla
 
-Gunilla is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Gallery22, Berlin on Fri, 13 Nov 2026.
+Gunilla is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Gallery22, Berlin on Fri, 13 Nov 2026.
 
 Gunilla is a techno and house artist based in Estonia, with 22 gigs on soundcheck across Berlin and Tallinn. Often billed alongside DJ Banba, HAND GIRLS BOY and JAMera. Next up: Gallery22, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Gunilla is a techno and house artist based in Estonia, with 22 gigs on soundchec
 
 DJ Banba, HAND GIRLS BOY, JAMera
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunilla/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunilla/)*

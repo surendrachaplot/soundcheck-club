@@ -1,6 +1,6 @@
 # Vinylgroover
 
-Vinylgroover is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Vinylgroover is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Vinylgroover is a house artist, with 3 gigs on soundcheck across Liverpool, Manchester and South East. Often billed alongside Slipmatt, Charlie B and DJ SS. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Vinylgroover is a house artist, with 3 gigs on soundcheck across Liverpool, Manc
 
 Slipmatt, Charlie B, DJ SS
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylgroover/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylgroover/)*

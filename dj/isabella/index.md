@@ -1,6 +1,6 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Bikini Club, Barcelona on Fri, 6 Nov 2026.
+ISAbella is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bikini Club, Barcelona on Fri, 6 Nov 2026.
 
 ISAbella is a house and techno artist based in Colombia, with 274 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 54 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Bikini Club, Barcelona on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ ISAbella is a house and techno artist based in Colombia, with 274 gigs on soundc
 
 Roza Terenzi, BASHKKA, Gabrielle Kwarteng
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella/)*

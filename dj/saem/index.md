@@ -1,6 +1,6 @@
 # Saem
 
-Saem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 13 Nov 2026.
+Saem is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 13 Nov 2026.
 
 Saem is a house and techno artist based in Germany, with 3 gigs on soundcheck across Leipzig and Vancouver. Often billed alongside Drommaro, SCHLAAKIII and Marc DePulse. Next up: Ilses Erika, Leipzig on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Saem is a house and techno artist based in Germany, with 3 gigs on soundcheck ac
 
 Drommaro, SCHLAAKIII, Marc DePulse
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saem/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saem/)*

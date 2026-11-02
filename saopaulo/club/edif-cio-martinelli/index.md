@@ -1,6 +1,6 @@
 # Edifício Martinelli
 
-Edifício Martinelli is a music venue in Sao Paulo with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Assembléia (Rio de Janeiro) & Linea Caliente (Argentina) no Edifício Martinelli! | 07.11" on Sat, 7 Nov 2026.
+Edifício Martinelli is a music venue in Sao Paulo with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Assembléia (Rio de Janeiro) & Linea Caliente (Argentina) no Edifício Martinelli! | 07.11" on Sat, 7 Nov 2026.
 
 Edifício Martinelli is a music venue in Sao Paulo listed on soundcheck. 4 upcoming gigs, with line-ups including From House to Disco, Gui Scott, Martha Pinel and Pabels and 2 more. See dates, start times and who's playing. R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100.
 
@@ -17,4 +17,4 @@ Edifício Martinelli is a music venue in Sao Paulo listed on soundcheck. 4 upcom
 
 R. São Bento, 405 - Centro Histórico de São Paulo, São Paulo - SP, 01011-100, Sao Paulo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/edif-cio-martinelli/)*

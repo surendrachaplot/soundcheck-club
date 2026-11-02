@@ -1,10 +1,10 @@
 # Gravity presents: Faithless (DJ set) - Vilnius at Renginiu Arena
 
-Gravity presents: Faithless (DJ set) - Vilnius at Renginiu Arena on Sat 28 Nov, Vilnius. 1 artist: Faithless. Progressive House and Trance. See the line-up on soundcheck.
+Gravity presents: Faithless (DJ set) - Vilnius at Renginiu Arena on Sat 20 Mar, Vilnius. 1 artist: Faithless. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 28 Nov 2026 |
+| Date | Sat, 20 Mar 2027 |
 | Venue | Renginiu Arena |
 | City | Vilnius |
 

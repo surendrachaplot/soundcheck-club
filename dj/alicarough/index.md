@@ -1,6 +1,6 @@
 # ALICA RØUGH
 
-ALICA RØUGH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sensorium, Berlin on Wed, 30 Dec 2026.
+ALICA RØUGH is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Wed, 30 Dec 2026.
 
 ALICA RØUGH is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside NYXEA, Karamustan and KunstTechnologe. Next up: Sensorium, Berlin on Wed 30 Dec.
 
@@ -19,4 +19,4 @@ ALICA RØUGH is a techno and trance artist based in Germany, with 3 gigs on soun
 
 NYXEA, Karamustan, KunstTechnologe
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicarough/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicarough/)*

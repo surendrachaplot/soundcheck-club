@@ -1,6 +1,6 @@
 # Goddollars
 
-Goddollars is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
+Goddollars is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Los Angeles on Fri, 13 Nov 2026.
 
 Goddollars is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, London, Los Angeles and New York City and 2 more. Often billed alongside nonsuit, likeholywine and Adam Kraft. Next up: TBA, Los Angeles on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Goddollars is a house and techno artist based in United States of America, with 
 
 nonsuit, likeholywine, Adam Kraft
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goddollars/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goddollars/)*

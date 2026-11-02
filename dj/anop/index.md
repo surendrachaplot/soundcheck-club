@@ -1,14 +1,15 @@
 # Anop
 
-Anop is a Trance and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Honey Street Studio, Manchester on Fri, 6 Nov 2026.
+Anop is a Trance and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Honey Street Studio, Manchester on Fri, 6 Nov 2026.
 
-Anop is a trance and club artist based in United Kingdom, with 45 gigs on soundcheck across Edinburgh, Leeds, London and Manchester. Often billed alongside Princess Elf Bar, ASHTYLR and Akamwave. Next up: Honey Street Studio, Manchester on Fri 6 Nov.
+Anop is a trance and club artist based in United Kingdom, with 46 gigs on soundcheck across Edinburgh, Leeds, London and Manchester. Often billed alongside Princess Elf Bar, ASHTYLR and Akamwave. Next up: Honey Street Studio, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Honey Street Studio | Manchester |
+| Fri, 4 Dec 2026 | Gorilla | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Anop is a trance and club artist based in United Kingdom, with 45 gigs on soundc
 
 Princess Elf Bar, ASHTYLR, Akamwave
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anop/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anop/)*

@@ -1,6 +1,6 @@
 # Dub Intentions
 
-Dub Intentions is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, London on Sat, 7 Nov 2026.
+Dub Intentions is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, London on Sat, 7 Nov 2026.
 
 Dub Intentions is a deep house and house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Charley, E. Alexander and HEAVEN-LEE. Next up: TBA, London on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ Dub Intentions is a deep house and house artist based in United Kingdom, with 2 
 
 Charley, E. Alexander, HEAVEN-LEE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubintentions/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubintentions/)*

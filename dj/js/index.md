@@ -1,6 +1,6 @@
 # JS
 
-JS is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 12 Dec 2026.
+JS is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 12 Dec 2026.
 
 JS is an electronica artist, with 6 gigs on soundcheck across Berlin, London, Montreal and New York City and 1 more. Often billed alongside 8ULENTINA, Carnao Beats and Elise Meidell. Next up: Starlane Pizza Bar, London on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ JS is an electronica artist, with 6 gigs on soundcheck across Berlin, London, Mo
 
 8ULENTINA, Carnao Beats, Elise Meidell
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/js/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/js/)*

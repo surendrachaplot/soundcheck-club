@@ -1,6 +1,6 @@
 # Federico Torres
 
-Federico Torres is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Noiiz Sound Archives, Medellin on Sun, 15 Nov 2026.
+Federico Torres is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Noiiz Sound Archives, Medellin on Sun, 15 Nov 2026.
 
 Federico Torres is a house and minimal artist based in Colombia, with 20 gigs on soundcheck across Berlin and Medellin. Often billed alongside Dantral, Cami España and Salvador Hören. Next up: Noiiz Sound Archives, Medellin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Federico Torres is a house and minimal artist based in Colombia, with 20 gigs on
 
 Dantral, Cami España, Salvador Hören
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicotorres/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/federicotorres/)*

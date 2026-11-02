@@ -1,6 +1,6 @@
 # Audrey Danza
 
-Audrey Danza is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+Audrey Danza is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
 
 Audrey Danza is a techno and trance artist based in Switzerland, with 205 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 44 more. Often billed alongside Kasper Marott, Anetha and Pablo Bozzi. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ Audrey Danza is a techno and trance artist based in Switzerland, with 205 gigs o
 
 Kasper Marott, Anetha, Pablo Bozzi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audreydanza/)*

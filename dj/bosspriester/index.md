@@ -1,6 +1,6 @@
 # Boss Priester
 
-Boss Priester is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at SWG3, Glasgow on Fri, 13 Nov 2026.
+Boss Priester is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at SWG3, Glasgow on Fri, 13 Nov 2026.
 
 Boss Priester is a house and tech house artist based in Netherlands, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Michel de Hey, Benny Rodrigues and Hidde van Wee. Next up: SWG3, Glasgow on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Boss Priester is a house and tech house artist based in Netherlands, with 114 gi
 
 Michel de Hey, Benny Rodrigues, Hidde van Wee
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bosspriester/)*

@@ -1,6 +1,6 @@
 # Gadutra
 
-Gadutra is a Baile Funk and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ormside Projects, London on Thu, 5 Nov 2026.
+Gadutra is a Baile Funk and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ormside Projects, London on Thu, 5 Nov 2026.
 
 Gadutra is a baile funk and electronica artist based in Brazil, with 58 gigs on soundcheck across Berlin, Hamburg, Lisbon and London and 3 more. Often billed alongside DJ LOUI FROM JUPITER4, XD Erica and Maque. Next up: Ormside Projects, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Gadutra is a baile funk and electronica artist based in Brazil, with 58 gigs on 
 
 DJ LOUI FROM JUPITER4, XD Erica, Maque
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gadutra/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gadutra/)*

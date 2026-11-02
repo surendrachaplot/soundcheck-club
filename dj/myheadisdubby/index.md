@@ -1,6 +1,6 @@
 # My Head Is Dubby
 
-My Head Is Dubby is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Protokultura, Wroclaw on Sat, 21 Nov 2026.
+My Head Is Dubby is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Protokultura, Wroclaw on Sat, 21 Nov 2026.
 
 My Head Is Dubby is a dubstep and techno artist based in Poland, with 4 gigs on soundcheck across Wroclaw. Often billed alongside Adiel, Alegria and Alley Cat. Next up: Protokultura, Wroclaw on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ My Head Is Dubby is a dubstep and techno artist based in Poland, with 4 gigs on 
 
 Adiel, Alegria, Alley Cat
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myheadisdubby/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myheadisdubby/)*

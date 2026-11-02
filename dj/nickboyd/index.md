@@ -1,18 +1,18 @@
 # Nick Boyd
 
-Nick Boyd is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 1 Nov 2026.
+Nick Boyd is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The New Hot Mass, Pittsburgh on Sat, 21 Nov 2026.
 
-Nick Boyd is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Boston, New York City and Pittsburgh. Often billed alongside MIRA MIRA, Devoye and EscaFlowne. Next up: Bossa Nova Civic Club, New York City on Sun 1 Nov.
+Nick Boyd is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Boston, New York City and Pittsburgh. Often billed alongside MIRA MIRA, Devoye and EscaFlowne. Next up: The New Hot Mass, Pittsburgh on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 21 Nov 2026 | The New Hot Mass | Pittsburgh |
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City · Sun, 1 Nov 2026
 - Paragon, New York City · Thu, 29 Oct 2026
 - Pianos, New York City · Tue, 20 Oct 2026
 - Honey's, New York City · Sat, 26 Sept 2026
@@ -20,10 +20,9 @@ Nick Boyd is a house and techno artist based in United States of America, with 5
 - Bossa Nova Civic Club, New York City · Sun, 5 Jul 2026
 - The Deep End, New York City · Thu, 14 May 2026
 - Bossa Nova Civic Club, New York City · Sun, 3 May 2026
-- Bossa Nova Civic Club, New York City · Sun, 1 Mar 2026
 
 ## Shares bills with
 
 MIRA MIRA, Devoye, EscaFlowne
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickboyd/)*

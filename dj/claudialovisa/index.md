@@ -1,6 +1,6 @@
 # Claudia Lovisa
 
-Claudia Lovisa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Mødular., Cape Town on Tue, 3 Nov 2026.
+Claudia Lovisa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Mødular., Cape Town on Tue, 3 Nov 2026.
 
 Claudia Lovisa is a house and techno artist based in Spain, with 5 gigs on soundcheck across Cape Town. Often billed alongside Michael Sutton, 2lani The Warrior and Anthea Scholtz. Next up: Mødular., Cape Town on Tue 3 Nov.
 
@@ -21,4 +21,4 @@ Claudia Lovisa is a house and techno artist based in Spain, with 5 gigs on sound
 
 Michael Sutton, 2lani The Warrior, Anthea Scholtz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudialovisa/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudialovisa/)*

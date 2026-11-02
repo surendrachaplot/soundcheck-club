@@ -1,6 +1,6 @@
 # Mirá Mirá
 
-Mirá Mirá is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Fünk, Mexico City on Sat, 28 Nov 2026.
+Mirá Mirá is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fünk, Mexico City on Sat, 28 Nov 2026.
 
 Mirá Mirá is a house and techno artist based in Mexico, with 40 gigs on soundcheck across Guadalajara, Houston, Medellin and Mexico City and 1 more. Often billed alongside Holder, Dixon and Josta. Next up: Fünk, Mexico City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mirá Mirá is a house and techno artist based in Mexico, with 40 gigs on soundc
 
 Holder, Dixon, Josta
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-m/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miramira-m/)*

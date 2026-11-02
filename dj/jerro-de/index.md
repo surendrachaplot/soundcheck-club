@@ -1,6 +1,6 @@
 # JERRO
 
-JERRO is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 6 Nov 2026.
+JERRO is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 6 Nov 2026.
 
 JERRO is a trance and techno artist based in Germany, with 3 gigs on soundcheck across Amsterdam, Berlin and Munich. Often billed alongside valera, DIGGADENZ and E.T.. Next up: Bahnwärter Thiel, Munich on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ JERRO is a trance and techno artist based in Germany, with 3 gigs on soundcheck 
 
 valera, DIGGADENZ, E.T.
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jerro-de/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jerro-de/)*

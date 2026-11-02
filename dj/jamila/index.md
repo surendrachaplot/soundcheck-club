@@ -1,13 +1,14 @@
 # Jamila
 
-Jamila is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri, 11 Dec 2026.
+Jamila is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cardinal Bar, Madison on Sat, 7 Nov 2026.
 
-Jamila is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Hamburg, Minneapolis/St Paul and New York City. Often billed alongside TECHNODOLL, Amy Pickett and Autokinetic. Next up: The Red Sea Ethiopian Restaurant, Minneapolis/St Paul on Fri 11 Dec.
+Jamila is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Hamburg, Madison, Minneapolis/St Paul and New York City. Often billed alongside TECHNODOLL, Amy Pickett and Autokinetic. Next up: Cardinal Bar, Madison on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Cardinal Bar | Madison |
 | Fri, 11 Dec 2026 | The Red Sea Ethiopian Restaurant | Minneapolis/St Paul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jamila is a techno and house artist based in United States of America, with 18 g
 
 TECHNODOLL, Amy Pickett, Autokinetic
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamila/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamila/)*

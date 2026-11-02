@@ -1,6 +1,6 @@
 # Hoxton Cabin
 
-Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Hoxton Cabal: Darren Roach, Big Nick D, Harriet Gray (Vinyl Only)" on Fri, 6 Nov 2026.
+Hoxton Cabin is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Hoxton Cabal: Darren Roach, Big Nick D, Harriet Gray (Vinyl Only)" on Fri, 6 Nov 2026.
 
 Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Benebe, Big Nick D, Cecilia Ena and Cristian Sirica and 2 more. See dates, start times and who's playing. 132 Kingsland Rd, London E2 8DP, United Kingdom.
 
@@ -18,4 +18,4 @@ Hoxton Cabin is a music venue in London listed on soundcheck. 5 upcoming gigs, w
 
 132 Kingsland Rd, London E2 8DP, United Kingdom, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hoxton-cabin/)*

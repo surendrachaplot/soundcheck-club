@@ -1,6 +1,6 @@
 # un:send 2027 at TBA - Djargurd Wurrong Country (Victoria, Australia)
 
-un:send 2027 at TBA - Djargurd Wurrong Country (Victoria, Australia) on Fri 26 Mar, Melbourne. 12 artists: Andy Martin, Billus, Deadbeat and DJ Fart in the Club and 8 more. See the line-up on soundcheck.
+un:send 2027 at TBA - Djargurd Wurrong Country (Victoria, Australia) on Fri 26 Mar, Melbourne. 25 artists: Aashofteh, Andy Martin, Aurora Halal and Billus and 21 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,17 +10,30 @@ un:send 2027 at TBA - Djargurd Wurrong Country (Victoria, Australia) on Fri 26 M
 
 ## Line-up
 
+- Aashofteh
 - Andy Martin
+- Aurora Halal
 - Billus
 - Deadbeat
 - DJ Fart in the Club
+- DJ Healthy
 - DJ Mum
 - DJ Plead
+- EMA (1)
+- Emelyne
+- Gillielove
 - JM Moser
 - Kasun (AU)
 - Konduku
+- livwutang
 - Louis Marlo
+- Marley Swain
+- Max Santilli
+- OK EG
+- Other Joe
+- Sleep D
 - Trae Bashford
 - Wingnut
+- Yikes
 
 *Source: [soundcheck](https://soundcheck.club/e/2517460-un-send-2027-at-tba-djargurd-wurrong-country-victoria-austra/)*

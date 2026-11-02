@@ -1,14 +1,13 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Ben UFO is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Karmakoma, Belgrade on Sat, 7 Nov 2026.
 
-Ben UFO is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 78 more. Often billed alongside Helena Hauff, Ogazón and Aurora Halal. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
+Ben UFO is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 78 more. Often billed alongside Helena Hauff, Ogazón and Aurora Halal. Next up: Karmakoma, Belgrade on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Sandy Beach Hotel & Resort | Dubai |
 | Sat, 7 Nov 2026 | Karmakoma | Belgrade |
 | Sat, 14 Nov 2026 | essaim | Paris |
 | Fri, 20 Nov 2026 | Mint XL | Leeds |
@@ -36,4 +35,4 @@ Ben UFO is a techno and house artist based in United Kingdom, with 263 gigs on s
 
 Helena Hauff, Ogazón, Aurora Halal
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

@@ -1,6 +1,6 @@
 # Martina Peneva
 
-Martina Peneva is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Parking Garage Kresna Uprising, Skopje on Sat, 14 Nov 2026.
+Martina Peneva is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Parking Garage Kresna Uprising, Skopje on Sat, 14 Nov 2026.
 
 Martina Peneva is an electronic artist, with 2 gigs on soundcheck across London and Skopje. Often billed alongside Asarri, David Löhlein and Deeda. Next up: TBA - Parking Garage Kresna Uprising, Skopje on Sat 14 Nov.
 
@@ -18,4 +18,4 @@ Martina Peneva is an electronic artist, with 2 gigs on soundcheck across London 
 
 Asarri, David Löhlein, Deeda
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinapeneva/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinapeneva/)*

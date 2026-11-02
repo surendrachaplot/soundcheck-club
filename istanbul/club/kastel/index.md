@@ -1,6 +1,6 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Kastel #WAREHOUSESERIES: Oliver Huntemann" on Sat, 7 Nov 2026.
+Kastel is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Kastel #WAREHOUSESERIES: Oliver Huntemann" on Sat, 7 Nov 2026.
 
 Kastel is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including Adana Twins, Dixon, Oliver Huntemann and People Like Us and 1 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
@@ -17,4 +17,4 @@ Kastel is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with 
 
 Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey, Istanbul
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/kastel/)*

@@ -1,6 +1,6 @@
 # Julie Marghilano
 
-Julie Marghilano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at smartbar, Chicago on Sun, 8 Nov 2026.
+Julie Marghilano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at smartbar, Chicago on Sun, 8 Nov 2026.
 
 Julie Marghilano is a house and techno artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 14 more. Often billed alongside Corrina, Alexkid and J. Richards. Next up: smartbar, Chicago on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Julie Marghilano is a house and techno artist based in Germany, with 70 gigs on 
 
 Corrina, Alexkid, J. Richards
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliemarghilano/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliemarghilano/)*

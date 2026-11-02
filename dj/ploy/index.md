@@ -1,14 +1,13 @@
 # Ploy
 
-Ploy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Ploy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 28 Nov 2026.
 
-Ploy is a techno and house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside Batu, Parris and Ayesha. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
+Ploy is a techno and house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 38 more. Often billed alongside Batu, Parris and Ayesha. Next up: Collingwood Children's Farm, Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Sat, 5 Dec 2026 | Abercrombie Hotel | Sydney |
 
@@ -27,4 +26,4 @@ Ploy is a techno and house artist based in United Kingdom, with 135 gigs on soun
 
 Batu, Parris, Ayesha
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ploy/)*

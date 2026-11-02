@@ -1,6 +1,6 @@
 # Hootananny Brixton
 
-Hootananny Brixton is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Congo Natty: The Rebel On the Road" on Fri, 6 Nov 2026.
+Hootananny Brixton is a music venue in London with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Congo Natty: The Rebel On the Road" on Fri, 6 Nov 2026.
 
 Hootananny Brixton is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Boxer, Clodagh, Congo Natty and DJ Brockie and 2 more. See dates, start times and who's playing. 95 Effra Road, Brixton, London, SW2 1DF.
 
@@ -18,4 +18,4 @@ Hootananny Brixton is a music venue in London listed on soundcheck. 5 upcoming g
 
 95 Effra Road, Brixton, London, SW2 1DF, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/hootananny-brixton/)*

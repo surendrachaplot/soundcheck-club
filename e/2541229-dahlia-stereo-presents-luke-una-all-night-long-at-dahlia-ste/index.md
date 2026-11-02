@@ -1,6 +1,6 @@
 # DAHLIA STEREO presents Luke Una (All night long) at Dahlia Stereo
 
-DAHLIA STEREO presents Luke Una (All night long) at Dahlia Stereo on Mon 28 Dec, Manchester. 1 artist: Luke Una. Balearic and Disco. See the line-up on soundcheck.
+DAHLIA STEREO presents Luke Una (All night long) at Dahlia Stereo on Mon 28 Dec, Manchester. 1 artist: Luke Una. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

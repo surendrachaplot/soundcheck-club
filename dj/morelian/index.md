@@ -1,14 +1,13 @@
 # Mor Elian
 
-Mor Elian is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA -  A THRILLING TRANSCENDENTAL Secret Location !!! , Philadelphia on Sat, 31 Oct 2026.
+Mor Elian is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 14 Nov 2026.
 
-Mor Elian is a techno and bass artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: TBA -  A THRILLING TRANSCENDENTAL Secret Location !!! , Philadelphia on Sat 31 Oct.
+Mor Elian is a techno and bass artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 37 more. Often billed alongside Rhyw, Pariah and Marie Montexier. Next up: RSO.BERLIN, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA -  A THRILLING TRANSCENDENTAL Secret Location !!!  | Philadelphia |
 | Sat, 14 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 28 Nov 2026 | Cadavra | Madrid |
 
@@ -27,4 +26,4 @@ Mor Elian is a techno and bass artist based in United States of America, with 13
 
 Rhyw, Pariah, Marie Montexier
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morelian/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morelian/)*

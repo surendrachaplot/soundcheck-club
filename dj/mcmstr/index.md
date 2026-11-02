@@ -1,6 +1,6 @@
 # McMSTR
 
-McMSTR is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 14 Nov 2026.
+McMSTR is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 14 Nov 2026.
 
 McMSTR is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Dundee, Glasgow and Ibiza. Often billed alongside Robbie, EVA. and acrosstheboard. Next up: The Marlborough Red Room, Glasgow on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ McMSTR is a house and tech house artist based in United Kingdom, with 28 gigs on
 
 Robbie, EVA., acrosstheboard
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmstr/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcmstr/)*

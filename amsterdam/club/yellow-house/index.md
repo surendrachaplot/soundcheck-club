@@ -1,6 +1,6 @@
 # Yellow House
 
-Yellow House is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Micky Hurts: Fire Burning Release party" on Fri, 6 Nov 2026.
+Yellow House is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Micky Hurts: Fire Burning Release party" on Fri, 6 Nov 2026.
 
 Yellow House is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including ANNASNEL, AUTOFLOWER, Becking and Cleo Grooves and 2 more. See dates, start times and who's playing. 1013AM Amsterdam, Danzigerbocht 45-R.
 
@@ -19,4 +19,4 @@ Yellow House is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs
 
 1013AM Amsterdam, Danzigerbocht 45-R, Amsterdam
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/yellow-house/)*

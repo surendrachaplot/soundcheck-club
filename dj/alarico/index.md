@@ -1,14 +1,13 @@
 # Alarico
 
-Alarico is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Alarico is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Gare Porto, Porto on Fri, 6 Nov 2026.
 
-Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 89 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Factory Town, Miami on Fri 30 Oct.
+Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 89 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Gare Porto, Porto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Gare Porto | Porto |
 | Sat, 7 Nov 2026 | The Bassement | Madrid |
 | Sat, 14 Nov 2026 | Magasins Généraux | Paris |
@@ -20,6 +19,7 @@ Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck
 | Fri, 4 Dec 2026 | Crackhouse | Gdansk |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | Drugstore Beograd | Belgrade |
+| Sat, 19 Dec 2026 | SMUT Athens | Athens |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

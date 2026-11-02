@@ -1,6 +1,6 @@
 # truuufaith
 
-truuufaith is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
+truuufaith is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
 
 truuufaith is a house and club artist based in Germany, with 4 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Roko, Anne Karmané and Balouv. Next up: Bulbul Berlin, Berlin on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ truuufaith is a house and club artist based in Germany, with 4 gigs on soundchec
 
 Roko (2), Anne Karmané, Balouv
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truuufaith/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truuufaith/)*

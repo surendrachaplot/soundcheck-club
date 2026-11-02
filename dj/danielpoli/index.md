@@ -1,6 +1,6 @@
 # Daniel Poli
 
-Daniel Poli is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 7 Nov 2026.
+Daniel Poli is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 7 Nov 2026.
 
 Daniel Poli is a tech house and deep house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside 3 Minds, HEAVEN-LEE and Jake Hodgkinson. Next up: Starlane Pizza Bar, London on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ Daniel Poli is a tech house and deep house artist based in United Kingdom, with 
 
 3 Minds, HEAVEN-LEE, Jake Hodgkinson
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpoli/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielpoli/)*

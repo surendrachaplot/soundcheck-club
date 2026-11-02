@@ -1,6 +1,6 @@
 # Dr G
 
-Dr G is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Le Sucre, Lyon on Sun, 22 Nov 2026.
+Dr G is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Le Sucre, Lyon on Sun, 22 Nov 2026.
 
 Dr G is a techno artist, with 2 gigs on soundcheck across Lyon and Manchester. Often billed alongside Bad Boombox. Next up: Le Sucre, Lyon on Sun 22 Nov.
 
@@ -18,4 +18,4 @@ Dr G is a techno artist, with 2 gigs on soundcheck across Lyon and Manchester. O
 
 Bad Boombox
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drg/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drg/)*

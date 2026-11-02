@@ -1,14 +1,13 @@
 # Dogenzaka Church
 
-Dogenzaka Church is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ReIncarnation" on Sun, 1 Nov 2026.
+Dogenzaka Church is a music venue in Tokyo with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "MY GENERATION" on Mon, 2 Nov 2026.
 
-Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including Hironobu Jyounai, Mary-chan, Philo and vinylDJ Eiji Takehana and 2 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
+Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 9 upcoming gigs, with line-ups including Hironobu Jyounai, Philo, vinylDJ Eiji Takehana and vivi and 1 more. See dates, start times and who's playing. Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | ReIncarnation | Mary-chan |
 | Mon, 2 Nov 2026 | MY GENERATION |  |
 | Thu, 5 Nov 2026 | 魔神魂教会 |  |
 | Fri, 6 Nov 2026 | BASS CATHEDRAL – DRUM'N'BASS SHIBUYA | Hironobu Jyounai, vinylDJ Eiji Takehana |
@@ -23,4 +22,4 @@ Dogenzaka Church is a music venue in Tokyo listed on soundcheck. 10 upcoming gig
 
 Japan, 〒150-0043 Tokyo, Shibuya City, Dogenzaka, 2 Chome−16−5, Central Kyoritsu Building, 1階, Tokyo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dogenzaka-church/)*

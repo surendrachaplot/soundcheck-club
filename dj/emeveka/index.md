@@ -1,8 +1,8 @@
 # Emeveka
 
-Emeveka is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Distillery, Leipzig on Fri, 13 Nov 2026.
+Emeveka is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Distillery, Leipzig on Fri, 13 Nov 2026.
 
-Emeveka is a techno and progressive house artist, with 25 gigs on soundcheck across Berlin, Leipzig and Vienna. Often billed alongside Skoria, Fede Frostl and Moto Moto. Next up: Distillery, Leipzig on Fri 13 Nov.
+Emeveka is a techno and progressive house artist based in Argentina, with 25 gigs on soundcheck across Berlin, Leipzig and Vienna. Often billed alongside Skoria, Fede Frostl and Moto Moto. Next up: Distillery, Leipzig on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Emeveka is a techno and progressive house artist, with 25 gigs on soundcheck acr
 
 Skoria, Fede Frostl, Moto Moto
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emeveka/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emeveka/)*

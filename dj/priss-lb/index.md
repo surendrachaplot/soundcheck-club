@@ -1,6 +1,6 @@
 # Priss
 
-Priss is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Priss is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Priss is a house and jazz artist based in Lebanon, with 3 gigs on soundcheck across Dubai, Tanzania and Tokyo. Often billed alongside Agha, Andrey Pushkarev and Baloo (SA). Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -19,4 +19,4 @@ Priss is a house and jazz artist based in Lebanon, with 3 gigs on soundcheck acr
 
 Agha, Andrey Pushkarev, Baloo (SA)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priss-lb/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priss-lb/)*

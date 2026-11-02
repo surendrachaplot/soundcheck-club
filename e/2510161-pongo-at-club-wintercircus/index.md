@@ -1,10 +1,10 @@
 # Pongo at Club Wintercircus
 
-Pongo at Club Wintercircus on Tue 1 Dec, Ghent. 1 artist: Pongo. See the line-up on soundcheck.
+Pongo at Club Wintercircus on Fri 10 Sept, Ghent. 1 artist: Pongo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 1 Dec 2026 |
+| Date | Fri, 10 Sept 2027 |
 | Venue | Club Wintercircus |
 | City | Ghent |
 

@@ -1,8 +1,8 @@
 # Cherry Knot
 
-Cherry Knot is a Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 5 Nov 2026.
+Cherry Knot is a Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 5 Nov 2026.
 
-Cherry Knot is a baile funk artist, with 10 gigs on soundcheck across Lisbon. Often billed alongside Gonçalo Afonso, Banu and Circa Papi. Next up: Lux Fragil, Lisbon on Thu 5 Nov.
+Cherry Knot is a baile funk artist based in Portugal, with 10 gigs on soundcheck across Lisbon. Often billed alongside Gonçalo Afonso, Banu and Circa Papi. Next up: Lux Fragil, Lisbon on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cherry Knot is a baile funk artist, with 10 gigs on soundcheck across Lisbon. Of
 
 Gonçalo Afonso, Banu, Circa Papi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherryknot/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cherryknot/)*

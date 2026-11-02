@@ -1,15 +1,13 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
+Philippa Pacho is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at FOLD, London on Fri, 6 Nov 2026.
 
-Philippa Pacho is a techno and house artist based in Sweden, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 82 more. Often billed alongside Blue Hour, Fadi Mohem and Rene Wise. Next up: Nowadays, New York City on Fri 30 Oct.
+Philippa Pacho is a techno and house artist based in Sweden, with 272 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 82 more. Often billed alongside Blue Hour, Fadi Mohem and Rene Wise. Next up: FOLD, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Nowadays | New York City |
-| Sun, 1 Nov 2026 | TBA - 6750 Esplanade (through the alley) | Montreal |
 | Fri, 6 Nov 2026 | FOLD | London |
 | Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Poolen | Copenhagen |
@@ -23,6 +21,7 @@ Philippa Pacho is a techno and house artist based in Sweden, with 272 gigs on so
 
 ## Recently played
 
+- TBA - 6750 Esplanade (through the alley), Montreal · Sun, 1 Nov 2026
 - Nowadays, New York City · Fri, 30 Oct 2026
 - Smoke & Mirrors, Chicago · Fri, 30 Oct 2026
 - AUX Club, Athens · Tue, 27 Oct 2026
@@ -30,10 +29,9 @@ Philippa Pacho is a techno and house artist based in Sweden, with 272 gigs on so
 - Sugarfactory, Amsterdam · Fri, 23 Oct 2026
 - Razzmatazz, Barcelona · Sun, 11 Oct 2026
 - Liquid Club, Malta · Sat, 10 Oct 2026
-- Fuse, Brussels · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Blue Hour, Fadi Mohem, Rene Wise
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippapacho/)*

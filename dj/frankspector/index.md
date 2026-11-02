@@ -1,6 +1,6 @@
 # Frank Spector
 
-Frank Spector is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Egg London, London on Sat, 16 Jan 2027.
+Frank Spector is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Egg London, London on Sat, 16 Jan 2027.
 
 Frank Spector is a trance and techno artist based in France, with 2 gigs on soundcheck across London and Tokyo. Often billed alongside AY, Aidyscape and Andrew Sharpe. Next up: Egg London, London on Sat 16 Jan.
 
@@ -18,4 +18,4 @@ Frank Spector is a trance and techno artist based in France, with 2 gigs on soun
 
 AY (10), Aidyscape, Andrew Sharpe
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankspector/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankspector/)*

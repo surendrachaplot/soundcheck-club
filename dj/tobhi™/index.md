@@ -1,6 +1,6 @@
 # TOBHI™
 
-TOBHI™ is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Pamela Club, Paris on Fri, 6 Nov 2026.
+TOBHI™ is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pamela Club, Paris on Fri, 6 Nov 2026.
 
 TOBHI™ is an electronic artist based in France, with 4 gigs on soundcheck across Paris. Often billed alongside Angelita, Toma Kami and Jasper James. Next up: Pamela Club, Paris on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ TOBHI™ is an electronic artist based in France, with 4 gigs on soundcheck acro
 
 Angelita, Toma Kami, Jasper James
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobhi™/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobhi™/)*

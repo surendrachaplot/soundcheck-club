@@ -1,14 +1,13 @@
 # FENIM0RE
 
-FENIM0RE is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 31 Oct 2026.
+FENIM0RE is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Schrotty, Cologne on Wed, 11 Nov 2026.
 
-FENIM0RE is a techno and trance artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bergen and 32 more. Often billed alongside future.666, ÜBERKIKZ and DJ Hyperdrive. Next up: RSO.BERLIN, Berlin on Sat 31 Oct.
+FENIM0RE is a techno and trance artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bergen and 32 more. Often billed alongside future.666, ÜBERKIKZ and DJ Hyperdrive. Next up: Schrotty, Cologne on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | RSO.BERLIN | Berlin |
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
 | Sat, 28 Nov 2026 | Das Zimmer | Mannheim |
 | Fri, 11 Dec 2026 | Gate Milano | Milan |
@@ -31,4 +30,4 @@ FENIM0RE is a techno and trance artist based in Germany, with 72 gigs on soundch
 
 future.666, ÜBERKIKZ, DJ Hyperdrive
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fenim0re/)*

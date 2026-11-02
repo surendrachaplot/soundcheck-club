@@ -1,6 +1,6 @@
 # Resume Valencia
 
-Resume Valencia is a music venue in Valencia with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "CABALLERI & IKO" on Fri, 6 Nov 2026.
+Resume Valencia is a music venue in Valencia with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "CABALLERI & IKO" on Fri, 6 Nov 2026.
 
 Resume Valencia is a music venue in Valencia listed on soundcheck. 15 upcoming gigs, with line-ups including Andu Simion, Boranimals, Brieela and Elena Megi and 2 more. See dates, start times and who's playing. Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia.
 
@@ -23,4 +23,4 @@ Resume Valencia is a music venue in Valencia listed on soundcheck. 15 upcoming g
 
 Carrer del Mestre Josep Serrano, 8, L'Eixample, 46005 València, Valencia, Valencia
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/resume-valencia/)*

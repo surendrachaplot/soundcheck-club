@@ -40,7 +40,7 @@ Pitch Music & Arts 2027 (SOLD OUT) at Moyston on Fri 5 Mar, Melbourne. 61 artist
 - HAAi
 - Hiroko Yamamura
 - Ignez
-- Jazz (AU)
+- JAZZ (2)
 - Jenny Cara
 - Jo Christy
 - Julie Desire

@@ -1,14 +1,13 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Sora Tobu Jyuu Tan" on Sun, 1 Nov 2026.
+ZUBAR is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "flavor" on Mon, 2 Nov 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including cirra, Futa, Kazu and Ken Sugai and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including cirra, Futa, Kazu and Ken Sugai and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Sora Tobu Jyuu Tan | Maco |
 | Mon, 2 Nov 2026 | flavor | rYo |
 | Fri, 6 Nov 2026 | SHINE | Kazu |
 | Sat, 7 Nov 2026 | DUB RESONANCE | Ken Sugai, Oshi, Risa |
@@ -18,9 +17,10 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with lin
 | Fri, 13 Nov 2026 | るみchan Night | Mars (FR) |
 | Sat, 14 Nov 2026 | NEIGHBORS | Mars (FR) |
 | Sun, 15 Nov 2026 | DROWSY | Futa, Makoto, TOSHIHISA HIRANO |
+| Sun, 15 Nov 2026 | Lounge Heaven |  |
 
 ## Address
 
 ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021, Tokyo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/zubar/)*

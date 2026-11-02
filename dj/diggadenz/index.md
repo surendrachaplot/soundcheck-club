@@ -1,6 +1,6 @@
 # DIGGADENZ
 
-DIGGADENZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 6 Nov 2026.
+DIGGADENZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 6 Nov 2026.
 
 DIGGADENZ is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin and Munich. Often billed alongside JERRO, e.leptic and valera. Next up: Bahnwärter Thiel, Munich on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ DIGGADENZ is a techno and trance artist based in Germany, with 3 gigs on soundch
 
 JERRO, e.leptic, valera
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diggadenz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diggadenz/)*

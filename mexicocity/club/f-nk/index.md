@@ -1,14 +1,13 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Aniversario Discos Movimiento & Morevi Records" on Sat, 31 Oct 2026.
+Fünk is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Despapaye x Fünk" on Thu, 5 Nov 2026.
 
-Fünk is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, with line-ups including Boyá, Dr. Long, Duke Skylocker (Disco Dust) and Eduardo Ferreyra and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
+Fünk is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Duke Skylocker (Disco Dust), Eduardo Ferreyra, Giammarco Orsini and Giu Nunez and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Aniversario Discos Movimiento & Morevi Records | Boyá, Dr. Long, Fadi Mohem, Givi Gelashvili, MNTY |
 | Thu, 5 Nov 2026 | Despapaye x Fünk | NUUP, YUGEEN |
 | Fri, 6 Nov 2026 | tINI & THE GANG x Fünk | Giammarco Orsini, tINI |
 | Sat, 7 Nov 2026 | Mutek Mx x Fünk: Secret Mutek Guest + Maayan Nidam + Phanta | Maayan Nidam, Phanta |
@@ -22,4 +21,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 9 upcoming gigs, wit
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

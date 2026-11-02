@@ -1,6 +1,6 @@
 # Brady
 
-Brady is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Weetamix, Geneva on Fri, 18 Dec 2026.
+Brady is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Weetamix, Geneva on Fri, 18 Dec 2026.
 
 Brady is a techno and industrial artist based in Switzerland, with 3 gigs on soundcheck across Geneva. Often billed alongside Sad Paco, Christelle Angela and ALIASLOH. Next up: Weetamix, Geneva on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Brady is a techno and industrial artist based in Switzerland, with 3 gigs on sou
 
 Sad Paco, Christelle Angela, ALIASLOH
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brady/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brady/)*

@@ -1,6 +1,6 @@
 # Jubilee
 
-Jubilee is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at BAR Inc, Osaka on Sun, 15 Nov 2026.
+Jubilee is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at BAR Inc, Osaka on Sun, 15 Nov 2026.
 
 Jubilee is a house and techno artist based in United States of America, with 160 gigs on soundcheck across Berlin, Bristol, Chicago and Copenhagen and 19 more. Often billed alongside NIGELTHREETIMES, Eli Escobar and Berrakka. Next up: BAR Inc, Osaka on Sun 15 Nov.
 
@@ -27,4 +27,4 @@ Jubilee is a house and techno artist based in United States of America, with 160
 
 NIGELTHREETIMES, Eli Escobar, Berrakka
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jubilee/)*

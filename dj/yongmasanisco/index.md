@@ -1,6 +1,6 @@
 # Yongmasan Isco
 
-Yongmasan Isco is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+Yongmasan Isco is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
 Yongmasan Isco is an electronic artist based in South Korea, with 4 gigs on soundcheck across Seoul. Often billed alongside .2ndfloor, BYUNGHO and DJ Soulscape. Next up: Modeci, Seoul on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Yongmasan Isco is an electronic artist based in South Korea, with 4 gigs on soun
 
 .2ndfloor, BYUNGHO, DJ Soulscape
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yongmasanisco/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yongmasanisco/)*

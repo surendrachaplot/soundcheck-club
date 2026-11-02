@@ -1,8 +1,8 @@
 # FennX
 
-FennX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 6 Nov 2026.
+FennX is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 6 Nov 2026.
 
-FennX is a techno and industrial artist, with 17 gigs on soundcheck across Antwerp, Berlin, Dublin and Geneva and 8 more. Often billed alongside 333CXT, Józef Keuner and VRAXX. Next up: Entrepôts Dominion, Les, Montreal on Fri 6 Nov.
+FennX is a techno and industrial artist based in France, with 17 gigs on soundcheck across Antwerp, Berlin, Dublin and Geneva and 8 more. Often billed alongside 333CXT, Józef Keuner and VRAXX. Next up: Entrepôts Dominion, Les, Montreal on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ FennX is a techno and industrial artist, with 17 gigs on soundcheck across Antwe
 
 333CXT, Józef Keuner, VRAXX
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fennx/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fennx/)*

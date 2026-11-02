@@ -1,6 +1,6 @@
 # Gideon Jackson
 
-Gideon Jackson is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Hoppetosse, Berlin on Sat, 21 Nov 2026.
+Gideon Jackson is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hoppetosse, Berlin on Sat, 21 Nov 2026.
 
 Gideon Jackson is a techno and tech house artist based in United Kingdom, with 2 gigs on soundcheck across Berlin and Sheffield. Often billed alongside Aaron Dynamic, Freddie Grisbi and Jay Carder. Next up: Hoppetosse, Berlin on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Gideon Jackson is a techno and tech house artist based in United Kingdom, with 2
 
 Aaron Dynamic, Freddie Grisbi, Jay Carder
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gideonjackson/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gideonjackson/)*

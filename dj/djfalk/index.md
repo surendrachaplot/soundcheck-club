@@ -1,6 +1,6 @@
 # DJ Falk
 
-DJ Falk is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bootshaus, Cologne on Sat, 14 Nov 2026.
+DJ Falk is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bootshaus, Cologne on Sat, 14 Nov 2026.
 
 DJ Falk is an electronic artist, with 2 gigs on soundcheck across Berlin and Cologne. Often billed alongside 6EJOU, A.N.I. and AKA AKA. Next up: Bootshaus, Cologne on Sat 14 Nov.
 
@@ -18,4 +18,4 @@ DJ Falk is an electronic artist, with 2 gigs on soundcheck across Berlin and Col
 
 6EJOU, A.N.I., AKA AKA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfalk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfalk/)*

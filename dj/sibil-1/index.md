@@ -1,14 +1,13 @@
 # Sibil (1)
 
-Sibil (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Sibil (1) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Signal, New York City on Fri, 6 Nov 2026.
 
-Sibil is a house and techno artist based in France, with 138 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: H0L0, New York City on Sat 31 Oct.
+Sibil is a house and techno artist based in France, with 138 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside Mayell, Tau Car and O.BEE. Next up: Signal, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | H0L0 | New York City |
 | Fri, 6 Nov 2026 | Signal | New York City |
 | Sat, 28 Nov 2026 | Gaffe | London |
 
@@ -27,4 +26,4 @@ Sibil is a house and techno artist based in France, with 138 gigs on soundcheck 
 
 Mayell, Tau Car, O.BEE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibil-1/)*

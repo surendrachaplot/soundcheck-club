@@ -1,6 +1,6 @@
 # Lazzaro
 
-Lazzaro is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Balthyscaphe, Brussels on Thu, 12 Nov 2026.
+Lazzaro is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Balthyscaphe, Brussels on Thu, 12 Nov 2026.
 
 Lazzaro is a noise and experimental artist based in United States of America, with 3 gigs on soundcheck across Antwerp, Brussels and Vienna. Often billed alongside Dor Ian, Qow and Shifty. Next up: Balthyscaphe, Brussels on Thu 12 Nov.
 
@@ -19,4 +19,4 @@ Lazzaro is a noise and experimental artist based in United States of America, wi
 
 Dor Ian, Qow, Shifty
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lazzaro/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lazzaro/)*

@@ -1,6 +1,6 @@
 # Nelly (NL)
 
-Nelly (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
+Nelly (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
 
 Nelly (NL) is a techno and house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 17 more. Often billed alongside Spekki Webu, Oceanic and Woody92. Next up: export, Rotterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nelly (NL) is a techno and house artist based in Netherlands, with 91 gigs on so
 
 Spekki Webu, Oceanic, Woody92
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly-nl/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nelly-nl/)*

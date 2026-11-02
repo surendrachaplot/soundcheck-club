@@ -1,6 +1,6 @@
 # Slim J (2)
 
-Slim J (2) is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sat, 12 Dec 2026.
+Slim J (2) is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sat, 12 Dec 2026.
 
 Slim J is a tech house and deep house artist based in Canada, with 4 gigs on soundcheck across Vancouver. Often billed alongside DJ dood, AVRY and Beiti. Next up: Biltmore Cabaret, Vancouver on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Slim J is a tech house and deep house artist based in Canada, with 4 gigs on sou
 
 DJ dood, AVRY, Beiti
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimj-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimj-2/)*

@@ -1,6 +1,6 @@
 # Rodrigo Gallardo
 
-Rodrigo Gallardo is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Howler, Melbourne on Sun, 15 Nov 2026.
+Rodrigo Gallardo is a Minimal Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Howler, Melbourne on Sun, 15 Nov 2026.
 
 Rodrigo Gallardo is a minimal techno and house artist based in Chile, with 7 gigs on soundcheck across Barcelona, Melbourne, Mexico City and Montreal and 3 more. Often billed alongside Barac, Joplyn and Nico Stojan. Next up: Howler, Melbourne on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Rodrigo Gallardo is a minimal techno and house artist based in Chile, with 7 gig
 
 Barac, Joplyn, Nico Stojan
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigogallardo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigogallardo/)*

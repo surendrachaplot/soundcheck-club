@@ -1,8 +1,8 @@
 # Dan Jakson
 
-Dan Jakson is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Mash House, Edinburgh on Thu, 19 Nov 2026.
+Dan Jakson is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Mash House, Edinburgh on Thu, 19 Nov 2026.
 
-Dan Jakson is a techno and experimental artist, with 8 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside SINN3R, ROXAN (UK) and Rònan White. Next up: The Mash House, Edinburgh on Thu 19 Nov.
+Dan Jakson is a techno and experimental artist based in United Kingdom, with 8 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside SINN3R, ROXAN (UK) and Rònan White. Next up: The Mash House, Edinburgh on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Dan Jakson is a techno and experimental artist, with 8 gigs on soundcheck across
 
 SINN3R, ROXAN (UK), Rònan White
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danjakson/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danjakson/)*

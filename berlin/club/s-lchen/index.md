@@ -1,6 +1,6 @@
 # Säälchen
 
-Säälchen is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Kelsey Lu" on Thu, 12 Nov 2026.
+Säälchen is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Kelsey Lu" on Thu, 12 Nov 2026.
 
 Säälchen is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Miss Bashful. See dates, start times and who's playing. Holzmarktstraße 25, 10243 Berlin.
 
@@ -16,4 +16,4 @@ Säälchen is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Holzmarktstraße 25, 10243 Berlin, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-lchen/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-lchen/)*

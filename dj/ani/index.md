@@ -1,14 +1,13 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Afrobar, Sicily on Sat, 31 Oct 2026.
+A.N.I. is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
-A.N.I. is a techno and trance artist based in Germany, with 223 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 50 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Afrobar, Sicily on Sat 31 Oct.
+A.N.I. is a techno and trance artist based in Germany, with 223 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 50 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Afrobar | Sicily |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 14 Nov 2026 | Edelfettwerk | Hamburg |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
@@ -20,6 +19,7 @@ A.N.I. is a techno and trance artist based in Germany, with 223 gigs on soundche
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 | Fri, 22 Jan 2027 | TBA | Berlin |
+| Fri, 22 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ A.N.I. is a techno and trance artist based in Germany, with 223 gigs on soundche
 
 SaltySis, DJ Jordan, IGDA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ani/)*

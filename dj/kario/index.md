@@ -1,6 +1,6 @@
 # KARI (Ø)
 
-KARI (Ø) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ciało, Wroclaw on Fri, 6 Nov 2026.
+KARI (Ø) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ciało, Wroclaw on Fri, 6 Nov 2026.
 
 KARI (Ø) is a techno and tech house artist based in Italy, with 6 gigs on soundcheck across Barcelona and Wroclaw. Often billed alongside BRU ON, NEONKOLA and Dave Clarke. Next up: Ciało, Wroclaw on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ KARI (Ø) is a techno and tech house artist based in Italy, with 6 gigs on sound
 
 BRU ON, NEONKOLA, Dave Clarke
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kario/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kario/)*

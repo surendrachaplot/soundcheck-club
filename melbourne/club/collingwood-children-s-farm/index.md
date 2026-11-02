@@ -1,6 +1,6 @@
 # Collingwood Children's Farm
 
-Collingwood Children's Farm is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "10 Years of Lucid with Animalia & WAT Artists" on Sat, 28 Nov 2026.
+Collingwood Children's Farm is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "10 Years of Lucid with Animalia & WAT Artists" on Sat, 28 Nov 2026.
 
 Collingwood Children's Farm is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including AceMo, BASHKKA, Birdsnake and Blue Communications and 2 more. See dates, start times and who's playing. 18 St Heliers St, Abbotsford.
 
@@ -16,4 +16,4 @@ Collingwood Children's Farm is a music venue in Melbourne listed on soundcheck. 
 
 18 St Heliers St, Abbotsford, Melbourne
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-children-s-farm/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/collingwood-children-s-farm/)*

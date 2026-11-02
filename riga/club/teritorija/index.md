@@ -1,6 +1,6 @@
 # Teritorija
 
-Teritorija is a music venue in Riga with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Cosmo Rave: Gravity" on Fri, 13 Nov 2026.
+Teritorija is a music venue in Riga with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Cosmo Rave: Gravity" on Fri, 13 Nov 2026.
 
 Teritorija is a music venue in Riga listed on soundcheck. 5 upcoming gigs, with line-ups including ANASI, Existal, Kelvin and KOLE AUDRO and 2 more. See dates, start times and who's playing. Krišjāņa Barona Street 136, Riga.
 
@@ -18,4 +18,4 @@ Teritorija is a music venue in Riga listed on soundcheck. 5 upcoming gigs, with 
 
 Krišjāņa Barona Street 136, Riga, Riga
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/teritorija/)*

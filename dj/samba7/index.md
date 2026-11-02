@@ -1,8 +1,8 @@
 # SAMBA7
 
-SAMBA7 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
+SAMBA7 is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
 
-SAMBA7 is a trance and techno artist based in Germany, with 11 gigs on soundcheck across Leipzig. Often billed alongside VLUNA, Meyhartt and Scrappy Coco. Next up: Ilses Erika, Leipzig on Fri 6 Nov.
+SAMBA7 is a trance and techno artist based in Germany, with 11 gigs on soundcheck across Leipzig. Often billed alongside VLUNA, Meyhartt and Raphus. Next up: Ilses Erika, Leipzig on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ SAMBA7 is a trance and techno artist based in Germany, with 11 gigs on soundchec
 
 ## Shares bills with
 
-VLUNA, Meyhartt, Scrappy Coco
+VLUNA, Meyhartt, Raphus
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samba7/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samba7/)*

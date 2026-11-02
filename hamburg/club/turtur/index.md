@@ -1,6 +1,6 @@
 # Turtur
 
-Turtur is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Canicule Musique Release Party" on Fri, 13 Nov 2026.
+Turtur is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Canicule Musique Release Party" on Fri, 13 Nov 2026.
 
 Turtur is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Atomlui, Audio Werner, Bouncing Mirrors and Dino S and 2 more. See dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
 
@@ -15,4 +15,4 @@ Turtur is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with l
 
 Am Veringhof 13, 21107, Hamburg, Germany, Hamburg
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*

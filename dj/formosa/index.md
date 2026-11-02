@@ -1,6 +1,6 @@
 # Formosa
 
-Formosa is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Collapse, Pittsburgh on Fri, 6 Nov 2026.
+Formosa is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Collapse, Pittsburgh on Fri, 6 Nov 2026.
 
 Formosa is a techno and italo disco artist based in United States of America, with 5 gigs on soundcheck across New York City and Pittsburgh. Often billed alongside Jellyfish, Ricky Mawzlin and Carré. Next up: Collapse, Pittsburgh on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Formosa is a techno and italo disco artist based in United States of America, wi
 
 Jellyfish, Ricky Mawzlin, Carré
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formosa/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formosa/)*

@@ -1,6 +1,6 @@
 # WOLT
 
-WOLT is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+WOLT is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
 WOLT is a techno and psytrance artist based in Japan, with 103 gigs on soundcheck across Hannover, Kyoto and Osaka. Often billed alongside ZAGUN, Tom Monkey and MASOI. Next up: Joule, Osaka on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ WOLT is a techno and psytrance artist based in Japan, with 103 gigs on soundchec
 
 ZAGUN, Tom Monkey, MASOI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wolt/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wolt/)*

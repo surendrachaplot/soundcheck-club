@@ -1,14 +1,13 @@
 # Pre Silent
 
-Pre Silent is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Inguz Club, Portugal on Sat, 31 Oct 2026.
+Pre Silent is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at DURO, Milan on Fri, 6 Nov 2026.
 
-Pre Silent is a techno and industrial artist based in Italy, with 41 gigs on soundcheck across Berlin, London, Milan and Portugal and 1 more. Often billed alongside Antonio De Angelis, Gabriele Capponi and Laure Croft. Next up: Inguz Club, Portugal on Sat 31 Oct.
+Pre Silent is a techno and industrial artist based in Italy, with 41 gigs on soundcheck across Berlin, London, Milan and Portugal and 1 more. Often billed alongside Antonio De Angelis, Gabriele Capponi and Laure Croft. Next up: DURO, Milan on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Inguz Club | Portugal |
 | Fri, 6 Nov 2026 | DURO | Milan |
 | Sat, 21 Nov 2026 | E1 | London |
 | Sat, 19 Dec 2026 | E1 | London |
@@ -29,4 +28,4 @@ Pre Silent is a techno and industrial artist based in Italy, with 41 gigs on sou
 
 Antonio De Angelis, Gabriele Capponi, Laure Croft
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/presilent/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/presilent/)*

@@ -1,13 +1,14 @@
 # Zoumer
 
-Zoumer is a Experimental and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at KLEIN kbh, Copenhagen on Fri, 13 Nov 2026.
+Zoumer is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at PHONO, Aarhus on Sat, 7 Nov 2026.
 
-Zoumer is an experimental and pop artist based in Denmark, with 9 gigs on soundcheck across Copenhagen. Often billed alongside Debbie Sings, Deb Foam and Adexia. Next up: KLEIN kbh, Copenhagen on Fri 13 Nov.
+Zoumer is an experimental and pop artist based in Denmark, with 10 gigs on soundcheck across Aarhus and Copenhagen. Often billed alongside Debbie Sings, Deb Foam and Adexia. Next up: PHONO, Aarhus on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | PHONO | Aarhus |
 | Fri, 13 Nov 2026 | KLEIN kbh | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Zoumer is an experimental and pop artist based in Denmark, with 9 gigs on soundc
 
 Debbie Sings, Deb Foam, Adexia
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoumer/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoumer/)*

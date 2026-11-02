@@ -1,6 +1,6 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Quarters, Brighton on Sat, 7 Nov 2026.
+Andy C is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Quarters, Brighton on Sat, 7 Nov 2026.
 
 Andy C is a drum & bass and jungle artist based in United Kingdom, with 112 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 49 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Quarters, Brighton on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, with 112 gigs
 
 Tonn Piper, Bou (UK), Hybrid Minds
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andyc/)*

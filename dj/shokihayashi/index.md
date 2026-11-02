@@ -1,14 +1,15 @@
 # Shoki Hayashi
 
-Shoki Hayashi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Final, Taipei on Sat, 7 Nov 2026.
+Shoki Hayashi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Final, Taipei on Sat, 7 Nov 2026.
 
-Shoki Hayashi is a techno and house artist, with 6 gigs on soundcheck across Osaka, Taipei and Tokyo. Often billed alongside 3.14, Astma and Goth-Trad. Next up: Final, Taipei on Sat 7 Nov.
+Shoki Hayashi is a techno and house artist, with 7 gigs on soundcheck across Kyushu, Osaka, Taipei and Tokyo. Often billed alongside 3.14, Astma and GOBI. Next up: Final, Taipei on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Final | Taipei |
+| Sat, 14 Nov 2026 | Sound space α | Kyushu |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Shoki Hayashi is a techno and house artist, with 6 gigs on soundcheck across Osa
 
 ## Shares bills with
 
-3.14, Astma, Goth-Trad
+3.14, Astma, GOBI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shokihayashi/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shokihayashi/)*

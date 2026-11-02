@@ -1,6 +1,6 @@
 # Fero Duman
 
-Fero Duman is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Gewölbe, Cologne on Fri, 13 Nov 2026.
+Fero Duman is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Gewölbe, Cologne on Fri, 13 Nov 2026.
 
 Fero Duman is a house artist based in Germany, with 4 gigs on soundcheck across Cologne. Often billed alongside Nic Lorenz, SIMES and Joëlla Jackson. Next up: Gewölbe, Cologne on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Fero Duman is a house artist based in Germany, with 4 gigs on soundcheck across 
 
 Nic Lorenz, SIMES, Joëlla Jackson
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feroduman/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feroduman/)*

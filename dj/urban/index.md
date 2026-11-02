@@ -1,8 +1,8 @@
 # Urban
 
-Urban is a Afro House and Pop artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Supper Cruise, Amsterdam on Sat, 28 Nov 2026.
+Urban is a R&B and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Supper Cruise, Amsterdam on Sat, 28 Nov 2026.
 
-Urban is an afro house and pop artist based in Poland, with 6 gigs on soundcheck across Amsterdam, Lausanne and Nürnberg. Often billed alongside Aries, Avocado and Baerbel. Next up: Supper Cruise, Amsterdam on Sat 28 Nov.
+Urban is a r&b and afrobeat artist based in Poland, with 6 gigs on soundcheck across Amsterdam, Lausanne and Nürnberg. Often billed alongside Aries, Avocado and Baerbel. Next up: Supper Cruise, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Urban is an afro house and pop artist based in Poland, with 6 gigs on soundcheck
 
 Aries, Avocado, Baerbel
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urban/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urban/)*

@@ -1,6 +1,6 @@
 # Curses
 
-Curses is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at WOLF Barcelona, Barcelona on Thu, 5 Nov 2026.
+Curses is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at WOLF Barcelona, Barcelona on Thu, 5 Nov 2026.
 
 Curses is a techno and house artist based in United States of America, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 66 more. Often billed alongside The Lady Machine, Rakans and Cormac. Next up: WOLF Barcelona, Barcelona on Thu 5 Nov.
 
@@ -30,4 +30,4 @@ Curses is a techno and house artist based in United States of America, with 196 
 
 The Lady Machine, Rakans, Cormac
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

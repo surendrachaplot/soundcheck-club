@@ -1,8 +1,8 @@
 # Livvy Loo
 
-Livvy Loo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Upper East, London on Fri, 27 Nov 2026.
+Livvy Loo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Upper East, London on Fri, 27 Nov 2026.
 
-Livvy Loo is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside FLORA THA EXPLORA, Mya and Sedex. Next up: Upper East, London on Fri 27 Nov.
+Livvy Loo is a house and techno artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside FLORA THA EXPLORA, FITS ME FUNNY and Mya. Next up: Upper East, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Livvy Loo is a house and techno artist based in United Kingdom, with 12 gigs on 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Upper East | London |
 | Sat, 19 Dec 2026 | Vespers Club | London |
+| Sat, 30 Jan 2027 | Vittoria Wharf Studio | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Livvy Loo is a house and techno artist based in United Kingdom, with 12 gigs on 
 
 ## Shares bills with
 
-FLORA THA EXPLORA, Mya (1), Sedex
+FLORA THA EXPLORA, FITS ME FUNNY, Mya (1)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livvyloo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livvyloo/)*

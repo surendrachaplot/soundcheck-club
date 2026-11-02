@@ -1,6 +1,6 @@
 # Tom Boogizm
 
-Tom Boogizm is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Spanners, London on Sat, 21 Nov 2026.
+Tom Boogizm is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Spanners, London on Sat, 21 Nov 2026.
 
 Tom Boogizm is a club and bass artist based in United Kingdom, with 66 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 10 more. Often billed alongside Finn, Chunky and KD22LR. Next up: Spanners, London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Tom Boogizm is a club and bass artist based in United Kingdom, with 66 gigs on s
 
 Finn, Chunky, KD22LR
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomboogizm/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomboogizm/)*

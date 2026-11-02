@@ -1,6 +1,6 @@
 # Pohl
 
-Pohl is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
+Pohl is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
 
 Pohl is an electronica and house artist, with 2 gigs on soundcheck across Madrid. Often billed alongside Abdulla A., Avo (ES) and Carl Finlow. Next up: Cadavra, Madrid on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Pohl is an electronica and house artist, with 2 gigs on soundcheck across Madrid
 
 Abdulla A., Avo (ES), Carl Finlow
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pohl/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pohl/)*

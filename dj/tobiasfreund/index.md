@@ -1,14 +1,13 @@
 # Tobias.
 
-Tobias. is a Techno and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Tobias. is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at PBOX STND, Tokyo on Sat, 14 Nov 2026.
 
-Tobias. is a techno and minimal artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 23 more. Often billed alongside Konstantin, Edward and Yamour. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
+Tobias. is a techno and minimal artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 23 more. Often billed alongside Konstantin, Edward and Yamour. Next up: PBOX STND, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 14 Nov 2026 | PBOX STND | Tokyo |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
@@ -28,4 +27,4 @@ Tobias. is a techno and minimal artist based in Germany, with 59 gigs on soundch
 
 Konstantin, Edward, Yamour
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiasfreund/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiasfreund/)*

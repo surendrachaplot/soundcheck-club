@@ -1,8 +1,8 @@
 # Tom Finster
 
-Tom Finster is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Onyx (E1), London on Fri, 11 Dec 2026.
+Tom Finster is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Onyx (E1), London on Fri, 11 Dec 2026.
 
-Tom Finster is a drum & bass and jungle artist, with 8 gigs on soundcheck across Brighton, Budapest, Hamburg and Hannover and 4 more. Often billed alongside Blooom, ACE and Bandulera. Next up: Onyx (E1), London on Fri 11 Dec.
+Tom Finster is a drum & bass and jungle artist based in Germany, with 8 gigs on soundcheck across Brighton, Budapest, Hamburg and Hannover and 4 more. Often billed alongside Blooom, ACE and Bandulera. Next up: Onyx (E1), London on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Tom Finster is a drum & bass and jungle artist, with 8 gigs on soundcheck across
 
 Blooom, ACE, Bandulera
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomfinster/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomfinster/)*

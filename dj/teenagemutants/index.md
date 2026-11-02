@@ -1,6 +1,6 @@
 # Teenage Mutants
 
-Teenage Mutants is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Teenage Mutants is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
 
 Teenage Mutants is a techno and house artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Techmo, Eric Wishes and Intaktogene. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ Teenage Mutants is a techno and house artist based in Germany, with 157 gigs on 
 
 Techmo, Eric Wishes, Intaktogene
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teenagemutants/)*

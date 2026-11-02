@@ -1,6 +1,6 @@
 # Gentleman's Dub Club
 
-Gentleman's Dub Club is a Dub and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Wylam Brewery, Newcastle on Thu, 5 Nov 2026.
+Gentleman's Dub Club is a Dub and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Wylam Brewery, Newcastle on Thu, 5 Nov 2026.
 
 Gentleman's Dub Club is a dub and dubstep artist based in United Kingdom, with 5 gigs on soundcheck across Bristol, London, Los Angeles and Newcastle and 1 more. Often billed alongside DRS, Danny Byrd and Eva Lazarus. Next up: Wylam Brewery, Newcastle on Thu 5 Nov.
 
@@ -21,4 +21,4 @@ Gentleman's Dub Club is a dub and dubstep artist based in United Kingdom, with 5
 
 DRS, Danny Byrd, Eva Lazarus
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gentlemansdubclub/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gentlemansdubclub/)*

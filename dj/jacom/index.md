@@ -1,6 +1,6 @@
 # Jacom
 
-Jacom is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
+Jacom is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
 
 Jacom is a techno and electronica artist based in Switzerland, with 2 gigs on soundcheck across Zurich. Often billed alongside SCNR, Ahmet Sisman and BLANKA. Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Jacom is a techno and electronica artist based in Switzerland, with 2 gigs on so
 
 SCNR, Ahmet Sisman, BLANKA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacom/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacom/)*

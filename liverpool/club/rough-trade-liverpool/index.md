@@ -1,6 +1,6 @@
 # Rough Trade Liverpool
 
-Rough Trade Liverpool is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Caroline Rose: Live + Signing" on Mon, 2 Nov 2026.
+Rough Trade Liverpool is a music venue in Liverpool with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Caroline Rose: Live + Signing" on Mon, 2 Nov 2026.
 
 Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 6 upcoming gigs, with line-ups including Karman and Parviz. See dates, start times and who's playing. Hanover St, Liverpool L1 4AF.
 
@@ -19,4 +19,4 @@ Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 6 upco
 
 Hanover St, Liverpool L1 4AF, Liverpool
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/rough-trade-liverpool/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/rough-trade-liverpool/)*

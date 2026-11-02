@@ -1,14 +1,13 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "40+ Years of REGGAE 'To the Foundation' by Sting International (dance party)" on Sun, 1 Nov 2026.
+Xanadu is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Dirty Magazine's Lingerie Skate (skate all night)" on Thu, 5 Nov 2026.
 
-Xanadu is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Conduit, Amelia Holt, Bouffant Bouffant and DADA COZMIC and 2 more. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Conduit, Amelia Holt, Bouffant Bouffant and DADA COZMIC and 2 more. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | 40+ Years of REGGAE 'To the Foundation' by Sting International (dance party) | Sting International |
 | Thu, 5 Nov 2026 | Dirty Magazine's Lingerie Skate (skate all night) | DADA COZMIC, Quetamine |
 | Fri, 6 Nov 2026 | Jay Dimes - Dime in Da Rough Show (concert) |  |
 | Fri, 6 Nov 2026 | Adult Skate Night feat. DJ Suave (skate) |  |
@@ -20,4 +19,4 @@ Xanadu is a music venue in New York City listed on soundcheck. 7 upcoming gigs, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

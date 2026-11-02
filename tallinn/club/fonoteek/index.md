@@ -1,6 +1,6 @@
 # Fonoteek
 
-Fonoteek is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Rulers Of The Deep with Seamus Haji (UK)" on Fri, 6 Nov 2026.
+Fonoteek is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Rulers Of The Deep with Seamus Haji (UK)" on Fri, 6 Nov 2026.
 
 Fonoteek is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including Fedo (UA), Lill, Rulers Of The Deep and Seamus Haji and 1 more. See dates, start times and who's playing. Telliskivi tn 62, 10412 ,Tallinn, Estonia.
 
@@ -15,4 +15,4 @@ Fonoteek is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with
 
 Telliskivi tn 62, 10412 ,Tallinn, Estonia, Tallinn
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/fonoteek/)*

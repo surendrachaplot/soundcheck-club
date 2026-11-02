@@ -1,6 +1,6 @@
 # Pampa
 
-Pampa is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - La Fabrica, Cordoba, Argentina on Fri, 6 Nov 2026.
+Pampa is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - La Fabrica, Cordoba, Argentina on Fri, 6 Nov 2026.
 
 Pampa is a techno and club artist based in Argentina, with 3 gigs on soundcheck across Argentina and Buenos Aires. Often billed alongside ANNĒ, Bondarük and Indira Paganotto. Next up: TBA - La Fabrica, Cordoba, Argentina on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Pampa is a techno and club artist based in Argentina, with 3 gigs on soundcheck 
 
 ANNĒ, Bondarük, Indira Paganotto
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pampa/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pampa/)*

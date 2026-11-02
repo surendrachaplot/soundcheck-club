@@ -1,14 +1,15 @@
 # Danny Howells
 
-Danny Howells is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Golden Lion, Manchester on Fri, 11 Dec 2026.
+Danny Howells is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Golden Lion, Manchester on Fri, 11 Dec 2026.
 
-Danny Howells is a progressive house and house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 22 more. Often billed alongside Dave Seaman, Graziano Raffa and Anthony Pappa. Next up: The Golden Lion, Manchester on Fri 11 Dec.
+Danny Howells is a progressive house and house artist based in United Kingdom, with 66 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brighton and 22 more. Often billed alongside Dave Seaman, Graziano Raffa and Anthony Pappa. Next up: The Golden Lion, Manchester on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | The Golden Lion | Manchester |
+| Sat, 30 Jan 2027 | Bridge Gardens | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Danny Howells is a progressive house and house artist based in United Kingdom, w
 
 Dave Seaman, Graziano Raffa, Anthony Pappa
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyhowells/)*

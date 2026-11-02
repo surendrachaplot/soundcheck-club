@@ -1,6 +1,6 @@
 # NITKA
 
-NITKA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at LOU, Rotterdam on Fri, 6 Nov 2026.
+NITKA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at LOU, Rotterdam on Fri, 6 Nov 2026.
 
 NITKA is a house and techno artist based in Slovenia, with 11 gigs on soundcheck across Amsterdam, Ljubljana, Rotterdam and The Hague. Often billed alongside DJ Tjizza, Grigor Kanev and Rolmar. Next up: LOU, Rotterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ NITKA is a house and techno artist based in Slovenia, with 11 gigs on soundcheck
 
 DJ Tjizza, Grigor Kanev, Rolmar
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitka/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nitka/)*

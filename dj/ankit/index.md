@@ -1,14 +1,15 @@
 # Ankit
 
-Ankit is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Prisma, Berlin on Tue, 3 Nov 2026.
+Ankit is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Prisma, Berlin on Tue, 3 Nov 2026.
 
-Ankit is a techno and tech house artist based in India, with 4 gigs on soundcheck across Berlin. Often billed alongside VEGANICECREAM, Vantavision and b.e.n.m. Next up: Prisma, Berlin on Tue 3 Nov.
+Ankit is a techno and tech house artist based in India, with 5 gigs on soundcheck across Berlin. Often billed alongside LA BITCHENCIO, VEGANICECREAM and Vantavision. Next up: Prisma, Berlin on Tue 3 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 3 Nov 2026 | Prisma | Berlin |
+| Sat, 7 Nov 2026 | Sensorium | Berlin |
 | Fri, 20 Nov 2026 | Sensorium | Berlin |
 
 ## Recently played
@@ -18,6 +19,6 @@ Ankit is a techno and tech house artist based in India, with 4 gigs on soundchec
 
 ## Shares bills with
 
-VEGANICECREAM, Vantavision, b.e.n.m
+LA BITCHENCIO, VEGANICECREAM, Vantavision
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ankit/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ankit/)*

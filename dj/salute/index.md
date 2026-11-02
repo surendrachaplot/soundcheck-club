@@ -1,14 +1,13 @@
 # salute
 
-salute is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+salute is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mia Mao, Paris on Fri, 6 Nov 2026.
 
-salute is a house and techno artist based in Austria, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Factory Town, Miami on Fri 30 Oct.
+salute is a house and techno artist based in Austria, with 210 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Mia Mao, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Mia Mao | Paris |
 | Sat, 7 Nov 2026 | Gewölbe | Cologne |
 | Fri, 13 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -20,6 +19,7 @@ salute is a house and techno artist based in Austria, with 210 gigs on soundchec
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Thu, 31 Dec 2026 | Carriageworks | Sydney |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ salute is a house and techno artist based in Austria, with 210 gigs on soundchec
 
 HAAi, DJ BORING, Eliza Rose
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

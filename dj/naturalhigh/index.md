@@ -1,8 +1,8 @@
 # Naturalhigh
 
-Naturalhigh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Harmony Cafe, Toronto on Sat, 14 Nov 2026.
+Naturalhigh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Harmony Cafe, Toronto on Sat, 14 Nov 2026.
 
-Naturalhigh is a techno and house artist, with 24 gigs on soundcheck across Seoul and Toronto. Often billed alongside ILLUMI, m.bience and Muzik Robe. Next up: The Harmony Cafe, Toronto on Sat 14 Nov.
+Naturalhigh is a techno and house artist based in South Korea, with 24 gigs on soundcheck across Seoul and Toronto. Often billed alongside ILLUMI, m.bience and Muzik Robe. Next up: The Harmony Cafe, Toronto on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Naturalhigh is a techno and house artist, with 24 gigs on soundcheck across Seou
 
 ILLUMI, m.bience, Muzik Robe
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalhigh/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalhigh/)*

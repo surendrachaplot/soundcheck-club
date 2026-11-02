@@ -1,6 +1,6 @@
 # Tshegue
 
-Tshegue is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Tshegue is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Tshegue is a techno and dub artist based in France, with 3 gigs on soundcheck across Lyon, Nantes and Utrecht. Often billed alongside Azu Tiwaline, Heith and Aba Shanti-I. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ Tshegue is a techno and dub artist based in France, with 3 gigs on soundcheck ac
 
 Azu Tiwaline, Heith, Aba Shanti-I
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tshegue/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tshegue/)*

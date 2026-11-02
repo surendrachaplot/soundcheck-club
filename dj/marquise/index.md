@@ -1,6 +1,6 @@
 # Marquise
 
-Marquise is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Le Chapiteau - Marseille, Marseille on Fri, 6 Nov 2026.
+Marquise is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Le Chapiteau - Marseille, Marseille on Fri, 6 Nov 2026.
 
 Marquise is a techno and acid artist, with 4 gigs on soundcheck across Lyon and Marseille. Often billed alongside Dreamer909, Druz and Fray (FR). Next up: Le Chapiteau - Marseille, Marseille on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Marquise is a techno and acid artist, with 4 gigs on soundcheck across Lyon and 
 
 Dreamer909, Druz, Fray (FR)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marquise/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marquise/)*

@@ -1,6 +1,6 @@
 # Aaja Basement
 
-Aaja Basement is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "This Thing Of Ours presents Lenny Dee" on Fri, 27 Nov 2026.
+Aaja Basement is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "This Thing Of Ours presents Lenny Dee" on Fri, 27 Nov 2026.
 
 Aaja Basement is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Drinks On Me, Lenny Dee, SHIFT K3Y and Stresshead and 2 more. See dates, start times and who's playing. 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP.
 
@@ -15,4 +15,4 @@ Aaja Basement is a music venue in London listed on soundcheck. 2 upcoming gigs, 
 
 63 - 69 Deptford High Streeet, Basement of, accessed via Comet Place. SE8 4EP, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/aaja-basement/)*

@@ -1,6 +1,6 @@
 # DJ Kelly Kel
 
-DJ Kelly Kel is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Epic Events, South-carolina on Fri, 13 Nov 2026.
+DJ Kelly Kel is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Epic Events, South-carolina on Fri, 13 Nov 2026.
 
 DJ Kelly Kel is a house and afro house artist, with 2 gigs on soundcheck across South Carolina and Washington DC. Often billed alongside Timmy Regisford. Next up: TBA - Epic Events, South Carolina on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ DJ Kelly Kel is a house and afro house artist, with 2 gigs on soundcheck across 
 
 Timmy Regisford
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkellykel/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkellykel/)*

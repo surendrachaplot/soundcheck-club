@@ -1,6 +1,6 @@
 # LEFI
 
-LEFI is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at LAB Wijnhof, Netherlands on Sat, 14 Nov 2026.
+LEFI is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at LAB Wijnhof, Netherlands on Sat, 14 Nov 2026.
 
 LEFI is an electronic artist, with 2 gigs on soundcheck across Netherlands and New York City. Often billed alongside Aron Friedman, Brent Roozendaal and Ignez. Next up: LAB Wijnhof, Netherlands on Sat 14 Nov.
 
@@ -18,4 +18,4 @@ LEFI is an electronic artist, with 2 gigs on soundcheck across Netherlands and N
 
 Aron Friedman, Brent Roozendaal, Ignez
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefi/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefi/)*

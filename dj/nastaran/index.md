@@ -1,6 +1,6 @@
 # Nastaran
 
-Nastaran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
+Nastaran is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
 
 Nastaran is a techno and house artist, with 53 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Frankfurt and 7 more. Often billed alongside Confusion, CAIVA and Lyric. Next up: Tanzhaus West, Frankfurt on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Nastaran is a techno and house artist, with 53 gigs on soundcheck across Amsterd
 
 Confusion, CAIVA, Lyric
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastaran/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastaran/)*

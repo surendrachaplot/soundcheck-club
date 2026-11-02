@@ -1,6 +1,6 @@
 # Dimibo
 
-Dimibo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Dimibo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Dimibo is a techno and house artist, with 2 gigs on soundcheck across Miami and Seattle. Often billed alongside 16BL, AMPRS&ND and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -18,4 +18,4 @@ Dimibo is a techno and house artist, with 2 gigs on soundcheck across Miami and 
 
 16BL, AMPRS&ND, Adam Beyer
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimibo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimibo/)*

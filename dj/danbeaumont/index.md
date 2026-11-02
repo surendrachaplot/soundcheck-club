@@ -1,8 +1,8 @@
 # Dan Beaumont
 
-Dan Beaumont is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Carpet Shop, London on Sat, 19 Dec 2026.
+Dan Beaumont is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Carpet Shop, London on Sat, 19 Dec 2026.
 
-Dan Beaumont is a house and balearic artist, with 28 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester. Often billed alongside Nadia Ksaiba, THEMPRESS and Amaliah. Next up: The Carpet Shop, London on Sat 19 Dec.
+Dan Beaumont is a house and balearic artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester. Often billed alongside Nadia Ksaiba, THEMPRESS and Amaliah. Next up: The Carpet Shop, London on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dan Beaumont is a house and balearic artist, with 28 gigs on soundcheck across A
 
 Nadia Ksaiba, THEMPRESS, Amaliah
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danbeaumont/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danbeaumont/)*

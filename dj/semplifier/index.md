@@ -1,6 +1,6 @@
 # SEMPLIFIER
 
-SEMPLIFIER is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
+SEMPLIFIER is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Desert Inn Resort and Camp, Dubai on Fri, 13 Nov 2026.
 
 SEMPLIFIER is a techno and industrial artist based in Netherlands, with 5 gigs on soundcheck across Berlin, Dubai, Rotterdam and Utrecht. Often billed alongside D|K|OXY, GWELD and ANXIETY. Next up: Desert Inn Resort and Camp, Dubai on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ SEMPLIFIER is a techno and industrial artist based in Netherlands, with 5 gigs o
 
 D|K|OXY, GWELD, ANXIETY (2)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semplifier/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semplifier/)*

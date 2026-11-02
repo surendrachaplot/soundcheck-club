@@ -1,6 +1,6 @@
 # People Like Us (3)
 
-People Like Us (3) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Kastel, Istanbul on Sat, 14 Nov 2026.
+People Like Us (3) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kastel, Istanbul on Sat, 14 Nov 2026.
 
 People Like Us is a house and afro house artist based in Turkey, with 24 gigs on soundcheck across Amsterdam, Belgrade, Düsseldorf and Ibiza and 4 more. Often billed alongside Mahmut Orhan, Charmeine and 1TWO. Next up: Kastel, Istanbul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ People Like Us is a house and afro house artist based in Turkey, with 24 gigs on
 
 Mahmut Orhan, Charmeine, 1TWO
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peoplelikeus-3/)*

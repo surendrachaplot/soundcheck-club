@@ -1,14 +1,13 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Azzecca is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Azzecca is a house and techno artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 28 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: Factory Town, Miami on Fri 30 Oct.
+Azzecca is a house and techno artist based in United States of America, with 94 gigs on soundcheck across Amsterdam, Austin, Baltimore and Berlin and 28 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Thu, 31 Dec 2026 | The Concourse Project | Austin |
 
@@ -27,4 +26,4 @@ Azzecca is a house and techno artist based in United States of America, with 94 
 
 Gorgon City, Boys Noize, Chris Lake
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azzecca/)*

@@ -1,8 +1,8 @@
 # ZULI
 
-ZULI is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at OHM, Berlin on Sat, 14 Nov 2026.
+ZULI is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at OHM, Berlin on Sat, 14 Nov 2026.
 
-ZULI is an experimental and bass artist, with 70 gigs on soundcheck across Amsterdam, Athens, Bali and Beijing and 25 more. Often billed alongside Rama, aya and 3Phaz. Next up: OHM, Berlin on Sat 14 Nov.
+ZULI is an experimental and bass artist based in Egypt, with 70 gigs on soundcheck across Amsterdam, Athens, Bali and Beijing and 25 more. Often billed alongside Rama, aya and 3Phaz. Next up: OHM, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ZULI is an experimental and bass artist, with 70 gigs on soundcheck across Amste
 
 Rama (2), aya, 3Phaz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zuli/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zuli/)*

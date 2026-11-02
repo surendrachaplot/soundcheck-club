@@ -1,14 +1,13 @@
 # Will Automagic
 
-Will Automagic is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Brooklyn, New-york-city on Sun, 1 Nov 2026.
+Will Automagic is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Brooklyn Pacha, New-york-city on Sat, 7 Nov 2026.
 
-Will Automagic is a house and techno artist based in United States of America, with 75 gigs on soundcheck across New York City. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: TBA - Brooklyn, New York City on Sun 1 Nov.
+Will Automagic is a house and techno artist based in United States of America, with 75 gigs on soundcheck across New York City. Often billed alongside Nita Aviance, The Carry Nation and S'aint Panic. Next up: Brooklyn Pacha, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | TBA - Brooklyn | New-york-city |
 | Sat, 7 Nov 2026 | Brooklyn Pacha | New-york-city |
 | Sun, 15 Nov 2026 | TBA - Ticket Holders Only | New York City |
 | Sat, 21 Nov 2026 | BASEMENT | New York City |
@@ -17,6 +16,7 @@ Will Automagic is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- TBA - Brooklyn, New-york-city · Sun, 1 Nov 2026
 - Club Rawhide, New York City · Fri, 30 Oct 2026
 - Signal, New York City · Sun, 27 Sept 2026
 - 314 Scholes, New York City · Sun, 20 Sept 2026
@@ -24,10 +24,9 @@ Will Automagic is a house and techno artist based in United States of America, w
 - BASEMENT, New York City · Fri, 31 Jul 2026
 - Club Rawhide, New York City · Fri, 10 Jul 2026
 - TBA, New York City · Sat, 20 Jun 2026
-- TBA - Doll Quarry, Bushwick, New York City · Sat, 2 May 2026
 
 ## Shares bills with
 
 Nita Aviance, The Carry Nation, S'aint Panic
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willautomagic/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willautomagic/)*

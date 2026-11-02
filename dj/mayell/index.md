@@ -1,15 +1,13 @@
 # Mayell
 
-Mayell is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at H0L0, New York City on Sat, 31 Oct 2026.
+Mayell is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Signal, New York City on Fri, 6 Nov 2026.
 
-Mayell is a house and electro artist based in Slovenia, with 135 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside Sibil, O.BEE and Tomas Station. Next up: H0L0, New York City on Sat 31 Oct.
+Mayell is a house and electro artist based in Slovenia, with 135 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 33 more. Often billed alongside Sibil, O.BEE and Tomas Station. Next up: Signal, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | H0L0 | New York City |
-| Sat, 31 Oct 2026 | 94th Aero Squadron | Miami |
 | Fri, 6 Nov 2026 | Signal | New York City |
 
 ## Recently played
@@ -27,4 +25,4 @@ Mayell is a house and electro artist based in Slovenia, with 135 gigs on soundch
 
 Sibil (1), O.BEE, Tomas Station
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mayell/)*

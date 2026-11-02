@@ -1,14 +1,13 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+MiNNA is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
 
-MiNNA is a house and disco artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 30 more. Often billed alongside Kirollus, Dan Shake and Horse Meat Disco. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
+MiNNA is a house and disco artist based in United Kingdom, with 160 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 30 more. Often billed alongside Kirollus, Dan Shake and Horse Meat Disco. Next up: Electric Studios, Sheffield on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Sandy Beach Hotel & Resort | Dubai |
 | Fri, 6 Nov 2026 | Electric Studios | Sheffield |
 | Sat, 14 Nov 2026 | Si Paradiso | Perth |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
@@ -29,4 +28,4 @@ MiNNA is a house and disco artist based in United Kingdom, with 160 gigs on soun
 
 Kirollus, Dan Shake, Horse Meat Disco
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-2/)*

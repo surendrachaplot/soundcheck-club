@@ -1,13 +1,14 @@
 # r1ku
 
-r1ku is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 6 Nov 2026.
+r1ku is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Red Bar, Tokyo on Mon, 2 Nov 2026.
 
-r1ku is a house and techno artist based in Japan, with 204 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kengotaki, SAMO (JP) and YUVIE. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 6 Nov.
+r1ku is a house and techno artist based in Japan, with 205 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside kengotaki, SAMO (JP) and YUVIE. Next up: Red Bar, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | Red Bar | Tokyo |
 | Fri, 6 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 4 Dec 2026 | WOMB | Tokyo |
 
@@ -26,4 +27,4 @@ r1ku is a house and techno artist based in Japan, with 204 gigs on soundcheck ac
 
 kengotaki, SAMO (JP), YUVIE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ku/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r1ku/)*

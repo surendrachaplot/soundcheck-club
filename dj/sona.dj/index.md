@@ -1,6 +1,6 @@
 # sona.dj
 
-sona.dj is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at High Origins Speciality Coffee, Dublin on Sat, 7 Nov 2026.
+sona.dj is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at High Origins Speciality Coffee, Dublin on Sat, 7 Nov 2026.
 
 sona.dj is a house and disco artist based in France, with 3 gigs on soundcheck across Dublin. Often billed alongside Evil Anto and GiovanniPasta. Next up: High Origins Speciality Coffee, Dublin on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ sona.dj is a house and disco artist based in France, with 3 gigs on soundcheck a
 
 Evil Anto, GiovanniPasta
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sona.dj/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sona.dj/)*

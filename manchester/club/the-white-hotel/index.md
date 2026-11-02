@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 36 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Rhadoo {from start till finish} ~ DAY" on Sun, 1 Nov 2026.
+The White Hotel is a music venue in Manchester with 37 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Midwife" on Tue, 3 Nov 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 36 upcoming gigs, with line-ups including Fastlove, Abena, Afrodeutsche and Aiden Francis and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming gigs, with line-ups including Fastlove, Abena, Afrodeutsche and Aiden Francis and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Rhadoo {from start till finish} ~ DAY | Rhadoo |
 | Tue, 3 Nov 2026 | Midwife | Midwife |
 | Wed, 4 Nov 2026 | Ana Roxanne + Elucyve + colell | Ana Roxanne, Elucyve, colell |
 | Fri, 6 Nov 2026 | Livity Sound: Polygonia / Peverelist / Abena | Abena, Peverelist, Polygonia |
@@ -18,9 +17,10 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 36 upcoming
 | Thu, 12 Nov 2026 | The Beauty Witch presents : Horse Lords / Chermansog |  |
 | Fri, 13 Nov 2026 | Blasha & Allatt Invites Chami and Reka Zalan | Blasha & Allatt, Chami, Reka Zalan |
 | Sat, 14 Nov 2026 | Collisions: Craig Richards & Ivan Smagghe | Craig Richards, Ivan Smagghe |
+| Sat, 14 Nov 2026 | Gold Panda | Gold Panda |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

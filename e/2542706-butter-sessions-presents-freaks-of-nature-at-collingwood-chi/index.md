@@ -1,6 +1,6 @@
 # Butter Sessions presents: Freaks of Nature at Collingwood Children's Farm
 
-Butter Sessions presents: Freaks of Nature at Collingwood Children's Farm on Sat 30 Jan, Melbourne. 20 artists: Birdsnake, Bridget Small, CHEAHDX and Command D and 16 more. See the line-up on soundcheck.
+Butter Sessions presents: Freaks of Nature at Collingwood Children's Farm on Sat 30 Jan, Melbourne. 20 artists: Birdsnake, Bridget Small, CHEAHDX and Command D and 16 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

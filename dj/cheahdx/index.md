@@ -1,6 +1,6 @@
 # CHEAHDX
 
-CHEAHDX is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+CHEAHDX is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 CHEAHDX is a techno and bass artist based in Australia, with 33 gigs on soundcheck across Australian Capital Territory, Melbourne, Perth and Sydney and 1 more. Often billed alongside Mabel, Kate Miller and LOIF. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ CHEAHDX is a techno and bass artist based in Australia, with 33 gigs on soundche
 
 Mabel, Kate Miller, LOIF
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheahdx/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheahdx/)*

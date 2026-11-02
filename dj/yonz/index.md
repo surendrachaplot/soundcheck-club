@@ -1,6 +1,6 @@
 # YonZ
 
-YonZ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
+YonZ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
 
 YonZ is a house and techno artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Shy at First, gredeson and Arriba Rima. Next up: Blue Velvet, Berlin on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ YonZ is a house and techno artist, with 5 gigs on soundcheck across Berlin. Ofte
 
 Shy at First, gredeson, Arriba Rima
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonz/)*

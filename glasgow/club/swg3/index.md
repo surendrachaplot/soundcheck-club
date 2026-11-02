@@ -1,8 +1,8 @@
 # SWG3
 
-SWG3 is a music venue in Glasgow with 30 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "L.P. Rhythm Glasgow Weekender" on Fri, 6 Nov 2026.
+SWG3 is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "L.P. Rhythm Glasgow Weekender" on Fri, 6 Nov 2026.
 
-SWG3 is a music venue in Glasgow listed on soundcheck. 30 upcoming gigs, with line-ups including Alexandria, AMMARA, Boss Priester and Bushbaby and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
+SWG3 is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, with line-ups including Alexandria, AMMARA, Boss Priester and Bushbaby and 2 more. See dates, start times and who's playing. 100 Eastvale Place, Glasgow, G3 8QG.
 
 ## What's on
 
@@ -23,4 +23,4 @@ SWG3 is a music venue in Glasgow listed on soundcheck. 30 upcoming gigs, with li
 
 100 Eastvale Place, Glasgow, G3 8QG, Glasgow
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/swg3/)*

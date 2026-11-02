@@ -1,6 +1,6 @@
 # DUALISM with KLING&KLANG, DJ Henk, DJ Traytex at ://about blank
 
-DUALISM with KLING&KLANG, DJ Henk, DJ Traytex at ://about blank on Sat 30 Jan, Berlin. 10 artists: alemiko, bbymeister, Bobaz Lobster and DJ Henk and 6 more. See the line-up on soundcheck.
+DUALISM with KLING&KLANG, DJ Henk, DJ Traytex at ://about blank on Sat 30 Jan, Berlin. 10 artists: alemiko, bbymeister, Bobaz Lobster and DJ Henk and 6 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,18 +1,18 @@
 # eira haul
 
-eira haul is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Bogen 43, Berlin on Sun, 1 Nov 2026.
+eira haul is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
-eira haul is a house and deep house artist based in Germany, with 22 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Kuala Lumpur and 5 more. Often billed alongside Robert Kalb, Christopher Breuer and Reece Walker. Next up: Bogen 43, Berlin on Sun 1 Nov.
+eira haul is a house and deep house artist based in Germany, with 22 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Kuala Lumpur and 5 more. Often billed alongside Robert Kalb, Christopher Breuer and Reece Walker. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Bogen 43 | Berlin |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
 
 ## Recently played
 
+- Bogen 43, Berlin · Sun, 1 Nov 2026
 - Haus73, Hamburg · Sat, 31 Oct 2026
 - Silbergold, Frankfurt · Fri, 30 Oct 2026
 - La Fábrica de Hielo, Valencia · Fri, 2 Oct 2026
@@ -20,10 +20,9 @@ eira haul is a house and deep house artist based in Germany, with 22 gigs on sou
 - renae, Manchester · Sat, 5 Sept 2026
 - Kater, Berlin · Sat, 30 May 2026
 - Paloma, Berlin · Thu, 30 Apr 2026
-- TBA - Neo Bar KL- Jalan Binjai 8, Ilham Tower Level 37, Kuala Lumpur · Fri, 10 Apr 2026
 
 ## Shares bills with
 
 Robert Kalb, Christopher Breuer, Reece Walker
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eirahaul/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eirahaul/)*

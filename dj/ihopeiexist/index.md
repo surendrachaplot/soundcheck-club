@@ -1,6 +1,6 @@
 # IHOPEIEXIST
 
-IHOPEIEXIST is a Drum & Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
+IHOPEIEXIST is a Drum & Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
 
 IHOPEIEXIST is a drum & bass and experimental artist based in Hungary, with 37 gigs on soundcheck across Berlin, Kyoto, Leipzig and Osaka. Often billed alongside Upzet, Kenzura and Aynaet. Next up: Void Club, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ IHOPEIEXIST is a drum & bass and experimental artist based in Hungary, with 37 g
 
 Upzet, Kenzura, Aynaet
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihopeiexist/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihopeiexist/)*

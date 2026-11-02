@@ -1,6 +1,6 @@
 # Romy Mats
 
-Romy Mats is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
+Romy Mats is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
 
 Romy Mats is a techno and house artist based in Japan, with 155 gigs on soundcheck across Hong Kong, Kyoto, Seoul and Shenzhen and 1 more. Often billed alongside Romy, Albino Sound and Pine. Next up: MIDNIGHT EAST, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Romy Mats is a techno and house artist based in Japan, with 155 gigs on soundche
 
 Romy, Albino Sound, Pine
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romymats/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romymats/)*

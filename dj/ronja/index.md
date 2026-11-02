@@ -1,6 +1,6 @@
 # Ronja
 
-Ronja is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
+Ronja is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Volksbühne, Berlin on Mon, 2 Nov 2026.
 
 Ronja is a house and hip-hop artist based in Germany, with 39 gigs on soundcheck across Berlin, Hamburg and Helsinki. Often billed alongside Punani, Crille & Tamalt and Dj Quien. Next up: Volksbühne, Berlin on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ Ronja is a house and hip-hop artist based in Germany, with 39 gigs on soundcheck
 
 Punani, Crille & Tamalt, Dj Quien
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronja/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronja/)*

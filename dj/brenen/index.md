@@ -1,6 +1,6 @@
 # Brenen
 
-Brenen is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
+Brenen is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
 
 Brenen is an electro and house artist based in United Kingdom, with 6 gigs on soundcheck across Bristol and London. Often billed alongside Myles Apps, Calla and Cristi Cons. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Brenen is an electro and house artist based in United Kingdom, with 6 gigs on so
 
 Myles Apps, Calla, Cristi Cons
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brenen/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brenen/)*

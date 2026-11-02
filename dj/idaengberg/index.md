@@ -1,6 +1,6 @@
 # Ida Engberg
 
-Ida Engberg is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
+Ida Engberg is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
 
 Ida Engberg is a techno and house artist based in Sweden, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside Carl Cox, Kölsch and Indira Paganotto. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Ida Engberg is a techno and house artist based in Sweden, with 114 gigs on sound
 
 Carl Cox, Kölsch, Indira Paganotto
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*

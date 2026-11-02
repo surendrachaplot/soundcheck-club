@@ -1,8 +1,8 @@
 # Pariah
 
-Pariah is a Techno and Bass artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Marble Bar, Detroit on Fri, 6 Nov 2026.
+Pariah is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Marble Bar, Detroit on Fri, 6 Nov 2026.
 
-Pariah is a techno and bass artist based in United Kingdom, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside mad miran, Verraco and Blawan. Next up: Marble Bar, Detroit on Fri 6 Nov.
+Pariah is a techno and bass artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside mad miran, Verraco and Blawan. Next up: Marble Bar, Detroit on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Pariah is a techno and bass artist based in United Kingdom, with 182 gigs on sou
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Sat, 12 Dec 2026 | Unmute | Hanoi |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
+| Fri, 22 Jan 2027 | The Loco Klub | Bristol |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
@@ -33,4 +34,4 @@ Pariah is a techno and bass artist based in United Kingdom, with 182 gigs on sou
 
 mad miran, Verraco, Blawan
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pariah/)*

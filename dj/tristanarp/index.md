@@ -1,6 +1,6 @@
 # Tristan Arp
 
-Tristan Arp is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Rovr Soho, London on Sat, 28 Nov 2026.
+Tristan Arp is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Rovr Soho, London on Sat, 28 Nov 2026.
 
 Tristan Arp is a bass and techno artist based in United States of America, with 40 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 18 more. Often billed alongside Coline Cornélis, DJ DEADNAME and Daigos. Next up: Rovr Soho, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Tristan Arp is a bass and techno artist based in United States of America, with 
 
 Coline Cornélis, DJ DEADNAME, Daigos
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tristanarp/)*

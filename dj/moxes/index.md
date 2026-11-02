@@ -1,6 +1,6 @@
 # Moxes
 
-Moxes is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
+Moxes is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Lijm & Cultuur, Netherlands on Sat, 28 Nov 2026.
 
 Moxes is a house and tech house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Ibiza and 5 more. Often billed alongside Emvae, Essy and Kyra Khaldi. Next up: Lijm & Cultuur, Netherlands on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Moxes is a house and tech house artist based in Netherlands, with 72 gigs on sou
 
 Emvae, Essy, Kyra Khaldi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*

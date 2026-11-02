@@ -1,8 +1,8 @@
 # SAS (2)
 
-SAS (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+SAS (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
-SAS is a techno and industrial artist, with 33 gigs on soundcheck across Berlin, Bologna, Brussels and Dubai and 11 more. Often billed alongside Bollmann, Floor Force One and Nikolina. Next up: DEX, Moscow on Fri 11 Dec.
+SAS is a techno and industrial artist based in Lebanon, with 33 gigs on soundcheck across Berlin, Bologna, Brussels and Dubai and 11 more. Often billed alongside Bollmann, Floor Force One and Nikolina. Next up: DEX, Moscow on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SAS is a techno and industrial artist, with 33 gigs on soundcheck across Berlin,
 
 Bollmann, Floor Force One, Nikolina
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sas-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sas-2/)*

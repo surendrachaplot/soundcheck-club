@@ -1,6 +1,6 @@
 # Ohcult
 
-Ohcult is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Burdekin Hotel, Sydney on Sat, 7 Nov 2026.
+Ohcult is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Burdekin Hotel, Sydney on Sat, 7 Nov 2026.
 
 Ohcult is a drum & bass and techno artist, with 3 gigs on soundcheck across Sydney. Often billed alongside Dread Maiden, Whompus and Adarah. Next up: Burdekin Hotel, Sydney on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Ohcult is a drum & bass and techno artist, with 3 gigs on soundcheck across Sydn
 
 Dread Maiden, Whompus, Adarah
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohcult/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohcult/)*

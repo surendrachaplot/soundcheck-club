@@ -1,6 +1,6 @@
 # Tham
 
-Tham is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Das Werk, Vienna on Fri, 6 Nov 2026.
+Tham is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Das Werk, Vienna on Fri, 6 Nov 2026.
 
 Tham is a techno and trance artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 62 more. Often billed alongside Acierate, CARAVEL and Vendex. Next up: Das Werk, Vienna on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Tham is a techno and trance artist based in Germany, with 193 gigs on soundcheck
 
 Acierate, CARAVEL, Vendex
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tham/)*

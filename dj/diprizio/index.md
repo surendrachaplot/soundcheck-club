@@ -1,6 +1,6 @@
 # Diprizio
 
-Diprizio is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Argo16, Venice on Sat, 7 Nov 2026.
+Diprizio is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Argo16, Venice on Sat, 7 Nov 2026.
 
 Diprizio is a dub and bass artist, with 3 gigs on soundcheck across Bologna, Rome and Venice. Often billed alongside CCL, Lemethi and Obso. Next up: Argo16, Venice on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Diprizio is a dub and bass artist, with 3 gigs on soundcheck across Bologna, Rom
 
 CCL, Lemethi, Obso
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diprizio/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diprizio/)*

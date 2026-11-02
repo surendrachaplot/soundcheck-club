@@ -1,6 +1,6 @@
 # Mirror Image
 
-Mirror Image is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
+Mirror Image is a Dub Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
 Mirror Image is a dub techno and dub artist based in United States of America, with 6 gigs on soundcheck across Los Angeles. Often billed alongside pollensource, Cron and Anthony Naples. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Mirror Image is a dub techno and dub artist based in United States of America, w
 
 pollensource, Cron, Anthony Naples
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorimage-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorimage-2/)*

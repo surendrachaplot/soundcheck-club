@@ -1,6 +1,6 @@
 # Nice n Urlich
 
-Nice n Urlich is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Matakana Country Park, Auckland on Sat, 7 Nov 2026.
+Nice n Urlich is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Matakana Country Park, Auckland on Sat, 7 Nov 2026.
 
 Nice n Urlich is a disco and house artist based in New Zealand, with 3 gigs on soundcheck across Auckland. Often billed alongside Nathan Haines. Next up: Matakana Country Park, Auckland on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Nice n Urlich is a disco and house artist based in New Zealand, with 3 gigs on s
 
 Nathan Haines
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicenurlich/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicenurlich/)*

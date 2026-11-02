@@ -1,6 +1,6 @@
 # Freshta
 
-Freshta is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Model, Nottingham on Fri, 6 Nov 2026.
+Freshta is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Model, Nottingham on Fri, 6 Nov 2026.
 
 Freshta is a garage and bass artist based in United Kingdom, with 50 gigs on soundcheck across Adelaide, Barcelona, Birmingham and Brisbane and 14 more. Often billed alongside Capo Lee, Izco and Lady Passion. Next up: The Model, Nottingham on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Freshta is a garage and bass artist based in United Kingdom, with 50 gigs on sou
 
 Capo Lee, Izco, Lady Passion
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freshta/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freshta/)*

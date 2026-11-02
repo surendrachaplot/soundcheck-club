@@ -1,6 +1,6 @@
 # DJ CLENT 'THE LOWEND LEGEND' in TOKYO at Toranoko Shokudo
 
-DJ CLENT 'THE LOWEND LEGEND' in TOKYO at Toranoko Shokudo on Sat 7 Nov, Tokyo. 4 artists: HIBI BLISS, moemiki, v.o.c tokyo and Yamato. Footwork and Ghetto Tech. See the line-up on soundcheck.
+DJ CLENT 'THE LOWEND LEGEND' in TOKYO at Toranoko Shokudo on Sat 7 Nov, Tokyo. 7 artists: ANiIIIIiiiKii, DJ Clent, HIBI BLISS and moemiki and 3 more. Footwork and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,11 @@ DJ CLENT 'THE LOWEND LEGEND' in TOKYO at Toranoko Shokudo on Sat 7 Nov, Tokyo. 4
 
 ## Line-up
 
+- ANiIIIIiiiKii
+- DJ Clent
 - HIBI BLISS
 - moemiki
+- Pharakami Sanders
 - v.o.c tokyo
 - Yamato
 

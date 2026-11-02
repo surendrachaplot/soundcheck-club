@@ -1,6 +1,6 @@
 # SAIDAH
 
-SAIDAH is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+SAIDAH is a House and Garage artist with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 SAIDAH is a house and garage artist based in Netherlands, with 126 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 24 more. Often billed alongside Diffrent, Benwal and Sam Alfred. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ SAIDAH is a house and garage artist based in Netherlands, with 126 gigs on sound
 
 Diffrent, Benwal, Sam Alfred
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saidah/)*

@@ -1,6 +1,6 @@
 # Nancy Dru
 
-Nancy Dru is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Secret Location, Vancouver on Sat, 14 Nov 2026.
+Nancy Dru is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location, Vancouver on Sat, 14 Nov 2026.
 
 Nancy Dru is a techno and house artist based in Canada, with 29 gigs on soundcheck across Vancouver. Often billed alongside DJ Hockey, Abasi and DK PAU. Next up: TBA - Secret Location, Vancouver on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Nancy Dru is a techno and house artist based in Canada, with 29 gigs on soundche
 
 DJ Hockey, Abasi, DK PAU
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nancydru/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nancydru/)*

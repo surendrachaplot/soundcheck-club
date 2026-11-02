@@ -1,6 +1,6 @@
 # VEGANICECREAM
 
-VEGANICECREAM is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+VEGANICECREAM is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 VEGANICECREAM is a techno and tech house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside EVYA, jaynetics and Ankit. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ VEGANICECREAM is a techno and tech house artist based in Germany, with 8 gigs on
 
 EVYA, jaynetics, Ankit
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veganicecream/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veganicecream/)*

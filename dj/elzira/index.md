@@ -1,6 +1,6 @@
 # ELZIRA
 
-ELZIRA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Void Club, Berlin on Fri, 6 Nov 2026.
+ELZIRA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Void Club, Berlin on Fri, 6 Nov 2026.
 
 ELZIRA is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Akustikzz, Alex Friday and Brizze. Next up: Void Club, Berlin on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ ELZIRA is a techno and trance artist based in Germany, with 3 gigs on soundcheck
 
 Akustikzz, Alex Friday, Brizze
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elzira/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elzira/)*

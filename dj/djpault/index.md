@@ -1,8 +1,8 @@
 # DJ Paul T
 
-DJ Paul T is a Post-Punk and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Nikki Lopez, Philadelphia on Sat, 21 Nov 2026.
+DJ Paul T is a Post-Punk and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Nikki Lopez, Philadelphia on Sat, 21 Nov 2026.
 
-DJ Paul T is a post-punk and industrial artist, with 9 gigs on soundcheck across Philadelphia. Often billed alongside Kontravoid. Next up: Nikki Lopez, Philadelphia on Sat 21 Nov.
+DJ Paul T is a post-punk and industrial artist based in United States of America, with 9 gigs on soundcheck across Philadelphia. Often billed alongside Kontravoid. Next up: Nikki Lopez, Philadelphia on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Paul T is a post-punk and industrial artist, with 9 gigs on soundcheck across
 
 Kontravoid
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpault/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpault/)*

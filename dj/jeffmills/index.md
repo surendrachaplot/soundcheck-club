@@ -1,14 +1,13 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sophie Festival, Malaga on Sun, 1 Nov 2026.
+Jeff Mills is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Plaza Mayor Medellin, Medellin on Sat, 14 Nov 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 71 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Sophie Festival, Malaga on Sun 1 Nov.
+Jeff Mills is a techno and house artist based in United States of America, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 71 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Plaza Mayor Medellin, Medellin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Sophie Festival | Malaga |
 | Sat, 14 Nov 2026 | Plaza Mayor Medellin | Medellin |
 | Fri, 20 Nov 2026 | Basel Venue | Santiago |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
@@ -21,6 +20,7 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 ## Recently played
 
+- Sophie Festival, Malaga · Sun, 1 Nov 2026
 - Mondo Open Air, Madrid · Sat, 31 Oct 2026
 - Moog Club, Barcelona · Wed, 28 Oct 2026
 - Le Sucre, Lyon · Sun, 25 Oct 2026
@@ -28,10 +28,9 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 - WestWeelde, Amsterdam · Fri, 23 Oct 2026
 - Saline Royale D'arc-et-Senans (25 Doubs), Lyon · Sun, 11 Oct 2026
 - Complejo Embrujo, South · Sat, 3 Oct 2026
-- Complejo Embrujo, South · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

@@ -1,6 +1,6 @@
 # DJ HEADTORCH
 
-DJ HEADTORCH is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at XLR, Manchester on Sat, 5 Dec 2026.
+DJ HEADTORCH is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at XLR, Manchester on Sat, 5 Dec 2026.
 
 DJ HEADTORCH is a trance and techno artist, with 3 gigs on soundcheck across Manchester. Often billed alongside Alex Moore, GSpot and Jumbled. Next up: XLR, Manchester on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ DJ HEADTORCH is a trance and techno artist, with 3 gigs on soundcheck across Man
 
 Alex Moore, GSpot, Jumbled
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djheadtorch/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djheadtorch/)*

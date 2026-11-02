@@ -1,6 +1,6 @@
 # Saadoon
 
-Saadoon is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Saadoon is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Saadoon is an electronic artist, with 3 gigs on soundcheck across London, Tunisia and Vienna. Often billed alongside Cheb Mimo, Adema and Alexander Skancke. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ Saadoon is an electronic artist, with 3 gigs on soundcheck across London, Tunisi
 
 Cheb Mimo, Adema, Alexander Skancke
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saadoon/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saadoon/)*

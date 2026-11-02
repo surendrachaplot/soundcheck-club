@@ -1,14 +1,13 @@
 # Hernan Cattaneo
 
-Hernan Cattaneo is a Progressive House and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sala Urbana, Mexico City on Sat, 31 Oct 2026.
+Hernan Cattaneo is a Progressive House and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Joule, Osaka on Fri, 6 Nov 2026.
 
-Hernan Cattaneo is a progressive house and house artist based in Argentina, with 152 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Sala Urbana, Mexico City on Sat 31 Oct.
+Hernan Cattaneo is a progressive house and house artist based in Argentina, with 152 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 33 more. Often billed alongside Nick Warren, Graziano Raffa and Simply City. Next up: Joule, Osaka on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Sala Urbana | Mexico City |
 | Fri, 6 Nov 2026 | Joule | Osaka |
 | Sat, 7 Nov 2026 | WOMB | Tokyo |
 | Fri, 20 Nov 2026 | TBA - Surreal Park, Camboriú | Brazil |
@@ -30,4 +29,4 @@ Hernan Cattaneo is a progressive house and house artist based in Argentina, with
 
 Nick Warren, Graziano Raffa, Simply City
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hernancattaneo/)*

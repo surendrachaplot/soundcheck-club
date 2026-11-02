@@ -1,14 +1,13 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 25 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Jungle Splash Promotions presents Aba Shanti I" on Sun, 1 Nov 2026.
+Colour Factory is a music venue in London with 24 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Labyrinth presents: J Gadget - Groove with Gadget" on Fri, 6 Nov 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including 3MR., Aeroplane, Alexander Robotnick and Alex Metric and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including 3MR., Aeroplane, Alexander Robotnick and Alex Metric and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Jungle Splash Promotions presents Aba Shanti I |  |
 | Fri, 6 Nov 2026 | Labyrinth presents: J Gadget - Groove with Gadget |  |
 | Sat, 7 Nov 2026 | Fever 105: Breakbot, Alexander Robotnick, System Olympia, Theon Bower, Metroplane + more | Aeroplane, Alex Metric, Alexander Robotnick, Breakbot, System Olympia, Theon Bower |
 | Fri, 13 Nov 2026 | Origins: DJ Assault + more TBA | DJ Assault |
@@ -18,9 +17,10 @@ Colour Factory is a music venue in London listed on soundcheck. 25 upcoming gigs
 | Sat, 14 Nov 2026 | plentyppl: A Day with Maurice Fulton | CasuallyClued, Marvin Jupiter, Maurice Fulton |
 | Fri, 20 Nov 2026 | London Jazz Fest Afterparty with Summer Pearl, Marla Kether (DJ), Shortlist Sound | Marla Kether |
 | Fri, 20 Nov 2026 | Bella Claxton + LAMMER + Tjade | Bella Claxton, LAMMER, Tjade |
+| Sat, 21 Nov 2026 | Origins x CF: Free Rave: House Techno Trance | ØTTA |
 
 ## Address
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

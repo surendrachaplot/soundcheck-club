@@ -1,8 +1,8 @@
 # Kim Dürbeck
 
-Kim Dürbeck is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bassiani, Tbilisi on Sat, 14 Nov 2026.
+Kim Dürbeck is a Breakbeat and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bassiani, Tbilisi on Sat, 14 Nov 2026.
 
-Kim Dürbeck is a breakbeat and jungle artist, with 9 gigs on soundcheck across Bergen, Oslo, Rotterdam and Tbilisi. Often billed alongside Patås, Larus Sigurvin and Bjørn Torske. Next up: Bassiani, Tbilisi on Sat 14 Nov.
+Kim Dürbeck is a breakbeat and jungle artist based in Norway, with 9 gigs on soundcheck across Bergen, Oslo, Rotterdam and Tbilisi. Often billed alongside Patås, Larus Sigurvin and Bjørn Torske. Next up: Bassiani, Tbilisi on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Kim Dürbeck is a breakbeat and jungle artist, with 9 gigs on soundcheck across 
 
 Patås, Larus Sigurvin, Bjørn Torske
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimdurbeck/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimdurbeck/)*

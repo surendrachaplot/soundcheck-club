@@ -1,6 +1,6 @@
 # Picca & Mars
 
-Picca & Mars is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 28 Nov 2026.
+Picca & Mars is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 28 Nov 2026.
 
 Picca & Mars are a house duo, with 2 gigs on soundcheck across Barcelona and Rome. Often billed alongside Kitty Amor, Marcel BS and Overgivelse. Next up: BORIS CLUB, Barcelona on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Picca & Mars are a house duo, with 2 gigs on soundcheck across Barcelona and Rom
 
 Kitty Amor, Marcel BS, Overgivelse
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piccamars/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piccamars/)*

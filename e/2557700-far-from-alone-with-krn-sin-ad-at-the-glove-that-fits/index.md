@@ -1,6 +1,6 @@
 # Far From Alone with KRN & Sinéad at The Glove That Fits
 
-Far From Alone with KRN & Sinéad at The Glove That Fits on Sat 14 Nov, London. 4 artists: fae (UK), Jefferson King, Markozonio and Sinéad. House and Deep House. See the line-up on soundcheck.
+Far From Alone with KRN & Sinéad at The Glove That Fits on Sat 14 Nov, London. 5 artists: fae (UK), Jefferson King, KRN and Markozonio and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Far From Alone with KRN & Sinéad at The Glove That Fits on Sat 14 Nov, London. 
 
 - fae (UK)
 - Jefferson King
+- KRN
 - Markozonio
 - Sinéad
 

@@ -1,6 +1,6 @@
 # Kirk (US)
 
-Kirk (US) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 7 Nov 2026.
+Kirk (US) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 7 Nov 2026.
 
 Kirk (US) is a techno and club artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Chicago, Cologne and Frankfurt and 9 more. Often billed alongside HOTPRETTY, Ariel Zetina and BLACKCLUB. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Kirk (US) is a techno and club artist based in United States of America, with 72
 
 HOTPRETTY, Ariel Zetina, BLACKCLUB
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirk-us/)*

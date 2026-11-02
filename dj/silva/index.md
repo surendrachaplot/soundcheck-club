@@ -1,8 +1,8 @@
 # Silva
 
-Silva is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Viuz, Medellin on Mon, 2 Nov 2026.
+Silva is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Viuz, Medellin on Mon, 2 Nov 2026.
 
-Silva is a tech house and house artist, with 12 gigs on soundcheck across Madrid and Medellin. Often billed alongside BENGALA, Donkker and Flaco Bengala. Next up: Viuz, Medellin on Mon 2 Nov.
+Silva is a tech house and house artist based in Spain, with 12 gigs on soundcheck across Madrid and Medellin. Often billed alongside BENGALA, Donkker and Flaco Bengala. Next up: Viuz, Medellin on Mon 2 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Silva is a tech house and house artist, with 12 gigs on soundcheck across Madrid
 
 BENGALA, Donkker, Flaco Bengala
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silva/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silva/)*

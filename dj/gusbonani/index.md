@@ -1,6 +1,6 @@
 # Gus Bonani
 
-Gus Bonani is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Melt Underground, Buenos Aires on Thu, 19 Nov 2026.
+Gus Bonani is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Melt Underground, Buenos Aires on Thu, 19 Nov 2026.
 
 Gus Bonani is a house and electronica artist, with 4 gigs on soundcheck across Buenos Aires. Often billed alongside Diego Ro-k, Guile and KARBONI. Next up: Melt Underground, Buenos Aires on Thu 19 Nov.
 
@@ -20,4 +20,4 @@ Gus Bonani is a house and electronica artist, with 4 gigs on soundcheck across B
 
 Diego Ro-k, Guile, KARBONI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gusbonani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gusbonani/)*

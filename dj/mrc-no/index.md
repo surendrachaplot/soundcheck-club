@@ -1,8 +1,8 @@
 # M:RC
 
-M:RC is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Valsemøllen, Bergen on Sat, 12 Dec 2026.
+M:RC is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Valsemøllen, Bergen on Sat, 12 Dec 2026.
 
-M:RC is a techno and trance artist, with 7 gigs on soundcheck across Bergen and Budapest. Often billed alongside BREIAL, Afem Syko and Azzurro. Next up: Valsemøllen, Bergen on Sat 12 Dec.
+M:RC is a techno and trance artist based in Norway, with 7 gigs on soundcheck across Bergen and Budapest. Often billed alongside BREIAL, Afem Syko and Azzurro. Next up: Valsemøllen, Bergen on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ M:RC is a techno and trance artist, with 7 gigs on soundcheck across Bergen and 
 
 BREIAL, Afem Syko, Azzurro
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrc-no/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrc-no/)*

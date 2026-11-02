@@ -1,8 +1,8 @@
 # Darren Styles
 
-Darren Styles is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Phantom, Paris, Paris on Sat, 7 Nov 2026.
+Darren Styles is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Phantom, Paris, Paris on Sat, 7 Nov 2026.
 
-Darren Styles is a hardcore and techno artist based in United Kingdom, with 25 gigs on soundcheck across Aberdeen, Birmingham, Brighton and Edinburgh and 11 more. Often billed alongside Hixxy, Coone and Gammer. Next up: Phantom, Paris, Paris on Sat 7 Nov.
+Darren Styles is a techno and hardcore artist based in United Kingdom, with 26 gigs on soundcheck across Aberdeen, Birmingham, Brighton and Edinburgh and 12 more. Often billed alongside Hixxy, Coone and Gammer. Next up: Phantom, Paris, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Darren Styles is a hardcore and techno artist based in United Kingdom, with 25 g
 | Sat, 7 Nov 2026 | Phantom, Paris | Paris |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 12 Dec 2026 | SWG3 | Glasgow |
+| Sat, 30 Jan 2027 | TBA - Genting, Malaysia | Kuala Lumpur |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Darren Styles is a hardcore and techno artist based in United Kingdom, with 25 g
 
 Hixxy, Coone, Gammer
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenstyles/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenstyles/)*

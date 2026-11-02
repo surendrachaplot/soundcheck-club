@@ -1,8 +1,8 @@
 # filapa
 
-filapa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at WDM, Hannover on Fri, 27 Nov 2026.
+filapa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at WDM, Hannover on Fri, 27 Nov 2026.
 
-filapa is a techno and trance artist, with 16 gigs on soundcheck across Berlin and Hannover. Often billed alongside Aztronom, 80HD and J-DEK. Next up: WDM, Hannover on Fri 27 Nov.
+filapa is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Berlin and Hannover. Often billed alongside Aztronom, 80HD and J-DEK. Next up: WDM, Hannover on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ filapa is a techno and trance artist, with 16 gigs on soundcheck across Berlin a
 
 Aztronom, 80HD, J-DEK
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filapa/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filapa/)*

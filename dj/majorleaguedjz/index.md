@@ -1,6 +1,6 @@
 # Major League Djz
 
-Major League Djz is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Grand Boston, Boston on Fri, 6 Nov 2026.
+Major League Djz is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Grand Boston, Boston on Fri, 6 Nov 2026.
 
 Major League Djz is an afro house and house artist based in South Africa, with 114 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 34 more. Often billed alongside Honey Dijon, DJ Tennis and Kitty Amor. Next up: The Grand Boston, Boston on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Major League Djz is an afro house and house artist based in South Africa, with 1
 
 Honey Dijon, DJ Tennis, Kitty Amor
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majorleaguedjz/)*

@@ -1,6 +1,6 @@
 # Nora Pagu
 
-Nora Pagu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Blå, Oslo on Sat, 7 Nov 2026.
+Nora Pagu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Blå, Oslo on Sat, 7 Nov 2026.
 
 Nora Pagu is a techno and house artist based in Norway, with 4 gigs on soundcheck across Oslo. Often billed alongside Arsenal Mikebe, DIY and DJ Valencya. Next up: Blå, Oslo on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Nora Pagu is a techno and house artist based in Norway, with 4 gigs on soundchec
 
 Arsenal Mikebe, DIY, DJ Valencya
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norapagu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norapagu/)*

@@ -1,6 +1,6 @@
 # Ghedi
 
-Ghedi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
+Ghedi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Beneath the Baobabs, Kenya on Wed, 30 Dec 2026.
 
 Ghedi is a techno and house artist, with 3 gigs on soundcheck across Berlin, Kenya and Los Angeles. Often billed alongside !Sooks, AMÉMÉ and BBYY. Next up: Beneath the Baobabs, Kenya on Wed 30 Dec.
 
@@ -19,4 +19,4 @@ Ghedi is a techno and house artist, with 3 gigs on soundcheck across Berlin, Ken
 
 !Sooks, AMÉMÉ, BBYY
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghedi/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghedi/)*

@@ -1,6 +1,6 @@
 # Mihael
 
-Mihael is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Kult, Belgrade on Fri, 6 Nov 2026.
+Mihael is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kult, Belgrade on Fri, 6 Nov 2026.
 
 Mihael is a house and tech house artist, with 3 gigs on soundcheck across Belgrade, New York City and Zurich. Often billed alongside Alci, Aline (CH) and Darelectric. Next up: Kult, Belgrade on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Mihael is a house and tech house artist, with 3 gigs on soundcheck across Belgra
 
 Alci, Aline (CH), Darelectric
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihael/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihael/)*

@@ -1,6 +1,6 @@
 # 480P (US)
 
-480P (US) is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
+480P (US) is a IDM and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
 
 480P (US) is an idm and electronica artist based in United States of America, with 2 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Héloïse, Bjørn and DJ CZ. Next up: Underground SF, San Francisco/Oakland on Fri 18 Dec.
 
@@ -18,4 +18,4 @@
 
 Héloïse, Bjørn, DJ CZ
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/480p/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/480p/)*

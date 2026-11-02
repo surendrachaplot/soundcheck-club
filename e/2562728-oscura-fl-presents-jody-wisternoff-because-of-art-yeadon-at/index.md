@@ -1,6 +1,6 @@
 # OSCURA FL presents Jody Wisternoff, Because of Art & Yeadon at Archive
 
-OSCURA FL presents Jody Wisternoff, Because of Art & Yeadon at Archive on Sat 30 Jan, Leeds. 5 artists: Because of Art, Jody Wisternoff, Lainey and SOBAH and 1 more. See the line-up on soundcheck.
+OSCURA FL presents Jody Wisternoff, Because of Art & Yeadon at Archive on Sat 30 Jan, Leeds. 5 artists: Because of Art, Jody Wisternoff, Lainey and SOBAH and 1 more. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

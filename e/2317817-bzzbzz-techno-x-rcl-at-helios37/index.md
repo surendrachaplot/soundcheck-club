@@ -1,6 +1,6 @@
 # BZZBZZ TECHNO x RCL at Helios37
 
-BZZBZZ TECHNO x RCL at Helios37 on Sat 30 Jan, Cologne. 6 artists: flotti kotti, HENNESY, Pamela Rave and SCHMALLE and 2 more. See the line-up on soundcheck.
+BZZBZZ TECHNO x RCL at Helios37 on Sat 30 Jan, Cologne. 6 artists: flotti kotti, HENNESY, Pamela Rave and SCHMALLE and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

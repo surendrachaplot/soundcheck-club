@@ -1,6 +1,6 @@
 # Eastern Bloc Records
 
-Eastern Bloc Records is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Bussdown" on Thu, 5 Nov 2026.
+Eastern Bloc Records is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Bussdown" on Thu, 5 Nov 2026.
 
 Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including AdomasLP, Balrog, BinaryFunction and Campbell and 2 more. See dates, start times and who's playing. 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN.
 
@@ -23,4 +23,4 @@ Eastern Bloc Records is a music venue in Manchester listed on soundcheck. 13 upc
 
 5a Stevenson Square, Northern Quarter, Manchester, M1 1DN, Manchester
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/eastern-bloc-records/)*

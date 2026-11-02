@@ -1,8 +1,8 @@
 # Lainey
 
-Lainey is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Archive, Leeds on Sat, 30 Jan 2027.
+Lainey is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Archive, Leeds on Sat, 30 Jan 2027.
 
-Lainey is a trance and progressive house artist, with 7 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside r4csco, Gaz Rowland and Resz. Next up: Archive, Leeds on Sat 30 Jan.
+Lainey is a progressive house and trance artist, with 7 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside r4csco, Gaz Rowland and Resz. Next up: Archive, Leeds on Sat 30 Jan.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Lainey is a trance and progressive house artist, with 7 gigs on soundcheck acros
 
 r4csco, Gaz Rowland, Resz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lainey/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lainey/)*

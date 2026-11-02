@@ -1,6 +1,6 @@
 # Thomas Hammann
 
-Thomas Hammann is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Sat, 28 Nov 2026.
+Thomas Hammann is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Sat, 28 Nov 2026.
 
 Thomas Hammann is a house and deep house artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Berlin, Darmstadt and Frankfurt and 2 more. Often billed alongside Phonk D, Gerd Janson and Robert Drewek. Next up: Galerie Kurzweil, Darmstadt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Thomas Hammann is a house and deep house artist based in Germany, with 18 gigs o
 
 Phonk D, Gerd Janson, Robert Drewek
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashammann/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomashammann/)*

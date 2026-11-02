@@ -1,14 +1,13 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Somewhen is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Docks, Hamburg on Fri, 6 Nov 2026.
 
-Somewhen is a techno and trance artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 72 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Factory Town, Miami on Fri 30 Oct.
+Somewhen is a techno and trance artist based in Germany, with 260 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 72 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Docks, Hamburg on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
 | Fri, 6 Nov 2026 | Docks | Hamburg |
 | Fri, 13 Nov 2026 | Smolna | Warsaw |
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
@@ -32,4 +31,4 @@ Somewhen is a techno and trance artist based in Germany, with 260 gigs on soundc
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

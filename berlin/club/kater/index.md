@@ -1,14 +1,13 @@
 # Kater
 
-Kater is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "FOREVER 25 curated by Mila Stern & Esther Silex" on Fri, 30 Oct 2026.
+Kater is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Kater x WARNING (Weekender Part 1)" on Fri, 6 Nov 2026.
 
-Kater is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Aio and Alison Swing and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
+Kater is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including AALIYAH, Adri Tüde, Aio and Alison Swing and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | FOREVER 25 curated by Mila Stern & Esther Silex | Arkadiusz Dmytrow, Ata, BODYSHIFT, Barbara Preisinger, Carlotta Jacobi, Carmelina, Corios, Doudou MD, Esther Silex, Franca, Habikat, Jennifer Touch, Josiane, KC Wray, Kenny Larkin, Maria Theresia von Eberg, Marta Aurelia, Mila Stern, Moderna, Neu-Romancer, Peter Invasion, Power Squad, Sexy Lazer, Stella Zekri, UFO Space, Vitaly, francesca (DE), karete bu, zhart (BeYond) |
 | Fri, 6 Nov 2026 | Kater x WARNING (Weekender Part 1) | Audio Werner, DJ ZBB, David Delgado, Elena Bi, Foolik, Königsmann, The Pushamann, Trancesetters of Westphalia |
 | Sat, 7 Nov 2026 | ON! Voyage durch Neustockland (Weekender Part 2) | AALIYAH, ATTA (GER), Adri Tüde, Baerbel, JUSTICE (DE), Jama, Joma Beton, Just Emma, Notes & Digits, Susi&Paula, The Bille, Tom Eichhagen, VIVI (DE), diladï |
 | Thu, 12 Nov 2026 | Hot Mess with eveava | eveava |
@@ -18,9 +17,10 @@ Kater is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with li
 | Fri, 20 Nov 2026 | Mystic Creatures | Aio, Bonnie Spacey, Elias Goldmund, HOVR, Horst Haller, Just Emma, Konfusia, Maurice Mino, Naicet, Nina Hepburn, R3NATA, Taberia |
 | Sat, 21 Nov 2026 | Katernacht with Per Hammar, Alison Swing, Phonk D + more | Alison Swing, GTI, Hanna Baertig, Kotelett, Per Hammar, Phonk D, Reza Jalilian, Robin Flux, Snow (DE), Ventura, Vero Standke |
 | Fri, 27 Nov 2026 | NEST with Mood II Swing, Gallegos, Sherø + more | Bézier, Esther Dune, Evan Tail, Gallegos, Mood II Swing, Qualia Trax, Sherø |
+| Sat, 28 Nov 2026 | 49 Katzen... tanzen auf'm Tisch |  |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

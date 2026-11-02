@@ -1,6 +1,6 @@
 # Cem Orlow
 
-Cem Orlow is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Kleinerts Kleine Klause, Berlin on Sat, 7 Nov 2026.
+Cem Orlow is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kleinerts Kleine Klause, Berlin on Sat, 7 Nov 2026.
 
 Cem Orlow is a house and electro artist based in Germany, with 14 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Lcaise, RAFAELO and massivedj. Next up: Kleinerts Kleine Klause, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Cem Orlow is a house and electro artist based in Germany, with 14 gigs on soundc
 
 Lcaise, RAFAELO, massivedj
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cemorlow/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cemorlow/)*

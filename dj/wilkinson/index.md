@@ -1,6 +1,6 @@
 # Wilkinson
 
-Wilkinson is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Wilkinson is a Drum & Bass and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Wilkinson is a drum & bass and bass artist based in United Kingdom, with 87 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Kanine, Mozey and A Little Sound. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Wilkinson is a drum & bass and bass artist based in United Kingdom, with 87 gigs
 
 Kanine, Mozey, A Little Sound
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilkinson/)*

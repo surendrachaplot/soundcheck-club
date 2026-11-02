@@ -1,6 +1,6 @@
 # DJ Hitwave
 
-DJ Hitwave is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+DJ Hitwave is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 DJ Hitwave is a techno and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Dr.Waumiau, Karolanne and VEGANICECREAM. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ DJ Hitwave is a techno and tech house artist based in Germany, with 7 gigs on so
 
 Dr.Waumiau, Karolanne, VEGANICECREAM
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhitwave/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhitwave/)*

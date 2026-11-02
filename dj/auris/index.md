@@ -1,8 +1,8 @@
 # Auris
 
-Auris is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Klokgebouw, Eindhoven on Sun, 27 Dec 2026.
+Auris is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Klokgebouw, Eindhoven on Sun, 27 Dec 2026.
 
-Auris is a drum & bass artist, with 7 gigs on soundcheck across Amsterdam, Antwerp, Eindhoven and Rotterdam and 1 more. Often billed alongside Fox Stevenson, Hiraeth and MOTA. Next up: Klokgebouw, Eindhoven on Sun 27 Dec.
+Auris is a drum & bass artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Antwerp, Eindhoven and Rotterdam and 1 more. Often billed alongside Fox Stevenson, Hiraeth and MOTA. Next up: Klokgebouw, Eindhoven on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Auris is a drum & bass artist, with 7 gigs on soundcheck across Amsterdam, Antwe
 
 Fox Stevenson, Hiraeth, MOTA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auris/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auris/)*

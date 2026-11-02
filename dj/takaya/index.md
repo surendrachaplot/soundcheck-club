@@ -1,6 +1,6 @@
 # Takaya
 
-Takaya is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 21 Nov 2026.
+Takaya is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 21 Nov 2026.
 
 Takaya is a jazz and house artist based in Japan, with 5 gigs on soundcheck across Mexico City, Osaka and Tokyo. Often billed alongside BNN WKND, CLESENT and Carlos Pocz. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Takaya is a jazz and house artist based in Japan, with 5 gigs on soundcheck acro
 
 BNN WKND, CLESENT, Carlos Pocz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaya/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaya/)*

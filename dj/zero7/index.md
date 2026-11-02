@@ -1,8 +1,8 @@
 # Zero 7
 
-Zero 7 is a Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Zero 7 is a Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
-Zero 7 is a disco artist, with 8 gigs on soundcheck across Bristol, Dublin, Ibiza and Iceland and 3 more. Often billed alongside Dave Clarke, Nick Warren and berlioz. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
+Zero 7 is a disco artist based in United Kingdom, with 8 gigs on soundcheck across Bristol, Dublin, Ibiza and Iceland and 3 more. Often billed alongside Dave Clarke, Nick Warren and berlioz. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Zero 7 is a disco artist, with 8 gigs on soundcheck across Bristol, Dublin, Ibiz
 
 Dave Clarke, Nick Warren, berlioz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zero7/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zero7/)*

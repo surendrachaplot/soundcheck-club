@@ -1,6 +1,6 @@
 # fleika
 
-fleika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
+fleika is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
 
 fleika is a techno and house artist based in Czech Republic, with 94 gigs on soundcheck across Athens, Berlin, Bratislava and Hong Kong and 12 more. Often billed alongside Marie Pravda, Pink Concrete and Axis Alpha. Next up: Stadion Strahov, Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ fleika is a techno and house artist based in Czech Republic, with 94 gigs on sou
 
 Marie Pravda, Pink Concrete, Axis Alpha
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fleika/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fleika/)*

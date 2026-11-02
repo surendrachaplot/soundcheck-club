@@ -1,14 +1,13 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Nørbak is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Pandora Sevilla, South on Fri, 6 Nov 2026.
 
-Nørbak is a techno and house artist based in Portugal, with 165 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
+Nørbak is a techno and house artist based in Portugal, with 165 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Pandora Sevilla, South on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Pandora Sevilla | South |
 | Sat, 14 Nov 2026 | Liquid Club | Malta |
 | Sat, 21 Nov 2026 | Lux Fragil | Lisbon |
@@ -30,4 +29,4 @@ Nørbak is a techno and house artist based in Portugal, with 165 gigs on soundch
 
 Temudo, Quelza, CRAVO
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/norbak/)*

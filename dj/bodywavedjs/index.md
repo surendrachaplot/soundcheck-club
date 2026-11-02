@@ -1,6 +1,6 @@
 # Body Wave DJs
 
-Body Wave DJs is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 28 Nov 2026.
+Body Wave DJs is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 28 Nov 2026.
 
 Body Wave DJs is a house and acid artist based in United States of America, with 3 gigs on soundcheck across Los Angeles. Often billed alongside AIRS, Alex Ho (US) and Chase Aldridge. Next up: TBA - Los Angeles, Los Angeles on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Body Wave DJs is a house and acid artist based in United States of America, with
 
 AIRS, Alex Ho (US), Chase Aldridge
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodywavedjs/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bodywavedjs/)*

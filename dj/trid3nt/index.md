@@ -1,6 +1,6 @@
 # TRID3NT
 
-TRID3NT is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
+TRID3NT is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 27 Nov 2026.
 
 TRID3NT is a techno and club artist based in Japan, with 6 gigs on soundcheck across Tokyo. Often billed alongside RYO2, Carpainter and HATSUYUKI. Next up: ZEROTOKYO, Tokyo on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ TRID3NT is a techno and club artist based in Japan, with 6 gigs on soundcheck ac
 
 RYO2, Carpainter, HATSUYUKI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trid3nt/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trid3nt/)*

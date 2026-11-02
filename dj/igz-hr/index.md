@@ -1,6 +1,6 @@
 # IGZ (HR)
 
-IGZ (HR) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
+IGZ (HR) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
 
 IGZ (HR) is a house and tech house artist based in Croatia, with 27 gigs on soundcheck across Croatia, London and Zagreb. Often billed alongside bubble o, Dav and Tim Kern. Next up: The Carpet Shop, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ IGZ (HR) is a house and tech house artist based in Croatia, with 27 gigs on soun
 
 bubble o, Dav, Tim Kern
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igz-hr/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igz-hr/)*

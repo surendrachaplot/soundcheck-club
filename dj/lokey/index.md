@@ -1,6 +1,6 @@
 # Lokey
 
-Lokey is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
+Lokey is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
 
 Lokey is an experimental and electronica artist based in Canada, with 9 gigs on soundcheck across London, Paris and Stockholm. Often billed alongside sean pain, Josephine Moriko and Capricorn. Next up: Fylkingen, Stockholm on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lokey is an experimental and electronica artist based in Canada, with 9 gigs on 
 
 sean pain, Josephine Moriko, Capricorn
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokey/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lokey/)*

@@ -1,8 +1,8 @@
 # FRVNCCSCV
 
-FRVNCCSCV is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Club 1, Santiago on Thu, 19 Nov 2026.
+FRVNCCSCV is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Club 1, Santiago on Thu, 19 Nov 2026.
 
-FRVNCCSCV is a techno and electronica artist, with 26 gigs on soundcheck across Buenos Aires and Santiago. Often billed alongside NPLNSSS, DUPØUY and Daniela Fuzz. Next up: Club 1, Santiago on Thu 19 Nov.
+FRVNCCSCV is a techno and electronica artist based in Chile, with 26 gigs on soundcheck across Buenos Aires and Santiago. Often billed alongside NPLNSSS, DUPØUY and Daniela Fuzz. Next up: Club 1, Santiago on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ FRVNCCSCV is a techno and electronica artist, with 26 gigs on soundcheck across 
 
 NPLNSSS, DUPØUY, Daniela Fuzz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frvnccscv/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frvnccscv/)*

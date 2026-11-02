@@ -1,14 +1,13 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Cup Sunday at Glam feat. Baby Bangs + Open Decks Showcase" on Sun, 1 Nov 2026.
+Glamorama is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "PTD Records presents: Benjamin at Glamorama (Cup Monday)" on Mon, 2 Nov 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Acid Jacks, BETHANY, Body Clinic and CHARBINKS and 2 more. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Acid Jacks, BETHANY, Body Clinic and CHARBINKS and 2 more. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Cup Sunday at Glam feat. Baby Bangs + Open Decks Showcase | David James (Afters) |
 | Mon, 2 Nov 2026 | PTD Records presents: Benjamin at Glamorama (Cup Monday) | BETHANY (1), DJ Jessy |
 | Fri, 6 Nov 2026 | Interval - Body Clinic [IE] (3 Hours) + Friend Of A Friend | Body Clinic, FriendofaFriend |
 | Sat, 7 Nov 2026 | clipp.art presents Never Dull [USA] | Acid Jacks, CHARBINKS, Jooki, Never Dull |
@@ -19,4 +18,4 @@ Glamorama is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, w
 
 393 Brunswick street, Fitzroy, Victoria 3065, Melbourne
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/glamorama/)*

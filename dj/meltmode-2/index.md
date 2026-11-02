@@ -1,0 +1,28 @@
+# Meltmode (2)
+
+Meltmode (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
+
+Meltmode is a house and tech house artist based in Thailand, with 43 gigs on soundcheck across Bali, Bangkok, Ibiza and Kuala Lumpur and 5 more. Often billed alongside Wildealer, Tissanai and DOTT. Next up: TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | TBA - Woowon, Bangsaen, Chonburi | Thailand |
+
+## Recently played
+
+- Æther BKK, Bangkok · Sat, 31 Oct 2026
+- Elsewhere, Bangkok · Sat, 17 Oct 2026
+- Dual, Bangkok · Sat, 3 Oct 2026
+- Dual, Bangkok · Sat, 26 Sept 2026
+- Dual, Bangkok · Sat, 26 Sept 2026
+- Bar Temp., Bangkok · Fri, 25 Sept 2026
+- Palais, London · Fri, 28 Aug 2026
+- Kelvedon Hall, London · Fri, 14 Aug 2026
+
+## Shares bills with
+
+Wildealer, Tissanai, DOTT
+
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltmode-2/)*

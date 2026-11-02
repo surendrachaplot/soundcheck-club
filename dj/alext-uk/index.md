@@ -1,6 +1,6 @@
 # Alex T (UK)
 
-Alex T (UK) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Fabrik, Madrid on Sat, 28 Nov 2026.
+Alex T (UK) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fabrik, Madrid on Sat, 28 Nov 2026.
 
 Alex T (UK) is an electronic artist based in United Kingdom, with 2 gigs on soundcheck across Madrid. Often billed alongside DJ Marta, Da Terror and Juanma (CL). Next up: Fabrik, Madrid on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Alex T (UK) is an electronic artist based in United Kingdom, with 2 gigs on soun
 
 DJ Marta, Da Terror, Juanma (CL)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alext-uk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alext-uk/)*

@@ -1,6 +1,6 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
+DJ Tjizza is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
 
 DJ Tjizza is a house and tech house artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 27 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Concrete 1994, Lebanon on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ DJ Tjizza is a house and tech house artist based in Germany, with 85 gigs on sou
 
 Helly, SHAQUE, Velasco
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtjizza/)*

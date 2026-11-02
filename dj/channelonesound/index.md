@@ -1,6 +1,6 @@
 # Channel One Sound
 
-Channel One Sound is a Dub and Bass artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Electric Studios, Sheffield on Thu, 5 Nov 2026.
+Channel One Sound is a Dub and Bass artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Electric Studios, Sheffield on Thu, 5 Nov 2026.
 
 Channel One Sound is a dub and bass artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 21 more. Often billed alongside Kahn, Breakfake and Dubkasm. Next up: Electric Studios, Sheffield on Thu 5 Nov.
 
@@ -31,4 +31,4 @@ Channel One Sound is a dub and bass artist based in United Kingdom, with 72 gigs
 
 Kahn, Breakfake, Dubkasm
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/channelonesound/)*

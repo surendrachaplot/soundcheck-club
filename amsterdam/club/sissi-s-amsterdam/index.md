@@ -1,6 +1,6 @@
 # SISSI'S Amsterdam
 
-SISSI'S Amsterdam is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Sissi's Friday w/ KUMO & Tera Kora invites King Doudou" on Fri, 6 Nov 2026.
+SISSI'S Amsterdam is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Sissi's Friday w/ KUMO & Tera Kora invites King Doudou" on Fri, 6 Nov 2026.
 
 SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Cameron Audio, mika.collage, dieglitter and Helle and 2 more. See dates, start times and who's playing. Anthony Fokkerweg 3, 1059 CM Amsterdam.
 
@@ -20,4 +20,4 @@ SISSI'S Amsterdam is a music venue in Amsterdam listed on soundcheck. 7 upcoming
 
 Anthony Fokkerweg 3, 1059 CM Amsterdam, Amsterdam
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/sissi-s-amsterdam/)*

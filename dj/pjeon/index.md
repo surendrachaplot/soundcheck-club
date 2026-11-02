@@ -1,6 +1,6 @@
 # Pjeon
 
-Pjeon is a Noise and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lovehaus, Seoul on Sat, 7 Nov 2026.
+Pjeon is a Noise and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lovehaus, Seoul on Sat, 7 Nov 2026.
 
 Pjeon is a noise and techno artist based in South Korea, with 5 gigs on soundcheck across Seoul. Often billed alongside Moon! go America, Sawteeth and ACHANORI. Next up: Lovehaus, Seoul on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Pjeon is a noise and techno artist based in South Korea, with 5 gigs on soundche
 
 Moon! go America, Sawteeth, ACHANORI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjeon/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjeon/)*

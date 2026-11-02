@@ -1,6 +1,6 @@
 # BOW (1)
 
-BOW (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Kagurane, Tokyo on Sat, 21 Nov 2026.
+BOW (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kagurane, Tokyo on Sat, 21 Nov 2026.
 
 BOW is a techno and house artist based in Japan, with 21 gigs on soundcheck across Brussels and Tokyo. Often billed alongside Sakuma, teppei and Celter. Next up: Kagurane, Tokyo on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ BOW is a techno and house artist based in Japan, with 21 gigs on soundcheck acro
 
 Sakuma, teppei, Celter
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bow-1/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bow-1/)*

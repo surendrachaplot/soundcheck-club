@@ -1,8 +1,8 @@
 # Carl Finlow
 
-Carl Finlow is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
+Carl Finlow is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cadavra, Madrid on Fri, 27 Nov 2026.
 
-Carl Finlow is an electro and techno artist based in France, with 31 gigs on soundcheck across Barcelona, Berlin, Bristol and Bucharest and 10 more. Often billed alongside Random Factor, Alien Communications and Anna Wall. Next up: Cadavra, Madrid on Fri 27 Nov.
+Carl Finlow is an electro and techno artist based in France, with 32 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 11 more. Often billed alongside Random Factor, Alien Communications and Anna Wall. Next up: Cadavra, Madrid on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Carl Finlow is an electro and techno artist based in France, with 31 gigs on sou
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Cadavra | Madrid |
 | Fri, 4 Dec 2026 | Moon Club | Bristol |
+| Sat, 5 Dec 2026 | A L P H A B E T | Brighton |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Carl Finlow is an electro and techno artist based in France, with 31 gigs on sou
 
 Random Factor, Alien Communications, Anna Wall
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlfinlow/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlfinlow/)*

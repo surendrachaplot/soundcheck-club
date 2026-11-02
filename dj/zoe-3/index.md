@@ -1,8 +1,8 @@
 # Zoe (3)
 
-Zoe (3) is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Era uma vez no Porto, Porto on Sun, 8 Nov 2026.
+Zoe (3) is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Era uma vez no Porto, Porto on Sun, 8 Nov 2026.
 
-Zoe is a tech house and electro artist, with 10 gigs on soundcheck across Berlin, Frankfurt, Medellin and Porto and 2 more. Often billed alongside Astro, A.D.H.S. and A.N.I.. Next up: Era uma vez no Porto, Porto on Sun 8 Nov.
+Zoe is a tech house and electro artist based in Japan, with 10 gigs on soundcheck across Berlin, Frankfurt, Medellin and Porto and 2 more. Often billed alongside Astro, A.D.H.S. and A.N.I.. Next up: Era uma vez no Porto, Porto on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Zoe is a tech house and electro artist, with 10 gigs on soundcheck across Berlin
 
 Astro, A.D.H.S., A.N.I.
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoe-3/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoe-3/)*

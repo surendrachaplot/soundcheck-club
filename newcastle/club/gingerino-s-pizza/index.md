@@ -1,6 +1,6 @@
 # Gingerino's Pizza
 
-Gingerino's Pizza is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Public House Hifi presents Daniel Wang (Balihu Records / Berlin)" on Fri, 6 Nov 2026.
+Gingerino's Pizza is a music venue in Newcastle with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Public House Hifi presents Daniel Wang (Balihu Records / Berlin)" on Fri, 6 Nov 2026.
 
 Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 4 upcoming gigs, with line-ups including Daniel Wang, Diz Jockey, Mr Scruff and Sam Don and 1 more. See dates, start times and who's playing. 8 Stepney Bank, Newcastle upon Tyne NE1 2PW.
 
@@ -17,4 +17,4 @@ Gingerino's Pizza is a music venue in Newcastle listed on soundcheck. 4 upcoming
 
 8 Stepney Bank, Newcastle upon Tyne NE1 2PW, Newcastle
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/gingerino-s-pizza/)*

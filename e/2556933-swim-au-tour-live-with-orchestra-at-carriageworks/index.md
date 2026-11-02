@@ -1,6 +1,6 @@
 # SWIM - AU Tour (Live with Orchestra) at Carriageworks
 
-SWIM - AU Tour (Live with Orchestra) at Carriageworks on Sat 30 Jan, Sydney. 1 artist: SWIM (AU). See the line-up on soundcheck.
+SWIM - AU Tour (Live with Orchestra) at Carriageworks on Sat 30 Jan, Sydney. 1 artist: SWIM (AU). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

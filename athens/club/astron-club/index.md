@@ -1,6 +1,6 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ACN with DΛS // Re/Act // Rlct" on Fri, 6 Nov 2026.
+Astron Club is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ACN with DΛS // Re/Act // Rlct" on Fri, 6 Nov 2026.
 
 Astron Club is a music venue in Athens listed on soundcheck. 6 upcoming gigs, with line-ups including ANFS, Atypikal, BMSK and DΛS and 2 more. See dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
@@ -19,4 +19,4 @@ Astron Club is a music venue in Athens listed on soundcheck. 6 upcoming gigs, wi
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

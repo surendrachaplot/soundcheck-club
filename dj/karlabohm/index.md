@@ -1,14 +1,13 @@
 # Karla Böhm
 
-Karla Böhm is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Karla Böhm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fünk, Mexico City on Sat, 14 Nov 2026.
 
-Karla Böhm is a house and techno artist based in Belgium, with 58 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Dana Kuehr, Islas and Camiflage. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
+Karla Böhm is a house and techno artist based in Belgium, with 58 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Dana Kuehr, Islas and Camiflage. Next up: Fünk, Mexico City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 | Sat, 14 Nov 2026 | Fünk | Mexico City |
 
 ## Recently played
@@ -26,4 +25,4 @@ Karla Böhm is a house and techno artist based in Belgium, with 58 gigs on sound
 
 Dana Kuehr, Islas, Camiflage
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlabohm/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlabohm/)*

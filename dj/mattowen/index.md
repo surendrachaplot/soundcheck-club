@@ -1,8 +1,8 @@
 # Matt Owen
 
-Matt Owen is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Jacobs Basement, Cardiff on Sat, 28 Nov 2026.
+Matt Owen is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Jacobs Basement, Cardiff on Sat, 28 Nov 2026.
 
-Matt Owen is a house and garage artist, with 9 gigs on soundcheck across Cardiff. Often billed alongside Clare James, Anthea and Bushwacka!. Next up: Jacobs Basement, Cardiff on Sat 28 Nov.
+Matt Owen is a house and garage artist based in United Kingdom, with 9 gigs on soundcheck across Cardiff. Often billed alongside Clare James, Anthea and Bushwacka!. Next up: Jacobs Basement, Cardiff on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Matt Owen is a house and garage artist, with 9 gigs on soundcheck across Cardiff
 
 Clare James, Anthea, Bushwacka!
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattowen/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattowen/)*

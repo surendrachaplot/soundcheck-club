@@ -1,6 +1,6 @@
 # KT
 
-KT is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
+KT is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
 
 KT is a house and techno artist based in United Kingdom, with 132 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 28 more. Often billed alongside Papa Nugs, Darush and Alien Communications. Next up: Concrete 1994, Lebanon on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ KT is a house and techno artist based in United Kingdom, with 132 gigs on soundc
 
 Papa Nugs, Darush, Alien Communications
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/KT/)*

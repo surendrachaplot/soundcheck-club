@@ -1,8 +1,8 @@
 # Headhunters
 
-Headhunters is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
+Headhunters is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
 
-Headhunters is a house and tech house artist based in Australia, with 11 gigs on soundcheck across Adelaide, Berlin, Byron Bay and Melbourne and 2 more. Often billed alongside Guy Contact, Solar Suite and DJ Possum. Next up: Collingwood Children's Farm, Melbourne on Sat 30 Jan.
+Headhunters is a house and techno artist based in Australia, with 11 gigs on soundcheck across Adelaide, Berlin, Byron Bay and Melbourne and 2 more. Often billed alongside Guy Contact, Solar Suite and DJ Possum. Next up: Collingwood Children's Farm, Melbourne on Sat 30 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Headhunters is a house and tech house artist based in Australia, with 11 gigs on
 
 Guy Contact, Solar Suite, DJ Possum
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headhunters/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headhunters/)*

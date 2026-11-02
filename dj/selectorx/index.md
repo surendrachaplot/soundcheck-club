@@ -1,6 +1,6 @@
 # Selector X
 
-Selector X is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bangkok Island, Bangkok on Wed, 4 Nov 2026.
+Selector X is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bangkok Island, Bangkok on Wed, 4 Nov 2026.
 
 Selector X is a house and deep house artist based in United States of America, with 25 gigs on soundcheck across Bangkok, Berlin, Boston and Detroit. Often billed alongside Chris Clement, LOLAXVA and Chelita. Next up: Bangkok Island, Bangkok on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Selector X is a house and deep house artist based in United States of America, w
 
 Chris Clement, LOLAXVA, Chelita
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectorx/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectorx/)*

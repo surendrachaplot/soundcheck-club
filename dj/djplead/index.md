@@ -1,8 +1,8 @@
 # DJ Plead
 
-DJ Plead is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 4 Nov 2026.
+DJ Plead is a Techno and Bass artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location (near Frankfurter Allee), Berlin on Wed, 4 Nov 2026.
 
-DJ Plead is a techno and bass artist based in Australia, with 155 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 47 more. Often billed alongside rRoxymore, Azu Tiwaline and DJ Python. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 4 Nov.
+DJ Plead is a techno and bass artist based in Australia, with 155 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Basel and 47 more. Often billed alongside rRoxymore, Azu Tiwaline and livwutang. Next up: TBA - Secret Location (near Frankfurter Allee), Berlin on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -28,6 +28,6 @@ DJ Plead is a techno and bass artist based in Australia, with 155 gigs on soundc
 
 ## Shares bills with
 
-rRoxymore, Azu Tiwaline, DJ Python
+rRoxymore, Azu Tiwaline, livwutang
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplead/)*

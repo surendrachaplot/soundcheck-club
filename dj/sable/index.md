@@ -1,6 +1,6 @@
 # Sable
 
-Sable is a Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Nashaz, Brussels on Fri, 20 Nov 2026.
+Sable is a Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Nashaz, Brussels on Fri, 20 Nov 2026.
 
 Sable is a tech house artist, with 2 gigs on soundcheck across Brussels and Miami. Often billed alongside Joey Jax. Next up: Nashaz, Brussels on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ Sable is a tech house artist, with 2 gigs on soundcheck across Brussels and Miam
 
 Joey Jax
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sable/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sable/)*

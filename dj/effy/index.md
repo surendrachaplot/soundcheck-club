@@ -1,15 +1,13 @@
 # Effy
 
-Effy is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Effy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Pasir Panjang Power Station, Singapore on Sat, 21 Nov 2026.
 
-Effy is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Factory Town, Miami on Fri 30 Oct.
+Effy is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Mall Grab, KETTAMA and Interplanetary Criminal. Next up: Pasir Panjang Power Station, Singapore on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
-| Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
 | Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
@@ -29,4 +27,4 @@ Effy is a techno and house artist based in United Kingdom, with 136 gigs on soun
 
 Mall Grab, KETTAMA, Interplanetary Criminal
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/effy/)*

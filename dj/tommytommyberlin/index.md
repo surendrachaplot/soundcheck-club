@@ -1,14 +1,25 @@
 # TommyTommyBerlin
 
-TommyTommyBerlin is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Base Events Venue, Cyprus on Fri, 6 Aug 2027.
+TommyTommyBerlin is a Techno artist with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Berlin.Meets, Cyprus on Fri, 6 Nov 2026.
 
-TommyTommyBerlin is a techno artist based in Germany, with 3 gigs on soundcheck across Berlin and Cyprus. Often billed alongside 92Groovz, African Stevenson and AnDe Trois. Next up: Base Events Venue, Cyprus on Fri 6 Aug.
+TommyTommyBerlin is a techno artist based in Germany, with 15 gigs on soundcheck across Berlin and Cyprus. Often billed alongside Nakadia, ZweiE and 92Groovz. Next up: Berlin.Meets, Cyprus on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Aug 2027 | Base Events Venue | Cyprus |
+| Fri, 6 Nov 2026 | Berlin.Meets | Cyprus |
+| Sat, 7 Nov 2026 | Cliff Social | Cyprus |
+| Sun, 8 Nov 2026 | Ammos Beach Bar | Cyprus |
+| Fri, 27 Nov 2026 | Berlin.Meets | Cyprus |
+| Sat, 28 Nov 2026 | Sandy Beach Paphos | Cyprus |
+| Fri, 18 Dec 2026 | Berlin.Meets | Cyprus |
+| Fri, 8 Jan 2027 | Berlin.Meets | Cyprus |
+| Fri, 29 Jan 2027 | Berlin.Meets | Cyprus |
+| Fri, 19 Feb 2027 | Berlin.Meets | Cyprus |
+| Fri, 12 Mar 2027 | Berlin.Meets | Cyprus |
+| Fri, 2 Apr 2027 | Berlin.Meets | Cyprus |
+| Fri, 23 Apr 2027 | Berlin.Meets | Cyprus |
 
 ## Recently played
 
@@ -17,6 +28,6 @@ TommyTommyBerlin is a techno artist based in Germany, with 3 gigs on soundcheck 
 
 ## Shares bills with
 
-92Groovz, African Stevenson, AnDe Trois
+Nakadia, ZweiE, 92Groovz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommytommyberlin/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommytommyberlin/)*

@@ -1,6 +1,6 @@
 # Joi L.F
 
-Joi L.F is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, North on Sat, 7 Nov 2026.
+Joi L.F is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, North on Sat, 7 Nov 2026.
 
 Joi L.F is a bass and techno artist based in United Kingdom, with 5 gigs on soundcheck across North and Sheffield. Often billed alongside Ol.G, Esmé and 96 Back. Next up: TBA, North on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Joi L.F is a bass and techno artist based in United Kingdom, with 5 gigs on soun
 
 Ol.G, Esmé, 96 Back
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joil.f/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joil.f/)*

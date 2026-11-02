@@ -1,6 +1,6 @@
 # Cylon
 
-Cylon is a Hardcore and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at R Lounge, Tokyo on Sat, 7 Nov 2026.
+Cylon is a Hardcore and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at R Lounge, Tokyo on Sat, 7 Nov 2026.
 
 Cylon is a hardcore and psytrance artist based in Romania, with 3 gigs on soundcheck across Bucharest and Tokyo. Often billed alongside Dalek, Meiremax and El Jefe (RO). Next up: R Lounge, Tokyo on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Cylon is a hardcore and psytrance artist based in Romania, with 3 gigs on soundc
 
 Dalek, Meiremax, El Jefe (RO)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cylon/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cylon/)*

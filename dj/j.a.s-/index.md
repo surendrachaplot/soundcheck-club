@@ -1,8 +1,8 @@
 # J.A.S
 
-J.A.S is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sensorium, Berlin on Wed, 9 Dec 2026.
+J.A.S is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Wed, 9 Dec 2026.
 
-J.A.S is a techno and tech house artist, with 26 gigs on soundcheck across Amsterdam, Berlin and Miami. Often billed alongside Ayham, zamara and H7. Next up: Sensorium, Berlin on Wed 9 Dec.
+J.A.S is a techno and tech house artist based in Jordan, with 26 gigs on soundcheck across Amsterdam, Berlin and Miami. Often billed alongside Ayham, zamara and H7. Next up: Sensorium, Berlin on Wed 9 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ J.A.S is a techno and tech house artist, with 26 gigs on soundcheck across Amste
 
 Ayham, zamara, H7 (3)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.a.s-/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.a.s-/)*

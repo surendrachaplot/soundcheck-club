@@ -1,6 +1,6 @@
 # Gotié
 
-Gotié is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
+Gotié is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at PETER EDEL, Berlin on Fri, 6 Nov 2026.
 
 Gotié is a garage and house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside GEMO, Little Nats and Abriss Andrej. Next up: PETER EDEL, Berlin on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Gotié is a garage and house artist based in Germany, with 3 gigs on soundcheck 
 
 GEMO, Little Nats, Abriss Andrej
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gotie/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gotie/)*

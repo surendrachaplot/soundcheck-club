@@ -1,8 +1,8 @@
 # Sonnensysteme
 
-Sonnensysteme is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Sonnensysteme is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
-Sonnensysteme is a techno and house artist, with 16 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 1 more. Often billed alongside Bonnie Ford, Amnati and Anna Almani. Next up: Hoppetosse, Berlin on Fri 27 Nov.
+Sonnensysteme is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Dresden, Hamburg and Leipzig and 1 more. Often billed alongside Bonnie Ford, Amnati and Anna Almani. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sonnensysteme is a techno and house artist, with 16 gigs on soundcheck across Be
 
 Bonnie Ford, Amnati, Anna Almani
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnensysteme/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonnensysteme/)*

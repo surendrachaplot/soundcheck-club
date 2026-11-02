@@ -1,6 +1,6 @@
 # B side Athens
 
-B side Athens is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Cannibal Radio x FERMA" on Fri, 6 Nov 2026.
+B side Athens is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Cannibal Radio x FERMA" on Fri, 6 Nov 2026.
 
 B side Athens is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including FRAGK, Kazteins, Morken and Morphs and 2 more. See dates, start times and who's playing. Mavrokordatou 6, Athina 106 78, Greece.
 
@@ -15,4 +15,4 @@ B side Athens is a music venue in Athens listed on soundcheck. 2 upcoming gigs, 
 
 Mavrokordatou 6, Athina 106 78, Greece, Athens
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/b-side-athens/)*

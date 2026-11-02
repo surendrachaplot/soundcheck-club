@@ -1,6 +1,6 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 16 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "PRTY & PLASMA: SAMUEL MORIERO & EXPROZ" on Fri, 6 Nov 2026.
+Gate Milano is a music venue in Milan with 16 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "PRTY & PLASMA: SAMUEL MORIERO & EXPROZ" on Fri, 6 Nov 2026.
 
 Gate Milano is a music venue in Milan listed on soundcheck. 16 upcoming gigs, with line-ups including Amygdala, Anetha, Angerfist and ANKKH and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
@@ -23,4 +23,4 @@ Gate Milano is a music venue in Milan listed on soundcheck. 16 upcoming gigs, wi
 
 Via Valtellina, 21, 20159 Milano MI, Milan
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/gate-milano/)*

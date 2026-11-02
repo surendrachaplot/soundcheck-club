@@ -1,14 +1,15 @@
 # Princess Xixi
 
-Princess Xixi is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
+Princess Xixi is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
 
-Princess Xixi is a bass and club artist based in United Kingdom, with 58 gigs on soundcheck across Beijing, Berlin, Brighton and Bristol and 7 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: Planet Wax, London on Thu 12 Nov.
+Princess Xixi is a bass and club artist based in United Kingdom, with 59 gigs on soundcheck across Beijing, Berlin, Brighton and Bristol and 7 more. Often billed alongside THEMPRESS, CHEZA LUCINA and LOVECAT. Next up: Planet Wax, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Planet Wax | London |
+| Sat, 5 Dec 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Princess Xixi is a bass and club artist based in United Kingdom, with 58 gigs on
 
 THEMPRESS, CHEZA LUCINA, LOVECAT
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessxixi/)*

@@ -1,8 +1,8 @@
 # Ceephax Acid Crew
 
-Ceephax Acid Crew is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at M.O.T, London on Fri, 11 Dec 2026.
+Ceephax Acid Crew is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at M.O.T, London on Fri, 11 Dec 2026.
 
-Ceephax Acid Crew is an acid and house artist, with 30 gigs on soundcheck across Antwerp, Berlin, Bristol and Florence and 8 more. Often billed alongside Binary Digit, DMX Krew and EN.VEE. Next up: M.O.T, London on Fri 11 Dec.
+Ceephax Acid Crew is an acid and house artist based in United Kingdom, with 30 gigs on soundcheck across Antwerp, Berlin, Bristol and Florence and 8 more. Often billed alongside Binary Digit, DMX Krew and EN.VEE. Next up: M.O.T, London on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ceephax Acid Crew is an acid and house artist, with 30 gigs on soundcheck across
 
 Binary Digit, DMX Krew, EN.VEE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceephaxacidcrew/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceephaxacidcrew/)*

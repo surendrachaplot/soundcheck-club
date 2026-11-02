@@ -1,13 +1,14 @@
 # Viikatory
 
-Viikatory is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
+Viikatory is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Goldener Reiter, Munich on Sat, 14 Nov 2026.
 
-Viikatory is a techno and electro artist, with 108 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Tresor / Globus, Berlin on Fri 27 Nov.
+Viikatory is a techno and electro artist, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Verde, Salut 80 and DJ MELL G. Next up: Goldener Reiter, Munich on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Goldener Reiter | Munich |
 | Fri, 27 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Viikatory is a techno and electro artist, with 108 gigs on soundcheck across Ams
 
 Verde, Salut 80, DJ MELL G
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viikatory/)*

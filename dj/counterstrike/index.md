@@ -1,8 +1,8 @@
 # Counterstrike
 
-Counterstrike is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
+Counterstrike is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
 
-Counterstrike is a drum & bass and dubstep artist, with 11 gigs on soundcheck across Berlin, Budapest, Lisbon and Mannheim and 4 more. Often billed alongside Zardonic, Diaz-Soto and LIMEWAX. Next up: Maassilo, Rotterdam on Sat 27 Feb.
+Counterstrike is a drum & bass and dubstep artist based in South Africa, with 11 gigs on soundcheck across Berlin, Budapest, Lisbon and Mannheim and 4 more. Often billed alongside Zardonic, Diaz-Soto and LIMEWAX. Next up: Maassilo, Rotterdam on Sat 27 Feb.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Counterstrike is a drum & bass and dubstep artist, with 11 gigs on soundcheck ac
 
 Zardonic, Diaz-Soto, LIMEWAX
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/counterstrike/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/counterstrike/)*

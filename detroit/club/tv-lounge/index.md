@@ -1,6 +1,6 @@
 # TV Lounge
 
-TV Lounge is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "TV • Further • Charivari Detroit • UMA" on Sat, 7 Nov 2026.
+TV Lounge is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "TV • Further • Charivari Detroit • UMA" on Sat, 7 Nov 2026.
 
 TV Lounge is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, with line-ups including DJ Bone, Eli Escobar, Ember LaFiamma and hypemelo and 2 more. See dates, start times and who's playing. 2548 Grand River Avenue; Detroit, MI; United States.
 
@@ -16,4 +16,4 @@ TV Lounge is a music venue in Detroit listed on soundcheck. 3 upcoming gigs, wit
 
 2548 Grand River Avenue; Detroit, MI; United States, Detroit
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tv-lounge/)*

@@ -1,14 +1,13 @@
 # Grouper
 
-Grouper is a Experimental and Ambient artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Grouper is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Grouper is an experimental and ambient artist based in United States of America, with 6 gigs on soundcheck across Brussels, Helsinki, London and Montreal and 2 more. Often billed alongside KMRU, Marina Herlop and Aba Shanti-I. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Grouper is an experimental and ambient artist based in United States of America, with 6 gigs on soundcheck across Brussels, Helsinki, London and Montreal and 2 more. Often billed alongside KMRU, Marina Herlop and Aba Shanti-I. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 6 Nov 2026 | Bozar | Brussels |
 | Mon, 16 Nov 2026 | Temppeliaukio Church | Helsinki |
@@ -23,4 +22,4 @@ Grouper is an experimental and ambient artist based in United States of America,
 
 KMRU, Marina Herlop, Aba Shanti-I
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grouper/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grouper/)*

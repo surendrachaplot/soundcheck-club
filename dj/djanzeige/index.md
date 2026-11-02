@@ -1,6 +1,6 @@
 # DJ Anzeige
 
-DJ Anzeige is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 5 Nov 2026.
+DJ Anzeige is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 5 Nov 2026.
 
 DJ Anzeige is an electronic artist, with 3 gigs on soundcheck across Berlin, Munich and Vienna. Often billed alongside KECKi, DJ Bude and Skinny Legend. Next up: Bahnwärter Thiel, Munich on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ DJ Anzeige is an electronic artist, with 3 gigs on soundcheck across Berlin, Mun
 
 KECKi, DJ Bude, Skinny Legend
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djanzeige/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djanzeige/)*

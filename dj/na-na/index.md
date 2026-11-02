@@ -1,6 +1,6 @@
 # na-na
 
-na-na is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+na-na is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 na-na is a house and techno artist based in Japan, with 47 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and CLESENT. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ na-na is a house and techno artist based in Japan, with 47 gigs on soundcheck ac
 
 Yamariki, PUNK N MATRIX, CLESENT
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/na-na/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/na-na/)*

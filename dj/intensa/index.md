@@ -1,8 +1,8 @@
 # INTENSA
 
-INTENSA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 20 Dec 2026.
+INTENSA is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 20 Dec 2026.
 
-INTENSA is a techno and breakbeat artist, with 15 gigs on soundcheck across Belgrade, Berlin and Istanbul. Often billed alongside guru'w, Cenk Tripper and Neyzen. Next up: Lokschuppen Berlin, Berlin on Sun 20 Dec.
+INTENSA is a techno and breakbeat artist based in Turkey, with 15 gigs on soundcheck across Belgrade, Berlin and Istanbul. Often billed alongside guru'w, Cenk Tripper and Neyzen. Next up: Lokschuppen Berlin, Berlin on Sun 20 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ INTENSA is a techno and breakbeat artist, with 15 gigs on soundcheck across Belg
 
 guru'w, Cenk Tripper, Neyzen
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intensa/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intensa/)*

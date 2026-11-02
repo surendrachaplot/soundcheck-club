@@ -1,15 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Romanticas Halloween: 'FREAK SHOW - ROMANTIC VAMPIRES' bis 15 UHR" on Sat, 31 Oct 2026.
+Romantica is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Märchenstunde am Dienstag Mit Smokie" on Tue, 3 Nov 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 10 upcoming gigs, with line-ups including Alexander Maier, Carl Crocs, chaos.disco.club and Coppola (DE) and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, with line-ups including Carl Crocs, chaos.disco.club, Coppola (DE) and Danny Salas and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Romanticas Halloween: 'FREAK SHOW - ROMANTIC VAMPIRES' bis 15 UHR | Alexander Maier, Femcat, Jochen Junker, Jorkes, Marco Bastone, Sibel, Skinny P (2) |
-| Sun, 1 Nov 2026 | BUNTER HUND am SONNTAG mit VIKOSH |  |
 | Tue, 3 Nov 2026 | Märchenstunde am Dienstag Mit Smokie |  |
 | Thu, 5 Nov 2026 | Katzengold Mit Kollektiv Hertzwärts | Carl Crocs |
 | Fri, 6 Nov 2026 | Rythmo Romántico with Paul Valentin (Feines Tier . Berlin) | Jochen Junker |
@@ -23,4 +21,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 10 upcoming gigs, 
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

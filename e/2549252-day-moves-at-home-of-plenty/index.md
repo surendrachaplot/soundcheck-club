@@ -1,6 +1,6 @@
 # Day Moves at Home of Plenty
 
-Day Moves at Home of Plenty on Thu 31 Dec, South Australia. 7 artists: DJ Masda, Hipp-e, Jessie Belters and Katia Curie and 3 more. See the line-up on soundcheck.
+Day Moves at Home of Plenty on Thu 31 Dec, South Australia. 6 artists: DJ Masda, Hipp-e, Jessie Belters and Katia Curie and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,7 +14,6 @@ Day Moves at Home of Plenty on Thu 31 Dec, South Australia. 7 artists: DJ Masda,
 - Hipp-e
 - Jessie Belters
 - Katia Curie
-- Kirollus
 - Milkpaste
 - Ruby
 

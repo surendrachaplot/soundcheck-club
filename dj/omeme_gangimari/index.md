@@ -1,13 +1,14 @@
 # omeme_gangimari
 
-omeme_gangimari is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at R Lounge, Tokyo on Thu, 19 Nov 2026.
+omeme_gangimari is a Drum & Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Mon, 2 Nov 2026.
 
-omeme_gangimari is a drum & bass and techno artist based in Japan, with 95 gigs on soundcheck across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Barbie. Next up: R Lounge, Tokyo on Thu 19 Nov.
+omeme_gangimari is a drum & bass and techno artist based in Japan, with 96 gigs on soundcheck across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Barbie. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Thu, 19 Nov 2026 | R Lounge | Tokyo |
 | Thu, 26 Nov 2026 | ZEROTOKYO | Tokyo |
 
@@ -26,4 +27,4 @@ omeme_gangimari is a drum & bass and techno artist based in Japan, with 95 gigs 
 
 SN_Yeah, ReFuCafé, Barbie
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*

@@ -1,6 +1,6 @@
 # Utopia Festival presents: Angerfist at Kaapelitehdas / The Cable Factory
 
-Utopia Festival presents: Angerfist at Kaapelitehdas / The Cable Factory on Sat 30 Jan, Helsinki. 1 artist: Angerfist. See the line-up on soundcheck.
+Utopia Festival presents: Angerfist at Kaapelitehdas / The Cable Factory on Sat 30 Jan, Helsinki. 1 artist: Angerfist. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

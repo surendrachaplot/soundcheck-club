@@ -1,6 +1,6 @@
 # Betel Klub
 
-Betel Klub is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "Bass is Blind - Semprey i Przyjaciele" on Sat, 7 Nov 2026.
+Betel Klub is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Bass is Blind - Semprey i Przyjaciele" on Sat, 7 Nov 2026.
 
 Betel Klub is a music venue in Krakow listed on soundcheck. 1 upcoming gig, with line-ups including j.flo, Michał Jung and Semprey. See dates, start times and who's playing. Kraków, Plac Szczepański 3.
 
@@ -14,4 +14,4 @@ Betel Klub is a music venue in Krakow listed on soundcheck. 1 upcoming gig, with
 
 Kraków, Plac Szczepański 3, Krakow
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/betel-klub/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/betel-klub/)*

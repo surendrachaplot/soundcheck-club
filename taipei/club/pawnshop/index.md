@@ -1,15 +1,13 @@
 # Pawnshop
 
-Pawnshop is a music venue in Taipei with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Pawnshop Pride Week 2026 Day 4 GEGEN" on Sun, 1 Nov 2026.
+Pawnshop is a music venue in Taipei with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Pawnshop Night" on Fri, 6 Nov 2026.
 
-Pawnshop is a music venue in Taipei listed on soundcheck. 11 upcoming gigs, with line-ups including BADSISTA, Blewit, CEM and Cristian Marras and 2 more. See dates, start times and who's playing. 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan.
+Pawnshop is a music venue in Taipei listed on soundcheck. 9 upcoming gigs, with line-ups including BADSISTA, CEM, Danielle (UK) and Daybreak and 2 more. See dates, start times and who's playing. 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Pawnshop Pride Week 2026 Day 4 GEGEN | Cristian Marras, Gemnital, Jesse Chen, Kerena, Mar/us, Tsui, miranda ku |
-| Sun, 1 Nov 2026 | NeoN Sunday Service - Resident Edition | Blewit (2), Reveller |
 | Fri, 6 Nov 2026 | Pawnshop Night | Jamiie (2), Koncorde, Sai.ph |
 | Sat, 7 Nov 2026 | Herrensauna 10 Year Anniversary | CEM, Kerena, L-CC, MCMLXXXV |
 | Fri, 13 Nov 2026 | Smoke Machine Night: Dr. Rubinstein | Dr. Rubinstein, LYM (2), Umbra (2), miranda ku, niwei1117 |
@@ -18,9 +16,10 @@ Pawnshop is a music venue in Taipei listed on soundcheck. 11 upcoming gigs, with
 | Sat, 21 Nov 2026 | Pawnshop 7th Anniversary Day 2 | DJ Nobu, GIIN, Gemnital, KUAN, Kikiorix, Kugel, L.F.T., Melting 99, Mike Kenta, SOPA, Umbra (2), klu (1) |
 | Fri, 27 Nov 2026 | No Pants No Game | Elinnn, SOPA, Tsui |
 | Sat, 28 Nov 2026 | Pawnshop meets FOLD | James Newmarch, L-CC, Tsuuu, Voicedrone, klu (1) |
+| Fri, 18 Dec 2026 | Hakone Hotspring 6th Anniversary X Popoff Kitchen |  |
 
 ## Address
 
 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan, Taipei
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*

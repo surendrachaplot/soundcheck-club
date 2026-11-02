@@ -1,8 +1,8 @@
 # Romphea
 
-Romphea is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at B side Athens, Athens on Fri, 6 Nov 2026.
+Romphea is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at B side Athens, Athens on Fri, 6 Nov 2026.
 
-Romphea is an electro and techno artist, with 17 gigs on soundcheck across Athens. Often billed alongside Morken, Kazteins and Morphs. Next up: B side Athens, Athens on Fri 6 Nov.
+Romphea is an electro and techno artist based in Greece, with 17 gigs on soundcheck across Athens. Often billed alongside Morken, Kazteins and Morphs. Next up: B side Athens, Athens on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Romphea is an electro and techno artist, with 17 gigs on soundcheck across Athen
 
 Morken, Kazteins, Morphs
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romphea/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romphea/)*

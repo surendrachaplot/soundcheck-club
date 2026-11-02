@@ -1,6 +1,6 @@
 # Babycino
 
-Babycino is a House and Balearic artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Babycino is a House and Balearic artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Babycino is a house and balearic artist based in Australia, with 26 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Elsie, Darcy Justice and Séarlait. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Babycino is a house and balearic artist based in Australia, with 26 gigs on soun
 
 Elsie, Darcy Justice, Séarlait
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babycino/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babycino/)*

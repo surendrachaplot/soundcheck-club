@@ -1,6 +1,6 @@
 # Tom VR
 
-Tom VR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Secret Location, London on Sat, 14 Nov 2026.
+Tom VR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Secret Location, London on Sat, 14 Nov 2026.
 
 Tom VR is a techno and house artist, with 38 gigs on soundcheck across Adelaide, Amsterdam, Berlin and Bristol and 15 more. Often billed alongside Seb Wildblood, Maya Q and Baalti. Next up: Secret Location, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tom VR is a techno and house artist, with 38 gigs on soundcheck across Adelaide,
 
 Seb Wildblood, Maya Q, Baalti
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomvr/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomvr/)*

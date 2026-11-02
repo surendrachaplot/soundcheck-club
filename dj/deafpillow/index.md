@@ -1,6 +1,6 @@
 # Deaf Pillow
 
-Deaf Pillow is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Los Angeles on Sun, 8 Nov 2026.
+Deaf Pillow is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Los Angeles on Sun, 8 Nov 2026.
 
 Deaf Pillow is a deep house and house artist based in Peru, with 2 gigs on soundcheck across Los Angeles and South Carolina. Often billed alongside Jessie Calistri, Kike Mayor and Klaws. Next up: TBA, Los Angeles on Sun 8 Nov.
 
@@ -18,4 +18,4 @@ Deaf Pillow is a deep house and house artist based in Peru, with 2 gigs on sound
 
 Jessie Calistri, Kike Mayor, Klaws
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deafpillow/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deafpillow/)*

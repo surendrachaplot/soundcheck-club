@@ -1,13 +1,14 @@
 # Marc DePulse
 
-Marc DePulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Wiggle Room, Toronto on Fri, 4 Dec 2026.
+Marc DePulse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Estado-de-m-xico on Sat, 28 Nov 2026.
 
-Marc DePulse is a techno and house artist, with 40 gigs on soundcheck across Bali, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Dirty Doering, Kamira and Robin Schellenberg. Next up: Wiggle Room, Toronto on Fri 4 Dec.
+Marc DePulse is a techno and house artist based in Germany, with 41 gigs on soundcheck across Bali, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Dirty Doering, Kamira and Robin Schellenberg. Next up: TBA, Estado De M Xico on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | TBA | Estado-de-m-xico |
 | Fri, 4 Dec 2026 | Wiggle Room | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Marc DePulse is a techno and house artist, with 40 gigs on soundcheck across Bal
 
 Dirty Doering, Kamira, Robin Schellenberg
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcdepulse/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcdepulse/)*

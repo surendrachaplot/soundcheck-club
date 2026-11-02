@@ -1,6 +1,6 @@
 # Den Sorte Skole
 
-Den Sorte Skole is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Pumpehuset, Copenhagen on Thu, 5 Nov 2026.
+Den Sorte Skole is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pumpehuset, Copenhagen on Thu, 5 Nov 2026.
 
 Den Sorte Skole is an electronic artist based in Denmark, with 2 gigs on soundcheck across Copenhagen. Often billed alongside MASIV. Next up: Pumpehuset, Copenhagen on Thu 5 Nov.
 
@@ -18,4 +18,4 @@ Den Sorte Skole is an electronic artist based in Denmark, with 2 gigs on soundch
 
 MASIV
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/densorteskole/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/densorteskole/)*

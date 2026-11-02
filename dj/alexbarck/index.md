@@ -1,8 +1,8 @@
 # Alex Barck
 
-Alex Barck is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Jmes, Berlin on Thu, 5 Nov 2026.
+Alex Barck is a Jazz and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Jmes, Berlin on Thu, 5 Nov 2026.
 
-Alex Barck is a jazz and house artist, with 15 gigs on soundcheck across Berlin, Porto, Zagreb and Zurich. Often billed alongside Jazzanova, Markus Tone and Philippa. Next up: Jmes, Berlin on Thu 5 Nov.
+Alex Barck is a jazz and house artist based in Germany, with 15 gigs on soundcheck across Berlin, Porto, Zagreb and Zurich. Often billed alongside Jazzanova, Markus Tone and Philippa. Next up: Jmes, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alex Barck is a jazz and house artist, with 15 gigs on soundcheck across Berlin,
 
 Jazzanova, Markus Tone, Philippa
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbarck/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbarck/)*

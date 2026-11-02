@@ -1,8 +1,8 @@
 # RÆNT
 
-RÆNT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at IT Athens, Athens on Fri, 6 Nov 2026.
+RÆNT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at IT Athens, Athens on Fri, 6 Nov 2026.
 
-RÆNT is a techno and trance artist, with 11 gigs on soundcheck across Athens, Berlin and Karlsruhe. Often billed alongside PyjamaMama, EUROBABES and Pønti. Next up: IT Athens, Athens on Fri 6 Nov.
+RÆNT is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Athens, Berlin and Karlsruhe. Often billed alongside PyjamaMama, EUROBABES and Pønti. Next up: IT Athens, Athens on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ RÆNT is a techno and trance artist, with 11 gigs on soundcheck across Athens, B
 
 PyjamaMama, EUROBABES, Pønti
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rænt/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rænt/)*

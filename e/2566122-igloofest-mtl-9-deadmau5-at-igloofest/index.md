@@ -1,6 +1,6 @@
 # Igloofest MTL #9: Deadmau5 at Igloofest
 
-Igloofest MTL #9: Deadmau5 on Sat 30 Jan, Montreal. 4 artists: Claireyy, Deadmau5, Rodriguez Jr. and TDJ. See the line-up on soundcheck.
+Igloofest MTL #9: Deadmau5 on Sat 30 Jan, Montreal. 5 artists: Claireyy, Deadmau5, Hicky & Kalo and Rodriguez Jr. and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Igloofest MTL #9: Deadmau5 on Sat 30 Jan, Montreal. 4 artists: Claireyy, Deadmau
 
 - Claireyy
 - Deadmau5
+- Hicky & Kalo
 - Rodriguez Jr.
 - TDJ
 

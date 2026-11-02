@@ -1,8 +1,8 @@
 # Jamiie (2)
 
-Jamiie (2) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Pawnshop, Taipei on Fri, 6 Nov 2026.
+Jamiie (2) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Pawnshop, Taipei on Fri, 6 Nov 2026.
 
-Jamiie is an electronic artist, with 10 gigs on soundcheck across Taipei. Often billed alongside F.G.D., Debbie with an 'S' and Jesse Chen. Next up: Pawnshop, Taipei on Fri 6 Nov.
+Jamiie is an electronic artist based in Taiwan, with 10 gigs on soundcheck across Taipei. Often billed alongside F.G.D., Debbie with an 'S' and Jesse Chen. Next up: Pawnshop, Taipei on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Jamiie is an electronic artist, with 10 gigs on soundcheck across Taipei. Often 
 
 F.G.D., Debbie with an 'S', Jesse Chen
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie-2/)*

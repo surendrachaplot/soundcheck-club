@@ -1,6 +1,6 @@
 # Rob Miller
 
-Rob Miller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Brewing Brothers Courtyard, South-east on Fri, 6 Nov 2026.
+Rob Miller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Brewing Brothers Courtyard, South-east on Fri, 6 Nov 2026.
 
 Rob Miller is a house and techno artist, with 2 gigs on soundcheck across Detroit and South East. Often billed alongside DJK, Japhy and Adam Ortiz. Next up: Brewing Brothers Courtyard, South East on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Rob Miller is a house and techno artist, with 2 gigs on soundcheck across Detroi
 
 DJK, Japhy, Adam Ortiz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robmiller/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robmiller/)*

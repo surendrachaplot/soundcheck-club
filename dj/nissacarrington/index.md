@@ -1,6 +1,6 @@
 # Nissa Carrington
 
-Nissa Carrington is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Mood Ring, New York City on Thu, 5 Nov 2026.
+Nissa Carrington is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mood Ring, New York City on Thu, 5 Nov 2026.
 
 Nissa Carrington is a bass and club artist, with 39 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 2 more. Often billed alongside yung_womb, SLIC Unit and Slimgirl fat. Next up: Mood Ring, New York City on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Nissa Carrington is a bass and club artist, with 39 gigs on soundcheck across Be
 
 yung_womb, SLIC Unit, Slimgirl fat
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nissacarrington/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nissacarrington/)*

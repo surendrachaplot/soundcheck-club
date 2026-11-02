@@ -1,14 +1,13 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 30 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Nachspiel" on Sun, 1 Nov 2026.
+KitKatClub is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Electric Monday@Kitkat" on Mon, 2 Nov 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alex Nantaya and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alex Nantaya and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Nachspiel | GALAGO (BE), Jaxter |
 | Mon, 2 Nov 2026 | Electric Monday@Kitkat | André Lodemann, Frankie Flowerz, Milk N Coffee, Ricardo Rodriguez |
 | Wed, 4 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | CHVZ.722, DJ Jordan, Kalimanda, Sin:port |
 | Thu, 5 Nov 2026 | Unity (surprise special edition) | Balkhausen, alemiko, e.leptic |
@@ -18,9 +17,10 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 30 upcoming gigs, wi
 | Wed, 11 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | DJ Jordan, Heepmann, LadyBird aka C.J. Parker, maniaclina |
 | Thu, 12 Nov 2026 | PSYCHO Collage | Ari Denaro |
 | Fri, 13 Nov 2026 | GEGEN SPORTS | AAguilAA, BOYCA, Buday, Byron Yeates, CHRANDY, Citizens Union, Cristian Marras, IVRA, Juan Cernadas, Liad Krispin, Lucas Abadi, PLATTER, Schacke, androgienia, g3kko |
+| Sun, 15 Nov 2026 | Nacktfleisch - Berlin Queer Naked Party (All Genders) | K-H1, SIMZ (DE), Sina XX, Spikey Lee |
 
 ## Address
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

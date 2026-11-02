@@ -1,6 +1,6 @@
 # PILIGN
 
-PILIGN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Village Underground Barcelona, Barcelona on Fri, 27 Nov 2026.
+PILIGN is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Village Underground Barcelona, Barcelona on Fri, 27 Nov 2026.
 
 PILIGN is a techno and acid artist based in Argentina, with 2 gigs on soundcheck across Barcelona. Often billed alongside Giusseppi, H-R-Z and HERS. Next up: Village Underground Barcelona, Barcelona on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ PILIGN is a techno and acid artist based in Argentina, with 2 gigs on soundcheck
 
 Giusseppi, H-R-Z, HERS
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pilign/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pilign/)*

@@ -1,6 +1,6 @@
 # Undefined Pattern
 
-Undefined Pattern is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Relink:Data, Mexico City on Thu, 5 Nov 2026.
+Undefined Pattern is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Relink:Data, Mexico City on Thu, 5 Nov 2026.
 
 Undefined Pattern is an electronica and techno artist, with 8 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Laura Coch, AGSULO and Nenúfar. Next up: Relink:Data, Mexico City on Thu 5 Nov.
 
@@ -24,4 +24,4 @@ Undefined Pattern is an electronica and techno artist, with 8 gigs on soundcheck
 
 Laura Coch, AGSULO, Nenúfar
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/undefinedpattern/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/undefinedpattern/)*

@@ -1,8 +1,8 @@
 # Dominetrix
 
-Dominetrix is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
+Dominetrix is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Elastica, Vilnius on Fri, 20 Nov 2026.
 
-Dominetrix is an electro and ebm artist, with 3 gigs on soundcheck across Barcelona and Vilnius. Often billed alongside Bruno (ES), ERRANT and Gabs Terry. Next up: Elastica, Vilnius on Fri 20 Nov.
+Dominetrix is an electro and ebm artist based in Spain, with 3 gigs on soundcheck across Barcelona and Vilnius. Often billed alongside Bruno (ES), ERRANT and Gabs Terry. Next up: Elastica, Vilnius on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Dominetrix is an electro and ebm artist, with 3 gigs on soundcheck across Barcel
 
 Bruno (ES), ERRANT, Gabs Terry
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominetrix/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dominetrix/)*

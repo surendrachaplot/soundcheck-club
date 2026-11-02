@@ -1,14 +1,14 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 18 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Charlieowo invites Meixing and WhiTe (Beijing)" on Fri, 6 Nov 2026.
+宀 Club is a music venue in Hong Kong with 19 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Charlieowo invites MeiXing and WhiTe (Beijing)" on Fri, 6 Nov 2026.
 
-宀 Club is a music venue in Hong Kong listed on soundcheck. 18 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
+宀 Club is a music venue in Hong Kong listed on soundcheck. 19 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Charlieowo invites Meixing and WhiTe (Beijing) | Charlieowo |
+| Fri, 6 Nov 2026 | Charlieowo invites MeiXing and WhiTe (Beijing) | Charlieowo |
 | Sat, 7 Nov 2026 | 宀 Invites Ivan Smagghe (London) + SAM Futura. (宀, Hong Kong) | Ivan Smagghe, SAM Futura. |
 | Fri, 13 Nov 2026 | Distrikt 34: Erik Luebs (Bitta, Osaka) [LIVE] + Scott B (Distrikt, Hong Kong) | Erik Luebs, Scott B |
 | Sat, 14 Nov 2026 | VG+ with Kuba'97 (Beautiful Freaks, Brussels) [All Night Long Vinyl Set] | Kuba'97 |
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

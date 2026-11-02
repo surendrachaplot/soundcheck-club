@@ -1,14 +1,15 @@
 # YOSHI KANOU
 
-YOSHI KANOU is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at or, Tokyo on Wed, 4 Nov 2026.
+YOSHI KANOU is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at or, Tokyo on Wed, 4 Nov 2026.
 
-YOSHI KANOU is a techno and house artist based in Japan, with 220 gigs on soundcheck across Amsterdam, London, Seoul and Tokyo. Often billed alongside WAKA XINXI, AiMii and DJason. Next up: or, Tokyo on Wed 4 Nov.
+YOSHI KANOU is a techno and house artist based in Japan, with 221 gigs on soundcheck across Amsterdam, London, Seoul and Tokyo. Often billed alongside WAKA XINXI, AiMii and DJason. Next up: or, Tokyo on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | or | Tokyo |
+| Thu, 5 Nov 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sun, 8 Nov 2026 | or | Tokyo |
 | Mon, 9 Nov 2026 | HVEN | Tokyo |
 | Tue, 10 Nov 2026 | Dogenzaka Church | Tokyo |
@@ -29,4 +30,4 @@ YOSHI KANOU is a techno and house artist based in Japan, with 220 gigs on soundc
 
 WAKA XINXI, AiMii, DJason
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikanou/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshikanou/)*

@@ -1,6 +1,6 @@
 # JURI HOSHINO
 
-JURI HOSHINO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 12 Nov 2026.
+JURI HOSHINO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 12 Nov 2026.
 
 JURI HOSHINO is a techno and house artist based in Japan, with 30 gigs on soundcheck across Tokyo. Often billed alongside RYOHEI, GOLDEN ROA and MonochroME. Next up: SEL OCTAGON TOKYO, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ JURI HOSHINO is a techno and house artist based in Japan, with 30 gigs on soundc
 
 RYOHEI, GOLDEN ROA, MonochroME (2)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jurihoshino/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jurihoshino/)*

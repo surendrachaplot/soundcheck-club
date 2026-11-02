@@ -1,13 +1,14 @@
 # TAIKI
 
-TAIKI is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 7 Nov 2026.
+TAIKI is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Mon, 2 Nov 2026.
 
-TAIKI is a house and hip-hop artist based in Japan, with 88 gigs on soundcheck across Kyoto, New York City, Osaka and Tokyo. Often billed alongside Ren Yokoi, Omar Santis and Jamon Iberico. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 7 Nov.
+TAIKI is a house and hip-hop artist based in Japan, with 89 gigs on soundcheck across Kyoto, New York City, Osaka and Tokyo. Often billed alongside Ren Yokoi, Omar Santis and Jamon Iberico. Next up: UTOPIA / DYSTOPIA, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Sat, 7 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ TAIKI is a house and hip-hop artist based in Japan, with 88 gigs on soundcheck a
 
 Ren Yokoi, Omar Santis, Jamon Iberico
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiki/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiki/)*

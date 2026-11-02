@@ -1,8 +1,8 @@
 # Joachim Garraud
 
-Joachim Garraud is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Martigny Expo., Lausanne on Fri, 22 Jan 2027.
+Joachim Garraud is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Martigny Expo., Lausanne on Fri, 22 Jan 2027.
 
-Joachim Garraud is a techno and electro artist, with 7 gigs on soundcheck across Lausanne, Paris, Riga and San Francisco/Oakland. Often billed alongside Franck Martin, A.M.C. and Act of Rage. Next up: Martigny Expo., Lausanne on Fri 22 Jan.
+Joachim Garraud is a techno and electro artist based in France, with 7 gigs on soundcheck across Lausanne, Paris, Riga and San Francisco/Oakland. Often billed alongside Franck Martin, A.M.C. and Act of Rage. Next up: Martigny Expo., Lausanne on Fri 22 Jan.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Joachim Garraud is a techno and electro artist, with 7 gigs on soundcheck across
 
 Franck Martin, A.M.C., Act of Rage
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimgarraud/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joachimgarraud/)*

@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Hizz Lounge, Detroit on Sun, 1 Nov 2026.
+DJ Holographic is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Hizz Lounge, Detroit on Sun, 1 Nov 2026.
 
 DJ Holographic is a house and techno artist based in United States of America, with 246 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: Hizz Lounge, Detroit on Sun 1 Nov.
 
@@ -20,6 +20,7 @@ DJ Holographic is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- Hizz Lounge, Detroit · Sun, 1 Nov 2026
 - La Station - Gare des Mines, Paris · Fri, 30 Oct 2026
 - Madam, Amsterdam · Sun, 25 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
@@ -27,10 +28,9 @@ DJ Holographic is a house and techno artist based in United States of America, w
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Necto, Detroit · Fri, 9 Oct 2026
 - TBA - Shipyards Waterfront, Vancouver · Sat, 3 Oct 2026
-- TBA, Detroit · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

@@ -1,6 +1,6 @@
 # Zaltan
 
-Zaltan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Zaltan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Zaltan is a house and techno artist based in France, with 51 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Central and 12 more. Often billed alongside Gilb'R, D.K. and Iueke. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Zaltan is a house and techno artist based in France, with 51 gigs on soundcheck 
 
 Gilb'R, D.K., Iueke
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaltan/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaltan/)*

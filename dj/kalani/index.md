@@ -1,14 +1,15 @@
 # Kalani
 
-Kalani is a Breakbeat and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Cross, London on Fri, 4 Dec 2026.
+Kalani is a Breakbeat and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Cross, London on Fri, 4 Dec 2026.
 
-Kalani is a breakbeat and electro artist based in United Kingdom, with 27 gigs on soundcheck across Brighton, London, Manchester and Mexico City and 1 more. Often billed alongside Nickon Faith, Incupa97 and k.h0lle. Next up: The Cross, London on Fri 4 Dec.
+Kalani is a breakbeat and electro artist based in United Kingdom, with 28 gigs on soundcheck across Brighton, London, Manchester and Mexico City and 1 more. Often billed alongside Nickon Faith, Incupa97 and k.h0lle. Next up: The Cross, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | The Cross | London |
+| Fri, 19 Feb 2027 | Hidden | Manchester |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
 ## Recently played
@@ -26,4 +27,4 @@ Kalani is a breakbeat and electro artist based in United Kingdom, with 27 gigs o
 
 Nickon Faith, Incupa97, k.h0lle
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalani/)*

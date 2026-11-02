@@ -1,19 +1,19 @@
 # GALAGO (BE)
 
-GALAGO (BE) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at KitKatClub, Berlin on Sun, 1 Nov 2026.
+GALAGO (BE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
 
-GALAGO (BE) is a techno and house artist based in Belgium, with 16 gigs on soundcheck across Amsterdam, Belgium, Berlin and Brussels and 2 more. Often billed alongside Jaxter, Don Cabron and Groovegsus. Next up: KitKatClub, Berlin on Sun 1 Nov.
+GALAGO (BE) is a techno and house artist based in Belgium, with 16 gigs on soundcheck across Amsterdam, Belgium, Berlin and Brussels and 2 more. Often billed alongside Jaxter, Don Cabron and Groovegsus. Next up: Cercle Royal Gaulois, Belgium on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | KitKatClub | Berlin |
 | Sun, 15 Nov 2026 | Cercle Royal Gaulois | Belgium |
 | Sat, 5 Dec 2026 | Charlatan | Ghent |
 
 ## Recently played
 
+- KitKatClub, Berlin · Sun, 1 Nov 2026
 - UMI, Brussels · Fri, 4 Sept 2026
 - Arsenaal Site, Ghent · Sun, 26 Jul 2026
 - Au Quai, Brussels · Sun, 19 Jul 2026
@@ -21,10 +21,9 @@ GALAGO (BE) is a techno and house artist based in Belgium, with 16 gigs on sound
 - Charlatan, Ghent · Sat, 6 Jun 2026
 - Belgian Beer World, Brussels · Fri, 24 Apr 2026
 - Madame Moustache, Brussels · Sun, 5 Apr 2026
-- Kater, Berlin · Fri, 13 Mar 2026
 
 ## Shares bills with
 
 Jaxter, Don Cabron, Groovegsus
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galagobe/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galagobe/)*

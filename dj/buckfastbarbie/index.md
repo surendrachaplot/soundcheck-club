@@ -1,6 +1,6 @@
 # Buckfast Barbie
 
-Buckfast Barbie is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sneaky Pete's, Edinburgh on Mon, 2 Nov 2026.
+Buckfast Barbie is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Sneaky Pete's, Edinburgh on Mon, 2 Nov 2026.
 
 Buckfast Barbie is a club and bass artist based in United Kingdom, with 84 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside miira, Sweet Philly and DV60. Next up: Sneaky Pete's, Edinburgh on Mon 2 Nov.
 
@@ -26,4 +26,4 @@ Buckfast Barbie is a club and bass artist based in United Kingdom, with 84 gigs 
 
 miira, Sweet Philly, DV60
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buckfastbarbie/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buckfastbarbie/)*

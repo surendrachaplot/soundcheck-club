@@ -1,6 +1,6 @@
 # Samir Chani
 
-Samir Chani is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Samir Chani is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
 Samir Chani is a house and techno artist based in Luxembourg, with 13 gigs on soundcheck across Brussels, Greece, London and Luxembourg and 1 more. Often billed alongside Mauro Ferno, Anthea and Elia Nafzger. Next up: fabric, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Samir Chani is a house and techno artist based in Luxembourg, with 13 gigs on so
 
 Mauro Ferno, Anthea, Elia Nafzger
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samirchani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samirchani/)*

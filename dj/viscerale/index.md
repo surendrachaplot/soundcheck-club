@@ -1,6 +1,6 @@
 # Viscerale
 
-Viscerale is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Viscerale is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Viscerale is a techno and trance artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Berlin, Budapest and Copenhagen and 12 more. Often billed alongside LØUS, FLUCC and Dagobird. Next up: The Cause, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Viscerale is a techno and trance artist based in Germany, with 66 gigs on soundc
 
 LØUS, FLUCC, Dagobird
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viscerale/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viscerale/)*

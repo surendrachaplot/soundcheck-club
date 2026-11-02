@@ -1,6 +1,6 @@
 # IMPRV
 
-IMPRV is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+IMPRV is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 IMPRV is a psytrance and techno artist, with 2 gigs on soundcheck across Sydney. Often billed alongside Lopro, Quakes and Synestrix. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -18,4 +18,4 @@ IMPRV is a psytrance and techno artist, with 2 gigs on soundcheck across Sydney.
 
 Lopro, Quakes, Synestrix
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imprv/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imprv/)*

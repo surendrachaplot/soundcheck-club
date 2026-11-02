@@ -1,6 +1,6 @@
 # Alinette
 
-Alinette is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Department 184, Milan on Sat, 7 Nov 2026.
+Alinette is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Department 184, Milan on Sat, 7 Nov 2026.
 
 Alinette is a techno artist, with 3 gigs on soundcheck across Milan. Often billed alongside Alex Brasile, GLEDIS and Hashashin. Next up: Department 184, Milan on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Alinette is a techno artist, with 3 gigs on soundcheck across Milan. Often bille
 
 Alex Brasile, GLEDIS, Hashashin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinette/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinette/)*

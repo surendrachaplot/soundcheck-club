@@ -1,13 +1,13 @@
 # Wavio Room
 
-Wavio Room is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Sat, 31 Oct 2026. The next is "Krids + Hallowe'en" on Sat, 31 Oct 2026.
+Wavio Room is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Evasive Records presents: Rob Pearson, Paul Donton, TriForm + more" on Sat, 14 Nov 2026.
 
-Wavio Room is a music venue in Leeds listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Wavio Room is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including PAS, Rob Pearson, Sam Hoggard and TriForm. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Krids + Hallowe'en |  |
+| Sat, 14 Nov 2026 | Evasive Records presents: Rob Pearson, Paul Donton, TriForm + more | PAS, Rob Pearson, Sam Hoggard, TriForm |
 
-*Updated Sat, 31 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wavio-room/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wavio-room/)*

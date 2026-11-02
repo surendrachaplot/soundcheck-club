@@ -1,8 +1,8 @@
 # Juju Manju
 
-Juju Manju is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Carmo Rooftop, Lisbon on Sat, 7 Nov 2026.
+Juju Manju is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Carmo Rooftop, Lisbon on Sat, 7 Nov 2026.
 
-Juju Manju is a house and deep house artist, with 29 gigs on soundcheck across Bangkok, Lisbon, Paris and Tokyo. Often billed alongside manju, Moulin.music and Fabich. Next up: Carmo Rooftop, Lisbon on Sat 7 Nov.
+Juju Manju is a house and deep house artist based in Portugal, with 29 gigs on soundcheck across Bangkok, Lisbon, Paris and Tokyo. Often billed alongside manju, Moulin.music and Fabich. Next up: Carmo Rooftop, Lisbon on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Juju Manju is a house and deep house artist, with 29 gigs on soundcheck across B
 
 manju, Moulin.music, Fabich
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jujumanju/)*

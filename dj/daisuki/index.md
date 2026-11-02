@@ -1,8 +1,8 @@
 # Daisuki
 
-Daisuki is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at ZIRKA, Munich on Sat, 7 Nov 2026.
+Daisuki is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ZIRKA, Munich on Sat, 7 Nov 2026.
 
-Daisuki is a house and tech house artist, with 23 gigs on soundcheck across Amsterdam, Byron Bay, Melbourne and Munich. Often billed alongside Chusap, David Hornung and Hiroshi Daisuki. Next up: ZIRKA, Munich on Sat 7 Nov.
+Daisuki is a house and tech house artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Byron Bay, Melbourne and Munich. Often billed alongside Chusap, David Hornung and Hiroshi Daisuki. Next up: ZIRKA, Munich on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Daisuki is a house and tech house artist, with 23 gigs on soundcheck across Amst
 
 Chusap, David Hornung, Hiroshi Daisuki
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisuki/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisuki/)*

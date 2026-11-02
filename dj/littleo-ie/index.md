@@ -1,6 +1,6 @@
 # Little O (IE)
 
-Little O (IE) is a Baile Funk and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at renae, Manchester on Fri, 6 Nov 2026.
+Little O (IE) is a Baile Funk and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at renae, Manchester on Fri, 6 Nov 2026.
 
 Little O (IE) is a baile funk and experimental artist based in Ireland, with 44 gigs on soundcheck across Cork, Dublin, Edinburgh and Galway and 4 more. Often billed alongside Pablo Santos, JWY and Rory Sweeney. Next up: renae, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Little O (IE) is a baile funk and experimental artist based in Ireland, with 44 
 
 Pablo Santos, JWY (1), Rory Sweeney
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/littleo-ie/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/littleo-ie/)*

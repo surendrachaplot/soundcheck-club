@@ -1,6 +1,6 @@
 # Anhedonia
 
-Anhedonia is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at 81 Renshaw Street, Liverpool on Fri, 20 Nov 2026.
+Anhedonia is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at 81 Renshaw Street, Liverpool on Fri, 20 Nov 2026.
 
 Anhedonia is an experimental and electronica artist based in Peru, with 2 gigs on soundcheck across Berlin and Liverpool. Often billed alongside Alex Friday, Alviker and Amorelie. Next up: 81 Renshaw Street, Liverpool on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ Anhedonia is an experimental and electronica artist based in Peru, with 2 gigs o
 
 Alex Friday, Alviker, Amorelie
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anhedonia/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anhedonia/)*

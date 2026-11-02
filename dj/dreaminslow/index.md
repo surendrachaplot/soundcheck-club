@@ -1,6 +1,6 @@
 # DREAMINSLOW
 
-DREAMINSLOW is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 4 Nov 2026.
+DREAMINSLOW is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 4 Nov 2026.
 
 DREAMINSLOW is a techno and club artist based in United States of America, with 76 gigs on soundcheck across Atlanta, Berlin, Boston and London and 3 more. Often billed alongside Muerte Lenta, SATURNSARii and DJ Thank You. Next up: Bossa Nova Civic Club, New York City on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ DREAMINSLOW is a techno and club artist based in United States of America, with 
 
 Muerte Lenta, SATURNSARii, DJ Thank You
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreaminslow/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreaminslow/)*

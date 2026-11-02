@@ -1,6 +1,6 @@
 # Mariah
 
-Mariah is a R&B and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Outernet Live, London on Sat, 12 Dec 2026.
+Mariah is a R&B and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Outernet Live, London on Sat, 12 Dec 2026.
 
 Mariah is a r&b and house artist based in Japan, with 2 gigs on soundcheck across London and Rio de Janeiro. Often billed alongside AALIYAH, Ciara and Confetti. Next up: Outernet Live, London on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Mariah is a r&b and house artist based in Japan, with 2 gigs on soundcheck acros
 
 AALIYAH, Ciara, Confetti
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariah/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariah/)*

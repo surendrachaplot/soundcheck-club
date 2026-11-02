@@ -1,6 +1,6 @@
 # Humbert (2)
 
-Humbert (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 12 Nov 2026.
+Humbert (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 12 Nov 2026.
 
 Humbert is a techno and house artist, with 4 gigs on soundcheck across Krakow, Milan and Turin. Often billed alongside ADAJO, Badalian and Bunkereeno Kollektiv. Next up: Tempio del Futuro Perduto, Milan on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Humbert is a techno and house artist, with 4 gigs on soundcheck across Krakow, M
 
 ADAJO, Badalian, Bunkereeno Kollektiv
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humbert-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humbert-2/)*

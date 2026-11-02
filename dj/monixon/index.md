@@ -1,6 +1,6 @@
 # MONIXON
 
-MONIXON is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at w_sercu, Poznan on Fri, 20 Nov 2026.
+MONIXON is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at w_sercu, Poznan on Fri, 20 Nov 2026.
 
 MONIXON is a house and disco artist based in Poland, with 7 gigs on soundcheck across Berlin, Poznan and Warsaw. Often billed alongside Kapote, Stump Valley and Arpy Brown. Next up: w_sercu, Poznan on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ MONIXON is a house and disco artist based in Poland, with 7 gigs on soundcheck a
 
 Kapote, Stump Valley, Arpy Brown
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monixon/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monixon/)*

@@ -1,6 +1,6 @@
 # MRTN
 
-MRTN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Neck of the Woods, Auckland on Fri, 20 Nov 2026.
+MRTN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Neck of the Woods, Auckland on Fri, 20 Nov 2026.
 
 MRTN is a house and tech house artist, with 3 gigs on soundcheck across Auckland, Manchester and New York City. Often billed alongside Ash, Brennan and Dunny. Next up: Neck of the Woods, Auckland on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ MRTN is a house and tech house artist, with 3 gigs on soundcheck across Auckland
 
 Ash, Brennan, Dunny
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrtn/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrtn/)*

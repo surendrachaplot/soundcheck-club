@@ -1,6 +1,6 @@
 # Luke Una
 
-Luke Una is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Luke Una is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Luke Una is a house and disco artist based in United Kingdom, with 149 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 36 more. Often billed alongside Erol Alkan, Joey T and Simon Morell. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Luke Una is a house and disco artist based in United Kingdom, with 149 gigs on s
 
 Erol Alkan, Joey T, Simon Morell
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeuna/)*

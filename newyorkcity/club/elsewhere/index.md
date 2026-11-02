@@ -1,15 +1,13 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more" on Sat, 31 Oct 2026.
+Elsewhere is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "AEREA, Alex Farell" on Fri, 6 Nov 2026.
 
-Elsewhere is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and ali rq and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
+Elsewhere is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Alive Girl and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Elsewhere Halloween: Cannelle, EQ, Tommy Fleece, Corridos Ketamina, Isla Den, Ali RQ + more | Cannelle, EQ (Estratosfera + Qiri), Isla Den, Petal Supply, RICO RICA, ali rq |
-| Sun, 1 Nov 2026 | Fever x Frisky: Afterhours Revolution | Dangerous Rose |
 | Fri, 6 Nov 2026 | AEREA, Alex Farell | AEREA, Alex Farell |
 | Sat, 7 Nov 2026 | Flava D, Made to Order: Dendi's Dad, EJWIZE, Imbueless | Dendi's Dad, EJWIZE, Flava D |
 | Fri, 13 Nov 2026 | Cut Copy (dj), ራሄል (Rachel), Disco Bambino, Kristine Barilli, Gravitational | Cut Copy, Dante Scaglione, Kristine Barilli, ራሄል (Rachel) |
@@ -18,9 +16,11 @@ Elsewhere is a music venue in New York City listed on soundcheck. 19 upcoming gi
 | Fri, 20 Nov 2026 | 49th & Main (DJ Set), Mona Matsuoka, Tre Reynolds, Denninger / Heedon / Kipp + more | Alive Girl, Denninger, Heedon, Kipp, Mona Matsuoka, Tre Reynolds |
 | Sat, 21 Nov 2026 | Snakehips, TWOFACED |  |
 | Wed, 25 Nov 2026 | DayBreak |  |
+| Sat, 28 Nov 2026 | DICKAPPOINTMENT INVITES: TROMAC with Kenni Javon and Libby Brothers |  |
+| Fri, 4 Dec 2026 | Laylit |  |
 
 ## Address
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

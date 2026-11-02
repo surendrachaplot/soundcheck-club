@@ -1,6 +1,6 @@
 # RYTM (2)
 
-RYTM (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Brooklyn Monarch, New York City on Wed, 25 Nov 2026.
+RYTM (2) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Brooklyn Monarch, New York City on Wed, 25 Nov 2026.
 
 RYTM is a techno and industrial artist, with 4 gigs on soundcheck across New York City. Often billed alongside Vyper, -CZAR and CLTX. Next up: The Brooklyn Monarch, New York City on Wed 25 Nov.
 
@@ -20,4 +20,4 @@ RYTM is a techno and industrial artist, with 4 gigs on soundcheck across New Yor
 
 Vyper, -CZAR, CLTX
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rytm-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rytm-2/)*

@@ -1,6 +1,6 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "AUTOMATION (TECHNO)" on Mon, 2 Nov 2026.
+Z Maruyama is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "AUTOMATION (TECHNO)" on Mon, 2 Nov 2026.
 
 Z Maruyama is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including AHREUM, Amps, ASSIGN and B and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
@@ -23,4 +23,4 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, wit
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

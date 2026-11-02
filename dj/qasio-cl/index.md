@@ -1,6 +1,6 @@
 # Qasio
 
-Qasio is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
+Qasio is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Golden Gate, Berlin on Fri, 13 Nov 2026.
 
 Qasio is an electronic artist, with 2 gigs on soundcheck across Barcelona and Berlin. Often billed alongside Clemente (DE), Frania and Juan Ferreyra. Next up: Golden Gate, Berlin on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ Qasio is an electronic artist, with 2 gigs on soundcheck across Barcelona and Be
 
 Clemente (DE), Frania, Juan Ferreyra
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qasio-cl/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qasio-cl/)*

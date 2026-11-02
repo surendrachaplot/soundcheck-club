@@ -1,8 +1,8 @@
 # Cosmic G
 
-Cosmic G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Hangar, Belgrade on Fri, 20 Nov 2026.
+Cosmic G is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hangar, Belgrade on Fri, 20 Nov 2026.
 
-Cosmic G is a house and techno artist, with 52 gigs on soundcheck across Barcelona, Belgrade, Berlin and Budapest and 2 more. Often billed alongside rty (RS), Nemax and Dakman. Next up: Hangar, Belgrade on Fri 20 Nov.
+Cosmic G is a house and techno artist based in Serbia, with 52 gigs on soundcheck across Barcelona, Belgrade, Berlin and Budapest and 2 more. Often billed alongside rty (RS), Nemax and Dakman. Next up: Hangar, Belgrade on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cosmic G is a house and techno artist, with 52 gigs on soundcheck across Barcelo
 
 rty (RS), Nemax, Dakman
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicg/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicg/)*

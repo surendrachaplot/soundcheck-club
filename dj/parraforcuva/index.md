@@ -1,6 +1,6 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cervantes' Masterpiece Ballroom, Denver on Thu, 5 Nov 2026.
+Parra for Cuva is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cervantes' Masterpiece Ballroom, Denver on Thu, 5 Nov 2026.
 
 Parra for Cuva is a house and deep house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: Cervantes' Masterpiece Ballroom, Denver on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Parra for Cuva is a house and deep house artist based in Germany, with 78 gigs o
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

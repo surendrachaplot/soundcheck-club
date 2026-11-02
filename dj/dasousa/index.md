@@ -1,6 +1,6 @@
 # DaSousa
 
-DaSousa is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Macarena Club, Barcelona on Tue, 3 Nov 2026.
+DaSousa is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Macarena Club, Barcelona on Tue, 3 Nov 2026.
 
 DaSousa is a house artist based in Spain, with 2 gigs on soundcheck across Barcelona. Often billed alongside JOE ROLL and Kanedo. Next up: Macarena Club, Barcelona on Tue 3 Nov.
 
@@ -18,4 +18,4 @@ DaSousa is a house artist based in Spain, with 2 gigs on soundcheck across Barce
 
 JOE ROLL, Kanedo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dasousa/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dasousa/)*

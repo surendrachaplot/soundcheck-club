@@ -1,14 +1,13 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "IAM Productions presents: Bob Moses" on Sun, 1 Nov 2026.
+Akvárium Klub is a music venue in Budapest with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SKELER – Nightfall World Tour" on Sat, 14 Nov 2026.
 
-Akvárium Klub is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, with line-ups including Alignment, ALT8, Andrew Cairns and Belocca and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
+Akvárium Klub is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, with line-ups including Alignment, ALT8, Andrew Cairns and Belocca and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | IAM Productions presents: Bob Moses | Bob Moses |
 | Sat, 14 Nov 2026 | SKELER – Nightfall World Tour |  |
 | Sun, 15 Nov 2026 | Ana Moura |  |
 | Mon, 23 Nov 2026 | Eagle Eye Cherry |  |
@@ -18,9 +17,10 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 13 upcoming gi
 | Fri, 4 Dec 2026 | Marie Vaunt & more | Joris Turenhout, Marie Vaunt |
 | Mon, 14 Dec 2026 | Andrea Vanzo |  |
 | Sat, 19 Dec 2026 | Bladerunnaz presents: Metrik & goddard. | Emily Makis, Metrik, goddard. |
+| Sat, 16 Jan 2027 | Hungarian Techno Night | Belocca, NoNameLeft |
 
 ## Address
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

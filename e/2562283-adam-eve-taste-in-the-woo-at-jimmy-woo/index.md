@@ -1,6 +1,6 @@
 # Adam & Eve - Taste in the Woo at Jimmy Woo
 
-Adam & Eve - Taste in the Woo at Jimmy Woo on Sat 30 Jan, Amsterdam. 2 artists: Aries and Urban. See the line-up on soundcheck.
+Adam & Eve - Taste in the Woo at Jimmy Woo on Sat 30 Jan, Amsterdam. 2 artists: Aries and Urban. Afrobeat and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

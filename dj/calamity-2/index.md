@@ -1,6 +1,6 @@
 # Calamity (2)
 
-Calamity (2) is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Adam Riese, Frankfurt on Sun, 6 Feb 2028.
+Calamity (2) is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Adam Riese, Frankfurt on Sun, 6 Feb 2028.
 
 Calamity is an industrial and techno artist based in Germany, with 2 gigs on soundcheck across Frankfurt. Often billed alongside ADAN, Jozh and RIKHTER. Next up: Adam Riese, Frankfurt on Sun 6 Feb.
 
@@ -18,4 +18,4 @@ Calamity is an industrial and techno artist based in Germany, with 2 gigs on sou
 
 ADAN, Jozh, RIKHTER
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calamity-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calamity-2/)*

@@ -1,6 +1,6 @@
 # Ali Demirel
 
-Ali Demirel is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
+Ali Demirel is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
 Ali Demirel is an idm and experimental artist, with 2 gigs on soundcheck across Berlin and Tokyo. Often billed alongside Akatana, Ariachi and Canblaster. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ Ali Demirel is an idm and experimental artist, with 2 gigs on soundcheck across 
 
 Akatana, Ariachi, Canblaster
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alidemirel/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alidemirel/)*

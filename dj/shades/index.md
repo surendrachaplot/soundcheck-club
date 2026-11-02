@@ -1,6 +1,6 @@
 # Shades
 
-Shades is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Reelworks Denver, Denver on Fri, 6 Nov 2026.
+Shades is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Reelworks Denver, Denver on Fri, 6 Nov 2026.
 
 Shades is a drum & bass and bass artist based in Belgium, with 12 gigs on soundcheck across Denver, Los Angeles, Miami and Missouri and 8 more. Often billed alongside Alix Perez, EPROM and ONHELL. Next up: Reelworks Denver, Denver on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Shades is a drum & bass and bass artist based in Belgium, with 12 gigs on soundc
 
 Alix Perez, EPROM, ONHELL
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shades/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shades/)*

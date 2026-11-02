@@ -1,14 +1,13 @@
 # Artemis
 
-Artemis is a Drum & Bass and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Südpol, Hamburg on Fri, 30 Oct 2026.
+Artemis is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-Artemis is a drum & bass and house artist based in Lebanon, with 22 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Hamburg and 7 more. Often billed alongside Fred V, Hybrid Minds and Just Jane. Next up: Südpol, Hamburg on Fri 30 Oct.
+Artemis is a drum & bass and house artist based in Lebanon, with 22 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Hamburg and 7 more. Often billed alongside Fred V, Hybrid Minds and Just Jane. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Südpol | Hamburg |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | Document | Bristol |
 
@@ -27,4 +26,4 @@ Artemis is a drum & bass and house artist based in Lebanon, with 22 gigs on soun
 
 Fred V, Hybrid Minds, Just Jane
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artemis/)*

@@ -1,8 +1,8 @@
 # Tangerine Dream
 
-Tangerine Dream is a Electronica and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Tangerine Dream is a Electronica and Experimental artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-Tangerine Dream is an electronica and experimental artist based in Germany, with 13 gigs on soundcheck across Bristol, Dresden, Geneva and Glasgow and 9 more. Often billed alongside Alex Albrecht, Bins and Bouffant Bouffant. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Tangerine Dream is an electronica and experimental artist based in Germany, with 13 gigs on soundcheck across Bristol, Dresden, Geneva and Glasgow and 9 more. Often billed alongside Afrodite, Alex Albrecht and Bins. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ Tangerine Dream is an electronica and experimental artist based in Germany, with
 
 ## Shares bills with
 
-Alex Albrecht, Bins, Bouffant Bouffant
+Afrodite (2), Alex Albrecht, Bins
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tangerinedream/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tangerinedream/)*

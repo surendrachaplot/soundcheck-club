@@ -1,6 +1,6 @@
 # Twinspinsz ↠ Kassian, Sam Girling & Dual Monitor at Phonox
 
-Twinspinsz ↠ Kassian, Sam Girling & Dual Monitor at Phonox on Thu 10 Dec, London. 3 artists: Dual Monitor, Kassian and Sam Girling. House and Bass. See the line-up on soundcheck.
+Twinspinsz ↠ Kassian, Sam Girling & Dual Monitor at Phonox on Thu 10 Dec, London. 8 artists: Danté, Dual Monitor, FITS ME FUNNY and Kassian and 4 more. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,13 @@ Twinspinsz ↠ Kassian, Sam Girling & Dual Monitor at Phonox on Thu 10 Dec, Lond
 
 ## Line-up
 
+- Danté
 - Dual Monitor
+- FITS ME FUNNY
 - Kassian
+- LUCIIE
+- Milo (6)
 - Sam Girling
+- TENFOLD
 
 *Source: [soundcheck](https://soundcheck.club/e/2493082-twinspinsz-kassian-sam-girling-dual-monitor-at-phonox/)*

@@ -1,6 +1,6 @@
 # smalltown with Fadi Mohem + MARRØN at Preston Warehouse
 
-smalltown with Fadi Mohem + MARRØN at Preston Warehouse on Sat 30 Jan, Melbourne. 3 artists: Fadi Mohem, MARRØN and SNAXX. See the line-up on soundcheck.
+smalltown with Fadi Mohem + MARRØN at Preston Warehouse on Sat 30 Jan, Melbourne. 3 artists: Fadi Mohem, MARRØN and SNAXX. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

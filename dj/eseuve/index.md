@@ -1,6 +1,6 @@
 # ESE UVE
 
-ESE UVE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+ESE UVE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
 
 ESE UVE is a techno and trance artist based in Spain, with 5 gigs on soundcheck across Lisbon, Madrid and North. Often billed alongside Dibison, Abel Ramos and Afem Syko. Next up: Fabrik, Madrid on Sat 30 Jan.
 
@@ -21,4 +21,4 @@ ESE UVE is a techno and trance artist based in Spain, with 5 gigs on soundcheck 
 
 Dibison, Abel Ramos, Afem Syko
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eseuve/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eseuve/)*

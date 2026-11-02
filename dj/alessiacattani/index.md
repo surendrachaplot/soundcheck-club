@@ -1,8 +1,8 @@
 # Alessia Cattani
 
-Alessia Cattani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lieberscholli, Munich on Fri, 20 Nov 2026.
+Alessia Cattani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lieberscholli, Munich on Fri, 20 Nov 2026.
 
-Alessia Cattani is a techno and house artist, with 7 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside DJ PayPaul, KEN (DE) and DJ Francis. Next up: Lieberscholli, Munich on Fri 20 Nov.
+Alessia Cattani is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside DJ PayPaul, KEN (DE) and DJ Francis. Next up: Lieberscholli, Munich on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Alessia Cattani is a techno and house artist, with 7 gigs on soundcheck across B
 
 DJ PayPaul, KEN (DE), DJ Francis
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiacattani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessiacattani/)*

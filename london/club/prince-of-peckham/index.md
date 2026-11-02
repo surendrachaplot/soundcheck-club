@@ -1,6 +1,6 @@
 # Prince of Peckham
 
-Prince of Peckham is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "RnB Thursdays" on Thu, 5 Nov 2026.
+Prince of Peckham is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "RnB Thursdays" on Thu, 5 Nov 2026.
 
 Prince of Peckham is a music venue in London listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 1 Clayton Rd, Peckham, London SE15 5JA.
 
@@ -22,4 +22,4 @@ Prince of Peckham is a music venue in London listed on soundcheck. 9 upcoming gi
 
 1 Clayton Rd, Peckham, London SE15 5JA, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/prince-of-peckham/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/prince-of-peckham/)*

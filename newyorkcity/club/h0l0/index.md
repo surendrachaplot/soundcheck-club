@@ -1,14 +1,13 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ReSolute presents: Why So Serious!" on Sat, 31 Oct 2026.
+H0L0 is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "eianne esau's FUCKINGLOVELY NO.8 " on Thu, 5 Nov 2026.
 
-H0L0 is a music venue in New York City listed on soundcheck. 12 upcoming gigs, with line-ups including Argenis Brito, Armii1n, Automatic Writing and Bea Trinidad and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
+H0L0 is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Armii1n, Bea Trinidad, CAMILLA and Clarisa Kimskii and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | ReSolute presents: Why So Serious! | Argenis Brito, Automatic Writing, Benny Soto, Bruno Limma, Connie, Dan Shake, Dandy Jack, E.LINA, Henry Chow, J Gabriel, Joe Tagessian, Jonny Sum, Lauren Ritter, Maksim, Masomenos, Max Sprauer, Mayell, O.BEE, Onur Özer, Orazio Rispo, Rasho, Ron Like Hell, Shvili, Sibil (1), Sweely, Tobias Lindén, Tomas Station, Willy Soul |
 | Thu, 5 Nov 2026 | eianne esau's FUCKINGLOVELY NO.8  | CR4CKROCK, Fredo, eianne esau, jjjesuschristsuperstarrr |
 | Fri, 6 Nov 2026 | KEIN KLUB: Martyn, Kendal  +  | Kendal, Ksenyeah, Manguito, Martyn, rrao |
 | Sat, 7 Nov 2026 | PIV Records w. Prunk + Kellie Allen, MADVILLA, & More | Armii1n, Bea Trinidad, Kellie Allen, Lauren Ritter, MADVILLA, Prunk, m.O.N.R.O.E. |
@@ -18,9 +17,10 @@ H0L0 is a music venue in New York City listed on soundcheck. 12 upcoming gigs, w
 | Fri, 20 Nov 2026 | SHEILA | Dee Diggs, Gail Force One, MarceauxMarceaux, Neon Christina |
 | Sat, 21 Nov 2026 | MegaMilk | Leonardo Glovibes |
 | Fri, 11 Dec 2026 | KEIN KLUB: Marie Davidson b2b Danny Daze  | Danny Daze, Jon K, Kilopatrah Jones, Marie Davidson |
+| Sat, 12 Dec 2026 | MUSCLECARS, Toribio, Love Injection: Together Again | Love Injection, MUSCLECARS, Toribio |
 
 ## Address
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

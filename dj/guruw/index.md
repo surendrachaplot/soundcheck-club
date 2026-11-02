@@ -1,8 +1,8 @@
 # guru'w
 
-guru'w is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 20 Dec 2026.
+guru'w is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 20 Dec 2026.
 
-guru'w is a techno and breakbeat artist, with 15 gigs on soundcheck across Belgrade, Berlin, Istanbul and Tbilisi. Often billed alongside Cenk Tripper, INTENSA and Belin. Next up: Lokschuppen Berlin, Berlin on Sun 20 Dec.
+guru'w is a techno and breakbeat artist based in Turkey, with 15 gigs on soundcheck across Belgrade, Berlin, Istanbul and Tbilisi. Often billed alongside Cenk Tripper, INTENSA and Belin. Next up: Lokschuppen Berlin, Berlin on Sun 20 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ guru'w is a techno and breakbeat artist, with 15 gigs on soundcheck across Belgr
 
 Cenk Tripper, INTENSA, Belin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guruw/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guruw/)*

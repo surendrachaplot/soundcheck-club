@@ -1,6 +1,6 @@
 # Alba Franch
 
-Alba Franch is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
+Alba Franch is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
 
 Alba Franch is a techno and trance artist based in Spain, with 155 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 23 more. Often billed alongside davyboi, Gerardo Niva and Cleopard2000. Next up: TBA, Amsterdam on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ Alba Franch is a techno and trance artist based in Spain, with 155 gigs on sound
 
 davyboi, Gerardo Niva, Cleopard2000
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/albafranch/)*

@@ -1,6 +1,6 @@
 # JackID
 
-JackID is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Innermost Warehouse , Sydney on Sat, 14 Nov 2026.
+JackID is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Innermost Warehouse , Sydney on Sat, 14 Nov 2026.
 
 JackID is a house and garage artist based in Australia, with 5 gigs on soundcheck across Sydney. Often billed alongside 2touch, Ari Kiko and Catch25. Next up: TBA - Innermost Warehouse , Sydney on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ JackID is a house and garage artist based in Australia, with 5 gigs on soundchec
 
 2touch, Ari Kiko, Catch25
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackid/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackid/)*

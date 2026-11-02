@@ -1,6 +1,6 @@
 # Jonas Blue
 
-Jonas Blue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Bohemia Beach Club, Dubai on Sat, 7 Nov 2026.
+Jonas Blue is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bohemia Beach Club, Dubai on Sat, 7 Nov 2026.
 
 Jonas Blue is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Bali, Barcelona, Boston and Chicago and 16 more. Often billed alongside James Hype (UK), Meduza and Paisley Jensen. Next up: Bohemia Beach Club, Dubai on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Jonas Blue is a house and techno artist based in United Kingdom, with 48 gigs on
 
 James Hype (UK), Meduza, Paisley Jensen
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasblue/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonasblue/)*

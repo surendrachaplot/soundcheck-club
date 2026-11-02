@@ -1,6 +1,6 @@
 # Fabient
 
-Fabient is a Ambient and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Not For Sale Gallery, London on Fri, 6 Nov 2026.
+Fabient is a Ambient and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Not For Sale Gallery, London on Fri, 6 Nov 2026.
 
 Fabient is an ambient and garage artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Ilya Gurin-Babayeu and Moa Pillar. Next up: Not For Sale Gallery, London on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Fabient is an ambient and garage artist based in United Kingdom, with 3 gigs on 
 
 Ilya Gurin-Babayeu, Moa Pillar
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabient/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabient/)*

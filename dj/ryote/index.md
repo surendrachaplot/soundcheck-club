@@ -1,8 +1,8 @@
 # Ryote
 
-Ryote is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Minneapolis/St Paul on Fri, 6 Nov 2026.
+Ryote is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Minneapolis/St Paul on Fri, 6 Nov 2026.
 
-Ryote is a techno and electro artist, with 7 gigs on soundcheck across Detroit and Minneapolis/St Paul. Often billed alongside ~~ (Tildetilde), Ali Berger and BEIGE. Next up: TBA, Minneapolis/St Paul on Fri 6 Nov.
+Ryote is a techno and electro artist based in United States of America, with 7 gigs on soundcheck across Detroit and Minneapolis/St Paul. Often billed alongside ~~ (Tildetilde), Ali Berger and BEIGE. Next up: TBA, Minneapolis/St Paul on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Ryote is a techno and electro artist, with 7 gigs on soundcheck across Detroit a
 
 ~~ (Tildetilde), Ali Berger, BEIGE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryote/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryote/)*

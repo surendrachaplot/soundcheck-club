@@ -1,6 +1,6 @@
 # Jack Ling
 
-Jack Ling is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
+Jack Ling is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at NUMBER 90 LONDON, London on Sat, 5 Dec 2026.
 
 Jack Ling is a house and tech house artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Barcelona, Dublin and Leeds and 1 more. Often billed alongside Jayar, Zach Murray and ADMNTi. Next up: NUMBER 90 LONDON, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Jack Ling is a house and tech house artist based in United Kingdom, with 31 gigs
 
 Jayar, Zach Murray, ADMNTi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackling/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackling/)*

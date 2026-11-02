@@ -1,6 +1,6 @@
 # le0never
 
-le0never is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+le0never is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 le0never is a techno and trance artist, with 19 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Franziska Frizzante, Rittmus and freesi. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ le0never is a techno and trance artist, with 19 gigs on soundcheck across Berlin
 
 Franziska Frizzante, Rittmus, freesi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/le0never/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/le0never/)*

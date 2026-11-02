@@ -1,8 +1,8 @@
 # Hamdi Ryder
 
-Hamdi Ryder is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Hamdi Ryder is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Hamdi Ryder is a house and minimal artist, with 11 gigs on soundcheck across Frankfurt, Istanbul, Lyon and Paris and 2 more. Often billed alongside Jannis Brinkmann, Lemac and SAFA. Next up: One Resort, Tunisia on Thu 5 Nov.
+Hamdi Ryder is a house and minimal artist based in Tunisia, with 11 gigs on soundcheck across Frankfurt, Istanbul, Lyon and Paris and 2 more. Often billed alongside Jannis Brinkmann, Lemac and SAFA. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Hamdi Ryder is a house and minimal artist, with 11 gigs on soundcheck across Fra
 
 Jannis Brinkmann, Lemac, SAFA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdiryder/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamdiryder/)*

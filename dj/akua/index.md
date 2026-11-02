@@ -1,6 +1,6 @@
 # Akua
 
-Akua is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Concept Haus, Manchester on Sat, 7 Nov 2026.
+Akua is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Concept Haus, Manchester on Sat, 7 Nov 2026.
 
 Akua is a techno and house artist based in United States of America, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 59 more. Often billed alongside 1morning, Freddy K and Rødhåd. Next up: Concept Haus, Manchester on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Akua is a techno and house artist based in United States of America, with 227 gi
 
 1morning, Freddy K, Rødhåd
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akua/)*

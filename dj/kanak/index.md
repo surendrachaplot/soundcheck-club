@@ -1,6 +1,6 @@
 # KanaK
 
-KanaK is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
+KanaK is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
 KanaK is a techno and breakbeat artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside Anapol, Daniel Merlot and Drinkss. Next up: WOMB, Tokyo on Mon 2 Nov.
 
@@ -24,4 +24,4 @@ KanaK is a techno and breakbeat artist based in Japan, with 8 gigs on soundcheck
 
 Anapol, Daniel Merlot, Drinkss
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanak/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kanak/)*

@@ -1,6 +1,6 @@
 # Ebenezer Good
 
-Ebenezer Good is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ouseburn Garden, Newcastle on Fri, 6 Nov 2026.
+Ebenezer Good is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ouseburn Garden, Newcastle on Fri, 6 Nov 2026.
 
 Ebenezer Good is a bass and garage artist, with 2 gigs on soundcheck across Newcastle. Next up: Ouseburn Garden, Newcastle on Fri 6 Nov.
 
@@ -14,4 +14,4 @@ Ebenezer Good is a bass and garage artist, with 2 gigs on soundcheck across Newc
 
 - Ouseburn Garden, Newcastle · Fri, 13 Dec 2024
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebenezergood/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebenezergood/)*

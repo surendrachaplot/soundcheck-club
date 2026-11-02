@@ -1,8 +1,8 @@
 # SANA (US)
 
-SANA (US) is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
+SANA (US) is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Planet Wax, London on Thu, 12 Nov 2026.
 
-SANA (US) is a funk / soul and house artist, with 17 gigs on soundcheck across London, Melbourne, New Orleans and New York City and 2 more. Often billed alongside DJ Soul Sister, L3Ni and Natasha Diggs. Next up: Planet Wax, London on Thu 12 Nov.
+SANA (US) is a funk / soul and house artist based in United States of America, with 17 gigs on soundcheck across London, Melbourne, New Orleans and New York City and 2 more. Often billed alongside DJ Soul Sister, L3Ni and Natasha Diggs. Next up: Planet Wax, London on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SANA (US) is a funk / soul and house artist, with 17 gigs on soundcheck across L
 
 DJ Soul Sister, L3Ni, Natasha Diggs
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-us/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sana-us/)*

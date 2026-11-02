@@ -1,13 +1,14 @@
 # Klaps
 
-Klaps is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at MUENZE, Berlin on Wed, 30 Dec 2026.
+Klaps is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Crackhouse, Gdansk on Sat, 14 Nov 2026.
 
-Klaps is a techno and house artist based in Belgium, with 30 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Reinier Zonneveld, Jane Muss and Maharti. Next up: MUENZE, Berlin on Wed 30 Dec.
+Klaps is a techno and house artist based in Belgium, with 31 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside Reinier Zonneveld, Jane Muss and Maharti. Next up: Crackhouse, Gdansk on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Crackhouse | Gdansk |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Klaps is a techno and house artist based in Belgium, with 30 gigs on soundcheck 
 
 Reinier Zonneveld, Jane Muss, Maharti
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klaps-be/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klaps-be/)*

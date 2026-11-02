@@ -1,14 +1,14 @@
 # Jade
 
-Jade is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Jade is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
-Jade is a techno and house artist based in Lebanon, with 33 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 15 more. Often billed alongside DJ Marky, Ed Rush and Kasra. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
+Jade is a techno and house artist based in Lebanon, with 34 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 16 more. Often billed alongside DJ Marky, Ed Rush and Kasra. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Sandy Beach Hotel & Resort | Dubai |
+| Sat, 14 Nov 2026 | TBA - Jacks Bar | South-korea |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Jade is a techno and house artist based in Lebanon, with 33 gigs on soundcheck a
 
 DJ Marky, Ed Rush, Kasra
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jade/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jade/)*

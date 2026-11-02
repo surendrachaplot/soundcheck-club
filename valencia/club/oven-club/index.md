@@ -1,6 +1,6 @@
 # Oven Club
 
-Oven Club is a music venue in Valencia with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ERA: Depanachi + Gonzabraa" on Thu, 5 Nov 2026.
+Oven Club is a music venue in Valencia with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ERA: Depanachi + Gonzabraa" on Thu, 5 Nov 2026.
 
 Oven Club is a music venue in Valencia listed on soundcheck. 12 upcoming gigs, with line-ups including Arellano, Blanch, Camion Bazar and CAMMMMM and 2 more. See dates, start times and who's playing. Gran Vía Germanías 31 Valencia.
 
@@ -23,4 +23,4 @@ Oven Club is a music venue in Valencia listed on soundcheck. 12 upcoming gigs, w
 
 Gran Vía Germanías 31 Valencia, Valencia
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/oven-club/)*

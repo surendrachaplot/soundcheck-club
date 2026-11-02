@@ -1,8 +1,8 @@
 # Alliezz
 
-Alliezz is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
+Alliezz is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 27 Dec 2026.
 
-Alliezz is a hardcore and trance artist, with 29 gigs on soundcheck across Berlin, Cologne, Nürnberg and Stuttgart. Often billed alongside DJ Henk, LØUS and m4tsch1. Next up: Lokschuppen Berlin, Berlin on Sun 27 Dec.
+Alliezz is a hardcore and trance artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne, Nürnberg and Stuttgart. Often billed alongside DJ Henk, LØUS and m4tsch1. Next up: Lokschuppen Berlin, Berlin on Sun 27 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Alliezz is a hardcore and trance artist, with 29 gigs on soundcheck across Berli
 
 DJ Henk, LØUS, m4tsch1
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alliezz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alliezz/)*

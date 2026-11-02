@@ -1,6 +1,6 @@
 # NIX Barcelona
 
-NIX Barcelona is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "OFF & FRATELLO pres VITO UK, Ferra Black at Nix" on Fri, 6 Nov 2026.
+NIX Barcelona is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "OFF & FRATELLO pres VITO UK, Ferra Black at Nix" on Fri, 6 Nov 2026.
 
 NIX Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Amal Nemer, Chico Rose, Dani Corberó and Ferra Black and 2 more. See dates, start times and who's playing. Diputacion 92, Barcelona.
 
@@ -17,4 +17,4 @@ NIX Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming gig
 
 Diputacion 92, Barcelona, Barcelona
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nix-barcelona/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nix-barcelona/)*

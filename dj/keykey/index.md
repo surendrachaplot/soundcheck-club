@@ -1,13 +1,14 @@
 # Keykey
 
-Keykey is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Patronaat, Amsterdam on Sat, 28 Nov 2026.
+Keykey is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Rolluik, Nijmegen on Fri, 27 Nov 2026.
 
-Keykey is a techno and trance artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Rotterdam and Utrecht. Often billed alongside DIØN, Azzurro and BISOUX. Next up: Patronaat, Amsterdam on Sat 28 Nov.
+Keykey is a techno and trance artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Nijmegen, Rotterdam and Utrecht. Often billed alongside DIØN, Azzurro and BISOUX. Next up: Rolluik, Nijmegen on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Rolluik | Nijmegen |
 | Sat, 28 Nov 2026 | Patronaat | Amsterdam |
 
 ## Recently played
@@ -21,4 +22,4 @@ Keykey is a techno and trance artist based in Netherlands, with 5 gigs on soundc
 
 DIØN, Azzurro, BISOUX
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keykey/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keykey/)*

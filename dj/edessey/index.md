@@ -1,6 +1,6 @@
 # Edessey
 
-Edessey is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Korpuss, Riga on Fri, 13 Nov 2026.
+Edessey is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Korpuss, Riga on Fri, 13 Nov 2026.
 
 Edessey is a psytrance and techno artist, with 3 gigs on soundcheck across Riga. Often billed alongside DEP (LV), Dmitry Puffin and E91. Next up: Korpuss, Riga on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Edessey is a psytrance and techno artist, with 3 gigs on soundcheck across Riga.
 
 DEP (LV), Dmitry Puffin, E91
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edessey/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edessey/)*

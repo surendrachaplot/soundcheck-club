@@ -1,6 +1,6 @@
 # Acid Arab - Zénith Paris - La Villette at Zénith Paris - La Villette
 
-Acid Arab - Zénith Paris - La Villette on Sat 30 Jan, Paris. 1 artist: Acid Arab. See the line-up on soundcheck.
+Acid Arab - Zénith Paris - La Villette on Sat 30 Jan, Paris. 1 artist: Acid Arab. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

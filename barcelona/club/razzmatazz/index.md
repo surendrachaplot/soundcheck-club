@@ -1,14 +1,13 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks)" on Sun, 1 Nov 2026.
+Razzmatazz is a music venue in Barcelona with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "RAZZCLUBS: Egyptian Lover + Griffi + Alvaro Medina + BMT: Flava D" on Fri, 6 Nov 2026.
 
-Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvaro Medina and Alvva and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
+Razzmatazz is a music venue in Barcelona listed on soundcheck. 13 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvaro Medina and Alvva and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) | ANJELIKA SAHAKIAN, Art of Fighters, DIDIXX, Lady Dammage, Pinotello, Revenja, Samuel Moriero (2), Vortek's |
 | Fri, 6 Nov 2026 | RAZZCLUBS: Egyptian Lover + Griffi + Alvaro Medina + BMT: Flava D | Alvaro Medina, Egyptian Lover, Flava D, Montenegro, RUXI, Yume (JP) |
 | Sat, 7 Nov 2026 | RAZZCLUBS: Shanti Celeste + NIKS - Powered By Greenlight Sound System | Arnic, DJ MELL G, Dsprfcto, Hi-Ki, Jhort, NIKS, Nadia Struiwigh, Olor Acre, Pelacha, Shanti Celeste, WLDV |
 | Fri, 13 Nov 2026 | SPORTS |  |
@@ -18,9 +17,10 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs,
 | Sat, 21 Nov 2026 | Pre-human x Refractor: Alohn, Andrae Durden, Convoluted Mental Mirror, Gaber, Malesa | Andrae Durden, Convoluted Mental Mirror, Malesa |
 | Sat, 21 Nov 2026 | RAZZCLUBS: Lizz presenta La Chismoteka: Entropika + Reeko b2b Tensal + SHXCXCHCXSH Live | Blaark, Convoluted Mental Mirror, Kanti, ORFIGYAL, Reeko, SHXCXCHCXSH, Tensal |
 | Thu, 26 Nov 2026 | COBRAH | COBRAH |
+| Fri, 27 Nov 2026 | RAZZCLUBS: Casa Pepa X Gallery Sessions: Secret Guest + Bobby Beethoven + Mina Galán | Alex Wilcox, Baby Pantera, JUMER, John Heaven, Mina Galán, Presunta (2) |
 
 ## Address
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

@@ -1,6 +1,6 @@
 # TYDE
 
-TYDE is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 6 Nov 2026.
+TYDE is a Progressive House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at DNA. CLUB, Berlin on Fri, 6 Nov 2026.
 
 TYDE is a progressive house and tech house artist, with 3 gigs on soundcheck across Berlin. Often billed alongside Tallah, Astrocue and ARYA. Next up: DNA. CLUB, Berlin on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ TYDE is a progressive house and tech house artist, with 3 gigs on soundcheck acr
 
 Tallah, Astrocue, ARYA (3)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tyde/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tyde/)*

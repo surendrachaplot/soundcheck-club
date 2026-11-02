@@ -1,6 +1,6 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Astron Club, Athens on Sat, 14 Nov 2026.
+Takaaki Itoh is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Astron Club, Athens on Sat, 14 Nov 2026.
 
 Takaaki Itoh is a techno and house artist based in Japan, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside Loktibrada, DANA NADA and DANDAN. Next up: Astron Club, Athens on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Takaaki Itoh is a techno and house artist based in Japan, with 132 gigs on sound
 
 Loktibrada, DANA NADA, DANDAN
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takaakiitoh/)*

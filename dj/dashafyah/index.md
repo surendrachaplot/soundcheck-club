@@ -1,8 +1,8 @@
 # Dasha Fyah
 
-Dasha Fyah is a Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cross Club, Prague on Fri, 6 Nov 2026.
+Dasha Fyah is a Dub artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cross Club, Prague on Fri, 6 Nov 2026.
 
-Dasha Fyah is a dub artist, with 8 gigs on soundcheck across Brussels and Prague. Often billed alongside Carrageenan, EliseThere and Katrixia. Next up: Cross Club, Prague on Fri 6 Nov.
+Dasha Fyah is a dub artist based in Czech Republic, with 8 gigs on soundcheck across Brussels and Prague. Often billed alongside Carrageenan, EliseThere and Katrixia. Next up: Cross Club, Prague on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Dasha Fyah is a dub artist, with 8 gigs on soundcheck across Brussels and Prague
 
 Carrageenan, EliseThere, Katrixia
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashafyah/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dashafyah/)*

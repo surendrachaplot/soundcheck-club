@@ -1,8 +1,8 @@
 # LABOUR
 
-LABOUR is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
+LABOUR is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Silent Green, Berlin on Fri, 13 Nov 2026.
 
-LABOUR is an experimental and electro artist, with 8 gigs on soundcheck across Berlin and London. Often billed alongside Lamin Fofana, 2K88 and Al Wootton. Next up: Silent Green, Berlin on Fri 13 Nov.
+LABOUR is an experimental and electro artist based in Germany, with 8 gigs on soundcheck across Berlin and London. Often billed alongside Lamin Fofana, 2K88 and Al Wootton. Next up: Silent Green, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ LABOUR is an experimental and electro artist, with 8 gigs on soundcheck across B
 
 Lamin Fofana, 2K88, Al Wootton
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labour/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labour/)*

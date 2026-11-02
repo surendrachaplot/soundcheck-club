@@ -1,6 +1,6 @@
 # Revenanth
 
-Revenanth is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Giri, Berlin on Fri, 6 Nov 2026.
+Revenanth is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Giri, Berlin on Fri, 6 Nov 2026.
 
 Revenanth is a techno and ambient artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Am Nil, Argie and Avilynn. Next up: Giri, Berlin on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Revenanth is a techno and ambient artist based in Netherlands, with 3 gigs on so
 
 Am Nil, Argie, Avilynn
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/revenanth/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/revenanth/)*

@@ -1,6 +1,6 @@
 # Manara
 
-Manara is a Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ninety One, London on Thu, 31 Dec 2026.
+Manara is a Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ninety One, London on Thu, 31 Dec 2026.
 
 Manara is a bass and broken beat artist, with 4 gigs on soundcheck across London and Madrid. Often billed alongside A.Wild, Acid Sally and Alien Communications. Next up: Ninety One, London on Thu 31 Dec.
 
@@ -20,4 +20,4 @@ Manara is a bass and broken beat artist, with 4 gigs on soundcheck across London
 
 A.Wild, Acid Sally, Alien Communications
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manara/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manara/)*

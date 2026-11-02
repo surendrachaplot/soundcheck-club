@@ -1,13 +1,14 @@
 # Rolex3k
 
-Rolex3k is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Paloma, Berlin on Sat, 21 Nov 2026.
+Rolex3k is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Giri, Berlin on Thu, 19 Nov 2026.
 
-Rolex3k is a bass and dubstep artist based in Germany, with 17 gigs on soundcheck across Berlin, Copenhagen, Dortmund / Essen and Hamburg and 2 more. Often billed alongside Finally Julius, DJ FIPS and 300km/h. Next up: Paloma, Berlin on Sat 21 Nov.
+Rolex3k is a bass and dubstep artist based in Germany, with 18 gigs on soundcheck across Berlin, Copenhagen, Dortmund / Essen and Hamburg and 2 more. Often billed alongside Finally Julius, DJ FIPS and 300km/h. Next up: Giri, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Giri | Berlin |
 | Sat, 21 Nov 2026 | Paloma | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Rolex3k is a bass and dubstep artist based in Germany, with 17 gigs on soundchec
 
 Finally Julius, DJ FIPS, 300km/h
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolex3k/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolex3k/)*

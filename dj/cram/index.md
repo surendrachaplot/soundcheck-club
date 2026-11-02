@@ -1,6 +1,6 @@
 # CRAM
 
-CRAM is a Hip-Hop and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at club asia, Tokyo on Fri, 27 Nov 2026.
+CRAM is a Hip-Hop and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at club asia, Tokyo on Fri, 27 Nov 2026.
 
 CRAM is a hip-hop and breakbeat artist, with 2 gigs on soundcheck across Tokyo. Often billed alongside DJ Quietstorm, Shinobi and shinobi (US). Next up: club asia, Tokyo on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ CRAM is a hip-hop and breakbeat artist, with 2 gigs on soundcheck across Tokyo. 
 
 DJ Quietstorm, Shinobi, shinobi (US)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cram/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cram/)*

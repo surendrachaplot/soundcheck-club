@@ -1,6 +1,6 @@
 # Blacky
 
-Blacky is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
+Blacky is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 28 Nov 2026.
 
 Blacky is a techno and hardcore artist based in United Kingdom, with 2 gigs on soundcheck across Belfast and Tokyo. Often billed alongside Alarico, Dash (CZ) and Hiro. Next up: Circus Tokyo, Tokyo on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ Blacky is a techno and hardcore artist based in United Kingdom, with 2 gigs on s
 
 Alarico, Dash (CZ), Hiro
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacky/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacky/)*

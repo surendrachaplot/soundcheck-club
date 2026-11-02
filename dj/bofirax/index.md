@@ -1,6 +1,6 @@
 # Bofirax
 
-Bofirax is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
+Bofirax is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
 
 Bofirax is a house and latin bass artist, with 2 gigs on soundcheck across Barcelona. Often billed alongside DJ Python, Egyptian Greyhound and Fernando Lagreca. Next up: Nitsa Club, Barcelona on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ Bofirax is a house and latin bass artist, with 2 gigs on soundcheck across Barce
 
 DJ Python, Egyptian Greyhound, Fernando Lagreca
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bofirax/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bofirax/)*

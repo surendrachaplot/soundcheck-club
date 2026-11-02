@@ -1,6 +1,6 @@
 # DJ Business (2)
 
-DJ Business (2) is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Kurt & Komisch, Bavaria on Fri, 6 Nov 2026.
+DJ Business (2) is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kurt & Komisch, Bavaria on Fri, 6 Nov 2026.
 
 DJ Business is a house and bass artist based in Germany, with 64 gigs on soundcheck across Basel, Bavaria, Berlin and Cologne and 10 more. Often billed alongside Wall Ra, Carl Hang and Sophti. Next up: Kurt & Komisch, Bavaria on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ DJ Business is a house and bass artist based in Germany, with 64 gigs on soundch
 
 Wall Ra, Carl Hang, Sophti
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbusiness-2/)*

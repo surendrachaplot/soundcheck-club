@@ -1,6 +1,6 @@
 # SunnySun
 
-SunnySun is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 13 Nov 2026.
+SunnySun is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 13 Nov 2026.
 
 SunnySun is a house and italo disco artist based in Slovenia, with 12 gigs on soundcheck across Bucharest, Ljubljana and Vienna. Often billed alongside AR:TE, Akaj and Lakmi. Next up: Platforma Wolff, Bucharest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SunnySun is a house and italo disco artist based in Slovenia, with 12 gigs on so
 
 AR:TE, Akaj, Lakmi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysun/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnysun/)*

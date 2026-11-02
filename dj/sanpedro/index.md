@@ -1,6 +1,6 @@
 # San Pedro
 
-San Pedro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Hoppetosse, Berlin on Fri, 20 Nov 2026.
+San Pedro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hoppetosse, Berlin on Fri, 20 Nov 2026.
 
 San Pedro is a techno and house artist based in Italy, with 43 gigs on soundcheck across Berlin, Miami and Milan. Often billed alongside Uabos, Giamma Soren and Vannelli Bros. Next up: Hoppetosse, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ San Pedro is a techno and house artist based in Italy, with 43 gigs on soundchec
 
 Uabos, Giamma Soren, Vannelli Bros
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanpedro/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanpedro/)*

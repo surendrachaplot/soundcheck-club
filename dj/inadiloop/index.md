@@ -1,6 +1,6 @@
 # inadiloop
 
-inadiloop is a Krautrock and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bal Chavaux, Paris on Sat, 21 Nov 2026.
+inadiloop is a Krautrock and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bal Chavaux, Paris on Sat, 21 Nov 2026.
 
 inadiloop is a krautrock and dub artist, with 2 gigs on soundcheck across Paris. Often billed alongside K1000 (FR) and Sorun. Next up: Bal Chavaux, Paris on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ inadiloop is a krautrock and dub artist, with 2 gigs on soundcheck across Paris.
 
 K1000 (FR), Sorun
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inadiloop/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inadiloop/)*

@@ -1,8 +1,8 @@
 # Mike Dub
 
-Mike Dub is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
+Mike Dub is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Der Weiße Hase, Berlin on Sat, 14 Nov 2026.
 
-Mike Dub is a techno and tech house artist, with 9 gigs on soundcheck across Berlin. Often billed alongside Der Würfler, Tanith and Henriko S. Sagert. Next up: Der Weiße Hase, Berlin on Sat 14 Nov.
+Mike Dub is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Der Würfler, Tanith and Henriko S. Sagert. Next up: Der Weiße Hase, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mike Dub is a techno and tech house artist, with 9 gigs on soundcheck across Ber
 
 Der Würfler, Tanith, Henriko S. Sagert
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedub/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedub/)*

@@ -1,6 +1,6 @@
 # Anna Ullrich
 
-Anna Ullrich is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Club Exil, Vienna on Fri, 6 Nov 2026.
+Anna Ullrich is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Exil, Vienna on Fri, 6 Nov 2026.
 
 Anna Ullrich is a techno and trance artist based in Austria, with 53 gigs on soundcheck across Berlin, Hamburg, Milan and Munich and 2 more. Often billed alongside Who is ela¿, Dimitrios and TAUSEND2Ø. Next up: Club Exil, Vienna on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Anna Ullrich is a techno and trance artist based in Austria, with 53 gigs on sou
 
 Who is ela¿, Dimitrios (2), TAUSEND2Ø
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annaullrich/)*

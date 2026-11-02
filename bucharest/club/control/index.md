@@ -1,6 +1,6 @@
 # control
 
-control is a music venue in Bucharest with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ctrl LIVE: #FLUID- „all that is solid melts into air' Album Launch" on Wed, 4 Nov 2026.
+control is a music venue in Bucharest with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ctrl LIVE: #FLUID- „all that is solid melts into air' Album Launch" on Wed, 4 Nov 2026.
 
 control is a music venue in Bucharest listed on soundcheck. 12 upcoming gigs, with line-ups including Actress, Admina, Bjørn Torske and Borusiade and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
@@ -23,4 +23,4 @@ control is a music venue in Bucharest listed on soundcheck. 12 upcoming gigs, wi
 
 Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania, Bucharest
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/control/)*

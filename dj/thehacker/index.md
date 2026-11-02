@@ -1,6 +1,6 @@
 # The Hacker
 
-The Hacker is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Kaiku, Helsinki on Fri, 6 Nov 2026.
+The Hacker is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kaiku, Helsinki on Fri, 6 Nov 2026.
 
 The Hacker is a techno and electro artist based in France, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 49 more. Often billed alongside Miss Kittin, Alessandro Adriani and Charlie. Next up: Kaiku, Helsinki on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ The Hacker is a techno and electro artist based in France, with 131 gigs on soun
 
 Miss Kittin, Alessandro Adriani, Charlie
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thehacker/)*

@@ -1,6 +1,6 @@
 # Mardean
 
-Mardean is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Kauz, Zurich on Sat, 21 Nov 2026.
+Mardean is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kauz, Zurich on Sat, 21 Nov 2026.
 
 Mardean is a house and tech house artist, with 2 gigs on soundcheck across Zurich. Often billed alongside Dirty Doering, Marcus Meinhardt and AVA Irandoost. Next up: Kauz, Zurich on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Mardean is a house and tech house artist, with 2 gigs on soundcheck across Zuric
 
 Dirty Doering, Marcus Meinhardt, AVA Irandoost
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mardean-it/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mardean-it/)*

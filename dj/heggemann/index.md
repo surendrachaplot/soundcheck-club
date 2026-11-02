@@ -1,6 +1,6 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 6 Nov 2026.
+Mika Heggemann is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 6 Nov 2026.
 
 Mika Heggemann is a techno and trance artist based in Germany, with 192 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 46 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Mika Heggemann is a techno and trance artist based in Germany, with 192 gigs on 
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

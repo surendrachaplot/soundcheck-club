@@ -1,6 +1,6 @@
 # Bass Btch
 
-Bass Btch is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 27 Nov 2026.
+Bass Btch is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 27 Nov 2026.
 
 Bass Btch is a pop and house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam. Often billed alongside Absoluut, TMORGZ and Jordy Jordos. Next up: THE OTHER SIDE, Amsterdam on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Bass Btch is a pop and house artist based in Netherlands, with 5 gigs on soundch
 
 Absoluut, TMORGZ, Jordy Jordos
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbtch/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassbtch/)*

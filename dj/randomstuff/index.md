@@ -1,6 +1,6 @@
 # Random Stuff
 
-Random Stuff is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sala El Tren, South on Sat, 7 Nov 2026.
+Random Stuff is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sala El Tren, South on Sat, 7 Nov 2026.
 
 Random Stuff is an electronic artist based in Spain, with 4 gigs on soundcheck across Barcelona, Madrid and South. Often billed alongside Dzeko, Anso and Cynth. Next up: Sala El Tren, South on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Random Stuff is an electronic artist based in Spain, with 4 gigs on soundcheck a
 
 Dzeko, Anso, Cynth
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomstuff/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomstuff/)*

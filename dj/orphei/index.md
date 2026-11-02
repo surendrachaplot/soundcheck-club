@@ -1,6 +1,6 @@
 # orphei
 
-orphei is a Garage and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Minusa Music Club, Madrid on Fri, 20 Nov 2026.
+orphei is a Garage and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Minusa Music Club, Madrid on Fri, 20 Nov 2026.
 
 orphei is a garage and electronica artist based in Spain, with 2 gigs on soundcheck across Madrid. Next up: Minusa Music Club, Madrid on Fri 20 Nov.
 
@@ -14,4 +14,4 @@ orphei is a garage and electronica artist based in Spain, with 2 gigs on soundch
 
 - Minusa Music Club, Madrid · Sat, 12 Sept 2026
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orphei/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orphei/)*

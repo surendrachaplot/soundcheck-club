@@ -1,8 +1,8 @@
 # Seelene
 
-Seelene is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
+Seelene is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
 
-Seelene is a techno and ebm artist, with 5 gigs on soundcheck across Portland, Seattle and Vancouver. Often billed alongside 'nohup', Sharlese and ADAB. Next up: Process PDX, Portland on Fri 13 Nov.
+Seelene is a techno and ebm artist based in United States of America, with 5 gigs on soundcheck across Portland, Seattle and Vancouver. Often billed alongside 'nohup', Sharlese and ADAB. Next up: Process PDX, Portland on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Seelene is a techno and ebm artist, with 5 gigs on soundcheck across Portland, S
 
 'nohup', Sharlese, ADAB
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seelene/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seelene/)*

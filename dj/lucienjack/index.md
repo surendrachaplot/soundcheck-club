@@ -1,6 +1,6 @@
 # Lucien Jack
 
-Lucien Jack is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
+Lucien Jack is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
 
 Lucien Jack is a minimal and house artist, with 4 gigs on soundcheck across Colombia and Medellin. Often billed alongside M1LA, JD Groovin' and Sir Leaks. Next up: EL Tana, Colombia on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Lucien Jack is a minimal and house artist, with 4 gigs on soundcheck across Colo
 
 M1LA, JD Groovin', Sir Leaks
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienjack/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucienjack/)*

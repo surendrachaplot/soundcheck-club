@@ -1,6 +1,6 @@
 # WDM
 
-WDM is a music venue in Hannover with 16 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Butschi & DJ Sonnenbrand presents: Outer Limits ALL NIGHT LONG" on Fri, 6 Nov 2026.
+WDM is a music venue in Hannover with 16 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Butschi & DJ Sonnenbrand presents: Outer Limits ALL NIGHT LONG" on Fri, 6 Nov 2026.
 
 WDM is a music venue in Hannover listed on soundcheck. 16 upcoming gigs, with line-ups including 2HOT2PLAY, 5euroGoldi, AEREA and Alisa Stovik and 2 more. See dates, start times and who's playing. Weidendamm 8, 30167 Hannover.
 
@@ -23,4 +23,4 @@ WDM is a music venue in Hannover listed on soundcheck. 16 upcoming gigs, with li
 
 Weidendamm 8, 30167 Hannover, Hannover
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/hannover/club/wdm/)*

@@ -1,8 +1,8 @@
 # butters
 
-butters is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Arts Factory Byron Bay, Byron Bay on Fri, 1 Jan 2027.
+butters is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Arts Factory Byron Bay, Byron Bay on Fri, 1 Jan 2027.
 
-butters is a house and techno artist, with 5 gigs on soundcheck across Byron Bay, Manchester and Sydney. Often billed alongside Anthony Pappa, Ben Nott and Charles X. Next up: The Arts Factory Byron Bay, Byron Bay on Fri 1 Jan.
+butters is a house and techno artist based in Australia, with 5 gigs on soundcheck across Byron Bay, Manchester and Sydney. Often billed alongside Anthony Pappa, Ben Nott and Charles X. Next up: The Arts Factory Byron Bay, Byron Bay on Fri 1 Jan.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ butters is a house and techno artist, with 5 gigs on soundcheck across Byron Bay
 
 Anthony Pappa, Ben Nott, Charles X
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butters/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butters/)*

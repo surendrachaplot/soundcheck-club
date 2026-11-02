@@ -1,6 +1,6 @@
 # Electric Circus
 
-Electric Circus is a music venue in Adelaide with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "SIMPLY TECHNO // CLUB SESSIONS" on Fri, 20 Nov 2026.
+Electric Circus is a music venue in Adelaide with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "SIMPLY TECHNO // CLUB SESSIONS" on Fri, 20 Nov 2026.
 
 Electric Circus is a music venue in Adelaide listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Electric Circus is a music venue in Adelaide listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | SIMPLY TECHNO // CLUB SESSIONS |  |
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/electric-circus/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/adelaide/club/electric-circus/)*

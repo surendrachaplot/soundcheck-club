@@ -1,6 +1,6 @@
 # Nadz
 
-Nadz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bella Vista Hotel, Sydney on Sat, 5 Dec 2026.
+Nadz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bella Vista Hotel, Sydney on Sat, 5 Dec 2026.
 
 Nadz is a house and techno artist based in France, with 2 gigs on soundcheck across Manchester and Sydney. Often billed alongside Special K (SY). Next up: Bella Vista Hotel, Sydney on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Nadz is a house and techno artist based in France, with 2 gigs on soundcheck acr
 
 Special K (SY)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadz/)*

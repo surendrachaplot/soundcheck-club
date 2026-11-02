@@ -1,6 +1,6 @@
 # n4tee
 
-n4tee is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Bongo Club, Edinburgh on Thu, 19 Nov 2026.
+n4tee is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Bongo Club, Edinburgh on Thu, 19 Nov 2026.
 
 n4tee is a garage and house artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 16 more. Often billed alongside Auramatic, Skeptic and DAISY. Next up: The Bongo Club, Edinburgh on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ n4tee is a garage and house artist based in United Kingdom, with 43 gigs on soun
 
 Auramatic, Skeptic, DAISY
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4tee/)*

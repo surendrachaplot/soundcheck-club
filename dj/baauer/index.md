@@ -1,14 +1,13 @@
 # Baauer
 
-Baauer is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Baauer is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 21 Nov 2026.
 
-Baauer is a house and bass artist based in United States of America, with 26 gigs on soundcheck across Boston, Chicago, Dallas Fort Worth and Denver and 11 more. Often billed alongside ATRIP, Bianca Oblivion and Conducta. Next up: Factory Town, Miami on Fri 30 Oct.
+Baauer is a house and bass artist based in United States of America, with 26 gigs on soundcheck across Boston, Chicago, Dallas Fort Worth and Denver and 11 more. Often billed alongside ATRIP, Bianca Oblivion and Conducta. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
@@ -26,4 +25,4 @@ Baauer is a house and bass artist based in United States of America, with 26 gig
 
 ATRIP, Bianca Oblivion, Conducta
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baauer/)*

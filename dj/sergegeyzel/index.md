@@ -1,8 +1,8 @@
 # Serge Geyzel
 
-Serge Geyzel is a Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Astron Club, Athens on Fri, 20 Nov 2026.
+Serge Geyzel is a Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Astron Club, Athens on Fri, 20 Nov 2026.
 
-Serge Geyzel is an electro artist, with 8 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 1 more. Often billed alongside Ancient Methods, ElectroDon and L.F.T.. Next up: Astron Club, Athens on Fri 20 Nov.
+Serge Geyzel is an electro artist based in Germany, with 8 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 1 more. Often billed alongside Ancient Methods, ElectroDon and L.F.T.. Next up: Astron Club, Athens on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Serge Geyzel is an electro artist, with 8 gigs on soundcheck across Athens, Barc
 
 Ancient Methods, ElectroDon, L.F.T.
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergegeyzel/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergegeyzel/)*

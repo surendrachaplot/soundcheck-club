@@ -1,6 +1,6 @@
 # Maldita Vaina
 
-Maldita Vaina is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Panke, Berlin on Sat, 7 Nov 2026.
+Maldita Vaina is a Reggaeton and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Panke, Berlin on Sat, 7 Nov 2026.
 
 Maldita Vaina is a reggaeton and club artist based in Dominican Republic, with 13 gigs on soundcheck across Berlin, Brussels, Houston and Leeds and 4 more. Often billed alongside Total XTC, ARMANA KHAN and ASHTREY. Next up: Panke, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Maldita Vaina is a reggaeton and club artist based in Dominican Republic, with 1
 
 Total XTC, ARMANA KHAN, ASHTREY
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malditavaina/)*

@@ -1,8 +1,8 @@
 # Storm Mollison
 
-Storm Mollison is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at KOKO, London on Sat, 21 Nov 2026.
+Storm Mollison is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at KOKO, London on Sat, 21 Nov 2026.
 
-Storm Mollison is a house and disco artist based in United Kingdom, with 72 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 10 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: KOKO, London on Sat 21 Nov.
+Storm Mollison is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 10 more. Often billed alongside Joshua James, Dan Shake and D Stone. Next up: KOKO, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Storm Mollison is a house and disco artist based in United Kingdom, with 72 gigs
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | KOKO | London |
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
+| Thu, 31 Dec 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Storm Mollison is a house and disco artist based in United Kingdom, with 72 gigs
 
 Joshua James, Dan Shake, D Stone
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stormmollison/)*

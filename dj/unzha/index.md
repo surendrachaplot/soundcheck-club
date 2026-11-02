@@ -1,6 +1,6 @@
 # UNZHA
 
-UNZHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
+UNZHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
 
 UNZHA is a house and techno artist based in Germany, with 58 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Prague and 1 more. Often billed alongside DJ SOURCE, Tana and yamagucci42. Next up: Südpol, Hamburg on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ UNZHA is a house and techno artist based in Germany, with 58 gigs on soundcheck 
 
 DJ SOURCE, Tana (2), yamagucci42
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unzha/)*

@@ -1,8 +1,8 @@
 # phazer.
 
-phazer. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
+phazer. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
 
-phazer. is a techno and house artist, with 8 gigs on soundcheck across Berlin. Often billed alongside CALLE, Jai Juu and NEID. Next up: Blue Velvet, Berlin on Sat 7 Nov.
+phazer. is a techno and house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside CALLE, Jai Juu and NEID. Next up: Blue Velvet, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ phazer. is a techno and house artist, with 8 gigs on soundcheck across Berlin. O
 
 CALLE, Jai Juu, NEID
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phazer./)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phazer./)*

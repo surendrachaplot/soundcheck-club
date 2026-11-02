@@ -1,6 +1,6 @@
 # DINKS
 
-DINKS is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
+DINKS is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Südpol, Hamburg on Fri, 13 Nov 2026.
 
 DINKS is a house and italo disco artist based in Germany, with 3 gigs on soundcheck across Hamburg. Often billed alongside Bizzarro Universe, Caro Vola and Chris Hanke. Next up: Südpol, Hamburg on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ DINKS is a house and italo disco artist based in Germany, with 3 gigs on soundch
 
 Bizzarro Universe, Caro Vola, Chris Hanke
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinks/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dinks/)*

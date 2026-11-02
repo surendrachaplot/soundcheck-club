@@ -1,6 +1,6 @@
 # Phunk'ill
 
-Phunk'ill is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Transformator, Wroclaw on Fri, 6 Nov 2026.
+Phunk'ill is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Transformator, Wroclaw on Fri, 6 Nov 2026.
 
 Phunk'ill is a drum & bass and bass artist based in Poland, with 2 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Semprey, Kogiel and NOV1K. Next up: Transformator, Wroclaw on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Phunk'ill is a drum & bass and bass artist based in Poland, with 2 gigs on sound
 
 Semprey, Kogiel, NOV1K
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phunkill/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phunkill/)*

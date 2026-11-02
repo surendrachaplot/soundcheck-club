@@ -1,8 +1,8 @@
 # YAMA(JP/OSK)
 
-YAMA(JP/OSK) is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at BAR Inc, Osaka on Mon, 2 Nov 2026.
+YAMA(JP/OSK) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at BAR Inc, Osaka on Mon, 2 Nov 2026.
 
-YAMA(JP/OSK) is a techno and house artist based in Japan, with 105 gigs on soundcheck across Bangkok, Berlin, Hanoi and Hong Kong and 5 more. Often billed alongside DJ Nobu, DJ KAZUMA and DJ Yazi. Next up: BAR Inc, Osaka on Mon 2 Nov.
+YAMA(JP/OSK) is a techno and house artist based in Japan, with 106 gigs on soundcheck across Bangkok, Berlin, Hanoi and Hong Kong and 6 more. Often billed alongside DJ Nobu, DJ KAZUMA and DJ Yazi. Next up: BAR Inc, Osaka on Mon 2 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ YAMA(JP/OSK) is a techno and house artist based in Japan, with 105 gigs on sound
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | BAR Inc | Osaka |
 | Thu, 5 Nov 2026 | Circus Osaka | Osaka |
+| Sat, 14 Nov 2026 | TBA - Manila | Philippines |
 | Sat, 28 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Sat, 5 Dec 2026 | BAR Inc | Osaka |
 
@@ -28,4 +29,4 @@ YAMA(JP/OSK) is a techno and house artist based in Japan, with 105 gigs on sound
 
 DJ Nobu, DJ KAZUMA, DJ Yazi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yama-jposk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yama-jposk/)*

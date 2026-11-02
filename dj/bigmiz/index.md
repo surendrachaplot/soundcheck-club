@@ -1,6 +1,6 @@
 # Big Miz
 
-Big Miz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 25 Nov 2026.
+Big Miz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 25 Nov 2026.
 
 Big Miz is a house and techno artist based in United Kingdom, with 79 gigs on soundcheck across Aberdeen, Barcelona, Bristol and Dundee and 13 more. Often billed alongside Hayley Zalassi, Bessa and Babyccino. Next up: Sneaky Pete's, Edinburgh on Wed 25 Nov.
 
@@ -26,4 +26,4 @@ Big Miz is a house and techno artist based in United Kingdom, with 79 gigs on so
 
 Hayley Zalassi, Bessa, Babyccino
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmiz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigmiz/)*

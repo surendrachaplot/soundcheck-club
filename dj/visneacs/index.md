@@ -1,6 +1,6 @@
 # VISNEACS
 
-VISNEACS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 21 Nov 2026.
+VISNEACS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 21 Nov 2026.
 
 VISNEACS is a techno and house artist based in Mexico, with 20 gigs on soundcheck across Prague. Often billed alongside Big Lil, DJames and Katrixia. Next up: Ankali & Planeta Za, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ VISNEACS is a techno and house artist based in Mexico, with 20 gigs on soundchec
 
 Big Lil, DJames (2), Katrixia
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/visneacs/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/visneacs/)*

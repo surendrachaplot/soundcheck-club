@@ -1,6 +1,6 @@
 # Kiko
 
-Kiko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
+Kiko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
 
 Kiko is a house and techno artist based in France, with 33 gigs on soundcheck across Amsterdam, Athens, Berlin and Frankfurt and 12 more. Often billed alongside Berthom, Darin Epsilon and Klosing. Next up: MTW, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kiko is a house and techno artist based in France, with 33 gigs on soundcheck ac
 
 Berthom, Darin Epsilon, Klosing
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiko/)*

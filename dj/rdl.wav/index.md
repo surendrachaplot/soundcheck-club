@@ -1,8 +1,8 @@
 # RDL.wav
 
-RDL.wav is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Das Zimmer, Mannheim on Sun, 8 Nov 2026.
+RDL.wav is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Das Zimmer, Mannheim on Sun, 8 Nov 2026.
 
-RDL.wav is a house and tech house artist, with 14 gigs on soundcheck across Düsseldorf, Frankfurt, Hamburg and Mannheim. Often billed alongside Merissa Mahilaa, ADVAN and Alexander Aurel. Next up: Das Zimmer, Mannheim on Sun 8 Nov.
+RDL.wav is a house and tech house artist based in Germany, with 14 gigs on soundcheck across Düsseldorf, Frankfurt, Hamburg and Mannheim. Often billed alongside Merissa Mahilaa, ADVAN and Alexander Aurel. Next up: Das Zimmer, Mannheim on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ RDL.wav is a house and tech house artist, with 14 gigs on soundcheck across Düs
 
 Merissa Mahilaa, ADVAN, Alexander Aurel
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rdl.wav/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rdl.wav/)*

@@ -1,6 +1,6 @@
 # Chedda Bred
 
-Chedda Bred is a Jazz and Grime artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Orange Room, London on Thu, 5 Nov 2026.
+Chedda Bred is a Jazz and Grime artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Orange Room, London on Thu, 5 Nov 2026.
 
 Chedda Bred is a jazz and grime artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Chedda B, Neue Grafik and limi. Next up: The Orange Room, London on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Chedda Bred is a jazz and grime artist based in United Kingdom, with 25 gigs on 
 
 Chedda B, Neue Grafik, limi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cheddabred/)*

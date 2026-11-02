@@ -1,6 +1,6 @@
 # Chico Rose
 
-Chico Rose is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 20 Nov 2026.
+Chico Rose is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at NIX Barcelona, Barcelona on Fri, 20 Nov 2026.
 
 Chico Rose is a tech house and house artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Barcelona, Rotterdam and The Hague. Often billed alongside Edson César, ADEZ and Darius Syrossian. Next up: NIX Barcelona, Barcelona on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Chico Rose is a tech house and house artist based in Netherlands, with 7 gigs on
 
 Edson César, ADEZ, Darius Syrossian
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicorose/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicorose/)*

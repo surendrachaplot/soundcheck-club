@@ -1,6 +1,6 @@
 # somebody3lse
 
-somebody3lse is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Red Roof Church, Montreal on Sat, 14 Nov 2026.
+somebody3lse is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Red Roof Church, Montreal on Sat, 14 Nov 2026.
 
 somebody3lse is a bass and house artist based in United Kingdom, with 57 gigs on soundcheck across Montreal. Often billed alongside CMD, Emil Paquin and Mok-T. Next up: Red Roof Church, Montreal on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ somebody3lse is a bass and house artist based in United Kingdom, with 57 gigs on
 
 CMD, Emil Paquin, Mok-T
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somebody3lse/)*

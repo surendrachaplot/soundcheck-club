@@ -1,6 +1,6 @@
 # Kohbain
 
-Kohbain is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
+Kohbain is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 Kohbain is a tech house and deep house artist based in Australia, with 16 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Matony, SAGMO and Yaz. Next up: The Great Northern, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Kohbain is a tech house and deep house artist based in Australia, with 16 gigs o
 
 Matony, SAGMO, Yaz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kohbain/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kohbain/)*

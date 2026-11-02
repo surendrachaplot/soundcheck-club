@@ -1,8 +1,8 @@
 # Sibel S.
 
-Sibel S. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Secret place Lyon - accès tram TCL et parking sur place, Lyon on Sat, 7 Nov 2026.
+Sibel S. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret place Lyon - accès tram TCL et parking sur place, Lyon on Sat, 7 Nov 2026.
 
-Sibel S. is a techno and house artist, with 11 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside SUNT, Antigone and Arcene K. Next up: TBA - Secret place Lyon - accès tram TCL et parking sur place, Lyon on Sat 7 Nov.
+Sibel S. is a techno and house artist based in France, with 11 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside SUNT, Antigone and Arcene K. Next up: TBA - Secret place Lyon - accès tram TCL et parking sur place, Lyon on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sibel S. is a techno and house artist, with 11 gigs on soundcheck across Lyon, M
 
 SUNT, Antigone, Arcene K
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel-s/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sibel-s/)*

@@ -1,8 +1,8 @@
 # masheen
 
-masheen is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
+masheen is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
 
-masheen is a techno and electro artist, with 11 gigs on soundcheck across Kuala Lumpur and Sydney. Often billed alongside TR4XIE, AMZDAMN B2B SMAGS and Alias Error. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
+masheen is a techno and electro artist based in Australia, with 11 gigs on soundcheck across Kuala Lumpur and Sydney. Often billed alongside TR4XIE, AMZDAMN B2B SMAGS and Alias Error. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ masheen is a techno and electro artist, with 11 gigs on soundcheck across Kuala 
 
 TR4XIE, AMZDAMN B2B SMAGS, Alias Error
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masheen/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masheen/)*

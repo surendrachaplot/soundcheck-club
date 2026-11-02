@@ -1,6 +1,6 @@
 # Atarrayo
 
-Atarrayo is a Deep House and Dembow artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Fanialive Wien, Vienna on Sat, 7 Nov 2026.
+Atarrayo is a Deep House and Dembow artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fanialive Wien, Vienna on Sat, 7 Nov 2026.
 
 Atarrayo is a deep house and dembow artist based in Colombia, with 3 gigs on soundcheck across Medellin and Vienna. Often billed alongside DJ Raff, LAVO and Ras Tweed. Next up: Fanialive Wien, Vienna on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Atarrayo is a deep house and dembow artist based in Colombia, with 3 gigs on sou
 
 DJ Raff, LAVO (2), Ras Tweed
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atarrayo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atarrayo/)*

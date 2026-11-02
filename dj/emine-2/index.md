@@ -1,6 +1,6 @@
 # Emine (2)
 
-Emine (2) is a electronic artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
+Emine (2) is a electronic artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
 
 Emine is an electronic artist based in Tunisia, with 3 gigs on soundcheck across Lebanon and Tunisia. Often billed alongside Moez, Pan-J and Raphael Merheb. Next up: Concrete 1994, Lebanon on Wed 4 Nov.
 
@@ -16,4 +16,4 @@ Emine is an electronic artist based in Tunisia, with 3 gigs on soundcheck across
 
 Moez, Pan-J, Raphael Merheb
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emine-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emine-2/)*

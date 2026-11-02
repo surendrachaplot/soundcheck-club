@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Salotto Sounds X Daydream Disco" on Fri, 6 Nov 2026.
+Grow is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Salotto Sounds X Daydream Disco" on Fri, 6 Nov 2026.
 
 Grow is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alfaz, Alfie Panaiotis, ARLYSS and Beavs and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -22,4 +22,4 @@ Grow is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

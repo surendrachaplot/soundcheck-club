@@ -1,13 +1,14 @@
 # DUCK
 
-DUCK is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 22 Nov 2026.
+DUCK is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Shinjuku Duusraa, Tokyo on Sat, 14 Nov 2026.
 
-DUCK is a bass and techno artist based in Japan, with 11 gigs on soundcheck across Prague and Tokyo. Often billed alongside ovrrride, akii and saqess. Next up: Circus Tokyo, Tokyo on Sun 22 Nov.
+DUCK is a bass and techno artist based in Japan, with 12 gigs on soundcheck across Prague and Tokyo. Often billed alongside ovrrride, akii and saqess. Next up: Shinjuku Duusraa, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Shinjuku Duusraa | Tokyo |
 | Sun, 22 Nov 2026 | Circus Tokyo | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ DUCK is a bass and techno artist based in Japan, with 11 gigs on soundcheck acro
 
 ovrrride, akii, saqess
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duck/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duck/)*

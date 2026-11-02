@@ -1,6 +1,6 @@
 # First kiss
 
-First kiss is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Laska V21, Riga on Fri, 20 Nov 2026.
+First kiss is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Laska V21, Riga on Fri, 20 Nov 2026.
 
 First kiss is a trance and house artist based in Ukraine, with 2 gigs on soundcheck across Riga. Often billed alongside Grisha Nirgov, Hannah Holland and Queer On Acid. Next up: Laska V21, Riga on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ First kiss is a trance and house artist based in Ukraine, with 2 gigs on soundch
 
 Grisha Nirgov, Hannah Holland, Queer On Acid
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/firstkiss/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/firstkiss/)*

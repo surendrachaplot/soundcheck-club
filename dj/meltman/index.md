@@ -1,8 +1,8 @@
 # Meltman
 
-Meltman is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lakontra de Gràcia, Barcelona on Wed, 18 Nov 2026.
+Meltman is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lakontra de Gràcia, Barcelona on Wed, 18 Nov 2026.
 
-Meltman is a drum & bass and breakbeat artist, with 16 gigs on soundcheck across Barcelona. Often billed alongside Herk, Powser and 7th.Sense. Next up: Lakontra de Gràcia, Barcelona on Wed 18 Nov.
+Meltman is a drum & bass and breakbeat artist based in Chile, with 16 gigs on soundcheck across Barcelona. Often billed alongside Herk, Powser and 7th.Sense. Next up: Lakontra de Gràcia, Barcelona on Wed 18 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Meltman is a drum & bass and breakbeat artist, with 16 gigs on soundcheck across
 
 Herk, Powser, 7th.Sense
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltman/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltman/)*

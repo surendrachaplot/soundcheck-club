@@ -1,14 +1,13 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 30 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "BLOODLUST" on Sun, 1 Nov 2026.
+People's Leisure Club is a music venue in Edinburgh with 29 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "RUBBLE // Shahrazadi, Ot Pascoe" on Tue, 3 Nov 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 30 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BPK and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 29 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BPK and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | BLOODLUST | SLY DIG, claz402 |
 | Tue, 3 Nov 2026 | RUBBLE // Shahrazadi, Ot Pascoe | Otis Worming, Shahrazadi |
 | Wed, 4 Nov 2026 | dirty feeling |  |
 | Thu, 5 Nov 2026 | Empress: Gummi vs Vampirism | Lucid (Sco) |
@@ -18,9 +17,10 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 30 upc
 | Thu, 12 Nov 2026 | WarmedUp presents: Morgz & CLEM | CIem, Morgz |
 | Fri, 13 Nov 2026 | Folded Notions: Maï-Linh | Hand-made, Maï-Linh |
 | Sat, 14 Nov 2026 | Spectrum Presents: Lisa Loud and Nancy Noise | Lisa Loud, Nancy Noise |
+| Sat, 14 Nov 2026 | Fangs Disco Club | Jacuzzi General, Zoe from Finance, ona:v |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

@@ -1,17 +1,17 @@
 # Club Tee Gee
 
-Club Tee Gee is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 22 Oct 2026. The next is "Soft Beat at CLUB TEEGEE" on Thu, 22 Oct 2026.
+Club Tee Gee is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Machine Club 11/5 - Sharlese with Annika + Stacy" on Thu, 5 Nov 2026.
 
-Club Tee Gee is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including DANNY G LUVS U, heelbite316 and Lily Ardalan. See dates, start times and who's playing. 3210 Glendale Blvd, Los Angeles, CA 90039, USA.
+Club Tee Gee is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Annika Wolfe, Sharlese and Stacy Christine. See dates, start times and who's playing. 3210 Glendale Blvd, Los Angeles, CA 90039, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 22 Oct 2026 | Soft Beat at CLUB TEEGEE | DANNY G LUVS U, Lily Ardalan, heelbite316 |
+| Thu, 5 Nov 2026 | Machine Club 11/5 - Sharlese with Annika + Stacy | Annika Wolfe, Sharlese, Stacy Christine |
 
 ## Address
 
 3210 Glendale Blvd, Los Angeles, CA 90039, USA, Los Angeles
 
-*Updated Thu, 22 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/club-tee-gee/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/club-tee-gee/)*

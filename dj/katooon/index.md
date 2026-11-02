@@ -1,8 +1,8 @@
 # Katooon
 
-Katooon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Teranoma Tidepool, Osaka on Sun, 15 Nov 2026.
+Katooon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Teranoma Tidepool, Osaka on Sun, 15 Nov 2026.
 
-Katooon is a techno and house artist, with 41 gigs on soundcheck across Osaka. Often billed alongside SIROH, SHIGe and Kayakkus. Next up: Teranoma Tidepool, Osaka on Sun 15 Nov.
+Katooon is a techno and house artist based in Japan, with 41 gigs on soundcheck across Osaka. Often billed alongside SIROH, SHIGe and Kayakkus. Next up: Teranoma Tidepool, Osaka on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Katooon is a techno and house artist, with 41 gigs on soundcheck across Osaka. O
 
 SIROH, SHIGe, Kayakkus
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katooon/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katooon/)*

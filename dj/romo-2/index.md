@@ -1,6 +1,6 @@
 # ROMO (2)
 
-ROMO (2) is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Secret Location, Mallorca on Sat, 7 Nov 2026.
+ROMO (2) is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location, Mallorca on Sat, 7 Nov 2026.
 
 ROMO is a house and dub artist based in Spain, with 2 gigs on soundcheck across East and Mallorca. Often billed alongside Kyle Toole, Natural Goofy and Yossi. Next up: TBA - Secret Location, Mallorca on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ ROMO is a house and dub artist based in Spain, with 2 gigs on soundcheck across 
 
 Kyle Toole, Natural Goofy, Yossi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romo-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romo-2/)*

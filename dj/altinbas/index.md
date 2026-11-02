@@ -1,14 +1,13 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 31 Oct 2026.
+Altinbas is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at BASEMENT, New York City on Fri, 6 Nov 2026.
 
-Altinbas is a techno and house artist based in Belgium, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 31 Oct.
+Altinbas is a techno and house artist based in Belgium, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: BASEMENT, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | BASEMENT | New York City |
 | Sat, 7 Nov 2026 | Standard Time | Toronto |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
@@ -33,4 +32,4 @@ Altinbas is a techno and house artist based in Belgium, with 199 gigs on soundch
 
 GiGi FM, Phara, Marie-Julie
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/altinbas/)*

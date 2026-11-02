@@ -1,14 +1,16 @@
 # The Upbeats
 
-The Upbeats is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Roxy Woodstock, Cape Town on Thu, 3 Dec 2026.
+The Upbeats is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Roxy Woodstock, Cape Town on Thu, 3 Dec 2026.
 
-The Upbeats is a drum & bass and bass artist based in New Zealand, with 36 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 21 more. Often billed alongside Mefjus, Black Sun Empire and Camo & Krooked. Next up: Roxy Woodstock, Cape Town on Thu 3 Dec.
+The Upbeats is a drum & bass and bass artist based in New Zealand, with 38 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 22 more. Often billed alongside Mefjus, Black Sun Empire and Camo & Krooked. Next up: Roxy Woodstock, Cape Town on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Roxy Woodstock | Cape Town |
+| Sat, 5 Dec 2026 | Sognage | Johannesburg |
+| Sat, 5 Dec 2026 | Sognage | Johannesburg |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 
 ## Recently played
@@ -26,4 +28,4 @@ The Upbeats is a drum & bass and bass artist based in New Zealand, with 36 gigs 
 
 Mefjus, Black Sun Empire, Camo & Krooked
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theupbeats/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theupbeats/)*

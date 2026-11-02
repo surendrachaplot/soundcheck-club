@@ -1,8 +1,8 @@
 # Is Kill
 
-Is Kill is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at George Orwell Bar, Dundee on Fri, 6 Nov 2026.
+Is Kill is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at George Orwell Bar, Dundee on Fri, 6 Nov 2026.
 
-Is Kill is a techno and minimal techno artist, with 30 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Sonho, BAYNE and eosap. Next up: George Orwell Bar, Dundee on Fri 6 Nov.
+Is Kill is a techno and minimal techno artist based in United Kingdom, with 30 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow. Often billed alongside Sonho, BAYNE and eosap. Next up: George Orwell Bar, Dundee on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Is Kill is a techno and minimal techno artist, with 30 gigs on soundcheck across
 
 Sonho, BAYNE, eosap
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iskill/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iskill/)*

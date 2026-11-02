@@ -1,6 +1,6 @@
 # Prisma
 
-Prisma is a Dembow and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at ROSA, Berlin on Fri, 13 Nov 2026.
+Prisma is a Dembow and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ROSA, Berlin on Fri, 13 Nov 2026.
 
 Prisma is a dembow and latin bass artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Basy Tropikalne, Dengue Dengue Dengue and Ari Denaro. Next up: ROSA, Berlin on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Prisma is a dembow and latin bass artist, with 4 gigs on soundcheck across Berli
 
 Basy Tropikalne, Dengue Dengue Dengue, Ari Denaro
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prisma/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prisma/)*

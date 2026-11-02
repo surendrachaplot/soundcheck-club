@@ -1,8 +1,8 @@
 # ASA 808
 
-ASA 808 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Paloma, Berlin on Fri, 20 Nov 2026.
+ASA 808 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Paloma, Berlin on Fri, 20 Nov 2026.
 
-ASA 808 is a techno and house artist, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Paris and 3 more. Often billed alongside Mareike Bautz, Rafush and Pardonnez-nous. Next up: Paloma, Berlin on Fri 20 Nov.
+ASA 808 is a techno and house artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Paris and 3 more. Often billed alongside Mareike Bautz, Rafush and Pardonnez-nous. Next up: Paloma, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ASA 808 is a techno and house artist, with 23 gigs on soundcheck across Amsterda
 
 Mareike Bautz, Rafush, Pardonnez-nous
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asa808/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asa808/)*

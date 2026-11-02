@@ -1,8 +1,8 @@
 # Justine Ferrer
 
-Justine Ferrer is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Paramour, Brussels on Sat, 12 Dec 2026.
+Justine Ferrer is a Techno and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Paramour, Brussels on Sat, 12 Dec 2026.
 
-Justine Ferrer is a techno and post-punk artist, with 17 gigs on soundcheck across Brussels and Ghent. Often billed alongside Jovz, STDJ and VCR. Next up: Paramour, Brussels on Sat 12 Dec.
+Justine Ferrer is a techno and post-punk artist based in Belgium, with 17 gigs on soundcheck across Brussels and Ghent. Often billed alongside Jovz, STDJ and VCR. Next up: Paramour, Brussels on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Justine Ferrer is a techno and post-punk artist, with 17 gigs on soundcheck acro
 
 Jovz, STDJ, VCR (1)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justineferrer/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justineferrer/)*

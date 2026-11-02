@@ -1,6 +1,6 @@
 # LOLO (US)
 
-LOLO (US) is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Good Room, New York City on Fri, 13 Nov 2026.
+LOLO (US) is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Good Room, New York City on Fri, 13 Nov 2026.
 
 LOLO (US) is an electronic artist, with 2 gigs on soundcheck across New York City. Often billed alongside Anastazja, Honey Bun and Kristine Barilli. Next up: Good Room, New York City on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ LOLO (US) is an electronic artist, with 2 gigs on soundcheck across New York Cit
 
 Anastazja, Honey Bun, Kristine Barilli
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolo-us/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolo-us/)*

@@ -1,6 +1,6 @@
 # LADY INCARNATE
 
-LADY INCARNATE is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Stereo, Glasgow on Fri, 11 Dec 2026.
+LADY INCARNATE is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Stereo, Glasgow on Fri, 11 Dec 2026.
 
 LADY INCARNATE is a bass and dubstep artist, with 6 gigs on soundcheck across Glasgow. Often billed alongside Miss Cabbage, VAJ.Power and Animistic Beliefs. Next up: Stereo, Glasgow on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ LADY INCARNATE is a bass and dubstep artist, with 6 gigs on soundcheck across Gl
 
 Miss Cabbage, VAJ.Power, Animistic Beliefs
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyincarnate/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladyincarnate/)*

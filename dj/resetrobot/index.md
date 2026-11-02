@@ -1,6 +1,6 @@
 # Reset Robot
 
-Reset Robot is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Vittoria Wharf Studio, London on Fri, 27 Nov 2026.
+Reset Robot is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Vittoria Wharf Studio, London on Fri, 27 Nov 2026.
 
 Reset Robot is an electronica and techno artist, with 3 gigs on soundcheck across Cologne and London. Often billed alongside Andrew Robertson, Another Life and Beni jung. Next up: Vittoria Wharf Studio, London on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Reset Robot is an electronica and techno artist, with 3 gigs on soundcheck acros
 
 Andrew Robertson, Another Life, Beni jung
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/resetrobot/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/resetrobot/)*

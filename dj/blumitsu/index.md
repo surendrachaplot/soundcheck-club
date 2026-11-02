@@ -1,6 +1,6 @@
 # BLUMITSU
 
-BLUMITSU is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Strange Brew, Bristol on Fri, 6 Nov 2026.
+BLUMITSU is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Strange Brew, Bristol on Fri, 6 Nov 2026.
 
 BLUMITSU is a techno and bass artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 15 more. Often billed alongside Bluetoof, Jossy Mitsu and Aletha. Next up: Strange Brew, Bristol on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ BLUMITSU is a techno and bass artist based in United Kingdom, with 43 gigs on so
 
 Bluetoof, Jossy Mitsu, Aletha
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blumitsu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blumitsu/)*

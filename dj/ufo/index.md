@@ -1,6 +1,6 @@
 # UFO
 
-UFO is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
+UFO is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
 UFO is a techno and progressive house artist, with 3 gigs on soundcheck across Dortmund / Essen, Sydney and Tokyo. Often billed alongside 8Trak, Akie and BROM. Next up: WOMB, Tokyo on Mon 2 Nov.
 
@@ -19,4 +19,4 @@ UFO is a techno and progressive house artist, with 3 gigs on soundcheck across D
 
 8Trak, Akie, BROM
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ufo/)*

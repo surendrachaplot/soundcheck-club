@@ -1,14 +1,15 @@
 # OK EG
 
-OK EG is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
+OK EG is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
 
-OK EG is a techno and experimental artist based in Australia, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 22 more. Often billed alongside Kia (AU), Bambi (FR) and Notte Infinita. Next up: Maravilla Studios, Mexico City on Fri 6 Nov.
+OK EG is a techno and experimental artist based in Australia, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 22 more. Often billed alongside Kia (AU), Bambi (FR) and Andy Martin. Next up: Maravilla Studios, Mexico City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Maravilla Studios | Mexico City |
+| Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ OK EG is a techno and experimental artist based in Australia, with 61 gigs on so
 
 ## Shares bills with
 
-Kia (AU), Bambi (FR), Notte Infinita
+Kia (AU), Bambi (FR), Andy Martin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okeg/)*

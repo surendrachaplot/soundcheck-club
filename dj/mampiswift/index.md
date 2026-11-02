@@ -1,6 +1,6 @@
 # Mampi Swift
 
-Mampi Swift is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at KOKO, London on Sat, 9 Jan 2027.
+Mampi Swift is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at KOKO, London on Sat, 9 Jan 2027.
 
 Mampi Swift is a drum & bass and jungle artist based in United Kingdom, with 43 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 20 more. Often billed alongside Kenny Ken, IC3 and Moose. Next up: KOKO, London on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Mampi Swift is a drum & bass and jungle artist based in United Kingdom, with 43 
 
 Kenny Ken, IC3, Moose
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mampiswift/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mampiswift/)*

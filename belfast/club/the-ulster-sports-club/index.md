@@ -1,6 +1,6 @@
 # The Ulster Sports Club
 
-The Ulster Sports Club is a music venue in Belfast with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Coda Residents Party" on Fri, 6 Nov 2026.
+The Ulster Sports Club is a music venue in Belfast with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Coda Residents Party" on Fri, 6 Nov 2026.
 
 The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 6 upcoming gigs, with line-ups including Blark, Cáit, Conor Schmtz and Dusky and 1 more. See dates, start times and who's playing. The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom.
 
@@ -19,4 +19,4 @@ The Ulster Sports Club is a music venue in Belfast listed on soundcheck. 6 upcom
 
 The Ulster Sports Club 98 High St, Belfast BT1 2BE, Northern Ireland, United Kingdom, Belfast
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-ulster-sports-club/)*

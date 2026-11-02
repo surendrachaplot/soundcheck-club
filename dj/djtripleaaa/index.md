@@ -1,6 +1,6 @@
 # DJ Triple AAA
 
-DJ Triple AAA is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
+DJ Triple AAA is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Mood Ring, New York City on Fri, 13 Nov 2026.
 
 DJ Triple AAA is a breakbeat and electro artist, with 2 gigs on soundcheck across New York City. Often billed alongside mutait and pharmacil. Next up: Mood Ring, New York City on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ DJ Triple AAA is a breakbeat and electro artist, with 2 gigs on soundcheck acros
 
 mutait, pharmacil
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtripleaaa/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtripleaaa/)*

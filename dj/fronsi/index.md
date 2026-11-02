@@ -1,6 +1,6 @@
 # Fronsi
 
-Fronsi is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
+Fronsi is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
 
 Fronsi is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Amøn, zwilling. and DETOXX. Next up: Indiego Glocksee, Hannover on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Fronsi is a trance and techno artist based in Germany, with 26 gigs on soundchec
 
 Amøn, zwilling., DETOXX
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fronsi/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fronsi/)*

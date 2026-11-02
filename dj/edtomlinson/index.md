@@ -1,8 +1,8 @@
 # Ed Tomlinson
 
-Ed Tomlinson is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Secret Location Shoreditch, London on Fri, 4 Dec 2026.
+Ed Tomlinson is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location Shoreditch, London on Fri, 4 Dec 2026.
 
-Ed Tomlinson is an acid and house artist, with 9 gigs on soundcheck across Brighton, Dublin and London. Often billed alongside Scott Hutchinson, Dombrance and Ambient Babestation Meltdown. Next up: TBA - Secret Location Shoreditch, London on Fri 4 Dec.
+Ed Tomlinson is an acid and house artist based in United Kingdom, with 9 gigs on soundcheck across Brighton, Dublin and London. Often billed alongside Scott Hutchinson, Dombrance and Ambient Babestation Meltdown. Next up: TBA - Secret Location Shoreditch, London on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ed Tomlinson is an acid and house artist, with 9 gigs on soundcheck across Brigh
 
 Scott Hutchinson, Dombrance, Ambient Babestation Meltdown
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edtomlinson/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edtomlinson/)*

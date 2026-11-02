@@ -1,6 +1,6 @@
 # FANK
 
-FANK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
+FANK is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
 
 FANK is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin, Cologne and Zurich. Often billed alongside FILTRACK, MAURER and future.666. Next up: Lokschuppen Berlin, Berlin on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ FANK is a techno and house artist based in Germany, with 17 gigs on soundcheck a
 
 FILTRACK, MAURER, future.666
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fank/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fank/)*

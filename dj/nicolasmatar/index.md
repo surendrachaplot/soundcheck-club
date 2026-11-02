@@ -1,8 +1,8 @@
 # Nicolas Matar
 
-Nicolas Matar is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 13 Nov 2026.
+Nicolas Matar is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 13 Nov 2026.
 
-Nicolas Matar is a house and minimal techno artist, with 23 gigs on soundcheck across Amsterdam, Detroit, Mexico City and Miami and 1 more. Often billed alongside Willie Graff, Danny Krivit and Benny Soto. Next up: Lincoln Factory, Detroit on Fri 13 Nov.
+Nicolas Matar is a house and minimal techno artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Detroit, Mexico City and Miami and 1 more. Often billed alongside Willie Graff, Danny Krivit and Benny Soto. Next up: Lincoln Factory, Detroit on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nicolas Matar is a house and minimal techno artist, with 23 gigs on soundcheck a
 
 Willie Graff, Danny Krivit, Benny Soto
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasmatar/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasmatar/)*

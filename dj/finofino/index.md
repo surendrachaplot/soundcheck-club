@@ -1,6 +1,6 @@
 # Fino Fino
 
-Fino Fino is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Resume Valencia, Valencia on Fri, 27 Nov 2026.
+Fino Fino is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Resume Valencia, Valencia on Fri, 27 Nov 2026.
 
 Fino Fino is a tech house and deep house artist based in Spain, with 2 gigs on soundcheck across London and Valencia. Often billed alongside Elena Megi, Freddie Grisbi and Goutham. Next up: Resume Valencia, Valencia on Fri 27 Nov.
 
@@ -18,4 +18,4 @@ Fino Fino is a tech house and deep house artist based in Spain, with 2 gigs on s
 
 Elena Megi, Freddie Grisbi, Goutham
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finofino/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finofino/)*

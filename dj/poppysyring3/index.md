@@ -1,6 +1,6 @@
 # Pöppysyring3
 
-Pöppysyring3 is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 7 Nov 2026.
+Pöppysyring3 is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat, 7 Nov 2026.
 
 Pöppysyring3 is a club and hardcore artist based in United States of America, with 4 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside DJ Pearl, ILUSM and Mooncrumb. Next up: Jimmy Valentine's Lonely Hearts Club, Washington DC on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Pöppysyring3 is a club and hardcore artist based in United States of America, w
 
 DJ Pearl, ILUSM, Mooncrumb
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poppysyring3/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/poppysyring3/)*

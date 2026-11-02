@@ -1,6 +1,6 @@
 # Cassius
 
-Cassius is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Cassius is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Cassius is a house and techno artist based in France, with 55 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Myd, Busy P and LB aka LABAT. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Cassius is a house and techno artist based in France, with 55 gigs on soundcheck
 
 Myd, Busy P, LB aka LABAT
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassius/)*

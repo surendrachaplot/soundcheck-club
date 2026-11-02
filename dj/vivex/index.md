@@ -1,8 +1,8 @@
 # VIVEX
 
-VIVEX is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
+VIVEX is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
 
-VIVEX is a trance and techno artist based in Germany, with 3 gigs on soundcheck across Berlin and Leipzig. Often billed alongside ESCALEA, Acid Goldee and Eurodance2000. Next up: Ilses Erika, Leipzig on Fri 6 Nov.
+VIVEX is a trance and techno artist based in Germany, with 3 gigs on soundcheck across Berlin and Leipzig. Often billed alongside ESCALEA, Acid Goldee and Iced Matchko Latte. Next up: Ilses Erika, Leipzig on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ VIVEX is a trance and techno artist based in Germany, with 3 gigs on soundcheck 
 
 ## Shares bills with
 
-ESCALEA, Acid Goldee, Eurodance2000
+ESCALEA, Acid Goldee, Iced Matchko Latte
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivex/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivex/)*

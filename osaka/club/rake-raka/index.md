@@ -1,13 +1,14 @@
 # rake?raka?
 
-rake?raka? is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "maximalism VOL.15" on Wed, 4 Nov 2026.
+rake?raka? is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DEAR MONDAY, vol.310" on Mon, 2 Nov 2026.
 
-rake?raka? is a music venue in Osaka listed on soundcheck. 2 upcoming gigs, with line-ups including ALTF4, MATSURYO and Teshi tama. See dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
+rake?raka? is a music venue in Osaka listed on soundcheck. 3 upcoming gigs, with line-ups including ALTF4, HSC, Kazuma Onishi and MATSURYO and 1 more. See dates, start times and who's playing. 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Mon, 2 Nov 2026 | DEAR MONDAY, vol.310 | HSC (1), Kazuma Onishi |
 | Wed, 4 Nov 2026 | maximalism VOL.15 | ALTF4, MATSURYO |
 | Fri, 6 Nov 2026 | Solaris | Teshi tama |
 
@@ -15,4 +16,4 @@ rake?raka? is a music venue in Osaka listed on soundcheck. 2 upcoming gigs, with
 
 6-2-8 Soemoncho, Chuo-ku, Osaka-shi, Osaka, 542-0084 Japan, Osaka
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/rake-raka/)*

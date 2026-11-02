@@ -1,14 +1,15 @@
 # Kross Section
 
-Kross Section is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at West Harlem, Kyoto on Fri, 6 Nov 2026.
+Kross Section is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at West Harlem, Kyoto on Fri, 6 Nov 2026.
 
-Kross Section is a house and disco artist based in Japan, with 72 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside KOTSU, EUREKA and Lomax. Next up: West Harlem, Kyoto on Fri 6 Nov.
+Kross Section is a house and disco artist based in Japan, with 73 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside KOTSU, EUREKA and Lomax. Next up: West Harlem, Kyoto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | West Harlem | Kyoto |
+| Wed, 11 Nov 2026 | West Harlem | Kyoto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kross Section is a house and disco artist based in Japan, with 72 gigs on soundc
 
 KOTSU, EUREKA, Lomax
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krosssection/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krosssection/)*

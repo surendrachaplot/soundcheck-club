@@ -1,6 +1,6 @@
 # DJ ORA
 
-DJ ORA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+DJ ORA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 DJ ORA is a house and techno artist based in Israel, with 4 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside DXNBY, AMORAL and Across Boundaries. Next up: Shelter Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ DJ ORA is a house and techno artist based in Israel, with 4 gigs on soundcheck a
 
 DXNBY, AMORAL, Across Boundaries
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djora/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djora/)*

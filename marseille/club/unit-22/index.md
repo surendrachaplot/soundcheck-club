@@ -1,6 +1,6 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "U.22 X Everybody Trance: Ekkel, Forest, Byche, Dj Palpite" on Fri, 6 Nov 2026.
+Unité.22 is a music venue in Marseille with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "U.22 X Everybody Trance: Ekkel, Forest, Byche, Dj Palpite" on Fri, 6 Nov 2026.
 
 Unité.22 is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, with line-ups including Byche, Ekkel, Feroui and Forest and 2 more. See dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
@@ -16,4 +16,4 @@ Unité.22 is a music venue in Marseille listed on soundcheck. 3 upcoming gigs, w
 
 22 rue jobin, 13003 Marseille, Marseille
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/unit-22/)*

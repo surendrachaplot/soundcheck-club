@@ -1,8 +1,8 @@
 # Ciphr
 
-Ciphr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Flash, Washington DC on Sat, 19 Dec 2026.
+Ciphr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Flash, Washington DC on Sat, 19 Dec 2026.
 
-Ciphr is a house and techno artist, with 7 gigs on soundcheck across Chicago and Washington DC. Often billed alongside Christian Thomas, Max Jacobson and Mantas Steles. Next up: Flash, Washington DC on Sat 19 Dec.
+Ciphr is a house and techno artist based in United States of America, with 7 gigs on soundcheck across Chicago and Washington DC. Often billed alongside Christian Thomas, Max Jacobson and Mantas Steles. Next up: Flash, Washington DC on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Ciphr is a house and techno artist, with 7 gigs on soundcheck across Chicago and
 
 Christian Thomas, Max Jacobson, Mantas Steles
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciphr/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciphr/)*

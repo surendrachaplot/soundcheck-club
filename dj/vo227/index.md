@@ -1,8 +1,8 @@
 # VO227
 
-VO227 is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
+VO227 is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
 
-VO227 is a house artist, with 17 gigs on soundcheck across Berlin. Often billed alongside doctor doms, 4BLISS# and OM (COL). Next up: Promenaden Eck, Berlin on Thu 12 Nov.
+VO227 is a house artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside doctor doms, 4BLISS# and OM (COL). Next up: Promenaden Eck, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ VO227 is a house artist, with 17 gigs on soundcheck across Berlin. Often billed 
 
 doctor doms, 4BLISS#, OM (COL)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vo227/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vo227/)*

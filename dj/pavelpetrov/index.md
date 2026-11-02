@@ -1,6 +1,6 @@
 # Pavel Petrov
 
-Pavel Petrov is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
+Pavel Petrov is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Victoria on Fri, 30 Oct 2026.
 
 Pavel Petrov is a techno and tech house artist based in Bulgaria, with 66 gigs on soundcheck across Amsterdam, Belgrade, Bergen and Berlin and 25 more. Often billed alongside Peppou, Bagerziev and Oliver Koletzki. Next up: TBA, Victoria on Fri 30 Oct.
 
@@ -26,4 +26,4 @@ Pavel Petrov is a techno and tech house artist based in Bulgaria, with 66 gigs o
 
 Peppou, Bagerziev, Oliver Koletzki
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelpetrov/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelpetrov/)*

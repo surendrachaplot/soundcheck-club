@@ -1,8 +1,8 @@
 # hypertexture
 
-hypertexture is a Trance and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
+hypertexture is a Trance and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at ://about blank, Berlin on Fri, 27 Nov 2026.
 
-hypertexture is a trance and psytrance artist, with 2 gigs on soundcheck across Berlin. Often billed alongside ( ether o ), Aexhy and Apexsion. Next up: ://about blank, Berlin on Fri 27 Nov.
+hypertexture is a trance and psytrance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside ( ether o ), Aexhy and Apexsion. Next up: ://about blank, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,4 +15,4 @@ hypertexture is a trance and psytrance artist, with 2 gigs on soundcheck across 
 
 ( ether o ), Aexhy, Apexsion
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypertexture/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypertexture/)*

@@ -1,6 +1,6 @@
 # Namasenda
 
-Namasenda is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Namasenda is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Namasenda is a pop and club artist based in Sweden, with 22 gigs on soundcheck across Barcelona, Brussels, Glasgow and Leipzig and 10 more. Often billed alongside Boys Noize, CITYTRONIX and Clementaum. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Namasenda is a pop and club artist based in Sweden, with 22 gigs on soundcheck a
 
 Boys Noize, CITYTRONIX, Clementaum
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*

@@ -1,6 +1,6 @@
 # Mandai
 
-Mandai is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat, 2 Jan 2027.
+Mandai is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat, 2 Jan 2027.
 
 Mandai is a bass and dubstep artist based in Canada, with 3 gigs on soundcheck across Vancouver. Often billed alongside Daega Sound, Max Ulis and Michael Red. Next up: TBA - Address sent to ticket holders 7 pm day of show, Vancouver on Sat 2 Jan.
 
@@ -19,4 +19,4 @@ Mandai is a bass and dubstep artist based in Canada, with 3 gigs on soundcheck a
 
 Daega Sound, Max Ulis, Michael Red
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandai/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandai/)*

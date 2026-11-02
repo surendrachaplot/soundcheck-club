@@ -1,8 +1,8 @@
 # Louis Bekk
 
-Louis Bekk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at IndigO2, London on Fri, 6 Nov 2026.
+Louis Bekk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at IndigO2, London on Fri, 6 Nov 2026.
 
-Louis Bekk is a house and deep house artist, with 12 gigs on soundcheck across Brighton, Istanbul, London and Paris. Often billed alongside ABRAN, AJNA and Anaïs. Next up: IndigO2, London on Fri 6 Nov.
+Louis Bekk is a house and deep house artist based in United Kingdom, with 12 gigs on soundcheck across Brighton, Istanbul, London and Paris. Often billed alongside ABRAN, AJNA and Anaïs. Next up: IndigO2, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Louis Bekk is a house and deep house artist, with 12 gigs on soundcheck across B
 
 ABRAN, AJNA, Anaïs
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisbekk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisbekk/)*

@@ -1,6 +1,6 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+Flash Gea is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Flash Gea is a techno and trance artist based in United States of America, with 32 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Miami and 6 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 
 Conrad Taylor, DomnRob, Ueberrest
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

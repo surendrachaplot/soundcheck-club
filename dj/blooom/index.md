@@ -1,6 +1,6 @@
 # Blooom
 
-Blooom is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Nottingham Secret Garden, Nottingham on Sat, 7 Nov 2026.
+Blooom is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Nottingham Secret Garden, Nottingham on Sat, 7 Nov 2026.
 
 Blooom is a drum & bass and dubstep artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 18 more. Often billed alongside Delta Heavy, K Motionz and Kara (UK). Next up: Nottingham Secret Garden, Nottingham on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Blooom is a drum & bass and dubstep artist based in Germany, with 35 gigs on sou
 
 Delta Heavy, K Motionz, Kara (UK)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blooom/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blooom/)*

@@ -1,6 +1,6 @@
 # DJ SET (Uk)
 
-DJ SET (Uk) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Maaya, Berlin on Fri, 11 Dec 2026.
+DJ SET (Uk) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Maaya, Berlin on Fri, 11 Dec 2026.
 
 DJ SET (Uk) is a techno and electronica artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Birmingham, Los Angeles and Lyon and 7 more. Often billed alongside Helena Hauff, PARIS (AU) and .cosm. Next up: Maaya, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ DJ SET (Uk) is a techno and electronica artist based in United Kingdom, with 20 
 
 Helena Hauff, PARIS (AU), .cosm
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djset-uk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djset-uk/)*

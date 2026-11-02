@@ -1,6 +1,6 @@
 # KABBAGE
 
-KABBAGE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Ministry, London on Sun, 13 Dec 2026.
+KABBAGE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Ministry, London on Sun, 13 Dec 2026.
 
 KABBAGE is a house and tech house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Colin Dale, Grace Sands and HEAVEN-LEE. Next up: The Ministry, London on Sun 13 Dec.
 
@@ -19,4 +19,4 @@ KABBAGE is a house and tech house artist based in United Kingdom, with 3 gigs on
 
 Colin Dale, Grace Sands, HEAVEN-LEE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabbage/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabbage/)*

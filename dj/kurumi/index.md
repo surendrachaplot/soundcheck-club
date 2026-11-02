@@ -1,6 +1,6 @@
 # Kurumi
 
-Kurumi is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at VENT, Tokyo on Mon, 2 Nov 2026.
+Kurumi is a Hip-Hop and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at VENT, Tokyo on Mon, 2 Nov 2026.
 
 Kurumi is a hip-hop and techno artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside manato, Amu and Assassin. Next up: VENT, Tokyo on Mon 2 Nov.
 
@@ -20,4 +20,4 @@ Kurumi is a hip-hop and techno artist based in Japan, with 4 gigs on soundcheck 
 
 manato, Amu (1), Assassin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurumi/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurumi/)*

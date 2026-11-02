@@ -1,8 +1,8 @@
 # In Verruf
 
-In Verruf is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
+In Verruf is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
 
-In Verruf is a techno and trance artist based in Germany, with 180 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 58 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Bootshaus, Cologne on Sat 7 Nov.
+In Verruf is a techno and trance artist based in Germany, with 181 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 59 more. Often billed alongside Kobosil, Somewhen and Afem Syko. Next up: Bootshaus, Cologne on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ In Verruf is a techno and trance artist based in Germany, with 180 gigs on sound
 | Sat, 28 Nov 2026 | BEC (Bilbao Exhibition Center) | North |
 | Fri, 4 Dec 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Fri, 11 Dec 2026 | Selva Club | East |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 
 ## Recently played
@@ -32,4 +33,4 @@ In Verruf is a techno and trance artist based in Germany, with 180 gigs on sound
 
 Kobosil, Somewhen, Afem Syko
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inverruf/)*

@@ -1,6 +1,6 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
+Afem Syko is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
 
 Afem Syko is a techno and trance artist based in Germany, with 201 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Atlanta and 65 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Afem Syko is a techno and trance artist based in Germany, with 201 gigs on sound
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

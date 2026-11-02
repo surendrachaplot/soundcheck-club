@@ -1,6 +1,6 @@
 # Hellfish
 
-Hellfish is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
+Hellfish is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
 
 Hellfish is a hardcore and gabber artist, with 14 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ghent and 7 more. Often billed alongside The DJ Producer, Thrasher and Tripped. Next up: Maassilo, Rotterdam on Sat 27 Feb.
 
@@ -25,4 +25,4 @@ Hellfish is a hardcore and gabber artist, with 14 gigs on soundcheck across Amst
 
 The DJ Producer, Thrasher, Tripped
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellfish/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellfish/)*

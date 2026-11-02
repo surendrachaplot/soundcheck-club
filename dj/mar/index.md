@@ -1,6 +1,6 @@
 # M A R
 
-M A R is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+M A R is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 M A R is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin, Cologne, Madrid and Mexico City. Often billed alongside Florian Pas, CHTI and Luca Mariaux. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ M A R is a techno and trance artist based in Germany, with 36 gigs on soundcheck
 
 Florian Pas, CHTI, Luca Mariaux
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mar/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mar/)*

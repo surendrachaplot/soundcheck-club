@@ -1,6 +1,6 @@
 # Jaspol
 
-Jaspol is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Sao Paulo on Sat, 12 Dec 2026.
+Jaspol is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Sao Paulo on Sat, 12 Dec 2026.
 
 Jaspol is a techno and tech house artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam and Sao Paulo. Often billed alongside Djooke, Gian Battista and Pedro Gariani. Next up: TBA, Sao Paulo on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Jaspol is a techno and tech house artist based in Netherlands, with 3 gigs on so
 
 Djooke, Gian Battista, Pedro Gariani
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspol/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaspol/)*

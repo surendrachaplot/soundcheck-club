@@ -1,8 +1,8 @@
 # pesadj
 
-pesadj is a Bass and IDM artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
+pesadj is a Bass and IDM artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
 
-pesadj is a bass and idm artist, with 10 gigs on soundcheck across Berlin. Often billed alongside dérive, Genus Aix and Akiï. Next up: OHM, Berlin on Fri 6 Nov.
+pesadj is a bass and idm artist based in Colombia, with 10 gigs on soundcheck across Berlin. Often billed alongside dérive, Genus Aix and Akiï. Next up: OHM, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ pesadj is a bass and idm artist, with 10 gigs on soundcheck across Berlin. Often
 
 dérive, Genus Aix, Akiï
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pesadj/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pesadj/)*

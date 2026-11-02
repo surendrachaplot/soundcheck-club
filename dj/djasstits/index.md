@@ -1,6 +1,6 @@
 # DJ ASS TITS
 
-DJ ASS TITS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Thu, 5 Nov 2026.
+DJ ASS TITS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Thu, 5 Nov 2026.
 
 DJ ASS TITS is a techno and house artist based in Germany, with 69 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Düsseldorf and 6 more. Often billed alongside HiHat, DJ Palga and paaradoxx. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ DJ ASS TITS is a techno and house artist based in Germany, with 69 gigs on sound
 
 HiHat, DJ Palga, paaradoxx
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djasstits/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djasstits/)*

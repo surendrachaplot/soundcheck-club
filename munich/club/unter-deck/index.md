@@ -1,6 +1,6 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Tuesday in Love: JANKA b2b RONNY All night long" on Tue, 10 Nov 2026.
+Unter Deck is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Tuesday in Love: JANKA b2b RONNY All night long" on Tue, 10 Nov 2026.
 
 Unter Deck is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with line-ups including Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND, Fej:tal and RONNY and 1 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
@@ -18,4 +18,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 5 upcoming gigs, wit
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

@@ -1,8 +1,8 @@
 # Carlamote
 
-Carlamote is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Charlatan, Ghent on Sat, 28 Nov 2026.
+Carlamote is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Charlatan, Ghent on Sat, 28 Nov 2026.
 
-Carlamote is a house and pop artist, with 10 gigs on soundcheck across Ghent. Often billed alongside Nadiem Shah, Dj Licious and Lowie Trio. Next up: Charlatan, Ghent on Sat 28 Nov.
+Carlamote is a house and pop artist based in Belgium, with 10 gigs on soundcheck across Ghent. Often billed alongside Nadiem Shah, Dj Licious and Lowie Trio. Next up: Charlatan, Ghent on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Carlamote is a house and pop artist, with 10 gigs on soundcheck across Ghent. Of
 
 Nadiem Shah, Dj Licious, Lowie Trio
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamote/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlamote/)*

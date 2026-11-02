@@ -1,6 +1,6 @@
 # Joshua Brooks
 
-Joshua Brooks is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Hannah Wants x counter culture - manchester" on Fri, 6 Nov 2026.
+Joshua Brooks is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Hannah Wants x counter culture - manchester" on Fri, 6 Nov 2026.
 
 Joshua Brooks is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including AYDN, Benny L, CEEKAY and Chicane and 2 more. See dates, start times and who's playing. 106 Princess Street; Manchester; M1 6NG, United Kingdom.
 
@@ -23,4 +23,4 @@ Joshua Brooks is a music venue in Manchester listed on soundcheck. 15 upcoming g
 
 106 Princess Street; Manchester; M1 6NG, United Kingdom, Manchester
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/joshua-brooks/)*

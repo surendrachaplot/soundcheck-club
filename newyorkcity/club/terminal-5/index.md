@@ -1,6 +1,6 @@
 # Terminal 5
 
-Terminal 5 is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "nimino" on Sat, 7 Nov 2026.
+Terminal 5 is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "nimino" on Sat, 7 Nov 2026.
 
 Terminal 5 is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Ian Asher and nimino. See dates, start times and who's playing. 610 West 56th Street; New York, NY 10019; United States.
 
@@ -15,4 +15,4 @@ Terminal 5 is a music venue in New York City listed on soundcheck. 2 upcoming gi
 
 610 West 56th Street; New York, NY 10019; United States, New York City
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/terminal-5/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/terminal-5/)*

@@ -1,6 +1,6 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Luton & Šćepa Live, intro by Knower" on Fri, 6 Nov 2026.
+Karmakoma is a music venue in Belgrade with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Luton & Šćepa Live, intro by Knower" on Fri, 6 Nov 2026.
 
 Karmakoma is a music venue in Belgrade listed on soundcheck. 10 upcoming gigs, with line-ups including Ali Guney, Ben UFO, Cormac and Evanora Unlimited and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
@@ -23,4 +23,4 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 10 upcoming gigs, w
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

@@ -1,6 +1,6 @@
 # Kris Tin
 
-Kris Tin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at ESC, Montreal on Fri, 6 Nov 2026.
+Kris Tin is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ESC, Montreal on Fri, 6 Nov 2026.
 
 Kris Tin is a techno and industrial artist, with 56 gigs on soundcheck across Los Angeles, Montreal and Toronto. Often billed alongside K657, Meen Moreen and Dopamyne. Next up: ESC, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kris Tin is a techno and industrial artist, with 56 gigs on soundcheck across Lo
 
 K657, Meen Moreen, Dopamyne
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristin/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristin/)*

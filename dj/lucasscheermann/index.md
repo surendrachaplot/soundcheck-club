@@ -1,8 +1,8 @@
 # Lucas Scheermann
 
-Lucas Scheermann is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 2 Dec 2026.
+Lucas Scheermann is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 2 Dec 2026.
 
-Lucas Scheermann is a techno and trance artist, with 11 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside Didier Dlb, Ponygirl and 5euroGoldi. Next up: Tresor / Globus, Berlin on Wed 2 Dec.
+Lucas Scheermann is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin, Hamburg and Hannover. Often billed alongside Didier Dlb, Ponygirl and 5euroGoldi. Next up: Tresor / Globus, Berlin on Wed 2 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lucas Scheermann is a techno and trance artist, with 11 gigs on soundcheck acros
 
 Didier Dlb, Ponygirl, 5euroGoldi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasscheermann/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucasscheermann/)*

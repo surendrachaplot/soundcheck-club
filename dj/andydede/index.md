@@ -1,14 +1,14 @@
 # ANDY DEDE
 
-ANDY DEDE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Traffic, Tokyo on Mon, 2 Nov 2026.
+ANDY DEDE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Tokyo on Mon, 2 Nov 2026.
 
-ANDY DEDE is a house and tech house artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside ALEXANDER M, EIGHT and BiBiYUA. Next up: Traffic, Tokyo on Mon 2 Nov.
+ANDY DEDE is a house and tech house artist based in Japan, with 24 gigs on soundcheck across Tokyo. Often billed alongside ALEXANDER M, EIGHT and BiBiYUA. Next up: TBA, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Traffic | Tokyo |
+| Mon, 2 Nov 2026 | TBA | Tokyo |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ ANDY DEDE is a house and tech house artist based in Japan, with 24 gigs on sound
 
 ALEXANDER M, EIGHT, BiBiYUA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andydede/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andydede/)*

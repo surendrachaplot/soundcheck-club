@@ -1,6 +1,6 @@
 # nicop.exe
 
-nicop.exe is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at D9 Aribau, Barcelona on Sat, 7 Nov 2026.
+nicop.exe is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at D9 Aribau, Barcelona on Sat, 7 Nov 2026.
 
 nicop.exe is a techno artist, with 4 gigs on soundcheck across Barcelona. Often billed alongside ALRHA, Störung and Babylon Whore. Next up: D9 Aribau, Barcelona on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ nicop.exe is a techno artist, with 4 gigs on soundcheck across Barcelona. Often 
 
 ALRHA, Störung, Babylon Whore
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicop.exe/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicop.exe/)*

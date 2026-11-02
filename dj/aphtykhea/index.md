@@ -1,6 +1,6 @@
 # Aphty Khéa
 
-Aphty Khéa is a Electronica and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 27 Nov 2026.
+Aphty Khéa is a Electronica and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 27 Nov 2026.
 
 Aphty Khéa is an electronica and breakbeat artist based in United Kingdom, with 6 gigs on soundcheck across Athens and Berlin. Often billed alongside Middle Name John, Bconscious and Do you know Juno. Next up: Crack Bellmer, Berlin on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Aphty Khéa is an electronica and breakbeat artist based in United Kingdom, with
 
 Middle Name John, Bconscious, Do you know Juno
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aphtykhea/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aphtykhea/)*

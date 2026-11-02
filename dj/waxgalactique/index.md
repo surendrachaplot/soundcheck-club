@@ -1,8 +1,8 @@
 # Wax Galactique
 
-Wax Galactique is a Electro and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at komunal, Birmingham on Sat, 14 Nov 2026.
+Wax Galactique is a Electro and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at komunal, Birmingham on Sat, 14 Nov 2026.
 
-Wax Galactique is an electro and italo disco artist, with 6 gigs on soundcheck across Birmingham, Cardiff and West Wales. Often billed alongside David J Bull, Esther (UK) and 7T8s. Next up: komunal, Birmingham on Sat 14 Nov.
+Wax Galactique is an electro and italo disco artist based in United Kingdom, with 6 gigs on soundcheck across Birmingham, Cardiff and West Wales. Often billed alongside David J Bull, Esther (UK) and 7T8s. Next up: komunal, Birmingham on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Wax Galactique is an electro and italo disco artist, with 6 gigs on soundcheck a
 
 David J Bull, Esther (UK), 7T8s
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxgalactique/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxgalactique/)*

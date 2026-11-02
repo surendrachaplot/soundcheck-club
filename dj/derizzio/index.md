@@ -1,6 +1,6 @@
 # DeRizzio
 
-DeRizzio is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Secret Location, London on Sat, 7 Nov 2026.
+DeRizzio is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location, London on Sat, 7 Nov 2026.
 
 DeRizzio is a minimal and house artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside Azire, Kesh and Angello.. Next up: TBA - Secret Location, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DeRizzio is a minimal and house artist based in United Kingdom, with 24 gigs on 
 
 Azire, Kesh (1), Angello.
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derizzio/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derizzio/)*

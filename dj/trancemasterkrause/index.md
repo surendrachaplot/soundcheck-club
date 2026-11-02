@@ -1,6 +1,6 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Smoke & Mirrors, Chicago on Fri, 6 Nov 2026.
+Trancemaster Krause is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Smoke & Mirrors, Chicago on Fri, 6 Nov 2026.
 
 Trancemaster Krause is a techno and trance artist based in Germany, with 243 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Smoke & Mirrors, Chicago on Fri 6 Nov.
 
@@ -34,4 +34,4 @@ Trancemaster Krause is a techno and trance artist based in Germany, with 243 gig
 
 Cleopard2000, Mika Heggemann, Justin Tinderdate
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trancemasterkrause/)*

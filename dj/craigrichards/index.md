@@ -1,6 +1,6 @@
 # Craig Richards
 
-Craig Richards is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Circus Osaka, Osaka on Mon, 2 Nov 2026.
+Craig Richards is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Circus Osaka, Osaka on Mon, 2 Nov 2026.
 
 Craig Richards is a house and techno artist based in United Kingdom, with 166 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Bobby., Francesco Del Garda and Christian AB. Next up: Circus Osaka, Osaka on Mon 2 Nov.
 
@@ -31,4 +31,4 @@ Craig Richards is a house and techno artist based in United Kingdom, with 166 gi
 
 Bobby., Francesco Del Garda, Christian AB
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigrichards/)*

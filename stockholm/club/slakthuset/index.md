@@ -1,6 +1,6 @@
 # Slakthuset
 
-Slakthuset is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "DJ Ruby I Surfface I Drakenberg" on Fri, 6 Nov 2026.
+Slakthuset is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DJ Ruby I Surfface I Drakenberg" on Fri, 6 Nov 2026.
 
 Slakthuset is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Ruby, Johannes Drakenberg and Surfface. See dates, start times and who's playing. Slakthusgatan 6, 121 62 Johanneshov, Sweden.
 
@@ -15,4 +15,4 @@ Slakthuset is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, 
 
 Slakthusgatan 6, 121 62 Johanneshov, Sweden, Stockholm
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/slakthuset/)*

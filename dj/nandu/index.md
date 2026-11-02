@@ -1,6 +1,6 @@
 # Nandu
 
-Nandu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Coco Boule, Berlin on Sat, 28 Nov 2026.
+Nandu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Coco Boule, Berlin on Sat, 28 Nov 2026.
 
 Nandu is a house and techno artist based in Denmark, with 113 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Ivory, Yet More and Bedouin. Next up: Coco Boule, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Nandu is a house and techno artist based in Denmark, with 113 gigs on soundcheck
 
 Ivory, Yet More, Bedouin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nandu/)*

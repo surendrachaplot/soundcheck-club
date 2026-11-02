@@ -1,0 +1,28 @@
+# Andrea Montalto
+
+Andrea Montalto is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Peddler Warehouse, Sheffield on Sat, 30 Jan 2027.
+
+Andrea Montalto is a balearic and disco artist based in United Kingdom, with 28 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London and 2 more. Often billed alongside Joseph Russell, Kacper Pieta and Linga Sound. Next up: Peddler Warehouse, Sheffield on Sat 30 Jan.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 30 Jan 2027 | Peddler Warehouse | Sheffield |
+
+## Recently played
+
+- Total Refreshment Centre, London · Sat, 10 Oct 2026
+- Sneaky Pete's, Edinburgh · Sat, 25 Jul 2026
+- Multi-Venue - Sheffield, Sheffield · Sat, 21 Mar 2026
+- Piccadilly Central, Manchester · Fri, 6 Mar 2026
+- Factory Floor, Sheffield · Sat, 1 Nov 2025
+- Sneaky Pete's, Edinburgh · Sat, 18 Oct 2025
+- Sneaky Pete's, Edinburgh · Fri, 22 Aug 2025
+- Sneaky Pete's, Edinburgh · Sat, 19 Apr 2025
+
+## Shares bills with
+
+Joseph Russell, Kacper Pieta, Linga Sound
+
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreamontalto/)*

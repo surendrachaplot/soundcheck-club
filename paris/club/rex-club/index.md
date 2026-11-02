@@ -1,6 +1,6 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Westfall presents Reload: Manil b2b Westfall, Shoshana, Spaece" on Wed, 4 Nov 2026.
+Rex Club is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Westfall presents Reload: Manil b2b Westfall, Shoshana, Spaece" on Wed, 4 Nov 2026.
 
 Rex Club is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including Antal, Avenir, Babar and D'Julz and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
@@ -23,4 +23,4 @@ Rex Club is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with 
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

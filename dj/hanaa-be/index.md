@@ -1,6 +1,6 @@
 # HANAA
 
-HANAA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+HANAA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 HANAA is a techno and trance artist based in Belgium, with 11 gigs on soundcheck across Berlin, Freiburg, Geneva and Karlsruhe and 5 more. Often billed alongside Adrian Mills, Alex Farell and Anetha. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ HANAA is a techno and trance artist based in Belgium, with 11 gigs on soundcheck
 
 Adrian Mills, Alex Farell, Anetha
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaa-be/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hanaa-be/)*

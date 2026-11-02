@@ -1,6 +1,6 @@
 # Killa P
 
-Killa P is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Planet Wax, London on Sat, 5 Dec 2026.
+Killa P is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Planet Wax, London on Sat, 5 Dec 2026.
 
 Killa P is a drum & bass and bass artist based in United Kingdom, with 87 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 18 more. Often billed alongside Deekline, Sir Spyro and Footsie. Next up: Planet Wax, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Killa P is a drum & bass and bass artist based in United Kingdom, with 87 gigs o
 
 Deekline, Sir Spyro, Footsie
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killap/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killap/)*

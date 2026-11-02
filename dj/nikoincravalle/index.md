@@ -1,6 +1,6 @@
 # NIKO INCRAVALLE
 
-NIKO INCRAVALLE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Der Weiße Hase, Berlin on Thu, 5 Nov 2026.
+NIKO INCRAVALLE is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Der Weiße Hase, Berlin on Thu, 5 Nov 2026.
 
 NIKO INCRAVALLE is a techno and trance artist based in Germany, with 31 gigs on soundcheck across Berlin and Ibiza. Often billed alongside Bisk, Maschine and Epicx. Next up: Der Weiße Hase, Berlin on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ NIKO INCRAVALLE is a techno and trance artist based in Germany, with 31 gigs on 
 
 Bisk, Maschine, Epicx
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoincravalle/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikoincravalle/)*

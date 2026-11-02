@@ -1,6 +1,6 @@
 # DJ Zinc
 
-DJ Zinc is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
+DJ Zinc is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
 DJ Zinc is an electronic artist, with 2 gigs on soundcheck across London and North Island. Often billed alongside 4am Kru, A Little Sound and Andy C. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
@@ -18,4 +18,4 @@ DJ Zinc is an electronic artist, with 2 gigs on soundcheck across London and Nor
 
 4am Kru, A Little Sound, Andy C
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzinc/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzinc/)*

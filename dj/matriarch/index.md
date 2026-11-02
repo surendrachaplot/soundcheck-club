@@ -1,8 +1,8 @@
 # Matriarch
 
-Matriarch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Gateway, Minneapolis/St Paul on Fri, 20 Nov 2026.
+Matriarch is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Gateway, Minneapolis/St Paul on Fri, 20 Nov 2026.
 
-Matriarch is a house and techno artist, with 28 gigs on soundcheck across Minneapolis/St Paul. Often billed alongside DJ Eve, Dazzle and Akko. Next up: TBA - Gateway, Minneapolis/St Paul on Fri 20 Nov.
+Matriarch is a house and techno artist based in United States of America, with 28 gigs on soundcheck across Minneapolis/St Paul. Often billed alongside DJ Eve, Dazzle and Akko. Next up: TBA - Gateway, Minneapolis/St Paul on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Matriarch is a house and techno artist, with 28 gigs on soundcheck across Minnea
 
 DJ Eve, Dazzle, Akko
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matriarch/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matriarch/)*

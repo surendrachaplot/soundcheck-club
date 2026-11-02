@@ -1,6 +1,6 @@
 # Empty DJ
 
-Empty DJ is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Dr Morse, Melbourne on Mon, 2 Nov 2026.
+Empty DJ is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Dr Morse, Melbourne on Mon, 2 Nov 2026.
 
 Empty DJ is a house and balearic artist, with 4 gigs on soundcheck across Melbourne. Often billed alongside Emma Renée, Harry Who and Squidgenini. Next up: Dr Morse, Melbourne on Mon 2 Nov.
 
@@ -20,4 +20,4 @@ Empty DJ is a house and balearic artist, with 4 gigs on soundcheck across Melbou
 
 Emma Renée, Harry Who, Squidgenini
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emptydj/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emptydj/)*

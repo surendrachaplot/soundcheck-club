@@ -1,6 +1,6 @@
 # Depo Klub
 
-Depo Klub is a music venue in Zagreb with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Coyu at DEPOklub" on Fri, 6 Nov 2026.
+Depo Klub is a music venue in Zagreb with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Coyu at DEPOklub" on Fri, 6 Nov 2026.
 
 Depo Klub is a music venue in Zagreb listed on soundcheck. 3 upcoming gigs, with line-ups including Coyu, Teo Harouda, Vazdaisti and YANA ETC. See dates, start times and who's playing. Radnička cesta 27 (bivša tvornica Katran), 10000 Zagreb, Croatia.
 
@@ -16,4 +16,4 @@ Depo Klub is a music venue in Zagreb listed on soundcheck. 3 upcoming gigs, with
 
 Radnička cesta 27 (bivša tvornica Katran), 10000 Zagreb, Croatia, Zagreb
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/depo-klub/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/depo-klub/)*

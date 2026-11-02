@@ -1,6 +1,6 @@
 # SOLOWINSKI
 
-SOLOWINSKI is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Chmury, Warsaw on Fri, 27 Nov 2026.
+SOLOWINSKI is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Chmury, Warsaw on Fri, 27 Nov 2026.
 
 SOLOWINSKI is a techno and minimal artist based in Poland, with 4 gigs on soundcheck across Warsaw. Often billed alongside Chino and REV0LT. Next up: Chmury, Warsaw on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ SOLOWINSKI is a techno and minimal artist based in Poland, with 4 gigs on soundc
 
 Chino, REV0LT
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solowinski/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solowinski/)*

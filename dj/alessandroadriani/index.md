@@ -1,19 +1,19 @@
 # Alessandro Adriani
 
-Alessandro Adriani is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Studionotte, Milan on Sun, 1 Nov 2026.
+Alessandro Adriani is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
-Alessandro Adriani is a techno and ebm artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 19 more. Often billed alongside Tasha Safari, Franz Scala and The Hacker. Next up: Studionotte, Milan on Sun 1 Nov.
+Alessandro Adriani is a techno and ebm artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 19 more. Often billed alongside Tasha Safari, Franz Scala and The Hacker. Next up: The Buzz, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Studionotte | Milan |
 | Fri, 20 Nov 2026 | The Buzz | Berlin |
 | Sat, 28 Nov 2026 | TBA - Secret Location, Neukölln (near Sonnenallee) | Berlin |
 
 ## Recently played
 
+- Studionotte, Milan · Sun, 1 Nov 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 31 Oct 2026
 - Bordello Aperitivo, Amsterdam · Thu, 22 Oct 2026
 - TBA - Porta Romana Area, Milan · Sun, 11 Oct 2026
@@ -21,10 +21,9 @@ Alessandro Adriani is a techno and ebm artist based in Italy, with 101 gigs on s
 - arkaoda Berlin, Berlin · Sun, 30 Aug 2026
 - Forte Antenne, Rome · Sun, 19 Jul 2026
 - Tones Teatro Natura, Milan · Thu, 16 Jul 2026
-- TBA - Secret location Neukölln, Berlin · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Tasha Safari, Franz Scala, The Hacker
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessandroadriani/)*

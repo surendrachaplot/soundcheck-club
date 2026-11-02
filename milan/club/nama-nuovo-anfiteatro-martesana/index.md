@@ -1,6 +1,6 @@
 # NAMA - Nuovo Anfiteatro Martesana
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "fvtvristica x Fluids at NAMA" on Sat, 7 Nov 2026.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "fvtvristica x Fluids at NAMA" on Sat, 7 Nov 2026.
 
 NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Arkane, Charley Bolton, Deena Abdelwahed and DJ Red and 2 more. See dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
 
@@ -16,4 +16,4 @@ NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck
 
 Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia, Milan
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/nama-nuovo-anfiteatro-martesana/)*

@@ -1,8 +1,8 @@
 # klu (1)
 
-klu (1) is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Datong District, Taipei on Sat, 7 Nov 2026.
+klu (1) is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Datong District, Taipei on Sat, 7 Nov 2026.
 
-klu is a disco and house artist, with 27 gigs on soundcheck across Bangkok, Berlin and Taipei. Often billed alongside Pocari Sweaty, LYM and Diskonnected. Next up: TBA - Datong District, Taipei on Sat 7 Nov.
+klu is a disco and house artist based in United States of America, with 27 gigs on soundcheck across Bangkok, Berlin and Taipei. Often billed alongside Pocari Sweaty, LYM and Diskonnected. Next up: TBA - Datong District, Taipei on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ klu is a disco and house artist, with 27 gigs on soundcheck across Bangkok, Berl
 
 Pocari Sweaty, LYM (2), Diskonnected
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klu-1/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klu-1/)*

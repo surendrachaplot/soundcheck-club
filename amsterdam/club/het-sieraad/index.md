@@ -1,8 +1,8 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot" on Sat, 7 Nov 2026.
+Het Sieraad is a music venue in Amsterdam with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "By Day W/ Kenny Dope - Benny Rodrigues - Tonno Disko - Coco Coquelicot" on Sat, 7 Nov 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Alexander Koning, Alicia Hahn, Âme and Anthony Rother and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 13 upcoming gigs, with line-ups including Alexander Koning, Alicia Hahn, Âme and Anthony Rother and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Het Sieraad is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs
 
 Postjesweg 1, 1057 DT Amsterdam, Amsterdam
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/het-sieraad/)*

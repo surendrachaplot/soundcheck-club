@@ -1,6 +1,6 @@
 # Mikropol
 
-Mikropol is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "TOMAS TULPE" on Sat, 14 Nov 2026.
+Mikropol is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "TOMAS TULPE" on Sat, 14 Nov 2026.
 
 Mikropol is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Nollendorfplatz 5, 10777 Berlin.
 
@@ -15,4 +15,4 @@ Mikropol is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See d
 
 Nollendorfplatz 5, 10777 Berlin, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mikropol/)*

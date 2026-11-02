@@ -1,6 +1,6 @@
 # AiMii
 
-AiMii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at or, Tokyo on Wed, 4 Nov 2026.
+AiMii is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at or, Tokyo on Wed, 4 Nov 2026.
 
 AiMii is a techno and house artist based in Japan, with 75 gigs on soundcheck across Amsterdam, London and Tokyo. Often billed alongside YOSHI KANOU, WAKA XINXI and Alex Ormond. Next up: or, Tokyo on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ AiMii is a techno and house artist based in Japan, with 75 gigs on soundcheck ac
 
 YOSHI KANOU, WAKA XINXI, Alex Ormond
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aimii/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aimii/)*

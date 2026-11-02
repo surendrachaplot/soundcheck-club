@@ -1,6 +1,6 @@
 # Ormside Projects
 
-Ormside Projects is a music venue in London with 17 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "PRIVATELIFE011" on Wed, 4 Nov 2026.
+Ormside Projects is a music venue in London with 17 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "PRIVATELIFE011" on Wed, 4 Nov 2026.
 
 Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alba Akvama, Anina, Appleblim and Beatrice M. and 2 more. See dates, start times and who's playing. 32 Ormside St, London SE15 1TR, UK.
 
@@ -23,4 +23,4 @@ Ormside Projects is a music venue in London listed on soundcheck. 17 upcoming gi
 
 32 Ormside St, London SE15 1TR, UK, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ormside-projects/)*

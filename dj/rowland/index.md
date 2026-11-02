@@ -1,6 +1,6 @@
 # Rowland
 
-Rowland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Concept Haus, Manchester on Sat, 21 Nov 2026.
+Rowland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Concept Haus, Manchester on Sat, 21 Nov 2026.
 
 Rowland is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Mezla, Lucky Penny and Basic Function. Next up: Concept Haus, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rowland is a techno and house artist based in United Kingdom, with 16 gigs on so
 
 Mezla, Lucky Penny, Basic Function
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rowland/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rowland/)*

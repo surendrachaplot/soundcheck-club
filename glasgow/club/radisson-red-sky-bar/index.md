@@ -1,6 +1,6 @@
 # Radisson Red Sky Bar
 
-Radisson Red Sky Bar is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Hedkandi Present The Winter Disco Ball" on Fri, 18 Dec 2026.
+Radisson Red Sky Bar is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Hedkandi Present The Winter Disco Ball" on Fri, 18 Dec 2026.
 
 Radisson Red Sky Bar is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Mark Doyle. See dates, start times and who's playing. 25 Tunnel Street, Finnieston Quay, G3 8HL.
 
@@ -16,4 +16,4 @@ Radisson Red Sky Bar is a music venue in Glasgow listed on soundcheck. 3 upcomin
 
 25 Tunnel Street, Finnieston Quay, G3 8HL, Glasgow
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/radisson-red-sky-bar/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/radisson-red-sky-bar/)*

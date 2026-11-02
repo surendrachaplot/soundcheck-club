@@ -1,6 +1,6 @@
 # Acres
 
-Acres is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Beam x Duppy Share x Chip n Jerk x Acres Bottomless Brunch" on Sat, 21 Nov 2026.
+Acres is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Beam x Duppy Share x Chip n Jerk x Acres Bottomless Brunch" on Sat, 21 Nov 2026.
 
 Acres is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Sambo and TERMINAL 4. See dates, start times and who's playing. 12 Acklam Rd, London, W10 5QZ.
 
@@ -15,4 +15,4 @@ Acres is a music venue in London listed on soundcheck. 2 upcoming gigs, with lin
 
 12 Acklam Rd, London, W10 5QZ, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/acres/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/acres/)*

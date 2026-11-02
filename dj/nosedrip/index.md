@@ -1,6 +1,6 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
+Nosedrip is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
 
 Nosedrip is a techno and house artist based in Belgium, with 141 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 41 more. Often billed alongside OKO DJ, Amelia Holt and Vlada. Next up: The White Hotel, Manchester on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Nosedrip is a techno and house artist based in Belgium, with 141 gigs on soundch
 
 OKO DJ, Amelia Holt, Vlada
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nosedrip/)*

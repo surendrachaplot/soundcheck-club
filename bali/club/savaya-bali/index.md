@@ -1,6 +1,6 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 24 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "¥ØU$UK€ ¥UK1MAT$U" on Fri, 6 Nov 2026.
+Savaya Bali is a music venue in Bali with 24 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "¥ØU$UK€ ¥UK1MAT$U" on Fri, 6 Nov 2026.
 
 Savaya Bali is a music venue in Bali listed on soundcheck. 24 upcoming gigs, with line-ups including AMÉMÉ, Argy, BLOND:ISH and CamelPhat and 2 more. See dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
@@ -23,4 +23,4 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 24 upcoming gigs, wit
 
 Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia, Bali
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/savaya-bali/)*

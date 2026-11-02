@@ -1,8 +1,8 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Sat, 21 Nov 2026.
+Nicole Moudaber is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Sat, 21 Nov 2026.
 
-Nicole Moudaber is a techno and house artist based in United Kingdom, with 147 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 46 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Galerie Kurzweil, Darmstadt on Sat 21 Nov.
+Nicole Moudaber is a techno and house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 46 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: Galerie Kurzweil, Darmstadt on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, with 147 g
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 | Fri, 15 Jan 2027 | Radius | Chicago |
+| Fri, 29 Jan 2027 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, with 147 g
 
 Paco Osuna, Jamie Jones, Ilario Alicante
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolemoudaber/)*

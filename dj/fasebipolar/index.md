@@ -1,6 +1,6 @@
 # Fase Bipolar
 
-Fase Bipolar is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Spook Club, Valencia on Sat, 12 Dec 2026.
+Fase Bipolar is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Spook Club, Valencia on Sat, 12 Dec 2026.
 
 Fase Bipolar is a techno and tech house artist, with 2 gigs on soundcheck across Valencia. Often billed alongside Adiel, Helena Hauff and Richie Hawtin. Next up: Spook Club, Valencia on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Fase Bipolar is a techno and tech house artist, with 2 gigs on soundcheck across
 
 Adiel, Helena Hauff, Richie Hawtin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasebipolar/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasebipolar/)*

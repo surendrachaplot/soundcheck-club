@@ -1,6 +1,6 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at public records, New York City on Fri, 6 Nov 2026.
+Detroit In Effect is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at public records, New York City on Fri, 6 Nov 2026.
 
 Detroit In Effect is a techno and electro artist based in United States of America, with 116 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 41 more. Often billed alongside Serge, Afra and Binh. Next up: public records, New York City on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 Serge, Afra, Binh
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

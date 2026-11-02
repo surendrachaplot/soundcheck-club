@@ -1,6 +1,6 @@
 # Sonho
 
-Sonho is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at George Orwell Bar, Dundee on Fri, 6 Nov 2026.
+Sonho is a Minimal Techno and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at George Orwell Bar, Dundee on Fri, 6 Nov 2026.
 
 Sonho is a minimal techno and techno artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Dundee, Edinburgh and Glasgow and 2 more. Often billed alongside Is Kill, eosap and BAYNE. Next up: George Orwell Bar, Dundee on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sonho is a minimal techno and techno artist based in United Kingdom, with 38 gig
 
 Is Kill, eosap, BAYNE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonho/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonho/)*

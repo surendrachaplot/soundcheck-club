@@ -1,14 +1,15 @@
 # JAVS
 
-JAVS is a R&B and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Casa Amante Club, Madrid on Sat, 31 Oct 2026.
+JAVS is a R&B and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Metepec, Estado-de-m-xico on Sat, 7 Nov 2026.
 
-JAVS is a r&b and hip-hop artist, with 22 gigs on soundcheck across Madrid, Mallorca and Mexico City. Often billed alongside EM2K, Ronaldo and polō. Next up: Casa Amante Club, Madrid on Sat 31 Oct.
+JAVS is a r&b and hip-hop artist based in Mexico, with 24 gigs on soundcheck across Estado De M Xico, Madrid, Mallorca and Mexico City. Often billed alongside EM2K, Garo and Ronaldo. Next up: TBA - Metepec, Estado De M Xico on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Casa Amante Club | Madrid |
+| Sat, 7 Nov 2026 | TBA - Metepec | Estado-de-m-xico |
+| Sat, 7 Nov 2026 | TBA - Metepec | Estado-de-m-xico |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ JAVS is a r&b and hip-hop artist, with 22 gigs on soundcheck across Madrid, Mall
 
 ## Shares bills with
 
-EM2K, Ronaldo, polō
+EM2K, Garo, Ronaldo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javs/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/javs/)*

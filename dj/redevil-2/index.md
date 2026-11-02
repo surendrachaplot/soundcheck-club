@@ -1,6 +1,6 @@
 # Redevil (2)
 
-Redevil (2) is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 14 Nov 2026.
+Redevil (2) is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 14 Nov 2026.
 
 Redevil is a house artist based in United States of America, with 3 gigs on soundcheck across Philadelphia. Often billed alongside DJ Dawson, Derrick Carter and Janky. Next up: Warehouse on Watts, Philadelphia on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Redevil is a house artist based in United States of America, with 3 gigs on soun
 
 DJ Dawson, Derrick Carter, Janky
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redevil-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redevil-2/)*

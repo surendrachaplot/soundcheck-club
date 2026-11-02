@@ -1,14 +1,15 @@
 # MOFS
 
-MOFS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+MOFS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
-MOFS is a techno and industrial artist based in Costa Rica, with 13 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Leipzig and 1 more. Often billed alongside Hypnosta, NACHTIGALL and Eve Schwarz. Next up: elipamanoke, Leipzig on Sat 7 Nov.
+MOFS is a techno and industrial artist based in Costa Rica, with 14 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Leipzig and 1 more. Often billed alongside Hypnosta, NACHTIGALL and Eve Schwarz. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | elipamanoke | Leipzig |
+| Sat, 30 Jan 2027 | TBA - Secret Location | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MOFS is a techno and industrial artist based in Costa Rica, with 13 gigs on soun
 
 Hypnosta, NACHTIGALL, Eve Schwarz
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mofs/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mofs/)*

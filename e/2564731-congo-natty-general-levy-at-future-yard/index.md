@@ -1,6 +1,6 @@
 # Congo Natty + General Levy at Future Yard
 
-Congo Natty + General Levy at Future Yard on Sat 30 Jan, Liverpool. 2 artists: Congo Natty and General Levy. See the line-up on soundcheck.
+Congo Natty + General Levy at Future Yard on Sat 30 Jan, Liverpool. 2 artists: Congo Natty and General Levy. Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

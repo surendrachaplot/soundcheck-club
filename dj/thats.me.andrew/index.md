@@ -1,6 +1,6 @@
 # thats.me.andrew
 
-thats.me.andrew is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Radost FX, Prague on Sat, 7 Nov 2026.
+thats.me.andrew is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Radost FX, Prague on Sat, 7 Nov 2026.
 
 thats.me.andrew is a deep house and progressive house artist based in Czech Republic, with 3 gigs on soundcheck across Prague. Often billed alongside ASCENDER, Jan Nedved and Braxton. Next up: Radost FX, Prague on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ thats.me.andrew is a deep house and progressive house artist based in Czech Repu
 
 ASCENDER, Jan Nedved, Braxton
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thats.me.andrew/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thats.me.andrew/)*

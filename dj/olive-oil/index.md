@@ -1,6 +1,6 @@
 # Olive Oil
 
-Olive Oil is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at club asia, Tokyo on Fri, 6 Nov 2026.
+Olive Oil is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at club asia, Tokyo on Fri, 6 Nov 2026.
 
 Olive Oil is a hip-hop and house artist, with 7 gigs on soundcheck across Kyushu and Tokyo. Often billed alongside DJ Quietstorm, Baku and DJ FUMI. Next up: club asia, Tokyo on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Olive Oil is a hip-hop and house artist, with 7 gigs on soundcheck across Kyushu
 
 DJ Quietstorm, Baku, DJ FUMI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olive-oil/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olive-oil/)*

@@ -1,13 +1,14 @@
 # Sournois
 
-Sournois is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+Sournois is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Crackhouse, Gdansk on Sat, 14 Nov 2026.
 
-Sournois is a techno and house artist based in Poland, with 27 gigs on soundcheck across Berlin, Hamburg, Krakow and Poznan and 3 more. Often billed alongside Dizzy (PL), AregV and Drumaddition. Next up: Luzztro, Warsaw on Sat 21 Nov.
+Sournois is a techno and house artist based in Poland, with 28 gigs on soundcheck across Berlin, Gdansk, Hamburg and Krakow and 4 more. Often billed alongside Dizzy (PL), AregV and Drumaddition. Next up: Crackhouse, Gdansk on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Crackhouse | Gdansk |
 | Sat, 21 Nov 2026 | Luzztro | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sournois is a techno and house artist based in Poland, with 27 gigs on soundchec
 
 Dizzy (PL), AregV, Drumaddition
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sournois/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sournois/)*

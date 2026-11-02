@@ -1,8 +1,8 @@
 # Vicky Brabeck
 
-Vicky Brabeck is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Golden Gate, Berlin on Thu, 26 Nov 2026.
+Vicky Brabeck is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Golden Gate, Berlin on Thu, 26 Nov 2026.
 
-Vicky Brabeck is a techno and tech house artist, with 12 gigs on soundcheck across Berlin, Cologne and Stuttgart. Often billed alongside Alex New, AM.I and Alex Stein. Next up: Golden Gate, Berlin on Thu 26 Nov.
+Vicky Brabeck is a techno and tech house artist based in Germany, with 12 gigs on soundcheck across Berlin, Cologne and Stuttgart. Often billed alongside Alex New, AM.I and Alex Stein. Next up: Golden Gate, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Vicky Brabeck is a techno and tech house artist, with 12 gigs on soundcheck acro
 
 Alex New, AM.I, Alex Stein
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriabrabeck/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriabrabeck/)*

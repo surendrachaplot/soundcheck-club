@@ -1,6 +1,6 @@
 # Aga
 
-Aga is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
+Aga is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Arch 14, London on Sat, 5 Dec 2026.
 
 Aga is a house and tech house artist based in Italy, with 2 gigs on soundcheck across London and Naples. Often billed alongside AKWA, Colaps and Cristian Sirica. Next up: Arch 14, London on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Aga is a house and tech house artist based in Italy, with 2 gigs on soundcheck a
 
 AKWA, Colaps, Cristian Sirica
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aga/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aga/)*

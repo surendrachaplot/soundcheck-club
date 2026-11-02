@@ -1,6 +1,6 @@
 # XXBWQ
 
-XXBWQ is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Velvet Room, Calgary on Sat, 21 Nov 2026.
+XXBWQ is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Velvet Room, Calgary on Sat, 21 Nov 2026.
 
 XXBWQ is a techno and dub techno artist based in Ukraine, with 5 gigs on soundcheck across Calgary and Vancouver. Often billed alongside DK PAU, ADII and Archaphael. Next up: Velvet Room, Calgary on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ XXBWQ is a techno and dub techno artist based in Ukraine, with 5 gigs on soundch
 
 DK PAU, ADII, Archaphael
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xxbwq/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xxbwq/)*

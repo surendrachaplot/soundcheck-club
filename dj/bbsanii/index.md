@@ -1,6 +1,6 @@
 # bbsanii
 
-bbsanii is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Revolver Upstairs, Melbourne on Tue, 3 Nov 2026.
+bbsanii is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Revolver Upstairs, Melbourne on Tue, 3 Nov 2026.
 
 bbsanii is a techno and house artist based in Australia, with 38 gigs on soundcheck across Australian Capital Territory, Melbourne and Victoria. Often billed alongside JUPiTA, Sophie Forrest and Tina Disco. Next up: Revolver Upstairs, Melbourne on Tue 3 Nov.
 
@@ -29,4 +29,4 @@ bbsanii is a techno and house artist based in Australia, with 38 gigs on soundch
 
 JUPiTA, Sophie Forrest, Tina Disco
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*

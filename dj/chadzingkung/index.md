@@ -1,6 +1,6 @@
 # Chadzing Kung
 
-Chadzing Kung is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Vespers Club, London on Sat, 7 Nov 2026.
+Chadzing Kung is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Vespers Club, London on Sat, 7 Nov 2026.
 
 Chadzing Kung is an ambient and electronica artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside GRE9, 76 % and ChunS!ut. Next up: Vespers Club, London on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Chadzing Kung is an ambient and electronica artist based in United Kingdom, with
 
 GRE9, 76 %, ChunS!ut
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chadzingkung/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chadzingkung/)*

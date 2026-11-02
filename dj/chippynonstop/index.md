@@ -1,6 +1,6 @@
 # Chippy Nonstop
 
-Chippy Nonstop is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Final, Taipei on Fri, 6 Nov 2026.
+Chippy Nonstop is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Final, Taipei on Fri, 6 Nov 2026.
 
 Chippy Nonstop is a techno and house artist based in Canada, with 181 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 52 more. Often billed alongside Karim Olen Ash, Young Teesh and HVN. Next up: Final, Taipei on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Chippy Nonstop is a techno and house artist based in Canada, with 181 gigs on so
 
 Karim Olen Ash, Young Teesh, HVN (1)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chippynonstop/)*

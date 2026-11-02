@@ -1,15 +1,13 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Downtown Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Konstantin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
 
-Konstantin is a house and techno artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: TBA - Downtown Los Angeles, Los Angeles on Sat 31 Oct.
+Konstantin is a house and techno artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: VENT, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Downtown Los Angeles | Los Angeles |
-| Sun, 1 Nov 2026 | TBA - Outdoor Location - DTLA  | Los Angeles |
 | Fri, 27 Nov 2026 | VENT | Tokyo |
 | Sat, 5 Dec 2026 | TBA | Melbourne |
 | Sat, 19 Dec 2026 | Postkantine | Basel |
@@ -17,6 +15,7 @@ Konstantin is a house and techno artist based in Germany, with 204 gigs on sound
 
 ## Recently played
 
+- TBA - Outdoor Location: 1926 E 7th Pl, Los Angeles, CA 90021, Los Angeles · Sun, 1 Nov 2026
 - TBA - Downtown Los Angeles, Los Angeles · Sat, 31 Oct 2026
 - Brooklyn Storehouse, New York City · Fri, 30 Oct 2026
 - Klaproos, Amsterdam · Sun, 25 Oct 2026
@@ -24,10 +23,9 @@ Konstantin is a house and techno artist based in Germany, with 204 gigs on sound
 - Sala Roxy, Guadalajara · Sat, 10 Oct 2026
 - Foro Frontera, Mexico City · Fri, 9 Oct 2026
 - TBA, Sofia · Sat, 3 Oct 2026
-- Loco Park, Tbilisi · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Beats without Borders" on Wed, 4 Nov 2026.
+Mood Ring is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Beats without Borders | Madre Guía, PunkyReggaeShawty (CHI), Ianko, Kweku" on Wed, 4 Nov 2026.
 
 Mood Ring is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including Abril IRL, BEYBLADE SHAWTY, BlackDanielWhite and Botanist and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -8,7 +8,7 @@ Mood Ring is a music venue in New York City listed on soundcheck. 15 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Beats without Borders | Kweku, Madre Guía |
+| Wed, 4 Nov 2026 | Beats without Borders / Madre Guía, PunkyReggaeShawty (CHI), Ianko, Kweku | Kweku, Madre Guía |
 | Thu, 5 Nov 2026 | super sweet with yung_womb (SLIC Unit), Third Self & Nissa Carrington | Nissa Carrington, SLIC Unit, Third Self, yung_womb |
 | Fri, 6 Nov 2026 | Baddie 2 Baddie | BEYBLADE SHAWTY, CMD+JAZMINE, KOOB, Petal |
 | Fri, 6 Nov 2026 | DRAMAMA | hàobèi |
@@ -23,4 +23,4 @@ Mood Ring is a music venue in New York City listed on soundcheck. 15 upcoming gi
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

@@ -1,6 +1,6 @@
 # Baldo
 
-Baldo is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Klymax Discotheque, Bali on Fri, 6 Nov 2026.
+Baldo is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Klymax Discotheque, Bali on Fri, 6 Nov 2026.
 
 Baldo is a house and acid artist based in Spain, with 94 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 26 more. Often billed alongside Benjamin Fröhlich, Al Jones and Alex Neri. Next up: Klymax Discotheque, Bali on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Baldo is a house and acid artist based in Spain, with 94 gigs on soundcheck acro
 
 Benjamin Fröhlich, Al Jones, Alex Neri
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldo/)*

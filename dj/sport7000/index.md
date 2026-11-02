@@ -1,8 +1,8 @@
 # sport7000
 
-sport7000 is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Blå, Oslo on Fri, 4 Dec 2026.
+sport7000 is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Blå, Oslo on Fri, 4 Dec 2026.
 
-sport7000 is a trance and house artist, with 15 gigs on soundcheck across Oslo. Often billed alongside Fakethias, Ingrate and Annweiler. Next up: Blå, Oslo on Fri 4 Dec.
+sport7000 is a trance and house artist based in Norway, with 15 gigs on soundcheck across Oslo. Often billed alongside Fakethias, Ingrate and Annweiler. Next up: Blå, Oslo on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ sport7000 is a trance and house artist, with 15 gigs on soundcheck across Oslo. 
 
 Fakethias, Ingrate, Annweiler
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sport7000/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sport7000/)*

@@ -1,6 +1,6 @@
 # Shaingel
 
-Shaingel is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Three Dollar Bill, Toronto on Fri, 6 Nov 2026.
+Shaingel is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Three Dollar Bill, Toronto on Fri, 6 Nov 2026.
 
 Shaingel is a techno and club artist based in Canada, with 19 gigs on soundcheck across Toronto. Often billed alongside TRINIDADDY, VUHNNY and Kara Kara. Next up: Three Dollar Bill, Toronto on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Shaingel is a techno and club artist based in Canada, with 19 gigs on soundcheck
 
 TRINIDADDY, VUHNNY, Kara Kara
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaingel/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaingel/)*

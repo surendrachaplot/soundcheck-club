@@ -1,18 +1,18 @@
 # Joe Joiner
 
-Joe Joiner is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Planet Wax, London on Sun, 1 Nov 2026.
+Joe Joiner is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Planet Wax, London on Fri, 27 Nov 2026.
 
-Joe Joiner is a jungle and drum & bass artist based in United Kingdom, with 21 gigs on soundcheck across Bristol and London. Often billed alongside Pressa, Andy Foundations and Highlander. Next up: Planet Wax, London on Sun 1 Nov.
+Joe Joiner is a jungle and drum & bass artist based in United Kingdom, with 21 gigs on soundcheck across Bristol and London. Often billed alongside Pressa, Andy Foundations and Highlander. Next up: Planet Wax, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Planet Wax | London |
 | Fri, 27 Nov 2026 | Planet Wax | London |
 
 ## Recently played
 
+- Planet Wax, London · Sun, 1 Nov 2026
 - Moon Club, Bristol · Fri, 2 Oct 2026
 - Four Quarters, London · Fri, 17 Apr 2026
 - XOYO, London · Thu, 19 Mar 2026
@@ -20,10 +20,9 @@ Joe Joiner is a jungle and drum & bass artist based in United Kingdom, with 21 g
 - Four Quarters, London · Sat, 4 Oct 2025
 - Corsica Studios, London · Thu, 17 Jul 2025
 - fabric, London · Sat, 31 May 2025
-- Planet Wax, London · Sat, 19 Apr 2025
 
 ## Shares bills with
 
 Pressa, Andy Foundations, Highlander
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joejoiner/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joejoiner/)*

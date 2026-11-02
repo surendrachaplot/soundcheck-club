@@ -1,14 +1,15 @@
 # Stanislav Tolkachev
 
-Stanislav Tolkachev is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Jasna 1, Warsaw on Sat, 14 Nov 2026.
+Stanislav Tolkachev is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Jasna 1, Warsaw on Sat, 14 Nov 2026.
 
-Stanislav Tolkachev is a techno and house artist based in Ukraine, with 79 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 25 more. Often billed alongside Katya Milch, Nastia and Louwave. Next up: Jasna 1, Warsaw on Sat 14 Nov.
+Stanislav Tolkachev is a techno and house artist based in Ukraine, with 80 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belgrade and 25 more. Often billed alongside Katya Milch, Nastia and Louwave. Next up: Jasna 1, Warsaw on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Jasna 1 | Warsaw |
+| Thu, 31 Dec 2026 | TBA - Powered by: Void Acoustics | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Stanislav Tolkachev is a techno and house artist based in Ukraine, with 79 gigs 
 
 Katya Milch, Nastia, Louwave
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stanislavtolkachev/)*

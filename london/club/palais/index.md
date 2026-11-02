@@ -1,6 +1,6 @@
 # Palais
 
-Palais is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Palais: Axel Boman & CC:DISCO" on Fri, 6 Nov 2026.
+Palais is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Palais: Axel Boman & CC:DISCO" on Fri, 6 Nov 2026.
 
 Palais is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Adi (CO), anu, Axel Boman and Bakey and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -23,4 +23,4 @@ Palais is a music venue in London listed on soundcheck. 15 upcoming gigs, with l
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/palais/)*

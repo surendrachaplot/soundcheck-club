@@ -1,14 +1,13 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Private Warehouse DTLA, Los Angeles on Sat, 31 Oct 2026.
+Regal86 is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bastet, Philadelphia on Fri, 6 Nov 2026.
 
-Regal86 is a techno and club artist based in Mexico, with 148 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 59 more. Often billed alongside 1OO1O, 1morning and Gbenga. Next up: TBA - Private Warehouse DTLA, Los Angeles on Sat 31 Oct.
+Regal86 is a techno and club artist based in Mexico, with 148 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 59 more. Often billed alongside 1OO1O, 1morning and Gbenga. Next up: Bastet, Philadelphia on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - Private Warehouse DTLA | Los Angeles |
 | Fri, 6 Nov 2026 | Bastet | Philadelphia |
 | Sat, 7 Nov 2026 | TBA | Chicago |
 | Fri, 13 Nov 2026 | 314 Scholes | New York City |
@@ -29,4 +28,4 @@ Regal86 is a techno and club artist based in Mexico, with 148 gigs on soundcheck
 
 1OO1O, 1morning, Gbenga
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

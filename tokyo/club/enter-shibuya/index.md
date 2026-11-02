@@ -1,6 +1,6 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Kacha Kacha vol.4 supported by HABUSH" on Mon, 2 Nov 2026.
+Enter Shibuya is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Kacha Kacha vol.4 supported by HABUSH" on Mon, 2 Nov 2026.
 
 Enter Shibuya is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including Ayana Pattra, CYBERHACKSYSTEM, DJ POIPOI and DJ Quietstorm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
@@ -23,4 +23,4 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, 
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

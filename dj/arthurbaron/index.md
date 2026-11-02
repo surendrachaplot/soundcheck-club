@@ -1,8 +1,8 @@
 # Arthur Baron
 
-Arthur Baron is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Giselle, Düsseldorf on Fri, 13 Nov 2026.
+Arthur Baron is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Giselle, Düsseldorf on Fri, 13 Nov 2026.
 
-Arthur Baron is an ambient and house artist, with 23 gigs on soundcheck across Berlin, Dresden, Düsseldorf and Hamburg and 2 more. Often billed alongside Dj Heartbreak, Severja and Synthtati. Next up: Giselle, Düsseldorf on Fri 13 Nov.
+Arthur Baron is an ambient and house artist based in France, with 23 gigs on soundcheck across Berlin, Dresden, Düsseldorf and Hamburg and 2 more. Often billed alongside Dj Heartbreak, Severja and Synthtati. Next up: Giselle, Düsseldorf on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Arthur Baron is an ambient and house artist, with 23 gigs on soundcheck across B
 
 Dj Heartbreak, Severja, Synthtati
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurbaron/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthurbaron/)*

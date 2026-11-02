@@ -1,8 +1,8 @@
 # 7UFO
 
-7UFO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - YKO, Kuala Lumpur on Wed, 4 Nov 2026.
+7UFO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - YKO, Kuala Lumpur on Wed, 4 Nov 2026.
 
-7UFO is a house and techno artist, with 7 gigs on soundcheck across Kuala Lumpur and London. Often billed alongside Meliha, Alam and Axel Groove. Next up: TBA - YKO, Kuala Lumpur on Wed 4 Nov.
+7UFO is a house and techno artist based in Malaysia, with 7 gigs on soundcheck across Kuala Lumpur and London. Often billed alongside Meliha, Alam and Axel Groove. Next up: TBA - YKO, Kuala Lumpur on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@
 
 Meliha, Alam, Axel Groove
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7ufo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7ufo/)*

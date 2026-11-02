@@ -1,6 +1,6 @@
 # Zana
 
-Zana is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Zana is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Zana is a techno and tech house artist based in Bosnia and Herzegovina, with 3 gigs on soundcheck across Belgrade and Budapest. Often billed alongside .Paragon, Agents Of Time and Albin Brezlan. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Zana is a techno and tech house artist based in Bosnia and Herzegovina, with 3 g
 
 .Paragon, Agents Of Time, Albin Brezlan
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zana/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zana/)*

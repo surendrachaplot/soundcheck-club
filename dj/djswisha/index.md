@@ -1,6 +1,6 @@
 # DJ SWISHA
 
-DJ SWISHA is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Pisces, Atlanta on Sat, 7 Nov 2026.
+DJ SWISHA is a Club and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Pisces, Atlanta on Sat, 7 Nov 2026.
 
 DJ SWISHA is a club and techno artist based in United States of America, with 225 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 58 more. Often billed alongside Kush Jones, AceMo and MoMA Ready. Next up: Pisces, Atlanta on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ DJ SWISHA is a club and techno artist based in United States of America, with 22
 
 Kush Jones, AceMo, MoMA Ready
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswisha/)*

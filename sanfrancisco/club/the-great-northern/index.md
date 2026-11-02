@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest" on Fri, 6 Nov 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest" on Fri, 6 Nov 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 7 upcoming gigs, with line-ups including ALMAS, Anderson Bourne, Anthony Mansfield and Beverly Chills and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -20,4 +20,4 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

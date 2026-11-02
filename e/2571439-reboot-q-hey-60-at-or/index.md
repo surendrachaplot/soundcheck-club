@@ -1,6 +1,6 @@
-# REBOOT - Q'hey 60- at or
+# REBOOT - Q'hey 60 - at or
 
-REBOOT - Q'hey 60- at or on Mon 23 Nov, Tokyo. 16 artists: DJ Emma, DJ Shufflemaster, DJ Wada and Drunken Kong and 12 more. Techno and House. See the line-up on soundcheck.
+REBOOT - Q'hey 60 - at or on Mon 23 Nov, Tokyo. 16 artists: DJ Emma, DJ Shufflemaster, DJ Wada and Drunken Kong and 12 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

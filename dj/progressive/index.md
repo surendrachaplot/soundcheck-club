@@ -1,13 +1,14 @@
 # Progressive
 
-Progressive is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Odonien, Cologne on Sat, 2 Oct 2027.
+Progressive is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at the inner circle vienna / wien, Vienna on Sat, 21 Nov 2026.
 
-Progressive is a techno and house artist based in United Kingdom, with 41 gigs on soundcheck across Athens, Bangkok, Berlin and Cape Town and 12 more. Often billed alongside Hudd, Offbeat and Artwork. Next up: Odonien, Cologne on Sat 2 Oct.
+Progressive is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Athens, Bangkok, Berlin and Cape Town and 12 more. Often billed alongside Hudd, Offbeat and Artwork. Next up: the inner circle vienna / wien, Vienna on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | the inner circle vienna / wien | Vienna |
 | Sat, 2 Oct 2027 | Odonien | Cologne |
 
 ## Recently played
@@ -25,4 +26,4 @@ Progressive is a techno and house artist based in United Kingdom, with 41 gigs o
 
 Hudd, Offbeat, Artwork
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/progressive/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/progressive/)*

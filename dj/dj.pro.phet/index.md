@@ -1,6 +1,6 @@
 # DJ.PRO.PHET
 
-DJ.PRO.PHET is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Absturz, Leipzig on Sat, 7 Nov 2026.
+DJ.PRO.PHET is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Absturz, Leipzig on Sat, 7 Nov 2026.
 
 DJ.PRO.PHET is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Leipzig. Often billed alongside Mariposa x Lyra, Meyhartt and Richie Rollin. Next up: Absturz, Leipzig on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ DJ.PRO.PHET is a techno and trance artist based in Germany, with 4 gigs on sound
 
 Mariposa x Lyra, Meyhartt, Richie Rollin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.pro.phet/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj.pro.phet/)*

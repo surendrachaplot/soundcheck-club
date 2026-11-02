@@ -1,6 +1,6 @@
 # Section 8
 
-Section 8 is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Rewind Selecta takeover" on Thu, 5 Nov 2026.
+Section 8 is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Rewind Selecta takeover" on Thu, 5 Nov 2026.
 
 Section 8 is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Bekks, Callaghan, freakydiquey and Jakey and 1 more. See dates, start times and who's playing. 27-29 Tattersalls Ln; Melbourne, VIC 3000; Australia.
 
@@ -15,4 +15,4 @@ Section 8 is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, w
 
 27-29 Tattersalls Ln; Melbourne, VIC 3000; Australia, Melbourne
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/section-8/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/section-8/)*

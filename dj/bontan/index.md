@@ -1,6 +1,6 @@
 # Bontan
 
-Bontan is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Volt Club Milano, Milan on Thu, 5 Nov 2026.
+Bontan is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Volt Club Milano, Milan on Thu, 5 Nov 2026.
 
 Bontan is a house and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 33 more. Often billed alongside Jamie Jones, AMÉMÉ and Archie Hamilton. Next up: Volt Club Milano, Milan on Thu 5 Nov.
 
@@ -30,4 +30,4 @@ Bontan is a house and tech house artist based in United Kingdom, with 123 gigs o
 
 Jamie Jones, AMÉMÉ, Archie Hamilton
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*

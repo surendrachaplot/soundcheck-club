@@ -1,6 +1,6 @@
 # Paula Salurand
 
-Paula Salurand is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Commune, Liverpool on Thu, 3 Dec 2026.
+Paula Salurand is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Commune, Liverpool on Thu, 3 Dec 2026.
 
 Paula Salurand is an electronica and ambient artist based in United Kingdom, with 2 gigs on soundcheck across Liverpool. Often billed alongside J. Conley, Quieting and aaypea. Next up: Commune, Liverpool on Thu 3 Dec.
 
@@ -18,4 +18,4 @@ Paula Salurand is an electronica and ambient artist based in United Kingdom, wit
 
 J. Conley, Quieting, aaypea
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasalurand/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulasalurand/)*

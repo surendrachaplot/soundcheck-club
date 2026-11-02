@@ -1,6 +1,6 @@
 # Joshkabonna
 
-Joshkabonna is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Void Club, Berlin on Fri, 6 Nov 2026.
+Joshkabonna is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Void Club, Berlin on Fri, 6 Nov 2026.
 
 Joshkabonna is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Brizze, DaSoMaZo and ELZIRA. Next up: Void Club, Berlin on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Joshkabonna is a techno and trance artist based in Germany, with 2 gigs on sound
 
 Brizze, DaSoMaZo, ELZIRA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkabonna/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshkabonna/)*

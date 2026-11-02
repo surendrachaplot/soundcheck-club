@@ -1,6 +1,6 @@
 # Baldman
 
-Baldman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
+Baldman is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA -  LFO, Madrid on Sat, 21 Nov 2026.
 
 Baldman is a techno and house artist based in Spain, with 60 gigs on soundcheck across Barcelona, Berlin, Madrid and Osaka and 3 more. Often billed alongside Lucient, Pépe and Axis Mundi. Next up: TBA -  LFO, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Baldman is a techno and house artist based in Spain, with 60 gigs on soundcheck 
 
 Lucient, Pépe, Axis Mundi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldman/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldman/)*

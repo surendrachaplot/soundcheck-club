@@ -1,6 +1,6 @@
 # E1
 
-E1 is a music venue in London with 33 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Ironworks By Night: Charlotte De Witte Afterparty" on Sun, 1 Nov 2026.
+E1 is a music venue in London with 33 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ALIVE: Paolo Ferrara (All Night Long)" on Fri, 6 Nov 2026.
 
 E1 is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including Paolo Ferrara, ABEL (UK), ACOR and Ade Smilez and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
@@ -8,7 +8,6 @@ E1 is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Ironworks By Night: Charlotte De Witte Afterparty | Kessie, LIL DARK ONE, SHDW, Uakoz |
 | Fri, 6 Nov 2026 | ALIVE: Paolo Ferrara (All Night Long) | Paolo Ferrara |
 | Fri, 6 Nov 2026 | Polyamor: davyboi, Justin Jay, Cleopard2000, ASHTREY | ASHTREY, Cleopard2000, Justin Jay, davyboi |
 | Sat, 7 Nov 2026 | Function 30 × 10 Years of LSD | Function, LSD, Livid (UK), Luke Slater, Steve Bicknell |
@@ -18,9 +17,10 @@ E1 is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-
 | Fri, 13 Nov 2026 | The Menendez Brothers & Friends (13th November) | The Menendez Brothers |
 | Sat, 14 Nov 2026 | Joris Voorn - Trip to Galaxy - E1 | Joris Voorn, Kaufmann, Talismann |
 | Fri, 20 Nov 2026 | ALIVE x BlackWorks presents Fatima Hajji & Fake Friends | Airod, Dexphase, Fatima Hajji, Jacidorex, MARIEEEA |
+| Fri, 20 Nov 2026 | The Menendez Brothers & Friends (20th November) | The Menendez Brothers |
 
 ## Address
 
 110 Pennington Street, Wapping, London E1W 2BB, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/e1/)*

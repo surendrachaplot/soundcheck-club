@@ -1,6 +1,6 @@
 # Zoo
 
-Zoo is a music venue in Geneva with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "BFF: POSIIR & Perfo [VJs GaspardSalomina]" on Fri, 6 Nov 2026.
+Zoo is a music venue in Geneva with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "BFF: POSIIR & Perfo [VJs GaspardSalomina]" on Fri, 6 Nov 2026.
 
 Zoo is a music venue in Geneva listed on soundcheck. 5 upcoming gigs, with line-ups including Andy Martin, A Strange Wedding, Channel One Sound and Charlie P and 2 more. See dates, start times and who's playing. Place des Volontaires 4; 1204, Genève; Switzerland.
 
@@ -18,4 +18,4 @@ Zoo is a music venue in Geneva listed on soundcheck. 5 upcoming gigs, with line-
 
 Place des Volontaires 4; 1204, Genève; Switzerland, Geneva
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/zoo/)*

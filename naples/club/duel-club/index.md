@@ -1,6 +1,6 @@
 # Duel Club
 
-Duel Club is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "ADUNANZA ~ 100 | The 100th Chapter | " on Sat, 7 Nov 2026.
+Duel Club is a music venue in Naples with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ADUNANZA ~ 100 | The 100th Chapter | " on Sat, 7 Nov 2026.
 
 Duel Club is a music venue in Naples listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Bohemien, Harmonia and Hito. See dates, start times and who's playing. Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy.
 
@@ -23,4 +23,4 @@ Duel Club is a music venue in Naples listed on soundcheck. 10 upcoming gigs, wit
 
 Via Antiniana 2/a, 80078 Pozzuoli, Napoli, Italy, Naples
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/duel-club/)*

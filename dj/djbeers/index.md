@@ -1,6 +1,6 @@
 # DJ Beers
 
-DJ Beers is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ouseburn Garden, Newcastle on Fri, 20 Nov 2026.
+DJ Beers is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ouseburn Garden, Newcastle on Fri, 20 Nov 2026.
 
 DJ Beers is a garage and deep house artist based in United Kingdom, with 3 gigs on soundcheck across Brighton and Newcastle. Often billed alongside PHJ.WAV, Emily Jacko and Moose In The Wild. Next up: Ouseburn Garden, Newcastle on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ DJ Beers is a garage and deep house artist based in United Kingdom, with 3 gigs 
 
 PHJ.WAV, Emily Jacko, Moose In The Wild
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeers/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeers/)*

@@ -1,6 +1,6 @@
 # Obscure Shape
 
-Obscure Shape is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
+Obscure Shape is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
 
 Obscure Shape is a techno and house artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 42 more. Often billed alongside SHDW, Laure Croft and 999999999. Next up: RADION, Amsterdam on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Obscure Shape is a techno and house artist based in Germany, with 117 gigs on so
 
 SHDW, Laure Croft, 999999999
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obscureshape/)*

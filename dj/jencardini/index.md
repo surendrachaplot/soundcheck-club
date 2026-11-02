@@ -1,15 +1,15 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Le Sucre, Lyon on Sun, 1 Nov 2026.
+Jen Cardini is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at REC Napoli, Naples on Sat, 7 Nov 2026.
 
-Jen Cardini is a techno and house artist based in France, with 290 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Le Sucre, Lyon on Sun 1 Nov.
+Jen Cardini is a techno and house artist based in France, with 291 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: REC Napoli, Naples on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Le Sucre | Lyon |
 | Sat, 7 Nov 2026 | REC Napoli | Naples |
+| Fri, 13 Nov 2026 | Bien Public | Bordeaux |
 | Sat, 14 Nov 2026 | Specka | Madrid |
 | Fri, 27 Nov 2026 | Société des arts technologiques | Montreal |
 | Sun, 29 Nov 2026 | public records | New York City |
@@ -19,6 +19,7 @@ Jen Cardini is a techno and house artist based in France, with 290 gigs on sound
 
 ## Recently played
 
+- Le Sucre, Lyon · Sun, 1 Nov 2026
 - ÆDEN, Berlin · Sat, 31 Oct 2026
 - DURO, Milan · Fri, 30 Oct 2026
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
@@ -26,10 +27,9 @@ Jen Cardini is a techno and house artist based in France, with 290 gigs on sound
 - Havenpark, Amsterdam · Sat, 24 Oct 2026
 - Oven Club, Valencia · Fri, 23 Oct 2026
 - Klaproos, Amsterdam · Thu, 22 Oct 2026
-- La Gaîté Lyrique, Paris · Sun, 18 Oct 2026
 
 ## Shares bills with
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

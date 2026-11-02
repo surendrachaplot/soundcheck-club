@@ -1,8 +1,8 @@
 # Anish Kumar
 
-Anish Kumar is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Anish Kumar is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
-Anish Kumar is a house and disco artist based in United Kingdom, with 74 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 15 more. Often billed alongside DJ BORING, Dan Shake and Hagop Tchaparian. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
+Anish Kumar is a house and disco artist based in United Kingdom, with 75 gigs on soundcheck across Barcelona, Berlin, Brighton and Bristol and 15 more. Often billed alongside DJ BORING, Dan Shake and Hagop Tchaparian. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Anish Kumar is a house and disco artist based in United Kingdom, with 74 gigs on
 | Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | Knockdown Center | New York City |
+| Thu, 31 Dec 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Anish Kumar is a house and disco artist based in United Kingdom, with 74 gigs on
 
 DJ BORING, Dan Shake, Hagop Tchaparian
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anishkumar/)*

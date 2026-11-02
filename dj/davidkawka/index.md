@@ -1,8 +1,8 @@
 # David Kawka
 
-David Kawka is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Palais Mascotte, Zurich on Sat, 7 Nov 2026.
+David Kawka is a Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Palais Mascotte, Zurich on Sat, 7 Nov 2026.
 
-David Kawka is a techno artist based in Switzerland, with 3 gigs on soundcheck across Bern and Zurich. Often billed alongside Dee Jota, Kevqube and Annina Frey. Next up: Palais Mascotte, Zurich on Sat 7 Nov.
+David Kawka is a techno artist based in Switzerland, with 4 gigs on soundcheck across Bern and Zurich. Often billed alongside Kevqube, Dee Jota and Annina Frey. Next up: Palais Mascotte, Zurich on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ David Kawka is a techno artist based in Switzerland, with 3 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Palais Mascotte | Zurich |
 | Sat, 21 Nov 2026 | Gaskessel Bern | Bern |
+| Fri, 4 Dec 2026 | TBA - Sous Soul | Bern |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ David Kawka is a techno artist based in Switzerland, with 3 gigs on soundcheck a
 
 ## Shares bills with
 
-Dee Jota, Kevqube, Annina Frey
+Kevqube, Dee Jota, Annina Frey
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkawka/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidkawka/)*

@@ -1,6 +1,6 @@
 # WALT (4)
 
-WALT (4) is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Mezz, Netherlands on Fri, 27 Nov 2026.
+WALT (4) is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Mezz, Netherlands on Fri, 27 Nov 2026.
 
 WALT is a breakbeat and electro artist, with 3 gigs on soundcheck across Amsterdam, Ghent and Netherlands. Often billed alongside Troji, D-FAULT and Dave Clarke. Next up: Mezz, Netherlands on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ WALT is a breakbeat and electro artist, with 3 gigs on soundcheck across Amsterd
 
 Troji, D-FAULT, Dave Clarke
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/walt-4/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/walt-4/)*

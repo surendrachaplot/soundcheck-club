@@ -1,6 +1,6 @@
 # Le Wanski
 
-Le Wanski is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Mia Mao, Paris on Sat, 7 Nov 2026.
+Le Wanski is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Mia Mao, Paris on Sat, 7 Nov 2026.
 
 Le Wanski is a techno and hardcore artist based in France, with 4 gigs on soundcheck across Brussels, Paris and Toulouse. Often billed alongside Charlie Sparks, Sköne and Vortek's. Next up: Mia Mao, Paris on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Le Wanski is a techno and hardcore artist based in France, with 4 gigs on soundc
 
 Charlie Sparks, Sköne, Vortek's
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewanski/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewanski/)*

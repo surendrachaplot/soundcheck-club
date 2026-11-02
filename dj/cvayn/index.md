@@ -1,8 +1,8 @@
 # Cvayn
 
-Cvayn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Kult, Belgrade on Fri, 20 Nov 2026.
+Cvayn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kult, Belgrade on Fri, 20 Nov 2026.
 
-Cvayn is a techno and house artist, with 9 gigs on soundcheck across Belgrade. Often billed alongside ANSHI, SRNA and Stameni. Next up: Kult, Belgrade on Fri 20 Nov.
+Cvayn is a techno and house artist based in Serbia, with 9 gigs on soundcheck across Belgrade. Often billed alongside ANSHI, SRNA and Stameni. Next up: Kult, Belgrade on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Cvayn is a techno and house artist, with 9 gigs on soundcheck across Belgrade. O
 
 ANSHI, SRNA, Stameni
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvayn/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cvayn/)*

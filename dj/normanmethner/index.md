@@ -1,6 +1,6 @@
 # Norman Methner
 
-Norman Methner is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at NEU, Stockholm on Fri, 6 Nov 2026.
+Norman Methner is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at NEU, Stockholm on Fri, 6 Nov 2026.
 
 Norman Methner is a house and minimal artist, with 3 gigs on soundcheck across Amsterdam, Berlin and Stockholm. Often billed alongside Miura, Alma and Ansonica. Next up: NEU, Stockholm on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Norman Methner is a house and minimal artist, with 3 gigs on soundcheck across A
 
 Miura, Alma (4), Ansonica
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normanmethner/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/normanmethner/)*

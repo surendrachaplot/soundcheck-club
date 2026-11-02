@@ -1,14 +1,13 @@
 # Armand Van Helden
 
-Armand Van Helden is a House and Disco artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Chelmsford City Racecourse, London on Sun, 1 Nov 2026.
+Armand Van Helden is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
 
-Armand Van Helden is a house and disco artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 43 more. Often billed alongside MiNNA, Fatzo and Oden. Next up: Chelmsford City Racecourse, London on Sun 1 Nov.
+Armand Van Helden is a house and disco artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 43 more. Often billed alongside MiNNA, Fatzo and Oden. Next up: Verbier, Switzerland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Fri, 27 Nov 2026 | Grand Central Hall | Liverpool |
 | Sat, 28 Nov 2026 | Ministry Of Sound | London |
@@ -21,6 +20,7 @@ Armand Van Helden is a house and disco artist based in United States of America,
 
 ## Recently played
 
+- Chelmsford City Racecourse, London · Sun, 1 Nov 2026
 - Chelmsford City Racecourse, London · Sat, 31 Oct 2026
 - Hemkade 48, Amsterdam · Sat, 24 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
@@ -28,10 +28,9 @@ Armand Van Helden is a house and disco artist based in United States of America,
 - Los Angeles State Historic Park, Los Angeles · Sun, 27 Sept 2026
 - Pacha New York, New York City · Fri, 25 Sept 2026
 - DRUMSHEDS, London · Sat, 19 Sept 2026
-- Amnesia Ibiza, Ibiza · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 MiNNA, Fatzo, Oden
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armandvanhelden/)*

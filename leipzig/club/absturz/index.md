@@ -1,6 +1,6 @@
 # Absturz
 
-Absturz is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "C.A.M. Session´s // 003" on Fri, 6 Nov 2026.
+Absturz is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "C.A.M. Session´s // 003" on Fri, 6 Nov 2026.
 
 Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, with line-ups including DJ.PRO.PHET, humae, Meyhartt and Richie Rollin. See dates, start times and who's playing. Karl-Liebknecht-Str. 36, 04107 Leipzig.
 
@@ -18,4 +18,4 @@ Absturz is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, with 
 
 Karl-Liebknecht-Str. 36, 04107 Leipzig, Leipzig
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/absturz/)*

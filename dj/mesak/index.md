@@ -1,8 +1,8 @@
 # Mesak
 
-Mesak is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Basement Vesterbro, Copenhagen on Fri, 20 Nov 2026.
+Mesak is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Basement Vesterbro, Copenhagen on Fri, 20 Nov 2026.
 
-Mesak is an electro and house artist, with 14 gigs on soundcheck across Bergen, Berlin, Copenhagen and Helsinki and 7 more. Often billed alongside Juhani Oivo, Jürgen Vonbank and Mary Young. Next up: Basement Vesterbro, Copenhagen on Fri 20 Nov.
+Mesak is an electro and house artist based in Finland, with 14 gigs on soundcheck across Bergen, Berlin, Copenhagen and Helsinki and 7 more. Often billed alongside Juhani Oivo, Jürgen Vonbank and Mary Young. Next up: Basement Vesterbro, Copenhagen on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mesak is an electro and house artist, with 14 gigs on soundcheck across Bergen, 
 
 Juhani Oivo, Jürgen Vonbank, Mary Young
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mesak/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mesak/)*

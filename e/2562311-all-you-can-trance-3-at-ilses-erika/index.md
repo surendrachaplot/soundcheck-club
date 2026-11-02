@@ -1,6 +1,6 @@
 # ALL YOU CAN TRANCE #3 at Ilses Erika
 
-ALL YOU CAN TRANCE #3 at Ilses Erika on Fri 6 Nov, Leipzig. 7 artists: ESCALEA, Eurodance2000, Iced Matchko Latte and SAMBA7 and 3 more. Trance and Techno. See the line-up on soundcheck.
+ALL YOU CAN TRANCE #3 at Ilses Erika on Fri 6 Nov, Leipzig. 8 artists: ESCALEA, Iced Matchko Latte, JUNiQUE and Raphus and 4 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,9 @@ ALL YOU CAN TRANCE #3 at Ilses Erika on Fri 6 Nov, Leipzig. 7 artists: ESCALEA, 
 ## Line-up
 
 - ESCALEA
-- Eurodance2000
 - Iced Matchko Latte
+- JUNiQUE
+- Raphus
 - SAMBA7
 - Scrappy Coco
 - VIVEX

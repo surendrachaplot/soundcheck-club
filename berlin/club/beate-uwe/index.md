@@ -1,14 +1,13 @@
 # Beate Uwe
 
-Beate Uwe is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Beate Barfuß /// Sansea, Joanna Lenta, Gazbee, ÈLAA, ᒍEᗰᔕKI" on Sun, 1 Nov 2026.
+Beate Uwe is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Tanzen3000" on Tue, 3 Nov 2026.
 
-Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Adrian Schneider, ANXA, Better Call Paul and Brahmski and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
+Beate Uwe is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Schneider, ANXA, Better Call Paul and Brahmski and 2 more. See dates, start times and who's playing. Schillingstr. 31, 10179, Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Beate Barfuß /// Sansea, Joanna Lenta, Gazbee, ÈLAA, ᒍEᗰᔕKI | Gazbee, Jemski., Joanna Lenta, Sansea |
 | Tue, 3 Nov 2026 | Tanzen3000 |  |
 | Fri, 6 Nov 2026 | tutti frutti besucht Beate Uwe | Carpenter Effect, Spice Boys, Zylenth, e.Kato, karete bu |
 | Sat, 7 Nov 2026 | BEATE WIRD ZWÖLF | Kon Faber, Ligal Tamir, Nora Wolkenstein, Pauli Pocket |
@@ -18,9 +17,10 @@ Beate Uwe is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, wit
 | Sat, 14 Nov 2026 | Beate Invites /// WUT Kollektiv | ANXA, KYT, Sonalie Solar |
 | Sun, 15 Nov 2026 | Beate Barfuß /// Rampue (live), sneffinksy, Kira Kaluma, Katschinka, Shurti | Rampue |
 | Fri, 20 Nov 2026 | EISENGRAU | Testbild |
+| Sat, 21 Nov 2026 | Beate Invites /// HOUSE QUEENS | Cardi-O, Cora Lee, Kristina Sheli, LIZZN, MC-K, Miss Kitchen, Mitsuko, Natasha Roze |
 
 ## Address
 
 Schillingstr. 31, 10179, Berlin, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/beate-uwe/)*

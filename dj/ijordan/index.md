@@ -1,6 +1,6 @@
 # I. JORDAN
 
-I. JORDAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lost Horizon, Bristol on Fri, 4 Dec 2026.
+I. JORDAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lost Horizon, Bristol on Fri, 4 Dec 2026.
 
 I. JORDAN is a techno and house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside SHERELLE, KETTAMA and Honey Dijon. Next up: Lost Horizon, Bristol on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ I. JORDAN is a techno and house artist based in United Kingdom, with 125 gigs on
 
 SHERELLE, KETTAMA, Honey Dijon
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ijordan/)*

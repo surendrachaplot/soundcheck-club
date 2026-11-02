@@ -1,6 +1,6 @@
 # Amorpho
 
-Amorpho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 5 Nov 2026.
+Amorpho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 5 Nov 2026.
 
 Amorpho is a house and techno artist, with 11 gigs on soundcheck across Guadalajara, Mexico City and Monterrey. Often billed alongside espejoviejo, Gandara and Ander Race. Next up: M.N.Roy, Mexico City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Amorpho is a house and techno artist, with 11 gigs on soundcheck across Guadalaj
 
 espejoviejo, Gandara, Ander Race
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amorpho/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amorpho/)*

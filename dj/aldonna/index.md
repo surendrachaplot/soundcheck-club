@@ -1,6 +1,6 @@
 # Aldonna
 
-Aldonna is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
+Aldonna is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
 
 Aldonna is a house and techno artist based in Australia, with 144 gigs on soundcheck across Adelaide, Amsterdam, Bali and Beijing and 31 more. Often billed alongside Tjade, DAWS and D Stone. Next up: Circolo Amelia, Milan on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Aldonna is a house and techno artist based in Australia, with 144 gigs on soundc
 
 Tjade, DAWS, D Stone
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aldonna/)*

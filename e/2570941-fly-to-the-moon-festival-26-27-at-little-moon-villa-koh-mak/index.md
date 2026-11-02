@@ -1,6 +1,6 @@
 # Fly to the moon Festival 26/27 at Little Moon Villa Koh Mak
 
-Fly to the moon Festival 26/27 at Little Moon Villa Koh Mak on Tue 29 Dec, Thailand. 12 artists: Dean Chew, DOTT, Elaheh and Etchar and 8 more. See the line-up on soundcheck.
+Fly to the moon Festival 26/27 at Little Moon Villa Koh Mak on Tue 29 Dec, Thailand. 11 artists: Dean Chew, DOTT, Elaheh and Etchar and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,10 +17,9 @@ Fly to the moon Festival 26/27 at Little Moon Villa Koh Mak on Tue 29 Dec, Thail
 - Gres Teh
 - LAMALICE
 - Noema
-- Oolong
+- OoLONG (2)
 - Pam Anantr
 - Punky and the brain
 - Sunga
-- Takky
 
 *Source: [soundcheck](https://soundcheck.club/e/2570941-fly-to-the-moon-festival-26-27-at-little-moon-villa-koh-mak/)*

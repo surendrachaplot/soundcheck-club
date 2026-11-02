@@ -1,8 +1,8 @@
 # Jesper Lemke
 
-Jesper Lemke is a Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Meat City Music Club, Copenhagen on Sat, 7 Nov 2026.
+Jesper Lemke is a Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Meat City Music Club, Copenhagen on Sat, 7 Nov 2026.
 
-Jesper Lemke is a hip-hop artist, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Anthon Stacks, Ghosten and Shatter Hands. Next up: Meat City Music Club, Copenhagen on Sat 7 Nov.
+Jesper Lemke is a hip-hop artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Anthon Stacks, Ghosten and Shatter Hands. Next up: Meat City Music Club, Copenhagen on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Jesper Lemke is a hip-hop artist, with 8 gigs on soundcheck across Copenhagen. O
 
 Anthon Stacks, Ghosten, Shatter Hands
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesperlemke/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesperlemke/)*

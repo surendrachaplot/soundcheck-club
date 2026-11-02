@@ -1,6 +1,6 @@
 # Bladerunnaz presents: Mozey at Akvárium Klub
 
-Bladerunnaz presents: Mozey at Akvárium Klub on Sat 30 Jan, Budapest. 1 artist: Mozey. See the line-up on soundcheck.
+Bladerunnaz presents: Mozey at Akvárium Klub on Sat 30 Jan, Budapest. 1 artist: Mozey. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

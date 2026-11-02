@@ -1,6 +1,6 @@
 # Ariel Zetina
 
-Ariel Zetina is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sleeping Village, Chicago on Fri, 13 Nov 2026.
+Ariel Zetina is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Sleeping Village, Chicago on Fri, 13 Nov 2026.
 
 Ariel Zetina is a techno and house artist based in United States of America, with 203 gigs on soundcheck across Amsterdam, Athens, Atlanta and Berlin and 27 more. Often billed alongside Miss Twink USA, Carly Zeng and Madeline (Chi). Next up: Sleeping Village, Chicago on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Ariel Zetina is a techno and house artist based in United States of America, wit
 
 Miss Twink USA, Carly Zeng, Madeline (Chi)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arielzetina/)*

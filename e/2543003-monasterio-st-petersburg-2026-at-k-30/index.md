@@ -1,6 +1,6 @@
 # Monasterio St.Petersburg 2026 at K-30
 
-Monasterio St.Petersburg 2026 at K-30 on Sat 7 Nov, Saint Petersburg. 15 artists: ALEX PANKOV, ALOD, Chain Damage and FOGGA and 11 more. See the line-up on soundcheck.
+Monasterio St.Petersburg 2026 at K-30 on Sat 7 Nov, Saint Petersburg. 16 artists: ALEX PANKOV, ALOD, Chain Damage and FOGGA and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,6 +22,7 @@ Monasterio St.Petersburg 2026 at K-30 on Sat 7 Nov, Saint Petersburg. 15 artists
 - OGUZ
 - Optimuss
 - Prototype 03/4
+- SLIME COCA
 - Sub Imperium
 - Unbalance
 - Yaroslav Lebedinskiy

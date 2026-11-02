@@ -1,6 +1,6 @@
 # Drucklufthaus
 
-Drucklufthaus is a music venue in Dortmund / Essen with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "Hasenbau X-mas Special" on Sat, 5 Dec 2026.
+Drucklufthaus is a music venue in Dortmund / Essen with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Hasenbau X-mas Special" on Sat, 5 Dec 2026.
 
 Drucklufthaus is a music venue in Dortmund / Essen listed on soundcheck. 1 upcoming gig, with line-ups including AEKO. See dates, start times and who's playing. Am Förderturm 27; 46049 Oberhausen.
 
@@ -14,4 +14,4 @@ Drucklufthaus is a music venue in Dortmund / Essen listed on soundcheck. 1 upcom
 
 Am Förderturm 27; 46049 Oberhausen, Dortmund / Essen
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/drucklufthaus/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dortmund-essen/club/drucklufthaus/)*

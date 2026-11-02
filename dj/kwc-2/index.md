@@ -1,8 +1,8 @@
 # KWC (2)
 
-KWC (2) is a Psytrance and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+KWC (2) is a Psytrance and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
-KWC is a psytrance and techno artist based in Japan, with 3 gigs on soundcheck across Osaka. Often billed alongside Drunken Kong, EVE and FENGX2. Next up: Joule, Osaka on Sat 14 Nov.
+KWC is a psytrance and techno artist based in Japan, with 4 gigs on soundcheck across Kyushu and Osaka. Often billed alongside ZAGUN, Drunken Kong and EVE. Next up: Joule, Osaka on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,9 +11,10 @@ KWC is a psytrance and techno artist based in Japan, with 3 gigs on soundcheck a
 | Sat, 14 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | Triangle | Osaka |
 | Sat, 14 Nov 2026 | Blvck Water | Osaka |
+| Fri, 27 Nov 2026 | Publicspace四次元 | Kyushu |
 
 ## Shares bills with
 
-Drunken Kong, EVE (1), FENGX2
+ZAGUN, Drunken Kong, EVE (1)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwc-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwc-2/)*

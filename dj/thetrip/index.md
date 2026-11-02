@@ -1,6 +1,6 @@
 # The Trip
 
-The Trip is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at SWG3, Glasgow on Fri, 6 Nov 2026.
+The Trip is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at SWG3, Glasgow on Fri, 6 Nov 2026.
 
 The Trip is a house and techno artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Phill de Janeiro, Sam Alfred and Benji King. Next up: SWG3, Glasgow on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ The Trip is a house and techno artist based in United Kingdom, with 88 gigs on s
 
 Phill de Janeiro, Sam Alfred, Benji King
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetrip/)*

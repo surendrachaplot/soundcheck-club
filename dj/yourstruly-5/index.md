@@ -1,6 +1,6 @@
 # Yours Truly (5)
 
-Yours Truly (5) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Next Door Records Two, London on Sat, 14 Nov 2026.
+Yours Truly (5) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Next Door Records Two, London on Sat, 14 Nov 2026.
 
 Yours Truly is a techno and house artist based in Ireland, with 11 gigs on soundcheck across Berlin, Dublin, Galway and London. Often billed alongside Havik, Shampain and Surka. Next up: Next Door Records Two, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yours Truly is a techno and house artist based in Ireland, with 11 gigs on sound
 
 Havik, Shampain, Surka (1)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yourstruly-5/)*

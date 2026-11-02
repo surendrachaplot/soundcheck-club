@@ -1,6 +1,6 @@
 # Owen Green
 
-Owen Green is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at XuXa, Austin on Fri, 6 Nov 2026.
+Owen Green is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at XuXa, Austin on Fri, 6 Nov 2026.
 
 Owen Green is a techno and acid artist, with 3 gigs on soundcheck across Austin. Often billed alongside Black Lotus, Gerard Not Gerald and Hana Sabri. Next up: XuXa, Austin on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Owen Green is a techno and acid artist, with 3 gigs on soundcheck across Austin.
 
 Black Lotus, Gerard Not Gerald, Hana Sabri
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owengreen/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owengreen/)*

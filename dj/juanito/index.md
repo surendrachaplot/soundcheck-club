@@ -1,8 +1,8 @@
 # Juanito
 
-Juanito is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Golden Gate, Berlin on Thu, 26 Nov 2026.
+Juanito is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Golden Gate, Berlin on Thu, 26 Nov 2026.
 
-Juanito is a tech house and house artist, with 25 gigs on soundcheck across Barcelona, Berlin, Bogotá and Ibiza and 11 more. Often billed alongside Thomas Galbardi, Diana Loredana and Matheo Velez. Next up: Golden Gate, Berlin on Thu 26 Nov.
+Juanito is a tech house and house artist based in France, with 25 gigs on soundcheck across Barcelona, Berlin, Bogotá and Ibiza and 11 more. Often billed alongside Thomas Galbardi, Diana Loredana and Matheo Velez. Next up: Golden Gate, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Juanito is a tech house and house artist, with 25 gigs on soundcheck across Barc
 
 Thomas Galbardi, Diana Loredana, Matheo Velez
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanito/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanito/)*

@@ -1,6 +1,6 @@
 # palmtreeprince
 
-palmtreeprince is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
+palmtreeprince is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
 
 palmtreeprince is a bass and uk funky artist, with 4 gigs on soundcheck across London. Often billed alongside Donnie Sunshine, FABARA and Fiyahdred. Next up: M.O.T, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ palmtreeprince is a bass and uk funky artist, with 4 gigs on soundcheck across L
 
 Donnie Sunshine, FABARA, Fiyahdred
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmtreeprince/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmtreeprince/)*

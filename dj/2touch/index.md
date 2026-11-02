@@ -1,6 +1,6 @@
 # 2touch
 
-2touch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Innermost Warehouse , Sydney on Sat, 14 Nov 2026.
+2touch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Innermost Warehouse , Sydney on Sat, 14 Nov 2026.
 
 2touch is a techno and house artist, with 8 gigs on soundcheck across Sydney. Often billed alongside 1tbsp, Ari Kiko and Ciara. Next up: TBA - Innermost Warehouse , Sydney on Sat 14 Nov.
 
@@ -24,4 +24,4 @@
 
 1tbsp, Ari Kiko, Ciara
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2touch/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2touch/)*

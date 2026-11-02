@@ -1,6 +1,6 @@
 # Saint Ludo
 
-Saint Ludo is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Larimer Lounge, Denver on Thu, 12 Nov 2026.
+Saint Ludo is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Larimer Lounge, Denver on Thu, 12 Nov 2026.
 
 Saint Ludo is a garage and bass artist, with 134 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Y U QT, Bakey and Ewan McVicar. Next up: Larimer Lounge, Denver on Thu 12 Nov.
 
@@ -36,4 +36,4 @@ Saint Ludo is a garage and bass artist, with 134 gigs on soundcheck across Amste
 
 Y U QT, Bakey, Ewan McVicar
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintludo/)*

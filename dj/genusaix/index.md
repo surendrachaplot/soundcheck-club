@@ -1,8 +1,8 @@
 # Genus Aix
 
-Genus Aix is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
+Genus Aix is a Bass and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
 
-Genus Aix is a bass and electro artist, with 18 gigs on soundcheck across Berlin, Hamburg, Kyoto and Osaka and 2 more. Often billed alongside dérive, pesadj and Vís. Next up: OHM, Berlin on Fri 6 Nov.
+Genus Aix is a bass and electro artist based in Germany, with 18 gigs on soundcheck across Berlin, Hamburg, Kyoto and Osaka and 2 more. Often billed alongside dérive, pesadj and Vís. Next up: OHM, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Genus Aix is a bass and electro artist, with 18 gigs on soundcheck across Berlin
 
 dérive, pesadj, Vís (1)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genusaix/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/genusaix/)*

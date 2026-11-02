@@ -1,8 +1,8 @@
 # Rini Berlini
 
-Rini Berlini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 28 Nov 2026.
+Rini Berlini is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 28 Nov 2026.
 
-Rini Berlini is a techno and house artist, with 21 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague and 1 more. Often billed alongside A L I X, CLAESSENS and Gijsheid. Next up: Ruis Alkmaar, Amsterdam on Sat 28 Nov.
+Rini Berlini is a techno and house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague and 1 more. Often billed alongside A L I X, CLAESSENS and Gijsheid. Next up: Ruis Alkmaar, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rini Berlini is a techno and house artist, with 21 gigs on soundcheck across Ams
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Ruis Alkmaar | Amsterdam |
 | Sat, 28 Nov 2026 | Patronaat | Amsterdam |
+| Sat, 5 Dec 2026 | De Spot | Netherlands |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rini Berlini is a techno and house artist, with 21 gigs on soundcheck across Ams
 
 A L I X, CLAESSENS, Gijsheid
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riniberlini/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riniberlini/)*

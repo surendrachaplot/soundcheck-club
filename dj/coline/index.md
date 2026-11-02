@@ -1,8 +1,8 @@
 # Coline
 
-Coline is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat, 7 Nov 2026.
+Coline is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat, 7 Nov 2026.
 
-Coline is a techno and house artist, with 20 gigs on soundcheck across Detroit, Dresden, Leipzig and Prague. Often billed alongside Axoon, Caren Callas and Spunky. Next up: TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat 7 Nov.
+Coline is a techno and house artist based in Germany, with 20 gigs on soundcheck across Detroit, Dresden, Leipzig and Prague. Often billed alongside Axoon, Caren Callas and Spunky. Next up: TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Coline is a techno and house artist, with 20 gigs on soundcheck across Detroit, 
 
 Axoon, Caren Callas, Spunky
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coline/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coline/)*

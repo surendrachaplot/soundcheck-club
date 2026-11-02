@@ -1,8 +1,8 @@
 # DONAES
 
-DONAES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
+DONAES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
 
-DONAES is a techno and house artist, with 9 gigs on soundcheck across Amsterdam, Ibiza and Tokyo. Often billed alongside RYOHEI, SAITO and Kintar. Next up: WOMB, Tokyo on Sun 22 Nov.
+DONAES is a techno and house artist based in Spain, with 9 gigs on soundcheck across Amsterdam, Ibiza and Tokyo. Often billed alongside RYOHEI, SAITO and Kintar. Next up: WOMB, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DONAES is a techno and house artist, with 9 gigs on soundcheck across Amsterdam,
 
 RYOHEI, SAITO, Kintar
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donaes/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donaes/)*

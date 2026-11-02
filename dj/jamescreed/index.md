@@ -1,6 +1,6 @@
 # James Creed
 
-James Creed is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+James Creed is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 James Creed is an electronic artist, with 3 gigs on soundcheck across Berlin and Tunisia. Often billed alongside Mayell, Tzena and 2nd Floor. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ James Creed is an electronic artist, with 3 gigs on soundcheck across Berlin and
 
 Mayell, Tzena, 2nd Floor
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescreed/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamescreed/)*

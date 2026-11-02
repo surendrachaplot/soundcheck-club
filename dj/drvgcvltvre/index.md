@@ -1,8 +1,8 @@
 # Drvg Cvltvre
 
-Drvg Cvltvre is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Chicago on Fri, 20 Nov 2026.
+Drvg Cvltvre is a Acid and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Chicago on Fri, 20 Nov 2026.
 
-Drvg Cvltvre is an acid and ambient artist, with 4 gigs on soundcheck across Chicago and The Hague. Often billed alongside Ekman, Jauzas The Shining and Unit Moebius. Next up: TBA, Chicago on Fri 20 Nov.
+Drvg Cvltvre is an acid and ambient artist based in Netherlands, with 4 gigs on soundcheck across Chicago and The Hague. Often billed alongside Ekman, Jauzas The Shining and Unit Moebius. Next up: TBA, Chicago on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Drvg Cvltvre is an acid and ambient artist, with 4 gigs on soundcheck across Chi
 
 Ekman, Jauzas The Shining, Unit Moebius
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drvgcvltvre/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drvgcvltvre/)*

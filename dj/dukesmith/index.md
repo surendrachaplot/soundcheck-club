@@ -1,8 +1,8 @@
 # Dukesmith
 
-Dukesmith is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tola, London on Sat, 7 Nov 2026.
+Dukesmith is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tola, London on Sat, 7 Nov 2026.
 
-Dukesmith is a house and breakbeat artist, with 8 gigs on soundcheck across London. Often billed alongside Breezy, DJ FUNGHOUL and Edge <3. Next up: Tola, London on Sat 7 Nov.
+Dukesmith is a house and breakbeat artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Breezy, DJ FUNGHOUL and Edge <3. Next up: Tola, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Dukesmith is a house and breakbeat artist, with 8 gigs on soundcheck across Lond
 
 Breezy (2), DJ FUNGHOUL, Edge <3
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukesmith/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukesmith/)*

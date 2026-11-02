@@ -1,8 +1,8 @@
 # Miles From Mars
 
-Miles From Mars is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Miles From Mars is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
-Miles From Mars is a techno and psytrance artist, with 16 gigs on soundcheck across Cape Town, Lisbon, Morelos and New York City and 2 more. Often billed alongside Sara Love, Boundless and Daryn Steytler. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
+Miles From Mars is a techno and psytrance artist based in South Africa, with 16 gigs on soundcheck across Cape Town, Lisbon, Morelos and New York City and 2 more. Often billed alongside Sara Love, Boundless and Daryn Steytler. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Miles From Mars is a techno and psytrance artist, with 16 gigs on soundcheck acr
 
 Sara Love, Boundless (1), Daryn Steytler
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesfrommars/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesfrommars/)*

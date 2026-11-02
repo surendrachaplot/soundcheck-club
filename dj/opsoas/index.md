@@ -1,6 +1,6 @@
 # OPSOAS
 
-OPSOAS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+OPSOAS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
 
 OPSOAS is a house and techno artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Ali Rajat, Aslan Venom and Deadly 8. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ OPSOAS is a house and techno artist based in Germany, with 3 gigs on soundcheck 
 
 Ali Rajat, Aslan Venom, Deadly 8
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opsoas/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/opsoas/)*

@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Gallery X VIRAGE" on Fri, 6 Nov 2026.
+Gallery is a music venue in London with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Gallery X VIRAGE" on Fri, 6 Nov 2026.
 
 Gallery is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Ale Grooves, FASTON, Guillaume Gioé and II FACES and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 11 upcoming gigs, with 
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

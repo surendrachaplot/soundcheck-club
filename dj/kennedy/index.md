@@ -1,6 +1,6 @@
 # Kennedy
 
-Kennedy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Kennedy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Kennedy is a house and disco artist based in Netherlands, with 79 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 16 more. Often billed alongside Ajuma, Benny Rodrigues and I-F. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -25,4 +25,4 @@ Kennedy is a house and disco artist based in Netherlands, with 79 gigs on soundc
 
 Ajuma, Benny Rodrigues, I-F
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennedy/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennedy/)*

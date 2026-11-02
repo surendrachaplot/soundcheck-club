@@ -1,6 +1,6 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Yanna Lynette, Hameedullah" on Thu, 5 Nov 2026.
+Podlasie Club is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Yanna Lynette, Hameedullah" on Thu, 5 Nov 2026.
 
 Podlasie Club is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including Buzzi, CTRLZORA, Duck Trash and Duke Shin and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
@@ -17,4 +17,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 4 upcoming gigs,
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

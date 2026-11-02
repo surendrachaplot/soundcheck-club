@@ -1,8 +1,8 @@
 # BUKEZ FINEZT
 
-BUKEZ FINEZT is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Protokultura, Wroclaw on Sat, 21 Nov 2026.
+BUKEZ FINEZT is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Protokultura, Wroclaw on Sat, 21 Nov 2026.
 
-BUKEZ FINEZT is a dubstep and drum & bass artist, with 17 gigs on soundcheck across Berlin, Brisbane, Cologne and Ghent and 9 more. Often billed alongside Roklem, Sebalo and Caspa. Next up: Protokultura, Wroclaw on Sat 21 Nov.
+BUKEZ FINEZT is a dubstep and drum & bass artist based in Germany, with 17 gigs on soundcheck across Berlin, Brisbane, Cologne and Ghent and 9 more. Often billed alongside Roklem, Sebalo and Caspa. Next up: Protokultura, Wroclaw on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ BUKEZ FINEZT is a dubstep and drum & bass artist, with 17 gigs on soundcheck acr
 
 Roklem, Sebalo, Caspa
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bukezfinezt/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bukezfinezt/)*

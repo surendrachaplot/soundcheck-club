@@ -1,15 +1,13 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Eric Prydz is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Ductwork Houston, Houston on Sat, 7 Nov 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, with 117 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 40 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Factory Town, Miami on Fri 30 Oct.
+Eric Prydz is a techno and house artist based in Sweden, with 117 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 40 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Ductwork Houston, Houston on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
-| Sun, 1 Nov 2026 | TBA - CA State Capitol Building Sacramento | Sacramento |
 | Sat, 7 Nov 2026 | Ductwork Houston | Houston |
 | Fri, 20 Nov 2026 | Echostage | Washington DC |
 | Sat, 21 Nov 2026 | The Concourse Project | Austin |
@@ -19,6 +17,7 @@ Eric Prydz is a techno and house artist based in Sweden, with 117 gigs on soundc
 
 ## Recently played
 
+- TBA - CA State Capitol Building Sacramento, Sacramento · Sun, 1 Nov 2026
 - Pier 48's Shed A, San Francisco/Oakland · Sat, 31 Oct 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Tap1, Copenhagen · Fri, 23 Oct 2026
@@ -26,10 +25,9 @@ Eric Prydz is a techno and house artist based in Sweden, with 117 gigs on soundc
 - Depot Mayfield, Manchester · Sat, 17 Oct 2026
 - Gaswrx Birmingham, London · Fri, 16 Oct 2026
 - Ironworks, London · Sat, 10 Oct 2026
-- Amnesia Ibiza, Ibiza · Wed, 16 Sept 2026
 
 ## Shares bills with
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

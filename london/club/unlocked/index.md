@@ -1,6 +1,6 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Moxy Muzik - Darius Syrossian, Jeremy Underground, Rio Tashan, Miruna Ghica B2B MRCL" on Fri, 6 Nov 2026.
+UNLOCKED is a music venue in London with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Moxy Muzik - Darius Syrossian, Jeremy Underground, Rio Tashan, Miruna Ghica B2B MRCL" on Fri, 6 Nov 2026.
 
 UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Andhim, Darius Syrossian, Don Diablo and HARTY and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
@@ -20,4 +20,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming gigs, with 
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

@@ -1,15 +1,13 @@
 # Erika
 
-Erika is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tangent Gallery, Detroit on Fri, 30 Oct 2026.
+Erika is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Address revealed to ticket holders day of show, Denver on Sat, 7 Nov 2026.
 
-Erika is a techno and acid artist, with 127 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 28 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: Tangent Gallery, Detroit on Fri 30 Oct.
+Erika is a techno and acid artist, with 127 gigs on soundcheck across Amsterdam, Baltimore, Beijing and Berlin and 28 more. Often billed alongside BMG, Mike Servito and Derek Plaslaiko. Next up: TBA - Address revealed to ticket holders day of show, Denver on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Tangent Gallery | Detroit |
-| Sat, 31 Oct 2026 | Tangent Gallery | Detroit |
 | Sat, 7 Nov 2026 | TBA - Address revealed to ticket holders day of show | Denver |
 | Sat, 14 Nov 2026 | Nowadays | New York City |
 | Sun, 22 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
@@ -31,4 +29,4 @@ Erika is a techno and acid artist, with 127 gigs on soundcheck across Amsterdam,
 
 BMG, Mike Servito, Derek Plaslaiko
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika/)*

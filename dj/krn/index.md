@@ -1,13 +1,14 @@
 # KRN
 
-KRN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Carpet Shop, London on Fri, 1 Jan 2027.
+KRN is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
 
-KRN is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: The Carpet Shop, London on Fri 1 Jan.
+KRN is a house and tech house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: The Glove That Fits, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | The Glove That Fits | London |
 | Fri, 1 Jan 2027 | The Carpet Shop | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ KRN is a house and techno artist based in United Kingdom, with 56 gigs on soundc
 
 The Ghost, Sugar Free, DJ Pipe
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*

@@ -1,6 +1,6 @@
 # Amar Priganica
 
-Amar Priganica is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at FLUCC, Vienna on Mon, 2 Nov 2026.
+Amar Priganica is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at FLUCC, Vienna on Mon, 2 Nov 2026.
 
 Amar Priganica is an experimental and noise artist, with 4 gigs on soundcheck across Vienna. Next up: FLUCC, Vienna on Mon 2 Nov.
 
@@ -16,4 +16,4 @@ Amar Priganica is an experimental and noise artist, with 4 gigs on soundcheck ac
 - Luterische Stadtkirche, Vienna · Sun, 12 Oct 2025
 - Kirche St Ursula, Vienna · Thu, 12 Jun 2025
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amarpriganica/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amarpriganica/)*

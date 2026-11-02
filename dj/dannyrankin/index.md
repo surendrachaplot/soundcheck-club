@@ -1,14 +1,15 @@
 # Danny Rankin
 
-Danny Rankin is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Fox and Firkin, London on Fri, 13 Nov 2026.
+Danny Rankin is a Garage and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Fox and Firkin, London on Fri, 13 Nov 2026.
 
-Danny Rankin is a garage and jungle artist based in United Kingdom, with 36 gigs on soundcheck across Bristol, Glasgow, Hobart and Leeds and 6 more. Often billed alongside Arthi, Girls Don't Sync and Klose One. Next up: The Fox and Firkin, London on Fri 13 Nov.
+Danny Rankin is a garage and jungle artist based in United Kingdom, with 37 gigs on soundcheck across Bristol, Glasgow, Hobart and Leeds and 7 more. Often billed alongside Arthi, Girls Don't Sync and Klose One. Next up: The Fox and Firkin, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Fox and Firkin | London |
+| Fri, 4 Dec 2026 | Arena Torquay | West-wales |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Danny Rankin is a garage and jungle artist based in United Kingdom, with 36 gigs
 
 Arthi, Girls Don't Sync, Klose One
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrankin/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannyrankin/)*

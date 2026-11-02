@@ -1,6 +1,6 @@
 # melascha
 
-melascha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
+melascha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bulbul Berlin, Berlin on Sat, 7 Nov 2026.
 
 melascha is a techno and house artist based in Germany, with 3 gigs on soundcheck across Berlin and Hannover. Often billed alongside Brandyy, Cosmo (KR) and Esoterik. Next up: Bulbul Berlin, Berlin on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ melascha is a techno and house artist based in Germany, with 3 gigs on soundchec
 
 Brandyy, Cosmo (KR), Esoterik
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melascha/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melascha/)*

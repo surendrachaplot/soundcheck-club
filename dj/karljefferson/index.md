@@ -1,6 +1,6 @@
 # Karl Jefferson
 
-Karl Jefferson is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Folies Pigalle, Paris on Sat, 14 Nov 2026.
+Karl Jefferson is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Folies Pigalle, Paris on Sat, 14 Nov 2026.
 
 Karl Jefferson is a tech house and house artist, with 4 gigs on soundcheck across Paris. Often billed alongside MOON, Julio Red and Duc de Mourgues. Next up: Folies Pigalle, Paris on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Karl Jefferson is a tech house and house artist, with 4 gigs on soundcheck acros
 
 MOON, Julio Red, Duc de Mourgues
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karljefferson/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karljefferson/)*

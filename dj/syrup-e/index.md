@@ -1,6 +1,6 @@
 # syrup-E
 
-syrup-E is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
+syrup-E is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
 
 syrup-E is a techno and trance artist based in Australia, with 47 gigs on soundcheck across Athens and Melbourne. Often billed alongside BDE, nabii and Girl Crush. Next up: Brown Alley, Melbourne on Sun 1 Nov.
 
@@ -12,6 +12,7 @@ syrup-E is a techno and trance artist based in Australia, with 47 gigs on soundc
 
 ## Recently played
 
+- Brown Alley, Melbourne · Sun, 1 Nov 2026
 - Klakaz, Athens · Sun, 11 Oct 2026
 - Solace, Melbourne · Fri, 21 Aug 2026
 - TBA - Inner Northside Location, Melbourne · Sat, 27 Jun 2026
@@ -19,10 +20,9 @@ syrup-E is a techno and trance artist based in Australia, with 47 gigs on soundc
 - Revolver Upstairs, Melbourne · Fri, 17 Apr 2026
 - Brown Alley, Melbourne · Sun, 18 Jan 2026
 - TBA - Melbourne, Melbourne · Wed, 31 Dec 2025
-- New Guernica, Melbourne · Fri, 19 Dec 2025
 
 ## Shares bills with
 
 BDE, nabii, Girl Crush
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syrup-e/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syrup-e/)*

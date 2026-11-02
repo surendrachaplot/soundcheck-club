@@ -1,6 +1,6 @@
 # ALEX PANKOV
 
-ALEX PANKOV is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+ALEX PANKOV is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 ALEX PANKOV is an electronic artist, with 3 gigs on soundcheck across Madrid, Moscow and Saint Petersburg. Often billed alongside Chain Damage, ALOD and Gemüt. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ ALEX PANKOV is an electronic artist, with 3 gigs on soundcheck across Madrid, Mo
 
 Chain Damage, ALOD, Gemüt
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpankov/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpankov/)*

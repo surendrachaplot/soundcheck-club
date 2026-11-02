@@ -1,14 +1,13 @@
 # Carlotta Jacobi
 
-Carlotta Jacobi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
+Carlotta Jacobi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 26 Nov 2026.
 
-Carlotta Jacobi is a techno and house artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Berlin, Dresden and Leipzig and 1 more. Often billed alongside illousion, Neele and AZIL. Next up: Kater, Berlin on Fri 30 Oct.
+Carlotta Jacobi is a techno and house artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Berlin, Dresden and Leipzig and 1 more. Often billed alongside illousion, Neele and AZIL. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Kater | Berlin |
 | Thu, 26 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
@@ -26,4 +25,4 @@ Carlotta Jacobi is a techno and house artist based in Germany, with 37 gigs on s
 
 illousion, Neele, AZIL
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlottajacobi/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlottajacobi/)*

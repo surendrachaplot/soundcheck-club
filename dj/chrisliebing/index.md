@@ -1,8 +1,8 @@
 # Chris Liebing
 
-Chris Liebing is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
+Chris Liebing is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
 
-Chris Liebing is a techno and house artist based in Germany, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside Speedy J, Ben Klock and Daria Kolosova. Next up: TBA, Vancouver on Sat 7 Nov.
+Chris Liebing is a techno and house artist based in Germany, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Speedy J, Ben Klock and Daria Kolosova. Next up: TBA, Vancouver on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Chris Liebing is a techno and house artist based in Germany, with 225 gigs on so
 | Fri, 11 Dec 2026 | Gewölbe | Cologne |
 | Sat, 26 Dec 2026 | Fusion Club | Münster |
 | Sat, 9 Jan 2027 | Distillery | Leipzig |
+| Sat, 30 Jan 2027 | TBA - Genting, Malaysia | Kuala Lumpur |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Chris Liebing is a techno and house artist based in Germany, with 225 gigs on so
 
 Speedy J, Ben Klock, Daria Kolosova
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisliebing/)*

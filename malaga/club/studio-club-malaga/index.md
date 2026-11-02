@@ -1,14 +1,13 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "COCOA HALLOWEEN AFTER-PARTY" on Sun, 1 Nov 2026.
+Studio Club Malaga is a music venue in Malaga with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "STUDIO X STRUCTONE" on Fri, 6 Nov 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 5 upcoming gigs, with line-ups including Arcfilter, ART NO LOGIA, BLANKA and Blue Hour and 2 more. See dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 4 upcoming gigs, with line-ups including Arcfilter, BLANKA, Blue Hour and Dario Lem and 2 more. See dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | COCOA HALLOWEEN AFTER-PARTY | ART NO LOGIA, Joe Vanditti, Rayzir, Rendher |
 | Fri, 6 Nov 2026 | STUDIO X STRUCTONE | BLANKA, Blue Hour, Tarkno |
 | Fri, 13 Nov 2026 | STUDIO X STRUCTONE | Dario Lem, Franzizca., Paquita Gordon |
 | Fri, 20 Nov 2026 | STUDIO X STRUCTONE | Gabbs, John Talabot, Scacco |
@@ -18,4 +17,4 @@ Studio Club Malaga is a music venue in Malaga listed on soundcheck. 5 upcoming g
 
 Avenida Palma de Mallorca 36, Torremolinos, Málaga, Malaga
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/malaga/club/studio-club-malaga/)*

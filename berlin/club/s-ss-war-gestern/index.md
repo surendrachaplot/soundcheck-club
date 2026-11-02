@@ -1,6 +1,6 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "MW:M26 HOUSE QUEENS: Rewire the dancefloor" on Tue, 3 Nov 2026.
+Süss War Gestern is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "MW:M26 HOUSE QUEENS: Rewire the dancefloor" on Tue, 3 Nov 2026.
 
 Süss War Gestern is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Beatina, Better Call Paul, Dicso_Muzek and maniac&me and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 13 upcoming g
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

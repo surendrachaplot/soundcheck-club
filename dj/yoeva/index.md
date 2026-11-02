@@ -1,6 +1,6 @@
 # Yo Eva
 
-Yo Eva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at pul.pit, Brno on Fri, 6 Nov 2026.
+Yo Eva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at pul.pit, Brno on Fri, 6 Nov 2026.
 
 Yo Eva is a techno and house artist based in Czech Republic, with 14 gigs on soundcheck across Brno and Prague. Often billed alongside Ark3r, Lucas Hulan and Nina Farrina. Next up: pul.pit, Brno on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Yo Eva is a techno and house artist based in Czech Republic, with 14 gigs on sou
 
 Ark3r, Lucas Hulan, Nina Farrina
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoeva/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoeva/)*

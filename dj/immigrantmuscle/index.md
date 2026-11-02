@@ -1,8 +1,8 @@
 # Immigrant Muscle
 
-Immigrant Muscle is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Standard Time, Toronto on Fri, 6 Nov 2026.
+Immigrant Muscle is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Standard Time, Toronto on Fri, 6 Nov 2026.
 
-Immigrant Muscle is a house and club artist, with 24 gigs on soundcheck across Toronto. Often billed alongside Ensoul, Bikethug and House of Lords. Next up: Standard Time, Toronto on Fri 6 Nov.
+Immigrant Muscle is a house and club artist based in Canada, with 24 gigs on soundcheck across Toronto. Often billed alongside Ensoul, Bikethug and House of Lords. Next up: Standard Time, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Immigrant Muscle is a house and club artist, with 24 gigs on soundcheck across T
 
 Ensoul, Bikethug, House of Lords
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/immigrantmuscle/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/immigrantmuscle/)*

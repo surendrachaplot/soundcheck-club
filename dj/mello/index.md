@@ -1,8 +1,8 @@
 # Mello
 
-Mello is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
+Mello is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at WOMB, Tokyo on Mon, 2 Nov 2026.
 
-Mello is a house and techno artist, with 17 gigs on soundcheck across Brussels, London, Madrid and Munich and 4 more. Often billed alongside ISAIAS, Coral Mambo (IT) and WO KEM. Next up: WOMB, Tokyo on Mon 2 Nov.
+Mello is a house and techno artist based in Italy, with 17 gigs on soundcheck across Brussels, London, Madrid and Munich and 4 more. Often billed alongside ISAIAS, Coral Mambo (IT) and WO KEM. Next up: WOMB, Tokyo on Mon 2 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mello is a house and techno artist, with 17 gigs on soundcheck across Brussels, 
 
 ISAIAS, Coral Mambo (IT), WO KEM
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mello/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mello/)*

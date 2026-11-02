@@ -1,6 +1,6 @@
 # Darude
 
-Darude is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Rich's Nightclub, San Diego on Sat, 7 Nov 2026.
+Darude is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Rich's Nightclub, San Diego on Sat, 7 Nov 2026.
 
 Darude is a trance and techno artist based in Finland, with 38 gigs on soundcheck across Amsterdam, Auckland, Austin and Baltimore and 24 more. Often billed alongside ASLO, Adam Bartas and Boris Brejcha. Next up: Rich's Nightclub, San Diego on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Darude is a trance and techno artist based in Finland, with 38 gigs on soundchec
 
 ASLO, Adam Bartas, Boris Brejcha
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darude/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darude/)*

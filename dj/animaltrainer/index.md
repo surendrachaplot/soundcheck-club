@@ -1,6 +1,6 @@
 # Animal Trainer
 
-Animal Trainer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Muna, Jena on Sat, 7 Nov 2026.
+Animal Trainer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Muna, Jena on Sat, 7 Nov 2026.
 
 Animal Trainer is a house and techno artist based in Switzerland, with 85 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 22 more. Often billed alongside ACID FLORA, Anthik and Kellerkind. Next up: Muna, Jena on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Animal Trainer is a house and techno artist based in Switzerland, with 85 gigs o
 
 ACID FLORA, Anthik, Kellerkind
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/animaltrainer/)*

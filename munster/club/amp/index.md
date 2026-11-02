@@ -1,6 +1,6 @@
 # Amp
 
-Amp is a music venue in Münster with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "WEIRD WEDNESDAY with 909 RACING TEAM & many more" on Wed, 4 Nov 2026.
+Amp is a music venue in Münster with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "WEIRD WEDNESDAY with 909 RACING TEAM & many more" on Wed, 4 Nov 2026.
 
 Amp is a music venue in Münster listed on soundcheck. 11 upcoming gigs, with line-ups including 909 RACING TEAM, Cora Lee, Delm and kichererbsenstampf and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
 
@@ -23,4 +23,4 @@ Amp is a music venue in Münster listed on soundcheck. 11 upcoming gigs, with li
 
 Am Hawerkamp 1, 48155 Münster, Münster
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*

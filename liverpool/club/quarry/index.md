@@ -1,6 +1,6 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "OOIOO (YoshimiO // Boredoms)" on Wed, 4 Nov 2026.
+Quarry is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "OOIOO (YoshimiO // Boredoms)" on Wed, 4 Nov 2026.
 
 Quarry is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including MYOHMY, polymaas, Strathearn and The Cyclist and 1 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
@@ -23,4 +23,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, wit
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

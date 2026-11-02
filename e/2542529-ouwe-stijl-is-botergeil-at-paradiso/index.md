@@ -1,6 +1,6 @@
 # Ouwe Stijl is Botergeil at Paradiso
 
-Ouwe Stijl is Botergeil at Paradiso on Sat 30 Jan, Amsterdam. 5 artists: Dynamax, Gysèle, Kobe and Predator and 1 more. See the line-up on soundcheck.
+Ouwe Stijl is Botergeil at Paradiso on Sat 30 Jan, Amsterdam. 5 artists: Dynamax, Gysèle, Kobe and Predator and 1 more. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

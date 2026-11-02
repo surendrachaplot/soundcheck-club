@@ -1,6 +1,6 @@
 # Mirror Organs
 
-Mirror Organs is a Electronica and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Raleigh Chapel, London on Thu, 19 Nov 2026.
+Mirror Organs is a Electronica and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Raleigh Chapel, London on Thu, 19 Nov 2026.
 
 Mirror Organs is an electronica and dub techno artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Conna Haraway, VISIO and Zeynep Ağcabay. Next up: Raleigh Chapel, London on Thu 19 Nov.
 
@@ -18,4 +18,4 @@ Mirror Organs is an electronica and dub techno artist based in United Kingdom, w
 
 Conna Haraway, VISIO, Zeynep Ağcabay
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrororgans/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrororgans/)*

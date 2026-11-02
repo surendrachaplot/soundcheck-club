@@ -1,6 +1,6 @@
 # Bar Franca
 
-Bar Franca is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Spacious - Textural EP Release Party" on Sat, 14 Nov 2026.
+Bar Franca is a music venue in Los Angeles with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Spacious - Textural EP Release Party" on Sat, 14 Nov 2026.
 
 Bar Franca is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs, with line-ups including Dekmantel Soundsystem, Demi Riquisimo, heelbite316 and Masha Mar and 1 more. See dates, start times and who's playing. 438 S Main St, Los Angeles, CA 90013.
 
@@ -16,4 +16,4 @@ Bar Franca is a music venue in Los Angeles listed on soundcheck. 3 upcoming gigs
 
 438 S Main St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/bar-franca/)*

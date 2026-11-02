@@ -1,6 +1,6 @@
 # Yrsen
 
-Yrsen is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Grand Social, Dublin on Sat, 7 Nov 2026.
+Yrsen is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Grand Social, Dublin on Sat, 7 Nov 2026.
 
 Yrsen is a techno and electronica artist, with 7 gigs on soundcheck across Beijing, Dublin, Osaka and Santiago and 3 more. Often billed alongside 03øst, ASTAT and AllA. Next up: The Grand Social, Dublin on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Yrsen is a techno and electronica artist, with 7 gigs on soundcheck across Beiji
 
 03øst, ASTAT, AllA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yrsen/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yrsen/)*

@@ -1,14 +1,13 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Gay Christmas: A Queer FLINTA* Halloween Party" on Sun, 1 Nov 2026.
+Crack Bellmer is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "MACHINE LEARNING: residents + friends [free entry until 22:00!]" on Thu, 5 Nov 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including 2727, anna andersrum, Aphty Khéa and ARMANDO and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 2727, anna andersrum, Aphty Khéa and ARMANDO and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Gay Christmas: A Queer FLINTA* Halloween Party | Ina Vietha, Isa GT, MALAGÜERA, bethanylikesham |
 | Thu, 5 Nov 2026 | MACHINE LEARNING: residents + friends [free entry until 22:00!] | CCTV, DATA RYDER, Leba, Linnea Mae, anna andersrum |
 | Fri, 6 Nov 2026 | GÜAYOTA X NOFUTURE | Juana Valeria, Paulawar, Zoran, bad.dnny |
 | Fri, 6 Nov 2026 | GÜAYOTA X NOFUTURE | Juana Valeria, Paulawar, Zoran, bad.dnny |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 18 upcoming gigs,
 | Sat, 14 Nov 2026 | SPEAK UP Inline x Stories of Her with X Tin, degen, Ôneyra, Linda shiro & many more | Linda shiro, Rovin, UniKhatu, X Tin, degen, pink-panther, Ôneyra |
 | Sun, 15 Nov 2026 | ESTRO with ARMANDO, GEISTFREI, Origami, Söfia Kuz | ARMANDO, GEISTFREI, Origami, Söfia Kuz |
 | Thu, 19 Nov 2026 | Simbiosis | Juan Diego Drouet, Larisaa, oulcan |
+| Sat, 21 Nov 2026 | Horsepower Club: Deepest Space | 2727, Casey Fable, Miss T Delight, Rare Highs, Vytauras |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

@@ -1,14 +1,15 @@
 # JAZZ (2)
 
-JAZZ (2) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
+JAZZ (2) is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Sydney on Sat, 28 Nov 2026.
 
-JAZZ is a progressive house and techno artist based in Australia, with 12 gigs on soundcheck across Berlin, London, Manchester and Melbourne and 1 more. Often billed alongside Reptant, Sugar Free and Accent'. Next up: TBA, Sydney on Sat 28 Nov.
+JAZZ is a progressive house and techno artist based in Australia, with 13 gigs on soundcheck across Berlin, London, Manchester and Melbourne and 1 more. Often billed alongside Reptant, Sugar Free and Accent'. Next up: TBA, Sydney on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | TBA | Sydney |
+| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JAZZ is a progressive house and techno artist based in Australia, with 12 gigs o
 
 Reptant, Sugar Free, Accent'
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazz-2/)*

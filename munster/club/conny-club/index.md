@@ -1,6 +1,6 @@
 # Conny Club
 
-Conny Club is a music venue in Münster with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Achtsam Tanzen" on Sat, 7 Nov 2026.
+Conny Club is a music venue in Münster with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Achtsam Tanzen" on Sat, 7 Nov 2026.
 
 Conny Club is a music venue in Münster listed on soundcheck. 4 upcoming gigs, with line-ups including Annemalie, Dennis Siemion and Sven Kerkhoff. See dates, start times and who's playing. Am Hawerkamp 31, 48155 Münster, Deutschland.
 
@@ -17,4 +17,4 @@ Conny Club is a music venue in Münster listed on soundcheck. 4 upcoming gigs, w
 
 Am Hawerkamp 31, 48155 Münster, Deutschland, Münster
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/conny-club/)*

@@ -1,6 +1,6 @@
 # Yuri Umemoto
 
-Yuri Umemoto is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Forestlimit, Tokyo on Wed, 4 Nov 2026.
+Yuri Umemoto is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Forestlimit, Tokyo on Wed, 4 Nov 2026.
 
 Yuri Umemoto is an experimental and electronica artist based in Japan, with 7 gigs on soundcheck across Brussels, Copenhagen, Paris and Tokyo. Often billed alongside VINESSETT, iced lattina and pam (unofficial). Next up: Forestlimit, Tokyo on Wed 4 Nov.
 
@@ -23,4 +23,4 @@ Yuri Umemoto is an experimental and electronica artist based in Japan, with 7 gi
 
 VINESSETT, iced lattina, pam (unofficial)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuriumemoto/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuriumemoto/)*

@@ -1,14 +1,15 @@
 # Pete Herbert
 
-Pete Herbert is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Klub 20/44, Belgrade on Sat, 7 Nov 2026.
+Pete Herbert is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Klub 20/44, Belgrade on Sat, 7 Nov 2026.
 
-Pete Herbert is a house and disco artist, with 11 gigs on soundcheck across Barcelona, Belgrade, Glasgow and Helsinki and 5 more. Often billed alongside Barreto, Dicky Trisco and Lisa Loud. Next up: Klub 20/44, Belgrade on Sat 7 Nov.
+Pete Herbert is a house and disco artist based in United Kingdom, with 12 gigs on soundcheck across Barcelona, Belgrade, Glasgow and Helsinki and 6 more. Often billed alongside Barreto, Dicky Trisco and Lisa Loud. Next up: Klub 20/44, Belgrade on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Klub 20/44 | Belgrade |
+| Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pete Herbert is a house and disco artist, with 11 gigs on soundcheck across Barc
 
 Barreto, Dicky Trisco, Lisa Loud
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peteherbert/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peteherbert/)*

@@ -1,6 +1,6 @@
 # Special Guest (US)
 
-Special Guest (US) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Basement Amsterdam, Amsterdam on Sat, 14 Nov 2026.
+Special Guest (US) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Basement Amsterdam, Amsterdam on Sat, 14 Nov 2026.
 
 Special Guest (US) is a house and techno artist based in United States of America, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside DJ S (UK), Carasel and Whiney. Next up: Basement Amsterdam, Amsterdam on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Special Guest (US) is a house and techno artist based in United States of Americ
 
 DJ S (UK), Carasel, Whiney
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialguest-us/)*

@@ -1,14 +1,13 @@
 # Olga Korol
 
-Olga Korol is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Frankie’s, Vancouver on Sat, 31 Oct 2026.
+Olga Korol is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 14 Nov 2026.
 
-Olga Korol is a house and minimal artist based in Ukraine, with 124 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 46 more. Often billed alongside Per Hammar, Pentti Igor and Cristi Cons. Next up: Frankie’s, Vancouver on Sat 31 Oct.
+Olga Korol is a house and minimal artist based in Ukraine, with 124 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 46 more. Often billed alongside Per Hammar, Pentti Igor and Cristi Cons. Next up: Starlane Pizza Bar, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Frankie’s | Vancouver |
 | Sat, 14 Nov 2026 | Starlane Pizza Bar | London |
 | Fri, 20 Nov 2026 | Fitzroy | Berlin |
 | Sat, 28 Nov 2026 | Next Clubbing | Madrid |
@@ -30,4 +29,4 @@ Olga Korol is a house and minimal artist based in Ukraine, with 124 gigs on soun
 
 Per Hammar, Pentti Igor, Cristi Cons
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olgakorol-ru/)*

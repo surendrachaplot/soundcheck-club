@@ -1,6 +1,6 @@
 # Gunnar Guess
 
-Gunnar Guess is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Golden Gate, Berlin on Thu, 5 Nov 2026.
+Gunnar Guess is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Golden Gate, Berlin on Thu, 5 Nov 2026.
 
 Gunnar Guess is an electronic artist, with 2 gigs on soundcheck across Berlin. Often billed alongside André Galluzzi, David Delgado and DeWalta. Next up: Golden Gate, Berlin on Thu 5 Nov.
 
@@ -18,4 +18,4 @@ Gunnar Guess is an electronic artist, with 2 gigs on soundcheck across Berlin. O
 
 André Galluzzi, David Delgado, DeWalta
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunnarguess/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gunnarguess/)*

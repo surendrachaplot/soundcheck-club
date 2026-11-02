@@ -1,6 +1,6 @@
 # Montero
 
-Montero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
+Montero is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fabrik, Madrid on Sat, 5 Dec 2026.
 
 Montero is a techno and house artist based in Spain, with 78 gigs on soundcheck across Barcelona, Berlin, Bogotá and Guadalajara and 13 more. Often billed alongside Tauer, Anika Kunst and Stojche. Next up: Fabrik, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Montero is a techno and house artist based in Spain, with 78 gigs on soundcheck 
 
 Tauer, Anika Kunst, Stojche
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montero/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montero/)*

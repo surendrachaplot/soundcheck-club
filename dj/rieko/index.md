@@ -1,6 +1,6 @@
 # RIEKO
 
-RIEKO is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Living Womb, London on Thu, 12 Nov 2026.
+RIEKO is a Experimental and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Living Womb, London on Thu, 12 Nov 2026.
 
 RIEKO is an experimental and downtempo artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside HEZEN and Yraki. Next up: Living Womb, London on Thu 12 Nov.
 
@@ -18,4 +18,4 @@ RIEKO is an experimental and downtempo artist based in United Kingdom, with 2 gi
 
 HEZEN, Yraki
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rieko/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rieko/)*

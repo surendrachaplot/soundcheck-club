@@ -1,6 +1,6 @@
 # Tidal
 
-Tidal is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
+Tidal is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
 
 Tidal is a funk / soul and house artist, with 3 gigs on soundcheck across Osaka, The Hague and Tokyo. Often billed alongside Composer, Cyanide and Drum Machine. Next up: TBA - Black Scorpion Music بلک اسکورپیون موزیک, The Hague on Tue 1 Aug.
 
@@ -19,4 +19,4 @@ Tidal is a funk / soul and house artist, with 3 gigs on soundcheck across Osaka,
 
 Composer, Cyanide, Drum Machine
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tidal/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tidal/)*

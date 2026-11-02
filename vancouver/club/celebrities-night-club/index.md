@@ -1,6 +1,6 @@
 # Celebrities Night Club
 
-Celebrities Night Club is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. The next is "Innellea (Vancouver)" on Sat, 7 Nov 2026.
+Celebrities Night Club is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Innellea (Vancouver)" on Sat, 7 Nov 2026.
 
 Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 1 upcoming gig, with line-ups including Innellea. See dates, start times and who's playing. 1022 Davie Street; Vancouver, BC V6E 1N2; Canada.
 
@@ -14,4 +14,4 @@ Celebrities Night Club is a music venue in Vancouver listed on soundcheck. 1 upc
 
 1022 Davie Street; Vancouver, BC V6E 1N2; Canada, Vancouver
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/celebrities-night-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/celebrities-night-club/)*

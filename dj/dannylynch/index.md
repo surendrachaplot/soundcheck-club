@@ -1,6 +1,6 @@
 # danny lynch
 
-danny lynch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Flair Maison Nyc, New-york-state on Fri, 6 Nov 2026.
+danny lynch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Flair Maison Nyc, New-york-state on Fri, 6 Nov 2026.
 
 danny lynch is a techno and house artist based in United States of America, with 5 gigs on soundcheck across New York State and New York City. Often billed alongside Ben Zo, Interpretive Sound and Klipdagga. Next up: Flair Maison Nyc, New York State on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ danny lynch is a techno and house artist based in United States of America, with
 
 Ben Zo, Interpretive Sound, Klipdagga
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylynch/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannylynch/)*

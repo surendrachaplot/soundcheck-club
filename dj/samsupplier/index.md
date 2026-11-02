@@ -1,6 +1,6 @@
 # Sam Supplier
 
-Sam Supplier is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ministry Of Sound, London on Fri, 18 Dec 2026.
+Sam Supplier is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ministry Of Sound, London on Fri, 18 Dec 2026.
 
 Sam Supplier is a tech house and house artist based in United Kingdom, with 74 gigs on soundcheck across Brighton, Ibiza and London. Often billed alongside JAYDAA, DJ S (UK) and Jerome Six. Next up: Ministry Of Sound, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Sam Supplier is a tech house and house artist based in United Kingdom, with 74 g
 
 JAYDAA, DJ S (UK), Jerome Six
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samsupplier/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samsupplier/)*

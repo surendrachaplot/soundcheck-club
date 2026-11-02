@@ -1,6 +1,6 @@
 # Trojan Sound
 
-Trojan Sound is a Afrobeats and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
+Trojan Sound is a Afrobeats and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Fortim CE, Brazil on Sat, 26 Dec 2026.
 
 Trojan Sound is an afrobeats and reggaeton artist, with 3 gigs on soundcheck across Brazil, London and Melbourne. Often billed alongside Colleen 'Cosmo' Murphy, Antal and Bernardo Pinheiro. Next up: TBA - Fortim CE, Brazil on Sat 26 Dec.
 
@@ -19,4 +19,4 @@ Trojan Sound is an afrobeats and reggaeton artist, with 3 gigs on soundcheck acr
 
 Colleen 'Cosmo' Murphy, Antal, Bernardo Pinheiro
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trojansound/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trojansound/)*

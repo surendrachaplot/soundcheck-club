@@ -1,6 +1,6 @@
 # Aleyum
 
-Aleyum is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Sat, 7 Nov 2026.
+Aleyum is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Sat, 7 Nov 2026.
 
 Aleyum is a drum & bass and jungle artist based in United States of America, with 6 gigs on soundcheck across San Francisco/Oakland and Tokyo. Often billed alongside ANZU, PUNK N MATRIX and Ayantula. Next up: BRAND SHIBUYA, Tokyo on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Aleyum is a drum & bass and jungle artist based in United States of America, wit
 
 ANZU, PUNK N MATRIX, Ayantula
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleyum/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleyum/)*

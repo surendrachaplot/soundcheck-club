@@ -1,6 +1,6 @@
 # optionlist
 
-optionlist is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Poseidons, Riga on Fri, 6 Nov 2026.
+optionlist is a Experimental and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Poseidons, Riga on Fri, 6 Nov 2026.
 
 optionlist is an experimental and hardcore artist based in Latvia, with 20 gigs on soundcheck across Glasgow, London, Manchester and Riga. Often billed alongside Ship Sket, maniken05 and novasdemise. Next up: Poseidons, Riga on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ optionlist is an experimental and hardcore artist based in Latvia, with 20 gigs 
 
 Ship Sket, maniken05, novasdemise
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optionlist/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optionlist/)*

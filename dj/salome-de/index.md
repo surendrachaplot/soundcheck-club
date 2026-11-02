@@ -1,14 +1,13 @@
 # SALOME
 
-SALOME is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at BASEMENT, New York City on Sat, 31 Oct 2026.
+SALOME is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-SALOME is a techno and electro artist based in Georgia, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 76 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: BASEMENT, New York City on Sat 31 Oct.
+SALOME is a techno and electro artist based in Georgia, with 235 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 76 more. Often billed alongside MCMLXXXV, CEM and SPFDJ. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | BASEMENT | New York City |
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 14 Nov 2026 | REC Napoli | Naples |
 | Fri, 20 Nov 2026 | Fuse | Brussels |
@@ -30,4 +29,4 @@ SALOME is a techno and electro artist based in Georgia, with 235 gigs on soundch
 
 MCMLXXXV, CEM, SPFDJ
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salome-de/)*

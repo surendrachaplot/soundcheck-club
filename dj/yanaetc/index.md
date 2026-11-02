@@ -1,8 +1,8 @@
 # YANA ETC
 
-YANA ETC is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Depo Klub, Zagreb on Sat, 14 Nov 2026.
+YANA ETC is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depo Klub, Zagreb on Sat, 14 Nov 2026.
 
-YANA ETC is a techno and industrial artist, with 32 gigs on soundcheck across Amsterdam, Berlin, Budapest and Istanbul and 10 more. Often billed alongside BTFL, PARAPHER and SAS. Next up: Depo Klub, Zagreb on Sat 14 Nov.
+YANA ETC is a techno and industrial artist based in Belarus, with 32 gigs on soundcheck across Amsterdam, Berlin, Budapest and Istanbul and 10 more. Often billed alongside BTFL, PARAPHER and SAS. Next up: Depo Klub, Zagreb on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ YANA ETC is a techno and industrial artist, with 32 gigs on soundcheck across Am
 
 BTFL, PARAPHER, SAS (2)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanaetc/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanaetc/)*

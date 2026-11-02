@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Cinco Shades: Josh Pace & Friends" on Fri, 6 Nov 2026.
+Distrikt is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Cinco Shades: Josh Pace & Friends" on Fri, 6 Nov 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including 3PM RECORDS, Alexandria, Alexia Glensy and Arty (UK) and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -23,4 +23,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with 
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

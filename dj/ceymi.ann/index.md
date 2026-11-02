@@ -1,8 +1,8 @@
 # Ceymi.Ann
 
-Ceymi.Ann is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Fundbureau, Hamburg on Fri, 6 Nov 2026.
+Ceymi.Ann is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fundbureau, Hamburg on Fri, 6 Nov 2026.
 
-Ceymi.Ann is a techno and psytrance artist, with 11 gigs on soundcheck across Berlin, Dresden, Hamburg and Prague. Often billed alongside Mit B., Oliver Raumklang and Alice Mary. Next up: Fundbureau, Hamburg on Fri 6 Nov.
+Ceymi.Ann is a techno and psytrance artist based in Germany, with 11 gigs on soundcheck across Berlin, Dresden, Hamburg and Prague. Often billed alongside Mit B., Oliver Raumklang and Alice Mary. Next up: Fundbureau, Hamburg on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Ceymi.Ann is a techno and psytrance artist, with 11 gigs on soundcheck across Be
 
 Mit B., Oliver Raumklang, Alice Mary
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceymi.ann/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceymi.ann/)*

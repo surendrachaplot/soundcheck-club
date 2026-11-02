@@ -1,14 +1,13 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - secret warehouse, Denver on Sat, 31 Oct 2026.
+Phase Fatale is a Techno and EBM artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Virage, Paris on Fri, 6 Nov 2026.
 
-Phase Fatale is a techno and ebm artist based in United States of America, with 237 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 75 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: TBA - secret warehouse, Denver on Sat 31 Oct.
+Phase Fatale is a techno and ebm artist based in United States of America, with 237 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 75 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Virage, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - secret warehouse | Denver |
 | Fri, 6 Nov 2026 | Virage | Paris |
 | Sat, 7 Nov 2026 | Lanna Club | North |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -32,4 +31,4 @@ Phase Fatale is a techno and ebm artist based in United States of America, with 
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

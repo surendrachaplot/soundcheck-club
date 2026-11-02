@@ -1,6 +1,6 @@
 # Moodjo
 
-Moodjo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 26 Nov 2026.
+Moodjo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bulbul Berlin, Berlin on Thu, 26 Nov 2026.
 
 Moodjo is a house and club artist based in France, with 2 gigs on soundcheck across Berlin. Often billed alongside Acyle, Jambel and Moni von Pisani. Next up: Bulbul Berlin, Berlin on Thu 26 Nov.
 
@@ -18,4 +18,4 @@ Moodjo is a house and club artist based in France, with 2 gigs on soundcheck acr
 
 Acyle, Jambel, Moni von Pisani
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodjo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moodjo/)*

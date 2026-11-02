@@ -1,6 +1,6 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 20 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Nico Moreno w/ FOVOS, Lars Husimann, E-QUE" on Fri, 6 Nov 2026.
+Echostage is a music venue in Washington DC with 20 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Nico Moreno w/ FOVOS, Lars Husimann, E-QUE" on Fri, 6 Nov 2026.
 
 Echostage is a music venue in Washington DC listed on soundcheck. 20 upcoming gigs, with line-ups including 10cust, Boys Noize, Brutalismus 3000 and Casey Club and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
@@ -23,4 +23,4 @@ Echostage is a music venue in Washington DC listed on soundcheck. 20 upcoming gi
 
 2135 Queens Chapel Road NE, Washington, DC 20018, Washington DC
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/echostage/)*

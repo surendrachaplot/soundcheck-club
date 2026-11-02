@@ -1,6 +1,6 @@
 # Suki10c
 
-Suki10c is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Sir Hiss & Friends: Sam Binga B2B Sir Hiss with Cola B (All Night Long)" on Fri, 6 Nov 2026.
+Suki10c is a music venue in Birmingham with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Sir Hiss & Friends: Sam Binga B2B Sir Hiss with Cola B (All Night Long)" on Fri, 6 Nov 2026.
 
 Suki10c is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs, with line-ups including BoDo, Maxou, Sam Binga and Sir Hiss and 1 more. See dates, start times and who's playing. 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom.
 
@@ -16,4 +16,4 @@ Suki10c is a music venue in Birmingham listed on soundcheck. 3 upcoming gigs, wi
 
 21 Bordesley Street Birmingham, B5 5PJ, United Kingdom, Birmingham
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/birmingham/club/suki10c/)*

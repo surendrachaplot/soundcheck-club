@@ -1,8 +1,8 @@
 # ODG (1)
 
-ODG (1) is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 6 Nov 2026.
+ODG (1) is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 6 Nov 2026.
 
-ODG is an electro and club artist, with 13 gigs on soundcheck across London, Marseille, Seoul and Tokyo. Often billed alongside Helica, ultra caro and Aidan Swank. Next up: Cabaret  Aléatoire, Marseille on Fri 6 Nov.
+ODG is an electro and club artist based in United Kingdom, with 13 gigs on soundcheck across London, Marseille, Seoul and Tokyo. Often billed alongside Helica, ultra caro and Aidan Swank. Next up: Cabaret  Aléatoire, Marseille on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ODG is an electro and club artist, with 13 gigs on soundcheck across London, Mar
 
 Helica, ultra caro, Aidan Swank
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odg-1/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odg-1/)*

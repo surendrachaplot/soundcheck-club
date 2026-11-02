@@ -1,6 +1,6 @@
 # Enzo Siragusa
 
-Enzo Siragusa is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Flash, Washington DC on Fri, 13 Nov 2026.
+Enzo Siragusa is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Flash, Washington DC on Fri, 13 Nov 2026.
 
 Enzo Siragusa is a house and tech house artist based in United Kingdom, with 206 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 45 more. Often billed alongside Laidlaw, Traumer and Rossi. Next up: Flash, Washington DC on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 206
 
 Laidlaw, Traumer, Rossi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzosiragusa/)*

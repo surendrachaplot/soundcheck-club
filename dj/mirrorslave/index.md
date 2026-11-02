@@ -1,8 +1,8 @@
 # Mirror Slave
 
-Mirror Slave is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Daina | Kaunas, Lithuania on Sat, 7 Nov 2026.
+Mirror Slave is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Daina | Kaunas, Lithuania on Sat, 7 Nov 2026.
 
-Mirror Slave is a techno and trance artist, with 66 gigs on soundcheck across Lithuania, Paris, Riga and Thessaloniki and 2 more. Often billed alongside Valdagger, Interiors and Phase Line. Next up: Daina | Kaunas, Lithuania on Sat 7 Nov.
+Mirror Slave is a techno and trance artist based in Lithuania, with 66 gigs on soundcheck across Lithuania, Paris, Riga and Thessaloniki and 2 more. Often billed alongside Valdagger, Interiors and Phase Line. Next up: Daina | Kaunas, Lithuania on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Mirror Slave is a techno and trance artist, with 66 gigs on soundcheck across Li
 
 Valdagger, Interiors, Phase Line
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorslave/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirrorslave/)*

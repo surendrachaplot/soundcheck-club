@@ -1,6 +1,6 @@
 # Berlin Bunny
 
-Berlin Bunny is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Berlin Bunny is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 Berlin Bunny is a techno and house artist based in Poland, with 72 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 14 more. Often billed alongside Eyesdice, Paty Vapor and Franz Scala. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Berlin Bunny is a techno and house artist based in Poland, with 72 gigs on sound
 
 Eyesdice, Paty Vapor, Franz Scala
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berlinbunny/)*

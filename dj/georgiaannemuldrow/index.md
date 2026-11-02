@@ -1,6 +1,6 @@
 # Georgia Anne Muldrow
 
-Georgia Anne Muldrow is a Dub and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Georgia Anne Muldrow is a Dub and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Georgia Anne Muldrow is a dub and afrobeat artist based in United States of America, with 2 gigs on soundcheck across Los Angeles and Utrecht. Often billed alongside Aba Shanti-I, Aho Ssan and Ambu Bambu. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -18,4 +18,4 @@ Georgia Anne Muldrow is a dub and afrobeat artist based in United States of Amer
 
 Aba Shanti-I, Aho Ssan, Ambu Bambu
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiaannemuldrow/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgiaannemuldrow/)*

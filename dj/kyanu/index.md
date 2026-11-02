@@ -1,8 +1,8 @@
 # Kyanu
 
-Kyanu is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
+Kyanu is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Messegelände Hannover, Hannover on Sat, 28 Nov 2026.
 
-Kyanu is a techno and hardcore artist, with 8 gigs on soundcheck across Cologne, Dortmund / Essen, Hamburg and Hannover and 1 more. Often billed alongside Anna Reusch, Lee Ann Roberts and PRADA2000. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
+Kyanu is a techno and hardcore artist based in Germany, with 8 gigs on soundcheck across Cologne, Dortmund / Essen, Hamburg and Hannover and 1 more. Often billed alongside Anna Reusch, Lee Ann Roberts and PRADA2000. Next up: Messegelände Hannover, Hannover on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Kyanu is a techno and hardcore artist, with 8 gigs on soundcheck across Cologne,
 
 Anna Reusch, Lee Ann Roberts, PRADA2000
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyanu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyanu/)*

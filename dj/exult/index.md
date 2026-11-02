@@ -1,8 +1,8 @@
 # Exult
 
-Exult is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - B17 Art Complex, Bogotá on Fri, 11 Dec 2026.
+Exult is a Drum & Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - B17 Art Complex, Bogotá on Fri, 11 Dec 2026.
 
-Exult is a drum & bass and breakbeat artist, with 5 gigs on soundcheck across Bogotá, Bristol, Leeds and London. Often billed alongside Optical, Audio and Codebreaker. Next up: TBA - B17 Art Complex, Bogotá on Fri 11 Dec.
+Exult is a drum & bass and breakbeat artist based in United Kingdom, with 5 gigs on soundcheck across Bogotá, Bristol, Leeds and London. Often billed alongside Optical, Audio and Codebreaker. Next up: TBA - B17 Art Complex, Bogotá on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Exult is a drum & bass and breakbeat artist, with 5 gigs on soundcheck across Bo
 
 Optical, Audio, Codebreaker
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exult/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exult/)*

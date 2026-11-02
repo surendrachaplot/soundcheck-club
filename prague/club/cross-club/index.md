@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 14 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "SUNDEJ SE SUNDAY" on Sun, 1 Nov 2026.
+Cross Club is a music venue in Prague with 31 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "LOS TEKKENOS" on Mon, 2 Nov 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 14 upcoming gigs, with line-ups including AMAR DURGA, Dasha Fyah, Ejdm and Magnetude and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 31 upcoming gigs, with line-ups including AMAR DURGA, Aztek, Dasha Fyah and Ejdm and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | SUNDEJ SE SUNDAY |  |
 | Mon, 2 Nov 2026 | LOS TEKKENOS |  |
 | Tue, 3 Nov 2026 | DNB NIGHT |  |
 | Wed, 4 Nov 2026 | BIOCROSS |  |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 7 Nov 2026 | TŘI HLASY |  |
 | Sun, 8 Nov 2026 | SUNDEJ SE SUNDAY |  |
 | Mon, 9 Nov 2026 | LOS TEKKENOS |  |
+| Tue, 10 Nov 2026 | TECHNO NIGHT |  |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

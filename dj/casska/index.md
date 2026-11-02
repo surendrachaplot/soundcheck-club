@@ -1,8 +1,8 @@
 # Casska
 
-Casska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Academy LA, Los Angeles on Fri, 4 Dec 2026.
+Casska is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Academy LA, Los Angeles on Fri, 4 Dec 2026.
 
-Casska is a techno and house artist, with 28 gigs on soundcheck across Chicago, Dallas/Fort Worth, Los Angeles and Paris and 2 more. Often billed alongside Cyberia Lain, -CZAR and CLAWZ. Next up: Academy LA, Los Angeles on Fri 4 Dec.
+Casska is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Chicago, Dallas/Fort Worth, Los Angeles and Paris and 2 more. Often billed alongside Cyberia Lain, -CZAR and CLAWZ. Next up: Academy LA, Los Angeles on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Casska is a techno and house artist, with 28 gigs on soundcheck across Chicago, 
 
 Cyberia Lain, -CZAR, CLAWZ
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casska/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casska/)*

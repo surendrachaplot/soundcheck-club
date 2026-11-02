@@ -1,6 +1,6 @@
 # Siann
 
-Siann is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Chicago on Sat, 7 Nov 2026.
+Siann is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Chicago on Sat, 7 Nov 2026.
 
 Siann is a techno and electronica artist based in United States of America, with 6 gigs on soundcheck across Chicago. Often billed alongside Eulalia, quade and 2AT. Next up: TBA, Chicago on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Siann is a techno and electronica artist based in United States of America, with
 
 Eulalia, quade, 2AT
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siann/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siann/)*

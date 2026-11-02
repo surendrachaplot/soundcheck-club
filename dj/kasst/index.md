@@ -1,6 +1,6 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Arzenal, Budapest on Sat, 12 Dec 2026.
+KAS:ST is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Arzenal, Budapest on Sat, 12 Dec 2026.
 
 KAS:ST is a techno and house artist based in France, with 116 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Mathame, Enrico Sangiuliano and Anfisa Letyago. Next up: Arzenal, Budapest on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KAS:ST is a techno and house artist based in France, with 116 gigs on soundcheck
 
 Mathame, Enrico Sangiuliano, Anfisa Letyago
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasst/)*

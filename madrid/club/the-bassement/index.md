@@ -1,14 +1,13 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER" on Sun, 1 Nov 2026.
+The Bassement is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN" on Sat, 7 Nov 2026.
 
-The Bassement is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Alarico, Anna Jevills, Anthony Godfather and Blasha & Allatt and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
+The Bassement is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including Alarico, Anna Jevills, Anthony Godfather and Blasha & Allatt and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Laster Club presents KANTINA SPECIAL HALLOWEEN WEEKENDER | JakoJako, Kameliia, Roll Dann, Rødhåd |
 | Sat, 7 Nov 2026 | Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN | Alarico, Blasha & Allatt, Chami, Connor Wall, Laia, Olivia Mendez, Shadow Hrym (ES) |
 | Sat, 14 Nov 2026 | CACAO by ANTHONY GODFATHER | Anthony Godfather (2) |
 | Fri, 20 Nov 2026 | ONGOING presents Elli Acula, Felicie, Luxi Villar & Anna Jevills | Anna Jevills, Elli Acula, Félicie, Luxi Villar |
@@ -21,4 +20,4 @@ The Bassement is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, 
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

@@ -1,14 +1,13 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Chelmsford City Racecourse, London on Sun, 1 Nov 2026.
+Luke Dean_ is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - 546 Collins Street, Melbourne, Melbourne on Fri, 20 Nov 2026.
 
-Luke Dean_ is a house and tech house artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 34 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: Chelmsford City Racecourse, London on Sun 1 Nov.
+Luke Dean_ is a house and tech house artist based in United Kingdom, with 121 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 34 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: TBA - 546 Collins Street, Melbourne, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
 | Fri, 20 Nov 2026 | TBA - 546 Collins Street, Melbourne | Melbourne |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Sat, 21 Nov 2026 | The Ivy | Sydney |
@@ -21,6 +20,7 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 121 gi
 
 ## Recently played
 
+- Chelmsford City Racecourse, London · Sun, 1 Nov 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Taets Art and Event Park, Netherlands · Fri, 23 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
@@ -28,10 +28,9 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, with 121 gi
 - DRUMSHEDS, London · Sat, 3 Oct 2026
 - Blackstone Street Warehouse, Liverpool · Sat, 26 Sept 2026
 - Amnesia Ibiza, Ibiza · Thu, 24 Sept 2026
-- Riithalle, Zurich · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 Max Dean, Locky, L.P. Rhythm
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukedean_/)*

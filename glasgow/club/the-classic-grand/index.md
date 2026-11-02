@@ -1,6 +1,6 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "PHG Presents: Dyen" on Fri, 6 Nov 2026.
+The Classic Grand is a music venue in Glasgow with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "PHG Presents: Dyen" on Fri, 6 Nov 2026.
 
 The Classic Grand is a music venue in Glasgow listed on soundcheck. 11 upcoming gigs, with line-ups including 2 Sick Puppiez, Argy(uk), BUCK and Chaos Clan and 2 more. See dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
@@ -23,4 +23,4 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 11 upcoming 
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

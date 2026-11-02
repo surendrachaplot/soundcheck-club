@@ -1,6 +1,6 @@
 # DJ RS
 
-DJ RS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Aoyama Hachi, Tokyo on Tue, 3 Nov 2026.
+DJ RS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Aoyama Hachi, Tokyo on Tue, 3 Nov 2026.
 
 DJ RS is a house and techno artist based in Japan, with 2 gigs on soundcheck across Tokyo. Often billed alongside KAKERU, Sojourna and ifax!. Next up: Aoyama Hachi, Tokyo on Tue 3 Nov.
 
@@ -18,4 +18,4 @@ DJ RS is a house and techno artist based in Japan, with 2 gigs on soundcheck acr
 
 KAKERU, Sojourna, ifax!
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrs/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djrs/)*

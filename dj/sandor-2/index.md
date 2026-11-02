@@ -1,6 +1,6 @@
 # Sandor (2)
 
-Sandor (2) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Atno, Budapest on Fri, 13 Nov 2026.
+Sandor (2) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Atno, Budapest on Fri, 13 Nov 2026.
 
 Sandor is a techno and minimal artist based in Hungary, with 2 gigs on soundcheck across Budapest. Often billed alongside Cap, Claudio Imperatrice and Jodo Kast. Next up: Atno, Budapest on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ Sandor is a techno and minimal artist based in Hungary, with 2 gigs on soundchec
 
 Cap, Claudio Imperatrice, Jodo Kast
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandor-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandor-2/)*

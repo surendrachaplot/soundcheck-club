@@ -1,6 +1,6 @@
 # Jonti
 
-Jonti is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Slipway, Sydney on Sat, 12 Dec 2026.
+Jonti is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Slipway, Sydney on Sat, 12 Dec 2026.
 
 Jonti is a house and disco artist, with 2 gigs on soundcheck across Sydney. Often billed alongside Mel Blue and vivi. Next up: Slipway, Sydney on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Jonti is a house and disco artist, with 2 gigs on soundcheck across Sydney. Ofte
 
 Mel Blue, vivi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonti/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonti/)*

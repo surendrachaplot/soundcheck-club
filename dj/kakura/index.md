@@ -1,6 +1,6 @@
 # Kakura
 
-Kakura is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 7 Nov 2026.
+Kakura is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 7 Nov 2026.
 
 Kakura is an afro house and house artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: Honey Street Studio, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kakura is an afro house and house artist based in United Kingdom, with 11 gigs o
 
 MYDIR, Bushman (UK), Azur
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kakura/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kakura/)*

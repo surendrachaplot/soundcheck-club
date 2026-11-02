@@ -1,6 +1,6 @@
 # Callaghan
 
-Callaghan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Section 8, Melbourne on Thu, 5 Nov 2026.
+Callaghan is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Section 8, Melbourne on Thu, 5 Nov 2026.
 
 Callaghan is a house and garage artist, with 4 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bekks, Faster Horses and Jakey. Next up: Section 8, Melbourne on Thu 5 Nov.
 
@@ -20,4 +20,4 @@ Callaghan is a house and garage artist, with 4 gigs on soundcheck across Melbour
 
 Bekks, Faster Horses, Jakey
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callaghan/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callaghan/)*

@@ -1,13 +1,14 @@
 # J.G. Biberkopf
 
-J.G. Biberkopf is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu, 18 Feb 2027.
+J.G. Biberkopf is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kongresai, Vilnius on Fri, 27 Nov 2026.
 
-J.G. Biberkopf is an electronic artist, with 3 gigs on soundcheck across Berlin and London. Often billed alongside Wojciech Rusin, object blue and Buttechno. Next up: TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects), London on Thu 18 Feb.
+J.G. Biberkopf is a pop and experimental artist, with 4 gigs on soundcheck across Berlin, London and Vilnius. Often billed alongside Rat Section, Wojciech Rusin and object blue. Next up: Kongresai, Vilnius on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Kongresai | Vilnius |
 | Thu, 18 Feb 2027 | TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects) | London |
 | Fri, 19 Feb 2027 | Cafe OTO | London |
 
@@ -17,6 +18,6 @@ J.G. Biberkopf is an electronic artist, with 3 gigs on soundcheck across Berlin 
 
 ## Shares bills with
 
-Wojciech Rusin, object blue, Buttechno
+Rat Section, Wojciech Rusin, object blue
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.g.biberkopf/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.g.biberkopf/)*

@@ -1,6 +1,6 @@
 # Chelina Manuhutu
 
-Chelina Manuhutu is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Chelina Manuhutu is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Chelina Manuhutu is a tech house and house artist based in Netherlands, with 166 gigs on soundcheck across Amsterdam, Athens, Austria and Bali and 40 more. Often billed alongside Andrea Oliva, Marco Carola and Nic Fanciulli. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -26,4 +26,4 @@ Chelina Manuhutu is a tech house and house artist based in Netherlands, with 166
 
 Andrea Oliva, Marco Carola, Nic Fanciulli
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chelinamanuhutu/)*

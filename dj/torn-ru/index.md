@@ -1,14 +1,15 @@
 # Torn (RU)
 
-Torn (RU) is a Acid and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
+Torn (RU) is a Acid and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Void Club, Berlin on Fri, 27 Nov 2026.
 
-Torn (RU) is an acid and experimental artist, with 3 gigs on soundcheck across Berlin. Often billed alongside Alex Pastore, Anton Quasi and Bconscious. Next up: Void Club, Berlin on Fri 27 Nov.
+Torn (RU) is an acid and experimental artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Alex Pastore, Vū and Anton Quasi. Next up: Void Club, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Void Club | Berlin |
+| Thu, 4 Mar 2027 | Kantine am Berghain | Berlin |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ Torn (RU) is an acid and experimental artist, with 3 gigs on soundcheck across B
 
 ## Shares bills with
 
-Alex Pastore, Anton Quasi, Bconscious
+Alex Pastore, Vū, Anton Quasi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torn-ru/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torn-ru/)*

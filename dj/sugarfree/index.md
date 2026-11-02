@@ -1,6 +1,6 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Cobalt Studios, Newcastle on Sat, 7 Nov 2026.
+Sugar Free is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cobalt Studios, Newcastle on Sat, 7 Nov 2026.
 
 Sugar Free is a house and techno artist based in Spain, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 67 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Cobalt Studios, Newcastle on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Sugar Free is a house and techno artist based in Spain, with 215 gigs on soundch
 
 Fonte, Gene On Earth, tINI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sugarfree/)*

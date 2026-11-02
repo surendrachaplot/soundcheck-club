@@ -1,6 +1,6 @@
 # Pier 48's Shed A
 
-Pier 48's Shed A is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Armin van Buuren" on Sat, 7 Nov 2026.
+Pier 48's Shed A is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Armin van Buuren" on Sat, 7 Nov 2026.
 
 Pier 48's Shed A is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Farell, ALT8, Armin van Buuren and Clearcast and 2 more. See dates, start times and who's playing. Pier 48, Shed A, San Francisco, CA 94158.
 
@@ -16,4 +16,4 @@ Pier 48's Shed A is a music venue in San Francisco/Oakland listed on soundcheck.
 
 Pier 48, Shed A, San Francisco, CA 94158, San Francisco/Oakland
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/pier-48-s-shed-a/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/pier-48-s-shed-a/)*

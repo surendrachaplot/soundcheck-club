@@ -1,6 +1,6 @@
 # Kishan
 
-Kishan is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Club Makossa, London on Fri, 20 Nov 2026.
+Kishan is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Makossa, London on Fri, 20 Nov 2026.
 
 Kishan is a garage and house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside Komanche, Alfie Fraser and Cozen. Next up: Club Makossa, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kishan is a garage and house artist based in United Kingdom, with 10 gigs on sou
 
 Komanche, Alfie Fraser, Cozen (2)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kishan/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kishan/)*

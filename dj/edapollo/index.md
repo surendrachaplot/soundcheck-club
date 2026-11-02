@@ -1,6 +1,6 @@
 # edapollo
 
-edapollo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Jazz Cafe, London on Sat, 7 Nov 2026.
+edapollo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Jazz Cafe, London on Sat, 7 Nov 2026.
 
 edapollo is a house and club artist based in United Kingdom, with 5 gigs on soundcheck across Amsterdam, London and San Francisco/Oakland. Often billed alongside ARJ (IR), Aaron F and Amatric. Next up: The Jazz Cafe, London on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ edapollo is a house and club artist based in United Kingdom, with 5 gigs on soun
 
 ARJ (IR), Aaron F, Amatric
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edapollo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edapollo/)*

@@ -1,6 +1,6 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Hector Oaks all night long + Egyptian Lover" on Sat, 7 Nov 2026.
+Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Hector Oaks all night long + Egyptian Lover" on Sat, 7 Nov 2026.
 
 Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Andres Campo, Ariezzz and Egyptian Lover and 2 more. See dates, start times and who's playing. Pinedo Valencia.
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, 
 
 Pinedo Valencia, Valencia
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

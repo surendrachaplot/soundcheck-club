@@ -1,8 +1,8 @@
 # Lilosh
 
-Lilosh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Tagada, Vienna on Sat, 5 Dec 2026.
+Lilosh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tagada, Vienna on Sat, 5 Dec 2026.
 
-Lilosh is a house and techno artist, with 9 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Vienna. Often billed alongside 2:cloudy, Ata and Cora Novoa. Next up: Tagada, Vienna on Sat 5 Dec.
+Lilosh is a house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Vienna. Often billed alongside 2:cloudy, Ata and Cora Novoa. Next up: Tagada, Vienna on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lilosh is a house and techno artist, with 9 gigs on soundcheck across Berlin, Fr
 
 2:cloudy, Ata, Cora Novoa
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilosh/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilosh/)*

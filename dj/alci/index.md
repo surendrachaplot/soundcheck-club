@@ -1,14 +1,13 @@
 # Alci
 
-Alci is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Sandy Beach Hotel & Resort, Dubai on Fri, 30 Oct 2026.
+Alci is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kult, Belgrade on Fri, 6 Nov 2026.
 
-Alci is a house and minimal artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Atlanta, Bahrain and Barcelona and 31 more. Often billed alongside Flavio (CH), Mateo Dufour and Toman. Next up: Sandy Beach Hotel & Resort, Dubai on Fri 30 Oct.
+Alci is a house and minimal artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Atlanta, Bahrain and Barcelona and 31 more. Often billed alongside Flavio (CH), Mateo Dufour and Toman. Next up: Kult, Belgrade on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Sandy Beach Hotel & Resort | Dubai |
 | Fri, 6 Nov 2026 | Kult | Belgrade |
 | Sat, 7 Nov 2026 | Circolo degli Illuminati | Rome |
 | Sat, 14 Nov 2026 | Supermarket | Zurich |
@@ -29,4 +28,4 @@ Alci is a house and minimal artist based in Switzerland, with 124 gigs on soundc
 
 Flavio (CH), Mateo Dufour, Toman
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alci/)*

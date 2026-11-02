@@ -1,8 +1,8 @@
 # mollygotmetrippin
 
-mollygotmetrippin is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at 618 DC, Washington DC on Fri, 13 Nov 2026.
+mollygotmetrippin is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at 618 DC, Washington DC on Fri, 13 Nov 2026.
 
-mollygotmetrippin is a hardcore and industrial artist, with 8 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Pouty's Rage, de.lus and DJ AstroNat. Next up: 618 DC, Washington DC on Fri 13 Nov.
+mollygotmetrippin is a hardcore and industrial artist based in United States of America, with 8 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Pouty's Rage, de.lus and DJ AstroNat. Next up: 618 DC, Washington DC on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ mollygotmetrippin is a hardcore and industrial artist, with 8 gigs on soundcheck
 
 Pouty's Rage, de.lus, DJ AstroNat
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollygotmetrippin/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollygotmetrippin/)*

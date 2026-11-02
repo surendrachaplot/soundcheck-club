@@ -1,8 +1,8 @@
 # Patås
 
-Patås is a Dub Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bassiani, Tbilisi on Sat, 14 Nov 2026.
+Patås is a Dub Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bassiani, Tbilisi on Sat, 14 Nov 2026.
 
-Patås is a dub techno and electro artist, with 15 gigs on soundcheck across Bergen, Helsinki, Oslo and Tbilisi. Often billed alongside Kim Dürbeck, Boyá and Larus Sigurvin. Next up: Bassiani, Tbilisi on Sat 14 Nov.
+Patås is a dub techno and electro artist based in Norway, with 15 gigs on soundcheck across Bergen, Helsinki, Oslo and Tbilisi. Often billed alongside Kim Dürbeck, Boyá and Larus Sigurvin. Next up: Bassiani, Tbilisi on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Patås is a dub techno and electro artist, with 15 gigs on soundcheck across Ber
 
 Kim Dürbeck, Boyá, Larus Sigurvin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patas/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patas/)*

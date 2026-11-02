@@ -1,14 +1,15 @@
 # Marcello Giordani
 
-Marcello Giordani is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at La Paloma, Barcelona on Fri, 6 Nov 2026.
+Marcello Giordani is a Italo Disco and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at La Paloma, Barcelona on Fri, 6 Nov 2026.
 
-Marcello Giordani is an italo disco and disco artist, with 11 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Los Angeles and 2 more. Often billed alongside Italo Deviance, Ansonica and Aroy Dee. Next up: La Paloma, Barcelona on Fri 6 Nov.
+Marcello Giordani is an italo disco and disco artist based in Italy, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Los Angeles and 3 more. Often billed alongside Italo Deviance, Alfieri and Ansonica. Next up: La Paloma, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | La Paloma | Barcelona |
+| Thu, 31 Dec 2026 | TBA - TUTTO / NIENTE Lugano | Switzerland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Marcello Giordani is an italo disco and disco artist, with 11 gigs on soundcheck
 
 ## Shares bills with
 
-Italo Deviance, Ansonica, Aroy Dee
+Italo Deviance, Alfieri, Ansonica
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcellogiordani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcellogiordani/)*

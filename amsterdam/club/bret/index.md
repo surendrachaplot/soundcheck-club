@@ -1,6 +1,6 @@
 # BRET
 
-BRET is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Cloonee" on Fri, 6 Nov 2026.
+BRET is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Cloonee" on Fri, 6 Nov 2026.
 
 BRET is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Maqossa, Al Ex, Alex Dima and Alexia Glensy and 2 more. See dates, start times and who's playing. Orlyplein 76, 1043 DP Amsterdam, Netherlands.
 
@@ -23,4 +23,4 @@ BRET is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with 
 
 Orlyplein 76, 1043 DP Amsterdam, Netherlands, Amsterdam
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/bret/)*

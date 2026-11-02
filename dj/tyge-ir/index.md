@@ -1,6 +1,6 @@
 # TYGE
 
-TYGE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at E1, London on Fri, 27 Nov 2026.
+TYGE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at E1, London on Fri, 27 Nov 2026.
 
 TYGE is a house and tech house artist based in Ireland, with 3 gigs on soundcheck across Dublin and London. Often billed alongside Carly Carmen, Dj Cash Only and Jimi Latifi. Next up: E1, London on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ TYGE is a house and tech house artist based in Ireland, with 3 gigs on soundchec
 
 Carly Carmen, Dj Cash Only, Jimi Latifi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tyge-ir/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tyge-ir/)*

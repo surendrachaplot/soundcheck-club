@@ -1,6 +1,6 @@
 # Theviacya
 
-Theviacya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Ciało, Wroclaw on Sat, 21 Nov 2026.
+Theviacya is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Ciało, Wroclaw on Sat, 21 Nov 2026.
 
 Theviacya is a techno and house artist based in Poland, with 34 gigs on soundcheck across Hamburg, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Claude Degas, RĀMZĪ and ADHARDER. Next up: Ciało, Wroclaw on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Theviacya is a techno and house artist based in Poland, with 34 gigs on soundche
 
 Claude Degas, RĀMZĪ, ADHARDER
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theviacya/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theviacya/)*

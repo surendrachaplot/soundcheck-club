@@ -1,8 +1,8 @@
 # Totino
 
-Totino is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 7 Nov 2026.
+Totino is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 7 Nov 2026.
 
-Totino is a techno and electro artist, with 12 gigs on soundcheck across Milan. Often billed alongside Guglielmo Morandini, Giorgio Di Majo and Dario Lem. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 7 Nov.
+Totino is a techno and electro artist based in Italy, with 12 gigs on soundcheck across Milan. Often billed alongside Guglielmo Morandini, Giorgio Di Majo and Dario Lem. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Totino is a techno and electro artist, with 12 gigs on soundcheck across Milan. 
 
 Guglielmo Morandini, Giorgio Di Majo, Dario Lem
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totino/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totino/)*

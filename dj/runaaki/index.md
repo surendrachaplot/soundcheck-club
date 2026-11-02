@@ -1,6 +1,6 @@
 # Runaaki
 
-Runaaki is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at fono, Kuala Lumpur on Fri, 6 Nov 2026.
+Runaaki is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at fono, Kuala Lumpur on Fri, 6 Nov 2026.
 
 Runaaki is a dubstep and dub artist, with 2 gigs on soundcheck across Kuala Lumpur. Often billed alongside Jony Maddkidz, Deep Tempo and SOMEBODYYYY. Next up: fono, Kuala Lumpur on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Runaaki is a dubstep and dub artist, with 2 gigs on soundcheck across Kuala Lump
 
 Jony Maddkidz, Deep Tempo, SOMEBODYYYY
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runaaki/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/runaaki/)*

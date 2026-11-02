@@ -1,6 +1,6 @@
 # Mika Vainio
 
-Mika Vainio is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 14 Nov 2026.
+Mika Vainio is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at EXIT Glasgow, Glasgow on Sat, 14 Nov 2026.
 
 Mika Vainio is a techno and experimental artist, with 3 gigs on soundcheck across Geneva, Glasgow and London. Often billed alongside 51717, Ilpo Väisänen and MICROCORPS. Next up: EXIT Glasgow, Glasgow on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Mika Vainio is a techno and experimental artist, with 3 gigs on soundcheck acros
 
 51717, Ilpo Väisänen, MICROCORPS
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikavainio/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikavainio/)*

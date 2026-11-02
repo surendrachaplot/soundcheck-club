@@ -1,6 +1,6 @@
 # Mesalina
 
-Mesalina is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Aparato, Monterrey on Fri, 13 Nov 2026.
+Mesalina is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Aparato, Monterrey on Fri, 13 Nov 2026.
 
 Mesalina is a techno artist based in Mexico, with 2 gigs on soundcheck across Monterrey. Often billed alongside Matter Of Seconds. Next up: Aparato, Monterrey on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ Mesalina is a techno artist based in Mexico, with 2 gigs on soundcheck across Mo
 
 Matter Of Seconds
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mesalina/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mesalina/)*

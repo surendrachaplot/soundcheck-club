@@ -1,8 +1,8 @@
 # ad Sol Collective
 
-ad Sol Collective is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - NOTTING HILL WEST LONDON , London on Fri, 27 Nov 2026.
+ad Sol Collective is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - NOTTING HILL WEST LONDON , London on Fri, 27 Nov 2026.
 
-ad Sol Collective is a house and minimal artist, with 10 gigs on soundcheck across Amsterdam, London and Milan. Often billed alongside DJibouti, Vithz and Alessandro Miranda. Next up: TBA - NOTTING HILL WEST LONDON , London on Fri 27 Nov.
+ad Sol Collective is a house and minimal artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, London and Milan. Often billed alongside DJibouti, Vithz and Alessandro Miranda. Next up: TBA - NOTTING HILL WEST LONDON , London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ ad Sol Collective is a house and minimal artist, with 10 gigs on soundcheck acro
 
 DJibouti, Vithz, Alessandro Miranda
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adsolcollective/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adsolcollective/)*

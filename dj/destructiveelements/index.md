@@ -1,6 +1,6 @@
 # Destructive Elements
 
-Destructive Elements is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+Destructive Elements is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 Destructive Elements is an electronic artist based in Russia, with 2 gigs on soundcheck across Moscow. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -18,4 +18,4 @@ Destructive Elements is an electronic artist based in Russia, with 2 gigs on sou
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/destructiveelements/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/destructiveelements/)*

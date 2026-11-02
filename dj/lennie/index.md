@@ -1,6 +1,6 @@
 # Lennie
 
-Lennie is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Doka, Amsterdam on Fri, 20 Nov 2026.
+Lennie is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Doka, Amsterdam on Fri, 20 Nov 2026.
 
 Lennie is a minimal and house artist based in Netherlands, with 2 gigs on soundcheck across Amsterdam. Often billed alongside 36framez, Call Super and Doppelgang. Next up: Doka, Amsterdam on Fri 20 Nov.
 
@@ -18,4 +18,4 @@ Lennie is a minimal and house artist based in Netherlands, with 2 gigs on soundc
 
 36framez, Call Super, Doppelgang
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennie/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennie/)*

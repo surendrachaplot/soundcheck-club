@@ -1,6 +1,6 @@
 # Mozey
 
-Mozey is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Komplex 457, Zurich on Sat, 7 Nov 2026.
+Mozey is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Komplex 457, Zurich on Sat, 7 Nov 2026.
 
 Mozey is a drum & bass and jungle artist based in United Kingdom, with 114 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 36 more. Often billed alongside Hedex, K Motionz and Kanine. Next up: TBA - Komplex 457, Zurich on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Mozey is a drum & bass and jungle artist based in United Kingdom, with 114 gigs 
 
 Hedex, K Motionz, Kanine
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mozey/)*

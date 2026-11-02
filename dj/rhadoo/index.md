@@ -1,14 +1,13 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The White Hotel, Manchester on Sun, 1 Nov 2026.
+Rhadoo is a Minimal and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Robert Johnson, Hesse on Fri, 13 Nov 2026.
 
-Rhadoo is a minimal and house artist based in Romania, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: The White Hotel, Manchester on Sun 1 Nov.
+Rhadoo is a minimal and house artist based in Romania, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Robert Johnson, Hesse on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | The White Hotel | Manchester |
 | Fri, 13 Nov 2026 | Robert Johnson | Hesse |
 | Sat, 14 Nov 2026 | Sonnenraum | Berlin |
 | Sun, 15 Nov 2026 | essaim | Paris |
@@ -21,6 +20,7 @@ Rhadoo is a minimal and house artist based in Romania, with 196 gigs on soundche
 
 ## Recently played
 
+- The White Hotel, Manchester · Sun, 1 Nov 2026
 - Les Enfants Brillants, Barcelona · Fri, 30 Oct 2026
 - Under Bron, Stockholm · Sat, 10 Oct 2026
 - Les Beaux-Arts de Marseille - Inseamm., Marseille · Fri, 9 Oct 2026
@@ -28,10 +28,9 @@ Rhadoo is a minimal and house artist based in Romania, with 196 gigs on soundche
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - TBA - East Williamsburg, New York City · Fri, 18 Sept 2026
-- Camp Kennybrook, New York City · Thu, 10 Sept 2026
 
 ## Shares bills with
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

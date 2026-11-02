@@ -1,8 +1,8 @@
 # Lorenzo Fortino
 
-Lorenzo Fortino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Electronic Music Division , Rome on Wed, 11 Nov 2026.
+Lorenzo Fortino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Electronic Music Division , Rome on Wed, 11 Nov 2026.
 
-Lorenzo Fortino is a techno and house artist, with 12 gigs on soundcheck across Berlin, Florence and Rome. Often billed alongside Francesco Salvadori, Achieh and Basse Frequenze Soundsystem. Next up: TBA - Electronic Music Division , Rome on Wed 11 Nov.
+Lorenzo Fortino is a techno and house artist based in Italy, with 12 gigs on soundcheck across Berlin, Florence and Rome. Often billed alongside Francesco Salvadori, Achieh and Basse Frequenze Soundsystem. Next up: TBA - Electronic Music Division , Rome on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Lorenzo Fortino is a techno and house artist, with 12 gigs on soundcheck across 
 
 Francesco Salvadori, Achieh, Basse Frequenze Soundsystem
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzofortino/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzofortino/)*

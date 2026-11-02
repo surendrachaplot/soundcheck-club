@@ -1,14 +1,13 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
+Jamie Jones is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Space Miami, Miami on Thu, 3 Dec 2026.
 
-Jamie Jones is a house and tech house artist based in United Kingdom, with 231 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside Joseph Capriati, Seth Troxler and Loco Dice. Next up: Factory Town, Miami on Fri 30 Oct.
+Jamie Jones is a house and tech house artist based in United Kingdom, with 231 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 40 more. Often billed alongside Joseph Capriati, Seth Troxler and Loco Dice. Next up: Club Space Miami, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | Club Space Miami | Miami |
 | Sun, 27 Dec 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Jun 2027 | Wollaton Park | Nottingham |
@@ -28,4 +27,4 @@ Jamie Jones is a house and tech house artist based in United Kingdom, with 231 g
 
 Joseph Capriati, Seth Troxler, Loco Dice
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiejones/)*

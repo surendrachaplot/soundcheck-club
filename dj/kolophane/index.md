@@ -1,6 +1,6 @@
 # Kolophane
 
-Kolophane is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Igloofest, Montreal on Fri, 5 Feb 2027.
+Kolophane is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Igloofest, Montreal on Fri, 5 Feb 2027.
 
 Kolophane is a progressive house and techno artist based in Canada, with 9 gigs on soundcheck across Montreal. Often billed alongside AYEENB, Underthebed and Berkaï. Next up: Igloofest, Montreal on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Kolophane is a progressive house and techno artist based in Canada, with 9 gigs 
 
 AYEENB, Underthebed, Berkaï
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolophane/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolophane/)*

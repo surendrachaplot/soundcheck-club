@@ -1,6 +1,6 @@
 # Daniel Dee
 
-Daniel Dee is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at NEO CLUB ROMA, Rome on Sun, 20 Dec 2026.
+Daniel Dee is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at NEO CLUB ROMA, Rome on Sun, 20 Dec 2026.
 
 Daniel Dee is a progressive house and deep house artist based in Italy, with 3 gigs on soundcheck across Rome. Often billed alongside Inner Sight and Ruben Karapetyan. Next up: NEO CLUB ROMA, Rome on Sun 20 Dec.
 
@@ -19,4 +19,4 @@ Daniel Dee is a progressive house and deep house artist based in Italy, with 3 g
 
 Inner Sight, Ruben Karapetyan
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldee/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danieldee/)*

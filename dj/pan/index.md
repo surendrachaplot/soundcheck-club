@@ -1,14 +1,15 @@
 # Pan.
 
-Pan. is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
+Pan. is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
 
-Pan. is a techno and electronica artist, with 7 gigs on soundcheck across Cyprus, Istanbul, London and Madrid and 2 more. Often billed alongside Abana, Alex Dallas and Cille. Next up: The Warehouse By IT Quarter, Cyprus on Sat 7 Nov.
+Pan. is a techno and electronica artist based in Cyprus, with 8 gigs on soundcheck across Cyprus, Istanbul, London and Madrid and 2 more. Often billed alongside Abana, Alex Dallas and CAMET. Next up: The Warehouse By IT Quarter, Cyprus on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Warehouse By IT Quarter | Cyprus |
+| Sat, 21 Nov 2026 | Mason Bar | Cyprus |
 | Sat, 28 Nov 2026 | Mason Bar | Cyprus |
 
 ## Recently played
@@ -21,6 +22,6 @@ Pan. is a techno and electronica artist, with 7 gigs on soundcheck across Cyprus
 
 ## Shares bills with
 
-Abana, Alex Dallas, Cille
+Abana, Alex Dallas, CAMET
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan/)*

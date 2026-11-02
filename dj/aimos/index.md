@@ -1,8 +1,8 @@
 # Aimos
 
-Aimos is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at 88block, Tokyo on Fri, 27 Nov 2026.
+Aimos is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at 88block, Tokyo on Fri, 27 Nov 2026.
 
-Aimos is a dub and bass artist, with 3 gigs on soundcheck across Tokyo. Often billed alongside Diceman, Anela and CITY1. Next up: 88block, Tokyo on Fri 27 Nov.
+Aimos is a dub and bass artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside Diceman, Anela and CITY1. Next up: 88block, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -19,4 +19,4 @@ Aimos is a dub and bass artist, with 3 gigs on soundcheck across Tokyo. Often bi
 
 Diceman, Anela, CITY1
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aimos/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aimos/)*

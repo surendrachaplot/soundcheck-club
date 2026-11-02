@@ -1,8 +1,8 @@
 # pizzaguts
 
-pizzaguts is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Mister Zhangs, Cleveland on Fri, 20 Nov 2026.
+pizzaguts is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Mister Zhangs, Cleveland on Fri, 20 Nov 2026.
 
-pizzaguts is a techno and breakbeat artist, with 2 gigs on soundcheck across Cleveland. Often billed alongside HunnyBunny, Ryoko and maksim.. Next up: Mister Zhangs, Cleveland on Fri 20 Nov.
+pizzaguts is a techno and breakbeat artist based in United States of America, with 2 gigs on soundcheck across Cleveland. Often billed alongside HunnyBunny, Ryoko and maksim.. Next up: Mister Zhangs, Cleveland on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -18,4 +18,4 @@ pizzaguts is a techno and breakbeat artist, with 2 gigs on soundcheck across Cle
 
 HunnyBunny, Ryoko, maksim.
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzaguts/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pizzaguts/)*

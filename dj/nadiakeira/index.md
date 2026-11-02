@@ -1,8 +1,8 @@
 # Nadia Keira
 
-Nadia Keira is a Amapiano and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lofi, Amsterdam on Sat, 21 Nov 2026.
+Nadia Keira is a Amapiano and UK Funky artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lofi, Amsterdam on Sat, 21 Nov 2026.
 
-Nadia Keira is an amapiano and uk funky artist, with 19 gigs on soundcheck across Amsterdam, Paris, Seoul and Tokyo. Often billed alongside Broodoo Ramses, Cezaire and George Bolton. Next up: Lofi, Amsterdam on Sat 21 Nov.
+Nadia Keira is an amapiano and uk funky artist based in France, with 19 gigs on soundcheck across Amsterdam, Paris, Seoul and Tokyo. Often billed alongside Broodoo Ramses, Cezaire and George Bolton. Next up: Lofi, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nadia Keira is an amapiano and uk funky artist, with 19 gigs on soundcheck acros
 
 Broodoo Ramses, Cezaire, George Bolton
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiakeira/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiakeira/)*

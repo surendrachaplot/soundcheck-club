@@ -1,6 +1,6 @@
 # Rata
 
-Rata is a Tech House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Nevermind Bar, Melbourne on Sat, 7 Nov 2026.
+Rata is a Tech House and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Nevermind Bar, Melbourne on Sat, 7 Nov 2026.
 
 Rata is a tech house and jungle artist, with 2 gigs on soundcheck across Melbourne and Toronto. Often billed alongside Getting Wiser, MELTA and Simeon Orbis. Next up: Nevermind Bar, Melbourne on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ Rata is a tech house and jungle artist, with 2 gigs on soundcheck across Melbour
 
 Getting Wiser, MELTA, Simeon Orbis
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rata/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rata/)*

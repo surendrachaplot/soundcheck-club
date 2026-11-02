@@ -1,6 +1,6 @@
 # Scott W.
 
-Scott W. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, Vancouver on Fri, 27 Nov 2026.
+Scott W. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Vancouver on Fri, 27 Nov 2026.
 
 Scott W. is a techno and house artist based in Canada, with 24 gigs on soundcheck across Calgary, Osaka, Portland and Tokyo and 2 more. Often billed alongside Dane, KAITO. and Beiti. Next up: TBA, Vancouver on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Scott W. is a techno and house artist based in Canada, with 24 gigs on soundchec
 
 Dane, KAITO., Beiti
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottw./)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scottw./)*

@@ -1,6 +1,6 @@
 # Studio dB
 
-Studio dB is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Half - Dead - Body - Talks" on Thu, 5 Nov 2026.
+Studio dB is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Half - Dead - Body - Talks" on Thu, 5 Nov 2026.
 
 Studio dB is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Bungalovv, Gabs Leyton, Hollis P. Monroe and Marian Tone and 2 more. See dates, start times and who's playing. Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin.
 
@@ -17,4 +17,4 @@ Studio dB is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with
 
 Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-db/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio-db/)*

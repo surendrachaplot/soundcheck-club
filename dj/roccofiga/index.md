@@ -1,14 +1,13 @@
 # ROCCO (FIGA)
 
-ROCCO (FIGA) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+ROCCO (FIGA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Jupiter Disco, New York City on Fri, 13 Nov 2026.
 
-ROCCO (FIGA) is a techno and house artist based in United States of America, with 25 gigs on soundcheck across New York City and Seattle. Often billed alongside LUNÁTICA, Lester Fitzpatrick and Concrete Husband. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
+ROCCO (FIGA) is a techno and house artist based in United States of America, with 25 gigs on soundcheck across New York City and Seattle. Often billed alongside LUNÁTICA, Lester Fitzpatrick and Concrete Husband. Next up: Jupiter Disco, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 | Fri, 13 Nov 2026 | Jupiter Disco | New York City |
 
 ## Recently played
@@ -26,4 +25,4 @@ ROCCO (FIGA) is a techno and house artist based in United States of America, wit
 
 LUNÁTICA, Lester Fitzpatrick, Concrete Husband
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofiga/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roccofiga/)*

@@ -1,14 +1,13 @@
 # Neue Zukunft
 
-Neue Zukunft is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Crocodiles, Shybits" on Fri, 30 Oct 2026.
+Neue Zukunft is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Godzilla In The Kitchen, Mudfinger" on Tue, 10 Nov 2026.
 
-Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
+Neue Zukunft is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Die Wilde Jagd. See dates, start times and who's playing. Alt-Stralau 68, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Crocodiles, Shybits |  |
 | Tue, 10 Nov 2026 | Godzilla In The Kitchen, Mudfinger |  |
 | Thu, 12 Nov 2026 | Elephant Stone, Sacred Buzz |  |
 | Fri, 27 Nov 2026 | BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft |  |
@@ -21,4 +20,4 @@ Neue Zukunft is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, w
 
 Alt-Stralau 68, 10245 Berlin, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/neue-zukunft/)*

@@ -1,6 +1,6 @@
 # Pielson
 
-Pielson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+Pielson is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 Pielson is a techno and house artist based in Poland, with 2 gigs on soundcheck across Warsaw. Often billed alongside Granatka, B93 (PL) and Casper Weiss. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Pielson is a techno and house artist based in Poland, with 2 gigs on soundcheck 
 
 Granatka, B93 (PL), Casper Weiss
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pielson/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pielson/)*

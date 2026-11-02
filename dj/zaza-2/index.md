@@ -1,6 +1,6 @@
 # ZAZA (2)
 
-ZAZA (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+ZAZA (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 ZAZA is a techno and house artist based in Poland, with 4 gigs on soundcheck across Warsaw. Often billed alongside Adam Obrębski, Aetha and Ane. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ ZAZA is a techno and house artist based in Poland, with 4 gigs on soundcheck acr
 
 Adam Obrębski, Aetha, Ane
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaza-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zaza-2/)*

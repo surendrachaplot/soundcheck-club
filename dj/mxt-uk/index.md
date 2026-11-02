@@ -1,14 +1,15 @@
 # MXT (UK)
 
-MXT (UK) is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Parallel 45, London on Fri, 4 Dec 2026.
+MXT (UK) is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Parallel 45, London on Fri, 4 Dec 2026.
 
-MXT (UK) is a deep house and house artist based in United Kingdom, with 12 gigs on soundcheck across Lisbon and London. Often billed alongside Azire, Kesh and Steamy Bumplings. Next up: Parallel 45, London on Fri 4 Dec.
+MXT (UK) is a deep house and house artist based in United Kingdom, with 13 gigs on soundcheck across Lisbon, London and Manchester. Often billed alongside Azire, Kesh and Steamy Bumplings. Next up: Parallel 45, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Parallel 45 | London |
+| Sun, 27 Dec 2026 | Six Trees Bar And Kitchen Manchester | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MXT (UK) is a deep house and house artist based in United Kingdom, with 12 gigs 
 
 Azire, Kesh (1), Steamy Bumplings
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxt-uk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mxt-uk/)*

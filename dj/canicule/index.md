@@ -1,6 +1,6 @@
 # Canicule
 
-Canicule is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Otto bar., Hanoi on Sat, 28 Nov 2026.
+Canicule is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Otto bar., Hanoi on Sat, 28 Nov 2026.
 
 Canicule is a techno and experimental artist based in Colombia, with 20 gigs on soundcheck across Hanoi and Lausanne. Often billed alongside AiLien, Marco Yanes and Tanohi. Next up: Otto bar., Hanoi on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Canicule is a techno and experimental artist based in Colombia, with 20 gigs on 
 
 AiLien, Marco Yanes, Tanohi
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/canicule/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/canicule/)*

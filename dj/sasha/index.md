@@ -1,6 +1,6 @@
 # Sasha
 
-Sasha is a Progressive House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Bikini Club, Barcelona on Sat, 7 Nov 2026.
+Sasha is a Progressive House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bikini Club, Barcelona on Sat, 7 Nov 2026.
 
 Sasha is a progressive house and techno artist based in United Kingdom, with 185 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 58 more. Often billed alongside John Digweed, Franky Wah and Patrice Bäumel. Next up: Bikini Club, Barcelona on Sat 7 Nov.
 
@@ -34,4 +34,4 @@ Sasha is a progressive house and techno artist based in United Kingdom, with 185
 
 John Digweed, Franky Wah, Patrice Bäumel
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasha/)*

@@ -1,8 +1,8 @@
 # Gryffin
 
-Gryffin is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+Gryffin is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
-Gryffin is a house and bass artist, with 28 gigs on soundcheck across Austin, Boston, Brisbane and Dallas Fort Worth and 16 more. Often billed alongside Alesso, KREAM and The Chainsmokers. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
+Gryffin is a house and bass artist based in United States of America, with 28 gigs on soundcheck across Austin, Boston, Brisbane and Dallas Fort Worth and 16 more. Often billed alongside Alesso, KREAM and The Chainsmokers. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Gryffin is a house and bass artist, with 28 gigs on soundcheck across Austin, Bo
 
 Alesso, KREAM, The Chainsmokers
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gryffin/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gryffin/)*

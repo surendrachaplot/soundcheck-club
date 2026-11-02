@@ -1,6 +1,6 @@
 # OT301
 
-OT301 is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Robinbird presents: Music for the Information Age" on Thu, 5 Nov 2026.
+OT301 is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Robinbird presents: Music for the Information Age" on Thu, 5 Nov 2026.
 
 OT301 is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including Antoinette, Cinnaman, Déandrah and dj Lis and 2 more. See dates, start times and who's playing. Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands.
 
@@ -23,4 +23,4 @@ OT301 is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with
 
 Overtoom 301; 1054 Oud-West; Amsterdam; Netherlands, Amsterdam
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/ot301/)*

@@ -1,6 +1,6 @@
 # Gwinestefani
 
-Gwinestefani is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bar Datcha, Montreal on Sat, 21 Nov 2026.
+Gwinestefani is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bar Datcha, Montreal on Sat, 21 Nov 2026.
 
 Gwinestefani is a disco and house artist based in Canada, with 2 gigs on soundcheck across Montreal. Often billed alongside Arielle Roberge. Next up: Bar Datcha, Montreal on Sat 21 Nov.
 
@@ -18,4 +18,4 @@ Gwinestefani is a disco and house artist based in Canada, with 2 gigs on soundch
 
 Arielle Roberge
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwinestefani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwinestefani/)*

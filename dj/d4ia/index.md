@@ -1,6 +1,6 @@
 # d4ia
 
-d4ia is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+d4ia is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 d4ia is a techno and tech house artist based in France, with 4 gigs on soundcheck across Berlin. Often billed alongside Ankit, DJ Hitwave and EVYA. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ d4ia is a techno and tech house artist based in France, with 4 gigs on soundchec
 
 Ankit, DJ Hitwave, EVYA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d4ia/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d4ia/)*

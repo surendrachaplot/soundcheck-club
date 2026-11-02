@@ -1,6 +1,6 @@
 # The Hifi Club
 
-The Hifi Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Mindweaver Events presents Jon Dasilva" on Sat, 7 Nov 2026.
+The Hifi Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Mindweaver Events presents Jon Dasilva" on Sat, 7 Nov 2026.
 
 The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 2 Central Road; Leeds; LS1 6DE; United Kingdom.
 
@@ -15,4 +15,4 @@ The Hifi Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs. S
 
 2 Central Road; Leeds; LS1 6DE; United Kingdom, Leeds
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-hifi-club/)*

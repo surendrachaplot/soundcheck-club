@@ -1,6 +1,6 @@
 # Radial Gaze
 
-Radial Gaze is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Georgia Bar, Berlin on Sat, 7 Nov 2026.
+Radial Gaze is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Georgia Bar, Berlin on Sat, 7 Nov 2026.
 
 Radial Gaze is an electro and house artist based in Germany, with 5 gigs on soundcheck across Barcelona, Berlin, Cologne and Vienna. Often billed alongside Ludviq, Annyrock and Etane. Next up: Georgia Bar, Berlin on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Radial Gaze is an electro and house artist based in Germany, with 5 gigs on soun
 
 Ludviq, Annyrock, Etane
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radialgaze/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radialgaze/)*

@@ -1,6 +1,6 @@
 # Oliver Sullivan
 
-Oliver Sullivan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Panama, Amsterdam on Sat, 28 Nov 2026.
+Oliver Sullivan is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Panama, Amsterdam on Sat, 28 Nov 2026.
 
 Oliver Sullivan is a tech house and house artist based in Switzerland, with 2 gigs on soundcheck across Amsterdam and Turin. Next up: Panama, Amsterdam on Sat 28 Nov.
 
@@ -14,4 +14,4 @@ Oliver Sullivan is a tech house and house artist based in Switzerland, with 2 gi
 
 - Bere In Tipografia, Turin · Sat, 25 Jul 2026
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversullivan/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliversullivan/)*

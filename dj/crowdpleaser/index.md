@@ -1,8 +1,8 @@
 # Crowdpleaser
 
-Crowdpleaser is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Golden Gate, Berlin on Sat, 14 Nov 2026.
+Crowdpleaser is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Golden Gate, Berlin on Sat, 14 Nov 2026.
 
-Crowdpleaser is a techno and minimal artist, with 7 gigs on soundcheck across Berlin, Geneva, Munich and Rotterdam and 1 more. Often billed alongside Mr. Laboso, AARON and AUBE. Next up: Golden Gate, Berlin on Sat 14 Nov.
+Crowdpleaser is a techno and minimal artist based in Switzerland, with 7 gigs on soundcheck across Berlin, Geneva, Munich and Rotterdam and 1 more. Often billed alongside Mr. Laboso, AARON and AUBE. Next up: Golden Gate, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Crowdpleaser is a techno and minimal artist, with 7 gigs on soundcheck across Be
 
 Mr. Laboso, AARON, AUBE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crowdpleaser/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crowdpleaser/)*

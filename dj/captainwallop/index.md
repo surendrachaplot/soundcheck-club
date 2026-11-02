@@ -1,14 +1,13 @@
 # Captain Wallop
 
-Captain Wallop is a Garage and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Cause, London on Sun, 1 Nov 2026.
+Captain Wallop is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
 
-Captain Wallop is a garage and house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside RTK Tarantino, MADVILLA and DAISY. Next up: The Cause, London on Sun 1 Nov.
+Captain Wallop is a garage and house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside RTK Tarantino, MADVILLA and DAISY. Next up: The Cause, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | The Cause | London |
 | Sat, 7 Nov 2026 | The Cause | London |
 | Fri, 13 Nov 2026 | Lakota | Bristol |
 | Sat, 21 Nov 2026 | 24 Kitchen Street | Liverpool |
@@ -20,6 +19,7 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 59 gig
 
 ## Recently played
 
+- The Cause, London · Sun, 1 Nov 2026
 - Quarters, Brighton · Sat, 31 Oct 2026
 - Jacobs Basement, Cardiff · Sat, 10 Oct 2026
 - Cabaret Voltaire, Edinburgh · Fri, 9 Oct 2026
@@ -27,10 +27,9 @@ Captain Wallop is a garage and house artist based in United Kingdom, with 59 gig
 - The Brickworks, Nottingham · Fri, 2 Oct 2026
 - Kapsule, Liverpool · Sat, 26 Sept 2026
 - Ouseburn Garden, Newcastle · Sat, 26 Sept 2026
-- The Loft, Manchester · Thu, 24 Sept 2026
 
 ## Shares bills with
 
 RTK Tarantino, MADVILLA, DAISY
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/captainwallop/)*

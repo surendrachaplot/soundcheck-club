@@ -1,8 +1,8 @@
 # Black Lotus
 
-Black Lotus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at XuXa, Austin on Sat, 7 Nov 2026.
+Black Lotus is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at XuXa, Austin on Sat, 7 Nov 2026.
 
-Black Lotus is a techno and acid artist, with 33 gigs on soundcheck across Austin, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside A.Paul, Carla Schmitt and Melanie Havens. Next up: XuXa, Austin on Sat 7 Nov.
+Black Lotus is a techno and acid artist based in Germany, with 33 gigs on soundcheck across Austin, Barcelona, Berlin and Bogotá and 15 more. Often billed alongside A.Paul, Carla Schmitt and Melanie Havens. Next up: XuXa, Austin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Black Lotus is a techno and acid artist, with 33 gigs on soundcheck across Austi
 
 A.Paul, Carla Schmitt, Melanie Havens
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklotus-de/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklotus-de/)*

@@ -1,14 +1,13 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Heavenphetamine + Accident Machine - McChuills Glasgow" on Sun, 1 Nov 2026.
+McChuills Music Bar is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Bonzai Bonner (4 HOUR BAR SET) at McChuills - Free Entry" on Fri, 6 Nov 2026.
 
-McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 9 upcoming gigs, with line-ups including Accident Machine, Bonzai Bonner, David Vunk and Woody McBride and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
+McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including Bonzai Bonner, David Vunk, Woody McBride and Gary Beck and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Heavenphetamine + Accident Machine - McChuills Glasgow | Accident Machine |
 | Fri, 6 Nov 2026 | Bonzai Bonner (4 HOUR BAR SET) at McChuills - Free Entry | Bonzai Bonner |
 | Sat, 7 Nov 2026 | Shoot Your Shot X Let's Go Back - INTO THE VAULT (NEW BEAT / EBM / ACID) | Bonzai Bonner |
 | Sun, 15 Nov 2026 | LET'S GO BACK presents: Suddi Raval (Together 'Hardcore Uproar') | Suddi Raval |
@@ -22,4 +21,4 @@ McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 9 upcoming
 
 80 High St, Glasgow G1 1NL, Glasgow
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/mcchuills-music-bar/)*

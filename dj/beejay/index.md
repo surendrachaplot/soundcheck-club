@@ -1,8 +1,8 @@
 # Beejay
 
-Beejay is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 6 Nov 2026.
+Beejay is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ximxim Bar, Seoul on Fri, 6 Nov 2026.
 
-Beejay is a house and deep house artist, with 53 gigs on soundcheck across Seoul. Often billed alongside Better, OOFY and Claire (KR). Next up: Ximxim Bar, Seoul on Fri 6 Nov.
+Beejay is a house and deep house artist based in South Korea, with 53 gigs on soundcheck across Seoul. Often billed alongside Better, OOFY and Claire (KR). Next up: Ximxim Bar, Seoul on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Beejay is a house and deep house artist, with 53 gigs on soundcheck across Seoul
 
 Better, OOFY, Claire (KR)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beejay/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beejay/)*

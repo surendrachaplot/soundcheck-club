@@ -1,8 +1,8 @@
 # Carnero
 
-Carnero is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - secret location, Zagreb on Fri, 13 Nov 2026.
+Carnero is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - secret location, Zagreb on Fri, 13 Nov 2026.
 
-Carnero is an electronica and techno artist, with 25 gigs on soundcheck across The Hague and Zagreb. Often billed alongside Allan, DJ Labud and BU_MF. Next up: TBA - secret location, Zagreb on Fri 13 Nov.
+Carnero is an electronica and techno artist based in Croatia, with 25 gigs on soundcheck across The Hague and Zagreb. Often billed alongside Allan, DJ Labud and BU_MF. Next up: TBA - secret location, Zagreb on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Carnero is an electronica and techno artist, with 25 gigs on soundcheck across T
 
 Allan, DJ Labud, BU_MF
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carnero/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carnero/)*

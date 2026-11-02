@@ -1,6 +1,6 @@
 # Anthony Zmoda
 
-Anthony Zmoda is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at DNA Lounge, San Francisco/Oakland on Sat, 14 Nov 2026.
+Anthony Zmoda is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at DNA Lounge, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Anthony Zmoda is a techno and deep house artist, with 3 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Emanate, DNEB and Damienn. Next up: DNA Lounge, San Francisco/Oakland on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Anthony Zmoda is a techno and deep house artist, with 3 gigs on soundcheck acros
 
 Emanate, DNEB, Damienn
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyzmoda/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonyzmoda/)*

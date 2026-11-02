@@ -1,6 +1,6 @@
 # Jb..
 
-Jb.. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Arch 14, London on Fri, 18 Dec 2026.
+Jb.. is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Arch 14, London on Fri, 18 Dec 2026.
 
 Jb.. is a house and tech house artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Bengoa, Duat and Eva Banks. Next up: Arch 14, London on Fri 18 Dec.
 
@@ -18,4 +18,4 @@ Jb.. is a house and tech house artist based in United Kingdom, with 2 gigs on so
 
 Bengoa, Duat, Eva Banks
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jb../)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jb../)*

@@ -1,13 +1,14 @@
 # Raphus
 
-Raphus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Westhafen, Leipzig on Tue, 17 Nov 2026.
+Raphus is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
 
-Raphus is a techno and trance artist based in Germany, with 25 gigs on soundcheck across Berlin, Leipzig and Lyon. Often billed alongside VLUNA, CAVVØ and Meyhartt. Next up: Westhafen, Leipzig on Tue 17 Nov.
+Raphus is a techno and trance artist based in Germany, with 26 gigs on soundcheck across Berlin, Leipzig and Lyon. Often billed alongside VLUNA, CAVVØ and Meyhartt. Next up: Ilses Erika, Leipzig on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Ilses Erika | Leipzig |
 | Tue, 17 Nov 2026 | Westhafen | Leipzig |
 
 ## Recently played
@@ -25,4 +26,4 @@ Raphus is a techno and trance artist based in Germany, with 25 gigs on soundchec
 
 VLUNA, CAVVØ, Meyhartt
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphus/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphus/)*

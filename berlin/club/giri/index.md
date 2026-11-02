@@ -1,6 +1,6 @@
 # Giri
 
-Giri is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Giri x SCHALL, listening session" on Wed, 4 Nov 2026.
+Giri is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Giri x SCHALL, listening session" on Wed, 4 Nov 2026.
 
 Giri is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including alizé.e, Am Nil, ANNARA and Avilynn and 2 more. See dates, start times and who's playing. Hermannstrasse 14, 12049 Berlin.
 
@@ -15,7 +15,7 @@ Giri is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with lin
 | Thu, 12 Nov 2026 | Giri x Kreatures  | B.A.O., Eli Bot, femnms |
 | Fri, 13 Nov 2026 | Giri x Éclat release |  |
 | Wed, 18 Nov 2026 | Giri x SYNESTRANSIA Experiment #5: The Freedom of Five | ANNARA, DJ Trade Trainer, MADAKYA, SXCL |
-| Thu, 19 Nov 2026 | Giri x Liquid Code |  |
+| Thu, 19 Nov 2026 | Giri x Liquid Code | Mambo Kahn, Rolex3k |
 | Fri, 20 Nov 2026 | RA25 UNLOCKED x Berlin community radios - Free panel talk and networking | Triqi, alizé.e |
 | Wed, 25 Nov 2026 | Giri x Precision.wav | Caldo, Gian, paganipagani |
 
@@ -23,4 +23,4 @@ Giri is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with lin
 
 Hermannstrasse 14, 12049 Berlin, Berlin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/giri/)*

@@ -1,6 +1,6 @@
 # Katie Barber
 
-Katie Barber is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Light Bar, London on Fri, 1 Jan 2027.
+Katie Barber is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Light Bar, London on Fri, 1 Jan 2027.
 
 Katie Barber is a house and disco artist based in United Kingdom, with 4 gigs on soundcheck across Brighton and London. Often billed alongside Stuart Patterson, Terry Farley and Afronaut UK. Next up: The Light Bar, London on Fri 1 Jan.
 
@@ -20,4 +20,4 @@ Katie Barber is a house and disco artist based in United Kingdom, with 4 gigs on
 
 Stuart Patterson, Terry Farley, Afronaut UK
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebarber/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebarber/)*

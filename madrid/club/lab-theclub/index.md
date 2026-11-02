@@ -1,14 +1,13 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "La Malquerida presenta Roger Sanchez" on Sun, 1 Nov 2026.
+LAB theCLUB is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "VIPPER CLUB II ANIVERSARIO with Pendulum DJ SET, SOTA" on Fri, 6 Nov 2026.
 
-LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including ART NO LOGIA, Brenda Serna, Claptone and Djammin and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
+LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including ART NO LOGIA, Brenda Serna, Claptone and Djammin and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | La Malquerida presenta Roger Sanchez | Roger Sanchez |
 | Fri, 6 Nov 2026 | VIPPER CLUB II ANIVERSARIO with Pendulum DJ SET, SOTA | Pendulum |
 | Sat, 7 Nov 2026 | Space of Sound with Claptone, Djammin | Claptone, Djammin |
 | Fri, 13 Nov 2026 | Joris Voorn pres. A Trip To Galaxy | Joris Voorn |
@@ -18,9 +17,10 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, w
 | Sat, 5 Dec 2026 | ROOM ONE with Raúl Pacheco | Raúl Pacheco |
 | Sat, 12 Dec 2026 | Esencia Pura by DJ Marta |  |
 | Sat, 19 Dec 2026 | SANPAPA CLUB at Especial Navidad |  |
+| Sat, 19 Dec 2026 | 33 Aniversario FRIENDS CLUB |  |
 
 ## Address
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

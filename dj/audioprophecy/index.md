@@ -1,6 +1,6 @@
 # Audioprophecy
 
-Audioprophecy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Caveau Boston, Boston on Thu, 19 Nov 2026.
+Audioprophecy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Caveau Boston, Boston on Thu, 19 Nov 2026.
 
 Audioprophecy is a house and tech house artist, with 6 gigs on soundcheck across Boston and New York City. Often billed alongside Adam Gibbons, AleBCostantino and FRANZIV. Next up: Caveau Boston, Boston on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ Audioprophecy is a house and tech house artist, with 6 gigs on soundcheck across
 
 Adam Gibbons, AleBCostantino, FRANZIV
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audioprophecy/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audioprophecy/)*

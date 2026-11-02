@@ -1,8 +1,8 @@
 # ROKU
 
-ROKU is a electronic artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Under the K Bridge, New York City on Sat, 7 Nov 2026.
+ROKU is a electronic artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Under the K Bridge, New York City on Sat, 7 Nov 2026.
 
-ROKU is an electronic artist, with 8 gigs on soundcheck across Barcelona, London, Los Angeles and Madrid and 1 more. Often billed alongside JP (Arg), Adela and Benebe. Next up: Under the K Bridge, New York City on Sat 7 Nov.
+ROKU is an electronic artist, with 14 gigs on soundcheck across Barcelona, Copenhagen, London and Los Angeles and 4 more. Often billed alongside CBS, Fox (US) and PC (MX). Next up: Under the K Bridge, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,12 @@ ROKU is an electronic artist, with 8 gigs on soundcheck across Barcelona, London
 | Sat, 7 Nov 2026 | The Yard | London |
 | Sat, 7 Nov 2026 | Input Club | Barcelona |
 | Sat, 7 Nov 2026 | 516 S Anderson Street | Los Angeles |
+| Sat, 7 Nov 2026 | Los Angeles State Historic Park | Los Angeles |
+| Sat, 7 Nov 2026 | Parc del Fòrum | Barcelona |
+| Sat, 7 Nov 2026 | People Like Us Beer Bar | Copenhagen |
+| Sat, 7 Nov 2026 | Utopia | Los Angeles |
+| Sat, 7 Nov 2026 | Tu jau zini Kur | Riga |
+| Sat, 7 Nov 2026 | SD Colab | San Diego |
 
 ## Recently played
 
@@ -22,6 +28,6 @@ ROKU is an electronic artist, with 8 gigs on soundcheck across Barcelona, London
 
 ## Shares bills with
 
-JP (Arg), Adela, Benebe
+CBS, Fox (US), PC (MX)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roku/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roku/)*

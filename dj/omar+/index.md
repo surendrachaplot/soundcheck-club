@@ -1,6 +1,6 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Omar+ is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Omar+ is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 36 more. Often billed alongside Max Dean, Obskur and Ben Sterling. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Omar+ is a house and tech house artist based in United Kingdom, with 84 gigs on 
 
 Max Dean, Obskur, Ben Sterling
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omar+/)*

@@ -1,6 +1,6 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "SOMA presents Third Party" on Fri, 6 Nov 2026.
+MÄX is a music venue in Zurich with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SOMA presents Third Party" on Fri, 6 Nov 2026.
 
 MÄX is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line-ups including 1luu, andris, BIIANCO and BINA and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
@@ -22,4 +22,4 @@ MÄX is a music venue in Zurich listed on soundcheck. 9 upcoming gigs, with line
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

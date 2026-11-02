@@ -1,6 +1,6 @@
 # Lucifero
 
-Lucifero is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Altrove, Milan on Fri, 13 Nov 2026.
+Lucifero is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Altrove, Milan on Fri, 13 Nov 2026.
 
 Lucifero is a techno and electronica artist based in Italy, with 3 gigs on soundcheck across Milan. Often billed alongside David Fogarty, Gabriele and Giamma Soren. Next up: Altrove, Milan on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Lucifero is a techno and electronica artist based in Italy, with 3 gigs on sound
 
 David Fogarty, Gabriele, Giamma Soren
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifero/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucifero/)*

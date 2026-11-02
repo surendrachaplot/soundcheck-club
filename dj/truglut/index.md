@@ -1,8 +1,8 @@
 # Truglut
 
-Truglut is a Trance and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lazo, Madrid on Thu, 5 Nov 2026.
+Truglut is a Trance and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lazo, Madrid on Thu, 5 Nov 2026.
 
-Truglut is a trance and acid artist, with 24 gigs on soundcheck across Amsterdam, Berlin and Madrid. Often billed alongside Temu.jin, Bea Moy and Smiley. Next up: Lazo, Madrid on Thu 5 Nov.
+Truglut is a trance and acid artist based in Spain, with 24 gigs on soundcheck across Amsterdam, Berlin and Madrid. Often billed alongside Temu.jin, Bea Moy and Smiley. Next up: Lazo, Madrid on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Truglut is a trance and acid artist, with 24 gigs on soundcheck across Amsterdam
 
 Temu.jin, Bea Moy, Smiley (1)
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truglut/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truglut/)*

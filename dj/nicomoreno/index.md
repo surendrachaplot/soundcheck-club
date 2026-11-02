@@ -1,6 +1,6 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Nico Moreno is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Nico Moreno is a techno and house artist based in France, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 85 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Nico Moreno is a techno and house artist based in France, with 226 gigs on sound
 
 I Hate Models, DYEN, Trym
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomoreno/)*

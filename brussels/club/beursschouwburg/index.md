@@ -1,6 +1,6 @@
 # Beursschouwburg
 
-Beursschouwburg is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Liesa Van der Aa" on Thu, 5 Nov 2026.
+Beursschouwburg is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Liesa Van der Aa" on Thu, 5 Nov 2026.
 
 Beursschouwburg is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including Deena Abdelwahed, DONIA, Johnny Jewel and Lena Willikens and 1 more. See dates, start times and who's playing. Auguste Ortsstraat 20-28; 1000 Brussel; Belgium.
 
@@ -17,4 +17,4 @@ Beursschouwburg is a music venue in Brussels listed on soundcheck. 4 upcoming gi
 
 Auguste Ortsstraat 20-28; 1000 Brussel; Belgium, Brussels
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/beursschouwburg/)*

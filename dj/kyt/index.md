@@ -1,8 +1,8 @@
 # KYT
 
-KYT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Beate Uwe, Berlin on Sat, 14 Nov 2026.
+KYT is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Beate Uwe, Berlin on Sat, 14 Nov 2026.
 
-KYT is a house and techno artist, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Aii PS, Jacob Knob and Kyttiara. Next up: Beate Uwe, Berlin on Sat 14 Nov.
+KYT is a house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Aii PS, Jacob Knob and Kyttiara. Next up: Beate Uwe, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KYT is a house and techno artist, with 9 gigs on soundcheck across Berlin and Ha
 
 Aii PS, Jacob Knob, Kyttiara
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyt/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyt/)*

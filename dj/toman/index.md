@@ -1,14 +1,13 @@
 # Toman
 
-Toman is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Club Space Miami, Miami on Sat, 31 Oct 2026.
+Toman is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at THE BATHS, Austin on Fri, 6 Nov 2026.
 
-Toman is a house and tech house artist based in Netherlands, with 171 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: Club Space Miami, Miami on Sat 31 Oct.
+Toman is a house and tech house artist based in Netherlands, with 171 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 43 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: THE BATHS, Austin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Club Space Miami | Miami |
 | Fri, 6 Nov 2026 | THE BATHS | Austin |
 | Sat, 7 Nov 2026 | Radius | Chicago |
 
@@ -27,4 +26,4 @@ Toman is a house and tech house artist based in Netherlands, with 171 gigs on so
 
 ANOTR, Ben Sterling, CHRIS STASSY
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toman/)*

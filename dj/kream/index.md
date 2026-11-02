@@ -1,6 +1,6 @@
 # KREAM
 
-KREAM is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+KREAM is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 KREAM is a house and tech house artist based in Norway, with 76 gigs on soundcheck across Amsterdam, Austin, Bergen and Berlin and 35 more. Often billed alongside James Hype (UK), Alesso and Boys Noize. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ KREAM is a house and tech house artist based in Norway, with 76 gigs on soundche
 
 James Hype (UK), Alesso, Boys Noize
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kream/)*

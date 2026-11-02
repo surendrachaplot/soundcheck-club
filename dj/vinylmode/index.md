@@ -1,6 +1,6 @@
 # Vinyl Mode
 
-Vinyl Mode is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Vinyl Mode is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Vinyl Mode is an electro and tech house artist based in Saudi Arabia, with 3 gigs on soundcheck across Dubai and Tanzania. Often billed alongside Maks, Nesta and Omar Fayyad. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -19,4 +19,4 @@ Vinyl Mode is an electro and tech house artist based in Saudi Arabia, with 3 gig
 
 Maks, Nesta, Omar Fayyad
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylmode/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylmode/)*

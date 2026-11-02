@@ -1,6 +1,6 @@
 # nØr3mors3
 
-nØr3mors3 is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Specka, Madrid on Sat, 7 Nov 2026.
+nØr3mors3 is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Specka, Madrid on Sat, 7 Nov 2026.
 
 nØr3mors3 is a techno and electronica artist based in Spain, with 2 gigs on soundcheck across Madrid. Often billed alongside FUNKA04, Giacomo Stallone and KRAWL & TRØIDA. Next up: Specka, Madrid on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ nØr3mors3 is a techno and electronica artist based in Spain, with 2 gigs on sou
 
 FUNKA04, Giacomo Stallone, KRAWL & TRØIDA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nor3mors3/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nor3mors3/)*

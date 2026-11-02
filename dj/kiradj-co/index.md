@@ -1,6 +1,6 @@
 # KIRA dj
 
-KIRA dj is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+KIRA dj is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 KIRA dj is an electronic artist based in Colombia, with 2 gigs on soundcheck across Colombia and London. Often billed alongside Andy Martin, Anna Wall and Bclip. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -18,4 +18,4 @@ KIRA dj is an electronic artist based in Colombia, with 2 gigs on soundcheck acr
 
 Andy Martin, Anna Wall, Bclip
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiradj-co/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kiradj-co/)*

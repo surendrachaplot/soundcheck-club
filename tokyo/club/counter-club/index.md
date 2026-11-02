@@ -1,15 +1,13 @@
 # COUNTER CLUB
 
-COUNTER CLUB is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "COUNTERCLUB SUNDAY" on Sun, 1 Nov 2026.
+COUNTER CLUB is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "THE MAGIC NUMBER" on Tue, 3 Nov 2026.
 
-COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including 5harpy, Chika Luna, DJ Hazime and Goat and 2 more. See dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
+COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including 5harpy, DJ Hazime, Goat and grooveman Spot and 2 more. See dates, start times and who's playing. SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | COUNTERCLUB SUNDAY | Chika Luna, TOBI |
-| Sun, 1 Nov 2026 | URRY's photo exhibition opening party | Rena |
 | Tue, 3 Nov 2026 | THE MAGIC NUMBER | MASARU |
 | Wed, 4 Nov 2026 | EVERY WEDNESDAY 5TH ANNIVERSARY |  |
 | Thu, 5 Nov 2026 | “EVERY 1ST THURSDAY” “Isao a.k.a. Lucas Birthday Bash” | DJ Hazime |
@@ -18,9 +16,11 @@ COUNTER CLUB is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, w
 | Sun, 8 Nov 2026 | COUNTERCLUB SUNDAY | KAHO |
 | Tue, 10 Nov 2026 | COUNTERCLUB TUESDAY | RIHO ASAEDA, Shimpei Watanabe |
 | Wed, 11 Nov 2026 | EVERY WEDNESDAY 5TH ANNIVERSARY |  |
+| Thu, 12 Nov 2026 | STAFF AZUSA BDB!! | Goat (1), JAM (MA), Simo (1) |
+| Sun, 29 Nov 2026 | NEWEST LATIN |  |
 
 ## Address
 
 SY Building 2F, 5-29-15 Daizawa, Setagaya-ku, Tokyo, 155-0032 Japan, Tokyo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/counter-club/)*

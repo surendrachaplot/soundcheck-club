@@ -1,8 +1,8 @@
 # Malu
 
-Malu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Panke, Berlin on Fri, 13 Nov 2026.
+Malu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Panke, Berlin on Fri, 13 Nov 2026.
 
-Malu is a techno and trance artist based in Spain, with 3 gigs on soundcheck across Berlin and Münster. Often billed alongside Cali Caracho and TheMuffinMan. Next up: Panke, Berlin on Fri 13 Nov.
+Malu is a techno and trance artist based in Spain, with 3 gigs on soundcheck across Berlin and Münster. Often billed alongside Cali Caracho and The Muffin Man. Next up: Panke, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,6 @@ Malu is a techno and trance artist based in Spain, with 3 gigs on soundcheck acr
 
 ## Shares bills with
 
-Cali Caracho, TheMuffinMan
+Cali Caracho, The Muffin Man
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malu-de/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malu-de/)*

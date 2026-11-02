@@ -1,6 +1,6 @@
 # Simpler Times
 
-Simpler Times is a Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Simpler Times is a Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Simpler Times is a club artist, with 3 gigs on soundcheck across Manchester, Sheffield and West Wales. Often billed alongside Adi (CO), Alex Dima and Andy Green. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -19,4 +19,4 @@ Simpler Times is a club artist, with 3 gigs on soundcheck across Manchester, She
 
 Adi (CO), Alex Dima, Andy Green
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simplertimes/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simplertimes/)*

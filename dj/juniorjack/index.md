@@ -1,6 +1,6 @@
 # Junior Jack
 
-Junior Jack is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Odiseja BTC Ljubljana, Slovenia on Fri, 18 Dec 2026.
+Junior Jack is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Odiseja BTC Ljubljana, Slovenia on Fri, 18 Dec 2026.
 
 Junior Jack is a house and tech house artist based in Belgium, with 3 gigs on soundcheck across London, Naples and Slovenia. Often billed alongside Alex Bohemien, Broosk and Damian Wilson. Next up: Odiseja BTC Ljubljana, Slovenia on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Junior Jack is a house and tech house artist based in Belgium, with 3 gigs on so
 
 Alex Bohemien, Broosk, Damian Wilson
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorjack/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juniorjack/)*

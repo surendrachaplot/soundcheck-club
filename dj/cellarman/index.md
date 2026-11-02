@@ -1,6 +1,6 @@
 # Cellarman
 
-Cellarman is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Excelsior Stam Cool Café Jette, Brussels on Fri, 6 Nov 2026.
+Cellarman is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Excelsior Stam Cool Café Jette, Brussels on Fri, 6 Nov 2026.
 
 Cellarman is a drum & bass artist based in Belgium, with 24 gigs on soundcheck across Brussels. Often billed alongside Expensive KVR, Hyzno and Arthychoc. Next up: Excelsior Stam Cool Café Jette, Brussels on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Cellarman is a drum & bass artist based in Belgium, with 24 gigs on soundcheck a
 
 Expensive KVR, Hyzno, Arthychoc
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cellarman/)*

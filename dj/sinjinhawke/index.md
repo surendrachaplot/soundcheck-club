@@ -1,8 +1,8 @@
 # Sinjin Hawke
 
-Sinjin Hawke is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bar Datcha, Montreal on Fri, 6 Nov 2026.
+Sinjin Hawke is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bar Datcha, Montreal on Fri, 6 Nov 2026.
 
-Sinjin Hawke is a bass and club artist, with 37 gigs on soundcheck across Denver, Kyoto, Manchester and Montreal and 6 more. Often billed alongside Zora Jones, MikeQ and Litney. Next up: Bar Datcha, Montreal on Fri 6 Nov.
+Sinjin Hawke is a bass and club artist based in Canada, with 37 gigs on soundcheck across Denver, Kyoto, Manchester and Montreal and 6 more. Often billed alongside Zora Jones, MikeQ and Litney. Next up: Bar Datcha, Montreal on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sinjin Hawke is a bass and club artist, with 37 gigs on soundcheck across Denver
 
 Zora Jones, MikeQ, Litney
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinjinhawke/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinjinhawke/)*

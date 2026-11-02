@@ -1,8 +1,8 @@
 # Hutchee
 
-Hutchee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Bridge 48, Barcelona on Thu, 5 Nov 2026.
+Hutchee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bridge 48, Barcelona on Thu, 5 Nov 2026.
 
-Hutchee is a techno and house artist, with 24 gigs on soundcheck across Barcelona and Milan. Often billed alongside Hi/Fi, Crissaf and Pietro Fantin. Next up: Bridge 48, Barcelona on Thu 5 Nov.
+Hutchee is a techno and house artist based in Italy, with 24 gigs on soundcheck across Barcelona and Milan. Often billed alongside Hi/Fi, Crissaf and Pietro Fantin. Next up: Bridge 48, Barcelona on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Hutchee is a techno and house artist, with 24 gigs on soundcheck across Barcelon
 
 Hi/Fi, Crissaf, Pietro Fantin
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hutchee/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hutchee/)*

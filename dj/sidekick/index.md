@@ -1,8 +1,8 @@
 # SIDEKICK
 
-SIDEKICK is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Next Door Records Two, London on Sat, 14 Nov 2026.
+SIDEKICK is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Next Door Records Two, London on Sat, 14 Nov 2026.
 
-SIDEKICK is a techno and tech house artist, with 10 gigs on soundcheck across London. Often billed alongside AKU, DJ OPTIK and Peggs. Next up: Next Door Records Two, London on Sat 14 Nov.
+SIDEKICK is a techno and tech house artist based in Ireland, with 10 gigs on soundcheck across London. Often billed alongside AKU, DJ OPTIK and Peggs. Next up: Next Door Records Two, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SIDEKICK is a techno and tech house artist, with 10 gigs on soundcheck across Lo
 
 AKU (3), DJ OPTIK, Peggs
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidekick/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidekick/)*

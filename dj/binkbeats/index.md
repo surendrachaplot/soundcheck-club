@@ -1,6 +1,6 @@
 # Binkbeats
 
-Binkbeats is a Jazz and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Recyclart, Brussels on Fri, 13 Nov 2026.
+Binkbeats is a Jazz and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Recyclart, Brussels on Fri, 13 Nov 2026.
 
 Binkbeats is a jazz and experimental artist, with 2 gigs on soundcheck across Brussels and The Hague. Often billed alongside ABADIR, Ale Hop and Alessandra Leone. Next up: Recyclart, Brussels on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ Binkbeats is a jazz and experimental artist, with 2 gigs on soundcheck across Br
 
 ABADIR, Ale Hop, Alessandra Leone
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binkbeats/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binkbeats/)*

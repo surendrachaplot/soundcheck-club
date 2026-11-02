@@ -1,6 +1,6 @@
 # Bandēs
 
-Bandēs is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 14 Nov 2026.
+Bandēs is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Bandēs is a house and progressive house artist, with 3 gigs on soundcheck across Atlanta and San Francisco/Oakland. Often billed alongside Dam Swindle, Farius and Gabriel & Dresden. Next up: Public Works, San Francisco/Oakland on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Bandēs is a house and progressive house artist, with 3 gigs on soundcheck acros
 
 Dam Swindle, Farius, Gabriel & Dresden
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bandes/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bandes/)*

@@ -1,8 +1,8 @@
 # Pijus
 
-Pijus is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at gallery 1986, Vilnius on Fri, 6 Nov 2026.
+Pijus is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at gallery 1986, Vilnius on Fri, 6 Nov 2026.
 
-Pijus is a house and techno artist based in Lithuania, with 23 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Dublin and 13 more. Often billed alongside Target Demographic, Shaolin Cowboy and DJ WINDOWS 7. Next up: gallery 1986, Vilnius on Fri 6 Nov.
+Pijus is a house and techno artist based in Lithuania, with 25 gigs on soundcheck across Amsterdam, Argentina, Berlin and Bogotá and 15 more. Often billed alongside Target Demographic, DJ WINDOWS 7 and Shaolin Cowboy. Next up: gallery 1986, Vilnius on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Pijus is a house and techno artist based in Lithuania, with 23 gigs on soundchec
 | Fri, 13 Nov 2026 | Laska Bar | Latvia |
 | Thu, 19 Nov 2026 | Âmago | Sao Paulo |
 | Fri, 20 Nov 2026 | Onaciu | Santiago |
+| Sun, 22 Nov 2026 | Uniclub | Argentina |
+| Fri, 27 Nov 2026 | Lumma | Peru |
 | Sat, 28 Nov 2026 | Antisistema | Bogotá |
 | Sun, 29 Nov 2026 | Rama Soundgarden | Medellin |
 | Fri, 4 Dec 2026 | Tito Club Mx | Guadalajara |
@@ -30,6 +32,6 @@ Pijus is a house and techno artist based in Lithuania, with 23 gigs on soundchec
 
 ## Shares bills with
 
-Target Demographic, Shaolin Cowboy, DJ WINDOWS 7
+Target Demographic, DJ WINDOWS 7, Shaolin Cowboy
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pijus/)*

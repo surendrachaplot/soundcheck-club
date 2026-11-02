@@ -1,6 +1,6 @@
 # Shamiso
 
-Shamiso is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Levelthree Premium Venue, Johannesburg on Sat, 7 Nov 2026.
+Shamiso is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Levelthree Premium Venue, Johannesburg on Sat, 7 Nov 2026.
 
 Shamiso is an afro house and afro tech artist based in South Africa, with 15 gigs on soundcheck across Amsterdam, Cape Town, Johannesburg and London and 2 more. Often billed alongside CLEIDO, Johnny Fiore and Kususa. Next up: Levelthree Premium Venue, Johannesburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Shamiso is an afro house and afro tech artist based in South Africa, with 15 gig
 
 CLEIDO, Johnny Fiore, Kususa
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamiso/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamiso/)*

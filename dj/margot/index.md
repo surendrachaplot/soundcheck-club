@@ -1,6 +1,6 @@
 # Margot
 
-Margot is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Silence Please, New York City on Fri, 6 Nov 2026.
+Margot is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Silence Please, New York City on Fri, 6 Nov 2026.
 
 Margot is a techno and electro artist, with 3 gigs on soundcheck across Bogotá, New York City and Sao Paulo. Often billed alongside Anders (BR), Ben Sims and COBRETTI. Next up: Silence Please, New York City on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Margot is a techno and electro artist, with 3 gigs on soundcheck across Bogotá,
 
 Anders (BR), Ben Sims, COBRETTI
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margot/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margot/)*

@@ -1,6 +1,6 @@
 # BAMBI (UK)
 
-BAMBI (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lark, Berlin on Sat, 14 Nov 2026.
+BAMBI (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lark, Berlin on Sat, 14 Nov 2026.
 
 BAMBI (UK) is a techno and house artist based in United Kingdom, with 2 gigs on soundcheck across Berlin and London. Often billed alongside Lakuti, MONEYAMA and Sazzle. Next up: Lark, Berlin on Sat 14 Nov.
 
@@ -18,4 +18,4 @@ BAMBI (UK) is a techno and house artist based in United Kingdom, with 2 gigs on 
 
 Lakuti, MONEYAMA, Sazzle
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuk/)*

@@ -1,8 +1,8 @@
 # Sky High Trio
 
-Sky High Trio is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Sky High Trio is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Sky High Trio is a house and electronica artist, with 6 gigs on soundcheck across Melbourne. Often billed alongside Harvey Sutherland, Mike Gurrieri and Zjoso. Next up: The Wildlands, Melbourne on Fri 20 Nov.
+Sky High Trio is a house and electronica artist based in Australia, with 6 gigs on soundcheck across Melbourne. Often billed alongside Harvey Sutherland, Mike Gurrieri and Zjoso. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Sky High Trio is a house and electronica artist, with 6 gigs on soundcheck acros
 
 Harvey Sutherland, Mike Gurrieri, Zjoso
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyhightrio/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyhightrio/)*

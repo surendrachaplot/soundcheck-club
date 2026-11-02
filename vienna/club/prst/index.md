@@ -1,6 +1,6 @@
 # PRST
 
-PRST is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "BLUR with E.LINA" on Fri, 6 Nov 2026.
+PRST is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "BLUR with E.LINA" on Fri, 6 Nov 2026.
 
 PRST is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including Andre Zimmer, Anni Herzer, AVO2X and Carl H and 2 more. See dates, start times and who's playing. Praterstraße 18, 1020 Wien, Austria.
 
@@ -17,4 +17,4 @@ PRST is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line
 
 Praterstraße 18, 1020 Wien, Austria, Vienna
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/prst/)*

@@ -1,6 +1,6 @@
 # BOHO
 
-BOHO is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Weekend, Berlin on Fri, 6 Nov 2026.
+BOHO is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Weekend, Berlin on Fri, 6 Nov 2026.
 
 BOHO is a techno and electro artist based in Germany, with 116 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 19 more. Often billed alongside NDNA, Rad.Lez and Bianka Banks. Next up: Weekend, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ BOHO is a techno and electro artist based in Germany, with 116 gigs on soundchec
 
 NDNA, Rad.Lez, Bianka Banks
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boho/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boho/)*

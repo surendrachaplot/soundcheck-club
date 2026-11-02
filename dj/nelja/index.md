@@ -1,8 +1,8 @@
 # NELJA
 
-NELJA is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 7 Nov 2026.
+NELJA is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 7 Nov 2026.
 
-NELJA is a techno artist, with 12 gigs on soundcheck across Hamburg. Often billed alongside Robin Kock, GROA and KENZ. Next up: Uebel & Gefährlich, Hamburg on Sat 7 Nov.
+NELJA is a techno artist based in Germany, with 12 gigs on soundcheck across Hamburg. Often billed alongside Robin Kock, GROA and KENZ. Next up: Uebel & Gefährlich, Hamburg on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ NELJA is a techno artist, with 12 gigs on soundcheck across Hamburg. Often bille
 
 Robin Kock (2), GROA, KENZ
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nelja/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nelja/)*

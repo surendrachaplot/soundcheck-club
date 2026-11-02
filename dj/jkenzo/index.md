@@ -1,6 +1,6 @@
 # J:Kenzo
 
-J:Kenzo is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Concorde 2, Brighton on Fri, 6 Nov 2026.
+J:Kenzo is a Dubstep and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Concorde 2, Brighton on Fri, 6 Nov 2026.
 
 J:Kenzo is a dubstep and drum & bass artist based in United Kingdom, with 61 gigs on soundcheck across Atlanta, Auckland, Berlin and Boston and 20 more. Often billed alongside Youngsta, SGT Pokes and SP:MC. Next up: Concorde 2, Brighton on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ J:Kenzo is a dubstep and drum & bass artist based in United Kingdom, with 61 gig
 
 Youngsta, SGT Pokes, SP:MC
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkenzo/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkenzo/)*

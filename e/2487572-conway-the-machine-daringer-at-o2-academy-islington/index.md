@@ -1,10 +1,10 @@
 # CONWAY THE MACHINE & DARINGER at O2 Academy Islington
 
-CONWAY THE MACHINE & DARINGER at O2 Academy Islington on Wed 28 Oct, London. Hip-Hop and Grime. See the line-up on soundcheck.
+CONWAY THE MACHINE & DARINGER at O2 Academy Islington on Sat 28 Nov, London. Hip-Hop and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Wed, 28 Oct 2026 |
+| Date | Sat, 28 Nov 2026 |
 | Venue | O2 Academy Islington |
 | City | London |
 

@@ -1,6 +1,6 @@
 # Music Club Pulse 22
 
-Music Club Pulse 22 is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "Trance Family with Daniel Skyver" on Sat, 14 Nov 2026.
+Music Club Pulse 22 is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Trance Family with Daniel Skyver" on Sat, 14 Nov 2026.
 
 Music Club Pulse 22 is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including AVHD, CRY.NN, Daniel Skyver and Marc000 and 2 more. See dates, start times and who's playing. Jilská 22, 110 00 Staré Město, Czechia.
 
@@ -15,4 +15,4 @@ Music Club Pulse 22 is a music venue in Prague listed on soundcheck. 2 upcoming 
 
 Jilská 22, 110 00 Staré Město, Czechia, Prague
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/music-club-pulse-22/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/music-club-pulse-22/)*

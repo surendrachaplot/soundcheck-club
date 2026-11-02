@@ -1,8 +1,8 @@
 # MidNightSnack
 
-MidNightSnack is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at New Guernica, Melbourne on Fri, 6 Nov 2026.
+MidNightSnack is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at New Guernica, Melbourne on Fri, 6 Nov 2026.
 
-MidNightSnack is a techno and electro artist, with 9 gigs on soundcheck across Melbourne. Often billed alongside DJ Kiti, Arson Fire and DJ JNETT. Next up: New Guernica, Melbourne on Fri 6 Nov.
+MidNightSnack is a techno and electro artist based in Australia, with 9 gigs on soundcheck across Melbourne. Often billed alongside DJ Kiti, Arson Fire and DJ JNETT. Next up: New Guernica, Melbourne on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ MidNightSnack is a techno and electro artist, with 9 gigs on soundcheck across M
 
 DJ Kiti, Arson Fire, DJ JNETT
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightsnack-au/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightsnack-au/)*

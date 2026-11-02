@@ -1,6 +1,6 @@
 # paganipagani
 
-paganipagani is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Giri, Berlin on Wed, 25 Nov 2026.
+paganipagani is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Giri, Berlin on Wed, 25 Nov 2026.
 
 paganipagani is an electro and house artist, with 7 gigs on soundcheck across Berlin. Often billed alongside PAK-E, Alessandro Cheli and Carl OG. Next up: Giri, Berlin on Wed 25 Nov.
 
@@ -23,4 +23,4 @@ paganipagani is an electro and house artist, with 7 gigs on soundcheck across Be
 
 PAK-E, Alessandro Cheli, Carl OG
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paganipagani/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paganipagani/)*

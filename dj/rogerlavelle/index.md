@@ -1,6 +1,6 @@
 # Roger Lavelle
 
-Roger Lavelle is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Industrie 36, Switzerland on Sat, 19 Dec 2026.
+Roger Lavelle is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Industrie 36, Switzerland on Sat, 19 Dec 2026.
 
 Roger Lavelle is a trance and techno artist based in Switzerland, with 2 gigs on soundcheck across Berlin and Switzerland. Often billed alongside DJ Jordan, Alex Xandra and Andriiic. Next up: Industrie 36, Switzerland on Sat 19 Dec.
 
@@ -18,4 +18,4 @@ Roger Lavelle is a trance and techno artist based in Switzerland, with 2 gigs on
 
 DJ Jordan, Alex Xandra, Andriiic
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rogerlavelle/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rogerlavelle/)*

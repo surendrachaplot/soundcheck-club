@@ -1,14 +1,13 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - East Williamsburg, New York City on Sat, 31 Oct 2026.
+Ash Lauryn is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Boom Club, North-carolina on Thu, 5 Nov 2026.
 
-Ash Lauryn is a house and techno artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 40 more. Often billed alongside The AM/AMX, JADALAREIGN and Kai Alce. Next up: TBA - East Williamsburg, New York City on Sat 31 Oct.
+Ash Lauryn is a house and techno artist based in United States of America, with 153 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 40 more. Often billed alongside The AM/AMX, JADALAREIGN and Kai Alce. Next up: Boom Club, North Carolina on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
 | Thu, 5 Nov 2026 | Boom Club | North-carolina |
 | Sat, 28 Nov 2026 | Bastet | Philadelphia |
 | Fri, 4 Dec 2026 | Art Club | Houston |
@@ -29,4 +28,4 @@ Ash Lauryn is a house and techno artist based in United States of America, with 
 
 The AM/AMX, JADALAREIGN, Kai Alce
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

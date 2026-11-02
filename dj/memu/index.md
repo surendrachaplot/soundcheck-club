@@ -1,8 +1,8 @@
 # Memu
 
-Memu is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
+Memu is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pawnshop, Taipei on Fri, 20 Nov 2026.
 
-Memu is a techno and club artist, with 14 gigs on soundcheck across Milan, New York City and Taipei. Often billed alongside Hypolong, Melting 99 and Cr鉻. Next up: Pawnshop, Taipei on Fri 20 Nov.
+Memu is a techno and club artist based in Taiwan, with 14 gigs on soundcheck across Milan, New York City and Taipei. Often billed alongside Hypolong, Melting 99 and Cr鉻. Next up: Pawnshop, Taipei on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Memu is a techno and club artist, with 14 gigs on soundcheck across Milan, New Y
 
 Hypolong, Melting 99, Cr鉻
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/memu/)*

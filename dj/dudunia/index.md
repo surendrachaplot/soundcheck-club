@@ -1,14 +1,15 @@
 # DUDUNIA
 
-DUDUNIA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Kulturzentrum Hannover, Hannover on Fri, 6 Nov 2026.
+DUDUNIA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Kulturzentrum Hannover, Hannover on Fri, 6 Nov 2026.
 
-DUDUNIA is a techno and house artist based in Georgia, with 3 gigs on soundcheck across Frankfurt and Hannover. Often billed alongside Viktoriia Merlan, VIKTORIIA and preSchuRR. Next up: TBA - Kulturzentrum Hannover, Hannover on Fri 6 Nov.
+DUDUNIA is a techno and house artist based in Georgia, with 4 gigs on soundcheck across Frankfurt, Hannover and Rhineland Palatinate. Often billed alongside Viktoriia Merlan, IraYa and VIKTORIIA. Next up: TBA - Kulturzentrum Hannover, Hannover on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - Kulturzentrum Hannover | Hannover |
+| Fri, 13 Nov 2026 | Beben | Rhineland-palatinate |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ DUDUNIA is a techno and house artist based in Georgia, with 3 gigs on soundcheck
 
 ## Shares bills with
 
-Viktoriia Merlan, VIKTORIIA, preSchuRR
+Viktoriia Merlan, IraYa, VIKTORIIA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dudunia/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dudunia/)*

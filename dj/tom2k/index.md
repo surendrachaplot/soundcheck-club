@@ -1,8 +1,8 @@
 # TOM2K
 
-TOM2K is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at ZIRKA, Munich on Sat, 7 Nov 2026.
+TOM2K is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ZIRKA, Munich on Sat, 7 Nov 2026.
 
-TOM2K is an electronic artist, with 8 gigs on soundcheck across Munich. Often billed alongside 600-cell, Budino and Carl Gari. Next up: ZIRKA, Munich on Sat 7 Nov.
+TOM2K is an electronic artist based in Germany, with 8 gigs on soundcheck across Munich. Often billed alongside 600-cell, Budino and Carl Gari. Next up: ZIRKA, Munich on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ TOM2K is an electronic artist, with 8 gigs on soundcheck across Munich. Often bi
 
 600-cell, Budino, Carl Gari
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2k/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tom2k/)*

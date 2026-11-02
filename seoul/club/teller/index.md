@@ -1,6 +1,6 @@
 # teller
 
-teller is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "THE AIR HOUSE AFTER PARTY" on Fri, 6 Nov 2026.
+teller is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "THE AIR HOUSE AFTER PARTY" on Fri, 6 Nov 2026.
 
 teller is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including .2ndfloor, Evan Baggs, Hakim. and Ion Ludwig and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
@@ -21,4 +21,4 @@ teller is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with lin
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

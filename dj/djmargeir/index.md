@@ -1,6 +1,6 @@
 # DJ Margeir
 
-DJ Margeir is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+DJ Margeir is a Tech House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 DJ Margeir is a tech house and electronica artist, with 2 gigs on soundcheck across Iceland and Krakow. Often billed alongside Agzilla, Ali Love and Ash Lauryn. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -18,4 +18,4 @@ DJ Margeir is a tech house and electronica artist, with 2 gigs on soundcheck acr
 
 Agzilla, Ali Love, Ash Lauryn
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmargeir/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmargeir/)*

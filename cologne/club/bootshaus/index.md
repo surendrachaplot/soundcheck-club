@@ -1,6 +1,6 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "UNREAL WEEKENDER NIGHT I - KLOFAMA, In Furcht, Johannes Schuster, OMAKS, UVM" on Fri, 6 Nov 2026.
+Bootshaus is a music venue in Cologne with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "UNREAL WEEKENDER NIGHT I - KLOFAMA, In Furcht, Johannes Schuster, OMAKS, UVM" on Fri, 6 Nov 2026.
 
 Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, with line-ups including 6EJOU, 999999999, Alle Farben and Brennan Heart and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
@@ -23,4 +23,4 @@ Bootshaus is a music venue in Cologne listed on soundcheck. 15 upcoming gigs, wi
 
 Auenweg 173; 51063 Cologne; Germany, Cologne
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/bootshaus/)*

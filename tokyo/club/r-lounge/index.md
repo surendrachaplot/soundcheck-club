@@ -1,6 +1,6 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "FEEDER feat. PARTY" on Mon, 2 Nov 2026.
+R Lounge is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "FEEDER feat. PARTY" on Mon, 2 Nov 2026.
 
 R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including 063N13, 雷庵(RYan), ALKA and ATT and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with 
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

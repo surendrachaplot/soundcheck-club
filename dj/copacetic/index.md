@@ -1,8 +1,8 @@
 # copacetic
 
-copacetic is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at objekt klein a, Dresden on Thu, 5 Nov 2026.
+copacetic is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at objekt klein a, Dresden on Thu, 5 Nov 2026.
 
-copacetic is a techno and minimal techno artist, with 9 gigs on soundcheck across Dresden and New York City. Often billed alongside ACTANT, PAU PAU and Sarah Mezentseva. Next up: objekt klein a, Dresden on Thu 5 Nov.
+copacetic is a techno and minimal techno artist based in Germany, with 9 gigs on soundcheck across Dresden and New York City. Often billed alongside ACTANT, PAU PAU and Sarah Mezentseva. Next up: objekt klein a, Dresden on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ copacetic is a techno and minimal techno artist, with 9 gigs on soundcheck acros
 
 ACTANT, PAU PAU, Sarah Mezentseva
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/copacetic/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/copacetic/)*

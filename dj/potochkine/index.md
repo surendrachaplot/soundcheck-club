@@ -1,8 +1,8 @@
 # POTOCHKINE
 
-POTOCHKINE is a Post-Punk and EBM artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at TANKclub, Bologna on Fri, 13 Nov 2026.
+POTOCHKINE is a Post-Punk and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TANKclub, Bologna on Fri, 13 Nov 2026.
 
-POTOCHKINE is a post-punk and ebm artist, with 7 gigs on soundcheck across Athens, Bologna, Lausanne and London and 2 more. Often billed alongside Curses, Lust For Youth and Al Wootton. Next up: TANKclub, Bologna on Fri 13 Nov.
+POTOCHKINE is a post-punk and ebm artist based in France, with 7 gigs on soundcheck across Athens, Bologna, Lausanne and London and 2 more. Often billed alongside Curses, Lust For Youth and Al Wootton. Next up: TANKclub, Bologna on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ POTOCHKINE is a post-punk and ebm artist, with 7 gigs on soundcheck across Athen
 
 Curses, Lust For Youth, Al Wootton
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/potochkine/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/potochkine/)*

@@ -1,6 +1,6 @@
 # DJ APU
 
-DJ APU is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Macadam, Nantes on Fri, 18 Dec 2026.
+DJ APU is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Macadam, Nantes on Fri, 18 Dec 2026.
 
 DJ APU is a house and trance artist, with 2 gigs on soundcheck across Nantes and Strasbourg. Often billed alongside Badray, Canelle Doublekick and Kandelissa. Next up: Macadam, Nantes on Fri 18 Dec.
 
@@ -18,4 +18,4 @@ DJ APU is a house and trance artist, with 2 gigs on soundcheck across Nantes and
 
 Badray, Canelle Doublekick, Kandelissa
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djapu/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djapu/)*

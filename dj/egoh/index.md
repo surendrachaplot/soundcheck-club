@@ -1,6 +1,6 @@
 # egoh
 
-egoh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
+egoh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
 
 egoh is a techno and house artist based in France, with 4 gigs on soundcheck across Paris. Often billed alongside ALYOSHA, Albane and Aurian. Next up: Chateau Ephémère, Paris on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ egoh is a techno and house artist based in France, with 4 gigs on soundcheck acr
 
 ALYOSHA, Albane, Aurian
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/egoh/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/egoh/)*

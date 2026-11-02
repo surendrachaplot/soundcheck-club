@@ -1,6 +1,6 @@
 # Σalamandra
 
-Σalamandra is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
+Σalamandra is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
 
 Σalamandra is a techno and tech house artist based in Cyprus, with 4 gigs on soundcheck across Brussels. Often billed alongside DECONOFF, INDY.B and NAD!NE. Next up: UMI, Brussels on Fri 6 Nov.
 
@@ -20,4 +20,4 @@
 
 DECONOFF, INDY.B, NAD!NE
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salamandra-2/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salamandra-2/)*

@@ -1,6 +1,6 @@
 # paradokss
 
-paradokss is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Korpuss, Riga on Fri, 13 Nov 2026.
+paradokss is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Korpuss, Riga on Fri, 13 Nov 2026.
 
 paradokss is a techno and drum & bass artist, with 3 gigs on soundcheck across Riga. Often billed alongside Pulss, DEP (LV) and Dispoze. Next up: Korpuss, Riga on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ paradokss is a techno and drum & bass artist, with 3 gigs on soundcheck across R
 
 Pulss, DEP (LV), Dispoze
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paradokss/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paradokss/)*

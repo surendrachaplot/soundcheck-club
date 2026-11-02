@@ -1,6 +1,6 @@
 # Tola
 
-Tola is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. The next is "SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Dubstep / Jungle" on Fri, 6 Nov 2026.
+Tola is a music venue in London with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Dubstep / Jungle" on Fri, 6 Nov 2026.
 
 Tola is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Agility, Blake, Blaqq & Why'd and Brandon Tourle and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
@@ -19,4 +19,4 @@ Tola is a music venue in London listed on soundcheck. 6 upcoming gigs, with line
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

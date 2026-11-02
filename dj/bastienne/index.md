@@ -1,6 +1,6 @@
 # Bastienne
 
-Bastienne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Lofi, Amsterdam on Sat, 14 Nov 2026.
+Bastienne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lofi, Amsterdam on Sat, 14 Nov 2026.
 
 Bastienne is a techno and house artist based in Netherlands, with 97 gigs on soundcheck across Amsterdam, Berlin, Ghent and Netherlands and 4 more. Often billed alongside Mahabe, Vuur and Elias Mazian. Next up: Lofi, Amsterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bastienne is a techno and house artist based in Netherlands, with 97 gigs on sou
 
 Mahabe, Vuur, Elias Mazian
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastienne/)*

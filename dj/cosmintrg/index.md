@@ -1,8 +1,8 @@
 # Cosmin TRG
 
-Cosmin TRG is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 7 Nov 2026.
+Cosmin TRG is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 7 Nov 2026.
 
-Cosmin TRG is an electronica and techno artist, with 7 gigs on soundcheck across Berlin and Bucharest. Often billed alongside Modeselektor, Anna Z. and Benjamin Damage. Next up: Platforma Wolff, Bucharest on Sat 7 Nov.
+Cosmin TRG is an electronica and techno artist based in Romania, with 7 gigs on soundcheck across Berlin and Bucharest. Often billed alongside Modeselektor, Anna Z. and Benjamin Damage. Next up: Platforma Wolff, Bucharest on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Cosmin TRG is an electronica and techno artist, with 7 gigs on soundcheck across
 
 Modeselektor, Anna Z., Benjamin Damage
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmintrg/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmintrg/)*

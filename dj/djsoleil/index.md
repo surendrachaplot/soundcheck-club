@@ -1,8 +1,8 @@
 # Dj Soleil
 
-Dj Soleil is a Electro and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
+Dj Soleil is a Electro and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Illegaal, Brussels on Sat, 14 Nov 2026.
 
-Dj Soleil is an electro and downtempo artist, with 9 gigs on soundcheck across Brussels. Often billed alongside Rafael Aragon, Sarah Abd Ali and AMAZ. Next up: Illegaal, Brussels on Sat 14 Nov.
+Dj Soleil is an electro and downtempo artist based in Belgium, with 9 gigs on soundcheck across Brussels. Often billed alongside Rafael Aragon, Sarah Abd Ali and AMAZ. Next up: Illegaal, Brussels on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dj Soleil is an electro and downtempo artist, with 9 gigs on soundcheck across B
 
 Rafael Aragon, Sarah Abd Ali, AMAZ
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoleil/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoleil/)*

@@ -1,8 +1,8 @@
 # DJ Posture
 
-DJ Posture is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Three Pools, West-wales on Fri, 30 Apr 2027.
+DJ Posture is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Three Pools, West-wales on Fri, 30 Apr 2027.
 
-DJ Posture is a bass and techno artist, with 8 gigs on soundcheck across Bristol, Edinburgh, London and West Wales. Often billed alongside Creep Woland, Feena and LWS. Next up: Three Pools, West Wales on Fri 30 Apr.
+DJ Posture is a bass and techno artist based in United Kingdom, with 8 gigs on soundcheck across Bristol, Edinburgh, London and West Wales. Often billed alongside Creep Woland, Feena and LWS. Next up: Three Pools, West Wales on Fri 30 Apr.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ DJ Posture is a bass and techno artist, with 8 gigs on soundcheck across Bristol
 
 Creep Woland, Feena, LWS
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djposture/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djposture/)*

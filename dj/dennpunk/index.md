@@ -1,6 +1,6 @@
 # Denn Punk
 
-Denn Punk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Vertigo Antwerp, Antwerp on Sat, 14 Nov 2026.
+Denn Punk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Vertigo Antwerp, Antwerp on Sat, 14 Nov 2026.
 
 Denn Punk is a house and techno artist, with 3 gigs on soundcheck across Antwerp and Rotterdam. Often billed alongside Eva Bohnen, Invalid Request and AHIL. Next up: Vertigo Antwerp, Antwerp on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Denn Punk is a house and techno artist, with 3 gigs on soundcheck across Antwerp
 
 Eva Bohnen, Invalid Request, AHIL
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennpunk/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennpunk/)*

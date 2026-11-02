@@ -1,6 +1,6 @@
 # Calypsis
 
-Calypsis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu, 5 Nov 2026.
+Calypsis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu, 5 Nov 2026.
 
 Calypsis is a techno and house artist based in Mexico, with 66 gigs on soundcheck across Berlin, Frankfurt, Istanbul and Leipzig and 3 more. Often billed alongside Markus Klee, Basstronauten and Daniel Boon. Next up: TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Calypsis is a techno and house artist based in Mexico, with 66 gigs on soundchec
 
 Markus Klee, Basstronauten, Daniel Boon
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calypsis/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calypsis/)*

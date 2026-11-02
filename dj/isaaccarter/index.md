@@ -1,14 +1,13 @@
 # Isaac Carter
 
-Isaac Carter is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Chelmsford City Racecourse, London on Sun, 1 Nov 2026.
+Isaac Carter is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 21 Nov 2026.
 
-Isaac Carter is a house and deep house artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Chelmsford City Racecourse, London on Sun 1 Nov.
+Isaac Carter is a house and deep house artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Laidlaw, Ella Knight and Enzo Siragusa. Next up: Vittoria Wharf Studio, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Chelmsford City Racecourse | London |
 | Sat, 21 Nov 2026 | Vittoria Wharf Studio | London |
 | Fri, 27 Nov 2026 | Lux Fragil | Lisbon |
 | Sat, 28 Nov 2026 | Millenium Club | Bologna |
@@ -17,6 +16,7 @@ Isaac Carter is a house and deep house artist based in United Kingdom, with 101 
 
 ## Recently played
 
+- Chelmsford City Racecourse, London · Sun, 1 Nov 2026
 - The Loft, Manchester · Thu, 29 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Madam, Amsterdam · Thu, 22 Oct 2026
@@ -24,10 +24,9 @@ Isaac Carter is a house and deep house artist based in United Kingdom, with 101 
 - The Love Inn, Bristol · Sat, 17 Oct 2026
 - Tenuta Tor De' Sordi, Rome · Sat, 10 Oct 2026
 - MONKEY LOVE, Warsaw · Fri, 2 Oct 2026
-- DC-10, Ibiza · Mon, 28 Sept 2026
 
 ## Shares bills with
 
 Laidlaw, Ella Knight, Enzo Siragusa
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaaccarter/)*

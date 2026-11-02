@@ -1,14 +1,13 @@
 # IMOGEN
 
-IMOGEN is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Nowadays, New York City on Fri, 30 Oct 2026.
+IMOGEN is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
 
-IMOGEN is a techno and electro artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 52 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Nowadays, New York City on Fri 30 Oct.
+IMOGEN is a techno and electro artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 52 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Nowadays | New York City |
 | Sat, 7 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 12 Dec 2026 | Gaffe | London |
 
@@ -27,4 +26,4 @@ IMOGEN is a techno and electro artist based in United Kingdom, with 157 gigs on 
 
 DJ MELL G, DJ Stingray 313, Helena Hauff
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/imogen/)*

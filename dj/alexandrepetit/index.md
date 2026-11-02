@@ -1,8 +1,8 @@
 # Alexandre Petit
 
-Alexandre Petit is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA, London on Thu, 5 Nov 2026.
+Alexandre Petit is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, London on Thu, 5 Nov 2026.
 
-Alexandre Petit is an electronica and minimal artist, with 4 gigs on soundcheck across Berlin and London. Often billed alongside Gil, Losoul and Ben Vedren. Next up: TBA, London on Thu 5 Nov.
+Alexandre Petit is an electronica and minimal artist based in France, with 4 gigs on soundcheck across Berlin and London. Often billed alongside Gil, Losoul and Ben Vedren. Next up: TBA, London on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Alexandre Petit is an electronica and minimal artist, with 4 gigs on soundcheck 
 
 Gil (3), Losoul, Ben Vedren
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandrepetit/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandrepetit/)*

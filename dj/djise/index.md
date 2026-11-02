@@ -1,6 +1,6 @@
 # DJ ISE
 
-DJ ISE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Mon, 2 Nov 2026.
+DJ ISE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Mon, 2 Nov 2026.
 
 DJ ISE is a house and deep house artist based in Japan, with 112 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Masayoshi Kimura, DQ Sakura and KIMURA. Next up: BRAND SHIBUYA, Tokyo on Mon 2 Nov.
 
@@ -25,4 +25,4 @@ DJ ISE is a house and deep house artist based in Japan, with 112 gigs on soundch
 
 Masayoshi Kimura, DQ Sakura, KIMURA
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djise/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djise/)*

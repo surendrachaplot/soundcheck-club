@@ -1,13 +1,14 @@
 # Noncompliant
 
-Noncompliant is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
+Noncompliant is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Speedway VFW Post #2839, Indiana on Sat, 14 Nov 2026.
 
-Noncompliant is a techno and electro artist, with 17 gigs on soundcheck across Chicago, Detroit, Montreal and New York City and 3 more. Often billed alongside Ron Like Hell, Duck Trash and Elle Dee. Next up: Marble Bar, Detroit on Fri 20 Nov.
+Noncompliant is a techno and electro artist based in United States of America, with 18 gigs on soundcheck across Chicago, Detroit, Indiana and Montreal and 4 more. Often billed alongside Ron Like Hell, Duck Trash and Elle Dee. Next up: Speedway VFW Post #2839, Indiana on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Speedway VFW Post #2839 | Indiana |
 | Fri, 20 Nov 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Noncompliant is a techno and electro artist, with 17 gigs on soundcheck across C
 
 Ron Like Hell, Duck Trash, Elle Dee
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noncompliant/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noncompliant/)*

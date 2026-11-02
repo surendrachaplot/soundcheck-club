@@ -1,14 +1,15 @@
 # LOVELL
 
-LOVELL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at The Ivory Hotel, Glasgow on Sun, 27 Dec 2026.
+LOVELL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Ivory Hotel, Glasgow on Sun, 27 Dec 2026.
 
-LOVELL is a house and techno artist based in United Kingdom, with 23 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Acid Boner, Angel Negrin and Illogical Operator. Next up: The Ivory Hotel, Glasgow on Sun 27 Dec.
+LOVELL is a house and techno artist based in United Kingdom, with 24 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Angel Negrin, Acid Boner and Illogical Operator. Next up: The Ivory Hotel, Glasgow on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 27 Dec 2026 | The Ivory Hotel | Glasgow |
+| Sat, 27 Feb 2027 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ LOVELL is a house and techno artist based in United Kingdom, with 23 gigs on sou
 
 ## Shares bills with
 
-Acid Boner, Angel Negrin, Illogical Operator
+Angel Negrin, Acid Boner, Illogical Operator
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovell/)*

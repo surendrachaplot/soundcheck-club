@@ -1,6 +1,6 @@
 # Adiel b2b HAAi - Italian Premiere - hosted by EAR\WAX at Q35 WAREHOUSE
 
-Adiel b2b HAAi - Italian Premiere - hosted by EAR\WAX at Q35 WAREHOUSE on Sat 30 Jan, Turin. 2 artists: Adiel and HAAi. See the line-up on soundcheck.
+Adiel b2b HAAi - Italian Premiere - hosted by EAR\WAX at Q35 WAREHOUSE on Sat 30 Jan, Turin. 2 artists: Adiel and HAAi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

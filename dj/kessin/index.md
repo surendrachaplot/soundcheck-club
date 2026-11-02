@@ -1,8 +1,8 @@
 # KESSIN
 
-KESSIN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Port Beach Brewery, Perth on Fri, 6 Nov 2026.
+KESSIN is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Port Beach Brewery, Perth on Fri, 6 Nov 2026.
 
-KESSIN is a house and tech house artist, with 14 gigs on soundcheck across Bali, Brisbane, London and Melbourne and 2 more. Often billed alongside Adam Trace, Katie Hill and Wade. Next up: Port Beach Brewery, Perth on Fri 6 Nov.
+KESSIN is a house and tech house artist based in Australia, with 14 gigs on soundcheck across Bali, Brisbane, London and Melbourne and 2 more. Often billed alongside Adam Trace, Katie Hill and Wade. Next up: Port Beach Brewery, Perth on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ KESSIN is a house and tech house artist, with 14 gigs on soundcheck across Bali,
 
 Adam Trace, Katie Hill, Wade
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kessin/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kessin/)*

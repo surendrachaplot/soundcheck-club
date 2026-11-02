@@ -1,6 +1,6 @@
 # amachaaan
 
-amachaaan is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 6 Nov 2026.
+amachaaan is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Koenji Cave, Tokyo on Fri, 6 Nov 2026.
 
 amachaaan is a psytrance and techno artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside BERLINER KINDL and FUJIMON. Next up: Koenji Cave, Tokyo on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ amachaaan is a psytrance and techno artist based in Japan, with 3 gigs on soundc
 
 BERLINER KINDL, FUJIMON
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amachaaan/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amachaaan/)*

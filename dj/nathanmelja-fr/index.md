@@ -1,8 +1,8 @@
 # Nathan Melja
 
-Nathan Melja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 13 Nov 2026.
+Nathan Melja is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at la Maison de la Conversation, Paris on Fri, 13 Nov 2026.
 
-Nathan Melja is a house and techno artist, with 28 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Marseille and 5 more. Often billed alongside Flørist, Labouts and Woddd. Next up: la Maison de la Conversation, Paris on Fri 13 Nov.
+Nathan Melja is a house and techno artist based in France, with 28 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Marseille and 5 more. Often billed alongside Flørist, Labouts and Woddd. Next up: la Maison de la Conversation, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Nathan Melja is a house and techno artist, with 28 gigs on soundcheck across Bar
 
 Flørist, Labouts, Woddd
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanmelja-fr/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanmelja-fr/)*

@@ -1,6 +1,6 @@
 # MagickTraxx
 
-MagickTraxx is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Marble Bar, Detroit on Thu, 10 Dec 2026.
+MagickTraxx is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Marble Bar, Detroit on Thu, 10 Dec 2026.
 
 MagickTraxx is a jungle and breakbeat artist, with 2 gigs on soundcheck across Detroit. Often billed alongside Auntie Chanel, Cherriel and Lazarus313. Next up: Marble Bar, Detroit on Thu 10 Dec.
 
@@ -18,4 +18,4 @@ MagickTraxx is a jungle and breakbeat artist, with 2 gigs on soundcheck across D
 
 Auntie Chanel, Cherriel, Lazarus313
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magicktraxx/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magicktraxx/)*

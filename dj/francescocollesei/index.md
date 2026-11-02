@@ -1,6 +1,6 @@
 # Francesco Collesei
 
-Francesco Collesei is a Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at Subcero Club, Madrid on Fri, 6 Nov 2026.
+Francesco Collesei is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Subcero Club, Madrid on Fri, 6 Nov 2026.
 
 Francesco Collesei is an electronica artist, with 5 gigs on soundcheck across Madrid. Often billed alongside Spyrow, Cosmo and Hugo Carter. Next up: Subcero Club, Madrid on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Francesco Collesei is an electronica artist, with 5 gigs on soundcheck across Ma
 
 Spyrow, Cosmo, Hugo Carter
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocollesei/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocollesei/)*

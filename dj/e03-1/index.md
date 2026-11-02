@@ -1,6 +1,6 @@
 # e03 (1)
 
-e03 (1) is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at TBA - KOSTEL HUSOVA SBORU , Prague on Fri, 13 Nov 2026.
+e03 (1) is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - KOSTEL HUSOVA SBORU , Prague on Fri, 13 Nov 2026.
 
 e03 is an experimental and club artist, with 12 gigs on soundcheck across Berlin, Prague and Tbilisi. Often billed alongside Warlord®, bod [包家巷] and Chaosy. Next up: TBA - KOSTEL HUSOVA SBORU , Prague on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ e03 is an experimental and club artist, with 12 gigs on soundcheck across Berlin
 
 Warlord®, bod [包家巷], Chaosy
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e03-1/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e03-1/)*

@@ -1,6 +1,6 @@
 # DJ FRRR
 
-DJ FRRR is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 1 Nov 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
+DJ FRRR is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
 
 DJ FRRR is a techno and bass artist, with 14 gigs on soundcheck across Paris. Often billed alongside Jiken, Sorun and BJF. Next up: La Java, Paris on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ DJ FRRR is a techno and bass artist, with 14 gigs on soundcheck across Paris. Of
 
 Jiken, Sorun, BJF
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrrr/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrrr/)*

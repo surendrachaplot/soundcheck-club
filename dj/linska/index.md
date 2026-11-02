@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at City Market, Los Angeles on Sat, 14 Nov 2026.
+Linska is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at City Market, Los Angeles on Sat, 14 Nov 2026.
 
 Linska is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 21 more. Often billed alongside Gorgon City, Adam Beyer and Eli Brown. Next up: City Market, Los Angeles on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Linska is a techno and house artist based in United Kingdom, with 52 gigs on sou
 
 Gorgon City, Adam Beyer, Eli Brown
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

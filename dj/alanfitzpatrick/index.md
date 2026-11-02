@@ -1,6 +1,6 @@
 # Alan Fitzpatrick
 
-Alan Fitzpatrick is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at One77 Brooklyn, New York City on Fri, 6 Nov 2026.
+Alan Fitzpatrick is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at One77 Brooklyn, New York City on Fri, 6 Nov 2026.
 
 Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Belgrade and 42 more. Often billed alongside Jamie Jones, Marco Faraone and Ben Hemsley. Next up: One77 Brooklyn, New York City on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Alan Fitzpatrick is a techno and house artist based in United Kingdom, with 125 
 
 Jamie Jones, Marco Faraone, Ben Hemsley
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alanfitzpatrick/)*

@@ -1,8 +1,8 @@
 # The Library
 
-The Library is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at HVEN, Tokyo on Fri, 6 Nov 2026.
+The Library is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at HVEN, Tokyo on Fri, 6 Nov 2026.
 
-The Library is a house and disco artist, with 13 gigs on soundcheck across Tokyo. Often billed alongside Kairi Komoda, ueue and Midori Aoyama. Next up: HVEN, Tokyo on Fri 6 Nov.
+The Library is a house and disco artist based in Japan, with 13 gigs on soundcheck across Tokyo. Often billed alongside Kairi Komoda, ueue and Midori Aoyama. Next up: HVEN, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ The Library is a house and disco artist, with 13 gigs on soundcheck across Tokyo
 
 Kairi Komoda, ueue (2), Midori Aoyama
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thelibrary/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thelibrary/)*

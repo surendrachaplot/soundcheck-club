@@ -1,6 +1,6 @@
 # GENNARO
 
-GENNARO is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 1 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+GENNARO is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 GENNARO is a tech house and house artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Chicago, Cologne and Dortmund / Essen and 12 more. Often billed alongside Mason Collective, Ben Sterling and ChaseWest. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ GENNARO is a tech house and house artist based in Italy, with 27 gigs on soundch
 
 Mason Collective, Ben Sterling, ChaseWest
 
-*Updated Sun, 1 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
+*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
