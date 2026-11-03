@@ -1,8 +1,8 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "La Paloma meets AMEBA: Marcello Giordani b2b Egyptian Greyhound + Momasé + Spacer" on Fri, 6 Nov 2026.
+La Paloma is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "La Paloma meets AMEBA: Marcello Giordani b2b Egyptian Greyhound + Momasé + Spacer" on Fri, 6 Nov 2026.
 
-La Paloma is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including Chica Acosta, Colleen 'Cosmo' Murphy, Danilo Plessow and Deckard and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
+La Paloma is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including Chica Acosta, Colleen 'Cosmo' Murphy, Danilo Plessow and Deckard and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
 ## What's on
 
@@ -13,6 +13,7 @@ La Paloma is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, w
 | Fri, 13 Nov 2026 | POLENTA |  |
 | Sat, 14 Nov 2026 | La Paloma presents: Danilo Plessow DJ set + Tereza DJ set | Danilo Plessow, Tereza |
 | Fri, 20 Nov 2026 | La Paloma presents: Quantic Dj set + Chica Acosta + Angela Blackburn | Chica Acosta, Quantic |
+| Sat, 21 Nov 2026 | HUNKY FUNKY Funk-Disco Party: DJ Paulette | DJ Paulette |
 | Fri, 27 Nov 2026 | La Paloma meets Dance Elements: Steffi x Virginia + Elwood b2b Ezekiel + Phijos | Elwood, Ezekiel, Phijos, Steffi, Virginia |
 
 ## Address

@@ -1,14 +1,15 @@
 # Jenifa Mayanja
 
-Jenifa Mayanja is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at public records, New York City on Sat, 28 Nov 2026.
+Jenifa Mayanja is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at public records, New York City on Sat, 28 Nov 2026.
 
-Jenifa Mayanja is a house and deep house artist based in United States of America, with 32 gigs on soundcheck across Chicago, London, Montreal and Munich and 2 more. Often billed alongside Lovie, Francis Harris and Scott Grooves. Next up: public records, New York City on Sat 28 Nov.
+Jenifa Mayanja is a house and deep house artist based in United States of America, with 33 gigs on soundcheck across Chicago, London, Montreal and Munich and 3 more. Often billed alongside Lovie, Francis Harris and Scott Grooves. Next up: public records, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | public records | New York City |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # GEMS: Lord of the SAAS at The Berkeley Suite
 
-GEMS: Lord of the SAAS at The Berkeley Suite on Wed 11 Nov, Glasgow. 3 artists: Aidan, HARRY (JP) and Jenson Mickel. See the line-up on soundcheck.
+GEMS: Lord of the SAAS at The Berkeley Suite on Wed 11 Nov, Glasgow. 2 artists: HARRY (JP) and Jenson Mickel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ GEMS: Lord of the SAAS at The Berkeley Suite on Wed 11 Nov, Glasgow. 3 artists: 
 
 ## Line-up
 
-- Aidan
 - HARRY (JP)
 - Jenson Mickel
 

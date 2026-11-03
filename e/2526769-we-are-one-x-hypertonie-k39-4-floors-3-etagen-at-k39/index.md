@@ -1,11 +1,15 @@
 # WE ARE ONE x HYPERTONIE - K39 - 4 Floors - 3 Etagen at K39
 
-WE ARE ONE x HYPERTONIE - K39 - 4 Floors - 3 Etagen on Sat 19 Dec, Frankfurt. Trance and Techno. See the line-up on soundcheck.
+WE ARE ONE x HYPERTONIE - K39 - 4 Floors - 3 Etagen on Sat 19 Dec, Frankfurt. 1 artist: Emil Bunker. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 19 Dec 2026 |
 | Venue | K39 |
 | City | Frankfurt |
+
+## Line-up
+
+- Emil Bunker
 
 *Source: [soundcheck](https://soundcheck.club/e/2526769-we-are-one-x-hypertonie-k39-4-floors-3-etagen-at-k39/)*

@@ -1,8 +1,8 @@
-# NAT(SK)
+# NAT (SK)
 
-NAT(SK) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jolene, Copenhagen on Fri, 27 Nov 2026.
+NAT (SK) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jolene, Copenhagen on Fri, 27 Nov 2026.
 
-NAT(SK) is a house and progressive house artist based in Slovakia, with 57 gigs on soundcheck across Berlin, Copenhagen, New York City and Prague and 2 more. Often billed alongside YOON, Pelzman and B From E. Next up: Jolene, Copenhagen on Fri 27 Nov.
+NAT (SK) is a house and progressive house artist based in Slovakia, with 57 gigs on soundcheck across Berlin, Copenhagen, New York City and Prague and 2 more. Often billed alongside YOON, Pelzman and B From E. Next up: Jolene, Copenhagen on Fri 27 Nov.
 
 ## Upcoming shows
 

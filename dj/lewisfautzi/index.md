@@ -1,13 +1,14 @@
 # Lewis Fautzi
 
-Lewis Fautzi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Lewis Fautzi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Family Club, Madrid on Sat, 7 Nov 2026.
 
-Lewis Fautzi is a techno and house artist based in Portugal, with 97 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Lewis Fautzi is a techno and house artist based in Portugal, with 98 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 34 more. Often billed alongside CONCEPTUAL, Archives Uniques and Adriana Lopez. Next up: Family Club, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Family Club | Madrid |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Fri, 27 Nov 2026 | Cabaret  Aléatoire | Marseille |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |

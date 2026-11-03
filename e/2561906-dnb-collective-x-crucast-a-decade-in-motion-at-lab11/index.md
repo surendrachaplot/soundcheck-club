@@ -1,6 +1,6 @@
 # DNB Collective X CruCast: A Decade In Motion at Lab11
 
-DNB Collective X CruCast: A Decade In Motion at Lab11 on Sat 28 Nov, Birmingham. 13 artists: AZZA, b-line, BassLayerz and Disrupta and 9 more. Drum & Bass. See the line-up on soundcheck.
+DNB Collective X CruCast: A Decade In Motion at Lab11 on Sat 28 Nov, Birmingham. 12 artists: b-line, BassLayerz, Disrupta and Harry Shotta and 8 more. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ DNB Collective X CruCast: A Decade In Motion at Lab11 on Sat 28 Nov, Birmingham.
 
 ## Line-up
 
-- AZZA
 - b-line
 - BassLayerz
 - Disrupta

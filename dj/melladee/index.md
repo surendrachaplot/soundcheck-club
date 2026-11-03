@@ -1,8 +1,8 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+Mella Dee is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
 
-Mella Dee is a house and techno artist based in United Kingdom, with 178 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: The Cause, London on Sat 7 Nov.
+Mella Dee is a house and techno artist based in United Kingdom, with 179 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: The Cause, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Mella Dee is a house and techno artist based in United Kingdom, with 178 gigs on
 | Fri, 4 Dec 2026 | The Loft | Manchester |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
+| Sun, 6 Dec 2026 | The Loft | Manchester |
 | Sat, 12 Dec 2026 | Club Cheek | London |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |

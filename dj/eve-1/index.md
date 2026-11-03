@@ -1,8 +1,8 @@
 # EVE (1)
 
-EVE (1) is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+EVE (1) is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-EVE is a techno and industrial artist based in South Korea, with 222 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 25 more. Often billed alongside KAMIKAZE, TYPE-O RISK SYSTEM and FENGX2. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
+EVE is a techno and industrial artist based in South Korea, with 223 gigs on soundcheck across Amsterdam, Bangkok, Basel and Berlin and 25 more. Often billed alongside KAMIKAZE, TYPE-O RISK SYSTEM and FENGX2. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ EVE is a techno and industrial artist based in South Korea, with 222 gigs on sou
 | Sat, 14 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | Triangle | Osaka |
 | Sat, 14 Nov 2026 | Blvck Water | Osaka |
+| Fri, 27 Nov 2026 | Live Haus | Tokyo |
 | Sat, 12 Dec 2026 | Outernet Live | London |
 
 ## Recently played

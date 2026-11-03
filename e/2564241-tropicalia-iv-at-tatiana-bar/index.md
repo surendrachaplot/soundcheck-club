@@ -1,10 +1,10 @@
 # Tropicalia IV at Tatiana Bar
 
-Tropicalia IV at Tatiana Bar on Sat 7 Nov, Melbourne. Afro House. See the line-up on soundcheck.
+Tropicalia IV at Tatiana Bar on Sat 12 Dec, Melbourne. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 7 Nov 2026 |
+| Date | Sat, 12 Dec 2026 |
 | Venue | Tatiana Bar |
 | City | Melbourne |
 

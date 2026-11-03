@@ -1,14 +1,15 @@
 # ona:v
 
-ona:v is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 14 Nov 2026.
+ona:v is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 14 Nov 2026.
 
-ona:v is a techno and electro artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 6 more. Often billed alongside ENAEN, Iona.Violet and iluna. Next up: People's Leisure Club, Edinburgh on Sat 14 Nov.
+ona:v is a techno and electro artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 6 more. Often billed alongside ENAEN, Iona.Violet and iluna. Next up: People's Leisure Club, Edinburgh on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | People's Leisure Club | Edinburgh |
+| Tue, 24 Nov 2026 | Paradise Palms | Edinburgh |
 | Sat, 28 Nov 2026 | The Bongo Club | Edinburgh |
 | Fri, 18 Dec 2026 | The Safari Lounge | Edinburgh |
 | Sat, 26 Dec 2026 | The Bongo Club | Edinburgh |

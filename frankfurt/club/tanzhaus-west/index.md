@@ -1,8 +1,8 @@
 # Tanzhaus West
 
-Tanzhaus West is a music venue in Frankfurt with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "COLOURS pres. WirZusammenEins, 3000Grad, Ohral" on Sat, 7 Nov 2026.
+Tanzhaus West is a music venue in Frankfurt with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "COLOURS pres. WirZusammenEins, 3000Grad, Ohral" on Sat, 7 Nov 2026.
 
-Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 4 upcoming gigs, with line-ups including Justine Perry, ADHASS, Alberto Tolo and Artificial DNA and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
+Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 5 upcoming gigs, with line-ups including Justine Perry, ADHASS, Alberto Tolo and Andrale and 2 more. See dates, start times and who's playing. Gutleutstrasse 294; 60327 Frankfurt; Germany.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Tanzhaus West is a music venue in Frankfurt listed on soundcheck. 4 upcoming gig
 | Fri, 20 Nov 2026 | Synthlab x LFO: ETHER V5 with Cirkle (Live), Justine Perry, Toobris | Alberto Tolo, Artificial DNA, Cirkle, Confusion, Dark Manoeuvres, Jozh, Justine Perry, LILLIVEE, Nastaran, Toobris, Øscil |
 | Fri, 27 Nov 2026 | Kuddelmuddel bei Nacht |  |
 | Sat, 28 Nov 2026 | 23 JAHRE Tanzhaus West | ADHASS, CEM, Concussion, DJ 069, Fabe, HOTBOI2300, Laurine Philippe, MËRO, Nene H, Otis Xo, Q NANi, assena, felix (6), stargurl |
+| Sat, 19 Dec 2026 | BERLINER NAECHTE | Andrale, Britta Arnold, Foolik, Oriental Tropical, Pauli Pocket |
 
 ## Address
 

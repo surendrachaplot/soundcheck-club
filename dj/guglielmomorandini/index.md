@@ -1,14 +1,15 @@
 # Guglielmo Morandini
 
-Guglielmo Morandini is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 7 Nov 2026.
+Guglielmo Morandini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 7 Nov 2026.
 
-Guglielmo Morandini is a techno and house artist based in Italy, with 34 gigs on soundcheck across Amsterdam, Milan and Turin. Often billed alongside Enrico Vivaldi, GLF's and Ddcmp. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 7 Nov.
+Guglielmo Morandini is a techno and house artist based in Italy, with 35 gigs on soundcheck across Amsterdam, Milan and Turin. Often billed alongside Enrico Vivaldi, GLF's and Ddcmp. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Sat, 28 Nov 2026 | DURO | Milan |
 
 ## Recently played
 

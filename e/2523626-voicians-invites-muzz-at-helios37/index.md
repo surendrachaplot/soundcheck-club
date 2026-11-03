@@ -1,6 +1,6 @@
 # Voicians Invites: MUZZ at Helios37
 
-Voicians Invites: MUZZ at Helios37 on Sat 7 Nov, Cologne. 2 artists: Jon Void and Voicians. Drum & Bass. See the line-up on soundcheck.
+Voicians Invites: MUZZ at Helios37 on Sat 7 Nov, Cologne. 2 artists: Jon Void and Voicians. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

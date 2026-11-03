@@ -1,13 +1,14 @@
 # oma totem
 
-oma totem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 28 Nov 2026.
+oma totem is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Jolene, Copenhagen on Sat, 21 Nov 2026.
 
-oma totem is a techno and house artist based in Spain, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chengdu and 15 more. Often billed alongside mad miran, Lena Willikens and Phran. Next up: RSO.BERLIN, Berlin on Sat 28 Nov.
+oma totem is a techno and house artist based in Spain, with 69 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chengdu and 16 more. Often billed alongside mad miran, Lena Willikens and Phran. Next up: Jolene, Copenhagen on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Jolene | Copenhagen |
 | Sat, 28 Nov 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played

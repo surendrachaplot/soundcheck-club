@@ -1,14 +1,15 @@
 # Frank Storm
 
-Frank Storm is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cinecittà World, Rome on Sat, 21 Nov 2026.
+Frank Storm is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cinecittà World, Rome on Sat, 21 Nov 2026.
 
-Frank Storm is a tech house and techno artist based in Italy, with 50 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 14 more. Often billed alongside Marco Carola, Ale De Tuglie and Wade. Next up: Cinecittà World, Rome on Sat 21 Nov.
+Frank Storm is a tech house and techno artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bogotá and 14 more. Often billed alongside Marco Carola, Ale De Tuglie and Ilario Alicante. Next up: Cinecittà World, Rome on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Cinecittà World | Rome |
+| Fri, 1 Jan 2027 | Fabrik | Madrid |
 | Sat, 2 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
 
 ## Recently played
@@ -24,6 +25,6 @@ Frank Storm is a tech house and techno artist based in Italy, with 50 gigs on so
 
 ## Shares bills with
 
-Marco Carola, Ale De Tuglie, Wade
+Marco Carola, Ale De Tuglie, Ilario Alicante
 
 *Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankstorm/)*

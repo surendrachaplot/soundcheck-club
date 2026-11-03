@@ -1,6 +1,6 @@
 # Teletech MADRID at The Garage
 
-Teletech MADRID at The Garage on Sat 21 Nov, Madrid. 6 artists: Alba Franch, Azyr, ines isla and Nikolina and 2 more. Industrial. See the line-up on soundcheck.
+Teletech MADRID at The Garage on Sat 21 Nov, Madrid. 5 artists: Alba Franch, Azyr, ines isla and TOXIMAMI and 1 more. Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Teletech MADRID at The Garage on Sat 21 Nov, Madrid. 6 artists: Alba Franch, Azy
 - Alba Franch
 - Azyr
 - ines isla
-- Nikolina
 - TOXIMAMI
 - Trym
 

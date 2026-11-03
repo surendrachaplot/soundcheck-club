@@ -1,8 +1,8 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Soup, Manchester on Fri, 6 Nov 2026.
+Yushh is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Soup, Manchester on Fri, 6 Nov 2026.
 
-Yushh is a bass and techno artist based in United Kingdom, with 121 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 36 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Soup, Manchester on Fri 6 Nov.
+Yushh is a bass and techno artist based in United Kingdom, with 122 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 37 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Soup, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Yushh is a bass and techno artist based in United Kingdom, with 121 gigs on soun
 | Fri, 6 Nov 2026 | Soup | Manchester |
 | Sat, 7 Nov 2026 | Argo16 | Venice |
 | Fri, 4 Dec 2026 | Tresor / Globus | Berlin |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

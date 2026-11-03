@@ -1,8 +1,8 @@
 # Mindset
 
-Mindset is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
+Mindset is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
 
-Mindset is a house and electronica artist based in Argentina, with 7 gigs on soundcheck across Austin, Dallas Fort Worth and Madrid. Often billed alongside HerShe, Anzhio and Azyr. Next up: Barco Sound House, Madrid on Fri 6 Nov.
+Mindset is a house and deep house artist based in Argentina, with 7 gigs on soundcheck across Austin, Dallas Fort Worth and Madrid. Often billed alongside HerShe, Anzhio and Azyr. Next up: Barco Sound House, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 

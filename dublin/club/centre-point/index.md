@@ -9,7 +9,7 @@ Centre Point is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Pegassi | Pegassi |
-| Sat, 14 Nov 2026 | The Avalanches (DJ Set) + For Those I Love | The Avalanches |
+| Sat, 14 Nov 2026 | The Avalanches [DJ Set] + For Those I Love [DJ Set] | The Avalanches |
 | Fri, 20 Nov 2026 | Weval (DJ) | Ste Flynn, Weval |
 | Sat, 21 Nov 2026 | Maribou State (DJ Set) | Maribou State |
 | Fri, 27 Nov 2026 | SOAP x Centre Point: BAUGRUPPE90 + Megra | BAUGRUPPE90, Megra |

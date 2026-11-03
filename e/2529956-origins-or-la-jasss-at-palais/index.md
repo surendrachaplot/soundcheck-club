@@ -1,6 +1,6 @@
 # Origins: Or:la & JASSS at Palais
 
-Origins: Or:la & JASSS at Palais on Sat 7 Nov, London. 2 artists: JASSS and Or:la. Techno and House. See the line-up on soundcheck.
+Origins: Or:la & JASSS at Palais on Sat 7 Nov, London. 3 artists: Cami Layé Okún, JASSS and Or:la. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Origins: Or:la & JASSS at Palais on Sat 7 Nov, London. 2 artists: JASSS and Or:l
 
 ## Line-up
 
+- Cami Layé Okún
 - JASSS
 - Or:la
 

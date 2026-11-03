@@ -1,8 +1,8 @@
 # Maurice Fulton
 
-Maurice Fulton is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Bellevilloise, Paris on Fri, 6 Nov 2026.
+Maurice Fulton is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Bellevilloise, Paris on Fri, 6 Nov 2026.
 
-Maurice Fulton is a house and disco artist based in United States of America, with 114 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 38 more. Often billed alongside MUSCLECARS, Tama Sumo and Lakuti. Next up: La Bellevilloise, Paris on Fri 6 Nov.
+Maurice Fulton is a house and disco artist based in United States of America, with 115 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 38 more. Often billed alongside MUSCLECARS, Tama Sumo and Lakuti. Next up: La Bellevilloise, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maurice Fulton is a house and disco artist based in United States of America, wi
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | La Bellevilloise | Paris |
 | Sat, 14 Nov 2026 | Colour Factory | London |
+| Sun, 22 Nov 2026 | DURO | Milan |
 | Sat, 6 Mar 2027 | Meredith Supernatural Ampitheatre | Melbourne |
 
 ## Recently played

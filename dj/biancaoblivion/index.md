@@ -1,13 +1,14 @@
 # Bianca Oblivion
 
-Bianca Oblivion is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 6 Nov 2026.
+Bianca Oblivion is a Bass and Club artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 6 Nov 2026.
 
-Bianca Oblivion is a bass and club artist based in United States of America, with 174 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 53 more. Often billed alongside Star Eyes, Sam Binga and AK SPORTS. Next up: SISSI'S Amsterdam, Amsterdam on Fri 6 Nov.
+Bianca Oblivion is a bass and club artist based in United States of America, with 175 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 53 more. Often billed alongside Star Eyes, Sam Binga and AK SPORTS. Next up: SISSI'S Amsterdam, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 21 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
 | Fri, 27 Nov 2026 | 26 Leake Street | London |

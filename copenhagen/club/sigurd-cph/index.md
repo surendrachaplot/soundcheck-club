@@ -15,7 +15,7 @@ Sigurd CPH is a music venue in Copenhagen listed on soundcheck. 8 upcoming gigs,
 | Fri, 20 Nov 2026 | 2200 | Popsie |
 | Sat, 21 Nov 2026 | DE LA GROOVE (FR) | Chinau, Knuckle G |
 | Fri, 27 Nov 2026 | 2200 with DJ Ary & Téa Kenithia |  |
-| Sat, 28 Nov 2026 | ENJOYMENT by GTSZN | Jolie, Naima |
+| Sat, 28 Nov 2026 | ENJOYMENT by GT-SZN | Jolie, Naima |
 
 ## Address
 

@@ -2,7 +2,7 @@
 
 Document is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "UKG Brunch - Bristol Ft. Kele Le Roc, Sweet Female Attitude " on Sat, 7 Nov 2026.
 
-Document is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Artemis, Bateman, Break and Breakage and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
+Document is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including Artemis, Bateman, Benny L and Break and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol, BS5 0TH.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Document is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | UKG Brunch - Bristol Ft. Kele Le Roc, Sweet Female Attitude  | Kele Le Roc, Sweet Female Attitude |
 | Sat, 14 Nov 2026 | Document presents: East End Dubs | East End Dubs |
-| Fri, 27 Nov 2026 | Gray presents: Antisocial Sound (w/ Electrikal Soundsystem) |  |
+| Fri, 27 Nov 2026 | Gray presents: Antisocial Sound (w/ Electrikal Soundsystem) | Benny L, Charlie Tee, DREAD MC, Danny Rankin |
 | Sat, 28 Nov 2026 | Jazzy - Peace & Patience Tour - Bristol | Jazzy (IRL) |
 | Sat, 5 Dec 2026 | Worried About Henry: Bristol | Artemis, Bateman, Break, Breakage, Hybrid Minds, Tempza, Window Kid |
 | Sat, 19 Dec 2026 | KOAN Sound - Bristol | KOAN Sound, MIYAMORO |

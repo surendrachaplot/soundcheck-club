@@ -2,7 +2,7 @@
 
 Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 18 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Supernova (Summer Closing)" on Sat, 7 Nov 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, with line-ups including Ares (IT), Bruz, Claudio Ricci and Dave Seaman and 2 more. See dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 18 upcoming gigs, with line-ups including Ares (IT), Bakean, Bruz and Claudio Ricci and 2 more. See dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
@@ -15,7 +15,7 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 1
 | Sat, 21 Nov 2026 | Supernova |  |
 | Sat, 21 Nov 2026 | Akasha 5th Anniversary |  |
 | Sun, 22 Nov 2026 | Nido |  |
-| Sat, 28 Nov 2026 | Supernova |  |
+| Sat, 28 Nov 2026 | Supernova | Bakean, IBÁN MENDOZA |
 | Sun, 29 Nov 2026 | Nido | HADA, Kanedo, Sorä |
 | Sat, 5 Dec 2026 | Supernova x Happy Camper | unders |
 

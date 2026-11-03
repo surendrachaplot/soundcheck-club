@@ -1,14 +1,15 @@
 # Ion Pananides
 
-Ion Pananides is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 7 Nov 2026.
+Ion Pananides is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 7 Nov 2026.
 
-Ion Pananides is a house and tech house artist based in Spain, with 78 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 4 more. Often billed alongside Alex Pott, DJ Sandwich and IULS. Next up: Les Enfants Brillants, Barcelona on Sat 7 Nov.
+Ion Pananides is a house and tech house artist based in Spain, with 79 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 4 more. Often billed alongside Alex Pott, DJ Sandwich and IULS. Next up: Les Enfants Brillants, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Les Enfants Brillants | Barcelona |
+| Sun, 8 Nov 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
 

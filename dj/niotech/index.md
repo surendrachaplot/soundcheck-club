@@ -10,7 +10,7 @@ Niotech is a techno and trance artist based in Germany, with 94 gigs on soundche
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Tanztag. Schwerin | Mecklenburg-vorpommern |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
-| Sat, 28 Nov 2026 | Sala Cocó | Madrid |
+| Thu, 26 Nov 2026 | Sala Independance Club | Madrid |
 | Fri, 4 Dec 2026 | Fuchs2 | Prague |
 | Sat, 5 Dec 2026 | DSTRKT Club Berlin | Berlin |
 | Sat, 12 Dec 2026 | Indiego Glocksee | Hannover |

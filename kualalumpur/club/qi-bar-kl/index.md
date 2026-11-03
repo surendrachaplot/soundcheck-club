@@ -1,13 +1,13 @@
 # Qi bar.kl
 
-Qi bar.kl is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Innervoice X" on Fri, 23 Oct 2026.
+Qi bar.kl is a music venue in Kuala Lumpur with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Born to Groove" on Sat, 7 Nov 2026.
 
-Qi bar.kl is a music venue in Kuala Lumpur listed on soundcheck. 1 upcoming gig, with line-ups including Axel Groove. See dates, start times and who's playing.
+Qi bar.kl is a music venue in Kuala Lumpur listed on soundcheck. 1 upcoming gig, with line-ups including Victor G (MY). See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Innervoice X | Axel Groove |
+| Sat, 7 Nov 2026 | Born to Groove | Victor G (MY) |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/qi-bar-kl/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/qi-bar-kl/)*

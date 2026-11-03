@@ -1,8 +1,8 @@
 # PNNY
 
-PNNY is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at boomroom, Perth on Fri, 13 Nov 2026.
+PNNY is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at boomroom, Perth on Fri, 13 Nov 2026.
 
-PNNY is a house and disco artist based in Indonesia, with 125 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Tiago Oudman, Tjade and DITA (ID). Next up: boomroom, Perth on Fri 13 Nov.
+PNNY is a house and disco artist based in Indonesia, with 126 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 12 more. Often billed alongside Tiago Oudman, Tjade and DITA (ID). Next up: boomroom, Perth on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ PNNY is a house and disco artist based in Indonesia, with 125 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | boomroom | Perth |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Mon, 23 Nov 2026 | Luigis Hot Pizza Bali | Bali |
 
 ## Recently played
 

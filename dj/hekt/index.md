@@ -1,13 +1,14 @@
 # Hekt
 
-Hekt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Hekt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 20 Nov 2026.
 
-Hekt is a house and techno artist based in Denmark, with 21 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Blawan, Ingrate and Debit. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
+Hekt is a house and techno artist based in Denmark, with 22 gigs on soundcheck across Barcelona, Berlin, Brussels and Copenhagen and 6 more. Often billed alongside Blawan, Ingrate and Debit. Next up: Nitsa Club, Barcelona on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Nitsa Club | Barcelona |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 
 ## Recently played

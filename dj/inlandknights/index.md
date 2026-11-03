@@ -1,8 +1,8 @@
 # Inland Knights
 
-Inland Knights is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 6 Nov 2026.
+Inland Knights is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 6 Nov 2026.
 
-Inland Knights is a house and deep house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 11 more. Often billed alongside Buckley, Elliot Schooling and Fleur Shore. Next up: Starlane Pizza Bar, London on Fri 6 Nov.
+Inland Knights is a house and deep house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 12 more. Often billed alongside Buckley, Elliot Schooling and Fleur Shore. Next up: Starlane Pizza Bar, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Inland Knights is a house and deep house artist based in United Kingdom, with 35
 | Fri, 6 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 21 Nov 2026 | fabric | London |
 | Sat, 19 Dec 2026 | Movers | Nottingham |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

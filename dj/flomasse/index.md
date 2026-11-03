@@ -1,14 +1,15 @@
 # Flo Massé
 
-Flo Massé is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The DBA, Manchester on Fri, 27 Nov 2026.
+Flo Massé is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The DBA, Manchester on Fri, 27 Nov 2026.
 
-Flo Massé is a house and techno artist based in Brazil, with 133 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 33 more. Often billed alongside Jolly (FR), DJ Gamba and P.O. Next up: The DBA, Manchester on Fri 27 Nov.
+Flo Massé is a house and techno artist based in Brazil, with 134 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 33 more. Often billed alongside Jolly (FR), DJ Gamba and P.O. Next up: The DBA, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The DBA | Manchester |
+| Sat, 28 Nov 2026 | Espace Francis Delage - Salle Concorde | Paris |
 
 ## Recently played
 

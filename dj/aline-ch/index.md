@@ -1,8 +1,8 @@
 # Aline (CH)
 
-Aline (CH) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
+Aline (CH) is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
 
-Aline (CH) is a house and techno artist based in Switzerland, with 54 gigs on soundcheck across Barcelona, Basel, Berlin and Brussels and 3 more. Often billed alongside Flavio (CH), Aron (CH) and Ion Ludwig. Next up: Amboss Rampe, Zurich on Sat 7 Nov.
+Aline (CH) is a house and minimal artist based in Switzerland, with 55 gigs on soundcheck across Barcelona, Basel, Berlin and Brussels and 3 more. Often billed alongside Flavio (CH), Aron (CH) and Ion Ludwig. Next up: Amboss Rampe, Zurich on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Aline (CH) is a house and techno artist based in Switzerland, with 54 gigs on so
 | Sat, 7 Nov 2026 | Amboss Rampe | Zurich |
 | Sat, 14 Nov 2026 | Supermarket | Zurich |
 | Fri, 11 Dec 2026 | Kauz | Zurich |
+| Fri, 18 Dec 2026 | 303 Audiophile Bar | Barcelona |
 
 ## Recently played
 

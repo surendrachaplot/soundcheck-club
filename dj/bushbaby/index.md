@@ -1,8 +1,8 @@
 # Bushbaby
 
-Bushbaby is a Garage and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sala Cocó, Madrid on Thu, 5 Nov 2026.
+Bushbaby is a Garage and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sala Cocó, Madrid on Thu, 5 Nov 2026.
 
-Bushbaby is a garage and house artist based in United Kingdom, with 99 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 39 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: Sala Cocó, Madrid on Thu 5 Nov.
+Bushbaby is a garage and house artist based in United Kingdom, with 100 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 39 more. Often billed alongside MPH, CHRIS STASSY and Conducta. Next up: Sala Cocó, Madrid on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bushbaby is a garage and house artist based in United Kingdom, with 99 gigs on s
 | Fri, 20 Nov 2026 | SWG3 | Glasgow |
 | Sat, 21 Nov 2026 | The Liquid Room | Edinburgh |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Fri, 4 Dec 2026 | Carousel Bar & Ballroom | Sydney |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 | Fri, 5 Feb 2027 | The Concourse Project | Austin |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |

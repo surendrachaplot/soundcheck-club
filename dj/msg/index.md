@@ -1,14 +1,15 @@
 # MSG
 
-MSG is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Flinders, Sydney on Fri, 13 Nov 2026.
+MSG is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Flinders, Sydney on Fri, 13 Nov 2026.
 
-MSG is a techno and club artist based in Australia, with 19 gigs on soundcheck across Bristol, Seoul, Sydney and Tokyo. Often billed alongside YONKS, ARTISAH and Alice Burcovich. Next up: The Flinders, Sydney on Fri 13 Nov.
+MSG is a techno and industrial artist based in Australia, with 20 gigs on soundcheck across Bristol, Seoul, Sydney and Tokyo. Often billed alongside YONKS, ARTISAH and Alice Burcovich. Next up: The Flinders, Sydney on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Flinders | Sydney |
+| Fri, 4 Dec 2026 | The Flinders | Sydney |
 
 ## Recently played
 

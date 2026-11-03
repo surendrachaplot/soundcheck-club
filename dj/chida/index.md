@@ -9,10 +9,10 @@ CHIDA is a house and techno artist based in Japan, with 212 gigs on soundcheck a
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | Mitsuki | Tokyo |
+| Fri, 6 Nov 2026 | Ping Pong 129 | Hong-kong |
 | Sat, 21 Nov 2026 | South Swell Cafe | Osaka |
 | Fri, 27 Nov 2026 | Numm | Tokyo |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
-| Fri, 6 Oct 2028 | Ping Pong 129 | Hong-kong |
 
 ## Recently played
 

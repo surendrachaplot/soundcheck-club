@@ -1,13 +1,14 @@
 # Cami Layé Okún
 
-Cami Layé Okún is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ballroom at Palais, London on Sat, 7 Nov 2026.
+Cami Layé Okún is a Disco and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Palais, London on Sat, 7 Nov 2026.
 
-Cami Layé Okún is a disco and funk / soul artist based in Cuba, with 53 gigs on soundcheck across Barcelona, Beijing, Berlin and Bristol and 22 more. Often billed alongside Coco Maria, Hagop Tchaparian and Job Jobse. Next up: Ballroom at Palais, London on Sat 7 Nov.
+Cami Layé Okún is a disco and funk / soul artist based in Cuba, with 54 gigs on soundcheck across Barcelona, Beijing, Berlin and Bristol and 22 more. Often billed alongside Coco Maria, Hagop Tchaparian and Job Jobse. Next up: Palais, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Palais | London |
 | Sat, 7 Nov 2026 | Ballroom at Palais | London |
 
 ## Recently played

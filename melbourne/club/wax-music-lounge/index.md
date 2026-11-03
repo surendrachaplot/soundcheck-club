@@ -1,8 +1,8 @@
 # Wax Music Lounge
 
-Wax Music Lounge is a music venue in Melbourne with 42 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "BRAZLOMBIA" on Tue, 3 Nov 2026.
+Wax Music Lounge is a music venue in Melbourne with 43 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "BRAZLOMBIA" on Tue, 3 Nov 2026.
 
-Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 42 upcoming gigs, with line-ups including leverson, Manchild, Miles Nautu and Savage The Girl and 1 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
+Wax Music Lounge is a music venue in Melbourne listed on soundcheck. 43 upcoming gigs, with line-ups including BABANASHE, leverson, Manchild and Miles Nautu and 2 more. See dates, start times and who's playing. 250 Flinders St (basement), Melbourne, VIC, Australia, Victoria.
 
 ## What's on
 

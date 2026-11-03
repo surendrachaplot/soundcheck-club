@@ -1,14 +1,15 @@
 # Nightfall
 
-Nightfall is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Dom Technika, Poznan on Fri, 13 Nov 2026.
+Nightfall is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Dom Technika, Poznan on Fri, 13 Nov 2026.
 
-Nightfall is a techno and electronica artist based in Poland, with 17 gigs on soundcheck across Poznan and Warsaw. Often billed alongside szadow, Internal Observer and KOSAA. Next up: Dom Technika, Poznan on Fri 13 Nov.
+Nightfall is a techno and electronica artist based in Poland, with 18 gigs on soundcheck across Poznan and Warsaw. Often billed alongside szadow, Internal Observer and KOSAA. Next up: Dom Technika, Poznan on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Dom Technika | Poznan |
+| Sat, 14 Nov 2026 | Mastak | Warsaw |
 | Sat, 5 Dec 2026 | Mastak | Warsaw |
 
 ## Recently played

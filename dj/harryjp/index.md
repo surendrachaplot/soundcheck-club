@@ -2,7 +2,7 @@
 
 HARRY (JP) is a Club and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 11 Nov 2026.
 
-HARRY (JP) is a club and drum & bass artist, with 6 gigs on soundcheck across Amsterdam, Bogotá, Glasgow and London and 1 more. Often billed alongside 22 (DE), Aidan and BIG REG. Next up: The Berkeley Suite, Glasgow on Wed 11 Nov.
+HARRY (JP) is a club and drum & bass artist, with 6 gigs on soundcheck across Amsterdam, Bogotá, Glasgow and London and 1 more. Often billed alongside 22 (DE), BIG REG and Ben Suff Donk. Next up: The Berkeley Suite, Glasgow on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ HARRY (JP) is a club and drum & bass artist, with 6 gigs on soundcheck across Am
 
 ## Shares bills with
 
-22 (DE), Aidan, BIG REG
+22 (DE), BIG REG, Ben Suff Donk
 
 *Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harryjp/)*

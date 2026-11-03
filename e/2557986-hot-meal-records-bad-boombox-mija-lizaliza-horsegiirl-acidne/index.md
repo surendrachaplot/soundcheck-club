@@ -1,6 +1,6 @@
-# Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · ACIDNENA · AMANTRA at Nitsa Club
+# Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · Acidnena · AMANTRA at Nitsa Club
 
-Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · ACIDNENA · AMANTRA at Nitsa Club on Fri 6 Nov, Barcelona. 4 artists: Bad Boombox, horsegiirL, lizaliza and Mija. Techno and Hardcore. See the line-up on soundcheck.
+Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · Acidnena · AMANTRA at Nitsa Club on Fri 6 Nov, Barcelona. 6 artists: Acidnena, AMANTRA, Bad Boombox and horsegiirL and 2 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · ACIDNENA · AM
 
 ## Line-up
 
+- Acidnena
+- AMANTRA
 - Bad Boombox
 - horsegiirL
 - lizaliza

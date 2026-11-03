@@ -1,8 +1,8 @@
 # Bambii
 
-Bambii is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Fonda Theatre, Los Angeles on Fri, 6 Nov 2026.
+Bambii is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Fonda Theatre, Los Angeles on Fri, 6 Nov 2026.
 
-Bambii is a techno and house artist based in Canada, with 111 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 29 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Fonda Theatre, Los Angeles on Fri 6 Nov.
+Bambii is a techno and house artist based in Canada, with 112 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 29 more. Often billed alongside Young Teesh, Nino Brown and Nia Archives. Next up: Fonda Theatre, Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bambii is a techno and house artist based in Canada, with 111 gigs on soundcheck
 | Fri, 6 Nov 2026 | Fonda Theatre | Los Angeles |
 | Sun, 8 Nov 2026 | The Regency Ballroom | San Francisco/Oakland |
 | Tue, 10 Nov 2026 | Société des arts technologiques | Montreal |
+| Fri, 11 Dec 2026 | Oxford Art Factory | Sydney |
 | Thu, 31 Dec 2026 | TBA - Il Mercato Centrale | Melbourne |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 

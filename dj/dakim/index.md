@@ -1,14 +1,15 @@
 # Dakim
 
-Dakim is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 2 Nov 2026.
+Dakim is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 2 Nov 2026.
 
-Dakim is a house and tech house artist based in South Korea, with 21 gigs on soundcheck across Seoul. Often billed alongside .2ndfloor, Jongho and Young Sun. Next up: Stoked&stoned, Seoul on Mon 2 Nov.
+Dakim is a house and tech house artist based in South Korea, with 22 gigs on soundcheck across Seoul. Often billed alongside .2ndfloor, Jongho and Young Sun. Next up: Stoked&stoned, Seoul on Mon 2 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 2 Nov 2026 | Stoked&stoned | Seoul |
+| Sat, 7 Nov 2026 | Modeci | Seoul |
 
 ## Recently played
 

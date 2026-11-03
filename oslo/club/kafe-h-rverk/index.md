@@ -1,20 +1,17 @@
 # Kafe Hærverk
 
-Kafe Hærverk is a music venue in Oslo with 4 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Oslo World:  iVloud & Nora Pagu" on Fri, 30 Oct 2026.
+Kafe Hærverk is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "UNDERGROUND ARCHIVES" on Fri, 6 Nov 2026.
 
-Kafe Hærverk is a music venue in Oslo listed on soundcheck. 4 upcoming gigs, with line-ups including Nora Pagu. See dates, start times and who's playing. Hausmanns gate 34 0182 Oslo, Norway.
+Kafe Hærverk is a music venue in Oslo listed on soundcheck. 1 upcoming gig, with line-ups including Bellicose and Karl Fraunhofer. See dates, start times and who's playing. Hausmanns gate 34 0182 Oslo, Norway.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Oslo World:  iVloud & Nora Pagu | Nora Pagu |
-| Fri, 30 Oct 2026 | Oslo World: Twenty One Children |  |
-| Sat, 31 Oct 2026 | Oslo World: Pure Ecstacy |  |
-| Sat, 31 Oct 2026 | Ullis Tapes Release Party |  |
+| Fri, 6 Nov 2026 | UNDERGROUND ARCHIVES | Bellicose, Karl Fraunhofer |
 
 ## Address
 
 Hausmanns gate 34 0182 Oslo, Norway, Oslo
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/kafe-h-rverk/)*

@@ -1,14 +1,15 @@
 # Tom Shorterz
 
-Tom Shorterz is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sankeys, Manchester on Sat, 5 Dec 2026.
+Tom Shorterz is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sankeys, Manchester on Sat, 5 Dec 2026.
 
-Tom Shorterz is a house and garage artist based in United Kingdom, with 17 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 1 more. Often billed alongside Big Ang, Chad Harrison and Hannah Wants. Next up: Sankeys, Manchester on Sat 5 Dec.
+Tom Shorterz is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 2 more. Often billed alongside Big Ang, Chad Harrison and Hannah Wants. Next up: Sankeys, Manchester on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Sankeys | Manchester |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

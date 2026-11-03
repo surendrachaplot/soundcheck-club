@@ -1,8 +1,8 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Signal W/ David Avril , Dj Épi , Ltmg" on Tue, 3 Nov 2026.
+Studio56 is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Signal W/ David Avril , Dj Épi , Ltmg" on Tue, 3 Nov 2026.
 
-Studio56 is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including DJ Statik, Killoverjoy, VØID and Wwllmm. See dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
+Studio56 is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including DJ Statik, Killoverjoy, LILI and VØID and 1 more. See dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
 ## What's on
 
@@ -15,6 +15,9 @@ Studio56 is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with l
 | Fri, 6 Nov 2026 | Fracture W/ Dj Aleathory , Shadow Thugentawa , Dj Statik | DJ Statik |
 | Sat, 7 Nov 2026 | Onywave | Killoverjoy, VØID |
 | Mon, 9 Nov 2026 | Core W/ Timburtek , Lothar , Killoverjoy |  |
+| Tue, 10 Nov 2026 | Signal W/ Dean Lexar , Jeffelhypno , Pxd |  |
+| Wed, 11 Nov 2026 | Resonance W/ Acidboy, Outflw , Rinzler |  |
+| Thu, 12 Nov 2026 | Impact W/ Lili , Nzolito , Gwyze | LILI |
 
 ## Address
 

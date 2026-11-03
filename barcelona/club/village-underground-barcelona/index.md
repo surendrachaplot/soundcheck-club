@@ -1,14 +1,15 @@
 # Village Underground Barcelona
 
-Village Underground Barcelona is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "THE SOUND SOCIETY: A Love From Outer Space Chapter II" on Sat, 7 Nov 2026.
+Village Underground Barcelona is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "THE SOUND SOCIETY: A Love From Outer Space Chapter II" on Sat, 7 Nov 2026.
 
-Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including 4R15, Breakfake, Charla Green and Dave Angel and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
+Village Underground Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including 4R15, Breakfake, Charla Green and Dave Angel and 2 more. See dates, start times and who's playing. Carrer Cobalt 12, 08907 L'Hospitalet de Llobregat.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | THE SOUND SOCIETY: A Love From Outer Space Chapter II | Sean Johnston |
+| Sat, 7 Nov 2026 | THE SOUND SOCIETY invites Ivan Smagghe + Vladimir Ivkovic All night long | Ivan Smagghe, Vladimir Ivkovic |
 | Fri, 13 Nov 2026 | CHEZ PERROS with Jimin, Sohrab at VU BCN | Jimin, Perro Jimbo, VIKk, sohrab. |
 | Sat, 21 Nov 2026 | SUBconscious // [[Function Records Jungle DnB Showcase]] Digital & Charla Green  | Charla Green, Egres, Jon-roy, MC Stormy, Sekev, VJ Meerkat |
 | Fri, 27 Nov 2026 | SPECTRA: STEP 001 | Giusseppi, PILIGN, rannag |

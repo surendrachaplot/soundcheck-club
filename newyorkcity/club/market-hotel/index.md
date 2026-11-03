@@ -1,17 +1,19 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "HAUNTED HOTEL: Market Hotel HALLOWEEN PARTY" on Sat, 31 Oct 2026.
+Market Hotel is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "The Tumblr. Party" on Fri, 6 Nov 2026.
 
-Market Hotel is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Boyfriend Dick, Caín Lima, iCKY and Meth Math and 2 more. See dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
+Market Hotel is a music venue in New York City listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | HAUNTED HOTEL: Market Hotel HALLOWEEN PARTY | Boyfriend Dick, Caín Lima, Meth Math, Simzii, Total XTC, Yesterdayneverhappened, iCKY |
+| Fri, 6 Nov 2026 | The Tumblr. Party |  |
+| Sat, 7 Nov 2026 | GOTHIQUE HOTEL: A DARKWAVE, GOTH NEWWAVE & POST PUNK PARTY |  |
+| Sat, 7 Nov 2026 | The 2016 Party: Party like it's 2016 |  |
 
 ## Address
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

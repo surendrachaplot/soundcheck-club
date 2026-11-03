@@ -1,13 +1,14 @@
 # Ayce Bio
 
-Ayce Bio is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 6 Nov 2026.
+Ayce Bio is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 6 Nov 2026.
 
-Ayce Bio is a house and bass artist, with 13 gigs on soundcheck across Amsterdam and Milan. Often billed alongside DNN, Lupo Mangiafrutta and Ormeye. Next up: SISSI'S Amsterdam, Amsterdam on Fri 6 Nov.
+Ayce Bio is a house and bass artist, with 14 gigs on soundcheck across Amsterdam and Milan. Often billed alongside DNN, Lupo Mangiafrutta and Ormeye. Next up: SISSI'S Amsterdam, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 6 Nov 2026 | SISSI'S Amsterdam | Amsterdam |
 
 ## Recently played

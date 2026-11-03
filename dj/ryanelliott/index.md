@@ -1,8 +1,8 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Lofi, Amsterdam on Sat, 7 Nov 2026.
+Ryan Elliott is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Lofi, Amsterdam on Sat, 7 Nov 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, with 273 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 68 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Lofi, Amsterdam on Sat 7 Nov.
+Ryan Elliott is a house and techno artist based in United States of America, with 274 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 69 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Lofi, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 

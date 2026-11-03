@@ -1,13 +1,14 @@
 # Obeka
 
-Obeka is a Baile Funk and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The DBA, Manchester on Sat, 28 Nov 2026.
+Obeka is a Baile Funk and Reggaeton artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Soup, Manchester on Fri, 6 Nov 2026.
 
-Obeka is a baile funk and reggaeton artist based in Bermuda, with 127 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bologna and 14 more. Often billed alongside Atiké, DR MYSTERY and Kop-Z. Next up: The DBA, Manchester on Sat 28 Nov.
+Obeka is a baile funk and reggaeton artist based in Bermuda, with 128 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Bologna and 14 more. Often billed alongside Atiké, DR MYSTERY and Kop-Z. Next up: Soup, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Soup | Manchester |
 | Sat, 28 Nov 2026 | The DBA | Manchester |
 | Thu, 31 Dec 2026 | Band on the Wall | Manchester |
 

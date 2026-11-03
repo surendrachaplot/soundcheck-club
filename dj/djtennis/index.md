@@ -1,8 +1,8 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 6 Nov 2026.
+DJ Tennis is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 6 Nov 2026.
 
-DJ Tennis is a house and techno artist based in Italy, with 336 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 70 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Frankhan Selectist, Istanbul on Fri 6 Nov.
+DJ Tennis is a house and techno artist based in Italy, with 337 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 70 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Frankhan Selectist, Istanbul on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Tennis is a house and techno artist based in Italy, with 336 gigs on soundche
 | Fri, 6 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 7 Nov 2026 | The Warehouse By IT Quarter | Cyprus |
 | Sun, 8 Nov 2026 | The Lenovo Garage | Madrid |
+| Sun, 8 Nov 2026 | The Bassement | Madrid |
 | Fri, 13 Nov 2026 | Coda | Toronto |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |

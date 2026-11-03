@@ -13,7 +13,7 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 9 upcoming gigs,
 | Sat, 7 Nov 2026 | Marcelo K2 & VIK | Marcelo K2 |
 | Fri, 13 Nov 2026 | BE GOOD with Aiffel, johan, Mido |  |
 | Sat, 14 Nov 2026 | Baltazar |  |
-| Fri, 20 Nov 2026 | Babe LN |  |
+| Fri, 20 Nov 2026 | Babe LN & Douglas |  |
 | Sat, 21 Nov 2026 | Petr K & Lillou | Lillou |
 | Fri, 27 Nov 2026 | Brady & Next - Bday Bash | Brady |
 | Sat, 28 Nov 2026 | Kohl & Vitton |  |

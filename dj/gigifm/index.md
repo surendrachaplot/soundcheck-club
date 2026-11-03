@@ -1,14 +1,15 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
+GiGi FM is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
-GiGi FM is a techno and house artist, with 194 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 64 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
+GiGi FM is a techno and house artist, with 195 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 64 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
+| Sat, 14 Nov 2026 | DURO | Milan |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Ubu Club | Rennes |

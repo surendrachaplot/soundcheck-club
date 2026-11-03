@@ -1,0 +1,28 @@
+# XOY
+
+XOY is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Oilcan Harry's, Austin on Fri, 6 Nov 2026.
+
+XOY is a club and techno artist based in United States of America, with 28 gigs on soundcheck across Austin, Houston and New York City. Often billed alongside DJ BAD APPLE, DanyKiss and Juan40. Next up: Oilcan Harry's, Austin on Fri 6 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 6 Nov 2026 | Oilcan Harry's | Austin |
+
+## Recently played
+
+- Oilcan Harry's, Austin · Fri, 30 Oct 2026
+- Oilcan Harry's, Austin · Fri, 23 Oct 2026
+- Oilcan Harry's, Austin · Fri, 16 Oct 2026
+- Oilcan Harry's, Austin · Fri, 9 Oct 2026
+- Jupiter Disco, New York City · Wed, 5 Aug 2026
+- TBA - LUXX, Austin · Fri, 24 Jul 2026
+- Coconut Club, Austin · Sat, 18 Jul 2026
+- Boondocks, Houston · Fri, 24 Apr 2026
+
+## Shares bills with
+
+DJ BAD APPLE, DanyKiss, Juan40
+
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xoy/)*

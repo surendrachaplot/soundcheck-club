@@ -20,6 +20,6 @@ HUME 002: SUNSET PICNIC at TBA - Binae Island on Sun 8 Nov, South Korea. 11 arti
 - Nolove
 - Nomal
 - Oho.
-- Yu Mi
+- Yumi
 
 *Source: [soundcheck](https://soundcheck.club/e/2568086-hume-002-sunset-picnic-at-tba-binae-island/)*

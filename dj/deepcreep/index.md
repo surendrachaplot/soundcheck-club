@@ -1,8 +1,8 @@
 # deep creep
 
-deep creep is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+deep creep is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
-deep creep is a techno and house artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brisbane and 20 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+deep creep is a techno and house artist based in United States of America, with 113 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brisbane and 20 more. Often billed alongside DJ Fart in the Club, Amelia Holt and Aurora Halal. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ deep creep is a techno and house artist based in United States of America, with 
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Sat, 14 Nov 2026 | boomroom | Perth |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
+| Sun, 29 Nov 2026 | TBA | Sydney |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # VSLORIA
 
-VSLORIA is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
+VSLORIA is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location , Hong Kong on Sat, 7 Nov 2026.
 
-VSLORIA is a techno and bass artist based in China, with 29 gigs on soundcheck across Hong Kong, Seoul and Shanghai. Often billed alongside JFÜNG, xylon and Charlieowo. Next up: Cakeshop, Seoul on Fri 13 Nov.
+VSLORIA is a techno and bass artist based in China, with 30 gigs on soundcheck across Hong Kong, Seoul and Shanghai. Often billed alongside JFÜNG, xylon and Charlieowo. Next up: TBA - Secret Location , Hong Kong on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | TBA - Secret Location  | Hong Kong |
 | Fri, 13 Nov 2026 | Cakeshop | Seoul |
 | Fri, 20 Nov 2026 | Acadana | Hong Kong |
 

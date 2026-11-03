@@ -1,6 +1,6 @@
 # Boston 168, 1000A, Tiago Fragateiro at Gare Porto
 
-Boston 168, 1000A, Tiago Fragateiro at Gare Porto on Sat 14 Nov, Porto. 2 artists: Boston 168 and Tiago Fragateiro. See the line-up on soundcheck.
+Boston 168, 1000A, Tiago Fragateiro at Gare Porto on Sat 14 Nov, Porto. 2 artists: Boston 168 and Tiago Fragateiro. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

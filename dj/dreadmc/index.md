@@ -1,8 +1,8 @@
 # DREAD MC
 
-DREAD MC is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
+DREAD MC is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
 
-DREAD MC is a drum & bass and jungle artist based in United Kingdom, with 48 gigs on soundcheck across Birmingham, Brighton, Bristol and Cardiff and 11 more. Often billed alongside K Motionz, Harriet Jaxxon and goddard.. Next up: Onyx (E1), London on Sat 14 Nov.
+DREAD MC is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Birmingham, Brighton, Bristol and Cardiff and 11 more. Often billed alongside K Motionz, Harriet Jaxxon and goddard.. Next up: Onyx (E1), London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DREAD MC is a drum & bass and jungle artist based in United Kingdom, with 48 gig
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Onyx (E1) | London |
 | Sat, 14 Nov 2026 | fabric | London |
+| Fri, 27 Nov 2026 | Document | Bristol |
 | Sat, 12 Dec 2026 | NX Newcastle | Newcastle |
 
 ## Recently played

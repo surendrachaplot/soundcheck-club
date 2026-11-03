@@ -1,8 +1,8 @@
 # Fat Tony
 
-Fat Tony is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Under The Arches, Leeds on Sat, 14 Nov 2026.
+Fat Tony is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Under The Arches, Leeds on Sat, 14 Nov 2026.
 
-Fat Tony is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 15 more. Often billed alongside Princess Julia, Pj Gardner and Melvo Baptiste. Next up: Under The Arches, Leeds on Sat 14 Nov.
+Fat Tony is a house and disco artist based in United Kingdom, with 74 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brighton and 15 more. Often billed alongside Princess Julia, Pj Gardner and Melvo Baptiste. Next up: Under The Arches, Leeds on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Fat Tony is a house and disco artist based in United Kingdom, with 73 gigs on so
 | Fri, 27 Nov 2026 | Horns Inn | Southampton |
 | Sat, 5 Dec 2026 | SWG3 | Glasgow |
 | Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
+| Fri, 1 Jan 2027 | The Fox and Firkin | London |
 
 ## Recently played
 

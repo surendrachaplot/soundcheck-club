@@ -1,14 +1,15 @@
 # WAKA XINXI
 
-WAKA XINXI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 8 Nov 2026.
+WAKA XINXI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 8 Nov 2026.
 
-WAKA XINXI is a techno and house artist based in Japan, with 178 gigs on soundcheck across Seoul and Tokyo. Often billed alongside YOSHI KANOU, Kulage and LiaRako. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 8 Nov.
+WAKA XINXI is a techno and house artist based in Japan, with 179 gigs on soundcheck across Seoul and Tokyo. Often billed alongside YOSHI KANOU, Kulage and LiaRako. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
+| Sat, 21 Nov 2026 | Apéro Village | Tokyo |
 
 ## Recently played
 

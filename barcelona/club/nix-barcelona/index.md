@@ -8,7 +8,7 @@ NIX Barcelona is a music venue in Barcelona listed on soundcheck. 4 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | OFF & FRATELLO pres VITO UK, Ferra Black at Nix | Ferra Black, MARAU, Sebastián Peña, VITO (UK) |
+| Fri, 6 Nov 2026 | OFF & FRATELLO pres VITO UK, Ferra Black at Nix | Ferra Black, VITO (UK) |
 | Fri, 13 Nov 2026 | OFF & FRATELLO pres OLLIE BC & AMAL NEMER at Nix | Amal Nemer, Pau Guilera |
 | Fri, 20 Nov 2026 | OFF & FRATELLO pres Karretero, CHICO ROSE at Nix | Chico Rose, Karretero, Sebastián Peña |
 | Fri, 27 Nov 2026 | OFF & FRATELLO pres Sebastian Ledher at Nix | Dani Corberó, Sebastian Ledher |

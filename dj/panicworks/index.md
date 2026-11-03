@@ -1,14 +1,15 @@
 # PANICWORKS
 
-PANICWORKS is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Asagaya Drift, Tokyo on Fri, 13 Nov 2026.
+PANICWORKS is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Asagaya Drift, Tokyo on Fri, 13 Nov 2026.
 
-PANICWORKS is a techno and bass artist based in Japan, with 41 gigs on soundcheck across Tokyo. Often billed alongside Seimei, VOX and roomquake. Next up: Asagaya Drift, Tokyo on Fri 13 Nov.
+PANICWORKS is a techno and bass artist based in Japan, with 42 gigs on soundcheck across Tokyo. Often billed alongside Seimei, VOX and roomquake. Next up: Asagaya Drift, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Asagaya Drift | Tokyo |
+| Sat, 14 Nov 2026 | Kaiki | Tokyo |
 
 ## Recently played
 

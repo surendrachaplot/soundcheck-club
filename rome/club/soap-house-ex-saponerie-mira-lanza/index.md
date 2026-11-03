@@ -9,7 +9,7 @@ Soap House - Ex Saponerie Mira Lanza is a music venue in Rome listed on soundche
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Resistance: Anthony Rother (hybrid set), Asymptote, Murino, AcOH | Anthony Rother, Asymptote, MURINO (2) |
-| Sat, 21 Nov 2026 | Jungle with Loa Szala | Loa Szala, Mordak, Nadir, Rond (1) |
+| Sat, 21 Nov 2026 | Jungle invites Wax4breakfast with Loa Szala | Loa Szala, Mordak, Nadir, Rond (1) |
 | Sat, 19 Dec 2026 | Jungle with Hicham | Hicham, Matteo Canori, Petra (4) |
 
 ## Address

@@ -11,7 +11,7 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming g
 | Sat, 7 Nov 2026 | Ballroom at Palais: Cami Layé Okún | Cami Layé Okún |
 | Sat, 7 Nov 2026 | Ballroom at Palais: Wednesday & Stress Less B2B Showermanjosh | Stress Less, Wednesday |
 | Fri, 13 Nov 2026 | Ballroom at Palais: FYI Robyn & ISHA B2B Diesel | FYI Robyn, ISHA |
-| Sat, 14 Nov 2026 | Ballroom at Palais: DJ Linett |  |
+| Sat, 14 Nov 2026 | Ballroom at Palais: Linett Kamala |  |
 | Fri, 20 Nov 2026 | Ballroom at Palais: Daytimers | Bindās, vish |
 | Sat, 21 Nov 2026 | Ballroom at Palais: Type One Community | Kyle Parsley, LUMA (UK) |
 | Thu, 26 Nov 2026 | Ballroom at Palais: Open Decks |  |

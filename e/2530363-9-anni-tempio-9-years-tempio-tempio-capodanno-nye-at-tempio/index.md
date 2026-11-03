@@ -1,6 +1,6 @@
 # 9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Capodanno - Nye - 元旦) at Tempio del Futuro Perduto
 
-9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Capodanno - Nye - 元旦) at Tempio del Futuro Perduto on Thu 31 Dec, Milan. 17 artists: Acidalia, Alimac, Berlin Bunny and cccre and 13 more. See the line-up on soundcheck.
+9 ANNI TEMPIO - 9 YEARS TEMPIO - TEMPIO九周年 (Capodanno - Nye - 元旦) at Tempio del Futuro Perduto on Thu 31 Dec, Milan. 18 artists: Acidalia, Alimac, Berlin Bunny and cccre and 14 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -25,6 +25,7 @@
 - SHŪ (1)
 - Tania Kim
 - Waldo
+- Younger Than Me
 - Zenyee
 - ZHAZHA WANG
 

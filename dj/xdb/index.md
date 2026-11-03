@@ -1,8 +1,8 @@
 # XDB
 
-XDB is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 6 Nov 2026.
+XDB is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 6 Nov 2026.
 
-XDB is a techno and house artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 40 more. Often billed alongside dj sweet6teen, Edward and Vera. Next up: Shelter Amsterdam, Amsterdam on Fri 6 Nov.
+XDB is a techno and house artist based in Germany, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside dj sweet6teen, Edward and Vera. Next up: Shelter Amsterdam, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ XDB is a techno and house artist based in Germany, with 146 gigs on soundcheck a
 | Sat, 5 Dec 2026 | Tresor / Globus | Berlin |
 | Fri, 15 Jan 2027 | Cadavra | Madrid |
 | Fri, 29 Jan 2027 | 24 Kitchen Street | Liverpool |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

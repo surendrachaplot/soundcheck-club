@@ -1,14 +1,16 @@
 # Inja
 
-Inja is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+Inja is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
 
-Inja is a drum & bass and jungle artist based in United Kingdom, with 92 gigs on soundcheck across Antwerp, Atlanta, Auckland and Bangkok and 20 more. Often billed alongside Kings of the Rollers, Bladerunner and Carasel. Next up: Outernet Live, London on Sat 14 Nov.
+Inja is a drum & bass and jungle artist based in United Kingdom, with 94 gigs on soundcheck across Antwerp, Atlanta, Auckland and Bangkok and 20 more. Often billed alongside Kings of the Rollers, Bladerunner and Carasel. Next up: Outernet Live, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Outernet Live | London |
+| Fri, 20 Nov 2026 | Stealth | Nottingham |
+| Sat, 21 Nov 2026 | Beaver Works | Leeds |
 | Sat, 28 Nov 2026 | The Nest | Nottingham |
 | Sat, 28 Nov 2026 | The Nest | Nottingham |
 | Sun, 27 Dec 2026 | Vespers Club | London |

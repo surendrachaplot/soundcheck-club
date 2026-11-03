@@ -1,13 +1,14 @@
 # Lowsteppa
 
-Lowsteppa is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at OVO Arena Wembley, London on Thu, 31 Dec 2026.
+Lowsteppa is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sacré, Paris on Sat, 5 Dec 2026.
 
-Lowsteppa is a house and tech house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Auckland, Austin and Brisbane and 11 more. Often billed alongside Sam Divine, Hannah Wants and Arielle Free. Next up: OVO Arena Wembley, London on Thu 31 Dec.
+Lowsteppa is a house and tech house artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Auckland, Austin and Brisbane and 11 more. Often billed alongside Sam Divine, Hannah Wants and Arielle Free. Next up: Sacré, Paris on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Sacré | Paris |
 | Thu, 31 Dec 2026 | OVO Arena Wembley | London |
 | Thu, 31 Dec 2026 | Depot Mayfield | Manchester |
 

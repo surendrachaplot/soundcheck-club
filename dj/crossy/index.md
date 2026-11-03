@@ -2,7 +2,7 @@
 
 Crossy is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Stealth, Nottingham on Fri, 20 Nov 2026.
 
-Crossy is a drum & bass and jungle artist based in United Kingdom, with 70 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 18 more. Often billed alongside Carasel, Kanine and Disrupta. Next up: Stealth, Nottingham on Fri 20 Nov.
+Crossy is a drum & bass and jungle artist based in United Kingdom, with 70 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 18 more. Often billed alongside Carasel, Trafic MC and Kanine. Next up: Stealth, Nottingham on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Crossy is a drum & bass and jungle artist based in United Kingdom, with 70 gigs 
 
 ## Shares bills with
 
-Carasel, Kanine, Disrupta
+Carasel, Trafic MC, Kanine
 
 *Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crossy/)*

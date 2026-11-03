@@ -1,14 +1,15 @@
 # baby ganoush
 
-baby ganoush is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 8 Nov 2026.
+baby ganoush is a Ambient and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 8 Nov 2026.
 
-baby ganoush is an ambient and techno artist based in Sweden, with 62 gigs on soundcheck across Amsterdam, Berlin, Montreal and Rotterdam and 2 more. Often billed alongside YoungWoman, Isla Den and ZOBAYDA. Next up: Garage Noord, Amsterdam on Sun 8 Nov.
+baby ganoush is an ambient and techno artist based in Sweden, with 63 gigs on soundcheck across Amsterdam, Berlin, Montreal and Rotterdam and 2 more. Often billed alongside YoungWoman, Isla Den and ZOBAYDA. Next up: Garage Noord, Amsterdam on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | Garage Noord | Amsterdam |
+| Sun, 13 Dec 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 

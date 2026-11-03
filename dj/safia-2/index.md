@@ -1,14 +1,14 @@
 # Safia (2)
 
-Safia (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Studio76 Club, Madrid on Sat, 28 Nov 2026.
+Safia (2) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
 
-Safia is a techno and electronica artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Irazu, SERNA and Alice. Next up: Studio76 Club, Madrid on Sat 28 Nov.
+Safia is a techno and electronica artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Irazu, SERNA and Alice. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 28 Nov 2026 | Studio76 Club | Madrid |
+| Sat, 28 Nov 2026 | TBA - Powered by: Void Acoustics | Madrid |
 
 ## Recently played
 

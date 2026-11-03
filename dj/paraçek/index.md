@@ -1,8 +1,8 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 17 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Suma Han, Istanbul on Sat, 7 Nov 2026.
+Paraçek is a Techno and Trance artist with 18 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Suma Han, Istanbul on Sat, 7 Nov 2026.
 
-Paraçek is a techno and trance artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Austria, Barcelona and Bavaria and 31 more. Often billed alongside A.N.I., KLING&KLANG and Sabu!. Next up: Suma Han, Istanbul on Sat 7 Nov.
+Paraçek is a techno and trance artist based in Germany, with 220 gigs on soundcheck across Amsterdam, Austria, Barcelona and Bavaria and 31 more. Often billed alongside A.N.I., KLING&KLANG and Sabu!. Next up: Suma Han, Istanbul on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ Paraçek is a techno and trance artist based in Germany, with 219 gigs on soundc
 | Fri, 27 Nov 2026 | Edelfettwerk | Hamburg |
 | Sat, 28 Nov 2026 | Dockland | Münster |
 | Fri, 4 Dec 2026 | Kalif Storch | Erfurt |
+| Sat, 5 Dec 2026 | Zoom Club | Frankfurt |
 | Fri, 11 Dec 2026 | Altes Postlager | Rhineland-palatinate |
 | Sat, 19 Dec 2026 | Hans Bunte Areal | Freiburg |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
-| Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 
 ## Recently played
 

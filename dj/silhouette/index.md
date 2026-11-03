@@ -1,13 +1,14 @@
 # Silhouette
 
-Silhouette is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 13 Nov 2026.
+Silhouette is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Groove Bar, Prague on Fri, 6 Nov 2026.
 
-Silhouette is a techno and club artist based in Czech Republic, with 45 gigs on soundcheck across Prague. Often billed alongside Yan (CZ), Nina Farrina and NCOL. Next up: Ankali & Planeta Za, Prague on Fri 13 Nov.
+Silhouette is a techno and club artist based in Czech Republic, with 46 gigs on soundcheck across Prague. Often billed alongside Yan (CZ), Nina Farrina and NCOL. Next up: Groove Bar, Prague on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Groove Bar | Prague |
 | Fri, 13 Nov 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played

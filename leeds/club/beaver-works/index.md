@@ -11,7 +11,7 @@ Beaver Works is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, wi
 | Fri, 6 Nov 2026 | Acid Ballroom: Paranoid London | E-Boo, Jake Rollinson, OJ Willis, ORI (ozone), Paranoid London |
 | Fri, 6 Nov 2026 | Acid Ballroom After Party |  |
 | Fri, 13 Nov 2026 | Moosejaw Friday 13th | Chinese Daughter, Sully |
-| Sat, 21 Nov 2026 | Crossy presents: The Breakthrough - Leeds | Crossy |
+| Sat, 21 Nov 2026 | Crossy presents: The Breakthrough - Leeds | Crossy, Demolition Man, Inja, Trafic MC |
 | Fri, 11 Dec 2026 | The Nightmare Before Christmas 3! PRSPCT & BassOff present | Amelia Leigh, CICELY, DR BUMBERCREASE, Ebz, Greenhouse, IFFYHYPE, Imanu, Jackum, LIMEWAX, Milzy, Napes, Psyked, RAYBAY, Thrasher |
 | Thu, 31 Dec 2026 | Beaverworks  - Trouble in Wonderland |  |
 

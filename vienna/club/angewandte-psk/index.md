@@ -1,6 +1,6 @@
 # Angewandte PSK
 
-Angewandte PSK is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Clubgewandte" on Fri, 13 Nov 2026.
+Angewandte PSK is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Clubgewandte FREE ENTRY" on Fri, 13 Nov 2026.
 
 Angewandte PSK is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including A_Phan. See dates, start times and who's playing. Georg-Coch-Platz 2, 1010, Wien, AT.
 
@@ -8,7 +8,7 @@ Angewandte PSK is a music venue in Vienna listed on soundcheck. 1 upcoming gig, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Clubgewandte | A_Phan |
+| Fri, 13 Nov 2026 | Clubgewandte FREE ENTRY | A_Phan |
 
 ## Address
 

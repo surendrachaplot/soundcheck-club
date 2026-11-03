@@ -1,14 +1,15 @@
 # Akalex
 
-Akalex is a Electro and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mia Mao, Paris on Fri, 6 Nov 2026.
+Akalex is a Electro and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mia Mao, Paris on Fri, 6 Nov 2026.
 
-Akalex is an electro and baile funk artist based in France, with 23 gigs on soundcheck across Amsterdam, Geneva, Lisbon and London and 5 more. Often billed alongside Yosef (ES), Diego Armando and Maxvll. Next up: Mia Mao, Paris on Fri 6 Nov.
+Akalex is an electro and baile funk artist based in France, with 24 gigs on soundcheck across Amsterdam, Geneva, Lisbon and London and 5 more. Often billed alongside Yosef (ES), Diego Armando and Maxvll. Next up: Mia Mao, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Mia Mao | Paris |
+| Fri, 13 Nov 2026 | Pamela Club | Paris |
 | Sat, 23 Jan 2027 | Warehouse | Nantes |
 
 ## Recently played

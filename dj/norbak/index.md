@@ -1,14 +1,15 @@
 # Nørbak
 
-Nørbak is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Pandora Sevilla, South on Fri, 6 Nov 2026.
+Nørbak is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Pandora Sevilla, South on Fri, 6 Nov 2026.
 
-Nørbak is a techno and house artist based in Portugal, with 165 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Pandora Sevilla, South on Fri 6 Nov.
+Nørbak is a techno and house artist based in Portugal, with 166 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 53 more. Often billed alongside Temudo, Quelza and CRAVO. Next up: Pandora Sevilla, South on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Pandora Sevilla | South |
+| Fri, 13 Nov 2026 | Gare Porto | Porto |
 | Sat, 14 Nov 2026 | Liquid Club | Malta |
 | Sat, 21 Nov 2026 | Lux Fragil | Lisbon |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |

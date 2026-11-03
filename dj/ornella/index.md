@@ -1,8 +1,8 @@
 # Ornella
 
-Ornella is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Blå, Oslo on Sat, 7 Nov 2026.
+Ornella is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Blå, Oslo on Sat, 7 Nov 2026.
 
-Ornella is a techno and trance artist based in Portugal, with 131 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Blå, Oslo on Sat 7 Nov.
+Ornella is a techno and trance artist based in Portugal, with 132 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Madson Carpenter, Stëh and Kobosil. Next up: Blå, Oslo on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Ornella is a techno and trance artist based in Portugal, with 131 gigs on soundc
 | Sat, 28 Nov 2026 | BASIS | Utrecht |
 | Mon, 30 Nov 2026 | Music Station | Lisbon |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Sat, 5 Dec 2026 | Zoom Club | Frankfurt |
 | Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 

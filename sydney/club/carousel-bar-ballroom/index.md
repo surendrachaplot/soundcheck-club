@@ -1,8 +1,8 @@
 # Carousel Bar & Ballroom
 
-Carousel Bar & Ballroom is a music venue in Sydney with 16 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Patrice Bäumel pres. Halo ( Open to Close ) - Sydney" on Fri, 6 Nov 2026.
+Carousel Bar & Ballroom is a music venue in Sydney with 17 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Patrice Bäumel pres. Halo ( Open to Close ) - Sydney" on Fri, 6 Nov 2026.
 
-Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 16 upcoming gigs, with line-ups including Caike., Cristina Lazic, Ellia Jaya and Lauren Lo Sung and 2 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
+Carousel Bar & Ballroom is a music venue in Sydney listed on soundcheck. 17 upcoming gigs, with line-ups including Bushbaby, Caike., Cristina Lazic and Ellia Jaya and 2 more. See dates, start times and who's playing. Level 2, 169 Oxford Street, Darlinghurst, NSW, 2000.
 
 ## What's on
 

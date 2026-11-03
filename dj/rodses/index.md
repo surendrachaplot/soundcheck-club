@@ -9,7 +9,7 @@ RODS (ES) is a techno and trance artist based in Spain, with 18 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - Powered by Void Acoustics | Madrid |
-| Sat, 21 Nov 2026 | Sala Cocó | Madrid |
+| Thu, 19 Nov 2026 | Sala Independance Club | Madrid |
 
 ## Recently played
 

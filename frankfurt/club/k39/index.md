@@ -10,7 +10,7 @@ K39 is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with li
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | MOMENTUM x K39 with Bounce MC | Bounce MC, Kakuzi |
 | Sat, 21 Nov 2026 | WE ARE ONE x BLOODMOON - K39 - 4 Floors - 3 Etagen | DJ Achim Feuervogel, EDDY, ZODIAC, doppeltes lottchen |
-| Sat, 19 Dec 2026 | WE ARE ONE x HYPERTONIE - K39 - 4 Floors - 3 Etagen |  |
+| Sat, 19 Dec 2026 | WE ARE ONE x HYPERTONIE - K39 - 4 Floors - 3 Etagen | Emil Bunker |
 | Thu, 31 Dec 2026 | NYE Party |  |
 | Fri, 29 Jan 2027 | KINKY GALORE by jan.ehret Frankfurt Fr | Jan Ehret |
 | Sat, 30 Jan 2027 | KINKY GALORE by jan.ehret Frankfurt Sa | Jan Ehret |

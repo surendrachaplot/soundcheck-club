@@ -1,8 +1,8 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "VENNA - SYDNEY - Oxford Art Factory" on Thu, 19 Nov 2026.
+Oxford Art Factory is a music venue in Sydney with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "VENNA - SYDNEY - Oxford Art Factory" on Thu, 19 Nov 2026.
 
-Oxford Art Factory is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including 4am Kru, Animistic Beliefs, C.FRIM and CLAIR (BAI) and 2 more. See dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
+Oxford Art Factory is a music venue in Sydney listed on soundcheck. 10 upcoming gigs, with line-ups including 4am Kru, Animistic Beliefs, Bambii and C.FRIM and 2 more. See dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
 ## What's on
 
@@ -14,6 +14,7 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 9 upcoming g
 | Fri, 27 Nov 2026 | CELESTIA天体: Venesiaworld (SYD) | CLAIR (BAI) |
 | Fri, 4 Dec 2026 | CLUBHAUS x The Door List: The Factory Party | Animistic Beliefs, C.FRIM, Cristal No.5, Haus of Ralph, MIRASIA, Rakish, Sriracha Czaddy |
 | Sat, 5 Dec 2026 | LF SYSTEM - SYDNEY | LF SYSTEM |
+| Fri, 11 Dec 2026 | Rukus Presents: Laura King | Bambii, Clifford, Laura King, Miss Sunshine |
 | Sat, 12 Dec 2026 | Basshaven presents, Cotto, All night long |  |
 | Fri, 8 Jan 2027 | Run The Numbers presents 4am Kru | 4am Kru, Fashionably Late, Ninyo (AU), swisherman |
 | Fri, 22 Jan 2027 | DANIEL ALLAN |  |

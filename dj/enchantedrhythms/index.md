@@ -1,13 +1,14 @@
 # Enchanted Rhythms
 
-Enchanted Rhythms is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Renate, Berlin on Fri, 25 Dec 2026.
+Enchanted Rhythms is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Haus73, Hamburg on Sat, 5 Dec 2026.
 
-Enchanted Rhythms is a house and breakbeat artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 4 more. Often billed alongside Alexandra, DJ Slim Fit and metaverde. Next up: Renate, Berlin on Fri 25 Dec.
+Enchanted Rhythms is a house and garage artist based in United Kingdom, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 5 more. Often billed alongside Alexandra, DJ Slim Fit and metaverde. Next up: Haus73, Hamburg on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Haus73 | Hamburg |
 | Fri, 25 Dec 2026 | Renate | Berlin |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Midland
 
-Midland is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
+Midland is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
 
-Midland is a house and techno artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 47 more. Often billed alongside NIKS, Peach and Moxie. Next up: Haven, Byron Bay on Fri 6 Nov.
+Midland is a house and techno artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 47 more. Often billed alongside NIKS, Peach and Moxie. Next up: Haven, Byron Bay on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Midland is a house and techno artist based in United Kingdom, with 123 gigs on s
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Haven | Byron Bay |
 | Sat, 7 Nov 2026 | Sub Club Melbourne | Melbourne |
+| Sun, 8 Nov 2026 | Poor Toms Oltra | Sydney |
 | Sat, 21 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 27 Nov 2026 | The White Hotel | Manchester |
 | Sat, 28 Nov 2026 | Quarters | Brighton |

@@ -1,8 +1,8 @@
 # Mia Cecille
 
-Mia Cecille is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Doka, Amsterdam on Fri, 6 Nov 2026.
+Mia Cecille is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Doka, Amsterdam on Fri, 6 Nov 2026.
 
-Mia Cecille is a house and techno artist based in Netherlands, with 96 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 16 more. Often billed alongside Marie K, Daan Donk and 42nd Avenue. Next up: Doka, Amsterdam on Fri 6 Nov.
+Mia Cecille is a house and techno artist based in Netherlands, with 97 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 16 more. Often billed alongside Marie K, Daan Donk and 42nd Avenue. Next up: Doka, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mia Cecille is a house and techno artist based in Netherlands, with 96 gigs on s
 | Sat, 14 Nov 2026 | TBA - Announced day of  | New York City |
 | Fri, 20 Nov 2026 | Laak | The Hague |
 | Sat, 28 Nov 2026 | Garage Noord | Amsterdam |
+| Sun, 13 Dec 2026 | Garage Noord | Amsterdam |
 
 ## Recently played
 

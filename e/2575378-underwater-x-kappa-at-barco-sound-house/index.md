@@ -1,6 +1,6 @@
 # Underwater x Kappa at Barco Sound House
 
-Underwater x Kappa at Barco Sound House on Fri 6 Nov, Madrid. 9 artists: Adrian Mart, ALEX FÖX, Danjers and Demattei and 5 more. See the line-up on soundcheck.
+Underwater x Kappa at Barco Sound House on Fri 6 Nov, Madrid. 9 artists: Adrian Mart, ALEX FÖX, Danjers and Demattei and 5 more. Garage and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

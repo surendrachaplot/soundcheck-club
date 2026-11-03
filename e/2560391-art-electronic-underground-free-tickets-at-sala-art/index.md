@@ -1,6 +1,6 @@
 # ART ELECTRONIC UNDERGROUND (FREE TICKETS) at Sala ART
 
-ART ELECTRONIC UNDERGROUND (FREE TICKETS) at Sala ART on Sat 7 Nov, Madrid. 3 artists: Artaban, Costa and PÜCH. Techno. See the line-up on soundcheck.
+ART ELECTRONIC UNDERGROUND (FREE TICKETS) at Sala ART on Sat 7 Nov, Madrid. 4 artists: Artaban, CHEFFF, Costa and PÜCH. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ ART ELECTRONIC UNDERGROUND (FREE TICKETS) at Sala ART on Sat 7 Nov, Madrid. 3 ar
 ## Line-up
 
 - Artaban
+- CHEFFF
 - Costa (2)
 - PÜCH
 

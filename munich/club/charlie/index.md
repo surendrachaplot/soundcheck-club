@@ -9,8 +9,8 @@ Charlie is a music venue in Munich listed on soundcheck. 5 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | all of us: Monaco Dreams | Elpawel, Inu G, Speckman, Talia Dorr |
-| Sat, 14 Nov 2026 | 313 - volume up, pedal down | Benjamin Roeder, DJ Deep |
-| Sat, 28 Nov 2026 | PP Night | Public Possession |
+| Sat, 14 Nov 2026 | 313 - volume up, pedal down w/ DJ Deep b/w Benny Roeder | Benjamin Roeder, DJ Deep |
+| Sat, 28 Nov 2026 | PP Night w/ Public Possession  | Public Possession |
 | Sat, 5 Dec 2026 | together is the answer | Tiefschwarz |
 | Thu, 31 Dec 2026 | NEW YEARS EVE - wonder what they do all night |  |
 

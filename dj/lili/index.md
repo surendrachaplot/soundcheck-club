@@ -1,14 +1,15 @@
 # LILI
 
-LILI is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+LILI is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
 
-LILI is a tech house and house artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Ibiza, Leeds and London and 4 more. Often billed alongside ADMNTi, Cam Stockman and L.P. Rhythm. Next up: The Cause, London on Sat 7 Nov.
+LILI is a tech house and house artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Ibiza, Leeds and London and 4 more. Often billed alongside ADMNTi, Cam Stockman and L.P. Rhythm. Next up: The Cause, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Cause | London |
+| Thu, 12 Nov 2026 | Studio56 | Paris |
 | Fri, 11 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played

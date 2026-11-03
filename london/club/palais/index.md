@@ -9,7 +9,7 @@ Palais is a music venue in London listed on soundcheck. 15 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Palais: Axel Boman & CC:DISCO | Axel Boman, CC:DISCO! |
-| Sat, 7 Nov 2026 | Origins: Or:la & JASSS | JASSS, Or:la |
+| Sat, 7 Nov 2026 | Origins: Or:la & JASSS | Cami Layé Okún, JASSS, Or:la |
 | Fri, 13 Nov 2026 | Palais: Adi, Loidis & Marco Shuttle | Adi (CO), Loidis, Marco Shuttle |
 | Sat, 14 Nov 2026 | 15 Years of Rhythm Section: Bradley Zero, Jorg Kunning (Live), Scarlett O'Malley + more | Bradley Zero, Jorg Kuning, Scarlett O'Malley, Z Lovecraft |
 | Fri, 20 Nov 2026 | DAYTIMERS: anu, Darama, JD. REID, Noni-Mouse, Rasa, Temujin   | Darama, JD. REID, Noni-Mouse, Rasa (IN), Temujin, anu |

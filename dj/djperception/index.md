@@ -1,8 +1,8 @@
 # DJ Perception
 
-DJ Perception is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
+DJ Perception is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
 
-DJ Perception is a garage and house artist based in United Kingdom, with 88 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Berlin and 16 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
+DJ Perception is a garage and house artist based in United Kingdom, with 89 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Berlin and 17 more. Often billed alongside Lady Passion, Jeremy Sylvester and Harry Luda. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Perception is a garage and house artist based in United Kingdom, with 88 gigs
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Starlane Pizza Bar | London |
 | Fri, 11 Dec 2026 | Hidden | Manchester |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

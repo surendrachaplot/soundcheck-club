@@ -1,8 +1,8 @@
 # HMan
 
-HMan is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
+HMan is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
 
-HMan is an electronic artist, with 6 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside ATMEN, Cesar Martino and Mazsai. Next up: Barco Sound House, Madrid on Fri 6 Nov.
+HMan is a garage and deep house artist, with 6 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside ATMEN, Cesar Martino and Mazsai. Next up: Barco Sound House, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 

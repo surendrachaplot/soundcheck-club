@@ -1,18 +1,18 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · ACIDNENA · AMANTRA" on Fri, 6 Nov 2026.
+Nitsa Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · Acidnena · AMANTRA" on Fri, 6 Nov 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including 2ManyDJs, Bad Boombox, Bambounou and Bofirax and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including 2ManyDJs, Acidnena, AMANTRA and Bad Boombox and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · ACIDNENA · AMANTRA | Bad Boombox, Mija, horsegiirL, lizaliza |
+| Fri, 6 Nov 2026 | Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · Acidnena · AMANTRA | AMANTRA, Acidnena, Bad Boombox, Mija, horsegiirL, lizaliza |
 | Sat, 7 Nov 2026 | Reinier Zonneveld Live · Lucia Gea / Bambounou · CCINNI | Bambounou, CCINNI, Lucía Gea, Reinier Zonneveld |
 | Fri, 13 Nov 2026 | oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy | Bofirax, DJ Python, Isa Rojas, RHR, oskar med k |
 | Sat, 14 Nov 2026 | SOUNDIT Club: Palms Trax All Night Long / POGO: Mietze Conte · ideasforconversations | Mietze Conte, Palms Trax |
-| Fri, 20 Nov 2026 | Maribou State DJ Set · MAF / Minna-no-Kimochi · Hekt · Oliver Lieb · Julietta Ferrari | Maribou State |
+| Fri, 20 Nov 2026 | Maribou State DJ Set · MAF / Minna-no-Kimochi · Hekt · Oliver Lieb · Julietta Ferrari | Hekt, Julietta Ferrari, MAF, Maribou State, Minna-no-Kimochi, Oliver Lieb |
 | Sat, 21 Nov 2026 | Cloonee · HANIE / Somoslas x PLAYGIRL: KASI · Nina GGG · TOM CHIESA | Cloonee, HANIE, KASI, Nina GGG, TOM CHIESA |
 | Fri, 27 Nov 2026 | Overmono DJ Set / LATINEO x Club Romantico: DNGDNGDNG Live · re:ni · M8NSE · Kaidara | Dengue Dengue Dengue, Kaidara, M8NSE, Overmono, re:ni |
 | Sat, 28 Nov 2026 | 2ManyDJs DJ Set · Spacer / SOUNDIT Club: DMX Krew live · P.E.A.R.L. · Dj Fra | 2ManyDJs, DMX Krew, Dj Fra, P.E.A.R.L., Spacer |

@@ -8,7 +8,7 @@ The Garage is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 21 Nov 2026 | Teletech MADRID | Alba Franch, Azyr, Nikolina, TOXIMAMI, Trym, ines isla |
+| Sat, 21 Nov 2026 | Teletech MADRID | Alba Franch, Azyr, TOXIMAMI, Trym, ines isla |
 | Sun, 22 Nov 2026 | MESTIZA presents SACRO | MËSTIZA |
 
 ## Address

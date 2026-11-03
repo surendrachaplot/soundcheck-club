@@ -1,14 +1,15 @@
 # Victor Hugo
 
-Victor Hugo is a House and Electronica artist with 22 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Chica Club, Barcelona on Wed, 4 Nov 2026.
+Victor Hugo is a House and Electronica artist with 23 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Chica Club, Barcelona on Wed, 4 Nov 2026.
 
-Victor Hugo is a house and electronica artist based in Mexico, with 97 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City and 2 more. Often billed alongside INOFF, PINI and Eudald Selva. Next up: Chica Club, Barcelona on Wed 4 Nov.
+Victor Hugo is a house and electronica artist based in Mexico, with 98 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City and 2 more. Often billed alongside INOFF, PINI and Eudald Selva. Next up: Chica Club, Barcelona on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | Chica Club | Barcelona |
+| Sat, 7 Nov 2026 | Chica Club | Barcelona |
 | Sun, 8 Nov 2026 | Sidecar | Barcelona |
 | Wed, 11 Nov 2026 | Chica Club | Barcelona |
 | Sun, 15 Nov 2026 | Sidecar | Barcelona |
@@ -19,7 +20,6 @@ Victor Hugo is a house and electronica artist based in Mexico, with 97 gigs on s
 | Wed, 2 Dec 2026 | Chica Club | Barcelona |
 | Sun, 6 Dec 2026 | Sidecar | Barcelona |
 | Wed, 9 Dec 2026 | Chica Club | Barcelona |
-| Sun, 13 Dec 2026 | Sidecar | Barcelona |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 6 Nov 2026.
+Josh Caffé is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 6 Nov 2026.
 
-Josh Caffé is a house and techno artist based in United Kingdom, with 164 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 46 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Yamamori Tengu, Dublin on Fri 6 Nov.
+Josh Caffé is a house and techno artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 47 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Yamamori Tengu, Dublin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Josh Caffé is a house and techno artist based in United Kingdom, with 164 gigs 
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 | Sat, 19 Dec 2026 | The Berkeley Suite | Glasgow |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

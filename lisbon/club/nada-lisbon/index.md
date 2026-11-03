@@ -9,7 +9,7 @@ NADA Lisbon is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs. Se
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Forestdelic Label Party |  |
-| Fri, 6 Nov 2026 | Retro Techno At Tiga (Naada) |  |
+| Fri, 6 Nov 2026 | TECH HOUSE IN THE HOUSE |  |
 
 ## Address
 

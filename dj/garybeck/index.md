@@ -1,8 +1,8 @@
 # Gary Beck
 
-Gary Beck is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Antisistema, Bogotá on Fri, 6 Nov 2026.
+Gary Beck is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Antisistema, Bogotá on Fri, 6 Nov 2026.
 
-Gary Beck is a techno and house artist based in United Kingdom, with 49 gigs on soundcheck across Aberdeen, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Co-Accused, Dave Clarke and Frazi.er. Next up: Antisistema, Bogotá on Fri 6 Nov.
+Gary Beck is a techno and house artist based in United Kingdom, with 50 gigs on soundcheck across Aberdeen, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Co-Accused, Dave Clarke and Frazi.er. Next up: Antisistema, Bogotá on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Gary Beck is a techno and house artist based in United Kingdom, with 49 gigs on 
 | Sat, 28 Nov 2026 | McChuills Music Bar | Glasgow |
 | Sat, 12 Dec 2026 | The DBA | Manchester |
 | Sun, 13 Dec 2026 | The Golden Lion | Manchester |
+| Sun, 27 Dec 2026 | Kapsule | Liverpool |
 | Tue, 29 Dec 2026 | La Belle Angele | Edinburgh |
 
 ## Recently played

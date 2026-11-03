@@ -1,14 +1,15 @@
 # Lady Passion
 
-Lady Passion is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hidden, Manchester on Fri, 11 Dec 2026.
+Lady Passion is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hidden, Manchester on Fri, 11 Dec 2026.
 
-Lady Passion is a garage and house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dublin and 8 more. Often billed alongside DJ Perception, Jeremy Sylvester and Neffa-T. Next up: Hidden, Manchester on Fri 11 Dec.
+Lady Passion is a garage and house artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Berlin, Bristol and Dublin and 9 more. Often billed alongside DJ Perception, Jeremy Sylvester and Neffa-T. Next up: Hidden, Manchester on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Hidden | Manchester |
+| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

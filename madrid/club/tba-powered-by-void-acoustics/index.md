@@ -1,8 +1,8 @@
 # TBA - Powered by: Void Acoustics
 
-TBA - Powered by: Void Acoustics is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "ORGANIC COMMUNITY x DRIPS (Berlin Showcase)" on Fri, 6 Nov 2026.
+TBA - Powered by: Void Acoustics is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "ORGANIC COMMUNITY x DRIPS (Berlin Showcase)" on Fri, 6 Nov 2026.
 
-TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Ali-Az, CEM3340, Cristal Roto and HCOR and 2 more. See dates, start times and who's playing.
+TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Ali-Az, CEM3340, Cristal Roto and Elias the Prophet and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -12,6 +12,7 @@ TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck
 | Sat, 7 Nov 2026 | Freedom Take Over Plus One X Jeroen Search (Live) + Insen (Live) | Ali-Az, Jeroen Search, Kevin Matto, Systematic Method |
 | Fri, 13 Nov 2026 | Jaleo Real • 5ª Temporada • Parte 1/3 | CEM3340, HCOR, Luska, NAUAL, PAULA ZAPY, Unreal Vibes |
 | Sat, 14 Nov 2026 | Itaca with Stereo Club Miguel Rivas, RODS & more | Miguel Rivas, RODS (ES) |
+| Sat, 28 Nov 2026 | Visceral Room & ALTEREGO | Elias the Prophet, Fgdj, J.C., Krahm, PW DISTORTION, Rodri Martin, Safia (2), Santek |
 | Thu, 31 Dec 2026 | Plus One X Studio76 NYE W/ Stanislav Tolkachev + Svreca + SAINT SINNER | Ali-Az, Jesus Riaño, Kevin Matto, SAINT SINNER, Stanislav Tolkachev, Svreca, Systematic Method |
 
 *Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-powered-by-void-acoustics/)*

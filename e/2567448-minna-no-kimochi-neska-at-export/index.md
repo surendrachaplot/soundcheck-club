@@ -1,6 +1,6 @@
 # Minna-no-Kimochi, neska at export
 
-Minna-no-Kimochi, neska at export on Sat 14 Nov, Rotterdam. 2 artists: Minna-no-Kimochi and Neska. Trance and Acid. See the line-up on soundcheck.
+Minna-no-Kimochi, neska at export on Sat 14 Nov, Rotterdam. 2 artists: Minna-no-Kimochi and neska. Trance and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ Minna-no-Kimochi, neska at export on Sat 14 Nov, Rotterdam. 2 artists: Minna-no-
 ## Line-up
 
 - Minna-no-Kimochi
-- Neska
+- neska
 
 *Source: [soundcheck](https://soundcheck.club/e/2567448-minna-no-kimochi-neska-at-export/)*

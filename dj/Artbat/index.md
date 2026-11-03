@@ -1,8 +1,8 @@
 # Artbat
 
-Artbat is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Artbat is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Artbat is a techno and house artist based in Ukraine, with 147 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Artbat is a techno and house artist based in Ukraine, with 148 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 46 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Artbat is a techno and house artist based in Ukraine, with 147 gigs on soundchec
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Fri, 20 Nov 2026 | Olympic Stadium | Berlin |
+| Mon, 30 Nov 2026 | TBA - SECRET LOCATION IN LISBON | Lisbon |
 | Fri, 4 Dec 2026 | TBA | Zurich |
 | Wed, 9 Dec 2026 | Café del Mar Phuket | Thailand |
 | Tue, 29 Dec 2026 | Jardins do MAM | Rio de Janeiro |

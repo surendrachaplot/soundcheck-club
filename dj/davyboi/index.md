@@ -1,8 +1,8 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at E1, London on Fri, 6 Nov 2026.
+davyboi is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at E1, London on Fri, 6 Nov 2026.
 
-davyboi is a techno and trance artist based in Germany, with 198 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 47 more. Often billed alongside Mika Heggemann, Cleopard2000 and Trancemaster Krause. Next up: E1, London on Fri 6 Nov.
+davyboi is a techno and trance artist based in Germany, with 199 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 47 more. Often billed alongside Mika Heggemann, Cleopard2000 and Trancemaster Krause. Next up: E1, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ davyboi is a techno and trance artist based in Germany, with 198 gigs on soundch
 | Fri, 4 Dec 2026 | Academy LA | Los Angeles |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Sat, 1 May 2027 | Komplex Berlin | Berlin |
 
 ## Recently played
 

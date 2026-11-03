@@ -1,8 +1,8 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 6 Nov 2026.
+Elias Mazian is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Minimüzikhol, Istanbul on Fri, 6 Nov 2026.
 
-Elias Mazian is a house and techno artist based in Netherlands, with 128 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and Bastienne. Next up: Minimüzikhol, Istanbul on Fri 6 Nov.
+Elias Mazian is a house and techno artist based in Netherlands, with 129 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 25 more. Often billed alongside Suze Ijó, Tsepo and Bastienne. Next up: Minimüzikhol, Istanbul on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Elias Mazian is a house and techno artist based in Netherlands, with 128 gigs on
 | Sat, 14 Nov 2026 | Club 77 | Sydney |
 | Fri, 20 Nov 2026 | Glamorama | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
+| Fri, 27 Nov 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 28 Nov 2026 | Inter-City | The Hague |
 | Fri, 4 Dec 2026 | Hackney Bridge | London |
 | Sat, 12 Dec 2026 | TivoliVredenburg | Utrecht |

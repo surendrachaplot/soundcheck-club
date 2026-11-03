@@ -1,8 +1,8 @@
 # Enrico Vergo
 
-Enrico Vergo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
+Enrico Vergo is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
 
-Enrico Vergo is a house and tech house artist based in Italy, with 4 gigs on soundcheck across Madrid. Often billed alongside Adrian Mart, Danjers and ALEX FÖX. Next up: Barco Sound House, Madrid on Fri 6 Nov.
+Enrico Vergo is a deep house and house artist based in Italy, with 4 gigs on soundcheck across Madrid. Often billed alongside Adrian Mart, Danjers and ALEX FÖX. Next up: Barco Sound House, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 

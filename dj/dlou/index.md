@@ -1,14 +1,15 @@
 # DLOU
 
-DLOU is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Lenovo Garage, Madrid on Sun, 8 Nov 2026.
+DLOU is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Lenovo Garage, Madrid on Sun, 8 Nov 2026.
 
-DLOU is a tech house and house artist based in Spain, with 20 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Abdon, Freddy Bello and Tini Gessler. Next up: The Lenovo Garage, Madrid on Sun 8 Nov.
+DLOU is a tech house and house artist based in Spain, with 21 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Abdon, DJ Tennis and Freddy Bello. Next up: The Lenovo Garage, Madrid on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | The Lenovo Garage | Madrid |
+| Sun, 8 Nov 2026 | The Bassement | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DLOU is a tech house and house artist based in Spain, with 20 gigs on soundcheck
 
 ## Shares bills with
 
-Abdon, Freddy Bello, Tini Gessler
+Abdon, DJ Tennis, Freddy Bello
 
 *Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlou/)*
