@@ -1,14 +1,14 @@
 # Pillbox Beijing
 
-Pillbox Beijing is a music venue in Beijing with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "八仙过海: The Eight Immortals" on Fri, 30 Oct 2026.
+Pillbox Beijing is a music venue in Beijing with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CLUB SWAP：OIL" on Fri, 6 Nov 2026.
 
-Pillbox Beijing is a music venue in Beijing listed on soundcheck. 2 upcoming gigs, with line-ups including Bearback, d.i.o., Errorsmith and Evian Christ and 2 more. See dates, start times and who's playing.
+Pillbox Beijing is a music venue in Beijing listed on soundcheck. 2 upcoming gigs, with line-ups including Erik Luebs, OTON, S.M.S.H and Skögul and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | 八仙过海: The Eight Immortals | MELATRONIX, S.M.S.H, Skögul, W.X.M |
-| Sat, 31 Oct 2026 | Antigen pres. Evian Christ + Errorsmith | Bearback, Errorsmith, Evian Christ, d.i.o. |
+| Fri, 6 Nov 2026 | CLUB SWAP：OIL | S.M.S.H, Skögul, Sulk, zzm (2) |
+| Sat, 7 Nov 2026 | Erik Luebs | Erik Luebs, OTON |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/pillbox-beijing/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/pillbox-beijing/)*

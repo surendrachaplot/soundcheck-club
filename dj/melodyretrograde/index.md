@@ -1,6 +1,6 @@
 # Melody Retrograde
 
-Melody Retrograde is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Andthenyou, Hamilton on Thu, 5 Nov 2026.
+Melody Retrograde is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Andthenyou, Hamilton on Thu, 5 Nov 2026.
 
 Melody Retrograde is a club and techno artist based in Canada, with 18 gigs on soundcheck across Hamilton, London, New York City and Toronto. Often billed alongside GUSSYEE, Sappho.XD and GRRLCRRSH. Next up: Andthenyou, Hamilton on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Melody Retrograde is a club and techno artist based in Canada, with 18 gigs on s
 
 GUSSYEE, Sappho.XD, GRRLCRRSH
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyretrograde/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melodyretrograde/)*

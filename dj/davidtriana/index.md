@@ -1,6 +1,6 @@
 # David Triana
 
-David Triana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - NOTTING HILL WEST LONDON , London on Fri, 27 Nov 2026.
+David Triana is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - NOTTING HILL WEST LONDON , London on Fri, 27 Nov 2026.
 
 David Triana is a house and techno artist based in Colombia, with 86 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 20 more. Often billed alongside Rakim Under, Kenia and O.BEE. Next up: TBA - NOTTING HILL WEST LONDON , London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ David Triana is a house and techno artist based in Colombia, with 86 gigs on sou
 
 Rakim Under, Kenia, O.BEE
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtriana/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtriana/)*

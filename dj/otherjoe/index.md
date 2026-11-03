@@ -1,6 +1,6 @@
 # Other Joe
 
-Other Joe is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Other Joe is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 Other Joe is a downtempo and ambient artist, with 18 gigs on soundcheck across Belgrade, Berlin, Lisbon and London and 2 more. Often billed alongside Tangerine, Emelyne and Billus. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Other Joe is a downtempo and ambient artist, with 18 gigs on soundcheck across B
 
 Tangerine, Emelyne, Billus
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otherjoe/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otherjoe/)*

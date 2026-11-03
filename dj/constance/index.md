@@ -1,6 +1,6 @@
 # Constance
 
-Constance is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Eiger Studios, Leeds on Fri, 27 Nov 2026.
+Constance is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Eiger Studios, Leeds on Fri, 27 Nov 2026.
 
 Constance is a bass and dub artist based in United Kingdom, with 4 gigs on soundcheck across Leeds and Nottingham. Often billed alongside Eve Lizard, Another Place and Azu Tiwaline. Next up: Eiger Studios, Leeds on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Constance is a bass and dub artist based in United Kingdom, with 4 gigs on sound
 
 Eve Lizard, Another Place (2), Azu Tiwaline
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/constance/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/constance/)*

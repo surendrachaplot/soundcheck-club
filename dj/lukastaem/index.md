@@ -1,6 +1,6 @@
 # Luka Staem
 
-Luka Staem is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kauz, Zurich on Fri, 20 Nov 2026.
+Luka Staem is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kauz, Zurich on Fri, 20 Nov 2026.
 
 Luka Staem is a house and tech house artist based in Switzerland, with 3 gigs on soundcheck across Lausanne, Rotterdam and Zurich. Often billed alongside James and Marie Malarie. Next up: Kauz, Zurich on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Luka Staem is a house and tech house artist based in Switzerland, with 3 gigs on
 
 James (6), Marie Malarie
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukastaem/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukastaem/)*

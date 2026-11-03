@@ -1,6 +1,6 @@
 # Deetron
 
-Deetron is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
+Deetron is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 20 Nov 2026.
 
 Deetron is a techno and house artist based in Switzerland, with 65 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Berlin and 30 more. Often billed alongside Zenker Brothers, Tasha and Armand Van Helden. Next up: RSO.BERLIN, Berlin on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Deetron is a techno and house artist based in Switzerland, with 65 gigs on sound
 
 Zenker Brothers, Tasha, Armand Van Helden
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deetron/)*

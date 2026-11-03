@@ -1,6 +1,6 @@
 # Kyra [techno]
 
-Kyra [techno] is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 13 Nov 2026.
+Kyra [techno] is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Zemin Art Gallery, Berlin on Fri, 13 Nov 2026.
 
 Kyra [techno] is a techno and ambient artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside 044 Jaw, ANNDRA and BAR.ONE. Next up: Zemin Art Gallery, Berlin on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Kyra [techno] is a techno and ambient artist based in Germany, with 4 gigs on so
 
 044 Jaw, ANNDRA, BAR.ONE
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyratechno/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyratechno/)*

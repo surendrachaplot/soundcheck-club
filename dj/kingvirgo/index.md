@@ -1,13 +1,14 @@
 # King Virgo
 
-King Virgo is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Paragon, New York City on Fri, 20 Nov 2026.
+King Virgo is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Siberia, New Orleans on Sat, 14 Nov 2026.
 
-King Virgo is a techno and club artist based in United States of America, with 2 gigs on soundcheck across New York City. Often billed alongside 1morning, Amadeezy and Bodegaparty. Next up: Paragon, New York City on Fri 20 Nov.
+King Virgo is a club and techno artist based in United States of America, with 3 gigs on soundcheck across New Orleans and New York City. Often billed alongside 1morning, Amadeezy and Bodegaparty. Next up: Siberia, New Orleans on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Siberia | New Orleans |
 | Fri, 20 Nov 2026 | Paragon | New York City |
 
 ## Recently played
@@ -18,4 +19,4 @@ King Virgo is a techno and club artist based in United States of America, with 2
 
 1morning, Amadeezy, Bodegaparty
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingvirgo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingvirgo/)*

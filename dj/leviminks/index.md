@@ -1,6 +1,6 @@
 # Leviminks
 
-Leviminks is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Steel Yard, London on Sat, 23 Jan 2027.
+Leviminks is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Steel Yard, London on Sat, 23 Jan 2027.
 
 Leviminks is a techno and ebm artist based in United Kingdom, with 28 gigs on soundcheck across Birmingham, Istanbul and London. Often billed alongside Arrosa, LIZAZA and Ricardo Castro. Next up: The Steel Yard, London on Sat 23 Jan.
 
@@ -26,4 +26,4 @@ Leviminks is a techno and ebm artist based in United Kingdom, with 28 gigs on so
 
 Arrosa, LIZAZA, Ricardo Castro
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leviminks/)*

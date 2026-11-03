@@ -1,6 +1,6 @@
 # DJ Football
 
-DJ Football is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Rex Club, Paris on Thu, 5 Nov 2026.
+DJ Football is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Rex Club, Paris on Thu, 5 Nov 2026.
 
 DJ Football is a techno and trance artist based in France, with 41 gigs on soundcheck across Berlin, Bordeaux, Marseille and Paris and 1 more. Often billed alongside DJ Caline, Die Klar and EARGASM GOD. Next up: Rex Club, Paris on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ DJ Football is a techno and trance artist based in France, with 41 gigs on sound
 
 DJ Caline, Die Klar, EARGASM GOD
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfootball/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfootball/)*

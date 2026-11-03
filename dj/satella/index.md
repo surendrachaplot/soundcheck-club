@@ -1,6 +1,6 @@
 # SATELLA
 
-SATELLA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+SATELLA is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 SATELLA is a techno and industrial artist, with 4 gigs on soundcheck across Paris and Tokyo. Often billed alongside VÏVÏ, Bonaugur and CHIKA. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ SATELLA is a techno and industrial artist, with 4 gigs on soundcheck across Pari
 
 VÏVÏ, Bonaugur, CHIKA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satella/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satella/)*

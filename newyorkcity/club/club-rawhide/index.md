@@ -1,6 +1,6 @@
 # Club Rawhide
 
-Club Rawhide is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "CODED Thursdays 11.05.26" on Thu, 5 Nov 2026.
+Club Rawhide is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CODED Thursdays 11.05.26" on Thu, 5 Nov 2026.
 
 Club Rawhide is a music venue in New York City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 250 W 26TH ST.
 
@@ -17,4 +17,4 @@ Club Rawhide is a music venue in New York City listed on soundcheck. 4 upcoming 
 
 250 W 26TH ST, New York City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/club-rawhide/)*

@@ -1,6 +1,6 @@
 # Jamie Hayhoe
 
-Jamie Hayhoe is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at 93 Feet East, London on Sat, 28 Nov 2026.
+Jamie Hayhoe is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at 93 Feet East, London on Sat, 28 Nov 2026.
 
 Jamie Hayhoe is a house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Tristan Ingram, F Red and George Smeddles. Next up: 93 Feet East, London on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ Jamie Hayhoe is a house artist based in United Kingdom, with 3 gigs on soundchec
 
 Tristan Ingram, F Red, George Smeddles
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiehayhoe/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiehayhoe/)*

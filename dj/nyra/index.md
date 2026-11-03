@@ -1,14 +1,15 @@
 # Nyra
 
-Nyra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 20 Nov 2026.
+Nyra is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 20 Nov 2026.
 
-Nyra is a house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belfast and 18 more. Often billed alongside Amaliah, Chloé Caillet and Demi Riquisimo. Next up: La Cheetah Club, Glasgow on Fri 20 Nov.
+Nyra is a house and techno artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Belfast and 18 more. Often billed alongside Chloé Caillet, Demi Riquisimo and Grace Sands. Next up: La Cheetah Club, Glasgow on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | La Cheetah Club | Glasgow |
+| Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Nyra is a house and techno artist based in United Kingdom, with 62 gigs on sound
 
 ## Shares bills with
 
-Amaliah, Chloé Caillet, Demi Riquisimo
+Chloé Caillet, Demi Riquisimo, Grace Sands
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyra/)*

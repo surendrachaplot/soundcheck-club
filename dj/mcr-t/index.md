@@ -1,6 +1,6 @@
 # MCR-T
 
-MCR-T is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Blank Site, Seoul on Fri, 6 Nov 2026.
+MCR-T is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Blank Site, Seoul on Fri, 6 Nov 2026.
 
 MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 75 more. Often billed alongside DJ Gigola, Clara Cuvé and Bauernfeind. Next up: Blank Site, Seoul on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ MCR-T is a techno and house artist based in Germany, with 305 gigs on soundcheck
 
 DJ Gigola, Clara Cuvé, Bauernfeind
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcr-t/)*

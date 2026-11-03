@@ -1,6 +1,6 @@
 # Daniel Schieber
 
-Daniel Schieber is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 7 Nov 2026.
+Daniel Schieber is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Beat Boutique, Hamburg on Sat, 7 Nov 2026.
 
 Daniel Schieber is a techno and breakbeat artist, with 8 gigs on soundcheck across Hamburg. Often billed alongside KERST, Arne Stolt and Artenvielfalt. Next up: Beat Boutique, Hamburg on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Daniel Schieber is a techno and breakbeat artist, with 8 gigs on soundcheck acro
 
 KERST, Arne Stolt, Artenvielfalt
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielschieber/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielschieber/)*

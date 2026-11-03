@@ -1,6 +1,6 @@
 # Truant
 
-Truant is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Prozak 2.0, Krakow on Sat, 7 Nov 2026.
+Truant is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Prozak 2.0, Krakow on Sat, 7 Nov 2026.
 
 Truant is a techno and tech house artist based in Poland, with 89 gigs on soundcheck across Berlin, Copenhagen, Krakow and Poznan and 2 more. Often billed alongside KEVS, BEXA and Jerry M. Next up: Prozak 2.0, Krakow on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Truant is a techno and tech house artist based in Poland, with 89 gigs on soundc
 
 KEVS, BEXA, Jerry M
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truant/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/truant/)*

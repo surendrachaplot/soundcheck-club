@@ -1,6 +1,6 @@
 # Quinn Blake
 
-Quinn Blake is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Don Quixote, Los Angeles on Fri, 13 Nov 2026.
+Quinn Blake is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Don Quixote, Los Angeles on Fri, 13 Nov 2026.
 
 Quinn Blake is a club and baile funk artist based in United States of America, with 19 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Cquestt, DINABN and Mez Monty. Next up: Don Quixote, Los Angeles on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Quinn Blake is a club and baile funk artist based in United States of America, w
 
 Cquestt, DINABN, Mez Monty
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quinnblake/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quinnblake/)*

@@ -1,6 +1,6 @@
 # André Galluzzi
 
-André Galluzzi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Giselle, Düsseldorf on Sat, 7 Nov 2026.
+André Galluzzi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Giselle, Düsseldorf on Sat, 7 Nov 2026.
 
 André Galluzzi is a house and techno artist based in Germany, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 14 more. Often billed alongside Sven Vath, Maurizio Schmitz and Dana Ruh. Next up: Giselle, Düsseldorf on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ André Galluzzi is a house and techno artist based in Germany, with 81 gigs on s
 
 Sven Vath, Maurizio Schmitz, Dana Ruh
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andregalluzzi/)*

@@ -1,6 +1,6 @@
-# ALGORAVE [Crash server, Jia Liu & Michele Samarotto, Students] at Karmen Camina
+# ALGORAVE [Crash server • Jia Liu & Michele Samarotto • Students] at Karmen Camina
 
-ALGORAVE [Crash server, Jia Liu & Michele Samarotto, Students] at Karmen Camina on Thu 12 Nov, Strasbourg. Electro and Experimental. See the line-up on soundcheck.
+ALGORAVE [Crash server • Jia Liu & Michele Samarotto • Students] at Karmen Camina on Thu 12 Nov, Strasbourg. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

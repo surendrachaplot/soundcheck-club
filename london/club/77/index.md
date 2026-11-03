@@ -1,14 +1,13 @@
 # 77
 
-77 is a music venue in London with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "FullHouse Monday Party: Special Guest" on Mon, 2 Nov 2026.
+77 is a music venue in London with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "77: SONA" on Fri, 6 Nov 2026.
 
-77 is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alan Dixon, AliTR, Deb FA and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alan Dixon, AliTR, Deb FA and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | FullHouse Monday Party: Special Guest |  |
 | Fri, 6 Nov 2026 | 77: SONA | SONA (2) |
 | Sat, 7 Nov 2026 | 77: MASAKA AFRICANA FT MICKEY DASTINZ |  |
 | Fri, 13 Nov 2026 | 77: Wheats | Wheats |
@@ -23,4 +22,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

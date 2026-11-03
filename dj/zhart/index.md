@@ -1,6 +1,6 @@
 # zhart
 
-zhart is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Beate Uwe, Berlin on Sun, 29 Nov 2026.
+zhart is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Beate Uwe, Berlin on Sun, 29 Nov 2026.
 
 zhart is a downtempo and deep house artist, with 11 gigs on soundcheck across Berlin and Zurich. Often billed alongside Agrest, Chris Loud and Christopher Lawrenz. Next up: Beate Uwe, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ zhart is a downtempo and deep house artist, with 11 gigs on soundcheck across Be
 
 Agrest, Chris Loud, Christopher Lawrenz
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhart/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zhart/)*

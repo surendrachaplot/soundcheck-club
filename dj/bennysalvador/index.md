@@ -1,6 +1,6 @@
 # Benny Salvador
 
-Benny Salvador is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Benny Salvador is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Benny Salvador is a house and electronica artist based in New Zealand, with 3 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Charlie Bucket, Harvey Sutherland and Kuzco. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Benny Salvador is a house and electronica artist based in New Zealand, with 3 gi
 
 Charlie Bucket, Harvey Sutherland, Kuzco
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysalvador/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennysalvador/)*

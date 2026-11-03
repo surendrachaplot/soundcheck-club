@@ -1,6 +1,6 @@
 # npc_id
 
-npc_id is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Belgrade on Wed, 25 Nov 2026.
+npc_id is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Belgrade on Wed, 25 Nov 2026.
 
 npc_id is a tech house and progressive house artist, with 3 gigs on soundcheck across Belgrade. Often billed alongside Boccaccio, BrüneX and Nuvo Départ. Next up: TBA, Belgrade on Wed 25 Nov.
 
@@ -19,4 +19,4 @@ npc_id is a tech house and progressive house artist, with 3 gigs on soundcheck a
 
 Boccaccio, BrüneX, Nuvo Départ
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/npc_id/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/npc_id/)*

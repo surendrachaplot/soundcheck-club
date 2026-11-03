@@ -1,6 +1,6 @@
 # Academy LA
 
-Academy LA is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Torren Foot, Gene Farris, Oliver Blank" on Sat, 7 Nov 2026.
+Academy LA is a music venue in Los Angeles with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Torren Foot, Gene Farris, Oliver Blank" on Sat, 7 Nov 2026.
 
 Academy LA is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs, with line-ups including Casska, davyboi, Desert Hearts and Mika Heggemann and 2 more. See dates, start times and who's playing. 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA.
 
@@ -18,4 +18,4 @@ Academy LA is a music venue in Los Angeles listed on soundcheck. 5 upcoming gigs
 
 6021 Hollywood Blvd.  Los Angeles, CA 90028, USA, Los Angeles
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/academy-la/)*

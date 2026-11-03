@@ -1,6 +1,6 @@
 # Unveiled
 
-Unveiled is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Pablo Fierro w. Luna Mar, ASMOT, & Kassin" on Sat, 12 Dec 2026.
+Unveiled is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Pablo Fierro w. Luna Mar, ASMOT, & Kassin" on Sat, 12 Dec 2026.
 
 Unveiled is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including ASMOT, Luna Mar and Pablo Fierro. See dates, start times and who's playing. 94 n 13th st, brooklyn, NY 11249.
 
@@ -15,4 +15,4 @@ Unveiled is a music venue in New York City listed on soundcheck. 2 upcoming gigs
 
 94 n 13th st, brooklyn, NY 11249, New York City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/unveiled/)*

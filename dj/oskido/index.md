@@ -1,6 +1,6 @@
 # Oskido
 
-Oskido is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cabo Beach Club, Cape Town on Sun, 27 Dec 2026.
+Oskido is a Afro House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cabo Beach Club, Cape Town on Sun, 27 Dec 2026.
 
 Oskido is an afro house and deep house artist based in South Africa, with 3 gigs on soundcheck across Amsterdam, Cape Town and London. Often billed alongside Atmos Blaq, Dj Maphorisa and Dwson. Next up: Cabo Beach Club, Cape Town on Sun 27 Dec.
 
@@ -19,4 +19,4 @@ Oskido is an afro house and deep house artist based in South Africa, with 3 gigs
 
 Atmos Blaq, Dj Maphorisa, Dwson
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oskido/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oskido/)*

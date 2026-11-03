@@ -1,6 +1,6 @@
 # Vers
 
-Vers is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Vers is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Vers is a bass and techno artist based in Belgium, with 33 gigs on soundcheck across Antwerp, Belgium, Brussels and Dublin and 2 more. Often billed alongside Erykah, clïo and Casper. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Vers is a bass and techno artist based in Belgium, with 33 gigs on soundcheck ac
 
 Erykah, clïo, Casper
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vers/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vers/)*

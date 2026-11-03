@@ -1,6 +1,6 @@
 # Sassy J
 
-Sassy J is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
+Sassy J is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
 
 Sassy J is a house and disco artist based in Switzerland, with 52 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 23 more. Often billed alongside Antal, D'Monk and Eternal Love. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sassy J is a house and disco artist based in Switzerland, with 52 gigs on soundc
 
 Antal, D'Monk, Eternal Love
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sassyj/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sassyj/)*

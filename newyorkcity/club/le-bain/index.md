@@ -1,6 +1,6 @@
 # Le Bain
 
-Le Bain is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DANCE DANCE DANCE" on Wed, 4 Nov 2026.
+Le Bain is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "DANCE DANCE DANCE" on Wed, 4 Nov 2026.
 
 Le Bain is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Azzeddine, DREAMINSLOW, Juliana Huxtable and Occupy The Disco and 2 more. See dates, start times and who's playing. 444 W 13th Street, New York, NY 10014.
 
@@ -9,7 +9,7 @@ Le Bain is a music venue in New York City listed on soundcheck. 6 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | DANCE DANCE DANCE |  |
-| Thu, 5 Nov 2026 | SSG_ & Azzedine | Azzeddine, SSG_ |
+| Thu, 5 Nov 2026 | SSG_ & Azzeddine | Azzeddine, SSG_ |
 | Fri, 6 Nov 2026 | Rich Medina All Night | Rich Medina |
 | Sat, 7 Nov 2026 | Tony Humphries' RESIDENCY | Tony Humphries |
 | Sun, 8 Nov 2026 | PARADISCO FRIENDSGIVING | Occupy The Disco |
@@ -19,4 +19,4 @@ Le Bain is a music venue in New York City listed on soundcheck. 6 upcoming gigs,
 
 444 W 13th Street, New York, NY 10014, New York City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/le-bain/)*

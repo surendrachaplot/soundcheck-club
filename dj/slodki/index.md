@@ -1,6 +1,6 @@
 # Slodki
 
-Slodki is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Macadam, Nantes on Sat, 28 Nov 2026.
+Slodki is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Macadam, Nantes on Sat, 28 Nov 2026.
 
 Slodki is a bass and dubstep artist based in France, with 12 gigs on soundcheck across Nantes and Paris. Often billed alongside Tamada (FR), ojoo and Alicia (UK). Next up: Macadam, Nantes on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Slodki is a bass and dubstep artist based in France, with 12 gigs on soundcheck 
 
 Tamada (FR), ojoo, Alicia (UK)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slodki/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slodki/)*

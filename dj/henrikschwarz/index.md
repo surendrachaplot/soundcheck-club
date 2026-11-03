@@ -1,6 +1,6 @@
 # Henrik Schwarz
 
-Henrik Schwarz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at House of Yes, New York City on Fri, 13 Nov 2026.
+Henrik Schwarz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at House of Yes, New York City on Fri, 13 Nov 2026.
 
 Henrik Schwarz is a house and techno artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 36 more. Often billed alongside Âme, Mano Le Tough and Black Coffee. Next up: House of Yes, New York City on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Henrik Schwarz is a house and techno artist based in Germany, with 123 gigs on s
 
 Âme, Mano Le Tough, Black Coffee
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henrikschwarz/)*

@@ -1,6 +1,6 @@
 # The Comfort Zone
 
-The Comfort Zone is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "404: JokesOnYou" on Fri, 6 Nov 2026.
+The Comfort Zone is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "404: JokesOnYou" on Fri, 6 Nov 2026.
 
 The Comfort Zone is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Hatiras, Jerome Robins, JOKESONYOU and KILL 9 1 and 2 more. See dates, start times and who's playing. 1369 Queen St. West.
 
@@ -8,7 +8,7 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 8 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | 404: JokesOnYou | JOKESONYOU, KILL 9 1, MVCHE, THREECARDMONTY, Tomb Raver |
+| Fri, 6 Nov 2026 | 404: JokesOnYou | JOKESONYOU, KILL 9 1, MVCHE, Mand0, THREECARDMONTY, Tomb Raver |
 | Fri, 13 Nov 2026 | 404: BET ON system |  |
 | Sat, 14 Nov 2026 | Morning Mass pres. Tony Romera | Theta State, Tony Romera |
 | Sat, 21 Nov 2026 | Morning Mass pres. Hatiras & Spacedisco | Hatiras, Jerome Robins |
@@ -21,4 +21,4 @@ The Comfort Zone is a music venue in Toronto listed on soundcheck. 8 upcoming gi
 
 1369 Queen St. West, Toronto
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-comfort-zone/)*

@@ -1,8 +1,8 @@
 # Luke Redford
 
-Luke Redford is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
+Luke Redford is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kauz, Zurich on Fri, 6 Nov 2026.
 
-Luke Redford is a techno and house artist, with 7 gigs on soundcheck across Zurich. Often billed alongside Rearte, Nive and Amygdala. Next up: Kauz, Zurich on Fri 6 Nov.
+Luke Redford is a techno and house artist based in Switzerland, with 7 gigs on soundcheck across Zurich. Often billed alongside Rearte, Nive and Amygdala. Next up: Kauz, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Luke Redford is a techno and house artist, with 7 gigs on soundcheck across Zuri
 
 Rearte, Nive, Amygdala
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeredford/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukeredford/)*

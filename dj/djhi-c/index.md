@@ -1,6 +1,6 @@
 # DJ HI-C
 
-DJ HI-C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 6 Nov 2026.
+DJ HI-C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 6 Nov 2026.
 
 DJ HI-C is a techno and house artist based in Japan, with 82 gigs on soundcheck across Amsterdam, Athens, Beijing and Hong Kong and 11 more. Often billed alongside TENO, Toru Ikemoto and YouForgot. Next up: Tempio del Futuro Perduto, Milan on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ HI-C is a techno and house artist based in Japan, with 82 gigs on soundcheck 
 
 TENO, Toru Ikemoto, YouForgot
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhi-c/)*

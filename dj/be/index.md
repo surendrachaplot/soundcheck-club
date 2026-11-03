@@ -1,6 +1,6 @@
 # Be
 
-Be is a Drum & Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
+Be is a Drum & Bass and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Amigo, Ghent on Sat, 7 Nov 2026.
 
 Be is a drum & bass and deep house artist based in United Kingdom, with 3 gigs on soundcheck across Antwerp and Ghent. Often billed alongside Hiraeth, Akira and CP. Next up: Amigo, Ghent on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Be is a drum & bass and deep house artist based in United Kingdom, with 3 gigs o
 
 Hiraeth, Akira, CP
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/be/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/be/)*

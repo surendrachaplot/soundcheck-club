@@ -1,6 +1,6 @@
 # Jolene Downtown Miami
 
-Jolene Downtown Miami is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "King's Paradox: Marian" on Thu, 5 Nov 2026.
+Jolene Downtown Miami is a music venue in Miami with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "King's Paradox: Marian" on Thu, 5 Nov 2026.
 
 Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 11 upcoming gigs, with line-ups including Adiel, BASHKKA, Benny Benassi and Bill Patrick and 2 more. See dates, start times and who's playing. 200 E Flagler Street Miami, FL 33131.
 
@@ -23,4 +23,4 @@ Jolene Downtown Miami is a music venue in Miami listed on soundcheck. 11 upcomin
 
 200 E Flagler Street Miami, FL 33131, Miami
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/jolene-downtown-miami/)*

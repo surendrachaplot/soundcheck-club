@@ -1,13 +1,14 @@
 # Tara Casey
 
-Tara Casey is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
+Tara Casey is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cyprus Avenue, Cork on Sat, 14 Nov 2026.
 
-Tara Casey is a techno and house artist based in Ireland, with 34 gigs on soundcheck across Belfast, Budapest, Cork and Dublin and 1 more. Often billed alongside Devil May Care, NATMAC and Andrew Cairns. Next up: Akvárium Klub, Budapest on Sat 28 Nov.
+Tara Casey is a techno and house artist based in Ireland, with 35 gigs on soundcheck across Belfast, Budapest, Cork and Dublin and 1 more. Often billed alongside Devil May Care, NATMAC and Andrew Cairns. Next up: Cyprus Avenue, Cork on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Cyprus Avenue | Cork |
 | Sat, 28 Nov 2026 | Akvárium Klub | Budapest |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tara Casey is a techno and house artist based in Ireland, with 34 gigs on soundc
 
 Devil May Care, NATMAC, Andrew Cairns
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taracasey/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taracasey/)*

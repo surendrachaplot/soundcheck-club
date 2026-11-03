@@ -1,14 +1,15 @@
 # SORIANO
 
-SORIANO is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Freedonia, Barcelona on Fri, 13 Nov 2026.
+SORIANO is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Freedonia, Barcelona on Fri, 13 Nov 2026.
 
-SORIANO is a house and italo disco artist based in Spain, with 20 gigs on soundcheck across Bangkok, Barcelona, Frankfurt and Mexico City and 3 more. Often billed alongside Alphanova, Jo Kazan and ALTRAX. Next up: Freedonia, Barcelona on Fri 13 Nov.
+SORIANO is a house and electro artist based in Spain, with 21 gigs on soundcheck across Bangkok, Barcelona, Frankfurt and Mexico City and 3 more. Often billed alongside Alphanova, Jo Kazan and ALTRAX. Next up: Freedonia, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Freedonia | Barcelona |
+| Sat, 28 Nov 2026 | Garage 442 | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SORIANO is a house and italo disco artist based in Spain, with 20 gigs on soundc
 
 Alphanova, Jo Kazan, ALTRAX
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soriano/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soriano/)*

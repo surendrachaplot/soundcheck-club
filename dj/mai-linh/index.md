@@ -1,6 +1,6 @@
 # Maï-Linh
 
-Maï-Linh is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Renate, Berlin on Fri, 6 Nov 2026.
+Maï-Linh is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Renate, Berlin on Fri, 6 Nov 2026.
 
 Maï-Linh is a house and techno artist based in France, with 95 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 20 more. Often billed alongside Soyoon, GTI and Youl. Next up: Renate, Berlin on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Maï-Linh is a house and techno artist based in France, with 95 gigs on soundche
 
 Soyoon, GTI, Youl
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*

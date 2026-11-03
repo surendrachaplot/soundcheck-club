@@ -1,6 +1,6 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Plaza Mayor Medellin, Medellin on Sat, 14 Nov 2026.
+Jeff Mills is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Plaza Mayor Medellin, Medellin on Sat, 14 Nov 2026.
 
 Jeff Mills is a techno and house artist based in United States of America, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 71 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Plaza Mayor Medellin, Medellin on Sat 14 Nov.
 
@@ -33,4 +33,4 @@ Jeff Mills is a techno and house artist based in United States of America, with 
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

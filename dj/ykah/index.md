@@ -1,13 +1,14 @@
 # ykah
 
-ykah is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at West Harlem, Kyoto on Sat, 21 Nov 2026.
+ykah is a Dub and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Metro, Kyoto on Sat, 7 Nov 2026.
 
-ykah is a dub and techno artist based in Japan, with 78 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Mars89, Ryogo and Vís. Next up: West Harlem, Kyoto on Sat 21 Nov.
+ykah is a dub and techno artist based in Japan, with 79 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Mars89, Ryogo and Vís. Next up: Club Metro, Kyoto on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Club Metro | Kyoto |
 | Sat, 21 Nov 2026 | West Harlem | Kyoto |
 
 ## Recently played
@@ -25,4 +26,4 @@ ykah is a dub and techno artist based in Japan, with 78 gigs on soundcheck acros
 
 Mars89, Ryogo, Vís (1)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ykah/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ykah/)*

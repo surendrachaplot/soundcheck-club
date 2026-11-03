@@ -1,8 +1,8 @@
 # adobeprincess
 
-adobeprincess is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
+adobeprincess is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Nowadays, New York City on Sat, 21 Nov 2026.
 
-adobeprincess is a techno and house artist, with 67 gigs on soundcheck across Baltimore, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Jek (US), deep creep and djfix. Next up: Nowadays, New York City on Sat 21 Nov.
+adobeprincess is a techno and house artist based in Canada, with 67 gigs on soundcheck across Baltimore, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Jek (US), deep creep and djfix. Next up: Nowadays, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ adobeprincess is a techno and house artist, with 67 gigs on soundcheck across Ba
 
 Jek (US), deep creep, djfix
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adobeprincess/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adobeprincess/)*

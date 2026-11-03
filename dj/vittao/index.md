@@ -1,6 +1,6 @@
 # VITTAO
 
-VITTAO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 4 Dec 2026.
+VITTAO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Toekomstmuziek, Amsterdam on Fri, 4 Dec 2026.
 
 VITTAO is a house and techno artist based in Brazil, with 14 gigs on soundcheck across Amsterdam and London. Often billed alongside Christoph Cham, LGNA and ilse dorine. Next up: Toekomstmuziek, Amsterdam on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ VITTAO is a house and techno artist based in Brazil, with 14 gigs on soundcheck 
 
 Christoph Cham, LGNA, ilse dorine
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vittao/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vittao/)*

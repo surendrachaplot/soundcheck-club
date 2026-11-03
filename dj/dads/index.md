@@ -1,6 +1,6 @@
 # DADs
 
-DADs is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Little Buildings, Newcastle on Sat, 14 Nov 2026.
+DADs is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Little Buildings, Newcastle on Sat, 14 Nov 2026.
 
 DADs is a bass and breakbeat artist based in United Kingdom, with 19 gigs on soundcheck across London and Newcastle. Often billed alongside Alousea, Aveun and CRWLY. Next up: Little Buildings, Newcastle on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DADs is a bass and breakbeat artist based in United Kingdom, with 19 gigs on sou
 
 Alousea, Aveun, CRWLY
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dads/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dads/)*

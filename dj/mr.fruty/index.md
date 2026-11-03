@@ -1,6 +1,6 @@
 # Mr. Fruty
 
-Mr. Fruty is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at La Gata del Born, Barcelona on Sat, 7 Nov 2026.
+Mr. Fruty is a Tech House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at La Gata del Born, Barcelona on Sat, 7 Nov 2026.
 
 Mr. Fruty is a tech house and afro house artist based in Ukraine, with 4 gigs on soundcheck across Barcelona. Often billed alongside AR7ANIS. Next up: La Gata del Born, Barcelona on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Mr. Fruty is a tech house and afro house artist based in Ukraine, with 4 gigs on
 
 AR7ANIS
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.fruty/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.fruty/)*

@@ -1,6 +1,6 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Dancing Building" on Tue, 3 Nov 2026.
+Aoyama Hachi is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dancing Building" on Tue, 3 Nov 2026.
 
 Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including CKRN303, Daiki, DJ RS and DJ SPOT and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
@@ -23,4 +23,4 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, w
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

@@ -1,6 +1,6 @@
 # Seren 4 Ever
 
-Seren 4 Ever is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at WALL & WALL, Tokyo on Sun, 15 Nov 2026.
+Seren 4 Ever is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at WALL & WALL, Tokyo on Sun, 15 Nov 2026.
 
 Seren 4 Ever is an electronica and house artist, with 7 gigs on soundcheck across London, Manchester, Tokyo and Vienna. Often billed alongside Kekeneko, nuum and 1LDK. Next up: WALL & WALL, Tokyo on Sun 15 Nov.
 
@@ -23,4 +23,4 @@ Seren 4 Ever is an electronica and house artist, with 7 gigs on soundcheck acros
 
 Kekeneko, nuum, 1LDK
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seren4ever/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seren4ever/)*

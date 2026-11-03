@@ -1,6 +1,6 @@
 # SLIME COCA
 
-SLIME COCA is a electronic artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+SLIME COCA is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 SLIME COCA is an electronic artist based in Russia, with 2 gigs on soundcheck across Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ SLIME COCA is an electronic artist based in Russia, with 2 gigs on soundcheck ac
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimecoca/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slimecoca/)*

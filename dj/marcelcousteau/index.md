@@ -1,6 +1,6 @@
 # Marcel Cousteau
 
-Marcel Cousteau is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at objekt klein a, Dresden on Sat, 7 Nov 2026.
+Marcel Cousteau is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at objekt klein a, Dresden on Sat, 7 Nov 2026.
 
 Marcel Cousteau is a techno and drum & bass artist based in Germany, with 3 gigs on soundcheck across Dresden. Often billed alongside resaresa, Adam Vandal and Carotin. Next up: objekt klein a, Dresden on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Marcel Cousteau is a techno and drum & bass artist based in Germany, with 3 gigs
 
 resaresa, Adam Vandal, Carotin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelcousteau/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelcousteau/)*

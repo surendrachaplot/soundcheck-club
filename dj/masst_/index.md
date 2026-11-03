@@ -1,6 +1,6 @@
 # masst_
 
-masst_ is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Le 211, Paris on Sun, 22 Nov 2026.
+masst_ is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Le 211, Paris on Sun, 22 Nov 2026.
 
 masst_ is a techno and dub techno artist based in France, with 8 gigs on soundcheck across Berlin, Brussels and Paris. Often billed alongside BAGGA, Carl Raban and Cuften. Next up: Le 211, Paris on Sun 22 Nov.
 
@@ -24,4 +24,4 @@ masst_ is a techno and dub techno artist based in France, with 8 gigs on soundch
 
 BAGGA, Carl Raban, Cuften
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masst_/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masst_/)*

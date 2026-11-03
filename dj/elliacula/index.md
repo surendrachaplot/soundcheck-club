@@ -1,6 +1,6 @@
 # Elli Acula
 
-Elli Acula is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Pandora Sevilla, South on Fri, 6 Nov 2026.
+Elli Acula is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Pandora Sevilla, South on Fri, 6 Nov 2026.
 
 Elli Acula is a techno and house artist based in Germany, with 252 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 77 more. Often billed alongside FJAAK, DAX J and 999999999. Next up: Pandora Sevilla, South on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Elli Acula is a techno and house artist based in Germany, with 252 gigs on sound
 
 FJAAK, DAX J, 999999999
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliacula/)*

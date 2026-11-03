@@ -1,6 +1,6 @@
 # Meltem Yazar
 
-Meltem Yazar is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 30 Jan 2027.
+Meltem Yazar is a Acid and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 30 Jan 2027.
 
 Meltem Yazar is an acid and electro artist based in Turkey, with 17 gigs on soundcheck across Berlin, Cologne, London and Rotterdam. Often billed alongside Madelic, AKWA and Redfreya. Next up: Vittoria Wharf Studio, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Meltem Yazar is an acid and electro artist based in Turkey, with 17 gigs on soun
 
 Madelic, AKWA, Redfreya
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltemyazar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltemyazar/)*

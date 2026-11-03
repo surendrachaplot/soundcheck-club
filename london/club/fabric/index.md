@@ -1,6 +1,6 @@
 # fabric
 
-fabric is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Loukeman" on Thu, 5 Nov 2026.
+fabric is a music venue in London with 25 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Loukeman" on Thu, 5 Nov 2026.
 
 fabric is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including 2 Bad Mice, Adam Clark, Alexis Raphael and ALIBI and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
@@ -23,4 +23,4 @@ fabric is a music venue in London listed on soundcheck. 25 upcoming gigs, with l
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

@@ -1,6 +1,6 @@
 # Bmberjck
 
-Bmberjck is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at O2 Academy, Glasgow on Fri, 29 Jan 2027.
+Bmberjck is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at O2 Academy, Glasgow on Fri, 29 Jan 2027.
 
 Bmberjck is a techno and psytrance artist, with 6 gigs on soundcheck across Amsterdam, Antwerp, Cologne and Glasgow and 1 more. Often billed alongside Revelation, Faceless and Sickmode. Next up: O2 Academy, Glasgow on Fri 29 Jan.
 
@@ -22,4 +22,4 @@ Bmberjck is a techno and psytrance artist, with 6 gigs on soundcheck across Amst
 
 Revelation, Faceless, Sickmode
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bmberjck/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bmberjck/)*

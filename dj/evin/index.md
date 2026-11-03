@@ -1,14 +1,14 @@
 # evin
 
-evin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Berlin on Fri, 20 Nov 2026.
+evin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Venue, Berlin on Fri, 20 Nov 2026.
 
-evin is a techno and house artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 17 more. Often billed alongside ferrari rot, MALUGI and Marlon Hoffstadt. Next up: TBA, Berlin on Fri 20 Nov.
+evin is a techno and house artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 17 more. Often billed alongside ferrari rot, MALUGI and Marlon Hoffstadt. Next up: TBA - Secret Venue, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 20 Nov 2026 | TBA | Berlin |
+| Fri, 20 Nov 2026 | TBA - Secret Venue | Berlin |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played
@@ -26,4 +26,4 @@ evin is a techno and house artist based in Germany, with 84 gigs on soundcheck a
 
 ferrari rot, MALUGI, Marlon Hoffstadt
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evin/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evin/)*

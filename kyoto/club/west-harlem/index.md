@@ -1,14 +1,13 @@
 # West Harlem
 
-West Harlem is a music venue in Kyoto with 14 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Monday Vibes -West Harlem 13tn anniversary special-" on Mon, 2 Nov 2026.
+West Harlem is a music venue in Kyoto with 15 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Nav" on Wed, 4 Nov 2026.
 
-West Harlem is a music venue in Kyoto listed on soundcheck. 14 upcoming gigs, with line-ups including Abiu, AOKI takamasa, BIG MATSUMURA and CITY1 and 2 more. See dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
+West Harlem is a music venue in Kyoto listed on soundcheck. 15 upcoming gigs, with line-ups including Abiu, Akie, AOKI takamasa and BIG MATSUMURA and 2 more. See dates, start times and who's playing. Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Monday Vibes -West Harlem 13tn anniversary special- | EUREKA, Masaki Morii, Matthias Abe, SOTA |
 | Wed, 4 Nov 2026 | Nav | Ryogo |
 | Thu, 5 Nov 2026 | Anvai | DJ Master Kohta, Mannuma |
 | Fri, 6 Nov 2026 | 15 Years of Darker Than Wax | Daryl Knows, Dexter Colt, Kross Section, Marco Weibel |
@@ -18,9 +17,10 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 14 Nov 2026 | ココロとカラダ　- West Harlem 13th Anniversary- | Abiu, COLA REN, Torei |
 | Sat, 14 Nov 2026 | ココロとカラダ- West Harlem 13th Anniversary |  |
 | Sun, 15 Nov 2026 | COIL 2nd ANNIV. PARTY | AOKI takamasa, JUN INAGAWA, KOTSU, Vís (1), innertraffic, kafuka, rimi |
+| Fri, 20 Nov 2026 | PONPON | droove, kitapon, m-int, nap(JP), sak (4) |
 
 ## Address
 
 Wisteria Coat 2F, 123-1 Ishiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, Japan 6048002, Kyoto
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/west-harlem/)*

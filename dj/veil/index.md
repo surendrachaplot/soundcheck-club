@@ -1,6 +1,6 @@
 # Veil
 
-Veil is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Algha's Plantroom, London on Sun, 29 Nov 2026.
+Veil is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Algha's Plantroom, London on Sun, 29 Nov 2026.
 
 Veil is a techno and ambient artist based in Kuwait, with 5 gigs on soundcheck across London. Often billed alongside S3BA, 3MR. and Anahita Shamsaei. Next up: Algha's Plantroom, London on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ Veil is a techno and ambient artist based in Kuwait, with 5 gigs on soundcheck a
 
 S3BA, 3MR., Anahita Shamsaei
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veil/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veil/)*

@@ -1,6 +1,6 @@
 # blancat
 
-blancat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+blancat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 blancat is a techno and house artist, with 38 gigs on soundcheck across Bangkok, Berlin, Seoul and South Korea and 2 more. Often billed alongside Minji, Bagagee Viphex13 and Better. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ blancat is a techno and house artist, with 38 gigs on soundcheck across Bangkok,
 
 Minji, Bagagee Viphex13, Better
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blancat/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blancat/)*

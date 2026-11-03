@@ -1,14 +1,13 @@
 # Cinetol
 
-Cinetol is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "MGNA Crrrta" on Mon, 2 Nov 2026.
+Cinetol is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Loveth Besamoh + I Love You Honey Bunny" on Sun, 8 Nov 2026.
 
-Cinetol is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Lynnic. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
+Cinetol is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Lynnic. See dates, start times and who's playing. Tolstraat 182, 1074VM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | MGNA Crrrta |  |
 | Sun, 8 Nov 2026 | Loveth Besamoh + I Love You Honey Bunny |  |
 | Mon, 9 Nov 2026 | Dagmar Zuniga |  |
 | Mon, 16 Nov 2026 | Lynnic & ITSARIUS (extra show) | Lynnic |
@@ -22,4 +21,4 @@ Cinetol is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, wit
 
 Tolstraat 182, 1074VM Amsterdam, Amsterdam
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/cinetol/)*

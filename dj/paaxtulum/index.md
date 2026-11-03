@@ -1,6 +1,6 @@
 # PAAX Tulum
 
-PAAX Tulum is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
+PAAX Tulum is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
 
 PAAX Tulum is an afro house and house artist based in Mexico, with 16 gigs on soundcheck across Barcelona, Buenos Aires, Dubai and Ibiza and 5 more. Often billed alongside Noncitizens, Valentin Huedo and ANNA. Next up: LA Coralina Island House OF AD Sidera, Panama on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ PAAX Tulum is an afro house and house artist based in Mexico, with 16 gigs on so
 
 Noncitizens, Valentin Huedo, ANNA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paaxtulum/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paaxtulum/)*

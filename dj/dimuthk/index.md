@@ -1,6 +1,6 @@
 # Dimuth K
 
-Dimuth K is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Rock Noosa, Queensland on Sat, 7 Nov 2026.
+Dimuth K is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Rock Noosa, Queensland on Sat, 7 Nov 2026.
 
 Dimuth K is a progressive house and deep house artist, with 26 gigs on soundcheck across Adelaide, Amsterdam, London and Melbourne and 4 more. Often billed alongside Simply City, Kabi and DJ Ruby. Next up: The Rock Noosa, Queensland on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Dimuth K is a progressive house and deep house artist, with 26 gigs on soundchec
 
 Simply City, Kabi, DJ Ruby
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dimuthk/)*

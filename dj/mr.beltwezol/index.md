@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol
 
-Mr. Belt & Wezol is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 6 Nov 2026.
+Mr. Belt & Wezol is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 6 Nov 2026.
 
 Mr. Belt & Wezol are a house and disco duo based in Netherlands, with 55 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 16 more. Often billed alongside Karim Soliman, RUZE and Ammé. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Mr. Belt & Wezol are a house and disco duo based in Netherlands, with 55 gigs on
 
 Karim Soliman, RUZE, Ammé
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.beltwezol/)*

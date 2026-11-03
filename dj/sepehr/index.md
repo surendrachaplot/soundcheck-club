@@ -1,6 +1,6 @@
 # Sepehr
 
-Sepehr is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Loft, Manchester on Fri, 6 Nov 2026.
+Sepehr is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Loft, Manchester on Fri, 6 Nov 2026.
 
 Sepehr is a techno and house artist based in United States of America, with 144 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 41 more. Often billed alongside Objekt, Aurora Halal and Elena Colombi. Next up: The Loft, Manchester on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Sepehr is a techno and house artist based in United States of America, with 144 
 
 Objekt, Aurora Halal, Elena Colombi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sepehr/)*

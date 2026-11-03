@@ -1,6 +1,6 @@
 # Chiaro
 
-Chiaro is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
+Chiaro is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Sydney on Wed, 30 Dec 2026.
 
 Chiaro is a psytrance and techno artist, with 3 gigs on soundcheck across Buenos Aires and Sydney. Often billed alongside Synestrix, $CRAIC and Cossmos. Next up: TBA, Sydney on Wed 30 Dec.
 
@@ -19,4 +19,4 @@ Chiaro is a psytrance and techno artist, with 3 gigs on soundcheck across Buenos
 
 Synestrix, $CRAIC, Cossmos
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chiaro/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chiaro/)*

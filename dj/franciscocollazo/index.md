@@ -1,6 +1,6 @@
 # Francisco Collazo
 
-Francisco Collazo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bastet, Philadelphia on Sat, 7 Nov 2026.
+Francisco Collazo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bastet, Philadelphia on Sat, 7 Nov 2026.
 
 Francisco Collazo is a house and techno artist based in United States of America, with 71 gigs on soundcheck across Miami, Philadelphia and Washington DC. Often billed alongside Rob Paine, Bridget B and DJ Xtina. Next up: Bastet, Philadelphia on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Francisco Collazo is a house and techno artist based in United States of America
 
 Rob Paine, Bridget B, DJ Xtina
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscocollazo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franciscocollazo/)*

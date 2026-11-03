@@ -1,6 +1,6 @@
 # Tngari
 
-Tngari is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Débris, Tokyo on Sat, 7 Nov 2026.
+Tngari is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Débris, Tokyo on Sat, 7 Nov 2026.
 
 Tngari is a techno and house artist based in Japan, with 12 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Russian Blue and MOTOKA. Next up: Débris, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tngari is a techno and house artist based in Japan, with 12 gigs on soundcheck a
 
 SIGNAL (JP), Russian Blue, MOTOKA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tngari/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tngari/)*

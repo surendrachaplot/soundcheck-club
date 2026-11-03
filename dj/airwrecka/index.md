@@ -1,6 +1,6 @@
 # Airwrecka
 
-Airwrecka is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 7 Nov 2026.
+Airwrecka is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Bongo Club, Edinburgh on Sat, 7 Nov 2026.
 
 Airwrecka is a disco and house artist based in United Kingdom, with 2 gigs on soundcheck across Edinburgh. Often billed alongside DJ Gregory, Hobbes and Nikki Guild. Next up: The Bongo Club, Edinburgh on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ Airwrecka is a disco and house artist based in United Kingdom, with 2 gigs on so
 
 DJ Gregory, Hobbes, Nikki Guild
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airwrecka/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/airwrecka/)*

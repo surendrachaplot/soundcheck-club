@@ -1,6 +1,6 @@
 # Mimi Love
 
-Mimi Love is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lion's Den, Miami on Fri, 6 Nov 2026.
+Mimi Love is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lion's Den, Miami on Fri, 6 Nov 2026.
 
 Mimi Love is a house and deep house artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cape Town and 21 more. Often billed alongside Franca, Britta Arnold and Sven Dohse. Next up: Lion's Den, Miami on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mimi Love is a house and deep house artist based in Germany, with 105 gigs on so
 
 Franca, Britta Arnold, Sven Dohse
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mimilove/)*

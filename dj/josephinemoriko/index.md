@@ -1,6 +1,6 @@
 # Josephine Moriko
 
-Josephine Moriko is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
+Josephine Moriko is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Fylkingen, Stockholm on Fri, 27 Nov 2026.
 
 Josephine Moriko is an experimental and club artist based in Sweden, with 16 gigs on soundcheck across Copenhagen, Gothenburg, London and Stockholm. Often billed alongside Lokey, Loopline and sean pain. Next up: Fylkingen, Stockholm on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Josephine Moriko is an experimental and club artist based in Sweden, with 16 gig
 
 Lokey, Loopline, sean pain
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinemoriko/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josephinemoriko/)*

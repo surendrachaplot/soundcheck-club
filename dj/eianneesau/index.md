@@ -1,6 +1,6 @@
 # eianne esau
 
-eianne esau is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at H0L0, New York City on Thu, 5 Nov 2026.
+eianne esau is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at H0L0, New York City on Thu, 5 Nov 2026.
 
 eianne esau is a techno and breakbeat artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Fredo, @nimal and ASTER (DJ). Next up: H0L0, New York City on Thu 5 Nov.
 
@@ -21,4 +21,4 @@ eianne esau is a techno and breakbeat artist based in United States of America, 
 
 Fredo, @nimal, ASTER (DJ)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eianneesau/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eianneesau/)*

@@ -1,6 +1,6 @@
 # Karras Martínez
 
-Karras Martínez is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lalín Arena, North on Sat, 5 Dec 2026.
+Karras Martínez is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lalín Arena, North on Sat, 5 Dec 2026.
 
 Karras Martínez is an electronic artist, with 3 gigs on soundcheck across Madrid and North. Often billed alongside Cristian Varela, Marco Bailey and Michael Sanchez. Next up: Lalín Arena, North on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Karras Martínez is an electronic artist, with 3 gigs on soundcheck across Madri
 
 Cristian Varela, Marco Bailey, Michael Sanchez
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karrasmartinez/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karrasmartinez/)*

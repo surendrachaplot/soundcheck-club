@@ -1,6 +1,6 @@
 # Moostik
 
-Moostik is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Le Cirque Electrique, Paris on Sat, 28 Nov 2026.
+Moostik is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Le Cirque Electrique, Paris on Sat, 28 Nov 2026.
 
 Moostik is a techno and acid artist based in France, with 5 gigs on soundcheck across Central, Cologne and Paris. Often billed alongside Bolster, Djé Djé from the block and Lady Vusumzi. Next up: Le Cirque Electrique, Paris on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Moostik is a techno and acid artist based in France, with 5 gigs on soundcheck a
 
 Bolster, Djé Djé from the block, Lady Vusumzi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moostik/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moostik/)*

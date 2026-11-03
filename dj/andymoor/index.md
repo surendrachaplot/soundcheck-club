@@ -1,6 +1,6 @@
 # Andy Moor
 
-Andy Moor is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Grand Central Hall, Liverpool on Sat, 7 Nov 2026.
+Andy Moor is a Trance and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Grand Central Hall, Liverpool on Sat, 7 Nov 2026.
 
 Andy Moor is a trance and progressive house artist based in United Kingdom, with 14 gigs on soundcheck across Budapest, Denver, Liverpool and London and 9 more. Often billed alongside Billy Gillies, Amy Wiles and Lange. Next up: Grand Central Hall, Liverpool on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Andy Moor is a trance and progressive house artist based in United Kingdom, with
 
 Billy Gillies, Amy Wiles, Lange
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymoor/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymoor/)*

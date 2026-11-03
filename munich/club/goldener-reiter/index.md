@@ -1,6 +1,6 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Clubfloor with BURY2K, Lavandonia, Jonas Gottlieb" on Fri, 6 Nov 2026.
+Goldener Reiter is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Clubfloor with BURY2K, Lavandonia, Jonas Gottlieb" on Fri, 6 Nov 2026.
 
 Goldener Reiter is a music venue in Munich listed on soundcheck. 9 upcoming gigs, with line-ups including André Dancekowski, Arninho, BURY2K and CHUBBS and 2 more. See dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
@@ -22,4 +22,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 9 upcoming gigs
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

@@ -1,6 +1,6 @@
 # Antonio Memoli
 
-Antonio Memoli is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Basic Club, Naples on Sat, 14 Nov 2026.
+Antonio Memoli is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Basic Club, Naples on Sat, 14 Nov 2026.
 
 Antonio Memoli is a house and electronica artist, with 3 gigs on soundcheck across Naples. Often billed alongside Antonio Grassia, Hotswing and Marco Tuccillo. Next up: Basic Club, Naples on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Antonio Memoli is a house and electronica artist, with 3 gigs on soundcheck acro
 
 Antonio Grassia, Hotswing, Marco Tuccillo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniomemoli/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniomemoli/)*

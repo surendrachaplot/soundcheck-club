@@ -1,6 +1,6 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 18 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Goat (JP), Arsenal Mikebe (ug) - Stubnitz presents: Exit Elbbrücken" on Tue, 3 Nov 2026.
+MS Stubnitz is a music venue in Hamburg with 18 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Goat (JP), Arsenal Mikebe (ug) - Stubnitz presents: Exit Elbbrücken" on Tue, 3 Nov 2026.
 
 MS Stubnitz is a music venue in Hamburg listed on soundcheck. 18 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Arsenal Mikebe and Bandulera and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
@@ -23,4 +23,4 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 18 upcoming gigs, 
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

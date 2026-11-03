@@ -1,6 +1,6 @@
 # Gohtobi
 
-Gohtobi is a Techno and Reggaeton artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 5 Nov 2026.
+Gohtobi is a Techno and Reggaeton artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 5 Nov 2026.
 
 Gohtobi is a techno and reggaeton artist based in Mexico, with 17 gigs on soundcheck across Estado De M Xico, Guadalajara, Mexico City and Osaka. Often billed alongside Cabe, Ramiel II and Coca1ne Cowboy. Next up: nueve cero nueve, Mexico City on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Gohtobi is a techno and reggaeton artist based in Mexico, with 17 gigs on soundc
 
 Cabe, Ramiel II, Coca1ne Cowboy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gohtobi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gohtobi/)*

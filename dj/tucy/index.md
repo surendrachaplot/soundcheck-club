@@ -1,6 +1,6 @@
 # Tucy
 
-Tucy is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Vancouver on Fri, 13 Nov 2026.
+Tucy is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Vancouver on Fri, 13 Nov 2026.
 
 Tucy is a techno and experimental artist based in Canada, with 3 gigs on soundcheck across Vancouver. Often billed alongside DR BPM, BINKY and IHA (CA). Next up: TBA, Vancouver on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Tucy is a techno and experimental artist based in Canada, with 3 gigs on soundch
 
 DR BPM, BINKY, IHA (CA)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tucy/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tucy/)*

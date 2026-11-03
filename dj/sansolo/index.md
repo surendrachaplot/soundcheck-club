@@ -1,6 +1,6 @@
 # San Solo
 
-San Solo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Track, Beijing on Fri, 6 Nov 2026.
+San Solo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Track, Beijing on Fri, 6 Nov 2026.
 
 San Solo is a techno and house artist based in Portugal, with 5 gigs on soundcheck across Beijing and Lisbon. Often billed alongside Crowd Control, Kai.F and Nigls. Next up: Track, Beijing on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ San Solo is a techno and house artist based in Portugal, with 5 gigs on soundche
 
 Crowd Control, Kai.F, Nigls
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sansolo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sansolo/)*

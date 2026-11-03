@@ -1,6 +1,6 @@
 # DJNIEMUSIAŁ
 
-DJNIEMUSIAŁ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 6 Nov 2026.
+DJNIEMUSIAŁ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 6 Nov 2026.
 
 DJNIEMUSIAŁ is a techno and house artist based in Poland, with 37 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and TYMEGG. Next up: MONKEY LOVE, Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJNIEMUSIAŁ is a techno and house artist based in Poland, with 37 gigs on sound
 
 Abrew, dj.zamocno, TYMEGG
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djniemusial/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djniemusial/)*

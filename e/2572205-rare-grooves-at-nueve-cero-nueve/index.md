@@ -1,6 +1,6 @@
 # Rare Grooves at nueve cero nueve
 
-Rare Grooves at nueve cero nueve on Fri 6 Nov, Mexico City. 1 artist: Love Language (CDMX). See the line-up on soundcheck.
+Rare Grooves at nueve cero nueve on Fri 6 Nov, Mexico City. 2 artists: Love Language (CDMX) and Sean.Toja. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Rare Grooves at nueve cero nueve on Fri 6 Nov, Mexico City. 1 artist: Love Langu
 ## Line-up
 
 - Love Language (CDMX)
+- Sean.Toja
 
 *Source: [soundcheck](https://soundcheck.club/e/2572205-rare-grooves-at-nueve-cero-nueve/)*

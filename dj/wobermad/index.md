@@ -1,6 +1,6 @@
 # WOBERMAD
 
-WOBERMAD is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Macarena Club, Barcelona on Fri, 20 Nov 2026.
+WOBERMAD is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Macarena Club, Barcelona on Fri, 20 Nov 2026.
 
 WOBERMAD is an electronic artist, with 4 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside Kameron Austin, L III V and Lady Vanilla. Next up: Macarena Club, Barcelona on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ WOBERMAD is an electronic artist, with 4 gigs on soundcheck across Barcelona, Ib
 
 Kameron Austin, L III V, Lady Vanilla
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wobermad/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wobermad/)*

@@ -1,6 +1,6 @@
 # Kalina
 
-Kalina is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 19 Nov 2026.
+Kalina is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 19 Nov 2026.
 
 Kalina is an italo disco and disco artist based in Slovenia, with 6 gigs on soundcheck across Ljubljana and Milan. Often billed alongside DASH (SLO), Steeevie and DEN7EL. Next up: Tempio del Futuro Perduto, Milan on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ Kalina is an italo disco and disco artist based in Slovenia, with 6 gigs on soun
 
 DASH (SLO), Steeevie, DEN7EL
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalina/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kalina/)*

@@ -1,6 +1,6 @@
 # MELTA
 
-MELTA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Nevermind Bar, Melbourne on Sat, 7 Nov 2026.
+MELTA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Nevermind Bar, Melbourne on Sat, 7 Nov 2026.
 
 MELTA is a drum & bass and jungle artist, with 38 gigs on soundcheck across Melbourne. Often billed alongside Stackpackers, SK4NK and safire. Next up: Nevermind Bar, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MELTA is a drum & bass and jungle artist, with 38 gigs on soundcheck across Melb
 
 Stackpackers, SK4NK, safire
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melta/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melta/)*

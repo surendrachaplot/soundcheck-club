@@ -1,6 +1,6 @@
 # The Leith Depot
 
-The Leith Depot is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Box Energy // Lord Of The Isles LIVE // DRUMA DJs" on Fri, 20 Nov 2026.
+The Leith Depot is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Box Energy // Lord Of The Isles LIVE // DRUMA DJs" on Fri, 20 Nov 2026.
 
 The Leith Depot is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including DRUMA and Lord Of The Isles. See dates, start times and who's playing. 138-140 Leith Walk, Midlothian, Edinburgh, EH6 5DT, United Kingdom.
 
@@ -14,4 +14,4 @@ The Leith Depot is a music venue in Edinburgh listed on soundcheck. 1 upcoming g
 
 138-140 Leith Walk, Midlothian, Edinburgh, EH6 5DT, United Kingdom, Edinburgh
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-leith-depot/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-leith-depot/)*

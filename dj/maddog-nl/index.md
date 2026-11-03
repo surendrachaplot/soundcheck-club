@@ -1,6 +1,6 @@
 # Mad Dog
 
-Mad Dog is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
+Mad Dog is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Zenith - Die Kulturhalle, Munich on Fri, 4 Dec 2026.
 
 Mad Dog is a techno and hardcore artist based in Italy, with 71 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Angerfist, DYEN and Korsakoff. Next up: Zenith - Die Kulturhalle, Munich on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ Mad Dog is a techno and hardcore artist based in Italy, with 71 gigs on soundche
 
 Angerfist, DYEN, Korsakoff
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddog-nl/)*

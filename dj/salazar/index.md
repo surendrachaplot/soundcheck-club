@@ -1,6 +1,6 @@
 # Salazar
 
-Salazar is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Jolene, Copenhagen on Thu, 5 Nov 2026.
+Salazar is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jolene, Copenhagen on Thu, 5 Nov 2026.
 
 Salazar is a house and minimal artist based in Mexico, with 3 gigs on soundcheck across Copenhagen and Mexico City. Often billed alongside Shulz, Crisco and Harfush. Next up: Jolene, Copenhagen on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ Salazar is a house and minimal artist based in Mexico, with 3 gigs on soundcheck
 
 Shulz, Crisco, Harfush
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salazar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salazar/)*

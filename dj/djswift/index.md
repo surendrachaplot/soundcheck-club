@@ -1,6 +1,6 @@
 # DJ Swift
 
-DJ Swift is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Rave Lounge, London on Sat, 14 Nov 2026.
+DJ Swift is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Rave Lounge, London on Sat, 14 Nov 2026.
 
 DJ Swift is a house and tech house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Arthur Keen, Dj Timo and JA (UK). Next up: Rave Lounge, London on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ DJ Swift is a house and tech house artist based in United Kingdom, with 3 gigs o
 
 Arthur Keen, Dj Timo, JA (UK)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswift/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djswift/)*

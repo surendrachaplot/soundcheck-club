@@ -1,6 +1,6 @@
 # Tanel Mütt
 
-Tanel Mütt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Hall, Tallinn on Fri, 6 Nov 2026.
+Tanel Mütt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hall, Tallinn on Fri, 6 Nov 2026.
 
 Tanel Mütt is a techno and house artist based in Estonia, with 52 gigs on soundcheck across Berlin, Helsinki, Tallinn and The Hague. Often billed alongside Arto, Pavliuk and klmn. Next up: Hall, Tallinn on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tanel Mütt is a techno and house artist based in Estonia, with 52 gigs on sound
 
 Arto, Pavliuk, klmn
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanelmutt/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanelmutt/)*

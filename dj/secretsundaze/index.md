@@ -1,14 +1,13 @@
 # Secretsundaze
 
-Secretsundaze is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
+Secretsundaze is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cadavra, Madrid on Sat, 14 Nov 2026.
 
-Secretsundaze is a house and techno artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: OneSixOne, Melbourne on Sun 1 Nov.
+Secretsundaze is a house and techno artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 26 more. Often billed alongside Ariane V, Certain People and Manuel Darquart. Next up: Cadavra, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | OneSixOne | Melbourne |
 | Sat, 14 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -26,4 +25,4 @@ Secretsundaze is a house and techno artist based in United Kingdom, with 94 gigs
 
 Ariane V, Certain People, Manuel Darquart
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secretsundaze/)*

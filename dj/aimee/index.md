@@ -1,6 +1,6 @@
 # Aimee
 
-Aimee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at El Carajo, Colombia on Sat, 28 Nov 2026.
+Aimee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at El Carajo, Colombia on Sat, 28 Nov 2026.
 
 Aimee is a house and techno artist, with 8 gigs on soundcheck across Bogotá and Colombia. Often billed alongside Alejandra Rosales, AMÉMÉ and Abstract Division. Next up: El Carajo, Colombia on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Aimee is a house and techno artist, with 8 gigs on soundcheck across Bogotá and
 
 Alejandra Rosales, AMÉMÉ, Abstract Division
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aimee/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aimee/)*

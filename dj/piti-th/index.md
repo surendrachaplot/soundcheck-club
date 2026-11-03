@@ -1,6 +1,6 @@
 # Piti (TH)
 
-Piti (TH) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
+Piti (TH) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
 
 Piti (TH) is a house and tech house artist, with 3 gigs on soundcheck across Bangkok and Thailand. Often billed alongside ARNON, JR and Wildealer. Next up: TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Piti (TH) is a house and tech house artist, with 3 gigs on soundcheck across Ban
 
 ARNON, JR (3), Wildealer
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piti-th/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piti-th/)*

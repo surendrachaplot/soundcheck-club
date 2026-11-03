@@ -1,6 +1,6 @@
 # Kyper
 
-Kyper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Modeci, Seoul on Fri, 6 Nov 2026.
+Kyper is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Modeci, Seoul on Fri, 6 Nov 2026.
 
 Kyper is a house and techno artist based in South Korea, with 106 gigs on soundcheck across Hanoi, Seoul and Tokyo. Often billed alongside Hyerang, Boyoon and Juncheol. Next up: Modeci, Seoul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kyper is a house and techno artist based in South Korea, with 106 gigs on soundc
 
 Hyerang, Boyoon, Juncheol
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyper/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyper/)*

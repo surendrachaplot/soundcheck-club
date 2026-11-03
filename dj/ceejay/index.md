@@ -1,6 +1,6 @@
 # CeeJay
 
-CeeJay is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+CeeJay is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 CeeJay is a techno and hardcore artist based in United Kingdom, with 25 gigs on soundcheck across Antwerp, Budapest, Dublin and Florence and 10 more. Often billed alongside Detective Kelly, FUMI and Vieze Asbak. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ CeeJay is a techno and hardcore artist based in United Kingdom, with 25 gigs on 
 
 Detective Kelly, FUMI, Vieze Asbak
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceejay/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceejay/)*

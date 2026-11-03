@@ -1,6 +1,6 @@
 # Warehouse on Watts
 
-Warehouse on Watts is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Book of Bass: Chapter 7 ft. Bommer" on Fri, 6 Nov 2026.
+Warehouse on Watts is a music venue in Philadelphia with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Book of Bass: Chapter 7 ft. Bommer" on Fri, 6 Nov 2026.
 
 Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 8 upcoming gigs, with line-ups including Barbara Tucker, De León, FAME LUST and Foxy Nora and 2 more. See dates, start times and who's playing. 923-29 N. Watts St. Philadelphia, PA 19123.
 
@@ -21,4 +21,4 @@ Warehouse on Watts is a music venue in Philadelphia listed on soundcheck. 8 upco
 
 923-29 N. Watts St. Philadelphia, PA 19123, Philadelphia
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/warehouse-on-watts/)*

@@ -1,6 +1,6 @@
 # Meg Ward
 
-Meg Ward is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Divine, London on Fri, 6 Nov 2026.
+Meg Ward is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Divine, London on Fri, 6 Nov 2026.
 
 Meg Ward is a house and techno artist based in United Kingdom, with 57 gigs on soundcheck across Brighton, Bristol, Edinburgh and Ibiza and 5 more. Often billed alongside Harry Gay, Jess Hands and Junior Simba. Next up: The Divine, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Meg Ward is a house and techno artist based in United Kingdom, with 57 gigs on s
 
 Harry Gay, Jess Hands, Junior Simba
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/megward/)*

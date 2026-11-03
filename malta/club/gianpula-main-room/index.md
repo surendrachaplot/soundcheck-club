@@ -1,6 +1,6 @@
 # Gianpula Main Room
 
-Gianpula Main Room is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Glitch Club Series: Kobosil" on Fri, 13 Nov 2026.
+Gianpula Main Room is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Glitch Club Series: Kobosil" on Fri, 13 Nov 2026.
 
 Gianpula Main Room is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including INVERTED (MT), Kobosil, PEACHY and Reactant. See dates, start times and who's playing. Gianpula Village, Gianpula Road, Rabat, MALTA.
 
@@ -14,4 +14,4 @@ Gianpula Main Room is a music venue in Malta listed on soundcheck. 1 upcoming gi
 
 Gianpula Village, Gianpula Road, Rabat, MALTA, Malta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-main-room/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/gianpula-main-room/)*

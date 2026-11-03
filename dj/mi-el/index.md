@@ -1,6 +1,6 @@
 # mi-el
 
-mi-el is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Uus Laine, Tallinn on Fri, 6 Nov 2026.
+mi-el is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Uus Laine, Tallinn on Fri, 6 Nov 2026.
 
 mi-el is a bass and techno artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Batu, Bitter Babe and re:ni. Next up: Uus Laine, Tallinn on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ mi-el is a bass and techno artist based in United Kingdom, with 115 gigs on soun
 
 Batu, Bitter Babe, re:ni
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mi-el/)*

@@ -1,6 +1,6 @@
 # Señor Pelota
 
-Señor Pelota is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at 5A, Lisbon on Thu, 5 Nov 2026.
+Señor Pelota is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at 5A, Lisbon on Thu, 5 Nov 2026.
 
 Señor Pelota is a house and disco artist based in Portugal, with 31 gigs on soundcheck across Lisbon and Miami. Often billed alongside Helena Guedes, Jeremy Underground and Ohxalá. Next up: 5A, Lisbon on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Señor Pelota is a house and disco artist based in Portugal, with 31 gigs on sou
 
 Helena Guedes, Jeremy Underground, Ohxalá
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senorpelota/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senorpelota/)*

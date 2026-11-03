@@ -1,6 +1,6 @@
 # Luca Ruiz
 
-Luca Ruiz is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
+Luca Ruiz is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
 
 Luca Ruiz is a minimal and house artist based in France, with 9 gigs on soundcheck across Barcelona, Dublin, Geneva and Glasgow and 4 more. Often billed alongside D Jaguar, Thomas Schmitt and Bibi Seck. Next up: Cadavra, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Luca Ruiz is a minimal and house artist based in France, with 9 gigs on soundche
 
 D Jaguar, Thomas Schmitt, Bibi Seck
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaruiz/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaruiz/)*

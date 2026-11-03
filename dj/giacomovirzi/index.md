@@ -1,6 +1,6 @@
 # Giacomo Virzì
 
-Giacomo Virzì is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at I Candelai, Sicily on Sun, 19 Mar 2028.
+Giacomo Virzì is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at I Candelai, Sicily on Sun, 19 Mar 2028.
 
 Giacomo Virzì is an italo disco and disco artist based in Germany, with 3 gigs on soundcheck across Berlin and Sicily. Often billed alongside Coolrnch, Cosmic Cherry and Daniel Monaco. Next up: I Candelai, Sicily on Sun 19 Mar.
 
@@ -19,4 +19,4 @@ Giacomo Virzì is an italo disco and disco artist based in Germany, with 3 gigs 
 
 Coolrnch, Cosmic Cherry, Daniel Monaco
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomovirzi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giacomovirzi/)*

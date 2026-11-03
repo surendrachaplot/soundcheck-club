@@ -1,6 +1,6 @@
 # Amulador
 
-Amulador is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 14 Nov 2026.
+Amulador is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 14 Nov 2026.
 
 Amulador is a techno and electronica artist based in Portugal, with 211 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside Andre Cascais, Maria Callapez and Tiago Fragateiro. Next up: Collect LX Factory, Lisbon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Amulador is a techno and electronica artist based in Portugal, with 211 gigs on 
 
 Andre Cascais, Maria Callapez, Tiago Fragateiro
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amulador/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amulador/)*

@@ -1,6 +1,6 @@
 # ButhoTheWarrior
 
-ButhoTheWarrior is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at People's Leisure Club, Edinburgh on Sun, 22 Nov 2026.
+ButhoTheWarrior is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at People's Leisure Club, Edinburgh on Sun, 22 Nov 2026.
 
 ButhoTheWarrior is a house and disco artist based in United Kingdom, with 68 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London. Often billed alongside Optimistic Soul, ELANDA and Harri & Domenic. Next up: People's Leisure Club, Edinburgh on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ ButhoTheWarrior is a house and disco artist based in United Kingdom, with 68 gig
 
 Optimistic Soul, ELANDA, Harri & Domenic
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buthothewarrior/)*

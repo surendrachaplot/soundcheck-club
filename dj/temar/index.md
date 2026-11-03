@@ -1,6 +1,6 @@
 # Temar
 
-Temar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 21 Nov 2026.
+Temar is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 21 Nov 2026.
 
 Temar is a techno and house artist based in Ukraine, with 7 gigs on soundcheck across Bucharest. Often billed alongside Alice Caroline, Arnic and DJ Troy. Next up: Platforma Wolff, Bucharest on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Temar is a techno and house artist based in Ukraine, with 7 gigs on soundcheck a
 
 Alice Caroline, Arnic, DJ Troy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/temar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/temar/)*

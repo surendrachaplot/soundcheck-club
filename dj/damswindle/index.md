@@ -1,6 +1,6 @@
 # Dam Swindle
 
-Dam Swindle is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Armazem Solon, Sao Paulo on Sat, 28 Nov 2026.
+Dam Swindle is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Armazem Solon, Sao Paulo on Sat, 28 Nov 2026.
 
 Dam Swindle is a house and disco artist based in Netherlands, with 200 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 50 more. Often billed alongside D Stone, BELLA (NL) and Cinthie. Next up: Armazem Solon, Sao Paulo on Sat 28 Nov.
 
@@ -15,17 +15,17 @@ Dam Swindle is a house and disco artist based in Netherlands, with 200 gigs on s
 
 ## Recently played
 
+- The Night Cat, Melbourne · Mon, 2 Nov 2026
 - The Prince Consort, Brisbane · Sun, 1 Nov 2026
 - Freo.Social, Perth · Sat, 31 Oct 2026
 - Oxford Art Factory, Sydney · Fri, 30 Oct 2026
 - Db55, Amsterdam · Sun, 25 Oct 2026
 - WestWeelde, Amsterdam · Thu, 22 Oct 2026
-- NT's Loft, London · Fri, 9 Oct 2026
+- Night Tales Loft, London · Fri, 9 Oct 2026
 - Rex Club, Paris · Fri, 2 Oct 2026
-- Spybar, Chicago · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 D Stone, BELLA (NL), Cinthie
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damswindle/)*

@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Loukeman w/ SANDOR DJ, Torus, Macrosoft bar40 hosted by klub krai " on Fri, 6 Nov 2026.
+Garage Noord is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Loukeman w/ SANDOR DJ, Torus, Macrosoft bar40 hosted by klub krai " on Fri, 6 Nov 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including 2tongues, Anthony Linell, AUCO and baby ganoush and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming gig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

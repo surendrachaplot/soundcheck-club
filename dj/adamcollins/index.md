@@ -1,6 +1,6 @@
 # Adam Collins
 
-Adam Collins is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - 333, New York City on Sat, 7 Nov 2026.
+Adam Collins is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - 333, New York City on Sat, 7 Nov 2026.
 
 Adam Collins is a house and techno artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Beijing, Berlin and Ibiza and 15 more. Often billed alongside AMO, Corrina and Grant Dell. Next up: TBA - 333, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Adam Collins is a house and techno artist based in United States of America, wit
 
 AMO, Corrina, Grant Dell
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcollins/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamcollins/)*

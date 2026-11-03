@@ -1,6 +1,6 @@
 # Marco Bastone
 
-Marco Bastone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Romantica, Stuttgart on Sat, 7 Nov 2026.
+Marco Bastone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Romantica, Stuttgart on Sat, 7 Nov 2026.
 
 Marco Bastone is a house and techno artist based in Austria, with 94 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Femcat, Sibel and Alexander Maier. Next up: Romantica, Stuttgart on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Marco Bastone is a house and techno artist based in Austria, with 94 gigs on sou
 
 Femcat, Sibel, Alexander Maier
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobastone/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobastone/)*

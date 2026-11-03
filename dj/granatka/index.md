@@ -1,6 +1,6 @@
 # Granatka
 
-Granatka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
+Granatka is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location (passed 2h before event), Warsaw on Fri, 6 Nov 2026.
 
 Granatka is a techno and house artist based in Poland, with 3 gigs on soundcheck across Warsaw. Often billed alongside Casper Weiss, Pielson and SYS.END. Next up: TBA - Secret Location (passed 2h before event), Warsaw on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Granatka is a techno and house artist based in Poland, with 3 gigs on soundcheck
 
 Casper Weiss, Pielson, SYS.END
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/granatka/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/granatka/)*

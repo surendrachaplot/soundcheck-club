@@ -1,6 +1,6 @@
 # MONKEY LOVE
 
-MONKEY LOVE is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "MLS Pres. Buchan x kaj garage x MT-V x DJ Niemusiał" on Fri, 6 Nov 2026.
+MONKEY LOVE is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "MLS Pres. Buchan x kaj garage x MT-V x DJ Niemusiał" on Fri, 6 Nov 2026.
 
 MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including Buchan, DJNIEMUSIAŁ, espoff and kaj garage and 2 more. See dates, start times and who's playing. Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa.
 
@@ -16,4 +16,4 @@ MONKEY LOVE is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, wi
 
 Bulwar Flotylii Pińskiej 1a, 00-468 Warszawa, Warsaw
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/monkey-love/)*

@@ -1,6 +1,6 @@
 # Leona Jacewska
 
-Leona Jacewska is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mastak, Warsaw on Fri, 6 Nov 2026.
+Leona Jacewska is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mastak, Warsaw on Fri, 6 Nov 2026.
 
 Leona Jacewska is a techno and electro artist based in Poland, with 18 gigs on soundcheck across Berlin, Frankfurt, Helsinki and Paris and 4 more. Often billed alongside Charlie, Franz Scala and Kidcat. Next up: Mastak, Warsaw on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Leona Jacewska is a techno and electro artist based in Poland, with 18 gigs on s
 
 Charlie, Franz Scala, Kidcat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonajacewska/)*

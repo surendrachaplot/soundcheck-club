@@ -1,6 +1,6 @@
 # Tibor
 
-Tibor is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
+Tibor is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
 
 Tibor is a bass and garage artist based in United Kingdom, with 25 gigs on soundcheck across Leeds and London. Often billed alongside Riel, MJK and Sharnie. Next up: M.O.T, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tibor is a bass and garage artist based in United Kingdom, with 25 gigs on sound
 
 Riel, MJK, Sharnie
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tibor/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tibor/)*

@@ -1,6 +1,6 @@
 # Elias Sternin
 
-Elias Sternin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Yugen, Paraguay on Sat, 14 Nov 2026.
+Elias Sternin is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Yugen, Paraguay on Sat, 14 Nov 2026.
 
 Elias Sternin is a techno and electro artist based in Uruguay, with 27 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 13 more. Often billed alongside Rufo, Audri and Daura. Next up: Yugen, Paraguay on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Elias Sternin is a techno and electro artist based in Uruguay, with 27 gigs on s
 
 Rufo, Audri, Daura
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eliassternin/)*

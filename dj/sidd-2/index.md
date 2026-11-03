@@ -1,6 +1,6 @@
 # Sidd (ES)
 
-Sidd (ES) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Vybe Ibiza, Ibiza on Sat, 14 Nov 2026.
+Sidd (ES) is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Vybe Ibiza, Ibiza on Sat, 14 Nov 2026.
 
 Sidd (ES) is an electronica and house artist, with 6 gigs on soundcheck across Ibiza and Sofia. Often billed alongside Scacco, Javi Niño and Luis del Barrio. Next up: Vybe Ibiza, Ibiza on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Sidd (ES) is an electronica and house artist, with 6 gigs on soundcheck across I
 
 Scacco, Javi Niño, Luis del Barrio
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidd-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidd-2/)*

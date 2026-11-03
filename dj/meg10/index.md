@@ -1,6 +1,6 @@
 # Meg10
 
-Meg10 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Helios37, Cologne on Fri, 6 Nov 2026.
+Meg10 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Helios37, Cologne on Fri, 6 Nov 2026.
 
 Meg10 is a techno and club artist based in Germany, with 158 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Basel and 36 more. Often billed alongside Hanaby, Luca Eck and MCR-T. Next up: Helios37, Cologne on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Meg10 is a techno and club artist based in Germany, with 158 gigs on soundcheck 
 
 Hanaby, Luca Eck, MCR-T
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meg10/)*

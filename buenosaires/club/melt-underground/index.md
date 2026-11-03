@@ -1,6 +1,6 @@
 # Melt Underground
 
-Melt Underground is a music venue in Buenos Aires with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "luzbel [001]" on Fri, 6 Nov 2026.
+Melt Underground is a music venue in Buenos Aires with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "luzbel [001]" on Fri, 6 Nov 2026.
 
 Melt Underground is a music venue in Buenos Aires listed on soundcheck. 5 upcoming gigs, with line-ups including David Meiser, GLIA, Gus Bonani and KARBONI and 2 more. See dates, start times and who's playing. Laprida 1423, C1425 Cdad. Autónoma de Buenos Aires.
 
@@ -18,4 +18,4 @@ Melt Underground is a music venue in Buenos Aires listed on soundcheck. 5 upcomi
 
 Laprida 1423, C1425 Cdad. Autónoma de Buenos Aires, Buenos Aires
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/melt-underground/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/melt-underground/)*

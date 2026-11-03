@@ -1,6 +1,6 @@
 # Spryt Electra
 
-Spryt Electra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at BPM Cafe, Birmingham on Fri, 6 Nov 2026.
+Spryt Electra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at BPM Cafe, Birmingham on Fri, 6 Nov 2026.
 
 Spryt Electra is a techno and electronica artist based in United Kingdom, with 3 gigs on soundcheck across Birmingham, Brighton and London. Often billed alongside Bovine Boy, Hugo and MIÉTTE.. Next up: BPM Cafe, Birmingham on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Spryt Electra is a techno and electronica artist based in United Kingdom, with 3
 
 Bovine Boy, Hugo, MIÉTTE.
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sprytelectra/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sprytelectra/)*

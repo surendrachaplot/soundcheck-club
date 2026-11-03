@@ -1,6 +1,6 @@
 # KREUZWERK
 
-KREUZWERK is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Body Language - 5th Anniversary" on Fri, 6 Nov 2026.
+KREUZWERK is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Body Language - 5th Anniversary" on Fri, 6 Nov 2026.
 
 KREUZWERK is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including 131bpm, ābnamā, ADAM MUNNINGS and Amanda Mussi and 2 more. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin, Deutschland.
 
@@ -23,4 +23,4 @@ KREUZWERK is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, wit
 
 Lobeckstraße 30-35, 10969 Berlin, Deutschland, Berlin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kreuzwerk/)*

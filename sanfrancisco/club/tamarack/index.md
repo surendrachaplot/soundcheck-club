@@ -1,6 +1,6 @@
 # Tamarack
 
-Tamarack is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "R.D.M." on Sat, 7 Nov 2026.
+Tamarack is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "R.D.M." on Sat, 7 Nov 2026.
 
 Tamarack is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Bored Lord, piscespace, Server and Soulox. See dates, start times and who's playing. 1501 Harrison Street Oakland CA 94612.
 
@@ -14,4 +14,4 @@ Tamarack is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcom
 
 1501 Harrison Street Oakland CA 94612, San Francisco/Oakland
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tamarack/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/tamarack/)*

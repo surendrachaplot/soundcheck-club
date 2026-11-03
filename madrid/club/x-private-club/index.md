@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DFTGH Zlatomira in Club X (All Female Line up)" on Sat, 7 Nov 2026.
+X Private Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "DFTGH Zlatomira in Club X (All Female Line up)" on Sat, 7 Nov 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Bianca, Iokhonda, Jaime O'Connor and Prompt and 2 more. See dates, start times and who's playing. Madrid.
 
@@ -15,4 +15,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

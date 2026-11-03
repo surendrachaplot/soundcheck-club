@@ -1,6 +1,6 @@
 # Ngly
 
-Ngly is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Holy Diver, Louisiana on Wed, 4 Nov 2026.
+Ngly is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Holy Diver, Louisiana on Wed, 4 Nov 2026.
 
 Ngly is a techno and electro artist based in Germany, with 15 gigs on soundcheck across Athens, Bali, Beijing and Belgrade and 6 more. Often billed alongside Burago, ALF CHAMPION and Aire. Next up: Holy Diver, Louisiana on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Ngly is a techno and electro artist based in Germany, with 15 gigs on soundcheck
 
 Burago, ALF CHAMPION, Aire
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

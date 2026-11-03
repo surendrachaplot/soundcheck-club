@@ -1,6 +1,6 @@
 # Totales
 
-Totales is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
+Totales is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
 
 Totales is a techno and trance artist based in Chile, with 3 gigs on soundcheck across Münster. Often billed alongside NØ TiME, Joung Philip and KYUB. Next up: Fusion Club, Münster on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Totales is a techno and trance artist based in Chile, with 3 gigs on soundcheck 
 
 NØ TiME, Joung Philip, KYUB
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totales/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totales/)*

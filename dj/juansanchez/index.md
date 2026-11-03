@@ -1,6 +1,6 @@
 # Juan Sanchez
 
-Juan Sanchez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Melkweg, Amsterdam on Tue, 3 Nov 2026.
+Juan Sanchez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Melkweg, Amsterdam on Tue, 3 Nov 2026.
 
 Juan Sanchez is a techno and house artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Barcelona, Mexico City and Porto and 2 more. Often billed alongside Lobster (NL), Anouschka and Ben Sims. Next up: Melkweg, Amsterdam on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Juan Sanchez is a techno and house artist based in Netherlands, with 21 gigs on 
 
 Lobster (NL), Anouschka, Ben Sims
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juansanchez/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juansanchez/)*

@@ -1,6 +1,6 @@
 # TARZI
 
-TARZI is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+TARZI is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 TARZI is a house and trance artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside tasha.mp4, Mark Darcy and Tom Wigley. Next up: Bricks, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ TARZI is a house and trance artist based in United Kingdom, with 12 gigs on soun
 
 tasha.mp4, Mark Darcy, Tom Wigley
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarzi/)*

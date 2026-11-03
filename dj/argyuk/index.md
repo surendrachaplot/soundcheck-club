@@ -1,6 +1,6 @@
 # Argy(uk)
 
-Argy(uk) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 28 Nov 2026.
+Argy(uk) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Classic Grand, Glasgow on Sat, 28 Nov 2026.
 
 Argy(uk) is a techno and hardcore artist, with 5 gigs on soundcheck across Cardiff, Edinburgh, Glasgow and Liverpool and 1 more. Often billed alongside Mha iri, BUCK and Chaos Clan. Next up: The Classic Grand, Glasgow on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Argy(uk) is a techno and hardcore artist, with 5 gigs on soundcheck across Cardi
 
 Mha iri, BUCK, Chaos Clan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argyuk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/argyuk/)*

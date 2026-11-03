@@ -1,6 +1,6 @@
 # Miles J Paralysis
 
-Miles J Paralysis is a Dub and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Greyhound, London on Fri, 6 Nov 2026.
+Miles J Paralysis is a Dub and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Greyhound, London on Fri, 6 Nov 2026.
 
 Miles J Paralysis is a dub and techno artist based in United Kingdom, with 11 gigs on soundcheck across Aberdeen, Berlin, Glasgow and Leeds and 2 more. Often billed alongside GK Machine, LOVELL and Mike BC. Next up: The Greyhound, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Miles J Paralysis is a dub and techno artist based in United Kingdom, with 11 gi
 
 GK Machine, LOVELL, Mike BC
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesjparalysis/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milesjparalysis/)*

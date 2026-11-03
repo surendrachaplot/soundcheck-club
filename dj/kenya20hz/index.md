@@ -1,6 +1,6 @@
 # KENYA20HZ
 
-KENYA20HZ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Barraco SP /CO, Sao Paulo on Sat, 28 Nov 2026.
+KENYA20HZ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Barraco SP /CO, Sao Paulo on Sat, 28 Nov 2026.
 
 KENYA20HZ is a house and techno artist based in Brazil, with 39 gigs on soundcheck across Berlin, Buenos Aires, Frankfurt and Helsinki and 7 more. Often billed alongside EVEHIVE, Tessuto and DJ DUE. Next up: Barraco SP /CO, Sao Paulo on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ KENYA20HZ is a house and techno artist based in Brazil, with 39 gigs on soundche
 
 EVEHIVE, Tessuto, DJ DUE
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenya20hz/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenya20hz/)*

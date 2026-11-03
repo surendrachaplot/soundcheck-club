@@ -1,8 +1,8 @@
 # NYRA (DE)
 
-NYRA (DE) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Exil, Vienna on Fri, 13 Nov 2026.
+NYRA (DE) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Exil, Vienna on Fri, 13 Nov 2026.
 
-NYRA (DE) is a techno and trance artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside davyboi, Cara Elizabeth and Justin Tinderdate. Next up: Club Exil, Vienna on Fri 13 Nov.
+NYRA (DE) is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside davyboi, Cara Elizabeth and Bruno Brero. Next up: Club Exil, Vienna on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ NYRA (DE) is a techno and trance artist based in Germany, with 58 gigs on soundc
 | Fri, 13 Nov 2026 | Club Exil | Vienna |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Fri, 4 Dec 2026 | Castle Club | Cyprus |
-| Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
@@ -26,6 +25,6 @@ NYRA (DE) is a techno and trance artist based in Germany, with 58 gigs on soundc
 
 ## Shares bills with
 
-davyboi, Cara Elizabeth, Justin Tinderdate
+davyboi, Cara Elizabeth, Bruno Brero
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/NYRA.DE/)*

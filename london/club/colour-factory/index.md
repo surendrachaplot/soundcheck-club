@@ -1,6 +1,6 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 24 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Labyrinth presents: J Gadget - Groove with Gadget" on Fri, 6 Nov 2026.
+Colour Factory is a music venue in London with 24 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Labyrinth presents: J Gadget - Groove with Gadget" on Fri, 6 Nov 2026.
 
 Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including 3MR., Aeroplane, Alexander Robotnick and Alex Metric and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
@@ -16,11 +16,11 @@ Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs
 | Sat, 14 Nov 2026 | Jensen Interceptor, Darwin, Jay Carder, and Tim Reaper | Darwin, Jay Carder, Jensen Interceptor, Tim Reaper |
 | Sat, 14 Nov 2026 | plentyppl: A Day with Maurice Fulton | CasuallyClued, Marvin Jupiter, Maurice Fulton |
 | Fri, 20 Nov 2026 | London Jazz Fest Afterparty with Summer Pearl, Marla Kether (DJ), Shortlist Sound | Marla Kether |
-| Fri, 20 Nov 2026 | Bella Claxton + LAMMER + Tjade | Bella Claxton, LAMMER, Tjade |
+| Fri, 20 Nov 2026 | Bella Claxton B2B LAMMER B2B Tjade | Bella Claxton, LAMMER, Tjade |
 | Sat, 21 Nov 2026 | Origins x CF: Free Rave: House Techno Trance | ØTTA |
 
 ## Address
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

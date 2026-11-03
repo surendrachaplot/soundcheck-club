@@ -1,6 +1,6 @@
 # Erik Hagleton
 
-Erik Hagleton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Steel Yard, London on Sat, 5 Dec 2026.
+Erik Hagleton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Steel Yard, London on Sat, 5 Dec 2026.
 
 Erik Hagleton is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Dubai, London and Seoul and 1 more. Often billed alongside Paul Svenson, John Bowtie and Danny Howard. Next up: The Steel Yard, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Erik Hagleton is a house and tech house artist based in United Kingdom, with 10 
 
 Paul Svenson (2), John Bowtie, Danny Howard
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikhagleton/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikhagleton/)*

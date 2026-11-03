@@ -1,6 +1,6 @@
 # feedbk
 
-feedbk is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "feedbk x shanty mane with renai, Jeny Michelle" on Thu, 5 Nov 2026.
+feedbk is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "feedbk x shanty mane with renai, Jeny Michelle" on Thu, 5 Nov 2026.
 
 feedbk is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including Bruno (DO), Burchan Acar, Fonte and Free Zing and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
@@ -21,4 +21,4 @@ feedbk is a music venue in New York City listed on soundcheck. 8 upcoming gigs, 
 
 153 Morgan Avenue, New York City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

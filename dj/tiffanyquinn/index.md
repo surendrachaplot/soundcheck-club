@@ -1,6 +1,6 @@
 # Tiffany Quinn
 
-Tiffany Quinn is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at KOKO, London on Fri, 6 Nov 2026.
+Tiffany Quinn is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at KOKO, London on Fri, 6 Nov 2026.
 
 Tiffany Quinn is a house and disco artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Bristol and 4 more. Often billed alongside Maria Hanlon, bangus and Bear Winder. Next up: KOKO, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Tiffany Quinn is a house and disco artist based in United Kingdom, with 83 gigs 
 
 Maria Hanlon, bangus, Bear Winder
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiffanyquinn/)*

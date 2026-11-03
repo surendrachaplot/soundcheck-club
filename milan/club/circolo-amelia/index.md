@@ -1,6 +1,6 @@
 # Circolo Amelia
 
-Circolo Amelia is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DVS1 // Acquario (Amelia)" on Fri, 6 Nov 2026.
+Circolo Amelia is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "DVS1 // Acquario (Amelia)" on Fri, 6 Nov 2026.
 
 Circolo Amelia is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including AgainstMe, Aldonna, Andromeda\Unchained and BENNETT and 2 more. See dates, start times and who's playing. via privata venezia giulia, 19 - Milan - Italy.
 
@@ -17,4 +17,4 @@ Circolo Amelia is a music venue in Milan listed on soundcheck. 4 upcoming gigs, 
 
 via privata venezia giulia, 19 - Milan - Italy, Milan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*

@@ -1,6 +1,6 @@
 # Recyclart
 
-Recyclart is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Haunted Folklore w/ Sourdure + Ludu du + Social dancing social club" on Thu, 5 Nov 2026.
+Recyclart is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Haunted Folklore w/ Sourdure + Ludu du + Social dancing social club" on Thu, 5 Nov 2026.
 
 Recyclart is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with line-ups including Bianca Scout, Binkbeats, Carrageenan and Dasha Fyah and 2 more. See dates, start times and who's playing. Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels.
 
@@ -18,4 +18,4 @@ Recyclart is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, wi
 
 Rue de Manchester 13, 1080, Sint-Jans-Molenbeek, Brussels, Brussels
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/recyclart/)*

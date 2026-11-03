@@ -1,6 +1,6 @@
 # ART NO LOGIA
 
-ART NO LOGIA is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at LAB theCLUB, Madrid on Sat, 14 Nov 2026.
+ART NO LOGIA is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at LAB theCLUB, Madrid on Sat, 14 Nov 2026.
 
 ART NO LOGIA is a tech house and house artist based in Spain, with 39 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Madrid and 4 more. Often billed alongside Mason Collective, AJ Christou and BizZa. Next up: LAB theCLUB, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ ART NO LOGIA is a tech house and house artist based in Spain, with 39 gigs on so
 
 Mason Collective, AJ Christou, BizZa
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artnologia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artnologia/)*

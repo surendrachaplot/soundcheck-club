@@ -1,8 +1,8 @@
 # Groove Assassin
 
-Groove Assassin is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
+Groove Assassin is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Ministry Of Sound, London on Sat, 14 Nov 2026.
 
-Groove Assassin is a house and deep house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Belgrade, Birmingham and Edinburgh and 7 more. Often billed alongside Billy Cocks, Sy Sez and Boon (UK). Next up: Ministry Of Sound, London on Sat 14 Nov.
+Groove Assassin is a house and deep house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Belgrade, Birmingham and Edinburgh and 7 more. Often billed alongside Billy Cocks, DJ Murrell and Sy Sez. Next up: Ministry Of Sound, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Groove Assassin is a house and deep house artist based in United Kingdom, with 3
 | Sat, 14 Nov 2026 | Ministry Of Sound | London |
 | Sat, 14 Nov 2026 | Hangr | Sheffield |
 | Sat, 28 Nov 2026 | fabric | London |
+| Sat, 28 Nov 2026 | Fabricxx | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Groove Assassin is a house and deep house artist based in United Kingdom, with 3
 
 ## Shares bills with
 
-Billy Cocks, Sy Sez, Boon (UK)
+Billy Cocks, DJ Murrell, Sy Sez
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*

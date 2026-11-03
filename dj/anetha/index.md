@@ -1,8 +1,8 @@
 # Anetha
 
-Anetha is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Flash, Washington DC on Thu, 19 Nov 2026.
+Anetha is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Flash, Washington DC on Thu, 19 Nov 2026.
 
-Anetha is a techno and house artist based in France, with 244 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 76 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Flash, Washington DC on Thu 19 Nov.
+Anetha is a techno and house artist based in France, with 245 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 77 more. Often billed alongside Mac Declos, SPFDJ and DJ Gigola. Next up: Flash, Washington DC on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Anetha is a techno and house artist based in France, with 244 gigs on soundcheck
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Flash | Washington DC |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
+| Sat, 21 Nov 2026 | TBA | Atlanta |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sun, 29 Nov 2026 | Le Sucre | Lyon |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
@@ -19,7 +20,6 @@ Anetha is a techno and house artist based in France, with 244 gigs on soundcheck
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Fri, 1 Jan 2027 | The Nursery At Flemington | Melbourne |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Anetha is a techno and house artist based in France, with 244 gigs on soundcheck
 
 Mac Declos, SPFDJ, DJ Gigola
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anetha/)*

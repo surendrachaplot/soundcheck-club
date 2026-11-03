@@ -1,6 +1,6 @@
 # Sound From Stockholm: Zellmani (Public Possession, DAGE) at Dada Beijing
 
-Sound From Stockholm: Zellmani (Public Possession, DAGE) at Dada Beijing on Wed 11 Nov, Beijing. 2 artists: Kai.F and Nigls. See the line-up on soundcheck.
+Sound From Stockholm: Zellmani (Public Possession, DAGE) at Dada Beijing on Wed 11 Nov, Beijing. 2 artists: Kai.F and Nigls. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

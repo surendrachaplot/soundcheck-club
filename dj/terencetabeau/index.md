@@ -1,6 +1,6 @@
 # Terence Tabeau
 
-Terence Tabeau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Terence Tabeau is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
 Terence Tabeau is a house and disco artist based in United States of America, with 60 gigs on soundcheck across Austin, Miami, Osaka and Tokyo. Often billed alongside Will Renuart, Artime and Danny Daze. Next up: The Pickle, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Terence Tabeau is a house and disco artist based in United States of America, wi
 
 Will Renuart, Artime, Danny Daze
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terencetabeau/)*

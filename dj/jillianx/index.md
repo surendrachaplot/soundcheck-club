@@ -1,6 +1,6 @@
 # Jillian x
 
-Jillian x is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cara Cara Club, Chicago on Thu, 5 Nov 2026.
+Jillian x is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cara Cara Club, Chicago on Thu, 5 Nov 2026.
 
 Jillian x is a house and deep house artist based in United States of America, with 33 gigs on soundcheck across Chicago. Often billed alongside Quicktastic, Janesita and Initial G. Next up: Cara Cara Club, Chicago on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Jillian x is a house and deep house artist based in United States of America, wi
 
 Quicktastic, Janesita, Initial G
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jillianx/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jillianx/)*

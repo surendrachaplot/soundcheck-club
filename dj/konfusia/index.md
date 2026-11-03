@@ -1,6 +1,6 @@
 # Konfusia
 
-Konfusia is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 6 Nov 2026.
+Konfusia is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 6 Nov 2026.
 
 Konfusia is a techno and house artist based in Germany, with 119 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Cologne and 21 more. Often billed alongside Maurice Mino, Sabura and Sin:port. Next up: Fridas Pier, Stuttgart on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Konfusia is a techno and house artist based in Germany, with 119 gigs on soundch
 
 Maurice Mino, Sabura, Sin:port
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konfusia/)*

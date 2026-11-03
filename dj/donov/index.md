@@ -1,6 +1,6 @@
 # Donov
 
-Donov is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Salle des Fêtes de Fives, Lille on Sun, 8 Nov 2026.
+Donov is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Salle des Fêtes de Fives, Lille on Sun, 8 Nov 2026.
 
 Donov is a balearic and house artist, with 4 gigs on soundcheck across Bordeaux, Lille, North and Paris. Often billed alongside Alex Kassian, Antal and Brunzi. Next up: Salle des Fêtes de Fives, Lille on Sun 8 Nov.
 
@@ -20,4 +20,4 @@ Donov is a balearic and house artist, with 4 gigs on soundcheck across Bordeaux,
 
 Alex Kassian, Antal, Brunzi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donov/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donov/)*

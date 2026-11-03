@@ -1,6 +1,6 @@
 # DJ Travella
 
-DJ Travella is a Singeli and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+DJ Travella is a Singeli and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 DJ Travella is a singeli and club artist based in Tanzania, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside DJ Diaki, Mia Koden and De Schuurman. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -25,4 +25,4 @@ DJ Travella is a singeli and club artist based in Tanzania, with 82 gigs on soun
 
 DJ Diaki, Mia Koden, De Schuurman
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtravella/)*

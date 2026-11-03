@@ -1,0 +1,28 @@
+# DJ Francis
+
+DJ Francis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
+
+DJ Francis is a house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside KEN (DE), DJ PayPaul and FLEXTASY. Next up: KitKatClub, Berlin on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | KitKatClub | Berlin |
+
+## Recently played
+
+- KitKatClub, Berlin · Fri, 28 Aug 2026
+- KitKatClub, Berlin · Fri, 24 Apr 2026
+- Beate Uwe, Berlin · Sat, 14 Feb 2026
+- KitKatClub, Berlin · Fri, 30 Jan 2026
+- KitKatClub, Berlin · Fri, 26 Sept 2025
+- KitKatClub, Berlin · Fri, 27 Jun 2025
+- KitKatClub, Berlin · Fri, 28 Mar 2025
+- KitKatClub, Berlin · Fri, 31 Jan 2025
+
+## Shares bills with
+
+KEN (DE), DJ PayPaul, FLEXTASY
+
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfrancis/)*

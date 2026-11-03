@@ -1,6 +1,6 @@
 # USA Hockey Arena
 
-USA Hockey Arena is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Clippers at Warriors: Complete Fan Guide & Lineups" on Sat, 7 Nov 2026.
+USA Hockey Arena is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Clippers at Warriors: Complete Fan Guide & Lineups" on Sat, 7 Nov 2026.
 
 USA Hockey Arena is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ USA Hockey Arena is a music venue in Detroit listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Clippers at Warriors: Complete Fan Guide & Lineups |  |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/usa-hockey-arena/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/usa-hockey-arena/)*

@@ -1,6 +1,6 @@
 # Voiron (2)
 
-Voiron (2) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 7 Nov 2026.
+Voiron (2) is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 7 Nov 2026.
 
 Voiron is a club and electro artist, with 3 gigs on soundcheck across Paris. Often billed alongside Broodoo Ramses, Charleeps and GRAV. Next up: La Machine Du Moulin Rouge, Paris on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Voiron is a club and electro artist, with 3 gigs on soundcheck across Paris. Oft
 
 Broodoo Ramses, Charleeps, GRAV
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voiron-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voiron-2/)*

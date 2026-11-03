@@ -1,6 +1,6 @@
 # _ÄLI_
 
-_ÄLI_ is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at migas, a listening bar, Berlin on Sat, 7 Nov 2026.
+_ÄLI_ is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at migas, a listening bar, Berlin on Sat, 7 Nov 2026.
 
 _ÄLI_ is an electronic artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Artifex (DE), DE:MA and Gioski. Next up: migas, a listening bar, Berlin on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ _ÄLI_ is an electronic artist, with 4 gigs on soundcheck across Berlin. Often b
 
 Artifex (DE), DE:MA, Gioski
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/_ali_/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/_ali_/)*

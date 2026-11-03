@@ -1,6 +1,6 @@
 # Spacious
 
-Spacious is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bar Franca, Los Angeles on Sat, 14 Nov 2026.
+Spacious is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bar Franca, Los Angeles on Sat, 14 Nov 2026.
 
 Spacious is a house and techno artist, with 4 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside GYPSUM, Guti and Jackson Walker. Next up: Bar Franca, Los Angeles on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Spacious is a house and techno artist, with 4 gigs on soundcheck across Los Ange
 
 GYPSUM, Guti, Jackson Walker
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spacious/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spacious/)*

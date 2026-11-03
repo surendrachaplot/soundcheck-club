@@ -1,6 +1,6 @@
 # Casey Fable
 
-Casey Fable is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
+Casey Fable is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 21 Nov 2026.
 
 Casey Fable is a techno and bass artist based in Ireland, with 13 gigs on soundcheck across Berlin and Dublin. Often billed alongside T-RAIL, DJ NORTHERN and Josh Reid. Next up: Crack Bellmer, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Casey Fable is a techno and bass artist based in Ireland, with 13 gigs on soundc
 
 T-RAIL, DJ NORTHERN, Josh Reid
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyfable/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caseyfable/)*

@@ -1,6 +1,6 @@
 # Emmanuel Jal (Historical Cistern) at Sarnıç Istanbul
 
-Emmanuel Jal (Historical Cistern) at Sarnıç Istanbul on Sun 31 Jan, Istanbul. 3 artists: Emmanuel Jal, Orkun Bozdemir and Soul Grinders. See the line-up on soundcheck.
+Emmanuel Jal (Historical Cistern) at Sarnıç Istanbul on Sun 31 Jan, Istanbul. 3 artists: Emmanuel Jal, Orkun Bozdemir and Soul Grinders. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

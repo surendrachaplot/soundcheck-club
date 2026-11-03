@@ -1,6 +1,6 @@
 # hessIless
 
-hessIless is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The How, Armenia on Fri, 6 Nov 2026.
+hessIless is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The How, Armenia on Fri, 6 Nov 2026.
 
 hessIless is an electronic artist, with 3 gigs on soundcheck across Armenia, Madrid and Tbilisi. Often billed alongside Anushka Chkheidze, Astrobee and Dudier. Next up: The How, Armenia on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ hessIless is an electronic artist, with 3 gigs on soundcheck across Armenia, Mad
 
 Anushka Chkheidze, Astrobee, Dudier
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hessiless/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hessiless/)*

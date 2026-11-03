@@ -1,6 +1,6 @@
 # Kimm Laara
 
-Kimm Laara is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Rumores, Mexico City on Sat, 7 Nov 2026.
+Kimm Laara is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Rumores, Mexico City on Sat, 7 Nov 2026.
 
 Kimm Laara is a house and deep house artist based in Mexico, with 3 gigs on soundcheck across Mexico City. Next up: Club Rumores, Mexico City on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ Kimm Laara is a house and deep house artist based in Mexico, with 3 gigs on soun
 - Bardo Speakeasy, Mexico City · Thu, 1 Oct 2026
 - Club Rumores, Mexico City · Thu, 10 Sept 2026
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmlaara/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimmlaara/)*

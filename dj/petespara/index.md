@@ -1,6 +1,6 @@
 # Pete Spara
 
-Pete Spara is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Spiritland at the Barbican, London on Tue, 3 Nov 2026.
+Pete Spara is a Ambient and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Spiritland at the Barbican, London on Tue, 3 Nov 2026.
 
 Pete Spara is an ambient and house artist based in United Kingdom, with 12 gigs on soundcheck across London. Often billed alongside DJ Himitsu, soo:k and Alfaz. Next up: Spiritland at the Barbican, London on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Pete Spara is an ambient and house artist based in United Kingdom, with 12 gigs 
 
 DJ Himitsu, soo:k, Alfaz
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petespara/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petespara/)*

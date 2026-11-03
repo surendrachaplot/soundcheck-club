@@ -1,6 +1,6 @@
 # Spega
 
-Spega is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at París 15, Malaga on Sat, 14 Nov 2026.
+Spega is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at París 15, Malaga on Sat, 14 Nov 2026.
 
 Spega is a tech house and house artist, with 4 gigs on soundcheck across Malaga. Often billed alongside Aaron Martin, Chris Gorrie and Giammarco Orsini. Next up: París 15, Malaga on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Spega is a tech house and house artist, with 4 gigs on soundcheck across Malaga.
 
 Aaron Martin, Chris Gorrie, Giammarco Orsini
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spega/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spega/)*

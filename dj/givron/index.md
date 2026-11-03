@@ -1,6 +1,6 @@
 # Givron
 
-Givron is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at NDR2 Red Room, London on Fri, 20 Nov 2026.
+Givron is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at NDR2 Red Room, London on Fri, 20 Nov 2026.
 
 Givron is a trance and progressive house artist, with 3 gigs on soundcheck across London. Often billed alongside Joe Gabbitas, Wilks (UK) and A For Alpha. Next up: NDR2 Red Room, London on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Givron is a trance and progressive house artist, with 3 gigs on soundcheck acros
 
 Joe Gabbitas, Wilks (UK), A For Alpha
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/givron/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/givron/)*

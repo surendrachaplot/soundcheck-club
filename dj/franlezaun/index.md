@@ -1,6 +1,6 @@
 # Fran Lezaun
 
-Fran Lezaun is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
+Fran Lezaun is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sensorium, Berlin on Wed, 2 Dec 2026.
 
 Fran Lezaun is a techno and industrial artist based in Argentina, with 9 gigs on soundcheck across Berlin and Buenos Aires. Often billed alongside Ariana Fedele, EVIŠKA and Federico Guerrero. Next up: Sensorium, Berlin on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Fran Lezaun is a techno and industrial artist based in Argentina, with 9 gigs on
 
 Ariana Fedele, EVIŠKA, Federico Guerrero
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franlezaun/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franlezaun/)*

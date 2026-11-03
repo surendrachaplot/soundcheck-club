@@ -1,14 +1,15 @@
 # SIAAH
 
-SIAAH is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Cloud, Berlin on Sat, 19 Dec 2026.
+SIAAH is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cloud, Berlin on Sat, 19 Dec 2026.
 
-SIAAH is a house and electronica artist based in Germany, with 24 gigs on soundcheck across Berlin and Istanbul. Often billed alongside DJ phellix, ALIO and Michael Ritter. Next up: The Cloud, Berlin on Sat 19 Dec.
+SIAAH is a house and electronica artist based in Germany, with 25 gigs on soundcheck across Berlin, Düsseldorf and Istanbul. Often billed alongside DJ phellix, ALIO and Michael Ritter. Next up: The Cloud, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | The Cloud | Berlin |
+| Thu, 24 Dec 2026 | TBA - Revolution  | Düsseldorf |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SIAAH is a house and electronica artist based in Germany, with 24 gigs on soundc
 
 DJ phellix, ALIO, Michael Ritter
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siaah/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/siaah/)*

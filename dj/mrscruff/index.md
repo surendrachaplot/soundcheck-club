@@ -1,6 +1,6 @@
 # Mr Scruff
 
-Mr Scruff is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Golden Lion, Manchester on Fri, 6 Nov 2026.
+Mr Scruff is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Golden Lion, Manchester on Fri, 6 Nov 2026.
 
 Mr Scruff is a house and disco artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 23 more. Often billed alongside Aroop Roy, Luke Una and Chunky. Next up: The Golden Lion, Manchester on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Mr Scruff is a house and disco artist based in United Kingdom, with 115 gigs on 
 
 Aroop Roy, Luke Una, Chunky
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrscruff/)*

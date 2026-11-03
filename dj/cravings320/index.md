@@ -1,8 +1,8 @@
 # cravings320
 
-cravings320 is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+cravings320 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
-cravings320 is a techno and trance artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside DJ 069, ADHASS and NIKUSH. Next up: TBA, Berlin on Fri 13 Nov.
+cravings320 is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside DJ 069, ADHASS and NIKUSH. Next up: TBA, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ cravings320 is a techno and trance artist based in Germany, with 29 gigs on soun
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA | Berlin |
 | Fri, 13 Nov 2026 | DSTRKT Club Berlin | Berlin |
+| Fri, 13 Nov 2026 | Mokka Mitte Bar / James Simon Park | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ cravings320 is a techno and trance artist based in Germany, with 29 gigs on soun
 
 DJ 069, ADHASS, NIKUSH
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cravings320/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cravings320/)*

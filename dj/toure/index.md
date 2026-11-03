@@ -1,6 +1,6 @@
 # Touré
 
-Touré is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Movers, Nottingham on Fri, 13 Nov 2026.
+Touré is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Movers, Nottingham on Fri, 13 Nov 2026.
 
 Touré is a house and electro artist based in United Kingdom, with 44 gigs on soundcheck across Bristol, Glasgow, Leeds and London and 5 more. Often billed alongside Larushkin, Jiminy Watts and Sleepy Jean. Next up: Movers, Nottingham on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Touré is a house and electro artist based in United Kingdom, with 44 gigs on so
 
 Larushkin, Jiminy Watts, Sleepy Jean
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

@@ -1,6 +1,6 @@
 # NORA (3)
 
-NORA (3) is a Baile Funk and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Fox and Firkin, London on Sat, 7 Nov 2026.
+NORA (3) is a Baile Funk and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Fox and Firkin, London on Sat, 7 Nov 2026.
 
 NORA is a baile funk and afrobeats artist, with 3 gigs on soundcheck across London. Often billed alongside Ana Isabela, Onda Saoco and DJABLÈS. Next up: The Fox and Firkin, London on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ NORA is a baile funk and afrobeats artist, with 3 gigs on soundcheck across Lond
 
 Ana Isabela, Onda Saoco, DJABLÈS
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-3/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nora-3/)*

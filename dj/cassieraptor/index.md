@@ -1,6 +1,6 @@
 # Cassie Raptor
 
-Cassie Raptor is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Hangaren, Copenhagen on Sat, 7 Nov 2026.
+Cassie Raptor is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hangaren, Copenhagen on Sat, 7 Nov 2026.
 
 Cassie Raptor is a techno and industrial artist based in France, with 149 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside CARAVEL, ANXHELA and DYEN. Next up: Hangaren, Copenhagen on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Cassie Raptor is a techno and industrial artist based in France, with 149 gigs o
 
 CARAVEL, ANXHELA, DYEN
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassieraptor/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassieraptor/)*

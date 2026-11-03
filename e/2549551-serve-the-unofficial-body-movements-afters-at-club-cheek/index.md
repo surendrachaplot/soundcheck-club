@@ -1,6 +1,6 @@
 # SERVE (THE UNOFFICIAL BODY MOVEMENTS AFTERS) at Club Cheek
 
-SERVE (THE UNOFFICIAL BODY MOVEMENTS AFTERS) at Club Cheek on Sat 14 Nov, London. 4 artists: Bekefi, LORA S, S_STEELE and Somme Farris. House. See the line-up on soundcheck.
+SERVE (THE UNOFFICIAL BODY MOVEMENTS AFTERS) at Club Cheek on Sat 14 Nov, London. 5 artists: Bekefi, DJ Split, LORA S and S_STEELE and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SERVE (THE UNOFFICIAL BODY MOVEMENTS AFTERS) at Club Cheek on Sat 14 Nov, London
 ## Line-up
 
 - Bekefi
+- DJ Split
 - LORA S
 - S_STEELE
 - Somme Farris

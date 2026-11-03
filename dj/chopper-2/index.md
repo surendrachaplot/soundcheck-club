@@ -1,8 +1,8 @@
 # Chopper (UK)
 
-Chopper (UK) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Loft, Manchester on Sat, 5 Dec 2026.
+Chopper (UK) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Loft, Manchester on Sat, 5 Dec 2026.
 
-Chopper (UK) is a house and tech house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Ibiza and 8 more. Often billed alongside Ryan Resso, Stef Davidse and EVIE UK. Next up: The Loft, Manchester on Sat 5 Dec.
+Chopper (UK) is a house and tech house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Antwerp, Birmingham and Ibiza and 8 more. Often billed alongside Ryan Resso, Stef Davidse and EVIE UK. Next up: The Loft, Manchester on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chopper (UK) is a house and tech house artist based in United Kingdom, with 60 g
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The Loft | Manchester |
 | Sat, 12 Dec 2026 | Lab11 | Birmingham |
+| Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Chopper (UK) is a house and tech house artist based in United Kingdom, with 60 g
 
 Ryan Resso, Stef Davidse, EVIE UK
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chopper-2/)*

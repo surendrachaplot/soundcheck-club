@@ -1,6 +1,6 @@
 # Biscits
 
-Biscits is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Coda, Toronto on Sat, 14 Nov 2026.
+Biscits is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Coda, Toronto on Sat, 14 Nov 2026.
 
 Biscits is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Austin, Boston, Brisbane and Charlotte and 26 more. Often billed alongside Sonny Fodera, Gorgon City and Matroda. Next up: Coda, Toronto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Biscits is a house and tech house artist based in United Kingdom, with 75 gigs o
 
 Sonny Fodera, Gorgon City, Matroda
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biscits/)*

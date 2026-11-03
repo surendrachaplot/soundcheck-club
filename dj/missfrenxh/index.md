@@ -1,13 +1,15 @@
 # MISS FRENXH
 
-MISS FRENXH is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Wed, 30 Dec 2026.
+MISS FRENXH is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at E1, London on Fri, 4 Dec 2026.
 
-MISS FRENXH is a trance and techno artist based in United Kingdom, with 2 gigs on soundcheck across Berlin and Leeds. Often billed alongside 2HOT2PLAY, AREA ØNE and ATTA.. Next up: DSTRKT Club Berlin, Berlin on Wed 30 Dec.
+MISS FRENXH is a techno and trance artist based in United Kingdom, with 4 gigs on soundcheck across Berlin, Leeds and London. Often billed alongside Cleopard2000, Vagabund and 2HOT2PLAY. Next up: E1, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | E1 | London |
+| Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 | Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
@@ -16,6 +18,6 @@ MISS FRENXH is a trance and techno artist based in United Kingdom, with 2 gigs o
 
 ## Shares bills with
 
-2HOT2PLAY, AREA ØNE, ATTA.
+Cleopard2000, Vagabund, 2HOT2PLAY
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missfrenxh/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missfrenxh/)*

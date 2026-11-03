@@ -1,6 +1,6 @@
 # Neutran
 
-Neutran is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 14 Nov 2026.
+Neutran is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat, 14 Nov 2026.
 
 Neutran is a techno and experimental artist based in Japan, with 26 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Kanto and 2 more. Often billed alongside Rickshinmi, KCT and TEI TEI. Next up: Secret Venue in Minatoku-Nishiazabu, Tokyo on Sat 14 Nov.
 
@@ -13,6 +13,7 @@ Neutran is a techno and experimental artist based in Japan, with 26 gigs on soun
 
 ## Recently played
 
+- club asia, Tokyo · Mon, 2 Nov 2026
 - TBA - Kinone Pension, Kanto · Sat, 31 Oct 2026
 - Kinone Pension, Kanto · Sat, 31 Oct 2026
 - VENT, Tokyo · Fri, 30 Oct 2026
@@ -20,10 +21,9 @@ Neutran is a techno and experimental artist based in Japan, with 26 gigs on soun
 - Oath, Tokyo · Wed, 14 Oct 2026
 - Fitzroy, Berlin · Thu, 24 Sept 2026
 - Pastiche, Berlin · Mon, 21 Sept 2026
-- Giselle, Düsseldorf · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Rickshinmi, KCT (1), TEI TEI
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neutran/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neutran/)*

@@ -1,13 +1,14 @@
 # Unai Trotti
 
-Unai Trotti is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Le Trabendo, Paris on Fri, 13 Nov 2026.
+Unai Trotti is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-Unai Trotti is a techno and house artist based in United Kingdom, with 187 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 61 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: Le Trabendo, Paris on Fri 13 Nov.
+Unai Trotti is a techno and house artist based in United Kingdom, with 188 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 61 more. Often billed alongside Z@p, Vass and Junki Inoue. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Fri, 13 Nov 2026 | Le Trabendo | Paris |
 | Sat, 14 Nov 2026 | TBA -  SECRET LOCATION | Rome |
 | Sat, 21 Nov 2026 | FOLD | London |
@@ -34,4 +35,4 @@ Unai Trotti is a techno and house artist based in United Kingdom, with 187 gigs 
 
 Z@p, Vass, Junki Inoue
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unaitrotti/)*

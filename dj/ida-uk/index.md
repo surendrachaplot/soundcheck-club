@@ -1,13 +1,14 @@
 # IDA
 
-IDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Renate, Berlin on Sat, 21 Nov 2026.
+IDA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sameheads, Berlin on Thu, 12 Nov 2026.
 
-IDA is a techno and house artist based in Finland, with 26 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 5 more. Often billed alongside Giordano, Denzel and Esterne Moog. Next up: Renate, Berlin on Sat 21 Nov.
+IDA is a techno and house artist based in Finland, with 27 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 5 more. Often billed alongside Giordano, Denzel and Esterne Moog. Next up: Sameheads, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Sameheads | Berlin |
 | Sat, 21 Nov 2026 | Renate | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ IDA is a techno and house artist based in Finland, with 26 gigs on soundcheck ac
 
 Giordano, Denzel, Esterne Moog
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ida-uk/)*

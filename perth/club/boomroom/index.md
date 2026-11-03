@@ -1,6 +1,6 @@
 # boomroom
 
-boomroom is a music venue in Perth with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "MOTH @ boomroom" on Fri, 6 Nov 2026.
+boomroom is a music venue in Perth with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "MOTH @ boomroom" on Fri, 6 Nov 2026.
 
 boomroom is a music venue in Perth listed on soundcheck. 7 upcoming gigs, with line-ups including Ahadadream, BASHKKA, CCL and deep creep and 2 more. See dates, start times and who's playing. Rear Laneway, 224 William Street, Northbridge.
 
@@ -20,4 +20,4 @@ boomroom is a music venue in Perth listed on soundcheck. 7 upcoming gigs, with l
 
 Rear Laneway, 224 William Street, Northbridge, Perth
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/boomroom/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/boomroom/)*

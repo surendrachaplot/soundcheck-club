@@ -1,6 +1,6 @@
 # Knower
 
-Knower is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Karmakoma, Belgrade on Fri, 6 Nov 2026.
+Knower is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Karmakoma, Belgrade on Fri, 6 Nov 2026.
 
 Knower is a house and techno artist based in Serbia, with 30 gigs on soundcheck across Belgrade and Ljubljana. Often billed alongside Janko, Danilo Kas and Luton. Next up: Karmakoma, Belgrade on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Knower is a house and techno artist based in Serbia, with 30 gigs on soundcheck 
 
 Janko, Danilo Kas, Luton
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knower/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knower/)*

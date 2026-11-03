@@ -1,6 +1,6 @@
 # LOIF
 
-LOIF is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
+LOIF is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Oizumi-Kojo, Kanto on Sun, 22 Nov 2026.
 
 LOIF is a techno and bass artist based in Australia, with 62 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bordeaux and 19 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: Oizumi-Kojo, Kanto on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ LOIF is a techno and bass artist based in Australia, with 62 gigs on soundcheck 
 
 Tangerine, Kia (AU), D-Grade
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loif/)*

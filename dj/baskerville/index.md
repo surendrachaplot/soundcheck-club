@@ -1,6 +1,6 @@
 # BASKERVILLE
 
-BASKERVILLE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Shelter, Seoul on Fri, 6 Nov 2026.
+BASKERVILLE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Shelter, Seoul on Fri, 6 Nov 2026.
 
 BASKERVILLE is a techno and electro artist based in South Korea, with 34 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Honn, PRIMIT and T-BURN. Next up: Shelter, Seoul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ BASKERVILLE is a techno and electro artist based in South Korea, with 34 gigs on
 
 Honn, PRIMIT, T-BURN
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baskerville/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baskerville/)*

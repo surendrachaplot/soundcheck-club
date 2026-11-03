@@ -1,6 +1,6 @@
 # Juguete
 
-Juguete is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - LFO, Madrid on Fri, 13 Nov 2026.
+Juguete is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - LFO, Madrid on Fri, 13 Nov 2026.
 
 Juguete is a club and tech house artist based in Spain, with 58 gigs on soundcheck across Barcelona, Berlin, Madrid and Paris and 1 more. Often billed alongside Albal, DISTORT (ES) and Nile Fee. Next up: TBA - LFO, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Juguete is a club and tech house artist based in Spain, with 58 gigs on soundche
 
 Albal, DISTORT (ES), Nile Fee
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juguete/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juguete/)*

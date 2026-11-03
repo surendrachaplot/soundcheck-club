@@ -1,8 +1,8 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Manevarim 500 with Marcal and Locals" on Fri, 6 Nov 2026.
+Drugstore Beograd is a music venue in Belgrade with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Manevarim 500 with Marcal and Locals" on Fri, 6 Nov 2026.
 
-Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 6 upcoming gigs, with line-ups including Alarico, aleksssa, Asarri and BEREZA and 2 more. See dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
+Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming gigs, with line-ups including Alarico, aleksssa, Asarri and BEREZA and 2 more. See dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
 ## What's on
 
@@ -12,6 +12,7 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 6 upcoming 
 | Fri, 13 Nov 2026 | MRAK with David Löhlein | David Löhlein |
 | Fri, 20 Nov 2026 | ALTEREGO - ALL YOU CAN ACID II - Chris Liberator | Chris Liberator, Deeda, Matej Rusmir |
 | Sat, 21 Nov 2026 | Hali Gali: Banzai |  |
+| Fri, 27 Nov 2026 | 8 years of KRШ with Jamie Bissmire, Keepsakes, Katran, Ledeni at Drugstore | Jamie Bissmire, Keepsakes, Ledeni, Ontal |
 | Fri, 4 Dec 2026 | 10 Years of Music Reactions | Asarri, BEREZA, Brtinzz, Deeda, Edin (Oma), Essio, Kalte Liebe, Karina Oksa, Moraitov, RAR, Razzor, SRNA, Stameni, Suzana, cmic.akk, laccotti, nobena |
 | Fri, 11 Dec 2026 | MAGLA WEEKENDER · 11–13 December · Lineup TBA | Alarico, Chloe Lula, DJ Nobu |
 
@@ -19,4 +20,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 6 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

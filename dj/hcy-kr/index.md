@@ -1,6 +1,6 @@
 # hcy.
 
-hcy. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at teller, Seoul on Fri, 13 Nov 2026.
+hcy. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at teller, Seoul on Fri, 13 Nov 2026.
 
 hcy. is a techno and house artist based in South Korea, with 63 gigs on soundcheck across Seoul. Often billed alongside Sunghoon, Xanexx and Ve Bogel. Next up: teller, Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ hcy. is a techno and house artist based in South Korea, with 63 gigs on soundche
 
 Sunghoon, Xanexx, Ve Bogel
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hcy-kr/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hcy-kr/)*

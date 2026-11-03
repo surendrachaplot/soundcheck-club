@@ -1,6 +1,6 @@
 # Sampaio
 
-Sampaio is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pitoëff / Salle Communale De Plainpalais, Geneva on Sat, 7 Nov 2026.
+Sampaio is a Baile Funk and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pitoëff / Salle Communale De Plainpalais, Geneva on Sat, 7 Nov 2026.
 
 Sampaio is a baile funk and afrobeat artist based in Switzerland, with 41 gigs on soundcheck across Geneva, Lausanne and Lisbon. Often billed alongside Hirma, Spice & Curls and Habiboo. Next up: Pitoëff / Salle Communale De Plainpalais, Geneva on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sampaio is a baile funk and afrobeat artist based in Switzerland, with 41 gigs o
 
 Hirma, Spice & Curls, Habiboo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaio/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaio/)*

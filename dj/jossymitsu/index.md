@@ -1,6 +1,6 @@
 # Jossy Mitsu
 
-Jossy Mitsu is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
+Jossy Mitsu is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at M.O.T, London on Sat, 28 Nov 2026.
 
 Jossy Mitsu is a techno and bass artist, with 111 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 33 more. Often billed alongside Bluetoof, BLUMITSU and Neffa-T. Next up: M.O.T, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jossy Mitsu is a techno and bass artist, with 111 gigs on soundcheck across Adel
 
 Bluetoof, BLUMITSU, Neffa-T
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jossymitsu/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jossymitsu/)*

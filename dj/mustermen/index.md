@@ -1,6 +1,6 @@
 # Muster Men
 
-Muster Men is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
+Muster Men is a Tech House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 28 Nov 2026.
 
 Muster Men is a tech house and electro artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Calla, Wilba and Regan Funk. Next up: Starlane Pizza Bar, London on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Muster Men is a tech house and electro artist based in United Kingdom, with 6 gi
 
 Calla, Wilba, Regan Funk
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mustermen/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mustermen/)*

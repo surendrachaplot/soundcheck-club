@@ -1,6 +1,6 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
+Nikolina is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Edelfettwerk, Hamburg on Sat, 14 Nov 2026.
 
 Nikolina is a techno and industrial artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside Restricted, Azyr and Onlynumbers. Next up: Edelfettwerk, Hamburg on Sat 14 Nov.
 
@@ -33,4 +33,4 @@ Nikolina is a techno and industrial artist based in United Kingdom, with 131 gig
 
 Restricted, Azyr, Onlynumbers
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

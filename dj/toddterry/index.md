@@ -1,6 +1,6 @@
 # Todd Terry
 
-Todd Terry is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Jazz Cafe, London on Fri, 20 Nov 2026.
+Todd Terry is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Jazz Cafe, London on Fri, 20 Nov 2026.
 
 Todd Terry is a house and disco artist based in United States of America, with 157 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 31 more. Often billed alongside Janika Tenn, Ferreck Dawn and Melvo Baptiste. Next up: The Jazz Cafe, London on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Todd Terry is a house and disco artist based in United States of America, with 1
 
 Janika Tenn, Ferreck Dawn, Melvo Baptiste
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddterry/)*

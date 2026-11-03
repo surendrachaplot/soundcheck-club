@@ -1,6 +1,6 @@
 # Yu Yang
 
-Yu Yang is a Club and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 7 Nov 2026.
+Yu Yang is a Club and Ambient artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Veronica Schip, Amsterdam on Sat, 7 Nov 2026.
 
 Yu Yang is a club and ambient artist based in China, with 6 gigs on soundcheck across Amsterdam, London, Shanghai and Thailand. Often billed alongside Afrodite, Alex Albrecht and Bins. Next up: Veronica Schip, Amsterdam on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Yu Yang is a club and ambient artist based in China, with 6 gigs on soundcheck a
 
 Afrodite (2), Alex Albrecht, Bins
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuyang/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuyang/)*

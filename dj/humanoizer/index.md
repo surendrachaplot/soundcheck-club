@@ -1,8 +1,8 @@
 # Humanoizer
 
-Humanoizer is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+Humanoizer is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
-Humanoizer is a techno and industrial artist, with 5 gigs on soundcheck across Leipzig. Often billed alongside FRÄNK, DYROFF and Desperate House Guy. Next up: elipamanoke, Leipzig on Sat 7 Nov.
+Humanoizer is a techno and industrial artist based in Germany, with 5 gigs on soundcheck across Leipzig. Often billed alongside FRÄNK, DYROFF and Desperate House Guy. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Humanoizer is a techno and industrial artist, with 5 gigs on soundcheck across L
 
 FRÄNK, DYROFF, Desperate House Guy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanoizer/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanoizer/)*

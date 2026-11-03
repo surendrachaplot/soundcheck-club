@@ -1,6 +1,6 @@
 # Mohammad Reza Mortazavi
 
-Mohammad Reza Mortazavi is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Macadam, Nantes on Sat, 7 Nov 2026.
+Mohammad Reza Mortazavi is a Experimental and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Macadam, Nantes on Sat, 7 Nov 2026.
 
 Mohammad Reza Mortazavi is an experimental and dub artist based in Iran, with 7 gigs on soundcheck across Berlin, Copenhagen, London and Nantes and 2 more. Often billed alongside Aiste Regina, Bambi (FR) and Donato Dozzy. Next up: Macadam, Nantes on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Mohammad Reza Mortazavi is an experimental and dub artist based in Iran, with 7 
 
 Aiste Regina, Bambi (FR), Donato Dozzy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mohammadrezamortazavi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mohammadrezamortazavi/)*

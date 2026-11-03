@@ -1,6 +1,6 @@
 # Central World
 
-Central World is a music venue in Bangkok with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "LOY KRATHONG ROOFTOP POOL PARTY - CENTARA GRAND BANGKOK" on Sat, 21 Nov 2026.
+Central World is a music venue in Bangkok with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "LOY KRATHONG ROOFTOP POOL PARTY - CENTARA GRAND BANGKOK" on Sat, 21 Nov 2026.
 
 Central World is a music venue in Bangkok listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 999/9 Rama I Rd, 10330, Bangkok, Thailand.
 
@@ -16,4 +16,4 @@ Central World is a music venue in Bangkok listed on soundcheck. 3 upcoming gigs.
 
 999/9 Rama I Rd, 10330, Bangkok, Thailand, Bangkok
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/central-world/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/central-world/)*

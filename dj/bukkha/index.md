@@ -1,6 +1,6 @@
 # Bukkha
 
-Bukkha is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pop-Up District, Virginia on Fri, 6 Nov 2026.
+Bukkha is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pop-Up District, Virginia on Fri, 6 Nov 2026.
 
 Bukkha is a dub and bass artist based in Spain, with 9 gigs on soundcheck across Berlin, Bucharest, Chicago and Geneva and 4 more. Often billed alongside 2krazy, ANIN and Andrae Durden. Next up: Pop-Up District, Virginia on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bukkha is a dub and bass artist based in Spain, with 9 gigs on soundcheck across
 
 2krazy, ANIN, Andrae Durden
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bukkha/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bukkha/)*

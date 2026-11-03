@@ -1,6 +1,6 @@
 # Benjamim Sallum
 
-Benjamim Sallum is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat, 7 Nov 2026.
+Benjamim Sallum is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat, 7 Nov 2026.
 
 Benjamim Sallum is a house and balearic artist, with 14 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Akin/Non Exist, Cashu and Craig Ouar. Next up: TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Benjamim Sallum is a house and balearic artist, with 14 gigs on soundcheck acros
 
 Akin/Non Exist, Cashu, Craig Ouar
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamimsallum/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamimsallum/)*

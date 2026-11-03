@@ -1,6 +1,6 @@
 # Small Crab
 
-Small Crab is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Small Crab is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Small Crab is an ambient and bass artist, with 3 gigs on soundcheck across Central, London and Seoul. Often billed alongside 69DB, A Guy Called Gerald and ABADIR. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Small Crab is an ambient and bass artist, with 3 gigs on soundcheck across Centr
 
 69DB, A Guy Called Gerald, ABADIR
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smallcrab/)*

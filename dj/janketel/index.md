@@ -1,6 +1,6 @@
 # Jan Ketel
 
-Jan Ketel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
+Jan Ketel is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at OXI, Berlin on Sat, 5 Dec 2026.
 
 Jan Ketel is a house and disco artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Siggatunez, Quadrakey and Cosmic Cherry. Next up: OXI, Berlin on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Jan Ketel is a house and disco artist based in Germany, with 7 gigs on soundchec
 
 Siggatunez, Quadrakey, Cosmic Cherry
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janketel/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janketel/)*

@@ -1,6 +1,6 @@
 # Luxi Villar
 
-Luxi Villar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at París 15, Malaga on Sat, 7 Nov 2026.
+Luxi Villar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at París 15, Malaga on Sat, 7 Nov 2026.
 
 Luxi Villar is a techno and house artist based in Spain, with 73 gigs on soundcheck across Barcelona, Berlin, Bogotá and Budapest and 11 more. Often billed alongside Fatima Hajji, Andres Campo and future.666. Next up: París 15, Malaga on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Luxi Villar is a techno and house artist based in Spain, with 73 gigs on soundch
 
 Fatima Hajji, Andres Campo, future.666
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luxivillar/)*

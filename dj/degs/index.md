@@ -1,6 +1,6 @@
 # Degs
 
-Degs is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
+Degs is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
 
 Degs is a drum & bass and jungle artist based in United Kingdom, with 86 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Berlin and 36 more. Often billed alongside Whiney, Unglued and Metrik. Next up: Mina Museum, Cluj Napoca on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Degs is a drum & bass and jungle artist based in United Kingdom, with 86 gigs on
 
 Whiney, Unglued, Metrik
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/degs/)*

@@ -1,14 +1,15 @@
 # Gossamer
 
-Gossamer is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Elektricity, Detroit on Fri, 6 Nov 2026.
+Gossamer is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Elektricity, Detroit on Fri, 6 Nov 2026.
 
-Gossamer is a house and funk / soul artist, with 11 gigs on soundcheck across Detroit and New York City. Often billed alongside Petal, allducksrock and LTE. Next up: Elektricity, Detroit on Fri 6 Nov.
+Gossamer is a house and funk / soul artist, with 12 gigs on soundcheck across Detroit, Minneapolis/St Paul and New York City. Often billed alongside Petal, allducksrock and LTE. Next up: Elektricity, Detroit on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Elektricity | Detroit |
+| Sat, 14 Nov 2026 | TBA - Gateway | Minneapolis/St Paul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Gossamer is a house and funk / soul artist, with 11 gigs on soundcheck across De
 
 Petal, allducksrock, LTE (1)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gossamer/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gossamer/)*

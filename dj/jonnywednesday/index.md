@@ -1,6 +1,6 @@
 # Jonny Wednesday
 
-Jonny Wednesday is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location (Address in Description), Amsterdam on Sat, 7 Nov 2026.
+Jonny Wednesday is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location (Address in Description), Amsterdam on Sat, 7 Nov 2026.
 
 Jonny Wednesday is a progressive house and techno artist, with 8 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Polo Alto, geri (NL) and BERTON. Next up: TBA - Secret Location (Address in Description), Amsterdam on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Jonny Wednesday is a progressive house and techno artist, with 8 gigs on soundch
 
 Polo Alto, geri (NL), BERTON
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnywednesday/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnywednesday/)*

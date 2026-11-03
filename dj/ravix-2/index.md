@@ -1,6 +1,6 @@
 # RaVix
 
-RaVix is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ÆDEN, Berlin on Sat, 7 Nov 2026.
+RaVix is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ÆDEN, Berlin on Sat, 7 Nov 2026.
 
 RaVix is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin and Dubai. Often billed alongside L.OST, Deltapeak and EVYA. Next up: ÆDEN, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ RaVix is a techno and trance artist based in Germany, with 10 gigs on soundcheck
 
 L.OST, Deltapeak, EVYA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravix-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravix-2/)*

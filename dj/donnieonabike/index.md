@@ -1,6 +1,6 @@
 # Donnie on a Bike
 
-Donnie on a Bike is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Dalston Den, London on Fri, 11 Dec 2026.
+Donnie on a Bike is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Dalston Den, London on Fri, 11 Dec 2026.
 
 Donnie on a Bike is a garage and dubstep artist, with 3 gigs on soundcheck across London. Often billed alongside Nou (UK). Next up: Dalston Den, London on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Donnie on a Bike is a garage and dubstep artist, with 3 gigs on soundcheck acros
 
 Nou (UK)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnieonabike/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnieonabike/)*

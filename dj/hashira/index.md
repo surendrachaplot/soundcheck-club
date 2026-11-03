@@ -1,6 +1,6 @@
 # Hashira
 
-Hashira is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Arch 14, London on Fri, 6 Nov 2026.
+Hashira is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Arch 14, London on Fri, 6 Nov 2026.
 
 Hashira is a house and tech house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Alex Neri, Giammarco Orsini and Hazy B. Next up: Arch 14, London on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Hashira is a house and tech house artist based in United Kingdom, with 3 gigs on
 
 Alex Neri, Giammarco Orsini, Hazy B
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hashira/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hashira/)*

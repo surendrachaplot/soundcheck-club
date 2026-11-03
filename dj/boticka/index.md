@@ -1,6 +1,6 @@
 # BOTICKA
 
-BOTICKA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Switch, South-east on Sat, 28 Nov 2026.
+BOTICKA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Switch, South-east on Sat, 28 Nov 2026.
 
 BOTICKA is a techno and hardcore artist based in France, with 15 gigs on soundcheck across Brussels, Lausanne, Marseille and Paris and 1 more. Often billed alongside David Asko, Rebekah and 6EJOU. Next up: Switch, South East on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BOTICKA is a techno and hardcore artist based in France, with 15 gigs on soundch
 
 David Asko, Rebekah, 6EJOU
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boticka/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boticka/)*

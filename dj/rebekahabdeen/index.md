@@ -1,6 +1,6 @@
 # Rebekah Abdeen
 
-Rebekah Abdeen is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Planet Wax, London on Thu, 5 Nov 2026.
+Rebekah Abdeen is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Planet Wax, London on Thu, 5 Nov 2026.
 
 Rebekah Abdeen is a bass and techno artist based in United Kingdom, with 64 gigs on soundcheck across Basel, Berlin, Brighton and Byron Bay and 12 more. Often billed alongside Denham Audio, Trudy Knight and Triple Point. Next up: Planet Wax, London on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Rebekah Abdeen is a bass and techno artist based in United Kingdom, with 64 gigs
 
 Denham Audio, Trudy Knight, Triple Point
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekahabdeen/)*

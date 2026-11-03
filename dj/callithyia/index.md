@@ -1,6 +1,6 @@
 # callithyia
 
-callithyia is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 23 Nov 2026.
+callithyia is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Mon, 23 Nov 2026.
 
 callithyia is a house and garage artist, with 2 gigs on soundcheck across Manchester and Tokyo. Often billed alongside Dictionally, Kyohei Tanaka and Lapalace. Next up: DJ Bar Bridge Shinjuku, Tokyo on Mon 23 Nov.
 
@@ -18,4 +18,4 @@ callithyia is a house and garage artist, with 2 gigs on soundcheck across Manche
 
 Dictionally, Kyohei Tanaka, Lapalace
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callithyia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callithyia/)*

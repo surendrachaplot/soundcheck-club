@@ -1,6 +1,6 @@
 # edgarwilles
 
-edgarwilles is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
+edgarwilles is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
 
 edgarwilles is a techno and drum & bass artist based in Germany, with 41 gigs on soundcheck across Berlin. Often billed alongside Upzet, KORRA and emaenu. Next up: Void Club, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ edgarwilles is a techno and drum & bass artist based in Germany, with 41 gigs on
 
 Upzet, KORRA, emaenu (2)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarwilles/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgarwilles/)*

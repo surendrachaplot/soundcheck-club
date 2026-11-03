@@ -1,8 +1,8 @@
 # STEEN
 
-STEEN is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at SILO, New York City on Tue, 3 Nov 2026.
+STEEN is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at SILO, New York City on Tue, 3 Nov 2026.
 
-STEEN is a techno and house artist based in United States of America, with 308 gigs on soundcheck across Houston, New York City and Okinawa. Often billed alongside Ben Zo, ceviché and Adam Hadari. Next up: SILO, New York City on Tue 3 Nov.
+STEEN is a techno and house artist based in United States of America, with 310 gigs on soundcheck across Houston, New York City and Okinawa. Often billed alongside Ben Zo, ceviché and Adam Hadari. Next up: SILO, New York City on Tue 3 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ STEEN is a techno and house artist based in United States of America, with 308 g
 | Wed, 11 Nov 2026 | SILO | New York City |
 | Tue, 17 Nov 2026 | SILO | New York City |
 | Wed, 18 Nov 2026 | SILO | New York City |
+| Mon, 23 Nov 2026 | SILO | New York City |
+| Tue, 24 Nov 2026 | SILO | New York City |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ STEEN is a techno and house artist based in United States of America, with 308 g
 
 Ben Zo, ceviché, Adam Hadari
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steen/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steen/)*

@@ -1,6 +1,6 @@
 # Portamento (2)
 
-Portamento (2) is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Esc Atelier Autogestito, Rome on Sat, 7 Nov 2026.
+Portamento (2) is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Esc Atelier Autogestito, Rome on Sat, 7 Nov 2026.
 
 Portamento is an experimental and bass artist based in Italy, with 17 gigs on soundcheck across Bologna, Naples and Rome. Often billed alongside Mira Vivian, Akiï and Bluemarina. Next up: TBA - Esc Atelier Autogestito, Rome on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Portamento is an experimental and bass artist based in Italy, with 17 gigs on so
 
 Mira Vivian, Akiï, Bluemarina
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/portamento-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/portamento-2/)*

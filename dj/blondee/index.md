@@ -1,6 +1,6 @@
 # Blondee
 
-Blondee is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
+Blondee is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Spindler & Klatt, Berlin on Sat, 12 Dec 2026.
 
 Blondee is a techno and electro artist based in Germany, with 2 gigs on soundcheck across Antwerp and Berlin. Often billed alongside AKA AKA, DJ Local B and DØEMP.. Next up: Spindler & Klatt, Berlin on Sat 12 Dec.
 
@@ -18,4 +18,4 @@ Blondee is a techno and electro artist based in Germany, with 2 gigs on soundche
 
 AKA AKA, DJ Local B, DØEMP.
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blondee/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blondee/)*

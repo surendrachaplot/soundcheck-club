@@ -1,6 +1,6 @@
 # HiTMiLØW
 
-HiTMiLØW is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 14 Nov 2026.
+HiTMiLØW is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Sat, 14 Nov 2026.
 
 HiTMiLØW is a techno and trance artist based in Germany, with 102 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 25 more. Often billed alongside Cleopard2000, Elotrance and Justin Tinderdate. Next up: Zinkbad Eventhalle, Zurich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ HiTMiLØW is a techno and trance artist based in Germany, with 102 gigs on sound
 
 Cleopard2000, Elotrance, Justin Tinderdate
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hitmilow/)*

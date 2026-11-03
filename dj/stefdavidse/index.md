@@ -1,6 +1,6 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Glamorama, Melbourne on Fri, 13 Nov 2026.
+Stef Davidse is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Glamorama, Melbourne on Fri, 13 Nov 2026.
 
 Stef Davidse is a house and tech house artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Cardiff and 17 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: Glamorama, Melbourne on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 103 gig
 
 Ryan Resso, Chopper (UK), FINKY
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefdavidse/)*

@@ -1,6 +1,6 @@
 # Laak
 
-Laak is a music venue in The Hague with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Club Night" on Sat, 7 Nov 2026.
+Laak is a music venue in The Hague with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Club Night" on Sat, 7 Nov 2026.
 
 Laak is a music venue in The Hague listed on soundcheck. 6 upcoming gigs, with line-ups including Aurora Halal, Carl H, Mia Cecille and Otis (BE) and 2 more. See dates, start times and who's playing. Lulofstraat 59, 2521 AL Den Haag.
 
@@ -19,4 +19,4 @@ Laak is a music venue in The Hague listed on soundcheck. 6 upcoming gigs, with l
 
 Lulofstraat 59, 2521 AL Den Haag, The Hague
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/laak/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/thehague/club/laak/)*

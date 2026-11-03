@@ -1,6 +1,6 @@
 # Wilba
 
-Wilba is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
+Wilba is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
 
 Wilba is a tech house and house artist based in United Kingdom, with 39 gigs on soundcheck across Barcelona, Brighton, Hamburg and Leeds and 5 more. Often billed alongside Calla, Jive Talk and Muster Men. Next up: Patterns, Brighton on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Wilba is a tech house and house artist based in United Kingdom, with 39 gigs on 
 
 Calla, Jive Talk, Muster Men
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilba/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wilba/)*

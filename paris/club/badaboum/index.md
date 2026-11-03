@@ -1,6 +1,6 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Club — DH2: Pitchfork Music Festival Paris 2026" on Thu, 5 Nov 2026.
+Badaboum is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Club — DH2: Pitchfork Music Festival Paris 2026" on Thu, 5 Nov 2026.
 
 Badaboum is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including bonpublic, DJ Physical, dj sweet6teen and Domi (FR) and 2 more. See dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
@@ -21,4 +21,4 @@ Badaboum is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with l
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

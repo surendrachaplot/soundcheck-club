@@ -1,6 +1,6 @@
 # Acid Mike
 
-Acid Mike is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Joey Smalls, Melbourne on Sat, 14 Nov 2026.
+Acid Mike is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Joey Smalls, Melbourne on Sat, 14 Nov 2026.
 
 Acid Mike is a house and electronica artist, with 2 gigs on soundcheck across Lisbon and Melbourne. Often billed alongside Gost'em, Nikko and canna. Next up: Joey Smalls, Melbourne on Sat 14 Nov.
 
@@ -18,4 +18,4 @@ Acid Mike is a house and electronica artist, with 2 gigs on soundcheck across Li
 
 Gost'em, Nikko, canna
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidmike/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidmike/)*

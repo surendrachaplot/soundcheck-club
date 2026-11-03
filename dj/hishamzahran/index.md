@@ -1,6 +1,6 @@
 # Hisham Zahran
 
-Hisham Zahran is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Hisham Zahran is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Hisham Zahran is a techno artist based in Egypt, with 3 gigs on soundcheck across Egypt, Los Angeles and Tanzania. Often billed alongside Agha, Andrey Pushkarev and Baka G. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -19,4 +19,4 @@ Hisham Zahran is a techno artist based in Egypt, with 3 gigs on soundcheck acros
 
 Agha, Andrey Pushkarev, Baka G
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hishamzahran/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hishamzahran/)*

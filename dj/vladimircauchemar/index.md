@@ -1,6 +1,6 @@
 # Vladimir Cauchemar
 
-Vladimir Cauchemar is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at D! Club, Lausanne on Fri, 27 Nov 2026.
+Vladimir Cauchemar is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at D! Club, Lausanne on Fri, 27 Nov 2026.
 
 Vladimir Cauchemar is a techno and electro artist based in France, with 49 gigs on soundcheck across Barcelona, Bordeaux, Brussels and Geneva and 11 more. Often billed alongside LESSSS, billx and Angerfist. Next up: D! Club, Lausanne on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Vladimir Cauchemar is a techno and electro artist based in France, with 49 gigs 
 
 LESSSS, billx, Angerfist
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimircauchemar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimircauchemar/)*

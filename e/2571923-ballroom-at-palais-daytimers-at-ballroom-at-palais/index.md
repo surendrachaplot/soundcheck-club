@@ -1,6 +1,6 @@
 # Ballroom at Palais: Daytimers at Ballroom at Palais
 
-Ballroom at Palais: Daytimers on Fri 20 Nov, London. 1 artist: Bindās. See the line-up on soundcheck.
+Ballroom at Palais: Daytimers on Fri 20 Nov, London. 2 artists: Bindās and vish. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Ballroom at Palais: Daytimers on Fri 20 Nov, London. 1 artist: Bindās. See the 
 ## Line-up
 
 - Bindās
+- vish
 
 *Source: [soundcheck](https://soundcheck.club/e/2571923-ballroom-at-palais-daytimers-at-ballroom-at-palais/)*

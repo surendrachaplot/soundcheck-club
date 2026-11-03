@@ -1,6 +1,6 @@
 # Chris Carrier
 
-Chris Carrier is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - 75013, Paris on Sat, 14 Nov 2026.
+Chris Carrier is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - 75013, Paris on Sat, 14 Nov 2026.
 
 Chris Carrier is a house and tech house artist based in France, with 7 gigs on soundcheck across Berlin, Liverpool, Lyon and Paris. Often billed alongside Le Loup, Alexis Namur and Alien Communications. Next up: TBA - 75013, Paris on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Chris Carrier is a house and tech house artist based in France, with 7 gigs on s
 
 Le Loup, Alexis Namur, Alien Communications
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscarrier/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscarrier/)*

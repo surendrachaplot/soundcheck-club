@@ -1,6 +1,6 @@
 # 4Pleasure
 
-4Pleasure is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Esbirra Ibiza, Ibiza on Sat, 7 Nov 2026.
+4Pleasure is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Esbirra Ibiza, Ibiza on Sat, 7 Nov 2026.
 
 4Pleasure is a house and tech house artist based in Spain, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 2 more. Often billed alongside Angel Sani, Ion Pananides and Alvaro Medina. Next up: Esbirra Ibiza, Ibiza on Sat 7 Nov.
 
@@ -26,4 +26,4 @@
 
 Angel Sani, Ion Pananides, Alvaro Medina
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4pleasure/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/4pleasure/)*

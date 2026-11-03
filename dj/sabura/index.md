@@ -1,6 +1,6 @@
 # Sabura
 
-Sabura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - KARREE, Fahnenbergplatz 3, 79098 Freiburg, Freiburg on Sat, 7 Nov 2026.
+Sabura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - KARREE, Fahnenbergplatz 3, 79098 Freiburg, Freiburg on Sat, 7 Nov 2026.
 
 Sabura is a techno and house artist based in Germany, with 112 gigs on soundcheck across Berlin, Cologne, Frankfurt and Freiburg and 12 more. Often billed alongside Maurice Mino, Konfusia and Sin:port. Next up: TBA - KARREE, Fahnenbergplatz 3, 79098 Freiburg, Freiburg on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Sabura is a techno and house artist based in Germany, with 112 gigs on soundchec
 
 Maurice Mino, Konfusia, Sin:port
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabura/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabura/)*

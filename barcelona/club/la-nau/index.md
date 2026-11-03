@@ -1,6 +1,6 @@
 # La Nau
 
-La Nau is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Broke Carrey + Proyecto Gomez Casa" on Wed, 18 Nov 2026.
+La Nau is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Broke Carrey + Proyecto Gomez Casa" on Wed, 18 Nov 2026.
 
 La Nau is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Breixo Martinez and Ricky Gamez. See dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
 
@@ -15,4 +15,4 @@ La Nau is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with
 
 Carrer d'Àlaba, 30, 08005 Barcelona, Barcelona
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-nau/)*

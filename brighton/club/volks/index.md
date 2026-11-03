@@ -1,6 +1,6 @@
 # Volks
 
-Volks is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "The Cost of Raving presents: Altern 8 and Dom & Roland" on Fri, 6 Nov 2026.
+Volks is a music venue in Brighton with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "The Cost of Raving presents: Altern 8 and Dom & Roland" on Fri, 6 Nov 2026.
 
 Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with line-ups including Altern-8, Benny L, Calyx and Cleveland Watkiss and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
@@ -23,4 +23,4 @@ Volks is a music venue in Brighton listed on soundcheck. 10 upcoming gigs, with 
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

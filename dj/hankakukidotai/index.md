@@ -1,6 +1,6 @@
 # 反核機動隊
 
-反核機動隊 is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Shinjuku Duusraa, Tokyo on Tue, 3 Nov 2026.
+反核機動隊 is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Shinjuku Duusraa, Tokyo on Tue, 3 Nov 2026.
 
 反核機動隊 is a jungle and drum & bass artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside ALPHA, Acrocanthosaurus and DUCK. Next up: Shinjuku Duusraa, Tokyo on Tue 3 Nov.
 
@@ -25,4 +25,4 @@
 
 ALPHA (4), Acrocanthosaurus, DUCK
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hankakukidotai/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hankakukidotai/)*

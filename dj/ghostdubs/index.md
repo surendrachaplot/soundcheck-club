@@ -1,8 +1,8 @@
 # Ghost Dubs
 
-Ghost Dubs is a Dub and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Ghost Dubs is a Dub and Experimental artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
-Ghost Dubs is a dub and techno artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Basel, Berlin and Brighton and 15 more. Often billed alongside The Bug, K Wata and Ayanna Heaven. Next up: public records, New York City on Mon 9 Nov.
+Ghost Dubs is a dub and experimental artist based in United Kingdom, with 26 gigs on soundcheck across Barcelona, Basel, Berlin and Brighton and 15 more. Often billed alongside The Bug, K Wata and Ayanna Heaven. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ghost Dubs is a dub and techno artist based in United Kingdom, with 25 gigs on s
 | Sun, 15 Nov 2026 | public records | New York City |
 | Sat, 28 Nov 2026 | Open Ground | Wuppertal |
 | Sat, 12 Dec 2026 | The Lubber Fiend | Newcastle |
+| Sun, 13 Dec 2026 | Cu | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Ghost Dubs is a dub and techno artist based in United Kingdom, with 25 gigs on s
 
 The Bug, K Wata, Ayanna Heaven
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostdubs/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghostdubs/)*

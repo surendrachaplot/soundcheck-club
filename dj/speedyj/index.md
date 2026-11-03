@@ -1,6 +1,6 @@
 # Speedy J
 
-Speedy J is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Clwd, Sofia on Sat, 7 Nov 2026.
+Speedy J is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Clwd, Sofia on Sat, 7 Nov 2026.
 
 Speedy J is a techno and house artist based in Netherlands, with 152 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside SPEEDY, Chris Liebing and FJAAK. Next up: Clwd, Sofia on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Speedy J is a techno and house artist based in Netherlands, with 152 gigs on sou
 
 SPEEDY, Chris Liebing, FJAAK
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speedyj/)*

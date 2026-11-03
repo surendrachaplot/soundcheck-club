@@ -1,0 +1,29 @@
+# Neev
+
+Neev is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Croft, Bristol on Tue, 3 Nov 2026.
+
+Neev is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London and 1 more. Often billed alongside Bateman, Kyle McGuigan and Frankie Elyse. Next up: The Croft, Bristol on Tue 3 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 3 Nov 2026 | The Croft | Bristol |
+| Wed, 4 Nov 2026 | The Croft | Bristol |
+
+## Recently played
+
+- The Boxing Club, Bristol · Sat, 31 Oct 2026
+- The Croft, Bristol · Tue, 27 Oct 2026
+- TBA - North London Boat, London · Sat, 3 Oct 2026
+- Gaffe, London · Fri, 2 Oct 2026
+- The Croft, Bristol · Fri, 18 Sept 2026
+- The Mash House, Edinburgh · Sat, 27 Jun 2026
+- Allenford Farms, Southampton · Fri, 26 Jun 2026
+- The Crown, Bristol · Tue, 12 May 2026
+
+## Shares bills with
+
+Bateman, Kyle McGuigan, Frankie Elyse
+
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neev/)*

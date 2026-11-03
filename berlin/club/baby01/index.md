@@ -1,6 +1,6 @@
 # BABY01
 
-BABY01 is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "klarobsqr presents: EMBER" on Sat, 7 Nov 2026.
+BABY01 is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "klarobsqr presents: EMBER" on Sat, 7 Nov 2026.
 
 BABY01 is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Acidic Juice, AINA.KRU, anna andersrum and ĀTMĀN and 2 more. See dates, start times and who's playing. Markgrafendamm 1, 10245 Berlin, Germany.
 
@@ -17,4 +17,4 @@ BABY01 is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with li
 
 Markgrafendamm 1, 10245 Berlin, Germany, Berlin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/baby01/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/baby01/)*

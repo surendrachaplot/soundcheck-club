@@ -1,6 +1,6 @@
 # Sóley
 
-Sóley is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Inkonst, Malmo on Thu, 12 Nov 2026.
+Sóley is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Inkonst, Malmo on Thu, 12 Nov 2026.
 
 Sóley is an experimental and electronica artist based in Georgia, with 4 gigs on soundcheck across Malmo and Tbilisi. Often billed alongside Citizens Union, Memotech and Natuta. Next up: Inkonst, Malmo on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Sóley is an experimental and electronica artist based in Georgia, with 4 gigs o
 
 Citizens Union, Memotech, Natuta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soley-ge/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soley-ge/)*

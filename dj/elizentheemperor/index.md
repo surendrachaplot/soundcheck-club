@@ -1,14 +1,15 @@
 # ELIZEN THE EMPEROR
 
-ELIZEN THE EMPEROR is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Odonien, Cologne on Fri, 6 Nov 2026.
+ELIZEN THE EMPEROR is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Odonien, Cologne on Fri, 6 Nov 2026.
 
-ELIZEN THE EMPEROR is a house and downtempo artist based in Germany, with 63 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 5 more. Often billed alongside Alma Linda, Foolik and Peter Schumann. Next up: Odonien, Cologne on Fri 6 Nov.
+ELIZEN THE EMPEROR is a house and techno artist based in Germany, with 64 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dresden and 5 more. Often billed alongside Alma Linda, Foolik and Peter Schumann. Next up: Odonien, Cologne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Odonien | Cologne |
+| Sat, 7 Nov 2026 | Jonny Knüppel | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ELIZEN THE EMPEROR is a house and downtempo artist based in Germany, with 63 gig
 
 Alma Linda, Foolik, Peter Schumann
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elizentheemperor/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elizentheemperor/)*

@@ -1,6 +1,6 @@
 # DJ_Dave
 
-DJ_Dave is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Outset, Chicago on Sat, 14 Nov 2026.
+DJ_Dave is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Outset, Chicago on Sat, 14 Nov 2026.
 
 DJ_Dave is a techno and electro artist based in United States of America, with 29 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 9 more. Often billed alongside Alice Longyu Gao, horsegiirL and B0YG1RL. Next up: Outset, Chicago on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ DJ_Dave is a techno and electro artist based in United States of America, with 2
 
 Alice Longyu Gao, horsegiirL, B0YG1RL
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj_dave/)*

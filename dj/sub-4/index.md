@@ -1,6 +1,6 @@
 # Sub (TW)
 
-Sub (TW) is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Final, Taipei on Sat, 7 Nov 2026.
+Sub (TW) is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Final, Taipei on Sat, 7 Nov 2026.
 
 Sub (TW) is a techno and minimal techno artist based in Taiwan, with 13 gigs on soundcheck across Osaka, Seoul and Taipei. Often billed alongside HSINN, Koliseum and Klosing. Next up: Final, Taipei on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sub (TW) is a techno and minimal techno artist based in Taiwan, with 13 gigs on 
 
 HSINN, Koliseum, Klosing
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sub-4/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sub-4/)*

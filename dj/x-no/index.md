@@ -1,6 +1,6 @@
 # X-No
 
-X-No is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Berlin bar, Colombia on Thu, 5 Nov 2026.
+X-No is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Berlin bar, Colombia on Thu, 5 Nov 2026.
 
 X-No is a house and italo disco artist based in Colombia, with 6 gigs on soundcheck across Colombia and Medellin. Often billed alongside Dantral, GIORGIO (IT) and Sunny. Next up: Berlin bar, Colombia on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ X-No is a house and italo disco artist based in Colombia, with 6 gigs on soundch
 
 Dantral, GIORGIO (IT), Sunny
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-no/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-no/)*

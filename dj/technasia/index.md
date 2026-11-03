@@ -1,13 +1,14 @@
 # Technasia
 
-Technasia is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Comfort Zone, Toronto on Sat, 19 Dec 2026.
+Technasia is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Edge Miami, Miami on Sat, 7 Nov 2026.
 
-Technasia is a tech house and house artist based in France, with 56 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 18 more. Often billed alongside Lexlay, Carlo Lio and Dub Tiger. Next up: The Comfort Zone, Toronto on Sat 19 Dec.
+Technasia is a tech house and house artist based in France, with 57 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 18 more. Often billed alongside Lexlay, Carlo Lio and Dub Tiger. Next up: Edge Miami, Miami on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Edge Miami | Miami |
 | Sat, 19 Dec 2026 | The Comfort Zone | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ Technasia is a tech house and house artist based in France, with 56 gigs on soun
 
 Lexlay, Carlo Lio, Dub Tiger
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technasia/)*

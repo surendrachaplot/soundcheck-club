@@ -1,6 +1,6 @@
 # Amigo
 
-Amigo is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Headspace & Footloose Invite - Total Science, Jubei, submarine + more" on Sat, 7 Nov 2026.
+Amigo is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Headspace & Footloose Invite - Total Science, Jubei, submarine + more" on Sat, 7 Nov 2026.
 
 Amigo is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line-ups including Akilla, Arian Zand, Bafana and Be and 2 more. See dates, start times and who's playing. Stapelplein 31, 9000 Gent, Belgium.
 
@@ -19,4 +19,4 @@ Amigo is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line
 
 Stapelplein 31, 9000 Gent, Belgium, Ghent
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/amigo/)*

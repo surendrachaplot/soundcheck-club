@@ -1,6 +1,6 @@
 # Varanasi
 
-Varanasi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ÆDEN, Berlin on Wed, 4 Nov 2026.
+Varanasi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ÆDEN, Berlin on Wed, 4 Nov 2026.
 
 Varanasi is a techno and house artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Brighton, London and Manchester. Often billed alongside Himboy, RayRay and SBBS. Next up: ÆDEN, Berlin on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Varanasi is a techno and house artist based in United Kingdom, with 40 gigs on s
 
 Himboy, RayRay, SBBS
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varanasi/)*

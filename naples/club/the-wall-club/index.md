@@ -1,6 +1,6 @@
 # The Wall Club
 
-The Wall Club is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Tendenza: Benito Rispoli 30th Birthday Celebration" on Sat, 7 Nov 2026.
+The Wall Club is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Tendenza: Benito Rispoli 30th Birthday Celebration" on Sat, 7 Nov 2026.
 
 The Wall Club is a music venue in Naples listed on soundcheck. 5 upcoming gigs, with line-ups including Luca Agnelli, Mad Dog, PETDuo and Rispoli Benito. See dates, start times and who's playing. E1, 80143 Napoli NA, Italy.
 
@@ -18,4 +18,4 @@ The Wall Club is a music venue in Naples listed on soundcheck. 5 upcoming gigs, 
 
 E1, 80143 Napoli NA, Italy, Naples
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/the-wall-club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/the-wall-club/)*

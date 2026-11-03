@@ -1,6 +1,6 @@
 # Schlachthof Wiesbaden
 
-Schlachthof Wiesbaden is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "KOLLEKTIV FÜNFSINN x NEON DREAMS COLOGNE pres. HOTPOT" on Fri, 6 Nov 2026.
+Schlachthof Wiesbaden is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "KOLLEKTIV FÜNFSINN x NEON DREAMS COLOGNE pres. HOTPOT" on Fri, 6 Nov 2026.
 
 Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, with line-ups including assena, DJ DRECKISCH, JA SAFE and LSG and 2 more. See dates, start times and who's playing. Murnaustraße 1, 65189 Wiesbaden.
 
@@ -16,4 +16,4 @@ Schlachthof Wiesbaden is a music venue in Frankfurt listed on soundcheck. 3 upco
 
 Murnaustraße 1, 65189 Wiesbaden, Frankfurt
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/schlachthof-wiesbaden/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/schlachthof-wiesbaden/)*

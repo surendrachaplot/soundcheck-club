@@ -1,6 +1,6 @@
 # Pisco Bar
 
-Pisco Bar is a music venue in Kuala Lumpur with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Ohrwurm presents Tigerhead (Bpitch / 66.Circuit, DE)" on Fri, 6 Nov 2026.
+Pisco Bar is a music venue in Kuala Lumpur with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Ohrwurm presents Tigerhead (Bpitch / 66.Circuit, DE)" on Fri, 6 Nov 2026.
 
 Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 3 upcoming gigs, with line-ups including Alam, JO (MY), Meliha and Odd (MY) and 2 more. See dates, start times and who's playing. 29 Jalan Mesui, Changkat.
 
@@ -16,4 +16,4 @@ Pisco Bar is a music venue in Kuala Lumpur listed on soundcheck. 3 upcoming gigs
 
 29 Jalan Mesui, Changkat, Kuala Lumpur
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/kualalumpur/club/pisco-bar/)*

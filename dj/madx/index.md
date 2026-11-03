@@ -1,6 +1,6 @@
 # MAD X
 
-MAD X is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at DeTour, Tokyo on Tue, 3 Nov 2026.
+MAD X is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at DeTour, Tokyo on Tue, 3 Nov 2026.
 
 MAD X is a pop and house artist based in Italy, with 4 gigs on soundcheck across Ibiza, Seoul and Tokyo. Often billed alongside DOBERMAN, SKiiDA and Tao. Next up: DeTour, Tokyo on Tue 3 Nov.
 
@@ -20,4 +20,4 @@ MAD X is a pop and house artist based in Italy, with 4 gigs on soundcheck across
 
 DOBERMAN, SKiiDA, Tao (2)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madx/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madx/)*

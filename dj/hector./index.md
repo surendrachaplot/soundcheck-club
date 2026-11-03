@@ -1,6 +1,6 @@
 # Hector.
 
-Hector. is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 14 Nov 2026.
+Hector. is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 14 Nov 2026.
 
 Hector. is a minimal and house artist, with 3 gigs on soundcheck across London. Often billed alongside BobbyG, Admo and Flint. Next up: Avalon Cafe Bermondsey, London on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Hector. is a minimal and house artist, with 3 gigs on soundcheck across London. 
 
 BobbyG, Admo, Flint
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hector./)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hector./)*

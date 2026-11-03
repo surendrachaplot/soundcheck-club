@@ -1,6 +1,6 @@
 # Sasha Nevolin
 
-Sasha Nevolin is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bar v Krymský, Prague on Fri, 6 Nov 2026.
+Sasha Nevolin is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bar v Krymský, Prague on Fri, 6 Nov 2026.
 
 Sasha Nevolin is a house and club artist, with 50 gigs on soundcheck across Berlin and Prague. Often billed alongside Chep, Alex Neivel and Olinstvi. Next up: Bar v Krymský, Prague on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sasha Nevolin is a house and club artist, with 50 gigs on soundcheck across Berl
 
 Chep, Alex Neivel, Olinstvi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashanevolin/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashanevolin/)*

@@ -1,6 +1,6 @@
 # Loyboy
 
-Loyboy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mdlr, Singapore on Sat, 14 Nov 2026.
+Loyboy is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mdlr, Singapore on Sat, 14 Nov 2026.
 
 Loyboy is a house and techno artist based in Singapore, with 68 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 4 more. Often billed alongside Dangdude, Emma SS and VIX. Next up: Mdlr, Singapore on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Loyboy is a house and techno artist based in Singapore, with 68 gigs on soundche
 
 Dangdude, Emma SS, VIX (1)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loyboy/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loyboy/)*

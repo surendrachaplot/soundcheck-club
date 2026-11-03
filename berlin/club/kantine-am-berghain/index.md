@@ -1,6 +1,6 @@
 # Kantine am Berghain
 
-Kantine am Berghain is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Constellation Records: Radwan Ghazi Moumneh & Frédéric D. Oberland x Jessica Moss" on Thu, 5 Nov 2026.
+Kantine am Berghain is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Constellation Records: Radwan Ghazi Moumneh & Frédéric D. Oberland x Jessica Moss" on Thu, 5 Nov 2026.
 
 Kantine am Berghain is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Oxley, Camilla Tarantino, Fleetmac Wood and Jerusalem In My Heart and 2 more. See dates, start times and who's playing. 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany.
 
@@ -20,4 +20,4 @@ Kantine am Berghain is a music venue in Berlin listed on soundcheck. 7 upcoming 
 
 70 Am Wriezener Bahnhof; Friedrichshain; 10243 Berlin; Germany, Berlin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kantine-am-berghain/)*

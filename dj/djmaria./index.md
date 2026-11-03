@@ -1,6 +1,6 @@
 # DJ MARIA.
 
-DJ MARIA. is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at VENT, Tokyo on Fri, 13 Nov 2026.
+DJ MARIA. is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at VENT, Tokyo on Fri, 13 Nov 2026.
 
 DJ MARIA. is a techno and house artist based in Japan, with 165 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 42 more. Often billed alongside DJ Nobu, DJ Yazi and Haruka. Next up: VENT, Tokyo on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ DJ MARIA. is a techno and house artist based in Japan, with 165 gigs on soundche
 
 DJ Nobu, DJ Yazi, Haruka
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmaria./)*

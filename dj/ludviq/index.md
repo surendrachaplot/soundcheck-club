@@ -1,6 +1,6 @@
 # Ludviq
 
-Ludviq is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Sameheads, Berlin on Thu, 5 Nov 2026.
+Ludviq is a House and Acid artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sameheads, Berlin on Thu, 5 Nov 2026.
 
 Ludviq is a house and acid artist based in Mexico, with 66 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 5 more. Often billed alongside Heinech, sergione and Intruso. Next up: Sameheads, Berlin on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Ludviq is a house and acid artist based in Mexico, with 66 gigs on soundcheck ac
 
 Heinech, sergione, Intruso
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ludviq/)*

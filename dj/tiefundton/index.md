@@ -1,6 +1,6 @@
 # Tiefundton
 
-Tiefundton is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
+Tiefundton is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
 
 Tiefundton is a techno and trance artist based in Germany, with 37 gigs on soundcheck across Augsburg, Berlin, Cologne and Dortmund / Essen and 7 more. Often billed alongside TAKTSTÖRER, Patrick Scuro and Thomas Lizzara. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Tiefundton is a techno and trance artist based in Germany, with 37 gigs on sound
 
 TAKTSTÖRER, Patrick Scuro, Thomas Lizzara
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*

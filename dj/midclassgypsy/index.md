@@ -1,6 +1,6 @@
 # midclassgypsy
 
-midclassgypsy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Fri, 6 Nov 2026.
+midclassgypsy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Fri, 6 Nov 2026.
 
 midclassgypsy is a house and disco artist, with 5 gigs on soundcheck across Bali, London, Seoul and Tbilisi. Often billed alongside Gibs, ANDOW and Adrien Calvet. Next up: TBA - Grand Hyatt JJ Mahoney's, Seoul on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ midclassgypsy is a house and disco artist, with 5 gigs on soundcheck across Bali
 
 Gibs (2), ANDOW, Adrien Calvet
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midclassgypsy/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midclassgypsy/)*

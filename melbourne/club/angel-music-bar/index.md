@@ -1,6 +1,6 @@
 # Angel Music Bar
 
-Angel Music Bar is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "NOW.HERE.THIS. x Angel Music Bar" on Tue, 3 Nov 2026.
+Angel Music Bar is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "NOW.HERE.THIS. x Angel Music Bar" on Tue, 3 Nov 2026.
 
 Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including afreckle, Bappy, Chilled Red and Colette and 2 more. See dates, start times and who's playing. 12 Bourke Street Melbourne, Victoria, Australia.
 
@@ -19,4 +19,4 @@ Angel Music Bar is a music venue in Melbourne listed on soundcheck. 6 upcoming g
 
 12 Bourke Street Melbourne, Victoria, Australia, Melbourne
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/angel-music-bar/)*

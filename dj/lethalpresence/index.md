@@ -1,6 +1,6 @@
 # Lethal presence
 
-Lethal presence is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - GRIMORIO UNDERGROUND, Guadalajara on Fri, 20 Nov 2026.
+Lethal presence is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - GRIMORIO UNDERGROUND, Guadalajara on Fri, 20 Nov 2026.
 
 Lethal presence is a hardcore and techno artist based in Mexico, with 3 gigs on soundcheck across Guadalajara. Often billed alongside XOVOKY. Next up: TBA - GRIMORIO UNDERGROUND, Guadalajara on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Lethal presence is a hardcore and techno artist based in Mexico, with 3 gigs on 
 
 XOVOKY
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lethalpresence/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lethalpresence/)*

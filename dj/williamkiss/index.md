@@ -1,6 +1,6 @@
 # William Kiss
 
-William Kiss is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tigres de la Noche, Washington DC on Sat, 21 Nov 2026.
+William Kiss is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Tigres de la Noche, Washington DC on Sat, 21 Nov 2026.
 
 William Kiss is a house and techno artist based in Australia, with 59 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 17 more. Often billed alongside Jordan Brando, Luke Alessi and Baron Von Trax. Next up: Tigres de la Noche, Washington DC on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ William Kiss is a house and techno artist based in Australia, with 59 gigs on so
 
 Jordan Brando, Luke Alessi, Baron Von Trax
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*

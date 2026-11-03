@@ -1,6 +1,6 @@
 # New Flesh (2)
 
-New Flesh (2) is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
+New Flesh (2) is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
 New Flesh is an experimental and techno artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Toni S, AAKAARA and TOOTHTAXI. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ New Flesh is an experimental and techno artist based in United Kingdom, with 22 
 
 Toni S, AAKAARA, TOOTHTAXI
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/newflesh-2/)*

@@ -1,6 +1,6 @@
 # The Grafton Arms
 
-The Grafton Arms is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Bragolin, Carrellee & Strange Futures live" on Fri, 13 Nov 2026.
+The Grafton Arms is a music venue in Manchester with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Bragolin, Carrellee & Strange Futures live" on Fri, 13 Nov 2026.
 
 The Grafton Arms is a music venue in Manchester listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 27 Grafton St, Manchester M13 9WU.
 
@@ -16,4 +16,4 @@ The Grafton Arms is a music venue in Manchester listed on soundcheck. 3 upcoming
 
 27 Grafton St, Manchester M13 9WU, Manchester
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-grafton-arms/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-grafton-arms/)*

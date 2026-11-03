@@ -1,6 +1,6 @@
 # Exchange LA
 
-Exchange LA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Massano with Special Guest: Township Rebellion [360° Set]" on Sat, 14 Nov 2026.
+Exchange LA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Massano with Special Guest: Township Rebellion [360° Set]" on Sat, 14 Nov 2026.
 
 Exchange LA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Massano and Township Rebellion. See dates, start times and who's playing. 618 S. Spring St., Los Angeles, CA 90014.
 
@@ -15,4 +15,4 @@ Exchange LA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gig
 
 618 S. Spring St., Los Angeles, CA 90014, Los Angeles
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/exchange-la/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/exchange-la/)*

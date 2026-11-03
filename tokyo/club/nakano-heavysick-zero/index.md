@@ -1,14 +1,13 @@
 # Nakano Heavysick Zero
 
-Nakano Heavysick Zero is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "R A D I C A L S E S S I O N" on Mon, 2 Nov 2026.
+Nakano Heavysick Zero is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "GRIT - グリット -" on Sat, 7 Nov 2026.
 
-Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Dev/Null, GATERROR, goreshit and Goth-Trad and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
+Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including Dev/Null, GATERROR, goreshit and Goth-Trad and 2 more. See dates, start times and who's playing. 5Chome-41-8,Nakano,Nakano-ku,Tokyo.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | R A D I C A L S E S S I O N | haLuka |
 | Sat, 7 Nov 2026 | GRIT - グリット - |  |
 | Sat, 14 Nov 2026 | TECHNO ALLIANCE MEETING 3 | Satoshi Imano, Takayuki Kamiya, Yebisu303 |
 | Sun, 15 Nov 2026 | Loud Roots 22nd Anniversary |  |
@@ -20,4 +19,4 @@ Nakano Heavysick Zero is a music venue in Tokyo listed on soundcheck. 7 upcoming
 
 5Chome-41-8,Nakano,Nakano-ku,Tokyo, Tokyo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/nakano-heavysick-zero/)*

@@ -1,6 +1,6 @@
 # Draw 4
 
-Draw 4 is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Milneys, Melbourne on Sat, 14 Nov 2026.
+Draw 4 is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Milneys, Melbourne on Sat, 14 Nov 2026.
 
 Draw 4 is an electronica and tech house artist based in Australia, with 3 gigs on soundcheck across Melbourne. Often billed alongside AK-97, Bby Cass and Frizzy. Next up: Milneys, Melbourne on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Draw 4 is an electronica and tech house artist based in Australia, with 3 gigs o
 
 AK-97, Bby Cass, Frizzy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/draw4/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/draw4/)*

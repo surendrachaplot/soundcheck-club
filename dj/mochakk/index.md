@@ -1,6 +1,6 @@
 # Mochakk
 
-Mochakk is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Thu, 31 Dec 2026.
+Mochakk is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Thu, 31 Dec 2026.
 
 Mochakk is a house and tech house artist based in Brazil, with 178 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 50 more. Often billed alongside Seth Troxler, Chloé Caillet and DJ Tennis. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Mochakk is a house and tech house artist based in Brazil, with 178 gigs on sound
 
 Seth Troxler, Chloé Caillet, DJ Tennis
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mochakk/)*

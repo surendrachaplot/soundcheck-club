@@ -1,6 +1,6 @@
 # fedelo
 
-fedelo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at L'after Club, Geneva on Fri, 27 Nov 2026.
+fedelo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at L'after Club, Geneva on Fri, 27 Nov 2026.
 
 fedelo is a techno and industrial artist based in Switzerland, with 3 gigs on soundcheck across Geneva and Lausanne. Often billed alongside Anime, BOTICKA and Blaame. Next up: L'after Club, Geneva on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ fedelo is a techno and industrial artist based in Switzerland, with 3 gigs on so
 
 Anime, BOTICKA, Blaame
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fedelo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fedelo/)*

@@ -1,6 +1,6 @@
 # milène
 
-milène is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Silbergold, Frankfurt on Sat, 7 Nov 2026.
+milène is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Silbergold, Frankfurt on Sat, 7 Nov 2026.
 
 milène is a house and trance artist based in Germany, with 5 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Kassel. Often billed alongside Filou (DE), Anna Ullrich and BabaBass3000. Next up: Silbergold, Frankfurt on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ milène is a house and trance artist based in Germany, with 5 gigs on soundcheck
 
 Filou (DE), Anna Ullrich, BabaBass3000
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milene/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milene/)*

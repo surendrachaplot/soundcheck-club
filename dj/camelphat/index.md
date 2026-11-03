@@ -1,6 +1,6 @@
 # CamelPhat
 
-CamelPhat is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Royale, Boston on Fri, 6 Nov 2026.
+CamelPhat is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Royale, Boston on Fri, 6 Nov 2026.
 
 CamelPhat is a techno and house artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 53 more. Often billed alongside Layla Benitez, Massano and Hot Since 82. Next up: Royale, Boston on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ CamelPhat is a techno and house artist based in United Kingdom, with 233 gigs on
 
 Layla Benitez, Massano, Hot Since 82
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camelphat/)*

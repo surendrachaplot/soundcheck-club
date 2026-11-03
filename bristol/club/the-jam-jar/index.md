@@ -1,6 +1,6 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Girls of the Internet (Live)" on Fri, 6 Nov 2026.
+The Jam Jar is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Girls of the Internet (Live)" on Fri, 6 Nov 2026.
 
 The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including 2 Bad Mice, Abby Daze, Etch and Girls of the Internet and 2 more. See dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
@@ -16,4 +16,4 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, w
 
 Little Ann St, Bristol BS2 9EB, United Kingdom, Bristol
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*

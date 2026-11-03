@@ -1,6 +1,6 @@
 # Rerïck
 
-Rerïck is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
+Rerïck is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Siggi, Brandenburg on Sat, 28 Nov 2026.
 
 Rerïck is a techno and ghetto tech artist based in Germany, with 10 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside LštB, E.P.L.E. and Eluzid. Next up: Siggi, Brandenburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rerïck is a techno and ghetto tech artist based in Germany, with 10 gigs on sou
 
 LštB, E.P.L.E., Eluzid
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rerick/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rerick/)*

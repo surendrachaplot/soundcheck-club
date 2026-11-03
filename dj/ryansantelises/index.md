@@ -1,6 +1,6 @@
 # Ryan Santelises
 
-Ryan Santelises is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Boho House Wynwood, Miami on Sat, 7 Nov 2026.
+Ryan Santelises is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Boho House Wynwood, Miami on Sat, 7 Nov 2026.
 
 Ryan Santelises is a deep house and afro house artist based in United States of America, with 8 gigs on soundcheck across Miami and New York City. Often billed alongside Goa'98, Conosur and Haze-M. Next up: Boho House Wynwood, Miami on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Ryan Santelises is a deep house and afro house artist based in United States of 
 
 Goa'98, Conosur, Haze-M
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansantelises/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryansantelises/)*

@@ -1,6 +1,6 @@
 # Madezh
 
-Madezh is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 6 Nov 2026.
+Madezh is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 6 Nov 2026.
 
 Madezh is a deep house and tech house artist based in Croatia, with 3 gigs on soundcheck across Zagreb. Often billed alongside Bronski, IGZ (HR) and Dea. Next up: Peti Kupe, Zagreb on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Madezh is a deep house and tech house artist based in Croatia, with 3 gigs on so
 
 Bronski, IGZ (HR), Dea (6)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madezh/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madezh/)*

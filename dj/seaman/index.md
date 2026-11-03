@@ -1,6 +1,6 @@
 # Sea Man
 
-Sea Man is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Sea Man is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Sea Man is an electronic artist, with 3 gigs on soundcheck across Berlin, Thailand and Utrecht. Often billed alongside 33EMYBW, ARN4L2 and Able Noise. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -19,4 +19,4 @@ Sea Man is an electronic artist, with 3 gigs on soundcheck across Berlin, Thaila
 
 33EMYBW, ARN4L2, Able Noise
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaman/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaman/)*

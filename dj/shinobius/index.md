@@ -1,6 +1,6 @@
 # shinobi (US)
 
-shinobi (US) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at club asia, Tokyo on Fri, 27 Nov 2026.
+shinobi (US) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at club asia, Tokyo on Fri, 27 Nov 2026.
 
 shinobi (US) is a drum & bass and jungle artist based in United States of America, with 18 gigs on soundcheck across Miami, New York City and Tokyo. Often billed alongside Craze, Coffintexts and Danny Daze. Next up: club asia, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ shinobi (US) is a drum & bass and jungle artist based in United States of Americ
 
 Craze, Coffintexts, Danny Daze
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinobius/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinobius/)*

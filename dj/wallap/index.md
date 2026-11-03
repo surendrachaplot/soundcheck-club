@@ -1,6 +1,6 @@
 # Walla P
 
-Walla P is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Le Balcon, Montreal on Sat, 7 Nov 2026.
+Walla P is a Funk / Soul and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Le Balcon, Montreal on Sat, 7 Nov 2026.
 
 Walla P is a funk / soul and disco artist based in Canada, with 55 gigs on soundcheck across Barcelona, Berlin, Geneva and Lisbon and 5 more. Often billed alongside Kris Guilty, Alina (MTL) and Dr. MaD. Next up: Le Balcon, Montreal on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Walla P is a funk / soul and disco artist based in Canada, with 55 gigs on sound
 
 Kris Guilty, Alina (MTL), Dr. MaD
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wallap/)*

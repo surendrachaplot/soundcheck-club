@@ -1,6 +1,6 @@
 # Love Higher
 
-Love Higher is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mood Ring, New York City on Wed, 18 Nov 2026.
+Love Higher is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mood Ring, New York City on Wed, 18 Nov 2026.
 
 Love Higher is a club and techno artist based in United States of America, with 122 gigs on soundcheck across Baltimore, Chicago, Cleveland and Detroit and 3 more. Often billed alongside wahala.wav, sola system and Nishévitha. Next up: Mood Ring, New York City on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ Love Higher is a club and techno artist based in United States of America, with 
 
 wahala.wav, sola system, Nishévitha
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovehigher/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovehigher/)*

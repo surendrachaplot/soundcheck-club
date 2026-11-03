@@ -1,6 +1,6 @@
 # Stella Fiore
 
-Stella Fiore is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Electronic Music Division , Rome on Wed, 4 Nov 2026.
+Stella Fiore is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Electronic Music Division , Rome on Wed, 4 Nov 2026.
 
 Stella Fiore is a house and techno artist based in Germany, with 53 gigs on soundcheck across Athens, Barcelona, Berlin and Bogotá and 21 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima. Next up: TBA - Electronic Music Division , Rome on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ Stella Fiore is a house and techno artist based in Germany, with 53 gigs on soun
 
 Ivan Iacobucci, Friendzone, Naima (2)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellafiore/)*

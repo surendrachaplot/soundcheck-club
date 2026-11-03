@@ -1,13 +1,14 @@
 # Danny Wabbit
 
-Danny Wabbit is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 30 Nov 2026.
+Danny Wabbit is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at KABUL à GoGo, Utrecht on Fri, 13 Nov 2026.
 
-Danny Wabbit is a techno and trance artist, with 66 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 23 more. Often billed alongside The Chronics, Beau Didier and Bours?. Next up: Tresor / Globus, Berlin on Mon 30 Nov.
+Danny Wabbit is a techno and trance artist, with 67 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 24 more. Often billed alongside Bours?, Nastia and The Chronics. Next up: KABUL à GoGo, Utrecht on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | KABUL à GoGo | Utrecht |
 | Mon, 30 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Danny Wabbit is a techno and trance artist, with 66 gigs on soundcheck across Am
 
 ## Shares bills with
 
-The Chronics, Beau Didier, Bours?
+Bours?, Nastia, The Chronics
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannywabbit/)*

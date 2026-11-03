@@ -1,6 +1,6 @@
 # Anthik
 
-Anthik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Druckerei Solothurn, Bern on Sat, 7 Nov 2026.
+Anthik is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Druckerei Solothurn, Bern on Sat, 7 Nov 2026.
 
 Anthik is a house and techno artist based in Switzerland, with 41 gigs on soundcheck across Basel, Bern, Geneva and Lausanne and 1 more. Often billed alongside Kellerkind, Animal Trainer and ACID FLORA. Next up: Druckerei Solothurn, Bern on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Anthik is a house and techno artist based in Switzerland, with 41 gigs on soundc
 
 Kellerkind, Animal Trainer, ACID FLORA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthik/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthik/)*

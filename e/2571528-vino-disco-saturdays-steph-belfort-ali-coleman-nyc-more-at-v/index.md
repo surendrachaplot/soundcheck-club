@@ -1,6 +1,6 @@
 # Vino Disco Saturdays: Steph Belfort, Ali Coleman (NYC) & more at Vino Disco
 
-Vino Disco Saturdays: Steph Belfort, Ali Coleman (NYC) & more on Sat 14 Nov, Montreal. 2 artists: Ali Coleman and Manuel Falardeau. House. See the line-up on soundcheck.
+Vino Disco Saturdays: Steph Belfort, Ali Coleman (NYC) & more on Sat 14 Nov, Montreal. 1 artist: Ali Coleman. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ Vino Disco Saturdays: Steph Belfort, Ali Coleman (NYC) & more on Sat 14 Nov, Mon
 ## Line-up
 
 - Ali Coleman
-- Manuel Falardeau
 
 *Source: [soundcheck](https://soundcheck.club/e/2571528-vino-disco-saturdays-steph-belfort-ali-coleman-nyc-more-at-v/)*

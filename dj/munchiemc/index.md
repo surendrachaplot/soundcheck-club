@@ -1,6 +1,6 @@
 # Munchie MC
 
-Munchie MC is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
+Munchie MC is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
 
 Munchie MC is a garage and house artist, with 3 gigs on soundcheck across London. Often billed alongside Shane Blitz, Lawrence Anthony and Twin Peaks. Next up: The City Pride, London on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Munchie MC is a garage and house artist, with 3 gigs on soundcheck across London
 
 Shane Blitz, Lawrence Anthony, Twin Peaks
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munchiemc/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munchiemc/)*

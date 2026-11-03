@@ -1,6 +1,6 @@
 # Prysm Nightclub
 
-Prysm Nightclub is a music venue in Chicago with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "THE LAB: Kellie Allen" on Fri, 6 Nov 2026.
+Prysm Nightclub is a music venue in Chicago with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "THE LAB: Kellie Allen" on Fri, 6 Nov 2026.
 
 Prysm Nightclub is a music venue in Chicago listed on soundcheck. 6 upcoming gigs, with line-ups including Enrico Sangiuliano, Iváno Lima, Kapote and Kellie Allen and 2 more. See dates, start times and who's playing. 1543 N Kingsbury St.
 
@@ -19,4 +19,4 @@ Prysm Nightclub is a music venue in Chicago listed on soundcheck. 6 upcoming gig
 
 1543 N Kingsbury St, Chicago
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*

@@ -1,13 +1,14 @@
 # Bonq
 
-Bonq is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+Bonq is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
 
-Bonq is a techno and house artist based in Germany, with 59 gigs on soundcheck across Bangkok, Berlin, Frankfurt and Freiburg and 5 more. Often billed alongside DJ Jordan, KEN (DE) and DJ PayPaul. Next up: Void Club, Berlin on Fri 11 Dec.
+Bonq is a techno and house artist based in Germany, with 60 gigs on soundcheck across Bangkok, Berlin, Frankfurt and Freiburg and 5 more. Often billed alongside DJ Jordan, KEN (DE) and DJ PayPaul. Next up: KitKatClub, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | KitKatClub | Berlin |
 | Fri, 11 Dec 2026 | Void Club | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bonq is a techno and house artist based in Germany, with 59 gigs on soundcheck a
 
 DJ Jordan, KEN (DE), DJ PayPaul
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonq/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonq/)*

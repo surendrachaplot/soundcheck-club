@@ -1,6 +1,6 @@
 # Lucas Zarate
 
-Lucas Zarate is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 21 Nov 2026.
+Lucas Zarate is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 21 Nov 2026.
 
 Lucas Zarate is a deep house and house artist based in Argentina, with 7 gigs on soundcheck across Miami. Often billed alongside Eli Light, Fernando Olaya and Jessy Nimni. Next up: Do Not Sit On The Furniture, Miami on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Lucas Zarate is a deep house and house artist based in Argentina, with 7 gigs on
 
 Eli Light, Fernando Olaya, Jessy Nimni
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaszarate/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucaszarate/)*

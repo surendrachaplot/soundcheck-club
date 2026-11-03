@@ -1,14 +1,15 @@
 # DJ Listener
 
-DJ Listener is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
+DJ Listener is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The City Pride, London on Sat, 5 Dec 2026.
 
-DJ Listener is a house and garage artist based in United Kingdom, with 24 gigs on soundcheck across London. Often billed alongside MC CKP, Norris Da Boss Windross and MC DT. Next up: The City Pride, London on Sat 5 Dec.
+DJ Listener is a house and garage artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside MC CKP, Norris Da Boss Windross and Hermit. Next up: The City Pride, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The City Pride | London |
+| Sat, 26 Dec 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ Listener is a house and garage artist based in United Kingdom, with 24 gigs o
 
 ## Shares bills with
 
-MC CKP, Norris Da Boss Windross, MC DT
+MC CKP, Norris Da Boss Windross, Hermit
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlistener/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlistener/)*

@@ -1,6 +1,6 @@
 # Midsizedsedance
 
-Midsizedsedance is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cafe la Siesta, Kyoto on Sat, 14 Nov 2026.
+Midsizedsedance is a Breakcore and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cafe la Siesta, Kyoto on Sat, 14 Nov 2026.
 
 Midsizedsedance is a breakcore and hardcore artist, with 7 gigs on soundcheck across Kyoto and Sydney. Often billed alongside Elina, Melt Unit and DJ Master Kohta. Next up: Cafe la Siesta, Kyoto on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Midsizedsedance is a breakcore and hardcore artist, with 7 gigs on soundcheck ac
 
 Elina, Melt Unit, DJ Master Kohta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midsizedsedance/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midsizedsedance/)*

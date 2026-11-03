@@ -1,10 +1,10 @@
 # Off Radar: Vol. 1 at TBA
 
-Off Radar: Vol. 1 at TBA on Thu 10 Dec, London. See the line-up on soundcheck.
+Off Radar: Vol. 1 at TBA on Tue 8 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 10 Dec 2026 |
+| Date | Tue, 8 Dec 2026 |
 | Venue | TBA |
 | City | London |
 

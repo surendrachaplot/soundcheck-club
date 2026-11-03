@@ -1,6 +1,6 @@
 # Dj Dizam
 
-Dj Dizam is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Álvaro Obregón 291 (Salon Obregón), Mexico City on Fri, 6 Nov 2026.
+Dj Dizam is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Álvaro Obregón 291 (Salon Obregón), Mexico City on Fri, 6 Nov 2026.
 
 Dj Dizam is a hip-hop and house artist based in United States of America, with 75 gigs on soundcheck across Mexico City and New York City. Often billed alongside Black Daria, LOVERGRL and Bastian Bell. Next up: TBA - Álvaro Obregón 291 (Salon Obregón), Mexico City on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Dj Dizam is a hip-hop and house artist based in United States of America, with 7
 
 Black Daria, LOVERGRL, Bastian Bell
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdizam/)*

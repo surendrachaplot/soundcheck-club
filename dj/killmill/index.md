@@ -1,6 +1,6 @@
 # Kill/Mill
 
-Kill/Mill is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 7 Nov 2026.
+Kill/Mill is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 7 Nov 2026.
 
 Kill/Mill is a techno and tech house artist, with 8 gigs on soundcheck across Melbourne. Often billed alongside Andrea Guadalupi, GavWhitehouse and Ophelie Mercury. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Kill/Mill is a techno and tech house artist, with 8 gigs on soundcheck across Me
 
 Andrea Guadalupi, GavWhitehouse, Ophelie Mercury
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killmill/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killmill/)*

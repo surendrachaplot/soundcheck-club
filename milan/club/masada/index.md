@@ -1,6 +1,6 @@
 # Masada
 
-Masada is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "DVS1 House set // Acquario (Masada)" on Sat, 7 Nov 2026.
+Masada is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "DVS1 House set // Acquario (Masada)" on Sat, 7 Nov 2026.
 
 Masada is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Akaj, akin.souls, ATEQ and Audri and 2 more. See dates, start times and who's playing. Viale Carlo Espinasse, 41, 20156 Milan, Italy.
 
@@ -18,4 +18,4 @@ Masada is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with lin
 
 Viale Carlo Espinasse, 41, 20156 Milan, Italy, Milan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/masada/)*

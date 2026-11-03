@@ -1,6 +1,6 @@
 # KirkatNight
 
-KirkatNight is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at telos.haus, New York City on Fri, 13 Nov 2026.
+KirkatNight is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at telos.haus, New York City on Fri, 13 Nov 2026.
 
 KirkatNight is a techno and house artist based in United States of America, with 3 gigs on soundcheck across New York City. Often billed alongside DJ Sauci Soni, King Tutt and Ludwig van Mix. Next up: telos.haus, New York City on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ KirkatNight is a techno and house artist based in United States of America, with
 
 DJ Sauci Soni, King Tutt, Ludwig van Mix
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirkatnight/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirkatnight/)*

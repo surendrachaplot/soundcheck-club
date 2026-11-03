@@ -1,6 +1,6 @@
 # MATRAKK
 
-MATRAKK is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
+MATRAKK is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at OST, Berlin on Fri, 27 Nov 2026.
 
 MATRAKK is a techno and trance artist based in France, with 112 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Ephy Pinkman, Maudux and Neon Graveyard. Next up: OST, Berlin on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ MATRAKK is a techno and trance artist based in France, with 112 gigs on soundche
 
 Ephy Pinkman, Maudux, Neon Graveyard
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matrakk/)*

@@ -1,6 +1,6 @@
 # Luisa
 
-Luisa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Macadam, Nantes on Sat, 7 Nov 2026.
+Luisa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Macadam, Nantes on Sat, 7 Nov 2026.
 
 Luisa is a techno and house artist based in Portugal, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Solid-Funk, Worm Class and Cruz (PT). Next up: Macadam, Nantes on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Luisa is a techno and house artist based in Portugal, with 110 gigs on soundchec
 
 Solid-Funk, Worm Class, Cruz (PT)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luisa/)*

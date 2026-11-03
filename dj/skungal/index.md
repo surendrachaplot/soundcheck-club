@@ -1,6 +1,6 @@
 # Skungal
 
-Skungal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
+Skungal is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
 
 Skungal is a techno and house artist based in Ukraine, with 67 gigs on soundcheck across Barcelona, Berlin, Brussels and Dortmund / Essen and 4 more. Often billed alongside GAEL, Inverse Element and Nothing Left. Next up: Tresor / Globus, Berlin on Mon 9 Nov.
 
@@ -27,4 +27,4 @@ Skungal is a techno and house artist based in Ukraine, with 67 gigs on soundchec
 
 GAEL, Inverse Element, Nothing Left
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skungal/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skungal/)*

@@ -1,6 +1,6 @@
 # Baby Jane
 
-Baby Jane is a Electro and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Fruit, North-carolina on Sat, 7 Nov 2026.
+Baby Jane is a Electro and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Fruit, North-carolina on Sat, 7 Nov 2026.
 
 Baby Jane is an electro and hardcore artist based in United States of America, with 5 gigs on soundcheck across Miami, Montreal, North Carolina and Portland and 1 more. Often billed alongside Flapjack. Next up: The Fruit, North Carolina on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Baby Jane is an electro and hardcore artist based in United States of America, w
 
 Flapjack
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjane/)*

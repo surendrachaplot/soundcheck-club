@@ -1,6 +1,6 @@
 # Club Lucia
 
-Club Lucia is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SORRY MOM herbstrascheln" on Fri, 6 Nov 2026.
+Club Lucia is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SORRY MOM herbstrascheln" on Fri, 6 Nov 2026.
 
 Club Lucia is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including A_Phan, Abu Naima, Chiara Allnutt and Qamareen. See dates, start times and who's playing. Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna.
 
@@ -20,4 +20,4 @@ Club Lucia is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, wit
 
 Stadtbahnbögen 24/25 (U6 Thaliastraße) 1080 Vienna, Vienna
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-lucia/)*

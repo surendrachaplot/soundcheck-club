@@ -1,8 +1,8 @@
 # Maadraassoo
 
-Maadraassoo is a Pop and Electro artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Jamboree Dance Club, Barcelona on Sat, 7 Nov 2026.
+Maadraassoo is a Pop and Electro artist with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Jamboree Dance Club, Barcelona on Sat, 7 Nov 2026.
 
-Maadraassoo is a pop and electro artist based in Spain, with 222 gigs on soundcheck across Barcelona, East, Madrid and Mallorca and 1 more. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: Jamboree Dance Club, Barcelona on Sat 7 Nov.
+Maadraassoo is a pop and electro artist based in Spain, with 227 gigs on soundcheck across Barcelona, East, Madrid and Mallorca and 1 more. Often billed alongside !!! (Chk Chk Chk), Baldman and Chica Acosta. Next up: Jamboree Dance Club, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,11 @@ Maadraassoo is a pop and electro artist based in Spain, with 222 gigs on soundch
 | Fri, 20 Nov 2026 | TBA - Cotton Club (Lleida) | East |
 | Sat, 21 Nov 2026 | Maloa Club | Barcelona |
 | Fri, 27 Nov 2026 | EL Sielu | Barcelona |
+| Sat, 28 Nov 2026 | TBA - Teatre LLoseta (Lloseta) | Mallorca |
+| Fri, 4 Dec 2026 | TBA - XL XtraLrge (Vlc) | Valencia |
+| Sat, 5 Dec 2026 | Play Club Valencia | Valencia |
+| Sat, 19 Dec 2026 | Sala Salamandra | Barcelona |
+| Sat, 16 Jan 2027 | TBA - El Loco Club (Vlc) | Valencia |
 
 ## Recently played
 
@@ -30,4 +35,4 @@ Maadraassoo is a pop and electro artist based in Spain, with 222 gigs on soundch
 
 !!! (Chk Chk Chk), Baldman, Chica Acosta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maadraassoo/)*

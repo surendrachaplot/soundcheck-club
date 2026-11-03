@@ -1,8 +1,8 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 18 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Casa De Afro - Afro House Experience" on Fri, 6 Nov 2026.
+Vespers Club is a music venue in London with 21 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Casa De Afro - Afro House Experience" on Fri, 6 Nov 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Abobo, Aïsha Devi, Chadzing Kung and Cinna Peyghamy and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Abobo, Aïsha Devi, Ama (UK) and Bryan Gee and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Vespers Club is a music venue in London listed on soundcheck. 18 upcoming gigs, 
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

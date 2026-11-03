@@ -1,6 +1,6 @@
 # Thomas Schmitt
 
-Thomas Schmitt is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
+Thomas Schmitt is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
 
 Thomas Schmitt is a house and minimal artist based in France, with 11 gigs on soundcheck across Barcelona, Berlin, Dublin and Madrid. Often billed alongside Lisandro Mustapic, MARYO and Brunno. Next up: Cadavra, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Thomas Schmitt is a house and minimal artist based in France, with 11 gigs on so
 
 Lisandro Mustapic, MARYO, Brunno
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschmitt/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasschmitt/)*

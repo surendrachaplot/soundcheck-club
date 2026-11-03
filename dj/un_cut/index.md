@@ -1,6 +1,6 @@
 # UNCUT (UK)
 
-UNCUT (UK) is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, London on Thu, 31 Dec 2026.
+UNCUT (UK) is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, London on Thu, 31 Dec 2026.
 
 UNCUT (UK) is a deep house and techno artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside AMAR (UK), Jax Vrooge and Yazmin (UK). Next up: TBA, London on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ UNCUT (UK) is a deep house and techno artist based in United Kingdom, with 3 gig
 
 AMAR (UK), Jax Vrooge, Yazmin (UK)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/un_cut/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/un_cut/)*

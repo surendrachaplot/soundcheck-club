@@ -1,6 +1,6 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "The Techno Jungle" on Thu, 5 Nov 2026.
+EQ San Diego is a music venue in San Diego with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "The Techno Jungle" on Thu, 5 Nov 2026.
 
 EQ San Diego is a music venue in San Diego listed on soundcheck. 7 upcoming gigs, with line-ups including Baby Jane, Dekmantel Soundsystem, Max Web and Naone and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
@@ -20,4 +20,4 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 7 upcoming gigs
 
 1271 University Ave San Diego, CA 92103, San Diego
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/eq-san-diego/)*

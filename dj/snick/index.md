@@ -1,6 +1,6 @@
 # snick
 
-snick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Space Studios, South-east on Sat, 5 Dec 2026.
+snick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Space Studios, South-east on Sat, 5 Dec 2026.
 
 snick is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, London and South East. Often billed alongside Snick Johnson, YouSawLaurent and ATST. Next up: Space Studios, South East on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ snick is a house and techno artist based in United Kingdom, with 7 gigs on sound
 
 Snick Johnson, YouSawLaurent, ATST
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snick/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snick/)*

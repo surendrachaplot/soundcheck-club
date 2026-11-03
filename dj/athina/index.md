@@ -1,14 +1,15 @@
 # Athina
 
-Athina is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at OST, Berlin on Sat, 28 Nov 2026.
+Athina is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at OST, Berlin on Sat, 28 Nov 2026.
 
-Athina is a techno and trance artist based in Germany, with 95 gigs on soundcheck across Berlin and Cologne. Often billed alongside Amøn, Kø:lab and SEKTOR69. Next up: OST, Berlin on Sat 28 Nov.
+Athina is a techno and trance artist based in Germany, with 96 gigs on soundcheck across Berlin and Cologne. Often billed alongside Amøn, Kø:lab and SEKTOR69. Next up: OST, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | OST | Berlin |
+| Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Athina is a techno and trance artist based in Germany, with 95 gigs on soundchec
 
 Amøn, Kø:lab, SEKTOR69
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/athina/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/athina/)*

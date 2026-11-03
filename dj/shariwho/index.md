@@ -1,6 +1,6 @@
 # Shari Who
 
-Shari Who is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at YOTO, Hamburg on Sat, 7 Nov 2026.
+Shari Who is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at YOTO, Hamburg on Sat, 7 Nov 2026.
 
 Shari Who is a hip-hop and club artist based in Germany, with 20 gigs on soundcheck across Berlin, Copenhagen and Hamburg. Often billed alongside breakdnz, Bangerfabrique and EliaHaze. Next up: YOTO, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Shari Who is a hip-hop and club artist based in Germany, with 20 gigs on soundch
 
 breakdnz, Bangerfabrique, EliaHaze
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shariwho/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shariwho/)*

@@ -1,6 +1,6 @@
 # Ottagone
 
-Ottagone is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
+Ottagone is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 19 Aug 2027.
 
 Ottagone is a techno artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Croatia, London and Milan. Often billed alongside Jasmín, Luke Slater and PLO Man. Next up: The Garden Tisno, Croatia on Thu 19 Aug.
 
@@ -21,4 +21,4 @@ Ottagone is a techno artist based in Netherlands, with 5 gigs on soundcheck acro
 
 Jasmín, Luke Slater, PLO Man
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ottagone/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ottagone/)*

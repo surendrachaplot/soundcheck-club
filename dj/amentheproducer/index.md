@@ -1,14 +1,14 @@
 # Amen the Producer
 
-Amen the Producer is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 30 Nov 2026.
+Amen the Producer is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jupiter Disco, New York City on Sat, 28 Nov 2026.
 
-Amen the Producer is a club and ghetto tech artist based in United States of America, with 9 gigs on soundcheck across Baltimore and New York City. Often billed alongside BOJAQ, BASSBEAR!! and DJ HOLIDAY. Next up: Bossa Nova Civic Club, New York City on Mon 30 Nov.
+Amen the Producer is a club and ghetto tech artist based in United States of America, with 9 gigs on soundcheck across Baltimore and New York City. Often billed alongside BOJAQ, DJ HOLIDAY and NATALIA.. Next up: Jupiter Disco, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 30 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 28 Nov 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ Amen the Producer is a club and ghetto tech artist based in United States of Ame
 
 ## Shares bills with
 
-BOJAQ, BASSBEAR!!, DJ HOLIDAY
+BOJAQ, DJ HOLIDAY, NATALIA.
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amentheproducer/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amentheproducer/)*

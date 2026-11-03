@@ -1,6 +1,6 @@
 # Navigator
 
-Navigator is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
+Navigator is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Outernet Live, London on Sat, 14 Nov 2026.
 
 Navigator is a drum & bass and jungle artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 5 more. Often billed alongside Nicky Blackmarket, IC3 and Kenny Ken. Next up: Outernet Live, London on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ Navigator is a drum & bass and jungle artist based in United Kingdom, with 62 gi
 
 Nicky Blackmarket, IC3, Kenny Ken
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/navigator/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/navigator/)*

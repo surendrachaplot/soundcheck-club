@@ -1,6 +1,6 @@
 # Prospa
 
-Prospa is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Prospa is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Prospa is a house and techno artist based in United Kingdom, with 193 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 54 more. Often billed alongside Seth Troxler, Josh Baker and Carlita. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Prospa is a house and techno artist based in United Kingdom, with 193 gigs on so
 
 Seth Troxler, Josh Baker, Carlita
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prospa/)*

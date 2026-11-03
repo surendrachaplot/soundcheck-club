@@ -1,6 +1,6 @@
 # Fabio Monesi
 
-Fabio Monesi is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
+Fabio Monesi is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at REC Napoli, Naples on Fri, 1 Jan 2027.
 
 Fabio Monesi is a house and electro artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Florence and 6 more. Often billed alongside Hiroko Hacci, Bradley Zero and Creamy. Next up: REC Napoli, Naples on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Fabio Monesi is a house and electro artist based in Italy, with 48 gigs on sound
 
 Hiroko Hacci, Bradley Zero, Creamy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabiomonesi/)*

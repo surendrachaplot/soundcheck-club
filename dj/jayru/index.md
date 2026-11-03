@@ -1,6 +1,6 @@
 # Jay Ru
 
-Jay Ru is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Jay Ru is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Jay Ru is a disco and techno artist based in Philippines, with 3 gigs on soundcheck across Berlin, Manila and Thailand. Often billed alongside Afrodite, Alex Albrecht and Anna Schreit. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -19,4 +19,4 @@ Jay Ru is a disco and techno artist based in Philippines, with 3 gigs on soundch
 
 Afrodite (2), Alex Albrecht, Anna Schreit
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayru/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayru/)*

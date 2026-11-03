@@ -1,6 +1,6 @@
 # ines isla
 
-ines isla is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
+ines isla is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 7 Nov 2026.
 
 ines isla is a techno and house artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Berlin, Madrid and Malaga and 1 more. Often billed alongside Alba Franch, Mamba Nera and Reitze. Next up: Lokschuppen Berlin, Berlin on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ ines isla is a techno and house artist based in Spain, with 45 gigs on soundchec
 
 Alba Franch, Mamba Nera, Reitze
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inesisla/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inesisla/)*

@@ -1,8 +1,8 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Club Babies: Sinjin Hawke, OJC [NJ], Ekitwanda, Moon" on Fri, 6 Nov 2026.
+Bar Datcha is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Club Babies: Sinjin Hawke, OJC [NJ], Ekitwanda, Moon" on Fri, 6 Nov 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Andie, BADJUDA, DJ Fil Ramos and Ekitwanda and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Andie, BADJUDA, DJ Fil Ramos and Ekitwanda and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 
@@ -15,10 +15,11 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, w
 | Sat, 14 Nov 2026 | Fence Hop: MLLE CEE, Uyaz, Softwarewolfe, Ldriivy | MLLE CEE |
 | Fri, 20 Nov 2026 | AFRODITE X BATIDA SOLTA | BADJUDA |
 | Sat, 21 Nov 2026 | NEXUS: KAY B, MS BABY, Gwinestefani, VAUN | Gwinestefani |
+| Fri, 27 Nov 2026 | GABA Collective invites UME | UME (CAN) |
 | Sat, 28 Nov 2026 | NONSTOP: Sydney Sarayeva, Kridelka, Hey: Albert, Benji b2b Colmee, FREEEMAN | Sydney Sarayeva |
 
 ## Address
 
 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada, Montreal
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/bar-datcha/)*

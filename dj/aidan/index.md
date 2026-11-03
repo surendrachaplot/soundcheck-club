@@ -1,6 +1,6 @@
 # Aidan
 
-Aidan is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 11 Nov 2026.
+Aidan is a House and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 11 Nov 2026.
 
 Aidan is a house and italo disco artist based in Ireland, with 38 gigs on soundcheck across Berlin, Dublin and Glasgow. Often billed alongside David Diamond, Bella Festa and Matteo Gamba. Next up: The Berkeley Suite, Glasgow on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ Aidan is a house and italo disco artist based in Ireland, with 38 gigs on soundc
 
 David Diamond, Bella Festa, Matteo Gamba
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidan/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidan/)*

@@ -1,0 +1,28 @@
+# Blackloud
+
+Blackloud is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bike Jesus, Prague on Sat, 28 Nov 2026.
+
+Blackloud is a house and techno artist, with 45 gigs on soundcheck across Barcelona, Berlin, Budapest and Copenhagen and 1 more. Often billed alongside Hugorieri, Ondrej K and Topal. Next up: Bike Jesus, Prague on Sat 28 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | Bike Jesus | Prague |
+
+## Recently played
+
+- Bukanyr Boat, Prague · Fri, 30 Oct 2026
+- Roxy, Prague · Fri, 16 Oct 2026
+- MODULE, Copenhagen · Fri, 9 Oct 2026
+- Park Riegrovy Sady, Prague · Sat, 19 Sept 2026
+- TBA - OLD TOWN, Prague · Sat, 29 Aug 2026
+- Bukanyr Boat, Prague · Fri, 28 Aug 2026
+- Bukanyr Boat, Prague · Fri, 7 Aug 2026
+- Bukanyr Boat, Prague · Fri, 26 Jun 2026
+
+## Shares bills with
+
+Hugorieri, Ondrej K, Topal
+
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackloud/)*

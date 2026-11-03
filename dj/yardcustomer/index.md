@@ -1,6 +1,6 @@
 # Yard Customer
 
-Yard Customer is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tide Nightclub, Brighton on Sat, 12 Dec 2026.
+Yard Customer is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tide Nightclub, Brighton on Sat, 12 Dec 2026.
 
 Yard Customer is a house and minimal artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, Brighton and London. Often billed alongside Frozilla, DJ Zurückbleiben Bitte and Edo.1. Next up: Tide Nightclub, Brighton on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Yard Customer is a house and minimal artist based in United Kingdom, with 20 gig
 
 Frozilla, DJ Zurückbleiben Bitte, Edo.1
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yardcustomer/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yardcustomer/)*

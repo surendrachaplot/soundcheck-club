@@ -1,6 +1,6 @@
 # Sylvan Esso
 
-Sylvan Esso is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Astra Kulturhaus, Berlin on Wed, 3 Feb 2027.
+Sylvan Esso is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Astra Kulturhaus, Berlin on Wed, 3 Feb 2027.
 
 Sylvan Esso is an electro and electronica artist based in United States of America, with 6 gigs on soundcheck across Berlin, Los Angeles, New Orleans and New York City and 1 more. Often billed alongside Daddy Kev, Din. and Swaya. Next up: Astra Kulturhaus, Berlin on Wed 3 Feb.
 
@@ -22,4 +22,4 @@ Sylvan Esso is an electro and electronica artist based in United States of Ameri
 
 Daddy Kev, Din., Swaya
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvanesso/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvanesso/)*

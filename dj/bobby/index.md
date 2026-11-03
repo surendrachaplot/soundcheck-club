@@ -1,6 +1,6 @@
 # Bobby.
 
-Bobby. is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Eiger Studios, Leeds on Sat, 14 Nov 2026.
+Bobby. is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Eiger Studios, Leeds on Sat, 14 Nov 2026.
 
 Bobby. is a house and techno artist based in United Kingdom, with 150 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Belfast and 34 more. Often billed alongside Craig Richards, Mariiin and Harry McCanna. Next up: Eiger Studios, Leeds on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Bobby. is a house and techno artist based in United Kingdom, with 150 gigs on so
 
 Craig Richards, Mariiin, Harry McCanna
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bobby/)*

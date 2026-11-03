@@ -1,6 +1,6 @@
 # Salon Daomé
 
-Salon Daomé is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Osunlade, Jojoflores, D*soul, Kai Tht Guy" on Fri, 6 Nov 2026.
+Salon Daomé is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Osunlade, Jojoflores, D*soul, Kai Tht Guy" on Fri, 6 Nov 2026.
 
 Salon Daomé is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including Akufen, Artphorm, Cristobal Urbina and Dimitry and 2 more. See dates, start times and who's playing. 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8.
 
@@ -23,4 +23,4 @@ Salon Daomé is a music venue in Montreal listed on soundcheck. 11 upcoming gigs
 
 4465 St Laurent Blvd, Montreal, Quebec H2W 1Z8, Montreal
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/salon-daom/)*

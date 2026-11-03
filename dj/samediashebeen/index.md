@@ -1,14 +1,15 @@
 # Samedia Shebeen
 
-Samedia Shebeen is a Latin Bass and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at People's Leisure Club, Edinburgh on Fri, 27 Nov 2026.
+Samedia Shebeen is a Latin Bass and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at People's Leisure Club, Edinburgh on Fri, 27 Nov 2026.
 
-Samedia Shebeen is a latin bass and afro house artist based in United Kingdom, with 39 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London. Often billed alongside Chris Astrojazz, Santa Leticia and DJ Rawzi. Next up: People's Leisure Club, Edinburgh on Fri 27 Nov.
+Samedia Shebeen is a latin bass and afro house artist based in United Kingdom, with 40 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London. Often billed alongside Chris Astrojazz, Santa Leticia and DJ Rawzi. Next up: People's Leisure Club, Edinburgh on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | People's Leisure Club | Edinburgh |
+| Thu, 31 Dec 2026 | La Belle Angele | Edinburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Samedia Shebeen is a latin bass and afro house artist based in United Kingdom, w
 
 Chris Astrojazz, Santa Leticia, DJ Rawzi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samediashebeen/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samediashebeen/)*

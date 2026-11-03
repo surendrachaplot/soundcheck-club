@@ -1,8 +1,8 @@
 # Novelist
 
-Novelist is a Grime and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mason and Fifth, Westbourne Park, London on Tue, 3 Nov 2026.
+Novelist is a Grime and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mason and Fifth, Westbourne Park, London on Tue, 3 Nov 2026.
 
-Novelist is a grime and bass artist, with 33 gigs on soundcheck across Amsterdam, London, Manchester and Prague. Often billed alongside CHAMBER45, Mia Koden and Moxie. Next up: Mason and Fifth, Westbourne Park, London on Tue 3 Nov.
+Novelist is a grime and bass artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, London, Manchester and Prague. Often billed alongside CHAMBER45, Mia Koden and Moxie. Next up: Mason and Fifth, Westbourne Park, London on Tue 3 Nov.
 
 ## Upcoming shows
 
@@ -27,4 +27,4 @@ Novelist is a grime and bass artist, with 33 gigs on soundcheck across Amsterdam
 
 CHAMBER45, Mia Koden, Moxie
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novelist/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novelist/)*

@@ -1,6 +1,6 @@
 # Olor Acre
 
-Olor Acre is a Acid and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
+Olor Acre is a Acid and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
 
 Olor Acre is an acid and industrial artist, with 4 gigs on soundcheck across Barcelona. Often billed alongside Akazie, Arnic and Burning Woman. Next up: Razzmatazz, Barcelona on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Olor Acre is an acid and industrial artist, with 4 gigs on soundcheck across Bar
 
 Akazie, Arnic, Burning Woman
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oloracre/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oloracre/)*

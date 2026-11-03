@@ -1,14 +1,15 @@
 # Mr Roach
 
-Mr Roach is a Garage and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
+Mr Roach is a Garage and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Rolling Stock, London on Sat, 28 Nov 2026.
 
-Mr Roach is a garage and progressive house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside KingCrowney, AALEX and D LAI. Next up: Rolling Stock, London on Sat 28 Nov.
+Mr Roach is a garage and progressive house artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside KingCrowney, AALEX and Afrobeat. Next up: Rolling Stock, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Rolling Stock | London |
+| Sat, 26 Dec 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mr Roach is a garage and progressive house artist based in United Kingdom, with 
 
 ## Shares bills with
 
-KingCrowney, AALEX, D LAI
+KingCrowney, AALEX, Afrobeat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrroach/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mrroach/)*

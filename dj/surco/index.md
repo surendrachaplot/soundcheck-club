@@ -1,6 +1,6 @@
 # SURCO
 
-SURCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - The Den, Tokyo on Tue, 3 Nov 2026.
+SURCO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - The Den, Tokyo on Tue, 3 Nov 2026.
 
 SURCO is a techno and house artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Berlin, Chicago and Denver and 6 more. Often billed alongside ALX-106, Analog Kitchen and Julia Bondar. Next up: TBA - The Den, Tokyo on Tue 3 Nov.
 
@@ -26,4 +26,4 @@ SURCO is a techno and house artist based in United States of America, with 26 gi
 
 ALX-106, Analog Kitchen, Julia Bondar
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surco/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surco/)*

@@ -1,6 +1,6 @@
 # Dorisburg
 
-Dorisburg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 14 Nov 2026.
+Dorisburg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Collect LX Factory, Lisbon on Sat, 14 Nov 2026.
 
 Dorisburg is a techno and house artist based in Sweden, with 64 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside Oberman, Polygonia and Laura BCR. Next up: Collect LX Factory, Lisbon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Dorisburg is a techno and house artist based in Sweden, with 64 gigs on soundche
 
 Oberman, Polygonia, Laura BCR
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorisburg/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dorisburg/)*

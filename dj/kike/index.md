@@ -1,13 +1,14 @@
 # ki:ke
 
-ki:ke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Crack Bellmer, Berlin on Fri, 27 Nov 2026.
+ki:ke is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Ziegrastraße 11, Berlin on Sun, 15 Nov 2026.
 
-ki:ke is a house and techno artist based in Spain, with 56 gigs on soundcheck across Barcelona, Berlin, Ibiza and London. Often billed alongside GRETA, Demofather and Sergi (ES). Next up: Crack Bellmer, Berlin on Fri 27 Nov.
+ki:ke is a house and techno artist based in Spain, with 57 gigs on soundcheck across Barcelona, Berlin, Ibiza and London. Often billed alongside GRETA, Demofather and Sergi (ES). Next up: Ziegrastraße 11, Berlin on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Ziegrastraße 11 | Berlin |
 | Fri, 27 Nov 2026 | Crack Bellmer | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ ki:ke is a house and techno artist based in Spain, with 56 gigs on soundcheck ac
 
 GRETA (2), Demofather, Sergi (ES)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kike/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kike/)*

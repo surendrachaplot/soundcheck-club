@@ -1,6 +1,6 @@
 # Philip Paul
 
-Philip Paul is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Death Disco, Athens on Fri, 20 Nov 2026.
+Philip Paul is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Death Disco, Athens on Fri, 20 Nov 2026.
 
 Philip Paul is a techno artist based in Greece, with 16 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside Freeflow, Blame The Mono and PINELOPI. Next up: Death Disco, Athens on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Philip Paul is a techno artist based in Greece, with 16 gigs on soundcheck acros
 
 Freeflow, Blame The Mono, PINELOPI
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippaul/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippaul/)*

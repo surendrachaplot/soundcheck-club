@@ -1,6 +1,6 @@
 # Faster
 
-Faster is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
+Faster is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
 
 Faster is a drum & bass and dubstep artist based in Romania, with 3 gigs on soundcheck across Lisbon, Malaga and New York City. Often billed alongside Debit, APP and Amount (DE). Next up: The Woodshop, New York City on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Faster is a drum & bass and dubstep artist based in Romania, with 3 gigs on soun
 
 Debit, APP, Amount (DE)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faster/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faster/)*

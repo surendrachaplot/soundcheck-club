@@ -1,6 +1,6 @@
 # Uber Eats Music Hall
 
-Uber Eats Music Hall is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Overmono - Pure Devotion Live - World Tour" on Thu, 12 Nov 2026.
+Uber Eats Music Hall is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Overmono - Pure Devotion Live - World Tour" on Thu, 12 Nov 2026.
 
 Uber Eats Music Hall is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Blawan, Bonobo, Nia Archives and Overmono and 2 more. See dates, start times and who's playing. Uber Platz 2, 10243 Berlin.
 
@@ -17,4 +17,4 @@ Uber Eats Music Hall is a music venue in Berlin listed on soundcheck. 4 upcoming
 
 Uber Platz 2, 10243 Berlin, Berlin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/uber-eats-music-hall/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/uber-eats-music-hall/)*

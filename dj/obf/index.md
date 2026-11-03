@@ -1,8 +1,8 @@
 # O.B.F
 
-O.B.F is a Dub and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
+O.B.F is a Dub and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
 
-O.B.F is a dub and bass artist based in France, with 36 gigs on soundcheck across Athens, Barcelona, Berlin and Bristol and 16 more. Often billed alongside Iration Steppas, Charlie P and Dubkasm. Next up: Zoo, Geneva on Fri 13 Nov.
+O.B.F is a dub and bass artist based in France, with 37 gigs on soundcheck across Athens, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Iration Steppas, Charlie P and Dubkasm. Next up: Zoo, Geneva on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ O.B.F is a dub and bass artist based in France, with 36 gigs on soundcheck acros
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Zoo | Geneva |
 | Fri, 20 Nov 2026 | Sugar Hill Disco | New York City |
+| Fri, 27 Nov 2026 | Motorista Studio | Toronto |
 | Sat, 28 Nov 2026 | TBA - Montreal | Montreal |
 
 ## Recently played
@@ -27,4 +28,4 @@ O.B.F is a dub and bass artist based in France, with 36 gigs on soundcheck acros
 
 Iration Steppas, Charlie P, Dubkasm
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obf/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/obf/)*

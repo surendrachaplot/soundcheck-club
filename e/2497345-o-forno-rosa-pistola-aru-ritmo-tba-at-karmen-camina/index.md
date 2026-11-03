@@ -1,0 +1,15 @@
+# O FORNO [Rosa Pistola • Aru Ritmo • TBA] at Karmen Camina
+
+O FORNO [Rosa Pistola • Aru Ritmo • TBA] at Karmen Camina on Fri 11 Dec, Strasbourg. 1 artist: Rosa Pistola. Dancehall and Guaracha. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 11 Dec 2026 |
+| Venue | Karmen Camina |
+| City | Strasbourg |
+
+## Line-up
+
+- Rosa Pistola
+
+*Source: [soundcheck](https://soundcheck.club/e/2497345-o-forno-rosa-pistola-aru-ritmo-tba-at-karmen-camina/)*

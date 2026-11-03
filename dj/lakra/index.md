@@ -1,6 +1,6 @@
 # Lakra
 
-Lakra is a Rio Funk and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Video Club, Bogotá on Sat, 7 Nov 2026.
+Lakra is a Rio Funk and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Video Club, Bogotá on Sat, 7 Nov 2026.
 
 Lakra is a rio funk and breakbeat artist based in Colombia, with 3 gigs on soundcheck across Bogotá. Often billed alongside Zimalevi. Next up: Video Club, Bogotá on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Lakra is a rio funk and breakbeat artist based in Colombia, with 3 gigs on sound
 
 Zimalevi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakra/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lakra/)*

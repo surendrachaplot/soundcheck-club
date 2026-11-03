@@ -1,13 +1,14 @@
 # Ignez
 
-Ignez is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Pandora Sevilla, South on Fri, 6 Nov 2026.
+Ignez is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-Ignez is a techno and house artist based in Netherlands, with 236 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 74 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: Pandora Sevilla, South on Fri 6 Nov.
+Ignez is a techno and house artist based in Netherlands, with 237 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 74 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Fri, 6 Nov 2026 | Pandora Sevilla | South |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
@@ -19,7 +20,6 @@ Ignez is a techno and house artist based in Netherlands, with 236 gigs on soundc
 | Fri, 4 Dec 2026 | Palais | London |
 | Sat, 5 Dec 2026 | REC Napoli | Naples |
 | Mon, 7 Dec 2026 | Link | Bologna |
-| Sat, 12 Dec 2026 | Valsemøllen | Bergen |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ignez is a techno and house artist based in Netherlands, with 236 gigs on soundc
 
 Yanamaste, Rødhåd, Alarico
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ignez/)*

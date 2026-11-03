@@ -1,6 +1,6 @@
 # RaW
 
-RaW is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
+RaW is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
 
 RaW is a techno and house artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Bangkok, Birmingham and Cologne and 16 more. Often billed alongside Alternate State, Jakob (BE) and Justin Muscat. Next up: The Woodshop, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ RaW is a techno and house artist based in Germany, with 34 gigs on soundcheck ac
 
 Alternate State, Jakob (BE), Justin Muscat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raw/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raw/)*

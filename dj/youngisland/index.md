@@ -1,14 +1,15 @@
 # Youngisland
 
-Youngisland is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Enter Shibuya, Tokyo on Thu, 5 Nov 2026.
+Youngisland is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Enter Shibuya, Tokyo on Thu, 5 Nov 2026.
 
-Youngisland is a house and disco artist based in South Korea, with 167 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Joshüa and Gio (KR). Next up: Enter Shibuya, Tokyo on Thu 5 Nov.
+Youngisland is a house and disco artist based in South Korea, with 168 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Cityboy from Seoul, Joshüa and Gio (KR). Next up: Enter Shibuya, Tokyo on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Enter Shibuya | Tokyo |
+| Wed, 11 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Youngisland is a house and disco artist based in South Korea, with 167 gigs on s
 
 Cityboy from Seoul, Joshüa, Gio (KR)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngisland/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngisland/)*

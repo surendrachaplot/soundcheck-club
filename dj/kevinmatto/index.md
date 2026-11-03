@@ -1,6 +1,6 @@
 # Kevin Matto
 
-Kevin Matto is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 7 Nov 2026.
+Kevin Matto is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 7 Nov 2026.
 
 Kevin Matto is a techno and dub techno artist based in Spain, with 70 gigs on soundcheck across Buenos Aires, Madrid, Medellin and Mexico City and 1 more. Often billed alongside Systematic Method, Ali-Az and Jesus Riaño. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Kevin Matto is a techno and dub techno artist based in Spain, with 70 gigs on so
 
 Systematic Method, Ali-Az, Jesus Riaño
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinmatto/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinmatto/)*

@@ -1,6 +1,6 @@
 # The Botanist
 
-The Botanist is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Prysm Nightclub, Chicago on Sat, 28 Nov 2026.
+The Botanist is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Prysm Nightclub, Chicago on Sat, 28 Nov 2026.
 
 The Botanist is a house and tech house artist based in United States of America, with 11 gigs on soundcheck across Chicago, Los Angeles, New York City and San Diego and 3 more. Often billed alongside Adam Ten, Askfor T and Cole Terrazas. Next up: Prysm Nightclub, Chicago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ The Botanist is a house and tech house artist based in United States of America,
 
 Adam Ten, Askfor T, Cole Terrazas
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thebotanist/)*

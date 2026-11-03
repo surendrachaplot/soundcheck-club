@@ -1,6 +1,6 @@
 # Jamila
 
-Jamila is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cardinal Bar, Madison on Sat, 7 Nov 2026.
+Jamila is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cardinal Bar, Madison on Sat, 7 Nov 2026.
 
 Jamila is a techno and house artist based in United States of America, with 19 gigs on soundcheck across Hamburg, Madison, Minneapolis/St Paul and New York City. Often billed alongside TECHNODOLL, Amy Pickett and Autokinetic. Next up: Cardinal Bar, Madison on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Jamila is a techno and house artist based in United States of America, with 19 g
 
 TECHNODOLL, Amy Pickett, Autokinetic
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamila/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamila/)*

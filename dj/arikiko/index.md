@@ -1,6 +1,6 @@
 # Ari Kiko
 
-Ari Kiko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
+Ari Kiko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - 2 Hours from Sydney, Sydney on Fri, 4 Dec 2026.
 
 Ari Kiko is a house and techno artist based in Australia, with 61 gigs on soundcheck across Byron Bay, Lyon, Melbourne and Sydney. Often billed alongside Mina Tonic, Postponez and Broccoli Effect. Next up: TBA - 2 Hours from Sydney, Sydney on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Ari Kiko is a house and techno artist based in Australia, with 61 gigs on soundc
 
 Mina Tonic, Postponez, Broccoli Effect
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arikiko/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arikiko/)*

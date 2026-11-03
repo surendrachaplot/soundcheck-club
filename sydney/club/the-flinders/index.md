@@ -1,6 +1,6 @@
 # The Flinders
 
-The Flinders is a music venue in Sydney with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "BLACK NOIR presents: JARALDINIO" on Fri, 6 Nov 2026.
+The Flinders is a music venue in Sydney with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "BLACK NOIR presents: JARALDINIO" on Fri, 6 Nov 2026.
 
 The Flinders is a music venue in Sydney listed on soundcheck. 5 upcoming gigs, with line-ups including <777>, Arabesque, Bleach and I-SO and 2 more. See dates, start times and who's playing. 63-65 Flinders St; Darlinghurst, NSW 2010; Australia.
 
@@ -18,4 +18,4 @@ The Flinders is a music venue in Sydney listed on soundcheck. 5 upcoming gigs, w
 
 63-65 Flinders St; Darlinghurst, NSW 2010; Australia, Sydney
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/the-flinders/)*

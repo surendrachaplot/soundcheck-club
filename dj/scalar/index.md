@@ -1,6 +1,6 @@
 # Scalar
 
-Scalar is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Luka, Seoul on Sun, 8 Nov 2026.
+Scalar is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Luka, Seoul on Sun, 8 Nov 2026.
 
 Scalar is a trance and progressive house artist based in South Korea, with 6 gigs on soundcheck across Seoul. Often billed alongside Casepeat, Kago Pengchi and Purple Rabbit. Next up: Luka, Seoul on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ Scalar is a trance and progressive house artist based in South Korea, with 6 gig
 
 Casepeat, Kago Pengchi, Purple Rabbit
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scalar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scalar/)*

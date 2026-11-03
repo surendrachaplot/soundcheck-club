@@ -1,6 +1,6 @@
 # Ortarix
 
-Ortarix is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
+Ortarix is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
 
 Ortarix is a house and minimal artist based in United Kingdom, with 18 gigs on soundcheck across Brighton and London. Often billed alongside Asa Ray, DMC. and Lewis Carroll. Next up: Patterns, Brighton on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Ortarix is a house and minimal artist based in United Kingdom, with 18 gigs on s
 
 Asa Ray, DMC., Lewis Carroll
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ortarix/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ortarix/)*

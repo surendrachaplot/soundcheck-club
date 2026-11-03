@@ -1,6 +1,6 @@
 # CSS
 
-CSS is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at 1720, Los Angeles on Fri, 6 Nov 2026.
+CSS is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at 1720, Los Angeles on Fri, 6 Nov 2026.
 
 CSS is a house and electronica artist based in Brazil, with 3 gigs on soundcheck across Lisbon and Los Angeles. Often billed alongside Bag Raiders, Chris Cruse and Passion Pit. Next up: 1720, Los Angeles on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ CSS is a house and electronica artist based in Brazil, with 3 gigs on soundcheck
 
 Bag Raiders, Chris Cruse, Passion Pit
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/css/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/css/)*

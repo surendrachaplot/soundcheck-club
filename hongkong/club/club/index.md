@@ -1,6 +1,6 @@
 # 宀 Club
 
-宀 Club is a music venue in Hong Kong with 19 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Charlieowo invites MeiXing and WhiTe (Beijing)" on Fri, 6 Nov 2026.
+宀 Club is a music venue in Hong Kong with 19 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Charlieowo invites MeiXing and WhiTe (Beijing)" on Fri, 6 Nov 2026.
 
 宀 Club is a music venue in Hong Kong listed on soundcheck. 19 upcoming gigs, with line-ups including ADRIANNA.C, Anyss, Bouffant Bouffant and Charlieowo and 2 more. See dates, start times and who's playing. 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong.
 
@@ -15,7 +15,7 @@
 | Fri, 20 Nov 2026 | Entropy 熵 with Valentin Ginies (11001 Records, Berlin) + Nanogram (Entropy 熵) + suz eq (enzyme) | Nanogram, Valentin Ginies, suz eq |
 | Sat, 21 Nov 2026 | HOST 8TH ANNIVERSARY with Bouffant Bouffant (New Orleans) & Sulk (Taipei) | Bouffant Bouffant, Sulk |
 | Fri, 27 Nov 2026 | FOLD x 宀 with James Newmarch & Voicedrone (FOLD, London) + Faxtory & Scott B (Distrikt, HK) | Faxtory, James Newmarch, Scott B, Voicedrone |
-| Sat, 28 Nov 2026 | enzyme invites Yubu + Yu Mi (Yummy Trax, Amsterdam) | Yubu, Yumi, enzyme, maxi.milian, suz eq |
+| Sat, 28 Nov 2026 | enzyme invites Yubu + Yu Mi (Yummy Trax, Amsterdam) | Yu Mi, Yubu, enzyme, maxi.milian, suz eq |
 | Fri, 4 Dec 2026 | Jane Fitz (宀, London) & Luisa (andco, Lisbon) | Jane Fitz, Luisa |
 | Fri, 11 Dec 2026 | Entropy 熵 with SSTROM (The Trilogy Tape, Stockholm) + Marco Yu (TRI) + Nanogram (Entropy 熵) | MarcoYu, Nanogram, SSTROM |
 
@@ -23,4 +23,4 @@
 
 4F, 279 Des Voeux Road Central, Sheung Wan, Hong Kong, Hong Kong
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/club/)*

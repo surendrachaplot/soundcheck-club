@@ -1,6 +1,6 @@
 # Nomal
 
-Nomal is a Minimal Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
+Nomal is a Minimal Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
 
 Nomal is a minimal techno and minimal artist based in South Korea, with 41 gigs on soundcheck across Seoul and South Korea. Often billed alongside Kibum, Mihak and Jongho. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Nomal is a minimal techno and minimal artist based in South Korea, with 41 gigs 
 
 Kibum, Mihak, Jongho
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomal-KR/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomal-KR/)*

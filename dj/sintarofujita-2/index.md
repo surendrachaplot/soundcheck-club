@@ -1,14 +1,15 @@
 # sintaro fujita (2)
 
-sintaro fujita (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at BAR Inc, Osaka on Tue, 3 Nov 2026.
+sintaro fujita (2) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at BAR Inc, Osaka on Tue, 3 Nov 2026.
 
-sintaro fujita is a techno and bass artist based in Japan, with 21 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Naco, _goodbyeforever_ and ykah. Next up: BAR Inc, Osaka on Tue 3 Nov.
+sintaro fujita is a techno and bass artist based in Japan, with 22 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Naco, ykah and _goodbyeforever_. Next up: BAR Inc, Osaka on Tue 3 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 3 Nov 2026 | BAR Inc | Osaka |
+| Sat, 7 Nov 2026 | Club Metro | Kyoto |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ sintaro fujita is a techno and bass artist based in Japan, with 21 gigs on sound
 
 ## Shares bills with
 
-Naco (2), _goodbyeforever_, ykah
+Naco (2), ykah, _goodbyeforever_
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sintarofujita-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sintarofujita-2/)*

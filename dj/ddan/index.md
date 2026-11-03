@@ -1,13 +1,14 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at ELYSIUM SEVILLA, South on Fri, 6 Nov 2026.
+D.Dan is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-D.Dan is a techno and house artist based in United States of America, with 236 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: ELYSIUM SEVILLA, South on Fri 6 Nov.
+D.Dan is a techno and house artist based in United States of America, with 237 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Fri, 6 Nov 2026 | ELYSIUM SEVILLA | South |
 | Fri, 13 Nov 2026 | Turbina | Budapest |
 | Sat, 14 Nov 2026 | FOLD | London |
@@ -19,7 +20,6 @@ D.Dan is a techno and house artist based in United States of America, with 236 g
 | Sat, 5 Dec 2026 | Art Club | Houston |
 | Fri, 11 Dec 2026 | The Wall | El-paso |
 | Sat, 12 Dec 2026 | TBA - Denver | Denver |
-| Thu, 17 Dec 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ D.Dan is a techno and house artist based in United States of America, with 236 g
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

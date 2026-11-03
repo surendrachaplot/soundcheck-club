@@ -1,6 +1,6 @@
 # The Muffin Man
 
-The Muffin Man is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 5 Nov 2026.
+The Muffin Man is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Berkeley Suite, Glasgow on Thu, 5 Nov 2026.
 
 The Muffin Man is a techno and trance artist based in Italy, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Basel and 33 more. Often billed alongside JOKESONYOU, Funk Tribu and Justin Tinderdate. Next up: The Berkeley Suite, Glasgow on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ The Muffin Man is a techno and trance artist based in Italy, with 95 gigs on sou
 
 JOKESONYOU, Funk Tribu, Justin Tinderdate
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/themuffinman/)*

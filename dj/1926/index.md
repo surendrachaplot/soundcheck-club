@@ -1,6 +1,6 @@
 # 19:26
 
-19:26 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sat, 21 Nov 2026.
+19:26 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Parque Ciudad Empresarial, Santiago on Sat, 21 Nov 2026.
 
 19:26 is a techno and house artist based in Italy, with 84 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 31 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Parque Ciudad Empresarial, Santiago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@
 
 Tale Of Us, Chris Avantgarde, Kevin de Vries
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1926/)*

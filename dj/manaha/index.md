@@ -1,6 +1,6 @@
 # Manaha
 
-Manaha is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 14 Nov 2026.
+Manaha is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 14 Nov 2026.
 
 Manaha is a house and tech house artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside Rickey Shannon, 50Minimals and An toi. Next up: Enter Shibuya, Tokyo on Sat 14 Nov.
 
@@ -13,6 +13,7 @@ Manaha is a house and tech house artist based in Japan, with 10 gigs on soundche
 
 ## Recently played
 
+- Harajuku Quest, Tokyo · Mon, 2 Nov 2026
 - DJ Bar Bridge, Tokyo · Sat, 24 Oct 2026
 - Enter Shibuya, Tokyo · Sat, 10 Oct 2026
 - Mitsuki, Tokyo · Sat, 19 Sept 2026
@@ -25,4 +26,4 @@ Manaha is a house and tech house artist based in Japan, with 10 gigs on soundche
 
 Rickey Shannon, 50Minimals, An toi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manaha/)*

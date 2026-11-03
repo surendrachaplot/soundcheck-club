@@ -1,6 +1,6 @@
 # DJ MANDY
 
-DJ MANDY is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+DJ MANDY is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
 
 DJ MANDY is a house and tech house artist based in United States of America, with 27 gigs on soundcheck across Boston, Dallas Fort Worth, Dallas/Fort Worth and Detroit and 11 more. Often billed alongside Gryffin, KETTAMA and Cloonee. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
 
@@ -27,4 +27,4 @@ DJ MANDY is a house and tech house artist based in United States of America, wit
 
 Gryffin, KETTAMA, Cloonee
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmandy/)*

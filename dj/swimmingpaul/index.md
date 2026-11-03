@@ -1,6 +1,6 @@
 # Swimming Paul
 
-Swimming Paul is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Zoom Club, Frankfurt on Sat, 7 Nov 2026.
+Swimming Paul is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Zoom Club, Frankfurt on Sat, 7 Nov 2026.
 
 Swimming Paul is a house and garage artist based in France, with 76 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 38 more. Often billed alongside OGUZ, Alex Wann and Beltran. Next up: Zoom Club, Frankfurt on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Swimming Paul is a house and garage artist based in France, with 76 gigs on soun
 
 OGUZ, Alex Wann, Beltran
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swimmingpaul/)*

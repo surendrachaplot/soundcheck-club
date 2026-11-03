@@ -1,6 +1,6 @@
 # Modestep
 
-Modestep is a Dubstep and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Komplex Klub, Zurich on Tue, 10 Nov 2026.
+Modestep is a Dubstep and Drum & Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Komplex Klub, Zurich on Tue, 10 Nov 2026.
 
 Modestep is a dubstep and drum & bass artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Bratislava, Bristol and Budapest and 14 more. Often billed alongside Dirtyphonics, Enei and Koven. Next up: Komplex Klub, Zurich on Tue 10 Nov.
 
@@ -29,4 +29,4 @@ Modestep is a dubstep and drum & bass artist based in United Kingdom, with 25 gi
 
 Dirtyphonics, Enei, Koven
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modestep/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modestep/)*

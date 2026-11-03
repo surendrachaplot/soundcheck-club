@@ -1,6 +1,6 @@
 # [119]
 
-[119] is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "JUICY QUEER DANCE" on Fri, 6 Nov 2026.
+[119] is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "JUICY QUEER DANCE" on Fri, 6 Nov 2026.
 
 [119] is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Afgang, LUCKY4U, Mia Lund and RON B and 1 more. See dates, start times and who's playing. Storkower Straße 119, 10407 Berlin.
 
@@ -15,4 +15,4 @@
 
 Storkower Straße 119, 10407 Berlin, Berlin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*

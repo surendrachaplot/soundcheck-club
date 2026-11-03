@@ -1,6 +1,6 @@
 # Ben Caldwell
 
-Ben Caldwell is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Are You Affiliated, Newcastle on Fri, 18 Dec 2026.
+Ben Caldwell is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Are You Affiliated, Newcastle on Fri, 18 Dec 2026.
 
 Ben Caldwell is a techno and electronica artist based in United Kingdom, with 17 gigs on soundcheck across London and Newcastle. Often billed alongside Man Power, Boo and ROSIE. Next up: Are You Affiliated, Newcastle on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Ben Caldwell is a techno and electronica artist based in United Kingdom, with 17
 
 Man Power, Boo, ROSIE
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bencaldwell/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bencaldwell/)*

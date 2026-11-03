@@ -1,6 +1,6 @@
 # Lilak Mind
 
-Lilak Mind is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 6 Nov 2026.
+Lilak Mind is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 6 Nov 2026.
 
 Lilak Mind is a drum & bass and dubstep artist, with 3 gigs on soundcheck across Karlsruhe, Mannheim and Stuttgart. Often billed alongside Bias, JAZ IMSKY and Jolie P. Next up: Disco Zwei, Mannheim on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Lilak Mind is a drum & bass and dubstep artist, with 3 gigs on soundcheck across
 
 Bias, JAZ IMSKY, Jolie P
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilakmind/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilakmind/)*

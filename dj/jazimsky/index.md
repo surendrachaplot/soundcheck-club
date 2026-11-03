@@ -1,6 +1,6 @@
 # JAZ IMSKY
 
-JAZ IMSKY is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 6 Nov 2026.
+JAZ IMSKY is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 6 Nov 2026.
 
 JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 35 gigs on soundcheck across Barcelona, Brighton, Bristol and Gothenburg and 8 more. Often billed alongside SKALAH (UK), Sir Spyro and Flava D. Next up: Disco Zwei, Mannheim on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ JAZ IMSKY is a dubstep and bass artist based in United Kingdom, with 35 gigs on 
 
 SKALAH (UK), Sir Spyro, Flava D
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazimsky/)*

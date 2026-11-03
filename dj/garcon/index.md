@@ -1,6 +1,6 @@
 # Garçon
 
-Garçon is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+Garçon is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
 
 Garçon is a techno and house artist based in Switzerland, with 96 gigs on soundcheck across Amsterdam, Barcelona, Basel and Beijing and 31 more. Often billed alongside Agonis, Timnah and Konduku. Next up: Kauz, Zurich on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Garçon is a techno and house artist based in Switzerland, with 96 gigs on sound
 
 Agonis, Timnah, Konduku
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garcon/)*

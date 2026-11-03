@@ -1,6 +1,6 @@
 # LuxFux
 
-LuxFux is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+LuxFux is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
 
 LuxFux is a techno and house artist, with 4 gigs on soundcheck across Basel and Zurich. Often billed alongside AVEM, Alissa and Ander. Next up: Kauz, Zurich on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ LuxFux is a techno and house artist, with 4 gigs on soundcheck across Basel and 
 
 AVEM, Alissa, Ander
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luxfux/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luxfux/)*

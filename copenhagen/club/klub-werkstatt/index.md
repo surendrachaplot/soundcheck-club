@@ -1,6 +1,6 @@
 # Klub Werkstatt
 
-Klub Werkstatt is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "ESCAPISM w/ Max Styler – Extended Set" on Sat, 7 Nov 2026.
+Klub Werkstatt is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "ESCAPISM w/ Max Styler – Extended Set" on Sat, 7 Nov 2026.
 
 Klub Werkstatt is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Eski, Max Styler, NILU and tadoh. See dates, start times and who's playing. Refshalevej 167A, 1432, Copenhagen.
 
@@ -14,4 +14,4 @@ Klub Werkstatt is a music venue in Copenhagen listed on soundcheck. 1 upcoming g
 
 Refshalevej 167A, 1432, Copenhagen, Copenhagen
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/klub-werkstatt/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/klub-werkstatt/)*

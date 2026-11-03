@@ -1,6 +1,6 @@
 # ovrrride
 
-ovrrride is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Shaft, Tohoku on Wed, 25 Nov 2026.
+ovrrride is a Bass and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Shaft, Tohoku on Wed, 25 Nov 2026.
 
 ovrrride is a bass and hip-hop artist based in Japan, with 9 gigs on soundcheck across Tohoku and Tokyo. Often billed alongside DUCK, BLUEMEW and Shimon Taka. Next up: Club Shaft, Tohoku on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ ovrrride is a bass and hip-hop artist based in Japan, with 9 gigs on soundcheck 
 
 DUCK, BLUEMEW, Shimon Taka
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrrride/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrrride/)*

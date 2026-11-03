@@ -1,6 +1,6 @@
 # KMAT
 
-KMAT is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Levelthree Premium Venue, Johannesburg on Sat, 7 Nov 2026.
+KMAT is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Levelthree Premium Venue, Johannesburg on Sat, 7 Nov 2026.
 
 KMAT is a house and afro house artist, with 9 gigs on soundcheck across Amsterdam, Bali, Cape Town and Ibiza and 2 more. Often billed alongside Atmos Blaq, Damian Lazarus and Karyendasoul. Next up: Levelthree Premium Venue, Johannesburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KMAT is a house and afro house artist, with 9 gigs on soundcheck across Amsterda
 
 Atmos Blaq, Damian Lazarus, Karyendasoul
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmat/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmat/)*

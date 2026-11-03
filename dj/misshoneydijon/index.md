@@ -1,6 +1,6 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Sawmills, Bristol on Sat, 7 Nov 2026.
+Honey Dijon is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sawmills, Bristol on Sat, 7 Nov 2026.
 
 Honey Dijon is a house and techno artist based in United States of America, with 210 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 47 more. Often billed alongside Chloé Caillet, Mochakk and CHRIS STASSY. Next up: Sawmills, Bristol on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Honey Dijon is a house and techno artist based in United States of America, with
 
 Chloé Caillet, Mochakk, CHRIS STASSY
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

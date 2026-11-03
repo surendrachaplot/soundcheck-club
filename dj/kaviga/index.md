@@ -1,6 +1,6 @@
 # kaviga
 
-kaviga is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
+kaviga is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
 
 kaviga is a house and electro artist based in Spain, with 3 gigs on soundcheck across Barcelona. Often billed alongside B2G, Lakss and Balou. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ kaviga is a house and electro artist based in Spain, with 3 gigs on soundcheck a
 
 B2G (1), Lakss, Balou (2)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaviga/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaviga/)*

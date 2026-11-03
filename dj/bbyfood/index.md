@@ -1,6 +1,6 @@
 # BBY FOOD
 
-BBY FOOD is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at VFD, London on Fri, 13 Nov 2026.
+BBY FOOD is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at VFD, London on Fri, 13 Nov 2026.
 
 BBY FOOD is a club and house artist, with 3 gigs on soundcheck across London. Often billed alongside kcutie, Jasmine Alice and Jaye Ward. Next up: VFD, London on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ BBY FOOD is a club and house artist, with 3 gigs on soundcheck across London. Of
 
 kcutie, Jasmine Alice, Jaye Ward
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyfood/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbyfood/)*

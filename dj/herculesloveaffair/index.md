@@ -1,6 +1,6 @@
 # Hercules & Love Affair
 
-Hercules & Love Affair is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Night Cat, Melbourne on Sat, 14 Nov 2026.
+Hercules & Love Affair is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Night Cat, Melbourne on Sat, 14 Nov 2026.
 
 Hercules & Love Affair are a house and disco duo based in United States of America, with 79 gigs on soundcheck across Athens, Atlanta, Bali and Bangkok and 37 more. Often billed alongside HAAi, COBRAH and Horse Meat Disco. Next up: The Night Cat, Melbourne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Hercules & Love Affair are a house and disco duo based in United States of Ameri
 
 HAAi, COBRAH, Horse Meat Disco
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herculesloveaffair/)*

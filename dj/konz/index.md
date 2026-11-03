@@ -1,14 +1,15 @@
 # KONZ
 
-KONZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at BASEMENT, New York City on Sat, 14 Nov 2026.
+KONZ is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at BASEMENT, New York City on Sat, 14 Nov 2026.
 
-KONZ is a techno and house artist based in Mexico, with 38 gigs on soundcheck across Berlin, Hamburg, London and Mexico City and 3 more. Often billed alongside djslut, Amphia and VINVAR. Next up: BASEMENT, New York City on Sat 14 Nov.
+KONZ is a techno and house artist based in Mexico, with 39 gigs on soundcheck across Berlin, Hamburg, London and Mexico City and 3 more. Often billed alongside djslut, Amphia and VINVAR. Next up: BASEMENT, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | BASEMENT | New York City |
+| Sat, 19 Dec 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KONZ is a techno and house artist based in Mexico, with 38 gigs on soundcheck ac
 
 djslut, Amphia, VINVAR
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konz/)*

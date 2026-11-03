@@ -1,6 +1,6 @@
 # AOIFE
 
-AOIFE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The DBA, Manchester on Fri, 1 Jan 2027.
+AOIFE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The DBA, Manchester on Fri, 1 Jan 2027.
 
 AOIFE is a techno and house artist based in Ireland, with 40 gigs on soundcheck across Amsterdam, Berlin, Cork and Dublin and 6 more. Often billed alongside Sparkling Water Dreams, DJ Speed and Offtrack. Next up: The DBA, Manchester on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ AOIFE is a techno and house artist based in Ireland, with 40 gigs on soundcheck 
 
 Sparkling Water Dreams, DJ Speed, Offtrack
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aoife/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aoife/)*

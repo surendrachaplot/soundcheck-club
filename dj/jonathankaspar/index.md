@@ -1,6 +1,6 @@
 # Jonathan Kaspar
 
-Jonathan Kaspar is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Volt Club Milano, Milan on Sat, 14 Nov 2026.
+Jonathan Kaspar is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Volt Club Milano, Milan on Sat, 14 Nov 2026.
 
 Jonathan Kaspar is a house and techno artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Argentina, Athens and Barcelona and 35 more. Often billed alongside Mira, Kollektiv Turmstrasse and Mano Le Tough. Next up: Volt Club Milano, Milan on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Jonathan Kaspar is a house and techno artist based in Germany, with 215 gigs on 
 
 Mira, Kollektiv Turmstrasse, Mano Le Tough
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonathankaspar/)*

@@ -1,6 +1,6 @@
 # Barry Cooke
 
-Barry Cooke is a Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Roxy Woodstock, Cape Town on Fri, 13 Nov 2026.
+Barry Cooke is a Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Roxy Woodstock, Cape Town on Fri, 13 Nov 2026.
 
 Barry Cooke is a trance artist, with 2 gigs on soundcheck across Cape Town. Next up: Roxy Woodstock, Cape Town on Fri 13 Nov.
 
@@ -14,4 +14,4 @@ Barry Cooke is a trance artist, with 2 gigs on soundcheck across Cape Town. Next
 
 - Roxy Woodstock, Cape Town · Sat, 8 Aug 2026
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barrycooke/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barrycooke/)*

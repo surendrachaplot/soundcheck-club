@@ -1,14 +1,13 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 41 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Masahide Ohno, SISINOBU, niwa & Taichi Nagayama" on Mon, 2 Nov 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 40 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Toshiyuki Goto & Moc" on Tue, 3 Nov 2026.
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 41 upcoming gigs, with line-ups including Abiu, callithyia, Dazzle Drums and Dictionally and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 40 upcoming gigs, with line-ups including Abiu, callithyia, Dazzle Drums and Dictionally and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Masahide Ohno, SISINOBU, niwa & Taichi Nagayama | Masahide Ohno, Taichi Nagayama, niwa |
 | Tue, 3 Nov 2026 | Toshiyuki Goto & Moc | Toshiyuki Goto |
 | Wed, 4 Nov 2026 | Lil' Leise But Gold & SKNHDZ | SKNHDZ |
 | Thu, 5 Nov 2026 | RUKE, TAKENOKO & Sonia Lagoon | RUKE, Sonia Lagoon (2), TAKENOKO |
@@ -18,9 +17,10 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 41 upcomi
 | Tue, 10 Nov 2026 | Toshiyuki Goto & TSU→ | Toshiyuki Goto |
 | Wed, 11 Nov 2026 | Mr.Disco Kid & James Glass | Mr. Disco Kid |
 | Thu, 12 Nov 2026 | Dubyama Jazzo & Go ↑ Menz |  |
+| Fri, 13 Nov 2026 | HIROSHI KAWANABE & YO.AN | YO.AN |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

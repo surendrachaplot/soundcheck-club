@@ -1,6 +1,6 @@
 # Réti Virág
 
-Réti Virág is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Atno, Budapest on Sat, 7 Nov 2026.
+Réti Virág is a Ambient and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Atno, Budapest on Sat, 7 Nov 2026.
 
 Réti Virág is an ambient and electronica artist based in Hungary, with 3 gigs on soundcheck across Budapest. Often billed alongside BLNDFLD, Nyxa and Rozi Mákó. Next up: Atno, Budapest on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Réti Virág is an ambient and electronica artist based in Hungary, with 3 gigs 
 
 BLNDFLD, Nyxa, Rozi Mákó
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/retivirag/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/retivirag/)*

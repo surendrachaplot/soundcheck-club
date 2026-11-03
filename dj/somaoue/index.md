@@ -1,6 +1,6 @@
 # Soma Oue
 
-Soma Oue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 14 Nov 2026.
+Soma Oue is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Sat, 14 Nov 2026.
 
 Soma Oue is a techno and house artist based in Japan, with 3 gigs on soundcheck across Tokyo. Often billed alongside AHREUM, Bart Skils and Drunken Kong. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Soma Oue is a techno and house artist based in Japan, with 3 gigs on soundcheck 
 
 AHREUM, Bart Skils, Drunken Kong
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somaoue/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somaoue/)*

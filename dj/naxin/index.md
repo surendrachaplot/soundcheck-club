@@ -1,6 +1,6 @@
 # NAXIN
 
-NAXIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 28 Nov 2026.
+NAXIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 28 Nov 2026.
 
 NAXIN is a techno and house artist based in China, with 28 gigs on soundcheck across Beijing, Belgrade, Milan and Shanghai and 1 more. Often billed alongside Ma Haiping, Shanghai Ultra and Ecilo. Next up: Reactor Shanghai, Shanghai on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ NAXIN is a techno and house artist based in China, with 28 gigs on soundcheck ac
 
 Ma Haiping, Shanghai Ultra, Ecilo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naxin/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naxin/)*

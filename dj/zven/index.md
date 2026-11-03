@@ -1,6 +1,6 @@
 # Zvèn
 
-Zvèn is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Kino Siska, Ljubljana on Thu, 5 Nov 2026.
+Zvèn is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kino Siska, Ljubljana on Thu, 5 Nov 2026.
 
 Zvèn is a bass and techno artist based in Slovenia, with 25 gigs on soundcheck across Ljubljana and Slovenia. Often billed alongside Jaša Bužinel, Blažen DJ and maša (SI). Next up: Kino Siska, Ljubljana on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Zvèn is a bass and techno artist based in Slovenia, with 25 gigs on soundcheck 
 
 Jaša Bužinel, Blažen DJ, maša (SI)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zven/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zven/)*

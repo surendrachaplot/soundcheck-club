@@ -1,8 +1,8 @@
 # Tizia
 
-Tizia is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Industrial Location (Berlin), Berlin on Fri, 13 Nov 2026.
+Tizia is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Industrial Location (Berlin), Berlin on Fri, 13 Nov 2026.
 
-Tizia is a house and experimental artist based in Germany, with 8 gigs on soundcheck across Berlin, Ibiza, Mexico City and Miami and 1 more. Often billed alongside Agoria, Gandalf and Guy Gerber. Next up: TBA - Secret Industrial Location (Berlin), Berlin on Fri 13 Nov.
+Tizia is a house and experimental artist based in Germany, with 8 gigs on soundcheck across Berlin, Ibiza, Mexico City and Miami and 1 more. Often billed alongside Agoria, Fabe and Gandalf. Next up: TBA - Secret Industrial Location (Berlin), Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Tizia is a house and experimental artist based in Germany, with 8 gigs on soundc
 
 ## Shares bills with
 
-Agoria, Gandalf, Guy Gerber
+Agoria, Fabe, Gandalf
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tizia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tizia/)*

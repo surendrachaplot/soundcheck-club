@@ -1,6 +1,6 @@
 # Loris
 
-Loris is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+Loris is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
 
 Loris is a techno and club artist based in Mexico, with 73 gigs on soundcheck across Amsterdam, Armenia, Berlin and Bogotá and 15 more. Often billed alongside 1OO1O, Kodemul and PAURRO. Next up: SISSI'S Amsterdam, Amsterdam on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Loris is a techno and club artist based in Mexico, with 73 gigs on soundcheck ac
 
 1OO1O, Kodemul, PAURRO
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loris/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loris/)*

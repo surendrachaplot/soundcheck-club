@@ -1,8 +1,8 @@
 # Grow
 
-Grow is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Salotto Sounds X Daydream Disco" on Fri, 6 Nov 2026.
+Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Salotto Sounds X Daydream Disco" on Fri, 6 Nov 2026.
 
-Grow is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alfaz, Alfie Panaiotis, ARLYSS and Beavs and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alfaz, Alfie Panaiotis, ARLYSS and Beavs and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Grow is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 | Sat, 21 Nov 2026 | Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes | Tina Edwards |
 | Fri, 27 Nov 2026 | Discothèque Tropicale 4th Birthday: JOSH FB, Caldo Verde, Beavs, Lena C, Fred Salt, | Beavs, JOSH FB, Léna C |
 | Sat, 28 Nov 2026 | DeepDig: MarshmeLLo (NTS) // Kanem | Kanem, MarshmeLLo |
+| Sun, 29 Nov 2026 | Fresh Beats by London School of Electronic Music |  |
 | Sat, 12 Dec 2026 | GIRLZ B LIKE GLITTER AND GOLD BALL: Marcia Carr // KINKY D + SPECIAL GUESTS | Marcia Carr |
 | Thu, 31 Dec 2026 | New Year's Eve: Tumbaito [Live], Alfie Panaiotis, Paloma, Tall Nico | Alfie Panaiotis, Paloma (DJ), Tall Nico |
 
@@ -22,4 +23,4 @@ Grow is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

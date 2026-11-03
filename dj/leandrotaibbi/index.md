@@ -1,8 +1,8 @@
 # Leandro Taibbi
 
-Leandro Taibbi is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Night Market, Milan on Thu, 12 Nov 2026.
+Leandro Taibbi is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Night Market, Milan on Thu, 12 Nov 2026.
 
-Leandro Taibbi is a techno and industrial artist, with 8 gigs on soundcheck across Berlin and Milan. Often billed alongside VISIONARY, ALXV and ANEM1. Next up: Night Market, Milan on Thu 12 Nov.
+Leandro Taibbi is a techno and industrial artist based in Italy, with 8 gigs on soundcheck across Berlin and Milan. Often billed alongside VISIONARY, ALXV and ANEM1. Next up: Night Market, Milan on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Leandro Taibbi is a techno and industrial artist, with 8 gigs on soundcheck acro
 
 VISIONARY, ALXV, ANEM1
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leandrotaibbi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leandrotaibbi/)*

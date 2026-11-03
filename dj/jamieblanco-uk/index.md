@@ -1,6 +1,6 @@
 # Jamie Blanco
 
-Jamie Blanco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Melbourne on Sat, 14 Nov 2026.
+Jamie Blanco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Melbourne on Sat, 14 Nov 2026.
 
 Jamie Blanco is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Byron Bay, Melbourne and Sydney. Often billed alongside Kato, DJ Subaru and Dea Barandana. Next up: TBA, Melbourne on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Jamie Blanco is a house and disco artist based in United Kingdom, with 6 gigs on
 
 Kato, DJ Subaru, Dea Barandana
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieblanco-uk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamieblanco-uk/)*

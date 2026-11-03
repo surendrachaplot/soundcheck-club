@@ -1,6 +1,6 @@
 # Vass
 
-Vass is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Yard, Manchester on Sat, 7 Nov 2026.
+Vass is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Yard, Manchester on Sat, 7 Nov 2026.
 
 Vass is a techno and electro artist based in United Kingdom, with 119 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 37 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: The Yard, Manchester on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Vass is a techno and electro artist based in United Kingdom, with 119 gigs on so
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

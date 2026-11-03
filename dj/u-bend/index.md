@@ -1,6 +1,6 @@
 # U-BEND
 
-U-BEND is a Balearic and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Victory, London on Sat, 30 Jan 2027.
+U-BEND is a Balearic and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Victory, London on Sat, 30 Jan 2027.
 
 U-BEND is a balearic and acid artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London, Manchester and Melbourne. Often billed alongside A For Alpha, A-Bril and AYSHA. Next up: The Victory, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ U-BEND is a balearic and acid artist based in United Kingdom, with 11 gigs on so
 
 A For Alpha, A-Bril, AYSHA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-bend/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/u-bend/)*

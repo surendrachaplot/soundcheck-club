@@ -1,6 +1,6 @@
 # Jordan smith
 
-Jordan smith is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Nice N Sleazy, Glasgow on Fri, 4 Dec 2026.
+Jordan smith is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Nice N Sleazy, Glasgow on Fri, 4 Dec 2026.
 
 Jordan smith is a techno artist based in United Kingdom, with 3 gigs on soundcheck across Glasgow. Often billed alongside Sirius Alza, Julz Lever and iluna. Next up: Nice N Sleazy, Glasgow on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Jordan smith is a techno artist based in United Kingdom, with 3 gigs on soundche
 
 Sirius Alza, Julz Lever, iluna
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordansmith/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jordansmith/)*

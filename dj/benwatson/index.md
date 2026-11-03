@@ -1,6 +1,6 @@
 # Ben Watson
 
-Ben Watson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Artworks East, London on Sat, 5 Dec 2026.
+Ben Watson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Artworks East, London on Sat, 5 Dec 2026.
 
 Ben Watson is a house and techno artist based in United Kingdom, with 2 gigs on soundcheck across Glasgow and London. Often billed alongside David Scott, Daisy Moon and Kyle Scott. Next up: Artworks East, London on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Ben Watson is a house and techno artist based in United Kingdom, with 2 gigs on 
 
 David Scott, Daisy Moon, Kyle Scott
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwatson/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwatson/)*

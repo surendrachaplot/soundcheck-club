@@ -1,6 +1,6 @@
 # NIKKI XO
 
-NIKKI XO is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Folklore, London on Sun, 13 Dec 2026.
+NIKKI XO is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Folklore, London on Sun, 13 Dec 2026.
 
 NIKKI XO is a progressive house and deep house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside GYS (TT), Tris (UK) and A.R.I.E.S.. Next up: Folklore, London on Sun 13 Dec.
 
@@ -19,4 +19,4 @@ NIKKI XO is a progressive house and deep house artist based in United Kingdom, w
 
 GYS (TT), Tris (UK), A.R.I.E.S.
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkixo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikkixo/)*

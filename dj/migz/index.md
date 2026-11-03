@@ -1,6 +1,6 @@
 # Migz
 
-Migz is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cu, London on Wed, 4 Nov 2026.
+Migz is a Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cu, London on Wed, 4 Nov 2026.
 
 Migz is a bass and jungle artist based in Malta, with 52 gigs on soundcheck across Berlin, London, Malta and Stockholm. Often billed alongside Dub Isotope, Upzet and Hovercat. Next up: Cu, London on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Migz is a bass and jungle artist based in Malta, with 52 gigs on soundcheck acro
 
 Dub Isotope, Upzet, Hovercat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/migz/)*

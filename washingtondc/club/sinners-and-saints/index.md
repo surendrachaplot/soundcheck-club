@@ -1,6 +1,6 @@
 # Sinners and Saints
 
-Sinners and Saints is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "HYPERDR!VE: VERSION 3.0" on Sat, 14 Nov 2026.
+Sinners and Saints is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "HYPERDR!VE: VERSION 3.0" on Sat, 14 Nov 2026.
 
 Sinners and Saints is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs, with line-ups including CYB3R T0NIN, EL SUCIO, Ether Pleaser and Franxx and 2 more. See dates, start times and who's playing. 2309 18th St NW, Washington, DC 20009, USA.
 
@@ -15,4 +15,4 @@ Sinners and Saints is a music venue in Washington DC listed on soundcheck. 2 upc
 
 2309 18th St NW, Washington, DC 20009, USA, Washington DC
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/sinners-and-saints/)*

@@ -1,6 +1,6 @@
 # Jon Byrne
 
-Jon Byrne is a Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fire, London on Sat, 21 Nov 2026.
+Jon Byrne is a Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fire, London on Sat, 21 Nov 2026.
 
 Jon Byrne is a tech house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Bradley Skeng, Fabio Luigi and HE.RA. Next up: Fire, London on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Jon Byrne is a tech house artist based in United Kingdom, with 4 gigs on soundch
 
 Bradley Skeng, Fabio Luigi, HE.RA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonbyrne/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonbyrne/)*

@@ -1,13 +1,14 @@
 # DIORA
 
-DIORA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at export, Rotterdam on Sat, 7 Nov 2026.
+DIORA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-DIORA is a techno and house artist based in South Africa, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cape Town and 9 more. Often billed alongside Slimfit, BARROSKINI and angelboy. Next up: export, Rotterdam on Sat 7 Nov.
+DIORA is a techno and house artist based in South Africa, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cape Town and 9 more. Often billed alongside Slimfit, BARROSKINI and angelboy. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Sat, 7 Nov 2026 | export | Rotterdam |
 | Fri, 4 Dec 2026 | CLUB RAUM | Amsterdam |
 
@@ -26,4 +27,4 @@ DIORA is a techno and house artist based in South Africa, with 73 gigs on soundc
 
 Slimfit, BARROSKINI, angelboy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diora/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diora/)*

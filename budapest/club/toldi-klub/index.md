@@ -1,6 +1,6 @@
 # Toldi Klub
 
-Toldi Klub is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Selecta x Ruffline // TOLDI" on Thu, 5 Nov 2026.
+Toldi Klub is a music venue in Budapest with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Selecta x Ruffline // TOLDI" on Thu, 5 Nov 2026.
 
 Toldi Klub is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, with line-ups including Cvrdwell, dtnb, Greg Orca and IPAR and 2 more. See dates, start times and who's playing. Bajcsy-Zsilinszky út 36-38, 1054 Budapest.
 
@@ -20,4 +20,4 @@ Toldi Klub is a music venue in Budapest listed on soundcheck. 7 upcoming gigs, w
 
 Bajcsy-Zsilinszky út 36-38, 1054 Budapest, Budapest
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/toldi-klub/)*

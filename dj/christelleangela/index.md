@@ -1,6 +1,6 @@
 # Christelle Angela
 
-Christelle Angela is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Rooftop105, Geneva on Sat, 14 Nov 2026.
+Christelle Angela is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Rooftop105, Geneva on Sat, 14 Nov 2026.
 
 Christelle Angela is a techno and industrial artist based in Switzerland, with 4 gigs on soundcheck across Geneva. Often billed alongside Sad Paco, Brady and HUGOAT. Next up: Rooftop105, Geneva on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Christelle Angela is a techno and industrial artist based in Switzerland, with 4
 
 Sad Paco, Brady, HUGOAT
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christelleangela/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christelleangela/)*

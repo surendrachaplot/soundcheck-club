@@ -1,6 +1,6 @@
 # Kalitos
 
-Kalitos is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Distillery, Leipzig on Fri, 13 Nov 2026.
+Kalitos is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Distillery, Leipzig on Fri, 13 Nov 2026.
 
 Kalitos is a techno and tech house artist based in Germany, with 4 gigs on soundcheck across Dresden and Leipzig. Often billed alongside Emeveka, OutWithJane and ATTA (GER). Next up: Distillery, Leipzig on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Kalitos is a techno and tech house artist based in Germany, with 4 gigs on sound
 
 Emeveka, OutWithJane, ATTA (GER)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donkallitos/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donkallitos/)*

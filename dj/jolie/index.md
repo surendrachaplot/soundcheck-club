@@ -1,6 +1,6 @@
 # Jolie
 
-Jolie is a Hip-Hop and Afro House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Sigurd CPH, Copenhagen on Sat, 28 Nov 2026.
+Jolie is a Hip-Hop and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sigurd CPH, Copenhagen on Sat, 28 Nov 2026.
 
 Jolie is a hip-hop and afro house artist based in Tanzania, with 44 gigs on soundcheck across Copenhagen, London, Manchester and New York City and 1 more. Often billed alongside MABINTI, Billy Daniel Bunter and Craze. Next up: Sigurd CPH, Copenhagen on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Jolie is a hip-hop and afro house artist based in Tanzania, with 44 gigs on soun
 
 MABINTI, Billy Daniel Bunter, Craze
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jolie/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jolie/)*

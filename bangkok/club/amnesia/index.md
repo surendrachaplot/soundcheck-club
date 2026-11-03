@@ -1,6 +1,6 @@
 # Amnesia
 
-Amnesia is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Hard Techno Rave feat. FRAH_MUSIC - FREE Drinks by INAKOMA" on Fri, 6 Nov 2026.
+Amnesia is a music venue in Bangkok with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Hard Techno Rave feat. FRAH_MUSIC - FREE Drinks by INAKOMA" on Fri, 6 Nov 2026.
 
 Amnesia is a music venue in Bangkok listed on soundcheck. 4 upcoming gigs, with line-ups including LonSkii and Sam Laxton. See dates, start times and who's playing. 21/77 Soi Phetchaburi 47, Intersection 10, Bang Kapi Subdistrict, Huai Khwang District, Bangkok 10310.
 
@@ -17,4 +17,4 @@ Amnesia is a music venue in Bangkok listed on soundcheck. 4 upcoming gigs, with 
 
 21/77 Soi Phetchaburi 47, Intersection 10, Bang Kapi Subdistrict, Huai Khwang District, Bangkok 10310, Bangkok
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/amnesia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/amnesia/)*

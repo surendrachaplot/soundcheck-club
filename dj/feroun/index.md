@@ -1,6 +1,6 @@
 # Feroun
 
-Feroun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Email deepsidebaltimore@gmail.com, Baltimore on Sat, 14 Nov 2026.
+Feroun is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Email deepsidebaltimore@gmail.com, Baltimore on Sat, 14 Nov 2026.
 
 Feroun is a house and techno artist based in Iran, with 65 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside unbound, Mazi_R and Aaron Sparks. Next up: TBA - Email deepsidebaltimore@gmail.com, Baltimore on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Feroun is a house and techno artist based in Iran, with 65 gigs on soundcheck ac
 
 unbound, Mazi_R, Aaron Sparks
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feroun/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feroun/)*

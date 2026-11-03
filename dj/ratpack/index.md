@@ -1,13 +1,14 @@
 # Ratpack
 
-Ratpack is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
+Ratpack is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Ministry Of Sound, London on Sat, 26 Dec 2026.
 
-Ratpack is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester and 1 more. Often billed alongside Slipmatt, Billy Daniel Bunter and Nicky Blackmarket. Next up: TBA, Amsterdam on Fri 9 Apr.
+Ratpack is a house and tech house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester and 1 more. Often billed alongside Slipmatt, Billy Daniel Bunter and Nicky Blackmarket. Next up: Ministry Of Sound, London on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 26 Dec 2026 | Ministry Of Sound | London |
 | Fri, 9 Apr 2027 | TBA | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ratpack is a house and tech house artist based in United Kingdom, with 38 gigs o
 
 Slipmatt, Billy Daniel Bunter, Nicky Blackmarket
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratpack/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratpack/)*

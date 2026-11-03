@@ -1,6 +1,6 @@
 # Torc
 
-Torc is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lavallée, Brussels on Thu, 19 Nov 2026.
+Torc is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lavallée, Brussels on Thu, 19 Nov 2026.
 
 Torc is a techno and electro artist, with 3 gigs on soundcheck across Amsterdam and Brussels. Often billed alongside Acid Lily, Basic Feelings and GARSA. Next up: Lavallée, Brussels on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ Torc is a techno and electro artist, with 3 gigs on soundcheck across Amsterdam 
 
 Acid Lily, Basic Feelings (2), GARSA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torc/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torc/)*

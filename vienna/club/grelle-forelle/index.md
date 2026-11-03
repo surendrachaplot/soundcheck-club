@@ -1,6 +1,6 @@
 # Grelle Forelle
 
-Grelle Forelle is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "MAHLWERK: Afem Syko & Lisa Korver with FADERCULT" on Fri, 6 Nov 2026.
+Grelle Forelle is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "MAHLWERK: Afem Syko & Lisa Korver with FADERCULT" on Fri, 6 Nov 2026.
 
 Grelle Forelle is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including Afem Syko, Altinbas, Annika Stein and Ben Derris and 2 more. See dates, start times and who's playing. Spittelauer Lände 12; 1090 Vienna; Austria.
 
@@ -17,4 +17,4 @@ Grelle Forelle is a music venue in Vienna listed on soundcheck. 4 upcoming gigs,
 
 Spittelauer Lände 12; 1090 Vienna; Austria, Vienna
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/grelle-forelle/)*

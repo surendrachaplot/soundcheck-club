@@ -1,6 +1,6 @@
 # Nu Aspect
 
-Nu Aspect is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Nu Aspect is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Nu Aspect is a house and techno artist based in United Kingdom, with 3 gigs on soundcheck across London, Los Angeles and Zurich. Often billed alongside A.N.I., Aaron Hibell and Above & Beyond. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Nu Aspect is a house and techno artist based in United Kingdom, with 3 gigs on s
 
 A.N.I., Aaron Hibell, Above & Beyond
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuaspect/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuaspect/)*

@@ -1,6 +1,6 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, San Diego on Fri, 6 Nov 2026.
+Tomoki Tamura is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, San Diego on Fri, 6 Nov 2026.
 
 Tomoki Tamura is a house and techno artist based in Germany, with 118 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Baltimore and 44 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: TBA, San Diego on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Tomoki Tamura is a house and techno artist based in Germany, with 118 gigs on so
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

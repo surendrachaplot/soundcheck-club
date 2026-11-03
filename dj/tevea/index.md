@@ -1,6 +1,6 @@
 # Tévéa
 
-Tévéa is a Dembow and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
+Tévéa is a Dembow and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
 
 Tévéa is a dembow and techno artist based in France, with 6 gigs on soundcheck across Paris. Often billed alongside Scarlett (ohgodscarlett), Tim Karbon and BJF. Next up: La Java, Paris on Tue 10 Nov.
 
@@ -22,4 +22,4 @@ Tévéa is a dembow and techno artist based in France, with 6 gigs on soundcheck
 
 Scarlett (ohgodscarlett), Tim Karbon, BJF
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tevea/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tevea/)*

@@ -1,6 +1,6 @@
 # Rob (NL)
 
-Rob (NL) is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 20 Feb 2027.
+Rob (NL) is a Tech House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Het Sieraad, Amsterdam on Sat, 20 Feb 2027.
 
 Rob (NL) is a tech house and acid artist, with 4 gigs on soundcheck across Amsterdam, Beijing, Medellin and Sheffield. Often billed alongside Alexander Koning, BABA (SA) and Buzz Fuzz. Next up: Het Sieraad, Amsterdam on Sat 20 Feb.
 
@@ -20,4 +20,4 @@ Rob (NL) is a tech house and acid artist, with 4 gigs on soundcheck across Amste
 
 Alexander Koning, BABA (SA), Buzz Fuzz
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rob-nl/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rob-nl/)*

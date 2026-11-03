@@ -1,6 +1,6 @@
 # YSL (Young Saucy Lovers)
 
-YSL (Young Saucy Lovers) is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Strange Brew, Bristol on Fri, 6 Nov 2026.
+YSL (Young Saucy Lovers) is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Strange Brew, Bristol on Fri, 6 Nov 2026.
 
 YSL (Young Saucy Lovers) is an electro and techno artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Bristol, London and Newcastle and 1 more. Often billed alongside ABSOLUTE., ACP. and Addison Groove. Next up: Strange Brew, Bristol on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ YSL (Young Saucy Lovers) is an electro and techno artist based in United Kingdom
 
 ABSOLUTE., ACP., Addison Groove
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yslyoungsaucylovers/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yslyoungsaucylovers/)*

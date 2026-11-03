@@ -1,6 +1,6 @@
 # Another Place (2)
 
-Another Place (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Movers, Nottingham on Thu, 26 Nov 2026.
+Another Place (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Movers, Nottingham on Thu, 26 Nov 2026.
 
 Another Place is a techno and house artist, with 3 gigs on soundcheck across Nottingham. Often billed alongside Evil Woman, Kay Fabe and BSXY. Next up: Movers, Nottingham on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ Another Place is a techno and house artist, with 3 gigs on soundcheck across Not
 
 Evil Woman, Kay Fabe, BSXY
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anotherplace-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anotherplace-2/)*

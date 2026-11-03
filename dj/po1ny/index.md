@@ -1,6 +1,6 @@
 # PO1NY
 
-PO1NY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Piekło nad Niebem, Warsaw on Sat, 14 Nov 2026.
+PO1NY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Piekło nad Niebem, Warsaw on Sat, 14 Nov 2026.
 
 PO1NY is a house and tech house artist based in Poland, with 4 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Mabu, Pysh and Korenberg. Next up: Piekło nad Niebem, Warsaw on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ PO1NY is a house and tech house artist based in Poland, with 4 gigs on soundchec
 
 Mabu, Pysh, Korenberg
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/po1ny/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/po1ny/)*

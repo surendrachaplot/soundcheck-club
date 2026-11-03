@@ -1,6 +1,6 @@
 # Chris Flannigan
 
-Chris Flannigan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 20 Nov 2026.
+Chris Flannigan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 20 Nov 2026.
 
 Chris Flannigan is a techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Aberdeen, Belfast, Berlin and Cork and 5 more. Often billed alongside CIAN__, Princess Glitoris and HI-KRU. Next up: Yamamori Tengu, Dublin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Chris Flannigan is a techno and house artist based in United Kingdom, with 31 gi
 
 CIAN__, Princess Glitoris, HI-KRU
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisflannigan/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisflannigan/)*

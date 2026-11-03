@@ -1,6 +1,6 @@
 # Xav (US)
 
-Xav (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Flash, Washington DC on Thu, 19 Nov 2026.
+Xav (US) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Flash, Washington DC on Thu, 19 Nov 2026.
 
 Xav (US) is a techno and house artist, with 46 gigs on soundcheck across Detroit, Los Angeles, Richmond and Washington DC. Often billed alongside Eric Yaz, STUKES and B_X_R_N_X_R_D. Next up: Flash, Washington DC on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Xav (US) is a techno and house artist, with 46 gigs on soundcheck across Detroit
 
 Eric Yaz, STUKES, B_X_R_N_X_R_D
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xavus/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xavus/)*

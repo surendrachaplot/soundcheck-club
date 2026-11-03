@@ -1,6 +1,6 @@
 # Yume (JP)
 
-Yume (JP) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Wed, 4 Nov 2026.
+Yume (JP) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Wed, 4 Nov 2026.
 
 Yume (JP) is a techno and house artist based in Japan, with 8 gigs on soundcheck across Barcelona and Tokyo. Often billed alongside SIGNAL (JP), Torus and ARISA. Next up: UTOPIA / DYSTOPIA, Tokyo on Wed 4 Nov.
 
@@ -24,4 +24,4 @@ Yume (JP) is a techno and house artist based in Japan, with 8 gigs on soundcheck
 
 SIGNAL (JP), Torus, ARISA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yumejp/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yumejp/)*

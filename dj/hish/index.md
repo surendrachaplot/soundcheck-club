@@ -1,6 +1,6 @@
 # Hish
 
-Hish is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Behind This Wall, London on Thu, 12 Nov 2026.
+Hish is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Behind This Wall, London on Thu, 12 Nov 2026.
 
 Hish is a house and minimal artist based in United Kingdom, with 14 gigs on soundcheck across London, Manchester and Tokyo. Often billed alongside Desuba, Ells and Stefan Andrei. Next up: Behind This Wall, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Hish is a house and minimal artist based in United Kingdom, with 14 gigs on soun
 
 Desuba, Ells, Stefan Andrei
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hish/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hish/)*

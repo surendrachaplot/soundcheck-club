@@ -1,8 +1,8 @@
 # KÄRLA
 
-KÄRLA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
+KÄRLA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
-KÄRLA is a techno and acid artist, with 8 gigs on soundcheck across Galway, Mexico City, Paris and Sydney and 1 more. Often billed alongside Xicada, AAK (MX) and Cinema Paradisco. Next up: TBA, Sydney on Sat 14 Nov.
+KÄRLA is a techno and acid artist based in Canada, with 8 gigs on soundcheck across Galway, Mexico City, Paris and Sydney and 1 more. Often billed alongside Xicada, AAK (MX) and Cinema Paradisco. Next up: TBA, Sydney on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ KÄRLA is a techno and acid artist, with 8 gigs on soundcheck across Galway, Mex
 
 Xicada, AAK (MX), Cinema Paradisco
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karla/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karla/)*

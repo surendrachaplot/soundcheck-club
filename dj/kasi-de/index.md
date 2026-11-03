@@ -1,6 +1,6 @@
 # KASI
 
-KASI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Nitsa Club, Barcelona on Sat, 21 Nov 2026.
+KASI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Nitsa Club, Barcelona on Sat, 21 Nov 2026.
 
 KASI is a techno and house artist, with 5 gigs on soundcheck across Barcelona, Hamburg and Vienna. Often billed alongside ABIBA, ASSISTANT DJ and ATAVEM. Next up: Nitsa Club, Barcelona on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ KASI is a techno and house artist, with 5 gigs on soundcheck across Barcelona, H
 
 ABIBA, ASSISTANT DJ, ATAVEM
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasi-de/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasi-de/)*

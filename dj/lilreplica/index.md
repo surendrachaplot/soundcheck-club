@@ -1,6 +1,6 @@
 # lil replica
 
-lil replica is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Vespers Club, London on Thu, 26 Nov 2026.
+lil replica is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Vespers Club, London on Thu, 26 Nov 2026.
 
 lil replica is an electronica and experimental artist based in United Kingdom, with 3 gigs on soundcheck across Bristol and London. Often billed alongside Aïsha Devi, LYZZA and Magnus Westwell. Next up: Vespers Club, London on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ lil replica is an electronica and experimental artist based in United Kingdom, w
 
 Aïsha Devi, LYZZA, Magnus Westwell
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilreplica/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilreplica/)*

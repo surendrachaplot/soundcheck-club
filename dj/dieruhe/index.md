@@ -1,6 +1,6 @@
 # Die Ruhe
 
-Die Ruhe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Distillery, Leipzig on Fri, 13 Nov 2026.
+Die Ruhe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Distillery, Leipzig on Fri, 13 Nov 2026.
 
 Die Ruhe is a techno and house artist based in Germany, with 6 gigs on soundcheck across Berlin, Dresden, Frankfurt and Leipzig. Often billed alongside ANKA, ANNAWAFFEL and Bephål. Next up: Distillery, Leipzig on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Die Ruhe is a techno and house artist based in Germany, with 6 gigs on soundchec
 
 ANKA (2), ANNAWAFFEL, Bephål
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieruhe/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieruhe/)*

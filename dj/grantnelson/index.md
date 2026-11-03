@@ -1,6 +1,6 @@
 # Grant Nelson
 
-Grant Nelson is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Grant Nelson is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Grant Nelson is a house and garage artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Barcelona, Brighton and Dublin and 12 more. Often billed alongside Matt Jam Lamont, Steve Taylor and Trimtone. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Grant Nelson is a house and garage artist based in United Kingdom, with 38 gigs 
 
 Matt Jam Lamont, Steve Taylor, Trimtone
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantnelson/)*

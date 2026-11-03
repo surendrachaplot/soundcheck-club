@@ -1,14 +1,15 @@
 # Trustfall
 
-Trustfall is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
+Trustfall is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
 
-Trustfall is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Melbourne, Portland and Toronto. Often billed alongside Peter Sheppard, Andy Warren and Aaron Davis. Next up: Process PDX, Portland on Fri 13 Nov.
+Trustfall is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Melbourne, Portland and Toronto. Often billed alongside Peter Sheppard, Andy Warren and Aaron Davis. Next up: Process PDX, Portland on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Process PDX | Portland |
+| Sat, 21 Nov 2026 | TBA | Portland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Trustfall is a techno and house artist based in United States of America, with 3
 
 Peter Sheppard, Andy Warren, Aaron Davis
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trustfall/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trustfall/)*

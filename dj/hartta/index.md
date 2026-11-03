@@ -1,6 +1,6 @@
 # Hartta
 
-Hartta is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Planet Wax, London on Thu, 3 Dec 2026.
+Hartta is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Planet Wax, London on Thu, 3 Dec 2026.
 
 Hartta is a bass and techno artist, with 5 gigs on soundcheck across Barcelona, Istanbul, London and Madrid. Often billed alongside Clare Durant, Breaka and CRKS290. Next up: Planet Wax, London on Thu 3 Dec.
 
@@ -21,4 +21,4 @@ Hartta is a bass and techno artist, with 5 gigs on soundcheck across Barcelona, 
 
 Clare Durant, Breaka, CRKS290
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hartta/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hartta/)*

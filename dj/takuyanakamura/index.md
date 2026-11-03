@@ -1,6 +1,6 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 14 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The View From The Shard, London on Thu, 5 Nov 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 14 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The View From The Shard, London on Thu, 5 Nov 2026.
 
 Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: The View From The Shard, London on Thu 5 Nov.
 
@@ -36,4 +36,4 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, with 124 gigs on sou
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

@@ -1,6 +1,6 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Lark, Berlin on Wed, 11 Nov 2026.
+KILIMANJARO is a House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Lark, Berlin on Wed, 11 Nov 2026.
 
 KILIMANJARO is a house and afro house artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 42 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Lark, Berlin on Wed 11 Nov.
 
@@ -29,4 +29,4 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, with 146 g
 
 Eliza Rose, TSHA, AMÉMÉ
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilimanjaro/)*

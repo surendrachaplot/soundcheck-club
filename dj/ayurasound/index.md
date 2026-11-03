@@ -1,6 +1,6 @@
 # Ayurasound
 
-Ayurasound is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - BOOM, Leeds on Fri, 6 Nov 2026.
+Ayurasound is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - BOOM, Leeds on Fri, 6 Nov 2026.
 
 Ayurasound is a garage and breakbeat artist, with 2 gigs on soundcheck across Leeds. Often billed alongside Stringer Low, Sublynk and Bo Mantle. Next up: TBA - BOOM, Leeds on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Ayurasound is a garage and breakbeat artist, with 2 gigs on soundcheck across Le
 
 Stringer Low, Sublynk, Bo Mantle
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayurasound/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayurasound/)*

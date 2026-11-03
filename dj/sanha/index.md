@@ -1,6 +1,6 @@
 # SAN HA
 
-SAN HA is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+SAN HA is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 SAN HA is a house and bass artist, with 6 gigs on soundcheck across Seoul and South Korea. Often billed alongside Bagagee Viphex13, Coral the Animal and Funkin Cat. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ SAN HA is a house and bass artist, with 6 gigs on soundcheck across Seoul and So
 
 Bagagee Viphex13, Coral the Animal, Funkin Cat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanha/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanha/)*

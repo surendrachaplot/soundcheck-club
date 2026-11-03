@@ -1,6 +1,6 @@
 # j.flo
 
-j.flo is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Betel Klub, Krakow on Sat, 7 Nov 2026.
+j.flo is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Betel Klub, Krakow on Sat, 7 Nov 2026.
 
 j.flo is a bass and dubstep artist based in Poland, with 4 gigs on soundcheck across Krakow. Often billed alongside Semprey, Aetha and Chugajstra. Next up: Betel Klub, Krakow on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ j.flo is a bass and dubstep artist based in Poland, with 4 gigs on soundcheck ac
 
 Semprey, Aetha, Chugajstra
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.flo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.flo/)*

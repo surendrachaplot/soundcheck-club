@@ -1,6 +1,6 @@
 # Enoo Napa
 
-Enoo Napa is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Zumana Bali, Bali on Wed, 4 Nov 2026.
+Enoo Napa is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Zumana Bali, Bali on Wed, 4 Nov 2026.
 
 Enoo Napa is an afro house and afro tech artist based in South Africa, with 59 gigs on soundcheck across Amsterdam, Athens, Bali and Berlin and 20 more. Often billed alongside Da Capo, Caiiro and Van Zand. Next up: Zumana Bali, Bali on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Enoo Napa is an afro house and afro tech artist based in South Africa, with 59 g
 
 Da Capo, Caiiro, Van Zand
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enoonapa/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enoonapa/)*

@@ -1,6 +1,6 @@
 # Orange Lamp Vol. IV at TBA - Caleta - Dr. Atl 62
 
-Orange Lamp Vol. IV at TBA - Caleta - Dr. Atl 62 on Sat 7 Nov, Mexico City. 5 artists: Gaio, Giu Nunez, papa jazz and Pato Mallet and 1 more. Disco and Electronica. See the line-up on soundcheck.
+Orange Lamp Vol. IV at TBA - Caleta - Dr. Atl 62 on Sat 7 Nov, Mexico City. 6 artists: Gaio, Giu Nunez, Jimeno Arnaud and papa jazz and 2 more. Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Orange Lamp Vol. IV at TBA - Caleta - Dr. Atl 62 on Sat 7 Nov, Mexico City. 5 ar
 
 - Gaio
 - Giu Nunez
+- Jimeno Arnaud
 - papa jazz
 - Pato Mallet
 - SAUANI

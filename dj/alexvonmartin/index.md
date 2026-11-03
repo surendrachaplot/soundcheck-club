@@ -1,6 +1,6 @@
 # Alex Von Martin
 
-Alex Von Martin is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - the rainbow Digbeth, Birmingham on Sat, 28 Nov 2026.
+Alex Von Martin is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - the rainbow Digbeth, Birmingham on Sat, 28 Nov 2026.
 
 Alex Von Martin is a techno and tech house artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Birmingham, London and Rome. Often billed alongside Emeye, Paris Camille and SOULMAXX. Next up: TBA - the rainbow Digbeth, Birmingham on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Alex Von Martin is a techno and tech house artist based in United Kingdom, with 
 
 Emeye, Paris Camille, SOULMAXX
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvonmartin/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexvonmartin/)*

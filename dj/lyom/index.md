@@ -1,6 +1,6 @@
 # LYOM
 
-LYOM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+LYOM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 LYOM is a techno and house artist based in Japan, with 14 gigs on soundcheck across Seoul and Tokyo. Often billed alongside EMILIO, Calavera and STRATAH. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ LYOM is a techno and house artist based in Japan, with 14 gigs on soundcheck acr
 
 EMILIO (3), Calavera, STRATAH
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyom/)*

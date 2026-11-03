@@ -1,8 +1,8 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Ben Techy is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Ben Techy is a techno and industrial artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 32 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Ben Techy is a techno and industrial artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 32 more. Often billed alongside Raxeller, SANTØS and Vendex. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 58 gig
 | Sat, 28 Nov 2026 | OST | Berlin |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Sat, 19 Dec 2026 | Airport Würzburg | Nürnberg |
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 | Fri, 5 Mar 2027 | Ziggo Dome | Amsterdam |
@@ -31,6 +32,6 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 58 gig
 
 ## Shares bills with
 
-Raxeller, SANTØS, KARAH
+Raxeller, SANTØS, Vendex
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

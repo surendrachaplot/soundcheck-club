@@ -1,6 +1,6 @@
 # Bunker
 
-Bunker is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "GENAU: ANNĒ (Blind Harmonies - Mutual Rytm / GR)" on Fri, 6 Nov 2026.
+Bunker is a music venue in Turin with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "GENAU: ANNĒ (Blind Harmonies - Mutual Rytm / GR)" on Fri, 6 Nov 2026.
 
 Bunker is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with line-ups including Agostino Casillo, Alex Dima, ANNĒ and Aton and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
@@ -17,4 +17,4 @@ Bunker is a music venue in Turin listed on soundcheck. 4 upcoming gigs, with lin
 
 Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy, Turin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/bunker/)*

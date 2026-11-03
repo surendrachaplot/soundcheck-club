@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 29 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "RUBBLE // Shahrazadi, Baby Teeth" on Tue, 3 Nov 2026.
+People's Leisure Club is a music venue in Edinburgh with 29 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "RUBBLE // Shahrazadi, Baby Teeth" on Tue, 3 Nov 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 29 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BPK and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -23,4 +23,4 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 29 upc
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

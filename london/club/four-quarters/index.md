@@ -1,6 +1,6 @@
 # Four Quarters
 
-Four Quarters is a music venue in London with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "CHEESY JOUISSANCE - Happy Hardcore & Jungle" on Thu, 5 Nov 2026.
+Four Quarters is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CHEESY JOUISSANCE - Happy Hardcore & Jungle" on Thu, 5 Nov 2026.
 
 Four Quarters is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Alfie Fraser, Bluey, Calm Stiege and Cass Brewster and 2 more. See dates, start times and who's playing. 187 Rye Lane, Peckham, SE15 4TP.
 
@@ -19,4 +19,4 @@ Four Quarters is a music venue in London listed on soundcheck. 6 upcoming gigs, 
 
 187 Rye Lane, Peckham, SE15 4TP, London
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/four-quarters/)*

@@ -1,6 +1,6 @@
 # Nathan Fake
 
-Nathan Fake is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Nathan Fake is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 Nathan Fake is a techno and electro artist based in United Kingdom, with 25 gigs on soundcheck across Barcelona, Berlin, Bristol and French West Indies and 9 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Nathan Fake is a techno and electro artist based in United Kingdom, with 25 gigs
 
 Gold Panda, Alex Wilcox, Arsenal Mikebe
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathanfake/)*

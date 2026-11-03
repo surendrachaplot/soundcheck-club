@@ -1,6 +1,6 @@
 # Roadrunner
 
-Roadrunner is a music venue in Boston with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "nimino in Boston" on Fri, 6 Nov 2026.
+Roadrunner is a music venue in Boston with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "nimino in Boston" on Fri, 6 Nov 2026.
 
 Roadrunner is a music venue in Boston listed on soundcheck. 6 upcoming gigs, with line-ups including Arlo, D.O.D., Elderbrook and nimino and 2 more. See dates, start times and who's playing. 89 Guest St. Boston, MA 02135.
 
@@ -19,4 +19,4 @@ Roadrunner is a music venue in Boston listed on soundcheck. 6 upcoming gigs, wit
 
 89 Guest St. Boston, MA 02135, Boston
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/roadrunner/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/roadrunner/)*

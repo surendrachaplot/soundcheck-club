@@ -1,6 +1,6 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
+KLOFAMA is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
 
 KLOFAMA is a techno and industrial artist based in Netherlands, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 46 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Bootshaus, Cologne on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 112 gigs on
 
 KARAH, SLVL, Fantasm
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

@@ -1,6 +1,6 @@
 # Digé m0m0
 
-Digé m0m0 is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Brasserie Gallia, Paris on Thu, 12 Nov 2026.
+Digé m0m0 is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Brasserie Gallia, Paris on Thu, 12 Nov 2026.
 
 Digé m0m0 is a breakbeat and techno artist, with 12 gigs on soundcheck across Barcelona, Leipzig, Paris and Strasbourg. Often billed alongside SUERTE (FR), AMAYO and Blanca Brusci. Next up: Brasserie Gallia, Paris on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Digé m0m0 is a breakbeat and techno artist, with 12 gigs on soundcheck across B
 
 SUERTE (FR), AMAYO, Blanca Brusci
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digem0m0/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digem0m0/)*

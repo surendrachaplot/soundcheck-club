@@ -1,6 +1,6 @@
 # MELØ
 
-MELØ is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hangar 18, Netherlands on Sat, 28 Nov 2026.
+MELØ is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hangar 18, Netherlands on Sat, 28 Nov 2026.
 
 MELØ is a techno and minimal techno artist based in Germany, with 4 gigs on soundcheck across Münster and Netherlands. Often billed alongside Arman John, BØĘRY and Cora Lee. Next up: Hangar 18, Netherlands on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ MELØ is a techno and minimal techno artist based in Germany, with 4 gigs on sou
 
 Arman John, BØĘRY, Cora Lee
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melo/)*

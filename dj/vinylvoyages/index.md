@@ -1,6 +1,6 @@
 # Vinyl Voyages
 
-Vinyl Voyages is a Funk / Soul and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
+Vinyl Voyages is a Funk / Soul and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at People's Leisure Club, Edinburgh on Sat, 28 Nov 2026.
 
 Vinyl Voyages is a funk / soul and club artist, with 4 gigs on soundcheck across Edinburgh. Often billed alongside SSID, Arusa Qureshi and BPK. Next up: People's Leisure Club, Edinburgh on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Vinyl Voyages is a funk / soul and club artist, with 4 gigs on soundcheck across
 
 SSID, Arusa Qureshi, BPK (1)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylvoyages/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vinylvoyages/)*

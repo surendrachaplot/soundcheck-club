@@ -1,6 +1,6 @@
 # KUKO
 
-KUKO is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - MATREZ, Žorža Klemansoa 37, 11000, Belgrade on Sat, 7 Nov 2026.
+KUKO is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - MATREZ, Žorža Klemansoa 37, 11000, Belgrade on Sat, 7 Nov 2026.
 
 KUKO is a techno and trance artist based in Germany, with 258 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 70 more. Often billed alongside Cloudy, Adrian Mills and Johannes Schuster. Next up: TBA - MATREZ, Žorža Klemansoa 37, 11000, Belgrade on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ KUKO is a techno and trance artist based in Germany, with 258 gigs on soundcheck
 
 Cloudy, Adrian Mills, Johannes Schuster
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuko-de/)*

@@ -1,6 +1,6 @@
 # Paolo Barbato
 
-Paolo Barbato is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Odiseja BTC Ljubljana, Slovenia on Fri, 18 Dec 2026.
+Paolo Barbato is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Odiseja BTC Ljubljana, Slovenia on Fri, 18 Dec 2026.
 
 Paolo Barbato is a house and deep house artist, with 5 gigs on soundcheck across Ljubljana and Slovenia. Often billed alongside David Morales, Brlee and Cristian Varela. Next up: Odiseja BTC Ljubljana, Slovenia on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Paolo Barbato is a house and deep house artist, with 5 gigs on soundcheck across
 
 David Morales, Brlee, Cristian Varela
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paolobarbato/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paolobarbato/)*

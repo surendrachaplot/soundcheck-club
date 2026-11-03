@@ -1,14 +1,15 @@
 # Killoverjoy
 
-Killoverjoy is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at La Rotonde Stalingrad, Paris on Fri, 6 Nov 2026.
+Killoverjoy is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Rotonde Stalingrad, Paris on Fri, 6 Nov 2026.
 
-Killoverjoy is a trance and techno artist based in France, with 10 gigs on soundcheck across Paris. Often billed alongside ADB (FR), BUD and E.T.. Next up: La Rotonde Stalingrad, Paris on Fri 6 Nov.
+Killoverjoy is a trance and techno artist based in France, with 11 gigs on soundcheck across Paris. Often billed alongside ADB (FR), BUD and E.T.. Next up: La Rotonde Stalingrad, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | La Rotonde Stalingrad | Paris |
+| Sat, 7 Nov 2026 | Studio56 | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Killoverjoy is a trance and techno artist based in France, with 10 gigs on sound
 
 ADB (FR), BUD (1), E.T.
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killoverjoy/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/killoverjoy/)*

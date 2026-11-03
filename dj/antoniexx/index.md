@@ -1,6 +1,6 @@
 # Antoniexx
 
-Antoniexx is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at DeTour, Tokyo on Fri, 6 Nov 2026.
+Antoniexx is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at DeTour, Tokyo on Fri, 6 Nov 2026.
 
 Antoniexx is a trance and techno artist based in Japan, with 11 gigs on soundcheck across Tokyo. Often billed alongside Nanlaze, TORUKK and You Liang. Next up: DeTour, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Antoniexx is a trance and techno artist based in Japan, with 11 gigs on soundche
 
 Nanlaze, TORUKK, You Liang
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniexx/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniexx/)*

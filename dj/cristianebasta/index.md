@@ -1,14 +1,13 @@
 # Cristian Ebasta
 
-Cristian Ebasta is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Union Club, Vauxhall, London on Fri, 6 Nov 2026.
+Cristian Ebasta is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Four Quarters, London on Fri, 13 Nov 2026.
 
-Cristian Ebasta is a tech house and techno artist, with 51 gigs on soundcheck across London and Madrid. Often billed alongside Enrico Chirchiello, Francesco Poggi and El Cassar. Next up: Union Club, Vauxhall, London on Fri 6 Nov.
+Cristian Ebasta is a tech house and techno artist, with 50 gigs on soundcheck across London and Madrid. Often billed alongside Enrico Chirchiello, Francesco Poggi and El Cassar. Next up: Four Quarters, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Union Club, Vauxhall | London |
 | Fri, 13 Nov 2026 | Four Quarters | London |
 
 ## Recently played
@@ -26,4 +25,4 @@ Cristian Ebasta is a tech house and techno artist, with 51 gigs on soundcheck ac
 
 Enrico Chirchiello, Francesco Poggi, El Cassar
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianebasta/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianebasta/)*

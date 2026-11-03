@@ -1,6 +1,6 @@
 # Conan
 
-Conan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bolero, Seoul on Fri, 6 Nov 2026.
+Conan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bolero, Seoul on Fri, 6 Nov 2026.
 
 Conan is a house and techno artist based in South Korea, with 174 gigs on soundcheck across Hong Kong, Kyoto, Paris and Seoul and 1 more. Often billed alongside RTRP, Gumi and dguru. Next up: Bolero, Seoul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Conan is a house and techno artist based in South Korea, with 174 gigs on soundc
 
 RTRP, Gumi, dguru
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conan/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conan/)*

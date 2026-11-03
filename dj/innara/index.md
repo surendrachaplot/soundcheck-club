@@ -1,6 +1,6 @@
 # INNA RA
 
-INNA RA is a Afro Tech and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Banana Beach Club by Sollis 2.0, Phuket on Thu, 14 Jan 2027.
+INNA RA is a Afro Tech and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Banana Beach Club by Sollis 2.0, Phuket on Thu, 14 Jan 2027.
 
 INNA RA is an afro tech and house artist, with 5 gigs on soundcheck across Bali, Bangkok, Beijing and Phuket. Often billed alongside Acid Pauli, Anthony Middleton and Bonobo. Next up: Banana Beach Club by Sollis 2.0, Phuket on Thu 14 Jan.
 
@@ -21,4 +21,4 @@ INNA RA is an afro tech and house artist, with 5 gigs on soundcheck across Bali,
 
 Acid Pauli, Anthony Middleton, Bonobo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innara/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innara/)*

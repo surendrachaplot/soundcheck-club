@@ -1,6 +1,6 @@
 # tasha.mp4
 
-tasha.mp4 is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+tasha.mp4 is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 tasha.mp4 is a garage and house artist based in United Kingdom, with 47 gigs on soundcheck across London. Often billed alongside TRILL (UK), EMROSE and Kitsch. Next up: Bricks, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ tasha.mp4 is a garage and house artist based in United Kingdom, with 47 gigs on 
 
 TRILL (UK), EMROSE, Kitsch
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasha.mp4/)*

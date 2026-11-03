@@ -1,6 +1,6 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Märchenstunde am Dienstag Mit Smokie" on Tue, 3 Nov 2026.
+Romantica is a music venue in Stuttgart with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Märchenstunde am Dienstag Mit Smokie" on Tue, 3 Nov 2026.
 
 Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, with line-ups including Carl Crocs, chaos.disco.club, Coppola (DE) and Danny Salas and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
@@ -21,4 +21,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 8 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

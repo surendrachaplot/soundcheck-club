@@ -1,6 +1,6 @@
 # KOKO Electronic: Francis Mercier, Sunday 22nd Nov (Pt.3, Daytime) at KOKO
 
-KOKO Electronic: Francis Mercier, Sunday 22nd Nov (Pt.3, Daytime) on Sun 22 Nov, London. 2 artists: Francis Mercier and Mayssa. Afro House. See the line-up on soundcheck.
+KOKO Electronic: Francis Mercier, Sunday 22nd Nov (Pt.3, Daytime) on Sun 22 Nov, London. 3 artists: Bontan, Francis Mercier and Mayssa. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KOKO Electronic: Francis Mercier, Sunday 22nd Nov (Pt.3, Daytime) on Sun 22 Nov,
 
 ## Line-up
 
+- Bontan
 - Francis Mercier
 - Mayssa
 

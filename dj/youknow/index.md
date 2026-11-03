@@ -1,6 +1,6 @@
 # Youknow
 
-Youknow is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
+Youknow is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
 
 Youknow is an electronic artist, with 5 gigs on soundcheck across Amsterdam, Helsinki and Seoul. Often billed alongside Antoinette, BADSISTA and Caldera. Next up: OT301, Amsterdam on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Youknow is an electronic artist, with 5 gigs on soundcheck across Amsterdam, Hel
 
 Antoinette, BADSISTA, Caldera
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youknow/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youknow/)*

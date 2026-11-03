@@ -1,6 +1,6 @@
 # Exit Reality
 
-Exit Reality is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Exit Reality with Vinnie Stew & Dodi" on Wed, 4 Nov 2026.
+Exit Reality is a music venue in Singapore with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Exit Reality with Vinnie Stew & Dodi" on Wed, 4 Nov 2026.
 
 Exit Reality is a music venue in Singapore listed on soundcheck. 6 upcoming gigs, with line-ups including Joshua Dillon, sho&tell, Sunju Hargun and VAIBS and 1 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ Exit Reality is a music venue in Singapore listed on soundcheck. 6 upcoming gigs
 | Sat, 7 Nov 2026 | Exit Reality with Joshua Dillon | Joshua Dillon |
 | Fri, 13 Nov 2026 | Thugshop X Never Tooo Loud presents: Sunju Hargun (Siamese Twins Records) | Sunju Hargun, VAIBS |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/singapore/club/exit-reality/)*

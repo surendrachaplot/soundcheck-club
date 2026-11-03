@@ -1,6 +1,6 @@
 # KLEYN
 
-KLEYN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kunstverein Familie Montez, Frankfurt on Sat, 28 Nov 2026.
+KLEYN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kunstverein Familie Montez, Frankfurt on Sat, 28 Nov 2026.
 
 KLEYN is a techno and tech house artist based in Germany, with 3 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Arp (SNT), ESSMEE and FACONTI. Next up: Kunstverein Familie Montez, Frankfurt on Sat 28 Nov.
 
@@ -19,4 +19,4 @@ KLEYN is a techno and tech house artist based in Germany, with 3 gigs on soundch
 
 Arp (SNT), ESSMEE, FACONTI
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kleyn/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kleyn/)*

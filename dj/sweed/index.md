@@ -1,6 +1,6 @@
 # Sweed
 
-Sweed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Sweed is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Sweed is a techno and house artist based in France, with 10 gigs on soundcheck across Bangkok and Tunisia. Often billed alongside .g (TH), 1977 and Adema. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Sweed is a techno and house artist based in France, with 10 gigs on soundcheck a
 
 .g (TH), 1977, Adema
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweed/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweed/)*

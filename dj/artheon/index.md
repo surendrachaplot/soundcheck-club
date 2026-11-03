@@ -1,6 +1,6 @@
 # Artheon
 
-Artheon is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location, Budapest on Sat, 21 Nov 2026.
+Artheon is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location, Budapest on Sat, 21 Nov 2026.
 
 Artheon is a house and minimal artist based in Hungary, with 7 gigs on soundcheck across Budapest. Often billed alongside Artic Yoyo, Zsikla and Abyss (HU). Next up: TBA - Secret Location, Budapest on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Artheon is a house and minimal artist based in Hungary, with 7 gigs on soundchec
 
 Artic Yoyo, Zsikla, Abyss (HU)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artheon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/artheon/)*

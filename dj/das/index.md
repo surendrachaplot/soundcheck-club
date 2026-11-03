@@ -1,6 +1,6 @@
 # DΛS
 
-DΛS is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Astron Club, Athens on Fri, 6 Nov 2026.
+DΛS is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Astron Club, Athens on Fri, 6 Nov 2026.
 
 DΛS is a techno and electro artist based in Greece, with 37 gigs on soundcheck across Athens. Often billed alongside IMPVLSIV, BMSK and JERM. Next up: Astron Club, Athens on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DΛS is a techno and electro artist based in Greece, with 37 gigs on soundcheck 
 
 IMPVLSIV, BMSK, JERM
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/das/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/das/)*

@@ -1,6 +1,6 @@
 # Sparrow (CH)
 
-Sparrow (CH) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ZeyZey, Miami on Fri, 20 Nov 2026.
+Sparrow (CH) is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ZeyZey, Miami on Fri, 20 Nov 2026.
 
 Sparrow (CH) is a house and afro house artist based in Spain, with 8 gigs on soundcheck across Amsterdam, Bali, Chicago and Ibiza and 2 more. Often billed alongside Betical, CISUMMI and Felix Da Funk. Next up: ZeyZey, Miami on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Sparrow (CH) is a house and afro house artist based in Spain, with 8 gigs on sou
 
 Betical, CISUMMI, Felix Da Funk
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowch/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sparrowch/)*

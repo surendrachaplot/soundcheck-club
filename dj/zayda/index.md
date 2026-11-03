@@ -1,6 +1,6 @@
 # ZAYDA
 
-ZAYDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+ZAYDA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 ZAYDA is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Los Angeles, San Diego, San Francisco/Oakland and Seoul and 1 more. Often billed alongside Lady Afrodisiac, Adroit Joe and Bagagee Viphex13. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ZAYDA is a techno and house artist based in United States of America, with 11 gi
 
 Lady Afrodisiac, Adroit Joe, Bagagee Viphex13
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zayda/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zayda/)*

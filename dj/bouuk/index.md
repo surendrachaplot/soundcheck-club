@@ -1,6 +1,6 @@
 # Bou (UK)
 
-Bou (UK) is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Bou (UK) is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 101 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 46 more. Often billed alongside Andy C, Kanine and Turno. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Bou (UK) is a drum & bass and jungle artist based in United Kingdom, with 101 gi
 
 Andy C, Kanine, Turno
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouuk/)*

@@ -1,6 +1,6 @@
 # Doppenberg
 
-Doppenberg is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
+Doppenberg is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
 
 Doppenberg is an electronic artist, with 3 gigs on soundcheck across London, Milan and Sheffield. Often billed alongside Mark Landragin, Allen Watts and Aly & Fila. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
 
@@ -19,4 +19,4 @@ Doppenberg is an electronic artist, with 3 gigs on soundcheck across London, Mil
 
 Mark Landragin, Allen Watts, Aly & Fila
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doppenberg/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doppenberg/)*

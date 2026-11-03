@@ -1,6 +1,6 @@
 # Flo Pirke
 
-Flo Pirke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+Flo Pirke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 Flo Pirke is a house and techno artist based in Germany, with 31 gigs on soundcheck across Barcelona, Berlin and Hamburg. Often billed alongside Coco, Bee Lincoln and Annina. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Flo Pirke is a house and techno artist based in Germany, with 31 gigs on soundch
 
 Coco, Bee Lincoln, Annina
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flopirke/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flopirke/)*

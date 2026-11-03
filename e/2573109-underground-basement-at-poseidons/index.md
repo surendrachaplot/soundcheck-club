@@ -1,6 +1,6 @@
 # UNDERGROUND_BASEMENT at Poseidons
 
-UNDERGROUND_BASEMENT at Poseidons on Fri 6 Nov, Riga. 3 artists: hitomori, maniken05 and optionlist. Experimental and Electronica. See the line-up on soundcheck.
+UNDERGROUND_BASEMENT at Poseidons on Fri 6 Nov, Riga. 4 artists: hitomori, maniken05, optionlist and oshigakill. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ UNDERGROUND_BASEMENT at Poseidons on Fri 6 Nov, Riga. 3 artists: hitomori, manik
 - hitomori
 - maniken05
 - optionlist
+- oshigakill
 
 *Source: [soundcheck](https://soundcheck.club/e/2573109-underground-basement-at-poseidons/)*

@@ -1,8 +1,8 @@
 # Dr Dubplate
 
-Dr Dubplate is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 6 Nov 2026.
+Dr Dubplate is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 6 Nov 2026.
 
-Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Bakey, Soul Mass Transit System and Yemz. Next up: Cabaret Voltaire, Edinburgh on Fri 6 Nov.
+Dr Dubplate is a garage and bass artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 37 more. Often billed alongside Bakey, Soul Mass Transit System and Yemz. Next up: Cabaret Voltaire, Edinburgh on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs o
 | Fri, 6 Nov 2026 | Cabaret Voltaire | Edinburgh |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 | Sat, 28 Nov 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
+| Thu, 31 Dec 2026 | Chelmsford City Racecourse | London |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 
 ## Recently played
@@ -28,4 +29,4 @@ Dr Dubplate is a garage and bass artist based in United Kingdom, with 153 gigs o
 
 Bakey, Soul Mass Transit System, Yemz
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drdubplate/)*

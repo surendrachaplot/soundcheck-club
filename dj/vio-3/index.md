@@ -1,6 +1,6 @@
 # VIO (3)
 
-VIO (3) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Nishiazabu （Ask if you don't know）, Tokyo on Fri, 6 Nov 2026.
+VIO (3) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Nishiazabu （Ask if you don't know）, Tokyo on Fri, 6 Nov 2026.
 
 VIO is a techno and trance artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside Emilio, TEI TEI and DANDAN. Next up: TBA - Nishiazabu （Ask if you don't know）, Tokyo on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ VIO is a techno and trance artist based in Japan, with 4 gigs on soundcheck acro
 
 Emilio, TEI TEI, DANDAN
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vio-3/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vio-3/)*

@@ -1,6 +1,6 @@
 # Vincent Neumann
 
-Vincent Neumann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Vincent Neumann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
 Vincent Neumann is a techno and house artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 15 more. Often billed alongside Amotik, Virginia and Efdemin. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Vincent Neumann is a techno and house artist based in Germany, with 77 gigs on s
 
 Amotik, Virginia, Efdemin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vincentneumann/)*

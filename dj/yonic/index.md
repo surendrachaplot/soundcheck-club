@@ -1,6 +1,6 @@
 # Yonic
 
-Yonic is a Jungle and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat, 19 Dec 2026.
+Yonic is a Jungle and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat, 19 Dec 2026.
 
 Yonic is a jungle and electronica artist based in Netherlands, with 4 gigs on soundcheck across Athens, Manchester, Manila and Medellin. Often billed alongside Daccach, Echonomist and JFOX. Next up: Athens Conservatoire - Ωδείον Αθηνών, Athens on Sat 19 Dec.
 
@@ -20,4 +20,4 @@ Yonic is a jungle and electronica artist based in Netherlands, with 4 gigs on so
 
 Daccach, Echonomist, JFOX
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonic/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonic/)*

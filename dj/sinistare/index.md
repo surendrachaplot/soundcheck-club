@@ -1,6 +1,6 @@
 # sinistare
 
-sinistare is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
+sinistare is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
 
 sinistare is a club and techno artist, with 4 gigs on soundcheck across New York City. Often billed alongside Miss Beverly, TEK NENA and Battygyal. Next up: Bossa Nova Civic Club, New York City on Wed 11 Nov.
 
@@ -20,4 +20,4 @@ sinistare is a club and techno artist, with 4 gigs on soundcheck across New York
 
 Miss Beverly, TEK NENA, Battygyal
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistare/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinistare/)*

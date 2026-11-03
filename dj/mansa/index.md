@@ -1,6 +1,6 @@
 # Mansa
 
-Mansa is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Angel Music Bar, Melbourne on Tue, 3 Nov 2026.
+Mansa is a Amapiano and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Angel Music Bar, Melbourne on Tue, 3 Nov 2026.
 
 Mansa is an amapiano and afrobeat artist based in Sweden, with 17 gigs on soundcheck across Amsterdam, London, Malmo and Melbourne and 5 more. Often billed alongside Jinku, Pierre Kwenders and San Farafina. Next up: Angel Music Bar, Melbourne on Tue 3 Nov.
 
@@ -25,4 +25,4 @@ Mansa is an amapiano and afrobeat artist based in Sweden, with 17 gigs on soundc
 
 Jinku, Pierre Kwenders, San Farafina
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansa/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansa/)*

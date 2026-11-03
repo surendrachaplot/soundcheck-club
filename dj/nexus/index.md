@@ -1,6 +1,6 @@
 # Nexus
 
-Nexus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at FLUCC, Vienna on Fri, 6 Nov 2026.
+Nexus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at FLUCC, Vienna on Fri, 6 Nov 2026.
 
 Nexus is a techno and house artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cluj Napoca and 12 more. Often billed alongside Lechuga Zafiro, MBODJ and Amnesia Scanner. Next up: FLUCC, Vienna on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Nexus is a techno and house artist based in Italy, with 22 gigs on soundcheck ac
 
 Lechuga Zafiro, MBODJ, Amnesia Scanner
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nexus/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nexus/)*

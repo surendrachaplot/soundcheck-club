@@ -1,6 +1,6 @@
 # Metro Baltimore
 
-Metro Baltimore is a music venue in Baltimore with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "METROSCHOCK with special guest DJ Xris Smack" on Sat, 7 Nov 2026.
+Metro Baltimore is a music venue in Baltimore with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "METROSCHOCK with special guest DJ Xris Smack" on Sat, 7 Nov 2026.
 
 Metro Baltimore is a music venue in Baltimore listed on soundcheck. 5 upcoming gigs, with line-ups including Bbymutha and DJ Dolla. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Metro Baltimore is a music venue in Baltimore listed on soundcheck. 5 upcoming g
 | Thu, 10 Dec 2026 | THE PALMER SQUARES |  |
 | Tue, 26 Jan 2027 | @ |  |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/metro-baltimore/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/metro-baltimore/)*

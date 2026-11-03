@@ -1,6 +1,6 @@
 # IDEMI
 
-IDEMI is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+IDEMI is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 IDEMI is a house and tech house artist based in United Kingdom, with 27 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Brisbane and 15 more. Often billed alongside Marsolo, CHRIS STASSY and DJ Gigola. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ IDEMI is a house and tech house artist based in United Kingdom, with 27 gigs on 
 
 Marsolo, CHRIS STASSY, DJ Gigola
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idemi/)*

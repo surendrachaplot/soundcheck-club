@@ -1,6 +1,6 @@
 # Bien Public
 
-Bien Public is a music venue in Bordeaux with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Pleine Nuit 001 with Jen Cardini + Pablo Bozzi" on Fri, 13 Nov 2026.
+Bien Public is a music venue in Bordeaux with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Pleine Nuit 001 with Jen Cardini + Pablo Bozzi" on Fri, 13 Nov 2026.
 
 Bien Public is a music venue in Bordeaux listed on soundcheck. 3 upcoming gigs, with line-ups including Bambi (FR), Beatrice M., Giammarco Orsini and Jen Cardini and 2 more. See dates, start times and who's playing. 68 quai Deschamps.
 
@@ -16,4 +16,4 @@ Bien Public is a music venue in Bordeaux listed on soundcheck. 3 upcoming gigs, 
 
 68 quai Deschamps, Bordeaux
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/bordeaux/club/bien-public/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bordeaux/club/bien-public/)*

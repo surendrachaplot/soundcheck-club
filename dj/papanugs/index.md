@@ -1,6 +1,6 @@
 # Papa Nugs
 
-Papa Nugs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mint XL, Leeds on Fri, 20 Nov 2026.
+Papa Nugs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mint XL, Leeds on Fri, 20 Nov 2026.
 
 Papa Nugs is a house and techno artist based in United Kingdom, with 172 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 26 more. Often billed alongside A For Alpha, KT and DJ ADHD. Next up: Mint XL, Leeds on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Papa Nugs is a house and techno artist based in United Kingdom, with 172 gigs on
 
 A For Alpha, KT, DJ ADHD
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/papanugs/)*

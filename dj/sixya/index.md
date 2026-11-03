@@ -1,6 +1,6 @@
 # Sixya
 
-Sixya is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Klub Famu, Prague on Fri, 6 Nov 2026.
+Sixya is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Klub Famu, Prague on Fri, 6 Nov 2026.
 
 Sixya is a club and hardcore artist, with 4 gigs on soundcheck across Prague. Often billed alongside DJ Ket, DJ Pažitka and 99jakes. Next up: Klub Famu, Prague on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Sixya is a club and hardcore artist, with 4 gigs on soundcheck across Prague. Of
 
 DJ Ket, DJ Pažitka, 99jakes
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sixya/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sixya/)*

@@ -1,0 +1,28 @@
+# Dana Anderson
+
+Dana Anderson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 26 Nov 2026.
+
+Dana Anderson is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, Hamburg and Stuttgart. Often billed alongside Antoine Baiser, Daunbert and Falke. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 26 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 26 Nov 2026 | Zu Mir Oder Zu Dir | Berlin |
+
+## Recently played
+
+- Turtur, Hamburg · Fri, 30 Oct 2026
+- Haus73, Hamburg · Sat, 24 Oct 2026
+- Innside Hafen Hamburg, Hamburg · Sat, 1 Aug 2026
+- Südpol, Hamburg · Sat, 23 May 2026
+- Turtur, Hamburg · Sat, 14 Feb 2026
+- Turtur, Hamburg · Sat, 22 Nov 2025
+- Südpol, Hamburg · Sat, 5 Jul 2025
+- Sunny High, Stuttgart · Sat, 24 May 2025
+
+## Shares bills with
+
+Antoine Baiser, Daunbert, Falke
+
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danaanderson/)*

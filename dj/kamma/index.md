@@ -1,6 +1,6 @@
 # Kamma
 
-Kamma is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Wintercircus, Ghent on Sat, 7 Nov 2026.
+Kamma is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Wintercircus, Ghent on Sat, 7 Nov 2026.
 
 Kamma is a house and disco artist based in Netherlands, with 155 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside Masalo, Antal and DJ Tennis. Next up: Club Wintercircus, Ghent on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Kamma is a house and disco artist based in Netherlands, with 155 gigs on soundch
 
 Masalo, Antal, DJ Tennis
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamma/)*

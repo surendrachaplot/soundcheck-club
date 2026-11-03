@@ -1,6 +1,6 @@
 # Felix Wolfs
 
-Felix Wolfs is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Funkhaus, Vienna on Fri, 27 Nov 2026.
+Felix Wolfs is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Funkhaus, Vienna on Fri, 27 Nov 2026.
 
 Felix Wolfs is a disco and deep house artist based in Austria, with 3 gigs on soundcheck across Bratislava and Vienna. Often billed alongside Ariane V, BALI G and Ben Gomori. Next up: Funkhaus, Vienna on Fri 27 Nov.
 
@@ -19,4 +19,4 @@ Felix Wolfs is a disco and deep house artist based in Austria, with 3 gigs on so
 
 Ariane V, BALI G, Ben Gomori
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixwolfs/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixwolfs/)*

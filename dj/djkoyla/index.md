@@ -1,6 +1,6 @@
 # Dj Koyla
 
-Dj Koyla is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Mia Mao, Paris on Fri, 20 Nov 2026.
+Dj Koyla is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Mia Mao, Paris on Fri, 20 Nov 2026.
 
 Dj Koyla is a trance and techno artist based in France, with 8 gigs on soundcheck across Berlin, Bordeaux and Paris. Often billed alongside Sevenbeatz, Vanille and A2XBY. Next up: Mia Mao, Paris on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Dj Koyla is a trance and techno artist based in France, with 8 gigs on soundchec
 
 Sevenbeatz, Vanille, A2XBY
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoyla/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoyla/)*

@@ -1,6 +1,6 @@
 # Modelers
 
-Modelers is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Macarena Club, Barcelona on Fri, 13 Nov 2026.
+Modelers is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Macarena Club, Barcelona on Fri, 13 Nov 2026.
 
 Modelers is a deep house and house artist based in Italy, with 3 gigs on soundcheck across Barcelona and London. Often billed alongside VENERE, Anya (UK) and Auggië. Next up: Macarena Club, Barcelona on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Modelers is a deep house and house artist based in Italy, with 3 gigs on soundch
 
 VENERE, Anya (UK), Auggië
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modelers/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modelers/)*

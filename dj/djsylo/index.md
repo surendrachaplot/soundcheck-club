@@ -1,6 +1,6 @@
 # DJ Sylo
 
-DJ Sylo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bastet, Philadelphia on Fri, 6 Nov 2026.
+DJ Sylo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bastet, Philadelphia on Fri, 6 Nov 2026.
 
 DJ Sylo is a house and techno artist based in United States of America, with 54 gigs on soundcheck across New York City, Philadelphia and Washington DC. Often billed alongside Joshua Lang, Rob Paine and Rebel Foster. Next up: Bastet, Philadelphia on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Sylo is a house and techno artist based in United States of America, with 54 
 
 Joshua Lang, Rob Paine, Rebel Foster
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsylo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsylo/)*

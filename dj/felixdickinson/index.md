@@ -1,6 +1,6 @@
 # Felix Dickinson
 
-Felix Dickinson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
+Felix Dickinson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
 
 Felix Dickinson is a house and techno artist based in United Kingdom, with 51 gigs on soundcheck across Athens, Belgrade, Berlin and Brighton and 15 more. Often billed alongside Dave Harvey, Chez de Milo and Ellie Stokes. Next up: M.O.T, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Felix Dickinson is a house and techno artist based in United Kingdom, with 51 gi
 
 Dave Harvey, Chez de Milo, Ellie Stokes
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdickinson/)*

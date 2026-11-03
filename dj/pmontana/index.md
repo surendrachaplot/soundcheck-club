@@ -1,6 +1,6 @@
 # P Montana
 
-P Montana is a Amapiano and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Jazz Cafe, London on Fri, 1 Jan 2027.
+P Montana is a Amapiano and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Jazz Cafe, London on Fri, 1 Jan 2027.
 
 P Montana is an amapiano and afrobeats artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London. Often billed alongside HARUNA, Hangaelle and Larizzle. Next up: The Jazz Cafe, London on Fri 1 Jan.
 
@@ -23,4 +23,4 @@ P Montana is an amapiano and afrobeats artist based in United Kingdom, with 7 gi
 
 HARUNA (2), Hangaelle, Larizzle
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pmontana/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pmontana/)*

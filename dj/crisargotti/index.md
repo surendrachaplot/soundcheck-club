@@ -1,6 +1,6 @@
 # Cris Argotti
 
-Cris Argotti is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Costeno Beach Hostel, Colombia on Thu, 31 Dec 2026.
+Cris Argotti is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Costeno Beach Hostel, Colombia on Thu, 31 Dec 2026.
 
 Cris Argotti is a house and afro house artist based in Colombia, with 2 gigs on soundcheck across Colombia and Medellin. Often billed alongside Tida Kamara. Next up: Costeno Beach Hostel, Colombia on Thu 31 Dec.
 
@@ -18,4 +18,4 @@ Cris Argotti is a house and afro house artist based in Colombia, with 2 gigs on 
 
 Tida Kamara
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crisargotti/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crisargotti/)*

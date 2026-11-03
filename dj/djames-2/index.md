@@ -1,13 +1,14 @@
 # DJames (2)
 
-DJames (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
+DJames (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bike Jesus, Prague on Sat, 14 Nov 2026.
 
-DJames is a techno and trance artist based in Spain, with 20 gigs on soundcheck across Prague. Often billed alongside AVHD, Takē and ishka machina. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
+DJames is a techno and trance artist based in Spain, with 21 gigs on soundcheck across Prague. Often billed alongside AVHD, Takē and ishka machina. Next up: Bike Jesus, Prague on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Bike Jesus | Prague |
 | Fri, 20 Nov 2026 | Ankali & Planeta Za | Prague |
 | Fri, 4 Dec 2026 | Fuchs2 | Prague |
 
@@ -26,4 +27,4 @@ DJames is a techno and trance artist based in Spain, with 20 gigs on soundcheck 
 
 AVHD, Takē, ishka machina
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djames-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djames-2/)*

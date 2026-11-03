@@ -1,6 +1,6 @@
 # Emil Paquin
 
-Emil Paquin is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Red Roof Church, Montreal on Sat, 14 Nov 2026.
+Emil Paquin is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Red Roof Church, Montreal on Sat, 14 Nov 2026.
 
 Emil Paquin is a house and bass artist based in Canada, with 40 gigs on soundcheck across Montreal and Toronto. Often billed alongside somebody3lse, CMD and Laurence Nadeau. Next up: Red Roof Church, Montreal on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Emil Paquin is a house and bass artist based in Canada, with 40 gigs on soundche
 
 somebody3lse, CMD, Laurence Nadeau
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilpaquin/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilpaquin/)*

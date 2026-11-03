@@ -1,6 +1,6 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Slow Techno" on Thu, 5 Nov 2026.
+Process PDX is a music venue in Portland with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Slow Techno" on Thu, 5 Nov 2026.
 
 Process PDX is a music venue in Portland listed on soundcheck. 8 upcoming gigs, with line-ups including Amtrac, Derek Plaslaiko, DJ Eft and enereph and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
@@ -21,4 +21,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 8 upcoming gigs, 
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

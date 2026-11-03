@@ -1,13 +1,14 @@
 # Cesar Merveille
 
-Cesar Merveille is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Green Room NYC, New York City on Sat, 14 Nov 2026.
+Cesar Merveille is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Lion's Den, Miami on Sun, 8 Nov 2026.
 
-Cesar Merveille is a house and minimal artist based in Germany, with 78 gigs on soundcheck across Berlin, Brussels, Bucharest and Central and 19 more. Often billed alongside Viken Arman, Clovis and Rhadoo. Next up: Green Room NYC, New York City on Sat 14 Nov.
+Cesar Merveille is a house and minimal artist based in Germany, with 79 gigs on soundcheck across Berlin, Brussels, Bucharest and Central and 19 more. Often billed alongside Viken Arman, Clovis and Rhadoo. Next up: Lion's Den, Miami on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 8 Nov 2026 | Lion's Den | Miami |
 | Sat, 14 Nov 2026 | Green Room NYC | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Cesar Merveille is a house and minimal artist based in Germany, with 78 gigs on 
 
 Viken Arman, Clovis, Rhadoo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*

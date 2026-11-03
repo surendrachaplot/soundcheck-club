@@ -1,6 +1,6 @@
 # roztok
 
-roztok is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
+roztok is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
 
 roztok is an experimental and bass artist, with 4 gigs on soundcheck across Poznan and Warsaw. Often billed alongside DJ SHOUT, Mariola and Monster. Next up: SCHRON, Poznan on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ roztok is an experimental and bass artist, with 4 gigs on soundcheck across Pozn
 
 DJ SHOUT, Mariola, Monster
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roztok/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roztok/)*

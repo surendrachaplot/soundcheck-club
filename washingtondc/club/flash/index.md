@@ -1,6 +1,6 @@
 # Flash
 
-Flash is a music venue in Washington DC with 19 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Sweely [DJ Set]" on Fri, 6 Nov 2026.
+Flash is a music venue in Washington DC with 19 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Sweely [DJ Set]" on Fri, 6 Nov 2026.
 
 Flash is a music venue in Washington DC listed on soundcheck. 19 upcoming gigs, with line-ups including Alanapana, Alan Fitzpatrick, Anetha and Aurora Halal and 2 more. See dates, start times and who's playing. 645 Florida Ave, NW, Washington, D.C. 20001.
 
@@ -23,4 +23,4 @@ Flash is a music venue in Washington DC listed on soundcheck. 19 upcoming gigs, 
 
 645 Florida Ave, NW, Washington, D.C. 20001, Washington DC
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/flash/)*

@@ -1,6 +1,6 @@
 # Paul Larrozea
 
-Paul Larrozea is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 6 Nov 2026.
+Paul Larrozea is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 6 Nov 2026.
 
 Paul Larrozea is a house and tech house artist based in Spain, with 21 gigs on soundcheck across Bali, Barcelona and Ibiza. Often billed alongside Lupe Republic, ADRIANNA and Billy Nasty. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Paul Larrozea is a house and tech house artist based in Spain, with 21 gigs on s
 
 Lupe Republic, ADRIANNA, Billy Nasty
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paullarrozea/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paullarrozea/)*

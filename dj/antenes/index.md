@@ -1,6 +1,6 @@
 # Antenes
 
-Antenes is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 7 Nov 2026.
+Antenes is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 7 Nov 2026.
 
 Antenes is a techno and experimental artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 15 more. Often billed alongside Mike Servito, Wata Igarashi and Erika. Next up: Bossa Nova Civic Club, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Antenes is a techno and experimental artist based in United States of America, w
 
 Mike Servito, Wata Igarashi, Erika
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antenes/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antenes/)*

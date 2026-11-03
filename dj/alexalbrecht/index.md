@@ -1,6 +1,6 @@
 # Alex Albrecht
 
-Alex Albrecht is a Ambient and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Tender, Melbourne on Wed, 18 Nov 2026.
+Alex Albrecht is a Ambient and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Tender, Melbourne on Wed, 18 Nov 2026.
 
 Alex Albrecht is an ambient and techno artist based in Australia, with 41 gigs on soundcheck across Berlin, Brussels, Budapest and Chengdu and 12 more. Often billed alongside Andy Hart, Pjenné and CHIDA. Next up: Tender, Melbourne on Wed 18 Nov.
 
@@ -27,4 +27,4 @@ Alex Albrecht is an ambient and techno artist based in Australia, with 41 gigs o
 
 Andy Hart, Pjenné, CHIDA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexalbrecht/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexalbrecht/)*

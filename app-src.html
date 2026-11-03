@@ -3425,6 +3425,19 @@ a.fst-t:hover{text-decoration:underline}
     /* P1 profile hero */
     .pfh-top{ display:flex; align-items:center; gap:16px; }
     .pfh-av{ width:72px; height:72px; border-radius:50%; background-size:cover; background-position:center; flex:0 0 auto; }
+    button.pfh-av{ border:0; padding:0; cursor:pointer; }
+    /* Profile picture picker (Paper NEXT · Profile pictures, 3 Nov 2026): one body, used in the modal and in onboarding. */
+    .avp{ display:flex; flex-direction:column; gap:20px; min-width:0; }
+    .avp-cur{ display:flex; align-items:center; gap:16px; }
+    .avp-cur i, .avp-g button{ display:block; border-radius:50%; background:var(--surface-2) center/cover no-repeat; }
+    .avp-cur i{ width:76px; height:76px; flex:none; }
+    .avp-sets{ display:flex; gap:8px; overflow-x:auto; scrollbar-width:none; min-width:0; }
+    .avp-sets::-webkit-scrollbar{ display:none; }
+    .avp-sets .up-chip{ flex:none; }
+    .avp-g{ display:grid; grid-template-columns:repeat(4, minmax(0, 76px)); justify-content:space-between; gap:16px 8px; min-height:168px; }
+    .avp-g button{ width:100%; aspect-ratio:1; border:0; padding:0; cursor:pointer; -webkit-tap-highlight-color:transparent; }
+    .avp-g button.on{ box-shadow:0 0 0 2px var(--surface), 0 0 0 5px var(--fg); }
+    .avp-box h3{ margin:0; }
     .pfh-id{ flex:1; min-width:0; }
     .pfh-name{ font-family:var(--head); font-weight:800; font-size:var(--fs-2xl); letter-spacing:-.02em; margin:0 0 3px; }
     /* The bio: one line under the @handle, and the same line when you are
@@ -5199,6 +5212,7 @@ a.fst-t:hover{text-decoration:underline}
     .pb-rot-btn[data-ic]::before, .pb-prob-btn[data-ic]::before, .account [data-ic]::before, .nb-share[data-ic]::before, .nb-add[data-ic]::before{ width:16px; height:16px; }
     [data-ic="play"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M8 5v14l11-7z' fill='%23000'/%3E%3C/svg%3E"); }
     [data-ic="heart"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 20.4s-7.4-4.5-7.4-10A4.2 4.2 0 0 1 12 7.7a4.2 4.2 0 0 1 7.4 2.7c0 5.5-7.4 10-7.4 10z' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
+    [data-ic="upload"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 16V4M7 9l5-5 5 5M4 20h16' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="check"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="plus"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 5v14M5 12h14' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
     [data-ic="share"]{ --ic:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M12 15V4M8 8l4-4 4 4M6 12v7h12v-7' fill='none' stroke='%23000' stroke-width='1.9' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); }
@@ -5358,7 +5372,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793639882342">
+<meta name="sc-build" content="1793705382735">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5418,7 +5432,7 @@ a.fst-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-02/">Mon 2 Nov <span class="c">3 events</span></a></li><li><a href="/london/2026-11-03/">Tue 3 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-04/">Wed 4 Nov <span class="c">11 events</span></a></li><li><a href="/london/2026-11-05/">Thu 5 Nov <span class="c">35 events</span></a></li><li><a href="/london/2026-11-06/">Fri 6 Nov <span class="c">91 events</span></a></li><li><a href="/london/2026-11-07/">Sat 7 Nov <span class="c">136 events</span></a></li><li><a href="/london/2026-11-08/">Sun 8 Nov <span class="c">19 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-03/">Tue 3 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-04/">Wed 4 Nov <span class="c">11 events</span></a></li><li><a href="/london/2026-11-05/">Thu 5 Nov <span class="c">38 events</span></a></li><li><a href="/london/2026-11-06/">Fri 6 Nov <span class="c">92 events</span></a></li><li><a href="/london/2026-11-07/">Sat 7 Nov <span class="c">138 events</span></a></li><li><a href="/london/2026-11-08/">Sun 8 Nov <span class="c">19 events</span></a></li><li><a href="/london/2026-11-09/">Mon 9 Nov <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -9083,9 +9097,9 @@ a.fst-t:hover{text-decoration:underline}
     function attrEsc(s){ return String(s==null?'':s).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
 
     // ── avatar upload (client-side square-crop + resize, then store) ──
-    function pickAvatar(){
+    function pickAvatar(done){
       var inp=document.createElement('input'); inp.type='file'; inp.accept='image/png,image/jpeg,image/webp';
-      inp.addEventListener('change',function(){ var f=inp.files&&inp.files[0]; if(f) uploadAvatar(f); });
+      inp.addEventListener('change',function(){ var f=inp.files&&inp.files[0]; if(f) uploadAvatar(f).then(done||function(){}); });
       inp.click();
     }
     function resizeImage(file, size){
@@ -9117,6 +9131,60 @@ a.fst-t:hover{text-decoration:underline}
         if(typeof currentRoute==='function' && currentRoute()==='account') openAccount();
         showToast(file?'Photo updated ✓':'Photo removed');
       }catch(_){ showToast('Couldn’t upload. Try again.'); }
+    }
+    // ── profile picture picker: 5 drawn sets (GET /api/avatar/presets) or a photo ──
+    var _avSets=null;
+    function avSets(){ return _avSets || (_avSets=fetch(API_BASE+'/api/avatar/presets').then(function(r){ return r.json(); }).then(function(j){ return j.sets||[]; }).catch(function(){ _avSets=null; return []; })); }
+    // Draws the picker into `root`; returns get() → the chosen preset id, or null when it is unchanged.
+    function avPicker(root){
+      var pick=null, set=null;
+      root.innerHTML='<div class="avp"><div class="avp-cur"><i></i><button class="lg-pill" data-ic="upload" type="button">Upload a photo</button></div>'+
+        '<div class="avp-sets" role="tablist"></div><div class="avp-g"></div></div>';
+      var cur=root.querySelector('.avp-cur i'), chips=root.querySelector('.avp-sets'), grid=root.querySelector('.avp-g');
+      function paint(){
+        var mine=currentUser&&currentUser.avatar, item=null;
+        _sets.forEach(function(s){ s.items.forEach(function(x){ if(x.id===pick || (!pick && x.image===mine)) item=x; }); });
+        cur.style.backgroundImage=avatarBg(currentUser&&currentUser.handle, item?item.image:mine);
+        chips.innerHTML=_sets.map(function(s){ return '<button class="up-chip'+(s.id===set?' on':'')+'" role="tab" aria-selected="'+(s.id===set)+'" data-set="'+s.id+'" type="button">'+esc(s.name)+'</button>'; }).join('');
+        var s=_sets.filter(function(x){ return x.id===set; })[0];
+        grid.innerHTML=s?s.items.map(function(x){ return '<button type="button" data-id="'+x.id+'" aria-label="'+esc(s.name)+' picture" class="'+(item===x?'on':'')+'" style="background-image:url('+x.image+')"></button>'; }).join(''):'';
+      }
+      var _sets=[];
+      avSets().then(function(sets){
+        _sets=sets; var mine=currentUser&&currentUser.avatar;
+        sets.forEach(function(s){ s.items.forEach(function(x){ if(x.image===mine) set=s.id; }); });
+        if(!set && sets[0]) set=sets[0].id;
+        paint();
+      });
+      chips.addEventListener('click',function(e){ var b=e.target.closest('[data-set]'); if(b){ set=b.dataset.set; paint(); } });
+      grid.addEventListener('click',function(e){ var b=e.target.closest('[data-id]'); if(b){ pick=b.dataset.id; paint(); } });
+      root.querySelector('.lg-pill').addEventListener('click',function(){ pickAvatar(function(){ pick=null; paint(); }); });
+      return function(){ return pick; };
+    }
+    async function avSave(id){
+      if(!id) return true;
+      try{
+        var r=await authedFetch('/api/avatar',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ preset:id }) });
+        var j=await r.json();
+        if(!r.ok){ showToast(j.error||'Couldn’t save. Try again.'); return false; }
+        currentUser.avatar=j.avatar; renderAccount();
+        if(typeof currentRoute==='function' && currentRoute()==='account') openAccount();
+        return true;
+      }catch(_){ showToast('Couldn’t save. Try again.'); return false; }
+    }
+    function openAvatarModal(){
+      if(!currentUser) return;
+      var ov=document.createElement('div'); ov.className='auth-overlay show';
+      ov.innerHTML='<div class="auth-box avp-box" style="max-width:420px;display:flex;flex-direction:column;gap:20px">'+
+        '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
+        '<h3>Profile picture</h3><div id="avp-body"></div>'+
+        '<button class="go" id="avp-go" data-ic="check" type="button" style="align-self:flex-start;margin-top:0">Save</button></div>';
+      document.body.appendChild(ov);
+      function close(){ ov.remove(); }
+      var get=avPicker(ov.querySelector('#avp-body'));
+      ov.querySelector('.auth-close').addEventListener('click',close);
+      ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
+      ov.querySelector('#avp-go').addEventListener('click',async function(){ this.disabled=true; if(await avSave(get())){ close(); showToast('Picture saved'); } else this.disabled=false; });
     }
     onEl('auth-close','click',closeAuth);
     onEl('auth-sent-done','click',closeAuth);
@@ -11497,7 +11565,7 @@ a.fst-t:hover{text-decoration:underline}
         ? '<div class="pfh-wall" aria-hidden="true">'+wallImgs.map(function(u){ return '<i style="background-image:url('+imgUrl(u,200)+')"></i>'; }).join('')+'</div><div class="pfh-veil" aria-hidden="true"></div>'
         : '';
       var hero='<div class="pfh pfh-poster">'+wall+'<div class="pfh-in">'+
-        '<div class="pfh-top"><span class="pfh-av" style="background-image:'+avatarBg(p.handle,p.avatar)+'"></span>'+
+        '<div class="pfh-top">'+(p.isMe?'<button class="pfh-av" id="pfh-av" type="button" aria-label="Change profile picture"':'<span class="pfh-av"')+' style="background-image:'+avatarBg(p.handle,p.isMe&&currentUser?currentUser.avatar:p.avatar)+'"></'+(p.isMe?'button':'span')+'>'+
           '<div class="pfh-id"><h1 class="pfh-name">'+esc(p.displayName||('u/'+p.handle))+'</h1><div class="pfh-sub">'+sub+'</div>'+
             // ONE LINE, IN THEIR OWN WORDS. Two states and nothing else: the line
             // when it is written, and — on your own profile only — the prompt to
@@ -11730,6 +11798,7 @@ a.fst-t:hover{text-decoration:underline}
         bioEl.addEventListener('click',editBio);
         bioEl.addEventListener('keydown',function(e){ if(e.key==='Enter'||e.key===' '){ e.preventDefault(); editBio(); } });
       }
+      var pav=document.getElementById('pfh-av'); if(pav) pav.addEventListener('click',openAvatarModal);
       var ed=document.getElementById('pb-edit'); if(ed) ed.addEventListener('click',function(){ openActionSheet({ title:'Settings', items:[
         { label:'Turn on gig alerts', run:function(){ enablePush(); } },
         { label:'Change handle', run:function(){ openHandleModal(true); } },
@@ -11740,7 +11809,7 @@ a.fst-t:hover{text-decoration:underline}
               .then(function(r){ showToast(r.ok?'Hidden. Your profile drops out of search within a day.':'Couldn’t save. Try again.'); })
               .catch(function(){ showToast('Network error. Try again.'); });
           } },
-        { label:(currentUser&&currentUser.avatar)?'Change photo':'Add a photo', run:function(){ pickAvatar(); } },
+        { label:'Profile picture', run:function(){ openAvatarModal(); } },
         { label:'Add an event', run:function(){ openImport(); } },
         { label:'Friends', run:function(){ openFriends(); } },
         { label:'Sign out', run:function(){ signOut(); } },
@@ -15094,7 +15163,7 @@ a.fst-t:hover{text-decoration:underline}
     // share (/api/card) — it is just no longer something you walk through to
     // sign up. The handle was never a step at all: it was a modal fired 800ms
     // after sign-in, which is a strange way to ask for the name everyone sees.
-    var OB_STEPS=['city','handle'];
+    var OB_STEPS=['city','handle','pic'];
     function obEl(){
       var el=document.getElementById('obv'); if(el) return el;
       el=document.createElement('div'); el.className='obv'; el.id='obv';
@@ -15135,6 +15204,7 @@ a.fst-t:hover{text-decoration:underline}
       if(step==='inbox') return obStepInbox();
       if(step==='city') return obStepCity();
       if(step==='handle') return obStepHandle();
+      if(step==='pic') return obStepPic();
     }
 
     /**
@@ -15391,8 +15461,7 @@ a.fst-t:hover{text-decoration:underline}
      * is the server's call anyway.
      */
     function obStepHandle(){
-      var el=obBody('<div class="ob-eyebrow">One last thing</div>'+
-        '<h1 class="ob-h1">Pick your handle.</h1>'+
+      var el=obBody('<h1 class="ob-h1">Pick your handle.</h1>'+
         '<p class="ob-sub">How people find you on soundcheck. Letters, numbers and underscores.</p>'+
         '<div class="handle-field"><span class="hpre">u/</span>'+
           '<input type="text" id="ob-h-in" maxlength="20" placeholder="yourname" autocomplete="off" autocapitalize="off" autocorrect="off" spellcheck="false"></div>'+
@@ -15432,11 +15501,24 @@ a.fst-t:hover{text-decoration:underline}
           setPref('handlePrompted',1);
           sgTrack('signup_handle',{ result:'saved' });
           try{ renderAccount(); }catch(_){}
-          obClose(); showToast('You\u2019re u/'+j.handle);
+          showToast('You\u2019re u/'+j.handle); scOnboard('pic');
         }catch(_){ err.textContent='Couldn’t save. Try again.'; go.disabled=false; }
       });
-      el.querySelector('#ob-h-later').addEventListener('click',function(){ sgTrack('signup_handle',{ result:'skipped' }); setPref('handlePrompted',1); obClose(); });
+      el.querySelector('#ob-h-later').addEventListener('click',function(){ sgTrack('signup_handle',{ result:'skipped' }); setPref('handlePrompted',1); scOnboard('pic'); });
       setTimeout(function(){ input.focus(); },80);
+    }
+    // Last step: the random picture the account was dealt, kept or swapped.
+    function obStepPic(){
+      var el=obBody('<h1 class="ob-h1">Pick your picture.</h1>'+
+        '<p class="ob-sub">We picked this one for you. Keep it, or choose your own.</p>'+
+        '<div id="ob-pic"></div>'+
+        '<button class="ob-cta" id="ob-pic-go" data-ic="check" type="button">Done</button>');
+      sgTrack('signup_picture',{ result:'shown' });
+      var get=avPicker(el.querySelector('#ob-pic'));
+      el.querySelector('#ob-pic-go').addEventListener('click',async function(){
+        var id=get(); this.disabled=true;
+        if(await avSave(id)){ sgTrack('signup_picture',{ result:id?'picked':'kept' }); obClose(); } else this.disabled=false;
+      });
     }
     // Save the card PNG to the device (download; the OS drops it in Photos/Files).
     async function saveSceneCard(handle){

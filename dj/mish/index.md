@@ -1,6 +1,6 @@
 # Mish
 
-Mish is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
+Mish is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
 
 Mish is a hardcore and techno artist based in Mexico, with 25 gigs on soundcheck across Amsterdam, Auckland, Bristol and Dortmund / Essen and 7 more. Often billed alongside Angerfist, Act of Rage and Anime. Next up: Maimarkthalle, Mannheim on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mish is a hardcore and techno artist based in Mexico, with 25 gigs on soundcheck
 
 Angerfist, Act of Rage, Anime
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mish/)*

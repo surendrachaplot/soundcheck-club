@@ -1,8 +1,8 @@
 # DIAEN
 
-DIAEN is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 12 Nov 2026.
+DIAEN is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at EL SÓTANO, Madrid on Thu, 12 Nov 2026.
 
-DIAEN is a techno artist, with 7 gigs on soundcheck across Dublin and Madrid. Often billed alongside KRSDJ, Bigot3x and Chamo. Next up: EL SÓTANO, Madrid on Thu 12 Nov.
+DIAEN is a techno artist based in Spain, with 7 gigs on soundcheck across Dublin and Madrid. Often billed alongside KRSDJ, Bigot3x and Chamo. Next up: EL SÓTANO, Madrid on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ DIAEN is a techno artist, with 7 gigs on soundcheck across Dublin and Madrid. Of
 
 KRSDJ, Bigot3x (2), Chamo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diaen/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diaen/)*

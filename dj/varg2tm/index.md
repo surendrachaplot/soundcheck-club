@@ -1,6 +1,6 @@
 # Varg²™
 
-Varg²™ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
+Varg²™ is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
 
 Varg²™ is a techno and experimental artist based in Sweden, with 43 gigs on soundcheck across Basel, Berlin, Brussels and Chicago and 18 more. Often billed alongside jamesjamesjames, Mechatok and Anthony Linell. Next up: Igloofest, Montreal on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Varg²™ is a techno and experimental artist based in Sweden, with 43 gigs on s
 
 jamesjamesjames, Mechatok, Anthony Linell
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varg2tm/)*

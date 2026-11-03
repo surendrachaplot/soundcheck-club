@@ -1,6 +1,6 @@
 # 1-800-Lucky
 
-1-800-Lucky is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "A Mi Ritmo Records Showcase" on Sun, 8 Nov 2026.
+1-800-Lucky is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "A Mi Ritmo Records Showcase" on Sun, 8 Nov 2026.
 
 1-800-Lucky is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including GAGH, Lazaro Casanova, Leyva and Nicole Fiallo and 1 more. See dates, start times and who's playing. 143 NW 23rd St, Miami, FL 33127, USA.
 
@@ -17,4 +17,4 @@
 
 143 NW 23rd St, Miami, FL 33127, USA, Miami
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/1-800-lucky/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/1-800-lucky/)*

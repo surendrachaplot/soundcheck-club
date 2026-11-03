@@ -1,6 +1,6 @@
 # Phase Line
 
-Phase Line is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Daina | Kaunas, Lithuania on Sat, 7 Nov 2026.
+Phase Line is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Daina | Kaunas, Lithuania on Sat, 7 Nov 2026.
 
 Phase Line is a techno and acid artist based in Lithuania, with 47 gigs on soundcheck across Copenhagen, Lithuania, London and Riga and 1 more. Often billed alongside IP:VIII, Mirror Slave and Valdagger. Next up: Daina | Kaunas, Lithuania on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Phase Line is a techno and acid artist based in Lithuania, with 47 gigs on sound
 
 IP:VIII, Mirror Slave, Valdagger
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phaseline/)*

@@ -1,6 +1,6 @@
 # CIRØ
 
-CIRØ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Chiesa delle Crocelle ai Mannesi, Naples on Sun, 8 Nov 2026.
+CIRØ is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Chiesa delle Crocelle ai Mannesi, Naples on Sun, 8 Nov 2026.
 
 CIRØ is a house and tech house artist based in Italy, with 2 gigs on soundcheck across Naples. Often billed alongside Diego Cardarelli, GDT (ITA) and Key Eff. Next up: TBA - Chiesa delle Crocelle ai Mannesi, Naples on Sun 8 Nov.
 
@@ -18,4 +18,4 @@ CIRØ is a house and tech house artist based in Italy, with 2 gigs on soundcheck
 
 Diego Cardarelli, GDT (ITA), Key Eff
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciro/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ciro/)*

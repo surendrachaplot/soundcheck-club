@@ -1,6 +1,6 @@
 # Anstascia
 
-Anstascia is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
+Anstascia is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sunset Beach Bali, Bali on Sat, 28 Nov 2026.
 
 Anstascia is a house and deep house artist based in Canada, with 17 gigs on soundcheck across Bali, Ibiza, Lisbon and London and 5 more. Often billed alongside Lunar Disco, unders and AMÉMÉ. Next up: Sunset Beach Bali, Bali on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Anstascia is a house and deep house artist based in Canada, with 17 gigs on soun
 
 Lunar Disco, unders, AMÉMÉ
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anstascia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anstascia/)*

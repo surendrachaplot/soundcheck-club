@@ -1,6 +1,6 @@
 # Jaz Jagers
 
-Jaz Jagers is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at BASIS, Utrecht on Fri, 11 Dec 2026.
+Jaz Jagers is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at BASIS, Utrecht on Fri, 11 Dec 2026.
 
 Jaz Jagers is a techno and industrial artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside BØĘRY, D|K|OXY and Festen. Next up: BASIS, Utrecht on Fri 11 Dec.
 
@@ -19,4 +19,4 @@ Jaz Jagers is a techno and industrial artist based in Netherlands, with 3 gigs o
 
 BØĘRY, D|K|OXY, Festen
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazjagers/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazjagers/)*

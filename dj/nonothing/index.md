@@ -1,6 +1,6 @@
 # Nono THING
 
-Nono THING is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at HVEN, Tokyo on Mon, 9 Nov 2026.
+Nono THING is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at HVEN, Tokyo on Mon, 9 Nov 2026.
 
 Nono THING is a techno and trance artist based in Japan, with 61 gigs on soundcheck across Kanto, Okinawa and Tokyo. Often billed alongside BEPPU, WAKA XINXI and DJ 34. Next up: HVEN, Tokyo on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ Nono THING is a techno and trance artist based in Japan, with 61 gigs on soundch
 
 BEPPU, WAKA XINXI, DJ 34
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonothing/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonothing/)*

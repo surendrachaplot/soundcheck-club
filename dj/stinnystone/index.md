@@ -1,6 +1,6 @@
 # Stinny Stone
 
-Stinny Stone is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+Stinny Stone is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
 Stinny Stone is a techno and trance artist based in Germany, with 97 gigs on soundcheck across Barcelona, Berlin, Bogotá and Budapest and 22 more. Often billed alongside SOHOE, Cobb Douglas and futurristic. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Stinny Stone is a techno and trance artist based in Germany, with 97 gigs on sou
 
 SOHOE, Cobb Douglas, futurristic
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stinnystone/)*

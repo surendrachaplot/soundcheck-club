@@ -1,14 +1,15 @@
 # Andre Zimmer
 
-Andre Zimmer is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Racket Space, Dublin on Fri, 6 Nov 2026.
+Andre Zimmer is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Racket Space, Dublin on Fri, 6 Nov 2026.
 
-Andre Zimmer is a house and techno artist based in Canada, with 66 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: The Racket Space, Dublin on Fri 6 Nov.
+Andre Zimmer is a house and techno artist based in Canada, with 67 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside AKWA, Jacob de Hooge and Venus in Foil. Next up: The Racket Space, Dublin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | The Racket Space | Dublin |
+| Fri, 13 Nov 2026 | Legal | Munich |
 | Fri, 13 Nov 2026 | Legal | Munich |
 | Sat, 14 Nov 2026 | PRST | Vienna |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
@@ -29,4 +30,4 @@ Andre Zimmer is a house and techno artist based in Canada, with 66 gigs on sound
 
 AKWA, Jacob de Hooge, Venus in Foil
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrezimmer/)*

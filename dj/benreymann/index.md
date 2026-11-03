@@ -1,6 +1,6 @@
 # Ben Reymann
 
-Ben Reymann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
+Ben Reymann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
 
 Ben Reymann is a techno and house artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Düsseldorf and 3 more. Often billed alongside Angioma, no.name (IT) and BLANKA. Next up: Spartacus Potsdam, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ben Reymann is a techno and house artist based in Germany, with 27 gigs on sound
 
 Angioma, no.name (IT), BLANKA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benreymann/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benreymann/)*

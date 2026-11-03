@@ -1,6 +1,6 @@
 # Hellraiser
 
-Hellraiser is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Billboard The Venue, Melbourne on Mon, 25 Jan 2027.
+Hellraiser is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Billboard The Venue, Melbourne on Mon, 25 Jan 2027.
 
 Hellraiser is a techno and acid artist, with 6 gigs on soundcheck across Melbourne. Often billed alongside Nexus, CAITY WATSON and Jewelz. Next up: Billboard The Venue, Melbourne on Mon 25 Jan.
 
@@ -22,4 +22,4 @@ Hellraiser is a techno and acid artist, with 6 gigs on soundcheck across Melbour
 
 Nexus, CAITY WATSON, Jewelz
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellraiser/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellraiser/)*

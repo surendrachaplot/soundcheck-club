@@ -1,6 +1,6 @@
 # MORTEN VAMMEN
 
-MORTEN VAMMEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
+MORTEN VAMMEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
 
 MORTEN VAMMEN is a house and techno artist, with 3 gigs on soundcheck across Copenhagen. Often billed alongside Denis Horvat, Disk jockey samson and Gabriella Vergilov. Next up: Den Anden Side, Copenhagen on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ MORTEN VAMMEN is a house and techno artist, with 3 gigs on soundcheck across Cop
 
 Denis Horvat, Disk jockey samson, Gabriella Vergilov
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mortenvammen/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mortenvammen/)*

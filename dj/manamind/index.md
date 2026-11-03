@@ -1,6 +1,6 @@
 # Mana Mind
 
-Mana Mind is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at essaim, Paris on Fri, 18 Dec 2026.
+Mana Mind is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at essaim, Paris on Fri, 18 Dec 2026.
 
 Mana Mind is a techno and trance artist, with 5 gigs on soundcheck across Madrid and Paris. Often billed alongside Electric Rescue, Audrey Danza and DVS1. Next up: essaim, Paris on Fri 18 Dec.
 
@@ -21,4 +21,4 @@ Mana Mind is a techno and trance artist, with 5 gigs on soundcheck across Madrid
 
 Electric Rescue, Audrey Danza, DVS1
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manamind/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manamind/)*

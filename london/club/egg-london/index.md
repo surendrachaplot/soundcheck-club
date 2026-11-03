@@ -1,6 +1,6 @@
 # Egg London
 
-Egg London is a music venue in London with 49 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 4 Nov 2026.
+Egg London is a music venue in London with 49 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Wednesday Club: House, Tech House, Electro & Hip Hop" on Wed, 4 Nov 2026.
 
 Egg London is a music venue in London listed on soundcheck. 49 upcoming gigs, with line-ups including ACA (YU), Aidyscape, Andrew Sharpe and AR (UK) and 2 more. See dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
@@ -23,4 +23,4 @@ Egg London is a music venue in London listed on soundcheck. 49 upcoming gigs, wi
 
 5-13 Vale Royal, London, N7 9AP, London
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/egg-london/)*

@@ -1,6 +1,6 @@
 # ENDSTSTATION SEHNSUCHT at Amp
 
-ENDSTSTATION SEHNSUCHT at Amp on Sat 28 Nov, Münster. 1 artist: kichererbsenstampf. Trance and Techno. See the line-up on soundcheck.
+ENDSTSTATION SEHNSUCHT at Amp on Sat 28 Nov, Münster. 3 artists: Cali Caracho, dylliboi_91 and kichererbsenstampf. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ ENDSTSTATION SEHNSUCHT at Amp on Sat 28 Nov, Münster. 1 artist: kichererbsensta
 
 ## Line-up
 
+- Cali Caracho
+- dylliboi_91
 - kichererbsenstampf
 
 *Source: [soundcheck](https://soundcheck.club/e/2489719-endststation-sehnsucht-at-amp/)*

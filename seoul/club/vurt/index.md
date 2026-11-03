@@ -1,6 +1,6 @@
 # vurt.
 
-vurt. is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "lift from Tokyo" on Sat, 7 Nov 2026.
+vurt. is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "lift from Tokyo" on Sat, 7 Nov 2026.
 
 vurt. is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including ABSIS, Carrier, Djilogue and Junya Yamamura and 2 more. See dates, start times and who's playing. 11, Dongmak-ro, Mapo-gu, Seoul, South Korea..
 
@@ -17,4 +17,4 @@ vurt. is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line
 
 11, Dongmak-ro, Mapo-gu, Seoul, South Korea., Seoul
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/vurt/)*

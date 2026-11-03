@@ -1,6 +1,6 @@
 # Rick Offen
 
-Rick Offen is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 5 Nov 2026.
+Rick Offen is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 5 Nov 2026.
 
 Rick Offen is a house and deep house artist based in Portugal, with 28 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Cyprus and 10 more. Often billed alongside Ander Race, Awk and Reezar. Next up: M.N.Roy, Mexico City on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Rick Offen is a house and deep house artist based in Portugal, with 28 gigs on s
 
 Ander Race, Awk (2), Reezar
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*

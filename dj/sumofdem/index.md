@@ -1,6 +1,6 @@
 # Sumofdem
 
-Sumofdem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Sumofdem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Sumofdem is a techno and house artist based in Hungary, with 3 gigs on soundcheck across Budapest. Often billed alongside Lucien, Agents Of Time and Albin Brezlan. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ Sumofdem is a techno and house artist based in Hungary, with 3 gigs on soundchec
 
 Lucien, Agents Of Time, Albin Brezlan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sumofdem/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sumofdem/)*

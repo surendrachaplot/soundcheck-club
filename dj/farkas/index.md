@@ -1,6 +1,6 @@
 # Farkas
 
-Farkas is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Giri, Berlin on Wed, 4 Nov 2026.
+Farkas is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Giri, Berlin on Wed, 4 Nov 2026.
 
 Farkas is a techno and electronica artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Benny Camaro, Domenico Rondinelli and Jaag. Next up: Giri, Berlin on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Farkas is a techno and electronica artist based in Germany, with 12 gigs on soun
 
 Benny Camaro, Domenico Rondinelli, Jaag
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farkas/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farkas/)*

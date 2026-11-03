@@ -1,6 +1,6 @@
 # Jasper James
 
-Jasper James is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
+Jasper James is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
 
 Jasper James is a house and techno artist based in United Kingdom, with 99 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Auckland and 30 more. Often billed alongside Ewan McVicar, MiNNA and Armand Van Helden. Next up: Flash, Washington DC on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Jasper James is a house and techno artist based in United Kingdom, with 99 gigs 
 
 Ewan McVicar, MiNNA, Armand Van Helden
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasperjames/)*

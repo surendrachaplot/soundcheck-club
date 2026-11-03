@@ -1,6 +1,6 @@
 # Justyyna
 
-Justyyna is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
+Justyyna is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
 
 Justyyna is a house and club artist based in United Kingdom, with 5 gigs on soundcheck across Glasgow. Often billed alongside MMS, eurokels and ANGELDOOF. Next up: Nico's Bar, Glasgow on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Justyyna is a house and club artist based in United Kingdom, with 5 gigs on soun
 
 MMS (2), eurokels, ANGELDOOF
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justyyna/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justyyna/)*

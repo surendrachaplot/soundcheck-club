@@ -1,6 +1,6 @@
 # Donna Dada
 
-Donna Dada is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Edmonton on Fri, 6 Nov 2026.
+Donna Dada is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Edmonton on Fri, 6 Nov 2026.
 
 Donna Dada is a garage and house artist based in Canada, with 22 gigs on soundcheck across Calgary, Edmonton, Los Angeles and Toronto and 1 more. Often billed alongside DR BPM, Effy and Kraang. Next up: TBA, Edmonton on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Donna Dada is a garage and house artist based in Canada, with 22 gigs on soundch
 
 DR BPM, Effy, Kraang
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnadada/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donnadada/)*

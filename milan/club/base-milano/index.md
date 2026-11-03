@@ -1,6 +1,6 @@
 # BASE Milano
 
-BASE Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Le Cannibale x Farout Festival - Gaia Banfi, Massimo Silverio" on Sun, 8 Nov 2026.
+BASE Milano is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Le Cannibale x Farout Festival - Gaia Banfi, Massimo Silverio" on Sun, 8 Nov 2026.
 
 BASE Milano is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including 2ManyDJs, ETNA, Monokultur and msft and 2 more. See dates, start times and who's playing. via Bergognone, 34 20144 Milan, Italy.
 
@@ -16,4 +16,4 @@ BASE Milano is a music venue in Milan listed on soundcheck. 3 upcoming gigs, wit
 
 via Bergognone, 34 20144 Milan, Italy, Milan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/base-milano/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/base-milano/)*

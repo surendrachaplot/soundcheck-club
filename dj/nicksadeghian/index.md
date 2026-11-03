@@ -1,6 +1,6 @@
 # Nick Sadeghian
 
-Nick Sadeghian is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Grace, London on Sat, 7 Nov 2026.
+Nick Sadeghian is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Grace, London on Sat, 7 Nov 2026.
 
 Nick Sadeghian is a garage and house artist, with 3 gigs on soundcheck across London. Often billed alongside Blue Brook, Calm Stiege and Dan Gold. Next up: The Grace, London on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Nick Sadeghian is a garage and house artist, with 3 gigs on soundcheck across Lo
 
 Blue Brook, Calm Stiege, Dan Gold
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicksadeghian/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicksadeghian/)*

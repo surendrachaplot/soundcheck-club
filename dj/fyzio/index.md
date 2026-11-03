@@ -1,6 +1,6 @@
 # FYZIØ
 
-FYZIØ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+FYZIØ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
 
 FYZIØ is a techno and house artist, with 3 gigs on soundcheck across Berlin. Often billed alongside VITØ VITE, gegenfegen and Ali Rajat. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ FYZIØ is a techno and house artist, with 3 gigs on soundcheck across Berlin. Of
 
 VITØ VITE, gegenfegen, Ali Rajat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fyzio/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fyzio/)*

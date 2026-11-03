@@ -1,6 +1,6 @@
 # Son of Semele
 
-Son of Semele is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
+Son of Semele is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fusion Club, Münster on Sat, 7 Nov 2026.
 
 Son of Semele is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Münster. Often billed alongside NØ TiME, AINA.KRU and Totales. Next up: Fusion Club, Münster on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Son of Semele is a techno and trance artist based in Germany, with 3 gigs on sou
 
 NØ TiME, AINA.KRU, Totales
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofsemele/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofsemele/)*

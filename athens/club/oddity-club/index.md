@@ -1,6 +1,6 @@
 # Oddity Club
 
-Oddity Club is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SOLACE PRELUDE" on Sat, 7 Nov 2026.
+Oddity Club is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SOLACE PRELUDE" on Sat, 7 Nov 2026.
 
 Oddity Club is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Aida Arko, Amor Satyr, Astral Bandit and CHEX and 2 more. See dates, start times and who's playing. Iraklidon 61, Athina 118 54.
 
@@ -17,4 +17,4 @@ Oddity Club is a music venue in Athens listed on soundcheck. 4 upcoming gigs, wi
 
 Iraklidon 61, Athina 118 54, Athens
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/oddity-club/)*

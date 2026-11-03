@@ -1,6 +1,6 @@
 # Steeve Mask
 
-Steeve Mask is a Club and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at NEO CLUB ROMA, Rome on Fri, 6 Nov 2026.
+Steeve Mask is a Club and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at NEO CLUB ROMA, Rome on Fri, 6 Nov 2026.
 
 Steeve Mask is a club and house artist based in Italy, with 8 gigs on soundcheck across Rome. Often billed alongside Marco Rea, Flavio Rago and Max Beat. Next up: NEO CLUB ROMA, Rome on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Steeve Mask is a club and house artist based in Italy, with 8 gigs on soundcheck
 
 Marco Rea, Flavio Rago, Max Beat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steevemask/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steevemask/)*

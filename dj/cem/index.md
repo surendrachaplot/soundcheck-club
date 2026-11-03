@@ -1,6 +1,6 @@
 # CEM
 
-CEM is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 6 Nov 2026.
+CEM is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 6 Nov 2026.
 
 CEM is a techno and house artist based in Germany, with 243 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 65 more. Often billed alongside MCMLXXXV, Dj Saliva and JASSS. Next up: Reactor Shanghai, Shanghai on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ CEM is a techno and house artist based in Germany, with 243 gigs on soundcheck a
 
 MCMLXXXV, Dj Saliva, JASSS
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cem/)*

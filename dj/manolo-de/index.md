@@ -1,6 +1,6 @@
 # Manolo. (DE)
 
-Manolo. (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at KREUZWERK, Berlin on Fri, 6 Nov 2026.
+Manolo. (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at KREUZWERK, Berlin on Fri, 6 Nov 2026.
 
 Manolo. (DE) is a house and techno artist based in United States of America, with 34 gigs on soundcheck across Berlin, Hamburg, New York City and Nürnberg and 1 more. Often billed alongside Stella Zekri, Camilla Rae and ābnamā. Next up: KREUZWERK, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Manolo. (DE) is a house and techno artist based in United States of America, wit
 
 Stella Zekri, Camilla Rae, ābnamā
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo-de/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manolo-de/)*

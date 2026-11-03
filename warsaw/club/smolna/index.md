@@ -1,6 +1,6 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 26 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Smolna TRIBE pres. PHAO SANATO & FRIENDS - Live Music Session - AFTER: DJ PANZA" on Thu, 5 Nov 2026.
+Smolna is a music venue in Warsaw with 26 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Smolna TRIBE pres. PHAO SANATO & FRIENDS - Live Music Session - AFTER: DJ PANZA" on Thu, 5 Nov 2026.
 
 Smolna is a music venue in Warsaw listed on soundcheck. 26 upcoming gigs, with line-ups including Âme, Chami, Cristobal Pesce and Enzio Etchaberri and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
@@ -23,4 +23,4 @@ Smolna is a music venue in Warsaw listed on soundcheck. 26 upcoming gigs, with l
 
 Smolna 38, 00-375 Warszawa, Warsaw
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/smolna/)*

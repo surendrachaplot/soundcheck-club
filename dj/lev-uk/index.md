@@ -1,6 +1,6 @@
 # LEV (UK)
 
-LEV (UK) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at SWG3, Glasgow on Sat, 5 Dec 2026.
+LEV (UK) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at SWG3, Glasgow on Sat, 5 Dec 2026.
 
 LEV (UK) is a house and disco artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 9 more. Often billed alongside Faro, Aroop Roy and MiNNA. Next up: SWG3, Glasgow on Sat 5 Dec.
 
@@ -15,7 +15,7 @@ LEV (UK) is a house and disco artist based in United Kingdom, with 93 gigs on so
 
 - The BBE Store, London · Sat, 31 Oct 2026
 - Acanteen, South-east · Sat, 24 Oct 2026
-- NT's Loft, London · Sat, 17 Oct 2026
+- Night Tales Loft, London · Sat, 17 Oct 2026
 - Omeara, London · Sat, 10 Oct 2026
 - DRUMSHEDS, London · Sat, 19 Sept 2026
 - The Glove That Fits, London · Sat, 12 Sept 2026
@@ -26,4 +26,4 @@ LEV (UK) is a house and disco artist based in United Kingdom, with 93 gigs on so
 
 Faro, Aroop Roy, MiNNA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lev-uk/)*

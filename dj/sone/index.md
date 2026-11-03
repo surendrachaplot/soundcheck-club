@@ -1,6 +1,6 @@
 # Sone
 
-Sone is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cross Roppongi, Tokyo on Fri, 6 Nov 2026.
+Sone is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cross Roppongi, Tokyo on Fri, 6 Nov 2026.
 
 Sone is a techno and experimental artist, with 6 gigs on soundcheck across Athens, Seattle and Tokyo. Often billed alongside KikoMike, Miss Shelrawka and ReZo. Next up: Cross Roppongi, Tokyo on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Sone is a techno and experimental artist, with 6 gigs on soundcheck across Athen
 
 KikoMike, Miss Shelrawka, ReZo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sone/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sone/)*

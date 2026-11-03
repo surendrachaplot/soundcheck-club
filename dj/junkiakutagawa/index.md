@@ -1,6 +1,6 @@
 # Junki Akutagawa
 
-Junki Akutagawa is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Noon + Cafe, Osaka on Fri, 6 Nov 2026.
+Junki Akutagawa is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Noon + Cafe, Osaka on Fri, 6 Nov 2026.
 
 Junki Akutagawa is a deep house and house artist based in Japan, with 52 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KONDO Mitsuo, yu-more and Sonny Vercetti. Next up: Noon + Cafe, Osaka on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Junki Akutagawa is a deep house and house artist based in Japan, with 52 gigs on
 
 KONDO Mitsuo, yu-more, Sonny Vercetti
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiakutagawa/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junkiakutagawa/)*

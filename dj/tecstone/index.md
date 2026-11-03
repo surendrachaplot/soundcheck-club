@@ -1,6 +1,6 @@
 # TECSTONE
 
-TECSTONE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - The Den, Tokyo on Tue, 3 Nov 2026.
+TECSTONE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - The Den, Tokyo on Tue, 3 Nov 2026.
 
 TECSTONE is a techno and house artist based in Japan, with 29 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), ALLY and Krankent. Next up: TBA - The Den, Tokyo on Tue 3 Nov.
 
@@ -27,4 +27,4 @@ TECSTONE is a techno and house artist based in Japan, with 29 gigs on soundcheck
 
 SIGNAL (JP), ALLY, Krankent
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tecstone/)*

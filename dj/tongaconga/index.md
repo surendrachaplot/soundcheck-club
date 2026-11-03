@@ -1,6 +1,6 @@
 # Tonga Conga
 
-Tonga Conga is a Dancehall and Classical artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Aoyama Tunnel, Tokyo on Thu, 5 Nov 2026.
+Tonga Conga is a Dancehall and Classical artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Aoyama Tunnel, Tokyo on Thu, 5 Nov 2026.
 
 Tonga Conga is a dancehall and classical artist based in Mexico, with 20 gigs on soundcheck across Mexico City and Tokyo. Often billed alongside AB, Alacrán del Amor and Irena Stanisic. Next up: Aoyama Tunnel, Tokyo on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Tonga Conga is a dancehall and classical artist based in Mexico, with 20 gigs on
 
 AB, Alacrán del Amor, Irena Stanisic
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tongaconga/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tongaconga/)*

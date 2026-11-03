@@ -1,6 +1,6 @@
 # Eddie Zarook
 
-Eddie Zarook is a Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Grün & Gold, Heidelberg on Fri, 20 Nov 2026.
+Eddie Zarook is a Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Grün & Gold, Heidelberg on Fri, 20 Nov 2026.
 
 Eddie Zarook is an electronica artist, with 3 gigs on soundcheck across Heidelberg. Often billed alongside Marcel Puntheller and Move D. Next up: Grün & Gold, Heidelberg on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Eddie Zarook is an electronica artist, with 3 gigs on soundcheck across Heidelbe
 
 Marcel Puntheller, Move D
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiezarook/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiezarook/)*

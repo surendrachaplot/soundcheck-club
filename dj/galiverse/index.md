@@ -1,6 +1,6 @@
 # GALIVERSE
 
-GALIVERSE is a Tech House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Makossa, London on Sat, 5 Dec 2026.
+GALIVERSE is a Tech House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Makossa, London on Sat, 5 Dec 2026.
 
 GALIVERSE is a tech house and drum & bass artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Positive_Con, BIDOIS and DJ Harmee. Next up: Club Makossa, London on Sat 5 Dec.
 
@@ -20,4 +20,4 @@ GALIVERSE is a tech house and drum & bass artist based in United Kingdom, with 4
 
 Positive_Con, BIDOIS, DJ Harmee
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galiverse/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/galiverse/)*

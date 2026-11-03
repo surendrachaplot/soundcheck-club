@@ -1,6 +1,6 @@
 # Young Pulse
 
-Young Pulse is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
+Young Pulse is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 6 Nov 2026.
 
 Young Pulse is a disco and house artist based in France, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 15 more. Often billed alongside Jamie 3:26, Melvo Baptiste and MiNNA. Next up: Cabaret Sauvage, Paris on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Young Pulse is a disco and house artist based in France, with 105 gigs on soundc
 
 Jamie 3:26, Melvo Baptiste, MiNNA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngpulse/)*

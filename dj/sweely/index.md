@@ -1,6 +1,6 @@
 # Sweely
 
-Sweely is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Flash, Washington DC on Fri, 6 Nov 2026.
+Sweely is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Flash, Washington DC on Fri, 6 Nov 2026.
 
 Sweely is a house and techno artist based in France, with 189 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 53 more. Often billed alongside Enzo Siragusa, Traumer and The Ghost. Next up: Flash, Washington DC on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Sweely is a house and techno artist based in France, with 189 gigs on soundcheck
 
 Enzo Siragusa, Traumer, The Ghost
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweely/)*

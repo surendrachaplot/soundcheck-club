@@ -1,6 +1,6 @@
 # 404: JokesOnYou at The Comfort Zone
 
-404: JokesOnYou at The Comfort Zone on Fri 6 Nov, Toronto. 5 artists: JOKESONYOU, KILL 9 1, MVCHE and THREECARDMONTY and 1 more. Trance and Techno. See the line-up on soundcheck.
+404: JokesOnYou at The Comfort Zone on Fri 6 Nov, Toronto. 6 artists: JOKESONYOU, KILL 9 1, Mand0 and MVCHE and 2 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - JOKESONYOU
 - KILL 9 1
+- Mand0
 - MVCHE
 - THREECARDMONTY
 - Tomb Raver

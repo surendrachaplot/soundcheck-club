@@ -1,6 +1,6 @@
 # Goldcap
 
-Goldcap is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Goldcap is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Goldcap is a deep house and house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Bali, Chicago and Denver and 12 more. Often billed alongside Sabo, ELIF and Authentic. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Goldcap is a deep house and house artist based in United States of America, with
 
 Sabo, ELIF, Authentic
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldcap/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goldcap/)*

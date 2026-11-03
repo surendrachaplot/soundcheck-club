@@ -1,6 +1,6 @@
 # MELV!EE
 
-MELV!EE is a Afrobeats and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Maassilo, Rotterdam on Thu, 31 Dec 2026.
+MELV!EE is a Afrobeats and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Maassilo, Rotterdam on Thu, 31 Dec 2026.
 
 MELV!EE is an afrobeats and hip-hop artist, with 6 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Rockefellababe, Jan Koster and ARRA. Next up: Maassilo, Rotterdam on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ MELV!EE is an afrobeats and hip-hop artist, with 6 gigs on soundcheck across Ams
 
 Rockefellababe, Jan Koster, ARRA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melvlee/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melvlee/)*

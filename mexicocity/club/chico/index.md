@@ -1,6 +1,6 @@
 # CHICO
 
-CHICO is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "MUTEK en CHICO" on Sat, 7 Nov 2026.
+CHICO is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "MUTEK en CHICO" on Sat, 7 Nov 2026.
 
 CHICO is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, with line-ups including binkan!, Concepción Huerta, deeplinkin and El irreal Veintiuno and 2 more. See dates, start times and who's playing. Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX.
 
@@ -18,4 +18,4 @@ CHICO is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, wit
 
 Colima 367 Roma Nte., Cuauhtemoc, 06700 Ciudad de MÃ©xico, CDMX, Mexico City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/chico/)*

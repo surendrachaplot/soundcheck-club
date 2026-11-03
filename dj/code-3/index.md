@@ -1,6 +1,6 @@
 # CODE (3)
 
-CODE (3) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Planet Wax, London on Sat, 28 Nov 2026.
+CODE (3) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Planet Wax, London on Sat, 28 Nov 2026.
 
 CODE is a jungle and drum & bass artist based in Canada, with 2 gigs on soundcheck across London and Oberhausen. Often billed alongside Artilect, Blooom and Doctor P. Next up: Planet Wax, London on Sat 28 Nov.
 
@@ -18,4 +18,4 @@ CODE is a jungle and drum & bass artist based in Canada, with 2 gigs on soundche
 
 Artilect, Blooom, Doctor P
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/code-3/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/code-3/)*

@@ -1,6 +1,6 @@
 # sednoid
 
-sednoid is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
+sednoid is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Blue Velvet, Berlin on Sat, 7 Nov 2026.
 
 sednoid is a techno and acid artist, with 3 gigs on soundcheck across Berlin and Hamburg. Often billed alongside A.I., Acid At The Mall and BOBBIE*. Next up: Blue Velvet, Berlin on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ sednoid is a techno and acid artist, with 3 gigs on soundcheck across Berlin and
 
 A.I., Acid At The Mall, BOBBIE*
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sednoid/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sednoid/)*

@@ -1,6 +1,6 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 20 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 7 Nov 2026.
+Jamback is a House and Tech House artist with 20 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 7 Nov 2026.
 
 Jamback is a house and tech house artist based in Netherlands, with 214 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Blackstone Street Warehouse, Liverpool on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ Jamback is a house and tech house artist based in Netherlands, with 214 gigs on 
 
 East End Dubs, Marsolo, Rossi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

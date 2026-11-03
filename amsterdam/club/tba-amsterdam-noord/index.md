@@ -1,6 +1,6 @@
 # TBA - Amsterdam Noord
 
-TBA - Amsterdam Noord is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "ooze" on Sat, 7 Nov 2026.
+TBA - Amsterdam Noord is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "ooze" on Sat, 7 Nov 2026.
 
 TBA - Amsterdam Noord is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Faustin (NL), Loradeniz and Lyrae. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Amsterdam Noord is a music venue in Amsterdam listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | ooze | Faustin (NL), Loradeniz, Lyrae |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-amsterdam-noord/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/tba-amsterdam-noord/)*

@@ -1,6 +1,6 @@
 # Carrier (Aus)
 
-Carrier (Aus) is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at VENT, Tokyo on Sat, 5 Dec 2026.
+Carrier (Aus) is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at VENT, Tokyo on Sat, 5 Dec 2026.
 
 Carrier (Aus) is a techno and jungle artist based in Australia, with 7 gigs on soundcheck across Amsterdam, Brussels, Ghent and Melbourne and 1 more. Often billed alongside A-Sides, AMORAL and Blawan. Next up: VENT, Tokyo on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Carrier (Aus) is a techno and jungle artist based in Australia, with 7 gigs on s
 
 A-Sides, AMORAL, Blawan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier3/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carrier3/)*

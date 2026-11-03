@@ -1,6 +1,6 @@
 # Applied Rithim
 
-Applied Rithim is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pawn Shop, Dublin on Fri, 13 Nov 2026.
+Applied Rithim is a Techno and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pawn Shop, Dublin on Fri, 13 Nov 2026.
 
 Applied Rithim is a techno and broken beat artist based in Ireland, with 2 gigs on soundcheck across Dublin. Often billed alongside Billy Spike Iland, Bronwyn and DarkTrax. Next up: Pawn Shop, Dublin on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ Applied Rithim is a techno and broken beat artist based in Ireland, with 2 gigs 
 
 Billy Spike Iland, Bronwyn, DarkTrax
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/appliedrithim/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/appliedrithim/)*

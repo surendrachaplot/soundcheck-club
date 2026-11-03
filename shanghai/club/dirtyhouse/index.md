@@ -1,13 +1,14 @@
 # Dirtyhouse
 
-Dirtyhouse is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "LOW FREQUENCY" on Sun, 25 Oct 2026.
+Dirtyhouse is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "GUEST DJ Linapary" on Fri, 6 Nov 2026.
 
-Dirtyhouse is a music venue in Shanghai listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+Dirtyhouse is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with line-ups including AK SPORTS, Linapary, NAKIN and Onyx and 1 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | LOW FREQUENCY |  |
+| Fri, 6 Nov 2026 | GUEST DJ Linapary | Linapary, NAKIN, Sol 39 |
+| Fri, 13 Nov 2026 | RAVE FORCE: AK SPORTS | AK SPORTS, NAKIN, Onyx |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/dirtyhouse/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/dirtyhouse/)*

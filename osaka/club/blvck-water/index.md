@@ -1,14 +1,13 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 18 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "TECHNO ''テクノ高校テクノ部(Techno HIgh School)''w/LIZA,U-koh,Kaoll,ShinSawada,空都" on Mon, 2 Nov 2026.
+Blvck Water is a music venue in Osaka with 17 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "'sutura' TECHNO ADDICT at Night Club Blvck Water" on Tue, 3 Nov 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 18 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and CHIKA and 2 more. See dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 17 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and CHIKA and 2 more. See dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | TECHNO ''テクノ高校テクノ部(Techno HIgh School)''w/LIZA,U-koh,Kaoll,ShinSawada,空都 | Kaoll, Liza |
 | Tue, 3 Nov 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water | ZAGUN, dyn (JP), kamesou |
 | Fri, 6 Nov 2026 | HARD TECHNO 'CRACKS' RESIDENT NIGHT with FENGX2, ANKH of LIFE, LIZA, Shuk00 | FENGX2, LIZA (6) |
 | Sat, 7 Nov 2026 | AWAKING THE UNKNOWN |  |
@@ -18,9 +17,10 @@ Blvck Water is a music venue in Osaka listed on soundcheck. 18 upcoming gigs, wi
 | Tue, 17 Nov 2026 | 'sutura'×DELTA TECHNO ADDICT at Night Club Blvck Water SPECIAL COLLABORATION | ZAGUN, amor (JP) |
 | Fri, 20 Nov 2026 | HARD TECHNO 'CRACKS' |  |
 | Tue, 24 Nov 2026 | 'sutura' TECHNO ADDICT at Night Club Blvck Water Resident Night | ZAGUN, amor (JP), dyn (JP) |
+| Fri, 27 Nov 2026 | HARD TECHNO 'CRACKS' with Kosuke (Hiroshima), FENGX2 | FENGX2, Kosuke |
 
 ## Address
 
 B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka, Osaka
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/blvck-water/)*

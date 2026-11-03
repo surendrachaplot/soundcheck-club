@@ -1,6 +1,6 @@
 # ANABE
 
-ANABE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+ANABE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 ANABE is a house and tech house artist based in New Zealand, with 3 gigs on soundcheck across Auckland. Often billed alongside AROHA, Aunty El and Bari. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -19,4 +19,4 @@ ANABE is a house and tech house artist based in New Zealand, with 3 gigs on soun
 
 AROHA, Aunty El, Bari
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anabe/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anabe/)*

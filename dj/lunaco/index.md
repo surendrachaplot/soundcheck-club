@@ -1,6 +1,6 @@
 # Lunaco
 
-Lunaco is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Mercato Crespi, Milan on Wed, 4 Nov 2026.
+Lunaco is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Mercato Crespi, Milan on Wed, 4 Nov 2026.
 
 Lunaco is an electronic artist, with 3 gigs on soundcheck across Milan. Often billed alongside SpezialState. Next up: Mercato Crespi, Milan on Wed 4 Nov.
 
@@ -19,4 +19,4 @@ Lunaco is an electronic artist, with 3 gigs on soundcheck across Milan. Often bi
 
 SpezialState
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaco/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunaco/)*

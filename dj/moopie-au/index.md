@@ -1,6 +1,6 @@
 # Moopie
 
-Moopie is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Solace, Melbourne on Fri, 6 Nov 2026.
+Moopie is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Solace, Melbourne on Fri, 6 Nov 2026.
 
 Moopie is a house and techno artist based in Australia, with 230 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Solace, Melbourne on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Moopie is a house and techno artist based in Australia, with 230 gigs on soundch
 
 Kia (AU), Emelyne, Hannah D
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moopie-au/)*

@@ -1,6 +1,6 @@
 # Natalie Nox
 
-Natalie Nox is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Wiggle Room, Toronto on Fri, 20 Nov 2026.
+Natalie Nox is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Wiggle Room, Toronto on Fri, 20 Nov 2026.
 
 Natalie Nox is a house and tech house artist based in Canada, with 5 gigs on soundcheck across Toronto. Often billed alongside Sydney Blu, Miz Megs and SHERA. Next up: Wiggle Room, Toronto on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Natalie Nox is a house and tech house artist based in Canada, with 5 gigs on sou
 
 Sydney Blu, Miz Megs, SHERA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalienox/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalienox/)*

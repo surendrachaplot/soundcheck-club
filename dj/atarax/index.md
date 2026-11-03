@@ -1,6 +1,6 @@
 # ATARAX
 
-ATARAX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Marmorbar, Berlin on Sat, 7 Nov 2026.
+ATARAX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Marmorbar, Berlin on Sat, 7 Nov 2026.
 
 ATARAX is a house and techno artist based in France, with 11 gigs on soundcheck across Berlin, Cape Town, Istanbul and Paris. Often billed alongside KasbaH, Aaron Suiss and Aleqs Notal. Next up: Marmorbar, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ATARAX is a house and techno artist based in France, with 11 gigs on soundcheck 
 
 KasbaH, Aaron Suiss, Aleqs Notal
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atarax/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atarax/)*

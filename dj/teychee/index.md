@@ -1,14 +1,15 @@
 # Teychee
 
-Teychee is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at John Doe, Amsterdam on Sat, 14 Nov 2026.
+Teychee is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at John Doe, Amsterdam on Sat, 14 Nov 2026.
 
-Teychee is a techno and acid artist based in Croatia, with 84 gigs on soundcheck across Amsterdam, Düsseldorf, Ibiza and London and 3 more. Often billed alongside Teo Harouda, Yvonne and Fabian Jakopetz. Next up: John Doe, Amsterdam on Sat 14 Nov.
+Teychee is a techno and acid artist based in Croatia, with 85 gigs on soundcheck across Amsterdam, Düsseldorf, Ibiza and London and 3 more. Often billed alongside Teo Harouda, Yvonne and Fabian Jakopetz. Next up: John Doe, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | John Doe | Amsterdam |
+| Sat, 21 Nov 2026 | Depo Klub | Zagreb |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Teychee is a techno and acid artist based in Croatia, with 84 gigs on soundcheck
 
 Teo Harouda, Yvonne (2), Fabian Jakopetz
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teychee/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teychee/)*

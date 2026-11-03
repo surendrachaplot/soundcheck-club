@@ -1,6 +1,6 @@
 # Sinéad
 
-Sinéad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
+Sinéad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
 
 Sinéad is a house and techno artist based in United States of America, with 79 gigs on soundcheck across Berlin, Chicago, Cork and Detroit and 21 more. Often billed alongside Shanti Celeste, Louiv and Galen. Next up: The Glove That Fits, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Sinéad is a house and techno artist based in United States of America, with 79 
 
 Shanti Celeste, Louiv, Galen
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinead/)*

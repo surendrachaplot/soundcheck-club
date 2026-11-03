@@ -1,6 +1,6 @@
 # Jabuka
 
-Jabuka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+Jabuka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
 
 Jabuka is a house and techno artist, with 5 gigs on soundcheck across Berlin. Often billed alongside Einfach Taffo, Laigonen Kanonen and Marc Eisenberg. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
 
@@ -21,4 +21,4 @@ Jabuka is a house and techno artist, with 5 gigs on soundcheck across Berlin. Of
 
 Einfach Taffo, Laigonen Kanonen, Marc Eisenberg
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jabuka/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jabuka/)*

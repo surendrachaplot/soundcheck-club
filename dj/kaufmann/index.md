@@ -1,6 +1,6 @@
 # Kaufmann
 
-Kaufmann is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 6 Nov 2026.
+Kaufmann is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 6 Nov 2026.
 
 Kaufmann is a techno and house artist based in Germany, with 165 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 33 more. Often billed alongside Leon Licht, Memo. and ADAMN. Next up: Fridas Pier, Stuttgart on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Kaufmann is a techno and house artist based in Germany, with 165 gigs on soundch
 
 Leon Licht, Memo., ADAMN
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaufmann/)*

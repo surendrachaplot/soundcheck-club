@@ -1,6 +1,6 @@
 # Benwal
 
-Benwal is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Vinyl, Denver on Fri, 6 Nov 2026.
+Benwal is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Vinyl, Denver on Fri, 6 Nov 2026.
 
 Benwal is a techno and trance artist based in Netherlands, with 210 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 55 more. Often billed alongside Kyle Starkey, MALUGI and Bad Boombox. Next up: Club Vinyl, Denver on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Benwal is a techno and trance artist based in Netherlands, with 210 gigs on soun
 
 Kyle Starkey, MALUGI, Bad Boombox
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benwal/)*

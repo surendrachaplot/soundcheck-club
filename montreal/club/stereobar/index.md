@@ -1,18 +1,18 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "YGM x SB: Dust-E-1 - Metizo - Matt Brancatella" on Fri, 23 Oct 2026.
+StereoBar is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "FAMÜ & K.Lein" on Fri, 6 Nov 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Dust-E-1, Matt Brancatella, Metizo and Ugo Banchi. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including FAMÜ and Jody Wisternoff. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | YGM x SB: Dust-E-1 - Metizo - Matt Brancatella | Dust-E-1, Matt Brancatella, Metizo |
-| Sat, 24 Oct 2026 | Ugo Banchi (All Night Long) | Ugo Banchi |
+| Fri, 6 Nov 2026 | FAMÜ & K.Lein | FAMÜ |
+| Sat, 7 Nov 2026 | Jody Wisternhoff (All Night Long) | Jody Wisternoff |
 
 ## Address
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

@@ -1,6 +1,6 @@
 # Ohm Hourani
 
-Ohm Hourani is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Supermarket, Zurich on Fri, 6 Nov 2026.
+Ohm Hourani is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Supermarket, Zurich on Fri, 6 Nov 2026.
 
 Ohm Hourani is a house and minimal artist based in Canada, with 114 gigs on soundcheck across Belgrade, Berlin, Bologna and Boston and 15 more. Often billed alongside Vincent Lemieux, Tomas Station and O.BEE. Next up: Supermarket, Zurich on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ohm Hourani is a house and minimal artist based in Canada, with 114 gigs on soun
 
 Vincent Lemieux, Tomas Station, O.BEE
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ohmhourani/)*

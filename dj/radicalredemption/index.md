@@ -1,6 +1,6 @@
 # Radical Redemption
 
-Radical Redemption is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
+Radical Redemption is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
 
 Radical Redemption is a hardcore and techno artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Antwerp, Cologne and Edinburgh and 10 more. Often billed alongside Act of Rage, Malice and Sound Rush. Next up: Maimarkthalle, Mannheim on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Radical Redemption is a hardcore and techno artist based in Netherlands, with 18
 
 Act of Rage, Malice, Sound Rush
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radicalredemption/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radicalredemption/)*

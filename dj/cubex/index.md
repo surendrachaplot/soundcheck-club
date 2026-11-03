@@ -1,6 +1,6 @@
 # Cubex
 
-Cubex is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fri-Son, Switzerland on Sat, 19 Dec 2026.
+Cubex is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fri-Son, Switzerland on Sat, 19 Dec 2026.
 
 Cubex is a techno artist, with 3 gigs on soundcheck across Ghent, Hamburg and Switzerland. Often billed alongside HypoGeo, Ash Roy and Freya Rose. Next up: Fri-Son, Switzerland on Sat 19 Dec.
 
@@ -19,4 +19,4 @@ Cubex is a techno artist, with 3 gigs on soundcheck across Ghent, Hamburg and Sw
 
 HypoGeo, Ash Roy, Freya Rose
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cubex/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cubex/)*

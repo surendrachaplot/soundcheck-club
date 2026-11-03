@@ -1,6 +1,6 @@
 # Kijara
 
-Kijara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Sat, 7 Nov 2026.
+Kijara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sensorium, Berlin on Sat, 7 Nov 2026.
 
 Kijara is a house and techno artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside CEEE, DERICE and Danny Subsonic. Next up: Sensorium, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Kijara is a house and techno artist based in Germany, with 13 gigs on soundcheck
 
 CEEE, DERICE, Danny Subsonic
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kijara/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kijara/)*

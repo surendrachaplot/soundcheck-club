@@ -1,6 +1,6 @@
 # karishma
 
-karishma is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Makossa, London on Thu, 5 Nov 2026.
+karishma is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Makossa, London on Thu, 5 Nov 2026.
 
 karishma is a jungle and drum & bass artist based in United Kingdom, with 36 gigs on soundcheck across Leeds and London. Often billed alongside MF Ceól, vish and Deselecta. Next up: Club Makossa, London on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ karishma is a jungle and drum & bass artist based in United Kingdom, with 36 gig
 
 MF Ceól, vish, Deselecta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karishma/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karishma/)*

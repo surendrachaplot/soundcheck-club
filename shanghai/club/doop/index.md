@@ -1,6 +1,6 @@
 # Doop
 
-Doop is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Yeti SOUNDSYSTEM TOUR: SHANGHAI" on Fri, 6 Nov 2026.
+Doop is a music venue in Shanghai with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Yeti SOUNDSYSTEM TOUR: SHANGHAI" on Fri, 6 Nov 2026.
 
 Doop is a music venue in Shanghai listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Doop is a music venue in Shanghai listed on soundcheck. 1 upcoming gig. See date
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Yeti SOUNDSYSTEM TOUR: SHANGHAI |  |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/doop/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/doop/)*

@@ -1,8 +1,8 @@
 # EJWIZE
 
-EJWIZE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Elsewhere, New York City on Sat, 7 Nov 2026.
+EJWIZE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Elsewhere, New York City on Sat, 7 Nov 2026.
 
-EJWIZE is a house and tech house artist, with 6 gigs on soundcheck across New York City. Often billed alongside ANDG LUNA, Dendi's Dad and Flava D. Next up: Elsewhere, New York City on Sat 7 Nov.
+EJWIZE is a house and tech house artist, with 6 gigs on soundcheck across New York City. Often billed alongside ANDG LUNA, Dendi's Dad and Don-Ri. Next up: Elsewhere, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ EJWIZE is a house and tech house artist, with 6 gigs on soundcheck across New Yo
 
 ## Shares bills with
 
-ANDG LUNA, Dendi's Dad, Flava D
+ANDG LUNA, Dendi's Dad, Don-Ri
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ejwize/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ejwize/)*

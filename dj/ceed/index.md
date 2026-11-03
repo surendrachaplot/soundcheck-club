@@ -1,6 +1,6 @@
 # CEED
 
-CEED is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 15 Nov 2026.
+CEED is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 15 Nov 2026.
 
 CEED is a bass and house artist, with 2 gigs on soundcheck across Tokyo. Often billed alongside MOOTOE, SAKO and SYNE.. Next up: Circus Tokyo, Tokyo on Sun 15 Nov.
 
@@ -18,4 +18,4 @@ CEED is a bass and house artist, with 2 gigs on soundcheck across Tokyo. Often b
 
 MOOTOE, SAKO, SYNE.
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceed/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceed/)*

@@ -1,8 +1,8 @@
 # Buttechno
 
-Buttechno is a Experimental and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Buttechno is a Experimental and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
-Buttechno is an experimental and techno artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Mama Snake, upsammy and DjRUM. Next up: public records, New York City on Mon 9 Nov.
+Buttechno is an experimental and techno artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Mama Snake, upsammy and DjRUM. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ Buttechno is an experimental and techno artist based in Germany, with 88 gigs on
 | Thu, 12 Nov 2026 | public records | New York City |
 | Sun, 15 Nov 2026 | public records | New York City |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
+| Fri, 1 Jan 2027 | Lofi | Amsterdam |
+| Fri, 1 Jan 2027 | Lofi | Amsterdam |
 | Thu, 18 Feb 2027 | TBA - Various Venues (EartH theatre, Cafe OTO, ORMSIDE Projects) | London |
 | Sun, 21 Feb 2027 | EartH | London |
 
@@ -30,4 +32,4 @@ Buttechno is an experimental and techno artist based in Germany, with 88 gigs on
 
 Mama Snake, upsammy, DjRUM
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buttechno/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buttechno/)*

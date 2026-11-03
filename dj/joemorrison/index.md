@@ -1,6 +1,6 @@
 # Joe Morrison
 
-Joe Morrison is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 26 Mar 2027.
+Joe Morrison is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 26 Mar 2027.
 
 Joe Morrison is a techno and house artist based in United Kingdom, with 3 gigs on soundcheck across Glasgow. Often billed alongside Bonzai Bonner, David Scott and Danse Atmos. Next up: La Cheetah Club, Glasgow on Fri 26 Mar.
 
@@ -19,4 +19,4 @@ Joe Morrison is a techno and house artist based in United Kingdom, with 3 gigs o
 
 Bonzai Bonner, David Scott, Danse Atmos
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joemorrison/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joemorrison/)*

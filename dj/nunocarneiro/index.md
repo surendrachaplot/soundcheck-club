@@ -1,6 +1,6 @@
 # Nuno Carneiro
 
-Nuno Carneiro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Outer Heaven, New York City on Wed, 4 Nov 2026.
+Nuno Carneiro is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Outer Heaven, New York City on Wed, 4 Nov 2026.
 
 Nuno Carneiro is a house and techno artist based in Portugal, with 38 gigs on soundcheck across Barcelona, Berlin, Lisbon and New York City and 2 more. Often billed alongside Alfonsvs, Adriana Ruas and Da Ni. Next up: Outer Heaven, New York City on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Nuno Carneiro is a house and techno artist based in Portugal, with 38 gigs on so
 
 Alfonsvs, Adriana Ruas, Da Ni
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunocarneiro/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunocarneiro/)*

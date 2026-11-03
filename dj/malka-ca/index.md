@@ -1,6 +1,6 @@
 # MALKA (CA)
 
-MALKA (CA) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Vino Disco, Montreal on Fri, 6 Nov 2026.
+MALKA (CA) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Vino Disco, Montreal on Fri, 6 Nov 2026.
 
 MALKA (CA) is a house and disco artist based in Canada, with 9 gigs on soundcheck across Barcelona, Miami and Montreal. Often billed alongside Bun Xapa, Colmee and DUZA. Next up: Vino Disco, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MALKA (CA) is a house and disco artist based in Canada, with 9 gigs on soundchec
 
 Bun Xapa, Colmee, DUZA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malka-ca/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malka-ca/)*

@@ -1,6 +1,6 @@
 # Adina Camhy
 
-Adina Camhy is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at kv.r., Vienna on Thu, 12 Nov 2026.
+Adina Camhy is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at kv.r., Vienna on Thu, 12 Nov 2026.
 
 Adina Camhy is an electronica and experimental artist, with 3 gigs on soundcheck across Vienna. Often billed alongside Andrea Ida, Landa and Mursal. Next up: kv.r., Vienna on Thu 12 Nov.
 
@@ -19,4 +19,4 @@ Adina Camhy is an electronica and experimental artist, with 3 gigs on soundcheck
 
 Andrea Ida, Landa (1), Mursal
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adinacamhy/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adinacamhy/)*

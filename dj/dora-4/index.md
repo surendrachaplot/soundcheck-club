@@ -1,6 +1,6 @@
 # Dora (UK)
 
-Dora (UK) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at FOLD, London on Sun, 27 Dec 2026.
+Dora (UK) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at FOLD, London on Sun, 27 Dec 2026.
 
 Dora (UK) is a techno and progressive house artist, with 5 gigs on soundcheck across London. Often billed alongside Eksish, !NN and Adi (CO). Next up: FOLD, London on Sun 27 Dec.
 
@@ -21,4 +21,4 @@ Dora (UK) is a techno and progressive house artist, with 5 gigs on soundcheck ac
 
 Eksish, !NN, Adi (CO)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dora-4/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dora-4/)*

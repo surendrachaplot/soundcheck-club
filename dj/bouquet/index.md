@@ -1,6 +1,6 @@
 # Bouquet
 
-Bouquet is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Wed, 11 Nov 2026.
+Bouquet is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sensorium, Berlin on Wed, 11 Nov 2026.
 
 Bouquet is a techno and tech house artist, with 3 gigs on soundcheck across Berlin. Often billed alongside Axxi Oma, Bee Lincoln and Blck-Swan. Next up: Sensorium, Berlin on Wed 11 Nov.
 
@@ -19,4 +19,4 @@ Bouquet is a techno and tech house artist, with 3 gigs on soundcheck across Berl
 
 Axxi Oma, Bee Lincoln, Blck-Swan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouquet/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouquet/)*

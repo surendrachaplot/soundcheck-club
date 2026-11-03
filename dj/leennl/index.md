@@ -1,6 +1,6 @@
 # Leen (NL)
 
-Leen (NL) is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ANTIA, Netherlands on Sat, 7 Nov 2026.
+Leen (NL) is a Dub and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ANTIA, Netherlands on Sat, 7 Nov 2026.
 
 Leen (NL) is a dub and techno artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Remma, 42nd Avenue and BLUME. Next up: ANTIA, Netherlands on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Leen (NL) is a dub and techno artist based in Netherlands, with 7 gigs on soundc
 
 Remma, 42nd Avenue, BLUME
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leennl/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leennl/)*

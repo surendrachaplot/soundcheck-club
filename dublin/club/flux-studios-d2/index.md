@@ -1,6 +1,6 @@
 # Flux Studios D2
 
-Flux Studios D2 is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "RA25 UNLOCKED: Community Building panel with Roo Honeychild, Jowy Ahia and Tadhg Kinsella" on Sat, 7 Nov 2026.
+Flux Studios D2 is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "RA25 UNLOCKED: Community Building panel with Roo Honeychild, Jowy Ahia and Tadhg Kinsella" on Sat, 7 Nov 2026.
 
 Flux Studios D2 is a music venue in Dublin listed on soundcheck. 1 upcoming gig, with line-ups including JWY, Roo Honeychild and Tadhg K. See dates, start times and who's playing. 4 Chatham Row, Dublin, D02 PA06.
 
@@ -14,4 +14,4 @@ Flux Studios D2 is a music venue in Dublin listed on soundcheck. 1 upcoming gig,
 
 4 Chatham Row, Dublin, D02 PA06, Dublin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/flux-studios-d2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/flux-studios-d2/)*

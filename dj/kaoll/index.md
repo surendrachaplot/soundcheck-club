@@ -1,20 +1,20 @@
 # Kaoll
 
-Kaoll is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Blvck Water, Osaka on Mon, 2 Nov 2026.
+Kaoll is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
-Kaoll is a techno and psytrance artist based in Japan, with 26 gigs on soundcheck across Osaka. Often billed alongside FENGX2, LIZA and ZAGUN. Next up: Blvck Water, Osaka on Mon 2 Nov.
+Kaoll is a techno and psytrance artist based in Japan, with 26 gigs on soundcheck across Osaka. Often billed alongside FENGX2, LIZA and ZAGUN. Next up: Joule, Osaka on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Blvck Water | Osaka |
 | Sat, 14 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | Triangle | Osaka |
 | Sat, 14 Nov 2026 | Blvck Water | Osaka |
 
 ## Recently played
 
+- Blvck Water, Osaka · Mon, 2 Nov 2026
 - Blvck Water, Osaka · Fri, 30 Oct 2026
 - Blvck Water, Osaka · Fri, 23 Oct 2026
 - Blvck Water, Osaka · Fri, 16 Oct 2026
@@ -22,10 +22,9 @@ Kaoll is a techno and psytrance artist based in Japan, with 26 gigs on soundchec
 - Blvck Water, Osaka · Sat, 10 Oct 2026
 - Conpass, Osaka · Fri, 2 Oct 2026
 - Blvck Water, Osaka · Fri, 2 Oct 2026
-- Blvck Water, Osaka · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 FENGX2, LIZA (6), ZAGUN
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*

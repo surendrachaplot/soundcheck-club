@@ -1,6 +1,6 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ROOM pres.: Mad Rey & GGGG (D.KO Records / FR)" on Wed, 4 Nov 2026.
+Rūmu is a music venue in Lisbon with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "ROOM pres.: Mad Rey & GGGG (D.KO Records / FR)" on Wed, 4 Nov 2026.
 
 Rūmu is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with line-ups including Andrade, Bernardo Vaz, DJ Dustin and GGGG and 2 more. See dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
@@ -18,4 +18,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 5 upcoming gigs, with lin
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

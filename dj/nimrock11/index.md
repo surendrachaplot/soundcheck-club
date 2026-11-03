@@ -1,6 +1,6 @@
 # nimrock11
 
-nimrock11 is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at CHICO, Mexico City on Sat, 7 Nov 2026.
+nimrock11 is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at CHICO, Mexico City on Sat, 7 Nov 2026.
 
 nimrock11 is an electronica and downtempo artist based in Mexico, with 8 gigs on soundcheck across Mexico City. Often billed alongside binkan!, Babybruise and ICE BATH. Next up: CHICO, Mexico City on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ nimrock11 is an electronica and downtempo artist based in Mexico, with 8 gigs on
 
 binkan!, Babybruise, ICE BATH
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimrock11/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nimrock11/)*

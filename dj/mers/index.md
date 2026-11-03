@@ -1,6 +1,6 @@
 # MERS
 
-MERS is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - 131 McCormack St., Toronto on Sat, 7 Nov 2026.
+MERS is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - 131 McCormack St., Toronto on Sat, 7 Nov 2026.
 
 MERS is a tech house and techno artist based in Canada, with 3 gigs on soundcheck across Toronto. Often billed alongside Addy, Kiinjo and Nambeh. Next up: TBA - 131 McCormack St., Toronto on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ MERS is a tech house and techno artist based in Canada, with 3 gigs on soundchec
 
 Addy, Kiinjo, Nambeh
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mers/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mers/)*

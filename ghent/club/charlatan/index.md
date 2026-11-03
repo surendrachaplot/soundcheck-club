@@ -1,6 +1,6 @@
 # Charlatan
 
-Charlatan is a music venue in Ghent with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "WHAP WHAP // TEKNOVILLE" on Fri, 6 Nov 2026.
+Charlatan is a music venue in Ghent with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "WHAP WHAP // TEKNOVILLE" on Fri, 6 Nov 2026.
 
 Charlatan is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with line-ups including Carlamote, DJ Beast, GALAGO (BE) and Mona Lee and 2 more. See dates, start times and who's playing. Vlasmarkt 6, 9000 Gent, Belgium.
 
@@ -16,4 +16,4 @@ Charlatan is a music venue in Ghent listed on soundcheck. 3 upcoming gigs, with 
 
 Vlasmarkt 6, 9000 Gent, Belgium, Ghent
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/charlatan/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/charlatan/)*

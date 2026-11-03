@@ -1,6 +1,6 @@
 # Ottoman Grüw
 
-Ottoman Grüw is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Paramour, Brussels on Fri, 13 Nov 2026.
+Ottoman Grüw is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Paramour, Brussels on Fri, 13 Nov 2026.
 
 Ottoman Grüw is an ebm and techno artist, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 13 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: Paramour, Brussels on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Ottoman Grüw is an ebm and techno artist, with 63 gigs on soundcheck across Ams
 
 2+2=5, Incendie, Monstera Occulta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ottomangruw/)*

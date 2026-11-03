@@ -1,6 +1,6 @@
 # Voodoo Meluk
 
-Voodoo Meluk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
+Voodoo Meluk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
 
 Voodoo Meluk is a house and techno artist based in Colombia, with 34 gigs on soundcheck across Bogotá, Medellin and Mexico City. Often billed alongside Enya Botello, David Löhlein and Deejay Fuego. Next up: Outline, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Voodoo Meluk is a house and techno artist based in Colombia, with 34 gigs on sou
 
 Enya Botello, David Löhlein, Deejay Fuego
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoomeluk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voodoomeluk/)*

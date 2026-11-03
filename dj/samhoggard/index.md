@@ -1,6 +1,6 @@
 # Sam Hoggard
 
-Sam Hoggard is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Wavio Room, Leeds on Sat, 14 Nov 2026.
+Sam Hoggard is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Wavio Room, Leeds on Sat, 14 Nov 2026.
 
 Sam Hoggard is a deep house and tech house artist, with 15 gigs on soundcheck across Berlin, Leeds, London and Manchester and 1 more. Often billed alongside TriForm, Roya Brehl and Bod Min. Next up: Wavio Room, Leeds on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sam Hoggard is a deep house and tech house artist, with 15 gigs on soundcheck ac
 
 TriForm, Roya Brehl, Bod Min
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samhoggard/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samhoggard/)*

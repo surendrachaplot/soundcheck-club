@@ -1,6 +1,6 @@
 # Pazzi
 
-Pazzi is a House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
+Pazzi is a House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
 
 Pazzi is a house artist based in Cyprus, with 6 gigs on soundcheck across Cyprus and Warsaw. Often billed alongside Echonomist, AWEN and Adam Beyer. Next up: The Warehouse By IT Quarter, Cyprus on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Pazzi is a house artist based in Cyprus, with 6 gigs on soundcheck across Cyprus
 
 Echonomist, AWEN, Adam Beyer
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pazzi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pazzi/)*

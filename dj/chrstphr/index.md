@@ -1,6 +1,6 @@
 # CHRSTPHR
 
-CHRSTPHR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kassa Boat, Budapest on Fri, 6 Nov 2026.
+CHRSTPHR is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kassa Boat, Budapest on Fri, 6 Nov 2026.
 
 CHRSTPHR is a tech house and house artist based in Hungary, with 4 gigs on soundcheck across Budapest and Ibiza. Often billed alongside Alle Farben, Dual DeStress and Noel Holler. Next up: Kassa Boat, Budapest on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ CHRSTPHR is a tech house and house artist based in Hungary, with 4 gigs on sound
 
 Alle Farben, Dual DeStress, Noel Holler
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrstphr/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrstphr/)*

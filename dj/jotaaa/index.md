@@ -1,6 +1,6 @@
 # JOTAAA
 
-JOTAAA is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at SOS, Detroit on Fri, 13 Nov 2026.
+JOTAAA is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SOS, Detroit on Fri, 13 Nov 2026.
 
 JOTAAA is a techno and experimental artist based in Portugal, with 3 gigs on soundcheck across Detroit. Often billed alongside 88 MPH, Austin Buck and Instead of Seven. Next up: SOS, Detroit on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ JOTAAA is a techno and experimental artist based in Portugal, with 3 gigs on sou
 
 88 MPH, Austin Buck, Instead of Seven
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jotaaa/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jotaaa/)*

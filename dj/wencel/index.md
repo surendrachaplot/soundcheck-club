@@ -1,6 +1,6 @@
 # Wencel
 
-Wencel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ulica Elektryków, Gdansk on Sat, 7 Nov 2026.
+Wencel is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ulica Elektryków, Gdansk on Sat, 7 Nov 2026.
 
 Wencel is a techno and house artist, with 50 gigs on soundcheck across Bergen, Berlin, Gdansk and Krakow and 7 more. Often billed alongside Aetha, Sabre (PL) and Edvvin. Next up: Ulica Elektryków, Gdansk on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Wencel is a techno and house artist, with 50 gigs on soundcheck across Bergen, B
 
 Aetha, Sabre (PL), Edvvin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wencel/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wencel/)*

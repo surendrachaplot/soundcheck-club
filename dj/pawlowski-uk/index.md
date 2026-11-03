@@ -1,6 +1,6 @@
 # Pawlowski (UK)
 
-Pawlowski (UK) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Toffler, Rotterdam on Sat, 7 Nov 2026.
+Pawlowski (UK) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Toffler, Rotterdam on Sat, 7 Nov 2026.
 
 Pawlowski (UK) is a techno and trance artist based in Poland, with 34 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 19 more. Often billed alongside Alignment, NOVAH and Nico Moreno. Next up: Toffler, Rotterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Pawlowski (UK) is a techno and trance artist based in Poland, with 34 gigs on so
 
 Alignment, NOVAH, Nico Moreno
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pawlowski-uk/)*

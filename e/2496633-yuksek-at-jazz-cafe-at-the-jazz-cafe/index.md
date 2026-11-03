@@ -1,6 +1,6 @@
 # Yuksek at Jazz Cafe at The Jazz Cafe
 
-Yuksek at Jazz Cafe at The Jazz Cafe on Sat 19 Dec, London. 1 artist: Yuksek. See the line-up on soundcheck.
+Yuksek at Jazz Cafe at The Jazz Cafe on Sat 19 Dec, London. 2 artists: Marley Reid and Yuksek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Yuksek at Jazz Cafe at The Jazz Cafe on Sat 19 Dec, London. 1 artist: Yuksek. Se
 
 ## Line-up
 
+- Marley Reid
 - Yuksek
 
 *Source: [soundcheck](https://soundcheck.club/e/2496633-yuksek-at-jazz-cafe-at-the-jazz-cafe/)*

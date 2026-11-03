@@ -1,6 +1,6 @@
 # XANGA
 
-XANGA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Resonnce, Hamilton on Sat, 14 Nov 2026.
+XANGA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Resonnce, Hamilton on Sat, 14 Nov 2026.
 
 XANGA is a house and electro artist based in Canada, with 11 gigs on soundcheck across Hamilton and Toronto. Often billed alongside DR 4SKYN, Delicious DJ and emmy.wav. Next up: Resonnce, Hamilton on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ XANGA is a house and electro artist based in Canada, with 11 gigs on soundcheck 
 
 DR 4SKYN, Delicious DJ, emmy.wav
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xanga-ca/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xanga-ca/)*

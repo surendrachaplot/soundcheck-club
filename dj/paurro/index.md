@@ -1,6 +1,6 @@
 # PAURRO
 
-PAURRO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+PAURRO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 PAURRO is a house and techno artist based in Mexico, with 200 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 40 more. Often billed alongside Ranma Entero, Kodemul and Valeriana. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ PAURRO is a house and techno artist based in Mexico, with 200 gigs on soundcheck
 
 Ranma Entero, Kodemul, Valeriana
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paurro/)*

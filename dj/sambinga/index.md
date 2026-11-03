@@ -1,6 +1,6 @@
 # Sam Binga
 
-Sam Binga is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Suki10c, Birmingham on Fri, 6 Nov 2026.
+Sam Binga is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Suki10c, Birmingham on Fri, 6 Nov 2026.
 
 Sam Binga is a bass and garage artist based in United Kingdom, with 99 gigs on soundcheck across Atlanta, Auckland, Austin and Baltimore and 45 more. Often billed alongside Addison Groove, Bianca Oblivion and Amy Kisnorbo. Next up: Suki10c, Birmingham on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Sam Binga is a bass and garage artist based in United Kingdom, with 99 gigs on s
 
 Addison Groove, Bianca Oblivion, Amy Kisnorbo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sambinga/)*

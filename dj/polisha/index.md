@@ -1,6 +1,6 @@
 # Polisha
 
-Polisha is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 8 Nov 2026.
+Polisha is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 8 Nov 2026.
 
 Polisha is an electro and electronica artist based in Argentina, with 6 gigs on soundcheck across Barcelona. Often billed alongside Agustina Aliaga, BRU ON and Bad Educated. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ Polisha is an electro and electronica artist based in Argentina, with 6 gigs on 
 
 Agustina Aliaga, BRU ON, Bad Educated
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polisha/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polisha/)*

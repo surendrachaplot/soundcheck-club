@@ -1,6 +1,6 @@
 # Upsidedown
 
-Upsidedown is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "ULT" on Sat, 7 Nov 2026.
+Upsidedown is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "ULT" on Sat, 7 Nov 2026.
 
 Upsidedown is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including CHISE, DJ Compufunk, DJ Morita and KaterUnser and 2 more. See dates, start times and who's playing. 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -17,4 +17,4 @@ Upsidedown is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with
 
 2-8-33 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/upsidedown/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/upsidedown/)*

@@ -1,6 +1,6 @@
 # Soul Lazh
 
-Soul Lazh is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Island Club Vigo, North on Sat, 7 Nov 2026.
+Soul Lazh is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Island Club Vigo, North on Sat, 7 Nov 2026.
 
 Soul Lazh is a techno and electronica artist, with 5 gigs on soundcheck across Madrid, North and Porto. Often billed alongside Ali-Az, Ana Pacheco and Antonov. Next up: TBA - Island Club Vigo, North on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Soul Lazh is a techno and electronica artist, with 5 gigs on soundcheck across M
 
 Ali-Az, Ana Pacheco, Antonov (2)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soullazh/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soullazh/)*

@@ -1,6 +1,6 @@
 # Point Ephémère
 
-Point Ephémère is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Amplify Take Over" on Sat, 7 Nov 2026.
+Point Ephémère is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Amplify Take Over" on Sat, 7 Nov 2026.
 
 Point Ephémère is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Beatrice M., Château Flight, Gilb'R and I:Cube and 2 more. See dates, start times and who's playing. 200 quai de Valmy; 75010; Paris; France.
 
@@ -17,4 +17,4 @@ Point Ephémère is a music venue in Paris listed on soundcheck. 4 upcoming gigs
 
 200 quai de Valmy; 75010; Paris; France, Paris
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/point-eph-m-re/)*

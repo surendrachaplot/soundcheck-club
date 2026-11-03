@@ -1,6 +1,6 @@
 # renae
 
-renae is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "renae: Krioso" on Tue, 3 Nov 2026.
+renae is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "renae: Krioso" on Tue, 3 Nov 2026.
 
 renae is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including atalaya, Atiké, Ayy Den and BANSHII and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
@@ -23,4 +23,4 @@ renae is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, wit
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

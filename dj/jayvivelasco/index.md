@@ -1,6 +1,6 @@
 # Jayvi Velasco
 
-Jayvi Velasco is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fluid510, San Francisco/Oakland on Sat, 14 Nov 2026.
+Jayvi Velasco is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fluid510, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Jayvi Velasco is a house and afro house artist, with 47 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside David Harness, Coflo and Homero Espinosa. Next up: Fluid510, San Francisco/Oakland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jayvi Velasco is a house and afro house artist, with 47 gigs on soundcheck acros
 
 David Harness, Coflo, Homero Espinosa
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvivelasco/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayvivelasco/)*

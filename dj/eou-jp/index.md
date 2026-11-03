@@ -1,19 +1,19 @@
 # E.O.U
 
-E.O.U is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Saloon, Tokyo on Mon, 2 Nov 2026.
+E.O.U is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
-E.O.U is a techno and house artist based in Japan, with 121 gigs on soundcheck across Beijing, Chengdu, Kyoto and Osaka and 3 more. Often billed alongside Vís, Whatman and eijin. Next up: Saloon, Tokyo on Mon 2 Nov.
+E.O.U is a techno and house artist based in Japan, with 121 gigs on soundcheck across Beijing, Chengdu, Kyoto and Osaka and 3 more. Often billed alongside Vís, Whatman and eijin. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Saloon | Tokyo |
 | Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |
 | Mon, 23 Nov 2026 | Forestlimit | Tokyo |
 
 ## Recently played
 
+- Saloon, Tokyo · Mon, 2 Nov 2026
 - TBA - Jogashima Park, Tokyo · Sat, 17 Oct 2026
 - WWW, Tokyo · Fri, 25 Sept 2026
 - R Lounge, Tokyo · Sat, 12 Sept 2026
@@ -21,10 +21,9 @@ E.O.U is a techno and house artist based in Japan, with 121 gigs on soundcheck a
 - Forestlimit, Tokyo · Sat, 15 Aug 2026
 - BnA Alter Museum, Kyoto · Sat, 1 Aug 2026
 - Circus Tokyo, Tokyo · Fri, 31 Jul 2026
-- WWW, Tokyo · Tue, 9 Jun 2026
 
 ## Shares bills with
 
 Vís (1), Whatman, eijin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eou-jp/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eou-jp/)*

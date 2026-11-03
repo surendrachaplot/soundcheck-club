@@ -1,6 +1,6 @@
 # Rush City
 
-Rush City is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
+Rush City is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at El Rio Hostel, Colombia on Wed, 3 Mar 2027.
 
 Rush City is a house and disco artist based in Colombia, with 9 gigs on soundcheck across Bogotá and Colombia. Often billed alongside Bluekim, ANTI and Bedriñana. Next up: El Rio Hostel, Colombia on Wed 3 Mar.
 
@@ -25,4 +25,4 @@ Rush City is a house and disco artist based in Colombia, with 9 gigs on soundche
 
 Bluekim, ANTI (1), Bedriñana
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rushcity/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rushcity/)*

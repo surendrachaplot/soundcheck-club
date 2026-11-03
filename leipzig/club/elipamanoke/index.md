@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 16 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "between x NIENEIN night" on Wed, 4 Nov 2026.
+elipamanoke is a music venue in Leipzig with 16 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "between x NIENEIN night" on Wed, 4 Nov 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, with line-ups including :MUMM, Aio, AMBROXAN and BBetriebswirt and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -8,7 +8,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | between x NIENEIN night |  |
+| Wed, 4 Nov 2026 | between x NIENEIN night | Lars Goldammer, Nienein, R-SOHR, meowmeyer |
 | Fri, 6 Nov 2026 | HeyCiao, Vacanza! #15 | :MUMM, BBetriebswirt, Bertha, Brückmann, KRUE, MATHILDA (2), dj_kareless, raoul victor |
 | Sat, 7 Nov 2026 | 5YEARS PRAXIS13.5 | CAVEN, Humanoizer, Hypnosta, MOFS, Malena (2), Maze DK, NACHTIGALL, Napakee, Neptune, Regent |
 | Wed, 11 Nov 2026 | between x Vernetzt Leipzig |  |
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 16 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

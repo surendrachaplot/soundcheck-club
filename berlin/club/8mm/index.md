@@ -1,6 +1,6 @@
 # 8MM
 
-8MM is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "8MM Live: Sunset Images (MX)" on Tue, 3 Nov 2026.
+8MM is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "8MM Live: Sunset Images (MX)" on Tue, 3 Nov 2026.
 
 8MM is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Aleksandra Słyż, Circular Ruins, Debbie Sings and LINTD and 1 more. See dates, start times and who's playing. Schönhauser Allee 177b, 10119 Berlin.
 
@@ -18,4 +18,4 @@
 
 Schönhauser Allee 177b, 10119 Berlin, Berlin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/8mm/)*

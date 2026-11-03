@@ -1,6 +1,6 @@
 # DIESEL (NZ)
 
-DIESEL (NZ) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Miscellania, Melbourne on Fri, 13 Nov 2026.
+DIESEL (NZ) is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Miscellania, Melbourne on Fri, 13 Nov 2026.
 
 DIESEL (NZ) is a techno and breakbeat artist, with 3 gigs on soundcheck across Auckland, Los Angeles and Melbourne. Often billed alongside AMÉMÉ, ATARANGI and Alok. Next up: Miscellania, Melbourne on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ DIESEL (NZ) is a techno and breakbeat artist, with 3 gigs on soundcheck across A
 
 AMÉMÉ, ATARANGI, Alok
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselnz/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dieselnz/)*

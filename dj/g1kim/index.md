@@ -1,6 +1,6 @@
 # G1KIM
 
-G1KIM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+G1KIM is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 G1KIM is a house and techno artist, with 8 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside Adroit Joe, A K and AY. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ G1KIM is a house and techno artist, with 8 gigs on soundcheck across Seoul, Sout
 
 Adroit Joe, A K, AY (10)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g1kim/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/g1kim/)*

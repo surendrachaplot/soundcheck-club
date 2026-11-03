@@ -1,6 +1,6 @@
 # Departs
 
-Departs is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Sat, 7 Nov 2026.
+Departs is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Sat, 7 Nov 2026.
 
 Departs is a tech house and house artist based in South Korea, with 69 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Davico, Sudowoo and Demuk. Next up: TBA - Grand Hyatt JJ Mahoney's, Seoul on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Departs is a tech house and house artist based in South Korea, with 69 gigs on s
 
 Davico, Sudowoo, Demuk
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/departs/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/departs/)*

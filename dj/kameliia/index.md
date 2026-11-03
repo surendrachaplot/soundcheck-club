@@ -1,13 +1,14 @@
 # Kameliia
 
-Kameliia is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Kameliia is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-Kameliia is a techno and house artist based in Norway, with 92 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 31 more. Often billed alongside Philippa Pacho, Setaoc Mass and Yanamaste. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
+Kameliia is a techno and house artist based in Norway, with 93 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 31 more. Often billed alongside Philippa Pacho, Setaoc Mass and Yanamaste. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Sat, 7 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | Post Bar | Helsinki |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
@@ -27,4 +28,4 @@ Kameliia is a techno and house artist based in Norway, with 92 gigs on soundchec
 
 Philippa Pacho, Setaoc Mass, Yanamaste
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kameliia/)*

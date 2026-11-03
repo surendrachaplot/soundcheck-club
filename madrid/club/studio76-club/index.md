@@ -1,6 +1,6 @@
 # Studio76 Club
 
-Studio76 Club is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "EN1GMACLUB 4 YEARS ANNIVERSARY" on Fri, 27 Nov 2026.
+Studio76 Club is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "EN1GMACLUB 4 YEARS ANNIVERSARY" on Fri, 27 Nov 2026.
 
 Studio76 Club is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Cerescente, Fgdj, FUKCNORMAL and Krahm and 2 more. See dates, start times and who's playing. Calle Cerámica, 76. Madrid, Spain.
 
@@ -16,4 +16,4 @@ Studio76 Club is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, 
 
 Calle Cerámica, 76. Madrid, Spain, Madrid
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/studio76-club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/studio76-club/)*

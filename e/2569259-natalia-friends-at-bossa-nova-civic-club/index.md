@@ -1,6 +1,6 @@
 # NATALIA & FRiENDS at Bossa Nova Civic Club
 
-NATALIA & FRiENDS at Bossa Nova Civic Club on Mon 30 Nov, New York City. 6 artists: Amen the Producer, BASSBEAR!!, BEYBLADE SHAWTY and BOJAQ and 2 more. Club. See the line-up on soundcheck.
+NATALIA & FRiENDS at Bossa Nova Civic Club on Mon 30 Nov, New York City. 6 artists: BASSBEAR!!, BEYBLADE SHAWTY, BOJAQ and DJ Freedem and 2 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,11 +10,11 @@ NATALIA & FRiENDS at Bossa Nova Civic Club on Mon 30 Nov, New York City. 6 artis
 
 ## Line-up
 
-- Amen the Producer
 - BASSBEAR!!
 - BEYBLADE SHAWTY
 - BOJAQ
 - DJ Freedem
+- DJHoliday
 - Syd (US)
 
 *Source: [soundcheck](https://soundcheck.club/e/2569259-natalia-friends-at-bossa-nova-civic-club/)*

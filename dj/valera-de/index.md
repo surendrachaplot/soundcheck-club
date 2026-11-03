@@ -1,6 +1,6 @@
 # valera
 
-valera is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 6 Nov 2026.
+valera is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bahnwärter Thiel, Munich on Fri, 6 Nov 2026.
 
 valera is a trance and house artist based in Germany, with 3 gigs on soundcheck across Amsterdam, Berlin and Munich. Often billed alongside JERRO, DIGGADENZ and E.T.. Next up: Bahnwärter Thiel, Munich on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ valera is a trance and house artist based in Germany, with 3 gigs on soundcheck 
 
 JERRO, DIGGADENZ, E.T.
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valera-de/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valera-de/)*

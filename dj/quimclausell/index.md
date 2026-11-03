@@ -1,6 +1,6 @@
 # Quim Clausell
 
-Quim Clausell is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at feedbk, New York City on Sun, 8 Nov 2026.
+Quim Clausell is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at feedbk, New York City on Sun, 8 Nov 2026.
 
 Quim Clausell is a house and electro artist based in Spain, with 66 gigs on soundcheck across Barcelona, Berlin and New York City. Often billed alongside Bruno (DO), Alba Posas and Adria (ES). Next up: feedbk, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Quim Clausell is a house and electro artist based in Spain, with 66 gigs on soun
 
 Bruno (DO), Alba Posas, Adria (ES)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quimclausell/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quimclausell/)*

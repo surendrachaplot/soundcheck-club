@@ -1,6 +1,6 @@
 # Hypershe
 
-Hypershe is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ouseburn Garden, Newcastle on Sat, 7 Nov 2026.
+Hypershe is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ouseburn Garden, Newcastle on Sat, 7 Nov 2026.
 
 Hypershe is a jungle and hardcore artist based in United Kingdom, with 19 gigs on soundcheck across Brighton, Bristol, Gothenburg and Hong Kong and 3 more. Often billed alongside Origin8a & Propa, DJ Hybrid and Pete Cannon. Next up: Ouseburn Garden, Newcastle on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hypershe is a jungle and hardcore artist based in United Kingdom, with 19 gigs o
 
 Origin8a & Propa, DJ Hybrid, Pete Cannon
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypershe/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypershe/)*

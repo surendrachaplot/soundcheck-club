@@ -1,6 +1,6 @@
 # July (1)
 
-July (1) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Daikanyama ORD., Tokyo on Wed, 25 Nov 2026.
+July (1) is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Daikanyama ORD., Tokyo on Wed, 25 Nov 2026.
 
 July is a house and electronica artist based in Germany, with 47 gigs on soundcheck across Berlin, Bordeaux, Seoul and Tokyo and 1 more. Often billed alongside range vak, Hyungmin and Bolm. Next up: Daikanyama ORD., Tokyo on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ July is a house and electronica artist based in Germany, with 47 gigs on soundch
 
 range vak, Hyungmin, Bolm
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/july-1/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/july-1/)*

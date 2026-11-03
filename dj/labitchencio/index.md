@@ -1,6 +1,6 @@
 # LA BITCHENCIO
 
-LA BITCHENCIO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Sat, 7 Nov 2026.
+LA BITCHENCIO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sensorium, Berlin on Sat, 7 Nov 2026.
 
 LA BITCHENCIO is a techno and house artist based in Chile, with 11 gigs on soundcheck across Berlin. Often billed alongside Ankit, Anne-Sophie Selig and DJ Paradox. Next up: Sensorium, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ LA BITCHENCIO is a techno and house artist based in Chile, with 11 gigs on sound
 
 Ankit, Anne-Sophie Selig, DJ Paradox
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labitchencio/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labitchencio/)*

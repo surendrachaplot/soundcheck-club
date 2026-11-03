@@ -1,6 +1,6 @@
 # Arellano
 
-Arellano is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Oven Club, Valencia on Sat, 7 Nov 2026.
+Arellano is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Oven Club, Valencia on Sat, 7 Nov 2026.
 
 Arellano is a house and electronica artist based in Chile, with 7 gigs on soundcheck across Mexico City, Tbilisi and Valencia. Often billed alongside The Cap Boy, Gomms and Cross. Next up: Oven Club, Valencia on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Arellano is a house and electronica artist based in Chile, with 7 gigs on soundc
 
 The Cap Boy, Gomms, Cross
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arellano/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arellano/)*

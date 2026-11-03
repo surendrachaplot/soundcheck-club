@@ -1,6 +1,6 @@
 # Decibel Flekx
 
-Decibel Flekx is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 16 Dec 2026.
+Decibel Flekx is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 16 Dec 2026.
 
 Decibel Flekx is a techno and acid artist, with 7 gigs on soundcheck across Detroit and New York City. Often billed alongside Destro187, Decibel and SPEEDŸ. Next up: Bossa Nova Civic Club, New York City on Wed 16 Dec.
 
@@ -23,4 +23,4 @@ Decibel Flekx is a techno and acid artist, with 7 gigs on soundcheck across Detr
 
 Destro187, Decibel, SPEEDŸ
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decibelflekx/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decibelflekx/)*

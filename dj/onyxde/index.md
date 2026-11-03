@@ -1,6 +1,6 @@
 # ONYX (DE)
 
-ONYX (DE) is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
+ONYX (DE) is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Black Scorpion Music بلک اسکورپیون موزیک, The-hague on Tue, 1 Aug 2028.
 
 ONYX (DE) is a house artist, with 3 gigs on soundcheck across Berlin, Shanghai and The Hague. Often billed alongside Artificial DNA, BIDOBEN and Composer. Next up: TBA - Black Scorpion Music بلک اسکورپیون موزیک, The Hague on Tue 1 Aug.
 
@@ -19,4 +19,4 @@ ONYX (DE) is a house artist, with 3 gigs on soundcheck across Berlin, Shanghai a
 
 Artificial DNA, BIDOBEN, Composer
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onyxde/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onyxde/)*

@@ -1,6 +1,6 @@
 # Camo & Krooked
 
-Camo & Krooked is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at La Riviera, Madrid on Sat, 5 Dec 2026.
+Camo & Krooked is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Riviera, Madrid on Sat, 5 Dec 2026.
 
 Camo & Krooked are a drum & bass and jungle duo based in Austria, with 87 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 38 more. Often billed alongside Mefjus, Kanine and Disrupta. Next up: La Riviera, Madrid on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Camo & Krooked are a drum & bass and jungle duo based in Austria, with 87 gigs o
 
 Mefjus, Kanine, Disrupta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camokrooked/)*

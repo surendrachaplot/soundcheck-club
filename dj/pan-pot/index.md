@@ -1,14 +1,13 @@
 # Pan-Pot
 
-Pan-Pot is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Sun, 1 Nov 2026.
+Pan-Pot is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Entrepotgebouw, Netherlands on Sat, 14 Nov 2026.
 
-Pan-Pot is a techno and house artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 76 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Silo Dallas, Dallas/Fort Worth on Sun 1 Nov.
+Pan-Pot is a techno and house artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 76 more. Often billed alongside Adam Beyer, Anfisa Letyago and Enrico Sangiuliano. Next up: Entrepotgebouw, Netherlands on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | Silo Dallas | Dallas/Fort Worth |
 | Sat, 14 Nov 2026 | Entrepotgebouw | Netherlands |
 | Fri, 20 Nov 2026 | Smolna | Warsaw |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
@@ -30,4 +29,4 @@ Pan-Pot is a techno and house artist based in Germany, with 219 gigs on soundche
 
 Adam Beyer, Anfisa Letyago, Enrico Sangiuliano
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pan-pot/)*

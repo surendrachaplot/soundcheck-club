@@ -1,6 +1,6 @@
 # Babour Sauvage
 
-Babour Sauvage is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Augure sur Seine - 1 an" on Fri, 6 Nov 2026.
+Babour Sauvage is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Augure sur Seine - 1 an" on Fri, 6 Nov 2026.
 
 Babour Sauvage is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Any Yugël, ARKID, Daymount and Fawzi Adjan and 2 more. See dates, start times and who's playing. 59 Bd Macdonald, 75019 Paris.
 
@@ -17,4 +17,4 @@ Babour Sauvage is a music venue in Paris listed on soundcheck. 4 upcoming gigs, 
 
 59 Bd Macdonald, 75019 Paris, Paris
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/babour-sauvage/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/babour-sauvage/)*

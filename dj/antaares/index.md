@@ -1,6 +1,6 @@
 # Antaares
 
-Antaares is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu, 5 Nov 2026.
+Antaares is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu, 5 Nov 2026.
 
 Antaares is a downtempo and techno artist based in Mexico, with 31 gigs on soundcheck across Auckland, Barcelona, Basel and Berlin and 9 more. Often billed alongside bawab, Alacrán del Amor and Cedro. Next up: TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Antaares is a downtempo and techno artist based in Mexico, with 31 gigs on sound
 
 bawab, Alacrán del Amor, Cedro
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antaares/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antaares/)*

@@ -1,6 +1,6 @@
 # erroneous
 
-erroneous is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Z in Zimmermans, Cologne on Sat, 7 Nov 2026.
+erroneous is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Z in Zimmermans, Cologne on Sat, 7 Nov 2026.
 
 erroneous is a tech house and deep house artist based in United Kingdom, with 29 gigs on soundcheck across Cologne and London. Often billed alongside Diana Loredana, Thomas Galbardi and Duwat?. Next up: Club Z in Zimmermans, Cologne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ erroneous is a tech house and deep house artist based in United Kingdom, with 29
 
 Diana Loredana, Thomas Galbardi, Duwat?
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erroneous/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erroneous/)*

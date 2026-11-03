@@ -1,6 +1,6 @@
 # Ron Mist
 
-Ron Mist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Club Pittsburgh, Pittsburgh on Fri, 6 Nov 2026.
+Ron Mist is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Pittsburgh, Pittsburgh on Fri, 6 Nov 2026.
 
 Ron Mist is a techno and house artist based in United States of America, with 33 gigs on soundcheck across Detroit, New York City and Pittsburgh. Often billed alongside Lemonline, DJ I.V. and DJ Seoul. Next up: Club Pittsburgh, Pittsburgh on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ron Mist is a techno and house artist based in United States of America, with 33
 
 Lemonline, DJ I.V., DJ Seoul
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmist/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmist/)*

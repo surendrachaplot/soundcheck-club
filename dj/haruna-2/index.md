@@ -1,6 +1,6 @@
 # HARUNA (2)
 
-HARUNA (2) is a Afro House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Ippen, Tokyo on Wed, 4 Nov 2026.
+HARUNA (2) is a Afro House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Ippen, Tokyo on Wed, 4 Nov 2026.
 
 HARUNA is an afro house and amapiano artist, with 35 gigs on soundcheck across Amsterdam, Barcelona, London and Paris and 2 more. Often billed alongside ZEE-2, JVINCENT and Sham Steele. Next up: Ippen, Tokyo on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ HARUNA is an afro house and amapiano artist, with 35 gigs on soundcheck across A
 
 ZEE-2, JVINCENT, Sham Steele
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*

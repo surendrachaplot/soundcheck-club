@@ -1,6 +1,6 @@
 # eshot (DE)
 
-eshot (DE) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Wed, 4 Nov 2026.
+eshot (DE) is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fabrique im Gängeviertel, Hamburg on Wed, 4 Nov 2026.
 
 eshot (DE) is a techno and drum & bass artist based in Germany, with 5 gigs on soundcheck across Berlin and Hamburg. Often billed alongside GOOSINDRA, Adri Alibi and Ahni. Next up: Fabrique im Gängeviertel, Hamburg on Wed 4 Nov.
 
@@ -21,4 +21,4 @@ eshot (DE) is a techno and drum & bass artist based in Germany, with 5 gigs on s
 
 GOOSINDRA, Adri Alibi, Ahni
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eshot-de/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eshot-de/)*

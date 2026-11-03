@@ -1,6 +1,6 @@
 # Rafael Cerato
 
-Rafael Cerato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Future Nightlife, Toronto on Fri, 4 Dec 2026.
+Rafael Cerato is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Future Nightlife, Toronto on Fri, 4 Dec 2026.
 
 Rafael Cerato is a techno and house artist based in United Kingdom, with 81 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 42 more. Often billed alongside Einmusik, VALOUR and Ashkan Dian. Next up: Future Nightlife, Toronto on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Rafael Cerato is a techno and house artist based in United Kingdom, with 81 gigs
 
 Einmusik, VALOUR, Ashkan Dian
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*

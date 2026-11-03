@@ -1,6 +1,6 @@
 # Echo/Dawn
 
-Echo/Dawn is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at B21, Brussels on Fri, 13 Nov 2026.
+Echo/Dawn is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at B21, Brussels on Fri, 13 Nov 2026.
 
 Echo/Dawn is a techno and experimental artist based in Belgium, with 6 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Fake Moss, elsa winner and 1morning. Next up: B21, Brussels on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Echo/Dawn is a techno and experimental artist based in Belgium, with 6 gigs on s
 
 Fake Moss, elsa winner, 1morning
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echodawn/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echodawn/)*

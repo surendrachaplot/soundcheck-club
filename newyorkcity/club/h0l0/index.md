@@ -1,6 +1,6 @@
 # H0L0
 
-H0L0 is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "eianne esau's FUCKINGLOVELY NO.8 " on Thu, 5 Nov 2026.
+H0L0 is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "eianne esau's FUCKINGLOVELY NO.8 " on Thu, 5 Nov 2026.
 
 H0L0 is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Armii1n, Bea Trinidad, CAMILLA and Clarisa Kimskii and 2 more. See dates, start times and who's playing. 1090 Wyckoff Ave, Queens, NY 11385, United States.
 
@@ -23,4 +23,4 @@ H0L0 is a music venue in New York City listed on soundcheck. 11 upcoming gigs, w
 
 1090 Wyckoff Ave, Queens, NY 11385, United States, New York City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/h0l0/)*

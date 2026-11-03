@@ -1,6 +1,6 @@
 # Kontravoid
 
-Kontravoid is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Cassiopeia, Berlin on Thu, 10 Dec 2026.
+Kontravoid is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cassiopeia, Berlin on Thu, 10 Dec 2026.
 
 Kontravoid is an ebm and industrial artist based in Canada, with 45 gigs on soundcheck across Austin, Baltimore, Berlin and Bogotá and 24 more. Often billed alongside Kris Baha, Andi and Semantix. Next up: Cassiopeia, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Kontravoid is an ebm and industrial artist based in Canada, with 45 gigs on soun
 
 Kris Baha, Andi, Semantix
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kontravoid/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kontravoid/)*

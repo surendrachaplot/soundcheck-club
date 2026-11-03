@@ -1,6 +1,6 @@
 # Bubs Baker
 
-Bubs Baker is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Secret Location, London on Fri, 18 Dec 2026.
+Bubs Baker is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Secret Location, London on Fri, 18 Dec 2026.
 
 Bubs Baker is a deep house and techno artist, with 3 gigs on soundcheck across Leeds and London. Often billed alongside Benny Bysouth, Joe Webb and Josh Keit. Next up: Secret Location, London on Fri 18 Dec.
 
@@ -19,4 +19,4 @@ Bubs Baker is a deep house and techno artist, with 3 gigs on soundcheck across L
 
 Benny Bysouth, Joe Webb, Josh Keit
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bubsbaker/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bubsbaker/)*

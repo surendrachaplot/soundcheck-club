@@ -1,6 +1,6 @@
 # Bruder Jakob (2)
 
-Bruder Jakob (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
+Bruder Jakob (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ://about blank, Berlin on Fri, 6 Nov 2026.
 
 Bruder Jakob is a techno and house artist, with 2 gigs on soundcheck across Berlin and Leipzig. Often billed alongside 50PHIE, Acid Managment and Christian Kluge. Next up: ://about blank, Berlin on Fri 6 Nov.
 
@@ -18,4 +18,4 @@ Bruder Jakob is a techno and house artist, with 2 gigs on soundcheck across Berl
 
 50PHIE, Acid Managment, Christian Kluge
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruderjakob-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruderjakob-2/)*

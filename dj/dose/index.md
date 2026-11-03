@@ -1,6 +1,6 @@
 # Dose
 
-Dose is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
+Dose is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Royal Caribbean Cruise Ship, Miami on Thu, 21 Jan 2027.
 
 Dose is a techno and tech house artist based in United Kingdom, with 3 gigs on soundcheck across Berlin, Miami and Tampa Bay. Often billed alongside Doc Brown, AMPRS&ND and Adam Beyer. Next up: Royal Caribbean Cruise Ship, Miami on Thu 21 Jan.
 
@@ -19,4 +19,4 @@ Dose is a techno and tech house artist based in United Kingdom, with 3 gigs on s
 
 Doc Brown, AMPRS&ND, Adam Beyer
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dose/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dose/)*

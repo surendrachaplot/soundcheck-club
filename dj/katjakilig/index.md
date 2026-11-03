@@ -1,6 +1,6 @@
 # Katja Kilig
 
-Katja Kilig is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Sensorium, Berlin on Wed, 4 Nov 2026.
+Katja Kilig is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sensorium, Berlin on Wed, 4 Nov 2026.
 
 Katja Kilig is a techno and tech house artist based in Germany, with 19 gigs on soundcheck across Berlin. Often billed alongside CosmiKat, Der Eggert and Diana May. Next up: Sensorium, Berlin on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Katja Kilig is a techno and tech house artist based in Germany, with 19 gigs on 
 
 CosmiKat, Der Eggert, Diana May
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katjakilig/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katjakilig/)*

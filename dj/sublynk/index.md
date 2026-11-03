@@ -1,6 +1,6 @@
 # Sublynk
 
-Sublynk is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - BOOM, Leeds on Fri, 6 Nov 2026.
+Sublynk is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - BOOM, Leeds on Fri, 6 Nov 2026.
 
 Sublynk is a garage and drum & bass artist, with 3 gigs on soundcheck across Leeds. Often billed alongside Ayurasound, Stringer Low and Bo Mantle. Next up: TBA - BOOM, Leeds on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Sublynk is a garage and drum & bass artist, with 3 gigs on soundcheck across Lee
 
 Ayurasound, Stringer Low, Bo Mantle
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sublynk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sublynk/)*

@@ -1,6 +1,6 @@
 # Bekks
 
-Bekks is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Section 8, Melbourne on Thu, 5 Nov 2026.
+Bekks is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Section 8, Melbourne on Thu, 5 Nov 2026.
 
 Bekks is a garage and house artist, with 3 gigs on soundcheck across Melbourne. Often billed alongside 77DGRZ, CHEEKI and Callaghan. Next up: Section 8, Melbourne on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ Bekks is a garage and house artist, with 3 gigs on soundcheck across Melbourne. 
 
 77DGRZ, CHEEKI, Callaghan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bekks/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bekks/)*

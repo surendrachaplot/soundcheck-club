@@ -1,6 +1,6 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 32 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Studio Stereo x Tecnini pres. Stefano Andriezzi" on Thu, 5 Nov 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 32 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Studio Stereo x Tecnini pres. Stefano Andriezzi" on Thu, 5 Nov 2026.
 
 TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 32 upcoming gigs, with line-ups including .cosm, Alex Garcia, B2G and Balou and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Sat, 21 Nov 2026 | Studio Stereo TBA |  |
 | Thu, 26 Nov 2026 | Studio Stereo TBA |  |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

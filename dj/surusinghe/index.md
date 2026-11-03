@@ -1,6 +1,6 @@
 # Surusinghe
 
-Surusinghe is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
+Surusinghe is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
 Surusinghe is a techno and bass artist based in United Kingdom, with 156 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 48 more. Often billed alongside Blawan, Moktar and Conducta. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Surusinghe is a techno and bass artist based in United Kingdom, with 156 gigs on
 
 Blawan, Moktar, Conducta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surusinghe/)*

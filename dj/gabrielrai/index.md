@@ -1,6 +1,6 @@
 # Gabriel Rai
 
-Gabriel Rai is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mitsuki, Tokyo on Wed, 4 Nov 2026.
+Gabriel Rai is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mitsuki, Tokyo on Wed, 4 Nov 2026.
 
 Gabriel Rai is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Bangkok, Berlin, Ibiza and Leeds and 7 more. Often billed alongside Craig Richards, Olita (UK) and Bobby.. Next up: Mitsuki, Tokyo on Wed 4 Nov.
 
@@ -29,4 +29,4 @@ Gabriel Rai is a house and techno artist based in United Kingdom, with 40 gigs o
 
 Craig Richards, Olita (UK), Bobby.
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielrai/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrielrai/)*

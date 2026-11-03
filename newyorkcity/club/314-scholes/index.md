@@ -1,6 +1,6 @@
 # 314 Scholes
 
-314 Scholes is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "The Do-Over: 20 Year Anniversary" on Fri, 6 Nov 2026.
+314 Scholes is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "The Do-Over: 20 Year Anniversary" on Fri, 6 Nov 2026.
 
 314 Scholes is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including 1morning, 1OO1O, JAEL and Modeselektor and 2 more. See dates, start times and who's playing. 314 Scholes St Brooklyn, NY 11206.
 
@@ -18,4 +18,4 @@
 
 314 Scholes St Brooklyn, NY 11206, New York City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/314-scholes/)*

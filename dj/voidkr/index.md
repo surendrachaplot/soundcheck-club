@@ -1,6 +1,6 @@
 # VOID (KR)
 
-VOID (KR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+VOID (KR) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 VOID (KR) is a techno and house artist based in South Korea, with 43 gigs on soundcheck across Berlin, Ibiza, Seoul and Tokyo. Often billed alongside HASLA, R.I.M and Kim.Qna. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ VOID (KR) is a techno and house artist based in South Korea, with 43 gigs on sou
 
 HASLA, R.I.M, Kim.Qna
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voidkr/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voidkr/)*

@@ -1,6 +1,6 @@
 # alize dj
 
-alize dj is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lot 2, 71–73 Brisbane Street, Hobart on Sat, 5 Dec 2026.
+alize dj is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lot 2, 71–73 Brisbane Street, Hobart on Sat, 5 Dec 2026.
 
 alize dj is a house and downtempo artist, with 5 gigs on soundcheck across Hobart and Melbourne. Often billed alongside Coops, holly.etc and Bronze Savage. Next up: Lot 2, 71–73 Brisbane Street, Hobart on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ alize dj is a house and downtempo artist, with 5 gigs on soundcheck across Hobar
 
 Coops, holly.etc, Bronze Savage
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alizedj/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alizedj/)*

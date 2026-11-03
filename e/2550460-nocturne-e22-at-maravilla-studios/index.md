@@ -1,6 +1,6 @@
 # NOCTURNE E22 at Maravilla Studios
 
-NOCTURNE E22 at Maravilla Studios on Fri 6 Nov, Mexico City. 10 artists: Alif Hilal, Crystallmess, Dasha Rush and Jump Source and 6 more. Techno and Experimental. See the line-up on soundcheck.
+NOCTURNE E22 at Maravilla Studios on Fri 6 Nov, Mexico City. 11 artists: Alif Hilal, Crystallmess, Dasha Rush and Jump Source and 7 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ NOCTURNE E22 at Maravilla Studios on Fri 6 Nov, Mexico City. 10 artists: Alif Hi
 - Jump Source
 - Kelly Moran
 - Lorenzo Senni
+- Mensik
 - Myriam Bleau
 - Niño Arbol
 - OK EG

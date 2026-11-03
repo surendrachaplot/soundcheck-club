@@ -1,6 +1,6 @@
 # Laura Garrido
 
-Laura Garrido is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, London on Thu, 5 Nov 2026.
+Laura Garrido is a Minimal and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, London on Thu, 5 Nov 2026.
 
 Laura Garrido is a minimal and electronica artist based in Germany, with 4 gigs on soundcheck across Berlin, Dublin and London. Often billed alongside Losoul, 0dysseus and Alexander Skancke. Next up: TBA, London on Thu 5 Nov.
 
@@ -20,4 +20,4 @@ Laura Garrido is a minimal and electronica artist based in Germany, with 4 gigs 
 
 Losoul, 0dysseus, Alexander Skancke
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauragarrido/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauragarrido/)*

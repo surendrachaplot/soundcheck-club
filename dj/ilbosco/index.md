@@ -1,6 +1,6 @@
 # Il Bosco
 
-Il Bosco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
+Il Bosco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 28 Nov 2026.
 
 Il Bosco is a house and disco artist based in United Kingdom, with 48 gigs on soundcheck across Berlin, Bristol, Hamburg and Ibiza and 3 more. Often billed alongside Pharaoh Brunson, Kickin Pigeon and DJ Absolutely Shit. Next up: Honey Street Studio, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Il Bosco is a house and disco artist based in United Kingdom, with 48 gigs on so
 
 Pharaoh Brunson, Kickin Pigeon, DJ Absolutely Shit
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbosco/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilbosco/)*

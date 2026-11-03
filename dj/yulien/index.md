@@ -1,6 +1,6 @@
 # Yuliën
 
-Yuliën is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Madrid on Sat, 14 Nov 2026.
+Yuliën is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Madrid on Sat, 14 Nov 2026.
 
 Yuliën is a techno and electronica artist based in Spain, with 3 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Anxiety for Living, Cynth and Hector MAD. Next up: TBA, Madrid on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Yuliën is a techno and electronica artist based in Spain, with 3 gigs on soundc
 
 Anxiety for Living, Cynth, Hector MAD
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yulien/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yulien/)*

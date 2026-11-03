@@ -1,14 +1,15 @@
 # Mystral
 
-Mystral is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 5 Nov 2026.
+Mystral is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 5 Nov 2026.
 
-Mystral is a techno and house artist based in Spain, with 7 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Valody, Akua and Andy Garvey. Next up: Les Enfants Brillants, Barcelona on Thu 5 Nov.
+Mystral is a techno and house artist based in Spain, with 8 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid. Often billed alongside Valody, Kameliia and Makam. Next up: Les Enfants Brillants, Barcelona on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Les Enfants Brillants | Barcelona |
+| Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Fri, 4 Dec 2026 | Renate | Berlin |
 | Fri, 18 Dec 2026 | RADION | Amsterdam |
 
@@ -21,6 +22,6 @@ Mystral is a techno and house artist based in Spain, with 7 gigs on soundcheck a
 
 ## Shares bills with
 
-Valody, Akua, Andy Garvey
+Valody, Kameliia, Makam
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mystral/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mystral/)*

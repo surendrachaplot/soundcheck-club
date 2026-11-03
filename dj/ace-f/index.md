@@ -1,6 +1,6 @@
 # ACE-F
 
-ACE-F is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Blue Room, Montreal on Sat, 7 Nov 2026.
+ACE-F is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Blue Room, Montreal on Sat, 7 Nov 2026.
 
 ACE-F is a house and minimal artist based in Morocco, with 3 gigs on soundcheck across Montreal. Often billed alongside Elyēs, Mechanic (CA) and Badgalquirit. Next up: Blue Room, Montreal on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ ACE-F is a house and minimal artist based in Morocco, with 3 gigs on soundcheck 
 
 Elyēs (2), Mechanic (CA), Badgalquirit
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ace-f/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ace-f/)*

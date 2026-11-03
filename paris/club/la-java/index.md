@@ -1,6 +1,6 @@
 # La Java
 
-La Java is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Only Fire, Kennymphe, Divine Van Herpen: La Gomorrhée 2 Ans" on Fri, 6 Nov 2026.
+La Java is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Only Fire, Kennymphe, Divine Van Herpen: La Gomorrhée 2 Ans" on Fri, 6 Nov 2026.
 
 La Java is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Alhena_, Audem, Baron Von Trax and CASSIOPÉE and 2 more. See dates, start times and who's playing. 105 rue du faubourg du Temple; 75010; Paris; France.
 
@@ -22,4 +22,4 @@ La Java is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with li
 
 105 rue du faubourg du Temple; 75010; Paris; France, Paris
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-java/)*

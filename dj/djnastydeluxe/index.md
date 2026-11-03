@@ -1,6 +1,6 @@
 # DJ Nasty Deluxe
 
-DJ Nasty Deluxe is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Liquid Club, Malta on Fri, 4 Dec 2026.
+DJ Nasty Deluxe is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Liquid Club, Malta on Fri, 4 Dec 2026.
 
 DJ Nasty Deluxe is a techno and minimal techno artist, with 3 gigs on soundcheck across Malta. Often billed alongside Philip Ackowsky, Bigstate and DJ SIN. Next up: Liquid Club, Malta on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ DJ Nasty Deluxe is a techno and minimal techno artist, with 3 gigs on soundcheck
 
 Philip Ackowsky, Bigstate, DJ SIN
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnastydeluxe/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnastydeluxe/)*

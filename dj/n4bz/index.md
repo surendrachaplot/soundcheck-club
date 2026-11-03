@@ -1,6 +1,6 @@
 # n4bz
 
-n4bz is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+n4bz is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 n4bz is an electronic artist based in Morocco, with 3 gigs on soundcheck across Central, Morocco and Tunisia. Often billed alongside DJ Senc, Daox and ANOTR. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -19,4 +19,4 @@ n4bz is an electronic artist based in Morocco, with 3 gigs on soundcheck across 
 
 DJ Senc, Daox, ANOTR
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4bz/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n4bz/)*

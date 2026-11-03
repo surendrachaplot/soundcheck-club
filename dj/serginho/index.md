@@ -1,6 +1,6 @@
 # Serginho
 
-Serginho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Lottus, Porto on Sun, 8 Nov 2026.
+Serginho is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lottus, Porto on Sun, 8 Nov 2026.
 
 Serginho is a house and techno artist based in Portugal, with 46 gigs on soundcheck across Lisbon and Porto. Often billed alongside OSTINATO, Da Ni and Let. Next up: Lottus, Porto on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Serginho is a house and techno artist based in Portugal, with 46 gigs on soundch
 
 OSTINATO, Da Ni, Let (3)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serginho/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serginho/)*

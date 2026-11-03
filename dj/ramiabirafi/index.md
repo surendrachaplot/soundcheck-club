@@ -1,6 +1,6 @@
 # Rami Abi Rafi
 
-Rami Abi Rafi is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at FOLD, London on Thu, 12 Nov 2026.
+Rami Abi Rafi is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at FOLD, London on Thu, 12 Nov 2026.
 
 Rami Abi Rafi is an experimental and techno artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, London and Rotterdam. Often billed alongside Chloe Lula, Harp-a and Justine Perry. Next up: FOLD, London on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Rami Abi Rafi is an experimental and techno artist based in United Kingdom, with
 
 Chloe Lula (3), Harp-a, Justine Perry
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiabirafi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramiabirafi/)*

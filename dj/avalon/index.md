@@ -1,6 +1,6 @@
 # AVALON
 
-AVALON is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Shelter, Seoul on Fri, 6 Nov 2026.
+AVALON is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Shelter, Seoul on Fri, 6 Nov 2026.
 
 AVALON is a techno and electro artist based in South Korea, with 108 gigs on soundcheck across Antwerp, Berlin, Copenhagen and Freiburg and 10 more. Often billed alongside Honn, MOVIN.KR and X2C. Next up: Shelter, Seoul on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ AVALON is a techno and electro artist based in South Korea, with 108 gigs on sou
 
 Honn, MOVIN.KR, X2C (1)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalon/)*

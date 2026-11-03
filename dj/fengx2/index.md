@@ -1,6 +1,6 @@
 # FENGX2
 
-FENGX2 is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Blvck Water, Osaka on Fri, 6 Nov 2026.
+FENGX2 is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Blvck Water, Osaka on Fri, 6 Nov 2026.
 
 FENGX2 is a techno and house artist based in Japan, with 232 gigs on soundcheck across Hong Kong, Osaka, Seoul and Tokyo. Often billed alongside ZAGUN, _goodbyeforever_ and LIZA. Next up: Blvck Water, Osaka on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ FENGX2 is a techno and house artist based in Japan, with 232 gigs on soundcheck 
 
 ZAGUN, _goodbyeforever_, LIZA (6)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fengx2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fengx2/)*

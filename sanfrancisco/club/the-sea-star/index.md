@@ -1,6 +1,6 @@
 # The Sea Star
 
-The Sea Star is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "House Music Thursday" on Thu, 5 Nov 2026.
+The Sea Star is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "House Music Thursday" on Thu, 5 Nov 2026.
 
 The Sea Star is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ The Sea Star is a music venue in San Francisco/Oakland listed on soundcheck. 3 u
 | Thu, 12 Nov 2026 | House Music Thursday |  |
 | Thu, 19 Nov 2026 | House Music Thursday |  |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-sea-star/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-sea-star/)*

@@ -1,6 +1,6 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Basement Eindhoven, Eindhoven on Sat, 7 Nov 2026.
+Mac Declos is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Basement Eindhoven, Eindhoven on Sat, 7 Nov 2026.
 
 Mac Declos is a techno and house artist based in France, with 225 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 64 more. Often billed alongside Anetha, Lacchesi and Chlär. Next up: The Basement Eindhoven, Eindhoven on Sat 7 Nov.
 
@@ -34,4 +34,4 @@ Mac Declos is a techno and house artist based in France, with 225 gigs on soundc
 
 Anetha, Lacchesi, Chlär
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macdeclos/)*

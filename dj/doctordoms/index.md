@@ -1,6 +1,6 @@
 # doctor doms
 
-doctor doms is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
+doctor doms is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Promenaden Eck, Berlin on Thu, 12 Nov 2026.
 
 doctor doms is a techno and trance artist based in Germany, with 71 gigs on soundcheck across Berlin and Marseille. Often billed alongside Rudy Zigliara, OM (COL) and VO227. Next up: Promenaden Eck, Berlin on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ doctor doms is a techno and trance artist based in Germany, with 71 gigs on soun
 
 Rudy Zigliara, OM (COL), VO227
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doctordoms/)*

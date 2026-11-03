@@ -1,6 +1,6 @@
 # JCB (UK)
 
-JCB (UK) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fivefourstudios, Manchester on Fri, 13 Nov 2026.
+JCB (UK) is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fivefourstudios, Manchester on Fri, 13 Nov 2026.
 
 JCB (UK) is a house and garage artist based in United Kingdom, with 3 gigs on soundcheck across Manchester. Often billed alongside Coyle, Golden Syrup and Willsy. Next up: Fivefourstudios, Manchester on Fri 13 Nov.
 
@@ -19,4 +19,4 @@ JCB (UK) is a house and garage artist based in United Kingdom, with 3 gigs on so
 
 Coyle, Golden Syrup, Willsy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jcbuk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jcbuk/)*

@@ -1,6 +1,6 @@
 # Friction
 
-Friction is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at WOMB, Tokyo on Fri, 6 Nov 2026.
+Friction is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at WOMB, Tokyo on Fri, 6 Nov 2026.
 
 Friction is a drum & bass and bass artist based in United Kingdom, with 90 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Berlin and 47 more. Often billed alongside Hybrid Minds, Linguistics and A Little Sound. Next up: WOMB, Tokyo on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Friction is a drum & bass and bass artist based in United Kingdom, with 90 gigs 
 
 Hybrid Minds, Linguistics, A Little Sound
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friction/)*

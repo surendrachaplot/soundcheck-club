@@ -1,6 +1,6 @@
 # xupid
 
-xupid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+xupid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 xupid is a techno and house artist, with 17 gigs on soundcheck across Berlin. Often billed alongside JD Typo, Lyo. and eric.a. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ xupid is a techno and house artist, with 17 gigs on soundcheck across Berlin. Of
 
 JD Typo, Lyo., eric.a
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xupid/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xupid/)*

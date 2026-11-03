@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Mousse T." on Thu, 5 Nov 2026.
+public records is a music venue in New York City with 24 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Mousse T., Matthias Heilbronn" on Thu, 5 Nov 2026.
 
 public records is a music venue in New York City listed on soundcheck. 24 upcoming gigs, with line-ups including 320, MORENXXX, Abby Echiverri and Afra and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -8,7 +8,7 @@ public records is a music venue in New York City listed on soundcheck. 24 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Mousse T. | Mousse T. |
+| Thu, 5 Nov 2026 | Mousse T., Matthias Heilbronn | Matthias Heilbronn, Mousse T. |
 | Fri, 6 Nov 2026 | Clone Records: Serge, Afra / Detroit In Effect, Ak-4ya / Louise Chen | Afra, Ak-4ya, Detroit In Effect, Louise Chen, Serge |
 | Sat, 7 Nov 2026 | Benji B, Cosmo / Louise Chen, Hidden Spheres / Francis Harris & Tal | Benji B, Cosmo (NY), Francis Harris, Hidden Spheres, Louise Chen |
 | Sun, 8 Nov 2026 | Tarka 3-Year Anniversary: ZAINAB, Bianca Maieli, Chaia, Zara Dekho b2b Dynoman, Rohana, + more | ARINI, Bergsonist, Bianca Maieli, Chaia, Dynoman, ZEEMUFFIN, Zara Dekho, jaag (US) |
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 24 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

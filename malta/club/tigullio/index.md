@@ -1,6 +1,6 @@
 # Tigullio
 
-Tigullio is a music venue in Malta with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SUDARY RAW" on Fri, 13 Nov 2026.
+Tigullio is a music venue in Malta with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SUDARY RAW" on Fri, 13 Nov 2026.
 
 Tigullio is a music venue in Malta listed on soundcheck. 3 upcoming gigs, with line-ups including Abdy, BOXFiSH, COZY VOID and LEM (IT) and 2 more. See dates, start times and who's playing. Spinola Bay, Stj1161 San Giljan.
 
@@ -16,4 +16,4 @@ Tigullio is a music venue in Malta listed on soundcheck. 3 upcoming gigs, with l
 
 Spinola Bay, Stj1161 San Giljan, Malta
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/tigullio/)*

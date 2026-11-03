@@ -1,6 +1,6 @@
 # Dublin Modular
 
-Dublin Modular is a Club and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at KIFF, Switzerland on Fri, 27 Nov 2026.
+Dublin Modular is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at KIFF, Switzerland on Fri, 27 Nov 2026.
 
 Dublin Modular is a club and house artist, with 4 gigs on soundcheck across Dublin, Switzerland and Zurich. Often billed alongside E The Artist, Queen Beatz and Rory Sweeney. Next up: KIFF, Switzerland on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Dublin Modular is a club and house artist, with 4 gigs on soundcheck across Dubl
 
 E The Artist, Queen Beatz, Rory Sweeney
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dublinmodular/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dublinmodular/)*

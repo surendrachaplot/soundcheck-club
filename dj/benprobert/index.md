@@ -1,6 +1,6 @@
 # Ben Probert
 
-Ben Probert is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Ben Probert is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
 Ben Probert is a house and minimal techno artist, with 7 gigs on soundcheck across Cape Town. Often billed alongside Deylin Universe, GALLAGHER. and Hypoestes. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
@@ -23,4 +23,4 @@ Ben Probert is a house and minimal techno artist, with 7 gigs on soundcheck acro
 
 Deylin Universe, GALLAGHER., Hypoestes
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benprobert/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benprobert/)*

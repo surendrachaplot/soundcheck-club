@@ -1,6 +1,6 @@
 # Amøn
 
-Amøn is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
+Amøn is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
 
 Amøn is a techno and trance artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 7 more. Often billed alongside KLING&KLANG, DETOXX and Fronsi. Next up: Indiego Glocksee, Hannover on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Amøn is a techno and trance artist based in Germany, with 109 gigs on soundchec
 
 KLING&KLANG, DETOXX, Fronsi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amon/)*

@@ -1,6 +1,6 @@
 # FOULMOUTH
 
-FOULMOUTH is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Bag Factory, Manchester on Fri, 6 Nov 2026.
+FOULMOUTH is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Bag Factory, Manchester on Fri, 6 Nov 2026.
 
 FOULMOUTH is a hardcore and gabber artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, Leeds, Liverpool and Manchester and 1 more. Often billed alongside FKA Hardcore, Anop and Princess Elf Bar. Next up: The Bag Factory, Manchester on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ FOULMOUTH is a hardcore and gabber artist based in United Kingdom, with 34 gigs 
 
 FKA Hardcore, Anop, Princess Elf Bar
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foulmouth/)*

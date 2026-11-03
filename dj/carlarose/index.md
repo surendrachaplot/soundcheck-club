@@ -1,6 +1,6 @@
 # Carla Rose
 
-Carla Rose is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Carla Rose is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Carla Rose is an electronic artist, with 2 gigs on soundcheck across Iceland and London. Often billed alongside Agzilla, Ali Love and Ash Lauryn. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -18,4 +18,4 @@ Carla Rose is an electronic artist, with 2 gigs on soundcheck across Iceland and
 
 Agzilla, Ali Love, Ash Lauryn
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlarose/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlarose/)*

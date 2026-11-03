@@ -1,6 +1,6 @@
 # Elena Colombi
 
-Elena Colombi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
+Elena Colombi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
 
 Elena Colombi is a techno and house artist based in Italy, with 154 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 54 more. Often billed alongside Lena Willikens, Amelia Holt and Sepehr. Next up: The White Hotel, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Elena Colombi is a techno and house artist based in Italy, with 154 gigs on soun
 
 Lena Willikens, Amelia Holt, Sepehr
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenacolombi/)*

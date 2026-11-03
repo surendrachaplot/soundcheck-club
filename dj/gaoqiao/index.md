@@ -1,6 +1,6 @@
 # GaoQiao
 
-GaoQiao is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at POTENT, Shanghai on Sat, 7 Nov 2026.
+GaoQiao is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at POTENT, Shanghai on Sat, 7 Nov 2026.
 
 GaoQiao is a techno and house artist based in China, with 112 gigs on soundcheck across Beijing, Shanghai and Shenzhen. Often billed alongside Max Shen, Jeff Chong and DJ EBP. Next up: POTENT, Shanghai on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ GaoQiao is a techno and house artist based in China, with 112 gigs on soundcheck
 
 Max Shen, Jeff Chong, DJ EBP
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaoqiao/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaoqiao/)*

@@ -1,6 +1,6 @@
 # shot by stanley
 
-shot by stanley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Wimborne St Giles, Dorset, South-east on Sat, 21 Nov 2026.
+shot by stanley is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Wimborne St Giles, Dorset, South-east on Sat, 21 Nov 2026.
 
 shot by stanley is a techno and house artist based in Colombia, with 19 gigs on soundcheck across Berlin, Chicago, Munich and South East and 2 more. Often billed alongside ALXJ, Pysh and Bombata. Next up: Wimborne St Giles, Dorset, South East on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ shot by stanley is a techno and house artist based in Colombia, with 19 gigs on 
 
 ALXJ, Pysh, Bombata
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shotbystanley/)*

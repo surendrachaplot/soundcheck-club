@@ -1,6 +1,6 @@
 # Random Spirit
 
-Random Spirit is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Secret Location (Address in Description), Amsterdam on Sat, 7 Nov 2026.
+Random Spirit is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location (Address in Description), Amsterdam on Sat, 7 Nov 2026.
 
 Random Spirit is a techno and dub artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam. Often billed alongside geri (NL), Andy Garvey and Basit Soomro. Next up: TBA - Secret Location (Address in Description), Amsterdam on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Random Spirit is a techno and dub artist based in Netherlands, with 6 gigs on so
 
 geri (NL), Andy Garvey, Basit Soomro
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomspirit/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomspirit/)*

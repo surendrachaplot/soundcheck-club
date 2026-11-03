@@ -1,6 +1,6 @@
 # Suonoteso
 
-Suonoteso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 7 Nov 2026.
+Suonoteso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 7 Nov 2026.
 
 Suonoteso is a techno and house artist based in Italy, with 15 gigs on soundcheck across Barcelona and North. Often billed alongside Thomas Kick, Bumpy Jones and Devesa. Next up: TBA - Tibidabo Area, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Suonoteso is a techno and house artist based in Italy, with 15 gigs on soundchec
 
 Thomas Kick (2), Bumpy Jones, Devesa
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suonoteso/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suonoteso/)*

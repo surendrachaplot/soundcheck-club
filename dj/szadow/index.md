@@ -1,6 +1,6 @@
 # szadow
 
-szadow is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Dom Technika, Poznan on Fri, 13 Nov 2026.
+szadow is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Dom Technika, Poznan on Fri, 13 Nov 2026.
 
 szadow is a techno and house artist based in Poland, with 4 gigs on soundcheck across Poznan and Warsaw. Often billed alongside Nightfall, Internal Observer and KOSAA. Next up: Dom Technika, Poznan on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ szadow is a techno and house artist based in Poland, with 4 gigs on soundcheck a
 
 Nightfall, Internal Observer, KOSAA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szadow/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szadow/)*

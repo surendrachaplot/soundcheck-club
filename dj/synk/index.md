@@ -1,6 +1,6 @@
 # S*Y*N*K
 
-S*Y*N*K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Now&Wow, Rotterdam on Sat, 14 Nov 2026.
+S*Y*N*K is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Now&Wow, Rotterdam on Sat, 14 Nov 2026.
 
 S*Y*N*K is a techno and industrial artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Budapest and 19 more. Often billed alongside VRODAK, Dres Codex and Frida Henson. Next up: Now&Wow, Rotterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ S*Y*N*K is a techno and industrial artist based in Germany, with 32 gigs on soun
 
 VRODAK, Dres Codex, Frida Henson
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synk/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synk/)*

@@ -1,6 +1,6 @@
 # MAH MOOD
 
-MAH MOOD is a Electronica and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at FLUCC, Vienna on Sat, 7 Nov 2026.
+MAH MOOD is a Electronica and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at FLUCC, Vienna on Sat, 7 Nov 2026.
 
 MAH MOOD is an electronica and funk / soul artist, with 3 gigs on soundcheck across Geneva, Lisbon and Vienna. Often billed alongside AZM, Kemetic and Rakans. Next up: FLUCC, Vienna on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ MAH MOOD is an electronica and funk / soul artist, with 3 gigs on soundcheck acr
 
 AZM (1), Kemetic, Rakans
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmood/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahmood/)*

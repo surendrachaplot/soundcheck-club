@@ -1,6 +1,6 @@
 # Djoon
 
-Djoon is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Chaos In The CBD presents: In Dust We Trust Tour" on Fri, 6 Nov 2026.
+Djoon is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Chaos In The CBD presents: In Dust We Trust Tour" on Fri, 6 Nov 2026.
 
 Djoon is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Adri, Chaos In The CBD, Eileen (NL) and Max Sinàl and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
@@ -19,4 +19,4 @@ Djoon is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line
 
 22 boulevard Vincent Auriol; 75013; Paris; France, Paris
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/djoon/)*

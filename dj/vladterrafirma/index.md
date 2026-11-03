@@ -1,6 +1,6 @@
 # VLAD (Terra Firma)
 
-VLAD (Terra Firma) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Thu, 31 Dec 2026.
+VLAD (Terra Firma) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Thu, 31 Dec 2026.
 
 VLAD (Terra Firma) is a techno and tech house artist based in United States of America, with 3 gigs on soundcheck across Melbourne and Washington DC. Often billed alongside Matteo Freyrie, AK SPORTS and Andrea Guadalupi. Next up: TBA - Il Mercato Centrale, Melbourne on Thu 31 Dec.
 
@@ -19,4 +19,4 @@ VLAD (Terra Firma) is a techno and tech house artist based in United States of A
 
 Matteo Freyrie, AK SPORTS, Andrea Guadalupi
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladterrafirma/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vladterrafirma/)*

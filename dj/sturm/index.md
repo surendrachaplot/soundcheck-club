@@ -1,6 +1,6 @@
 # STURM
 
-STURM is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
+STURM is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Skatehalle Berlin, Berlin on Fri, 6 Nov 2026.
 
 STURM is a techno artist based in Switzerland, with 4 gigs on soundcheck across Berlin. Often billed alongside Flohmarkt, MEKER and e.leptic. Next up: Skatehalle Berlin, Berlin on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ STURM is a techno artist based in Switzerland, with 4 gigs on soundcheck across 
 
 Flohmarkt, MEKER, e.leptic
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sturm/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sturm/)*

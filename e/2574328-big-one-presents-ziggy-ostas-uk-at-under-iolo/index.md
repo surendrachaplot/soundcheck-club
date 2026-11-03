@@ -1,6 +1,6 @@
 # BIG ONE presents: Ziggy Ostas (UK) at Under.Iolo
 
-BIG ONE presents: Ziggy Ostas (UK) at Under.Iolo on Sat 21 Nov, Warsaw. 3 artists: Caletti, kostkiewicz and Ziggy Ostas. House and Garage. See the line-up on soundcheck.
+BIG ONE presents: Ziggy Ostas (UK) at Under.Iolo on Sat 21 Nov, Warsaw. 4 artists: Caletti, kostkiewicz, OPEP and Ziggy Ostas. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ BIG ONE presents: Ziggy Ostas (UK) at Under.Iolo on Sat 21 Nov, Warsaw. 3 artist
 
 - Caletti
 - kostkiewicz
+- OPEP
 - Ziggy Ostas
 
 *Source: [soundcheck](https://soundcheck.club/e/2574328-big-one-presents-ziggy-ostas-uk-at-under-iolo/)*

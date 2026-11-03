@@ -1,6 +1,6 @@
 # Chris Wood
 
-Chris Wood is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pracht, Frankfurt on Fri, 6 Nov 2026.
+Chris Wood is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pracht, Frankfurt on Fri, 6 Nov 2026.
 
 Chris Wood is a house and tech house artist based in Germany, with 49 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside Boutiq.808, Chris Beulich and Meat. Next up: Pracht, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Chris Wood is a house and tech house artist based in Germany, with 49 gigs on so
 
 Boutiq.808, Chris Beulich, Meat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswood/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswood/)*

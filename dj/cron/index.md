@@ -1,6 +1,6 @@
 # Cron
 
-Cron is a Dub Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
+Cron is a Dub Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
 Cron is a dub techno and breakbeat artist based in United States of America, with 6 gigs on soundcheck across Austin and Los Angeles. Often billed alongside Mirror Image, pollensource and Anthony Naples. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Cron is a dub techno and breakbeat artist based in United States of America, wit
 
 Mirror Image, pollensource, Anthony Naples
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cron/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cron/)*

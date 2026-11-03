@@ -1,6 +1,6 @@
 # Harriet Bella
 
-Harriet Bella is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at CÉ LA VI, London on Sat, 21 Nov 2026.
+Harriet Bella is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at CÉ LA VI, London on Sat, 21 Nov 2026.
 
 Harriet Bella is an afro house and house artist based in United Kingdom, with 23 gigs on soundcheck across London and Paris. Often billed alongside Anthony James, Chris Collins and Ashley Knights. Next up: CÉ LA VI, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Harriet Bella is an afro house and house artist based in United Kingdom, with 23
 
 Anthony James, Chris Collins, Ashley Knights
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietbella/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietbella/)*

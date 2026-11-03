@@ -1,6 +1,6 @@
 # Les Enfants Brillants
 
-Les Enfants Brillants is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Noizer x Selectors pres. Mystral + Fiama Molina" on Thu, 5 Nov 2026.
+Les Enfants Brillants is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Noizer x Selectors pres. Mystral + Fiama Molina" on Thu, 5 Nov 2026.
 
 Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 25 upcoming gigs, with line-ups including Alex Pott, Ana Alves, Anah and Angel D'lite and 2 more. See dates, start times and who's playing. Carrer de Guàrdia, 3, 08001 Barcelona.
 
@@ -23,4 +23,4 @@ Les Enfants Brillants is a music venue in Barcelona listed on soundcheck. 25 upc
 
 Carrer de Guàrdia, 3, 08001 Barcelona, Barcelona
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/les-enfants-brillants/)*

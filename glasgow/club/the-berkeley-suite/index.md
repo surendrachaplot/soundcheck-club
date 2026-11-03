@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "CASA: TUESDAYS AT The Berkeley Suite // 3RD NOVEMBER" on Tue, 3 Nov 2026.
+The Berkeley Suite is a music venue in Glasgow with 25 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CASA: TUESDAYS AT The Berkeley Suite // 3RD NOVEMBER" on Tue, 3 Nov 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 25 upcoming gigs, with line-ups including Aidan, BAUGRUPPE90, Carmen Baía and Co-Accused and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 25 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

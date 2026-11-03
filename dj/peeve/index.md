@@ -1,6 +1,6 @@
 # Peeve
 
-Peeve is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at La Cheetah Club, Glasgow on Sun, 8 Nov 2026.
+Peeve is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Cheetah Club, Glasgow on Sun, 8 Nov 2026.
 
 Peeve is a house and techno artist based in United Kingdom, with 28 gigs on soundcheck across Dundee, Edinburgh, Glasgow and Scotland. Often billed alongside BAYNE, Sonho and Is Kill. Next up: La Cheetah Club, Glasgow on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Peeve is a house and techno artist based in United Kingdom, with 28 gigs on soun
 
 BAYNE, Sonho, Is Kill
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peeve/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peeve/)*

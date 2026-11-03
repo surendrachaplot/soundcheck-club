@@ -1,6 +1,6 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Dirty Magazine's Lingerie Skate (skate all night)" on Thu, 5 Nov 2026.
+Xanadu is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dirty Magazine's Lingerie Skate (skate all night)" on Thu, 5 Nov 2026.
 
 Xanadu is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Conduit, Amelia Holt, Bouffant Bouffant and DADA COZMIC and 2 more. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Xanadu is a music venue in New York City listed on soundcheck. 6 upcoming gigs, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

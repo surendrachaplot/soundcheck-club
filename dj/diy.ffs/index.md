@@ -1,6 +1,6 @@
 # diy.ffs
 
-diy.ffs is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Warehouse Location, Philadelphia on Fri, 6 Nov 2026.
+diy.ffs is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Warehouse Location, Philadelphia on Fri, 6 Nov 2026.
 
 diy.ffs is a club and techno artist based in United States of America, with 4 gigs on soundcheck across Philadelphia. Often billed alongside Amarji King, America Loves Me and Callaia. Next up: TBA - Warehouse Location, Philadelphia on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ diy.ffs is a club and techno artist based in United States of America, with 4 gi
 
 Amarji King, America Loves Me, Callaia
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diy.ffs/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diy.ffs/)*

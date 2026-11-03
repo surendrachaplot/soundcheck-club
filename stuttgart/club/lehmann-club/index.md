@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "PUMP • Gay - Queer - Open-minded" on Sat, 7 Nov 2026.
+Lehmann Club is a music venue in Stuttgart with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "PUMP • Gay - Queer - Open-minded" on Sat, 7 Nov 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 4 upcoming gigs, with line-ups including Bastian Hill, Ben Hille, Blasha & Allatt and GLIA and 2 more. See dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -17,4 +17,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 4 upcoming gigs
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

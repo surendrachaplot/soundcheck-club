@@ -1,6 +1,6 @@
 # X-S (DE)
 
-X-S (DE) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fitzroy, Berlin on Fri, 11 Dec 2026.
+X-S (DE) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fitzroy, Berlin on Fri, 11 Dec 2026.
 
 X-S (DE) is a techno and dub techno artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside ALKARLINE, ogtrues and Blenk. Next up: Fitzroy, Berlin on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ X-S (DE) is a techno and dub techno artist based in Germany, with 4 gigs on soun
 
 ALKARLINE, ogtrues, Blenk
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-s-de/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-s-de/)*

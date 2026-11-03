@@ -1,8 +1,8 @@
 # TERMINAL 4
 
-TERMINAL 4 is a Afro House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Rumble Rooms, Midlands on Sat, 7 Nov 2026.
+TERMINAL 4 is a Afro House and Amapiano artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Rumble Rooms, Midlands on Sat, 7 Nov 2026.
 
-TERMINAL 4 is an afro house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across London and Midlands. Often billed alongside Supa D, Beezo and DJ Majesty. Next up: Rumble Rooms, Midlands on Sat 7 Nov.
+TERMINAL 4 is an afro house and amapiano artist based in United Kingdom, with 10 gigs on soundcheck across London and Midlands. Often billed alongside Supa D, DJ Majesty and Beezo. Next up: Rumble Rooms, Midlands on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -20,14 +20,10 @@ TERMINAL 4 is an afro house and tech house artist based in United Kingdom, with 
 
 ## Recently played
 
-- Eutopia Warehouse, London · Sat, 31 Oct 2026
-- LDN East, London · Sat, 24 Oct 2026
-- The Steel Yard, London · Sat, 24 Oct 2026
 - The Steel Yard, London · Sat, 17 Oct 2026
-- 77, London · Fri, 2 Oct 2026
 
 ## Shares bills with
 
-Supa D, Beezo, DJ Majesty
+Supa D, DJ Majesty, Beezo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*

@@ -1,6 +1,6 @@
 # ΣKIYM×chamois
 
-ΣKIYM×chamois is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kagurane, Tokyo on Sun, 8 Nov 2026.
+ΣKIYM×chamois is a Experimental and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kagurane, Tokyo on Sun, 8 Nov 2026.
 
 ΣKIYM×chamois is an experimental and industrial artist, with 4 gigs on soundcheck across Tokyo. Often billed alongside FECROMASS, Numb (JP) and SWARMM. Next up: Kagurane, Tokyo on Sun 8 Nov.
 
@@ -20,4 +20,4 @@
 
 FECROMASS, Numb (JP), SWARMM
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skiymxchamois/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skiymxchamois/)*

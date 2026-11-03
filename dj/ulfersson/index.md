@@ -1,6 +1,6 @@
 # Ulfersson
 
-Ulfersson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at SASS Music Club, Vienna on Sun, 8 Nov 2026.
+Ulfersson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SASS Music Club, Vienna on Sun, 8 Nov 2026.
 
 Ulfersson is a house and techno artist based in Austria, with 15 gigs on soundcheck across Vienna. Often billed alongside Thomas Grün, Fabiano José and Reinhard Zach. Next up: SASS Music Club, Vienna on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Ulfersson is a house and techno artist based in Austria, with 15 gigs on soundch
 
 Thomas Grün, Fabiano José, Reinhard Zach
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulfersson/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ulfersson/)*

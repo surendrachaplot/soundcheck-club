@@ -1,6 +1,6 @@
 # JANEIN
 
-JANEIN is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
+JANEIN is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
 
 JANEIN is a techno and house artist based in Germany, with 109 gigs on soundcheck across Auckland, Bangkok, Basel and Beijing and 27 more. Often billed alongside Stigmatique, Shaleen and Anna Hjalmarsson. Next up: Dada Beijing, Beijing on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ JANEIN is a techno and house artist based in Germany, with 109 gigs on soundchec
 
 Stigmatique, Shaleen, Anna Hjalmarsson
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janein/)*

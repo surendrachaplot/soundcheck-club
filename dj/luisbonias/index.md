@@ -1,6 +1,6 @@
 # Luis Bonias
 
-Luis Bonias is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+Luis Bonias is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
 
 Luis Bonias is a house and disco artist based in Spain, with 8 gigs on soundcheck across Barcelona, Madrid and Valencia. Often billed alongside Frankie G, Iñigo Díaz and Abel Ramos. Next up: Fabrik, Madrid on Sat 30 Jan.
 
@@ -24,4 +24,4 @@ Luis Bonias is a house and disco artist based in Spain, with 8 gigs on soundchec
 
 Frankie G, Iñigo Díaz, Abel Ramos
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luisbonias/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luisbonias/)*

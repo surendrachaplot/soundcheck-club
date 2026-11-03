@@ -1,6 +1,6 @@
 # bb (3)
 
-bb (3) is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
+bb (3) is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Sat, 14 Nov 2026.
 
 bb is a pop and house artist, with 3 gigs on soundcheck across Paris and Tokyo. Often billed alongside DJ B2B, Legit Girl DJ and Lisa More. Next up: La Machine Du Moulin Rouge, Paris on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ bb is a pop and house artist, with 3 gigs on soundcheck across Paris and Tokyo. 
 
 DJ B2B, Legit Girl DJ, Lisa More
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bb-3/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bb-3/)*

@@ -1,6 +1,6 @@
 # Olivier Weiter
 
-Olivier Weiter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Het Sieraad, Amsterdam on Thu, 31 Dec 2026.
+Olivier Weiter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Het Sieraad, Amsterdam on Thu, 31 Dec 2026.
 
 Olivier Weiter is a techno and house artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Miss Melera, Huminal and Mees Salomé. Next up: Het Sieraad, Amsterdam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Olivier Weiter is a techno and house artist based in Netherlands, with 69 gigs o
 
 Miss Melera, Huminal, Mees Salomé
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivierweiter/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivierweiter/)*

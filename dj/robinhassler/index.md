@@ -1,6 +1,6 @@
 # Robin Hassler
 
-Robin Hassler is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
+Robin Hassler is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 6 Nov 2026.
 
 Robin Hassler is a techno and house artist based in Switzerland, with 3 gigs on soundcheck across Berlin, Prague and Zurich. Often billed alongside Teenage Mutants, Concentio and Confred. Next up: Ritter Butzke, Berlin on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Robin Hassler is a techno and house artist based in Switzerland, with 3 gigs on 
 
 Teenage Mutants, Concentio, Confred
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinhassler/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinhassler/)*

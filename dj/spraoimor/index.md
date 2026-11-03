@@ -1,6 +1,6 @@
 # Spraoi Mór
 
-Spraoi Mór is a Disco and Acid artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 6 Nov 2026.
+Spraoi Mór is a Disco and Acid artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 6 Nov 2026.
 
 Spraoi Mór is a disco and acid artist based in Ireland, with 21 gigs on soundcheck across Belfast, Berlin, Dublin and Ibiza and 1 more. Often billed alongside Holten, Dar Molloy and Bella Festa. Next up: Hang Dai Chinese, Dublin on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Spraoi Mór is a disco and acid artist based in Ireland, with 21 gigs on soundch
 
 Holten, Dar Molloy (2), Bella Festa
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spraoimor/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spraoimor/)*

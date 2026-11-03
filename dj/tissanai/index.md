@@ -1,6 +1,6 @@
 # Tissanai
 
-Tissanai is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
+Tissanai is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat, 14 Nov 2026.
 
 Tissanai is a house and techno artist based in Thailand, with 14 gigs on soundcheck across Bangkok, Chongqing, Kuala Lumpur and Thailand. Often billed alongside Meltmode, IYY (TH) and DOTT. Next up: TBA - Woowon, Bangsaen, Chonburi, Thailand on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tissanai is a house and techno artist based in Thailand, with 14 gigs on soundch
 
 Meltmode (2), IYY (TH), DOTT
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tissanai/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tissanai/)*

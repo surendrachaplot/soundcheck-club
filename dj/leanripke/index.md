@@ -1,6 +1,6 @@
 # leanripke
 
-leanripke is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
+leanripke is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
 
 leanripke is a house and balearic artist based in Germany, with 4 gigs on soundcheck across Berlin, East and Hamburg. Often billed alongside 5euroGoldi, August Kind and DJ Handtuch. Next up: Humboldthain Club, Berlin on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ leanripke is a house and balearic artist based in Germany, with 4 gigs on soundc
 
 5euroGoldi, August Kind, DJ Handtuch
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leanripke/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leanripke/)*

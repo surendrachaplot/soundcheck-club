@@ -1,6 +1,6 @@
 # Felix Kröcher
 
-Felix Kröcher is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Schrotty, Cologne on Wed, 11 Nov 2026.
+Felix Kröcher is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Schrotty, Cologne on Wed, 11 Nov 2026.
 
 Felix Kröcher is a techno and electro artist based in Germany, with 78 gigs on soundcheck across Austria, Bangkok, Barcelona and Basel and 18 more. Often billed alongside Karla Blum, LOVRA and Anna Tur. Next up: Schrotty, Cologne on Wed 11 Nov.
 
@@ -32,4 +32,4 @@ Felix Kröcher is a techno and electro artist based in Germany, with 78 gigs on 
 
 Karla Blum, LOVRA, Anna Tur
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*

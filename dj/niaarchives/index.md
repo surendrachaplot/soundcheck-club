@@ -1,6 +1,6 @@
 # Nia Archives
 
-Nia Archives is a Jungle and Drum & Bass artist with 12 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Fonda Theatre, Los Angeles on Fri, 6 Nov 2026.
+Nia Archives is a Jungle and Drum & Bass artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Fonda Theatre, Los Angeles on Fri, 6 Nov 2026.
 
 Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 34 more. Often billed alongside Overmono, SHERELLE and Oppidan. Next up: Fonda Theatre, Los Angeles on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 11
 
 Overmono, SHERELLE, Oppidan
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niaarchives/)*

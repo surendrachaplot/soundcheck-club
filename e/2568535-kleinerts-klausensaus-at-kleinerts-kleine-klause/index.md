@@ -1,6 +1,6 @@
 # Kleinerts Klausensaus at Kleinerts Kleine Klause
 
-Kleinerts Klausensaus at Kleinerts Kleine Klause on Sat 7 Nov, Berlin. 3 artists: Cem Orlow, Sasha Tense and the misprints. House and Electro. See the line-up on soundcheck.
+Kleinerts Klausensaus at Kleinerts Kleine Klause on Sat 7 Nov, Berlin. 4 artists: ADVAN, Cem Orlow, Sasha Tense and the misprints. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Kleinerts Klausensaus at Kleinerts Kleine Klause on Sat 7 Nov, Berlin. 3 artists
 
 ## Line-up
 
+- ADVAN
 - Cem Orlow
 - Sasha Tense
 - the misprints

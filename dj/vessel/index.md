@@ -1,6 +1,6 @@
 # Vessel
 
-Vessel is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Pier 80 Warehouse, San Francisco/Oakland on Sat, 2 Jan 2027.
+Vessel is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pier 80 Warehouse, San Francisco/Oakland on Sat, 2 Jan 2027.
 
 Vessel is a techno artist, with 3 gigs on soundcheck across Medellin, San Francisco/Oakland and Utrecht. Often billed alongside 3Phaz, AMPFEMININE and African Head Charge. Next up: Pier 80 Warehouse, San Francisco/Oakland on Sat 2 Jan.
 
@@ -19,4 +19,4 @@ Vessel is a techno artist, with 3 gigs on soundcheck across Medellin, San Franci
 
 3Phaz, AMPFEMININE, African Head Charge
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vessel/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vessel/)*

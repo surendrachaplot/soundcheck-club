@@ -1,6 +1,6 @@
 # Woody
 
-Woody is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Woody is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Woody is a house and techno artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin, Budapest and Lisbon and 6 more. Often billed alongside Yamour, Konstantin and Leafar Legov. Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -25,4 +25,4 @@ Woody is a house and techno artist based in Germany, with 16 gigs on soundcheck 
 
 Yamour, Konstantin, Leafar Legov
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/woody/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/woody/)*

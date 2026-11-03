@@ -1,6 +1,6 @@
 # Alvaro Medina
 
-Alvaro Medina is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 6 Nov 2026.
+Alvaro Medina is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 6 Nov 2026.
 
 Alvaro Medina is a house and minimal artist based in Spain, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 11 more. Often billed alongside Jordi Castell, MARYO and Federico Molinari. Next up: Razzmatazz, Barcelona on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Alvaro Medina is a house and minimal artist based in Spain, with 94 gigs on soun
 
 Jordi Castell (1), MARYO, Federico Molinari
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alvaromedina/)*

@@ -1,6 +1,6 @@
 # Philipp Lüers
 
-Philipp Lüers is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Goldener Reiter, Munich on Sat, 7 Nov 2026.
+Philipp Lüers is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Goldener Reiter, Munich on Sat, 7 Nov 2026.
 
 Philipp Lüers is a house and minimal artist based in Germany, with 16 gigs on soundcheck across Munich. Often billed alongside DJ HOT, iamluie and CHUBBS. Next up: Goldener Reiter, Munich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Philipp Lüers is a house and minimal artist based in Germany, with 16 gigs on s
 
 DJ HOT, iamluie, CHUBBS
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippluers/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philippluers/)*

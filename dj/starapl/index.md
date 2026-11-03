@@ -1,6 +1,6 @@
 # Stara (PL)
 
-Stara (PL) is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at SCHRON, Poznan on Fri, 20 Nov 2026.
+Stara (PL) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SCHRON, Poznan on Fri, 20 Nov 2026.
 
 Stara (PL) is a techno artist, with 3 gigs on soundcheck across Poznan and Wroclaw. Often billed alongside BOBAIO, ERNST (UA) and Józef Keuner. Next up: SCHRON, Poznan on Fri 20 Nov.
 
@@ -19,4 +19,4 @@ Stara (PL) is a techno artist, with 3 gigs on soundcheck across Poznan and Wrocl
 
 BOBAIO, ERNST (UA), Józef Keuner
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/starapl/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/starapl/)*

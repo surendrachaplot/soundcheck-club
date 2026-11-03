@@ -1,6 +1,6 @@
 # Scon
 
-Scon is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at fabric, London on Sun, 8 Nov 2026.
+Scon is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at fabric, London on Sun, 8 Nov 2026.
 
 Scon is a house and garage artist based in United Kingdom, with 20 gigs on soundcheck across Glasgow, Leeds, Liverpool and London and 1 more. Often billed alongside Reeshy, Charlotte Ord and Bella Boo. Next up: fabric, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Scon is a house and garage artist based in United Kingdom, with 20 gigs on sound
 
 Reeshy, Charlotte Ord, Bella Boo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scon/)*

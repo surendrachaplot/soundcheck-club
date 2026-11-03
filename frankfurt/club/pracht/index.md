@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "feierabend. with Samuri & Seezar" on Thu, 5 Nov 2026.
+Pracht is a music venue in Frankfurt with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "feierabend. with Samuri & Seezar" on Thu, 5 Nov 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, with line-ups including Chris Wood, Corios, Dario Milkovic and ELIF and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -16,4 +16,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 3 upcoming gigs, with
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

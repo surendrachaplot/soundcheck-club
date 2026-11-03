@@ -1,6 +1,6 @@
 # Bill Brewster
 
-Bill Brewster is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Ministry, London on Sun, 13 Dec 2026.
+Bill Brewster is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Ministry, London on Sun, 13 Dec 2026.
 
 Bill Brewster is a disco and house artist based in United Kingdom, with 61 gigs on soundcheck across Barcelona, Berlin, Bristol and Cardiff and 13 more. Often billed alongside Sarahtonin, Frank Broughton and Ray Mang. Next up: The Ministry, London on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Bill Brewster is a disco and house artist based in United Kingdom, with 61 gigs 
 
 Sarahtonin, Frank Broughton, Ray Mang
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billbrewster/)*

@@ -1,6 +1,6 @@
 # Cryptofauna
 
-Cryptofauna is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 14 Nov 2026.
+Cryptofauna is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 14 Nov 2026.
 
 Cryptofauna is a techno and trance artist based in Germany, with 152 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 25 more. Often billed alongside Carly Zeng, Faerber and ENNIO. Next up: Indiego Glocksee, Hannover on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Cryptofauna is a techno and trance artist based in Germany, with 152 gigs on sou
 
 Carly Zeng, Faerber, ENNIO
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*

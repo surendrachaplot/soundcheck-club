@@ -1,6 +1,6 @@
 # AnDe Trois
 
-AnDe Trois is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mustache Bangkok, Bangkok on Fri, 6 Nov 2026.
+AnDe Trois is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mustache Bangkok, Bangkok on Fri, 6 Nov 2026.
 
 AnDe Trois is a techno and industrial artist based in Italy, with 11 gigs on soundcheck across Amsterdam, Bangkok, Bologna and Cyprus and 6 more. Often billed alongside Doumu, Joris Turenhout and ALEXANDER M. Next up: Mustache Bangkok, Bangkok on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ AnDe Trois is a techno and industrial artist based in Italy, with 11 gigs on sou
 
 Doumu, Joris Turenhout, ALEXANDER M
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andetrois/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andetrois/)*

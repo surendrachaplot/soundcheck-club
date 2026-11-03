@@ -1,6 +1,6 @@
 # Dr Meaker
 
-Dr Meaker is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Nowhere Tavern, West-wales on Fri, 6 Nov 2026.
+Dr Meaker is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Nowhere Tavern, West-wales on Fri, 6 Nov 2026.
 
 Dr Meaker is a drum & bass and jungle artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Inja, Jazzheadchronic and ALIBI. Next up: The Nowhere Tavern, West Wales on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dr Meaker is a drum & bass and jungle artist based in United Kingdom, with 20 gi
 
 Inja, Jazzheadchronic, ALIBI
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drmeaker/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drmeaker/)*

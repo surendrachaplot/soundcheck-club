@@ -1,6 +1,6 @@
 # The Pound at The Glove That Fits
 
-The Pound at The Glove That Fits on Fri 11 Dec, London. 2 artists: Sleepy Jean and YSL (Young Saucy Lovers). Electro and Ghetto Tech. See the line-up on soundcheck.
+The Pound at The Glove That Fits on Fri 11 Dec, London. 3 artists: Alaïs, Sleepy Jean and YSL (Young Saucy Lovers). Electro and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The Pound at The Glove That Fits on Fri 11 Dec, London. 2 artists: Sleepy Jean a
 
 ## Line-up
 
+- Alaïs
 - Sleepy Jean
 - YSL (Young Saucy Lovers)
 

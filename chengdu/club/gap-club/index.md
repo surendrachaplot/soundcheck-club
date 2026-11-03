@@ -1,13 +1,16 @@
 # GAP Club
 
-GAP Club is a music venue in Chengdu with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "10·30 |胶衣女王Yu Kawabata的工业幻想" on Fri, 30 Oct 2026.
+GAP Club is a music venue in Chengdu with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "HBC" on Tue, 3 Nov 2026.
 
-GAP Club is a music venue in Chengdu listed on soundcheck. 1 upcoming gig, with line-ups including Yu Kawabata. See dates, start times and who's playing.
+GAP Club is a music venue in Chengdu listed on soundcheck. 4 upcoming gigs, with line-ups including 150xs and AK SPORTS. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | 10·30 /胶衣女王Yu Kawabata的工业幻想 | Yu Kawabata |
+| Tue, 3 Nov 2026 | HBC | 150xs |
+| Wed, 4 Nov 2026 | HYPNOTIC & GROOVE TECHNO × CLUB KIDS |  |
+| Thu, 5 Nov 2026 | INTO THE TRIP × SHESAID |  |
+| Fri, 6 Nov 2026 | TECHNO CALLING | AK SPORTS |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/gap-club/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/gap-club/)*

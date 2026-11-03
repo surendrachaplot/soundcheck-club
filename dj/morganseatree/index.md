@@ -1,6 +1,6 @@
 # Morgan Seatree
 
-Morgan Seatree is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Mint XL, Leeds on Sat, 14 Nov 2026.
+Morgan Seatree is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mint XL, Leeds on Sat, 14 Nov 2026.
 
 Morgan Seatree is a house and tech house artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Birmingham and 28 more. Often billed alongside Kyle Starkey, Diffrent and DART. Next up: Mint XL, Leeds on Sat 14 Nov.
 
@@ -32,4 +32,4 @@ Morgan Seatree is a house and tech house artist based in United Kingdom, with 97
 
 Kyle Starkey, Diffrent, DART
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morganseatree/)*

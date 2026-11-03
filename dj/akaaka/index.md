@@ -1,6 +1,6 @@
 # AKA AKA
 
-AKA AKA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+AKA AKA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 AKA AKA is a techno and tech house artist based in Germany, with 55 gigs on soundcheck across Austria, Berlin, Cologne and Dresden and 9 more. Often billed alongside Moonbootica, LOVRA and Paraçek. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -27,4 +27,4 @@ AKA AKA is a techno and tech house artist based in Germany, with 55 gigs on soun
 
 Moonbootica, LOVRA, Paraçek
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*

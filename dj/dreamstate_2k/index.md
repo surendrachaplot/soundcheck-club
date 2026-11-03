@@ -1,6 +1,6 @@
 # Dreamstate_2k
 
-Dreamstate_2k is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 14 Nov 2026.
+Dreamstate_2k is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 14 Nov 2026.
 
 Dreamstate_2k is a techno and trance artist, with 3 gigs on soundcheck across Glasgow. Often billed alongside Arman John, DJ Fingerblast and KVN. Next up: The Marlborough Red Room, Glasgow on Sat 14 Nov.
 
@@ -19,4 +19,4 @@ Dreamstate_2k is a techno and trance artist, with 3 gigs on soundcheck across Gl
 
 Arman John, DJ Fingerblast, KVN
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamstate_2k/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dreamstate_2k/)*

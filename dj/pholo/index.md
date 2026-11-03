@@ -1,6 +1,6 @@
 # Pholo
 
-Pholo is a Bass and Grime artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Saloon, Tokyo on Sun, 22 Nov 2026.
+Pholo is a Bass and Grime artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Saloon, Tokyo on Sun, 22 Nov 2026.
 
 Pholo is a bass and grime artist based in United Kingdom, with 20 gigs on soundcheck across Beijing, Birmingham, London and Los Angeles and 5 more. Often billed alongside Real Tears, illequal and .Cheka. Next up: Saloon, Tokyo on Sun 22 Nov.
 
@@ -27,4 +27,4 @@ Pholo is a bass and grime artist based in United Kingdom, with 20 gigs on soundc
 
 Real Tears, illequal, .Cheka
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pholo/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pholo/)*

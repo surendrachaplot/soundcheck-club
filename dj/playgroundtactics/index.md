@@ -1,6 +1,6 @@
 # playground tactics
 
-playground tactics is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
+playground tactics is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 playground tactics is a house and acid artist based in United States of America, with 6 gigs on soundcheck across Miami, New York City and San Francisco/Oakland. Often billed alongside shanty mane, Jackson Walker and EREZ.JPG. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ playground tactics is a house and acid artist based in United States of America,
 
 shanty mane, Jackson Walker, EREZ.JPG
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playgroundtactics/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/playgroundtactics/)*

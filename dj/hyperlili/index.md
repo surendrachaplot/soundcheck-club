@@ -1,6 +1,6 @@
 # HyperLili
 
-HyperLili is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Inter-City, The Hague on Sat, 28 Nov 2026.
+HyperLili is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Inter-City, The Hague on Sat, 28 Nov 2026.
 
 HyperLili is a techno and trance artist based in Netherlands, with 56 gigs on soundcheck across Amsterdam, Basel, Berlin and Bordeaux and 6 more. Often billed alongside Jeans (NL), Cosmox and CyberFairy777. Next up: Inter-City, The Hague on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ HyperLili is a techno and trance artist based in Netherlands, with 56 gigs on so
 
 Jeans (NL), Cosmox, CyberFairy777
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperlili/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperlili/)*

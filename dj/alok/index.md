@@ -1,6 +1,6 @@
 # Alok
 
-Alok is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Alok is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Alok is a house and electronica artist based in Brazil, with 42 gigs on soundcheck across Bali, Barcelona, Boston and Budapest and 20 more. Often billed alongside Dimitri Vegas & Like Mike, Steve Aoki and Armin van Buuren. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Alok is a house and electronica artist based in Brazil, with 42 gigs on soundche
 
 Dimitri Vegas & Like Mike, Steve Aoki, Armin van Buuren
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alok/)*

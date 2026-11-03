@@ -1,6 +1,6 @@
 # Flange
 
-Flange is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
+Flange is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Marble Bar, Detroit on Fri, 20 Nov 2026.
 
 Flange is a techno and house artist based in United States of America, with 8 gigs on soundcheck across Detroit and Minneapolis/St Paul. Often billed alongside DJ Nola, ollo11 and Centrific. Next up: Marble Bar, Detroit on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ Flange is a techno and house artist based in United States of America, with 8 gi
 
 DJ Nola, ollo11, Centrific
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flange/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flange/)*

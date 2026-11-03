@@ -1,6 +1,6 @@
 # Casual
 
-Casual is a music venue in Hong Kong with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "World Series: The Silk Road presented by Brahms" on Fri, 6 Nov 2026.
+Casual is a music venue in Hong Kong with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "World Series: The Silk Road presented by Brahms" on Fri, 6 Nov 2026.
 
 Casual is a music venue in Hong Kong listed on soundcheck. 10 upcoming gigs, with line-ups including CASAMUSICA, Chucheewa, Emel and Mamie's and 2 more. See dates, start times and who's playing. 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island.
 
@@ -23,4 +23,4 @@ Casual is a music venue in Hong Kong listed on soundcheck. 10 upcoming gigs, wit
 
 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island, Hong Kong
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*

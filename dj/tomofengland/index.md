@@ -1,14 +1,15 @@
 # Tom of England
 
-Tom of England is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
+Tom of England is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Good Room, New York City on Sun, 22 Nov 2026.
 
-Tom of England is a house and disco artist based in United Kingdom, with 36 gigs on soundcheck across Athens, Bali, Berlin and Bristol and 10 more. Often billed alongside Paul Nickerson, UMA DJ and Capablanca. Next up: Good Room, New York City on Sun 22 Nov.
+Tom of England is a house and acid artist based in United Kingdom, with 37 gigs on soundcheck across Athens, Bali, Berlin and Bristol and 10 more. Often billed alongside Jeno, Paul Nickerson and Tranquil Elephantizer. Next up: Good Room, New York City on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Good Room | New York City |
+| Sat, 19 Dec 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tom of England is a house and disco artist based in United Kingdom, with 36 gigs
 
 ## Shares bills with
 
-Paul Nickerson, UMA DJ, Capablanca
+Jeno, Paul Nickerson, Tranquil Elephantizer
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomofengland/)*

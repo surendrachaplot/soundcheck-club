@@ -1,6 +1,6 @@
 # migas, a listening bar
 
-migas, a listening bar is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Anthony Kroytor plays at migas" on Wed, 4 Nov 2026.
+migas, a listening bar is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Anthony Kroytor plays at migas" on Wed, 4 Nov 2026.
 
 migas, a listening bar is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including _ÄLI_, Amanita, Mauricio Fleury and maxiu and 1 more. See dates, start times and who's playing. Lindower Straße 19 13347 Berlin.
 
@@ -23,4 +23,4 @@ migas, a listening bar is a music venue in Berlin listed on soundcheck. 10 upcom
 
 Lindower Straße 19 13347 Berlin, Berlin
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/migas-a-listening-bar/)*

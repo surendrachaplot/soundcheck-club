@@ -1,6 +1,6 @@
 # EMMYJ
 
-EMMYJ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Il Brutto Auckland, Auckland on Fri, 6 Nov 2026.
+EMMYJ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Il Brutto Auckland, Auckland on Fri, 6 Nov 2026.
 
 EMMYJ is a techno and industrial artist based in New Zealand, with 6 gigs on soundcheck across Auckland. Often billed alongside Takydon, Concussion and H3LLRAIS3R. Next up: Il Brutto Auckland, Auckland on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ EMMYJ is a techno and industrial artist based in New Zealand, with 6 gigs on sou
 
 Takydon, Concussion, H3LLRAIS3R
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyj/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmyj/)*

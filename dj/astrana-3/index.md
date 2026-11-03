@@ -1,6 +1,6 @@
 # ASTRANA
 
-ASTRANA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
+ASTRANA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ÆDEN, Berlin on Fri, 13 Nov 2026.
 
 ASTRANA is a house and techno artist, with 2 gigs on soundcheck across Berlin. Often billed alongside Ace9, Anna Kasyan and Annakonda. Next up: ÆDEN, Berlin on Fri 13 Nov.
 
@@ -18,4 +18,4 @@ ASTRANA is a house and techno artist, with 2 gigs on soundcheck across Berlin. O
 
 Ace9, Anna Kasyan, Annakonda
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astrana-3/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astrana-3/)*

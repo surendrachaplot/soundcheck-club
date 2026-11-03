@@ -1,6 +1,6 @@
 # TAC (Tottenham Arts Collective)
 
-TAC (Tottenham Arts Collective) is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Louder Rooms: Return Signal" on Fri, 4 Dec 2026.
+TAC (Tottenham Arts Collective) is a music venue in London with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Louder Rooms: Return Signal" on Fri, 4 Dec 2026.
 
 TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Kalila, Lola (UK), Noisy Neighbour and Product Of Us and 2 more. See dates, start times and who's playing. Unit 10 High Cross Centre, Tottenham Hale, N15 4QN, London.
 
@@ -16,4 +16,4 @@ TAC (Tottenham Arts Collective) is a music venue in London listed on soundcheck.
 
 Unit 10 High Cross Centre, Tottenham Hale, N15 4QN, London, London
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tac-tottenham-arts-collective/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tac-tottenham-arts-collective/)*

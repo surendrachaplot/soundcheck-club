@@ -1,6 +1,6 @@
 # Igadi
 
-Igadi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Location in Telegram, Berlin on Sat, 21 Nov 2026.
+Igadi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Location in Telegram, Berlin on Sat, 21 Nov 2026.
 
 Igadi is a techno and tech house artist based in United States of America, with 5 gigs on soundcheck across Berlin and Stockholm. Often billed alongside 314A, AZIL and CC Luna. Next up: TBA - Location in Telegram, Berlin on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Igadi is a techno and tech house artist based in United States of America, with 
 
 314A, AZIL, CC Luna
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igadi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/igadi/)*

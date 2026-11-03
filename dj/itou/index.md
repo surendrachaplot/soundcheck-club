@@ -1,6 +1,6 @@
 # Itou
 
-Itou is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Koara, Tokyo on Fri, 6 Nov 2026.
+Itou is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Koara, Tokyo on Fri, 6 Nov 2026.
 
 Itou is a house and minimal artist based in Japan, with 10 gigs on soundcheck across Osaka and Tokyo. Often billed alongside AOKI takamasa, DAIY and IKUZO. Next up: Koara, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Itou is a house and minimal artist based in Japan, with 10 gigs on soundcheck ac
 
 AOKI takamasa, DAIY, IKUZO
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itou/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itou/)*

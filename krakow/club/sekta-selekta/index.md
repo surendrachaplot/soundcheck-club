@@ -1,6 +1,6 @@
 # Sekta Selekta
 
-Sekta Selekta is a music venue in Krakow with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Selekta: Gene On Earth" on Fri, 6 Nov 2026.
+Sekta Selekta is a music venue in Krakow with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Selekta: Gene On Earth" on Fri, 6 Nov 2026.
 
 Sekta Selekta is a music venue in Krakow listed on soundcheck. 6 upcoming gigs, with line-ups including Aim Ana, Aircraft, Badalian and Dr.Nojoke and 2 more. See dates, start times and who's playing. Nowa, 31-056 Kraków, Poland.
 
@@ -19,4 +19,4 @@ Sekta Selekta is a music venue in Krakow listed on soundcheck. 6 upcoming gigs, 
 
 Nowa, 31-056 Kraków, Poland, Krakow
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/sekta-selekta/)*

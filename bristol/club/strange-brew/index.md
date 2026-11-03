@@ -1,6 +1,6 @@
 # Strange Brew
 
-Strange Brew is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "StepTwice presents: BLUMITSU" on Fri, 6 Nov 2026.
+Strange Brew is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "StepTwice presents: BLUMITSU" on Fri, 6 Nov 2026.
 
 Strange Brew is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with line-ups including Berwick, BLUMITSU, Chez de Milo and Foodman and 2 more. See dates, start times and who's playing. 10-12 Fairfax Street, Bristol, BS1 3DB.
 
@@ -21,4 +21,4 @@ Strange Brew is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, 
 
 10-12 Fairfax Street, Bristol, BS1 3DB, Bristol
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/strange-brew/)*

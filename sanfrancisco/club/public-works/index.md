@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Local 500 & Public Works present: Function 500 with FLUXIONS" on Thu, 5 Nov 2026.
+Public Works is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Local 500 & Public Works present: Function 500 with FLUXIONS" on Thu, 5 Nov 2026.
 
 Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 upcoming gigs, with line-ups including AGROPOL, bad juuju, Bandēs and Chris Lum and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -9,7 +9,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Local 500 & Public Works present: Function 500 with FLUXIONS | AGROPOL, DJ Panderer, Vertigo, bad juuju |
-| Fri, 6 Nov 2026 | Bounce SF: Ueberrest, Flash Gea, & dj try | Flash Gea, Lil Laurie, Ueberrest, dj try (US) |
+| Fri, 6 Nov 2026 | Bounce SF: Ueberrest, Flash Gea, & dj try | DJ Try (US), Flash Gea, Lil Laurie, Ueberrest |
 | Fri, 6 Nov 2026 | fieldtest: DJ Koolt, Naone | DJ Koolt, Milli Meng, Naone |
 | Sat, 7 Nov 2026 | DR. GABBA, Narciss, Dazegxd presented by Public Works, STRAPT & Flux Aeterna | DR. GABBA, Dazegxd, Narciss |
 | Sat, 14 Nov 2026 | QTS: San Francisco (Farius - Gabriel & Dresden - Bandes) | Bandēs, Farius, Gabriel & Dresden |
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

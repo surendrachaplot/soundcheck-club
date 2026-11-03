@@ -1,6 +1,6 @@
 # Ricky Kelsey
 
-Ricky Kelsey is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Hangar, South-east on Sat, 28 Nov 2026.
+Ricky Kelsey is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Hangar, South-east on Sat, 28 Nov 2026.
 
 Ricky Kelsey is a techno and minimal artist, with 5 gigs on soundcheck across London and South East. Often billed alongside William James, @cookie and Because of Art. Next up: The Hangar, South East on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Ricky Kelsey is a techno and minimal artist, with 5 gigs on soundcheck across Lo
 
 William James, @cookie, Because of Art
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickykelsey/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickykelsey/)*

@@ -1,8 +1,8 @@
 # Matt Jam Lamont
 
-Matt Jam Lamont is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
+Matt Jam Lamont is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
 
-Matt Jam Lamont is a garage and house artist based in United Kingdom, with 43 gigs on soundcheck across Birmingham, Bristol, Dubai and Ibiza and 5 more. Often billed alongside MC DT, Scott Garcia and MC CKP. Next up: Electric Brixton, London on Fri 13 Nov.
+Matt Jam Lamont is a garage and house artist based in United Kingdom, with 44 gigs on soundcheck across Birmingham, Bristol, Dubai and Ibiza and 5 more. Often billed alongside MC DT, Scott Garcia and DJ Listener. Next up: Electric Brixton, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Matt Jam Lamont is a garage and house artist based in United Kingdom, with 43 gi
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Electric Brixton | London |
 | Sat, 14 Nov 2026 | Electric Brixton | London |
+| Sat, 26 Dec 2026 | Ministry Of Sound | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Matt Jam Lamont is a garage and house artist based in United Kingdom, with 43 gi
 
 ## Shares bills with
 
-MC DT, Scott Garcia, MC CKP
+MC DT, Scott Garcia, DJ Listener
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattjamlamont/)*

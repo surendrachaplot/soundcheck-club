@@ -1,6 +1,6 @@
 # SOLE DOSI
 
-SOLE DOSI is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Virage, Paris on Sat, 7 Nov 2026.
+SOLE DOSI is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Virage, Paris on Sat, 7 Nov 2026.
 
 SOLE DOSI is a techno and house artist based in Italy, with 99 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 13 more. Often billed alongside Paula Sanz, ALDAVE and Carmen Lisa. Next up: Virage, Paris on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ SOLE DOSI is a techno and house artist based in Italy, with 99 gigs on soundchec
 
 Paula Sanz, ALDAVE, Carmen Lisa (2)
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soledosi/)*

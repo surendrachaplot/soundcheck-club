@@ -1,6 +1,6 @@
 # DJ Moss
 
-DJ Moss is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bonobo, Tokyo on Tue, 3 Nov 2026.
+DJ Moss is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bonobo, Tokyo on Tue, 3 Nov 2026.
 
 DJ Moss is an electronic artist, with 3 gigs on soundcheck across Tokyo. Often billed alongside Bushmind, COGEE and HAYATO DELAROSSA. Next up: Bonobo, Tokyo on Tue 3 Nov.
 
@@ -19,4 +19,4 @@ DJ Moss is an electronic artist, with 3 gigs on soundcheck across Tokyo. Often b
 
 Bushmind, COGEE, HAYATO DELAROSSA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoss/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmoss/)*

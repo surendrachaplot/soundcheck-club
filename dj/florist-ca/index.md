@@ -1,6 +1,6 @@
 # Flørist
 
-Flørist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Gare Porto, Porto on Sat, 7 Nov 2026.
+Flørist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Gare Porto, Porto on Sat, 7 Nov 2026.
 
 Flørist is a house and techno artist based in Canada, with 42 gigs on soundcheck across Amsterdam, Berlin, Hamburg and London and 11 more. Often billed alongside Nathan Melja, C3D-E and Estimulo. Next up: Gare Porto, Porto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Flørist is a house and techno artist based in Canada, with 42 gigs on soundchec
 
 Nathan Melja, C3D-E, Estimulo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florist-ca/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/florist-ca/)*

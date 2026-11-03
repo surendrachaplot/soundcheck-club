@@ -1,6 +1,6 @@
 # Reitze
 
-Reitze is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
+Reitze is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
 
 Reitze is a techno and hardcore artist based in Spain, with 248 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 1 more. Often billed alongside SAINT SINNER, Noot Noot and Dyans. Next up: KitKatClub, Berlin on Fri 22 Jan.
 
@@ -25,4 +25,4 @@ Reitze is a techno and hardcore artist based in Spain, with 248 gigs on soundche
 
 SAINT SINNER, Noot Noot, Dyans
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reitze-es/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reitze-es/)*

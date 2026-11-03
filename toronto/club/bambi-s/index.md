@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "NiceUP! - Trailcam / Nautiluss / Raf Reza" on Fri, 6 Nov 2026.
+Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "NiceUP! - Trailcam / Nautiluss / Raf Reza" on Fri, 6 Nov 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including 99hp, Amedeo (CA), Carlos Estebban and DINO and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -21,4 +21,4 @@ Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with 
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

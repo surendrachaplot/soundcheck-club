@@ -1,6 +1,6 @@
 # Zeyvers
 
-Zeyvers is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at nachbar, Amsterdam on Wed, 18 Nov 2026.
+Zeyvers is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at nachbar, Amsterdam on Wed, 18 Nov 2026.
 
 Zeyvers is a techno and hardcore artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Bologna, Dortmund / Essen and Luxembourg and 4 more. Often billed alongside Kuzio, Kingsmo and SUKA. Next up: nachbar, Amsterdam on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ Zeyvers is a techno and hardcore artist based in Netherlands, with 43 gigs on so
 
 Kuzio, Kingsmo, SUKA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyvers/)*

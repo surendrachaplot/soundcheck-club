@@ -1,6 +1,6 @@
 # Demmy J
 
-Demmy J is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Kassa Boat, Budapest on Sat, 12 Dec 2026.
+Demmy J is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kassa Boat, Budapest on Sat, 12 Dec 2026.
 
 Demmy J is a techno artist, with 3 gigs on soundcheck across Budapest. Often billed alongside DJ Budai, KOBANYA3000 and AESZTETIK. Next up: Kassa Boat, Budapest on Sat 12 Dec.
 
@@ -19,4 +19,4 @@ Demmy J is a techno artist, with 3 gigs on soundcheck across Budapest. Often bil
 
 DJ Budai, KOBANYA3000, AESZTETIK
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demmyj/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demmyj/)*

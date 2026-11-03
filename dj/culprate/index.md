@@ -1,6 +1,6 @@
 # Culprate
 
-Culprate is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at The Clock Factory, Bristol on Sat, 5 Dec 2026.
+Culprate is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Clock Factory, Bristol on Sat, 5 Dec 2026.
 
 Culprate is a dubstep and drum & bass artist based in United Kingdom, with 2 gigs on soundcheck across Bristol and Paris. Often billed alongside Flux Pavilion, Neonlight and gyrofield. Next up: The Clock Factory, Bristol on Sat 5 Dec.
 
@@ -18,4 +18,4 @@ Culprate is a dubstep and drum & bass artist based in United Kingdom, with 2 gig
 
 Flux Pavilion, Neonlight, gyrofield
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/culprate/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/culprate/)*

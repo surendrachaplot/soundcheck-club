@@ -1,6 +1,6 @@
-# Tin | MALSTROM Tour 2026 at Nulab Chengdu
+# Tin | MALSTROM Tour 2026 厅 at Nulab Chengdu
 
-Tin | MALSTROM Tour 2026 at Nulab Chengdu on Sat 28 Nov, Chengdu. Electro and Jazz. See the line-up on soundcheck.
+Tin | MALSTROM Tour 2026 厅 at Nulab Chengdu on Sat 28 Nov, Chengdu. Electro and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WHYDANCING
 
-WHYDANCING is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
+WHYDANCING is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at UMI, Brussels on Fri, 6 Nov 2026.
 
 WHYDANCING is a techno and trance artist, with 5 gigs on soundcheck across Barcelona and Brussels. Often billed alongside Kriika, Preciado and DECONOFF. Next up: UMI, Brussels on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ WHYDANCING is a techno and trance artist, with 5 gigs on soundcheck across Barce
 
 Kriika, Preciado, DECONOFF
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whydancing/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whydancing/)*

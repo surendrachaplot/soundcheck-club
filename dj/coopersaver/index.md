@@ -1,6 +1,6 @@
 # Cooper Saver
 
-Cooper Saver is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Hollywood Theatre, Vancouver on Tue, 3 Nov 2026.
+Cooper Saver is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hollywood Theatre, Vancouver on Tue, 3 Nov 2026.
 
 Cooper Saver is a house and disco artist based in United States of America, with 5 gigs on soundcheck across Copenhagen, Munich and Vancouver. Often billed alongside 600-cell, Avalon Emerson and Benjamin Damage. Next up: Hollywood Theatre, Vancouver on Tue 3 Nov.
 
@@ -21,4 +21,4 @@ Cooper Saver is a house and disco artist based in United States of America, with
 
 600-cell, Avalon Emerson, Benjamin Damage
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coopersaver/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coopersaver/)*

@@ -1,6 +1,6 @@
 # Huck Finn
 
-Huck Finn is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
+Huck Finn is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
 
 Huck Finn is a house and tech house artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam and London. Often billed alongside Solartrak, Wolf Auris and Shady Lady. Next up: TBA, Amsterdam on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ Huck Finn is a house and tech house artist based in United Kingdom, with 23 gigs
 
 Solartrak, Wolf Auris, Shady Lady
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huckfinn/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huckfinn/)*

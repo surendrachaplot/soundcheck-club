@@ -1,6 +1,6 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Universe Athens, Athens on Sat, 7 Nov 2026.
+The Lady Machine is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Universe Athens, Athens on Sat, 7 Nov 2026.
 
 The Lady Machine is a techno and house artist based in Brazil, with 215 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 55 more. Often billed alongside Freddy K, Blasha & Allatt and DVS1. Next up: Universe Athens, Athens on Sat 7 Nov.
 
@@ -33,4 +33,4 @@ The Lady Machine is a techno and house artist based in Brazil, with 215 gigs on 
 
 Freddy K, Blasha & Allatt, DVS1
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theladymachine/)*

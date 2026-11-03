@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 48 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Abantu x Chila Nathi pres: Jazz Roots, House Futures " on Tue, 3 Nov 2026.
+TBA - Secret Location is a music venue in London with 50 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Abantu x Chila Nathi pres: Jazz Roots, House Futures " on Tue, 3 Nov 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 48 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 50 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -15,8 +15,8 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 48 upcomi
 | Fri, 6 Nov 2026 | HOTWIRE: Ford Scott & Friends | Erin Page, Ford Scott, Jeny Michelle, Mac Briggs, RICCI (US), shanty mane |
 | Sat, 7 Nov 2026 | Primogemito: Divine Inspiration | CSCX, DJ TEETH, Minimal Larsen |
 | Sat, 7 Nov 2026 | Amandava - somewhere en el campo | Kyle Toole, ROMO (2) |
-| Sat, 7 Nov 2026 | Sojourn presents |  |
+| Sat, 7 Nov 2026 | Sojourn presents: Shvili (all night long) | Shvili |
 | Sat, 7 Nov 2026 | Introspect'n - Making Waves | Bajjio, DeRizzio, HAIG, Moonz |
 | Fri, 13 Nov 2026 | 10 Years of Easy People |  |
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

@@ -1,6 +1,6 @@
 # Gabriella Vergilov
 
-Gabriella Vergilov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
+Gabriella Vergilov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 6 Nov 2026.
 
 Gabriella Vergilov is a techno and house artist based in Bulgaria, with 46 gigs on soundcheck across Basel, Berlin, Brussels and Budapest and 7 more. Often billed alongside Slumjuice, Ida Aya and Miss Puppy. Next up: Den Anden Side, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Gabriella Vergilov is a techno and house artist based in Bulgaria, with 46 gigs 
 
 Slumjuice, Ida Aya, Miss Puppy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellavergilov/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellavergilov/)*

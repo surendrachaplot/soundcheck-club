@@ -1,6 +1,6 @@
 # binkan!
 
-binkan! is a Club and Drill artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at CHICO, Mexico City on Sat, 7 Nov 2026.
+binkan! is a Club and Drill artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at CHICO, Mexico City on Sat, 7 Nov 2026.
 
 binkan! is a club and drill artist, with 6 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside nimrock11, Babybruise and Basho. Next up: CHICO, Mexico City on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ binkan! is a club and drill artist, with 6 gigs on soundcheck across Guadalajara
 
 nimrock11, Babybruise, Basho
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binkan!/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/binkan!/)*

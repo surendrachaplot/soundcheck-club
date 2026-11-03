@@ -1,6 +1,6 @@
 # ItsOk
 
-ItsOk is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
+ItsOk is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
 
 ItsOk is a drum & bass and bass artist, with 18 gigs on soundcheck across Stockholm. Often billed alongside rzt, charlie.pxls and JNB. Next up: Slakthuset, Stockholm on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ ItsOk is a drum & bass and bass artist, with 18 gigs on soundcheck across Stockh
 
 rzt, charlie.pxls, JNB
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itsok/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itsok/)*

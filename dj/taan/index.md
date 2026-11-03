@@ -1,6 +1,6 @@
 # Taan
 
-Taan is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Crackhouse, Gdansk on Sat, 28 Nov 2026.
+Taan is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Crackhouse, Gdansk on Sat, 28 Nov 2026.
 
 Taan is a techno and bass artist based in Poland, with 69 gigs on soundcheck across Gdansk, Krakow, Poland and Poznan and 2 more. Often billed alongside Schmeltzer, bielak and bart ender. Next up: Crackhouse, Gdansk on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Taan is a techno and bass artist based in Poland, with 69 gigs on soundcheck acr
 
 Schmeltzer, bielak, bart ender
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taan/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taan/)*

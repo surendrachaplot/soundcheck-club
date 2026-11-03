@@ -1,6 +1,6 @@
 # Midnight (1)
 
-Midnight (1) is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Bangkok Island, Bangkok on Wed, 4 Nov 2026.
+Midnight (1) is a Afro House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bangkok Island, Bangkok on Wed, 4 Nov 2026.
 
 Midnight is an afro house and techno artist, with 4 gigs on soundcheck across Bangkok, London and Montreal. Often billed alongside Antonio Pascal, Brixton and Castle. Next up: Bangkok Island, Bangkok on Wed 4 Nov.
 
@@ -20,4 +20,4 @@ Midnight is an afro house and techno artist, with 4 gigs on soundcheck across Ba
 
 Antonio Pascal, Brixton, Castle
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnight-1/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnight-1/)*

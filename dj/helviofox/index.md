@@ -1,6 +1,6 @@
 # Helviofox
 
-Helviofox is a Kuduro and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
+Helviofox is a Kuduro and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
 
 Helviofox is a kuduro and baile funk artist based in Portugal, with 3 gigs on soundcheck across Lisbon and Stockholm. Often billed alongside DJ Marfox, DJ Narciso and Dj Danifox. Next up: Ministerium Club, Lisbon on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Helviofox is a kuduro and baile funk artist based in Portugal, with 3 gigs on so
 
 DJ Marfox, DJ Narciso, Dj Danifox
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helviofox/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helviofox/)*

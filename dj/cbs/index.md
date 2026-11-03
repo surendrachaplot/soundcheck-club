@@ -1,6 +1,6 @@
 # CBS
 
-CBS is a electronic artist with 7 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Los Angeles State Historic Park, Los Angeles on Sat, 7 Nov 2026.
+CBS is a electronic artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Los Angeles State Historic Park, Los Angeles on Sat, 7 Nov 2026.
 
 CBS is an electronic artist based in United Kingdom, with 7 gigs on soundcheck across Barcelona, Copenhagen, London and Los Angeles and 2 more. Often billed alongside Fox (US), PC (MX) and ROKU. Next up: Los Angeles State Historic Park, Los Angeles on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ CBS is an electronic artist based in United Kingdom, with 7 gigs on soundcheck a
 
 Fox (US), PC (MX), ROKU
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cbs/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cbs/)*

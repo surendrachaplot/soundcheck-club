@@ -1,6 +1,6 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "SNRS48" on Fri, 6 Nov 2026.
+Club Guesthouse is a music venue in Bucharest with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SNRS48" on Fri, 6 Nov 2026.
 
 Club Guesthouse is a music venue in Bucharest listed on soundcheck. 2 upcoming gigs, with line-ups including CEZAR, Andrei Ciubuc, BILA and Cosmina and 2 more. See dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
@@ -15,4 +15,4 @@ Club Guesthouse is a music venue in Bucharest listed on soundcheck. 2 upcoming g
 
 Splaiul Unirii 160, Bucharest, Romania, Bucharest
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/club-guesthouse/)*

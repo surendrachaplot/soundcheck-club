@@ -1,6 +1,6 @@
 # Muan
 
-Muan is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at TBA - Private House party, Playa-del-carmen on Fri, 6 Nov 2026.
+Muan is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Private House party, Playa-del-carmen on Fri, 6 Nov 2026.
 
 Muan is a house and electronica artist, with 7 gigs on soundcheck across Berlin, Mexico City, Playa Del Carmen and Vancouver. Often billed alongside Ray Okpara, SAUANI and Al-Saad. Next up: TBA - Private House party, Playa Del Carmen on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Muan is a house and electronica artist, with 7 gigs on soundcheck across Berlin,
 
 Ray Okpara, SAUANI, Al-Saad
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muan/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muan/)*

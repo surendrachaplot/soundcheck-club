@@ -1,6 +1,6 @@
 # YVNNI
 
-YVNNI is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Vino Disco, Montreal on Sat, 7 Nov 2026.
+YVNNI is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Vino Disco, Montreal on Sat, 7 Nov 2026.
 
 YVNNI is a house and tech house artist based in Canada, with 8 gigs on soundcheck across Montreal and Toronto. Often billed alongside Flytz, PETER DAMIAN and Andie. Next up: Vino Disco, Montreal on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ YVNNI is a house and tech house artist based in Canada, with 8 gigs on soundchec
 
 Flytz, PETER DAMIAN, Andie
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yvnni/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yvnni/)*

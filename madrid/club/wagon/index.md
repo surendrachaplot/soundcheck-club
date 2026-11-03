@@ -1,6 +1,6 @@
 # Wagon
 
-Wagon is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "oskar med k" on Sun, 15 Nov 2026.
+Wagon is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "oskar med k" on Sun, 15 Nov 2026.
 
 Wagon is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including oskar med k. See dates, start times and who's playing. Estación de Chamartí­n, Planta ático.
 
@@ -14,4 +14,4 @@ Wagon is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line
 
 Estación de Chamartí­n, Planta ático, Madrid
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/wagon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/wagon/)*

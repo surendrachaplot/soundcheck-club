@@ -1,6 +1,6 @@
 # Kite
 
-Kite is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Graf Karl, Kassel on Fri, 6 Nov 2026.
+Kite is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Graf Karl, Kassel on Fri, 6 Nov 2026.
 
 Kite is a house and tech house artist based in Germany, with 5 gigs on soundcheck across Berlin and Kassel. Often billed alongside AWSM, Chris Lustig and Disscut. Next up: Graf Karl, Kassel on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Kite is a house and tech house artist based in Germany, with 5 gigs on soundchec
 
 AWSM, Chris Lustig, Disscut
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kite/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kite/)*

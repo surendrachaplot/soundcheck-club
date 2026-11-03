@@ -1,6 +1,6 @@
 # Bruhze
 
-Bruhze is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
+Bruhze is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
 
 Bruhze is a gabber and hardcore artist based in Netherlands, with 3 gigs on soundcheck across Frankfurt, Osaka and Rotterdam. Often billed alongside Coretex, Manu Le Malin and Marc Acardipane. Next up: Maassilo, Rotterdam on Sat 27 Feb.
 
@@ -19,4 +19,4 @@ Bruhze is a gabber and hardcore artist based in Netherlands, with 3 gigs on soun
 
 Coretex, Manu Le Malin, Marc Acardipane
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruhze/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruhze/)*

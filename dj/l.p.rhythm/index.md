@@ -1,6 +1,6 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 7 Nov 2026.
+L.P. Rhythm is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 7 Nov 2026.
 
 L.P. Rhythm is a house and tech house artist based in United Kingdom, with 190 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 36 more. Often billed alongside Gaskin, Locky and Luuk van Dijk. Next up: La Cheetah Club, Glasgow on Sat 7 Nov.
 
@@ -33,4 +33,4 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, with 190 g
 
 Gaskin, Locky, Luuk van Dijk
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

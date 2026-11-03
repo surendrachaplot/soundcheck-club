@@ -1,6 +1,6 @@
 # MarceauxMarceaux
 
-MarceauxMarceaux is a House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at H0L0, New York City on Fri, 20 Nov 2026.
+MarceauxMarceaux is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at H0L0, New York City on Fri, 20 Nov 2026.
 
 MarceauxMarceaux is a house artist based in United States of America, with 5 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside BEIGE, Ben Fonik and Dee Diggs. Next up: H0L0, New York City on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ MarceauxMarceaux is a house artist based in United States of America, with 5 gig
 
 BEIGE, Ben Fonik, Dee Diggs
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceauxmarceaux/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marceauxmarceaux/)*

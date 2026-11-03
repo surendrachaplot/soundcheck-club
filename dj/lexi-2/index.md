@@ -1,14 +1,13 @@
 # LEXI (2)
 
-LEXI (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at OneSixOne, Melbourne on Sun, 1 Nov 2026.
+LEXI (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sub Club Melbourne, Melbourne on Fri, 6 Nov 2026.
 
-LEXI is a techno and house artist based in Australia, with 18 gigs on soundcheck across Melbourne. Often billed alongside au4r33y, Jmcee and A.Well. Next up: OneSixOne, Melbourne on Sun 1 Nov.
+LEXI is a techno and house artist based in Australia, with 18 gigs on soundcheck across Melbourne. Often billed alongside au4r33y, Jmcee and A.Well. Next up: Sub Club Melbourne, Melbourne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 1 Nov 2026 | OneSixOne | Melbourne |
 | Fri, 6 Nov 2026 | Sub Club Melbourne | Melbourne |
 
 ## Recently played
@@ -26,4 +25,4 @@ LEXI is a techno and house artist based in Australia, with 18 gigs on soundcheck
 
 au4r33y, Jmcee, A.Well
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-2/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lexi-2/)*

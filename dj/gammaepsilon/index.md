@@ -1,6 +1,6 @@
 # Gamma Epsilon
 
-Gamma Epsilon is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Oddity Club, Athens on Sat, 26 Dec 2026.
+Gamma Epsilon is a Trance and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Oddity Club, Athens on Sat, 26 Dec 2026.
 
 Gamma Epsilon is a trance and psytrance artist based in Greece, with 11 gigs on soundcheck across Athens. Often billed alongside Mike Sync, ANNA and Phobos. Next up: Oddity Club, Athens on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Gamma Epsilon is a trance and psytrance artist based in Greece, with 11 gigs on 
 
 Mike Sync, ANNA, Phobos
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaepsilon/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gammaepsilon/)*

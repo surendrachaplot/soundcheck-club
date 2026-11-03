@@ -1,6 +1,6 @@
 # New Morning
 
-New Morning is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Light Of The World • New Morning" on Sat, 7 Nov 2026.
+New Morning is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Light Of The World • New Morning" on Sat, 7 Nov 2026.
 
 New Morning is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Clémentine and Saint-James. See dates, start times and who's playing. 9 rue des Petites Ecuries 75010 Paris.
 
@@ -14,4 +14,4 @@ New Morning is a music venue in Paris listed on soundcheck. 1 upcoming gig, with
 
 9 rue des Petites Ecuries 75010 Paris, Paris
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/new-morning/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/new-morning/)*

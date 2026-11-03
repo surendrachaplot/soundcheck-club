@@ -1,6 +1,6 @@
 # Mars The Vampire
 
-Mars The Vampire is a Ghetto Tech and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Poor Boy's, New Orleans on Sat, 7 Nov 2026.
+Mars The Vampire is a Ghetto Tech and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Poor Boy's, New Orleans on Sat, 7 Nov 2026.
 
 Mars The Vampire is a ghetto tech and electro artist based in United States of America, with 4 gigs on soundcheck across New Orleans. Often billed alongside Lord Chilla, Boytoy and DJ SWISHA. Next up: Poor Boy's, New Orleans on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Mars The Vampire is a ghetto tech and electro artist based in United States of A
 
 Lord Chilla, Boytoy, DJ SWISHA
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsthevampire/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsthevampire/)*

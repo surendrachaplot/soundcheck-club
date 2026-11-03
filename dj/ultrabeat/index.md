@@ -1,6 +1,6 @@
 # Ultrabeat
 
-Ultrabeat is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at SWG3, Glasgow on Sat, 7 Nov 2026.
+Ultrabeat is a Club and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SWG3, Glasgow on Sat, 7 Nov 2026.
 
 Ultrabeat is a club and trance artist based in United Kingdom, with 32 gigs on soundcheck across Edinburgh, Glasgow, Ibiza and Leeds and 6 more. Often billed alongside Billy Gillies, DJ Zitkus and Ian Van Dahl. Next up: SWG3, Glasgow on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ultrabeat is a club and trance artist based in United Kingdom, with 32 gigs on s
 
 Billy Gillies, DJ Zitkus, Ian Van Dahl
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabeat/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ultrabeat/)*

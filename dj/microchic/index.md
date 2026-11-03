@@ -1,6 +1,6 @@
 # Microchic
 
-Microchic is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
+Microchic is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Subdeck, Bratislava on Sat, 5 Dec 2026.
 
 Microchic is a techno and bass artist based in Slovakia, with 22 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside silver pearl, atomal and BBK. Next up: Subdeck, Bratislava on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Microchic is a techno and bass artist based in Slovakia, with 22 gigs on soundch
 
 silver pearl, atomal, BBK
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/microchic/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/microchic/)*

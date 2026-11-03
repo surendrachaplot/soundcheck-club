@@ -1,6 +1,6 @@
 # yyshuu
 
-yyshuu is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at Suree, Tokyo on Sun, 8 Nov 2026.
+yyshuu is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Suree, Tokyo on Sun, 8 Nov 2026.
 
 yyshuu is a minimal and house artist based in Japan, with 47 gigs on soundcheck across Barcelona, Lisbon, Prague and Seoul and 1 more. Often billed alongside yoshiken, Yos. and Ariaray. Next up: Suree, Tokyo on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ yyshuu is a minimal and house artist based in Japan, with 47 gigs on soundcheck 
 
 yoshiken, Yos., Ariaray
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yyshuu/)*

@@ -1,6 +1,6 @@
 # yung_womb
 
-yung_womb is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Mood Ring, New York City on Thu, 5 Nov 2026.
+yung_womb is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Mood Ring, New York City on Thu, 5 Nov 2026.
 
 yung_womb is a bass and techno artist based in Colombia, with 81 gigs on soundcheck across Berlin, Bogotá, Cologne and Colombia and 7 more. Often billed alongside SLIC Unit, Nissa Carrington and Slimgirl fat. Next up: Mood Ring, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ yung_womb is a bass and techno artist based in Colombia, with 81 gigs on soundch
 
 SLIC Unit, Nissa Carrington, Slimgirl fat
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yung_womb/)*

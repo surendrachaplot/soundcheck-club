@@ -1,6 +1,6 @@
 # Kobermann
 
-Kobermann is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Westbahnstudios, Vienna on Sat, 14 Nov 2026.
+Kobermann is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Westbahnstudios, Vienna on Sat, 14 Nov 2026.
 
 Kobermann is a house and electronica artist based in Austria, with 10 gigs on soundcheck across Berlin and Vienna. Often billed alongside Luca Carlotta, Tanja Turner and roxkza. Next up: Westbahnstudios, Vienna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kobermann is a house and electronica artist based in Austria, with 10 gigs on so
 
 Luca Carlotta, Tanja Turner, roxkza
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobermann/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobermann/)*

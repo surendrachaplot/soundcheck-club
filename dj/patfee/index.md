@@ -1,6 +1,6 @@
 # Pat Fee
 
-Pat Fee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Simone's, Chicago on Fri, 13 Nov 2026.
+Pat Fee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Simone's, Chicago on Fri, 13 Nov 2026.
 
 Pat Fee is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Chicago. Often billed alongside samantha rad, Amy Unland and Gabriel Palomo. Next up: Simone's, Chicago on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Pat Fee is a house and techno artist based in United States of America, with 72 
 
 samantha rad, Amy Unland, Gabriel Palomo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patfee/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patfee/)*

@@ -1,6 +1,6 @@
 # Cri du Coeur
 
-Cri du Coeur is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Off-Club, Belgium on Sat, 21 Nov 2026.
+Cri du Coeur is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Off-Club, Belgium on Sat, 21 Nov 2026.
 
 Cri du Coeur is a techno artist based in Belgium, with 4 gigs on soundcheck across Belgium, Berlin and Brussels. Often billed alongside Steve RedHead, Alina Nastichenko and Atlantic Energy. Next up: Off-Club, Belgium on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Cri du Coeur is a techno artist based in Belgium, with 4 gigs on soundcheck acro
 
 Steve RedHead, Alina Nastichenko, Atlantic Energy
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/criducoeur/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/criducoeur/)*

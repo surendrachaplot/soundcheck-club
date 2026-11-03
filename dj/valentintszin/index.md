@@ -1,6 +1,6 @@
 # Valentin Tszin
 
-Valentin Tszin is a Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Silent Green, Berlin on Wed, 2 Dec 2026.
+Valentin Tszin is a Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Silent Green, Berlin on Wed, 2 Dec 2026.
 
 Valentin Tszin is an experimental artist, with 3 gigs on soundcheck across Berlin. Often billed alongside CH3LO, Ka Baird and Little Vanya. Next up: Silent Green, Berlin on Wed 2 Dec.
 
@@ -19,4 +19,4 @@ Valentin Tszin is an experimental artist, with 3 gigs on soundcheck across Berli
 
 CH3LO, Ka Baird, Little Vanya
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentintszin/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentintszin/)*

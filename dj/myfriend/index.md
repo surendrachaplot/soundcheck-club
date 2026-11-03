@@ -1,6 +1,6 @@
 # My Friend
 
-My Friend is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at ZeyZey, Miami on Fri, 6 Nov 2026.
+My Friend is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at ZeyZey, Miami on Fri, 6 Nov 2026.
 
 My Friend is a progressive house and house artist based in United Kingdom, with 33 gigs on soundcheck across Atlanta, Austin, Belfast and Berlin and 12 more. Often billed alongside Braxton, Because of Art and Daniel Curpen. Next up: ZeyZey, Miami on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ My Friend is a progressive house and house artist based in United Kingdom, with 
 
 Braxton, Because of Art, Daniel Curpen
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myfriend/)*

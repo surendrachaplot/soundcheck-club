@@ -1,6 +1,6 @@
 # Carmo Rooftop
 
-Carmo Rooftop is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Groove Castle V5 - Lisbon Art Weekend Special" on Sat, 7 Nov 2026.
+Carmo Rooftop is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Groove Castle V5 - Lisbon Art Weekend Special" on Sat, 7 Nov 2026.
 
 Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including Juju Manju, Moulin.music, Rui Alves and Simonee and 1 more. See dates, start times and who's playing. Terraços do Carmo Lisboa.
 
@@ -17,4 +17,4 @@ Carmo Rooftop is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, 
 
 Terraços do Carmo Lisboa, Lisbon
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/carmo-rooftop/)*

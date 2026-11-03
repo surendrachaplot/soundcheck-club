@@ -1,13 +1,14 @@
 # Tobias Sommer
 
-Tobias Sommer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. Next at Café Flora, Brussels on Sat, 12 Dec 2026.
+Tobias Sommer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
 
-Tobias Sommer is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin, Brussels, Frankfurt and Freiburg and 2 more. Often billed alongside KEN (DE), Chris Bekker and Enjoyvoid. Next up: Café Flora, Brussels on Sat 12 Dec.
+Tobias Sommer is a techno and house artist based in Germany, with 51 gigs on soundcheck across Berlin, Brussels, Frankfurt and Freiburg and 2 more. Often billed alongside KEN (DE), Chris Bekker and Tim Hagemann. Next up: KitKatClub, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | KitKatClub | Berlin |
 | Sat, 12 Dec 2026 | Café Flora | Brussels |
 
 ## Recently played
@@ -23,6 +24,6 @@ Tobias Sommer is a techno and house artist based in Germany, with 50 gigs on sou
 
 ## Shares bills with
 
-KEN (DE), Chris Bekker, Enjoyvoid
+KEN (DE), Chris Bekker, Tim Hagemann
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiassommer/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiassommer/)*

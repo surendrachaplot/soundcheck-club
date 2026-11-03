@@ -1,6 +1,6 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Frederic. is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Frederic. is a techno and trance artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 44 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Frederic. is a techno and trance artist based in Germany, with 216 gigs on sound
 
 CAIVA, Part Time Killer, MCR-T
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*

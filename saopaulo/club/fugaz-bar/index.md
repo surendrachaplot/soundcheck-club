@@ -1,6 +1,6 @@
 # Fugaz Bar
 
-Fugaz Bar is a music venue in Sao Paulo with 6 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. The next is "Fugaz recebe Vini Pimenta" on Fri, 13 Nov 2026.
+Fugaz Bar is a music venue in Sao Paulo with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Fugaz recebe Vini Pimenta" on Fri, 13 Nov 2026.
 
 Fugaz Bar is a music venue in Sao Paulo listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Rua Cardeal Arcoverde, 1479.
 
@@ -19,4 +19,4 @@ Fugaz Bar is a music venue in Sao Paulo listed on soundcheck. 6 upcoming gigs. S
 
 Rua Cardeal Arcoverde, 1479, Sao Paulo
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/fugaz-bar/)*

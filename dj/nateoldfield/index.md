@@ -1,6 +1,6 @@
 # Nate Oldfield
 
-Nate Oldfield is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Mon, 2 Nov 2026. Next at fabric, London on Sat, 7 Nov 2026.
+Nate Oldfield is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at fabric, London on Sat, 7 Nov 2026.
 
 Nate Oldfield is a techno and minimal artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Josh Keit, Benny Bysouth and Bubs Baker. Next up: fabric, London on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ Nate Oldfield is a techno and minimal artist based in United Kingdom, with 2 gig
 
 Josh Keit, Benny Bysouth, Bubs Baker
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nateoldfield/)*
+*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nateoldfield/)*
