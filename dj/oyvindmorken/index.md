@@ -1,8 +1,8 @@
 # Øyvind Morken
 
-Øyvind Morken is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jaeger, Oslo on Fri, 13 Nov 2026.
+Øyvind Morken is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jaeger, Oslo on Fri, 13 Nov 2026.
 
-Øyvind Morken is a house and techno artist based in Norway, with 144 gigs on soundcheck across Chicago, London and Oslo. Often billed alongside G-HA, Olanskii and Olefonken. Next up: Jaeger, Oslo on Fri 13 Nov.
+Øyvind Morken is a house and techno artist based in Norway, with 145 gigs on soundcheck across Chicago, London and Oslo. Often billed alongside G-HA, Olanskii and Olefonken. Next up: Jaeger, Oslo on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Jaeger | Oslo |
 | Fri, 20 Nov 2026 | Jaeger | Oslo |
+| Thu, 26 Nov 2026 | Kafe Hærverk | Oslo |
 | Fri, 11 Dec 2026 | Jaeger | Oslo |
 | Fri, 18 Dec 2026 | Jaeger | Oslo |
 

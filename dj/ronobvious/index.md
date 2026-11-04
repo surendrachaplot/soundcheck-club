@@ -1,14 +1,15 @@
 # Ron Obvious
 
-Ron Obvious is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Distrikt, Leeds on Fri, 1 Jan 2027.
+Ron Obvious is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Distrikt, Leeds on Fri, 1 Jan 2027.
 
-Ron Obvious is a house and tech house artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Samuel Deep, DJ Senc and Doudou MD. Next up: Distrikt, Leeds on Fri 1 Jan.
+Ron Obvious is a house and tech house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Croatia and 8 more. Often billed alongside Samuel Deep, DJ Senc and Doudou MD. Next up: Distrikt, Leeds on Fri 1 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 1 Jan 2027 | Distrikt | Leeds |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

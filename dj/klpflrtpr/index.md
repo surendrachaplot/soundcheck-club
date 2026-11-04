@@ -1,13 +1,14 @@
 # klpflrtpr
 
-klpflrtpr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kassa Boat, Budapest on Fri, 20 Nov 2026.
+klpflrtpr is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Edith, Budapest on Thu, 19 Nov 2026.
 
-klpflrtpr is a techno and house artist based in Hungary, with 49 gigs on soundcheck across Budapest and Prague. Often billed alongside Meduzah, Kiqo and SLYM. Next up: Kassa Boat, Budapest on Fri 20 Nov.
+klpflrtpr is a techno and house artist based in Hungary, with 50 gigs on soundcheck across Budapest and Prague. Often billed alongside Meduzah, Kiqo and SLYM. Next up: Edith, Budapest on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Edith | Budapest |
 | Fri, 20 Nov 2026 | Kassa Boat | Budapest |
 | Sat, 19 Dec 2026 | Atno | Budapest |
 

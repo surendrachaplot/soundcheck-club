@@ -1,8 +1,8 @@
 # Trixie (UK)
 
-Trixie (UK) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 6 Nov 2026.
+Trixie (UK) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 6 Nov 2026.
 
-Trixie (UK) is a house and techno artist based in United Kingdom, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 4 more. Often billed alongside E. Alexander, Mauro Ferno and Myriam. Next up: La Cheetah Club, Glasgow on Fri 6 Nov.
+Trixie (UK) is a house and techno artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 4 more. Often billed alongside E. Alexander, Mauro Ferno and Myriam. Next up: La Cheetah Club, Glasgow on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Trixie (UK) is a house and techno artist based in United Kingdom, with 87 gigs o
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | La Cheetah Club | Glasgow |
 | Fri, 4 Dec 2026 | Starlane Pizza Bar | London |
+| Sat, 23 Jan 2027 | Night Tales | London |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
 ## Recently played

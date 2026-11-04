@@ -3427,16 +3427,17 @@ a.fst-t:hover{text-decoration:underline}
     .pfh-av{ width:72px; height:72px; border-radius:50%; background-size:cover; background-position:center; flex:0 0 auto; }
     button.pfh-av{ border:0; padding:0; cursor:pointer; }
     /* Profile picture picker (Paper NEXT · Profile pictures, 3 Nov 2026): one body, used in the modal and in onboarding. */
+    /* v2 (Paper NEXT "Profile picture picker v2 — one tap", 4 Nov): every set at once, one row each that scrolls sideways; one tap picks. */
     .avp{ display:flex; flex-direction:column; gap:20px; min-width:0; }
-    .avp-cur{ display:flex; align-items:center; gap:16px; }
-    .avp-cur i, .avp-g button{ display:block; border-radius:50%; background:var(--surface-2) center/cover no-repeat; }
-    .avp-cur i{ width:76px; height:76px; flex:none; }
-    .avp-sets{ display:flex; gap:8px; overflow-x:auto; scrollbar-width:none; min-width:0; }
-    .avp-sets::-webkit-scrollbar{ display:none; }
-    .avp-sets .up-chip{ flex:none; }
-    .avp-g{ display:grid; grid-template-columns:repeat(4, minmax(0, 76px)); justify-content:space-between; gap:16px 8px; min-height:168px; }
-    .avp-g button{ width:100%; aspect-ratio:1; border:0; padding:0; cursor:pointer; -webkit-tap-highlight-color:transparent; }
-    .avp-g button.on{ box-shadow:0 0 0 2px var(--surface), 0 0 0 5px var(--fg); }
+    .avp > .lg-pill{ align-self:flex-start; }
+    .avp-all{ display:flex; flex-direction:column; gap:20px; min-width:0; }
+    .avp-set{ display:flex; flex-direction:column; gap:10px; min-width:0; }
+    .avp-lbl{ font:700 var(--fs-2xs)/16px var(--font-mono); letter-spacing:.12em; text-transform:uppercase; color:var(--muted); }
+    .avp-row{ position:relative; display:flex; gap:12px; overflow-x:auto; scrollbar-width:none; padding:4px; margin:-4px; min-width:0; }
+    .avp-row::-webkit-scrollbar{ display:none; }
+    .avp-row button{ flex:none; width:64px; height:64px; border-radius:50%; border:0; padding:0; cursor:pointer; background:var(--surface-2) center/cover no-repeat; -webkit-tap-highlight-color:transparent; }
+    .avp-row button.on{ box-shadow:0 0 0 3px var(--surface), 0 0 0 6px var(--fg); }
+    @media(max-width:620px){ .avp-row button{ width:56px; height:56px; } }
     .avp-box h3{ margin:0; }
     .pfh-id{ flex:1; min-width:0; }
     .pfh-name{ font-family:var(--head); font-weight:800; font-size:var(--fs-2xl); letter-spacing:-.02em; margin:0 0 3px; }
@@ -3588,6 +3589,9 @@ a.fst-t:hover{text-decoration:underline}
     .fp-sk-th .gen .gt{ font:800 var(--fs-xs)/1.15 var(--head); color:rgba(255,255,255,.92);
       display:-webkit-box; -webkit-line-clamp:3; -webkit-box-orient:vertical; overflow:hidden; }
     .fp-sk-dur{ position:absolute; left:6px; bottom:6px; font:700 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); background:rgba(22,16,42,.82); color:var(--fg); border-radius:var(--radius-2xs); padding:2px 6px; }
+    /* RESUME CUE (Paper NEXT, 4 Nov 2026): how far into a set you left it, on the art's bottom edge */
+    .fp-sk-rs{ position:absolute; left:0; right:0; bottom:0; height:2px; background:rgba(22,16,42,.82); }
+    .fp-sk-rs i{ display:block; height:100%; background:var(--accent-grad); }
     .fp-sk-ti{ font:700 var(--fs-base)/var(--lh-base) var(--head); letter-spacing:-0.01em; line-height:1.2; margin-top:9px; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
     .fp-sk-ch{ font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); color:var(--muted); margin-top:4px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     /* set-shelf actions under each set card (queue / listened) */
@@ -5377,7 +5381,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793794369547">
+<meta name="sc-build" content="1793799895816">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5866,7 +5870,66 @@ a.fst-t:hover{text-decoration:underline}
       }
       if(!x){ P.key=''; if(!active && P.t){ clearInterval(P.t); P.t=null; } }
       P.on=playing;
+      if(playing && now-_resAt>=10000){ _resAt=now; resSave(); }   // every 10 s, so a closed tab comes back near where it was
     }
+    // ── RESUME: where each set was left, kept on this device (founder, 4 Nov 2026) ──
+    // key = trkSet's "yt:<videoId>" / "sc:<url>" (iOS uses the same). Value = [seconds, duration, saved at].
+    var RES_KEY='sc.resume', RES_END=120, _resAt=0;
+    function resAll(){ try{ return JSON.parse(localStorage.getItem(RES_KEY)||'{}')||{}; }catch(_){ return {}; } }
+    // Where a set starts: where it was left; 0 when that was in its last 2 minutes; null = never heard (the 6:00 rule).
+    function resumeAt(k){ var s=k&&resAll()[k]; if(!s||!(s[0]>5)) return null; return (s[1]>0 && s[0]>=s[1]-RES_END) ? 0 : s[0]; }
+    function resSave(){
+      var x=trkSet(); if(!x) return;
+      var p=livePos(), d=dur;
+      if(currentType==='yt'){ try{ var v=ytPlayer.getVideoData(); if(v && v.video_id && v.video_id!==x.id) return; d=ytPlayer.getDuration()||d; }catch(_){ return; } }   // a re-used player still holds the old video for a moment
+      if(!(d>0) || !(p>0)) return;
+      var a=resAll(); a[x.key]=[Math.floor(p),Math.floor(d),Date.now()];
+      // ponytail: the 400 newest kept; a server copy comes with the sign-in sync.
+      var ks=Object.keys(a); if(ks.length>400) ks.sort(function(m,n){ return a[m][2]-a[n][2]; }).slice(0,ks.length-400).forEach(function(k){ delete a[k]; });
+      try{ localStorage.setItem(RES_KEY,JSON.stringify(a)); }catch(_){}
+      resPaint(x.key); resPush(x.key, a[x.key]);
+    }
+    // Signed in: the place follows you to the apps (/api/positions, newer save wins per set).
+    var _resOut={}, _resT=null;
+    function resPush(k, v){
+      if(typeof currentUser==='undefined' || !currentUser) return;
+      _resOut[k]=v; if(_resT) return;
+      _resT=setTimeout(resFlush, ppOn?30000:0);   // playing: once in 30 s; a stop or a switch: now
+    }
+    function resFlush(){
+      clearTimeout(_resT); _resT=null;
+      var o=_resOut; _resOut={}; if(!Object.keys(o).length) return;
+      try{ authedFetch('/api/positions',{ method:'POST', keepalive:true, headers:{'Content-Type':'application/json'}, body:JSON.stringify({ positions:o }) }).catch(function(){}); }catch(_){}
+    }
+    function resPull(){
+      authedFetch('/api/positions').then(function(r){ return r.ok?r.json():null; }).then(function(j){
+        if(!j || !j.positions) return;
+        var a=resAll(), n=0;
+        Object.keys(j.positions).forEach(function(k){ var v=j.positions[k]; if(Array.isArray(v) && (!a[k] || a[k][2]<v[2])){ a[k]=v; n++; resPaint(k); } });
+        if(n){ try{ localStorage.setItem(RES_KEY,JSON.stringify(a)); }catch(_){} }
+      }).catch(function(){});
+    }
+    // The row cue: how far in, and the time left. null = never heard, only its first seconds, or finished.
+    function resLeft(k){
+      var s=k&&resAll()[k]; if(!s || !(s[0]>5) || !(s[1]>0) || s[0]>=s[1]-RES_END) return null;
+      return { f:Math.min(1,s[0]/s[1]), t:fmtT(s[1]-s[0])+' left' };
+    }
+    function resKeyOf(url){ var m=/^https:\/\/youtu\.be\/(.+)$/.exec(url||''); return m ? 'yt:'+m[1] : (url ? 'sc:'+url : ''); }
+    function resLineHTML(r){ return '<span class="fp-sk-rs"><i style="width:'+(r.f*100).toFixed(1)+'%"></i></span>'; }
+    // A row already on screen follows the save (stop a set, its row shows the cue at once).
+    function resPaint(k){
+      var r=resLeft(k);
+      document.querySelectorAll('.fp-skw[data-rk]').forEach(function(w){
+        if(w.dataset.rk!==k) return;
+        var th=w.querySelector('.fp-sk-th'), ln=w.querySelector('.fp-sk-rs'), du=w.querySelector('.fp-sk-dur'), mp=w.querySelector('.fp-sk-mp'), ar=w.querySelector('.fp-sk-ar');
+        if(ln) ln.remove(); if(r && th) th.insertAdjacentHTML('beforeend', resLineHTML(r));
+        if(du) du.textContent=r ? r.t : du.dataset.d;
+        if(mp) mp.textContent=[mp.dataset.dl, r ? r.t : mp.dataset.d].filter(Boolean).join(' \u00b7 ');
+        if(ar) ar.textContent=[ar.dataset.n, r ? r.t : ''].filter(Boolean).join(' \u00b7 ');
+      });
+    }
+    window.addEventListener('pagehide', function(){ resSave(); resFlush(); });
+    document.addEventListener('visibilitychange', function(){ if(document.hidden){ resSave(); resFlush(); } });
     function trkYtFail(code){ return code==='100' ? 'unavailable' : (code==='101'||code==='150') ? 'blocked' : (navigator.onLine===false ? 'network' : 'other'); }
     var _trkRad=null, _trkRadAuto=false;   // the weekend radio's quick start has its own hidden player (radioPlayEntry)
     // ── the actions ──
@@ -6394,6 +6457,7 @@ a.fst-t:hover{text-decoration:underline}
     }
     (function(){ var b=document.getElementById('dock-tl-btn'); if(b) b.addEventListener('click',openTracklistSheet); })();
     function stopActive(){
+      resSave(); resFlush();
       if(typeof radio!=='undefined' && radio.on) radioStop();
       _curStation=null;   // nothing is on air once the dock is torn down
       scQ=null;
@@ -6409,6 +6473,7 @@ a.fst-t:hover{text-decoration:underline}
     var SC_SKIP=360;        // 6:00 — the same start a YouTube set gets
     var SC_SKIP_MIN=600;    // …but only on something at least 10 minutes long
     function playSc(btn){
+      resSave();   // the set being replaced keeps its place
       clearPlayers(); currentType='sc';
       var f=document.createElement('iframe'); f.allow='autoplay'; f.className='sc';
       f.src='https://w.soundcloud.com/player/?url='+encodeURIComponent(btn.dataset.sc)+'&color=%23ff9a3d&auto_play=true&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=false';
@@ -6443,7 +6508,9 @@ a.fst-t:hover{text-decoration:underline}
             if(jumped) return;
             jumped=true;                      // one attempt either way, never a loop
             dur=secs; paintScrub();
-            if(secs > SC_SKIP_MIN && !btn.dataset.fromStart){ scWidget.seekTo(SC_SKIP*1000); pos=SC_SKIP; paintScrub(); }   // Listen plays from 0:00
+            var rs=resumeAt('sc:'+btn.dataset.sc);   // left part way: back there (0 = it was nearly over)
+            if(rs!=null){ if(rs>0){ scWidget.seekTo(rs*1000); pos=rs; paintScrub(); } }
+            else if(secs > SC_SKIP_MIN && !btn.dataset.fromStart){ scWidget.seekTo(SC_SKIP*1000); pos=SC_SKIP; paintScrub(); }   // Listen plays from 0:00
           });
         }
         scWidget.bind(SC.Widget.Events.PLAY,function(){ updatePP(true); jumpIn(); });
@@ -6525,7 +6592,10 @@ a.fst-t:hover{text-decoration:underline}
       if(typeof radio!=='undefined' && radio.on) radioStop();   // taking over from the radio
       // Clear the previously-playing button if we're switching tracks.
       if(active && active.button && active.button!==btn){ active.button.classList.remove('playing'); setState(active.button,'▶'); }
-      var start=Math.max(0,Math.floor(startSec==null||isNaN(startSec)?360:startSec)); // default 6:00 — a wink to "6 Minutes"; an explicit 0 means 0:00 (Listen)
+      resSave();   // the set being replaced keeps its place
+      // Left part way: back there (0 = it was nearly over). Only for a plain start or Listen's 0:00 — never over Undo or a track's drop.
+      var rs=(startSec==null||startSec===0) ? resumeAt('yt:'+videoId) : null;
+      var start=Math.max(0,Math.floor(rs!=null ? rs : (startSec==null||isNaN(startSec)?360:startSec))); // default 6:00 — a wink to "6 Minutes"; an explicit 0 means 0:00 (Listen)
       var f=document.getElementById('yt-player');
       // REUSE the persistent player when it's alive & ready: loadVideoById runs
       // inside this tap, so mobile autoplay is allowed — no second press needed.
@@ -6790,18 +6860,19 @@ a.fst-t:hover{text-decoration:underline}
     var _skRows=[];   // ponytail: what each row's more menu needs, by row number; small objects, lives for the session
     function setCardHTML(o){
       var dl=uploadLabel(o.date), title=o.title||'Set';
-      var web=[dl, o.src].filter(Boolean).join(' · '), ph=[dl, o.dur].filter(Boolean).join(' · ');
+      var rk=resKeyOf(o.url), rl=resLeft(rk);   // left part way: a line on the art + "45:12 left" (Paper "RESUME CUE")
+      var web=[dl, o.src].filter(Boolean).join(' · '), ph=[dl, rl?rl.t:o.dur].filter(Boolean).join(' · ');
       var ng=o.listen?gigLine(o.nextGig):'';
       var mi=_skRows.push({ key:o.key||'', title:title, thumb:o.thumb||'', slug:o.slug||'', name:o.name||'', nextGig:o.nextGig, url:o.url||'' })-1;
-      return '<div class="fp-skw'+(o.heard?' sk-heard':'')+'" data-mi="'+mi+'"'+(o.key?' data-sk="'+esc(o.key)+'"':'')+'><button class="fp-sk" type="button" '+o.attr+'="'+o.i+'">'+
+      return '<div class="fp-skw'+(o.heard?' sk-heard':'')+'" data-mi="'+mi+'"'+(o.key?' data-sk="'+esc(o.key)+'"':'')+(rk?' data-rk="'+esc(rk)+'"':'')+'><button class="fp-sk" type="button" '+o.attr+'="'+o.i+'">'+
         // A set with no artwork gets the generated poster, the same one the dock
         // and every event card use — an empty grey box reads as a failed load.
         '<span class="fp-sk-th"'+(o.thumb?' style="background-image:url(\''+esc(o.thumb)+'\')"':'')+'>'+(o.thumb?'':genPoster(title))+
-        (o.dur?'<span class="fp-sk-dur">'+esc(o.dur)+'</span>':'')+'</span>'+
+        (o.dur?'<span class="fp-sk-dur" data-d="'+esc(o.dur)+'">'+esc(rl?rl.t:o.dur)+'</span>':'')+(rl?resLineHTML(rl):'')+'</span>'+
         '<span class="fp-sk-tx"><span class="fp-sk-ti">'+esc(title)+'</span>'+
         (o.listen
-          ? (o.name?'<span class="fp-sk-ar">'+esc(o.name)+'</span>':'')+(ng?'<span class="fp-sk-ng">'+esc(ng)+'</span>':'')
-          : '<span class="fp-sk-ch"><span class="fp-sk-mw">'+esc(web)+'</span><span class="fp-sk-mp">'+esc(ph)+'</span>'+(SET_GLYPH[o.src]||'')+'</span>')+
+          ? (o.name?'<span class="fp-sk-ar" data-n="'+esc(o.name)+'">'+esc([o.name, rl?rl.t:''].filter(Boolean).join(' · '))+'</span>':'')+(ng?'<span class="fp-sk-ng">'+esc(ng)+'</span>':'')
+          : '<span class="fp-sk-ch"><span class="fp-sk-mw">'+esc(web)+'</span><span class="fp-sk-mp" data-dl="'+esc(dl||'')+'" data-d="'+esc(o.dur||'')+'">'+esc(ph)+'</span>'+(SET_GLYPH[o.src]||'')+'</span>')+
         '</span></button>'+
         // Heard rows show a violet tick where the save icon was. A set with no
         // Listen key (Mixcloud) keeps an empty 44 slot so the more icon lines up.
@@ -8289,7 +8360,7 @@ a.fst-t:hover{text-decoration:underline}
       if(currentUser){ hideSignupBanner(); if(prefs.pendingEmail) setPref('pendingEmail',''); } // signed up — clear the nudge
       else if(prefs.pendingEmail){ _pendingEmail=prefs.pendingEmail; showSignupBanner(prefs.pendingEmail); } // still pending — re-nudge
       if(currentUser||anonUser) await hydrateShelf();
-      if(currentUser) lsnHydrate(); else { _lsnAdded={}; _lsnHeard={}; }
+      if(currentUser){ lsnHydrate(); resPull(); } else { _lsnAdded={}; _lsnHeard={}; }
       if(currentUser){ maybePromptHandle(); if(currentUser.handleClaimed) maybePromptHomeCity(); }
       applyPrefCity();
       adoptLegacyLocal();
@@ -9141,28 +9212,32 @@ a.fst-t:hover{text-decoration:underline}
     var _avSets=null;
     function avSets(){ return _avSets || (_avSets=fetch(API_BASE+'/api/avatar/presets').then(function(r){ return r.json(); }).then(function(j){ return j.sets||[]; }).catch(function(){ _avSets=null; return []; })); }
     // Draws the picker into `root`; returns get() → the chosen preset id, or null when it is unchanged.
-    function avPicker(root){
-      var pick=null, set=null;
-      root.innerHTML='<div class="avp"><div class="avp-cur"><i></i><button class="lg-pill" data-ic="upload" type="button">Upload a photo</button></div>'+
-        '<div class="avp-sets" role="tablist"></div><div class="avp-g"></div></div>';
-      var cur=root.querySelector('.avp-cur i'), chips=root.querySelector('.avp-sets'), grid=root.querySelector('.avp-g');
-      function paint(){
-        var mine=currentUser&&currentUser.avatar, item=null;
-        _sets.forEach(function(s){ s.items.forEach(function(x){ if(x.id===pick || (!pick && x.image===mine)) item=x; }); });
-        cur.style.backgroundImage=avatarBg(currentUser&&currentUser.handle, item?item.image:mine);
-        chips.innerHTML=_sets.map(function(s){ return '<button class="up-chip'+(s.id===set?' on':'')+'" role="tab" aria-selected="'+(s.id===set)+'" data-set="'+s.id+'" type="button">'+esc(s.name)+'</button>'; }).join('');
-        var s=_sets.filter(function(x){ return x.id===set; })[0];
-        grid.innerHTML=s?s.items.map(function(x){ return '<button type="button" data-id="'+x.id+'" aria-label="'+esc(s.name)+' picture" class="'+(item===x?'on':'')+'" style="background-image:url('+x.image+')"></button>'; }).join(''):'';
+    // onPick(id) → Promise<bool>: set (the profile sheet) = one tap saves; left out (onboarding) = a tap only selects.
+    function avPicker(root, onPick){
+      var pick=null, busy=false, _sets=[];
+      root.innerHTML='<div class="avp"><button class="lg-pill" data-ic="upload" type="button">Upload a photo</button><div class="avp-all"></div></div>';
+      var all=root.querySelector('.avp-all');
+      function paint(scroll){
+        var mine=currentUser&&currentUser.avatar;
+        all.innerHTML=_sets.map(function(s){
+          return '<div class="avp-set"><div class="avp-lbl">'+esc(s.name)+'</div><div class="avp-row">'+s.items.map(function(x, i){
+            var on=pick?x.id===pick:x.image===mine;
+            return '<button type="button" data-id="'+x.id+'" aria-label="'+esc(s.name)+' picture '+(i+1)+'" aria-pressed="'+on+'" class="'+(on?'on':'')+'" style="background-image:url('+x.image+')"></button>';
+          }).join('')+'</div></div>';
+        }).join('');
+        if(scroll){ var b=all.querySelector('button.on'); if(b){ var r=b.parentNode; if(b.offsetLeft+b.offsetWidth>r.clientWidth) r.scrollLeft=b.offsetLeft-r.clientWidth/2+b.offsetWidth/2; } }
       }
-      var _sets=[];
-      avSets().then(function(sets){
-        _sets=sets; var mine=currentUser&&currentUser.avatar;
-        sets.forEach(function(s){ s.items.forEach(function(x){ if(x.image===mine) set=s.id; }); });
-        if(!set && sets[0]) set=sets[0].id;
-        paint();
+      avSets().then(function(sets){ _sets=sets; paint(true); });
+      all.addEventListener('click',async function(e){
+        var b=e.target.closest('[data-id]'); if(!b || busy) return;
+        // repainting resets each row's sideways scroll: keep it where the person left it
+        var was=pick, rows=[].map.call(all.querySelectorAll('.avp-row'),function(r){ return r.scrollLeft; });
+        function back(){ [].forEach.call(all.querySelectorAll('.avp-row'),function(r,i){ r.scrollLeft=rows[i]||0; }); }
+        pick=b.dataset.id; paint(); back();
+        if(!onPick) return;
+        busy=true; var ok=await onPick(pick); busy=false;
+        if(!ok){ pick=was; paint(); back(); }
       });
-      chips.addEventListener('click',function(e){ var b=e.target.closest('[data-set]'); if(b){ set=b.dataset.set; paint(); } });
-      grid.addEventListener('click',function(e){ var b=e.target.closest('[data-id]'); if(b){ pick=b.dataset.id; paint(); } });
       root.querySelector('.lg-pill').addEventListener('click',function(){ pickAvatar(function(){ pick=null; paint(); }); });
       return function(){ return pick; };
     }
@@ -9180,16 +9255,17 @@ a.fst-t:hover{text-decoration:underline}
     function openAvatarModal(){
       if(!currentUser) return;
       var ov=document.createElement('div'); ov.className='auth-overlay show';
-      ov.innerHTML='<div class="auth-box avp-box" style="max-width:420px;display:flex;flex-direction:column;gap:20px">'+
+      ov.innerHTML='<div class="auth-box avp-box" style="max-width:668px;display:flex;flex-direction:column;gap:20px">'+
         '<button class="auth-close" type="button" aria-label="Close">&times;</button>'+
-        '<h3>Profile picture</h3><div id="avp-body"></div>'+
-        '<button class="go" id="avp-go" data-ic="check" type="button" style="align-self:flex-start;margin-top:0">Save</button></div>';
+        '<h3>Profile picture</h3><div id="avp-body"></div></div>';
       document.body.appendChild(ov);
       function close(){ ov.remove(); }
-      var get=avPicker(ov.querySelector('#avp-body'));
+      avPicker(ov.querySelector('#avp-body'), async function(id){   // one tap = saved, the sheet closes
+        if(!(await avSave(id))) return false;
+        close(); showToast('Picture saved'); return true;
+      });
       ov.querySelector('.auth-close').addEventListener('click',close);
       ov.addEventListener('click',function(e){ if(e.target===ov) close(); });
-      ov.querySelector('#avp-go').addEventListener('click',async function(){ this.disabled=true; if(await avSave(get())){ close(); showToast('Picture saved'); } else this.disabled=false; });
     }
     onEl('auth-close','click',closeAuth);
     onEl('auth-sent-done','click',closeAuth);

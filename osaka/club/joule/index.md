@@ -9,7 +9,7 @@ Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | SPECTACULAR 7th ANNIVERSARY feat.  Hernan Cattaneo | DJ OGAWA, Hernan Cattaneo, Nao Nomura, Satoshi Tanaka, Senda, Takekiyo Ishimoto |
-| Sat, 7 Nov 2026 | Marcellus Pittman Japan Tour | Marcellus Pittman |
+| Sat, 7 Nov 2026 | Marcellus Pittman Japan Tour | KAITO., Marcellus Pittman |
 | Sat, 14 Nov 2026 | OSAKA NIGHT JOURNEY 2026 | Drunken Kong, EVE (1), FENGX2, KWC (2), Kaoll, LIZA (6), Nobuya, Risa Taniguchi, TENO, Taiske (2), Tsuyoshi Suzuki, WOLT, Yoji Biomehanika, ZAGUN, _goodbyeforever_, dyn (JP), kamesou, yu-more, 建築テクノ |
 | Tue, 29 Dec 2026 | テクノボウネンカイ-LAST TECHNO SESSION IN 2026- | Ken Ishii, Nao Nomura, Sugiurumn, Takkyu Ishino, YOKO aka LAiR |
 

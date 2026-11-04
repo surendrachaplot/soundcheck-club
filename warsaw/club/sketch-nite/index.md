@@ -1,6 +1,6 @@
 # Sketch NITE
 
-Sketch NITE is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Horror House: Enter If You Dare, day one" on Fri, 30 Oct 2026.
+Sketch NITE is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "ICED NITE: BLACK EDITION X WAIMA" on Fri, 6 Nov 2026.
 
 Sketch NITE is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Mazowiecka 11A, 00-052 Warszawa.
 
@@ -8,10 +8,10 @@ Sketch NITE is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Horror House: Enter If You Dare, day one |  |
+| Fri, 6 Nov 2026 | ICED NITE: BLACK EDITION X WAIMA |  |
 
 ## Address
 
 Mazowiecka 11A, 00-052 Warszawa, Warsaw
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/sketch-nite/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/sketch-nite/)*

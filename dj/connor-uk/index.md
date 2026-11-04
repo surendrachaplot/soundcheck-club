@@ -1,13 +1,14 @@
 # Connor (UK)
 
-Connor (UK) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
+Connor (UK) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
-Connor (UK) is a techno and house artist, with 32 gigs on soundcheck across Berlin, Bogotá, Liverpool and London and 4 more. Often billed alongside Deventi, quarter ohm and Rosie (UK). Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
+Connor (UK) is a techno and house artist, with 33 gigs on soundcheck across Berlin, Bogotá, Liverpool and London and 4 more. Often billed alongside Deventi, Rosie (UK) and quarter ohm. Next up: renae, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | renae | Manchester |
 | Sat, 26 Dec 2026 | The Golden Sheaf | New-south-wales |
 
 ## Recently played
@@ -23,6 +24,6 @@ Connor (UK) is a techno and house artist, with 32 gigs on soundcheck across Berl
 
 ## Shares bills with
 
-Deventi, quarter ohm, Rosie (UK)
+Deventi, Rosie (UK), quarter ohm
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connor-uk/)*

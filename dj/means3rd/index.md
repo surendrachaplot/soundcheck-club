@@ -1,14 +1,15 @@
 # Means&3rd
 
-Means&3rd is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 7 Nov 2026.
+Means&3rd is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 7 Nov 2026.
 
-Means&3rd is a techno and house artist based in United Kingdom, with 51 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Will A, Jim Bane and Kerrie. Next up: Eastern Bloc Records, Manchester on Sat 7 Nov.
+Means&3rd is a techno and house artist based in United Kingdom, with 52 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Will A, Jim Bane and Kerrie. Next up: Eastern Bloc Records, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Eastern Bloc Records | Manchester |
+| Fri, 27 Nov 2026 | renae | Manchester |
 
 ## Recently played
 

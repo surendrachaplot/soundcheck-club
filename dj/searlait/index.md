@@ -1,8 +1,8 @@
 # Séarlait
 
-Séarlait is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed, 18 Nov 2026.
+Séarlait is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed, 18 Nov 2026.
 
-Séarlait is a house and techno artist based in United Kingdom, with 114 gigs on soundcheck across Berlin, Byron Bay, London and Melbourne and 2 more. Often billed alongside Roka, Char(k) and Hannah D. Next up: TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed 18 Nov.
+Séarlait is a house and techno artist based in United Kingdom, with 115 gigs on soundcheck across Berlin, Byron Bay, Croatia and London and 3 more. Often billed alongside Roka, Char(k) and Hannah D. Next up: TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed 18 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Séarlait is a house and techno artist based in United Kingdom, with 114 gigs on
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 | Sat, 19 Dec 2026 | TBA | Melbourne |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Onur Özer
 
-Onur Özer is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Yard, Manchester on Sat, 7 Nov 2026.
+Onur Özer is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Yard, Manchester on Sat, 7 Nov 2026.
 
-Onur Özer is a techno and house artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 46 more. Often billed alongside Francesco Del Garda, Christian AB and Lumiere. Next up: The Yard, Manchester on Sat 7 Nov.
+Onur Özer is a techno and house artist based in Germany, with 131 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 46 more. Often billed alongside Francesco Del Garda, Christian AB and Lumiere. Next up: The Yard, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Onur Özer is a techno and house artist based in Germany, with 130 gigs on sound
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Yard | Manchester |
 | Sat, 14 Nov 2026 | Bunker | Turin |
+| Sat, 21 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sat, 28 Nov 2026 | Fuse | Brussels |
 | Fri, 4 Dec 2026 | Gewölbe | Cologne |
 | Thu, 31 Dec 2026 | TBA | Barcelona |

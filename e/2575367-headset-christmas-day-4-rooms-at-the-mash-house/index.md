@@ -1,6 +1,6 @@
-# Headset Christmas Day: 4 Rooms at The Mash House
+# Headset Christmas Day [4 Rooms] at The Mash House
 
-Headset Christmas Day: 4 Rooms at The Mash House on Fri 25 Dec, Edinburgh. See the line-up on soundcheck.
+Headset Christmas Day [4 Rooms] at The Mash House on Fri 25 Dec, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

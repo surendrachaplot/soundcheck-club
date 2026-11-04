@@ -1,14 +1,15 @@
 # Sunny D
 
-Sunny D is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 21 Nov 2026.
+Sunny D is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 21 Nov 2026.
 
-Sunny D is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, London, Manchester and Miami. Often billed alongside Buddy., Mason Wild and BABA (SA). Next up: Honey Street Studio, Manchester on Sat 21 Nov.
+Sunny D is a house and tech house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Edinburgh, London and Manchester and 1 more. Often billed alongside Buddy., Mason Wild and BABA (SA). Next up: Honey Street Studio, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Honey Street Studio | Manchester |
+| Wed, 2 Dec 2026 | Sneaky Pete's | Edinburgh |
 | Sat, 20 Feb 2027 | Het Sieraad | Amsterdam |
 
 ## Recently played

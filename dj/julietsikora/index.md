@@ -1,13 +1,14 @@
 # Juliet Sikora
 
-Juliet Sikora is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Juliet Sikora is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Pracht, Frankfurt on Fri, 27 Nov 2026.
 
-Juliet Sikora is a house and tech house artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Austria, Barcelona and Berlin and 12 more. Often billed alongside Tube & Berger, LOVRA and Simina Grigoriu. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Juliet Sikora is a house and tech house artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Austria, Barcelona and Berlin and 12 more. Often billed alongside Tube & Berger, LOVRA and Simina Grigoriu. Next up: Pracht, Frankfurt on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Pracht | Frankfurt |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played

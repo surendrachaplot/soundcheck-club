@@ -1,8 +1,8 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
+Hiroko Yamamura is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
 
-Hiroko Yamamura is a techno and house artist based in United States of America, with 169 gigs on soundcheck across Amsterdam, Arkansas, Austin and Bali and 43 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: The Momentary, Arkansas on Fri 6 Nov.
+Hiroko Yamamura is a techno and house artist based in United States of America, with 170 gigs on soundcheck across Amsterdam, Arkansas, Athens and Austin and 44 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: The Momentary, Arkansas on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 | Fri, 4 Dec 2026 | TBA | Michigan |
 | Tue, 29 Dec 2026 | ZEROTOKYO | Tokyo |
 | Wed, 30 Dec 2026 | Namura Zosenjo Atochi / Creative Center Osaka | Osaka |
+| Sun, 31 Jan 2027 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played

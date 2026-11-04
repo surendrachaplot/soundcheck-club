@@ -1,6 +1,6 @@
 # Bridge End Social
 
-Bridge End Social is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "Groove Social" on Fri, 23 Oct 2026.
+Bridge End Social is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Wax Social" on Sat, 7 Nov 2026.
 
 Bridge End Social is a music venue in Leeds listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Bridge End Social is a music venue in Leeds listed on soundcheck. 1 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Groove Social |  |
+| Sat, 7 Nov 2026 | Wax Social |  |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/bridge-end-social/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/bridge-end-social/)*

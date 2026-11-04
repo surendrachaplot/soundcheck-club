@@ -8,6 +8,6 @@ RAW- Lokschuppen + Astra Kulturhaus is a music venue in Berlin listed on soundch
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Dec 2026 | Polyamor x SESH | Alas (2), Alba Franch, Alex Friday, Athina, BNZN, Cara Elizabeth, Cleopard2000, DETOXX, DJ Cringey, DJ DRECKISCH, DJ SEXSTASY, DJ SPORTSCHUH, DJ YARAK, Danilo Filipe, Dollushka, Elotrance, Filialleiter, GEN97, JOKESONYOU, Justin Tinderdate, Kizu, Limoncello, Lisek, M4RY, MISS FRENXH, Mathilda, Mika Heggemann, Nyra, PANA (Ger), PRADA2000, Paraçek, Riana Holley, SATYS FYRE, Segun, Talia Dorr, The Muffin Man, Trancemaster Krause, VIVI909, Vagabund, XIMA, davyboi, juicy, snoritz |
+| Wed, 30 Dec 2026 | Polyamor x SESH | Alas (2), Alba Franch, Alex Friday, Athina, BNZN, Cara Elizabeth, Cleopard2000, DETOXX, DJ Cringey, DJ DRECKISCH, DJ SEXSTASY, DJ SPORTSCHUH, DJ YARAK, Danilo Filipe, Dollushka, Elotrance, Filialleiter, GEN97, JOKESONYOU, Justin Tinderdate, Kizu, Limoncello, Lisek, M4RY, MISS FRENXH, Mathilda, Mika Heggemann, Nyra, PANA (Ger), PRADA2000, Paraçek, Riana Holley, SATYS FYRE, Segun, Talia Dorr, TheMuffinMan, Trancemaster Krause, VIVI909, Vagabund, XIMA, davyboi, juicy, snoritz |
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/raw-lokschuppen-astra-kulturhaus/)*

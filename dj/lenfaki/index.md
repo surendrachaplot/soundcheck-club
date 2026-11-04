@@ -1,8 +1,8 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ulica Elektryków, Gdansk on Sat, 7 Nov 2026.
+Len Faki is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ulica Elektryków, Gdansk on Sat, 7 Nov 2026.
 
-Len Faki is a techno and house artist based in Germany, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Daria Kolosova, Sam Paganini and Chris Liebing. Next up: Ulica Elektryków, Gdansk on Sat 7 Nov.
+Len Faki is a techno and house artist based in Germany, with 166 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Daria Kolosova, Sam Paganini and Chris Liebing. Next up: Ulica Elektryków, Gdansk on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Len Faki is a techno and house artist based in Germany, with 165 gigs on soundch
 | Sat, 21 Nov 2026 | Link | Bologna |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 | Mon, 7 Dec 2026 | Under Club | Buenos Aires |
+| Fri, 11 Dec 2026 | Tokonoma Club | Frankfurt |
 | Thu, 31 Dec 2026 | Fuse | Brussels |
 
 ## Recently played

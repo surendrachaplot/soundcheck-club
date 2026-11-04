@@ -1,14 +1,15 @@
 # Rayzir
 
-Rayzir is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
+Rayzir is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Refuge, New York City on Sat, 14 Nov 2026.
 
-Rayzir is a house and tech house artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 6 more. Often billed alongside Benny Rodrigues, Karim Soliman and MENESIX. Next up: Refuge, New York City on Sat 14 Nov.
+Rayzir is a house and tech house artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Ibiza and 6 more. Often billed alongside Benny Rodrigues, Karim Soliman and MENESIX. Next up: Refuge, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Refuge | New York City |
+| Fri, 18 Dec 2026 | Toffler | Rotterdam |
 
 ## Recently played
 

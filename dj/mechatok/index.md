@@ -1,8 +1,8 @@
 # Mechatok
 
-Mechatok is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+Mechatok is a Experimental and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
 
-Mechatok is an experimental and electro artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Oli XL, Kamixlo and TOXE. Next up: Elastica, Vilnius on Thu 12 Nov.
+Mechatok is an experimental and electro artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Oli XL, Kamixlo and TOXE. Next up: Elastica, Vilnius on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mechatok is an experimental and electro artist based in Germany, with 79 gigs on
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Elastica | Vilnius |
 | Sat, 14 Nov 2026 | Village Underground | London |
+| Fri, 27 Nov 2026 | Copenhagen Contemporary | Copenhagen |
 
 ## Recently played
 

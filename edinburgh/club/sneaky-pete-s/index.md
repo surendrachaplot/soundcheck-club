@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 32 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Van Rouge & Friends: Hat Party - 20 tickets left (rest sold on Unify) " on Wed, 4 Nov 2026.
+Sneaky Pete's is a music venue in Edinburgh with 33 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Van Rouge & Friends: Hat Party - 20 tickets left (rest sold on Unify) " on Wed, 4 Nov 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gigs, with line-ups including YVI, Amber Leith, Big Miz and billybawbags and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 33 upcoming gigs, with line-ups including YVI, Amber Leith, Big Miz and billybawbags and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 
@@ -16,7 +16,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gi
 | Sun, 8 Nov 2026 | Postal 5th Birthday | Buckfast Barbie, DV60, Fierro Grande, JI_2001, Lara Sinclair, Mixfits (2) |
 | Mon, 9 Nov 2026 | Konversion |  |
 | Wed, 11 Nov 2026 | Juno Live |  |
-| Thu, 12 Nov 2026 | Refracta & Pals | Refracta |
+| Thu, 12 Nov 2026 | Refracta & Pals | Coben, Refracta, Torso |
 | Fri, 13 Nov 2026 | Palidrone: Dansa (LUCKYME) & Rudi | Dansa |
 
 ## Address

@@ -1,0 +1,28 @@
+# Benja Asima
+
+Benja Asima is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pracht, Frankfurt on Sat, 21 Nov 2026.
+
+Benja Asima is a tech house and techno artist based in Germany, with 23 gigs on soundcheck across Frankfurt. Often billed alongside BIANCA BLANCO, Another Life and Biagio Sibilla. Next up: Pracht, Frankfurt on Sat 21 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 21 Nov 2026 | Pracht | Frankfurt |
+
+## Recently played
+
+- Pracht, Frankfurt · Sat, 31 Oct 2026
+- Fortuna Irgendwo, Frankfurt · Fri, 16 Oct 2026
+- Pracht, Frankfurt · Sat, 26 Sept 2026
+- Pracht, Frankfurt · Sat, 22 Aug 2026
+- Pracht, Frankfurt · Fri, 31 Jul 2026
+- Pracht, Frankfurt · Sun, 24 May 2026
+- Pracht, Frankfurt · Fri, 1 May 2026
+- Pracht, Frankfurt · Sat, 11 Apr 2026
+
+## Shares bills with
+
+BIANCA BLANCO, Another Life, Biagio Sibilla
+
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaasima/)*

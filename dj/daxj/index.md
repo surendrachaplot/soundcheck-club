@@ -1,8 +1,8 @@
 # DAX J
 
-DAX J is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Atlanta on Sat, 7 Nov 2026.
+DAX J is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Atlanta on Sat, 7 Nov 2026.
 
-DAX J is a techno and house artist based in United Kingdom, with 305 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 91 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: TBA, Atlanta on Sat 7 Nov.
+DAX J is a techno and house artist based in United Kingdom, with 306 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 91 more. Often billed alongside SPFDJ, Daria Kolosova and Chlär. Next up: TBA, Atlanta on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DAX J is a techno and house artist based in United Kingdom, with 305 gigs on sou
 | Sat, 28 Nov 2026 | Lofi | Amsterdam |
 | Sat, 5 Dec 2026 | Fabrik | Madrid |
 | Fri, 11 Dec 2026 | Kompass Klub | Ghent |
+| Sat, 12 Dec 2026 | Centre Point | Dublin |
 | Fri, 18 Dec 2026 | fi | Cologne |
 | Thu, 24 Dec 2026 | SMUT Athens | Athens |
 | Fri, 5 Mar 2027 | Gate Milano | Milan |

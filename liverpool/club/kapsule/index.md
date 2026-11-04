@@ -1,8 +1,8 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re" on Sat, 14 Nov 2026.
+Kapsule is a music venue in Liverpool with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re" on Sat, 14 Nov 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Binh, Bobby., Bradley Zero and Cap and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 12 upcoming gigs, with line-ups including Aerofunk, Binh, Bobby. and Bradley Zero and 2 more. See dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 

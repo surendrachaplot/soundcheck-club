@@ -1,8 +1,8 @@
 # E.LINA
 
-E.LINA is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at PRST, Vienna on Fri, 6 Nov 2026.
+E.LINA is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at PRST, Vienna on Fri, 6 Nov 2026.
 
-E.LINA is a house and minimal artist based in Ukraine, with 166 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 43 more. Often billed alongside Annyrock, DJ Senc and Cap. Next up: PRST, Vienna on Fri 6 Nov.
+E.LINA is a house and minimal artist based in Ukraine, with 167 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Barcelona and 44 more. Often billed alongside Annyrock, DJ Senc and Cap. Next up: PRST, Vienna on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ E.LINA is a house and minimal artist based in Ukraine, with 166 gigs on soundche
 | Sat, 5 Dec 2026 | Signal | New York City |
 | Fri, 11 Dec 2026 | Shelter Amsterdam | Amsterdam |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

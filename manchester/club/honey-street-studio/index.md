@@ -15,7 +15,7 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 | Sun, 22 Nov 2026 | DAT_URA 004 |  |
 | Sat, 28 Nov 2026 | Banana Hill | Banana Hill, Cervo, Contours, King Kit |
 | Sat, 28 Nov 2026 | R2M with Il Bosco & Pangölin | Il Bosco, Liam Oliver, Pangölin, Tom2trax |
-| Fri, 4 Dec 2026 | (DnB & Jungle) Jaded Audio presents: ENTA at HoneyStreet Studio |  |
+| Fri, 4 Dec 2026 | (DnB & Jungle) Jaded Audio presents: ENTA at HoneyStreet Studio | Enta |
 | Sat, 12 Dec 2026 | ✦ CLUBCOSMICA ✦ [Baby Rollén / Niamh / KRÄFTY / Epler] | Baby Rollén, Epler, KRÄFTY, Niamh (2) |
 | Sat, 12 Dec 2026 | HØL x Perc Trax: Production Workshop with Perc, Arkane, INLIMEN | Arkane, INLIMEN, Perc |
 

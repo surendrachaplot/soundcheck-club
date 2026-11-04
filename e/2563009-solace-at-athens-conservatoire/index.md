@@ -1,6 +1,6 @@
 # SOLACE at Athens Conservatoire - Ωδείον Αθηνών
 
-SOLACE at Athens Conservatoire - Ωδείον Αθηνών on Sat 19 Dec, Athens. 7 artists: JFOX, Kingsmo, MAXImum and Nikos Thanos and 3 more. Techno and Electronica. See the line-up on soundcheck.
+SOLACE at Athens Conservatoire - Ωδείον Αθηνών on Sat 19 Dec, Athens. 8 artists: CHEX, JFOX, Kingsmo and MAXImum and 4 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SOLACE at Athens Conservatoire - Ωδείον Αθηνών on Sat 19 Dec, Athens
 
 ## Line-up
 
+- CHEX
 - JFOX
 - Kingsmo
 - MAXImum

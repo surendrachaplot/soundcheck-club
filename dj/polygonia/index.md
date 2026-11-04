@@ -1,8 +1,8 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ZENNER, Berlin on Thu, 5 Nov 2026.
+Polygonia is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ZENNER, Berlin on Thu, 5 Nov 2026.
 
-Polygonia is a techno and house artist based in Germany, with 250 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 72 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: ZENNER, Berlin on Thu 5 Nov.
+Polygonia is a techno and house artist based in Germany, with 251 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 73 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: ZENNER, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Polygonia is a techno and house artist based in Germany, with 250 gigs on soundc
 | Sat, 5 Dec 2026 | FOLD | London |
 | Fri, 22 Jan 2027 | Silent Green | Berlin |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

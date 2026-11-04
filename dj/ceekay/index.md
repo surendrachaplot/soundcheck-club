@@ -1,13 +1,14 @@
 # CEEKAY
 
-CEEKAY is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Joshua Brooks, Manchester on Fri, 5 Mar 2027.
+CEEKAY is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
-CEEKAY is a techno and dub techno artist based in United Kingdom, with 27 gigs on soundcheck across Liverpool and Manchester. Often billed alongside MAD Beats, Zoe Azad and DJ Elsie. Next up: Joshua Brooks, Manchester on Fri 5 Mar.
+CEEKAY is a techno and dub techno artist based in United Kingdom, with 28 gigs on soundcheck across Liverpool and Manchester. Often billed alongside MAD Beats, Zoe Azad and Connor (UK). Next up: renae, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | renae | Manchester |
 | Fri, 5 Mar 2027 | Joshua Brooks | Manchester |
 
 ## Recently played
@@ -23,6 +24,6 @@ CEEKAY is a techno and dub techno artist based in United Kingdom, with 27 gigs o
 
 ## Shares bills with
 
-MAD Beats, Zoe Azad, DJ Elsie
+MAD Beats, Zoe Azad, Connor (UK)
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ceekay/)*

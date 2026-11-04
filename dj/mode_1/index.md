@@ -1,14 +1,15 @@
 # Mode_1
 
-Mode_1 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Wigwam, Dublin on Sat, 7 Nov 2026.
+Mode_1 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Wigwam, Dublin on Sat, 7 Nov 2026.
 
-Mode_1 is a techno and electro artist based in Ireland, with 27 gigs on soundcheck across Berlin, Cork, Dublin and New York City. Often billed alongside Derv, MEJMI and Offtrack. Next up: Wigwam, Dublin on Sat 7 Nov.
+Mode_1 is a techno and electro artist based in Ireland, with 28 gigs on soundcheck across Berlin, Cork, Dublin and New York City. Often billed alongside Derv, MEJMI and Offtrack. Next up: Wigwam, Dublin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Wigwam | Dublin |
+| Sat, 12 Dec 2026 | Centre Point | Dublin |
 
 ## Recently played
 

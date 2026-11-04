@@ -1,8 +1,8 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vault Club, East on Sat, 7 Nov 2026.
+Andrey Pushkarev is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vault Club, East on Sat, 7 Nov 2026.
 
-Andrey Pushkarev is a house and minimal artist, with 111 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 48 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Vault Club, East on Sat 7 Nov.
+Andrey Pushkarev is a house and minimal artist, with 112 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 48 more. Often billed alongside Lola Palmer, Eli Verveine and Mihai Popoviciu. Next up: Vault Club, East on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Andrey Pushkarev is a house and minimal artist, with 111 gigs on soundcheck acro
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Vault Club | East |
 | Sat, 14 Nov 2026 | Tempo Club | Santiago-de-quer-taro |
+| Sat, 28 Nov 2026 | Turbina | Budapest |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "HARDPLACE x FREE ENTRY & BAR PROMO" on Thu, 5 Nov 2026.
+Noce KRK is a music venue in Krakow with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "HARDPLACE x FREE ENTRY & BAR PROMO" on Thu, 5 Nov 2026.
 
-Noce KRK is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with line-ups including Adriana Lopez, Aetha, diabot and Esquita and 2 more. See dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
+Noce KRK is a music venue in Krakow listed on soundcheck. 8 upcoming gigs, with line-ups including Adriana Lopez, Aetha, diabot and Esquita and 2 more. See dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 7 upcoming gigs, with 
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | HARDPLACE x FREE ENTRY & BAR PROMO | Polizei |
 | Fri, 6 Nov 2026 | Noce KRK: RWETES The Dance of Self-Undoing Release Party | Piotr Figiel, Rraph |
+| Sat, 7 Nov 2026 | DROP: SHANDRILL ALL NIGHTER |  |
 | Tue, 10 Nov 2026 | TECHNOSESSIONS 05: AM END MAREK (DE), LASKAA, MRV, RAJZ | MRV (1), RAJZ |
 | Fri, 13 Nov 2026 | FEED #11 with Adriana Lopez (PoleGroup / Semantica / Grey Report) | Adriana Lopez, Aetha, Hellix, Jusvybe, Zee-Pa, diabot |
 | Sat, 14 Nov 2026 | Terror Heaven - 8. YEARS | innominepatrix |

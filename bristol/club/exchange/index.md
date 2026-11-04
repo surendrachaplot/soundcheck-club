@@ -1,17 +1,17 @@
 # Exchange
 
-Exchange is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Oscillate Presents: Deselecta" on Fri, 30 Oct 2026.
+Exchange is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "OPENHAUS PRESENTS: Arctic Groove (TICKET LINK IN DECSRIPTION)" on Sat, 5 Dec 2026.
 
-Exchange is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including Deselecta. See dates, start times and who's playing. 72-73 Old Market; Bristol BS2 0EJ; United Kingdom.
+Exchange is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including SUFI. See dates, start times and who's playing. 72-73 Old Market; Bristol BS2 0EJ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Oscillate Presents: Deselecta | Deselecta |
+| Sat, 5 Dec 2026 | OPENHAUS PRESENTS: Arctic Groove (TICKET LINK IN DECSRIPTION) | SUFI |
 
 ## Address
 
 72-73 Old Market; Bristol BS2 0EJ; United Kingdom, Bristol
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*

@@ -1,8 +1,8 @@
 # Kyle Toole
 
-Kyle Toole is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location, Mallorca on Sat, 7 Nov 2026.
+Kyle Toole is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location, Mallorca on Sat, 7 Nov 2026.
 
-Kyle Toole is a house and techno artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Kian OK, DJ Dustin and Millie McKee. Next up: TBA - Secret Location, Mallorca on Sat 7 Nov.
+Kyle Toole is a house and techno artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Kian OK, DJ Dustin and Hamish & Toby. Next up: TBA - Secret Location, Mallorca on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kyle Toole is a house and techno artist based in United Kingdom, with 99 gigs on
 | Fri, 27 Nov 2026 | radial | London |
 | Fri, 11 Dec 2026 | Cobalt Studios | Newcastle |
 | Fri, 18 Dec 2026 | Last Arch | London |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Kyle Toole is a house and techno artist based in United Kingdom, with 99 gigs on
 
 ## Shares bills with
 
-Kian OK, DJ Dustin, Millie McKee
+Kian OK, DJ Dustin, Hamish & Toby
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kyletoole/)*

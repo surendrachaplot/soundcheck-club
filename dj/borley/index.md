@@ -1,14 +1,15 @@
 # BORLEY
 
-BORLEY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 18 Nov 2026.
+BORLEY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sneaky Pete's, Edinburgh on Wed, 18 Nov 2026.
 
-BORLEY is a house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Edinburgh and Leeds. Often billed alongside PASO, ARWEN and BING (UK). Next up: Sneaky Pete's, Edinburgh on Wed 18 Nov.
+BORLEY is a house and techno artist based in United Kingdom, with 28 gigs on soundcheck across Edinburgh and Leeds. Often billed alongside PASO, ARWEN and BING (UK). Next up: Sneaky Pete's, Edinburgh on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Sneaky Pete's | Edinburgh |
+| Thu, 3 Dec 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 

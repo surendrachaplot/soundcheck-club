@@ -1,8 +1,8 @@
 # Medis
 
-Medis is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
+Medis is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
 
-Medis is a dubstep and bass artist based in United Kingdom, with 41 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Neek, Amy Kisnorbo and Commodo. Next up: The Island, Bristol on Thu 31 Dec.
+Medis is a bass and dubstep artist based in United Kingdom, with 41 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Neek, Amy Kisnorbo and Commodo. Next up: The Island, Bristol on Thu 31 Dec.
 
 ## Upcoming shows
 

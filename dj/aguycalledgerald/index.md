@@ -1,8 +1,8 @@
 # A Guy Called Gerald
 
-A Guy Called Gerald is a House and Acid artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Castle & Falcon, Birmingham on Wed, 4 Nov 2026.
+A Guy Called Gerald is a House and Acid artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Castle & Falcon, Birmingham on Wed, 4 Nov 2026.
 
-A Guy Called Gerald is a house and acid artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: The Castle & Falcon, Birmingham on Wed 4 Nov.
+A Guy Called Gerald is a house and acid artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 41 more. Often billed alongside Will B, gyrofield and Ben UFO. Next up: The Castle & Falcon, Birmingham on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ A Guy Called Gerald is a house and acid artist based in United Kingdom, with 122
 | Fri, 4 Dec 2026 | Sonnenraum | Berlin |
 | Fri, 29 Jan 2027 | Night Tales | London |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

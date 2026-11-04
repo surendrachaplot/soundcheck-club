@@ -1,14 +1,15 @@
 # Cheff The Boy
 
-Cheff The Boy is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ouseburn Garden, Newcastle on Sat, 7 Nov 2026.
+Cheff The Boy is a Jungle and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ouseburn Garden, Newcastle on Sat, 7 Nov 2026.
 
-Cheff The Boy is a jungle and drum & bass artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, Dundee, Leeds and Liverpool and 4 more. Often billed alongside Fez the Kid, Artificial Red and Betsy Mae. Next up: Ouseburn Garden, Newcastle on Sat 7 Nov.
+Cheff The Boy is a jungle and hardcore artist based in United Kingdom, with 28 gigs on soundcheck across Bristol, Dundee, Leeds and Liverpool and 5 more. Often billed alongside Fez the Kid, Artificial Red and Betsy Mae. Next up: Ouseburn Garden, Newcastle on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Ouseburn Garden | Newcastle |
+| Sat, 12 Dec 2026 | Mono | Rotterdam |
 
 ## Recently played
 

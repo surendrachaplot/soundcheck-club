@@ -1,8 +1,8 @@
 # livwutang
 
-livwutang is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
+livwutang is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
 
-livwutang is a techno and house artist based in United States of America, with 217 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 55 more. Often billed alongside Kia (AU), CCL and Nick León. Next up: M.O.T, London on Fri 6 Nov.
+livwutang is a techno and house artist based in United States of America, with 218 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 56 more. Often billed alongside Kia (AU), CCL and Richard Akingbehin. Next up: M.O.T, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ livwutang is a techno and house artist based in United States of America, with 2
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | M.O.T | London |
 | Sat, 7 Nov 2026 | Yamamori Tengu | Dublin |
+| Fri, 13 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sat, 21 Nov 2026 | Open Ground | Wuppertal |
 | Sat, 28 Nov 2026 | Nowadays | New York City |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
@@ -30,6 +31,6 @@ livwutang is a techno and house artist based in United States of America, with 2
 
 ## Shares bills with
 
-Kia (AU), CCL, Nick León
+Kia (AU), CCL, Richard Akingbehin
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/livwutang/)*

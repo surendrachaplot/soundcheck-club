@@ -1,14 +1,15 @@
 # ELLE FIERCE
 
-ELLE FIERCE is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club NYX, Amsterdam on Sat, 7 Nov 2026.
+ELLE FIERCE is a Techno and Pop artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club NYX, Amsterdam on Sat, 7 Nov 2026.
 
-ELLE FIERCE is a techno and pop artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Suzie The Cockroach, dj g2g and 3DMA. Next up: Club NYX, Amsterdam on Sat 7 Nov.
+ELLE FIERCE is a techno and pop artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Suzie The Cockroach, dj g2g and 3DMA. Next up: Club NYX, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Club NYX | Amsterdam |
+| Fri, 27 Nov 2026 | Copenhagen Contemporary | Copenhagen |
 
 ## Recently played
 

@@ -10,7 +10,7 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, 
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | SUBCERO x WAKUKO | BEJA |
 | Fri, 6 Nov 2026 | Subcero x A Series of Melodies | Francesco Collesei |
-| Sat, 7 Nov 2026 | Subcero x Quinoa Experience | Chris Gorrie, Gromma, JoyBoy |
+| Sat, 7 Nov 2026 | Subcero x Quinoa Experience | Chris Gorrie, Gromma, Joy Boy |
 | Thu, 12 Nov 2026 | Subcero x Glow Up | Petunia Clark |
 | Fri, 13 Nov 2026 | Subcero x Fahrenight | Filippo Costantini, Lorenzo Sidoti |
 | Sat, 14 Nov 2026 | Subcero x Verboten | ARSA, Vilor |

@@ -17,7 +17,7 @@ Movers is a music venue in Nottingham listed on soundcheck. 23 upcoming gigs, wi
 | Fri, 13 Nov 2026 | redluck records: unlucky for some - Gabriel Rai, Touré, Vitamin T & Corvair | Gabriel Rai, Touré |
 | Sat, 14 Nov 2026 | Dancing Time 2: African, Brazilian, Tropical & Latin with Stu Hemulem |  |
 | Thu, 19 Nov 2026 | BBC Radio 6 Music: New Music Fix Live | Crazy P, Grace Sands |
-| Fri, 20 Nov 2026 | Electroclash: indie, dance & post-punk - dance with attitude |  |
+| Fri, 20 Nov 2026 | Loveletter to... Geese |  |
 
 ## Address
 

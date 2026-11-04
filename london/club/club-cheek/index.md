@@ -1,8 +1,8 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Private Funktion: Nina Yamada, Offie Mag DJs, Hiren Parmar & Eman Pav" on Fri, 6 Nov 2026.
+Club Cheek is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Private Funktion: Nina Yamada, Offie Mag DJs, Hiren Parmar & Eman Pav" on Fri, 6 Nov 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Ruby SD, Amit, Ariane V and batgirl and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Ruby SD, Amit, Ariane V and batgirl and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Club Cheek is a music venue in London listed on soundcheck. 13 upcoming gigs, wi
 | Fri, 20 Nov 2026 | D4NCE THERAPY - VOL 2 | MIDRIB, Proc Fiskal |
 | Sat, 21 Nov 2026 | BRIXTON BOOGIE ALLNIGHTER |  |
 | Fri, 27 Nov 2026 | Meet In The MIDI | Karim Bitar, T.NO, Tovsky, mi-el, siân manee |
+| Sat, 28 Nov 2026 | Elevation: 4 Year Celebration with Special Guests | Cosmo Sofi, K15, joey manzi, nath eps |
 | Fri, 4 Dec 2026 | Floor Play presents: Lola Haro  | Lola Haro, Ruby SD, batgirl |
-| Sat, 5 Dec 2026 | The 2 Bears |  |
 
 ## Address
 

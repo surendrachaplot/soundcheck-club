@@ -1,0 +1,16 @@
+# Subculture with Stevie Cox + Blasha & Allatt [House Set] // 11pm - 5am at Sub Club
+
+Subculture with Stevie Cox + Blasha & Allatt [House Set] // 11pm - 5am at Sub Club on Sat 5 Dec, Glasgow. 2 artists: Blasha & Allatt and Stevie Cox. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 5 Dec 2026 |
+| Venue | Sub Club |
+| City | Glasgow |
+
+## Line-up
+
+- Blasha & Allatt
+- Stevie Cox
+
+*Source: [soundcheck](https://soundcheck.club/e/2549903-subculture-with-stevie-cox-blasha-allatt-house-set-11pm-5am/)*

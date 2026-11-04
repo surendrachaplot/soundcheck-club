@@ -1,8 +1,8 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 7 Nov 2026.
+Theo Parrish is a House and Funk / Soul artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 7 Nov 2026.
 
-Theo Parrish is a house and funk / soul artist based in United States of America, with 134 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 34 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Frankhan Selectist, Istanbul on Sat 7 Nov.
+Theo Parrish is a house and funk / soul artist based in United States of America, with 135 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Frankhan Selectist, Istanbul on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 | Sun, 29 Nov 2026 | Nowadays | New York City |
 | Fri, 11 Dec 2026 | FOLD | London |
 | Sun, 13 Dec 2026 | Haus der Visionäre | Berlin |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

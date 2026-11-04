@@ -1,8 +1,8 @@
 # The Horse & Groom
 
-The Horse & Groom is a music venue in London with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "That Friday night Feeling ! free launch party with  Brockney C " on Fri, 6 Nov 2026.
+The Horse & Groom is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "That Friday night Feeling ! free launch party with  Brockney C " on Fri, 6 Nov 2026.
 
-The Horse & Groom is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Blink Twice, Brockney C, Cowlick and Ed Vedra and 2 more. See dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
+The Horse & Groom is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Blink Twice, Brockney C, Cowlick and Ed Vedra and 2 more. See dates, start times and who's playing. 28 Curtain Road; Shoreditch; London EC2A 3NZ; United Kingdom.
 
 ## What's on
 
@@ -17,6 +17,7 @@ The Horse & Groom is a music venue in London listed on soundcheck. 9 upcoming gi
 | Fri, 27 Nov 2026 | Ed Vedra & Friends free Friday night party | Blink Twice, Cowlick, Ed Vedra, Em i6 |
 | Sat, 28 Nov 2026 | Stage One | Grant McKay, Industry Standard, Nick Muir, Redfreya |
 | Sat, 5 Dec 2026 | Soul Selectors daytime Xmas party |  |
+| Sat, 19 Dec 2026 | Unique Rhythm free Christmas party | Mark Osborne |
 
 ## Address
 

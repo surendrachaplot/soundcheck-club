@@ -9,7 +9,7 @@ Grand Central Hall is a music venue in Liverpool listed on soundcheck. 3 upcomin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | In Search Of Sunrise / Liverpool ft. Markus Schulz & more | Andy Moor, Markus Schulz, Super8 & Tab |
-| Fri, 27 Nov 2026 | Armand Van Helden - Liverpool | Armand Van Helden, Chapter 47, Route 94 |
+| Fri, 27 Nov 2026 | Armand Van Helden - Liverpool | Armand Van Helden, Chapter 47 |
 | Fri, 11 Dec 2026 | Colours House Party Presents Danny Tenaglia | Danny Tenaglia |
 
 ## Address

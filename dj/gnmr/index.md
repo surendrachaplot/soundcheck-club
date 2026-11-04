@@ -1,8 +1,8 @@
 # GNMR
 
-GNMR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
+GNMR is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hoppetosse, Berlin on Sat, 7 Nov 2026.
 
-GNMR is a techno and house artist based in Italy, with 152 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: Hoppetosse, Berlin on Sat 7 Nov.
+GNMR is a techno and house artist based in Italy, with 153 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Marcolino, IRIDE and Giammarco Orsini. Next up: Hoppetosse, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ GNMR is a techno and house artist based in Italy, with 152 gigs on soundcheck ac
 | Sat, 7 Nov 2026 | Hoppetosse | Berlin |
 | Fri, 20 Nov 2026 | Signal | New York City |
 | Sat, 21 Nov 2026 | StereoBar | Montreal |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Que Sakamoto
 
-Que Sakamoto is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+Que Sakamoto is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
-Que Sakamoto is a house and techno artist based in Japan, with 79 gigs on soundcheck across Barcelona, Beijing, Berlin and Bogotá and 28 more. Often billed alongside Giu Nunez, André Galluzzi and Annyrock. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
+Que Sakamoto is a house and techno artist based in Japan, with 80 gigs on soundcheck across Barcelona, Beijing, Berlin and Bogotá and 29 more. Often billed alongside Cabanne, Carl H and Giu Nunez. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Que Sakamoto is a house and techno artist based in Japan, with 79 gigs on soundc
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - Brooman NSW | Sydney |
 | Fri, 27 Nov 2026 | TBA - Budawangs | New-south-wales |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Que Sakamoto is a house and techno artist based in Japan, with 79 gigs on soundc
 
 ## Shares bills with
 
-Giu Nunez, André Galluzzi, Annyrock
+Cabanne, Carl H, Giu Nunez
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quesakamoto/)*

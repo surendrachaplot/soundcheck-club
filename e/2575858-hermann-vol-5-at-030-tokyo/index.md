@@ -1,6 +1,6 @@
 # Hermann Vol.5 at 030.Tokyo
 
-Hermann Vol.5 at 030.Tokyo on Wed 11 Nov, Tokyo. 3 artists: Kurea, tnseei and YAMAREN. See the line-up on soundcheck.
+Hermann Vol.5 at 030.Tokyo on Wed 11 Nov, Tokyo. 3 artists: Kurea, tnseei and YAMAREN. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

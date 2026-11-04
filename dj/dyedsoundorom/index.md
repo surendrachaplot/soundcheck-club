@@ -1,8 +1,8 @@
 # Dyed Soundorom
 
-Dyed Soundorom is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at UMI, Brussels on Sat, 7 Nov 2026.
+Dyed Soundorom is a House and Minimal artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at UMI, Brussels on Sat, 7 Nov 2026.
 
-Dyed Soundorom is a house and minimal artist based in France, with 247 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 62 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: UMI, Brussels on Sat 7 Nov.
+Dyed Soundorom is a house and minimal artist based in France, with 248 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 63 more. Often billed alongside Shonky, Apollonia and Dan Ghenacia. Next up: UMI, Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Dyed Soundorom is a house and minimal artist based in France, with 247 gigs on s
 | Fri, 4 Dec 2026 | Floyd | Miami |
 | Sat, 12 Dec 2026 | fabric | London |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

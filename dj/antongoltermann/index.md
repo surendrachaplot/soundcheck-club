@@ -1,13 +1,14 @@
 # Anton Goltermann
 
-Anton Goltermann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at RUST, Copenhagen on Thu, 25 Mar 2027.
+Anton Goltermann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jolene, Copenhagen on Thu, 12 Nov 2026.
 
-Anton Goltermann is a house and techno artist based in Denmark, with 53 gigs on soundcheck across Copenhagen. Often billed alongside DJ 2LATE, ASTA MARI and Arto. Next up: RUST, Copenhagen on Thu 25 Mar.
+Anton Goltermann is a house and techno artist based in Denmark, with 54 gigs on soundcheck across Copenhagen. Often billed alongside DJ 2LATE, ASTA MARI and Arto. Next up: Jolene, Copenhagen on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Jolene | Copenhagen |
 | Thu, 25 Mar 2027 | RUST | Copenhagen |
 
 ## Recently played

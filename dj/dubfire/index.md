@@ -1,8 +1,8 @@
 # Dubfire
 
-Dubfire is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Audio Club, Geneva on Fri, 6 Nov 2026.
+Dubfire is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Audio Club, Geneva on Fri, 6 Nov 2026.
 
-Dubfire is a techno and house artist based in United States of America, with 174 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 62 more. Often billed alongside Anfisa Letyago, Joseph Capriati and Deep Dish. Next up: Audio Club, Geneva on Fri 6 Nov.
+Dubfire is a techno and house artist based in United States of America, with 175 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 62 more. Often billed alongside Anfisa Letyago, Joseph Capriati and Deep Dish. Next up: Audio Club, Geneva on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dubfire is a techno and house artist based in United States of America, with 174
 | Fri, 6 Nov 2026 | Audio Club | Geneva |
 | Sat, 7 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
+| Fri, 11 Dec 2026 | Universe Athens | Athens |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played

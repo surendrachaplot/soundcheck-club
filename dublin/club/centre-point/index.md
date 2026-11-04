@@ -1,8 +1,8 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Pegassi" on Fri, 13 Nov 2026.
+Centre Point is a music venue in Dublin with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Pegassi" on Fri, 13 Nov 2026.
 
-Centre Point is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, with line-ups including Annie Mac, The Avalanches, Ayolxi and BAUGRUPPE90 and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
+Centre Point is a music venue in Dublin listed on soundcheck. 12 upcoming gigs, with line-ups including Annie Mac, The Avalanches, Ayolxi and BAUGRUPPE90 and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
 ## What's on
 
@@ -15,9 +15,9 @@ Centre Point is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, 
 | Fri, 27 Nov 2026 | SOAP x Centre Point: BAUGRUPPE90 + Megra | BAUGRUPPE90, Megra |
 | Sat, 28 Nov 2026 | Dave Clarke, DeFeKT - Live & Kaycee | Dave Clarke, DeFeKT, Kaycee |
 | Fri, 4 Dec 2026 | Dennis Quin b2b Job de Jong – All Night Long | Dennis Quin, Job de Jong |
+| Sat, 12 Dec 2026 | DAX J & Mode_1 & Keeva G | DAX J, Keeva G, Mode_1 |
 | Sat, 19 Dec 2026 | Surgeon - Live, Sunil Sharpe & Ayolxi | Ayolxi, Sunil Sharpe, Surgeon |
 | Fri, 5 Feb 2027 | Annie Mac 'Before Midnight' - Friday, February 5th | Annie Mac |
-| Fri, 5 Mar 2027 | Annie Mac 'Before Midnight' - Friday, March 5th | Annie Mac |
 
 ## Address
 

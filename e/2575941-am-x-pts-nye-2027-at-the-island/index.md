@@ -1,6 +1,6 @@
 # AM x PTS ϟ NYE 2027 at The Island
 
-AM x PTS ϟ NYE 2027 at The Island on Thu 31 Dec, Bristol. 13 artists: ALYA L, Anina, Bruce and Clarity and 9 more. See the line-up on soundcheck.
+AM x PTS ϟ NYE 2027 at The Island on Thu 31 Dec, Bristol. 13 artists: ALYA L, Anina, Bruce and Clarity and 9 more. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Noizar
 
-Noizar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
+Noizar is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at M.O.T, London on Fri, 6 Nov 2026.
 
-Noizar is a techno and house artist based in Ukraine, with 132 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Shakolin, Karine and Marie K. Next up: M.O.T, London on Fri 6 Nov.
+Noizar is a techno and house artist based in Ukraine, with 133 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Shakolin, Karine and Marie K. Next up: M.O.T, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Noizar is a techno and house artist based in Ukraine, with 132 gigs on soundchec
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | M.O.T | London |
 | Fri, 13 Nov 2026 | EXIT Glasgow | Glasgow |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

@@ -10,9 +10,9 @@ Legal is a music venue in Munich listed on soundcheck. 8 upcoming gigs, with lin
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | SENTAKU SHOWCASE w./ Massaï, Almedina, III Spleen, Goiaba & Olli Rubber | Almedina (2), Goiaba, Massaï, Olli Rubber |
 | Sat, 7 Nov 2026 | Legal KLUNBACHT w./ Hanno, Jorkes, Seba, Fajan & tanjuesch | Hanno, Jorkes, Seba, tanjuesch |
-| Fri, 13 Nov 2026 | Legal x string with André Zimmer, VINCI, Haze | Andre Zimmer, Haze (GER) |
+| Fri, 13 Nov 2026 | Legal x STRING with Andre Zimmer, VINCI, Haze, WITTGENSTEIN, VSMR | Andre Zimmer, Haze (GER), Okarim, VSMR, WITTGENSTEIN |
 | Fri, 13 Nov 2026 | STRING w./ Andre Zimmer, Haze, VINCI, VSMR, WITTGENSTEIN, B2H, Cheek2Cheek, Fraz S. & Okarim | Andre Zimmer, Haze (1), Okarim, VSMR, WITTGENSTEIN |
-| Sat, 14 Nov 2026 | EXCHANGE: TOKONOMA w./ Maruwa, Bliss, not even noticed, Tiago Walter, ZSZS  | Bliss (1), Cosmic Cherry, Maruwa, Tiago Walter, ZSZS, not even noticed |
+| Sat, 14 Nov 2026 | EXCHANGE: TOKONOMA w./ Bliss, not even noticed, Tiago Walter, ZSZS,Cool T b2b cmjk | Bliss (1), Cosmic Cherry, Maruwa, Tiago Walter, ZSZS, not even noticed |
 | Fri, 20 Nov 2026 | Legal KLUBNACHT w./ Christian AB, Almedina, Olli Rubber, Spyral, & Lala Umpf | Almedina (2), Christian AB, Lala Umpf, Olli Rubber |
 | Sat, 21 Nov 2026 | Legal SPEZIAL: DAY & NIGHT w./ Andi Britz, Ellice, Ethel, Giorgio Fast, Lavandonia, Niko S | Andi Britz, David Franz, Ellice, Ethel, Lavandonia, Neverglass, Tuff Monty |
 | Thu, 26 Nov 2026 | THE BIG BINGO NIGHT |  |

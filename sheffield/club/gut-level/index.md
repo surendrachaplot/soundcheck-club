@@ -1,8 +1,8 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Happy Endings" on Fri, 6 Nov 2026.
+Gut Level is a music venue in Sheffield with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Happy Endings" on Fri, 6 Nov 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bethan and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bethan and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
@@ -13,11 +13,11 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, 
 | Fri, 13 Nov 2026 | Sleazy Peelers (02) w/ Rosie Ama, Kay Fabe, Betty & Paniolo | Kay Fabe, Paniolo, Rosie Ama |
 | Sat, 14 Nov 2026 | LEATHERDYKE - 4 YEARS OF PISS, SWEAT, AND TEARS | MYNA, TB-316 |
 | Thu, 19 Nov 2026 | Gut Level presents: Ben Vince, Leo Hermitt & Phoneutrian | Ben Vince |
+| Sat, 21 Nov 2026 | Who Needs Guitars Anyway |  |
 | Fri, 27 Nov 2026 | Kitchen Radio's 2nd Birthday |  |
 | Sat, 5 Dec 2026 | Fast & Bi-Furious Sheffield | Buggery Grips, Thorpey |
 | Fri, 11 Dec 2026 | Club Rez 011 |  |
 | Sat, 12 Dec 2026 | Orange Room w/ Aquamarine [Wet Dreamz] | Aquamarine, Backseat Driver, Bubbles (UK), Paniolo |
-| Fri, 26 Feb 2027 | TAKIN'LIBERTIES TL00?? with Peverelist | Chris Jackson, Peverelist |
 
 ## Address
 

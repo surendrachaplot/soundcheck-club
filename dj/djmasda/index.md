@@ -1,8 +1,8 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Studionotte, Milan on Fri, 6 Nov 2026.
+DJ Masda is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Studionotte, Milan on Fri, 6 Nov 2026.
 
-DJ Masda is a techno and house artist based in Japan, with 233 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 61 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Studionotte, Milan on Fri 6 Nov.
+DJ Masda is a techno and house artist based in Japan, with 234 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 61 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Studionotte, Milan on Fri 6 Nov.
 
 ## Upcoming shows
 

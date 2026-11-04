@@ -12,7 +12,7 @@ Moon Club is a music venue in Bristol listed on soundcheck. 9 upcoming gigs, wit
 | Sat, 14 Nov 2026 | Naughty Parrot presents: Bristol Takeover |  |
 | Sat, 14 Nov 2026 | Naughty Parrot presents: Bristol Moon Club Takeover | RIJ. |
 | Thu, 19 Nov 2026 | Ramble presents: Seb Odyssey | Seb Odyssey |
-| Sat, 21 Nov 2026 | Fumiya Tanaka | Fumiya Tanaka |
+| Sat, 21 Nov 2026 | Eminent w/ Fumiya Tanaka | Fumiya Tanaka |
 | Sat, 21 Nov 2026 | Dave 'Love' Lee | Dave Lee |
 | Fri, 4 Dec 2026 | High Canopy w/Carl Finlow aka Silicon Scally LIVE, EKATA b2b Kodah, Arkist and Second Storey | Arkist, Carl Finlow, EKATA, Kodah, Second Storey |
 | Sat, 5 Dec 2026 | BANJAX Originals |  |

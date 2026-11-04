@@ -1,8 +1,8 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Plot 22, Sheffield on Fri, 6 Nov 2026.
+Soul Mass Transit System is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Plot 22, Sheffield on Fri, 6 Nov 2026.
 
-Soul Mass Transit System is a garage and house artist based in United Kingdom, with 165 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Plot 22, Sheffield on Fri 6 Nov.
+Soul Mass Transit System is a garage and house artist based in United Kingdom, with 166 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Plot 22, Sheffield on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 | Fri, 6 Nov 2026 | Plot 22 | Sheffield |
 | Fri, 13 Nov 2026 | La Cheetah Club | Glasgow |
 | Sat, 14 Nov 2026 | Kapsule | Liverpool |
+| Sat, 21 Nov 2026 | block. | Dublin |
 | Sat, 28 Nov 2026 | Cardiff Students' Union - The Great Hall | Cardiff |
 | Fri, 4 Dec 2026 | Digital | Newcastle |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |

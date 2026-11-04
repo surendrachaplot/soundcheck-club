@@ -2,7 +2,7 @@
 
 Mastak is a music venue in Warsaw with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Pantano Libero 06" on Fri, 6 Nov 2026.
 
-Mastak is a music venue in Warsaw listed on soundcheck. 15 upcoming gigs, with line-ups including Adrian Skiba, Axis Operandi, Inhaberin and Internal Observer and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
+Mastak is a music venue in Warsaw listed on soundcheck. 15 upcoming gigs, with line-ups including Adrian Skiba, Alex Kosta, Axis Operandi and Inhaberin and 2 more. See dates, start times and who's playing. Solec 81B, Wieżyca, 00-382 Warszawa.
 
 ## What's on
 
@@ -15,8 +15,8 @@ Mastak is a music venue in Warsaw listed on soundcheck. 15 upcoming gigs, with l
 | Fri, 13 Nov 2026 | Mastak 2ND BIRTHDAY: DAY 1 - LAMPA NIGHT | JESS.mp5, Plastik (1), Puha, Samogulov, Shjva, ira mos, zeroday |
 | Sat, 14 Nov 2026 | Label Night |  |
 | Sat, 14 Nov 2026 | Mastak 2ND BIRTHDAY: DAY 2 - LABEL NIGHT | Axis Operandi, Inhaberin (2), Nightfall, Pean, Salat, koktelbel |
-| Sun, 15 Nov 2026 | SUNDAY: Walrus / Sasha Planeta | Walrus, WhoTestDJ |
-| Fri, 20 Nov 2026 | Opposites | MARCUCCIO |
+| Sun, 15 Nov 2026 | SUNDAY B-DAY CLOSING: Walrus / Sasha Planeta | Walrus, WhoTestDJ |
+| Fri, 20 Nov 2026 | Opposites | Alex Kosta, MARCUCCIO |
 | Sat, 21 Nov 2026 | L.A.N.L. IV – Live Acts All Night Long IV | Internal Observer, Private Press |
 
 ## Address

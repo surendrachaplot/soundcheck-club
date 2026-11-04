@@ -1,8 +1,8 @@
 # Mha iri
 
-Mha iri is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 12 Nov 2026.
+Mha iri is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 12 Nov 2026.
 
-Mha iri is a techno and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 49 more. Often billed alongside Alan Fitzpatrick, Eli Brown and Joyhauser. Next up: Noto Philadelphia, Philadelphia on Thu 12 Nov.
+Mha iri is a techno and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Athens, Auckland and Barcelona and 49 more. Often billed alongside Alan Fitzpatrick, Eli Brown and Joyhauser. Next up: Noto Philadelphia, Philadelphia on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mha iri is a techno and tech house artist based in United Kingdom, with 123 gigs
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Noto Philadelphia | Philadelphia |
 | Sat, 14 Nov 2026 | House of Yes | New York City |
+| Sat, 21 Nov 2026 | Tanzhaus West | Frankfurt |
 | Sat, 28 Nov 2026 | Nordstern | Basel |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |
 | Fri, 4 Dec 2026 | SWG3 | Glasgow |

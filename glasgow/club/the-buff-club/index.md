@@ -10,7 +10,7 @@ The Buff Club is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs,
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Red Light Disco | Daniel Hive, Shaka Loves You |
 | Fri, 13 Nov 2026 | ✧ GROOVE SERVICE with TERAGROOVE ✧ FREE ENTRY ✧ | djsmuz |
-| Fri, 20 Nov 2026 | GROOVE SERVICE RESIDENTS |  |
+| Fri, 20 Nov 2026 | ✧ GROOVE SERVICE RESIDENTS ✧ FREE ENTRY ✧ |  |
 | Fri, 27 Nov 2026 | ✧ GROOVE SERVICE with ATOMIC PLAYBOY ✧ FREE ENTRY ✧ | djsmuz |
 
 ## Address

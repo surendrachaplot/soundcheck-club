@@ -1,8 +1,8 @@
-# TBA - The Den
+# TBA - The DEN 
 
-TBA - The Den is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Triad" on Sat, 21 Nov 2026.
+TBA - The DEN  is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Triad" on Sat, 21 Nov 2026.
 
-TBA - The Den is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
+TBA - The DEN  is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

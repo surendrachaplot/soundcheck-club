@@ -10,7 +10,7 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 8 upcoming gig
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | RED LINE: ANDATA - Techno, Hard Bounce & Hard Trance in Dublin | ALPER SKR, ANDATA, SAMUX, WINSLAO |
 | Fri, 6 Nov 2026 | EUPHONIC PRESENTS ANOLUXX [DEBUT SHOW] | ALX (IE), Trypdø |
-| Sat, 7 Nov 2026 | HORN: A Dark Room Energy Hypnotic HOTBOXX Techno Cage Rave - Yrsen | Yrsen |
+| Sat, 7 Nov 2026 | HORN x HOTBOXX: A Raw Hardgroove Hypnotic Techno Cage Rave - invites Yrsen | Yrsen |
 | Sun, 8 Nov 2026 | MGNA Crrrta & ideasforconversations |  |
 | Thu, 12 Nov 2026 | End of an Error |  |
 | Fri, 13 Nov 2026 | The Daft Punk Experience |  |

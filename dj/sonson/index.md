@@ -1,14 +1,15 @@
 # Sonson
 
-Sonson is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pimpernel, Munich on Sat, 7 Nov 2026.
+Sonson is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Pimpernel, Munich on Sat, 7 Nov 2026.
 
-Sonson is a house and electro artist based in Germany, with 109 gigs on soundcheck across Munich. Often billed alongside Thomas Herb, Alice DiMar and Basti Grub. Next up: Pimpernel, Munich on Sat 7 Nov.
+Sonson is a house and electro artist based in Germany, with 110 gigs on soundcheck across Munich. Often billed alongside Thomas Herb, Alice DiMar and Basti Grub. Next up: Pimpernel, Munich on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Pimpernel | Munich |
+| Sun, 15 Nov 2026 | Pimpernel | Munich |
 
 ## Recently played
 

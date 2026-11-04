@@ -1,8 +1,8 @@
 # H-Foundation
 
-H-Foundation is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+H-Foundation is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-H-Foundation is a tech house and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam, Chicago, Denver and London and 5 more. Often billed alongside Doc Martin, Frank Haag and Halo Varga. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+H-Foundation is a tech house and house artist based in United States of America, with 14 gigs on soundcheck across Amsterdam, Chicago, Croatia and Denver and 6 more. Often billed alongside Halo Varga, Hipp-e and Doc Martin. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ H-Foundation is a tech house and house artist based in United States of America,
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Sat, 28 Nov 2026 | Quartyard | San Diego |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ H-Foundation is a tech house and house artist based in United States of America,
 
 ## Shares bills with
 
-Doc Martin, Frank Haag, Halo Varga
+Halo Varga, Hipp-e, Doc Martin
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hfoundation/)*

@@ -1,6 +1,6 @@
 # Selezioni alla finestra at Dischixfiaschi
 
-Selezioni alla finestra at Dischixfiaschi on Sat 5 Dec, Rome. Funk / Soul and Afrobeat. See the line-up on soundcheck.
+Selezioni alla finestra at Dischixfiaschi on Sat 5 Dec, Rome. Afrobeat and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

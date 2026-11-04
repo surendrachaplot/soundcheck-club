@@ -1,6 +1,6 @@
-# PrachtNACHT with ELIF, Dario Milkovic, THYS B2B Corios · 𝑇𝑖𝑐𝑘𝑒𝑡𝑠 𝑠𝑜𝑜𝑛 at Pracht
+# PrachtNACHT with ELIF, Dario Milkovic, THYS B2B Corios · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘 at Pracht
 
-PrachtNACHT with ELIF, Dario Milkovic, THYS B2B Corios · 𝑇𝑖𝑐𝑘𝑒𝑡𝑠 𝑠𝑜𝑜𝑛 on Sat 7 Nov, Frankfurt. 4 artists: Corios, Dario Milkovic, ELIF and THYS. Progressive House and Tech House. See the line-up on soundcheck.
+PrachtNACHT with ELIF, Dario Milkovic, THYS B2B Corios · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘 on Sat 7 Nov, Frankfurt. 4 artists: Corios, Dario Milkovic, ELIF and THYS. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # JAXX TMS
 
-JAXX TMS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
+JAXX TMS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
 
-JAXX TMS is a house and techno artist based in Germany, with 103 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside yung_womb, SLIC Unit and DJ Westfa. Next up: Tresor / Globus, Berlin on Sat 14 Nov.
+JAXX TMS is a house and techno artist based in Germany, with 104 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 12 more. Often billed alongside yung_womb, SLIC Unit and DJ Westfa. Next up: Tresor / Globus, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Tresor / Globus | Berlin |
+| Fri, 20 Nov 2026 | Jumbi | London |
 | Sat, 28 Nov 2026 | Golden Pudel Club | Hamburg |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Dora Mask
 
-Dora Mask is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Samis Bar, Athens on Sat, 7 Nov 2026.
+Dora Mask is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Samis Bar, Athens on Sat, 7 Nov 2026.
 
-Dora Mask is a techno and electro artist based in Greece, with 67 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside IMPVLSIV, Icarus in love and Miss Trouli. Next up: Samis Bar, Athens on Sat 7 Nov.
+Dora Mask is a techno and electro artist based in Greece, with 68 gigs on soundcheck across Athens and Thessaloniki. Often billed alongside IMPVLSIV, Icarus in love and Miss Trouli. Next up: Samis Bar, Athens on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dora Mask is a techno and electro artist based in Greece, with 67 gigs on soundc
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Samis Bar | Athens |
 | Fri, 13 Nov 2026 | Romantso | Athens |
+| Sun, 31 Jan 2027 | Athens Conservatoire - Ωδείον Αθηνών | Athens |
 
 ## Recently played
 

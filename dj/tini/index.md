@@ -1,8 +1,8 @@
 # tINI
 
-tINI is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Fünk, Mexico City on Fri, 6 Nov 2026.
+tINI is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Fünk, Mexico City on Fri, 6 Nov 2026.
 
-tINI is a house and techno artist based in Germany, with 266 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 69 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Fünk, Mexico City on Fri 6 Nov.
+tINI is a house and techno artist based in Germany, with 267 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 70 more. Often billed alongside Gene On Earth, Anthea and Dyed Soundorom. Next up: Fünk, Mexico City on Fri 6 Nov.
 
 ## Upcoming shows
 

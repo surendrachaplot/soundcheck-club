@@ -9,7 +9,7 @@ Palazzo Permanens is a music venue in Budapest listed on soundcheck. 8 upcoming 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Palazzo Cold Nights | GIGASET |
-| Sat, 7 Nov 2026 | SANTSAT POP-UP! | Adis Is OK, Vava (1) |
+| Sat, 7 Nov 2026 | SANTSAT POP-UP! | Adis Is OK, PHIA, Vava (1) |
 | Fri, 13 Nov 2026 | RUMBLE XXL | 96zen, Helena Lua, Raijin, Solange, Sonic Rain, THIRD 2HIFT, schraeder |
 | Sat, 14 Nov 2026 | POPSHE @ Palazzo Permanens w/ Hien, Dj Seksee, Emochanel, Kali & Queens | HIEN, Kali |
 | Fri, 20 Nov 2026 | Crime with An Chen | An Chen, CRIME, SABBER, THIRD 2HIFT |

@@ -1,6 +1,6 @@
 # CIRCLE x STORNO (anniversary) at Tokonoma Club
 
-CIRCLE x STORNO (anniversary) at Tokonoma Club on Fri 20 Nov, Frankfurt. 3 artists: Carmen Electro, GERKE and SHDW. See the line-up on soundcheck.
+CIRCLE x STORNO (anniversary) at Tokonoma Club on Fri 20 Nov, Frankfurt. 3 artists: Carmen Electro, GERKE and SHDW. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SANTSAT POP-UP! at Palazzo Permanens
 
-SANTSAT POP-UP! at Palazzo Permanens on Sat 7 Nov, Budapest. 2 artists: Adis Is OK and Vava. House and Disco. See the line-up on soundcheck.
+SANTSAT POP-UP! at Palazzo Permanens on Sat 7 Nov, Budapest. 3 artists: Adis Is OK, PHIA and Vava. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SANTSAT POP-UP! at Palazzo Permanens on Sat 7 Nov, Budapest. 2 artists: Adis Is 
 ## Line-up
 
 - Adis Is OK
+- PHIA
 - Vava (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2559195-santsat-pop-up-at-palazzo-permanens/)*

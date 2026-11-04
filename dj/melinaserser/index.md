@@ -1,8 +1,8 @@
 # Melina Serser
 
-Melina Serser is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 14 Nov 2026.
+Melina Serser is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 14 Nov 2026.
 
-Melina Serser is a house and techno artist based in Uruguay, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 13 more. Often billed alongside Jane Fitz, DJ Koolt and ASIA (DE). Next up: Les Enfants Brillants, Barcelona on Sat 14 Nov.
+Melina Serser is a house and techno artist based in Uruguay, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 14 more. Often billed alongside Jane Fitz, DJ Koolt and e/tape. Next up: Les Enfants Brillants, Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Melina Serser is a house and techno artist based in Uruguay, with 56 gigs on sou
 | Sat, 14 Nov 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 5 Dec 2026 | Gaffe | London |
 | Fri, 2 Apr 2027 | TBA | Sheffield |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Melina Serser is a house and techno artist based in Uruguay, with 56 gigs on sou
 
 ## Shares bills with
 
-Jane Fitz, DJ Koolt, ASIA (DE)
+Jane Fitz, DJ Koolt, e/tape
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melinaserser/)*

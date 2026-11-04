@@ -15,7 +15,7 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming gigs,
 | Sat, 14 Nov 2026 | EXIT CLUB | HUNTRESS, Stefan Goldmann, TRSSX |
 | Sat, 14 Nov 2026 | Rubadub & Sähko present Museum of Sound | Mika Vainio, Russell Haswell |
 | Fri, 20 Nov 2026 | A.D.S.R w/ Keepsakes, Shedcat, manu_facturer | Keepsakes, Shedcat, manu_facturer |
-| Sat, 21 Nov 2026 | EXIT CLUB | Kerrie |
+| Sat, 21 Nov 2026 | EXIT CLUB | Brandon Lee Vear, Kerrie |
 | Fri, 27 Nov 2026 | Elegia x EXIT: Veronica Vasicka, Cthonnor Soma, faux naïf, JayJay | Conor Thomas, Faux Naif, JayJay, Veronica Vasicka |
 | Sat, 28 Nov 2026 | EXIT CLUB |  |
 

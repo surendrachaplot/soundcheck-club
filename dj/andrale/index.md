@@ -1,13 +1,14 @@
 # Andrale
 
-Andrale is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 19 Dec 2026.
+Andrale is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Pracht, Frankfurt on Sat, 28 Nov 2026.
 
-Andrale is a techno and tech house artist based in Germany, with 34 gigs on soundcheck across Frankfurt, Heidelberg and Munich. Often billed alongside Bait and Switch, Frau Laura and Bo Irion. Next up: Tanzhaus West, Frankfurt on Sat 19 Dec.
+Andrale is a techno and tech house artist based in Germany, with 35 gigs on soundcheck across Frankfurt, Heidelberg and Munich. Often billed alongside Bait and Switch, Frau Laura and Bo Irion. Next up: Pracht, Frankfurt on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Pracht | Frankfurt |
 | Sat, 19 Dec 2026 | Tanzhaus West | Frankfurt |
 
 ## Recently played

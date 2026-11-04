@@ -1,6 +1,6 @@
 # Herbstglühen am Elbkanal at Turtur
 
-Herbstglühen am Elbkanal at Turtur on Fri 20 Nov, Hamburg. 4 artists: Bouncing Mirrors, Dino S, IRAD and romp (DE). See the line-up on soundcheck.
+Herbstglühen am Elbkanal at Turtur on Fri 20 Nov, Hamburg. 5 artists: Ali Rajat, Bouncing Mirrors, Dino S and IRAD and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Herbstglühen am Elbkanal at Turtur on Fri 20 Nov, Hamburg. 4 artists: Bouncing 
 
 ## Line-up
 
+- Ali Rajat
 - Bouncing Mirrors
 - Dino S
 - IRAD

@@ -2,7 +2,7 @@
 
 Oliver Sylo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Circle Club Offenburg, Freiburg on Sat, 28 Nov 2026.
 
-Oliver Sylo is a techno and tech house artist, with 11 gigs on soundcheck across Freiburg and Stuttgart. Often billed alongside Alle Farben, Anina Owly and Thomas Klipps. Next up: Circle Club Offenburg, Freiburg on Sat 28 Nov.
+Oliver Sylo is a techno and tech house artist based in Germany, with 11 gigs on soundcheck across Freiburg and Stuttgart. Often billed alongside Alle Farben, Anina Owly and Thomas Klipps. Next up: Circle Club Offenburg, Freiburg on Sat 28 Nov.
 
 ## Upcoming shows
 

@@ -1,14 +1,15 @@
 # Convextion
 
-Convextion is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 4 Dec 2026.
+Convextion is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Biltmore Cabaret, Vancouver on Fri, 4 Dec 2026.
 
-Convextion is a techno and electro artist based in United States of America, with 21 gigs on soundcheck across Barcelona, Berlin, Dallas/Fort Worth and Detroit and 11 more. Often billed alongside E.R.P., Cygnus and Kudeki. Next up: Biltmore Cabaret, Vancouver on Fri 4 Dec.
+Convextion is a techno and electro artist based in United States of America, with 22 gigs on soundcheck across Barcelona, Berlin, Croatia and Dallas/Fort Worth and 12 more. Often billed alongside E.R.P., Cygnus and Kudeki. Next up: Biltmore Cabaret, Vancouver on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | Biltmore Cabaret | Vancouver |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

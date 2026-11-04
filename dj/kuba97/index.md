@@ -1,8 +1,8 @@
 # Kuba'97
 
-Kuba'97 is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Kuba'97 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
-Kuba'97 is a techno and house artist based in Belgium, with 80 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 23 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Crevette Records, Brussels on Wed 4 Nov.
+Kuba'97 is a techno and house artist based in Belgium, with 81 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 24 more. Often billed alongside DJ Rino, Dana Kuehr and Ben Kamal. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Kuba'97 is a techno and house artist based in Belgium, with 80 gigs on soundchec
 | Sat, 14 Nov 2026 | 宀 Club | Hong Kong |
 | Sat, 21 Nov 2026 | 201 Below | Perth |
 | Sat, 28 Nov 2026 | TBA | Sydney |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

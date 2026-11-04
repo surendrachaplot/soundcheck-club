@@ -1,8 +1,8 @@
 # dj sweet6teen
 
-dj sweet6teen is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Badaboum, Paris on Fri, 6 Nov 2026.
+dj sweet6teen is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Badaboum, Paris on Fri, 6 Nov 2026.
 
-dj sweet6teen is a house and techno artist based in Germany, with 273 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Gene On Earth. Next up: Badaboum, Paris on Fri 6 Nov.
+dj sweet6teen is a house and techno artist based in Germany, with 274 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 59 more. Often billed alongside Angel D'lite, Peach and Sansibar. Next up: Badaboum, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@ dj sweet6teen is a house and techno artist based in Germany, with 273 gigs on so
 
 ## Shares bills with
 
-Angel D'lite, Peach, Gene On Earth
+Angel D'lite, Peach, Sansibar
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsweet6teen/)*

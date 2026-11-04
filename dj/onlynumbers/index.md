@@ -1,8 +1,8 @@
 # Onlynumbers
 
-Onlynumbers is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 13 Nov 2026.
+Onlynumbers is a Techno and Hardcore artist with 16 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 13 Nov 2026.
 
-Onlynumbers is a techno and hardcore artist based in France, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Lehmann Club, Stuttgart on Fri 13 Nov.
+Onlynumbers is a techno and hardcore artist based in France, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 60 more. Often billed alongside NOVAH, KLOFAMA and Basswell. Next up: Lehmann Club, Stuttgart on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Onlynumbers is a techno and hardcore artist based in France, with 103 gigs on so
 | Fri, 20 Nov 2026 | NX Newcastle | Newcastle |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
+| Sun, 29 Nov 2026 | Sparty | Budapest |
 | Fri, 4 Dec 2026 | Hansemesse, Rostock | Mecklenburg-vorpommern |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Mon, 7 Dec 2026 | Spook Club | Valencia |
 | Sat, 19 Dec 2026 | Hallenstadion | Zurich |
 | Sat, 26 Dec 2026 | The Telegraph Building | Belfast |
-| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
 

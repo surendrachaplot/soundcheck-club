@@ -1,8 +1,8 @@
 # Mad Professor
 
-Mad Professor is a Dub and Bass artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Mad Professor is a Dub and Bass artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Mad Professor is a dub and bass artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 40 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Mad Professor is a dub and bass artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 41 more. Often billed alongside DjRUM, Tash LC and Arsenal Mikebe. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Mad Professor is a dub and bass artist based in United Kingdom, with 76 gigs on 
 | Fri, 20 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 21 Nov 2026 | Rocking Chair | Lausanne |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

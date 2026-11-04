@@ -10,7 +10,7 @@ Off The Square is a music venue in Manchester listed on soundcheck. 4 upcoming g
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | B@1 presents THE NIGHTSHIFT: George Pichel, Maya, Joe Bcrft, Joe Townsend  |  |
 | Sat, 7 Nov 2026 | The Spinners Club | D-LIA, SHADEV |
-| Thu, 19 Nov 2026 | Breakout: Tom Oakley, imad:re and much more | Tom Oakley, imad:re, stef the dj |
+| Thu, 19 Nov 2026 | Breakout: Jungle, Hardcore with Tom Oakley, imad:re and much more | Tom Oakley, imad:re, stef the dj |
 | Sat, 12 Dec 2026 | Underground Kollektiv present 'Square One' a night of Acid and Classic House £3.03 tickets | Chael-UK, Shumbo Jebang, Smicer |
 
 ## Address

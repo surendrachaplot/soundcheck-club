@@ -1,13 +1,14 @@
 # Skeptic
 
-Skeptic is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Racket Space, Dublin on Sat, 28 Nov 2026.
+Skeptic is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mono, Rotterdam on Sat, 21 Nov 2026.
 
-Skeptic is a garage and house artist based in United Kingdom, with 89 gigs on soundcheck across Aberdeen, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside Silva Bumpa, Dr Dubplate and Soul Mass Transit System. Next up: The Racket Space, Dublin on Sat 28 Nov.
+Skeptic is a garage and house artist based in United Kingdom, with 90 gigs on soundcheck across Aberdeen, Antwerp, Bangkok and Barcelona and 28 more. Often billed alongside Silva Bumpa, Dr Dubplate and Soul Mass Transit System. Next up: Mono, Rotterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Mono | Rotterdam |
 | Sat, 28 Nov 2026 | The Racket Space | Dublin |
 
 ## Recently played

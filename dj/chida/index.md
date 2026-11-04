@@ -1,8 +1,8 @@
 # CHIDA
 
-CHIDA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mitsuki, Tokyo on Wed, 4 Nov 2026.
+CHIDA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mitsuki, Tokyo on Wed, 4 Nov 2026.
 
-CHIDA is a house and techno artist based in Japan, with 212 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bristol and 15 more. Often billed alongside YAMARCHY, FFAN and 5ive. Next up: Mitsuki, Tokyo on Wed 4 Nov.
+CHIDA is a house and techno artist based in Japan, with 213 gigs on soundcheck across Amsterdam, Beijing, Berlin and Bristol and 16 more. Often billed alongside YAMARCHY, FFAN and 5ive. Next up: Mitsuki, Tokyo on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ CHIDA is a house and techno artist based in Japan, with 212 gigs on soundcheck a
 | Sat, 21 Nov 2026 | South Swell Cafe | Osaka |
 | Fri, 27 Nov 2026 | Numm | Tokyo |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

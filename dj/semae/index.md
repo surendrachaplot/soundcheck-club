@@ -1,14 +1,15 @@
 # Sémaé
 
-Sémaé is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Wigwam, Dublin on Sat, 14 Nov 2026.
+Sémaé is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Wigwam, Dublin on Sat, 14 Nov 2026.
 
-Sémaé is a techno and house artist based in France, with 27 gigs on soundcheck across Dublin. Often billed alongside Fran Ortu, Cailín and Phil Bass. Next up: Wigwam, Dublin on Sat 14 Nov.
+Sémaé is a techno and electro artist based in France, with 28 gigs on soundcheck across Dublin. Often billed alongside Fran Ortu, Cailín and Phil Bass. Next up: Wigwam, Dublin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Wigwam | Dublin |
+| Sat, 21 Nov 2026 | The Digital Hub | Dublin |
 
 ## Recently played
 

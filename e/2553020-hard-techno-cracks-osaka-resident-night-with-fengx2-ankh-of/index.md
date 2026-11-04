@@ -1,6 +1,6 @@
-# HARD TECHNO 'CRACKS'  OSAKA RESIDENT NIGHT with FENGX2, ANKH of LIFE, LIZA, Shuk00 at Blvck Water
+# HARD TECHNO 'CRACKS' OSAKA RESIDENT NIGHT with FENGX2, ANKH of LIFE, LIZA, Shuk00, ZAGUN at Blvck Water
 
-HARD TECHNO 'CRACKS'  OSAKA RESIDENT NIGHT with FENGX2, ANKH of LIFE, LIZA, Shuk00 at Blvck Water on Fri 6 Nov, Osaka. 2 artists: FENGX2 and LIZA. Techno and Industrial. See the line-up on soundcheck.
+HARD TECHNO 'CRACKS' OSAKA RESIDENT NIGHT with FENGX2, ANKH of LIFE, LIZA, Shuk00, ZAGUN at Blvck Water on Fri 6 Nov, Osaka. 3 artists: FENGX2, LIZA and ZAGUN. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ HARD TECHNO 'CRACKS'  OSAKA RESIDENT NIGHT with FENGX2, ANKH of LIFE, LIZA, Shuk
 
 - FENGX2
 - LIZA (6)
+- ZAGUN
 
 *Source: [soundcheck](https://soundcheck.club/e/2553020-hard-techno-cracks-osaka-resident-night-with-fengx2-ankh-of/)*

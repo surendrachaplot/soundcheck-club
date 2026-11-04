@@ -1,14 +1,15 @@
 # De Sluwe Vos
 
-De Sluwe Vos is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Radio Radio, Amsterdam on Sat, 14 Nov 2026.
+De Sluwe Vos is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Radio Radio, Amsterdam on Sat, 14 Nov 2026.
 
-De Sluwe Vos is a house and techno artist based in Netherlands, with 93 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Rotterdam and 2 more. Often billed alongside Benny Rodrigues, Prunk and Locklead. Next up: Radio Radio, Amsterdam on Sat 14 Nov.
+De Sluwe Vos is a house and techno artist based in Netherlands, with 94 gigs on soundcheck across Amsterdam, Berlin, Netherlands and Rotterdam and 2 more. Often billed alongside Benny Rodrigues, Prunk and Locklead. Next up: Radio Radio, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Radio Radio | Amsterdam |
+| Fri, 11 Dec 2026 | export | Rotterdam |
 | Thu, 31 Dec 2026 | Club Holy Moly | Netherlands |
 
 ## Recently played

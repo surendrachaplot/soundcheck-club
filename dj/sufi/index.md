@@ -1,14 +1,15 @@
 # SUFI
 
-SUFI is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
+SUFI is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Prospect Building, Bristol on Sat, 28 Nov 2026.
 
-SUFI is a garage and house artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Bristol, Cardiff and Liverpool and 4 more. Often billed alongside Lolli, Azumei and Deselecta. Next up: The Prospect Building, Bristol on Sat 28 Nov.
+SUFI is a house and garage artist based in United Kingdom, with 26 gigs on soundcheck across Berlin, Bristol, Cardiff and Liverpool and 4 more. Often billed alongside Lolli, Azumei and Deselecta. Next up: The Prospect Building, Bristol on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
+| Sat, 5 Dec 2026 | Exchange | Bristol |
 
 ## Recently played
 

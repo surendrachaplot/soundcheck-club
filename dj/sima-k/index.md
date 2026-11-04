@@ -2,7 +2,7 @@
 
 sima k is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jalousy, Brussels on Sat, 7 Nov 2026.
 
-sima k is a house and tech house artist, with 30 gigs on soundcheck across Amsterdam, Brussels, Ghent and London and 1 more. Often billed alongside Daan Donk, Taylor Taylor (NL) and ESTRELLA. Next up: Jalousy, Brussels on Sat 7 Nov.
+sima k is a house and tech house artist, with 30 gigs on soundcheck across Amsterdam, Brussels, Ghent and London and 1 more. Often billed alongside Daan Donk, Taylor Taylor and ESTRELLA. Next up: Jalousy, Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ sima k is a house and tech house artist, with 30 gigs on soundcheck across Amste
 
 ## Shares bills with
 
-Daan Donk, Taylor Taylor (NL), ESTRELLA
+Daan Donk, Taylor Taylor, ESTRELLA
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sima-k/)*

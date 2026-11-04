@@ -1,6 +1,6 @@
-# In The Spirit of Exit at EXIT Glasgow
+# In The ࿓ Spirit ࿓ of EXIT at EXIT Glasgow
 
-In The Spirit of Exit at EXIT Glasgow on Sat 5 Dec, Glasgow. See the line-up on soundcheck.
+In The ࿓ Spirit ࿓ of EXIT at EXIT Glasgow on Sat 5 Dec, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

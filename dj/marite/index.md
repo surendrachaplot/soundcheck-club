@@ -1,8 +1,8 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Unmute, Hanoi on Fri, 13 Nov 2026.
+Mari.te is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Unmute, Hanoi on Fri, 13 Nov 2026.
 
-Mari.te is a house and techno artist based in Venezuela, with 173 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 44 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Unmute, Hanoi on Fri 13 Nov.
+Mari.te is a house and techno artist based in Venezuela, with 174 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 45 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: Unmute, Hanoi on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Mari.te is a house and techno artist based in Venezuela, with 173 gigs on soundc
 | Fri, 27 Nov 2026 | Sala Villanos | Madrid |
 | Sat, 28 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

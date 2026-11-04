@@ -1,8 +1,8 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "L.P. Rhythm Glasgow Weekender - Sub Club" on Thu, 5 Nov 2026.
+Sub Club is a music venue in Glasgow with 32 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "L.P. Rhythm Glasgow Weekender - Sub Club" on Thu, 5 Nov 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, with line-ups including Archie Hamilton, Ben Hemsley, Blasha & Allatt and Carl Craig and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 32 upcoming gigs, with line-ups including Archie Hamilton, Ben Hemsley, Blasha & Allatt and Carl Craig and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 

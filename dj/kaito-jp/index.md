@@ -1,13 +1,14 @@
 # KAITO.
 
-KAITO. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - club (O)Utopos, Chubu on Sat, 14 Nov 2026.
+KAITO. is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Joule, Osaka on Sat, 7 Nov 2026.
 
-KAITO. is a house and techno artist based in Japan, with 42 gigs on soundcheck across Chubu, Kyoto, Osaka and Seoul and 2 more. Often billed alongside TETSUO, AKIHIRO and Lomax. Next up: TBA - club (O)Utopos, Chubu on Sat 14 Nov.
+KAITO. is a house and techno artist based in Japan, with 43 gigs on soundcheck across Chubu, Kyoto, Osaka and Seoul and 2 more. Often billed alongside TETSUO, AKIHIRO and Lomax. Next up: Joule, Osaka on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | TBA - club (O)Utopos | Chubu |
 
 ## Recently played

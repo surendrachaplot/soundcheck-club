@@ -1,6 +1,6 @@
 # Radost FX
 
-Radost FX is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sex-Positive Party // BIG EDITION [85% SOLD OUT]" on Fri, 6 Nov 2026.
+Radost FX is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sex-Positive Party // BIG EDITION [90% SOLD OUT]" on Fri, 6 Nov 2026.
 
 Radost FX is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including ASCENDER, Braxton, hiro (CZ) and Jan Nedved and 2 more. See dates, start times and who's playing. Belehradska 120, 120 00 Praha 2, Czech Republic.
 
@@ -8,7 +8,7 @@ Radost FX is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Sex-Positive Party // BIG EDITION [85% SOLD OUT] | SAVBEA |
+| Fri, 6 Nov 2026 | Sex-Positive Party // BIG EDITION [90% SOLD OUT] | SAVBEA |
 | Sat, 7 Nov 2026 | Braxton (UK, Anjunadeep) - BEATS FOR LOVE: On The Road, Prague | ASCENDER, Braxton, Jan Nedved, hiro (CZ), thats.me.andrew |
 | Mon, 16 Nov 2026 | Mayapur Rave with Arne L II |  |
 

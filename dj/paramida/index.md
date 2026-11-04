@@ -1,8 +1,8 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 6 Nov 2026.
+PARAMIDA is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 6 Nov 2026.
 
-PARAMIDA is a house and techno artist based in Germany, with 276 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 60 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Circolo degli Illuminati, Rome on Fri 6 Nov.
+PARAMIDA is a house and techno artist based in Germany, with 277 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 61 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: Circolo degli Illuminati, Rome on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ PARAMIDA is a house and techno artist based in Germany, with 276 gigs on soundch
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Fri, 27 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 1 Jan 2027 | Distrikt | Leeds |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Culture Box
 
-Culture Box is a music venue in Copenhagen with 16 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sarah Wild / Pelzman / DJ Spice / Dasha / Anya / Frede [NO] B2B Jan Brandi" on Fri, 6 Nov 2026.
+Culture Box is a music venue in Copenhagen with 18 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sarah Wild / Pelzman / DJ Spice / Dasha / Anya / Frede [NO] B2B Jan Brandi" on Fri, 6 Nov 2026.
 
-Culture Box is a music venue in Copenhagen listed on soundcheck. 16 upcoming gigs, with line-ups including Adelina, Aerocell, Aja Gulris and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
+Culture Box is a music venue in Copenhagen listed on soundcheck. 18 upcoming gigs, with line-ups including Adelina, Aerocell, Aja Gulris and Ama Lien and 2 more. See dates, start times and who's playing. Kronprinsessegade 54; Copenhagen K. 1306; Denmark.
 
 ## What's on
 

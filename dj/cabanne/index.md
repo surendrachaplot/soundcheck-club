@@ -1,8 +1,8 @@
 # Cabanne
 
-Cabanne is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Cabanne is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Cabanne is a house and minimal artist based in France, with 74 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: One Resort, Tunisia on Thu 5 Nov.
+Cabanne is a house and minimal artist based in France, with 75 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 36 more. Often billed alongside Rhadoo, Lowris and Cesar Merveille. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cabanne is a house and minimal artist based in France, with 74 gigs on soundchec
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Sat, 28 Nov 2026 | Frankhan Selectist | Istanbul |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

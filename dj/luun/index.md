@@ -1,14 +1,15 @@
 # Luun
 
-Luun is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club no.8, London on Sat, 21 Nov 2026.
+Luun is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club no.8, London on Sat, 21 Nov 2026.
 
-Luun is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across London and Rotterdam. Often billed alongside Horne, Cathal and ALISHA. Next up: Club no.8, London on Sat 21 Nov.
+Luun is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across London and Rotterdam. Often billed alongside Horne, Cathal and ALISHA. Next up: Club no.8, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Club no.8 | London |
+| Fri, 18 Dec 2026 | Toffler | Rotterdam |
 
 ## Recently played
 

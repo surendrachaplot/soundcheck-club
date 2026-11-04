@@ -11,7 +11,7 @@ The Mash House is a music venue in Edinburgh listed on soundcheck. 4 upcoming gi
 | Tue, 10 Nov 2026 | USB Roulette |  |
 | Thu, 19 Nov 2026 | Arcadia V | CU-SITH, Dan Jakson, SINN3R, silkrot |
 | Sat, 28 Nov 2026 | Import: Dance Yer Tits Aff |  |
-| Fri, 25 Dec 2026 | Headset Christmas Day: 4 Rooms |  |
+| Fri, 25 Dec 2026 | Headset Christmas Day [4 Rooms] |  |
 
 ## Address
 

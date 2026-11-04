@@ -1,8 +1,8 @@
 # Brawther
 
-Brawther is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Movers, Nottingham on Sat, 21 Nov 2026.
+Brawther is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Movers, Nottingham on Sat, 21 Nov 2026.
 
-Brawther is a house and deep house artist based in France, with 77 gigs on soundcheck across Amsterdam, Athens, Baltimore and Barcelona and 28 more. Often billed alongside Tristan da Cunha, Dungeon Meat and Samuel Deep. Next up: Movers, Nottingham on Sat 21 Nov.
+Brawther is a house and deep house artist based in France, with 78 gigs on soundcheck across Amsterdam, Athens, Baltimore and Barcelona and 29 more. Often billed alongside Tristan da Cunha, Dungeon Meat and Samuel Deep. Next up: Movers, Nottingham on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Brawther is a house and deep house artist based in France, with 77 gigs on sound
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Thu, 14 Jan 2027 | Zanzibar - Various Venues | Tanzania |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Eli Verveine
 
-Eli Verveine is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Gaffe, London on Sat, 7 Nov 2026.
+Eli Verveine is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Gaffe, London on Sat, 7 Nov 2026.
 
-Eli Verveine is a house and techno artist based in Switzerland, with 94 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 19 more. Often billed alongside Gwenan, Vera and Mind Against. Next up: Gaffe, London on Sat 7 Nov.
+Eli Verveine is a house and techno artist based in Switzerland, with 96 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 20 more. Often billed alongside Gwenan, Vera and Mind Against. Next up: Gaffe, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,7 +10,9 @@ Eli Verveine is a house and techno artist based in Switzerland, with 94 gigs on 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Gaffe | London |
 | Sat, 21 Nov 2026 | Prince Charles | Berlin |
+| Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sun, 29 Nov 2026 | Hoppetosse | Berlin |
+| Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

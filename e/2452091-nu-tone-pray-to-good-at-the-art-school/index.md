@@ -1,6 +1,6 @@
 # Nu:Tone \\\ Pray To Good at The Art School
 
-Nu:Tone \\\ Pray To Good at The Art School on Fri 20 Nov, Glasgow. 4 artists: IYRE, Nu:Tone, Ruthless and Winslow. Drum & Bass and Jungle. See the line-up on soundcheck.
+Nu:Tone \\\ Pray To Good at The Art School on Fri 20 Nov, Glasgow. 7 artists: Bristol Luke, Divergence, IYRE and Nu:Tone and 3 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,12 @@ Nu:Tone \\\ Pray To Good at The Art School on Fri 20 Nov, Glasgow. 4 artists: IY
 
 ## Line-up
 
+- Bristol Luke
+- Divergence
 - IYRE
 - Nu:Tone
 - Ruthless
+- T-Man (UK)
 - Winslow
 
 *Source: [soundcheck](https://soundcheck.club/e/2452091-nu-tone-pray-to-good-at-the-art-school/)*
