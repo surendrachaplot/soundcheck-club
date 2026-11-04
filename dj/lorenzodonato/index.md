@@ -1,6 +1,6 @@
 # Lorenzo Donato
 
-Lorenzo Donato is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at OT301, Amsterdam on Sat, 28 Nov 2026.
+Lorenzo Donato is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at OT301, Amsterdam on Sat, 28 Nov 2026.
 
 Lorenzo Donato is a techno and experimental artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Beijing, Bologna and Chengdu and 4 more. Often billed alongside PERAMORE, 100%WONG and An On Bast. Next up: OT301, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Lorenzo Donato is a techno and experimental artist based in Italy, with 18 gigs 
 
 PERAMORE, 100%WONG, An On Bast
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzodonato/)*

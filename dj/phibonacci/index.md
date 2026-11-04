@@ -1,6 +1,6 @@
 # Phibonacci
 
-Phibonacci is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Corner Bar @ Middle East, Boston on Sat, 14 Nov 2026.
+Phibonacci is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Corner Bar @ Middle East, Boston on Sat, 14 Nov 2026.
 
 Phibonacci is a garage and house artist based in United States of America, with 5 gigs on soundcheck across Boston. Often billed alongside HypeLies. Next up: The Corner Bar @ Middle East, Boston on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Phibonacci is a garage and house artist based in United States of America, with 
 
 HypeLies
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phibonacci/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phibonacci/)*

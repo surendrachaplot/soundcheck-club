@@ -1,6 +1,6 @@
 # GOBI
 
-GOBI is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sound space α, Kyushu on Sat, 14 Nov 2026.
+GOBI is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sound space α, Kyushu on Sat, 14 Nov 2026.
 
 GOBI is a techno artist based in South Korea, with 16 gigs on soundcheck across Kyushu and Seoul. Often billed alongside SUNA, Inger and SJK. Next up: Sound space α, Kyushu on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ GOBI is a techno artist based in South Korea, with 16 gigs on soundcheck across 
 
 SUNA, Inger, SJK (1)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gobi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gobi/)*

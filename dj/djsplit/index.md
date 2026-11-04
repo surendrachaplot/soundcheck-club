@@ -1,6 +1,6 @@
 # DJ Split
 
-DJ Split is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+DJ Split is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
 
 DJ Split is a house and techno artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside A For Alpha, Archie Hamilton and Benji King. Next up: The Cause, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ DJ Split is a house and techno artist based in Germany, with 25 gigs on soundche
 
 A For Alpha, Archie Hamilton, Benji King
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsplit/)*

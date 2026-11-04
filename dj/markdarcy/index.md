@@ -1,6 +1,6 @@
 # Mark Darcy
 
-Mark Darcy is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+Mark Darcy is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 Mark Darcy is a trance and house artist, with 4 gigs on soundcheck across London. Often billed alongside Tom Wigley, tasha.mp4 and Sam Day. Next up: Bricks, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Mark Darcy is a trance and house artist, with 4 gigs on soundcheck across London
 
 Tom Wigley, tasha.mp4, Sam Day
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markdarcy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markdarcy/)*

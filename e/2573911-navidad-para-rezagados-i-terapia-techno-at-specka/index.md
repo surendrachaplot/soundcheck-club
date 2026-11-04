@@ -1,6 +1,6 @@
 # Navidad para rezagados I Terapia Techno at Specka
 
-Navidad para rezagados I Terapia Techno at Specka on Sat 26 Dec, Madrid. 3 artists: Esther Summer, LUIS MIRANDA and M3LO. Techno and Electronica. See the line-up on soundcheck.
+Navidad para rezagados I Terapia Techno at Specka on Sat 26 Dec, Madrid. 4 artists: ananke, Esther Summer, LUIS MIRANDA and M3LO. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Navidad para rezagados I Terapia Techno at Specka on Sat 26 Dec, Madrid. 3 artis
 
 ## Line-up
 
+- ananke
 - Esther Summer
 - LUIS MIRANDA
 - M3LO

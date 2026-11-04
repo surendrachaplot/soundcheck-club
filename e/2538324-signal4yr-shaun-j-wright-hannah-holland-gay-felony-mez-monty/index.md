@@ -1,6 +1,6 @@
 # SIGNAL4YR: Shaun J Wright // Hannah Holland // Gay Felony // Mez Monty at TBA
 
-SIGNAL4YR: Shaun J Wright // Hannah Holland // Gay Felony // Mez Monty at TBA on Fri 13 Nov, Los Angeles. 4 artists: Gay Felony, Hannah Holland, Mez Monty and Shaun J. Wright. Techno and House. See the line-up on soundcheck.
+SIGNAL4YR: Shaun J Wright // Hannah Holland // Gay Felony // Mez Monty at TBA on Fri 13 Nov, Los Angeles. 3 artists: Gay Felony, Mez Monty and Shaun J. Wright. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ SIGNAL4YR: Shaun J Wright // Hannah Holland // Gay Felony // Mez Monty at TBA on
 ## Line-up
 
 - Gay Felony
-- Hannah Holland
 - Mez Monty
 - Shaun J. Wright
 

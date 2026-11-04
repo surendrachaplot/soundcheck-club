@@ -1,6 +1,6 @@
 # Hamø
 
-Hamø is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cafe Glocksee, Hannover on Sat, 21 Nov 2026.
+Hamø is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cafe Glocksee, Hannover on Sat, 21 Nov 2026.
 
 Hamø is a techno and trance artist, with 4 gigs on soundcheck across Athens and Hannover. Often billed alongside 1cutesgirl, Alisa Murphy and Cenan Holland. Next up: Cafe Glocksee, Hannover on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Hamø is a techno and trance artist, with 4 gigs on soundcheck across Athens and
 
 1cutesgirl, Alisa Murphy, Cenan Holland
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamo-de/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hamo-de/)*

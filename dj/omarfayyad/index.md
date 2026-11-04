@@ -1,6 +1,6 @@
 # Omar Fayyad
 
-Omar Fayyad is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
+Omar Fayyad is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Tunisia on Fri, 27 Nov 2026.
 
 Omar Fayyad is a house and minimal artist based in Egypt, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dubai and 3 more. Often billed alongside Zeina, Daylomar and Hameed. Next up: TBA, Tunisia on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Omar Fayyad is a house and minimal artist based in Egypt, with 16 gigs on soundc
 
 Zeina, Daylomar, Hameed
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarfayyad/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarfayyad/)*

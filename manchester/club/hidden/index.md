@@ -1,6 +1,6 @@
 # Hidden
 
-Hidden is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CubCru presents: Origin, Pluggerz, Simmo, Amelia Leigh & Half Broken Kru" on Fri, 6 Nov 2026.
+Hidden is a music venue in Manchester with 18 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CubCru presents: Origin, Pluggerz, Simmo, Amelia Leigh & Half Broken Kru" on Fri, 6 Nov 2026.
 
 Hidden is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, with line-ups including 2FEL, Adele Tondu, Agnelli & Nelson and Allius and 2 more. See dates, start times and who's playing. 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom.
 
@@ -23,4 +23,4 @@ Hidden is a music venue in Manchester listed on soundcheck. 18 upcoming gigs, wi
 
 17 DownTex Mill, Mary Street, Manchester, M3 1DZ, United Kingdom, Manchester
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/hidden/)*

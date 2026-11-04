@@ -1,14 +1,15 @@
 # QSLAP
 
-QSLAP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at MOD Club, Tallinn on Fri, 6 Nov 2026.
+QSLAP is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at MOD Club, Tallinn on Fri, 6 Nov 2026.
 
-QSLAP is a techno and house artist, with 25 gigs on soundcheck across Tallinn. Often billed alongside VLKN99, Labrighli and Lene Ma Rue. Next up: MOD Club, Tallinn on Fri 6 Nov.
+QSLAP is a techno and house artist, with 26 gigs on soundcheck across Tallinn. Often billed alongside VLKN99, Labrighli and Lene Ma Rue. Next up: MOD Club, Tallinn on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | MOD Club | Tallinn |
+| Sat, 7 Nov 2026 | Fonoteek | Tallinn |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ QSLAP is a techno and house artist, with 25 gigs on soundcheck across Tallinn. O
 
 VLKN99, Labrighli, Lene Ma Rue
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qslap/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qslap/)*

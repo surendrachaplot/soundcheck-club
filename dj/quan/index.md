@@ -1,6 +1,6 @@
 # Quan
 
-Quan is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 6 Nov 2026.
+Quan is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Reactor Shanghai, Shanghai on Fri, 6 Nov 2026.
 
 Quan is a techno and experimental artist based in Vietnam, with 21 gigs on soundcheck across Hanoi, Montreal, Seoul and Shanghai. Often billed alongside D.B.Y., Halina Rice and James Benjamin. Next up: Reactor Shanghai, Shanghai on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Quan is a techno and experimental artist based in Vietnam, with 21 gigs on sound
 
 D.B.Y., Halina Rice, James Benjamin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quan/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quan/)*

@@ -1,6 +1,6 @@
 # Rivo at Madarae Nightclub San Francisco at Madarae San Francisco
 
-Rivo at Madarae Nightclub San Francisco at Madarae San Francisco on Sat 7 Nov, San Francisco/Oakland. 1 artist: Rivo. See the line-up on soundcheck.
+Rivo at Madarae Nightclub San Francisco at Madarae San Francisco on Sat 7 Nov, San Francisco/Oakland. 2 artists: Admiral and Rivo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Rivo at Madarae Nightclub San Francisco at Madarae San Francisco on Sat 7 Nov, S
 
 ## Line-up
 
+- Admiral
 - Rivo
 
 *Source: [soundcheck](https://soundcheck.club/e/2559719-rivo-at-madarae-nightclub-san-francisco-at-madarae-san-franc/)*

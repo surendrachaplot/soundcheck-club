@@ -1,6 +1,6 @@
 # Cooke
 
-Cooke is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Malone RFC, Northern-ireland on Sat, 7 Nov 2026.
+Cooke is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Malone RFC, Northern-ireland on Sat, 7 Nov 2026.
 
 Cooke is a house and deep house artist based in United Kingdom, with 14 gigs on soundcheck across Belfast, Leeds, London and Northern Ireland. Often billed alongside ByPhil, Jude Dude and Osce. Next up: TBA - Malone RFC, Northern Ireland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Cooke is a house and deep house artist based in United Kingdom, with 14 gigs on 
 
 ByPhil, Jude Dude, Osce
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cooke/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cooke/)*

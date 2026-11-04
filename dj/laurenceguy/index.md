@@ -1,6 +1,6 @@
 # Laurence Guy
 
-Laurence Guy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Yes, Manchester on Fri, 27 Nov 2026.
+Laurence Guy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Yes, Manchester on Fri, 27 Nov 2026.
 
 Laurence Guy is a house and disco artist based in United Kingdom, with 103 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 30 more. Often billed alongside Arpy Brown, Folamour and Hayden James. Next up: Yes, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Laurence Guy is a house and disco artist based in United Kingdom, with 103 gigs 
 
 Arpy Brown, Folamour, Hayden James
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenceguy/)*

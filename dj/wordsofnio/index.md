@@ -1,14 +1,15 @@
 # Words of Niō
 
-Words of Niō is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 15 Nov 2026.
+Words of Niō is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 15 Nov 2026.
 
-Words of Niō is a progressive house and deep house artist based in Spain, with 43 gigs on soundcheck across Amsterdam, Ibiza, Madrid and Milan. Often billed alongside ETNA, Omer Tayar and Panyer. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 15 Nov.
+Words of Niō is a deep house and progressive house artist based in Spain, with 44 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and Madrid and 1 more. Often billed alongside ETNA, Omer Tayar and Panyer. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Akasha Las Dalias Club - Ibiza | Ibiza |
+| Fri, 27 Nov 2026 | TBA - Santuário, Escadinhas da Praia 5, 1200-869 Lisboa, Portugal | Lisbon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Words of Niō is a progressive house and deep house artist based in Spain, with 
 
 ETNA, Omer Tayar, Panyer
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wordsofnio/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wordsofnio/)*

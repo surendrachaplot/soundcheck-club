@@ -1,13 +1,14 @@
 # Short Finger
 
-Short Finger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tresor / Globus, Berlin on Wed, 23 Dec 2026.
+Short Finger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at OHM, Berlin on Thu, 26 Nov 2026.
 
-Short Finger is a techno and house artist based in South Korea, with 108 gigs on soundcheck across Berlin, Glasgow, Hong Kong and Seoul and 1 more. Often billed alongside DAMIE (KR), Stann Lumo and JAMIEST. Next up: Tresor / Globus, Berlin on Wed 23 Dec.
+Short Finger is a techno and house artist based in South Korea, with 109 gigs on soundcheck across Berlin, Glasgow, Hong Kong and Seoul and 1 more. Often billed alongside DAMIE (KR), Stann Lumo and JAMIEST. Next up: OHM, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 26 Nov 2026 | OHM | Berlin |
 | Wed, 23 Dec 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Short Finger is a techno and house artist based in South Korea, with 108 gigs on
 
 DAMIE (KR), Stann Lumo, JAMIEST
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shortfinger-kr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shortfinger-kr/)*

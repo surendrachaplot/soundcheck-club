@@ -1,6 +1,6 @@
 # K1000o
 
-K1000o is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lasociaciøn, Madrid on Thu, 24 Dec 2026.
+K1000o is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Lasociaciøn, Madrid on Thu, 24 Dec 2026.
 
 K1000o is a techno and electronica artist based in Venezuela, with 12 gigs on soundcheck across Berlin and Madrid. Often billed alongside Redondoo, Yiye and Ari Jani. Next up: Lasociaciøn, Madrid on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ K1000o is a techno and electronica artist based in Venezuela, with 12 gigs on so
 
 Redondoo, Yiye, Ari Jani
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k1000o/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k1000o/)*

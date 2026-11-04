@@ -1,6 +1,6 @@
 # Sleep D
 
-Sleep D is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Sleep D is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Sleep D is a techno and house artist based in Australia, with 96 gigs on soundcheck across Adelaide, Bali, Bangkok and Berlin and 25 more. Often billed alongside Moopie, DJ PGZ and Darcy Justice. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Sleep D is a techno and house artist based in Australia, with 96 gigs on soundch
 
 Moopie, DJ PGZ, Darcy Justice
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sleepd/)*

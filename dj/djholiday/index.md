@@ -1,8 +1,8 @@
 # DJ HOLIDAY
 
-DJ HOLIDAY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jupiter Disco, New York City on Sat, 28 Nov 2026.
+DJ HOLIDAY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Jupiter Disco, New York City on Sat, 28 Nov 2026.
 
-DJ HOLIDAY is a house and club artist, with 12 gigs on soundcheck across New York City and Tokyo. Often billed alongside BOJAQ, Amen the Producer and Agent DMZ.. Next up: Jupiter Disco, New York City on Sat 28 Nov.
+DJ HOLIDAY is a house and club artist based in United States of America, with 12 gigs on soundcheck across New York City and Tokyo. Often billed alongside BOJAQ, Amen the Producer and Agent DMZ.. Next up: Jupiter Disco, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ HOLIDAY is a house and club artist, with 12 gigs on soundcheck across New Yor
 
 BOJAQ, Amen the Producer, Agent DMZ.
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholiday/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djholiday/)*

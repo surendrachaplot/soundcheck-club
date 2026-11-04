@@ -1,6 +1,6 @@
 # Elsewhere
 
-Elsewhere is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "AEREA, Alex Farell" on Fri, 6 Nov 2026.
+Elsewhere is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "AEREA, Alex Farell" on Fri, 6 Nov 2026.
 
 Elsewhere is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including 6 SENSE, AEREA, Alex Farell and Alive Girl and 2 more. See dates, start times and who's playing. 599 Johnson Ave, Brooklyn, NY 11237 USA.
 
@@ -23,4 +23,4 @@ Elsewhere is a music venue in New York City listed on soundcheck. 18 upcoming gi
 
 599 Johnson Ave, Brooklyn, NY 11237 USA, New York City
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/elsewhere/)*

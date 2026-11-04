@@ -1,6 +1,6 @@
 # Malika
 
-Malika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sooki Lounge, Melbourne on Fri, 20 Nov 2026.
+Malika is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sooki Lounge, Melbourne on Fri, 20 Nov 2026.
 
 Malika is a house and techno artist based in Morocco, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Hamish & Toby, Adi (CO) and Sibil. Next up: Sooki Lounge, Melbourne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Malika is a house and techno artist based in Morocco, with 52 gigs on soundcheck
 
 Hamish & Toby, Adi (CO), Sibil (1)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malika/)*

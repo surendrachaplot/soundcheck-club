@@ -1,8 +1,8 @@
 # Rachel de Moncuit
 
-Rachel de Moncuit is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
+Rachel de Moncuit is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
 
-Rachel de Moncuit is a techno and house artist based in United Kingdom, with 4 gigs on soundcheck across London and Manchester. Often billed alongside Teecra, sweetestcape and Altinbas. Next up: Vittoria Wharf Studio, London on Sun 15 Nov.
+Rachel de Moncuit is a techno and house artist based in United Kingdom, with 5 gigs on soundcheck across Berlin, London and Manchester. Often billed alongside KUSS, Teecra and sweetestcape. Next up: Vittoria Wharf Studio, London on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rachel de Moncuit is a techno and house artist based in United Kingdom, with 4 g
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Vittoria Wharf Studio | London |
 | Sat, 28 Nov 2026 | FOLD | London |
+| Fri, 4 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ Rachel de Moncuit is a techno and house artist based in United Kingdom, with 4 g
 
 ## Shares bills with
 
-Teecra, sweetestcape, Altinbas
+KUSS, Teecra, sweetestcape
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/racheldemoncuit/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/racheldemoncuit/)*

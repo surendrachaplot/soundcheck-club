@@ -1,6 +1,6 @@
 # Irena Stanisic
 
-Irena Stanisic is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fünk, Mexico City on Fri, 13 Nov 2026.
+Irena Stanisic is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fünk, Mexico City on Fri, 13 Nov 2026.
 
 Irena Stanisic is a house and deep house artist based in North Macedonia, with 68 gigs on soundcheck across Guadalajara, Mexico City and New York City. Often billed alongside Barreto, JNGLEJ and Wolffer. Next up: Fünk, Mexico City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Irena Stanisic is a house and deep house artist based in North Macedonia, with 6
 
 Barreto, JNGLEJ, Wolffer
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irenastanisic/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irenastanisic/)*

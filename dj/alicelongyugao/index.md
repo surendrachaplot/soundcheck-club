@@ -1,6 +1,6 @@
 # Alice Longyu Gao
 
-Alice Longyu Gao is a Pop and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 13 Nov 2026.
+Alice Longyu Gao is a Pop and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ORIGIN, Los Angeles on Fri, 13 Nov 2026.
 
 Alice Longyu Gao is a pop and electronica artist based in China, with 33 gigs on soundcheck across Atlanta, Chengdu, Chicago and Denver and 11 more. Often billed alongside DJ_Dave, 2ManyDJs and Bimini. Next up: ORIGIN, Los Angeles on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Alice Longyu Gao is a pop and electronica artist based in China, with 33 gigs on
 
 DJ_Dave, 2ManyDJs, Bimini
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicelongyugao/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alicelongyugao/)*

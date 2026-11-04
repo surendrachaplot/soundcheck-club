@@ -1,8 +1,8 @@
 # HOLY C
 
-HOLY C is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
+HOLY C is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Unit 58, London on Fri, 6 Nov 2026.
 
-HOLY C is a techno and club artist based in United Kingdom, with 26 gigs on soundcheck across Bristol and London. Often billed alongside Toraigh, ASHTREY and Karlie Marx. Next up: Unit 58, London on Fri 6 Nov.
+HOLY C is a techno and club artist based in United Kingdom, with 27 gigs on soundcheck across Bristol and London. Often billed alongside Toraigh, Michelle Manetti and ASHTREY. Next up: Unit 58, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HOLY C is a techno and club artist based in United Kingdom, with 26 gigs on soun
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Unit 58 | London |
 | Fri, 6 Nov 2026 | Bethnal Green Workingmen's Club | London |
+| Sat, 14 Nov 2026 | Sauna Social Club | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ HOLY C is a techno and club artist based in United Kingdom, with 26 gigs on soun
 
 ## Shares bills with
 
-Toraigh, ASHTREY, Karlie Marx
+Toraigh, Michelle Manetti, ASHTREY
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holyc/)*

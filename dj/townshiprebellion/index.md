@@ -1,8 +1,8 @@
 # Township Rebellion
 
-Township Rebellion is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Exchange LA, Los Angeles on Sat, 14 Nov 2026.
+Township Rebellion is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Exchange LA, Los Angeles on Sat, 14 Nov 2026.
 
-Township Rebellion is a techno and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Austin, Baden W Rttemberg and Basel and 43 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: Exchange LA, Los Angeles on Sat 14 Nov.
+Township Rebellion is a techno and house artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Austin, Baden W Rttemberg and Basel and 43 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: Exchange LA, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Township Rebellion is a techno and house artist based in Germany, with 134 gigs 
 | Sat, 28 Nov 2026 | Karree | Baden-w-rttemberg |
 | Sat, 28 Nov 2026 | Karree | Freiburg |
 | Sat, 5 Dec 2026 | Thuishaven | Amsterdam |
+| Fri, 11 Dec 2026 | Kastel | Istanbul |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Township Rebellion is a techno and house artist based in Germany, with 134 gigs 
 
 Kaufmann, Prismode, Solvane
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*

@@ -1,6 +1,6 @@
 # MILLA LOU
 
-MILLA LOU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 22 Jan 2027.
+MILLA LOU is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 22 Jan 2027.
 
 MILLA LOU is a techno and house artist based in Germany, with 88 gigs on soundcheck across Bangkok, Berlin, Freiburg and Hamburg and 5 more. Often billed alongside justUS, Katzengold and Dydaa Forne. Next up: Die Rakete, Nürnberg on Fri 22 Jan.
 
@@ -26,4 +26,4 @@ MILLA LOU is a techno and house artist based in Germany, with 88 gigs on soundch
 
 justUS, Katzengold, Dydaa Forne
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millalou/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millalou/)*

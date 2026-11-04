@@ -1,6 +1,6 @@
 # Oxytocin - Fam gathering at TBA
 
-Oxytocin - Fam gathering at TBA on Fri 27 Nov, Berlin. 2 artists: ISHAPE and SLANY. Techno. See the line-up on soundcheck.
+Oxytocin - Fam gathering at TBA on Fri 27 Nov, Berlin. 3 artists: ISHAPE, Mimimosa and SLANY. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Oxytocin - Fam gathering at TBA on Fri 27 Nov, Berlin. 2 artists: ISHAPE and SLA
 ## Line-up
 
 - ISHAPE
+- Mimimosa
 - SLANY
 
 *Source: [soundcheck](https://soundcheck.club/e/2556309-oxytocin-fam-gathering-at-tba/)*

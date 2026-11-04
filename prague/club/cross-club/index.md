@@ -1,14 +1,13 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 30 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "DNB NIGHT" on Tue, 3 Nov 2026.
+Cross Club is a music venue in Prague with 29 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "BIOCROSS" on Wed, 4 Nov 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 30 upcoming gigs, with line-ups including AMAR DURGA, Aztek, Dasha Fyah and Ejdm and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 29 upcoming gigs, with line-ups including AMAR DURGA, Aztek, Dasha Fyah and Ejdm and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | DNB NIGHT |  |
 | Wed, 4 Nov 2026 | BIOCROSS |  |
 | Thu, 5 Nov 2026 | VANTA FUNTA #1 | AMAR DURGA |
 | Thu, 5 Nov 2026 | UP TONE 19:00 with STURLE DAGSLAND & TECHNO AFTERPARTY |  |
@@ -18,9 +17,10 @@ Cross Club is a music venue in Prague listed on soundcheck. 30 upcoming gigs, wi
 | Mon, 9 Nov 2026 | LOS TEKKENOS |  |
 | Tue, 10 Nov 2026 | TECHNO NIGHT |  |
 | Wed, 11 Nov 2026 | TECHNO HOUSE |  |
+| Thu, 12 Nov 2026 | POHŘEBNÍ KAPELA |  |
 
 ## Address
 
 Plynární 1096/23, Praha 7, Czech Republic, Prague
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/cross-club/)*

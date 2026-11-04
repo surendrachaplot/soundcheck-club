@@ -1,6 +1,6 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 19 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Heels & Souls - Dav (live), masa, IGZ" on Fri, 6 Nov 2026.
+The Carpet Shop is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Heels & Souls - Dav (live), masa, IGZ" on Fri, 6 Nov 2026.
 
 The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including 909 Hotline, Braga Circuit, Cleveland Watkiss and Cormac and 2 more. See dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

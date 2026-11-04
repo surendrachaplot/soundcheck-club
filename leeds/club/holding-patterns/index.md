@@ -1,6 +1,6 @@
 # Holding Patterns
 
-Holding Patterns is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Sound Logo - Simon Scott / Macalla / Hooley" on Sat, 7 Nov 2026.
+Holding Patterns is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sound Logo - Simon Scott / Macalla / Hooley" on Sat, 7 Nov 2026.
 
 Holding Patterns is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Hooley and Simon Scott. See dates, start times and who's playing. 2 Albion Place, LS1 6JL.
 
@@ -15,4 +15,4 @@ Holding Patterns is a music venue in Leeds listed on soundcheck. 2 upcoming gigs
 
 2 Albion Place, LS1 6JL, Leeds
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/holding-patterns/)*

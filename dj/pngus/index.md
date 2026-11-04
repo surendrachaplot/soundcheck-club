@@ -1,6 +1,6 @@
 # PNG (US)
 
-PNG (US) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
+PNG (US) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 PNG (US) is a house and acid artist, with 7 gigs on soundcheck across Chicago, San Francisco/Oakland and Seoul. Often billed alongside Jackson Walker, playground tactics and vin.. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ PNG (US) is a house and acid artist, with 7 gigs on soundcheck across Chicago, S
 
 Jackson Walker, playground tactics, vin.
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pngus/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pngus/)*

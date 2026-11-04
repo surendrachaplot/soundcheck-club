@@ -1,6 +1,6 @@
 # IBARRA
 
-IBARRA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 19 Mar 2027.
+IBARRA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 19 Mar 2027.
 
 IBARRA is an electronica and techno artist, with 12 gigs on soundcheck across Bogotá, Brazil, Buenos Aires and Medellin and 2 more. Often billed alongside KAS:ST, Konstantin Sibold and Son of Son. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 19 Mar.
 
@@ -25,4 +25,4 @@ IBARRA is an electronica and techno artist, with 12 gigs on soundcheck across Bo
 
 KAS:ST, Konstantin Sibold, Son of Son
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ibarra/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ibarra/)*

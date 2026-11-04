@@ -1,6 +1,6 @@
 # David Ferreira
 
-David Ferreira is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at XOYO, London on Wed, 4 Nov 2026.
+David Ferreira is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at XOYO, London on Wed, 4 Nov 2026.
 
 David Ferreira is a deep house and tech house artist, with 7 gigs on soundcheck across London. Often billed alongside Billa Bazz, Giacomo Mei and Pedro (IT). Next up: XOYO, London on Wed 4 Nov.
 
@@ -23,4 +23,4 @@ David Ferreira is a deep house and tech house artist, with 7 gigs on soundcheck 
 
 Billa Bazz, Giacomo Mei, Pedro (IT)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidferreira/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidferreira/)*

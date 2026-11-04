@@ -1,13 +1,14 @@
 # Mar Bravo
 
-Mar Bravo is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cadavra, Madrid on Fri, 20 Nov 2026.
+Mar Bravo is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at berlinClub, Madrid on Sun, 8 Nov 2026.
 
-Mar Bravo is an electronica and house artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside Sazky, MARYO and Raisa. Next up: Cadavra, Madrid on Fri 20 Nov.
+Mar Bravo is a house and progressive house artist based in Spain, with 18 gigs on soundcheck across Madrid. Often billed alongside Sazky, MARYO and Raisa. Next up: berlinClub, Madrid on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 8 Nov 2026 | berlinClub | Madrid |
 | Fri, 20 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mar Bravo is an electronica and house artist based in Spain, with 17 gigs on sou
 
 Sazky, MARYO, Raisa
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marbravo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marbravo/)*

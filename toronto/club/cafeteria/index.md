@@ -1,8 +1,8 @@
 # Cafeteria
 
-Cafeteria is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "slowburn: Gi Gi, Ciel & Milch" on Fri, 6 Nov 2026.
+Cafeteria is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "slowburn: Gi Gi, Ciel & Milch" on Fri, 6 Nov 2026.
 
-Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including Akkai, Amedeo (CA), Blkvirgo and Ciel and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
+Cafeteria is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Akkai, Amedeo (CA), Blkvirgo and Ciel and 2 more. See dates, start times and who's playing. 1650 Dupont St, Toronto, ON M6P 3T2, Canada.
 
 ## What's on
 
@@ -14,9 +14,10 @@ Cafeteria is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, wit
 | Sun, 15 Nov 2026 | SABR - by Mastané |  |
 | Sat, 28 Nov 2026 | infrared (CC x Care Package) feat. KATIE COOPER, Geezr | Akkai (2), CYLLA, Geezr, KATIE COOPER, comma,, moii-chan |
 | Fri, 4 Dec 2026 | unimmune: Her Blood | OMG.BLOG, Stella Maise |
+| Sat, 12 Dec 2026 | Studio S | Amedeo (CA), Blkvirgo, dj miss, lukeanthonybarry |
 
 ## Address
 
 1650 Dupont St, Toronto, ON M6P 3T2, Canada, Toronto
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/cafeteria/)*

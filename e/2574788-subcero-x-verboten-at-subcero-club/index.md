@@ -1,6 +1,6 @@
 # Subcero x Verboten at Subcero Club
 
-Subcero x Verboten at Subcero Club on Sat 14 Nov, Madrid. 1 artist: ARSA. Electronica. See the line-up on soundcheck.
+Subcero x Verboten at Subcero Club on Sat 14 Nov, Madrid. 2 artists: ARSA and Vilor. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Subcero x Verboten at Subcero Club on Sat 14 Nov, Madrid. 1 artist: ARSA. Electr
 ## Line-up
 
 - ARSA
+- Vilor
 
 *Source: [soundcheck](https://soundcheck.club/e/2574788-subcero-x-verboten-at-subcero-club/)*

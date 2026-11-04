@@ -1,13 +1,14 @@
 # Anna Amato
 
-Anna Amato is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Liquid Club, Malta on Fri, 27 Nov 2026.
+Anna Amato is a Techno and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at AMT, Berlin on Wed, 18 Nov 2026.
 
-Anna Amato is a techno and minimal techno artist based in Italy, with 49 gigs on soundcheck across Amsterdam, Bali, Bangkok and Belgrade and 23 more. Often billed alongside Frank Sonic, Hunter/Game and Palliativ. Next up: Liquid Club, Malta on Fri 27 Nov.
+Anna Amato is a techno and minimal techno artist based in Italy, with 50 gigs on soundcheck across Amsterdam, Bali, Bangkok and Belgrade and 23 more. Often billed alongside Frank Sonic, Hunter/Game and Palliativ. Next up: AMT, Berlin on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 18 Nov 2026 | AMT | Berlin |
 | Fri, 27 Nov 2026 | Liquid Club | Malta |
 | Sat, 5 Dec 2026 | TCQ | Buenos Aires |
 
@@ -26,4 +27,4 @@ Anna Amato is a techno and minimal techno artist based in Italy, with 49 gigs on
 
 Frank Sonic, Hunter/Game, Palliativ
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annaamato/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annaamato/)*

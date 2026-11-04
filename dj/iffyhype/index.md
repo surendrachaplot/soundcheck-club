@@ -1,6 +1,6 @@
 # IFFYHYPE
 
-IFFYHYPE is a Hardcore and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
+IFFYHYPE is a Hardcore and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
 
 IFFYHYPE is a hardcore and breakcore artist based in United Kingdom, with 23 gigs on soundcheck across Berlin, Bristol, Leeds and Liverpool and 2 more. Often billed alongside goreshit, Gullyteen and Bye2. Next up: Beaver Works, Leeds on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ IFFYHYPE is a hardcore and breakcore artist based in United Kingdom, with 23 gig
 
 goreshit, Gullyteen, Bye2
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iffyhype/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iffyhype/)*

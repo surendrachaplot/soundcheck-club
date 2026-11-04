@@ -1,6 +1,6 @@
 # 7th West
 
-7th West is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "MixCraft Monthly" on Thu, 5 Nov 2026.
+7th West is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "MixCraft Monthly" on Thu, 5 Nov 2026.
 
 7th West is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including K Duende. See dates, start times and who's playing. 1255 7th St Oakland, CA 94607.
 
@@ -14,4 +14,4 @@
 
 1255 7th St Oakland, CA 94607, San Francisco/Oakland
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/7th-west/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/7th-west/)*

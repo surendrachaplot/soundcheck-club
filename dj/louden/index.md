@@ -1,14 +1,15 @@
 # Louden
 
-Louden is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at E1, London on Fri, 27 Nov 2026.
+Louden is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at E1, London on Fri, 27 Nov 2026.
 
-Louden is a house and tech house artist based in Italy, with 28 gigs on soundcheck across Barcelona, Ibiza, Leeds and Liverpool and 6 more. Often billed alongside DXNBY, Candidate and Chopper (UK). Next up: E1, London on Fri 27 Nov.
+Louden is a house and tech house artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Leeds and 7 more. Often billed alongside DXNBY, Candidate and Chopper (UK). Next up: E1, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | E1 | London |
+| Sun, 6 Dec 2026 | Madam | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Louden is a house and tech house artist based in Italy, with 28 gigs on soundche
 
 DXNBY, Candidate, Chopper (UK)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louden/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louden/)*

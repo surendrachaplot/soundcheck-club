@@ -1,8 +1,8 @@
 # Le Studio TD
 
-Le Studio TD is a music venue in Montreal with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Tinzo + Jojo's Dark Library - Montreal" on Sat, 7 Nov 2026.
+Le Studio TD is a music venue in Montreal with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Tinzo + Jojo's Dark Library - Montreal" on Sat, 7 Nov 2026.
 
-Le Studio TD is a music venue in Montreal listed on soundcheck. 4 upcoming gigs, with line-ups including Corinita, Jojo Lorenzo, Nina Kraviz and Ostrich and 1 more. See dates, start times and who's playing. 305 Rue Sainte-Catherine Ouest, L'Astral, Montréal, QC H2X 2A3, Canada.
+Le Studio TD is a music venue in Montreal listed on soundcheck. 5 upcoming gigs, with line-ups including Corinita, Jojo Lorenzo, Nina Kraviz and Ostrich and 1 more. See dates, start times and who's playing. 305 Rue Sainte-Catherine Ouest, L'Astral, Montréal, QC H2X 2A3, Canada.
 
 ## What's on
 
@@ -11,10 +11,11 @@ Le Studio TD is a music venue in Montreal listed on soundcheck. 4 upcoming gigs,
 | Sat, 7 Nov 2026 | Tinzo + Jojo's Dark Library - Montreal | Jojo Lorenzo, Tinzo |
 | Sat, 7 Nov 2026 | Tinzo + Jojo - Dark Library Tour | Jojo Lorenzo, Tinzo |
 | Sun, 8 Nov 2026 | Nina Kraviz [DAY RAVE] | Corinita, Nina Kraviz, Ostrich |
+| Sat, 12 Dec 2026 | îLESONIQ présente: Stoned Level |  |
 | Fri, 15 Jan 2027 | îLESONIQ présente: GorillaT |  |
 
 ## Address
 
 305 Rue Sainte-Catherine Ouest, L'Astral, Montréal, QC H2X 2A3, Canada, Montreal
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-studio-td/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/le-studio-td/)*

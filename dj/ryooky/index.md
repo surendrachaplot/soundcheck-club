@@ -1,6 +1,6 @@
 # RYOOKY
 
-RYOOKY is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+RYOOKY is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
 RYOOKY is a techno and psytrance artist based in Japan, with 45 gigs on soundcheck across Kanto, Osaka, Seoul and Tokyo. Often billed alongside PUSTER, Kojiro and AMG SAIMURA (TECHVANE). Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ RYOOKY is a techno and psytrance artist based in Japan, with 45 gigs on soundche
 
 PUSTER, Kojiro, AMG SAIMURA (TECHVANE)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryooky/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryooky/)*

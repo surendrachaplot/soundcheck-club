@@ -1,6 +1,6 @@
 # Ace*Mission
 
-Ace*Mission is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Factory 93 presents: 240 KM/H: Adrián Mills All Night Long with Special Guests" on Fri, 13 Nov 2026.
+Ace*Mission is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Factory 93 presents: 240 KM/H: Adrián Mills All Night Long with Special Guests" on Fri, 13 Nov 2026.
 
 Ace*Mission is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Adrian Mills, Ben Klock, Blawan and Chlär and 2 more. See dates, start times and who's playing. 516 S Mission Rd, Los Angeles, CA 90033.
 
@@ -15,4 +15,4 @@ Ace*Mission is a music venue in Los Angeles listed on soundcheck. 2 upcoming gig
 
 516 S Mission Rd, Los Angeles, CA 90033, Los Angeles
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ace-mission/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ace-mission/)*

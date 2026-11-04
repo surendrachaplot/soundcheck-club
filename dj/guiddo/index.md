@@ -1,6 +1,6 @@
 # Guiddo
 
-Guiddo is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Georgia Bar, Berlin on Sat, 7 Nov 2026.
+Guiddo is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Georgia Bar, Berlin on Sat, 7 Nov 2026.
 
 Guiddo is a techno and electro artist, with 13 gigs on soundcheck across Berlin and Wroclaw. Often billed alongside MiiSCHA, Berlin Bunny and Eyesdice. Next up: Georgia Bar, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Guiddo is a techno and electro artist, with 13 gigs on soundcheck across Berlin 
 
 MiiSCHA, Berlin Bunny, Eyesdice
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guiddo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guiddo/)*

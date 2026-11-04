@@ -1,6 +1,6 @@
 # Aries
 
-Aries is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sidney & Matilda, Sheffield on Fri, 13 Nov 2026.
+Aries is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sidney & Matilda, Sheffield on Fri, 13 Nov 2026.
 
 Aries is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Atlanta, Brighton and Bristol and 10 more. Often billed alongside Kelvin 373, 4am Kru and Bladerunner. Next up: Sidney & Matilda, Sheffield on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Aries is a drum & bass and jungle artist based in United Kingdom, with 18 gigs o
 
 Kelvin 373, 4am Kru, Bladerunner
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-uk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aries-uk/)*

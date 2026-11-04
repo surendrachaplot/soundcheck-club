@@ -1,14 +1,15 @@
 # Kidcat
 
-Kidcat is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
+Kidcat is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Dalston Superstore, London on Thu, 12 Nov 2026.
 
-Kidcat is a house and techno artist based in Germany, with 76 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 5 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Dalston Superstore, London on Thu 12 Nov.
+Kidcat is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Copenhagen and 5 more. Often billed alongside ilbroccolovolante, Jimmie and zikade. Next up: Dalston Superstore, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Dalston Superstore | London |
+| Sat, 14 Nov 2026 | Tola | London |
 | Fri, 20 Nov 2026 | AMT | Berlin |
 | Sat, 28 Nov 2026 | Renate | Berlin |
 
@@ -27,4 +28,4 @@ Kidcat is a house and techno artist based in Germany, with 76 gigs on soundcheck
 
 ilbroccolovolante, Jimmie, zikade
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kidcat/)*

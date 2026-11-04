@@ -1,6 +1,6 @@
 # Alejandra Rosales
 
-Alejandra Rosales is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at El Carajo, Colombia on Sat, 28 Nov 2026.
+Alejandra Rosales is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at El Carajo, Colombia on Sat, 28 Nov 2026.
 
 Alejandra Rosales is a techno and house artist based in Colombia, with 61 gigs on soundcheck across Berlin, Bogotá, Colombia and Miami and 1 more. Often billed alongside Seb Mildenberg, Alex Bessofen and A_DMind. Next up: El Carajo, Colombia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Alejandra Rosales is a techno and house artist based in Colombia, with 61 gigs o
 
 Seb Mildenberg, Alex Bessofen, A_DMind
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrarosales/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alejandrarosales/)*

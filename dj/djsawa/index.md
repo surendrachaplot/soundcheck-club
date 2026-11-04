@@ -1,6 +1,6 @@
 # DJ SAWA
 
-DJ SAWA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Dec 2026.
+DJ SAWA is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 6 Dec 2026.
 
 DJ SAWA is a house and disco artist based in Japan, with 5 gigs on soundcheck across Tokyo. Often billed alongside Ko Kimura, ATT and DJ Emma. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 6 Dec.
 
@@ -21,4 +21,4 @@ DJ SAWA is a house and disco artist based in Japan, with 5 gigs on soundcheck ac
 
 Ko Kimura, ATT, DJ Emma
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsawa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsawa/)*

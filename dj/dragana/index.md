@@ -1,6 +1,6 @@
 # Dragana
 
-Dragana is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Dragana is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
 Dragana is a house and minimal artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Cape Town and 9 more. Often billed alongside Konstantin, Leafar Legov and Edward. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Dragana is a house and minimal artist based in Germany, with 30 gigs on soundche
 
 Konstantin, Leafar Legov, Edward
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dragana/)*

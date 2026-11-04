@@ -1,6 +1,6 @@
 # Beat Boutique
 
-Beat Boutique is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "STILL TECHNO" on Sat, 7 Nov 2026.
+Beat Boutique is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "STILL TECHNO" on Sat, 7 Nov 2026.
 
 Beat Boutique is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Daniel Schieber, J.TEJA, JUSTICE (DE) and KERST and 2 more. See dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Beat Boutique is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs,
 
 Altländer Str. 12, 20095 Hamburg, Germany, Hamburg
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/beat-boutique/)*

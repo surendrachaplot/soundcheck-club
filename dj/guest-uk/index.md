@@ -1,6 +1,6 @@
 # GUEST (UK)
 
-GUEST (UK) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 12 Nov 2026.
+GUEST (UK) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Thu, 12 Nov 2026.
 
 GUEST (UK) is a house and deep house artist based in United Kingdom, with 65 gigs on soundcheck across Athens, Berlin, Brighton and Bristol and 10 more. Often billed alongside Odela Sound, Ethan Jenner and Ricky Kay. Next up: SEL OCTAGON TOKYO, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ GUEST (UK) is a house and deep house artist based in United Kingdom, with 65 gig
 
 Odela Sound, Ethan Jenner, Ricky Kay
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guest-uk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guest-uk/)*

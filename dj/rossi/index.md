@@ -1,6 +1,6 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Radius, Chicago on Fri, 6 Nov 2026.
+Rossi is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Radius, Chicago on Fri, 6 Nov 2026.
 
 Rossi is a house and tech house artist based in United Kingdom, with 253 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 54 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Radius, Chicago on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Rossi is a house and tech house artist based in United Kingdom, with 253 gigs on
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

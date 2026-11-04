@@ -1,6 +1,6 @@
 # Peti Kupe
 
-Peti Kupe is a music venue in Zagreb with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Piknik W/ Sonja Moonear Ani. B2B Bronski & more" on Fri, 6 Nov 2026.
+Peti Kupe is a music venue in Zagreb with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Piknik W/ Sonja Moonear Ani. B2B Bronski & more" on Fri, 6 Nov 2026.
 
 Peti Kupe is a music venue in Zagreb listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Farell, Âme, Bronski and Insolate and 2 more. See dates, start times and who's playing. Trnjanska cesta 5, 10000, Zagreb, Croatia.
 
@@ -18,4 +18,4 @@ Peti Kupe is a music venue in Zagreb listed on soundcheck. 5 upcoming gigs, with
 
 Trnjanska cesta 5, 10000, Zagreb, Croatia, Zagreb
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/peti-kupe/)*

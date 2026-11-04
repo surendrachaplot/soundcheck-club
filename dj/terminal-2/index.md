@@ -1,6 +1,6 @@
 # Terminal (2)
 
-Terminal (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
+Terminal (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Turbina, Budapest on Fri, 13 Nov 2026.
 
 Terminal is a techno and house artist based in Hungary, with 8 gigs on soundcheck across Athens, Budapest and London. Often billed alongside Klayman, Vatsanah and SVR101. Next up: Turbina, Budapest on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Terminal is a techno and house artist based in Hungary, with 8 gigs on soundchec
 
 Klayman, Vatsanah, SVR101
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal-2/)*

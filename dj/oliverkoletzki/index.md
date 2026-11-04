@@ -1,8 +1,8 @@
 # Oliver Koletzki
 
-Oliver Koletzki is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hive Club, Zurich on Fri, 6 Nov 2026.
+Oliver Koletzki is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hive Club, Zurich on Fri, 6 Nov 2026.
 
-Oliver Koletzki is a techno and house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Hive Club, Zurich on Fri 6 Nov.
+Oliver Koletzki is a techno and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 34 more. Often billed alongside Frida Darko, Hidden Empire and Kotoe. Next up: Hive Club, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Oliver Koletzki is a techno and house artist based in Germany, with 133 gigs on 
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
 | Wed, 11 Nov 2026 | Odonien | Cologne |
 | Fri, 13 Nov 2026 | Hangaren | Copenhagen |
+| Fri, 11 Dec 2026 | ORIGIN | Los Angeles |
 | Sat, 19 Dec 2026 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
@@ -29,4 +30,4 @@ Oliver Koletzki is a techno and house artist based in Germany, with 133 gigs on 
 
 Frida Darko, Hidden Empire, Kotoe
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliverkoletzki/)*

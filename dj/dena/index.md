@@ -1,6 +1,6 @@
 # Dena
 
-Dena is a Funk / Soul and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 26 Nov 2026.
+Dena is a Funk / Soul and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 26 Nov 2026.
 
 Dena is a funk / soul and electro artist based in Germany, with 8 gigs on soundcheck across Berlin, Frankfurt and Munich. Often billed alongside AVA Irandoost, Aaron Leviz and Dena G. Next up: Bahnwärter Thiel, Munich on Thu 26 Nov.
 
@@ -24,4 +24,4 @@ Dena is a funk / soul and electro artist based in Germany, with 8 gigs on soundc
 
 AVA Irandoost, Aaron Leviz, Dena G
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dena/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dena/)*

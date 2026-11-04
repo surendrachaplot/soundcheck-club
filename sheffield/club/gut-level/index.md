@@ -1,6 +1,6 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Happy Endings" on Fri, 6 Nov 2026.
+Gut Level is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Happy Endings" on Fri, 6 Nov 2026.
 
 Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bethan and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
@@ -23,4 +23,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, 
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

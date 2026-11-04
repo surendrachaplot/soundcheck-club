@@ -1,6 +1,6 @@
 # Depot Mayfield
 
-Depot Mayfield is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "WHP 26 /// The Streets" on Thu, 5 Nov 2026.
+Depot Mayfield is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "WHP 26 /// The Streets" on Thu, 5 Nov 2026.
 
 Depot Mayfield is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including Spinelli, 2FEL, 2ManyDJs and 4000 Hz and 2 more. See dates, start times and who's playing. 11 Baring St, Manchester, M1 2PY.
 
@@ -23,4 +23,4 @@ Depot Mayfield is a music venue in Manchester listed on soundcheck. 13 upcoming 
 
 11 Baring St, Manchester, M1 2PY, Manchester
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/depot-mayfield/)*

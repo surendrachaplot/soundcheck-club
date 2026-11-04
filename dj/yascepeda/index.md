@@ -1,6 +1,6 @@
 # Yas Cepeda
 
-Yas Cepeda is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Itzel Club, London on Thu, 5 Nov 2026.
+Yas Cepeda is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Itzel Club, London on Thu, 5 Nov 2026.
 
 Yas Cepeda is a house artist, with 9 gigs on soundcheck across Ibiza, London and Madrid. Often billed alongside Purofuego, Brisa Then and DEVARA. Next up: Itzel Club, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Yas Cepeda is a house artist, with 9 gigs on soundcheck across Ibiza, London and
 
 Purofuego, Brisa Then, DEVARA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yascepeda/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yascepeda/)*

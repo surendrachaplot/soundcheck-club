@@ -1,6 +1,6 @@
 # Christian Rojas
 
-Christian Rojas is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
+Christian Rojas is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at LA Coralina Island House OF AD Sidera, Panama on Fri, 30 Oct 2026.
 
 Christian Rojas is a progressive house and deep house artist based in Argentina, with 4 gigs on soundcheck across Buenos Aires and Panama. Often billed alongside ANNA, BODAI and Deer Jade. Next up: LA Coralina Island House OF AD Sidera, Panama on Fri 30 Oct.
 
@@ -21,4 +21,4 @@ Christian Rojas is a progressive house and deep house artist based in Argentina,
 
 ANNA, BODAI, Deer Jade
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianrojas/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianrojas/)*

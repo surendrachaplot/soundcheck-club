@@ -1,6 +1,6 @@
 # A Good Year
 
-A Good Year is a Electronica and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+A Good Year is a Electronica and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 A Good Year is an electronica and post-punk artist based in Denmark, with 8 gigs on soundcheck across Bristol, Brussels, Copenhagen and Dublin and 3 more. Often billed alongside Lord Spikeheart, Loukeman and haloplus+. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ A Good Year is an electronica and post-punk artist based in Denmark, with 8 gigs
 
 Lord Spikeheart, Loukeman, haloplus+
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/agoodyear/)*

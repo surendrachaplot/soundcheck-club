@@ -1,15 +1,15 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Elsewhere, New York City on Fri, 6 Nov 2026.
+AEREA is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Elsewhere, New York City on Fri, 6 Nov 2026.
 
-AEREA is a techno and trance artist based in Spain, with 82 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 50 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Elsewhere, New York City on Fri 6 Nov.
+AEREA is a techno and trance artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 50 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Elsewhere, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Elsewhere | New York City |
-| Sat, 7 Nov 2026 | Bar Oriente | Mexico City |
+| Sat, 7 Nov 2026 | Ex Fabrica de Harina Anden Tacuba | Mexico City |
 | Thu, 12 Nov 2026 | Tigres de la Noche | Washington DC |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
 | Sat, 14 Nov 2026 | Substation | Seattle |
@@ -17,9 +17,9 @@ AEREA is a techno and trance artist based in Spain, with 82 gigs on soundcheck a
 | Sat, 21 Nov 2026 | TBA - Warehouse | Toronto |
 | Sat, 21 Nov 2026 | TBA | Toronto |
 | Fri, 4 Dec 2026 | Castle Club | Cyprus |
+| Fri, 11 Dec 2026 | The Bassement | Madrid |
 | Sat, 19 Dec 2026 | Soul SKG | Thessaloniki |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
-| Sat, 30 Jan 2027 | WDM | Hannover |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ AEREA is a techno and trance artist based in Spain, with 82 gigs on soundcheck a
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

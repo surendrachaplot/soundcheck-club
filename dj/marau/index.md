@@ -1,6 +1,6 @@
 # MARAU
 
-MARAU is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 13 Nov 2026.
+MARAU is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at BORIS CLUB, Barcelona on Fri, 13 Nov 2026.
 
 MARAU is a house and tech house artist based in Spain, with 5 gigs on soundcheck across Barcelona. Often billed alongside Taha Malki, BizZa and AM IN. Next up: BORIS CLUB, Barcelona on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ MARAU is a house and tech house artist based in Spain, with 5 gigs on soundcheck
 
 Taha Malki, BizZa, AM IN
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marau/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marau/)*

@@ -1,6 +1,6 @@
 # Effy (DE)
 
-Effy (DE) is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
+Effy (DE) is a House and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 19 Dec 2026.
 
 Effy (DE) is a house and hardcore artist, with 4 gigs on soundcheck across London, Manchester, Rio de Janeiro and Shanghai. Often billed alongside 2ManyDJs, Aletha and Arthi. Next up: Depot Mayfield, Manchester on Sat 19 Dec.
 
@@ -20,4 +20,4 @@ Effy (DE) is a house and hardcore artist, with 4 gigs on soundcheck across Londo
 
 2ManyDJs, Aletha, Arthi
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/effy-de/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/effy-de/)*

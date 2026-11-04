@@ -1,6 +1,6 @@
 # nordcorreia.mp3
 
-nordcorreia.mp3 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
+nordcorreia.mp3 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
 
 nordcorreia.mp3 is a techno and trance artist based in Germany, with 58 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside Amøn, FEROTONINO and Boltcore. Next up: Schlachthof Wiesbaden, Frankfurt on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ nordcorreia.mp3 is a techno and trance artist based in Germany, with 58 gigs on 
 
 Amøn, FEROTONINO, Boltcore
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nordcorreia.mp3/)*

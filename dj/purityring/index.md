@@ -1,6 +1,6 @@
 # Purity Ring
 
-Purity Ring is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at It'll Do, Dallas/Fort Worth on Fri, 22 Jan 2027.
+Purity Ring is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at It'll Do, Dallas/Fort Worth on Fri, 22 Jan 2027.
 
 Purity Ring is a techno and electronica artist based in Canada, with 4 gigs on soundcheck across Austin, Dallas/Fort Worth, Denver and Miami. Often billed alongside 619!, 999999999 and AABEL. Next up: It'll Do, Dallas/Fort Worth on Fri 22 Jan.
 
@@ -20,4 +20,4 @@ Purity Ring is a techno and electronica artist based in Canada, with 4 gigs on s
 
 619!, 999999999, AABEL
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purityring/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purityring/)*

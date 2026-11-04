@@ -1,6 +1,6 @@
 # Eva Be
 
-Eva Be is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 12 Dec 2026.
+Eva Be is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 12 Dec 2026.
 
 Eva Be is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin and Mannheim. Often billed alongside Clé, DJ Cle and Seebase. Next up: Tresor / Globus, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Eva Be is a house and techno artist based in Germany, with 26 gigs on soundcheck
 
 Clé, DJ Cle, Seebase
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evabe/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evabe/)*

@@ -1,6 +1,6 @@
 # Kipp
 
-Kipp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Elsewhere, New York City on Fri, 20 Nov 2026.
+Kipp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Elsewhere, New York City on Fri, 20 Nov 2026.
 
 Kipp is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Copenhagen, Edinburgh and New York City. Often billed alongside Denninger, Heedon and GÆO. Next up: Elsewhere, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kipp is a house and techno artist based in United States of America, with 23 gig
 
 Denninger, Heedon, GÆO
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kipp/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kipp/)*

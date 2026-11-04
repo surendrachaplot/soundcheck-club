@@ -1,6 +1,6 @@
 # Oxford Underground
 
-Oxford Underground is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Pop2 [003] Sydney Hyperpop + Electronic" on Fri, 27 Nov 2026.
+Oxford Underground is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Pop2 [003] Sydney Hyperpop + Electronic" on Fri, 27 Nov 2026.
 
 Oxford Underground is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 134 Oxford St, Darlinghurst NSW 2010.
 
@@ -14,4 +14,4 @@ Oxford Underground is a music venue in Sydney listed on soundcheck. 1 upcoming g
 
 134 Oxford St, Darlinghurst NSW 2010, Sydney
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-underground/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-underground/)*

@@ -1,6 +1,6 @@
 # just evan
 
-just evan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
+just evan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
 
 just evan is a house and techno artist based in Canada, with 7 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Max Ulis, DJ dood and Huerta. Next up: TBA, Vancouver on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ just evan is a house and techno artist based in Canada, with 7 gigs on soundchec
 
 Max Ulis, DJ dood, Huerta
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justevan/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justevan/)*

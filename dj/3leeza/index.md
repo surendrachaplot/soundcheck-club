@@ -1,8 +1,8 @@
 # 3LEEZA
 
-3LEEZA is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
+3LEEZA is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
 
-3LEEZA is a trance and techno artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Alex Friday, HANÀ and Niotech. Next up: Kalif Storch, Erfurt on Sat 7 Nov.
+3LEEZA is a trance and techno artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Alex Friday, HANÀ and Niotech. Next up: Kalif Storch, Erfurt on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Kalif Storch | Erfurt |
 | Fri, 20 Nov 2026 | Südpol | Hamburg |
+| Sat, 21 Nov 2026 | Gotec | Karlsruhe |
 | Fri, 11 Dec 2026 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@
 
 Alex Friday, HANÀ, Niotech
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3leeza/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3leeza/)*

@@ -1,6 +1,6 @@
 # SHOUT! with Leon at The Range
 
-SHOUT! with Leon at The Range on Fri 6 Nov, Turin. 1 artist: Leon. Tech House. See the line-up on soundcheck.
+SHOUT! with Leon at The Range on Fri 6 Nov, Turin. 2 artists: Leon and TapeOut. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SHOUT! with Leon at The Range on Fri 6 Nov, Turin. 1 artist: Leon. Tech House. S
 ## Line-up
 
 - Leon
+- TapeOut
 
 *Source: [soundcheck](https://soundcheck.club/e/2572629-shout-with-leon-at-the-range/)*

@@ -1,6 +1,6 @@
 # Hermit
 
-Hermit is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at [ Loading BAY ], London on Sat, 21 Nov 2026.
+Hermit is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at [ Loading BAY ], London on Sat, 21 Nov 2026.
 
 Hermit is a house and garage artist based in United Kingdom, with 18 gigs on soundcheck across Barcelona, Ljubljana, London and Montreal. Often billed alongside Daniel Ward, DJ Listener and MC Secret Agent. Next up: [ Loading BAY ], London on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Hermit is a house and garage artist based in United Kingdom, with 18 gigs on sou
 
 Daniel Ward, DJ Listener, MC Secret Agent
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hermit/)*

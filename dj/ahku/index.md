@@ -1,6 +1,6 @@
 # Ahku
 
-Ahku is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at John Doe, Amsterdam on Tue, 10 Nov 2026.
+Ahku is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at John Doe, Amsterdam on Tue, 10 Nov 2026.
 
 Ahku is a techno and industrial artist, with 4 gigs on soundcheck across Amsterdam. Often billed alongside Zerra, 2LS and Alex Sharp. Next up: John Doe, Amsterdam on Tue 10 Nov.
 
@@ -20,4 +20,4 @@ Ahku is a techno and industrial artist, with 4 gigs on soundcheck across Amsterd
 
 Zerra, 2LS (1), Alex Sharp
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahku/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ahku/)*

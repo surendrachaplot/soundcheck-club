@@ -1,6 +1,6 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
+Freddy K is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
 
 Freddy K is a techno and house artist based in Germany, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 80 more. Often billed alongside Blasha & Allatt, Chlär and Ogazón. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ Freddy K is a techno and house artist based in Germany, with 318 gigs on soundch
 
 Blasha & Allatt, Chlär, Ogazón
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freddyk/)*

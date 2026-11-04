@@ -1,6 +1,6 @@
 # Marco Buscema
 
-Marco Buscema is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Frissón, Rome on Thu, 5 Nov 2026.
+Marco Buscema is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Frissón, Rome on Thu, 5 Nov 2026.
 
 Marco Buscema is a funk / soul and disco artist, with 18 gigs on soundcheck across London, Naples and Rome. Often billed alongside Ale Bi, Asymptote and Bulma Brief. Next up: Frissón, Rome on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Marco Buscema is a funk / soul and disco artist, with 18 gigs on soundcheck acro
 
 Ale Bi, Asymptote, Bulma Brief
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobuscema/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobuscema/)*

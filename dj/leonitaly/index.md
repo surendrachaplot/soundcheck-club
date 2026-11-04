@@ -1,6 +1,6 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Range, Turin on Fri, 6 Nov 2026.
+Leon is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Range, Turin on Fri, 6 Nov 2026.
 
 Leon is a tech house and techno artist based in Italy, with 74 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 25 more. Often billed alongside Marco Carola, Yamariki and Glasse. Next up: The Range, Turin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Leon is a tech house and techno artist based in Italy, with 74 gigs on soundchec
 
 Marco Carola, Yamariki, Glasse
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonitaly/)*

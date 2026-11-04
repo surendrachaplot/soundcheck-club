@@ -1,6 +1,6 @@
 # genre[fatigue] - AV at M.O.T
 
-genre[fatigue] - AV at M.O.T on Wed 11 Nov, London. 2 artists: m-onz and m̶a̶h̶[alias]. Drum & Bass and IDM. See the line-up on soundcheck.
+genre[fatigue] - AV at M.O.T on Wed 11 Nov, London. 2 artists: m-onz and m̶a̶h̶[alias]. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,14 @@
 # Shanixx
 
-Shanixx is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hidden, Manchester on Fri, 1 Jan 2027.
+Shanixx is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Cause, London on Fri, 20 Nov 2026.
 
-Shanixx is a techno and trance artist based in France, with 45 gigs on soundcheck across Athens, Berlin, Bordeaux and Brussels and 11 more. Often billed alongside Stinny Stone, ELOISA and YOVA. Next up: Hidden, Manchester on Fri 1 Jan.
+Shanixx is a techno and trance artist based in France, with 46 gigs on soundcheck across Athens, Berlin, Bordeaux and Brussels and 12 more. Often billed alongside Stinny Stone, ELOISA and YOVA. Next up: The Cause, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | The Cause | London |
 | Fri, 1 Jan 2027 | Hidden | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Shanixx is a techno and trance artist based in France, with 45 gigs on soundchec
 
 Stinny Stone, ELOISA, YOVA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanixx/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shanixx/)*

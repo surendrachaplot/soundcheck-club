@@ -1,6 +1,6 @@
 # Double Clapperz
 
-Double Clapperz is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
+Double Clapperz is a Hip-Hop and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Circus Tokyo, Tokyo on Sat, 14 Nov 2026.
 
 Double Clapperz is a hip-hop and bass artist, with 16 gigs on soundcheck across London, Shanghai and Tokyo. Often billed alongside MoEPiKA, nasthug and E.O.U. Next up: Circus Tokyo, Tokyo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Double Clapperz is a hip-hop and bass artist, with 16 gigs on soundcheck across 
 
 MoEPiKA, nasthug, E.O.U
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleclapperz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doubleclapperz/)*

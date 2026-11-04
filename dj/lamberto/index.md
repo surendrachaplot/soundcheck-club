@@ -1,8 +1,8 @@
 # Lambertø
 
-Lambertø is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
+Lambertø is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
 
-Lambertø is a techno and trance artist, with 4 gigs on soundcheck across Berlin. Often billed alongside HiTMiLØW, MOKI and AINA.KRU. Next up: BABY01, Berlin on Sat 7 Nov.
+Lambertø is a techno and trance artist, with 4 gigs on soundcheck across Berlin. Often billed alongside HiTMiLØW, MOKI and Ben Derris. Next up: BABY01, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,6 @@ Lambertø is a techno and trance artist, with 4 gigs on soundcheck across Berlin
 
 ## Shares bills with
 
-HiTMiLØW, MOKI, AINA.KRU
+HiTMiLØW, MOKI, Ben Derris
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamberto/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamberto/)*

@@ -1,6 +1,6 @@
 # EeechooO
 
-EeechooO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Comeout Rider Station, Chongqing on Fri, 6 Nov 2026.
+EeechooO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Comeout Rider Station, Chongqing on Fri, 6 Nov 2026.
 
 EeechooO is a techno and house artist based in China, with 6 gigs on soundcheck across Chongqing. Often billed alongside Justfin, Rui Tang and Stelios Vassiloudis. Next up: Comeout Rider Station, Chongqing on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ EeechooO is a techno and house artist based in China, with 6 gigs on soundcheck 
 
 Justfin, Rui Tang, Stelios Vassiloudis
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eeechooo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eeechooo/)*

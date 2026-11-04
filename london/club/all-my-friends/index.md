@@ -1,13 +1,14 @@
 # All My Friends
 
-All My Friends is a music venue in London with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "All My Friends: Gian-Paul" on Sat, 7 Nov 2026.
+All My Friends is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Record Store Lates with Gromma" on Thu, 5 Nov 2026.
 
-All My Friends is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Gian-Paul, Kyle Parsley, Manalou and Mannequin and 1 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
+All My Friends is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Gian-Paul, Gromma, Kyle Parsley and Manalou and 2 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Record Store Lates with Gromma | Gromma |
 | Sat, 7 Nov 2026 | All My Friends: Gian-Paul | Gian-Paul |
 | Sat, 21 Nov 2026 | All My Friends Birthday: 4 Years of Friends! |  |
 | Fri, 11 Dec 2026 | Type One Community: Hackney Wick Residency - Free Entry | Kyle Parsley |
@@ -18,4 +19,4 @@ All My Friends is a music venue in London listed on soundcheck. 5 upcoming gigs,
 
 Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/all-my-friends/)*

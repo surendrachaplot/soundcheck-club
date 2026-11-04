@@ -1,6 +1,6 @@
 # Kelly Lee Owens
 
-Kelly Lee Owens is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Good Room, New York City on Fri, 6 Nov 2026.
+Kelly Lee Owens is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Good Room, New York City on Fri, 6 Nov 2026.
 
 Kelly Lee Owens is a techno and electronica artist based in United Kingdom, with 54 gigs on soundcheck across Barcelona, Brighton, Bristol and Budapest and 21 more. Often billed alongside George Daniel, Oscar Farrell and Bicep. Next up: Good Room, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kelly Lee Owens is a techno and electronica artist based in United Kingdom, with
 
 George Daniel, Oscar Farrell, Bicep
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kellyleeowens/)*

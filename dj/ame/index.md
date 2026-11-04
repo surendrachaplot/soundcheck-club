@@ -1,6 +1,6 @@
 # Âme
 
-Âme is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Smolna, Warsaw on Fri, 6 Nov 2026.
+Âme is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Smolna, Warsaw on Fri, 6 Nov 2026.
 
 Âme is a techno and house artist based in Germany, with 404 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Smolna, Warsaw on Fri 6 Nov.
 
@@ -36,4 +36,4 @@
 
 Trikk, Jimi Jules, Dixon
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ame/)*

@@ -1,6 +1,6 @@
 # Liam Reddan
 
-Liam Reddan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Liam Reddan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Liam Reddan is a house and techno artist based in Ireland, with 11 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Vinz Sosa, Hannecart and Terrakin. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Liam Reddan is a house and techno artist based in Ireland, with 11 gigs on sound
 
 Vinz Sosa, Hannecart, Terrakin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liamreddan/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liamreddan/)*

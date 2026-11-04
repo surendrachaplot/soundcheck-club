@@ -1,6 +1,6 @@
 # N.Y.A
 
-N.Y.A is a UK Funky and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
+N.Y.A is a UK Funky and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
 
 N.Y.A is an uk funky and house artist based in United Kingdom, with 4 gigs on soundcheck across Melbourne. Often billed alongside CHEEKI, Crybaby and DAARONS. Next up: ark (Melb), Melbourne on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ N.Y.A is an uk funky and house artist based in United Kingdom, with 4 gigs on so
 
 CHEEKI, Crybaby, DAARONS
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nya-uk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nya-uk/)*

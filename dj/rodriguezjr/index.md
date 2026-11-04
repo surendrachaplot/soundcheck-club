@@ -1,6 +1,6 @@
 # Rodriguez Jr.
 
-Rodriguez Jr. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Igloofest, Montreal on Sat, 30 Jan 2027.
+Rodriguez Jr. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Igloofest, Montreal on Sat, 30 Jan 2027.
 
 Rodriguez Jr. is a house and techno artist based in United States of America, with 145 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 44 more. Often billed alongside Nick Warren, Bart Skils and Konstantin Sibold. Next up: Igloofest, Montreal on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Rodriguez Jr. is a house and techno artist based in United States of America, wi
 
 Nick Warren, Bart Skils, Konstantin Sibold
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodriguezjr/)*

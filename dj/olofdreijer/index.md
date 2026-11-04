@@ -1,6 +1,6 @@
 # Olof Dreijer
 
-Olof Dreijer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Modus Berlin, Berlin on Thu, 5 Nov 2026.
+Olof Dreijer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Modus Berlin, Berlin on Thu, 5 Nov 2026.
 
 Olof Dreijer is a techno and house artist based in Sweden, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: Modus Berlin, Berlin on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Olof Dreijer is a techno and house artist based in Sweden, with 67 gigs on sound
 
 Ben UFO, Suze Ijó, nonsuit
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*

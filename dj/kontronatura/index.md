@@ -1,6 +1,6 @@
 # Kontronatura
 
-Kontronatura is a Techno and Baile Funk artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
+Kontronatura is a Techno and Baile Funk artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Renate, Berlin on Fri, 13 Nov 2026.
 
 Kontronatura is a techno and baile funk artist based in Brazil, with 117 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Cashu, Alírio and Ananda (BR). Next up: Renate, Berlin on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Kontronatura is a techno and baile funk artist based in Brazil, with 117 gigs on
 
 Cashu, Alírio, Ananda (BR)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kontronatura/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kontronatura/)*

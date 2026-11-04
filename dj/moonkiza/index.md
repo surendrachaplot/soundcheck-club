@@ -1,13 +1,14 @@
 # MøønkiZa
 
-MøønkiZa is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bikini Club, Barcelona on Sat, 12 Dec 2026.
+MøønkiZa is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TOC Hostel, Barcelona on Fri, 20 Nov 2026.
 
-MøønkiZa is a house and progressive house artist, with 85 gigs on soundcheck across Barcelona. Often billed alongside Agatha Pher, EVES DJ and Daniel Aguilar. Next up: Bikini Club, Barcelona on Sat 12 Dec.
+MøønkiZa is a house and progressive house artist, with 86 gigs on soundcheck across Barcelona. Often billed alongside Agatha Pher, EVES DJ and Daniel Aguilar. Next up: TOC Hostel, Barcelona on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | TOC Hostel | Barcelona |
 | Sat, 12 Dec 2026 | Bikini Club | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ MøønkiZa is a house and progressive house artist, with 85 gigs on soundcheck a
 
 Agatha Pher, EVES DJ, Daniel Aguilar (2)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonkiza/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonkiza/)*

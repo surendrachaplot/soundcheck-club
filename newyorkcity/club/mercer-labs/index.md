@@ -1,14 +1,13 @@
 # Mercer Labs
 
-Mercer Labs is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Joonbug presents: Mercer Labs 10/30 - i have a secret to share with you" on Fri, 30 Oct 2026.
+Mercer Labs is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "MTRNM x CX present: Night at the Museum NYC - Nick Morgan" on Fri, 13 Nov 2026.
 
-Mercer Labs is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
+Mercer Labs is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Nick Morgan and OSCAAR. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Joonbug presents: Mercer Labs 10/30 - i have a secret to share with you |  |
-| Sat, 31 Oct 2026 | Joonbug presents: Mercer Labs 10/31 - i have a secret to share with you |  |
+| Fri, 13 Nov 2026 | MTRNM x CX present: Night at the Museum NYC - Nick Morgan | Nick Morgan, OSCAAR |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mercer-labs/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mercer-labs/)*

@@ -1,6 +1,6 @@
-# Program Audio x Signal present: Primo, S4M23, Erika, sfcowboy, Lexicon, moth at Signal
+# Program Audio x Signal present: Primo, S4M23, erika, sfcowboy, Lexicon, moth at Signal
 
-Program Audio x Signal present: Primo, S4M23, Erika, sfcowboy, Lexicon, moth on Thu 5 Nov, New York City. 6 artists: DJ Primo, erika (SF), Lexicon and moth (US) and 2 more. See the line-up on soundcheck.
+Program Audio x Signal present: Primo, S4M23, erika, sfcowboy, Lexicon, moth on Thu 5 Nov, New York City. 6 artists: DJ Primo, erika (SF), Lexicon and moth (US) and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

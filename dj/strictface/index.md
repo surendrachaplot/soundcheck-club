@@ -1,6 +1,6 @@
 # Strict Face
 
-Strict Face is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Electric Circus, Adelaide on Sat, 7 Nov 2026.
+Strict Face is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Electric Circus, Adelaide on Sat, 7 Nov 2026.
 
 Strict Face is a techno and bass artist based in Australia, with 29 gigs on soundcheck across Adelaide, Brisbane, Melbourne and Seoul and 1 more. Often billed alongside know.clu, sovblkpssy and 0800KIN. Next up: Electric Circus, Adelaide on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Strict Face is a techno and bass artist based in Australia, with 29 gigs on soun
 
 know.clu, sovblkpssy, 0800KIN
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strictface/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strictface/)*

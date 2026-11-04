@@ -1,13 +1,14 @@
 # DJ Cosworth
 
-DJ Cosworth is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Loft, Manchester on Thu, 3 Dec 2026.
+DJ Cosworth is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ministry Of Sound, London on Sat, 21 Nov 2026.
 
-DJ Cosworth is a garage and house artist based in United Kingdom, with 84 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Belfast and 22 more. Often billed alongside Oldboy, Dr Dubplate and Bakey. Next up: The Loft, Manchester on Thu 3 Dec.
+DJ Cosworth is a garage and house artist based in United Kingdom, with 85 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Belfast and 22 more. Often billed alongside Oldboy, Dr Dubplate and Bakey. Next up: Ministry Of Sound, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Ministry Of Sound | London |
 | Thu, 3 Dec 2026 | The Loft | Manchester |
 | Fri, 4 Dec 2026 | Digital | Newcastle |
 | Sat, 5 Dec 2026 | Hazy Club | Sheffield |
@@ -27,4 +28,4 @@ DJ Cosworth is a garage and house artist based in United Kingdom, with 84 gigs o
 
 Oldboy, Dr Dubplate, Bakey
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcosworth/)*

@@ -1,6 +1,6 @@
 # Bambule (Underground, All Time Favourites, Urban) at Cassiopeia
 
-Bambule (Underground, All Time Favourites, Urban) at Cassiopeia on Sat 28 Nov, Berlin. 4 artists: AWSM, Kite, LIZZN and Paula Hilton. House and Pop. See the line-up on soundcheck.
+Bambule (Underground, All Time Favourites, Urban) at Cassiopeia on Sat 28 Nov, Berlin. 3 artists: AWSM, LIZZN and Paula Hilton. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Bambule (Underground, All Time Favourites, Urban) at Cassiopeia on Sat 28 Nov, B
 ## Line-up
 
 - AWSM
-- Kite
 - LIZZN
 - Paula Hilton
 

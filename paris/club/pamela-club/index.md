@@ -1,6 +1,6 @@
 # Pamela Club
 
-Pamela Club is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Odara - Au Revoir Paris" on Fri, 6 Nov 2026.
+Pamela Club is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Odara - Au Revoir Paris" on Fri, 6 Nov 2026.
 
 Pamela Club is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Akalex, Angelita, Clara Rosa and MATVEÏ and 2 more. See dates, start times and who's playing. 62 Rue Mazarine, 75006 Paris, France.
 
@@ -16,4 +16,4 @@ Pamela Club is a music venue in Paris listed on soundcheck. 3 upcoming gigs, wit
 
 62 Rue Mazarine, 75006 Paris, France, Paris
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/pamela-club/)*

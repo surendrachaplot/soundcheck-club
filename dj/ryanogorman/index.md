@@ -1,13 +1,14 @@
 # Ryan O Gorman
 
-Ryan O Gorman is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Macarena Club, Barcelona on Thu, 19 Nov 2026.
+Ryan O Gorman is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Malasaña, Madrid on Sat, 7 Nov 2026.
 
-Ryan O Gorman is a house and balearic artist based in Ireland, with 38 gigs on soundcheck across Barcelona, Frankfurt, Ibiza and Madrid. Often billed alongside Nuzzo, Cami Jones and Camilo Miranda. Next up: Macarena Club, Barcelona on Thu 19 Nov.
+Ryan O Gorman is a house and balearic artist based in Ireland, with 39 gigs on soundcheck across Barcelona, Frankfurt, Ibiza and Madrid. Often billed alongside Nuzzo, Cami Jones and Camilo Miranda. Next up: Club Malasaña, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Club Malasaña | Madrid |
 | Thu, 19 Nov 2026 | Macarena Club | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ryan O Gorman is a house and balearic artist based in Ireland, with 38 gigs on s
 
 Nuzzo, Cami Jones, Camilo Miranda
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanogorman/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanogorman/)*

@@ -1,0 +1,28 @@
+# Hunkut
+
+Hunkut is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Unité.22, Marseille on Sat, 7 Nov 2026.
+
+Hunkut is a techno and house artist based in France, with 14 gigs on soundcheck across Bangkok, Berlin, Marseille and Paris. Often billed alongside Feroui, Nymed and Mars O10C. Next up: Unité.22, Marseille on Sat 7 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 7 Nov 2026 | Unité.22 | Marseille |
+
+## Recently played
+
+- OXI, Berlin · Sun, 27 Sept 2026
+- Petit CAB, Marseille · Fri, 18 Sept 2026
+- KitKatClub, Berlin · Fri, 11 Sept 2026
+- Unité.22, Marseille · Fri, 21 Aug 2026
+- Petit CAB, Marseille · Fri, 3 Jul 2026
+- Glazart, Paris · Sun, 28 Jun 2026
+- à la Folie Paris, Paris · Sat, 27 Jun 2026
+- à la Folie Paris, Paris · Sun, 24 May 2026
+
+## Shares bills with
+
+Feroui, Nymed, Mars O10C
+
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunkut/)*

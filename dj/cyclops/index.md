@@ -1,6 +1,6 @@
 # Cyclops
 
-Cyclops is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SILO, New-york-city on Sat, 6 Feb 2027.
+Cyclops is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at SILO, New-york-city on Sat, 6 Feb 2027.
 
 Cyclops is a bass and dubstep artist based in Italy, with 11 gigs on soundcheck across Atlanta, Austin, Detroit and Los Angeles and 2 more. Often billed alongside Excision, 999999999 and A Little Sound. Next up: SILO, New York City on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ Cyclops is a bass and dubstep artist based in Italy, with 11 gigs on soundcheck 
 
 Excision, 999999999, A Little Sound
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclops/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyclops/)*

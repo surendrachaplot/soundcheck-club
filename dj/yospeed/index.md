@@ -1,6 +1,6 @@
 # Yo Speed
 
-Yo Speed is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Circus Osaka, Osaka on Thu, 19 Nov 2026.
+Yo Speed is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Circus Osaka, Osaka on Thu, 19 Nov 2026.
 
 Yo Speed is a breakbeat and bass artist based in Spain, with 7 gigs on soundcheck across Brisbane, London, Melbourne and Osaka and 2 more. Often billed alongside Guau, AC Industries and Evil Nine. Next up: Circus Osaka, Osaka on Thu 19 Nov.
 
@@ -23,4 +23,4 @@ Yo Speed is a breakbeat and bass artist based in Spain, with 7 gigs on soundchec
 
 Guau, AC Industries, Evil Nine
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yospeed/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yospeed/)*

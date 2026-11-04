@@ -1,6 +1,6 @@
 # Jazz House Naru, Ochanomizu, Tokyo
 
-Jazz House Naru, Ochanomizu, Tokyo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Jim Butler Quartet: John Coltrane Tribute" on Fri, 6 Nov 2026.
+Jazz House Naru, Ochanomizu, Tokyo is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Jim Butler Quartet: John Coltrane Tribute" on Fri, 6 Nov 2026.
 
 Jazz House Naru, Ochanomizu, Tokyo is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Jazz House Naru, Ochanomizu, Tokyo is a music venue in Tokyo listed on soundchec
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Jim Butler Quartet: John Coltrane Tribute |  |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/jazz-house-naru-ochanomizu-tokyo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/jazz-house-naru-ochanomizu-tokyo/)*

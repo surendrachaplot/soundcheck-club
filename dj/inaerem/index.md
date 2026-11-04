@@ -1,6 +1,6 @@
 # in aerem
 
-in aerem is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Badaboum, Paris on Tue, 10 Nov 2026.
+in aerem is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Badaboum, Paris on Tue, 10 Nov 2026.
 
 in aerem is a disco and house artist, with 5 gigs on soundcheck across Paris. Often billed alongside Onibaku, Galgish and Labouts. Next up: Badaboum, Paris on Tue 10 Nov.
 
@@ -21,4 +21,4 @@ in aerem is a disco and house artist, with 5 gigs on soundcheck across Paris. Of
 
 Onibaku, Galgish, Labouts
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inaerem/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inaerem/)*

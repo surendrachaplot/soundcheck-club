@@ -1,6 +1,6 @@
 # DiV4
 
-DiV4 is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Crackhouse, Gdansk on Fri, 6 Nov 2026.
+DiV4 is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crackhouse, Gdansk on Fri, 6 Nov 2026.
 
 DiV4 is a bass and techno artist based in Poland, with 43 gigs on soundcheck across Berlin, Gdansk, Krakow and Poland and 4 more. Often billed alongside androgienia, KAROLINDA and monka. Next up: Crackhouse, Gdansk on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ DiV4 is a bass and techno artist based in Poland, with 43 gigs on soundcheck acr
 
 androgienia, KAROLINDA, monka
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/div4/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/div4/)*

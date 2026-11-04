@@ -1,6 +1,6 @@
 # Mungo's Hi Fi
 
-Mungo's Hi Fi is a Dub and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Art School, Glasgow on Thu, 5 Nov 2026.
+Mungo's Hi Fi is a Dub and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Art School, Glasgow on Thu, 5 Nov 2026.
 
 Mungo's Hi Fi is a dub and bass artist based in United Kingdom, with 65 gigs on soundcheck across Birmingham, Brighton, Bristol and Byron Bay and 18 more. Often billed alongside Eva Lazarus, Dillinja and Carasel. Next up: The Art School, Glasgow on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ Mungo's Hi Fi is a dub and bass artist based in United Kingdom, with 65 gigs on 
 
 Eva Lazarus, Dillinja, Carasel
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*

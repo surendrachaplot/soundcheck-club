@@ -1,6 +1,6 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Local 500 & Public Works present: Function 500 with FLUXIONS" on Thu, 5 Nov 2026.
+Public Works is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Local 500 & Public Works present: Function 500 with FLUXIONS" on Thu, 5 Nov 2026.
 
 Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 upcoming gigs, with line-ups including AGROPOL, bad juuju, Bandēs and Chris Lum and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
@@ -23,4 +23,4 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

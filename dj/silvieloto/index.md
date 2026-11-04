@@ -1,6 +1,6 @@
 # Silvie Loto
 
-Silvie Loto is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
+Silvie Loto is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Duggal Greenhouse, New York City on Fri, 20 Nov 2026.
 
 Silvie Loto is a house and tech house artist based in Italy, with 96 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 34 more. Often billed alongside PAWSA, Dennis Cruz and Jamie Jones. Next up: Duggal Greenhouse, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Silvie Loto is a house and tech house artist based in Italy, with 96 gigs on sou
 
 PAWSA, Dennis Cruz, Jamie Jones
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silvieloto/)*

@@ -1,8 +1,8 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Conflux presents: Doss & CFCF" on Fri, 6 Nov 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Conflux presents: Doss & CFCF" on Fri, 6 Nov 2026.
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 4 upcoming gigs, with line-ups including ACHAMA, CFCF, Ctrl.mp3 and DJ SWISHA and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 6 upcoming gigs, with line-ups including ACHAMA, CFCF, Ctrl.mp3 and DJ SWISHA and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
 ## What's on
 
@@ -12,9 +12,11 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 | Sat, 14 Nov 2026 | Club CTRL feat. DJ SWISHA | Ctrl.mp3, DJ SWISHA |
 | Sat, 14 Nov 2026 | Disco Dust: Luxxury and Théque Support | Luxxury, Théque Support |
 | Fri, 20 Nov 2026 | Hoochie Palace x DickAppointment (SEATTLE) | SKY JETTA |
+| Sat, 21 Nov 2026 | Fold: Kinjo, J.Why | Kinjo |
+| Sat, 5 Dec 2026 | Club CTRL feat. Qemist | Ctrl.mp3, Qemist |
 
 ## Address
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

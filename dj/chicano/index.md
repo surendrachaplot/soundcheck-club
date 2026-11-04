@@ -1,8 +1,8 @@
 # Chicano
 
-Chicano is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
+Chicano is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Loft, Vienna on Fri, 20 Nov 2026.
 
-Chicano is a techno artist, with 5 gigs on soundcheck across Berlin and Vienna. Often billed alongside Userkiller, Albin Brezlan and Ben Green. Next up: The Loft, Vienna on Fri 20 Nov.
+Chicano is a techno artist based in Germany, with 5 gigs on soundcheck across Berlin and Vienna. Often billed alongside Userkiller, Albin Brezlan and Ben Green. Next up: The Loft, Vienna on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Chicano is a techno artist, with 5 gigs on soundcheck across Berlin and Vienna. 
 
 Userkiller, Albin Brezlan, Ben Green
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicano/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicano/)*

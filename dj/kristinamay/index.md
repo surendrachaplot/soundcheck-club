@@ -1,6 +1,6 @@
 # Kristina May
 
-Kristina May is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Greyhound, London on Fri, 6 Nov 2026.
+Kristina May is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Greyhound, London on Fri, 6 Nov 2026.
 
 Kristina May is a techno and electro artist based in Moldova, with 19 gigs on soundcheck across Hamburg and London. Often billed alongside Alien Communications, CRL and 50PHIE. Next up: The Greyhound, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kristina May is a techno and electro artist based in Moldova, with 19 gigs on so
 
 Alien Communications, CRL (1), 50PHIE
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristinamay/)*

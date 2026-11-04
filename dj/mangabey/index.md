@@ -1,6 +1,6 @@
 # Mangabey
 
-Mangabey is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Super7, Lyon on Sat, 7 Nov 2026.
+Mangabey is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Super7, Lyon on Sat, 7 Nov 2026.
 
 Mangabey is a house and electro artist, with 24 gigs on soundcheck across Lyon, Madrid and Paris. Often billed alongside Bernadette, Ams (FR) and Cosmonection. Next up: Super7, Lyon on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mangabey is a house and electro artist, with 24 gigs on soundcheck across Lyon, 
 
 Bernadette, Ams (FR), Cosmonection
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mangabey/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mangabey/)*

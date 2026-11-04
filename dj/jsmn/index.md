@@ -1,6 +1,6 @@
 # JSMN
 
-JSMN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pier 80 Warehouse, San Francisco/Oakland on Sat, 2 Jan 2027.
+JSMN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pier 80 Warehouse, San Francisco/Oakland on Sat, 2 Jan 2027.
 
 JSMN is a techno and house artist based in United States of America, with 54 gigs on soundcheck across Chicago, London, Los Angeles and New York City and 4 more. Often billed alongside 999999999, AC Slater and AIDA (CA). Next up: Pier 80 Warehouse, San Francisco/Oakland on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ JSMN is a techno and house artist based in United States of America, with 54 gig
 
 999999999, AC Slater, AIDA (CA)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jsmn/)*

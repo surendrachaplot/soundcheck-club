@@ -1,6 +1,6 @@
 # Billy Scurry
 
-Billy Scurry is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 6 Nov 2026.
+Billy Scurry is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 6 Nov 2026.
 
 Billy Scurry is a house artist based in Ireland, with 6 gigs on soundcheck across Dublin. Often billed alongside Arveene, Alba and Donal Dineen. Next up: Hang Dai Chinese, Dublin on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Billy Scurry is a house artist based in Ireland, with 6 gigs on soundcheck acros
 
 Arveene, Alba (2), Donal Dineen
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billyscurry/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billyscurry/)*

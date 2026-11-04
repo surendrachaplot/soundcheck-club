@@ -1,6 +1,6 @@
 # Kristijan Molnar
 
-Kristijan Molnar is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 7 Nov 2026.
+Kristijan Molnar is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 7 Nov 2026.
 
 Kristijan Molnar is a house and electronica artist, with 22 gigs on soundcheck across Belgrade, Budapest and Zagreb. Often billed alongside Âme, Pepi Jogarde and After Affair. Next up: Peti Kupe, Zagreb on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kristijan Molnar is a house and electronica artist, with 22 gigs on soundcheck a
 
 Âme, Pepi Jogarde, After Affair
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristijanmolnar/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristijanmolnar/)*

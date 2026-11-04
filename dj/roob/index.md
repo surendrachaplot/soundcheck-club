@@ -1,6 +1,6 @@
 # ROOB
 
-ROOB is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Baalsaal, Hamburg on Sat, 28 Nov 2026.
+ROOB is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Baalsaal, Hamburg on Sat, 28 Nov 2026.
 
 ROOB is a techno and acid artist based in Germany, with 28 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Aseptic, Endrew and Syntax Error. Next up: Baalsaal, Hamburg on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ ROOB is a techno and acid artist based in Germany, with 28 gigs on soundcheck ac
 
 Aseptic, Endrew, Syntax Error
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roob/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roob/)*

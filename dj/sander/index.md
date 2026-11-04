@@ -1,6 +1,6 @@
 # Sander
 
-Sander is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sardafi, Tbilisi on Sat, 21 Nov 2026.
+Sander is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sardafi, Tbilisi on Sat, 21 Nov 2026.
 
 Sander is a techno and industrial artist based in Georgia, with 5 gigs on soundcheck across Amsterdam, Chicago, Paris and Tbilisi. Often billed alongside Alex Kislov, Amnaye and Armin.. Next up: Sardafi, Tbilisi on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Sander is a techno and industrial artist based in Georgia, with 5 gigs on soundc
 
 Alex Kislov, Amnaye, Armin.
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sander/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sander/)*

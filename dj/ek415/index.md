@@ -1,8 +1,8 @@
 # ek:)
 
-ek:) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
+ek:) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
 
-ek:) is a techno and club artist based in United States of America, with 19 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Just Another Bitch, ZZ and jmo corleone. Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
+ek:) is a techno and club artist based in United States of America, with 19 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Just Another Bitch, ZZ and 40split. Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ ek:) is a techno and club artist based in United States of America, with 19 gigs
 
 ## Shares bills with
 
-Just Another Bitch, ZZ (4), jmo corleone
+Just Another Bitch, ZZ (4), 40split
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ek415/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ek415/)*

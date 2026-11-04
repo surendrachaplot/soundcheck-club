@@ -1,6 +1,6 @@
 # DJ AKEE
 
-DJ AKEE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Fri, 6 Nov 2026.
+DJ AKEE is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Fri, 6 Nov 2026.
 
 DJ AKEE is a house and disco artist, with 5 gigs on soundcheck across Istanbul, Kazakhstan, Seoul and Tbilisi and 1 more. Often billed alongside Nazira, akkujava and ANDOW. Next up: TBA - Grand Hyatt JJ Mahoney's, Seoul on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ DJ AKEE is a house and disco artist, with 5 gigs on soundcheck across Istanbul, 
 
 Nazira, akkujava, ANDOW
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djakee/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djakee/)*

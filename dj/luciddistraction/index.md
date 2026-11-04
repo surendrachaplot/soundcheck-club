@@ -1,6 +1,6 @@
 # Lucid Distraction
 
-Lucid Distraction is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - DTLA Venue, Los Angeles on Fri, 6 Nov 2026.
+Lucid Distraction is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - DTLA Venue, Los Angeles on Fri, 6 Nov 2026.
 
 Lucid Distraction is an electro and techno artist, with 5 gigs on soundcheck across Los Angeles. Often billed alongside James Lauer, SASO and Akumen. Next up: TBA - DTLA Venue, Los Angeles on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Lucid Distraction is an electro and techno artist, with 5 gigs on soundcheck acr
 
 James Lauer, SASO, Akumen
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciddistraction/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciddistraction/)*

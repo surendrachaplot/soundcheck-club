@@ -1,6 +1,6 @@
 # Bubbledee: House Music Haven – Sunday Special – 12 Hours Non-Stop - 3PM–3AM at Starlane Pizza Bar
 
-Bubbledee: House Music Haven – Sunday Special – 12 Hours Non-Stop - 3PM–3AM at Starlane Pizza Bar on Sun 8 Nov, London. 3 artists: Elliott Timoti, Irren and Larry Cadge. House and Minimal. See the line-up on soundcheck.
+Bubbledee: House Music Haven – Sunday Special – 12 Hours Non-Stop - 3PM–3AM at Starlane Pizza Bar on Sun 8 Nov, London. 3 artists: Irren, Larry Cadge and Timoti. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,8 @@ Bubbledee: House Music Haven – Sunday Special – 12 Hours Non-Stop - 3PM–3A
 
 ## Line-up
 
-- Elliott Timoti
 - Irren
 - Larry Cadge
+- Timoti
 
 *Source: [soundcheck](https://soundcheck.club/e/2529625-bubbledee-house-music-haven-sunday-special-12-hours-non-stop/)*

@@ -1,13 +1,14 @@
 # Mithun
 
-Mithun is a Club and Kuduro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at fabric, London on Fri, 6 Nov 2026.
+Mithun is a Club and Kuduro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Marquee Moon, London on Thu, 5 Nov 2026.
 
-Mithun is a club and kuduro artist based in United Kingdom, with 11 gigs on soundcheck across Lisbon, London and New York City. Often billed alongside Izzi, Sway Of The Verses and AUKA. Next up: fabric, London on Fri 6 Nov.
+Mithun is a club and kuduro artist based in United Kingdom, with 12 gigs on soundcheck across Lisbon, London and New York City. Often billed alongside Izzi, Sway Of The Verses and karishma. Next up: The Marquee Moon, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | The Marquee Moon | London |
 | Fri, 6 Nov 2026 | fabric | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mithun is a club and kuduro artist based in United Kingdom, with 11 gigs on soun
 
 ## Shares bills with
 
-Izzi, Sway Of The Verses, AUKA
+Izzi, Sway Of The Verses, karishma
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mithun/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mithun/)*

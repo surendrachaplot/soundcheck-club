@@ -1,6 +1,6 @@
 # Harmonia
 
-Harmonia is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Duel Club, Naples on Fri, 18 Dec 2026.
+Harmonia is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Duel Club, Naples on Fri, 18 Dec 2026.
 
 Harmonia is a tech house and downtempo artist, with 4 gigs on soundcheck across Berlin, Bristol and Naples. Often billed alongside 4am Kru, A For Alpha and Amber. Next up: Duel Club, Naples on Fri 18 Dec.
 
@@ -20,4 +20,4 @@ Harmonia is a tech house and downtempo artist, with 4 gigs on soundcheck across 
 
 4am Kru, A For Alpha, Amber
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harmonia/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harmonia/)*

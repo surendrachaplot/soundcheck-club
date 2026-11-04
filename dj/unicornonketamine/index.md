@@ -1,6 +1,6 @@
 # Unicorn on Ketamine
 
-Unicorn on Ketamine is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Wejscie 3, Lodz on Fri, 6 Nov 2026.
+Unicorn on Ketamine is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Wejscie 3, Lodz on Fri, 6 Nov 2026.
 
 Unicorn on Ketamine is a hardcore and techno artist based in Spain, with 18 gigs on soundcheck across Barcelona, Berlin, Brussels and Budapest and 10 more. Often billed alongside billx, Angerfist and The Dark Horror. Next up: Wejscie 3, Lodz on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Unicorn on Ketamine is a hardcore and techno artist based in Spain, with 18 gigs
 
 billx, Angerfist, The Dark Horror
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unicornonketamine/)*

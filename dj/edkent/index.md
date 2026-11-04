@@ -1,6 +1,6 @@
 # Ed Kent
 
-Ed Kent is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Ed Kent is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Ed Kent is a house and techno artist based in Australia, with 83 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Sydney and 1 more. Often billed alongside Hannah D, Mabel and Séarlait. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Ed Kent is a house and techno artist based in Australia, with 83 gigs on soundch
 
 Hannah D, Mabel, Séarlait
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edkent/)*

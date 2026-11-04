@@ -1,6 +1,6 @@
 # Sekta
 
-Sekta is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 4 Dec 2026.
+Sekta is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 4 Dec 2026.
 
 Sekta is a trance and techno artist based in Poland, with 5 gigs on soundcheck across Copenhagen, Hobart, Melbourne and Sydney. Often billed alongside Alex Bohemien, Alexander Santana and Anna Logic. Next up: Carousel Bar & Ballroom, Sydney on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Sekta is a trance and techno artist based in Poland, with 5 gigs on soundcheck a
 
 Alex Bohemien, Alexander Santana, Anna Logic
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sekta/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sekta/)*

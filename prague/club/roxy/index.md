@@ -1,14 +1,15 @@
 # Roxy
 
-Roxy is a music venue in Prague with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "RIRIA & Yung Singh ∞ ROXY Prague" on Sat, 7 Nov 2026.
+Roxy is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "RIRIA & Yung Singh ∞ ROXY Prague" on Sat, 7 Nov 2026.
 
-Roxy is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with line-ups including Adam Beyer, Agents Of Time, Darren Emerson and Ely Oaks and 2 more. See dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
+Roxy is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including Adam Beyer, Agents Of Time, Darren Emerson and Ely Oaks and 2 more. See dates, start times and who's playing. Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | RIRIA & Yung Singh ∞ ROXY Prague | RIRIA, Yung Singh |
+| Sat, 7 Nov 2026 | RIRIA & Yung Singh + Young Aesthete & Kewu | Kewu, RIRIA, Young Aesthete, Yung Singh |
 | Fri, 13 Nov 2026 | Agents Of Time ∞ ROXY Prague | Agents Of Time |
 | Sat, 14 Nov 2026 | Leftfield ∞ ROXY Prague | Darren Emerson, Leftfield |
 | Mon, 16 Nov 2026 | Vieze Asbak ∞ ROXY Prague | Vieze Asbak |
@@ -17,10 +18,9 @@ Roxy is a music venue in Prague listed on soundcheck. 12 upcoming gigs, with lin
 | Mon, 23 Nov 2026 | VENJENT ∞ ROXY Prague |  |
 | Fri, 27 Nov 2026 | MCR-T ∞ ROXY Prague | MCR-T |
 | Sat, 28 Nov 2026 | Kanine ∞ ROXY Prague | Kanine |
-| Fri, 29 Jan 2027 | Adam Beyer ∞ ROXY Prague | Adam Beyer |
 
 ## Address
 
 Dlouhá 33, 110 00 Praha 1, Prague, Czech Republic, Prague
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/roxy/)*

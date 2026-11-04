@@ -1,6 +1,6 @@
 # Plaid
 
-Plaid is a IDM and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Industrial Copera, South on Sat, 21 Nov 2026.
+Plaid is a IDM and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Industrial Copera, South on Sat, 21 Nov 2026.
 
 Plaid is an idm and electro artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Grand River, Honey Dijon and James Holden. Next up: Industrial Copera, South on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Plaid is an idm and electro artist based in United Kingdom, with 38 gigs on soun
 
 Grand River, Honey Dijon, James Holden
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plaid/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plaid/)*

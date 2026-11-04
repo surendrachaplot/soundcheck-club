@@ -1,6 +1,6 @@
 # Clouclou Mamie's
 
-Clouclou Mamie's is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat, 21 Nov 2026.
+Clouclou Mamie's is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat, 21 Nov 2026.
 
 Clouclou Mamie's is a house and disco artist, with 4 gigs on soundcheck across Bangkok and Paris. Often billed alongside Mamie's, Theo Terev and Axelle Maga. Next up: TBA - The Parlor @ The Standard Bangkok, Bangkok on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Clouclou Mamie's is a house and disco artist, with 4 gigs on soundcheck across B
 
 Mamie's, Theo Terev, Axelle Maga
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloucloumamies/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloucloumamies/)*

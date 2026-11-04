@@ -1,6 +1,6 @@
 # Liquid Soul
 
-Liquid Soul is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Industrie Bännli, Switzerland on Sat, 7 Nov 2026.
+Liquid Soul is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Industrie Bännli, Switzerland on Sat, 7 Nov 2026.
 
 Liquid Soul is a psytrance and techno artist based in Switzerland, with 34 gigs on soundcheck across Berlin, Budapest, Cologne and Freiburg and 9 more. Often billed alongside Ambient Pino, Berg and Adrian Mills. Next up: Industrie Bännli, Switzerland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Liquid Soul is a psytrance and techno artist based in Switzerland, with 34 gigs 
 
 Ambient Pino, Berg, Adrian Mills
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidsoul/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidsoul/)*

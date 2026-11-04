@@ -1,6 +1,6 @@
 # Anh Vy
 
-Anh Vy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Panorama Studio, Ho-chi-minh-city on Thu, 31 Dec 2026.
+Anh Vy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Panorama Studio, Ho-chi-minh-city on Thu, 31 Dec 2026.
 
 Anh Vy is a techno and house artist based in Vietnam, with 117 gigs on soundcheck across Bangkok, Beijing, Hanoi and Ho Chi Minh City and 5 more. Often billed alongside Park:ING, BongBongQuayQuay and Khoi Mai. Next up: Panorama Studio, Ho Chi Minh City on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Anh Vy is a techno and house artist based in Vietnam, with 117 gigs on soundchec
 
 Park:ING, BongBongQuayQuay, Khoi Mai
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anhvy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anhvy/)*

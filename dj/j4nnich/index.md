@@ -1,6 +1,6 @@
 # J4NNICH
 
-J4NNICH is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+J4NNICH is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
 J4NNICH is a techno and tech house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside sischex, *Tia* and Amin Fallaha. Next up: ://about blank, Berlin on Fri 4 Dec.
 
@@ -20,4 +20,4 @@ J4NNICH is a techno and tech house artist based in Germany, with 4 gigs on sound
 
 sischex, *Tia*, Amin Fallaha
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j4nnich/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j4nnich/)*

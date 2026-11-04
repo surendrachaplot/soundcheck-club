@@ -1,6 +1,6 @@
 # Badger (UK)
 
-Badger (UK) is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
+Badger (UK) is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
 
 Badger (UK) is a garage and bass artist based in United Kingdom, with 73 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 32 more. Often billed alongside Arthi, BEN GERRANS and DJ Hazard. Next up: Sawmills, Bristol on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Badger (UK) is a garage and bass artist based in United Kingdom, with 73 gigs on
 
 Arthi, BEN GERRANS, DJ Hazard
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badger-uk/)*

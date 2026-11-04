@@ -1,6 +1,6 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Cocoon Frankfurt ZOOM" on Fri, 6 Nov 2026.
+Zoom Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Cocoon Frankfurt ZOOM" on Fri, 6 Nov 2026.
 
 Zoom Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Cara Elizabeth, Fedele, Marcel Dettmann and Maurizio Schmitz and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
@@ -20,4 +20,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, w
 
 Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

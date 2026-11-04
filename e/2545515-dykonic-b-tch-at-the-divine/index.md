@@ -1,6 +1,6 @@
 # DYKONIC B*TCH at The Divine
 
-DYKONIC B*TCH at The Divine on Fri 6 Nov, London. 4 artists: Karlie Marx, Meg Ward, Princess Julia and Reenie (UK). Club. See the line-up on soundcheck.
+DYKONIC B*TCH at The Divine on Fri 6 Nov, London. 3 artists: Karlie Marx, Meg Ward and Princess Julia. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,5 @@ DYKONIC B*TCH at The Divine on Fri 6 Nov, London. 4 artists: Karlie Marx, Meg Wa
 - Karlie Marx
 - Meg Ward
 - Princess Julia
-- Reenie (UK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2545515-dykonic-b-tch-at-the-divine/)*

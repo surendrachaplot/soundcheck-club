@@ -1,6 +1,6 @@
 # WKND X Nika Herero at Weekend
 
-WKND X Nika Herero at Weekend on Fri 27 Nov, Berlin. 1 artist: Nika Herero. Techno and House. See the line-up on soundcheck.
+WKND X Nika Herero at Weekend on Fri 27 Nov, Berlin. 2 artists: Kuyateh and Nika Herero. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ WKND X Nika Herero at Weekend on Fri 27 Nov, Berlin. 1 artist: Nika Herero. Tech
 
 ## Line-up
 
+- Kuyateh
 - Nika Herero
 
 *Source: [soundcheck](https://soundcheck.club/e/2528960-wknd-x-nika-herero-at-weekend/)*

@@ -1,6 +1,6 @@
 # Slipmatt
 
-Slipmatt is a Hardcore and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Slipmatt is a Hardcore and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Slipmatt is a hardcore and house artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brighton and 11 more. Often billed alongside Ratpack, Grooverider and Nicky Blackmarket. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Slipmatt is a hardcore and house artist based in United Kingdom, with 67 gigs on
 
 Ratpack, Grooverider, Nicky Blackmarket
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slipmatt/)*

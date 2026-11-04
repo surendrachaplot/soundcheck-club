@@ -1,6 +1,6 @@
 # Okarim
 
-Okarim is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Legal, Munich on Fri, 13 Nov 2026.
+Okarim is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Legal, Munich on Fri, 13 Nov 2026.
 
 Okarim is a tech house and house artist based in Germany, with 5 gigs on soundcheck across Munich. Often billed alongside VSMR, Andre Zimmer and Cody Currie. Next up: Legal, Munich on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Okarim is a tech house and house artist based in Germany, with 5 gigs on soundch
 
 VSMR, Andre Zimmer, Cody Currie
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okarim/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okarim/)*

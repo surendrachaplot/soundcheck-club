@@ -1,6 +1,6 @@
 # Topal
 
-Topal is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bike Jesus, Prague on Sat, 28 Nov 2026.
+Topal is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bike Jesus, Prague on Sat, 28 Nov 2026.
 
 Topal is a house and tech house artist based in Turkey, with 7 gigs on soundcheck across Prague. Often billed alongside Blackloud, KAWA and Durgen. Next up: Bike Jesus, Prague on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Topal is a house and tech house artist based in Turkey, with 7 gigs on soundchec
 
 Blackloud, KAWA, Durgen
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/topal/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/topal/)*

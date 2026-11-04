@@ -1,6 +1,6 @@
 # THYS (2)
 
-THYS (2) is a Progressive House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Pracht, Frankfurt on Sat, 7 Nov 2026.
+THYS (2) is a Progressive House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Pracht, Frankfurt on Sat, 7 Nov 2026.
 
 THYS is a progressive house and tech house artist based in Germany, with 8 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside ABADIR, Bill Kouligas and Binghi. Next up: Pracht, Frankfurt on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ THYS is a progressive house and tech house artist based in Germany, with 8 gigs 
 
 ABADIR, Bill Kouligas, Binghi
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thys-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thys-2/)*

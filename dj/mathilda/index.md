@@ -1,6 +1,6 @@
 # Mathilda
 
-Mathilda is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
+Mathilda is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
 Mathilda is a techno and trance artist based in Finland, with 18 gigs on soundcheck across Berlin, Hamburg, Hannover and Istanbul and 1 more. Often billed alongside BNZN, Carluschka and Cleopard2000. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Mathilda is a techno and trance artist based in Finland, with 18 gigs on soundch
 
 BNZN, Carluschka, Cleopard2000
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathilda/)*

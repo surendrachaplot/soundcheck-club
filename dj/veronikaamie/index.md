@@ -1,6 +1,6 @@
 # Veronika Amie
 
-Veronika Amie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SASS Music Club, Vienna on Sat, 14 Nov 2026.
+Veronika Amie is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at SASS Music Club, Vienna on Sat, 14 Nov 2026.
 
 Veronika Amie is a house and tech house artist based in Austria, with 22 gigs on soundcheck across Vienna. Often billed alongside Thomas Grün, Philipp Blecha and Robin Ma'Ar. Next up: SASS Music Club, Vienna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Veronika Amie is a house and tech house artist based in Austria, with 22 gigs on
 
 Thomas Grün, Philipp Blecha, Robin Ma'Ar
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veronikaamie/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veronikaamie/)*

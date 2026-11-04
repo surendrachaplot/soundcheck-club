@@ -1,6 +1,6 @@
 # Toúcanplay
 
-Toúcanplay is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sun, 27 Dec 2026.
+Toúcanplay is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sun, 27 Dec 2026.
 
 Toúcanplay is a deep house and minimal artist, with 9 gigs on soundcheck across London and Manchester. Often billed alongside Azire, Jermaine Lee and Dafs. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Toúcanplay is a deep house and minimal artist, with 9 gigs on soundcheck across
 
 Azire, Jermaine Lee, Dafs
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toucanplay/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toucanplay/)*

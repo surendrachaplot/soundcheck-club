@@ -1,6 +1,6 @@
 # Cynthia Matisse
 
-Cynthia Matisse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
+Cynthia Matisse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
 
 Cynthia Matisse is a techno and house artist, with 21 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig and 3 more. Often billed alongside Submod, Lydmate and MAY/O. Next up: Bassiani, Tbilisi on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Cynthia Matisse is a techno and house artist, with 21 gigs on soundcheck across 
 
 Submod, Lydmate, MAY/O
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynthiamatisse/)*

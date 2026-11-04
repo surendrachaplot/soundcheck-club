@@ -1,8 +1,8 @@
 # IC3
 
-IC3 is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+IC3 is a Drum & Bass and Jungle artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
-IC3 is a drum & bass and jungle artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Cardiff and 9 more. Often billed alongside Dillinja, DJ Hype and Eksman. Next up: XOYO, London on Sat 7 Nov.
+IC3 is a drum & bass and jungle artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Cardiff and 10 more. Often billed alongside Dillinja, Eksman and DJ Hype. Next up: XOYO, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,8 @@ IC3 is a drum & bass and jungle artist based in United Kingdom, with 93 gigs on 
 | Sat, 14 Nov 2026 | The Prospect Building | Bristol |
 | Fri, 20 Nov 2026 | TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday) | Amsterdam |
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
+| Fri, 18 Dec 2026 | Komedia Bath | West-wales |
+| Sun, 27 Dec 2026 | E1 | London |
 | Sun, 27 Dec 2026 | Vespers Club | London |
 | Thu, 31 Dec 2026 | Fire | London |
 | Sat, 9 Jan 2027 | KOKO | London |
@@ -30,6 +32,6 @@ IC3 is a drum & bass and jungle artist based in United Kingdom, with 93 gigs on 
 
 ## Shares bills with
 
-Dillinja, DJ Hype, Eksman
+Dillinja, Eksman, DJ Hype
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ic3/)*

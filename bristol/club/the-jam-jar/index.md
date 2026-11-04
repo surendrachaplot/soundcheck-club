@@ -1,6 +1,6 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Miche "With Love" (Mr Bongo)" on Thu, 5 Nov 2026.
+The Jam Jar is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Miche "With Love" (Mr Bongo)" on Thu, 5 Nov 2026.
 
 The Jam Jar is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including 2 Bad Mice, Abby Daze, Etch and Girls of the Internet and 2 more. See dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
@@ -17,4 +17,4 @@ The Jam Jar is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, w
 
 Little Ann St, Bristol BS2 9EB, United Kingdom, Bristol
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-jam-jar/)*

@@ -1,8 +1,8 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+DJ Heartstring is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
-DJ Heartstring is a techno and trance artist based in Germany, with 244 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 76 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+DJ Heartstring is a techno and trance artist based in Germany, with 245 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 76 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Heartstring is a techno and trance artist based in Germany, with 244 gigs on 
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | The Telegraph Building | Belfast |
 | Sun, 6 Dec 2026 | Sala Cocó | Madrid |
+| Sat, 30 Jan 2027 | O2 Academy Brixton | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ DJ Heartstring is a techno and trance artist based in Germany, with 244 gigs on 
 
 MALUGI, Partiboi69, KETTAMA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*

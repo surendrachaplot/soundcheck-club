@@ -1,6 +1,6 @@
 # Kléo
 
-Kléo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Doka, Amsterdam on Fri, 11 Dec 2026.
+Kléo is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Doka, Amsterdam on Fri, 11 Dec 2026.
 
 Kléo is a house and disco artist based in France, with 114 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 29 more. Often billed alongside Antal, Hunee and Lakuti. Next up: Doka, Amsterdam on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Kléo is a house and disco artist based in France, with 114 gigs on soundcheck a
 
 Antal, Hunee, Lakuti
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo/)*

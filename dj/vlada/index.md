@@ -1,6 +1,6 @@
 # Vlada
 
-Vlada is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Vlada is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Vlada is a techno and house artist based in Russia, with 222 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 64 more. Often billed alongside Vaahzer, Aurora Halal and Kia (AU). Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Vlada is a techno and house artist based in Russia, with 222 gigs on soundcheck 
 
 Vaahzer, Aurora Halal, Kia (AU)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vlada/)*

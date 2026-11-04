@@ -1,6 +1,6 @@
 # marino2
 
-marino2 is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Macadam, Nantes on Sat, 16 Jan 2027.
+marino2 is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Macadam, Nantes on Sat, 16 Jan 2027.
 
 marino2 is a bass and techno artist, with 5 gigs on soundcheck across Berlin, Nantes and Paris. Often billed alongside CCL, Dj wiggles and Forest. Next up: Macadam, Nantes on Sat 16 Jan.
 
@@ -21,4 +21,4 @@ marino2 is a bass and techno artist, with 5 gigs on soundcheck across Berlin, Na
 
 CCL, Dj wiggles, Forest
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marino2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marino2/)*

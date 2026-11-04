@@ -1,6 +1,6 @@
 # AKANE (JP)
 
-AKANE (JP) is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - CENTARAL3F, Chubu on Fri, 20 Nov 2026.
+AKANE (JP) is a Dubstep and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - CENTARAL3F, Chubu on Fri, 20 Nov 2026.
 
 AKANE (JP) is a dubstep and house artist based in Japan, with 4 gigs on soundcheck across Chubu and Tokyo. Often billed alongside ARCHITECH (JP), FukuChan and ISAJI. Next up: TBA - CENTARAL3F, Chubu on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ AKANE (JP) is a dubstep and house artist based in Japan, with 4 gigs on soundche
 
 ARCHITECH (JP), FukuChan, ISAJI
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akanejp/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akanejp/)*

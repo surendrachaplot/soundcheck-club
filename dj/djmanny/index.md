@@ -1,6 +1,6 @@
 # DJ Manny
 
-DJ Manny is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 14 Nov 2026.
+DJ Manny is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 14 Nov 2026.
 
 DJ Manny is a footwork and ghetto tech artist based in United States of America, with 99 gigs on soundcheck across Austin, Baltimore, Boston and Charlotte and 10 more. Often billed alongside Traxman, DJ Phil and DJ Spinn. Next up: Bossa Nova Civic Club, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Manny is a footwork and ghetto tech artist based in United States of America,
 
 Traxman, DJ Phil, DJ Spinn
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmanny/)*

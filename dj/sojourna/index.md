@@ -1,18 +1,18 @@
 # Sojourna
 
-Sojourna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Aoyama Hachi, Tokyo on Tue, 3 Nov 2026.
+Sojourna is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at VENT, Tokyo on Sat, 7 Nov 2026.
 
-Sojourna is a techno and house artist based in Japan, with 171 gigs on soundcheck across Tokyo. Often billed alongside Gojitmal, Anapol and Drinkss. Next up: Aoyama Hachi, Tokyo on Tue 3 Nov.
+Sojourna is a techno and house artist based in Japan, with 171 gigs on soundcheck across Tokyo. Often billed alongside Gojitmal, Anapol and Drinkss. Next up: VENT, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Aoyama Hachi | Tokyo |
 | Sat, 7 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
 
+- Aoyama Hachi, Tokyo · Tue, 3 Nov 2026
 - Daikanyama ORD., Tokyo · Wed, 30 Sept 2026
 - Aoyama Hachi, Tokyo · Mon, 21 Sept 2026
 - Bonobo, Tokyo · Fri, 18 Sept 2026
@@ -20,10 +20,9 @@ Sojourna is a techno and house artist based in Japan, with 171 gigs on soundchec
 - White Space Lab, Tokyo · Fri, 14 Aug 2026
 - UTOPIA / DYSTOPIA, Tokyo · Fri, 24 Jul 2026
 - Utopia/Dystopia, Tokyo · Fri, 5 Jun 2026
-- UTOPIA / DYSTOPIA, Tokyo · Sat, 30 May 2026
 
 ## Shares bills with
 
 Gojitmal, Anapol, Drinkss
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sojourna/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sojourna/)*

@@ -1,8 +1,8 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Moxy Muzik - Darius Syrossian, Jeremy Underground, Rio Tashan, Miruna Ghica B2B MRCL" on Fri, 6 Nov 2026.
+UNLOCKED is a music venue in London with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Moxy Muzik - Darius Syrossian, Jeremy Underground, Rio Tashan, Miruna Ghica B2B MRCL" on Fri, 6 Nov 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Andhim, Darius Syrossian, Don Diablo and HARTY and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Andhim, Darius Syrossian, Don Diablo and HARTY and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
@@ -10,6 +10,7 @@ UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming gigs, with 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Moxy Muzik - Darius Syrossian, Jeremy Underground, Rio Tashan, Miruna Ghica B2B MRCL | Darius Syrossian, Jeremy Underground, Miruna Ghica, Rio Tashan |
 | Sat, 7 Nov 2026 | RAVE IN SPACE | HARTY, JAYDAA, Jnr Windross, Summer Ghemati |
+| Thu, 12 Nov 2026 | WE LUV GARAGE 360° |  |
 | Fri, 20 Nov 2026 | Parable: Andhim, TIMANTI, Nat Gohl | Andhim, Nat Gohl, TIMANTI |
 | Thu, 26 Nov 2026 | Jadu Heart - ALBUM POP UP |  |
 | Fri, 27 Nov 2026 | IDEMI - Headline Show - UNLOCKED, London | IDEMI |
@@ -20,4 +21,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming gigs, with 
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

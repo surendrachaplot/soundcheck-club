@@ -1,6 +1,6 @@
 # Modeselektor
 
-Modeselektor is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Button Factory, Dublin on Fri, 6 Nov 2026.
+Modeselektor is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Button Factory, Dublin on Fri, 6 Nov 2026.
 
 Modeselektor is a techno and electronica artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 37 more. Often billed alongside Anetha, Dixon and Helena Hauff. Next up: Button Factory, Dublin on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Modeselektor is a techno and electronica artist based in Germany, with 73 gigs o
 
 Anetha, Dixon, Helena Hauff
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*

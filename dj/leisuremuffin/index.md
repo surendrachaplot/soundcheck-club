@@ -1,6 +1,6 @@
 # Leisure Muffin
 
-Leisure Muffin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Holy Diver, Louisiana on Wed, 4 Nov 2026.
+Leisure Muffin is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Holy Diver, Louisiana on Wed, 4 Nov 2026.
 
 Leisure Muffin is a techno and acid artist, with 14 gigs on soundcheck across Louisiana and New Orleans. Often billed alongside Paul O'Neill, Interesting Results and Javier Drada. Next up: Holy Diver, Louisiana on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Leisure Muffin is a techno and acid artist, with 14 gigs on soundcheck across Lo
 
 Paul O'Neill, Interesting Results, Javier Drada
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leisuremuffin/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leisuremuffin/)*

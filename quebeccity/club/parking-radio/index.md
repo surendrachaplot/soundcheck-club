@@ -1,6 +1,6 @@
 # Parking.Radio
 
-Parking.Radio is a music venue in Quebec City with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "GUEST MIXES" on Thu, 5 Nov 2026.
+Parking.Radio is a music venue in Quebec City with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "GUEST MIXES" on Thu, 5 Nov 2026.
 
 Parking.Radio is a music venue in Quebec City listed on soundcheck. 13 upcoming gigs, with line-ups including Billy Bondage, BUYMEFLOVVERS, Casa Kobrae and Katamina and 2 more. See dates, start times and who's playing. Québec, G1K 2Y2.
 
@@ -23,4 +23,4 @@ Parking.Radio is a music venue in Quebec City listed on soundcheck. 13 upcoming 
 
 Québec, G1K 2Y2, Quebec City
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/quebeccity/club/parking-radio/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/quebeccity/club/parking-radio/)*

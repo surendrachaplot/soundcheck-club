@@ -1,6 +1,6 @@
 # Kamaida
 
-Kamaida is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at DeTour, Tokyo on Sun, 8 Nov 2026.
+Kamaida is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at DeTour, Tokyo on Sun, 8 Nov 2026.
 
 Kamaida is a techno and house artist based in Japan, with 23 gigs on soundcheck across Tokyo. Often billed alongside Krankent, ksd6700 and BEPPU. Next up: DeTour, Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Kamaida is a techno and house artist based in Japan, with 23 gigs on soundcheck 
 
 Krankent, ksd6700, BEPPU
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaida/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamaida/)*

@@ -1,6 +1,6 @@
 # DJ Bin
 
-DJ Bin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at WOMB, Tokyo on Thu, 3 Dec 2026.
+DJ Bin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at WOMB, Tokyo on Thu, 3 Dec 2026.
 
 DJ Bin is a house and techno artist, with 25 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Abura, Astro Boy and Celter. Next up: WOMB, Tokyo on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ DJ Bin is a house and techno artist, with 25 gigs on soundcheck across Okinawa a
 
 Abura, Astro Boy, Celter
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbin/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbin/)*

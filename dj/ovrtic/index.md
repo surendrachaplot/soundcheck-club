@@ -1,6 +1,6 @@
 # Ovrtic
 
-Ovrtic is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Greyhound, London on Thu, 5 Nov 2026.
+Ovrtic is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Greyhound, London on Thu, 5 Nov 2026.
 
 Ovrtic is a garage and bass artist based in United Kingdom, with 23 gigs on soundcheck across London. Often billed alongside Mo Dardouk, Missy T and Belmar (UK). Next up: The Greyhound, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Ovrtic is a garage and bass artist based in United Kingdom, with 23 gigs on soun
 
 Mo Dardouk, Missy T, Belmar (UK)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ovrtic/)*

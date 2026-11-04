@@ -1,18 +1,19 @@
 # Happening Napoli
 
-Happening Napoli is a music venue in Naples with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "La Vale & Friends" on Fri, 30 Oct 2026.
+Happening Napoli is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sound & Soul" on Thu, 5 Nov 2026.
 
-Happening Napoli is a music venue in Naples listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Napoli, 80121, Via Bisignano, 2 , Italy.
+Happening Napoli is a music venue in Naples listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Napoli, 80121, Via Bisignano, 2 , Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | La Vale & Friends |  |
-| Sat, 31 Oct 2026 | Fluid |  |
+| Thu, 5 Nov 2026 | Sound & Soul |  |
+| Fri, 6 Nov 2026 | Burning |  |
+| Sat, 7 Nov 2026 | Fluid |  |
 
 ## Address
 
 Napoli, 80121, Via Bisignano, 2 , Italy, Naples
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/happening-napoli/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/happening-napoli/)*

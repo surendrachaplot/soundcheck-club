@@ -1,6 +1,6 @@
 # RHITA
 
-RHITA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
+RHITA is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
 
 RHITA is a techno and minimal techno artist, with 4 gigs on soundcheck across Barcelona. Often billed alongside Squaric, BACO and Diffuse Reality. Next up: Bridge 48, Barcelona on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ RHITA is a techno and minimal techno artist, with 4 gigs on soundcheck across Ba
 
 Squaric, BACO, Diffuse Reality
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhita/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhita/)*

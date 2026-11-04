@@ -1,8 +1,8 @@
 # The Advent
 
-The Advent is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Exil, Vienna on Fri, 6 Nov 2026.
+The Advent is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Exil, Vienna on Fri, 6 Nov 2026.
 
-The Advent is a techno and electro artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 45 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Club Exil, Vienna on Fri 6 Nov.
+The Advent is a techno and electro artist based in United Kingdom, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 45 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Club Exil, Vienna on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ The Advent is a techno and electro artist based in United Kingdom, with 109 gigs
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Club Exil | Vienna |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
+| Fri, 18 Dec 2026 | Mia Mao | Paris |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ The Advent is a techno and electro artist based in United Kingdom, with 109 gigs
 
 Nastia, Philippa Pacho, STERAC
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

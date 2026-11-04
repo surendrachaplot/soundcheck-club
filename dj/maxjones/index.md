@@ -1,6 +1,6 @@
 # Max Jones
 
-Max Jones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Keys Yarm, North on Wed, 23 Dec 2026.
+Max Jones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Keys Yarm, North on Wed, 23 Dec 2026.
 
 Max Jones is a house and techno artist based in United Kingdom, with 19 gigs on soundcheck across London, Mexico City, Newcastle and North. Often billed alongside Andre VII, Ellie Scougall and La Royale. Next up: The Keys Yarm, North on Wed 23 Dec.
 
@@ -25,4 +25,4 @@ Max Jones is a house and techno artist based in United Kingdom, with 19 gigs on 
 
 Andre VII, Ellie Scougall, La Royale
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxjones/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxjones/)*

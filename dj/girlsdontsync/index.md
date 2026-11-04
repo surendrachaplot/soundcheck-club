@@ -1,13 +1,14 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Shipping Hill Farm, West-wales on Thu, 15 Jul 2027.
+Girls Don't Sync is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Stage and Radio, Manchester on Thu, 5 Nov 2026.
 
-Girls Don't Sync is a garage and house artist based in United Kingdom, with 122 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 28 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Eats Everything. Next up: Shipping Hill Farm, West Wales on Thu 15 Jul.
+Girls Don't Sync is a garage and house artist based in United Kingdom, with 123 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 28 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Eats Everything. Next up: Stage and Radio, Manchester on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Stage and Radio | Manchester |
 | Thu, 15 Jul 2027 | Shipping Hill Farm | West-wales |
 
 ## Recently played
@@ -25,4 +26,4 @@ Girls Don't Sync is a garage and house artist based in United Kingdom, with 122 
 
 Interplanetary Criminal, Sophia Violet, Eats Everything
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/girlsdontsync/)*

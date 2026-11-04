@@ -1,6 +1,6 @@
 # Hotel Ziggy
 
-Hotel Ziggy is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "The Great Gatsby Party: NEW YEARS EVE 2027 @ Hotel Ziggy" on Thu, 31 Dec 2026.
+Hotel Ziggy is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "The Great Gatsby Party: NEW YEARS EVE 2027 @ Hotel Ziggy" on Thu, 31 Dec 2026.
 
 Hotel Ziggy is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 8462 Sunset Blvd, West Hollywood, CA 90069.
 
@@ -14,4 +14,4 @@ Hotel Ziggy is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig
 
 8462 Sunset Blvd, West Hollywood, CA 90069, Los Angeles
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hotel-ziggy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/hotel-ziggy/)*

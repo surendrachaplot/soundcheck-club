@@ -1,6 +1,6 @@
 # Georgia Bar
 
-Georgia Bar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "EYES DICE" on Thu, 5 Nov 2026.
+Georgia Bar is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "EYES DICE" on Thu, 5 Nov 2026.
 
 Georgia Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Guiddo, MiiSCHA and Radial Gaze. See dates, start times and who's playing. Georgenstraße 194, 10117 Berlin, Germany.
 
@@ -17,4 +17,4 @@ Georgia Bar is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wi
 
 Georgenstraße 194, 10117 Berlin, Germany, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/georgia-bar/)*

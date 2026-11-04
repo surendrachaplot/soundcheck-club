@@ -1,14 +1,15 @@
 # David Fogarty
 
-David Fogarty is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
+David Fogarty is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
-David Fogarty is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Dublin and 12 more. Often billed alongside Sound Metaphors Djs, Temple Rat and Alicia Carrera. Next up: FOLD, London on Sat 21 Nov.
+David Fogarty is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Dublin and 12 more. Often billed alongside Sound Metaphors Djs, Temple Rat and Alicia Carrera. Next up: FOLD, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | FOLD | London |
+| Sat, 21 Nov 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ David Fogarty is a techno and trance artist based in Germany, with 56 gigs on so
 
 Sound Metaphors Djs, Temple Rat, Alicia Carrera
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidfogarty/)*

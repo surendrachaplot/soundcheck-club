@@ -1,6 +1,6 @@
 # WATARU
 
-WATARU is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at R Lounge, Tokyo on Sat, 7 Nov 2026.
+WATARU is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at R Lounge, Tokyo on Sat, 7 Nov 2026.
 
 WATARU is a techno and trance artist based in Japan, with 59 gigs on soundcheck across Lisbon, Osaka, Shanghai and Tokyo. Often billed alongside PONTA, HK. and Drunken Kong. Next up: R Lounge, Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ WATARU is a techno and trance artist based in Japan, with 59 gigs on soundcheck 
 
 PONTA, HK. (1), Drunken Kong
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wataru/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wataru/)*

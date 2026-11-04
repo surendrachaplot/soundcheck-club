@@ -1,6 +1,6 @@
 # 2ciu
 
-2ciu is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 7 Nov 2026.
+2ciu is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mtkvarze, Tbilisi on Sat, 7 Nov 2026.
 
 2ciu is a house and trance artist based in Georgia, with 16 gigs on soundcheck across Tbilisi. Often billed alongside BOOSTER DONA, Creams and Emanuele Barilli. Next up: Mtkvarze, Tbilisi on Sat 7 Nov.
 
@@ -25,4 +25,4 @@
 
 BOOSTER DONA, Creams, Emanuele Barilli
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2ciu/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2ciu/)*

@@ -1,6 +1,6 @@
 # K7
 
-K7 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "OPEN DEX - K7 Club" on Sat, 21 Nov 2026.
+K7 is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "OPEN DEX - K7 Club" on Sat, 21 Nov 2026.
 
 K7 is a music venue in Prague listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ K7 is a music venue in Prague listed on soundcheck. 1 upcoming gig. See dates, s
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | OPEN DEX - K7 Club |  |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/k7/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/k7/)*

@@ -1,14 +1,15 @@
 # Cosmic Egg
 
-Cosmic Egg is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Rugs*, Beijing on Fri, 13 Nov 2026.
+Cosmic Egg is a Bass and Ambient artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Rugs*, Beijing on Fri, 13 Nov 2026.
 
-Cosmic Egg is a bass and ambient artist based in China, with 12 gigs on soundcheck across Beijing. Often billed alongside manju, A-Tweed and Kongsent. Next up: Rugs*, Beijing on Fri 13 Nov.
+Cosmic Egg is a bass and ambient artist based in China, with 13 gigs on soundcheck across Beijing. Often billed alongside manju, diǎorén and A-Tweed. Next up: Rugs*, Beijing on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Rugs* | Beijing |
+| Sat, 14 Nov 2026 | Pillbox Beijing | Beijing |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Cosmic Egg is a bass and ambient artist based in China, with 12 gigs on soundche
 
 ## Shares bills with
 
-manju, A-Tweed, Kongsent
+manju, diǎorén, A-Tweed
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicegg/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmicegg/)*

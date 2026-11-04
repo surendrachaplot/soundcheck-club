@@ -1,6 +1,6 @@
 # Pilar Jordan
 
-Pilar Jordan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kater, Berlin on Thu, 19 Nov 2026.
+Pilar Jordan is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kater, Berlin on Thu, 19 Nov 2026.
 
 Pilar Jordan is a house and techno artist based in Chile, with 77 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Dorsch, MELLA MARA and Lisatrix. Next up: Kater, Berlin on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Pilar Jordan is a house and techno artist based in Chile, with 77 gigs on soundc
 
 Dorsch, MELLA MARA, Lisatrix
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarjordan/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pilarjordan/)*

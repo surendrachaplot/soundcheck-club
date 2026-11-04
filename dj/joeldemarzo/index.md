@@ -1,6 +1,6 @@
 # Joel DeMarzo
 
-Joel DeMarzo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jungle Hollywood, Los Angeles on Sat, 12 Dec 2026.
+Joel DeMarzo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Jungle Hollywood, Los Angeles on Sat, 12 Dec 2026.
 
 Joel DeMarzo is a house and disco artist based in United States of America, with 8 gigs on soundcheck across Amsterdam, Los Angeles, Orange County and San Diego and 1 more. Often billed alongside Doc Link, DJ Dazy and Mike Lachman. Next up: Jungle Hollywood, Los Angeles on Sat 12 Dec.
 
@@ -24,4 +24,4 @@ Joel DeMarzo is a house and disco artist based in United States of America, with
 
 Doc Link, DJ Dazy, Mike Lachman
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeldemarzo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeldemarzo/)*

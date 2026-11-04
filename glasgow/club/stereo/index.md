@@ -1,6 +1,6 @@
 # Stereo
 
-Stereo is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "GTE GAFF 3: 1 YEAR ANNIVERSARY" on Thu, 5 Nov 2026.
+Stereo is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "GTE GAFF 3: 1 YEAR ANNIVERSARY" on Thu, 5 Nov 2026.
 
 Stereo is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including ACHIRĀ, Acido Cielo, Babyjaii and Coki and 2 more. See dates, start times and who's playing. 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom.
 
@@ -23,4 +23,4 @@ Stereo is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with 
 
 20-28 Renfield Lane; Glasgow, G2 6PH; Scotland; United Kingdom, Glasgow
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/stereo/)*

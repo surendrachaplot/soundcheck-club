@@ -1,13 +1,14 @@
 # KX CHR
 
-KX CHR is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+KX CHR is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
 
-KX CHR is a techno and industrial artist based in France, with 52 gigs on soundcheck across Ankara, Athens, Belfast and Berlin and 29 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
+KX CHR is a techno and industrial artist based in France, with 53 gigs on soundcheck across Ankara, Athens, Barcelona and Belfast and 30 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: M7 Club, Barcelona on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | M7 Club | Barcelona |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Fri, 11 Dec 2026 | Warehouse | Nantes |
 | Sat, 19 Dec 2026 | Airport Würzburg | Nürnberg |
@@ -28,4 +29,4 @@ KX CHR is a techno and industrial artist based in France, with 52 gigs on soundc
 
 OMAKS, Alex Farell, Nik Kastel
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*

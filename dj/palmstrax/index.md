@@ -1,8 +1,8 @@
 # Palms Trax
 
-Palms Trax is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Basic Club, Naples on Sat, 7 Nov 2026.
+Palms Trax is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Basic Club, Naples on Sat, 7 Nov 2026.
 
-Palms Trax is a house and techno artist based in Germany, with 218 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 67 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Basic Club, Naples on Sat 7 Nov.
+Palms Trax is a house and techno artist based in Germany, with 219 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 67 more. Often billed alongside Job Jobse, Peach and Francesco Del Garda. Next up: Basic Club, Naples on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Palms Trax is a house and techno artist based in Germany, with 218 gigs on sound
 | Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Sat, 14 Nov 2026 | Nitsa Club | Barcelona |
 | Sat, 28 Nov 2026 | fabric | London |
+| Sun, 29 Nov 2026 | essaim | Paris |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
 | Sun, 13 Dec 2026 | Haus der Visionäre | Berlin |
@@ -34,4 +35,4 @@ Palms Trax is a house and techno artist based in Germany, with 218 gigs on sound
 
 Job Jobse, Peach, Francesco Del Garda
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmstrax/)*

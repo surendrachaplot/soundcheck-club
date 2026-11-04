@@ -1,6 +1,6 @@
 # D.A.Y.P x ABB presents: Occibel (FREE Party) at Cupra City Garage Manchester
 
-D.A.Y.P x ABB presents: Occibel (FREE Party) at Cupra City Garage Manchester on Fri 6 Nov, Manchester. 3 artists: Joe Roche, KURLZ and Occibel. House and Tech House. See the line-up on soundcheck.
+D.A.Y.P x ABB presents: Occibel (FREE Party) at Cupra City Garage Manchester on Fri 6 Nov, Manchester. 4 artists: A Little Bit Orange, KURLZ, Occibel and Sam Pratt. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,9 @@ D.A.Y.P x ABB presents: Occibel (FREE Party) at Cupra City Garage Manchester on 
 
 ## Line-up
 
-- Joe Roche
+- A Little Bit Orange
 - KURLZ
 - Occibel
+- Sam Pratt
 
 *Source: [soundcheck](https://soundcheck.club/e/2557142-d-a-y-p-x-abb-presents-occibel-free-party-at-cupra-city-gara/)*

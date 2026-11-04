@@ -1,6 +1,6 @@
 # D! Club
 
-D! Club is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SVEN VÄTH, Tal Fussman, Salvatore Freda" on Fri, 6 Nov 2026.
+D! Club is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SVEN VÄTH, Tal Fussman, Salvatore Freda" on Fri, 6 Nov 2026.
 
 D! Club is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with line-ups including Alicia Hahn, Einmusik, Jan Blomqvist and Joachim Pastor and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
 
@@ -20,4 +20,4 @@ D! Club is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with
 
 Place Centrale 1; 1003, Lausanne; Switzerland, Lausanne
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*

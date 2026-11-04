@@ -1,6 +1,6 @@
 # Algha's Plantroom
 
-Algha's Plantroom is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "BROOKE CANDY x INFERNO" on Sat, 7 Nov 2026.
+Algha's Plantroom is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "BROOKE CANDY x INFERNO" on Sat, 7 Nov 2026.
 
 Algha's Plantroom is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including 3MR., Gabriel Rai, HASZNAT and HEZEN and 2 more. See dates, start times and who's playing. Floor 2 Algha Works, 83 Smeed Road, E3 2NR.
 
@@ -17,4 +17,4 @@ Algha's Plantroom is a music venue in London listed on soundcheck. 4 upcoming gi
 
 Floor 2 Algha Works, 83 Smeed Road, E3 2NR, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/algha-s-plantroom/)*

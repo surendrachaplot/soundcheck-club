@@ -1,6 +1,6 @@
 # Botanist
 
-Botanist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Mood Ring, New York City on Fri, 11 Dec 2026.
+Botanist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mood Ring, New York City on Fri, 11 Dec 2026.
 
 Botanist is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Charlotte, Los Angeles, Miami and New York City. Often billed alongside Jasper Zeray, Racket Club and Sean Green. Next up: Mood Ring, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Botanist is a house and techno artist based in United States of America, with 12
 
 Jasper Zeray, Racket Club, Sean Green
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botanist/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/botanist/)*

@@ -1,6 +1,6 @@
 # riko (DE)
 
-riko (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Toldi Klub, Budapest on Fri, 27 Nov 2026.
+riko (DE) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Toldi Klub, Budapest on Fri, 27 Nov 2026.
 
 riko (DE) is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 4 more. Often billed alongside Arman John, VIVUS and Melushka. Next up: Toldi Klub, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ riko (DE) is a techno and trance artist based in Germany, with 52 gigs on soundc
 
 Arman John, VIVUS, Melushka
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riko-de/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riko-de/)*

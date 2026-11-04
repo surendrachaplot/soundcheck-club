@@ -1,6 +1,6 @@
 # EleNoir
 
-EleNoir is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Flexo Club, North on Sat, 14 Nov 2026.
+EleNoir is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Flexo Club, North on Sat, 14 Nov 2026.
 
 EleNoir is a techno and deep house artist, with 5 gigs on soundcheck across Dubai, Ibiza and North. Often billed alongside Hard Reset, 19:26 and Angry Suzy. Next up: Flexo Club, North on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ EleNoir is a techno and deep house artist, with 5 gigs on soundcheck across Duba
 
 Hard Reset, 19:26, Angry Suzy
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenoir/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenoir/)*

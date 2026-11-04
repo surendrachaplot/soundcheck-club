@@ -10,7 +10,7 @@ Kynant with Dialog & Benji (live), Richard Akingbehin, Mia Cecille at Garage Noo
 
 ## Line-up
 
-- Dialog
+- Dialog (2)
 - Mia Cecille
 - Richard Akingbehin
 

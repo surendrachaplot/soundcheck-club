@@ -1,6 +1,6 @@
 # Billie Jo
 
-Billie Jo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
+Billie Jo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
 
 Billie Jo is a techno and house artist based in Sweden, with 48 gigs on soundcheck across Berlin, Copenhagen, Gothenburg and Stockholm. Often billed alongside Ms. K, Harami and DJ Zeb. Next up: Eventhuset, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Billie Jo is a techno and house artist based in Sweden, with 48 gigs on soundche
 
 Ms. K, Harami, DJ Zeb
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billiejo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billiejo/)*

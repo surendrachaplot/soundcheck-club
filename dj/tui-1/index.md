@@ -1,6 +1,6 @@
 # Tui (1)
 
-Tui (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Metro, Kyoto on Fri, 6 Nov 2026.
+Tui (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Metro, Kyoto on Fri, 6 Nov 2026.
 
 Tui is a techno and house artist based in Japan, with 35 gigs on soundcheck across Kyoto, Osaka, Shanghai and Tokyo. Often billed alongside Eichi Abe, GAKUTO(TOKYO) and JUN INAGAWA. Next up: Club Metro, Kyoto on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tui is a techno and house artist based in Japan, with 35 gigs on soundcheck acro
 
 Eichi Abe, GAKUTO(TOKYO), JUN INAGAWA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tui-1/)*

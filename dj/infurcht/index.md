@@ -1,8 +1,8 @@
 # In Furcht
 
-In Furcht is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
+In Furcht is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
 
-In Furcht is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 20 more. Often billed alongside Neon Graveyard, Johannes Schuster and Noise Not War. Next up: Bootshaus, Cologne on Fri 6 Nov.
+In Furcht is a techno and trance artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 21 more. Often billed alongside Neon Graveyard, Johannes Schuster and Noise Not War. Next up: Bootshaus, Cologne on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ In Furcht is a techno and trance artist based in Germany, with 64 gigs on soundc
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Bootshaus | Cologne |
 | Sat, 14 Nov 2026 | WDM | Hannover |
+| Thu, 19 Nov 2026 | Core | Madrid |
 | Sat, 28 Nov 2026 | OST | Berlin |
 
 ## Recently played
@@ -27,4 +28,4 @@ In Furcht is a techno and trance artist based in Germany, with 64 gigs on soundc
 
 Neon Graveyard, Johannes Schuster, Noise Not War
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infurcht/)*

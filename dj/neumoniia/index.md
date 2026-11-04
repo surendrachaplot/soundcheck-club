@@ -1,14 +1,15 @@
 # neumoniia
 
-neumoniia is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Laboratorio Octogon, Madrid on Fri, 6 Nov 2026.
+neumoniia is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Laboratorio Octogon, Madrid on Fri, 6 Nov 2026.
 
-neumoniia is an electronica and techno artist based in Spain, with 12 gigs on soundcheck across Madrid and Valencia. Often billed alongside Abraxas, Alba Franch and Ben Derris. Next up: Laboratorio Octogon, Madrid on Fri 6 Nov.
+neumoniia is a techno and electronica artist based in Spain, with 13 gigs on soundcheck across Madrid and Valencia. Often billed alongside Abraxas, Alba Franch and Ben Derris. Next up: Laboratorio Octogon, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Laboratorio Octogon | Madrid |
+| Fri, 13 Nov 2026 | Core | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ neumoniia is an electronica and techno artist based in Spain, with 12 gigs on so
 
 Abraxas, Alba Franch, Ben Derris
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neumoniia/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neumoniia/)*

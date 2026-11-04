@@ -1,6 +1,6 @@
 # Temudo
 
-Temudo is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at S//IP, Cyprus on Sat, 7 Nov 2026.
+Temudo is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at S//IP, Cyprus on Sat, 7 Nov 2026.
 
 Temudo is a techno and house artist based in Portugal, with 153 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 49 more. Often billed alongside VIL (PT), CRAVO and Nørbak. Next up: S//IP, Cyprus on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Temudo is a techno and house artist based in Portugal, with 153 gigs on soundche
 
 VIL (PT), CRAVO, Nørbak
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*

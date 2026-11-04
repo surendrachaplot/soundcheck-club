@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "renae: Krioso" on Tue, 3 Nov 2026.
+renae is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "renae: Nam" on Wed, 4 Nov 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including atalaya, Atiké, Ayy Den and BANSHII and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including atalaya, Atiké, Ayy Den and BANSHII and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | renae: Krioso | krioso |
 | Wed, 4 Nov 2026 | renae: Nam |  |
 | Thu, 5 Nov 2026 | renae labs: Tash LC presents The Black Fantastic | Tash LC |
 | Thu, 5 Nov 2026 | renae: Tussle |  |
@@ -18,9 +17,10 @@ renae is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, wit
 | Sun, 8 Nov 2026 | renae: Mudline |  |
 | Fri, 13 Nov 2026 | The Other People Place: Polyamore | Bruno Bellissimo, Camilla Reghenzi |
 | Sat, 14 Nov 2026 | QU3ST | SOULQU3ST |
+| Sat, 21 Nov 2026 | LLOUS' at The Other People Place | BANSHII, Sharayda, emiiyuu |
 
 ## Address
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

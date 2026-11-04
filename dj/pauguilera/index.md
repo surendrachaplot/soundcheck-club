@@ -1,6 +1,6 @@
 # Pau Guilera
 
-Pau Guilera is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Macarena Club, Barcelona on Wed, 4 Nov 2026.
+Pau Guilera is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Macarena Club, Barcelona on Wed, 4 Nov 2026.
 
 Pau Guilera is a tech house and house artist based in Spain, with 123 gigs on soundcheck across Barcelona, Ibiza and Utrecht. Often billed alongside Jones May, BizZa and Vidaloca. Next up: Macarena Club, Barcelona on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ Pau Guilera is a tech house and house artist based in Spain, with 123 gigs on so
 
 Jones May, BizZa, Vidaloca
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauguilera/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauguilera/)*

@@ -1,6 +1,6 @@
 # FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit at Gaffe
 
-FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit at Gaffe on Fri 13 Nov, London. 4 artists: Bunney, Josh Keit, Matthias and Yamour. See the line-up on soundcheck.
+FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit at Gaffe on Fri 13 Nov, London. 8 artists: Bunney, Josh Keit, Jude Race and Matthias and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,11 @@ FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit at Gaffe on Fri 13 Nov, Lond
 
 - Bunney
 - Josh Keit
+- Jude Race
 - Matthias (1)
+- Neev
+- not so genius
+- tom thumb
 - Yamour
 
 *Source: [soundcheck](https://soundcheck.club/e/2526093-freedive-005-w-matthias-yamour-bunney-josh-keit-at-gaffe/)*

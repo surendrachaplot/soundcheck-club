@@ -1,6 +1,6 @@
 # Gareden
 
-Gareden is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Urban Spree, Berlin on Sat, 5 Dec 2026.
+Gareden is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Urban Spree, Berlin on Sat, 5 Dec 2026.
 
 Gareden is a house and club artist based in Germany, with 6 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Cologne. Often billed alongside Black Box, ZARE and Ginchy. Next up: Urban Spree, Berlin on Sat 5 Dec.
 
@@ -22,4 +22,4 @@ Gareden is a house and club artist based in Germany, with 6 gigs on soundcheck a
 
 Black Box, ZARE, Ginchy
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gareden/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gareden/)*

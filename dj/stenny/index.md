@@ -1,6 +1,6 @@
 # Stenny
 
-Stenny is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 7 Nov 2026.
+Stenny is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Garage Noord, Amsterdam on Sat, 7 Nov 2026.
 
 Stenny is a techno and house artist based in Italy, with 139 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 29 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Garage Noord, Amsterdam on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Stenny is a techno and house artist based in Italy, with 139 gigs on soundcheck 
 
 Zenker Brothers, Tasha, Skee Mask
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

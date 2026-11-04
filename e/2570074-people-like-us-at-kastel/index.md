@@ -1,0 +1,16 @@
+# PEOPLE LIKE US at Kastel
+
+PEOPLE LIKE US at Kastel on Sat 14 Nov, Istanbul. 2 artists: Gunes Ergun and People Like Us. House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 14 Nov 2026 |
+| Venue | Kastel |
+| City | Istanbul |
+
+## Line-up
+
+- Gunes Ergun
+- People Like Us (3)
+
+*Source: [soundcheck](https://soundcheck.club/e/2570074-people-like-us-at-kastel/)*

@@ -1,6 +1,6 @@
 # Nick Parallel
 
-Nick Parallel is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tola, London on Fri, 20 Nov 2026.
+Nick Parallel is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tola, London on Fri, 20 Nov 2026.
 
 Nick Parallel is a tech house and deep house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside dan.e.l.a, Desert Sound Colony and Frazer Ray. Next up: Tola, London on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ Nick Parallel is a tech house and deep house artist based in United Kingdom, wit
 
 dan.e.l.a, Desert Sound Colony, Frazer Ray
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickparallel/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickparallel/)*

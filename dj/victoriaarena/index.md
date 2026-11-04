@@ -1,6 +1,6 @@
 # Victoria Arena
 
-Victoria Arena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Niceto Club, Buenos Aires on Fri, 6 Nov 2026.
+Victoria Arena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Niceto Club, Buenos Aires on Fri, 6 Nov 2026.
 
 Victoria Arena is a techno and house artist, with 26 gigs on soundcheck across Berlin, Buenos Aires, Frankfurt and Ibiza. Often billed alongside Devil Rays, HIHATDANCER and May Mc Laren. Next up: Niceto Club, Buenos Aires on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Victoria Arena is a techno and house artist, with 26 gigs on soundcheck across B
 
 Devil Rays, HIHATDANCER, May Mc Laren
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaarena/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victoriaarena/)*

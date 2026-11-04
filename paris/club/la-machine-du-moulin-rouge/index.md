@@ -1,8 +1,8 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "AMS 15TH ANNIVERSARY" on Sat, 7 Nov 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "AMS 15TH ANNIVERSARY" on Sat, 7 Nov 2026.
 
-La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including 25EMEHEURE, Akua, anyoneID and bb and 2 more. See dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
+La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including 25EMEHEURE, Akua, anyoneID and bb and 2 more. See dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
 ## What's on
 
@@ -15,9 +15,10 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 7 upc
 | Sat, 14 Nov 2026 | Sans Logiques | Legit Girl DJ, Lisa More, bb (3) |
 | Fri, 27 Nov 2026 | Galop Galop | 25EMEHEURE, Medusa |
 | Fri, 4 Dec 2026 | 2Much presents Trancemaster Krause All Night Long | Trancemaster Krause |
+| Fri, 18 Dec 2026 | Flash Cocotte |  |
 
 ## Address
 
 90 boulevard de Clichy; 75018; Paris; France, Paris
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-machine-du-moulin-rouge/)*

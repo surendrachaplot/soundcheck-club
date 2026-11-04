@@ -1,6 +1,6 @@
 # Bruno Schmidt
 
-Bruno Schmidt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location, Puerto Escondido, Puerto-escondido on Sat, 14 Nov 2026.
+Bruno Schmidt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location, Puerto Escondido, Puerto-escondido on Sat, 14 Nov 2026.
 
 Bruno Schmidt is a house and techno artist based in United Kingdom, with 158 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 45 more. Often billed alongside Andrew James Gustav, Morgan and Emsho. Next up: TBA - Secret Location, Puerto Escondido, Puerto Escondido on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Bruno Schmidt is a house and techno artist based in United Kingdom, with 158 gig
 
 Andrew James Gustav, Morgan, Emsho
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunoschmidt/)*

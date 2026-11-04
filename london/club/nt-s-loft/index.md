@@ -1,6 +1,6 @@
 # NT's Loft
 
-NT's Loft is a music venue in London with 22 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "NT's Loft: sunflwr & dj poolboi [All Night Long]" on Fri, 6 Nov 2026.
+NT's Loft is a music venue in London with 22 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "NT's Loft: sunflwr & dj poolboi [All Night Long]" on Fri, 6 Nov 2026.
 
 NT's Loft is a music venue in London listed on soundcheck. 22 upcoming gigs, with line-ups including babyschön, Budino, Clara Rosa and Detroit In Effect and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
@@ -9,7 +9,7 @@ NT's Loft is a music venue in London listed on soundcheck. 22 upcoming gigs, wit
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | NT's Loft: sunflwr & dj poolboi [All Night Long] | dj poolboi, sunflwr |
-| Sat, 7 Nov 2026 | NT's Loft: babyschön Residency w/ Budino  | Budino, babyschön |
+| Sat, 7 Nov 2026 | NT's Loft: babyschön Residency w/ Budino  | Budino, babyschön, floor length skirts |
 | Fri, 13 Nov 2026 | NT's Loft: Azadi: ZAINAB, Clara Rosa & Nadine Noor | Clara Rosa, Nadine Noor, ZEEMUFFIN |
 | Sat, 14 Nov 2026 | NT's Loft: babyschön Residency w/ Jonny Rock | Jonny Rock, babyschön |
 | Sat, 14 Nov 2026 | NT's Loft: A Day with Dublon | Dublon |
@@ -23,4 +23,4 @@ NT's Loft is a music venue in London listed on soundcheck. 22 upcoming gigs, wit
 
 207, 1 Westgate St, Hackney, London E8 3RL, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/nt-s-loft/)*

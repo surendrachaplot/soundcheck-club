@@ -1,6 +1,6 @@
 # DJ Mats
 
-DJ Mats is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bridge 48, Barcelona on Sat, 21 Nov 2026.
+DJ Mats is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bridge 48, Barcelona on Sat, 21 Nov 2026.
 
 DJ Mats is a house and afro house artist based in Spain, with 4 gigs on soundcheck across Barcelona. Often billed alongside Charlins, DJ Tortuga and Atari Stacey. Next up: Bridge 48, Barcelona on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ DJ Mats is a house and afro house artist based in Spain, with 4 gigs on soundche
 
 Charlins, DJ Tortuga, Atari Stacey
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmats/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmats/)*

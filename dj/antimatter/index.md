@@ -1,6 +1,6 @@
 # ANTIMATTER
 
-ANTIMATTER is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
+ANTIMATTER is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
 
 ANTIMATTER is a techno and acid artist based in United States of America, with 14 gigs on soundcheck across Arkansas, Miami, Philadelphia and Tampa Bay. Often billed alongside Lara Klart, Gioh Cecato and Jay Toledo. Next up: The Momentary, Arkansas on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ANTIMATTER is a techno and acid artist based in United States of America, with 1
 
 Lara Klart, Gioh Cecato, Jay Toledo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antimatter/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antimatter/)*

@@ -1,14 +1,15 @@
 # Nukumori
 
-Nukumori is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Shift Gallery & Gatherings, San Diego on Fri, 6 Nov 2026.
+Nukumori is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Shift Gallery & Gatherings, San Diego on Fri, 6 Nov 2026.
 
-Nukumori is a bass and garage artist based in United States of America, with 6 gigs on soundcheck across San Diego and San Francisco/Oakland. Often billed alongside techki, AFFIRM and Bojak. Next up: Shift Gallery & Gatherings, San Diego on Fri 6 Nov.
+Nukumori is a bass and garage artist based in United States of America, with 7 gigs on soundcheck across San Diego and San Francisco/Oakland. Often billed alongside techki, AFFIRM and Bojak. Next up: Shift Gallery & Gatherings, San Diego on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Shift Gallery & Gatherings | San Diego |
+| Sun, 29 Nov 2026 | EQ San Diego | San Diego |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ Nukumori is a bass and garage artist based in United States of America, with 6 g
 
 techki, AFFIRM, Bojak
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nukumori/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nukumori/)*

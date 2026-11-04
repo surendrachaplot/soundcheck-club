@@ -1,6 +1,6 @@
 # Pavel Petrov
 
-Pavel Petrov is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Clwd, Sofia on Fri, 6 Nov 2026.
+Pavel Petrov is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Clwd, Sofia on Fri, 6 Nov 2026.
 
 Pavel Petrov is a techno and tech house artist based in Bulgaria, with 66 gigs on soundcheck across Amsterdam, Belgrade, Bergen and Berlin and 25 more. Often billed alongside Peppou, Bagerziev and Oliver Koletzki. Next up: Clwd, Sofia on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Pavel Petrov is a techno and tech house artist based in Bulgaria, with 66 gigs o
 
 Peppou, Bagerziev, Oliver Koletzki
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelpetrov/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pavelpetrov/)*

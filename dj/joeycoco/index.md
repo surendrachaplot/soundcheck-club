@@ -1,6 +1,6 @@
 # Joey Coco
 
-Joey Coco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Toff in Town, Melbourne on Sun, 7 Feb 2027.
+Joey Coco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Toff in Town, Melbourne on Sun, 7 Feb 2027.
 
 Joey Coco is a house and techno artist based in Australia, with 140 gigs on soundcheck across Byron Bay, Canberra, Melbourne and Sydney. Often billed alongside Oscar de Lima, HAUSWiFE and Slumdog. Next up: The Toff in Town, Melbourne on Sun 7 Feb.
 
@@ -25,4 +25,4 @@ Joey Coco is a house and techno artist based in Australia, with 140 gigs on soun
 
 Oscar de Lima, HAUSWiFE, Slumdog
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeycoco/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeycoco/)*

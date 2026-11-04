@@ -1,8 +1,8 @@
 # Bea Levy
 
-Bea Levy is a Techno and Balearic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
+Bea Levy is a Techno and Balearic artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
 
-Bea Levy is a techno and balearic artist, with 4 gigs on soundcheck across New York City. Often billed alongside DISGRACE, Lou Isn't and Mutual Identities. Next up: Honey's, New York City on Sat 5 Dec.
+Bea Levy is a techno and balearic artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside DISGRACE, Lou Isn't and Mutual Identities. Next up: Honey's, New York City on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Bea Levy is a techno and balearic artist, with 4 gigs on soundcheck across New Y
 
 DISGRACE, Lou Isn't, Mutual Identities
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bealevy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bealevy/)*

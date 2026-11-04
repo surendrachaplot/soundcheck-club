@@ -1,13 +1,15 @@
 # Kilbourne
 
-Kilbourne is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Nowadays, New York City on Thu, 12 Nov 2026.
+Kilbourne is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Moroccan Lounge, Los Angeles on Thu, 5 Nov 2026.
 
-Kilbourne is a hardcore and techno artist based in United States of America, with 76 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 21 more. Often billed alongside Relaxer, Buzzi and Manu Le Malin. Next up: Nowadays, New York City on Thu 12 Nov.
+Kilbourne is a hardcore and techno artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 22 more. Often billed alongside Relaxer, Buzzi and Manu Le Malin. Next up: The Moroccan Lounge, Los Angeles on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | The Moroccan Lounge | Los Angeles |
+| Fri, 6 Nov 2026 | TBA | Seattle |
 | Thu, 12 Nov 2026 | Nowadays | New York City |
 | Sat, 27 Feb 2027 | Maassilo | Rotterdam |
 
@@ -26,4 +28,4 @@ Kilbourne is a hardcore and techno artist based in United States of America, wit
 
 Relaxer, Buzzi, Manu Le Malin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kilbourne/)*

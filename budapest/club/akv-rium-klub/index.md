@@ -1,6 +1,6 @@
 # Akvárium Klub
 
-Akvárium Klub is a music venue in Budapest with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SKELER – Nightfall World Tour" on Sat, 14 Nov 2026.
+Akvárium Klub is a music venue in Budapest with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SKELER – Nightfall World Tour" on Sat, 14 Nov 2026.
 
 Akvárium Klub is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, with line-ups including Alignment, ALT8, Andrew Cairns and Belocca and 2 more. See dates, start times and who's playing. Budapest Erzsébet tér, 1051 Hungary.
 
@@ -23,4 +23,4 @@ Akvárium Klub is a music venue in Budapest listed on soundcheck. 12 upcoming gi
 
 Budapest Erzsébet tér, 1051 Hungary, Budapest
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/akv-rium-klub/)*

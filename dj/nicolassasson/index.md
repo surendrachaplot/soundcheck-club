@@ -1,8 +1,8 @@
 # Nicolas Sasson
 
-Nicolas Sasson is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Itzel Club, London on Fri, 13 Nov 2026.
+Nicolas Sasson is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Itzel Club, London on Fri, 13 Nov 2026.
 
-Nicolas Sasson is a house and afro house artist, with 8 gigs on soundcheck across Brussels, Dubai, Istanbul and London and 3 more. Often billed alongside Emir Sagiroglu, Jan Blomqvist and Purple Disco Machine. Next up: Itzel Club, London on Fri 13 Nov.
+Nicolas Sasson is a house and afro house artist, with 8 gigs on soundcheck across Brussels, Dubai, Istanbul and London and 3 more. Often billed alongside Emir Sagiroglu, Jan Blomqvist and Kidflo. Next up: Itzel Club, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -22,6 +22,6 @@ Nicolas Sasson is a house and afro house artist, with 8 gigs on soundcheck acros
 
 ## Shares bills with
 
-Emir Sagiroglu, Jan Blomqvist, Purple Disco Machine
+Emir Sagiroglu, Jan Blomqvist, Kidflo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolassasson/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolassasson/)*

@@ -1,6 +1,6 @@
 # Solace
 
-Solace is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "𝓜𝓸𝓸𝓹𝓲𝓮 All Night" on Fri, 6 Nov 2026.
+Solace is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "𝓜𝓸𝓸𝓹𝓲𝓮 All Night" on Fri, 6 Nov 2026.
 
 Solace is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including AMY., Andy Hart, Bex and JD and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
@@ -16,4 +16,4 @@ Solace is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with
 
 21-25 Croft Alley, Melbourne, 3000, Melbourne
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/solace/)*

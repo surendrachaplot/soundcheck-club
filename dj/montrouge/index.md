@@ -1,13 +1,14 @@
 # Mont Rouge
 
-Mont Rouge is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Spin, San Diego on Sun, 22 Nov 2026.
+Mont Rouge is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ORIGIN, Los Angeles on Sat, 21 Nov 2026.
 
-Mont Rouge is an afro house and house artist based in Switzerland, with 57 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bordeaux and 16 more. Often billed alongside Sasson, Acid Arab and Notre Dame. Next up: Spin, San Diego on Sun 22 Nov.
+Mont Rouge is an afro house and house artist based in Switzerland, with 58 gigs on soundcheck across Amsterdam, Barcelona, Basel and Bordeaux and 16 more. Often billed alongside Sasson, Acid Arab and Notre Dame. Next up: ORIGIN, Los Angeles on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | ORIGIN | Los Angeles |
 | Sun, 22 Nov 2026 | Spin | San Diego |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mont Rouge is an afro house and house artist based in Switzerland, with 57 gigs 
 
 Sasson, Acid Arab, Notre Dame
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montrouge/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montrouge/)*

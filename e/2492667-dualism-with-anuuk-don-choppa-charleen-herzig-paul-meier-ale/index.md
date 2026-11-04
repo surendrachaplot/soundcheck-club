@@ -1,6 +1,6 @@
 # DUALISM with Anuuk & DON CHOPPA, Charleen Herzig, Paul Meier, Alex.Do at ://about blank
 
-DUALISM with Anuuk & DON CHOPPA, Charleen Herzig, Paul Meier, Alex.Do at ://about blank on Sat 7 Nov, Berlin. 12 artists: 4NOUK, Alex.Do, Anuuk and Balkhausen and 8 more. Trance and Techno. See the line-up on soundcheck.
+DUALISM with Anuuk & DON CHOPPA, Charleen Herzig, Paul Meier, Alex.Do at ://about blank on Sat 7 Nov, Berlin. 13 artists: 4NOUK, Alex.Do, Anuuk and Balkhausen and 9 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,5 +22,6 @@ DUALISM with Anuuk & DON CHOPPA, Charleen Herzig, Paul Meier, Alex.Do at ://abou
 - Jacky Ickx
 - Paul Meier
 - SEKTOR69
+- ZOEVITA
 
 *Source: [soundcheck](https://soundcheck.club/e/2492667-dualism-with-anuuk-don-choppa-charleen-herzig-paul-meier-ale/)*

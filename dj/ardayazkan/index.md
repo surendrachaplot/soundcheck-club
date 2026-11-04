@@ -1,14 +1,15 @@
 # Arda Yazkan
 
-Arda Yazkan is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at 74 Hall, Istanbul on Fri, 13 Nov 2026.
+Arda Yazkan is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at 74 Hall, Istanbul on Fri, 13 Nov 2026.
 
-Arda Yazkan is a techno and acid artist based in Turkey, with 18 gigs on soundcheck across Istanbul. Often billed alongside Taha Sezgin, CNVN and SlREN. Next up: 74 Hall, Istanbul on Fri 13 Nov.
+Arda Yazkan is a techno and acid artist based in Turkey, with 19 gigs on soundcheck across Istanbul. Often billed alongside Taha Sezgin, SlREN and CNVN. Next up: 74 Hall, Istanbul on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | 74 Hall | Istanbul |
+| Sat, 26 Dec 2026 | 74 Hall | Istanbul |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Arda Yazkan is a techno and acid artist based in Turkey, with 18 gigs on soundch
 
 ## Shares bills with
 
-Taha Sezgin, CNVN, SlREN
+Taha Sezgin, SlREN, CNVN
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ardayazkan/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ardayazkan/)*

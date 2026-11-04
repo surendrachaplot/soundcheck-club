@@ -1,6 +1,6 @@
 # gegenfegen
 
-gegenfegen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ostkreuz, Berlin on Sat, 7 Nov 2026.
+gegenfegen is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ostkreuz, Berlin on Sat, 7 Nov 2026.
 
 gegenfegen is a techno and bass artist based in Germany, with 29 gigs on soundcheck across Berlin. Often billed alongside VITØ VITE, cell1 and Dj Sunflash. Next up: Ostkreuz, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ gegenfegen is a techno and bass artist based in Germany, with 29 gigs on soundch
 
 VITØ VITE, cell1, Dj Sunflash
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gegenfegen/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gegenfegen/)*

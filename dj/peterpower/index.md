@@ -1,6 +1,6 @@
 # Peter Power
 
-Peter Power is a Downtempo and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 7 Nov 2026.
+Peter Power is a Downtempo and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 7 Nov 2026.
 
 Peter Power is a downtempo and acid artist, with 5 gigs on soundcheck across Lisbon, Mexico City, Osaka and Tokyo. Often billed alongside Thomash, Acid Pauli and Barreto. Next up: MIDNIGHT EAST, Tokyo on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Peter Power is a downtempo and acid artist, with 5 gigs on soundcheck across Lis
 
 Thomash, Acid Pauli, Barreto
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpower/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterpower/)*

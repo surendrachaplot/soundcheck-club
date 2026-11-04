@@ -1,13 +1,14 @@
 # not even noticed
 
-not even noticed is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
+not even noticed is a House and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 7 Nov 2026.
 
-not even noticed is a house and breakbeat artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 14 more. Often billed alongside GERKE, Will A and Jannis Brinkmann. Next up: Legal, Munich on Sat 14 Nov.
+not even noticed is a house and breakbeat artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 14 more. Often billed alongside GERKE, Will A and Jannis Brinkmann. Next up: Tokonoma Club, Frankfurt on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sat, 14 Nov 2026 | Legal | Munich |
 
 ## Recently played
@@ -25,4 +26,4 @@ not even noticed is a house and breakbeat artist based in Germany, with 43 gigs 
 
 GERKE, Will A, Jannis Brinkmann
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*

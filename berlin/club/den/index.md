@@ -1,6 +1,6 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦" on Wed, 4 Nov 2026.
+ÆDEN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ w/ Varanasi, ADNER, Nekronancy & RDVO" on Wed, 4 Nov 2026.
 
 ÆDEN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including YOVA, Aaron Blau, Annakonda and ARPL and 2 more. See dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
@@ -8,7 +8,7 @@
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ | Nekronancy, RDVO, Varanasi |
+| Wed, 4 Nov 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ w/ Varanasi, ADNER, Nekronancy & RDVO | Nekronancy, RDVO, Varanasi |
 | Fri, 6 Nov 2026 | Black Lab present Deep Culture | Blazej Malinowski, Dima Roas, Hitam, Salem Unsigned |
 | Sat, 7 Nov 2026 | ANECHOIC: Winter Date — WIEDER Invited | August Kind, Bobaz Lobster, Deltapeak, Edgar Os, Eli Bot, GI.O, Henk (BR), L.OST, RaVix, bbymeister, jeanska, mølly (on molly) |
 | Wed, 11 Nov 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ |  |
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

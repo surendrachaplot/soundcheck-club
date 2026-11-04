@@ -1,6 +1,6 @@
 # Novo Line
 
-Novo Line is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sameheads, Berlin on Sat, 21 Nov 2026.
+Novo Line is a New Wave and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sameheads, Berlin on Sat, 21 Nov 2026.
 
 Novo Line is a new wave and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Alexander Arpeggio, André Uhl and Antonio Barbetta. Next up: Sameheads, Berlin on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Novo Line is a new wave and techno artist based in Germany, with 5 gigs on sound
 
 Alexander Arpeggio, André Uhl, Antonio Barbetta
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novoline/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novoline/)*

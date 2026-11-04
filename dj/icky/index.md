@@ -1,6 +1,6 @@
 # iCKY
 
-iCKY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Paragon, New York City on Sat, 7 Nov 2026.
+iCKY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Paragon, New York City on Sat, 7 Nov 2026.
 
 iCKY is a techno and trance artist based in United States of America, with 17 gigs on soundcheck across Miami, New York City and Orlando. Often billed alongside DomnRob, CÛLTÛS VÎS and Dadrev. Next up: Paragon, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ iCKY is a techno and trance artist based in United States of America, with 17 gi
 
 DomnRob, CÛLTÛS VÎS, Dadrev
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icky/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/icky/)*

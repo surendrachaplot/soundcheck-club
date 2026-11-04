@@ -1,8 +1,8 @@
 # Semprey
 
-Semprey is a Bass and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Transformator, Wroclaw on Fri, 6 Nov 2026.
+Semprey is a Bass and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Transformator, Wroclaw on Fri, 6 Nov 2026.
 
-Semprey is a bass and electro artist based in Poland, with 25 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Kitty Sarcasm, j.flo and Cosaco. Next up: Transformator, Wroclaw on Fri 6 Nov.
+Semprey is a bass and electro artist based in Poland, with 26 gigs on soundcheck across Gdansk, Krakow, Poznan and Warsaw and 1 more. Often billed alongside Kitty Sarcasm, j.flo and Cosaco. Next up: Transformator, Wroclaw on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Semprey is a bass and electro artist based in Poland, with 25 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Transformator | Wroclaw |
 | Sat, 7 Nov 2026 | Betel Klub | Krakow |
+| Fri, 13 Nov 2026 | Crackhouse | Gdansk |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Semprey is a bass and electro artist based in Poland, with 25 gigs on soundcheck
 
 Kitty Sarcasm, j.flo, Cosaco
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semprey/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/semprey/)*

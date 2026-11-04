@@ -1,6 +1,6 @@
 # BALDACCI
 
-BALDACCI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - São Paulo, Brazil, Sao Paulo on Fri, 6 Nov 2026.
+BALDACCI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - São Paulo, Brazil, Sao Paulo on Fri, 6 Nov 2026.
 
 BALDACCI is a house and techno artist based in Brazil, with 12 gigs on soundcheck across Sao Paulo. Often billed alongside Bauhouse, Reizko and ZXNX. Next up: TBA - São Paulo, Brazil, Sao Paulo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ BALDACCI is a house and techno artist based in Brazil, with 12 gigs on soundchec
 
 Bauhouse, Reizko, ZXNX
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldacci/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baldacci/)*

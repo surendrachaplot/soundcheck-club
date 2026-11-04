@@ -1,6 +1,6 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dream Rotation Vol.2" on Fri, 6 Nov 2026.
+Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dream Rotation Vol.2" on Fri, 6 Nov 2026.
 
 Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, with line-ups including 50PHIE, Andreas Eckhardt, Arman John and a:tok and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
@@ -23,4 +23,4 @@ Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, w
 
 Eggebrechtstraße 2, 04103 Leipzig, Germany, Leipzig
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/distillery/)*

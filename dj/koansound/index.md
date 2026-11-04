@@ -1,6 +1,6 @@
 # KOAN Sound
 
-KOAN Sound is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Reelworks Denver, Denver on Fri, 20 Nov 2026.
+KOAN Sound is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Reelworks Denver, Denver on Fri, 20 Nov 2026.
 
 KOAN Sound is a bass and drum & bass artist based in United Kingdom, with 15 gigs on soundcheck across Atlanta, Bristol, Denver and Jacksonville and 9 more. Often billed alongside Imanu, Afrobeta and Austen van der Bleek. Next up: Reelworks Denver, Denver on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ KOAN Sound is a bass and drum & bass artist based in United Kingdom, with 15 gig
 
 Imanu, Afrobeta, Austen van der Bleek
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koansound/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koansound/)*

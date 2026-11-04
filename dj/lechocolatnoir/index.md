@@ -1,6 +1,6 @@
 # Le Chocolat Noir
 
-Le Chocolat Noir is a EBM and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kino Siska, Ljubljana on Thu, 5 Nov 2026.
+Le Chocolat Noir is a EBM and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kino Siska, Ljubljana on Thu, 5 Nov 2026.
 
 Le Chocolat Noir is an ebm and acid artist based in Croatia, with 7 gigs on soundcheck across Bangkok, Belgrade, Berlin and Ljubljana and 3 more. Often billed alongside 030303, Afra and Alessandro Adriani. Next up: Kino Siska, Ljubljana on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ Le Chocolat Noir is an ebm and acid artist based in Croatia, with 7 gigs on soun
 
 030303, Afra, Alessandro Adriani
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lechocolatnoir/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lechocolatnoir/)*

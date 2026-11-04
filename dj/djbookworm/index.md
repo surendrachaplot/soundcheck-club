@@ -1,0 +1,28 @@
+# DJ Bookworm
+
+DJ Bookworm is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - 288 Green St. Cambridge, Boston on Sat, 5 Dec 2026.
+
+DJ Bookworm is a house and progressive house artist based in United States of America, with 13 gigs on soundcheck across Boston and New York City. Often billed alongside FRANZIV, ViV:On and 1R.fm. Next up: TBA - 288 Green St. Cambridge, Boston on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | TBA - 288 Green St. Cambridge | Boston |
+
+## Recently played
+
+- Cloud & Spirits, Boston · Fri, 30 Oct 2026
+- The Lower Level, Boston · Sat, 29 Aug 2026
+- TBA - Cambridge Location, Boston · Sat, 30 May 2026
+- TBA - Crown - 275 Tremont St, Boston, Boston · Fri, 8 May 2026
+- Eris, New York City · Sat, 17 Jan 2026
+- 288 Green St, Boston · Sat, 6 Dec 2025
+- Union Tavern, Boston · Fri, 31 Oct 2025
+- Cloud & Spirits, Boston · Fri, 25 Apr 2025
+
+## Shares bills with
+
+FRANZIV, ViV:On, 1R.fm
+
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbookworm/)*

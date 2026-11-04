@@ -1,6 +1,6 @@
 # La Cova
 
-La Cova is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Garten der Lüste - Golden Skin" on Fri, 6 Nov 2026.
+La Cova is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Garten der Lüste - Golden Skin" on Fri, 6 Nov 2026.
 
 La Cova is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Frank Leder, Limoncello, Softdrive and Unromantic. See dates, start times and who's playing. Reeperbahn 152, 20359 Hamburg.
 
@@ -15,4 +15,4 @@ La Cova is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with 
 
 Reeperbahn 152, 20359 Hamburg, Hamburg
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/la-cova/)*

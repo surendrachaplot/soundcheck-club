@@ -1,6 +1,6 @@
 # Morten
 
-Morten is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Morten is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
 Morten is an electronica and house artist based in Denmark, with 35 gigs on soundcheck across Athens, Barcelona, Bratislava and Budapest and 16 more. Often billed alongside David Guetta, Adam Ten and Artbat. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Morten is an electronica and house artist based in Denmark, with 35 gigs on soun
 
 David Guetta, Adam Ten, Artbat
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/morten/)*

@@ -1,6 +1,6 @@
 # Kenny Larkin
 
-Kenny Larkin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Petit CAB, Marseille on Fri, 6 Nov 2026.
+Kenny Larkin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Petit CAB, Marseille on Fri, 6 Nov 2026.
 
 Kenny Larkin is a techno and house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bogotá and 28 more. Often billed alongside Octave One, Kevin Saunderson and CESAR ALMENA. Next up: Petit CAB, Marseille on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Kenny Larkin is a techno and house artist based in United States of America, wit
 
 Octave One, Kevin Saunderson, CESAR ALMENA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennylarkin/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kennylarkin/)*

@@ -1,6 +1,6 @@
 # David Rodrigues
 
-David Rodrigues is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Lottus, Porto on Sun, 15 Nov 2026.
+David Rodrigues is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Lottus, Porto on Sun, 15 Nov 2026.
 
 David Rodrigues is a techno and acid artist based in Portugal, with 21 gigs on soundcheck across Lisbon and Porto. Often billed alongside Enkō, 2jack4u and Adonis. Next up: Lottus, Porto on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ David Rodrigues is a techno and acid artist based in Portugal, with 21 gigs on s
 
 Enkō, 2jack4u, Adonis
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodrigues/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidrodrigues/)*

@@ -1,6 +1,6 @@
 # Controlled Voltage
 
-Controlled Voltage is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Nether Club, Bucharest on Sat, 7 Nov 2026.
+Controlled Voltage is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Nether Club, Bucharest on Sat, 7 Nov 2026.
 
 Controlled Voltage is a techno and acid artist based in Romania, with 5 gigs on soundcheck across Bucharest. Often billed alongside ALISTARM, Aiur and BUTCHER BABY. Next up: Nether Club, Bucharest on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Controlled Voltage is a techno and acid artist based in Romania, with 5 gigs on 
 
 ALISTARM, Aiur, BUTCHER BABY
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/controlledvoltage/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/controlledvoltage/)*

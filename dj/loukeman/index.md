@@ -1,6 +1,6 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at fabric, London on Thu, 5 Nov 2026.
+Loukeman is a House and Electronica artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at fabric, London on Thu, 5 Nov 2026.
 
 Loukeman is a house and electronica artist based in Canada, with 36 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Bristol and 13 more. Often billed alongside Vegyn, Lis Dalton and Marie Davidson. Next up: fabric, London on Thu 5 Nov.
 
@@ -30,4 +30,4 @@ Loukeman is a house and electronica artist based in Canada, with 36 gigs on soun
 
 Vegyn, Lis Dalton, Marie Davidson
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loukeman/)*

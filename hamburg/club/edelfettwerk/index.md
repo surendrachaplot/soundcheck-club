@@ -1,6 +1,6 @@
 # Edelfettwerk
 
-Edelfettwerk is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SECTOR with TRIPTYKH, Noise Not War, KSN, DANNAE, KAIZEN B2B STASZKØ, co:co B2B TEMAZCAL" on Fri, 6 Nov 2026.
+Edelfettwerk is a music venue in Hamburg with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SECTOR with TRIPTYKH, Noise Not War, KSN, DANNAE, KAIZEN B2B STASZKØ, co:co B2B TEMAZCAL" on Fri, 6 Nov 2026.
 
 Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, with line-ups including A.N.I., Charleen Herzig, co:co and Eva Charley and 2 more. See dates, start times and who's playing. Schnackenburgsallee 202, 22525 Hamburg.
 
@@ -18,4 +18,4 @@ Edelfettwerk is a music venue in Hamburg listed on soundcheck. 5 upcoming gigs, 
 
 Schnackenburgsallee 202, 22525 Hamburg, Hamburg
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/edelfettwerk/)*

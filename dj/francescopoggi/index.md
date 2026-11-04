@@ -1,14 +1,16 @@
 # Francesco Poggi
 
-Francesco Poggi is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Z in Zimmermans, Cologne on Sat, 7 Nov 2026.
+Francesco Poggi is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Z in Zimmermans, Cologne on Sat, 7 Nov 2026.
 
-Francesco Poggi is a tech house and house artist based in United Kingdom, with 152 gigs on soundcheck across Cologne, Dublin, Lausanne and Lisbon and 4 more. Often billed alongside Enrico Chirchiello, Bibiminor and Duwat?. Next up: Club Z in Zimmermans, Cologne on Sat 7 Nov.
+Francesco Poggi is a tech house and house artist based in United Kingdom, with 154 gigs on soundcheck across Cologne, Dublin, Lausanne and Lisbon and 4 more. Often billed alongside Enrico Chirchiello, Bibiminor and Duwat?. Next up: Club Z in Zimmermans, Cologne on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Club Z in Zimmermans | Cologne |
+| Sat, 14 Nov 2026 | Union Club, Vauxhall | London |
+| Sun, 15 Nov 2026 | Union Club, Vauxhall | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Francesco Poggi is a tech house and house artist based in United Kingdom, with 1
 
 Enrico Chirchiello, Bibiminor, Duwat?
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescopoggi/)*

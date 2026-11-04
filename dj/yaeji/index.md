@@ -1,6 +1,6 @@
 # Yaeji
 
-Yaeji is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Paragon, New York City on Fri, 6 Nov 2026.
+Yaeji is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Paragon, New York City on Fri, 6 Nov 2026.
 
 Yaeji is a house and club artist based in United States of America, with 48 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Bambii, Disclosure and HiTech. Next up: Paragon, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Yaeji is a house and club artist based in United States of America, with 48 gigs
 
 Bambii, Disclosure, HiTech
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaeji/)*

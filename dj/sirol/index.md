@@ -1,6 +1,6 @@
 # Sirol
 
-Sirol is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Supermarket, Zurich on Sat, 7 Nov 2026.
+Sirol is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Supermarket, Zurich on Sat, 7 Nov 2026.
 
 Sirol is a minimal and tech house artist based in Switzerland, with 10 gigs on soundcheck across Zurich. Often billed alongside Yarbit, Flavio (CH) and Tatler. Next up: Supermarket, Zurich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sirol is a minimal and tech house artist based in Switzerland, with 10 gigs on s
 
 Yarbit, Flavio (CH), Tatler
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirol/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirol/)*

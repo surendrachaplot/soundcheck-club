@@ -1,6 +1,6 @@
 # TESTBED
 
-TESTBED is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Ruckus24 - Rossi. Traumer, Reeshy, Josh Demello" on Fri, 13 Nov 2026.
+TESTBED is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Ruckus24 - Rossi. Traumer, Reeshy, Josh Demello" on Fri, 13 Nov 2026.
 
 TESTBED is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Josh Demello, Max Cooper, Reeshy and Rival Consoles and 2 more. See dates, start times and who's playing. Butterley Street.
 
@@ -15,4 +15,4 @@ TESTBED is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with li
 
 Butterley Street, Leeds
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/testbed/)*

@@ -1,6 +1,6 @@
 # Pearson Sound
 
-Pearson Sound is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Basic Club, Naples on Sat, 28 Nov 2026.
+Pearson Sound is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Basic Club, Naples on Sat, 28 Nov 2026.
 
 Pearson Sound is a techno and bass artist based in United Kingdom, with 106 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 47 more. Often billed alongside Ben UFO, Pangaea and Peach. Next up: Basic Club, Naples on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Pearson Sound is a techno and bass artist based in United Kingdom, with 106 gigs
 
 Ben UFO, Pangaea, Peach
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pearsonsound/)*

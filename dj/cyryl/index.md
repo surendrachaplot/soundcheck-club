@@ -1,6 +1,6 @@
 # Cyryl
 
-Cyryl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jasna 1, Warsaw on Sat, 7 Nov 2026.
+Cyryl is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Jasna 1, Warsaw on Sat, 7 Nov 2026.
 
 Cyryl is a techno and trance artist based in Poland, with 72 gigs on soundcheck across Krakow, Ljubljana, Warsaw and Wroclaw. Often billed alongside Ola Teks, Kovvalsky and MKO (PL). Next up: Jasna 1, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Cyryl is a techno and trance artist based in Poland, with 72 gigs on soundcheck 
 
 Ola Teks, Kovvalsky, MKO (PL)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyryl/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyryl/)*

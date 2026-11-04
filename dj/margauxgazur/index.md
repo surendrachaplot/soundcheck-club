@@ -1,6 +1,6 @@
 # Margaux Gazur
 
-Margaux Gazur is a Ambient and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Oblò Sonic, Lausanne on Fri, 6 Nov 2026.
+Margaux Gazur is a Ambient and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Oblò Sonic, Lausanne on Fri, 6 Nov 2026.
 
 Margaux Gazur is an ambient and bass artist based in France, with 22 gigs on soundcheck across Barcelona, Berlin, Hamburg and Helsinki and 7 more. Often billed alongside Edward, Lawrence and Alex Jenkin. Next up: Oblò Sonic, Lausanne on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Margaux Gazur is an ambient and bass artist based in France, with 22 gigs on sou
 
 Edward, Lawrence, Alex Jenkin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*

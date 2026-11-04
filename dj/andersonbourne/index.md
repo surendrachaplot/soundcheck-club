@@ -1,13 +1,14 @@
 # Anderson Bourne
 
-Anderson Bourne is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 5 Dec 2026.
+Anderson Bourne is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 5 Dec 2026.
 
-Anderson Bourne is a techno and house artist based in United States of America, with 7 gigs on soundcheck across San Francisco/Oakland and Tokyo. Often billed alongside ENJII, ALMAS and DNEB. Next up: The Great Northern, San Francisco/Oakland on Sat 5 Dec.
+Anderson Bourne is a techno and tech house artist based in United States of America, with 8 gigs on soundcheck across San Francisco/Oakland and Tokyo. Often billed alongside ALMAS, ENJII and Emanate. Next up: The Great Northern, San Francisco/Oakland on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
@@ -21,6 +22,6 @@ Anderson Bourne is a techno and house artist based in United States of America, 
 
 ## Shares bills with
 
-ENJII, ALMAS, DNEB
+ALMAS, ENJII, Emanate
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andersonbourne/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andersonbourne/)*

@@ -1,14 +1,15 @@
 # Nine of Wands
 
-Nine of Wands is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bastet, Philadelphia on Fri, 6 Nov 2026.
+Nine of Wands is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bastet, Philadelphia on Fri, 6 Nov 2026.
 
-Nine of Wands is a techno and experimental artist based in United States of America, with 15 gigs on soundcheck across Philadelphia. Often billed alongside 6LOV3, Cubby and Vicenta. Next up: Bastet, Philadelphia on Fri 6 Nov.
+Nine of Wands is a techno and experimental artist based in United States of America, with 16 gigs on soundcheck across Philadelphia. Often billed alongside 6LOV3, Cubby and Vicenta. Next up: Bastet, Philadelphia on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Bastet | Philadelphia |
+| Sat, 28 Nov 2026 | Warehouse on Watts | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Nine of Wands is a techno and experimental artist based in United States of Amer
 
 6LOV3, Cubby, Vicenta
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nineofwands/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nineofwands/)*

@@ -1,6 +1,6 @@
 # Grimmer
 
-Grimmer is a Techno and Dancehall artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
+Grimmer is a Techno and Dancehall artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
 
 Grimmer is a techno and dancehall artist, with 4 gigs on soundcheck across Melbourne. Often billed alongside Acid Safari, Annabelle Gaspar and BEARCAT. Next up: Brown Alley, Melbourne on Sun 1 Nov.
 
@@ -21,4 +21,4 @@ Grimmer is a techno and dancehall artist, with 4 gigs on soundcheck across Melbo
 
 Acid Safari, Annabelle Gaspar, BEARCAT
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grimmer/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grimmer/)*

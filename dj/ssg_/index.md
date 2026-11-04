@@ -1,6 +1,6 @@
 # SSG_
 
-SSG_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Le Bain, New York City on Thu, 5 Nov 2026.
+SSG_ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Bain, New York City on Thu, 5 Nov 2026.
 
 SSG_ is a techno and house artist, with 44 gigs on soundcheck across Boston, Detroit and New York City. Often billed alongside CSILLA, KXAH and jay york. Next up: Le Bain, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ SSG_ is a techno and house artist, with 44 gigs on soundcheck across Boston, Det
 
 CSILLA, KXAH, jay york
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ssg_/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ssg_/)*

@@ -1,6 +1,6 @@
 # Kosmic at Macarena Club
 
-Kosmic at Macarena Club on Fri 13 Nov, Barcelona. 5 artists: Auggië, Ivan Masa, Ivan Pugliares and Modelers and 1 more. See the line-up on soundcheck.
+Kosmic at Macarena Club on Fri 13 Nov, Barcelona. 4 artists: Ivan Masa, Ivan Pugliares, Modelers and Reezar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Kosmic at Macarena Club on Fri 13 Nov, Barcelona. 5 artists: Auggië, Ivan Masa,
 
 ## Line-up
 
-- Auggië
 - Ivan Masa
 - Ivan Pugliares
 - Modelers

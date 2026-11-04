@@ -1,6 +1,6 @@
 # side II side
 
-side II side is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
+side II side is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
 
 side II side is a techno and club artist based in United States of America, with 33 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Nocturnal Wax, OK Carty and Artemis.105. Next up: El Secreto De Rosita, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ side II side is a techno and club artist based in United States of America, with
 
 Nocturnal Wax, OK Carty, Artemis.105
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sideiiside/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sideiiside/)*

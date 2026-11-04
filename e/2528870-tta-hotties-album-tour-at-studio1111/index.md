@@ -1,6 +1,6 @@
 # ØTTA HOTTIES ALBUM TOUR at Studio1111
 
-ØTTA HOTTIES ALBUM TOUR at Studio1111 on Thu 19 Nov, Berlin. 1 artist: ØTTA. See the line-up on soundcheck.
+ØTTA HOTTIES ALBUM TOUR at Studio1111 on Thu 19 Nov, Berlin. 4 artists: ØTTA, SALOME, SANTANA and TINKERHELL. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@
 ## Line-up
 
 - ØTTA
+- SALOME
+- SANTANA
+- TINKERHELL
 
 *Source: [soundcheck](https://soundcheck.club/e/2528870-tta-hotties-album-tour-at-studio1111/)*

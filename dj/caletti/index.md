@@ -1,6 +1,6 @@
 # Caletti
 
-Caletti is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at underiolo, Warsaw on Fri, 6 Nov 2026.
+Caletti is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at underiolo, Warsaw on Fri, 6 Nov 2026.
 
 Caletti is a bass and house artist based in Poland, with 3 gigs on soundcheck across Warsaw. Often billed alongside faron, Avtomat and OPEP. Next up: underiolo, Warsaw on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Caletti is a bass and house artist based in Poland, with 3 gigs on soundcheck ac
 
 faron, Avtomat, OPEP
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caletti/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caletti/)*

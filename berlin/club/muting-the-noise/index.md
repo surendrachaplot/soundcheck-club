@@ -1,6 +1,6 @@
 # Muting The Noise
 
-Muting The Noise is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "BIGAMO LIVE with Al Pagoda & Kira Kemprova" on Wed, 11 Nov 2026.
+Muting The Noise is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "BIGAMO LIVE with Al Pagoda & Kira Krempova" on Wed, 11 Nov 2026.
 
 Muting The Noise is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Al Pagoda. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Muting The Noise is a music venue in Berlin listed on soundcheck. 1 upcoming gig
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | BIGAMO LIVE with Al Pagoda & Kira Kemprova | Al Pagoda |
+| Wed, 11 Nov 2026 | BIGAMO LIVE with Al Pagoda & Kira Krempova | Al Pagoda |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/muting-the-noise/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/muting-the-noise/)*

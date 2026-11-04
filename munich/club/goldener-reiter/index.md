@@ -1,8 +1,8 @@
 # Goldener Reiter
 
-Goldener Reiter is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Clubfloor with BURY2K, Lavandonia, Jonas Gottlieb" on Fri, 6 Nov 2026.
+Goldener Reiter is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Clubfloor with BURY2K, Lavandonia, Jonas Gottlieb" on Fri, 6 Nov 2026.
 
-Goldener Reiter is a music venue in Munich listed on soundcheck. 9 upcoming gigs, with line-ups including André Dancekowski, Arninho, BURY2K and CHUBBS and 2 more. See dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
+Goldener Reiter is a music venue in Munich listed on soundcheck. 9 upcoming gigs, with line-ups including Adriano Scopece, André Dancekowski, Arninho and BURY2K and 2 more. See dates, start times and who's playing. Theklastraße 1 Munich, Germany 80469.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 9 upcoming gigs
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Clubfloor with BURY2K, Lavandonia, Jonas Gottlieb | BURY2K, Lavandonia |
 | Sat, 7 Nov 2026 | IPLAYWHATIWANT with DJ Süß, DJ HOT, CHUBBS, Philipp Lüers | CHUBBS, DJ HOT, Philipp Lüers |
-| Fri, 13 Nov 2026 | House of Lolo Dancing Session |  |
+| Fri, 13 Nov 2026 | House of Lolo Dancing Session | Adriano Scopece, DJ Weißwurst |
 | Sat, 14 Nov 2026 | Trägertal Festival Pre-Party with Father Earth, Jaro, Viikatory, De Lulu, Ceesi & Filius | Viikatory |
 | Fri, 20 Nov 2026 | Goodies with Alba, Toni, Yen |  |
 | Sat, 21 Nov 2026 | Tanzdirektion Süd with Soulstice b2b Feuerstein, B1.ngo, Vilsstadtlocoboi, Rita Benzin |  |
@@ -22,4 +22,4 @@ Goldener Reiter is a music venue in Munich listed on soundcheck. 9 upcoming gigs
 
 Theklastraße 1 Munich, Germany 80469, Munich
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/goldener-reiter/)*

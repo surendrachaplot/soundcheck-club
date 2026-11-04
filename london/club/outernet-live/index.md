@@ -1,6 +1,6 @@
 # Outernet Live
 
-Outernet Live is a music venue in London with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Two Shell (A/V Show) with Weirdcore, Samuelspaniel, Bugasmurf ++more — Outernet Live, London" on Sat, 7 Nov 2026.
+Outernet Live is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Two Shell (A/V Show) with Weirdcore, Samuelspaniel, Bugasmurf ++more — Outernet Live, London" on Sat, 7 Nov 2026.
 
 Outernet Live is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including AALIYAH, AJNA, ALISHA and Ciara and 2 more. See dates, start times and who's playing. Denmark Street, London WC2H.
 
@@ -23,4 +23,4 @@ Outernet Live is a music venue in London listed on soundcheck. 13 upcoming gigs,
 
 Denmark Street, London WC2H, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/outernet-live/)*

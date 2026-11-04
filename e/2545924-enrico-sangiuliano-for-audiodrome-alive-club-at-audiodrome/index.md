@@ -1,6 +1,6 @@
 # Enrico Sangiuliano for Audiodrome ALIVE CLUB at Audiodrome
 
-Enrico Sangiuliano for Audiodrome ALIVE CLUB on Fri 6 Nov, Turin. 1 artist: Enrico Sangiuliano. Techno. See the line-up on soundcheck.
+Enrico Sangiuliano for Audiodrome ALIVE CLUB on Fri 6 Nov, Turin. 2 artists: Enrico Sangiuliano and The Taste. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Enrico Sangiuliano for Audiodrome ALIVE CLUB on Fri 6 Nov, Turin. 1 artist: Enri
 ## Line-up
 
 - Enrico Sangiuliano
+- The Taste
 
 *Source: [soundcheck](https://soundcheck.club/e/2545924-enrico-sangiuliano-for-audiodrome-alive-club-at-audiodrome/)*

@@ -1,13 +1,14 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at 99 Scott Ave, New York City on Sat, 7 Nov 2026.
+Kyle Starkey is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bsmnt, Boston on Fri, 6 Nov 2026.
 
-Kyle Starkey is a techno and house artist based in United Kingdom, with 183 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 46 more. Often billed alongside DART, Benwal and Faster Horses. Next up: 99 Scott Ave, New York City on Sat 7 Nov.
+Kyle Starkey is a techno and house artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 47 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Bsmnt, Boston on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Bsmnt | Boston |
 | Sat, 7 Nov 2026 | 99 Scott Ave | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | Club Vinyl | Denver |
@@ -19,7 +20,6 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 183 gigs
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
-| Sat, 2 Jan 2027 | Arena Joondalup | Perth |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Kyle Starkey is a techno and house artist based in United Kingdom, with 183 gigs
 
 DART, Benwal, Faster Horses
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylestarkey/)*

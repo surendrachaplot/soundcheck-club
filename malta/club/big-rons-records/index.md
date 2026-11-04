@@ -1,6 +1,6 @@
 # Big Rons Records
 
-Big Rons Records is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Big Rons special press Feat.Rob Mello" on Sat, 21 Nov 2026.
+Big Rons Records is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Big Rons special press Feat.Rob Mello" on Sat, 21 Nov 2026.
 
 Big Rons Records is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including MATO and Rob Mello. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Big Rons Records is a music venue in Malta listed on soundcheck. 1 upcoming gig,
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Big Rons special press Feat.Rob Mello | MATO, Rob Mello |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/big-rons-records/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/big-rons-records/)*

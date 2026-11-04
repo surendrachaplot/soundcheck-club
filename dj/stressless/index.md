@@ -1,6 +1,6 @@
 # Stress Less
 
-Stress Less is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ballroom at Palais, London on Sat, 7 Nov 2026.
+Stress Less is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ballroom at Palais, London on Sat, 7 Nov 2026.
 
 Stress Less is a techno and bass artist based in United Kingdom, with 26 gigs on soundcheck across Bristol, Buenos Aires and London. Often billed alongside Benko, Sammy Sass and Blixa. Next up: Ballroom at Palais, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Stress Less is a techno and bass artist based in United Kingdom, with 26 gigs on
 
 Benko, Sammy Sass, Blixa
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stressless/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stressless/)*

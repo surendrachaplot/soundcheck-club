@@ -1,6 +1,6 @@
 # Mike Servito
 
-Mike Servito is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Mike Servito is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Mike Servito is a house and techno artist based in United States of America, with 317 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 38 more. Often billed alongside Erika, Shaun J. Wright and Carlos Souffront. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Mike Servito is a house and techno artist based in United States of America, wit
 
 Erika, Shaun J. Wright, Carlos Souffront
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeservito/)*

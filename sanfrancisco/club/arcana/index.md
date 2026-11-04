@@ -1,6 +1,6 @@
 # Arcana
 
-Arcana is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Big Happy presents Kon & Amir" on Fri, 6 Nov 2026.
+Arcana is a music venue in San Francisco/Oakland with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Big Happy presents Kon & Amir" on Fri, 6 Nov 2026.
 
 Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcoming gigs, with line-ups including Beach Motors, Big Happy, DJ Amir and DJ Kon and 2 more. See dates, start times and who's playing. 2512 Mission St, San Francisco.
 
@@ -16,4 +16,4 @@ Arcana is a music venue in San Francisco/Oakland listed on soundcheck. 3 upcomin
 
 2512 Mission St, San Francisco, San Francisco/Oakland
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/arcana/)*

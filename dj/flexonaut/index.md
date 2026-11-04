@@ -1,6 +1,6 @@
 # Flexonaut
 
-Flexonaut is a Krautrock and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Rough Trade Berlin, Berlin on Wed, 18 Nov 2026.
+Flexonaut is a Krautrock and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Rough Trade Berlin, Berlin on Wed, 18 Nov 2026.
 
 Flexonaut is a krautrock and electronica artist, with 4 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Chloé, Cobyn and Cosmic Force. Next up: Rough Trade Berlin, Berlin on Wed 18 Nov.
 
@@ -20,4 +20,4 @@ Flexonaut is a krautrock and electronica artist, with 4 gigs on soundcheck acros
 
 Chloé, Cobyn, Cosmic Force
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flexonaut/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flexonaut/)*

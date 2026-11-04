@@ -1,8 +1,8 @@
 # Specka
 
-Specka is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Tributo a Rivers'59 I Temática" on Fri, 6 Nov 2026.
+Specka is a music venue in Madrid with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Tributo a Rivers'59 I Temática" on Fri, 6 Nov 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including Blaark, Cilla (AU), David Ponziano and Esther Summer and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 17 upcoming gigs, with line-ups including ananke, Blaark, Cilla (AU) and David Ponziano and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Specka is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with l
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

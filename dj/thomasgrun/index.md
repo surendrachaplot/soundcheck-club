@@ -1,6 +1,6 @@
 # Thomas Grün
 
-Thomas Grün is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SASS Music Club, Vienna on Sun, 8 Nov 2026.
+Thomas Grün is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at SASS Music Club, Vienna on Sun, 8 Nov 2026.
 
 Thomas Grün is a house and techno artist based in Austria, with 46 gigs on soundcheck across Barcelona, Berlin and Vienna. Often billed alongside Philipp Blecha, Stipo and Veronika Amie. Next up: SASS Music Club, Vienna on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Thomas Grün is a house and techno artist based in Austria, with 46 gigs on soun
 
 Philipp Blecha, Stipo, Veronika Amie
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasgrun/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasgrun/)*

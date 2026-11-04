@@ -1,14 +1,15 @@
 # The Rat
 
-The Rat is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+The Rat is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
-The Rat is a techno and bass artist based in New Zealand, with 9 gigs on soundcheck across Auckland, Christchurch, Melbourne and Sydney. Often billed alongside Keepsakes, Tièmoko Koné and Awa (uwu). Next up: Miscellania, Melbourne on Sat 14 Nov.
+The Rat is a techno and bass artist based in New Zealand, with 10 gigs on soundcheck across Auckland, Christchurch, Melbourne and Sydney. Often billed alongside Keepsakes, Kate.Land and Tièmoko Koné. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
+| Fri, 11 Dec 2026 | Galaxy Bar | Christchurch |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ The Rat is a techno and bass artist based in New Zealand, with 9 gigs on soundch
 
 ## Shares bills with
 
-Keepsakes, Tièmoko Koné, Awa (uwu)
+Keepsakes, Kate.Land, Tièmoko Koné
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/therat/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/therat/)*

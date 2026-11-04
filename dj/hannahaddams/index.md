@@ -1,6 +1,6 @@
 # Hannah Addams
 
-Hannah Addams is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
+Hannah Addams is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Metro Dance Club, Alicante on Sat, 14 Nov 2026.
 
 Hannah Addams is a techno and house artist based in Spain, with 11 gigs on soundcheck across Alicante, Barcelona, Berlin and Geneva and 1 more. Often billed alongside TIKOA, Carmen Electro and Stallo. Next up: Metro Dance Club, Alicante on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Hannah Addams is a techno and house artist based in Spain, with 11 gigs on sound
 
 TIKOA, Carmen Electro, Stallo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahaddams/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahaddams/)*

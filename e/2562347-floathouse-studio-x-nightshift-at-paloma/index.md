@@ -1,6 +1,6 @@
 # Floathouse Studio x Nightshift at Paloma
 
-Floathouse Studio x Nightshift at Paloma on Sun 15 Nov, Berlin. 8 artists: acidheaven, Beqqi, charli/e and Cosmic Cherry and 4 more. House and Garage. See the line-up on soundcheck.
+Floathouse Studio x Nightshift at Paloma on Sun 15 Nov, Berlin. 9 artists: acidheaven, Beqqi, charli/e and Cosmic Cherry and 5 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Floathouse Studio x Nightshift at Paloma on Sun 15 Nov, Berlin. 8 artists: acidh
 - charli/e
 - Cosmic Cherry
 - Dyslexi
+- julian (DE)
 - salameh
 - Stoshka
 - Yukon Nature

@@ -1,13 +1,14 @@
 # CICELY
 
-CICELY is a Hardcore and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Beaver Works, Leeds on Fri, 11 Dec 2026.
+CICELY is a Hardcore and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at M.O.T, London on Thu, 5 Nov 2026.
 
-CICELY is a hardcore and breakbeat artist based in United Kingdom, with 80 gigs on soundcheck across Berlin, Brighton, Leeds and London and 3 more. Often billed alongside Highlander, A.N.T and OS:MAN. Next up: Beaver Works, Leeds on Fri 11 Dec.
+CICELY is a hardcore and breakbeat artist based in United Kingdom, with 81 gigs on soundcheck across Berlin, Brighton, Leeds and London and 3 more. Often billed alongside Highlander, A.N.T and OS:MAN. Next up: M.O.T, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | M.O.T | London |
 | Fri, 11 Dec 2026 | Beaver Works | Leeds |
 
 ## Recently played
@@ -25,4 +26,4 @@ CICELY is a hardcore and breakbeat artist based in United Kingdom, with 80 gigs 
 
 Highlander, A.N.T, OS:MAN
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cicely/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cicely/)*

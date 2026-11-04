@@ -1,6 +1,6 @@
 # enthrust
 
-enthrust is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kolektor, Prague on Sat, 7 Nov 2026.
+enthrust is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kolektor, Prague on Sat, 7 Nov 2026.
 
 enthrust is a techno and house artist based in Czech Republic, with 4 gigs on soundcheck across Prague. Often billed alongside V!KK!, VISNEACS and 2NDRA. Next up: Kolektor, Prague on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ enthrust is a techno and house artist based in Czech Republic, with 4 gigs on so
 
 V!KK!, VISNEACS, 2NDRA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enthrust/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enthrust/)*

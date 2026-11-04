@@ -1,6 +1,6 @@
 # Kai.F
 
-Kai.F is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Track, Beijing on Fri, 6 Nov 2026.
+Kai.F is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Track, Beijing on Fri, 6 Nov 2026.
 
 Kai.F is a house and techno artist based in China, with 84 gigs on soundcheck across Beijing, Chengdu, Chongqing and Shanghai and 1 more. Often billed alongside Nigls, SunMeng and Giórgi. Next up: Track, Beijing on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Kai.F is a house and techno artist based in China, with 84 gigs on soundcheck ac
 
 Nigls, SunMeng, Giórgi
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kai.f/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kai.f/)*

@@ -1,6 +1,6 @@
 # XuXa
 
-XuXa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "KITCHEN TECHNO WELCOMES SHDW" on Fri, 6 Nov 2026.
+XuXa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "KITCHEN TECHNO WELCOMES SHDW" on Fri, 6 Nov 2026.
 
 XuXa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line-ups including Black Lotus, Brett Johnson, Doc Martin and Hana Sabri and 2 more. See dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
 
@@ -17,4 +17,4 @@ XuXa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line
 
 6910 Shirley Ave, Unit I, Austin, TX 78752, USA, Austin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/xuxa/)*

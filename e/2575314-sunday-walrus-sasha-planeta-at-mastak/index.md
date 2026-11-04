@@ -1,6 +1,6 @@
 # SUNDAY: Walrus / Sasha Planeta at Mastak
 
-SUNDAY: Walrus / Sasha Planeta at Mastak on Sun 15 Nov, Warsaw. 1 artist: Walrus. House and Minimal. See the line-up on soundcheck.
+SUNDAY: Walrus / Sasha Planeta at Mastak on Sun 15 Nov, Warsaw. 2 artists: Walrus and WhoTestDJ. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SUNDAY: Walrus / Sasha Planeta at Mastak on Sun 15 Nov, Warsaw. 1 artist: Walrus
 ## Line-up
 
 - Walrus
+- WhoTestDJ
 
 *Source: [soundcheck](https://soundcheck.club/e/2575314-sunday-walrus-sasha-planeta-at-mastak/)*

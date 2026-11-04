@@ -1,8 +1,8 @@
 # Supperclub
 
-Supperclub is a music venue in Amsterdam with 42 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Source x Archive" on Thu, 5 Nov 2026.
+Supperclub is a music venue in Amsterdam with 43 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Source x Archive" on Thu, 5 Nov 2026.
 
-Supperclub is a music venue in Amsterdam listed on soundcheck. 42 upcoming gigs, with line-ups including Emma Champagne Queen, Heritage Listed, Kirilski and Pura Pachanga. See dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
+Supperclub is a music venue in Amsterdam listed on soundcheck. 43 upcoming gigs, with line-ups including Emma Champagne Queen, Heritage Listed, Kirilski and Pura Pachanga. See dates, start times and who's playing. Singel 460, 1017 AW Amsterdam.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Supperclub is a music venue in Amsterdam listed on soundcheck. 42 upcoming gigs,
 
 Singel 460, 1017 AW Amsterdam, Amsterdam
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/supperclub/)*

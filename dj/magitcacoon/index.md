@@ -1,6 +1,6 @@
 # Magit Cacoon
 
-Magit Cacoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 3 Dec 2026.
+Magit Cacoon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Noto Philadelphia, Philadelphia on Thu, 3 Dec 2026.
 
 Magit Cacoon is a techno and house artist based in Israel, with 38 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside Henri Bergmann, Armonica and Brina Knauss. Next up: Noto Philadelphia, Philadelphia on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Magit Cacoon is a techno and house artist based in Israel, with 38 gigs on sound
 
 Henri Bergmann, Armonica, Brina Knauss
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magitcacoon/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magitcacoon/)*

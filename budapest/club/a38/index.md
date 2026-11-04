@@ -1,6 +1,6 @@
 # A38
 
-A38 is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Bladerunnaz: Kanine" on Fri, 27 Nov 2026.
+A38 is a music venue in Budapest with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Bladerunnaz: Kanine" on Fri, 27 Nov 2026.
 
 A38 is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with line-ups including Kanine and Mala. See dates, start times and who's playing. Petőfi Bridge; 1114 Budapest; Budai alsó rakpart.
 
@@ -16,4 +16,4 @@ A38 is a music venue in Budapest listed on soundcheck. 3 upcoming gigs, with lin
 
 Petőfi Bridge; 1114 Budapest; Budai alsó rakpart, Budapest
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/a38/)*

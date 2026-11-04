@@ -1,6 +1,6 @@
 # CATAWR
 
-CATAWR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kater, Berlin on Thu, 19 Nov 2026.
+CATAWR is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kater, Berlin on Thu, 19 Nov 2026.
 
 CATAWR is a house and techno artist based in Germany, with 5 gigs on soundcheck across Berlin and Ibiza. Often billed alongside Bøgen, Miguel Silva and Not Stereo. Next up: Kater, Berlin on Thu 19 Nov.
 
@@ -21,4 +21,4 @@ CATAWR is a house and techno artist based in Germany, with 5 gigs on soundcheck 
 
 Bøgen, Miguel Silva, Not Stereo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catawr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catawr/)*

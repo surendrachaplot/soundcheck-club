@@ -1,6 +1,6 @@
 # Pawnshop
 
-Pawnshop is a music venue in Taipei with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Pawnshop Night" on Fri, 6 Nov 2026.
+Pawnshop is a music venue in Taipei with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Pawnshop Night" on Fri, 6 Nov 2026.
 
 Pawnshop is a music venue in Taipei listed on soundcheck. 9 upcoming gigs, with line-ups including BADSISTA, CEM, Danielle (UK) and Daybreak and 2 more. See dates, start times and who's playing. 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan.
 
@@ -22,4 +22,4 @@ Pawnshop is a music venue in Taipei listed on soundcheck. 9 upcoming gigs, with 
 
 279, Section 4, Xinyi Road, Da'an District Taipei City, 106 Taiwan, Taipei
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/pawnshop/)*

@@ -1,8 +1,8 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Chocolate Factory, New York City on Sat, 7 Nov 2026.
+ØTTA is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Chocolate Factory, New York City on Sat, 7 Nov 2026.
 
-ØTTA is a techno and house artist based in Portugal, with 198 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Nico Moreno, 999999999 and Charlie Sparks. Next up: The Chocolate Factory, New York City on Sat 7 Nov.
+ØTTA is a techno and house artist based in Portugal, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside Nico Moreno, 999999999 and Charlie Sparks. Next up: The Chocolate Factory, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@
 | Thu, 19 Nov 2026 | Studio1111 | Berlin |
 | Sat, 21 Nov 2026 | Colour Factory | London |
 | Wed, 25 Nov 2026 | Origin | Los Angeles |
+| Wed, 25 Nov 2026 | ORIGIN | Los Angeles |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Sun, 6 Dec 2026 | Le Sucre | Lyon |
 | Fri, 11 Dec 2026 | BRET | Amsterdam |
 | Sat, 19 Dec 2026 | Nitsa Club | Barcelona |
-| Fri, 1 Jan 2027 | Gietijzer | Netherlands |
 
 ## Recently played
 
@@ -36,4 +36,4 @@
 
 Nico Moreno, 999999999, Charlie Sparks
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

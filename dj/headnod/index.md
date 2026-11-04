@@ -1,6 +1,6 @@
 # Headnod
 
-Headnod is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Upstairs at the 700, Philadelphia on Thu, 12 Nov 2026.
+Headnod is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Upstairs at the 700, Philadelphia on Thu, 12 Nov 2026.
 
 Headnod is a club and breakbeat artist based in United States of America, with 4 gigs on soundcheck across Atlanta and Philadelphia. Often billed alongside El-D (USA), soundsofgreg and Schmoop. Next up: Upstairs at the 700, Philadelphia on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Headnod is a club and breakbeat artist based in United States of America, with 4
 
 El-D (USA), soundsofgreg, Schmoop
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headnod/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headnod/)*

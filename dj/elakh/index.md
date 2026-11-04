@@ -1,8 +1,8 @@
 # ELAKH
 
-ELAKH is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Petit Bain, Paris on Sat, 7 Nov 2026.
+ELAKH is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Petit Bain, Paris on Sat, 7 Nov 2026.
 
-ELAKH is a club and electronica artist, with 5 gigs on soundcheck across Berlin and Paris. Often billed alongside AAMIROO, Nayoo and 3ala bab Allah. Next up: Petit Bain, Paris on Sat 7 Nov.
+ELAKH is a club and electronica artist based in Egypt, with 5 gigs on soundcheck across Berlin and Paris. Often billed alongside AAMIROO, Nayoo and 3ala bab Allah. Next up: Petit Bain, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ ELAKH is a club and electronica artist, with 5 gigs on soundcheck across Berlin 
 
 AAMIROO, Nayoo, 3ala bab Allah
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elakh/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elakh/)*

@@ -1,6 +1,6 @@
 # Sugu Kyoto
 
-Sugu Kyoto is a music venue in Kyoto with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Ambient Hours: Alex Lustig in Kyoto" on Sun, 22 Nov 2026.
+Sugu Kyoto is a music venue in Kyoto with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Ambient Hours: Alex Lustig in Kyoto" on Sun, 22 Nov 2026.
 
 Sugu Kyoto is a music venue in Kyoto listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Lustig. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ Sugu Kyoto is a music venue in Kyoto listed on soundcheck. 2 upcoming gigs, with
 | Sun, 22 Nov 2026 | Ambient Hours: Alex Lustig in Kyoto | Alex Lustig |
 | Wed, 25 Nov 2026 | Ambient Hours: Alex Lustig in Kyoto | Alex Lustig |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/sugu-kyoto/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/sugu-kyoto/)*

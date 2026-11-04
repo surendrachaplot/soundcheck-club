@@ -1,6 +1,6 @@
 # DJ Spell
 
-DJ Spell is a Club and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Leigh Sawmill Cafe, Auckland on Sat, 14 Nov 2026.
+DJ Spell is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Leigh Sawmill Cafe, Auckland on Sat, 14 Nov 2026.
 
 DJ Spell is a club and house artist, with 6 gigs on soundcheck across Auckland, Oslo, Seoul and Tokyo. Often billed alongside Deep S, Frida Sarto and Samuel Feste. Next up: Leigh Sawmill Cafe, Auckland on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ DJ Spell is a club and house artist, with 6 gigs on soundcheck across Auckland, 
 
 Deep S, Frida Sarto, Samuel Feste
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspell/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djspell/)*

@@ -1,6 +1,6 @@
 # Skream
 
-Skream is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Coda, Toronto on Fri, 6 Nov 2026.
+Skream is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Coda, Toronto on Fri, 6 Nov 2026.
 
 Skream is a house and techno artist based in United Kingdom, with 238 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 69 more. Often billed alongside Seth Troxler, Benga and DJ Tennis. Next up: Coda, Toronto on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Skream is a house and techno artist based in United Kingdom, with 238 gigs on so
 
 Seth Troxler, Benga, DJ Tennis
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skream/)*

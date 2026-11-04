@@ -1,6 +1,6 @@
 # PJ Statham
 
-PJ Statham is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Croft, Bristol on Wed, 4 Nov 2026.
+PJ Statham is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Croft, Bristol on Wed, 4 Nov 2026.
 
 PJ Statham is a garage and house artist based in United Kingdom, with 25 gigs on soundcheck across Bristol, Budapest, Denver and Edinburgh and 4 more. Often billed alongside Hyphen, Lemtom and Charlie Shell. Next up: The Croft, Bristol on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ PJ Statham is a garage and house artist based in United Kingdom, with 25 gigs on
 
 Hyphen, Lemtom, Charlie Shell
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjstatham/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjstatham/)*

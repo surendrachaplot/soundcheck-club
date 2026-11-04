@@ -1,10 +1,10 @@
 # MIDWEEK WITH KAMELEON at Luzztro
 
-MIDWEEK WITH KAMELEON at Luzztro on Tue 3 Nov, Warsaw. Techno. See the line-up on soundcheck.
+MIDWEEK WITH KAMELEON at Luzztro on Wed 4 Nov, Warsaw. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 3 Nov 2026 |
+| Date | Wed, 4 Nov 2026 |
 | Venue | Luzztro |
 | City | Warsaw |
 

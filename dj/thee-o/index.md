@@ -1,6 +1,6 @@
 # Thee-O
 
-Thee-O is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Soulwerks, Los Angeles on Sun, 15 Nov 2026.
+Thee-O is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Soulwerks, Los Angeles on Sun, 15 Nov 2026.
 
 Thee-O is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Bret Wallace, Donald Glaude and Fester. Next up: Soulwerks, Los Angeles on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Thee-O is a house and techno artist based in United States of America, with 23 g
 
 Bret Wallace, Donald Glaude, Fester
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thee-o/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thee-o/)*

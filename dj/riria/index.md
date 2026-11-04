@@ -1,14 +1,15 @@
 # RIRIA
 
-RIRIA is a Bass and Garage artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Wigwam, Dublin on Fri, 6 Nov 2026.
+RIRIA is a Bass and Garage artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Wigwam, Dublin on Fri, 6 Nov 2026.
 
-RIRIA is a bass and garage artist based in Japan, with 110 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 43 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: Wigwam, Dublin on Fri 6 Nov.
+RIRIA is a bass and garage artist based in Japan, with 111 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 43 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: Wigwam, Dublin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Wigwam | Dublin |
+| Sat, 7 Nov 2026 | Roxy | Prague |
 | Sat, 7 Nov 2026 | Roxy | Prague |
 | Fri, 13 Nov 2026 | Quarters | Brighton |
 | Sat, 14 Nov 2026 | The Loft | Manchester |
@@ -34,4 +35,4 @@ RIRIA is a bass and garage artist based in Japan, with 110 gigs on soundcheck ac
 
 Diffrent, Yung Singh, ryota dj
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

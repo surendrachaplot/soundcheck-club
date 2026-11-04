@@ -1,6 +1,6 @@
 # Soraä
 
-Soraä is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Switch, South-east on Sat, 28 Nov 2026.
+Soraä is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Switch, South-east on Sat, 28 Nov 2026.
 
 Soraä is a techno and industrial artist, with 30 gigs on soundcheck across Barcelona, Geneva, Lyon and Nantes and 2 more. Often billed alongside Angel Karel, Nyctonian and CHAST. Next up: Switch, South East on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Soraä is a techno and industrial artist, with 30 gigs on soundcheck across Barc
 
 Angel Karel, Nyctonian, CHAST
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soraa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soraa/)*

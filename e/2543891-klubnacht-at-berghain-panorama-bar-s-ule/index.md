@@ -14,7 +14,7 @@ Klubnacht at Berghain | Panorama Bar | Säule on Sat 28 Nov, Berlin. 16 artists:
 - Aöcram
 - Budino
 - Denise Rabe
-- Dialog
+- Dialog (2)
 - Fabian Garrido
 - Ignez
 - Katy De Jesus

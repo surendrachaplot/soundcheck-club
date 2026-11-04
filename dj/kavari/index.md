@@ -1,6 +1,6 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+KAVARI is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 KAVARI is an experimental and techno artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Auckland, Austin and Austria and 38 more. Often billed alongside Blood of Aza, gyrofield and Blawan. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ KAVARI is an experimental and techno artist based in United Kingdom, with 112 gi
 
 Blood of Aza, gyrofield, Blawan
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kavari/)*

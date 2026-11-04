@@ -1,6 +1,6 @@
 # Milla - Live Club
 
-Milla - Live Club is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "King Kong Kicks • Milla • München" on Fri, 4 Dec 2026.
+Milla - Live Club is a music venue in Munich with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "King Kong Kicks • Milla • München" on Fri, 4 Dec 2026.
 
 Milla - Live Club is a music venue in Munich listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Holzstr. 28, 80469 München.
 
@@ -17,4 +17,4 @@ Milla - Live Club is a music venue in Munich listed on soundcheck. 4 upcoming gi
 
 Holzstr. 28, 80469 München, Munich
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/milla-live-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/milla-live-club/)*

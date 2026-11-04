@@ -1,6 +1,6 @@
 # Mganz
 
-Mganz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bridge 48, Barcelona on Sun, 15 Nov 2026.
+Mganz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bridge 48, Barcelona on Sun, 15 Nov 2026.
 
 Mganz is a house and tech house artist based in Spain, with 28 gigs on soundcheck across Austin, Barcelona and Madrid. Often billed alongside juliboe, DC81 and Frucula. Next up: Bridge 48, Barcelona on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Mganz is a house and tech house artist based in Spain, with 28 gigs on soundchec
 
 juliboe, DC81, Frucula
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mganz/)*

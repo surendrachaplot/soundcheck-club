@@ -1,14 +1,15 @@
 # Xanopticon
 
-Xanopticon is a Breakcore and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, San Francisco/Oakland on Sat, 7 Nov 2026.
+Xanopticon is a Breakcore and IDM artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, San Francisco/Oakland on Sat, 7 Nov 2026.
 
-Xanopticon is a breakcore and idm artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Denver, Detroit and Mexico City and 4 more. Often billed alongside Baseck, Spednar and AYLAK. Next up: TBA, San Francisco/Oakland on Sat 7 Nov.
+Xanopticon is a breakcore and idm artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Denver, Detroit and Mexico City and 5 more. Often billed alongside Baseck, Spednar and AYLAK. Next up: TBA, San Francisco/Oakland on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA | San Francisco/Oakland |
+| Sat, 12 Dec 2026 | Collapse | Pittsburgh |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Xanopticon is a breakcore and idm artist based in United States of America, with
 
 Baseck, Spednar, AYLAK
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xanopticon/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xanopticon/)*

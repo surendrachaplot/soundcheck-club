@@ -1,6 +1,6 @@
 # Teja House
 
-Teja House is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Poranguí: Roots of Resonance, 3-Day Intensive" on Fri, 20 Nov 2026.
+Teja House is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Poranguí: Roots of Resonance, 3-Day Intensive" on Fri, 20 Nov 2026.
 
 Teja House is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Cais do Sodré 5, 1200-450 Lisboa.
 
@@ -15,4 +15,4 @@ Teja House is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs. See
 
 Cais do Sodré 5, 1200-450 Lisboa, Lisbon
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/teja-house/)*

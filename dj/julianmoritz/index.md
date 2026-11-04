@@ -1,6 +1,6 @@
 # Julian Moritz
 
-Julian Moritz is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 12 Nov 2026.
+Julian Moritz is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 12 Nov 2026.
 
 Julian Moritz is a house artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Ben Reymann, Christa K and DJ EL. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ Julian Moritz is a house artist, with 4 gigs on soundcheck across Berlin. Often 
 
 Ben Reymann, Christa K, DJ EL
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmoritz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianmoritz/)*

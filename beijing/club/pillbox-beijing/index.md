@@ -1,8 +1,8 @@
 # Pillbox Beijing
 
-Pillbox Beijing is a music venue in Beijing with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CLUB SWAP：OIL" on Fri, 6 Nov 2026.
+Pillbox Beijing is a music venue in Beijing with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CLUB SWAP：OIL" on Fri, 6 Nov 2026.
 
-Pillbox Beijing is a music venue in Beijing listed on soundcheck. 2 upcoming gigs, with line-ups including Erik Luebs, OTON, S.M.S.H and Skögul and 2 more. See dates, start times and who's playing.
+Pillbox Beijing is a music venue in Beijing listed on soundcheck. 4 upcoming gigs, with line-ups including CEM, Cisco, Cosmic Egg and diǎorén and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -10,5 +10,7 @@ Pillbox Beijing is a music venue in Beijing listed on soundcheck. 2 upcoming gig
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | CLUB SWAP：OIL | S.M.S.H, Skögul, Sulk, zzm (2) |
 | Sat, 7 Nov 2026 | Erik Luebs | Erik Luebs, OTON |
+| Fri, 13 Nov 2026 | Antigen Pres. Herrensauna 10 Years Anniversary | CEM, LIUYANG, MCMLXXXV, Shengchou, SØA (1), W.X.M |
+| Sat, 14 Nov 2026 | 拳至聋: 京城厂牌大乱斗 | Cisco, Cosmic Egg, Night Swimmer, diǎorén |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/pillbox-beijing/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/beijing/club/pillbox-beijing/)*

@@ -1,6 +1,6 @@
 # Katharine
 
-Katharine is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 7 Nov 2026.
+Katharine is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Angel Music Bar, Melbourne on Sat, 7 Nov 2026.
 
 Katharine is a minimal and house artist, with 43 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Blană, Cooper Dodge and Jules David. Next up: Angel Music Bar, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Katharine is a minimal and house artist, with 43 gigs on soundcheck across Brisb
 
 Blană, Cooper Dodge, Jules David
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katharine-1/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katharine-1/)*

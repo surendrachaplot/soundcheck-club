@@ -1,8 +1,8 @@
 # Dave Angel
 
-Dave Angel is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Dave Angel is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
-Dave Angel is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 7 more. Often billed alongside Alexander Koning, Remy Unger and 4R15. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
+Dave Angel is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Barcelona, Belgium and Berlin and 8 more. Often billed alongside Alexander Koning, Remy Unger and 4R15. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dave Angel is a techno and house artist based in United Kingdom, with 16 gigs on
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | Village Underground Barcelona | Barcelona |
+| Sat, 5 Dec 2026 | Off-Club | Belgium |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dave Angel is a techno and house artist based in United Kingdom, with 16 gigs on
 
 Alexander Koning, Remy Unger, 4R15
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveangel/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveangel/)*

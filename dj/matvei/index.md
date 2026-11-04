@@ -1,6 +1,6 @@
 # MATVEÏ
 
-MATVEÏ is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pamela Club, Paris on Fri, 13 Nov 2026.
+MATVEÏ is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pamela Club, Paris on Fri, 13 Nov 2026.
 
 MATVEÏ is a house and electro artist based in France, with 17 gigs on soundcheck across London, Nantes, Paris and Taipei and 1 more. Often billed alongside Adam Spielman, Cezaire and RestonsFlex. Next up: Pamela Club, Paris on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ MATVEÏ is a house and electro artist based in France, with 17 gigs on soundchec
 
 Adam Spielman, Cezaire, RestonsFlex
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matvei/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matvei/)*

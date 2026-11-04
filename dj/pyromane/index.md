@@ -1,6 +1,6 @@
 # Pyromane
 
-Pyromane is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Vino Disco, Montreal on Thu, 12 Nov 2026.
+Pyromane is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Vino Disco, Montreal on Thu, 12 Nov 2026.
 
 Pyromane is a techno and club artist based in Canada, with 18 gigs on soundcheck across Montreal. Often billed alongside Palladium, Casa Kobrae and Katamina. Next up: Vino Disco, Montreal on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Pyromane is a techno and club artist based in Canada, with 18 gigs on soundcheck
 
 Palladium, Casa Kobrae, Katamina
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyromane/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pyromane/)*

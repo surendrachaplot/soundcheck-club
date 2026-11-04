@@ -1,14 +1,13 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sneaky Pete's, Edinburgh on Tue, 3 Nov 2026.
+Soul Mass Transit System is a Garage and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Plot 22, Sheffield on Fri, 6 Nov 2026.
 
-Soul Mass Transit System is a garage and house artist based in United Kingdom, with 165 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Sneaky Pete's, Edinburgh on Tue 3 Nov.
+Soul Mass Transit System is a garage and house artist based in United Kingdom, with 165 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: Plot 22, Sheffield on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 6 Nov 2026 | Plot 22 | Sheffield |
 | Fri, 13 Nov 2026 | La Cheetah Club | Glasgow |
 | Sat, 14 Nov 2026 | Kapsule | Liverpool |
@@ -23,6 +22,7 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 
 ## Recently played
 
+- Sneaky Pete's, Edinburgh · Tue, 3 Nov 2026
 - Quarters, Brighton · Sat, 31 Oct 2026
 - Hope House, Leeds · Fri, 30 Oct 2026
 - Basement Amsterdam, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +30,9 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, w
 - Gaswrx Birmingham, Birmingham · Sat, 17 Oct 2026
 - The Loft, Manchester · Sat, 17 Oct 2026
 - Toffler, Rotterdam · Fri, 9 Oct 2026
-- The Love Inn, Bristol · Thu, 1 Oct 2026
 
 ## Shares bills with
 
 Silva Bumpa, Dr Dubplate, Prozak (IRL)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmasstransitsystem/)*

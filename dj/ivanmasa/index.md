@@ -1,8 +1,8 @@
 # Ivan Masa
 
-Ivan Masa is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Macarena Club, Barcelona on Fri, 13 Nov 2026.
+Ivan Masa is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Macarena Club, Barcelona on Fri, 13 Nov 2026.
 
-Ivan Masa is a techno and progressive house artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Athens, Azerbaijan and Barcelona and 12 more. Often billed alongside Ivan Pugliares, Auggië and ELIF. Next up: Macarena Club, Barcelona on Fri 13 Nov.
+Ivan Masa is a techno and progressive house artist based in Italy, with 24 gigs on soundcheck across Amsterdam, Athens, Azerbaijan and Barcelona and 12 more. Often billed alongside Ivan Pugliares, ELIF and Erly Tepshi. Next up: Macarena Club, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Ivan Masa is a techno and progressive house artist based in Italy, with 24 gigs 
 
 ## Shares bills with
 
-Ivan Pugliares, Auggië, ELIF
+Ivan Pugliares, ELIF, Erly Tepshi
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanmasa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivanmasa/)*

@@ -1,6 +1,6 @@
 # Filippo Costantini
 
-Filippo Costantini is a Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Subcero Club, Madrid on Fri, 13 Nov 2026.
+Filippo Costantini is a Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Subcero Club, Madrid on Fri, 13 Nov 2026.
 
 Filippo Costantini is an electronica artist, with 5 gigs on soundcheck across Madrid and Milan. Often billed alongside Davide Dev, Jack Scavino and Lorenzo Sidoti. Next up: Subcero Club, Madrid on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Filippo Costantini is an electronica artist, with 5 gigs on soundcheck across Ma
 
 Davide Dev, Jack Scavino, Lorenzo Sidoti
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filippocostantini/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/filippocostantini/)*

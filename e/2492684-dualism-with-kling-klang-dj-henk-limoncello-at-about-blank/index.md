@@ -19,9 +19,9 @@ DUALISM with KLING&KLANG, DJ Henk, Limoncello at ://about blank on Sat 19 Dec, B
 - KLING&KLANG
 - Krash Cora
 - Limoncello
-- LUPA
+- LUPA (2)
 - Mareike Bautz
-- MSKD
+- Pamela Rave
 - Rocko Garoni
 - ZOEVITA
 

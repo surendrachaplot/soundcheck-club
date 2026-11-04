@@ -1,13 +1,14 @@
 # Miss Trouli
 
-Miss Trouli is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Astron Club, Athens on Sat, 28 Nov 2026.
+Miss Trouli is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at High On Sugar, Thessaloniki on Fri, 6 Nov 2026.
 
-Miss Trouli is a techno and club artist based in Greece, with 73 gigs on soundcheck across Athens, Berlin, Brussels and Thessaloniki. Often billed alongside Andreas Palmer, GRETA (GR) and Figkott. Next up: Astron Club, Athens on Sat 28 Nov.
+Miss Trouli is a club and techno artist based in Greece, with 74 gigs on soundcheck across Athens, Berlin, Brussels and Thessaloniki. Often billed alongside Andreas Palmer, GRETA (GR) and Figkott. Next up: High On Sugar, Thessaloniki on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | High On Sugar | Thessaloniki |
 | Sat, 28 Nov 2026 | Astron Club | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ Miss Trouli is a techno and club artist based in Greece, with 73 gigs on soundch
 
 Andreas Palmer, GRETA (GR), Figkott
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misstrouli/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misstrouli/)*

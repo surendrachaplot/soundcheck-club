@@ -1,6 +1,6 @@
 # Il Brutto Auckland
 
-Il Brutto Auckland is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Hardphoria: EMMYJ" on Fri, 6 Nov 2026.
+Il Brutto Auckland is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Hardphoria: EMMYJ" on Fri, 6 Nov 2026.
 
 Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 5 upcoming gigs, with line-ups including Aunty Bev, Concussion, EMMYJ and Greg Churchill. See dates, start times and who's playing. 27 Vitoria Street East, Auckland, 1010, New Zealand.
 
@@ -18,4 +18,4 @@ Il Brutto Auckland is a music venue in Auckland listed on soundcheck. 5 upcoming
 
 27 Vitoria Street East, Auckland, 1010, New Zealand, Auckland
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/il-brutto-auckland/)*

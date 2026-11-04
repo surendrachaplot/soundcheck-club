@@ -1,6 +1,6 @@
 # Jellyfish
 
-Jellyfish is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Collapse, Pittsburgh on Fri, 6 Nov 2026.
+Jellyfish is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Collapse, Pittsburgh on Fri, 6 Nov 2026.
 
 Jellyfish is a house and italo disco artist based in United States of America, with 72 gigs on soundcheck across Atlanta, Chicago, London and Mexico City and 5 more. Often billed alongside Ricky Mawzlin, Formosa and Jarrett Tebbets. Next up: Collapse, Pittsburgh on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jellyfish is a house and italo disco artist based in United States of America, w
 
 Ricky Mawzlin, Formosa (1), Jarrett Tebbets
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyfish/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyfish/)*

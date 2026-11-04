@@ -5322,6 +5322,11 @@ a.fst-t:hover{text-decoration:underline}
     .frd a.frd-lk{ font-weight:700; color:var(--fg); }
     .frd a.frd-lk:hover{ text-decoration:underline; }
     .frd-t{ flex:none; font:500 var(--fs-sm)/18px var(--body); color:var(--faint); }
+    .frd-tabs{ margin-bottom:4px; }
+    /* Follow in Everyone: a text link (never a pill), 44 tall to tap */
+    .frd-fol{ flex:none; min-height:44px; margin:-12px 0; padding:0 2px; background:none; border:0; cursor:pointer;
+      font:700 var(--fs-sm)/18px var(--body); color:var(--fg); text-decoration:underline; text-decoration-color:var(--sel); text-underline-offset:3px; }
+    .frd-fol[hidden]{ display:none; }
     .frd-obj{ display:flex; flex-direction:column; gap:16px; min-width:0; }
     .frd-fold > .frd-it:nth-child(n+3){ display:none; }
     .frd-more{ align-self:flex-start; margin:-6px 0 -10px; }
@@ -5372,7 +5377,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793705382735">
+<meta name="sc-build" content="1793794369547">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5432,7 +5437,7 @@ a.fst-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-03/">Tue 3 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-04/">Wed 4 Nov <span class="c">11 events</span></a></li><li><a href="/london/2026-11-05/">Thu 5 Nov <span class="c">38 events</span></a></li><li><a href="/london/2026-11-06/">Fri 6 Nov <span class="c">92 events</span></a></li><li><a href="/london/2026-11-07/">Sat 7 Nov <span class="c">138 events</span></a></li><li><a href="/london/2026-11-08/">Sun 8 Nov <span class="c">19 events</span></a></li><li><a href="/london/2026-11-09/">Mon 9 Nov <span class="c">4 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-04/">Wed 4 Nov <span class="c">11 events</span></a></li><li><a href="/london/2026-11-05/">Thu 5 Nov <span class="c">41 events</span></a></li><li><a href="/london/2026-11-06/">Fri 6 Nov <span class="c">92 events</span></a></li><li><a href="/london/2026-11-07/">Sat 7 Nov <span class="c">141 events</span></a></li><li><a href="/london/2026-11-08/">Sun 8 Nov <span class="c">20 events</span></a></li><li><a href="/london/2026-11-09/">Mon 9 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -5802,7 +5807,7 @@ a.fst-t:hover{text-decoration:underline}
       if(/^(club|v)\//.test(r)) return 'venue';
       if(/^promoter\//.test(r)) return 'promoter';
       if(r==='listen') return 'listen';
-      if(r==='friends'||r==='feed') return 'friends';
+      if(r==='friends'||r==='feed'||r==='friends/everyone') return 'friends';
       if(r==='scene'||r==='scenes'||/^(guide|areas)\//.test(r)) return 'scene';
       if(r==='radio') return 'radio';
       if(r==='account'||r==='upcoming'||r==='picks'||r==='diary'||/^(u|diary)\//.test(r)) return 'profile';
@@ -11810,6 +11815,15 @@ a.fst-t:hover{text-decoration:underline}
               .catch(function(){ showToast('Network error. Try again.'); });
           } },
         { label:'Profile picture', run:function(){ openAvatarModal(); } },
+        (function(){ var on=!!(currentUser && currentUser.prefs && /^(1|true)$/.test(String(currentUser.prefs.activityFriendsOnly)));
+          return { label:on?'Show my activity to everyone':'Show my activity only to people I follow', run:function(){
+            authedFetch('/api/prefs',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ activityFriendsOnly:!on }) })
+              .then(function(r){
+                if(!r.ok){ showToast('Couldn’t save. Try again.'); return; }
+                currentUser.prefs=currentUser.prefs||{}; currentUser.prefs.activityFriendsOnly=!on;
+                showToast(on?'On. Everyone can see what you do.':'On. Only the people you follow see what you do.');
+              }).catch(function(){ showToast('Network error. Try again.'); });
+          } }; })(),
         { label:'Add an event', run:function(){ openImport(); } },
         { label:'Friends', run:function(){ openFriends(); } },
         { label:'Sign out', run:function(){ signOut(); } },
@@ -12246,7 +12260,10 @@ a.fst-t:hover{text-decoration:underline}
     // the renderer its own page uses and wired by the same functions: the diary stub
     // (dstStubHTML + wireDiary), the one set row (lsnCard + lsnPlay), the line-up artist row
     // with the name heart, the Home gig row (listRow + wireCard + wireEvcCards).
-    var _frd={ seq:0, posts:[], people:{}, day:null }, _frdDotAt=0, _frdU=null;
+    var _frd={ seq:0, posts:[], people:{}, day:null, scope:'following' }, _frdDotAt=0, _frdU=null;
+    // Two tabs (Paper NEXT "Friends: Following / Everyone", 4 Nov): #friends = Following, #friends/everyone = Everyone.
+    function frdRoute(){ return /^friends(\/everyone)?$/.test(currentRoute()); }
+    function frdScopeSaved(){ try{ return localStorage.getItem('sc_frd_scope')==='everyone'?'everyone':'following'; }catch(_){ return 'following'; } }
     var FRD_KINDS={ gig:1, clip:1, set:1, artist:1, seen:1, going:1, saved_gig:1, venue_rating:1, follow:1, handle:1 };
     var FRD_STARS=[['sound','Sound'],['crowd','Crowd'],['toilets','Toilets']];
     var FRD_SKEL='<div aria-hidden="true">'+[150,45].map(function(h){ return '<div class="frd-post"><div class="frd-hd"><span class="sk frd-av"></span><span class="sk" style="width:38%;height:12px;border-radius:4px"></span></div><span class="sk" style="display:block;height:'+h+'px;border-radius:10px"></span></div>'; }).join('')+'</div>';
@@ -12308,7 +12325,8 @@ a.fst-t:hover{text-decoration:underline}
       var objs=its.map(function(it, i){ return frdItem(p, it, i, one); }).filter(Boolean);
       return '<div class="frd-post" data-pi="'+pi+'" data-kind="'+esc(p.kind)+'">'+
         '<div class="frd-hd"><a class="frd-av nav" href="'+esc(profileHref(who))+'" data-handle="'+esc(who)+'" tabindex="-1" aria-hidden="true" style="background-image:'+avatarBg(who, (_frd.people[who]||{}).avatar)+'"></a>'+
-        '<div class="frd-who">'+frdUser(who)+' '+esc(p.verb||'')+tail+'</div>'+(frdTime(p.time)?'<span class="frd-t">'+esc(frdTime(p.time))+'</span>':'')+'</div>'+
+        '<div class="frd-who">'+frdUser(who)+' '+esc(p.verb||'')+tail+'</div>'+
+        ((_frd.people[who]||{}).following===false?'<button class="frd-fol" type="button" data-fol="'+esc(who)+'">Follow</button>':'')+(frdTime(p.time)?'<span class="frd-t">'+esc(frdTime(p.time))+'</span>':'')+'</div>'+
         (objs.length?'<div class="frd-obj'+(objs.length>2?' frd-fold':'')+'">'+objs.join('')+'</div>':'')+
         // a folded post: 2 rows, then the text link opens the rest in place
         (objs.length>2?'<button class="fp-lk frd-more" type="button">Show '+(objs.length-2)+' more</button>':'')+'</div>';
@@ -12333,15 +12351,27 @@ a.fst-t:hover{text-decoration:underline}
         }); });
         el.querySelectorAll('[data-fg]').forEach(function(x){ frdGig(x, its[+x.dataset.fg].gig); });
         var m=el.querySelector('.frd-more'); if(m) m.addEventListener('click', function(){ el.querySelector('.frd-obj').classList.remove('frd-fold'); m.remove(); });
+        var fo=el.querySelector('.frd-fol'); if(fo) fo.addEventListener('click', function(){ frdFollow(fo.dataset.fol); });
       });
       lsnNowPaint();
+    }
+    // Follow from Everyone: the link leaves every post by that person at once; a failure puts it back.
+    async function frdFollow(h){
+      var per=_frd.people[h]; if(!per) return; per.following=true;
+      var els=[].slice.call(document.querySelectorAll('#frd-body .frd-fol')).filter(function(b){ return b.dataset.fol===h; });
+      els.forEach(function(b){ b.hidden=true; });
+      var ok=false;
+      try{ ok=(await authedFetch('/api/follow',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({handle:h}) })).ok; }catch(_){}
+      if(ok){ els.forEach(function(b){ b.remove(); }); showToast('Following u/'+h); }
+      else { per.following=false; els.forEach(function(b){ b.hidden=false; }); showToast('Couldn’t follow. Try again.'); }
     }
     // The states: signed out, you follow nobody, the load failed.
     function frdState(el, kind, retry){
       el.innerHTML= kind==='out' ? '<div class="frd-st"><b>Sign in to see your friends.</b><button class="fp-ab go" id="frd-in" data-ic="signin" type="button">Sign in</button></div>'
+        : kind==='none' ? '<div class="frd-st"><b>Nothing here yet.</b><p>Log a gig and you are the first.</p><button class="fp-ab go" id="frd-log" data-ic="plus" type="button">Log a gig</button></div>'
         : kind==='empty' ? '<div class="frd-st"><b>Nobody here yet</b><p>Follow people to see their gigs, sets and clips.</p><button class="fp-ab" id="frd-find" data-ic="search" type="button">Find people</button></div>'
         : '<div class="frd-st"><p>'+loadErr('the feed')+'</p><button class="fp-ab" id="frd-retry" data-ic="retry" type="button">Try again</button></div>';
-      el.querySelector('button').addEventListener('click', kind==='out'?function(){ scOnboard('email','signin','friends'); }:kind==='empty'?function(){ openSearch(); }:retry);
+      el.querySelector('button').addEventListener('click', kind==='out'?function(){ scOnboard('email','signin','friends'); }:kind==='empty'?function(){ openSearch(); }:kind==='none'?function(){ openLog(); }:retry);
       if(kind==='empty') frdSuggest(el);
     }
     // "People you might know" (the old Feed page had it): plain text links, no pills, no counts.
@@ -12356,7 +12386,7 @@ a.fst-t:hover{text-decoration:underline}
       if(!currentUser){ frdState(body, 'out'); return; }
       var j=null, st=0;
       try{
-        var r=await authedFetch('/api/friends?tz='+encodeURIComponent(frdTZ())+(cursor?'&cursor='+encodeURIComponent(cursor):''));
+        var r=await authedFetch('/api/friends?tz='+encodeURIComponent(frdTZ())+(_frd.scope==='everyone'?'&scope=everyone':'')+(cursor?'&cursor='+encodeURIComponent(cursor):''));
         st=r.status; if(r.ok) j=await r.json();
       }catch(_){}
       if(seq!==_frd.seq || !body.isConnected) return;
@@ -12371,8 +12401,8 @@ a.fst-t:hover{text-decoration:underline}
       if(next) next.remove();
       if(!cursor){
         body.innerHTML=''; _frd.posts=[]; _frd.people={}; _frd.day=null;
-        frdDot(false); _frdDotAt=Date.now();   // the first page marks Friends as seen
-        if(!j.posts.length){ frdState(body, 'empty'); return; }
+        if(_frd.scope==='following'){ frdDot(false); _frdDotAt=Date.now(); }   // the first page of Following marks Friends as seen; Everyone never does
+        if(!j.posts.length){ frdState(body, _frd.scope==='everyone'?'none':'empty'); return; }
       }
       Object.assign(_frd.people, j.people||{});
       var from=_frd.posts.length, h='';
@@ -12389,15 +12419,29 @@ a.fst-t:hover{text-decoration:underline}
         io.observe(next);
       }
     }
-    async function openFriends(){
+    async function openFriends(scope){
       try{ var _fd=document.getElementById('frd-dot'); sgTrack('friends_open',{ 'new':(_fd && !_fd.hidden)?'yes':'no' }); }catch(_){}
-      if(currentRoute()==='feed') history.replaceState({sc:1},'',SC_BASE+'#friends'); else setRoute('friends');
-      openPanel('<div class="frd"><div class="rad-hd"><h2 class="rad-h1">Friends</h2></div><div id="frd-body">'+FRD_SKEL+'</div></div>');
+      _frd.scope=scope||frdScopeSaved();
+      var route=_frd.scope==='everyone'?'friends/everyone':'friends';
+      if(currentRoute()==='feed') history.replaceState({sc:1},'',SC_BASE+'#'+route); else setRoute(route);
+      openPanel('<div class="frd"><div class="rad-hd"><h2 class="rad-h1">Friends</h2></div>'+
+        '<div class="fp-tabs frd-tabs" role="tablist">'+[['following','Following'],['everyone','Everyone']].map(function(t){ var on=t[0]===_frd.scope;
+          return '<button class="fp-tab'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-sc="'+t[0]+'">'+t[1]+'</button>'; }).join('')+'</div>'+
+        '<div id="frd-body">'+FRD_SKEL+'</div></div>');
+      panelBody.querySelectorAll('.frd-tabs .fp-tab').forEach(function(b){ b.addEventListener('click', function(){
+        if(b.dataset.sc===_frd.scope) return;
+        _frd.scope=b.dataset.sc; try{ localStorage.setItem('sc_frd_scope', _frd.scope); }catch(_){}
+        panelBody.querySelectorAll('.frd-tabs .fp-tab').forEach(function(x){ var on=x===b; x.classList.toggle('on',on); x.setAttribute('aria-selected',on?'true':'false'); });
+        try{ history.replaceState(history.state,'',SC_BASE+'#'+(_frd.scope==='everyone'?'friends/everyone':'friends')); }catch(_){}
+        var bd=document.getElementById('frd-body'); if(bd) bd.innerHTML=FRD_SKEL;
+        sgTrack('friends_tab',{ tab:_frd.scope });
+        frdLoad();
+      }); });
       // phones: its own screen with the back bar; web: the bar comes when the title scrolls away
       armSticky('Friends', null, matchMedia('(max-width:620px)').matches?null:panelBody.querySelector('.rad-hd'));
       setSeo('Friends | soundcheck', 'The gigs, sets and clips of the people you follow.', null, location.origin+SC_BASE);
       await whenAuthKnown();
-      if(currentRoute()==='friends') frdLoad();
+      if(frdRoute()) frdLoad();
     }
     // The dot on the people button: something new since you last opened Friends.
     function frdDot(on){
@@ -12411,7 +12455,7 @@ a.fst-t:hover{text-decoration:underline}
       if(Date.now()-_frdDotAt<180000) return;
       _frdDotAt=Date.now();
       authedFetch('/api/friends/new').then(function(r){ return r.ok?r.json():null; })
-        .then(function(j){ if(j && currentRoute()!=='friends') frdDot(!!j['new']); })
+        .then(function(j){ if(j && !frdRoute()) frdDot(!!j['new']); })
         .catch(function(){});   // an error keeps the dot as it was
     }
     document.addEventListener('visibilitychange', function(){ if(!document.hidden) frdDotCheck(); });
@@ -12429,7 +12473,7 @@ a.fst-t:hover{text-decoration:underline}
     function frdAuthChanged(){
       frdDotCheck();
       var b=document.getElementById('frd-body');
-      if(b && _meLoaded && currentRoute()==='friends' && (!!b.querySelector('#frd-in'))===!!currentUser) frdLoad();
+      if(b && _meLoaded && frdRoute() && (!!b.querySelector('#frd-in'))===!!currentUser) frdLoad();
     }
 
     // Wire the poster-led event cards (.gcard.evc) inside `scope` — ONE wiring path
@@ -16046,7 +16090,8 @@ a.fst-t:hover{text-decoration:underline}
       else if(hash==='scene') openCityScene(pathCitySlug());
       else if(hash==='picks') openMyPicks();
       else if(hash==='upcoming') openUpcoming();
-      else if(hash==='feed' || hash==='friends') openFriends();   // #feed = the old Feed page: it lands on Friends
+      else if(hash==='feed' || hash==='friends') openFriends(hash==='friends'?'following':null);
+      else if(hash==='friends/everyone') openFriends('everyone');   // #feed = the old Feed page: it lands on Friends
       else if(hash==='log') openLog();
       else if(hash==='import') openImport();
       else if(hash==='admin') openAdmin();
@@ -17291,7 +17336,7 @@ a.fst-t:hover{text-decoration:underline}
     // home grid — while working fine once the app is already open. admin, map,
     // import, diary and pl/ were all missing, so every one of those was an
     // un-shareable, un-bookmarkable dead link. Add the case in BOTH places.
-    if(_bootRoute && /^(account|search|picks|feed|log|discover|scenes|listen|scene|map|upcoming|import|admin|diary|lists|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoters\/|promoter\/|areas\/|guide\/|similar\/|list\/)/.test(_bootRoute)){
+    if(_bootRoute && /^(account|search|picks|feed|friends|log|discover|scenes|listen|scene|map|upcoming|import|admin|diary|lists|u\/|dj\/|a\/|club\/|v\/|e\/|n\/|pl\/|promoters\/|promoter\/|areas\/|guide\/|similar\/|list\/)/.test(_bootRoute)){
       history.replaceState({sc:1},'', _bootIsPath ? cityPath(currentCity) : '#');
       history.pushState({sc:1},'', _bootIsPath ? _bootUrl : ('#'+_bootRoute));
       // Same flag the popstate handler uses: this URL is being RESTORED, not

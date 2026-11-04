@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Despapaye x Fünk" on Thu, 5 Nov 2026.
+Fünk is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Despapaye x Fünk" on Thu, 5 Nov 2026.
 
 Fünk is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Duke Skylocker (Disco Dust), Eduardo Ferreyra, Giammarco Orsini and Giu Nunez and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -21,4 +21,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, wit
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

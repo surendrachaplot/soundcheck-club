@@ -1,6 +1,6 @@
 # Choronzon
 
-Choronzon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Astron Club, Athens on Fri, 27 Nov 2026.
+Choronzon is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Astron Club, Athens on Fri, 27 Nov 2026.
 
 Choronzon is a techno and industrial artist based in United Kingdom, with 34 gigs on soundcheck across Athens, Berlin, Birmingham and Glasgow and 2 more. Often billed alongside Dahc Dermur VIII, Rangelova and Ancient Methods. Next up: Astron Club, Athens on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Choronzon is a techno and industrial artist based in United Kingdom, with 34 gig
 
 Dahc Dermur VIII, Rangelova, Ancient Methods
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choronzon/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choronzon/)*

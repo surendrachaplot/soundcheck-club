@@ -1,6 +1,6 @@
 # MODULE
 
-MODULE is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SINAPSI @ Module" on Thu, 5 Nov 2026.
+MODULE is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SINAPSI @ Module" on Thu, 5 Nov 2026.
 
 MODULE is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including Aja Gulris, Anders HP, Bestrawa and Captain Bubblegum and 2 more. See dates, start times and who's playing. Vesterbrogade 2B, 1620 København V, Danmark.
 
@@ -19,4 +19,4 @@ MODULE is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, wit
 
 Vesterbrogade 2B, 1620 København V, Danmark, Copenhagen
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/module/)*

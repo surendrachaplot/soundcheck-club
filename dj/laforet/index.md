@@ -1,6 +1,6 @@
 # La Forêt
 
-La Forêt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Audio Club, Geneva on Fri, 27 Nov 2026.
+La Forêt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Audio Club, Geneva on Fri, 27 Nov 2026.
 
 La Forêt is a house and techno artist based in Switzerland, with 73 gigs on soundcheck across Cologne, Copenhagen, Geneva and Lausanne and 2 more. Often billed alongside David Armada, DJ Reas and Rimbu (CH). Next up: Audio Club, Geneva on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ La Forêt is a house and techno artist based in Switzerland, with 73 gigs on sou
 
 David Armada, DJ Reas, Rimbu (CH)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laforet/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laforet/)*

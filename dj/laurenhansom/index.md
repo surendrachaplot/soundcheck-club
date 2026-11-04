@@ -1,6 +1,6 @@
 # Lauren Hansom
 
-Lauren Hansom is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 8 Nov 2026.
+Lauren Hansom is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 8 Nov 2026.
 
 Lauren Hansom is a house and balearic artist based in Australia, with 28 gigs on soundcheck across Adelaide, Auckland, Brisbane and Melbourne and 3 more. Often billed alongside HanSom, Gee Dee and Wax'o Paradiso. Next up: Poor Toms Oltra, Sydney on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Lauren Hansom is a house and balearic artist based in Australia, with 28 gigs on
 
 HanSom, Gee Dee, Wax'o Paradiso
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenhansom/)*

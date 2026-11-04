@@ -1,13 +1,14 @@
 # KRSDJ
 
-KRSDJ is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lasociaciøn, Madrid on Fri, 27 Nov 2026.
+KRSDJ is a Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
 
-KRSDJ is a techno artist based in Spain, with 17 gigs on soundcheck across Madrid. Often billed alongside Bigot3x, Rodri Martin and Fgdj. Next up: Lasociaciøn, Madrid on Fri 27 Nov.
+KRSDJ is a techno artist based in Spain, with 18 gigs on soundcheck across Madrid. Often billed alongside Bigot3x, Fgdj and Rodri Martin. Next up: TBA - Secret Location, Madrid on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | TBA - Secret Location | Madrid |
 | Fri, 27 Nov 2026 | Lasociaciøn | Madrid |
 
 ## Recently played
@@ -23,6 +24,6 @@ KRSDJ is a techno artist based in Spain, with 17 gigs on soundcheck across Madri
 
 ## Shares bills with
 
-Bigot3x (2), Rodri Martin, Fgdj
+Bigot3x (2), Fgdj, Rodri Martin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krsdj/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krsdj/)*

@@ -1,6 +1,6 @@
 # Kasra
 
-Kasra is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Circus Osaka, Osaka on Fri, 6 Nov 2026.
+Kasra is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Circus Osaka, Osaka on Fri, 6 Nov 2026.
 
 Kasra is a drum & bass and bass artist based in United Kingdom, with 63 gigs on soundcheck across Basel, Berlin, Brighton and Bristol and 23 more. Often billed alongside Enei, Jakes and Mantmast. Next up: Circus Osaka, Osaka on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Kasra is a drum & bass and bass artist based in United Kingdom, with 63 gigs on 
 
 Enei, Jakes, Mantmast
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasra/)*

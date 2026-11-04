@@ -1,6 +1,6 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "ON1 AUDIO PRESENTS - PLUGGERZ ALL NIGHT FT JUICY GOOSE TROPIGYAL LOUDBIZ" on Thu, 5 Nov 2026.
+Lakota is a music venue in Bristol with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "ON1 AUDIO PRESENTS - PLUGGERZ ALL NIGHT FT JUICY GOOSE TROPIGYAL LOUDBIZ" on Thu, 5 Nov 2026.
 
 Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming gigs, with line-ups including 2HOT2PLAY, Captain Wallop, Faster Horses and Jamie Unknown and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
@@ -23,4 +23,4 @@ Lakota is a music venue in Bristol listed on soundcheck. 13 upcoming gigs, with 
 
 6 Upper York Street; Bristol, BS2 8QN, United Kingdom, Bristol
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/lakota/)*

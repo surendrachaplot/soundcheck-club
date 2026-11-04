@@ -1,6 +1,6 @@
 # João Pedro Fonseca
 
-João Pedro Fonseca is a Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
+João Pedro Fonseca is a Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
 
 João Pedro Fonseca is an experimental artist, with 4 gigs on soundcheck across Lisbon. Often billed alongside Carincur, GAYANCE and Jerry The Cat. Next up: Arroz Estúdios, Lisbon on Wed 11 Nov.
 
@@ -20,4 +20,4 @@ João Pedro Fonseca is an experimental artist, with 4 gigs on soundcheck across 
 
 Carincur, GAYANCE, Jerry The Cat
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joãopedrofonseca/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joãopedrofonseca/)*

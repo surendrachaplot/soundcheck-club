@@ -1,6 +1,6 @@
 # Tatomed (2)
 
-Tatomed (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bike Jesus, Prague on Sat, 14 Nov 2026.
+Tatomed (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bike Jesus, Prague on Sat, 14 Nov 2026.
 
 Tatomed is a house and tech house artist based in Venezuela, with 48 gigs on soundcheck across Prague. Often billed alongside Rajky, Sam Gittis and Sebastian Paiza. Next up: Bike Jesus, Prague on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tatomed is a house and tech house artist based in Venezuela, with 48 gigs on sou
 
 Rajky, Sam Gittis, Sebastian Paiza
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tatomed-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tatomed-2/)*

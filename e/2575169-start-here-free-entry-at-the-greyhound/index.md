@@ -1,6 +1,6 @@
-# Start Here: Free Entry at The Greyhound
+# Start Here (Free Entry) at The Greyhound
 
-Start Here: Free Entry at The Greyhound on Thu 5 Nov, London. 2 artists: CITIZEN and Ovrtic. Bass and Jungle. See the line-up on soundcheck.
+Start Here (Free Entry) at The Greyhound on Thu 5 Nov, London. 2 artists: CITIZEN and Ovrtic. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

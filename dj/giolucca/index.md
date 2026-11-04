@@ -1,6 +1,6 @@
 # Gio Lucca
 
-Gio Lucca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at 99 Scott Ave, New York City on Fri, 11 Dec 2026.
+Gio Lucca is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at 99 Scott Ave, New York City on Fri, 11 Dec 2026.
 
 Gio Lucca is a tech house and house artist based in Peru, with 17 gigs on soundcheck across Austin, Boston, Calgary and Chicago and 5 more. Often billed alongside Simon Doty, Jeff Sorkowitz and Ky William. Next up: 99 Scott Ave, New York City on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Gio Lucca is a tech house and house artist based in Peru, with 17 gigs on soundc
 
 Simon Doty, Jeff Sorkowitz, Ky William
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giolucca/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giolucca/)*

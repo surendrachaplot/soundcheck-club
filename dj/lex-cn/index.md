@@ -1,6 +1,6 @@
 # Lex (CN)
 
-Lex (CN) is a Breakbeat and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Rugs*, Beijing on Sat, 7 Nov 2026.
+Lex (CN) is a Breakbeat and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Rugs*, Beijing on Sat, 7 Nov 2026.
 
 Lex (CN) is a breakbeat and club artist based in China, with 9 gigs on soundcheck across Beijing. Often billed alongside DJ TRUCK, Night Swimmer and Tsing. Next up: Rugs*, Beijing on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lex (CN) is a breakbeat and club artist based in China, with 9 gigs on soundchec
 
 DJ TRUCK, Night Swimmer, Tsing
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lex-cn/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lex-cn/)*

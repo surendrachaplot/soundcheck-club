@@ -1,6 +1,6 @@
 # Kade Noir
 
-Kade Noir is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Rotterdam Noord, Utrecht on Sat, 21 Nov 2026.
+Kade Noir is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Rotterdam Noord, Utrecht on Sat, 21 Nov 2026.
 
 Kade Noir is a techno and hardcore artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside VAREX, Zuid Void and Donkerdok. Next up: TBA - Rotterdam Noord, Utrecht on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Kade Noir is a techno and hardcore artist based in Netherlands, with 5 gigs on s
 
 VAREX, Zuid Void, Donkerdok
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadenoir/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kadenoir/)*

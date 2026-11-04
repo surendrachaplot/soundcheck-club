@@ -1,13 +1,14 @@
 # Kasha T
 
-Kasha T is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location, Vancouver on Sat, 14 Nov 2026.
+Kasha T is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Lido, Vancouver on Thu, 5 Nov 2026.
 
-Kasha T is a house and tech house artist based in Canada, with 3 gigs on soundcheck across Vancouver. Often billed alongside 2flowers, DF Cuke and INNEZZ. Next up: TBA - Secret Location, Vancouver on Sat 14 Nov.
+Kasha T is a house and tech house artist based in Canada, with 4 gigs on soundcheck across Vancouver. Often billed alongside INNEZZ, 2flowers and DF Cuke. Next up: The Lido, Vancouver on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | The Lido | Vancouver |
 | Sat, 14 Nov 2026 | TBA - Secret Location | Vancouver |
 
 ## Recently played
@@ -17,6 +18,6 @@ Kasha T is a house and tech house artist based in Canada, with 3 gigs on soundch
 
 ## Shares bills with
 
-2flowers, DF Cuke, INNEZZ
+INNEZZ, 2flowers, DF Cuke
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kashat/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kashat/)*

@@ -1,14 +1,15 @@
 # DJ Buona Sara
 
-DJ Buona Sara is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ZIK Zeit ist Knapp, Berlin on Sat, 7 Nov 2026.
+DJ Buona Sara is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ZIK Zeit ist Knapp, Berlin on Sat, 7 Nov 2026.
 
-DJ Buona Sara is a techno and experimental artist based in Germany, with 32 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Lenny Fuck, S.3000 and DJ-Ween. Next up: ZIK Zeit ist Knapp, Berlin on Sat 7 Nov.
+DJ Buona Sara is a techno and house artist based in Germany, with 33 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Lenny Fuck, S.3000 and DJ-Ween. Next up: ZIK Zeit ist Knapp, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | ZIK Zeit ist Knapp | Berlin |
+| Fri, 20 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Buona Sara is a techno and experimental artist based in Germany, with 32 gigs
 
 Lenny Fuck, S.3000, DJ-Ween
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuonasara/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbuonasara/)*

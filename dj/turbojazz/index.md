@@ -1,6 +1,6 @@
 # Turbojazz
 
-Turbojazz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lento Hi Fi Bar, Naples on Fri, 6 Nov 2026.
+Turbojazz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Lento Hi Fi Bar, Naples on Fri, 6 Nov 2026.
 
 Turbojazz is a house and disco artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Florence and 6 more. Often billed alongside DNN, Ormeye and Alex De Ponti. Next up: Lento Hi Fi Bar, Naples on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Turbojazz is a house and disco artist based in Italy, with 48 gigs on soundcheck
 
 DNN, Ormeye, Alex De Ponti
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turbojazz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turbojazz/)*

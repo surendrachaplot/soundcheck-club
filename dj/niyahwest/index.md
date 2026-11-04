@@ -1,20 +1,20 @@
 # Niyah West
 
-Niyah West is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bossa Nova Civic Club, New York City on Tue, 3 Nov 2026.
+Niyah West is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Little Shop of Soil, New York City on Sat, 7 Nov 2026.
 
-Niyah West is a house and techno artist based in United States of America, with 113 gigs on soundcheck across Berlin, Copenhagen, Detroit and Los Angeles and 4 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: Bossa Nova Civic Club, New York City on Tue 3 Nov.
+Niyah West is a house and techno artist based in United States of America, with 113 gigs on soundcheck across Berlin, Copenhagen, Detroit and Los Angeles and 4 more. Often billed alongside DJ Shannon, theoretic and Kilopatrah Jones. Next up: TBA - Little Shop of Soil, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 7 Nov 2026 | TBA - Little Shop of Soil | New York City |
 | Fri, 20 Nov 2026 | Empire Stage | New York City |
 | Sun, 22 Nov 2026 | Jupiter Disco | New York City |
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City · Tue, 3 Nov 2026
 - H0L0, New York City · Fri, 25 Sept 2026
 - Dead Letter No. 9, New York City · Thu, 17 Sept 2026
 - Silence Please, New York City · Fri, 4 Sept 2026
@@ -22,10 +22,9 @@ Niyah West is a house and techno artist based in United States of America, with 
 - Jupiter Disco, New York City · Sun, 19 Jul 2026
 - TBA, New York City · Sat, 11 Jul 2026
 - Bossa Nova Civic Club, New York City · Fri, 10 Jul 2026
-- Honey's, New York City · Wed, 8 Jul 2026
 
 ## Shares bills with
 
 DJ Shannon, theoretic, Kilopatrah Jones
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niyahwest/)*

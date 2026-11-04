@@ -1,6 +1,6 @@
 # Figio's
 
-Figio's is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Twiga Milano, Milan on Thu, 12 Nov 2026.
+Figio's is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Twiga Milano, Milan on Thu, 12 Nov 2026.
 
 Figio's is a house and tech house artist based in Italy, with 5 gigs on soundcheck across Milan. Often billed alongside Çesc, Alexander de Roi and Salzetto. Next up: Twiga Milano, Milan on Thu 12 Nov.
 
@@ -21,4 +21,4 @@ Figio's is a house and tech house artist based in Italy, with 5 gigs on soundche
 
 Çesc, Alexander de Roi, Salzetto
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/figios/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/figios/)*

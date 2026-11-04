@@ -1,6 +1,6 @@
 # Anthony Godfather (2)
 
-Anthony Godfather (2) is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Bassement, Madrid on Sat, 14 Nov 2026.
+Anthony Godfather (2) is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Bassement, Madrid on Sat, 14 Nov 2026.
 
 Anthony Godfather is a tech house and techno artist based in Spain, with 16 gigs on soundcheck across Amsterdam, Barcelona, London and Madrid and 2 more. Often billed alongside Abdon, Darius Syrossian and Jean Pierre. Next up: The Bassement, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Anthony Godfather is a tech house and techno artist based in Spain, with 16 gigs
 
 Abdon, Darius Syrossian, Jean Pierre
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anthonygodfather-2/)*

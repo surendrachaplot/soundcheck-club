@@ -1,6 +1,6 @@
 # House of Q
 
-House of Q is a music venue in Stockholm with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "HALLOWEEN BAILE" on Fri, 6 Nov 2026.
+House of Q is a music venue in Stockholm with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "HALLOWEEN BAILE" on Fri, 6 Nov 2026.
 
 House of Q is a music venue in Stockholm listed on soundcheck. 6 upcoming gigs, with line-ups including Mira Iranpour. See dates, start times and who's playing. Malmvägen 1, 115 41 Stockholm.
 
@@ -19,4 +19,4 @@ House of Q is a music venue in Stockholm listed on soundcheck. 6 upcoming gigs, 
 
 Malmvägen 1, 115 41 Stockholm, Stockholm
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/house-of-q/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/house-of-q/)*

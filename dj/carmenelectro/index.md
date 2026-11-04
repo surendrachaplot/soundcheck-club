@@ -1,14 +1,15 @@
 # Carmen Electro
 
-Carmen Electro is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Floyd, Miami on Sat, 14 Nov 2026.
+Carmen Electro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Floyd, Miami on Sat, 14 Nov 2026.
 
-Carmen Electro is a techno and house artist based in Finland, with 184 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 48 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: Floyd, Miami on Sat 14 Nov.
+Carmen Electro is a techno and house artist based in Finland, with 185 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 48 more. Often billed alongside slin, Frederic. and Laure Croft. Next up: Floyd, Miami on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Floyd | Miami |
+| Fri, 20 Nov 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Carmen Electro is a techno and house artist based in Finland, with 184 gigs on s
 
 slin, Frederic., Laure Croft
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenelectro/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carmenelectro/)*

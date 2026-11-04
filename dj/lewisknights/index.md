@@ -1,6 +1,6 @@
 # Lewis Knights
 
-Lewis Knights is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Aura Nightclub, North on Sat, 21 Nov 2026.
+Lewis Knights is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Aura Nightclub, North on Sat, 21 Nov 2026.
 
 Lewis Knights is a house and techno artist based in United Kingdom, with 4 gigs on soundcheck across London, Newcastle and North. Often billed alongside A-TØN, Arundel and HashR. Next up: Aura Nightclub, North on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Lewis Knights is a house and techno artist based in United Kingdom, with 4 gigs 
 
 A-TØN, Arundel, HashR
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisknights/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisknights/)*

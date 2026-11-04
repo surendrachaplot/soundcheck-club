@@ -1,6 +1,6 @@
 # Tempza
 
-Tempza is a Drum & Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Black Barn Vineyards, North-island on Fri, 6 Nov 2026.
+Tempza is a Drum & Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Black Barn Vineyards, North-island on Fri, 6 Nov 2026.
 
 Tempza is a drum & bass and garage artist based in United Kingdom, with 30 gigs on soundcheck across Auckland, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Hybrid Minds, Andy C and Hedex. Next up: Black Barn Vineyards, North Island on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tempza is a drum & bass and garage artist based in United Kingdom, with 30 gigs 
 
 Hybrid Minds, Andy C, Hedex
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempza/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempza/)*

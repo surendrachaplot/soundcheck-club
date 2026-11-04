@@ -1,6 +1,6 @@
 # Son Of Magnus
 
-Son Of Magnus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
+Son Of Magnus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Vancouver on Sat, 7 Nov 2026.
 
 Son Of Magnus is a techno and house artist based in Canada, with 8 gigs on soundcheck across Vancouver. Often billed alongside Fizch, Joel West and 70A57. Next up: TBA, Vancouver on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Son Of Magnus is a techno and house artist based in Canada, with 8 gigs on sound
 
 Fizch, Joel West, 70A57
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofmagnus/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofmagnus/)*

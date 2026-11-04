@@ -1,6 +1,6 @@
 # Giovane Filippo
 
-Giovane Filippo is a Dub Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 1 Jan 2027.
+Giovane Filippo is a Dub Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Borisov Amsterdam, Amsterdam on Fri, 1 Jan 2027.
 
 Giovane Filippo is a dub techno and deep house artist based in Brazil, with 12 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside The Silentist, tanggero and Frissonn. Next up: Borisov Amsterdam, Amsterdam on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Giovane Filippo is a dub techno and deep house artist based in Brazil, with 12 g
 
 The Silentist, tanggero, Frissonn
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giovanefilippo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giovanefilippo/)*

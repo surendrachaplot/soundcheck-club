@@ -1,6 +1,6 @@
 # F𝝨HLZ𝝨:T at Der Weiße Hase
 
-F𝝨HLZ𝝨:T at Der Weiße Hase on Fri 6 Nov, Berlin. 5 artists: andré wiese, Ari Denaro, Dave and Ronny Luft and 1 more. Techno. See the line-up on soundcheck.
+F𝝨HLZ𝝨:T at Der Weiße Hase on Fri 6 Nov, Berlin. 4 artists: Ari Denaro, Dave, Ronny Luft and TechNovaBader. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ F𝝨HLZ𝝨:T at Der Weiße Hase on Fri 6 Nov, Berlin. 5 artists: andré wiese,
 
 ## Line-up
 
-- andré wiese
 - Ari Denaro
 - Dave
 - Ronny Luft

@@ -1,6 +1,6 @@
 # Loo Loo
 
-Loo Loo is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Andy Moor" on Thu, 12 Nov 2026.
+Loo Loo is a music venue in Mexico City with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Andy Moor" on Thu, 12 Nov 2026.
 
 Loo Loo is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, with line-ups including Alexandthere, Andrew Rayel, Andy Moor and Dennis Cruz and 2 more. See dates, start times and who's playing. Londres 195 Cuauhtemoc Mexico City, Mexico.
 
@@ -21,4 +21,4 @@ Loo Loo is a music venue in Mexico City listed on soundcheck. 8 upcoming gigs, w
 
 Londres 195 Cuauhtemoc Mexico City, Mexico, Mexico City
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/loo-loo/)*

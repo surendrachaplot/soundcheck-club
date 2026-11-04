@@ -1,6 +1,6 @@
 # Scheibosan
 
-Scheibosan is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at FLUCC, Vienna on Fri, 6 Nov 2026.
+Scheibosan is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at FLUCC, Vienna on Fri, 6 Nov 2026.
 
 Scheibosan is a house and electronica artist based in Austria, with 9 gigs on soundcheck across Vienna. Often billed alongside Anni Herzer, Kollektiv Sheesh and Ariane V. Next up: FLUCC, Vienna on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Scheibosan is a house and electronica artist based in Austria, with 9 gigs on so
 
 Anni Herzer, Kollektiv Sheesh, Ariane V
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibosan/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scheibosan/)*

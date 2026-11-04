@@ -1,6 +1,6 @@
 # The Woodshop
 
-The Woodshop is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dirtyphonics (DRUM AND BASS & DUBSTEP) FRIDAY NOVEMBER 13TH (11PM) WOODSHOP BROOKLYN " on Fri, 13 Nov 2026.
+The Woodshop is a music venue in New York City with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dirtyphonics (DRUM AND BASS & DUBSTEP) FRIDAY NOVEMBER 13TH (11PM) WOODSHOP BROOKLYN " on Fri, 13 Nov 2026.
 
 The Woodshop is a music venue in New York City listed on soundcheck. 3 upcoming gigs, with line-ups including Dave Shichman, Dirtyphonics, Excision and Faster and 2 more. See dates, start times and who's playing. 21a Meadow Street, Brooklyn, NY 11206.
 
@@ -16,4 +16,4 @@ The Woodshop is a music venue in New York City listed on soundcheck. 3 upcoming 
 
 21a Meadow Street, Brooklyn, NY 11206, New York City
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-woodshop/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/the-woodshop/)*

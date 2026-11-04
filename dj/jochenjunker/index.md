@@ -1,6 +1,6 @@
 # Jochen Junker
 
-Jochen Junker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Romantica, Stuttgart on Fri, 6 Nov 2026.
+Jochen Junker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Romantica, Stuttgart on Fri, 6 Nov 2026.
 
 Jochen Junker is a house and techno artist based in Germany, with 55 gigs on soundcheck across Stuttgart. Often billed alongside Alexander Maier, Pauls Artists and Marco Bastone. Next up: Romantica, Stuttgart on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jochen Junker is a house and techno artist based in Germany, with 55 gigs on sou
 
 Alexander Maier, Pauls Artists, Marco Bastone
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jochenjunker/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jochenjunker/)*

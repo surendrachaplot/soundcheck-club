@@ -1,6 +1,6 @@
 # Jino K
 
-Jino K is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Salon Daomé, Montreal on Thu, 19 Nov 2026.
+Jino K is a House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Salon Daomé, Montreal on Thu, 19 Nov 2026.
 
 Jino K is a house and dub techno artist based in Canada, with 21 gigs on soundcheck across Montreal. Often billed alongside Racil, Othman and Bezze Barra. Next up: Salon Daomé, Montreal on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Jino K is a house and dub techno artist based in Canada, with 21 gigs on soundch
 
 Racil, Othman, Bezze Barra
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinok/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinok/)*

@@ -1,0 +1,11 @@
+# Fugaz recebe Katu Marinho at Fugaz Bar
+
+Fugaz recebe Katu Marinho at Fugaz Bar on Wed 4 Nov, Sao Paulo. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 4 Nov 2026 |
+| Venue | Fugaz Bar |
+| City | Sao Paulo |
+
+*Source: [soundcheck](https://soundcheck.club/e/2576237-fugaz-recebe-katu-marinho-at-fugaz-bar/)*

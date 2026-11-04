@@ -1,13 +1,14 @@
 # Pioneer
 
-Pioneer is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Emerald Embankment, London on Sat, 14 Nov 2026.
+Pioneer is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at E1, London on Sat, 7 Nov 2026.
 
-Pioneer is a tech house and house artist based in United Kingdom, with 111 gigs on soundcheck across Algarve, Amsterdam, Birmingham and Bristol and 3 more. Often billed alongside Supa D, JAYDAA and Jerome Six. Next up: Emerald Embankment, London on Sat 14 Nov.
+Pioneer is a tech house and house artist based in United Kingdom, with 112 gigs on soundcheck across Algarve, Amsterdam, Birmingham and Bristol and 3 more. Often billed alongside Supa D, JAYDAA and Jerome Six. Next up: E1, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | E1 | London |
 | Sat, 14 Nov 2026 | Emerald Embankment | London |
 | Sat, 21 Nov 2026 | DRUMSHEDS | London |
 | Sat, 21 Nov 2026 | Egg London | London |
@@ -27,4 +28,4 @@ Pioneer is a tech house and house artist based in United Kingdom, with 111 gigs 
 
 Supa D, JAYDAA, Jerome Six
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pioneer/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pioneer/)*

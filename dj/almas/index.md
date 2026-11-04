@@ -1,14 +1,15 @@
 # ALMAS
 
-ALMAS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Audio SF, San Francisco/Oakland on Fri, 20 Nov 2026.
+ALMAS is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Audio SF, San Francisco/Oakland on Fri, 20 Nov 2026.
 
-ALMAS is a techno and house artist based in United States of America, with 25 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Emanate, Dirac (US) and HIDRA. Next up: Audio SF, San Francisco/Oakland on Fri 20 Nov.
+ALMAS is a techno and house artist based in United States of America, with 26 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Emanate, Dirac (US) and Anderson Bourne. Next up: Audio SF, San Francisco/Oakland on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Audio SF | San Francisco/Oakland |
+| Sat, 5 Dec 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
@@ -24,6 +25,6 @@ ALMAS is a techno and house artist based in United States of America, with 25 gi
 
 ## Shares bills with
 
-Emanate, Dirac (US), HIDRA
+Emanate, Dirac (US), Anderson Bourne
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almas/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/almas/)*

@@ -1,6 +1,6 @@
 # Señoritajuicy
 
-Señoritajuicy is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Jupiter Disco, New York City on Sun, 15 Nov 2026.
+Señoritajuicy is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jupiter Disco, New York City on Sun, 15 Nov 2026.
 
 Señoritajuicy is a techno and club artist based in United States of America, with 25 gigs on soundcheck across New York City. Often billed alongside CMD+JAZMINE, Nymphostar and Crush Club. Next up: Jupiter Disco, New York City on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Señoritajuicy is a techno and club artist based in United States of America, wi
 
 CMD+JAZMINE, Nymphostar, Crush Club
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senoritajuicy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/senoritajuicy/)*

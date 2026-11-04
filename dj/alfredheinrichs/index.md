@@ -1,6 +1,6 @@
 # Alfred Heinrichs
 
-Alfred Heinrichs is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Astra Kulturhaus, Berlin on Sat, 7 Nov 2026.
+Alfred Heinrichs is a Techno and Electro artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Astra Kulturhaus, Berlin on Sat, 7 Nov 2026.
 
 Alfred Heinrichs is a techno and electro artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dresden and 12 more. Often billed alongside Mark Dekoda, Nicolas Julian and Nusha. Next up: Astra Kulturhaus, Berlin on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Alfred Heinrichs is a techno and electro artist based in Germany, with 54 gigs o
 
 Mark Dekoda, Nicolas Julian, Nusha
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfredheinrichs/)*

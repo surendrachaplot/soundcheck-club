@@ -1,8 +1,8 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Chaos In The CBD pres. In Dust We Trust" on Sat, 7 Nov 2026.
+Lofi is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Chaos In The CBD pres. In Dust We Trust" on Sat, 7 Nov 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including 36framez, Aaron J, AAT (NL) and Agents Of Time and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 36framez, Aaron J, AAT (NL) and Agents Of Time and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with 
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

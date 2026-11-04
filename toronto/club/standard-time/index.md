@@ -1,6 +1,6 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "[CANCELLED] Teal (Live), Prince Nifty and DJ Snack Time" on Thu, 5 Nov 2026.
+Standard Time is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "[CANCELLED] Teal (Live), Prince Nifty and DJ Snack Time" on Thu, 5 Nov 2026.
 
 Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including Adrian Sherwood, Altinbas, Andrew Ross and anise and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
@@ -23,4 +23,4 @@ Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming gigs
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

@@ -1,6 +1,6 @@
 # Bruno Limma
 
-Bruno Limma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pawn Shop, Dublin on Sat, 14 Nov 2026.
+Bruno Limma is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pawn Shop, Dublin on Sat, 14 Nov 2026.
 
 Bruno Limma is a house and techno artist based in Brazil, with 56 gigs on soundcheck across Berlin, Boston, Detroit and Dublin and 6 more. Often billed alongside Joe Tagessian, David Berrie and Daniel Bell. Next up: Pawn Shop, Dublin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bruno Limma is a house and techno artist based in Brazil, with 56 gigs on soundc
 
 Joe Tagessian, David Berrie, Daniel Bell
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunolimma/)*

@@ -1,6 +1,6 @@
 # brvder jakob
 
-brvder jakob is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 4 Nov 2026.
+brvder jakob is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Lokschuppen Berlin, Berlin on Wed, 4 Nov 2026.
 
 brvder jakob is a techno and trance artist based in Germany, with 43 gigs on soundcheck across Berlin, Hamburg, Leipzig and Vienna. Often billed alongside PASSA, alemiko and DJ Blockflöte 2000. Next up: Lokschuppen Berlin, Berlin on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ brvder jakob is a techno and trance artist based in Germany, with 43 gigs on sou
 
 PASSA, alemiko, DJ Blockflöte 2000
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brvderjakob/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brvderjakob/)*

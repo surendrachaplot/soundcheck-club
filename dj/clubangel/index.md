@@ -1,6 +1,6 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
+Club Angel is a Garage and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
 Club Angel is a garage and house artist based in Australia, with 110 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 42 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
@@ -28,4 +28,4 @@ Club Angel is a garage and house artist based in Australia, with 110 gigs on sou
 
 Sam Alfred, salute, Faster Horses
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

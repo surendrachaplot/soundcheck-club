@@ -1,6 +1,6 @@
 # DJ ZAC
 
-DJ ZAC is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Terraza Music Park, Florianopolis, Brazil on Sat, 5 Dec 2026.
+DJ ZAC is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Terraza Music Park, Florianopolis, Brazil on Sat, 5 Dec 2026.
 
 DJ ZAC is a progressive house and techno artist based in Brazil, with 29 gigs on soundcheck across Amsterdam, Barcelona, Brazil and Buenos Aires and 8 more. Often billed alongside 2melo, Catori and David Hohme. Next up: TBA - Terraza Music Park, Florianopolis, Brazil on Sat 5 Dec.
 
@@ -27,4 +27,4 @@ DJ ZAC is a progressive house and techno artist based in Brazil, with 29 gigs on
 
 2melo, Catori, David Hohme
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzac/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djzac/)*

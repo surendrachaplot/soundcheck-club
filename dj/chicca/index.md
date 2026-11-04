@@ -1,6 +1,6 @@
 # CHICCA
 
-CHICCA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bricks, London on Fri, 13 Nov 2026.
+CHICCA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bricks, London on Fri, 13 Nov 2026.
 
 CHICCA is a house and electro artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Benny Page, Caspa Mono and DJ Bowlcut. Next up: Bricks, London on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ CHICCA is a house and electro artist based in United Kingdom, with 5 gigs on sou
 
 Benny Page, Caspa Mono, DJ Bowlcut
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chicca/)*

@@ -1,6 +1,6 @@
 # KOOB
 
-KOOB is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Mood Ring, New York City on Fri, 6 Nov 2026.
+KOOB is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mood Ring, New York City on Fri, 6 Nov 2026.
 
 KOOB is a club and ghetto tech artist based in United States of America, with 12 gigs on soundcheck across Berlin, Connecticut, Dublin and Frankfurt and 3 more. Often billed alongside NATALIA., CMD+JAZMINE and Petal. Next up: Mood Ring, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ KOOB is a club and ghetto tech artist based in United States of America, with 12
 
 NATALIA., CMD+JAZMINE, Petal
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koob/)*

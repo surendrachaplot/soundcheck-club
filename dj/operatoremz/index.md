@@ -1,6 +1,6 @@
 # Operator Emz
 
-Operator Emz is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Eden NYC, New York City on Fri, 6 Nov 2026.
+Operator Emz is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Eden NYC, New York City on Fri, 6 Nov 2026.
 
 Operator Emz is a funk / soul and disco artist, with 4 gigs on soundcheck across New York City. Often billed alongside Natasha Diggs, DJ Shannon and Donis. Next up: Eden NYC, New York City on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Operator Emz is a funk / soul and disco artist, with 4 gigs on soundcheck across
 
 Natasha Diggs, DJ Shannon, Donis
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/operatoremz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/operatoremz/)*

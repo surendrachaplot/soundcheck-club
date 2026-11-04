@@ -1,6 +1,6 @@
 # Fiore
 
-Fiore is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Fiore is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Fiore is a house and trance artist based in South Korea, with 5 gigs on soundcheck across Seoul and South Korea. Often billed alongside COSMUSE, Casepeat and Kataploks. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Fiore is a house and trance artist based in South Korea, with 5 gigs on soundche
 
 COSMUSE, Casepeat, Kataploks
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiore/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiore/)*

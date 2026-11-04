@@ -1,6 +1,6 @@
 # Pims
 
-Pims is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
+Pims is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
 
 Pims is a techno and house artist based in Netherlands, with 7 gigs on soundcheck across Rotterdam. Often billed alongside Krismika, Afra and Ambu Bambu. Next up: export, Rotterdam on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Pims is a techno and house artist based in Netherlands, with 7 gigs on soundchec
 
 Krismika, Afra, Ambu Bambu
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pims/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pims/)*

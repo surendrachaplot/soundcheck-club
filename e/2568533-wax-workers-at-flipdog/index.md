@@ -1,6 +1,6 @@
 # Wax Workers at Flipdog
 
-Wax Workers at Flipdog on Sat 14 Nov, London. 1 artist: Karellos. Tech House and Deep House. See the line-up on soundcheck.
+Wax Workers at Flipdog on Sat 14 Nov, London. 2 artists: Karellos and Theo T. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Wax Workers at Flipdog on Sat 14 Nov, London. 1 artist: Karellos. Tech House and
 ## Line-up
 
 - Karellos
+- Theo T
 
 *Source: [soundcheck](https://soundcheck.club/e/2568533-wax-workers-at-flipdog/)*

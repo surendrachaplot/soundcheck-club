@@ -1,6 +1,6 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "ANTI" on Sun, 15 Nov 2026.
+Sala Apolo is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "ANTI" on Sun, 15 Nov 2026.
 
 Sala Apolo is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Jersey, Rebolledo and relajadita. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
@@ -18,4 +18,4 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, 
 
 Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain, Barcelona
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/sala-apolo/)*

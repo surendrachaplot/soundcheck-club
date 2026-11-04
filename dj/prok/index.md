@@ -1,6 +1,6 @@
 # prok
 
-prok is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Warehouse Talat Noi, Bangkok on Sat, 14 Nov 2026.
+prok is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Warehouse Talat Noi, Bangkok on Sat, 14 Nov 2026.
 
 prok is a house and techno artist based in Thailand, with 4 gigs on soundcheck across Bangkok. Often billed alongside Noka, Accidental District and Krit Su. Next up: The Warehouse Talat Noi, Bangkok on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ prok is a house and techno artist based in Thailand, with 4 gigs on soundcheck a
 
 Noka, Accidental District, Krit Su
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prok/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prok/)*

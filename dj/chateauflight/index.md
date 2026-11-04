@@ -1,6 +1,6 @@
 # Château Flight
 
-Château Flight is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Point Ephémère, Paris on Fri, 13 Nov 2026.
+Château Flight is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Point Ephémère, Paris on Fri, 13 Nov 2026.
 
 Château Flight is an electro and techno artist based in France, with 4 gigs on soundcheck across Lyon and Paris. Often billed alongside Beatrice M., Gilb'R and I:Cube. Next up: Point Ephémère, Paris on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Château Flight is an electro and techno artist based in France, with 4 gigs on 
 
 Beatrice M., Gilb'R, I:Cube
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chateauflight/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chateauflight/)*

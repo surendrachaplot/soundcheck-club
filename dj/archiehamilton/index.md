@@ -1,6 +1,6 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+Archie Hamilton is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
 
 Archie Hamilton is a house and tech house artist based in United Kingdom, with 232 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: The Cause, London on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, with 2
 
 Jamie Jones, East End Dubs, Prunk
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/archiehamilton/)*

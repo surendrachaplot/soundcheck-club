@@ -1,6 +1,6 @@
 # Førehand
 
-Førehand is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
+Førehand is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Void Club, Berlin on Fri, 11 Dec 2026.
 
 Førehand is a techno and minimal techno artist based in Turkey, with 13 gigs on soundcheck across Berlin, Helsinki and Malmo. Often billed alongside YOZÉ, Rob Robsen and Bouras. Next up: Void Club, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Førehand is a techno and minimal techno artist based in Turkey, with 13 gigs on
 
 YOZÉ, Rob Robsen, Bouras
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forehand-tk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forehand-tk/)*

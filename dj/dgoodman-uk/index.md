@@ -1,6 +1,6 @@
 # D. Goodman
 
-D. Goodman is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Otaqlab Bangkok, Bangkok on Fri, 6 Nov 2026.
+D. Goodman is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Otaqlab Bangkok, Bangkok on Fri, 6 Nov 2026.
 
 D. Goodman is a techno and trance artist, with 5 gigs on soundcheck across Bangkok. Often billed alongside MOONBLUE, Noritachibana and OLGA BIBER. Next up: Otaqlab Bangkok, Bangkok on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ D. Goodman is a techno and trance artist, with 5 gigs on soundcheck across Bangk
 
 MOONBLUE, Noritachibana, OLGA BIBER
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dgoodman-uk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dgoodman-uk/)*

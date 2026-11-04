@@ -1,6 +1,6 @@
 # Circus Osaka
 
-Circus Osaka is a music venue in Osaka with 20 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Sandrien" on Thu, 5 Nov 2026.
+Circus Osaka is a music venue in Osaka with 20 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sandrien" on Thu, 5 Nov 2026.
 
 Circus Osaka is a music venue in Osaka listed on soundcheck. 20 upcoming gigs, with line-ups including Alex Neri, Al Jones, Baldo and Bloody Cheeki $odz and 2 more. See dates, start times and who's playing. 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN.
 
@@ -23,4 +23,4 @@ Circus Osaka is a music venue in Osaka listed on soundcheck. 20 upcoming gigs, w
 
 1-8-16 2F Nakanishi Bldg, Nishi-shinsaibashi,Chuo-ku,Osaka , 542-0086  JAPAN, Osaka
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/circus-osaka/)*

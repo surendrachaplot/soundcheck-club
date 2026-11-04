@@ -1,6 +1,6 @@
 # Sabrina
 
-Sabrina is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at X Private Club, Madrid on Sat, 7 Nov 2026.
+Sabrina is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at X Private Club, Madrid on Sat, 7 Nov 2026.
 
 Sabrina is a drum & bass and house artist based in Bolivia, with 39 gigs on soundcheck across Bali, Barcelona, Berlin and Birmingham and 13 more. Often billed alongside Iñigo Vontier, SP:MC and Charlie Tee. Next up: X Private Club, Madrid on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sabrina is a drum & bass and house artist based in Bolivia, with 39 gigs on soun
 
 Iñigo Vontier, SP:MC, Charlie Tee
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sabrina/)*

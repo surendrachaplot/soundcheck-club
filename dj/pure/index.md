@@ -1,8 +1,8 @@
 # Pure
 
-Pure is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location on the telegram group, Berlin on Sun, 8 Nov 2026.
+Pure is a Bass and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location on the telegram group, Berlin on Sun, 8 Nov 2026.
 
-Pure is a bass and experimental artist, with 5 gigs on soundcheck across Berlin, Vienna and Zurich. Often billed alongside Alex Pastore, Duskbeat and Allexandra. Next up: TBA - Secret Location on the telegram group, Berlin on Sun 8 Nov.
+Pure is a bass and experimental artist based in Austria, with 5 gigs on soundcheck across Berlin, Vienna and Zurich. Often billed alongside Alex Pastore, Duskbeat and Allexandra. Next up: TBA - Secret Location on the telegram group, Berlin on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Pure is a bass and experimental artist, with 5 gigs on soundcheck across Berlin,
 
 Alex Pastore, Duskbeat, Allexandra
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pure/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pure/)*

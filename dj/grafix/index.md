@@ -1,6 +1,6 @@
 # Grafix
 
-Grafix is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at H2o6, Riga on Sat, 14 Nov 2026.
+Grafix is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at H2o6, Riga on Sat, 14 Nov 2026.
 
 Grafix is a drum & bass and bass artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 39 more. Often billed alongside Wilkinson, Camo & Krooked and Culture Shock. Next up: H2o6, Riga on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Grafix is a drum & bass and bass artist based in United Kingdom, with 59 gigs on
 
 Wilkinson, Camo & Krooked, Culture Shock
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grafix/)*

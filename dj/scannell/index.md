@@ -1,6 +1,6 @@
 # Scannell
 
-Scannell is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Space Studios, South-east on Sat, 5 Dec 2026.
+Scannell is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Space Studios, South-east on Sat, 5 Dec 2026.
 
 Scannell is a progressive house and techno artist based in United Kingdom, with 5 gigs on soundcheck across London, Los Angeles and South East. Often billed alongside snick, Bovine Boy and Brian Scannell. Next up: Space Studios, South East on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Scannell is a progressive house and techno artist based in United Kingdom, with 
 
 snick, Bovine Boy, Brian Scannell
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scannell/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scannell/)*

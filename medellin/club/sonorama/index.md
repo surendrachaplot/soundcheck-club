@@ -1,6 +1,6 @@
 # Sonorama
 
-Sonorama is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Sonorama, Scene & Frequency Pres / East End Dubs" on Fri, 6 Nov 2026.
+Sonorama is a music venue in Medellin with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sonorama, Scene & Frequency Pres / East End Dubs" on Fri, 6 Nov 2026.
 
 Sonorama is a music venue in Medellin listed on soundcheck. 3 upcoming gigs, with line-ups including East End Dubs, Insolent, Paul Ritch and Vannesa Gnz. See dates, start times and who's playing. Carrera 37 #10 - 37.
 
@@ -16,4 +16,4 @@ Sonorama is a music venue in Medellin listed on soundcheck. 3 upcoming gigs, wit
 
 Carrera 37 #10 - 37, Medellin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/sonorama/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/sonorama/)*

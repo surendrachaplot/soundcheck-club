@@ -1,8 +1,8 @@
 # AUTOFLOWER
 
-AUTOFLOWER is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Beursgebouw, Eindhoven on Sat, 7 Nov 2026.
+AUTOFLOWER is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Beursgebouw, Eindhoven on Sat, 7 Nov 2026.
 
-AUTOFLOWER is a house and techno artist based in Netherlands, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Fiene, Moody Mehran and Rozie. Next up: Beursgebouw, Eindhoven on Sat 7 Nov.
+AUTOFLOWER is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside Fiene, Freddi and Moody Mehran. Next up: Beursgebouw, Eindhoven on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ AUTOFLOWER is a house and techno artist based in Netherlands, with 48 gigs on so
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Beursgebouw | Eindhoven |
 | Sat, 28 Nov 2026 | Yellow House | Amsterdam |
+| Sat, 12 Dec 2026 | Het Sieraad | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ AUTOFLOWER is a house and techno artist based in Netherlands, with 48 gigs on so
 
 ## Shares bills with
 
-Fiene, Moody Mehran, Rozie
+Fiene, Freddi, Moody Mehran
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autoflower/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/autoflower/)*

@@ -1,6 +1,6 @@
 # August Kind
 
-August Kind is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
+August Kind is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
 
 August Kind is a techno and trance artist based in Germany, with 76 gigs on soundcheck across Berlin, Budapest, Munich and Taipei. Often billed alongside Deltapeak, bbymeister and jeanska. Next up: Humboldthain Club, Berlin on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ August Kind is a techno and trance artist based in Germany, with 76 gigs on soun
 
 Deltapeak, bbymeister, jeanska
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/augustkind/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/augustkind/)*

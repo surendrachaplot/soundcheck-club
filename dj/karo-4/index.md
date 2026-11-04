@@ -1,6 +1,6 @@
 # KARO (4)
 
-KARO (4) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 8 Nov 2026.
+KARO (4) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 8 Nov 2026.
 
 KARO is a house and minimal artist, with 5 gigs on soundcheck across Bogotá, Colombia and Medellin. Often billed alongside BASS SIDE, Bach Johnson and CADAVID. Next up: El Rio Hostel, Colombia on Sun 8 Nov.
 
@@ -21,4 +21,4 @@ KARO is a house and minimal artist, with 5 gigs on soundcheck across Bogotá, Co
 
 BASS SIDE, Bach Johnson, CADAVID
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karo-4/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karo-4/)*

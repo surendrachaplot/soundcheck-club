@@ -1,6 +1,6 @@
 # Ares (IT)
 
-Ares (IT) is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 8 Nov 2026.
+Ares (IT) is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 8 Nov 2026.
 
 Ares (IT) is a house artist based in Italy, with 7 gigs on soundcheck across Chicago, Frankfurt, Ibiza and Milan. Often billed alongside ETNA, Pomboklap and tonton. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 8 Nov.
 
@@ -23,4 +23,4 @@ Ares (IT) is a house artist based in Italy, with 7 gigs on soundcheck across Chi
 
 ETNA, Pomboklap, tonton
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aresit/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aresit/)*

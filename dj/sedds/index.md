@@ -1,6 +1,6 @@
 # Sedds
 
-Sedds is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cut, Newcastle on Fri, 6 Nov 2026.
+Sedds is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Cut, Newcastle on Fri, 6 Nov 2026.
 
 Sedds is a minimal and house artist based in United Kingdom, with 17 gigs on soundcheck across Edinburgh, Leeds and Newcastle. Often billed alongside Nooney, Lister and DJ Bz. Next up: The Cut, Newcastle on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sedds is a minimal and house artist based in United Kingdom, with 17 gigs on sou
 
 Nooney, Lister, DJ Bz
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedds/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedds/)*

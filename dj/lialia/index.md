@@ -1,6 +1,6 @@
 # LiaLia
 
-LiaLia is a Hardcore and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Silent Green, Berlin on Fri, 27 Nov 2026.
+LiaLia is a Hardcore and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Silent Green, Berlin on Fri, 27 Nov 2026.
 
 LiaLia is a hardcore and pop artist, with 4 gigs on soundcheck across Berlin and Vilnius. Often billed alongside BRDKS, Europa and HEDDA. Next up: Silent Green, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ LiaLia is a hardcore and pop artist, with 4 gigs on soundcheck across Berlin and
 
 BRDKS, Europa (1), HEDDA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lialia/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lialia/)*

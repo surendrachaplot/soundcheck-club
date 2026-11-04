@@ -1,13 +1,14 @@
 # Znzl
 
-Znzl is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at La Cité Fertile, Paris on Sun, 29 Nov 2026.
+Znzl is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Romandie, Lausanne on Sat, 21 Nov 2026.
 
-Znzl is a techno and industrial artist based in Morocco, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Ey.rah, Öspiel and Henning Baer. Next up: La Cité Fertile, Paris on Sun 29 Nov.
+Znzl is a techno and industrial artist based in Morocco, with 32 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 7 more. Often billed alongside Ey.rah, Öspiel and Henning Baer. Next up: Le Romandie, Lausanne on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Le Romandie | Lausanne |
 | Sun, 29 Nov 2026 | La Cité Fertile | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Znzl is a techno and industrial artist based in Morocco, with 31 gigs on soundch
 
 Ey.rah, Öspiel, Henning Baer
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/znzl/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/znzl/)*

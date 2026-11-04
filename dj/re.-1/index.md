@@ -1,6 +1,6 @@
 # Re. (1)
 
-Re. (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Rauxxxxs, Berlin on Sat, 14 Nov 2026.
+Re. (1) is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Rauxxxxs, Berlin on Sat, 14 Nov 2026.
 
 Re. is a techno artist based in Indonesia, with 4 gigs on soundcheck across Berlin. Often billed alongside BreakLD, RF and B.A.O.. Next up: TBA - Rauxxxxs, Berlin on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Re. is a techno artist based in Indonesia, with 4 gigs on soundcheck across Berl
 
 BreakLD, RF (1), B.A.O.
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/re.-1/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/re.-1/)*

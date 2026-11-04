@@ -1,6 +1,6 @@
 # Kaufleuten
 
-Kaufleuten is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Lovers In The Night" on Sat, 7 Nov 2026.
+Kaufleuten is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Lovers In The Night" on Sat, 7 Nov 2026.
 
 Kaufleuten is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including CHRIS STASSY, Dangel Twins, Daughter In Law and Maxi Meraki and 2 more. See dates, start times and who's playing. Pelikanstrasse 18; 8001, Zürich; Switzerland.
 
@@ -17,4 +17,4 @@ Kaufleuten is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, wit
 
 Pelikanstrasse 18; 8001, Zürich; Switzerland, Zurich
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/kaufleuten/)*

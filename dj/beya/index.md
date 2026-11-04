@@ -1,6 +1,6 @@
 # BEYA
 
-BEYA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Stud, San Francisco/Oakland on Sat, 7 Nov 2026.
+BEYA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Stud, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 BEYA is a house and techno artist based in United States of America, with 37 gigs on soundcheck across Los Angeles, Mexico City, New York City and Philadelphia and 1 more. Often billed alongside Mark O'Brien, DJ M3 and likeholywine. Next up: The Stud, San Francisco/Oakland on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ BEYA is a house and techno artist based in United States of America, with 37 gig
 
 Mark O'Brien, DJ M3, likeholywine
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beya/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beya/)*

@@ -1,6 +1,6 @@
 # Alex Kennon
 
-Alex Kennon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Bologna on Sun, 22 Nov 2026.
+Alex Kennon is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Bologna on Sun, 22 Nov 2026.
 
 Alex Kennon is a house and tech house artist based in Italy, with 42 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Bologna and 16 more. Often billed alongside Nic Fanciulli, And Hazel and Gonçalo. Next up: TBA, Bologna on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Alex Kennon is a house and tech house artist based in Italy, with 42 gigs on sou
 
 Nic Fanciulli, And Hazel, Gonçalo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkennon/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexkennon/)*

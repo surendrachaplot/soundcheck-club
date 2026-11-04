@@ -1,6 +1,6 @@
 # Matroda
 
-Matroda is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 7 Nov 2026.
+Matroda is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Il Mercato Centrale, Melbourne on Sat, 7 Nov 2026.
 
 Matroda is a house and tech house artist based in United States of America, with 91 gigs on soundcheck across Austin, Basel, Berlin and Boston and 28 more. Often billed alongside J. Worra, Kaskade and Mary Droppinz. Next up: TBA - Il Mercato Centrale, Melbourne on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Matroda is a house and tech house artist based in United States of America, with
 
 J. Worra, Kaskade, Mary Droppinz
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matroda/)*

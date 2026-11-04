@@ -1,6 +1,6 @@
 # Brother Pate
 
-Brother Pate is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Austin on Thu, 5 Nov 2026.
+Brother Pate is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Austin on Thu, 5 Nov 2026.
 
 Brother Pate is a house and disco artist based in United States of America, with 57 gigs on soundcheck across Austin. Often billed alongside Thurman Jackson, Brett Johnson and Marcus Lott. Next up: TBA, Austin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Brother Pate is a house and disco artist based in United States of America, with
 
 Thurman Jackson, Brett Johnson, Marcus Lott
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherpate/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherpate/)*

@@ -1,6 +1,6 @@
 # Tito Mazzetta
 
-Tito Mazzetta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - 383 Marietta St NW, Georgia on Fri, 6 Nov 2026.
+Tito Mazzetta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - 383 Marietta St NW, Georgia on Fri, 6 Nov 2026.
 
 Tito Mazzetta is a house and techno artist based in United States of America, with 54 gigs on soundcheck across Atlanta, Austin, Denver and Georgia and 1 more. Often billed alongside Tj Coito, Komron and James Sheftal. Next up: TBA - 383 Marietta St NW, Georgia on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Tito Mazzetta is a house and techno artist based in United States of America, wi
 
 Tj Coito, Komron, James Sheftal
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/titocarlo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/titocarlo/)*

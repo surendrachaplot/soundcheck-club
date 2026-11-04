@@ -1,6 +1,6 @@
 # Skylight Warehouse
 
-Skylight Warehouse is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "QTS: Vancouver (Farius - Jaytech - Merrodi)" on Fri, 13 Nov 2026.
+Skylight Warehouse is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "QTS: Vancouver (Farius - Jaytech - Merrodi)" on Fri, 13 Nov 2026.
 
 Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Davidé, Farius and Jaytech. See dates, start times and who's playing. 1800 Main St Back Entrance.
 
@@ -15,4 +15,4 @@ Skylight Warehouse is a music venue in Vancouver listed on soundcheck. 2 upcomin
 
 1800 Main St Back Entrance, Vancouver
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/skylight-warehouse/)*

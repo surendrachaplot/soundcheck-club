@@ -1,8 +1,8 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Radius, Chicago on Sat, 7 Nov 2026.
+Carl Cox is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Radius, Chicago on Sat, 7 Nov 2026.
 
-Carl Cox is a techno and house artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 54 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Radius, Chicago on Sat 7 Nov.
+Carl Cox is a techno and house artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 54 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: Radius, Chicago on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Carl Cox is a techno and house artist based in United Kingdom, with 157 gigs on 
 | Fri, 13 Nov 2026 | Woldenberg Riverfront Park | New-orleans |
 | Fri, 13 Nov 2026 | Coca-Cola Roxy | Atlanta |
 | Sat, 14 Nov 2026 | Club Space Miami | Miami |
+| Fri, 20 Nov 2026 | Pier 48's Shed A | San Francisco/Oakland |
 | Thu, 26 Nov 2026 | Stereo | Montreal |
 | Fri, 27 Nov 2026 | Rebel | Toronto |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
@@ -34,4 +35,4 @@ Carl Cox is a techno and house artist based in United Kingdom, with 157 gigs on 
 
 Melon Bomb, Chelina Manuhutu, Christopher Coe
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlcox/)*

@@ -1,14 +1,13 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Moods at Noxe (26th floor W Barcelona)" on Tue, 3 Nov 2026.
+Noxe Barcelona is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Housy at Noxe (26th floor W Barcelona)" on Wed, 4 Nov 2026.
 
-Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including AARON BLEEK, Alex Silva, Drunk At Vogue and Eric Yanguas and 2 more. See dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
+Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including AARON BLEEK, Alex Silva, Drunk At Vogue and GIVIO and 2 more. See dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Moods at Noxe (26th floor W Barcelona) | Eric Yanguas, Sarah Andersson |
 | Wed, 4 Nov 2026 | Housy at Noxe (26th floor W Barcelona) | GIVIO, Nesi |
 | Thu, 5 Nov 2026 | HOPE at Noxe (26th floor W Barcelona) | Alex Silva |
 | Mon, 9 Nov 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
@@ -18,9 +17,10 @@ Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 16 upcoming g
 | Mon, 16 Nov 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 17 Nov 2026 | Moods at Noxe (26th floor W Barcelona) | Sarah Andersson |
 | Wed, 18 Nov 2026 | Housy at Noxe (26th floor W Barcelona) | AARON BLEEK, Nesi |
+| Thu, 19 Nov 2026 | HOPE at Noxe (26th floor W Barcelona) | Alex Silva |
 
 ## Address
 
 Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona, Barcelona
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/noxe-barcelona/)*

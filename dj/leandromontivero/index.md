@@ -1,8 +1,8 @@
 # Leandro Montivero
 
-Leandro Montivero is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TOC Hostel, Barcelona on Fri, 6 Nov 2026.
+Leandro Montivero is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TOC Hostel, Barcelona on Fri, 6 Nov 2026.
 
-Leandro Montivero is an electronica and house artist, with 6 gigs on soundcheck across Barcelona. Often billed alongside EVES DJ, MøønkiZa and Agustín Negri. Next up: TOC Hostel, Barcelona on Fri 6 Nov.
+Leandro Montivero is an electronica and house artist based in Argentina, with 6 gigs on soundcheck across Barcelona. Often billed alongside EVES DJ, MøønkiZa and Agustín Negri. Next up: TOC Hostel, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Leandro Montivero is an electronica and house artist, with 6 gigs on soundcheck 
 
 EVES DJ, MøønkiZa, Agustín Negri
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leandromontivero/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leandromontivero/)*

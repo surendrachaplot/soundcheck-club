@@ -1,6 +1,6 @@
 # Unity (surprise special edition) at KitKatClub
 
-Unity (surprise special edition) at KitKatClub on Thu 5 Nov, Berlin. 3 artists: alemiko, Balkhausen and e.leptic. Trance and Techno. See the line-up on soundcheck.
+Unity (surprise special edition) at KitKatClub on Thu 5 Nov, Berlin. 4 artists: alemiko, Balkhausen, e.leptic and Hyghdrated. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Unity (surprise special edition) at KitKatClub on Thu 5 Nov, Berlin. 3 artists: 
 - alemiko
 - Balkhausen
 - e.leptic
+- Hyghdrated
 
 *Source: [soundcheck](https://soundcheck.club/e/2561441-unity-surprise-special-edition-at-kitkatclub/)*

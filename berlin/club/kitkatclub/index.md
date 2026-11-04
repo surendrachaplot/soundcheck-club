@@ -1,6 +1,6 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SYMBIOTIKKA at KitKat Club Berlin" on Wed, 4 Nov 2026.
+KitKatClub is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SYMBIOTIKKA at KitKat Club Berlin" on Wed, 4 Nov 2026.
 
 KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including AAguilAA, ADAM MUNNINGS, alemiko and Alex Nantaya and 2 more. See dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
@@ -9,7 +9,7 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | SYMBIOTIKKA at KitKat Club Berlin | CHVZ.722, DJ Jordan, Kalimanda, Sin:port |
-| Thu, 5 Nov 2026 | Unity (surprise special edition) | Balkhausen, alemiko, e.leptic |
+| Thu, 5 Nov 2026 | Unity (surprise special edition) | Balkhausen, Hyghdrated, alemiko, e.leptic |
 | Fri, 6 Nov 2026 | Four Play | Alex Nantaya, Alyne, Blame the Booker, Dada Disco, Dela Nesto, Gizmo, Lazykid, PyjamaMama, Stallo, justUS |
 | Sun, 8 Nov 2026 | Nachspiel | Fran-Cee |
 | Mon, 9 Nov 2026 | Electric Monday@KitKat | Frankie Flowerz, Ludmila Houben, Ricardo Rodriguez |
@@ -23,4 +23,4 @@ KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, wi
 
 Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kitkatclub/)*

@@ -1,6 +1,6 @@
 # Sala ART
 
-Sala ART is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "La Chismoteka: Guarachateka" on Fri, 6 Nov 2026.
+Sala ART is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "La Chismoteka: Guarachateka" on Fri, 6 Nov 2026.
 
 Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Artaban, BENNETT, CHEFFF and Costa and 2 more. See dates, start times and who's playing. P.º de la Florida, 2, 28008 Madrid.
 
@@ -17,4 +17,4 @@ Sala ART is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with 
 
 P.º de la Florida, 2, 28008 Madrid, Madrid
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-art/)*

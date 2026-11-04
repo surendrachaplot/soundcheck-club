@@ -1,6 +1,6 @@
 # HAAi
 
-HAAi is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Concorde 2, Brighton on Fri, 20 Nov 2026.
+HAAi is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Concorde 2, Brighton on Fri, 20 Nov 2026.
 
 HAAi is a house and techno artist based in Australia, with 240 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 71 more. Often billed alongside salute, DJ BORING and DJ Tennis. Next up: Concorde 2, Brighton on Fri 20 Nov.
 
@@ -36,4 +36,4 @@ HAAi is a house and techno artist based in Australia, with 240 gigs on soundchec
 
 salute, DJ BORING, DJ Tennis
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haai/)*

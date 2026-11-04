@@ -1,6 +1,6 @@
 # Super8 & Tab
 
-Super8 & Tab is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Grand Central Hall, Liverpool on Sat, 7 Nov 2026.
+Super8 & Tab is a Progressive House and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Grand Central Hall, Liverpool on Sat, 7 Nov 2026.
 
 Super8 & Tab are a progressive house and trance duo based in Finland, with 14 gigs on soundcheck across Auckland, Birmingham, Glasgow and Helsinki and 9 more. Often billed alongside Amy Wiles, Leena Punks and Dave Pearce. Next up: Grand Central Hall, Liverpool on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Super8 & Tab are a progressive house and trance duo based in Finland, with 14 gi
 
 Amy Wiles, Leena Punks, Dave Pearce
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/super8tab/)*

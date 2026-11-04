@@ -1,6 +1,6 @@
 # M4RY JAN3
 
-M4RY JAN3 is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Gdynia, Gdansk on Fri, 13 Nov 2026.
+M4RY JAN3 is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Gdynia, Gdansk on Fri, 13 Nov 2026.
 
 M4RY JAN3 is a techno artist based in Poland, with 4 gigs on soundcheck across Gdansk, Krakow and Warsaw. Often billed alongside Sabre (PL), Alegria and Aphrodite. Next up: TBA - Gdynia, Gdansk on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ M4RY JAN3 is a techno artist based in Poland, with 4 gigs on soundcheck across G
 
 Sabre (PL), Alegria, Aphrodite
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m4ryjan3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m4ryjan3/)*

@@ -1,6 +1,6 @@
 # Judzhen
 
-Judzhen is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Laska V21, Riga on Fri, 6 Nov 2026.
+Judzhen is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Laska V21, Riga on Fri, 6 Nov 2026.
 
 Judzhen is a house and club artist based in Latvia, with 26 gigs on soundcheck across Riga. Often billed alongside Nick Ustinov, Jazzy Marky and exxjuly. Next up: Laska V21, Riga on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Judzhen is a house and club artist based in Latvia, with 26 gigs on soundcheck a
 
 Nick Ustinov, Jazzy Marky, exxjuly
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judzhen/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judzhen/)*

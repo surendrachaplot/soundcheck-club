@@ -1,6 +1,6 @@
 # Cartilage
 
-Cartilage is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "LA 'NIK TES MORTS' Mourirdeux x Duperré" on Fri, 6 Nov 2026.
+Cartilage is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "LA 'NIK TES MORTS' Mourirdeux x Duperré" on Fri, 6 Nov 2026.
 
 Cartilage is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Edgussss, Ixpé, James Marceau and Osoloco and 1 more. See dates, start times and who's playing. 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France.
 
@@ -17,4 +17,4 @@ Cartilage is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with 
 
 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France, Paris
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*

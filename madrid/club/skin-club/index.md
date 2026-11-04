@@ -1,6 +1,6 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "SKIN ALPHA: LE GOMMEZ + MALASUERTE + REI TIER" on Fri, 6 Nov 2026.
+Skin Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SKIN ALPHA: LE GOMMEZ + MALASUERTE + REI TIER" on Fri, 6 Nov 2026.
 
 Skin Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and Ezekiel and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
@@ -18,4 +18,4 @@ Skin Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with
 
 C. de la Aduana, 21Centro, 28013 Madrid, Spain, Madrid
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/skin-club/)*

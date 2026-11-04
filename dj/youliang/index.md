@@ -1,6 +1,6 @@
 # You Liang
 
-You Liang is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at DeTour, Tokyo on Fri, 6 Nov 2026.
+You Liang is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at DeTour, Tokyo on Fri, 6 Nov 2026.
 
 You Liang is a house and techno artist based in Singapore, with 132 gigs on soundcheck across Amsterdam, Hanoi, Ibiza and Miami and 3 more. Often billed alongside Nanlaze, TORUKK and Tuyetmizuno. Next up: DeTour, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ You Liang is a house and techno artist based in Singapore, with 132 gigs on soun
 
 Nanlaze, TORUKK, Tuyetmizuno
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youliang/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youliang/)*

@@ -1,6 +1,6 @@
 # Bastin.
 
-Bastin. is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bloody Louis, Brussels on Sat, 7 Nov 2026.
+Bastin. is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bloody Louis, Brussels on Sat, 7 Nov 2026.
 
 Bastin. is an afro house and house artist based in Belgium, with 5 gigs on soundcheck across Antwerp, Brussels and Ghent. Often billed alongside Deco (BE), Makasi and &ME. Next up: Bloody Louis, Brussels on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Bastin. is an afro house and house artist based in Belgium, with 5 gigs on sound
 
 Deco (BE), Makasi, &ME
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastin./)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastin./)*

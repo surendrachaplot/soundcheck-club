@@ -1,6 +1,6 @@
 # Taieb Chékir
 
-Taieb Chékir is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Taieb Chékir is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Taieb Chékir is an electro and techno artist based in France, with 26 gigs on soundcheck across Barcelona, Lisbon, Paris and Tunisia. Often billed alongside Alyhas, Bassam and Blanco. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Taieb Chékir is an electro and techno artist based in France, with 26 gigs on s
 
 Alyhas, Bassam, Blanco
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiebchekir/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taiebchekir/)*

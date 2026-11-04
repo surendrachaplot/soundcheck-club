@@ -1,6 +1,6 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Brian Gallagher" on Thu, 5 Nov 2026.
+Fidelity Studio is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Brian Gallagher" on Thu, 5 Nov 2026.
 
 Fidelity Studio is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Basic Channel, Call Super, Dr Banana and Hunee and 2 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
@@ -20,4 +20,4 @@ Fidelity Studio is a music venue in Dublin listed on soundcheck. 7 upcoming gigs
 
 79 Queen Street, Smithfield, Dublin 7, D07 DW3R, Dublin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/fidelity-studio/)*

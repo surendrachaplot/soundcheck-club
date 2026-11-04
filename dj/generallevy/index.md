@@ -1,8 +1,8 @@
 # General Levy
 
-General Levy is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Thekla, Bristol on Fri, 6 Nov 2026.
+General Levy is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Thekla, Bristol on Fri, 6 Nov 2026.
 
-General Levy is a jungle and drum & bass artist based in United Kingdom, with 62 gigs on soundcheck across Birmingham, Brighton, Bristol and Dublin and 12 more. Often billed alongside Deekline, Navigator and Killa P. Next up: Thekla, Bristol on Fri 6 Nov.
+General Levy is a jungle and drum & bass artist based in United Kingdom, with 63 gigs on soundcheck across Birmingham, Brighton, Bristol and Dublin and 12 more. Often billed alongside Deekline, Navigator and Killa P. Next up: Thekla, Bristol on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ General Levy is a jungle and drum & bass artist based in United Kingdom, with 62
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Thekla | Bristol |
 | Thu, 31 Dec 2026 | Wigwam | Dublin |
+| Fri, 8 Jan 2027 | The Jazz Cafe | London |
 | Sat, 30 Jan 2027 | Future Yard | Liverpool |
 
 ## Recently played
@@ -27,4 +28,4 @@ General Levy is a jungle and drum & bass artist based in United Kingdom, with 62
 
 Deekline, Navigator, Killa P
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/generallevy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/generallevy/)*

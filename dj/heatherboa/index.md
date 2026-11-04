@@ -1,6 +1,6 @@
 # HEATHER BOA
 
-HEATHER BOA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Wharf Chambers, Leeds on Fri, 6 Nov 2026.
+HEATHER BOA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Wharf Chambers, Leeds on Fri, 6 Nov 2026.
 
 HEATHER BOA is a techno and acid artist based in United Kingdom, with 9 gigs on soundcheck across Birmingham and Leeds. Often billed alongside James Frances, Santes and Tañ. Next up: Wharf Chambers, Leeds on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ HEATHER BOA is a techno and acid artist based in United Kingdom, with 9 gigs on 
 
 James Frances, Santes, Tañ
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heatherboa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heatherboa/)*

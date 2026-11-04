@@ -1,6 +1,6 @@
 # DJ Valencya
 
-DJ Valencya is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Blå, Oslo on Sat, 7 Nov 2026.
+DJ Valencya is a Trance and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Blå, Oslo on Sat, 7 Nov 2026.
 
 DJ Valencya is a trance and experimental artist based in Norway, with 11 gigs on soundcheck across Copenhagen, Madrid, Oslo and Stockholm. Often billed alongside Abo Abo, Annweiler and Anémi. Next up: Blå, Oslo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Valencya is a trance and experimental artist based in Norway, with 11 gigs on
 
 Abo Abo, Annweiler, Anémi
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djvalencya/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djvalencya/)*

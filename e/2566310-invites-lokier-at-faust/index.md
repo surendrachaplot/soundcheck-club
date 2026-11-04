@@ -1,6 +1,6 @@
 # INVITES: Lokier at Faust
 
-INVITES: Lokier at Faust on Sat 7 Nov, Seoul. 1 artist: Lokier. See the line-up on soundcheck.
+INVITES: Lokier at Faust on Sat 7 Nov, Seoul. 5 artists: Ginger (KR), Lokier, Mars Parck and Stann Lumo and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,10 @@ INVITES: Lokier at Faust on Sat 7 Nov, Seoul. 1 artist: Lokier. See the line-up 
 
 ## Line-up
 
+- Ginger (KR)
 - Lokier
+- Mars Parck
+- Stann Lumo
+- Suman
 
 *Source: [soundcheck](https://soundcheck.club/e/2566310-invites-lokier-at-faust/)*

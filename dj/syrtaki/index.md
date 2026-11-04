@@ -1,8 +1,8 @@
 # Syrtaki
 
-Syrtaki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 13 Nov 2026.
+Syrtaki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 13 Nov 2026.
 
-Syrtaki is a techno and house artist, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Thomas Hoffmann, Jonas Hilkert and Aura Nox. Next up: Golden Pudel Club, Hamburg on Fri 13 Nov.
+Syrtaki is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Thomas Hoffmann, Jonas Hilkert and Aura Nox. Next up: Golden Pudel Club, Hamburg on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Syrtaki is a techno and house artist, with 7 gigs on soundcheck across Berlin an
 
 Thomas Hoffmann, Jonas Hilkert, Aura Nox
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syrtaki/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/syrtaki/)*

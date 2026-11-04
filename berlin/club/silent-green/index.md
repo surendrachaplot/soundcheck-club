@@ -1,8 +1,8 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Goat (JP) + Camila Nebbia" on Wed, 4 Nov 2026.
+Silent Green is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Goat (JP) + Camila Nebbia" on Wed, 4 Nov 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Abdullah Miniawy, Ana Roxanne, Babak Ahteshamipour and Cinna Peyghamy and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including Abdullah Miniawy, Ana Roxanne, Babak Ahteshamipour and Cinna Peyghamy and 2 more. See dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Silent Green is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, 
 | Wed, 18 Nov 2026 | Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein |  |
 | Tue, 24 Nov 2026 | Angel Bat Dawid |  |
 | Fri, 27 Nov 2026 | LIA LIA + Levi | Levi (DE), LiaLia |
-| Wed, 2 Dec 2026 | BEAM SPLITTER x XIU XIU present: DEDICATED PLAY FESTIVAL | Ka Baird, Mieko Suzuki, Valentin Tszin |
+| Wed, 2 Dec 2026 | BEAM SPLITTER x XIU XIU present: DEDICATED PLAY FESTIVAL (Dec 2 - 4) | Ka Baird, Mieko Suzuki, Valentin Tszin |
 
 ## Address
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

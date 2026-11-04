@@ -1,6 +1,6 @@
 # Awk (2)
 
-Awk (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Under Bridge Madrid, Madrid on Fri, 27 Nov 2026.
+Awk (2) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Under Bridge Madrid, Madrid on Fri, 27 Nov 2026.
 
 Awk is a house and deep house artist based in Portugal, with 5 gigs on soundcheck across Lisbon, London and Madrid. Often billed alongside Ander Race, Rick Offen and Jara. Next up: Under Bridge Madrid, Madrid on Fri 27 Nov.
 
@@ -21,4 +21,4 @@ Awk is a house and deep house artist based in Portugal, with 5 gigs on soundchec
 
 Ander Race, Rick Offen, Jara
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awk-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awk-2/)*

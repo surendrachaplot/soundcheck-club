@@ -1,8 +1,8 @@
 # Enzo
 
-Enzo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 15 Nov 2026.
+Enzo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Circus Tokyo, Tokyo on Sun, 15 Nov 2026.
 
-Enzo is a techno and tech house artist, with 18 gigs on soundcheck across Barcelona, Los Angeles, Madrid and New York City and 4 more. Often billed alongside Icarian PB1, Orkus and SAKO. Next up: Circus Tokyo, Tokyo on Sun 15 Nov.
+Enzo is a techno and tech house artist based in Germany, with 18 gigs on soundcheck across Barcelona, Los Angeles, Madrid and New York City and 4 more. Often billed alongside Icarian PB1, Orkus and SAKO. Next up: Circus Tokyo, Tokyo on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Enzo is a techno and tech house artist, with 18 gigs on soundcheck across Barcel
 
 Icarian PB1, Orkus, SAKO
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enzo/)*

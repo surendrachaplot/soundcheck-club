@@ -1,6 +1,6 @@
 # WDM x Raum für Ton Klubnacht: Lea Occhi, Josh Heywood, Kabay, Leskus, Tarkan at WDM
 
-WDM x Raum für Ton Klubnacht: Lea Occhi, Josh Heywood, Kabay, Leskus, Tarkan on Fri 4 Dec, Hannover. 5 artists: Josh Heywood, Kabay, Lea Occhi and Leskus and 1 more. Techno. See the line-up on soundcheck.
+WDM x Raum für Ton Klubnacht: Lea Occhi, Josh Heywood, Kabay, Leskus, Tarkan on Fri 4 Dec, Hannover. 6 artists: Josh Heywood, Kabay, KOWOLSKI and Lea Occhi and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ WDM x Raum für Ton Klubnacht: Lea Occhi, Josh Heywood, Kabay, Leskus, Tarkan on
 
 - Josh Heywood
 - Kabay
+- KOWOLSKI
 - Lea Occhi
 - Leskus
 - Tarkan

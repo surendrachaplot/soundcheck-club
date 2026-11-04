@@ -1,6 +1,6 @@
 # Kolter
 
-Kolter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Chelmsford City Racecourse, London on Thu, 31 Dec 2026.
+Kolter is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Chelmsford City Racecourse, London on Thu, 31 Dec 2026.
 
 Kolter is a house and tech house artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 44 more. Often billed alongside Jamback, East End Dubs and M-High. Next up: Chelmsford City Racecourse, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kolter is a house and tech house artist based in Germany, with 160 gigs on sound
 
 Jamback, East End Dubs, M-High
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolter/)*

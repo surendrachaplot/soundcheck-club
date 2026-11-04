@@ -1,6 +1,6 @@
 # Lam Dao
 
-Lam Dao is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
+Lam Dao is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
 
 Lam Dao is a techno and house artist based in Vietnam, with 81 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Shanghai and 1 more. Often billed alongside Viet Anh, Dusan Nikolic and Komga. Next up: Unmute, Hanoi on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Lam Dao is a techno and house artist based in Vietnam, with 81 gigs on soundchec
 
 Viet Anh, Dusan Nikolic, Komga
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamdao-vn/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lamdao-vn/)*

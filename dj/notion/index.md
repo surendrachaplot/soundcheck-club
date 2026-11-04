@@ -1,6 +1,6 @@
 # Notion
 
-Notion is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Notion is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Notion is a garage and bass artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 41 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Notion is a garage and bass artist based in United Kingdom, with 99 gigs on soun
 
 Oppidan, Conducta, Interplanetary Criminal
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*

@@ -1,6 +1,6 @@
 # Ely023
 
-Ely023 is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Subwerk Club, Bangkok on Fri, 6 Nov 2026.
+Ely023 is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Subwerk Club, Bangkok on Fri, 6 Nov 2026.
 
 Ely023 is a techno and psytrance artist, with 8 gigs on soundcheck across Bangkok, Bordeaux, Lyon and Strasbourg and 1 more. Often billed alongside Hannibass, Lethyx Nekuia and Amygdala. Next up: Subwerk Club, Bangkok on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Ely023 is a techno and psytrance artist, with 8 gigs on soundcheck across Bangko
 
 Hannibass, Lethyx Nekuia, Amygdala
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ely023/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ely023/)*

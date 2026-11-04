@@ -1,6 +1,6 @@
 # Limbo Slice
 
-Limbo Slice is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at House of X, New York City on Sat, 7 Nov 2026.
+Limbo Slice is a Dubstep and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at House of X, New York City on Sat, 7 Nov 2026.
 
 Limbo Slice is a dubstep and techno artist, with 6 gigs on soundcheck across London, New York City and Seoul. Often billed alongside 2SPADE, Coex and DJ heavenly wisdom. Next up: House of X, New York City on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Limbo Slice is a dubstep and techno artist, with 6 gigs on soundcheck across Lon
 
 2SPADE, Coex, DJ heavenly wisdom
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limboslice/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/limboslice/)*

@@ -1,6 +1,6 @@
 # Holywanderer
 
-Holywanderer is a EBM and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
+Holywanderer is a EBM and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 26 Nov 2026.
 
 Holywanderer is an ebm and electro artist, with 13 gigs on soundcheck across Berlin. Often billed alongside Heshumi, doctor doms and Sakrum. Next up: Crack Bellmer, Berlin on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Holywanderer is an ebm and electro artist, with 13 gigs on soundcheck across Ber
 
 Heshumi, doctor doms, Sakrum
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holywanderer/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holywanderer/)*

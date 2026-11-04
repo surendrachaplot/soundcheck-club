@@ -1,8 +1,8 @@
 # Moez
 
-Moez is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
+Moez is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
 
-Moez is a house and progressive house artist, with 6 gigs on soundcheck across Geneva, Lebanon, Paris and Tunisia. Often billed alongside Emine, Hitsh and Joren. Next up: Concrete 1994, Lebanon on Wed 4 Nov.
+Moez is a house and progressive house artist based in France, with 6 gigs on soundcheck across Geneva, Lebanon, Paris and Tunisia. Often billed alongside Emine, Hitsh and Joren. Next up: Concrete 1994, Lebanon on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Moez is a house and progressive house artist, with 6 gigs on soundcheck across G
 
 Emine (2), Hitsh, Joren
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moez/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moez/)*

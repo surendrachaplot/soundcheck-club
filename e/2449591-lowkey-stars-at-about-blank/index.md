@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ at ://about blank
 
-★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 22 artists: *Tia*, Amin Fallaha, Anna Kasyan and CEEE and 18 more. Trance and Techno. See the line-up on soundcheck.
+★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 21 artists: *Tia*, Amin Fallaha, Anna Kasyan and CEEE and 17 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -22,7 +22,6 @@
 - J4NNICH
 - Justus Hildebrand
 - KANIKA
-- Lenique
 - Mariposa x Lyra
 - mer.ve
 - Noxumi

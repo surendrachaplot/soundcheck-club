@@ -1,14 +1,15 @@
 # SKALAH (UK)
 
-SKALAH (UK) is a Dubstep and Bass artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 6 Nov 2026.
+SKALAH (UK) is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Disco Zwei, Mannheim on Fri, 6 Nov 2026.
 
-SKALAH (UK) is a dubstep and bass artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Brighton, Bristol and Cardiff and 11 more. Often billed alongside JAZ IMSKY, Saint Ludo and Plastician. Next up: Disco Zwei, Mannheim on Fri 6 Nov.
+SKALAH (UK) is a dubstep and bass artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Brighton, Bristol and Cardiff and 12 more. Often billed alongside JAZ IMSKY, Saint Ludo and Plastician. Next up: Disco Zwei, Mannheim on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Disco Zwei | Mannheim |
+| Sat, 7 Nov 2026 | Baggen | Copenhagen |
 | Fri, 13 Nov 2026 | FORGE | Sheffield |
 | Sat, 14 Nov 2026 | SIX Feet Under | Cardiff |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
@@ -29,4 +30,4 @@ SKALAH (UK) is a dubstep and bass artist based in United Kingdom, with 51 gigs o
 
 JAZ IMSKY, Saint Ludo, Plastician
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skala-uk/)*

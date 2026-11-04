@@ -1,6 +1,6 @@
 # VXRGO
 
-VXRGO is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Loco Klub, Bristol on Sat, 21 Nov 2026.
+VXRGO is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Loco Klub, Bristol on Sat, 21 Nov 2026.
 
 VXRGO is a jungle and drum & bass artist based in United Kingdom, with 99 gigs on soundcheck across Brighton, Bristol, Copenhagen and Glasgow and 7 more. Often billed alongside Silva Snipa, Tim Reaper and The Bass Injector. Next up: The Loco Klub, Bristol on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ VXRGO is a jungle and drum & bass artist based in United Kingdom, with 99 gigs o
 
 Silva Snipa, Tim Reaper, The Bass Injector
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vxrgo/)*

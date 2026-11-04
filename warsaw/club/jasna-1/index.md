@@ -1,13 +1,14 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "J1 - 999999999" on Fri, 6 Nov 2026.
+Jasna 1 is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "JASNA 4 ALL | OPEN DECKS" on Thu, 5 Nov 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with line-ups including 999999999, BEXA, Botanica and Cyryl and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including 999999999, BEXA, Botanica and Cyryl and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | JASNA 4 ALL / OPEN DECKS |  |
 | Fri, 6 Nov 2026 | J1 - 999999999 | 999999999, Marta Kulpa, PLATTER, Pitti Schmitti, dzuma, g3kko |
 | Sat, 7 Nov 2026 | J1 - FJAAK | Botanica, Cyryl, FJAAK, Ferskja |
 | Tue, 10 Nov 2026 | J1 / TAFKAMP, Tarkno, Slowmode, Petar Tverkal | Petar Tverkal, Slowmode, TAFKAMP, Tarkno |
@@ -22,4 +23,4 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 9 upcoming gigs, with l
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

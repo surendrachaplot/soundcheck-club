@@ -1,6 +1,6 @@
 # Louve
 
-Louve is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
+Louve is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
 
 Louve is a techno and pop artist, with 4 gigs on soundcheck across Dortmund / Essen, Düsseldorf, Marseille and Paris. Often billed alongside ALI3N, AMBAM and Amilli. Next up: Oma Doris, Dortmund / Essen on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Louve is a techno and pop artist, with 4 gigs on soundcheck across Dortmund / Es
 
 ALI3N, AMBAM, Amilli
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louve/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louve/)*

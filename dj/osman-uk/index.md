@@ -1,6 +1,6 @@
 # OS:MAN
 
-OS:MAN is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hootananny Brixton, London on Fri, 6 Nov 2026.
+OS:MAN is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hootananny Brixton, London on Fri, 6 Nov 2026.
 
 OS:MAN is a jungle and drum & bass artist based in United Kingdom, with 74 gigs on soundcheck across Brighton, Hamburg, Leeds and London and 1 more. Often billed alongside INSECT CRUSHA, FENDI-K and Tim Reaper. Next up: Hootananny Brixton, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ OS:MAN is a jungle and drum & bass artist based in United Kingdom, with 74 gigs 
 
 INSECT CRUSHA, FENDI-K, Tim Reaper
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osman-uk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osman-uk/)*

@@ -1,6 +1,6 @@
 # Button Factory
 
-Button Factory is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Modeselektor (DJ SET)" on Fri, 6 Nov 2026.
+Button Factory is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Modeselektor (DJ SET)" on Fri, 6 Nov 2026.
 
 Button Factory is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with line-ups including KORMAC and Modeselektor. See dates, start times and who's playing. 2 Curved Street; Dublin 2; Ireland.
 
@@ -15,4 +15,4 @@ Button Factory is a music venue in Dublin listed on soundcheck. 2 upcoming gigs,
 
 2 Curved Street; Dublin 2; Ireland, Dublin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/button-factory/)*

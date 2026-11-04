@@ -1,8 +1,8 @@
 # cuci cuci coo
 
-cuci cuci coo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
+cuci cuci coo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Meraki, Liverpool on Fri, 20 Nov 2026.
 
-cuci cuci coo is a techno and house artist, with 6 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Andriy K., Archypness and colell. Next up: Meraki, Liverpool on Fri 20 Nov.
+cuci cuci coo is a techno and house artist based in United Kingdom, with 6 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Andriy K., Archypness and colell. Next up: Meraki, Liverpool on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ cuci cuci coo is a techno and house artist, with 6 gigs on soundcheck across Liv
 
 Andriy K., Archypness, colell
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicucicoo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cucicucicoo/)*

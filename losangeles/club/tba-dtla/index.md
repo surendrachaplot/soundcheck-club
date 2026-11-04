@@ -1,6 +1,6 @@
 # TBA - DTLA
 
-TBA - DTLA is a music venue in Los Angeles with 16 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CLOSER presents THERMAL with 6 SENSE (LA Debut)" on Fri, 6 Nov 2026.
+TBA - DTLA is a music venue in Los Angeles with 16 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CLOSER presents THERMAL with 6 SENSE (LA Debut)" on Fri, 6 Nov 2026.
 
 TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 16 upcoming gigs, with line-ups including 6 SENSE, agraybé, Ali Farahani and AMORAL and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TBA - DTLA is a music venue in Los Angeles listed on soundcheck. 16 upcoming gig
 | Fri, 20 Nov 2026 | Grotto - Hewan Aman, Matas | Hewan Aman, J.dB, Matas, Miracles |
 | Fri, 27 Nov 2026 | Dialogue presents: Huerta, Liquid Earth, Dylan Payne & Mungo Sound Machine | Dylan Payne, Huerta, Liquid Earth, Mungo Sound Machine |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-dtla/)*

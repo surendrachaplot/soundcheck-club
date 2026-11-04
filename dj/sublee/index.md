@@ -1,6 +1,6 @@
 # Sublee
 
-Sublee is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
+Sublee is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
 
 Sublee is a minimal and house artist based in Romania, with 70 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 24 more. Often billed alongside Arapu, Cristi Cons and CEZAR. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sublee is a minimal and house artist based in Romania, with 70 gigs on soundchec
 
 Arapu, Cristi Cons, CEZAR
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sublee/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sublee/)*

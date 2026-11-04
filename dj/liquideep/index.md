@@ -1,6 +1,6 @@
 # LiquiDeep
 
-LiquiDeep is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cabo Beach Club, Cape Town on Sun, 27 Dec 2026.
+LiquiDeep is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cabo Beach Club, Cape Town on Sun, 27 Dec 2026.
 
 LiquiDeep is a deep house and house artist based in South Africa, with 4 gigs on soundcheck across Cape Town. Often billed alongside Dwson, Meek and Mi Casa. Next up: Cabo Beach Club, Cape Town on Sun 27 Dec.
 
@@ -20,4 +20,4 @@ LiquiDeep is a deep house and house artist based in South Africa, with 4 gigs on
 
 Dwson, Meek (1), Mi Casa
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquideep/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liquideep/)*

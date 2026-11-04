@@ -1,6 +1,6 @@
 # Not For Sale Gallery
 
-Not For Sale Gallery is a music venue in London with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "What can be seen behind close doors" on Fri, 6 Nov 2026.
+Not For Sale Gallery is a music venue in London with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "What can be seen behind close doors" on Fri, 6 Nov 2026.
 
 Not For Sale Gallery is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Adriana Honey, D LAI, Ebru Al and EMI and 2 more. See dates, start times and who's playing. 83 Smeed Road, Hackney Wick, E3 2NR.
 
@@ -17,4 +17,4 @@ Not For Sale Gallery is a music venue in London listed on soundcheck. 4 upcoming
 
 83 Smeed Road, Hackney Wick, E3 2NR, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/not-for-sale-gallery/)*

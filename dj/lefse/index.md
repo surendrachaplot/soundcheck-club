@@ -1,6 +1,6 @@
 # LEFSE
 
-LEFSE is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
+LEFSE is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
 
 LEFSE is a techno and pop artist, with 17 gigs on soundcheck across Pittsburgh. Often billed alongside Lemonline, Formosa and moistbreezy. Next up: The Distillery Complex, Pittsburgh on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ LEFSE is a techno and pop artist, with 17 gigs on soundcheck across Pittsburgh. 
 
 Lemonline, Formosa (1), moistbreezy
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefse/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lefse/)*

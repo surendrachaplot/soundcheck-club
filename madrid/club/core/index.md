@@ -1,18 +1,26 @@
 # Core
 
-Core is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "El Ático con Elena Barker b2b beltranz y Nachine" on Fri, 30 Oct 2026.
+Core is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Spook feat. BIXBITA + Ariezzz + Cheff" on Thu, 5 Nov 2026.
 
-Core is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including beltranz, Elena Barker and Nachine. See dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
+Core is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including AddlyMuff, ALOT, Varo and Ariezzz and 2 more. See dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | El Ático con Elena Barker b2b beltranz y Nachine | Elena Barker, Nachine, beltranz |
-| Sat, 31 Oct 2026 | Whell: Halloween Party |  |
+| Thu, 5 Nov 2026 | Spook feat. BIXBITA + Ariezzz + Cheff | Ariezzz, BIXBITA, Cheff |
+| Fri, 6 Nov 2026 | TRA con CH3LO, Groovemami y THANILA | CH3LO, Groovemami, THANILA |
+| Sat, 7 Nov 2026 | Core con Hanna, OLI BEDIA y Alba Ruptura | OLI BEDIA |
+| Thu, 12 Nov 2026 | Spook feat. KIWITEK23 + Biondo | Biondo |
+| Fri, 13 Nov 2026 | Faraday con neumoniia, Lucía Reina, Michi, Flamenk | Michi, neumoniia |
+| Sat, 14 Nov 2026 | El Ático con KATIA, Varo y Nachine | KATIA, Nachine, Varo |
+| Thu, 19 Nov 2026 | Spook feat. In Furcht + Lucia Gea + Undergarden | In Furcht, Lucía Gea, Undergarden |
+| Fri, 20 Nov 2026 | Juguete b2b Willow all night long | Juguete |
+| Sat, 21 Nov 2026 | Club del Sonido con ALOT y Yung Prado | ALOT, Yung Prado |
+| Thu, 26 Nov 2026 | Spook presents: WOLOLO SHOWCASE |  |
 
 ## Address
 
 Madrid, 28013, Calle de Tetuán, 27, España, Madrid
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*

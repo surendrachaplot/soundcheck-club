@@ -1,6 +1,6 @@
 # Honey's
 
-Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Cute Toonz" on Thu, 5 Nov 2026.
+Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Cute Toonz" on Thu, 5 Nov 2026.
 
 Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Bea Levy, Caire, Dj female and dj goodboy (BK) and 2 more. See dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

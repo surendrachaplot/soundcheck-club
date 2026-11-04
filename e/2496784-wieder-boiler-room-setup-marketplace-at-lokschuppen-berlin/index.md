@@ -1,6 +1,6 @@
 # wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin
 
-wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 8 Nov, Berlin. 1 artist: Ayham. Trance and Techno. See the line-up on soundcheck.
+wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 8 Nov, Berlin. 3 artists: Ayham, FRÆNCIS and PUSMUS. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 8 Nov, Berl
 ## Line-up
 
 - Ayham
+- FRÆNCIS
+- PUSMUS
 
 *Source: [soundcheck](https://soundcheck.club/e/2496784-wieder-boiler-room-setup-marketplace-at-lokschuppen-berlin/)*

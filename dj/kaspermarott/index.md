@@ -1,6 +1,6 @@
 # Kasper Marott
 
-Kasper Marott is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 7 Nov 2026.
+Kasper Marott is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 7 Nov 2026.
 
 Kasper Marott is a techno and trance artist based in Denmark, with 170 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 27 more. Often billed alongside Audrey Danza, Téa and Martin Gilleshøj. Next up: Den Anden Side, Copenhagen on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Kasper Marott is a techno and trance artist based in Denmark, with 170 gigs on s
 
 Audrey Danza, Téa, Martin Gilleshøj
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaspermarott/)*

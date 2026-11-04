@@ -1,14 +1,14 @@
 # Isaac Prieto
 
-Isaac Prieto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 13 Nov 2026.
+Isaac Prieto is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Marble Bar, Detroit on Fri, 13 Nov 2026.
 
-Isaac Prieto is a house and techno artist based in United States of America, with 125 gigs on soundcheck across Chicago, Detroit, Mexico City and Toronto. Often billed alongside Javonntte, MGUN and Donna Gardner. Next up: Lincoln Factory, Detroit on Fri 13 Nov.
+Isaac Prieto is a house and techno artist based in United States of America, with 125 gigs on soundcheck across Chicago, Detroit, Mexico City and Toronto. Often billed alongside Javonntte, MGUN and Donna Gardner. Next up: Marble Bar, Detroit on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Lincoln Factory | Detroit |
+| Fri, 13 Nov 2026 | Marble Bar | Detroit |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Isaac Prieto is a house and techno artist based in United States of America, wit
 
 Javonntte, MGUN, Donna Gardner
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacprieto/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isaacprieto/)*

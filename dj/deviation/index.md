@@ -1,6 +1,6 @@
 # Deviation
 
-Deviation is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Peckham Rye Park, London on Fri, 28 May 2027.
+Deviation is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Peckham Rye Park, London on Fri, 28 May 2027.
 
 Deviation is an electronic artist, with 4 gigs on soundcheck across Frankfurt and London. Often billed alongside Antal, Benji B and Hunee. Next up: Peckham Rye Park, London on Fri 28 May.
 
@@ -20,4 +20,4 @@ Deviation is an electronic artist, with 4 gigs on soundcheck across Frankfurt an
 
 Antal, Benji B, Hunee
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deviation/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deviation/)*

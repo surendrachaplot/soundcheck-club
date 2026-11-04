@@ -1,13 +1,14 @@
 # 'nohup'
 
-'nohup' is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Process PDX, Portland on Fri, 13 Nov 2026.
+'nohup' is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Seattle on Fri, 6 Nov 2026.
 
-'nohup' is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Minneapolis/St Paul, New York City, Portland and Seattle. Often billed alongside Jennifer Spektor, August V. M. and Seelene. Next up: Process PDX, Portland on Fri 13 Nov.
+'nohup' is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Minneapolis/St Paul, New York City, Portland and Seattle. Often billed alongside Jennifer Spektor, August V. M. and Seelene. Next up: TBA, Seattle on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | TBA | Seattle |
 | Fri, 13 Nov 2026 | Process PDX | Portland |
 | Fri, 13 Nov 2026 | Process PDX | Portland |
 
@@ -26,4 +27,4 @@
 
 Jennifer Spektor, August V. M., Seelene
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nohup/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nohup/)*

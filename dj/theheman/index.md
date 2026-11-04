@@ -1,6 +1,6 @@
 # The Heman
 
-The Heman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location , Hong Kong on Sat, 7 Nov 2026.
+The Heman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location , Hong Kong on Sat, 7 Nov 2026.
 
 The Heman is a house and techno artist based in China, with 48 gigs on soundcheck across Florence and Hong Kong. Often billed alongside Andy-S, JayMe and AngeliKa. Next up: TBA - Secret Location , Hong Kong on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ The Heman is a house and techno artist based in China, with 48 gigs on soundchec
 
 Andy-S, JayMe, AngeliKa
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theheman/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theheman/)*

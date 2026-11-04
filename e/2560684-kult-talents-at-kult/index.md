@@ -1,6 +1,6 @@
 # KULT TALENTS at Kult
 
-KULT TALENTS at Kult on Wed 4 Nov, Belgrade. 1 artist: TBA. Techno. See the line-up on soundcheck.
+KULT TALENTS at Kult on Wed 4 Nov, Belgrade. 3 artists: Kaizen, Sebastian Farago and Stormmm. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ KULT TALENTS at Kult on Wed 4 Nov, Belgrade. 1 artist: TBA. Techno. See the line
 
 ## Line-up
 
-- TBA
+- Kaizen
+- Sebastian Farago
+- Stormmm
 
 *Source: [soundcheck](https://soundcheck.club/e/2560684-kult-talents-at-kult/)*

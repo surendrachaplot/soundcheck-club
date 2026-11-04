@@ -1,6 +1,6 @@
 # Cavilla
 
-Cavilla is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri, 27 Nov 2026.
+Cavilla is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri, 27 Nov 2026.
 
 Cavilla is a house and electro artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Leeds, London and Madrid and 4 more. Often billed alongside Catania, Roya Brehl and Keefy G. Next up: TBA - Zecret Location (Ask on Instagram via DM), Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Cavilla is a house and electro artist based in United Kingdom, with 27 gigs on s
 
 Catania, Roya Brehl, Keefy G
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cavilla/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cavilla/)*

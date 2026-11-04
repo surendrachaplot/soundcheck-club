@@ -1,6 +1,6 @@
 # ZENNER
 
-ZENNER is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "180 min with Polygonia (live)" on Thu, 5 Nov 2026.
+ZENNER is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "180 min with Polygonia (live)" on Thu, 5 Nov 2026.
 
 ZENNER is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Barbara Preisinger, Coby Sey, Dorian Paic and Federico Molinari and 2 more. See dates, start times and who's playing. Alt-Treptow 15, 12435 Berlin.
 
@@ -16,4 +16,4 @@ ZENNER is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with li
 
 Alt-Treptow 15, 12435 Berlin, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/zenner/)*

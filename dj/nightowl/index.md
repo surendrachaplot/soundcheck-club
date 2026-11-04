@@ -1,6 +1,6 @@
 # Night Owl
 
-Night Owl is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Mia Mao, Paris on Sat, 7 Nov 2026.
+Night Owl is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mia Mao, Paris on Sat, 7 Nov 2026.
 
 Night Owl is a techno and industrial artist based in United Kingdom, with 8 gigs on soundcheck across Paris and Sydney. Often billed alongside A.N.I., Alex Nantaya and Angel Karel. Next up: Mia Mao, Paris on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Night Owl is a techno and industrial artist based in United Kingdom, with 8 gigs
 
 A.N.I., Alex Nantaya, Angel Karel
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightowl/)*

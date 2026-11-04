@@ -1,13 +1,14 @@
 # Word of Command
 
-Word of Command is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
+Word of Command is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
 
-Word of Command is a techno and house artist based in United States of America, with 82 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 9 more. Often billed alongside DJ Clone, Sevyn 0000 and flirty800. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
+Word of Command is a techno and house artist based in United States of America, with 83 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 9 more. Often billed alongside DJ Clone, Sevyn 0000 and flirty800. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Razzmatazz | Barcelona |
 | Fri, 13 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Word of Command is a techno and house artist based in United States of America, 
 
 DJ Clone, Sevyn 0000, flirty800
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wordofcommand/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wordofcommand/)*

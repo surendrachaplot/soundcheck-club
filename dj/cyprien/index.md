@@ -1,6 +1,6 @@
 # Cyprien
 
-Cyprien is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Vault Club, East on Fri, 20 Nov 2026.
+Cyprien is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Vault Club, East on Fri, 20 Nov 2026.
 
 Cyprien is an electro and house artist, with 5 gigs on soundcheck across East, New York City and Strasbourg. Often billed alongside FTFL, Rostøm and Sam White. Next up: Vault Club, East on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Cyprien is an electro and house artist, with 5 gigs on soundcheck across East, N
 
 FTFL, Rostøm, Sam White
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyprien/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cyprien/)*

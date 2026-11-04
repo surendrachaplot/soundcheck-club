@@ -1,13 +1,14 @@
 # Leonor Baesler
 
-Leonor Baesler is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - SPOT SECRETO, Santiago on Sat, 28 Nov 2026.
+Leonor Baesler is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - SECRET SPOT, Santiago on Sat, 7 Nov 2026.
 
-Leonor Baesler is a techno and acid artist based in Chile, with 47 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Copenhagen and 2 more. Often billed alongside Daniela Fuzz, Elias Deepman and NPLNSSS. Next up: TBA - SPOT SECRETO, Santiago on Sat 28 Nov.
+Leonor Baesler is a techno and acid artist based in Chile, with 48 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Copenhagen and 2 more. Often billed alongside Daniela Fuzz, Elias Deepman and NPLNSSS. Next up: TBA - SECRET SPOT, Santiago on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | TBA - SECRET SPOT | Santiago |
 | Sat, 28 Nov 2026 | TBA - SPOT SECRETO | Santiago |
 
 ## Recently played
@@ -25,4 +26,4 @@ Leonor Baesler is a techno and acid artist based in Chile, with 47 gigs on sound
 
 Daniela Fuzz, Elias Deepman, NPLNSSS
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonorbaesler/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonorbaesler/)*

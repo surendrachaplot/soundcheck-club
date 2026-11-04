@@ -1,8 +1,8 @@
 # Phil Berg
 
-Phil Berg is a Techno and Club artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Concept Haus, Manchester on Sat, 7 Nov 2026.
+Phil Berg is a Techno and Club artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Concept Haus, Manchester on Sat, 7 Nov 2026.
 
-Phil Berg is a techno and club artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Concept Haus, Manchester on Sat 7 Nov.
+Phil Berg is a techno and club artist based in Germany, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Lobster (NL), future.666 and Grace Dahl. Next up: Concept Haus, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Phil Berg is a techno and club artist based in Germany, with 167 gigs on soundch
 | Sat, 5 Dec 2026 | Village Underground Barcelona | Barcelona |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
+| Fri, 5 Feb 2027 | RADION | Amsterdam |
 | Mon, 29 Mar 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
@@ -31,4 +32,4 @@ Phil Berg is a techno and club artist based in Germany, with 167 gigs on soundch
 
 Lobster (NL), future.666, Grace Dahl
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philberg/)*

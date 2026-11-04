@@ -1,0 +1,28 @@
+# Mr. Lex
+
+Mr. Lex is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pod Gigantami, Warsaw on Fri, 6 Nov 2026.
+
+Mr. Lex is a disco and house artist based in Poland, with 20 gigs on soundcheck across Warsaw. Often billed alongside Novika, I Say Mikey and Kuvau. Next up: Pod Gigantami, Warsaw on Fri 6 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 6 Nov 2026 | Pod Gigantami | Warsaw |
+
+## Recently played
+
+- Pod Gigantami, Warsaw · Fri, 11 Sept 2026
+- TBA - Pod Gigantami nad Wisłą, Warsaw · Fri, 26 Jun 2026
+- Pod Gigantami, Warsaw · Sat, 18 Apr 2026
+- Pod Gigantami, Warsaw · Fri, 3 Apr 2026
+- Pod Gigantami, Warsaw · Sat, 21 Mar 2026
+- K-Bar Powiśle, Warsaw · Fri, 6 Mar 2026
+- Pod Gigantami, Warsaw · Sat, 28 Feb 2026
+- Berlin nad Warmutem, Warsaw · Fri, 23 Jan 2026
+
+## Shares bills with
+
+Novika, I Say Mikey, Kuvau
+
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mr.lex/)*

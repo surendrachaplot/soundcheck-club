@@ -1,6 +1,6 @@
 # Brixton Jamm
 
-Brixton Jamm is a music venue in London with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "4Four Events" on Fri, 6 Nov 2026.
+Brixton Jamm is a music venue in London with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "4Four Events" on Fri, 6 Nov 2026.
 
 Brixton Jamm is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Aries, Benny Page, Bladerunner and Deekline and 2 more. See dates, start times and who's playing. 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom.
 
@@ -23,4 +23,4 @@ Brixton Jamm is a music venue in London listed on soundcheck. 13 upcoming gigs, 
 
 261 Brixton Road; Brixton; London SW9 6LH; United Kingdom, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/brixton-jamm/)*

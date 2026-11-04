@@ -1,6 +1,6 @@
 # Tom Marsi
 
-Tom Marsi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 5 Nov 2026.
+Tom Marsi is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 5 Nov 2026.
 
 Tom Marsi is a club and techno artist based in United States of America, with 109 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Mexico City and 8 more. Often billed alongside Discnogirl, DJ CARO and RITCHRD. Next up: Underground SF, San Francisco/Oakland on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Tom Marsi is a club and techno artist based in United States of America, with 10
 
 Discnogirl, DJ CARO, RITCHRD
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarsi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarsi/)*

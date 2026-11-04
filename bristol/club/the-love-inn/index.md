@@ -1,6 +1,6 @@
 # The Love Inn
 
-The Love Inn is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Love Saves Wednesdays: SALUTE" on Wed, 4 Nov 2026.
+The Love Inn is a music venue in Bristol with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Love Saves Wednesdays: SALUTE" on Wed, 4 Nov 2026.
 
 The Love Inn is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, with line-ups including Alien Communications, Eksish, El-B and Field Case and 2 more. See dates, start times and who's playing. 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom.
 
@@ -21,4 +21,4 @@ The Love Inn is a music venue in Bristol listed on soundcheck. 8 upcoming gigs, 
 
 84 Stokes Croft, Stokes Croft, Bristol, BS1 3QY, United Kingdom, Bristol
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-love-inn/)*

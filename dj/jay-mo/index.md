@@ -1,6 +1,6 @@
 # JAY-MO
 
-JAY-MO is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Onyx (E1), London on Sat, 19 Dec 2026.
+JAY-MO is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Onyx (E1), London on Sat, 19 Dec 2026.
 
 JAY-MO is a jungle and drum & bass artist based in United Kingdom, with 49 gigs on soundcheck across Brighton and London. Often billed alongside Randoma, RACH! and AUDIO DUNE. Next up: Onyx (E1), London on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ JAY-MO is a jungle and drum & bass artist based in United Kingdom, with 49 gigs 
 
 Randoma, RACH!, AUDIO DUNE
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jay-mo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jay-mo/)*

@@ -1,6 +1,6 @@
 # Ragoo
 
-Ragoo is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "MAGIC THURSDAY" on Thu, 5 Nov 2026.
+Ragoo is a music venue in Milan with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "MAGIC THURSDAY" on Thu, 5 Nov 2026.
 
 Ragoo is a music venue in Milan listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. Viale Monza, 140, 20127 Milano MI, Italy.
 
@@ -19,4 +19,4 @@ Ragoo is a music venue in Milan listed on soundcheck. 6 upcoming gigs. See dates
 
 Viale Monza, 140, 20127 Milano MI, Italy, Milan
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ragoo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/ragoo/)*

@@ -1,6 +1,6 @@
 # Kia (AU)
 
-Kia (AU) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 14 Nov 2026.
+Kia (AU) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Second Story Studios, Melbourne on Sat, 14 Nov 2026.
 
 Kia (AU) is a techno and house artist based in Australia, with 228 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 61 more. Often billed alongside Reptant, Bitter Babe and Moopie. Next up: Second Story Studios, Melbourne on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Kia (AU) is a techno and house artist based in Australia, with 228 gigs on sound
 
 Reptant, Bitter Babe, Moopie
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-au/)*

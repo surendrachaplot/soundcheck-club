@@ -1,6 +1,6 @@
 # Mike Anderson
 
-Mike Anderson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Gwenda, London on Sat, 14 Nov 2026.
+Mike Anderson is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Gwenda, London on Sat, 14 Nov 2026.
 
 Mike Anderson is a house and deep house artist based in Italy, with 5 gigs on soundcheck across Amsterdam, London and Midlands. Often billed alongside Joe Smooth, Teknobrat and Guido Nemola. Next up: Gwenda, London on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Mike Anderson is a house and deep house artist based in Italy, with 5 gigs on so
 
 Joe Smooth, Teknobrat, Guido Nemola
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeanderson/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeanderson/)*

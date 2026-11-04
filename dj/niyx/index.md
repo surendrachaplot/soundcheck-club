@@ -1,6 +1,6 @@
 # Niyx
 
-Niyx is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Jupiter Disco, New York City on Sun, 8 Nov 2026.
+Niyx is a Club and Ghetto Tech artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jupiter Disco, New York City on Sun, 8 Nov 2026.
 
 Niyx is a club and ghetto tech artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside HOPESTARXX, silkshirt and BRATATTACK. Next up: Jupiter Disco, New York City on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Niyx is a club and ghetto tech artist based in United States of America, with 11
 
 HOPESTARXX, silkshirt, BRATATTACK
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niyx/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niyx/)*

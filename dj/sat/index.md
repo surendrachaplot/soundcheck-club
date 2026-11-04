@@ -1,6 +1,6 @@
 # Sat
 
-Sat is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Groove Bar, Prague on Sat, 7 Nov 2026.
+Sat is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Groove Bar, Prague on Sat, 7 Nov 2026.
 
 Sat is a house and disco artist, with 46 gigs on soundcheck across Dresden, Kuala Lumpur, Lisbon and Los Angeles and 5 more. Often billed alongside Andrea Zucca, Møreti and Zucca. Next up: Groove Bar, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sat is a house and disco artist, with 46 gigs on soundcheck across Dresden, Kual
 
 Andrea Zucca, Møreti, Zucca
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sat/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sat/)*

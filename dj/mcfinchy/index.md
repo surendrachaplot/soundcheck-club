@@ -1,6 +1,6 @@
 # MC Finchy
 
-MC Finchy is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SWG3, Glasgow on Sat, 7 Nov 2026.
+MC Finchy is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at SWG3, Glasgow on Sat, 7 Nov 2026.
 
 MC Finchy is a trance and hardcore artist based in United Kingdom, with 4 gigs on soundcheck across Glasgow, Leeds, Liverpool and Manchester. Often billed alongside Ultrabeat, Big Ang and Billy Gillies. Next up: SWG3, Glasgow on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ MC Finchy is a trance and hardcore artist based in United Kingdom, with 4 gigs o
 
 Ultrabeat, Big Ang, Billy Gillies
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfinchy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcfinchy/)*

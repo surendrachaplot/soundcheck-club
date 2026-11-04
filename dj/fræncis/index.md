@@ -1,13 +1,14 @@
 # FRÆNCIS
 
-FRÆNCIS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Holy Poly, Lower-saxony on Fri, 20 Nov 2026.
+FRÆNCIS is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 8 Nov 2026.
 
-FRÆNCIS is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Berlin, Dresden, Lower Saxony and Münster. Often billed alongside JENKA, DJ Dios and KYUB. Next up: Holy Poly, Lower Saxony on Fri 20 Nov.
+FRÆNCIS is a techno and trance artist based in Germany, with 19 gigs on soundcheck across Berlin, Dresden, Lower Saxony and Münster. Often billed alongside JENKA, DJ Dios and KYUB. Next up: Lokschuppen Berlin, Berlin on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 8 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 20 Nov 2026 | Holy Poly | Lower-saxony |
 
 ## Recently played
@@ -25,4 +26,4 @@ FRÆNCIS is a techno and trance artist based in Germany, with 18 gigs on soundch
 
 JENKA, DJ Dios, KYUB
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fræncis/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fræncis/)*

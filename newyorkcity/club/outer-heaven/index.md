@@ -1,6 +1,6 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Outer Heaven presents: Nuno Carneiro" on Wed, 4 Nov 2026.
+Outer Heaven is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Outer Heaven presents: Nuno Carneiro" on Wed, 4 Nov 2026.
 
 Outer Heaven is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including Amelia Holt, CAMILLA, Carpet (F.L.H.P) and EREZ.JPG and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
@@ -23,4 +23,4 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 14 upcoming
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

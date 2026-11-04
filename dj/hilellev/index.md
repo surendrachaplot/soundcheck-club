@@ -1,13 +1,14 @@
 # Hilel Lev
 
-Hilel Lev is a House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
+Hilel Lev is a House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at StereoBar, Montreal on Sat, 28 Nov 2026.
 
-Hilel Lev is a house artist based in Canada, with 3 gigs on soundcheck across Guadalajara, Saint Martin and Toronto. Often billed alongside Bella Mutino, Bob Sinclar and Brunello. Next up: Happy Bay Beach, Saint Martin on Wed 17 Mar.
+Hilel Lev is a house artist based in Canada, with 4 gigs on soundcheck across Guadalajara, Montreal, Saint Martin and Toronto. Often billed alongside Bella Mutino, Bob Sinclar and Brunello. Next up: StereoBar, Montreal on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | StereoBar | Montreal |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
@@ -19,4 +20,4 @@ Hilel Lev is a house artist based in Canada, with 3 gigs on soundcheck across Gu
 
 Bella Mutino, Bob Sinclar, Brunello
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hilellev/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hilellev/)*

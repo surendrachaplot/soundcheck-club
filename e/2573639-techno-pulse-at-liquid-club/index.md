@@ -1,6 +1,6 @@
 # Techno Pulse at Liquid Club
 
-Techno Pulse at Liquid Club on Fri 13 Nov, Malta. 3 artists: Alex Micca, Mikeonacid and Philip Ackowsky. Techno and Minimal. See the line-up on soundcheck.
+Techno Pulse at Liquid Club on Fri 13 Nov, Malta. 4 artists: Alex Micca, Eddy D'Amato, Mikeonacid and Philip Ackowsky. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Techno Pulse at Liquid Club on Fri 13 Nov, Malta. 3 artists: Alex Micca, Mikeona
 ## Line-up
 
 - Alex Micca
+- Eddy D'Amato
 - Mikeonacid
 - Philip Ackowsky
 

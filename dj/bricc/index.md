@@ -1,6 +1,6 @@
 # Bricc
 
-Bricc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hall, Tallinn on Sat, 14 Nov 2026.
+Bricc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hall, Tallinn on Sat, 14 Nov 2026.
 
 Bricc is a techno and house artist based in Estonia, with 6 gigs on soundcheck across Barcelona and Tallinn. Often billed alongside alabama, Rummo and Brett Rästas. Next up: Hall, Tallinn on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Bricc is a techno and house artist based in Estonia, with 6 gigs on soundcheck a
 
 alabama, Rummo, Brett Rästas
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bricc/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bricc/)*

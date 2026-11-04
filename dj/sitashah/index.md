@@ -1,6 +1,6 @@
 # Sita Shah
 
-Sita Shah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
+Sita Shah is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Glove That Fits, London on Sat, 28 Nov 2026.
 
 Sita Shah is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Berlin, London and Manchester. Often billed alongside Anahita Shamsaei, Darama and SHIR.IN. Next up: The Glove That Fits, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sita Shah is a techno and house artist based in United Kingdom, with 20 gigs on 
 
 Anahita Shamsaei, Darama, SHIR.IN
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sitashah/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sitashah/)*

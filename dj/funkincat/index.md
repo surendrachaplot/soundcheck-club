@@ -1,6 +1,6 @@
 # Funkin Cat
 
-Funkin Cat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Funkin Cat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Funkin Cat is a house and techno artist, with 11 gigs on soundcheck across Seoul and South Korea. Often billed alongside Better, Adroit Joe and Bagagee Viphex13. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Funkin Cat is a house and techno artist, with 11 gigs on soundcheck across Seoul
 
 Better, Adroit Joe, Bagagee Viphex13
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkincat/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkincat/)*

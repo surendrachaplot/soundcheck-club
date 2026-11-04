@@ -1,14 +1,15 @@
 # ØZZY
 
-ØZZY is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Malta on Sat, 7 Nov 2026.
+ØZZY is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Malta on Sat, 7 Nov 2026.
 
-ØZZY is a techno and hardcore artist based in Malta, with 13 gigs on soundcheck across Malta. Often billed alongside Echofaze, Reactant and Øblivion. Next up: TBA, Malta on Sat 7 Nov.
+ØZZY is a techno and hardcore artist based in Malta, with 14 gigs on soundcheck across Malta. Often billed alongside Echofaze, Reactant and Øblivion. Next up: TBA, Malta on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA | Malta |
+| Fri, 27 Nov 2026 | Liquid Club | Malta |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Echofaze, Reactant, Øblivion
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzy-ma/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ozzy-ma/)*

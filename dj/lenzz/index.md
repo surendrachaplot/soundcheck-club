@@ -1,6 +1,6 @@
 # Lenzz
 
-Lenzz is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at De Waagh, Nijmegen on Sat, 7 Nov 2026.
+Lenzz is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at De Waagh, Nijmegen on Sat, 7 Nov 2026.
 
 Lenzz is a techno and drum & bass artist, with 5 gigs on soundcheck across Amsterdam, Berlin, Dresden and Nijmegen and 1 more. Often billed alongside Mia Banks, Blightz and Brixton. Next up: De Waagh, Nijmegen on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Lenzz is a techno and drum & bass artist, with 5 gigs on soundcheck across Amste
 
 Mia Banks, Blightz, Brixton
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenzz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenzz/)*

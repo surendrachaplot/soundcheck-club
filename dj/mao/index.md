@@ -1,6 +1,6 @@
 # MAO
 
-MAO is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+MAO is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 MAO is a house and hip-hop artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Bogotá, Madrid and Medellin and 2 more. Often billed alongside Roy (PT), Shin and SARA. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MAO is a house and hip-hop artist based in Germany, with 43 gigs on soundcheck a
 
 Roy (PT), Shin, SARA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mao/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mao/)*

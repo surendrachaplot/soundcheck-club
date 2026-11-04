@@ -1,6 +1,6 @@
 # Miradouro de Baixo
 
-Miradouro de Baixo is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "BEATROOT" on Fri, 13 Nov 2026.
+Miradouro de Baixo is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "BEATROOT" on Fri, 13 Nov 2026.
 
 Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rua de São Lázaro 72, 1150-330 Lisboa, Portugal.
 
@@ -14,4 +14,4 @@ Miradouro de Baixo is a music venue in Lisbon listed on soundcheck. 1 upcoming g
 
 Rua de São Lázaro 72, 1150-330 Lisboa, Portugal, Lisbon
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/miradouro-de-baixo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/miradouro-de-baixo/)*

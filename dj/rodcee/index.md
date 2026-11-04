@@ -1,6 +1,6 @@
 # RodCee
 
-RodCee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Basement 45, Bristol on Sat, 28 Nov 2026.
+RodCee is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Basement 45, Bristol on Sat, 28 Nov 2026.
 
 RodCee is a house and tech house artist based in United Kingdom, with 5 gigs on soundcheck across Bristol, London and Malta. Often billed alongside Dan Cluskey, LuxNL and Alex Liveris. Next up: Basement 45, Bristol on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ RodCee is a house and tech house artist based in United Kingdom, with 5 gigs on 
 
 Dan Cluskey, LuxNL, Alex Liveris
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodcee/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodcee/)*

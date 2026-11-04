@@ -1,6 +1,6 @@
 # Nienein
 
-Nienein is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at elipamanoke, Leipzig on Wed, 4 Nov 2026.
+Nienein is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at elipamanoke, Leipzig on Wed, 4 Nov 2026.
 
 Nienein is a techno and trance artist based in Germany, with 34 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside DJ STIMULA, Lars Goldammer and Siggi Petrol. Next up: elipamanoke, Leipzig on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Nienein is a techno and trance artist based in Germany, with 34 gigs on soundche
 
 DJ STIMULA, Lars Goldammer, Siggi Petrol
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nienein/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nienein/)*

@@ -1,6 +1,6 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 21 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Macadam • Mohammad Reza Mortazavi (live) ~ Luisa ~ OLGA B. ~ Bambi - curated by Bambi" on Sat, 7 Nov 2026.
+Macadam is a music venue in Nantes with 21 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Macadam • Mohammad Reza Mortazavi (live) ~ Luisa ~ OLGA B. ~ Bambi - curated by Bambi" on Sat, 7 Nov 2026.
 
 Macadam is a music venue in Nantes listed on soundcheck. 21 upcoming gigs, with line-ups including Akira Yamagata, Alexia, Bambi (FR) and Bella Sarris and 2 more. See dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
@@ -23,4 +23,4 @@ Macadam is a music venue in Nantes listed on soundcheck. 21 upcoming gigs, with 
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

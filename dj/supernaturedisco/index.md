@@ -1,6 +1,6 @@
 # Supernature Disco
 
-Supernature Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tangerine, Manchester on Fri, 6 Nov 2026.
+Supernature Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tangerine, Manchester on Fri, 6 Nov 2026.
 
 Supernature Disco is a house and disco artist based in United Kingdom, with 56 gigs on soundcheck across London, Manchester, Newcastle and North. Often billed alongside James Greenwood, Chris Massey and Jamie Bull. Next up: Tangerine, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Supernature Disco is a house and disco artist based in United Kingdom, with 56 g
 
 James Greenwood, Chris Massey, Jamie Bull
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supernaturedisco/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supernaturedisco/)*

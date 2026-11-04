@@ -1,6 +1,6 @@
 # Doula
 
-Doula is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Nightclub 101, New York City on Wed, 4 Nov 2026.
+Doula is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Nightclub 101, New York City on Wed, 4 Nov 2026.
 
 Doula is a techno and experimental artist based in United States of America, with 71 gigs on soundcheck across Atlanta, Chicago, Detroit and New York City. Often billed alongside 8ULENTINA, wahala.wav and LITA DA DOLL. Next up: Nightclub 101, New York City on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Doula is a techno and experimental artist based in United States of America, wit
 
 8ULENTINA, wahala.wav, LITA DA DOLL
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doula/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doula/)*

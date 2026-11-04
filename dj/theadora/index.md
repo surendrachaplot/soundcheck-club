@@ -1,6 +1,6 @@
 # Thea Dora
 
-Thea Dora is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at VEGA, Copenhagen on Fri, 13 Nov 2026.
+Thea Dora is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at VEGA, Copenhagen on Fri, 13 Nov 2026.
 
 Thea Dora is an electronic artist, with 5 gigs on soundcheck across Copenhagen and London. Often billed alongside AV AV AV, Ahadadream and Avalon Emerson. Next up: VEGA, Copenhagen on Fri 13 Nov.
 
@@ -21,4 +21,4 @@ Thea Dora is an electronic artist, with 5 gigs on soundcheck across Copenhagen a
 
 AV AV AV, Ahadadream, Avalon Emerson
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theadora/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theadora/)*

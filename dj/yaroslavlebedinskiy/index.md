@@ -1,6 +1,6 @@
 # Yaroslav Lebedinskiy
 
-Yaroslav Lebedinskiy is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+Yaroslav Lebedinskiy is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 Yaroslav Lebedinskiy is an electronic artist based in Russia, with 2 gigs on soundcheck across Moscow and Saint Petersburg. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ Yaroslav Lebedinskiy is an electronic artist based in Russia, with 2 gigs on sou
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaroslavlebedinskiy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yaroslavlebedinskiy/)*

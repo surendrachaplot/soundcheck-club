@@ -1,6 +1,6 @@
 # Francis99
 
-Francis99 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tell Me, Sofia on Fri, 27 Nov 2026.
+Francis99 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tell Me, Sofia on Fri, 27 Nov 2026.
 
 Francis99 is a house and techno artist based in Belgium, with 16 gigs on soundcheck across Barcelona, Brussels, Ghent and Sofia. Often billed alongside Dana Kuehr, Islas and Camiflage. Next up: Tell Me, Sofia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Francis99 is a house and techno artist based in Belgium, with 16 gigs on soundch
 
 Dana Kuehr, Islas, Camiflage
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francis99/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francis99/)*

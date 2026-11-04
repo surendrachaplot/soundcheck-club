@@ -1,6 +1,6 @@
 # Jiken
 
-Jiken is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
+Jiken is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at La Java, Paris on Tue, 10 Nov 2026.
 
 Jiken is a techno and bass artist based in France, with 15 gigs on soundcheck across Paris and Tokyo. Often billed alongside DJ FRRR, BJF and Sorun. Next up: La Java, Paris on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Jiken is a techno and bass artist based in France, with 15 gigs on soundcheck ac
 
 DJ FRRR, BJF, Sorun
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiken/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiken/)*

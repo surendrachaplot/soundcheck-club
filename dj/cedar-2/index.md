@@ -1,6 +1,6 @@
 # Cedar (2)
 
-Cedar (2) is a House and Grime artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Miscellania, Melbourne on Sat, 7 Nov 2026.
+Cedar (2) is a House and Grime artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Miscellania, Melbourne on Sat, 7 Nov 2026.
 
 Cedar is a house and grime artist based in Australia, with 6 gigs on soundcheck across Melbourne and Sydney. Often billed alongside C.FRIM, SILLYBITCHESDIE and Arkywaters. Next up: Miscellania, Melbourne on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Cedar is a house and grime artist based in Australia, with 6 gigs on soundcheck 
 
 C.FRIM, SILLYBITCHESDIE, Arkywaters
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cedar-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cedar-2/)*

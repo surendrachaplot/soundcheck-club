@@ -1,6 +1,6 @@
 # Mtkvarze
 
-Mtkvarze is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Tekkon • Sevda • Bero • Sandro Jorbenadze • Vakho" on Fri, 6 Nov 2026.
+Mtkvarze is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Tekkon • Sevda • Bero • Sandro Jorbenadze • Vakho" on Fri, 6 Nov 2026.
 
 Mtkvarze is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including 2ciu, Bero, Creams and Memotech and 2 more. See dates, start times and who's playing. Left riverbank of Mtkvari (Kura) river, Agladze str.2.
 
@@ -15,4 +15,4 @@ Mtkvarze is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with
 
 Left riverbank of Mtkvari (Kura) river, Agladze str.2, Tbilisi
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/mtkvarze/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tbilisi/club/mtkvarze/)*

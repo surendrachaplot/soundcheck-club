@@ -1,6 +1,6 @@
 # Cosmik Konnection
 
-Cosmik Konnection is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 27 Nov 2026.
+Cosmik Konnection is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ritter Butzke, Berlin on Fri, 27 Nov 2026.
 
 Cosmik Konnection is a techno and house artist, with 4 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Folic State, Ash Roy and Krumelur. Next up: Ritter Butzke, Berlin on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Cosmik Konnection is a techno and house artist, with 4 gigs on soundcheck across
 
 Folic State, Ash Roy, Krumelur
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikkonnection/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmikkonnection/)*

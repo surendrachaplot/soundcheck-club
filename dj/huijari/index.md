@@ -1,6 +1,6 @@
 # Huijari
 
-Huijari is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Huijari is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Huijari is a techno and house artist based in Finland, with 16 gigs on soundcheck across Berlin, Helsinki, London and Riga and 1 more. Often billed alongside Katvyl, Ozan and €TOM. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Huijari is a techno and house artist based in Finland, with 16 gigs on soundchec
 
 Katvyl, Ozan, €TOM
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huijari/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/huijari/)*

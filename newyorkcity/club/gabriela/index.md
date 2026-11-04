@@ -1,18 +1,26 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Jubilee // ALL NIGHT LONG" on Fri, 6 Nov 2026.
+Gabriela is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "ROMANCE w Eli Escobar" on Thu, 5 Nov 2026.
 
-Gabriela is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Bouffant Bouffant and Jubilee. See dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including Amber Valentine, Bouffant Bouffant, Danny White and Andi and 2 more. See dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 6 Nov 2026 | Jubilee // ALL NIGHT LONG | Jubilee |
 | Sat, 7 Nov 2026 | Bouffant Bouffant // ALL NIGHT LONG | Bouffant Bouffant |
+| Thu, 12 Nov 2026 | ROMANCE w Eli Escobar | Eli Escobar |
+| Fri, 13 Nov 2026 | Planet B // ALL NIGHT LONG | Planet B |
+| Sat, 14 Nov 2026 | Three of Hearts | Andi, Danny White |
+| Thu, 19 Nov 2026 | ROMANCE w Andi + Eli Escobar | Andi, Eli Escobar |
+| Fri, 20 Nov 2026 | Amber Valentine // ALL NIGHT LONG | Amber Valentine |
+| Sat, 21 Nov 2026 | Justin Strauss // ALL NIGHT LONG | Justin Strauss |
+| Thu, 26 Nov 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 
 ## Address
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

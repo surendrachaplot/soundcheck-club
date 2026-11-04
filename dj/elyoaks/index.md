@@ -1,13 +1,14 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Q Nightclub, Seattle on Sat, 7 Nov 2026.
+Ely Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Thu, 5 Nov 2026.
 
-Ely Oaks is a techno and house artist based in Austria, with 55 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 34 more. Often billed alongside Space 92, BOVSKI and DAX J. Next up: Q Nightclub, Seattle on Sat 7 Nov.
+Ely Oaks is a techno and house artist based in Austria, with 56 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 35 more. Often billed alongside Space 92, BOVSKI and DAX J. Next up: Silo Dallas, Dallas/Fort Worth on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Silo Dallas | Dallas/Fort Worth |
 | Sat, 7 Nov 2026 | Q Nightclub | Seattle |
 | Wed, 11 Nov 2026 | Bauhaus | Houston |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
@@ -31,4 +32,4 @@ Ely Oaks is a techno and house artist based in Austria, with 55 gigs on soundche
 
 Space 92, BOVSKI, DAX J
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

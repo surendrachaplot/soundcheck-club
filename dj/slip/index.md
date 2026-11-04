@@ -1,6 +1,6 @@
 # Slip
 
-Slip is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Open Air Venue, Los Angeles on Sat, 14 Nov 2026.
+Slip is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Open Air Venue, Los Angeles on Sat, 14 Nov 2026.
 
 Slip is a trance and techno artist based in United States of America, with 5 gigs on soundcheck across Los Angeles. Often billed alongside Agonis, Al Wootton and Caim. Next up: TBA - Open Air Venue, Los Angeles on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Slip is a trance and techno artist based in United States of America, with 5 gig
 
 Agonis, Al Wootton, Caim
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slip/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slip/)*

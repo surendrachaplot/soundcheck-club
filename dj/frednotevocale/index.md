@@ -1,6 +1,6 @@
 # Fred [Note Vocale]
 
-Fred [Note Vocale] is a House and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Système, Montreal on Fri, 6 Nov 2026.
+Fred [Note Vocale] is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Système, Montreal on Fri, 6 Nov 2026.
 
 Fred [Note Vocale] is a house and club artist based in France, with 20 gigs on soundcheck across Montreal. Often billed alongside Lexis (Music Is My Sanctuary), Juju le Moko and Guthrie. Next up: Système, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Fred [Note Vocale] is a house and club artist based in France, with 20 gigs on s
 
 Lexis (Music Is My Sanctuary), Juju le Moko, Guthrie
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frednotevocale/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frednotevocale/)*

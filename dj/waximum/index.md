@@ -1,6 +1,6 @@
 # Waximum
 
-Waximum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pygmalion, Dublin on Fri, 6 Nov 2026.
+Waximum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pygmalion, Dublin on Fri, 6 Nov 2026.
 
 Waximum is a house and techno artist based in Ireland, with 29 gigs on soundcheck across Dublin. Often billed alongside Royce Larøca, Hera (IE) and RealTalks Soundsystem. Next up: Pygmalion, Dublin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Waximum is a house and techno artist based in Ireland, with 29 gigs on soundchec
 
 Royce Larøca, Hera (IE), RealTalks Soundsystem
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waximum/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waximum/)*

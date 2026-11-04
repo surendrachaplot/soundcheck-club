@@ -1,14 +1,15 @@
 # Joshua Lang
 
-Joshua Lang is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 21 Nov 2026.
+Joshua Lang is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 21 Nov 2026.
 
-Joshua Lang is a house and disco artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside DJ Sylo, Ben Arsenal and Rob Paine. Next up: Warehouse on Watts, Philadelphia on Sat 21 Nov.
+Joshua Lang is a house and disco artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside DJ Sylo, Ben Arsenal and Rob Paine. Next up: Warehouse on Watts, Philadelphia on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Warehouse on Watts | Philadelphia |
+| Wed, 25 Nov 2026 | Bastet | Philadelphia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Joshua Lang is a house and disco artist based in United States of America, with 
 
 DJ Sylo, Ben Arsenal, Rob Paine
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshualang/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshualang/)*

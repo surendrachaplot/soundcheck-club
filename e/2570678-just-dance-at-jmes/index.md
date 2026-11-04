@@ -1,6 +1,6 @@
 # Just Dance at Jmes
 
-Just Dance at Jmes on Thu 5 Nov, Berlin. 3 artists: Alex Barck, Markus Tone and Shahrokh. House and Club. See the line-up on soundcheck.
+Just Dance at Jmes on Thu 5 Nov, Berlin. 4 artists: Alex Barck, Jazzanova, Markus Tone and Shahrokh. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Just Dance at Jmes on Thu 5 Nov, Berlin. 3 artists: Alex Barck, Markus Tone and 
 ## Line-up
 
 - Alex Barck
+- Jazzanova
 - Markus Tone
 - Shahrokh
 

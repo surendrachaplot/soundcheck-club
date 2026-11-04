@@ -1,6 +1,6 @@
 # Hammer
 
-Hammer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 14 Nov 2026.
+Hammer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Ulster Sports Club, Belfast on Sat, 14 Nov 2026.
 
 Hammer is a house and techno artist based in United Kingdom, with 60 gigs on soundcheck across Barcelona, Belfast, Boston and Brisbane and 16 more. Often billed alongside Bicep, CAOIMHE and Colin Perkins. Next up: The Ulster Sports Club, Belfast on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Hammer is a house and techno artist based in United Kingdom, with 60 gigs on sou
 
 Bicep, CAOIMHE, Colin Perkins
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hammer/)*

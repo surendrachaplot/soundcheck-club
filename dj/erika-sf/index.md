@@ -1,6 +1,6 @@
 # erika (SF)
 
-erika (SF) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
+erika (SF) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Signal, New York City on Thu, 5 Nov 2026.
 
 erika (SF) is a club and techno artist based in United States of America, with 112 gigs on soundcheck across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside sfcowboy, moth (US) and Lexicon. Next up: Signal, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ erika (SF) is a club and techno artist based in United States of America, with 1
 
 sfcowboy, moth (US), Lexicon
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*

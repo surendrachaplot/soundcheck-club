@@ -1,6 +1,6 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 19 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
+Horse Meat Disco is a House and Disco artist with 19 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
 
 Horse Meat Disco is a house and disco artist based in United Kingdom, with 425 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 65 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Electric Studios, Sheffield on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, with 425 g
 
 Luke Howard, James Hillard, Severino
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsemeatdisco/)*

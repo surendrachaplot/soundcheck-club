@@ -1,6 +1,6 @@
 # Technoslave_69
 
-Technoslave_69 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Technoslave_69 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Technoslave_69 is a techno and house artist based in Egypt, with 36 gigs on soundcheck across Amsterdam, Berlin, Budapest and Leipzig and 5 more. Often billed alongside Cybersex, TEKNA and 131bpm. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Technoslave_69 is a techno and house artist based in Egypt, with 36 gigs on soun
 
 Cybersex, TEKNA, 131bpm
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technoslave_69/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technoslave_69/)*

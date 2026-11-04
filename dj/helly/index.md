@@ -1,6 +1,6 @@
 # Helly
 
-Helly is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
+Helly is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
 
 Helly is a house and techno artist, with 54 gigs on soundcheck across Amsterdam, Athens, Baden W Rttemberg and Barcelona and 20 more. Often billed alongside DJ Tjizza, DJ Senc and Jacopo Latini. Next up: Concrete 1994, Lebanon on Wed 4 Nov.
 
@@ -27,4 +27,4 @@ Helly is a house and techno artist, with 54 gigs on soundcheck across Amsterdam,
 
 DJ Tjizza, DJ Senc, Jacopo Latini
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*

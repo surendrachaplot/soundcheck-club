@@ -1,6 +1,6 @@
 # Quest
 
-Quest is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Quest is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Quest is a techno and house artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 35 more. Often billed alongside Christian AB, Adiel and Marcel Dettmann. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Quest is a techno and house artist based in United Kingdom, with 104 gigs on sou
 
 Christian AB, Adiel, Marcel Dettmann
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quest/)*

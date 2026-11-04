@@ -1,6 +1,6 @@
 # Kedves Gépzaj x Kazi at Kazi
 
-Kedves Gépzaj x Kazi on Sat 7 Nov, Budapest. See the line-up on soundcheck.
+Kedves Gépzaj x Kazi on Sat 7 Nov, Budapest. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

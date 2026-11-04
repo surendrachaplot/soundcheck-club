@@ -1,8 +1,8 @@
 # Keepsakes
 
-Keepsakes is a Techno and Breakbeat artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
+Keepsakes is a Techno and Breakbeat artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
-Keepsakes is a techno and breakbeat artist based in New Zealand, with 62 gigs on soundcheck across Aberdeen, Athens, Auckland and Barcelona and 26 more. Often billed alongside The Rat, Ebb and Inverse Element. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
+Keepsakes is a techno and breakbeat artist based in New Zealand, with 63 gigs on soundcheck across Aberdeen, Athens, Auckland and Barcelona and 26 more. Often billed alongside The Rat, Ebb and Inverse Element. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Keepsakes is a techno and breakbeat artist based in New Zealand, with 62 gigs on
 | Sat, 21 Nov 2026 | D2 | Aberdeen |
 | Mon, 23 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 27 Nov 2026 | Drugstore Beograd | Belgrade |
+| Fri, 11 Dec 2026 | Galaxy Bar | Christchurch |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Keepsakes is a techno and breakbeat artist based in New Zealand, with 62 gigs on
 
 The Rat, Ebb (1), Inverse Element
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keepsakes/)*

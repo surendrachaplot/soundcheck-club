@@ -1,6 +1,6 @@
 # Jesterr
 
-Jesterr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at 5A, Lisbon on Fri, 6 Nov 2026.
+Jesterr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at 5A, Lisbon on Fri, 6 Nov 2026.
 
 Jesterr is a techno and house artist based in Portugal, with 41 gigs on soundcheck across Lisbon and Porto. Often billed alongside Salbany, Gear and Lile. Next up: 5A, Lisbon on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jesterr is a techno and house artist based in Portugal, with 41 gigs on soundche
 
 Salbany, Gear, Lile
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesterr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesterr/)*

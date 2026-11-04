@@ -1,6 +1,6 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Sub Club, Glasgow on Fri, 6 Nov 2026.
+SHERELLE is a Jungle and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sub Club, Glasgow on Fri, 6 Nov 2026.
 
 SHERELLE is a jungle and techno artist based in United Kingdom, with 193 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 60 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Sub Club, Glasgow on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ SHERELLE is a jungle and techno artist based in United Kingdom, with 193 gigs on
 
 I. JORDAN, Special Request, Job Jobse
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sherelle/)*

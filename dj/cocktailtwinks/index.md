@@ -1,14 +1,15 @@
 # Cocktail Twinks
 
-Cocktail Twinks is a Downtempo and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Berlin on Sat, 7 Nov 2026.
+Cocktail Twinks is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Berlin on Sat, 7 Nov 2026.
 
-Cocktail Twinks is a downtempo and disco artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside ego|n auflösung, Pixelflowers and Tempus Fugit. Next up: TBA, Berlin on Sat 7 Nov.
+Cocktail Twinks is a techno and downtempo artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside ego|n auflösung, Pixelflowers and Tempus Fugit. Next up: TBA, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA | Berlin |
+| Wed, 11 Nov 2026 | The B Side Bar | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cocktail Twinks is a downtempo and disco artist based in Germany, with 17 gigs o
 
 ego|n auflösung, Pixelflowers, Tempus Fugit
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cocktailtwinks/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cocktailtwinks/)*

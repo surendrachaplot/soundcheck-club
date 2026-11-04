@@ -1,6 +1,6 @@
 # Darren Roach
 
-Darren Roach is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hoxton Cabin, London on Fri, 6 Nov 2026.
+Darren Roach is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hoxton Cabin, London on Fri, 6 Nov 2026.
 
 Darren Roach is a house and tech house artist based in United Kingdom, with 20 gigs on soundcheck across Amsterdam, Hanoi, London and Melbourne and 1 more. Often billed alongside Daniel Dutts, Jake Hodgkinson and Linden C. Next up: Hoxton Cabin, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Darren Roach is a house and tech house artist based in United Kingdom, with 20 g
 
 Daniel Dutts, Jake Hodgkinson, Linden C
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenroach/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenroach/)*

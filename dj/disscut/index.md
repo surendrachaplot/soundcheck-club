@@ -1,6 +1,6 @@
 # Disscut
 
-Disscut is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Graf Karl, Kassel on Fri, 6 Nov 2026.
+Disscut is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Graf Karl, Kassel on Fri, 6 Nov 2026.
 
 Disscut is a techno artist based in Germany, with 4 gigs on soundcheck across Hamburg, Hannover, Kassel and Lower Saxony. Often billed alongside Trimzz, ANDATA and Anahit Vardanyan. Next up: Graf Karl, Kassel on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Disscut is a techno artist based in Germany, with 4 gigs on soundcheck across Ha
 
 Trimzz, ANDATA, Anahit Vardanyan
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disscut/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disscut/)*

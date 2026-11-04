@@ -1,6 +1,6 @@
 # PLATTER
 
-PLATTER is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Jasna 1, Warsaw on Fri, 6 Nov 2026.
+PLATTER is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jasna 1, Warsaw on Fri, 6 Nov 2026.
 
 PLATTER is a techno and bass artist based in Poland, with 36 gigs on soundcheck across Amsterdam, Berlin and Warsaw. Often billed alongside androgienia, g3kko and MATRIX3K. Next up: Jasna 1, Warsaw on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ PLATTER is a techno and bass artist based in Poland, with 36 gigs on soundcheck 
 
 androgienia, g3kko, MATRIX3K
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/platter/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/platter/)*

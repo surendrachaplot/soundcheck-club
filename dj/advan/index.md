@@ -1,6 +1,6 @@
 # ADVAN
 
-ADVAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kleinerts Kleine Klause, Berlin on Sat, 7 Nov 2026.
+ADVAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kleinerts Kleine Klause, Berlin on Sat, 7 Nov 2026.
 
 ADVAN is a techno and house artist, with 11 gigs on soundcheck across Berlin, Mannheim and Stuttgart. Often billed alongside Joe Back, Cem Orlow and DJ CHICHI. Next up: Kleinerts Kleine Klause, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ADVAN is a techno and house artist, with 11 gigs on soundcheck across Berlin, Ma
 
 Joe Back, Cem Orlow, DJ CHICHI
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/advan/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/advan/)*

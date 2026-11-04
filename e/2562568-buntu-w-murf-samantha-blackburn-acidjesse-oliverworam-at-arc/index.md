@@ -1,6 +1,6 @@
 # Buntu W/ Murf, SAMANTHA BLACKBURN, ACIDJESSE & OLIVERWORAM at Arch 535
 
-Buntu W/ Murf, SAMANTHA BLACKBURN, ACIDJESSE & OLIVERWORAM at Arch 535 on Sat 21 Nov, London. 1 artist: Murf. Techno and Minimal Techno. See the line-up on soundcheck.
+Buntu W/ Murf, SAMANTHA BLACKBURN, ACIDJESSE & OLIVERWORAM at Arch 535 on Sat 21 Nov, London. 3 artists: Acid Jesse, Murf and Samantha Blackburn. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Buntu W/ Murf, SAMANTHA BLACKBURN, ACIDJESSE & OLIVERWORAM at Arch 535 on Sat 21
 
 ## Line-up
 
+- Acid Jesse
 - Murf
+- Samantha Blackburn
 
 *Source: [soundcheck](https://soundcheck.club/e/2562568-buntu-w-murf-samantha-blackburn-acidjesse-oliverworam-at-arc/)*

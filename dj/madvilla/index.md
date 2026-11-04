@@ -1,6 +1,6 @@
 # MADVILLA
 
-MADVILLA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at H0L0, New York City on Sat, 7 Nov 2026.
+MADVILLA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at H0L0, New York City on Sat, 7 Nov 2026.
 
 MADVILLA is a house and tech house artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 21 more. Often billed alongside Garrett David, Benji King and Captain Wallop. Next up: H0L0, New York City on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ MADVILLA is a house and tech house artist based in United States of America, wit
 
 Garrett David, Benji King, Captain Wallop
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madvilla/)*

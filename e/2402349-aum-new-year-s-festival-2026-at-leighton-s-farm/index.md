@@ -1,6 +1,6 @@
 # AUM New Year's Festival 2026 at Leighton's Farm
 
-AUM New Year's Festival 2026 at Leighton's Farm on Wed 30 Dec, Auckland. 14 artists: Andy Vann, AROHA, DJ HMC and Frank Booker and 10 more. Techno and Psytrance. See the line-up on soundcheck.
+AUM New Year's Festival 2026 at Leighton's Farm on Wed 30 Dec, Auckland. 16 artists: Andy Vann, AROHA, DJ HMC and Frank Booker and 12 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -21,8 +21,10 @@ AUM New Year's Festival 2026 at Leighton's Farm on Wed 30 Dec, Auckland. 14 arti
 - Laughing Buddha
 - Out Of Sorts
 - Paige Julia
+- Parallel 9
 - QVEENS
 - Rob Warner
 - STERAC
+- Sterac Electronics
 
 *Source: [soundcheck](https://soundcheck.club/e/2402349-aum-new-year-s-festival-2026-at-leighton-s-farm/)*

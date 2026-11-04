@@ -1,6 +1,6 @@
 # Le Cannibale - Tama Sumo, Hiroko Hacci, Known Artist, Bipolar at NAMA - Nuovo Anfiteatro Martesana
 
-Le Cannibale - Tama Sumo, Hiroko Hacci, Known Artist, Bipolar at NAMA - Nuovo Anfiteatro Martesana on Sat 14 Nov, Milan. 3 artists: Hiroko Hacci, Known Artist and Tama Sumo. Techno and House. See the line-up on soundcheck.
+Le Cannibale - Tama Sumo, Hiroko Hacci, Known Artist, Bipolar at NAMA - Nuovo Anfiteatro Martesana on Sat 14 Nov, Milan. 4 artists: bipolar, Hiroko Hacci, Known Artist and Tama Sumo. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Le Cannibale - Tama Sumo, Hiroko Hacci, Known Artist, Bipolar at NAMA - Nuovo An
 
 ## Line-up
 
+- bipolar
 - Hiroko Hacci
 - Known Artist
 - Tama Sumo

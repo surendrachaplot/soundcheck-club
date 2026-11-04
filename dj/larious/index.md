@@ -1,6 +1,6 @@
 # LARIOUS
 
-LARIOUS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at elipamanoke, Leipzig on Fri, 27 Nov 2026.
+LARIOUS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at elipamanoke, Leipzig on Fri, 27 Nov 2026.
 
 LARIOUS is a techno and industrial artist based in Germany, with 4 gigs on soundcheck across Berlin and Leipzig. Often billed alongside AMBROXAN, CLEO and DJ Annita. Next up: elipamanoke, Leipzig on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ LARIOUS is a techno and industrial artist based in Germany, with 4 gigs on sound
 
 AMBROXAN, CLEO, DJ Annita
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larious/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larious/)*

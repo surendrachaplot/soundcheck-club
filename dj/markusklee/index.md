@@ -1,6 +1,6 @@
 # Markus Klee
 
-Markus Klee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
+Markus Klee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ritter Butzke, Berlin on Thu, 31 Dec 2026.
 
 Markus Klee is a techno and house artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Cyprus and 9 more. Often billed alongside Prismode, Solvane and Malouna. Next up: Ritter Butzke, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Markus Klee is a techno and house artist based in Germany, with 86 gigs on sound
 
 Prismode, Solvane, Malouna
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markusklee/)*

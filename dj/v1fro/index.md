@@ -1,13 +1,14 @@
 # v1fro
 
-v1fro is a Techno and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+v1fro is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Supernatural Haus, Miami on Fri, 6 Nov 2026.
 
-v1fro is a techno and latin bass artist based in Venezuela, with 46 gigs on soundcheck across Miami. Often billed alongside SATURNSARii, Berrakka and Pressure Point (US). Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
+v1fro is a techno and latin bass artist based in Venezuela, with 47 gigs on soundcheck across Miami. Often billed alongside SATURNSARii, Berrakka and Pressure Point (US). Next up: Supernatural Haus, Miami on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Supernatural Haus | Miami |
 | Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
 
 ## Recently played
@@ -25,4 +26,4 @@ v1fro is a techno and latin bass artist based in Venezuela, with 46 gigs on soun
 
 SATURNSARii, Berrakka, Pressure Point (US)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v1fro/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v1fro/)*

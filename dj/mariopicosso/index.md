@@ -1,6 +1,6 @@
 # Mario Picosso
 
-Mario Picosso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Mario Picosso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Mario Picosso is a techno and house artist based in Spain, with 28 gigs on soundcheck across Amsterdam, Barcelona, Bratislava and Buenos Aires and 3 more. Often billed alongside Maria Cue, Makam and Valody. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mario Picosso is a techno and house artist based in Spain, with 28 gigs on sound
 
 Maria Cue, Makam, Valody
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopicosso/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopicosso/)*

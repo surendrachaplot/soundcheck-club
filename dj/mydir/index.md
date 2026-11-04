@@ -1,6 +1,6 @@
 # MYDIR
 
-MYDIR is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 7 Nov 2026.
+MYDIR is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Honey Street Studio, Manchester on Sat, 7 Nov 2026.
 
 MYDIR is a house and afro house artist based in United Kingdom, with 18 gigs on soundcheck across London and Manchester. Often billed alongside Bushman (UK), Kakura and Mixed Message Music. Next up: Honey Street Studio, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MYDIR is a house and afro house artist based in United Kingdom, with 18 gigs on 
 
 Bushman (UK), Kakura, Mixed Message Music
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mydir/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mydir/)*

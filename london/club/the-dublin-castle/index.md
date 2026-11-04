@@ -1,6 +1,6 @@
 # The Dublin Castle
 
-The Dublin Castle is a music venue in London with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Electroniq feat The Last DJ" on Fri, 27 Nov 2026.
+The Dublin Castle is a music venue in London with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Electroniq feat The Last DJ" on Fri, 27 Nov 2026.
 
 The Dublin Castle is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Dublin Castle is a music venue in London listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Electroniq feat The Last DJ |  |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dublin-castle/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-dublin-castle/)*

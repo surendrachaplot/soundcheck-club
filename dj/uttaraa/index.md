@@ -1,6 +1,6 @@
 # Uttaraa
 
-Uttaraa is a Dub Techno and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 14 Nov 2026.
+Uttaraa is a Dub Techno and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 14 Nov 2026.
 
 Uttaraa is a dub techno and techno artist based in United States of America, with 5 gigs on soundcheck across Austin, Dallas/Fort Worth and New York City. Often billed alongside Oscil, alter.world and Apellum. Next up: TBA - 4211 Todd Ln Suite A, Austin on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Uttaraa is a dub techno and techno artist based in United States of America, wit
 
 Oscil, alter.world, Apellum
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uttaraa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uttaraa/)*

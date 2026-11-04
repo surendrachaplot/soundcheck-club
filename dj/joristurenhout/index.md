@@ -1,8 +1,8 @@
 # Joris Turenhout
 
-Joris Turenhout is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at John Doe, Amsterdam on Sat, 7 Nov 2026.
+Joris Turenhout is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at John Doe, Amsterdam on Sat, 7 Nov 2026.
 
-Joris Turenhout is a techno and house artist based in Netherlands, with 92 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 21 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: John Doe, Amsterdam on Sat 7 Nov.
+Joris Turenhout is a techno and house artist based in Netherlands, with 93 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 22 more. Often billed alongside Albin Brezlan, Azzurro and David Maters. Next up: John Doe, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Joris Turenhout is a techno and house artist based in Netherlands, with 92 gigs 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | John Doe | Amsterdam |
 | Fri, 4 Dec 2026 | Akvárium Klub | Budapest |
+| Sat, 30 Jan 2027 | Turmquartier | Baden-w-rttemberg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Joris Turenhout is a techno and house artist based in Netherlands, with 92 gigs 
 
 Albin Brezlan, Azzurro, David Maters
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joristurenhout/)*

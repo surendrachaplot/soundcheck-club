@@ -1,6 +1,6 @@
 # Dcurv
 
-Dcurv is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kugelbar.Berlin, Berlin on Fri, 27 Nov 2026.
+Dcurv is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kugelbar.Berlin, Berlin on Fri, 27 Nov 2026.
 
 Dcurv is a disco and house artist, with 7 gigs on soundcheck across Berlin. Often billed alongside Siho, Capisonne and Rantil. Next up: Kugelbar.Berlin, Berlin on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Dcurv is a disco and house artist, with 7 gigs on soundcheck across Berlin. Ofte
 
 Siho, Capisonne, Rantil
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dcurv/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dcurv/)*

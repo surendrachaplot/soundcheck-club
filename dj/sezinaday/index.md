@@ -1,6 +1,6 @@
 # SEZIN A DAY
 
-SEZIN A DAY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Supperclub Cruise, Amsterdam on Sat, 5 Dec 2026.
+SEZIN A DAY is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Supperclub Cruise, Amsterdam on Sat, 5 Dec 2026.
 
 SEZIN A DAY is a techno and trance artist, with 5 gigs on soundcheck across Amsterdam and Istanbul. Often billed alongside 86Hz, Alex Sharp and Bartu. Next up: Supperclub Cruise, Amsterdam on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ SEZIN A DAY is a techno and trance artist, with 5 gigs on soundcheck across Amst
 
 86Hz, Alex Sharp, Bartu
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sezinaday/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sezinaday/)*

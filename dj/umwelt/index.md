@@ -1,6 +1,6 @@
 # Umwelt
 
-Umwelt is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Le Sucre, Lyon on Sat, 21 Nov 2026.
+Umwelt is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Sucre, Lyon on Sat, 21 Nov 2026.
 
 Umwelt is a techno and electro artist based in France, with 58 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 22 more. Often billed alongside DAX J, Chloe Lula and Terence Fixmer. Next up: Le Sucre, Lyon on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Umwelt is a techno and electro artist based in France, with 58 gigs on soundchec
 
 DAX J, Chloe Lula (3), Terence Fixmer
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umwelt/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umwelt/)*

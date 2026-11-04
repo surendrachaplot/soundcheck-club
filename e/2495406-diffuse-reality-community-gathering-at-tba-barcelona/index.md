@@ -1,10 +1,10 @@
 # DIFFUSE REALITY [Community Gathering] at TBA - Barcelona
 
-DIFFUSE REALITY [Community Gathering] at TBA - Barcelona on Fri 27 Nov, Barcelona. Techno. See the line-up on soundcheck.
+DIFFUSE REALITY [Community Gathering] at TBA - Barcelona on Sat 28 Nov, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 27 Nov 2026 |
+| Date | Sat, 28 Nov 2026 |
 | Venue | TBA - Barcelona |
 | City | Barcelona |
 

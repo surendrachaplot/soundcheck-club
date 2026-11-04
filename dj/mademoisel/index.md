@@ -1,13 +1,14 @@
 # Mademoisel
 
-Mademoisel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Nulab Chengdu, Chengdu on Sat, 7 Nov 2026.
+Mademoisel is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Rugs*, Beijing on Fri, 6 Nov 2026.
 
-Mademoisel is a techno and trance artist based in United Kingdom, with 52 gigs on soundcheck across Berlin, Chengdu, Copenhagen and London and 6 more. Often billed alongside DJ SKIN, ISA (ES) and Aquamarine. Next up: Nulab Chengdu, Chengdu on Sat 7 Nov.
+Mademoisel is a techno and trance artist based in United Kingdom, with 53 gigs on soundcheck across Beijing, Berlin, Chengdu and Copenhagen and 7 more. Often billed alongside DJ SKIN, ISA (ES) and Aquamarine. Next up: Rugs*, Beijing on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Rugs* | Beijing |
 | Sat, 7 Nov 2026 | Nulab Chengdu | Chengdu |
 
 ## Recently played
@@ -25,4 +26,4 @@ Mademoisel is a techno and trance artist based in United Kingdom, with 52 gigs o
 
 DJ SKIN, ISA (ES), Aquamarine
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mademoisel/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mademoisel/)*

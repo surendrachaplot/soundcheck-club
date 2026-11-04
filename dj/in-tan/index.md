@@ -1,6 +1,6 @@
 # In-Tan
 
-In-Tan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at OXI, Berlin on Tue, 10 Nov 2026.
+In-Tan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at OXI, Berlin on Tue, 10 Nov 2026.
 
 In-Tan is a techno and house artist based in Indonesia, with 57 gigs on soundcheck across Berlin, Lyon, Marseille and Paris. Often billed alongside Kelbail, Cattoni and Artifak. Next up: OXI, Berlin on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ In-Tan is a techno and house artist based in Indonesia, with 57 gigs on soundche
 
 Kelbail, Cattoni, Artifak
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in-tan/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in-tan/)*

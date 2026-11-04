@@ -1,6 +1,6 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Rhondavous: The Ravesgiving" on Wed, 25 Nov 2026.
+Catch One is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Rhondavous: The Ravesgiving" on Wed, 25 Nov 2026.
 
 Catch One is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
@@ -14,4 +14,4 @@ Catch One is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. 
 
 4067 W Pico Blvd, Los Angeles, CA 90019, Los Angeles
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/catch-one/)*

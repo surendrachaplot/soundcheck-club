@@ -1,6 +1,6 @@
 # Noah Shah
 
-Noah Shah is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Schwarzes Schaf, Baden-w-rttemberg on Sat, 21 Nov 2026.
+Noah Shah is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Schwarzes Schaf, Baden-w-rttemberg on Sat, 21 Nov 2026.
 
 Noah Shah is a techno and house artist based in Germany, with 13 gigs on soundcheck across Baden W Rttemberg, Hannover and Stuttgart. Often billed alongside Marius Lehnert, Dualtech and 8KAYS. Next up: Schwarzes Schaf, Baden W Rttemberg on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Noah Shah is a techno and house artist based in Germany, with 13 gigs on soundch
 
 Marius Lehnert, Dualtech, 8KAYS
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahshah/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noahshah/)*

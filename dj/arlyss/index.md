@@ -1,14 +1,15 @@
 # ARLYSS
 
-ARLYSS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Grow, London on Fri, 6 Nov 2026.
+ARLYSS is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Grow, London on Fri, 6 Nov 2026.
 
-ARLYSS is a house and disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam and London. Often billed alongside Davide Del Vecchio, Alfaz and Dan Cluskey. Next up: Grow, London on Fri 6 Nov.
+ARLYSS is a house and disco artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam and London. Often billed alongside Davide Del Vecchio, Alfaz and Dan Cluskey. Next up: Grow, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Grow | London |
+| Sat, 14 Nov 2026 | Tola | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ARLYSS is a house and disco artist based in United Kingdom, with 63 gigs on soun
 
 Davide Del Vecchio, Alfaz, Dan Cluskey
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlyss/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arlyss/)*

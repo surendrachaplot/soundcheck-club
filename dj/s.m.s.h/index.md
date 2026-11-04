@@ -1,6 +1,6 @@
 # S.M.S.H
 
-S.M.S.H is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 6 Nov 2026.
+S.M.S.H is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 6 Nov 2026.
 
 S.M.S.H is a techno and trance artist based in China, with 100 gigs on soundcheck across Beijing, Chengdu, Seoul and Shanghai and 1 more. Often billed alongside W.X.M, Skögul and SØA. Next up: Pillbox Beijing, Beijing on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ S.M.S.H is a techno and trance artist based in China, with 100 gigs on soundchec
 
 W.X.M, Skögul, SØA (1)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.m.s.h/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.m.s.h/)*

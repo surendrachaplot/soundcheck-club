@@ -1,0 +1,11 @@
+# RAVELAND: Hard Groove & Hypnotic with Tranz, Altimetria & Natasha Kalna at John Doe
+
+RAVELAND: Hard Groove & Hypnotic with Tranz, Altimetria & Natasha Kalna at John Doe on Wed 11 Nov, Amsterdam. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 11 Nov 2026 |
+| Venue | John Doe |
+| City | Amsterdam |
+
+*Source: [soundcheck](https://soundcheck.club/e/2521093-raveland-hard-groove-hypnotic-with-tranz-altimetria-natasha/)*

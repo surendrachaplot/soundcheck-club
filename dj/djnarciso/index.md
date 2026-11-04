@@ -1,6 +1,6 @@
 # DJ Narciso
 
-DJ Narciso is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
+DJ Narciso is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
 
 DJ Narciso is a techno and experimental artist based in Portugal, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside DJ Lycox, DJ Marfox and DJ Firmeza. Next up: Ministerium Club, Lisbon on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ DJ Narciso is a techno and experimental artist based in Portugal, with 41 gigs o
 
 DJ Lycox, DJ Marfox, DJ Firmeza
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnarciso/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnarciso/)*

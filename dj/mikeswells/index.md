@@ -1,6 +1,6 @@
 # Mike Swells
 
-Mike Swells is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Parkside Lounge, New York City on Sun, 8 Nov 2026.
+Mike Swells is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Parkside Lounge, New York City on Sun, 8 Nov 2026.
 
 Mike Swells is a house and techno artist based in United States of America, with 14 gigs on soundcheck across Boston, Detroit and New York City. Often billed alongside Alinka, BEYA and Bob The Egoist. Next up: The Parkside Lounge, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Mike Swells is a house and techno artist based in United States of America, with
 
 Alinka, BEYA, Bob The Egoist
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeswells/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeswells/)*

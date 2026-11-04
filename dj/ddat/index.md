@@ -1,6 +1,6 @@
 # DDAT
 
-DDAT is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Archa+, Prague on Fri, 20 Nov 2026.
+DDAT is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Archa+, Prague on Fri, 20 Nov 2026.
 
 DDAT is a techno and idm artist based in Czech Republic, with 9 gigs on soundcheck across Bologna and Prague. Often billed alongside Madeleine, Atch22 and Edits. Next up: Archa+, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DDAT is a techno and idm artist based in Czech Republic, with 9 gigs on soundche
 
 Madeleine, Atch22, Edits
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddat/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddat/)*

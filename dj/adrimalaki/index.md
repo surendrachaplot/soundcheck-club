@@ -1,6 +1,6 @@
 # Adri Malaki
 
-Adri Malaki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Elsewhere, Bangkok on Fri, 6 Nov 2026.
+Adri Malaki is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Elsewhere, Bangkok on Fri, 6 Nov 2026.
 
 Adri Malaki is a techno and house artist, with 4 gigs on soundcheck across Bangkok and Manila. Often billed alongside OK.Hara, RANDY SALVADOR and Darkbark. Next up: Elsewhere, Bangkok on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Adri Malaki is a techno and house artist, with 4 gigs on soundcheck across Bangk
 
 OK.Hara, RANDY SALVADOR, Darkbark
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrimalaki/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrimalaki/)*

@@ -1,8 +1,8 @@
 # Young Sun
 
-Young Sun is a Tech House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 6 Nov 2026.
+Young Sun is a Tech House and Minimal Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Les Enfants Brillants, Barcelona on Fri, 6 Nov 2026.
 
-Young Sun is a tech house and minimal techno artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Boston and 10 more. Often billed alongside .2ndfloor, Lyumin and Mihak. Next up: Les Enfants Brillants, Barcelona on Fri 6 Nov.
+Young Sun is a tech house and minimal techno artist based in United States of America, with 112 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 11 more. Often billed alongside .2ndfloor, Lyumin and Mihak. Next up: Les Enfants Brillants, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Young Sun is a tech house and minimal techno artist based in United States of Am
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 7 Nov 2026 | NAMA - Nuovo Anfiteatro Martesana | Milan |
+| Sat, 14 Nov 2026 | Ilion Plus | Athens |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Young Sun is a tech house and minimal techno artist based in United States of Am
 
 .2ndfloor, Lyumin, Mihak
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsun/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsun/)*

@@ -1,14 +1,15 @@
 # yarx
 
-yarx is a Dubstep and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Lucia, Vienna on Sat, 28 Nov 2026.
+yarx is a Dubstep and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Lucia, Vienna on Sat, 28 Nov 2026.
 
-yarx is a dubstep and jungle artist based in Turkey, with 20 gigs on soundcheck across Austria, Hamburg and Vienna. Often billed alongside neon.kotze, Antonia XM and Peter Puenktlich. Next up: Club Lucia, Vienna on Sat 28 Nov.
+yarx is a dubstep and jungle artist based in Turkey, with 21 gigs on soundcheck across Austria, Hamburg and Vienna. Often billed alongside neon.kotze, Antonia XM and Peter Puenktlich. Next up: Club Lucia, Vienna on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Club Lucia | Vienna |
+| Sat, 6 Feb 2027 | Club Lucia | Vienna |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ yarx is a dubstep and jungle artist based in Turkey, with 20 gigs on soundcheck 
 
 neon.kotze, Antonia XM, Peter Puenktlich (2)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yarx/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yarx/)*

@@ -1,6 +1,6 @@
 # Comfy Bella
 
-Comfy Bella is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Crowdedhouse, London on Sat, 24 Apr 2027.
+Comfy Bella is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Crowdedhouse, London on Sat, 24 Apr 2027.
 
 Comfy Bella is a house and deep house artist, with 5 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Sara Garvey, Bambooman and Banoffee Pies. Next up: Crowdedhouse, London on Sat 24 Apr.
 
@@ -21,4 +21,4 @@ Comfy Bella is a house and deep house artist, with 5 gigs on soundcheck across L
 
 Sara Garvey, Bambooman, Banoffee Pies
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comfybella/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comfybella/)*

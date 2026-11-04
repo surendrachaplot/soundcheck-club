@@ -1,6 +1,6 @@
 # Lizzy LoOp
 
-Lizzy LoOp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+Lizzy LoOp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
 
 Lizzy LoOp is a house and techno artist, with 4 gigs on soundcheck across Berlin. Often billed alongside Aslan Venom, Einfach Taffo and Jabuka. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
 
@@ -20,4 +20,4 @@ Lizzy LoOp is a house and techno artist, with 4 gigs on soundcheck across Berlin
 
 Aslan Venom, Einfach Taffo, Jabuka
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzyloop/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizzyloop/)*

@@ -1,6 +1,6 @@
 # Eluzid
 
-Eluzid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kurt & Komisch, Bavaria on Fri, 6 Nov 2026.
+Eluzid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kurt & Komisch, Bavaria on Fri, 6 Nov 2026.
 
 Eluzid is a techno and house artist based in Germany, with 70 gigs on soundcheck across Bavaria, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Amin Fallaha, Miran N and aitch. Next up: Kurt & Komisch, Bavaria on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Eluzid is a techno and house artist based in Germany, with 70 gigs on soundcheck
 
 Amin Fallaha, Miran N, aitch
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eluzid/)*

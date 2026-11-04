@@ -1,6 +1,6 @@
-# tender handshake at El Secreto De Rosita
+# tender. handshake at El Secreto De Rosita
 
-tender handshake at El Secreto De Rosita on Sat 21 Nov, Washington DC. 5 artists: Artemis.105, lady lavender, Nile Ashton and Nocturnal Wax and 1 more. Techno and Electro. See the line-up on soundcheck.
+tender. handshake at El Secreto De Rosita on Sat 21 Nov, Washington DC. 6 artists: Artemis.105, lady lavender, Nile Ashton and Nocturnal Wax and 2 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ tender handshake at El Secreto De Rosita on Sat 21 Nov, Washington DC. 5 artists
 - lady lavender
 - Nile Ashton
 - Nocturnal Wax
+- secret handshake
 - side II side
 
 *Source: [soundcheck](https://soundcheck.club/e/2575059-tender-handshake-at-el-secreto-de-rosita/)*

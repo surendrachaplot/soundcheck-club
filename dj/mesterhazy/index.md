@@ -1,6 +1,6 @@
 # Mesterhazy
 
-Mesterhazy is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Atno, Budapest on Fri, 6 Nov 2026.
+Mesterhazy is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Atno, Budapest on Fri, 6 Nov 2026.
 
 Mesterhazy is an electro and techno artist based in Hungary, with 14 gigs on soundcheck across Budapest. Often billed alongside Ben Dover, Galactic Jackson and LAU. Next up: Atno, Budapest on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mesterhazy is an electro and techno artist based in Hungary, with 14 gigs on sou
 
 Ben Dover, Galactic Jackson, LAU (6)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mesterhazy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mesterhazy/)*

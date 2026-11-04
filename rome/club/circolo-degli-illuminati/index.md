@@ -1,6 +1,6 @@
 # Circolo degli Illuminati
 
-Circolo degli Illuminati is a music venue in Rome with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "FACE x Bazaar84th - Circolo degli Illuminati" on Fri, 6 Nov 2026.
+Circolo degli Illuminati is a music venue in Rome with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "FACE x Bazaar84th - Circolo degli Illuminati" on Fri, 6 Nov 2026.
 
 Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 4 upcoming gigs, with line-ups including Alci, Cristi Cons, Germano Ventura and Mennie and 2 more. See dates, start times and who's playing. Via Giuseppe Libetta 1, 00154 Roma (RM), Italy.
 
@@ -17,4 +17,4 @@ Circolo degli Illuminati is a music venue in Rome listed on soundcheck. 4 upcomi
 
 Via Giuseppe Libetta 1, 00154 Roma (RM), Italy, Rome
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/circolo-degli-illuminati/)*

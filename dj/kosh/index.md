@@ -1,6 +1,6 @@
 # Kosh
 
-Kosh is a Dub Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Delgalleria - Espa, Helsinki on Sat, 14 Nov 2026.
+Kosh is a Dub Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Delgalleria - Espa, Helsinki on Sat, 14 Nov 2026.
 
 Kosh is a dub techno and minimal techno artist, with 4 gigs on soundcheck across Amsterdam, Helsinki, Istanbul and Milan. Often billed alongside Anthea, Astral Travel and Foghan. Next up: Delgalleria - Espa, Helsinki on Sat 14 Nov.
 
@@ -20,4 +20,4 @@ Kosh is a dub techno and minimal techno artist, with 4 gigs on soundcheck across
 
 Anthea, Astral Travel, Foghan
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kosh/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kosh/)*

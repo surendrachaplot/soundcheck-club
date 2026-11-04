@@ -1,6 +1,6 @@
 # Riviera Beach Club
 
-Riviera Beach Club is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Sundrift x Club Dabke pres. Dj Habibbeats + CHAMOS + Special K" on Sun, 6 Dec 2026.
+Riviera Beach Club is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sundrift x Club Dabke pres. Dj Habibbeats + CHAMOS + Special K" on Sun, 6 Dec 2026.
 
 Riviera Beach Club is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including CHAMOS, DJ Habibeats, Elderbrook and Laidback Luke and 2 more. See dates, start times and who's playing. 42B Marine Parade, Elwood VIC 3184.
 
@@ -16,4 +16,4 @@ Riviera Beach Club is a music venue in Melbourne listed on soundcheck. 3 upcomin
 
 42B Marine Parade, Elwood VIC 3184, Melbourne
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/riviera-beach-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/riviera-beach-club/)*

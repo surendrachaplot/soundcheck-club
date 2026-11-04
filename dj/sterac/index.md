@@ -1,6 +1,6 @@
 # STERAC
 
-STERAC is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+STERAC is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 STERAC is a techno and house artist based in Netherlands, with 101 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 35 more. Often billed alongside Lady Starlight, Ben Klock and Steve Rachmad. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ STERAC is a techno and house artist based in Netherlands, with 101 gigs on sound
 
 Lady Starlight, Ben Klock, Steve Rachmad
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterac/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterac/)*

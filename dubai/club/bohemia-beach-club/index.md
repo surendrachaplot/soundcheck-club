@@ -1,6 +1,6 @@
 # Bohemia Beach Club
 
-Bohemia Beach Club is a music venue in Dubai with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Bohemia presents Jonas Blue" on Sat, 7 Nov 2026.
+Bohemia Beach Club is a music venue in Dubai with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Bohemia presents Jonas Blue" on Sat, 7 Nov 2026.
 
 Bohemia Beach Club is a music venue in Dubai listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Wann, Jonas Blue, Miguelle and SONA and 2 more. See dates, start times and who's playing. FIVE Palm Jumeirah - No 1 - The Palm Jumeirah -  Dubai - United Arab Emirates.
 
@@ -19,4 +19,4 @@ Bohemia Beach Club is a music venue in Dubai listed on soundcheck. 6 upcoming gi
 
 FIVE Palm Jumeirah - No 1 - The Palm Jumeirah -  Dubai - United Arab Emirates, Dubai
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/bohemia-beach-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/bohemia-beach-club/)*

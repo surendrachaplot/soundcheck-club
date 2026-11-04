@@ -1,6 +1,6 @@
 # T.PLAYBOI
 
-T.PLAYBOI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
+T.PLAYBOI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Südpol, Hamburg on Fri, 4 Dec 2026.
 
 T.PLAYBOI is a techno and house artist based in Germany, with 26 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Hannover. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Südpol, Hamburg on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ T.PLAYBOI is a techno and house artist based in Germany, with 26 gigs on soundch
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.playboi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.playboi/)*

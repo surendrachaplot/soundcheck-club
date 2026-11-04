@@ -1,6 +1,6 @@
 # BALAI
 
-BALAI is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Rodenburg, Netherlands on Fri, 27 Nov 2026.
+BALAI is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Rodenburg, Netherlands on Fri, 27 Nov 2026.
 
 BALAI is a techno artist based in Netherlands, with 4 gigs on soundcheck across Amsterdam, Netherlands and Utrecht. Often billed alongside DJ Perroz, RobertS (NL) and Rein (NL). Next up: Club Rodenburg, Netherlands on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ BALAI is a techno artist based in Netherlands, with 4 gigs on soundcheck across 
 
 DJ Perroz, RobertS (NL), Rein (NL)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balai/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/balai/)*

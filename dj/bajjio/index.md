@@ -1,6 +1,6 @@
 # Bajjio
 
-Bajjio is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location, London on Sat, 7 Nov 2026.
+Bajjio is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location, London on Sat, 7 Nov 2026.
 
 Bajjio is a minimal and house artist, with 5 gigs on soundcheck across London. Often billed alongside Moonz, DeRizzio and Enrico Chirchiello. Next up: TBA - Secret Location, London on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Bajjio is a minimal and house artist, with 5 gigs on soundcheck across London. O
 
 Moonz, DeRizzio, Enrico Chirchiello
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bajjio/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bajjio/)*

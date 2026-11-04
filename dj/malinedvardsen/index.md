@@ -1,6 +1,6 @@
 # Malin Edvardsen
 
-Malin Edvardsen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Stockholm on Fri, 6 Nov 2026.
+Malin Edvardsen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Stockholm on Fri, 6 Nov 2026.
 
 Malin Edvardsen is a techno and house artist based in Sweden, with 19 gigs on soundcheck across Stockholm. Often billed alongside Jessie Granqvist, Marble and Y+M. Next up: TBA, Stockholm on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Malin Edvardsen is a techno and house artist based in Sweden, with 19 gigs on so
 
 Jessie Granqvist, Marble, Y+M
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malinedvardsen/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malinedvardsen/)*

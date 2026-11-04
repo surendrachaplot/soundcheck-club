@@ -1,6 +1,6 @@
 # Optimuss
 
-Optimuss is a Industrial and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
+Optimuss is a Industrial and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at K-30, Saint-petersburg on Sat, 7 Nov 2026.
 
 Optimuss is an industrial and techno artist based in Russia, with 8 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Budapest and 3 more. Often billed alongside ALOD, Chain Damage and Gemüt. Next up: K-30, Saint Petersburg on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Optimuss is an industrial and techno artist based in Russia, with 8 gigs on soun
 
 ALOD, Chain Damage, Gemüt
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optimuss/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optimuss/)*

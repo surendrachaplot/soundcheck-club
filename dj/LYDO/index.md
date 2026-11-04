@@ -1,6 +1,6 @@
 # LYDO
 
-LYDO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at BASEMENT, New York City on Sat, 14 Nov 2026.
+LYDO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at BASEMENT, New York City on Sat, 14 Nov 2026.
 
 LYDO is a techno and house artist based in United States of America, with 133 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Boston and 22 more. Often billed alongside Clarisa Kimskii, Matas and BASHKKA. Next up: BASEMENT, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ LYDO is a techno and house artist based in United States of America, with 133 gi
 
 Clarisa Kimskii, Matas, BASHKKA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/LYDO/)*

@@ -1,6 +1,6 @@
 # Interesting Results
 
-Interesting Results is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Holy Diver, Louisiana on Wed, 4 Nov 2026.
+Interesting Results is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Holy Diver, Louisiana on Wed, 4 Nov 2026.
 
 Interesting Results is an electro and techno artist based in United States of America, with 34 gigs on soundcheck across Louisiana, New Orleans and New York City. Often billed alongside Nonlethal Weapons, Leisure Muffin and Danny White. Next up: Holy Diver, Louisiana on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Interesting Results is an electro and techno artist based in United States of Am
 
 Nonlethal Weapons, Leisure Muffin, Danny White
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interestingresults/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interestingresults/)*

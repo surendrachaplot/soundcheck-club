@@ -1,13 +1,14 @@
 # rogue.wav
 
-rogue.wav is a Club and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Trans-Pecos, New York City on Sat, 21 Nov 2026.
+rogue.wav is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at White Rabbit, San Francisco/Oakland on Thu, 5 Nov 2026.
 
-rogue.wav is a club and electronica artist based in United States of America, with 18 gigs on soundcheck across Manila, Mexico City, Miami and New York City and 1 more. Often billed alongside Castillonaire, Dwai and WILHELMINA. Next up: Trans-Pecos, New York City on Sat 21 Nov.
+rogue.wav is a club and house artist based in United States of America, with 19 gigs on soundcheck across Manila, Mexico City, Miami and New York City and 2 more. Often billed alongside Castillonaire, Dwai and WILHELMINA. Next up: White Rabbit, San Francisco/Oakland on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | White Rabbit | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Trans-Pecos | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ rogue.wav is a club and electronica artist based in United States of America, wi
 
 Castillonaire, Dwai, WILHELMINA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rogue.wav/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rogue.wav/)*

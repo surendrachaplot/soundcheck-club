@@ -1,6 +1,6 @@
 # Piya Zawa
 
-Piya Zawa is a Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Z-Bau, Nürnberg on Fri, 6 Nov 2026.
+Piya Zawa is a Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Z-Bau, Nürnberg on Fri, 6 Nov 2026.
 
 Piya Zawa is a bass artist, with 4 gigs on soundcheck across Munich, Nürnberg, Prague and Vienna. Often billed alongside Lens. Next up: Z-Bau, Nürnberg on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Piya Zawa is a bass artist, with 4 gigs on soundcheck across Munich, Nürnberg, 
 
 Lens (2)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piyazawa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/piyazawa/)*

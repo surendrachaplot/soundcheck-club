@@ -1,6 +1,6 @@
 # KING (3)
 
-KING (3) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+KING (3) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 KING is a tech house and house artist, with 5 gigs on soundcheck across Montreal, New York City, South Korea and Sydney and 1 more. Often billed alongside Nurse (UK), A K and Adam Feingold. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ KING is a tech house and house artist, with 5 gigs on soundcheck across Montreal
 
 Nurse (UK), A K, Adam Feingold
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/king-3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/king-3/)*

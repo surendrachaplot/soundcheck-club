@@ -1,6 +1,6 @@
 # Mincore
 
-Mincore is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at gallery 1986, Vilnius on Fri, 13 Nov 2026.
+Mincore is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at gallery 1986, Vilnius on Fri, 13 Nov 2026.
 
 Mincore is a techno and club artist based in Lithuania, with 4 gigs on soundcheck across Rotterdam and Vilnius. Often billed alongside Symbiotica, AnG (NL) and Audrius Ramuva. Next up: gallery 1986, Vilnius on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ Mincore is a techno and club artist based in Lithuania, with 4 gigs on soundchec
 
 Symbiotica, AnG (NL), Audrius Ramuva
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mincore/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mincore/)*

@@ -1,13 +1,14 @@
 # Andreas Palmer
 
-Andreas Palmer is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Universe Athens, Athens on Fri, 27 Nov 2026.
+Andreas Palmer is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at High On Sugar, Thessaloniki on Fri, 6 Nov 2026.
 
-Andreas Palmer is a club and techno artist based in Greece, with 64 gigs on soundcheck across Athens, Brussels and Thessaloniki. Often billed alongside Blue Lagoon, Miss Trouli and pink.wav. Next up: Universe Athens, Athens on Fri 27 Nov.
+Andreas Palmer is a club and bass artist based in Greece, with 65 gigs on soundcheck across Athens, Brussels and Thessaloniki. Often billed alongside Blue Lagoon, Miss Trouli and pink.wav. Next up: High On Sugar, Thessaloniki on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | High On Sugar | Thessaloniki |
 | Fri, 27 Nov 2026 | Universe Athens | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ Andreas Palmer is a club and techno artist based in Greece, with 64 gigs on soun
 
 Blue Lagoon, Miss Trouli, pink.wav
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaspalmer/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreaspalmer/)*

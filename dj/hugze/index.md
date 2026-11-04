@@ -1,8 +1,8 @@
 # Hugze
 
-Hugze is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Weetamix, Geneva on Sat, 14 Nov 2026.
+Hugze is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Weetamix, Geneva on Sat, 14 Nov 2026.
 
-Hugze is a minimal and tech house artist, with 5 gigs on soundcheck across Geneva and Paris. Often billed alongside Djack's, Cora M. and Edo.1. Next up: Weetamix, Geneva on Sat 14 Nov.
+Hugze is a minimal and tech house artist based in Switzerland, with 5 gigs on soundcheck across Geneva and Paris. Often billed alongside Djack's, Cora M. and Edo.1. Next up: Weetamix, Geneva on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Hugze is a minimal and tech house artist, with 5 gigs on soundcheck across Genev
 
 Djack's, Cora M., Edo.1
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugze/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugze/)*

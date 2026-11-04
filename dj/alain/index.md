@@ -1,6 +1,6 @@
 # Alain
 
-Alain is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Chinastraat, Ghent on Fri, 6 Nov 2026.
+Alain is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Chinastraat, Ghent on Fri, 6 Nov 2026.
 
 Alain is a house and techno artist, with 4 gigs on soundcheck across Amsterdam, Ghent and Zagreb. Often billed alongside ROMSY, Animula and Chinnamasta. Next up: Chinastraat, Ghent on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Alain is a house and techno artist, with 4 gigs on soundcheck across Amsterdam, 
 
 ROMSY, Animula, Chinnamasta
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alain/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alain/)*

@@ -1,6 +1,6 @@
 # Some Chemistry
 
-Some Chemistry is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
+Some Chemistry is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
 
 Some Chemistry is a house and deep house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Mexico City and 2 more. Often billed alongside SHMLSS, UN/POLISHED and Noraj Cue. Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Some Chemistry is a house and deep house artist based in Netherlands, with 31 gi
 
 SHMLSS, UN/POLISHED, Noraj Cue
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somechemistry/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somechemistry/)*

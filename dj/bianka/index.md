@@ -1,6 +1,6 @@
 # BIANKA
 
-BIANKA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+BIANKA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 BIANKA is a techno and house artist based in Venezuela, with 42 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Cologne and 6 more. Often billed alongside Hashashin, Maria Cue and Valody. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ BIANKA is a techno and house artist based in Venezuela, with 42 gigs on soundche
 
 Hashashin, Maria Cue, Valody
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bianka/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bianka/)*

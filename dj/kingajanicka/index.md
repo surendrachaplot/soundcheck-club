@@ -1,8 +1,8 @@
 # Kinga Janicka
 
-Kinga Janicka is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
+Kinga Janicka is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
 
-Kinga Janicka is a techno and breakbeat artist, with 6 gigs on soundcheck across Brighton and London. Often billed alongside Simon Mós, DJ Counselling and AM sin. Next up: M.O.T, London on Thu 19 Nov.
+Kinga Janicka is a techno and breakbeat artist based in United Kingdom, with 6 gigs on soundcheck across Brighton and London. Often billed alongside Simon Mós, DJ Counselling and AM sin. Next up: M.O.T, London on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Kinga Janicka is a techno and breakbeat artist, with 6 gigs on soundcheck across
 
 Simon Mós, DJ Counselling, AM sin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingajanicka/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingajanicka/)*

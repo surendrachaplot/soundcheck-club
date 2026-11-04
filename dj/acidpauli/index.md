@@ -1,8 +1,8 @@
 # Acid Pauli
 
-Acid Pauli is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kieth Flack, Kyushu on Fri, 6 Nov 2026.
+Acid Pauli is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kieth Flack, Kyushu on Fri, 6 Nov 2026.
 
-Acid Pauli is a house and techno artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 39 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Kieth Flack, Kyushu on Fri 6 Nov.
+Acid Pauli is a house and techno artist based in Germany, with 107 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 39 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Kieth Flack, Kyushu on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Acid Pauli is a house and techno artist based in Germany, with 106 gigs on sound
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Kieth Flack | Kyushu |
 | Sat, 7 Nov 2026 | MIDNIGHT EAST | Tokyo |
+| Sat, 28 Nov 2026 | Kater | Berlin |
 | Fri, 11 Dec 2026 | Sala Villanos | Madrid |
 | Sat, 19 Dec 2026 | fi | Cologne |
 
@@ -28,4 +29,4 @@ Acid Pauli is a house and techno artist based in Germany, with 106 gigs on sound
 
 Viken Arman, Damian Lazarus, Jonathan Kaspar
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidpauli/)*

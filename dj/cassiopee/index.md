@@ -1,6 +1,6 @@
 # CASSIOPÉE
 
-CASSIOPÉE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at La Java, Paris on Fri, 6 Nov 2026.
+CASSIOPÉE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at La Java, Paris on Fri, 6 Nov 2026.
 
 CASSIOPÉE is a techno and trance artist, with 4 gigs on soundcheck across Brussels and Paris. Often billed alongside A.G, Anthony Rother and Brassac. Next up: La Java, Paris on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ CASSIOPÉE is a techno and trance artist, with 4 gigs on soundcheck across Bruss
 
 A.G (1), Anthony Rother, Brassac
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassiopee/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassiopee/)*

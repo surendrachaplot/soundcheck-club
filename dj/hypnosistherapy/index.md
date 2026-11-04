@@ -1,6 +1,6 @@
 # HYPNOSIS THERAPY
 
-HYPNOSIS THERAPY is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+HYPNOSIS THERAPY is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 HYPNOSIS THERAPY is a techno and hardcore artist based in South Korea, with 20 gigs on soundcheck across Berlin, Bristol, Copenhagen and Leeds and 6 more. Often billed alongside Afrodite, Closet Yi and DJ Jinwook. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ HYPNOSIS THERAPY is a techno and hardcore artist based in South Korea, with 20 g
 
 Afrodite (2), Closet Yi, DJ Jinwook
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosistherapy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypnosistherapy/)*

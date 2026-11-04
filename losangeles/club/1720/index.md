@@ -1,6 +1,6 @@
 # 1720
 
-1720 is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "D.A.N.C.E: 10 Year feat. Bag Raiders, Uffie, & CSS" on Fri, 6 Nov 2026.
+1720 is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "D.A.N.C.E: 10 Year feat. Bag Raiders, Uffie, & CSS" on Fri, 6 Nov 2026.
 
 1720 is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Bag Raiders, CSS, Juliet Mendoza and Klangkarussell and 2 more. See dates, start times and who's playing. 1720 E. 16th Ave, Los Angeles, CA 90021.
 
@@ -19,4 +19,4 @@
 
 1720 E. 16th Ave, Los Angeles, CA 90021, Los Angeles
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/1720/)*

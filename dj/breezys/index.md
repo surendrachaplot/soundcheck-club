@@ -1,6 +1,6 @@
 # Breezy S
 
-Breezy S is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 8 Nov 2026.
+Breezy S is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 8 Nov 2026.
 
 Breezy S is a house and electro artist based in Spain, with 51 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside Miguel Silva, Mikaella and Djoan. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Breezy S is a house and electro artist based in Spain, with 51 gigs on soundchec
 
 Miguel Silva, Mikaella, Djoan
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breezys/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/breezys/)*

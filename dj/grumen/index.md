@@ -1,6 +1,6 @@
 # Grumen
 
-Grumen is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Aquarius Zagreb, Zagreb on Fri, 20 Nov 2026.
+Grumen is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Aquarius Zagreb, Zagreb on Fri, 20 Nov 2026.
 
 Grumen is a bass and techno artist based in Croatia, with 18 gigs on soundcheck across Belgrade, Ljubljana and Zagreb. Often billed alongside El Commando, Fabian Mateša and Hassan Abou Alam. Next up: Aquarius Zagreb, Zagreb on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Grumen is a bass and techno artist based in Croatia, with 18 gigs on soundcheck 
 
 El Commando, Fabian Mateša, Hassan Abou Alam
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grumen/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grumen/)*

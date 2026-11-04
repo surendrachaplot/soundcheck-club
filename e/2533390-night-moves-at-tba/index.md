@@ -1,6 +1,6 @@
 # NIGHT MOVES at TBA
 
-NIGHT MOVES at TBA on Sat 21 Nov, London. 2 artists: Jade Seatle and Jane Fitz. Deep House and Acid. See the line-up on soundcheck.
+NIGHT MOVES at TBA on Sat 21 Nov, London. 3 artists: Jade Seatle, Jane Fitz and Vera. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ NIGHT MOVES at TBA on Sat 21 Nov, London. 2 artists: Jade Seatle and Jane Fitz. 
 
 - Jade Seatle
 - Jane Fitz
+- Vera
 
 *Source: [soundcheck](https://soundcheck.club/e/2533390-night-moves-at-tba/)*

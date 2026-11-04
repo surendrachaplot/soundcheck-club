@@ -1,6 +1,6 @@
 # DVBBS
 
-DVBBS is a House and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at V2 Tokyo, Tokyo on Thu, 3 Dec 2026.
+DVBBS is a House and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at V2 Tokyo, Tokyo on Thu, 3 Dec 2026.
 
 DVBBS is a house and industrial artist based in Canada, with 8 gigs on soundcheck across Austin, Boston, Cologne and London and 4 more. Often billed alongside Junkie Kid and bradeazy. Next up: V2 Tokyo, Tokyo on Thu 3 Dec.
 
@@ -24,4 +24,4 @@ DVBBS is a house and industrial artist based in Canada, with 8 gigs on soundchec
 
 Junkie Kid, bradeazy
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvbbs/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvbbs/)*

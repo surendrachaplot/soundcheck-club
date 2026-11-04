@@ -1,6 +1,6 @@
 # TBA - LFO
 
-TBA - LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "R.E.M: Continuum" on Fri, 13 Nov 2026.
+TBA - LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "R.E.M: Continuum" on Fri, 13 Nov 2026.
 
 TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Angelinanyulí, AliA, Alputo and azul and 2 more. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with
 | Sat, 5 Dec 2026 | Tincture | Blue Terrain, Claws, Deceit, Elena Barker, azul, beltranz, colell |
 | Sat, 23 Jan 2027 | Bors Collective: 3rd Anniversary |  |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-lfo/)*

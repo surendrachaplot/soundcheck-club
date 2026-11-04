@@ -1,6 +1,6 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "'𝔪𝔢𝔱𝔞𝔪𝔬𝔯𝔭𝔥𝔬𝔰𝔦𝔰'" on Thu, 5 Nov 2026.
+Astron Club is a music venue in Athens with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "'𝔪𝔢𝔱𝔞𝔪𝔬𝔯𝔭𝔥𝔬𝔰𝔦𝔰'" on Thu, 5 Nov 2026.
 
 Astron Club is a music venue in Athens listed on soundcheck. 11 upcoming gigs, with line-ups including ANFS, Atypikal, BMSK and Choronzon and 2 more. See dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
@@ -17,10 +17,10 @@ Astron Club is a music venue in Athens listed on soundcheck. 11 upcoming gigs, w
 | Fri, 20 Nov 2026 | Tiger Weeds with Serge Geyzel (Live) | Datalogs, Kazteins, Mr. Roussos, Serge Geyzel |
 | Sat, 21 Nov 2026 | ACN with Oxygeno // BMSK // FlokösH // KOKETAMC | BMSK, FlökosH, KOKETAMC, Oxygeno |
 | Thu, 26 Nov 2026 | '𝔪𝔢𝔱𝔞𝔪𝔬𝔯𝔭𝔥𝔬𝔰𝔦𝔰' |  |
-| Fri, 27 Nov 2026 | ACN with The Empire Line // Choronzon // tba | Choronzon, The Empire Line |
+| Fri, 27 Nov 2026 | KAOS London 23 Years Anniversary  | Choronzon, The Empire Line |
 
 ## Address
 
 121 Konstantinoupoleos St., Athens 104 47, Greece, Athens
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/astron-club/)*

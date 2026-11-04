@@ -1,6 +1,6 @@
 # Drvmmer (IT)
 
-Drvmmer (IT) is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 11 Dec 2026.
+Drvmmer (IT) is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 11 Dec 2026.
 
 Drvmmer (IT) is a drum & bass artist, with 4 gigs on soundcheck across Milan and Rome. Often billed alongside Akrom (IT), Ardimann MC and DNA. Next up: Circolo Magnolia, Milan on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Drvmmer (IT) is a drum & bass artist, with 4 gigs on soundcheck across Milan and
 
 Akrom (IT), Ardimann MC, DNA (2)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drvmmerit/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drvmmerit/)*

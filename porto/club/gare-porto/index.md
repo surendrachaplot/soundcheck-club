@@ -1,6 +1,6 @@
 # Gare Porto
 
-Gare Porto is a music venue in Porto with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Alarico (All night set) - Limited 500 tickets" on Fri, 6 Nov 2026.
+Gare Porto is a music venue in Porto with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Alarico (All night set) - Limited 500 tickets" on Fri, 6 Nov 2026.
 
 Gare Porto is a music venue in Porto listed on soundcheck. 9 upcoming gigs, with line-ups including Alarico, Amulador, Banditst4r and Boston 168 and 2 more. See dates, start times and who's playing. Rua da Madeira 182, 4000 Porto, Portugal.
 
@@ -22,4 +22,4 @@ Gare Porto is a music venue in Porto listed on soundcheck. 9 upcoming gigs, with
 
 Rua da Madeira 182, 4000 Porto, Portugal, Porto
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/gare-porto/)*

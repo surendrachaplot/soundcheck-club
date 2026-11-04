@@ -1,6 +1,6 @@
 # Staffan Lindberg
 
-Staffan Lindberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Malmo on Sat, 7 Nov 2026.
+Staffan Lindberg is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Malmo on Sat, 7 Nov 2026.
 
 Staffan Lindberg is a techno and house artist based in Sweden, with 23 gigs on soundcheck across Copenhagen, Lisbon, London and Malmo and 1 more. Often billed alongside Joanna Party, Pjotr and Bella Sarris. Next up: TBA, Malmo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Staffan Lindberg is a techno and house artist based in Sweden, with 23 gigs on s
 
 Joanna Party, Pjotr, Bella Sarris
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staffanlindberg/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staffanlindberg/)*

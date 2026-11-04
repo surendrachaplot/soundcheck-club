@@ -1,6 +1,6 @@
 # Pallas Projects Studios
 
-Pallas Projects Studios is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dublin Modular - Re:member Exhibition Opening" on Wed, 4 Nov 2026.
+Pallas Projects Studios is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dublin Modular - Re:member Exhibition Opening" on Wed, 4 Nov 2026.
 
 Pallas Projects Studios is a music venue in Dublin listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 115–117 The Coombe, The Liberties, Dublin 8, Ireland.
 
@@ -16,4 +16,4 @@ Pallas Projects Studios is a music venue in Dublin listed on soundcheck. 3 upcom
 
 115–117 The Coombe, The Liberties, Dublin 8, Ireland, Dublin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pallas-projects-studios/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/pallas-projects-studios/)*

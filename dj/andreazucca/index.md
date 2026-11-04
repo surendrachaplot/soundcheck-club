@@ -1,13 +1,14 @@
 # Andrea Zucca
 
-Andrea Zucca is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sameheads, Berlin on Fri, 4 Dec 2026.
+Andrea Zucca is a Italo Disco and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Beate Uwe, Berlin on Fri, 27 Nov 2026.
 
-Andrea Zucca is an italo disco and disco artist based in Germany, with 25 gigs on soundcheck across Berlin, Dresden, Leipzig and Prague. Often billed alongside Zucca, Cmd Tulch and Hank Clap. Next up: Sameheads, Berlin on Fri 4 Dec.
+Andrea Zucca is an italo disco and disco artist based in Germany, with 26 gigs on soundcheck across Berlin, Dresden, Leipzig and Prague. Often billed alongside Zucca, Cmd Tulch and Hank Clap. Next up: Beate Uwe, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Beate Uwe | Berlin |
 | Fri, 4 Dec 2026 | Sameheads | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Andrea Zucca is an italo disco and disco artist based in Germany, with 25 gigs o
 
 Zucca, Cmd Tulch, Hank Clap
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazucca/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreazucca/)*

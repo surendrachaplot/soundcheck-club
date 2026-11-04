@@ -1,6 +1,6 @@
 # Onda Saoco
 
-Onda Saoco is a Baile Funk and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Fox and Firkin, London on Sat, 7 Nov 2026.
+Onda Saoco is a Baile Funk and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Fox and Firkin, London on Sat, 7 Nov 2026.
 
 Onda Saoco is a baile funk and afrobeats artist, with 5 gigs on soundcheck across London. Often billed alongside Ana Isabela, NORA and Bushbby. Next up: The Fox and Firkin, London on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Onda Saoco is a baile funk and afrobeats artist, with 5 gigs on soundcheck acros
 
 Ana Isabela, NORA (3), Bushbby
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondasaoco/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondasaoco/)*

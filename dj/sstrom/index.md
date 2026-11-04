@@ -1,13 +1,14 @@
 # SSTROM
 
-SSTROM is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at 宀 Club, Hong Kong on Fri, 11 Dec 2026.
+SSTROM is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The B Side Bar, Berlin on Wed, 11 Nov 2026.
 
-SSTROM is a techno and bass artist, with 6 gigs on soundcheck across Berlin, Hong Kong, Malmo and Stockholm and 1 more. Often billed alongside Abdullah Miniawy, Aho Ssan and Andrew Birds. Next up: 宀 Club, Hong Kong on Fri 11 Dec.
+SSTROM is a techno and bass artist, with 7 gigs on soundcheck across Berlin, Hong Kong, Malmo and Stockholm and 1 more. Often billed alongside Abdullah Miniawy, Aho Ssan and Andrew Birds. Next up: The B Side Bar, Berlin on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 11 Nov 2026 | The B Side Bar | Berlin |
 | Fri, 11 Dec 2026 | 宀 Club | Hong Kong |
 
 ## Recently played
@@ -22,4 +23,4 @@ SSTROM is a techno and bass artist, with 6 gigs on soundcheck across Berlin, Hon
 
 Abdullah Miniawy, Aho Ssan, Andrew Birds
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sstrom/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sstrom/)*

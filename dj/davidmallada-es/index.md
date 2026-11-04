@@ -1,6 +1,6 @@
 # David Mallada
 
-David Mallada is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+David Mallada is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
 
 David Mallada is a techno artist, with 6 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside AMORAL, Abel Ramos and Asora. Next up: Fabrik, Madrid on Sat 30 Jan.
 
@@ -22,4 +22,4 @@ David Mallada is a techno artist, with 6 gigs on soundcheck across Barcelona, Lo
 
 AMORAL, Abel Ramos, Asora
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmallada-es/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidmallada-es/)*

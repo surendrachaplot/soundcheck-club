@@ -1,6 +1,6 @@
 # J Gabriel
 
-J Gabriel is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Signal, New York City on Fri, 6 Nov 2026.
+J Gabriel is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Signal, New York City on Fri, 6 Nov 2026.
 
 J Gabriel is a techno and minimal artist based in United States of America, with 7 gigs on soundcheck across Berlin, Hong Kong and New York City. Often billed alongside Connie, Bruno Limma and David Berrie. Next up: Signal, New York City on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ J Gabriel is a techno and minimal artist based in United States of America, with
 
 Connie, Bruno Limma, David Berrie
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jgabriel/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jgabriel/)*

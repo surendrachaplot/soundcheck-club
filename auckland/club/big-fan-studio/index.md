@@ -1,6 +1,6 @@
 # Big Fan Studio
 
-Big Fan Studio is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Big Fan Record Fair, Gear Repair, Workshops + Open Day" on Sat, 14 Nov 2026.
+Big Fan Studio is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Big Fan Record Fair, Gear Repair, Workshops + Open Day" on Sat, 14 Nov 2026.
 
 Big Fan Studio is a music venue in Auckland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Big Fan Studio is a music venue in Auckland listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Big Fan Record Fair, Gear Repair, Workshops + Open Day |  |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/big-fan-studio/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/big-fan-studio/)*

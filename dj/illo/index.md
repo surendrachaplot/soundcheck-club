@@ -1,8 +1,8 @@
 # il:lo
 
-il:lo is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Lower Third, London on Sun, 31 Jan 2027.
+il:lo is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Lower Third, London on Sun, 31 Jan 2027.
 
-il:lo is an electronica and deep house artist, with 16 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Dublin and 8 more. Often billed alongside Thylacine, Berlin Manson and DJ T.. Next up: The Lower Third, London on Sun 31 Jan.
+il:lo is an electronica and deep house artist based in France, with 16 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Dublin and 8 more. Often billed alongside Thylacine, Berlin Manson and DJ T.. Next up: The Lower Third, London on Sun 31 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ il:lo is an electronica and deep house artist, with 16 gigs on soundcheck across
 
 Thylacine, Berlin Manson, DJ T.
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/illo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/illo/)*

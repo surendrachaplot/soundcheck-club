@@ -1,14 +1,13 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 18 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Goat (JP), Arsenal Mikebe (ug) - Stubnitz presents: Exit Elbbrücken" on Tue, 3 Nov 2026.
+MS Stubnitz is a music venue in Hamburg with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sunset Images (mx), OK WAIT" on Wed, 4 Nov 2026.
 
-MS Stubnitz is a music venue in Hamburg listed on soundcheck. 18 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Arsenal Mikebe and Bandulera and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
+MS Stubnitz is a music venue in Hamburg listed on soundcheck. 17 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Bandulera and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Goat (JP), Arsenal Mikebe (ug) - Stubnitz presents: Exit Elbbrücken | Arsenal Mikebe, Goat (JP) |
 | Wed, 4 Nov 2026 | Sunset Images (mx), OK WAIT |  |
 | Thu, 5 Nov 2026 | Upstream: RESONATE | Alex Zhang Hungtai |
 | Fri, 6 Nov 2026 | Radwan Ghazi Moumneh & Frédéric D. Oberland (lb/fr), support: Jessica Moss (ca) |  |
@@ -18,9 +17,10 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 18 upcoming gigs, 
 | Sat, 14 Nov 2026 | BIG/BRAVE (ca), otay:onii (cn/us) | otay:onii |
 | Sun, 15 Nov 2026 | Jakuzi (tr), support: von rohbau | Jakuzi |
 | Sat, 21 Nov 2026 | 5 Jahre Pastanaga | Crew Ombrelle, Late Night Jockel Session, niklasecco |
+| Fri, 27 Nov 2026 | RUSH |  |
 
 ## Address
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

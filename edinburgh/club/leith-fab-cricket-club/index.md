@@ -1,6 +1,6 @@
 # Leith FAB Cricket Club
 
-Leith FAB Cricket Club is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "249 QUEER PARTY" on Fri, 20 Nov 2026.
+Leith FAB Cricket Club is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "249 QUEER PARTY" on Fri, 20 Nov 2026.
 
 Leith FAB Cricket Club is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including claz402, DJ Cheers, Eyes of Others and EYVE and 2 more. See dates, start times and who's playing. 1 Leith Links, Leith, Edinburgh EH6 7QR.
 
@@ -16,4 +16,4 @@ Leith FAB Cricket Club is a music venue in Edinburgh listed on soundcheck. 3 upc
 
 1 Leith Links, Leith, Edinburgh EH6 7QR, Edinburgh
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-fab-cricket-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/leith-fab-cricket-club/)*

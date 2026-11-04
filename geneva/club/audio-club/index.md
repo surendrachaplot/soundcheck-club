@@ -1,6 +1,6 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dubfire · VINCE · STVO" on Fri, 6 Nov 2026.
+Audio Club is a music venue in Geneva with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dubfire · VINCE · STVO" on Fri, 6 Nov 2026.
 
 Audio Club is a music venue in Geneva listed on soundcheck. 8 upcoming gigs, with line-ups including Alan Braxe, Andrea Oliva, Black Loops and Chloe Martinez and 2 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
@@ -21,4 +21,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 8 upcoming gigs, wit
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

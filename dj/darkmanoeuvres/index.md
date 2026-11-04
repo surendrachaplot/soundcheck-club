@@ -1,8 +1,8 @@
 # Dark Manoeuvres
 
-Dark Manoeuvres is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
+Dark Manoeuvres is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
 
-Dark Manoeuvres is a techno and minimal techno artist, with 5 gigs on soundcheck across Berlin, Frankfurt and Nürnberg. Often billed alongside Alberto Tolo, Jozh and Øscil. Next up: Tanzhaus West, Frankfurt on Fri 20 Nov.
+Dark Manoeuvres is a techno and minimal techno artist based in Germany, with 5 gigs on soundcheck across Berlin, Frankfurt and Nürnberg. Often billed alongside Alberto Tolo, Jozh and Øscil. Next up: Tanzhaus West, Frankfurt on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Dark Manoeuvres is a techno and minimal techno artist, with 5 gigs on soundcheck
 
 Alberto Tolo, Jozh, Øscil
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmanoeuvres/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darkmanoeuvres/)*

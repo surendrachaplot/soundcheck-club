@@ -1,6 +1,6 @@
 # Tareq
 
-Tareq is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Colour Factory, London on Fri, 4 Dec 2026.
+Tareq is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Colour Factory, London on Fri, 4 Dec 2026.
 
 Tareq is a techno and disco artist, with 7 gigs on soundcheck across Athens, Berlin and London. Often billed alongside Tafkanik, .Fro. and 3MR.. Next up: Colour Factory, London on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ Tareq is a techno and disco artist, with 7 gigs on soundcheck across Athens, Ber
 
 Tafkanik, .Fro., 3MR.
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tareq/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tareq/)*

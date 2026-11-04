@@ -1,8 +1,8 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at BRET, Amsterdam on Sun, 8 Nov 2026.
+Bailey Ibbs is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at BRET, Amsterdam on Sun, 8 Nov 2026.
 
-Bailey Ibbs is a techno and house artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 53 more. Often billed alongside JKS, Paige (Night Service) and future.666. Next up: BRET, Amsterdam on Sun 8 Nov.
+Bailey Ibbs is a techno and house artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 53 more. Often billed alongside JKS, Paige (Night Service) and future.666. Next up: BRET, Amsterdam on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 174 gigs 
 | Sat, 21 Nov 2026 | Liquid Club | Malta |
 | Fri, 11 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 12 Dec 2026 | Valsemøllen | Bergen |
+| Thu, 31 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 174 gigs 
 
 JKS, Paige (Night Service), future.666
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baileyibbs/)*

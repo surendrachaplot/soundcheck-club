@@ -1,6 +1,6 @@
 # Ryan Resso
 
-Ryan Resso is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Loft, Manchester on Sat, 5 Dec 2026.
+Ryan Resso is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Loft, Manchester on Sat, 5 Dec 2026.
 
 Ryan Resso is a house and tech house artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 15 more. Often billed alongside Chopper (UK), Stef Davidse and FINKY. Next up: The Loft, Manchester on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Ryan Resso is a house and tech house artist based in United Kingdom, with 100 gi
 
 Chopper (UK), Stef Davidse, FINKY
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanresso/)*

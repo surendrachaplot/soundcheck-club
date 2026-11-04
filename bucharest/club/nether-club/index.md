@@ -1,6 +1,6 @@
 # Nether Club
 
-Nether Club is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "STEP INTO THE VOID: BERLIN TECHNO 9" on Sat, 7 Nov 2026.
+Nether Club is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "STEP INTO THE VOID: BERLIN TECHNO 9" on Sat, 7 Nov 2026.
 
 Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including AMEDEUS, Amnesico, Controlled Voltage and DA NA and 2 more. See dates, start times and who's playing. Calea Victoriei nr 48 50, București, Romania.
 
@@ -20,4 +20,4 @@ Nether Club is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs,
 
 Calea Victoriei nr 48 50, București, Romania, Bucharest
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/nether-club/)*

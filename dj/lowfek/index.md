@@ -1,6 +1,6 @@
 # lowfek
 
-lowfek is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at MODULE, Copenhagen on Thu, 5 Nov 2026.
+lowfek is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at MODULE, Copenhagen on Thu, 5 Nov 2026.
 
 lowfek is a techno and house artist based in Argentina, with 20 gigs on soundcheck across Copenhagen and Gothenburg. Often billed alongside Tomás Cebrero, Adrat and Ajaks. Next up: MODULE, Copenhagen on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ lowfek is a techno and house artist based in Argentina, with 20 gigs on soundche
 
 Tomás Cebrero, Adrat, Ajaks
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowfek/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowfek/)*

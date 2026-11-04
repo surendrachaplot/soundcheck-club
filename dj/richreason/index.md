@@ -1,6 +1,6 @@
 # Rich Reason
 
-Rich Reason is a Garage and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Niamos, Manchester on Fri, 13 Nov 2026.
+Rich Reason is a Garage and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Niamos, Manchester on Fri, 13 Nov 2026.
 
 Rich Reason is a garage and disco artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Bristol, Istanbul and Leeds and 4 more. Often billed alongside LARISHKA (UK), T-Man (UK) and Chunky. Next up: Niamos, Manchester on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Rich Reason is a garage and disco artist based in United Kingdom, with 177 gigs 
 
 LARISHKA (UK), T-Man (UK), Chunky
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richreason/)*

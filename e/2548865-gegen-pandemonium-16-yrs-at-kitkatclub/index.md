@@ -1,6 +1,6 @@
 # GEGEN PANDEMONIUM-16 YRS at KitKatClub
 
-GEGEN PANDEMONIUM-16 YRS at KitKatClub on Fri 22 Jan, Berlin. 13 artists: ADAM MUNNINGS, BearoOo, Cristian Marras and Dela Nesto and 9 more. See the line-up on soundcheck.
+GEGEN PANDEMONIUM-16 YRS at KitKatClub on Fri 22 Jan, Berlin. 14 artists: ADAM MUNNINGS, BearoOo, Cristian Marras and Dela Nesto and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -20,6 +20,7 @@ GEGEN PANDEMONIUM-16 YRS at KitKatClub on Fri 22 Jan, Berlin. 13 artists: ADAM M
 - Metaraph
 - Nanzhen Yang
 - OCD
+- Paul Wolsch
 - Reitze
 - Reza Jalilian
 - Samantha Togni

@@ -1,6 +1,6 @@
 # Champs
 
-Champs is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fabricxx, London on Sat, 28 Nov 2026.
+Champs is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fabricxx, London on Sat, 28 Nov 2026.
 
 Champs is a house and progressive house artist, with 4 gigs on soundcheck across London and Sydney. Often billed alongside Mike McCaskill, DJ Murrell and Groove Assassin. Next up: Fabricxx, London on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Champs is a house and progressive house artist, with 4 gigs on soundcheck across
 
 Mike McCaskill, DJ Murrell, Groove Assassin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champs/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champs/)*

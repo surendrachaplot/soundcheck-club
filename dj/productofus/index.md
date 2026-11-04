@@ -1,6 +1,6 @@
 # Product Of Us
 
-Product Of Us is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 4 Dec 2026.
+Product Of Us is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TAC (Tottenham Arts Collective), London on Fri, 4 Dec 2026.
 
 Product Of Us is a techno and bass artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Dublin, Hong Kong and Ibiza and 2 more. Often billed alongside Ryan Spicer, Black Box and GABR:EL. Next up: TAC (Tottenham Arts Collective), London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Product Of Us is a techno and bass artist based in United Kingdom, with 15 gigs 
 
 Ryan Spicer, Black Box, GABR:EL
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/productofus/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/productofus/)*

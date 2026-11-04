@@ -1,6 +1,6 @@
 # Hipnoticx - The Sensual House at TBA - Penthouse
 
-Hipnoticx - The Sensual House at TBA - Penthouse on Sun 15 Nov, Mexico City. 4 artists: Dj E.T., Joss Crown, MIKITA (MX) and Villaseñor. House. See the line-up on soundcheck.
+Hipnoticx - The Sensual House at TBA - Penthouse on Sun 15 Nov, Mexico City. 4 artists: Dj E.T., Joss Crown, MIKITA (MX) and Villaseñor. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

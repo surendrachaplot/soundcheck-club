@@ -1,6 +1,6 @@
 # JALE
 
-JALE is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
+JALE is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
 
 JALE is a house and electronica artist based in Italy, with 15 gigs on soundcheck across Lausanne, Melbourne, Milan and Naples. Often billed alongside BabyG, DJ PGZ and Onur Özer. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ JALE is a house and electronica artist based in Italy, with 15 gigs on soundchec
 
 BabyG, DJ PGZ, Onur Özer
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jale/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jale/)*

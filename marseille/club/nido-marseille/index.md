@@ -1,6 +1,6 @@
 # Nido Marseille
 
-Nido Marseille is a music venue in Marseille with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Nido - local - Cess & Ilan" on Fri, 6 Nov 2026.
+Nido Marseille is a music venue in Marseille with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Nido - local - Cess & Ilan" on Fri, 6 Nov 2026.
 
 Nido Marseille is a music venue in Marseille listed on soundcheck. 9 upcoming gigs, with line-ups including Brasi, Cess, Cristobal and Cwtch and 2 more. See dates, start times and who's playing. 20 boulevard fifi turin.
 
@@ -22,4 +22,4 @@ Nido Marseille is a music venue in Marseille listed on soundcheck. 9 upcoming gi
 
 20 boulevard fifi turin, Marseille
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/nido-marseille/)*

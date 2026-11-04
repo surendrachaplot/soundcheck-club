@@ -1,8 +1,8 @@
 # szoliver
 
-szoliver is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Atno, Budapest on Sat, 7 Nov 2026.
+szoliver is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Atno, Budapest on Sat, 7 Nov 2026.
 
-szoliver is a techno and trance artist based in Hungary, with 109 gigs on soundcheck across Bangkok, Basel, Berlin and Budapest and 4 more. Often billed alongside SLYM, Akác and Technokool. Next up: Atno, Budapest on Sat 7 Nov.
+szoliver is a techno and trance artist based in Hungary, with 110 gigs on soundcheck across Bangkok, Basel, Berlin and Budapest and 4 more. Often billed alongside SLYM, Akác and Technokool. Next up: Atno, Budapest on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ szoliver is a techno and trance artist based in Hungary, with 109 gigs on soundc
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Atno | Budapest |
 | Fri, 20 Nov 2026 | Toldi Klub | Budapest |
+| Sat, 28 Nov 2026 | TBA | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ szoliver is a techno and trance artist based in Hungary, with 109 gigs on soundc
 
 SLYM, Akác, Technokool
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szoliver/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/szoliver/)*

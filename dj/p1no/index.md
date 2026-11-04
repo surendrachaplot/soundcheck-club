@@ -1,13 +1,14 @@
 # p1no
 
-p1no is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Val’s Lesbian Bar, Philadelphia on Sat, 5 Dec 2026.
+p1no is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Supernatural Haus, Miami on Fri, 6 Nov 2026.
 
-p1no is a club and techno artist based in United States of America, with 48 gigs on soundcheck across Boston, Charlotte, Florida and Miami and 2 more. Often billed alongside Chelita, DJ SABI and DJ maddog. Next up: Val’s Lesbian Bar, Philadelphia on Sat 5 Dec.
+p1no is a club and techno artist based in United States of America, with 49 gigs on soundcheck across Boston, Charlotte, Florida and Miami and 2 more. Often billed alongside Chelita, DJ SABI and DJ maddog. Next up: Supernatural Haus, Miami on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Supernatural Haus | Miami |
 | Sat, 5 Dec 2026 | Val’s Lesbian Bar | Philadelphia |
 
 ## Recently played
@@ -25,4 +26,4 @@ p1no is a club and techno artist based in United States of America, with 48 gigs
 
 Chelita, DJ SABI, DJ maddog
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p1no/)*

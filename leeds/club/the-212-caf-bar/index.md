@@ -1,6 +1,6 @@
 # The 212 Café & Bar
 
-The 212 Café & Bar is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Sea Monsters' present - The Trip feat. Squidly, Newt, Fox, Bear, Fynn" on Fri, 20 Nov 2026.
+The 212 Café & Bar is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sea Monsters' present - The Trip feat. Squidly, Newt, Fox, Bear, Fynn" on Fri, 20 Nov 2026.
 
 The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, with line-ups including Bobby O'Donnell, Casika, Four Candles and FYNN. See dates, start times and who's playing. 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom.
 
@@ -17,4 +17,4 @@ The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 4 upcoming g
 
 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom, Leeds
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-212-caf-bar/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-212-caf-bar/)*

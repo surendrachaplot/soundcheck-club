@@ -1,8 +1,8 @@
 # Ricky Morrison
 
-Ricky Morrison is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Ricky Morrison is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
-Ricky Morrison is a house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Groove Assassin, Booker T and DJ Murrell. Next up: fabric, London on Sat 28 Nov.
+Ricky Morrison is a house and deep house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Groove Assassin, Booker T and DJ Murrell. Next up: fabric, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ricky Morrison is a house and deep house artist based in United Kingdom, with 8 
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | fabric | London |
 | Sat, 28 Nov 2026 | Fabricxx | London |
+| Sat, 9 Jan 2027 | The Jazz Cafe | London |
 
 ## Recently played
 
@@ -24,4 +25,4 @@ Ricky Morrison is a house and deep house artist based in United Kingdom, with 8 
 
 Groove Assassin, Booker T, DJ Murrell
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymorrison/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rickymorrison/)*

@@ -1,6 +1,6 @@
 # kletis
 
-kletis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Twist Bar, Prague on Sat, 21 Nov 2026.
+kletis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Twist Bar, Prague on Sat, 21 Nov 2026.
 
 kletis is a techno and acid artist based in Czech Republic, with 21 gigs on soundcheck across Belgrade, Berlin, Prague and Warsaw. Often billed alongside Atch22, Dash (CZ) and Demonika. Next up: Twist Bar, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ kletis is a techno and acid artist based in Czech Republic, with 21 gigs on soun
 
 Atch22, Dash (CZ), Demonika
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kletis/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kletis/)*

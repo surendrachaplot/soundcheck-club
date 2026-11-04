@@ -1,6 +1,6 @@
 # 1-800 GIRLS
 
-1-800 GIRLS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
+1-800 GIRLS is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sun, 22 Nov 2026.
 
 1-800 GIRLS is a house and techno artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Belfast, Berlin and Birmingham and 22 more. Often billed alongside Seb Wildblood, Zaltsman and Giulia Tess. Next up: Bossa Nova Civic Club, New York City on Sun 22 Nov.
 
@@ -26,4 +26,4 @@
 
 Seb Wildblood, Zaltsman, Giulia Tess
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1-800girls/)*

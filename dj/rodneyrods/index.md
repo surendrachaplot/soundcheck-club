@@ -1,6 +1,6 @@
 # Rodneyrods
 
-Rodneyrods is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Upper East, London on Sat, 14 Nov 2026.
+Rodneyrods is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Upper East, London on Sat, 14 Nov 2026.
 
 Rodneyrods is a house and tech house artist, with 5 gigs on soundcheck across London. Often billed alongside Ellzo, AYSHA and Alexia Glensy. Next up: Upper East, London on Sat 14 Nov.
 
@@ -21,4 +21,4 @@ Rodneyrods is a house and tech house artist, with 5 gigs on soundcheck across Lo
 
 Ellzo, AYSHA, Alexia Glensy
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodneyrods/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodneyrods/)*

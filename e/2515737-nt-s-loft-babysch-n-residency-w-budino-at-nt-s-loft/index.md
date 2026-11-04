@@ -1,6 +1,6 @@
 # NT's Loft: babyschön Residency w/ Budino at NT's Loft
 
-NT's Loft: babyschön Residency w/ Budino on Sat 7 Nov, London. 2 artists: babyschön and Budino. See the line-up on soundcheck.
+NT's Loft: babyschön Residency w/ Budino on Sat 7 Nov, London. 3 artists: babyschön, Budino and floor length skirts. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ NT's Loft: babyschön Residency w/ Budino on Sat 7 Nov, London. 2 artists: babys
 
 - babyschön
 - Budino
+- floor length skirts
 
 *Source: [soundcheck](https://soundcheck.club/e/2515737-nt-s-loft-babysch-n-residency-w-budino-at-nt-s-loft/)*

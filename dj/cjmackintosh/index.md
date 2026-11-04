@@ -1,8 +1,8 @@
 # CJ Mackintosh
 
-CJ Mackintosh is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Hangr, Sheffield on Sat, 14 Nov 2026.
+CJ Mackintosh is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hangr, Sheffield on Sat, 14 Nov 2026.
 
-CJ Mackintosh is a house and tech house artist based in United Kingdom, with 12 gigs on soundcheck across Bristol, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside Groove Assassin, 2 Bad Mice and Angelo Ferreri. Next up: Hangr, Sheffield on Sat 14 Nov.
+CJ Mackintosh is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Bristol, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside Groove Assassin, 2 Bad Mice and Angelo Ferreri. Next up: Hangr, Sheffield on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ CJ Mackintosh is a house and tech house artist based in United Kingdom, with 12 
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Hangr | Sheffield |
 | Fri, 11 Dec 2026 | Leith Arches | Edinburgh |
+| Sat, 9 Jan 2027 | The Jazz Cafe | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ CJ Mackintosh is a house and tech house artist based in United Kingdom, with 12 
 
 Groove Assassin, 2 Bad Mice, Angelo Ferreri
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjmackintosh/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjmackintosh/)*

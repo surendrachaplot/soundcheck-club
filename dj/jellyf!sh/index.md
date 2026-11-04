@@ -1,6 +1,6 @@
 # Jellyf!sh
 
-Jellyf!sh is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Daikanyama ORD., Tokyo on Sat, 7 Nov 2026.
+Jellyf!sh is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Daikanyama ORD., Tokyo on Sat, 7 Nov 2026.
 
 Jellyf!sh is a house and minimal artist based in Japan, with 55 gigs on soundcheck across Tokyo. Often billed alongside FUJI TRILL, misa nakamura and kyuuu. Next up: Daikanyama ORD., Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Jellyf!sh is a house and minimal artist based in Japan, with 55 gigs on soundche
 
 FUJI TRILL, misa nakamura, kyuuu
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jellyf!sh/)*

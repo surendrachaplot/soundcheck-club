@@ -1,6 +1,6 @@
 # ANASI
 
-ANASI is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Teritorija, Riga on Fri, 11 Dec 2026.
+ANASI is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Teritorija, Riga on Fri, 11 Dec 2026.
 
 ANASI is a tech house and techno artist based in Latvia, with 4 gigs on soundcheck across Riga. Often billed alongside LETRIX, DV8 (LV) and Existal. Next up: Teritorija, Riga on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ ANASI is a tech house and techno artist based in Latvia, with 4 gigs on soundche
 
 LETRIX, DV8 (LV), Existal
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anasi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anasi/)*

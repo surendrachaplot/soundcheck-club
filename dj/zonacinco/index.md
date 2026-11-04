@@ -1,6 +1,6 @@
 # Zona Cinco
 
-Zona Cinco is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Podlasie Club, Chicago on Sat, 7 Nov 2026.
+Zona Cinco is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Podlasie Club, Chicago on Sat, 7 Nov 2026.
 
 Zona Cinco is a techno and acid artist based in United States of America, with 48 gigs on soundcheck across Chicago and Detroit. Often billed alongside Flores Negras, Miss Twink USA and JS Alvarez. Next up: Podlasie Club, Chicago on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Zona Cinco is a techno and acid artist based in United States of America, with 4
 
 Flores Negras, Miss Twink USA, JS Alvarez
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zonacinco/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zonacinco/)*

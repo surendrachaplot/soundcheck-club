@@ -1,6 +1,6 @@
 # VIKKI_
 
-VIKKI_ is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Mastak, Warsaw on Sun, 29 Nov 2026.
+VIKKI_ is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mastak, Warsaw on Sun, 29 Nov 2026.
 
 VIKKI_ is an experimental and electro artist based in Poland, with 13 gigs on soundcheck across Warsaw. Often billed alongside MARCUCCIO, Slowmode and zeroday. Next up: Mastak, Warsaw on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ VIKKI_ is an experimental and electro artist based in Poland, with 13 gigs on so
 
 MARCUCCIO, Slowmode, zeroday
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikki_/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vikki_/)*

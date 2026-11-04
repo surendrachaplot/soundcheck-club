@@ -1,6 +1,6 @@
 # Karashnikov
 
-Karashnikov is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Flinders, Sydney on Sat, 28 Nov 2026.
+Karashnikov is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Flinders, Sydney on Sat, 28 Nov 2026.
 
 Karashnikov is a techno and industrial artist, with 21 gigs on soundcheck across Antwerp, Brussels, Budapest and Dublin and 10 more. Often billed alongside Angel Karel, Brojski and LiXaa. Next up: The Flinders, Sydney on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Karashnikov is a techno and industrial artist, with 21 gigs on soundcheck across
 
 Angel Karel, Brojski, LiXaa
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karashnikov/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karashnikov/)*

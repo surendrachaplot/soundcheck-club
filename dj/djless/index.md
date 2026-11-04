@@ -1,6 +1,6 @@
 # Less
 
-Less is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
+Less is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Ciudad de Buenos Aires, Buenos Aires on Fri, 11 Dec 2026.
 
 Less is a techno and hardcore artist based in Germany, with 4 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and Zagreb. Often billed alongside Arca, Carlos Willengton and Cera Khin. Next up: Club Ciudad de Buenos Aires, Buenos Aires on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Less is a techno and hardcore artist based in Germany, with 4 gigs on soundcheck
 
 Arca, Carlos Willengton, Cera Khin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djless/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djless/)*

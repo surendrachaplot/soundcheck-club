@@ -1,6 +1,6 @@
 # Kailyn Crabbe
 
-Kailyn Crabbe is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
+Kailyn Crabbe is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
 
 Kailyn Crabbe is a house and electronica artist based in Australia, with 42 gigs on soundcheck across Melbourne, Perth and Sydney. Often billed alongside Slumdog, Prizefight and Sophie Forrest. Next up: Glamorama, Melbourne on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Kailyn Crabbe is a house and electronica artist based in Australia, with 42 gigs
 
 Slumdog, Prizefight, Sophie Forrest
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kailyncrabbe/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kailyncrabbe/)*

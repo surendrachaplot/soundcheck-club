@@ -1,6 +1,6 @@
 # Volta
 
-Volta is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "It Feels Like Carnival" on Sat, 7 Nov 2026.
+Volta is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "It Feels Like Carnival" on Sat, 7 Nov 2026.
 
 Volta is a music venue in Stockholm listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Brännkyrkagatan 71, 118 23, Stockholm.
 
@@ -14,4 +14,4 @@ Volta is a music venue in Stockholm listed on soundcheck. 1 upcoming gig. See da
 
 Brännkyrkagatan 71, 118 23, Stockholm, Stockholm
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/volta/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/volta/)*

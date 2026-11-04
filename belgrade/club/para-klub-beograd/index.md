@@ -1,6 +1,6 @@
 # Para Klub Beograd
 
-Para Klub Beograd is a music venue in Belgrade with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CLIMAX with friends" on Sun, 8 Nov 2026.
+Para Klub Beograd is a music venue in Belgrade with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CLIMAX with friends" on Sun, 8 Nov 2026.
 
 Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming gigs, with line-ups including .Paragon, .rigid, Čevut and Emma H and 2 more. See dates, start times and who's playing. Cetinjska 15.
 
@@ -16,4 +16,4 @@ Para Klub Beograd is a music venue in Belgrade listed on soundcheck. 3 upcoming 
 
 Cetinjska 15, Belgrade
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/para-klub-beograd/)*

@@ -1,6 +1,6 @@
 # Klub Progresja
 
-Klub Progresja is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Hubert. & prawy brzeg - sei porobilo...TOUR - 7.12 Warszawa" on Mon, 7 Dec 2026.
+Klub Progresja is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Hubert. & prawy brzeg - sei porobilo...TOUR - 7.12 Warszawa" on Mon, 7 Dec 2026.
 
 Klub Progresja is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Fort Wola 22, 01-258 Warszawa.
 
@@ -15,4 +15,4 @@ Klub Progresja is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs.
 
 Fort Wola 22, 01-258 Warszawa, Warsaw
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-progresja/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-progresja/)*

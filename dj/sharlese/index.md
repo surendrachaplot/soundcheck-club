@@ -1,6 +1,6 @@
 # Sharlese
 
-Sharlese is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Tee Gee, Los Angeles on Thu, 5 Nov 2026.
+Sharlese is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Tee Gee, Los Angeles on Thu, 5 Nov 2026.
 
 Sharlese is a techno and electro artist based in United States of America, with 154 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 19 more. Often billed alongside DJ SH1-TR, Lord Phatrick and Kadeejah Streets. Next up: Club Tee Gee, Los Angeles on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ Sharlese is a techno and electro artist based in United States of America, with 
 
 DJ SH1-TR, Lord Phatrick, Kadeejah Streets
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharlese/)*

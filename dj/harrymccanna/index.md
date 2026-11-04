@@ -1,6 +1,6 @@
 # Harry McCanna
 
-Harry McCanna is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 14 Nov 2026.
+Harry McCanna is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 14 Nov 2026.
 
 Harry McCanna is a house and tech house artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Sam Bangura, Dale Mussington and NorthSouth. Next up: Platforma Wolff, Bucharest on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Harry McCanna is a house and tech house artist based in United Kingdom, with 141
 
 Sam Bangura, Dale Mussington, NorthSouth
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrymccanna/)*

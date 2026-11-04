@@ -1,6 +1,6 @@
 # Dr. ADO
 
-Dr. ADO is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Vespers Club, London on Fri, 6 Nov 2026.
+Dr. ADO is a Afro House and Amapiano artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Vespers Club, London on Fri, 6 Nov 2026.
 
 Dr. ADO is an afro house and amapiano artist based in United Kingdom, with 39 gigs on soundcheck across London, Lyon and Mexico City. Often billed alongside IYE YIN DAE, SAMIA and GOLDEN PINEAPPLE. Next up: Vespers Club, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Dr. ADO is an afro house and amapiano artist based in United Kingdom, with 39 gi
 
 IYE YIN DAE, SAMIA, GOLDEN PINEAPPLE
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ado/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.ado/)*

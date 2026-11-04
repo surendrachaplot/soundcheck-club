@@ -1,6 +1,6 @@
 # NDR2 Red Room
 
-NDR2 Red Room is a music venue in London with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Grounded London: Matteo Manzini" on Sat, 7 Nov 2026.
+NDR2 Red Room is a music venue in London with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Grounded London: Matteo Manzini" on Sat, 7 Nov 2026.
 
 NDR2 Red Room is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Aaron Burr, anne névroses, Benyayer and Givron and 2 more. See dates, start times and who's playing. 182 Stoke Newington Rd, London N16 7UY.
 
@@ -19,4 +19,4 @@ NDR2 Red Room is a music venue in London listed on soundcheck. 6 upcoming gigs, 
 
 182 Stoke Newington Rd, London N16 7UY, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ndr2-red-room/)*

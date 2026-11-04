@@ -1,8 +1,8 @@
 # Darren J
 
-Darren J is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 5 Dec 2026.
+Darren J is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 5 Dec 2026.
 
-Darren J is a deep house and tech house artist, with 4 gigs on soundcheck across London. Often billed alongside Jack Burt, Mark Radford and Nocturnal Joe. Next up: Vittoria Wharf Studio, London on Sat 5 Dec.
+Darren J is a deep house and tech house artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Jack Burt, Mark Radford and Nocturnal Joe. Next up: Vittoria Wharf Studio, London on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ Darren J is a deep house and tech house artist, with 4 gigs on soundcheck across
 
 Jack Burt, Mark Radford, Nocturnal Joe
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenj/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darrenj/)*

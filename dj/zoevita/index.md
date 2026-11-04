@@ -1,13 +1,14 @@
 # ZOEVITA
 
-ZOEVITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ://about blank, Berlin on Sat, 19 Dec 2026.
+ZOEVITA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ://about blank, Berlin on Sat, 7 Nov 2026.
 
-ZOEVITA is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Berlin, Leipzig and Wroclaw. Often billed alongside Louis Harshman, alemiko and Balkhausen. Next up: ://about blank, Berlin on Sat 19 Dec.
+ZOEVITA is a techno and trance artist based in Germany, with 53 gigs on soundcheck across Berlin, Leipzig and Wroclaw. Often billed alongside Louis Harshman, Balkhausen and alemiko. Next up: ://about blank, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | ://about blank | Berlin |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ ZOEVITA is a techno and trance artist based in Germany, with 52 gigs on soundche
 
 ## Shares bills with
 
-Louis Harshman, alemiko, Balkhausen
+Louis Harshman, Balkhausen, alemiko
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoevita/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoevita/)*

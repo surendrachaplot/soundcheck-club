@@ -1,6 +1,6 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Roots Of House with Osunlade, Jojoflores & DJ Yogi" on Sat, 7 Nov 2026.
+Sound Machine is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Roots Of House with Osunlade, Jojoflores & DJ Yogi" on Sat, 7 Nov 2026.
 
 Sound Machine is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Jojoflores, Osunlade, Roy Davis Jr and Yogi. See dates, start times and who's playing. 178 Bathurst Street.
 
@@ -15,4 +15,4 @@ Sound Machine is a music venue in Toronto listed on soundcheck. 2 upcoming gigs,
 
 178 Bathurst Street, Toronto
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/sound-machine/)*

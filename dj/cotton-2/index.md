@@ -1,6 +1,6 @@
 # cotton
 
-cotton is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Paragon, New York City on Fri, 13 Nov 2026.
+cotton is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Paragon, New York City on Fri, 13 Nov 2026.
 
 cotton is a techno and electro artist based in United States of America, with 48 gigs on soundcheck across Athens, Berlin, Chicago and Istanbul and 3 more. Often billed alongside Juliana Huxtable, Kilopatrah Jones and Massimiliano Pagliara. Next up: Paragon, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ cotton is a techno and electro artist based in United States of America, with 48
 
 Juliana Huxtable, Kilopatrah Jones, Massimiliano Pagliara
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cotton-2/)*

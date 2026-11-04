@@ -1,6 +1,6 @@
 # Na Nich
 
-Na Nich is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
+Na Nich is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
 
 Na Nich is a techno and ambient artist based in Ukraine, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 5 more. Often billed alongside Vera Logdanidi, Dork and Justine Perry. Next up: TBA - El Invernadero, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Na Nich is a techno and ambient artist based in Ukraine, with 28 gigs on soundch
 
 Vera Logdanidi, Dork, Justine Perry
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanich/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanich/)*

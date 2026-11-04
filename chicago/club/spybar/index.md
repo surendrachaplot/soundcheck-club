@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Avina's House" on Sat, 7 Nov 2026.
+Spybar is a music venue in Chicago with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Avina's House" on Sat, 7 Nov 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 7 upcoming gigs, with line-ups including Franc Fala, Luke Alexander and Tre Reynolds. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -20,4 +20,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 7 upcoming gigs, with l
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

@@ -1,8 +1,8 @@
 # Krahm
 
-Krahm is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
+Krahm is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
 
-Krahm is a techno and minimal techno artist, with 6 gigs on soundcheck across Madrid. Often billed alongside DARK MOON (ES), Santek and ADRI.G. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 28 Nov.
+Krahm is a techno and minimal techno artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside DARK MOON (ES), Santek and ADRI.G. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Krahm is a techno and minimal techno artist, with 6 gigs on soundcheck across Ma
 
 DARK MOON (ES), Santek, ADRI.G
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krahm/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krahm/)*

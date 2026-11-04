@@ -1,6 +1,6 @@
 # Ojelma
 
-Ojelma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Post Bar, Helsinki on Fri, 20 Nov 2026.
+Ojelma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Post Bar, Helsinki on Fri, 20 Nov 2026.
 
 Ojelma is a techno and house artist based in Finland, with 60 gigs on soundcheck across Helsinki and Tallinn. Often billed alongside Carlina Carpelan, CEB (FI) and Lil Tony. Next up: Post Bar, Helsinki on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Ojelma is a techno and house artist based in Finland, with 60 gigs on soundcheck
 
 Carlina Carpelan, CEB (FI), Lil Tony
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojelma/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ojelma/)*

@@ -1,6 +1,6 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
+OMOLOKO is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
 
 OMOLOKO is a house and techno artist based in Brazil, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Chang Chui Creative Park, Bangkok on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ OMOLOKO is a house and techno artist based in Brazil, with 127 gigs on soundchec
 
 Kabulom, BADSISTA, Cashu
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omoloko/)*

@@ -1,6 +1,6 @@
 # KRN
 
-KRN is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
+KRN is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Glove That Fits, London on Sat, 14 Nov 2026.
 
 KRN is a house and tech house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside The Ghost, Sugar Free and DJ Pipe. Next up: The Glove That Fits, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ KRN is a house and tech house artist based in United Kingdom, with 57 gigs on so
 
 The Ghost, Sugar Free, DJ Pipe
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krn/)*

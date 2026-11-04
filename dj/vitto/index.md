@@ -1,13 +1,14 @@
 # VITTO
 
-VITTO is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Duin en Strand, Rotterdam on Fri, 19 May 2028.
+VITTO is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Gallery, London on Thu, 12 Nov 2026.
 
-VITTO is a tech house and techno artist based in Italy, with 7 gigs on soundcheck across London, Madrid, Paris and Rotterdam. Often billed alongside DJ W!ld, EVIE UK and Gabski. Next up: Duin en Strand, Rotterdam on Fri 19 May.
+VITTO is a tech house and deep house artist based in Italy, with 8 gigs on soundcheck across London, Madrid, Paris and Rotterdam. Often billed alongside DJ W!ld, EVIE UK and Gabski. Next up: Gallery, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Gallery | London |
 | Fri, 19 May 2028 | Duin en Strand | Rotterdam |
 
 ## Recently played
@@ -23,4 +24,4 @@ VITTO is a tech house and techno artist based in Italy, with 7 gigs on soundchec
 
 DJ W!ld, EVIE UK, Gabski
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitto/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitto/)*

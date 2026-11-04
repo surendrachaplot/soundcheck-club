@@ -1,6 +1,6 @@
 # la Maison de la Conversation
 
-la Maison de la Conversation is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Memory Lane II By Sentaku" on Fri, 13 Nov 2026.
+la Maison de la Conversation is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Memory Lane II By Sentaku" on Fri, 13 Nov 2026.
 
 la Maison de la Conversation is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including DJ Fart in the Club, Ill Spleen and Nathan Melja. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ la Maison de la Conversation is a music venue in Paris listed on soundcheck. 1 u
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Memory Lane II By Sentaku | DJ Fart in the Club, Ill Spleen, Nathan Melja |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-maison-de-la-conversation/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-maison-de-la-conversation/)*

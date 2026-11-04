@@ -1,13 +1,14 @@
 # Bruce
 
-Bruce is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Great Fulford, West-wales on Thu, 22 Jul 2027.
+Bruce is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
 
-Bruce is a techno and experimental artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Bristol and 12 more. Often billed alongside Ploy, Alicia (UK) and Allecto. Next up: Great Fulford, West Wales on Thu 22 Jul.
+Bruce is a techno and experimental artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Berlin, Bordeaux and Bristol and 12 more. Often billed alongside Ploy, Alicia (UK) and Allecto. Next up: The Island, Bristol on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 31 Dec 2026 | The Island | Bristol |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bruce is a techno and experimental artist based in United Kingdom, with 45 gigs 
 
 Ploy, Alicia (UK), Allecto
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruce/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruce/)*

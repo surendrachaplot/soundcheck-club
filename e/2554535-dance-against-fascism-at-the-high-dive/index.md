@@ -1,6 +1,6 @@
 # Dance Against Fascism at The High Dive
 
-Dance Against Fascism at The High Dive on Sat 7 Nov, Detroit. 2 artists: Pablo R. Ruiz and Seanni B. House and Electro. See the line-up on soundcheck.
+Dance Against Fascism at The High Dive on Sat 7 Nov, Detroit. 3 artists: Pablo R. Ruiz, Seanni B and Wire One. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Dance Against Fascism at The High Dive on Sat 7 Nov, Detroit. 2 artists: Pablo R
 
 - Pablo R. Ruiz
 - Seanni B
+- Wire One
 
 *Source: [soundcheck](https://soundcheck.club/e/2554535-dance-against-fascism-at-the-high-dive/)*

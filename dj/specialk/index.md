@@ -1,6 +1,6 @@
 # Special K
 
-Special K is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at club asia, Tokyo on Sat, 28 Nov 2026.
+Special K is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at club asia, Tokyo on Sat, 28 Nov 2026.
 
 Special K is a house and disco artist based in United Kingdom, with 19 gigs on soundcheck across Antwerp, Bangkok, Barcelona and Beijing and 3 more. Often billed alongside Kai.F, Leo Furioso and Pei. Next up: club asia, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Special K is a house and disco artist based in United Kingdom, with 19 gigs on s
 
 Kai.F, Leo Furioso, Pei
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/specialk/)*

@@ -1,6 +1,6 @@
 # Louisahhh
 
-Louisahhh is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TANKclub, Bologna on Fri, 6 Nov 2026.
+Louisahhh is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TANKclub, Bologna on Fri, 6 Nov 2026.
 
 Louisahhh is a techno and industrial artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 12 more. Often billed alongside Maëlstrom, Lewis G. Burton and Wax Wings. Next up: TANKclub, Bologna on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Louisahhh is a techno and industrial artist based in United States of America, w
 
 Maëlstrom, Lewis G. Burton, Wax Wings
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisahhh/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisahhh/)*

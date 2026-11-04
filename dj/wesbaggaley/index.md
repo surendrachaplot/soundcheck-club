@@ -1,6 +1,6 @@
 # Wes Baggaley
 
-Wes Baggaley is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Paloma, Berlin on Sat, 7 Nov 2026.
+Wes Baggaley is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Paloma, Berlin on Sat, 7 Nov 2026.
 
 Wes Baggaley is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Birmingham, Bristol and Dublin and 18 more. Often billed alongside Posthuman, Nightwave and Dan Beaumont. Next up: Paloma, Berlin on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Wes Baggaley is a techno and house artist based in United Kingdom, with 76 gigs 
 
 Posthuman, Nightwave, Dan Beaumont
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wesbaggaley/)*

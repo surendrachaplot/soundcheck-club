@@ -1,6 +1,6 @@
 # JAEHAN (2)
 
-JAEHAN (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Modeci, Seoul on Sat, 7 Nov 2026.
+JAEHAN (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Modeci, Seoul on Sat, 7 Nov 2026.
 
 JAEHAN is a house and techno artist based in South Korea, with 67 gigs on soundcheck across Hanoi, Seoul and Tokyo. Often billed alongside Shinyoung, SEOD and Youknowsong. Next up: Modeci, Seoul on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ JAEHAN is a house and techno artist based in South Korea, with 67 gigs on soundc
 
 Shinyoung, SEOD, Youknowsong
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaehan-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaehan-2/)*

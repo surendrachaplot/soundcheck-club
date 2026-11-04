@@ -1,6 +1,6 @@
 # Zuleta M
 
-Zuleta M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Urban Spree, Berlin on Fri, 6 Nov 2026.
+Zuleta M is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Urban Spree, Berlin on Fri, 6 Nov 2026.
 
 Zuleta M is a techno and house artist, with 20 gigs on soundcheck across Barcelona, Berlin and Ibiza. Often billed alongside Gonzalo Lavin (Chile), Besch and HANAFIA'. Next up: Urban Spree, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Zuleta M is a techno and house artist, with 20 gigs on soundcheck across Barcelo
 
 Gonzalo Lavin (Chile), Besch, HANAFIA'
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zuletam/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zuletam/)*

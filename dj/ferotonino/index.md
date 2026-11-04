@@ -1,6 +1,6 @@
 # FEROTONINO
 
-FEROTONINO is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
+FEROTONINO is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
 
 FEROTONINO is a trance and techno artist based in Germany, with 25 gigs on soundcheck across Berlin, Hannover, Leipzig and Münster. Often billed alongside Amøn, YËDM and Cobb Douglas. Next up: Indiego Glocksee, Hannover on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ FEROTONINO is a trance and techno artist based in Germany, with 25 gigs on sound
 
 Amøn, YËDM, Cobb Douglas
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferotonino/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferotonino/)*

@@ -1,14 +1,13 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 37 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Midwife" on Tue, 3 Nov 2026.
+The White Hotel is a music venue in Manchester with 36 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Ana Roxanne + Elucyve + colell" on Wed, 4 Nov 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming gigs, with line-ups including Fastlove, Abena, Afrodeutsche and Aiden Francis and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 36 upcoming gigs, with line-ups including Fastlove, Abena, Afrodeutsche and Aiden Francis and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Midwife | Midwife |
 | Wed, 4 Nov 2026 | Ana Roxanne + Elucyve + colell | Ana Roxanne, Elucyve, colell |
 | Fri, 6 Nov 2026 | Livity Sound: Polygonia / Peverelist / Abena | Abena, Peverelist, Polygonia |
 | Sat, 7 Nov 2026 | MIRE: Elena Colombi / Nosedrip & OKO DJ / Jon K & Elle Andrews / Annabel Fraser / R/E/R | Elena Colombi, Elle Andrews, Jon K, Nosedrip, OKO DJ |
@@ -18,9 +17,10 @@ The White Hotel is a music venue in Manchester listed on soundcheck. 37 upcoming
 | Fri, 13 Nov 2026 | Blasha & Allatt Invites Chami and Reka Zalan | Blasha & Allatt, Chami, Reka Zalan |
 | Sat, 14 Nov 2026 | Collisions: Craig Richards & Ivan Smagghe | Craig Richards, Ivan Smagghe |
 | Sat, 14 Nov 2026 | Gold Panda | Gold Panda |
+| Sun, 15 Nov 2026 | The final Nyege Nyege: Arsenal Mikebe (live) / Kampire / Kop-Z   | Arsenal Mikebe, Kampire, Kop-Z |
 
 ## Address
 
 Dickinson Street Salford M3 7LW, United Kingdom, Manchester
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-white-hotel/)*

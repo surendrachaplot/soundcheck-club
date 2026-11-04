@@ -1,6 +1,6 @@
 # Wehbba
 
-Wehbba is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Slakthuset, Stockholm on Sat, 7 Nov 2026.
+Wehbba is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Slakthuset, Stockholm on Sat, 7 Nov 2026.
 
 Wehbba is a techno and tech house artist based in Brazil, with 51 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside Alex Stein, Ben Klock and Eli Brown. Next up: Slakthuset, Stockholm on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Wehbba is a techno and tech house artist based in Brazil, with 51 gigs on soundc
 
 Alex Stein, Ben Klock, Eli Brown
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wehbba/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wehbba/)*

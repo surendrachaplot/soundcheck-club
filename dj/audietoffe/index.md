@@ -1,13 +1,14 @@
 # Audi Étoffe
 
-Audi Étoffe is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Ontario on Sun, 5 Sept 2027.
+Audi Étoffe is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at See-Scape, Toronto on Sat, 21 Nov 2026.
 
-Audi Étoffe is a techno and hardcore artist based in Canada, with 22 gigs on soundcheck across Ontario and Toronto. Often billed alongside Pauliexoxoxo, MOTH SHANNON and Midnight Snack (TO). Next up: TBA, Ontario on Sun 5 Sept.
+Audi Étoffe is a techno and hardcore artist based in Canada, with 23 gigs on soundcheck across Ontario and Toronto. Often billed alongside Pauliexoxoxo, MOTH SHANNON and Midnight Snack (TO). Next up: See-Scape, Toronto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | See-Scape | Toronto |
 | Sun, 5 Sept 2027 | TBA | Ontario |
 
 ## Recently played
@@ -25,4 +26,4 @@ Audi Étoffe is a techno and hardcore artist based in Canada, with 22 gigs on so
 
 Pauliexoxoxo, MOTH SHANNON, Midnight Snack (TO)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audietoffe/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audietoffe/)*

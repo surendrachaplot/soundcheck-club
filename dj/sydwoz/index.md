@@ -1,6 +1,6 @@
 # Syd Woz
 
-Syd Woz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Post Bar, Helsinki on Sat, 14 Nov 2026.
+Syd Woz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Post Bar, Helsinki on Sat, 14 Nov 2026.
 
 Syd Woz is a techno and house artist based in Canada, with 47 gigs on soundcheck across Berlin, Calgary, Helsinki and Montreal and 4 more. Often billed alongside ZDBT, Frankie Teardrop and DJ dood. Next up: Post Bar, Helsinki on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Syd Woz is a techno and house artist based in Canada, with 47 gigs on soundcheck
 
 ZDBT, Frankie Teardrop, DJ dood
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sydwoz/)*

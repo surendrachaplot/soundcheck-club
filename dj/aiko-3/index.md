@@ -1,6 +1,6 @@
 # AIKO (3)
 
-AIKO (3) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 20 Nov 2026.
+AIKO (3) is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 20 Nov 2026.
 
 AIKO is a techno and acid artist based in Brazil, with 11 gigs on soundcheck across Paris and Rio de Janeiro. Often billed alongside DiskoTekaa*, Guizei and LAFFITTE. Next up: D-Edge RIO, Rio de Janeiro on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ AIKO is a techno and acid artist based in Brazil, with 11 gigs on soundcheck acr
 
 DiskoTekaa*, Guizei, LAFFITTE
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiko-3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aiko-3/)*

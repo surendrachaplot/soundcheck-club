@@ -1,6 +1,6 @@
 # Leandro Conti
 
-Leandro Conti is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Umbria Arts, Philadelphia on Thu, 5 Nov 2026.
+Leandro Conti is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Umbria Arts, Philadelphia on Thu, 5 Nov 2026.
 
 Leandro Conti is a house and tech house artist, with 5 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Andrew James Gustav, Bridget B and Kurilo. Next up: Umbria Arts, Philadelphia on Thu 5 Nov.
 
@@ -21,4 +21,4 @@ Leandro Conti is a house and tech house artist, with 5 gigs on soundcheck across
 
 Andrew James Gustav, Bridget B, Kurilo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leandroconti/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leandroconti/)*

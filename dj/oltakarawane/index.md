@@ -1,6 +1,6 @@
 # Òlta Karawane
 
-Òlta Karawane is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Òlta Karawane is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
 Òlta Karawane is an electronic artist based in Russia, with 10 gigs on soundcheck across Berlin and Prague. Often billed alongside Artem Ikra, Austin Powers and Alessandro Adriani. Next up: The Buzz, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@
 
 Artem Ikra, Austin Powers, Alessandro Adriani
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oltakarawane/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oltakarawane/)*

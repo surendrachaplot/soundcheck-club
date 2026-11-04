@@ -1,6 +1,6 @@
 # GWEN DE LIEN
 
-GWEN DE LIEN is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Kastel, Istanbul on Wed, 4 Nov 2026.
+GWEN DE LIEN is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kastel, Istanbul on Wed, 4 Nov 2026.
 
 GWEN DE LIEN is a house and downtempo artist based in Turkey, with 7 gigs on soundcheck across Istanbul and Stuttgart. Often billed alongside Acid Pauli, Antares (UK) and Marius Lehnert. Next up: Kastel, Istanbul on Wed 4 Nov.
 
@@ -23,4 +23,4 @@ GWEN DE LIEN is a house and downtempo artist based in Turkey, with 7 gigs on sou
 
 Acid Pauli, Antares (UK), Marius Lehnert
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendelien/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gwendelien/)*

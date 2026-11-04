@@ -1,6 +1,6 @@
 # Bors x Disturbia w/ Makam + Valody + José + Mystral & Exuvia + more at TBA - Secret Location
 
-Bors x Disturbia w/ Makam + Valody + José + Mystral & Exuvia + more at TBA - Secret Location on Sat 5 Dec, Madrid. 6 artists: exuvia, Javi Infantes, Makam and Mystral and 2 more. Techno and House. See the line-up on soundcheck.
+Bors x Disturbia w/ Makam + Valody + José + Mystral & Exuvia + more at TBA - Secret Location on Sat 5 Dec, Madrid. 8 artists: exuvia, Javi Infantes, Makam and Mystral and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,8 @@ Bors x Disturbia w/ Makam + Valody + José + Mystral & Exuvia + more at TBA - Se
 - Javi Infantes
 - Makam
 - Mystral
+- Not A Headliner
+- Valody
 - Vitreoux
 - Yakruna
 

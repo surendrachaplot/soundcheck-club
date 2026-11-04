@@ -1,6 +1,6 @@
 # DJ Healthy
 
-DJ Healthy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 14 Nov 2026.
+DJ Healthy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - 4211 Todd Ln Suite A, Austin on Sat, 14 Nov 2026.
 
 DJ Healthy is a techno and house artist based in Japan, with 119 gigs on soundcheck across Austin, Baltimore, Bangkok and Chengdu and 20 more. Often billed alongside Amelia Holt, YELLOWUHURU and Joni DJ. Next up: TBA - 4211 Todd Ln Suite A, Austin on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ DJ Healthy is a techno and house artist based in Japan, with 119 gigs on soundch
 
 Amelia Holt, YELLOWUHURU, Joni DJ
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhealthy/)*

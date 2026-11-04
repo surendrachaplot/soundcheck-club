@@ -1,6 +1,6 @@
 # That Fancy I
 
-That Fancy I is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
+That Fancy I is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at club asia, Tokyo on Sun, 27 Dec 2026.
 
 That Fancy I is a garage and bass artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside Genick, Jacotanu and Nizikawa. Next up: club asia, Tokyo on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ That Fancy I is a garage and bass artist based in Japan, with 10 gigs on soundch
 
 Genick, Jacotanu, Nizikawa
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thatfancyi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thatfancyi/)*

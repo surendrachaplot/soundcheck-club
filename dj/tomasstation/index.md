@@ -1,6 +1,6 @@
 # Tomas Station
 
-Tomas Station is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location, New York City on Sat, 21 Nov 2026.
+Tomas Station is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location, New York City on Sat, 21 Nov 2026.
 
 Tomas Station is a house and techno artist based in Colombia, with 225 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 37 more. Often billed alongside O.BEE, Ricardo Villalobos and Jonny Rock. Next up: TBA - Secret Location, New York City on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Tomas Station is a house and techno artist based in Colombia, with 225 gigs on s
 
 O.BEE, Ricardo Villalobos, Jonny Rock
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*

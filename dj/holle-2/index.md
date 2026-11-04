@@ -1,8 +1,8 @@
 # HØLLE (2)
 
-HØLLE (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 13 Nov 2026.
+HØLLE (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Lokschuppen Berlin, Berlin on Fri, 13 Nov 2026.
 
-HØLLE is a techno and trance artist based in Germany, with 79 gigs on soundcheck across Athens, Berlin, Dresden and Frankfurt and 3 more. Often billed alongside DJ TIPSTER, DiskoJochen and DJ BRECHSTANGE. Next up: Lokschuppen Berlin, Berlin on Fri 13 Nov.
+HØLLE is a techno and trance artist based in Germany, with 80 gigs on soundcheck across Athens, Berlin, Dresden and Frankfurt and 3 more. Often billed alongside DJ TIPSTER, DiskoJochen and DJ BRECHSTANGE. Next up: Lokschuppen Berlin, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HØLLE is a techno and trance artist based in Germany, with 79 gigs on soundchec
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 14 Nov 2026 | Humboldthain Club | Berlin |
+| Fri, 20 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ HØLLE is a techno and trance artist based in Germany, with 79 gigs on soundchec
 
 DJ TIPSTER, DiskoJochen, DJ BRECHSTANGE
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holle-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holle-2/)*

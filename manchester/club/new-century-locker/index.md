@@ -1,6 +1,6 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Two Shell" on Fri, 6 Nov 2026.
+New Century Locker is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Two Shell" on Fri, 6 Nov 2026.
 
 New Century Locker is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Bimini, Dennis Bovell, Egyptian Lover and Hannah Holland and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
@@ -23,4 +23,4 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 11 upcom
 
 34 Hanover St Manchester M4 4AH, Manchester
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*

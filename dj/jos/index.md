@@ -1,6 +1,6 @@
 # Jos
 
-Jos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Dune Park, Buenos Aires on Fri, 6 Nov 2026.
+Jos is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Dune Park, Buenos Aires on Fri, 6 Nov 2026.
 
 Jos is a techno and house artist based in United Kingdom, with 143 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Alien Communications, Loa Szala and De La Reef. Next up: Dune Park, Buenos Aires on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jos is a techno and house artist based in United Kingdom, with 143 gigs on sound
 
 Alien Communications, Loa Szala, De La Reef
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jos/)*

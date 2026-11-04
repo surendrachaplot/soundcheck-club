@@ -1,14 +1,15 @@
 # RYX (1)
 
-RYX (1) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+RYX (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
-RYX is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Berlin, Bucharest, Cologne and Karlsruhe and 5 more. Often billed alongside CÖLN, Badlokk and BBUBU. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
+RYX is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin, Bucharest, Cologne and Karlsruhe and 5 more. Often billed alongside CÖLN, Badlokk and BBUBU. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
+| Sat, 21 Nov 2026 | Gotec | Karlsruhe |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ RYX is a techno and trance artist based in Germany, with 21 gigs on soundcheck a
 
 CÖLN, Badlokk, BBUBU
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryx-1/)*

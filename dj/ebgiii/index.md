@@ -1,14 +1,15 @@
 # ebgiii
 
-ebgiii is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Dolphin, Philadelphia on Thu, 12 Nov 2026.
+ebgiii is a Techno and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Dolphin, Philadelphia on Thu, 12 Nov 2026.
 
-ebgiii is a hardcore and techno artist based in United States of America, with 3 gigs on soundcheck across Philadelphia. Often billed alongside G I N A and Mike Textbeak. Next up: The Dolphin, Philadelphia on Thu 12 Nov.
+ebgiii is a techno and italo disco artist based in United States of America, with 4 gigs on soundcheck across Philadelphia. Often billed alongside G I N A, Mike Textbeak and onna mule. Next up: The Dolphin, Philadelphia on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | The Dolphin | Philadelphia |
+| Fri, 13 Nov 2026 | Bastet | Philadelphia |
 
 ## Recently played
 
@@ -17,6 +18,6 @@ ebgiii is a hardcore and techno artist based in United States of America, with 3
 
 ## Shares bills with
 
-G I N A, Mike Textbeak
+G I N A, Mike Textbeak, onna mule
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebgiii/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebgiii/)*

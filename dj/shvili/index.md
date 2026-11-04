@@ -1,6 +1,6 @@
 # Shvili
 
-Shvili is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret Location, Boston on Sat, 7 Nov 2026.
+Shvili is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location, Boston on Sat, 7 Nov 2026.
 
 Shvili is a house and techno artist based in Georgia, with 131 gigs on soundcheck across Amsterdam, Atlanta, Austin and Boston and 15 more. Often billed alongside Max Sprauer, CAMILLA and Maksim. Next up: TBA - Secret Location, Boston on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Shvili is a house and techno artist based in Georgia, with 131 gigs on soundchec
 
 Max Sprauer, CAMILLA, Maksim
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shvili/)*

@@ -1,18 +1,17 @@
 # Chicago Eagle
 
-Chicago Eagle is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Night Of 1,000 Daegen Michelles" on Tue, 3 Nov 2026.
+Chicago Eagle is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Messy Beaucoup" on Sat, 14 Nov 2026.
 
-Chicago Eagle is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Fortune (US), Justin Cudmore, Mez Monty and Mister Hoochiemama and 2 more. See dates, start times and who's playing. 4713 N Broadway, Chicago, IL 60640.
+Chicago Eagle is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Fortune (US), Justin Cudmore, Mez Monty and Sassmouth. See dates, start times and who's playing. 4713 N Broadway, Chicago, IL 60640.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Night Of 1,000 Daegen Michelles | Mister Hoochiemama, Mister Wallace, Shaun J. Wright |
 | Sat, 14 Nov 2026 | Messy Beaucoup | Fortune (US), Justin Cudmore, Mez Monty, Sassmouth |
 
 ## Address
 
 4713 N Broadway, Chicago, IL 60640, Chicago
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/chicago-eagle/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/chicago-eagle/)*

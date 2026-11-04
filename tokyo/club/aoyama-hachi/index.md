@@ -1,15 +1,13 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dancing Building" on Tue, 3 Nov 2026.
+Aoyama Hachi is a music venue in Tokyo with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Jazz'N'Bass -Jazzy Liquid & Deep Drum'n'Bass" on Sun, 8 Nov 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, with line-ups including CKRN303, Daiki, DJ RS and DJ SPOT and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with line-ups including CKRN303, DJ SPOT, Gara and Jellyf!sh and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Dancing Building | Daiki (2), Hiroyuki Abe, Kitano |
-| Tue, 3 Nov 2026 | WAX WAGGLE 1st Anniversary | DJ RS, KAKERU, MagRena, SOGI, Sayuri (2), Sojourna, ifax!, monielu.h, savezearth |
 | Sun, 8 Nov 2026 | Jazz'N'Bass -Jazzy Liquid & Deep Drum'n'Bass | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sun, 8 Nov 2026 | Hiru-Hachi -DOUBLE SIDER |  |
 | Fri, 13 Nov 2026 | JUST HAVE FUN |  |
@@ -18,9 +16,11 @@ Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 12 upcoming gigs, w
 | Sat, 5 Dec 2026 | accepted. 18 hours anniversary daytime marathon | DJ SPOT, Jellyf!sh, Stan Yaroslavsky, yoshiken, yyshuu |
 | Fri, 25 Dec 2026 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 | Sun, 10 Jan 2027 | Jazz'N'Bass -Jazzy Liquid & Deep Drum'n'Bass | Kenta Tominaga, vinylDJ Eiji Takehana |
+| Fri, 22 Jan 2027 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
+| Fri, 26 Feb 2027 | Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle | Kenta Tominaga, vinylDJ Eiji Takehana |
 
 ## Address
 
 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan, Tokyo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/aoyama-hachi/)*

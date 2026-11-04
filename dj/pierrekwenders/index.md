@@ -1,6 +1,6 @@
 # Pierre Kwenders
 
-Pierre Kwenders is a Club and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Fabriek, Brussels on Sat, 7 Nov 2026.
+Pierre Kwenders is a Club and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at La Fabriek, Brussels on Sat, 7 Nov 2026.
 
 Pierre Kwenders is a club and afro house artist based in Canada, with 53 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 14 more. Often billed alongside San Farafina, Moonshine and NegoO. Next up: La Fabriek, Brussels on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Pierre Kwenders is a club and afro house artist based in Canada, with 53 gigs on
 
 San Farafina, Moonshine, NegoO
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrekwenders/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrekwenders/)*

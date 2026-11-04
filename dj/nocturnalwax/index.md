@@ -1,6 +1,6 @@
 # Nocturnal Wax
 
-Nocturnal Wax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
+Nocturnal Wax is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
 
 Nocturnal Wax is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside side II side, OK Carty and Artemis.105. Next up: El Secreto De Rosita, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Nocturnal Wax is a techno and house artist based in United States of America, wi
 
 side II side, OK Carty, Artemis.105
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalwax/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nocturnalwax/)*

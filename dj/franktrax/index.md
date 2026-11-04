@@ -1,6 +1,6 @@
 # Frank Trax
 
-Frank Trax is a Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+Frank Trax is a Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
 
 Frank Trax is an electronica artist based in Spain, with 13 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Ricardo F, DJ Marta and Da Terror. Next up: Fabrik, Madrid on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Frank Trax is an electronica artist based in Spain, with 13 gigs on soundcheck a
 
 Ricardo F, DJ Marta, Da Terror
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franktrax/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franktrax/)*

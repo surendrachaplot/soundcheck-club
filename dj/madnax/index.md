@@ -1,6 +1,6 @@
 # Madnax
 
-Madnax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Folklor, Lausanne on Thu, 5 Nov 2026.
+Madnax is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Folklor, Lausanne on Thu, 5 Nov 2026.
 
 Madnax is a house and techno artist, with 10 gigs on soundcheck across Berlin, Geneva, Lausanne and Malaga. Often billed alongside Adolpho & Franky, Cecilio and Cesar Merveille. Next up: Folklor, Lausanne on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Madnax is a house and techno artist, with 10 gigs on soundcheck across Berlin, G
 
 Adolpho & Franky, Cecilio, Cesar Merveille
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madnax/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madnax/)*

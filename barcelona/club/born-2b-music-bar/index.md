@@ -1,6 +1,6 @@
 # Born 2B Music Bar
 
-Born 2B Music Bar is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "MOVA BARCELONA: Born Session #4" on Sat, 7 Nov 2026.
+Born 2B Music Bar is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "MOVA BARCELONA: Born Session #4" on Sat, 7 Nov 2026.
 
 Born 2B Music Bar is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Mr. Fruty. See dates, start times and who's playing. Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona.
 
@@ -14,4 +14,4 @@ Born 2B Music Bar is a music venue in Barcelona listed on soundcheck. 1 upcoming
 
 Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona, Barcelona
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/born-2b-music-bar/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/born-2b-music-bar/)*

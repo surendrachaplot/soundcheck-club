@@ -1,6 +1,6 @@
 # WARRECORDS
 
-WARRECORDS is a music venue in Antwerp with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Warrecords invites DONATO & BULLPHROG" on Fri, 6 Nov 2026.
+WARRECORDS is a music venue in Antwerp with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Warrecords invites DONATO & BULLPHROG" on Fri, 6 Nov 2026.
 
 WARRECORDS is a music venue in Antwerp listed on soundcheck. 8 upcoming gigs, with line-ups including Coco Bryce, Flatspot, Guillaume Colson and Lemon & Mint and 2 more. See dates, start times and who's playing. Sint-Katelijnevest 42, 2000 Antwerp, Belgium.
 
@@ -21,4 +21,4 @@ WARRECORDS is a music venue in Antwerp listed on soundcheck. 8 upcoming gigs, wi
 
 Sint-Katelijnevest 42, 2000 Antwerp, Belgium, Antwerp
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/warrecords/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/warrecords/)*

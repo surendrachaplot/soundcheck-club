@@ -1,6 +1,6 @@
 # Zompsy
 
-Zompsy is a Psytrance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Sydney on Sat, 7 Nov 2026.
+Zompsy is a Psytrance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Sydney on Sat, 7 Nov 2026.
 
 Zompsy is a psytrance artist, with 5 gigs on soundcheck across Sydney. Often billed alongside Eternal Soul, Zertex and specimenta. Next up: TBA, Sydney on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Zompsy is a psytrance artist, with 5 gigs on soundcheck across Sydney. Often bil
 
 Eternal Soul, Zertex, specimenta
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zompsy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zompsy/)*

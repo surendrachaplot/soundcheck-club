@@ -1,6 +1,6 @@
 # AMANE
 
-AMANE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
+AMANE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
 
 AMANE is a house and techno artist based in Japan, with 174 gigs on soundcheck across London, Seoul and Tokyo. Often billed alongside Sota Shimada, Hayato and r1ku. Next up: HVEN, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ AMANE is a house and techno artist based in Japan, with 174 gigs on soundcheck a
 
 Sota Shimada, Hayato, r1ku
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amane/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amane/)*

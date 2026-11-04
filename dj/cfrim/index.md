@@ -1,6 +1,6 @@
 # C.FRIM
 
-C.FRIM is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Miscellania, Melbourne on Sat, 7 Nov 2026.
+C.FRIM is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Miscellania, Melbourne on Sat, 7 Nov 2026.
 
 C.FRIM is a techno and house artist based in Australia, with 99 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 23 more. Often billed alongside MIRASIA, Caucasian Opportunities and Sally C. Next up: Miscellania, Melbourne on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ C.FRIM is a techno and house artist based in Australia, with 99 gigs on soundche
 
 MIRASIA, Caucasian Opportunities, Sally C
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cfrim/)*

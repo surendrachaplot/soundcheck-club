@@ -1,6 +1,6 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "FRESH FACES (FREE ENTRY): Alejo Romano, Alex Stauffer, Hilu, KLAPZEE" on Thu, 5 Nov 2026.
+Bulbul Berlin is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "FRESH FACES (FREE ENTRY): Alejo Romano, Alex Stauffer, Hilu, KLAPZEE" on Thu, 5 Nov 2026.
 
 Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including ALINUSH, Ashbeat, ATTA (GER) and Club Jerome and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
@@ -23,4 +23,4 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming gigs,
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

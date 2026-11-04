@@ -1,6 +1,6 @@
 # Stacy Christine
 
-Stacy Christine is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Tee Gee, Los Angeles on Thu, 5 Nov 2026.
+Stacy Christine is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Tee Gee, Los Angeles on Thu, 5 Nov 2026.
 
 Stacy Christine is a house and disco artist based in United States of America, with 128 gigs on soundcheck across Atlanta, Barcelona, Detroit and London and 6 more. Often billed alongside Bears In Space, Perfect Lovers and Annika Wolfe. Next up: Club Tee Gee, Los Angeles on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Stacy Christine is a house and disco artist based in United States of America, w
 
 Bears In Space, Perfect Lovers, Annika Wolfe
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stacychristine/)*

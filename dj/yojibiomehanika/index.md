@@ -1,6 +1,6 @@
 # Yoji Biomehanika
 
-Yoji Biomehanika is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+Yoji Biomehanika is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
 
 Yoji Biomehanika is a techno and trance artist based in Japan, with 15 gigs on soundcheck across Glasgow, Kyoto, Los Angeles and Osaka and 2 more. Often billed alongside Drunken Kong, Tsuyoshi Suzuki and EVE. Next up: Joule, Osaka on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Yoji Biomehanika is a techno and trance artist based in Japan, with 15 gigs on s
 
 Drunken Kong, Tsuyoshi Suzuki, EVE (1)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yojibiomehanika/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yojibiomehanika/)*

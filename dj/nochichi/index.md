@@ -1,14 +1,15 @@
 # nochichi
 
-nochichi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Secret place Lyon - accès tram TCL et parking sur place, Lyon on Sat, 7 Nov 2026.
+nochichi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret place Lyon - accès tram TCL et parking sur place, Lyon on Sat, 7 Nov 2026.
 
-nochichi is a techno and house artist based in France, with 20 gigs on soundcheck across Lyon, Montreal and New York City. Often billed alongside Sinai, -ROUX- and Alex Kassian. Next up: TBA - Secret place Lyon - accès tram TCL et parking sur place, Lyon on Sat 7 Nov.
+nochichi is a techno and house artist based in France, with 21 gigs on soundcheck across Lyon, Montreal and New York City. Often billed alongside Sinai, -ROUX- and Alex Kassian. Next up: TBA - Secret place Lyon - accès tram TCL et parking sur place, Lyon on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - Secret place Lyon - accès tram TCL et parking sur place | Lyon |
+| Fri, 13 Nov 2026 | Super5 | Lyon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ nochichi is a techno and house artist based in France, with 20 gigs on soundchec
 
 Sinai (2), -ROUX-, Alex Kassian
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nochichi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nochichi/)*

@@ -1,8 +1,8 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 14 Nov 2026.
+DJ Hell is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 14 Nov 2026.
 
-DJ Hell is a techno and house artist based in Germany, with 150 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: Stromwerk Dresden, Dresden on Sat 14 Nov.
+DJ Hell is a techno and house artist based in Germany, with 151 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: Stromwerk Dresden, Dresden on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ DJ Hell is a techno and house artist based in Germany, with 150 gigs on soundche
 | Mon, 7 Dec 2026 | Q35 WAREHOUSE | Turin |
 | Sat, 12 Dec 2026 | REC Napoli | Naples |
 | Sat, 19 Dec 2026 | Warehouse | Nantes |
+| Thu, 31 Dec 2026 | Karmakoma | Belgrade |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ DJ Hell is a techno and house artist based in Germany, with 150 gigs on soundche
 
 Binh, Paty Vapor, Helena Hauff
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

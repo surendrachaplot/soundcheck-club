@@ -1,6 +1,6 @@
 # PH00000NG
 
-PH00000NG is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
+PH00000NG is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
 
 PH00000NG is a techno and house artist based in Vietnam, with 13 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Park:ING, CON.R and Kiki Raikkonen. Next up: Unmute, Hanoi on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ PH00000NG is a techno and house artist based in Vietnam, with 13 gigs on soundch
 
 Park:ING, CON.R, Kiki Raikkonen
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ph00000ng/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ph00000ng/)*

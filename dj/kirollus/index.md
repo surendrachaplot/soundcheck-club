@@ -1,13 +1,14 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Verbier, Switzerland on Fri, 20 Nov 2026.
+Kirollus is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 13 Nov 2026.
 
-Kirollus is a house and disco artist based in United Kingdom, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Verbier, Switzerland on Fri 20 Nov.
+Kirollus is a house and disco artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 45 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: Cabaret Sauvage, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Cabaret Sauvage | Paris |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | Lula Club | Madrid |
@@ -30,4 +31,4 @@ Kirollus is a house and disco artist based in United Kingdom, with 161 gigs on s
 
 MiNNA, Tonno Disko, Dan Shake
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirollus/)*

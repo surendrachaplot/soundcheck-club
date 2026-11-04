@@ -1,11 +1,15 @@
 # NO NAME at Lula Club
 
-NO NAME at Lula Club on Thu 12 Nov, Madrid. See the line-up on soundcheck.
+NO NAME at Lula Club on Thu 12 Nov, Madrid. 1 artist: Chris Figueroa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Thu, 12 Nov 2026 |
 | Venue | Lula Club |
 | City | Madrid |
+
+## Line-up
+
+- Chris Figueroa
 
 *Source: [soundcheck](https://soundcheck.club/e/2545103-no-name-at-lula-club/)*

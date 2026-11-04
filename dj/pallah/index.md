@@ -1,6 +1,6 @@
 # PALLAH
 
-PALLAH is a electronic artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
+PALLAH is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at DEX, Moscow on Fri, 11 Dec 2026.
 
 PALLAH is an electronic artist based in Russia, with 2 gigs on soundcheck across Berlin and Moscow. Often billed alongside ALOD, Annie and Aslan. Next up: DEX, Moscow on Fri 11 Dec.
 
@@ -15,4 +15,4 @@ PALLAH is an electronic artist based in Russia, with 2 gigs on soundcheck across
 
 ALOD, Annie, Aslan (3)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pallah/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pallah/)*

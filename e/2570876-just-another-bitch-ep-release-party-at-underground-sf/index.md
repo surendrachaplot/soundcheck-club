@@ -1,6 +1,6 @@
 # Just Another Bitch EP Release Party at Underground SF
 
-Just Another Bitch EP Release Party at Underground SF on Thu 12 Nov, San Francisco/Oakland. 11 artists: Aepricity, Arreola Grande, ek:) and jmo corleone and 7 more. Bass and Club. See the line-up on soundcheck.
+Just Another Bitch EP Release Party at Underground SF on Thu 12 Nov, San Francisco/Oakland. 11 artists: Aepricity, Arreola Grande, Davey Ultra and ek:) and 7 more. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,8 @@ Just Another Bitch EP Release Party at Underground SF on Thu 12 Nov, San Francis
 
 - Aepricity
 - Arreola Grande
+- Davey Ultra
 - ek:)
-- jmo corleone
 - Just Another Bitch
 - Koreaboo
 - likeholywine

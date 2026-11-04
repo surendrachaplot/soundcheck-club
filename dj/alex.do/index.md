@@ -1,6 +1,6 @@
 # Alex.Do
 
-Alex.Do is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at ://about blank, Berlin on Sat, 7 Nov 2026.
+Alex.Do is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ://about blank, Berlin on Sat, 7 Nov 2026.
 
 Alex.Do is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Sylvie Maziarz, Hang Aoki and Hanna Baertig. Next up: ://about blank, Berlin on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Alex.Do is a techno and house artist based in Germany, with 40 gigs on soundchec
 
 Sylvie Maziarz, Hang Aoki, Hanna Baertig
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.do/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alex.do/)*

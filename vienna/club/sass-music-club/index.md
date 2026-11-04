@@ -1,6 +1,6 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Donnerstag Nacht with Artemuse, Michael Wagner, Gilista" on Thu, 5 Nov 2026.
+SASS Music Club is a music venue in Vienna with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Donnerstag Nacht with Artemuse, Michael Wagner, Gilista" on Thu, 5 Nov 2026.
 
 SASS Music Club is a music venue in Vienna listed on soundcheck. 8 upcoming gigs, with line-ups including André (OF), Apua, Artemuse and Bambi-S and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
@@ -21,4 +21,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 8 upcoming gigs
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

@@ -1,8 +1,8 @@
 # Loidis
 
-Loidis is a Techno and Dub Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Fuse, Brussels on Fri, 6 Nov 2026.
+Loidis is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Fuse, Brussels on Fri, 6 Nov 2026.
 
-Loidis is a techno and dub techno artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: Fuse, Brussels on Fri 6 Nov.
+Loidis is a techno and house artist based in United States of America, with 70 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 32 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: Fuse, Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Loidis is a techno and dub techno artist based in United States of America, with
 | Fri, 13 Nov 2026 | Palais | London |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Thu, 19 Nov 2026 | Nowadays | New York City |
+| Fri, 27 Nov 2026 | Bastet | Philadelphia |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Loidis is a techno and dub techno artist based in United States of America, with
 
 Huerco S., Skee Mask, DJ Python
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loidis/)*

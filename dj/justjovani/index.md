@@ -1,14 +1,15 @@
 # JustJovani
 
-JustJovani is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
+JustJovani is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-JustJovani is a techno and acid artist based in United States of America, with 60 gigs on soundcheck across San Francisco/Oakland. Often billed alongside SNAQ, Sandra Mane and Suanni. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 13 Nov.
+JustJovani is a techno and acid artist based in United States of America, with 61 gigs on soundcheck across San Francisco/Oakland. Often billed alongside SNAQ, Sandra Mane and Suanni. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | F8 1192 Folsom | San Francisco/Oakland |
+| Sat, 21 Nov 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Thu, 3 Dec 2026 | F8 1192 Folsom | San Francisco/Oakland |
 
 ## Recently played
@@ -26,4 +27,4 @@ JustJovani is a techno and acid artist based in United States of America, with 6
 
 SNAQ, Sandra Mane, Suanni
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justjovani/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justjovani/)*

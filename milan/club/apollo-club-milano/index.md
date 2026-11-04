@@ -1,6 +1,6 @@
 # Apollo Club Milano
 
-Apollo Club Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "CIAO. Discoteca Italiana" on Sat, 14 Nov 2026.
+Apollo Club Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CIAO. Discoteca Italiana" on Sat, 14 Nov 2026.
 
 Apollo Club Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Davide Dev, Kapote and Ricardo Baez. See dates, start times and who's playing. via Giosuè Borsi, 9, 20143, Milan.
 
@@ -15,4 +15,4 @@ Apollo Club Milano is a music venue in Milan listed on soundcheck. 2 upcoming gi
 
 via Giosuè Borsi, 9, 20143, Milan, Milan
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apollo-club-milano/)*

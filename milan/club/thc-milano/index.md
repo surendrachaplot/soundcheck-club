@@ -1,17 +1,17 @@
 # THC MILANO
 
-THC MILANO is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "CHILLERS - Ambient Music & Tisane" on Sun, 25 Oct 2026.
+THC MILANO is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Pablito El Drito Vinyl Set (Guest Ganja Matrix)" on Sun, 20 Dec 2026.
 
-THC MILANO is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including HI LIFE and Telling Silence. See dates, start times and who's playing. Via Roggia Scagna, 7, 20127 Milano MI.
+THC MILANO is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Pablito el Drito. See dates, start times and who's playing. Via Roggia Scagna, 7, 20127 Milano MI.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sun, 25 Oct 2026 | CHILLERS - Ambient Music & Tisane | HI LIFE, Telling Silence |
+| Sun, 20 Dec 2026 | Pablito El Drito Vinyl Set (Guest Ganja Matrix) | Pablito el Drito |
 
 ## Address
 
 Via Roggia Scagna, 7, 20127 Milano MI, Milan
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/milan/club/thc-milano/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/thc-milano/)*

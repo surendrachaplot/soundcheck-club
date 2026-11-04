@@ -1,6 +1,6 @@
 # YīN YīN
 
-YīN YīN is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+YīN YīN is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 YīN YīN is an electronica and house artist based in Netherlands, with 8 gigs on soundcheck across Berlin, Bristol, London and Melbourne and 2 more. Often billed alongside 1tbsp, 6 SENSE and ANONM. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -24,4 +24,4 @@ YīN YīN is an electronica and house artist based in Netherlands, with 8 gigs o
 
 1tbsp, 6 SENSE, ANONM
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yinyin/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yinyin/)*

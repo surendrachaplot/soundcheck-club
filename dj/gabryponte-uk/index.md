@@ -1,6 +1,6 @@
 # Gabry Ponte
 
-Gabry Ponte is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Stadthalle Graz, Austria on Sat, 9 Jan 2027.
+Gabry Ponte is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Stadthalle Graz, Austria on Sat, 9 Jan 2027.
 
 Gabry Ponte is a techno and club artist based in Italy, with 16 gigs on soundcheck across Amsterdam, Austria, Bologna and Bucharest and 6 more. Often billed alongside 999999999, ADIN and Adam Beyer. Next up: Stadthalle Graz, Austria on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Gabry Ponte is a techno and club artist based in Italy, with 16 gigs on soundche
 
 999999999, ADIN, Adam Beyer
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabryponte-uk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabryponte-uk/)*

@@ -1,6 +1,6 @@
 # Pete Rock
 
-Pete Rock is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Eden NYC, New York City on Fri, 6 Nov 2026.
+Pete Rock is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Eden NYC, New York City on Fri, 6 Nov 2026.
 
 Pete Rock is a funk / soul and house artist, with 4 gigs on soundcheck across Bristol, London, Nashville and New York City. Often billed alongside DJ Shannon, Donis and Jack White. Next up: Eden NYC, New York City on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Pete Rock is a funk / soul and house artist, with 4 gigs on soundcheck across Br
 
 DJ Shannon, Donis, Jack White
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterock/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peterock/)*

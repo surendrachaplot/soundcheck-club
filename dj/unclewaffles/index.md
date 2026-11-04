@@ -1,6 +1,6 @@
 # Uncle Waffles
 
-Uncle Waffles is a Amapiano and Afrobeat artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cabo Beach Club, Cape Town on Fri, 27 Nov 2026.
+Uncle Waffles is a Amapiano and Afrobeat artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Cabo Beach Club, Cape Town on Fri, 27 Nov 2026.
 
 Uncle Waffles is an amapiano and afrobeat artist based in South Africa, with 31 gigs on soundcheck across Atlanta, Barcelona, Berlin and Cape Town and 13 more. Often billed alongside Dj Maphorisa, Groove and ID. Next up: Cabo Beach Club, Cape Town on Fri 27 Nov.
 
@@ -28,4 +28,4 @@ Uncle Waffles is an amapiano and afrobeat artist based in South Africa, with 31 
 
 Dj Maphorisa, Groove, ID
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unclewaffles/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unclewaffles/)*

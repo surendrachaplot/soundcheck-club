@@ -1,6 +1,6 @@
 # Printhouse
 
-Printhouse is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Printhouse Edition 0003" on Sat, 14 Nov 2026.
+Printhouse is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Printhouse Edition 0003" on Sat, 14 Nov 2026.
 
 Printhouse is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Euphrat, IZZYA, Kinzua and Recondite and 1 more. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Printhouse is a music venue in Munich listed on soundcheck. 1 upcoming gig, with
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Printhouse Edition 0003 | .VRIL, Euphrat, IZZYA, Kinzua, Recondite |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/printhouse/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/printhouse/)*

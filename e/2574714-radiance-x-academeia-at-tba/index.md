@@ -1,6 +1,6 @@
 # RADIANCE x ACADEMEIA at TBA
 
-RADIANCE x ACADEMEIA at TBA on Fri 13 Nov, Berlin. 8 artists: Árni, Costanza, current (hiss) and ISA (ES) and 4 more. Techno and Ambient. See the line-up on soundcheck.
+RADIANCE x ACADEMEIA at TBA on Fri 13 Nov, Berlin. 8 artists: Árni, current (hiss), ISA (ES) and Justin Shaffer and 4 more. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,10 +11,10 @@ RADIANCE x ACADEMEIA at TBA on Fri 13 Nov, Berlin. 8 artists: Árni, Costanza, c
 ## Line-up
 
 - Árni
-- Costanza
 - current (hiss)
 - ISA (ES)
 - Justin Shaffer
+- Mitotili
 - Space Drum Meditation
 - Vorraum
 - Xyro

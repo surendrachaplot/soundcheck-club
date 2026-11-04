@@ -1,14 +1,15 @@
 # Mauricio Fleury
 
-Mauricio Fleury is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at migas, a listening bar, Berlin on Fri, 6 Nov 2026.
+Mauricio Fleury is a Electronica and Jazz artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at migas, a listening bar, Berlin on Fri, 6 Nov 2026.
 
-Mauricio Fleury is an electronica and experimental artist based in Brazil, with 12 gigs on soundcheck across Berlin. Often billed alongside Ken Okuda, Bulma Brief and Dj Quien. Next up: migas, a listening bar, Berlin on Fri 6 Nov.
+Mauricio Fleury is an electronica and jazz artist based in Brazil, with 13 gigs on soundcheck across Berlin. Often billed alongside Ken Okuda, Bulma Brief and Dj Quien. Next up: migas, a listening bar, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | migas, a listening bar | Berlin |
+| Thu, 12 Nov 2026 | TBA - Secret Location | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mauricio Fleury is an electronica and experimental artist based in Brazil, with 
 
 Ken Okuda, Bulma Brief, Dj Quien
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauriciofleury/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauriciofleury/)*

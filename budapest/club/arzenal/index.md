@@ -1,6 +1,6 @@
 # Arzenal
 
-Arzenal is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT" on Sat, 7 Nov 2026.
+Arzenal is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Raum für Ton at Arzenál Chapter One with Parallx, AESZTETIK, Kabay, Leskus, Tarkan, THIRD 2HIFT" on Sat, 7 Nov 2026.
 
 Arzenal is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, with line-ups including 1991 (UK), ädene, AESZTETIK and Afterlife and 2 more. See dates, start times and who's playing. Soroksári út 158/C Budapest, Hungary 1095.
 
@@ -23,4 +23,4 @@ Arzenal is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, wit
 
 Soroksári út 158/C Budapest, Hungary 1095, Budapest
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/arzenal/)*

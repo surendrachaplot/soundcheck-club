@@ -1,6 +1,6 @@
 # Dual
 
-Dual is a music venue in Bangkok with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Gabriel Rai, Christian & JAKRIN" on Fri, 6 Nov 2026.
+Dual is a music venue in Bangkok with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Gabriel Rai, Christian & JAKRIN" on Fri, 6 Nov 2026.
 
 Dual is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs, with line-ups including .g (TH), Alex Dima, Alexia Glensy and AN!KA and 2 more. See dates, start times and who's playing. Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500.
 
@@ -22,4 +22,4 @@ Dual is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs, with lin
 
 Soi Naradhiwas Rajanagarindra 3, Si Lom, Bang Rak, Bangkok 10500, Bangkok
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/dual/)*

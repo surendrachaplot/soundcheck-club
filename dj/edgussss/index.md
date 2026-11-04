@@ -1,6 +1,6 @@
 # Edgussss
 
-Edgussss is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cartilage, Paris on Fri, 20 Nov 2026.
+Edgussss is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cartilage, Paris on Fri, 20 Nov 2026.
 
 Edgussss is a techno and industrial artist, with 5 gigs on soundcheck across Paris. Often billed alongside Ad Astra, Ben Hamama and Camy Huot. Next up: Cartilage, Paris on Fri 20 Nov.
 
@@ -21,4 +21,4 @@ Edgussss is a techno and industrial artist, with 5 gigs on soundcheck across Par
 
 Ad Astra, Ben Hamama, Camy Huot
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgussss/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edgussss/)*

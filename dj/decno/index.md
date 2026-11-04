@@ -1,6 +1,6 @@
 # Decno
 
-Decno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 6 Nov 2026.
+Decno is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at La Cheetah Club, Glasgow on Fri, 6 Nov 2026.
 
 Decno is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across Glasgow, Manchester and Vienna. Often billed alongside Craigen, Gourlay and LAZLO. Next up: La Cheetah Club, Glasgow on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Decno is a techno and house artist based in United Kingdom, with 25 gigs on soun
 
 Craigen, Gourlay, LAZLO
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decno/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decno/)*

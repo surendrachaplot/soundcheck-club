@@ -1,8 +1,8 @@
 # Fatboy Slim
 
-Fatboy Slim is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Palladium Riga, Riga on Fri, 20 Nov 2026.
+Fatboy Slim is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Palladium Riga, Riga on Fri, 20 Nov 2026.
 
-Fatboy Slim is a house and techno artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Palladium Riga, Riga on Fri 20 Nov.
+Fatboy Slim is a house and techno artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside Sarah Story, Jayda G and Tini Gessler. Next up: Palladium Riga, Riga on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,9 +13,13 @@ Fatboy Slim is a house and techno artist based in United Kingdom, with 111 gigs 
 | Sat, 12 Dec 2026 | James and Ethel Gray Park | Johannesburg |
 | Tue, 15 Dec 2026 | Cabo Beach Club | Cape-town |
 | Wed, 16 Dec 2026 | Cabo Beach Club | Cape-town |
+| Mon, 28 Dec 2026 | Café del Mar Phuket | Thailand |
 | Thu, 21 Jan 2027 | Igloofest | Montreal |
 | Fri, 22 Jan 2027 | A.i Warehouse | Washington DC |
 | Fri, 5 Mar 2027 | Carriageworks | Sydney |
+| Sat, 6 Mar 2027 | Carriageworks | Sydney |
+| Sun, 7 Mar 2027 | Carriageworks | Sydney |
+| Fri, 12 Mar 2027 | The Underpass Melbourne | Melbourne |
 
 ## Recently played
 
@@ -32,4 +36,4 @@ Fatboy Slim is a house and techno artist based in United Kingdom, with 111 gigs 
 
 Sarah Story, Jayda G, Tini Gessler
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fatboyslim/)*

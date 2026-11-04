@@ -1,6 +1,6 @@
 # Marco Hilbert (2)
 
-Marco Hilbert (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Gewölbe, Cologne on Sat, 28 Nov 2026.
+Marco Hilbert (2) is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Gewölbe, Cologne on Sat, 28 Nov 2026.
 
 Marco Hilbert is a techno artist based in Germany, with 5 gigs on soundcheck across Cologne and Münster. Often billed alongside Elisen, pik and Annemalie. Next up: Gewölbe, Cologne on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Marco Hilbert is a techno artist based in Germany, with 5 gigs on soundcheck acr
 
 Elisen, pik (1), Annemalie
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcohilbert-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcohilbert-2/)*

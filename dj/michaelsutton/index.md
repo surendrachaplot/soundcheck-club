@@ -1,18 +1,18 @@
 # Michael Sutton
 
-Michael Sutton is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mødular., Cape Town on Tue, 3 Nov 2026.
+Michael Sutton is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Halo, Cape Town on Sat, 14 Nov 2026.
 
-Michael Sutton is a house and deep house artist based in South Africa, with 33 gigs on soundcheck across Barcelona, Cape Town and Ibiza. Often billed alongside Kanedo, 2lani The Warrior and ALDAVE. Next up: Mødular., Cape Town on Tue 3 Nov.
+Michael Sutton is a house and deep house artist based in South Africa, with 33 gigs on soundcheck across Barcelona, Cape Town and Ibiza. Often billed alongside Kanedo, 2lani The Warrior and ALDAVE. Next up: Halo, Cape Town on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 3 Nov 2026 | Mødular. | Cape Town |
 | Sat, 14 Nov 2026 | Halo | Cape Town |
 
 ## Recently played
 
+- Mødular., Cape Town · Tue, 3 Nov 2026
 - Mødular., Cape Town · Wed, 23 Sept 2026
 - Macarena Club, Barcelona · Tue, 21 Jul 2026
 - Purobeach Barcelona, Barcelona · Sun, 19 Jul 2026
@@ -20,10 +20,9 @@ Michael Sutton is a house and deep house artist based in South Africa, with 33 g
 - Mødular., Cape Town · Mon, 15 Jun 2026
 - Batanga, Cape Town · Sun, 14 Jun 2026
 - Batanga, Cape Town · Sun, 10 May 2026
-- Batanga, Cape Town · Sun, 12 Apr 2026
 
 ## Shares bills with
 
 Kanedo, 2lani The Warrior, ALDAVE
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelsutton/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelsutton/)*

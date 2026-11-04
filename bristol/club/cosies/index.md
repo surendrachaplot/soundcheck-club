@@ -1,6 +1,6 @@
 # Cosies
 
-Cosies is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Beats and Breaks (All Vinyl Rave)" on Thu, 5 Nov 2026.
+Cosies is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Beats and Breaks (All Vinyl Rave)" on Thu, 5 Nov 2026.
 
 Cosies is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including Bronwyn, Col the Doctor, Vasho and Vic Parker. See dates, start times and who's playing. 34 Portland Square; Bristol BS2 8RG, United Kingdom.
 
@@ -15,4 +15,4 @@ Cosies is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with l
 
 34 Portland Square; Bristol BS2 8RG, United Kingdom, Bristol
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/cosies/)*

@@ -1,6 +1,6 @@
 # Subb-an
 
-Subb-an is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Phonica Records, London on Thu, 5 Nov 2026.
+Subb-an is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Phonica Records, London on Thu, 5 Nov 2026.
 
 Subb-an is a house and tech house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 30 more. Often billed alongside Adam Shelton, Anika Kunst and Bunny. Next up: Phonica Records, London on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Subb-an is a house and tech house artist based in United Kingdom, with 65 gigs o
 
 Adam Shelton, Anika Kunst, Bunny
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subb-an/)*

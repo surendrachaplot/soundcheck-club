@@ -1,6 +1,6 @@
 # DJBran
 
-DJBran is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at SIX Feet Under, Cardiff on Sat, 21 Nov 2026.
+DJBran is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at SIX Feet Under, Cardiff on Sat, 21 Nov 2026.
 
 DJBran is a house and garage artist based in United Kingdom, with 4 gigs on soundcheck across Cardiff. Often billed alongside IZP, Asa Ray and GEE LEE. Next up: SIX Feet Under, Cardiff on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ DJBran is a house and garage artist based in United Kingdom, with 4 gigs on soun
 
 IZP (1), Asa Ray, GEE LEE
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbran/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbran/)*

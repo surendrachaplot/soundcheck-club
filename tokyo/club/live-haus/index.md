@@ -1,6 +1,6 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Global pops party 'Die a little bit'" on Sat, 14 Nov 2026.
+Live Haus is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Global pops party 'Die a little bit'" on Sat, 14 Nov 2026.
 
 Live Haus is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including EVE, EYEMAY, TAISHI IWAMI and TYPE-O RISK SYSTEM and 1 more. See dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
@@ -15,4 +15,4 @@ Live Haus is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with 
 
 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan, Tokyo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/live-haus/)*

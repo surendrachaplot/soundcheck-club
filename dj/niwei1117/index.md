@@ -1,6 +1,6 @@
 # niwei1117
 
-niwei1117 is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
+niwei1117 is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
 
 niwei1117 is a house and jazz artist based in Taiwan, with 14 gigs on soundcheck across Taipei. Often billed alongside Umbra, Diskonnected and Melting 99. Next up: Pawnshop, Taipei on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ niwei1117 is a house and jazz artist based in Taiwan, with 14 gigs on soundcheck
 
 Umbra (2), Diskonnected, Melting 99
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niwei1117/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niwei1117/)*

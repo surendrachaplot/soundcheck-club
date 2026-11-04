@@ -1,6 +1,6 @@
 # ARAKAZA
 
-ARAKAZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at BASIS, Utrecht on Sun, 8 Nov 2026.
+ARAKAZA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at BASIS, Utrecht on Sun, 8 Nov 2026.
 
 ARAKAZA is a techno and house artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Berlin, Brussels and Rotterdam and 1 more. Often billed alongside DRKNGHTS, LazerGazer and Chinnamasta. Next up: BASIS, Utrecht on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ ARAKAZA is a techno and house artist based in Netherlands, with 23 gigs on sound
 
 DRKNGHTS, LazerGazer, Chinnamasta
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arakaza/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arakaza/)*

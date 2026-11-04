@@ -1,6 +1,6 @@
 # Icehouse
 
-Icehouse is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "House Sessions" on Sat, 14 Nov 2026.
+Icehouse is a music venue in Minneapolis/St Paul with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "House Sessions" on Sat, 14 Nov 2026.
 
 Icehouse is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Icehouse is a music venue in Minneapolis/St Paul listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | House Sessions |  |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/icehouse/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/minneapolis/club/icehouse/)*

@@ -1,14 +1,14 @@
 # Henson
 
-Henson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Bricks, London on Fri, 6 Nov 2026.
+Henson is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bricks, London on Fri, 27 Nov 2026.
 
-Henson is a house and tech house artist based in United Kingdom, with 12 gigs on soundcheck across London and Vienna. Often billed alongside saint.clair, Albin Brezlan and Alfaz. Next up: Bricks, London on Fri 6 Nov.
+Henson is a house and tech house artist based in United Kingdom, with 12 gigs on soundcheck across London and Vienna. Often billed alongside saint.clair, Albin Brezlan and Alfaz. Next up: Bricks, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Bricks | London |
+| Fri, 27 Nov 2026 | Bricks | London |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Henson is a house and tech house artist based in United Kingdom, with 12 gigs on
 
 saint.clair, Albin Brezlan, Alfaz
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henson/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henson/)*

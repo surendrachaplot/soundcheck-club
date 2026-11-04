@@ -1,6 +1,6 @@
 # Dual Damage
 
-Dual Damage is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at O2 Academy, Glasgow on Sat, 14 Nov 2026.
+Dual Damage is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at O2 Academy, Glasgow on Sat, 14 Nov 2026.
 
 Dual Damage is a techno and hardcore artist based in Netherlands, with 36 gigs on soundcheck across Antwerp, Cologne, Düsseldorf and Frankfurt and 17 more. Often billed alongside Angerfist, Paul Elstak and Da Tweekaz. Next up: O2 Academy, Glasgow on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Dual Damage is a techno and hardcore artist based in Netherlands, with 36 gigs o
 
 Angerfist, Paul Elstak, Da Tweekaz
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dualdamage/)*

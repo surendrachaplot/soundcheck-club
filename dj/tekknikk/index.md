@@ -1,6 +1,6 @@
 # Tekk Nikk
 
-Tekk Nikk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at M-BIA, Berlin on Fri, 6 Nov 2026.
+Tekk Nikk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at M-BIA, Berlin on Fri, 6 Nov 2026.
 
 Tekk Nikk is a techno and house artist based in United States of America, with 16 gigs on soundcheck across Berlin, Denver, Detroit and Minneapolis/St Paul and 1 more. Often billed alongside Techno Frühstück, Tekk and A². Next up: M-BIA, Berlin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Tekk Nikk is a techno and house artist based in United States of America, with 1
 
 Techno Frühstück, Tekk, A²
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tekknikk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tekknikk/)*

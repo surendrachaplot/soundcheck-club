@@ -1,6 +1,6 @@
 # Marco Carola
 
-Marco Carola is a Tech House and Techno artist with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Vale do Anhangabaú, Sao Paulo on Sat, 7 Nov 2026.
+Marco Carola is a Tech House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vale do Anhangabaú, Sao Paulo on Sat, 7 Nov 2026.
 
 Marco Carola is a tech house and techno artist based in Italy, with 325 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 45 more. Often billed alongside Franky Rizardo, Ale De Tuglie and Loco Dice. Next up: Vale do Anhangabaú, Sao Paulo on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ Marco Carola is a tech house and techno artist based in Italy, with 325 gigs on 
 
 Franky Rizardo, Ale De Tuglie, Loco Dice
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcocarola/)*

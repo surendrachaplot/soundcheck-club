@@ -1,6 +1,6 @@
 # Benji King
 
-Benji King is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+Benji King is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
 
 Benji King is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Dublin and 8 more. Often billed alongside Phill de Janeiro, Jude Lenihan and Truly Madly. Next up: The Cause, London on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Benji King is a house and tech house artist based in United Kingdom, with 84 gig
 
 Phill de Janeiro, Jude Lenihan, Truly Madly
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjiking/)*

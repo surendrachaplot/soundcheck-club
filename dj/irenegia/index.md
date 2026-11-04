@@ -1,8 +1,8 @@
 # Irene Gia
 
-Irene Gia is a electronic artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 12 Dec 2026.
+Irene Gia is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Starlane Pizza Bar, London on Sat, 12 Dec 2026.
 
-Irene Gia is an electronic artist, with 6 gigs on soundcheck across London. Often billed alongside Billa Bazz, Blake and Colaps. Next up: Starlane Pizza Bar, London on Sat 12 Dec.
+Irene Gia is an electronic artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside Billa Bazz, Blake and Colaps. Next up: Starlane Pizza Bar, London on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Irene Gia is an electronic artist, with 6 gigs on soundcheck across London. Ofte
 
 Billa Bazz, Blake, Colaps
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irenegia/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irenegia/)*

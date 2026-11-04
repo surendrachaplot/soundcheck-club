@@ -1,6 +1,6 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Night Cat, Melbourne on Fri, 6 Nov 2026.
+Gravagerz is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Night Cat, Melbourne on Fri, 6 Nov 2026.
 
 Gravagerz is a house and garage artist based in Italy, with 18 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 14 more. Often billed alongside James Hype (UK), Tini Gessler and Casey Club. Next up: The Night Cat, Melbourne on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Gravagerz is a house and garage artist based in Italy, with 18 gigs on soundchec
 
 James Hype (UK), Tini Gessler, Casey Club
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

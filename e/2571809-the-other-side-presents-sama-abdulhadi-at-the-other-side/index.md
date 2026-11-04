@@ -1,6 +1,6 @@
 # THE OTHER SIDE presents: Sama' Abdulhadi at THE OTHER SIDE
 
-THE OTHER SIDE presents: Sama' Abdulhadi on Sat 28 Nov, Amsterdam. 1 artist: Sama' Abdulhadi. Tech House. See the line-up on soundcheck.
+THE OTHER SIDE presents: Sama' Abdulhadi on Sat 28 Nov, Amsterdam. 1 artist: Sama' Abdulhadi. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

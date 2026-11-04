@@ -1,13 +1,14 @@
 # Asal
 
-Asal is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Asal is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 7 Nov 2026.
 
-Asal is a techno and electro artist based in Italy, with 12 gigs on soundcheck across Amsterdam, Bali, Barcelona and Cologne and 5 more. Often billed alongside MRAK, CamelPhat and Jean B. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
+Asal is a techno and electro artist based in Italy, with 13 gigs on soundcheck across Amsterdam, Bali, Barcelona and Cologne and 6 more. Often billed alongside MRAK, CamelPhat and Jean B. Next up: Yan Gastro, Istanbul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Yan Gastro | Istanbul |
 | Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 
 ## Recently played
@@ -25,4 +26,4 @@ Asal is a techno and electro artist based in Italy, with 12 gigs on soundcheck a
 
 MRAK, CamelPhat, Jean B
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asal/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asal/)*

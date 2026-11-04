@@ -1,6 +1,6 @@
 # Bins
 
-Bins is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Bins is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Bins is a house and techno artist, with 5 gigs on soundcheck across Bangkok, Hanoi, Manila and Thailand. Often billed alongside Emel, Afrodite and Alex Albrecht. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -21,4 +21,4 @@ Bins is a house and techno artist, with 5 gigs on soundcheck across Bangkok, Han
 
 Emel, Afrodite (2), Alex Albrecht
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bins/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bins/)*

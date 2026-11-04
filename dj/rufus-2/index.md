@@ -1,6 +1,6 @@
 # Rufus (2)
 
-Rufus (2) is a Tech House and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Stereo, Glasgow on Sat, 28 Nov 2026.
+Rufus (2) is a Tech House and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Stereo, Glasgow on Sat, 28 Nov 2026.
 
 Rufus is a tech house and jungle artist, with 4 gigs on soundcheck across Glasgow and London. Often billed alongside Joey Name, 2Shy MC and Bladerunner. Next up: Stereo, Glasgow on Sat 28 Nov.
 
@@ -20,4 +20,4 @@ Rufus is a tech house and jungle artist, with 4 gigs on soundcheck across Glasgo
 
 Joey Name, 2Shy MC, Bladerunner
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rufus-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rufus-2/)*

@@ -1,6 +1,6 @@
 # AXION
 
-AXION is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
+AXION is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
 
 AXION is a techno and minimal techno artist based in United Kingdom, with 15 gigs on soundcheck across Glasgow and Tokyo. Often billed alongside Quail, LAZLO and SINZIN. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ AXION is a techno and minimal techno artist based in United Kingdom, with 15 gig
 
 Quail, LAZLO, SINZIN
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axion/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axion/)*

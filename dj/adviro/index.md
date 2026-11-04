@@ -1,8 +1,8 @@
 # Adviro
 
-Adviro is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at M7 Club, Barcelona on Thu, 5 Nov 2026.
+Adviro is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at M7 Club, Barcelona on Thu, 5 Nov 2026.
 
-Adviro is a techno and trance artist based in France, with 41 gigs on soundcheck across Barcelona. Often billed alongside SuttleK, Rowsi and ArceX. Next up: M7 Club, Barcelona on Thu 5 Nov.
+Adviro is a techno and electronica artist based in France, with 44 gigs on soundcheck across Barcelona. Often billed alongside SuttleK, BreakStyle and Rowsi. Next up: M7 Club, Barcelona on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,9 @@ Adviro is a techno and trance artist based in France, with 41 gigs on soundcheck
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | M7 Club | Barcelona |
 | Sat, 7 Nov 2026 | M7 Club | Barcelona |
+| Thu, 12 Nov 2026 | M7 Club | Barcelona |
+| Fri, 20 Nov 2026 | M7 Club | Barcelona |
+| Thu, 26 Nov 2026 | M7 Club | Barcelona |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ Adviro is a techno and trance artist based in France, with 41 gigs on soundcheck
 
 ## Shares bills with
 
-SuttleK, Rowsi, ArceX
+SuttleK, BreakStyle, Rowsi
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adviro/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adviro/)*

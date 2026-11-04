@@ -1,6 +1,6 @@
 # Demattei
 
-Demattei is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
+Demattei is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
 
 Demattei is a progressive house and techno artist based in Argentina, with 51 gigs on soundcheck across Amsterdam, Barcelona, Chongqing and Copenhagen and 3 more. Often billed alongside GINO GENTILI, Javi Garza and Savanna. Next up: Barco Sound House, Madrid on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Demattei is a progressive house and techno artist based in Argentina, with 51 gi
 
 GINO GENTILI, Javi Garza, Savanna
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demattei/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demattei/)*

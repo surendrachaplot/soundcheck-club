@@ -1,6 +1,6 @@
 # Break (2)
 
-Break (2) is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Break (2) is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Break is a drum & bass and garage artist based in United Kingdom, with 4 gigs on soundcheck across Bristol, London, Malta and Manchester. Often billed alongside Duskee, Halogenix and SP:MC. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ Break is a drum & bass and garage artist based in United Kingdom, with 4 gigs on
 
 Duskee, Halogenix, SP:MC
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/break-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/break-2/)*

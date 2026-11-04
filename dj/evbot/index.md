@@ -1,6 +1,6 @@
 # Evbot
 
-Evbot is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 11 Dec 2026.
+Evbot is a Italo Disco and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 11 Dec 2026.
 
 Evbot is an italo disco and disco artist based in United States of America, with 37 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Amatric, lord_of_the_rats and DJ Cira. Next up: Monarch, San Francisco/Oakland on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Evbot is an italo disco and disco artist based in United States of America, with
 
 Amatric, lord_of_the_rats, DJ Cira
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evbot/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evbot/)*

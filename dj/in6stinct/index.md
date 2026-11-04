@@ -1,6 +1,6 @@
 # IN6STINCT
 
-IN6STINCT is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+IN6STINCT is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
 IN6STINCT is a techno and industrial artist, with 4 gigs on soundcheck across Miami. Often billed alongside Dadrev, DomnRob and Franky De Rey. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ IN6STINCT is a techno and industrial artist, with 4 gigs on soundcheck across Mi
 
 Dadrev, DomnRob, Franky De Rey
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in6stinct/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/in6stinct/)*

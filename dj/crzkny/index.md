@@ -1,6 +1,6 @@
 # CRZKNY
 
-CRZKNY is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - club RED, Chubu on Sat, 7 Nov 2026.
+CRZKNY is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - club RED, Chubu on Sat, 7 Nov 2026.
 
 CRZKNY is a footwork and bass artist based in Japan, with 9 gigs on soundcheck across Chubu, Osaka and Tokyo. Often billed alongside D.J.Fulltono, hOLysHiT and v.o.c tokyo. Next up: TBA - club RED, Chubu on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ CRZKNY is a footwork and bass artist based in Japan, with 9 gigs on soundcheck a
 
 D.J.Fulltono, hOLysHiT, v.o.c tokyo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crzkny/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crzkny/)*

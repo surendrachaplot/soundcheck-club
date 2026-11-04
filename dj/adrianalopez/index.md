@@ -1,8 +1,8 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Noce KRK, Krakow on Fri, 13 Nov 2026.
+Adriana Lopez is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Noce KRK, Krakow on Fri, 13 Nov 2026.
 
-Adriana Lopez is a techno and house artist based in Colombia, with 166 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Noce KRK, Krakow on Fri 13 Nov.
+Adriana Lopez is a techno and house artist based in Colombia, with 167 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 56 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Noce KRK, Krakow on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Adriana Lopez is a techno and house artist based in Colombia, with 166 gigs on s
 | Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 | Sat, 26 Dec 2026 | Lanna Club | North |
+| Fri, 5 Feb 2027 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Adriana Lopez is a techno and house artist based in Colombia, with 166 gigs on s
 
 Oscar Mulero, Dasha Rush, UFO95
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

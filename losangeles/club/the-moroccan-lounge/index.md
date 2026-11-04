@@ -1,18 +1,17 @@
 # The Moroccan Lounge
 
-The Moroccan Lounge is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Music for the Masses: Dark 80's New Wave Halloween [Los Angeles]" on Fri, 30 Oct 2026.
+The Moroccan Lounge is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Cel Genesis, Cry, and Sivil^3" on Thu, 5 Nov 2026.
 
-The Moroccan Lounge is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 901 E 1st St, Los Angeles, CA 90012.
+The Moroccan Lounge is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Kilbourne, Olivia Powers and Relaxer. See dates, start times and who's playing. 901 E 1st St, Los Angeles, CA 90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Music for the Masses: Dark 80's New Wave Halloween [Los Angeles] |  |
-| Sat, 31 Oct 2026 | Daft Disko Halloween: Los Angeles |  |
+| Thu, 5 Nov 2026 | Cel Genesis, Cry, and Sivil^3 | Kilbourne, Olivia Powers, Relaxer |
 
 ## Address
 
 901 E 1st St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-moroccan-lounge/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-moroccan-lounge/)*

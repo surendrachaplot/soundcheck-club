@@ -1,6 +1,6 @@
 # Guthrie
 
-Guthrie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Centre PHI, Montreal on Fri, 20 Nov 2026.
+Guthrie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Centre PHI, Montreal on Fri, 20 Nov 2026.
 
 Guthrie is a house and disco artist based in United States of America, with 156 gigs on soundcheck across Detroit, Los Angeles, Mexico City and Miami and 4 more. Often billed alongside Alina (MTL), Ferias and Kris Guilty. Next up: Centre PHI, Montreal on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Guthrie is a house and disco artist based in United States of America, with 156 
 
 Alina (MTL), Ferias, Kris Guilty
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guthrie/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guthrie/)*

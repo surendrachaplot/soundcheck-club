@@ -1,14 +1,15 @@
 # fig (4)
 
-fig (4) is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
+fig (4) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Yard, Manchester on Fri, 27 Nov 2026.
 
-fig is a bass and techno artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, London, Manchester and Mexico City and 1 more. Often billed alongside ALYA L, Jurango and Semi Peppered. Next up: The Yard, Manchester on Fri 27 Nov.
+fig is a bass and techno artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, London, Manchester and Mexico City and 1 more. Often billed alongside ALYA L, Jurango and Bruce. Next up: The Yard, Manchester on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | The Yard | Manchester |
+| Thu, 31 Dec 2026 | The Island | Bristol |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ fig is a bass and techno artist based in United Kingdom, with 14 gigs on soundch
 
 ## Shares bills with
 
-ALYA L, Jurango, Semi Peppered
+ALYA L, Jurango, Bruce
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fig-4/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fig-4/)*

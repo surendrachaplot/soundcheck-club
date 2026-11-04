@@ -1,6 +1,6 @@
 # Innexen
 
-Innexen is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
+Innexen is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
 
 Innexen is a techno and electronica artist based in Colombia, with 22 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 5 more. Often billed alongside Iris Leidenschaft, DJ MELEJ and DJ Nobu. Next up: EL Tana, Colombia on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Innexen is a techno and electronica artist based in Colombia, with 22 gigs on so
 
 Iris Leidenschaft, DJ MELEJ, DJ Nobu
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innexen/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innexen/)*

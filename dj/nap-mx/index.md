@@ -1,6 +1,6 @@
 # NAP (MX)
 
-NAP (MX) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sameheads, Berlin on Fri, 27 Nov 2026.
+NAP (MX) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sameheads, Berlin on Fri, 27 Nov 2026.
 
 NAP (MX) is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Copenhagen and 18 more. Often billed alongside ZDBT, rodman and Amelia Holt. Next up: Sameheads, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ NAP (MX) is a house and techno artist based in United States of America, with 66
 
 ZDBT, rodman, Amelia Holt
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nap-mx/)*

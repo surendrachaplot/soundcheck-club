@@ -1,6 +1,6 @@
 # Leonard de Leonard
 
-Leonard de Leonard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Le Klub, Paris on Sat, 14 Nov 2026.
+Leonard de Leonard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Klub, Paris on Sat, 14 Nov 2026.
 
 Leonard de Leonard is a techno and house artist based in France, with 17 gigs on soundcheck across Berlin and Paris. Often billed alongside Basstronauten, C.R.MINE and Acid Washed. Next up: Le Klub, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Leonard de Leonard is a techno and house artist based in France, with 17 gigs on
 
 Basstronauten, C.R.MINE, Acid Washed
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonarddeleonard/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonarddeleonard/)*

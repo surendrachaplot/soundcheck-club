@@ -1,6 +1,6 @@
 # Hood Joplin
 
-Hood Joplin is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Edmonton on Fri, 6 Nov 2026.
+Hood Joplin is a Footwork and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Edmonton on Fri, 6 Nov 2026.
 
 Hood Joplin is a footwork and club artist based in Canada, with 15 gigs on soundcheck across Calgary, Edmonton, New York City and Toronto and 1 more. Often billed alongside Assassin Bug, Bell Curve and Blackman. Next up: TBA, Edmonton on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Hood Joplin is a footwork and club artist based in Canada, with 15 gigs on sound
 
 Assassin Bug, Bell Curve, Blackman
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoodjoplin/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoodjoplin/)*

@@ -1,6 +1,6 @@
 # Descent
 
-Descent is a music venue in Boston with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Fast Forward presents Pegassi" on Thu, 5 Nov 2026.
+Descent is a music venue in Boston with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Fast Forward presents Pegassi" on Thu, 5 Nov 2026.
 
 Descent is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with line-ups including Cam Stockman, D.Dan, DVS1 and Fatzo and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
@@ -20,4 +20,4 @@ Descent is a music venue in Boston listed on soundcheck. 7 upcoming gigs, with l
 
 33 Dunster St, Camridge MA,02138, Boston
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/descent/)*

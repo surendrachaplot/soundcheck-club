@@ -1,6 +1,6 @@
 # DiVa Collective
 
-DiVa Collective is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Druckerei Solothurn, Bern on Sat, 7 Nov 2026.
+DiVa Collective is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Druckerei Solothurn, Bern on Sat, 7 Nov 2026.
 
 DiVa Collective is a techno and psytrance artist based in Switzerland, with 9 gigs on soundcheck across Berlin, Bern, Geneva and Zurich. Often billed alongside Fernando De Matos, Kellerkind and Phonique. Next up: Druckerei Solothurn, Bern on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DiVa Collective is a techno and psytrance artist based in Switzerland, with 9 gi
 
 Fernando De Matos, Kellerkind, Phonique
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divacollective/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/divacollective/)*

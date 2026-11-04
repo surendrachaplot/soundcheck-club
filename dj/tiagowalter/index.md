@@ -1,6 +1,6 @@
 # Tiago Walter
 
-Tiago Walter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
+Tiago Walter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
 
 Tiago Walter is a house and techno artist based in Germany, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Jannis Brinkmann, Phil Evans and Cosmic Cherry. Next up: Legal, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tiago Walter is a house and techno artist based in Germany, with 30 gigs on soun
 
 Jannis Brinkmann, Phil Evans, Cosmic Cherry
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagowalter/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagowalter/)*

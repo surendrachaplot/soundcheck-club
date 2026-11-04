@@ -1,14 +1,15 @@
 # Yukari
 
-Yukari is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Not For Sale Gallery, London on Sun, 15 Nov 2026.
+Yukari is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Not For Sale Gallery, London on Sun, 15 Nov 2026.
 
-Yukari is a techno and house artist based in Japan, with 35 gigs on soundcheck across Berlin, London, Madrid and Tokyo and 1 more. Often billed alongside Kazuki Takahashi, Tina Technotic and Emilion Dollar Baby. Next up: Not For Sale Gallery, London on Sun 15 Nov.
+Yukari is a techno and house artist based in Japan, with 36 gigs on soundcheck across Berlin, London, Madrid and Tokyo and 1 more. Often billed alongside Kazuki Takahashi, Tina Technotic and Emilion Dollar Baby. Next up: Not For Sale Gallery, London on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Not For Sale Gallery | London |
+| Sun, 22 Nov 2026 | Union Club, Vauxhall | London |
 | Sat, 28 Nov 2026 | 45 London | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Yukari is a techno and house artist based in Japan, with 35 gigs on soundcheck a
 
 Kazuki Takahashi, Tina Technotic, Emilion Dollar Baby
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukari/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukari/)*

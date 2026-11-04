@@ -1,6 +1,6 @@
 # Are You Affiliated
 
-Are You Affiliated is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Bodega Live + Support" on Fri, 20 Nov 2026.
+Are You Affiliated is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Bodega Live + Support" on Fri, 20 Nov 2026.
 
 Are You Affiliated is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including 2ManyDJs, Ben Caldwell, Bradley Zero and Mairi 'b' Pots and 2 more. See dates, start times and who's playing. Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ.
 
@@ -16,4 +16,4 @@ Are You Affiliated is a music venue in Newcastle listed on soundcheck. 3 upcomin
 
 Phoenix House, 27 King St, Tynemouth, North Shields NE30 1BZ, Newcastle
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/are-you-affiliated/)*

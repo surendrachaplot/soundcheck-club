@@ -1,6 +1,6 @@
 # preSchuRR
 
-preSchuRR is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Kulturzentrum Hannover, Hannover on Fri, 6 Nov 2026.
+preSchuRR is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Kulturzentrum Hannover, Hannover on Fri, 6 Nov 2026.
 
 preSchuRR is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Hannover and Lower Saxony. Often billed alongside *Tia*, Amin Fallaha and Anna Kasyan. Next up: TBA - Kulturzentrum Hannover, Hannover on Fri 6 Nov.
 
@@ -17,4 +17,4 @@ preSchuRR is a techno and trance artist based in Germany, with 4 gigs on soundch
 
 *Tia*, Amin Fallaha, Anna Kasyan
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/preschurr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/preschurr/)*

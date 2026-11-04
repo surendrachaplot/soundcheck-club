@@ -1,6 +1,6 @@
 # LOSTBOYJAY
 
-LOSTBOYJAY is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Descent, Boston on Thu, 12 Nov 2026.
+LOSTBOYJAY is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Descent, Boston on Thu, 12 Nov 2026.
 
 LOSTBOYJAY is a house and deep house artist based in Canada, with 27 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 12 more. Often billed alongside JAKEGATEWOOD, Keys N Krates and Obskur. Next up: Descent, Boston on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ LOSTBOYJAY is a house and deep house artist based in Canada, with 27 gigs on sou
 
 JAKEGATEWOOD, Keys N Krates, Obskur
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboyjay/)*

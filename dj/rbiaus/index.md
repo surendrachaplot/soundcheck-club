@@ -1,13 +1,14 @@
 # RBI (Aus)
 
-RBI (Aus) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
+RBI (Aus) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at VFD, London on Sat, 21 Nov 2026.
 
-RBI (Aus) is a trance and techno artist based in Australia, with 18 gigs on soundcheck across Athens, Berlin, London and Madrid and 4 more. Often billed alongside Jan Swam, TSUNIMAN and colell. Next up: Collingwood Children's Farm, Melbourne on Sat 30 Jan.
+RBI (Aus) is a trance and techno artist based in Australia, with 19 gigs on soundcheck across Athens, Berlin, London and Madrid and 4 more. Often billed alongside Jan Swam, TSUNIMAN and colell. Next up: VFD, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | VFD | London |
 | Sat, 30 Jan 2027 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ RBI (Aus) is a trance and techno artist based in Australia, with 18 gigs on soun
 
 Jan Swam, TSUNIMAN, colell
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rbiaus/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rbiaus/)*

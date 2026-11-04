@@ -1,6 +1,6 @@
 # Strefa Zamnkięta - Hard Techno Division at Piękno
 
-Strefa Zamnkięta - Hard Techno Division at Piękno on Fri 6 Nov, Warsaw. 5 artists: Mila, Miss Pin, oriole (PL) and SINTHER and 1 more. Techno and Industrial. See the line-up on soundcheck.
+Strefa Zamnkięta - Hard Techno Division at Piękno on Fri 6 Nov, Warsaw. 6 artists: Malevolento, Mila, Miss Pin and oriole (PL) and 2 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Strefa Zamnkięta - Hard Techno Division at Piękno on Fri 6 Nov, Warsaw. 5 arti
 
 ## Line-up
 
+- Malevolento
 - Mila (5)
 - Miss Pin
 - oriole (PL)

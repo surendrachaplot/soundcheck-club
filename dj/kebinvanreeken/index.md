@@ -1,6 +1,6 @@
 # Kebin van Reeken
 
-Kebin van Reeken is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 4 Nov 2026.
+Kebin van Reeken is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Wed, 4 Nov 2026.
 
 Kebin van Reeken is a progressive house and techno artist based in Antigua and Barbuda, with 16 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Chicago and 5 more. Often billed alongside Agustin Ficarra, Nicholas Van Orton and Rauschhaus. Next up: Do Not Sit On The Furniture, Miami on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Kebin van Reeken is a progressive house and techno artist based in Antigua and B
 
 Agustin Ficarra, Nicholas Van Orton, Rauschhaus
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kebinvanreeken/)*

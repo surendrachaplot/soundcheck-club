@@ -1,6 +1,6 @@
 # Baptist (UK)
 
-Baptist (UK) is a Hardcore and Experimental artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Baptist (UK) is a Hardcore and Experimental artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Baptist (UK) is a hardcore and experimental artist based in United Kingdom, with 39 gigs on soundcheck across Berlin and London. Often billed alongside Synapsefirer, Lau.tastic and Dres Codex. Next up: The Cause, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Baptist (UK) is a hardcore and experimental artist based in United Kingdom, with
 
 Synapsefirer, Lau.tastic, Dres Codex
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baptistuk/)*

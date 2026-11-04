@@ -1,6 +1,6 @@
 # Philip Kylberg
 
-Philip Kylberg is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Philip Kylberg is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Philip Kylberg is a techno and ambient artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 7 more. Often billed alongside SEIYA, Alessandro Baroncini and Medlock. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Philip Kylberg is a techno and ambient artist based in Italy, with 23 gigs on so
 
 SEIYA, Alessandro Baroncini, Medlock
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipkylberg/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipkylberg/)*

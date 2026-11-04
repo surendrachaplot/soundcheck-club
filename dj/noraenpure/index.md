@@ -1,6 +1,6 @@
 # Nora En Pure
 
-Nora En Pure is a Deep House and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Archi Club, Costanera, Buenos Aires on Sat, 7 Nov 2026.
+Nora En Pure is a Deep House and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Archi Club, Costanera, Buenos Aires on Sat, 7 Nov 2026.
 
 Nora En Pure is a deep house and house artist based in South Africa, with 165 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 47 more. Often billed alongside Paradoks, Corren Cavini and Claptone. Next up: TBA - Archi Club, Costanera, Buenos Aires on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Nora En Pure is a deep house and house artist based in South Africa, with 165 gi
 
 Paradoks, Corren Cavini, Claptone
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noraenpure/)*

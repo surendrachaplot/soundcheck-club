@@ -1,6 +1,6 @@
 # Delirium San Francisco
 
-Delirium San Francisco is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "THE CUT UP & PSYCHED! RADIO PRESENT: DJ LOBOTTOMY ALL NIGHT LONG" on Fri, 6 Nov 2026.
+Delirium San Francisco is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "THE CUT UP & PSYCHED! RADIO PRESENT: DJ LOBOTTOMY ALL NIGHT LONG" on Fri, 6 Nov 2026.
 
 Delirium San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including @djlobottomy. See dates, start times and who's playing. 3139 16th St, San Francisco, CA 94103, USA.
 
@@ -14,4 +14,4 @@ Delirium San Francisco is a music venue in San Francisco/Oakland listed on sound
 
 3139 16th St, San Francisco, CA 94103, USA, San Francisco/Oakland
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/delirium-san-francisco/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/delirium-san-francisco/)*

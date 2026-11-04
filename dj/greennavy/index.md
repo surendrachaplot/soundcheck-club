@@ -1,6 +1,6 @@
 # GreenNavy
 
-GreenNavy is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+GreenNavy is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 GreenNavy is a trance and house artist based in South Korea, with 7 gigs on soundcheck across Seoul and South Korea. Often billed alongside Casepeat, Kataploks and M42. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ GreenNavy is a trance and house artist based in South Korea, with 7 gigs on soun
 
 Casepeat, Kataploks, M42 (1)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greennavy/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greennavy/)*

@@ -1,14 +1,15 @@
 # Harold.
 
-Harold. is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, London on Sat, 7 Nov 2026.
+Harold. is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, London on Sat, 7 Nov 2026.
 
-Harold. is a minimal and house artist based in United Kingdom, with 16 gigs on soundcheck across Brighton and London. Often billed alongside 3 Minds, Ben Lucas and Curby. Next up: TBA, London on Sat 7 Nov.
+Harold. is a minimal and house artist based in United Kingdom, with 17 gigs on soundcheck across Brighton, London and South East. Often billed alongside Ben Lucas, Curby and 3 Minds. Next up: TBA, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA | London |
+| Thu, 31 Dec 2026 | TBA - SECRET LOCATION, ROCHFORD ESSEX | South-east |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Harold. is a minimal and house artist based in United Kingdom, with 16 gigs on s
 
 ## Shares bills with
 
-3 Minds, Ben Lucas, Curby
+Ben Lucas, Curby, 3 Minds
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harold./)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harold./)*

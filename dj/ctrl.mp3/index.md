@@ -1,8 +1,8 @@
 # Ctrl.mp3
 
-Ctrl.mp3 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 14 Nov 2026.
+Ctrl.mp3 is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat, 14 Nov 2026.
 
-Ctrl.mp3 is a techno and house artist based in United States of America, with 42 gigs on soundcheck across Los Angeles, New York City, Portland and Seattle. Often billed alongside Manwell, ACHAMA and Andy Oro. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 14 Nov.
+Ctrl.mp3 is a techno and house artist based in United States of America, with 43 gigs on soundcheck across Los Angeles, New York City, Portland and Seattle. Often billed alongside Manwell, ACHAMA and Andy Oro. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ctrl.mp3 is a techno and house artist based in United States of America, with 42
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 | Fri, 4 Dec 2026 | TBA - Sent to Ticketholders Day Of | Seattle |
+| Sat, 5 Dec 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ctrl.mp3 is a techno and house artist based in United States of America, with 42
 
 Manwell, ACHAMA, Andy Oro
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrl.mp3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ctrl.mp3/)*

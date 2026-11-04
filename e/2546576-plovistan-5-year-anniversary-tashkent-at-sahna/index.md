@@ -1,6 +1,6 @@
 # Plovistan - 5 Year Anniversary - Tashkent at Sahna
 
-Plovistan - 5 Year Anniversary - Tashkent at Sahna on Sat 14 Nov, Uzbekistan. 7 artists: 2XUM, Chyngyz, electrofocus and KIKA (MD) and 3 more. See the line-up on soundcheck.
+Plovistan - 5 Year Anniversary - Tashkent at Sahna on Sat 14 Nov, Uzbekistan. 8 artists: 2XUM, Chyngyz, electrofocus and KIKA (MD) and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Plovistan - 5 Year Anniversary - Tashkent at Sahna on Sat 14 Nov, Uzbekistan. 7 
 - electrofocus
 - KIKA (MD)
 - LIUYANG
+- NÜR (1)
 - Shengchou
 - Timur Azim
 

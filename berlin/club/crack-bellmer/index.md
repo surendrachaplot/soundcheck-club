@@ -1,8 +1,8 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 4 Nov 2026.
+Crack Bellmer is a music venue in Berlin with 23 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 4 Nov 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including 2727, anna andersrum, Aphty Khéa and ARMANDO and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 23 upcoming gigs, with line-ups including 2727, 80HDJ, anna andersrum and Aphty Khéa and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs,
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

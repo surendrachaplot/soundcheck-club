@@ -1,6 +1,6 @@
 # Casey
 
-Casey is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Flinders, Sydney on Sat, 5 Dec 2026.
+Casey is a Techno and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Flinders, Sydney on Sat, 5 Dec 2026.
 
 Casey is a techno and dubstep artist based in United Kingdom, with 8 gigs on soundcheck across Detroit, Lyon, Melbourne and Sydney. Often billed alongside Kvrt, Setwun and 2LUX. Next up: The Flinders, Sydney on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Casey is a techno and dubstep artist based in United Kingdom, with 8 gigs on sou
 
 Kvrt, Setwun, 2LUX
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casey/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casey/)*

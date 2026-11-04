@@ -1,6 +1,6 @@
 # Timebar
 
-Timebar is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dance with the Dead" on Thu, 5 Nov 2026.
+Timebar is a music venue in Stockholm with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dance with the Dead" on Thu, 5 Nov 2026.
 
 Timebar is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, with line-ups including Bakke and Coralie Llie. See dates, start times and who's playing. Hornsgatan 174.
 
@@ -16,4 +16,4 @@ Timebar is a music venue in Stockholm listed on soundcheck. 3 upcoming gigs, wit
 
 Hornsgatan 174, Stockholm
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/timebar/)*

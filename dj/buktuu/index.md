@@ -1,6 +1,6 @@
 # buktuu
 
-buktuu is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
+buktuu is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Void Club, Berlin on Fri, 13 Nov 2026.
 
 buktuu is a drum & bass and techno artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Upzet, Sagrivox and Aynaet. Next up: Void Club, Berlin on Fri 13 Nov.
 
@@ -20,4 +20,4 @@ buktuu is a drum & bass and techno artist based in Germany, with 4 gigs on sound
 
 Upzet, Sagrivox, Aynaet
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buktuu/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buktuu/)*

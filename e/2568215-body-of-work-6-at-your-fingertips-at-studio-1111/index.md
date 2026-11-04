@@ -1,6 +1,6 @@
 # BODY OF WORK #6: AT YOUR FINGERTIPS at Studio 1111
 
-BODY OF WORK #6: AT YOUR FINGERTIPS at Studio 1111 on Wed 4 Nov, Berlin. 1 artist: Discotopian. Ambient and Electronica. See the line-up on soundcheck.
+BODY OF WORK #6: AT YOUR FINGERTIPS at Studio 1111 on Wed 4 Nov, Berlin. 2 artists: Discotopian and Travis or Alice. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ BODY OF WORK #6: AT YOUR FINGERTIPS at Studio 1111 on Wed 4 Nov, Berlin. 1 artis
 ## Line-up
 
 - Discotopian
+- Travis or Alice
 
 *Source: [soundcheck](https://soundcheck.club/e/2568215-body-of-work-6-at-your-fingertips-at-studio-1111/)*

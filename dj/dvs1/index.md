@@ -1,6 +1,6 @@
 # DVS1
 
-DVS1 is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Circolo Amelia, Milan on Fri, 6 Nov 2026.
+DVS1 is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Circolo Amelia, Milan on Fri, 6 Nov 2026.
 
 DVS1 is a techno and house artist based in United States of America, with 365 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 90 more. Often billed alongside Ogazón, Helena Hauff and Dasha Rush. Next up: Circolo Amelia, Milan on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ DVS1 is a techno and house artist based in United States of America, with 365 gi
 
 Ogazón, Helena Hauff, Dasha Rush
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dvs1/)*

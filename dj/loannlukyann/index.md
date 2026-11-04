@@ -1,6 +1,6 @@
 # Loann Lukyann
 
-Loann Lukyann is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
+Loann Lukyann is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Paavli Kultuurivabrik, Tallinn on Fri, 13 Nov 2026.
 
 Loann Lukyann is a techno and electro artist based in Estonia, with 11 gigs on soundcheck across Tallinn and Warsaw. Often billed alongside Arto, Pavliuk and Tanel Mütt. Next up: Paavli Kultuurivabrik, Tallinn on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Loann Lukyann is a techno and electro artist based in Estonia, with 11 gigs on s
 
 Arto, Pavliuk, Tanel Mütt
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loannlukyann/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loannlukyann/)*

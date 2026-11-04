@@ -1,6 +1,6 @@
 # The Villa
 
-The Villa is a music venue in Oslo with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Bunkerbauer with Plaza (DJ IBON & Matriark), My Gander & Araknyl" on Fri, 6 Nov 2026.
+The Villa is a music venue in Oslo with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Bunkerbauer with Plaza (DJ IBON & Matriark), My Gander & Araknyl" on Fri, 6 Nov 2026.
 
 The Villa is a music venue in Oslo listed on soundcheck. 4 upcoming gigs, with line-ups including Araknyl, DJ IBON, Fold and Kollektiv Turmstrasse and 2 more. See dates, start times and who's playing. Møllergata 23; 0179 Oslo; Norway.
 
@@ -17,4 +17,4 @@ The Villa is a music venue in Oslo listed on soundcheck. 4 upcoming gigs, with l
 
 Møllergata 23; 0179 Oslo; Norway, Oslo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/oslo/club/the-villa/)*

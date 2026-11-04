@@ -1,14 +1,16 @@
 # FYI Robyn
 
-FYI Robyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Ballroom at Palais, London on Fri, 13 Nov 2026.
+FYI Robyn is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
 
-FYI Robyn is a house and techno artist based in United Kingdom, with 33 gigs on soundcheck across Berlin, Birmingham, London and Paris. Often billed alongside Kincaid, Alicia (UK) and Jay Carder. Next up: Ballroom at Palais, London on Fri 13 Nov.
+FYI Robyn is a techno and house artist based in United Kingdom, with 35 gigs on soundcheck across Berlin, Birmingham, London and Paris. Often billed alongside Kincaid, Alicia (UK) and Jay Carder. Next up: Palais, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Palais | London |
 | Fri, 13 Nov 2026 | Ballroom at Palais | London |
+| Fri, 13 Nov 2026 | Sauna Social Club | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ FYI Robyn is a house and techno artist based in United Kingdom, with 33 gigs on 
 
 Kincaid, Alicia (UK), Jay Carder
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fyirobyn/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fyirobyn/)*

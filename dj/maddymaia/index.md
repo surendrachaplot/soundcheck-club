@@ -1,6 +1,6 @@
 # Maddy Maia
 
-Maddy Maia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Tee Gee, Los Angeles on Sat, 7 Nov 2026.
+Maddy Maia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Tee Gee, Los Angeles on Sat, 7 Nov 2026.
 
 Maddy Maia is a house and disco artist based in United Kingdom, with 44 gigs on soundcheck across Lisbon, Los Angeles, Mexico City and New York City and 2 more. Often billed alongside Tottie, LAALLS and Club Tularosa. Next up: Club Tee Gee, Los Angeles on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Maddy Maia is a house and disco artist based in United Kingdom, with 44 gigs on 
 
 Tottie, LAALLS, Club Tularosa
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddymaia/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddymaia/)*

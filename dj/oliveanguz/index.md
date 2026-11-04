@@ -1,6 +1,6 @@
 # Olive Anguz
 
-Olive Anguz is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
+Olive Anguz is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at DRUMSHEDS, London on Sat, 14 Nov 2026.
 
 Olive Anguz is a trance and techno artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Bogotá, Dortmund / Essen and Ghent and 6 more. Often billed alongside Benwal, Alycia Bezgo and NewTone. Next up: DRUMSHEDS, London on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Olive Anguz is a trance and techno artist based in Netherlands, with 19 gigs on 
 
 Benwal, Alycia Bezgo, NewTone
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveanguz/)*

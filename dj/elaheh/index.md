@@ -1,6 +1,6 @@
 # Elaheh
 
-Elaheh is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Elsewhere, Bangkok on Sat, 7 Nov 2026.
+Elaheh is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Elsewhere, Bangkok on Sat, 7 Nov 2026.
 
 Elaheh is a house and techno artist based in Thailand, with 139 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Hong Kong and 7 more. Often billed alongside DOTT, SaoTeknik and Sarayu. Next up: Elsewhere, Bangkok on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Elaheh is a house and techno artist based in Thailand, with 139 gigs on soundche
 
 DOTT, SaoTeknik, Sarayu
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elaheh/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elaheh/)*

@@ -1,6 +1,6 @@
 # Jonny Knüppel
 
-Jonny Knüppel is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "JK x F2 Afterparty" on Sat, 7 Nov 2026.
+Jonny Knüppel is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "JK x F2 Afterparty" on Sat, 7 Nov 2026.
 
 Jonny Knüppel is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Christian Kuhlmann, doob, ELIZEN THE EMPEROR and jorke. See dates, start times and who's playing. Lilli-Henoch-Straße 10, 10405 Berlin.
 
@@ -17,4 +17,4 @@ Jonny Knüppel is a music venue in Berlin listed on soundcheck. 4 upcoming gigs,
 
 Lilli-Henoch-Straße 10, 10405 Berlin, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/jonny-kn-ppel/)*

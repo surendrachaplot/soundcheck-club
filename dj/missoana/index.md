@@ -1,13 +1,14 @@
 # Miss Oana
 
-Miss Oana is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at ESC, Montreal on Thu, 12 Nov 2026.
+Miss Oana is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Red Room, Montreal on Wed, 4 Nov 2026.
 
-Miss Oana is a techno and minimal techno artist based in Luxembourg, with 12 gigs on soundcheck across Amsterdam, Beijing, Bogotá and Medellin and 4 more. Often billed alongside Chich, Toltech and KaterUnser. Next up: ESC, Montreal on Thu 12 Nov.
+Miss Oana is a techno and minimal techno artist based in Luxembourg, with 13 gigs on soundcheck across Amsterdam, Beijing, Bogotá and Medellin and 4 more. Often billed alongside Chich, Toltech and KaterUnser. Next up: Le Red Room, Montreal on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 4 Nov 2026 | Le Red Room | Montreal |
 | Thu, 12 Nov 2026 | ESC | Montreal |
 
 ## Recently played
@@ -25,4 +26,4 @@ Miss Oana is a techno and minimal techno artist based in Luxembourg, with 12 gig
 
 Chich, Toltech, KaterUnser
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missoana/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missoana/)*

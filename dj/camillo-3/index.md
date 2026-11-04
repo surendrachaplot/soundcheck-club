@@ -1,8 +1,8 @@
 # Camillo (3)
 
-Camillo (3) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Masada, Milan on Sun, 8 Nov 2026.
+Camillo (3) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Masada, Milan on Sun, 8 Nov 2026.
 
-Camillo is a techno and house artist, with 5 gigs on soundcheck across Milan and Turin. Often billed alongside SIMI., ANDREA SALVAGGIO and Ace Vision. Next up: Masada, Milan on Sun 8 Nov.
+Camillo is a techno and house artist based in Italy, with 5 gigs on soundcheck across Milan and Turin. Often billed alongside SIMI., ANDREA SALVAGGIO and Ace Vision. Next up: Masada, Milan on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ Camillo is a techno and house artist, with 5 gigs on soundcheck across Milan and
 
 SIMI. (2), ANDREA SALVAGGIO, Ace Vision
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camillo-3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camillo-3/)*

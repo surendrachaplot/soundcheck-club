@@ -1,6 +1,6 @@
 # Baron Von Trax
 
-Baron Von Trax is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at La Java, Paris on Sat, 7 Nov 2026.
+Baron Von Trax is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at La Java, Paris on Sat, 7 Nov 2026.
 
 Baron Von Trax is a trance and techno artist based in Australia, with 95 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 29 more. Often billed alongside Upper90, Bad Boombox and BAUGRUPPE90. Next up: La Java, Paris on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Baron Von Trax is a trance and techno artist based in Australia, with 95 gigs on
 
 Upper90, Bad Boombox, BAUGRUPPE90
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baronvontrax/)*

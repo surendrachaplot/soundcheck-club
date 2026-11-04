@@ -1,6 +1,6 @@
 # Vanee
 
-Vanee is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
+Vanee is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fabrik, Madrid on Fri, 1 Jan 2027.
 
 Vanee is a tech house and house artist based in Venezuela, with 28 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Ibiza and 3 more. Often billed alongside Joseph Capriati, Mason Collective and AJ Christou. Next up: Fabrik, Madrid on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Vanee is a tech house and house artist based in Venezuela, with 28 gigs on sound
 
 Joseph Capriati, Mason Collective, AJ Christou
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanee/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vanee/)*

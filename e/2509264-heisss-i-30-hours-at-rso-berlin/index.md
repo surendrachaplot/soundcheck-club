@@ -1,6 +1,6 @@
 # HEISSS I 30 hours at RSO.BERLIN
 
-HEISSS I 30 hours at RSO.BERLIN on Sat 19 Dec, Berlin. 6 artists: Elvin, Eoin DJ, Justine Perry and Mathys Lenne and 2 more. Techno and House. See the line-up on soundcheck.
+HEISSS I 30 hours at RSO.BERLIN on Sat 19 Dec, Berlin. 8 artists: Cirkle, Elvin, Eoin DJ and Jessie Granqvist and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,10 @@ HEISSS I 30 hours at RSO.BERLIN on Sat 19 Dec, Berlin. 6 artists: Elvin, Eoin DJ
 
 ## Line-up
 
+- Cirkle
 - Elvin
 - Eoin DJ
+- Jessie Granqvist
 - Justine Perry
 - Mathys Lenne
 - Paula Koski

@@ -1,6 +1,6 @@
 # Tavish
 
-Tavish is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Good Room, New York City on Sat, 21 Nov 2026.
+Tavish is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Good Room, New York City on Sat, 21 Nov 2026.
 
 Tavish is a house and disco artist based in United States of America, with 27 gigs on soundcheck across Los Angeles, Mexico City, New York City and San Diego. Often billed alongside Dave Aju, SONNS and Stacy Christine. Next up: Good Room, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Tavish is a house and disco artist based in United States of America, with 27 gi
 
 Dave Aju, SONNS, Stacy Christine
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tavish/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tavish/)*

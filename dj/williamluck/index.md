@@ -1,6 +1,6 @@
 # William Luck
 
-William Luck is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kalif Storch, Erfurt on Fri, 20 Nov 2026.
+William Luck is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kalif Storch, Erfurt on Fri, 20 Nov 2026.
 
 William Luck is a techno and hardcore artist based in France, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 34 more. Often billed alongside LESSSS, OMAKS and 25EMEHEURE. Next up: Kalif Storch, Erfurt on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ William Luck is a techno and hardcore artist based in France, with 79 gigs on so
 
 LESSSS, OMAKS, 25EMEHEURE
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamluck/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamluck/)*

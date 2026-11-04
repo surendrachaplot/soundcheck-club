@@ -1,8 +1,8 @@
 # Hangar48 Club
 
-Hangar48 Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "GL!TZ* Vol.3" on Fri, 6 Nov 2026.
+Hangar48 Club is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "GL!TZ* Vol.3" on Fri, 6 Nov 2026.
 
-Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alexis mayer, Bat (US), Djen and Lana Saints and 2 more. See dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
+Hangar48 Club is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Alexis mayer, Bat (US), Djen and Jara and 2 more. See dates, start times and who's playing. C. de Bailén, 24, 28005 Madrid.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Hangar48 Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs,
 | Fri, 13 Nov 2026 | 190DBS |  |
 | Sat, 14 Nov 2026 | Chico Malo |  |
 | Fri, 20 Nov 2026 | 28ZERØ X RAVIA - 6° EDICIÓN |  |
+| Sat, 21 Nov 2026 | Eichembaum - Primera vez en Madrid - JODITA Progressive | Jara, Nahuel Farina, Nico Spina |
 | Fri, 27 Nov 2026 | Kommune #27 |  |
 | Sat, 28 Nov 2026 | Desinteresse_Madrid_Coldwave_Postpunk |  |
-| Fri, 11 Dec 2026 | SAGITARIO SEASON | PASTIGAY |
-| Fri, 18 Dec 2026 | ECLIPSE |  |
+| Sat, 28 Nov 2026 | PLURIEL | Roma Farah |
 
 ## Address
 
 C. de Bailén, 24, 28005 Madrid, Madrid
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/hangar48-club/)*

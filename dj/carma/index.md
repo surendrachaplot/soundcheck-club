@@ -1,13 +1,14 @@
 # Carma
 
-Carma is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Dalston Den, London on Fri, 4 Dec 2026.
+Carma is a Club and Footwork artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Haus Brixton, London on Sat, 7 Nov 2026.
 
-Carma is a club and footwork artist based in United States of America, with 4 gigs on soundcheck across Ghent and London. Often billed alongside Ain Bailey, Amy Kisnorbo and CHEZA LUCINA. Next up: Dalston Den, London on Fri 4 Dec.
+Carma is a club and footwork artist based in United States of America, with 5 gigs on soundcheck across Ghent and London. Often billed alongside Ain Bailey, Amy Kisnorbo and Atlana. Next up: Haus Brixton, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Haus Brixton | London |
 | Fri, 4 Dec 2026 | Dalston Den | London |
 
 ## Recently played
@@ -18,6 +19,6 @@ Carma is a club and footwork artist based in United States of America, with 4 gi
 
 ## Shares bills with
 
-Ain Bailey, Amy Kisnorbo, CHEZA LUCINA
+Ain Bailey, Amy Kisnorbo, Atlana
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carma/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carma/)*

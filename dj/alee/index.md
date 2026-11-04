@@ -1,6 +1,6 @@
 # alee
 
-alee is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
+alee is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
 
 alee is a techno and hardcore artist based in Brazil, with 7 gigs on soundcheck across Dortmund / Essen, Frankfurt, Madrid and Mannheim and 1 more. Often billed alongside Mish, Barber and Dimitri K. Next up: Maimarkthalle, Mannheim on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ alee is a techno and hardcore artist based in Brazil, with 7 gigs on soundcheck 
 
 Mish, Barber, Dimitri K
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alee/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alee/)*

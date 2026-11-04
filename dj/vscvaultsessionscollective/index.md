@@ -1,8 +1,8 @@
 # VSC (Vault Sessions Collective)
 
-VSC (Vault Sessions Collective) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at RADION, Amsterdam on Sat, 12 Dec 2026.
+VSC (Vault Sessions Collective) is a Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at RADION, Amsterdam on Sat, 12 Dec 2026.
 
-VSC (Vault Sessions Collective) is a techno artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Berlin, Brussels and Los Angeles and 4 more. Often billed alongside Lobster (NL), Blasha & Allatt and Grace Dahl. Next up: RADION, Amsterdam on Sat 12 Dec.
+VSC (Vault Sessions Collective) is a techno artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Berlin, Brussels and Los Angeles and 4 more. Often billed alongside Lobster (NL), Blasha & Allatt and Grace Dahl. Next up: RADION, Amsterdam on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VSC (Vault Sessions Collective) is a techno artist based in Netherlands, with 18
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
 | Sat, 26 Dec 2026 | KREUZWERK | Berlin |
+| Fri, 5 Feb 2027 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ VSC (Vault Sessions Collective) is a techno artist based in Netherlands, with 18
 
 Lobster (NL), Blasha & Allatt, Grace Dahl
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vscvaultsessionscollective/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vscvaultsessionscollective/)*

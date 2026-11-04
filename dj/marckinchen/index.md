@@ -1,6 +1,6 @@
 # Marc Kinchen
 
-Marc Kinchen is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Savaya Bali, Bali on Sat, 14 Nov 2026.
+Marc Kinchen is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Savaya Bali, Bali on Sat, 14 Nov 2026.
 
 Marc Kinchen is a house and tech house artist based in United States of America, with 110 gigs on soundcheck across Antwerp, Austin, Bali and Barcelona and 28 more. Often billed alongside Calvin Harris, Sonny Fodera and Green Velvet. Next up: Savaya Bali, Bali on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Marc Kinchen is a house and tech house artist based in United States of America,
 
 Calvin Harris, Sonny Fodera, Green Velvet
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marckinchen/)*

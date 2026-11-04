@@ -1,6 +1,6 @@
 # NOTROSS
 
-NOTROSS is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 5 Nov 2026.
+NOTROSS is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at nueve cero nueve, Mexico City on Thu, 5 Nov 2026.
 
 NOTROSS is a techno and minimal artist based in Mexico, with 2 gigs on soundcheck across Mexico City. Often billed alongside Gohtobi, Frrrrr and PRANAYAMA. Next up: nueve cero nueve, Mexico City on Thu 5 Nov.
 
@@ -15,4 +15,4 @@ NOTROSS is a techno and minimal artist based in Mexico, with 2 gigs on soundchec
 
 Gohtobi, Frrrrr, PRANAYAMA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notross/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notross/)*

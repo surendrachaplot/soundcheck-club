@@ -1,6 +1,6 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dionys x Tenpercent | Hardtechno x Trance/Bounce Rave (2 Floors)" on Fri, 6 Nov 2026.
+Void Club is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dionys x Tenpercent | Hardtechno x Trance/Bounce Rave (2 Floors)" on Fri, 6 Nov 2026.
 
 Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including AAguilAA, access:dance, Alex Pastore and Anton Quasi and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
@@ -23,4 +23,4 @@ Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, wit
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

@@ -1,6 +1,6 @@
 # The Liquid Room
 
-The Liquid Room is a music venue in Edinburgh with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Nightvision presents: Daria Kolosova" on Sat, 7 Nov 2026.
+The Liquid Room is a music venue in Edinburgh with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Nightvision presents: Daria Kolosova" on Sat, 7 Nov 2026.
 
 The Liquid Room is a music venue in Edinburgh listed on soundcheck. 8 upcoming gigs, with line-ups including Bellaire, Ben Kok, Bushbaby and Casi (UK) and 2 more. See dates, start times and who's playing. 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom.
 
@@ -21,4 +21,4 @@ The Liquid Room is a music venue in Edinburgh listed on soundcheck. 8 upcoming g
 
 9c Victoria Street; Edinburgh, EH1 2HE; Scotland; United Kingdom, Edinburgh
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-liquid-room/)*

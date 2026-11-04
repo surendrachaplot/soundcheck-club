@@ -1,6 +1,6 @@
 # Amanda Mussi
 
-Amanda Mussi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
+Amanda Mussi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
 
 Amanda Mussi is a techno and house artist based in Brazil, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 33 more. Often billed alongside Sept, Rachel Noon and Volvox. Next up: M.O.T, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Amanda Mussi is a techno and house artist based in Brazil, with 125 gigs on soun
 
 Sept, Rachel Noon, Volvox
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amandamussi/)*

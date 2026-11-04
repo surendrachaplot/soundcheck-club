@@ -1,6 +1,6 @@
 # samgood
 
-samgood is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hangaren, Copenhagen on Fri, 4 Dec 2026.
+samgood is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hangaren, Copenhagen on Fri, 4 Dec 2026.
 
 samgood is a house and garage artist based in Denmark, with 5 gigs on soundcheck across Copenhagen. Often billed alongside Talons, parashoot and Ave Maria. Next up: Hangaren, Copenhagen on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ samgood is a house and garage artist based in Denmark, with 5 gigs on soundcheck
 
 Talons, parashoot, Ave Maria
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samgood/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samgood/)*

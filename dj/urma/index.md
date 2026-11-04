@@ -1,6 +1,6 @@
 # Urma
 
-Urma is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Eastern Bloc Records, Manchester on Thu, 5 Nov 2026.
+Urma is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Eastern Bloc Records, Manchester on Thu, 5 Nov 2026.
 
 Urma is a garage and jungle artist based in United Kingdom, with 34 gigs on soundcheck across London, Manchester and Mexico City. Often billed alongside BHV2099, J Bentley and Sam Jiro. Next up: Eastern Bloc Records, Manchester on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Urma is a garage and jungle artist based in United Kingdom, with 34 gigs on soun
 
 BHV2099, J Bentley, Sam Jiro
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urma/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urma/)*

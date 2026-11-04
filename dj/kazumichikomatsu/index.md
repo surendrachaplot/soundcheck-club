@@ -1,6 +1,6 @@
 # Kazumichi Komatsu
 
-Kazumichi Komatsu is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Club Metro, Kyoto on Sat, 7 Nov 2026.
+Kazumichi Komatsu is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Metro, Kyoto on Sat, 7 Nov 2026.
 
 Kazumichi Komatsu is an experimental and club artist based in Japan, with 34 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Whatman, Le Makeup and Vís. Next up: Club Metro, Kyoto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kazumichi Komatsu is an experimental and club artist based in Japan, with 34 gig
 
 Whatman, Le Makeup, Vís (1)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazumichikomatsu/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazumichikomatsu/)*

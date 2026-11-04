@@ -1,6 +1,6 @@
 # Infinity (HR)
 
-Infinity (HR) is a Dub Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
+Infinity (HR) is a Dub Techno and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Four Quarters, London on Sat, 28 Nov 2026.
 
 Infinity (HR) is a dub techno and jungle artist based in Croatia, with 5 gigs on soundcheck across Berlin, London and Sheffield. Often billed alongside Aconite, Andrea Cossu and Beyond. Next up: Four Quarters, London on Sat 28 Nov.
 
@@ -21,4 +21,4 @@ Infinity (HR) is a dub techno and jungle artist based in Croatia, with 5 gigs on
 
 Aconite, Andrea Cossu, Beyond
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infinity-hr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/infinity-hr/)*

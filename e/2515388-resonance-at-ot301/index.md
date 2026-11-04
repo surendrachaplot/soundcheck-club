@@ -14,6 +14,6 @@ Resonance at OT301 on Fri 4 Dec, Amsterdam. 5 artists: akcel, Carmen Lisa, Inez 
 - Carmen Lisa (2)
 - Inez Akker
 - Lucid Feel
-- MICK (2)
+- Mick (3)
 
 *Source: [soundcheck](https://soundcheck.club/e/2515388-resonance-at-ot301/)*

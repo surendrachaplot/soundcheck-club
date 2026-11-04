@@ -1,6 +1,6 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Step Inside" on Sun, 8 Nov 2026.
+The Timber Loft is a music venue in London with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Step Inside" on Sun, 8 Nov 2026.
 
 The Timber Loft is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Atjazz, Cadence, Conrad Lee and Frank Tope and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
@@ -23,4 +23,4 @@ The Timber Loft is a music venue in London listed on soundcheck. 10 upcoming gig
 
 233 Shoreditch High St, London E1 6PJ, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-timber-loft/)*

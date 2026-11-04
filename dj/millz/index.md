@@ -1,14 +1,15 @@
 # Millz
 
-Millz is a Drum & Bass and Club artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, London on Fri, 20 Nov 2026.
+Millz is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, London on Fri, 20 Nov 2026.
 
-Millz is a drum & bass and club artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Bangkok, Bristol and Detroit and 5 more. Often billed alongside Nicky Blackmarket, Marvelito and Nicky B. Next up: TBA, London on Fri 20 Nov.
+Millz is a drum & bass and jungle artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Bangkok, Bristol and Detroit and 5 more. Often billed alongside Nicky Blackmarket, Marvelito and Nicky B. Next up: TBA, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA | London |
+| Sun, 27 Dec 2026 | E1 | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Millz is a drum & bass and club artist based in United States of America, with 2
 
 Nicky Blackmarket, Marvelito, Nicky B
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millz/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/millz/)*

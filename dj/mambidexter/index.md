@@ -1,6 +1,6 @@
 # Mambi Dexter
 
-Mambi Dexter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Sektor 6D, Warsaw on Sat, 7 Nov 2026.
+Mambi Dexter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sektor 6D, Warsaw on Sat, 7 Nov 2026.
 
 Mambi Dexter is a house and techno artist based in Poland, with 41 gigs on soundcheck across Berlin, Byron Bay, Hanoi and Poznan and 3 more. Often billed alongside Piotr Ho, Hyperbole and BEXA. Next up: Sektor 6D, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mambi Dexter is a house and techno artist based in Poland, with 41 gigs on sound
 
 Piotr Ho, Hyperbole, BEXA
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mambidexter/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mambidexter/)*

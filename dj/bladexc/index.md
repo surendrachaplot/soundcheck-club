@@ -1,6 +1,6 @@
 # BLADEXC
 
-BLADEXC is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Gateway Bridge Underpass, Brisbane on Sat, 6 Mar 2027.
+BLADEXC is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Gateway Bridge Underpass, Brisbane on Sat, 6 Mar 2027.
 
 BLADEXC is a techno and trance artist, with 9 gigs on soundcheck across Brisbane, Byron Bay, Melbourne and Sydney. Often billed alongside NAT4SHA, ATRIP and Alycia Bezgo. Next up: Gateway Bridge Underpass, Brisbane on Sat 6 Mar.
 
@@ -25,4 +25,4 @@ BLADEXC is a techno and trance artist, with 9 gigs on soundcheck across Brisbane
 
 NAT4SHA, ATRIP, Alycia Bezgo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bladexc/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bladexc/)*

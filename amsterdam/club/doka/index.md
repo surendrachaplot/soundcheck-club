@@ -1,8 +1,8 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Doka Studio with Mia Cecille b2b Andy" on Fri, 6 Nov 2026.
+Doka is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Doka Studio with Mia Cecille b2b Andy" on Fri, 6 Nov 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Andy (NL), Dj Heartbreak, DJ Tracksuit and ESTRELLA and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Andy (NL), CTRLZORA, Danilo Plessow and Dj Heartbreak and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 
@@ -15,11 +15,12 @@ Doka is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with l
 | Fri, 20 Nov 2026 | Polychrome x Doka Studio with Willow (UK) - Lennie | Lennie, Willow |
 | Sat, 21 Nov 2026 | Doka Studio with Yamour - Pieter Jansen - tba | Jetti, Pieter Jansen, Yamour |
 | Fri, 27 Nov 2026 | Doka Studio x Intergalactic FM presents Disco Fetish with I-F - Marsman - Vasco | I-F, Marsman, Vasco |
+| Sat, 28 Nov 2026 | Doka Studio with CTRLZORA - Suze Ijó | CTRLZORA, Suze Ijó |
+| Sat, 5 Dec 2026 | Phono Club with Mr. Scruff (6 hours) | Lil Lawaw, Mr Scruff |
 | Fri, 11 Dec 2026 | Doka Studio x Call 4 Rhythm with LADYMONIX - KIéo | Kléo, LADYMONIX |
-| Sat, 12 Dec 2026 | Doka Studio x Call 4 Rhythm with LADYMONIX - KIéo | Kléo, LADYMONIX |
 
 ## Address
 
 Wibautstraat 150, 1091 GR Amsterdam, Netherlands, Amsterdam
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/doka/)*

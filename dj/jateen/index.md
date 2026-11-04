@@ -1,6 +1,6 @@
 # Jateen
 
-Jateen is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at The Lord Gladstone, Sydney on Sat, 7 Nov 2026.
+Jateen is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Lord Gladstone, Sydney on Sat, 7 Nov 2026.
 
 Jateen is a house and afro house artist based in Australia, with 22 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Bryan Ro, Casual P and Almared. Next up: The Lord Gladstone, Sydney on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Jateen is a house and afro house artist based in Australia, with 22 gigs on soun
 
 Bryan Ro, Casual P, Almared
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jateen/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jateen/)*

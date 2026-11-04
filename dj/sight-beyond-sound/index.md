@@ -1,6 +1,6 @@
 # Sight -Beyond- Sound
 
-Sight -Beyond- Sound is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jupiter Disco, New-york-city on Fri, 6 Nov 2026.
+Sight -Beyond- Sound is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Jupiter Disco, New-york-city on Fri, 6 Nov 2026.
 
 Sight -Beyond- Sound is a house and techno artist based in United States of America, with 38 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Christian Tokyo, Bendito and BlckTeeth. Next up: Jupiter Disco, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Sight -Beyond- Sound is a house and techno artist based in United States of Amer
 
 Christian Tokyo, Bendito, BlckTeeth
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sight-beyond-sound/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sight-beyond-sound/)*

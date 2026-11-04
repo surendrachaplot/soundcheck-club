@@ -1,6 +1,6 @@
 # Absoluut
 
-Absoluut is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 27 Nov 2026.
+Absoluut is a Pop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at THE OTHER SIDE, Amsterdam on Fri, 27 Nov 2026.
 
 Absoluut is a pop and house artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam. Often billed alongside TMORGZ, ASHTATTZ and Bass Btch. Next up: THE OTHER SIDE, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Absoluut is a pop and house artist based in Netherlands, with 21 gigs on soundch
 
 TMORGZ, ASHTATTZ, Bass Btch
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/absoluut/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/absoluut/)*

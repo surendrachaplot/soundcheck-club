@@ -1,6 +1,6 @@
 # Art (AU)
 
-Art (AU) is a Ambient and Deep House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Art (AU) is a Ambient and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Art (AU) is an ambient and deep house artist based in Australia, with 13 gigs on soundcheck across Bangkok, Berlin, Hobart and Lisbon and 3 more. Often billed alongside Rev Lon, Bex and Billus. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Art (AU) is an ambient and deep house artist based in Australia, with 13 gigs on
 
 Rev Lon, Bex, Billus
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/art-au/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/art-au/)*

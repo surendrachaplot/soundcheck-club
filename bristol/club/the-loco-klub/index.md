@@ -1,6 +1,6 @@
 # The Loco Klub
 
-The Loco Klub is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "All Ears x Guy Fawks" on Thu, 5 Nov 2026.
+The Loco Klub is a music venue in Bristol with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "All Ears x Guy Fawks" on Thu, 5 Nov 2026.
 
 The Loco Klub is a music venue in Bristol listed on soundcheck. 7 upcoming gigs, with line-ups including Bambi (FR), Borai, Brad Bradley and Burly Chassis and 2 more. See dates, start times and who's playing. Clock Tower Yard, Bristol BS1 6QH, United Kingdom.
 
@@ -20,4 +20,4 @@ The Loco Klub is a music venue in Bristol listed on soundcheck. 7 upcoming gigs,
 
 Clock Tower Yard, Bristol BS1 6QH, United Kingdom, Bristol
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-loco-klub/)*

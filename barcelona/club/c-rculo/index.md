@@ -1,6 +1,6 @@
 # Círculo
 
-Círculo is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Inner Circle feat. Guy Rome" on Thu, 5 Nov 2026.
+Círculo is a music venue in Barcelona with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Inner Circle feat. Guy Rome" on Thu, 5 Nov 2026.
 
 Círculo is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, with line-ups including A4U (RU). See dates, start times and who's playing. Carrer del Rec, 62, 08003, Barcelona, Spain.
 
@@ -19,4 +19,4 @@ Círculo is a music venue in Barcelona listed on soundcheck. 6 upcoming gigs, wi
 
 Carrer del Rec, 62, 08003, Barcelona, Spain, Barcelona
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/c-rculo/)*

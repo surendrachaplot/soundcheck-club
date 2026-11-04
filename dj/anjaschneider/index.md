@@ -1,14 +1,15 @@
 # Anja Schneider
 
-Anja Schneider is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Planetarium Hamburg, Hamburg on Wed, 11 Nov 2026.
+Anja Schneider is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Planetarium Hamburg, Hamburg on Wed, 11 Nov 2026.
 
-Anja Schneider is a techno and house artist based in Germany, with 154 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Radio Slave, Cassy and Foolik. Next up: Planetarium Hamburg, Hamburg on Wed 11 Nov.
+Anja Schneider is a techno and house artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Radio Slave, Cassy and Foolik. Next up: Planetarium Hamburg, Hamburg on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Planetarium Hamburg | Hamburg |
+| Wed, 18 Nov 2026 | AMT | Berlin |
 | Fri, 27 Nov 2026 | OXI | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Anja Schneider is a techno and house artist based in Germany, with 154 gigs on s
 
 Radio Slave, Cassy, Foolik
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anjaschneider/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anjaschneider/)*

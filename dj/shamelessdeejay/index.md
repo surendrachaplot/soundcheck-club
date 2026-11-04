@@ -1,6 +1,6 @@
 # Shameless Deejay
 
-Shameless Deejay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Honey's, New York City on Fri, 13 Nov 2026.
+Shameless Deejay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Honey's, New York City on Fri, 13 Nov 2026.
 
 Shameless Deejay is a house and techno artist, with 18 gigs on soundcheck across Berlin, Mexico City and New York City. Often billed alongside Union (US), Suasimodo and Lauren Yoon. Next up: Honey's, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Shameless Deejay is a house and techno artist, with 18 gigs on soundcheck across
 
 Union (US), Suasimodo, Lauren Yoon
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamelessdeejay/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shamelessdeejay/)*

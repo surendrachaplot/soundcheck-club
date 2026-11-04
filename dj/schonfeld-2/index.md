@@ -1,6 +1,6 @@
 # Schönfeld (2)
 
-Schönfeld (2) is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Fitzroy, Berlin on Fri, 11 Dec 2026.
+Schönfeld (2) is a Hip-Hop and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fitzroy, Berlin on Fri, 11 Dec 2026.
 
 Schönfeld is a hip-hop and pop artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside degen, AT-XYA and Alexia. Next up: Fitzroy, Berlin on Fri 11 Dec.
 
@@ -21,4 +21,4 @@ Schönfeld is a hip-hop and pop artist based in Germany, with 5 gigs on soundche
 
 degen, AT-XYA, Alexia
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schonfeld-2/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schonfeld-2/)*

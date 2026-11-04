@@ -1,6 +1,6 @@
 # Before Noon Club - Morning Party at Filth
 
-Before Noon Club - Morning Party at Filth on Sun 8 Nov, Amsterdam. House and Pop. See the line-up on soundcheck.
+Before Noon Club - Morning Party at Filth on Sun 8 Nov, Amsterdam. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

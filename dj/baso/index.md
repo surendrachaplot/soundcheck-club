@@ -1,6 +1,6 @@
 # Baso
 
-Baso is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Paper, Seoul on Sat, 7 Nov 2026.
+Baso is a House and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Paper, Seoul on Sat, 7 Nov 2026.
 
 Baso is a house and dub artist based in Argentina, with 15 gigs on soundcheck across Bali and Seoul. Often billed alongside Acidwork, Jucid and Soyo. Next up: Paper, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Baso is a house and dub artist based in Argentina, with 15 gigs on soundcheck ac
 
 Acidwork, Jucid, Soyo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baso/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baso/)*

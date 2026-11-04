@@ -1,6 +1,6 @@
 # Marian BR
 
-Marian BR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Jolene Downtown Miami, Miami on Thu, 5 Nov 2026.
+Marian BR is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Jolene Downtown Miami, Miami on Thu, 5 Nov 2026.
 
 Marian BR is a house and tech house artist based in Brazil, with 4 gigs on soundcheck across Barcelona, London and Miami. Often billed alongside AIIVIIK, Abdon and Jorgesyn. Next up: Jolene Downtown Miami, Miami on Thu 5 Nov.
 
@@ -20,4 +20,4 @@ Marian BR is a house and tech house artist based in Brazil, with 4 gigs on sound
 
 AIIVIIK, Abdon, Jorgesyn
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marianbr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marianbr/)*

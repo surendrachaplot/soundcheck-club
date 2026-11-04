@@ -1,6 +1,6 @@
 # Plano B
 
-Plano B is a music venue in Porto with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Ogazón (DE)" on Fri, 13 Nov 2026.
+Plano B is a music venue in Porto with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Ogazón (DE)" on Fri, 13 Nov 2026.
 
 Plano B is a music venue in Porto listed on soundcheck. 4 upcoming gigs, with line-ups including Jen Cardini, Objekt, Ogazón and The Blessed Madonna. See dates, start times and who's playing. Rua Cândido dos Reis nº30 Porto (aos clérigos).
 
@@ -17,4 +17,4 @@ Plano B is a music venue in Porto listed on soundcheck. 4 upcoming gigs, with li
 
 Rua Cândido dos Reis nº30 Porto (aos clérigos), Porto
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/plano-b/)*

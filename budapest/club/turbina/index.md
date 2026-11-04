@@ -1,6 +1,6 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Avatar & VégrePéntek pres. Captain Hook" on Sat, 7 Nov 2026.
+Turbina is a music venue in Budapest with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Avatar & VégrePéntek pres. Captain Hook" on Sat, 7 Nov 2026.
 
 Turbina is a music venue in Budapest listed on soundcheck. 4 upcoming gigs, with line-ups including AIRKEY, Atashi, Bencsama and Captain Hook and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
@@ -17,4 +17,4 @@ Turbina is a music venue in Budapest listed on soundcheck. 4 upcoming gigs, with
 
 Budapest, Vajdahunyad street 4., 1082, Budapest
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/turbina/)*

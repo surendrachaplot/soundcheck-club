@@ -1,6 +1,6 @@
 # Knegativ
 
-Knegativ is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Other Space Arts, South-east on Sat, 7 Nov 2026.
+Knegativ is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Other Space Arts, South-east on Sat, 7 Nov 2026.
 
 Knegativ is a bass and garage artist based in United Kingdom, with 15 gigs on soundcheck across London, New York City and South East. Often billed alongside J V N, Darz and Lutsu. Next up: Other Space Arts, South East on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Knegativ is a bass and garage artist based in United Kingdom, with 15 gigs on so
 
 J V N, Darz, Lutsu
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knegativ/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/knegativ/)*

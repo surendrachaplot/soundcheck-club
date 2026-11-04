@@ -1,6 +1,6 @@
 # Colin Benders & Freddy K at Gate Milano
 
-Colin Benders & Freddy K at Gate Milano on Fri 19 Feb, Milan. 3 artists: Antonio De Angelis, Colin Benders and Freddy K. See the line-up on soundcheck.
+Colin Benders & Freddy K at Gate Milano on Fri 19 Feb, Milan. 3 artists: Antonio De Angelis, Colin Benders and Freddy K. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Frankey & Sandrino
 
-Frankey & Sandrino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
+Frankey & Sandrino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
 
-Frankey & Sandrino are a techno and house duo based in Germany, with 80 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Musumeci, Arutani and Britta Arnold. Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
+Frankey & Sandrino are a techno and house duo based in Germany, with 81 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 36 more. Often billed alongside Musumeci, Britta Arnold and Hardt Antoine. Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Hong Kong Observation Wheel & AIA Vitality Park | Hong Kong |
+| Sat, 28 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Frankey & Sandrino are a techno and house duo based in Germany, with 80 gigs on 
 
 ## Shares bills with
 
-Musumeci, Arutani, Britta Arnold
+Musumeci, Britta Arnold, Hardt Antoine
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankeyandsandrino/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankeyandsandrino/)*

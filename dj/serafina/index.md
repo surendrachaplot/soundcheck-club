@@ -1,6 +1,6 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Tunnel Club, Pereira on Fri, 6 Nov 2026.
+Serafina is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tunnel Club, Pereira on Fri, 6 Nov 2026.
 
 Serafina is a techno and trance artist based in Germany, with 199 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 57 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Tunnel Club, Pereira on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Serafina is a techno and trance artist based in Germany, with 199 gigs on soundc
 
 Adrian Mills, fumi (DE), Cloudy
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafina/)*

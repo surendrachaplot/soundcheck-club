@@ -1,14 +1,15 @@
 # Ebicake
 
-Ebicake is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 5 Nov 2026.
+Ebicake is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Zu Mir Oder Zu Dir, Berlin on Thu, 5 Nov 2026.
 
-Ebicake is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Fredsn, LOVRA and Sebastian Strootmann. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 5 Nov.
+Ebicake is a techno and house artist based in Germany, with 13 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Fredsn, LOVRA and Sebastian Strootmann. Next up: Zu Mir Oder Zu Dir, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Zu Mir Oder Zu Dir | Berlin |
+| Sat, 14 Nov 2026 | Aedes Bar | Berlin |
 | Wed, 25 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Ebicake is a techno and house artist based in Germany, with 12 gigs on soundchec
 
 Fredsn, LOVRA, Sebastian Strootmann
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebicake/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebicake/)*

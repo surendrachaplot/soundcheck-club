@@ -1,6 +1,6 @@
 # Exotico
 
-Exotico is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Gallery, London on Thu, 5 Nov 2026.
+Exotico is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Gallery, London on Thu, 5 Nov 2026.
 
 Exotico is a tech house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Enrico Chirchiello, Ricky Sahota and Beezo. Next up: Gallery, London on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Exotico is a tech house and deep house artist based in United Kingdom, with 15 g
 
 Enrico Chirchiello, Ricky Sahota, Beezo
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exotico/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exotico/)*

@@ -1,8 +1,8 @@
 # visuals ru
 
-visuals ru is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Eastway Baths, London on Sat, 12 Dec 2026.
+visuals ru is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Eastway Baths, London on Sat, 12 Dec 2026.
 
-visuals ru is an electronica and experimental artist, with 5 gigs on soundcheck across London. Often billed alongside AM sin, happyhappyface and Black Arrows. Next up: Eastway Baths, London on Sat 12 Dec.
+visuals ru is an electronica and experimental artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside AM sin, happyhappyface and Black Arrows. Next up: Eastway Baths, London on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ visuals ru is an electronica and experimental artist, with 5 gigs on soundcheck 
 
 AM sin, happyhappyface, Black Arrows
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/visualsru/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/visualsru/)*

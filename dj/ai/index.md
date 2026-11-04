@@ -1,6 +1,6 @@
 # A.I.
 
-A.I. is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Groundless Factory, Beijing on Fri, 6 Nov 2026.
+A.I. is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Groundless Factory, Beijing on Fri, 6 Nov 2026.
 
 A.I. is a techno and experimental artist based in China, with 7 gigs on soundcheck across Beijing, Berlin and Shanghai. Often billed alongside MMS, CTAFAD and PUNX. Next up: Groundless Factory, Beijing on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ A.I. is a techno and experimental artist based in China, with 7 gigs on soundche
 
 MMS, CTAFAD, PUNX
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ai/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ai/)*

@@ -1,6 +1,6 @@
 # Purple Mash
 
-Purple Mash is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Loco Club, North on Fri, 6 Nov 2026.
+Purple Mash is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Loco Club, North on Fri, 6 Nov 2026.
 
 Purple Mash is a techno and hardcore artist based in Italy, with 8 gigs on soundcheck across Bologna, Malmo, Malta and Milan and 2 more. Often billed alongside RÄV, EZEDIEL and ANKKH. Next up: Loco Club, North on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Purple Mash is a techno and hardcore artist based in Italy, with 8 gigs on sound
 
 RÄV, EZEDIEL, ANKKH
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purplemash/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/purplemash/)*

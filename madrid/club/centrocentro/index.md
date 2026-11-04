@@ -1,0 +1,17 @@
+# Centrocentro
+
+Centrocentro is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "LIMO: Lise Barkas" on Sat, 28 Nov 2026.
+
+Centrocentro is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Plaza de Cibeles, 1. 28014. Madrid.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | LIMO: Lise Barkas |  |
+
+## Address
+
+Plaza de Cibeles, 1. 28014. Madrid, Madrid
+
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/centrocentro/)*

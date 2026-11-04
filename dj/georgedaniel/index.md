@@ -1,6 +1,6 @@
 # George Daniel
 
-George Daniel is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Badaboum, Paris on Thu, 5 Nov 2026.
+George Daniel is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Badaboum, Paris on Thu, 5 Nov 2026.
 
 George Daniel is a house and tech house artist based in United Kingdom, with 22 gigs on soundcheck across Berlin, Ibiza, London and Los Angeles and 3 more. Often billed alongside Oscar Farrell, Kelly Lee Owens and 2D0GS. Next up: Badaboum, Paris on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ George Daniel is a house and tech house artist based in United Kingdom, with 22 
 
 Oscar Farrell, Kelly Lee Owens, 2D0GS
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgedaniel/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgedaniel/)*

@@ -1,6 +1,6 @@
 # Masters
 
-Masters is a music venue in Zagreb with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "Cruise W/ Mariano Mateljan, Madezh, MJ Suddani" on Sat, 7 Nov 2026.
+Masters is a music venue in Zagreb with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Cruise W/ Mariano Mateljan, Madezh, MJ Suddani" on Sat, 7 Nov 2026.
 
 Masters is a music venue in Zagreb listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Masters is a music venue in Zagreb listed on soundcheck. 1 upcoming gig. See dat
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Cruise W/ Mariano Mateljan, Madezh, MJ Suddani |  |
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/masters/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/zagreb/club/masters/)*

@@ -1,14 +1,15 @@
 # Marcelo Pantani
 
-Marcelo Pantani is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
+Marcelo Pantani is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 13 Nov 2026.
 
-Marcelo Pantani is a house and electronica artist based in Spain, with 45 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nile Fee, John Heaven and Daniel 2000. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
+Marcelo Pantani is a house and electronica artist based in Spain, with 46 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nile Fee, John Heaven and Daniel 2000. Next up: Razzmatazz, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Razzmatazz | Barcelona |
+| Sat, 21 Nov 2026 | Club Malasaña | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marcelo Pantani is a house and electronica artist based in Spain, with 45 gigs o
 
 Nile Fee, John Heaven, Daniel 2000
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelopantani/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelopantani/)*

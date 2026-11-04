@@ -1,6 +1,6 @@
 # TAGAPO
 
-TAGAPO is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Flipdog, London on Sat, 21 Nov 2026.
+TAGAPO is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Flipdog, London on Sat, 21 Nov 2026.
 
 TAGAPO is a tech house and house artist based in United Kingdom, with 8 gigs on soundcheck across Athens and London. Often billed alongside Folek, MARIUS SEBASTIAN and Ali. Next up: Flipdog, London on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ TAGAPO is a tech house and house artist based in United Kingdom, with 8 gigs on 
 
 Folek, MARIUS SEBASTIAN, Ali (4)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tagapo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tagapo/)*

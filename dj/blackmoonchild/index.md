@@ -1,14 +1,14 @@
 # Blackmoonchild
 
-Blackmoonchild is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Lincoln Factory, Detroit on Fri, 13 Nov 2026.
+Blackmoonchild is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Marble Bar, Detroit on Fri, 13 Nov 2026.
 
-Blackmoonchild is a techno and house artist based in United States of America, with 72 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 4 more. Often billed alongside AK (US), DJ Etta (US) and The AM/AMX. Next up: Lincoln Factory, Detroit on Fri 13 Nov.
+Blackmoonchild is a techno and house artist based in United States of America, with 72 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 4 more. Often billed alongside AK (US), DJ Etta (US) and The AM/AMX. Next up: Marble Bar, Detroit on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | Lincoln Factory | Detroit |
+| Fri, 13 Nov 2026 | Marble Bar | Detroit |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Blackmoonchild is a techno and house artist based in United States of America, w
 
 AK (US), DJ Etta (US), The AM/AMX
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmoonchild/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackmoonchild/)*

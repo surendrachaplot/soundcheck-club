@@ -1,6 +1,6 @@
 # Amy Cutter
 
-Amy Cutter is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Mezzanine - Tooting, London on Fri, 27 Nov 2026.
+Amy Cutter is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mezzanine - Tooting, London on Fri, 27 Nov 2026.
 
 Amy Cutter is a house and tech house artist based in United Kingdom, with 30 gigs on soundcheck across London. Often billed alongside Jamie Bloomfield, Laurence and 3 Minds. Next up: Mezzanine - Tooting, London on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Amy Cutter is a house and tech house artist based in United Kingdom, with 30 gig
 
 Jamie Bloomfield, Laurence, 3 Minds
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amycutter/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amycutter/)*

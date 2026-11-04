@@ -1,8 +1,8 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Cinco Shades: Josh Pace & Friends" on Fri, 6 Nov 2026.
+Distrikt is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Cinco Shades: Josh Pace & Friends" on Fri, 6 Nov 2026.
 
-Distrikt is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with line-ups including 3PM RECORDS, Adam Lance, Alexandria and Alexia Glensy and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
+Distrikt is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including 3PM RECORDS, Adam Lance, ad*n and Alexandria and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Distrikt is a music venue in Leeds listed on soundcheck. 11 upcoming gigs, with 
 | Sat, 21 Nov 2026 | Standard Records presents D'Julz | D'Julz, LJC (1), Ola & Lucia |
 | Fri, 27 Nov 2026 | In Motion  |  |
 | Sat, 28 Nov 2026 | Special Delivery presents: Voigtmann B2B Jhobei | Adam Lance, Jhobei, Voigtmann, Wakka |
+| Fri, 4 Dec 2026 | Ruffkut presents: Prozak B2B mance | Cottam (2), Esdaile, Prozak (IRL), ad*n, mance |
 | Sat, 5 Dec 2026 | Art Club Christmas Doo: James Creed b2b DJ Pipe + Willow + Arty + Mango Boogy Joy | Arty (UK), Cian Joy, DJ Pipe, Mango Boogy, The Ghost, Willow |
 | Fri, 11 Dec 2026 | Distrikt presents x Face2face: Pancratio, Huerta, Alexia Glensy | Alexia Glensy, Huerta, Pancratio |
-| Sat, 12 Dec 2026 | BASS3 x Distrikt Bar | Mike Morrisey |
 
 ## Address
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

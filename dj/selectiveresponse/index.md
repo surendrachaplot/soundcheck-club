@@ -1,14 +1,15 @@
 # Selective Response
 
-Selective Response is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 5 Dec 2026.
+Selective Response is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Sat, 5 Dec 2026.
 
-Selective Response is a techno and house artist based in United States of America, with 46 gigs on soundcheck across Atlanta, Berlin, Chicago and Detroit and 7 more. Often billed alongside Perc, Annika Wolfe and Barbosa. Next up: TBA - Los Angeles, Los Angeles on Sat 5 Dec.
+Selective Response is a techno and house artist based in United States of America, with 47 gigs on soundcheck across Atlanta, Berlin, Chicago and Detroit and 8 more. Often billed alongside Perc, Annika Wolfe and Barbosa. Next up: TBA - Los Angeles, Los Angeles on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | TBA - Los Angeles | Los Angeles |
+| Sat, 2 Jan 2027 | Walter Studios | Phoenix |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Selective Response is a techno and house artist based in United States of Americ
 
 Perc, Annika Wolfe, Barbosa
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectiveresponse/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selectiveresponse/)*

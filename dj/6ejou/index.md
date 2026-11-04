@@ -1,6 +1,6 @@
 # 6EJOU
 
-6EJOU is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
+6EJOU is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
 
 6EJOU is a techno and industrial artist based in France, with 184 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 58 more. Often billed alongside Raxeller, KARAH and CARV. Next up: Bootshaus, Cologne on Sat 7 Nov.
 
@@ -30,4 +30,4 @@
 
 Raxeller, KARAH, CARV
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/6ejou/)*

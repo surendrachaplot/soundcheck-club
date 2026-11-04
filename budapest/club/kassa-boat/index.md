@@ -1,6 +1,6 @@
 # Kassa Boat
 
-Kassa Boat is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Liquid Night invites CHRSTPHR" on Fri, 6 Nov 2026.
+Kassa Boat is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Liquid Night invites CHRSTPHR" on Fri, 6 Nov 2026.
 
 Kassa Boat is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Axel Karakasis, CHRSTPHR, Daniel Avery and Demmy J and 2 more. See dates, start times and who's playing. 1011 Budapest Szilágyi Dezső square dock 2.
 
@@ -19,4 +19,4 @@ Kassa Boat is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, w
 
 1011 Budapest Szilágyi Dezső square dock 2, Budapest
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/kassa-boat/)*

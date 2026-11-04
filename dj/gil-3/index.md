@@ -1,6 +1,6 @@
 # Gil (3)
 
-Gil (3) is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at TBA, London on Thu, 5 Nov 2026.
+Gil (3) is a Electronica and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, London on Thu, 5 Nov 2026.
 
 Gil is an electronica and minimal artist based in France, with 4 gigs on soundcheck across Berlin and London. Often billed alongside Alexandre Petit, Bruno Pronsato and Losoul. Next up: TBA, London on Thu 5 Nov.
 
@@ -20,4 +20,4 @@ Gil is an electronica and minimal artist based in France, with 4 gigs on soundch
 
 Alexandre Petit, Bruno Pronsato, Losoul
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gil-3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gil-3/)*

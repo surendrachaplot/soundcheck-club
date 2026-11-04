@@ -1,6 +1,6 @@
 # Takuya Nakamura at Fonda Theatre
 
-Takuya Nakamura at Fonda Theatre on Sat 21 Nov, Los Angeles. 1 artist: Takuya Nakamura. Jazz and Jungle. See the line-up on soundcheck.
+Takuya Nakamura at Fonda Theatre on Sat 21 Nov, Los Angeles. 2 artists: RP Boo and Takuya Nakamura. Jazz and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Takuya Nakamura at Fonda Theatre on Sat 21 Nov, Los Angeles. 1 artist: Takuya Na
 
 ## Line-up
 
+- RP Boo
 - Takuya Nakamura
 
 *Source: [soundcheck](https://soundcheck.club/e/2533787-takuya-nakamura-at-fonda-theatre/)*

@@ -1,6 +1,6 @@
 # OCZKI
 
-OCZKI is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "ATRIP" on Sat, 7 Nov 2026.
+OCZKI is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "ATRIP" on Sat, 7 Nov 2026.
 
 OCZKI is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including Amnesia Scanner, Cardopusher, DiV4 and dj neurospicy and 2 more. See dates, start times and who's playing. Wojciecha Oczki 1A, 02-007 Warszawa.
 
@@ -16,4 +16,4 @@ OCZKI is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with lin
 
 Wojciecha Oczki 1A, 02-007 Warszawa, Warsaw
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/oczki/)*

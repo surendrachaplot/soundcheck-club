@@ -1,6 +1,6 @@
 # Grooverider
 
-Grooverider is a Drum & Bass and Jungle artist with 16 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Grooverider is a Drum & Bass and Jungle artist with 16 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
 Grooverider is a drum & bass and jungle artist based in United Kingdom, with 149 gigs on soundcheck across Adelaide, Amsterdam, Bali and Bangkok and 28 more. Often billed alongside Fabio, Nicky Blackmarket and Ray Keith. Next up: Marshall Arena, South East on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ Grooverider is a drum & bass and jungle artist based in United Kingdom, with 149
 
 Fabio, Nicky Blackmarket, Ray Keith
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooverider/)*

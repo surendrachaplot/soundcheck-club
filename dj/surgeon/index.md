@@ -1,8 +1,8 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Surgeon is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-Surgeon is a techno and house artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Speedy J, DJ Pete and Regis. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Surgeon is a techno and house artist based in United Kingdom, with 138 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 40 more. Often billed alongside Speedy J, DJ Pete and Regis. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Surgeon is a techno and house artist based in United Kingdom, with 137 gigs on s
 | Sat, 28 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 11 Dec 2026 | Lanna Club | North |
 | Sat, 12 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
+| Fri, 18 Dec 2026 | Mia Mao | Paris |
 | Sat, 19 Dec 2026 | Centre Point | Dublin |
 | Sat, 6 Mar 2027 | The Cause | London |
 
@@ -32,4 +33,4 @@ Surgeon is a techno and house artist based in United Kingdom, with 137 gigs on s
 
 Speedy J, DJ Pete, Regis
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surgeon/)*

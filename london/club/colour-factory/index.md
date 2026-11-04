@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 24 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Labyrinth presents: J Gadget - Groove with Gadget" on Fri, 6 Nov 2026.
+Colour Factory is a music venue in London with 25 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Labyrinth presents: J Gadget - Groove with Gadget" on Fri, 6 Nov 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including 3MR., Aeroplane, Alexander Robotnick and Alex Metric and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including 3MR., Aeroplane, Alexander Robotnick and Alex Metric and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 24 upcoming gigs
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

@@ -1,6 +1,6 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 12 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Friday: DJ Tennis, Kybba" on Fri, 6 Nov 2026.
+Frankhan Selectist is a music venue in Istanbul with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Friday: DJ Tennis, Kybba" on Fri, 6 Nov 2026.
 
 Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 12 upcoming gigs, with line-ups including Aline Umber, Cabanne, Childplay and Chloé and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
@@ -23,4 +23,4 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 12 upcomin
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

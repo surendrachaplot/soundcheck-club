@@ -1,6 +1,6 @@
 # Promis3
 
-Promis3 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Le Trabendo, Paris on Fri, 6 Nov 2026.
+Promis3 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Trabendo, Paris on Fri, 6 Nov 2026.
 
 Promis3 is a techno and trance artist based in Belgium, with 54 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 25 more. Often billed alongside Stinny Stone, Zorza and Kander. Next up: Le Trabendo, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Promis3 is a techno and trance artist based in Belgium, with 54 gigs on soundche
 
 Stinny Stone, Zorza, Kander
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/promis3/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/promis3/)*

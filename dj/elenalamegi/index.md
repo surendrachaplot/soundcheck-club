@@ -1,6 +1,6 @@
 # Elena Megi
 
-Elena Megi is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Oven Club, Valencia on Sat, 21 Nov 2026.
+Elena Megi is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Oven Club, Valencia on Sat, 21 Nov 2026.
 
 Elena Megi is a tech house and house artist based in Spain, with 4 gigs on soundcheck across Madrid and Valencia. Often billed alongside CAMMMMM, Ariezzz and BAR (DE). Next up: Oven Club, Valencia on Sat 21 Nov.
 
@@ -20,4 +20,4 @@ Elena Megi is a tech house and house artist based in Spain, with 4 gigs on sound
 
 CAMMMMM, Ariezzz, BAR (DE)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenalamegi/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenalamegi/)*

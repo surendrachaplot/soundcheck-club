@@ -1,6 +1,6 @@
 # Sacré
 
-Sacré is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "Dusky présent Signals Tour" on Fri, 6 Nov 2026.
+Sacré is a music venue in Paris with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dusky présent Signals Tour" on Fri, 6 Nov 2026.
 
 Sacré is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with line-ups including Daisybelle, DJ Carlos, Duskus and Dusky and 2 more. See dates, start times and who's playing. 142 rue montmartre 75002 Paris.
 
@@ -23,4 +23,4 @@ Sacré is a music venue in Paris listed on soundcheck. 10 upcoming gigs, with li
 
 142 rue montmartre 75002 Paris, Paris
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/sacr/)*

@@ -1,6 +1,6 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "up/or w/ NEXUS (live) k means (dj) SAMI (dj) DJ Fred (dj) zey (dj)" on Fri, 6 Nov 2026.
+FLUCC is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "up/or w/ NEXUS (live) k means (dj) SAMI (dj) DJ Fred (dj) zey (dj)" on Fri, 6 Nov 2026.
 
 FLUCC is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including Aleta, Aura, Aura Live and David Phoenix and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
@@ -23,4 +23,4 @@ FLUCC is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with li
 
 Praterstern 5; Vienna 1020; Austria, Vienna
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/flucc/)*

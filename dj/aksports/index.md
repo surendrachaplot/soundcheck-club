@@ -1,6 +1,6 @@
 # AK SPORTS
 
-AK SPORTS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at GAP Club, Chengdu on Fri, 6 Nov 2026.
+AK SPORTS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at GAP Club, Chengdu on Fri, 6 Nov 2026.
 
 AK SPORTS is a techno and house artist based in Australia, with 10 gigs on soundcheck across Amsterdam, Brisbane, Chengdu and Hong Kong and 6 more. Often billed alongside Riordan, salute and Bella Claxton. Next up: GAP Club, Chengdu on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ AK SPORTS is a techno and house artist based in Australia, with 10 gigs on sound
 
 Riordan, salute, Bella Claxton
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aksports/)*

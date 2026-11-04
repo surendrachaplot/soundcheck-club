@@ -1,6 +1,6 @@
 # Champagnemuma
 
-Champagnemuma is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 28 Nov 2026.
+Champagnemuma is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 28 Nov 2026.
 
 Champagnemuma is a garage and house artist based in Australia, with 16 gigs on soundcheck across Melbourne. Often billed alongside BETHANY, Safe and With Ess. Next up: Abbots Yard, Melbourne on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Champagnemuma is a garage and house artist based in Australia, with 16 gigs on s
 
 BETHANY (1), Safe, With Ess
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champagnemuma/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champagnemuma/)*

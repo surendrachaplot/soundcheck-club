@@ -1,6 +1,6 @@
 # radial
 
-radial is a music venue in London with 14 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. The next is "from the source: House of Multiple Occupants" on Wed, 4 Nov 2026.
+radial is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "from the source: House of Multiple Occupants" on Wed, 4 Nov 2026.
 
 radial is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
@@ -17,10 +17,10 @@ radial is a music venue in London listed on soundcheck. 14 upcoming gigs, with l
 | Sat, 21 Nov 2026 | NOIDMATE - radial.london | NOIDMATE |
 | Fri, 27 Nov 2026 | Zen Arcade w/ Harri Pepper & Kyle Toole, Ellie Anderson | Ellie Anderson, Harri Pepper, Kyle Toole |
 | Sat, 28 Nov 2026 | Willow, Ste Roberts (live), Free Zing & Adam Curtain - Trouble Maker | Adam Curtain, Free Zing, Ste Roberts, Willow |
-| Sun, 29 Nov 2026 | family affair presents: a sunday for Palestine  | Cem Ozden, Redshift (2), Sam Bangura, Sheriff Boo, Sleepy Jean, batgirl |
+| Sun, 29 Nov 2026 | family affair presents: a sunday for Palestine | Cem Ozden, Redshift (2), Sam Bangura, Sheriff Boo, Sleepy Jean, batgirl |
 
 ## Address
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

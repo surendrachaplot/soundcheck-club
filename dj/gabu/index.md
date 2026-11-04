@@ -1,6 +1,6 @@
 # Gabu
 
-Gabu is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
+Gabu is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Die Rakete, Nürnberg on Fri, 11 Dec 2026.
 
 Gabu is an acid and techno artist based in Germany, with 4 gigs on soundcheck across Augsburg, Berlin, Nürnberg and Tokyo. Often billed alongside ANTRO, Brtinzz and Deborah De Luca. Next up: Die Rakete, Nürnberg on Fri 11 Dec.
 
@@ -20,4 +20,4 @@ Gabu is an acid and techno artist based in Germany, with 4 gigs on soundcheck ac
 
 ANTRO, Brtinzz, Deborah De Luca
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabu/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabu/)*

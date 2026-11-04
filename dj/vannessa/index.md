@@ -1,6 +1,6 @@
 # Vann Essa
 
-Vann Essa is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
+Vann Essa is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 Vann Essa is a deep house and techno artist based in Ukraine, with 22 gigs on soundcheck across San Francisco/Oakland. Often billed alongside IZIK, SAGMO and Admiral. Next up: The Great Northern, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Vann Essa is a deep house and techno artist based in Ukraine, with 22 gigs on so
 
 IZIK, SAGMO, Admiral
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vannessa/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vannessa/)*

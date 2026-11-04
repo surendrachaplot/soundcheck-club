@@ -1,6 +1,6 @@
 # Hardy Hard
 
-Hardy Hard is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at Enea Arena, Poland on Sat, 13 Mar 2027.
+Hardy Hard is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Enea Arena, Poland on Sat, 13 Mar 2027.
 
 Hardy Hard is a techno and tech house artist, with 31 gigs on soundcheck across Berlin and Poland. Often billed alongside Haito, Maschine and JayKosy. Next up: Enea Arena, Poland on Sat 13 Mar.
 
@@ -25,4 +25,4 @@ Hardy Hard is a techno and tech house artist, with 31 gigs on soundcheck across 
 
 Haito, Maschine, JayKosy
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardyhard/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardyhard/)*

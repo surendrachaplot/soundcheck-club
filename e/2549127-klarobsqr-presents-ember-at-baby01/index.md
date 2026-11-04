@@ -1,6 +1,6 @@
 # klarobsqr presents: EMBER at BABY01
 
-klarobsqr presents: EMBER at BABY01 on Sat 7 Nov, Berlin. 7 artists: AINA.KRU, ĀTMĀN, DMZ (DE) and Lambertø and 3 more. Techno. See the line-up on soundcheck.
+klarobsqr presents: EMBER at BABY01 on Sat 7 Nov, Berlin. 6 artists: ĀTMĀN, DMZ (DE), Lambertø and Matt Röder and 2 more. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ klarobsqr presents: EMBER at BABY01 on Sat 7 Nov, Berlin. 7 artists: AINA.KRU, �
 
 ## Line-up
 
-- AINA.KRU
 - ĀTMĀN
 - DMZ (DE)
 - Lambertø

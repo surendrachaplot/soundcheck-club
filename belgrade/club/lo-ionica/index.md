@@ -1,17 +1,18 @@
 # Ložionica
 
-Ložionica is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. The next is "INFUSE x Butch" on Sat, 21 Nov 2026.
+Ložionica is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "INFUSE x Butch" on Sat, 21 Nov 2026.
 
-Ložionica is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including Butch, Gostoja, Peter Portman and Runy. See dates, start times and who's playing. Ulica Ideja 2.
+Ložionica is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Butch, Gostoja, Milak and Peter Portman and 1 more. See dates, start times and who's playing. Ulica Ideja 2.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | INFUSE x Butch | Butch, Gostoja, Peter Portman, Runy |
+| Sat, 21 Nov 2026 | Butch x Lozionica | Butch, Gostoja, Milak, Peter Portman, Runy |
 
 ## Address
 
 Ulica Ideja 2, Belgrade
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lo-ionica/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/lo-ionica/)*

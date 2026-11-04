@@ -1,6 +1,6 @@
 # KINEKTA
 
-KINEKTA is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 7 Nov 2026.
+KINEKTA is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at QQQ ST. Park, Melbourne on Sat, 7 Nov 2026.
 
 KINEKTA is a jungle and drum & bass artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside Dylan Smith, SHEV and Stackpackers. Next up: QQQ ST. Park, Melbourne on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ KINEKTA is a jungle and drum & bass artist based in Australia, with 4 gigs on so
 
 Dylan Smith, SHEV (2), Stackpackers
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinekta/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinekta/)*

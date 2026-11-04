@@ -1,8 +1,8 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
+Gabrielle Kwarteng is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
 
-Gabrielle Kwarteng is a house and techno artist based in United States of America, with 275 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 75 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Nowadays, New York City on Sat 7 Nov.
+Gabrielle Kwarteng is a house and techno artist based in United States of America, with 276 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 75 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Nowadays, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 | Sat, 5 Dec 2026 | TBA | Mexico City |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
+| Sun, 27 Dec 2026 | Lofi | Amsterdam |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 BASHKKA, Peach, Sedef Adasï
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabriellekwarteng/)*

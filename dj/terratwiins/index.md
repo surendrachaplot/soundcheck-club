@@ -1,14 +1,15 @@
 # TERRA TWIINS
 
-TERRA TWIINS is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Tue, 3 Nov 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
+TERRA TWIINS is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kalif Storch, Erfurt on Sat, 7 Nov 2026.
 
-TERRA TWIINS is a techno and trance artist based in Germany, with 52 gigs on soundcheck across Berlin, Erfurt, Frankfurt and Hamburg and 1 more. Often billed alongside SOHOE, Stinny Stone and Amo (IT). Next up: Kalif Storch, Erfurt on Sat 7 Nov.
+TERRA TWIINS is a techno and trance artist based in Germany, with 53 gigs on soundcheck across Berlin, Erfurt, Frankfurt and Hamburg and 1 more. Often billed alongside SOHOE, Stinny Stone and Amo (IT). Next up: Kalif Storch, Erfurt on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Kalif Storch | Erfurt |
+| Fri, 13 Nov 2026 | Humboldthain Club | Berlin |
 | Sat, 14 Nov 2026 | ÆDEN | Berlin |
 | Fri, 27 Nov 2026 | OST | Berlin |
 | Sat, 19 Dec 2026 | Lokschuppen Berlin | Berlin |
@@ -28,4 +29,4 @@ TERRA TWIINS is a techno and trance artist based in Germany, with 52 gigs on sou
 
 SOHOE, Stinny Stone, Amo (IT)
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terratwiins/)*

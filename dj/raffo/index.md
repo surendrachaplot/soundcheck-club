@@ -1,6 +1,6 @@
 # Raffo
 
-Raffo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Tue, 3 Nov 2026. Next at John Doe, Amsterdam on Fri, 6 Nov 2026.
+Raffo is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at John Doe, Amsterdam on Fri, 6 Nov 2026.
 
 Raffo is a techno and industrial artist, with 4 gigs on soundcheck across Amsterdam, Barcelona and Milan. Often billed alongside Carons, JOANNA DARK and NaN. Next up: John Doe, Amsterdam on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Raffo is a techno and industrial artist, with 4 gigs on soundcheck across Amster
 
 Carons, JOANNA DARK, NaN
 
-*Updated Tue, 3 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raffo/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raffo/)*
