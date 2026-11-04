@@ -1,8 +1,8 @@
 # Stef Davidse
 
-Stef Davidse is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Back Room, Bali on Sat, 7 Nov 2026.
+Stef Davidse is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Back Room, Bali on Sat, 7 Nov 2026.
 
-Stef Davidse is a house and tech house artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 18 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: The Back Room, Bali on Sat 7 Nov.
+Stef Davidse is a house and tech house artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 19 more. Often billed alongside Ryan Resso, Chopper (UK) and FINKY. Next up: The Back Room, Bali on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Stef Davidse is a house and tech house artist based in Netherlands, with 105 gig
 | Sat, 14 Nov 2026 | The Golden Sheaf | New-south-wales |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 6 Dec 2026 | Madam | Amsterdam |
+| Mon, 7 Dec 2026 | The Loft | Vienna |
 
 ## Recently played
 

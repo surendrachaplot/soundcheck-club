@@ -8,7 +8,7 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 25 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | VICE VERSA Invites The Muffin Man | LAUZ, Mixfits (2), TheMuffinMan |
+| Thu, 5 Nov 2026 | VICE VERSA Invites The Muffin Man | LAUZ, Mixfits (2), The Muffin Man |
 | Fri, 6 Nov 2026 | The Berkeley Suite presents: Shanti Celeste | Carmen Baía, Shanti Celeste, Sophia Constantinou |
 | Sat, 7 Nov 2026 | The Berkeley Suite presents - Erol Alkan // To the Rhythm All Night Long | Erol Alkan |
 | Tue, 10 Nov 2026 | CASA: TUESDAYS AT The Berkeley Suite // 10TH NOVEMBER |  |

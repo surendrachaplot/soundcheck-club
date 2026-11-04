@@ -1,8 +1,8 @@
 # LazerGazer
 
-LazerGazer is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Sat, 12 Dec 2026.
+LazerGazer is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Sat, 12 Dec 2026.
 
-LazerGazer is a techno and electro artist based in Syria, with 84 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Jasmín, Naone and YoungWoman. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
+LazerGazer is a techno and bass artist based in Syria, with 84 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Jasmín, Naone and YoungWoman. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
 
 ## Upcoming shows
 

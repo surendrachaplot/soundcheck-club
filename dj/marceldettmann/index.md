@@ -1,8 +1,8 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
+Marcel Dettmann is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
 
-Marcel Dettmann is a techno and house artist based in Germany, with 296 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 85 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
+Marcel Dettmann is a techno and house artist based in Germany, with 297 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 86 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Marcel Dettmann is a techno and house artist based in Germany, with 296 gigs on 
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 21 Nov 2026 | Preston Warehouse | Melbourne |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Fri, 4 Dec 2026 | RASA | Singapore |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
 | Fri, 18 Dec 2026 | Hive Club | Zurich |
-| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

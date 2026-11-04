@@ -1,14 +1,15 @@
 # Stanislawa
 
-Stanislawa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Stanislawa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
 
-Stanislawa is a techno and house artist based in Belgium, with 88 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, EMILIJA and Helena Lauwaert. Next up: TRAUM, Antwerp on Sat 14 Nov.
+Stanislawa is a techno and house artist based in Belgium, with 89 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 6 more. Often billed alongside Vera Moro, EMILIJA and Helena Lauwaert. Next up: TRAUM, Antwerp on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TRAUM | Antwerp |
+| Fri, 1 Jan 2027 | C12 | Brussels |
 
 ## Recently played
 

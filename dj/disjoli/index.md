@@ -1,14 +1,15 @@
 # Disjoli
 
-Disjoli is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
+Disjoli is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TRAUM, Antwerp on Sat, 14 Nov 2026.
 
-Disjoli is a techno and house artist based in Belgium, with 29 gigs on soundcheck across Antwerp, Brussels, Copenhagen and Ghent and 2 more. Often billed alongside Stanislawa, MZA (FR) and Alycia Bezgo. Next up: TRAUM, Antwerp on Sat 14 Nov.
+Disjoli is a techno and house artist based in Belgium, with 30 gigs on soundcheck across Antwerp, Brussels, Copenhagen and Ghent and 2 more. Often billed alongside Stanislawa, MZA (FR) and Shoplifter. Next up: TRAUM, Antwerp on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TRAUM | Antwerp |
+| Fri, 1 Jan 2027 | C12 | Brussels |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Disjoli is a techno and house artist based in Belgium, with 29 gigs on soundchec
 
 ## Shares bills with
 
-Stanislawa, MZA (FR), Alycia Bezgo
+Stanislawa, MZA (FR), Shoplifter
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/disjoli/)*

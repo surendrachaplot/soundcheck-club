@@ -1,8 +1,8 @@
 # Toirabat
 
-Toirabat is a Dub and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Sat, 12 Dec 2026.
+Toirabat is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Sat, 12 Dec 2026.
 
-Toirabat is a dub and jungle artist based in Belgium, with 18 gigs on soundcheck across Brussels. Often billed alongside DJ Bisou, Marouchka and Model101. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
+Toirabat is a dub and bass artist based in Belgium, with 18 gigs on soundcheck across Brussels. Often billed alongside DJ Bisou, Marouchka and Model101. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
 
 ## Upcoming shows
 

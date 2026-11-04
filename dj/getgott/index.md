@@ -2,7 +2,7 @@
 
 GET GOTT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Banya Brooklyn, New York City on Sun, 8 Nov 2026.
 
-GET GOTT is a techno and house artist, with 5 gigs on soundcheck across New York City. Often billed alongside Aspirin, DJ Dawson and FUSSY. Next up: Banya Brooklyn, New York City on Sun 8 Nov.
+GET GOTT is a techno and house artist based in United States of America, with 5 gigs on soundcheck across New York City. Often billed alongside Aspirin, DJ Dawson and FUSSY. Next up: Banya Brooklyn, New York City on Sun 8 Nov.
 
 ## Upcoming shows
 

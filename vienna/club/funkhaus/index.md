@@ -13,7 +13,7 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with 
 | Sat, 14 Nov 2026 | Once in a Blue Moon, Kiki ball + Afterparty |  |
 | Fri, 27 Nov 2026 | Cafe Disko x Firlefunk | Diskohengst, Felix Wolfs |
 | Sat, 5 Dec 2026 | Noche d'Amore - A Dance Romance |  |
-| Sun, 6 Dec 2026 | Untz Baby Untz - Nikolo in the Funkhaus |  |
+| Sun, 6 Dec 2026 | Untz Baby Untz - Nikolo in the Funkhaus | SHIZZLE |
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Mareia, Tom Kutsche |
 | Sat, 19 Dec 2026 | traveling without moving |  |
 | Sat, 16 Jan 2027 | traveling without moving |  |

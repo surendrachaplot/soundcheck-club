@@ -1,14 +1,15 @@
 # PAUNA
 
-PAUNA is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 7 Nov 2026.
+PAUNA is a Techno and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crack Bellmer, Berlin on Sat, 7 Nov 2026.
 
-PAUNA is a techno and minimal artist based in Austria, with 42 gigs on soundcheck across Berlin and Vienna. Often billed alongside NUNØ, KRETA and Kay Barton. Next up: Crack Bellmer, Berlin on Sat 7 Nov.
+PAUNA is a techno and minimal artist based in Austria, with 43 gigs on soundcheck across Berlin and Vienna. Often billed alongside NUNØ, KRETA and Kay Barton. Next up: Crack Bellmer, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Crack Bellmer | Berlin |
+| Fri, 20 Nov 2026 | Club Lucia | Vienna |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Nek (1)
 
-Nek (1) is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Sat, 12 Dec 2026.
+Nek (1) is a Bass and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Sat, 12 Dec 2026.
 
-Nek is a broken beat and house artist based in Belgium, with 17 gigs on soundcheck across Brussels, Ghent, Lyon and Osaka and 1 more. Often billed alongside Erykah, NVST and Bona Léa. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
+Nek is a bass and broken beat artist based in Belgium, with 17 gigs on soundcheck across Brussels, Ghent, Lyon and Osaka and 1 more. Often billed alongside Erykah, NVST and Bona Léa. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
 
 ## Upcoming shows
 

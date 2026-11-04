@@ -1,6 +1,6 @@
 # Deux Chevaux with Angel Rocket, LazerGazer, NEK, DJ Bisou & Toirabat at AB Club (Ancienne Belgique)
 
-Deux Chevaux with Angel Rocket, LazerGazer, NEK, DJ Bisou & Toirabat at AB Club (Ancienne Belgique) on Sat 12 Dec, Brussels. 5 artists: Angel Rocket, DJ Bisou, LazerGazer and Nek and 1 more. See the line-up on soundcheck.
+Deux Chevaux with Angel Rocket, LazerGazer, NEK, DJ Bisou & Toirabat at AB Club (Ancienne Belgique) on Sat 12 Dec, Brussels. 5 artists: Angel Rocket, DJ Bisou, LazerGazer and Nek and 1 more. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

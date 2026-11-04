@@ -1,8 +1,8 @@
-# TBA - Secret Location
+# TBA - secret location
 
-TBA - Secret Location is a music venue in London with 52 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "(Re)Candor II: Where Souls Meet" on Fri, 6 Nov 2026.
+TBA - secret location is a music venue in London with 52 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "(Re)Candor II: Where Souls Meet" on Fri, 6 Nov 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 52 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
+TBA - secret location is a music venue in London listed on soundcheck. 52 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

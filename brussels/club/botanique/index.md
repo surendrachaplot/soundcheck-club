@@ -1,8 +1,8 @@
 # Botanique
 
-Botanique is a music venue in Brussels with 19 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "underscores" on Fri, 6 Nov 2026.
+Botanique is a music venue in Brussels with 20 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "underscores" on Fri, 6 Nov 2026.
 
-Botanique is a music venue in Brussels listed on soundcheck. 19 upcoming gigs, with line-ups including Anton Friisgaard, Aponogeton, Ben Bertrand and Bona Léa and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
+Botanique is a music venue in Brussels listed on soundcheck. 20 upcoming gigs, with line-ups including Anton Friisgaard, Aponogeton, Baba Stiltz and Ben Bertrand and 2 more. See dates, start times and who's playing. Koningsstraat 236, 1210 Brussels, Belgium.
 
 ## What's on
 

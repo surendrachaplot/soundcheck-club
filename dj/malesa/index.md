@@ -1,13 +1,14 @@
 # Malesa
 
-Malesa is a Trance and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Malesa is a Trance and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Theatre de la Vie, Brussels on Sat, 7 Nov 2026.
 
-Malesa is a trance and dub artist based in France, with 7 gigs on soundcheck across Barcelona, Nantes and Paris. Often billed alongside Akira Yamagata, Andrae Durden and Autumns. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
+Malesa is a trance and dub artist based in France, with 8 gigs on soundcheck across Barcelona, Brussels, Nantes and Paris. Often billed alongside Akira Yamagata, Andrae Durden and Autumns. Next up: Theatre de la Vie, Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Theatre de la Vie | Brussels |
 | Sat, 21 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played

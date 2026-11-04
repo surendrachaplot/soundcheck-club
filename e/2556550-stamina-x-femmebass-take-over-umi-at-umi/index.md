@@ -1,6 +1,6 @@
 # STAMINA x FEMMEBASS take over UMI at UMI
 
-STAMINA x FEMMEBASS take over UMI on Fri 6 Nov, Brussels. 6 artists: DECONOFF, INDY.B, NAD!NE and Preciado and 2 more. Techno and Tech House. See the line-up on soundcheck.
+STAMINA x FEMMEBASS take over UMI on Fri 6 Nov, Brussels. 7 artists: DECONOFF, INDY.B, NAD!NE and Preciado and 3 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ STAMINA x FEMMEBASS take over UMI on Fri 6 Nov, Brussels. 6 artists: DECONOFF, I
 - INDY.B
 - NAD!NE
 - Preciado
+- Scrambled Greg
 - WHYDANCING
 - Σalamandra
 

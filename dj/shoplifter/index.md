@@ -1,14 +1,15 @@
 # Shoplifter
 
-Shoplifter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Botanique, Brussels on Sat, 7 Nov 2026.
+Shoplifter is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Botanique, Brussels on Sat, 7 Nov 2026.
 
-Shoplifter is a techno and house artist based in Belgium, with 66 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside DC Noises, Casper and KŌMA. Next up: Botanique, Brussels on Sat 7 Nov.
+Shoplifter is a techno and house artist based in Belgium, with 67 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 7 more. Often billed alongside DC Noises, KŌMA and Casper. Next up: Botanique, Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Botanique | Brussels |
+| Fri, 1 Jan 2027 | C12 | Brussels |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -24,6 +25,6 @@ Shoplifter is a techno and house artist based in Belgium, with 66 gigs on soundc
 
 ## Shares bills with
 
-DC Noises, Casper, KŌMA (3)
+DC Noises, KŌMA (3), Casper
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoplifter/)*

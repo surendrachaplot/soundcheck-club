@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 23 Dec, Berlin. 2 artists: Blck-Swan and el Capitan. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 23 Dec, Berlin. 3 artists: Blck-Swan, el Capitan and Samo Rane. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ TECHNO MITTWOCH at Sensorium on Wed 23 Dec, Berlin. 2 artists: Blck-Swan and el 
 
 - Blck-Swan
 - el Capitan
+- Samo Rane
 
 *Source: [soundcheck](https://soundcheck.club/e/2518140-techno-mittwoch-at-sensorium/)*

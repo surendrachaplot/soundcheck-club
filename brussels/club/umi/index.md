@@ -8,7 +8,7 @@ UMI is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | STAMINA x FEMMEBASS take over UMI | DECONOFF, INDY.B, NAD!NE, Preciado, WHYDANCING, Σalamandra |
+| Fri, 6 Nov 2026 | STAMINA x FEMMEBASS take over UMI | DECONOFF, INDY.B, NAD!NE, Preciado, Scrambled Greg, WHYDANCING, Σalamandra |
 | Sat, 7 Nov 2026 | BLUR with Sedef Adasï, Dyed Soundorom, Ava Eva, Poppy | Ava Eva, Dyed Soundorom, Poppy (BE), Sedef Adasï |
 | Fri, 13 Nov 2026 | CAVE invites Kluster - Stranger Sounds (A little party never killed nobody) | Dave Urania, Thomas M |
 | Sat, 14 Nov 2026 | BLUR with Sanctus Libido, Andy Martin, RIGO, Bobbi Watson, Ina Kaysen | Andy Martin, Bobbi Watson, Ina Kaysen, RIGO, Sanctus Libido |

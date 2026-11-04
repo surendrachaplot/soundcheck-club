@@ -1,17 +1,19 @@
 # Madame Moustache
 
-Madame Moustache is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Sociological Baile x Ponto Cego" on Fri, 30 Oct 2026.
+Madame Moustache is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "dancefloor radiomix" on Thu, 5 Nov 2026.
 
-Madame Moustache is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including DJ BEA, FILAIPE and Joliiah. See dates, start times and who's playing. Quai au Bois à Brûler 5-7, 1000 Bruxelles.
+Madame Moustache is a music venue in Brussels listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Quai au Bois à Brûler 5-7, 1000 Bruxelles.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Sociological Baile x Ponto Cego | DJ BEA, FILAIPE, Joliiah |
+| Thu, 5 Nov 2026 | dancefloor radiomix |  |
+| Fri, 6 Nov 2026 | WE ARE DANCEHALL |  |
+| Fri, 13 Nov 2026 | One More Time |  |
 
 ## Address
 
 Quai au Bois à Brûler 5-7, 1000 Bruxelles, Brussels
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/madame-moustache/)*
+*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/madame-moustache/)*

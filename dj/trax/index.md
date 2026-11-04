@@ -2,7 +2,7 @@
 
 TRAX is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Haus73, Hamburg on Fri, 27 Nov 2026.
 
-TRAX is a house and acid artist, with 6 gigs on soundcheck across Hamburg, Los Angeles and Madrid. Often billed alongside Desert Hearts, Dirtybird and Faze Action. Next up: Haus73, Hamburg on Fri 27 Nov.
+TRAX is a house and acid artist based in Spain, with 6 gigs on soundcheck across Hamburg, Los Angeles and Madrid. Often billed alongside Desert Hearts, Dirtybird and Faze Action. Next up: Haus73, Hamburg on Fri 27 Nov.
 
 ## Upcoming shows
 

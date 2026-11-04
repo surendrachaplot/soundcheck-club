@@ -1,8 +1,8 @@
-# TBA - Secret Warehouse
+# TBA - SECRET WAREHOUSE
 
-TBA - Secret Warehouse is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Repeat Behavior: Kevin Aviance (DJ set), kraftwitch, ALoSo, Troubled Youth b2b Stas Thee Boss" on Fri, 6 Nov 2026.
+TBA - SECRET WAREHOUSE is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Repeat Behavior: Kevin Aviance (DJ set), kraftwitch, ALoSo, Troubled Youth b2b Stas Thee Boss" on Fri, 6 Nov 2026.
 
-TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including ALoSo, Elyas, Esterne Moog and Gianmarco Silvetti and 2 more. See dates, start times and who's playing.
+TBA - SECRET WAREHOUSE is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including ALoSo, Elyas, Esterne Moog and Gianmarco Silvetti and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

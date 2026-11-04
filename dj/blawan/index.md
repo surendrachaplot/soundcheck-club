@@ -1,14 +1,14 @@
 # Blawan
 
-Blawan is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Uber Eats Music Hall, Berlin on Thu, 12 Nov 2026.
+Blawan is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Huxley's Neue Welt, Berlin on Thu, 12 Nov 2026.
 
-Blawan is a techno and house artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Helena Hauff, JakoJako and Overmono. Next up: Uber Eats Music Hall, Berlin on Thu 12 Nov.
+Blawan is a techno and house artist based in United Kingdom, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Helena Hauff, JakoJako and Overmono. Next up: Huxley's Neue Welt, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Uber Eats Music Hall | Berlin |
+| Thu, 12 Nov 2026 | Huxley's Neue Welt | Berlin |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Fri, 27 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 11 Dec 2026 | Gate Milano | Milan |

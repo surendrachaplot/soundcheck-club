@@ -1,13 +1,14 @@
 # HunnyBunny
 
-HunnyBunny is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mister Zhangs, Cleveland on Fri, 20 Nov 2026.
+HunnyBunny is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Danger Danger, New York City on Sat, 7 Nov 2026.
 
-HunnyBunny is a house and disco artist based in United States of America, with 37 gigs on soundcheck across Cleveland and New York City. Often billed alongside Blvck Truffle, Tim Lucent and Bendito. Next up: Mister Zhangs, Cleveland on Fri 20 Nov.
+HunnyBunny is a house and disco artist based in United States of America, with 38 gigs on soundcheck across Cleveland and New York City. Often billed alongside Blvck Truffle, Tim Lucent and Timo Lee. Next up: Danger Danger, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Danger Danger | New York City |
 | Fri, 20 Nov 2026 | Mister Zhangs | Cleveland |
 | Sun, 22 Nov 2026 | Good Room | New York City |
 
@@ -24,6 +25,6 @@ HunnyBunny is a house and disco artist based in United States of America, with 3
 
 ## Shares bills with
 
-Blvck Truffle, Tim Lucent, Bendito
+Blvck Truffle, Tim Lucent, Timo Lee
 
 *Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnybunny/)*

@@ -16,7 +16,7 @@ Ritter Butzke is a music venue in Berlin listed on soundcheck. 24 upcoming gigs,
 | Fri, 20 Nov 2026 | Mollono.Bass | LEENI, Mollono.Bass, vom Feisten |
 | Sat, 21 Nov 2026 | Klangkarussell pres. Bias Beach | Klangkarussell |
 | Sat, 21 Nov 2026 | Alan Fitzpatrick | Alan Fitzpatrick, NÚRIA (DE), Techmo |
-| Fri, 27 Nov 2026 | Soupherb vs psYsq | Anaïs-Lin, Ash Roy, Cosmik Konnection, Folic State, Krumelur, Surreal (DE), TheMuffinMan |
+| Fri, 27 Nov 2026 | Soupherb vs psYsq | Anaïs-Lin, Ash Roy, Cosmik Konnection, Folic State, Krumelur, Surreal (DE), The Muffin Man |
 | Sat, 28 Nov 2026 | Lexy & K-Paul (live) | Lexy & K-Paul, Matchy |
 
 ## Address

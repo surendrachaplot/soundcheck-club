@@ -1,6 +1,6 @@
-# Jungle invites Wax4breakfast with Loa Szala at Soap House - Ex Saponerie Mira Lanza
+# Jungle invites WAX4BREAKFAST with Loa Szala at Soap House - Ex Saponerie Mira Lanza
 
-Jungle invites Wax4breakfast with Loa Szala at Soap House - Ex Saponerie Mira Lanza on Sat 21 Nov, Rome. 4 artists: Loa Szala, Mordak, Nadir and Rond. Techno and House. See the line-up on soundcheck.
+Jungle invites WAX4BREAKFAST with Loa Szala at Soap House - Ex Saponerie Mira Lanza on Sat 21 Nov, Rome. 4 artists: Loa Szala, Mordak, Nadir and Rond. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

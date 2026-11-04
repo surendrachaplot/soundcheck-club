@@ -1,8 +1,8 @@
 # Maemm
 
-Maemm is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
+Maemm is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Magasins Généraux, Paris on Fri, 20 Nov 2026.
 
-Maemm is a techno and trance artist based in France, with 95 gigs on soundcheck across Berlin, Bordeaux, East and Edinburgh and 9 more. Often billed alongside Aérienne, GiGi FM and Atomic moog. Next up: Magasins Généraux, Paris on Fri 20 Nov.
+Maemm is a techno and trance artist based in France, with 96 gigs on soundcheck across Berlin, Bordeaux, Brussels and East and 10 more. Often billed alongside Aérienne, GiGi FM and Atomic moog. Next up: Magasins Généraux, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maemm is a techno and trance artist based in France, with 95 gigs on soundcheck 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Magasins Généraux | Paris |
 | Sat, 21 Nov 2026 | Magasins Généraux | Paris |
+| Fri, 1 Jan 2027 | C12 | Brussels |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Minor Forms
 
-Minor Forms is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at fabric, London on Sat, 14 Nov 2026.
+Minor Forms is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Lucia, Vienna on Sat, 7 Nov 2026.
 
-Minor Forms is a drum & bass and jungle artist based in United Kingdom, with 21 gigs on soundcheck across Brighton, Bristol, London and Manchester and 1 more. Often billed alongside Kublai, MC Gusto and Sweetpea. Next up: fabric, London on Sat 14 Nov.
+Minor Forms is a drum & bass and jungle artist based in United Kingdom, with 22 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Kublai, MC Gusto and Sweetpea. Next up: Club Lucia, Vienna on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Club Lucia | Vienna |
 | Sat, 14 Nov 2026 | fabric | London |
 
 ## Recently played

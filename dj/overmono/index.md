@@ -1,14 +1,14 @@
 # Overmono
 
-Overmono is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Uber Eats Music Hall, Berlin on Thu, 12 Nov 2026.
+Overmono is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Huxley's Neue Welt, Berlin on Thu, 12 Nov 2026.
 
-Overmono is a techno and house artist based in United Kingdom, with 112 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 48 more. Often billed alongside KI/KI, Nia Archives and Ewan McVicar. Next up: Uber Eats Music Hall, Berlin on Thu 12 Nov.
+Overmono is a techno and house artist based in United Kingdom, with 112 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 48 more. Often billed alongside KI/KI, Nia Archives and Ewan McVicar. Next up: Huxley's Neue Welt, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | Uber Eats Music Hall | Berlin |
+| Thu, 12 Nov 2026 | Huxley's Neue Welt | Berlin |
 | Thu, 26 Nov 2026 | Poolen | Copenhagen |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Fri, 27 Nov 2026 | Nitsa Club | Barcelona |

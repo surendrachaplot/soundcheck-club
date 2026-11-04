@@ -1,14 +1,15 @@
 # STDJ
 
-STDJ is a Techno and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
+STDJ is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
 
-STDJ is a techno and dub artist based in Belgium, with 48 gigs on soundcheck across Antwerp, Brussels, Ghent and London and 2 more. Often billed alongside EliseThere, Nefeli and DJ Rino. Next up: La Source Beer Co, Brussels on Fri 13 Nov.
+STDJ is a techno and dub artist based in Belgium, with 49 gigs on soundcheck across Antwerp, Brussels, Ghent and London and 2 more. Often billed alongside EliseThere, Nefeli and DJ Rino. Next up: La Source Beer Co, Brussels on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | La Source Beer Co | Brussels |
+| Fri, 1 Jan 2027 | C12 | Brussels |
 
 ## Recently played
 

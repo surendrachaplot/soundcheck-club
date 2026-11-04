@@ -1,6 +1,6 @@
 # Halcyon Veil LIVE: SCRAAATCH Embaci STEMLINES Doula Havoc On World at Nightclub 101
 
-Halcyon Veil LIVE: SCRAAATCH Embaci STEMLINES Doula Havoc On World at Nightclub 101 on Wed 4 Nov, New York City. 4 artists: Doula, Embaci, SCRAAATCH and STEMLINES. Experimental and Electronica. See the line-up on soundcheck.
+Halcyon Veil LIVE: SCRAAATCH Embaci STEMLINES Doula Havoc On World at Nightclub 101 on Wed 4 Nov, New York City. 4 artists: Doula, Embaci, SCRAAATCH and STEMLINES. Experimental and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

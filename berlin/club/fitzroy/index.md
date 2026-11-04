@@ -1,8 +1,8 @@
 # Fitzroy
 
-Fitzroy is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "TANGA X Toyz" on Sat, 7 Nov 2026.
+Fitzroy is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "TANGA X Toyz" on Sat, 7 Nov 2026.
 
-Fitzroy is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 131bpm, ALP (DE), Atavi and Ben Sleia and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
+Fitzroy is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including 131bpm, ALP (DE), Atavi and Ben Sleia and 2 more. See dates, start times and who's playing. Holzmarktstraße 15, 10179 Berlin, Germany.
 
 ## What's on
 
