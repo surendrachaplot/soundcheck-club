@@ -1,8 +1,8 @@
 # JAVS
 
-JAVS is a R&B and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Metepec, Estado-de-m-xico on Sat, 7 Nov 2026.
+JAVS is a R&B and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Metepec, Estado-de-m-xico on Sat, 7 Nov 2026.
 
-JAVS is a r&b and hip-hop artist based in Mexico, with 24 gigs on soundcheck across Estado De M Xico, Madrid, Mallorca and Mexico City. Often billed alongside EM2K, Garo and Ronaldo. Next up: TBA - Metepec, Estado De M Xico on Sat 7 Nov.
+JAVS is a r&b and hip-hop artist based in Mexico, with 25 gigs on soundcheck across Estado De M Xico, Madrid, Mallorca and Mexico City. Often billed alongside EM2K, Garo and Ronaldo. Next up: TBA - Metepec, Estado De M Xico on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ JAVS is a r&b and hip-hop artist based in Mexico, with 24 gigs on soundcheck acr
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - Metepec | Estado-de-m-xico |
 | Sat, 7 Nov 2026 | TBA - Metepec | Estado-de-m-xico |
+| Sun, 8 Nov 2026 | Casa Amante Club | Madrid |
 
 ## Recently played
 

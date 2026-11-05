@@ -1,14 +1,15 @@
 # .g (TH)
 
-.g (TH) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Dual, Bangkok on Sat, 14 Nov 2026.
+.g (TH) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Dual, Bangkok on Sat, 14 Nov 2026.
 
-.g (TH) is a house and techno artist based in Thailand, with 38 gigs on soundcheck across Bangkok. Often billed alongside DMT Disco, Gishiyama and IYY (TH). Next up: Dual, Bangkok on Sat 14 Nov.
+.g (TH) is a house and techno artist based in Thailand, with 39 gigs on soundcheck across Bangkok. Often billed alongside DMT Disco, Genji and Gishiyama. Next up: Dual, Bangkok on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Dual | Bangkok |
+| Sat, 28 Nov 2026 | Speakerbox | Bangkok |
 | Fri, 11 Dec 2026 | TBA - bamboo.base.camping, Nakhon Nayok | Bangkok |
 
 ## Recently played
@@ -24,6 +25,6 @@
 
 ## Shares bills with
 
-DMT Disco, Gishiyama, IYY (TH)
+DMT Disco, Genji, Gishiyama
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.gth/)*

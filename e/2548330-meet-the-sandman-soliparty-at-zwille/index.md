@@ -1,6 +1,6 @@
 # meet the sandman / SOLIPARTY at Zwille
 
-meet the sandman / SOLIPARTY at Zwille on Fri 20 Nov, Berlin. 1 artist: Bugazza Boy. Trance and Techno. See the line-up on soundcheck.
+meet the sandman / SOLIPARTY at Zwille on Fri 20 Nov, Berlin. 1 artist: Bugazza Boy. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

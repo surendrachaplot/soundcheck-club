@@ -9,7 +9,7 @@ Jane Decks is a house and techno artist based in Australia, with 40 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
-| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
+| Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
 
 ## Recently played
 

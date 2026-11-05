@@ -1,13 +1,14 @@
 # PLK
 
-PLK is a Pop and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
+PLK is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Casa del lago UNAM, Mexico City on Fri, 20 Nov 2026.
 
-PLK is a pop and bass artist based in Poland, with 8 gigs on soundcheck across Berlin, Brussels, Krakow and Warsaw. Often billed alongside KAROLINDA, Angerfist and DiV4. Next up: Brussels Expo, Brussels on Wed 30 Dec.
+PLK is an experimental and pop artist based in Poland, with 9 gigs on soundcheck across Berlin, Brussels, Krakow and Mexico City and 1 more. Often billed alongside KAROLINDA, Angerfist and DiV4. Next up: Casa del lago UNAM, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Casa del lago UNAM | Mexico City |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played

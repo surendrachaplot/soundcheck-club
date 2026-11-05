@@ -13,7 +13,7 @@ Call Super is a house and techno artist based in United Kingdom, with 240 gigs o
 | Fri, 20 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 21 Nov 2026 | Open Ground | Wuppertal |
 | Sat, 5 Dec 2026 | FOLD | London |
-| Sun, 6 Dec 2026 | TBA - Secret Location (Madrid) | Madrid |
+| Sun, 6 Dec 2026 | LAB theCLUB | Madrid |
 | Fri, 11 Dec 2026 | Kauz | Zurich |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |

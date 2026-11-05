@@ -1,14 +1,15 @@
 # Oliverio Segura
 
-Oliverio Segura is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Mexico-city on Sat, 21 Nov 2026.
+Oliverio Segura is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Mexico-city on Sat, 21 Nov 2026.
 
-Oliverio Segura is a house and techno artist based in Argentina, with 25 gigs on soundcheck across Barcelona, Berlin, Mexico City and New York City. Often billed alongside Bastard Love, Mejia and Alo. Next up: TBA, Mexico City on Sat 21 Nov.
+Oliverio Segura is a house and techno artist based in Argentina, with 26 gigs on soundcheck across Barcelona, Berlin, Mexico City and New York City. Often billed alongside Bastard Love, Mejia and Itza Chacón. Next up: TBA, Mexico City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA | Mexico-city |
+| Sat, 21 Nov 2026 | TBA - Recibe la ubicación con la compra de tu ticket | Mexico City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Oliverio Segura is a house and techno artist based in Argentina, with 25 gigs on
 
 ## Shares bills with
 
-Bastard Love, Mejia, Alo
+Bastard Love, Mejia, Itza Chacón
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oliveriosegura/)*

@@ -1,8 +1,8 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Eiger Studios, Leeds on Fri, 6 Nov 2026.
+Simon Scott is a Downtempo and Ambient artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Eiger Studios, Leeds on Fri, 6 Nov 2026.
 
-Simon Scott is a downtempo and ambient artist based in United Kingdom, with 128 gigs on soundcheck across Belgrade, Brighton, Glasgow and Leeds and 3 more. Often billed alongside Mike BC, Cosmikuro and Iration Steppas. Next up: Eiger Studios, Leeds on Fri 6 Nov.
+Simon Scott is a downtempo and ambient artist based in United Kingdom, with 129 gigs on soundcheck across Belgrade, Brighton, Glasgow and Leeds and 3 more. Often billed alongside Mike BC, Cosmikuro and Iration Steppas. Next up: Eiger Studios, Leeds on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, with 128 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Eiger Studios | Leeds |
 | Sat, 7 Nov 2026 | Holding Patterns | Leeds |
+| Sun, 15 Nov 2026 | Outlaws Yacht Club | Leeds |
 | Sun, 6 Dec 2026 | Outlaws Yacht Club | Leeds |
 
 ## Recently played

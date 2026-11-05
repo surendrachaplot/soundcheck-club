@@ -1,6 +1,6 @@
 # Dream Rotation Vol.2 at Distillery
 
-Dream Rotation Vol.2 at Distillery on Fri 6 Nov, Leipzig. 4 artists: DJ Annita, Kontingency, Lola Brennt and smooksy. Drum & Bass and Bass. See the line-up on soundcheck.
+Dream Rotation Vol.2 at Distillery on Fri 6 Nov, Leipzig. 4 artists: DJ Annita, El-P, Kontingency and smooksy. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,8 +11,8 @@ Dream Rotation Vol.2 at Distillery on Fri 6 Nov, Leipzig. 4 artists: DJ Annita, 
 ## Line-up
 
 - DJ Annita
+- El-P
 - Kontingency
-- Lola Brennt
 - smooksy
 
 *Source: [soundcheck](https://soundcheck.club/e/2572122-dream-rotation-vol-2-at-distillery/)*

@@ -12,7 +12,7 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs,
 | Sat, 7 Nov 2026 | RAZZCLUBS: Shanti Celeste + NIKS - Powered By Greenlight Sound System | Arnic, DJ MELL G, Dsprfcto, Hi-Ki, Jhort, NIKS, Nadia Struiwigh, Olor Acre, Pelacha, Shanti Celeste, WLDV |
 | Fri, 13 Nov 2026 | SPORTS |  |
 | Fri, 13 Nov 2026 | RAZZCLUBS: Mainline Club: Maruwa + Cecilio G + Trance NXC: TOXE live | DJ2D2, JUMER, John Heaven, Marcelo Pantani, Maruwa, Nile Fee, PethbUri, Rattlesnakke, TOXE, Word of Command, gitano del futuro |
-| Fri, 13 Nov 2026 | TRANCE NXC: TOXE (live) + Word of Command + JUMER | JUMER, TOXE, Word of Command |
+| Fri, 13 Nov 2026 | Trance NXC: TOXE (live) + Word of Command + JUMER | JUMER, TOXE, Word of Command |
 | Sat, 14 Nov 2026 | RAZZCLUBS: KEVIN KOFII + Tommy Four Seven + DHÆÜR + Beau Wanzer Live | Beau Wanzer, C.ru.z, DHÆÜR, Diego Armando, Gala (ES), KEVIN KOFII, Maxvll, Myrcene, Nila, Tommy Four Seven, azul |
 | Fri, 20 Nov 2026 | RAZZCLUBS: Jolani Jhones + Rico Rosa + LaBlackie + ᵀʰᵉ ᵀʷⁱⁿˢ live | Jolani Jhones, LaBlackie, Marta Mer |
 | Sat, 21 Nov 2026 | Pre-human x Refractor: Alohn, Andrae Durden, Convoluted Mental Mirror, Gaber, Malesa | Andrae Durden, Convoluted Mental Mirror, Malesa |

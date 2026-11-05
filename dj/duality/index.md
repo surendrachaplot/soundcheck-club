@@ -1,13 +1,14 @@
 # Duality
 
-Duality is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Boxing Club, Bristol on Fri, 13 Nov 2026.
+Duality is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Bangkok on Thu, 5 Nov 2026.
 
-Duality is a techno and house artist based in Philippines, with 67 gigs on soundcheck across Bangkok, Berlin, Bristol and Geneva and 10 more. Often billed alongside Versailles, SIGNAL (JP) and baby ikea. Next up: The Boxing Club, Bristol on Fri 13 Nov.
+Duality is a techno and house artist based in Philippines, with 68 gigs on soundcheck across Bangkok, Berlin, Bristol and Geneva and 10 more. Often billed alongside Versailles, SIGNAL (JP) and baby ikea. Next up: TBA, Bangkok on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | TBA | Bangkok |
 | Fri, 13 Nov 2026 | The Boxing Club | Bristol |
 | Sat, 14 Nov 2026 | Apotheka | Manila |
 

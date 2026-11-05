@@ -2,7 +2,7 @@
 
 KENSUKE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - CENTARAL3F, Chubu on Fri, 20 Nov 2026.
 
-KENSUKE is a techno and house artist, with 55 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside mieux (JP), Kensuke Fukushima and Gewnky. Next up: TBA - CENTARAL3F, Chubu on Fri 20 Nov.
+KENSUKE is a techno and house artist based in Japan, with 55 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside mieux (JP), Kensuke Fukushima and Gewnky. Next up: TBA - CENTARAL3F, Chubu on Fri 20 Nov.
 
 ## Upcoming shows
 

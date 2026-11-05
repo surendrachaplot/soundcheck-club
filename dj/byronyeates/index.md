@@ -1,8 +1,8 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
+Byron Yeates is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
 
-Byron Yeates is a house and techno artist, with 214 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 55 more. Often billed alongside THC, DHC and Angel D'lite. Next up: RADION, Amsterdam on Sat 7 Nov.
+Byron Yeates is a house and techno artist, with 215 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 55 more. Often billed alongside THC, DHC and Angel D'lite. Next up: RADION, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Byron Yeates is a house and techno artist, with 214 gigs on soundcheck across Am
 | Sat, 21 Nov 2026 | BRET | Amsterdam |
 | Fri, 27 Nov 2026 | KREUZWERK | Berlin |
 | Fri, 27 Nov 2026 | Tokonoma Club | Frankfurt |
+| Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 

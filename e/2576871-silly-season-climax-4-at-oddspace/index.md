@@ -1,6 +1,6 @@
 # Silly Season Climax 4 at Oddspace
 
-Silly Season Climax 4 at Oddspace on Fri 4 Dec, Helsinki. 2 artists: P o B and Upi. See the line-up on soundcheck.
+Silly Season Climax 4 at Oddspace on Fri 4 Dec, Helsinki. 2 artists: P o B and Upi. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

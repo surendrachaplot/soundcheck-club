@@ -1,8 +1,8 @@
 # Aba Shanti-I
 
-Aba Shanti-I is a Dub and Dancehall artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Aba Shanti-I is a Dub and Dub Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Aba Shanti-I is a dub and dancehall artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 15 more. Often billed alongside Tash LC, ojoo and Errol. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Aba Shanti-I is a dub and dub techno artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 15 more. Often billed alongside Tash LC, ojoo and Errol. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Aba Shanti-I is a dub and dancehall artist based in United Kingdom, with 49 gigs
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 6 Nov 2026 | EXIT Glasgow | Glasgow |
 | Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
+| Sat, 14 Nov 2026 | Sawmills | Bristol |
 
 ## Recently played
 

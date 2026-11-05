@@ -17,7 +17,7 @@ Dalston Den is a music venue in London listed on soundcheck. 14 upcoming gigs, w
 | Fri, 27 Nov 2026 | Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass |  |
 | Fri, 27 Nov 2026 | Sazzle + Friends: Cancer Fundraiser | Dusty Dan, Loris, Pochola, Sazzle, Smiff, Verushka |
 | Sat, 28 Nov 2026 | FunkYouUp - Danger In The Den |  |
-| Fri, 4 Dec 2026 | EYG x D2S: Amy Kisnorbo, CalvoMusic & Tah | Amy Kisnorbo, CalvoMusic, Carma, Tah (1) |
+| Fri, 4 Dec 2026 | EYG x D2S: Baltimore 2 Jersey 2 Dalston  | Amy Kisnorbo, CalvoMusic, Carma, Tah (1) |
 
 ## Address
 

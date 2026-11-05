@@ -1,13 +1,14 @@
 # alizé.e
 
-alizé.e is a Dub and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Giri, Berlin on Fri, 20 Nov 2026.
+alizé.e is a Dub and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at THF Radio / Torhaus, Berlin on Sat, 7 Nov 2026.
 
-alizé.e is a dub and electronica artist based in France, with 19 gigs on soundcheck across Berlin, Bologna and Brussels. Often billed alongside scdr, Andriy K. and Kat Never. Next up: Giri, Berlin on Fri 20 Nov.
+alizé.e is a dub and club artist based in France, with 20 gigs on soundcheck across Berlin, Bologna and Brussels. Often billed alongside scdr, Andriy K. and Kat Never. Next up: THF Radio / Torhaus, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | THF Radio / Torhaus | Berlin |
 | Fri, 20 Nov 2026 | Giri | Berlin |
 
 ## Recently played

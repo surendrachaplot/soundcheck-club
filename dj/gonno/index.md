@@ -1,8 +1,8 @@
 # Gonno
 
-Gonno is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mitsuki, Tokyo on Sat, 7 Nov 2026.
+Gonno is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mitsuki, Tokyo on Sat, 7 Nov 2026.
 
-Gonno is a house and techno artist based in Japan, with 151 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 29 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: Mitsuki, Tokyo on Sat 7 Nov.
+Gonno is a house and techno artist based in Japan, with 152 gigs on soundcheck across Bali, Bangkok, Beijing and Berlin and 29 more. Often billed alongside K.E.G, U-T and Satoshi Otsuki. Next up: Mitsuki, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Gonno is a house and techno artist based in Japan, with 151 gigs on soundcheck a
 | Fri, 13 Nov 2026 | R Lounge | Tokyo |
 | Sat, 14 Nov 2026 | PBOX STND | Tokyo |
 | Fri, 20 Nov 2026 | Pawnshop | Taipei |
+| Sat, 21 Nov 2026 | WWW X | Tokyo |
 
 ## Recently played
 

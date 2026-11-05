@@ -1,0 +1,14 @@
+# Insomnia Lounge
+
+Insomnia Lounge is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Ground Work at Insomnia" on Sat, 7 Nov 2026.
+
+Insomnia Lounge is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including SouthPawBrown. See dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Sat, 7 Nov 2026 | Ground Work at Insomnia | SouthPawBrown |
+| Sat, 12 Dec 2026 | Ground Work at Insomnia | SouthPawBrown |
+
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/insomnia-lounge/)*

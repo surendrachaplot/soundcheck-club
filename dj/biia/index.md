@@ -1,14 +1,15 @@
 # BIIA
 
-BIIA is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+BIIA is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
-BIIA is a techno and hardcore artist based in Portugal, with 170 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 69 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: Fabrik, Madrid on Sat 14 Nov.
+BIIA is a techno and hardcore artist based in Portugal, with 171 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 69 more. Often billed alongside Shlømo, Alignment and Basswell. Next up: Fabrik, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Sat, 21 Nov 2026 | Cieloterra | Rome |
 | Fri, 27 Nov 2026 | block. | Dublin |
 | Sat, 28 Nov 2026 | Studio Club Malaga | Malaga |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |

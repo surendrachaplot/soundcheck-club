@@ -9,7 +9,7 @@ ANNARA is a techno and house artist based in Brazil, with 18 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Giri | Berlin |
-| Fri, 20 Nov 2026 | TBA | Berlin |
+| Fri, 20 Nov 2026 | TBA - Secret Location NK | Berlin |
 
 ## Recently played
 

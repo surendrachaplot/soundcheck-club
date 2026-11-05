@@ -1,8 +1,8 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ketia curates (bday bash): day party " on Sun, 8 Nov 2026.
+CLUB RAUM is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ketia curates (bday bash): day party " on Sun, 8 Nov 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Abstract Division, Aldonna, A Strange Wedding and Beatrice M. and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including 36framez, Abstract Division, Aldonna and Amanda Mussi and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 

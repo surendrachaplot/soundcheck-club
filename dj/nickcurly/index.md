@@ -1,13 +1,14 @@
 # Nick Curly
 
-Nick Curly is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Port Beach Brewery, Perth on Sat, 5 Dec 2026.
+Nick Curly is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Weekend, Berlin on Sat, 21 Nov 2026.
 
-Nick Curly is a house and tech house artist based in Germany, with 125 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 46 more. Often billed alongside Easttown, Reboot and Sam Divine. Next up: Port Beach Brewery, Perth on Sat 5 Dec.
+Nick Curly is a house and tech house artist based in Germany, with 126 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 46 more. Often billed alongside Easttown, Reboot and Sam Divine. Next up: Weekend, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Weekend | Berlin |
 | Sat, 5 Dec 2026 | Port Beach Brewery | Perth |
 | Sun, 6 Dec 2026 | Felons Barrel Hall | Brisbane |
 | Fri, 11 Dec 2026 | Northcote Theatre | Melbourne |

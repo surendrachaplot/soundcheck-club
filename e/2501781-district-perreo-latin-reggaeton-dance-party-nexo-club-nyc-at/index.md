@@ -1,6 +1,6 @@
 # DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC at Nexo
 
-DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC on Sat 5 Dec, New York City. See the line-up on soundcheck.
+DISTRICT PERREO - Latin & Reggaeton Dance Party - Nexo CLUB NYC on Sat 5 Dec, New York City. Hip-Hop and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

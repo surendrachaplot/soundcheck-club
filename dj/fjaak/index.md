@@ -1,8 +1,8 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fuchs2, Prague on Fri, 6 Nov 2026.
+FJAAK is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fuchs2, Prague on Fri, 6 Nov 2026.
 
-FJAAK is a techno and house artist based in Germany, with 300 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 90 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Fuchs2, Prague on Fri 6 Nov.
+FJAAK is a techno and house artist based in Germany, with 301 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 90 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Fuchs2, Prague on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ FJAAK is a techno and house artist based in Germany, with 300 gigs on soundcheck
 | Sat, 7 Nov 2026 | Jasna 1 | Warsaw |
 | Thu, 12 Nov 2026 | TRANSMISSION DC | Washington DC |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
+| Fri, 13 Nov 2026 | Underground Atlanta | Atlanta |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
@@ -19,7 +20,6 @@ FJAAK is a techno and house artist based in Germany, with 300 gigs on soundcheck
 | Sat, 28 Nov 2026 | Warehouse ZRH | Zurich |
 | Fri, 4 Dec 2026 | Razzmatazz | Barcelona |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
-| Fri, 11 Dec 2026 | WDM | Hannover |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Pino Henrique Pedra
 
-Pino Henrique Pedra is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 7 Nov 2026.
+Pino Henrique Pedra is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri, 6 Nov 2026.
 
-Pino Henrique Pedra is a house and balearic artist based in Brazil, with 46 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Martha Pinel. Next up: Edifício Martinelli, Sao Paulo on Sat 7 Nov.
+Pino Henrique Pedra is a house and balearic artist based in Brazil, with 47 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Martha Pinel. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Mauacba Skate Coffee & Skate Shop | Rio de Janeiro |
 | Sat, 7 Nov 2026 | Edifício Martinelli | Sao Paulo |
 
 ## Recently played

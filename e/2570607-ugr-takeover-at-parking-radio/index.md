@@ -1,6 +1,6 @@
-# UGR Takeover at Parking.Radio
+# UGR TAKEOVER at Parking.Radio
 
-UGR Takeover at Parking.Radio on Sat 7 Nov, Quebec City. See the line-up on soundcheck.
+UGR TAKEOVER at Parking.Radio on Sat 7 Nov, Quebec City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

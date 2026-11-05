@@ -1,8 +1,8 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "B3K INVITES NY" on Fri, 6 Nov 2026.
+Knockdown Center is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "B3K INVITES NY" on Fri, 6 Nov 2026.
 
-Knockdown Center is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Anish Kumar, Aumnï, Bonobo and Bridge (NY) and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Ammo Avenue, Anish Kumar, Aumnï and Bonobo and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
@@ -13,6 +13,7 @@ Knockdown Center is a music venue in New York City listed on soundcheck. 9 upcom
 | Sat, 14 Nov 2026 | DAX J (Open to Close) | DAX J |
 | Sat, 28 Nov 2026 | MPH – NEW YORK, FOREVER with Honey Bun & Home Room | Honey Bun, MPH (1) |
 | Sat, 5 Dec 2026 | Bonobo (DJ Set) | Anish Kumar, Bonobo |
+| Sat, 23 Jan 2027 | Fatboy Slim, DJ Holographic, Ammo Avenue | Ammo Avenue, DJ Holographic, Fatboy Slim |
 | Fri, 29 Jan 2027 | AKUMANDRA: Colyn b2b Sainte Vie, Mateo, Eli | Colyn, Eli (US), Mateo (US), Sainte Vie |
 | Sat, 30 Jan 2027 | OMAR | Omar+ |
 | Fri, 5 Feb 2027 | Zack Fox, DJ Delish, Venom Rei | DJ Delish, Zack Fox |

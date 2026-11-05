@@ -1,14 +1,15 @@
 # Scott Tillett
 
-Scott Tillett is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Silverlake Overpass, Los Angeles on Sat, 7 Nov 2026.
+Scott Tillett is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Silverlake Overpass, Los Angeles on Sat, 7 Nov 2026.
 
-Scott Tillett is a house and acid artist based in United States of America, with 20 gigs on soundcheck across Los Angeles. Often billed alongside SCOTT K., Desert Hearts and Dirtybird. Next up: TBA - Silverlake Overpass, Los Angeles on Sat 7 Nov.
+Scott Tillett is a house and acid artist based in United States of America, with 21 gigs on soundcheck across Los Angeles. Often billed alongside SCOTT K., Desert Hearts and Dirtybird. Next up: TBA - Silverlake Overpass, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - Silverlake Overpass | Los Angeles |
+| Sat, 12 Dec 2026 | TBA | Los Angeles |
 
 ## Recently played
 

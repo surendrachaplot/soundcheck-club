@@ -11,7 +11,7 @@ Prozak (IRL) is a garage and bass artist based in Ireland, with 138 gigs on soun
 | Fri, 27 Nov 2026 | Yamamori Tengu | Dublin |
 | Fri, 4 Dec 2026 | Distrikt | Leeds |
 | Fri, 11 Dec 2026 | The Clock Factory | Bristol |
-| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
+| Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
 | Sat, 30 Jan 2027 | Night Tales | London |
 
 ## Recently played

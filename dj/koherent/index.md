@@ -1,13 +1,14 @@
 # Koherent
 
-Koherent is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Rolling Stock, London on Sat, 5 Dec 2026.
+Koherent is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Electric Bristol, Bristol on Fri, 20 Nov 2026.
 
-Koherent is a drum & bass and jungle artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Basel and 13 more. Often billed alongside Monrroe, Murcor and Purrppl. Next up: Rolling Stock, London on Sat 5 Dec.
+Koherent is a drum & bass and jungle artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Basel and 13 more. Often billed alongside Monrroe, Murcor and Purrppl. Next up: Electric Bristol, Bristol on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Electric Bristol | Bristol |
 | Sat, 5 Dec 2026 | Rolling Stock | London |
 
 ## Recently played

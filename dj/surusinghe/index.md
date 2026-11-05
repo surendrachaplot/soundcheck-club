@@ -10,7 +10,7 @@ Surusinghe is a techno and bass artist based in United Kingdom, with 157 gigs on
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Thu, 31 Dec 2026 | Sidney Myer Music Bowl | Melbourne |
-| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
+| Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Anastasia Rydlevskaya PANDAWOMAN closing event at Panda Kulturplattform
 
-Anastasia Rydlevskaya PANDAWOMAN closing event at Panda Kulturplattform on Sat 28 Nov, Berlin. 1 artist: Anastasia Rydlevskaya. See the line-up on soundcheck.
+Anastasia Rydlevskaya PANDAWOMAN closing event at Panda Kulturplattform on Sat 28 Nov, Berlin. 1 artist: Anastasia Rydlevskaya. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

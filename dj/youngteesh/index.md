@@ -1,13 +1,14 @@
 # Young Teesh
 
-Young Teesh is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Igloofest, Montreal on Fri, 22 Jan 2027.
+Young Teesh is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cafeteria, Toronto on Fri, 20 Nov 2026.
 
-Young Teesh is a club and techno artist based in Canada, with 115 gigs on soundcheck across Berlin, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Nino Brown, HVN and Chippy Nonstop. Next up: Igloofest, Montreal on Fri 22 Jan.
+Young Teesh is a club and techno artist based in Canada, with 116 gigs on soundcheck across Berlin, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Nino Brown, HVN and Chippy Nonstop. Next up: Cafeteria, Toronto on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Cafeteria | Toronto |
 | Fri, 22 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played

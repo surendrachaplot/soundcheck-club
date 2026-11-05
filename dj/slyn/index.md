@@ -1,14 +1,15 @@
 # slyn
 
-slyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 21 Nov 2026.
+slyn is a Experimental and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 21 Nov 2026.
 
-slyn is a house and techno artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Berlin, Bologna and Glasgow and 3 more. Often billed alongside JayJay, Noise Hz and Slowfoam. Next up: La Cheetah Club, Glasgow on Sat 21 Nov.
+slyn is an experimental and house artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Berlin, Bologna and Edinburgh and 4 more. Often billed alongside JayJay, Noise Hz and Slowfoam. Next up: La Cheetah Club, Glasgow on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | La Cheetah Club | Glasgow |
+| Sat, 5 Dec 2026 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 

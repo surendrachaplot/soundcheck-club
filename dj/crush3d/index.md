@@ -1,13 +1,14 @@
 # CRUSH3d
 
-CRUSH3d is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Radius, Chicago on Sat, 28 Nov 2026.
+CRUSH3d is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 27 Nov 2026.
 
-CRUSH3d is a techno and club artist based in Australia, with 51 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Basel and 23 more. Often billed alongside Skin On Skin, DJ Heartstring and SWIM (AU). Next up: Radius, Chicago on Sat 28 Nov.
+CRUSH3d is a techno and club artist based in Australia, with 52 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Basel and 24 more. Often billed alongside Skin On Skin, DJ Heartstring and SWIM (AU). Next up: TBA - DTLA, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | TBA - DTLA | Los Angeles |
 | Sat, 28 Nov 2026 | Radius | Chicago |
 
 ## Recently played

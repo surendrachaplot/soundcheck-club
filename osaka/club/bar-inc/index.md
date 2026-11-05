@@ -11,7 +11,7 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 25 upcoming gigs, with l
 | Thu, 5 Nov 2026 | WEEKDAY ORDERS | Double Dancer, Kaito Ksi, TETSUO (2) |
 | Fri, 6 Nov 2026 | WEEKEND SELECTERS | Robbie Akbal, cazbow |
 | Sat, 7 Nov 2026 | WEEKEND SELECTERS -Darker Than Wax 15th Anniv.- | Daryl Knows, Dexter Colt, Marco Weibel |
-| Sun, 8 Nov 2026 | HOLIDAY ORDERS |  |
+| Sun, 8 Nov 2026 | HOLIDAY ORDERS | Junki Akutagawa |
 | Mon, 9 Nov 2026 | WEEKDAY ORDERS | MAX PELA |
 | Wed, 11 Nov 2026 | WEEKDAY ORDERS |  |
 | Thu, 12 Nov 2026 | WEEKDAY ORDERS | Ryu (JP) |

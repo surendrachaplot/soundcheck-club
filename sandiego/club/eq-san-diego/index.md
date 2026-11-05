@@ -10,7 +10,7 @@ EQ San Diego is a music venue in San Diego listed on soundcheck. 11 upcoming gig
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | The Techno Jungle | VAZA |
 | Fri, 6 Nov 2026 | LED presents DENNETT [IN THE ROUND] |  |
-| Thu, 12 Nov 2026 | REVERB: HARDGROOVE | Damian Kuro |
+| Thu, 12 Nov 2026 | REVERB: HARDGROOVE | Damian Kuro, PIERRE (3) |
 | Fri, 13 Nov 2026 | FNGRS CRSSD presents Dekmantel Soundsystem | Dekmantel Soundsystem, Max Web, Naone |
 | Tue, 17 Nov 2026 | LED presents RØZ [After Party] |  |
 | Thu, 19 Nov 2026 | REVERB x Los Perros | JAQ.XS |

@@ -11,7 +11,7 @@ Mia Koden is a bass and techno artist based in United Kingdom, with 162 gigs on 
 | Fri, 27 Nov 2026 | TRAUM | Antwerp |
 | Sun, 27 Dec 2026 | Port Beach Brewery | Perth |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
-| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
+| Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

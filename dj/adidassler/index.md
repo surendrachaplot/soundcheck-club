@@ -1,14 +1,15 @@
 # Adi Dassler
 
-Adi Dassler is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hive Club, Zurich on Sun, 15 Nov 2026.
+Adi Dassler is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hive Club, Zurich on Sun, 15 Nov 2026.
 
-Adi Dassler is a techno and tech house artist based in Germany, with 102 gigs on soundcheck across Baden W Rttemberg, Cologne, Frankfurt and Freiburg and 3 more. Often billed alongside Sid_Porwal, Tonino and Magia Mafia. Next up: Hive Club, Zurich on Sun 15 Nov.
+Adi Dassler is a techno and tech house artist based in Germany, with 103 gigs on soundcheck across Baden W Rttemberg, Cologne, Frankfurt and Freiburg and 3 more. Often billed alongside Sid_Porwal, Tonino and Magia Mafia. Next up: Hive Club, Zurich on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Hive Club | Zurich |
+| Thu, 19 Nov 2026 | Climax-Institutes | Stuttgart |
 | Sat, 5 Dec 2026 | Die Halle | Stuttgart |
 
 ## Recently played

@@ -2,7 +2,7 @@
 
 FREE JIMI is a Electro and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hole44, Berlin on Thu, 5 Nov 2026.
 
-FREE JIMI is an electro and pop artist based in Germany, with 17 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 3 more. Often billed alongside Geo22, Lucy Dye and Count Baldor. Next up: Hole44, Berlin on Thu 5 Nov.
+FREE JIMI is an electro and pop artist based in Germany, with 17 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Leipzig and 3 more. Often billed alongside Geo22, Luca Eck and Lucy Dye. Next up: Hole44, Berlin on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ FREE JIMI is an electro and pop artist based in Germany, with 17 gigs on soundch
 
 ## Shares bills with
 
-Geo22, Lucy Dye, Count Baldor
+Geo22, Luca Eck, Lucy Dye
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freejimi/)*

@@ -1,15 +1,17 @@
 # Tomas Station
 
-Tomas Station is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, New York City on Sat, 21 Nov 2026.
+Tomas Station is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Gramaphone Records, Chicago on Thu, 5 Nov 2026.
 
-Tomas Station is a house and techno artist based in Colombia, with 227 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 39 more. Often billed alongside O.BEE, Ricardo Villalobos and Jonny Rock. Next up: TBA - Secret Location, New York City on Sat 21 Nov.
+Tomas Station is a house and techno artist based in Colombia, with 229 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 39 more. Often billed alongside O.BEE, Ricardo Villalobos and Jonny Rock. Next up: Gramaphone Records, Chicago on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Gramaphone Records | Chicago |
 | Sat, 21 Nov 2026 | TBA - Secret Location | New York City |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
+| Sat, 5 Dec 2026 | H0L0 | New York City |
 | Sat, 12 Dec 2026 | fabric | London |
 | Thu, 31 Dec 2026 | TBA - Aguaverde Wine Lodge  | Uruguay |
 

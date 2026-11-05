@@ -1,14 +1,14 @@
 # Kike Mayor
 
-Kike Mayor is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Los Angeles on Sun, 8 Nov 2026.
+Kike Mayor is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Apotheke, Los Angeles on Sun, 8 Nov 2026.
 
-Kike Mayor is a house and minimal artist based in Peru, with 29 gigs on soundcheck across Chicago, Detroit, Los Angeles and Miami and 4 more. Often billed alongside Jessie Calistri, Enzo Muro and Glo Phase. Next up: TBA, Los Angeles on Sun 8 Nov.
+Kike Mayor is a house and minimal artist based in Peru, with 29 gigs on soundcheck across Chicago, Detroit, Los Angeles and Miami and 4 more. Often billed alongside Jessie Calistri, Enzo Muro and Glo Phase. Next up: Apotheke, Los Angeles on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | TBA | Los Angeles |
+| Sun, 8 Nov 2026 | Apotheke | Los Angeles |
 
 ## Recently played
 

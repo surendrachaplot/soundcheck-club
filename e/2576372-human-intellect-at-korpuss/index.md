@@ -1,6 +1,6 @@
 # HUMAN INTELLECT at Korpuss
 
-HUMAN INTELLECT at Korpuss on Sat 21 Nov, Riga. 1 artist: Existal. Techno. See the line-up on soundcheck.
+HUMAN INTELLECT at Korpuss on Sat 21 Nov, Riga. 2 artists: DEP (LV) and Existal. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HUMAN INTELLECT at Korpuss on Sat 21 Nov, Riga. 1 artist: Existal. Techno. See t
 
 ## Line-up
 
+- DEP (LV)
 - Existal
 
 *Source: [soundcheck](https://soundcheck.club/e/2576372-human-intellect-at-korpuss/)*

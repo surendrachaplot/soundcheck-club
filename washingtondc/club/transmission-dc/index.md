@@ -2,7 +2,7 @@
 
 TRANSMISSION DC is a music venue in Washington DC with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SUBSTRATE: Pariah" on Thu, 5 Nov 2026.
 
-TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 14 upcoming gigs, with line-ups including 6 SENSE, Bodegaparty, DAX J and D.Dan and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 14 upcoming gigs, with line-ups including 6 SENSE, Bodegaparty, Daniro and DAX J and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
@@ -17,7 +17,7 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 14 upcom
 | Sun, 15 Nov 2026 | Infinite Motion |  |
 | Thu, 19 Nov 2026 | SUBSTRATE: Jacq Jill | Jacq Jill |
 | Fri, 20 Nov 2026 | People's House: discostan | discostan |
-| Sat, 21 Nov 2026 | Club Ghetto Tech: Vol. 10 |  |
+| Sat, 21 Nov 2026 | Club Ghetto Tech: Vol. 10 | DJ KORIS, Daniro, Grabba Ranks |
 
 ## Address
 

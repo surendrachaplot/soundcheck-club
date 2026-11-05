@@ -9,7 +9,7 @@ Caucasian Opportunities is a techno and house artist based in Australia, with 65
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
-| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
+| Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Bassiani NYE 2027 at Bassiani
 
-Bassiani NYE 2027 on Thu 31 Dec, Tbilisi. 32 artists: .VRIL, 98dots, ATEQ and Ben Kaczor and 28 more. See the line-up on soundcheck.
+Bassiani NYE 2027 on Thu 31 Dec, Tbilisi. 33 artists: .VRIL, 98dots, ATEQ and Ben Kaczor and 29 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ Bassiani NYE 2027 on Thu 31 Dec, Tbilisi. 32 artists: .VRIL, 98dots, ATEQ and Be
 - Ben Kaczor
 - BMI (GE)
 - Claudio PRC
+- Cobert
 - Dito
 - DJ Dustin
 - dj sweet6teen

@@ -11,7 +11,7 @@ Theo Gramal is a techno and downtempo artist based in Germany, with 20 gigs on s
 | Fri, 13 Nov 2026 | Ilses Erika | Leipzig |
 | Sun, 15 Nov 2026 | ://about blank | Berlin |
 | Sun, 22 Nov 2026 | Beate Uwe | Berlin |
-| Fri, 22 Jan 2027 | Die Rakete | Nürnberg |
+| Fri, 29 Jan 2027 | Die Rakete | Nürnberg |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # EDS (ESP)
 
-EDS (ESP) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
+EDS (ESP) is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
 
-EDS (ESP) is a techno and electronica artist, with 8 gigs on soundcheck across Barcelona. Often billed alongside JMarga, KBTO and Koalaz. Next up: M7 Club, Barcelona on Thu 12 Nov.
+EDS (ESP) is an electronica and techno artist, with 9 gigs on soundcheck across Barcelona. Often billed alongside JMarga, KBTO and Koalaz. Next up: M7 Club, Barcelona on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | M7 Club | Barcelona |
+| Sun, 15 Nov 2026 | M7 Club | Barcelona |
 
 ## Recently played
 

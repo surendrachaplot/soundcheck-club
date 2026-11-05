@@ -1,6 +1,6 @@
 # Toy Tonics Jam at TBA - Sendlinger-tor-platz 11, 80336 München
 
-Toy Tonics Jam at TBA - Sendlinger-tor-platz 11, 80336 München on Fri 18 Dec, Munich. 1 artist: Kapote. House and Disco. See the line-up on soundcheck.
+Toy Tonics Jam at TBA - Sendlinger-tor-platz 11, 80336 München on Fri 18 Dec, Munich. 3 artists: A.tari, Julie Fleischer and Kapote. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Toy Tonics Jam at TBA - Sendlinger-tor-platz 11, 80336 München on Fri 18 Dec, M
 
 ## Line-up
 
+- A.tari
+- Julie Fleischer
 - Kapote
 
 *Source: [soundcheck](https://soundcheck.club/e/2567498-toy-tonics-jam-at-tba-sendlinger-tor-platz-11-80336-m-nchen/)*

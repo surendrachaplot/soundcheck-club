@@ -1,14 +1,14 @@
 # Prisma
 
-Prisma is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Sssmile Afterhour Flinta Special" on Thu, 5 Nov 2026.
+Prisma is a music venue in Berlin with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Day Rave Afterhour" on Sat, 7 Nov 2026.
 
-Prisma is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Benua, Carl Conrad, Charlotte Lion and D.Sociation and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
+Prisma is a music venue in Berlin listed on soundcheck. 14 upcoming gigs, with line-ups including Benua, Carl Conrad, D.Sociation and Domovnika and 2 more. See dates, start times and who's playing. Brückenstraße 1, 10179 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Sssmile Afterhour Flinta Special | Charlotte Lion, JUICYMOKA |
+| Sat, 7 Nov 2026 | Day Rave Afterhour |  |
 | Sun, 8 Nov 2026 | Klubkneipe x House Cats |  |
 | Sun, 8 Nov 2026 | NüSchT x Exilio | L.OST, NuAmo, SID MEHANI, The Shredder |
 | Tue, 10 Nov 2026 | Klubkneipe x Tuesday Ritual Vulva Workshop | OutWithJane, RÄK, Vantavision |

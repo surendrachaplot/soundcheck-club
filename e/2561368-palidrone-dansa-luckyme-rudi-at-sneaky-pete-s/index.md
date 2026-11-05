@@ -1,6 +1,6 @@
-# Palidrone: Dansa (LUCKYME) & Rudi at Sneaky Pete's
+# Palidrone: Dansa (LUCKYME) & rudi at Sneaky Pete's
 
-Palidrone: Dansa (LUCKYME) & Rudi at Sneaky Pete's on Fri 13 Nov, Edinburgh. 1 artist: Dansa. Techno and Bass. See the line-up on soundcheck.
+Palidrone: Dansa (LUCKYME) & rudi at Sneaky Pete's on Fri 13 Nov, Edinburgh. 1 artist: Dansa. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

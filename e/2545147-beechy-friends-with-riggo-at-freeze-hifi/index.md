@@ -1,6 +1,6 @@
 # BEECHY & FRIENDS with Riggo at Freeze HiFi
 
-BEECHY & FRIENDS with Riggo at Freeze HiFi on Thu 5 Nov, Liverpool. 1 artist: Beechy. Disco and Funk / Soul. See the line-up on soundcheck.
+BEECHY & FRIENDS with Riggo at Freeze HiFi on Thu 5 Nov, Liverpool. 2 artists: Beechy and Riggo. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ BEECHY & FRIENDS with Riggo at Freeze HiFi on Thu 5 Nov, Liverpool. 1 artist: Be
 ## Line-up
 
 - Beechy
+- Riggo
 
 *Source: [soundcheck](https://soundcheck.club/e/2545147-beechy-friends-with-riggo-at-freeze-hifi/)*

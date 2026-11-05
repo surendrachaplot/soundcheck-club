@@ -1,14 +1,15 @@
 # Isaiah (NL)
 
-Isaiah (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
+Isaiah (NL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
 
-Isaiah (NL) is a techno and house artist based in Netherlands, with 107 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Brussels and 27 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: RADION, Amsterdam on Sat 7 Nov.
+Isaiah (NL) is a techno and house artist based in Netherlands, with 108 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Brussels and 28 more. Often billed alongside Beau Didier, Flits and Lasse. Next up: RADION, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
+| Fri, 13 Nov 2026 | Palacete | Sao Paulo |
 
 ## Recently played
 

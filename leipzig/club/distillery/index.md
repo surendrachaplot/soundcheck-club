@@ -8,14 +8,14 @@ Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Dream Rotation Vol.2 | DJ Annita, Kontingency, Lola Brennt, smooksy |
+| Fri, 6 Nov 2026 | Dream Rotation Vol.2 | DJ Annita, El-P, Kontingency, smooksy |
 | Sat, 7 Nov 2026 | Robag & Raxon Extended X LÄRM | Bela Bertram, HOCK (DE), Ninette, OLIV, Raxon, Robag Wruhme |
 | Fri, 13 Nov 2026 | S.D.H.Q. presents: Sonic Dimensions #2 | Die Ruhe, Emeveka, Kalitos, OutWithJane |
 | Sat, 14 Nov 2026 | CRÈME HOURS × R.A.N.D MUZIK w/ Bephål, LOLSNAKE, SLANY | Bephål, Davy, Franziska Berns, LOLSNAKE, Lulu & Nell, Reece Walker, SLANY, Shuray & Walle |
 | Tue, 17 Nov 2026 | Only Us - Sleepless Tuesday | DJ Schnürschuh, DJ Skonti, Delirante, Feta Felice, InterStella, STRUMM., Shaleen, Timstagram, itsadisasta |
 | Sat, 21 Nov 2026 | Roman Flügel × nebula | Cynthia Matisse, Lea Jessen, Roman Flügel, a:tok, moraine, morphin, noxsonos |
 | Fri, 27 Nov 2026 | Synergy 1 |  |
-| Sat, 28 Nov 2026 | ELOTRANCE × DANCE 'N FRIENDS | 50PHIE, Andreas Eckhardt, CARGO, DJ SeXex, DJ Zugzwang, Felix Schwarzenberger, I$A, Thomas Heinrich |
+| Sat, 28 Nov 2026 | ELOTRANCE × DANCE 'N FRIENDS | 50PHIE, Andreas Eckhardt, CARGO (DE), DJ SeXex, DJ Sonnenbrand, DJ Zugzwang, Felix Schwarzenberger, I$A, Thomas Heinrich |
 | Sun, 29 Nov 2026 | STAUB + Rillendisco |  |
 | Fri, 4 Dec 2026 | DUALISM with DJ DRECKISCH, Butschi, Arman John | Arman John, Butschi, DJ DRECKISCH |
 

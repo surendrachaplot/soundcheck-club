@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Tengu presents: Cormac's Residency with Josh Caffé" on Fri, 6 Nov 2026.
+Yamamori Tengu is a music venue in Dublin with 16 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Tengu presents: Cormac's Residency with Josh Caffé" on Fri, 6 Nov 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 15 upcoming gigs, with line-ups including Batu, Chris Flannigan, Cormac and Craig Richards and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 16 upcoming gigs, with line-ups including Batu, Chris Flannigan, Cormac and Craig Richards and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 

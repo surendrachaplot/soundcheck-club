@@ -1,6 +1,6 @@
 # La Jaula - Synth Jam at Rastro Live Studio
 
-La Jaula - Synth Jam at Rastro Live Studio on Sat 14 Nov, Madrid. 1 artist: xacome. Techno and Electronica. See the line-up on soundcheck.
+La Jaula - Synth Jam at Rastro Live Studio on Sat 14 Nov, Madrid. 2 artists: Señor Harrys and xacome. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ La Jaula - Synth Jam at Rastro Live Studio on Sat 14 Nov, Madrid. 1 artist: xaco
 
 ## Line-up
 
+- Señor Harrys
 - xacome
 
 *Source: [soundcheck](https://soundcheck.club/e/2575650-la-jaula-synth-jam-at-rastro-live-studio/)*

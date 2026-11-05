@@ -1,6 +1,6 @@
 # GAGxDAS XXXVII at Den Anden Side
 
-GAGxDAS XXXVII at Den Anden Side on Sat 21 Nov, Copenhagen. 7 artists: Amphia, dj Joe, DRAHO and Gloria Rose and 3 more. See the line-up on soundcheck.
+GAGxDAS XXXVII at Den Anden Side on Sat 21 Nov, Copenhagen. 7 artists: Amphia, dj Joe, DRAHO and Gloria Rose and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

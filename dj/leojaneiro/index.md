@@ -1,13 +1,14 @@
 # Leo Janeiro
 
-Leo Janeiro is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Armazem Solon, Sao Paulo on Sat, 28 Nov 2026.
+Leo Janeiro is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bar de Escuta, Rio de Janeiro on Thu, 5 Nov 2026.
 
-Leo Janeiro is a house and disco artist based in Brazil, with 69 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 5 more. Often billed alongside Leo J, Bernardo Campos and From House to Disco. Next up: Armazem Solon, Sao Paulo on Sat 28 Nov.
+Leo Janeiro is a house and disco artist based in Brazil, with 70 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 5 more. Often billed alongside Leo J, Bernardo Campos and From House to Disco. Next up: Bar de Escuta, Rio de Janeiro on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Bar de Escuta | Rio de Janeiro |
 | Sat, 28 Nov 2026 | Armazem Solon | Sao Paulo |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 

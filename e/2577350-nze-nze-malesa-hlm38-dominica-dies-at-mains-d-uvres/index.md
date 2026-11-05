@@ -1,6 +1,6 @@
 # NZE NZE, Malesa, HLM38, dominica dies at Mains D'œuvres
 
-NZE NZE, Malesa, HLM38, dominica dies at Mains D'œuvres on Sat 28 Nov, Paris. 2 artists: Malesa and NZE NZE. See the line-up on soundcheck.
+NZE NZE, Malesa, HLM38, dominica dies at Mains D'œuvres on Sat 28 Nov, Paris. 2 artists: Malesa and NZE NZE. Dub and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

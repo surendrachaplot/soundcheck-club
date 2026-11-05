@@ -9,6 +9,6 @@ TBA - Obedient Missionary is a music venue in Detroit listed on soundcheck. 2 up
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Bad Luck Club |  |
-| Sat, 28 Nov 2026 | Deep Field feat. Arucal | ACE, Arucal, LOFILA, Plural, mira (5), moregasm |
+| Sat, 28 Nov 2026 | Deep Field ft. Arucal | ACE, Arucal, LOFILA, Plural, mira (5), moregasm |
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/tba-obedient-missionary/)*

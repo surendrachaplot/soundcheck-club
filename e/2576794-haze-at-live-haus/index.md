@@ -1,6 +1,6 @@
-# haze at Live Haus
+# HAZE at Live Haus
 
-haze at Live Haus on Fri 13 Nov, Tokyo. 2 artists: AME (JP) and PARSA. Techno. See the line-up on soundcheck.
+HAZE at Live Haus on Fri 13 Nov, Tokyo. 2 artists: AME (JP) and PARSA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

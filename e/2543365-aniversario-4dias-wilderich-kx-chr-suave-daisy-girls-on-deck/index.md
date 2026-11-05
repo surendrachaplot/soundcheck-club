@@ -1,6 +1,6 @@
 # ANIVERSARIO 4Dias Wilderich, KX CHR, Suave, DAISY, GIRLS ON DECKS, Nita Key, Xavi BCN, SuttleK at M7 Club
 
-ANIVERSARIO 4Dias Wilderich, KX CHR, Suave, DAISY, GIRLS ON DECKS, Nita Key, Xavi BCN, SuttleK at M7 Club on Thu 12 Nov, Barcelona. 12 artists: Adviro, BreakStyle, DAISY and EDS (ESP) and 8 more. Techno and Electronica. See the line-up on soundcheck.
+ANIVERSARIO 4Dias Wilderich, KX CHR, Suave, DAISY, GIRLS ON DECKS, Nita Key, Xavi BCN, SuttleK at M7 Club on Thu 12 Nov, Barcelona. 11 artists: Adviro, BreakStyle, DAISY and EDS (ESP) and 7 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,7 +18,6 @@ ANIVERSARIO 4Dias Wilderich, KX CHR, Suave, DAISY, GIRLS ON DECKS, Nita Key, Xav
 - GIRLS ON DECKS
 - KX CHR
 - Nita Key
-- Suave
 - SuttleK
 - WILDERÍCH
 - Xavi BCN

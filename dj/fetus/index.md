@@ -1,13 +1,14 @@
 # Fetus
 
-Fetus is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Toranoko Shokudo, Tokyo on Sat, 14 Nov 2026.
+Fetus is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at club asia, Tokyo on Thu, 5 Nov 2026.
 
-Fetus is a bass and techno artist based in Japan, with 44 gigs on soundcheck across Chengdu, Kyoto, Osaka and Seoul and 2 more. Often billed alongside Oyubi, Seimei and Albino Sound. Next up: Toranoko Shokudo, Tokyo on Sat 14 Nov.
+Fetus is a bass and techno artist based in Japan, with 45 gigs on soundcheck across Chengdu, Kyoto, Osaka and Seoul and 2 more. Often billed alongside Oyubi, Seimei and Albino Sound. Next up: club asia, Tokyo on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | club asia | Tokyo |
 | Sat, 14 Nov 2026 | Toranoko Shokudo | Tokyo |
 
 ## Recently played

@@ -11,7 +11,7 @@ Ilses Erika is a music venue in Leipzig listed on soundcheck. 4 upcoming gigs, w
 | Fri, 6 Nov 2026 | ALL YOU CAN TRANCE #3 | ESCALEA, Iced Matchko Latte, JUNiQUE, Raphus, SAMBA7, Scrappy Coco, VIVEX, VLUNA |
 | Fri, 13 Nov 2026 | Brotfabrik & Kernkraftoase | Drommaro, SCHLAAKIII, Saem, Simon Phil.ter, Theo Gramal |
 | Fri, 20 Nov 2026 | GEGEN ABEND KEIN SPEED |  |
-| Fri, 4 Dec 2026 | Level Up | DJ Cvntroller, EinfachWinter, KETA PERRY, Kalimanda, Meyhartt, Motrick |
+| Fri, 4 Dec 2026 | LEVEL UP by Formel4/4, Schutt&Asche with Luna Soundsystem | DJ Cvntroller, EinfachWinter, KETA PERRY, Kalimanda, Meyhartt, Motrick |
 
 ## Address
 

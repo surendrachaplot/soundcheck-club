@@ -13,7 +13,7 @@ Die Rakete is a music venue in Nürnberg listed on soundcheck. 7 upcoming gigs, 
 | Fri, 27 Nov 2026 | VITAMIND pres. HOUSE OF HOUSE | Zweistein |
 | Fri, 11 Dec 2026 | 10 Jahre Bassgeflüster | Gabu, KIM AHLF, Klanglos, Mark Dekoda, OLEA, Sylvie Miles |
 | Sat, 26 Dec 2026 | Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher | Anna Reusch, Sylvie Miles, Thomas Schumacher |
-| Fri, 22 Jan 2027 | KINKY ON Tour Nürnberg | Acid Foxy, Alex Benz, MILLA LOU, Theo Gramal |
+| Fri, 29 Jan 2027 | KINKY ON Tour Nürnberg | Acid Foxy, Alex Benz, MILLA LOU, Theo Gramal |
 | Fri, 9 Apr 2027 | Klanglos (live) - All Night Long | Klanglos |
 
 ## Address

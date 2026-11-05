@@ -1,8 +1,8 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BASIS, Utrecht on Fri, 6 Nov 2026.
+Charlie Sparks is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BASIS, Utrecht on Fri, 6 Nov 2026.
 
-Charlie Sparks is a techno and trance artist based in United Kingdom, with 300 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Athens and 82 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: BASIS, Utrecht on Fri 6 Nov.
+Charlie Sparks is a techno and trance artist based in United Kingdom, with 302 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Athens and 83 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: BASIS, Utrecht on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,11 +10,13 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, with 300 g
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | BASIS | Utrecht |
 | Sat, 7 Nov 2026 | OST | Berlin |
+| Fri, 13 Nov 2026 | Palacete | Sao Paulo |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Dec 2026 | Hans Bunte Areal | Freiburg |
 | Thu, 31 Dec 2026 | Hala Orion | Wroclaw |
 | Sat, 2 Jan 2027 | GASHOUDER | Amsterdam |
+| Fri, 29 Jan 2027 | O der Klub | Vienna |
 
 ## Recently played
 

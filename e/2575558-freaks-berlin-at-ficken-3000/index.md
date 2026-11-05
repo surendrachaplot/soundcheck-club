@@ -1,6 +1,6 @@
 # Freaks Berlin at Ficken 3000
 
-Freaks Berlin at Ficken 3000 on Fri 6 Nov, Berlin. 1 artist: Butchqueen.fm. Techno and House. See the line-up on soundcheck.
+Freaks Berlin at Ficken 3000 on Fri 6 Nov, Berlin. 2 artists: Butchqueen.fm and Sub Sahara. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Freaks Berlin at Ficken 3000 on Fri 6 Nov, Berlin. 1 artist: Butchqueen.fm. Tech
 ## Line-up
 
 - Butchqueen.fm
+- Sub Sahara
 
 *Source: [soundcheck](https://soundcheck.club/e/2575558-freaks-berlin-at-ficken-3000/)*

@@ -11,7 +11,7 @@ Demi Riquisimo is a house and techno artist based in United Kingdom, with 199 gi
 | Sat, 7 Nov 2026 | Roig Arena | Valencia |
 | Sat, 21 Nov 2026 | TBA - Secret Manhattan Location | New York City |
 | Sat, 21 Nov 2026 | 52 Walker | New York City |
-| Sat, 28 Nov 2026 | TBA - Downtown Los Angeles | Los Angeles |
+| Sat, 28 Nov 2026 | TBA - New Location!  | Los Angeles |
 | Sun, 29 Nov 2026 | Bar Franca | Los Angeles |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Thu, 3 Dec 2026 | Factory Town | Miami |

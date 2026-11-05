@@ -1,8 +1,8 @@
 # Nita Key
 
-Nita Key is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 6 Nov 2026.
+Nita Key is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 6 Nov 2026.
 
-Nita Key is a techno and trance artist based in Spain, with 26 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CRONEKIA, Nahum Korm and INEXXSTABLE. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 6 Nov.
+Nita Key is a techno and trance artist based in Spain, with 27 gigs on soundcheck across Barcelona and Madrid. Often billed alongside CRONEKIA, Nahum Korm and INEXXSTABLE. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nita Key is a techno and trance artist based in Spain, with 26 gigs on soundchec
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Thu, 12 Nov 2026 | M7 Club | Barcelona |
+| Sat, 14 Nov 2026 | M7 Club | Barcelona |
 | Sat, 30 Jan 2027 | Fabrik | Madrid |
 
 ## Recently played

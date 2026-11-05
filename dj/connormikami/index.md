@@ -1,8 +1,8 @@
 # Connor Mikami
 
-Connor Mikami is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - IYKYK , Los Angeles on Fri, 27 Nov 2026.
+Connor Mikami is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - IYKYK , Los Angeles on Fri, 27 Nov 2026.
 
-Connor Mikami is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Berlin, Detroit, London and Los Angeles and 8 more. Often billed alongside Alex Pastor, Binh and Hazy. Next up: TBA - IYKYK , Los Angeles on Fri 27 Nov.
+Connor Mikami is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Berlin, Detroit, London and Los Angeles and 8 more. Often billed alongside Binh, Alex Pastor and Hazy. Next up: TBA - IYKYK , Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Connor Mikami is a house and techno artist based in United States of America, wi
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - IYKYK  | Los Angeles |
 | Thu, 31 Dec 2026 | TBA - IYKYK  | Los Angeles |
+| Thu, 31 Dec 2026 | Signal | New York City |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Connor Mikami is a house and techno artist based in United States of America, wi
 
 ## Shares bills with
 
-Alex Pastor, Binh, Hazy
+Binh, Alex Pastor, Hazy
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connormikami/)*

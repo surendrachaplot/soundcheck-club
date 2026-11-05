@@ -9,6 +9,6 @@ Low Key Records is a music venue in Sofia listed on soundcheck. 2 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Oleg at LKR |  |
-| Fri, 6 Nov 2026 | XANDER x MODERN at LKR | MODERN, Xander.404 |
+| Fri, 6 Nov 2026 | XANDER.404 x MODERN at LKR | MODERN, Xander.404 |
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/low-key-records/)*

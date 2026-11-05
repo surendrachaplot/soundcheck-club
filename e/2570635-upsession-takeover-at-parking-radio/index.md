@@ -1,6 +1,6 @@
-# Upsession Takeover at Parking.Radio
+# UPSESSION TAKEOVER at Parking.Radio
 
-Upsession Takeover at Parking.Radio on Sun 22 Nov, Quebec City. See the line-up on soundcheck.
+UPSESSION TAKEOVER at Parking.Radio on Sun 22 Nov, Quebec City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

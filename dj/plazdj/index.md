@@ -13,7 +13,7 @@ plazdj is a minimal and techno artist based in Thailand, with 419 gigs on soundc
 | Mon, 16 Nov 2026 | Culture Cafe | Bangkok |
 | Wed, 18 Nov 2026 | Culture Cafe | Bangkok |
 | Mon, 23 Nov 2026 | Culture Cafe | Bangkok |
-| Wed, 25 Nov 2026 | Culture Cafe | Bangkok |
+| Thu, 26 Nov 2026 | Culture Cafe | Bangkok |
 | Sat, 28 Nov 2026 | Culture Cafe | Bangkok |
 | Mon, 30 Nov 2026 | Culture Cafe | Bangkok |
 | Thu, 31 Dec 2026 | Culture Cafe | Bangkok |

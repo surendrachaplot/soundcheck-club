@@ -1,8 +1,8 @@
 # 93 Feet East
 
-93 Feet East is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Escapada - BACK TO THE GOLDEN ERA - 93 Feet East" on Sat, 7 Nov 2026.
+93 Feet East is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Escapada - BACK TO THE GOLDEN ERA - 93 Feet East" on Sat, 7 Nov 2026.
 
-93 Feet East is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Afshin, Carlos Aries, Chris Hewitt and Darren Tate and 2 more. See dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
+93 Feet East is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Afshin, Carlos Aries, Chris Hewitt and Darren Tate and 2 more. See dates, start times and who's playing. The Old Truman Brewery, 150 Brick Lane; Shoreditch; London E1 6RU; United Kingdom.
 
 ## What's on
 
@@ -15,6 +15,7 @@
 | Sat, 28 Nov 2026 | Kinky Malinki Ibiza Reunion + 28th Birthday | F Red, Jamie Hayhoe, Josh, SOMEGUY, Tristan Ingram |
 | Sat, 5 Dec 2026 | Mondo | Darren Tate, Simon Gregory, nümind |
 | Fri, 11 Dec 2026 | SWARAJ |  |
+| Sat, 12 Dec 2026 | Dazéd ➔ Xmas Rave  | TBA |
 | Mon, 14 Dec 2026 | BUBBLE CLUB: The Greatest Snowman |  |
 | Sat, 19 Dec 2026 | HANGAR 003 | Ricky Kelsey, William James |
 

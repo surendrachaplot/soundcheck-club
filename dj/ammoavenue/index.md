@@ -1,8 +1,8 @@
 # Ammo Avenue
 
-Ammo Avenue is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Los Angeles on Sat, 7 Nov 2026.
+Ammo Avenue is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Los Angeles on Sat, 7 Nov 2026.
 
-Ammo Avenue is a tech house and house artist based in Peru, with 26 gigs on soundcheck across Barcelona, Brisbane, Ibiza and London and 10 more. Often billed alongside Ben Sterling, Chinonegro and Hector Couto. Next up: TBA, Los Angeles on Sat 7 Nov.
+Ammo Avenue is a tech house and house artist based in Peru, with 27 gigs on soundcheck across Barcelona, Brisbane, Ibiza and London and 10 more. Often billed alongside Ben Sterling, Chinonegro and Hector Couto. Next up: TBA, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Ammo Avenue is a tech house and house artist based in Peru, with 26 gigs on soun
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
 | Fri, 18 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
+| Sat, 23 Jan 2027 | Knockdown Center | New York City |
 
 ## Recently played
 

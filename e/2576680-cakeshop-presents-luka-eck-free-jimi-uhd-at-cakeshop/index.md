@@ -1,6 +1,6 @@
 # Cakeshop PRESENTS: Luka Eck, FREE JIMI, UHD at Cakeshop
 
-Cakeshop PRESENTS: Luka Eck, FREE JIMI, UHD on Thu 12 Nov, Seoul. 5 artists: FREE JIMI, Kitty, rue and UHD and 1 more. Electro and Experimental. See the line-up on soundcheck.
+Cakeshop PRESENTS: Luka Eck, FREE JIMI, UHD on Thu 12 Nov, Seoul. 6 artists: FREE JIMI, Kitty, Luca Eck and rue and 2 more. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Cakeshop PRESENTS: Luka Eck, FREE JIMI, UHD on Thu 12 Nov, Seoul. 5 artists: FRE
 
 - FREE JIMI
 - Kitty
+- Luca Eck
 - rue (3)
 - UHD
 - WEEUN KIM

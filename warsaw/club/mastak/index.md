@@ -16,8 +16,8 @@ Mastak is a music venue in Warsaw listed on soundcheck. 15 upcoming gigs, with l
 | Sat, 14 Nov 2026 | Label Night |  |
 | Sat, 14 Nov 2026 | Mastak 2ND BIRTHDAY: DAY 2 - LABEL NIGHT | Axis Operandi, Inhaberin (2), Nightfall, Pean, Salat, koktelbel |
 | Sun, 15 Nov 2026 | SUNDAY B-DAY CLOSING: Walrus / Sasha Planeta | Walrus, WhoTestDJ |
-| Fri, 20 Nov 2026 | Opposites | Alex Kosta, MARCUCCIO |
-| Sat, 21 Nov 2026 | L.A.N.L. IV – Live Acts All Night Long IV | Internal Observer, Private Press |
+| Fri, 20 Nov 2026 | OPPOSITES | Alex Kosta, MARCUCCIO |
+| Sat, 21 Nov 2026 | L.A.N.L. IV – Live Acts All Night Long IV | Internal Observer, Kata (PL), Private Press |
 
 ## Address
 

@@ -1,6 +1,6 @@
 # In Celebration Of: Fela Kuti, Cymande, Ezra Collective, and Ibibio Sound Machine at TBA - White Label
 
-In Celebration Of: Fela Kuti, Cymande, Ezra Collective, and Ibibio Sound Machine at TBA - White Label on Fri 6 Nov, Manchester. 1 artist: Ezra Collective. Afrobeat and Jazz. See the line-up on soundcheck.
+In Celebration Of: Fela Kuti, Cymande, Ezra Collective, and Ibibio Sound Machine at TBA - White Label on Fri 6 Nov, Manchester. 1 artist: Ezra Collective. Jazz and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

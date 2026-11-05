@@ -1,13 +1,14 @@
 # Pabels
 
-Pabels is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 7 Nov 2026.
+Pabels is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri, 6 Nov 2026.
 
-Pabels is a house and disco artist based in Argentina, with 79 gigs on soundcheck across Barcelona, Berlin, Brazil and Budapest and 20 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: Edifício Martinelli, Sao Paulo on Sat 7 Nov.
+Pabels is a house and disco artist based in Argentina, with 80 gigs on soundcheck across Barcelona, Berlin, Brazil and Budapest and 20 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Mauacba Skate Coffee & Skate Shop | Rio de Janeiro |
 | Sat, 7 Nov 2026 | Edifício Martinelli | Sao Paulo |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |

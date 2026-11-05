@@ -1,13 +1,14 @@
 # Indeva
 
-Indeva is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
+Indeva is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Off The Square, Manchester on Fri, 4 Dec 2026.
 
-Indeva is a jungle and garage artist based in United Kingdom, with 7 gigs on soundcheck across Manchester. Often billed alongside BR-Z, Jack Banner and Sebred. Next up: Rebellion, Manchester on Thu 31 Dec.
+Indeva is a jungle and drum & bass artist based in United Kingdom, with 8 gigs on soundcheck across Manchester. Often billed alongside Yes-I-Am, BR-Z and Jack Banner. Next up: Off The Square, Manchester on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Off The Square | Manchester |
 | Thu, 31 Dec 2026 | Rebellion | Manchester |
 
 ## Recently played
@@ -21,6 +22,6 @@ Indeva is a jungle and garage artist based in United Kingdom, with 7 gigs on sou
 
 ## Shares bills with
 
-BR-Z, Jack Banner, Sebred
+Yes-I-Am, BR-Z, Jack Banner
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indeva/)*

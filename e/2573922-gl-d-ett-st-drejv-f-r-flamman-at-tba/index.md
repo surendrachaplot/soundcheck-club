@@ -1,6 +1,6 @@
 # GLÖD, ett stödrejv för Flamman at TBA
 
-GLÖD, ett stödrejv för Flamman at TBA on Fri 13 Nov, Stockholm. 4 artists: Håkan Momenth, Harami, Marble and Ms. K. Techno and Bass. See the line-up on soundcheck.
+GLÖD, ett stödrejv för Flamman at TBA on Fri 13 Nov, Stockholm. 5 artists: fatty acid, Håkan Momenth, Harami and Marble and 1 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ GLÖD, ett stödrejv för Flamman at TBA on Fri 13 Nov, Stockholm. 4 artists: H�
 
 ## Line-up
 
+- fatty acid
 - Håkan Momenth
 - Harami
 - Marble

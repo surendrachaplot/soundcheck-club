@@ -9,7 +9,7 @@ Spread is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with lin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Destiny Hope Tiara ONE NIGHT ONLY LIVE SHOW 2026 |  |
-| Sat, 7 Nov 2026 | *percentages - CCC | FEIYI, KCT (1), arow, reya (2) |
+| Sat, 7 Nov 2026 | *percentages - CCC | FEIYI, KCT (1), Vasya Saiko, arow, reya (2) |
 | Thu, 12 Nov 2026 | わっしょいわっしょい | heykazma, seaketa, 没 a.k.a NGS |
 | Sat, 14 Nov 2026 | micoto 1st Anniversary Party |  |
 

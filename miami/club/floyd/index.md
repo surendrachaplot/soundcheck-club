@@ -1,8 +1,8 @@
 # Floyd
 
-Floyd is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Veronica Vasicka [Minimal Wave]" on Fri, 6 Nov 2026.
+Floyd is a music venue in Miami with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Veronica Vasicka [Minimal Wave]" on Fri, 6 Nov 2026.
 
-Floyd is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including 1-800-Lolita, Berrakka, Bag Raiders and Bakke and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
+Floyd is a music venue in Miami listed on soundcheck. 14 upcoming gigs, with line-ups including 1-800-Lolita, Berrakka, Bag Raiders and Bakke and 2 more. See dates, start times and who's playing. 34 NE 11th Street Miami, FL 33132.
 
 ## What's on
 

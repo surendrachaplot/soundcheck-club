@@ -1,8 +1,8 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
+Richie Hawtin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
 
-Richie Hawtin is a techno and house artist based in United Kingdom, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Héctor Oaks, Adiel and Nina Kraviz. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
+Richie Hawtin is a techno and house artist based in United Kingdom, with 203 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Héctor Oaks, Adiel and Nina Kraviz. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 202 gig
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 12 Dec 2026 | Spook Club | Valencia |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
+| Sat, 2 Jan 2027 | The Bassement | Madrid |
 
 ## Recently played
 

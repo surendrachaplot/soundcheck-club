@@ -1,6 +1,6 @@
 # *percentages - CCC at Spread
 
-*percentages - CCC at Spread on Sat 7 Nov, Tokyo. 4 artists: arow, FEIYI, KCT and reya. Techno and Bass. See the line-up on soundcheck.
+*percentages - CCC at Spread on Sat 7 Nov, Tokyo. 5 artists: arow, FEIYI, KCT and reya and 1 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@
 - FEIYI
 - KCT (1)
 - reya (2)
+- Vasya Saiko
 
 *Source: [soundcheck](https://soundcheck.club/e/2567354-percentages-ccc-at-spread/)*

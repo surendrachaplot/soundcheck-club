@@ -1,13 +1,14 @@
 # Rosa Pistola
 
-Rosa Pistola is a Reggaeton and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at CHICO, Mexico City on Thu, 12 Nov 2026.
+Rosa Pistola is a Reggaeton and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bar Espina, Tijuana on Sat, 7 Nov 2026.
 
-Rosa Pistola is a reggaeton and latin bass artist based in Colombia, with 115 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: CHICO, Mexico City on Thu 12 Nov.
+Rosa Pistola is a reggaeton and latin bass artist based in Colombia, with 116 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 35 more. Often billed alongside Bclip, Freebot and DJ Travella. Next up: Bar Espina, Tijuana on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Bar Espina | Tijuana |
 | Thu, 12 Nov 2026 | CHICO | Mexico City |
 | Fri, 11 Dec 2026 | Karmen Camina | Strasbourg |
 

@@ -1,8 +1,8 @@
 # renae
 
-renae is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "renae labs: Tash LC presents The Black Fantastic" on Thu, 5 Nov 2026.
+renae is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "renae labs: Tash LC presents The Black Fantastic" on Thu, 5 Nov 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including atalaya, Atiké, Ayy Den and BANSHII and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including atalaya, Atiké, Ayy Den and BANSHII and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 

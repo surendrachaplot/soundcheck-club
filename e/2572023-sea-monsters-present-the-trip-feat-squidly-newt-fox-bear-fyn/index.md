@@ -1,6 +1,6 @@
 # Sea Monsters' present - The Trip feat. Squidly, Newt, Fox, Bear, Fynn at The 212 Café & Bar
 
-Sea Monsters' present - The Trip feat. Squidly, Newt, Fox, Bear, Fynn at The 212 Café & Bar on Fri 20 Nov, Leeds. 1 artist: FYNN. Tech House and Minimal. See the line-up on soundcheck.
+Sea Monsters' present - The Trip feat. Squidly, Newt, Fox, Bear, Fynn at The 212 Café & Bar on Fri 20 Nov, Leeds. 1 artist: Fox Mellen. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Sea Monsters' present - The Trip feat. Squidly, Newt, Fox, Bear, Fynn at The 212
 
 ## Line-up
 
-- FYNN
+- Fox Mellen
 
 *Source: [soundcheck](https://soundcheck.club/e/2572023-sea-monsters-present-the-trip-feat-squidly-newt-fox-bear-fyn/)*

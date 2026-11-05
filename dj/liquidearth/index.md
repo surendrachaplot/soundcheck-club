@@ -1,8 +1,8 @@
 # Liquid Earth
 
-Liquid Earth is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bikini Club, Barcelona on Fri, 6 Nov 2026.
+Liquid Earth is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bikini Club, Barcelona on Fri, 6 Nov 2026.
 
-Liquid Earth is a house and techno artist based in United States of America, with 208 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Bikini Club, Barcelona on Fri 6 Nov.
+Liquid Earth is a house and techno artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Mari.te, tINI and Hamish & Toby. Next up: Bikini Club, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Liquid Earth is a house and techno artist based in United States of America, wit
 | Sat, 7 Nov 2026 | Le Son de la Terre | Paris |
 | Sat, 21 Nov 2026 | Casa Checo - Plaza Cuicuilco | Mexico-city |
 | Fri, 27 Nov 2026 | TBA - DTLA | Los Angeles |
+| Thu, 31 Dec 2026 | Signal | New York City |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played

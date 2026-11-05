@@ -1,13 +1,14 @@
 # K-Sang
 
-K-Sang is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Unmute, Hanoi on Fri, 13 Nov 2026.
+K-Sang is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Factory 47, Hanoi on Sat, 7 Nov 2026.
 
-K-Sang is a house and techno artist based in United Kingdom, with 28 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Hocking, George Adore and Feelz. Next up: Unmute, Hanoi on Fri 13 Nov.
+K-Sang is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Hanoi and Ho Chi Minh City. Often billed alongside Hocking, George Adore and Feelz. Next up: Factory 47, Hanoi on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Factory 47 | Hanoi |
 | Fri, 13 Nov 2026 | Unmute | Hanoi |
 
 ## Recently played

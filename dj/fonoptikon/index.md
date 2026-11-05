@@ -2,7 +2,7 @@
 
 Fonoptikon is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Ilion Plus, Athens on Fri, 18 Dec 2026.
 
-Fonoptikon is a techno artist, with 7 gigs on soundcheck across Athens. Often billed alongside 555ivas, Nalyssa Green and Nikos Veliotis. Next up: Ilion Plus, Athens on Fri 18 Dec.
+Fonoptikon is a techno artist based in Greece, with 7 gigs on soundcheck across Athens. Often billed alongside 555ivas, Nalyssa Green and Nikos Veliotis. Next up: Ilion Plus, Athens on Fri 18 Dec.
 
 ## Upcoming shows
 

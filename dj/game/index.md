@@ -2,7 +2,7 @@
 
 Gáme is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Iocerouno, Monterrey on Sat, 21 Nov 2026.
 
-Gáme is a progressive house and house artist, with 11 gigs on soundcheck across Barcelona, Guadalajara, Mexico City and Monterrey. Often billed alongside Colossio, Cabizbajo and Cano (MX). Next up: Iocerouno, Monterrey on Sat 21 Nov.
+Gáme is a progressive house and house artist based in Mexico, with 11 gigs on soundcheck across Barcelona, Guadalajara, Mexico City and Monterrey. Often billed alongside Colossio, Cabizbajo and Cano (MX). Next up: Iocerouno, Monterrey on Sat 21 Nov.
 
 ## Upcoming shows
 

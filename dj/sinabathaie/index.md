@@ -1,8 +1,8 @@
 # Sina Bathaie
 
-Sina Bathaie is a Downtempo and Deep House artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Phoenix Concert Theatre, Toronto on Sun, 8 Nov 2026.
+Sina Bathaie is a Downtempo and Deep House artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Phoenix Concert Theatre, Toronto on Sun, 8 Nov 2026.
 
-Sina Bathaie is a downtempo and deep house artist based in Canada, with 115 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 54 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Phoenix Concert Theatre, Toronto on Sun 8 Nov.
+Sina Bathaie is a downtempo and deep house artist based in Canada, with 116 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 54 more. Often billed alongside DJ Joeski, Facundo Mohrr and Kora (CA). Next up: Phoenix Concert Theatre, Toronto on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Sina Bathaie is a downtempo and deep house artist based in Canada, with 115 gigs
 | Thu, 12 Nov 2026 | The Vermont Hollywood | Los Angeles |
 | Sat, 14 Nov 2026 | Quartyard | San Diego |
 | Mon, 23 Nov 2026 | Arts at the Armory | Massachusetts |
+| Fri, 27 Nov 2026 | Fryshuset – Klubben | Stockholm |
 | Sun, 29 Nov 2026 | Backstage | Munich |
 | Tue, 1 Dec 2026 | Patronaat | Netherlands |
 | Wed, 2 Dec 2026 | Electric Ballroom | London |

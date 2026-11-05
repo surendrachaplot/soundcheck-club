@@ -1,6 +1,6 @@
 # Tokyo Morning Beats at YET
 
-Tokyo Morning Beats at YET on Sun 22 Nov, Tokyo. 1 artist: Kijta. House and Disco. See the line-up on soundcheck.
+Tokyo Morning Beats at YET on Sun 22 Nov, Tokyo. 2 artists: KEIMIN and Kijta. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Tokyo Morning Beats at YET on Sun 22 Nov, Tokyo. 1 artist: Kijta. House and Disc
 
 ## Line-up
 
+- KEIMIN
 - Kijta
 
 *Source: [soundcheck](https://soundcheck.club/e/2576759-tokyo-morning-beats-at-yet/)*

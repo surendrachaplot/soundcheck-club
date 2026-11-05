@@ -1,8 +1,8 @@
 # Helena Lauwaert
 
-Helena Lauwaert is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at De Zoeten Laboratorium, Netherlands on Fri, 6 Nov 2026.
+Helena Lauwaert is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at De Zoeten Laboratorium, Netherlands on Fri, 6 Nov 2026.
 
-Helena Lauwaert is a techno and trance artist based in Belgium, with 143 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: De Zoeten Laboratorium, Netherlands on Fri 6 Nov.
+Helena Lauwaert is a techno and trance artist based in Belgium, with 144 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 26 more. Often billed alongside Pegassi, EMILIJA and Faster Horses. Next up: De Zoeten Laboratorium, Netherlands on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Helena Lauwaert is a techno and trance artist based in Belgium, with 143 gigs on
 | Fri, 27 Nov 2026 | BASIS | Utrecht |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Sun, 3 Jan 2027 | The Ivy | Sydney |
 
 ## Recently played
 

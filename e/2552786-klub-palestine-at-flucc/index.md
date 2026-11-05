@@ -1,6 +1,6 @@
 # KLUB PALESTINE at FLUCC
 
-KLUB PALESTINE at FLUCC on Sat 7 Nov, Vienna. 2 artists: MAH MOOD and Rakans. Club and Electronica. See the line-up on soundcheck.
+KLUB PALESTINE at FLUCC on Sat 7 Nov, Vienna. 3 artists: MAH MOOD, Rakans and Sherine Falasteen. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ KLUB PALESTINE at FLUCC on Sat 7 Nov, Vienna. 2 artists: MAH MOOD and Rakans. Cl
 
 - MAH MOOD
 - Rakans
+- Sherine Falasteen
 
 *Source: [soundcheck](https://soundcheck.club/e/2552786-klub-palestine-at-flucc/)*

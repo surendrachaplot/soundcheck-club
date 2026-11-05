@@ -1,14 +1,15 @@
 # Milam
 
-Milam is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
+Milam is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
 
-Milam is a house and afro house artist based in China, with 34 gigs on soundcheck across Bali, Bangkok, Beijing and Dubai and 3 more. Often billed alongside Mo-Shi, Leon (FR) and Nino (FR). Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
+Milam is a house and deep house artist based in China, with 35 gigs on soundcheck across Bali, Bangkok, Beijing and Dubai and 3 more. Often billed alongside Mo-Shi, Leon (FR) and Nino (FR). Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Hong Kong Observation Wheel & AIA Vitality Park | Hong Kong |
+| Wed, 2 Dec 2026 | Æther BKK | Bangkok |
 
 ## Recently played
 

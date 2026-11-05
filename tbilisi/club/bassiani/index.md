@@ -16,7 +16,7 @@ Bassiani is a music venue in Tbilisi listed on soundcheck. 9 upcoming gigs, with
 | Sat, 21 Nov 2026 | Hydrash: IAMEA, Valley Dolly, Zitto | IAMEA, Valley Dolly, Zitto |
 | Fri, 27 Nov 2026 | Delsin: 30 Years Anniversary | Amir (1), HVL, Kraumur, Kvanchi, STERAC, Tasha, Volodymyr Gnatenko, nthng |
 | Sat, 28 Nov 2026 | Horoom – Sat, 28.11.2026 | Cobert, Dito, HerShe, Roman Flügel |
-| Thu, 31 Dec 2026 | Bassiani NYE 2027 | .VRIL, 98dots, ATEQ, BMI (GE), Ben Kaczor, Claudio PRC, DJ Dustin, Dito, HVL, Hamatsuki, Interstellar Funk, Kancheli, Kat Davids, Kvanchi, Lb Honne, Mancho, Martinou, Natascha Kann, Nathalie Seres, Ndrx, Newa, Philippa Pacho, Ron Albrecht, Separat, Sophie Phare, Stojche, Tobias., Valley Dolly, Zitto, dj sweet6teen, nebbieri, skyra |
+| Thu, 31 Dec 2026 | Bassiani NYE 2027 | .VRIL, 98dots, ATEQ, BMI (GE), Ben Kaczor, Claudio PRC, Cobert, DJ Dustin, Dito, HVL, Hamatsuki, Interstellar Funk, Kancheli, Kat Davids, Kvanchi, Lb Honne, Mancho, Martinou, Natascha Kann, Nathalie Seres, Ndrx, Newa, Philippa Pacho, Ron Albrecht, Separat, Sophie Phare, Stojche, Tobias., Valley Dolly, Zitto, dj sweet6teen, nebbieri, skyra |
 
 ## Address
 

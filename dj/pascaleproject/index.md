@@ -1,8 +1,8 @@
 # Pascale Project
 
-Pascale Project is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
+Pascale Project is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Signal, New York City on Fri, 20 Nov 2026.
 
-Pascale Project is a techno and house artist based in Canada, with 91 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 13 more. Often billed alongside Lis Dalton, Lia Plutonic and Amelia Holt. Next up: Signal, New York City on Fri 20 Nov.
+Pascale Project is a techno and house artist based in Canada, with 92 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 13 more. Often billed alongside Lis Dalton, Lia Plutonic and Amelia Holt. Next up: Signal, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pascale Project is a techno and house artist based in Canada, with 91 gigs on so
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Signal | New York City |
 | Fri, 27 Nov 2026 | Renate | Berlin |
+| Sat, 28 Nov 2026 | TBA | Leipzig |
 
 ## Recently played
 

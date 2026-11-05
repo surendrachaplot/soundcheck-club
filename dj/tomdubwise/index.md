@@ -1,13 +1,14 @@
 # Tom Dubwise
 
-Tom Dubwise is a Dub and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cu, London on Sun, 13 Dec 2026.
+Tom Dubwise is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Outlaws Yacht Club, Leeds on Sun, 15 Nov 2026.
 
-Tom Dubwise is a dub and experimental artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, Belfast and London. Often billed alongside Richard Fearless, Dennis Bovell and Elijah Minnelli. Next up: Cu, London on Sun 13 Dec.
+Tom Dubwise is a dub and experimental artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Belfast, Leeds and London. Often billed alongside Richard Fearless, Dennis Bovell and Elijah Minnelli. Next up: Outlaws Yacht Club, Leeds on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Outlaws Yacht Club | Leeds |
 | Sun, 13 Dec 2026 | Cu | London |
 
 ## Recently played

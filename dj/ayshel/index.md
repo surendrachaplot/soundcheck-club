@@ -1,13 +1,14 @@
 # Ayshel
 
-Ayshel is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at SMUT Athens, Athens on Sat, 28 Nov 2026.
+Ayshel is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Naos, Athens on Fri, 13 Nov 2026.
 
-Ayshel is a techno and club artist based in Greece, with 46 gigs on soundcheck across Athens, Brussels and Thessaloniki. Often billed alongside GRETA (GR), FlökosH and KOKETAMC. Next up: SMUT Athens, Athens on Sat 28 Nov.
+Ayshel is a techno and club artist based in Greece, with 47 gigs on soundcheck across Athens, Brussels and Thessaloniki. Often billed alongside GRETA (GR), Andreas Palmer and FlökosH. Next up: Naos, Athens on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Naos | Athens |
 | Sat, 28 Nov 2026 | SMUT Athens | Athens |
 
 ## Recently played
@@ -23,6 +24,6 @@ Ayshel is a techno and club artist based in Greece, with 46 gigs on soundcheck a
 
 ## Shares bills with
 
-GRETA (GR), FlökosH, KOKETAMC
+GRETA (GR), Andreas Palmer, FlökosH
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayshel/)*

@@ -1,8 +1,8 @@
 # DDD (2)
 
-DDD (2) is a Trance and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cakeshop, Seoul on Sat, 14 Nov 2026.
+DDD (2) is a Electro and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cakeshop, Seoul on Sat, 14 Nov 2026.
 
-DDD is a trance and electro artist based in South Korea, with 32 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Dieman, Guinneissik and Kitty. Next up: Cakeshop, Seoul on Sat 14 Nov.
+DDD is an electro and trance artist based in South Korea, with 33 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Dieman, Kitty and Guinneissik. Next up: Cakeshop, Seoul on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DDD is a trance and electro artist based in South Korea, with 32 gigs on soundch
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Cakeshop | Seoul |
 | Sat, 14 Nov 2026 | Cakeshop | Seoul |
+| Fri, 4 Dec 2026 | Cakeshop | Seoul |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ DDD is a trance and electro artist based in South Korea, with 32 gigs on soundch
 
 ## Shares bills with
 
-Dieman, Guinneissik, Kitty
+Dieman, Kitty, Guinneissik
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddd-2/)*

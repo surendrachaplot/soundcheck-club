@@ -1,13 +1,14 @@
 # mirepoix
 
-mirepoix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Marble Bar, Detroit on Thu, 31 Dec 2026.
+mirepoix is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Spkrbox, Detroit on Fri, 6 Nov 2026.
 
-mirepoix is a house and techno artist based in United States of America, with 18 gigs on soundcheck across Detroit. Often billed alongside LATEX GIRL, AIDEL and Amino. Next up: Marble Bar, Detroit on Thu 31 Dec.
+mirepoix is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Detroit. Often billed alongside LATEX GIRL, AIDEL and Amino. Next up: Spkrbox, Detroit on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Spkrbox | Detroit |
 | Thu, 31 Dec 2026 | Marble Bar | Detroit |
 
 ## Recently played

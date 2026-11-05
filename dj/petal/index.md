@@ -1,14 +1,15 @@
 # Petal
 
-Petal is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mood Ring, New York City on Fri, 6 Nov 2026.
+Petal is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mood Ring, New York City on Fri, 6 Nov 2026.
 
-Petal is a club and techno artist based in United States of America, with 99 gigs on soundcheck across Athens and New York City. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE. Next up: Mood Ring, New York City on Fri 6 Nov.
+Petal is a club and techno artist based in United States of America, with 100 gigs on soundcheck across Athens and New York City. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE. Next up: Mood Ring, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Mood Ring | New York City |
+| Thu, 19 Nov 2026 | Mood Ring | New York City |
 | Wed, 9 Dec 2026 | Mood Ring | New York City |
 
 ## Recently played

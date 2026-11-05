@@ -1,8 +1,8 @@
 # Stella Zekri
 
-Stella Zekri is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at KREUZWERK, Berlin on Fri, 6 Nov 2026.
+Stella Zekri is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at KREUZWERK, Berlin on Fri, 6 Nov 2026.
 
-Stella Zekri is a house and techno artist based in France, with 203 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: KREUZWERK, Berlin on Fri 6 Nov.
+Stella Zekri is a house and techno artist based in France, with 204 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside Camilla Rae, 131bpm and CCL. Next up: KREUZWERK, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Stella Zekri is a house and techno artist based in France, with 203 gigs on soun
 | Fri, 27 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 | Sun, 13 Dec 2026 | Haus der Visionäre | Berlin |
+| Thu, 31 Dec 2026 | Signal | New York City |
 
 ## Recently played
 

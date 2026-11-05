@@ -1,8 +1,8 @@
 # Lacchesi
 
-Lacchesi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
+Lacchesi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
 
-Lacchesi is a techno and house artist based in France, with 195 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 59 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Anetha. Next up: Schrotty, Cologne on Fri 20 Nov.
+Lacchesi is a techno and house artist based in France, with 196 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 59 more. Often billed alongside Lorenzo Lacchesi, Mac Declos and Anetha. Next up: Schrotty, Cologne on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lacchesi is a techno and house artist based in France, with 195 gigs on soundche
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Schrotty | Cologne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Sat, 9 Jan 2027 | Elysée Montmartre | Paris |
 
 ## Recently played
 

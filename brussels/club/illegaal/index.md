@@ -1,8 +1,8 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "303FUNKSTREET RELEASE PARTY" on Sat, 7 Nov 2026.
+Illegaal is a music venue in Brussels with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "303FUNKSTREET RELEASE PARTY" on Sat, 7 Nov 2026.
 
-Illegaal is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Blazin' Bomzai, Dj Soleil, Kitoko and Rafael Aragon. See dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
+Illegaal is a music venue in Brussels listed on soundcheck. 4 upcoming gigs, with line-ups including Blazin' Bomzai, Dj Soleil, Kitoko and Rafael Aragon. See dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Illegaal is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, wit
 | Sat, 7 Nov 2026 | 303FUNKSTREET RELEASE PARTY | Blazin' Bomzai |
 | Sat, 7 Nov 2026 | 303FUNKSTREET RELEASE PARTY | Blazin' Bomzai |
 | Sat, 14 Nov 2026 | GOULASH DISKO PARTY | Dj Soleil, Kitoko, Rafael Aragon |
+| Sat, 14 Nov 2026 | Goulash Disko Party | Dj Soleil, Kitoko, Rafael Aragon |
 
 ## Address
 

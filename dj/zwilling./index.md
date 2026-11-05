@@ -1,8 +1,8 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 13 Nov 2026.
+zwilling. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 13 Nov 2026.
 
-zwilling. is a techno and trance artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Ace*Mission, Los Angeles on Fri 13 Nov.
+zwilling. is a techno and trance artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Ace*Mission, Los Angeles on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ zwilling. is a techno and trance artist based in Germany, with 121 gigs on sound
 | Sat, 14 Nov 2026 | Level 1 @ Cannonball Arts | Seattle |
 | Fri, 20 Nov 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
+| Fri, 18 Dec 2026 | RSO.BERLIN | Berlin |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 | Fri, 1 Jan 2027 | Fabrik | Madrid |
 

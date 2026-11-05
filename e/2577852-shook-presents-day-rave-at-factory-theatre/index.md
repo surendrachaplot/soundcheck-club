@@ -1,6 +1,6 @@
 # Shook Presents: Day Rave at Factory Theatre
 
-Shook Presents: Day Rave at Factory Theatre on Fri 20 Nov, Sydney. 2 artists: Mushu and UBERMOON. See the line-up on soundcheck.
+Shook Presents: Day Rave at Factory Theatre on Fri 20 Nov, Sydney. 2 artists: Mushu and UBERMOON. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

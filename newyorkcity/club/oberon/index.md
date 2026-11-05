@@ -1,13 +1,16 @@
 # Oberon
 
-Oberon is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Extra Dirty w/ Olive and Jon Ali" on Sun, 8 Nov 2026.
+Oberon is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "P41DZ presents the Boy Harsher Afterparty" on Thu, 5 Nov 2026.
 
-Oberon is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Jon Ali. See dates, start times and who's playing. 196 N 10th St, Brooklyn, NY, 11211.
+Oberon is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Archangel, Jon Ali, Luis Fernando and Malcolm XL and 1 more. See dates, start times and who's playing. 196 N 10th St, Brooklyn, NY, 11211.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | P41DZ presents the Boy Harsher Afterparty |  |
+| Fri, 6 Nov 2026 | THE ZOO: Let Them Eat Cake! | Luis Fernando |
+| Sat, 7 Nov 2026 | Therapy w/ Archangel, Robyn DaBank b2b Malcolm XL | Archangel, Malcolm XL, Robyn DaBank |
 | Sun, 8 Nov 2026 | Extra Dirty w/ Olive and Jon Ali | Jon Ali |
 
 ## Address

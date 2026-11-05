@@ -1,14 +1,13 @@
 # Bar Americas
 
-Bar Americas is a music venue in Guadalajara with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "San-Pler" on Wed, 4 Nov 2026.
+Bar Americas is a music venue in Guadalajara with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "James Zabiela" on Thu, 5 Nov 2026.
 
-Bar Americas is a music venue in Guadalajara listed on soundcheck. 7 upcoming gigs, with line-ups including Martin Parra and Øostil. See dates, start times and who's playing. Av. Chapultepec #507, 44140, Col. Americana, Guadalajara Jalisco, México.
+Bar Americas is a music venue in Guadalajara listed on soundcheck. 6 upcoming gigs, with line-ups including Martin Parra and Øostil. See dates, start times and who's playing. Av. Chapultepec #507, 44140, Col. Americana, Guadalajara Jalisco, México.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | San-Pler |  |
 | Thu, 5 Nov 2026 | James Zabiela |  |
 | Fri, 6 Nov 2026 | Cabizbajo |  |
 | Fri, 6 Nov 2026 | Martin Parra | Martin Parra |

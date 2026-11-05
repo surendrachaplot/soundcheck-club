@@ -1,13 +1,14 @@
 # Koki Byrd
 
-Koki Byrd is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at WOMB, Tokyo on Sun, 22 Nov 2026.
+Koki Byrd is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Enter Shibuya, Tokyo on Sat, 14 Nov 2026.
 
-Koki Byrd is a tech house and house artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside TooCee, ALEXANDER M and EIGHT. Next up: WOMB, Tokyo on Sun 22 Nov.
+Koki Byrd is a tech house and house artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside TooCee, ALEXANDER M and EIGHT. Next up: Enter Shibuya, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Enter Shibuya | Tokyo |
 | Sun, 22 Nov 2026 | WOMB | Tokyo |
 
 ## Recently played

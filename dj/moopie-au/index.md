@@ -1,8 +1,8 @@
 # Moopie
 
-Moopie is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Solace, Melbourne on Fri, 6 Nov 2026.
+Moopie is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Solace, Melbourne on Fri, 6 Nov 2026.
 
-Moopie is a house and techno artist based in Australia, with 231 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Solace, Melbourne on Fri 6 Nov.
+Moopie is a house and techno artist based in Australia, with 232 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Kia (AU), Emelyne and Hannah D. Next up: Solace, Melbourne on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Moopie is a house and techno artist based in Australia, with 231 gigs on soundch
 | Sun, 8 Nov 2026 | Miscellania | Melbourne |
 | Fri, 13 Nov 2026 | Civic Underground | Sydney |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
+| Sat, 14 Nov 2026 | Solace | Melbourne |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 4 Dec 2026 | Miscellania | Melbourne |
@@ -19,7 +20,6 @@ Moopie is a house and techno artist based in Australia, with 231 gigs on soundch
 | Fri, 11 Dec 2026 | TBA - 3.5 Hours West of Gadigal | Sydney |
 | Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
-| Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 

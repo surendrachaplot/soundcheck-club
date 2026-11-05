@@ -17,7 +17,7 @@ WDM is a music venue in Hannover listed on soundcheck. 17 upcoming gigs, with li
 | Sat, 21 Nov 2026 | OBSESSION with Quelza | Quelza, SPORTMANN, Tarkan, co:co |
 | Fri, 27 Nov 2026 | Klubnacht with filapa, bauhof, Maris Shilton | Maris Shilton, bauhof, filapa |
 | Sat, 28 Nov 2026 | NEED MORE SPEED // WDM Hannover | Alisa Stovik, Arman John, BOUNCEBACK, ELOISA, Limoncello, Melushka, VIVUS |
-| Fri, 4 Dec 2026 | WDM x Raum für Ton Klubnacht: Lea Occhi, Josh Heywood, Kabay, Leskus, Mansist, Tarkan uvm  | Josh Heywood, KOWOLSKI, Kabay, Lea Occhi, Leskus, Mansist, Tarkan |
+| Fri, 4 Dec 2026 | WDM x Raum für Ton Klubnacht: Lea Occhi, Josh Heywood, Kabay, Leskus, Mansist, Tarkan uvm  | Hamø, Josh Heywood, KOWOLSKI, Kabay, Lea Occhi, Leskus, Mansist, Tarkan |
 
 ## Address
 

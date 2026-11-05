@@ -1,13 +1,14 @@
 # DJ Tallboy
 
-DJ Tallboy is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at La Java, Paris on Fri, 27 Nov 2026.
+DJ Tallboy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Abyss Shanghai, Shanghai on Sat, 7 Nov 2026.
 
-DJ Tallboy is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Berlin, Bologna, Bremen and Cologne and 15 more. Often billed alongside DJ Discostoff, Rosilicious and ANDATA. Next up: La Java, Paris on Fri 27 Nov.
+DJ Tallboy is a techno and trance artist based in Germany, with 75 gigs on soundcheck across Berlin, Bologna, Bremen and Cologne and 16 more. Often billed alongside DJ Discostoff, Rosilicious and ANDATA. Next up: Abyss Shanghai, Shanghai on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Abyss Shanghai | Shanghai |
 | Fri, 27 Nov 2026 | La Java | Paris |
 | Sat, 5 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 12 Dec 2026 | Indiego Glocksee | Hannover |

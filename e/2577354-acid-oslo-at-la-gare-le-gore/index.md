@@ -1,6 +1,6 @@
 # Acid Oslo at La Gare / Le Gore
 
-Acid Oslo at La Gare / Le Gore on Mon 23 Nov, Paris. 1 artist: Acid Oslo. See the line-up on soundcheck.
+Acid Oslo at La Gare / Le Gore on Mon 23 Nov, Paris. 1 artist: Acid Oslo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

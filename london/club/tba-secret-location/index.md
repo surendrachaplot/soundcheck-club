@@ -1,14 +1,14 @@
-# TBA - Secret Location
+# TBA - secret location
 
-TBA - Secret Location is a music venue in London with 56 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "(Re)Candor II: Where Souls Meet" on Fri, 6 Nov 2026.
+TBA - secret location is a music venue in London with 58 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "(Re)Candor II: Where Souls Meet" on Fri, 6 Nov 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 56 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
+TBA - secret location is a music venue in London listed on soundcheck. 58 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | (Re)Candor II: Where Souls Meet | Amnati, MALAGÜERA, Rocotito |
+| Fri, 6 Nov 2026 | (Re)Candor II: Where Souls Meet | Amnati, MALAGÜERA, Rocotito, TAUBE, elva |
 | Fri, 6 Nov 2026 | **shmani** Album Release Party | LVL (CAN) |
 | Fri, 6 Nov 2026 | HardSleeper - 硬卧 | DotDash, INVERNO, Mithril, nixmoon |
 | Fri, 6 Nov 2026 | HOTWIRE: Ford Scott & Friends | Erin Page, Ford Scott, Jeny Michelle, Mac Briggs, RICCI (US), shanty mane |

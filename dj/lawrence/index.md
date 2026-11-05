@@ -1,14 +1,15 @@
 # Lawrence
 
-Lawrence is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
+Lawrence is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at VENT, Tokyo on Fri, 27 Nov 2026.
 
-Lawrence is a house and techno artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 20 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: VENT, Tokyo on Fri 27 Nov.
+Lawrence is a house and techno artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 20 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: VENT, Tokyo on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | VENT | Tokyo |
+| Thu, 3 Dec 2026 | Tender | Melbourne |
 | Sat, 5 Dec 2026 | TBA | Melbourne |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 

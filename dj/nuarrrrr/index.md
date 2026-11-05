@@ -1,13 +1,14 @@
 # nuarrrrr
 
-nuarrrrr is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Süss War Gestern, Berlin on Tue, 10 Nov 2026.
+nuarrrrr is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sekta Selekta, Krakow on Thu, 5 Nov 2026.
 
-nuarrrrr is a house and techno artist based in Ukraine, with 125 gigs on soundcheck across Berlin, Brussels, Krakow and Poznan and 2 more. Often billed alongside Nadezh No, Sava and Aslamin. Next up: Süss War Gestern, Berlin on Tue 10 Nov.
+nuarrrrr is a house and techno artist based in Ukraine, with 126 gigs on soundcheck across Berlin, Brussels, Krakow and Poznan and 2 more. Often billed alongside Nadezh No, Sava and Aslamin. Next up: Sekta Selekta, Krakow on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Sekta Selekta | Krakow |
 | Tue, 10 Nov 2026 | Süss War Gestern | Berlin |
 | Fri, 13 Nov 2026 | Eschschloraque | Berlin |
 

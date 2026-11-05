@@ -1,14 +1,17 @@
 # Reitze
 
-Reitze is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Skin Club, Madrid on Sun, 8 Nov 2026.
+Reitze is a Techno and Dub Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Skin Club, Madrid on Sun, 8 Nov 2026.
 
-Reitze is a techno and hardcore artist based in Spain, with 249 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 1 more. Often billed alongside SAINT SINNER, Noot Noot and Dyans. Next up: Skin Club, Madrid on Sun 8 Nov.
+Reitze is a techno and dub techno artist based in Spain, with 252 gigs on soundcheck across Barcelona, Berlin, Lyon and Madrid and 1 more. Often billed alongside SAINT SINNER, Noot Noot and Dyans. Next up: Skin Club, Madrid on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | Skin Club | Madrid |
+| Sun, 15 Nov 2026 | Skin Club | Madrid |
+| Sun, 22 Nov 2026 | Skin Club | Madrid |
+| Sun, 29 Nov 2026 | Skin Club | Madrid |
 | Fri, 22 Jan 2027 | KitKatClub | Berlin |
 
 ## Recently played

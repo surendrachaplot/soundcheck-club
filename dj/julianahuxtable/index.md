@@ -10,7 +10,7 @@ Juliana Huxtable is a techno and house artist based in United States of America,
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Le Bain | New York City |
 | Fri, 13 Nov 2026 | smartbar | Chicago |
-| Sat, 14 Nov 2026 | The New Hot Mass | Pittsburgh |
+| Sat, 14 Nov 2026 | Hot Mass | Pittsburgh |
 | Fri, 20 Nov 2026 | TBA | Vancouver |
 | Sat, 21 Nov 2026 | Process PDX | Portland |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |

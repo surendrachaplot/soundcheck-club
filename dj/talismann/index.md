@@ -1,8 +1,8 @@
 # Talismann
 
-Talismann is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at E1, London on Sat, 14 Nov 2026.
+Talismann is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at E1, London on Sat, 14 Nov 2026.
 
-Talismann is a techno and house artist based in Netherlands, with 97 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 34 more. Often billed alongside stranger (NL), JakoJako and SALOME. Next up: E1, London on Sat 14 Nov.
+Talismann is a techno and house artist based in Netherlands, with 98 gigs on soundcheck across Amsterdam, Athens, Berlin and Bogotá and 34 more. Often billed alongside stranger (NL), Fafi Abdel Nour and JakoJako. Next up: E1, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Talismann is a techno and house artist based in Netherlands, with 97 gigs on sou
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | E1 | London |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
+| Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Talismann is a techno and house artist based in Netherlands, with 97 gigs on sou
 
 ## Shares bills with
 
-stranger (NL), JakoJako, SALOME
+stranger (NL), Fafi Abdel Nour, JakoJako
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/talismann/)*

@@ -1,6 +1,6 @@
 # zumzumbaile at TBA - Secret Location
 
-zumzumbaile at TBA - Secret Location on Thu 12 Nov, Berlin. 1 artist: Mauricio Fleury. Jazz and Acid. See the line-up on soundcheck.
+zumzumbaile at TBA - Secret Location on Thu 12 Nov, Berlin. 1 artist: Mauricio Fleury. Acid and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

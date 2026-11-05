@@ -1,6 +1,6 @@
-# Synth Meetups at Parking.Radio
+# SYNTH MEETUPS at Parking.Radio
 
-Synth Meetups at Parking.Radio on Wed 25 Nov, Quebec City. See the line-up on soundcheck.
+SYNTH MEETUPS at Parking.Radio on Wed 25 Nov, Quebec City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

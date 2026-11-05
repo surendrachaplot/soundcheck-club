@@ -1,8 +1,8 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "super sweet with yung_womb (SLIC Unit), Third Self & Nissa Carrington" on Thu, 5 Nov 2026.
+Mood Ring is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "super sweet with yung_womb (SLIC Unit), Third Self & Nissa Carrington" on Thu, 5 Nov 2026.
 
-Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Abril IRL, asapalena, BEYBLADE SHAWTY and BlackDanielWhite and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
+Mood Ring is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including Abril IRL, AG, asapalena and BEYBLADE SHAWTY and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
 ## What's on
 

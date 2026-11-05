@@ -10,7 +10,7 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | B48 LIVE x THE GROOVE TELLERS #03 | Hi/Fi, Hutchee, IvaNNa |
 | Fri, 6 Nov 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Ale Hope, Beniso, Cucut, Dadame, Mona Lee, SAYARI |
-| Sat, 7 Nov 2026 | UMBRAL Techno Culture | Diffuse Reality, JKEY, Oscar Zillini, RHITA, Squaric |
+| Sat, 7 Nov 2026 | UMBRAL Techno Culture | Casteh, Diffuse Reality, JKEY, Main Leaf, Oscar Zillini, RHITA, Rakel, Squaric |
 | Mon, 9 Nov 2026 | AUDE Listening Session: Massive Attack, Blue Lines (1991) | Massive Attack |
 | Tue, 10 Nov 2026 | AUDE Listening Session: Madonna, Ray of Light (1998) |  |
 | Sun, 15 Nov 2026 | Placeo pres. Alice Youngling - Afternoon Showcase - Bridge48 with Vibes Live | Alice Youngling, Mganz, Vinz (ITA) |

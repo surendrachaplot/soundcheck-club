@@ -1,6 +1,6 @@
 # SUW: Disco Riders at Freedonia
 
-SUW: Disco Riders at Freedonia on Sat 7 Nov, Barcelona. 3 artists: De Hombre, PØTRØ and Rokko. Electronica. See the line-up on soundcheck.
+SUW: Disco Riders at Freedonia on Sat 7 Nov, Barcelona. 3 artists: De Hombre, PØTRØ and R_o_k_k_0. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ SUW: Disco Riders at Freedonia on Sat 7 Nov, Barcelona. 3 artists: De Hombre, P�
 
 - De Hombre (2)
 - PØTRØ
-- Rokko
+- R_o_k_k_0
 
 *Source: [soundcheck](https://soundcheck.club/e/2567023-suw-disco-riders-at-freedonia/)*

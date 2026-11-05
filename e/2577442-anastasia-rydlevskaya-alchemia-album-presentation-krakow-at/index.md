@@ -1,6 +1,6 @@
 # Anastasia Rydlevskaya - Alchemia album presentation KRAKOW at Alchemia
 
-Anastasia Rydlevskaya - Alchemia album presentation KRAKOW on Fri 4 Dec, Krakow. 1 artist: Anastasia Rydlevskaya. See the line-up on soundcheck.
+Anastasia Rydlevskaya - Alchemia album presentation KRAKOW on Fri 4 Dec, Krakow. 1 artist: Anastasia Rydlevskaya. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

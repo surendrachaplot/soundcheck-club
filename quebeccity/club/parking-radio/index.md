@@ -10,13 +10,13 @@ Parking.Radio is a music venue in Quebec City listed on soundcheck. 13 upcoming 
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | GUEST MIXES |  |
 | Sat, 7 Nov 2026 | GUEST MIXES |  |
-| Sat, 7 Nov 2026 | UGR Takeover |  |
-| Sun, 8 Nov 2026 | Guest Mix: HEURES OUVRABLES |  |
-| Sun, 8 Nov 2026 | GROOVE STREET  (Live) |  |
+| Sat, 7 Nov 2026 | UGR TAKEOVER |  |
+| Sun, 8 Nov 2026 | GUEST MIXES |  |
+| Sun, 8 Nov 2026 | LIVE PERFORMANCE |  |
 | Wed, 11 Nov 2026 | SYNTH MEETUPS |  |
-| Fri, 13 Nov 2026 | Guest Mixes: KAWABENGA, BAGEL & STORMIES |  |
+| Fri, 13 Nov 2026 | GUEST MIXES |  |
 | Sun, 15 Nov 2026 | GUEST MIXES | R-DNA |
-| Wed, 18 Nov 2026 | Synth Meetups |  |
+| Wed, 18 Nov 2026 | [POSTPONED] SYNTH MEETUPS |  |
 | Thu, 19 Nov 2026 | LIVE PERFORMANCE |  |
 
 ## Address

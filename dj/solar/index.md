@@ -1,14 +1,15 @@
 # Solar
 
-Solar is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Solar is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
-Solar is a house and acid artist based in United States of America, with 104 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 23 more. Often billed alongside Mozhgan, Galen and Tyrel Williams. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+Solar is a house and acid artist based in United States of America, with 105 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Mozhgan, Galen and Tyrel Williams. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
+| Sat, 5 Dec 2026 | Hot Mass | Pittsburgh |
 | Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played

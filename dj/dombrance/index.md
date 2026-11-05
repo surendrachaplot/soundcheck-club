@@ -1,13 +1,14 @@
 # Dombrance
 
-Dombrance is a Disco and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location Shoreditch, London on Fri, 4 Dec 2026.
+Dombrance is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sunday Sunday, Mexico City on Sun, 8 Nov 2026.
 
-Dombrance is a disco and electronica artist based in France, with 45 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 14 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: TBA - Secret Location Shoreditch, London on Fri 4 Dec.
+Dombrance is a disco and house artist based in France, with 46 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 14 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: Sunday Sunday, Mexico City on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 8 Nov 2026 | Sunday Sunday | Mexico City |
 | Fri, 4 Dec 2026 | TBA - Secret Location Shoreditch | London |
 | Sat, 5 Dec 2026 | The Bongo Club | Edinburgh |
 

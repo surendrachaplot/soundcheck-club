@@ -1,13 +1,14 @@
 # PASO
 
-PASO is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 3 Dec 2026.
+PASO is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 7 Nov 2026.
 
-PASO is a house and trance artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 1 more. Often billed alongside Nadia Summer, BORLEY and Danse Atmos. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 3 Dec.
+PASO is a house and trance artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Berlin, Edinburgh and Glasgow and 1 more. Often billed alongside Nadia Summer, BORLEY and Danse Atmos. Next up: Sneaky Pete's, Edinburgh on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Thu, 3 Dec 2026 | King Tut's Wah Wah Hut | Glasgow |
 | Thu, 3 Dec 2026 | People's Leisure Club | Edinburgh |
 

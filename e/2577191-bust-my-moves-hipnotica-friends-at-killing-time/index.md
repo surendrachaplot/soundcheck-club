@@ -1,6 +1,6 @@
 # Bust my moves. Hipnotica & friends at Killing Time
 
-Bust my moves. Hipnotica & friends at Killing Time on Sat 7 Nov, Valencia. 3 artists: Javier Santos, Mr Blanet and Raszia. Techno and Electro. See the line-up on soundcheck.
+Bust my moves. Hipnotica & friends at Killing Time on Sat 7 Nov, Valencia. 2 artists: Mr Blanet and Raszia. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Bust my moves. Hipnotica & friends at Killing Time on Sat 7 Nov, Valencia. 3 art
 
 ## Line-up
 
-- Javier Santos
 - Mr Blanet
 - Raszia
 

@@ -1,8 +1,8 @@
 # Aaron Leviz
 
-Aaron Leviz is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kunst Block Balve, Munich on Sat, 14 Nov 2026.
+Aaron Leviz is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kunst Block Balve, Munich on Sat, 14 Nov 2026.
 
-Aaron Leviz is a techno and hardcore artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin, Munich and Wroclaw. Often billed alongside RIØ (DE), Sarica and Juan.Caballo. Next up: Kunst Block Balve, Munich on Sat 14 Nov.
+Aaron Leviz is a techno and electro artist based in Germany, with 16 gigs on soundcheck across Amsterdam, Berlin, Munich and Wroclaw. Often billed alongside RIØ (DE), Sarica and Juan.Caballo. Next up: Kunst Block Balve, Munich on Sat 14 Nov.
 
 ## Upcoming shows
 

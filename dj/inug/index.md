@@ -1,8 +1,8 @@
 # Inu G
 
-Inu G is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Charlie, Munich on Sat, 7 Nov 2026.
+Inu G is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Charlie, Munich on Sat, 7 Nov 2026.
 
-Inu G is a house and bass artist based in Germany, with 34 gigs on soundcheck across Barcelona, Berlin and Munich. Often billed alongside Elpawel, DJLolo and Dolan. Next up: Charlie, Munich on Sat 7 Nov.
+Inu G is a house and electro artist based in Germany, with 34 gigs on soundcheck across Barcelona, Berlin and Munich. Often billed alongside Elpawel, DJLolo and Dolan. Next up: Charlie, Munich on Sat 7 Nov.
 
 ## Upcoming shows
 

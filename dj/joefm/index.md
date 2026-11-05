@@ -1,8 +1,8 @@
 # Joe FM
 
-Joe FM is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hope House, Leeds on Fri, 20 Nov 2026.
+Joe FM is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hope House, Leeds on Fri, 20 Nov 2026.
 
-Joe FM is a disco and deep house artist based in United Kingdom, with 7 gigs on soundcheck across Leeds. Often billed alongside Joe Shaw, Anastasia McGarel and Bruce. Next up: Hope House, Leeds on Fri 20 Nov.
+Joe FM is a disco and house artist based in United Kingdom, with 7 gigs on soundcheck across Leeds. Often billed alongside Joe Shaw, Anastasia McGarel and Bruce. Next up: Hope House, Leeds on Fri 20 Nov.
 
 ## Upcoming shows
 

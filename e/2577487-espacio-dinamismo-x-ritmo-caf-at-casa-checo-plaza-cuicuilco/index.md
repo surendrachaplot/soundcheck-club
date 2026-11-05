@@ -1,6 +1,6 @@
 # Espacio Dinamismo x Ritmo Café at Casa Checo - Plaza Cuicuilco
 
-Espacio Dinamismo x Ritmo Café at Casa Checo - Plaza Cuicuilco on Sat 21 Nov, Mexico City. 7 artists: chldrns, EM2K, Gallō and James Andrew and 3 more. See the line-up on soundcheck.
+Espacio Dinamismo x Ritmo Café at Casa Checo - Plaza Cuicuilco on Sat 21 Nov, Mexico City. 7 artists: chldrns, EM2K, Gallō and James Andrew and 3 more. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

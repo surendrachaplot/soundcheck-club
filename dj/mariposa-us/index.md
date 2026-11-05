@@ -1,14 +1,15 @@
 # Mariposa
 
-Mariposa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Announced day of , New York City on Sat, 14 Nov 2026.
+Mariposa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Announced day of , New York City on Sat, 14 Nov 2026.
 
-Mariposa is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Hamburg, Leipzig, New York City and Rotterdam and 1 more. Often billed alongside Perna, Ladiez Drink Free and Drupe Jam. Next up: TBA - Announced day of , New York City on Sat 14 Nov.
+Mariposa is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Hamburg, Leipzig, New York City and Rotterdam and 1 more. Often billed alongside Perna, Ladiez Drink Free and Drupe Jam. Next up: TBA - Announced day of , New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - Announced day of  | New York City |
+| Fri, 20 Nov 2026 | Good Room | New York City |
 | Sun, 22 Nov 2026 | public records | New York City |
 
 ## Recently played

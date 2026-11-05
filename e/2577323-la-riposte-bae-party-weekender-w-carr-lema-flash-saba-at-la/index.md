@@ -1,6 +1,6 @@
 # LA RIPOSTE: BAE PARTY WEEKENDER W/ carrà, Lema & Flash Saba at La Gare / Le Gore
 
-LA RIPOSTE: BAE PARTY WEEKENDER W/ carrà, Lema & Flash Saba at La Gare / Le Gore on Sat 14 Nov, Paris. 3 artists: carrà, Flash Saba and Lema. See the line-up on soundcheck.
+LA RIPOSTE: BAE PARTY WEEKENDER W/ carrà, Lema & Flash Saba at La Gare / Le Gore on Sat 14 Nov, Paris. 3 artists: carrà, Flash Saba and Lema. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

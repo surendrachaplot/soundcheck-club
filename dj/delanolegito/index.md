@@ -1,8 +1,8 @@
 # Delano Legito
 
-Delano Legito is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at KHIDI, Tbilisi on Fri, 6 Nov 2026.
+Delano Legito is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at KHIDI, Tbilisi on Fri, 6 Nov 2026.
 
-Delano Legito is a techno and house artist based in Netherlands, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Julie, Amotik and Serti. Next up: KHIDI, Tbilisi on Fri 6 Nov.
+Delano Legito is a techno and house artist based in Netherlands, with 110 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Julie, Amotik and Serti. Next up: KHIDI, Tbilisi on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Delano Legito is a techno and house artist based in Netherlands, with 109 gigs o
 | Fri, 6 Nov 2026 | KHIDI | Tbilisi |
 | Fri, 27 Nov 2026 | Astoria | Turin |
 | Sat, 5 Dec 2026 | Thuishaven | Amsterdam |
+| Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
 
 ## Recently played
 

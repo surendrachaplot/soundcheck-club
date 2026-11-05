@@ -13,7 +13,7 @@ Le Bain is a music venue in New York City listed on soundcheck. 7 upcoming gigs,
 | Sat, 7 Nov 2026 | Tony Humphries' RESIDENCY | Tony Humphries |
 | Sun, 8 Nov 2026 | PARADISCO FRIENDSGIVING | Occupy The Disco |
 | Thu, 12 Nov 2026 | White Label Yerba Mate 10 Year Anniversary | DREAMINSLOW, Juliana Huxtable, Sissies of Mercy |
-| Fri, 13 Nov 2026 | Omar Andino & Nog | Nog, Omar Andino |
+| Fri, 13 Nov 2026 | Omar Andino  | Nog, Omar Andino |
 | Sat, 14 Nov 2026 | NUA-ARTE X NULU MOVEMENT | Anane, La Santa (ES) |
 
 ## Address

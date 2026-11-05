@@ -1,6 +1,6 @@
-# TRANCE NXC: TOXE (live) + Word of Command + JUMER at Razzmatazz
+# Trance NXC: TOXE (live) + Word of Command + JUMER at Razzmatazz
 
-TRANCE NXC: TOXE (live) + Word of Command + JUMER at Razzmatazz on Fri 13 Nov, Barcelona. 3 artists: JUMER, TOXE and Word of Command. Trance and Experimental. See the line-up on soundcheck.
+Trance NXC: TOXE (live) + Word of Command + JUMER at Razzmatazz on Fri 13 Nov, Barcelona. 3 artists: JUMER, TOXE and Word of Command. Trance and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

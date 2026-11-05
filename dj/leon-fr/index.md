@@ -1,14 +1,15 @@
 # Leon (FR)
 
-Leon (FR) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
+Leon (FR) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
 
-Leon (FR) is a house and deep house artist based in France, with 33 gigs on soundcheck across Bali, Bangkok, Dubai and Frankfurt and 7 more. Often billed alongside Milam, Mo-Shi and Nino (FR). Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
+Leon (FR) is a house and deep house artist based in France, with 34 gigs on soundcheck across Bali, Bangkok, Dubai and Frankfurt and 7 more. Often billed alongside Milam, Mo-Shi and Nino (FR). Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Hong Kong Observation Wheel & AIA Vitality Park | Hong Kong |
+| Wed, 2 Dec 2026 | Æther BKK | Bangkok |
 
 ## Recently played
 

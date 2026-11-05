@@ -1,14 +1,15 @@
 # Dimanté
 
-Dimanté is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Z in Zimmermans, Cologne on Sat, 7 Nov 2026.
+Dimanté is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Z in Zimmermans, Cologne on Sat, 7 Nov 2026.
 
-Dimanté is a techno and tech house artist based in Ukraine, with 17 gigs on soundcheck across Cologne and London. Often billed alongside Any Koh, Enrico Chirchiello and Francesco Poggi. Next up: Club Z in Zimmermans, Cologne on Sat 7 Nov.
+Dimanté is a techno and house artist based in Ukraine, with 18 gigs on soundcheck across Cologne and London. Often billed alongside Any Koh, Enrico Chirchiello and Francesco Poggi. Next up: Club Z in Zimmermans, Cologne on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Club Z in Zimmermans | Cologne |
+| Sat, 21 Nov 2026 | Dear Darling | London |
 | Sat, 28 Nov 2026 | Upper East | London |
 
 ## Recently played

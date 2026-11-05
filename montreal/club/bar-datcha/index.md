@@ -15,7 +15,7 @@ Bar Datcha is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, 
 | Fri, 13 Nov 2026 | NAE, No Police , Shadya | No Police, Shadya |
 | Sat, 14 Nov 2026 | Fence Hop: MLLE CEE, Uyaz, Softwarewolfe, Ldriivy | MLLE CEE |
 | Thu, 19 Nov 2026 | PATRICK, 2FA, DJ Christmas | DJ Christmas |
-| Fri, 20 Nov 2026 | AFRODITE X BATIDA SOLTA: BADJUDA, Leon Suave, Mlle Cee, TRBL, Netto | BADJUDA |
+| Fri, 20 Nov 2026 | AFRODITE X BATIDA SOLTA: BADJUDA, Leon Suave, Mlle Cee, TRBLV, Netto | BADJUDA |
 | Sat, 21 Nov 2026 | Datcha NONSTOP: Plzrs invites Entrañas | Entrañas, JASHIM |
 | Thu, 26 Nov 2026 | Emil Paquin, Jamvvis, Donalda (live) | Emil Paquin, Jamvvis |
 

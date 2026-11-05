@@ -13,7 +13,7 @@ West Harlem is a music venue in Kyoto listed on soundcheck. 15 upcoming gigs, wi
 | Sat, 7 Nov 2026 | Light In Harlem - West Harlem 13th Anniversary - | KOTSU, Lomax, SOTA, YAMARCHY, kitapon |
 | Sun, 8 Nov 2026 | Headshop Kyoto |  |
 | Wed, 11 Nov 2026 | FMKS | Kross Section, sak (4) |
-| Fri, 13 Nov 2026 | Moonnlight QQ | Kaory |
+| Fri, 13 Nov 2026 | Moonnlight QQ | Kaory, tanitomo8 |
 | Sat, 14 Nov 2026 | ココロとカラダ　- West Harlem 13th Anniversary- | Abiu, COLA REN, Torei |
 | Sat, 14 Nov 2026 | ココロとカラダ- West Harlem 13th Anniversary |  |
 | Sun, 15 Nov 2026 | COIL 2nd ANNIV. PARTY | AOKI takamasa, JUN INAGAWA, KOTSU, Vís (1), innertraffic, kafuka, rimi |

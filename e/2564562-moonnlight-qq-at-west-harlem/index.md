@@ -1,6 +1,6 @@
 # Moonnlight QQ at West Harlem
 
-Moonnlight QQ at West Harlem on Fri 13 Nov, Kyoto. 1 artist: Kaory. House and Disco. See the line-up on soundcheck.
+Moonnlight QQ at West Harlem on Fri 13 Nov, Kyoto. 2 artists: Kaory and tanitomo8. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Moonnlight QQ at West Harlem on Fri 13 Nov, Kyoto. 1 artist: Kaory. House and Di
 ## Line-up
 
 - Kaory
+- tanitomo8
 
 *Source: [soundcheck](https://soundcheck.club/e/2564562-moonnlight-qq-at-west-harlem/)*

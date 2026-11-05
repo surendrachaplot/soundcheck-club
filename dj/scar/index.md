@@ -1,13 +1,14 @@
 # Scar
 
-Scar is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Viertel, Basel on Sat, 20 Mar 2027.
+Scar is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Abyss Shanghai, Shanghai on Fri, 6 Nov 2026.
 
-Scar is a techno and hardcore artist based in United Kingdom, with 41 gigs on soundcheck across Basel, Bristol, Glasgow and London and 5 more. Often billed alongside kso12, 1luu and Alicia (UK). Next up: Viertel, Basel on Sat 20 Mar.
+Scar is a techno and hardcore artist based in United Kingdom, with 42 gigs on soundcheck across Basel, Bristol, Glasgow and London and 5 more. Often billed alongside kso12, 1luu and Alicia (UK). Next up: Abyss Shanghai, Shanghai on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Abyss Shanghai | Shanghai |
 | Sat, 20 Mar 2027 | Viertel | Basel |
 
 ## Recently played

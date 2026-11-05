@@ -1,13 +1,15 @@
 # Miguel Silva
 
-Miguel Silva is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at KitKatClub, Berlin on Mon, 23 Nov 2026.
+Miguel Silva is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at City Hall, Barcelona on Sat, 7 Nov 2026.
 
-Miguel Silva is a techno and house artist based in Chile, with 122 gigs on soundcheck across Barcelona, Berlin, Bucharest and Ibiza and 5 more. Often billed alongside Elwei, Popsky and Djoan. Next up: KitKatClub, Berlin on Mon 23 Nov.
+Miguel Silva is a techno and house artist based in Chile, with 124 gigs on soundcheck across Barcelona, Berlin, Bucharest and Ibiza and 5 more. Often billed alongside Elwei, Popsky and Djoan. Next up: City Hall, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | City Hall | Barcelona |
+| Sat, 21 Nov 2026 | Süss War Gestern | Berlin |
 | Mon, 23 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played

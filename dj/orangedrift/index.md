@@ -2,7 +2,7 @@
 
 Orange Drift is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at objekt klein a, Dresden on Fri, 20 Nov 2026.
 
-Orange Drift is a techno and disco artist, with 7 gigs on soundcheck across Berlin, Dresden and Vienna. Often billed alongside Ciao 3lla, Mareia and Oberst & Buchner. Next up: objekt klein a, Dresden on Fri 20 Nov.
+Orange Drift is a techno and disco artist based in Austria, with 7 gigs on soundcheck across Berlin, Dresden and Vienna. Often billed alongside Ciao 3lla, Mareia and Oberst & Buchner. Next up: objekt klein a, Dresden on Fri 20 Nov.
 
 ## Upcoming shows
 

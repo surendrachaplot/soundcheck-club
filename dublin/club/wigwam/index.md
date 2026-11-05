@@ -1,8 +1,8 @@
 # Wigwam
 
-Wigwam is a music venue in Dublin with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Stacked x Sense: Soichi Terada (Live) & RIRIA" on Fri, 6 Nov 2026.
+Wigwam is a music venue in Dublin with 18 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Stacked x Sense: Soichi Terada (Live) & RIRIA" on Fri, 6 Nov 2026.
 
-Wigwam is a music venue in Dublin listed on soundcheck. 17 upcoming gigs, with line-ups including Boyd Schidt, Cailín, CULT and DIEBYVEG and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
+Wigwam is a music venue in Dublin listed on soundcheck. 18 upcoming gigs, with line-ups including Boyd Schidt, Cailín, CULT and DIEBYVEG and 2 more. See dates, start times and who's playing. 54 Abbey Street Middle, North City, Dublin, Ireland.
 
 ## What's on
 

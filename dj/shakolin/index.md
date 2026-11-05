@@ -1,14 +1,15 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location DTLA , Los Angeles on Fri, 6 Nov 2026.
+Shakolin is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location DTLA , Los Angeles on Fri, 6 Nov 2026.
 
-Shakolin is a house and techno artist based in Ukraine, with 117 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 33 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: TBA - Secret Location DTLA , Los Angeles on Fri 6 Nov.
+Shakolin is a house and techno artist based in Ukraine, with 118 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 33 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: TBA - Secret Location DTLA , Los Angeles on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - Secret Location DTLA  | Los Angeles |
+| Thu, 19 Nov 2026 | Fünk | Mexico City |
 | Fri, 27 Nov 2026 | UMI | Brussels |
 
 ## Recently played

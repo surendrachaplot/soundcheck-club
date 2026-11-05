@@ -1,8 +1,8 @@
 # Or:la
 
-Or:la is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais, London on Sat, 7 Nov 2026.
+Or:la is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais, London on Sat, 7 Nov 2026.
 
-Or:la is a techno and house artist based in Ireland, with 131 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: Palais, London on Sat 7 Nov.
+Or:la is a techno and house artist based in Ireland, with 132 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 32 more. Often billed alongside Amaliah, Pariah and Objekt. Next up: Palais, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Or:la is a techno and house artist based in Ireland, with 131 gigs on soundcheck
 | Sat, 7 Nov 2026 | Palais | London |
 | Sat, 14 Nov 2026 | RSO.BERLIN | Berlin |
 | Fri, 18 Dec 2026 | Soup | Manchester |
+| Thu, 31 Dec 2026 | Signal | New York City |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

@@ -1,6 +1,6 @@
-# M7 presenta [Up Room] AISHA, SuttleK & Mr. Danger [Main Room] Advirom, GNEIXX, GÜTI at M7 Club
+# M7 presenta [Up Room] AISHA, SuttleK & Mr. Danger [Main Room] Adviro, GNEIXX, GÜTI at M7 Club
 
-M7 presenta [Up Room] AISHA, SuttleK & Mr. Danger [Main Room] Advirom, GNEIXX, GÜTI at M7 Club on Sat 7 Nov, Barcelona. 4 artists: Adviro, AISHA, GNEIXX and SuttleK. Techno. See the line-up on soundcheck.
+M7 presenta [Up Room] AISHA, SuttleK & Mr. Danger [Main Room] Adviro, GNEIXX, GÜTI at M7 Club on Sat 7 Nov, Barcelona. 4 artists: Adviro, AISHA, GNEIXX and SuttleK. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Navid Izadi - Ayande (A Release party by IN BETWEEN, Rhonda INTL, & Elbow Grease) at TBA
 
-Navid Izadi - Ayande (A Release party by IN BETWEEN, Rhonda INTL, & Elbow Grease) at TBA on Fri 13 Nov, Los Angeles. 6 artists: Chase Aldridge, Dave Aju, Goddollars and Masha Mar and 2 more. See the line-up on soundcheck.
+Navid Izadi - Ayande (A Release party by IN BETWEEN, Rhonda INTL, & Elbow Grease) at TBA on Fri 13 Nov, Los Angeles. 7 artists: Chase Aldridge, Dave Aju, Goddollars and Masha Mar and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,5 +16,6 @@ Navid Izadi - Ayande (A Release party by IN BETWEEN, Rhonda INTL, & Elbow Grease
 - Masha Mar
 - SONNS
 - Stacy Christine
+- Things You Say
 
 *Source: [soundcheck](https://soundcheck.club/e/2569904-navid-izadi-ayande-a-release-party-by-in-between-rhonda-intl/)*

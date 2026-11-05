@@ -1,6 +1,6 @@
 # BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝 at WWW X
 
-BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝 at WWW X on Sat 21 Nov, Tokyo. 2 artists: Kuniyuki and Sleep D. Techno and House. See the line-up on soundcheck.
+BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝 at WWW X on Sat 21 Nov, Tokyo. 5 artists: FELINE (JP), Genki Tanaka, Gonno and Kuniyuki and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ BUTTER SESSIONS 15TH ANNIVERSARY TOKYO presented by GOLDEN 豪流伝 at WWW X on
 
 ## Line-up
 
+- FELINE (JP)
+- Genki Tanaka
+- Gonno
 - Kuniyuki
 - Sleep D
 

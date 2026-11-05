@@ -1,6 +1,6 @@
 # LIVING ROOM at Enter Shibuya
 
-LIVING ROOM at Enter Shibuya on Fri 6 Nov, Tokyo. 6 artists: DJ POIPOI, DJ Quietstorm, HIMAWARI and MILS and 2 more. House and Hip-Hop. See the line-up on soundcheck.
+LIVING ROOM at Enter Shibuya on Fri 6 Nov, Tokyo. 7 artists: DJ POIPOI, DJ Quietstorm, HIMAWARI and MILS and 3 more. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ LIVING ROOM at Enter Shibuya on Fri 6 Nov, Tokyo. 6 artists: DJ POIPOI, DJ Quiet
 - DJ Quietstorm
 - HIMAWARI
 - MILS
+- RUI HAYAKAWA
 - tamanaramen
 - West Ape
 

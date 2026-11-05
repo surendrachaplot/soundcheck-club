@@ -1,13 +1,14 @@
 # Anitë
 
-Anitë is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tirana Olympic Park, Tirana on Sat, 19 Dec 2026.
+Anitë is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Duel Club, Naples on Fri, 13 Nov 2026.
 
-Anitë is a tech house and house artist based in Kosovo, with 14 gigs on soundcheck across Athens, Belgrade, Berlin and Brussels and 5 more. Often billed alongside Always Late, John Bowtie and Jonn. Next up: Tirana Olympic Park, Tirana on Sat 19 Dec.
+Anitë is a tech house and house artist based in Kosovo, with 15 gigs on soundcheck across Athens, Belgrade, Berlin and Brussels and 6 more. Often billed alongside Always Late, John Bowtie and Jonn. Next up: Duel Club, Naples on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Duel Club | Naples |
 | Sat, 19 Dec 2026 | Tirana Olympic Park | Tirana |
 
 ## Recently played

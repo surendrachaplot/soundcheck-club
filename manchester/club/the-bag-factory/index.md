@@ -14,7 +14,7 @@ The Bag Factory is a music venue in Manchester listed on soundcheck. 8 upcoming 
 | Fri, 20 Nov 2026 | Digitise x Bag Factory – Macker, Nick Charles, Lilyn & Vulcan | Lilyn, Nick Charles |
 | Thu, 26 Nov 2026 | No Weekends Wasted: LIVE 001 | Hello From Ben |
 | Fri, 27 Nov 2026 | foxtrot romeo presents: Geek Chic |  |
-| Sun, 29 Nov 2026 | MAGENTA 001 |  |
+| Sun, 29 Nov 2026 | MAGENTA 001 | LYZANDER, Qwirk |
 | Thu, 10 Dec 2026 | HiPNOTiC Vol.1 | Madelaine Jemine |
 
 ## Address

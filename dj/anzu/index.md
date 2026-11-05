@@ -1,8 +1,8 @@
 # ANZU
 
-ANZU is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Sat, 7 Nov 2026.
+ANZU is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Sat, 7 Nov 2026.
 
-ANZU is a house and techno artist based in Japan, with 74 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SIGNAL (JP). Next up: BRAND SHIBUYA, Tokyo on Sat 7 Nov.
+ANZU is a house and techno artist based in Japan, with 75 gigs on soundcheck across Tokyo. Often billed alongside Yamariki, PUNK N MATRIX and SIGNAL (JP). Next up: BRAND SHIBUYA, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ ANZU is a house and techno artist based in Japan, with 74 gigs on soundcheck acr
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | BRAND SHIBUYA | Tokyo |
 | Sat, 21 Nov 2026 | WOMB | Tokyo |
+| Sat, 28 Nov 2026 | Yodo Groove (Yodobashi Ikebukuro) | Tokyo |
 
 ## Recently played
 

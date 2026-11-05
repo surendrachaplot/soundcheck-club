@@ -1,6 +1,6 @@
 # Culture Shock at Concorde 2
 
-Culture Shock at Concorde 2 on Sat 21 Nov, Brighton. 1 artist: Culture Shock. See the line-up on soundcheck.
+Culture Shock at Concorde 2 on Sat 21 Nov, Brighton. 1 artist: Culture Shock. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

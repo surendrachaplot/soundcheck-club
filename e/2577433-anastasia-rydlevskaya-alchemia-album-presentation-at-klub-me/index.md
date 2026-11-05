@@ -1,6 +1,6 @@
 # Anastasia Rydlevskaya - ALCHEMIA album presentation at Klub Mechanik
 
-Anastasia Rydlevskaya - ALCHEMIA album presentation at Klub Mechanik on Sun 20 Dec, Warsaw. 1 artist: Anastasia Rydlevskaya. See the line-up on soundcheck.
+Anastasia Rydlevskaya - ALCHEMIA album presentation at Klub Mechanik on Sun 20 Dec, Warsaw. 1 artist: Anastasia Rydlevskaya. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

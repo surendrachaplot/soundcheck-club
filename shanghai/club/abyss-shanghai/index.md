@@ -1,18 +1,18 @@
 # Abyss Shanghai
 
-Abyss Shanghai is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Techno Terror w. Schwefelgelb[N-PLEX] (HYBRID)" on Fri, 30 Oct 2026.
+Abyss Shanghai is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "FāQ: 2 Years Anniversary w. Jovynn" on Fri, 6 Nov 2026.
 
-Abyss Shanghai is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with line-ups including DISCIPLINE, DJ EBP, Ma Haiping and NAXIN and 2 more. See dates, start times and who's playing. B1, TX Huaihai Youth Center, No.523-527, Huaihai Road, Huangpu District, Shanghai, China.
+Abyss Shanghai is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with line-ups including DISCIPLINE, DJ Tallboy, Fischmonger and Hazel and 2 more. See dates, start times and who's playing. B1, TX Huaihai Youth Center, No.523-527, Huaihai Road, Huangpu District, Shanghai, China.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Techno Terror w. Schwefelgelb[N-PLEX] (HYBRID) | Ma Haiping, NAXIN, Schwefelgelb |
-| Sat, 31 Oct 2026 | FACELESS MASQUERADE w.OLHA[DRIFTKYIV] | DISCIPLINE, DJ EBP, OLHA |
+| Fri, 6 Nov 2026 | FāQ: 2 Years Anniversary w. Jovynn | DISCIPLINE, Hazel, SHU (2), Scar |
+| Sat, 7 Nov 2026 | YUCI pres. TALLBOY | DJ Tallboy, Fischmonger |
 
 ## Address
 
 B1, TX Huaihai Youth Center, No.523-527, Huaihai Road, Huangpu District, Shanghai, China, Shanghai
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/abyss-shanghai/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/abyss-shanghai/)*

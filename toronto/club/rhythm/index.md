@@ -1,8 +1,8 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Long Play: Daniel Caesar" on Thu, 5 Nov 2026.
+Rhythm is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Long Play: Daniel Caesar" on Thu, 5 Nov 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Ankathesia, Arapu, Barbara Preisinger and Burnin' Vernon and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Ankathesia, Arapu, Barbara Preisinger and Burnin' Vernon and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 

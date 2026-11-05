@@ -11,7 +11,7 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, 
 | Fri, 6 Nov 2026 | HeyCiao, Vacanza! #15 | :MUMM, BBetriebswirt, Bertha, Brückmann, KRUE, MATHILDA (2), dj_kareless, raoul victor |
 | Sat, 7 Nov 2026 | 5YEARS PRAXIS13.5 | CAVEN, Humanoizer, Hypnosta, MOFS, Malena (2), Maze DK, NACHTIGALL, Napakee, Neptune, Regent |
 | Wed, 11 Nov 2026 | between x Vernetzt Leipzig |  |
-| Fri, 13 Nov 2026 | made2fade |  |
+| Fri, 13 Nov 2026 | made2fade [secret lineup, 10€ entry] |  |
 | Sat, 14 Nov 2026 | Neurotherapy |  |
 | Tue, 17 Nov 2026 | SUBØHM x eli pres. Lola Cerise | DJ STIMULA, DYNASTY, KREONE, Lola Cerise, Mascha Roth, SubkoØne |
 | Fri, 20 Nov 2026 | soft & HARD CRUSH | Cat-J, DYNASTY, KETA PERRY, LYZI, PyjamaMama, meowmeyer |

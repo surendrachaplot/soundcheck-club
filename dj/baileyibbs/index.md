@@ -1,8 +1,8 @@
 # Bailey Ibbs
 
-Bailey Ibbs is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 7 Nov 2026.
+Bailey Ibbs is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 7 Nov 2026.
 
-Bailey Ibbs is a techno and house artist based in United Kingdom, with 176 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 54 more. Often billed alongside JKS, Paige (Night Service) and future.666. Next up: Tresor.West, Dortmund / Essen on Sat 7 Nov.
+Bailey Ibbs is a techno and house artist based in United Kingdom, with 177 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belfast and 54 more. Often billed alongside JKS, Paige (Night Service) and future.666. Next up: Tresor.West, Dortmund / Essen on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bailey Ibbs is a techno and house artist based in United Kingdom, with 176 gigs 
 | Sat, 7 Nov 2026 | Tresor.West | Dortmund / Essen |
 | Sun, 8 Nov 2026 | BRET | Amsterdam |
 | Sat, 21 Nov 2026 | Liquid Club | Malta |
+| Fri, 4 Dec 2026 | Fuse | Brussels |
 | Fri, 11 Dec 2026 | Tresor / Globus | Berlin |
 | Sat, 12 Dec 2026 | Valsemøllen | Bergen |
 | Thu, 31 Dec 2026 | ://about blank | Berlin |

@@ -1,6 +1,6 @@
 # TRANSMISSION: Chucheewa (Thailand) at Casual
 
-TRANSMISSION: Chucheewa (Thailand) at Casual on Sat 7 Nov, Hong Kong. 3 artists: CASAMUSICA, Chucheewa and Zora Chan. Deep House and Acid. See the line-up on soundcheck.
+TRANSMISSION: Chucheewa (Thailand) at Casual on Sat 7 Nov, Hong Kong. 3 artists: CASAMUSICA, Chucheewa and Zora Chan. Acid and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

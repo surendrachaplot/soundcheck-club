@@ -2,7 +2,7 @@
 
 Internal Observer is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Dom Technika, Poznan on Fri, 13 Nov 2026.
 
-Internal Observer is a techno and electronica artist based in Poland, with 5 gigs on soundcheck across Poznan and Warsaw. Often billed alongside Nightfall, Private Press and Slowmode. Next up: Dom Technika, Poznan on Fri 13 Nov.
+Internal Observer is a techno and electronica artist based in Poland, with 5 gigs on soundcheck across Poznan and Warsaw. Often billed alongside Nightfall, Kata (PL) and Private Press. Next up: Dom Technika, Poznan on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,6 @@ Internal Observer is a techno and electronica artist based in Poland, with 5 gig
 
 ## Shares bills with
 
-Nightfall, Private Press, Slowmode
+Nightfall, Kata (PL), Private Press
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/internalobserver/)*

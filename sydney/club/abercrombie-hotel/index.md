@@ -10,7 +10,7 @@ Abercrombie Hotel is a music venue in Sydney listed on soundcheck. 10 upcoming g
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Abercrombie Pres. Ciel [Canada] | Ciel, Tangela |
 | Fri, 20 Nov 2026 | MONDE SONIQ | Kassita, LEGGY, masheen, nulty |
-| Sat, 21 Nov 2026 | Abercrombie Pres. GABRIELLE KWARTANG [USA] | Gabrielle Kwarteng |
+| Sat, 21 Nov 2026 | Abercrombie Pres. GABRIELLE KWARTENG [USA] | Gabrielle Kwarteng |
 | Fri, 27 Nov 2026 | Abercrombie Pres. BASHKKA [DE] & JakoJako [DE] | BASHKKA, JakoJako |
 | Fri, 4 Dec 2026 | Abercrombie Pres. Olivia Mendez [FRA] | Olivia Mendez |
 | Sat, 5 Dec 2026 | Abercrombie Pres. Ploy [UK] | Ploy |

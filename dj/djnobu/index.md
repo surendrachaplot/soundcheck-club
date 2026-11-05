@@ -1,8 +1,8 @@
 # DJ Nobu
 
-DJ Nobu is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mago, Chubu on Sat, 7 Nov 2026.
+DJ Nobu is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mago, Chubu on Sat, 7 Nov 2026.
 
-DJ Nobu is a techno and house artist based in Japan, with 254 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 71 more. Often billed alongside Wata Igarashi, DVS1 and Gabrielle Kwarteng. Next up: Mago, Chubu on Sat 7 Nov.
+DJ Nobu is a techno and house artist based in Japan, with 255 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 71 more. Often billed alongside Wata Igarashi, DVS1 and Gabrielle Kwarteng. Next up: Mago, Chubu on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ DJ Nobu is a techno and house artist based in Japan, with 254 gigs on soundcheck
 | Sat, 28 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 11 Dec 2026 | Drugstore Beograd | Belgrade |
 | Sat, 12 Dec 2026 | FOLD | London |
+| Fri, 18 Dec 2026 | control | Bucharest |
 | Sat, 19 Dec 2026 | CLUB RAUM | Amsterdam |
 | Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
 

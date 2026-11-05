@@ -1,14 +1,13 @@
 # Rokko
 
-Rokko is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Freedonia, Barcelona on Sat, 7 Nov 2026.
+Rokko is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mercati Generali, Sicily on Sat, 14 Nov 2026.
 
-Rokko is a techno and electronica artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Barcelona, Karlsruhe and Munich and 2 more. Often billed alongside TRAFFK, PABLØ (DE) and Arc Mode. Next up: Freedonia, Barcelona on Sat 7 Nov.
+Rokko is a techno artist based in Germany, with 10 gigs on soundcheck across Amsterdam, Karlsruhe, Munich and Rotterdam and 1 more. Often billed alongside TRAFFK, PABLØ (DE) and Arc Mode. Next up: Mercati Generali, Sicily on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Freedonia | Barcelona |
 | Sat, 14 Nov 2026 | Mercati Generali | Sicily |
 
 ## Recently played

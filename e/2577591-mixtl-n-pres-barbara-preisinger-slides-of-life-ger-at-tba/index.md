@@ -1,6 +1,6 @@
 # Mixtlán Pres. Barbara Preisinger (slides of life/Ger) at TBA
 
-Mixtlán Pres. Barbara Preisinger (slides of life/Ger) at TBA on Sat 21 Nov, Mexico City. 3 artists: Barbara Preisinger, Itza Chacón and Oliverio Segura. See the line-up on soundcheck.
+Mixtlán Pres. Barbara Preisinger (slides of life/Ger) at TBA on Sat 21 Nov, Mexico City. 3 artists: Barbara Preisinger, Itza Chacón and Oliverio Segura. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

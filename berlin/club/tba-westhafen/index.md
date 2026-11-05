@@ -9,6 +9,6 @@ TBA - Westhafen is a music venue in Berlin listed on soundcheck. 2 upcoming gigs
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | WESTHAFENSOLI w. Pavelo Promillo & Giorgio Inkasso, Carls8erg, FELGENTEUFEL666 | Dr Subwoofer, FELGENTEUFEL666, JUICY-I, Lisatrix, Mad Son, Marcie (2), Masca_, Pavelo Promillo, Repthiloid, Stoshka |
-| Fri, 27 Nov 2026 | zauberhaft! Vol. 6 | Anne-Sophie Selig, CEEE, Der olle Kramer, Fabian Fischbach, MARIE CLAIRE, tzunamic |
+| Fri, 27 Nov 2026 | zauberhaft! Vol. 6 (secret location) | Anne-Sophie Selig, CEEE, Der olle Kramer, Fabian Fischbach, MARIE CLAIRE, tzunamic |
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-westhafen/)*

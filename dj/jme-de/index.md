@@ -10,7 +10,7 @@ JME is a grime and garage artist based in United Kingdom, with 10 gigs on soundc
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Cause | London |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
-| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
+| Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
 
 ## Recently played
 

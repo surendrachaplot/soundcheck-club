@@ -1,13 +1,14 @@
 # Ana Cmp
 
-Ana Cmp is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Armazem Solon, Sao Paulo on Sat, 28 Nov 2026.
+Ana Cmp is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bar de Escuta, Rio de Janeiro on Fri, 6 Nov 2026.
 
-Ana Cmp is a house and disco artist based in Brazil, with 18 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gop Tun DJs, Kair and Capetini. Next up: Armazem Solon, Sao Paulo on Sat 28 Nov.
+Ana Cmp is a house and disco artist based in Brazil, with 19 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gop Tun DJs, Kair and Capetini. Next up: Bar de Escuta, Rio de Janeiro on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Bar de Escuta | Rio de Janeiro |
 | Sat, 28 Nov 2026 | Armazem Solon | Sao Paulo |
 
 ## Recently played

@@ -1,15 +1,17 @@
 # Ian Maur
 
-Ian Maur is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at La Gare / Le Gore, Paris on Thu, 5 Nov 2026.
+Ian Maur is a Techno and Ambient artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at La Gare / Le Gore, Paris on Thu, 5 Nov 2026.
 
-Ian Maur is a techno and ambient artist based in France, with 60 gigs on soundcheck across Berlin, Bordeaux and Paris. Often billed alongside Sklaer, Ben Hamama and Lefblom. Next up: La Gare / Le Gore, Paris on Thu 5 Nov.
+Ian Maur is a techno and ambient artist based in France, with 62 gigs on soundcheck across Berlin, Bordeaux and Paris. Often billed alongside Sklaer, Ben Hamama and Lefblom. Next up: La Gare / Le Gore, Paris on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | La Gare / Le Gore | Paris |
+| Thu, 12 Nov 2026 | La Gare / Le Gore | Paris |
 | Thu, 19 Nov 2026 | La Gare / Le Gore | Paris |
+| Thu, 26 Nov 2026 | La Gare / Le Gore | Paris |
 
 ## Recently played
 

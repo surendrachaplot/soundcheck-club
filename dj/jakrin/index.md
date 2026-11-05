@@ -11,7 +11,7 @@ JAKRIN is a techno and house artist based in Thailand, with 83 gigs on soundchec
 | Fri, 6 Nov 2026 | Dual | Bangkok |
 | Sat, 7 Nov 2026 | Bar Temp. | Bangkok |
 | Sat, 14 Nov 2026 | Dual | Bangkok |
-| Thu, 26 Nov 2026 | Culture Cafe | Bangkok |
+| Wed, 25 Nov 2026 | Culture Cafe | Bangkok |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played

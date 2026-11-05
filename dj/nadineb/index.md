@@ -1,13 +1,14 @@
 # Nadine B
 
-Nadine B is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
+Nadine B is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
 
-Nadine B is a techno and progressive house artist based in Lebanon, with 17 gigs on soundcheck across Sydney. Often billed alongside LIIA, PAPCO and Aaiste. Next up: Carousel Bar & Ballroom, Sydney on Fri 27 Nov.
+Nadine B is a techno and progressive house artist based in Lebanon, with 18 gigs on soundcheck across Sydney. Often billed alongside LIIA, PAPCO and Aaiste. Next up: Carousel Bar & Ballroom, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Carousel Bar & Ballroom | Sydney |
 | Fri, 27 Nov 2026 | Carousel Bar & Ballroom | Sydney |
 
 ## Recently played

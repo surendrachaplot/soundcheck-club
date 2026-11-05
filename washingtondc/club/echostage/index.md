@@ -12,7 +12,7 @@ Echostage is a music venue in Washington DC listed on soundcheck. 21 upcoming gi
 | Sat, 7 Nov 2026 | Madeon (Live) with Anamanaguchi |  |
 | Fri, 13 Nov 2026 | Brutalismus 3000 w/ Boys Noize, pluko, 10cust, Gabberbitch69 b2b HissyFit | 10cust, Boys Noize, Brutalismus 3000, Gabberbitch69, Hissy Fit |
 | Fri, 20 Nov 2026 | Eric Prydz w/ Cristoph, Glusko | Cristoph, Eric Prydz, Glusko |
-| Sat, 21 Nov 2026 | Alison Wonderland presents: LET THEM RAVE |  |
+| Sat, 21 Nov 2026 | Alison Wonderland w/ MEMBA, SPORTMODE, Despi |  |
 | Sat, 28 Nov 2026 | Loud Luxury w/ AVELLO, Fortune Favor |  |
 | Fri, 4 Dec 2026 | Max Styler (Extended Set) w/ Discip, MISHA | Max Styler |
 | Sat, 12 Dec 2026 | Bassrush: Daily Bread with Steller, Motifv |  |

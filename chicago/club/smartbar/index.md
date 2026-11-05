@@ -1,8 +1,8 @@
 # smartbar
 
-smartbar is a music venue in Chicago with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Tinzo & Jojo - DJ Lady D" on Fri, 6 Nov 2026.
+smartbar is a music venue in Chicago with 22 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Tinzo & Jojo - DJ Lady D" on Fri, 6 Nov 2026.
 
-smartbar is a music venue in Chicago listed on soundcheck. 17 upcoming gigs, with line-ups including AMR*, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
+smartbar is a music venue in Chicago listed on soundcheck. 22 upcoming gigs, with line-ups including AMR*, Ariel Zetina, Brenda and Cashu and 2 more. See dates, start times and who's playing. 3730 N. Clark St; Chicago, IL 60613; United States.
 
 ## What's on
 

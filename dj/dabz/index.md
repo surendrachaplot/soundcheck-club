@@ -1,13 +1,14 @@
 # Dabz
 
-Dabz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Flash, Washington DC on Sat, 7 Nov 2026.
+Dabz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Thu, 5 Nov 2026.
 
-Dabz is a house and techno artist based in United States of America, with 16 gigs on soundcheck across Washington DC. Often billed alongside Yasseen, G.E.N.E. and Jus Nowhere. Next up: Flash, Washington DC on Sat 7 Nov.
+Dabz is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Washington DC. Often billed alongside Yasseen, G.E.N.E. and Jus Nowhere. Next up: Eighteenth Street Lounge (ESL), Washington DC on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Sat, 7 Nov 2026 | Flash | Washington DC |
 
 ## Recently played

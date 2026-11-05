@@ -1,6 +1,6 @@
 # Blue Balls: Kink at Cafe-Gallery
 
-Blue Balls: Kink at Cafe-Gallery on Sat 21 Nov, Tbilisi. 2 artists: Obri and Windy. Techno and Electro. See the line-up on soundcheck.
+Blue Balls: Kink at Cafe-Gallery on Sat 21 Nov, Tbilisi. 3 artists: KAKI (GE), Obri and Windy. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Blue Balls: Kink at Cafe-Gallery on Sat 21 Nov, Tbilisi. 2 artists: Obri and Win
 
 ## Line-up
 
+- KAKI (GE)
 - Obri
 - Windy
 

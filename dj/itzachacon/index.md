@@ -1,14 +1,15 @@
 # Itza Chacón
 
-Itza Chacón is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Mexico-city on Sat, 21 Nov 2026.
+Itza Chacón is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Mexico-city on Sat, 21 Nov 2026.
 
-Itza Chacón is a house and minimal artist based in Mexico, with 62 gigs on soundcheck across Mexico City. Often billed alongside Ernest Duke, Mejia and Itzvan. Next up: TBA, Mexico City on Sat 21 Nov.
+Itza Chacón is a house and minimal artist based in Mexico, with 63 gigs on soundcheck across Mexico City. Often billed alongside Ernest Duke, Mejia and Itzvan. Next up: TBA, Mexico City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA | Mexico-city |
+| Sat, 21 Nov 2026 | TBA - Recibe la ubicación con la compra de tu ticket | Mexico City |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # MOTHERSHIP Full Moon Edition at Lisboa Rio
 
-MOTHERSHIP Full Moon Edition at Lisboa Rio on Wed 25 Nov, Lisbon. Trance. See the line-up on soundcheck.
+MOTHERSHIP Full Moon Edition at Lisboa Rio on Wed 25 Nov, Lisbon. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

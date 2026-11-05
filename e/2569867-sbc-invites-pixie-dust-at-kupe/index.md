@@ -1,6 +1,6 @@
 # SBC - Invites Pixie Dust at Купе / Kupe
 
-SBC - Invites Pixie Dust at Купе / Kupe on Fri 13 Nov, Sofia. 3 artists: Egor Sintsoff, NERONE and Pixie Dust. Trance and Techno. See the line-up on soundcheck.
+SBC - Invites Pixie Dust at Купе / Kupe on Fri 13 Nov, Sofia. 4 artists: Egor Sintsoff, ELYASA, NERONE and Pixie Dust. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SBC - Invites Pixie Dust at Купе / Kupe on Fri 13 Nov, Sofia. 3 artists: Ego
 ## Line-up
 
 - Egor Sintsoff
+- ELYASA
 - NERONE (2)
 - Pixie Dust
 

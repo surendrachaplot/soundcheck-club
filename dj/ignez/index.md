@@ -1,8 +1,8 @@
 # Ignez
 
-Ignez is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Ignez is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-Ignez is a techno and house artist based in Netherlands, with 239 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 74 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
+Ignez is a techno and house artist based in Netherlands, with 240 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 74 more. Often billed alongside Yanamaste, Rødhåd and Alarico. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 

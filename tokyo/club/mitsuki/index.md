@@ -8,7 +8,7 @@ Mitsuki is a music venue in Tokyo listed on soundcheck. 10 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | APEPA/NOB/tzbasa | APEPA, NOB (1) |
+| Thu, 5 Nov 2026 | APEPA/NOB/tzbasa | APEPA, DJ NOB |
 | Fri, 6 Nov 2026 | MAXIMUM JOY | MAYUDEPTH, Mars89, RRRKRTA, akii |
 | Fri, 6 Nov 2026 | MAXIMUM JOY | MAYUDEPTH, Mars89, RRRKRTA |
 | Sat, 7 Nov 2026 | MOVE ムーブ | Al Jones, Alex Neri, GAKUTO(TOKYO), Gonno |

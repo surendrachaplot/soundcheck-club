@@ -1,6 +1,6 @@
-# No Squares at TBA - IYKYK 
+# NO SQUARES at TBA - IYKYK 
 
-No Squares at TBA - IYKYK  on Sat 14 Nov, Los Angeles. 1 artist: Force Placement. House and Deep House. See the line-up on soundcheck.
+NO SQUARES at TBA - IYKYK  on Sat 14 Nov, Los Angeles. 1 artist: Force Placement. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

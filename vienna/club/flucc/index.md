@@ -10,7 +10,7 @@ FLUCC is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with li
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | up/or w/ NEXUS (live) k means (dj) SAMI (dj) DJ Fred (dj) zey (dj) | Nexus, Sami, k means, zey |
 | Fri, 6 Nov 2026 | IM FREUDENTAUMEL | Glitzer und Bass, Kollektiv Sheesh, Scheibosan |
-| Sat, 7 Nov 2026 | KLUB PALESTINE | MAH MOOD, Rakans |
+| Sat, 7 Nov 2026 | KLUB PALESTINE | MAH MOOD, Rakans, Sherine Falasteen |
 | Sat, 7 Nov 2026 | Pomelo  Little beat More x Cafe Mondo x Urlaub in Jazzolo |  |
 | Fri, 13 Nov 2026 | deep cut & Dark Pressure feat. Oxygeno - Hypnotic & Deep Techno | Aura Live, MELIMEKO, Oxygeno |
 | Fri, 13 Nov 2026 | deep cut & dark pressure | Aura, MELIMEKO, Oxygeno |

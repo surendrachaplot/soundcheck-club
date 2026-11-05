@@ -1,6 +1,6 @@
 # Biodiversity at Hope House
 
-Biodiversity at Hope House on Fri 20 Nov, Leeds. 1 artist: Joe FM. See the line-up on soundcheck.
+Biodiversity at Hope House on Fri 20 Nov, Leeds. 1 artist: Joe FM. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

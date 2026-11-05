@@ -8,7 +8,7 @@ Georgia Bar is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, wi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | EYES DICE |  |
+| Thu, 5 Nov 2026 | EYES DICE | Eyesdice |
 | Thu, 5 Nov 2026 | Eyes Dice All Night Long | Eyesdice |
 | Fri, 6 Nov 2026 | NAD RAGER & SAHIL AIRY |  |
 | Sat, 7 Nov 2026 | Everything is O.K. Collective presents MiiSCHA, Tomasz Guiddo & Radial Gaze (SPECIAL GUEST) | Guiddo, MiiSCHA, Radial Gaze |

@@ -1,6 +1,6 @@
 # En Masse x Sawmills: Helena Hauff b2b Batu, Barker (live), i-sha + more at Sawmills
 
-En Masse x Sawmills: Helena Hauff b2b Batu, Barker (live), i-sha + more on Sat 14 Nov, Bristol. 5 artists: Barker, Batu, Helena Hauff and i-sha and 1 more. Techno and Dub Techno. See the line-up on soundcheck.
+En Masse x Sawmills: Helena Hauff b2b Batu, Barker (live), i-sha + more on Sat 14 Nov, Bristol. 6 artists: Aba Shanti-I, Barker, Batu and Helena Hauff and 2 more. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ En Masse x Sawmills: Helena Hauff b2b Batu, Barker (live), i-sha + more on Sat 1
 
 ## Line-up
 
+- Aba Shanti-I
 - Barker
 - Batu
 - Helena Hauff

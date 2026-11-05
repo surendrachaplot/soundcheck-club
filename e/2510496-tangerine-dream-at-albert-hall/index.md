@@ -1,6 +1,6 @@
 # Tangerine Dream at Albert Hall
 
-Tangerine Dream at Albert Hall on Wed 3 Feb, Manchester. 1 artist: Tangerine Dream. See the line-up on soundcheck.
+Tangerine Dream at Albert Hall on Wed 3 Feb, Manchester. 1 artist: Tangerine Dream. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

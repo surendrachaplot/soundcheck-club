@@ -1,13 +1,14 @@
 # Yoel
 
-Yoel is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
+Yoel is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at RO Seoul, Seoul on Fri, 6 Nov 2026.
 
-Yoel is a techno and electro artist based in South Korea, with 45 gigs on soundcheck across Bangkok, Hong Kong and Seoul. Often billed alongside Kyuchan, chani and Minkyu. Next up: Modeci, Seoul on Thu 12 Nov.
+Yoel is a techno and electro artist based in South Korea, with 46 gigs on soundcheck across Bangkok, Hong Kong and Seoul. Often billed alongside Kyuchan, chani and Minkyu. Next up: RO Seoul, Seoul on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | RO Seoul | Seoul |
 | Thu, 12 Nov 2026 | Modeci | Seoul |
 | Thu, 12 Nov 2026 | Modeci | Seoul |
 

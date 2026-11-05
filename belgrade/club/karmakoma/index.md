@@ -1,8 +1,8 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Luton & Šćepa Live, intro by Knower" on Fri, 6 Nov 2026.
+Karmakoma is a music venue in Belgrade with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Luton & Šćepa Live, intro by Knower" on Fri, 6 Nov 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, with line-ups including Ali Guney, Aneri, Ben UFO and Cormac and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, with line-ups including Ali Guney, Aneri, Ben UFO and Cormac and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
@@ -15,7 +15,7 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, w
 | Sat, 14 Nov 2026 | Lena Willikens, tsola | Lena Willikens, tsola |
 | Fri, 20 Nov 2026 | Još Gori Live - Day 1 |  |
 | Sat, 21 Nov 2026 | Još Gori Live - Day 2 |  |
-| Sat, 21 Nov 2026 | Mindless |  |
+| Sat, 21 Nov 2026 | Mindless 21/11 |  |
 | Thu, 26 Nov 2026 | Rouzi LIVE feat. RADAR Crew |  |
 | Fri, 27 Nov 2026 | Kedr Livanskiy | Kedr Livanskiy |
 

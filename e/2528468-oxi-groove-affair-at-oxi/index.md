@@ -1,10 +1,10 @@
 # OXI GROOVE AFFAIR at OXI
 
-OXI GROOVE AFFAIR on Sat 26 Dec, Berlin. House and Disco. See the line-up on soundcheck.
+OXI GROOVE AFFAIR on Fri 11 Dec, Berlin. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 26 Dec 2026 |
+| Date | Fri, 11 Dec 2026 |
 | Venue | OXI |
 | City | Berlin |
 

@@ -1,8 +1,8 @@
 # Kastel
 
-Kastel is a music venue in Istanbul with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "BATIKAN ABIZ - ANALOG CONTEXT - EMIR EFE KARAATLI + FATE" on Fri, 6 Nov 2026.
+Kastel is a music venue in Istanbul with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "BATIKAN ABIZ - ANALOG CONTEXT - EMIR EFE KARAATLI + FATE" on Fri, 6 Nov 2026.
 
-Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with line-ups including Adana Twins, Batıkan Abız, Dixon and Gunes Ergun and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
+Kastel is a music venue in Istanbul listed on soundcheck. 8 upcoming gigs, with line-ups including Adana Twins, Batıkan Abız, Dixon and Gunes Ergun and 2 more. See dates, start times and who's playing. Huseyinaga, Kamer Hatun Cd. No:10, 34435 Beyoglu/Istanbul, Turkey.
 
 ## What's on
 
@@ -15,6 +15,7 @@ Kastel is a music venue in Istanbul listed on soundcheck. 7 upcoming gigs, with 
 | Fri, 20 Nov 2026 | Adana Twins | Adana Twins |
 | Sat, 28 Nov 2026 | Dixon /  20 YEARS OF Beatgate / Kastel  | Dixon, Volkan Gunduz |
 | Fri, 11 Dec 2026 | Township Rebellion | Township Rebellion |
+| Sat, 19 Dec 2026 | Juan Hansen (LIVE) | Juan Hansen |
 
 ## Address
 

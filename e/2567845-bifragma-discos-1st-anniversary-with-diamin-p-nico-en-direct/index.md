@@ -1,6 +1,6 @@
 # Bifragma Discos - 1st Anniversary with Diamin - Pánico en directo - Agustín Barbei - Ulises at TBA - Somewhere in Barcelona
 
-Bifragma Discos - 1st Anniversary with Diamin - Pánico en directo - Agustín Barbei - Ulises at TBA - Somewhere in Barcelona on Sat 21 Nov, Barcelona. 3 artists: AGUSTIN BARBEI, Diamin and Ulises. Acid and Electro. See the line-up on soundcheck.
+Bifragma Discos - 1st Anniversary with Diamin - Pánico en directo - Agustín Barbei - Ulises at TBA - Somewhere in Barcelona on Sat 21 Nov, Barcelona. 3 artists: AGUSTIN BARBEI, Diamin and Ulises. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

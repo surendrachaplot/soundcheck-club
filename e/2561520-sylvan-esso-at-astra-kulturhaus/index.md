@@ -1,6 +1,6 @@
 # Sylvan Esso at Astra Kulturhaus
 
-Sylvan Esso at Astra Kulturhaus on Wed 3 Feb, Berlin. 1 artist: Sylvan Esso. See the line-up on soundcheck.
+Sylvan Esso at Astra Kulturhaus on Wed 3 Feb, Berlin. 1 artist: Sylvan Esso. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

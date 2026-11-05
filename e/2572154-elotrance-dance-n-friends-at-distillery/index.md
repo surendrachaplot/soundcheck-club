@@ -1,6 +1,6 @@
 # ELOTRANCE × DANCE 'N FRIENDS at Distillery
 
-ELOTRANCE × DANCE 'N FRIENDS at Distillery on Sat 28 Nov, Leipzig. 8 artists: 50PHIE, Andreas Eckhardt, CARGO and DJ SeXex and 4 more. Trance and Techno. See the line-up on soundcheck.
+ELOTRANCE × DANCE 'N FRIENDS at Distillery on Sat 28 Nov, Leipzig. 9 artists: 50PHIE, Andreas Eckhardt, CARGO (DE) and DJ SeXex and 5 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,8 +12,9 @@ ELOTRANCE × DANCE 'N FRIENDS at Distillery on Sat 28 Nov, Leipzig. 8 artists: 5
 
 - 50PHIE
 - Andreas Eckhardt
-- CARGO
+- CARGO (DE)
 - DJ SeXex
+- DJ Sonnenbrand
 - DJ Zugzwang
 - Felix Schwarzenberger
 - I$A

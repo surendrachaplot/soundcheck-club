@@ -1,6 +1,6 @@
 # 80 KARATS • Gogo Gadgeto at Super7
 
-80 KARATS • Gogo Gadgeto at Super7 on Fri 6 Nov, Lyon. 1 artist: Gogo Gadgeto. See the line-up on soundcheck.
+80 KARATS • Gogo Gadgeto at Super7 on Fri 6 Nov, Lyon. 1 artist: Gogo Gadgeto. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

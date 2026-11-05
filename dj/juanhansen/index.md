@@ -1,14 +1,15 @@
 # Juan Hansen
 
-Juan Hansen is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 19 Dec 2026.
+Juan Hansen is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 19 Dec 2026.
 
-Juan Hansen is a techno and house artist based in Argentina, with 41 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brazil and 14 more. Often billed alongside Innellea, Amadori and Nick Varon. Next up: Uebel & Gefährlich, Hamburg on Sat 19 Dec.
+Juan Hansen is a techno and house artist based in Argentina, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brazil and 14 more. Often billed alongside Innellea, Amadori and Nick Varon. Next up: Uebel & Gefährlich, Hamburg on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | Uebel & Gefährlich | Hamburg |
+| Sat, 19 Dec 2026 | Kastel | Istanbul |
 | Mon, 4 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
 | Sat, 23 Jan 2027 | TBA - P12 Beach Club, Jurerê, Florianopolis | Brazil |
 

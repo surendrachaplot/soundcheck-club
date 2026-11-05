@@ -15,7 +15,7 @@ teller is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with lin
 | Sat, 14 Nov 2026 | Invites Mari.te | .2ndfloor, Mari.te |
 | Thu, 19 Nov 2026 | Invites Serenne | Krijka, Oho., Serenne |
 | Fri, 20 Nov 2026 | Ideal party | Jongho, Oviduct, Tomoya Furukawa |
-| Sat, 21 Nov 2026 | Obsess | Ion Ludwig, Mogwaa |
+| Sat, 21 Nov 2026 | Obsess | Ion Ludwig, KEEMTE, Mogwaa |
 | Fri, 27 Nov 2026 | GESTALT | Lupion, Lyumin, Yeonjun |
 
 ## Address

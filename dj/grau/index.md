@@ -1,8 +1,8 @@
 # Grau
 
-Grau is a Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 8 Nov 2026.
+Grau is a Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 8 Nov 2026.
 
-Grau is a tech house artist based in Argentina, with 17 gigs on soundcheck across Berlin and Madrid. Often billed alongside Héctor Pericet, Julio Machicado and YVER. Next up: EL SÓTANO, Madrid on Sun 8 Nov.
+Grau is a tech house artist based in Argentina, with 18 gigs on soundcheck across Berlin and Madrid. Often billed alongside Héctor Pericet, Julio Machicado and YVER. Next up: EL SÓTANO, Madrid on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Grau is a tech house artist based in Argentina, with 17 gigs on soundcheck acros
 | Sun, 8 Nov 2026 | EL SÓTANO | Madrid |
 | Sun, 15 Nov 2026 | EL SÓTANO | Madrid |
 | Sun, 22 Nov 2026 | EL SÓTANO | Madrid |
+| Sun, 20 Dec 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
 

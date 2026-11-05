@@ -1,14 +1,15 @@
 # Louiv
 
-Louiv is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 6 Nov 2026.
+Louiv is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 6 Nov 2026.
 
-Louiv is a house and tech house artist based in United States of America, with 74 gigs on soundcheck across Atlanta, Austin, Boston and Chicago and 5 more. Often billed alongside Combover, Philco and zacky. Next up: Monarch, San Francisco/Oakland on Fri 6 Nov.
+Louiv is a house and tech house artist based in United States of America, with 75 gigs on soundcheck across Atlanta, Austin, Boston and Chicago and 5 more. Often billed alongside Combover, Philco and zacky. Next up: Monarch, San Francisco/Oakland on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Monarch | San Francisco/Oakland |
+| Thu, 31 Dec 2026 | Signal | New York City |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Metal Beat: Ngly (live), Mux, Times New Roman at Kongresai
 
-Metal Beat: Ngly (live), Mux, Times New Roman at Kongresai on Sat 12 Dec, Vilnius. 2 artists: Ngly and Times New Roman. See the line-up on soundcheck.
+Metal Beat: Ngly (live), Mux, Times New Roman at Kongresai on Sat 12 Dec, Vilnius. 2 artists: Ngly and Times New Roman. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

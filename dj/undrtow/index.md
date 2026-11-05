@@ -1,14 +1,15 @@
 # undrtow
 
-undrtow is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Post Bar, Helsinki on Fri, 13 Nov 2026.
+undrtow is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Post Bar, Helsinki on Fri, 13 Nov 2026.
 
-undrtow is a techno and industrial artist based in Turkey, with 34 gigs on soundcheck across Athens, Helsinki, Istanbul and Munich and 1 more. Often billed alongside MATT., Ozan and XMRXLLXH. Next up: Post Bar, Helsinki on Fri 13 Nov.
+undrtow is a techno and industrial artist based in Turkey, with 35 gigs on soundcheck across Athens, Helsinki, Istanbul and Munich and 1 more. Often billed alongside MATT., Ozan and XMRXLLXH. Next up: Post Bar, Helsinki on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Post Bar | Helsinki |
+| Sat, 14 Nov 2026 | Stidilä | Helsinki |
 
 ## Recently played
 

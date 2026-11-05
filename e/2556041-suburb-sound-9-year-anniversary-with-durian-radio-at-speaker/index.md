@@ -1,6 +1,6 @@
 # Suburb Sound 9-YEAR ANNIVERSARY WITH DURIAN RADIO at Speakerbox
 
-Suburb Sound 9-YEAR ANNIVERSARY WITH DURIAN RADIO at Speakerbox on Sat 28 Nov, Bangkok. 3 artists: bunnyman.dogs, Genji and OXYBOY. House and Club. See the line-up on soundcheck.
+Suburb Sound 9-YEAR ANNIVERSARY WITH DURIAN RADIO at Speakerbox on Sat 28 Nov, Bangkok. 4 artists: .g (TH), Genji, OXYBOY and SOR.. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,9 @@ Suburb Sound 9-YEAR ANNIVERSARY WITH DURIAN RADIO at Speakerbox on Sat 28 Nov, B
 
 ## Line-up
 
-- bunnyman.dogs
+- .g (TH)
 - Genji
 - OXYBOY
+- SOR.
 
 *Source: [soundcheck](https://soundcheck.club/e/2556041-suburb-sound-9-year-anniversary-with-durian-radio-at-speaker/)*

@@ -17,7 +17,7 @@ Yung Singh is a garage and house artist based in United Kingdom, with 193 gigs o
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
 | Tue, 29 Dec 2026 | Matakanarama Festival Site | Auckland |
 | Thu, 31 Dec 2026 | Sidney Myer Music Bowl | Melbourne |
-| Sat, 9 Jan 2027 | Liberty Hall | Sydney |
+| Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Hyas • SALO at Super7
 
-Hyas • SALO at Super7 on Thu 5 Nov, Lyon. 1 artist: Hyas. See the line-up on soundcheck.
+Hyas • SALO at Super7 on Thu 5 Nov, Lyon. 1 artist: Hyas. Garage and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

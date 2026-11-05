@@ -1,6 +1,6 @@
 # aapex presents Piezo at Aapex
 
-aapex presents Piezo at Aapex on Sat 21 Nov, Seoul. 2 artists: CHAERIN and Piezo. See the line-up on soundcheck.
+aapex presents Piezo at Aapex on Sat 21 Nov, Seoul. 2 artists: CHAERIN and Piezo. Dubstep and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

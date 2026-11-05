@@ -1,6 +1,6 @@
 # Skatepark Art & Music Festival: Impossible Illusions at Substance Skatepark
 
-Skatepark Art & Music Festival: Impossible Illusions at Substance Skatepark on Sat 7 Nov, New York City. 2 artists: Craic Feen and KC (NYC). House and Bass. See the line-up on soundcheck.
+Skatepark Art & Music Festival: Impossible Illusions at Substance Skatepark on Sat 7 Nov, New York City. 3 artists: Craic Feen, KC (NYC) and Pilarz. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Skatepark Art & Music Festival: Impossible Illusions at Substance Skatepark on S
 
 - Craic Feen
 - KC (NYC)
+- Pilarz
 
 *Source: [soundcheck](https://soundcheck.club/e/2522361-skatepark-art-music-festival-impossible-illusions-at-substan/)*

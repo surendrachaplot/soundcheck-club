@@ -1,8 +1,8 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
+DJ Godfather is a Techno and Ghetto Tech artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
 
-DJ Godfather is a techno and ghetto tech artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 25 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: The Ground at Club Space, Miami on Sat 7 Nov.
+DJ Godfather is a techno and ghetto tech artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 26 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: The Ground at Club Space, Miami on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Godfather is a techno and ghetto tech artist based in United States of Americ
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Ground at Club Space | Miami |
 | Fri, 20 Nov 2026 | Doop | Shanghai |
+| Sat, 21 Nov 2026 | Bar Temp. | Bangkok |
 | Sat, 28 Nov 2026 | OIL Club | Shenzhen |
 | Fri, 18 Dec 2026 | Hidden | Manchester |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |

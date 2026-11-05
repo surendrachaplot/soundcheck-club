@@ -1,8 +1,8 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "BNWT Presents" on Fri, 6 Nov 2026.
+QQQ ST. Park is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "BNWT Presents" on Fri, 6 Nov 2026.
 
-QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Aaron Static, Azifm, EMCD and File Explorer and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
+QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Aaron Static, ALIEN-A, Azifm and CAITY WATSON and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
 ## What's on
 
@@ -10,6 +10,7 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | BNWT Presents | Nadine, Reset (2) |
 | Sat, 7 Nov 2026 | PROPER DRUM & BASS Vol. 2 | KINEKTA |
+| Fri, 13 Nov 2026 | 150 BPM | ALIEN-A, CAITY WATSON, CJ Slayer, Yaz |
 | Sat, 14 Nov 2026 | DRIZZZ - En Route Tour |  |
 | Fri, 27 Nov 2026 | SUBMARINE (GER), STRATEGY (UK), DEEP TEMPO (UK) | safire |
 | Sat, 28 Nov 2026 | System Killerz |  |

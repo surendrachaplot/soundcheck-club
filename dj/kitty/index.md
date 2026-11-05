@@ -1,8 +1,8 @@
 # Kitty
 
-Kitty is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Blank Site, Seoul on Sat, 7 Nov 2026.
+Kitty is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Blank Site, Seoul on Sat, 7 Nov 2026.
 
-Kitty is a club and bass artist, with 64 gigs on soundcheck across Berlin, Buenos Aires, Ho Chi Minh City and Hong Kong and 5 more. Often billed alongside KISEWA, mokhzolla and Ligrye. Next up: Blank Site, Seoul on Sat 7 Nov.
+Kitty is a club and bass artist, with 65 gigs on soundcheck across Berlin, Buenos Aires, Ho Chi Minh City and Hong Kong and 5 more. Often billed alongside KISEWA, mokhzolla and Ligrye. Next up: Blank Site, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kitty is a club and bass artist, with 64 gigs on soundcheck across Berlin, Bueno
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Blank Site | Seoul |
 | Thu, 12 Nov 2026 | Cakeshop | Seoul |
+| Fri, 4 Dec 2026 | Cakeshop | Seoul |
 
 ## Recently played
 

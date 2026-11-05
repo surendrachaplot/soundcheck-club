@@ -1,6 +1,6 @@
 # SlapFunk x Elevate at Amboss Rampe
 
-SlapFunk x Elevate at Amboss Rampe on Sat 7 Nov, Zurich. 7 artists: Aline (CH), Mihael Simic, Sam Rovisan and Samuel Deep and 3 more. House. See the line-up on soundcheck.
+SlapFunk x Elevate at Amboss Rampe on Sat 7 Nov, Zurich. 8 artists: Aline (CH), July (CH), Mihael Simic and Sam Rovisan and 4 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ SlapFunk x Elevate at Amboss Rampe on Sat 7 Nov, Zurich. 7 artists: Aline (CH), 
 ## Line-up
 
 - Aline (CH)
+- July (CH)
 - Mihael Simic
 - Sam Rovisan
 - Samuel Deep

@@ -1,6 +1,6 @@
 # (Re)Candor II: Where Souls Meet at TBA - Secret Location
 
-(Re)Candor II: Where Souls Meet at TBA - Secret Location on Fri 6 Nov, Berlin. 3 artists: Amnati, MALAGÜERA and Rocotito. House and Ambient. See the line-up on soundcheck.
+(Re)Candor II: Where Souls Meet at TBA - Secret Location on Fri 6 Nov, Berlin. 5 artists: Amnati, elva, MALAGÜERA and Rocotito and 1 more. House and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,9 @@
 ## Line-up
 
 - Amnati
+- elva
 - MALAGÜERA
 - Rocotito
+- TAUBE
 
 *Source: [soundcheck](https://soundcheck.club/e/2535956-re-candor-ii-where-souls-meet-at-tba-secret-location/)*

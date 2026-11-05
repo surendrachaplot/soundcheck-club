@@ -1,14 +1,15 @@
 # Grabba Ranks
 
-Grabba Ranks is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 12 Nov 2026.
+Grabba Ranks is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 12 Nov 2026.
 
-Grabba Ranks is a club and hip-hop artist based in United States of America, with 30 gigs on soundcheck across Baltimore, Chicago, Miami and New York City. Often billed alongside NoahG, SUPR SPRT and Daniro. Next up: Bossa Nova Civic Club, New York City on Thu 12 Nov.
+Grabba Ranks is a club and hip-hop artist based in United States of America, with 31 gigs on soundcheck across Baltimore, Chicago, Miami and New York City and 1 more. Often billed alongside NoahG, Daniro and SUPR SPRT. Next up: Bossa Nova Civic Club, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Sat, 21 Nov 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Grabba Ranks is a club and hip-hop artist based in United States of America, wit
 
 ## Shares bills with
 
-NoahG, SUPR SPRT, Daniro
+NoahG, Daniro, SUPR SPRT
 
 *Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grabbaranks/)*

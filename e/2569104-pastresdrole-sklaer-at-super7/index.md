@@ -1,6 +1,6 @@
 # pastresdrole • Sklaer at Super7
 
-pastresdrole • Sklaer at Super7 on Sun 8 Nov, Lyon. 2 artists: pastresdrole and Sklaer. See the line-up on soundcheck.
+pastresdrole • Sklaer at Super7 on Sun 8 Nov, Lyon. 2 artists: pastresdrole and Sklaer. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

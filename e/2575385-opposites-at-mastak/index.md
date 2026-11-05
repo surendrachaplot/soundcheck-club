@@ -1,6 +1,6 @@
-# Opposites at Mastak
+# OPPOSITES at Mastak
 
-Opposites at Mastak on Fri 20 Nov, Warsaw. 2 artists: Alex Kosta and MARCUCCIO. Techno and Dub Techno. See the line-up on soundcheck.
+OPPOSITES at Mastak on Fri 20 Nov, Warsaw. 2 artists: Alex Kosta and MARCUCCIO. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,14 +1,15 @@
 # Sama Yax
 
-Sama Yax is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 6 Nov 2026.
+Sama Yax is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 6 Nov 2026.
 
-Sama Yax is a house and disco artist based in Spain, with 72 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Rafa Santos, Octo Octa and Sonido Tupinamba. Next up: Say No More Madrid, Madrid on Fri 6 Nov.
+Sama Yax is a house and electronica artist based in Spain, with 73 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 2 more. Often billed alongside Rafa Santos, Octo Octa and Sonido Tupinamba. Next up: Say No More Madrid, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Say No More Madrid | Madrid |
+| Fri, 6 Nov 2026 | Nômade Temple Madrid | Madrid |
 
 ## Recently played
 

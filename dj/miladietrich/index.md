@@ -1,14 +1,17 @@
 # Mila Dietrich
 
-Mila Dietrich is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at La Gare / Le Gore, Paris on Sun, 8 Nov 2026.
+Mila Dietrich is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at La Gare / Le Gore, Paris on Sun, 8 Nov 2026.
 
-Mila Dietrich is a techno and trance artist, with 37 gigs on soundcheck across Berlin, Copenhagen, Geneva and Lausanne and 4 more. Often billed alongside 6thFloor, Abstraxion and Adexia. Next up: La Gare / Le Gore, Paris on Sun 8 Nov.
+Mila Dietrich is a techno and trance artist, with 40 gigs on soundcheck across Berlin, Copenhagen, Geneva and Lausanne and 4 more. Often billed alongside 6thFloor, Abstraxion and Adexia. Next up: La Gare / Le Gore, Paris on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | La Gare / Le Gore | Paris |
+| Sun, 15 Nov 2026 | La Gare / Le Gore | Paris |
+| Sun, 22 Nov 2026 | La Gare / Le Gore | Paris |
+| Sun, 29 Nov 2026 | La Gare / Le Gore | Paris |
 
 ## Recently played
 

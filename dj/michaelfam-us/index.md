@@ -1,8 +1,8 @@
 # Michael Fam
 
-Michael Fam is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 7 Nov 2026.
+Michael Fam is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 7 Nov 2026.
 
-Michael Fam is a house and minimal artist based in United States of America, with 32 gigs on soundcheck across Berlin and Los Angeles. Often billed alongside Ray Kash, Adam Rose and Enzo Muro. Next up: TBA - DTLA, Los Angeles on Sat 7 Nov.
+Michael Fam is a house and minimal artist based in United States of America, with 33 gigs on soundcheck across Berlin and Los Angeles. Often billed alongside Ray Kash, Adam Rose and Enzo Muro. Next up: TBA - DTLA, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Michael Fam is a house and minimal artist based in United States of America, wit
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - DTLA | Los Angeles |
 | Thu, 12 Nov 2026 | TBA | Los-angeles |
+| Sat, 5 Dec 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 

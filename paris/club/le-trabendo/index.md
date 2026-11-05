@@ -12,7 +12,7 @@ Le Trabendo is a music venue in Paris listed on soundcheck. 8 upcoming gigs, wit
 | Sat, 7 Nov 2026 | Pitchfork Club Night: Cinthie B2B Fafi Abdel Nour, Dylan Dylan B2B Mad Rey | Cinthie, Dylan Dylan, Fafi Abdel Nour, Mad Rey |
 | Fri, 13 Nov 2026 | HORS-SOL | Domi (FR), Mel (FR), Unai Trotti |
 | Fri, 4 Dec 2026 | A4 & Pedro present: Olympe4000, GЯEG, Laze, Lisa More, notinbed, RONI, Pureblast & Erna | Erna (FR), Greg (2), Laze, Lisa More, Olympe4000, Pureblast, RONI, notinbed |
-| Fri, 4 Dec 2026 | A4 & Pedro present: Olympe4000, GЯEG, Laze, Lisa More, notinbed, RONI, Pureblast & Erna | Erna (FR), Laze, Lisa More, Olympe4000, Pureblast, RONI, notinbed |
+| Fri, 4 Dec 2026 | A4 & Pedro present: Olympe4000, GЯEG, Laze, Lisa More, notinbed, RONI, Pureblast & Erna | Erna (FR), Greg (2), Laze (With Bells Records), Lisa More, Olympe4000, Pureblast, Roni (2), notinbed |
 | Fri, 18 Dec 2026 | HORS-SOL (DJ act) all night long | HORS-SOL, Jolly (FR), Lastvuska, Maryu |
 | Sat, 19 Dec 2026 | Tech Noire feat. Schwefelgelb | Schwefelgelb, law and haktion |
 | Fri, 15 Jan 2027 | HORS-SOL | Jolly (FR), Lb Honne, Tau Car |

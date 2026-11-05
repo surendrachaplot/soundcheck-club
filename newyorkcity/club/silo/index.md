@@ -1,8 +1,8 @@
 # SILO
 
-SILO is a music venue in New York City with 34 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "MitiS" on Fri, 6 Nov 2026.
+SILO is a music venue in New York City with 36 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "MitiS" on Fri, 6 Nov 2026.
 
-SILO is a music venue in New York City listed on soundcheck. 34 upcoming gigs, with line-ups including Bag Raiders, Bella De León, Bella Hex and Bruce Wayne (US) and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
+SILO is a music venue in New York City listed on soundcheck. 36 upcoming gigs, with line-ups including Bag Raiders, Bella De León, Bella Hex and Bruce Wayne (US) and 2 more. See dates, start times and who's playing. 90 Scott Ave, East Williamsburg, Brooklyn.
 
 ## What's on
 

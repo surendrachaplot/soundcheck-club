@@ -1,8 +1,8 @@
 # KYRUH
 
-KYRUH is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Signal, New York City on Fri, 13 Nov 2026.
+KYRUH is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Signal, New York City on Fri, 13 Nov 2026.
 
-KYRUH is a techno and house artist based in United States of America, with 162 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Signal, New York City on Fri 13 Nov.
+KYRUH is a techno and house artist based in United States of America, with 163 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside WTCHCRFT, Katie Rex and Annie Lew. Next up: Signal, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KYRUH is a techno and house artist based in United States of America, with 162 g
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Signal | New York City |
 | Fri, 20 Nov 2026 | Duggal Greenhouse | New York City |
+| Thu, 31 Dec 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 

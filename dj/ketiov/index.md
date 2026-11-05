@@ -9,7 +9,7 @@ Ketiov is a house and techno artist based in Spain, with 31 gigs on soundcheck a
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Sun, 6 Dec 2026 | TBA - Secret Location (Madrid) | Madrid |
+| Sun, 6 Dec 2026 | LAB theCLUB | Madrid |
 
 ## Recently played
 

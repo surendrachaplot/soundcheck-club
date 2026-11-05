@@ -9,7 +9,7 @@ Lost in Paradise Rooftop is a music venue in New York City listed on soundcheck.
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Reggaeton Paradise Rooftop Party at Lost in Paradise – November 7 |  |
-| Sun, 15 Nov 2026 | FLY Queens: Autumn Afterglow - Lost in Paradise |  |
+| Sun, 15 Nov 2026 | FLY Queens at Lost in Paradise • Autumn Afterglow |  |
 
 ## Address
 

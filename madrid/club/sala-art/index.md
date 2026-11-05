@@ -9,7 +9,7 @@ Sala ART is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | La Chismoteka: Guarachateka | ORFIGYAL |
-| Sat, 7 Nov 2026 | ART ELECTRONIC UNDERGROUND (FREE TICKETS) | Artaban, CHEFFF, Costa (2), PÜCH |
+| Sat, 7 Nov 2026 | ART ELECTRONIC UNDERGROUND (LAST 347 FREE TICKETS) | Artaban, CHEFFF, Costa (2), PÜCH |
 | Fri, 13 Nov 2026 | CHRØMA: BENNETT (3h extended set) | BENNETT, Mainterm, Venus de Milo |
 | Sat, 5 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Foreplay |  |
 | Fri, 18 Dec 2026 | CHRØMA: TBA |  |

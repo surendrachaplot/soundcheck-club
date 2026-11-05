@@ -1,14 +1,15 @@
 # Griffin Maxwell Brooks
 
-Griffin Maxwell Brooks is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Rawhide, New York City on Sat, 7 Nov 2026.
+Griffin Maxwell Brooks is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Rawhide, New York City on Sat, 7 Nov 2026.
 
-Griffin Maxwell Brooks is a house and techno artist based in United States of America, with 64 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 2 more. Often billed alongside Amber Valentine, Jojo Lorenzo and SKYWALKER (US). Next up: Club Rawhide, New York City on Sat 7 Nov.
+Griffin Maxwell Brooks is a house and techno artist based in United States of America, with 65 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 3 more. Often billed alongside Amber Valentine, Jojo Lorenzo and SKYWALKER (US). Next up: Club Rawhide, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Club Rawhide | New York City |
+| Fri, 13 Nov 2026 | Urban Mo's | San Diego |
 | Sun, 15 Nov 2026 | Three Top Lounge at The Salt Shed | Chicago |
 
 ## Recently played

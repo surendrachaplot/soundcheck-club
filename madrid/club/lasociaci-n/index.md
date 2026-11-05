@@ -14,7 +14,7 @@ Lasociaciøn is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, w
 | Sat, 21 Nov 2026 | TRAMA with Robert Leiner | Babu, Betamax_, Mou, Pablo Ruizgalan, Robert Leiner, Victor Reyes |
 | Fri, 27 Nov 2026 | DARKMASS Lasociaciøn /// Paula Koski • Esther Summer • KATTA • KINKIGROOVE • KRS | Esther Summer, KRSDJ, Paula Koski |
 | Sun, 29 Nov 2026 | EXTENDED TIME of OVERDRIVE | Jesus Riaño, Ricardo Morales, Yvan Corrochano |
-| Mon, 7 Dec 2026 | Dunkeln Madrid | Oscar Blue, PW DISTORTION, Yiye |
+| Mon, 7 Dec 2026 | Dunkeln Madrid - Extended 12h | Oscar Blue, PW DISTORTION, Yiye |
 | Sat, 12 Dec 2026 | Only Vinyl Night: Selected Records Showcase — XVIII Years | G4G0, Gabriel D'or & Bordoy, Pyramidal Decode, SERNA, Trasto, Xpansul |
 | Thu, 24 Dec 2026 | Soundhall Aniversario | Beatrice (DE), E2NMN, K1000o, Redondoo, Yiye, exuvia |
 

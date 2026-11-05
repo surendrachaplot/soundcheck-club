@@ -1,13 +1,14 @@
 # AISHA
 
-AISHA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at M7 Club, Barcelona on Sat, 7 Nov 2026.
+AISHA is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Rama Soundgarden, Medellin on Fri, 6 Nov 2026.
 
-AISHA is a techno and trance artist based in United Kingdom, with 173 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside Azyr, franck and Faster Horses. Next up: M7 Club, Barcelona on Sat 7 Nov.
+AISHA is a techno and trance artist based in United Kingdom, with 174 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside Azyr, franck and Faster Horses. Next up: Rama Soundgarden, Medellin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Rama Soundgarden | Medellin |
 | Sat, 7 Nov 2026 | M7 Club | Barcelona |
 | Sat, 14 Nov 2026 | ROSA | Berlin |
 | Sat, 28 Nov 2026 | KALT | Strasbourg |
