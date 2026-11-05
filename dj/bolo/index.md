@@ -1,6 +1,6 @@
 # bolo
 
-bolo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 6 Nov 2026.
+bolo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 6 Nov 2026.
 
 bolo is a techno and house artist based in Poland, with 49 gigs on soundcheck across Austin, Los Angeles, Medellin and Nashville and 2 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: K-Bar Powiśle, Warsaw on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ bolo is a techno and house artist based in Poland, with 49 gigs on soundcheck ac
 
 Abrew, Kobayashkn, PayoYayo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*

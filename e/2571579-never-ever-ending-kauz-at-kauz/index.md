@@ -1,6 +1,6 @@
 # Never Ever Ending Kauz at Kauz
 
-Never Ever Ending Kauz on Fri 11 Dec, Zurich. 17 artists: Alessia Ceruti, Aline (CH), Baerg and Ben Kaczor and 13 more. Techno and House. See the line-up on soundcheck.
+Never Ever Ending Kauz on Fri 11 Dec, Zurich. 18 artists: Alessia Ceruti, Aline (CH), Baerg and Ben Kaczor and 14 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -24,6 +24,7 @@ Never Ever Ending Kauz on Fri 11 Dec, Zurich. 17 artists: Alessia Ceruti, Aline 
 - Leo Gretener
 - limbic sis
 - Magda
+- Ramon Wespe (1)
 - Wandler
 - Wyatt (1)
 - Z@p

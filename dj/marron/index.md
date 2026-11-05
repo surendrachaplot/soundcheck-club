@@ -1,8 +1,8 @@
 # MARRØN
 
-MARRØN is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at DURO, Milan on Fri, 6 Nov 2026.
+MARRØN is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at DURO, Milan on Fri, 6 Nov 2026.
 
-MARRØN is a techno and house artist based in Netherlands, with 312 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 85 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: DURO, Milan on Fri 6 Nov.
+MARRØN is a techno and house artist based in Netherlands, with 313 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 85 more. Often billed alongside Blasha & Allatt, Freddy K and Rene Wise. Next up: DURO, Milan on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ MARRØN is a techno and house artist based in Netherlands, with 312 gigs on soun
 | Sat, 5 Dec 2026 | TBA - Secret Location | Toronto |
 | Fri, 11 Dec 2026 | Flux | Istanbul |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
-| Fri, 1 Jan 2027 | C12 | Brussels |
+| Thu, 31 Dec 2026 | fabric | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ MARRØN is a techno and house artist based in Netherlands, with 312 gigs on soun
 
 Blasha & Allatt, Freddy K, Rene Wise
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marron/)*

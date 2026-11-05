@@ -1,6 +1,6 @@
 # Zafiro
 
-Zafiro is a Electronica and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
+Zafiro is a Electronica and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
 
 Zafiro is an electronica and techno artist based in Colombia, with 15 gigs on soundcheck across Bogotá and Melbourne. Often billed alongside Zjoso, Benny Salvador and Charlie Bucket. Next up: Revolver Upstairs, Melbourne on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Zafiro is an electronica and techno artist based in Colombia, with 15 gigs on so
 
 Zjoso, Benny Salvador, Charlie Bucket
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zafiro/)*

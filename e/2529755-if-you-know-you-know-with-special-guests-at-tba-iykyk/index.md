@@ -1,11 +1,16 @@
 # If You Know You Know with Special Guests at TBA - IYKYK 
 
-If You Know You Know with Special Guests at TBA - IYKYK  on Fri 27 Nov, Los Angeles. Techno and House. See the line-up on soundcheck.
+If You Know You Know with Special Guests at TBA - IYKYK  on Fri 27 Nov, Los Angeles. 2 artists: Connor Mikami and Ray Kash. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Fri, 27 Nov 2026 |
 | Venue | TBA - IYKYK  |
 | City | Los Angeles |
+
+## Line-up
+
+- Connor Mikami
+- Ray Kash
 
 *Source: [soundcheck](https://soundcheck.club/e/2529755-if-you-know-you-know-with-special-guests-at-tba-iykyk/)*

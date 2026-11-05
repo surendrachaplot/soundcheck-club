@@ -1,8 +1,8 @@
 # FELBM
 
-FELBM is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Koda, Rotterdam on Fri, 13 Nov 2026.
+FELBM is a Downtempo and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Koda, Rotterdam on Fri, 13 Nov 2026.
 
-FELBM is a downtempo and ambient artist, with 6 gigs on soundcheck across Amsterdam, London, Rotterdam and Stockholm and 1 more. Often billed alongside Auntie Flo, Haron and Ranie Ribeiro. Next up: Koda, Rotterdam on Fri 13 Nov.
+FELBM is a downtempo and ambient artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, London, Rotterdam and Stockholm and 1 more. Often billed alongside Auntie Flo, Haron and Ranie Ribeiro. Next up: Koda, Rotterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ FELBM is a downtempo and ambient artist, with 6 gigs on soundcheck across Amster
 
 Auntie Flo, Haron, Ranie Ribeiro
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felbm/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felbm/)*

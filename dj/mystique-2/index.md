@@ -1,6 +1,6 @@
 # Mystique (2)
 
-Mystique (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fitzroy, Berlin on Sun, 29 Nov 2026.
+Mystique (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Fitzroy, Berlin on Sun, 29 Nov 2026.
 
 Mystique is a techno and bass artist based in France, with 29 gigs on soundcheck across Basel, Berlin, Marseille and Paris and 1 more. Often billed alongside Vanda Forte, GLITTER55 and guerre maladie famine. Next up: Fitzroy, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Mystique is a techno and bass artist based in France, with 29 gigs on soundcheck
 
 Vanda Forte, GLITTER55, guerre maladie famine
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mystique-2/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mystique-2/)*

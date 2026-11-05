@@ -1,6 +1,6 @@
 # Nest
 
-Nest is a music venue in Basel with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Bad Wellness + Lev Tigrovich live" on Thu, 5 Nov 2026.
+Nest is a music venue in Basel with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Bad Wellness + Lev Tigrovich live" on Thu, 5 Nov 2026.
 
 Nest is a music venue in Basel listed on soundcheck. 8 upcoming gigs, with line-ups including Calicá, DJ Glentan, Dominik André and Esengo and 2 more. See dates, start times and who's playing. Nachtigallenwäldeli 9, 4051 Basel.
 
@@ -21,4 +21,4 @@ Nest is a music venue in Basel listed on soundcheck. 8 upcoming gigs, with line-
 
 Nachtigallenwäldeli 9, 4051 Basel, Basel
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*

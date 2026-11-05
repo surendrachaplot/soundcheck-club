@@ -1,13 +1,14 @@
 # Glenn Davis
 
-Glenn Davis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hotel Montepiedra, Alicante on Thu, 27 May 2027.
+Glenn Davis is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 13 Nov 2026.
 
-Glenn Davis is a house and disco artist based in Ireland, with 18 gigs on soundcheck across Alicante, Berlin, Cork and Dublin. Often billed alongside Ricky Chong, Pablo Fatty Fatty and Carl Bauer. Next up: Hotel Montepiedra, Alicante on Thu 27 May.
+Glenn Davis is a house and disco artist based in Ireland, with 19 gigs on soundcheck across Alicante, Berlin, Cork and Dublin. Often billed alongside Ricky Chong, Pablo Fatty Fatty and Carl Bauer. Next up: Hang Dai Chinese, Dublin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Hang Dai Chinese | Dublin |
 | Thu, 27 May 2027 | Hotel Montepiedra | Alicante |
 
 ## Recently played
@@ -25,4 +26,4 @@ Glenn Davis is a house and disco artist based in Ireland, with 18 gigs on soundc
 
 Ricky Chong, Pablo Fatty Fatty, Carl Bauer
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glenndavis/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glenndavis/)*

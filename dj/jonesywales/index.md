@@ -1,6 +1,6 @@
 # Jonesy Wales
 
-Jonesy Wales is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Canteen, Bristol on Fri, 6 Nov 2026.
+Jonesy Wales is a Afrobeats and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Canteen, Bristol on Fri, 6 Nov 2026.
 
 Jonesy Wales is an afrobeats and baile funk artist based in United Kingdom, with 35 gigs on soundcheck across Bristol and Cardiff. Often billed alongside Charlie Stoic, Atki2 and Dub Boy. Next up: The Canteen, Bristol on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jonesy Wales is an afrobeats and baile funk artist based in United Kingdom, with
 
 Charlie Stoic, Atki2, Dub Boy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesywales/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonesywales/)*

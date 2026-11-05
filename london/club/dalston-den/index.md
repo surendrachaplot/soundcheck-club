@@ -1,6 +1,6 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "(((SIGNAL x LovelyPeople: AKWA, FriendofaFriend, FITS ME FUNNY B2B Lady Jules + Rivera)))" on Fri, 6 Nov 2026.
+Dalston Den is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "(((SIGNAL x LovelyPeople: AKWA, FriendofaFriend, FITS ME FUNNY B2B Lady Jules + Rivera)))" on Fri, 6 Nov 2026.
 
 Dalston Den is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including AKWA, Amy Kisnorbo, CalvoMusic and Carma and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
 
@@ -23,4 +23,4 @@ Dalston Den is a music venue in London listed on soundcheck. 14 upcoming gigs, w
 
 91-93 Kingsland High Street, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/dalston-den/)*

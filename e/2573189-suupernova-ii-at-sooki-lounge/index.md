@@ -1,6 +1,6 @@
 # SuuperNova II at Sooki Lounge
 
-SuuperNova II at Sooki Lounge on Fri 20 Nov, Melbourne. 3 artists: DJ BJ, FDK and Malika. House and Tech House. See the line-up on soundcheck.
+SuuperNova II at Sooki Lounge on Fri 20 Nov, Melbourne. 2 artists: DJ BJ and FDK. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ SuuperNova II at Sooki Lounge on Fri 20 Nov, Melbourne. 3 artists: DJ BJ, FDK an
 
 - DJ BJ
 - FDK
-- Malika
 
 *Source: [soundcheck](https://soundcheck.club/e/2573189-suupernova-ii-at-sooki-lounge/)*

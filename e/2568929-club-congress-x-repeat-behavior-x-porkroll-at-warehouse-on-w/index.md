@@ -1,6 +1,6 @@
 # Club Congress x Repeat Behavior x Porkroll at Warehouse on Watts
 
-Club Congress x Repeat Behavior x Porkroll at Warehouse on Watts on Sat 28 Nov, Philadelphia. 8 artists: cubby.com, DJ Matpat, DJ Minx and kraftwitch and 4 more. See the line-up on soundcheck.
+Club Congress x Repeat Behavior x Porkroll at Warehouse on Watts on Sat 28 Nov, Philadelphia. 8 artists: cubby.com, DJ Matpat, DJ Minx and kraftwitch and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

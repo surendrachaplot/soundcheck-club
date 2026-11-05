@@ -1,6 +1,6 @@
 # Louis Polturak
 
-Louis Polturak is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at radial, London on Sat, 5 Dec 2026.
+Louis Polturak is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at radial, London on Sat, 5 Dec 2026.
 
 Louis Polturak is a techno and garage artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside Ark Of Jonah, Sophia Nicole and 22Cheeky. Next up: radial, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Louis Polturak is a techno and garage artist based in United Kingdom, with 17 gi
 
 Ark Of Jonah, Sophia Nicole, 22Cheeky
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louispolturak/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louispolturak/)*

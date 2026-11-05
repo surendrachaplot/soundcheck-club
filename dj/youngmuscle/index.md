@@ -1,6 +1,6 @@
 # Young Muscle
 
-Young Muscle is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Spkrbox, Detroit on Sat, 7 Nov 2026.
+Young Muscle is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Spkrbox, Detroit on Sat, 7 Nov 2026.
 
 Young Muscle is a bass and techno artist based in United States of America, with 28 gigs on soundcheck across Chicago, Detroit, Los Angeles and Nashville and 1 more. Often billed alongside Nick Dagher, Duck Trash and Maheras. Next up: Spkrbox, Detroit on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Young Muscle is a bass and techno artist based in United States of America, with
 
 Nick Dagher, Duck Trash, Maheras
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmuscle/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youngmuscle/)*

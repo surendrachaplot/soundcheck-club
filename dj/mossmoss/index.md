@@ -1,6 +1,6 @@
 # Mossmoss
 
-Mossmoss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Underground SF, San Francisco/Oakland on Sat, 28 Nov 2026.
+Mossmoss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Underground SF, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Mossmoss is a techno and house artist based in United States of America, with 11 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Max Gardner, Zoz and ALMAS. Next up: Underground SF, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Mossmoss is a techno and house artist based in United States of America, with 11
 
 Max Gardner, Zoz, ALMAS
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mossmoss/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mossmoss/)*

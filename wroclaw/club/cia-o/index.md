@@ -1,6 +1,6 @@
 # Ciało
 
-Ciało is a music venue in Wroclaw with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Ciało: Dave Clarke, Kari, Macewicz, Timmermans, Vi, Zuzka" on Fri, 6 Nov 2026.
+Ciało is a music venue in Wroclaw with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Ciało: Dave Clarke, Kari, Macewicz, Timmermans, Vi, Zuzka" on Fri, 6 Nov 2026.
 
 Ciało is a music venue in Wroclaw listed on soundcheck. 4 upcoming gigs, with line-ups including dadan karambolo, Dave Clarke, DjRUM and Donija and 2 more. See dates, start times and who's playing. Joannitów 13, 50-086 Wrocław.
 
@@ -17,4 +17,4 @@ Ciało is a music venue in Wroclaw listed on soundcheck. 4 upcoming gigs, with l
 
 Joannitów 13, 50-086 Wrocław, Wroclaw
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/wroclaw/club/cia-o/)*

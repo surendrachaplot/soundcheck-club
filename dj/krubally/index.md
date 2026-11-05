@@ -1,8 +1,8 @@
 # KRUBALLY
 
-KRUBALLY is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Monarch, Berlin on Fri, 13 Nov 2026.
+KRUBALLY is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Monarch, Berlin on Fri, 13 Nov 2026.
 
-KRUBALLY is a garage and house artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Halunki, DJ Zurückbleiben Bitte and Danielle Arielli. Next up: Monarch, Berlin on Fri 13 Nov.
+KRUBALLY is a garage and house artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Halunki, DJ Zurückbleiben Bitte and Danielle Arielli. Next up: Monarch, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ KRUBALLY is a garage and house artist, with 6 gigs on soundcheck across Berlin. 
 
 Halunki, DJ Zurückbleiben Bitte, Danielle Arielli
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krubally/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krubally/)*

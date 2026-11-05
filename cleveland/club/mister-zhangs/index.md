@@ -1,13 +1,14 @@
 # Mister Zhangs
 
-Mister Zhangs is a music venue in Cleveland with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "XCSB OFFLINE" on Fri, 20 Nov 2026.
+Mister Zhangs is a music venue in Cleveland with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "First Fridays" on Fri, 6 Nov 2026.
 
-Mister Zhangs is a music venue in Cleveland listed on soundcheck. 1 upcoming gig, with line-ups including HunnyBunny and pizzaguts. See dates, start times and who's playing.
+Mister Zhangs is a music venue in Cleveland listed on soundcheck. 2 upcoming gigs, with line-ups including HunnyBunny, pizzaguts and Sleazus Christ. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | First Fridays | Sleazus Christ |
 | Fri, 20 Nov 2026 | XCSB OFFLINE | HunnyBunny, pizzaguts |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/cleveland/club/mister-zhangs/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/cleveland/club/mister-zhangs/)*

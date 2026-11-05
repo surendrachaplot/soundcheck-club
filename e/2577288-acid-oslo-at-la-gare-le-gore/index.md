@@ -1,0 +1,15 @@
+# Acid Oslo at La Gare / Le Gore
+
+Acid Oslo at La Gare / Le Gore on Mon 9 Nov, Paris. 1 artist: Acid Oslo. Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Mon, 9 Nov 2026 |
+| Venue | La Gare / Le Gore |
+| City | Paris |
+
+## Line-up
+
+- Acid Oslo
+
+*Source: [soundcheck](https://soundcheck.club/e/2577288-acid-oslo-at-la-gare-le-gore/)*

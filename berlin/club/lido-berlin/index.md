@@ -1,6 +1,6 @@
 # Lido Berlin
 
-Lido Berlin is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Westside Cowboy" on Fri, 6 Nov 2026.
+Lido Berlin is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Westside Cowboy" on Fri, 6 Nov 2026.
 
 Lido Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including BLEACH.LIVE, Fejká and Wyatt. See dates, start times and who's playing. Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany.
 
@@ -17,4 +17,4 @@ Lido Berlin is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, wi
 
 Cuvrystrasse 7; Kreuzberg; 10997 Berlin; Germany, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lido-berlin/)*

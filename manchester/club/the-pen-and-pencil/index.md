@@ -1,6 +1,6 @@
 # The Pen And Pencil
 
-The Pen And Pencil is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "A Deeper Groove & Friends House Party" on Sat, 27 Feb 2027.
+The Pen And Pencil is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "A Deeper Groove & Friends House Party" on Sat, 27 Feb 2027.
 
 The Pen And Pencil is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Chris Hewitt, JOC (A Deeper Groove), Ross Purcell and Steph (A Deeper Groove). See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Pen And Pencil is a music venue in Manchester listed on soundcheck. 1 upcomi
 | --- | --- | --- |
 | Sat, 27 Feb 2027 | A Deeper Groove & Friends House Party | Chris Hewitt, JOC (A Deeper Groove), Ross Purcell, Steph (A Deeper Groove) |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-pen-and-pencil/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-pen-and-pencil/)*

@@ -1,8 +1,8 @@
 # Daura
 
-Daura is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kader Grad Kodeljevo, Ljubljana on Fri, 6 Nov 2026.
+Daura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kader Grad Kodeljevo, Ljubljana on Fri, 6 Nov 2026.
 
-Daura is a techno and house artist based in Canada, with 66 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 25 more. Often billed alongside Moaad BKR, Mr. Murray and ATEQ. Next up: Kader Grad Kodeljevo, Ljubljana on Fri 6 Nov.
+Daura is a techno and house artist based in Canada, with 67 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 26 more. Often billed alongside Moaad BKR, Mr. Murray and ATEQ. Next up: Kader Grad Kodeljevo, Ljubljana on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Daura is a techno and house artist based in Canada, with 66 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Kader Grad Kodeljevo | Ljubljana |
 | Fri, 20 Nov 2026 | Signal | New York City |
+| Fri, 4 Dec 2026 | TBA - Secret Location DTLA  | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Daura is a techno and house artist based in Canada, with 66 gigs on soundcheck a
 
 Moaad BKR, Mr. Murray, ATEQ
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daura/)*

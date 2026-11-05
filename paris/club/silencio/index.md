@@ -1,6 +1,6 @@
 # Silencio
 
-Silencio is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "REVIVAL: Franc Fala, SAVERIO & JEREMY WEIZMAN" on Wed, 4 Nov 2026.
+Silencio is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "REVIVAL: Franc Fala, SAVERIO & JEREMY WEIZMAN" on Wed, 4 Nov 2026.
 
 Silencio is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Andy4000, Franc Fala, SYRA and Urumi. See dates, start times and who's playing. 142 rue Montmartre Paris.
 
@@ -17,4 +17,4 @@ Silencio is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with l
 
 142 rue Montmartre Paris, Paris
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/silencio/)*

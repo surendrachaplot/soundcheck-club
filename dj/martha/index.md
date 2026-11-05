@@ -1,6 +1,6 @@
 # Martha
 
-Martha is a Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
+Martha is a Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Garden Tisno, London on Thu, 22 Jul 2027.
 
 Martha is a post-punk artist based in Germany, with 6 gigs on soundcheck across Birmingham, Bogotá, London and Melbourne and 1 more. Often billed alongside AD ZEE, Addison Groove and Arsenal Mikebe. Next up: The Garden Tisno, London on Thu 22 Jul.
 
@@ -22,4 +22,4 @@ Martha is a post-punk artist based in Germany, with 6 gigs on soundcheck across 
 
 AD ZEE, Addison Groove, Arsenal Mikebe
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martha/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martha/)*

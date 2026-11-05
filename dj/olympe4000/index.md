@@ -1,8 +1,8 @@
 # Olympe4000
 
-Olympe4000 is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Badaboum, Paris on Sat, 14 Nov 2026.
+Olympe4000 is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Badaboum, Paris on Sat, 14 Nov 2026.
 
-Olympe4000 is a techno and house artist based in France, with 113 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Pablo Bozzi, Belaria and LB aka LABAT. Next up: Badaboum, Paris on Sat 14 Nov.
+Olympe4000 is a techno and house artist based in France, with 114 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 31 more. Often billed alongside Pablo Bozzi, Belaria and LB aka LABAT. Next up: Badaboum, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Olympe4000 is a techno and house artist based in France, with 113 gigs on soundc
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 | Fri, 27 Nov 2026 | Société des arts technologiques | Montreal |
+| Fri, 4 Dec 2026 | Le Trabendo | Paris |
 | Fri, 4 Dec 2026 | Le Trabendo | Paris |
 | Sat, 5 Dec 2026 | Arènes De Metz | East |
 
@@ -30,4 +31,4 @@ Olympe4000 is a techno and house artist based in France, with 113 gigs on soundc
 
 Pablo Bozzi, Belaria, LB aka LABAT
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe4000/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe4000/)*

@@ -1,6 +1,6 @@
-# fabric paris · extended 12 hours at Mia Mao
+# fabric Paris · Extended 12 Hours at Mia Mao
 
-fabric paris · extended 12 hours at Mia Mao on Sat 28 Nov, Paris. 9 artists: Automatic Writing, Gabrielle Kwarteng, Gene On Earth and Loryn and 5 more. House. See the line-up on soundcheck.
+fabric Paris · Extended 12 Hours at Mia Mao on Sat 28 Nov, Paris. 9 artists: Automatic Writing, Gabrielle Kwarteng, Gene On Earth and Loryn and 5 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

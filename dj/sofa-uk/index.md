@@ -1,6 +1,6 @@
 # SOFA (UK)
 
-SOFA (UK) is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
+SOFA (UK) is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
 SOFA (UK) is a garage and drum & bass artist, with 7 gigs on soundcheck across Bristol, London and Southampton. Often billed alongside FITS ME FUNNY, AVA and Alé. Next up: Bricks, London on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ SOFA (UK) is a garage and drum & bass artist, with 7 gigs on soundcheck across B
 
 FITS ME FUNNY, AVA (3), Alé (1)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofa-uk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofa-uk/)*

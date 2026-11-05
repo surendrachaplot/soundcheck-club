@@ -1,6 +1,6 @@
 # Raphael Hofman
 
-Raphael Hofman is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 14 Nov 2026.
+Raphael Hofman is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 14 Nov 2026.
 
 Raphael Hofman is a techno and electronica artist based in Germany, with 14 gigs on soundcheck across Berlin, Cologne, Munich and Paris. Often billed alongside Saraabb, Bonnie Ford and RAULITO WOLF. Next up: Klunkerkranich, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Raphael Hofman is a techno and electronica artist based in Germany, with 14 gigs
 
 Saraabb, Bonnie Ford, RAULITO WOLF
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelhofman/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelhofman/)*

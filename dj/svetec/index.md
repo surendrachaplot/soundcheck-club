@@ -1,14 +1,15 @@
 # Svetec
 
-Svetec is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Svetec is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Svetec is a techno and industrial artist based in Hungary, with 126 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 42 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Svetec is a techno and industrial artist based in Hungary, with 127 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Basel and 43 more. Often billed alongside O.B.I. (DE), Kitti Kay and Sonic Rain. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
+| Sat, 14 Nov 2026 | Lokschuppen Dillingen | Baden-w-rttemberg |
 | Sat, 21 Nov 2026 | Espacio Riesco Expo Centre | Santiago |
 | Fri, 4 Dec 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 5 Dec 2026 | Fortuna Hall | Prague |
@@ -30,4 +31,4 @@ Svetec is a techno and industrial artist based in Hungary, with 126 gigs on soun
 
 O.B.I. (DE), Kitti Kay, Sonic Rain
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svetec/)*

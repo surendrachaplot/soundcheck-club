@@ -1,6 +1,6 @@
 # VNSTY
 
-VNSTY is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Specka, Madrid on Sat, 21 Nov 2026.
+VNSTY is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Specka, Madrid on Sat, 21 Nov 2026.
 
 VNSTY is a techno and electronica artist based in Spain, with 7 gigs on soundcheck across Madrid and Malaga. Often billed alongside Reisender, Noctive and Ana Sant. Next up: Specka, Madrid on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ VNSTY is a techno and electronica artist based in Spain, with 7 gigs on soundche
 
 Reisender, Noctive, Ana Sant
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnsty/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vnsty/)*

@@ -1,6 +1,6 @@
 # Jesus RedSoul
 
-Jesus RedSoul is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hoxton Cabin, London on Sat, 28 Nov 2026.
+Jesus RedSoul is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hoxton Cabin, London on Sat, 28 Nov 2026.
 
 Jesus RedSoul is a progressive house and electronica artist based in United Kingdom, with 42 gigs on soundcheck across Barcelona, London and Madrid. Often billed alongside Cecilia Ena, Tate Tosto and hisnameisevgeni. Next up: Hoxton Cabin, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jesus RedSoul is a progressive house and electronica artist based in United King
 
 Cecilia Ena, Tate Tosto, hisnameisevgeni
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesusredsoul/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesusredsoul/)*

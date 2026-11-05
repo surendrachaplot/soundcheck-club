@@ -1,6 +1,6 @@
 # Kinki
 
-Kinki is a music venue in Manila with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Confessions of a Tomboy" on Thu, 5 Nov 2026.
+Kinki is a music venue in Manila with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Confessions of a Tomboy" on Thu, 5 Nov 2026.
 
 Kinki is a music venue in Manila listed on soundcheck. 5 upcoming gigs, with line-ups including baby ikea, inner quiet, Jolo and Lano and 1 more. See dates, start times and who's playing.
 
@@ -14,4 +14,4 @@ Kinki is a music venue in Manila listed on soundcheck. 5 upcoming gigs, with lin
 | Fri, 20 Nov 2026 | Powerhouse & Transit Records presents: Peach | Peach |
 | Sat, 28 Nov 2026 | Kinki presents: Badsista |  |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manila/club/kinki/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/manila/club/kinki/)*

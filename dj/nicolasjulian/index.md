@@ -1,14 +1,16 @@
 # Nicolas Julian
 
-Nicolas Julian is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
+Nicolas Julian is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
-Nicolas Julian is a techno and trance artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside NOTMYTYPE, IGDA and A.N.I.. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
+Nicolas Julian is a techno and trance artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside NOTMYTYPE, IGDA and A.N.I.. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
+| Sat, 14 Nov 2026 | Lokschuppen Dillingen | Baden-w-rttemberg |
+| Sat, 21 Nov 2026 | Audiodrome | Turin |
 | Fri, 4 Dec 2026 | Hansemesse, Rostock | Mecklenburg-vorpommern |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Sat, 19 Dec 2026 | Georg Elser Halle | Hamburg |
@@ -29,4 +31,4 @@ Nicolas Julian is a techno and trance artist based in Germany, with 121 gigs on 
 
 NOTMYTYPE (2), IGDA, A.N.I.
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolasjulian/)*

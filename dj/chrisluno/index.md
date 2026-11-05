@@ -1,20 +1,20 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - YKO, Kuala Lumpur on Wed, 4 Nov 2026.
+Chris Luno is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Savaya Bali, Bali on Thu, 5 Nov 2026.
 
-Chris Luno is a house and deep house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 46 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: TBA - YKO, Kuala Lumpur on Wed 4 Nov.
+Chris Luno is a house and deep house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 46 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: Savaya Bali, Bali on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | TBA - YKO | Kuala Lumpur |
 | Thu, 5 Nov 2026 | Savaya Bali | Bali |
 | Sun, 8 Nov 2026 | Crossing View & Rooftop Lounge Mag8 | Tokyo |
 | Thu, 28 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
 
+- TBA - YKO, Kuala Lumpur · Wed, 4 Nov 2026
 - Zumana Bali, Bali · Fri, 30 Oct 2026
 - Pacha, Munich · Fri, 23 Oct 2026
 - Hotel Cecil, Copenhagen · Fri, 16 Oct 2026
@@ -22,10 +22,9 @@ Chris Luno is a house and deep house artist based in Germany, with 93 gigs on so
 - Sydney Glass Island, Sydney · Sun, 4 Oct 2026
 - The Night Cat, Melbourne · Sat, 3 Oct 2026
 - The Prince Consort, Brisbane · Fri, 2 Oct 2026
-- Loo Loo, Mexico City · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 dj poolboi, sunflwr, Aliska
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisluno/)*

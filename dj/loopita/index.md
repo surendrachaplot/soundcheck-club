@@ -1,6 +1,6 @@
 # Loopita
 
-Loopita is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Bassement, Madrid on Sun, 8 Nov 2026.
+Loopita is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Bassement, Madrid on Sun, 8 Nov 2026.
 
 Loopita is a tech house and house artist based in Spain, with 15 gigs on soundcheck across Madrid. Often billed alongside DLOU, Karretero and fajardo. Next up: The Bassement, Madrid on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Loopita is a tech house and house artist based in Spain, with 15 gigs on soundch
 
 DLOU, Karretero, fajardo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loopita/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loopita/)*

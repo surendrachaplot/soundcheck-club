@@ -1,6 +1,6 @@
 # amara
 
-amara is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Klokgebouw, Eindhoven on Thu, 31 Dec 2026.
+amara is a Club and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Klokgebouw, Eindhoven on Thu, 31 Dec 2026.
 
 amara is a club and electro artist based in Spain, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Eindhoven and 4 more. Often billed alongside T.NO, awhlkuhn and KLOFAMA. Next up: Klokgebouw, Eindhoven on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ amara is a club and electro artist based in Spain, with 25 gigs on soundcheck ac
 
 T.NO, awhlkuhn, KLOFAMA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amara/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amara/)*

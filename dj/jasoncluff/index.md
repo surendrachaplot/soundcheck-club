@@ -1,6 +1,6 @@
 # Jason Cluff
 
-Jason Cluff is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
+Jason Cluff is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
 
 Jason Cluff is a techno and hardcore artist based in United Kingdom, with 58 gigs on soundcheck across Aberdeen, Belfast, Berlin and Birmingham and 17 more. Often billed alongside Black Traffic, blk. and Jezza & Jod. Next up: Akvárium Klub, Budapest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Jason Cluff is a techno and hardcore artist based in United Kingdom, with 58 gig
 
 Black Traffic, blk., Jezza & Jod
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncluff/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasoncluff/)*

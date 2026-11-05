@@ -1,6 +1,6 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "MEXIMALISMO RELEASE PARTY: RITMO FUTURO" on Thu, 5 Nov 2026.
+M.N.Roy is a music venue in Mexico City with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "MEXIMALISMO RELEASE PARTY: RITMO FUTURO" on Thu, 5 Nov 2026.
 
 M.N.Roy is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, with line-ups including Amorpho, Ander Race, Gespona and Ian Martz and 2 more. See dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
@@ -18,4 +18,4 @@ M.N.Roy is a music venue in Mexico City listed on soundcheck. 5 upcoming gigs, w
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

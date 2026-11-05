@@ -1,6 +1,6 @@
 # Alexandria
 
-Alexandria is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at SWG3, Glasgow on Fri, 6 Nov 2026.
+Alexandria is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at SWG3, Glasgow on Fri, 6 Nov 2026.
 
 Alexandria is a house and tech house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 10 more. Often billed alongside Josh Baker, Marsolo and L.P. Rhythm. Next up: SWG3, Glasgow on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Alexandria is a house and tech house artist based in United Kingdom, with 65 gig
 
 Josh Baker, Marsolo, L.P. Rhythm
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexandria/)*

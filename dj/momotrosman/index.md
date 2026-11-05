@@ -1,8 +1,8 @@
 # Momo Trosman
 
-Momo Trosman is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Momo Trosman is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-Momo Trosman is a house and tech house artist based in Argentina, with 109 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 30 more. Often billed alongside Franco Cinelli, Felipe Valenzuela and tINI. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
+Momo Trosman is a house and tech house artist based in Argentina, with 110 gigs on soundcheck across Amsterdam, Austin, Baltimore and Barcelona and 31 more. Often billed alongside Franco Cinelli, Felipe Valenzuela and Gulp. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Momo Trosman is a house and tech house artist based in Argentina, with 109 gigs 
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - Parque de la Ciudad, CABA | Buenos Aires |
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
+| Thu, 31 Dec 2026 | TBA - Aguaverde Wine Lodge  | Uruguay |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Momo Trosman is a house and tech house artist based in Argentina, with 109 gigs 
 
 ## Shares bills with
 
-Franco Cinelli, Felipe Valenzuela, tINI
+Franco Cinelli, Felipe Valenzuela, Gulp
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/momotrosman/)*

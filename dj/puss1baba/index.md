@@ -1,6 +1,6 @@
 # PUSS1 BABA
 
-PUSS1 BABA is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Frappant, Hamburg on Sat, 28 Nov 2026.
+PUSS1 BABA is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Frappant, Hamburg on Sat, 28 Nov 2026.
 
 PUSS1 BABA is a breakbeat and house artist based in Germany, with 22 gigs on soundcheck across Hamburg, Leipzig and Nürnberg. Often billed alongside Ivaldo Gino, Ring41 and L.A.tifa. Next up: Frappant, Hamburg on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ PUSS1 BABA is a breakbeat and house artist based in Germany, with 22 gigs on sou
 
 Ivaldo Gino, Ring41, L.A.tifa
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puss1baba/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/puss1baba/)*

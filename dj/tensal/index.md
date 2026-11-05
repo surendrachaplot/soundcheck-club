@@ -1,13 +1,14 @@
 # Tensal
 
-Tensal is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 21 Nov 2026.
+Tensal is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Buenos Aires on Sat, 14 Nov 2026.
 
-Tensal is a techno and acid artist based in Spain, with 59 gigs on soundcheck across Barcelona, Berlin, Bogotá and Boston and 22 more. Often billed alongside ANNĒ, DAHRAXT and DJ Europarking. Next up: Razzmatazz, Barcelona on Sat 21 Nov.
+Tensal is a techno and acid artist based in Spain, with 60 gigs on soundcheck across Barcelona, Berlin, Bogotá and Boston and 23 more. Often billed alongside ANNĒ, DAHRAXT and DJ Europarking. Next up: TBA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | TBA | Buenos Aires |
 | Sat, 21 Nov 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tensal is a techno and acid artist based in Spain, with 59 gigs on soundcheck ac
 
 ANNĒ, DAHRAXT, DJ Europarking
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tensal/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tensal/)*

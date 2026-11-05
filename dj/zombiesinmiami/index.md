@@ -1,6 +1,6 @@
 # Zombies In Miami
 
-Zombies In Miami is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Chocolate Factory, New York City on Sat, 7 Nov 2026.
+Zombies In Miami is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Chocolate Factory, New York City on Sat, 7 Nov 2026.
 
 Zombies In Miami is a house and techno artist based in Mexico, with 185 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 51 more. Often billed alongside PAU PAU, DJ Nobu and Mystery Affair. Next up: The Chocolate Factory, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Zombies In Miami is a house and techno artist based in Mexico, with 185 gigs on 
 
 PAU PAU, DJ Nobu, Mystery Affair
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiesinmiami/)*

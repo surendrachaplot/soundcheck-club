@@ -1,14 +1,15 @@
 # Eddie Fowlkes
 
-Eddie Fowlkes is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Paragon, New York City on Sat, 12 Dec 2026.
+Eddie Fowlkes is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Paragon, New York City on Sat, 12 Dec 2026.
 
-Eddie Fowlkes is a techno and house artist based in United States of America, with 87 gigs on soundcheck across Adelaide, Berlin, Chicago and Cleveland and 5 more. Often billed alongside John Collins (US), Bruce Bailey and Delano Smith. Next up: Paragon, New York City on Sat 12 Dec.
+Eddie Fowlkes is a techno and house artist based in United States of America, with 88 gigs on soundcheck across Adelaide, Berlin, Chicago and Cleveland and 5 more. Often billed alongside John Collins (US), Bruce Bailey and Delano Smith. Next up: Paragon, New York City on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Paragon | New York City |
+| Thu, 31 Dec 2026 | Marble Bar | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Eddie Fowlkes is a techno and house artist based in United States of America, wi
 
 John Collins (US), Bruce Bailey, Delano Smith
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiefowlkes/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eddiefowlkes/)*

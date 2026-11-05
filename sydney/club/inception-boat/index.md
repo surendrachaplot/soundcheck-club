@@ -1,6 +1,6 @@
 # Inception Boat
 
-Inception Boat is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "House CLTR Sydney - Ibiza Boat Party feat. Miguel Campbell (Hot Creations)" on Sat, 7 Nov 2026.
+Inception Boat is a music venue in Sydney with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "House CLTR Sydney - Ibiza Boat Party feat. Miguel Campbell (Hot Creations)" on Sat, 7 Nov 2026.
 
 Inception Boat is a music venue in Sydney listed on soundcheck. 3 upcoming gigs, with line-ups including Miguel Campbell and wAFF. See dates, start times and who's playing. King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia.
 
@@ -16,4 +16,4 @@ Inception Boat is a music venue in Sydney listed on soundcheck. 3 upcoming gigs,
 
 King Street Wharf 3, The Promenade, Sydney NSW 2000, Australia, Sydney
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/inception-boat/)*

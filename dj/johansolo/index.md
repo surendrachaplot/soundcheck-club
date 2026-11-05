@@ -1,6 +1,6 @@
 # Johan Solo
 
-Johan Solo is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Switch Bar, Barcelona on Sat, 7 Nov 2026.
+Johan Solo is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Switch Bar, Barcelona on Sat, 7 Nov 2026.
 
 Johan Solo is an electro and techno artist, with 7 gigs on soundcheck across Barcelona, Dresden and Madrid. Often billed alongside EXZAKT, HCOR and Internal Operator. Next up: Switch Bar, Barcelona on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Johan Solo is an electro and techno artist, with 7 gigs on soundcheck across Bar
 
 EXZAKT, HCOR, Internal Operator
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johansolo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johansolo/)*

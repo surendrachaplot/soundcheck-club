@@ -1,6 +1,6 @@
 # Crisco
 
-Crisco is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jolene, Copenhagen on Thu, 5 Nov 2026.
+Crisco is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Jolene, Copenhagen on Thu, 5 Nov 2026.
 
 Crisco is a techno and trance artist based in Italy, with 59 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside Sørine, Ricardo Roessel and Emil Ramsby. Next up: Jolene, Copenhagen on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Crisco is a techno and trance artist based in Italy, with 59 gigs on soundcheck 
 
 Sørine, Ricardo Roessel, Emil Ramsby
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crisco/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crisco/)*

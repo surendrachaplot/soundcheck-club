@@ -1,14 +1,15 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Gqom artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
+Shannen SP is a Amapiano and Gqom artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OHM, Berlin on Fri, 6 Nov 2026.
 
-Shannen SP is an amapiano and gqom artist based in United Kingdom, with 67 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 22 more. Often billed alongside Bok Bok, Ikonika and Call Super. Next up: OHM, Berlin on Fri 6 Nov.
+Shannen SP is an amapiano and gqom artist based in United Kingdom, with 68 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 22 more. Often billed alongside Bok Bok, Ikonika and Call Super. Next up: OHM, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | OHM | Berlin |
+| Thu, 17 Jun 2027 | Medane Beach | Croatia |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Shannen SP is an amapiano and gqom artist based in United Kingdom, with 67 gigs 
 
 Bok Bok, Ikonika, Call Super
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shannensp/)*

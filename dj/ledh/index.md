@@ -1,8 +1,8 @@
 # LEDH
 
-LEDH is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Anticuario, Bogotá on Mon, 1 Feb 2027.
+LEDH is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Anticuario, Bogotá on Mon, 1 Feb 2027.
 
-LEDH is a techno and electronica artist, with 19 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Bratislava and 3 more. Often billed alongside Aleja Vargas, Lissa (CO) and Loraw. Next up: Anticuario, Bogotá on Mon 1 Feb.
+LEDH is a techno and electronica artist based in Colombia, with 19 gigs on soundcheck across Amsterdam, Barcelona, Bogotá and Bratislava and 3 more. Often billed alongside Aleja Vargas, Lissa (CO) and Loraw. Next up: Anticuario, Bogotá on Mon 1 Feb.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ LEDH is a techno and electronica artist, with 19 gigs on soundcheck across Amste
 
 Aleja Vargas, Lissa (CO), Loraw
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ledh/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ledh/)*

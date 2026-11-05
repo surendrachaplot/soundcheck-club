@@ -1,6 +1,6 @@
 # Mark Reeder
 
-Mark Reeder is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Left Bank, Tbilisi on Sat, 7 Nov 2026.
+Mark Reeder is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Left Bank, Tbilisi on Sat, 7 Nov 2026.
 
 Mark Reeder is a techno and electronica artist based in United Kingdom, with 6 gigs on soundcheck across Berlin, Malta and Tbilisi. Often billed alongside Justin Anastasi, Aamir and Agua con gas. Next up: Left Bank, Tbilisi on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Mark Reeder is a techno and electronica artist based in United Kingdom, with 6 g
 
 Justin Anastasi, Aamir, Agua con gas
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markreeder/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markreeder/)*

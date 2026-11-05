@@ -1,6 +1,6 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
+RUZE is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
 
 RUZE is a house and tech house artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 29 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: Mint XL, Leeds on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ RUZE is a house and tech house artist based in United Kingdom, with 129 gigs on 
 
 Prunk, Kellie Allen, Robbie Doherty
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruze/)*

@@ -1,6 +1,6 @@
 # Tedman Lee
 
-Tedman Lee is a Hip-Hop and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
+Tedman Lee is a Hip-Hop and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
 
 Tedman Lee is a hip-hop and garage artist, with 6 gigs on soundcheck across Hong Kong, Seoul, Shanghai and Shenzhen. Often billed alongside Fotan Laiki, Immuno and MZee HK. Next up: Cakeshop, Seoul on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ Tedman Lee is a hip-hop and garage artist, with 6 gigs on soundcheck across Hong
 
 Fotan Laiki, Immuno, MZee HK
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tedmanlee/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tedmanlee/)*

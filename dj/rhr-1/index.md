@@ -1,6 +1,6 @@
 # RHR
 
-RHR is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
+RHR is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 13 Nov 2026.
 
 RHR is a techno and house artist based in Brazil, with 137 gigs on soundcheck across Amsterdam, Athens, Atlanta and Bangkok and 45 more. Often billed alongside Cashu, Verraco and Nick León. Next up: Nitsa Club, Barcelona on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ RHR is a techno and house artist based in Brazil, with 137 gigs on soundcheck ac
 
 Cashu, Verraco, Nick León
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhr-1/)*

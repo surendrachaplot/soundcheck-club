@@ -1,6 +1,6 @@
 # CHUBBS
 
-CHUBBS is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Goldener Reiter, Munich on Sat, 7 Nov 2026.
+CHUBBS is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Goldener Reiter, Munich on Sat, 7 Nov 2026.
 
 CHUBBS is a house and minimal artist based in Germany, with 26 gigs on soundcheck across Cologne, London and Munich. Often billed alongside DJ HOT, iamluie and Philipp Lüers. Next up: Goldener Reiter, Munich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ CHUBBS is a house and minimal artist based in Germany, with 26 gigs on soundchec
 
 DJ HOT, iamluie, Philipp Lüers
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chubbs/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chubbs/)*

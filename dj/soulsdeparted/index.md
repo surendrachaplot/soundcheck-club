@@ -1,6 +1,6 @@
 # Souls Departed
 
-Souls Departed is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Floyd, Miami on Fri, 6 Nov 2026.
+Souls Departed is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Floyd, Miami on Fri, 6 Nov 2026.
 
 Souls Departed is a techno and experimental artist based in United States of America, with 32 gigs on soundcheck across Detroit and Miami. Often billed alongside SATURNSARii, True Vine and Mr. Tron. Next up: Floyd, Miami on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Souls Departed is a techno and experimental artist based in United States of Ame
 
 SATURNSARii, True Vine, Mr. Tron
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsdeparted/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulsdeparted/)*

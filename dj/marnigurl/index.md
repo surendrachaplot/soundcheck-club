@@ -1,14 +1,15 @@
 # Marnigurl
 
-Marnigurl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mooi Space, Toronto on Fri, 20 Nov 2026.
+Marnigurl is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mooi Space, Toronto on Fri, 20 Nov 2026.
 
-Marnigurl is a techno and house artist, with 56 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Jaw Jones, Zellers and OMG.BLOG. Next up: Mooi Space, Toronto on Fri 20 Nov.
+Marnigurl is a techno and house artist, with 57 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Jaw Jones, Zellers and OMG.BLOG. Next up: Mooi Space, Toronto on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Mooi Space | Toronto |
+| Fri, 27 Nov 2026 | ESC | Montreal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marnigurl is a techno and house artist, with 56 gigs on soundcheck across Montre
 
 Jaw Jones, Zellers, OMG.BLOG
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marnigurl/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marnigurl/)*

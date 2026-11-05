@@ -1,13 +1,14 @@
 # Channel Zero
 
-Channel Zero is a music venue in Ljubljana with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "SLAY2SLAY" on Fri, 13 Nov 2026.
+Channel Zero is a music venue in Ljubljana with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SLAY2SLAY" on Fri, 13 Nov 2026.
 
-Channel Zero is a music venue in Ljubljana listed on soundcheck. 1 upcoming gig, with line-ups including gramma (SI). See dates, start times and who's playing.
+Channel Zero is a music venue in Ljubljana listed on soundcheck. 2 upcoming gigs, with line-ups including gramma (SI), Krissønik and Steeevie. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | SLAY2SLAY | gramma (SI) |
+| Fri, 4 Dec 2026 | AFERA • Steeevie, Krissønik, Zidane | Krissønik, Steeevie |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/channel-zero/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/ljubljana/club/channel-zero/)*

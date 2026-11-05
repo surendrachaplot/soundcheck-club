@@ -1,6 +1,6 @@
 # kraftwitch
 
-kraftwitch is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Warehouse, Portland on Fri, 6 Nov 2026.
+kraftwitch is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Warehouse, Portland on Fri, 6 Nov 2026.
 
 kraftwitch is a house and techno artist based in United States of America, with 37 gigs on soundcheck across Atlanta, London, New York City and Paris and 4 more. Often billed alongside Carl Michaels, DJ Matpat and ROJO. Next up: TBA - Secret Warehouse, Portland on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ kraftwitch is a house and techno artist based in United States of America, with 
 
 Carl Michaels, DJ Matpat, ROJO
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftwitch/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kraftwitch/)*

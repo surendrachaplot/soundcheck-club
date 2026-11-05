@@ -1,6 +1,6 @@
 # Hisashi Aochi
 
-Hisashi Aochi is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Metro, Kyoto on Sat, 12 Dec 2026.
+Hisashi Aochi is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Metro, Kyoto on Sat, 12 Dec 2026.
 
 Hisashi Aochi is a techno and bass artist, with 6 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Allen Mock, Astro and DJ Krush. Next up: Club Metro, Kyoto on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Hisashi Aochi is a techno and bass artist, with 6 gigs on soundcheck across Kyot
 
 Allen Mock, Astro (3), DJ Krush
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hisashiaochi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hisashiaochi/)*

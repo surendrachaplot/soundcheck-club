@@ -1,8 +1,8 @@
 # Ronny Luft
 
-Ronny Luft is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 6 Nov 2026.
+Ronny Luft is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 6 Nov 2026.
 
-Ronny Luft is a techno and house artist based in Germany, with 39 gigs on soundcheck across Berlin. Often billed alongside Felix Reichelt, Cat Vermillion and Kaminka Merel. Next up: Der Weiße Hase, Berlin on Fri 6 Nov.
+Ronny Luft is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin and Brandenburg. Often billed alongside Felix Reichelt, Cat Vermillion and Kaminka Merel. Next up: Der Weiße Hase, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ronny Luft is a techno and house artist based in Germany, with 39 gigs on soundc
 | Fri, 6 Nov 2026 | Der Weiße Hase | Berlin |
 | Sat, 28 Nov 2026 | Insomnia | Berlin |
 | Fri, 4 Dec 2026 | Der Weiße Hase | Berlin |
+| Sat, 26 Jun 2027 | Bernsteinsee Velten | Brandenburg |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Ronny Luft is a techno and house artist based in Germany, with 39 gigs on soundc
 
 Felix Reichelt, Cat Vermillion, Kaminka Merel
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnyluft/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnyluft/)*

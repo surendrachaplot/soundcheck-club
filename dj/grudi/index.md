@@ -1,6 +1,6 @@
 # Gru.di
 
-Gru.di is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 14 Nov 2026.
+Gru.di is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Gru.di is a deep house and techno artist based in Ukraine, with 35 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside IZIK, Borak and MANTi. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Gru.di is a deep house and techno artist based in Ukraine, with 35 gigs on sound
 
 IZIK, Borak, MANTi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grudi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grudi/)*

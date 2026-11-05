@@ -1,8 +1,8 @@
 # Maher Daniel
 
-Maher Daniel is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Maher Daniel is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Maher Daniel is a house and minimal artist based in Palestine, with 112 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 29 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: One Resort, Tunisia on Thu 5 Nov.
+Maher Daniel is a house and minimal artist based in Palestine, with 113 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Barcelona and 29 more. Often billed alongside Danyelino, Ricardo Villalobos and Raresh. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maher Daniel is a house and minimal artist based in Palestine, with 112 gigs on 
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Fri, 6 Nov 2026 | Club Guesthouse | Bucharest |
+| Sat, 12 Dec 2026 | TBA - Downtown Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Maher Daniel is a house and minimal artist based in Palestine, with 112 gigs on 
 
 Danyelino, Ricardo Villalobos, Raresh
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maherdaniel/)*

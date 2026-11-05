@@ -1,6 +1,6 @@
 # POTENT
 
-POTENT is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sam Goku (DE)" on Fri, 6 Nov 2026.
+POTENT is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Sam Goku (DE)" on Fri, 6 Nov 2026.
 
 POTENT is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with line-ups including Cristian Marras, GaoQiao, Mar/us and Sam Goku. See dates, start times and who's playing.
 
@@ -11,4 +11,4 @@ POTENT is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with 
 | Fri, 6 Nov 2026 | Sam Goku (DE) | Sam Goku |
 | Sat, 7 Nov 2026 | GEGEN x POTENT | Cristian Marras, GaoQiao, Mar/us |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/potent/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/potent/)*

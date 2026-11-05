@@ -1,6 +1,6 @@
 # Tommy Four Seven
 
-Tommy Four Seven is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at FOLD, London on Fri, 6 Nov 2026.
+Tommy Four Seven is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at FOLD, London on Fri, 6 Nov 2026.
 
 Tommy Four Seven is a techno and industrial artist based in United Kingdom, with 170 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 66 more. Often billed alongside Tauceti (FR), Adriana Lopez and CESAR ALMENA. Next up: FOLD, London on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Tommy Four Seven is a techno and industrial artist based in United Kingdom, with
 
 Tauceti (FR), Adriana Lopez, CESAR ALMENA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyfourseven/)*

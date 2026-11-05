@@ -1,6 +1,6 @@
 # Dream 2 Science
 
-Dream 2 Science is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at HVEN, Tokyo on Fri, 6 Nov 2026.
+Dream 2 Science is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at HVEN, Tokyo on Fri, 6 Nov 2026.
 
 Dream 2 Science is a deep house and house artist based in United States of America, with 3 gigs on soundcheck across Bangkok, London and Tokyo. Often billed alongside Apiento, Ceephax Acid Crew and DJ Zombie. Next up: HVEN, Tokyo on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Dream 2 Science is a deep house and house artist based in United States of Ameri
 
 Apiento, Ceephax Acid Crew, DJ Zombie
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dream2science/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dream2science/)*

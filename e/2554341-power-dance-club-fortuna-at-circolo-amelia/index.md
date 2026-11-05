@@ -1,6 +1,6 @@
 # POWER DANCE CLUB FORTUNA at Circolo Amelia
 
-POWER DANCE CLUB FORTUNA at Circolo Amelia on Sat 7 Nov, Milan. 9 artists: Aldonna, Andromeda\Unchained, BENNETT and Kingsizebed and 5 more. Techno and House. See the line-up on soundcheck.
+POWER DANCE CLUB FORTUNA at Circolo Amelia on Sat 7 Nov, Milan. 9 artists: Aldonna, Andromeda\Unchained, Dj Autogrill and Kingsizebed and 5 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ POWER DANCE CLUB FORTUNA at Circolo Amelia on Sat 7 Nov, Milan. 9 artists: Aldon
 
 - Aldonna
 - Andromeda\Unchained
-- BENNETT
+- Dj Autogrill
 - Kingsizebed
 - LEMME
 - Luigi Di Venere

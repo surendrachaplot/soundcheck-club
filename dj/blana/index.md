@@ -1,6 +1,6 @@
 # Blană
 
-Blană is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Krftwrk, Odense on Sat, 7 Nov 2026.
+Blană is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Krftwrk, Odense on Sat, 7 Nov 2026.
 
 Blană is a minimal and house artist based in Denmark, with 32 gigs on soundcheck across Copenhagen, Hanoi, Melbourne and Odense and 1 more. Often billed alongside Katharine, Jules David and Mas Kato. Next up: Krftwrk, Odense on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Blană is a minimal and house artist based in Denmark, with 32 gigs on soundchec
 
 Katharine, Jules David, Mas Kato
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blana/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blana/)*

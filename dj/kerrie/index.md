@@ -1,8 +1,8 @@
 # Kerrie
 
-Kerrie is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 6 Nov 2026.
+Kerrie is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 6 Nov 2026.
 
-Kerrie is a techno and house artist based in Ireland, with 143 gigs on soundcheck across Amsterdam, Armenia, Athens and Barcelona and 43 more. Often billed alongside Mareena, Neel and DJ Bone. Next up: Tresor / Globus, Berlin on Fri 6 Nov.
+Kerrie is a techno and house artist based in Ireland, with 144 gigs on soundcheck across Amsterdam, Armenia, Athens and Barcelona and 43 more. Often billed alongside Mareena, Neel and DJ Bone. Next up: Tresor / Globus, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Kerrie is a techno and house artist based in Ireland, with 143 gigs on soundchec
 | Sat, 7 Nov 2026 | Fuchs2 | Prague |
 | Fri, 20 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 21 Nov 2026 | EXIT Glasgow | Glasgow |
+| Sat, 5 Dec 2026 | RSO.BERLIN | Berlin |
 | Fri, 18 Dec 2026 | Mia Mao | Paris |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 
@@ -30,4 +31,4 @@ Kerrie is a techno and house artist based in Ireland, with 143 gigs on soundchec
 
 Mareena, Neel, DJ Bone
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrie/)*

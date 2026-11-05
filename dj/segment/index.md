@@ -1,14 +1,15 @@
 # Segment
 
-Segment is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 7 Nov 2026.
+Segment is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 7 Nov 2026.
 
-Segment is a techno and club artist based in Czech Republic, with 21 gigs on soundcheck across Berlin and Prague. Often billed alongside LickMySoul, Marie Pravda and Høll. Next up: Bukanyr Boat, Prague on Sat 7 Nov.
+Segment is a techno and club artist based in Czech Republic, with 22 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside LickMySoul, Marie Pravda and Høll. Next up: Bukanyr Boat, Prague on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Bukanyr Boat | Prague |
+| Fri, 13 Nov 2026 | Radost Music Club | Bratislava |
 | Sat, 28 Nov 2026 | Golden Gate | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Segment is a techno and club artist based in Czech Republic, with 21 gigs on sou
 
 LickMySoul, Marie Pravda, Høll
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/segment/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/segment/)*

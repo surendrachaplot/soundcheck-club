@@ -1,6 +1,6 @@
 # Deioces
 
-Deioces is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ferro Bar, Porto on Thu, 5 Nov 2026.
+Deioces is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Ferro Bar, Porto on Thu, 5 Nov 2026.
 
 Deioces is a techno and bass artist, with 10 gigs on soundcheck across Lisbon and Porto. Often billed alongside Vivax, AlFaer and Amulador. Next up: Ferro Bar, Porto on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Deioces is a techno and bass artist, with 10 gigs on soundcheck across Lisbon an
 
 Vivax, AlFaer, Amulador
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deioces/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deioces/)*

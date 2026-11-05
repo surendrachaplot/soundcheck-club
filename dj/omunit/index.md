@@ -1,8 +1,8 @@
 # Om Unit
 
-Om Unit is a Bass and Dub artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Karmen Camina, Strasbourg on Fri, 13 Nov 2026.
+Om Unit is a Bass and Dub artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Karmen Camina, Strasbourg on Fri, 13 Nov 2026.
 
-Om Unit is a bass and dub artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 50 more. Often billed alongside mad miran, Ehua and Roza Terenzi. Next up: Karmen Camina, Strasbourg on Fri 13 Nov.
+Om Unit is a bass and dub artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 51 more. Often billed alongside mad miran, Ehua and Roza Terenzi. Next up: Karmen Camina, Strasbourg on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Om Unit is a bass and dub artist based in United Kingdom, with 123 gigs on sound
 | Fri, 27 Nov 2026 | Ilion Plus | Athens |
 | Sat, 5 Dec 2026 | The Menagerie | Belfast |
 | Fri, 18 Dec 2026 | TRAUM | Antwerp |
+| Sun, 14 Mar 2027 | Campidarte Sardegna | Sardinia |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
@@ -32,4 +33,4 @@ Om Unit is a bass and dub artist based in United Kingdom, with 123 gigs on sound
 
 mad miran, Ehua, Roza Terenzi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omunit/)*

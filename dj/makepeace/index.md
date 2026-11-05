@@ -1,6 +1,6 @@
 # Makepeace
 
-Makepeace is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Radost Music Club, Bratislava on Fri, 6 Nov 2026.
+Makepeace is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Radost Music Club, Bratislava on Fri, 6 Nov 2026.
 
 Makepeace is a tech house and house artist based in Slovakia, with 45 gigs on soundcheck across Bratislava, London and Prague. Often billed alongside Bartosh, Hasky (SK) and Majsko. Next up: Radost Music Club, Bratislava on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Makepeace is a tech house and house artist based in Slovakia, with 45 gigs on so
 
 Bartosh, Hasky (SK), Majsko
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makepeace/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makepeace/)*

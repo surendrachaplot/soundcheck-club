@@ -1,6 +1,6 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "LOCALS × LIQUID: 2026 FINALE [2 STAGES]  " on Fri, 6 Nov 2026.
+Liquid Club is a music venue in Malta with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "LOCALS × LIQUID: 2026 FINALE [2 STAGES]  " on Fri, 6 Nov 2026.
 
 Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, with line-ups including Alex Micca, Acidulant, Andrea Giordani and Anna Amato and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
@@ -23,4 +23,4 @@ Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, wi
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

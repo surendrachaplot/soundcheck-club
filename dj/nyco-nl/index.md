@@ -1,13 +1,14 @@
 # NYCO (NL)
 
-NYCO (NL) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 1 May 2027.
+NYCO (NL) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BASIS, Utrecht on Sat, 9 Jan 2027.
 
-NYCO (NL) is a techno and trance artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 12 more. Often billed alongside Cynthia Spiering, KARAH and XRTN. Next up: DSTRKT Club Berlin, Berlin on Sat 1 May.
+NYCO (NL) is a techno and trance artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 12 more. Often billed alongside Cynthia Spiering, DURDENHAUER and KARAH. Next up: BASIS, Utrecht on Sat 9 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 9 Jan 2027 | BASIS | Utrecht |
 | Sat, 1 May 2027 | DSTRKT Club Berlin | Berlin |
 | Sat, 3 Jul 2027 | Lokschuppen Berlin | Berlin |
 
@@ -24,6 +25,6 @@ NYCO (NL) is a techno and trance artist based in Netherlands, with 34 gigs on so
 
 ## Shares bills with
 
-Cynthia Spiering, KARAH, XRTN
+Cynthia Spiering, DURDENHAUER, KARAH
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco-nl/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyco-nl/)*

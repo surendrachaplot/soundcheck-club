@@ -1,6 +1,6 @@
 # DEAR MONDAY, vol.311 at rake?raka?
 
-DEAR MONDAY, vol.311 at rake?raka? on Mon 16 Nov, Osaka. 1 artist: HSC. Deep House and Minimal Techno. See the line-up on soundcheck.
+DEAR MONDAY, vol.311 at rake?raka? on Mon 16 Nov, Osaka. 1 artist: HSC. Afrobeat and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

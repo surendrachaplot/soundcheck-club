@@ -1,6 +1,6 @@
 # A-TØN
 
-A-TØN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Aura Nightclub, North on Sat, 21 Nov 2026.
+A-TØN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Aura Nightclub, North on Sat, 21 Nov 2026.
 
 A-TØN is a techno and house artist based in United Kingdom, with 32 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside Amizl, CRØØK.T.D and Corran. Next up: Aura Nightclub, North on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ A-TØN is a techno and house artist based in United Kingdom, with 32 gigs on sou
 
 Amizl, CRØØK.T.D, Corran
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a-ton/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a-ton/)*

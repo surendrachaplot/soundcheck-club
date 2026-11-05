@@ -1,6 +1,6 @@
 # Rindeau
 
-Rindeau is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at WOMB, Tokyo on Sat, 7 Nov 2026.
+Rindeau is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at WOMB, Tokyo on Sat, 7 Nov 2026.
 
 Rindeau is a house and electro artist based in Argentina, with 50 gigs on soundcheck across Barcelona, Buenos Aires, Chongqing and Madrid and 5 more. Often billed alongside Stefano Andriezzi, Angelo Cortines and Villaça. Next up: WOMB, Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Rindeau is a house and electro artist based in Argentina, with 50 gigs on soundc
 
 Stefano Andriezzi, Angelo Cortines, Villaça
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rindeau/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rindeau/)*

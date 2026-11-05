@@ -1,14 +1,15 @@
 # Whodat
 
-Whodat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Podlasie Club, Chicago on Fri, 13 Nov 2026.
+Whodat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Podlasie Club, Chicago on Fri, 13 Nov 2026.
 
-Whodat is a house and techno artist based in United States of America, with 128 gigs on soundcheck across Berlin, Bristol, Chicago and Cork and 12 more. Often billed alongside Stacey Hotwaxx Hale, Father Dukes and Isaac Prieto. Next up: Podlasie Club, Chicago on Fri 13 Nov.
+Whodat is a house and techno artist based in United States of America, with 129 gigs on soundcheck across Berlin, Bristol, Chicago and Cork and 12 more. Often billed alongside Stacey Hotwaxx Hale, Father Dukes and Isaac Prieto. Next up: Podlasie Club, Chicago on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Podlasie Club | Chicago |
+| Thu, 31 Dec 2026 | Marble Bar | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Whodat is a house and techno artist based in United States of America, with 128 
 
 Stacey Hotwaxx Hale, Father Dukes, Isaac Prieto
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whodat/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whodat/)*

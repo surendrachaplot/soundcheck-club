@@ -1,6 +1,6 @@
 # RAVE RECORDS at Le Chapiteau - Marseille
 
-RAVE RECORDS at Le Chapiteau - Marseille on Fri 6 Nov, Marseille. 1 artist: Marquise. Electro and Acid. See the line-up on soundcheck.
+RAVE RECORDS at Le Chapiteau - Marseille on Fri 6 Nov, Marseille. 1 artist: Marquise. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

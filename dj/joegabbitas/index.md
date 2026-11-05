@@ -1,8 +1,8 @@
 # Joe Gabbitas
 
-Joe Gabbitas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at NDR2 Red Room, London on Fri, 20 Nov 2026.
+Joe Gabbitas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at NDR2 Red Room, London on Fri, 20 Nov 2026.
 
-Joe Gabbitas is a techno and house artist, with 7 gigs on soundcheck across London. Often billed alongside Wilks (UK), Givron and Ariane V. Next up: NDR2 Red Room, London on Fri 20 Nov.
+Joe Gabbitas is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Wilks (UK), Givron and Ariane V. Next up: NDR2 Red Room, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Joe Gabbitas is a techno and house artist, with 7 gigs on soundcheck across Lond
 
 Wilks (UK), Givron, Ariane V
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joegabbitas/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joegabbitas/)*

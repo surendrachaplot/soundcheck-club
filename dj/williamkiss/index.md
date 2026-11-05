@@ -1,6 +1,6 @@
 # William Kiss
 
-William Kiss is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Fri, 20 Nov 2026.
+William Kiss is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 William Kiss is a house and techno artist based in Australia, with 60 gigs on soundcheck across Adelaide, Amsterdam, Austin and Barcelona and 17 more. Often billed alongside Jordan Brando, Luke Alessi and Baron Von Trax. Next up: Pier 48's Shed A, San Francisco/Oakland on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ William Kiss is a house and techno artist based in Australia, with 60 gigs on so
 
 Jordan Brando, Luke Alessi, Baron Von Trax
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williamkiss/)*

@@ -1,14 +1,15 @@
 # Mike The Connector
 
-Mike The Connector is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kaufleuten, Zurich on Sat, 7 Nov 2026.
+Mike The Connector is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kaufleuten, Zurich on Sat, 7 Nov 2026.
 
-Mike The Connector is a house and tech house artist based in Switzerland, with 26 gigs on soundcheck across Amsterdam, Basel, Berlin and Geneva and 2 more. Often billed alongside Alex Belluscio, Caromelle and AANN. Next up: Kaufleuten, Zurich on Sat 7 Nov.
+Mike The Connector is a house and tech house artist based in Switzerland, with 27 gigs on soundcheck across Amsterdam, Basel, Berlin and Geneva and 2 more. Often billed alongside Alex Belluscio, Caromelle and AANN. Next up: Kaufleuten, Zurich on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Kaufleuten | Zurich |
+| Sat, 12 Dec 2026 | Nordstern | Basel |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mike The Connector is a house and tech house artist based in Switzerland, with 2
 
 Alex Belluscio, Caromelle, AANN
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miketheconnector/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miketheconnector/)*

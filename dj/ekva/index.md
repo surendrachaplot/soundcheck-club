@@ -1,6 +1,6 @@
 # EKVA
 
-EKVA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
+EKVA is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
 
 EKVA is a techno and electro artist, with 10 gigs on soundcheck across Riga and Tallinn. Often billed alongside 2B, Wodders and Aizvakardiena. Next up: 1983, Riga on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ EKVA is a techno and electro artist, with 10 gigs on soundcheck across Riga and 
 
 2B (1), Wodders, Aizvakardiena
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekva/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekva/)*

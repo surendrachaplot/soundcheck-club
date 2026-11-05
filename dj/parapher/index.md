@@ -1,6 +1,6 @@
 # PARAPHER
 
-PARAPHER is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - WAREHOUSE, Bogotá on Sat, 7 Nov 2026.
+PARAPHER is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - WAREHOUSE, Bogotá on Sat, 7 Nov 2026.
 
 PARAPHER is a techno and industrial artist based in Greece, with 65 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 21 more. Often billed alongside MMCCCXCIX, Labåzuy and Sørenga. Next up: TBA - WAREHOUSE, Bogotá on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ PARAPHER is a techno and industrial artist based in Greece, with 65 gigs on soun
 
 MMCCCXCIX, Labåzuy, Sørenga
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parapher/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parapher/)*

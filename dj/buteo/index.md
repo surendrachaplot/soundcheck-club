@@ -1,6 +1,6 @@
 # Buteo
 
-Buteo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at JAKI, Cologne on Fri, 13 Nov 2026.
+Buteo is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at JAKI, Cologne on Fri, 13 Nov 2026.
 
 Buteo is a house and disco artist, with 11 gigs on soundcheck across Amsterdam, Cologne and Dortmund / Essen. Often billed alongside MAY/O, Anna Konda and Candy Jones. Next up: JAKI, Cologne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Buteo is a house and disco artist, with 11 gigs on soundcheck across Amsterdam, 
 
 MAY/O, Anna Konda, Candy Jones
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buteo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buteo/)*

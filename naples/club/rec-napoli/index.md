@@ -1,8 +1,8 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Jen Cardini, Yamour, Runway" on Sat, 7 Nov 2026.
+REC Napoli is a music venue in Naples with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Jen Cardini, Yamour, Runway" on Sat, 7 Nov 2026.
 
-REC Napoli is a music venue in Naples listed on soundcheck. 12 upcoming gigs, with line-ups including Ale Hope, Anthea, Bobby. and busexy and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
+REC Napoli is a music venue in Naples listed on soundcheck. 12 upcoming gigs, with line-ups including Ale Hope, Anthea, Anthony Rother and Bobby. and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
 ## What's on
 
@@ -10,7 +10,7 @@ REC Napoli is a music venue in Naples listed on soundcheck. 12 upcoming gigs, wi
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Jen Cardini, Yamour, Runway | Jen Cardini, Yamour |
 | Sat, 14 Nov 2026 | Henge at REC SALOME, Markantonio, Jesooria | Jesooria, Markantonio, SALOME |
-| Sun, 15 Nov 2026 | ORA.daft at REC |  |
+| Sun, 15 Nov 2026 | ORA.daft at REC  Anthony Rother, Sexy Deep Futuristic, JJ | Anthony Rother |
 | Sat, 21 Nov 2026 | Cassy, Eduardo de la Calle, Ale Hope | Ale Hope, Cassy, Eduardo de la Calle |
 | Sat, 28 Nov 2026 | BHODI at REC Anthea, Idriss D, Vincenzo Castaldo | Anthea, Idriss D |
 | Sat, 5 Dec 2026 | Ignez, Deetron, Emmef | Deetron, Emmef, Ignez |
@@ -23,4 +23,4 @@ REC Napoli is a music venue in Naples listed on soundcheck. 12 upcoming gigs, wi
 
 Via Campana 233, Pozzuoli, 80078, Napoli, Naples
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/rec-napoli/)*

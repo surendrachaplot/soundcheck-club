@@ -1,13 +1,15 @@
 # Šafko Klub
 
-Šafko Klub is a music venue in Bratislava with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Obrodenie" on Fri, 30 Oct 2026.
+Šafko Klub is a music venue in Bratislava with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Don Bart - Strasse Aroma 2 - Křest Alba" on Fri, 6 Nov 2026.
 
-Šafko Klub is a music venue in Bratislava listed on soundcheck. 1 upcoming gig, with line-ups including Detekm, KRISTIE KARDIO and Vesnu. See dates, start times and who's playing.
+Šafko Klub is a music venue in Bratislava listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Obrodenie | Detekm, KRISTIE KARDIO, Vesnu |
+| Fri, 6 Nov 2026 | Don Bart - Strasse Aroma 2 - Křest Alba |  |
+| Sat, 7 Nov 2026 | Mániodepresia Release Party |  |
+| Thu, 12 Nov 2026 | Meowlau - Swan Bride - Festival slobody |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/afko-klub/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/afko-klub/)*

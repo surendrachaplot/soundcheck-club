@@ -1,14 +1,15 @@
 # Hakim.
 
-Hakim. is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at teller, Seoul on Sat, 7 Nov 2026.
+Hakim. is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at teller, Seoul on Sat, 7 Nov 2026.
 
-Hakim. is a techno and electro artist based in South Korea, with 35 gigs on soundcheck across Bangkok, Hong Kong, New York City and Seoul and 1 more. Often billed alongside Kyuchan, .2ndfloor and Minkyu. Next up: teller, Seoul on Sat 7 Nov.
+Hakim. is a techno and electro artist based in South Korea, with 36 gigs on soundcheck across Bangkok, Hong Kong, New York City and Seoul and 1 more. Often billed alongside Kyuchan, .2ndfloor and Yoel. Next up: teller, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | teller | Seoul |
+| Thu, 12 Nov 2026 | Modeci | Seoul |
 | Thu, 12 Nov 2026 | Modeci | Seoul |
 
 ## Recently played
@@ -24,6 +25,6 @@ Hakim. is a techno and electro artist based in South Korea, with 35 gigs on soun
 
 ## Shares bills with
 
-Kyuchan, .2ndfloor, Minkyu
+Kyuchan, .2ndfloor, Yoel
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hakim./)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hakim./)*

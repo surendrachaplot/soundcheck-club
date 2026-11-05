@@ -1,6 +1,6 @@
 # Mennie
 
-Mennie is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 14 Nov 2026.
+Mennie is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Circolo degli Illuminati, Rome on Sat, 14 Nov 2026.
 
 Mennie is a minimal and tech house artist, with 14 gigs on soundcheck across Amsterdam, Barcelona, Florence and Ibiza and 2 more. Often billed alongside Alex Neri, GNMR and Germano Ventura. Next up: Circolo degli Illuminati, Rome on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mennie is a minimal and tech house artist, with 14 gigs on soundcheck across Ams
 
 Alex Neri, GNMR, Germano Ventura
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mennie/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mennie/)*

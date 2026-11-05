@@ -1,8 +1,8 @@
 # s8jfou
 
-s8jfou is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Hasard Ludique, Paris on Fri, 29 Jan 2027.
+s8jfou is a Ambient and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Hasard Ludique, Paris on Fri, 29 Jan 2027.
 
-s8jfou is an ambient and bass artist, with 12 gigs on soundcheck across Chicago, Copenhagen, Malmo and Nantes and 3 more. Often billed alongside Ekaliff, m50 and teemup. Next up: Le Hasard Ludique, Paris on Fri 29 Jan.
+s8jfou is an ambient and bass artist based in France, with 12 gigs on soundcheck across Chicago, Copenhagen, Malmo and Nantes and 3 more. Often billed alongside Ekaliff, m50 and teemup. Next up: Le Hasard Ludique, Paris on Fri 29 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ s8jfou is an ambient and bass artist, with 12 gigs on soundcheck across Chicago,
 
 Ekaliff, m50, teemup
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s8jfou/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s8jfou/)*

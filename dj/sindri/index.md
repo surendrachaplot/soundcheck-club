@@ -1,6 +1,6 @@
 # Sindri
 
-Sindri is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Animal, New York City on Thu, 5 Nov 2026.
+Sindri is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Animal, New York City on Thu, 5 Nov 2026.
 
 Sindri is a disco and house artist based in United States of America, with 29 gigs on soundcheck across Athens, Los Angeles, Mexico City and New York City and 5 more. Often billed alongside Lovefingers, BEYA and Bears In Space. Next up: Animal, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Sindri is a disco and house artist based in United States of America, with 29 gi
 
 Lovefingers, BEYA, Bears In Space
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sindri/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sindri/)*

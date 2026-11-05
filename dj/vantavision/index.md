@@ -1,6 +1,6 @@
 # Vantavision
 
-Vantavision is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
+Vantavision is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
 
 Vantavision is a techno and tech house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside EVYA, k.meower and Ankit. Next up: Prisma, Berlin on Tue 10 Nov.
 
@@ -24,4 +24,4 @@ Vantavision is a techno and tech house artist based in Germany, with 8 gigs on s
 
 EVYA, k.meower, Ankit
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vantavision/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vantavision/)*

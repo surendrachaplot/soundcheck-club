@@ -1,6 +1,6 @@
 # Matthias Heilbronn
 
-Matthias Heilbronn is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at public records, New York City on Thu, 5 Nov 2026.
+Matthias Heilbronn is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at public records, New York City on Thu, 5 Nov 2026.
 
 Matthias Heilbronn is a house and disco artist, with 7 gigs on soundcheck across Miami, New York City, Paris and Rome and 1 more. Often billed alongside Dvize, Afshin and Andy Ward. Next up: public records, New York City on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ Matthias Heilbronn is a house and disco artist, with 7 gigs on soundcheck across
 
 Dvize, Afshin, Andy Ward
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasheilbronn/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthiasheilbronn/)*

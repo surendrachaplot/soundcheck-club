@@ -1,6 +1,6 @@
 # Wendy Bkz
 
-Wendy Bkz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 6 Nov 2026.
+Wendy Bkz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 6 Nov 2026.
 
 Wendy Bkz is a house and techno artist based in France, with 62 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Amau, Burchan Acar and Guillermo Jamas. Next up: 303 Audiophile Bar, Barcelona on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Wendy Bkz is a house and techno artist based in France, with 62 gigs on soundche
 
 Amau, Burchan Acar, Guillermo Jamas
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wendybkz/)*

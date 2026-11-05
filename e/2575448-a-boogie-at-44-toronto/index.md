@@ -1,6 +1,6 @@
-# A Boogie at 44 Toronto
+# A BOOGIE at 44 Toronto
 
-A Boogie at 44 Toronto on Sat 28 Nov, Toronto. See the line-up on soundcheck.
+A BOOGIE at 44 Toronto on Sat 28 Nov, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kaaimusic
 
-Kaaimusic is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Festivalna Dvorana Lent, Slovenia on Sat, 14 Nov 2026.
+Kaaimusic is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Festivalna Dvorana Lent, Slovenia on Sat, 14 Nov 2026.
 
 Kaaimusic is a hardcore and industrial artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Milan, Slovenia and Tokyo. Often billed alongside PULSE (NL), Gino Lightner and HEMPTOTE. Next up: Festivalna Dvorana Lent, Slovenia on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kaaimusic is a hardcore and industrial artist based in Italy, with 38 gigs on so
 
 PULSE (NL), Gino Lightner, HEMPTOTE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaimusic/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaaimusic/)*

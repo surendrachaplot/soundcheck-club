@@ -1,6 +1,6 @@
 # BTFL
 
-BTFL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 5 Dec 2026.
+BTFL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sat, 5 Dec 2026.
 
 BTFL is a techno and electro artist based in Ukraine, with 25 gigs on soundcheck across Berlin, Karlsruhe, Krakow and Madrid and 2 more. Often billed alongside Richie Beige, YANA ETC and Amøn. Next up: Lokschuppen Berlin, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ BTFL is a techno and electro artist based in Ukraine, with 25 gigs on soundcheck
 
 Richie Beige, YANA ETC, Amøn
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/btfl/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/btfl/)*

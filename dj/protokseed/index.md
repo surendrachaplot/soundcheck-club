@@ -1,8 +1,8 @@
 # Protokseed
 
-Protokseed is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mia Mao, Paris on Fri, 13 Nov 2026.
+Protokseed is a Techno and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mia Mao, Paris on Fri, 13 Nov 2026.
 
-Protokseed is a techno and hardcore artist based in France, with 46 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 16 more. Often billed alongside Sköne, FLKN and DXPE (ES). Next up: Mia Mao, Paris on Fri 13 Nov.
+Protokseed is a techno and hardcore artist based in France, with 47 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 16 more. Often billed alongside Sköne, FLKN and DXPE (ES). Next up: Mia Mao, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Protokseed is a techno and hardcore artist based in France, with 46 gigs on soun
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Mia Mao | Paris |
 | Fri, 13 Nov 2026 | Mia Mao | Paris |
+| Fri, 11 Dec 2026 | D! Club | Lausanne |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
 
 ## Recently played
@@ -27,4 +28,4 @@ Protokseed is a techno and hardcore artist based in France, with 46 gigs on soun
 
 Sköne, FLKN, DXPE (ES)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/protokseed/)*

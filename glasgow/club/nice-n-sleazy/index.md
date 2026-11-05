@@ -1,6 +1,6 @@
 # Nice N Sleazy
 
-Nice N Sleazy is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Mono Culture Fundraiser Party" on Thu, 5 Nov 2026.
+Nice N Sleazy is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Mono Culture Fundraiser Party" on Thu, 5 Nov 2026.
 
 Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs, with line-ups including Et Al, iluna, Jordan smith and Lily and 2 more. See dates, start times and who's playing. 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom.
 
@@ -20,4 +20,4 @@ Nice N Sleazy is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs,
 
 421 Sauchiehall Street; Glasgow, G2 3LG; Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/nice-n-sleazy/)*

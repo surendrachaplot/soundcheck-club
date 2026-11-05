@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 30 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "NOTRAVE: Stephie moreno B2B Not A Lex, Duorum, Angello Cedano, Barry" on Thu, 5 Nov 2026.
+EL SÓTANO is a music venue in Madrid with 30 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "NOTRAVE: Stephie moreno B2B Not A Lex, Duorum, Angello Cedano, Barry" on Thu, 5 Nov 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 30 upcoming gigs, with line-ups including Monty, Alexander Kowalski, Arok Shiva and Asora and 2 more. See dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 30 upcoming gigs, wi
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

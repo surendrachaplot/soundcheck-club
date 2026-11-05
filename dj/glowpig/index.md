@@ -1,6 +1,6 @@
 # Glow Pig
 
-Glow Pig is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hulen, Bergen on Sat, 14 Nov 2026.
+Glow Pig is a Post-Punk and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hulen, Bergen on Sat, 14 Nov 2026.
 
 Glow Pig is a post-punk and ebm artist based in Norway, with 13 gigs on soundcheck across Bergen. Often billed alongside Espen Lauritzen, Klysterik and Brnr. Next up: Hulen, Bergen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Glow Pig is a post-punk and ebm artist based in Norway, with 13 gigs on soundche
 
 Espen Lauritzen, Klysterik, Brnr
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glowpig/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glowpig/)*

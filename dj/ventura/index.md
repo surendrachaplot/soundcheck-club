@@ -1,8 +1,8 @@
 # Ventura
 
-Ventura is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+Ventura is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
-Ventura is a disco and house artist, with 6 gigs on soundcheck across Berlin, London, Monterrey and Paris. Often billed alongside Paty Vapor, Alison Swing and Balagan Sisters. Next up: Kater, Berlin on Sat 21 Nov.
+Ventura is a disco and house artist, with 6 gigs on soundcheck across Berlin, London, Monterrey and Paris. Often billed alongside Paty Vapor, manque and Alison Swing. Next up: Kater, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ Ventura is a disco and house artist, with 6 gigs on soundcheck across Berlin, Lo
 
 ## Shares bills with
 
-Paty Vapor, Alison Swing, Balagan Sisters
+Paty Vapor, manque, Alison Swing
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ventura/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ventura/)*

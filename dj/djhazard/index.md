@@ -1,6 +1,6 @@
 # DJ Hazard
 
-DJ Hazard is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Expirat Halele Carol, Bucharest on Thu, 5 Nov 2026.
+DJ Hazard is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Expirat Halele Carol, Bucharest on Thu, 5 Nov 2026.
 
 DJ Hazard is a drum & bass and jungle artist based in United Kingdom, with 46 gigs on soundcheck across Adelaide, Bangkok, Belfast and Birmingham and 16 more. Often billed alongside DJ Hype, IC3 and Dillinja. Next up: Expirat Halele Carol, Bucharest on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ DJ Hazard is a drum & bass and jungle artist based in United Kingdom, with 46 gi
 
 DJ Hype, IC3, Dillinja
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*

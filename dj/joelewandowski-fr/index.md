@@ -1,6 +1,6 @@
 # Joe Lewandowski
 
-Joe Lewandowski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
+Joe Lewandowski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cabaret Sauvage, Paris on Fri, 27 Nov 2026.
 
 Joe Lewandowski is a house and techno artist based in France, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 10 more. Often billed alongside Valentine Groove, Adam Spielman and Hardrock Striker. Next up: Cabaret Sauvage, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Joe Lewandowski is a house and techno artist based in France, with 86 gigs on so
 
 Valentine Groove, Adam Spielman, Hardrock Striker
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joelewandowski-fr/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joelewandowski-fr/)*

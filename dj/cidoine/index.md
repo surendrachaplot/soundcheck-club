@@ -1,14 +1,15 @@
 # Cidoine
 
-Cidoine is a Funk / Soul and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at 915 Dupont, Toronto on Fri, 6 Nov 2026.
+Cidoine is a Funk / Soul and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 915 Dupont, Toronto on Fri, 6 Nov 2026.
 
-Cidoine is a funk / soul and house artist based in Haiti, with 25 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Grid, MLLE CEE and Silktits. Next up: 915 Dupont, Toronto on Fri 6 Nov.
+Cidoine is a funk / soul and house artist based in Haiti, with 26 gigs on soundcheck across Montreal, New York City and Toronto. Often billed alongside Grid, MLLE CEE and Silktits. Next up: 915 Dupont, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | 915 Dupont | Toronto |
+| Mon, 9 Nov 2026 | The Little Jerry | Toronto |
 | Fri, 27 Nov 2026 | La Récré | Montreal |
 
 ## Recently played
@@ -26,4 +27,4 @@ Cidoine is a funk / soul and house artist based in Haiti, with 25 gigs on soundc
 
 Grid, MLLE CEE, Silktits
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cidoine/)*

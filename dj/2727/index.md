@@ -1,6 +1,6 @@
 # 2727
 
-2727 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
+2727 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
 
 2727 is a techno and bass artist, with 24 gigs on soundcheck across Berlin, Krakow and Vilnius. Often billed alongside Vytauras, doctor doms and 4BLISS#. Next up: TBA, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@
 
 Vytauras, doctor doms, 4BLISS#
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2727/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2727/)*

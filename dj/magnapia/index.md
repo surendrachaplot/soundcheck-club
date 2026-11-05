@@ -1,6 +1,6 @@
 # Magna Pia
 
-Magna Pia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ikii, Berlin on Thu, 5 Nov 2026.
+Magna Pia is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Ikii, Berlin on Thu, 5 Nov 2026.
 
 Magna Pia is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Dortmund / Essen and Tbilisi. Often billed alongside Inland, X Tin and 2FARO. Next up: Ikii, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Magna Pia is a techno and house artist based in Germany, with 16 gigs on soundch
 
 Inland, X Tin, 2FARO
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magnapia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/magnapia/)*

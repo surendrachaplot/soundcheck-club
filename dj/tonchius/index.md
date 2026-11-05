@@ -1,6 +1,6 @@
 # Tonchius
 
-Tonchius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kafe Hærverk, Oslo on Thu, 5 Nov 2026.
+Tonchius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kafe Hærverk, Oslo on Thu, 5 Nov 2026.
 
 Tonchius is a house and techno artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Oslo and Tbilisi. Often billed alongside Rub800, Ronya and Alex Jangle. Next up: Kafe Hærverk, Oslo on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Tonchius is a house and techno artist based in United Kingdom, with 25 gigs on s
 
 Rub800, Ronya, Alex Jangle
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonchius/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tonchius/)*

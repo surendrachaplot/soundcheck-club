@@ -1,14 +1,15 @@
 # Roy Davis Jr
 
-Roy Davis Jr is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sound Machine, Toronto on Sat, 5 Dec 2026.
+Roy Davis Jr is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sound Machine, Toronto on Sat, 5 Dec 2026.
 
-Roy Davis Jr is a house and deep house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 7 more. Often billed alongside Soul Clap, Yogi and DJ Heather. Next up: Sound Machine, Toronto on Sat 5 Dec.
+Roy Davis Jr is a house and deep house artist based in United States of America, with 24 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 7 more. Often billed alongside Soul Clap, Yogi and DJ Heather. Next up: Sound Machine, Toronto on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Sound Machine | Toronto |
+| Sat, 26 Dec 2026 | ZeyZey | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Roy Davis Jr is a house and deep house artist based in United States of America,
 
 Soul Clap, Yogi, DJ Heather
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roydavisjr/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roydavisjr/)*

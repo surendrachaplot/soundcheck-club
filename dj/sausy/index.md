@@ -1,6 +1,6 @@
 # sausy
 
-sausy is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 13 Dec 2026.
+sausy is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 13 Dec 2026.
 
 sausy is a techno and club artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside MBQT, AAlva and Benny2. Next up: Garage Noord, Amsterdam on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ sausy is a techno and club artist based in Netherlands, with 18 gigs on soundche
 
 MBQT, AAlva, Benny2
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sausy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sausy/)*

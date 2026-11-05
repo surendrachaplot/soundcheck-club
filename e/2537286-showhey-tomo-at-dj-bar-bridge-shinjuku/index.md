@@ -1,0 +1,11 @@
+# SHOWHEY & TOMO at DJ Bar Bridge Shinjuku
+
+SHOWHEY & TOMO at DJ Bar Bridge Shinjuku on Sat 14 Nov, Tokyo. House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 14 Nov 2026 |
+| Venue | DJ Bar Bridge Shinjuku |
+| City | Tokyo |
+
+*Source: [soundcheck](https://soundcheck.club/e/2537286-showhey-tomo-at-dj-bar-bridge-shinjuku/)*

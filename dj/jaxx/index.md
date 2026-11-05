@@ -1,14 +1,13 @@
 # Jaxx
 
-Jaxx is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at H0L0, New York City on Thu, 19 Nov 2026.
+Jaxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
 
-Jaxx is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Chicago, Mexico City, New South Wales and New York City and 1 more. Often billed alongside Ariel Zetina, Marcel and Miss Twink USA. Next up: H0L0, New York City on Thu 19 Nov.
+Jaxx is a house and techno artist based in United Kingdom, with 10 gigs on soundcheck across Chicago, Mexico City, New South Wales and Sydney. Often billed alongside Ariel Zetina, Marcel and Miss Twink USA. Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 19 Nov 2026 | H0L0 | New York City |
 | Sat, 26 Dec 2026 | The Golden Sheaf | New-south-wales |
 
 ## Recently played
@@ -26,4 +25,4 @@ Jaxx is a house and techno artist based in United Kingdom, with 11 gigs on sound
 
 Ariel Zetina, Marcel (1), Miss Twink USA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxx/)*

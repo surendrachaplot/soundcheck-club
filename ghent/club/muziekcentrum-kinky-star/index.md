@@ -1,6 +1,6 @@
 # Muziekcentrum Kinky Star
 
-Muziekcentrum Kinky Star is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "PROEFBUIS: ECHAFAUDAGES olé (BE)" on Thu, 5 Nov 2026.
+Muziekcentrum Kinky Star is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "PROEFBUIS: ECHAFAUDAGES olé (BE)" on Thu, 5 Nov 2026.
 
 Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line-ups including Castor W. and Jaquarius. See dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
 
@@ -19,4 +19,4 @@ Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 6 upcom
 
 Vlasmarkt 9, 9000 Gent, Ghent
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*

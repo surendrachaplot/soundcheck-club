@@ -1,6 +1,6 @@
 # Whiney
 
-Whiney is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Doornroosje, Nijmegen on Fri, 18 Dec 2026.
+Whiney is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Doornroosje, Nijmegen on Fri, 18 Dec 2026.
 
 Whiney is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Auckland, Baltimore and Berlin and 32 more. Often billed alongside P Money, Degs and Unglued. Next up: Doornroosje, Nijmegen on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Whiney is a drum & bass and jungle artist based in United Kingdom, with 67 gigs 
 
 P Money, Degs, Unglued
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whiney/)*

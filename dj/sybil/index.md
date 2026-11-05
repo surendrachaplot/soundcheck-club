@@ -1,6 +1,6 @@
 # Sybil
 
-Sybil is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 13 Nov 2026.
+Sybil is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 13 Nov 2026.
 
 Sybil is a techno and trance artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside .VRIL, BASHKKA and Kia (AU). Next up: Den Anden Side, Copenhagen on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ Sybil is a techno and trance artist based in United Kingdom, with 142 gigs on so
 
 .VRIL, BASHKKA, Kia (AU)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sybil/)*

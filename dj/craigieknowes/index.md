@@ -1,6 +1,6 @@
 # Craigie Knowes
 
-Craigie Knowes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at People's Leisure Club, Edinburgh on Fri, 6 Nov 2026.
+Craigie Knowes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at People's Leisure Club, Edinburgh on Fri, 6 Nov 2026.
 
 Craigie Knowes is a house and techno artist based in United Kingdom, with 65 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Berlin and 13 more. Often billed alongside Domenic Cappello, Fantastic Man and The Burrell Connection. Next up: People's Leisure Club, Edinburgh on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Craigie Knowes is a house and techno artist based in United Kingdom, with 65 gig
 
 Domenic Cappello, Fantastic Man, The Burrell Connection
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigieknowes/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craigieknowes/)*

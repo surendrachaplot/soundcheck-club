@@ -1,6 +1,6 @@
 # Tara Brooks
 
-Tara Brooks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+Tara Brooks is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
 
 Tara Brooks is a house and techno artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Bali, Berlin and Boston and 13 more. Often billed alongside Doc Martin, Anthony Mansfield and DJ M3. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ Tara Brooks is a house and techno artist based in United States of America, with
 
 Doc Martin, Anthony Mansfield, DJ M3
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarabrooks/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarabrooks/)*

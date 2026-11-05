@@ -1,6 +1,6 @@
 # LSG
 
-LSG is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
+LSG is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
 
 LSG is a techno and trance artist based in United Kingdom, with 41 gigs on soundcheck across Aberdeen, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside nordcorreia.mp3, MAURO and Gourski. Next up: Schlachthof Wiesbaden, Frankfurt on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ LSG is a techno and trance artist based in United Kingdom, with 41 gigs on sound
 
 nordcorreia.mp3, MAURO, Gourski
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*

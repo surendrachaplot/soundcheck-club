@@ -1,6 +1,6 @@
 # DJ SOURCE
 
-DJ SOURCE is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Golden Pudel Club, Hamburg on Sat, 14 Nov 2026.
+DJ SOURCE is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Golden Pudel Club, Hamburg on Sat, 14 Nov 2026.
 
 DJ SOURCE is a techno and breakbeat artist based in Germany, with 119 gigs on soundcheck across Berlin, Dortmund / Essen, Hamburg and Leipzig and 3 more. Often billed alongside EliaHaze, DJ Babyblade and Anton Jonathan. Next up: Golden Pudel Club, Hamburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ SOURCE is a techno and breakbeat artist based in Germany, with 119 gigs on so
 
 EliaHaze, DJ Babyblade, Anton Jonathan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsource/)*

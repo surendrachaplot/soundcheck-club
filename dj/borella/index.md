@@ -1,6 +1,6 @@
 # Borella
 
-Borella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Borella is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Borella is a techno and house artist, with 48 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Robin Dey, Mira and Caleesi. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Borella is a techno and house artist, with 48 gigs on soundcheck across Amsterda
 
 Robin Dey, Mira, Caleesi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borella/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borella/)*

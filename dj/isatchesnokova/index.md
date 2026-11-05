@@ -1,6 +1,6 @@
 # Isa Tchesnokova
 
-Isa Tchesnokova is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
+Isa Tchesnokova is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mia Mao, Paris on Thu, 26 Nov 2026.
 
 Isa Tchesnokova is a techno and trance artist, with 20 gigs on soundcheck across Basel, Geneva, Lyon and Paris and 3 more. Often billed alongside Alex Nantaya, Audrey Danza and Koboyo. Next up: Mia Mao, Paris on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Isa Tchesnokova is a techno and trance artist, with 20 gigs on soundcheck across
 
 Alex Nantaya, Audrey Danza, Koboyo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isatchesnokova/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isatchesnokova/)*

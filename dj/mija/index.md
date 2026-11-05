@@ -1,14 +1,15 @@
 # Mija
 
-Mija is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 6 Nov 2026.
+Mija is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 6 Nov 2026.
 
-Mija is a techno and trance artist based in United States of America, with 155 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 59 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Nitsa Club, Barcelona on Fri 6 Nov.
+Mija is a techno and trance artist based in United States of America, with 156 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 60 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Nitsa Club, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Nitsa Club | Barcelona |
+| Sat, 7 Nov 2026 | Studio Club Malaga | Malaga |
 | Sun, 8 Nov 2026 | Sala Cocó | Madrid |
 | Sat, 14 Nov 2026 | Das Zimmer | Mannheim |
 | Sat, 21 Nov 2026 | Mia Mao | Paris |
@@ -34,4 +35,4 @@ Mija is a techno and trance artist based in United States of America, with 155 g
 
 Bad Boombox, Mischluft, Janis Zielinski
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mija/)*

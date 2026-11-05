@@ -1,6 +1,6 @@
 # Marie Montexier
 
-Marie Montexier is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Karree, Freiburg on Fri, 6 Nov 2026.
+Marie Montexier is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Karree, Freiburg on Fri, 6 Nov 2026.
 
 Marie Montexier is a techno and house artist based in Germany, with 238 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 69 more. Often billed alongside DVS1, Ryan Elliott and KiNK. Next up: Karree, Freiburg on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Marie Montexier is a techno and house artist based in Germany, with 238 gigs on 
 
 DVS1, Ryan Elliott, KiNK
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariemontexier/)*

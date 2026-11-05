@@ -1,6 +1,6 @@
 # KURLZ
 
-KURLZ is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 6 Nov 2026.
+KURLZ is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 6 Nov 2026.
 
 KURLZ is a house and tech house artist based in United Kingdom, with 43 gigs on soundcheck across Dubai, Liverpool and Manchester. Often billed alongside Alex Moore, Kuriboh and sebastieN. Next up: Cupra City Garage Manchester, Manchester on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ KURLZ is a house and tech house artist based in United Kingdom, with 43 gigs on 
 
 Alex Moore, Kuriboh, sebastieN
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kurlz/)*

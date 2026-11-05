@@ -1,6 +1,6 @@
 # Avant Garten
 
-Avant Garten is a music venue in Buenos Aires with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "WORLD MUSIC AVG" on Tue, 10 Nov 2026.
+Avant Garten is a music venue in Buenos Aires with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "WORLD MUSIC AVG" on Tue, 10 Nov 2026.
 
 Avant Garten is a music venue in Buenos Aires listed on soundcheck. 4 upcoming gigs, with line-ups including Clara Spagnuolo, DJ Karen, KARBONI and Ladant and 2 more. See dates, start times and who's playing. Av. Libertador 3883, Arco 10, Buenos Aires, Argentina.
 
@@ -17,4 +17,4 @@ Avant Garten is a music venue in Buenos Aires listed on soundcheck. 4 upcoming g
 
 Av. Libertador 3883, Arco 10, Buenos Aires, Argentina, Buenos Aires
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/avant-garten/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/avant-garten/)*

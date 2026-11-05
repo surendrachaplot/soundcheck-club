@@ -1,6 +1,6 @@
 # BLYSS
 
-BLYSS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
+BLYSS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at DSTRKT Club Berlin, Berlin on Sat, 28 Nov 2026.
 
 BLYSS is a techno and house artist based in Germany, with 35 gigs on soundcheck across Berlin, Brussels, Cologne and Dortmund / Essen and 10 more. Often billed alongside KUKO, Cloudy and ple:xy. Next up: DSTRKT Club Berlin, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BLYSS is a techno and house artist based in Germany, with 35 gigs on soundcheck 
 
 KUKO, Cloudy, ple:xy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blyss/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blyss/)*

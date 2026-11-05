@@ -1,6 +1,6 @@
 # Pablo Bolivar
 
-Pablo Bolivar is a Deep House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
+Pablo Bolivar is a Deep House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
 
 Pablo Bolivar is a deep house and electronica artist based in Spain, with 13 gigs on soundcheck across Barcelona, Budapest, Madrid and Malmo and 4 more. Often billed alongside isu, Palma Palma and Anémi. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Pablo Bolivar is a deep house and electronica artist based in Spain, with 13 gig
 
 isu, Palma Palma, Anémi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobolivar/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobolivar/)*

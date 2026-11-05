@@ -1,6 +1,6 @@
 # Miruna Ghica
 
-Miruna Ghica is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at UNLOCKED, London on Fri, 6 Nov 2026.
+Miruna Ghica is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at UNLOCKED, London on Fri, 6 Nov 2026.
 
 Miruna Ghica is a house and tech house artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 3 more. Often billed alongside Darius Syrossian, Kellie Allen and Dale Hart. Next up: UNLOCKED, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Miruna Ghica is a house and tech house artist based in United Kingdom, with 13 g
 
 Darius Syrossian, Kellie Allen, Dale Hart
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirunaghica/)*

@@ -1,6 +1,6 @@
 # Lark
 
-Lark is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Disko Souk: John Morales, Femdelic, The Brahma (Special Disco Night)" on Fri, 6 Nov 2026.
+Lark is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Disko Souk: John Morales, Femdelic, The Brahma (Special Disco Night)" on Fri, 6 Nov 2026.
 
 Lark is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including BAMBI (UK), Electrosexual, Femdelic and John Morales and 2 more. See dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
@@ -20,4 +20,4 @@ Lark is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line
 
 Holzmarktstrasse 15-18, 10179, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lark/)*

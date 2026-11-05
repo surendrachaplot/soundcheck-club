@@ -1,6 +1,6 @@
 # Nina Hepburn
 
-Nina Hepburn is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Fundbureau, Hamburg on Fri, 6 Nov 2026.
+Nina Hepburn is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fundbureau, Hamburg on Fri, 6 Nov 2026.
 
 Nina Hepburn is a techno and house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 5 more. Often billed alongside Bizzarro Universe, KENZ and SKKIN VELVET. Next up: Fundbureau, Hamburg on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Nina Hepburn is a techno and house artist based in Germany, with 78 gigs on soun
 
 Bizzarro Universe, KENZ, SKKIN VELVET
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninahepburn/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninahepburn/)*

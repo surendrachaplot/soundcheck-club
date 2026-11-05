@@ -1,6 +1,6 @@
 # Kabir
 
-Kabir is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Casa Jako, London on Fri, 20 Nov 2026.
+Kabir is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Casa Jako, London on Fri, 20 Nov 2026.
 
 Kabir is a techno and bass artist based in United Kingdom, with 28 gigs on soundcheck across Baltimore, Berlin, London and Washington DC. Often billed alongside Sha3by Chic, kabir. and DJ Trigger Happy Ticket Finger. Next up: Casa Jako, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kabir is a techno and bass artist based in United Kingdom, with 28 gigs on sound
 
 Sha3by Chic, kabir., DJ Trigger Happy Ticket Finger
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabir/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabir/)*

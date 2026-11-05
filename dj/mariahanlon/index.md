@@ -1,6 +1,6 @@
 # Maria Hanlon
 
-Maria Hanlon is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vittoria Wharf Studio, London on Fri, 4 Dec 2026.
+Maria Hanlon is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Vittoria Wharf Studio, London on Fri, 4 Dec 2026.
 
 Maria Hanlon is a house and disco artist, with 50 gigs on soundcheck across London and Southampton. Often billed alongside Tiffany Quinn, Jojo Jones and Mas Que Nada Brothers. Next up: Vittoria Wharf Studio, London on Fri 4 Dec.
 
@@ -28,4 +28,4 @@ Maria Hanlon is a house and disco artist, with 50 gigs on soundcheck across Lond
 
 Tiffany Quinn, Jojo Jones, Mas Que Nada Brothers
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariahanlon/)*

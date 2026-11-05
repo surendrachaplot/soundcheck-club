@@ -1,6 +1,6 @@
 # CCTV
 
-CCTV is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 5 Nov 2026.
+CCTV is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Crack Bellmer, Berlin on Thu, 5 Nov 2026.
 
 CCTV is a techno and electro artist based in United States of America, with 12 gigs on soundcheck across Berlin, Chicago and Copenhagen. Often billed alongside anna andersrum, ATT1C and CHILDISH BAMBINO. Next up: Crack Bellmer, Berlin on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ CCTV is a techno and electro artist based in United States of America, with 12 g
 
 anna andersrum, ATT1C, CHILDISH BAMBINO
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cctv/)*

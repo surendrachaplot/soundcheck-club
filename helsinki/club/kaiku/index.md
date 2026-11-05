@@ -1,6 +1,6 @@
 # Kaiku
 
-Kaiku is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Kaiku presents: The Hacker (FR)" on Fri, 6 Nov 2026.
+Kaiku is a music venue in Helsinki with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Kaiku presents: The Hacker (FR)" on Fri, 6 Nov 2026.
 
 Kaiku is a music venue in Helsinki listed on soundcheck. 5 upcoming gigs, with line-ups including Basit Soomro, Daniel Kayrouz, DJ Fart in the Club and Joni DJ and 2 more. See dates, start times and who's playing. Kaikukatu 4; 00530 Helsinki; Finland.
 
@@ -18,4 +18,4 @@ Kaiku is a music venue in Helsinki listed on soundcheck. 5 upcoming gigs, with l
 
 Kaikukatu 4; 00530 Helsinki; Finland, Helsinki
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/helsinki/club/kaiku/)*

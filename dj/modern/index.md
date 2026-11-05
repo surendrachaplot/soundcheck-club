@@ -1,6 +1,6 @@
 # MODERN
 
-MODERN is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Low Key Records, Sofia on Fri, 6 Nov 2026.
+MODERN is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Low Key Records, Sofia on Fri, 6 Nov 2026.
 
 MODERN is a techno and experimental artist based in Italy, with 33 gigs on soundcheck across Sofia. Often billed alongside CONCEPTUAL, Mira Ghazal and TEDKA. Next up: Low Key Records, Sofia on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ MODERN is a techno and experimental artist based in Italy, with 33 gigs on sound
 
 CONCEPTUAL, Mira Ghazal, TEDKA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modern/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/modern/)*

@@ -1,8 +1,8 @@
 # Natascha Kann
 
-Natascha Kann is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Twist Bar, Prague on Fri, 6 Nov 2026.
+Natascha Kann is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Twist Bar, Prague on Fri, 6 Nov 2026.
 
-Natascha Kann is a house and techno artist based in Germany, with 43 gigs on soundcheck across Berlin, Hamburg, Leipzig and Prague and 1 more. Often billed alongside Discrete Circuit, Iron Curtis and Marie Lung. Next up: Twist Bar, Prague on Fri 6 Nov.
+Natascha Kann is a house and techno artist based in Germany, with 44 gigs on soundcheck across Berlin, Hamburg, Leipzig and Prague and 1 more. Often billed alongside Discrete Circuit, Iron Curtis and Kat Davids. Next up: Twist Bar, Prague on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Natascha Kann is a house and techno artist based in Germany, with 43 gigs on sou
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Twist Bar | Prague |
 | Sat, 21 Nov 2026 | Hoppetosse | Berlin |
+| Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Natascha Kann is a house and techno artist based in Germany, with 43 gigs on sou
 
 ## Shares bills with
 
-Discrete Circuit, Iron Curtis, Marie Lung
+Discrete Circuit, Iron Curtis, Kat Davids
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschakann/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nataschakann/)*

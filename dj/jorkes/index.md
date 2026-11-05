@@ -1,6 +1,6 @@
 # Jorkes
 
-Jorkes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Giselle, Düsseldorf on Fri, 6 Nov 2026.
+Jorkes is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Giselle, Düsseldorf on Fri, 6 Nov 2026.
 
 Jorkes is a house and techno artist based in Greece, with 152 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 15 more. Often billed alongside TiZiAN (DE), Massimiliano Pagliara and Rumi de Baires. Next up: Giselle, Düsseldorf on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Jorkes is a house and techno artist based in Greece, with 152 gigs on soundcheck
 
 TiZiAN (DE), Massimiliano Pagliara, Rumi de Baires
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jorkes/)*

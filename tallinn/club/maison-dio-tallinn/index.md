@@ -1,6 +1,6 @@
 # Maison Dio Tallinn
 
-Maison Dio Tallinn is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "DIO SOCIETY · Saturday nights" on Sat, 7 Nov 2026.
+Maison Dio Tallinn is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "DIO SOCIETY · Saturday nights" on Sat, 7 Nov 2026.
 
 Maison Dio Tallinn is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including Marshall Jefferson and Philgood. See dates, start times and who's playing. Tallinn, 10143, Rävala pst 12, Harjumaakond, Estonia.
 
@@ -15,4 +15,4 @@ Maison Dio Tallinn is a music venue in Tallinn listed on soundcheck. 2 upcoming 
 
 Tallinn, 10143, Rävala pst 12, Harjumaakond, Estonia, Tallinn
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/maison-dio-tallinn/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tallinn/club/maison-dio-tallinn/)*

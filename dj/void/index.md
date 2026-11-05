@@ -1,6 +1,6 @@
 # VØID
 
-VØID is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Studio56, Paris on Sat, 7 Nov 2026.
+VØID is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Studio56, Paris on Sat, 7 Nov 2026.
 
 VØID is a techno and bass artist, with 6 gigs on soundcheck across Auckland, Ibiza, Paris and Seoul. Often billed alongside Andwahn, HASLA and Killoverjoy. Next up: Studio56, Paris on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ VØID is a techno and bass artist, with 6 gigs on soundcheck across Auckland, Ib
 
 Andwahn, HASLA, Killoverjoy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/void/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/void/)*

@@ -1,6 +1,6 @@
 # Vitess
 
-Vitess is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Sucre, Lyon on Fri, 6 Nov 2026.
+Vitess is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Sucre, Lyon on Fri, 6 Nov 2026.
 
 Vitess is a house and techno artist based in France, with 112 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 46 more. Often billed alongside Grand V, Occibel and Emma B. Next up: Le Sucre, Lyon on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Vitess is a house and techno artist based in France, with 112 gigs on soundcheck
 
 Grand V, Occibel, Emma B
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitess/)*

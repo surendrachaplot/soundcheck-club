@@ -1,6 +1,6 @@
 # The Cause
 
-The Cause is a music venue in London with 26 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "I Love Acid presents DJ Pierre + 808 State + Lauren Flax" on Fri, 6 Nov 2026.
+The Cause is a music venue in London with 26 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "I Love Acid presents DJ Pierre + 808 State + Lauren Flax" on Fri, 6 Nov 2026.
 
 The Cause is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including 4000 Hz, 808 State, A For Alpha and Alexandra and 2 more. See dates, start times and who's playing. 60 Dock Road, London, E16 1YZ.
 
@@ -23,4 +23,4 @@ The Cause is a music venue in London listed on soundcheck. 26 upcoming gigs, wit
 
 60 Dock Road, London, E16 1YZ, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-cause/)*

@@ -1,6 +1,6 @@
 # FELINE (JP)
 
-FELINE (JP) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at HVEN, Tokyo on Sat, 7 Nov 2026.
+FELINE (JP) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at HVEN, Tokyo on Sat, 7 Nov 2026.
 
 FELINE (JP) is a house and techno artist based in Japan, with 235 gigs on soundcheck across Kyoto, Okinawa, Osaka and San Francisco/Oakland and 2 more. Often billed alongside okadada, Sekitova and kengotaki. Next up: HVEN, Tokyo on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ FELINE (JP) is a house and techno artist based in Japan, with 235 gigs on soundc
 
 okadada, Sekitova, kengotaki
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feline-jp/)*

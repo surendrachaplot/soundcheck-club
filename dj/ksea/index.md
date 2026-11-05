@@ -1,6 +1,6 @@
 # k:sea
 
-k:sea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Red Bar, Tokyo on Thu, 5 Nov 2026.
+k:sea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Red Bar, Tokyo on Thu, 5 Nov 2026.
 
 k:sea is a techno and house artist based in Japan, with 43 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Arao, K8 (TYO GQOM) and Onométro. Next up: Red Bar, Tokyo on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ k:sea is a techno and house artist based in Japan, with 43 gigs on soundcheck ac
 
 Arao, K8 (TYO GQOM), Onométro
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksea/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksea/)*

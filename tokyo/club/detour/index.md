@@ -1,6 +1,6 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SLXZZA (SCHRANZ / HARDCORE)" on Thu, 5 Nov 2026.
+DeTour is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SLXZZA (SCHRANZ / HARDCORE)" on Thu, 5 Nov 2026.
 
 DeTour is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including Antoniexx, ASIN, BEPPU and bloodymarii and 2 more. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
@@ -20,4 +20,4 @@ DeTour is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with lin
 
 B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032, Tokyo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/detour/)*

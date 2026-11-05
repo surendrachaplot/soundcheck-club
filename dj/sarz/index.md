@@ -1,6 +1,6 @@
 # Sarz
 
-Sarz is a House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at SILO, New York City on Sat, 28 Nov 2026.
+Sarz is a House and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at SILO, New York City on Sat, 28 Nov 2026.
 
 Sarz is a house and afrobeats artist, with 6 gigs on soundcheck across Berlin, London, Los Angeles and New York City. Often billed alongside ABADIR, Bill Kouligas and Binghi. Next up: SILO, New York City on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ Sarz is a house and afrobeats artist, with 6 gigs on soundcheck across Berlin, L
 
 ABADIR, Bill Kouligas, Binghi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarz/)*

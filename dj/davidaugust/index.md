@@ -1,6 +1,6 @@
 # David August
 
-David August is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+David August is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
 
 David August is an experimental and electronica artist, with 38 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Sofia Kourtesis, Bendik Giske and Cassius. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ David August is an experimental and electronica artist, with 38 gigs on soundche
 
 Sofia Kourtesis, Bendik Giske, Cassius
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidaugust/)*

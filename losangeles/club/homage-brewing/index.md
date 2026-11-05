@@ -1,18 +1,18 @@
 # Homage Brewing
 
-Homage Brewing is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 30 Oct 2026. The next is "Colored Craig & Pretty Gay Friendly" on Fri, 30 Oct 2026.
+Homage Brewing is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Darone Sassounian & Lara Sarkissian" on Fri, 6 Nov 2026.
 
-Homage Brewing is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Colored Craig and Pretty Gay Friendly. See dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
+Homage Brewing is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Darone Sassounian and Lara Sarkissian. See dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 30 Oct 2026 | Colored Craig & Pretty Gay Friendly | Colored Craig, Pretty Gay Friendly |
-| Sat, 31 Oct 2026 | goyo club presents ELECTRIC CLEANERS PARTY 017 - HALLOWEEN SPECIAL |  |
+| Fri, 6 Nov 2026 | Darone Sassounian & Lara Sarkissian | Darone Sassounian, Lara Sarkissian |
+| Sat, 7 Nov 2026 | CHRYSALIS, JUVENILE DEITY, IZE11A & PUTADEINGLEWOOD |  |
 
 ## Address
 
 1219 N Main St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*

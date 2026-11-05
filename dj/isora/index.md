@@ -1,14 +1,15 @@
 # ISORA
 
-ISORA is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Distillery N17, London on Sun, 22 Nov 2026.
+ISORA is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Distillery N17, London on Sun, 22 Nov 2026.
 
-ISORA is an acid and techno artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Berlin, Bristol and London and 2 more. Often billed alongside Krunx, The Bass Injector and Shirley Temper. Next up: Distillery N17, London on Sun 22 Nov.
+ISORA is an acid and techno artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Berlin, Bristol and London and 2 more. Often billed alongside Krunx, The Bass Injector and Shirley Temper. Next up: Distillery N17, London on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Distillery N17 | London |
+| Fri, 5 Feb 2027 | Avalon Cafe Bermondsey | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ ISORA is an acid and techno artist based in United Kingdom, with 40 gigs on soun
 
 Krunx, The Bass Injector, Shirley Temper
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isora/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isora/)*

@@ -1,6 +1,6 @@
 # N8TURE presents - Because of Art at The Hangar
 
-N8TURE presents - Because of Art at The Hangar on Sat 28 Nov, South East. 5 artists: Because of Art, Jay Francisco, Phil Foggs and Ricky Kelsey and 1 more. See the line-up on soundcheck.
+N8TURE presents - Because of Art at The Hangar on Sat 28 Nov, South East. 6 artists: Because of Art, illumiharli, Jay Francisco and Phil Foggs and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ N8TURE presents - Because of Art at The Hangar on Sat 28 Nov, South East. 5 arti
 ## Line-up
 
 - Because of Art
+- illumiharli
 - Jay Francisco
 - Phil Foggs
 - Ricky Kelsey

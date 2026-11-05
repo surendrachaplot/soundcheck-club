@@ -1,6 +1,6 @@
 # Dudu
 
-Dudu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 6 Dec 2026.
+Dudu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 6 Dec 2026.
 
 Dudu is a techno and house artist, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 3 more. Often billed alongside Daan Donk, Franziska Berns and Jack D. Next up: EL SÓTANO, Madrid on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Dudu is a techno and house artist, with 15 gigs on soundcheck across Amsterdam, 
 
 Daan Donk, Franziska Berns, Jack D
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dudu/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dudu/)*

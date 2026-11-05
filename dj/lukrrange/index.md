@@ -1,14 +1,15 @@
 # Lukr Range
 
-Lukr Range is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at OST, Berlin on Thu, 19 Nov 2026.
+Lukr Range is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OST, Berlin on Thu, 19 Nov 2026.
 
-Lukr Range is a techno and trance artist based in Germany, with 82 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 10 more. Often billed alongside VNVK, EMIRA and Inverse Element. Next up: OST, Berlin on Thu 19 Nov.
+Lukr Range is a techno and trance artist based in Germany, with 83 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bologna and 11 more. Often billed alongside VNVK, EMIRA and Inverse Element. Next up: OST, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | OST | Berlin |
+| Fri, 11 Dec 2026 | Drugstore Beograd | Belgrade |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lukr Range is a techno and trance artist based in Germany, with 82 gigs on sound
 
 VNVK, EMIRA, Inverse Element
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukrrange/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukrrange/)*

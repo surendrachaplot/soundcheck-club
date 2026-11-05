@@ -1,6 +1,6 @@
 # LeStrange
 
-LeStrange is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Ivy, Sydney on Sat, 14 Nov 2026.
+LeStrange is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Ivy, Sydney on Sat, 14 Nov 2026.
 
 LeStrange is a techno and industrial artist based in Australia, with 83 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 15 more. Often billed alongside I-SO, ART IS HARD and Madsync. Next up: The Ivy, Sydney on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ LeStrange is a techno and industrial artist based in Australia, with 83 gigs on 
 
 I-SO, ART IS HARD, Madsync
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lestrange/)*

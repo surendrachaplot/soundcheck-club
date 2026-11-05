@@ -1,6 +1,6 @@
 # Roy Rosenfeld
 
-Roy Rosenfeld is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Upside, Florida on Fri, 13 Nov 2026.
+Roy Rosenfeld is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Upside, Florida on Fri, 13 Nov 2026.
 
 Roy Rosenfeld is a house and progressive house artist based in Czech Republic, with 140 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Sebastien Leger, Guy Mantzur and Lee Burridge. Next up: Upside, Florida on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Roy Rosenfeld is a house and progressive house artist based in Czech Republic, w
 
 Sebastien Leger, Guy Mantzur, Lee Burridge
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/royrosenfeld/)*

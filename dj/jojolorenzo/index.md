@@ -1,6 +1,6 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at smartbar, Chicago on Fri, 6 Nov 2026.
+Jojo Lorenzo is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at smartbar, Chicago on Fri, 6 Nov 2026.
 
 Jojo Lorenzo is a house and disco artist based in United States of America, with 131 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 25 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: smartbar, Chicago on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Jojo Lorenzo is a house and disco artist based in United States of America, with
 
 Tinzo, RaeCola, Varist
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jojolorenzo/)*

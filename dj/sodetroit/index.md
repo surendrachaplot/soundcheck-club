@@ -1,6 +1,6 @@
 # So detroit
 
-So detroit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Left Bank, Tbilisi on Fri, 6 Nov 2026.
+So detroit is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Left Bank, Tbilisi on Fri, 6 Nov 2026.
 
 So detroit is a house and techno artist, with 16 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Meyra, Sevda and Toke (GE). Next up: Left Bank, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ So detroit is a house and techno artist, with 16 gigs on soundcheck across Berli
 
 Meyra, Sevda, Toke (GE)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sodetroit/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sodetroit/)*

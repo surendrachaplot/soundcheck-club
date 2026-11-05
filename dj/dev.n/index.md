@@ -1,8 +1,8 @@
 # dev.n
 
-dev.n is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Mondo, Baltimore on Fri, 6 Nov 2026.
+dev.n is a Club and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Mondo, Baltimore on Fri, 6 Nov 2026.
 
-dev.n is a club and house artist based in United States of America, with 8 gigs on soundcheck across Baltimore, Chicago and New York City. Often billed alongside NoahG, BRATATTACK and Botanist. Next up: Le Mondo, Baltimore on Fri 6 Nov.
+dev.n is a club and ghetto tech artist based in United States of America, with 10 gigs on soundcheck across Baltimore, Chicago and New York City. Often billed alongside Mo Mami, NoahG and BRATATTACK. Next up: Le Mondo, Baltimore on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ dev.n is a club and house artist based in United States of America, with 8 gigs 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Le Mondo | Baltimore |
 | Thu, 12 Nov 2026 | Bossa Nova Civic Club | New York City |
+| Fri, 13 Nov 2026 | Night Club 101 | New York City |
+| Fri, 27 Nov 2026 | Bourbon On Division | Chicago |
 | Fri, 11 Dec 2026 | Mood Ring | New York City |
 
 ## Recently played
@@ -22,6 +24,6 @@ dev.n is a club and house artist based in United States of America, with 8 gigs 
 
 ## Shares bills with
 
-NoahG, BRATATTACK, Botanist
+Mo Mami, NoahG, BRATATTACK
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dev.n/)*

@@ -1,6 +1,6 @@
 # Serge
 
-Serge is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at public records, New York City on Fri, 6 Nov 2026.
+Serge is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at public records, New York City on Fri, 6 Nov 2026.
 
 Serge is a techno and house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside Afra, Alberta Balsam and Detroit In Effect. Next up: public records, New York City on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Serge is a techno and house artist based in Netherlands, with 72 gigs on soundch
 
 Afra, Alberta Balsam, Detroit In Effect
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*

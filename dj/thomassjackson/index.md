@@ -1,6 +1,6 @@
 # Thomass Jackson
 
-Thomass Jackson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
+Thomass Jackson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
 
 Thomass Jackson is a house and techno artist based in Mexico, with 58 gigs on soundcheck across Barcelona, Berlin, Bogotá and Bucharest and 18 more. Often billed alongside Iñigo Vontier, Theus Mago and Barreto. Next up: Outline, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Thomass Jackson is a house and techno artist based in Mexico, with 58 gigs on so
 
 Iñigo Vontier, Theus Mago, Barreto
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomassjackson/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomassjackson/)*

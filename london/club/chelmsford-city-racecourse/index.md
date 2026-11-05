@@ -1,6 +1,6 @@
 # Chelmsford City Racecourse
 
-Chelmsford City Racecourse is a music venue in London with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "POSHFUNK - The Winter Ball" on Sat, 21 Nov 2026.
+Chelmsford City Racecourse is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "POSHFUNK - The Winter Ball" on Sat, 21 Nov 2026.
 
 Chelmsford City Racecourse is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Kepler, Benji King, Billy Daniel Bunter and Captain Wallop and 2 more. See dates, start times and who's playing. Chelmsford City Racecourse, Chelmsford, Essex CM3 1QP.
 
@@ -15,4 +15,4 @@ Chelmsford City Racecourse is a music venue in London listed on soundcheck. 2 up
 
 Chelmsford City Racecourse, Chelmsford, Essex CM3 1QP, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/chelmsford-city-racecourse/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/chelmsford-city-racecourse/)*

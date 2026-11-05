@@ -1,14 +1,15 @@
 # Machinedrum
 
-Machinedrum is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Don Quixote, Los Angeles on Sat, 21 Nov 2026.
+Machinedrum is a Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Don Quixote, Los Angeles on Sat, 21 Nov 2026.
 
-Machinedrum is a bass and house artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 29 more. Often billed alongside Bianca Oblivion, Conducta and Nia Archives. Next up: Don Quixote, Los Angeles on Sat 21 Nov.
+Machinedrum is a bass and house artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 30 more. Often billed alongside Bianca Oblivion, Conducta and Nia Archives. Next up: Don Quixote, Los Angeles on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Don Quixote | Los Angeles |
+| Thu, 4 Feb 2027 | Купе / Kupe | Sofia |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Machinedrum is a bass and house artist based in United States of America, with 7
 
 Bianca Oblivion, Conducta, Nia Archives
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/machinedrum/)*

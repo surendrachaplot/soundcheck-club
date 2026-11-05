@@ -1,6 +1,6 @@
 # ZONDAX
 
-ZONDAX is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+ZONDAX is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 ZONDAX is a techno and minimal artist, with 13 gigs on soundcheck across Amsterdam, Bangkok, Manchester and Vienna and 1 more. Often billed alongside Technoslave_69, Cybersex and Delano Legito. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ZONDAX is a techno and minimal artist, with 13 gigs on soundcheck across Amsterd
 
 Technoslave_69, Cybersex, Delano Legito
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zondax/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zondax/)*

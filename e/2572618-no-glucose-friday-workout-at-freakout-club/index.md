@@ -1,6 +1,6 @@
 # No Glucose Friday–Workout at Freakout Club
 
-No Glucose Friday–Workout at Freakout Club on Fri 6 Nov, Bologna. 1 artist: MBODJ. Techno and Club. See the line-up on soundcheck.
+No Glucose Friday–Workout at Freakout Club on Fri 6 Nov, Bologna. 1 artist: MBODJ. Club and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,13 +1,13 @@
 # Matriarch LA
 
-Matriarch LA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Bad Gyal Night" on Fri, 6 Nov 2026.
+Matriarch LA is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Bad Gyal Night" on Fri, 6 Nov 2026.
 
-Matriarch LA is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Diablito and Zamythi. See dates, start times and who's playing.
+Matriarch LA is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Diablito, DINABN and Zamythi. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Bad Gyal Night | Diablito, Zamythi |
+| Fri, 6 Nov 2026 | Bad Gyal Night | DINABN, Diablito, Zamythi |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/matriarch-la/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/matriarch-la/)*

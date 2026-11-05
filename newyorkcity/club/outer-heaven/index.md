@@ -1,14 +1,13 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Outer Heaven presents: Nuno Carneiro" on Wed, 4 Nov 2026.
+Outer Heaven is a music venue in New York City with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Outer Heaven presents: Jivan Calderone - Willy Gorgon" on Thu, 5 Nov 2026.
 
-Outer Heaven is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including Amelia Holt, CAMILLA, Carpet (F.L.H.P) and EREZ.JPG and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in New York City listed on soundcheck. 13 upcoming gigs, with line-ups including Amelia Holt, CAMILLA, Carpet (F.L.H.P) and EREZ.JPG and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Outer Heaven presents: Nuno Carneiro | Nuno Carneiro |
 | Thu, 5 Nov 2026 | Outer Heaven presents: Jivan Calderone - Willy Gorgon | Willy Gorgon |
 | Fri, 6 Nov 2026 | Outer Heaven presents: Secret Guest |  |
 | Sat, 7 Nov 2026 | Outer Heaven presents: DJ Immortal [Live] |  |
@@ -18,9 +17,10 @@ Outer Heaven is a music venue in New York City listed on soundcheck. 14 upcoming
 | Sat, 21 Nov 2026 | Outer Heaven presents: Jack Mulqueen | Jack Mulqueen |
 | Wed, 25 Nov 2026 | Out The Bag presents: Choukroun b2b Monk | Monk (2) |
 | Fri, 27 Nov 2026 | Outer Heaven presents: Erez b2b shanty mane | EREZ.JPG, shanty mane |
+| Wed, 16 Dec 2026 | Out The Bag presents: Choukroun b2b Monk | Monk (2) |
 
 ## Address
 
 191 Chrystie Street, New York, NY 10002, New York City
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/outer-heaven/)*

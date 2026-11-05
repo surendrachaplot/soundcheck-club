@@ -1,6 +1,6 @@
 # AVANT-GARDE at Club (o)Utopos
 
-AVANT-GARDE at Club (o)Utopos on Sat 7 Nov, Chubu. 2 artists: Enishi and RRRKRTA. See the line-up on soundcheck.
+AVANT-GARDE at Club (o)Utopos on Sat 7 Nov, Chubu. 3 artists: Enishi, RICA and RRRKRTA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ AVANT-GARDE at Club (o)Utopos on Sat 7 Nov, Chubu. 2 artists: Enishi and RRRKRTA
 ## Line-up
 
 - Enishi
+- RICA
 - RRRKRTA
 
 *Source: [soundcheck](https://soundcheck.club/e/2557291-avant-garde-at-club-o-utopos/)*

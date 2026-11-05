@@ -14,7 +14,7 @@ FREEDIVE//005 W/Matthias,Yamour, Bunney & Josh Keit at Gaffe on Fri 13 Nov, Lond
 - Josh Keit
 - Jude Race
 - Matthias (1)
-- Neev
+- Neev.
 - not so genius
 - tom thumb
 - Yamour

@@ -1,6 +1,6 @@
 # Mistressandcommander
 
-Mistressandcommander is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hafenbahnhof, Hamburg on Fri, 6 Nov 2026.
+Mistressandcommander is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hafenbahnhof, Hamburg on Fri, 6 Nov 2026.
 
 Mistressandcommander is a techno and tech house artist based in Germany, with 15 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside Domovnika, Drama Hexe and Emma Ro.zn. Next up: Hafenbahnhof, Hamburg on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mistressandcommander is a techno and tech house artist based in Germany, with 15
 
 Domovnika, Drama Hexe, Emma Ro.zn
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistressandcommander/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mistressandcommander/)*

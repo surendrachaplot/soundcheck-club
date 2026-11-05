@@ -1,6 +1,6 @@
 # Aroh
 
-Aroh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Aroh is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
 Aroh is a techno and house artist based in Belgium, with 49 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Beijing and 5 more. Often billed alongside DONIA, Emily Jeanne and Kuba'97. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
@@ -13,6 +13,7 @@ Aroh is a techno and house artist based in Belgium, with 49 gigs on soundcheck a
 
 ## Recently played
 
+- Crevette Records, Brussels · Wed, 4 Nov 2026
 - Jalousy, Brussels · Fri, 1 May 2026
 - TBA - Cinquantenaire Tunnel Complex, Brussels · Sat, 4 Apr 2026
 - C12, Brussels · Sat, 24 Jan 2026
@@ -20,10 +21,9 @@ Aroh is a techno and house artist based in Belgium, with 49 gigs on soundcheck a
 - ASIAT Park, Brussels · Wed, 31 Dec 2025
 - TBA - CLUB FRIGO, Antwerp · Sat, 6 Dec 2025
 - RESET, Brussels · Fri, 10 Oct 2025
-- TBA - Multiple Venues, Brussels · Wed, 8 Oct 2025
 
 ## Shares bills with
 
 DONIA, Emily Jeanne, Kuba'97
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aroh-1/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aroh-1/)*

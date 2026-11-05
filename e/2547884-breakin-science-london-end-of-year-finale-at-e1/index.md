@@ -1,6 +1,6 @@
 # Breakin Science London - End of Year Finale at E1
 
-Breakin Science London - End of Year Finale at E1 on Sun 27 Dec, London. 18 artists: AZZA, b-line, DJ Brockie and Ego Trippin and 14 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Breakin Science London - End of Year Finale at E1 on Sun 27 Dec, London. 17 artists: b-line, DJ Brockie, Ego Trippin and Eksman and 13 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Breakin Science London - End of Year Finale at E1 on Sun 27 Dec, London. 18 arti
 
 ## Line-up
 
-- AZZA
 - b-line
 - DJ Brockie
 - Ego Trippin

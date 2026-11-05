@@ -1,6 +1,6 @@
 # Felix Da Housecat
 
-Felix Da Housecat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at House of Yes, New York City on Sat, 28 Nov 2026.
+Felix Da Housecat is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at House of Yes, New York City on Sat, 28 Nov 2026.
 
 Felix Da Housecat is a house and techno artist based in United States of America, with 80 gigs on soundcheck across Adelaide, Antwerp, Atlanta and Auckland and 28 more. Often billed alongside Roger Sanchez, DJ Paulette and Derrick Carter. Next up: House of Yes, New York City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Felix Da Housecat is a house and techno artist based in United States of America
 
 Roger Sanchez, DJ Paulette, Derrick Carter
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixdahousecat/)*

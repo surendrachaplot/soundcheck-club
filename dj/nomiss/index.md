@@ -1,6 +1,6 @@
 # NO MISS
 
-NO MISS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pamela Club, Paris on Sat, 7 Nov 2026.
+NO MISS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Pamela Club, Paris on Sat, 7 Nov 2026.
 
 NO MISS is a techno and trance artist based in France, with 31 gigs on soundcheck across Berlin, Budapest, Marseille and Nantes and 1 more. Often billed alongside BETÏSES, Bones 33 and ARTISAN. Next up: Pamela Club, Paris on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ NO MISS is a techno and trance artist based in France, with 31 gigs on soundchec
 
 BETÏSES, Bones 33, ARTISAN
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomiss/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nomiss/)*

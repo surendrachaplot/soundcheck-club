@@ -1,6 +1,6 @@
 # Bsmnt
 
-Bsmnt is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Residents Night" on Thu, 5 Nov 2026.
+Bsmnt is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Residents Night" on Thu, 5 Nov 2026.
 
 Bsmnt is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including J. Worra and Kyle Starkey. See dates, start times and who's playing. 100 stuart st, boston, ma.
 
@@ -16,4 +16,4 @@ Bsmnt is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with lin
 
 100 stuart st, boston, ma, Boston
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/bsmnt/)*

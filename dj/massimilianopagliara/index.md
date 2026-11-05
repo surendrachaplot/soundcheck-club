@@ -1,6 +1,6 @@
 # Massimiliano Pagliara
 
-Massimiliano Pagliara is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
+Massimiliano Pagliara is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - 3 LOCAIS / 3 LOCATIONS, Sao-paulo on Fri, 6 Nov 2026.
 
 Massimiliano Pagliara is a house and techno artist based in Italy, with 278 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 82 more. Often billed alongside Jorkes, Boris and Luigi Di Venere. Next up: TBA - 3 LOCAIS / 3 LOCATIONS, Sao Paulo on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Massimiliano Pagliara is a house and techno artist based in Italy, with 278 gigs
 
 Jorkes, Boris, Luigi Di Venere
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/massimilianopagliara/)*

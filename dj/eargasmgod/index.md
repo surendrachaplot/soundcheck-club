@@ -1,6 +1,6 @@
 # EARGASM GOD
 
-EARGASM GOD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
+EARGASM GOD is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Airport Würzburg, Nürnberg on Fri, 20 Nov 2026.
 
 EARGASM GOD is a techno and trance artist based in Poland, with 186 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 48 more. Often billed alongside DJ Traytex, Indecorum and Meg (PL). Next up: Airport Würzburg, Nürnberg on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ EARGASM GOD is a techno and trance artist based in Poland, with 186 gigs on soun
 
 DJ Traytex, Indecorum, Meg (PL)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eargasmgod/)*

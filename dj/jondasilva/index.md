@@ -1,6 +1,6 @@
 # Jon Dasilva
 
-Jon Dasilva is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Jon Dasilva is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Jon Dasilva is an acid and house artist based in United Kingdom, with 37 gigs on soundcheck across Bangkok, Birmingham, Brighton and Glasgow and 5 more. Often billed alongside Posthuman, Graeme Park and DJ Paulette. Next up: The Cause, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jon Dasilva is an acid and house artist based in United Kingdom, with 37 gigs on
 
 Posthuman, Graeme Park, DJ Paulette
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jondasilva/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jondasilva/)*

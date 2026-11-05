@@ -1,14 +1,15 @@
 # Duck Trash
 
-Duck Trash is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Podlasie Club, Chicago on Sat, 7 Nov 2026.
+Duck Trash is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Podlasie Club, Chicago on Sat, 7 Nov 2026.
 
-Duck Trash is a techno and house artist based in United States of America, with 130 gigs on soundcheck across Adelaide, Chicago, Cleveland and Detroit and 3 more. Often billed alongside Amino, Garrison XR and hypemelo. Next up: Podlasie Club, Chicago on Sat 7 Nov.
+Duck Trash is a techno and house artist based in United States of America, with 131 gigs on soundcheck across Adelaide, Chicago, Cleveland and Detroit and 3 more. Often billed alongside Amino, Garrison XR and hypemelo. Next up: Podlasie Club, Chicago on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Podlasie Club | Chicago |
+| Sat, 14 Nov 2026 | House of Yes | New York City |
 | Fri, 20 Nov 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -26,4 +27,4 @@ Duck Trash is a techno and house artist based in United States of America, with 
 
 Amino, Garrison XR, hypemelo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ducktrash/)*

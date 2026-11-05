@@ -1,6 +1,6 @@
 # Sielo
 
-Sielo is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Sielo is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Sielo is a tech house and progressive house artist based in South Korea, with 25 gigs on soundcheck across Seoul and South Korea. Often billed alongside LOOZBONE, Juntaro and P.NUTZ. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sielo is a tech house and progressive house artist based in South Korea, with 25
 
 LOOZBONE, Juntaro, P.NUTZ
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sielo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sielo/)*

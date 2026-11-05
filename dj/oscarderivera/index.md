@@ -1,6 +1,6 @@
 # Óscar de Rivera
 
-Óscar de Rivera is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
+Óscar de Rivera is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
 
 Óscar de Rivera is a house and afro house artist based in Spain, with 12 gigs on soundcheck across Madrid, Miami and Washington DC. Often billed alongside Ismael Rivas, DJ Chus and fajardo. Next up: Barco Sound House, Madrid on Fri 6 Nov.
 
@@ -25,4 +25,4 @@
 
 Ismael Rivas, DJ Chus, fajardo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarderivera/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscarderivera/)*

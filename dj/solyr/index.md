@@ -1,8 +1,8 @@
 # Solyr
 
-Solyr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mashroom, Krakow on Sat, 28 Nov 2026.
+Solyr is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mashroom, Krakow on Sat, 28 Nov 2026.
 
-Solyr is a house and techno artist, with 15 gigs on soundcheck across Berlin, Krakow, Prague and Warsaw. Often billed alongside sensour, mitt and zeroday. Next up: Mashroom, Krakow on Sat 28 Nov.
+Solyr is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin, Krakow, Prague and Warsaw. Often billed alongside sensour, mitt and zeroday. Next up: Mashroom, Krakow on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Solyr is a house and techno artist, with 15 gigs on soundcheck across Berlin, Kr
 
 sensour, mitt, zeroday
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solyr/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solyr/)*

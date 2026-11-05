@@ -1,6 +1,6 @@
 # OTIS (3)
 
-OTIS (3) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sameheads, Berlin on Thu, 5 Nov 2026.
+OTIS (3) is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sameheads, Berlin on Thu, 5 Nov 2026.
 
 OTIS is a house and electro artist based in Italy, with 39 gigs on soundcheck across Barcelona, Beijing, Berlin and Budapest and 12 more. Often billed alongside Paul Lution, Intheismah and Alex Dima. Next up: Sameheads, Berlin on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ OTIS is a house and electro artist based in Italy, with 39 gigs on soundcheck ac
 
 Paul Lution, Intheismah, Alex Dima
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-3/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otis-3/)*

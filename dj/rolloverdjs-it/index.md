@@ -1,6 +1,6 @@
 # Rollover Djs
 
-Rollover Djs is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at mess Biarritz, South-west on Fri, 6 Nov 2026.
+Rollover Djs is a House and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at mess Biarritz, South-west on Fri, 6 Nov 2026.
 
 Rollover Djs is a house and italo disco artist based in Italy, with 34 gigs on soundcheck across Antwerp, Berlin, Milan and New York City and 1 more. Often billed alongside Delfonic, Speaking Minds and John Noseda. Next up: mess Biarritz, South West on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rollover Djs is a house and italo disco artist based in Italy, with 34 gigs on s
 
 Delfonic, Speaking Minds, John Noseda
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolloverdjs-it/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolloverdjs-it/)*

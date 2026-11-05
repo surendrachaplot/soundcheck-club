@@ -1,6 +1,6 @@
 # Linska
 
-Linska is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at 511 Franklin, Tampa Bay on Thu, 5 Nov 2026.
+Linska is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 511 Franklin, Tampa Bay on Thu, 5 Nov 2026.
 
 Linska is a house and techno artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 22 more. Often billed alongside Gorgon City, Adam Beyer and Eli Brown. Next up: 511 Franklin, Tampa Bay on Thu 5 Nov.
 
@@ -29,4 +29,4 @@ Linska is a house and techno artist based in United Kingdom, with 53 gigs on sou
 
 Gorgon City, Adam Beyer, Eli Brown
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/linska/)*

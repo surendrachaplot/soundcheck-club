@@ -1,6 +1,6 @@
 # M-High
 
-M-High is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tunnel, Milan on Fri, 13 Nov 2026.
+M-High is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tunnel, Milan on Fri, 13 Nov 2026.
 
 M-High is a house and tech house artist based in Netherlands, with 195 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside Prunk, Job de Jong and Sidney Charles. Next up: Tunnel, Milan on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ M-High is a house and tech house artist based in Netherlands, with 195 gigs on s
 
 Prunk, Job de Jong, Sidney Charles
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m-high/)*

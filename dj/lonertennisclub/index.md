@@ -1,6 +1,6 @@
 # Loner Tennis Club
 
-Loner Tennis Club is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Company Club, Milan on Sat, 7 Nov 2026.
+Loner Tennis Club is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Company Club, Milan on Sat, 7 Nov 2026.
 
 Loner Tennis Club is a techno and electro artist based in Italy, with 15 gigs on soundcheck across Milan, Nottingham and Turin. Often billed alongside Re Pigi, AMRED and Cntrl_space. Next up: Company Club, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Loner Tennis Club is a techno and electro artist based in Italy, with 15 gigs on
 
 Re Pigi, AMRED, Cntrl_space
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lonertennisclub/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lonertennisclub/)*

@@ -1,6 +1,6 @@
 # ONARSÉ
 
-ONARSÉ is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at 24 Moons, Melbourne on Fri, 13 Nov 2026.
+ONARSÉ is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 24 Moons, Melbourne on Fri, 13 Nov 2026.
 
 ONARSÉ is a techno and hardcore artist based in Australia, with 23 gigs on soundcheck across Amsterdam, Auckland, Brisbane and London and 3 more. Often billed alongside BASS SLVT, ARTISAH and SPOILT. Next up: 24 Moons, Melbourne on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ ONARSÉ is a techno and hardcore artist based in Australia, with 23 gigs on soun
 
 BASS SLVT, ARTISAH, SPOILT
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onarse/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onarse/)*

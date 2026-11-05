@@ -1,8 +1,8 @@
 # Nevermind
 
-Nevermind is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Nevermind is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
-Nevermind is a trance and techno artist, with 7 gigs on soundcheck across Paris, Seoul, South Korea and Tokyo. Often billed alongside A K, Adroit Joe and BASSKRAP. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
+Nevermind is a trance and techno artist based in Lithuania, with 7 gigs on soundcheck across Paris, Seoul, South Korea and Tokyo. Often billed alongside A K, Adroit Joe and BASSKRAP. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Nevermind is a trance and techno artist, with 7 gigs on soundcheck across Paris,
 
 A K, Adroit Joe, BASSKRAP
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevermind/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevermind/)*

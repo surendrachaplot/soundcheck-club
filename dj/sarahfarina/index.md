@@ -1,6 +1,6 @@
 # Sarah Farina
 
-Sarah Farina is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 7 Nov 2026.
+Sarah Farina is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 7 Nov 2026.
 
 Sarah Farina is a house and bass artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside African Head Charge, Marta De Pascalis and PRAED. Next up: Acud Macht NEU, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sarah Farina is a house and bass artist based in Germany, with 65 gigs on soundc
 
 African Head Charge, Marta De Pascalis, PRAED
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahfarina/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahfarina/)*

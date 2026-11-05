@@ -1,6 +1,6 @@
 # Larishka
 
-Larishka is a Garage and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Stage and Radio, Manchester on Thu, 5 Nov 2026.
+Larishka is a Garage and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Stage and Radio, Manchester on Thu, 5 Nov 2026.
 
 Larishka is a garage and trance artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin and Manchester. Often billed alongside ZOEVITA, Ėrrør.A and Abriss Andrej. Next up: Stage and Radio, Manchester on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Larishka is a garage and trance artist based in Germany, with 9 gigs on soundche
 
 ZOEVITA, Ėrrør.A, Abriss Andrej
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larishka/)*

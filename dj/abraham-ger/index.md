@@ -1,6 +1,6 @@
 # Abraham (GER)
 
-Abraham (GER) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Shuka Bar, Frankfurt on Sat, 28 Nov 2026.
+Abraham (GER) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Shuka Bar, Frankfurt on Sat, 28 Nov 2026.
 
 Abraham (GER) is a house and deep house artist based in Germany, with 44 gigs on soundcheck across Berlin, Frankfurt and Lisbon. Often billed alongside Boutiq.808, Sven Louis and Chris Wood. Next up: Shuka Bar, Frankfurt on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Abraham (GER) is a house and deep house artist based in Germany, with 44 gigs on
 
 Boutiq.808, Sven Louis, Chris Wood
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abraham-ger/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abraham-ger/)*

@@ -1,6 +1,6 @@
 # Clicklounge
 
-Clicklounge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at gallery 1986, Vilnius on Thu, 31 Dec 2026.
+Clicklounge is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at gallery 1986, Vilnius on Thu, 31 Dec 2026.
 
 Clicklounge is a house and techno artist based in Lithuania, with 53 gigs on soundcheck across Berlin, Budapest, Lisbon and London and 6 more. Often billed alongside Aiste Regina, Roe Deers and Donatas Chipak. Next up: gallery 1986, Vilnius on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Clicklounge is a house and techno artist based in Lithuania, with 53 gigs on sou
 
 Aiste Regina, Roe Deers, Donatas Chipak
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clicklounge/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clicklounge/)*

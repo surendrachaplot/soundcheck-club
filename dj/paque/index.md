@@ -1,6 +1,6 @@
 # Paqué
 
-Paqué is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Sound House, Dublin on Thu, 19 Nov 2026.
+Paqué is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Sound House, Dublin on Thu, 19 Nov 2026.
 
 Paqué is a house and techno artist, with 6 gigs on soundcheck across Amsterdam, Dublin and Rotterdam. Often billed alongside ZOËZO, 9LALEY and Adrian.. Next up: The Sound House, Dublin on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ Paqué is a house and techno artist, with 6 gigs on soundcheck across Amsterdam,
 
 ZOËZO, 9LALEY, Adrian.
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paque/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paque/)*

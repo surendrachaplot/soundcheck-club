@@ -1,6 +1,6 @@
 # Vivace
 
-Vivace is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at DRUMSHEDS, London on Sat, 19 Dec 2026.
+Vivace is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at DRUMSHEDS, London on Sat, 19 Dec 2026.
 
 Vivace is a garage and techno artist based in Netherlands, with 8 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and London and 3 more. Often billed alongside PØVE, Adrian Mills and Alex Farell. Next up: DRUMSHEDS, London on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ Vivace is a garage and techno artist based in Netherlands, with 8 gigs on soundc
 
 PØVE, Adrian Mills, Alex Farell
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivace/)*

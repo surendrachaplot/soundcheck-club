@@ -1,6 +1,6 @@
 # Teatre
 
-Teatre is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Teatre is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Teatre is an ambient and techno artist based in Lithuania, with 6 gigs on soundcheck across Berlin, Utrecht and Vilnius. Often billed alongside Matas Petrikas, Aba Shanti-I and Aho Ssan. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Teatre is an ambient and techno artist based in Lithuania, with 6 gigs on soundc
 
 Matas Petrikas, Aba Shanti-I, Aho Ssan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teatre/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/teatre/)*

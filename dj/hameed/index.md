@@ -1,6 +1,6 @@
 # Hameed
 
-Hameed is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
+Hameed is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Soundscapes Zanzi, Tanzania on Thu, 21 Jan 2027.
 
 Hameed is a house and jazz artist based in Bahrain, with 6 gigs on soundcheck across Amsterdam, Berlin, Dubai and Tanzania. Often billed alongside Omar Fayyad, Andrey Pushkarev and Baloo (SA). Next up: Soundscapes Zanzi, Tanzania on Thu 21 Jan.
 
@@ -22,4 +22,4 @@ Hameed is a house and jazz artist based in Bahrain, with 6 gigs on soundcheck ac
 
 Omar Fayyad, Andrey Pushkarev, Baloo (SA)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hameed/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hameed/)*

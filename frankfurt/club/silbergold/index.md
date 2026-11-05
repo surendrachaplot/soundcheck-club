@@ -1,6 +1,6 @@
 # Silbergold
 
-Silbergold is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "YES" on Fri, 6 Nov 2026.
+Silbergold is a music venue in Frankfurt with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "YES" on Fri, 6 Nov 2026.
 
 Silbergold is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, with line-ups including Fabrizio Mammarella, Max Buchalik and milène. See dates, start times and who's playing. Heiligkreuzgasse 22; 60313 Frankfurt; Germany.
 
@@ -15,4 +15,4 @@ Silbergold is a music venue in Frankfurt listed on soundcheck. 2 upcoming gigs, 
 
 Heiligkreuzgasse 22; 60313 Frankfurt; Germany, Frankfurt
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/silbergold/)*

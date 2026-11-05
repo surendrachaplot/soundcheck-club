@@ -1,14 +1,13 @@
 # Studio56
 
-Studio56 is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Thundersamurai Birthday Special W/7secrets,Lepetitlouisviton" on Wed, 4 Nov 2026.
+Studio56 is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Discovery Présente : Ramen Bass Ep-03 Release Party" on Thu, 5 Nov 2026.
 
-Studio56 is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including DJ Statik, Killoverjoy, LILI and VØID and 1 more. See dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
+Studio56 is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Statik, Killoverjoy, LILI and VØID and 1 more. See dates, start times and who's playing. 56 rue de la Fontaine au Roi 75011 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Thundersamurai Birthday Special W/7secrets,Lepetitlouisviton |  |
 | Thu, 5 Nov 2026 | Discovery Présente : Ramen Bass Ep-03 Release Party | Wwllmm |
 | Fri, 6 Nov 2026 | Byg Bad Gyals |  |
 | Fri, 6 Nov 2026 | Fracture W/ Dj Aleathory , Shadow Thugentawa , Dj Statik | DJ Statik |
@@ -22,4 +21,4 @@ Studio56 is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with l
 
 56 rue de la Fontaine au Roi 75011 Paris, Paris
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/studio56/)*

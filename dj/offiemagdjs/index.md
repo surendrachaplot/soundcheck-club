@@ -1,6 +1,6 @@
 # OFFIE MAG DJs
 
-OFFIE MAG DJs is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Cheek, London on Fri, 6 Nov 2026.
+OFFIE MAG DJs is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Cheek, London on Fri, 6 Nov 2026.
 
 OFFIE MAG DJs is a funk / soul and disco artist based in United Kingdom, with 22 gigs on soundcheck across Brighton, Bristol, London and Manchester. Often billed alongside System Olympia, CasuallyClued and Kieran Dotwav. Next up: Club Cheek, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ OFFIE MAG DJs is a funk / soul and disco artist based in United Kingdom, with 22
 
 System Olympia, CasuallyClued, Kieran Dotwav
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/offiemagdjs/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/offiemagdjs/)*

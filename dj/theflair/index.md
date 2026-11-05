@@ -1,6 +1,6 @@
 # The Flair
 
-The Flair is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at feedbk, New York City on Thu, 5 Nov 2026.
+The Flair is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at feedbk, New York City on Thu, 5 Nov 2026.
 
 The Flair is a house and funk / soul artist based in United States of America, with 16 gigs on soundcheck across Berlin, Los Angeles and New York City. Often billed alongside Kenia, Dani Ramos and Discolypso Crew. Next up: feedbk, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ The Flair is a house and funk / soul artist based in United States of America, w
 
 Kenia, Dani Ramos, Discolypso Crew
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theflair/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theflair/)*

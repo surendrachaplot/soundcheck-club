@@ -1,6 +1,6 @@
 # KINO (UY)
 
-KINO (UY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Love City Gardens, Philadelphia on Sat, 7 Nov 2026.
+KINO (UY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Love City Gardens, Philadelphia on Sat, 7 Nov 2026.
 
 KINO (UY) is a techno and house artist based in Uruguay, with 59 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside EMilio, DJ Masda and Nico Etorena. Next up: Love City Gardens, Philadelphia on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KINO (UY) is a techno and house artist based in Uruguay, with 59 gigs on soundch
 
 EMilio (2), DJ Masda, Nico Etorena
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kino-uy/)*

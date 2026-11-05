@@ -1,6 +1,6 @@
 # The Island
 
-The Island is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Cirrina Sessions with Tim Reaper (Techno/140 set), i-sha & residents" on Fri, 6 Nov 2026.
+The Island is a music venue in Bristol with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Cirrina Sessions with Tim Reaper (Techno/140 set), i-sha & residents" on Fri, 6 Nov 2026.
 
 The Island is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, with line-ups including ALYA L, Anina, Bruce and Clarity and 2 more. See dates, start times and who's playing. Bridewell St, Bristol, BS1 2QD, United Kingdom.
 
@@ -18,4 +18,4 @@ The Island is a music venue in Bristol listed on soundcheck. 5 upcoming gigs, wi
 
 Bridewell St, Bristol, BS1 2QD, United Kingdom, Bristol
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-island/)*

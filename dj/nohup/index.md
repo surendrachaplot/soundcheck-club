@@ -1,6 +1,6 @@
 # 'nohup'
 
-'nohup' is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Seattle on Fri, 6 Nov 2026.
+'nohup' is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Seattle on Fri, 6 Nov 2026.
 
 'nohup' is a techno and house artist based in United States of America, with 21 gigs on soundcheck across Minneapolis/St Paul, New York City, Portland and Seattle. Often billed alongside Jennifer Spektor, August V. M. and Seelene. Next up: TBA, Seattle on Fri 6 Nov.
 
@@ -27,4 +27,4 @@
 
 Jennifer Spektor, August V. M., Seelene
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nohup/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nohup/)*

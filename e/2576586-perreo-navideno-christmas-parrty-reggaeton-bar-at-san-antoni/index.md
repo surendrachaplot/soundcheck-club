@@ -1,0 +1,11 @@
+# Perreo Navideno - Christmas Parrty Reggaeton Bar at San Antonios
+
+Perreo Navideno - Christmas Parrty Reggaeton Bar at San Antonios on Sat 14 Nov, New York City. Hip-Hop and Disco. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 14 Nov 2026 |
+| Venue | San Antonios |
+| City | New York City |
+
+*Source: [soundcheck](https://soundcheck.club/e/2576586-perreo-navideno-christmas-parrty-reggaeton-bar-at-san-antoni/)*

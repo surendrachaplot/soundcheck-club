@@ -1,8 +1,8 @@
 # An Chen
 
-An Chen is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
+An Chen is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at ROSA, Berlin on Sat, 14 Nov 2026.
 
-An Chen is a techno and trance artist based in Taiwan, with 25 gigs on soundcheck across Berlin, Budapest, Hamburg and Miami and 4 more. Often billed alongside Amo (IT), Meka and Purdy. Next up: ROSA, Berlin on Sat 14 Nov.
+An Chen is a techno and trance artist based in Taiwan, with 26 gigs on soundcheck across Berlin, Budapest, Hamburg and Miami and 4 more. Often billed alongside Amo (IT), Eva Nyx and Meka. Next up: ROSA, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ An Chen is a techno and trance artist based in Taiwan, with 25 gigs on soundchec
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | ROSA | Berlin |
 | Fri, 20 Nov 2026 | Palazzo Permanens | Budapest |
+| Sat, 19 Dec 2026 | La Cova | Hamburg |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ An Chen is a techno and trance artist based in Taiwan, with 25 gigs on soundchec
 
 ## Shares bills with
 
-Amo (IT), Meka, Purdy
+Amo (IT), Eva Nyx, Meka
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anchen/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anchen/)*

@@ -1,8 +1,8 @@
 # Maurice Mino
 
-Maurice Mino is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Zur Klappe, Berlin on Fri, 6 Nov 2026.
+Maurice Mino is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Zur Klappe, Berlin on Fri, 6 Nov 2026.
 
-Maurice Mino is a techno and house artist based in Germany, with 154 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Zur Klappe, Berlin on Fri 6 Nov.
+Maurice Mino is a techno and house artist based in Germany, with 155 gigs on soundcheck across Berlin, Budapest, Cologne and Frankfurt and 9 more. Often billed alongside Sin:port, Sabura and Konfusia. Next up: Zur Klappe, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Maurice Mino is a techno and house artist based in Germany, with 154 gigs on sou
 | Fri, 6 Nov 2026 | Zur Klappe | Berlin |
 | Sat, 14 Nov 2026 | Odonien | Cologne |
 | Fri, 20 Nov 2026 | Kater | Berlin |
+| Fri, 27 Nov 2026 | Südpol | Hamburg |
 | Sat, 20 Feb 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ Maurice Mino is a techno and house artist based in Germany, with 154 gigs on sou
 
 Sin:port, Sabura, Konfusia
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricemino-de/)*

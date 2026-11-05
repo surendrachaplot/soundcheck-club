@@ -1,6 +1,6 @@
 # lisa luka
 
-lisa luka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 7 Nov 2026.
+lisa luka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Klunkerkranich, Berlin on Sat, 7 Nov 2026.
 
 lisa luka is a techno and house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside Ciao 3lla, Carlo Bonanza and Horst Haller. Next up: Klunkerkranich, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ lisa luka is a techno and house artist based in Germany, with 79 gigs on soundch
 
 Ciao 3lla, Carlo Bonanza, Horst Haller
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisa-luka/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisa-luka/)*

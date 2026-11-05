@@ -1,6 +1,6 @@
 # Steve Bicknell
 
-Steve Bicknell is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at E1, London on Sat, 7 Nov 2026.
+Steve Bicknell is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at E1, London on Sat, 7 Nov 2026.
 
 Steve Bicknell is a techno and electronica artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 15 more. Often billed alongside Kerrie, Mareena and Bloody Mary. Next up: E1, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Steve Bicknell is a techno and electronica artist based in United Kingdom, with 
 
 Kerrie, Mareena, Bloody Mary
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebicknell/)*

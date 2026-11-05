@@ -1,6 +1,6 @@
 # Luke Hobbs
 
-Luke Hobbs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at or, Tokyo on Sun, 8 Nov 2026.
+Luke Hobbs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at or, Tokyo on Sun, 8 Nov 2026.
 
 Luke Hobbs is a techno and house artist based in Canada, with 28 gigs on soundcheck across Tokyo. Often billed alongside YOSHI KANOU, DJason and AiMii. Next up: or, Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Luke Hobbs is a techno and house artist based in Canada, with 28 gigs on soundch
 
 YOSHI KANOU, DJason, AiMii
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehobbs/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukehobbs/)*

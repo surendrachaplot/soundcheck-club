@@ -1,8 +1,8 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
+Fadi Mohem is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
 
-Fadi Mohem is a techno and house artist based in Germany, with 264 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 72 more. Often billed alongside Ben Klock, Rødhåd and Ogazón. Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
+Fadi Mohem is a techno and house artist based in Germany, with 265 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 72 more. Often billed alongside Ben Klock, Rødhåd and Ogazón. Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Fadi Mohem is a techno and house artist based in Germany, with 264 gigs on sound
 | Fri, 11 Dec 2026 | FVTVR | Paris |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
 | Sun, 27 Dec 2026 | Kapsule | Liverpool |
+| Thu, 31 Dec 2026 | fabric | London |
 | Sat, 30 Jan 2027 | Preston Warehouse | Melbourne |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -34,4 +35,4 @@ Fadi Mohem is a techno and house artist based in Germany, with 264 gigs on sound
 
 Ben Klock, Rødhåd, Ogazón
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

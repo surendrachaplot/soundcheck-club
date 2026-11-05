@@ -1,6 +1,6 @@
 # Aann Hopp
 
-Aann Hopp is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 6 Nov 2026.
+Aann Hopp is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at CIRCOLO BOTULINO, Milan on Fri, 6 Nov 2026.
 
 Aann Hopp is a techno and tech house artist based in Italy, with 6 gigs on soundcheck across Milan. Often billed alongside ATTA__DJ, EZEDIEL and Lady Maru. Next up: CIRCOLO BOTULINO, Milan on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Aann Hopp is a techno and tech house artist based in Italy, with 6 gigs on sound
 
 ATTA__DJ, EZEDIEL, Lady Maru
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aannhopp/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aannhopp/)*

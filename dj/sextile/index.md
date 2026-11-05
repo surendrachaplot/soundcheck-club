@@ -1,6 +1,6 @@
 # SEXTILE
 
-SEXTILE is a Industrial and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
+SEXTILE is a Industrial and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
 
 SEXTILE is an industrial and post-punk artist based in United States of America, with 21 gigs on soundcheck across Arkansas, Atlanta, Austin and Berlin and 8 more. Often billed alongside Automatic, Avalon Emerson and Bianca Lexis. Next up: The Momentary, Arkansas on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SEXTILE is an industrial and post-punk artist based in United States of America,
 
 Automatic, Avalon Emerson, Bianca Lexis
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sextile/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sextile/)*

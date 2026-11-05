@@ -1,14 +1,13 @@
 # Unter Deck
 
-Unter Deck is a music venue in Munich with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Unter Deck w/ Inu G + friends" on Wed, 4 Nov 2026.
+Unter Deck is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Unter Deck w/ Phillip Kluge (Pleasant Systems)" on Thu, 5 Nov 2026.
 
-Unter Deck is a music venue in Munich listed on soundcheck. 10 upcoming gigs, with line-ups including Coco Hope, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Fej:tal and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
+Unter Deck is a music venue in Munich listed on soundcheck. 9 upcoming gigs, with line-ups including Coco Hope, Die Tektonische Plattenverschiebung, DJ FM & DJ FREUND and Fej:tal and 2 more. See dates, start times and who's playing. Oberanger 26, 80331 München.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Unter Deck w/ Inu G + friends | Inu G |
 | Thu, 5 Nov 2026 | Unter Deck w/ Phillip Kluge (Pleasant Systems) |  |
 | Fri, 6 Nov 2026 | Friday Frequencies | Coco Hope |
 | Sat, 7 Nov 2026 | Kojaro Kollektiv |  |
@@ -23,4 +22,4 @@ Unter Deck is a music venue in Munich listed on soundcheck. 10 upcoming gigs, wi
 
 Oberanger 26, 80331 München, Munich
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/unter-deck/)*

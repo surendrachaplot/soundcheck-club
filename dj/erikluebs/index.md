@@ -1,6 +1,6 @@
 # Erik Luebs
 
-Erik Luebs is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
+Erik Luebs is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
 
 Erik Luebs is a techno and house artist based in Japan, with 54 gigs on soundcheck across Amsterdam, Athens, Beijing and Berlin and 22 more. Often billed alongside Oberman, Psyk and DJ Morita. Next up: Unmute, Hanoi on Thu 5 Nov.
 
@@ -30,4 +30,4 @@ Erik Luebs is a techno and house artist based in Japan, with 54 gigs on soundche
 
 Oberman, Psyk, DJ Morita
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikluebs/)*

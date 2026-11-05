@@ -1,6 +1,6 @@
 # Kontingency
 
-Kontingency is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Distillery, Leipzig on Fri, 6 Nov 2026.
+Kontingency is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Distillery, Leipzig on Fri, 6 Nov 2026.
 
 Kontingency is a drum & bass and techno artist based in Germany, with 10 gigs on soundcheck across Dresden and Leipzig. Often billed alongside DJ Annita, smooksy and Cuepric. Next up: Distillery, Leipzig on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kontingency is a drum & bass and techno artist based in Germany, with 10 gigs on
 
 DJ Annita, smooksy, Cuepric
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kontingency/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kontingency/)*

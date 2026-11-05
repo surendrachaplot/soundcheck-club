@@ -1,6 +1,6 @@
 # Lu.Re
 
-Lu.Re is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kapsule, Liverpool on Sat, 14 Nov 2026.
+Lu.Re is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kapsule, Liverpool on Sat, 14 Nov 2026.
 
 Lu.Re is a garage and house artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Brighton, Brisbane and Bristol and 11 more. Often billed alongside Oneman, Jaguar and Jossy Mitsu. Next up: Kapsule, Liverpool on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Lu.Re is a garage and house artist based in United Kingdom, with 61 gigs on soun
 
 Oneman, Jaguar, Jossy Mitsu
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.re/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lu.re/)*

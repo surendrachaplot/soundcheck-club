@@ -1,6 +1,6 @@
 # Gitte Verfuehrt
 
-Gitte Verfuehrt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
+Gitte Verfuehrt is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hoppetosse, Berlin on Fri, 27 Nov 2026.
 
 Gitte Verfuehrt is a house and techno artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Adolpho & Franky, Andreas Rauscher and Coco. Next up: Hoppetosse, Berlin on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ Gitte Verfuehrt is a house and techno artist, with 6 gigs on soundcheck across B
 
 Adolpho & Franky, Andreas Rauscher, Coco
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gitteverfuehrt/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gitteverfuehrt/)*

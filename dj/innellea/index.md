@@ -1,6 +1,6 @@
 # Innellea
 
-Innellea is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Celebrities Night Club, Vancouver on Sat, 7 Nov 2026.
+Innellea is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Celebrities Night Club, Vancouver on Sat, 7 Nov 2026.
 
 Innellea is a techno and house artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 56 more. Often billed alongside Colyn, Mind Against and Adriatique. Next up: Celebrities Night Club, Vancouver on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Innellea is a techno and house artist based in Germany, with 160 gigs on soundch
 
 Colyn, Mind Against, Adriatique
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innellea/)*

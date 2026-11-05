@@ -1,6 +1,6 @@
 # TBA - via DM only
 
-TBA - via DM only is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "DM 4 Address" on Fri, 6 Nov 2026.
+TBA - via DM only is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "DM 4 Address" on Fri, 6 Nov 2026.
 
 TBA - via DM only is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Jasmine Li (NY), Suasimodo and sznl. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - via DM only is a music venue in New York City listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | DM 4 Address | Jasmine Li (NY), Suasimodo, sznl |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-via-dm-only/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/tba-via-dm-only/)*

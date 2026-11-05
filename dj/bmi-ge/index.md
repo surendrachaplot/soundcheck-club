@@ -1,14 +1,15 @@
 # BMI (GE)
 
-BMI (GE) is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Eventhuset, Stockholm on Sat, 5 Dec 2026.
+BMI (GE) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Eventhuset, Stockholm on Sat, 5 Dec 2026.
 
-BMI (GE) is a techno artist based in Georgia, with 12 gigs on soundcheck across Stockholm and Tbilisi. Often billed alongside Kvanchi, Ndrx and HVL. Next up: Eventhuset, Stockholm on Sat 5 Dec.
+BMI (GE) is a techno artist based in Georgia, with 13 gigs on soundcheck across Stockholm and Tbilisi. Often billed alongside Kvanchi, Ndrx and HVL. Next up: Eventhuset, Stockholm on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | Eventhuset | Stockholm |
+| Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ BMI (GE) is a techno artist based in Georgia, with 12 gigs on soundcheck across 
 
 Kvanchi, Ndrx, HVL
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bmi-ge/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bmi-ge/)*

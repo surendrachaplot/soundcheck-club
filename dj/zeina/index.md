@@ -1,6 +1,6 @@
 # Zeina
 
-Zeina is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Gaffe, London on Sat, 7 Nov 2026.
+Zeina is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Gaffe, London on Sat, 7 Nov 2026.
 
 Zeina is a house and techno artist based in Egypt, with 53 gigs on soundcheck across Amsterdam, Berlin, Boston and Colombia and 16 more. Often billed alongside O.BEE, Mari.te and Omar Fayyad. Next up: Gaffe, London on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Zeina is a house and techno artist based in Egypt, with 53 gigs on soundcheck ac
 
 O.BEE, Mari.te, Omar Fayyad
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeina/)*

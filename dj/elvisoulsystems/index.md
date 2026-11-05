@@ -1,6 +1,6 @@
 # Elvi Soulsystems
 
-Elvi Soulsystems is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Laska V21, Riga on Fri, 6 Nov 2026.
+Elvi Soulsystems is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Laska V21, Riga on Fri, 6 Nov 2026.
 
 Elvi Soulsystems is a house and ebm artist based in Latvia, with 8 gigs on soundcheck across Ibiza and Riga. Often billed alongside Judzhen, Artificial Love and Bogdan Taran. Next up: Laska V21, Riga on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Elvi Soulsystems is a house and ebm artist based in Latvia, with 8 gigs on sound
 
 Judzhen, Artificial Love, Bogdan Taran
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvisoulsystems/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elvisoulsystems/)*

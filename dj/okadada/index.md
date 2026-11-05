@@ -1,14 +1,15 @@
 # okadada
 
-okadada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+okadada is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
-okadada is a house and techno artist based in Japan, with 168 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), Licaxxx and Sekitova. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
+okadada is a house and techno artist based in Japan, with 169 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside FELINE (JP), Licaxxx and Sekitova. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
+| Sun, 22 Nov 2026 | Enter Shibuya | Tokyo |
 | Fri, 4 Dec 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played
@@ -26,4 +27,4 @@ okadada is a house and techno artist based in Japan, with 168 gigs on soundcheck
 
 FELINE (JP), Licaxxx, Sekitova
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okadada/)*

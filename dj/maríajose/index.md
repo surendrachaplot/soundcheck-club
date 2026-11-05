@@ -1,6 +1,6 @@
 # maríajosé
 
-maríajosé is a Reggaeton and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Wilder als Erwartet, Berlin on Thu, 5 Nov 2026.
+maríajosé is a Reggaeton and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Wilder als Erwartet, Berlin on Thu, 5 Nov 2026.
 
 maríajosé is a reggaeton and afro house artist based in Germany, with 12 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Maque, Trigger T and lionza. Next up: Wilder als Erwartet, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ maríajosé is a reggaeton and afro house artist based in Germany, with 12 gigs 
 
 Maque, Trigger T, lionza
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maríajose/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maríajose/)*

@@ -1,14 +1,15 @@
 # Arcfilter
 
-Arcfilter is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 27 Nov 2026.
+Arcfilter is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Studio Club Malaga, Malaga on Fri, 27 Nov 2026.
 
-Arcfilter is a techno artist based in Spain, with 17 gigs on soundcheck across Barcelona, Madrid and Malaga. Often billed alongside ORBE, ALT8 and Riana Holley. Next up: Studio Club Malaga, Malaga on Fri 27 Nov.
+Arcfilter is a techno artist based in Spain, with 18 gigs on soundcheck across Barcelona, Madrid and Malaga. Often billed alongside ORBE, ALT8 and Riana Holley. Next up: Studio Club Malaga, Malaga on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Studio Club Malaga | Malaga |
+| Sun, 6 Dec 2026 | Studio Club Malaga | Malaga |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Arcfilter is a techno artist based in Spain, with 17 gigs on soundcheck across B
 
 ORBE, ALT8, Riana Holley
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arcfilter/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arcfilter/)*

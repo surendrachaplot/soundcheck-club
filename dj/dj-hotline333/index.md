@@ -1,6 +1,6 @@
 # DJ-HOTLINE 333
 
-DJ-HOTLINE 333 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
+DJ-HOTLINE 333 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tola, London on Sat, 14 Nov 2026.
 
 DJ-HOTLINE 333 is an electro and house artist based in Greece, with 28 gigs on soundcheck across Athens, Berlin, Bucharest and Detroit and 2 more. Often billed alongside BRAVA, DJ LESSONS and Hughesee. Next up: Tola, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ-HOTLINE 333 is an electro and house artist based in Greece, with 28 gigs on s
 
 BRAVA, DJ LESSONS, Hughesee
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-hotline333/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-hotline333/)*

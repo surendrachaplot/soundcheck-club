@@ -1,6 +1,6 @@
 # HYPNOTIZED x MAGDALENA at Gallery LONDON , REDPOM, DUKUS, HARRIET CAMPBELL & VENERE at Gallery
 
-HYPNOTIZED x MAGDALENA at Gallery LONDON , REDPOM, DUKUS, HARRIET CAMPBELL & VENERE on Sat 28 Nov, London. 1 artist: Magdalena (DE). House and Tech House. See the line-up on soundcheck.
+HYPNOTIZED x MAGDALENA at Gallery LONDON , REDPOM, DUKUS, HARRIET CAMPBELL & VENERE on Sat 28 Nov, London. 2 artists: Magdalena (DE) and VENERE. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ HYPNOTIZED x MAGDALENA at Gallery LONDON , REDPOM, DUKUS, HARRIET CAMPBELL & VEN
 ## Line-up
 
 - Magdalena (DE)
+- VENERE
 
 *Source: [soundcheck](https://soundcheck.club/e/2568792-hypnotized-x-magdalena-at-gallery-london-redpom-dukus-harrie/)*

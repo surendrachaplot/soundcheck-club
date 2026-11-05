@@ -1,8 +1,8 @@
 # Roujeee Tunes
 
-Roujeee Tunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Floyd, Miami on Sun, 8 Nov 2026.
+Roujeee Tunes is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Floyd, Miami on Sun, 8 Nov 2026.
 
-Roujeee Tunes is a house and techno artist, with 7 gigs on soundcheck across Miami. Often billed alongside Terence Tabeau, ANOTR and Artime. Next up: Floyd, Miami on Sun 8 Nov.
+Roujeee Tunes is a house and techno artist, with 7 gigs on soundcheck across Miami. Often billed alongside Terence Tabeau, Thunderpony and ANOTR. Next up: Floyd, Miami on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,6 @@ Roujeee Tunes is a house and techno artist, with 7 gigs on soundcheck across Mia
 
 ## Shares bills with
 
-Terence Tabeau, ANOTR, Artime
+Terence Tabeau, Thunderpony, ANOTR
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roujeeetunes/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roujeeetunes/)*

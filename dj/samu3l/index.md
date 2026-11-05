@@ -1,8 +1,8 @@
 # Samu3l
 
-Samu3l is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Move, West-wales on Sat, 21 Nov 2026.
+Samu3l is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Move, West-wales on Sat, 21 Nov 2026.
 
-Samu3l is a deep house and house artist, with 7 gigs on soundcheck across Bristol, London and West Wales. Often billed alongside Jawjee, Alfonso Muchacho and Aubrey Fry. Next up: Move, West Wales on Sat 21 Nov.
+Samu3l is a deep house and house artist based in United Kingdom, with 7 gigs on soundcheck across Bristol, London and West Wales. Often billed alongside Jawjee, Alfonso Muchacho and Aubrey Fry. Next up: Move, West Wales on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Samu3l is a deep house and house artist, with 7 gigs on soundcheck across Bristo
 
 Jawjee, Alfonso Muchacho, Aubrey Fry
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samu3l/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samu3l/)*

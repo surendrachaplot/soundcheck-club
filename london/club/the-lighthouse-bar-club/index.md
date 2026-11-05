@@ -1,6 +1,6 @@
 # The Lighthouse Bar & Club
 
-The Lighthouse Bar & Club is a music venue in London with 24 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Get Wild - Shoreditch Party" on Fri, 6 Nov 2026.
+The Lighthouse Bar & Club is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Get Wild - Shoreditch Party" on Fri, 6 Nov 2026.
 
 The Lighthouse Bar & Club is a music venue in London listed on soundcheck. 24 upcoming gigs. See dates, start times and who's playing. 62-68 Rivington St, London EC2A 3AY.
 
@@ -23,4 +23,4 @@ The Lighthouse Bar & Club is a music venue in London listed on soundcheck. 24 up
 
 62-68 Rivington St, London EC2A 3AY, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-bar-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-lighthouse-bar-club/)*

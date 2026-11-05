@@ -1,6 +1,6 @@
 # Sights & Sounds: Et al. – Demi Riquísimo (extended set) at TBA - Secret Manhattan Location
 
-Sights & Sounds: Et al. – Demi Riquísimo (extended set) at TBA - Secret Manhattan Location on Sat 21 Nov, New York City. 3 artists: Atilla Ural, Demi Riquisimo and Van Der Laan. House and Deep House. See the line-up on soundcheck.
+Sights & Sounds: Et al. – Demi Riquísimo (extended set) at TBA - Secret Manhattan Location on Sat 21 Nov, New York City. 4 artists: Atilla Ural, Demi Riquisimo, gabby cocco and Van Der Laan. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Sights & Sounds: Et al. – Demi Riquísimo (extended set) at TBA - Secret Manha
 
 - Atilla Ural
 - Demi Riquisimo
+- gabby cocco
 - Van Der Laan
 
 *Source: [soundcheck](https://soundcheck.club/e/2558100-sights-sounds-et-al-demi-riqu-simo-extended-set-at-tba-secre/)*

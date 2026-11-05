@@ -1,6 +1,6 @@
 # Elektorni at Paloma
 
-Elektorni at Paloma on Sat 5 Dec, Berlin. 3 artists: Juhani Oivo, Sub Basics and Witch Trials. Techno and House. See the line-up on soundcheck.
+Elektorni at Paloma on Sat 5 Dec, Berlin. 3 artists: Juhani Oivo, Sub Basics and Witch Trials. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

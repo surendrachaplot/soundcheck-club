@@ -1,6 +1,6 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Experimental artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+gyrofield is a Drum & Bass and Experimental artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 gyrofield is a drum & bass and experimental artist based in Netherlands, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 31 more. Often billed alongside KAVARI, Mala and DjRUM. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ gyrofield is a drum & bass and experimental artist based in Netherlands, with 81
 
 KAVARI, Mala, DjRUM
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gyrofield/)*

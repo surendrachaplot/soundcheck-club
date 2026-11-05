@@ -1,6 +1,6 @@
 # Michael Wagner
 
-Michael Wagner is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at SASS Music Club, Vienna on Thu, 5 Nov 2026.
+Michael Wagner is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at SASS Music Club, Vienna on Thu, 5 Nov 2026.
 
 Michael Wagner is a house and tech house artist based in Austria, with 16 gigs on soundcheck across Berlin, Hamburg, London and Los Angeles and 2 more. Often billed alongside Stipo, Dig This and Eye F. Next up: SASS Music Club, Vienna on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Michael Wagner is a house and tech house artist based in Austria, with 16 gigs o
 
 Stipo, Dig This, Eye F
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelwagner/)*

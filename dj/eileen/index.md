@@ -1,6 +1,6 @@
 # Eileen
 
-Eileen is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
+Eileen is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
 
 Eileen is a house and club artist based in Germany, with 15 gigs on soundcheck across Amsterdam, Cologne and Frankfurt. Often billed alongside AUHAM, Admo and Apua. Next up: Tokonoma Club, Frankfurt on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Eileen is a house and club artist based in Germany, with 15 gigs on soundcheck a
 
 AUHAM, Admo, Apua
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eileen/)*

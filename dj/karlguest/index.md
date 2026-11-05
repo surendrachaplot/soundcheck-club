@@ -1,6 +1,6 @@
 # Karl Guest
 
-Karl Guest is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 6 Nov 2026.
+Karl Guest is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 6 Nov 2026.
 
 Karl Guest is a house and techno artist based in Ireland, with 12 gigs on soundcheck across Berlin and Dublin. Often billed alongside Riggz Castillo, Surka and Jack K. Next up: Hang Dai Chinese, Dublin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Karl Guest is a house and techno artist based in Ireland, with 12 gigs on soundc
 
 Riggz Castillo, Surka (1), Jack K
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlguest/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlguest/)*

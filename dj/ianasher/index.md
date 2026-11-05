@@ -1,14 +1,15 @@
 # Ian Asher
 
-Ian Asher is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Ian Asher is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Ian Asher is a house and tech house artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 23 more. Often billed alongside KREAM, Alok and Azyr. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Ian Asher is a house and tech house artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 24 more. Often billed alongside KREAM, Adventure Club and Alok. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Fri, 20 Nov 2026 | Barceló Riviera Maya Resort | Playa-del-carmen |
 | Fri, 27 Nov 2026 | New City Gas | Montreal |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
@@ -27,6 +28,6 @@ Ian Asher is a house and tech house artist based in United States of America, wi
 
 ## Shares bills with
 
-KREAM, Alok, Azyr
+KREAM, Adventure Club, Alok
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianasher/)*

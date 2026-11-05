@@ -1,6 +1,6 @@
 # k means
 
-k means is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at FLUCC, Vienna on Fri, 6 Nov 2026.
+k means is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at FLUCC, Vienna on Fri, 6 Nov 2026.
 
 k means is an experimental and techno artist based in Sweden, with 111 gigs on soundcheck across Amsterdam, Berlin, Bristol and Edinburgh and 23 more. Often billed alongside i-sha, Batu and Kode9. Next up: FLUCC, Vienna on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ k means is an experimental and techno artist based in Sweden, with 111 gigs on s
 
 i-sha, Batu, Kode9
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kmeans/)*

@@ -1,6 +1,6 @@
 # Shadobeni
 
-Shadobeni is a Dancehall and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Lower Third, London on Sat, 5 Dec 2026.
+Shadobeni is a Dancehall and Afrobeat artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Lower Third, London on Sat, 5 Dec 2026.
 
 Shadobeni is a dancehall and afrobeat artist based in United Kingdom, with 35 gigs on soundcheck across Glasgow and London. Often billed alongside Darkstepper, Dibs and rára. Next up: The Lower Third, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Shadobeni is a dancehall and afrobeat artist based in United Kingdom, with 35 gi
 
 Darkstepper, Dibs, rára
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadobeni/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shadobeni/)*

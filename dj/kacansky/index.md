@@ -1,6 +1,6 @@
 # KACANSKY
 
-KACANSKY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kult, Belgrade on Sat, 7 Nov 2026.
+KACANSKY is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kult, Belgrade on Sat, 7 Nov 2026.
 
 KACANSKY is a house and techno artist based in Serbia, with 15 gigs on soundcheck across Belgrade. Often billed alongside Mark Aasgier, Cosmic G and Darija. Next up: Kult, Belgrade on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KACANSKY is a house and techno artist based in Serbia, with 15 gigs on soundchec
 
 Mark Aasgier, Cosmic G, Darija
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kacansky/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kacansky/)*

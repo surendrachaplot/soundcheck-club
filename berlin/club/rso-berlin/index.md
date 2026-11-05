@@ -1,8 +1,8 @@
 # RSO.BERLIN
 
-RSO.BERLIN is a music venue in Berlin with 16 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH" on Fri, 6 Nov 2026.
+RSO.BERLIN is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "TRIBE CLUB SERIES with Funk Tribu, Supergloss, Linds, Tom Carroll & KARISH" on Fri, 6 Nov 2026.
 
-RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, with line-ups including 131bpm, Justine Perry, ABADIR and Adiel and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
+RSO.BERLIN is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including 131bpm, Justine Perry, ABADIR and Adiel and 2 more. See dates, start times and who's playing. Schnellerstrasse 137, 12439 Berlin.
 
 ## What's on
 
@@ -16,11 +16,11 @@ RSO.BERLIN is a music venue in Berlin listed on soundcheck. 16 upcoming gigs, wi
 | Fri, 27 Nov 2026 | Selected x Fluid w/ PRADA2000, Panteros666, George Radsport & Keyklau | CAIVA, Frederic., Keyklau, PRADA2000, Panteros666 |
 | Sat, 28 Nov 2026 | XTRUDE w/ Antigone, Peryl (Live), Lars Huismann, Newa, STEYA, Bambi, oma totem | Ana Rs, Antigone, Audrey Danza, Bambi (FR), LPV, Lars Huismann, Ndrx, Newa, Peryl, STEYA, Shaleen, oma totem |
 | Fri, 4 Dec 2026 | Plasma: 6 Years Femme Bass Mafia with Introspekt, Logan, EMA, Kontronatura, Flore b2b Dangermami | Dangermami, EMA (1), Flore, Genoe, Introspekt, Kontronatura, Logan_olm |
-| Sat, 12 Dec 2026 | XTRUDE x SEXYRECS X OPUS |  |
-| Sat, 19 Dec 2026 | HEISSS I 30 hours | Cirkle, Elvin, Eoin DJ, Jessie Granqvist, Justine Perry, Mathys Lenne, Paula Koski, Temudo |
+| Sat, 5 Dec 2026 | XTRUDE x palicavonzvreca x Juicy Gang Records w/ Loktibrada b2b Rumenige, DJ MELL G | AYLIN IDAH, Anabel Arroyo, Anthony Rother, DJ ASS TITS, DJ MELL G, François X, Gareth Wild, Kerrie, Loktibrada, Newinfluenzer, The Advent, The Lady Machine, VSK |
+| Sat, 12 Dec 2026 | XTRUDE x SEXYRECS X OPUS | Chontane, DJ ANGEL (fr), Danté, HUJUS, Kaiser (K S R), LUISELLE, Laure Croft, Marco Bailey, Matrixxman, NASTYA NVRSLP, Nina Farrina, Regent, Sept, VNTM |
 
 ## Address
 
 Schnellerstrasse 137, 12439 Berlin, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/rso-berlin/)*

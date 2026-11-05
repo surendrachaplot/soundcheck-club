@@ -1,6 +1,6 @@
 # Tremūl
 
-Tremūl is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sala El Tren, South on Sat, 7 Nov 2026.
+Tremūl is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sala El Tren, South on Sat, 7 Nov 2026.
 
 Tremūl is a techno and electronica artist based in Spain, with 22 gigs on soundcheck across Bogotá, Madrid and South. Often billed alongside Aizikovic, Anso and KATIA. Next up: Sala El Tren, South on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Tremūl is a techno and electronica artist based in Spain, with 22 gigs on sound
 
 Aizikovic, Anso, KATIA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tremul/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tremul/)*

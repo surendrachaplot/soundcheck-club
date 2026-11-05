@@ -1,6 +1,6 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORGE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16" on Fri, 6 Nov 2026.
+M-BIA is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORGE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16" on Fri, 6 Nov 2026.
 
 M-BIA is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including BrettHit, Daora, DELTA LABS and INTOX and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
@@ -23,4 +23,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with li
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

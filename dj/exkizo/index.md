@@ -1,6 +1,6 @@
 # EXKIZO
 
-EXKIZO is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - SECRET SPOT, Santiago on Thu, 5 Nov 2026.
+EXKIZO is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - SECRET SPOT, Santiago on Thu, 5 Nov 2026.
 
 EXKIZO is a techno and electronica artist based in Chile, with 11 gigs on soundcheck across Santiago. Often billed alongside Daniela Fuzz, Andrea Riffo and Kata Mercado. Next up: TBA - SECRET SPOT, Santiago on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ EXKIZO is a techno and electronica artist based in Chile, with 11 gigs on soundc
 
 Daniela Fuzz, Andrea Riffo, Kata Mercado
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exkizo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exkizo/)*

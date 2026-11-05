@@ -1,8 +1,8 @@
 # Molly Lin
 
-Molly Lin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at La Fin Taipei, Taipei on Fri, 6 Nov 2026.
+Molly Lin is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at La Fin Taipei, Taipei on Fri, 6 Nov 2026.
 
-Molly Lin is a techno and house artist, with 42 gigs on soundcheck across Amsterdam, Beijing, Berlin and Hong Kong and 5 more. Often billed alongside WEIZO, Dungi Sapor and Tookie Tookie. Next up: La Fin Taipei, Taipei on Fri 6 Nov.
+Molly Lin is a techno and house artist based in Taiwan, with 42 gigs on soundcheck across Amsterdam, Beijing, Berlin and Hong Kong and 5 more. Often billed alongside WEIZO, Dungi Sapor and Tookie Tookie. Next up: La Fin Taipei, Taipei on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Molly Lin is a techno and house artist, with 42 gigs on soundcheck across Amster
 
 WEIZO, Dungi Sapor, Tookie Tookie
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollylin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollylin/)*

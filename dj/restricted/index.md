@@ -1,6 +1,6 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Level 1 @ Cannonball Arts, Seattle on Sat, 7 Nov 2026.
+Restricted is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Level 1 @ Cannonball Arts, Seattle on Sat, 7 Nov 2026.
 
 Restricted is a techno and hardcore artist based in Australia, with 91 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 56 more. Often billed alongside Azyr, Onlynumbers and Vieze Asbak. Next up: Level 1 @ Cannonball Arts, Seattle on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Restricted is a techno and hardcore artist based in Australia, with 91 gigs on s
 
 Azyr, Onlynumbers, Vieze Asbak
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

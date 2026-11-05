@@ -1,6 +1,6 @@
 # Moniquea
 
-Moniquea is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Balcon, Montreal on Sat, 7 Nov 2026.
+Moniquea is a Funk / Soul and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Balcon, Montreal on Sat, 7 Nov 2026.
 
 Moniquea is a funk / soul and disco artist, with 7 gigs on soundcheck across Los Angeles, Montreal, Strasbourg and Toronto. Often billed alongside Colored Craig, Dj Kerry and Dr. MaD. Next up: Le Balcon, Montreal on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Moniquea is a funk / soul and disco artist, with 7 gigs on soundcheck across Los
 
 Colored Craig, Dj Kerry, Dr. MaD
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moniquea/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moniquea/)*

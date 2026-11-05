@@ -1,6 +1,6 @@
 # Ora The Molecule
 
-Ora The Molecule is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Villa, Oslo on Sat, 14 Nov 2026.
+Ora The Molecule is a Disco and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Villa, Oslo on Sat, 14 Nov 2026.
 
 Ora The Molecule is a disco and pop artist based in Norway, with 18 gigs on soundcheck across Chicago, Copenhagen, London and Los Angeles and 3 more. Often billed alongside Olefonken, Anders Hajem and Annweiler. Next up: The Villa, Oslo on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Ora The Molecule is a disco and pop artist based in Norway, with 18 gigs on soun
 
 Olefonken, Anders Hajem, Annweiler
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orathemolecule/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orathemolecule/)*

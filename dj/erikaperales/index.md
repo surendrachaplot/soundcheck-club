@@ -1,6 +1,6 @@
 # Erika Perales
 
-Erika Perales is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
+Erika Perales is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
 
 Erika Perales is a house and techno artist based in Spain, with 58 gigs on soundcheck across Ho Chi Minh City, Taipei and Vietnam. Often billed alongside DESNUAGES, DJ Ouch! and Manny. Next up: Happy Buddha, Vietnam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Erika Perales is a house and techno artist based in Spain, with 58 gigs on sound
 
 DESNUAGES, DJ Ouch!, Manny (2)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikaperales/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erikaperales/)*

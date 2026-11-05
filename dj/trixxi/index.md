@@ -1,6 +1,6 @@
 # TRIXXI
 
-TRIXXI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
+TRIXXI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
 
 TRIXXI is a techno and house artist based in Argentina, with 23 gigs on soundcheck across Madrid. Often billed alongside Tucu (Tucu), Alexis mayer and Brisa Then. Next up: TBA - SECRET LOCATION - LA FINCA, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ TRIXXI is a techno and house artist based in Argentina, with 23 gigs on soundche
 
 Tucu (Tucu), Alexis mayer, Brisa Then
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trixxi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trixxi/)*

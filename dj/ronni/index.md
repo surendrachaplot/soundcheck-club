@@ -1,6 +1,6 @@
 # ronni
 
-ronni is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sala Taro, Barcelona on Fri, 13 Nov 2026.
+ronni is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sala Taro, Barcelona on Fri, 13 Nov 2026.
 
 ronni is a garage and bass artist based in United Kingdom, with 2 gigs on soundcheck across Barcelona. Often billed alongside K A I and Silva Snipa. Next up: Sala Taro, Barcelona on Fri 13 Nov.
 
@@ -15,4 +15,4 @@ ronni is a garage and bass artist based in United Kingdom, with 2 gigs on soundc
 
 K A I, Silva Snipa
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronni/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronni/)*

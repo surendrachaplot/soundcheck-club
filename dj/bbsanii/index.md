@@ -1,6 +1,6 @@
 # bbsanii
 
-bbsanii is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Blank Cultural Platform, Australian-capital-territory on Fri, 6 Nov 2026.
+bbsanii is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Blank Cultural Platform, Australian-capital-territory on Fri, 6 Nov 2026.
 
 bbsanii is a techno and house artist based in Australia, with 38 gigs on soundcheck across Australian Capital Territory, Melbourne and Victoria. Often billed alongside JUPiTA, Sophie Forrest and Tina Disco. Next up: Blank Cultural Platform, Australian Capital Territory on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ bbsanii is a techno and house artist based in Australia, with 38 gigs on soundch
 
 JUPiTA, Sophie Forrest, Tina Disco
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbsanii/)*

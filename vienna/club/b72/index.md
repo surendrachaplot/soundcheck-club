@@ -1,6 +1,6 @@
 # B72
 
-B72 is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Latin Bootleg - Edición Bichota" on Sat, 21 Nov 2026.
+B72 is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Latin Bootleg - Edición Bichota" on Sat, 21 Nov 2026.
 
 B72 is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Hernalser Gürtel 72-73, 1080 Wien, Austria.
 
@@ -14,4 +14,4 @@ B72 is a music venue in Vienna listed on soundcheck. 1 upcoming gig. See dates, 
 
 Hernalser Gürtel 72-73, 1080 Wien, Austria, Vienna
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/b72/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/b72/)*

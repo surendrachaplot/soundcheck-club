@@ -1,6 +1,6 @@
 # Sama' Abdulhadi
 
-Sama' Abdulhadi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
+Sama' Abdulhadi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
 
 Sama' Abdulhadi is a techno and house artist based in Palestine, with 171 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 59 more. Often billed alongside Richie Hawtin, Ben Klock and Anfisa Letyago. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Sama' Abdulhadi is a techno and house artist based in Palestine, with 171 gigs o
 
 Richie Hawtin, Ben Klock, Anfisa Letyago
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samaabdulhadi/)*

@@ -1,6 +1,6 @@
 # Caleb Jay
 
-Caleb Jay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 21 Nov 2026.
+Caleb Jay is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Abbots Yard, Melbourne on Sat, 21 Nov 2026.
 
 Caleb Jay is a techno and house artist based in Australia, with 32 gigs on soundcheck across Berlin, London and Melbourne. Often billed alongside JÄMO, HAUSWiFE and Tommy Craig. Next up: Abbots Yard, Melbourne on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Caleb Jay is a techno and house artist based in Australia, with 32 gigs on sound
 
 JÄMO, HAUSWiFE, Tommy Craig
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjay/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjay/)*

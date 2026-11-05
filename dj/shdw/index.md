@@ -1,6 +1,6 @@
 # SHDW
 
-SHDW is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+SHDW is a Techno and House artist with 20 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 SHDW is a techno and house artist based in Germany, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 86 more. Often billed alongside ANNĒ, Alarico and DAX J. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ SHDW is a techno and house artist based in Germany, with 263 gigs on soundcheck 
 
 ANNĒ, Alarico, DAX J
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shdw/)*

@@ -1,6 +1,6 @@
 # AOKI takamasa
 
-AOKI takamasa is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Daikanyama ORD., Tokyo on Sat, 7 Nov 2026.
+AOKI takamasa is a Techno and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Daikanyama ORD., Tokyo on Sat, 7 Nov 2026.
 
 AOKI takamasa is a techno and minimal artist based in Japan, with 123 gigs on soundcheck across Bali, Beijing, Berlin and Bucharest and 6 more. Often billed alongside Kohei, Loe (JP) and Endurance. Next up: Daikanyama ORD., Tokyo on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ AOKI takamasa is a techno and minimal artist based in Japan, with 123 gigs on so
 
 Kohei, Loe (JP), Endurance
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aokitakamasa/)*

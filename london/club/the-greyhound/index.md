@@ -1,6 +1,6 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Start Here (Free Entry)" on Thu, 5 Nov 2026.
+The Greyhound is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Start Here (Free Entry)" on Thu, 5 Nov 2026.
 
 The Greyhound is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Alex Wilcox, Anna Kost, Awedinary and Beton Brut and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
@@ -23,4 +23,4 @@ The Greyhound is a music venue in London listed on soundcheck. 17 upcoming gigs,
 
 109 Peckham High St, London SE15 5SE, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-greyhound/)*

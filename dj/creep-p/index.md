@@ -1,6 +1,6 @@
 # Creep-P
 
-Creep-P is a Hardcore and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Stereo, Glasgow on Fri, 6 Nov 2026.
+Creep-P is a Hardcore and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Stereo, Glasgow on Fri, 6 Nov 2026.
 
 Creep-P is a hardcore and club artist based in United States of America, with 28 gigs on soundcheck across Atlanta, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Ghozt (NYC), DJ Re:Code and W.T. Snacks. Next up: Stereo, Glasgow on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Creep-P is a hardcore and club artist based in United States of America, with 28
 
 Ghozt (NYC), DJ Re:Code, W.T. Snacks
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/creep-p/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/creep-p/)*

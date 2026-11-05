@@ -1,6 +1,6 @@
 # STTRUKII
 
-STTRUKII is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 6 Nov 2026.
+STTRUKII is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 6 Nov 2026.
 
 STTRUKII is a bass and garage artist based in Australia, with 19 gigs on soundcheck across Adelaide and Sydney. Often billed alongside Fashionably Late, Hotel 84 and Azzawi. Next up: Oxford Art Factory, Sydney on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ STTRUKII is a bass and garage artist based in Australia, with 19 gigs on soundch
 
 Fashionably Late, Hotel 84, Azzawi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sttrukii/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sttrukii/)*

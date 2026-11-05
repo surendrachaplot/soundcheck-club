@@ -1,8 +1,8 @@
 # Sulk
 
-Sulk is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 6 Nov 2026.
+Sulk is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Pillbox Beijing, Beijing on Fri, 6 Nov 2026.
 
-Sulk is a techno and bass artist based in Taiwan, with 92 gigs on soundcheck across Beijing, Chengdu, Chongqing and Hanoi and 5 more. Often billed alongside KATRINA, DJ 86 and KUAN. Next up: Pillbox Beijing, Beijing on Fri 6 Nov.
+Sulk is a techno and bass artist based in Taiwan, with 94 gigs on soundcheck across Beijing, Chengdu, Chongqing and Hanoi and 5 more. Often billed alongside KATRINA, DJ 86 and KUAN. Next up: Pillbox Beijing, Beijing on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Sulk is a techno and bass artist based in Taiwan, with 92 gigs on soundcheck acr
 | Fri, 6 Nov 2026 | Pillbox Beijing | Beijing |
 | Fri, 20 Nov 2026 | OIL Club | Shenzhen |
 | Sat, 21 Nov 2026 | 宀 Club | Hong Kong |
+| Sat, 28 Nov 2026 | OIL Club | Shenzhen |
+| Fri, 4 Dec 2026 | OIL Club | Shenzhen |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Sulk is a techno and bass artist based in Taiwan, with 92 gigs on soundcheck acr
 
 KATRINA, DJ 86, KUAN
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sulk/)*

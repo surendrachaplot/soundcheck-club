@@ -1,13 +1,14 @@
 # Hoang
 
-Hoang is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Royale, Boston on Fri, 22 Jan 2027.
+Hoang is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Barceló Riviera Maya Resort, Playa-del-carmen on Fri, 20 Nov 2026.
 
-Hoang is a bass and club artist based in United States of America, with 7 gigs on soundcheck across Boston, Los Angeles, Philadelphia and San Francisco/Oakland and 2 more. Often billed alongside AMÉMÉ, Alok and Andy C. Next up: Royale, Boston on Fri 22 Jan.
+Hoang is a bass and club artist based in United States of America, with 8 gigs on soundcheck across Boston, Los Angeles, Philadelphia and Playa Del Carmen and 3 more. Often billed alongside Ian Asher, AMÉMÉ and Adventure Club. Next up: Barceló Riviera Maya Resort, Playa Del Carmen on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Barceló Riviera Maya Resort | Playa-del-carmen |
 | Fri, 22 Jan 2027 | Royale | Boston |
 
 ## Recently played
@@ -21,6 +22,6 @@ Hoang is a bass and club artist based in United States of America, with 7 gigs o
 
 ## Shares bills with
 
-AMÉMÉ, Alok, Andy C
+Ian Asher, AMÉMÉ, Adventure Club
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoang/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoang/)*

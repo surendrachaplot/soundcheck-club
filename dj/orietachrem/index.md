@@ -1,6 +1,6 @@
 # Orieta Chrem
 
-Orieta Chrem is a Latin Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Meteoro, Barcelona on Thu, 19 Nov 2026.
+Orieta Chrem is a Latin Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Meteoro, Barcelona on Thu, 19 Nov 2026.
 
 Orieta Chrem is a latin bass and bass artist based in Peru, with 21 gigs on soundcheck across Barcelona, Berlin, Brussels and Madrid and 4 more. Often billed alongside Vitu Valera, Dj Hidrataccioni and Lukrø. Next up: Meteoro, Barcelona on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Orieta Chrem is a latin bass and bass artist based in Peru, with 21 gigs on soun
 
 Vitu Valera, Dj Hidrataccioni, Lukrø
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orietachrem/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orietachrem/)*

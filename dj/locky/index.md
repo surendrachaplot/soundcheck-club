@@ -1,8 +1,8 @@
 # Locky
 
-Locky is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Unit 51, Aberdeen on Thu, 12 Nov 2026.
+Locky is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Unit 51, Aberdeen on Thu, 12 Nov 2026.
 
-Locky is a house and tech house artist based in United Kingdom, with 159 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belgrade and 34 more. Often billed alongside Mad.Again, Luke Dean_ and L.P. Rhythm. Next up: Unit 51, Aberdeen on Thu 12 Nov.
+Locky is a house and tech house artist based in United Kingdom, with 160 gigs on soundcheck across Aberdeen, Amsterdam, Austria and Barcelona and 35 more. Often billed alongside Mad.Again, Luke Dean_ and Max Dean. Next up: Unit 51, Aberdeen on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Locky is a house and tech house artist based in United Kingdom, with 159 gigs on
 | Fri, 18 Dec 2026 | Halcyon | San Francisco/Oakland |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Sat, 2 Jan 2027 | Superordinary | Brisbane |
+| Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
@@ -32,6 +33,6 @@ Locky is a house and tech house artist based in United Kingdom, with 159 gigs on
 
 ## Shares bills with
 
-Mad.Again (2), Luke Dean_, L.P. Rhythm
+Mad.Again (2), Luke Dean_, Max Dean
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/locky/)*

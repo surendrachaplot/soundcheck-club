@@ -1,6 +1,6 @@
 # Safestay Rooftop
 
-Safestay Rooftop is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Solstice (Progressive Day Party)" on Fri, 6 Nov 2026.
+Safestay Rooftop is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Solstice (Progressive Day Party)" on Fri, 6 Nov 2026.
 
 Safestay Rooftop is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Bremen, Fede Roses, Franco Brida and Oversant and 1 more. See dates, start times and who's playing. Pg. de Gràcia, 33 08007 Barcelona.
 
@@ -17,4 +17,4 @@ Safestay Rooftop is a music venue in Barcelona listed on soundcheck. 4 upcoming 
 
 Pg. de Gràcia, 33 08007 Barcelona, Barcelona
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/safestay-rooftop/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/safestay-rooftop/)*

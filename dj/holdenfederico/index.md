@@ -1,6 +1,6 @@
 # Holden Federico
 
-Holden Federico is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Portland on Sat, 21 Nov 2026.
+Holden Federico is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Portland on Sat, 21 Nov 2026.
 
 Holden Federico is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Berlin, Detroit and Dortmund / Essen and 10 more. Often billed alongside Analog Soul, Akua and D.Dan. Next up: TBA, Portland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Holden Federico is a techno and house artist based in United States of America, 
 
 Analog Soul, Akua, D.Dan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holdenfederico/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holdenfederico/)*

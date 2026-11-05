@@ -1,6 +1,6 @@
 # Felver
 
-Felver is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Karmakoma, Belgrade on Fri, 13 Nov 2026.
+Felver is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Karmakoma, Belgrade on Fri, 13 Nov 2026.
 
 Felver is a house and electronica artist based in Croatia, with 24 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Antonio Zuza, Curses and Elena Mikac. Next up: Karmakoma, Belgrade on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Felver is a house and electronica artist based in Croatia, with 24 gigs on sound
 
 Antonio Zuza, Curses, Elena Mikac
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felver/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felver/)*

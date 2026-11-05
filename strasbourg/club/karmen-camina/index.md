@@ -1,6 +1,6 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "COMBO CLUB [HiLo, Ødass]" on Thu, 5 Nov 2026.
+Karmen Camina is a music venue in Strasbourg with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "COMBO CLUB [HiLo, Ødass]" on Thu, 5 Nov 2026.
 
 Karmen Camina is a music venue in Strasbourg listed on soundcheck. 17 upcoming gigs, with line-ups including Arbo, BOUKI, Cryptofauna and Danilo Plessow and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
@@ -23,4 +23,4 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 17 upcoming g
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

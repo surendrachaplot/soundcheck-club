@@ -1,14 +1,15 @@
 # Act One
 
-Act One is a Psytrance and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Act One is a Psytrance and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
-Act One is a psytrance and disco artist based in United Kingdom, with 7 gigs on soundcheck across Bristol, Edinburgh, Morelos and Sheffield. Often billed alongside Alex Stein, Antix and Arturo Maia. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
+Act One is a psytrance and disco artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Bristol, Edinburgh and Morelos and 1 more. Often billed alongside Alex Stein, Antix and Arturo Maia. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |
+| Thu, 31 Dec 2026 | [119] | Berlin |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ Act One is a psytrance and disco artist based in United Kingdom, with 7 gigs on 
 
 Alex Stein, Antix, Arturo Maia
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/actone/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/actone/)*

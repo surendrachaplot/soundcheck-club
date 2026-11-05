@@ -1,6 +1,6 @@
 # Allius
 
-Allius is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
+Allius is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
 
 Allius is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Cersy, ngoma and Channell. Next up: 1520, Manchester on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Allius is a house and techno artist based in United Kingdom, with 47 gigs on sou
 
 Cersy, ngoma, Channell
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allius/)*

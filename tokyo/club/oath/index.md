@@ -1,19 +1,20 @@
 # Oath
 
-Oath is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "OATH WEDNESDAY" on Wed, 4 Nov 2026.
+Oath is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "FUNKTION" on Thu, 5 Nov 2026.
 
-Oath is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Ren Yokoi. See dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
+Oath is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Amps, Ren Yokoi, SUETSUGU and Yuta Yamada. See dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | OATH WEDNESDAY |  |
 | Thu, 5 Nov 2026 | FUNKTION | Ren Yokoi |
+| Fri, 6 Nov 2026 | OATH FRIDAY | SUETSUGU |
 | Sat, 7 Nov 2026 | GUIDANCE |  |
+| Sat, 7 Nov 2026 | OATH AFTER HOURS -SATURDAY MORNING- | Amps, Yuta Yamada |
 
 ## Address
 
 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan, Tokyo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/oath/)*

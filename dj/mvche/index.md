@@ -1,14 +1,15 @@
 # MVCHE
 
-MVCHE is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 6 Nov 2026.
+MVCHE is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 6 Nov 2026.
 
-MVCHE is a techno and hardcore artist based in Canada, with 17 gigs on soundcheck across Madrid and Toronto. Often billed alongside R4TS, KILL 9 1 and Maul. Next up: The Comfort Zone, Toronto on Fri 6 Nov.
+MVCHE is a techno and hardcore artist based in Canada, with 18 gigs on soundcheck across Madrid and Toronto. Often billed alongside R4TS, KILL 9 1 and Maul. Next up: The Comfort Zone, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | The Comfort Zone | Toronto |
+| Fri, 13 Nov 2026 | The Comfort Zone | Toronto |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MVCHE is a techno and hardcore artist based in Canada, with 17 gigs on soundchec
 
 R4TS, KILL 9 1, Maul (2)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mvche/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mvche/)*

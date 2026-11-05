@@ -1,6 +1,6 @@
 # Karim Alkhayat
 
-Karim Alkhayat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at AMT, Berlin on Sat, 5 Dec 2026.
+Karim Alkhayat is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at AMT, Berlin on Sat, 5 Dec 2026.
 
 Karim Alkhayat is a techno and house artist based in Syria, with 63 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 1 more. Often billed alongside NÚRIA (DE), KEN (DE) and Leon Licht. Next up: AMT, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Karim Alkhayat is a techno and house artist based in Syria, with 63 gigs on soun
 
 NÚRIA (DE), KEN (DE), Leon Licht
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karimalkhayat/)*

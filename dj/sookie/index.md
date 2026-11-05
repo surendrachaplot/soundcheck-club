@@ -1,6 +1,6 @@
 # Sookie
 
-Sookie is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Sookie is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
 Sookie is a techno and electro artist based in Germany, with 14 gigs on soundcheck across Brussels, Detroit, Ghent and Seoul. Often billed alongside Violently Happy, Kuba'97 and Nina Welch. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
@@ -13,6 +13,7 @@ Sookie is a techno and electro artist based in Germany, with 14 gigs on soundche
 
 ## Recently played
 
+- Crevette Records, Brussels · Wed, 4 Nov 2026
 - Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
 - UMI, Brussels · Sat, 13 Jun 2026
 - C12, Brussels · Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ Sookie is a techno and electro artist based in Germany, with 14 gigs on soundche
 - B21, Brussels · Sat, 7 Mar 2026
 - GIMIC, Brussels · Sun, 11 Jan 2026
 - C12, Brussels · Thu, 1 Jan 2026
-- Spkrbox, Detroit · Mon, 20 Oct 2025
 
 ## Shares bills with
 
 Violently Happy, Kuba'97, Nina Welch
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sookie/)*

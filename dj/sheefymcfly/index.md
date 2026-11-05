@@ -1,13 +1,14 @@
 # Sheefy McFly
 
-Sheefy McFly is a Ghetto Tech and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Marble Bar, Detroit on Fri, 13 Nov 2026.
+Sheefy McFly is a Ghetto Tech and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Marble Bar, Detroit on Fri, 13 Nov 2026.
 
-Sheefy McFly is a ghetto tech and house artist based in United States of America, with 93 gigs on soundcheck across Chicago, Denver, Detroit and London and 1 more. Often billed alongside DJ Godfather, Nick Speed and Disc Jockey George. Next up: Marble Bar, Detroit on Fri 13 Nov.
+Sheefy McFly is a ghetto tech and house artist based in United States of America, with 94 gigs on soundcheck across Chicago, Denver, Detroit and London and 1 more. Often billed alongside DJ Godfather, Nick Speed and Disc Jockey George. Next up: Marble Bar, Detroit on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Marble Bar | Detroit |
 | Fri, 13 Nov 2026 | Marble Bar | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sheefy McFly is a ghetto tech and house artist based in United States of America
 
 DJ Godfather, Nick Speed, Disc Jockey George
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheefymcfly/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheefymcfly/)*

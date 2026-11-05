@@ -1,14 +1,15 @@
 # DJoy
 
-DJoy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
+DJoy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 21 Nov 2026.
 
-DJoy is a house and techno artist based in Germany, with 59 gigs on soundcheck across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: Tokonoma Club, Frankfurt on Sat 21 Nov.
+DJoy is a house and techno artist based in Germany, with 60 gigs on soundcheck across Athens, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Bogus Trumper, VOE and sianza. Next up: Tokonoma Club, Frankfurt on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Tokonoma Club | Frankfurt |
+| Fri, 27 Nov 2026 | Legal | Munich |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJoy is a house and techno artist based in Germany, with 59 gigs on soundcheck a
 
 Bogus Trumper, VOE, sianza
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djoy/)*

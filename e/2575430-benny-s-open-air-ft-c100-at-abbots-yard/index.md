@@ -1,6 +1,6 @@
 # Benny's Open-Air ft. C100 at Abbots Yard
 
-Benny's Open-Air ft. C100 at Abbots Yard on Sat 28 Nov, Melbourne. 2 artists: C100 and Champagnemuma. House and Garage. See the line-up on soundcheck.
+Benny's Open-Air ft. C100 at Abbots Yard on Sat 28 Nov, Melbourne. 1 artist: C100. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ Benny's Open-Air ft. C100 at Abbots Yard on Sat 28 Nov, Melbourne. 2 artists: C1
 ## Line-up
 
 - C100
-- Champagnemuma
 
 *Source: [soundcheck](https://soundcheck.club/e/2575430-benny-s-open-air-ft-c100-at-abbots-yard/)*

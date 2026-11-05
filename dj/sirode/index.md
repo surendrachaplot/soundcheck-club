@@ -1,6 +1,6 @@
 # SIRO (DE)
 
-SIRO (DE) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
+SIRO (DE) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
 
 SIRO (DE) is a techno and electro artist based in Germany, with 11 gigs on soundcheck across Berlin, Cologne, Münster and Stuttgart. Often billed alongside PLOYZZ, GEORGE aka DR.RADSPORT and The Enveloper. Next up: Am Hawerkamp, Münster on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ SIRO (DE) is a techno and electro artist based in Germany, with 11 gigs on sound
 
 PLOYZZ, GEORGE aka DR.RADSPORT, The Enveloper
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirode/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sirode/)*

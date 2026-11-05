@@ -1,6 +1,6 @@
 # Bruno Brero
 
-Bruno Brero is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at OST, Berlin on Fri, 20 Nov 2026.
+Bruno Brero is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OST, Berlin on Fri, 20 Nov 2026.
 
 Bruno Brero is a trance and techno artist based in Germany, with 43 gigs on soundcheck across Berlin, Cologne, Hannover and Karlsruhe and 2 more. Often billed alongside Hanne B, Amo (IT) and 4NOUK. Next up: OST, Berlin on Fri 20 Nov.
 
@@ -29,4 +29,4 @@ Bruno Brero is a trance and techno artist based in Germany, with 43 gigs on soun
 
 Hanne B, Amo (IT), 4NOUK
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobrero/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunobrero/)*

@@ -1,6 +1,6 @@
 # Rebel Up
 
-Rebel Up is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at De Munt La Monnaie, Brussels on Sat, 7 Nov 2026.
+Rebel Up is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at De Munt La Monnaie, Brussels on Sat, 7 Nov 2026.
 
 Rebel Up is an experimental and electro artist based in Belgium, with 17 gigs on soundcheck across Brussels. Often billed alongside Moon Yé, Laryssa Kim and Rrita Jashari. Next up: De Munt La Monnaie, Brussels on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Rebel Up is an experimental and electro artist based in Belgium, with 17 gigs on
 
 Moon Yé, Laryssa Kim, Rrita Jashari
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebelup/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebelup/)*

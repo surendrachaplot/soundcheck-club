@@ -1,6 +1,6 @@
 # Emma 2000
 
-Emma 2000 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
+Emma 2000 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 27 Nov 2026.
 
 Emma 2000 is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Joss Dean, Obskur and Boss Priester. Next up: Depot Mayfield, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Emma 2000 is a house and tech house artist based in United Kingdom, with 28 gigs
 
 Joss Dean, Obskur, Boss Priester
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emma2000/)*

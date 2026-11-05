@@ -1,6 +1,6 @@
 # Dantral
 
-Dantral is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Berlin bar, Colombia on Thu, 5 Nov 2026.
+Dantral is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Berlin bar, Colombia on Thu, 5 Nov 2026.
 
 Dantral is a house and minimal artist based in Colombia, with 19 gigs on soundcheck across Colombia and Medellin. Often billed alongside Federico Torres, Cami España and incipiens. Next up: Berlin bar, Colombia on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Dantral is a house and minimal artist based in Colombia, with 19 gigs on soundch
 
 Federico Torres, Cami España, incipiens
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dantral/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dantral/)*

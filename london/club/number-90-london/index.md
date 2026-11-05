@@ -1,8 +1,8 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Klub Verboten x LONDON" on Fri, 13 Nov 2026.
+NUMBER 90 LONDON is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Klub Verboten x LONDON" on Fri, 13 Nov 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Alisdair, Anish Kumar, ATRIP and Cecilio and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Alisdair, Amaliah, Anish Kumar and ATRIP and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
@@ -13,7 +13,7 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 12 upcoming gi
 | Fri, 20 Nov 2026 | Ezequiel Arias | Ezequiel Arias, Maze 28 |
 | Sat, 21 Nov 2026 | M.A.D Records 6th BIRTHDAY | Ellie Anderson, Make A Dance, Tino |
 | Sun, 22 Nov 2026 | Cartulis 17th Anniversary After Party | Cecilio, Laurine |
-| Fri, 27 Nov 2026 | Faem e Li presents: Malix & Friends | malix |
+| Fri, 27 Nov 2026 | Faem e Li presents: Malix & Friends | Amaliah, LORA S, Nyra, Selassie TBC, malix |
 | Sat, 28 Nov 2026 | Unica - Part 4 | Meeshy, Summer Ghemati, hitty |
 | Sat, 5 Dec 2026 | Half Baked 17th Birthday W/ Margaret Dygas, Tristan da Cunha, Silverlining & More | Dan Andrei, Greg Brockmann, Jive Talk, Just Jam, Margaret Dygas, Sam Bangura, Silverlining, Tristan da Cunha, fae (UK) |
 | Sat, 5 Dec 2026 | Journey Records | George Wight, Jack Ling, James Lavelle (2), Olly Morley, Tom Da Silva |
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 12 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

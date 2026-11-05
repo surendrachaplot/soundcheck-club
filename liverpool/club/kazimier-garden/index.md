@@ -1,6 +1,6 @@
 # Kazimier Garden
 
-Kazimier Garden is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Kazimier Garden presents: Brown Excellence w/ Conduit Sound" on Sat, 7 Nov 2026.
+Kazimier Garden is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Kazimier Garden presents: Brown Excellence w/ Conduit Sound" on Sat, 7 Nov 2026.
 
 Kazimier Garden is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Alien Communications, Aly P, Brown Excellence and De La Reef and 2 more. See dates, start times and who's playing. 32B Seel Street, Liverpool, United Kingdom.
 
@@ -18,4 +18,4 @@ Kazimier Garden is a music venue in Liverpool listed on soundcheck. 5 upcoming g
 
 32B Seel Street, Liverpool, United Kingdom, Liverpool
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kazimier-garden/)*

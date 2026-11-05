@@ -1,6 +1,6 @@
 # Psysoul
 
-Psysoul is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Rampe 70, Zurich on Sat, 7 Nov 2026.
+Psysoul is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Rampe 70, Zurich on Sat, 7 Nov 2026.
 
 Psysoul is a techno and deep house artist based in Switzerland, with 6 gigs on soundcheck across Zurich. Next up: Rampe 70, Zurich on Sat 7 Nov.
 
@@ -18,4 +18,4 @@ Psysoul is a techno and deep house artist based in Switzerland, with 6 gigs on s
 - Rampe 70, Zurich · Sat, 10 Oct 2026
 - Rampe 70, Zurich · Sat, 3 Oct 2026
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psysoul/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/psysoul/)*

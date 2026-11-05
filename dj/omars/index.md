@@ -1,6 +1,6 @@
 # Omar-S
 
-Omar-S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Phonox, London on Sat, 30 Jan 2027.
+Omar-S is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Phonox, London on Sat, 30 Jan 2027.
 
 Omar-S is a house and techno artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Athens, Baltimore and Barcelona and 22 more. Often billed alongside Carl Craig, Idriss D and DJ Stingray 313. Next up: Phonox, London on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Omar-S is a house and techno artist based in United States of America, with 54 g
 
 Carl Craig, Idriss D, DJ Stingray 313
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omars/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omars/)*

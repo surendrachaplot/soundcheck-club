@@ -1,14 +1,15 @@
 # AIS (2)
 
-AIS (2) is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Toffler, Rotterdam on Sat, 7 Nov 2026.
+AIS (2) is a Trance and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Toffler, Rotterdam on Sat, 7 Nov 2026.
 
-AIS is a trance and house artist based in Netherlands, with 5 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Divasi, Faster Horses and Hurts. Next up: Toffler, Rotterdam on Sat 7 Nov.
+AIS is a trance and house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Netherlands, Rotterdam and The Hague and 1 more. Often billed alongside Divasi, Faster Horses and Hurts. Next up: Toffler, Rotterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Toffler | Rotterdam |
+| Sat, 12 Dec 2026 | Wibar | Netherlands |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ AIS is a trance and house artist based in Netherlands, with 5 gigs on soundcheck
 
 Divasi, Faster Horses, Hurts
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ais-2/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ais-2/)*

@@ -1,6 +1,6 @@
 # Samir (DVS)
 
-Samir (DVS) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at XOYO, London on Wed, 18 Nov 2026.
+Samir (DVS) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at XOYO, London on Wed, 18 Nov 2026.
 
 Samir (DVS) is a tech house and house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside D1 x Samir (DVS), Azire and Billa Bazz. Next up: XOYO, London on Wed 18 Nov.
 
@@ -26,4 +26,4 @@ Samir (DVS) is a tech house and house artist based in United Kingdom, with 17 gi
 
 D1 x Samir (DVS), Azire, Billa Bazz
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samirdvs/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samirdvs/)*

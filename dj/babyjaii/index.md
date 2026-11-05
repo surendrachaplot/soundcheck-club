@@ -1,6 +1,6 @@
 # Babyjaii
 
-Babyjaii is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Stereo, Glasgow on Fri, 6 Nov 2026.
+Babyjaii is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Stereo, Glasgow on Fri, 6 Nov 2026.
 
 Babyjaii is a club and baile funk artist based in United Kingdom, with 62 gigs on soundcheck across Edinburgh, Glasgow and Manchester. Often billed alongside Miss Cabbage, Shrek666 and Rahul.mp3. Next up: Stereo, Glasgow on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Babyjaii is a club and baile funk artist based in United Kingdom, with 62 gigs o
 
 Miss Cabbage, Shrek666, Rahul.mp3
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjaii/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyjaii/)*

@@ -1,6 +1,6 @@
 # Gammer
 
-Gammer is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
+Gammer is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Melrose Ballroom, New York City on Fri, 20 Nov 2026.
 
 Gammer is a hardcore and techno artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Liverpool, London and Los Angeles and 3 more. Often billed alongside Darren Styles, LNY TNZ and Blasterjaxx. Next up: Melrose Ballroom, New York City on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Gammer is a hardcore and techno artist based in United Kingdom, with 17 gigs on 
 
 Darren Styles, LNY TNZ, Blasterjaxx
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gammer/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gammer/)*

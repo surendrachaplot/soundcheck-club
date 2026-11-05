@@ -1,6 +1,6 @@
 # HIDAI
 
-HIDAI is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 14 Nov 2026.
+HIDAI is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at THE HAPPY mAN CHEAKS, Tokyo on Sat, 14 Nov 2026.
 
 HIDAI is a techno and acid artist based in Japan, with 8 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside NUTMEG, DJ MIKU and Do Shock Booze. Next up: THE HAPPY mAN CHEAKS, Tokyo on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ HIDAI is a techno and acid artist based in Japan, with 8 gigs on soundcheck acro
 
 NUTMEG, DJ MIKU, Do Shock Booze
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hidai/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hidai/)*

@@ -1,6 +1,6 @@
 # Dombresky
 
-Dombresky is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
+Dombresky is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at DRUMSHEDS, London on Fri, 13 Nov 2026.
 
 Dombresky is a house and tech house artist based in France, with 162 gigs on soundcheck across Arizona, Atlanta, Austin and Bali and 45 more. Often billed alongside Jaded (UK), Tini Gessler and Cassian. Next up: DRUMSHEDS, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Dombresky is a house and tech house artist based in France, with 162 gigs on sou
 
 Jaded (UK), Tini Gessler, Cassian
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dombresky/)*

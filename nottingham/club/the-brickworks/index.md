@@ -1,6 +1,6 @@
 # The Brickworks
 
-The Brickworks is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "The Brickworks: Two Shell" on Sat, 14 Nov 2026.
+The Brickworks is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "The Brickworks: Two Shell" on Sat, 14 Nov 2026.
 
 The Brickworks is a music venue in Nottingham listed on soundcheck. 2 upcoming gigs, with line-ups including bullet tooth, Papa Nugs and Two Shell. See dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
 
@@ -15,4 +15,4 @@ The Brickworks is a music venue in Nottingham listed on soundcheck. 2 upcoming g
 
 Newark St, Nottingham, NG2 4PP United Kingdom, Nottingham
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*

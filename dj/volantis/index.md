@@ -1,6 +1,6 @@
 # Volantis
 
-Volantis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Q Club, Milan on Fri, 6 Nov 2026.
+Volantis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Q Club, Milan on Fri, 6 Nov 2026.
 
 Volantis is a house and techno artist based in Italy, with 73 gigs on soundcheck across Berlin, Bogotá, Florence and Lausanne and 7 more. Often billed alongside Nicodemo, Odd Shy Guy and Ricardo Baez. Next up: Q Club, Milan on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Volantis is a house and techno artist based in Italy, with 73 gigs on soundcheck
 
 Nicodemo, Odd Shy Guy, Ricardo Baez
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volantis/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volantis/)*

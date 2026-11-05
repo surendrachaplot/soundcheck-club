@@ -1,8 +1,8 @@
 # Dennis Louvra
 
-Dennis Louvra is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Volt Club Milano, Milan on Fri, 27 Nov 2026.
+Dennis Louvra is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Volt Club Milano, Milan on Fri, 27 Nov 2026.
 
-Dennis Louvra is a techno and tech house artist, with 16 gigs on soundcheck across Amsterdam, Glasgow, Hamburg and Milan and 1 more. Often billed alongside Convinzed, Sitze and Jo van der Meer. Next up: Volt Club Milano, Milan on Fri 27 Nov.
+Dennis Louvra is a techno and tech house artist based in Netherlands, with 16 gigs on soundcheck across Amsterdam, Glasgow, Hamburg and Milan and 1 more. Often billed alongside Convinzed, Sitze and Jo van der Meer. Next up: Volt Club Milano, Milan on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dennis Louvra is a techno and tech house artist, with 16 gigs on soundcheck acro
 
 Convinzed, Sitze, Jo van der Meer
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennislouvra/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennislouvra/)*

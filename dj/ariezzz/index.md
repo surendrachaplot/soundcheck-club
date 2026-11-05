@@ -1,6 +1,6 @@
 # Ariezzz
 
-Ariezzz is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Core, Madrid on Thu, 5 Nov 2026.
+Ariezzz is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Core, Madrid on Thu, 5 Nov 2026.
 
 Ariezzz is a tech house and house artist based in Spain, with 82 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 3 more. Often billed alongside CAMMMMM, Ladrillovitz and Lucía Gea. Next up: Core, Madrid on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Ariezzz is a tech house and house artist based in Spain, with 82 gigs on soundch
 
 CAMMMMM, Ladrillovitz, Lucía Gea
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariezzz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ariezzz/)*

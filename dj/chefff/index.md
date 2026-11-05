@@ -1,6 +1,6 @@
 # CHEFFF
 
-CHEFFF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sala ART, Madrid on Sat, 7 Nov 2026.
+CHEFFF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Sala ART, Madrid on Sat, 7 Nov 2026.
 
 CHEFFF is a techno and trance artist based in Spain, with 44 gigs on soundcheck across Madrid and Valencia. Often billed alongside Valentina Izumi, Babylon Whore and KH0LE. Next up: Sala ART, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ CHEFFF is a techno and trance artist based in Spain, with 44 gigs on soundcheck 
 
 Valentina Izumi, Babylon Whore, KH0LE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chefff/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chefff/)*

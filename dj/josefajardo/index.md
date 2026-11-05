@@ -1,6 +1,6 @@
 # jose fajardo
 
-jose fajardo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 25 Dec 2026.
+jose fajardo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 25 Dec 2026.
 
 jose fajardo is a house and tech house artist based in Spain, with 44 gigs on soundcheck across Barcelona and Madrid. Often billed alongside fajardo, Chris Figueroa and David Berna. Next up: LAB theCLUB, Madrid on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ jose fajardo is a house and tech house artist based in Spain, with 44 gigs on so
 
 fajardo, Chris Figueroa, David Berna
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefajardo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josefajardo/)*

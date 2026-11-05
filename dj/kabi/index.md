@@ -1,6 +1,6 @@
 # Kabi
 
-Kabi is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Rock Noosa, Queensland on Sat, 7 Nov 2026.
+Kabi is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Rock Noosa, Queensland on Sat, 7 Nov 2026.
 
 Kabi is a progressive house and deep house artist based in Argentina, with 25 gigs on soundcheck across Amsterdam, Budapest, Buenos Aires and London and 6 more. Often billed alongside Dimuth K, Agustin Ficarra and Armen Miran. Next up: The Rock Noosa, Queensland on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Kabi is a progressive house and deep house artist based in Argentina, with 25 gi
 
 Dimuth K, Agustin Ficarra, Armen Miran
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kabi/)*

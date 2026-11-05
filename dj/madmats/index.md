@@ -1,6 +1,6 @@
 # Mad Mats
 
-Mad Mats is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tranans Bar, Stockholm on Sat, 7 Nov 2026.
+Mad Mats is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tranans Bar, Stockholm on Sat, 7 Nov 2026.
 
 Mad Mats is a house and deep house artist, with 29 gigs on soundcheck across Brussels and Stockholm. Often billed alongside D Soulstream, DJ Kekki and Dennis Christensen. Next up: Tranans Bar, Stockholm on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mad Mats is a house and deep house artist, with 29 gigs on soundcheck across Bru
 
 D Soulstream, DJ Kekki, Dennis Christensen
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmats/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmats/)*

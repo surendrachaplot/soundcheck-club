@@ -1,6 +1,6 @@
 # LOVEISYUNNECO
 
-LOVEISYUNNECO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Paper, Seoul on Fri, 27 Nov 2026.
+LOVEISYUNNECO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Paper, Seoul on Fri, 27 Nov 2026.
 
 LOVEISYUNNECO is a house and techno artist, with 8 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Slowmouth, Conan and DJ Wow. Next up: Paper, Seoul on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ LOVEISYUNNECO is a house and techno artist, with 8 gigs on soundcheck across Ban
 
 Slowmouth, Conan, DJ Wow
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loveisyunneco/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loveisyunneco/)*

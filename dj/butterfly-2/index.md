@@ -1,6 +1,6 @@
 # Butterfly (2)
 
-Butterfly (2) is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 6 Nov 2026.
+Butterfly (2) is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 6 Nov 2026.
 
 Butterfly is a club and bass artist based in China, with 17 gigs on soundcheck across Beijing, Chengdu, Hanoi and Ho Chi Minh City and 2 more. Often billed alongside Phát Paris, Smoothie Boiz and Soup snakeS. Next up: Heim Shanghai, Shanghai on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Butterfly is a club and bass artist based in China, with 17 gigs on soundcheck a
 
 Phát Paris, Smoothie Boiz, Soup snakeS
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butterfly-2/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/butterfly-2/)*

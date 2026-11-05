@@ -1,6 +1,6 @@
 # The Dreamer
 
-The Dreamer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at SMUT Athens, Athens on Sat, 7 Nov 2026.
+The Dreamer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at SMUT Athens, Athens on Sat, 7 Nov 2026.
 
 The Dreamer is a house and techno artist based in Greece, with 117 gigs on soundcheck across Athens, Berlin, Istanbul and London and 3 more. Often billed alongside WrappeD In PlastiC, SIMEONSKG and ClubKid. Next up: SMUT Athens, Athens on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ The Dreamer is a house and techno artist based in Greece, with 117 gigs on sound
 
 WrappeD In PlastiC, SIMEONSKG, ClubKid
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thedreamer/)*

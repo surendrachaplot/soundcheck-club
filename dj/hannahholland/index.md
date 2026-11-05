@@ -1,6 +1,6 @@
 # Hannah Holland
 
-Hannah Holland is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Prospect Building, Bristol on Fri, 18 Dec 2026.
+Hannah Holland is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Prospect Building, Bristol on Fri, 18 Dec 2026.
 
 Hannah Holland is a house and techno artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Josh Caffé, FAFF and Michelle Manetti. Next up: The Prospect Building, Bristol on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Hannah Holland is a house and techno artist based in United Kingdom, with 71 gig
 
 Josh Caffé, FAFF, Michelle Manetti
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahholland/)*

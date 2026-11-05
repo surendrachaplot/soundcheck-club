@@ -1,6 +1,6 @@
 # Jurango
 
-Jurango is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
+Jurango is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
 
 Jurango is a bass and techno artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 13 more. Often billed alongside ALYA L, Laksa and Surgeon. Next up: The Island, Bristol on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jurango is a bass and techno artist based in United Kingdom, with 51 gigs on sou
 
 ALYA L, Laksa, Surgeon
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jurango/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jurango/)*

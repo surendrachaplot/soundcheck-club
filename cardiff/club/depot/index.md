@@ -1,6 +1,6 @@
 # Depot
 
-Depot is a music venue in Cardiff with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Shangri-La presents: Ewan McVicar" on Sat, 7 Nov 2026.
+Depot is a music venue in Cardiff with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Shangri-La presents: Ewan McVicar" on Sat, 7 Nov 2026.
 
 Depot is a music venue in Cardiff listed on soundcheck. 5 upcoming gigs, with line-ups including John Digweed, Ewan McVicar, L.P. Rhythm and Marc Kinchen and 2 more. See dates, start times and who's playing. DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales.
 
@@ -18,4 +18,4 @@ Depot is a music venue in Cardiff listed on soundcheck. 5 upcoming gigs, with li
 
 DEPOT Cardiff  Williams Way,  Curran Embankment,  Cardiff  CF10 5DY,  Wales, Cardiff
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/cardiff/club/depot/)*

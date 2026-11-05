@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "LIJN5" on Fri, 6 Nov 2026.
+Toekomstmuziek is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "LIJN5" on Fri, 6 Nov 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Audiofools, Christoph Cham, ilse dorine and LGNA and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -20,4 +20,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 7 upcoming gi
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

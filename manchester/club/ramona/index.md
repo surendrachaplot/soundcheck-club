@@ -1,6 +1,6 @@
 # Ramona
 
-Ramona is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Ramona: Stuart Richards" on Thu, 5 Nov 2026.
+Ramona is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Ramona: Stuart Richards" on Thu, 5 Nov 2026.
 
 Ramona is a music venue in Manchester listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 40 Swan St, Manchester M4 5JG, United Kingdom.
 
@@ -18,4 +18,4 @@ Ramona is a music venue in Manchester listed on soundcheck. 5 upcoming gigs. See
 
 40 Swan St, Manchester M4 5JG, United Kingdom, Manchester
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/ramona/)*

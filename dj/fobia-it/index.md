@@ -1,14 +1,15 @@
 # FØBIA
 
-FØBIA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sala Independance Club, Madrid on Thu, 5 Nov 2026.
+FØBIA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sala Independance Club, Madrid on Thu, 5 Nov 2026.
 
-FØBIA is a techno and trance artist based in Italy, with 10 gigs on soundcheck across Barcelona, Berlin, Madrid and Malta and 1 more. Often billed alongside Amo (IT), DOCTOR MÜCKE and Amøn. Next up: Sala Independance Club, Madrid on Thu 5 Nov.
+FØBIA is a techno and trance artist based in Italy, with 11 gigs on soundcheck across Barcelona, Berlin, Madrid and Malta and 2 more. Often billed alongside Amo (IT), DOCTOR MÜCKE and Amøn. Next up: Sala Independance Club, Madrid on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Sala Independance Club | Madrid |
+| Sat, 7 Nov 2026 | Central Sector Tirana | Tirana |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ FØBIA is a techno and trance artist based in Italy, with 10 gigs on soundcheck 
 
 Amo (IT), DOCTOR MÜCKE, Amøn
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fobia-it/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fobia-it/)*

@@ -1,13 +1,14 @@
 # Peter Croce
 
-Peter Croce is a Disco and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TV Lounge, Detroit on Sat, 21 Nov 2026.
+Peter Croce is a Disco and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
 
-Peter Croce is a disco and deep house artist based in United States of America, with 112 gigs on soundcheck across Chicago, Cleveland, Detroit and Madison and 6 more. Often billed alongside Eddie Logix, David A-P and LADYMONIX. Next up: TV Lounge, Detroit on Sat 21 Nov.
+Peter Croce is a disco and deep house artist based in United States of America, with 113 gigs on soundcheck across Chicago, Cleveland, Detroit and Madison and 7 more. Often billed alongside Eddie Logix, David A-P and LADYMONIX. Next up: Cafe Bourbon Street, Ohio on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Cafe Bourbon Street | Ohio |
 | Sat, 21 Nov 2026 | TV Lounge | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Peter Croce is a disco and deep house artist based in United States of America, 
 
 Eddie Logix, David A-P, LADYMONIX
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petercroce/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petercroce/)*

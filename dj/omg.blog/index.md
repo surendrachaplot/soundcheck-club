@@ -1,13 +1,14 @@
 # OMG.BLOG
 
-OMG.BLOG is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cafeteria, Toronto on Fri, 4 Dec 2026.
+OMG.BLOG is a Electro and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bsmt 254, Toronto on Fri, 20 Nov 2026.
 
-OMG.BLOG is an electro and club artist based in Canada, with 41 gigs on soundcheck across Toronto. Often billed alongside Marnigurl, Kuscheln and Rabzi. Next up: Cafeteria, Toronto on Fri 4 Dec.
+OMG.BLOG is an electro and club artist based in Canada, with 42 gigs on soundcheck across Toronto. Often billed alongside Marnigurl, Kuscheln and Rabzi. Next up: Bsmt 254, Toronto on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Bsmt 254 | Toronto |
 | Fri, 4 Dec 2026 | Cafeteria | Toronto |
 
 ## Recently played
@@ -25,4 +26,4 @@ OMG.BLOG is an electro and club artist based in Canada, with 41 gigs on soundche
 
 Marnigurl, Kuscheln, Rabzi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omg.blog/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omg.blog/)*

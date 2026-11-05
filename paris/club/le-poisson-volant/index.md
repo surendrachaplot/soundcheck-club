@@ -1,6 +1,6 @@
 # Le Poisson Volant
 
-Le Poisson Volant is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Nzassa with ohjeelo & Doido" on Thu, 5 Nov 2026.
+Le Poisson Volant is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Nzassa with ohjeelo & Doido" on Thu, 5 Nov 2026.
 
 Le Poisson Volant is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Bamao Yendé, Carole Fe, Low Jack and Nao Never and 2 more. See dates, start times and who's playing. 5 Rue Marguerite Moret, 75011 Paris.
 
@@ -18,4 +18,4 @@ Le Poisson Volant is a music venue in Paris listed on soundcheck. 5 upcoming gig
 
 5 Rue Marguerite Moret, 75011 Paris, Paris
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-poisson-volant/)*

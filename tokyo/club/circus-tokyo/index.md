@@ -1,6 +1,6 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "VIVID H34RTS" on Fri, 6 Nov 2026.
+Circus Tokyo is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "VIVID H34RTS" on Fri, 6 Nov 2026.
 
 Circus Tokyo is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including ACKERMAN, aryy, Azumai and Blacky and 2 more. See dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
@@ -23,4 +23,4 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, w
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

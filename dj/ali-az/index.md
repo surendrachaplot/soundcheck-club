@@ -1,6 +1,6 @@
 # Ali-Az
 
-Ali-Az is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 7 Nov 2026.
+Ali-Az is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 7 Nov 2026.
 
 Ali-Az is a techno and electronica artist based in Colombia, with 41 gigs on soundcheck across Madrid. Often billed alongside Kevin Matto, Systematic Method and Hakkon. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Ali-Az is a techno and electronica artist based in Colombia, with 41 gigs on sou
 
 Kevin Matto, Systematic Method, Hakkon
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ali-az/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ali-az/)*

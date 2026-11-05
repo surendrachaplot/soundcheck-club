@@ -1,14 +1,15 @@
 # Mike Textbeak
 
-Mike Textbeak is a Industrial and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Dolphin, Philadelphia on Thu, 12 Nov 2026.
+Mike Textbeak is a Industrial and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Dolphin, Philadelphia on Thu, 12 Nov 2026.
 
-Mike Textbeak is an industrial and ebm artist based in United States of America, with 6 gigs on soundcheck across Detroit and Philadelphia. Often billed alongside Comfort Cure, DJ Baby Berlin and EXT EST. Next up: The Dolphin, Philadelphia on Thu 12 Nov.
+Mike Textbeak is an industrial and ebm artist based in United States of America, with 7 gigs on soundcheck across Detroit and Philadelphia. Often billed alongside Brad Scott, Comfort Cure and DJ Baby Berlin. Next up: The Dolphin, Philadelphia on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | The Dolphin | Philadelphia |
+| Thu, 10 Dec 2026 | The Dolphin | Philadelphia |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ Mike Textbeak is an industrial and ebm artist based in United States of America,
 
 ## Shares bills with
 
-Comfort Cure, DJ Baby Berlin, EXT EST
+Brad Scott, Comfort Cure, DJ Baby Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miketextbeak/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miketextbeak/)*

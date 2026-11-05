@@ -1,6 +1,6 @@
 # tworam
 
-tworam is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 13 Nov 2026.
+tworam is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Piccadilly Central, Manchester on Fri, 13 Nov 2026.
 
 tworam is a house and acid artist based in United Kingdom, with 12 gigs on soundcheck across London and Manchester. Often billed alongside Killamanjaro, imad:re and April (UK). Next up: Piccadilly Central, Manchester on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ tworam is a house and acid artist based in United Kingdom, with 12 gigs on sound
 
 Killamanjaro, imad:re, April (UK)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tworam/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tworam/)*

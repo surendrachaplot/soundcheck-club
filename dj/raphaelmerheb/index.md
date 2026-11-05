@@ -1,18 +1,18 @@
 # Raphael Merheb
 
-Raphael Merheb is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Concrete 1994, Lebanon on Wed, 4 Nov 2026.
+Raphael Merheb is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Raphael Merheb is a house and minimal artist, with 8 gigs on soundcheck across Athens, Berlin, Budapest and Dubai and 2 more. Often billed alongside 3LIAS, Baban and Cez. Next up: Concrete 1994, Lebanon on Wed 4 Nov.
+Raphael Merheb is a house and minimal artist based in Lebanon, with 8 gigs on soundcheck across Athens, Berlin, Budapest and Dubai and 2 more. Often billed alongside 3LIAS, Baban and Cez. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Concrete 1994 | Lebanon |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played
 
+- Concrete 1994, Lebanon · Wed, 4 Nov 2026
 - Club der Visionaere, Berlin · Sun, 6 Jul 2025
 - Honeycomb Hi-Fi, Dubai · Fri, 18 Apr 2025
 - Club der Visionaere, Berlin · Sun, 7 Jul 2024
@@ -24,4 +24,4 @@ Raphael Merheb is a house and minimal artist, with 8 gigs on soundcheck across A
 
 3LIAS, Baban, Cez (1)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelmerheb/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelmerheb/)*

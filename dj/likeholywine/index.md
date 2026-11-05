@@ -1,8 +1,8 @@
 # likeholywine
 
-likeholywine is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
+likeholywine is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Underground SF, San Francisco/Oakland on Thu, 12 Nov 2026.
 
-likeholywine is a techno and club artist based in United States of America, with 76 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and Adam Kraft. Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
+likeholywine is a techno and club artist based in United States of America, with 77 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside nonsuit, Beverly Chills and Adam Kraft. Next up: Underground SF, San Francisco/Oakland on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ likeholywine is a techno and club artist based in United States of America, with
 | Thu, 12 Nov 2026 | Underground SF | San Francisco/Oakland |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | The Great Northern | San Francisco/Oakland |
+| Fri, 4 Dec 2026 | TBA - San Francisco | San Francisco/Oakland |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ likeholywine is a techno and club artist based in United States of America, with
 
 nonsuit, Beverly Chills, Adam Kraft
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/likeholywine/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/likeholywine/)*

@@ -1,6 +1,6 @@
 # COIDO
 
-COIDO is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Lucia, Vienna on Sat, 28 Nov 2026.
+COIDO is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Lucia, Vienna on Sat, 28 Nov 2026.
 
 COIDO is a bass and dubstep artist based in Italy, with 23 gigs on soundcheck across Berlin, Florence, Heidelberg and Ljubljana and 8 more. Often billed alongside Delta Division, Dub Isotope and Ivy Lab. Next up: Club Lucia, Vienna on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ COIDO is a bass and dubstep artist based in Italy, with 23 gigs on soundcheck ac
 
 Delta Division, Dub Isotope, Ivy Lab
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coido/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coido/)*

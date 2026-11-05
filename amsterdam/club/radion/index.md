@@ -1,6 +1,6 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CLUB NIGHT" on Fri, 6 Nov 2026.
+RADION is a music venue in Amsterdam with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "CLUB NIGHT" on Fri, 6 Nov 2026.
 
 RADION is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, with line-ups including Adriana Lopez, Amotik, Beau Didier and BENZA and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
@@ -23,4 +23,4 @@ RADION is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, wit
 
 Louwesweg 1 ,1066 EA Amsterdam, Amsterdam
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radion/)*

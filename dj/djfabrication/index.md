@@ -1,6 +1,6 @@
 # DJ FABRICATION
 
-DJ FABRICATION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+DJ FABRICATION is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
 DJ FABRICATION is a techno and electro artist based in United Kingdom, with 24 gigs on soundcheck across Liverpool, Manchester and Tbilisi. Often billed alongside Emmett G, djcd and Cersy. Next up: renae, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ FABRICATION is a techno and electro artist based in United Kingdom, with 24 g
 
 Emmett G, djcd, Cersy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfabrication/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfabrication/)*

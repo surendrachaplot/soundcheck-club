@@ -1,6 +1,6 @@
 # Yess
 
-Yess is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Circus Osaka, Osaka on Sat, 14 Nov 2026.
+Yess is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Circus Osaka, Osaka on Sat, 14 Nov 2026.
 
 Yess is a bass and techno artist based in Japan, with 9 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside SAKO, IYO and MOOTOE. Next up: Circus Osaka, Osaka on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yess is a bass and techno artist based in Japan, with 9 gigs on soundcheck acros
 
 SAKO, IYO (1), MOOTOE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*

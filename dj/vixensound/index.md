@@ -1,14 +1,15 @@
 # Vixen Sound
 
-Vixen Sound is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
+Vixen Sound is a Dub and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Zoo, Geneva on Fri, 13 Nov 2026.
 
-Vixen Sound is a dub and dancehall artist based in United Kingdom, with 19 gigs on soundcheck across Bristol, Brussels, Edinburgh and Geneva and 9 more. Often billed alongside Iration Steppas, Aba Shanti-I and Channel One Sound. Next up: Zoo, Geneva on Fri 13 Nov.
+Vixen Sound is a dub and dancehall artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Brussels, Edinburgh and Geneva and 9 more. Often billed alongside Iration Steppas, A For Alpha and ALISHA. Next up: Zoo, Geneva on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Zoo | Geneva |
+| Sat, 29 May 2027 | Ashton Court Estate | Bristol |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Vixen Sound is a dub and dancehall artist based in United Kingdom, with 19 gigs 
 
 ## Shares bills with
 
-Iration Steppas, Aba Shanti-I, Channel One Sound
+Iration Steppas, A For Alpha, ALISHA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vixensound/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vixensound/)*

@@ -1,6 +1,6 @@
 # keanu (3)
 
-keanu (3) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Flinders, Sydney on Sat, 14 Nov 2026.
+keanu (3) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Flinders, Sydney on Sat, 14 Nov 2026.
 
 keanu is a techno and industrial artist based in Germany, with 13 gigs on soundcheck across Berlin, Montreal and Sydney. Often billed alongside ORKA, sischex and AWSM. Next up: The Flinders, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ keanu is a techno and industrial artist based in Germany, with 13 gigs on soundc
 
 ORKA, sischex, AWSM
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keanu-3/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keanu-3/)*

@@ -1,6 +1,6 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 24 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "MATISSE & SADKO, YVES V, VION KONGER + MORE" on Fri, 6 Nov 2026.
+Ministry Of Sound is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "MATISSE & SADKO, YVES V, VION KONGER + MORE" on Fri, 6 Nov 2026.
 
 Ministry Of Sound is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including AARON SEVILLA, Afrobeat, Amber Rose and Amy Cutter and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
@@ -23,4 +23,4 @@ Ministry Of Sound is a music venue in London listed on soundcheck. 24 upcoming g
 
 103 Gaunt St, London SE1 6DP, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ministry-of-sound/)*

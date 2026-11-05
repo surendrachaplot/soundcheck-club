@@ -1,6 +1,6 @@
 # iluna
 
-iluna is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Nice N Sleazy, Glasgow on Fri, 4 Dec 2026.
+iluna is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Nice N Sleazy, Glasgow on Fri, 4 Dec 2026.
 
 iluna is a techno and electro artist based in United Kingdom, with 25 gigs on soundcheck across Edinburgh, Glasgow and Mexico City. Often billed alongside ona:v, Boom Merchant and Kairogen. Next up: Nice N Sleazy, Glasgow on Fri 4 Dec.
 
@@ -27,4 +27,4 @@ iluna is a techno and electro artist based in United Kingdom, with 25 gigs on so
 
 ona:v, Boom Merchant, Kairogen
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iluna/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iluna/)*

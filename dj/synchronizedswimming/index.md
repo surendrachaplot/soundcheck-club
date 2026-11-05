@@ -1,6 +1,6 @@
 # Synchronized Swimming
 
-Synchronized Swimming is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The California Clipper, Chicago on Sat, 21 Nov 2026.
+Synchronized Swimming is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The California Clipper, Chicago on Sat, 21 Nov 2026.
 
 Synchronized Swimming is a house and deep house artist based in United States of America, with 8 gigs on soundcheck across Chicago. Often billed alongside Quicktastic, Emmaculate and Mike Nervous. Next up: The California Clipper, Chicago on Sat 21 Nov.
 
@@ -24,4 +24,4 @@ Synchronized Swimming is a house and deep house artist based in United States of
 
 Quicktastic, Emmaculate, Mike Nervous
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synchronizedswimming/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/synchronizedswimming/)*

@@ -1,6 +1,6 @@
 # The Crystal Method
 
-The Crystal Method is a Breakbeat and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Music Box, San Diego on Fri, 6 Nov 2026.
+The Crystal Method is a Breakbeat and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Music Box, San Diego on Fri, 6 Nov 2026.
 
 The Crystal Method is a breakbeat and electronica artist based in United States of America, with 20 gigs on soundcheck across Atlanta, Austin, Cleveland and Denver and 12 more. Often billed alongside Paul Oakenfold, Liquid Todd and Orbital. Next up: Music Box, San Diego on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ The Crystal Method is a breakbeat and electronica artist based in United States 
 
 Paul Oakenfold, Liquid Todd, Orbital
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thecrystalmethod/)*

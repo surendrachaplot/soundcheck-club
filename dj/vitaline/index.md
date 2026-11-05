@@ -1,6 +1,6 @@
 # Vitaline
 
-Vitaline is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri, 6 Nov 2026.
+Vitaline is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri, 6 Nov 2026.
 
 Vitaline is a techno and house artist based in France, with 93 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Brussels and 14 more. Often billed alongside Break A Leg, Bassi-fr and Dj Schnake. Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Vitaline is a techno and house artist based in France, with 93 gigs on soundchec
 
 Break A Leg, Bassi-fr, Dj Schnake
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaline/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitaline/)*

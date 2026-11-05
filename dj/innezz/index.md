@@ -1,6 +1,6 @@
 # INNEZZ
 
-INNEZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Lido, Vancouver on Thu, 5 Nov 2026.
+INNEZZ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Lido, Vancouver on Thu, 5 Nov 2026.
 
 INNEZZ is a techno and house artist based in Canada, with 51 gigs on soundcheck across Calgary, New York City and Vancouver. Often billed alongside DJ Hannah, DJ dood and Lerma. Next up: The Lido, Vancouver on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ INNEZZ is a techno and house artist based in Canada, with 51 gigs on soundcheck 
 
 DJ Hannah, DJ dood, Lerma
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innezz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innezz/)*

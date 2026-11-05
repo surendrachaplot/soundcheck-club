@@ -1,17 +1,19 @@
 # Seo Youngcha
 
-Seo Youngcha is a Minimal and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Atdge Seoul, Seoul on Wed, 4 Nov 2026.
+Seo Youngcha is a Minimal and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 14 Nov 2026.
 
-Seo Youngcha is a minimal and techno artist based in South Korea, with 45 gigs on soundcheck across Seoul and South Korea. Often billed alongside Haemi Park, Deekay and KYVU. Next up: Atdge Seoul, Seoul on Wed 4 Nov.
+Seo Youngcha is a minimal and techno artist based in South Korea, with 47 gigs on soundcheck across Seoul and South Korea. Often billed alongside Haemi Park, Deekay and KYVU. Next up: Atdge Seoul, Seoul on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Atdge Seoul | Seoul |
+| Sat, 14 Nov 2026 | Atdge Seoul | Seoul |
+| Wed, 25 Nov 2026 | Atdge Seoul | Seoul |
 
 ## Recently played
 
+- Atdge Seoul, Seoul · Wed, 4 Nov 2026
 - Atdge Seoul, Seoul · Fri, 23 Oct 2026
 - Graphic Hangang, Seoul · Fri, 16 Oct 2026
 - Nué Seoul, Seoul · Fri, 9 Oct 2026
@@ -19,10 +21,9 @@ Seo Youngcha is a minimal and techno artist based in South Korea, with 45 gigs o
 - TBA - 강원도 화천, South-korea · Sun, 4 Oct 2026
 - Graphic Hangang, Seoul · Fri, 2 Oct 2026
 - Volnost, Seoul · Thu, 17 Sept 2026
-- Atdge Seoul, Seoul · Wed, 26 Aug 2026
 
 ## Shares bills with
 
 Haemi Park, Deekay, KYVU
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seoyoungcha/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seoyoungcha/)*

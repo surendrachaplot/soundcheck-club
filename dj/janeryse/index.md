@@ -1,14 +1,15 @@
 # JANE RYSE
 
-JANE RYSE is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Paradise Now, Düsseldorf on Fri, 20 Nov 2026.
+JANE RYSE is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Paradise Now, Düsseldorf on Fri, 20 Nov 2026.
 
-JANE RYSE is a house and afro house artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belgrade and 12 more. Often billed alongside Hyenah, Walter Griot and Ukãi Ndame. Next up: The Paradise Now, Düsseldorf on Fri 20 Nov.
+JANE RYSE is a house and afro house artist based in Germany, with 55 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belgrade and 12 more. Often billed alongside Hyenah, Walter Griot and Ukãi Ndame. Next up: The Paradise Now, Düsseldorf on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | The Paradise Now | Düsseldorf |
+| Fri, 27 Nov 2026 | KOKO | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JANE RYSE is a house and afro house artist based in Germany, with 54 gigs on sou
 
 Hyenah, Walter Griot, Ukãi Ndame
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janeryse/)*

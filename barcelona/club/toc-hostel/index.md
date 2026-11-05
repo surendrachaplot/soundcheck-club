@@ -1,14 +1,13 @@
 # TOC Hostel
 
-TOC Hostel is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry" on Wed, 4 Nov 2026.
+TOC Hostel is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ATYPICAL: Afterwork + Open Mixer + Other Side Boiler with Leandro B2B Moonatik, Vanta" on Fri, 6 Nov 2026.
 
-TOC Hostel is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Leandro Montivero and MøønkiZa. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 580, 08011 Barcelona.
+TOC Hostel is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Leandro Montivero and MøønkiZa. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 580, 08011 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry |  |
 | Fri, 6 Nov 2026 | ATYPICAL: Afterwork + Open Mixer + Other Side Boiler with Leandro B2B Moonatik, Vanta | Leandro Montivero |
 | Wed, 11 Nov 2026 | Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry |  |
 | Fri, 13 Nov 2026 | ATYPICAL: Afterwork + Open Mixer + Art Expo + Good Vibes |  |
@@ -18,9 +17,10 @@ TOC Hostel is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs,
 | Fri, 27 Nov 2026 | ATYPICAL: Afterwork + Open Mixer + Other Side Boiler with Hoko, Gontri & Jonathan Gr |  |
 | Fri, 4 Dec 2026 | ATYPICAL: Afterwork + Open Mixer + Art Expo + Good Vibes |  |
 | Fri, 11 Dec 2026 | ATYPICAL: Afterwork + Open Mixer + Art Expo + Good Vibes |  |
+| Fri, 18 Dec 2026 | ATYPICAL: Afterwork + Open Mixer + Art Expo + Good Vibes |  |
 
 ## Address
 
 Gran Via de les Corts Catalanes, 580, 08011 Barcelona, Barcelona
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*

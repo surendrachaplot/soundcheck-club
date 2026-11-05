@@ -1,6 +1,6 @@
 # KANA
 
-KANA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at BABY01, Berlin on Sat, 28 Nov 2026.
+KANA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at BABY01, Berlin on Sat, 28 Nov 2026.
 
 KANA is a house and deep house artist based in Germany, with 14 gigs on soundcheck across Berlin and San Francisco/Oakland. Often billed alongside Moehecan, Lea Czychy and Javier Anxiety. Next up: BABY01, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KANA is a house and deep house artist based in Germany, with 14 gigs on soundche
 
 Moehecan, Lea Czychy, Javier Anxiety
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kana/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kana/)*

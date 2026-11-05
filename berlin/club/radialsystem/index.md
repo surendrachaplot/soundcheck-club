@@ -1,6 +1,6 @@
 # Radialsystem
 
-Radialsystem is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "CTM 2027: The Time Between Us" on Wed, 27 Jan 2027.
+Radialsystem is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "CTM 2027: The Time Between Us" on Wed, 27 Jan 2027.
 
 Radialsystem is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Holzmarktstraße 33, 10243 Berlin.
 
@@ -14,4 +14,4 @@ Radialsystem is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Se
 
 Holzmarktstraße 33, 10243 Berlin, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/radialsystem/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/radialsystem/)*

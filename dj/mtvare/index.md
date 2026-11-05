@@ -1,6 +1,6 @@
 # Mtvare
 
-Mtvare is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Left Bank, Tbilisi on Fri, 6 Nov 2026.
+Mtvare is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Left Bank, Tbilisi on Fri, 6 Nov 2026.
 
 Mtvare is a trance and techno artist based in Georgia, with 84 gigs on soundcheck across Berlin, Budapest, Lisbon and Madrid and 1 more. Often billed alongside Trotsky, Gio Shengelia and Sevda. Next up: Left Bank, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mtvare is a trance and techno artist based in Georgia, with 84 gigs on soundchec
 
 Trotsky, Gio Shengelia, Sevda
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mtvare/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mtvare/)*

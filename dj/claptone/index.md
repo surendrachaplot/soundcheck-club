@@ -1,6 +1,6 @@
 # Claptone
 
-Claptone is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Claptone is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Claptone is a house and tech house artist based in Germany, with 261 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 74 more. Often billed alongside DIEGO SAN DIEGO, Hannah Wants and Solardo. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Claptone is a house and tech house artist based in Germany, with 261 gigs on sou
 
 DIEGO SAN DIEGO, Hannah Wants, Solardo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claptone/)*

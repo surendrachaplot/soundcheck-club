@@ -1,6 +1,6 @@
 # @djlobottomy
 
-@djlobottomy is a Latin Bass and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Delirium San Francisco, San Francisco/Oakland on Fri, 6 Nov 2026.
+@djlobottomy is a Latin Bass and Neo Perreo artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Delirium San Francisco, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 @djlobottomy is a latin bass and neo perreo artist based in United States of America, with 29 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Martyr Princess, xtcemi and Maznoize. Next up: Delirium San Francisco, San Francisco/Oakland on Fri 6 Nov.
 
@@ -26,4 +26,4 @@
 
 Martyr Princess, xtcemi, Maznoize
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlobottomy/)*

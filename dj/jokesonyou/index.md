@@ -1,8 +1,8 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 6 Nov 2026.
+JOKESONYOU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Comfort Zone, Toronto on Fri, 6 Nov 2026.
 
-JOKESONYOU is a techno and trance artist based in Australia, with 77 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside 3LEEZA, Mika Heggemann and TheMuffinMan. Next up: The Comfort Zone, Toronto on Fri 6 Nov.
+JOKESONYOU is a techno and trance artist based in Australia, with 77 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside 3LEEZA, Mika Heggemann and The Muffin Man. Next up: The Comfort Zone, Toronto on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ JOKESONYOU is a techno and trance artist based in Australia, with 77 gigs on sou
 
 ## Shares bills with
 
-3LEEZA, Mika Heggemann, TheMuffinMan
+3LEEZA, Mika Heggemann, The Muffin Man
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

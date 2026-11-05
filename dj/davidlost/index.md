@@ -1,6 +1,6 @@
 # DAVID LOST
 
-DAVID LOST is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Switch Bar, Barcelona on Thu, 5 Nov 2026.
+DAVID LOST is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Switch Bar, Barcelona on Thu, 5 Nov 2026.
 
 DAVID LOST is a techno and electronica artist, with 47 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Arildo, Deckard and Spacer. Next up: Switch Bar, Barcelona on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ DAVID LOST is a techno and electronica artist, with 47 gigs on soundcheck across
 
 Arildo, Deckard, Spacer
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlost/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlost/)*

@@ -1,14 +1,13 @@
 # Era uma vez no Porto
 
-Era uma vez no Porto is a music venue in Porto with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Pedro Tabuada • Dj Vibe Tribute" on Wed, 4 Nov 2026.
+Era uma vez no Porto is a music venue in Porto with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "DOMINGO 08 NOV - ZDM / ZOE / BONUS BASS" on Sun, 8 Nov 2026.
 
-Era uma vez no Porto is a music venue in Porto listed on soundcheck. 8 upcoming gigs, with line-ups including Bikas, Carlos Regadas, Nuno Clam and Pedro Tabuada and 2 more. See dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
+Era uma vez no Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with line-ups including Bikas, Carlos Regadas, Nuno Clam and Pedro Tabuada and 2 more. See dates, start times and who's playing. Rua da Madeira, nº 126, 4000-330 Porto, Portugal.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Pedro Tabuada • Dj Vibe Tribute | Pedro Tabuada |
 | Sun, 8 Nov 2026 | DOMINGO 08 NOV - ZDM / ZOE / BONUS BASS | Zoe (3) |
 | Wed, 11 Nov 2026 | Carlos Regadas Invites Offu | Carlos Regadas |
 | Sun, 15 Nov 2026 | T-CROSS B2B K-CROIX / PROJECT-2TK |  |
@@ -21,4 +20,4 @@ Era uma vez no Porto is a music venue in Porto listed on soundcheck. 8 upcoming 
 
 Rua da Madeira, nº 126, 4000-330 Porto, Portugal, Porto
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/porto/club/era-uma-vez-no-porto/)*

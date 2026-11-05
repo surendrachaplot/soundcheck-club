@@ -16,6 +16,6 @@ Soupherb vs psYsq at Ritter Butzke on Fri 27 Nov, Berlin. 7 artists: Anaïs-Lin,
 - Folic State
 - Krumelur
 - Surreal (DE)
-- TheMuffinMan
+- The Muffin Man
 
 *Source: [soundcheck](https://soundcheck.club/e/2559250-soupherb-vs-psysq-at-ritter-butzke/)*

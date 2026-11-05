@@ -1,14 +1,15 @@
 # Selassie TBC
 
-Selassie TBC is a House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
+Selassie TBC is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat, 21 Nov 2026.
 
-Selassie TBC is a house and club artist based in United Kingdom, with 33 gigs on soundcheck across Berlin, Bristol, London and Malaga. Often billed alongside Mr. Redley, blissy e and dOnüt. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
+Selassie TBC is a house and club artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Bristol, London and Malaga. Often billed alongside Mr. Redley, blissy e and dOnüt. Next up: TBA - Secret Location (U+S Jannowitzbrücke), Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Secret Location (U+S Jannowitzbrücke) | Berlin |
+| Fri, 27 Nov 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Selassie TBC is a house and club artist based in United Kingdom, with 33 gigs on
 
 Mr. Redley, blissy e, dOnüt
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/selassietbc/)*

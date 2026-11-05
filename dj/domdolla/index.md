@@ -1,8 +1,8 @@
 # Dom Dolla
 
-Dom Dolla is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Pasir Panjang Power Station, Singapore on Fri, 27 Nov 2026.
+Dom Dolla is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Pasir Panjang Power Station, Singapore on Fri, 27 Nov 2026.
 
-Dom Dolla is a house and tech house artist based in Australia, with 119 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 34 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Pasir Panjang Power Station, Singapore on Fri 27 Nov.
+Dom Dolla is a house and tech house artist based in Australia, with 120 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 34 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Pasir Panjang Power Station, Singapore on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dom Dolla is a house and tech house artist based in Australia, with 119 gigs on 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Pasir Panjang Power Station | Singapore |
 | Fri, 18 Dec 2026 | TBA - Rhythm Park | Thailand |
+| Thu, 31 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Dom Dolla is a house and tech house artist based in Australia, with 119 gigs on 
 
 Patrick Topping, Ewan McVicar, Charlotte de Witte
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domdolla/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/domdolla/)*

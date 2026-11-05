@@ -1,6 +1,6 @@
 # TYMEGG
 
-TYMEGG is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 6 Nov 2026.
+TYMEGG is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 6 Nov 2026.
 
 TYMEGG is a techno and bass artist based in Poland, with 18 gigs on soundcheck across Warsaw. Often billed alongside DJNIEMUSIAŁ, bolo and Abrew. Next up: K-Bar Powiśle, Warsaw on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ TYMEGG is a techno and bass artist based in Poland, with 18 gigs on soundcheck a
 
 DJNIEMUSIAŁ, bolo, Abrew
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tymegg/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tymegg/)*

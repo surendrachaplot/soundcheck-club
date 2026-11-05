@@ -1,14 +1,15 @@
 # Baroque Hoe
 
-Baroque Hoe is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Green Room NYC, New York City on Fri, 6 Nov 2026.
+Baroque Hoe is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Green Room NYC, New York City on Fri, 6 Nov 2026.
 
-Baroque Hoe is a techno and acid artist based in United States of America, with 29 gigs on soundcheck across Berlin and New York City. Often billed alongside 320, Brutal Twink and Actual Angel. Next up: Green Room NYC, New York City on Fri 6 Nov.
+Baroque Hoe is a techno and acid artist based in United States of America, with 30 gigs on soundcheck across Berlin and New York City. Often billed alongside 320, Brutal Twink and Actual Angel. Next up: Green Room NYC, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Green Room NYC | New York City |
+| Fri, 13 Nov 2026 | BASEMENT | New York City |
 | Fri, 13 Nov 2026 | ErF Studios | New York City |
 
 ## Recently played
@@ -26,4 +27,4 @@ Baroque Hoe is a techno and acid artist based in United States of America, with 
 
 320 (1), Brutal Twink, Actual Angel
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baroquehoe/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baroquehoe/)*

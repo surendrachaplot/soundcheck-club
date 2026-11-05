@@ -1,14 +1,15 @@
 # Justin Strauss
 
-Justin Strauss is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Gabriela, New York City on Sat, 21 Nov 2026.
+Justin Strauss is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Gabriela, New York City on Sat, 21 Nov 2026.
 
-Justin Strauss is a house and electro artist based in United States of America, with 190 gigs on soundcheck across Belfast, Berlin, Bogotá and Boston and 16 more. Often billed alongside Andi, Max Pask and Amelia Holt. Next up: Gabriela, New York City on Sat 21 Nov.
+Justin Strauss is a house and electro artist based in United States of America, with 191 gigs on soundcheck across Belfast, Berlin, Bogotá and Boston and 16 more. Often billed alongside Andi, Eli Escobar and Max Pask. Next up: Gabriela, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Gabriela | New York City |
+| Thu, 31 Dec 2026 | Good Room | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Justin Strauss is a house and electro artist based in United States of America, 
 
 ## Shares bills with
 
-Andi, Max Pask, Amelia Holt
+Andi, Eli Escobar, Max Pask
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justinstrauss/)*

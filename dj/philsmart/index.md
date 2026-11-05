@@ -1,6 +1,6 @@
 # Phil Smart
 
-Phil Smart is a House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
+Phil Smart is a House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
 
 Phil Smart is a house and downtempo artist based in Australia, with 101 gigs on soundcheck across Brisbane, Byron Bay, Dubai and Melbourne and 1 more. Often billed alongside Francis Xavier, Aidan Beiers and Squidgenini. Next up: Haven, Byron Bay on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Phil Smart is a house and downtempo artist based in Australia, with 101 gigs on 
 
 Francis Xavier, Aidan Beiers, Squidgenini
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philsmart/)*

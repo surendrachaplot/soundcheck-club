@@ -1,6 +1,6 @@
 # 1111
 
-1111 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Pioneer Club, South-east on Sat, 19 Dec 2026.
+1111 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Pioneer Club, South-east on Sat, 19 Dec 2026.
 
 1111 is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Bristol, London and South East. Often billed alongside Ben Malone, Drinks On Me and Stereoclip. Next up: The Pioneer Club, South East on Sat 19 Dec.
 
@@ -25,4 +25,4 @@
 
 Ben Malone, Drinks On Me, Stereoclip
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1111/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1111/)*

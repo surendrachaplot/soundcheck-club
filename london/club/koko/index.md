@@ -1,8 +1,8 @@
 # KOKO
 
-KOKO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Camden Disco Festival: Mafalda, Daisybelle, Tiffany Quinn, Lilli Kelly" on Fri, 6 Nov 2026.
+KOKO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Camden Disco Festival: Mafalda, Daisybelle, Tiffany Quinn, Lilli Kelly" on Fri, 6 Nov 2026.
 
-KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including AMOUNKA, Andrea Oliva, Argia and Arnie Wrong and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
+KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Andrea Oliva and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
 ## What's on
 
@@ -16,11 +16,11 @@ KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with lin
 | Fri, 20 Nov 2026 | KOKO Electronic: Francis Mercier, Weekender (Nov 20,21,22) | Francis Mercier |
 | Sat, 21 Nov 2026 | KOKO Electronic: Francis Mercier, Saturday 21st Nov (Pt.2) | Francis Mercier, Makèz, Storm Mollison |
 | Sun, 22 Nov 2026 | KOKO Electronic: Francis Mercier, Sunday 22nd Nov (Pt.3, Daytime) | Bontan, Francis Mercier, Mayssa |
-| Fri, 27 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) | WhoMadeWho |
+| Fri, 27 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) | Agathe Mougin, Alex Wann, Inès Rau, JANE RYSE, Mike Gannu, WhoMadeWho |
 | Fri, 27 Nov 2026 | KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) / (Sat 28th, Hybrid DJ Set) | WhoMadeWho |
 
 ## Address
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

@@ -1,6 +1,6 @@
 # Minji
 
-Minji is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Minji is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Minji is a house and tech house artist based in South Korea, with 71 gigs on soundcheck across Seoul and South Korea. Often billed alongside Better, Conan and Grace Kim. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Minji is a house and tech house artist based in South Korea, with 71 gigs on sou
 
 Better, Conan, Grace Kim
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minji/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minji/)*

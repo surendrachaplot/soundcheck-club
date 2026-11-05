@@ -1,8 +1,8 @@
 # Oxford Art Factory
 
-Oxford Art Factory is a music venue in Sydney with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Ocean Wisdom" on Fri, 6 Nov 2026.
+Oxford Art Factory is a music venue in Sydney with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Ocean Wisdom" on Fri, 6 Nov 2026.
 
-Oxford Art Factory is a music venue in Sydney listed on soundcheck. 11 upcoming gigs, with line-ups including 4am Kru, Animistic Beliefs, Bambii and C.FRIM and 2 more. See dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
+Oxford Art Factory is a music venue in Sydney listed on soundcheck. 12 upcoming gigs, with line-ups including 4am Kru, Animistic Beliefs, Bambii and C.FRIM and 2 more. See dates, start times and who's playing. 38-46 Oxford St; Darlinghurst NSW 2010.
 
 ## What's on
 
@@ -13,14 +13,14 @@ Oxford Art Factory is a music venue in Sydney listed on soundcheck. 11 upcoming 
 | Fri, 20 Nov 2026 | Marcel Dettmann & Gerd Janson [GER] | Gerd Janson, Marcel Dettmann |
 | Sun, 22 Nov 2026 | Ultra Naté - AUSTRALIA Tour 2026 | Ultra Naté |
 | Fri, 27 Nov 2026 | CELESTIA天体: Venesiaworld (SYD) | CLAIR (BAI) |
+| Fri, 27 Nov 2026 | Litework Vol. 3 | IXNAEY |
 | Fri, 4 Dec 2026 | CLUBHAUS x The Door List: The Factory Party | Animistic Beliefs, C.FRIM, Cristal No.5, Haus of Ralph, MIRASIA, Rakish, Sriracha Czaddy |
 | Sat, 5 Dec 2026 | LF SYSTEM - SYDNEY | LF SYSTEM |
 | Fri, 11 Dec 2026 | Rukus Presents: Laura King | Bambii, Clifford, Laura King, Miss Sunshine |
 | Sat, 12 Dec 2026 | Basshaven presents, Cotto, All night long |  |
-| Fri, 8 Jan 2027 | Run The Numbers presents 4am Kru | 4am Kru, Fashionably Late, Ninyo (AU), swisherman |
 
 ## Address
 
 38-46 Oxford St; Darlinghurst NSW 2010, Sydney
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/oxford-art-factory/)*

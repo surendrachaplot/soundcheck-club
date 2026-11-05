@@ -1,6 +1,6 @@
 # Knock
 
-Knock is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SOUND WAVES" on Thu, 5 Nov 2026.
+Knock is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SOUND WAVES" on Thu, 5 Nov 2026.
 
 Knock is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including AKARI, NUTMEG, SURCO and Tada and 1 more. See dates, start times and who's playing. 3-48-6 Koenjiminami, Suginami, Tokyo 166-0003, Japan.
 
@@ -16,4 +16,4 @@ Knock is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line
 
 3-48-6 Koenjiminami, Suginami, Tokyo 166-0003, Japan, Tokyo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/knock/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/knock/)*

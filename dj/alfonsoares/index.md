@@ -1,6 +1,6 @@
 # Alfonso Ares
 
-Alfonso Ares is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Dybbuk, Athens on Fri, 6 Nov 2026.
+Alfonso Ares is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Dybbuk, Athens on Fri, 6 Nov 2026.
 
 Alfonso Ares is a house and deep house artist based in Spain, with 24 gigs on soundcheck across Athens, Berlin, Ibiza and Madrid and 1 more. Often billed alongside Igor Marijuan, Yamil and AARON SEVILLA. Next up: Dybbuk, Athens on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Alfonso Ares is a house and deep house artist based in Spain, with 24 gigs on so
 
 Igor Marijuan, Yamil, AARON SEVILLA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsoares/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alfonsoares/)*

@@ -1,6 +1,6 @@
 # netgf
 
-netgf is a Trance and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Stereo, Glasgow on Fri, 11 Dec 2026.
+netgf is a Trance and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Stereo, Glasgow on Fri, 11 Dec 2026.
 
 netgf is a trance and dubstep artist, with 13 gigs on soundcheck across Glasgow. Often billed alongside zolf, leahgte and Hometown Sound. Next up: Stereo, Glasgow on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ netgf is a trance and dubstep artist, with 13 gigs on soundcheck across Glasgow.
 
 zolf, leahgte, Hometown Sound
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/netgf/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/netgf/)*

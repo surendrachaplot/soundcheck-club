@@ -1,6 +1,6 @@
 # Hyperprism
 
-Hyperprism is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Angel Music Bar, Melbourne on Thu, 5 Nov 2026.
+Hyperprism is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Angel Music Bar, Melbourne on Thu, 5 Nov 2026.
 
 Hyperprism is a techno and deep house artist based in Australia, with 8 gigs on soundcheck across Melbourne. Often billed alongside Idealist, Willis Anne and 2 Factor Authentication. Next up: Angel Music Bar, Melbourne on Thu 5 Nov.
 
@@ -24,4 +24,4 @@ Hyperprism is a techno and deep house artist based in Australia, with 8 gigs on 
 
 Idealist, Willis Anne, 2 Factor Authentication
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperprism/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyperprism/)*

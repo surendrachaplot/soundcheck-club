@@ -1,8 +1,8 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Binh All Night" on Fri, 6 Nov 2026.
+Nowadays is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Binh All Night" on Fri, 6 Nov 2026.
 
-Nowadays is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including AceMo, adobeprincess, Ali Coleman and Arushi Jain and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including AceMo, adobeprincess, Ali Coleman and Alima Lee and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
@@ -10,7 +10,7 @@ Nowadays is a music venue in New York City listed on soundcheck. 15 upcoming gig
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Binh All Night | Binh |
 | Sat, 7 Nov 2026 | TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick León + more | BADSISTA, Brenda., Colombian Drone Mafia, Doctor Jeep, EMA (1), Gabrielle Kwarteng, Ma Sha, Nick León, PLO Man, Pariah, Verraco |
-| Thu, 12 Nov 2026 | Mess Is Lore: Arushi Jain, Carpet (F.L.H.P), Crimeboys, Cry, MARBLE RYE, Motion Graphics, rrao | Arushi Jain, Ben Bondy, Carpet (F.L.H.P), Kilbourne, MARBLE RYE, Motion Graphics, Relaxer, Special Guest DJ, rrao |
+| Thu, 12 Nov 2026 | Mess Is Lore: Carpet (F.L.H.P), Crimeboys, Cry, leelee, MARBLE RYE, Motion Graphics | Alima Lee, Ben Bondy, Carpet (F.L.H.P), Kilbourne, MARBLE RYE, Motion Graphics, Relaxer, Special Guest DJ |
 | Fri, 13 Nov 2026 | Label Night: Tempa: Carré, Eva Loveless, Introspekt, re:ni | Carré, Eva Loveless, Introspekt, re:ni |
 | Sat, 14 Nov 2026 | The Bunker presents: No Way Back Nonstop | BMG, Bryan Kasenic, Carlos Souffront, Derek Plaslaiko, Erika, Mike Servito, Patrick Russell, Scott Zacharias |
 | Thu, 19 Nov 2026 | OST & Conditioner: African American Sound Recordings, chinapoet, Loidis, more eaze, Purelink | Loidis, Purelink, more eaze |
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 15 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

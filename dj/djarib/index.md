@@ -1,14 +1,15 @@
 # DJ Ari B
 
-DJ Ari B is a Club and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Underground SF, San Francisco/Oakland on Sat, 7 Nov 2026.
+DJ Ari B is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Underground SF, San Francisco/Oakland on Sat, 7 Nov 2026.
 
-DJ Ari B is a club and house artist based in United States of America, with 30 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Discnogirl, 40split and DJ Buck. Next up: Underground SF, San Francisco/Oakland on Sat 7 Nov.
+DJ Ari B is a club and house artist based in United States of America, with 31 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Discnogirl, 40split and DJ Buck. Next up: Underground SF, San Francisco/Oakland on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Underground SF | San Francisco/Oakland |
+| Sat, 21 Nov 2026 | Crybaby | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Ari B is a club and house artist based in United States of America, with 30 g
 
 Discnogirl, 40split, DJ Buck
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djarib/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djarib/)*

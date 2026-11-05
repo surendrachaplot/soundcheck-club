@@ -1,6 +1,6 @@
 # SIMES
 
-SIMES is a House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Gewölbe, Cologne on Fri, 13 Nov 2026.
+SIMES is a House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Gewölbe, Cologne on Fri, 13 Nov 2026.
 
 SIMES is a house artist based in Germany, with 8 gigs on soundcheck across Austria, Cologne and London. Often billed alongside Nic Lorenz, Fero Duman and Chris Di Perri. Next up: Gewölbe, Cologne on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ SIMES is a house artist based in Germany, with 8 gigs on soundcheck across Austr
 
 Nic Lorenz, Fero Duman, Chris Di Perri
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simes-de/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simes-de/)*

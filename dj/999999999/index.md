@@ -1,6 +1,6 @@
 # 999999999
 
-999999999 is a Techno and Acid artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Jasna 1, Warsaw on Fri, 6 Nov 2026.
+999999999 is a Techno and Acid artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Jasna 1, Warsaw on Fri, 6 Nov 2026.
 
 999999999 is a techno and acid artist based in Italy, with 326 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 94 more. Often billed alongside I Hate Models, Charlie Sparks and Clara Cuvé. Next up: Jasna 1, Warsaw on Fri 6 Nov.
 
@@ -32,4 +32,4 @@
 
 I Hate Models, Charlie Sparks, Clara Cuvé
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/999999999/)*

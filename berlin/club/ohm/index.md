@@ -1,8 +1,8 @@
 # OHM
 
-OHM is a music venue in Berlin with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Neighbourhood - Tim Reaper & friends" on Thu, 5 Nov 2026.
+OHM is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Neighbourhood - Tim Reaper & friends" on Thu, 5 Nov 2026.
 
-OHM is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line-ups including AliA, Appleblim, Ario and Ayū and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
+OHM is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including AliA, Andrew James Gustav, Appleblim and Ario and 2 more. See dates, start times and who's playing. Köpenicker Str. 70, 10179 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ OHM is a music venue in Berlin listed on soundcheck. 17 upcoming gigs, with line
 
 Köpenicker Str. 70, 10179 Berlin, Germany, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ohm/)*

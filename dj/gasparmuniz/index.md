@@ -1,6 +1,6 @@
 # Gaspar Muniz
 
-Gaspar Muniz is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Frisson, Rio de Janeiro on Fri, 6 Nov 2026.
+Gaspar Muniz is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Frisson, Rio de Janeiro on Fri, 6 Nov 2026.
 
 Gaspar Muniz is a house and disco artist, with 57 gigs on soundcheck across Barcelona, Buenos Aires, Lisbon and London and 6 more. Often billed alongside Paulete Lindacelva, From House to Disco and Kenia. Next up: Frisson, Rio de Janeiro on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Gaspar Muniz is a house and disco artist, with 57 gigs on soundcheck across Barc
 
 Paulete Lindacelva, From House to Disco, Kenia
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparmuniz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gasparmuniz/)*

@@ -1,6 +1,6 @@
 # Apophis Club
 
-Apophis Club is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "FOMO MILAN || Vol. IV" on Sat, 7 Nov 2026.
+Apophis Club is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "FOMO MILAN || Vol. IV" on Sat, 7 Nov 2026.
 
 Apophis Club is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Eternal Love, Memoryman aka Uovo, Naydiaa and Reboot. See dates, start times and who's playing. Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy.
 
@@ -17,4 +17,4 @@ Apophis Club is a music venue in Milan listed on soundcheck. 4 upcoming gigs, wi
 
 Via Carlo Giuseppe Merlo 3 (844.36 km) 20122 Milan, Italy, Milan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/apophis-club/)*

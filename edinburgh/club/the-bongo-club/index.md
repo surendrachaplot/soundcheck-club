@@ -1,6 +1,6 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Disorder: 4th Birthday w/ DJ Hype (Playaz) [JUNGLE AND DRUM & BASS]" on Fri, 6 Nov 2026.
+The Bongo Club is a music venue in Edinburgh with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Disorder: 4th Birthday w/ DJ Hype (Playaz) [JUNGLE AND DRUM & BASS]" on Fri, 6 Nov 2026.
 
 The Bongo Club is a music venue in Edinburgh listed on soundcheck. 15 upcoming gigs, with line-ups including Airwrecka, Carmen Baía, Dany and Darrell Pulse and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
@@ -10,7 +10,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 15 upcoming g
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Disorder: 4th Birthday w/ DJ Hype (Playaz) [JUNGLE AND DRUM & BASS] | DJ Hype, Harry Jackson |
 | Sat, 7 Nov 2026 | Hobbes Music x Noetic Rhythm: DJ Gregory, Ricardo, Hobbes + more | Airwrecka, DJ Gregory, Hobbes, Sepal |
-| Thu, 12 Nov 2026 | 𖤓SOLASTA II𖤓 | Carmen Baía, FIFI (2), zohra |
+| Thu, 12 Nov 2026 | 𖤓SOLASTA II𖤓 | Carmen Baía, FIFI LA ROUX, zohra |
 | Fri, 13 Nov 2026 | Tektite x FoxBam: A Night of Acid Exploration | Egebamyasi, Rodent |
 | Sat, 14 Nov 2026 | Messenger Sound System |  |
 | Thu, 19 Nov 2026 | Origins: n4tee | n4tee |
@@ -23,4 +23,4 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 15 upcoming g
 
 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom, Edinburgh
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/the-bongo-club/)*

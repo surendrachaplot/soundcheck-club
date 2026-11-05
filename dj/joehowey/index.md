@@ -1,6 +1,6 @@
 # Joe Howey
 
-Joe Howey is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 28 Nov 2026.
+Joe Howey is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 28 Nov 2026.
 
 Joe Howey is a house and tech house artist, with 17 gigs on soundcheck across Barcelona, Leeds, London and Manchester. Often billed alongside .cosm, Nikol and Keefy G. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Joe Howey is a house and tech house artist, with 17 gigs on soundcheck across Ba
 
 .cosm, Nikol, Keefy G
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joehowey/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joehowey/)*

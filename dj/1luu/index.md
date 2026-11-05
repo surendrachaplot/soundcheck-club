@@ -1,6 +1,6 @@
 # 1luu
 
-1luu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at MÄX, Zurich on Thu, 31 Dec 2026.
+1luu is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at MÄX, Zurich on Thu, 31 Dec 2026.
 
 1luu is a techno and trance artist based in Switzerland, with 107 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 16 more. Often billed alongside DJ Henk, Aexhy and DJ Traytex. Next up: MÄX, Zurich on Thu 31 Dec.
 
@@ -25,4 +25,4 @@
 
 DJ Henk, Aexhy, DJ Traytex
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1luu/)*

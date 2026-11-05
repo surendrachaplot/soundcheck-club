@@ -1,8 +1,8 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Frontón Bucareli, Mexico City on Sat, 7 Nov 2026.
+SG Lewis is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Frontón Bucareli, Mexico City on Sat, 7 Nov 2026.
 
-SG Lewis is a house and electronica artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Frontón Bucareli, Mexico City on Sat 7 Nov.
+SG Lewis is a house and electronica artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Frontón Bucareli, Mexico City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ SG Lewis is a house and electronica artist based in United Kingdom, with 94 gigs
 | Wed, 2 Dec 2026 | ZeyZey | Miami |
 | Sat, 12 Dec 2026 | Sawmills | Bristol |
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
+| Thu, 31 Dec 2026 | Factory Town | Miami |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ SG Lewis is a house and electronica artist based in United Kingdom, with 94 gigs
 
 Gorgon City, Dom Dolla, Eliza Rose
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

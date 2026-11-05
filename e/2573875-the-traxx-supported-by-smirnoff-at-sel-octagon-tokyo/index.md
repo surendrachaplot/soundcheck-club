@@ -1,6 +1,6 @@
 # THE TRAXX Supported by SMIRNOFF at SEL OCTAGON TOKYO
 
-THE TRAXX Supported by SMIRNOFF at SEL OCTAGON TOKYO on Fri 13 Nov, Tokyo. 4 artists: kazuma, Lemi, Miki and Zukky. See the line-up on soundcheck.
+THE TRAXX Supported by SMIRNOFF at SEL OCTAGON TOKYO on Fri 13 Nov, Tokyo. 3 artists: kazuma, Lemi and Zukky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ THE TRAXX Supported by SMIRNOFF at SEL OCTAGON TOKYO on Fri 13 Nov, Tokyo. 4 art
 
 - kazuma
 - Lemi
-- Miki
 - Zukky
 
 *Source: [soundcheck](https://soundcheck.club/e/2573875-the-traxx-supported-by-smirnoff-at-sel-octagon-tokyo/)*

@@ -1,6 +1,6 @@
 # A:G
 
-A:G is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kafe Hærverk, Oslo on Thu, 5 Nov 2026.
+A:G is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kafe Hærverk, Oslo on Thu, 5 Nov 2026.
 
 A:G is a house and tech house artist based in Norway, with 14 gigs on soundcheck across Oslo and Stockholm. Often billed alongside Ronya, G-HA and Olanskii. Next up: Kafe Hærverk, Oslo on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ A:G is a house and tech house artist based in Norway, with 14 gigs on soundcheck
 
 Ronya, G-HA, Olanskii
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ag/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ag/)*

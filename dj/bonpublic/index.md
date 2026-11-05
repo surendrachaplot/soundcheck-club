@@ -1,6 +1,6 @@
 # bonpublic
 
-bonpublic is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+bonpublic is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
 bonpublic is an electro and house artist based in Belgium, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 2 more. Often billed alongside Umbra., DC Salas and Coline Cornélis. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
@@ -13,6 +13,7 @@ bonpublic is an electro and house artist based in Belgium, with 43 gigs on sound
 
 ## Recently played
 
+- Crevette Records, Brussels · Wed, 4 Nov 2026
 - De Sering, Amsterdam · Thu, 22 Oct 2026
 - Jalousy, Brussels · Sat, 17 Oct 2026
 - Renate, Berlin · Sat, 8 Aug 2026
@@ -20,10 +21,9 @@ bonpublic is an electro and house artist based in Belgium, with 43 gigs on sound
 - Circle Park, Brussels · Sat, 13 Jun 2026
 - UMI, Brussels · Sat, 30 May 2026
 - Jalousy, Brussels · Wed, 13 May 2026
-- Place Poelaertplein, Brussels · Sat, 2 May 2026
 
 ## Shares bills with
 
 Umbra., DC Salas, Coline Cornélis
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonpublic/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonpublic/)*

@@ -1,6 +1,6 @@
 # Lord Spikeheart
 
-Lord Spikeheart is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Zentralwäscherei, Zurich on Thu, 5 Nov 2026.
+Lord Spikeheart is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Zentralwäscherei, Zurich on Thu, 5 Nov 2026.
 
 Lord Spikeheart is an experimental and electronica artist based in Kenya, with 36 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 20 more. Often billed alongside aya, bela and Abul Mogard. Next up: Zentralwäscherei, Zurich on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Lord Spikeheart is an experimental and electronica artist based in Kenya, with 3
 
 aya, bela, Abul Mogard
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordspikeheart/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lordspikeheart/)*

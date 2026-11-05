@@ -1,6 +1,6 @@
 # Micaia
 
-Micaia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Carmo Rooftop, Lisbon on Fri, 13 Nov 2026.
+Micaia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Carmo Rooftop, Lisbon on Fri, 13 Nov 2026.
 
 Micaia is a house and techno artist, with 24 gigs on soundcheck across Lisbon, London, Porto and Rotterdam. Often billed alongside DJ Honesty, Caroline Lethô and MURI. Next up: Carmo Rooftop, Lisbon on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Micaia is a house and techno artist, with 24 gigs on soundcheck across Lisbon, L
 
 DJ Honesty, Caroline Lethô, MURI
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micaia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micaia/)*

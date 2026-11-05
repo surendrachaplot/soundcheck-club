@@ -1,6 +1,6 @@
 # Coki
 
-Coki is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Deya Brewery, West-wales on Fri, 13 Nov 2026.
+Coki is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Deya Brewery, West-wales on Fri, 13 Nov 2026.
 
 Coki is a dubstep and bass artist based in United Kingdom, with 59 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 24 more. Often billed alongside Loefah, SGT Pokes and Joker. Next up: Deya Brewery, West Wales on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Coki is a dubstep and bass artist based in United Kingdom, with 59 gigs on sound
 
 Loefah, SGT Pokes, Joker
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coki/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coki/)*

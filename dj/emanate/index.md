@@ -1,13 +1,14 @@
 # Emanate
 
-Emanate is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 5 Dec 2026.
+Emanate is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-Emanate is a techno and tech house artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, ALMAS and IZIK. Next up: The Great Northern, San Francisco/Oakland on Sat 5 Dec.
+Emanate is a techno and tech house artist based in United States of America, with 142 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, ALMAS and IZIK. Next up: The Great Northern, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | The Great Northern | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | The Great Northern | San Francisco/Oakland |
 
@@ -26,4 +27,4 @@ Emanate is a techno and tech house artist based in United States of America, wit
 
 HIDRA, ALMAS, IZIK
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emanate/)*

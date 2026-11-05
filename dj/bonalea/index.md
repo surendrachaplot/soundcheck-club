@@ -1,6 +1,6 @@
 # Bona Léa
 
-Bona Léa is a Amapiano and Gqom artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Botanique, Brussels on Thu, 3 Dec 2026.
+Bona Léa is a Amapiano and Gqom artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Botanique, Brussels on Thu, 3 Dec 2026.
 
 Bona Léa is an amapiano and gqom artist based in Belgium, with 17 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Blck Mamba, Yooth and AliA. Next up: Botanique, Brussels on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ Bona Léa is an amapiano and gqom artist based in Belgium, with 17 gigs on sound
 
 Blck Mamba, Yooth, AliA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonalea/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonalea/)*

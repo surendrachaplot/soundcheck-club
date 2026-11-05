@@ -1,6 +1,6 @@
 # TXTX
 
-TXTX is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Lauschangriff, Berlin on Thu, 5 Nov 2026.
+TXTX is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Lauschangriff, Berlin on Thu, 5 Nov 2026.
 
 TXTX is a bass and jungle artist based in Spain, with 7 gigs on soundcheck across Berlin. Often billed alongside Carne, Eklekt1k and Monosi. Next up: Lauschangriff, Berlin on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ TXTX is a bass and jungle artist based in Spain, with 7 gigs on soundcheck acros
 
 Carne, Eklekt1k, Monosi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/txtx/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/txtx/)*

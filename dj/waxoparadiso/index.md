@@ -1,6 +1,6 @@
 # Wax'o Paradiso
 
-Wax'o Paradiso is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - The Scarborough Hotel, Scarborough NSW, Sydney on Sat, 7 Nov 2026.
+Wax'o Paradiso is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - The Scarborough Hotel, Scarborough NSW, Sydney on Sat, 7 Nov 2026.
 
 Wax'o Paradiso is a house and balearic artist based in Australia, with 60 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 11 more. Often billed alongside DAWS, Kia (AU) and Lauren Hansom. Next up: TBA - The Scarborough Hotel, Scarborough NSW, Sydney on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Wax'o Paradiso is a house and balearic artist based in Australia, with 60 gigs o
 
 DAWS, Kia (AU), Lauren Hansom
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*

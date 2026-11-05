@@ -1,6 +1,6 @@
 # Sonoma
 
-Sonoma is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fünk, Mexico City on Sat, 14 Nov 2026.
+Sonoma is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Fünk, Mexico City on Sat, 14 Nov 2026.
 
 Sonoma is a minimal and house artist based in Mexico, with 16 gigs on soundcheck across Bogotá, Denver, Guadalajara and Medellin and 2 more. Often billed alongside James Bott, Mike.D and Cami España. Next up: Fünk, Mexico City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sonoma is a minimal and house artist based in Mexico, with 16 gigs on soundcheck
 
 James Bott, Mike.D, Cami España
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoma/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonoma/)*

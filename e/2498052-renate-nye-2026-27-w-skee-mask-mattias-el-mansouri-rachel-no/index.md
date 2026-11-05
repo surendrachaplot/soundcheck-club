@@ -1,6 +1,6 @@
-# Renate NYE 2026/27 w/ Skee Mask, Mattias El Mansouri, Rachel Noon + more tba at Renate
+# Renate NYE 2026/27 w/ Skee Mask, Mattias El Mansouri, Rachel Noon, ferrari rot + more tba at Renate
 
-Renate NYE 2026/27 w/ Skee Mask, Mattias El Mansouri, Rachel Noon + more tba on Thu 31 Dec, Berlin. 35 artists: Amy Dabbs, ATTA, ATZENPUNK and Camilla Rae and 31 more. Techno and House. See the line-up on soundcheck.
+Renate NYE 2026/27 w/ Skee Mask, Mattias El Mansouri, Rachel Noon, ferrari rot + more tba on Thu 31 Dec, Berlin. 37 artists: Amy Dabbs, ATTA, ATZENPUNK and Camilla Rae and 33 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,10 +14,12 @@ Renate NYE 2026/27 w/ Skee Mask, Mattias El Mansouri, Rachel Noon + more tba on 
 - ATTA
 - ATZENPUNK
 - Camilla Rae
+- CEM
 - Christa K
 - DJ CHICHI
 - elliephunk
 - eric.a
+- ferrari rot
 - Florian Pas
 - groovyjuri
 - Huijari

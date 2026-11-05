@@ -1,6 +1,6 @@
 # Scotia
 
-Scotia is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 6 Nov 2026.
+Scotia is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 6 Nov 2026.
 
 Scotia is a techno and acid artist based in United States of America, with 53 gigs on soundcheck across Buffalo Rochester, Chicago, Detroit and Los Angeles and 7 more. Often billed alongside Ron Like Hell, Lauren Flax and Mike Servito. Next up: Bossa Nova Civic Club, New York City on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Scotia is a techno and acid artist based in United States of America, with 53 gi
 
 Ron Like Hell, Lauren Flax, Mike Servito
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scotia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scotia/)*

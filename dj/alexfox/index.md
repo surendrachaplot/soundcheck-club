@@ -1,6 +1,6 @@
 # ALEX FÖX
 
-ALEX FÖX is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
+ALEX FÖX is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
 
 ALEX FÖX is a progressive house and techno artist based in Cuba, with 25 gigs on soundcheck across Madrid. Often billed alongside Vico Deep, Brisa Then and IVANG. Next up: Barco Sound House, Madrid on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ALEX FÖX is a progressive house and techno artist based in Cuba, with 25 gigs o
 
 Vico Deep, Brisa Then, IVANG
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfox/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfox/)*

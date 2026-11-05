@@ -1,6 +1,6 @@
 # Craze
 
-Craze is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at O2 Academy Bristol, Bristol on Sun, 8 Nov 2026.
+Craze is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at O2 Academy Bristol, Bristol on Sun, 8 Nov 2026.
 
 Craze is a drum & bass and jungle artist based in United States of America, with 71 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Austin and 23 more. Often billed alongside shinobi (US), Dillinja and Solartrak. Next up: O2 Academy Bristol, Bristol on Sun 8 Nov.
 
@@ -28,4 +28,4 @@ Craze is a drum & bass and jungle artist based in United States of America, with
 
 shinobi (US), Dillinja, Solartrak
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/craze/)*

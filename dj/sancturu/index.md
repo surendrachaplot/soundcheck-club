@@ -1,6 +1,6 @@
 # Sancturu
 
-Sancturu is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Auberge, Switzerland on Sat, 21 Nov 2026.
+Sancturu is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Auberge, Switzerland on Sat, 21 Nov 2026.
 
 Sancturu is a house and electro artist based in Argentina, with 17 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Lisbon and 2 more. Often billed alongside Zarem, Audio Alchemy and Adam Ten. Next up: Auberge, Switzerland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Sancturu is a house and electro artist based in Argentina, with 17 gigs on sound
 
 Zarem, Audio Alchemy, Adam Ten
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sancturu/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sancturu/)*

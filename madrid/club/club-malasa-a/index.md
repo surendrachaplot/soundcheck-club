@@ -1,6 +1,6 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Clímax" on Thu, 5 Nov 2026.
+Club Malasaña is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Clímax" on Thu, 5 Nov 2026.
 
 Club Malasaña is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Cabin Luv Affair, Calabasa, CINCOCEROSEIS and Daniel Monaco and 2 more. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 13 upcoming gigs
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

@@ -1,6 +1,6 @@
 # Rampe 70
 
-Rampe 70 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "ECSTATIC DANCE WILD" on Sat, 7 Nov 2026.
+Rampe 70 is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ECSTATIC DANCE WILD" on Sat, 7 Nov 2026.
 
 Rampe 70 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Psysoul. See dates, start times and who's playing. Hermetschloostrasse 70, 8048 Zürich, Switzerland.
 
@@ -15,4 +15,4 @@ Rampe 70 is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with 
 
 Hermetschloostrasse 70, 8048 Zürich, Switzerland, Zurich
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rampe-70/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/rampe-70/)*

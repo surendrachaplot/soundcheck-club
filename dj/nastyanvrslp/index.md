@@ -1,8 +1,8 @@
 # NASTYA NVRSLP
 
-NASTYA NVRSLP is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+NASTYA NVRSLP is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
-NASTYA NVRSLP is a techno and house artist, with 56 gigs on soundcheck across Berlin, Krakow, Montreal and Paris and 4 more. Often billed alongside Sept, Bianca Badita and ALIS.. Next up: OXI, Berlin on Sat 14 Nov.
+NASTYA NVRSLP is a techno and house artist, with 57 gigs on soundcheck across Berlin, Krakow, Montreal and Paris and 4 more. Often billed alongside Sept, Bianca Badita and ALIS.. Next up: OXI, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NASTYA NVRSLP is a techno and house artist, with 56 gigs on soundcheck across Be
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | OXI | Berlin |
 | Sat, 14 Nov 2026 | OXI | Berlin |
+| Sat, 12 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ NASTYA NVRSLP is a techno and house artist, with 56 gigs on soundcheck across Be
 
 Sept, Bianca Badita, ALIS.
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyanvrslp/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastyanvrslp/)*

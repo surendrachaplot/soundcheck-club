@@ -1,14 +1,15 @@
 # Chloé
 
-Chloé is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 14 Nov 2026.
+Chloé is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 14 Nov 2026.
 
-Chloé is a techno and house artist based in France, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Mad Rey, Belaria and Ivan Smagghe. Next up: Frankhan Selectist, Istanbul on Sat 14 Nov.
+Chloé is a house and techno artist based in France, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 13 more. Often billed alongside Mad Rey, Belaria and Ivan Smagghe. Next up: Frankhan Selectist, Istanbul on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Frankhan Selectist | Istanbul |
+| Sun, 15 Nov 2026 | Petit CAB | Marseille |
 | Wed, 18 Nov 2026 | Rough Trade Berlin | Berlin |
 | Fri, 27 Nov 2026 | DURO | Milan |
 | Fri, 27 Nov 2026 | DURO | Milan |
@@ -28,4 +29,4 @@ Chloé is a techno and house artist based in France, with 61 gigs on soundcheck 
 
 Mad Rey, Belaria, Ivan Smagghe
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloe/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chloe/)*

@@ -1,8 +1,8 @@
 # Aida Arko
 
-Aida Arko is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Oddity Club, Athens on Fri, 13 Nov 2026.
+Aida Arko is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Oddity Club, Athens on Fri, 13 Nov 2026.
 
-Aida Arko is a techno and industrial artist based in Austria, with 82 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Mar/us, Angel Karel and Metaraph. Next up: Oddity Club, Athens on Fri 13 Nov.
+Aida Arko is a techno and industrial artist based in Austria, with 83 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 30 more. Often billed alongside Mar/us, Angel Karel and Metaraph. Next up: Oddity Club, Athens on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Aida Arko is a techno and industrial artist based in Austria, with 82 gigs on so
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Oddity Club | Athens |
 | Fri, 27 Nov 2026 | Lokschuppen Berlin | Berlin |
+| Sat, 28 Nov 2026 | Studio Club Malaga | Malaga |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Aida Arko is a techno and industrial artist based in Austria, with 82 gigs on so
 
 Mar/us, Angel Karel, Metaraph
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidaarko/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aidaarko/)*

@@ -1,14 +1,15 @@
 # JOHNNY O
 
-JOHNNY O is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Brooklyn Roots Collective, New York City on Sat, 14 Nov 2026.
+JOHNNY O is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Brooklyn Roots Collective, New York City on Sat, 14 Nov 2026.
 
-JOHNNY O is a techno and trance artist based in United States of America, with 17 gigs on soundcheck across New York City, San Diego and San Francisco/Oakland. Often billed alongside Sam Valle, Remniqe and elle xxo. Next up: Brooklyn Roots Collective, New York City on Sat 14 Nov.
+JOHNNY O is a techno and trance artist based in United States of America, with 18 gigs on soundcheck across New York City, San Diego and San Francisco/Oakland. Often billed alongside Sam Valle, Remniqe and elle xxo. Next up: Brooklyn Roots Collective, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Brooklyn Roots Collective | New York City |
+| Thu, 3 Dec 2026 | H0L0 | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ JOHNNY O is a techno and trance artist based in United States of America, with 1
 
 Sam Valle, Remniqe, elle xxo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnyo/)*

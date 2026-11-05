@@ -1,6 +1,6 @@
 # AMT
 
-AMT is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "AИDERS x Human Colours with Saytek - Live - , Somaphon , Kalimanda (2 Floors)" on Fri, 6 Nov 2026.
+AMT is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "AИDERS x Human Colours with Saytek - Live - , Somaphon , Kalimanda (2 Floors)" on Fri, 6 Nov 2026.
 
 AMT is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including .Cheka, Achilles, Anja Schneider and Anna Amato and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ AMT is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line
 | Fri, 20 Nov 2026 | SUBSTATION | GRETA (GR), Giulia Gutterer, Kidcat, Lucas Abadi, Sparkly Pony |
 | Sat, 21 Nov 2026 | Loone x FEIERAMT | Arlanoa, BENZA, Elvin, Iman Janes, Jessie Granqvist, Maris Shilton, RÆZA, Sicion |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/amt/)*

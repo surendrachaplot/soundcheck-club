@@ -1,6 +1,6 @@
 # Berkan V8
 
-Berkan V8 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
+Berkan V8 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
 
 Berkan V8 is a house and techno artist based in Netherlands, with 97 gigs on soundcheck across Amsterdam, Berlin, Brussels and Istanbul and 3 more. Often billed alongside BELLA (NL), Doppelgang and Kyra Khaldi. Next up: TBA, Amsterdam on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Berkan V8 is a house and techno artist based in Netherlands, with 97 gigs on sou
 
 BELLA (NL), Doppelgang, Kyra Khaldi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berkanv8/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/berkanv8/)*

@@ -1,6 +1,6 @@
 # Rei (1)
 
-Rei (1) is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 7 Nov 2026.
+Rei (1) is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 7 Nov 2026.
 
 Rei is a hardcore and gabber artist, with 6 gigs on soundcheck across Barcelona, Istanbul, Osaka and Tokyo. Often billed alongside ATEBOI, KAMIKAZE and KANON. Next up: Yan Gastro, Istanbul on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Rei is a hardcore and gabber artist, with 6 gigs on soundcheck across Barcelona,
 
 ATEBOI, KAMIKAZE, KANON (1)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rei-1-ar/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rei-1-ar/)*

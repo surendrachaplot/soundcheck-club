@@ -1,6 +1,6 @@
 # JUNiQUE
 
-JUNiQUE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
+JUNiQUE is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Ilses Erika, Leipzig on Fri, 6 Nov 2026.
 
 JUNiQUE is a trance and techno artist based in Germany, with 12 gigs on soundcheck across Berlin and Leipzig. Often billed alongside ESCALEA, humae and B-TUR. Next up: Ilses Erika, Leipzig on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ JUNiQUE is a trance and techno artist based in Germany, with 12 gigs on soundche
 
 ESCALEA, humae, B-TUR (2)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junique/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junique/)*

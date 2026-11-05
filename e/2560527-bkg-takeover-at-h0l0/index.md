@@ -1,6 +1,6 @@
 # BKG Takeover at H0L0
 
-BKG Takeover at H0L0 on Thu 19 Nov, New York City. 3 artists: Jaxx, NICHE and Sangarang. House and Garage. See the line-up on soundcheck.
+BKG Takeover at H0L0 on Thu 19 Nov, New York City. 2 artists: NICHE and Sangarang. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ BKG Takeover at H0L0 on Thu 19 Nov, New York City. 3 artists: Jaxx, NICHE and Sa
 
 ## Line-up
 
-- Jaxx
 - NICHE (2)
 - Sangarang
 

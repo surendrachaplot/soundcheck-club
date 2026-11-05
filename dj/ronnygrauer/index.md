@@ -1,6 +1,6 @@
 # Ronny Grauer
 
-Ronny Grauer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kaufleuten, Zurich on Sat, 28 Nov 2026.
+Ronny Grauer is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kaufleuten, Zurich on Sat, 28 Nov 2026.
 
 Ronny Grauer is a house and tech house artist based in Switzerland, with 53 gigs on soundcheck across Zurich. Often billed alongside Dejan, Anthik and whereisvero. Next up: Kaufleuten, Zurich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Ronny Grauer is a house and tech house artist based in Switzerland, with 53 gigs
 
 Dejan, Anthik, whereisvero
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnygrauer/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnygrauer/)*

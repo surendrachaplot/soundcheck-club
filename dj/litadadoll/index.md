@@ -1,6 +1,6 @@
 # LITA DA DOLL
 
-LITA DA DOLL is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 14 Nov 2026.
+LITA DA DOLL is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 14 Nov 2026.
 
 LITA DA DOLL is a club and house artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Baltimore, Chicago and New York City and 1 more. Often billed alongside allducksrock, BLAIZE and CMD+JAZMINE. Next up: Bossa Nova Civic Club, New York City on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ LITA DA DOLL is a club and house artist based in United States of America, with 
 
 allducksrock, BLAIZE, CMD+JAZMINE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/litadadoll/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/litadadoll/)*

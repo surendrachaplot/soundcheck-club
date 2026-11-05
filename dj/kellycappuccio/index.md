@@ -1,6 +1,6 @@
 # Kelly Cappuccio
 
-Kelly Cappuccio is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Duel Club, Naples on Sat, 7 Nov 2026.
+Kelly Cappuccio is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Duel Club, Naples on Sat, 7 Nov 2026.
 
 Kelly Cappuccio is a tech house and house artist based in Italy, with 6 gigs on soundcheck across Naples and Portland. Often billed alongside Alex Bohemien, Broosk and Flour. Next up: Duel Club, Naples on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Kelly Cappuccio is a tech house and house artist based in Italy, with 6 gigs on 
 
 Alex Bohemien, Broosk, Flour
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kellycappuccio/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kellycappuccio/)*

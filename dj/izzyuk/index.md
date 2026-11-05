@@ -1,6 +1,6 @@
 # IZZY (UK)
 
-IZZY (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 4 Dec 2026.
+IZZY (UK) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Starlane Pizza Bar, London on Fri, 4 Dec 2026.
 
 IZZY (UK) is a house and techno artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, London and The Hague. Often billed alongside Lola So, Armând and ASHOJU. Next up: Starlane Pizza Bar, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ IZZY (UK) is a house and techno artist based in United Kingdom, with 49 gigs on 
 
 Lola So, Armând, ASHOJU
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzyuk/)*

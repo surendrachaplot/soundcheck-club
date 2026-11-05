@@ -1,6 +1,6 @@
 # Robin Nicolas
 
-Robin Nicolas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Madam, Amsterdam on Sat, 7 Nov 2026.
+Robin Nicolas is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Madam, Amsterdam on Sat, 7 Nov 2026.
 
 Robin Nicolas is a tech house and house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London and 1 more. Often billed alongside Capron, Dan Costello and Mike Morrisey. Next up: Madam, Amsterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Robin Nicolas is a tech house and house artist based in Netherlands, with 29 gig
 
 Capron, Dan Costello, Mike Morrisey
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinnicolas/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robinnicolas/)*

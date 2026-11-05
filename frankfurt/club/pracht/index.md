@@ -1,6 +1,6 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "feierabend. with Samuri & Seezar" on Thu, 5 Nov 2026.
+Pracht is a music venue in Frankfurt with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "feierabend. with Samuri & Seezar" on Thu, 5 Nov 2026.
 
 Pracht is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, with line-ups including Andrale, Animal Trainer, Benja Asima and Biagio Sibilla and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
@@ -23,4 +23,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, wit
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

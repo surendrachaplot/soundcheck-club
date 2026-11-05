@@ -1,6 +1,6 @@
 # Makam
 
-Makam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Makam is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Makam is a techno and house artist based in Netherlands, with 29 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Croatia and 4 more. Often billed alongside AMORAL, Fafi Abdel Nour and Konduku. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Makam is a techno and house artist based in Netherlands, with 29 gigs on soundch
 
 AMORAL, Fafi Abdel Nour, Konduku
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makam/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makam/)*

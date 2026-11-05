@@ -1,6 +1,6 @@
 # Skinny
 
-Skinny is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at MAD Radio NYC, New York City on Thu, 5 Nov 2026.
+Skinny is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at MAD Radio NYC, New York City on Thu, 5 Nov 2026.
 
 Skinny is a tech house and house artist based in Serbia, with 17 gigs on soundcheck across Bogotá, Ibiza, London and Melbourne and 3 more. Often billed alongside Jakob (BE), Nick Reverse and RaW. Next up: MAD Radio NYC, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Skinny is a tech house and house artist based in Serbia, with 17 gigs on soundch
 
 Jakob (BE), Nick Reverse, RaW
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinny/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skinny/)*

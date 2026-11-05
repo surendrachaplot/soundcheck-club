@@ -1,14 +1,15 @@
 # Sanaz
 
-Sanaz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
+Sanaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kater, Berlin on Sat, 14 Nov 2026.
 
-Sanaz is a house and techno artist based in Germany, with 38 gigs on soundcheck across Berlin, Bristol, Cologne and Copenhagen and 4 more. Often billed alongside Immy, Jessica Nightlife and Dornika. Next up: Kater, Berlin on Sat 14 Nov.
+Sanaz is a house and techno artist based in Germany, with 39 gigs on soundcheck across Berlin, Bristol, Cologne and Copenhagen and 4 more. Often billed alongside Immy, Jessica Nightlife and Dornika. Next up: Kater, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Kater | Berlin |
+| Sun, 29 Nov 2026 | OHM | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sanaz is a house and techno artist based in Germany, with 38 gigs on soundcheck 
 
 Immy, Jessica Nightlife, Dornika
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sanaz/)*

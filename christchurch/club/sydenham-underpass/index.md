@@ -1,6 +1,6 @@
 # Sydenham Underpass
 
-Sydenham Underpass is a music venue in Christchurch with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Fantasia & Friends" on Fri, 6 Nov 2026.
+Sydenham Underpass is a music venue in Christchurch with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Fantasia & Friends" on Fri, 6 Nov 2026.
 
 Sydenham Underpass is a music venue in Christchurch listed on soundcheck. 3 upcoming gigs, with line-ups including Flamingo Pier and Jagā. See dates, start times and who's playing. 15 sandyford street, Christchurch, New Zealand 8022.
 
@@ -16,4 +16,4 @@ Sydenham Underpass is a music venue in Christchurch listed on soundcheck. 3 upco
 
 15 sandyford street, Christchurch, New Zealand 8022, Christchurch
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/christchurch/club/sydenham-underpass/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/christchurch/club/sydenham-underpass/)*

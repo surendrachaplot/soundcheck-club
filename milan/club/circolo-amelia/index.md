@@ -1,15 +1,15 @@
 # Circolo Amelia
 
-Circolo Amelia is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "DVS1 // Acquario (Amelia)" on Fri, 6 Nov 2026.
+Circolo Amelia is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "DVS1 // Acquario (Amelia)" on Fri, 6 Nov 2026.
 
-Circolo Amelia is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including AgainstMe, Aldonna, Andromeda\Unchained and BENNETT and 2 more. See dates, start times and who's playing. via privata venezia giulia, 19 - Milan - Italy.
+Circolo Amelia is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including AgainstMe, Aldonna, Andromeda\Unchained and Dj Autogrill and 2 more. See dates, start times and who's playing. via privata venezia giulia, 19 - Milan - Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | DVS1 // Acquario (Amelia) | DVS1, Essē (IT), Outburst Knobs |
-| Sat, 7 Nov 2026 | POWER DANCE CLUB FORTUNA | Aldonna, Andromeda\Unchained, BENNETT, Kingsizebed, LEMME, Luigi Di Venere, Stathis (GR), Yas Reven, source:link |
+| Sat, 7 Nov 2026 | POWER DANCE CLUB FORTUNA | Aldonna, Andromeda\Unchained, Dj Autogrill, Kingsizebed, LEMME, Luigi Di Venere, Stathis (GR), Yas Reven, source:link |
 | Sat, 14 Nov 2026 | Closer 11th Years Birthday Amelia /// Oscar Mulero - Kangding Ray - Phara -Sansibar - others | AgainstMe, Gianmarco Gazzillo, Inner Lakes, Isabel Soto, Kangding Ray, Oscar Mulero, Phara, Rorschack, Sansibar |
 | Sat, 28 Nov 2026 | BUKA | DJ Sotofett, Jugodefatuo, Kambo Super Sound, Kop-Z, LNS, Mvcoko, Sense Fracture |
 
@@ -17,4 +17,4 @@ Circolo Amelia is a music venue in Milan listed on soundcheck. 4 upcoming gigs, 
 
 via privata venezia giulia, 19 - Milan - Italy, Milan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/circolo-amelia/)*

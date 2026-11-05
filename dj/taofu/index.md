@@ -1,6 +1,6 @@
 # TaoFu
 
-TaoFu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
+TaoFu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Unmute, Hanoi on Thu, 5 Nov 2026.
 
 TaoFu is a techno and house artist based in Vietnam, with 78 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Seoul and 1 more. Often billed alongside Di Linh, CONG and Park:ING. Next up: Unmute, Hanoi on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ TaoFu is a techno and house artist based in Vietnam, with 78 gigs on soundcheck 
 
 Di Linh, CONG, Park:ING
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taofu/)*

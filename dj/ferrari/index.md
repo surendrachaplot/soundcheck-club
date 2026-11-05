@@ -1,6 +1,6 @@
 # Ferrari
 
-Ferrari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Fri, 6 Nov 2026.
+Ferrari is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at CGM - Club Giovanile Milano, Milan on Fri, 6 Nov 2026.
 
 Ferrari is a house and disco artist based in Italy, with 62 gigs on soundcheck across Amsterdam, Berlin, Bologna and Madrid and 3 more. Often billed alongside Dante (H501), Coni and Larry Masmero. Next up: CGM - Club Giovanile Milano, Milan on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ferrari is a house and disco artist based in Italy, with 62 gigs on soundcheck a
 
 Dante (H501), Coni (2), Larry Masmero
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrari/)*

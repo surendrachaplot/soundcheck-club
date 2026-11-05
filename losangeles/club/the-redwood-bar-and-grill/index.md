@@ -1,14 +1,13 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 33 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sofia Gomez" on Wed, 4 Nov 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 32 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "The Fantastic Fellinis (8:45pm)" on Fri, 6 Nov 2026.
 
-The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 33 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 32 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Sofia Gomez |  |
 | Fri, 6 Nov 2026 | The Fantastic Fellinis (8:45pm) |  |
 | Sat, 7 Nov 2026 | Sun Howler |  |
 | Sun, 8 Nov 2026 | The Williamsons |  |
@@ -18,9 +17,10 @@ The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 
 | Thu, 12 Nov 2026 | The Wyldewood Green |  |
 | Fri, 13 Nov 2026 | Erik Yarosh |  |
 | Fri, 13 Nov 2026 | (unnamed opener, 7pm) |  |
+| Thu, 19 Nov 2026 | the Goddamn Gallows |  |
 
 ## Address
 
 316 W. 2nd Street, Los Angeles, CA  90012, Los Angeles
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-redwood-bar-and-grill/)*

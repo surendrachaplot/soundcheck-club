@@ -1,6 +1,6 @@
 # New Wave Ramen
 
-New Wave Ramen is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "NWR: Emiiyuu" on Fri, 6 Nov 2026.
+New Wave Ramen is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "NWR: Emiiyuu" on Fri, 6 Nov 2026.
 
 New Wave Ramen is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including emiiyuu, Joey T, Keltoi and Kusasa. See dates, start times and who's playing. 16 Tib Ln, M2 4JB.
 
@@ -21,4 +21,4 @@ New Wave Ramen is a music venue in Manchester listed on soundcheck. 8 upcoming g
 
 16 Tib Ln, M2 4JB, Manchester
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-wave-ramen/)*

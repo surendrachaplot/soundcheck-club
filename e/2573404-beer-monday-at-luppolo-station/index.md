@@ -1,6 +1,6 @@
 # Beer Monday at Luppolo Station
 
-Beer Monday at Luppolo Station on Mon 23 Nov, Rome. Afrobeat and Funk / Soul. See the line-up on soundcheck.
+Beer Monday at Luppolo Station on Mon 23 Nov, Rome. Funk / Soul and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

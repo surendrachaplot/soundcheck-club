@@ -1,13 +1,14 @@
 # Janis Zielinski
 
-Janis Zielinski is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mia Mao, Paris on Sat, 21 Nov 2026.
+Janis Zielinski is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 7 Nov 2026.
 
-Janis Zielinski is a techno and trance artist based in Germany, with 170 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: Mia Mao, Paris on Sat 21 Nov.
+Janis Zielinski is a techno and trance artist based in Germany, with 171 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Bad Boombox, Mischluft and Ollie Lishman. Next up: Studio Club Malaga, Malaga on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 21 Nov 2026 | Mia Mao | Paris |
 | Sat, 28 Nov 2026 | MUENZE | Berlin |
 
@@ -26,4 +27,4 @@ Janis Zielinski is a techno and trance artist based in Germany, with 170 gigs on
 
 Bad Boombox, Mischluft, Ollie Lishman
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janiszielinski/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janiszielinski/)*

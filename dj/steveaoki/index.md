@@ -1,8 +1,8 @@
 # Steve Aoki
 
-Steve Aoki is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Russell Industrial Center, Detroit on Fri, 6 Nov 2026.
+Steve Aoki is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Russell Industrial Center, Detroit on Fri, 6 Nov 2026.
 
-Steve Aoki is a house and electro artist based in United States of America, with 72 gigs on soundcheck across Austin, Barcelona, Bogotá and Boston and 28 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Alok. Next up: Russell Industrial Center, Detroit on Fri 6 Nov.
+Steve Aoki is a house and electro artist based in United States of America, with 73 gigs on soundcheck across Austin, Barcelona, Bogotá and Boston and 29 more. Often billed alongside Dimitri Vegas & Like Mike, Alesso and Alok. Next up: Russell Industrial Center, Detroit on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Steve Aoki is a house and electro artist based in United States of America, with
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Russell Industrial Center | Detroit |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
+| Fri, 20 Nov 2026 | Barceló Riviera Maya Resort | Playa-del-carmen |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Steve Aoki is a house and electro artist based in United States of America, with
 
 Dimitri Vegas & Like Mike, Alesso, Alok
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveaoki/)*

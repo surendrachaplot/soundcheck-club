@@ -1,6 +1,6 @@
 # Ginger (KR)
 
-Ginger (KR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Faust, Seoul on Sat, 7 Nov 2026.
+Ginger (KR) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Faust, Seoul on Sat, 7 Nov 2026.
 
 Ginger (KR) is a house and techno artist, with 49 gigs on soundcheck across Osaka, Seoul and Singapore. Often billed alongside Nocturnal (KR), Minish and Zion. Next up: Faust, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ginger (KR) is a house and techno artist, with 49 gigs on soundcheck across Osak
 
 Nocturnal (KR), Minish, Zion
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gingerkr/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gingerkr/)*

@@ -1,6 +1,6 @@
 # Paluma Sound
 
-Paluma Sound is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at gallery 1986, Vilnius on Fri, 6 Nov 2026.
+Paluma Sound is a House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at gallery 1986, Vilnius on Fri, 6 Nov 2026.
 
 Paluma Sound is a house and garage artist based in United States of America, with 31 gigs on soundcheck across Belgrade, Berlin, Bristol and Bucharest and 7 more. Often billed alongside sunflwr, Shaolin Cowboy and DJ Houseplants. Next up: gallery 1986, Vilnius on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Paluma Sound is a house and garage artist based in United States of America, wit
 
 sunflwr, Shaolin Cowboy, DJ Houseplants
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palumasound/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palumasound/)*

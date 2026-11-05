@@ -1,6 +1,6 @@
 # Golden Record NYC x Pregame present Harry McCanna at TBA - East Williamsburg
 
-Golden Record NYC x Pregame present Harry McCanna at TBA - East Williamsburg on Sat 21 Nov, New York City. 4 artists: Armii1n, Harry McCanna, Kiyoshi and Zayd. House. See the line-up on soundcheck.
+Golden Record NYC x Pregame present Harry McCanna at TBA - East Williamsburg on Sat 21 Nov, New York City. 5 artists: Armii1n, Harry McCanna, John Everett and Kiyoshi and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Golden Record NYC x Pregame present Harry McCanna at TBA - East Williamsburg on 
 
 - Armii1n
 - Harry McCanna
+- John Everett
 - Kiyoshi
 - Zayd
 

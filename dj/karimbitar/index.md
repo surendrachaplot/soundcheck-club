@@ -1,14 +1,15 @@
 # Karim Bitar
 
-Karim Bitar is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Cheek, London on Fri, 27 Nov 2026.
+Karim Bitar is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Cheek, London on Fri, 27 Nov 2026.
 
-Karim Bitar is a bass and house artist, with 14 gigs on soundcheck across London. Often billed alongside Kenzel, Amaliah and Eds D1. Next up: Club Cheek, London on Fri 27 Nov.
+Karim Bitar is a house and bass artist, with 15 gigs on soundcheck across London. Often billed alongside Kenzel, Amaliah and DJ Ironing Board. Next up: Club Cheek, London on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Club Cheek | London |
+| Fri, 11 Dec 2026 | Alaska Waterloo | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Karim Bitar is a bass and house artist, with 14 gigs on soundcheck across London
 
 ## Shares bills with
 
-Kenzel, Amaliah, Eds D1
+Kenzel, Amaliah, DJ Ironing Board
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karimbitar/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karimbitar/)*

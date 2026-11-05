@@ -1,14 +1,15 @@
 # DJ Dustin
 
-DJ Dustin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Rūmu, Lisbon on Fri, 6 Nov 2026.
+DJ Dustin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Rūmu, Lisbon on Fri, 6 Nov 2026.
 
-DJ Dustin is a house and techno artist based in Germany, with 115 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 39 more. Often billed alongside Konstantin, Yamour and Leafar Legov. Next up: Rūmu, Lisbon on Fri 6 Nov.
+DJ Dustin is a house and techno artist based in Germany, with 116 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 39 more. Often billed alongside Konstantin, Yamour and Leafar Legov. Next up: Rūmu, Lisbon on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Rūmu | Lisbon |
+| Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ Dustin is a house and techno artist based in Germany, with 115 gigs on soundc
 
 Konstantin, Yamour, Leafar Legov
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustin/)*

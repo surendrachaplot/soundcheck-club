@@ -1,6 +1,6 @@
 # Patch+
 
-Patch+ is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Newspeak, Montreal on Fri, 6 Nov 2026.
+Patch+ is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Newspeak, Montreal on Fri, 6 Nov 2026.
 
 Patch+ is an experimental and electronica artist based in United States of America, with 16 gigs on soundcheck across Berlin, Brussels, Guadalajara and London and 6 more. Often billed alongside Deer park, Helen Sun and AYEGY. Next up: Newspeak, Montreal on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Patch+ is an experimental and electronica artist based in United States of Ameri
 
 Deer park, Helen Sun, AYEGY
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patch/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patch/)*

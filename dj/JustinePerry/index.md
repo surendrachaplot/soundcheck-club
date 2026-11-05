@@ -1,8 +1,8 @@
 # Justine Perry
 
-Justine Perry is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at essaim, Paris on Fri, 6 Nov 2026.
+Justine Perry is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at essaim, Paris on Fri, 6 Nov 2026.
 
-Justine Perry is a techno and house artist based in France, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Paula Koski, Blasha & Allatt and Setaoc Mass. Next up: essaim, Paris on Fri 6 Nov.
+Justine Perry is a techno and house artist based in France, with 186 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Paula Koski, Blasha & Allatt and Setaoc Mass. Next up: essaim, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Justine Perry is a techno and house artist based in France, with 184 gigs on sou
 | Sat, 14 Nov 2026 | NWHR | Montreal |
 | Fri, 20 Nov 2026 | Tanzhaus West | Frankfurt |
 | Sat, 19 Dec 2026 | RSO.BERLIN | Berlin |
+| Sat, 19 Dec 2026 | Tresor.West | Dortmund / Essen |
+| Thu, 31 Dec 2026 | Ktima Camelot | Cyprus |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Justine Perry is a techno and house artist based in France, with 184 gigs on sou
 
 Paula Koski, Blasha & Allatt, Setaoc Mass
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/JustinePerry/)*

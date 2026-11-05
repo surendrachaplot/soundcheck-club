@@ -1,6 +1,6 @@
 # EXIT Glasgow
 
-EXIT Glasgow is a music venue in Glasgow with 18 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus" on Fri, 6 Nov 2026.
+EXIT Glasgow is a music venue in Glasgow with 18 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "EXIT x Tanum Sound present: Aba Shanti-I, ojoo, Mellowdramatics & Klaus" on Fri, 6 Nov 2026.
 
 EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming gigs, with line-ups including 3rdcrush, Aba Shanti-I, Adrian Skiba and Angel Negrin and 2 more. See dates, start times and who's playing. 96 Maxwell Street, Glasgow, G1 4EQ.
 
@@ -23,4 +23,4 @@ EXIT Glasgow is a music venue in Glasgow listed on soundcheck. 18 upcoming gigs,
 
 96 Maxwell Street, Glasgow, G1 4EQ, Glasgow
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/exit-glasgow/)*

@@ -1,6 +1,6 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Little Rockers, Okinawa on Thu, 5 Nov 2026.
+kengotaki is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Little Rockers, Okinawa on Thu, 5 Nov 2026.
 
 kengotaki is a house and techno artist based in Japan, with 180 gigs on soundcheck across Kyushu, Okinawa, Osaka and Sydney and 1 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Little Rockers, Okinawa on Thu 5 Nov.
 
@@ -30,4 +30,4 @@ kengotaki is a house and techno artist based in Japan, with 180 gigs on soundche
 
 r1ku, SAMO (JP), YUVIE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*

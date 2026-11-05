@@ -1,14 +1,15 @@
 # Dougal
 
-Dougal is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Dougal is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
-Dougal is a hardcore and trance artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Birmingham, Glasgow and Leeds and 6 more. Often billed alongside Scott Brown, Hixxy and Mark Breeze. Next up: Marshall Arena, South East on Sat 7 Nov.
+Dougal is a hardcore and trance artist based in United Kingdom, with 22 gigs on soundcheck across Amsterdam, Birmingham, Glasgow and Leeds and 6 more. Often billed alongside Scott Brown, Hixxy and Mark Breeze. Next up: Marshall Arena, South East on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Marshall Arena | South-east |
+| Sat, 30 Jan 2027 | TBA - Camden | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dougal is a hardcore and trance artist based in United Kingdom, with 21 gigs on 
 
 Scott Brown, Hixxy, Mark Breeze
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dougal/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dougal/)*

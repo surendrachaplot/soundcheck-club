@@ -1,14 +1,13 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "BOX" on Wed, 4 Nov 2026.
+Triangle is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "RAVING APE" on Fri, 6 Nov 2026.
 
-Triangle is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with line-ups including _goodbyeforever_, CH1LL, Dj Quien and Drunken Kong and 2 more. See dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
+Triangle is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including _goodbyeforever_, CH1LL, Dj Quien and Drunken Kong and 2 more. See dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | BOX | ROOT (JP) |
 | Fri, 6 Nov 2026 | RAVING APE | File Explorer, Savage States, ZAGUN, matres |
 | Sat, 7 Nov 2026 | HARDER EVOLUTION presents: Flow of Euphoria feat. Euphorizer | CH1LL |
 | Wed, 11 Nov 2026 | RUN DA BASS | Dj Quien, POGO (JP), kakepon |
@@ -20,4 +19,4 @@ Triangle is a music venue in Osaka listed on soundcheck. 7 upcoming gigs, with l
 
 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*

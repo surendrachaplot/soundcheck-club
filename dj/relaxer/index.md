@@ -1,6 +1,6 @@
 # Relaxer
 
-Relaxer is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Moroccan Lounge, Los Angeles on Thu, 5 Nov 2026.
+Relaxer is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Moroccan Lounge, Los Angeles on Thu, 5 Nov 2026.
 
 Relaxer is a techno and experimental artist, with 67 gigs on soundcheck across Chicago, Krakow, Los Angeles and Montreal and 8 more. Often billed alongside aka-Sol, Kilbourne and Baby Leo. Next up: The Moroccan Lounge, Los Angeles on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Relaxer is a techno and experimental artist, with 67 gigs on soundcheck across C
 
 aka-Sol, Kilbourne, Baby Leo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/relaxer/)*

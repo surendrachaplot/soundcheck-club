@@ -1,6 +1,6 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "LILA invites… Colleen 'Cosmo' Murphy + more" on Fri, 6 Nov 2026.
+The Fox and Firkin is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "LILA invites… Colleen 'Cosmo' Murphy + more" on Fri, 6 Nov 2026.
 
 The Fox and Firkin is a music venue in London listed on soundcheck. 17 upcoming gigs, with line-ups including Ana Isabela, Awesome Tapes From Africa, Beirut Groove Collective and Bena and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
@@ -23,4 +23,4 @@ The Fox and Firkin is a music venue in London listed on soundcheck. 17 upcoming 
 
 316 Lewisham High Street London SE136JZ, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-fox-and-firkin/)*

@@ -1,13 +1,14 @@
 # GEOMETRIKK
 
-GEOMETRIKK is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Stage and Radio, Manchester on Fri, 27 Nov 2026.
+GEOMETRIKK is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Warehouse, Leeds on Sat, 7 Nov 2026.
 
-GEOMETRIKK is a drum & bass and jungle artist based in United Kingdom, with 10 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 1 more. Often billed alongside Bypass, Window Kid and 24hr Garage Girls. Next up: Stage and Radio, Manchester on Fri 27 Nov.
+GEOMETRIKK is a drum & bass and jungle artist based in United Kingdom, with 11 gigs on soundcheck across Birmingham, Bristol, Leeds and London and 1 more. Often billed alongside Bypass, Window Kid and 24hr Garage Girls. Next up: The Warehouse, Leeds on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | The Warehouse | Leeds |
 | Fri, 27 Nov 2026 | Stage and Radio | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ GEOMETRIKK is a drum & bass and jungle artist based in United Kingdom, with 10 g
 
 Bypass, Window Kid, 24hr Garage Girls
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geometrikk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geometrikk/)*

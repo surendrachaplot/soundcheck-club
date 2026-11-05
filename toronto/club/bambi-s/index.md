@@ -1,6 +1,6 @@
 # Bambi's
 
-Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "NiceUP! - Trailcam / Nautiluss / Raf Reza" on Fri, 6 Nov 2026.
+Bambi's is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "NiceUP! - Trailcam / Nautiluss / Raf Reza" on Fri, 6 Nov 2026.
 
 Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including 99hp, Amedeo (CA), Carlos Estebban and DINO and 2 more. See dates, start times and who's playing. 1265 Dundas W, Toronto, ON M6J 1X6, Canada.
 
@@ -15,10 +15,10 @@ Bambi's is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with 
 | Sat, 14 Nov 2026 | LOVE ONLY featuring CanCon Legend Eddie C and Kiki LeFreak / Last Call 4am  | Eddie C, Kiki LeFreak |
 | Fri, 20 Nov 2026 | Invisible City Presents: Ryan Spencer & Todd Modes | Invisible City, Ryan Spencer, Todd Modes |
 | Sat, 12 Dec 2026 | everything under the sun - garden disco x roam | Carlos Estebban, roam DJs |
-| Sat, 19 Dec 2026 | SWEATMAS |  |
+| Sat, 19 Dec 2026 | SWEATMAS 2026 |  |
 
 ## Address
 
 1265 Dundas W, Toronto, ON M6J 1X6, Canada, Toronto
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/bambi-s/)*

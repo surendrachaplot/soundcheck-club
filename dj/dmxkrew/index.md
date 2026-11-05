@@ -1,6 +1,6 @@
 # DMX Krew
 
-DMX Krew is a Electro and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, North on Sat, 7 Nov 2026.
+DMX Krew is a Electro and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, North on Sat, 7 Nov 2026.
 
 DMX Krew is an electro and house artist based in United Kingdom, with 105 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 31 more. Often billed alongside Alien Communications, Andre King and DVDE. Next up: TBA, North on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ DMX Krew is an electro and house artist based in United Kingdom, with 105 gigs o
 
 Alien Communications, Andre King, DVDE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmxkrew/)*

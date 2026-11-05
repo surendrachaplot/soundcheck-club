@@ -1,14 +1,15 @@
 # Krissønik
 
-Krissønik is a Italo Disco and EBM artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Freedonia, Barcelona on Fri, 13 Nov 2026.
+Krissønik is a Italo Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Freedonia, Barcelona on Fri, 13 Nov 2026.
 
-Krissønik is an italo disco and ebm artist based in Slovenia, with 12 gigs on soundcheck across Barcelona, Berlin, Ljubljana and Rotterdam. Often billed alongside DASH (SLO), Alphanova and Jo Kazan. Next up: Freedonia, Barcelona on Fri 13 Nov.
+Krissønik is an italo disco and house artist based in Slovenia, with 13 gigs on soundcheck across Barcelona, Berlin, Ljubljana and Rotterdam. Often billed alongside DASH (SLO), Alphanova and Jo Kazan. Next up: Freedonia, Barcelona on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Freedonia | Barcelona |
+| Fri, 4 Dec 2026 | Channel Zero | Ljubljana |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Krissønik is an italo disco and ebm artist based in Slovenia, with 12 gigs on s
 
 DASH (SLO), Alphanova, Jo Kazan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krissonik/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krissonik/)*

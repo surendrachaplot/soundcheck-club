@@ -1,6 +1,6 @@
 # Winslow
 
-Winslow is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
+Winslow is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
 
 Winslow is a drum & bass and jungle artist based in United States of America, with 25 gigs on soundcheck across Boston, Bristol, Columbus and Edinburgh and 8 more. Often billed alongside imo-Lu, Bristol Luke and London Elektricity. Next up: Planet Wax, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Winslow is a drum & bass and jungle artist based in United States of America, wi
 
 imo-Lu, Bristol Luke, London Elektricity
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winslow/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/winslow/)*

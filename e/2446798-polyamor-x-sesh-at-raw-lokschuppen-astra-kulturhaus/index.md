@@ -48,7 +48,7 @@ Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus on Wed 30 Dec, Berlin. 43
 - Segun
 - snoritz
 - Talia Dorr
-- TheMuffinMan
+- The Muffin Man
 - Trancemaster Krause
 - Vagabund
 - VIVI909

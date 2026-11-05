@@ -1,6 +1,6 @@
 # Sebastian Konrad
 
-Sebastian Konrad is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Industrial Location (Berlin), Berlin on Fri, 13 Nov 2026.
+Sebastian Konrad is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Industrial Location (Berlin), Berlin on Fri, 13 Nov 2026.
 
 Sebastian Konrad is a house and afro house artist based in Switzerland, with 58 gigs on soundcheck across Amsterdam, Basel, Berlin and Düsseldorf and 9 more. Often billed alongside Michel Sacher, Read the News and Ronny Grauer. Next up: TBA - Secret Industrial Location (Berlin), Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Sebastian Konrad is a house and afro house artist based in Switzerland, with 58 
 
 Michel Sacher, Read the News, Ronny Grauer
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastiankonrad/)*

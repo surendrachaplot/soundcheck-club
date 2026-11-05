@@ -1,6 +1,6 @@
 # Hartley
 
-Hartley is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Dubai on Sat, 7 Nov 2026.
+Hartley is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Dubai on Sat, 7 Nov 2026.
 
 Hartley is a tech house and house artist based in United Kingdom, with 14 gigs on soundcheck across Barcelona, Dubai, Ibiza and New York City. Often billed alongside CN Williams, Clint Maximus and Darko De Jan. Next up: TBA, Dubai on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hartley is a tech house and house artist based in United Kingdom, with 14 gigs o
 
 CN Williams, Clint Maximus, Darko De Jan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hartley/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hartley/)*

@@ -1,6 +1,6 @@
 # RADIO SOFA (DJ)
 
-RADIO SOFA (DJ) is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Consulat Voltaire, Paris on Sun, 22 Nov 2026.
+RADIO SOFA (DJ) is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Consulat Voltaire, Paris on Sun, 22 Nov 2026.
 
 RADIO SOFA (DJ) is a bass and dub artist based in France, with 26 gigs on soundcheck across Amsterdam, Brussels, Lisbon and Paris. Often billed alongside ojoo, Cristofeu and DONIA. Next up: Le Consulat Voltaire, Paris on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ RADIO SOFA (DJ) is a bass and dub artist based in France, with 26 gigs on soundc
 
 ojoo, Cristofeu, DONIA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radiosofa/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radiosofa/)*

@@ -1,8 +1,8 @@
 # SGUZR
 
-SGUZR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Xero Club, Medellin on Sat, 14 Nov 2026.
+SGUZR is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Xero Club, Medellin on Sat, 14 Nov 2026.
 
-SGUZR is a techno and trance artist, with 20 gigs on soundcheck across Berlin, Bogotá and Medellin. Often billed alongside Common Poetry, Dany F and Jubatus. Next up: Xero Club, Medellin on Sat 14 Nov.
+SGUZR is a techno and trance artist based in Colombia, with 20 gigs on soundcheck across Berlin, Bogotá and Medellin. Often billed alongside Common Poetry, Dany F and Jubatus. Next up: Xero Club, Medellin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ SGUZR is a techno and trance artist, with 20 gigs on soundcheck across Berlin, B
 
 Common Poetry, Dany F, Jubatus
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sguzr/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sguzr/)*

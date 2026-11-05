@@ -1,8 +1,8 @@
 # Mackie
 
-Mackie is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 20 Dec 2026.
+Mackie is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 20 Dec 2026.
 
-Mackie is an electro and tech house artist, with 14 gigs on soundcheck across London and Melbourne. Often billed alongside Basement Maxx, B&H Bronze and C-YAN. Next up: Vittoria Wharf Studio, London on Sun 20 Dec.
+Mackie is an electro and tech house artist based in United Kingdom, with 14 gigs on soundcheck across London and Melbourne. Often billed alongside Basement Maxx, B&H Bronze and C-YAN. Next up: Vittoria Wharf Studio, London on Sun 20 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Mackie is an electro and tech house artist, with 14 gigs on soundcheck across Lo
 
 Basement Maxx, B&H Bronze, C-YAN
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackie/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mackie/)*

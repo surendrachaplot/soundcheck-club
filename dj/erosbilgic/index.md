@@ -1,6 +1,6 @@
 # Eros Bilgic
 
-Eros Bilgic is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Golden Gate, Berlin on Thu, 5 Nov 2026.
+Eros Bilgic is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Golden Gate, Berlin on Thu, 5 Nov 2026.
 
 Eros Bilgic is a house and tech house artist based in Germany, with 13 gigs on soundcheck across Berlin, Freiburg, Ibiza and Karlsruhe and 1 more. Often billed alongside Isaac Elejalde, AKA AKA and AVAION. Next up: Golden Gate, Berlin on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Eros Bilgic is a house and tech house artist based in Germany, with 13 gigs on s
 
 Isaac Elejalde, AKA AKA, AVAION
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erosbilgic/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erosbilgic/)*

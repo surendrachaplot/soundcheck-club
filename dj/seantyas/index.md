@@ -1,6 +1,6 @@
 # Sean Tyas
 
-Sean Tyas is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Sean Tyas is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
 Sean Tyas is a trance and techno artist based in Switzerland, with 20 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Chicago and 12 more. Often billed alongside Billy Gillies, Giuseppe Ottaviani and Infected Mushroom. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Sean Tyas is a trance and techno artist based in Switzerland, with 20 gigs on so
 
 Billy Gillies, Giuseppe Ottaviani, Infected Mushroom
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seantyas/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seantyas/)*

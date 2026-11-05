@@ -1,6 +1,6 @@
 # The One Hundred at The Airliner
 
-The One Hundred at The Airliner on Fri 20 Nov, Los Angeles. 2 artists: Juliet Mendoza and Yazmina. House and Deep House. See the line-up on soundcheck.
+The One Hundred at The Airliner on Fri 20 Nov, Los Angeles. 3 artists: Ben Dragon, Juliet Mendoza and Yazmina. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ The One Hundred at The Airliner on Fri 20 Nov, Los Angeles. 2 artists: Juliet Me
 
 ## Line-up
 
+- Ben Dragon
 - Juliet Mendoza
 - Yazmina
 

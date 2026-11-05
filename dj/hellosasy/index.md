@@ -1,6 +1,6 @@
 # Hello Sasy
 
-Hello Sasy is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Phantom Bar Berlin, Berlin on Thu, 5 Nov 2026.
+Hello Sasy is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Phantom Bar Berlin, Berlin on Thu, 5 Nov 2026.
 
 Hello Sasy is a techno and trance artist based in Spain, with 116 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Penglord, BBetriebswirt and Verushka. Next up: Phantom Bar Berlin, Berlin on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Hello Sasy is a techno and trance artist based in Spain, with 116 gigs on soundc
 
 Penglord, BBetriebswirt, Verushka
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellosasy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellosasy/)*

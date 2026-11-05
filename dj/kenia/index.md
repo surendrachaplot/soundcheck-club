@@ -1,6 +1,6 @@
 # Kenia
 
-Kenia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at feedbk, New York City on Thu, 5 Nov 2026.
+Kenia is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at feedbk, New York City on Thu, 5 Nov 2026.
 
 Kenia is a house and techno artist based in Spain, with 86 gigs on soundcheck across Bogotá, London, Madrid and Miami and 4 more. Often billed alongside Vithz, Rakim Under and David Triana. Next up: feedbk, New York City on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Kenia is a house and techno artist based in Spain, with 86 gigs on soundcheck ac
 
 Vithz, Rakim Under, David Triana
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenia/)*

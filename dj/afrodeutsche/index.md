@@ -1,6 +1,6 @@
 # Afrodeutsche
 
-Afrodeutsche is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The White Hotel, Manchester on Mon, 28 Dec 2026.
+Afrodeutsche is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The White Hotel, Manchester on Mon, 28 Dec 2026.
 
 Afrodeutsche is a tech house and house artist, with 7 gigs on soundcheck across Athens, London, Manchester and Seoul. Often billed alongside Alarico, Anish Kumar and Ayshel. Next up: The White Hotel, Manchester on Mon 28 Dec.
 
@@ -23,4 +23,4 @@ Afrodeutsche is a tech house and house artist, with 7 gigs on soundcheck across 
 
 Alarico, Anish Kumar, Ayshel
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodeutsche/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodeutsche/)*

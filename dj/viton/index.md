@@ -1,6 +1,6 @@
 # Viton
 
-Viton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Universe Athens, Athens on Fri, 11 Dec 2026.
+Viton is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Universe Athens, Athens on Fri, 11 Dec 2026.
 
 Viton is a house and tech house artist based in Greece, with 56 gigs on soundcheck across Athens, Barcelona, Frankfurt and London. Often billed alongside Kobo, Manolaco and Philip Z. Next up: Universe Athens, Athens on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Viton is a house and tech house artist based in Greece, with 56 gigs on soundche
 
 Kobo, Manolaco, Philip Z
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viton/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viton/)*

@@ -1,14 +1,15 @@
 # Sam Laxton
 
-Sam Laxton is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Amnesia, Bangkok on Fri, 6 Nov 2026.
+Sam Laxton is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Amnesia, Bangkok on Fri, 6 Nov 2026.
 
-Sam Laxton is a techno and hardcore artist based in United Kingdom, with 164 gigs on soundcheck across Bangkok, Hong Kong, Shenzhen and Thailand and 1 more. Often billed alongside LonSkii, Puffer P and André Pillar. Next up: Amnesia, Bangkok on Fri 6 Nov.
+Sam Laxton is a techno and hardcore artist based in United Kingdom, with 165 gigs on soundcheck across Bangkok, Hong Kong, Shenzhen and Thailand and 1 more. Often billed alongside LonSkii, Puffer P and André Pillar. Next up: Amnesia, Bangkok on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Amnesia | Bangkok |
+| Sat, 7 Nov 2026 | Mustache Bangkok | Bangkok |
 | Fri, 13 Nov 2026 | Amnesia | Bangkok |
 | Fri, 20 Nov 2026 | Amnesia | Bangkok |
 | Fri, 27 Nov 2026 | Amnesia | Bangkok |
@@ -29,4 +30,4 @@ Sam Laxton is a techno and hardcore artist based in United Kingdom, with 164 gig
 
 LonSkii, Puffer P, André Pillar
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samlaxton/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samlaxton/)*

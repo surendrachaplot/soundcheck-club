@@ -1,6 +1,6 @@
 # EVER
 
-EVER is a House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+EVER is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 EVER is a house artist based in Taiwan, with 6 gigs on soundcheck across Amsterdam and London. Often billed alongside Candy Coup, DIORA and Krai. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ EVER is a house artist based in Taiwan, with 6 gigs on soundcheck across Amsterd
 
 Candy Coup, DIORA, Krai
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ever/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ever/)*

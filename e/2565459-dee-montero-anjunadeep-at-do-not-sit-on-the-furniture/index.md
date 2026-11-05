@@ -1,6 +1,6 @@
 # Dee Montero [Anjunadeep] at Do Not Sit On The Furniture
 
-Dee Montero [Anjunadeep] at Do Not Sit On The Furniture on Sat 26 Dec, Miami. 1 artist: Dee Montero. House and Deep House. See the line-up on soundcheck.
+Dee Montero [Anjunadeep] at Do Not Sit On The Furniture on Sat 26 Dec, Miami. 2 artists: Dee Montero and Lucas Zarate. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Dee Montero [Anjunadeep] at Do Not Sit On The Furniture on Sat 26 Dec, Miami. 1 
 ## Line-up
 
 - Dee Montero
+- Lucas Zarate
 
 *Source: [soundcheck](https://soundcheck.club/e/2565459-dee-montero-anjunadeep-at-do-not-sit-on-the-furniture/)*

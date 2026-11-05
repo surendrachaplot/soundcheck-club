@@ -1,6 +1,6 @@
 # VALON
 
-VALON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at MODULE, Copenhagen on Sat, 14 Nov 2026.
+VALON is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at MODULE, Copenhagen on Sat, 14 Nov 2026.
 
 VALON is a techno and house artist based in Sweden, with 21 gigs on soundcheck across Barcelona, Copenhagen, Gothenburg and New York City and 2 more. Often billed alongside Baime, SAMO [SE] and 7heads. Next up: MODULE, Copenhagen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ VALON is a techno and house artist based in Sweden, with 21 gigs on soundcheck a
 
 Baime, SAMO [SE], 7heads
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valon/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valon/)*

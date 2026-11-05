@@ -1,6 +1,6 @@
 # Ra (MX)
 
-Ra (MX) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 7 Nov 2026.
+Ra (MX) is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Yan Gastro, Istanbul on Sat, 7 Nov 2026.
 
 Ra (MX) is a progressive house and techno artist based in Mexico, with 6 gigs on soundcheck across Berlin, Istanbul, Mexico City and Warsaw. Often billed alongside Benji, Hot TuneiK and Asal. Next up: Yan Gastro, Istanbul on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Ra (MX) is a progressive house and techno artist based in Mexico, with 6 gigs on
 
 Benji, Hot TuneiK, Asal
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramx/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramx/)*

@@ -1,6 +1,6 @@
 # Fabio
 
-Fabio is a Drum & Bass and Jungle artist with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Fabio is a Drum & Bass and Jungle artist with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 Fabio is a drum & bass and jungle artist based in United Kingdom, with 121 gigs on soundcheck across Antwerp, Bali, Barcelona and Berlin and 20 more. Often billed alongside Grooverider, MC GQ and Mantra. Next up: XOYO, London on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ Fabio is a drum & bass and jungle artist based in United Kingdom, with 121 gigs 
 
 Grooverider, MC GQ, Mantra
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabio/)*

@@ -1,6 +1,6 @@
 # Beltran
 
-Beltran is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at D-Edge RIO, Rio-de-janeiro on Fri, 6 Nov 2026.
+Beltran is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at D-Edge RIO, Rio-de-janeiro on Fri, 6 Nov 2026.
 
 Beltran is a house and tech house artist based in United States of America, with 86 gigs on soundcheck across Amsterdam, Austin, Bogotá and Boston and 31 more. Often billed alongside Ben Sterling, ChaseWest and Prospa. Next up: D-Edge RIO, Rio De Janeiro on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ Beltran is a house and tech house artist based in United States of America, with
 
 Ben Sterling, ChaseWest, Prospa
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beltran/)*

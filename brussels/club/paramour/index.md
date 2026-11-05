@@ -1,6 +1,6 @@
 # Paramour
 
-Paramour is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "DÉBRIS 11 - 2Y BDAY" on Fri, 13 Nov 2026.
+Paramour is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "DÉBRIS 11 - 2Y BDAY" on Fri, 13 Nov 2026.
 
 Paramour is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including GARSA, Justine Ferrer, Ottoman Grüw and Reqh and 1 more. See dates, start times and who's playing. 104 Rue d'Arlon, 1000 Buxelles.
 
@@ -15,4 +15,4 @@ Paramour is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, wit
 
 104 Rue d'Arlon, 1000 Buxelles, Brussels
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/paramour/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/paramour/)*

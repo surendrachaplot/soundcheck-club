@@ -1,6 +1,6 @@
 # Joyc
 
-Joyc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Left Bank, Tbilisi on Fri, 6 Nov 2026.
+Joyc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Left Bank, Tbilisi on Fri, 6 Nov 2026.
 
 Joyc is a techno and house artist, with 25 gigs on soundcheck across Liverpool and Tbilisi. Often billed alongside Memotech, Seqta and Elene. Next up: Left Bank, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Joyc is a techno and house artist, with 25 gigs on soundcheck across Liverpool a
 
 Memotech, Seqta, Elene
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyc/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joyc/)*

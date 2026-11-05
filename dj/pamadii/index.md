@@ -1,6 +1,6 @@
 # Pamadii
 
-Pamadii is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hafenbahnhof, Hamburg on Fri, 6 Nov 2026.
+Pamadii is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hafenbahnhof, Hamburg on Fri, 6 Nov 2026.
 
 Pamadii is a techno and trance artist based in Germany, with 16 gigs on soundcheck across Hamburg. Often billed alongside CHICHO, Alexej and Shilo. Next up: Hafenbahnhof, Hamburg on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Pamadii is a techno and trance artist based in Germany, with 16 gigs on soundche
 
 CHICHO, Alexej, Shilo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pamadii/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pamadii/)*

@@ -1,6 +1,6 @@
 # Annyrock
 
-Annyrock is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Under Bron, Stockholm on Fri, 6 Nov 2026.
+Annyrock is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Under Bron, Stockholm on Fri, 6 Nov 2026.
 
 Annyrock is a house and techno artist based in Ukraine, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 13 more. Often billed alongside E.LINA, slin and Ancut. Next up: Under Bron, Stockholm on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Annyrock is a house and techno artist based in Ukraine, with 79 gigs on soundche
 
 E.LINA, slin, Ancut
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annyrock/)*

@@ -1,13 +1,14 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ductwork Houston, Houston on Sat, 7 Nov 2026.
+Eric Prydz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Fri, 6 Nov 2026.
 
-Eric Prydz is a techno and house artist based in Sweden, with 117 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 40 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Ductwork Houston, Houston on Sat 7 Nov.
+Eric Prydz is a techno and house artist based in Sweden, with 118 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 40 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Silo Dallas, Dallas/Fort Worth on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Silo Dallas | Dallas/Fort Worth |
 | Sat, 7 Nov 2026 | Ductwork Houston | Houston |
 | Fri, 20 Nov 2026 | Echostage | Washington DC |
 | Sat, 21 Nov 2026 | The Concourse Project | Austin |
@@ -30,4 +31,4 @@ Eric Prydz is a techno and house artist based in Sweden, with 117 gigs on soundc
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

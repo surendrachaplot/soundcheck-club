@@ -1,6 +1,6 @@
 # not even noticed
 
-not even noticed is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 7 Nov 2026.
+not even noticed is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 7 Nov 2026.
 
 not even noticed is a house and techno artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Berlin and 14 more. Often billed alongside GERKE, Will A and Bliss Inc.. Next up: Tokonoma Club, Frankfurt on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ not even noticed is a house and techno artist based in Germany, with 45 gigs on 
 
 GERKE, Will A, Bliss Inc.
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notevennoticed/)*

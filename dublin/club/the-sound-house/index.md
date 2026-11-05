@@ -1,6 +1,6 @@
 # The Sound House
 
-The Sound House is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "A Love From Outer Space [Sold out]" on Fri, 13 Nov 2026.
+The Sound House is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "A Love From Outer Space [Sold out]" on Fri, 13 Nov 2026.
 
 The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Girls of the Internet, JACK MARLOW, Paqué and Sean Johnston and 1 more. See dates, start times and who's playing. 28 Eden Quay, Dublin, Ireland..
 
@@ -21,4 +21,4 @@ The Sound House is a music venue in Dublin listed on soundcheck. 8 upcoming gigs
 
 28 Eden Quay, Dublin, Ireland., Dublin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-sound-house/)*

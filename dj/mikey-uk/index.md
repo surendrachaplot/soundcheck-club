@@ -1,6 +1,6 @@
 # Mikey (UK)
 
-Mikey (UK) is a Acid and Dub artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Frisbee, Copenhagen on Fri, 6 Nov 2026.
+Mikey (UK) is a Acid and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Frisbee, Copenhagen on Fri, 6 Nov 2026.
 
 Mikey (UK) is an acid and dub artist, with 7 gigs on soundcheck across Copenhagen, London, Osaka and Paris and 1 more. Often billed alongside Will Wiley, Amine Edge & DANCE and Anthony James. Next up: Frisbee, Copenhagen on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Mikey (UK) is an acid and dub artist, with 7 gigs on soundcheck across Copenhage
 
 Will Wiley, Amine Edge & DANCE, Anthony James
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikey-uk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikey-uk/)*

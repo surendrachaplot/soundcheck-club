@@ -1,6 +1,6 @@
 # Culture Shock at The Warehouse
 
-Culture Shock at The Warehouse on Sat 7 Nov, Leeds. 1 artist: Culture Shock. See the line-up on soundcheck.
+Culture Shock at The Warehouse on Sat 7 Nov, Leeds. 2 artists: Culture Shock and GEOMETRIKK. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Culture Shock at The Warehouse on Sat 7 Nov, Leeds. 1 artist: Culture Shock. See
 ## Line-up
 
 - Culture Shock
+- GEOMETRIKK
 
 *Source: [soundcheck](https://soundcheck.club/e/2517464-culture-shock-at-the-warehouse/)*

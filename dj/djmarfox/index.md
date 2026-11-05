@@ -1,6 +1,6 @@
 # DJ Marfox
 
-DJ Marfox is a Kuduro and Club artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
+DJ Marfox is a Kuduro and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ministerium Club, Lisbon on Sat, 7 Nov 2026.
 
 DJ Marfox is a kuduro and club artist based in Portugal, with 72 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 21 more. Often billed alongside Nídia, DJ Lycox and DJ Nigga Fox. Next up: Ministerium Club, Lisbon on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ Marfox is a kuduro and club artist based in Portugal, with 72 gigs on soundch
 
 Nídia, DJ Lycox, DJ Nigga Fox
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmarfox/)*

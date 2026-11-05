@@ -1,6 +1,6 @@
 # Area Manchester
 
-Area Manchester is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "VIVA Reggaeton Manchester - Bad Bunny Tribute" on Sat, 28 Nov 2026.
+Area Manchester is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "VIVA Reggaeton Manchester - Bad Bunny Tribute" on Sat, 28 Nov 2026.
 
 Area Manchester is a music venue in Manchester listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 50 Sackville St, Manchester M1 3WF.
 
@@ -14,4 +14,4 @@ Area Manchester is a music venue in Manchester listed on soundcheck. 1 upcoming 
 
 50 Sackville St, Manchester M1 3WF, Manchester
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/area-manchester/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/area-manchester/)*

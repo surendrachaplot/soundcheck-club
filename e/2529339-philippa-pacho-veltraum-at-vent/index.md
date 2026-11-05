@@ -1,6 +1,6 @@
 # Philippa Pacho / VELTRAUM at VENT
 
-Philippa Pacho / VELTRAUM at VENT on Sat 21 Nov, Tokyo. 6 artists: arow, machìna, Mari Sakurai and NITA and 2 more. Techno. See the line-up on soundcheck.
+Philippa Pacho / VELTRAUM at VENT on Sat 21 Nov, Tokyo. 7 artists: arow, Bundo, machìna and Mari Sakurai and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Philippa Pacho / VELTRAUM at VENT on Sat 21 Nov, Tokyo. 6 artists: arow, machìn
 ## Line-up
 
 - arow
+- Bundo
 - machìna
 - Mari Sakurai
 - NITA

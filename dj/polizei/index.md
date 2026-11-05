@@ -1,6 +1,6 @@
 # Polizei
 
-Polizei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Noce KRK, Krakow on Thu, 5 Nov 2026.
+Polizei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Noce KRK, Krakow on Thu, 5 Nov 2026.
 
 Polizei is a techno and house artist based in Italy, with 35 gigs on soundcheck across Krakow, Milan and Turin. Often billed alongside Gandalf, Bassik and Kessa. Next up: Noce KRK, Krakow on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Polizei is a techno and house artist based in Italy, with 35 gigs on soundcheck 
 
 Gandalf, Bassik, Kessa
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polizei/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polizei/)*

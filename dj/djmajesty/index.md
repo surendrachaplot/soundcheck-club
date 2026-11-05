@@ -1,6 +1,6 @@
 # DJ Majesty
 
-DJ Majesty is a Tech House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Rumble Rooms, Midlands on Sat, 7 Nov 2026.
+DJ Majesty is a Tech House and Afro House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Rumble Rooms, Midlands on Sat, 7 Nov 2026.
 
 DJ Majesty is a tech house and afro house artist based in United Kingdom, with 85 gigs on soundcheck across London and Midlands. Often billed alongside Jerome Six, JAYDAA and Steven Cee. Next up: Rumble Rooms, Midlands on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ DJ Majesty is a tech house and afro house artist based in United Kingdom, with 8
 
 Jerome Six, JAYDAA, Steven Cee
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmajesty/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmajesty/)*

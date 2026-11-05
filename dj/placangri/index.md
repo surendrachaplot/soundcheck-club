@@ -1,6 +1,6 @@
 # P La Cangri
 
-P La Cangri is a Amapiano and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Flair Maison Nyc, New-york-state on Thu, 5 Nov 2026.
+P La Cangri is a Amapiano and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Flair Maison Nyc, New-york-state on Thu, 5 Nov 2026.
 
 P La Cangri is an amapiano and hip-hop artist based in Cuba, with 33 gigs on soundcheck across New York State and New York City. Often billed alongside Crystal Waters and Gene Hunt. Next up: Flair Maison Nyc, New York State on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ P La Cangri is an amapiano and hip-hop artist based in Cuba, with 33 gigs on sou
 
 Crystal Waters, Gene Hunt
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/placangri/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/placangri/)*

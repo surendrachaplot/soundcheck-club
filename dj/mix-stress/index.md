@@ -1,6 +1,6 @@
 # Mix-Stress
 
-Mix-Stress is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Mix-Stress is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Mix-Stress is a house and disco artist based in United Kingdom, with 57 gigs on soundcheck across Ibiza, Leeds, Liverpool and London and 1 more. Often billed alongside Gina Breeze, Krysko and Eats Everything. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Mix-Stress is a house and disco artist based in United Kingdom, with 57 gigs on 
 
 Gina Breeze, Krysko, Eats Everything
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mix-stress/)*

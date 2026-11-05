@@ -1,6 +1,6 @@
 # Die Tektonische Plattenverschiebung
 
-Die Tektonische Plattenverschiebung is a Electro and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Corleone, Munich on Fri, 6 Nov 2026.
+Die Tektonische Plattenverschiebung is a Electro and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Corleone, Munich on Fri, 6 Nov 2026.
 
 Die Tektonische Plattenverschiebung is an electro and techno artist based in Germany, with 41 gigs on soundcheck across Munich. Often billed alongside DJ FM & DJ FREUND, Safahs and ANXA. Next up: Corleone, Munich on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ Die Tektonische Plattenverschiebung is an electro and techno artist based in Ger
 
 DJ FM & DJ FREUND, Safahs, ANXA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dietektonischeplattenverschiebung/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dietektonischeplattenverschiebung/)*

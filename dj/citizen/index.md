@@ -1,6 +1,6 @@
 # CITIZEN
 
-CITIZEN is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Greyhound, London on Thu, 5 Nov 2026.
+CITIZEN is a Jungle and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Greyhound, London on Thu, 5 Nov 2026.
 
 CITIZEN is a jungle and garage artist based in United Kingdom, with 59 gigs on soundcheck across Liverpool, London, Melbourne and Montreal. Often billed alongside INSECT CRUSHA, OS:MAN and A.N.T. Next up: The Greyhound, London on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ CITIZEN is a jungle and garage artist based in United Kingdom, with 59 gigs on s
 
 INSECT CRUSHA, OS:MAN, A.N.T
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/citizen/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/citizen/)*

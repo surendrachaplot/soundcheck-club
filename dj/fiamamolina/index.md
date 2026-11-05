@@ -1,6 +1,6 @@
 # Fiama Molina
 
-Fiama Molina is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 5 Nov 2026.
+Fiama Molina is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Les Enfants Brillants, Barcelona on Thu, 5 Nov 2026.
 
 Fiama Molina is a techno and acid artist based in Argentina, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 1 more. Often billed alongside Fiama, Josefina Muñoz and Faustø. Next up: Les Enfants Brillants, Barcelona on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Fiama Molina is a techno and acid artist based in Argentina, with 25 gigs on sou
 
 Fiama, Josefina Muñoz, Faustø
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamamolina/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiamamolina/)*

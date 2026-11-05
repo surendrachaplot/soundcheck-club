@@ -1,8 +1,8 @@
 # Fresco
 
-Fresco is a Deep House and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sonora Club, Central on Sat, 7 Nov 2026.
+Fresco is a Deep House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Sonora Club, Central on Sat, 7 Nov 2026.
 
-Fresco is a deep house and club artist, with 7 gigs on soundcheck across Barcelona, Central, London and Madrid and 3 more. Often billed alongside Alythia Kwan, Andrewww and Brata. Next up: Sonora Club, Central on Sat 7 Nov.
+Fresco is a deep house and club artist based in Italy, with 7 gigs on soundcheck across Barcelona, Central, London and Madrid and 3 more. Often billed alongside Alythia Kwan, Andrewww and Brata. Next up: Sonora Club, Central on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Fresco is a deep house and club artist, with 7 gigs on soundcheck across Barcelo
 
 Alythia Kwan, Andrewww, Brata
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fresco/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fresco/)*

@@ -1,6 +1,6 @@
 # Carole Fe
 
-Carole Fe is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Poisson Volant, Paris on Fri, 6 Nov 2026.
+Carole Fe is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Poisson Volant, Paris on Fri, 6 Nov 2026.
 
 Carole Fe is a house and electro artist based in France, with 12 gigs on soundcheck across Paris. Often billed alongside DJ Sundae, Gabbor and Adam Spielman. Next up: Le Poisson Volant, Paris on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Carole Fe is a house and electro artist based in France, with 12 gigs on soundch
 
 DJ Sundae, Gabbor, Adam Spielman
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carolefe/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carolefe/)*

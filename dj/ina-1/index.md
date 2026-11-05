@@ -1,6 +1,6 @@
 # INA (1)
 
-INA (1) is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 6 Nov 2026.
+INA (1) is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 6 Nov 2026.
 
 INA is a bass and house artist based in Germany, with 8 gigs on soundcheck across Amsterdam, Antwerp, Hong Kong and Manchester and 1 more. Often billed alongside Ayce Bio, Bianca Oblivion and Tera Kòrá. Next up: SISSI'S Amsterdam, Amsterdam on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ INA is a bass and house artist based in Germany, with 8 gigs on soundcheck acros
 
 Ayce Bio, Bianca Oblivion, Tera Kòrá
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ina-1/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ina-1/)*

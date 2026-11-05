@@ -1,6 +1,6 @@
 # MVPDJ
 
-MVPDJ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at EL SÓTANO, Madrid on Sat, 7 Nov 2026.
+MVPDJ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at EL SÓTANO, Madrid on Sat, 7 Nov 2026.
 
 MVPDJ is a techno and industrial artist based in Spain, with 45 gigs on soundcheck across Madrid. Often billed alongside JAWS, Kuroi and Lexmax. Next up: EL SÓTANO, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MVPDJ is a techno and industrial artist based in Spain, with 45 gigs on soundche
 
 JAWS, Kuroi, Lexmax
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mvpdj/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mvpdj/)*

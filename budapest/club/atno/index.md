@@ -1,8 +1,8 @@
 # Atno
 
-Atno is a music venue in Budapest with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Elektroázis" on Fri, 6 Nov 2026.
+Atno is a music venue in Budapest with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Elektroázis" on Fri, 6 Nov 2026.
 
-Atno is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with line-ups including Adam Pits, Aikatherina, Arash Ete and Atomik and 2 more. See dates, start times and who's playing. 1044, Zsilip utca 17..
+Atno is a music venue in Budapest listed on soundcheck. 10 upcoming gigs, with line-ups including Adam Pits, Aikatherina, Arash Ete and Atomik and 2 more. See dates, start times and who's playing. 1044, Zsilip utca 17..
 
 ## What's on
 
@@ -13,6 +13,7 @@ Atno is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with li
 | Fri, 13 Nov 2026 | ABC Events w/Cap | Cap, Claudio Imperatrice, Sandor (2), Skjaerstad |
 | Sat, 14 Nov 2026 | 4/4 Bass Focus | Csodaszoba, Zakhorov, tshabee |
 | Fri, 20 Nov 2026 | Népoázis |  |
+| Sat, 21 Nov 2026 | Serbian Freedom Trip | Boza Podunavac, DJ Budai, Dusan Kacarevic, Mirko Lazarevic, Pavle Terzic |
 | Fri, 27 Nov 2026 | VeryGoodPlusFriends with Maša, Route 8, DJ ZBB and many more | Claudio Imperatrice, DJ ZBB, Johanna Elias, Monti1one, Pierre Vice, Pizza Amore, Route 8, maša (SI) |
 | Sat, 28 Nov 2026 | FREE SEQUENCE Club Night #3 - Special Guest: Adam Pits | Adam Pits, Vava (1), ZSÁGER BALÁZS, sabw.ay |
 | Fri, 18 Dec 2026 | ◉ RIGHT TIME - 20 YEARS OF RUPTURE - Double O, Decibella, Blackeye MC ◉ | Aikatherina, Benc, Blackeye MC, Decibella, Double O, Mentalien |
@@ -22,4 +23,4 @@ Atno is a music venue in Budapest listed on soundcheck. 9 upcoming gigs, with li
 
 1044, Zsilip utca 17., Budapest
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/atno/)*

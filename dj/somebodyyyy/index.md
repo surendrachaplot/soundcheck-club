@@ -1,14 +1,15 @@
 # SOMEBODYYYY
 
-SOMEBODYYYY is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at fono, Kuala Lumpur on Fri, 6 Nov 2026.
+SOMEBODYYYY is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at fono, Kuala Lumpur on Fri, 6 Nov 2026.
 
-SOMEBODYYYY is a bass and dubstep artist based in Hungary, with 13 gigs on soundcheck across Kuala Lumpur, Shanghai and Tokyo. Often billed alongside Deep Tempo, dBridge and Acrocanthosaurus. Next up: fono, Kuala Lumpur on Fri 6 Nov.
+SOMEBODYYYY is a bass and dubstep artist based in Hungary, with 14 gigs on soundcheck across Kuala Lumpur, Shanghai, Singapore and Tokyo. Often billed alongside Deep Tempo, dBridge and Acrocanthosaurus. Next up: fono, Kuala Lumpur on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | fono | Kuala Lumpur |
+| Sat, 14 Nov 2026 | The Coup by BUNKERBUNKER!! | Singapore |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SOMEBODYYYY is a bass and dubstep artist based in Hungary, with 13 gigs on sound
 
 Deep Tempo, dBridge, Acrocanthosaurus
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somebodyyyy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/somebodyyyy/)*

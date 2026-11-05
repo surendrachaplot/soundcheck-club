@@ -1,6 +1,6 @@
 # Rossko
 
-Rossko is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at fabric, London on Sun, 8 Nov 2026.
+Rossko is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at fabric, London on Sun, 8 Nov 2026.
 
 Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 15 more. Often billed alongside Julian Anthony, Rich NXT and Reeshy. Next up: fabric, London on Sun 8 Nov.
 
@@ -11,6 +11,7 @@ Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on
 | Sun, 8 Nov 2026 | fabric | London |
 | Sat, 14 Nov 2026 | Upper East | London |
 | Sat, 14 Nov 2026 | Hoppetosse | Berlin |
+| Fri, 27 Nov 2026 | Bikini Club | Barcelona |
 | Sat, 5 Dec 2026 | Sankeys | Manchester |
 
 ## Recently played
@@ -28,4 +29,4 @@ Rossko is a house and tech house artist based in United Kingdom, with 84 gigs on
 
 Julian Anthony, Rich NXT, Reeshy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossko/)*

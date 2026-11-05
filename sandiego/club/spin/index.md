@@ -1,6 +1,6 @@
 # Spin
 
-Spin is a music venue in San Diego with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "FNGRS CRSSD x knownunknown present BAUGRUPPE90 + 6 SENSE" on Sat, 7 Nov 2026.
+Spin is a music venue in San Diego with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "FNGRS CRSSD x knownunknown present BAUGRUPPE90 + 6 SENSE" on Sat, 7 Nov 2026.
 
 Spin is a music venue in San Diego listed on soundcheck. 11 upcoming gigs, with line-ups including 6 SENSE, Alan Dixon, BAUGRUPPE90 and Cam Stockman and 2 more. See dates, start times and who's playing. 2028 Hancock Street; San Diego, CA 92110, USA.
 
@@ -23,4 +23,4 @@ Spin is a music venue in San Diego listed on soundcheck. 11 upcoming gigs, with 
 
 2028 Hancock Street; San Diego, CA 92110, USA, San Diego
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin/)*

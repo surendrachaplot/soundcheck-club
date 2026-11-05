@@ -1,6 +1,6 @@
 # cassandrah
 
-cassandrah is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Dual, Bangkok on Sat, 7 Nov 2026.
+cassandrah is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Dual, Bangkok on Sat, 7 Nov 2026.
 
 cassandrah is a techno and industrial artist based in Italy, with 42 gigs on soundcheck across Antwerp, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Rian Wood, Axciid and GØBLIN. Next up: Dual, Bangkok on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ cassandrah is a techno and industrial artist based in Italy, with 42 gigs on sou
 
 Rian Wood, Axciid, GØBLIN
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassandrah/)*

@@ -1,6 +1,6 @@
 # ORI (ozone)
 
-ORI (ozone) is a Acid and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Beaver Works, Leeds on Fri, 6 Nov 2026.
+ORI (ozone) is a Acid and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Beaver Works, Leeds on Fri, 6 Nov 2026.
 
 ORI (ozone) is an acid and techno artist based in United Kingdom, with 3 gigs on soundcheck across Leeds and Manchester. Often billed alongside Jake Rollinson, E-Boo and Leaha. Next up: Beaver Works, Leeds on Fri 6 Nov.
 
@@ -16,4 +16,4 @@ ORI (ozone) is an acid and techno artist based in United Kingdom, with 3 gigs on
 
 Jake Rollinson, E-Boo, Leaha
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ori(ozone)/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ori(ozone)/)*

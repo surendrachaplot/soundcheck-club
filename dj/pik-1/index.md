@@ -1,6 +1,6 @@
 # pik (1)
 
-pik (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Amp, Münster on Sat, 5 Dec 2026.
+pik (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Amp, Münster on Sat, 5 Dec 2026.
 
 pik is a techno and house artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Münster. Often billed alongside makahaun, Katana. and Mariami. Next up: Amp, Münster on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ pik is a techno and house artist based in Germany, with 32 gigs on soundcheck ac
 
 makahaun, Katana., Mariami
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pik-1/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pik-1/)*

@@ -1,6 +1,6 @@
 # Psyon
 
-Psyon is a music venue in Okinawa with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Line Out" on Fri, 6 Nov 2026.
+Psyon is a music venue in Okinawa with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Line Out" on Fri, 6 Nov 2026.
 
 Psyon is a music venue in Okinawa listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Psyon is a music venue in Okinawa listed on soundcheck. 1 upcoming gig. See date
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Line Out |  |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/okinawa/club/psyon/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/okinawa/club/psyon/)*

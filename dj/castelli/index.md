@@ -1,6 +1,6 @@
 # Francesco Castelli
 
-Francesco Castelli is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ulu Cliffhouse, Bali on Sat, 7 Nov 2026.
+Francesco Castelli is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ulu Cliffhouse, Bali on Sat, 7 Nov 2026.
 
 Francesco Castelli is a house and tech house artist based in Italy, with 17 gigs on soundcheck across Bali. Often billed alongside Kaiser Waldon, Sara Siu and Nacho Corominas. Next up: Ulu Cliffhouse, Bali on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Francesco Castelli is a house and tech house artist based in Italy, with 17 gigs
 
 Kaiser Waldon, Sara Siu, Nacho Corominas
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castelli/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castelli/)*

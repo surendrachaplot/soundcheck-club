@@ -1,6 +1,6 @@
 # Brutalismus 3000 at The Regency Ballroom
 
-Brutalismus 3000 at The Regency Ballroom on Sun 22 Nov, San Francisco/Oakland. 6 artists: ali rq, Brutalismus 3000, deBasement and Erika and 2 more. See the line-up on soundcheck.
+Brutalismus 3000 at The Regency Ballroom on Sun 22 Nov, San Francisco/Oakland. 6 artists: ali rq, Brutalismus 3000, deBasement and erika (SF) and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Brutalismus 3000 at The Regency Ballroom on Sun 22 Nov, San Francisco/Oakland. 6
 - ali rq
 - Brutalismus 3000
 - deBasement
-- Erika
+- erika (SF)
 - Eurohead
 - sfcowboy
 

@@ -1,6 +1,6 @@
 # Kitano
 
-Kitano is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Aiiro Cafe, Tokyo on Sat, 7 Nov 2026.
+Kitano is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Aiiro Cafe, Tokyo on Sat, 7 Nov 2026.
 
 Kitano is a house and tech house artist based in Japan, with 47 gigs on soundcheck across Tokyo. Often billed alongside Issyo, NOONI NOBU and KDT. Next up: Aiiro Cafe, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kitano is a house and tech house artist based in Japan, with 47 gigs on soundche
 
 Issyo, NOONI NOBU, KDT
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitano/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitano/)*

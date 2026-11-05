@@ -1,6 +1,6 @@
 # Tatiana Bar
 
-Tatiana Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Tropicalia IV" on Sat, 12 Dec 2026.
+Tatiana Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Tropicalia IV" on Sat, 12 Dec 2026.
 
 Tatiana Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Tatiana Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. 
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Tropicalia IV |  |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tatiana-bar/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tatiana-bar/)*

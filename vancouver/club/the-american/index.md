@@ -1,18 +1,19 @@
 # The American
 
-The American is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Fri, 23 Oct 2026. The next is "Fonville X Fribush with MA: Q" on Fri, 23 Oct 2026.
+The American is a music venue in Vancouver with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "R3D at The American" on Fri, 6 Nov 2026.
 
-The American is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
+The American is a music venue in Vancouver listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | Fonville X Fribush with MA: Q |  |
-| Sat, 24 Oct 2026 | Diles Que No Me Maten with Infidelity |  |
+| Fri, 6 Nov 2026 | R3D at The American |  |
+| Sat, 7 Nov 2026 | LUCY (Cooper B Handy) |  |
+| Sat, 7 Nov 2026 | Pub Jams with Christian Flores |  |
 
 ## Address
 
 926 Main St, Vancouver, BC V6A 2W1, Vancouver
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-american/)*

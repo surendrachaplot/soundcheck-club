@@ -24,7 +24,7 @@ Unmute 3RD ANNIVERSARY DAY I & II & III on Thu 5 Nov, Hanoi. 17 artists: CON.R, 
 - TaoFu
 - Tiny Giant
 - Viet Anh
-- Yasmin
+- YASMIN (2)
 - YELLOWUHURU
 - YKK (CN)
 

@@ -1,6 +1,6 @@
 # Youknow
 
-Youknow is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
+Youknow is a Breakbeat and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OT301, Amsterdam on Sat, 12 Dec 2026.
 
 Youknow is a breakbeat and bass artist, with 6 gigs on soundcheck across Amsterdam, Helsinki and Seoul. Often billed alongside Antoinette, BADSISTA and Caldera. Next up: OT301, Amsterdam on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Youknow is a breakbeat and bass artist, with 6 gigs on soundcheck across Amsterd
 
 Antoinette, BADSISTA, Caldera
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youknow/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youknow/)*

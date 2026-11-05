@@ -1,6 +1,6 @@
 # Massive
 
-Massive is a music venue in Seattle with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "TKVR presents: DJ Girlfriends" on Thu, 19 Nov 2026.
+Massive is a music venue in Seattle with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "TKVR presents: DJ Girlfriends" on Thu, 19 Nov 2026.
 
 Massive is a music venue in Seattle listed on soundcheck. 2 upcoming gigs, with line-ups including Bimbo Hypnosis, Korra the Kid and Mirin Doja. See dates, start times and who's playing. 619 E Pine Street, Seattle, WA 98122.
 
@@ -15,4 +15,4 @@ Massive is a music venue in Seattle listed on soundcheck. 2 upcoming gigs, with 
 
 619 E Pine Street, Seattle, WA 98122, Seattle
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/massive/)*

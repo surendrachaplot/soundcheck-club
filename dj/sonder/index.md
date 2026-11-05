@@ -1,6 +1,6 @@
 # Sonder (1)
 
-Sonder (1) is a Disco and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cadavra, Madrid on Fri, 6 Nov 2026.
+Sonder (1) is a Disco and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cadavra, Madrid on Fri, 6 Nov 2026.
 
 Sonder is a disco and trance artist based in Spain, with 8 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Bea Moy, Luska and Carla Clay. Next up: Cadavra, Madrid on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Sonder is a disco and trance artist based in Spain, with 8 gigs on soundcheck ac
 
 Bea Moy, Luska, Carla Clay
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonder/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonder/)*

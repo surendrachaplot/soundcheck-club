@@ -1,6 +1,6 @@
 # Dusky
 
-Dusky is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sacré, Paris on Fri, 6 Nov 2026.
+Dusky is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sacré, Paris on Fri, 6 Nov 2026.
 
 Dusky is a house and techno artist based in United Kingdom, with 113 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 40 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: Sacré, Paris on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Dusky is a house and techno artist based in United Kingdom, with 113 gigs on sou
 
 Dan Shake, Denham Audio, Ella Knight
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

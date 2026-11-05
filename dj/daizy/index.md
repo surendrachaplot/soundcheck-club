@@ -1,14 +1,15 @@
 # Daizy
 
-Daizy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Daizy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
-Daizy is a house and techno artist based in United States of America, with 40 gigs on soundcheck across Athens, Los Angeles, Medellin and Miami and 3 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
+Daizy is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Athens, Los Angeles, Medellin and Miami and 3 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - Jacks Bar | South-korea |
+| Sat, 5 Dec 2026 | Paraiso Estereo | Miami |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Daizy is a house and techno artist based in United States of America, with 40 gi
 
 Max Stern, Bakke, Cole Knight
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daizy/)*

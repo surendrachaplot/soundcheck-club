@@ -1,6 +1,6 @@
 # Brett Johnson
 
-Brett Johnson is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vibehaus ATX, Austin on Fri, 6 Nov 2026.
+Brett Johnson is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Vibehaus ATX, Austin on Fri, 6 Nov 2026.
 
 Brett Johnson is a house and acid artist based in United States of America, with 193 gigs on soundcheck across Austin, Chicago, Denver and Detroit and 7 more. Often billed alongside Horse Opera, Brother Pate and Marcus Lott. Next up: Vibehaus ATX, Austin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Brett Johnson is a house and acid artist based in United States of America, with
 
 Horse Opera, Brother Pate, Marcus Lott
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brettjohnson/)*

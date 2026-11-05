@@ -1,6 +1,6 @@
 # madmami
 
-madmami is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 6 Nov 2026.
+madmami is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 6 Nov 2026.
 
 madmami is a bass and breakbeat artist, with 17 gigs on soundcheck across Warsaw. Often billed alongside gummi, Generator42 and Hermeneia. Next up: K-Bar Powiśle, Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ madmami is a bass and breakbeat artist, with 17 gigs on soundcheck across Warsaw
 
 gummi, Generator42, Hermeneia
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmami/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madmami/)*

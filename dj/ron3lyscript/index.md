@@ -1,6 +1,6 @@
 # ron3lyscript
 
-ron3lyscript is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
+ron3lyscript is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at HVEN, Tokyo on Fri, 13 Nov 2026.
 
 ron3lyscript is a drum & bass and jungle artist based in Japan, with 35 gigs on soundcheck across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Jackit. Next up: HVEN, Tokyo on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ ron3lyscript is a drum & bass and jungle artist based in Japan, with 35 gigs on 
 
 SN_Yeah, ReFuCafé, Jackit
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ron3lyscript/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ron3lyscript/)*

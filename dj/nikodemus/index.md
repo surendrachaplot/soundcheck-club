@@ -1,6 +1,6 @@
 # Niko Demus
 
-Niko Demus is a Experimental and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Galeria Zé Dos Bois, Lisbon on Sat, 14 Nov 2026.
+Niko Demus is a Experimental and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Galeria Zé Dos Bois, Lisbon on Sat, 14 Nov 2026.
 
 Niko Demus is an experimental and trance artist based in Finland, with 38 gigs on soundcheck across Amsterdam, Berlin, Bristol and Helsinki and 4 more. Often billed alongside MFM (FI), Glayden and Katerina. Next up: Galeria Zé Dos Bois, Lisbon on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Niko Demus is an experimental and trance artist based in Finland, with 38 gigs o
 
 MFM (FI), Glayden, Katerina
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikodemus/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikodemus/)*

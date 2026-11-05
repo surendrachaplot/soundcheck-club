@@ -1,6 +1,6 @@
 # Patrik Pagan
 
-Patrik Pagan is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kramladen, Vienna on Fri, 6 Nov 2026.
+Patrik Pagan is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kramladen, Vienna on Fri, 6 Nov 2026.
 
 Patrik Pagan is a techno and acid artist based in Austria, with 35 gigs on soundcheck across Amsterdam, Budapest, Munich and Stockholm and 1 more. Often billed alongside Relinquo, Alena Noctis and DANBERG. Next up: Kramladen, Vienna on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Patrik Pagan is a techno and acid artist based in Austria, with 35 gigs on sound
 
 Relinquo, Alena Noctis, DANBERG
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikpagan/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patrikpagan/)*

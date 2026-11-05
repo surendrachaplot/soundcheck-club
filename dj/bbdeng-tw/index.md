@@ -1,6 +1,6 @@
 # BB Deng
 
-BB Deng is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
+BB Deng is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat, 28 Nov 2026.
 
 BB Deng is a techno and tech house artist, with 60 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Leipzig and 4 more. Often billed alongside Sika Akis, Nils Ohrmann and Kaminka Merel. Next up: TBA - Secret Location, Neukölln (near Sonnenallee), Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BB Deng is a techno and tech house artist, with 60 gigs on soundcheck across Ban
 
 Sika Akis, Nils Ohrmann, Kaminka Merel
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbdeng-tw/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbdeng-tw/)*

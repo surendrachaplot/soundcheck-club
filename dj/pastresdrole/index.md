@@ -1,6 +1,6 @@
 # pastresdrole
 
-pastresdrole is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Super7, Lyon on Sun, 8 Nov 2026.
+pastresdrole is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Super7, Lyon on Sun, 8 Nov 2026.
 
 pastresdrole is a techno and breakbeat artist, with 14 gigs on soundcheck across Glasgow, Lyon and Paris. Often billed alongside Subsism, Alias and Axonberg. Next up: Super7, Lyon on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ pastresdrole is a techno and breakbeat artist, with 14 gigs on soundcheck across
 
 Subsism, Alias, Axonberg
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastresdrole/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastresdrole/)*

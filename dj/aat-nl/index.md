@@ -1,6 +1,6 @@
 # AAT (NL)
 
-AAT (NL) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+AAT (NL) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 AAT (NL) is a house and tech house artist based in Netherlands, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 12 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ AAT (NL) is a house and tech house artist based in Netherlands, with 92 gigs on 
 
 Prunk, Michel de Hey, Benny Rodrigues
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aat-nl/)*

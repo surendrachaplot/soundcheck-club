@@ -1,6 +1,6 @@
 # LIIA
 
-LIIA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Fuchs2, Prague on Fri, 20 Nov 2026.
+LIIA is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fuchs2, Prague on Fri, 20 Nov 2026.
 
 LIIA is a techno and tech house artist based in Australia, with 59 gigs on soundcheck across Beijing, Bratislava, Melbourne and New South Wales and 2 more. Often billed alongside Bryan Ro, Manu Neves and Ravi Luchesi. Next up: Fuchs2, Prague on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ LIIA is a techno and tech house artist based in Australia, with 59 gigs on sound
 
 Bryan Ro, Manu Neves, Ravi Luchesi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liia/)*

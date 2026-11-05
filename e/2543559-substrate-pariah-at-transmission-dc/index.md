@@ -1,10 +1,10 @@
 # SUBSTRATE: Pariah at TRANSMISSION DC
 
-SUBSTRATE: Pariah at TRANSMISSION DC on Fri 6 Nov, Washington DC. 1 artist: Pariah. Techno. See the line-up on soundcheck.
+SUBSTRATE: Pariah at TRANSMISSION DC on Thu 5 Nov, Washington DC. 1 artist: Pariah. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 6 Nov 2026 |
+| Date | Thu, 5 Nov 2026 |
 | Venue | TRANSMISSION DC |
 | City | Washington DC |
 

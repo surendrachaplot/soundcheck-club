@@ -1,6 +1,6 @@
 # Boytoy
 
-Boytoy is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Poor Boy's, New Orleans on Sat, 7 Nov 2026.
+Boytoy is a Breakbeat and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Poor Boy's, New Orleans on Sat, 7 Nov 2026.
 
 Boytoy is a breakbeat and techno artist based in United States of America, with 7 gigs on soundcheck across Los Angeles, Mexico City and New Orleans. Often billed alongside AVILA, Cabizbajo and H3llnah. Next up: Poor Boy's, New Orleans on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Boytoy is a breakbeat and techno artist based in United States of America, with 
 
 AVILA, Cabizbajo, H3llnah
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boytoy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boytoy/)*

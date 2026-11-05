@@ -1,6 +1,6 @@
 # Jesse You
 
-Jesse You is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hertz, Seoul on Fri, 6 Nov 2026.
+Jesse You is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hertz, Seoul on Fri, 6 Nov 2026.
 
 Jesse You is a house and techno artist based in South Korea, with 251 gigs on soundcheck across Bali, Bangkok, Barcelona and Beijing and 15 more. Often billed alongside JNS, Jucid and Jimin. Next up: Hertz, Seoul on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Jesse You is a house and techno artist based in South Korea, with 251 gigs on so
 
 JNS, Jucid, Jimin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseyou/)*

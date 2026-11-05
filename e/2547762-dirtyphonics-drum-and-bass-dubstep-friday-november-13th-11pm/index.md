@@ -1,6 +1,6 @@
 # Dirtyphonics (DRUM AND BASS & DUBSTEP) FRIDAY NOVEMBER 13TH (11PM) WOODSHOP BROOKLYN at The Woodshop
 
-Dirtyphonics (DRUM AND BASS & DUBSTEP) FRIDAY NOVEMBER 13TH (11PM) WOODSHOP BROOKLYN at The Woodshop on Fri 13 Nov, New York City. 5 artists: Dirtyphonics, Excision, Faster and RaW and 1 more. Drum & Bass and Dubstep. See the line-up on soundcheck.
+Dirtyphonics (DRUM AND BASS & DUBSTEP) FRIDAY NOVEMBER 13TH (11PM) WOODSHOP BROOKLYN at The Woodshop on Fri 13 Nov, New York City. 8 artists: Dirtyphonics, Excision, Faster and RaW and 4 more. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,9 @@ Dirtyphonics (DRUM AND BASS & DUBSTEP) FRIDAY NOVEMBER 13TH (11PM) WOODSHOP BROO
 - Excision
 - Faster
 - RaW
+- Skrillex
 - Skuzz
+- The Chainsmokers
+- Ultra DNB
 
 *Source: [soundcheck](https://soundcheck.club/e/2547762-dirtyphonics-drum-and-bass-dubstep-friday-november-13th-11pm/)*

@@ -1,6 +1,6 @@
 # DJ Habibeats
 
-DJ Habibeats is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Savaya Bali, Bali on Sat, 28 Nov 2026.
+DJ Habibeats is a House and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Savaya Bali, Bali on Sat, 28 Nov 2026.
 
 DJ Habibeats is a house and hip-hop artist based in United States of America, with 55 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 24 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Savaya Bali, Bali on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, wi
 
 AUGUSTE, Bianca Maieli, Ushka
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhabibeats/)*

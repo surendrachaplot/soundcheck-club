@@ -1,14 +1,15 @@
 # session 4000
 
-session 4000 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
+session 4000 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Golden Gate, Berlin on Fri, 27 Nov 2026.
 
-session 4000 is a techno and house artist based in Belgium, with 46 gigs on soundcheck across Beijing, Berlin, Bogotá and Brussels and 13 more. Often billed alongside A. Brehme, DRAMA SOURCE ARTIFACTS and Astral Travel. Next up: Golden Gate, Berlin on Fri 27 Nov.
+session 4000 is a techno and house artist based in Belgium, with 47 gigs on soundcheck across Beijing, Berlin, Bogotá and Brussels and 13 more. Often billed alongside A. Brehme, DRAMA SOURCE ARTIFACTS and Astral Travel. Next up: Golden Gate, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Golden Gate | Berlin |
+| Fri, 4 Dec 2026 | Mena Berlin | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ session 4000 is a techno and house artist based in Belgium, with 46 gigs on soun
 
 A. Brehme, DRAMA SOURCE ARTIFACTS, Astral Travel
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/session4000/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/session4000/)*

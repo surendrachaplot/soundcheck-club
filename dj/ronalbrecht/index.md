@@ -1,14 +1,15 @@
 # Ron Albrecht
 
-Ron Albrecht is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
+Ron Albrecht is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
 
-Ron Albrecht is a techno and dub techno artist based in Germany, with 12 gigs on soundcheck across Berlin, Madrid, Porto and Stuttgart. Often billed alongside A Thousand Details, DVS1 and Montero. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
+Ron Albrecht is a techno and dub techno artist based in Germany, with 13 gigs on soundcheck across Berlin, Madrid, Porto and Stuttgart and 1 more. Often billed alongside A Thousand Details, DVS1 and Montero. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Ron Albrecht is a techno and dub techno artist based in Germany, with 12 gigs on
 
 A Thousand Details, DVS1, Montero
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronalbrecht/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronalbrecht/)*

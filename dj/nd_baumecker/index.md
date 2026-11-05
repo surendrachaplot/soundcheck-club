@@ -1,13 +1,14 @@
 # nd_baumecker
 
-nd_baumecker is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
+nd_baumecker is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Say No More Madrid, Madrid on Thu, 5 Nov 2026.
 
-nd_baumecker is a house and techno artist based in Germany, with 136 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: Oneonefive., Porto on Sat 7 Nov.
+nd_baumecker is a house and techno artist based in Germany, with 137 gigs on soundcheck across Athens, Bali, Bangkok and Barcelona and 43 more. Often billed alongside Jorkes, Steffi and Efdemin. Next up: Say No More Madrid, Madrid on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | Say No More Madrid | Madrid |
 | Sat, 7 Nov 2026 | Oneonefive. | Porto |
 | Fri, 20 Nov 2026 | Shredenhams | Bristol |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -28,4 +29,4 @@ nd_baumecker is a house and techno artist based in Germany, with 136 gigs on sou
 
 Jorkes, Steffi, Efdemin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nd_baumecker/)*

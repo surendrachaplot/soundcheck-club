@@ -1,6 +1,6 @@
 # Jungla London
 
-Jungla London is a music venue in London with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Techno Funk 6.0" on Fri, 6 Nov 2026.
+Jungla London is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Techno Funk 6.0" on Fri, 6 Nov 2026.
 
 Jungla London is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Ale Grooves, Areeb Abbasi, Auseeb and HAIG and 2 more. See dates, start times and who's playing. 22 Inverness St, London NW1 7HJ.
 
@@ -16,4 +16,4 @@ Jungla London is a music venue in London listed on soundcheck. 3 upcoming gigs, 
 
 22 Inverness St, London NW1 7HJ, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/jungla-london/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/jungla-london/)*

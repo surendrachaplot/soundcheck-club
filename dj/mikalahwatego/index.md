@@ -1,6 +1,6 @@
 # Mikalah Watego
 
-Mikalah Watego is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Collingwood Basement, Melbourne on Fri, 6 Nov 2026.
+Mikalah Watego is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Collingwood Basement, Melbourne on Fri, 6 Nov 2026.
 
 Mikalah Watego is a house and techno artist based in Australia, with 44 gigs on soundcheck across Brisbane, Byron Bay, Melbourne and Sydney. Often billed alongside Moopie, DAWS and Hasvat Informant. Next up: Collingwood Basement, Melbourne on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Mikalah Watego is a house and techno artist based in Australia, with 44 gigs on 
 
 Moopie, DAWS, Hasvat Informant
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikalahwatego/)*

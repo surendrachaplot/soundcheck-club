@@ -1,6 +1,6 @@
 # Golden Pudel Club
 
-Golden Pudel Club is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "ULTRA LIGHT PLUS" on Fri, 13 Nov 2026.
+Golden Pudel Club is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ULTRA LIGHT PLUS" on Fri, 13 Nov 2026.
 
 Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including Anton Jonathan, ATAVEM, Beau Wanzer and Danya (DE) and 2 more. See dates, start times and who's playing. St. Pauli Fischmarkt 27; 20359 Hamburg; Germany.
 
@@ -19,4 +19,4 @@ Golden Pudel Club is a music venue in Hamburg listed on soundcheck. 6 upcoming g
 
 St. Pauli Fischmarkt 27; 20359 Hamburg; Germany, Hamburg
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/golden-pudel-club/)*

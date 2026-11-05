@@ -1,6 +1,6 @@
 # DJ Low (2)
 
-DJ Low (2) is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at YYT-育音堂小镇, Shanghai on Sat, 7 Nov 2026.
+DJ Low (2) is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at YYT-育音堂小镇, Shanghai on Sat, 7 Nov 2026.
 
 DJ Low is a drum & bass and house artist based in Malaysia, with 11 gigs on soundcheck across Kuala Lumpur and Shanghai. Often billed alongside Biscuit (MY), Obadius and Terence C. Next up: YYT-育音堂小镇, Shanghai on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Low is a drum & bass and house artist based in Malaysia, with 11 gigs on soun
 
 Biscuit (MY), Obadius, Terence C
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlow-2/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djlow-2/)*

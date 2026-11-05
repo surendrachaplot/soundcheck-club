@@ -1,6 +1,6 @@
 # Turbine
 
-Turbine is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Société des arts technologiques, Montreal on Fri, 20 Nov 2026.
+Turbine is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Société des arts technologiques, Montreal on Fri, 20 Nov 2026.
 
 Turbine is a techno and electronica artist based in Canada, with 6 gigs on soundcheck across Berlin, Lyon and Montreal. Often billed alongside DJ B2B, Dick Lee and Lissn. Next up: Société des arts technologiques, Montreal on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Turbine is a techno and electronica artist based in Canada, with 6 gigs on sound
 
 DJ B2B, Dick Lee, Lissn
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turbine/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turbine/)*

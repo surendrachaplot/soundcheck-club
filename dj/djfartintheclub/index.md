@@ -1,8 +1,8 @@
 # DJ Fart in the Club
 
-DJ Fart in the Club is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 6 Nov 2026.
+DJ Fart in the Club is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 6 Nov 2026.
 
-DJ Fart in the Club is a techno and house artist based in South Korea, with 132 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 47 more. Often billed alongside deep creep, livwutang and Kia (AU). Next up: Platforma Wolff, Bucharest on Fri 6 Nov.
+DJ Fart in the Club is a techno and house artist based in South Korea, with 133 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 47 more. Often billed alongside deep creep, livwutang and Kia (AU). Next up: Platforma Wolff, Bucharest on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ DJ Fart in the Club is a techno and house artist based in South Korea, with 132 
 | Sat, 14 Nov 2026 | Kaiku | Helsinki |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
+| Thu, 17 Jun 2027 | Medane Beach | Croatia |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -31,4 +32,4 @@ DJ Fart in the Club is a techno and house artist based in South Korea, with 132 
 
 deep creep, livwutang, Kia (AU)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfartintheclub/)*

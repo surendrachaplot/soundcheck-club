@@ -1,6 +1,6 @@
 # Nastia Reigel
 
-Nastia Reigel is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at BASEMENT, New York City on Sat, 21 Nov 2026.
+Nastia Reigel is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BASEMENT, New York City on Sat, 21 Nov 2026.
 
 Nastia Reigel is a techno and electro artist, with 67 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 19 more. Often billed alongside Oscar Mulero, Rene Wise and Function. Next up: BASEMENT, New York City on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Nastia Reigel is a techno and electro artist, with 67 gigs on soundcheck across 
 
 Oscar Mulero, Rene Wise, Function
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastiareigel/)*

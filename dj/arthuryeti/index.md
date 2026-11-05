@@ -1,14 +1,15 @@
 # Arthur Yeti
 
-Arthur Yeti is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
+Arthur Yeti is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
 
-Arthur Yeti is a techno and bass artist based in China, with 35 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 11 more. Often billed alongside JFÜNG, Joesnotdead and Mengzy. Next up: Cakeshop, Seoul on Fri 13 Nov.
+Arthur Yeti is a techno and bass artist based in China, with 36 gigs on soundcheck across Bali, Bangkok, Hanoi and Hong Kong and 11 more. Often billed alongside JFÜNG, Joesnotdead and Mengzy. Next up: Cakeshop, Seoul on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Cakeshop | Seoul |
+| Fri, 4 Dec 2026 | OIL Club | Shenzhen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Arthur Yeti is a techno and bass artist based in China, with 35 gigs on soundche
 
 JFÜNG, Joesnotdead, Mengzy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthuryeti/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arthuryeti/)*

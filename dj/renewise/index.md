@@ -1,6 +1,6 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Rene Wise is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
 Rene Wise is a techno and house artist based in United Kingdom, with 285 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Rene Wise is a techno and house artist based in United Kingdom, with 285 gigs on
 
 MARRØN, Blasha & Allatt, Ogazón
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

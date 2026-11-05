@@ -1,6 +1,6 @@
 # Cy Nico
 
-Cy Nico is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Modeci, Seoul on Sat, 7 Nov 2026.
+Cy Nico is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Modeci, Seoul on Sat, 7 Nov 2026.
 
 Cy Nico is a techno and house artist based in South Korea, with 96 gigs on soundcheck across Bangkok, Kyushu and Seoul. Often billed alongside Kim.Qna, Kim Jooyoung and Minjoon. Next up: Modeci, Seoul on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Cy Nico is a techno and house artist based in South Korea, with 96 gigs on sound
 
 Kim.Qna, Kim Jooyoung, Minjoon
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynico/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cynico/)*

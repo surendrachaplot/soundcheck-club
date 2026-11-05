@@ -1,6 +1,6 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 29 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "dirty feeling" on Wed, 4 Nov 2026.
+People's Leisure Club is a music venue in Edinburgh with 29 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Empress: Gummi vs Vampirism" on Thu, 5 Nov 2026.
 
 People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 29 upcoming gigs, with line-ups including FLIPSIDE., Big Miz, Bolam and BORLEY and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
@@ -8,7 +8,6 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 29 upc
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | dirty feeling |  |
 | Thu, 5 Nov 2026 | Empress: Gummi vs Vampirism | Lucid (Sco) |
 | Fri, 6 Nov 2026 | Soul Motive presents - Craigie Knowes  | Craigie Knowes, Lara Sinclair, Sweeney |
 | Sat, 7 Nov 2026 | Feel The Real: Rap Saunders, Frederick | Frederick (UK), Rap Saunders |
@@ -18,9 +17,10 @@ People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 29 upc
 | Sat, 14 Nov 2026 | Spectrum Presents: Lisa Loud and Nancy Noise | Lisa Loud, Nancy Noise |
 | Sat, 14 Nov 2026 | Fangs Disco Club | Jacuzzi General, Zoe from Finance, ona:v |
 | Tue, 17 Nov 2026 | RUBBLE // HUNTRESS, Lietzsche | HUNTRESS, Lietzsche |
+| Thu, 19 Nov 2026 | Big Squeeze Edinburgh |  |
 
 ## Address
 
 45 Lothian Street, Edinburgh, EH1 1HB, Edinburgh
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/people-s-leisure-club/)*

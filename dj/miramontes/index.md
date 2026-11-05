@@ -1,6 +1,6 @@
 # Miramontes
 
-Miramontes is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sigma, Ibiza on Sat, 7 Nov 2026.
+Miramontes is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sigma, Ibiza on Sat, 7 Nov 2026.
 
 Miramontes is a techno and minimal techno artist based in Argentina, with 3 gigs on soundcheck across Amsterdam, Buenos Aires and Ibiza. Often billed alongside AntZ, Carmen Lisa and GLIA. Next up: Sigma, Ibiza on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Miramontes is a techno and minimal techno artist based in Argentina, with 3 gigs
 
 AntZ (2), Carmen Lisa (2), GLIA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miramontes/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miramontes/)*

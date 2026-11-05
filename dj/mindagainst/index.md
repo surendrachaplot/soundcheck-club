@@ -1,6 +1,6 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Mind Against is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
 
 Mind Against is a techno and house artist based in Italy, with 182 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 57 more. Often billed alongside Adriatique, Innellea and Kevin de Vries. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Mind Against is a techno and house artist based in Italy, with 182 gigs on sound
 
 Adriatique, Innellea, Kevin de Vries
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mindagainst/)*

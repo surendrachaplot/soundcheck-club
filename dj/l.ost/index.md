@@ -1,6 +1,6 @@
 # L.OST
 
-L.OST is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ÆDEN, Berlin on Sat, 7 Nov 2026.
+L.OST is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at ÆDEN, Berlin on Sat, 7 Nov 2026.
 
 L.OST is a techno and trance artist based in Spain, with 4 gigs on soundcheck across Berlin. Often billed alongside RaVix, NuAmo and Andara Nox. Next up: ÆDEN, Berlin on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ L.OST is a techno and trance artist based in Spain, with 4 gigs on soundcheck ac
 
 RaVix, NuAmo, Andara Nox
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.ost/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/l.ost/)*

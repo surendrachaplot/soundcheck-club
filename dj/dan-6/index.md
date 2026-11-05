@@ -1,8 +1,8 @@
 # Dan (6)
 
-Dan (6) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Panke Social, Sheffield on Fri, 6 Nov 2026.
+Dan (6) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Panke Social, Sheffield on Fri, 6 Nov 2026.
 
-Dan is a house and techno artist, with 12 gigs on soundcheck across Amsterdam, Budapest, Kyoto and Mexico City and 4 more. Often billed alongside ALLY, AMARE and ATAMI. Next up: Panke Social, Sheffield on Fri 6 Nov.
+Dan is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Budapest, Kyoto and Mexico City and 4 more. Often billed alongside ALLY, AMARE and ATAMI. Next up: Panke Social, Sheffield on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dan is a house and techno artist, with 12 gigs on soundcheck across Amsterdam, B
 
 ALLY, AMARE, ATAMI
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-6/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dan-6/)*

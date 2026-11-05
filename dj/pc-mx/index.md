@@ -1,13 +1,15 @@
 # PC (MX)
 
-PC (MX) is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Los Angeles State Historic Park, Los Angeles on Sat, 7 Nov 2026.
+PC (MX) is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Usana Amphitheatre, Salt-lake-city on Sat, 7 Nov 2026.
 
-PC (MX) is a techno and house artist, with 16 gigs on soundcheck across Austin, Barcelona, Beijing and Chengdu and 6 more. Often billed alongside CBS, Fox (US) and ROKU. Next up: Los Angeles State Historic Park, Los Angeles on Sat 7 Nov.
+PC (MX) is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Austin, Barcelona, Beijing and Chengdu and 8 more. Often billed alongside CBS, Fox (US) and ROKU. Next up: Usana Amphitheatre, Salt Lake City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Usana Amphitheatre | Salt-lake-city |
+| Sat, 7 Nov 2026 | UKW - Kraftwerk | Mecklenburg-vorpommern |
 | Sat, 7 Nov 2026 | Los Angeles State Historic Park | Los Angeles |
 | Sat, 7 Nov 2026 | Parc del Fòrum | Barcelona |
 | Sat, 7 Nov 2026 | Camden Assembly | London |
@@ -31,4 +33,4 @@ PC (MX) is a techno and house artist, with 16 gigs on soundcheck across Austin, 
 
 CBS, Fox (US), ROKU
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pc-mx/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pc-mx/)*

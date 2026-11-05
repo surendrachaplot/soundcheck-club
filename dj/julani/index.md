@@ -1,6 +1,6 @@
 # Julani
 
-Julani is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tagada, Vienna on Sat, 5 Dec 2026.
+Julani is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tagada, Vienna on Sat, 5 Dec 2026.
 
 Julani is a house and acid artist based in Austria, with 20 gigs on soundcheck across Vienna. Often billed alongside PJPJPJ, Momo Trosman and Rayya. Next up: Tagada, Vienna on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Julani is a house and acid artist based in Austria, with 20 gigs on soundcheck a
 
 PJPJPJ, Momo Trosman, Rayya
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julani/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julani/)*

@@ -1,6 +1,6 @@
 # DUCK-E
 
-DUCK-E is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The DBA, Manchester on Fri, 4 Dec 2026.
+DUCK-E is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The DBA, Manchester on Fri, 4 Dec 2026.
 
 DUCK-E is a house and electro artist based in United Kingdom, with 23 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside OZONE, Athers and Owen Drummond. Next up: The DBA, Manchester on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ DUCK-E is a house and electro artist based in United Kingdom, with 23 gigs on so
 
 OZONE, Athers, Owen Drummond
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duck-e/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duck-e/)*

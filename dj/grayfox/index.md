@@ -1,8 +1,8 @@
 # Grayfox
 
-Grayfox is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Upstairs at the 700, Philadelphia on Fri, 6 Nov 2026.
+Grayfox is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Upstairs at the 700, Philadelphia on Fri, 6 Nov 2026.
 
-Grayfox is a jungle and drum & bass artist, with 7 gigs on soundcheck across Philadelphia. Often billed alongside Armen, Art Cuebik and Joey Breakdown. Next up: Upstairs at the 700, Philadelphia on Fri 6 Nov.
+Grayfox is a jungle and drum & bass artist based in United States of America, with 7 gigs on soundcheck across Philadelphia. Often billed alongside Armen, Art Cuebik and Joey Breakdown. Next up: Upstairs at the 700, Philadelphia on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Grayfox is a jungle and drum & bass artist, with 7 gigs on soundcheck across Phi
 
 Armen, Art Cuebik, Joey Breakdown
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grayfox/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grayfox/)*

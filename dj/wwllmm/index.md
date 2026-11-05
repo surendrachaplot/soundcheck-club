@@ -1,6 +1,6 @@
 # Wwllmm
 
-Wwllmm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Studio56, Paris on Thu, 5 Nov 2026.
+Wwllmm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Studio56, Paris on Thu, 5 Nov 2026.
 
 Wwllmm is a house and techno artist based in France, with 13 gigs on soundcheck across Paris. Often billed alongside Hiroki Ishikura, Malseine and mdl:tso. Next up: Studio56, Paris on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Wwllmm is a house and techno artist based in France, with 13 gigs on soundcheck 
 
 Hiroki Ishikura, Malseine, mdl:tso
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wwllmm/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wwllmm/)*

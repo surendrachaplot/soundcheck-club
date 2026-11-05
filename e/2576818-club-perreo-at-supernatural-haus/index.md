@@ -1,6 +1,6 @@
 # Club Perreo at Supernatural Haus
 
-Club Perreo at Supernatural Haus on Fri 6 Nov, Miami. 4 artists: GRUE5OME, p1no, Pazmal and v1fro. See the line-up on soundcheck.
+Club Perreo at Supernatural Haus on Fri 6 Nov, Miami. 4 artists: GRUE5OME, p1no, Pazmal and v1fro. Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

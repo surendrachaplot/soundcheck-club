@@ -1,6 +1,6 @@
 # Dybbuk
 
-Dybbuk is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CJ Jeff - Dybbuk" on Fri, 6 Nov 2026.
+Dybbuk is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "CJ Jeff - Dybbuk" on Fri, 6 Nov 2026.
 
 Dybbuk is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including Alfonso Ares, Always Late, Barac and Cap and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@ Dybbuk is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with li
 | Sat, 14 Nov 2026 | Barac - Dybbuk | Barac, FRAGK |
 | Sat, 21 Nov 2026 | Believe presents Cap - Dybbuk | Always Late, Cap, Jonn |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/dybbuk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/dybbuk/)*

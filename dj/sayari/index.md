@@ -1,6 +1,6 @@
 # SAYARI
 
-SAYARI is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bridge 48, Barcelona on Fri, 6 Nov 2026.
+SAYARI is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bridge 48, Barcelona on Fri, 6 Nov 2026.
 
 SAYARI is a house and disco artist based in Spain, with 10 gigs on soundcheck across Barcelona. Often billed alongside Beniso, Ale Hope and Alphanova. Next up: Bridge 48, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SAYARI is a house and disco artist based in Spain, with 10 gigs on soundcheck ac
 
 Beniso, Ale Hope, Alphanova
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayari/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sayari/)*

@@ -1,6 +1,6 @@
 # Royale
 
-Royale is a music venue in Boston with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CamelPhat" on Fri, 6 Nov 2026.
+Royale is a music venue in Boston with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "CamelPhat" on Fri, 6 Nov 2026.
 
 Royale is a music venue in Boston listed on soundcheck. 11 upcoming gigs, with line-ups including CamelPhat, Hoang, Kahani and Kunal Merchant and 2 more. See dates, start times and who's playing. 279 Tremont Street; Boston, MA 02116; United States.
 
@@ -23,4 +23,4 @@ Royale is a music venue in Boston listed on soundcheck. 11 upcoming gigs, with l
 
 279 Tremont Street; Boston, MA 02116; United States, Boston
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/royale/)*

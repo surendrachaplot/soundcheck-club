@@ -1,6 +1,6 @@
 # Tunnel
 
-Tunnel is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "UNDERPASS 8TH ANNIVERSARY" on Fri, 13 Nov 2026.
+Tunnel is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "UNDERPASS 8TH ANNIVERSARY" on Fri, 13 Nov 2026.
 
 Tunnel is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including M-High, O.P.S., RTGL and WHITE OFF. See dates, start times and who's playing. Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy.
 
@@ -15,4 +15,4 @@ Tunnel is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with lin
 
 Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy, Milan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tunnel/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/tunnel/)*

@@ -1,6 +1,6 @@
 # STARLANE PRESENTS: tINI at Starlane São Paulo
 
-STARLANE PRESENTS: tINI at Starlane São Paulo on Thu 12 Nov, Sao Paulo. 2 artists: tINI and TRAJANO. See the line-up on soundcheck.
+STARLANE PRESENTS: tINI at Starlane São Paulo on Thu 12 Nov, Sao Paulo. 2 artists: tINI and TRAJANO. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

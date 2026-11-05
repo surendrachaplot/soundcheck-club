@@ -1,6 +1,6 @@
 # Nils Hoffmann
 
-Nils Hoffmann is a Deep House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 7 Nov 2026.
+Nils Hoffmann is a Deep House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 7 Nov 2026.
 
 Nils Hoffmann is a deep house and progressive house artist based in Germany, with 97 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 41 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, wit
 
 Marsh, Nicky Elisabeth, Romain Garcia
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*

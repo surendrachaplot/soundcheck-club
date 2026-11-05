@@ -1,6 +1,6 @@
 # Suave
 
-Suave is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
+Suave is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at M7 Club, Barcelona on Thu, 12 Nov 2026.
 
 Suave is a techno and house artist based in Spain, with 12 gigs on soundcheck across Barcelona, Berlin, Bordeaux and London and 3 more. Often billed alongside Arman Shadow, FC Kabagar and SOFT. Next up: M7 Club, Barcelona on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Suave is a techno and house artist based in Spain, with 12 gigs on soundcheck ac
 
 Arman Shadow, FC Kabagar, SOFT (2)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suave/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suave/)*

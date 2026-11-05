@@ -1,6 +1,6 @@
 # The Third Day
 
-The Third Day is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "GEZELLIGE UPTEMPO: THE BEST TEMPO" on Fri, 27 Nov 2026.
+The Third Day is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "GEZELLIGE UPTEMPO: THE BEST TEMPO" on Fri, 27 Nov 2026.
 
 The Third Day is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including SVN. See dates, start times and who's playing. 290 Macaulay Road, North Melbourne, Victoria 3051.
 
@@ -15,4 +15,4 @@ The Third Day is a music venue in Melbourne listed on soundcheck. 2 upcoming gig
 
 290 Macaulay Road, North Melbourne, Victoria 3051, Melbourne
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-third-day/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/the-third-day/)*

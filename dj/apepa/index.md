@@ -1,8 +1,8 @@
 # APEPA
 
-APEPA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mitsuki, Tokyo on Thu, 5 Nov 2026.
+APEPA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mitsuki, Tokyo on Thu, 5 Nov 2026.
 
-APEPA is a house and techno artist based in Japan, with 2 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KAPI, Loe (JP) and MIYUU. Next up: Mitsuki, Tokyo on Thu 5 Nov.
+APEPA is a house and techno artist based in Japan, with 2 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Enishi, KAPI and Loe (JP). Next up: Mitsuki, Tokyo on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ APEPA is a house and techno artist based in Japan, with 2 gigs on soundcheck acr
 
 ## Shares bills with
 
-KAPI, Loe (JP), MIYUU
+Enishi, KAPI, Loe (JP)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apepa/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/apepa/)*

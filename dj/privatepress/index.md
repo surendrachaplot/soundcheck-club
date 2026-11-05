@@ -1,6 +1,6 @@
 # Private Press
 
-Private Press is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 7 Nov 2026.
+Private Press is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 7 Nov 2026.
 
 Private Press is a techno and house artist based in Poland, with 29 gigs on soundcheck across Berlin, Krakow, Poland and Poznan and 3 more. Often billed alongside MATRIX3K, Contakt (PL) and MKO (PL). Next up: MONKEY LOVE, Warsaw on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Private Press is a techno and house artist based in Poland, with 29 gigs on soun
 
 MATRIX3K, Contakt (PL), MKO (PL)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/privatepress/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/privatepress/)*

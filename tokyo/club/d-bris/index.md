@@ -1,6 +1,6 @@
 # Débris
 
-Débris is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "MARS" on Thu, 5 Nov 2026.
+Débris is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "MARS" on Thu, 5 Nov 2026.
 
 Débris is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including Dj Quien, Kenjinho, Mizuyo and SIGNAL (JP) and 2 more. See dates, start times and who's playing. Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan.
 
@@ -18,4 +18,4 @@ Débris is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with li
 
 Daikanyamacho 11-12, Shibuya-ku, Tokyo, 150-0034 Japan, Tokyo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/d-bris/)*

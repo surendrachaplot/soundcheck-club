@@ -1,6 +1,6 @@
 # Carl H
 
-Carl H is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Carl H is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Carl H is a techno and trance artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 46 more. Often billed alongside Jane Fitz, So-Fi and DJ TEETH. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -34,4 +34,4 @@ Carl H is a techno and trance artist based in United Kingdom, with 140 gigs on s
 
 Jane Fitz, So-Fi, DJ TEETH
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlh/)*

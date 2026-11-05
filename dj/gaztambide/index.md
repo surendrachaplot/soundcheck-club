@@ -1,6 +1,6 @@
 # GAZTAMBIDE
 
-GAZTAMBIDE is a Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+GAZTAMBIDE is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 GAZTAMBIDE is a techno artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Barcelona, Leeds and Madrid. Often billed alongside Marco Ramos, Nacho and Anika Kunst. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ GAZTAMBIDE is a techno artist based in Netherlands, with 20 gigs on soundcheck a
 
 Marco Ramos, Nacho, Anika Kunst
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaztambide/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaztambide/)*

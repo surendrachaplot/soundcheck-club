@@ -1,6 +1,6 @@
 # Miguel Campbell
 
-Miguel Campbell is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Inception Boat, Sydney on Sat, 7 Nov 2026.
+Miguel Campbell is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Inception Boat, Sydney on Sat, 7 Nov 2026.
 
 Miguel Campbell is a house and deep house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Edinburgh and 10 more. Often billed alongside Alexis Raphael, Shadow Child and Steven Cee. Next up: Inception Boat, Sydney on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Miguel Campbell is a house and deep house artist based in United Kingdom, with 3
 
 Alexis Raphael, Shadow Child, Steven Cee
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miguelcampbell/)*

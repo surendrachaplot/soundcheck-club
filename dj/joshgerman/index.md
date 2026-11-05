@@ -1,13 +1,14 @@
 # Josh German
 
-Josh German is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Vittoria Wharf Studio, London on Sat, 5 Dec 2026.
+Josh German is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
 
-Josh German is a house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Sahil, A Hard Day's Dance and Mark Radford. Next up: Vittoria Wharf Studio, London on Sat 5 Dec.
+Josh German is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Sahil, A Hard Day's Dance and Mark Radford. Next up: Rolling Stock, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Rolling Stock | London |
 | Sat, 5 Dec 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played
@@ -24,4 +25,4 @@ Josh German is a house and deep house artist based in United Kingdom, with 8 gig
 
 Sahil, A Hard Day's Dance, Mark Radford
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshgerman/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshgerman/)*

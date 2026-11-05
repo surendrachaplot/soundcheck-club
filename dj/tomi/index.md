@@ -1,8 +1,8 @@
 # TOMI
 
-TOMI is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Urban Wild, Boston on Sat, 19 Jun 2027.
+TOMI is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Urban Wild, Boston on Sat, 19 Jun 2027.
 
-TOMI is a hip-hop and house artist, with 7 gigs on soundcheck across Boston, Miami, Tokyo and Washington DC and 1 more. Often billed alongside Kesh, Angel Heredia and DA BOOK. Next up: Urban Wild, Boston on Sat 19 Jun.
+TOMI is a hip-hop and house artist based in United States of America, with 7 gigs on soundcheck across Boston, Miami, Tokyo and Washington DC and 1 more. Often billed alongside Kesh, Angel Heredia and DA BOOK. Next up: Urban Wild, Boston on Sat 19 Jun.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ TOMI is a hip-hop and house artist, with 7 gigs on soundcheck across Boston, Mia
 
 Kesh (1), Angel Heredia, DA BOOK
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomi/)*

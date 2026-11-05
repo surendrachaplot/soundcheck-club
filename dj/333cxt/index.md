@@ -1,6 +1,6 @@
 # 333CXT
 
-333CXT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 6 Nov 2026.
+333CXT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Entrepôts Dominion, Les, Montreal on Fri, 6 Nov 2026.
 
 333CXT is a techno and hardcore artist based in Germany, with 22 gigs on soundcheck across Antwerp, Berlin, Cologne and Glasgow and 5 more. Often billed alongside VECTA, FennX and SCHELLT. Next up: Entrepôts Dominion, Les, Montreal on Fri 6 Nov.
 
@@ -25,4 +25,4 @@
 
 VECTA, FennX, SCHELLT
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/333cxt/)*

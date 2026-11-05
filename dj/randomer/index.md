@@ -1,6 +1,6 @@
 # Randomer
 
-Randomer is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 21 Nov 2026.
+Randomer is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 21 Nov 2026.
 
 Randomer is a techno and trance artist based in United Kingdom, with 101 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 52 more. Often billed alongside Perc, AADJA and Anetha. Next up: Karmen Camina, Strasbourg on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Randomer is a techno and trance artist based in United Kingdom, with 101 gigs on
 
 Perc, AADJA, Anetha
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomer/)*

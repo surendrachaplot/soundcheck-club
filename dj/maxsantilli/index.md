@@ -1,6 +1,6 @@
 # Max Santilli
 
-Max Santilli is a electronic artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Max Santilli is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Max Santilli is an electronic artist, with 3 gigs on soundcheck across Melbourne, New South Wales and Sydney. Often billed alongside Marley Swain, Trae Bashford and Aarti Jadu. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Max Santilli is an electronic artist, with 3 gigs on soundcheck across Melbourne
 
 Marley Swain, Trae Bashford, Aarti Jadu
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsantilli/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxsantilli/)*

@@ -1,6 +1,6 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at BASEMENT, New York City on Fri, 6 Nov 2026.
+Aurora Halal is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BASEMENT, New York City on Fri, 6 Nov 2026.
 
 Aurora Halal is a techno and house artist based in United States of America, with 250 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 63 more. Often billed alongside DJ Nobu, Ben UFO and Priori. Next up: BASEMENT, New York City on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 
 DJ Nobu, Ben UFO, Priori
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurorahalal/)*

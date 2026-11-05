@@ -1,14 +1,13 @@
 # Amp
 
-Amp is a music venue in Münster with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "WEIRD WEDNESDAY with 909 RACING TEAM & many more" on Wed, 4 Nov 2026.
+Amp is a music venue in Münster with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Amp pres. Valeby All Night Long" on Fri, 6 Nov 2026.
 
-Amp is a music venue in Münster listed on soundcheck. 11 upcoming gigs, with line-ups including 909 RACING TEAM, Cali Caracho, Cora Lee and Delm and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
+Amp is a music venue in Münster listed on soundcheck. 10 upcoming gigs, with line-ups including Cali Caracho, Delm, dylliboi_91 and kichererbsenstampf and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | WEIRD WEDNESDAY with 909 RACING TEAM & many more | 909 RACING TEAM, Cora Lee |
 | Fri, 6 Nov 2026 | Amp pres. Valeby All Night Long | Valeby |
 | Sat, 14 Nov 2026 | Shift |  |
 | Fri, 20 Nov 2026 | Sachsentrance | Luzinka, RaverPik, The Jakob Sister |
@@ -18,9 +17,10 @@ Amp is a music venue in Münster listed on soundcheck. 11 upcoming gigs, with li
 | Sat, 28 Nov 2026 | ENDSTSTATION SEHNSUCHT | Cali Caracho, dylliboi_91, kichererbsenstampf |
 | Sat, 5 Dec 2026 | schick.standort | matildnz, pik (1) |
 | Sat, 19 Dec 2026 | Panorama |  |
+| Thu, 31 Dec 2026 | Amp Silvester with Amp Soundsystem |  |
 
 ## Address
 
 Am Hawerkamp 1, 48155 Münster, Münster
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*

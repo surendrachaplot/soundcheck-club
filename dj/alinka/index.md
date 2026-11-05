@@ -1,14 +1,15 @@
 # Alinka
 
-Alinka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
+Alinka is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 14 Nov 2026.
 
-Alinka is a house and techno artist based in Ukraine, with 124 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
+Alinka is a house and techno artist based in Ukraine, with 125 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 40 more. Often billed alongside Massimiliano Pagliara, Budino and Sara Miller. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 12 Dec 2026 | Good Room | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alinka is a house and techno artist based in Ukraine, with 124 gigs on soundchec
 
 Massimiliano Pagliara, Budino, Sara Miller
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alinka/)*

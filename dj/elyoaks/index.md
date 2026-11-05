@@ -1,6 +1,6 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Thu, 5 Nov 2026.
+Ely Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Thu, 5 Nov 2026.
 
 Ely Oaks is a techno and house artist based in Austria, with 56 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 35 more. Often billed alongside Space 92, BOVSKI and DAX J. Next up: Silo Dallas, Dallas/Fort Worth on Thu 5 Nov.
 
@@ -32,4 +32,4 @@ Ely Oaks is a techno and house artist based in Austria, with 56 gigs on soundche
 
 Space 92, BOVSKI, DAX J
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elyoaks/)*

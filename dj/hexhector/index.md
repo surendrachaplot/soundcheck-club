@@ -1,14 +1,15 @@
 # Hex Hector
 
-Hex Hector is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Stereo, Montreal on Fri, 20 Nov 2026.
+Hex Hector is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Stereo, Montreal on Fri, 20 Nov 2026.
 
-Hex Hector is a house and disco artist based in United States of America, with 27 gigs on soundcheck across Montreal and New York City. Often billed alongside Danny Krivit, The Carry Nation and Benny Soto. Next up: Stereo, Montreal on Fri 20 Nov.
+Hex Hector is a house and disco artist based in United States of America, with 28 gigs on soundcheck across Montreal and New York City. Often billed alongside Danny Krivit, The Carry Nation and Benny Soto. Next up: Stereo, Montreal on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Stereo | Montreal |
+| Sun, 22 Nov 2026 | Eden | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hex Hector is a house and disco artist based in United States of America, with 2
 
 Danny Krivit, The Carry Nation, Benny Soto
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hexhector/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hexhector/)*

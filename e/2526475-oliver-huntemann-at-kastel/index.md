@@ -1,6 +1,6 @@
 # Oliver Huntemann at Kastel
 
-Oliver Huntemann at Kastel on Sat 7 Nov, Istanbul. 1 artist: Oliver Huntemann. House. See the line-up on soundcheck.
+Oliver Huntemann at Kastel on Sat 7 Nov, Istanbul. 3 artists: Oliver Huntemann, OZBEK and Ymir. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ Oliver Huntemann at Kastel on Sat 7 Nov, Istanbul. 1 artist: Oliver Huntemann. H
 ## Line-up
 
 - Oliver Huntemann
+- OZBEK
+- Ymir
 
 *Source: [soundcheck](https://soundcheck.club/e/2526475-oliver-huntemann-at-kastel/)*

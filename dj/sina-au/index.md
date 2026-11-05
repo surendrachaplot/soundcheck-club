@@ -1,6 +1,6 @@
 # Sina (AU)
 
-Sina (AU) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mitsuki, Tokyo on Fri, 4 Dec 2026.
+Sina (AU) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mitsuki, Tokyo on Fri, 4 Dec 2026.
 
 Sina (AU) is an ambient and experimental artist based in Australia, with 41 gigs on soundcheck across Amsterdam, Berlin, Detroit and Lisbon and 10 more. Often billed alongside Vlada, Kavil and Tangerine. Next up: Mitsuki, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sina (AU) is an ambient and experimental artist based in Australia, with 41 gigs
 
 Vlada, Kavil, Tangerine
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sina-au/)*

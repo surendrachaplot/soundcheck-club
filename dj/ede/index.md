@@ -1,6 +1,6 @@
 # Ede
 
-Ede is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
+Ede is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Expo Santa Fe, Mexico City on Fri, 20 Nov 2026.
 
 Ede is a house and techno artist based in Germany, with 106 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 28 more. Often billed alongside Skatman, julës jay and JAMIIE. Next up: Expo Santa Fe, Mexico City on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Ede is a house and techno artist based in Germany, with 106 gigs on soundcheck a
 
 Skatman, julës jay, JAMIIE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ede/)*

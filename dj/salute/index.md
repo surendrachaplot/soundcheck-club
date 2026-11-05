@@ -1,14 +1,13 @@
 # salute
 
-salute is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Love Inn, Bristol on Wed, 4 Nov 2026.
+salute is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mia Mao, Paris on Fri, 6 Nov 2026.
 
-salute is a house and techno artist based in Austria, with 211 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: The Love Inn, Bristol on Wed 4 Nov.
+salute is a house and techno artist based in Austria, with 211 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 67 more. Often billed alongside HAAi, DJ BORING and Eliza Rose. Next up: Mia Mao, Paris on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | The Love Inn | Bristol |
 | Fri, 6 Nov 2026 | Mia Mao | Paris |
 | Sat, 7 Nov 2026 | Gewölbe | Cologne |
 | Fri, 13 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -20,9 +19,11 @@ salute is a house and techno artist based in Austria, with 211 gigs on soundchec
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
 | Thu, 31 Dec 2026 | Carriageworks | Sydney |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 
+- The Love Inn, Bristol · Wed, 4 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Refuge, New York City · Thu, 29 Oct 2026
 - Thuishaven, Amsterdam · Fri, 23 Oct 2026
@@ -30,10 +31,9 @@ salute is a house and techno artist based in Austria, with 211 gigs on soundchec
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
 - The White Hotel, Manchester · Sun, 18 Oct 2026
 - Yamamori Tengu, Dublin · Fri, 16 Oct 2026
-- Mondo Open Air, Madrid · Sun, 11 Oct 2026
 
 ## Shares bills with
 
 HAAi, DJ BORING, Eliza Rose
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/salute/)*

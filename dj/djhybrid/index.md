@@ -1,6 +1,6 @@
 # DJ Hybrid
 
-DJ Hybrid is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Clock Factory, Bristol on Sat, 14 Nov 2026.
+DJ Hybrid is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Clock Factory, Bristol on Sat, 14 Nov 2026.
 
 DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Auckland, Boston and Brighton and 14 more. Often billed alongside Benny Page, Deekline and Hypershe. Next up: The Clock Factory, Bristol on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, with 35 gi
 
 Benny Page, Deekline, Hypershe
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhybrid/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhybrid/)*

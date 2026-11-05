@@ -1,6 +1,6 @@
 # yaego, Sangre, Glass Halo + Ashley Venom & Nymph at Paragon
 
-yaego, Sangre, Glass Halo + Ashley Venom & Nymph at Paragon on Sat 21 Nov, New York City. 3 artists: Ashley Venom, Nymph (NY) and yaego. Trance and House. See the line-up on soundcheck.
+yaego, Sangre, Glass Halo + Ashley Venom & Nymph at Paragon on Sat 21 Nov, New York City. 4 artists: Ashley Venom, Glass Halo, Nymph (NY) and yaego. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ yaego, Sangre, Glass Halo + Ashley Venom & Nymph at Paragon on Sat 21 Nov, New Y
 ## Line-up
 
 - Ashley Venom
+- Glass Halo
 - Nymph (NY)
 - yaego
 

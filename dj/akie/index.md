@@ -1,6 +1,6 @@
 # Akie
 
-Akie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at West Harlem, Kyoto on Sun, 22 Nov 2026.
+Akie is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at West Harlem, Kyoto on Sun, 22 Nov 2026.
 
 Akie is a techno and house artist based in Japan, with 63 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside YAMARCHY, DJ Nobu and CHIDA. Next up: West Harlem, Kyoto on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Akie is a techno and house artist based in Japan, with 63 gigs on soundcheck acr
 
 YAMARCHY, DJ Nobu, CHIDA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akie/)*

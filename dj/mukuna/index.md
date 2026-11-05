@@ -1,6 +1,6 @@
 # Mukuna
 
-Mukuna is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Zentralwäscherei, Zurich on Sat, 21 Nov 2026.
+Mukuna is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Zentralwäscherei, Zurich on Sat, 21 Nov 2026.
 
 Mukuna is a bass and techno artist based in Switzerland, with 24 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 5 more. Often billed alongside Kombé, Mafou and Akanbi. Next up: Zentralwäscherei, Zurich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Mukuna is a bass and techno artist based in Switzerland, with 24 gigs on soundch
 
 Kombé, Mafou, Akanbi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mukuna/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mukuna/)*

@@ -1,6 +1,6 @@
 # RASA presents Gerd Janson b2b Marcel Dettmann at RASA
 
-RASA presents Gerd Janson b2b Marcel Dettmann on Fri 4 Dec, Singapore. 2 artists: Gerd Janson and Marcel Dettmann. See the line-up on soundcheck.
+RASA presents Gerd Janson b2b Marcel Dettmann on Fri 4 Dec, Singapore. 2 artists: Gerd Janson and Marcel Dettmann. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

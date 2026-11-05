@@ -1,6 +1,6 @@
 # lucid 明晰夢 at Enter Shibuya
 
-lucid 明晰夢 at Enter Shibuya on Mon 16 Nov, Tokyo. 1 artist: Kengo Yuasa. Techno. See the line-up on soundcheck.
+lucid 明晰夢 at Enter Shibuya on Mon 16 Nov, Tokyo. 2 artists: Kengo Yuasa and NYAO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ lucid 明晰夢 at Enter Shibuya on Mon 16 Nov, Tokyo. 1 artist: Kengo Yuasa. Te
 ## Line-up
 
 - Kengo Yuasa
+- NYAO
 
 *Source: [soundcheck](https://soundcheck.club/e/2560961-lucid-at-enter-shibuya/)*

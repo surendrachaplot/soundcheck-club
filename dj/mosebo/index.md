@@ -1,8 +1,8 @@
 # Mosebo
 
-Mosebo is a Deep House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
+Mosebo is a Deep House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
 
-Mosebo is a deep house and funk / soul artist, with 6 gigs on soundcheck across Berlin and London. Often billed alongside Jamesey, Kengo and Matt L-S. Next up: Studio dB, Berlin on Fri 13 Nov.
+Mosebo is a deep house and funk / soul artist based in South Africa, with 6 gigs on soundcheck across Berlin and London. Often billed alongside Jamesey, Kengo and Matt L-S. Next up: Studio dB, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Mosebo is a deep house and funk / soul artist, with 6 gigs on soundcheck across 
 
 Jamesey, Kengo (2), Matt L-S
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosebo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosebo/)*

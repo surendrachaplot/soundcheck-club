@@ -1,6 +1,6 @@
 # Fideles
 
-Fideles is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Demo Room, Toronto on Sat, 7 Nov 2026.
+Fideles is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Demo Room, Toronto on Sat, 7 Nov 2026.
 
 Fideles is a techno and house artist based in Italy, with 134 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 45 more. Often billed alongside Brina Knauss, Miss Monique and Mathame. Next up: Demo Room, Toronto on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Fideles is a techno and house artist based in Italy, with 134 gigs on soundcheck
 
 Brina Knauss, Miss Monique, Mathame
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fideles/)*

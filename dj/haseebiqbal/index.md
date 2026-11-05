@@ -1,8 +1,8 @@
 # Haseeb Iqbal
 
-Haseeb Iqbal is a Dub and Jazz artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Mason and Fifth, Westbourne Park, London on Thu, 5 Nov 2026.
+Haseeb Iqbal is a Dub and Jazz artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mason and Fifth, Westbourne Park, London on Thu, 5 Nov 2026.
 
-Haseeb Iqbal is a dub and jazz artist based in United Kingdom, with 113 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 17 more. Often billed alongside Donna Leake, Mark Quinn and Heléna Star. Next up: Mason and Fifth, Westbourne Park, London on Thu 5 Nov.
+Haseeb Iqbal is a dub and jazz artist based in United Kingdom, with 114 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 17 more. Often billed alongside Donna Leake, Mark Quinn and Heléna Star. Next up: Mason and Fifth, Westbourne Park, London on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Haseeb Iqbal is a dub and jazz artist based in United Kingdom, with 113 gigs on 
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Mason and Fifth, Westbourne Park | London |
 | Sat, 7 Nov 2026 | Bar v Krymský | Prague |
+| Thu, 31 Dec 2026 | Bunker Club | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Haseeb Iqbal is a dub and jazz artist based in United Kingdom, with 113 gigs on 
 
 Donna Leake, Mark Quinn, Heléna Star
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*

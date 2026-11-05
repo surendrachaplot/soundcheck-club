@@ -1,6 +1,6 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
+Beste Hira is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
 
 Beste Hira is a techno and house artist based in Netherlands, with 199 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Freddy K, Rødhåd and Lobster (NL). Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ Beste Hira is a techno and house artist based in Netherlands, with 199 gigs on s
 
 Freddy K, Rødhåd, Lobster (NL)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestehira/)*

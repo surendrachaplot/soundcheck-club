@@ -1,8 +1,8 @@
 # GNVR
 
-GNVR is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Atlanta on Sat, 7 Nov 2026.
+GNVR is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Atlanta on Sat, 7 Nov 2026.
 
-GNVR is a techno and industrial artist, with 8 gigs on soundcheck across Atlanta and Chicago. Often billed alongside AMAYAH, Aiden (DE) and Anetha. Next up: TBA, Atlanta on Sat 7 Nov.
+GNVR is a techno and industrial artist based in Mexico, with 8 gigs on soundcheck across Atlanta and Chicago. Often billed alongside AMAYAH, Aiden (DE) and Anetha. Next up: TBA, Atlanta on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ GNVR is a techno and industrial artist, with 8 gigs on soundcheck across Atlanta
 
 AMAYAH, Aiden (DE), Anetha
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gnvr/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gnvr/)*

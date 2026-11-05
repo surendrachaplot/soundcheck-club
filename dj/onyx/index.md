@@ -1,14 +1,15 @@
 # Ønyx
 
-Ønyx is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
+Ønyx is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ace*Mission, Los Angeles on Fri, 27 Nov 2026.
 
-Ønyx is a techno and breakbeat artist based in France, with 21 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Annika Wolfe, Alex Casillas and BB Shaine. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
+Ønyx is a techno and breakbeat artist based in France, with 22 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Annika Wolfe, Alex Casillas and BB Shaine. Next up: Ace*Mission, Los Angeles on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
+| Thu, 31 Dec 2026 | TBA - Los Angeles | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Annika Wolfe, Alex Casillas, BB Shaine
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onyx/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onyx/)*

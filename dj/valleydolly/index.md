@@ -1,8 +1,8 @@
 # Valley Dolly
 
-Valley Dolly is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bassiani, Tbilisi on Sat, 21 Nov 2026.
+Valley Dolly is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bassiani, Tbilisi on Sat, 21 Nov 2026.
 
-Valley Dolly is a house and techno artist based in Georgia, with 67 gigs on soundcheck across Berlin, Brussels, Hannover and Lisbon and 5 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Bassiani, Tbilisi on Sat 21 Nov.
+Valley Dolly is a house and techno artist based in Georgia, with 68 gigs on soundcheck across Berlin, Brussels, Hannover and Lisbon and 5 more. Often billed alongside Kvanchi, Sophie Phare and Hamatsuki. Next up: Bassiani, Tbilisi on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Valley Dolly is a house and techno artist based in Georgia, with 67 gigs on soun
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Bassiani | Tbilisi |
 | Fri, 4 Dec 2026 | Ankali & Planeta Za | Prague |
+| Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Valley Dolly is a house and techno artist based in Georgia, with 67 gigs on soun
 
 Kvanchi, Sophie Phare, Hamatsuki
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valleydolly/)*

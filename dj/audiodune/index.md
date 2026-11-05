@@ -1,6 +1,6 @@
 # AUDIO DUNE
 
-AUDIO DUNE is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Haggerston, London on Sat, 7 Nov 2026.
+AUDIO DUNE is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Haggerston, London on Sat, 7 Nov 2026.
 
 AUDIO DUNE is a garage and jungle artist, with 48 gigs on soundcheck across Brighton and London. Often billed alongside RACH!, warmluke and JAY-MO. Next up: The Haggerston, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ AUDIO DUNE is a garage and jungle artist, with 48 gigs on soundcheck across Brig
 
 RACH!, warmluke, JAY-MO
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audiodune/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/audiodune/)*

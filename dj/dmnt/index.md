@@ -1,6 +1,6 @@
 # DMNT
 
-DMNT is a Tech House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Werkhalle, Cologne on Sat, 7 Nov 2026.
+DMNT is a Tech House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Werkhalle, Cologne on Sat, 7 Nov 2026.
 
 DMNT is a tech house and funk / soul artist, with 6 gigs on soundcheck across Cologne, Geneva and Lisbon. Often billed alongside nu_selva, Bertrand P and Djshado. Next up: Werkhalle, Cologne on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ DMNT is a tech house and funk / soul artist, with 6 gigs on soundcheck across Co
 
 nu_selva, Bertrand P, Djshado
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmnt/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmnt/)*

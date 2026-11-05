@@ -1,6 +1,6 @@
 # London Elektricity
 
-London Elektricity is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
+London Elektricity is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tama, Poznan on Fri, 6 Nov 2026.
 
 London Elektricity is a drum & bass and jungle artist based in United Kingdom, with 64 gigs on soundcheck across Auckland, Berlin, Boston and Bristol and 31 more. Often billed alongside Makoto, Degs and Nu:Tone. Next up: Tama, Poznan on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ London Elektricity is a drum & bass and jungle artist based in United Kingdom, w
 
 Makoto, Degs, Nu:Tone
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/londonelektricity/)*

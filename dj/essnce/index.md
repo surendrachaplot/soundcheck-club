@@ -1,6 +1,6 @@
 # ESSNCE
 
-ESSNCE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+ESSNCE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 ESSNCE is a tech house and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Austria, Ibiza and London and 1 more. Often billed alongside Maqossa, Benny Rodrigues and AOB. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ ESSNCE is a tech house and house artist based in Netherlands, with 17 gigs on so
 
 Maqossa, Benny Rodrigues, AOB
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/essnce/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/essnce/)*

@@ -1,8 +1,8 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Quantize - Deep Autumn Night Techno & House Experience -" on Fri, 6 Nov 2026.
+Club Daphnia is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Quantize - Deep Autumn Night Techno & House Experience -" on Fri, 6 Nov 2026.
 
-Club Daphnia is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including APEPA, Aspara, KAPI and Loe (JP) and 2 more. See dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
+Club Daphnia is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including APEPA, Aspara, Enishi and KAPI and 2 more. See dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
 ## What's on
 
@@ -13,10 +13,10 @@ Club Daphnia is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, wi
 | Fri, 20 Nov 2026 | KDM |  |
 | Fri, 20 Nov 2026 | KDM | Aspara, Mitch Elliott |
 | Sun, 29 Nov 2026 | DUB CLUB |  |
-| Sat, 5 Dec 2026 | syzygy | APEPA, KAPI, Loe (JP), MIYUU, OCCA, OSHALEY, Rikuto, SAITO, Tui (1), YSK., YouForgot, lostbaggage |
+| Sat, 5 Dec 2026 | syzygy | APEPA, Enishi, KAPI, Loe (JP), MIYUU, OCCA, OSHALEY, Rikuto, SAITO, Tui (1), YSK., YouForgot, lostbaggage, storror, yori |
 
 ## Address
 
 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan, Osaka
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/club-daphnia/)*

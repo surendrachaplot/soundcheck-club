@@ -1,6 +1,6 @@
 # Recondite
 
-Recondite is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Antwerp Expo, Antwerp on Fri, 6 Nov 2026.
+Recondite is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Antwerp Expo, Antwerp on Fri, 6 Nov 2026.
 
 Recondite is a techno and house artist based in Germany, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Tale Of Us, Anyma and Massano. Next up: Antwerp Expo, Antwerp on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Recondite is a techno and house artist based in Germany, with 118 gigs on soundc
 
 Tale Of Us, Anyma, Massano
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/recondite/)*

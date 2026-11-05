@@ -1,6 +1,6 @@
 # Bliss (1)
 
-Bliss (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
+Bliss (1) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Legal, Munich on Sat, 14 Nov 2026.
 
 Bliss is a techno and electro artist based in France, with 20 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Freiburg and 6 more. Often billed alongside Ad Astra, Dictent Vroom and Héctor Oaks. Next up: Legal, Munich on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bliss is a techno and electro artist based in France, with 20 gigs on soundcheck
 
 Ad Astra, Dictent Vroom, Héctor Oaks
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bliss-1/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bliss-1/)*

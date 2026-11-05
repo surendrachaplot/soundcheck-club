@@ -1,6 +1,6 @@
 # Theodora Extra
 
-Theodora Extra is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Trajectory: ϙue (Quad live), Halifax JR (Hybrid live), Hum AgOg (live) + Panel discussion " on Thu, 5 Nov 2026.
+Theodora Extra is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Trajectory: ϙue (Quad live), Halifax JR (Hybrid live), Hum AgOg (live) + Panel discussion " on Thu, 5 Nov 2026.
 
 Theodora Extra is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including ϙue. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Theodora Extra is a music venue in Barcelona listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Trajectory: ϙue (Quad live), Halifax JR (Hybrid live), Hum AgOg (live) + Panel discussion  | ϙue |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/theodora-extra/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/theodora-extra/)*

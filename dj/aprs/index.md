@@ -1,19 +1,19 @@
 # APRS
 
-APRS is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Ikii, Berlin on Wed, 4 Nov 2026.
+APRS is a Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at THF Radio / Torhaus, Berlin on Fri, 6 Nov 2026.
 
-APRS is a techno and ambient artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Lisbon. Often billed alongside Serenus, Am Nil and Decoder. Next up: Ikii, Berlin on Wed 4 Nov.
+APRS is a techno and ambient artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Lisbon. Often billed alongside Serenus, Am Nil and Decoder. Next up: THF Radio / Torhaus, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Ikii | Berlin |
 | Fri, 6 Nov 2026 | THF Radio / Torhaus | Berlin |
 | Thu, 3 Dec 2026 | Start.Bahn - Genezarethkirche | Berlin |
 
 ## Recently played
 
+- Ikii, Berlin · Wed, 4 Nov 2026
 - Genezareth-Kirche, Berlin · Thu, 3 Sept 2026
 - Ikii, Berlin · Tue, 4 Aug 2026
 - Ikii, Berlin · Tue, 7 Jul 2026
@@ -21,10 +21,9 @@ APRS is a techno and ambient artist based in Germany, with 41 gigs on soundcheck
 - Crack Bellmer, Berlin · Sun, 24 May 2026
 - Ikii, Berlin · Wed, 20 May 2026
 - TBA - Neuköln, Berlin · Fri, 15 May 2026
-- Loone, Berlin · Tue, 31 Mar 2026
 
 ## Shares bills with
 
 Serenus, Am Nil, Decoder
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aprs/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aprs/)*

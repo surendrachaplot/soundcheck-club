@@ -1,8 +1,8 @@
 # QQQ ST. Park
 
-QQQ ST. Park is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "BNWT Presents" on Fri, 6 Nov 2026.
+QQQ ST. Park is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "BNWT Presents" on Fri, 6 Nov 2026.
 
-QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Aaron Static, Azifm, EMCD and File Explorer and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
+QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Aaron Static, Azifm, EMCD and File Explorer and 2 more. See dates, start times and who's playing. 2 Peel St, Collingwood VIC 3066.
 
 ## What's on
 
@@ -14,6 +14,7 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs
 | Fri, 27 Nov 2026 | SUBMARINE (GER), STRATEGY (UK), DEEP TEMPO (UK) | safire |
 | Sat, 28 Nov 2026 | System Killerz |  |
 | Fri, 4 Dec 2026 | Lenzman Melbourne Fundraiser | Aaron Static, Azifm, EMCD, Hound, safire |
+| Sat, 5 Dec 2026 | WBW: Rave In A Cave (Melb) |  |
 | Sat, 2 Jan 2027 | More Fire: reggae & dancehall session |  |
 | Sat, 27 Feb 2027 | VECTOR:IZE LAUNCH PARTY...or: A New Hope for VECTOR in the ⁠24+1/2⁠ᵗʰ Century | File Explorer |
 
@@ -21,4 +22,4 @@ QQQ ST. Park is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs
 
 2 Peel St, Collingwood VIC 3066, Melbourne
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/qqq-st-park/)*

@@ -1,6 +1,6 @@
 # DJ WUF
 
-DJ WUF is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Fonoteek, Tallinn on Sat, 14 Nov 2026.
+DJ WUF is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Fonoteek, Tallinn on Sat, 14 Nov 2026.
 
 DJ WUF is a house and disco artist based in Finland, with 44 gigs on soundcheck across Helsinki and Tallinn. Often billed alongside HiToshi, Justus Arvelin and Olesia (FI). Next up: Fonoteek, Tallinn on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ WUF is a house and disco artist based in Finland, with 44 gigs on soundcheck 
 
 HiToshi, Justus Arvelin, Olesia (FI)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwuf/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwuf/)*

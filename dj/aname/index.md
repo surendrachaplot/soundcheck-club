@@ -1,13 +1,15 @@
 # anamē
 
-anamē is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 13 Feb 2027.
+anamē is a Progressive House and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Q Nightclub, Seattle on Fri, 15 Jan 2027.
 
-anamē is a progressive house and trance artist based in Sweden, with 30 gigs on soundcheck across Adelaide, Amsterdam, Austin and Baltimore and 20 more. Often billed alongside Above & Beyond, Amy Wiles and SONATA. Next up: Ritter Butzke, Berlin on Sat 13 Feb.
+anamē is a progressive house and trance artist based in Sweden, with 32 gigs on soundcheck across Adelaide, Amsterdam, Austin and Baltimore and 20 more. Often billed alongside Above & Beyond, Amy Wiles and SONATA. Next up: Q Nightclub, Seattle on Fri 15 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 15 Jan 2027 | Q Nightclub | Seattle |
+| Fri, 22 Jan 2027 | The Midway | San Francisco/Oakland |
 | Sat, 13 Feb 2027 | Ritter Butzke | Berlin |
 
 ## Recently played
@@ -25,4 +27,4 @@ anamē is a progressive house and trance artist based in Sweden, with 30 gigs on
 
 Above & Beyond, Amy Wiles, SONATA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aname/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aname/)*

@@ -1,8 +1,8 @@
 # D! Club
 
-D! Club is a music venue in Lausanne with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "SVEN VÄTH, Tal Fussman, Salvatore Freda" on Fri, 6 Nov 2026.
+D! Club is a music venue in Lausanne with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SVEN VÄTH, Tal Fussman, Salvatore Freda" on Fri, 6 Nov 2026.
 
-D! Club is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with line-ups including Alicia Hahn, Einmusik, Jan Blomqvist and Joachim Pastor and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
+D! Club is a music venue in Lausanne listed on soundcheck. 9 upcoming gigs, with line-ups including Alicia Hahn, Angerfist, Einmusik and Jan Blomqvist and 2 more. See dates, start times and who's playing. Place Centrale 1; 1003, Lausanne; Switzerland.
 
 ## What's on
 
@@ -11,8 +11,10 @@ D! Club is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with
 | Fri, 6 Nov 2026 | SVEN VÄTH, Tal Fussman, Salvatore Freda | Salvatore Freda, Sven Vath, Tal Fussman |
 | Fri, 13 Nov 2026 | Jan Blomqvist, Romain Garcia | Jan Blomqvist, Julien Vertigo, Romain Garcia |
 | Fri, 20 Nov 2026 | NTO, Joachim Pastor => SPACE ODYSSEY | Joachim Pastor, NTO |
-| Fri, 27 Nov 2026 | Vladimir Cauchemar 2026 | Nhū, Vladimir Cauchemar |
-| Fri, 4 Dec 2026 | KÖLSCH 2026 | Alicia Hahn, Einmusik, Kölsch |
+| Fri, 27 Nov 2026 | Vladimir Cauchemar | Nhū, Vladimir Cauchemar |
+| Fri, 4 Dec 2026 | KÖLSCH, Einmusik, Alicia Hahn | Alicia Hahn, Einmusik, Kölsch |
+| Fri, 11 Dec 2026 | OMAKS, Protokseed, Sköne, RŌSE | OMAKS, Protokseed, Sköne |
+| Fri, 18 Dec 2026 | Angerfist | Angerfist, Nhū |
 | Fri, 15 Jan 2027 | Wilkinson | Wilkinson |
 | Fri, 15 Jan 2027 | Subset with Wilkinson // Lausanne | Wilkinson |
 
@@ -20,4 +22,4 @@ D! Club is a music venue in Lausanne listed on soundcheck. 7 upcoming gigs, with
 
 Place Centrale 1; 1003, Lausanne; Switzerland, Lausanne
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/lausanne/club/d-club/)*

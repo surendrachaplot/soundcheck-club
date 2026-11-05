@@ -1,6 +1,6 @@
 # Ben Lucas
 
-Ben Lucas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - SECRET LOCATION, ROCHFORD ESSEX, South-east on Thu, 31 Dec 2026.
+Ben Lucas is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - SECRET LOCATION, ROCHFORD ESSEX, South-east on Thu, 31 Dec 2026.
 
 Ben Lucas is a house and tech house artist based in United Kingdom, with 12 gigs on soundcheck across Brighton, London and South East. Often billed alongside Curby, Benji King and Harold.. Next up: TBA - SECRET LOCATION, ROCHFORD ESSEX, South East on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ben Lucas is a house and tech house artist based in United Kingdom, with 12 gigs
 
 Curby, Benji King, Harold.
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benlucas/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benlucas/)*

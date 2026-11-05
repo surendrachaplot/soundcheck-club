@@ -1,6 +1,6 @@
 # ASLO
 
-ASLO is a Techno and Psytrance artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hidden, Manchester on Fri, 1 Jan 2027.
+ASLO is a Techno and Psytrance artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hidden, Manchester on Fri, 1 Jan 2027.
 
 ASLO is a techno and psytrance artist based in United Kingdom, with 32 gigs on soundcheck across Adelaide, Amsterdam, Birmingham and Brisbane and 9 more. Often billed alongside Adam Bartas, Nik Kastel and Samuel Moriero. Next up: Hidden, Manchester on Fri 1 Jan.
 
@@ -30,4 +30,4 @@ ASLO is a techno and psytrance artist based in United Kingdom, with 32 gigs on s
 
 Adam Bartas, Nik Kastel, Samuel Moriero (2)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aslo/)*

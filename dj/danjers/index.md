@@ -1,6 +1,6 @@
 # Danjers
 
-Danjers is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
+Danjers is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
 
 Danjers is a house and deep house artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside Adrian Mart, Enrico Vergo and ALEX FÖX. Next up: Barco Sound House, Madrid on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Danjers is a house and deep house artist based in Spain, with 6 gigs on soundche
 
 Adrian Mart, Enrico Vergo, ALEX FÖX
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danjers/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danjers/)*

@@ -1,6 +1,6 @@
 # Da Yama
 
-Da Yama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Thu, 5 Nov 2026.
+Da Yama is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BRAND SHIBUYA, Tokyo on Thu, 5 Nov 2026.
 
 Da Yama is a techno and house artist based in Japan, with 199 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Taichi Kawahira, Kojiro and junkie babe. Next up: BRAND SHIBUYA, Tokyo on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ Da Yama is a techno and house artist based in Japan, with 199 gigs on soundcheck
 
 Taichi Kawahira, Kojiro, junkie babe
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayama/)*

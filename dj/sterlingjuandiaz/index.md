@@ -1,6 +1,6 @@
 # Sterling Juan Diaz
 
-Sterling Juan Diaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Six, San Francisco/Oakland on Sat, 7 Nov 2026.
+Sterling Juan Diaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Six, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Sterling Juan Diaz is a house and techno artist based in United States of America, with 133 gigs on soundcheck across Berlin, Chicago, Leipzig and Los Angeles and 7 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Makadsi. Next up: Club Six, San Francisco/Oakland on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sterling Juan Diaz is a house and techno artist based in United States of Americ
 
 Sekucci, ALEXIS DE LA ROSA, Makadsi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*

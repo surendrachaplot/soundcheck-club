@@ -1,6 +1,6 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at ZENNER, Berlin on Thu, 5 Nov 2026.
+Polygonia is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at ZENNER, Berlin on Thu, 5 Nov 2026.
 
 Polygonia is a techno and house artist based in Germany, with 251 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bali and 73 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: ZENNER, Berlin on Thu 5 Nov.
 
@@ -35,4 +35,4 @@ Polygonia is a techno and house artist based in Germany, with 251 gigs on soundc
 
 GiGi FM, BASHKKA, Efdemin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polygonia/)*

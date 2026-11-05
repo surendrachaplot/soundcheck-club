@@ -1,14 +1,15 @@
 # Angel D'lite
 
-Angel D'lite is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
+Angel D'lite is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at KREUZWERK, Berlin on Sat, 14 Nov 2026.
 
-Angel D'lite is a house and techno artist based in United Kingdom, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: KREUZWERK, Berlin on Sat 14 Nov.
+Angel D'lite is a house and techno artist based in United Kingdom, with 252 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside dj sweet6teen, THC and FAFF. Next up: KREUZWERK, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | KREUZWERK | Berlin |
+| Sat, 14 Nov 2026 | Inter-City | The Hague |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | The White Hotel | Manchester |
 | Sat, 28 Nov 2026 | Phonox | London |
@@ -32,4 +33,4 @@ Angel D'lite is a house and techno artist based in United Kingdom, with 251 gigs
 
 dj sweet6teen, THC, FAFF
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angeld-lite/)*

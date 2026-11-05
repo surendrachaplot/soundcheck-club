@@ -1,6 +1,6 @@
 # dundzava
 
-dundzava is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kult, Belgrade on Sat, 7 Nov 2026.
+dundzava is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kult, Belgrade on Sat, 7 Nov 2026.
 
 dundzava is a house and techno artist, with 6 gigs on soundcheck across Belgrade. Often billed alongside Darija, 011bpm and BreLen. Next up: Kult, Belgrade on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ dundzava is a house and techno artist, with 6 gigs on soundcheck across Belgrade
 
 Darija, 011bpm, BreLen
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dundzava/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dundzava/)*

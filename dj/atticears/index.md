@@ -1,6 +1,6 @@
 # Attic Ears
 
-Attic Ears is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Textilgyár, Budapest on Fri, 27 Nov 2026.
+Attic Ears is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Textilgyár, Budapest on Fri, 27 Nov 2026.
 
 Attic Ears is a house and minimal artist based in Hungary, with 8 gigs on soundcheck across Budapest. Often billed alongside Electric Boutique, James Cole and Oliver SCH. Next up: Textilgyár, Budapest on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Attic Ears is a house and minimal artist based in Hungary, with 8 gigs on soundc
 
 Electric Boutique, James Cole, Oliver SCH
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atticears/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atticears/)*

@@ -1,8 +1,8 @@
 # slowbirds
 
-slowbirds is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 6 Nov 2026.
+slowbirds is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 6 Nov 2026.
 
-slowbirds is a house and electro artist, with 34 gigs on soundcheck across Ho Chi Minh City. Often billed alongside DESNUAGES, DANE. and ling:chi. Next up: Luu Bar, Ho Chi Minh City on Fri 6 Nov.
+slowbirds is a house and electro artist based in Japan, with 34 gigs on soundcheck across Ho Chi Minh City. Often billed alongside DESNUAGES, DANE. and ling:chi. Next up: Luu Bar, Ho Chi Minh City on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ slowbirds is a house and electro artist, with 34 gigs on soundcheck across Ho Ch
 
 DESNUAGES, DANE., ling:chi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowbirds/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowbirds/)*

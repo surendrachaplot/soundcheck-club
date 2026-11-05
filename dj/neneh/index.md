@@ -1,6 +1,6 @@
 # Nene H
 
-Nene H is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Macadam, Nantes on Sat, 21 Nov 2026.
+Nene H is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Macadam, Nantes on Sat, 21 Nov 2026.
 
 Nene H is a techno and house artist based in Germany, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside Mama Snake, Hyperaktivist and Yazzus. Next up: Macadam, Nantes on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Nene H is a techno and house artist based in Germany, with 230 gigs on soundchec
 
 Mama Snake, Hyperaktivist, Yazzus
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neneh/)*

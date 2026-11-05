@@ -1,6 +1,6 @@
 # Luude
 
-Luude is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Luude is a Drum & Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Luude is a drum & bass and house artist based in Australia, with 48 gigs on soundcheck across Adelaide, Auckland, Bratislava and Brighton and 25 more. Often billed alongside Mozey, Chase & Status and Notion. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Luude is a drum & bass and house artist based in Australia, with 48 gigs on soun
 
 Mozey, Chase & Status, Notion
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luude/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luude/)*

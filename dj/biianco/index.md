@@ -1,14 +1,15 @@
 # BIIANCO
 
-BIIANCO is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at MÄX, Zurich on Fri, 20 Nov 2026.
+BIIANCO is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at MÄX, Zurich on Fri, 20 Nov 2026.
 
-BIIANCO is a techno and trance artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 41 more. Often billed alongside Fenrick, Adrian Mills and Afem Syko. Next up: MÄX, Zurich on Fri 20 Nov.
+BIIANCO is a techno and trance artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 41 more. Often billed alongside Fenrick, Adrian Mills and Afem Syko. Next up: MÄX, Zurich on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | MÄX | Zurich |
+| Sat, 28 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 5 Dec 2026 | Flanders Expo Centre | Ghent |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 
@@ -27,4 +28,4 @@ BIIANCO is a techno and trance artist based in United States of America, with 11
 
 Fenrick, Adrian Mills, Afem Syko
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biianco/)*

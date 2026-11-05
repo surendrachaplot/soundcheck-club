@@ -1,6 +1,6 @@
 # INTUIT
 
-INTUIT is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Jar, Dublin on Sun, 22 Nov 2026.
+INTUIT is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Jar, Dublin on Sun, 22 Nov 2026.
 
 INTUIT is an afro house and house artist, with 28 gigs on soundcheck across Dublin and London. Often billed alongside Golden Lady, Mixolis and Angela Rose. Next up: The Jar, Dublin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ INTUIT is an afro house and house artist, with 28 gigs on soundcheck across Dubl
 
 Golden Lady, Mixolis, Angela Rose
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intuit/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/intuit/)*

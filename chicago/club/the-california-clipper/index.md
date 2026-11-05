@@ -1,6 +1,6 @@
 # The California Clipper
 
-The California Clipper is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Excursions" on Sat, 7 Nov 2026.
+The California Clipper is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Excursions" on Sat, 7 Nov 2026.
 
 The California Clipper is a music venue in Chicago listed on soundcheck. 3 upcoming gigs, with line-ups including Cordell Johnson, Emmaculate, James Vincent and Mike Nervous and 1 more. See dates, start times and who's playing. 1002 N California Ave, Chicago, IL 60622.
 
@@ -16,4 +16,4 @@ The California Clipper is a music venue in Chicago listed on soundcheck. 3 upcom
 
 1002 N California Ave, Chicago, IL 60622, Chicago
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/the-california-clipper/)*

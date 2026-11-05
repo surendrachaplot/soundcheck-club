@@ -1,6 +1,6 @@
 # Todd Edwards
 
-Todd Edwards is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
+Todd Edwards is a House and Garage artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Electric Brixton, London on Fri, 13 Nov 2026.
 
 Todd Edwards is a house and garage artist based in United States of America, with 132 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 34 more. Often billed alongside Conducta, Sam Divine and Rio Tashan. Next up: Electric Brixton, London on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Todd Edwards is a house and garage artist based in United States of America, wit
 
 Conducta, Sam Divine, Rio Tashan
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddedwards/)*

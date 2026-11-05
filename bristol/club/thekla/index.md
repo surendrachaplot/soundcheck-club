@@ -1,6 +1,6 @@
 # Thekla
 
-Thekla is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dazed Muzic presents: General Levy" on Fri, 6 Nov 2026.
+Thekla is a music venue in Bristol with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Dazed Muzic presents: General Levy" on Fri, 6 Nov 2026.
 
 Thekla is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with line-ups including Basstripper, Diagnostix, General Levy and Ivy Lab and 1 more. See dates, start times and who's playing. The Grove, East Mud Dock, Bristol BS1 4RB, United Kingdom.
 
@@ -17,4 +17,4 @@ Thekla is a music venue in Bristol listed on soundcheck. 4 upcoming gigs, with l
 
 The Grove, East Mud Dock, Bristol BS1 4RB, United Kingdom, Bristol
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/thekla/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/thekla/)*

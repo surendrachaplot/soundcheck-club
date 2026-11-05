@@ -1,6 +1,6 @@
 # Flytz
 
-Flytz is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Salon Daomé, Montreal on Sat, 21 Nov 2026.
+Flytz is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Salon Daomé, Montreal on Sat, 21 Nov 2026.
 
 Flytz is a house and minimal artist based in Canada, with 6 gigs on soundcheck across Montreal and Quebec City. Often billed alongside YVNNI, BACKSPIN and L.P. Rhythm. Next up: Salon Daomé, Montreal on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Flytz is a house and minimal artist based in Canada, with 6 gigs on soundcheck a
 
 YVNNI, BACKSPIN, L.P. Rhythm
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flytz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flytz/)*

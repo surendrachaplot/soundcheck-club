@@ -1,15 +1,14 @@
 # Serenda
 
-Serenda is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Triqis, London on Thu, 5 Nov 2026.
+Serenda is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Triqis, London on Thu, 5 Nov 2026.
 
-Serenda is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Barcelona, Berlin, Bristol and Dubai and 6 more. Often billed alongside &ME, Bradley Zero and Makadsi. Next up: Triqis, London on Thu 5 Nov.
+Serenda is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Barcelona, Berlin, Bristol and Dubai and 6 more. Often billed alongside &ME, Bradley Zero and Rampa. Next up: Triqis, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Triqis | London |
-| Fri, 13 Nov 2026 | BASEMENT | New York City |
 | Sat, 5 Dec 2026 | Palais | London |
 
 ## Recently played
@@ -25,6 +24,6 @@ Serenda is a house and techno artist based in United Kingdom, with 56 gigs on so
 
 ## Shares bills with
 
-&ME, Bradley Zero, Makadsi
+&ME, Bradley Zero, Rampa
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serenda/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serenda/)*

@@ -1,6 +1,6 @@
 # WhoMadeWho
 
-WhoMadeWho is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 14 Nov 2026.
+WhoMadeWho is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palace of Fine Arts, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 WhoMadeWho is a house and techno artist based in Denmark, with 174 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Black Coffee, Carlita and Adriatique. Next up: Palace of Fine Arts, San Francisco/Oakland on Sat 14 Nov.
 
@@ -30,4 +30,4 @@ WhoMadeWho is a house and techno artist based in Denmark, with 174 gigs on sound
 
 Black Coffee, Carlita, Adriatique
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whomadewho/)*

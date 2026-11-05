@@ -1,6 +1,6 @@
 # Juke New City at Mood Ring
 
-Juke New City at Mood Ring on Fri 11 Dec, New York City. 3 artists: Botanist, dev.n and Niyx. See the line-up on soundcheck.
+Juke New City at Mood Ring on Fri 11 Dec, New York City. 2 artists: dev.n and Niyx. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Juke New City at Mood Ring on Fri 11 Dec, New York City. 3 artists: Botanist, de
 
 ## Line-up
 
-- Botanist
 - dev.n
 - Niyx
 

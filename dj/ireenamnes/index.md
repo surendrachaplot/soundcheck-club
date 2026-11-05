@@ -1,6 +1,6 @@
 # Ireen Amnes
 
-Ireen Amnes is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at FOLD, London on Thu, 12 Nov 2026.
+Ireen Amnes is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at FOLD, London on Thu, 12 Nov 2026.
 
 Ireen Amnes is a techno and experimental artist, with 77 gigs on soundcheck across Amsterdam, Athens, Berlin and Bologna and 12 more. Often billed alongside Faux Naif, Infinity Division and Chloe Lula. Next up: FOLD, London on Thu 12 Nov.
 
@@ -28,4 +28,4 @@ Ireen Amnes is a techno and experimental artist, with 77 gigs on soundcheck acro
 
 Faux Naif, Infinity Division, Chloe Lula
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ireenamnes/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ireenamnes/)*

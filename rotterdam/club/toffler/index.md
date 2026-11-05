@@ -1,8 +1,8 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Toffler presents Cher Semain all night long" on Fri, 6 Nov 2026.
+Toffler is a music venue in Rotterdam with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Toffler presents Cher Semain all night long" on Fri, 6 Nov 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 12 upcoming gigs, with line-ups including AIS, Ben Horton, Bumpr and DAF and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AIS, Ben Horton, Bumpr and DAF and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Toffler is a music venue in Rotterdam listed on soundcheck. 12 upcoming gigs, wi
 | Sat, 28 Nov 2026 | TOFFLER presents Ranger Trucco |  |
 | Fri, 4 Dec 2026 | TOFFLER presents Justin Tinderdate B2B Elotrance (3HR set) | Elotrance, Justin Tinderdate, NIKKI (3), S3PPA |
 | Sat, 5 Dec 2026 | Toffler presents GIGSTA B2B Fabio Santos (3HR set) | Fabio Santos, Itz3bby, Ive Lovers |
+| Fri, 11 Dec 2026 | Toffler presents Trancemaster Krause (3HR set) | Trancemaster Krause, Trias Kinetica |
 | Sat, 12 Dec 2026 | Toffler presents Menesix [All Night Long] | MENESIX |
-| Fri, 18 Dec 2026 | Toffler presents Paco Osuna | Luun, Paco Osuna, Rayzir |
 
 ## Address
 
 Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands, Rotterdam
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/toffler/)*

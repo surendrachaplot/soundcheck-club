@@ -1,6 +1,6 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "VICE VERSA Invites The Muffin Man" on Thu, 5 Nov 2026.
+The Berkeley Suite is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "VICE VERSA Invites The Muffin Man" on Thu, 5 Nov 2026.
 
 The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, with line-ups including BAUGRUPPE90, Carmen Baía, Co-Accused and Crazy P and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
@@ -8,7 +8,7 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | VICE VERSA Invites The Muffin Man | LAUZ, Mixfits (2), TheMuffinMan |
+| Thu, 5 Nov 2026 | VICE VERSA Invites The Muffin Man | LAUZ, Mixfits (2), The Muffin Man |
 | Fri, 6 Nov 2026 | The Berkeley Suite presents: Shanti Celeste | Carmen Baía, Shanti Celeste, Sophia Constantinou |
 | Sat, 7 Nov 2026 | The Berkeley Suite presents - Erol Alkan // To the Rhythm All Night Long | Erol Alkan |
 | Tue, 10 Nov 2026 | CASA: TUESDAYS AT The Berkeley Suite // 10TH NOVEMBER |  |
@@ -23,4 +23,4 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

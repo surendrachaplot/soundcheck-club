@@ -1,6 +1,6 @@
 # Timmy P
 
-Timmy P is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Old Court, South-east on Sat, 7 Nov 2026.
+Timmy P is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Old Court, South-east on Sat, 7 Nov 2026.
 
 Timmy P is a house and garage artist based in United Kingdom, with 9 gigs on soundcheck across Amsterdam, London, Manchester and South East. Often billed alongside Danny Snowden, Ryan Nicholls and Santé. Next up: The Old Court, South East on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Timmy P is a house and garage artist based in United Kingdom, with 9 gigs on sou
 
 Danny Snowden, Ryan Nicholls, Santé
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyp/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timmyp/)*

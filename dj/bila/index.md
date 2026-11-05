@@ -1,6 +1,6 @@
 # BILA
 
-BILA is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+BILA is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 BILA is a house and minimal artist based in Romania, with 26 gigs on soundcheck across Amsterdam, Brussels, Bucharest and Dubai and 4 more. Often billed alongside Gescu, Dan Andrei and CEZAR. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ BILA is a house and minimal artist based in Romania, with 26 gigs on soundcheck 
 
 Gescu, Dan Andrei, CEZAR
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bila/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bila/)*

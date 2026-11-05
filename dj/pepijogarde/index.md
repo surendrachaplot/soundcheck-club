@@ -1,8 +1,8 @@
 # Pepi Jogarde
 
-Pepi Jogarde is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 7 Nov 2026.
+Pepi Jogarde is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Peti Kupe, Zagreb on Sat, 7 Nov 2026.
 
-Pepi Jogarde is a house and techno artist, with 16 gigs on soundcheck across Zagreb. Often billed alongside Antonio Zuza, Gerd Janson and Kristijan Molnar. Next up: Peti Kupe, Zagreb on Sat 7 Nov.
+Pepi Jogarde is a house and techno artist based in Croatia, with 16 gigs on soundcheck across Zagreb. Often billed alongside Antonio Zuza, Gerd Janson and Kristijan Molnar. Next up: Peti Kupe, Zagreb on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Pepi Jogarde is a house and techno artist, with 16 gigs on soundcheck across Zag
 
 Antonio Zuza, Gerd Janson, Kristijan Molnar
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pepijogarde/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pepijogarde/)*

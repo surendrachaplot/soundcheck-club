@@ -1,6 +1,6 @@
 # Ale Grooves
 
-Ale Grooves is a Tech House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Gallery, London on Sat, 7 Nov 2026.
+Ale Grooves is a Tech House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Gallery, London on Sat, 7 Nov 2026.
 
 Ale Grooves is a tech house and minimal artist based in Colombia, with 37 gigs on soundcheck across London and Zurich. Often billed alongside Ramoss, Pedro Villa and Munooz. Next up: Gallery, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Ale Grooves is a tech house and minimal artist based in Colombia, with 37 gigs o
 
 Ramoss, Pedro Villa, Munooz
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alegrooves/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alegrooves/)*

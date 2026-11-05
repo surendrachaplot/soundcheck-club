@@ -1,6 +1,6 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Loukeman w/ SANDOR DJ, Torus, Macrosoft bar40 hosted by klub krai " on Fri, 6 Nov 2026.
+Garage Noord is a music venue in Amsterdam with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Loukeman w/ SANDOR DJ, Torus, Macrosoft bar40 hosted by klub krai " on Fri, 6 Nov 2026.
 
 Garage Noord is a music venue in Amsterdam listed on soundcheck. 11 upcoming gigs, with line-ups including 2tongues, Anthony Linell, AUCO and baby ganoush and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
@@ -15,7 +15,7 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 11 upcoming gig
 | Sat, 14 Nov 2026 | Dek Bass & Shana Qru bar40: dr boobless!: top surgery fundraiser | 2tongues, DEROZAN, GOYA, Honey Jazz, Jo FLM, TiZi (NL), drum song (dj) |
 | Sun, 15 Nov 2026 | BeHaerd - Purposely Connect #2 | Anthony Linell, DHÆÜR, Daan Donk, Doran, Idilay, Jessie Granqvist, LUAR (NL), Victor (DE) |
 | Fri, 20 Nov 2026 | PLEASERS | AUCO |
-| Sat, 21 Nov 2026 | Omen Wapta Weekender | Bipolar, Emika Elena, Gan D, Gui (PT), Innersha, Property, Raär, Sarah Wreath, Woody92 |
+| Sat, 21 Nov 2026 | Omen Wapta Weekender | Bipolar, Emika Elena, Gan D, Gui (PT), Innersha, Mimu, Property, Raär, Sarah Wreath, Woody92 |
 | Fri, 27 Nov 2026 | VHS x Pacific Ondergronds Bar40 hosted by Spacebunker | VHS |
 | Sat, 28 Nov 2026 | Kynant with Dialog & Benji (live), Richard Akingbehin, Mia Cecille | Dialog (2), Mia Cecille, Richard Akingbehin |
 
@@ -23,4 +23,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 11 upcoming gig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

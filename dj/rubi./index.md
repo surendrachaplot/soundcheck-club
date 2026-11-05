@@ -1,8 +1,8 @@
 # RuBi.
 
-RuBi. is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at AMT, Berlin on Fri, 13 Nov 2026.
+RuBi. is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at AMT, Berlin on Fri, 13 Nov 2026.
 
-RuBi. is a techno and hardcore artist based in Germany, with 18 gigs on soundcheck across Berlin, Hamburg, Leipzig and Madrid. Often billed alongside Danny Roach, FKNSIL and Schalltrichter. Next up: AMT, Berlin on Fri 13 Nov.
+RuBi. is a techno and hardcore artist based in Germany, with 19 gigs on soundcheck across Berlin, Hamburg, Leipzig and Madrid. Often billed alongside Danny Roach, FKNSIL and Schalltrichter. Next up: AMT, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ RuBi. is a techno and hardcore artist based in Germany, with 18 gigs on soundche
 
 ## Recently played
 
+- TBA - Rigaer Straße 3, Berlin · Sat, 31 Oct 2026
 - Puma Käfig Berlin, Berlin · Fri, 2 Oct 2026
 - Puma Käfig Berlin, Berlin · Fri, 2 Oct 2026
 - AMT, Berlin · Fri, 11 Sept 2026
@@ -20,10 +21,9 @@ RuBi. is a techno and hardcore artist based in Germany, with 18 gigs on soundche
 - Puma Käfig Berlin, Berlin · Sat, 29 Aug 2026
 - Republik Club, Madrid · Fri, 14 Aug 2026
 - Sewanstraße 258, Berlin · Sat, 8 Aug 2026
-- Humboldthain Club, Berlin · Sun, 5 Jul 2026
 
 ## Shares bills with
 
 Danny Roach, FKNSIL, Schalltrichter
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*

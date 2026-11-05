@@ -1,6 +1,6 @@
 # e/tape
 
-e/tape is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
+e/tape is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
 
 e/tape is an ambient and experimental artist, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 9 more. Often billed alongside Francesco Del Garda, Melina Serser and O.BEE. Next up: The Garden Tisno, Croatia on Thu 26 Aug.
 
@@ -25,4 +25,4 @@ e/tape is an ambient and experimental artist, with 31 gigs on soundcheck across 
 
 Francesco Del Garda, Melina Serser, O.BEE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etape/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etape/)*

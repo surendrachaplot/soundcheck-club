@@ -1,14 +1,15 @@
 # Queermom
 
-Queermom is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Crybaby, San Francisco/Oakland on Sat, 7 Nov 2026.
+Queermom is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-Queermom is a club and techno artist based in United States of America, with 28 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Discnogirl, RITCHRD and Tom Marsi. Next up: Crybaby, San Francisco/Oakland on Sat 7 Nov.
+Queermom is a club and techno artist based in United States of America, with 29 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Discnogirl, RITCHRD and Tom Marsi. Next up: Public Works, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Crybaby | San Francisco/Oakland |
+| Fri, 13 Nov 2026 | Public Works | San Francisco/Oakland |
+| Sat, 21 Nov 2026 | Crybaby | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Queermom is a club and techno artist based in United States of America, with 28 
 
 Discnogirl, RITCHRD, Tom Marsi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/queermom/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/queermom/)*

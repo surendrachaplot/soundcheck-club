@@ -1,6 +1,6 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Belladonna SEED's" on Wed, 4 Nov 2026.
+Sala Siroco is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "From Disco to Disco: Pussy Power Edition - Eme Dj + DJ Palo + K[alma]" on Thu, 5 Nov 2026.
 
 Sala Siroco is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including ADRI.G, Blood of Aza, Cerescente and Cynth and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
@@ -8,7 +8,7 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Belladonna SEED's | Leofix |
+| Thu, 5 Nov 2026 | From Disco to Disco: Pussy Power Edition - Eme Dj + DJ Palo + K[alma] | DJ Palo |
 | Sat, 7 Nov 2026 | TUMBALA | Eurowitch, Sany Delitos |
 | Sun, 8 Nov 2026 | Abyss Techno Club | Trasto |
 | Sun, 8 Nov 2026 | The Fan Club |  |
@@ -23,4 +23,4 @@ Sala Siroco is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, w
 
 Calle San Dimas, 3, 28015 Madrid, Spain, Madrid
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-siroco/)*

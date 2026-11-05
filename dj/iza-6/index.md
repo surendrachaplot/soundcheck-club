@@ -1,6 +1,6 @@
 # IZA (6)
 
-IZA (6) is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
+IZA (6) is a Drum & Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Void Club, Berlin on Sat, 28 Nov 2026.
 
 IZA is a drum & bass and hardcore artist based in Germany, with 8 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Upzet, edgarwilles and Agem. Next up: Void Club, Berlin on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ IZA is a drum & bass and hardcore artist based in Germany, with 8 gigs on soundc
 
 Upzet, edgarwilles, Agem
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-6/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iza-6/)*

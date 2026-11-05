@@ -1,8 +1,8 @@
-# Fvtvr
+# FVTVR
 
-Fvtvr is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Automatic x imagine FAMILY" on Fri, 6 Nov 2026.
+FVTVR is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Automatic x imagine FAMILY" on Fri, 6 Nov 2026.
 
-Fvtvr is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Automatic Writing and Black Loops and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+FVTVR is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Automatic Writing and Black Loops and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
@@ -21,4 +21,4 @@ Fvtvr is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

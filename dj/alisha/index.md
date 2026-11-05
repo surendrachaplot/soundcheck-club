@@ -1,8 +1,8 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Now&Wow, Rotterdam on Fri, 6 Nov 2026.
+ALISHA is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Now&Wow, Rotterdam on Fri, 6 Nov 2026.
 
-ALISHA is a house and tech house artist based in United Kingdom, with 185 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 33 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Now&Wow, Rotterdam on Fri 6 Nov.
+ALISHA is a house and tech house artist based in United Kingdom, with 186 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 33 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Now&Wow, Rotterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ ALISHA is a house and tech house artist based in United Kingdom, with 185 gigs o
 | Fri, 20 Nov 2026 | Outernet Live | London |
 | Fri, 27 Nov 2026 | Index | Dublin |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
+| Sat, 29 May 2027 | Ashton Court Estate | Bristol |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ ALISHA is a house and tech house artist based in United Kingdom, with 185 gigs o
 
 East End Dubs, Jamie Jones, Max Dean
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisha/)*

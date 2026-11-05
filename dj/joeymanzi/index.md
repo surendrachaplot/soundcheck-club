@@ -1,6 +1,6 @@
 # joey manzi
 
-joey manzi is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Cheek, London on Sat, 28 Nov 2026.
+joey manzi is a Funk / Soul and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Cheek, London on Sat, 28 Nov 2026.
 
 joey manzi is a funk / soul and r&b artist, with 40 gigs on soundcheck across Barcelona, Berlin, Bristol and London. Often billed alongside nath eps, Saige Sounds and Alexander Nut. Next up: Club Cheek, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ joey manzi is a funk / soul and r&b artist, with 40 gigs on soundcheck across Ba
 
 nath eps, Saige Sounds, Alexander Nut
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeymanzi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeymanzi/)*

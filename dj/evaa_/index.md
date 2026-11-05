@@ -1,14 +1,15 @@
 # Evaa_
 
-Evaa_ is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
+Evaa_ is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Circolo degli Illuminati, Rome on Fri, 13 Nov 2026.
 
-Evaa_ is a house and electro artist based in Italy, with 9 gigs on soundcheck across Berlin, Bologna, Milan and Rome. Often billed alongside Achieh, Alexia Glensy and Crash The Box. Next up: Circolo degli Illuminati, Rome on Fri 13 Nov.
+Evaa_ is a house and electro artist based in Italy, with 10 gigs on soundcheck across Berlin, Bologna, Central and Milan and 1 more. Often billed alongside DJ Rou, Achieh and Alexia Glensy. Next up: Circolo degli Illuminati, Rome on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Circolo degli Illuminati | Rome |
+| Sat, 5 Dec 2026 | TBA - Secret Location | Central |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Evaa_ is a house and electro artist based in Italy, with 9 gigs on soundcheck ac
 
 ## Shares bills with
 
-Achieh, Alexia Glensy, Crash The Box
+DJ Rou, Achieh, Alexia Glensy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evaa_/)*

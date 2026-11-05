@@ -1,6 +1,6 @@
 # Luka LDN
 
-Luka LDN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Union Club, Vauxhall, London on Sun, 15 Nov 2026.
+Luka LDN is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Union Club, Vauxhall, London on Sun, 15 Nov 2026.
 
 Luka LDN is a techno and tech house artist, with 6 gigs on soundcheck across London. Often billed alongside Thomas Galbardi, ACID HARRY and Carlos Martinez. Next up: Union Club, Vauxhall, London on Sun 15 Nov.
 
@@ -22,4 +22,4 @@ Luka LDN is a techno and tech house artist, with 6 gigs on soundcheck across Lon
 
 Thomas Galbardi, ACID HARRY, Carlos Martinez
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukaldn/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lukaldn/)*

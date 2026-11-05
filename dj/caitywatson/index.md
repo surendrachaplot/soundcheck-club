@@ -1,6 +1,6 @@
 # CAITY WATSON
 
-CAITY WATSON is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Radio Bar, Melbourne on Sat, 14 Nov 2026.
+CAITY WATSON is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Radio Bar, Melbourne on Sat, 14 Nov 2026.
 
 CAITY WATSON is a techno and house artist based in Australia, with 115 gigs on soundcheck across Melbourne, Singapore and Sydney. Often billed alongside Shell Shock, BDE and ALIEN-A. Next up: Radio Bar, Melbourne on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ CAITY WATSON is a techno and house artist based in Australia, with 115 gigs on s
 
 Shell Shock, BDE, ALIEN-A
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caitywatson/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caitywatson/)*

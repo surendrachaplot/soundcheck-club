@@ -1,6 +1,6 @@
 # Seelie
 
-Seelie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
+Seelie is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
 
 Seelie is a house and disco artist based in United Kingdom, with 77 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Kyoto and 6 more. Often billed alongside Brent Burns, Mr.Mowgli and Pam Anantr. Next up: Chang Chui Creative Park, Bangkok on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Seelie is a house and disco artist based in United Kingdom, with 77 gigs on soun
 
 Brent Burns, Mr.Mowgli, Pam Anantr
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seelie/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seelie/)*

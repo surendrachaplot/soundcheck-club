@@ -1,6 +1,6 @@
 # Bellarosa
 
-Bellarosa is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 7 Nov 2026.
+Bellarosa is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Marlborough Red Room, Glasgow on Sat, 7 Nov 2026.
 
 Bellarosa is a club and hip-hop artist, with 43 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Rahul.mp3, leahgte and Salam Kitty. Next up: The Marlborough Red Room, Glasgow on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Bellarosa is a club and hip-hop artist, with 43 gigs on soundcheck across Edinbu
 
 Rahul.mp3, leahgte, Salam Kitty
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarosa/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellarosa/)*

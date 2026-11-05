@@ -1,6 +1,6 @@
 # Fahlberg at Night We Met
 
-Fahlberg at Night We Met on Sat 14 Nov, Nashville. 1 artist: Fahlberg. House and Afro House. See the line-up on soundcheck.
+Fahlberg at Night We Met on Sat 14 Nov, Nashville. 2 artists: Fahlberg and Stochastic. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Fahlberg at Night We Met on Sat 14 Nov, Nashville. 1 artist: Fahlberg. House and
 ## Line-up
 
 - Fahlberg
+- Stochastic
 
 *Source: [soundcheck](https://soundcheck.club/e/2554796-fahlberg-at-night-we-met/)*

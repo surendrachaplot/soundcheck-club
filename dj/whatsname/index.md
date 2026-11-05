@@ -1,6 +1,6 @@
 # Whatsname
 
-Whatsname is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tola, London on Fri, 6 Nov 2026.
+Whatsname is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tola, London on Fri, 6 Nov 2026.
 
 Whatsname is a jungle and drum & bass artist based in United Kingdom, with 19 gigs on soundcheck across London. Often billed alongside Bryn Brax, Agility and zoneSL. Next up: Tola, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Whatsname is a jungle and drum & bass artist based in United Kingdom, with 19 gi
 
 Bryn Brax, Agility, zoneSL
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsname/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whatsname/)*

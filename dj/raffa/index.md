@@ -1,6 +1,6 @@
 # RAFFA
 
-RAFFA is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at John Doe, Amsterdam on Sat, 14 Nov 2026.
+RAFFA is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at John Doe, Amsterdam on Sat, 14 Nov 2026.
 
 RAFFA is a techno and drum & bass artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Bangkok, Budapest and Cologne. Often billed alongside LSG, Matthias Olck and AIRKEY. Next up: John Doe, Amsterdam on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ RAFFA is a techno and drum & bass artist based in Germany, with 11 gigs on sound
 
 LSG, Matthias Olck, AIRKEY
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raffa/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raffa/)*

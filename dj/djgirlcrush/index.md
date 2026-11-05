@@ -1,6 +1,6 @@
 # DJ girlcrush
 
-DJ girlcrush is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Thu, 5 Nov 2026.
+DJ girlcrush is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Thu, 5 Nov 2026.
 
 DJ girlcrush is a techno and house artist based in United States of America, with 49 gigs on soundcheck across New York City. Often billed alongside Kristen London, CMD+JAZMINE and Cryostatik. Next up: Bossa Nova Civic Club, New York City on Thu 5 Nov.
 
@@ -26,4 +26,4 @@ DJ girlcrush is a techno and house artist based in United States of America, wit
 
 Kristen London, CMD+JAZMINE, Cryostatik
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirlcrush/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirlcrush/)*

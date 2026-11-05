@@ -1,13 +1,14 @@
 # ALI3N
 
-ALI3N is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
+ALI3N is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
-ALI3N is a techno and house artist based in Germany, with 58 gigs on soundcheck across Athens, Bangkok, Basel and Belgrade and 22 more. Often billed alongside Carmen Electro, Nina Farrina and MCR-T. Next up: Oma Doris, Dortmund / Essen on Sat 12 Dec.
+ALI3N is a techno and house artist based in Germany, with 59 gigs on soundcheck across Athens, Bangkok, Basel and Belgrade and 23 more. Often billed alongside Carmen Electro, Nina Farrina and MCR-T. Next up: Südpol, Hamburg on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Südpol | Hamburg |
 | Sat, 12 Dec 2026 | Oma Doris | Dortmund / Essen |
 
 ## Recently played
@@ -25,4 +26,4 @@ ALI3N is a techno and house artist based in Germany, with 58 gigs on soundcheck 
 
 Carmen Electro, Nina Farrina, MCR-T
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ali3n/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ali3n/)*

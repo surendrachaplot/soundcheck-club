@@ -1,6 +1,6 @@
 # Avilynn
 
-Avilynn is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Giri, Berlin on Fri, 6 Nov 2026.
+Avilynn is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Giri, Berlin on Fri, 6 Nov 2026.
 
 Avilynn is a techno and ambient artist based in Greece, with 8 gigs on soundcheck across Athens and Berlin. Often billed alongside Inverse Element, BLACK ANTHEM RESTORE and .Cheka. Next up: Giri, Berlin on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Avilynn is a techno and ambient artist based in Greece, with 8 gigs on soundchec
 
 Inverse Element, BLACK ANTHEM RESTORE, .Cheka
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avilynn/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avilynn/)*

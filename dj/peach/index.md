@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 6 Nov 2026.
+Peach is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 6 Nov 2026.
 
 Peach is a house and techno artist based in Canada, with 241 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 63 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: Cobalt Studios, Newcastle on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Peach is a house and techno artist based in Canada, with 241 gigs on soundcheck 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

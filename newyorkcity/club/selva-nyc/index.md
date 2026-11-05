@@ -1,6 +1,6 @@
 # Selva NYC
 
-Selva NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Lujuria: Spanish Post Punk & Synth" on Sat, 6 Mar 2027.
+Selva NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Lujuria: Spanish Post Punk & Synth" on Sat, 6 Mar 2027.
 
 Selva NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Ivy Oh. See dates, start times and who's playing. 1329 WILLOUGHBY AVE BROOKLYN, NY 11237, USA.
 
@@ -14,4 +14,4 @@ Selva NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig
 
 1329 WILLOUGHBY AVE BROOKLYN, NY 11237, USA, New York City
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/selva-nyc/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/selva-nyc/)*

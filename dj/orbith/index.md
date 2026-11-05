@@ -1,6 +1,6 @@
 # Orbith
 
-Orbith is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sky Lounge 360, Prague on Thu, 31 Dec 2026.
+Orbith is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Sky Lounge 360, Prague on Thu, 31 Dec 2026.
 
 Orbith is a techno and house artist based in Czech Republic, with 24 gigs on soundcheck across Bratislava, Brno and Prague. Often billed alongside Domek, Dominik Gehringer and Subgate. Next up: Sky Lounge 360, Prague on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Orbith is a techno and house artist based in Czech Republic, with 24 gigs on sou
 
 Domek, Dominik Gehringer, Subgate
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbith/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/orbith/)*

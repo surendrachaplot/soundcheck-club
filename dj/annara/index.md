@@ -1,14 +1,15 @@
 # ANNARA
 
-ANNARA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Giri, Berlin on Wed, 18 Nov 2026.
+ANNARA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Giri, Berlin on Wed, 18 Nov 2026.
 
-ANNARA is a techno and house artist based in Brazil, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside KLEA, Majdolen and lealucifer. Next up: Giri, Berlin on Wed 18 Nov.
+ANNARA is a techno and house artist based in Brazil, with 18 gigs on soundcheck across Berlin and Hamburg. Often billed alongside KLEA, Majdolen and Part-Time Lesbian. Next up: Giri, Berlin on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Giri | Berlin |
+| Fri, 20 Nov 2026 | TBA | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ANNARA is a techno and house artist based in Brazil, with 17 gigs on soundcheck 
 
 ## Shares bills with
 
-KLEA, Majdolen, lealucifer
+KLEA, Majdolen, Part-Time Lesbian
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annara/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annara/)*

@@ -1,6 +1,6 @@
 # Waze
 
-Waze is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Studio Notre-Dame, Montreal on Sat, 7 Nov 2026.
+Waze is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Studio Notre-Dame, Montreal on Sat, 7 Nov 2026.
 
 Waze is a house and deep house artist, with 6 gigs on soundcheck across Ibiza, London and Montreal. Often billed alongside CITIZEN, CamelPhat and Carlos Willengton. Next up: Studio Notre-Dame, Montreal on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Waze is a house and deep house artist, with 6 gigs on soundcheck across Ibiza, L
 
 CITIZEN, CamelPhat, Carlos Willengton
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waze/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waze/)*

@@ -1,6 +1,6 @@
 # Alarico
 
-Alarico is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Gare Porto, Porto on Fri, 6 Nov 2026.
+Alarico is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Gare Porto, Porto on Fri, 6 Nov 2026.
 
 Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 89 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Gare Porto, Porto on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Alarico is a techno and house artist based in Italy, with 318 gigs on soundcheck
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

@@ -1,6 +1,6 @@
 # mazair
 
-mazair is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at 42 Marches, Paris on Sat, 21 Nov 2026.
+mazair is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 42 Marches, Paris on Sat, 21 Nov 2026.
 
 mazair is a breakbeat and bass artist based in France, with 16 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside Mogan, Mouataz and Nemoz. Next up: 42 Marches, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ mazair is a breakbeat and bass artist based in France, with 16 gigs on soundchec
 
 Mogan, Mouataz, Nemoz
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazair/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mazair/)*

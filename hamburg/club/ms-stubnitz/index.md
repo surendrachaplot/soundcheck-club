@@ -1,14 +1,13 @@
 # MS Stubnitz
 
-MS Stubnitz is a music venue in Hamburg with 17 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Sunset Images (mx), OK WAIT" on Wed, 4 Nov 2026.
+MS Stubnitz is a music venue in Hamburg with 16 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Upstream: RESONATE" on Thu, 5 Nov 2026.
 
-MS Stubnitz is a music venue in Hamburg listed on soundcheck. 17 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Bandulera and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
+MS Stubnitz is a music venue in Hamburg listed on soundcheck. 16 upcoming gigs, with line-ups including AFAR, Alex Zhang Hungtai, Bandulera and CHIEF QUEEF and 2 more. See dates, start times and who's playing. Kirchenpauerkai 29, 20457 Hamburg, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Sunset Images (mx), OK WAIT |  |
 | Thu, 5 Nov 2026 | Upstream: RESONATE | Alex Zhang Hungtai |
 | Fri, 6 Nov 2026 | Radwan Ghazi Moumneh & Frédéric D. Oberland (lb/fr), support: Jessica Moss (ca) |  |
 | Sat, 7 Nov 2026 | Horse Lords (us), Los Sara Fontan (es) |  |
@@ -18,9 +17,10 @@ MS Stubnitz is a music venue in Hamburg listed on soundcheck. 17 upcoming gigs, 
 | Sun, 15 Nov 2026 | Jakuzi (tr), support: von rohbau | Jakuzi |
 | Sat, 21 Nov 2026 | 5 Jahre Pastanaga | Crew Ombrelle, Late Night Jockel Session, niklasecco |
 | Fri, 27 Nov 2026 | RUSH |  |
+| Sat, 28 Nov 2026 | STUDIO 69 | CHIEF QUEEF, Cufme, DJ Business (2), HiHat, Plattenlieferant, Roof (2), Sophti, Wall Ra |
 
 ## Address
 
 Kirchenpauerkai 29, 20457 Hamburg, Germany, Hamburg
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/ms-stubnitz/)*

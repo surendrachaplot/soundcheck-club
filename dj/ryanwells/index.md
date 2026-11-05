@@ -1,8 +1,8 @@
 # Ryan Wells
 
-Ryan Wells is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cellar, London on Fri, 6 Nov 2026.
+Ryan Wells is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cellar, London on Fri, 6 Nov 2026.
 
-Ryan Wells is a techno and house artist, with 7 gigs on soundcheck across Calgary, London and Vancouver. Often billed alongside Sergio SP, A G E and AIDA (CA). Next up: Cellar, London on Fri 6 Nov.
+Ryan Wells is a techno and house artist based in Canada, with 7 gigs on soundcheck across Calgary, London and Vancouver. Often billed alongside Sergio SP, A G E and AIDA (CA). Next up: Cellar, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Ryan Wells is a techno and house artist, with 7 gigs on soundcheck across Calgar
 
 Sergio SP, A G E, AIDA (CA)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanwells/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryanwells/)*

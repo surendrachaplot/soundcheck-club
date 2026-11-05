@@ -1,6 +1,6 @@
 # Rebecca Goldberg
 
-Rebecca Goldberg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Stereo, Glasgow on Thu, 26 Nov 2026.
+Rebecca Goldberg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Stereo, Glasgow on Thu, 26 Nov 2026.
 
 Rebecca Goldberg is a techno and house artist based in United States of America, with 72 gigs on soundcheck across Athens, Baltimore, Berlin and Chicago and 9 more. Often billed alongside Bruce Bailey, DJ Godfather and Sheefy McFly. Next up: Stereo, Glasgow on Thu 26 Nov.
 
@@ -26,4 +26,4 @@ Rebecca Goldberg is a techno and house artist based in United States of America,
 
 Bruce Bailey, DJ Godfather, Sheefy McFly
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagoldberg/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccagoldberg/)*

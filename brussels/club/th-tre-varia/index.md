@@ -1,6 +1,6 @@
 # Théâtre Varia
 
-Théâtre Varia is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Dj Fossette" on Fri, 6 Nov 2026.
+Théâtre Varia is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Dj Fossette" on Fri, 6 Nov 2026.
 
 Théâtre Varia is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Théâtre Varia is a music venue in Brussels listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Dj Fossette |  |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/th-tre-varia/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/th-tre-varia/)*

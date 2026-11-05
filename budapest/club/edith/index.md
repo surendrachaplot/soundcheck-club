@@ -1,6 +1,6 @@
 # Edith
 
-Edith is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "Gecko Frequencies" on Thu, 19 Nov 2026.
+Edith is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Gecko Frequencies" on Thu, 19 Nov 2026.
 
 Edith is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including Erro, groovelust, klpflrtpr and Lost in Details. See dates, start times and who's playing. Budapest, Nagymező u. 25, 1065 Ungarn.
 
@@ -14,4 +14,4 @@ Edith is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with li
 
 Budapest, Nagymező u. 25, 1065 Ungarn, Budapest
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/edith/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/budapest/club/edith/)*

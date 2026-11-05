@@ -1,6 +1,6 @@
 # Distrikt
 
-Distrikt is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Passion" on Thu, 5 Nov 2026.
+Distrikt is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Passion" on Thu, 5 Nov 2026.
 
 Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including 3PM RECORDS, Adam Lance, ad*n and Alexandria and 2 more. See dates, start times and who's playing. 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom.
 
@@ -23,4 +23,4 @@ Distrikt is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with 
 
 7 Duncan Street, Leeds, LS1 6DQ, United Kingdom, Leeds
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/distrikt/)*

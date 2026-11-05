@@ -1,6 +1,6 @@
 # 2B (1)
 
-2B (1) is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
+2B (1) is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 1983, Riga on Fri, 11 Dec 2026.
 
 2B is a techno and idm artist based in Latvia, with 13 gigs on soundcheck across Malta and Riga. Often billed alongside EKVA, Gretjane and Wodders. Next up: 1983, Riga on Fri 11 Dec.
 
@@ -25,4 +25,4 @@
 
 EKVA, Gretjane, Wodders
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2b-1/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2b-1/)*

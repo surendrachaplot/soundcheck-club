@@ -1,15 +1,15 @@
 # Club Metro
 
-Club Metro is a music venue in Kyoto with 34 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "the ONEMAN show 'あちゃぴん DJ 30th SPECIAL'" on Thu, 5 Nov 2026.
+Club Metro is a music venue in Kyoto with 36 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "the ONEMAN show 'あちゃぴん DJ 30th SPECIAL'" on Thu, 5 Nov 2026.
 
-Club Metro is a music venue in Kyoto listed on soundcheck. 34 upcoming gigs, with line-ups including Alex Neri, Al Jones, Baldo and DJ Krush and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
+Club Metro is a music venue in Kyoto listed on soundcheck. 36 upcoming gigs, with line-ups including Alex Neri, Al Jones, Baldo and DJ Krush and 2 more. See dates, start times and who's playing. 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | the ONEMAN show 'あちゃぴん DJ 30th SPECIAL' |  |
-| Fri, 6 Nov 2026 | DEN-EN | JUN INAGAWA, Tui (1) |
+| Fri, 6 Nov 2026 | DEN-EN×JUN INAGAWA | JUN INAGAWA, Tui (1) |
 | Sat, 7 Nov 2026 | アーバンギャルドpresents千位十体ツアー ～BANDSET＆TECHNOPOPSET十番勝負～ |  |
 | Sat, 7 Nov 2026 | Art Collaboration Kyoto Opening Night | Kazumichi Komatsu, sintaro fujita (2), tamanaramen, ykah |
 | Sun, 8 Nov 2026 | Melodies International JPN Tour 2026 | Theo Terev, Viet (1), Yukari BB |
@@ -23,4 +23,4 @@ Club Metro is a music venue in Kyoto listed on soundcheck. 34 upcoming gigs, wit
 
 82 Simodutsumicho, Kawabata Marutamachi, Sakyo-ku, Kyoto-shi, 606-8396 Japan, Kyoto
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/kyoto/club/club-metro/)*

@@ -1,6 +1,6 @@
 # Don-Ri
 
-Don-Ri is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Elsewhere, New York City on Sat, 7 Nov 2026.
+Don-Ri is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Elsewhere, New York City on Sat, 7 Nov 2026.
 
 Don-Ri is a bass and dubstep artist, with 42 gigs on soundcheck across London, New York City and Portland. Often billed alongside jaql, Poisonfrog and Raw Unkut. Next up: Elsewhere, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Don-Ri is a bass and dubstep artist, with 42 gigs on soundcheck across London, N
 
 jaql, Poisonfrog, Raw Unkut
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/don-ri/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/don-ri/)*

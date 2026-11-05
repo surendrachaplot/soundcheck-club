@@ -1,6 +1,6 @@
 # Katy De Jesus
 
-Katy De Jesus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Katy De Jesus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
 Katy De Jesus is a house and techno artist based in Luxembourg, with 69 gigs on soundcheck across Amsterdam, Berlin, Brussels and Denver and 12 more. Often billed alongside Natalie Robinson, Jesse G and Olivia Mendez. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Katy De Jesus is a house and techno artist based in Luxembourg, with 69 gigs on 
 
 Natalie Robinson, Jesse G, Olivia Mendez
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katydejesus/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katydejesus/)*

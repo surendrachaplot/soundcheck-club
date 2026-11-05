@@ -1,8 +1,8 @@
 # Ellia Jaya
 
-Ellia Jaya is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 20 Nov 2026.
+Ellia Jaya is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 20 Nov 2026.
 
-Ellia Jaya is a house and tech house artist based in United Kingdom, with 96 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 22 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: Carousel Bar & Ballroom, Sydney on Fri 20 Nov.
+Ellia Jaya is a house and tech house artist based in United Kingdom, with 97 gigs on soundcheck across Aberdeen, Amsterdam, Austria and Bali and 23 more. Often billed alongside Gaskin, Ellam and L.P. Rhythm. Next up: Carousel Bar & Ballroom, Sydney on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Ellia Jaya is a house and tech house artist based in United Kingdom, with 96 gig
 | Sat, 28 Nov 2026 | Ice Cream Factory | Perth |
 | Fri, 18 Dec 2026 | Mint XL | Leeds |
 | Thu, 31 Dec 2026 | The Nest | Nottingham |
+| Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Ellia Jaya is a house and tech house artist based in United Kingdom, with 96 gig
 
 Gaskin, Ellam, L.P. Rhythm
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliajaya/)*

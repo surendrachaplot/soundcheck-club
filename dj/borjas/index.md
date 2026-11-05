@@ -1,6 +1,6 @@
 # Borja S
 
-Borja S is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Under Bron, Stockholm on Fri, 18 Dec 2026.
+Borja S is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Under Bron, Stockholm on Fri, 18 Dec 2026.
 
 Borja S is a techno and electronica artist based in Spain, with 20 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 5 more. Often billed alongside Avo (ES), Cesc (ES) and Nurias. Next up: Under Bron, Stockholm on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Borja S is a techno and electronica artist based in Spain, with 20 gigs on sound
 
 Avo (ES), Cesc (ES), Nurias
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borjas/)*

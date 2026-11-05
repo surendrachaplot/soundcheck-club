@@ -1,6 +1,6 @@
 # Jazzanova
 
-Jazzanova is a Jazz and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Jmes, Berlin on Thu, 5 Nov 2026.
+Jazzanova is a Jazz and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Jmes, Berlin on Thu, 5 Nov 2026.
 
 Jazzanova is a jazz and electronica artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bratislava and 6 more. Often billed alongside Alex Barck, Markus Tone and DJ Amir. Next up: Jmes, Berlin on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ Jazzanova is a jazz and electronica artist based in Germany, with 27 gigs on sou
 
 Alex Barck, Markus Tone, DJ Amir
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzanova/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jazzanova/)*

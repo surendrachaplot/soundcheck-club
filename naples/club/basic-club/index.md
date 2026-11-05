@@ -1,8 +1,8 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 14 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "BITCLUBBING + BAILÃO" on Fri, 6 Nov 2026.
+Basic Club is a music venue in Naples with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "BITCLUBBING + BAILÃO" on Fri, 6 Nov 2026.
 
-Basic Club is a music venue in Naples listed on soundcheck. 14 upcoming gigs, with line-ups including Mariiin, Aldo Rosati, Antonio Grassia and Antonio Memoli and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
+Basic Club is a music venue in Naples listed on soundcheck. 15 upcoming gigs, with line-ups including Mariiin, Aldo Rosati, Antonio Grassia and Antonio Memoli and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Basic Club is a music venue in Naples listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 21 Nov 2026 | EDITA • Aurora Halal + Mara | Aurora Halal |
 | Fri, 27 Nov 2026 | FREAKY x BEDLAM • Cristina Lazic  | Cristina Lazic |
 | Sat, 28 Nov 2026 | TRAXMISSIONI • Pearson Sound + El Uto Nino, Yayo | Pearson Sound |
+| Sat, 5 Dec 2026 | BASIC • Gigi Testa + Fabrizio Fattore live | Fabrizio Fattore, Gigi Testa |
 | Mon, 7 Dec 2026 | MUTATE • Octave One live + XXXXX | Octave One |
-| Sat, 19 Dec 2026 | BASIC • Ben UFO + Mariiin | Ben UFO, Mariiin |
 
 ## Address
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

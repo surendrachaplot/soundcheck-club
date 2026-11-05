@@ -1,6 +1,6 @@
 # DJ Bar Bridge Shinjuku
 
-DJ Bar Bridge Shinjuku is a music venue in Tokyo with 39 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Lil' Leise But Gold & SKNHDZ" on Wed, 4 Nov 2026.
+DJ Bar Bridge Shinjuku is a music venue in Tokyo with 39 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "RUKE, TAKENOKO & Sonia Lagoon" on Thu, 5 Nov 2026.
 
 DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 39 upcoming gigs, with line-ups including Abiu, callithyia, Dazzle Drums and Dictionally and 2 more. See dates, start times and who's playing. B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan.
 
@@ -8,7 +8,6 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 39 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Lil' Leise But Gold & SKNHDZ | SKNHDZ |
 | Thu, 5 Nov 2026 | RUKE, TAKENOKO & Sonia Lagoon | RUKE, Sonia Lagoon (2), TAKENOKO |
 | Fri, 6 Nov 2026 | r1ku, theoretic & SHOMA | r1ku, theoretic |
 | Sat, 7 Nov 2026 | Vinyl Youth |  |
@@ -17,10 +16,11 @@ DJ Bar Bridge Shinjuku is a music venue in Tokyo listed on soundcheck. 39 upcomi
 | Wed, 11 Nov 2026 | Mr.Disco Kid & James Glass | Mr. Disco Kid |
 | Thu, 12 Nov 2026 | Dubyama Jazzo & Go ↑ Menz |  |
 | Fri, 13 Nov 2026 | HIROSHI KAWANABE & YO.AN | YO.AN |
-| Sat, 14 Nov 2026 | SHOWHEY & DJ TOMO |  |
+| Sat, 14 Nov 2026 | SHOWHEY & TOMO |  |
+| Mon, 16 Nov 2026 | PRIMAL DUB, HIKARU & KILLER-BONG | Dictionally, Kyohei Tanaka |
 
 ## Address
 
 B1F KADO BILD., 2-19-9 SHINJUKU, SHINJUKU-KU, Tokyo Japan, Tokyo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/dj-bar-bridge-shinjuku/)*

@@ -1,6 +1,6 @@
 # Debit
 
-Debit is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Debit is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Debit is a techno and experimental artist based in United States of America, with 204 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 57 more. Often billed alongside APP, Alaska and Flat. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Debit is a techno and experimental artist based in United States of America, wit
 
 APP, Alaska (2), Flat
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/debit/)*

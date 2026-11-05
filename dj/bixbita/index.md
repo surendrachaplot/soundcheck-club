@@ -1,6 +1,6 @@
 # BIXBITA
 
-BIXBITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Core, Madrid on Thu, 5 Nov 2026.
+BIXBITA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Core, Madrid on Thu, 5 Nov 2026.
 
 BIXBITA is a techno and trance artist based in Spain, with 79 gigs on soundcheck across Barcelona, Berlin, Bogotá and Budapest and 16 more. Often billed alongside Zomkrad, Juan Cernadas and Afem Syko. Next up: Core, Madrid on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ BIXBITA is a techno and trance artist based in Spain, with 79 gigs on soundcheck
 
 Zomkrad, Juan Cernadas, Afem Syko
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bixbita/)*

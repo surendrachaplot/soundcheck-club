@@ -1,6 +1,6 @@
 # Regal86
 
-Regal86 is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Bastet, Philadelphia on Fri, 6 Nov 2026.
+Regal86 is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bastet, Philadelphia on Fri, 6 Nov 2026.
 
 Regal86 is a techno and club artist based in Mexico, with 148 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 59 more. Often billed alongside 1OO1O, 1morning and Gbenga. Next up: Bastet, Philadelphia on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Regal86 is a techno and club artist based in Mexico, with 148 gigs on soundcheck
 
 1OO1O, 1morning, Gbenga
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regal86/)*

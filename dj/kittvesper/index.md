@@ -1,6 +1,6 @@
 # Kitt Vesper
 
-Kitt Vesper is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at smartbar, Chicago on Thu, 10 Dec 2026.
+Kitt Vesper is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at smartbar, Chicago on Thu, 10 Dec 2026.
 
 Kitt Vesper is a techno and club artist based in United States of America, with 7 gigs on soundcheck across Chicago. Often billed alongside Kirk (US), Abigail Grohmann and BASHKKA. Next up: smartbar, Chicago on Thu 10 Dec.
 
@@ -23,4 +23,4 @@ Kitt Vesper is a techno and club artist based in United States of America, with 
 
 Kirk (US), Abigail Grohmann, BASHKKA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kittvesper/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kittvesper/)*

@@ -1,6 +1,6 @@
 # oshigakill
 
-oshigakill is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Poseidons, Riga on Fri, 6 Nov 2026.
+oshigakill is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Poseidons, Riga on Fri, 6 Nov 2026.
 
 oshigakill is a hardcore and techno artist based in Latvia, with 28 gigs on soundcheck across Riga. Often billed alongside MVKO, hitomori and maniken05. Next up: Poseidons, Riga on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ oshigakill is a hardcore and techno artist based in Latvia, with 28 gigs on soun
 
 MVKO, hitomori, maniken05
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oshigakill/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oshigakill/)*

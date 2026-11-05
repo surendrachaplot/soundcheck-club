@@ -1,14 +1,15 @@
 # entity_A
 
-entity_A is a Electro and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Mood Ring, New York City on Thu, 12 Nov 2026.
+entity_A is a Garage and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mood Ring, New York City on Thu, 12 Nov 2026.
 
-entity_A is an electro and garage artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside Abril IRL, Bella Hex and DJ Fang. Next up: Mood Ring, New York City on Thu 12 Nov.
+entity_A is a garage and electro artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Abril IRL, JOHNNY O and Scribble. Next up: Mood Ring, New York City on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Mood Ring | New York City |
+| Thu, 3 Dec 2026 | H0L0 | New York City |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ entity_A is an electro and garage artist based in United States of America, with
 
 ## Shares bills with
 
-Abril IRL, Bella Hex, DJ Fang
+Abril IRL, JOHNNY O, Scribble
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entity_a/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/entity_a/)*

@@ -1,6 +1,6 @@
 # Mike Dunn
 
-Mike Dunn is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at National Union Building, Washington DC on Sat, 7 Nov 2026.
+Mike Dunn is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at National Union Building, Washington DC on Sat, 7 Nov 2026.
 
 Mike Dunn is a house and deep house artist based in United States of America, with 159 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 14 more. Often billed alongside Terry Hunter, Adorio and Gene Hunt. Next up: National Union Building, Washington DC on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Mike Dunn is a house and deep house artist based in United States of America, wi
 
 Terry Hunter, Adorio, Gene Hunt
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedunn/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedunn/)*

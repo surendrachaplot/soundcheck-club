@@ -1,13 +1,14 @@
 # RAVL
 
-RAVL is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Lyon - Confluence, Lyon on Wed, 9 Dec 2026.
+RAVL is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Unité.22, Marseille on Sat, 28 Nov 2026.
 
-RAVL is a techno and bass artist based in France, with 21 gigs on soundcheck across Lisbon, Lyon, Marseille and Paris and 2 more. Often billed alongside 42L, Mila Necchella and CABALE. Next up: TBA - Lyon - Confluence, Lyon on Wed 9 Dec.
+RAVL is a techno and bass artist based in France, with 22 gigs on soundcheck across Lisbon, Lyon, Marseille and Paris and 2 more. Often billed alongside 42L, Mila Necchella and CABALE. Next up: Unité.22, Marseille on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Unité.22 | Marseille |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 
 ## Recently played
@@ -25,4 +26,4 @@ RAVL is a techno and bass artist based in France, with 21 gigs on soundcheck acr
 
 42L (1), Mila Necchella, CABALE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravl/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravl/)*

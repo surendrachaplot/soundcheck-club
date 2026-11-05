@@ -1,14 +1,15 @@
 # Daichi
 
-Daichi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
+Daichi is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kobu Camp Village, Kanto on Sat, 21 Nov 2026.
 
-Daichi is a house and techno artist based in Japan, with 119 gigs on soundcheck across Kanto, Kyoto, Melbourne and Osaka and 1 more. Often billed alongside YAMARCHY, YO.AN and Kenji Takimi. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
+Daichi is a house and techno artist based in Japan, with 120 gigs on soundcheck across Kanto, Kyoto, Melbourne and Osaka and 1 more. Often billed alongside YAMARCHY, YO.AN and Kenji Takimi. Next up: Kobu Camp Village, Kanto on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Kobu Camp Village | Kanto |
+| Fri, 27 Nov 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Daichi is a house and techno artist based in Japan, with 119 gigs on soundcheck 
 
 YAMARCHY, YO.AN, Kenji Takimi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daichi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daichi/)*

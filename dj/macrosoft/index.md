@@ -1,6 +1,6 @@
 # Macrosoft
 
-Macrosoft is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Garage Noord, Amsterdam on Fri, 6 Nov 2026.
+Macrosoft is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Garage Noord, Amsterdam on Fri, 6 Nov 2026.
 
 Macrosoft is a techno and house artist, with 16 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Munich and 2 more. Often billed alongside Barbora, Exhausted Modern and Kaa Glo. Next up: Garage Noord, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Macrosoft is a techno and house artist, with 16 gigs on soundcheck across Amster
 
 Barbora, Exhausted Modern, Kaa Glo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macrosoft/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macrosoft/)*

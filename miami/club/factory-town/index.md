@@ -1,8 +1,8 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "UNREAL" on Fri, 13 Nov 2026.
+Factory Town is a music venue in Miami with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "UNREAL" on Fri, 13 Nov 2026.
 
-Factory Town is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including FLETCH, Paula Tape, Yulia Niko and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
+Factory Town is a music venue in Miami listed on soundcheck. 9 upcoming gigs, with line-ups including FLETCH, Paula Tape, Yulia Niko and Adam Ten and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Factory Town is a music venue in Miami listed on soundcheck. 8 upcoming gigs, wi
 | Fri, 4 Dec 2026 | Vagabundos at Factory Basel 2026 |  |
 | Fri, 4 Dec 2026 | Factory Basel (Friday) | Alci, Avalon Emerson, Benwal, Chloé Caillet, Chris Lake, Coffintexts, DJ BORING, Dennis Ferrer, E R E Z, Ilario Alicante, LUCH (MEX), Luciano, MCR-T, Magdalena (DE), Make A Dance, Maxi Meraki, Palms Trax, Paula Tape, Rafael, Rossi, Salomé Le Chat, Sister System, Solomun, Volkoder |
 | Sun, 6 Dec 2026 | Factory Basel (Sunday) | Bastian Bux, Cam Stockman, ChaseWest, Coffintexts, DJ Holographic, DJ Minx, Eats Everything, FLETCH, Gordo, HAAi, Jay de Lys, Jesse Perez, KinAhau, LP Giobbi, Luna Mar, Marsolo, Mike Servito, Moorhaus, OMRI., Paco Osuna, RAJE, Ranger Trucco, Rooléh, TEED, Tommy Phillips, salute |
+| Thu, 31 Dec 2026 | GOOD FORTUNE PRESENTS Dom Dolla 5 HOUR SET WITH GOOD FRIENDS AT MIAMI'S Factory Town THIS NYE | Cole Knight, Dom Dolla, FCUKERS, SG Lewis |
 
 ## Address
 
 4800 NW 37th Ave Miami, FL 33142, USA, Miami
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/factory-town/)*

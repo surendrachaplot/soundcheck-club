@@ -1,6 +1,6 @@
 # Catch25
 
-Catch25 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Planet Wax, London on Thu, 5 Nov 2026.
+Catch25 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Planet Wax, London on Thu, 5 Nov 2026.
 
 Catch25 is a house and techno artist based in Australia, with 6 gigs on soundcheck across London, South East and Sydney. Often billed alongside Jane Decks, 1111 and A.N.T. Next up: Planet Wax, London on Thu 5 Nov.
 
@@ -22,4 +22,4 @@ Catch25 is a house and techno artist based in Australia, with 6 gigs on soundche
 
 Jane Decks, 1111, A.N.T
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catch25/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catch25/)*

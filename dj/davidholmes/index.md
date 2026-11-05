@@ -1,6 +1,6 @@
 # David Holmes
 
-David Holmes is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Garden Tisno, Croatia on Wed, 7 Jul 2027.
+David Holmes is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Garden Tisno, Croatia on Wed, 7 Jul 2027.
 
 David Holmes is a house and electronica artist based in Ireland, with 43 gigs on soundcheck across Belfast, Birmingham, Cork and Croatia and 8 more. Often billed alongside Sean Johnston, Optimo (Espacio) and Daniel Avery. Next up: The Garden Tisno, Croatia on Wed 7 Jul.
 
@@ -25,4 +25,4 @@ David Holmes is a house and electronica artist based in Ireland, with 43 gigs on
 
 Sean Johnston, Optimo (Espacio), Daniel Avery
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidholmes/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidholmes/)*

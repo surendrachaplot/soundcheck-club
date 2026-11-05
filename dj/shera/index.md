@@ -1,6 +1,6 @@
 # SHERA
 
-SHERA is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vertigo, Toronto on Fri, 6 Nov 2026.
+SHERA is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Vertigo, Toronto on Fri, 6 Nov 2026.
 
 SHERA is a tech house and house artist, with 46 gigs on soundcheck across Amsterdam, Istanbul and Toronto. Often billed alongside Miz Megs, Manzone & Strong and Sydney Blu. Next up: Vertigo, Toronto on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ SHERA is a tech house and house artist, with 46 gigs on soundcheck across Amster
 
 Miz Megs, Manzone & Strong, Sydney Blu
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shera/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shera/)*

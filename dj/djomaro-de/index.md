@@ -1,6 +1,6 @@
 # Dj OmarO
 
-Dj OmarO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Supercoff, Berlin on Sat, 21 Nov 2026.
+Dj OmarO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Supercoff, Berlin on Sat, 21 Nov 2026.
 
 Dj OmarO is a house and techno artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Amed Nheiro, NAIR (IN) and Acid.Foxy. Next up: Supercoff, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Dj OmarO is a house and techno artist based in Germany, with 14 gigs on soundche
 
 Amed Nheiro, NAIR (IN), Acid.Foxy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djomaro-de/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djomaro-de/)*

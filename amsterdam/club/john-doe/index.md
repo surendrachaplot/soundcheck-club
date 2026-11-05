@@ -1,14 +1,13 @@
 # John Doe
 
-John Doe is a music venue in Amsterdam with 51 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "RAVELAND: Hard Techno Rave with Billy Currie [AUS], Nekso & Hayet" on Wed, 4 Nov 2026.
+John Doe is a music venue in Amsterdam with 50 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Amsterdam Techno Sessions . OPEN TILL CLOSED with Marco Ramos (ANAØH-ILLEGAL ALIEN RECORDS)" on Thu, 5 Nov 2026.
 
-John Doe is a music venue in Amsterdam listed on soundcheck. 51 upcoming gigs, with line-ups including Ahku, Alex Sharp, Billy Currie and BVNNII and 2 more. See dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
+John Doe is a music venue in Amsterdam listed on soundcheck. 50 upcoming gigs, with line-ups including Ahku, Alex Sharp, BVNNII and DMS1N3RGY and 2 more. See dates, start times and who's playing. Rembrandtplein 31, 1017 CT Amsterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | RAVELAND: Hard Techno Rave with Billy Currie [AUS], Nekso & Hayet | Billy Currie |
 | Thu, 5 Nov 2026 | Amsterdam Techno Sessions . OPEN TILL CLOSED with Marco Ramos (ANAØH-ILLEGAL ALIEN RECORDS) | Marco Ramos |
 | Fri, 6 Nov 2026 | Undercore Episode 3 | JOANNA DARK, Raffo |
 | Sat, 7 Nov 2026 | Stuck in a Loop with Mosher (ARG) & Joris Turenhout - from (hard)house to techno | Joris Turenhout, Mosher |
@@ -18,9 +17,10 @@ John Doe is a music venue in Amsterdam listed on soundcheck. 51 upcoming gigs, w
 | Wed, 11 Nov 2026 | RAVELAND: Hard Groove & Hypnotic with Tranz, Altimetria & Natasha Kalna |  |
 | Thu, 12 Nov 2026 | Amsterdam Techno Sessions | Marco Ramos |
 | Fri, 13 Nov 2026 | Under One Groove |  |
+| Sat, 14 Nov 2026 | Amsterdam Nights: Hard Techno Rave with 4given [DE], RAFFA [DE], Teychee [Cro], BVNNII [NL]  | BVNNII, RAFFA, Teychee |
 
 ## Address
 
 Rembrandtplein 31, 1017 CT Amsterdam, Netherlands, Amsterdam
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/john-doe/)*

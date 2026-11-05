@@ -1,13 +1,14 @@
 # Lupion
 
-Lupion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at teller, Seoul on Fri, 27 Nov 2026.
+Lupion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 14 Nov 2026.
 
-Lupion is a techno and house artist based in Japan, with 19 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Ryunosuke Urabe, EVE and A.Attack. Next up: teller, Seoul on Fri 27 Nov.
+Lupion is a techno and house artist based in Japan, with 20 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Ryunosuke Urabe, EVE and A.Attack. Next up: Atdge Seoul, Seoul on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Atdge Seoul | Seoul |
 | Fri, 27 Nov 2026 | teller | Seoul |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lupion is a techno and house artist based in Japan, with 19 gigs on soundcheck a
 
 Ryunosuke Urabe, EVE (1), A.Attack
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lupion/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lupion/)*

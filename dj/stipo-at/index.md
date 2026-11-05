@@ -1,6 +1,6 @@
 # Stipo
 
-Stipo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 13 Nov 2026.
+Stipo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Platforma Wolff, Bucharest on Fri, 13 Nov 2026.
 
 Stipo is a house and tech house artist based in Austria, with 104 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bratislava and 9 more. Often billed alongside Apua, Reinhard Zach and Alice (AT). Next up: Platforma Wolff, Bucharest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Stipo is a house and tech house artist based in Austria, with 104 gigs on soundc
 
 Apua, Reinhard Zach, Alice (AT)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stipo-at/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stipo-at/)*

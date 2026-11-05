@@ -1,6 +1,6 @@
 # BRU ON
 
-BRU ON is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Generator Barcelona, Barcelona on Sat, 7 Nov 2026.
+BRU ON is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Generator Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 BRU ON is a techno and tech house artist, with 33 gigs on soundcheck across Barcelona. Often billed alongside Babo, KBTO and NEONKOLA. Next up: Generator Barcelona, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ BRU ON is a techno and tech house artist, with 33 gigs on soundcheck across Barc
 
 Babo, KBTO, NEONKOLA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruon/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruon/)*

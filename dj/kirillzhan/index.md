@@ -1,13 +1,14 @@
 # Kirill Zhan
 
-Kirill Zhan is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA - Media One Hotel, Level 43, Dubai on Sat, 14 Nov 2026.
+Kirill Zhan is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Saba Event Space Al Seef, Dubai on Sat, 7 Nov 2026.
 
-Kirill Zhan is a techno and electro artist, with 49 gigs on soundcheck across Dubai and Perth. Often billed alongside Cyrill Reaidy, Ju Lovett and Dea (IT). Next up: TBA - Media One Hotel, Level 43, Dubai on Sat 14 Nov.
+Kirill Zhan is a techno and electro artist, with 50 gigs on soundcheck across Dubai and Perth. Often billed alongside Cyrill Reaidy, Ju Lovett and Dea (IT). Next up: Saba Event Space Al Seef, Dubai on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Saba Event Space Al Seef | Dubai |
 | Sat, 14 Nov 2026 | TBA - Media One Hotel, Level 43 | Dubai |
 
 ## Recently played
@@ -25,4 +26,4 @@ Kirill Zhan is a techno and electro artist, with 49 gigs on soundcheck across Du
 
 Cyrill Reaidy, Ju Lovett, Dea (IT)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillzhan/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillzhan/)*

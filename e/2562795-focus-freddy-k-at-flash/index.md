@@ -1,6 +1,6 @@
 # FOCUS: Freddy K at Flash
 
-FOCUS: Freddy K at Flash on Fri 18 Dec, Washington DC. 1 artist: Freddy K. Techno and Minimal Techno. See the line-up on soundcheck.
+FOCUS: Freddy K at Flash on Fri 18 Dec, Washington DC. 2 artists: dimneonsum and Freddy K. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ FOCUS: Freddy K at Flash on Fri 18 Dec, Washington DC. 1 artist: Freddy K. Techn
 
 ## Line-up
 
+- dimneonsum
 - Freddy K
 
 *Source: [soundcheck](https://soundcheck.club/e/2562795-focus-freddy-k-at-flash/)*

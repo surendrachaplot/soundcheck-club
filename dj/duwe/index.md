@@ -1,6 +1,6 @@
 # Duwe
 
-Duwe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Studionotte, Milan on Sat, 14 Nov 2026.
+Duwe is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Studionotte, Milan on Sat, 14 Nov 2026.
 
 Duwe is a house and techno artist based in Nigeria, with 14 gigs on soundcheck across Milan. Often billed alongside Lvca, Lovin Duo and Giale. Next up: Studionotte, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Duwe is a house and techno artist based in Nigeria, with 14 gigs on soundcheck a
 
 Lvca, Lovin Duo, Giale
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duwe/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duwe/)*

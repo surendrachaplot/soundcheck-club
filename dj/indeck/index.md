@@ -1,8 +1,8 @@
 # Indeck
 
-Indeck is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at HI.Club, Naples on Mon, 7 Dec 2026.
+Indeck is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at HI.Club, Naples on Mon, 7 Dec 2026.
 
-Indeck is a techno and industrial artist, with 6 gigs on soundcheck across Naples and Rome. Often billed alongside Monolyth, Irregular Synth and Alarico. Next up: HI.Club, Naples on Mon 7 Dec.
+Indeck is a techno and industrial artist based in Italy, with 6 gigs on soundcheck across Naples and Rome. Often billed alongside Monolyth, Irregular Synth and Alarico. Next up: HI.Club, Naples on Mon 7 Dec.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Indeck is a techno and industrial artist, with 6 gigs on soundcheck across Naple
 
 Monolyth, Irregular Synth, Alarico
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indeck/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/indeck/)*

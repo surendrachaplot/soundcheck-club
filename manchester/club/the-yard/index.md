@@ -1,6 +1,6 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Five years of Pambuku - Onur Özer, Vass, P.O (live) " on Sat, 7 Nov 2026.
+The Yard is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Five years of Pambuku - Onur Özer, Vass, P.O (live) " on Sat, 7 Nov 2026.
 
 The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Freeland, Alex Q, Chris Massey and Clemency and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
@@ -19,4 +19,4 @@ The Yard is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, w
 
 11 Bent Street, Manchester M8 8NF, Manchester
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-yard/)*

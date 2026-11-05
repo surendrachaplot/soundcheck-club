@@ -1,6 +1,6 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Old Hairdressers, Glasgow on Thu, 5 Nov 2026.
+Beau Wanzer is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Old Hairdressers, Glasgow on Thu, 5 Nov 2026.
 
 Beau Wanzer is an experimental and techno artist based in United States of America, with 115 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 31 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: The Old Hairdressers, Glasgow on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Beau Wanzer is an experimental and techno artist based in United States of Ameri
 
 Amber Gris, Dretraxx, L.F.T.
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beauwanzer/)*

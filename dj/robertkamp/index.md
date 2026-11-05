@@ -1,6 +1,6 @@
 # ROBERT KAMP
 
-ROBERT KAMP is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Brauhaus Neulich, Berlin on Thu, 5 Nov 2026.
+ROBERT KAMP is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Brauhaus Neulich, Berlin on Thu, 5 Nov 2026.
 
 ROBERT KAMP is a house and tech house artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Buzz Boutique and Unna Foulanah. Next up: Brauhaus Neulich, Berlin on Thu 5 Nov.
 
@@ -24,4 +24,4 @@ ROBERT KAMP is a house and tech house artist based in Germany, with 8 gigs on so
 
 Buzz Boutique, Unna Foulanah
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertkamp/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertkamp/)*

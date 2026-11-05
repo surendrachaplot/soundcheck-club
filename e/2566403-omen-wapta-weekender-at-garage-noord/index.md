@@ -1,6 +1,6 @@
 # Omen Wapta Weekender at Garage Noord
 
-Omen Wapta Weekender at Garage Noord on Sat 21 Nov, Amsterdam. 9 artists: Bipolar, Emika Elena, Gan D and Gui (PT) and 5 more. See the line-up on soundcheck.
+Omen Wapta Weekender at Garage Noord on Sat 21 Nov, Amsterdam. 10 artists: Bipolar, Emika Elena, Gan D and Gui (PT) and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Omen Wapta Weekender at Garage Noord on Sat 21 Nov, Amsterdam. 9 artists: Bipola
 - Gan D
 - Gui (PT)
 - Innersha
+- Mimu
 - Property
 - Raär
 - Sarah Wreath

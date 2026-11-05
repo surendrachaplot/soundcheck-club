@@ -1,6 +1,6 @@
 # Fochs Koshka
 
-Fochs Koshka is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Villa, Oslo on Fri, 27 Nov 2026.
+Fochs Koshka is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Villa, Oslo on Fri, 27 Nov 2026.
 
 Fochs Koshka is a techno and trance artist based in Norway, with 7 gigs on soundcheck across Bergen, Copenhagen and Oslo. Often billed alongside Naboklage, Abo Abo and Anémi. Next up: The Villa, Oslo on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Fochs Koshka is a techno and trance artist based in Norway, with 7 gigs on sound
 
 Naboklage, Abo Abo, Anémi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fochskoshka/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fochskoshka/)*

@@ -1,14 +1,13 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "futago: chioske b2b DJ eh, Gigi Rio b2b amita" on Wed, 4 Nov 2026.
+Jupiter Disco is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Ardio presents: Ardio + Yurk" on Thu, 5 Nov 2026.
 
-Jupiter Disco is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including ABS, Amen the Producer, amita and Ardio Zemog and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including ABS, Amen the Producer, Ardio Zemog and Bendito and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | futago: chioske b2b DJ eh, Gigi Rio b2b amita | DJ eh, Gigi Rio, amita |
 | Thu, 5 Nov 2026 | Ardio presents: Ardio + Yurk | Ardio Zemog, Yurk |
 | Fri, 6 Nov 2026 | Dance Paradise: Bendito, David Bulay, Sight Beyond Sound | Bendito, David Bulay, Sight -Beyond- Sound |
 | Sat, 7 Nov 2026 | Micro Movement #05: Tim Lucent, Joiah, Jean Paul, ABS | ABS (4), Jean-Paul, Joiah, Tim Lucent |
@@ -18,9 +17,10 @@ Jupiter Disco is a music venue in New York City listed on soundcheck. 18 upcomin
 | Fri, 13 Nov 2026 | FIGA THE 13TH, PART XVI | Clit.hub, ROCCO (FIGA) |
 | Sat, 14 Nov 2026 | Headcrack: Fugitive Artifact + KATA | /KATA/, Fugitive Artifact |
 | Sun, 15 Nov 2026 | Señoritajuicy + Special Guests TBA | Señoritajuicy |
+| Wed, 18 Nov 2026 | Sonara House: La Vega & NONI | La Vega, NONI (US) |
 
 ## Address
 
 1237 Flushing Avenue, Brooklyn, NY 11237, USA, New York City
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/jupiter-disco/)*

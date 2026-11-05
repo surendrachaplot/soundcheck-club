@@ -1,6 +1,6 @@
 # Tschatsching
 
-Tschatsching is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Schrotty, Cologne on Wed, 11 Nov 2026.
+Tschatsching is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Schrotty, Cologne on Wed, 11 Nov 2026.
 
 Tschatsching is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Cologne and Dortmund / Essen. Often billed alongside Szunflower, Gutkind and Gilles Bock. Next up: Schrotty, Cologne on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ Tschatsching is a techno and house artist based in Germany, with 22 gigs on soun
 
 Szunflower, Gutkind, Gilles Bock
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tschatsching/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tschatsching/)*

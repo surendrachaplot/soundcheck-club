@@ -1,14 +1,15 @@
 # Izzi
 
-Izzi is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Marquee Moon, London on Thu, 5 Nov 2026.
+Izzi is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Marquee Moon, London on Thu, 5 Nov 2026.
 
-Izzi is a bass and uk funky artist based in United Kingdom, with 73 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bristol and 3 more. Often billed alongside yourboykiran, Ìyáàlù and Chande. Next up: The Marquee Moon, London on Thu 5 Nov.
+Izzi is a bass and club artist based in United Kingdom, with 74 gigs on soundcheck across Bangkok, Barcelona, Berlin and Bristol and 3 more. Often billed alongside yourboykiran, Ìyáàlù and Chande. Next up: The Marquee Moon, London on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | The Marquee Moon | London |
+| Sun, 22 Nov 2026 | Honey Street Studio | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Izzi is a bass and uk funky artist based in United Kingdom, with 73 gigs on soun
 
 yourboykiran, Ìyáàlù, Chande
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izzi/)*

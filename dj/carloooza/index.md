@@ -1,6 +1,6 @@
 # Carloooza
 
-Carloooza is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Macadam, Nantes on Sun, 6 Dec 2026.
+Carloooza is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Macadam, Nantes on Sun, 6 Dec 2026.
 
 Carloooza is a trance and techno artist based in France, with 8 gigs on soundcheck across Nantes. Often billed alongside Bambi (FR), 131bpm and Akira Yamagata. Next up: Macadam, Nantes on Sun 6 Dec.
 
@@ -24,4 +24,4 @@ Carloooza is a trance and techno artist based in France, with 8 gigs on soundche
 
 Bambi (FR), 131bpm, Akira Yamagata
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carloooza/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carloooza/)*

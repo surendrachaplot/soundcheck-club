@@ -1,6 +1,6 @@
 # Sala Independance Club
 
-Sala Independance Club is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "HYBRID: FØBIA (HARDBOUNCE)" on Thu, 5 Nov 2026.
+Sala Independance Club is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "HYBRID: FØBIA (HARDBOUNCE)" on Thu, 5 Nov 2026.
 
 Sala Independance Club is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including DJ Marta, FØBIA, Køni and M.I.XX.I and 2 more. See dates, start times and who's playing. C. de Atocha, 127, 28012 Madrid.
 
@@ -19,4 +19,4 @@ Sala Independance Club is a music venue in Madrid listed on soundcheck. 6 upcomi
 
 C. de Atocha, 127, 28012 Madrid, Madrid
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-independance-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-independance-club/)*

@@ -1,6 +1,6 @@
 # Akpossoul
 
-Akpossoul is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vino Disco, Montreal on Sat, 21 Nov 2026.
+Akpossoul is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Vino Disco, Montreal on Sat, 21 Nov 2026.
 
 Akpossoul is an afro house and house artist based in France, with 30 gigs on soundcheck across Geneva, Lyon and Montreal. Often billed alongside Don Barbarino, MLLE CEE and AKAntu. Next up: Vino Disco, Montreal on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Akpossoul is an afro house and house artist based in France, with 30 gigs on sou
 
 Don Barbarino, MLLE CEE, AKAntu
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akpossoul/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akpossoul/)*

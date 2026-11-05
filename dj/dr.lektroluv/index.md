@@ -1,6 +1,6 @@
 # Dr. Lektroluv
 
-Dr. Lektroluv is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+Dr. Lektroluv is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
 Dr. Lektroluv is an electronica and house artist based in Belgium, with 6 gigs on soundcheck across Amsterdam, Belgium and Ghent. Often billed alongside Alexander Koning, Digitalism and Kenny Montana. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
@@ -22,4 +22,4 @@ Dr. Lektroluv is an electronica and house artist based in Belgium, with 6 gigs o
 
 Alexander Koning, Digitalism, Kenny Montana
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.lektroluv/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.lektroluv/)*

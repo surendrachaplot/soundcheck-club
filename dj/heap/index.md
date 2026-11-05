@@ -1,8 +1,8 @@
 # Heap
 
-Heap is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Coco Bar Vienna, Vienna on Thu, 19 Nov 2026.
+Heap is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Coco Bar Vienna, Vienna on Thu, 19 Nov 2026.
 
-Heap is an experimental and dub techno artist, with 16 gigs on soundcheck across Berlin, Bologna, Bristol and Düsseldorf and 5 more. Often billed alongside Grischerr, Giulio DJ and Mike Burns. Next up: Coco Bar Vienna, Vienna on Thu 19 Nov.
+Heap is an experimental and dub techno artist based in Austria, with 16 gigs on soundcheck across Berlin, Bologna, Bristol and Düsseldorf and 5 more. Often billed alongside Grischerr, Giulio DJ and Mike Burns. Next up: Coco Bar Vienna, Vienna on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Heap is an experimental and dub techno artist, with 16 gigs on soundcheck across
 
 Grischerr, Giulio DJ, Mike Burns
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heap/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heap/)*

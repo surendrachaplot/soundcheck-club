@@ -1,8 +1,8 @@
 # Daniel Bell
 
-Daniel Bell is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Vibehaus ATX, Austin on Fri, 6 Nov 2026.
+Daniel Bell is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Vibehaus ATX, Austin on Fri, 6 Nov 2026.
 
-Daniel Bell is a techno and house artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 33 more. Often billed alongside Erika, BMG and Mike Servito. Next up: Vibehaus ATX, Austin on Fri 6 Nov.
+Daniel Bell is a techno and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 33 more. Often billed alongside Erika, BMG and Mike Servito. Next up: Vibehaus ATX, Austin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Daniel Bell is a techno and house artist based in United States of America, with
 | Sat, 7 Nov 2026 | TBA - Address revealed to ticket holders day of show | Denver |
 | Fri, 20 Nov 2026 | TBA - Secret Location | New York City |
 | Sat, 21 Nov 2026 | TBA - Secret Warehouse location | Philadelphia |
+| Fri, 27 Nov 2026 | The Jama | Toronto |
 | Fri, 4 Dec 2026 | Sonnenraum | Berlin |
 
 ## Recently played
@@ -29,4 +30,4 @@ Daniel Bell is a techno and house artist based in United States of America, with
 
 Erika, BMG, Mike Servito
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielbell/)*

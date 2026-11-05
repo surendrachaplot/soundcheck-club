@@ -1,6 +1,6 @@
 # GAB (ES)
 
-GAB (ES) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Subcero Club, Madrid on Fri, 20 Nov 2026.
+GAB (ES) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Subcero Club, Madrid on Fri, 20 Nov 2026.
 
 GAB (ES) is a techno and bass artist based in Spain, with 4 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside ART NO LOGIA, Adrian Mills and Alex Clap. Next up: Subcero Club, Madrid on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ GAB (ES) is a techno and bass artist based in Spain, with 4 gigs on soundcheck a
 
 ART NO LOGIA, Adrian Mills, Alex Clap
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabes/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabes/)*

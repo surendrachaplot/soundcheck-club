@@ -1,6 +1,6 @@
 # Paria
 
-Paria is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Macel Studios, Toronto on Sat, 7 Nov 2026.
+Paria is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Macel Studios, Toronto on Sat, 7 Nov 2026.
 
 Paria is an experimental and techno artist based in Canada, with 13 gigs on soundcheck across Toronto. Often billed alongside Koohyaar, CASSRAA and D.Blavatsky. Next up: Macel Studios, Toronto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Paria is an experimental and techno artist based in Canada, with 13 gigs on soun
 
 Koohyaar, CASSRAA, D.Blavatsky
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paria/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paria/)*

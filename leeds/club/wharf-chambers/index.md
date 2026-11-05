@@ -1,6 +1,6 @@
 # Wharf Chambers
 
-Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Lock the Doorz: WINTER PARTY" on Fri, 6 Nov 2026.
+Wharf Chambers is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Lock the Doorz: WINTER PARTY" on Fri, 6 Nov 2026.
 
 Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Ben Vince, Gary Gwadera, HEATHER BOA and Kuriboh and 1 more. See dates, start times and who's playing. 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom.
 
@@ -20,4 +20,4 @@ Wharf Chambers is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, 
 
 23-25 Wharf Street, Leeds, LS2 7EQ, United Kingdom, Leeds
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/wharf-chambers/)*

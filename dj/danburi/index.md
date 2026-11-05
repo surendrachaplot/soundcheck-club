@@ -1,8 +1,8 @@
 # Dan Buri
 
-Dan Buri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Banana Beach Club by Sollis 2.0, Phuket on Thu, 14 Jan 2027.
+Dan Buri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Banana Beach Club by Sollis 2.0, Phuket on Thu, 14 Jan 2027.
 
-Dan Buri is a house and techno artist, with 9 gigs on soundcheck across Bangkok, Berlin, Phuket and Shanghai. Often billed alongside Evgeny Sviridov, Matthias Tanzmann and Theo DGL. Next up: Banana Beach Club by Sollis 2.0, Phuket on Thu 14 Jan.
+Dan Buri is a house and techno artist based in Thailand, with 9 gigs on soundcheck across Bangkok, Berlin, Phuket and Shanghai. Often billed alongside Evgeny Sviridov, Matthias Tanzmann and Theo DGL. Next up: Banana Beach Club by Sollis 2.0, Phuket on Thu 14 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dan Buri is a house and techno artist, with 9 gigs on soundcheck across Bangkok,
 
 Evgeny Sviridov, Matthias Tanzmann, Theo DGL
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danburi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danburi/)*

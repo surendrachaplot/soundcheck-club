@@ -1,6 +1,6 @@
 # Ron Trent
 
-Ron Trent is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at essaim, Paris on Thu, 12 Nov 2026.
+Ron Trent is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at essaim, Paris on Thu, 12 Nov 2026.
 
 Ron Trent is a house and deep house artist based in United States of America, with 115 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 39 more. Often billed alongside Ben UFO, Ogazón and Joe Claussell. Next up: essaim, Paris on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ Ron Trent is a house and deep house artist based in United States of America, wi
 
 Ben UFO, Ogazón, Joe Claussell
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rontrent/)*

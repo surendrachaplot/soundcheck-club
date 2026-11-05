@@ -1,8 +1,8 @@
 # Pris V
 
-Pris V is a EBM and New Wave artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Schokoladen, Berlin on Sat, 14 Nov 2026.
+Pris V is a EBM and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Schokoladen, Berlin on Sat, 14 Nov 2026.
 
-Pris V is an ebm and new wave artist, with 6 gigs on soundcheck across Berlin. Often billed alongside Tau Ceti, Inmoralia and Whywolf. Next up: Schokoladen, Berlin on Sat 14 Nov.
+Pris V is an ebm and new wave artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Tau Ceti, Inmoralia and Whywolf. Next up: Schokoladen, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Pris V is an ebm and new wave artist, with 6 gigs on soundcheck across Berlin. O
 
 Tau Ceti, Inmoralia, Whywolf
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prisv/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prisv/)*

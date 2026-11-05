@@ -1,6 +1,6 @@
 # Mathias Kaden
 
-Mathias Kaden is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Alte Pakethalle, Bavaria on Sat, 7 Nov 2026.
+Mathias Kaden is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Alte Pakethalle, Bavaria on Sat, 7 Nov 2026.
 
 Mathias Kaden is a house and techno artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Antwerp, Austria and Bali and 23 more. Often billed alongside Chris Liebing, Matthias Tanzmann and Radio Slave. Next up: Alte Pakethalle, Bavaria on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Mathias Kaden is a house and techno artist based in Germany, with 80 gigs on sou
 
 Chris Liebing, Matthias Tanzmann, Radio Slave
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mathiaskaden/)*

@@ -1,6 +1,6 @@
 # Judith van Waterkant
 
-Judith van Waterkant is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
+Judith van Waterkant is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 7 Nov 2026.
 
 Judith van Waterkant is a house and techno artist based in Germany, with 58 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 7 more. Often billed alongside Danilo Kupfernagel, Intaktogene and Alma Linda. Next up: Tanzhaus West, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Judith van Waterkant is a house and techno artist based in Germany, with 58 gigs
 
 Danilo Kupfernagel, Intaktogene, Alma Linda
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judithvanwaterkant/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judithvanwaterkant/)*

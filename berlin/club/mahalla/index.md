@@ -1,6 +1,6 @@
 # MaHalla
 
-MaHalla is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "AWARË" on Fri, 6 Nov 2026.
+MaHalla is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "AWARË" on Fri, 6 Nov 2026.
 
 MaHalla is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Molly Lollen. See dates, start times and who's playing. Wilhelminenhofstraße 76, 12459, Berlin.
 
@@ -17,4 +17,4 @@ MaHalla is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with l
 
 Wilhelminenhofstraße 76, 12459, Berlin, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/mahalla/)*

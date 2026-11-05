@@ -1,8 +1,8 @@
 # djf1bi
 
-djf1bi is a Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Spillestedet Stengade, Copenhagen on Fri, 6 Nov 2026.
+djf1bi is a Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Spillestedet Stengade, Copenhagen on Fri, 6 Nov 2026.
 
-djf1bi is a hip-hop artist, with 5 gigs on soundcheck across Copenhagen. Often billed alongside Anton Goltermann, Den Stenede Rille and Dingo Tracks. Next up: Spillestedet Stengade, Copenhagen on Fri 6 Nov.
+djf1bi is a hip-hop artist based in Denmark, with 5 gigs on soundcheck across Copenhagen. Often billed alongside Anton Goltermann, Den Stenede Rille and Dingo Tracks. Next up: Spillestedet Stengade, Copenhagen on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -21,4 +21,4 @@ djf1bi is a hip-hop artist, with 5 gigs on soundcheck across Copenhagen. Often b
 
 Anton Goltermann, Den Stenede Rille, Dingo Tracks
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djf1bi/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djf1bi/)*

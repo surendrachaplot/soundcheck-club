@@ -1,6 +1,6 @@
 # Myles Mac
 
-Myles Mac is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Paradiso Music Room, Byron Bay on Sat, 7 Nov 2026.
+Myles Mac is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Paradiso Music Room, Byron Bay on Sat, 7 Nov 2026.
 
 Myles Mac is a house and techno artist based in Australia, with 90 gigs on soundcheck across Adelaide, Berlin, Byron Bay and Copenhagen and 8 more. Often billed alongside DJ Possum, Andy Hart and Bex. Next up: Paradiso Music Room, Byron Bay on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Myles Mac is a house and techno artist based in Australia, with 90 gigs on sound
 
 DJ Possum, Andy Hart, Bex
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mylesmac/)*

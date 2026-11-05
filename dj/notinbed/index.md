@@ -1,13 +1,14 @@
 # notinbed
 
-notinbed is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Le Trabendo, Paris on Fri, 4 Dec 2026.
+notinbed is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Trabendo, Paris on Fri, 4 Dec 2026.
 
-notinbed is an electro and techno artist based in France, with 21 gigs on soundcheck across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Lisa More, Laze and MCR-T. Next up: Le Trabendo, Paris on Fri 4 Dec.
+notinbed is a techno and electro artist based in France, with 22 gigs on soundcheck across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Lisa More, Laze and MCR-T. Next up: Le Trabendo, Paris on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Le Trabendo | Paris |
 | Fri, 4 Dec 2026 | Le Trabendo | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ notinbed is an electro and techno artist based in France, with 21 gigs on soundc
 
 Lisa More, Laze, MCR-T
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notinbed/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/notinbed/)*

@@ -1,6 +1,6 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "CIAO 3LLIES BIRDIES w. lisa luka, Diladi, Ciao 3lla" on Sat, 7 Nov 2026.
+Klunkerkranich is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "CIAO 3LLIES BIRDIES w. lisa luka, Diladi, Ciao 3lla" on Sat, 7 Nov 2026.
 
 Klunkerkranich is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Ciao 3lla, lisa luka, Lotte Ahoi and Raphael Hofman. See dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -15,4 +15,4 @@ Klunkerkranich is a music venue in Berlin listed on soundcheck. 2 upcoming gigs,
 
 Karl-Marx-Straße 66, 12043 Berlin, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/klunkerkranich/)*

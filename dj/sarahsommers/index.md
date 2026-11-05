@@ -1,6 +1,6 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+Sarah Sommers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
 
 Sarah Sommers is a techno and house artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Austin, Barcelona and Beijing and 27 more. Often billed alongside Josef Kunz, Dr. Rubinstein and Ellen Allien. Next up: Elastica, Vilnius on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Sarah Sommers is a techno and house artist based in Germany, with 62 gigs on sou
 
 Josef Kunz, Dr. Rubinstein, Ellen Allien
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahsommers/)*

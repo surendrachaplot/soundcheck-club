@@ -1,6 +1,6 @@
 # ENNA
 
-ENNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at MODULE, Copenhagen on Sat, 7 Nov 2026.
+ENNA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at MODULE, Copenhagen on Sat, 7 Nov 2026.
 
 ENNA is a techno and house artist based in Sweden, with 29 gigs on soundcheck across Cologne, Copenhagen and Malmo. Often billed alongside Anna Logic, TINDRA and Bad Balance. Next up: MODULE, Copenhagen on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ ENNA is a techno and house artist based in Sweden, with 29 gigs on soundcheck ac
 
 Anna Logic, TINDRA, Bad Balance
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enna/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enna/)*

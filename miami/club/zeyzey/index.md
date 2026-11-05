@@ -1,8 +1,8 @@
 # ZeyZey
 
-ZeyZey is a music venue in Miami with 20 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "The Floozies" on Thu, 5 Nov 2026.
+ZeyZey is a music venue in Miami with 23 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "The Floozies" on Thu, 5 Nov 2026.
 
-ZeyZey is a music venue in Miami listed on soundcheck. 20 upcoming gigs, with line-ups including Amtrac, Anastazja, Ape Drums and A-Trak and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
+ZeyZey is a music venue in Miami listed on soundcheck. 23 upcoming gigs, with line-ups including Amtrac, Anastazja, Ape Drums and A-Trak and 2 more. See dates, start times and who's playing. 353 NE 61st St, Miami, FL 33137, USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ ZeyZey is a music venue in Miami listed on soundcheck. 20 upcoming gigs, with li
 
 353 NE 61st St, Miami, FL 33137, USA, Miami
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/zeyzey/)*

@@ -1,6 +1,6 @@
 # Jezebel
 
-Jezebel is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at 81 Renshaw Street, Liverpool on Fri, 20 Nov 2026.
+Jezebel is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 81 Renshaw Street, Liverpool on Fri, 20 Nov 2026.
 
 Jezebel is a house and electronica artist, with 31 gigs on soundcheck across Berlin, Brussels, Detroit and Dublin and 4 more. Often billed alongside Surferboy, deejaytrainwreck and JWY. Next up: 81 Renshaw Street, Liverpool on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jezebel is a house and electronica artist, with 31 gigs on soundcheck across Ber
 
 Surferboy, deejaytrainwreck, JWY (1)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jezebel/)*

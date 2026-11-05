@@ -1,6 +1,6 @@
 # TBA - Alliance Francaise Dubai at Oud Metha
 
-TBA - Alliance Francaise Dubai at Oud Metha is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "We Loved Each Other So Much" on Sun, 8 Nov 2026.
+TBA - Alliance Francaise Dubai at Oud Metha is a music venue in Dubai with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "We Loved Each Other So Much" on Sun, 8 Nov 2026.
 
 TBA - Alliance Francaise Dubai at Oud Metha is a music venue in Dubai listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Alliance Francaise Dubai at Oud Metha is a music venue in Dubai listed on 
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | We Loved Each Other So Much |  |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/tba-alliance-francaise-dubai-at-oud-metha/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dubai/club/tba-alliance-francaise-dubai-at-oud-metha/)*

@@ -1,6 +1,6 @@
 # Thomas Melchior
 
-Thomas Melchior is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Sonnenraum, Berlin on Sat, 14 Nov 2026.
+Thomas Melchior is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sonnenraum, Berlin on Sat, 14 Nov 2026.
 
 Thomas Melchior is a house and minimal artist based in Germany, with 89 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 26 more. Often billed alongside Edward, Konstantin and Lawrence. Next up: Sonnenraum, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Thomas Melchior is a house and minimal artist based in Germany, with 89 gigs on 
 
 Edward, Konstantin, Lawrence
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasmelchior/)*

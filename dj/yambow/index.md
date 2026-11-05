@@ -1,6 +1,6 @@
 # Yambow
 
-Yambow is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 7 Nov 2026.
+Yambow is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at MAD Radio NYC, New York City on Sat, 7 Nov 2026.
 
 Yambow is a house and trance artist based in France, with 26 gigs on soundcheck across Montreal, New York City and Paris. Often billed alongside Pierrinski, Marbré and Laila Amira. Next up: MAD Radio NYC, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Yambow is a house and trance artist based in France, with 26 gigs on soundcheck 
 
 Pierrinski, Marbré, Laila Amira
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yambow/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yambow/)*

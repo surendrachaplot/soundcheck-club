@@ -1,6 +1,6 @@
 # Shimmy Robin
 
-Shimmy Robin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 6 Nov 2026.
+Shimmy Robin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 6 Nov 2026.
 
 Shimmy Robin is a techno and house artist based in Germany, with 115 gigs on soundcheck across Berlin, Cologne, Copenhagen and Dortmund / Essen and 6 more. Often billed alongside dj blip, Najeh and dj fako. Next up: Tresor / Globus, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Shimmy Robin is a techno and house artist based in Germany, with 115 gigs on sou
 
 dj blip, Najeh, dj fako
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shimmyrobin/)*

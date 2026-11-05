@@ -1,0 +1,28 @@
+# Muttiah Ashnim
+
+Muttiah Ashnim is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+
+Muttiah Ashnim is a techno and minimal techno artist based in Singapore, with 24 gigs on soundcheck across Bangkok, Dortmund / Essen, Hamburg and Münster and 1 more. Often billed alongside TiM TASTE, Cosmo Carbon and APHE. Next up: Südpol, Hamburg on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | Südpol | Hamburg |
+
+## Recently played
+
+- Tuff Club, Singapore · Fri, 23 Oct 2026
+- Goethebunker, Dortmund / Essen · Fri, 16 Oct 2026
+- Fundbureau, Hamburg · Fri, 25 Sept 2026
+- Goethebunker, Dortmund / Essen · Fri, 24 Apr 2026
+- Goethebunker, Dortmund / Essen · Fri, 20 Feb 2026
+- Goethebunker, Dortmund / Essen · Fri, 19 Dec 2025
+- Goethebunker, Dortmund / Essen · Fri, 23 May 2025
+- Fundbureau, Hamburg · Sat, 22 Mar 2025
+
+## Shares bills with
+
+TiM TASTE, Cosmo Carbon, APHE (2)
+
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muttiahashnim/)*

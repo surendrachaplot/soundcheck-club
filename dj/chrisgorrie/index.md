@@ -1,6 +1,6 @@
 # Chris Gorrie
 
-Chris Gorrie is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Subcero Club, Madrid on Sat, 7 Nov 2026.
+Chris Gorrie is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Subcero Club, Madrid on Sat, 7 Nov 2026.
 
 Chris Gorrie is a house and electro artist based in Spain, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 7 more. Often billed alongside Jua'Rez, Solar Punk and Manu Oubiña. Next up: Subcero Club, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Chris Gorrie is a house and electro artist based in Spain, with 46 gigs on sound
 
 Jua'Rez, Solar Punk, Manu Oubiña
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgorrie/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisgorrie/)*

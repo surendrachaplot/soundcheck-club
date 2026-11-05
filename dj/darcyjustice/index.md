@@ -1,6 +1,6 @@
 # Darcy Justice
 
-Darcy Justice is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Darcy Justice is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Darcy Justice is a house and techno artist based in Australia, with 53 gigs on soundcheck across Adelaide, Melbourne, Sydney and Victoria. Often billed alongside Emelyne, Moopie and Sleep D. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Darcy Justice is a house and techno artist based in Australia, with 53 gigs on s
 
 Emelyne, Moopie, Sleep D
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyjustice/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darcyjustice/)*

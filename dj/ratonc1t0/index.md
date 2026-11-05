@@ -1,6 +1,6 @@
 # RATONC1T0
 
-RATONC1T0 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Rawhide, New York City on Fri, 6 Nov 2026.
+RATONC1T0 is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Rawhide, New York City on Fri, 6 Nov 2026.
 
 RATONC1T0 is a techno and electro artist based in Puerto Rico, with 21 gigs on soundcheck across Chicago, New York City and Washington DC. Often billed alongside Ether Pleaser, D. Strange and DAIYAH. Next up: Club Rawhide, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ RATONC1T0 is a techno and electro artist based in Puerto Rico, with 21 gigs on s
 
 Ether Pleaser, D. Strange, DAIYAH
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ratonc1t0/)*

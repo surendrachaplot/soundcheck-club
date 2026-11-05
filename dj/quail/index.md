@@ -1,6 +1,6 @@
 # Quail
 
-Quail is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
+Quail is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat, 28 Nov 2026.
 
 Quail is a techno and industrial artist based in United Kingdom, with 56 gigs on soundcheck across Edinburgh, Glasgow and Leeds. Often billed alongside LAZLO, AXION and AISHA. Next up: Argyle Arcade (Buchanan Street Entrance), Glasgow on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Quail is a techno and industrial artist based in United Kingdom, with 56 gigs on
 
 LAZLO, AXION, AISHA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quail/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quail/)*

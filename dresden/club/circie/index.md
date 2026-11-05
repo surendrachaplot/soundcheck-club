@@ -1,13 +1,14 @@
 # Circie
 
-Circie is a music venue in Dresden with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "SLAY 3rd ACT" on Sat, 21 Nov 2026.
+Circie is a music venue in Dresden with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Beyond Ensouled with Cee ElAssaad" on Fri, 20 Nov 2026.
 
-Circie is a music venue in Dresden listed on soundcheck. 1 upcoming gig, with line-ups including FLOSS, HnyLune, Juan Alejandro and Schmuckelster. See dates, start times and who's playing.
+Circie is a music venue in Dresden listed on soundcheck. 2 upcoming gigs, with line-ups including Cee ElAssaad, FLOSS, HnyLune and Juan Alejandro and 1 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Beyond Ensouled with Cee ElAssaad | Cee ElAssaad |
 | Sat, 21 Nov 2026 | SLAY 3rd ACT | FLOSS, HnyLune, Juan Alejandro, Schmuckelster |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/circie/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/circie/)*

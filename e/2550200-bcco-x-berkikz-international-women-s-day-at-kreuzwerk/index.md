@@ -1,6 +1,6 @@
 # BCCO x ÜBERKIKZ International Women's Day at KREUZWERK
 
-BCCO x ÜBERKIKZ International Women's Day at KREUZWERK on Sun 7 Mar, Berlin. 4 artists: DJ ANGEL (fr), Ketarina, SAIKA and ÜBERKIKZ. See the line-up on soundcheck.
+BCCO x ÜBERKIKZ International Women's Day at KREUZWERK on Sun 7 Mar, Berlin. 5 artists: Daria Kolosova, DJ ANGEL (fr), Ketarina and SAIKA and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BCCO x ÜBERKIKZ International Women's Day at KREUZWERK on Sun 7 Mar, Berlin. 4 
 
 ## Line-up
 
+- Daria Kolosova
 - DJ ANGEL (fr)
 - Ketarina
 - SAIKA

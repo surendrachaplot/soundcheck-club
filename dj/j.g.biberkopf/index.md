@@ -1,8 +1,8 @@
 # J.G. Biberkopf
 
-J.G. Biberkopf is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Kongresai, Vilnius on Fri, 27 Nov 2026.
+J.G. Biberkopf is a Pop and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kongresai, Vilnius on Fri, 27 Nov 2026.
 
-J.G. Biberkopf is a pop and experimental artist, with 4 gigs on soundcheck across Berlin, London and Vilnius. Often billed alongside Rat Section, Wojciech Rusin and object blue. Next up: Kongresai, Vilnius on Fri 27 Nov.
+J.G. Biberkopf is a pop and experimental artist based in Germany, with 4 gigs on soundcheck across Berlin, London and Vilnius. Often billed alongside Rat Section, Wojciech Rusin and object blue. Next up: Kongresai, Vilnius on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -20,4 +20,4 @@ J.G. Biberkopf is a pop and experimental artist, with 4 gigs on soundcheck acros
 
 Rat Section, Wojciech Rusin, object blue
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.g.biberkopf/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.g.biberkopf/)*

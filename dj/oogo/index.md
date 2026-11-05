@@ -1,6 +1,6 @@
 # oOgo
 
-oOgo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sacré, Paris on Fri, 4 Dec 2026.
+oOgo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Sacré, Paris on Fri, 4 Dec 2026.
 
 oOgo is a house and electro artist based in France, with 18 gigs on soundcheck across Berlin, London, Lyon and Milan and 2 more. Often billed alongside Audem, Fakear and Grand Soleil. Next up: Sacré, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ oOgo is a house and electro artist based in France, with 18 gigs on soundcheck a
 
 Audem, Fakear, Grand Soleil
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oogo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oogo/)*

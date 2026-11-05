@@ -1,6 +1,6 @@
 # Hyenam
 
-Hyenam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 7 Nov 2026.
+Hyenam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Atdge Seoul, Seoul on Sat, 7 Nov 2026.
 
 Hyenam is a techno and house artist based in South Korea, with 24 gigs on soundcheck across Seoul. Often billed alongside Hogun, Polarfront and Cityboy from Seoul. Next up: Atdge Seoul, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hyenam is a techno and house artist based in South Korea, with 24 gigs on soundc
 
 Hogun, Polarfront, Cityboy from Seoul
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyenam/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hyenam/)*

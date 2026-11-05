@@ -1,6 +1,6 @@
 # Chevy
 
-Chevy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Romantso, Athens on Sat, 7 Nov 2026.
+Chevy is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Romantso, Athens on Sat, 7 Nov 2026.
 
 Chevy is a house and disco artist based in Greece, with 39 gigs on soundcheck across Athens. Often billed alongside Lex (GR), ClubKid and Locke. Next up: Romantso, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Chevy is a house and disco artist based in Greece, with 39 gigs on soundcheck ac
 
 Lex (GR), ClubKid, Locke
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chevy/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chevy/)*

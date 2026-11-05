@@ -1,14 +1,15 @@
 # Emmanuelle (BR)
 
-Emmanuelle (BR) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at CHICO, Mexico City on Fri, 20 Nov 2026.
+Emmanuelle (BR) is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at CHICO, Mexico City on Fri, 20 Nov 2026.
 
-Emmanuelle (BR) is a house and disco artist based in Brazil, with 12 gigs on soundcheck across Lisbon, Mexico City, Milan and Rome and 1 more. Often billed alongside Jason K (IT), Tamati and ALDAVE. Next up: CHICO, Mexico City on Fri 20 Nov.
+Emmanuelle (BR) is a disco and house artist based in Brazil, with 13 gigs on soundcheck across Lisbon, Mexico City, Milan and Rome and 1 more. Often billed alongside Jason K (IT), Tamati and ALDAVE. Next up: CHICO, Mexico City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | CHICO | Mexico City |
+| Sat, 21 Nov 2026 | Fabbrica del Vapore | Milan |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Emmanuelle (BR) is a house and disco artist based in Brazil, with 12 gigs on sou
 
 Jason K (IT), Tamati, ALDAVE
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanuelle-br/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emmanuelle-br/)*

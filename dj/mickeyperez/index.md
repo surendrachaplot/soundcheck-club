@@ -1,6 +1,6 @@
 # Mickey Perez
 
-Mickey Perez is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Danger Danger, New York City on Fri, 6 Nov 2026.
+Mickey Perez is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Danger Danger, New York City on Fri, 6 Nov 2026.
 
 Mickey Perez is a house and disco artist based in United States of America, with 110 gigs on soundcheck across Atlanta, Detroit, Mexico City and Miami and 4 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Danger Danger, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mickey Perez is a house and disco artist based in United States of America, with
 
 Toribio, Deon Jamar, Guthrie
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mickeyperez/)*

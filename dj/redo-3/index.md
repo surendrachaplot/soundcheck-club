@@ -1,6 +1,6 @@
 # Redo (3)
 
-Redo (3) is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
+Redo (3) is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Crevette Records, Brussels on Wed, 4 Nov 2026.
 
 Redo is a techno and downtempo artist based in Belgium, with 6 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Adi, Aroh and Celz. Next up: Crevette Records, Brussels on Wed 4 Nov.
 
@@ -13,6 +13,7 @@ Redo is a techno and downtempo artist based in Belgium, with 6 gigs on soundchec
 
 ## Recently played
 
+- Crevette Records, Brussels · Wed, 4 Nov 2026
 - Jalousy, Brussels · Sat, 27 Jun 2026
 - Jalousy, Brussels · Fri, 17 Apr 2026
 - Jeux d'Hiver, Brussels · Thu, 26 Mar 2026
@@ -22,4 +23,4 @@ Redo is a techno and downtempo artist based in Belgium, with 6 gigs on soundchec
 
 Adi, Aroh, Celz
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redo-3/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redo-3/)*

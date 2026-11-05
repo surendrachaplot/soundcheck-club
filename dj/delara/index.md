@@ -1,6 +1,6 @@
 # DELARA
 
-DELARA is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
+DELARA is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Glove That Fits, London on Fri, 6 Nov 2026.
 
 DELARA is a techno and dub techno artist based in Spain, with 33 gigs on soundcheck across London. Often billed alongside TOOTHTAXI, Modlar and LIZAZA. Next up: The Glove That Fits, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ DELARA is a techno and dub techno artist based in Spain, with 33 gigs on soundch
 
 TOOTHTAXI, Modlar, LIZAZA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delara/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delara/)*

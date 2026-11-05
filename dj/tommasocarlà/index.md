@@ -1,13 +1,14 @@
 # Tommaso Carlà
 
-Tommaso Carlà is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
+Tommaso Carlà is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
 
-Tommaso Carlà is a house and techno artist based in Italy, with 16 gigs on soundcheck across Barcelona and Florence. Often billed alongside Dukwa, Bartolomeo and AGELESS. Next up: Club Twentyone, Florence on Thu 19 Nov.
+Tommaso Carlà is a house and techno artist based in Italy, with 17 gigs on soundcheck across Barcelona and Florence. Often billed alongside Dukwa, Bartolomeo and AGELESS. Next up: Club Twentyone, Florence on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | Club Twentyone | Florence |
 | Thu, 19 Nov 2026 | Club Twentyone | Florence |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tommaso Carlà is a house and techno artist based in Italy, with 16 gigs on soun
 
 Dukwa, Bartolomeo, AGELESS
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasocarlà/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommasocarlà/)*

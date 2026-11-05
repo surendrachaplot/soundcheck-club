@@ -1,6 +1,6 @@
 # Kater
 
-Kater is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Kater x WARNING (Weekender Part 1)" on Fri, 6 Nov 2026.
+Kater is a music venue in Berlin with 18 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Kater x WARNING (Weekender Part 1)" on Fri, 6 Nov 2026.
 
 Kater is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with line-ups including AALIYAH, Acid Pauli, Adri Tüde and Aio and 2 more. See dates, start times and who's playing. Holzmarktstrasse 25, 10243 Berlin.
 
@@ -16,11 +16,11 @@ Kater is a music venue in Berlin listed on soundcheck. 18 upcoming gigs, with li
 | Thu, 19 Nov 2026 | Hot Mess with FLINTA* CLUB DECK | CATAWR, Marie Chain, Pilar Jordan |
 | Fri, 20 Nov 2026 | WENN ES HELL WIRD (Nenn' ich es Aufgang oder Untergang) - Ein Solo Musiktheater |  |
 | Fri, 20 Nov 2026 | Mystic Creatures | Aio, Bonnie Spacey, Elias Goldmund, HOVR, Horst Haller, Just Emma, Konfusia, Maurice Mino, Naicet, Nina Hepburn, R3NATA, Taberia |
-| Sat, 21 Nov 2026 | Katernacht with Per Hammar, Alison Swing, Phonk D + more | Alison Swing, GTI, Hanna Baertig, Kotelett, Per Hammar, Phonk D, Reza Jalilian, Robin Flux, Snow (DE), Ventura, Vero Standke |
+| Sat, 21 Nov 2026 | Katernacht with Per Hammar, Alison Swing, Phonk D + more | Alison Swing, GTI, Hanna Baertig, Kotelett, Per Hammar, Phonk D, Reza Jalilian, Robin Flux, Snow (DE), Ventura, Vero Standke, manque |
 | Fri, 27 Nov 2026 | NEST with Mood II Swing, Gallegos, Sherø + more | Bézier, Esther Dune, Evan Tail, Gallegos, Mood II Swing, Qualia Trax, Sherø |
 
 ## Address
 
 Holzmarktstrasse 25, 10243 Berlin, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/kater/)*

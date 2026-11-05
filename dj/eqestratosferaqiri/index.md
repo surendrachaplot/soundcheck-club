@@ -1,6 +1,6 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Electronica artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 6 Nov 2026.
+EQ (Estratosfera + Qiri) is a Club and Electronica artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 27 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 20 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: The Great Northern, San Francisco/Oakland on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 
 Bclip, Jawnino, Ahadadream
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

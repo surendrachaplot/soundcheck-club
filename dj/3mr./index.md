@@ -1,6 +1,6 @@
 # 3MR.
 
-3MR. is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The DBA, Manchester on Fri, 6 Nov 2026.
+3MR. is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The DBA, Manchester on Fri, 6 Nov 2026.
 
 3MR. is a techno and electronica artist based in Syria, with 26 gigs on soundcheck across Edinburgh, Glasgow, London and Manchester. Often billed alongside Spinefluid, Salam Kitty and ISO YSO. Next up: The DBA, Manchester on Fri 6 Nov.
 
@@ -27,4 +27,4 @@
 
 Spinefluid, Salam Kitty, ISO YSO
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3mr./)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3mr./)*

@@ -1,8 +1,8 @@
 # DJ Glentan
 
-DJ Glentan is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Nest, Basel on Sat, 21 Nov 2026.
+DJ Glentan is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Nest, Basel on Sat, 21 Nov 2026.
 
-DJ Glentan is a trance and techno artist, with 6 gigs on soundcheck across Basel and Berlin. Often billed alongside Swagchief, Aiden (DE) and Blame the Booker. Next up: Nest, Basel on Sat 21 Nov.
+DJ Glentan is a trance and techno artist based in Switzerland, with 6 gigs on soundcheck across Basel and Berlin. Often billed alongside Swagchief, Aiden (DE) and Blame the Booker. Next up: Nest, Basel on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ DJ Glentan is a trance and techno artist, with 6 gigs on soundcheck across Basel
 
 Swagchief, Aiden (DE), Blame the Booker
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djglentan/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djglentan/)*

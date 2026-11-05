@@ -1,8 +1,8 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Marco Bailey is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Marco Bailey is a techno and tech house artist based in Belgium, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 53 more. Often billed alongside Klaudia Gawlas, Speedy J and Cristian Varela. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
+Marco Bailey is a techno and tech house artist based in Belgium, with 119 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 53 more. Often billed alongside Klaudia Gawlas, Speedy J and Cristian Varela. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Marco Bailey is a techno and tech house artist based in Belgium, with 118 gigs o
 | Sat, 28 Nov 2026 | Common Ground | Naples |
 | Sat, 5 Dec 2026 | Lalín Arena | North |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
+| Sat, 12 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Marco Bailey is a techno and tech house artist based in Belgium, with 118 gigs o
 
 Klaudia Gawlas, Speedy J, Cristian Varela
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobailey/)*

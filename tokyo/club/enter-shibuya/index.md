@@ -1,14 +1,13 @@
 # Enter Shibuya
 
-Enter Shibuya is a music venue in Tokyo with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "INSTINCT" on Wed, 4 Nov 2026.
+Enter Shibuya is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "TWINS" on Thu, 5 Nov 2026.
 
-Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, with line-ups including Ayana Pattra, DJ POIPOI, DJ Quietstorm and Eichi Abe and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
+Enter Shibuya is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including AMANE, Daichi, DJ POIPOI and DJ Quietstorm and 2 more. See dates, start times and who's playing. 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | INSTINCT | Ayana Pattra, Rikuto Shibazaki, Shun Kurashima, shimosoma |
 | Thu, 5 Nov 2026 | TWINS | Youngisland |
 | Fri, 6 Nov 2026 | LIVING ROOM | DJ POIPOI, DJ Quietstorm, HIMAWARI, MILS, West Ape, tamanaramen |
 | Sat, 7 Nov 2026 | ONOMATOPE 4th anniversary | Mamazu |
@@ -17,10 +16,11 @@ Enter Shibuya is a music venue in Tokyo listed on soundcheck. 11 upcoming gigs, 
 | Thu, 12 Nov 2026 | BACK TO CHILL | HELKTRAM, Lowki, kafuka naiki |
 | Fri, 13 Nov 2026 | PAXPROJECT presents Lola Haro | KOTSU, Lola Haro, Rickey Shannon |
 | Sat, 14 Nov 2026 | The Dreamers EP41 | Manaha, Rickey Shannon |
-| Mon, 16 Nov 2026 | lucid 明晰夢 | Kengo Yuasa |
+| Mon, 16 Nov 2026 | lucid 明晰夢 | Kengo Yuasa, NYAO |
+| Thu, 19 Nov 2026 | SAVE 16 vol.02 | KAKERU, m-int |
 
 ## Address
 
 6F GEMS Jingumae, 6-19-17,  Jingumae,Shibuya-ku, Tokyo 150-0001 Japan, Tokyo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/enter-shibuya/)*

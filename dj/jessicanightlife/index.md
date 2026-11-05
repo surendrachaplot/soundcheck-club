@@ -1,6 +1,6 @@
 # Jessica Nightlife
 
-Jessica Nightlife is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Slot, Hamburg on Fri, 6 Nov 2026.
+Jessica Nightlife is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Slot, Hamburg on Fri, 6 Nov 2026.
 
 Jessica Nightlife is a house and techno artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside puppy, Aaron Blau and DJ AYA. Next up: Slot, Hamburg on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Jessica Nightlife is a house and techno artist based in Germany, with 63 gigs on
 
 puppy, Aaron Blau, DJ AYA
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicanightlife/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessicanightlife/)*

@@ -1,8 +1,8 @@
 # Sophie Phare
 
-Sophie Phare is a Electro artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Sophie Phare is a Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-Sophie Phare is an electro artist based in Georgia, with 83 gigs on soundcheck across Amsterdam, Athens, Munich and Nürnberg and 7 more. Often billed alongside Ndrx, Kvanchi and Hamatsuki. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
+Sophie Phare is an electro artist based in Georgia, with 84 gigs on soundcheck across Amsterdam, Athens, Munich and Nürnberg and 7 more. Often billed alongside Ndrx, Kvanchi and Hamatsuki. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sophie Phare is an electro artist based in Georgia, with 83 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Fri, 20 Nov 2026 | Bassiani | Tbilisi |
+| Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sophie Phare is an electro artist based in Georgia, with 83 gigs on soundcheck a
 
 Ndrx, Kvanchi, Hamatsuki
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiephare/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiephare/)*

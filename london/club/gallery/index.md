@@ -1,6 +1,6 @@
 # Gallery
 
-Gallery is a music venue in London with 19 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Paradox Nexus: BRADII, Défilé, Tomi H, Exotico - Thursdays at Gallery" on Thu, 5 Nov 2026.
+Gallery is a music venue in London with 19 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Paradox Nexus: BRADII, Défilé, Tomi H, Exotico - Thursdays at Gallery" on Thu, 5 Nov 2026.
 
 Gallery is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Ale Grooves, BRADII, DEFILE and Exotico and 2 more. See dates, start times and who's playing. 2A Kensington High Street, London, W8 4PT.
 
@@ -23,4 +23,4 @@ Gallery is a music venue in London listed on soundcheck. 19 upcoming gigs, with 
 
 2A Kensington High Street, London, W8 4PT, London
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/gallery/)*

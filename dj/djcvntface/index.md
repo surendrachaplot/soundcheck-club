@@ -1,6 +1,6 @@
 # Dj Cvntface
 
-Dj Cvntface is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Cause, London on Fri, 6 Nov 2026.
+Dj Cvntface is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
 Dj Cvntface is a gabber and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin, Bielefeld, Budapest and London. Often billed alongside FLUCC, Viscerale and LØUS. Next up: The Cause, London on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Dj Cvntface is a gabber and hardcore artist based in Germany, with 7 gigs on sou
 
 FLUCC, Viscerale, LØUS
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntface/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcvntface/)*

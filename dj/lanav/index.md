@@ -1,6 +1,6 @@
 # Lanav
 
-Lanav is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
+Lanav is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
 
 Lanav is a bass and breakbeat artist based in Spain, with 42 gigs on soundcheck across Barcelona, London, Madrid and New York City and 1 more. Often billed alongside Jehia, Just Claudia and Akazie. Next up: Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu 11 Mar.
 
@@ -25,4 +25,4 @@ Lanav is a bass and breakbeat artist based in Spain, with 42 gigs on soundcheck 
 
 Jehia, Just Claudia, Akazie
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lanav/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lanav/)*

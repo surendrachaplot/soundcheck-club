@@ -1,6 +1,6 @@
 # elliephunk
 
-elliephunk is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at BABY01, Berlin on Fri, 13 Nov 2026.
+elliephunk is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BABY01, Berlin on Fri, 13 Nov 2026.
 
 elliephunk is a house and techno artist based in Taiwan, with 92 gigs on soundcheck across Berlin, Frankfurt, New York City and Taipei. Often billed alongside Organza, B.A.O. and Camilla Rae. Next up: BABY01, Berlin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ elliephunk is a house and techno artist based in Taiwan, with 92 gigs on soundch
 
 Organza, B.A.O., Camilla Rae
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliephunk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliephunk/)*

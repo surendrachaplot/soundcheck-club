@@ -1,8 +1,8 @@
 # Système
 
-Système is a music venue in Montreal with 20 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Wax Transmissions" on Thu, 5 Nov 2026.
+Système is a music venue in Montreal with 21 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Wax Transmissions" on Thu, 5 Nov 2026.
 
-Système is a music venue in Montreal listed on soundcheck. 20 upcoming gigs, with line-ups including Akpossoul, Andrea de Tour, Cakes Da Killa and CPR Annie and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
+Système is a music venue in Montreal listed on soundcheck. 21 upcoming gigs, with line-ups including Akpossoul, Andrea de Tour, Asha and Cakes Da Killa and 2 more. See dates, start times and who's playing. 7119 Saint Hubert, Montreal QC H2S2N1 Canada.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Système is a music venue in Montreal listed on soundcheck. 20 upcoming gigs, wi
 
 7119 Saint Hubert, Montreal QC H2S2N1 Canada, Montreal
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/syst-me/)*

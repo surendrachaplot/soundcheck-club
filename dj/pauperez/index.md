@@ -1,6 +1,6 @@
 # Pau Pérez
 
-Pau Pérez is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Esbirra Ibiza, Ibiza on Sat, 21 Nov 2026.
+Pau Pérez is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Esbirra Ibiza, Ibiza on Sat, 21 Nov 2026.
 
 Pau Pérez is a house and tech house artist based in Spain, with 118 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 6 more. Often billed alongside Sueezo, Pin and Blanch. Next up: Esbirra Ibiza, Ibiza on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Pau Pérez is a house and tech house artist based in Spain, with 118 gigs on sou
 
 Sueezo, Pin, Blanch
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauperez/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pauperez/)*

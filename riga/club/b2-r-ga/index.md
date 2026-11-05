@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "PIXEL #4 W RIF RAF [LT/AU]" on Fri, 6 Nov 2026.
+B2 Rīga is a music venue in Riga with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "PIXEL #4 W RIF RAF [LT/AU]" on Fri, 6 Nov 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with line-ups including Aeden, Barseghian, Brenna Ryan and D I N and 2 more. See dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -19,4 +19,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with li
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

@@ -1,6 +1,6 @@
 # Klub SPATiF
 
-Klub SPATiF is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "ŁASKI.BEZ" on Fri, 6 Nov 2026.
+Klub SPATiF is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ŁASKI.BEZ" on Fri, 6 Nov 2026.
 
 Klub SPATiF is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Vasile. See dates, start times and who's playing. Al. Ujazdowskie 45, 00-536 Warszawa.
 
@@ -15,4 +15,4 @@ Klub SPATiF is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, wi
 
 Al. Ujazdowskie 45, 00-536 Warszawa, Warsaw
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-spatif/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/klub-spatif/)*

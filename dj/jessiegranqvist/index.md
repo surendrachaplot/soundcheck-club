@@ -1,6 +1,6 @@
 # Jessie Granqvist
 
-Jessie Granqvist is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Under Bron, Stockholm on Sat, 14 Nov 2026.
+Jessie Granqvist is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Under Bron, Stockholm on Sat, 14 Nov 2026.
 
 Jessie Granqvist is a techno and house artist based in Sweden, with 105 gigs on soundcheck across Amsterdam, Beijing, Berlin and Dubai and 11 more. Often billed alongside Maris Shilton, Anthony Linell and Evigt Mörker. Next up: Under Bron, Stockholm on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Jessie Granqvist is a techno and house artist based in Sweden, with 105 gigs on 
 
 Maris Shilton, Anthony Linell, Evigt Mörker
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiegranqvist/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessiegranqvist/)*

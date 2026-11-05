@@ -1,6 +1,6 @@
 # Buchan
 
-Buchan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 6 Nov 2026.
+Buchan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at MONKEY LOVE, Warsaw on Fri, 6 Nov 2026.
 
 Buchan is a techno and house artist, with 47 gigs on soundcheck across Krakow, New York City, Warsaw and Wroclaw. Often billed alongside Edvvin, MATRIX3K and dd (PL). Next up: MONKEY LOVE, Warsaw on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Buchan is a techno and house artist, with 47 gigs on soundcheck across Krakow, N
 
 Edvvin, MATRIX3K, dd (PL)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buchan/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buchan/)*

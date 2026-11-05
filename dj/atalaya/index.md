@@ -1,6 +1,6 @@
 # atalaya
 
-atalaya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at The Deaf Institute, Manchester on Fri, 18 Dec 2026.
+atalaya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Deaf Institute, Manchester on Fri, 18 Dec 2026.
 
 atalaya is a house and techno artist based in Spain, with 64 gigs on soundcheck across Manchester. Often billed alongside Qoqnut, Kuriboh and Atiké. Next up: The Deaf Institute, Manchester on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ atalaya is a house and techno artist based in Spain, with 64 gigs on soundcheck 
 
 Qoqnut, Kuriboh, Atiké
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atalaya/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atalaya/)*

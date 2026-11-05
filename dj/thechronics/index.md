@@ -1,6 +1,6 @@
 # The Chronics
 
-The Chronics is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at KREUZWERK, Berlin on Sat, 26 Dec 2026.
+The Chronics is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at KREUZWERK, Berlin on Sat, 26 Dec 2026.
 
 The Chronics is a techno and house artist based in Switzerland, with 75 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Basel and 19 more. Often billed alongside Bours?, Chlär and Alarico. Next up: KREUZWERK, Berlin on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ The Chronics is a techno and house artist based in Switzerland, with 75 gigs on 
 
 Bours?, Chlär, Alarico
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thechronics/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thechronics/)*

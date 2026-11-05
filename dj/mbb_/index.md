@@ -1,0 +1,28 @@
+# MBB_
+
+MBB_ is a Club and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Soup, Manchester on Fri, 27 Nov 2026.
+
+MBB_ is a club and uk funky artist based in United Kingdom, with 30 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside CONE, Lucian (UK) and Plan T. Next up: Soup, Manchester on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | Soup | Manchester |
+
+## Recently played
+
+- The Yard, Manchester · Sat, 24 Oct 2026
+- Soup, Manchester · Fri, 15 May 2026
+- The Radio Room @ Stage & Radio, Manchester · Thu, 2 Apr 2026
+- Soup, Manchester · Fri, 28 Nov 2025
+- Hidden, Manchester · Fri, 31 Oct 2025
+- Cu, London · Fri, 18 Jul 2025
+- Soup, Manchester · Sat, 31 May 2025
+- Stage and Radio, Manchester · Fri, 7 Mar 2025
+
+## Shares bills with
+
+CONE (2), Lucian (UK), Plan T
+
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mbb_/)*

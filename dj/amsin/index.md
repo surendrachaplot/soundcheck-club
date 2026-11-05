@@ -1,14 +1,15 @@
 # AM sin
 
-AM sin is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
+AM sin is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at M.O.T, London on Thu, 19 Nov 2026.
 
-AM sin is an experimental and ambient artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 1 more. Often billed alongside happyhappyface, Simon Mós and visuals ru. Next up: M.O.T, London on Thu 19 Nov.
+AM sin is an experimental and ambient artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, Leeds, Liverpool and London and 2 more. Often billed alongside happyhappyface, Simon Mós and visuals ru. Next up: M.O.T, London on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | M.O.T | London |
+| Sat, 17 Apr 2027 | The Old Market Hove/Brighton | South-east |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ AM sin is an experimental and ambient artist based in United Kingdom, with 20 gi
 
 happyhappyface, Simon Mós, visuals ru
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amsin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amsin/)*

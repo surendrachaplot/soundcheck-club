@@ -1,8 +1,8 @@
 # MARIEEEA
 
-MARIEEEA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Low Profile Studios, London on Fri, 13 Nov 2026.
+MARIEEEA is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Low Profile Studios, London on Fri, 13 Nov 2026.
 
-MARIEEEA is a techno and trance artist based in United Kingdom, with 44 gigs on soundcheck across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Lau.tastic, Sohtech and DEBBIE (IT). Next up: Low Profile Studios, London on Fri 13 Nov.
+MARIEEEA is a techno and hardcore artist based in United Kingdom, with 45 gigs on soundcheck across Barcelona, Berlin, Brighton and Bucharest and 5 more. Often billed alongside Lau.tastic, Sohtech and DEBBIE (IT). Next up: Low Profile Studios, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ MARIEEEA is a techno and trance artist based in United Kingdom, with 44 gigs on 
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Low Profile Studios | London |
 | Fri, 20 Nov 2026 | E1 | London |
+| Fri, 18 Dec 2026 | Unit 58 | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ MARIEEEA is a techno and trance artist based in United Kingdom, with 44 gigs on 
 
 Lau.tastic, Sohtech, DEBBIE (IT)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marieeea/)*

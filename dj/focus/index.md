@@ -1,6 +1,6 @@
 # Focus
 
-Focus is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Thrive City at Chase Center, San Francisco/Oakland on Sat, 7 Nov 2026.
+Focus is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Thrive City at Chase Center, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Focus is a house and drum & bass artist, with 7 gigs on soundcheck across Liverpool, Minneapolis/St Paul and San Francisco/Oakland. Often billed alongside Alien Izz, JDM and 4am Kru. Next up: Thrive City at Chase Center, San Francisco/Oakland on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Focus is a house and drum & bass artist, with 7 gigs on soundcheck across Liverp
 
 Alien Izz, JDM, 4am Kru
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/focus/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/focus/)*

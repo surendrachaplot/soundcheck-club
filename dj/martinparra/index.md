@@ -1,6 +1,6 @@
 # Martin Parra
 
-Martin Parra is a Latin Bass and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Bar Americas, Guadalajara on Fri, 6 Nov 2026.
+Martin Parra is a Latin Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bar Americas, Guadalajara on Fri, 6 Nov 2026.
 
 Martin Parra is a latin bass and house artist based in Mexico, with 19 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Diego Walle, Disco 86 and Ricxrdi. Next up: Bar Americas, Guadalajara on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Martin Parra is a latin bass and house artist based in Mexico, with 19 gigs on s
 
 Diego Walle, Disco 86, Ricxrdi
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinparra/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinparra/)*

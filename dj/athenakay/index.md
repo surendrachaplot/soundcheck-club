@@ -1,6 +1,6 @@
 # Athena Kay
 
-Athena Kay is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Daddy’S all day bar, Athens on Thu, 5 Nov 2026.
+Athena Kay is a Minimal and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Daddy’S all day bar, Athens on Thu, 5 Nov 2026.
 
 Athena Kay is a minimal and tech house artist, with 8 gigs on soundcheck across Athens. Often billed alongside Tanison, George Apergis and Isi. Next up: Daddy’S all day bar, Athens on Thu 5 Nov.
 
@@ -24,4 +24,4 @@ Athena Kay is a minimal and tech house artist, with 8 gigs on soundcheck across 
 
 Tanison, George Apergis, Isi (1)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/athenakay/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/athenakay/)*

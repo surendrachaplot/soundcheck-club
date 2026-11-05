@@ -1,14 +1,15 @@
 # SAM (9)
 
-SAM (9) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+SAM (9) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
-SAM is a house and techno artist based in Germany, with 76 gigs on soundcheck across Berlin, Brussels, Cologne and Dresden and 10 more. Often billed alongside jewelry, OLIV and Marie Montexier. Next up: Renate, Berlin on Thu 31 Dec.
+SAM is a house and techno artist based in Germany, with 77 gigs on soundcheck across Berlin, Brussels, Cologne and Dresden and 11 more. Often billed alongside jewelry, OLIV and Marie Montexier. Next up: Renate, Berlin on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Renate | Berlin |
+| Wed, 31 Mar 2027 | Treefort Music Hall | Idaho |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SAM is a house and techno artist based in Germany, with 76 gigs on soundcheck ac
 
 jewelry, OLIV, Marie Montexier
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sam-9/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sam-9/)*

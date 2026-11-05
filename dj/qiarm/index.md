@@ -1,6 +1,6 @@
 # Qi (ARM)
 
-Qi (ARM) is a electronic artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The How, Armenia on Fri, 6 Nov 2026.
+Qi (ARM) is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The How, Armenia on Fri, 6 Nov 2026.
 
 Qi (ARM) is an electronic artist based in Armenia, with 7 gigs on soundcheck across Armenia, Berlin, Copenhagen and Tbilisi. Often billed alongside Kaytseng, Korl and AWHM. Next up: The How, Armenia on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Qi (ARM) is an electronic artist based in Armenia, with 7 gigs on soundcheck acr
 
 Kaytseng, Korl, AWHM
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qiarm/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/qiarm/)*

@@ -1,8 +1,8 @@
 # Cleric
 
-Cleric is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Village Underground Lisboa, Lisbon on Sat, 14 Nov 2026.
+Cleric is a Techno and Acid artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Village Underground Lisboa, Lisbon on Sat, 14 Nov 2026.
 
-Cleric is a techno and acid artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 46 more. Often billed alongside Félicie, Habgud and Bailey Ibbs. Next up: Village Underground Lisboa, Lisbon on Sat 14 Nov.
+Cleric is a techno and acid artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 47 more. Often billed alongside Félicie, Habgud and Bailey Ibbs. Next up: Village Underground Lisboa, Lisbon on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Cleric is a techno and acid artist based in United Kingdom, with 127 gigs on sou
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Village Underground Lisboa | Lisbon |
 | Fri, 20 Nov 2026 | essaim | Paris |
+| Fri, 27 Nov 2026 | Horn | Bangkok |
 | Fri, 4 Dec 2026 | VENT | Tokyo |
 | Fri, 11 Dec 2026 | Galaxy Bar | Christchurch |
 
@@ -28,4 +29,4 @@ Cleric is a techno and acid artist based in United Kingdom, with 127 gigs on sou
 
 Félicie, Habgud, Bailey Ibbs
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cleric/)*

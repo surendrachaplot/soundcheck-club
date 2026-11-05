@@ -1,6 +1,6 @@
 # SERRATI
 
-SERRATI is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Motel Campo, Geneva on Sat, 7 Nov 2026.
+SERRATI is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Motel Campo, Geneva on Sat, 7 Nov 2026.
 
 SERRATI is a techno and acid artist based in Switzerland, with 4 gigs on soundcheck across Geneva. Often billed alongside Runde, Setaoc Mass and Alex Nantaya. Next up: Motel Campo, Geneva on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ SERRATI is a techno and acid artist based in Switzerland, with 4 gigs on soundch
 
 Runde, Setaoc Mass, Alex Nantaya
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serrati/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serrati/)*

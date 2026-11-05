@@ -1,6 +1,6 @@
 # Mia Mao
 
-Mia Mao is a music venue in Paris with 22 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Take Hit: Debbie, RHADAMANTHE, KD/MS, MON.TO" on Thu, 5 Nov 2026.
+Mia Mao is a music venue in Paris with 22 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Take Hit: Debbie, RHADAMANTHE, KD/MS, MON.TO" on Thu, 5 Nov 2026.
 
 Mia Mao is a music venue in Paris listed on soundcheck. 22 upcoming gigs, with line-ups including ADB (FR), Akalex, ANDATA and Annie and 2 more. See dates, start times and who's playing. 12a rue Ella Fitzgerald, 75019, Paris, FRANCE.
 
@@ -23,4 +23,4 @@ Mia Mao is a music venue in Paris listed on soundcheck. 22 upcoming gigs, with l
 
 12a rue Ella Fitzgerald, 75019, Paris, FRANCE, Paris
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mia-mao/)*

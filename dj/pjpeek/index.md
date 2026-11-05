@@ -1,6 +1,6 @@
 # PJ Peek
 
-PJ Peek is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Secret Location, London on Fri, 20 Nov 2026.
+PJ Peek is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Secret Location, London on Fri, 20 Nov 2026.
 
 PJ Peek is a techno and garage artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Cassine, EN HAYCH and Ami (UK). Next up: Secret Location, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ PJ Peek is a techno and garage artist based in United Kingdom, with 15 gigs on s
 
 Cassine, EN HAYCH, Ami (UK)
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjpeek/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pjpeek/)*

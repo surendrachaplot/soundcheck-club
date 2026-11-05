@@ -1,6 +1,6 @@
 # Bongoat
 
-Bongoat is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 8 Nov 2026.
+Bongoat is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 8 Nov 2026.
 
 Bongoat is a techno and experimental artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside CyberFairy777, Kaikaina and Millyosa. Next up: Garage Noord, Amsterdam on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Bongoat is a techno and experimental artist based in Netherlands, with 9 gigs on
 
 CyberFairy777, Kaikaina, Millyosa
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoat/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bongoat/)*

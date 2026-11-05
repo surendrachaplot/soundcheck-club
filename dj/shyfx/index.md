@@ -1,8 +1,8 @@
 # Shy FX
 
-Shy FX is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Club Guesthouse, Bucharest on Fri, 13 Nov 2026.
+Shy FX is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Guesthouse, Bucharest on Fri, 13 Nov 2026.
 
-Shy FX is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 25 more. Often billed alongside Wilkinson, Chimpo and Interplanetary Criminal. Next up: Club Guesthouse, Bucharest on Fri 13 Nov.
+Shy FX is a drum & bass and jungle artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 25 more. Often billed alongside Wilkinson, Oppidan and Chimpo. Next up: Club Guesthouse, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Shy FX is a drum & bass and jungle artist based in United Kingdom, with 75 gigs 
 | Fri, 11 Dec 2026 | Pustervik | Gothenburg |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Fri, 28 May 2027 | Peckham Rye Park | London |
+| Sat, 29 May 2027 | Ashton Court Estate | Bristol |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Shy FX is a drum & bass and jungle artist based in United Kingdom, with 75 gigs 
 
 ## Shares bills with
 
-Wilkinson, Chimpo, Interplanetary Criminal
+Wilkinson, Oppidan, Chimpo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shyfx/)*

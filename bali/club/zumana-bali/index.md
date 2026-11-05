@@ -1,14 +1,13 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Enoo Napa" on Wed, 4 Nov 2026.
+Zumana Bali is a music venue in Bali with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ELVIS GUETTA" on Fri, 6 Nov 2026.
 
-Zumana Bali is a music venue in Bali listed on soundcheck. 11 upcoming gigs, with line-ups including Cameron Jack, Damian Lazarus, Enoo Napa and Francis Mercier and 2 more. See dates, start times and who's playing.
+Zumana Bali is a music venue in Bali listed on soundcheck. 13 upcoming gigs, with line-ups including Cameron Jack, Damian Lazarus, DJ Tennis and Francis Mercier and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Enoo Napa | Enoo Napa |
 | Fri, 6 Nov 2026 | ELVIS GUETTA |  |
 | Sat, 7 Nov 2026 | Cameron Jack | Cameron Jack |
 | Wed, 11 Nov 2026 | Tayllor |  |
@@ -17,6 +16,7 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 11 upcoming gigs, wit
 | Wed, 25 Nov 2026 | Damian Lazarus | Damian Lazarus |
 | Fri, 27 Nov 2026 | Joseph Capriati | Joseph Capriati |
 | Wed, 9 Dec 2026 | Luuk van Dijk | Luuk van Dijk |
+| Fri, 11 Dec 2026 | DJ Tennis | DJ Tennis |
 | Wed, 16 Dec 2026 | Kitty Amor | Kitty Amor |
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

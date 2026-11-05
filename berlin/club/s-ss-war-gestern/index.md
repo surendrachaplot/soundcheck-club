@@ -1,6 +1,6 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚)" on Sat, 7 Nov 2026.
+Süss War Gestern is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "THE UNKNOWN (𝘍𝘙𝘌𝘌 𝘌𝘕𝘛𝘙𝘠 𝘜𝘕𝘛𝘐𝘓 22:00 ⟶ 𝘛𝘏𝘙𝘌𝘌 𝘍𝘓𝘖𝘖𝘙𝘚)" on Sat, 7 Nov 2026.
 
 Süss War Gestern is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Better Call Paul, Dicso_Muzek, maniac&me and Marvel Gold and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
@@ -23,4 +23,4 @@ Süss War Gestern is a music venue in Berlin listed on soundcheck. 11 upcoming g
 
 Wühlischstraße 43, 10245 Berlin, Berlin
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/s-ss-war-gestern/)*

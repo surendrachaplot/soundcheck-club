@@ -1,13 +1,14 @@
 # Moulin
 
-Moulin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Sacré, Paris on Sat, 28 Nov 2026.
+Moulin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Flat HiFi Bar, Madrid on Fri, 6 Nov 2026.
 
-Moulin is a house and techno artist, with 53 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Madrid and 4 more. Often billed alongside Chris Gorrie, Fabich and Calabasa. Next up: Sacré, Paris on Sat 28 Nov.
+Moulin is a house and techno artist, with 54 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Madrid and 4 more. Often billed alongside Chris Gorrie, Fabich and Calabasa. Next up: Flat HiFi Bar, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Flat HiFi Bar | Madrid |
 | Sat, 28 Nov 2026 | Sacré | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Moulin is a house and techno artist, with 53 gigs on soundcheck across Barcelona
 
 Chris Gorrie, Fabich, Calabasa
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moulin/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moulin/)*

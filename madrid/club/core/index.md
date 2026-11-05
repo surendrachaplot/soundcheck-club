@@ -1,6 +1,6 @@
 # Core
 
-Core is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Spook feat. BIXBITA + Ariezzz + Cheff" on Thu, 5 Nov 2026.
+Core is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Spook feat. BIXBITA + Ariezzz + Cheff" on Thu, 5 Nov 2026.
 
 Core is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including AddlyMuff, ALOT, Varo and Ariezzz and 2 more. See dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
 
@@ -23,4 +23,4 @@ Core is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with lin
 
 Madrid, 28013, Calle de Tetuán, 27, España, Madrid
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*

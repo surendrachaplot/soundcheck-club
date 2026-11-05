@@ -1,6 +1,6 @@
 # Die Rakete
 
-Die Rakete is a music venue in Nürnberg with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "T78 All Night Long & Timo Mandl powered by Bassgeflüster" on Fri, 6 Nov 2026.
+Die Rakete is a music venue in Nürnberg with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "T78 All Night Long & Timo Mandl powered by Bassgeflüster" on Fri, 6 Nov 2026.
 
 Die Rakete is a music venue in Nürnberg listed on soundcheck. 7 upcoming gigs, with line-ups including Acid Foxy, Alex Benz, Anna Reusch and Annie O and 2 more. See dates, start times and who's playing. Vogelweiherstraße 64, 90441 Nürnberg.
 
@@ -20,4 +20,4 @@ Die Rakete is a music venue in Nürnberg listed on soundcheck. 7 upcoming gigs, 
 
 Vogelweiherstraße 64, 90441 Nürnberg, Nürnberg
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/nurnberg/club/die-rakete/)*

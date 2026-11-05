@@ -1,14 +1,15 @@
 # Cody Hammer
 
-Cody Hammer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Spkrbox, Detroit on Sat, 7 Nov 2026.
+Cody Hammer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Spkrbox, Detroit on Sat, 7 Nov 2026.
 
-Cody Hammer is a techno and house artist based in United States of America, with 48 gigs on soundcheck across Detroit and New York City. Often billed alongside Brent Shay, Floor Supervisor and Terrence Dixon. Next up: Spkrbox, Detroit on Sat 7 Nov.
+Cody Hammer is a techno and house artist based in United States of America, with 49 gigs on soundcheck across Detroit and New York City. Often billed alongside Brent Shay, Floor Supervisor and Terrence Dixon. Next up: Spkrbox, Detroit on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Spkrbox | Detroit |
+| Fri, 4 Dec 2026 | Moondog Cafe | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cody Hammer is a techno and house artist based in United States of America, with
 
 Brent Shay, Floor Supervisor, Terrence Dixon
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codyhammer/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/codyhammer/)*

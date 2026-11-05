@@ -1,6 +1,6 @@
 # SlapFunk Weekender at NOWHERE at NOWHERE
 
-SlapFunk Weekender at NOWHERE on Sat 28 Nov, Manchester. 8 artists: Alexander Skancke, Captain Wallop, DJ Senc and Doudou MD and 4 more. See the line-up on soundcheck.
+SlapFunk Weekender at NOWHERE on Sat 28 Nov, Manchester. 12 artists: A For Alpha, Across Boundaries, Alexander Skancke and Captain Wallop and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ SlapFunk Weekender at NOWHERE on Sat 28 Nov, Manchester. 8 artists: Alexander Sk
 
 ## Line-up
 
+- A For Alpha
+- Across Boundaries
 - Alexander Skancke
 - Captain Wallop
 - DJ Senc
@@ -17,6 +19,8 @@ SlapFunk Weekender at NOWHERE on Sat 28 Nov, Manchester. 8 artists: Alexander Sk
 - Fumiya Tanaka
 - Georgia
 - Nathalie Seres
+- Samuel Deep
 - Wax Material
+- Wilba
 
 *Source: [soundcheck](https://soundcheck.club/e/2502728-slapfunk-weekender-at-nowhere-at-nowhere/)*

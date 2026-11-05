@@ -1,6 +1,6 @@
 # Fluid510
 
-Fluid510 is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. The next is "I Found Luv with DJs Cali, Jayvi Velasco & Hannah Lee" on Sat, 14 Nov 2026.
+Fluid510 is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "I Found Luv with DJs Cali, Jayvi Velasco & Hannah Lee" on Sat, 14 Nov 2026.
 
 Fluid510 is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Cali and Jayvi Velasco. See dates, start times and who's playing. 1544 Broadway, Oakland, CA 94612.
 
@@ -14,4 +14,4 @@ Fluid510 is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcom
 
 1544 Broadway, Oakland, CA 94612, San Francisco/Oakland
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/fluid510/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/fluid510/)*

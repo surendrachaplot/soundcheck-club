@@ -1,6 +1,6 @@
 # Full Throttle: Mha Iri, Duck Trash & BEARCAT at House of Yes
 
-Full Throttle: Mha Iri, Duck Trash & BEARCAT at House of Yes on Sat 14 Nov, New York City. 2 artists: BEARCAT and Mha iri. Techno. See the line-up on soundcheck.
+Full Throttle: Mha Iri, Duck Trash & BEARCAT at House of Yes on Sat 14 Nov, New York City. 3 artists: BEARCAT, Duck Trash and Mha iri. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Full Throttle: Mha Iri, Duck Trash & BEARCAT at House of Yes on Sat 14 Nov, New 
 ## Line-up
 
 - BEARCAT
+- Duck Trash
 - Mha iri
 
 *Source: [soundcheck](https://soundcheck.club/e/2479029-full-throttle-mha-iri-duck-trash-bearcat-at-house-of-yes/)*

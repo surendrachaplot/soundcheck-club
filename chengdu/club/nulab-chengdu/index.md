@@ -1,6 +1,6 @@
 # Nulab Chengdu
 
-Nulab Chengdu is a music venue in Chengdu with 9 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "NU Pres. DE FEO" on Fri, 6 Nov 2026.
+Nulab Chengdu is a music venue in Chengdu with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "NU Pres. DE FEO" on Fri, 6 Nov 2026.
 
 Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 9 upcoming gigs, with line-ups including A-Tweed, DEFEO, Erik Luebs and Hazel and 2 more. See dates, start times and who's playing. No.666. Yong'an Rd. Jinjiang Dist. Chengdu China.
 
@@ -16,10 +16,10 @@ Nulab Chengdu is a music venue in Chengdu listed on soundcheck. 9 upcoming gigs,
 | Fri, 13 Nov 2026 | BUCKSHOT × OSCAR18 CHINA TOUR | Kousei |
 | Sat, 14 Nov 2026 | Dissolve The Ego 呈现：Erik Luebs（Live Set） | Erik Luebs |
 | Fri, 20 Nov 2026 | Tin - 浩室之徒 | Summer |
-| Sat, 28 Nov 2026 | Tin / MALSTROM Tour 2026 厅 |  |
+| Sat, 28 Nov 2026 | Tin / MALSTROM Tour 2026 @厅 |  |
 
 ## Address
 
 No.666. Yong'an Rd. Jinjiang Dist. Chengdu China, Chengdu
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/chengdu/club/nulab-chengdu/)*

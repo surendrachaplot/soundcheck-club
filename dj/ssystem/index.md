@@ -1,8 +1,8 @@
 # SSYSTEM
 
-SSYSTEM is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 12 Nov 2026.
+SSYSTEM is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at M.N.Roy, Mexico City on Thu, 12 Nov 2026.
 
-SSYSTEM is a minimal and house artist, with 7 gigs on soundcheck across Amsterdam, Barcelona, Guadalajara and Mexico City. Often billed alongside RUGE, VCIII and BLUMOR. Next up: M.N.Roy, Mexico City on Thu 12 Nov.
+SSYSTEM is a minimal and house artist based in Mexico, with 7 gigs on soundcheck across Amsterdam, Barcelona, Guadalajara and Mexico City. Often billed alongside RUGE, VCIII and BLUMOR. Next up: M.N.Roy, Mexico City on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ SSYSTEM is a minimal and house artist, with 7 gigs on soundcheck across Amsterda
 
 RUGE, VCIII, BLUMOR
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ssystem/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ssystem/)*

@@ -1,0 +1,28 @@
+# CONE (2)
+
+CONE (2) is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Soup, Manchester on Fri, 27 Nov 2026.
+
+CONE is a club and techno artist based in United Kingdom, with 22 gigs on soundcheck across London and Manchester. Often billed alongside Lucian (UK), MBB_ and Plan T. Next up: Soup, Manchester on Fri 27 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 27 Nov 2026 | Soup | Manchester |
+
+## Recently played
+
+- TBA - Secret Location - North London, London · Fri, 5 Jun 2026
+- Soup, Manchester · Fri, 15 May 2026
+- The Radio Room @ Stage & Radio, Manchester · Thu, 2 Apr 2026
+- Peckham Arches, London · Wed, 31 Dec 2025
+- Soup, Manchester · Fri, 28 Nov 2025
+- Hidden, Manchester · Fri, 31 Oct 2025
+- Cu, London · Fri, 18 Jul 2025
+- Soup, Manchester · Sat, 31 May 2025
+
+## Shares bills with
+
+Lucian (UK), MBB_, Plan T
+
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cone-2/)*

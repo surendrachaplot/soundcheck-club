@@ -1,6 +1,6 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Open Ground, Wuppertal on Sat, 7 Nov 2026.
+Mala is a Dubstep and Bass artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Open Ground, Wuppertal on Sat, 7 Nov 2026.
 
 Mala is a dubstep and bass artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 45 more. Often billed alongside Mia Koden, SGT Pokes and Kode9. Next up: Open Ground, Wuppertal on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Mala is a dubstep and bass artist based in United Kingdom, with 124 gigs on soun
 
 Mia Koden, SGT Pokes, Kode9
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mala/)*

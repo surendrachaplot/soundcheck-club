@@ -1,13 +1,14 @@
 # KRISTIE KARDIO
 
-KRISTIE KARDIO is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 20 Nov 2026.
+KRISTIE KARDIO is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Radost Music Club, Bratislava on Fri, 13 Nov 2026.
 
-KRISTIE KARDIO is a techno and tech house artist based in Slovakia, with 35 gigs on soundcheck across Bratislava, Brno, Copenhagen and Prague and 1 more. Often billed alongside MIKLEI, SPACER (SK) and FVLCRVM. Next up: Ankali & Planeta Za, Prague on Fri 20 Nov.
+KRISTIE KARDIO is a techno and tech house artist based in Slovakia, with 36 gigs on soundcheck across Bratislava, Brno, Copenhagen and Prague and 1 more. Often billed alongside MIKLEI, SPACER (SK) and FVLCRVM. Next up: Radost Music Club, Bratislava on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Radost Music Club | Bratislava |
 | Fri, 20 Nov 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
@@ -25,4 +26,4 @@ KRISTIE KARDIO is a techno and tech house artist based in Slovakia, with 35 gigs
 
 MIKLEI, SPACER (SK), FVLCRVM
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiekardio/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristiekardio/)*

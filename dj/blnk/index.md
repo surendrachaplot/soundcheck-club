@@ -1,6 +1,6 @@
 # BLNK
 
-BLNK is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 19 Dec 2026.
+BLNK is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Pavilhão Carlos Lopes, Lisbon on Sat, 19 Dec 2026.
 
 BLNK is a techno and industrial artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 21 more. Often billed alongside TiTi, LIEKS and KRUELTY. Next up: Pavilhão Carlos Lopes, Lisbon on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ BLNK is a techno and industrial artist based in Netherlands, with 53 gigs on sou
 
 TiTi, LIEKS, KRUELTY
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blnk/)*

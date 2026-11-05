@@ -1,6 +1,6 @@
 # Hazel
 
-Hazel is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Nulab Chengdu, Chengdu on Fri, 6 Nov 2026.
+Hazel is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Nulab Chengdu, Chengdu on Fri, 6 Nov 2026.
 
 Hazel is a techno and hardcore artist, with 29 gigs on soundcheck across Basel, Chengdu, London and Manchester and 2 more. Often billed alongside DISCIPLINE, PRYMARA and Gerger. Next up: Nulab Chengdu, Chengdu on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Hazel is a techno and hardcore artist, with 29 gigs on soundcheck across Basel, 
 
 DISCIPLINE, PRYMARA, Gerger
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazel/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazel/)*

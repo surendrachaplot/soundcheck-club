@@ -1,6 +1,6 @@
 # OCTAGON SUNDAY at SEL OCTAGON TOKYO
 
-OCTAGON SUNDAY at SEL OCTAGON TOKYO on Sun 8 Nov, Tokyo. 3 artists: Flex (Italy), Lemi and Miki. Electro and Club. See the line-up on soundcheck.
+OCTAGON SUNDAY at SEL OCTAGON TOKYO on Sun 8 Nov, Tokyo. 2 artists: Flex (Italy) and Lemi. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ OCTAGON SUNDAY at SEL OCTAGON TOKYO on Sun 8 Nov, Tokyo. 3 artists: Flex (Italy)
 
 - Flex (Italy)
 - Lemi
-- Miki
 
 *Source: [soundcheck](https://soundcheck.club/e/2573872-octagon-sunday-at-sel-octagon-tokyo/)*

@@ -1,19 +1,19 @@
 # MAXIMILIANO (US)
 
-MAXIMILIANO (US) is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Wed, 4 Nov 2026.
+MAXIMILIANO (US) is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Spkrbox, Detroit on Sat, 7 Nov 2026.
 
-MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 199 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 6 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: Eighteenth Street Lounge (ESL), Washington DC on Wed 4 Nov.
+MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 199 gigs on soundcheck across Barcelona, Buenos Aires, Detroit and Ibiza and 6 more. Often billed alongside Mikey J, Factory Reset and Room 12. Next up: Spkrbox, Detroit on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Eighteenth Street Lounge (ESL) | Washington DC |
 | Sat, 7 Nov 2026 | Spkrbox | Detroit |
 | Wed, 25 Nov 2026 | TBA - Secret Location | Washington DC |
 
 ## Recently played
 
+- Eighteenth Street Lounge (ESL), Washington DC · Wed, 4 Nov 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Fri, 30 Oct 2026
 - Wiggle Room, Toronto · Sun, 25 Oct 2026
 - TBA - 309 Shorty's Ave., Toronto · Sat, 24 Oct 2026
@@ -21,10 +21,9 @@ MAXIMILIANO (US) is a house and deep house artist based in Argentina, with 199 g
 - Eaton Workshop, Washington DC · Mon, 12 Oct 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Sun, 11 Oct 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Wed, 7 Oct 2026
-- Eighteenth Street Lounge (ESL), Washington DC · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Mikey J, Factory Reset, Room 12
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximiliano-us/)*

@@ -1,6 +1,6 @@
 # Goya Social Club
 
-Goya Social Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "Baila Ritmo with Shakti" on Fri, 6 Nov 2026.
+Goya Social Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Baila Ritmo with Shakti" on Fri, 6 Nov 2026.
 
 Goya Social Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Charlotte (FR), Diego, Giammarco Orsini and Le Nomad and 1 more. See dates, start times and who's playing. Calle de Goya, 43, 28001 Madrid, Spain.
 
@@ -18,4 +18,4 @@ Goya Social Club is a music venue in Madrid listed on soundcheck. 5 upcoming gig
 
 Calle de Goya, 43, 28001 Madrid, Spain, Madrid
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/goya-social-club/)*

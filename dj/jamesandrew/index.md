@@ -1,8 +1,8 @@
 # James Andrew
 
-James Andrew is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 6 Nov 2026.
+James Andrew is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 6 Nov 2026.
 
-James Andrew is a house and techno artist based in United Kingdom, with 46 gigs on soundcheck across Barcelona, Bogotá, Brussels and Ibiza and 12 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: Monarch, San Francisco/Oakland on Fri 6 Nov.
+James Andrew is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Barcelona, Bogotá, Brussels and Ibiza and 12 more. Often billed alongside Charley, Heels & Souls and Apple B. Next up: Monarch, San Francisco/Oakland on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ James Andrew is a house and techno artist based in United Kingdom, with 46 gigs 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Monarch | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | TBA - DTLA | Los Angeles |
+| Sat, 21 Nov 2026 | Casa Checo - Plaza Cuicuilco | Mexico-city |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ James Andrew is a house and techno artist based in United Kingdom, with 46 gigs 
 
 Charley, Heels & Souls, Apple B
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesandrew/)*

@@ -1,6 +1,6 @@
 # Sky (3)
 
-Sky (3) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Cellar, London on Fri, 27 Nov 2026.
+Sky (3) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cellar, London on Fri, 27 Nov 2026.
 
 Sky is a minimal and house artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside DJ Quench, Cecilio and Cristi Cons. Next up: Cellar, London on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Sky is a minimal and house artist based in United Kingdom, with 8 gigs on soundc
 
 DJ Quench, Cecilio, Cristi Cons
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sky-3/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sky-3/)*

@@ -1,6 +1,6 @@
 # Lou Isn't
 
-Lou Isn't is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
+Lou Isn't is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Honey's, New York City on Sat, 5 Dec 2026.
 
 Lou Isn't is a techno and pop artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Patsy, Preacher's Daughter and Bea Levy. Next up: Honey's, New York City on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Lou Isn't is a techno and pop artist based in United States of America, with 7 g
 
 Patsy, Preacher's Daughter, Bea Levy
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisnt/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/louisnt/)*

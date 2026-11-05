@@ -1,6 +1,6 @@
 # Çesc
 
-Çesc is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Twiga Milano, Milan on Thu, 12 Nov 2026.
+Çesc is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Twiga Milano, Milan on Thu, 12 Nov 2026.
 
 Çesc is a house and tech house artist based in Italy, with 10 gigs on soundcheck across London and Milan. Often billed alongside Figio's, Alexander de Roi and Sinvergüenza. Next up: Twiga Milano, Milan on Thu 12 Nov.
 
@@ -25,4 +25,4 @@
 
 Figio's, Alexander de Roi, Sinvergüenza
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesc-it/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesc-it/)*

@@ -1,8 +1,8 @@
 # bullet tooth
 
-bullet tooth is a House and Garage artist with 7 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+bullet tooth is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-bullet tooth is a house and garage artist based in United Kingdom, with 140 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 39 more. Often billed alongside Silva Bumpa, Capo Lee and Locklead. Next up: Tinker Field, Orlando on Fri 6 Nov.
+bullet tooth is a house and garage artist based in United Kingdom, with 141 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Antwerp and 40 more. Often billed alongside Silva Bumpa, Capo Lee and Locklead. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ bullet tooth is a house and garage artist based in United Kingdom, with 140 gigs
 | Sat, 21 Nov 2026 | The Brickworks | Nottingham |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Thu, 31 Dec 2026 | E1 | London |
+| Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
@@ -31,4 +32,4 @@ bullet tooth is a house and garage artist based in United Kingdom, with 140 gigs
 
 Silva Bumpa, Capo Lee, Locklead
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bullettooth/)*

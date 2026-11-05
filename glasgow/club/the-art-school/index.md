@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. The next is "DUB CLUB: Craigy Wonder (Mungo's Hi Fi) & Hometown Sound" on Thu, 5 Nov 2026.
+The Art School is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "DUB CLUB: Craigy Wonder (Mungo's Hi Fi) & Hometown Sound" on Thu, 5 Nov 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including ACHIRĀ, Bristol Luke, CU-S1TH and Divergence and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -21,4 +21,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

@@ -1,14 +1,15 @@
 # Foambb
 
-Foambb is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at OIL Club, Shenzhen on Fri, 6 Nov 2026.
+Foambb is a Bass and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OIL Club, Shenzhen on Fri, 6 Nov 2026.
 
-Foambb is a bass and drum & bass artist, with 51 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside DJ 86, Beibeilon and AntiSocialPrincess. Next up: OIL Club, Shenzhen on Fri 6 Nov.
+Foambb is a bass and drum & bass artist, with 52 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside DJ 86, Beibeilon and AntiSocialPrincess. Next up: OIL Club, Shenzhen on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | OIL Club | Shenzhen |
+| Sat, 5 Dec 2026 | OIL Club | Shenzhen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Foambb is a bass and drum & bass artist, with 51 gigs on soundcheck across Hong 
 
 DJ 86, Beibeilon, AntiSocialPrincess
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foambb/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/foambb/)*

@@ -1,6 +1,6 @@
 # Sam Wise
 
-Sam Wise is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
+Sam Wise is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hellissandur, Iceland, Iceland on Thu, 12 Aug 2027.
 
 Sam Wise is a house and minimal artist based in United Kingdom, with 18 gigs on soundcheck across Austin, Bogotá, Iceland and London and 2 more. Often billed alongside Febe, Moscofly and Jan Nachtigall. Next up: Hellissandur, Iceland, Iceland on Thu 12 Aug.
 
@@ -25,4 +25,4 @@ Sam Wise is a house and minimal artist based in United Kingdom, with 18 gigs on 
 
 Febe, Moscofly, Jan Nachtigall
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-uk/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samwise-uk/)*

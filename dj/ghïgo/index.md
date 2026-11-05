@@ -1,8 +1,8 @@
 # Ghïgø
 
-Ghïgø is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Minusa Music Club, Madrid on Fri, 6 Nov 2026.
+Ghïgø is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Minusa Music Club, Madrid on Fri, 6 Nov 2026.
 
-Ghïgø is an electronica and house artist, with 6 gigs on soundcheck across Madrid. Often billed alongside Nitoryu. Next up: Minusa Music Club, Madrid on Fri 6 Nov.
+Ghïgø is an electronica and house artist based in Italy, with 6 gigs on soundcheck across Madrid. Often billed alongside Nitoryu. Next up: Minusa Music Club, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ Ghïgø is an electronica and house artist, with 6 gigs on soundcheck across Mad
 
 Nitoryu
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghïgo/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ghïgo/)*

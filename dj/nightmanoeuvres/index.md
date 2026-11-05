@@ -1,6 +1,6 @@
 # NIGHT manoeuvres
 
-NIGHT manoeuvres is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at Gazarte, Greece on Sat, 19 Dec 2026.
+NIGHT manoeuvres is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Gazarte, Greece on Sat, 19 Dec 2026.
 
 NIGHT manoeuvres is a bass and techno artist based in United Kingdom, with 10 gigs on soundcheck across Athens, Greece, Helsinki and London. Often billed alongside ABSOLUTE., Dot Major and Mia Lily. Next up: Gazarte, Greece on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ NIGHT manoeuvres is a bass and techno artist based in United Kingdom, with 10 gi
 
 ABSOLUTE., Dot Major, Mia Lily
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmanoeuvres/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nightmanoeuvres/)*

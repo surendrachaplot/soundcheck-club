@@ -1,8 +1,8 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 6 Nov 2026.
+Francesco Farfa is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 6 Nov 2026.
 
-Francesco Farfa is a house and techno artist based in Italy, with 116 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 31 more. Often billed alongside Janina, Alex Picone and Hamsa. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 6 Nov.
+Francesco Farfa is a house and techno artist based in Italy, with 117 gigs on soundcheck across Amsterdam, Bali, Barcelona and Beijing and 31 more. Often billed alongside Janina, Alex Picone and Hamsa. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Francesco Farfa is a house and techno artist based in Italy, with 116 gigs on so
 | Fri, 6 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 14 Nov 2026 | Fabriketa | Sao Paulo |
 | Thu, 19 Nov 2026 | Club Vibe | Brazil |
+| Sat, 5 Dec 2026 | Macadam | Nantes |
 | Sat, 5 Dec 2026 | Macadam | Nantes |
 
 ## Recently played
@@ -28,4 +29,4 @@ Francesco Farfa is a house and techno artist based in Italy, with 116 gigs on so
 
 Janina, Alex Picone, Hamsa
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

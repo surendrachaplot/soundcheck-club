@@ -1,6 +1,6 @@
 # Cloonee
 
-Cloonee is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at BRET, Amsterdam on Fri, 6 Nov 2026.
+Cloonee is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BRET, Amsterdam on Fri, 6 Nov 2026.
 
 Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 32 more. Often billed alongside Jamie Jones, Sosa and Franky Rizardo. Next up: BRET, Amsterdam on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ Cloonee is a house and tech house artist based in United Kingdom, with 75 gigs o
 
 Jamie Jones, Sosa, Franky Rizardo
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cloonee/)*

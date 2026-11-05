@@ -1,6 +1,6 @@
 # INTER-SECTION at Inter-City
 
-INTER-SECTION at Inter-City on Sat 14 Nov, The Hague. 8 artists: Anna Babèlva, Antal, Conduct Disorder and INA and 4 more. See the line-up on soundcheck.
+INTER-SECTION at Inter-City on Sat 14 Nov, The Hague. 9 artists: Angel D'lite, Anna Babèlva, Antal and Conduct Disorder and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ INTER-SECTION at Inter-City on Sat 14 Nov, The Hague. 8 artists: Anna Babèlva, 
 
 ## Line-up
 
+- Angel D'lite
 - Anna Babèlva
 - Antal
 - Conduct Disorder

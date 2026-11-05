@@ -1,13 +1,14 @@
 # djfix
 
-djfix is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Wed, 4 Nov 2026. Next at The Garden Tisno, Croatia on Wed, 7 Jul 2027.
+djfix is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - San Francisco, San Francisco/Oakland on Fri, 4 Dec 2026.
 
-djfix is a techno and tech house artist based in United States of America, with 31 gigs on soundcheck across Berlin, Canberra, Copenhagen and Croatia and 11 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: The Garden Tisno, Croatia on Wed 7 Jul.
+djfix is a techno and tech house artist based in United States of America, with 32 gigs on soundcheck across Berlin, Canberra, Copenhagen and Croatia and 11 more. Often billed alongside Jek (US), adobeprincess and Ekkel. Next up: TBA - San Francisco, San Francisco/Oakland on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -25,4 +26,4 @@ djfix is a techno and tech house artist based in United States of America, with 
 
 Jek (US), adobeprincess, Ekkel
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfix/)*

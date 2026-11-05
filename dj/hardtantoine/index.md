@@ -1,13 +1,14 @@
 # Hardt Antoine
 
-Hardt Antoine is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Wed, 4 Nov 2026. Next at Frontón Bucareli, Mexico City on Sat, 7 Nov 2026.
+Hardt Antoine is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Polifonic.MX, Guadalajara on Fri, 6 Nov 2026.
 
-Hardt Antoine is a techno and house artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Frontón Bucareli, Mexico City on Sat 7 Nov.
+Hardt Antoine is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Caleesi, Sarah Kreis and Mira. Next up: Polifonic.MX, Guadalajara on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Polifonic.MX | Guadalajara |
 | Sat, 7 Nov 2026 | Frontón Bucareli | Mexico City |
 | Sat, 28 Nov 2026 | Kater | Berlin |
 
@@ -26,4 +27,4 @@ Hardt Antoine is a techno and house artist based in United Kingdom, with 85 gigs
 
 Caleesi, Sarah Kreis, Mira
 
-*Updated Wed, 4 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardtantoine/)*
