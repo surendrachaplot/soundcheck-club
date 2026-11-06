@@ -1,6 +1,6 @@
 # Scar
 
-Scar is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Abyss Shanghai, Shanghai on Fri, 6 Nov 2026.
+Scar is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Abyss Shanghai, Shanghai on Fri, 6 Nov 2026.
 
 Scar is a techno and hardcore artist based in United Kingdom, with 42 gigs on soundcheck across Basel, Bristol, Glasgow and London and 5 more. Often billed alongside kso12, 1luu and Alicia (UK). Next up: Abyss Shanghai, Shanghai on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Scar is a techno and hardcore artist based in United Kingdom, with 42 gigs on so
 
 kso12, 1luu, Alicia (UK)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scar/)*

@@ -1,6 +1,6 @@
 # baby ikea
 
-baby ikea is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kinki, Manila on Sat, 7 Nov 2026.
+baby ikea is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kinki, Manila on Sat, 7 Nov 2026.
 
 baby ikea is a techno and electronica artist based in Philippines, with 13 gigs on soundcheck across Manila. Often billed alongside Versailles, Duality and Shaoxing. Next up: Kinki, Manila on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ baby ikea is a techno and electronica artist based in Philippines, with 13 gigs 
 
 Versailles, Duality, Shaoxing
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyikea/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyikea/)*

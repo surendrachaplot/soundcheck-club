@@ -1,6 +1,6 @@
 # PRISMA Showcase (Floyd Basel 2026) at Floyd
 
-PRISMA Showcase (Floyd Basel 2026) on Wed 2 Dec, Miami. 4 artists: Lulah Francs, Make A Dance, MUSCLECARS and Natasha Diggs. House. See the line-up on soundcheck.
+PRISMA Showcase (Floyd Basel 2026) on Wed 2 Dec, Miami. 6 artists: Demi Riquisimo, Isaac Carter, Lulah Francs and Make A Dance and 2 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ PRISMA Showcase (Floyd Basel 2026) on Wed 2 Dec, Miami. 4 artists: Lulah Francs,
 
 ## Line-up
 
+- Demi Riquisimo
+- Isaac Carter
 - Lulah Francs
 - Make A Dance
 - MUSCLECARS

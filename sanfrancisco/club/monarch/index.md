@@ -1,8 +1,8 @@
 # Monarch
 
-Monarch is a music venue in San Francisco/Oakland with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Room 4 Improvement & Texture Summit presents: James Andrew" on Fri, 6 Nov 2026.
+Monarch is a music venue in San Francisco/Oakland with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Room 4 Improvement & Texture Summit presents: James Andrew" on Fri, 6 Nov 2026.
 
-Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcoming gigs, with line-ups including 1OO1O, Amatric, Axel Boman and bad juuju and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
+Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 15 upcoming gigs, with line-ups including .KINA, 1OO1O, Amatric and Axel Boman and 2 more. See dates, start times and who's playing. 101 6th Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Monarch is a music venue in San Francisco/Oakland listed on soundcheck. 13 upcom
 | Thu, 19 Nov 2026 | Bump | Camillionaire, FeLine, Huffy (2) |
 | Fri, 20 Nov 2026 | Marsolo | Marsolo |
 | Sat, 21 Nov 2026 | Revolutions: Staxx of Wax | Duserock |
+| Sat, 5 Dec 2026 | FRYTM presents: SAGMO (Maccabi House) | .KINA, Kohbain, Matony, SAGMO |
 | Fri, 11 Dec 2026 | As You Like It Unedited: Open to Close with Axel Boman | Axel Boman |
-| Fri, 11 Dec 2026 | Planet Synth Holiday Soirée at Upstairs Lounge | Amatric, DJ Cira, Evbot |
 
 ## Address
 
 101 6th Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/monarch/)*

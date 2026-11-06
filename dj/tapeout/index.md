@@ -1,6 +1,6 @@
 # TapeOut
 
-TapeOut is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Range, Turin on Fri, 6 Nov 2026.
+TapeOut is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Range, Turin on Fri, 6 Nov 2026.
 
 TapeOut is a tech house and house artist based in Italy, with 12 gigs on soundcheck across Turin. Often billed alongside Nicola Gavino, Artslaves and Cuartero. Next up: The Range, Turin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ TapeOut is a tech house and house artist based in Italy, with 12 gigs on soundch
 
 Nicola Gavino, Artslaves, Cuartero
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tapeout/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tapeout/)*

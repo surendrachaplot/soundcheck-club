@@ -1,6 +1,6 @@
 # HIMAWARI
 
-HIMAWARI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 6 Nov 2026.
+HIMAWARI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 6 Nov 2026.
 
 HIMAWARI is a house and techno artist based in Japan, with 146 gigs on soundcheck across Osaka, Taipei and Tokyo. Often billed alongside kengotaki, Romy Mats and CYBERHACKSYSTEM. Next up: Enter Shibuya, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ HIMAWARI is a house and techno artist based in Japan, with 146 gigs on soundchec
 
 kengotaki, Romy Mats, CYBERHACKSYSTEM
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/himawari/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/himawari/)*

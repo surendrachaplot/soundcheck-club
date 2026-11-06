@@ -1,6 +1,6 @@
 # timodufner
 
-timodufner is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Schlachthaus, Stuttgart on Sun, 8 Nov 2026.
+timodufner is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Schlachthaus, Stuttgart on Sun, 8 Nov 2026.
 
 timodufner is a techno and acid artist based in Germany, with 21 gigs on soundcheck across Stuttgart. Often billed alongside Julius Elias, An On Bast and Djinn. Next up: Schlachthaus, Stuttgart on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ timodufner is a techno and acid artist based in Germany, with 21 gigs on soundch
 
 Julius Elias, An On Bast, Djinn
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timodufner/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timodufner/)*

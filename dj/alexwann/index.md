@@ -1,6 +1,6 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Future Nightlife, Toronto on Fri, 6 Nov 2026.
+Alex Wann is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Future Nightlife, Toronto on Fri, 6 Nov 2026.
 
 Alex Wann is an afro house and house artist based in France, with 158 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: Future Nightlife, Toronto on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ Alex Wann is an afro house and house artist based in France, with 158 gigs on so
 
 Notre Dame, Andrea Oliva, Shimza
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

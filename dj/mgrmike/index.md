@@ -1,6 +1,6 @@
 # MGR Mike
 
-MGR Mike is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Night We Met, Nashville on Fri, 6 Nov 2026.
+MGR Mike is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Night We Met, Nashville on Fri, 6 Nov 2026.
 
 MGR Mike is a house and disco artist based in United States of America, with 19 gigs on soundcheck across Atlanta, Mexico City, Nashville and New York City and 1 more. Often billed alongside Afrosheen, papa jazz and Aline Rocha. Next up: Night We Met, Nashville on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MGR Mike is a house and disco artist based in United States of America, with 19 
 
 Afrosheen, papa jazz, Aline Rocha
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mgrmike/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mgrmike/)*

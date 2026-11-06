@@ -1,6 +1,6 @@
 # Akin/Non Exist
 
-Akin/Non Exist is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat, 7 Nov 2026.
+Akin/Non Exist is a Balearic and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat, 7 Nov 2026.
 
 Akin/Non Exist is a balearic and house artist based in Brazil, with 35 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Benjamin Sallum, Benjamim Sallum and Pista Quente. Next up: TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Akin/Non Exist is a balearic and house artist based in Brazil, with 35 gigs on s
 
 Benjamin Sallum, Benjamim Sallum, Pista Quente
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akinnonexist/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akinnonexist/)*

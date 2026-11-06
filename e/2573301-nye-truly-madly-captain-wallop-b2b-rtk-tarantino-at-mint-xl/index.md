@@ -1,6 +1,6 @@
 # NYE: Truly Madly, Captain Wallop b2b RTK Tarantino at Mint XL
 
-NYE: Truly Madly, Captain Wallop b2b RTK Tarantino at Mint XL on Thu 31 Dec, Leeds. 2 artists: Captain Wallop and RTK Tarantino. Garage and Tech House. See the line-up on soundcheck.
+NYE: Truly Madly, Captain Wallop b2b RTK Tarantino at Mint XL on Thu 31 Dec, Leeds. 4 artists: Annie Errez, Captain Wallop, RTK Tarantino and Truly Madly. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ NYE: Truly Madly, Captain Wallop b2b RTK Tarantino at Mint XL on Thu 31 Dec, Lee
 
 ## Line-up
 
+- Annie Errez
 - Captain Wallop
 - RTK Tarantino
+- Truly Madly
 
 *Source: [soundcheck](https://soundcheck.club/e/2573301-nye-truly-madly-captain-wallop-b2b-rtk-tarantino-at-mint-xl/)*

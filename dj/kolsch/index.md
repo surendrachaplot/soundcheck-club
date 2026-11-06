@@ -1,8 +1,8 @@
 # Kölsch
 
-Kölsch is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
+Kölsch is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
 
-Kölsch is a techno and house artist based in Denmark, with 169 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Kevin de Vries, Adam Beyer and CamelPhat. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
+Kölsch is a techno and house artist based in Denmark, with 170 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 50 more. Often billed alongside Kevin de Vries, Adam Beyer and CamelPhat. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Kölsch is a techno and house artist based in Denmark, with 169 gigs on soundche
 | Thu, 19 Nov 2026 | Paradiso | Amsterdam |
 | Fri, 20 Nov 2026 | Robert Johnson | Hesse |
 | Fri, 4 Dec 2026 | D! Club | Lausanne |
+| Sat, 19 Dec 2026 | Salon Amador | Medellin |
 | Fri, 1 Jan 2027 | 7 Palmer Parade, Cremorne 3121 | Melbourne |
 
 ## Recently played
@@ -31,4 +32,4 @@ Kölsch is a techno and house artist based in Denmark, with 169 gigs on soundche
 
 Kevin de Vries, Adam Beyer, CamelPhat
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kolsch/)*

@@ -1,6 +1,6 @@
 # Dj Nico
 
-Dj Nico is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 12 Nov 2026.
+Dj Nico is a Club and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bossa Nova Civic Club, New York City on Thu, 12 Nov 2026.
 
 Dj Nico is a club and ghetto tech artist based in United States of America, with 64 gigs on soundcheck across Atlanta, Baltimore, Chicago and Detroit and 13 more. Often billed alongside Cquestt, Qemist and shekdash. Next up: Bossa Nova Civic Club, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Dj Nico is a club and ghetto tech artist based in United States of America, with
 
 Cquestt, Qemist, shekdash
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnico/)*

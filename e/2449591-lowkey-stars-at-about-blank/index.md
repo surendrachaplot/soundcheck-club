@@ -1,6 +1,6 @@
 # ★ LOWKEY STARS ☆ at ://about blank
 
-★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 21 artists: *Tia*, Amin Fallaha, Anna Kasyan and CEEE and 17 more. Trance and Techno. See the line-up on soundcheck.
+★ LOWKEY STARS ☆ at ://about blank on Fri 4 Dec, Berlin. 22 artists: *Tia*, Alexander Pohl, Amin Fallaha and Anna Kasyan and 18 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - *Tia*
+- Alexander Pohl
 - Amin Fallaha
 - Anna Kasyan
 - CEEE

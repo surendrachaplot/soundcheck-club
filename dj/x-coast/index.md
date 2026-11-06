@@ -1,6 +1,6 @@
 # X-Coast
 
-X-Coast is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
+X-Coast is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
 
 X-Coast is a techno and house artist based in Serbia, with 196 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Arkansas and 73 more. Often billed alongside Juicy Romance, Partiboi69 and X CLUB.. Next up: The Momentary, Arkansas on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ X-Coast is a techno and house artist based in Serbia, with 196 gigs on soundchec
 
 Juicy Romance, Partiboi69, X CLUB.
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/x-coast/)*

@@ -1,6 +1,6 @@
 # Şahika
 
-Şahika is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Auslanderbehörde X Yellow Mellow:  Appleblim (UK) & The Apricots (DE)" on Sat, 7 Nov 2026.
+Şahika is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Auslanderbehörde X Yellow Mellow:  Appleblim (UK) & The Apricots (DE)" on Sat, 7 Nov 2026.
 
 Şahika is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs, with line-ups including Alexandra, Appleblim, DJ HOTMAIL and DJ Regret and 2 more. See dates, start times and who's playing. Hüseyinağa mahallesi, Nevizade sokak, No: 5.
 
@@ -15,4 +15,4 @@
 
 Hüseyinağa mahallesi, Nevizade sokak, No: 5, Istanbul
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/ahika/)*

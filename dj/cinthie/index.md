@@ -1,8 +1,8 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Trabendo, Paris on Sat, 7 Nov 2026.
+Cinthie is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Trabendo, Paris on Sat, 7 Nov 2026.
 
-Cinthie is a house and techno artist based in Germany, with 315 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 65 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Le Trabendo, Paris on Sat 7 Nov.
+Cinthie is a house and techno artist based in Germany, with 316 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 65 more. Often billed alongside Meat, Gabrielle Kwarteng and Ogazón. Next up: Le Trabendo, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Cinthie is a house and techno artist based in Germany, with 315 gigs on soundche
 | Fri, 11 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Folklor | Lausanne |
 | Sat, 16 Jan 2027 | Klakaz | Athens |
+| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
 
@@ -34,4 +35,4 @@ Cinthie is a house and techno artist based in Germany, with 315 gigs on soundche
 
 Meat, Gabrielle Kwarteng, Ogazón
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cinthie/)*

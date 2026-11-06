@@ -1,6 +1,6 @@
 # B-SIDE
 
-B-SIDE is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SOUND OF POLDON by TRANCE-ATLANTYK" on Fri, 6 Nov 2026.
+B-SIDE is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SOUND OF POLDON by TRANCE-ATLANTYK" on Fri, 6 Nov 2026.
 
 B-SIDE is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including Bohan, Marlon Clark, Salut 80 and user228322. See dates, start times and who's playing. Piękna 19, 00-549 Warszawa.
 
@@ -16,4 +16,4 @@ B-SIDE is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with li
 
 Piękna 19, 00-549 Warszawa, Warsaw
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/b-side/)*

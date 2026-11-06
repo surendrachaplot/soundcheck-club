@@ -1,19 +1,19 @@
 # Andrew James Gustav
 
-Andrew James Gustav is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Umbria Arts, Philadelphia on Thu, 5 Nov 2026.
+Andrew James Gustav is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Gaffe, London on Sat, 28 Nov 2026.
 
-Andrew James Gustav is a techno and house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 16 more. Often billed alongside Bruno Schmidt, Alien Communications and Jos. Next up: Umbria Arts, Philadelphia on Thu 5 Nov.
+Andrew James Gustav is a techno and house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 16 more. Often billed alongside Bruno Schmidt, Alien Communications and Jos. Next up: Gaffe, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Umbria Arts | Philadelphia |
 | Sat, 28 Nov 2026 | Gaffe | London |
 | Thu, 3 Dec 2026 | OHM | Berlin |
 
 ## Recently played
 
+- Umbria Arts, Philadelphia · Thu, 5 Nov 2026
 - feedbk, New York City · Sat, 31 Oct 2026
 - Les Enfants Brillants, Barcelona · Fri, 23 Oct 2026
 - Block1, Berlin · Sat, 10 Oct 2026
@@ -21,10 +21,9 @@ Andrew James Gustav is a techno and house artist based in United Kingdom, with 7
 - Starlane Pizza Bar, London · Sat, 29 Aug 2026
 - FOLD, London · Fri, 28 Aug 2026
 - Club der Visionaere, Berlin · Fri, 14 Aug 2026
-- Club der Visionaere, Berlin · Wed, 5 Aug 2026
 
 ## Shares bills with
 
 Bruno Schmidt, Alien Communications, Jos
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andrewjamesgustav/)*

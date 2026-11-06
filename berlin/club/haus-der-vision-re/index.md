@@ -1,13 +1,14 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "STRAUSWERK: Contemporary Georgian Culture in Berlin" on Sat, 7 Nov 2026.
+Haus der Visionäre is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Uche Yara" on Fri, 6 Nov 2026.
 
-Haus der Visionäre is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including EROS IN FURS, Gudrun Gut, Kabeaushé and KORDZ and 2 more. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
+Haus der Visionäre is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including AKA Kelzz, EROS IN FURS, Gudrun Gut and Kabeaushé and 2 more. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Uche Yara | AKA Kelzz |
 | Sat, 7 Nov 2026 | STRAUSWERK: Contemporary Georgian Culture in Berlin | KORDZ, Ly Sas, Seqta, Tamada, VINVAR |
 | Wed, 11 Nov 2026 | HOUSE OF PLAMORË - GRIEF EROTICS - SALON SERIES 3 | EROS IN FURS, Manta |
 | Sun, 13 Dec 2026 | !K7 pres. DJ-Kicks - All Day | Natalie Robinson, Palms Trax, Stella Zekri, Theo Parrish |
@@ -17,4 +18,4 @@ Haus der Visionäre is a music venue in Berlin listed on soundcheck. 4 upcoming 
 
 Eichenstr. 4a, 12435 Berlin, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/haus-der-vision-re/)*

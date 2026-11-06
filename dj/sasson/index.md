@@ -1,6 +1,6 @@
 # Sasson
 
-Sasson is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 6 Nov 2026.
+Sasson is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Madarae San Francisco, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Sasson is a house and deep house artist based in France, with 80 gigs on soundcheck across Barcelona, Ibiza, Istanbul and Lisbon and 8 more. Often billed alongside Mont Rouge, Notre Dame and Amour Propre. Next up: Madarae San Francisco, San Francisco/Oakland on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Sasson is a house and deep house artist based in France, with 80 gigs on soundch
 
 Mont Rouge, Notre Dame, Amour Propre
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasson/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sasson/)*

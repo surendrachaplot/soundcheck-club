@@ -1,6 +1,6 @@
 # Bryn Liedl
 
-Bryn Liedl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sat, 7 Nov 2026.
+Bryn Liedl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sat, 7 Nov 2026.
 
 Bryn Liedl is a techno and house artist, with 17 gigs on soundcheck across Vancouver. Often billed alongside STILL LNDN, Jared Love and Paul Franc. Next up: Gorg-O-Mish, Vancouver on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Bryn Liedl is a techno and house artist, with 17 gigs on soundcheck across Vanco
 
 STILL LNDN, Jared Love, Paul Franc
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brynliedl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brynliedl/)*

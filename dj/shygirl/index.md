@@ -1,6 +1,6 @@
 # Shygirl
 
-Shygirl is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Shygirl is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Shygirl is a pop and club artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 20 more. Often billed alongside Charlotte de Witte, Eliza Rose and Honey Dijon. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Shygirl is a pop and club artist based in United Kingdom, with 45 gigs on soundc
 
 Charlotte de Witte, Eliza Rose, Honey Dijon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shygirl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shygirl/)*

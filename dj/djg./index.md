@@ -1,6 +1,6 @@
 # DJ G.
 
-DJ G. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Post Bar, Helsinki on Fri, 18 Dec 2026.
+DJ G. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Post Bar, Helsinki on Fri, 18 Dec 2026.
 
 DJ G. is a techno and house artist based in United States of America, with 34 gigs on soundcheck across Berlin, Croatia, Helsinki and Melbourne and 5 more. Often billed alongside Aurora Halal, DJ'J (US) and DJ Possum. Next up: Post Bar, Helsinki on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ DJ G. is a techno and house artist based in United States of America, with 34 gi
 
 Aurora Halal, DJ'J (US), DJ Possum
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djg./)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djg./)*

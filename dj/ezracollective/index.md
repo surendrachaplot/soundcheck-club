@@ -1,6 +1,6 @@
 # Ezra Collective
 
-Ezra Collective is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - White Label, Manchester on Fri, 6 Nov 2026.
+Ezra Collective is a Jazz and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - White Label, Manchester on Fri, 6 Nov 2026.
 
 Ezra Collective is a jazz and funk / soul artist based in United Kingdom, with 18 gigs on soundcheck across Berlin, Birmingham, Brisbane and Bristol and 9 more. Often billed alongside Jamz Supernova, Goldie and Kokoroko. Next up: TBA - White Label, Manchester on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ezra Collective is a jazz and funk / soul artist based in United Kingdom, with 1
 
 Jamz Supernova, Goldie, Kokoroko
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezracollective/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezracollective/)*

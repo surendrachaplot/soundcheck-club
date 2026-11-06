@@ -1,14 +1,14 @@
 # Pillen
 
-Pillen is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA -  LFO, Madrid on Sat, 14 Nov 2026.
+Pillen is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - LFO, Madrid on Sat, 14 Nov 2026.
 
-Pillen is a techno and electronica artist based in Spain, with 26 gigs on soundcheck across Barcelona, Madrid, Milan and Tokyo. Often billed alongside Gancho, John Garcia and Kimho. Next up: TBA -  LFO, Madrid on Sat 14 Nov.
+Pillen is a techno and electronica artist based in Spain, with 26 gigs on soundcheck across Barcelona, Madrid, Milan and Tokyo. Often billed alongside Gancho, John Garcia and Kimho. Next up: TBA - LFO, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA -  LFO | Madrid |
+| Sat, 14 Nov 2026 | TBA - LFO | Madrid |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Pillen is a techno and electronica artist based in Spain, with 26 gigs on soundc
 
 Gancho, John Garcia, Kimho
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillen/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillen/)*

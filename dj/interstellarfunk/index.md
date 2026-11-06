@@ -1,8 +1,8 @@
 # Interstellar Funk
 
-Interstellar Funk is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Signal, New York City on Fri, 6 Nov 2026.
+Interstellar Funk is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Signal, New York City on Fri, 6 Nov 2026.
 
-Interstellar Funk is a techno and house artist based in Netherlands, with 129 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Casper Tielrooij, Marcel Dettmann and Loradeniz. Next up: Signal, New York City on Fri 6 Nov.
+Interstellar Funk is a techno and house artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 44 more. Often billed alongside Casper Tielrooij, Marcel Dettmann and Dekmantel Soundsystem. Next up: Signal, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Interstellar Funk is a techno and house artist based in Netherlands, with 129 gi
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Signal | New York City |
 | Fri, 27 Nov 2026 | Radio Radio | Amsterdam |
+| Sat, 28 Nov 2026 | BASE Milano | Milan |
 | Thu, 31 Dec 2026 | Bassiani | Tbilisi |
 
 ## Recently played
@@ -25,6 +26,6 @@ Interstellar Funk is a techno and house artist based in Netherlands, with 129 gi
 
 ## Shares bills with
 
-Casper Tielrooij, Marcel Dettmann, Loradeniz
+Casper Tielrooij, Marcel Dettmann, Dekmantel Soundsystem
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/interstellarfunk/)*

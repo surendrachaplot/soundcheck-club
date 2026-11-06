@@ -1,6 +1,6 @@
 # Cybersex
 
-Cybersex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Cybersex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Cybersex is a techno and house artist based in Netherlands, with 109 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 17 more. Often billed alongside TEKNA, Azyr and Blasha & Allatt. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Cybersex is a techno and house artist based in Netherlands, with 109 gigs on sou
 
 TEKNA, Azyr, Blasha & Allatt
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cybersex/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cybersex/)*

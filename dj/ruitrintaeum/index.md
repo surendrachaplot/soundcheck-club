@@ -1,6 +1,6 @@
 # Rui Trintaeum
 
-Rui Trintaeum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Plano B, Porto on Sat, 7 Nov 2026.
+Rui Trintaeum is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Plano B, Porto on Sat, 7 Nov 2026.
 
 Rui Trintaeum is a house and techno artist based in Portugal, with 48 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Let, João Azevedo and D-Compost. Next up: Plano B, Porto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Rui Trintaeum is a house and techno artist based in Portugal, with 48 gigs on so
 
 Let (3), João Azevedo, D-Compost
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitrintaeum/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ruitrintaeum/)*

@@ -1,6 +1,6 @@
 # JENN GREEN
 
-JENN GREEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 6 Nov 2026.
+JENN GREEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 6 Nov 2026.
 
 JENN GREEN is a techno and house artist based in United States of America, with 68 gigs on soundcheck across Los Angeles, Portland, Seattle and Vancouver. Often billed alongside Jason Code, Jordana and Freddy M. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ JENN GREEN is a techno and house artist based in United States of America, with 
 
 Jason Code, Jordana, Freddy M
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngreen/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenngreen/)*

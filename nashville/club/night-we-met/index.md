@@ -1,8 +1,8 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 16 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Daft Disko: Nashville" on Fri, 6 Nov 2026.
+Night We Met is a music venue in Nashville with 18 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Daft Disko: Nashville" on Fri, 6 Nov 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 16 upcoming gigs, with line-ups including Bag Raiders, Cheeko, Chris Avantgarde and Cole Knight and 2 more. See dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 18 upcoming gigs, with line-ups including Bag Raiders, Cheeko, Chris Avantgarde and Cole Knight and 2 more. See dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Night We Met is a music venue in Nashville listed on soundcheck. 16 upcoming gig
 
 114 12th Ave N, Nashville, TN 37203 USA, Nashville
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/nashville/club/night-we-met/)*

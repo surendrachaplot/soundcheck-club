@@ -1,6 +1,6 @@
 # Christa Belle
 
-Christa Belle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The American, Vancouver on Sat, 7 Nov 2026.
+Christa Belle is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The American, Vancouver on Sat, 7 Nov 2026.
 
 Christa Belle is a house and disco artist based in Canada, with 29 gigs on soundcheck across Berlin and Vancouver. Often billed alongside DJ D.Dee, DJ Hannah and DJ Holographic. Next up: The American, Vancouver on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Christa Belle is a house and disco artist based in Canada, with 29 gigs on sound
 
 DJ D.Dee, DJ Hannah, DJ Holographic
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christabelle/)*

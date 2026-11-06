@@ -1,6 +1,6 @@
 # Digitalism
 
-Digitalism is a Electro and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Bataclan, Paris on Fri, 6 Nov 2026.
+Digitalism is a Electro and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Bataclan, Paris on Fri, 6 Nov 2026.
 
 Digitalism is an electro and electronica artist based in Germany, with 40 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 20 more. Often billed alongside ISAbella, Bauernfeind and Dr. Lektroluv. Next up: Le Bataclan, Paris on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Digitalism is an electro and electronica artist based in Germany, with 40 gigs o
 
 ISAbella, Bauernfeind, Dr. Lektroluv
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/digitalism/)*

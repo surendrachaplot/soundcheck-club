@@ -1,20 +1,20 @@
 # Xiorro
 
-Xiorro is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OST, Berlin on Thu, 5 Nov 2026.
+Xiorro is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 13 Nov 2026.
 
-Xiorro is a techno and house artist based in United States of America, with 90 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 30 more. Often billed alongside Laure Croft, Faster Horses and Parallx. Next up: OST, Berlin on Thu 5 Nov.
+Xiorro is a techno and house artist based in United States of America, with 90 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 30 more. Often billed alongside Laure Croft, Faster Horses and Parallx. Next up: Peti Kupe, Zagreb on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | OST | Berlin |
 | Fri, 13 Nov 2026 | Peti Kupe | Zagreb |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
+- OST, Berlin · Thu, 5 Nov 2026
 - Meet Berlage, Amsterdam · Sat, 24 Oct 2026
 - UNDERCITY, Seoul · Sat, 10 Oct 2026
 - Pisco Bar, Kuala Lumpur · Sat, 3 Oct 2026
@@ -22,10 +22,9 @@ Xiorro is a techno and house artist based in United States of America, with 90 g
 - OIL Club, Shenzhen · Thu, 1 Oct 2026
 - KHIDI, Tbilisi · Fri, 25 Sept 2026
 - Tresor / Globus, Berlin · Mon, 14 Sept 2026
-- Sektor Evolution, Dresden · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 Laure Croft, Faster Horses, Parallx
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xiorro/)*

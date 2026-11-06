@@ -1,8 +1,8 @@
 # Common Mob
 
-Common Mob is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
+Common Mob is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
 
-Common Mob is a bass and breakbeat artist, with 9 gigs on soundcheck across Berlin and Dresden. Often billed alongside DUKU, Dub Athlete and 1985. Next up: objekt klein a, Dresden on Fri 13 Nov.
+Common Mob is a bass and breakbeat artist based in Germany, with 9 gigs on soundcheck across Berlin and Dresden. Often billed alongside DUKU, Dub Athlete and 1985. Next up: objekt klein a, Dresden on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Common Mob is a bass and breakbeat artist, with 9 gigs on soundcheck across Berl
 
 DUKU, Dub Athlete, 1985
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/commonmob/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/commonmob/)*

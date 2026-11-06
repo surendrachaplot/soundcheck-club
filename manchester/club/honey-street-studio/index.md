@@ -1,6 +1,6 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "DREAMLAND W/ MARIMARI + ELFZ" on Fri, 6 Nov 2026.
+Honey Street Studio is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "DREAMLAND W/ MARIMARI + ELFZ" on Fri, 6 Nov 2026.
 
 Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including LALIT, Anop, Arkane and Baby Rollén and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
@@ -23,4 +23,4 @@ Honey Street Studio is a music venue in Manchester listed on soundcheck. 10 upco
 
 Honey St, Cheetham Hill, Manchester M8 8RG, Manchester
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/honey-street-studio/)*

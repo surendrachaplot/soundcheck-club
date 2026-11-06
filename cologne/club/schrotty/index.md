@@ -1,6 +1,6 @@
 # Schrotty
 
-Schrotty is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "5 YEARS EhrenKlub ANDEREX, GO$PEL, KNTRLVRLST, LIEKS, MR. POLSKA, SCHLASS, VORTEK´S & ZENTRYC " on Sat, 7 Nov 2026.
+Schrotty is a music venue in Cologne with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "5 YEARS EhrenKlub ANDEREX, GO$PEL, KNTRLVRLST, LIEKS, MR. POLSKA, SCHLASS, VORTEK´S & ZENTRYC " on Sat, 7 Nov 2026.
 
 Schrotty is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with line-ups including Alfred Heinrichs, Amilli, ANNĒ and Bergen and 2 more. See dates, start times and who's playing. Vogelsanger Straße 406, 50827 Köln.
 
@@ -9,7 +9,7 @@ Schrotty is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | 5 YEARS EhrenKlub ANDEREX, GO$PEL, KNTRLVRLST, LIEKS, MR. POLSKA, SCHLASS, VORTEK´S & ZENTRYC  | KNTRLVRLST, LIEKS, SITTENLOS |
-| Wed, 11 Nov 2026 | KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, Felix Kröcher, Justin Tinderdate, Elotrance | Bergen, DJ Hyperdrive, DLV, Elotrance, FENIM0RE, Felix Kröcher, Justin Tinderdate, SATYS FYRE, SERA (2), Schuhmacher (3), Tschatsching, Vagabund, ÜBERKIKZ |
+| Wed, 11 Nov 2026 | KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, Felix Kröcher, Justin Tinderdate, Elotrance | Bergen, DJ Hyperdrive, DLV, Elotrance, FENIM0RE, Felix Kröcher, Justin Tinderdate, Luca Hemmers, SATYS FYRE, SERA (2), Schuhmacher (3), Tschatsching, Vagabund, ÜBERKIKZ |
 | Fri, 13 Nov 2026 | Swimming Paul @ Schrotty Köln | Swimming Paul |
 | Sat, 14 Nov 2026 | Alfred Heinrichs & ONY by ARTOFURBANLIFE | Alfred Heinrichs |
 | Fri, 20 Nov 2026 | ANTEA with Anne, Grace Dahl, Lacchesi, Norbak, JKS, Flavius, Leon Kofi, Nils Primas, FLACCO | ANNĒ, Amilli, FLACCO, Flavius, Grace Dahl, JKS, Lacchesi, Nils Primas, Shrff |
@@ -22,4 +22,4 @@ Schrotty is a music venue in Cologne listed on soundcheck. 9 upcoming gigs, with
 
 Vogelsanger Straße 406, 50827 Köln, Cologne
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/schrotty/)*

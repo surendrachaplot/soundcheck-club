@@ -1,0 +1,11 @@
+# Disco & Funky House at TBA - VELVET Lounge
+
+Disco & Funky House at TBA - VELVET Lounge on Tue 10 Nov, Tokyo. Disco and Funk / Soul. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Tue, 10 Nov 2026 |
+| Venue | TBA - VELVET Lounge |
+| City | Tokyo |
+
+*Source: [soundcheck](https://soundcheck.club/e/2578239-disco-funky-house-at-tba-velvet-lounge/)*

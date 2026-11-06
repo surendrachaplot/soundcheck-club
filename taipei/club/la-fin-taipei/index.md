@@ -1,6 +1,6 @@
 # La Fin Taipei
 
-La Fin Taipei is a music venue in Taipei with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Rabbit Hole" on Fri, 6 Nov 2026.
+La Fin Taipei is a music venue in Taipei with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Rabbit Hole" on Fri, 6 Nov 2026.
 
 La Fin Taipei is a music venue in Taipei listed on soundcheck. 3 upcoming gigs, with line-ups including AK SPORTS, Molly Lin, Richard Durand and VICKY. See dates, start times and who's playing.
 
@@ -12,4 +12,4 @@ La Fin Taipei is a music venue in Taipei listed on soundcheck. 3 upcoming gigs, 
 | Sat, 7 Nov 2026 | 11.07 TEMPLE TAIPEI PRESENTS: AK SPORTS | AK SPORTS, VICKY |
 | Sat, 14 Nov 2026 | Richard Durand | Richard Durand |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/la-fin-taipei/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/la-fin-taipei/)*

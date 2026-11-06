@@ -1,6 +1,6 @@
 # Bagagee Viphex13
 
-Bagagee Viphex13 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ximxim Bar, Seoul on Sat, 7 Nov 2026.
+Bagagee Viphex13 is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ximxim Bar, Seoul on Sat, 7 Nov 2026.
 
 Bagagee Viphex13 is a techno and electro artist based in South Korea, with 52 gigs on soundcheck across Seoul and South Korea. Often billed alongside Honn, Better and Kataploks. Next up: Ximxim Bar, Seoul on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Bagagee Viphex13 is a techno and electro artist based in South Korea, with 52 gi
 
 Honn, Better, Kataploks
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bagagee/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bagagee/)*

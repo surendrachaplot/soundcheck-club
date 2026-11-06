@@ -1,6 +1,6 @@
 # ANiIIIIiiiKii
 
-ANiIIIIiiiKii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Toranoko Shokudo, Tokyo on Sat, 7 Nov 2026.
+ANiIIIIiiiKii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Toranoko Shokudo, Tokyo on Sat, 7 Nov 2026.
 
 ANiIIIIiiiKii is a house and techno artist based in Japan, with 60 gigs on soundcheck across Osaka and Tokyo. Often billed alongside FELINE (JP), EUREKA and Yuto Sasaki. Next up: Toranoko Shokudo, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ANiIIIIiiiKii is a house and techno artist based in Japan, with 60 gigs on sound
 
 FELINE (JP), EUREKA, Yuto Sasaki
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aniiiiiiiikii/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aniiiiiiiikii/)*

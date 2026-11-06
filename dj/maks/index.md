@@ -1,6 +1,6 @@
 # Maks
 
-Maks is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Maks is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Maks is a house and minimal artist based in United Kingdom, with 24 gigs on soundcheck across Bucharest, Dubai, Sofia and Tbilisi and 2 more. Often billed alongside Gescu, BILA and Cap. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -12,6 +12,7 @@ Maks is a house and minimal artist based in United Kingdom, with 24 gigs on soun
 
 ## Recently played
 
+- One Resort, Tunisia · Thu, 5 Nov 2026
 - Platforma Wolff, Bucharest · Sat, 22 Aug 2026
 - Helipad by Frozen Cherry, Dubai · Sat, 17 Jan 2026
 - Gate Two by Iris, Dubai · Fri, 16 Jan 2026
@@ -19,10 +20,9 @@ Maks is a house and minimal artist based in United Kingdom, with 24 gigs on soun
 - Club Guesthouse, Bucharest · Fri, 7 Nov 2025
 - TES, Tbilisi · Sat, 27 Sept 2025
 - TES, Tbilisi · Fri, 26 Sept 2025
-- Moe's on the 5th, Dubai · Fri, 8 Aug 2025
 
 ## Shares bills with
 
 Gescu, BILA, Cap
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maks/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maks/)*

@@ -1,6 +1,6 @@
 # (V)Vilches
 
-(V)Vilches is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at El Internacional, Madrid on Sat, 7 Nov 2026.
+(V)Vilches is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at El Internacional, Madrid on Sat, 7 Nov 2026.
 
 (V)Vilches is a house and electro artist based in Colombia, with 9 gigs on soundcheck across Bogotá and Madrid. Often billed alongside Raisa, Liquid Sunshine and AL MANDO. Next up: El Internacional, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@
 
 Raisa, Liquid Sunshine, AL MANDO
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vvilches/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vvilches/)*

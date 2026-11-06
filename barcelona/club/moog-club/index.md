@@ -1,14 +1,13 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 26 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Bambi" on Thu, 5 Nov 2026.
+Moog Club is a music venue in Barcelona with 25 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Rabent" on Fri, 6 Nov 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 26 upcoming gigs, with line-ups including 6tma, BAMBI (BE), carlota. and DJ MEN and 2 more. See dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 25 upcoming gigs, with line-ups including 6tma, BAMBI (BE), carlota. and DJ MEN and 2 more. See dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Bambi | BAMBI (BE) |
 | Fri, 6 Nov 2026 | Rabent | Rabent |
 | Sat, 7 Nov 2026 | Javi gOn | Javi gOn |
 | Sun, 8 Nov 2026 | Marc Silva + Carol Nyx | Marc Silva |
@@ -18,9 +17,10 @@ Moog Club is a music venue in Barcelona listed on soundcheck. 26 upcoming gigs, 
 | Thu, 12 Nov 2026 | Luzzatto | Lzztto |
 | Fri, 13 Nov 2026 | Carlota + Carol Nyx | carlota. |
 | Sat, 14 Nov 2026 | Javi gOn | Javi gOn |
+| Sun, 15 Nov 2026 | Carol Nyx |  |
 
 ## Address
 
 Arc del Teatre, 3; 08001 Barcelona; Spain, Barcelona
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/moog-club/)*

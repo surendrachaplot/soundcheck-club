@@ -1,6 +1,6 @@
 # KEN (DE)
 
-KEN (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
+KEN (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
 
 KEN (DE) is a techno and house artist based in Germany, with 50 gigs on soundcheck across Berlin and Munich. Often billed alongside DJ PayPaul, Tim Hagemann and Tobias Sommer. Next up: KitKatClub, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ KEN (DE) is a techno and house artist based in Germany, with 50 gigs on soundche
 
 DJ PayPaul, Tim Hagemann, Tobias Sommer
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ken-de/)*

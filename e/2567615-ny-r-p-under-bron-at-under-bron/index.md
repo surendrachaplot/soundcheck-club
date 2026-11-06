@@ -1,6 +1,6 @@
 # ★ NYÅR PÅ Under Bron ★ at Under Bron
 
-★ NYÅR PÅ Under Bron ★ on Thu 31 Dec, Stockholm. 3 artists: Julian Artur, Kornél Kovács and Nina Michelle. House. See the line-up on soundcheck.
+★ NYÅR PÅ Under Bron ★ on Thu 31 Dec, Stockholm. 4 artists: DJ HAYDN, Julian Artur, Kornél Kovács and Nina Michelle. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- DJ HAYDN
 - Julian Artur
 - Kornél Kovács
 - Nina Michelle

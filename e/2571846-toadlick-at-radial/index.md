@@ -1,6 +1,6 @@
 # ToadLick at radial
 
-ToadLick at radial on Sat 5 Dec, London. 5 artists: Amy Cutter, Baby Rollén, Georgia Girl and Kenny Blacksmith and 1 more. Electro and Acid. See the line-up on soundcheck.
+ToadLick at radial on Sat 5 Dec, London. 6 artists: Amy Cutter, Baby Rollén, Georgia Girl and just bill. and 2 more. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ ToadLick at radial on Sat 5 Dec, London. 5 artists: Amy Cutter, Baby Rollén, Ge
 - Amy Cutter
 - Baby Rollén
 - Georgia Girl
+- just bill.
 - Kenny Blacksmith
 - Louis Polturak
 

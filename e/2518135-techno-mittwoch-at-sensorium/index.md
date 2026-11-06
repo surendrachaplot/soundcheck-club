@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 2 Dec, Berlin. 2 artists: Fran Lezaun and Michael Marchi. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 2 Dec, Berlin. 9 artists: April the pink, d4ia, Fran Lezaun and Lars Löffler and 5 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,14 @@ TECHNO MITTWOCH at Sensorium on Wed 2 Dec, Berlin. 2 artists: Fran Lezaun and Mi
 
 ## Line-up
 
+- April the pink
+- d4ia
 - Fran Lezaun
+- Lars Löffler
 - Michael Marchi
+- Pablo Cantuarias
+- shakesbiier
+- Thyrse
+- VivaLaDustin
 
 *Source: [soundcheck](https://soundcheck.club/e/2518135-techno-mittwoch-at-sensorium/)*

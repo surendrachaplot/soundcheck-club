@@ -1,6 +1,6 @@
 # 素域 Plain District — Future Finity at Groundless Factory
 
-素域 Plain District — Future Finity at Groundless Factory on Fri 6 Nov, Beijing. 3 artists: A.I., MMS and SLANY. Techno and Experimental. See the line-up on soundcheck.
+素域 Plain District — Future Finity at Groundless Factory on Fri 6 Nov, Beijing. 4 artists: A.I., JANEIN, MMS and SLANY. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - A.I.
+- JANEIN
 - MMS
 - SLANY
 

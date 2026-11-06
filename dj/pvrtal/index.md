@@ -1,6 +1,6 @@
 # Pvrtal
 
-Pvrtal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
+Pvrtal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
 
 Pvrtal is a house and techno artist based in Australia, with 35 gigs on soundcheck across Melbourne. Often billed alongside Anima Omada, Gus McKinna and Braj. Next up: Glamorama, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Pvrtal is a house and techno artist based in Australia, with 35 gigs on soundche
 
 Anima Omada, Gus McKinna, Braj
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvrtal/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pvrtal/)*

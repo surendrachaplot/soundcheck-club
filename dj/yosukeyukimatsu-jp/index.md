@@ -1,8 +1,8 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Savaya Bali, Bali on Fri, 6 Nov 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Savaya Bali, Bali on Fri, 6 Nov 2026.
 
-¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 202 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 68 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Savaya Bali, Bali on Fri 6 Nov.
+¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 203 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 69 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Savaya Bali, Bali on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Savaya Bali | Bali |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
+| Thu, 4 Mar 2027 | Dom im Berg | Austria |
 | Sat, 13 Mar 2027 | 104 CENTQUATRE | Paris |
 | Wed, 24 Mar 2027 | Poolen | Copenhagen |
 
@@ -28,4 +29,4 @@
 
 Blawan, DJ Gigola, Interplanetary Criminal
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yosukeyukimatsu-jp/)*

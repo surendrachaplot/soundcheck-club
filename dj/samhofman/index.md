@@ -1,6 +1,6 @@
 # Sam Hofman
 
-Sam Hofman is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Nobel, Netherlands on Sat, 7 Nov 2026.
+Sam Hofman is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Nobel, Netherlands on Sat, 7 Nov 2026.
 
 Sam Hofman is a house and trance artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Barcelona, Netherlands and Rotterdam and 2 more. Often billed alongside Benny Rodrigues, AUTOFLOWER and Cynthia Spiering. Next up: Nobel, Netherlands on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Sam Hofman is a house and trance artist based in Netherlands, with 10 gigs on so
 
 Benny Rodrigues, AUTOFLOWER, Cynthia Spiering
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samhofman/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samhofman/)*

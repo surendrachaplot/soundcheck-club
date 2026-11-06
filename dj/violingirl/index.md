@@ -1,6 +1,6 @@
 # Violin Girl
 
-Violin Girl is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Caveau Boston, Boston on Fri, 26 Mar 2027.
+Violin Girl is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Caveau Boston, Boston on Fri, 26 Mar 2027.
 
 Violin Girl is a house and tech house artist based in United States of America, with 14 gigs on soundcheck across Boston, Chicago, Dallas/Fort Worth and New York City and 1 more. Often billed alongside Kice. Next up: Caveau Boston, Boston on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Violin Girl is a house and tech house artist based in United States of America, 
 
 Kice
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violingirl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violingirl/)*

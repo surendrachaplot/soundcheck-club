@@ -1,6 +1,6 @@
 # Slater (UK)
 
-Slater (UK) is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Flinders, Sydney on Fri, 18 Dec 2026.
+Slater (UK) is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Flinders, Sydney on Fri, 18 Dec 2026.
 
 Slater (UK) is a techno and pop artist based in United Kingdom, with 13 gigs on soundcheck across Leeds, London and Sydney. Often billed alongside Jä Milk, I-SO and MarVes. Next up: The Flinders, Sydney on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Slater (UK) is a techno and pop artist based in United Kingdom, with 13 gigs on 
 
 Jä Milk, I-SO, MarVes
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slater-uk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slater-uk/)*

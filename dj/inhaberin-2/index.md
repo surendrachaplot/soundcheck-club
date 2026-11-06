@@ -1,6 +1,6 @@
 # Inhaberin (2)
 
-Inhaberin (2) is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mastak, Warsaw on Sat, 7 Nov 2026.
+Inhaberin (2) is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mastak, Warsaw on Sat, 7 Nov 2026.
 
 Inhaberin is a techno and electronica artist based in Belarus, with 26 gigs on soundcheck across Warsaw. Often billed alongside Halo Y, Salat and koktelbel. Next up: Mastak, Warsaw on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Inhaberin is a techno and electronica artist based in Belarus, with 26 gigs on s
 
 Halo Y, Salat, koktelbel
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inhaberin-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inhaberin-2/)*

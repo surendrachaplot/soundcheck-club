@@ -1,6 +1,6 @@
 # GNEIXX
 
-GNEIXX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at M7 Club, Barcelona on Sat, 7 Nov 2026.
+GNEIXX is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at M7 Club, Barcelona on Sat, 7 Nov 2026.
 
 GNEIXX is a techno and trance artist based in Poland, with 13 gigs on soundcheck across Barcelona, Berlin, Poznan and Wroclaw. Often billed alongside Adviro, BOBAIO and Wix Collina. Next up: M7 Club, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ GNEIXX is a techno and trance artist based in Poland, with 13 gigs on soundcheck
 
 Adviro, BOBAIO, Wix Collina
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gneixx/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gneixx/)*

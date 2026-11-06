@@ -1,6 +1,6 @@
 # On-Off
 
-On-Off is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at XOYO, London on Wed, 18 Nov 2026.
+On-Off is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at XOYO, London on Wed, 18 Nov 2026.
 
 On-Off is a tech house and minimal artist based in United Kingdom, with 35 gigs on soundcheck across London. Often billed alongside Andrea Rossi, Ughe and Ciprian. Next up: XOYO, London on Wed 18 Nov.
 
@@ -25,4 +25,4 @@ On-Off is a tech house and minimal artist based in United Kingdom, with 35 gigs 
 
 Andrea Rossi, Ughe, Ciprian
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/on-off/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/on-off/)*

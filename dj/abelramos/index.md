@@ -1,6 +1,6 @@
 # Abel Ramos
 
-Abel Ramos is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+Abel Ramos is a Tech House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
 
 Abel Ramos is a tech house and minimal techno artist based in Spain, with 12 gigs on soundcheck across Amsterdam, Barcelona and Madrid. Often billed alongside Cristian Varela, Dj Pepo and Brenda Serna. Next up: Fabrik, Madrid on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Abel Ramos is a tech house and minimal techno artist based in Spain, with 12 gig
 
 Cristian Varela, Dj Pepo, Brenda Serna (2)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abelramos/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abelramos/)*

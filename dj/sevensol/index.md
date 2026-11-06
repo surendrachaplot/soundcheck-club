@@ -1,8 +1,8 @@
 # Sevensol
 
-Sevensol is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
+Sevensol is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Berlin Neukölln , Berlin on Fri, 6 Nov 2026.
 
-Sevensol is a house and techno artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 6 more. Often billed alongside Map.ache, Ori Raz and Victor (DE). Next up: TBA - Berlin Neukölln , Berlin on Fri 6 Nov.
+Sevensol is a house and techno artist based in Germany, with 65 gigs on soundcheck across Amsterdam, Berlin, Dresden and Frankfurt and 6 more. Often billed alongside Map.ache, Ori Raz and Victor (DE). Next up: TBA - Berlin Neukölln , Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sevensol is a house and techno artist based in Germany, with 64 gigs on soundche
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - Berlin Neukölln  | Berlin |
 | Sat, 7 Nov 2026 | ZIRKA | Munich |
+| Sat, 14 Nov 2026 | Printhouse | Munich |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sevensol is a house and techno artist based in Germany, with 64 gigs on soundche
 
 Map.ache, Ori Raz, Victor (DE)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevensol/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevensol/)*

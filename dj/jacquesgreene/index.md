@@ -1,6 +1,6 @@
 # Jacques Greene
 
-Jacques Greene is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
+Jacques Greene is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Jacques Greene is a house and techno artist based in Canada, with 115 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 39 more. Often billed alongside Nosaj Thing, Jubilee and Coffintexts. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Jacques Greene is a house and techno artist based in Canada, with 115 gigs on so
 
 Nosaj Thing, Jubilee, Coffintexts
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquesgreene/)*

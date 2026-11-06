@@ -1,6 +1,6 @@
 # Schacke
 
-Schacke is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 7 Nov 2026.
+Schacke is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 7 Nov 2026.
 
 Schacke is a techno and trance artist based in Denmark, with 220 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 64 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Den Anden Side, Copenhagen on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Schacke is a techno and trance artist based in Denmark, with 220 gigs on soundch
 
 Peachlyfe, Vixen, Mohajer
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schacke/)*

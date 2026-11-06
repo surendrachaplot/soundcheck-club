@@ -1,14 +1,15 @@
 # Eversines
 
-Eversines is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at radial, London on Fri, 6 Nov 2026.
+Eversines is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at radial, London on Fri, 6 Nov 2026.
 
-Eversines is a techno and house artist based in Netherlands, with 102 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Marie K, Pieter Jansen and RDS. Next up: radial, London on Fri 6 Nov.
+Eversines is a techno and house artist based in Netherlands, with 103 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 22 more. Often billed alongside Marie K, Pieter Jansen and RDS. Next up: radial, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | radial | London |
+| Fri, 1 Jan 2027 | RADION | Amsterdam |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Eversines is a techno and house artist based in Netherlands, with 102 gigs on so
 
 Marie K (1), Pieter Jansen, RDS
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eversines/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eversines/)*

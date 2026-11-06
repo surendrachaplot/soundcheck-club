@@ -1,6 +1,6 @@
 # yori
 
-yori is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
+yori is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
 
 yori is a techno and ambient artist, with 9 gigs on soundcheck across Berlin, Osaka and Tokyo. Often billed alongside Loe (JP), AOKI takamasa and Endurance. Next up: Club Daphnia, Osaka on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ yori is a techno and ambient artist, with 9 gigs on soundcheck across Berlin, Os
 
 Loe (JP), AOKI takamasa, Endurance
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yori-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yori-de/)*

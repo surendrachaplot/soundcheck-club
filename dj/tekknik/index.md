@@ -1,6 +1,6 @@
 # Tekknik
 
-Tekknik is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at M-BIA, Berlin on Fri, 6 Nov 2026.
+Tekknik is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at M-BIA, Berlin on Fri, 6 Nov 2026.
 
 Tekknik is a techno and hardcore artist based in Poland, with 41 gigs on soundcheck across Berlin, Gdansk, Krakow and Poznan and 2 more. Often billed alongside somnifobia, PUZZ and Furie. Next up: M-BIA, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tekknik is a techno and hardcore artist based in Poland, with 41 gigs on soundch
 
 somnifobia, PUZZ, Furie
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tekknik/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tekknik/)*

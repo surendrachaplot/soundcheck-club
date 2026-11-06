@@ -1,8 +1,8 @@
 # Kr!z
 
-Kr!z is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fuse, Brussels on Sat, 12 Dec 2026.
+Kr!z is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuse, Brussels on Sat, 12 Dec 2026.
 
-Kr!z is a techno and acid artist based in Belgium, with 118 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: Fuse, Brussels on Sat 12 Dec.
+Kr!z is a techno and acid artist based in Belgium, with 119 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 36 more. Often billed alongside Phara, Border One and Marie-Julie. Next up: Fuse, Brussels on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Kr!z is a techno and acid artist based in Belgium, with 118 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 12 Dec 2026 | Fuse | Brussels |
 | Sat, 26 Dec 2026 | SMUT Athens | Athens |
+| Thu, 31 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Kr!z is a techno and acid artist based in Belgium, with 118 gigs on soundcheck a
 
 Phara, Border One, Marie-Julie
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kr-z/)*

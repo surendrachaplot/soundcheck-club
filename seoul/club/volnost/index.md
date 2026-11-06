@@ -1,14 +1,13 @@
 # Volnost
 
-Volnost is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Thursday Volnost" on Thu, 5 Nov 2026.
+Volnost is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Volnost INVITES 'Andy Garvey'" on Fri, 6 Nov 2026.
 
-Volnost is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-ups including Andy Garvey, ASYNC, Bumho and ccb and 2 more. See dates, start times and who's playing. 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
+Volnost is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including Andy Garvey, ASYNC, Bumho and ccb and 2 more. See dates, start times and who's playing. 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Thursday Volnost | kinnyonline |
 | Fri, 6 Nov 2026 | Volnost INVITES 'Andy Garvey' | Andy Garvey, Siot |
 | Sat, 7 Nov 2026 | Volnost Night | Recy, WEEUN KIM, chukimaandal |
 | Fri, 13 Nov 2026 | Volnost Night | DJ SIN, KYVU, SINAE |
@@ -22,4 +21,4 @@ Volnost is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with li
 
 136-11, Main Street Itaewon, Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/volnost/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/volnost/)*

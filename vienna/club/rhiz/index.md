@@ -1,15 +1,16 @@
 # Rhiz
 
-Rhiz is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Cosmic BirthRave" on Sat, 7 Nov 2026.
+Rhiz is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Cosmic BirthRave" on Sat, 7 Nov 2026.
 
-Rhiz is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including adrialin, anxxxious_t, Enoltra and Gawdesque. See dates, start times and who's playing. U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080.
+Rhiz is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including adrialin, anxxxious_t, Enoltra and Gawdesque. See dates, start times and who's playing. U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Cosmic BirthRave | Enoltra, adrialin |
-| Sun, 15 Nov 2026 | nomenklatur with Dagmar Zuniga (live) |  |
+| Fri, 13 Nov 2026 | Basstrace Soliparty |  |
+| Sun, 15 Nov 2026 | nomenklatur w/ great area & PILLBERT (live) |  |
 | Fri, 20 Nov 2026 | GLITCH 001 |  |
 | Sat, 21 Nov 2026 | POLYCHAOS DUBIUM | Gawdesque, anxxxious_t |
 
@@ -17,4 +18,4 @@ Rhiz is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line
 
 U-Bahnbogen 37-38 / Lerchenfeldergürtel, Vienna, Austria, 1080, Vienna
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/rhiz/)*

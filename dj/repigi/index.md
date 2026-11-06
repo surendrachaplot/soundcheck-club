@@ -1,6 +1,6 @@
 # Re Pigi
 
-Re Pigi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Company Club, Milan on Sat, 7 Nov 2026.
+Re Pigi is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Company Club, Milan on Sat, 7 Nov 2026.
 
 Re Pigi is a techno and electronica artist based in Italy, with 52 gigs on soundcheck across Milan. Often billed alongside Hi/Fi, Mark Wark and AllaDerivaLontano. Next up: Company Club, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Re Pigi is a techno and electronica artist based in Italy, with 52 gigs on sound
 
 Hi/Fi, Mark Wark, AllaDerivaLontano
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/repigi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/repigi/)*

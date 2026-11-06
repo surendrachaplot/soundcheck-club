@@ -1,6 +1,6 @@
 # EZ Dee
 
-EZ Dee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Corner, Miami on Sat, 7 Nov 2026.
+EZ Dee is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Corner, Miami on Sat, 7 Nov 2026.
 
 EZ Dee is a house and disco artist based in United States of America, with 21 gigs on soundcheck across Los Angeles, Miami and Tokyo. Often billed alongside DJ Ray, Brother Dan and DJ Fitness. Next up: The Corner, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ EZ Dee is a house and disco artist based in United States of America, with 21 gi
 
 DJ Ray (2), Brother Dan, DJ Fitness
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezdee/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ezdee/)*

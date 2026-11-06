@@ -1,6 +1,6 @@
 # Tech Support
 
-Tech Support is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Roma Convention Center La Nuvola | Rome, Italy, Rome on Wed, 21 Apr 2027.
+Tech Support is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Roma Convention Center La Nuvola | Rome, Italy, Rome on Wed, 21 Apr 2027.
 
 Tech Support is a house and electro artist based in United Kingdom, with 22 gigs on soundcheck across Belfast, Berlin, Brighton and Dublin and 4 more. Often billed alongside Meg Paine, Zaltsman and Asa Tate. Next up: The Roma Convention Center La Nuvola | Rome, Italy, Rome on Wed 21 Apr.
 
@@ -25,4 +25,4 @@ Tech Support is a house and electro artist based in United Kingdom, with 22 gigs
 
 Meg Paine, Zaltsman, Asa Tate
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/techsupport/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/techsupport/)*

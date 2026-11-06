@@ -1,6 +1,6 @@
 # BURY2K
 
-BURY2K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Goldener Reiter, Munich on Fri, 6 Nov 2026.
+BURY2K is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Goldener Reiter, Munich on Fri, 6 Nov 2026.
 
 BURY2K is a techno and house artist based in Germany, with 14 gigs on soundcheck across Berlin, Brussels, Dortmund / Essen and Hamburg and 5 more. Often billed alongside DJ MELL G, 1000kJulez and 5euroGoldi. Next up: Goldener Reiter, Munich on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ BURY2K is a techno and house artist based in Germany, with 14 gigs on soundcheck
 
 DJ MELL G, 1000kJulez, 5euroGoldi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bury2k/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bury2k/)*

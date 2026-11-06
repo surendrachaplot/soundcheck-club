@@ -1,6 +1,6 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BRET, Amsterdam on Fri, 20 Nov 2026.
+Julian Anthony is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at BRET, Amsterdam on Fri, 20 Nov 2026.
 
 Julian Anthony is a house and tech house artist based in Netherlands, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 34 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: BRET, Amsterdam on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Julian Anthony is a house and tech house artist based in Netherlands, with 161 g
 
 Laidlaw, Voigtmann, Reeshy
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juliananthonynl/)*

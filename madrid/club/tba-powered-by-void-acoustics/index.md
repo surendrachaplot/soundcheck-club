@@ -1,6 +1,6 @@
 # TBA - Powered by: Void Acoustics
 
-TBA - Powered by: Void Acoustics is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ORGANIC COMMUNITY x DRIPS (Berlin Showcase)" on Fri, 6 Nov 2026.
+TBA - Powered by: Void Acoustics is a music venue in Madrid with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "ORGANIC COMMUNITY x DRIPS (Berlin Showcase)" on Fri, 6 Nov 2026.
 
 TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, with line-ups including Ali-Az, Brody, CEM3340 and Cristal Roto and 2 more. See dates, start times and who's playing.
 
@@ -17,4 +17,4 @@ TBA - Powered by: Void Acoustics is a music venue in Madrid listed on soundcheck
 | Sat, 20 Feb 2027 | Void Control x Sinergia | Brody (2), M. Freelance, NODRESSCODE, enjundia94 |
 | Sat, 8 May 2027 | Void Control VI: a chant of many voices  | Brody (2), M. Freelance, scaruncho |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-powered-by-void-acoustics/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/tba-powered-by-void-acoustics/)*

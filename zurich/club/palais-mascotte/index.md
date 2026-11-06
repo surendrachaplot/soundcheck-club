@@ -1,6 +1,6 @@
 # Palais Mascotte
 
-Palais Mascotte is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Spanks (ALL NIGHT LONG)" on Fri, 6 Nov 2026.
+Palais Mascotte is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Spanks (ALL NIGHT LONG)" on Fri, 6 Nov 2026.
 
 Palais Mascotte is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including Barbara Boeing, David Kawka, Dee Jota and FIMIANI and 2 more. See dates, start times and who's playing. Theaterstrasse 10, 8001 Zürich.
 
@@ -18,4 +18,4 @@ Palais Mascotte is a music venue in Zurich listed on soundcheck. 5 upcoming gigs
 
 Theaterstrasse 10, 8001 Zürich, Zurich
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/palais-mascotte/)*

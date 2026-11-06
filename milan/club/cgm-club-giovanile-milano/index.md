@@ -1,6 +1,6 @@
 # CGM - Club Giovanile Milano
 
-CGM - Club Giovanile Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "CGM presenta: Test Drive" on Fri, 6 Nov 2026.
+CGM - Club Giovanile Milano is a music venue in Milan with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "CGM presenta: Test Drive" on Fri, 6 Nov 2026.
 
 CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 4 upcoming gigs, with line-ups including Ferrari and frieda (IT). See dates, start times and who's playing. Via Antonio Raimondi, 15, 20156 Milano MI, Italy.
 
@@ -17,4 +17,4 @@ CGM - Club Giovanile Milano is a music venue in Milan listed on soundcheck. 4 up
 
 Via Antonio Raimondi, 15, 20156 Milano MI, Italy, Milan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/cgm-club-giovanile-milano/)*

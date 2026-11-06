@@ -1,6 +1,6 @@
 # Foro Roma
 
-Foro Roma is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "NUTROWEEN X MONTES" on Sat, 7 Nov 2026.
+Foro Roma is a music venue in Mexico City with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "NUTROWEEN X MONTES" on Sat, 7 Nov 2026.
 
 Foro Roma is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs, with line-ups including Andrreas and TRIVEAT. See dates, start times and who's playing. Coahuila 92, Col. Roma Sur, CDMX..
 
@@ -15,4 +15,4 @@ Foro Roma is a music venue in Mexico City listed on soundcheck. 2 upcoming gigs,
 
 Coahuila 92, Col. Roma Sur, CDMX., Mexico City
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/foro-roma/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/foro-roma/)*

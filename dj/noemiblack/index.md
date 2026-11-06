@@ -1,6 +1,6 @@
 # Noemi Black
 
-Noemi Black is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Centrum Wystawienniczo Kongresowe, Poland on Sat, 5 Dec 2026.
+Noemi Black is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Centrum Wystawienniczo Kongresowe, Poland on Sat, 5 Dec 2026.
 
 Noemi Black is a techno and industrial artist, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside AMBAM, Masstive and A.N.I.. Next up: Centrum Wystawienniczo Kongresowe, Poland on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Noemi Black is a techno and industrial artist, with 26 gigs on soundcheck across
 
 AMBAM, Masstive, A.N.I.
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noemiblack/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noemiblack/)*

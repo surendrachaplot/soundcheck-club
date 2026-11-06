@@ -1,6 +1,6 @@
 # Elona Prime
 
-Elona Prime is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
+Elona Prime is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Chateau Ephémère, Paris on Sat, 12 Dec 2026.
 
 Elona Prime is a techno and house artist based in France, with 13 gigs on soundcheck across Paris. Often billed alongside Gabbor, A-440 and Aasi. Next up: Chateau Ephémère, Paris on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Elona Prime is a techno and house artist based in France, with 13 gigs on soundc
 
 Gabbor, A-440, Aasi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elonaprime/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elonaprime/)*

@@ -1,6 +1,6 @@
 # Nick Klein
 
-Nick Klein is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Panke, Berlin on Fri, 4 Dec 2026.
+Nick Klein is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Panke, Berlin on Fri, 4 Dec 2026.
 
 Nick Klein is an experimental and noise artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Athens, Berlin and Brisbane and 7 more. Often billed alongside Nic Krog, Eleftheria and TAKAKO. Next up: Panke, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nick Klein is an experimental and noise artist based in United States of America
 
 Nic Krog, Eleftheria, TAKAKO
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickklein/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickklein/)*

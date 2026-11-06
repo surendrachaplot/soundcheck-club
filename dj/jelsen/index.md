@@ -1,6 +1,6 @@
 # Jelsen
 
-Jelsen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at fabric, London on Thu, 31 Dec 2026.
+Jelsen is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at fabric, London on Thu, 31 Dec 2026.
 
 Jelsen is a house and tech house artist based in United Kingdom, with 36 gigs on soundcheck across Leeds, Liverpool, London and Manchester. Often billed alongside simmo, MUNNI and Josh Baker. Next up: fabric, London on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jelsen is a house and tech house artist based in United Kingdom, with 36 gigs on
 
 simmo, MUNNI, Josh Baker
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jelsen/)*

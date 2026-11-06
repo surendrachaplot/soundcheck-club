@@ -1,6 +1,6 @@
 # Nak (AU)
 
-Nak (AU) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Nak (AU) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Nak (AU) is a techno and house artist based in Australia, with 53 gigs on soundcheck across Barcelona, London, Melbourne and Sydney and 1 more. Often billed alongside Hannah D, Mabel and Activator (AU). Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Nak (AU) is a techno and house artist based in Australia, with 53 gigs on soundc
 
 Hannah D, Mabel, Activator (AU)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nak-au/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nak-au/)*

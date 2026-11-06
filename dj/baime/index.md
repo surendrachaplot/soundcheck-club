@@ -1,14 +1,15 @@
 # Baime
 
-Baime is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hangaren, Copenhagen on Fri, 13 Nov 2026.
+Baime is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Hangaren, Copenhagen on Fri, 13 Nov 2026.
 
-Baime is a techno and house artist based in Denmark, with 112 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 8 more. Often billed alongside Aja Gulris, SCHAARUP and Radio Marrakech. Next up: Hangaren, Copenhagen on Fri 13 Nov.
+Baime is a techno and house artist based in Denmark, with 113 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 8 more. Often billed alongside Aja Gulris, SCHAARUP and Radio Marrakech. Next up: Hangaren, Copenhagen on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Hangaren | Copenhagen |
+| Fri, 27 Nov 2026 | MODULE | Copenhagen |
 | Sat, 28 Nov 2026 | Fundbureau | Hamburg |
 
 ## Recently played
@@ -26,4 +27,4 @@ Baime is a techno and house artist based in Denmark, with 112 gigs on soundcheck
 
 Aja Gulris, SCHAARUP, Radio Marrakech
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baime/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baime/)*

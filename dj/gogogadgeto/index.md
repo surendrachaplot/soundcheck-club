@@ -1,6 +1,6 @@
 # Gogo Gadgeto
 
-Gogo Gadgeto is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Super7, Lyon on Fri, 6 Nov 2026.
+Gogo Gadgeto is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Super7, Lyon on Fri, 6 Nov 2026.
 
 Gogo Gadgeto is an electro and house artist, with 14 gigs on soundcheck across Lyon, Marseille and Paris. Often billed alongside Lumbago, Furie and Hyas. Next up: Super7, Lyon on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Gogo Gadgeto is an electro and house artist, with 14 gigs on soundcheck across L
 
 Lumbago, Furie, Hyas
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gogogadgeto/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gogogadgeto/)*

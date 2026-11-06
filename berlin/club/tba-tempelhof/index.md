@@ -1,6 +1,6 @@
 # TBA - Tempelhof 
 
-TBA - Tempelhof  is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Burre with … presenting Body Controller" on Sun, 22 Nov 2026.
+TBA - Tempelhof  is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Burre with … presenting Body Controller" on Sun, 22 Nov 2026.
 
 TBA - Tempelhof  is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Tempelhof  is a music venue in Berlin listed on soundcheck. 1 upcoming gig
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Burre with … presenting Body Controller |  |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-tempelhof/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-tempelhof/)*

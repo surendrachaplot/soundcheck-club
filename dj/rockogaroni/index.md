@@ -1,6 +1,6 @@
 # Rocko Garoni
 
-Rocko Garoni is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Rocko Garoni is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
 Rocko Garoni is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin, Brussels, Cologne and Dresden and 5 more. Often billed alongside KLING&KLANG, alemiko and CIKO. Next up: Südpol, Hamburg on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Rocko Garoni is a techno and trance artist based in Germany, with 36 gigs on sou
 
 KLING&KLANG, alemiko, CIKO
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rockogaroni/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rockogaroni/)*

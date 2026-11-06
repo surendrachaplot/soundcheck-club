@@ -1,14 +1,14 @@
 # Dalek
 
-Dalek is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Bucharest on Fri, 8 Jan 2027.
+Dalek is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nether Club, Bucharest on Fri, 8 Jan 2027.
 
-Dalek is a hardcore and gabber artist based in Romania, with 13 gigs on soundcheck across Bucharest. Often billed alongside Meiremax, Project Morpheus and Neotroxian. Next up: TBA, Bucharest on Fri 8 Jan.
+Dalek is a hardcore and gabber artist based in Romania, with 13 gigs on soundcheck across Bucharest. Often billed alongside Meiremax, Project Morpheus and Neotroxian. Next up: Nether Club, Bucharest on Fri 8 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 8 Jan 2027 | TBA | Bucharest |
+| Fri, 8 Jan 2027 | Nether Club | Bucharest |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Dalek is a hardcore and gabber artist based in Romania, with 13 gigs on soundche
 
 Meiremax, Project Morpheus, Neotroxian
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dalek/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dalek/)*

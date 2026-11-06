@@ -1,6 +1,6 @@
 # arnie
 
-arnie is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Cut, Newcastle on Fri, 6 Nov 2026.
+arnie is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Cut, Newcastle on Fri, 6 Nov 2026.
 
 arnie is a house and minimal techno artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Bristol, Edinburgh and Glasgow and 3 more. Often billed alongside DJ Bz, Doogi and eosap. Next up: The Cut, Newcastle on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ arnie is a house and minimal techno artist based in United Kingdom, with 12 gigs
 
 DJ Bz, Doogi, eosap
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnie/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnie/)*

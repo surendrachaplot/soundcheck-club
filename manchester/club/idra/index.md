@@ -1,6 +1,6 @@
 # IDRA
 
-IDRA is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Kaluki presents Hot Creations Manchester" on Sat, 14 Nov 2026.
+IDRA is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Kaluki presents Hot Creations Manchester" on Sat, 14 Nov 2026.
 
 IDRA is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Archie Hamilton, Denis Sulta, Dennis Quin and Joey London and 2 more. See dates, start times and who's playing. 53 Store Street, Manchester, M1 2WD.
 
@@ -14,4 +14,4 @@ IDRA is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with l
 
 53 Store Street, Manchester, M1 2WD, Manchester
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/idra/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/idra/)*

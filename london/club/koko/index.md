@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Camden Disco Festival: Mafalda, Daisybelle, Tiffany Quinn, Lilli Kelly" on Fri, 6 Nov 2026.
+KOKO is a music venue in London with 24 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Camden Disco Festival: Mafalda, Daisybelle, Tiffany Quinn, Lilli Kelly" on Fri, 6 Nov 2026.
 
 KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including Agathe Mougin, Alex Wann, AMOUNKA and Andrea Oliva and 2 more. See dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -23,4 +23,4 @@ KOKO is a music venue in London listed on soundcheck. 24 upcoming gigs, with lin
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

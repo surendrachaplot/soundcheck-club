@@ -1,14 +1,13 @@
 # Bozar
 
-Bozar is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Jlin & Third Coast Percussion" on Thu, 5 Nov 2026.
+Bozar is a music venue in Brussels with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Grouper - Marina Herlop" on Fri, 6 Nov 2026.
 
-Bozar is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including Carrier (Aus), Coline Cornélis, Eomac and Grouper and 2 more. See dates, start times and who's playing. Rue Ravensteinstraat 23, 1000 Brussels, Belgium.
+Bozar is a music venue in Brussels listed on soundcheck. 5 upcoming gigs, with line-ups including Carrier (Aus), Coline Cornélis, Eomac and Grouper and 2 more. See dates, start times and who's playing. Rue Ravensteinstraat 23, 1000 Brussels, Belgium.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Jlin & Third Coast Percussion | Jlin |
 | Fri, 6 Nov 2026 | Grouper - Marina Herlop | Grouper, Marina Herlop |
 | Thu, 19 Nov 2026 | Bozar Bassment #2: Saint Abdullah, Eomac & Rebecca Salvadori - NVST & Mika Oki | Eomac, Mika Oki, NVST, Rebecca Salvadori (2) |
 | Thu, 17 Dec 2026 | Bozar Bassment #3: Carrier - 33 | Carrier (Aus) |
@@ -19,4 +18,4 @@ Bozar is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with l
 
 Rue Ravensteinstraat 23, 1000 Brussels, Belgium, Brussels
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bozar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/bozar/)*

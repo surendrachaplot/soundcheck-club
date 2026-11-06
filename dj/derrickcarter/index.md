@@ -1,6 +1,6 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Audio SF, San Francisco/Oakland on Sat, 7 Nov 2026.
+Derrick Carter is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Audio SF, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Derrick Carter is a house and disco artist based in United States of America, with 338 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 32 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: Audio SF, San Francisco/Oakland on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Derrick Carter is a house and disco artist based in United States of America, wi
 
 Michael Serafini, Shaun J. Wright, Garrett David
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*

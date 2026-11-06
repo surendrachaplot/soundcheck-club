@@ -1,15 +1,14 @@
 # Tomas Station
 
-Tomas Station is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Gramaphone Records, Chicago on Thu, 5 Nov 2026.
+Tomas Station is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Bogotá on Sat, 28 Nov 2026.
 
-Tomas Station is a house and techno artist based in Colombia, with 229 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 39 more. Often billed alongside O.BEE, Ricardo Villalobos and Jonny Rock. Next up: Gramaphone Records, Chicago on Thu 5 Nov.
+Tomas Station is a house and techno artist based in Colombia, with 229 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 39 more. Often billed alongside O.BEE, Ricardo Villalobos and Jonny Rock. Next up: TBA, Bogotá on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Gramaphone Records | Chicago |
-| Sat, 21 Nov 2026 | TBA - Secret Location | New York City |
+| Sat, 28 Nov 2026 | TBA | Bogotá |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sat, 5 Dec 2026 | H0L0 | New York City |
 | Sat, 12 Dec 2026 | fabric | London |
@@ -17,6 +16,7 @@ Tomas Station is a house and techno artist based in Colombia, with 229 gigs on s
 
 ## Recently played
 
+- Gramaphone Records, Chicago · Thu, 5 Nov 2026
 - Gramaphone Records, Chicago · Wed, 4 Nov 2026
 - H0L0, New York City · Sat, 31 Oct 2026
 - TILLATEC, Amsterdam · Mon, 26 Oct 2026
@@ -24,10 +24,9 @@ Tomas Station is a house and techno artist based in Colombia, with 229 gigs on s
 - TBA, Amsterdam · Sat, 24 Oct 2026
 - fabric, London · Sat, 17 Oct 2026
 - Haus der Visionäre, Berlin · Sat, 26 Sept 2026
-- The Loft, Manchester · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 O.BEE, Ricardo Villalobos, Jonny Rock
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomasstation/)*

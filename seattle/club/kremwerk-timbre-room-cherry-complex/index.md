@@ -1,6 +1,6 @@
 # Kremwerk-Timbre Room-Cherry Complex
 
-Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Conflux presents: Doss & CFCF" on Fri, 6 Nov 2026.
+Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Conflux presents: Doss & CFCF" on Fri, 6 Nov 2026.
 
 Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundcheck. 8 upcoming gigs, with line-ups including ACHAMA, CFCF, Ctrl.mp3 and DJ SWISHA and 2 more. See dates, start times and who's playing. 1809 Minor Ave #10, Seattle, WA 98101 USA.
 
@@ -21,4 +21,4 @@ Kremwerk-Timbre Room-Cherry Complex is a music venue in Seattle listed on soundc
 
 1809 Minor Ave #10, Seattle, WA 98101 USA, Seattle
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/kremwerk-timbre-room-cherry-complex/)*

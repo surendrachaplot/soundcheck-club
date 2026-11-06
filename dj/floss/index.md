@@ -1,6 +1,6 @@
 # FLOSS
 
-FLOSS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sameheads, Berlin on Fri, 6 Nov 2026.
+FLOSS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sameheads, Berlin on Fri, 6 Nov 2026.
 
 FLOSS is a techno and house artist based in Germany, with 4 gigs on soundcheck across Berlin and Dresden. Often billed alongside BOOTHBUNNY, DJ ANMELDUNG and Dj handbag. Next up: Sameheads, Berlin on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ FLOSS is a techno and house artist based in Germany, with 4 gigs on soundcheck a
 
 BOOTHBUNNY, DJ ANMELDUNG, Dj handbag
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floss/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/floss/)*

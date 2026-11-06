@@ -1,6 +1,6 @@
 # Rafael Cerato
 
-Rafael Cerato is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Common/UNDRGRND, Calgary on Sat, 7 Nov 2026.
+Rafael Cerato is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Common/UNDRGRND, Calgary on Sat, 7 Nov 2026.
 
 Rafael Cerato is a house and techno artist based in United Kingdom, with 82 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 43 more. Often billed alongside Einmusik, VALOUR and Ashkan Dian. Next up: Common/UNDRGRND, Calgary on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Rafael Cerato is a house and techno artist based in United Kingdom, with 82 gigs
 
 Einmusik, VALOUR, Ashkan Dian
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rafaelcerato/)*

@@ -1,6 +1,6 @@
 # R&R by SHERELLE - The Carpet Shop at The Carpet Shop
 
-R&R by SHERELLE - The Carpet Shop on Thu 12 Nov, London. 1 artist: SHERELLE. See the line-up on soundcheck.
+R&R by SHERELLE - The Carpet Shop on Thu 12 Nov, London. 2 artists: Lil C and SHERELLE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ R&R by SHERELLE - The Carpet Shop on Thu 12 Nov, London. 1 artist: SHERELLE. See
 
 ## Line-up
 
+- Lil C
 - SHERELLE
 
 *Source: [soundcheck](https://soundcheck.club/e/2538878-r-r-by-sherelle-the-carpet-shop-at-the-carpet-shop/)*

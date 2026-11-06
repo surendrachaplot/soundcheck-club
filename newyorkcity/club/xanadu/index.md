@@ -1,14 +1,13 @@
 # Xanadu
 
-Xanadu is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Dirty Magazine's Lingerie Skate (skate all night)" on Thu, 5 Nov 2026.
+Xanadu is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Jay Dimes - Dime in Da Rough Show (concert)" on Fri, 6 Nov 2026.
 
-Xanadu is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Conduit, Amelia Holt, Bouffant Bouffant and DADA COZMIC and 2 more. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
+Xanadu is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Conduit, Amelia Holt, Bouffant Bouffant and Second Contact and 2 more. See dates, start times and who's playing. 262 Starr St, Brooklyn, NY 11237.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Dirty Magazine's Lingerie Skate (skate all night) | DADA COZMIC, Quetamine |
 | Fri, 6 Nov 2026 | Jay Dimes - Dime in Da Rough Show (concert) |  |
 | Fri, 6 Nov 2026 | Adult Skate Night feat. DJ Suave (skate) |  |
 | Sun, 8 Nov 2026 | Honey Trap Roller Discoteque feat. Amelia Holt, Bouffant Bouffant, Conduit & Second Contact | Amelia Holt, Bouffant Bouffant, Conduit, Second Contact |
@@ -19,4 +18,4 @@ Xanadu is a music venue in New York City listed on soundcheck. 6 upcoming gigs, 
 
 262 Starr St, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/xanadu/)*

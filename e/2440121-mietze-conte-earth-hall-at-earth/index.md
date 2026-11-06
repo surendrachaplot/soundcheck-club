@@ -1,6 +1,6 @@
 # Mietze Conte - EartH Hall at EartH
 
-Mietze Conte - EartH Hall on Sat 21 Nov, London. 1 artist: Mietze Conte. See the line-up on soundcheck.
+Mietze Conte - EartH Hall on Sat 21 Nov, London. 2 artists: Kid on Air and Mietze Conte. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Mietze Conte - EartH Hall on Sat 21 Nov, London. 1 artist: Mietze Conte. See the
 
 ## Line-up
 
+- Kid on Air
 - Mietze Conte
 
 *Source: [soundcheck](https://soundcheck.club/e/2440121-mietze-conte-earth-hall-at-earth/)*

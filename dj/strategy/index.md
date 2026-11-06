@@ -1,8 +1,8 @@
 # Strategy
 
-Strategy is a Drum & Bass and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Strategy is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-Strategy is a drum & bass and bass artist based in United States of America, with 53 gigs on soundcheck across Auckland, Bristol, Chicago and Christchurch and 12 more. Often billed alongside Chimpo, Rich Reason and Cesco. Next up: DRUMSHEDS, London on Sat 7 Nov.
+Strategy is a drum & bass and bass artist based in United States of America, with 54 gigs on soundcheck across Auckland, Bristol, Chicago and Christchurch and 12 more. Often billed alongside Chimpo, Rich Reason and Cesco. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Strategy is a drum & bass and bass artist based in United States of America, wit
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Fri, 13 Nov 2026 | The Vault Perth | Perth |
 | Sat, 21 Nov 2026 | The Button Factory | Auckland |
+| Tue, 29 Dec 2026 | Dahlia Stereo | Manchester |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Strategy is a drum & bass and bass artist based in United States of America, wit
 
 Chimpo, Rich Reason, Cesco
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strategy/)*

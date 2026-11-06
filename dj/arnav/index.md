@@ -1,6 +1,6 @@
 # Arnav
 
-Arnav is a Club and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at THF Radio / Torhaus, Berlin on Sat, 7 Nov 2026.
+Arnav is a Club and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at THF Radio / Torhaus, Berlin on Sat, 7 Nov 2026.
 
 Arnav is a club and garage artist based in United States of America, with 19 gigs on soundcheck across Bangkok, Berlin, London and Mexico City and 2 more. Often billed alongside Abibi, Chaitu and Immy. Next up: THF Radio / Torhaus, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Arnav is a club and garage artist based in United States of America, with 19 gig
 
 Abibi, Chaitu, Immy
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnav/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arnav/)*

@@ -1,6 +1,6 @@
 # Euan Fryer
 
-Euan Fryer is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 7 Nov 2026.
+Euan Fryer is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sat, 7 Nov 2026.
 
 Euan Fryer is a disco and funk / soul artist, with 29 gigs on soundcheck across Edinburgh, Glasgow, Ibiza and London and 1 more. Often billed alongside Lel Palfrey, Athens of the North and Adam Pits. Next up: Sneaky Pete's, Edinburgh on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Euan Fryer is a disco and funk / soul artist, with 29 gigs on soundcheck across 
 
 Lel Palfrey, Athens of the North, Adam Pits
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/euanfryer/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/euanfryer/)*

@@ -1,6 +1,6 @@
 # Thomas Ankersmit
 
-Thomas Ankersmit is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Paul-Gerhardt-Kirche, Berlin on Sun, 24 Jan 2027.
+Thomas Ankersmit is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Paul-Gerhardt-Kirche, Berlin on Sun, 24 Jan 2027.
 
 Thomas Ankersmit is an experimental and electro artist based in Germany, with 17 gigs on soundcheck across Basel, Berlin, Glasgow and Hamburg and 7 more. Often billed alongside Deena Abdelwahed, Actress and Batu. Next up: Paul-Gerhardt-Kirche, Berlin on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Thomas Ankersmit is an experimental and electro artist based in Germany, with 17
 
 Deena Abdelwahed, Actress, Batu
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasankersmit/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thomasankersmit/)*

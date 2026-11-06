@@ -1,6 +1,6 @@
 # Maria Antoaneta
 
-Maria Antoaneta is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 28 Nov 2026.
+Maria Antoaneta is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Platforma Wolff, Bucharest on Sat, 28 Nov 2026.
 
 Maria Antoaneta is a techno and electronica artist, with 13 gigs on soundcheck across Bucharest and Budapest. Often billed alongside An-i, Bog and Bogman. Next up: Platforma Wolff, Bucharest on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Maria Antoaneta is a techno and electronica artist, with 13 gigs on soundcheck a
 
 An-i, Bog (3), Bogman
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariaantoaneta/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariaantoaneta/)*

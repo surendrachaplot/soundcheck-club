@@ -1,6 +1,6 @@
 # assu
 
-assu is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Audioteca, Naples on Sat, 7 Nov 2026.
+assu is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Audioteca, Naples on Sat, 7 Nov 2026.
 
 assu is a house and disco artist based in Italy, with 17 gigs on soundcheck across Milan and Naples. Often billed alongside Fabrizio Fattore, Aldo Rosati and Alfonso Mauro. Next up: Audioteca, Naples on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ assu is a house and disco artist based in Italy, with 17 gigs on soundcheck acro
 
 Fabrizio Fattore, Aldo Rosati, Alfonso Mauro
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/assu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/assu/)*

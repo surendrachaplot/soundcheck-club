@@ -1,6 +1,6 @@
 # Nev Jio
 
-Nev Jio is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 6 Nov 2026.
+Nev Jio is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Hang Dai Chinese, Dublin on Fri, 6 Nov 2026.
 
 Nev Jio is a house and bass artist based in Ireland, with 36 gigs on soundcheck across Cork, Dublin, Lisbon and London and 2 more. Often billed alongside EMA, Lesko and Mercorn. Next up: Hang Dai Chinese, Dublin on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nev Jio is a house and bass artist based in Ireland, with 36 gigs on soundcheck 
 
 EMA (1), Lesko, Mercorn
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevjio/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevjio/)*

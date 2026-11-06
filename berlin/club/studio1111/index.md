@@ -1,6 +1,6 @@
 # Studio1111
 
-Studio1111 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Toy Tonics Art Jam" on Fri, 6 Nov 2026.
+Studio1111 is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Toy Tonics Art Jam" on Fri, 6 Nov 2026.
 
 Studio1111 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Arpy Brown, Kapote, Lars Eidinger and ØTTA and 2 more. See dates, start times and who's playing. Potsdamer Str. 96, 10785 Berlin.
 
@@ -16,4 +16,4 @@ Studio1111 is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, wit
 
 Potsdamer Str. 96, 10785 Berlin, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studio1111/)*

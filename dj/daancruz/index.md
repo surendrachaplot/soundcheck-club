@@ -1,6 +1,6 @@
 # Daan Cruz
 
-Daan Cruz is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Ardiente Rooftop Metepec, Estado-de-m-xico on Sat, 5 Dec 2026.
+Daan Cruz is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Ardiente Rooftop Metepec, Estado-de-m-xico on Sat, 5 Dec 2026.
 
 Daan Cruz is an electronic artist, with 3 gigs on soundcheck across Estado De M Xico and Mexico City. Often billed alongside Cabe, Octoptic and Ramiel II. Next up: TBA - Ardiente Rooftop Metepec, Estado De M Xico on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Daan Cruz is an electronic artist, with 3 gigs on soundcheck across Estado De M 
 
 Cabe, Octoptic, Ramiel II
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daancruz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daancruz/)*

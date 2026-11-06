@@ -1,6 +1,6 @@
 # FUMiC
 
-FUMiC is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Move, Kansai on Tue, 17 Nov 2026.
+FUMiC is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Move, Kansai on Tue, 17 Nov 2026.
 
 FUMiC is a house and disco artist based in Japan, with 18 gigs on soundcheck across Kansai and Osaka. Often billed alongside coolsurf, h1rune and CRAZYHYUGA. Next up: Club Move, Kansai on Tue 17 Nov.
 
@@ -26,4 +26,4 @@ FUMiC is a house and disco artist based in Japan, with 18 gigs on soundcheck acr
 
 coolsurf, h1rune, CRAZYHYUGA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumic/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumic/)*

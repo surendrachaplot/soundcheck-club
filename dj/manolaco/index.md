@@ -1,13 +1,14 @@
 # Manolaco
 
-Manolaco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Nude Bucharest, Bucharest on Sat, 14 Nov 2026.
+Manolaco is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Flying Horses, Athens on Sun, 8 Nov 2026.
 
-Manolaco is a house and tech house artist, with 82 gigs on soundcheck across Athens, Bucharest, London and Milan and 2 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Nude Bucharest, Bucharest on Sat 14 Nov.
+Manolaco is a house and tech house artist, with 83 gigs on soundcheck across Athens, Bucharest, London and Milan and 2 more. Often billed alongside Mikee (Athens), Ilario Alicante and Viton. Next up: Flying Horses, Athens on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 8 Nov 2026 | Flying Horses | Athens |
 | Sat, 14 Nov 2026 | Nude Bucharest | Bucharest |
 
 ## Recently played
@@ -25,4 +26,4 @@ Manolaco is a house and tech house artist, with 82 gigs on soundcheck across Ath
 
 Mikee (Athens), Ilario Alicante, Viton
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manolaco/)*

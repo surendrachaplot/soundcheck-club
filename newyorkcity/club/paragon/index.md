@@ -1,6 +1,6 @@
 # Paragon
 
-Paragon is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Yaeji's dance dance revolution: Yaeji, DJ SWISHA, OSSX + Lil C, DJ Noir" on Fri, 6 Nov 2026.
+Paragon is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Yaeji's dance dance revolution: Yaeji, DJ SWISHA, OSSX + Lil C, DJ Noir" on Fri, 6 Nov 2026.
 
 Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 1morning, 550am, Adelaide and AK (US) and 2 more. See dates, start times and who's playing. 990 Broadway Brooklyn, NY.
 
@@ -9,7 +9,7 @@ Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Yaeji's dance dance revolution: Yaeji, DJ SWISHA, OSSX + Lil C, DJ Noir | DJ Noir, DJ SWISHA, Lil C, OSSX, Yaeji |
-| Sat, 7 Nov 2026 | Maricón & HARD: GIOFROMDABLOCK(Live), Coyado, JOSELO, Tub.e, friedplatano, iCKY!, Pauli Cakes | Coyado, JOSELO, Pauli Cakes, Tube (2), Zander Zel, friedplatano, iCKY |
+| Sat, 7 Nov 2026 | Maricón & HARD: GIOFROMDABLOCK(Live), Coyado, JOSELO, Tub.e, friedplatano, iCKY!, Pauli Cakes | Coyado, ICKY!, JOSELO, Pauli Cakes, Tube (2), Zander Zel, friedplatano |
 | Thu, 12 Nov 2026 | Doss & Friends | Doss |
 | Fri, 13 Nov 2026 | Club Stars: Byrell The Great, Leonce, Daniro, FLWRSHRK, Madam 007 + Euwhoria | Byrell The Great, Cyb3r Bull, Daniro, FLWRSHRK, Leonce, Madame 007, THUUMPRR, Xana 101, cotton |
 | Sat, 14 Nov 2026 | Pressure: Matrixxman, Joanna Kuchta, Marco Neves + Skin2Skin | BRATATTACK, DJ Freedem, Joanna Kuchta, Marco Neves, Matrixxman, flotussin |
@@ -23,4 +23,4 @@ Paragon is a music venue in New York City listed on soundcheck. 15 upcoming gigs
 
 990 Broadway Brooklyn, NY, New York City
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/paragon/)*

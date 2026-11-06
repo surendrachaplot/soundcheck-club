@@ -1,13 +1,14 @@
 # Harriet Jaxxon
 
-Harriet Jaxxon is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
+Harriet Jaxxon is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Warehouse, Leeds on Fri, 4 Dec 2026.
 
-Harriet Jaxxon is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Auckland, Austria, Baltimore and Berlin and 27 more. Often billed alongside Mozey, Inja and Voltage. Next up: TBA - Mayrhofen, Austria, Austria on Mon 5 Apr.
+Harriet Jaxxon is a drum & bass and jungle artist based in United Kingdom, with 69 gigs on soundcheck across Auckland, Austria, Baltimore and Berlin and 27 more. Often billed alongside Mozey, Inja and Voltage. Next up: The Warehouse, Leeds on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | The Warehouse | Leeds |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 | Sat, 29 May 2027 | Ashton Court Estate | Bristol |
@@ -27,4 +28,4 @@ Harriet Jaxxon is a drum & bass and jungle artist based in United Kingdom, with 
 
 Mozey, Inja, Voltage
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harrietjaxxon/)*

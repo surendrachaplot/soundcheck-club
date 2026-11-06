@@ -1,6 +1,6 @@
 # Bijei
 
-Bijei is a Hip-Hop and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Basic Club, Naples on Fri, 6 Nov 2026.
+Bijei is a Hip-Hop and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Basic Club, Naples on Fri, 6 Nov 2026.
 
 Bijei is a hip-hop and afrobeats artist based in Italy, with 35 gigs on soundcheck across Naples. Next up: Basic Club, Naples on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Bijei is a hip-hop and afrobeats artist based in Italy, with 35 gigs on soundche
 - Audioteca, Naples · Wed, 21 Jan 2026
 - Audioteca, Naples · Wed, 15 Oct 2025
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bijei/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bijei/)*

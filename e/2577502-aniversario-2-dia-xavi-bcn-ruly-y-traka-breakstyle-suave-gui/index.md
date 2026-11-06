@@ -1,6 +1,6 @@
-# ANIVERSARIO 2º Dia [Xavi BCN, Ruly y Traka, BreakStyle, Suave, Guirao & Mëss] at M7 Club
+# ANIVERSARIO (2º Dia) Xavi BCN, Ruly y Traka, BreakStyle, Suave, Guirao & Mëss at M7 Club
 
-ANIVERSARIO 2º Dia [Xavi BCN, Ruly y Traka, BreakStyle, Suave, Guirao & Mëss] at M7 Club on Fri 13 Nov, Barcelona. 2 artists: BreakStyle and Xavi BCN. Electronica. See the line-up on soundcheck.
+ANIVERSARIO (2º Dia) Xavi BCN, Ruly y Traka, BreakStyle, Suave, Guirao & Mëss at M7 Club on Fri 13 Nov, Barcelona. 2 artists: BreakStyle and Xavi BCN. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

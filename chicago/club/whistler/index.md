@@ -1,14 +1,13 @@
 # Whistler
 
-Whistler is a music venue in Chicago with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "New Forms feat. Mano & Leja Hazer" on Thu, 5 Nov 2026.
+Whistler is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Soundtek presents CLUB S**T with Sugo2000" on Fri, 6 Nov 2026.
 
-Whistler is a music venue in Chicago listed on soundcheck. 3 upcoming gigs, with line-ups including Leja Hazer, RTST and tigermilk. See dates, start times and who's playing. 2421 N. Milwaukee Avenue, Chicago, IL  60647.
+Whistler is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including RTST and tigermilk. See dates, start times and who's playing. 2421 N. Milwaukee Avenue, Chicago, IL  60647.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | New Forms feat. Mano & Leja Hazer | Leja Hazer |
 | Fri, 6 Nov 2026 | Soundtek presents CLUB S**T with Sugo2000 |  |
 | Sat, 21 Nov 2026 | genrefluid #3 | RTST, tigermilk |
 
@@ -16,4 +15,4 @@ Whistler is a music venue in Chicago listed on soundcheck. 3 upcoming gigs, with
 
 2421 N. Milwaukee Avenue, Chicago, IL  60647, Chicago
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/whistler/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/whistler/)*

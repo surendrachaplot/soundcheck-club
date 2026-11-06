@@ -1,6 +1,6 @@
 # feedbk: Gio Shengelia at feedbk
 
-feedbk: Gio Shengelia on Sun 15 Nov, New York City. 1 artist: Gio Shengelia. See the line-up on soundcheck.
+feedbk: Gio Shengelia on Sun 15 Nov, New York City. 1 artist: Gio Shengelia. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

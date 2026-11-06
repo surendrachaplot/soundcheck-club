@@ -1,6 +1,6 @@
 # 15 Years of Rhythm Section: Bradley Zero, Jorg Kunning (Live), Scarlett O'Malley + more at Palais
 
-15 Years of Rhythm Section: Bradley Zero, Jorg Kunning (Live), Scarlett O'Malley + more at Palais on Sat 14 Nov, London. 4 artists: Bradley Zero, Jorg Kuning, Scarlett O'Malley and Z Lovecraft. House and Deep House. See the line-up on soundcheck.
+15 Years of Rhythm Section: Bradley Zero, Jorg Kunning (Live), Scarlett O'Malley + more at Palais on Sat 14 Nov, London. 5 artists: Bradley Zero, Jorg Kuning, LINETT KAMALA and Scarlett O'Malley and 1 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@
 
 - Bradley Zero
 - Jorg Kuning
+- LINETT KAMALA
 - Scarlett O'Malley
 - Z Lovecraft
 

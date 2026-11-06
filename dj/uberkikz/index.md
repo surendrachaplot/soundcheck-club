@@ -1,8 +1,8 @@
 # ÜBERKIKZ
 
-ÜBERKIKZ is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
+ÜBERKIKZ is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
 
-ÜBERKIKZ is a techno and house artist based in Russia, with 226 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
+ÜBERKIKZ is a techno and house artist based in Russia, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside future.666, DJ Hyperdrive and Cloudy. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@
 | Fri, 11 Dec 2026 | Gate Milano | Milan |
 | Fri, 11 Dec 2026 | Gate Milano | Milan |
 | Fri, 18 Dec 2026 | Smolna | Warsaw |
-| Wed, 30 Dec 2026 | MUENZE | Berlin |
+| Sun, 20 Dec 2026 | Mia Mao | Paris |
 
 ## Recently played
 
@@ -36,4 +36,4 @@
 
 future.666, DJ Hyperdrive, Cloudy
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uberkikz/)*

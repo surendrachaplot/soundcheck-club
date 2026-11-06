@@ -1,6 +1,6 @@
 # Yūgen - Penumbra - b_man, KushKusshhh and Lilac at TBA - Secret Innerwest Location
 
-Yūgen - Penumbra - b_man, KushKusshhh and Lilac at TBA - Secret Innerwest Location on Sat 7 Nov, Sydney. 1 artist: Kushkusshhh. Techno. See the line-up on soundcheck.
+Yūgen - Penumbra - b_man, KushKusshhh and Lilac at TBA - Secret Innerwest Location on Sat 7 Nov, Sydney. 3 artists: b_man (AU), Kushkusshhh and Lilac. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Yūgen - Penumbra - b_man, KushKusshhh and Lilac at TBA - Secret Innerwest Locat
 
 ## Line-up
 
+- b_man (AU)
 - Kushkusshhh
+- Lilac
 
 *Source: [soundcheck](https://soundcheck.club/e/2552323-y-gen-penumbra-b-man-kushkusshhh-and-lilac-at-tba-secret-inn/)*

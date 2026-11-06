@@ -1,6 +1,6 @@
 # Alex Bohemien
 
-Alex Bohemien is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Duel Club, Naples on Sat, 7 Nov 2026.
+Alex Bohemien is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Duel Club, Naples on Sat, 7 Nov 2026.
 
 Alex Bohemien is a tech house and house artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Broosk, Key Eff and Redical. Next up: Duel Club, Naples on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Alex Bohemien is a tech house and house artist based in Italy, with 60 gigs on s
 
 Broosk, Key Eff, Redical
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbohemien/)*

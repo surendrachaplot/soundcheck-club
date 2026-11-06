@@ -1,8 +1,8 @@
 # Annie Errez
 
-Annie Errez is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at fabric, London on Sun, 15 Nov 2026.
+Annie Errez is a Tech House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at fabric, London on Sun, 15 Nov 2026.
 
-Annie Errez is a tech house and house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Leeds and 5 more. Often billed alongside Bobby O'Donnell, Enzo Siragusa and Phil Warner. Next up: fabric, London on Sun 15 Nov.
+Annie Errez is a tech house and house artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Leeds and 5 more. Often billed alongside Bobby O'Donnell, Enzo Siragusa and Phil Warner. Next up: fabric, London on Sun 15 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Annie Errez is a tech house and house artist based in United Kingdom, with 75 gi
 | Sat, 28 Nov 2026 | Mint XL | Leeds |
 | Fri, 11 Dec 2026 | Mint XL | Leeds |
 | Sat, 19 Dec 2026 | Mint XL | Leeds |
+| Thu, 31 Dec 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ Annie Errez is a tech house and house artist based in United Kingdom, with 75 gi
 
 Bobby O'Donnell, Enzo Siragusa, Phil Warner
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annieerrez/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annieerrez/)*

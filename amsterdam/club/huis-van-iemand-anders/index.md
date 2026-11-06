@@ -1,6 +1,6 @@
 # Huis van Iemand Anders
 
-Huis van Iemand Anders is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Huis van Koperblond - Free Entry" on Fri, 6 Nov 2026.
+Huis van Iemand Anders is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Huis van Koperblond - Free Entry" on Fri, 6 Nov 2026.
 
 Huis van Iemand Anders is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including ANNASNEL, Gauss and Taskasap. See dates, start times and who's playing. Van Woustraat 2Hs.
 
@@ -15,4 +15,4 @@ Huis van Iemand Anders is a music venue in Amsterdam listed on soundcheck. 2 upc
 
 Van Woustraat 2Hs, Amsterdam
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/huis-van-iemand-anders/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/huis-van-iemand-anders/)*

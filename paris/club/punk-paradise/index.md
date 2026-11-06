@@ -1,6 +1,6 @@
 # Punk Paradise
 
-Punk Paradise is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "INKA : Paris w/ Catsinka Bigstate Playkid Poussin" on Fri, 6 Nov 2026.
+Punk Paradise is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "INKA : Paris w/ Catsinka Bigstate Playkid Poussin" on Fri, 6 Nov 2026.
 
 Punk Paradise is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Bigstate and Catsinka. See dates, start times and who's playing. 44, rue de la Folie Méricourt, 75011 Paris, France.
 
@@ -15,4 +15,4 @@ Punk Paradise is a music venue in Paris listed on soundcheck. 2 upcoming gigs, w
 
 44, rue de la Folie Méricourt, 75011 Paris, France, Paris
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/punk-paradise/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/punk-paradise/)*

@@ -1,6 +1,6 @@
 # Alienação - Desterro #41 with SAMPAYO, Øtrop & João Melgueira at Desterro
 
-Alienação - Desterro #41 with SAMPAYO, Øtrop & João Melgueira on Fri 20 Nov, Lisbon. 2 artists: João Melgueira and Øtrop. Trance and Techno. See the line-up on soundcheck.
+Alienação - Desterro #41 with SAMPAYO, Øtrop & João Melgueira on Fri 20 Nov, Lisbon. 3 artists: João Melgueira, Øtrop and SAMPAYO. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Alienação - Desterro #41 with SAMPAYO, Øtrop & João Melgueira on Fri 20 Nov,
 
 - João Melgueira
 - Øtrop
+- SAMPAYO
 
 *Source: [soundcheck](https://soundcheck.club/e/2567866-aliena-o-desterro-41-with-sampayo-trop-jo-o-melgueira-at-des/)*

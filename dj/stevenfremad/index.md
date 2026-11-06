@@ -1,6 +1,6 @@
 # Steven Fremad
 
-Steven Fremad is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at MODULE, Copenhagen on Sat, 7 Nov 2026.
+Steven Fremad is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at MODULE, Copenhagen on Sat, 7 Nov 2026.
 
 Steven Fremad is a techno and house artist based in Denmark, with 9 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside S-vibe, Aleksander Lopez and MORSURE. Next up: MODULE, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Steven Fremad is a techno and house artist based in Denmark, with 9 gigs on soun
 
 S-vibe, Aleksander Lopez, MORSURE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenfremad/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevenfremad/)*

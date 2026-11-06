@@ -1,6 +1,6 @@
 # Gravity Techno: I Hate Models - Copenhagen at Tap1
 
-Gravity Techno: I Hate Models - Copenhagen at Tap1 on Fri 4 Dec, Copenhagen. 1 artist: I Hate Models. Techno. See the line-up on soundcheck.
+Gravity Techno: I Hate Models - Copenhagen at Tap1 on Fri 4 Dec, Copenhagen. 12 artists: babysquid, Bestrawa, Cheeks and DJ 2LATE and 8 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,17 @@ Gravity Techno: I Hate Models - Copenhagen at Tap1 on Fri 4 Dec, Copenhagen. 1 a
 
 ## Line-up
 
+- babysquid
+- Bestrawa
+- Cheeks
+- DJ 2LATE
+- DJ Spice
+- Gronk
 - I Hate Models
+- Jonas Tuk
+- Miss Puppy
+- SILK!
+- steamboi
+- VE/RA
 
 *Source: [soundcheck](https://soundcheck.club/e/2515411-gravity-techno-i-hate-models-copenhagen-at-tap1/)*

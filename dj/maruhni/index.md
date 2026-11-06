@@ -1,6 +1,6 @@
 # Maruhni
 
-Maruhni is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 7 Nov 2026.
+Maruhni is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 7 Nov 2026.
 
 Maruhni is a techno and house artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Hamburg and 1 more. Often billed alongside paaradoxx, DJ Frank and Dychromatic. Next up: Tresor.West, Dortmund / Essen on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Maruhni is a techno and house artist based in Germany, with 24 gigs on soundchec
 
 paaradoxx, DJ Frank, Dychromatic
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maruhni/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maruhni/)*

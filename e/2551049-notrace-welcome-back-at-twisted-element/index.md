@@ -1,6 +1,6 @@
 # NOTRACE - WELCOME BACK at Twisted Element
 
-NOTRACE - WELCOME BACK at Twisted Element on Fri 13 Nov, Calgary. 3 artists: BRNT, David Kel and I DONT DRIVE. Techno and Minimal Techno. See the line-up on soundcheck.
+NOTRACE - WELCOME BACK at Twisted Element on Fri 13 Nov, Calgary. 4 artists: BRNT, David Kel, I DONT DRIVE and PATTERN. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ NOTRACE - WELCOME BACK at Twisted Element on Fri 13 Nov, Calgary. 3 artists: BRN
 - BRNT
 - David Kel
 - I DONT DRIVE
+- PATTERN
 
 *Source: [soundcheck](https://soundcheck.club/e/2551049-notrace-welcome-back-at-twisted-element/)*

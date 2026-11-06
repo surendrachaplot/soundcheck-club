@@ -1,13 +1,14 @@
 # Howie B
 
-Howie B is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at club asia, Tokyo on Mon, 30 Nov 2026.
+Howie B is a Electronica and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Metro, Kyoto on Sat, 28 Nov 2026.
 
-Howie B is an electronica and techno artist based in United Kingdom, with 13 gigs on soundcheck across Bangkok, Edinburgh, London and Rome and 4 more. Often billed alongside Gilles Peterson, Jerry Dammers and Lvzhiliang. Next up: club asia, Tokyo on Mon 30 Nov.
+Howie B is an electronica and hip-hop artist based in United Kingdom, with 14 gigs on soundcheck across Bangkok, Edinburgh, Kyoto and London and 5 more. Often billed alongside Gilles Peterson, Jerry Dammers and Lvzhiliang. Next up: Club Metro, Kyoto on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Club Metro | Kyoto |
 | Mon, 30 Nov 2026 | club asia | Tokyo |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
@@ -26,4 +27,4 @@ Howie B is an electronica and techno artist based in United Kingdom, with 13 gig
 
 Gilles Peterson, Jerry Dammers, Lvzhiliang
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howieb/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howieb/)*

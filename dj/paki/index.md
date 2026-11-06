@@ -1,14 +1,15 @@
 # Paki
 
-Paki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Sabor Latino, Turin on Fri, 6 Nov 2026.
+Paki is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sabor Latino, Turin on Fri, 6 Nov 2026.
 
-Paki is a house and techno artist based in Italy, with 13 gigs on soundcheck across Hong Kong, Madrid, Osaka and Turin. Often billed alongside Saint Bernard, DJ Anthony2 and Foie Gras. Next up: Sabor Latino, Turin on Fri 6 Nov.
+Paki is a house and techno artist based in Italy, with 14 gigs on soundcheck across Hong Kong, Madrid, Osaka and Turin. Often billed alongside Saint Bernard, Palimpseste and DJ Anthony2. Next up: Sabor Latino, Turin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Sabor Latino | Turin |
+| Fri, 20 Nov 2026 | Goya Social Club | Madrid |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Paki is a house and techno artist based in Italy, with 13 gigs on soundcheck acr
 
 ## Shares bills with
 
-Saint Bernard, DJ Anthony2, Foie Gras
+Saint Bernard, Palimpseste, DJ Anthony2
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paki/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paki/)*

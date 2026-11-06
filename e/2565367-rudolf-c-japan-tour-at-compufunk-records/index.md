@@ -1,6 +1,6 @@
-# Rudolf C (Japan Tour) at Compufunk Records
+# Rudolf C Japan Tour at Compufunk Records
 
-Rudolf C (Japan Tour) at Compufunk Records on Fri 27 Nov, Osaka. 4 artists: Ashikaga, IKUZO, Kohei and Rudolf C. Minimal and Minimal Techno. See the line-up on soundcheck.
+Rudolf C Japan Tour at Compufunk Records on Fri 27 Nov, Osaka. 4 artists: Ashikaga, IKUZO, Kohei and Rudolf C. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

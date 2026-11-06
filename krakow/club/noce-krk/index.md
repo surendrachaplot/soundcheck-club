@@ -1,14 +1,13 @@
 # Noce KRK
 
-Noce KRK is a music venue in Krakow with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "HARDPLACE x FREE ENTRY & BAR PROMO" on Thu, 5 Nov 2026.
+Noce KRK is a music venue in Krakow with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Noce KRK: RWETES The Dance of Self-Undoing Release Party" on Fri, 6 Nov 2026.
 
-Noce KRK is a music venue in Krakow listed on soundcheck. 9 upcoming gigs, with line-ups including AB, Adriana Lopez, Aetha and diabot and 2 more. See dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
+Noce KRK is a music venue in Krakow listed on soundcheck. 8 upcoming gigs, with line-ups including AB, Adriana Lopez, Aetha and diabot and 2 more. See dates, start times and who's playing. Dajwór 14/16, 31-052 Kraków.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | HARDPLACE x FREE ENTRY & BAR PROMO | Polizei |
 | Fri, 6 Nov 2026 | Noce KRK: RWETES The Dance of Self-Undoing Release Party | Piotr Figiel, Rraph |
 | Sat, 7 Nov 2026 | DROP: SHANDRILL ALL NIGHTER |  |
 | Tue, 10 Nov 2026 | TECHNOSESSIONS 05: AM END MAREK (DE), LASKAA, MRV, RAJZ | MRV (1), RAJZ |
@@ -22,4 +21,4 @@ Noce KRK is a music venue in Krakow listed on soundcheck. 9 upcoming gigs, with 
 
 Dajwór 14/16, 31-052 Kraków, Krakow
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/noce-krk/)*

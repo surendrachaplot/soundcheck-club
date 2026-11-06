@@ -1,6 +1,6 @@
 # P.E.A.R.L.
 
-P.E.A.R.L. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Lanna Club, North on Sat, 7 Nov 2026.
+P.E.A.R.L. is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lanna Club, North on Sat, 7 Nov 2026.
 
 P.E.A.R.L. is a techno and house artist based in Spain, with 97 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 33 more. Often billed alongside Not A Headliner, Adriana Lopez and Henning Baer. Next up: Lanna Club, North on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ P.E.A.R.L. is a techno and house artist based in Spain, with 97 gigs on soundche
 
 Not A Headliner, Adriana Lopez, Henning Baer
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p.e.a.r.l/)*

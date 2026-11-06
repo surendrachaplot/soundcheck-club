@@ -1,6 +1,6 @@
 # Modeci
 
-Modeci is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Ivan Smagghe" on Fri, 6 Nov 2026.
+Modeci is a music venue in Seoul with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Ivan Smagghe" on Fri, 6 Nov 2026.
 
 Modeci is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with line-ups including .2ndfloor, BYUNGHO, chani and Cy Nico and 2 more. See dates, start times and who's playing. 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea.
 
@@ -17,4 +17,4 @@ Modeci is a music venue in Seoul listed on soundcheck. 4 upcoming gigs, with lin
 
 5F 64, Wausan-ro, Mapo-gu, Seoul, Republic of Korea, Seoul
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/modeci/)*

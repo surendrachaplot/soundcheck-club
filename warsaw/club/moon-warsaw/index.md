@@ -1,6 +1,6 @@
 # Moon Warsaw
 
-Moon Warsaw is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "MOON PRESENTS: HOTEL AMOUR" on Sat, 7 Nov 2026.
+Moon Warsaw is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "MOON PRESENTS: HOTEL AMOUR" on Sat, 7 Nov 2026.
 
 Moon Warsaw is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including Aftersunday, Jimi Jules, Konca and Marten Lou and 2 more. See dates, start times and who's playing. Wioślarska 6, 00-411 Warszawa.
 
@@ -17,4 +17,4 @@ Moon Warsaw is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, wi
 
 Wioślarska 6, 00-411 Warszawa, Warsaw
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/moon-warsaw/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/moon-warsaw/)*

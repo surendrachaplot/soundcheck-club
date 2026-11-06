@@ -1,6 +1,6 @@
 # PORTAL - Melodic Techno Journey - Warsaw at TBA - BANK CLUB
 
-PORTAL - Melodic Techno Journey - Warsaw at TBA - BANK CLUB on Fri 13 Nov, Warsaw. 5 artists: EL PADRE, Jay Cluss, Major K and Nathassia and 1 more. Progressive House and Techno. See the line-up on soundcheck.
+PORTAL - Melodic Techno Journey - Warsaw at TBA - BANK CLUB on Fri 13 Nov, Warsaw. 6 artists: EL PADRE, Jay Cluss, Major K and Nathassia and 2 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,5 +15,6 @@ PORTAL - Melodic Techno Journey - Warsaw at TBA - BANK CLUB on Fri 13 Nov, Warsa
 - Major K
 - Nathassia
 - SA:FIR
+- yacco
 
 *Source: [soundcheck](https://soundcheck.club/e/2550890-portal-melodic-techno-journey-warsaw-at-tba-bank-club/)*

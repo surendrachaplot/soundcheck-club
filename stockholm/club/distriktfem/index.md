@@ -1,6 +1,6 @@
 # Distriktfem
 
-Distriktfem is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "CYME CLUB" on Sat, 7 Nov 2026.
+Distriktfem is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "CYME CLUB" on Sat, 7 Nov 2026.
 
 Distriktfem is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Arthi, Ms. Renegade, Namasenda and Shygirl. See dates, start times and who's playing. Hallgränd 19, 121 62 Johanneshov.
 
@@ -15,4 +15,4 @@ Distriktfem is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs,
 
 Hallgränd 19, 121 62 Johanneshov, Stockholm
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/distriktfem/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/distriktfem/)*

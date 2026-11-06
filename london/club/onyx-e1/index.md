@@ -1,6 +1,6 @@
 # Onyx (E1)
 
-Onyx (E1) is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "TBA" on Fri, 13 Nov 2026.
+Onyx (E1) is a music venue in London with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "TBA" on Fri, 13 Nov 2026.
 
 Onyx (E1) is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Bensley, Bluck, DREAD MC and goddard. and 2 more. See dates, start times and who's playing. Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB.
 
@@ -19,4 +19,4 @@ Onyx (E1) is a music venue in London listed on soundcheck. 6 upcoming gigs, with
 
 Unit3 (Artichoke Hill) 110 Pennington St, London E1W 2BB, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/onyx-e1/)*

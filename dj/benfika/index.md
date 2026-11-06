@@ -1,6 +1,6 @@
 # Benfika
 
-Benfika is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bar Espina, Tijuana on Sat, 7 Nov 2026.
+Benfika is a Club and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bar Espina, Tijuana on Sat, 7 Nov 2026.
 
 Benfika is a club and latin bass artist based in Mexico, with 20 gigs on soundcheck across Barcelona, Berlin, Lisbon and Los Angeles and 4 more. Often billed alongside Dj Pegaso, Ruiseñor and Dj Babatr. Next up: Bar Espina, Tijuana on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Benfika is a club and latin bass artist based in Mexico, with 20 gigs on soundch
 
 Dj Pegaso, Ruiseñor, Dj Babatr
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benfika/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benfika/)*

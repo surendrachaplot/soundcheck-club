@@ -1,13 +1,14 @@
 # Tonio Barrientos
 
-Tonio Barrientos is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Tonio Barrientos is a Electro and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pacha, Munich on Fri, 13 Nov 2026.
 
-Tonio Barrientos is an electro and tech house artist based in Germany, with 16 gigs on soundcheck across Austria, Berlin, Frankfurt and Munich. Often billed alongside Chris Di Perri, Alma Gold and Chicks Luv Us. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Tonio Barrientos is an electro and tech house artist based in Germany, with 17 gigs on soundcheck across Austria, Berlin, Frankfurt and Munich. Often billed alongside Chris Di Perri, Alma Gold and Chicks Luv Us. Next up: Pacha, Munich on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Pacha | Munich |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
@@ -25,4 +26,4 @@ Tonio Barrientos is an electro and tech house artist based in Germany, with 16 g
 
 Chris Di Perri, Alma Gold, Chicks Luv Us
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toniobarrientos/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toniobarrientos/)*

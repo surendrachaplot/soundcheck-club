@@ -1,6 +1,6 @@
 # kaizoku
 
-kaizoku is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Romita Spazio Tempo, Naples on Fri, 6 Nov 2026.
+kaizoku is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Romita Spazio Tempo, Naples on Fri, 6 Nov 2026.
 
 kaizoku is a techno and electronica artist based in Italy, with 19 gigs on soundcheck across Amsterdam, Ibiza, Naples and Porto. Often billed alongside DE12, Zama and Ilgattoelavolpe. Next up: TBA - Romita Spazio Tempo, Naples on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ kaizoku is a techno and electronica artist based in Italy, with 19 gigs on sound
 
 DE12, Zama, Ilgattoelavolpe
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaizoku/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaizoku/)*

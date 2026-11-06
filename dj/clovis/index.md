@@ -1,6 +1,6 @@
 # Clovis
 
-Clovis is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Oven Club, Valencia on Sat, 14 Nov 2026.
+Clovis is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Oven Club, Valencia on Sat, 14 Nov 2026.
 
 Clovis is a house and minimal artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 17 more. Often billed alongside Topper, Cesar Merveille and Inner. Next up: Oven Club, Valencia on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Clovis is a house and minimal artist based in Germany, with 101 gigs on soundche
 
 Topper, Cesar Merveille, Inner
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clovis/)*

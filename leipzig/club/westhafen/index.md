@@ -1,6 +1,6 @@
 # Westhafen
 
-Westhafen is a music venue in Leipzig with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "KINKY ON Tour Leipzig" on Sat, 7 Nov 2026.
+Westhafen is a music venue in Leipzig with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "KINKY ON Tour Leipzig" on Sat, 7 Nov 2026.
 
 Westhafen is a music venue in Leipzig listed on soundcheck. 7 upcoming gigs, with line-ups including CAMPA, CAVVØ, David Löhlein and Emina Helena and 2 more. See dates, start times and who's playing. Ernst Keil Straße 17, 04179 Leipzig, Germany.
 
@@ -20,4 +20,4 @@ Westhafen is a music venue in Leipzig listed on soundcheck. 7 upcoming gigs, wit
 
 Ernst Keil Straße 17, 04179 Leipzig, Germany, Leipzig
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/westhafen/)*

@@ -1,6 +1,6 @@
 # MNZR
 
-MNZR is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Macarena Club, Barcelona on Fri, 6 Nov 2026.
+MNZR is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Macarena Club, Barcelona on Fri, 6 Nov 2026.
 
 MNZR is a house and minimal artist based in Spain, with 15 gigs on soundcheck across Barcelona. Often billed alongside Daniel Sanchez, Ulatowski and Galu Bla. Next up: Macarena Club, Barcelona on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ MNZR is a house and minimal artist based in Spain, with 15 gigs on soundcheck ac
 
 Daniel Sanchez, Ulatowski, Galu Bla
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mnzr/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mnzr/)*

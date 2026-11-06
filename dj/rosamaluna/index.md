@@ -1,6 +1,6 @@
 # Rosa Maluna
 
-Rosa Maluna is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Jolene, Copenhagen on Fri, 6 Nov 2026.
+Rosa Maluna is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jolene, Copenhagen on Fri, 6 Nov 2026.
 
 Rosa Maluna is a house and deep house artist based in Denmark, with 20 gigs on soundcheck across Copenhagen. Often billed alongside Dee Brown, DJ LoveCatt and Bambi Milan. Next up: Jolene, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Rosa Maluna is a house and deep house artist based in Denmark, with 20 gigs on s
 
 Dee Brown, DJ LoveCatt, Bambi Milan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosamaluna/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rosamaluna/)*

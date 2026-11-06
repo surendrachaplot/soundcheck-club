@@ -1,13 +1,14 @@
 # SAGMO
 
-SAGMO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Sat, 12 Dec 2026.
+SAGMO is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 5 Dec 2026.
 
-SAGMO is a house and tech house artist based in Israel, with 28 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Matony, Kohbain and Emanate. Next up: The Great Northern, San Francisco/Oakland on Sat 12 Dec.
+SAGMO is a house and tech house artist based in Israel, with 29 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Matony, Kohbain and Emanate. Next up: Monarch, San Francisco/Oakland on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Monarch | San Francisco/Oakland |
 | Sat, 12 Dec 2026 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ SAGMO is a house and tech house artist based in Israel, with 28 gigs on soundche
 
 Matony, Kohbain, Emanate
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sagmo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sagmo/)*

@@ -1,6 +1,6 @@
 # Gulp
 
-Gulp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Aguaverde Wine Lodge , Uruguay on Thu, 31 Dec 2026.
+Gulp is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Aguaverde Wine Lodge , Uruguay on Thu, 31 Dec 2026.
 
 Gulp is a house and techno artist based in Argentina, with 35 gigs on soundcheck across Berlin, Buenos Aires, Malta and Miami and 2 more. Often billed alongside Momo Trosman, Lamache and Tomas Station. Next up: TBA - Aguaverde Wine Lodge , Uruguay on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Gulp is a house and techno artist based in Argentina, with 35 gigs on soundcheck
 
 Momo Trosman, Lamache, Tomas Station
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gulp/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gulp/)*

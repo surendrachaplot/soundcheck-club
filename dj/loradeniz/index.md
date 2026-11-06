@@ -1,6 +1,6 @@
 # Loradeniz
 
-Loradeniz is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Loradeniz is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Loradeniz is a techno and electronica artist, with 50 gigs on soundcheck across Amsterdam, Berlin, Croatia and Glasgow and 5 more. Often billed alongside Fafi Abdel Nour, Interstellar Funk and Human Space Machine. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Loradeniz is a techno and electronica artist, with 50 gigs on soundcheck across 
 
 Fafi Abdel Nour, Interstellar Funk, Human Space Machine
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loradeniz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loradeniz/)*

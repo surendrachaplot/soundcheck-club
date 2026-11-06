@@ -1,6 +1,6 @@
 # Ananda (BR)
 
-Ananda (BR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TRAUMA, Rio de Janeiro on Fri, 6 Nov 2026.
+Ananda (BR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TRAUMA, Rio de Janeiro on Fri, 6 Nov 2026.
 
 Ananda (BR) is a techno and house artist based in Brazil, with 94 gigs on soundcheck across Berlin, Brussels, Lisbon and London and 5 more. Often billed alongside Glau, Cuca and Alírio. Next up: TRAUMA, Rio de Janeiro on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Ananda (BR) is a techno and house artist based in Brazil, with 94 gigs on soundc
 
 Glau, Cuca, Alírio
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ananda/)*

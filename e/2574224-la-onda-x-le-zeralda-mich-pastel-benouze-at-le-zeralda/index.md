@@ -1,6 +1,6 @@
 # La Onda x Le Zeralda: Mich, Pastel, Benouze at Le Zeralda
 
-La Onda x Le Zeralda: Mich, Pastel, Benouze on Sat 21 Nov, Paris. 2 artists: Mich and Pastel. House and Electro. See the line-up on soundcheck.
+La Onda x Le Zeralda: Mich, Pastel, Benouze on Sat 21 Nov, Paris. 3 artists: Benouze, Mich and Pastel. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ La Onda x Le Zeralda: Mich, Pastel, Benouze on Sat 21 Nov, Paris. 2 artists: Mic
 
 ## Line-up
 
+- Benouze
 - Mich (10)
 - Pastel
 

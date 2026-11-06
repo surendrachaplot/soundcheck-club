@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 25 Nov, Berlin. 2 artists: menicx and NYCTO. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 25 Nov, Berlin. 3 artists: menicx, NYCTO and Sin Sonik. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ TECHNO MITTWOCH at Sensorium on Wed 25 Nov, Berlin. 2 artists: menicx and NYCTO.
 
 - menicx
 - NYCTO
+- Sin Sonik
 
 *Source: [soundcheck](https://soundcheck.club/e/2518131-techno-mittwoch-at-sensorium/)*

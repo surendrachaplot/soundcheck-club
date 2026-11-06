@@ -1,6 +1,6 @@
 # BELOW ZERO at TBA - LISBOA
 
-BELOW ZERO at TBA - LISBOA on Sat 7 Nov, Lisbon. 1 artist: THANILA. Techno and Electronica. See the line-up on soundcheck.
+BELOW ZERO at TBA - LISBOA on Sat 7 Nov, Lisbon. 2 artists: PIRES and THANILA. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ BELOW ZERO at TBA - LISBOA on Sat 7 Nov, Lisbon. 1 artist: THANILA. Techno and E
 
 ## Line-up
 
+- PIRES
 - THANILA
 
 *Source: [soundcheck](https://soundcheck.club/e/2568071-below-zero-at-tba-lisboa/)*

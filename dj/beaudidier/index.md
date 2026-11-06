@@ -1,13 +1,14 @@
 # Beau Didier
 
-Beau Didier is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at RADION, Amsterdam on Sat, 7 Nov 2026.
+Beau Didier is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at glimmer, Hamburg on Fri, 6 Nov 2026.
 
-Beau Didier is a techno and house artist based in Netherlands, with 177 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 49 more. Often billed alongside Isaiah (NL), Flits and Lasse. Next up: RADION, Amsterdam on Sat 7 Nov.
+Beau Didier is a techno and house artist based in Netherlands, with 178 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 49 more. Often billed alongside Isaiah (NL), Flits and Lasse. Next up: glimmer, Hamburg on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | glimmer | Hamburg |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
 | Fri, 13 Nov 2026 | Palacete | Sao Paulo |
 | Sat, 12 Dec 2026 | OST | Berlin |
@@ -27,4 +28,4 @@ Beau Didier is a techno and house artist based in Netherlands, with 177 gigs on 
 
 Isaiah (NL), Flits, Lasse
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/beaudidier/)*

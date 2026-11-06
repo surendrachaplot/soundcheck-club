@@ -1,6 +1,6 @@
 # Spyrow
 
-Spyrow is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Subcero Club, Madrid on Fri, 27 Nov 2026.
+Spyrow is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Subcero Club, Madrid on Fri, 27 Nov 2026.
 
 Spyrow is a house and tech house artist based in Italy, with 22 gigs on soundcheck across London, Madrid, Milan and Paris. Often billed alongside Ddcmp, Dante (H501) and Fabio Monesi. Next up: Subcero Club, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Spyrow is a house and tech house artist based in Italy, with 22 gigs on soundche
 
 Ddcmp, Dante (H501), Fabio Monesi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spyrow/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spyrow/)*

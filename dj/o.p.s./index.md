@@ -1,6 +1,6 @@
 # O.P.S.
 
-O.P.S. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tunnel, Milan on Sat, 14 Nov 2026.
+O.P.S. is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Tunnel, Milan on Sat, 14 Nov 2026.
 
 O.P.S. is a techno and electro artist based in Italy, with 14 gigs on soundcheck across Milan. Often billed alongside CRHERZ, HYLO (IT) and Y-DAPT. Next up: Tunnel, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ O.P.S. is a techno and electro artist based in Italy, with 14 gigs on soundcheck
 
 CRHERZ, HYLO (IT), Y-DAPT
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.p.s./)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/o.p.s./)*

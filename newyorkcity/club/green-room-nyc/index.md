@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "CLUB NIGHT // Le Petit Box" on Fri, 6 Nov 2026.
+Green Room NYC is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "CLUB NIGHT // Le Petit Box" on Fri, 6 Nov 2026.
 
 Green Room NYC is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Aline Brooklyn, Armii1n, Baroque Hoe and Cesar Merveille and 2 more. See dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Green Room NYC is a music venue in New York City listed on soundcheck. 6 upcomin
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

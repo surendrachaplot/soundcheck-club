@@ -1,6 +1,6 @@
 # BLACK NOIR presents: FRONT FUSION 7 at The Flinders
 
-BLACK NOIR presents: FRONT FUSION 7 at The Flinders on Fri 27 Nov, Sydney. 5 artists: Bleach, I-SO, Kit Kat and Sam I Am and 1 more. Techno. See the line-up on soundcheck.
+BLACK NOIR presents: FRONT FUSION 7 at The Flinders on Fri 27 Nov, Sydney. 6 artists: Bleach, I-SO, Kit Kat and RIZAREKT and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BLACK NOIR presents: FRONT FUSION 7 at The Flinders on Fri 27 Nov, Sydney. 5 art
 - Bleach
 - I-SO
 - Kit Kat
+- RIZAREKT
 - Sam I Am
 - Tori
 

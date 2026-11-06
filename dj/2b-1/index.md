@@ -1,6 +1,6 @@
 # 2B (1)
 
-2B (1) is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tigullio, Malta on Fri, 20 Nov 2026.
+2B (1) is a Techno and IDM artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tigullio, Malta on Fri, 20 Nov 2026.
 
 2B is a techno and idm artist based in Latvia, with 14 gigs on soundcheck across Malta and Riga. Often billed alongside EKVA, Gretjane and Wodders. Next up: Tigullio, Malta on Fri 20 Nov.
 
@@ -26,4 +26,4 @@
 
 EKVA, Gretjane, Wodders
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2b-1/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2b-1/)*

@@ -1,14 +1,13 @@
 # Gretchen
 
-Gretchen is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ÀBÁSE  *live" on Thu, 5 Nov 2026.
+Gretchen is a music venue in Berlin with 25 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "NORLYZ feat. MALIKA ALAOUI *live" on Fri, 6 Nov 2026.
 
-Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including alllone, anna andersrum, Ant TC1 and Beardyman and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
+Gretchen is a music venue in Berlin listed on soundcheck. 25 upcoming gigs, with line-ups including alllone, anna andersrum, Ant TC1 and Beardyman and 2 more. See dates, start times and who's playing. Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | ÀBÁSE  *live | Àbáse |
 | Fri, 6 Nov 2026 | NORLYZ feat. MALIKA ALAOUI *live |  |
 | Sat, 7 Nov 2026 | Rey&Kjavik | Rey&Kjavik |
 | Sun, 8 Nov 2026 | LEITER & HHV present: NOAH X PETTER – DRIFT *live* |  |
@@ -18,9 +17,10 @@ Gretchen is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with
 | Sat, 14 Nov 2026 | Recycle: BLACKOUT BERLIN | Black Sun Empire, Mc Jamie White, Merikan, Soniq, alllone |
 | Sun, 15 Nov 2026 | [CANCELLED] LEENALCHI *live |  |
 | Tue, 17 Nov 2026 | SOLOMON FOX *live // CANCELLED |  |
+| Wed, 18 Nov 2026 | SML *live |  |
 
 ## Address
 
 Obentrautstr.19-21; 10963 Kreuzberg; Berlin; Germany, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/gretchen/)*

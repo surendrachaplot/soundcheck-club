@@ -1,6 +1,6 @@
 # Satoshi Fumi
 
-Satoshi Fumi is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
+Satoshi Fumi is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
 
 Satoshi Fumi is a progressive house and house artist based in Japan, with 8 gigs on soundcheck across Tokyo. Often billed alongside Conures (DJ Tokunaga), DJ NECO and Kamekawa. Next up: VENT, Tokyo on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Satoshi Fumi is a progressive house and house artist based in Japan, with 8 gigs
 
 Conures (DJ Tokunaga), DJ NECO, Kamekawa
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshifumi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/satoshifumi/)*

@@ -1,6 +1,6 @@
 # Pharakami Sanders
 
-Pharakami Sanders is a Bass and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Toranoko Shokudo, Tokyo on Sat, 7 Nov 2026.
+Pharakami Sanders is a Bass and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Toranoko Shokudo, Tokyo on Sat, 7 Nov 2026.
 
 Pharakami Sanders is a bass and ghetto tech artist, with 14 gigs on soundcheck across Osaka and Tokyo. Often billed alongside 7e, ANiIIIIiiiKii and Frankie $. Next up: Toranoko Shokudo, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Pharakami Sanders is a bass and ghetto tech artist, with 14 gigs on soundcheck a
 
 7e, ANiIIIIiiiKii, Frankie $
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pharakamisanders/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pharakamisanders/)*

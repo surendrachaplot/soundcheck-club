@@ -1,6 +1,6 @@
 # UniKhatu
 
-UniKhatu is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OXI, Berlin on Fri, 6 Nov 2026.
+UniKhatu is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at OXI, Berlin on Fri, 6 Nov 2026.
 
 UniKhatu is a techno and tech house artist based in Georgia, with 63 gigs on soundcheck across Berlin, Ghent and Poznan. Often billed alongside pink-panther, James Cherry and Ayham. Next up: OXI, Berlin on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ UniKhatu is a techno and tech house artist based in Georgia, with 63 gigs on sou
 
 pink-panther, James Cherry, Ayham
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unikhatu/)*

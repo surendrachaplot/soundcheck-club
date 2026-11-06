@@ -1,14 +1,15 @@
 # Yyre
 
-Yyre is a Jungle and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The White Hotel, Manchester on Sun, 29 Nov 2026.
+Yyre is a Hardcore and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The White Hotel, Manchester on Sun, 29 Nov 2026.
 
-Yyre is a jungle and hardcore artist based in United Kingdom, with 29 gigs on soundcheck across Leeds, London, Manchester and Sheffield. Often billed alongside FKA Hardcore, FOULMOUTH and Princess Elf Bar. Next up: The White Hotel, Manchester on Sun 29 Nov.
+Yyre is a hardcore and jungle artist based in United Kingdom, with 30 gigs on soundcheck across Leeds, London, Manchester and Sheffield. Often billed alongside FKA Hardcore, FOULMOUTH and Princess Elf Bar. Next up: The White Hotel, Manchester on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | The White Hotel | Manchester |
+| Thu, 3 Dec 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Yyre is a jungle and hardcore artist based in United Kingdom, with 29 gigs on so
 
 FKA Hardcore, FOULMOUTH, Princess Elf Bar
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yyre/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yyre/)*

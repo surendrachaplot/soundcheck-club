@@ -1,13 +1,14 @@
 # Shahar
 
-Shahar is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 99 Scott Ave, New York City on Sat, 12 Dec 2026.
+Shahar is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
 
-Shahar is a house and tech house artist based in United States of America, with 63 gigs on soundcheck across Austin, Boston, London and Los Angeles and 2 more. Often billed alongside Motum, Luquez and Jean-Paul. Next up: 99 Scott Ave, New York City on Sat 12 Dec.
+Shahar is a house and tech house artist based in United States of America, with 64 gigs on soundcheck across Austin, Boston, London and Los Angeles and 2 more. Often billed alongside Motum, Luquez and James Wyler. Next up: Refuge, New York City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | Refuge | New York City |
 | Sat, 12 Dec 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ Shahar is a house and tech house artist based in United States of America, with 
 
 ## Shares bills with
 
-Motum, Luquez, Jean-Paul
+Motum, Luquez, James Wyler
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shahar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shahar/)*

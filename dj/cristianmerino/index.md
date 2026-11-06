@@ -1,6 +1,6 @@
 # Cristian Merino
 
-Cristian Merino is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Lula Club, Madrid on Fri, 6 Nov 2026.
+Cristian Merino is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lula Club, Madrid on Fri, 6 Nov 2026.
 
 Cristian Merino is a tech house and house artist, with 11 gigs on soundcheck across Barcelona, London, Madrid and Medellin. Often billed alongside AL3XANDRIA, Aitor Astiz and Black Criss. Next up: Lula Club, Madrid on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Cristian Merino is a tech house and house artist, with 11 gigs on soundcheck acr
 
 AL3XANDRIA, Aitor Astiz, Black Criss
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmerino/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmerino/)*

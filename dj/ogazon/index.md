@@ -1,8 +1,8 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
+Ogazón is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Zoom Club, Frankfurt on Fri, 6 Nov 2026.
 
-Ogazón is a techno and house artist based in Luxembourg, with 310 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 79 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
+Ogazón is a techno and house artist based in Luxembourg, with 312 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 80 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Zoom Club, Frankfurt on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Ogazón is a techno and house artist based in Luxembourg, with 310 gigs on sound
 | Sat, 5 Dec 2026 | Open Ground | Wuppertal |
 | Sat, 12 Dec 2026 | essaim | Paris |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
-| Fri, 28 May 2027 | Peckham Rye Park | London |
-| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
+| Sat, 6 Mar 2027 | fabric | London |
+| Sat, 20 Mar 2027 | den Atelier | Luxembourg |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Ogazón is a techno and house artist based in Luxembourg, with 310 gigs on sound
 
 Ryan Elliott, Marcel Dettmann, BASHKKA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ogazon/)*

@@ -1,6 +1,6 @@
 # CHIMERA / EVOLVER: Emma DJ + Keiska + DJ Haydn + more at Fylkingen
 
-CHIMERA / EVOLVER: Emma DJ + Keiska + DJ Haydn + more at Fylkingen on Fri 27 Nov, Stockholm. 5 artists: Emma DJ, Josephine Moriko, Lokey and Loopline and 1 more. Experimental and Club. See the line-up on soundcheck.
+CHIMERA / EVOLVER: Emma DJ + Keiska + DJ Haydn + more at Fylkingen on Fri 27 Nov, Stockholm. 6 artists: DJ HAYDN, Emma DJ, Josephine Moriko and Lokey and 2 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CHIMERA / EVOLVER: Emma DJ + Keiska + DJ Haydn + more at Fylkingen on Fri 27 Nov
 
 ## Line-up
 
+- DJ HAYDN
 - Emma DJ
 - Josephine Moriko
 - Lokey

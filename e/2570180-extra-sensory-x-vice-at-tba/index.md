@@ -1,6 +1,6 @@
 # EXTRA SENSORY X VICE at TBA
 
-EXTRA SENSORY X VICE at TBA on Fri 6 Nov, Los Angeles. 3 artists: Flabbergast (LA), Heidi Lawden and Tom Peters. House and Tech House. See the line-up on soundcheck.
+EXTRA SENSORY X VICE at TBA on Fri 6 Nov, Los Angeles. 4 artists: Dj Kerry, Flabbergast (LA), Heidi Lawden and Tom Peters. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ EXTRA SENSORY X VICE at TBA on Fri 6 Nov, Los Angeles. 3 artists: Flabbergast (L
 
 ## Line-up
 
+- Dj Kerry
 - Flabbergast (LA)
 - Heidi Lawden
 - Tom Peters

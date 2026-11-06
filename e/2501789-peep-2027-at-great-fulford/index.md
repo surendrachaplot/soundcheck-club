@@ -1,6 +1,6 @@
 # Peep 2027 at Great Fulford
 
-Peep 2027 at Great Fulford on Thu 22 Jul, West Wales. 51 artists: Amaliah, Andy Hart, Aurora Halal and Bobby. and 47 more. See the line-up on soundcheck.
+Peep 2027 at Great Fulford on Thu 22 Jul, West Wales. 52 artists: Amaliah, Andy Hart, Aurora Halal and Bobby. and 48 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -46,6 +46,7 @@ Peep 2027 at Great Fulford on Thu 22 Jul, West Wales. 51 artists: Amaliah, Andy 
 - Moopie
 - natebytheway
 - OK Williams
+- Professor Yes
 - Reptant
 - Richard Akingbehin
 - Ryan Elliott

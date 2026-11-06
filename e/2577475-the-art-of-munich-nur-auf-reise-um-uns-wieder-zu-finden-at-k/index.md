@@ -1,6 +1,6 @@
-# The art of Munich - Nur auf Reise um uns wieder zu finden at Kunst Block Balve
+# THE ART OF MUNICH - Nur auf Reise um uns wieder zu finden at Kunst Block Balve
 
-The art of Munich - Nur auf Reise um uns wieder zu finden at Kunst Block Balve on Sat 14 Nov, Munich. 3 artists: Aaron Leviz, Inu G and Jango S. Electro. See the line-up on soundcheck.
+THE ART OF MUNICH - Nur auf Reise um uns wieder zu finden at Kunst Block Balve on Sat 14 Nov, Munich. 3 artists: Aaron Leviz, Inu G and Jango S. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

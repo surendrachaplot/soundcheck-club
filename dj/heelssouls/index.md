@@ -1,6 +1,6 @@
 # Heels & Souls
 
-Heels & Souls is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
+Heels & Souls is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Carpet Shop, London on Fri, 6 Nov 2026.
 
 Heels & Souls are a house and techno duo based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 21 more. Often billed alongside Hamish & Toby, James Andrew and Mari.te. Next up: The Carpet Shop, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Heels & Souls are a house and techno duo based in United Kingdom, with 85 gigs o
 
 Hamish & Toby, James Andrew, Mari.te
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heelssouls/)*

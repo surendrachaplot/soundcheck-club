@@ -1,6 +1,6 @@
 # Tangerine Dream at Saint Luke's & The Winged Ox
 
-Tangerine Dream at Saint Luke's & The Winged Ox on Thu 4 Feb, Glasgow. 1 artist: Tangerine Dream. See the line-up on soundcheck.
+Tangerine Dream at Saint Luke's & The Winged Ox on Thu 4 Feb, Glasgow. 1 artist: Tangerine Dream. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

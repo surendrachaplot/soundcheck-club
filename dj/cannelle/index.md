@@ -1,6 +1,6 @@
 # Cannelle
 
-Cannelle is a Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Consulat Voltaire, Paris on Fri, 6 Nov 2026.
+Cannelle is a Disco and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Consulat Voltaire, Paris on Fri, 6 Nov 2026.
 
 Cannelle is a disco and techno artist based in France, with 39 gigs on soundcheck across Antwerp, Barcelona, Berlin and Chicago and 7 more. Often billed alongside LeBRON, ali rq and Luksek. Next up: Le Consulat Voltaire, Paris on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Cannelle is a disco and techno artist based in France, with 39 gigs on soundchec
 
 LeBRON, ali rq, Luksek
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cannelle/)*

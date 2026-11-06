@@ -1,6 +1,6 @@
 # Darone Sassounian
 
-Darone Sassounian is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Homage Brewing, Los Angeles on Fri, 6 Nov 2026.
+Darone Sassounian is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Homage Brewing, Los Angeles on Fri, 6 Nov 2026.
 
 Darone Sassounian is a house and disco artist based in United States of America, with 63 gigs on soundcheck across Athens, Los Angeles, Montreal and New York City and 3 more. Often billed alongside Lara Sarkissian, Mike Gushansky and Dave Aju. Next up: Homage Brewing, Los Angeles on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Darone Sassounian is a house and disco artist based in United States of America,
 
 Lara Sarkissian, Mike Gushansky, Dave Aju
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daronesassounian/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daronesassounian/)*

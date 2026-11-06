@@ -1,6 +1,6 @@
 # Bassolino
 
-Bassolino is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tempo, Naples on Fri, 13 Nov 2026.
+Bassolino is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Tempo, Naples on Fri, 13 Nov 2026.
 
 Bassolino is a disco and house artist based in Italy, with 18 gigs on soundcheck across Barcelona, Florence, London and Milan and 2 more. Often billed alongside Curcio, Giorgia Angiuli and Mugman. Next up: Tempo, Naples on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Bassolino is a disco and house artist based in Italy, with 18 gigs on soundcheck
 
 Curcio, Giorgia Angiuli, Mugman
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassolino/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassolino/)*

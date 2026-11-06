@@ -1,14 +1,13 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "feierabend. with Samuri & Seezar" on Thu, 5 Nov 2026.
+Pracht is a music venue in Frankfurt with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Pracht PRES. with Tobi Neumann, Chris Wood & SOLEY · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘" on Fri, 6 Nov 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, with line-ups including Andrale, Animal Trainer, Benja Asima and Biagio Sibilla and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 11 upcoming gigs, with line-ups including Andrale, Animal Trainer, Benja Asima and Biagio Sibilla and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | feierabend. with Samuri & Seezar | Samuri |
 | Fri, 6 Nov 2026 | Pracht PRES. with Tobi Neumann, Chris Wood & SOLEY · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘 | Chris Wood, Tobi Neumann |
 | Sat, 7 Nov 2026 | PrachtNACHT with ELIF, Dario Milkovic, THYS B2B Corios · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘 | Corios, Dario Milkovic, ELIF, THYS (2) |
 | Thu, 12 Nov 2026 | feierabend. X BARGROOVES with Biagio Sibilla | Biagio Sibilla |
@@ -18,9 +17,10 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, wit
 | Fri, 20 Nov 2026 | Pracht PRES. with MARC WERNER, AMacowicz & Merna | MARC WERNER |
 | Sat, 21 Nov 2026 | PrachtNACHT with Animal Trainer, Benja Asima & stefan mueller · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘 | Animal Trainer, Benja Asima, stefan mueller |
 | Thu, 26 Nov 2026 | THURSDAY - SINGLES LOVE TECHNO (under 35) with Dario Milkovic & neeko | Dario Milkovic |
+| Fri, 27 Nov 2026 | Pracht PRES. with Juliet Sikora, Monsieur Vide & Shahab · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘 | Juliet Sikora |
 
 ## Address
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

@@ -1,6 +1,6 @@
 # GDSS
 
-GDSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Jardin Hospice, Brussels on Fri, 6 Nov 2026.
+GDSS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jardin Hospice, Brussels on Fri, 6 Nov 2026.
 
 GDSS is a techno and trance artist, with 11 gigs on soundcheck across Brussels and Nantes. Often billed alongside Border, Mahø and Alarico. Next up: Jardin Hospice, Brussels on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ GDSS is a techno and trance artist, with 11 gigs on soundcheck across Brussels a
 
 Border, Mahø, Alarico
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gdss/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gdss/)*

@@ -1,6 +1,6 @@
 # Groovers paradise 2 at TBA - Secret Location
 
-Groovers paradise 2 at TBA - Secret Location on Sat 21 Nov, Chicago. 1 artist: Zona Cinco. Techno and House. See the line-up on soundcheck.
+Groovers paradise 2 at TBA - Secret Location on Sat 21 Nov, Chicago. 2 artists: J. Córdova and Zona Cinco. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Groovers paradise 2 at TBA - Secret Location on Sat 21 Nov, Chicago. 1 artist: Z
 
 ## Line-up
 
+- J. Córdova
 - Zona Cinco
 
 *Source: [soundcheck](https://soundcheck.club/e/2574241-groovers-paradise-2-at-tba-secret-location/)*

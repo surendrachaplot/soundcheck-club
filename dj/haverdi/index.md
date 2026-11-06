@@ -1,6 +1,6 @@
 # Haverdi
 
-Haverdi is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 6 Nov 2026.
+Haverdi is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Noble Savage, Tbilisi on Fri, 6 Nov 2026.
 
 Haverdi is a disco and house artist based in Georgia, with 29 gigs on soundcheck across Berlin, Lausanne, Lisbon and Tbilisi. Often billed alongside Vakomey, Adolpho & Franky and Anika Maculangan. Next up: Noble Savage, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Haverdi is a disco and house artist based in Georgia, with 29 gigs on soundcheck
 
 Vakomey, Adolpho & Franky, Anika Maculangan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haverdi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haverdi/)*

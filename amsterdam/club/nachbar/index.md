@@ -1,6 +1,6 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "thursti w/ unaniem & bibtiana" on Thu, 5 Nov 2026.
+nachbar is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "thursti w/ unaniem & bibtiana" on Thu, 5 Nov 2026.
 
 nachbar is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including AEZARYA, angelboy, BARROSKINI and Berkan V8 and 2 more. See dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
@@ -23,4 +23,4 @@ nachbar is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, wi
 
 Nieuwezijds Voorburgwal 169a, Amsterdam
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/nachbar/)*

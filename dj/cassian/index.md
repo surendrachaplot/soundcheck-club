@@ -1,6 +1,6 @@
 # Cassian
 
-Cassian is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 7 Nov 2026.
+Cassian is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Heide Museum of Modern Art Sculpture Park, Melbourne on Sat, 7 Nov 2026.
 
 Cassian is a techno and house artist based in Australia, with 149 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 41 more. Often billed alongside Tale Of Us, Kevin de Vries and Mathame. Next up: Heide Museum of Modern Art Sculpture Park, Melbourne on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Cassian is a techno and house artist based in Australia, with 149 gigs on soundc
 
 Tale Of Us, Kevin de Vries, Mathame
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassian/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cassian/)*

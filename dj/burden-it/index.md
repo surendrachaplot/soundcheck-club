@@ -1,14 +1,15 @@
 # Burden
 
-Burden is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Gaffe, London on Fri, 6 Nov 2026.
+Burden is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Gaffe, London on Fri, 6 Nov 2026.
 
-Burden is a techno and house artist based in Italy, with 34 gigs on soundcheck across Berlin, Birmingham, Galway and Leeds and 4 more. Often billed alongside Slumber, Antonio De Angelis and Mosai. Next up: Gaffe, London on Fri 6 Nov.
+Burden is a techno and house artist based in Italy, with 35 gigs on soundcheck across Berlin, Birmingham, Galway and Leeds and 4 more. Often billed alongside Slumber, Tapefeed and Antonio De Angelis. Next up: Gaffe, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Gaffe | London |
+| Sat, 6 Feb 2027 | fabric | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Burden is a techno and house artist based in Italy, with 34 gigs on soundcheck a
 
 ## Shares bills with
 
-Slumber, Antonio De Angelis, Mosai
+Slumber, Tapefeed, Antonio De Angelis
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burden-it/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burden-it/)*

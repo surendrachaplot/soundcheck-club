@@ -1,6 +1,6 @@
 # Fox (US)
 
-Fox (US) is a House and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Usana Amphitheatre, Salt-lake-city on Sat, 7 Nov 2026.
+Fox (US) is a House and Drum & Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Usana Amphitheatre, Salt-lake-city on Sat, 7 Nov 2026.
 
 Fox (US) is a house and drum & bass artist based in United States of America, with 31 gigs on soundcheck across Barcelona, Bristol, Copenhagen and Leeds and 10 more. Often billed alongside CBS, PC (MX) and ROKU. Next up: Usana Amphitheatre, Salt Lake City on Sat 7 Nov.
 
@@ -33,4 +33,4 @@ Fox (US) is a house and drum & bass artist based in United States of America, wi
 
 CBS, PC (MX), ROKU
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fox-us/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fox-us/)*

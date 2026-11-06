@@ -1,6 +1,6 @@
 # SPENG
 
-SPENG is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Sydney on Sun, 8 Nov 2026.
+SPENG is a Garage and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Sydney on Sun, 8 Nov 2026.
 
 SPENG is a garage and techno artist based in Australia, with 18 gigs on soundcheck across Sydney. Often billed alongside Bouki, Sim Select and DAYZZI. Next up: TBA, Sydney on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ SPENG is a garage and techno artist based in Australia, with 18 gigs on soundche
 
 Bouki, Sim Select, DAYZZI
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speng/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/speng/)*

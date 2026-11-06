@@ -1,6 +1,6 @@
 # Darina
 
-Darina is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Outline, Mexico City on Fri, 6 Nov 2026.
+Darina is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Outline, Mexico City on Fri, 6 Nov 2026.
 
 Darina is an electronica and downtempo artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam, Los Angeles and Mexico City. Often billed alongside Iris Estefanía, Bella Cosmic and Carlos Pocz. Next up: Outline, Mexico City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Darina is an electronica and downtempo artist based in Netherlands, with 10 gigs
 
 Iris Estefanía, Bella Cosmic, Carlos Pocz
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darina/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darina/)*

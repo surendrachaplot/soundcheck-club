@@ -1,6 +1,6 @@
 # SONIC (DE)
 
-SONIC (DE) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at NENI Berlin / Monkey Bar, Berlin on Sat, 7 Nov 2026.
+SONIC (DE) is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at NENI Berlin / Monkey Bar, Berlin on Sat, 7 Nov 2026.
 
 SONIC (DE) is a tech house and house artist based in Germany, with 3 gigs on soundcheck across Berlin, Stuttgart and Zurich. Often billed alongside Coppola (DE). Next up: NENI Berlin / Monkey Bar, Berlin on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ SONIC (DE) is a tech house and house artist based in Germany, with 3 gigs on sou
 
 Coppola (DE)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicde/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonicde/)*

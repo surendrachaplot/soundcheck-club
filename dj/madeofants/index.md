@@ -1,14 +1,15 @@
 # madeofants
 
-madeofants is a Techno and Breakcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, Detroit on Sat, 14 Nov 2026.
+madeofants is a Techno and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location, Detroit on Sat, 14 Nov 2026.
 
-madeofants is a techno and breakcore artist based in United States of America, with 26 gigs on soundcheck across Detroit. Often billed alongside Nick Burgess, Colliding Pins and DykeChow. Next up: TBA - Secret Location, Detroit on Sat 14 Nov.
+madeofants is a techno and breakcore artist based in United States of America, with 27 gigs on soundcheck across Detroit. Often billed alongside Nick Burgess, Colliding Pins and Seanni B. Next up: TBA - Secret Location, Detroit on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | TBA - Secret Location | Detroit |
+| Sat, 28 Nov 2026 | TBA | Detroit |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ madeofants is a techno and breakcore artist based in United States of America, w
 
 ## Shares bills with
 
-Nick Burgess, Colliding Pins, DykeChow
+Nick Burgess, Colliding Pins, Seanni B
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madeofants/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madeofants/)*

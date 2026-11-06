@@ -1,6 +1,6 @@
 # Richard Fribert
 
-Richard Fribert is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kockiri, Seoul on Fri, 6 Nov 2026.
+Richard Fribert is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kockiri, Seoul on Fri, 6 Nov 2026.
 
 Richard Fribert is a house and disco artist based in Sweden, with 45 gigs on soundcheck across Bangkok, London, Melbourne and Montreal and 8 more. Often billed alongside Lorem Ipsum Crew, Merchant and Cannelle. Next up: Kockiri, Seoul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Richard Fribert is a house and disco artist based in Sweden, with 45 gigs on sou
 
 Lorem Ipsum Crew, Merchant, Cannelle
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfribert/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardfribert/)*

@@ -1,6 +1,6 @@
 # PADERKID
 
-PADERKID is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
+PADERKID is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at KitKatClub, Berlin on Fri, 27 Nov 2026.
 
 PADERKID is a house and techno artist based in Germany, with 56 gigs on soundcheck across Berlin. Often billed alongside KEN (DE), Chris Bekker and DJ PayPaul. Next up: KitKatClub, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ PADERKID is a house and techno artist based in Germany, with 56 gigs on soundche
 
 KEN (DE), Chris Bekker, DJ PayPaul
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paderkid/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paderkid/)*

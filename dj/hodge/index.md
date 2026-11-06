@@ -1,6 +1,6 @@
 # Hodge
 
-Hodge is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Process PDX, Portland on Fri, 6 Nov 2026.
+Hodge is a Techno and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Process PDX, Portland on Fri, 6 Nov 2026.
 
 Hodge is a techno and bass artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Peverelist, Darwin and Erika. Next up: Process PDX, Portland on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Hodge is a techno and bass artist based in United Kingdom, with 115 gigs on soun
 
 Peverelist, Darwin, Erika
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hodge/)*

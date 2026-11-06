@@ -1,6 +1,6 @@
 # Slot
 
-Slot is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "LIFESTYLE" on Fri, 6 Nov 2026.
+Slot is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "LIFESTYLE" on Fri, 6 Nov 2026.
 
 Slot is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with line-ups including Cielo.MP3, cmp, Jessica Nightlife and Kenji Tanaka and 2 more. See dates, start times and who's playing. Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany.
 
@@ -16,4 +16,4 @@ Slot is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs, with lin
 
 Zeiseweg 9 / Bodenstedtstraße , 22765 Hamburg, Germany, Hamburg
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/slot/)*

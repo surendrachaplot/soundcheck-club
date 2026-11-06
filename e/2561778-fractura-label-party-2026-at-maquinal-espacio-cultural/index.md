@@ -1,6 +1,6 @@
-# FRACTURA LABEL PARTY 2026 at Maquinal Espacio Cultural
+# FRACTURA – LABEL PARTY 2026 at Maquinal Espacio Cultural
 
-FRACTURA LABEL PARTY 2026 at Maquinal Espacio Cultural on Sat 28 Nov, Buenos Aires. Experimental and Electronica. See the line-up on soundcheck.
+FRACTURA – LABEL PARTY 2026 at Maquinal Espacio Cultural on Sat 28 Nov, Buenos Aires. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

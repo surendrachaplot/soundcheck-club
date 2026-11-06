@@ -1,6 +1,6 @@
-# Impreza Party В Кракове at Opera Club
+# Impreza Party В Варшаве at Opera Club
 
-Impreza Party В Кракове at Opera Club on Tue 10 Nov, Warsaw. Club. See the line-up on soundcheck.
+Impreza Party В Варшаве at Opera Club on Tue 10 Nov, Warsaw. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

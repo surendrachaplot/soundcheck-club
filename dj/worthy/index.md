@@ -1,0 +1,28 @@
+# Mz Worthy
+
+Mz Worthy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Quartyard, San Diego on Sat, 5 Dec 2026.
+
+Mz Worthy is a house and tech house artist based in United States of America, with 21 gigs on soundcheck across Denver, Los Angeles, Miami and New York City and 2 more. Often billed alongside Ardalan, Baby Weight and n808. Next up: Quartyard, San Diego on Sat 5 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 5 Dec 2026 | Quartyard | San Diego |
+
+## Recently played
+
+- Meow Wolf Denver, Denver · Sat, 24 Oct 2026
+- Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
+- TBA - Norwegian Joy + Harvest Caye, Belize, Miami · Sun, 18 Jan 2026
+- Pier 80 Warehouse, San Francisco/Oakland · Thu, 1 Jan 2026
+- Oasis, San Francisco/Oakland · Fri, 8 Aug 2025
+- The Church Nightclub, Denver · Fri, 14 Mar 2025
+- The Church Nightclub, Denver · Fri, 14 Mar 2025
+- Public Works, San Francisco/Oakland · Fri, 31 Jan 2025
+
+## Shares bills with
+
+Ardalan, Baby Weight, n808
+
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worthy/)*

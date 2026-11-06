@@ -1,6 +1,6 @@
 # Francesca
 
-Francesca is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Südpol, Hamburg on Sat, 7 Nov 2026.
+Francesca is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Südpol, Hamburg on Sat, 7 Nov 2026.
 
 Francesca is a techno and downtempo artist based in United States of America, with 28 gigs on soundcheck across Barcelona, Berlin, Edinburgh and Hamburg and 6 more. Often billed alongside Maria Theresia von Eberg, Tobi Jos and Zimmer. Next up: Südpol, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Francesca is a techno and downtempo artist based in United States of America, wi
 
 Maria Theresia von Eberg, Tobi Jos, Zimmer
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francesca/)*

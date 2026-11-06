@@ -1,6 +1,6 @@
 # Quentin Harris
 
-Quentin Harris is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Eden, New York City on Sun, 22 Nov 2026.
+Quentin Harris is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Eden, New York City on Sun, 22 Nov 2026.
 
 Quentin Harris is a house and deep house artist based in United States of America, with 24 gigs on soundcheck across Baltimore, Chicago, Detroit and London and 2 more. Often billed alongside Ryan Sadorus, Dj Ryte Nou and Manny Ward. Next up: Eden, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Quentin Harris is a house and deep house artist based in United States of Americ
 
 Ryan Sadorus, Dj Ryte Nou, Manny Ward
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quentinharris/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quentinharris/)*

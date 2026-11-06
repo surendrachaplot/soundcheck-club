@@ -1,8 +1,8 @@
 # Reptant
 
-Reptant is a Electro and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Reptant is a Electro and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
-Reptant is an electro and techno artist based in Australia, with 157 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 48 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+Reptant is an electro and techno artist based in Australia, with 158 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bergen and 48 more. Often billed alongside Kia (AU), Miscmeg and Moopie. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Reptant is an electro and techno artist based in Australia, with 157 gigs on sou
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 | Sun, 8 Nov 2026 | Miscellania | Melbourne |
 | Sat, 28 Nov 2026 | TBA | Sydney |
+| Thu, 31 Dec 2026 | Nowadays | New York City |
 | Thu, 31 Dec 2026 | Marble Bar | Detroit |
 | Sat, 30 Jan 2027 | Collingwood Children's Farm | Melbourne |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
@@ -32,4 +33,4 @@ Reptant is an electro and techno artist based in Australia, with 157 gigs on sou
 
 Kia (AU), Miscmeg, Moopie
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reptant/)*

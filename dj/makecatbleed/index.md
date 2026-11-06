@@ -1,6 +1,6 @@
 # MakeCatBleed
 
-MakeCatBleed is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kømplex Lisbon, Lisbon on Fri, 6 Nov 2026.
+MakeCatBleed is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kømplex Lisbon, Lisbon on Fri, 6 Nov 2026.
 
 MakeCatBleed is a techno and hardcore artist, with 9 gigs on soundcheck across Lisbon and Paris. Often billed alongside shoutz, Pharah and Anastasiya Ty. Next up: Kømplex Lisbon, Lisbon on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ MakeCatBleed is a techno and hardcore artist, with 9 gigs on soundcheck across L
 
 shoutz, Pharah, Anastasiya Ty
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makecatbleed/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/makecatbleed/)*

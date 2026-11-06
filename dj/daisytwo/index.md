@@ -1,6 +1,6 @@
 # daisytwo
 
-daisytwo is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Halle6, Munich on Sat, 28 Nov 2026.
+daisytwo is a Ambient and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Halle6, Munich on Sat, 28 Nov 2026.
 
 daisytwo is an ambient and downtempo artist based in Germany, with 8 gigs on soundcheck across Berlin and Munich. Often billed alongside ANTNK, Bias and Big Hands. Next up: Halle6, Munich on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ daisytwo is an ambient and downtempo artist based in Germany, with 8 gigs on sou
 
 ANTNK, Bias, Big Hands
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisytwo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisytwo/)*

@@ -1,6 +1,6 @@
 # Standard Records presents D'Julz at Distrikt
 
-Standard Records presents D'Julz at Distrikt on Sat 21 Nov, Leeds. 3 artists: D'Julz, LJC and Ola & Lucia. Tech House. See the line-up on soundcheck.
+Standard Records presents D'Julz at Distrikt on Sat 21 Nov, Leeds. 4 artists: D'Julz, Dubstandards, LJC and Ola & Lucia. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Standard Records presents D'Julz at Distrikt on Sat 21 Nov, Leeds. 3 artists: D'
 ## Line-up
 
 - D'Julz
+- Dubstandards
 - LJC (1)
 - Ola & Lucia
 

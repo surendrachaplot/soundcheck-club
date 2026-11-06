@@ -1,6 +1,6 @@
 # Daora
 
-Daora is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at M-BIA, Berlin on Sat, 7 Nov 2026.
+Daora is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at M-BIA, Berlin on Sat, 7 Nov 2026.
 
 Daora is a techno and psytrance artist, with 101 gigs on soundcheck across Berlin. Often billed alongside Gerrit X, Momentune and RHYTMOX. Next up: M-BIA, Berlin on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Daora is a techno and psytrance artist, with 101 gigs on soundcheck across Berli
 
 Gerrit X, Momentune, RHYTMOX
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daora/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daora/)*

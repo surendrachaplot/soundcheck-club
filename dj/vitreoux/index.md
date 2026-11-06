@@ -1,6 +1,6 @@
 # Vitreoux
 
-Vitreoux is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, Madrid on Sat, 5 Dec 2026.
+Vitreoux is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location, Madrid on Sat, 5 Dec 2026.
 
 Vitreoux is a techno and house artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside Agulla, Javi Infantes and INTK (ES). Next up: TBA - Secret Location, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Vitreoux is a techno and house artist based in Spain, with 11 gigs on soundcheck
 
 Agulla, Javi Infantes, INTK (ES)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitreoux/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitreoux/)*

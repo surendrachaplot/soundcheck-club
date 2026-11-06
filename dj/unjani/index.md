@@ -1,6 +1,6 @@
 # unjani
 
-unjani is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at glimmer, Hamburg on Sat, 28 Nov 2026.
+unjani is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at glimmer, Hamburg on Sat, 28 Nov 2026.
 
 unjani is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alibi, dannycookin and LAURIX (DE). Next up: glimmer, Hamburg on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ unjani is a techno and trance artist based in Germany, with 22 gigs on soundchec
 
 Alibi (5), dannycookin, LAURIX (DE)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unjani/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/unjani/)*

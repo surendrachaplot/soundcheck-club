@@ -1,6 +1,6 @@
 # Squaric
 
-Squaric is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
+Squaric is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
 
 Squaric is a techno and experimental artist, with 104 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Atlantic Energy, Sender Berlin and Anri. Next up: Bridge 48, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Squaric is a techno and experimental artist, with 104 gigs on soundcheck across 
 
 Atlantic Energy, Sender Berlin, Anri
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squaric/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/squaric/)*

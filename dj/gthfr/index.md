@@ -1,6 +1,6 @@
 # GTH (FR)
 
-GTH (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 19 Nov 2026.
+GTH (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Ministerium Club, Lisbon on Thu, 19 Nov 2026.
 
 GTH (FR) is a techno and trance artist, with 18 gigs on soundcheck across Lisbon and Porto. Often billed alongside GADDAM, NOQIA and PAISANA. Next up: Ministerium Club, Lisbon on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ GTH (FR) is a techno and trance artist, with 18 gigs on soundcheck across Lisbon
 
 GADDAM, NOQIA, PAISANA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gthfr/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gthfr/)*

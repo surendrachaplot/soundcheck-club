@@ -1,14 +1,13 @@
 # Tendance
 
-Tendance is a music venue in Prague with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Tendancedance with dMIT.RY" on Thu, 5 Nov 2026.
+Tendance is a music venue in Prague with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Disco Time" on Fri, 6 Nov 2026.
 
-Tendance is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with line-ups including Cubik and dMIT.RY. See dates, start times and who's playing. basement, Šmeralova 130/5, Bubeneč, 170 00 Praha 7, Czechia.
+Tendance is a music venue in Prague listed on soundcheck. 7 upcoming gigs, with line-ups including Cubik. See dates, start times and who's playing. basement, Šmeralova 130/5, Bubeneč, 170 00 Praha 7, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Tendancedance with dMIT.RY | dMIT.RY |
 | Fri, 6 Nov 2026 | Disco Time |  |
 | Sat, 7 Nov 2026 | Tendancedance with Cubik & Stephunk T | Cubik |
 | Wed, 11 Nov 2026 | Tendancedance with Alberto |  |
@@ -21,4 +20,4 @@ Tendance is a music venue in Prague listed on soundcheck. 8 upcoming gigs, with 
 
 basement, Šmeralova 130/5, Bubeneč, 170 00 Praha 7, Czechia, Prague
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tendance/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/tendance/)*

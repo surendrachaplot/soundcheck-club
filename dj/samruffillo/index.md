@@ -1,13 +1,14 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 27 Nov 2026.
+Sam Ruffillo is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Country Discoclub, Sicily on Sat, 14 Nov 2026.
 
-Sam Ruffillo is a house and disco artist based in Italy, with 127 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 40 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Frankhan Selectist, Istanbul on Fri 27 Nov.
+Sam Ruffillo is a house and disco artist based in Italy, with 128 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 41 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: Country Discoclub, Sicily on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Country Discoclub | Sicily |
 | Fri, 27 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 5 Dec 2026 | Prysm Nightclub | Chicago |
 | Thu, 10 Dec 2026 | Good Room | New York City |
@@ -27,4 +28,4 @@ Sam Ruffillo is a house and disco artist based in Italy, with 127 gigs on soundc
 
 Kapote, Gee Lane, Stump Valley
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samruffillo/)*

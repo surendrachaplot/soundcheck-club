@@ -1,6 +1,6 @@
 # Praslesh
 
-Praslesh is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
+Praslesh is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mia Mao, Paris on Sat, 28 Nov 2026.
 
 Praslesh is a minimal and house artist based in Romania, with 23 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 6 more. Often billed alongside Praslea, Raresh and Sonja Moonear. Next up: Mia Mao, Paris on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Praslesh is a minimal and house artist based in Romania, with 23 gigs on soundch
 
 Praslea, Raresh, Sonja Moonear
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/praslesh/)*

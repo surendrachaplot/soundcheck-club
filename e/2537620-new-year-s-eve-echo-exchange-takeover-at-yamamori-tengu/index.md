@@ -1,6 +1,6 @@
 # New Year's Eve: Echo Exchange Takeover at Yamamori Tengu
 
-New Year's Eve: Echo Exchange Takeover at Yamamori Tengu on Thu 31 Dec, Dublin. 3 artists: CULT, Rob Rua and Yours Truly. Techno and Bass. See the line-up on soundcheck.
+New Year's Eve: Echo Exchange Takeover at Yamamori Tengu on Thu 31 Dec, Dublin. 4 artists: CULT, RHYTHMICK, Rob Rua and Yours Truly. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ New Year's Eve: Echo Exchange Takeover at Yamamori Tengu on Thu 31 Dec, Dublin. 
 ## Line-up
 
 - CULT
+- RHYTHMICK
 - Rob Rua
 - Yours Truly (5)
 

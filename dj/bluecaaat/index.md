@@ -1,6 +1,6 @@
 # Bluecaaat
 
-Bluecaaat is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 6 Nov 2026.
+Bluecaaat is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Heim Shanghai, Shanghai on Fri, 6 Nov 2026.
 
 Bluecaaat is a house and tech house artist, with 17 gigs on soundcheck across Shanghai. Often billed alongside Dai Nasty, Young Uncle and DJ Benimaru. Next up: Heim Shanghai, Shanghai on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bluecaaat is a house and tech house artist, with 17 gigs on soundcheck across Sh
 
 Dai Nasty, Young Uncle, DJ Benimaru
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecaaat/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecaaat/)*

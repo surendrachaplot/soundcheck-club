@@ -1,13 +1,14 @@
 # Jacinta
 
-Jacinta is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kazimier Garden, Liverpool on Fri, 13 Nov 2026.
+Jacinta is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Boxpark Shoreditch, London on Fri, 6 Nov 2026.
 
-Jacinta is a house and tech house artist based in United Kingdom, with 59 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Dowd, Alien Izz and Luna Thee Frenchie. Next up: Kazimier Garden, Liverpool on Fri 13 Nov.
+Jacinta is a house and tech house artist based in United Kingdom, with 60 gigs on soundcheck across Liverpool, London and Manchester. Often billed alongside Dowd, Alien Izz and Luna Thee Frenchie. Next up: Boxpark Shoreditch, London on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Boxpark Shoreditch | London |
 | Fri, 13 Nov 2026 | Kazimier Garden | Liverpool |
 | Sat, 14 Nov 2026 | Setlist @ Somerset House | London |
 
@@ -26,4 +27,4 @@ Jacinta is a house and tech house artist based in United Kingdom, with 59 gigs o
 
 Dowd, Alien Izz, Luna Thee Frenchie
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacinta/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jacinta/)*

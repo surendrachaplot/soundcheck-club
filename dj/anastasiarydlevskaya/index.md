@@ -1,6 +1,6 @@
 # Anastasia Rydlevskaya
 
-Anastasia Rydlevskaya is a Pop and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Panda Kulturplattform, Berlin on Sat, 28 Nov 2026.
+Anastasia Rydlevskaya is a Pop and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Panda Kulturplattform, Berlin on Sat, 28 Nov 2026.
 
 Anastasia Rydlevskaya is a pop and electro artist based in Poland, with 8 gigs on soundcheck across Berlin, Krakow, Poznan and Vilnius and 2 more. Often billed alongside KorneJ, Papa Bo Selektah and Pocket Rave. Next up: Panda Kulturplattform, Berlin on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Anastasia Rydlevskaya is a pop and electro artist based in Poland, with 8 gigs o
 
 KorneJ, Papa Bo Selektah, Pocket Rave
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiarydlevskaya/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anastasiarydlevskaya/)*

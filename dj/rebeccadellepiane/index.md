@@ -1,6 +1,6 @@
 # Rebecca Delle Piane
 
-Rebecca Delle Piane is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at SIX Feet Under, Cardiff on Fri, 6 Nov 2026.
+Rebecca Delle Piane is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at SIX Feet Under, Cardiff on Fri, 6 Nov 2026.
 
 Rebecca Delle Piane is a techno and electronica artist based in Italy, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 24 more. Often billed alongside Freddy K, SDN and Alarico. Next up: SIX Feet Under, Cardiff on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Rebecca Delle Piane is a techno and electronica artist based in Italy, with 96 g
 
 Freddy K, SDN (1), Alarico
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebeccadellepiane/)*

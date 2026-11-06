@@ -1,6 +1,6 @@
 # deKai
 
-deKai is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Las Palace, Poland on Sat, 7 Nov 2026.
+deKai is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Las Palace, Poland on Sat, 7 Nov 2026.
 
 deKai is a techno and tech house artist based in Germany, with 61 gigs on soundcheck across Berlin, Poland, Poznan and Wroclaw. Often billed alongside eliXenia, Tom Marten and Kevin Wimmer. Next up: Las Palace, Poland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ deKai is a techno and tech house artist based in Germany, with 61 gigs on soundc
 
 eliXenia, Tom Marten, Kevin Wimmer
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dekai/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dekai/)*

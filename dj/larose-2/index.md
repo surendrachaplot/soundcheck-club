@@ -1,6 +1,6 @@
 # La Rose (2)
 
-La Rose (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location , Hong Kong on Sat, 7 Nov 2026.
+La Rose (2) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location , Hong Kong on Sat, 7 Nov 2026.
 
 La Rose is a techno and trance artist based in France, with 14 gigs on soundcheck across Berlin and Hong Kong. Often billed alongside .JKM, niclazik and Shanda. Next up: TBA - Secret Location , Hong Kong on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ La Rose is a techno and trance artist based in France, with 14 gigs on soundchec
 
 .JKM, niclazik, Shanda
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larose-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larose-2/)*

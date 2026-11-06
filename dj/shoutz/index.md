@@ -1,6 +1,6 @@
 # shoutz
 
-shoutz is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kømplex Lisbon, Lisbon on Fri, 6 Nov 2026.
+shoutz is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kømplex Lisbon, Lisbon on Fri, 6 Nov 2026.
 
 shoutz is an industrial and techno artist, with 9 gigs on soundcheck across Lisbon. Often billed alongside MakeCatBleed, Pharah and Cunha.Techno. Next up: Kømplex Lisbon, Lisbon on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ shoutz is an industrial and techno artist, with 9 gigs on soundcheck across Lisb
 
 MakeCatBleed, Pharah, Cunha.Techno
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoutz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoutz/)*

@@ -1,6 +1,6 @@
 # Kerem
 
-Kerem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Yan Gastro, Istanbul on Fri, 6 Nov 2026.
+Kerem is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Yan Gastro, Istanbul on Fri, 6 Nov 2026.
 
 Kerem is a techno and house artist based in Turkey, with 21 gigs on soundcheck across Istanbul, Madrid and Munich. Often billed alongside AVCI, Erde and Holice. Next up: Yan Gastro, Istanbul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kerem is a techno and house artist based in Turkey, with 21 gigs on soundcheck a
 
 AVCI, Erde, Holice
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerem/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerem/)*

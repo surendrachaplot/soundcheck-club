@@ -1,6 +1,6 @@
 # KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, Felix Kröcher, Justin Tinderdate, Elotrance at Schrotty
 
-KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, Felix Kröcher, Justin Tinderdate, Elotrance at Schrotty on Wed 11 Nov, Cologne. 13 artists: Bergen, DJ Hyperdrive, DLV and Elotrance and 9 more. Techno. See the line-up on soundcheck.
+KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, Felix Kröcher, Justin Tinderdate, Elotrance at Schrotty on Wed 11 Nov, Cologne. 14 artists: Bergen, DJ Hyperdrive, DLV and Elotrance and 10 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -17,6 +17,7 @@ KLUENGEL XXL w/ Überkikz, Fenimore, DJ Hyperdrive, Felix Kröcher, Justin Tinde
 - Felix Kröcher
 - FENIM0RE
 - Justin Tinderdate
+- Luca Hemmers
 - SATYS FYRE
 - Schuhmacher (3)
 - SERA (2)

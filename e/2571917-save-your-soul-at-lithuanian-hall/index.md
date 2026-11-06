@@ -1,10 +1,10 @@
 # Save Your Soul at Lithuanian Hall
 
-Save Your Soul at Lithuanian Hall on Sat 7 Nov, Baltimore. 2 artists: Baby Alcatraz and That Rob Macy. Funk / Soul and R&B. See the line-up on soundcheck.
+Save Your Soul at Lithuanian Hall on Fri 6 Nov, Baltimore. 2 artists: Baby Alcatraz and That Rob Macy. Funk / Soul and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 7 Nov 2026 |
+| Date | Fri, 6 Nov 2026 |
 | Venue | Lithuanian Hall |
 | City | Baltimore |
 

@@ -1,6 +1,6 @@
 # D Jaguar
 
-D Jaguar is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tunnel Club, Pereira on Sat, 28 Nov 2026.
+D Jaguar is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tunnel Club, Pereira on Sat, 28 Nov 2026.
 
 D Jaguar is a house and minimal artist based in Colombia, with 86 gigs on soundcheck across Barcelona, Belgrade, Berlin and Bogotá and 2 more. Often billed alongside Martin Leaves, JD Groovin' and Donnie Cosmo. Next up: Tunnel Club, Pereira on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ D Jaguar is a house and minimal artist based in Colombia, with 86 gigs on soundc
 
 Martin Leaves, JD Groovin', Donnie Cosmo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djaguar/)*

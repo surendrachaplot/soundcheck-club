@@ -1,6 +1,6 @@
 # Will Jack
 
-Will Jack is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Animal, New York City on Fri, 6 Nov 2026.
+Will Jack is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Animal, New York City on Fri, 6 Nov 2026.
 
 Will Jack is a house and techno artist based in United States of America, with 50 gigs on soundcheck across New York City, Portland and San Francisco/Oakland. Often billed alongside Giovannii, Sevyn Love and DJ DEADNAME. Next up: Animal, New York City on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Will Jack is a house and techno artist based in United States of America, with 5
 
 Giovannii, Sevyn Love, DJ DEADNAME
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willjack/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willjack/)*

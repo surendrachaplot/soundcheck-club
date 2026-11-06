@@ -1,6 +1,6 @@
 # Beneath The Baobabs Festival 2027 at Beneath the Baobabs
 
-Beneath The Baobabs Festival 2027 at Beneath the Baobabs on Wed 30 Dec, Kenya. 13 artists: !Sooks, BBYY, DJ IV and Ghedi and 9 more. See the line-up on soundcheck.
+Beneath The Baobabs Festival 2027 at Beneath the Baobabs on Wed 30 Dec, Kenya. 17 artists: !Sooks, Balter Sensei, Basthma and BBYY and 13 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,9 +11,12 @@ Beneath The Baobabs Festival 2027 at Beneath the Baobabs on Wed 30 Dec, Kenya. 1
 ## Line-up
 
 - !Sooks
+- Balter Sensei
+- Basthma
 - BBYY
 - DJ IV
 - Ghedi
+- Goddess
 - Heka (KE)
 - Hiribae
 - Lemi
@@ -22,6 +25,7 @@ Beneath The Baobabs Festival 2027 at Beneath the Baobabs on Wed 30 Dec, Kenya. 1
 - nowisgood
 - ODERA
 - PAPS (KE)
+- Rosey Gold
 - Thakzin
 
 *Source: [soundcheck](https://soundcheck.club/e/2528564-beneath-the-baobabs-festival-2027-at-beneath-the-baobabs/)*

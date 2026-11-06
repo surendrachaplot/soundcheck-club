@@ -1,6 +1,6 @@
 # Nick Reverse
 
-Nick Reverse is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Metro, Kyoto on Sat, 21 Nov 2026.
+Nick Reverse is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Metro, Kyoto on Sat, 21 Nov 2026.
 
 Nick Reverse is a techno and tech house artist based in Italy, with 92 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 9 more. Often billed alongside André Müller, Ben Nott and Joris Turenhout. Next up: Club Metro, Kyoto on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Nick Reverse is a techno and tech house artist based in Italy, with 92 gigs on s
 
 André Müller, Ben Nott, Joris Turenhout
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickreverse/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickreverse/)*

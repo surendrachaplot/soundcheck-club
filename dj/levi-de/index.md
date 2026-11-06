@@ -1,6 +1,6 @@
 # Levi (DE)
 
-Levi (DE) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Silent Green, Berlin on Fri, 27 Nov 2026.
+Levi (DE) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Silent Green, Berlin on Fri, 27 Nov 2026.
 
 Levi (DE) is a techno and electronica artist based in Vietnam, with 8 gigs on soundcheck across Amsterdam, Berlin, Cologne and Nashville and 1 more. Often billed alongside MileZ, ALLALOON and AMOUNKA. Next up: Silent Green, Berlin on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Levi (DE) is a techno and electronica artist based in Vietnam, with 8 gigs on so
 
 MileZ, ALLALOON, AMOUNKA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/levi-de/)*

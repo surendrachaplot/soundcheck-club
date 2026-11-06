@@ -1,6 +1,6 @@
 # SHE/HER
 
-SHE/HER is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at KHIDI, Tbilisi on Sat, 7 Nov 2026.
+SHE/HER is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at KHIDI, Tbilisi on Sat, 7 Nov 2026.
 
 SHE/HER is a techno and house artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Berlin, Milan and Netherlands and 4 more. Often billed alongside Flits, Lasse and Isaiah (NL). Next up: KHIDI, Tbilisi on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ SHE/HER is a techno and house artist based in Netherlands, with 68 gigs on sound
 
 Flits, Lasse, Isaiah (NL)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sheher/)*

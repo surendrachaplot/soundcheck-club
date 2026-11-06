@@ -1,6 +1,6 @@
 # Sinner DC
 
-Sinner DC is a Ambient and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Chicago on Fri, 27 Nov 2026.
+Sinner DC is a Ambient and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Chicago on Fri, 27 Nov 2026.
 
 Sinner DC is an ambient and acid artist based in Switzerland, with 2 gigs on soundcheck across Chicago. Often billed alongside Milieu and m50. Next up: TBA, Chicago on Fri 27 Nov.
 
@@ -15,4 +15,4 @@ Sinner DC is an ambient and acid artist based in Switzerland, with 2 gigs on sou
 
 Milieu, m50
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnerdc/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnerdc/)*

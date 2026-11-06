@@ -1,6 +1,6 @@
 # DEFEO
 
-DEFEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Nulab Chengdu, Chengdu on Fri, 6 Nov 2026.
+DEFEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nulab Chengdu, Chengdu on Fri, 6 Nov 2026.
 
 DEFEO is a techno and house artist, with 12 gigs on soundcheck across Amsterdam, Beijing, Berlin and Chengdu and 2 more. Often billed alongside Agressør, AlBird and Amøn. Next up: Nulab Chengdu, Chengdu on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DEFEO is a techno and house artist, with 12 gigs on soundcheck across Amsterdam,
 
 Agressør, AlBird, Amøn
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defeo/)*

@@ -1,6 +1,6 @@
 # Buunshin
 
-Buunshin is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Substation, Seattle on Sun, 22 Nov 2026.
+Buunshin is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Substation, Seattle on Sun, 22 Nov 2026.
 
 Buunshin is a drum & bass and jungle artist based in Netherlands, with 53 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 34 more. Often billed alongside Imanu, Phace and S.P.Y. Next up: Substation, Seattle on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Buunshin is a drum & bass and jungle artist based in Netherlands, with 53 gigs o
 
 Imanu, Phace, S.P.Y
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buunshin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buunshin/)*

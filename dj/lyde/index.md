@@ -1,6 +1,6 @@
 # Lyde
 
-Lyde is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
+Lyde is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at All My Friends, London on Sat, 21 Nov 2026.
 
 Lyde is a progressive house and house artist based in United Kingdom, with 13 gigs on soundcheck across Leeds and London. Often billed alongside JUST FINN, Henry Bennett and Jabba & The Hutt. Next up: All My Friends, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lyde is a progressive house and house artist based in United Kingdom, with 13 gi
 
 JUST FINN, Henry Bennett, Jabba & The Hutt
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyde/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyde/)*

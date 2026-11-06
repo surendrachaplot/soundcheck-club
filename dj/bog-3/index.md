@@ -1,6 +1,6 @@
 # Bog (3)
 
-Bog (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at NOD, Moldova on Fri, 20 Nov 2026.
+Bog (3) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at NOD, Moldova on Fri, 20 Nov 2026.
 
 Bog is an electro and techno artist based in Romania, with 7 gigs on soundcheck across Berlin, Bucharest and Moldova. Often billed alongside Alexandra, DJ Slim Fit and The Apricots. Next up: NOD, Moldova on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ Bog is an electro and techno artist based in Romania, with 7 gigs on soundcheck 
 
 Alexandra, DJ Slim Fit, The Apricots
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bog-3/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bog-3/)*

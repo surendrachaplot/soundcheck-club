@@ -1,6 +1,6 @@
 # SEV!L!R
 
-SEV!L!R is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Temple, Istanbul on Fri, 6 Nov 2026.
+SEV!L!R is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Temple, Istanbul on Fri, 6 Nov 2026.
 
 SEV!L!R is a techno and industrial artist based in Turkey, with 100 gigs on soundcheck across Istanbul and Prague. Often billed alongside B-DRIVE, CHTDEVIL and Rezugo. Next up: Club Temple, Istanbul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SEV!L!R is a techno and industrial artist based in Turkey, with 100 gigs on soun
 
 B-DRIVE, CHTDEVIL, Rezugo (2)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevilir/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevilir/)*

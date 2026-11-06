@@ -1,6 +1,6 @@
 # Thibbv
 
-Thibbv is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Nox, Lille on Fri, 6 Nov 2026.
+Thibbv is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nox, Lille on Fri, 6 Nov 2026.
 
 Thibbv is a house and minimal artist based in France, with 9 gigs on soundcheck across Brussels, Lille and Paris. Often billed alongside Molek, Adema and Antwork. Next up: Nox, Lille on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Thibbv is a house and minimal artist based in France, with 9 gigs on soundcheck 
 
 Molek, Adema, Antwork
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thibbv/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thibbv/)*

@@ -1,6 +1,6 @@
 # TiZiAN (DE)
 
-TiZiAN (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 25 Dec 2026.
+TiZiAN (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 25 Dec 2026.
 
 TiZiAN (DE) is a house and techno artist based in Germany, with 47 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside Jorkes, Muallem and Denny Voltage. Next up: RSO.BERLIN, Berlin on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ TiZiAN (DE) is a house and techno artist based in Germany, with 47 gigs on sound
 
 Jorkes, Muallem, Denny Voltage
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tizian-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tizian-de/)*

@@ -1,19 +1,19 @@
 # Marcia Carr
 
-Marcia Carr is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at control, Bucharest on Thu, 5 Nov 2026.
+Marcia Carr is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cobalt Studios, Newcastle on Sat, 21 Nov 2026.
 
-Marcia Carr is a house and disco artist based in United Kingdom, with 81 gigs on soundcheck across Brighton, Bristol, Bucharest and Helsinki and 6 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: control, Bucharest on Thu 5 Nov.
+Marcia Carr is a house and disco artist based in United Kingdom, with 81 gigs on soundcheck across Brighton, Bristol, Bucharest and Helsinki and 6 more. Often billed alongside Stuart Patterson, Terry Farley and Ella Knight. Next up: Cobalt Studios, Newcastle on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | control | Bucharest |
 | Sat, 21 Nov 2026 | Cobalt Studios | Newcastle |
 | Sat, 12 Dec 2026 | Grow | London |
 
 ## Recently played
 
+- control, Bucharest · Thu, 5 Nov 2026
 - Patterns, Brighton · Sun, 1 Nov 2026
 - Court Coleman Manor, West-wales · Sat, 31 Oct 2026
 - Grow, London · Sat, 24 Oct 2026
@@ -21,10 +21,9 @@ Marcia Carr is a house and disco artist based in United Kingdom, with 81 gigs on
 - TESTBED, Leeds · Sat, 3 Oct 2026
 - Last Arch, London · Sat, 12 Sept 2026
 - Patterns, Brighton · Fri, 28 Aug 2026
-- HENGE Brixton, London · Wed, 19 Aug 2026
 
 ## Shares bills with
 
 Stuart Patterson, Terry Farley, Ella Knight
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marciacarr/)*

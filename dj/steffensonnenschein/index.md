@@ -1,6 +1,6 @@
 # Steffen Sonnenschein
 
-Steffen Sonnenschein is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
+Steffen Sonnenschein is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
 
 Steffen Sonnenschein is a house and electro artist based in Vietnam, with 96 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and Vietnam. Often billed alongside ling:chi, DESNUAGES and Determind. Next up: Happy Buddha, Vietnam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Steffen Sonnenschein is a house and electro artist based in Vietnam, with 96 gig
 
 ling:chi, DESNUAGES, Determind
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steffensonnenschein/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steffensonnenschein/)*

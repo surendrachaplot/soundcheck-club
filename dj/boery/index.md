@@ -1,6 +1,6 @@
 # BØĘRY
 
-BØĘRY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
+BØĘRY is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
 BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 13 more. Often billed alongside Raxeller, BLNK and LIEKS. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
@@ -34,4 +34,4 @@ BØĘRY is a techno and hardcore artist based in Netherlands, with 34 gigs on so
 
 Raxeller, BLNK, LIEKS
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boery/)*

@@ -1,13 +1,14 @@
 # Lilac
 
-Lilac is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Inner City Location, Brisbane on Sat, 14 Nov 2026.
+Lilac is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Innerwest Location, Sydney on Sat, 7 Nov 2026.
 
-Lilac is a techno and house artist based in Australia, with 18 gigs on soundcheck across Brisbane, Bristol, Manchester and Melbourne and 1 more. Often billed alongside Couch Mechanic, b_man (AU) and Alison Belle. Next up: TBA - Inner City Location, Brisbane on Sat 14 Nov.
+Lilac is a techno and house artist based in Australia, with 19 gigs on soundcheck across Brisbane, Bristol, Manchester and Melbourne and 1 more. Often billed alongside Couch Mechanic, b_man (AU) and Alison Belle. Next up: TBA - Secret Innerwest Location, Sydney on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | TBA - Secret Innerwest Location | Sydney |
 | Sat, 14 Nov 2026 | TBA - Inner City Location | Brisbane |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lilac is a techno and house artist based in Australia, with 18 gigs on soundchec
 
 Couch Mechanic, b_man (AU), Alison Belle
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilac/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilac/)*

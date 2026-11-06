@@ -1,16 +1,15 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SUBCERO x WAKUKO" on Thu, 5 Nov 2026.
+Subcero Club is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Subcero x A Series of Melodies" on Fri, 6 Nov 2026.
 
-Subcero Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Andrea Zarco, ARSA, BEJA and Chris Gorrie and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
+Subcero Club is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Andrea Zarco, ARSA, Chris Gorrie and Cortez and 2 more. See dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | SUBCERO x WAKUKO | BEJA |
 | Fri, 6 Nov 2026 | Subcero x A Series of Melodies | Francesco Collesei |
-| Sat, 7 Nov 2026 | Subcero x Quinoa Experience | Chris Gorrie, Gromma, Joy Boy |
+| Sat, 7 Nov 2026 | Subcero x Quinoa Experience | Chris Gorrie, Gromma, JoyBoy |
 | Thu, 12 Nov 2026 | Subcero x Glow Up | Petunia Clark |
 | Fri, 13 Nov 2026 | Subcero x Fahrenight | Filippo Costantini, Lorenzo Sidoti |
 | Sat, 14 Nov 2026 | Subcero x Verboten | ARSA, Vilor |
@@ -18,9 +17,10 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, 
 | Fri, 20 Nov 2026 | Subcero x Wololo Sound | Cortez (2), GAB (ES), freedomB |
 | Sat, 21 Nov 2026 | SUBCERO CLUB x Femnoise | Andrea Zarco, Djen, Mraj Nite |
 | Thu, 26 Nov 2026 | SUBCERO CLUB x Puro Dramma | OLI BEDIA, Puro Dramma |
+| Fri, 27 Nov 2026 | SUBCERO CLUB x Hidden Grooves | Spyrow |
 
 ## Address
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

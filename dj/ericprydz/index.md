@@ -1,6 +1,6 @@
 # Eric Prydz
 
-Eric Prydz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Fri, 6 Nov 2026.
+Eric Prydz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Fri, 6 Nov 2026.
 
 Eric Prydz is a techno and house artist based in Sweden, with 118 gigs on soundcheck across Amsterdam, Austin, Austria and Bali and 40 more. Often billed alongside Adam Beyer, Patrick Topping and Cristoph. Next up: Silo Dallas, Dallas/Fort Worth on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Eric Prydz is a techno and house artist based in Sweden, with 118 gigs on soundc
 
 Adam Beyer, Patrick Topping, Cristoph
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericprydz/)*

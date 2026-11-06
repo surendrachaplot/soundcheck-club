@@ -1,6 +1,6 @@
 # Only Child
 
-Only Child is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
+Only Child is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
 Only Child is a techno and house artist based in United States of America, with 14 gigs on soundcheck across New York City and Sydney. Often billed alongside Significant Other, Duzi and Khalilah. Next up: TBA, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Only Child is a techno and house artist based in United States of America, with 
 
 Significant Other, Duzi, Khalilah
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlychild/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onlychild/)*

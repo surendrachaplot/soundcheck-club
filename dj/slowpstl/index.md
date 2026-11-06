@@ -1,6 +1,6 @@
 # Slow PSTL
 
-Slow PSTL is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 19 Dec 2026.
+Slow PSTL is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ciao ciao Bar, Berlin on Sat, 19 Dec 2026.
 
 Slow PSTL is a house and club artist based in France, with 18 gigs on soundcheck across Berlin. Often billed alongside Loves_kills, Rina Katen and justcallmesergio. Next up: ciao ciao Bar, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Slow PSTL is a house and club artist based in France, with 18 gigs on soundcheck
 
 Loves_kills, Rina Katen, justcallmesergio
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowpstl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowpstl/)*

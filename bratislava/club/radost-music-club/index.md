@@ -1,6 +1,6 @@
 # Radost Music Club
 
-Radost Music Club is a music venue in Bratislava with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "NIGHT DIVISION w. Rhuby Wax + Carl + Vacho + Makepeace + Lavra" on Fri, 6 Nov 2026.
+Radost Music Club is a music venue in Bratislava with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "NIGHT DIVISION w. Rhuby Wax + Carl + Vacho + Makepeace + Lavra" on Fri, 6 Nov 2026.
 
 Radost Music Club is a music venue in Bratislava listed on soundcheck. 9 upcoming gigs, with line-ups including Hasky (SK), KRISTIE KARDIO, Majsko and Makepeace and 2 more. See dates, start times and who's playing. Obchodna 48; 84108 Bratislava; Slovakia.
 
@@ -22,4 +22,4 @@ Radost Music Club is a music venue in Bratislava listed on soundcheck. 9 upcomin
 
 Obchodna 48; 84108 Bratislava; Slovakia, Bratislava
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/radost-music-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/bratislava/club/radost-music-club/)*

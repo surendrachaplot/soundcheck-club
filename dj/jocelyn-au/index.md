@@ -1,6 +1,6 @@
 # Jocelyn (AU)
 
-Jocelyn (AU) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Jocelyn (AU) is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Jocelyn (AU) is a bass and techno artist based in Australia, with 3 gigs on soundcheck across Hobart and Sydney. Often billed alongside Postponez, Armand Van Helden and Baron Von Trax. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -19,4 +19,4 @@ Jocelyn (AU) is a bass and techno artist based in Australia, with 3 gigs on soun
 
 Postponez, Armand Van Helden, Baron Von Trax
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jocelyn-au/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jocelyn-au/)*

@@ -1,6 +1,6 @@
 # MIZU
 
-MIZU is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Downtown Manhattan Loft, New York City on Sat, 21 Nov 2026.
+MIZU is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Downtown Manhattan Loft, New York City on Sat, 21 Nov 2026.
 
 MIZU is an experimental and techno artist based in United States of America, with 12 gigs on soundcheck across Berlin, Munich, New York City and Rome and 2 more. Often billed alongside Concrete Husband, Mary and Zukky. Next up: TBA - Downtown Manhattan Loft, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MIZU is an experimental and techno artist based in United States of America, wit
 
 Concrete Husband, Mary (4), Zukky
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mizu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mizu/)*

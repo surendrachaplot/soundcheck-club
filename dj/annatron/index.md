@@ -1,6 +1,6 @@
 # Annatron
 
-Annatron is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Sakari, Tbilisi on Fri, 6 Nov 2026.
+Annatron is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sakari, Tbilisi on Fri, 6 Nov 2026.
 
 Annatron is a house and deep house artist, with 10 gigs on soundcheck across Berlin and Tbilisi. Often billed alongside Ucha, Manu Strasse and Admo. Next up: Sakari, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Annatron is a house and deep house artist, with 10 gigs on soundcheck across Ber
 
 Ucha, Manu Strasse, Admo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annatron/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annatron/)*

@@ -1,6 +1,6 @@
 # SAWADA
 
-SAWADA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Koara, Tokyo on Fri, 13 Nov 2026.
+SAWADA is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Koara, Tokyo on Fri, 13 Nov 2026.
 
 SAWADA is a house and minimal artist based in Japan, with 39 gigs on soundcheck across Tokyo. Often billed alongside DAIY, Tokukazu and Sayuri. Next up: Koara, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ SAWADA is a house and minimal artist based in Japan, with 39 gigs on soundcheck 
 
 DAIY, Tokukazu, Sayuri (2)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sawada/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sawada/)*

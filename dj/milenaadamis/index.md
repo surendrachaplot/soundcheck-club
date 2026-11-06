@@ -1,6 +1,6 @@
 # Milena Adamis
 
-Milena Adamis is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Buenos Aires on Fri, 6 Nov 2026.
+Milena Adamis is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Buenos Aires on Fri, 6 Nov 2026.
 
 Milena Adamis is a techno and electronica artist based in Argentina, with 43 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 5 more. Often billed alongside Udolph, Cia Rebeck and Dist. Next up: TBA, Buenos Aires on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Milena Adamis is a techno and electronica artist based in Argentina, with 43 gig
 
 Udolph, Cia Rebeck, Dist
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaadamis/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milenaadamis/)*

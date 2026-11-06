@@ -1,6 +1,6 @@
 # Anslow
 
-Anslow is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Baby Grey, Newcastle on Thu, 26 Nov 2026.
+Anslow is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Baby Grey, Newcastle on Thu, 26 Nov 2026.
 
 Anslow is a balearic and disco artist, with 49 gigs on soundcheck across Newcastle. Often billed alongside Bradley Circles, Colleen 'Cosmo' Murphy and Diz Jockey. Next up: Baby Grey, Newcastle on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Anslow is a balearic and disco artist, with 49 gigs on soundcheck across Newcast
 
 Bradley Circles, Colleen 'Cosmo' Murphy, Diz Jockey
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anslow/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anslow/)*

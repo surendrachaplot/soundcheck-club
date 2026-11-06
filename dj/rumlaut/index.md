@@ -1,6 +1,6 @@
 # Rumlaut
 
-Rumlaut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+Rumlaut is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
 
 Rumlaut is a house and techno artist based in Switzerland, with 8 gigs on soundcheck across Zurich. Often billed alongside Juli Lee, Natch and fabulus. Next up: Kauz, Zurich on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Rumlaut is a house and techno artist based in Switzerland, with 8 gigs on soundc
 
 Juli Lee, Natch, fabulus
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumlaut/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rumlaut/)*

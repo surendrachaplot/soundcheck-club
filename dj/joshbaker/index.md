@@ -1,8 +1,8 @@
 # Josh Baker
 
-Josh Baker is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Josh Baker is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Josh Baker is a house and tech house artist based in United Kingdom, with 246 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 61 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Josh Baker is a house and tech house artist based in United Kingdom, with 247 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 61 more. Often billed alongside Max Dean, Prospa and Rossi. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 246 gi
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Sun, 14 Feb 2027 | Riva | Melbourne |
 | Fri, 19 Feb 2027 | UNSW Roundhouse | Sydney |
+| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Josh Baker is a house and tech house artist based in United Kingdom, with 246 gi
 
 Max Dean, Prospa, Rossi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshbaker/)*

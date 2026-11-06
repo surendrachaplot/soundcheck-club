@@ -1,14 +1,15 @@
 # Yubu
 
-Yubu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
+Yubu is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
 
-Yubu is a house and techno artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Barcelona, Basel and Brussels and 4 more. Often billed alongside Mattie, Mia Cecille and Caim. Next up: 宀 Club, Hong Kong on Sat 28 Nov.
+Yubu is a house and techno artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, Basel and Brussels and 4 more. Often billed alongside Mattie, Mia Cecille and Caim. Next up: 宀 Club, Hong Kong on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | 宀 Club | Hong Kong |
+| Fri, 1 Jan 2027 | RADION | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Yubu is a house and techno artist based in Netherlands, with 27 gigs on soundche
 
 Mattie, Mia Cecille, Caim
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yubu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yubu/)*

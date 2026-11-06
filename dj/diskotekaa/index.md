@@ -1,6 +1,6 @@
 # DiskoTekaa*
 
-DiskoTekaa* is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 20 Nov 2026.
+DiskoTekaa* is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 20 Nov 2026.
 
 DiskoTekaa* is a techno and acid artist based in Brazil, with 26 gigs on soundcheck across Lisbon, Paris, Rio de Janeiro and Sao Paulo. Often billed alongside AIKO, Guizei and SERPA. Next up: D-Edge RIO, Rio de Janeiro on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DiskoTekaa* is a techno and acid artist based in Brazil, with 26 gigs on soundch
 
 AIKO (3), Guizei, SERPA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskotekaa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diskotekaa/)*

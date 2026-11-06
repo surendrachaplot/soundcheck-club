@@ -1,6 +1,6 @@
 # CMD+JAZMINE
 
-CMD+JAZMINE is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mood Ring, New York City on Fri, 6 Nov 2026.
+CMD+JAZMINE is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mood Ring, New York City on Fri, 6 Nov 2026.
 
 CMD+JAZMINE is a club and techno artist based in United States of America, with 66 gigs on soundcheck across New York City. Often billed alongside Petal, DJ girlcrush and actuator. Next up: Mood Ring, New York City on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ CMD+JAZMINE is a club and techno artist based in United States of America, with 
 
 Petal, DJ girlcrush, actuator
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdjazmine/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cmdjazmine/)*

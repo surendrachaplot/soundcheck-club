@@ -1,6 +1,6 @@
 # Ruben de Ronde
 
-Ruben de Ronde is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Industrie Bännli, Switzerland on Sat, 7 Nov 2026.
+Ruben de Ronde is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Industrie Bännli, Switzerland on Sat, 7 Nov 2026.
 
 Ruben de Ronde is a trance and techno artist based in Netherlands, with 8 gigs on soundcheck across Calgary, Hamburg, London and Paris and 3 more. Often billed alongside Cosmic Gate, Ferry Corsten and Madwave. Next up: Industrie Bännli, Switzerland on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Ruben de Ronde is a trance and techno artist based in Netherlands, with 8 gigs o
 
 Cosmic Gate, Ferry Corsten, Madwave
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenderonde/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenderonde/)*

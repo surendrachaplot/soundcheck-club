@@ -1,6 +1,6 @@
 # Priku
 
-Priku is a House and Minimal artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
+Priku is a House and Minimal artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
 
 Priku is a house and minimal artist based in Romania, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Club Guesthouse, Bucharest on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Priku is a house and minimal artist based in Romania, with 191 gigs on soundchec
 
 Arapu, Sossa, Seth Troxler
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/priku/)*

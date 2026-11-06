@@ -1,6 +1,6 @@
 # Sam Sax
 
-Sam Sax is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
+Sam Sax is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Mayrhofen, Austria, Austria on Mon, 5 Apr 2027.
 
 Sam Sax is a club and house artist, with 9 gigs on soundcheck across Austria, Bristol, Ibiza and London and 2 more. Often billed alongside 2ManyDJs, Andy C and Arielle Free. Next up: TBA - Mayrhofen, Austria, Austria on Mon 5 Apr.
 
@@ -25,4 +25,4 @@ Sam Sax is a club and house artist, with 9 gigs on soundcheck across Austria, Br
 
 2ManyDJs, Andy C, Arielle Free
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samsax/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samsax/)*

@@ -1,0 +1,11 @@
+# Perreo Meets Techno (21+) at The Meadows
+
+Perreo Meets Techno (21+) at The Meadows on Fri 13 Nov, New York City. Techno and Reggaeton. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 13 Nov 2026 |
+| Venue | The Meadows |
+| City | New York City |
+
+*Source: [soundcheck](https://soundcheck.club/e/2568343-perreo-meets-techno-21-at-the-meadows/)*

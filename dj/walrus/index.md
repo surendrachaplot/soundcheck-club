@@ -1,6 +1,6 @@
 # Walrus
 
-Walrus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mastak, Warsaw on Sun, 15 Nov 2026.
+Walrus is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mastak, Warsaw on Sun, 15 Nov 2026.
 
 Walrus is a house and techno artist based in Belgium, with 99 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bangkok and 22 more. Often billed alongside DJ Rino, Penelope and Adi (CO). Next up: Mastak, Warsaw on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Walrus is a house and techno artist based in Belgium, with 99 gigs on soundcheck
 
 DJ Rino, Penelope (2), Adi (CO)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/walrus/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/walrus/)*

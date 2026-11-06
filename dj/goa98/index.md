@@ -1,6 +1,6 @@
 # Goa'98
 
-Goa'98 is a Progressive House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Boho House Wynwood, Miami on Sat, 7 Nov 2026.
+Goa'98 is a Progressive House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Boho House Wynwood, Miami on Sat, 7 Nov 2026.
 
 Goa'98 is a progressive house and afro house artist based in United States of America, with 23 gigs on soundcheck across Miami and Philadelphia. Often billed alongside Kobza, Ryan Santelises and Conosur. Next up: Boho House Wynwood, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Goa'98 is a progressive house and afro house artist based in United States of Am
 
 Kobza, Ryan Santelises, Conosur
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goa98/)*

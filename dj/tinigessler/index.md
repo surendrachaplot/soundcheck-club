@@ -1,6 +1,6 @@
 # Tini Gessler
 
-Tini Gessler is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 7 Nov 2026.
+Tini Gessler is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 7 Nov 2026.
 
 Tini Gessler is a tech house and house artist based in Germany, with 150 gigs on soundcheck across Bali, Barcelona, Berlin and Bogotá and 36 more. Often billed alongside Ilario Alicante, Adam Beyer and Chelina Manuhutu. Next up: Maimarkthalle, Mannheim on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Tini Gessler is a tech house and house artist based in Germany, with 150 gigs on
 
 Ilario Alicante, Adam Beyer, Chelina Manuhutu
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinigessler/)*

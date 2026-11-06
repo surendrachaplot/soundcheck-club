@@ -1,6 +1,6 @@
 # Suze Ijó
 
-Suze Ijó is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Djoon, Paris on Tue, 10 Nov 2026.
+Suze Ijó is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Djoon, Paris on Tue, 10 Nov 2026.
 
 Suze Ijó is a house and disco artist based in Netherlands, with 232 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 59 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: Djoon, Paris on Tue 10 Nov.
 
@@ -31,4 +31,4 @@ Suze Ijó is a house and disco artist based in Netherlands, with 232 gigs on sou
 
 Gabrielle Kwarteng, Fafi Abdel Nour, CARISTA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*

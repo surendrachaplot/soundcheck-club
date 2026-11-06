@@ -1,8 +1,8 @@
 # snoritz
 
-snoritz is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Graf Karl, Kassel on Fri, 6 Nov 2026.
+snoritz is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Graf Karl, Kassel on Fri, 6 Nov 2026.
 
-snoritz is a techno and trance artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 13 more. Often billed alongside Valeby, dylliboi_91 and Schwesta P. Next up: Graf Karl, Kassel on Fri 6 Nov.
+snoritz is a techno and trance artist based in Germany, with 123 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund / Essen and 13 more. Often billed alongside Valeby, dylliboi_91 and Schwesta P. Next up: Graf Karl, Kassel on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ snoritz is a techno and trance artist based in Germany, with 122 gigs on soundch
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Graf Karl | Kassel |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
+| Fri, 27 Nov 2026 | glimmer | Hamburg |
 | Sat, 5 Dec 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Dec 2026 | elipamanoke | Leipzig |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
@@ -30,4 +31,4 @@ snoritz is a techno and trance artist based in Germany, with 122 gigs on soundch
 
 Valeby, dylliboi_91, Schwesta P
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snoritz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snoritz/)*

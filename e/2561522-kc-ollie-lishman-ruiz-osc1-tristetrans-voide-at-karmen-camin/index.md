@@ -1,6 +1,6 @@
 # KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE] at Karmen Camina
 
-KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE] at Karmen Camina on Sat 7 Nov, Strasbourg. 2 artists: Ollie Lishman and RUIZ OSC1. Techno and House. See the line-up on soundcheck.
+KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE] at Karmen Camina on Sat 7 Nov, Strasbourg. 3 artists: Ollie Lishman, RUIZ OSC1 and teinture-mère. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE] at Karmen Camina on S
 
 - Ollie Lishman
 - RUIZ OSC1
+- teinture-mère
 
 *Source: [soundcheck](https://soundcheck.club/e/2561522-kc-ollie-lishman-ruiz-osc1-tristetrans-voide-at-karmen-camin/)*

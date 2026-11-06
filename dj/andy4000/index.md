@@ -1,6 +1,6 @@
 # Andy4000
 
-Andy4000 is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Silencio, Paris on Sat, 7 Nov 2026.
+Andy4000 is a Techno and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Silencio, Paris on Sat, 7 Nov 2026.
 
 Andy4000 is a techno and baile funk artist based in France, with 37 gigs on soundcheck across Bordeaux, Brussels, Lyon and Marseille and 1 more. Often billed alongside Mad Rey, Broodoo Ramses and GLITTER55. Next up: Silencio, Paris on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Andy4000 is a techno and baile funk artist based in France, with 37 gigs on soun
 
 Mad Rey, Broodoo Ramses, GLITTER55
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andy4000/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andy4000/)*

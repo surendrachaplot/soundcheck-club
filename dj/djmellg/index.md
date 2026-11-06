@@ -1,6 +1,6 @@
 # DJ MELL G
 
-DJ MELL G is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 6 Nov 2026.
+DJ MELL G is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 6 Nov 2026.
 
 DJ MELL G is a techno and electro artist based in Germany, with 217 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 54 more. Often billed alongside Newinfluenzer, DJ Stingray 313 and DJ Spit. Next up: Tresor / Globus, Berlin on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ DJ MELL G is a techno and electro artist based in Germany, with 217 gigs on soun
 
 Newinfluenzer, DJ Stingray 313, DJ Spit
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmellg/)*

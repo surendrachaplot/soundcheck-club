@@ -1,6 +1,6 @@
 # Ondrej Husak
 
-Ondrej Husak is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bike Jesus, Prague on Fri, 6 Nov 2026.
+Ondrej Husak is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bike Jesus, Prague on Fri, 6 Nov 2026.
 
 Ondrej Husak is a house and tech house artist based in Czech Republic, with 4 gigs on soundcheck across Brno and Prague. Often billed alongside Roman Rai, Täino and ANĪC. Next up: Bike Jesus, Prague on Fri 6 Nov.
 
@@ -20,4 +20,4 @@ Ondrej Husak is a house and tech house artist based in Czech Republic, with 4 gi
 
 Roman Rai, Täino, ANĪC
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejhusak/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ondrejhusak/)*

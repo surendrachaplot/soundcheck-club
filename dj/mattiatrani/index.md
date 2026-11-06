@@ -1,6 +1,6 @@
 # Mattia Trani
 
-Mattia Trani is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tenax, Florence on Sat, 7 Nov 2026.
+Mattia Trani is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tenax, Florence on Sat, 7 Nov 2026.
 
 Mattia Trani is a techno and industrial artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Berlin, Bologna and Florence and 13 more. Often billed alongside Gianni Di Bernardo, Luca Agnelli and V111. Next up: Tenax, Florence on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Mattia Trani is a techno and industrial artist based in Italy, with 41 gigs on s
 
 Gianni Di Bernardo, Luca Agnelli, V111
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mattiatrani/)*

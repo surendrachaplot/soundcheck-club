@@ -1,6 +1,6 @@
 # Funkhaus
 
-Funkhaus is a music venue in Vienna with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Café Mondo invites Mama Demba (CV/PT)" on Fri, 6 Nov 2026.
+Funkhaus is a music venue in Vienna with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Café Mondo invites Mama Demba (CV/PT)" on Fri, 6 Nov 2026.
 
 Funkhaus is a music venue in Vienna listed on soundcheck. 11 upcoming gigs, with line-ups including Alice (AT), Bambalan, Diskohengst and Felix Rupprecht and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 11 upcoming gigs, with
 | Fri, 18 Dec 2026 | LOVEDANCIN' Vienna | Gerd Janson, Mareia, Tom Kutsche |
 | Sat, 19 Dec 2026 | traveling without moving |  |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*

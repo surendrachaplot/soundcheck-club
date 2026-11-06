@@ -1,6 +1,6 @@
 # Draag
 
-Draag is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at RNDM, Moscow on Fri, 13 Nov 2026.
+Draag is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at RNDM, Moscow on Fri, 13 Nov 2026.
 
 Draag is a techno and industrial artist based in Latvia, with 14 gigs on soundcheck across Barcelona, Berlin, Budapest and Los Angeles and 8 more. Often billed alongside CEKTA, Menace Annihilation and Die+Rich. Next up: RNDM, Moscow on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Draag is a techno and industrial artist based in Latvia, with 14 gigs on soundch
 
 CEKTA, Menace Annihilation, Die+Rich
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/draag/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/draag/)*

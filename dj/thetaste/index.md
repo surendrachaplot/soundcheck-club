@@ -1,6 +1,6 @@
 # The Taste
 
-The Taste is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Audiodrome, Turin on Fri, 6 Nov 2026.
+The Taste is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Audiodrome, Turin on Fri, 6 Nov 2026.
 
 The Taste is a house and techno artist based in Italy, with 30 gigs on soundcheck across Rome and Turin. Often billed alongside Riverside (IT), Dystopia and Maceo Plex. Next up: Audiodrome, Turin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ The Taste is a house and techno artist based in Italy, with 30 gigs on soundchec
 
 Riverside (IT), Dystopia, Maceo Plex
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaste/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thetaste/)*

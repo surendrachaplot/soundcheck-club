@@ -1,6 +1,6 @@
 # Low E (2)
 
-Low E (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Chinastraat, Ghent on Sat, 21 Nov 2026.
+Low E (2) is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Chinastraat, Ghent on Sat, 21 Nov 2026.
 
 Low E is a techno and trance artist based in Belgium, with 31 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 2 more. Often billed alongside Lena De Roose, MOKER and Vecna. Next up: Chinastraat, Ghent on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Low E is a techno and trance artist based in Belgium, with 31 gigs on soundcheck
 
 Lena De Roose, MOKER, Vecna
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowe-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowe-2/)*

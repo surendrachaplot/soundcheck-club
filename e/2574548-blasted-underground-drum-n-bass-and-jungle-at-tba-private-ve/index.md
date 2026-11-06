@@ -1,6 +1,6 @@
 # BLASTED 🅓🅝🅑 - underground drum'n'bass and jungle at TBA - Private Venue
 
-BLASTED 🅓🅝🅑 - underground drum'n'bass and jungle at TBA - Private Venue on Fri 11 Dec, Berlin. 4 artists: Agem, Babe Gorgeous, Dub Isotope and Molecular Structures. Drum & Bass and Jungle. See the line-up on soundcheck.
+BLASTED 🅓🅝🅑 - underground drum'n'bass and jungle at TBA - Private Venue on Fri 11 Dec, Berlin. 5 artists: Agem, Babe Gorgeous, Dub Isotope and Molecular Structures and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,5 +14,6 @@ BLASTED 🅓🅝🅑 - underground drum'n'bass and jungle at TBA - Private Venue
 - Babe Gorgeous
 - Dub Isotope
 - Molecular Structures
+- zitrolem
 
 *Source: [soundcheck](https://soundcheck.club/e/2574548-blasted-underground-drum-n-bass-and-jungle-at-tba-private-ve/)*

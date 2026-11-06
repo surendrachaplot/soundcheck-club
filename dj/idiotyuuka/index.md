@@ -1,6 +1,6 @@
 # idiotYuuka
 
-idiotYuuka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Circus Osaka, Osaka on Sat, 5 Dec 2026.
+idiotYuuka is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Circus Osaka, Osaka on Sat, 5 Dec 2026.
 
 idiotYuuka is a house and techno artist based in Japan, with 21 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Cine, DMITRI ABSINTHE and MAX PELA. Next up: Circus Osaka, Osaka on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ idiotYuuka is a house and techno artist based in Japan, with 21 gigs on soundche
 
 Cine, DMITRI ABSINTHE, MAX PELA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idiotyuuka/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idiotyuuka/)*

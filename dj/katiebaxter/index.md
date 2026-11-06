@@ -1,6 +1,6 @@
 # Katie Baxter
 
-Katie Baxter is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bethnal Green Workingmen's Club, London on Fri, 6 Nov 2026.
+Katie Baxter is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bethnal Green Workingmen's Club, London on Fri, 6 Nov 2026.
 
 Katie Baxter is a house and techno artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, Bristol and London. Often billed alongside Meg Ward, Jess Hands and HOLY C. Next up: Bethnal Green Workingmen's Club, London on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Katie Baxter is a house and techno artist based in United Kingdom, with 20 gigs 
 
 Meg Ward, Jess Hands, HOLY C
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebaxter/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiebaxter/)*

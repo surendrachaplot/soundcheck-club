@@ -1,6 +1,6 @@
 # mark shadow
 
-mark shadow is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Arch 14, London on Fri, 6 Nov 2026.
+mark shadow is a Tech House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Arch 14, London on Fri, 6 Nov 2026.
 
 mark shadow is a tech house and deep house artist based in Italy, with 28 gigs on soundcheck across Brighton and London. Often billed alongside KAMEROL, IZZY (UK) and JaeS. Next up: Arch 14, London on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ mark shadow is a tech house and deep house artist based in Italy, with 28 gigs o
 
 KAMEROL, IZZY (UK), JaeS
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markshadow/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markshadow/)*

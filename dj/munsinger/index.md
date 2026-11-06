@@ -1,13 +1,14 @@
 # Munsinger
 
-Munsinger is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at La Gare / Le Gore, Paris on Sun, 22 Nov 2026.
+Munsinger is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cartilage, Paris on Tue, 10 Nov 2026.
 
-Munsinger is a techno and ebm artist based in France, with 42 gigs on soundcheck across Berlin, Brussels, Helsinki and Lisbon and 5 more. Often billed alongside 24sex-b, Oxblood and Ixpé. Next up: La Gare / Le Gore, Paris on Sun 22 Nov.
+Munsinger is a techno and ebm artist based in France, with 43 gigs on soundcheck across Berlin, Brussels, Helsinki and Lisbon and 5 more. Often billed alongside 24sex-b, Oxblood and Ixpé. Next up: Cartilage, Paris on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 10 Nov 2026 | Cartilage | Paris |
 | Sun, 22 Nov 2026 | La Gare / Le Gore | Paris |
 
 ## Recently played
@@ -25,4 +26,4 @@ Munsinger is a techno and ebm artist based in France, with 42 gigs on soundcheck
 
 24sex-b, Oxblood, Ixpé
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munsinger/)*

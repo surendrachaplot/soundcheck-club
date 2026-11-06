@@ -1,6 +1,6 @@
 # Pezlo MD
 
-Pezlo MD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 7 Nov 2026.
+Pezlo MD is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mad Radio Miami, Miami on Sat, 7 Nov 2026.
 
 Pezlo MD is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Miami. Often billed alongside AABEL, Cami di Marzo and Layla Benitez. Next up: Mad Radio Miami, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Pezlo MD is a house and techno artist based in United States of America, with 17
 
 AABEL, Cami di Marzo, Layla Benitez
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pezlomd/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pezlomd/)*

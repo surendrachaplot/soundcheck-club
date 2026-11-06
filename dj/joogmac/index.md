@@ -1,6 +1,6 @@
 # Joogmac
 
-Joogmac is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Crybaby, San Francisco/Oakland on Sat, 21 Nov 2026.
+Joogmac is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Crybaby, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 Joogmac is a club and house artist based in United States of America, with 21 gigs on soundcheck across Los Angeles, Manila, New York City and San Francisco/Oakland. Often billed alongside JAMBALAYA, rogue.wav and Beverly Chills. Next up: Crybaby, San Francisco/Oakland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Joogmac is a club and house artist based in United States of America, with 21 gi
 
 JAMBALAYA, rogue.wav, Beverly Chills
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joogmac/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joogmac/)*

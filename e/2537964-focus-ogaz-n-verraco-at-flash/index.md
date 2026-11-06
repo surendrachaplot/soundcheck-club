@@ -1,6 +1,6 @@
 # FOCUS: Ogaz처n - Verraco at Flash
 
-FOCUS: Ogaz처n - Verraco at Flash on Sat 21 Nov, Washington DC. 2 artists: Ogaz처n and Verraco. Techno and Minimal Techno. See the line-up on soundcheck.
+FOCUS: Ogaz처n - Verraco at Flash on Sat 21 Nov, Washington DC. 4 artists: Andy Big, Cassia, Ogaz처n and Verraco. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ FOCUS: Ogaz처n - Verraco at Flash on Sat 21 Nov, Washington DC. 2 artists: Ogaz�
 
 ## Line-up
 
+- Andy Big
+- Cassia
 - Ogaz처n
 - Verraco
 

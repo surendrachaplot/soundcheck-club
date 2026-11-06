@@ -1,6 +1,6 @@
 # NüSchT x Exilio at Prisma
 
-NüSchT x Exilio at Prisma on Sun 8 Nov, Berlin. 4 artists: L.OST, NuAmo, SID MEHANI and The Shredder. Techno and Tech House. See the line-up on soundcheck.
+NüSchT x Exilio at Prisma on Sun 8 Nov, Berlin. 5 artists: Hegemeister, L.OST, NuAmo and SID MEHANI and 1 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ NüSchT x Exilio at Prisma on Sun 8 Nov, Berlin. 4 artists: L.OST, NuAmo, SID ME
 
 ## Line-up
 
+- Hegemeister
 - L.OST
 - NuAmo
 - SID MEHANI

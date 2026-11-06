@@ -1,14 +1,15 @@
 # Lil C
 
-Lil C is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Paragon, New York City on Fri, 6 Nov 2026.
+Lil C is a Club and Dancehall artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Paragon, New York City on Fri, 6 Nov 2026.
 
-Lil C is a club and dancehall artist based in United Kingdom, with 42 gigs on soundcheck across Auckland, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Lagoon Femshayma, Handsome Rob and Fiyahdred. Next up: Paragon, New York City on Fri 6 Nov.
+Lil C is a club and dancehall artist based in United Kingdom, with 43 gigs on soundcheck across Auckland, Barcelona, Berlin and Bristol and 6 more. Often billed alongside Lagoon Femshayma, Handsome Rob and Fiyahdred. Next up: Paragon, New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Paragon | New York City |
+| Thu, 12 Nov 2026 | The Carpet Shop | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Lil C is a club and dancehall artist based in United Kingdom, with 42 gigs on so
 
 Lagoon Femshayma, Handsome Rob, Fiyahdred
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilc/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilc/)*

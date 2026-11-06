@@ -1,6 +1,6 @@
 # Cmindajorge • Emmanuel Caurel • Creams • Memotech • Giorgi Shengelaia • 2ciu at Mtkvarze
 
-Cmindajorge • Emmanuel Caurel • Creams • Memotech • Giorgi Shengelaia • 2ciu at Mtkvarze on Sat 7 Nov, Tbilisi. 3 artists: 2ciu, Creams and Memotech. See the line-up on soundcheck.
+Cmindajorge • Emmanuel Caurel • Creams • Memotech • Giorgi Shengelaia • 2ciu at Mtkvarze on Sat 7 Nov, Tbilisi. 4 artists: 2ciu, Creams, Giorgi Shengelaia and Memotech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Cmindajorge • Emmanuel Caurel • Creams • Memotech • Giorgi Shengelaia �
 
 - 2ciu
 - Creams
+- Giorgi Shengelaia
 - Memotech
 
 *Source: [soundcheck](https://soundcheck.club/e/2574436-cmindajorge-emmanuel-caurel-creams-memotech-giorgi-shengelai/)*

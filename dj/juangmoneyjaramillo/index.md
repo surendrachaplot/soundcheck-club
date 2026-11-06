@@ -1,6 +1,6 @@
 # Juan Gmoney Jaramillo
 
-Juan Gmoney Jaramillo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Wiggle Room, Toronto on Sat, 14 Nov 2026.
+Juan Gmoney Jaramillo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Wiggle Room, Toronto on Sat, 14 Nov 2026.
 
 Juan Gmoney Jaramillo is a tech house and house artist based in Canada, with 25 gigs on soundcheck across Toronto. Often billed alongside Junior Lopez, TAKiN and Yogi. Next up: Wiggle Room, Toronto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Juan Gmoney Jaramillo is a tech house and house artist based in Canada, with 25 
 
 Junior Lopez, TAKiN, Yogi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juangmoneyjaramillo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juangmoneyjaramillo/)*

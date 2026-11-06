@@ -1,6 +1,6 @@
 # Tokyo Sexwale
 
-Tokyo Sexwale is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Ivy, Sydney on Sun, 3 Jan 2027.
+Tokyo Sexwale is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Ivy, Sydney on Sun, 3 Jan 2027.
 
 Tokyo Sexwale is a house and techno artist, with 36 gigs on soundcheck across Melbourne, San Diego and Sydney. Often billed alongside Elijah Something, Caleb Jackson and Silly Lily. Next up: The Ivy, Sydney on Sun 3 Jan.
 
@@ -25,4 +25,4 @@ Tokyo Sexwale is a house and techno artist, with 36 gigs on soundcheck across Me
 
 Elijah Something, Caleb Jackson, Silly Lily
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tokyosexwale/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tokyosexwale/)*

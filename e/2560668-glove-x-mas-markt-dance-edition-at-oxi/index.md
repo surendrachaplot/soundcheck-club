@@ -1,6 +1,6 @@
 # Glove X-MAS Markt Dance Edition at OXI
 
-Glove X-MAS Markt Dance Edition at OXI on Fri 4 Dec, Berlin. 9 artists: DJ Discostoff, ELZIRA, Flex on Trax and Khaøz and 5 more. Trance and Techno. See the line-up on soundcheck.
+Glove X-MAS Markt Dance Edition at OXI on Fri 4 Dec, Berlin. 10 artists: DJ Discostoff, ELZIRA, Flex on Trax and Khaøz and 6 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ Glove X-MAS Markt Dance Edition at OXI on Fri 4 Dec, Berlin. 9 artists: DJ Disco
 - ELZIRA
 - Flex on Trax
 - Khaøz
+- Kimberly
 - Segun
 - TEZMA
 - tokenbeats

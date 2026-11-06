@@ -1,18 +1,18 @@
 # MÄEM
 
-MÄEM is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cadavra, Madrid on Thu, 5 Nov 2026.
+MÄEM is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Specka, Madrid on Sun, 15 Nov 2026.
 
-MÄEM is a techno and electronica artist based in Spain, with 30 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Blaark, Lowsystem and Audiolux. Next up: Cadavra, Madrid on Thu 5 Nov.
+MÄEM is a techno and electronica artist based in Spain, with 30 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Blaark, Lowsystem and Audiolux. Next up: Specka, Madrid on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Cadavra | Madrid |
 | Sun, 15 Nov 2026 | Specka | Madrid |
 
 ## Recently played
 
+- Cadavra, Madrid · Thu, 5 Nov 2026
 - Lasociaciøn, Madrid · Sat, 17 Oct 2026
 - Cadavra, Madrid · Thu, 23 Jul 2026
 - Studio76 Club, Madrid · Sat, 6 Jun 2026
@@ -20,10 +20,9 @@ MÄEM is a techno and electronica artist based in Spain, with 30 gigs on soundch
 - TBA, Madrid · Sat, 7 Mar 2026
 - Cadavra, Madrid · Thu, 5 Mar 2026
 - Lasociaciøn, Madrid · Sat, 21 Feb 2026
-- Cadavra, Madrid · Thu, 29 Jan 2026
 
 ## Shares bills with
 
 Blaark, Lowsystem, Audiolux
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maem/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maem/)*

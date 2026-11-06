@@ -1,6 +1,6 @@
 # Bruce Wayne (US)
 
-Bruce Wayne (US) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 1 Hotel Brooklyn Bridge, New-york-state on Sun, 8 Nov 2026.
+Bruce Wayne (US) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 1 Hotel Brooklyn Bridge, New-york-state on Sun, 8 Nov 2026.
 
 Bruce Wayne (US) is a house and techno artist based in United States of America, with 30 gigs on soundcheck across New York State and New York City. Often billed alongside IgP, KRAVE and MP LOVE. Next up: 1 Hotel Brooklyn Bridge, New York State on Sun 8 Nov.
 
@@ -27,4 +27,4 @@ Bruce Wayne (US) is a house and techno artist based in United States of America,
 
 IgP (1), KRAVE, MP LOVE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brucewayneus/)*

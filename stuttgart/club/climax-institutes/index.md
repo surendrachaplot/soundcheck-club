@@ -1,14 +1,13 @@
 # Climax-Institutes
 
-Climax-Institutes is a music venue in Stuttgart with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "THURSDAZE" on Thu, 5 Nov 2026.
+Climax-Institutes is a music venue in Stuttgart with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "90CCB Techno Classic Club Beats" on Fri, 6 Nov 2026.
 
-Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcoming gigs, with line-ups including Adi Dassler, Chamelio 3000, E-PUNK and Michael Clash Gottschalk and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
+Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 9 upcoming gigs, with line-ups including Adi Dassler, Chamelio 3000, E-PUNK and Michael Clash Gottschalk and 2 more. See dates, start times and who's playing. Calwer Str. 25, 70173 Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | THURSDAZE |  |
 | Fri, 6 Nov 2026 | 90CCB Techno Classic Club Beats |  |
 | Sat, 7 Nov 2026 | FLUID - Queer & Gay Rave Experience | Michael Clash Gottschalk |
 | Fri, 13 Nov 2026 | INTRODUCE X ROTES RAUSCHEN |  |
@@ -23,4 +22,4 @@ Climax-Institutes is a music venue in Stuttgart listed on soundcheck. 10 upcomin
 
 Calwer Str. 25, 70173 Stuttgart, Stuttgart
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/climax-institutes/)*

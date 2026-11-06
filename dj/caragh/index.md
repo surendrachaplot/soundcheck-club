@@ -1,6 +1,6 @@
 # Caragh
 
-Caragh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
+Caragh is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Brithdir Hall, West-wales on Fri, 2 Jul 2027.
 
 Caragh is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Bristol, London, Nottingham and West Wales. Often billed alongside Daisy Moon, EMA and A For Alpha. Next up: Brithdir Hall, West Wales on Fri 2 Jul.
 
@@ -25,4 +25,4 @@ Caragh is a techno and house artist based in United Kingdom, with 13 gigs on sou
 
 Daisy Moon, EMA (1), A For Alpha
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caragh/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caragh/)*

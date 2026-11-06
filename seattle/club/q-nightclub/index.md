@@ -1,6 +1,6 @@
 # Q Nightclub
 
-Q Nightclub is a music venue in Seattle with 18 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Gabriel & Dresden" on Fri, 6 Nov 2026.
+Q Nightclub is a music venue in Seattle with 18 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Gabriel & Dresden" on Fri, 6 Nov 2026.
 
 Q Nightclub is a music venue in Seattle listed on soundcheck. 18 upcoming gigs, with line-ups including anamē, Bontan, Ely Oaks and Gabriel & Dresden and 2 more. See dates, start times and who's playing. 1426 Broadway, Seattle, WA..
 
@@ -23,4 +23,4 @@ Q Nightclub is a music venue in Seattle listed on soundcheck. 18 upcoming gigs, 
 
 1426 Broadway, Seattle, WA., Seattle
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/seattle/club/q-nightclub/)*

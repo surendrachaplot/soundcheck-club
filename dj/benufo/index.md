@@ -1,8 +1,8 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Karmakoma, Belgrade on Sat, 7 Nov 2026.
+Ben UFO is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Karmakoma, Belgrade on Sat, 7 Nov 2026.
 
-Ben UFO is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 78 more. Often billed alongside Helena Hauff, Ogazón and Aurora Halal. Next up: Karmakoma, Belgrade on Sat 7 Nov.
+Ben UFO is a techno and house artist based in United Kingdom, with 265 gigs on soundcheck across Amsterdam, Athens, Atlanta and Auckland and 79 more. Often billed alongside Helena Hauff, Ogazón and Aurora Halal. Next up: Karmakoma, Belgrade on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -15,10 +15,11 @@ Ben UFO is a techno and house artist based in United Kingdom, with 263 gigs on s
 | Sat, 5 Dec 2026 | TBA | Mexico City |
 | Sat, 12 Dec 2026 | FOLD | London |
 | Sat, 19 Dec 2026 | Basic Club | Naples |
+| Thu, 31 Dec 2026 | Nowadays | New York City |
 | Fri, 1 Jan 2027 | Pisces | Atlanta |
 | Sat, 23 Jan 2027 | Poolen | Copenhagen |
+| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 | Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
-| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Ben UFO is a techno and house artist based in United Kingdom, with 263 gigs on s
 
 Helena Hauff, Ogazón, Aurora Halal
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

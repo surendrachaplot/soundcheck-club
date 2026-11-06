@@ -1,6 +1,6 @@
 # Mark Ernestus
 
-Mark Ernestus is a Dub Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Villa, Oslo on Fri, 13 Nov 2026.
+Mark Ernestus is a Dub Techno and Dub artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Villa, Oslo on Fri, 13 Nov 2026.
 
 Mark Ernestus is a dub techno and dub artist based in Germany, with 37 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 18 more. Often billed alongside CCL, Objekt and Arthur (DE). Next up: The Villa, Oslo on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Mark Ernestus is a dub techno and dub artist based in Germany, with 37 gigs on s
 
 CCL, Objekt, Arthur (DE)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markernestus/)*

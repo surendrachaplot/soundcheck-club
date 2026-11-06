@@ -1,6 +1,6 @@
 # Hasky (SK)
 
-Hasky (SK) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 7 Nov 2026.
+Hasky (SK) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 7 Nov 2026.
 
 Hasky (SK) is a techno and house artist based in Slovakia, with 38 gigs on soundcheck across Bratislava, Brno and Prague. Often billed alongside Majsko, Makepeace and Ansea. Next up: Radost Music Club, Bratislava on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Hasky (SK) is a techno and house artist based in Slovakia, with 38 gigs on sound
 
 Majsko, Makepeace, Ansea
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haskysk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haskysk/)*

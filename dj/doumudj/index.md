@@ -1,6 +1,6 @@
 # Doumu
 
-Doumu is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kindergarten Club, Bologna on Fri, 13 Nov 2026.
+Doumu is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kindergarten Club, Bologna on Fri, 13 Nov 2026.
 
 Doumu is a techno and hardcore artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Athens and Bologna. Often billed alongside Joris Turenhout, AnDe Trois and Aegony. Next up: Kindergarten Club, Bologna on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Doumu is a techno and hardcore artist based in Italy, with 20 gigs on soundcheck
 
 Joris Turenhout, AnDe Trois, Aegony
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doumudj/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doumudj/)*

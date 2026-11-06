@@ -1,6 +1,6 @@
 # Outlaws Yacht Club
 
-Outlaws Yacht Club is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Dark Stains at OYC" on Fri, 6 Nov 2026.
+Outlaws Yacht Club is a music venue in Leeds with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Dark Stains at OYC" on Fri, 6 Nov 2026.
 
 Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 4 upcoming gigs, with line-ups including Cosmikuro, edv3ctor, Etienne Groh and Maves and 2 more. See dates, start times and who's playing. 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom.
 
@@ -17,4 +17,4 @@ Outlaws Yacht Club is a music venue in Leeds listed on soundcheck. 4 upcoming gi
 
 38 New York St, Leeds, West Yorkshire, LS2 7DY, United Kingdom, Leeds
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/outlaws-yacht-club/)*

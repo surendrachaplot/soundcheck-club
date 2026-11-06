@@ -1,6 +1,6 @@
 # Maria Politi
 
-Maria Politi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at KREUZWERK, Berlin on Fri, 27 Nov 2026.
+Maria Politi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at KREUZWERK, Berlin on Fri, 27 Nov 2026.
 
 Maria Politi is a house and techno artist based in Greece, with 58 gigs on soundcheck across Athens, Berlin, Leipzig and Paris and 1 more. Often billed alongside Stathis (GR), K.atou and ClubKid. Next up: KREUZWERK, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Maria Politi is a house and techno artist based in Greece, with 58 gigs on sound
 
 Stathis (GR), K.atou, ClubKid
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariapoliti/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariapoliti/)*

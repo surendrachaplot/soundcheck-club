@@ -1,8 +1,8 @@
 # fumi (DE)
 
-fumi (DE) is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hangaren, Copenhagen on Fri, 6 Nov 2026.
+fumi (DE) is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Hangaren, Copenhagen on Fri, 6 Nov 2026.
 
-fumi (DE) is a techno and trance artist based in Germany, with 160 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 53 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: Hangaren, Copenhagen on Fri 6 Nov.
+fumi (DE) is a techno and trance artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 53 more. Often billed alongside Serafina, Adrian Mills and Cloudy. Next up: Hangaren, Copenhagen on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ fumi (DE) is a techno and trance artist based in Germany, with 160 gigs on sound
 | Fri, 11 Dec 2026 | Halle Tony Garnier | Lyon |
 | Fri, 1 Jan 2027 | Fabrik | Madrid |
 | Sat, 20 Feb 2027 | TBA - Warehouse Location | Toronto |
+| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ fumi (DE) is a techno and trance artist based in Germany, with 160 gigs on sound
 
 Serafina, Adrian Mills, Cloudy
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumi-de/)*

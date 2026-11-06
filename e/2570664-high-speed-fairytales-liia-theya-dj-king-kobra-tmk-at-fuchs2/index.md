@@ -1,6 +1,6 @@
 # HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk at Fuchs2
 
-HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk at Fuchs2 on Fri 20 Nov, Prague. 4 artists: DJ KING KOBRA, LIIA, Theya and tmk (CZ). Breakbeat and Drum & Bass. See the line-up on soundcheck.
+HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk at Fuchs2 on Fri 20 Nov, Prague. 3 artists: DJ KING KOBRA, Theya and tmk (CZ). Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk at Fuchs2 on Fri
 ## Line-up
 
 - DJ KING KOBRA
-- LIIA
 - Theya
 - tmk (CZ)
 

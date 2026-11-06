@@ -1,6 +1,6 @@
 # Kweku
 
-Kweku is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mood Ring, New York City on Wed, 9 Dec 2026.
+Kweku is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mood Ring, New York City on Wed, 9 Dec 2026.
 
 Kweku is a club and techno artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside Petal, Connector and Délé. Next up: Mood Ring, New York City on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Kweku is a club and techno artist based in United States of America, with 30 gig
 
 Petal, Connector, Délé
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kweku/)*

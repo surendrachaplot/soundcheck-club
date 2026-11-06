@@ -1,6 +1,6 @@
 # OtherKind
 
-OtherKind is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 14 Nov 2026.
+OtherKind is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat, 14 Nov 2026.
 
 OtherKind is a techno and tech house artist based in Iran, with 44 gigs on soundcheck across Kuala Lumpur. Often billed alongside Obadius, Meliha and Biscuit (MY). Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ OtherKind is a techno and tech house artist based in Iran, with 44 gigs on sound
 
 Obadius, Meliha, Biscuit (MY)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otherkind/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otherkind/)*

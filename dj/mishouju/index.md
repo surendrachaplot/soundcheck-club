@@ -1,6 +1,6 @@
 # Mishouju
 
-Mishouju is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Amsterdam on Fri, 6 Nov 2026.
+Mishouju is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Amsterdam on Fri, 6 Nov 2026.
 
 Mishouju is a techno and house artist based in Belarus, with 25 gigs on soundcheck across Amsterdam, Bangkok, Beijing and Hanoi and 2 more. Often billed alongside provoda, E Nick and Dusan Nikolic. Next up: TBA, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Mishouju is a techno and house artist based in Belarus, with 25 gigs on soundche
 
 provoda, E Nick, Dusan Nikolic
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishouju/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mishouju/)*

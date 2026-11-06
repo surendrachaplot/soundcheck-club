@@ -1,8 +1,8 @@
 # OSCAAR
 
-OSCAAR is a Deep House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at ZeyZey, Miami on Sat, 7 Nov 2026.
+OSCAAR is a Deep House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at ZeyZey, Miami on Sat, 7 Nov 2026.
 
-OSCAAR is a deep house and afro house artist based in United States of America, with 32 gigs on soundcheck across Athens, London, Los Angeles and Miami and 3 more. Often billed alongside Rahbani, &friends and Orsay. Next up: ZeyZey, Miami on Sat 7 Nov.
+OSCAAR is a deep house and afro house artist based in United States of America, with 33 gigs on soundcheck across Athens, London, Los Angeles and Miami and 3 more. Often billed alongside Rahbani, &friends and Orsay. Next up: ZeyZey, Miami on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ OSCAAR is a deep house and afro house artist based in United States of America, 
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | ZeyZey | Miami |
 | Fri, 13 Nov 2026 | Mercer Labs | New York City |
+| Sat, 14 Nov 2026 | Pluto | Los Angeles |
 | Fri, 20 Nov 2026 | La Nuit | Paris |
 
 ## Recently played
@@ -27,4 +28,4 @@ OSCAAR is a deep house and afro house artist based in United States of America, 
 
 Rahbani, &friends, Orsay
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscaar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscaar/)*

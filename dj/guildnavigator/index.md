@@ -1,14 +1,15 @@
 # Guild Navigator
 
-Guild Navigator is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Trekanten, Oslo on Sun, 15 Nov 2026.
+Guild Navigator is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Trekanten, Oslo on Sun, 15 Nov 2026.
 
-Guild Navigator is a trance and techno artist based in Norway, with 10 gigs on soundcheck across Amsterdam and Oslo. Often billed alongside Komet99, Anémi and Ottersbo. Next up: Trekanten, Oslo on Sun 15 Nov.
+Guild Navigator is a trance and techno artist based in Norway, with 11 gigs on soundcheck across Amsterdam and Oslo. Often billed alongside Komet99, Anémi and Ottersbo. Next up: Trekanten, Oslo on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Trekanten | Oslo |
+| Fri, 4 Dec 2026 | The Villa | Oslo |
 | Sat, 16 Jan 2027 | Secret Location Oslo | Oslo |
 
 ## Recently played
@@ -26,4 +27,4 @@ Guild Navigator is a trance and techno artist based in Norway, with 10 gigs on s
 
 Komet99, Anémi, Ottersbo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guildnavigator/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guildnavigator/)*

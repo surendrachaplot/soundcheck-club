@@ -1,6 +1,6 @@
-# ANIVERSARIO 4º Dia [Eds & Vres] at M7 Club
+# ANIVERSARIO (4º Dia) Eds & Vres at M7 Club
 
-ANIVERSARIO 4º Dia [Eds & Vres] at M7 Club on Sun 15 Nov, Barcelona. 1 artist: EDS (ESP). Electronica. See the line-up on soundcheck.
+ANIVERSARIO (4º Dia) Eds & Vres at M7 Club on Sun 15 Nov, Barcelona. 1 artist: EDS (ESP). Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Robbie Redway (United Freedom Collective)
 
-Robbie Redway (United Freedom Collective) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Margate Arts Club, South-east on Sat, 5 Dec 2026.
+Robbie Redway (United Freedom Collective) is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Margate Arts Club, South-east on Sat, 5 Dec 2026.
 
 Robbie Redway (United Freedom Collective) is an electronic artist based in United Kingdom, with 3 gigs on soundcheck across South East and West Wales. Often billed alongside Coco Maria, DJ Posture and Echo Juliet. Next up: Margate Arts Club, South East on Sat 5 Dec.
 
@@ -19,4 +19,4 @@ Robbie Redway (United Freedom Collective) is an electronic artist based in Unite
 
 Coco Maria, DJ Posture, Echo Juliet
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieredwayunitedfreedomcollective/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robbieredwayunitedfreedomcollective/)*

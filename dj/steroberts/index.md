@@ -1,6 +1,6 @@
 # Ste Roberts
 
-Ste Roberts is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Love Inn, Bristol on Fri, 6 Nov 2026.
+Ste Roberts is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Love Inn, Bristol on Fri, 6 Nov 2026.
 
 Ste Roberts is a techno and electro artist based in United Kingdom, with 62 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 4 more. Often billed alongside Alien Communications, Jos and De La Reef. Next up: The Love Inn, Bristol on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Ste Roberts is a techno and electro artist based in United Kingdom, with 62 gigs
 
 Alien Communications, Jos, De La Reef
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steroberts/)*

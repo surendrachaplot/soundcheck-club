@@ -1,8 +1,8 @@
 # Clara Cuvé
 
-Clara Cuvé is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at OST, Berlin on Fri, 6 Nov 2026.
+Clara Cuvé is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at OST, Berlin on Fri, 6 Nov 2026.
 
-Clara Cuvé is a techno and house artist based in Germany, with 281 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: OST, Berlin on Fri 6 Nov.
+Clara Cuvé is a techno and house artist based in Germany, with 282 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Kobosil, I Hate Models and 999999999. Next up: OST, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ Clara Cuvé is a techno and house artist based in Germany, with 281 gigs on soun
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 | Mon, 7 Dec 2026 | Gate Milano | Milan |
+| Sat, 12 Dec 2026 | Uebel & Gefährlich | Hamburg |
 | Fri, 5 Mar 2027 | Moyston | Melbourne |
 | Sat, 1 May 2027 | Komplex Berlin | Berlin |
-| Sat, 28 Aug 2027 | Sommerbad Neuköln | Berlin |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Clara Cuvé is a techno and house artist based in Germany, with 281 gigs on soun
 
 Kobosil, I Hate Models, 999999999
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claracuve/)*

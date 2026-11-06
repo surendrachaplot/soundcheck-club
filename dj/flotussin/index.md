@@ -1,8 +1,8 @@
 # flotussin
 
-flotussin is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Halo Baltimore, Baltimore on Sat, 7 Nov 2026.
+flotussin is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Halo Baltimore, Baltimore on Sat, 7 Nov 2026.
 
-flotussin is a club and techno artist based in United States of America, with 102 gigs on soundcheck across Atlanta, Baltimore, Chicago and Dallas/Fort Worth and 9 more. Often billed alongside Tromac, DJ-SUN and Kotic Couture. Next up: Halo Baltimore, Baltimore on Sat 7 Nov.
+flotussin is a club and techno artist based in United States of America, with 103 gigs on soundcheck across Atlanta, Baltimore, Chicago and Dallas/Fort Worth and 9 more. Often billed alongside Tromac, DJ-SUN and Kotic Couture. Next up: Halo Baltimore, Baltimore on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ flotussin is a club and techno artist based in United States of America, with 10
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Halo Baltimore | Baltimore |
 | Sat, 14 Nov 2026 | Paragon | New York City |
+| Sat, 21 Nov 2026 | TRANSMISSION DC | Washington DC |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ flotussin is a club and techno artist based in United States of America, with 10
 
 Tromac, DJ-SUN, Kotic Couture
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flotussin/)*

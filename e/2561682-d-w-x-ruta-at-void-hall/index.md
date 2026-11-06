@@ -1,6 +1,6 @@
 # D@W x RUTA at Void Hall
 
-D@W x RUTA at Void Hall on Sat 21 Nov, Berlin. 8 artists: Dub Isotope, Juana Valeria, Marie Midori and Migz and 4 more. Bass and Broken Beat. See the line-up on soundcheck.
+D@W x RUTA at Void Hall on Sat 21 Nov, Berlin. 9 artists: Dub Isotope, Juana Valeria, Marie Midori and Migz and 5 more. Bass and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,5 +18,6 @@ D@W x RUTA at Void Hall on Sat 21 Nov, Berlin. 8 artists: Dub Isotope, Juana Val
 - N ska
 - Noise Casino
 - Portram
+- zitrolem
 
 *Source: [soundcheck](https://soundcheck.club/e/2561682-d-w-x-ruta-at-void-hall/)*

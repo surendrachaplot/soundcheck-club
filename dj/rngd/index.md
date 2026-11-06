@@ -1,6 +1,6 @@
 # RNGD
 
-RNGD is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at ELYSIUM SEVILLA, South on Fri, 1 Jan 2027.
+RNGD is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ELYSIUM SEVILLA, South on Fri, 1 Jan 2027.
 
 RNGD is a techno artist based in Spain, with 12 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Porto and 2 more. Often billed alongside Dj Manglés, Jesus Riaño and Aiken. Next up: ELYSIUM SEVILLA, South on Fri 1 Jan.
 
@@ -25,4 +25,4 @@ RNGD is a techno artist based in Spain, with 12 gigs on soundcheck across Amster
 
 Dj Manglés, Jesus Riaño, Aiken
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rngd/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rngd/)*

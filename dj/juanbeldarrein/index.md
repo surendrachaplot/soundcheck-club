@@ -1,6 +1,6 @@
 # JUAN BELDARREIN
 
-JUAN BELDARREIN is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Isabel Bar & Club, Madrid on Sat, 7 Nov 2026.
+JUAN BELDARREIN is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Isabel Bar & Club, Madrid on Sat, 7 Nov 2026.
 
 JUAN BELDARREIN is a progressive house and techno artist, with 8 gigs on soundcheck across Amsterdam and Madrid. Often billed alongside Unai García, Vico Deep and Javi Garza. Next up: Isabel Bar & Club, Madrid on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ JUAN BELDARREIN is a progressive house and techno artist, with 8 gigs on soundch
 
 Unai García, Vico Deep, Javi Garza
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanbeldarrein/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanbeldarrein/)*

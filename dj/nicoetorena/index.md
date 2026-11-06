@@ -1,6 +1,6 @@
 # Nico Etorena
 
-Nico Etorena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 13 Dec 2026.
+Nico Etorena is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 13 Dec 2026.
 
 Nico Etorena is a techno and house artist based in Uruguay, with 45 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 13 more. Often billed alongside EMilio, KABUTO and CRL. Next up: Vittoria Wharf Studio, London on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Nico Etorena is a techno and house artist based in Uruguay, with 45 gigs on soun
 
 EMilio (2), KABUTO, CRL (1)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoetorena/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicoetorena/)*

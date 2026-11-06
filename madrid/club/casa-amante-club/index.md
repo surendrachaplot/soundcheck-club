@@ -1,14 +1,13 @@
 # Casa Amante Club
 
-Casa Amante Club is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "CA: Maik Miroux" on Thu, 5 Nov 2026.
+Casa Amante Club is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "CA: Kara + Andrea Ariana" on Fri, 6 Nov 2026.
 
-Casa Amante Club is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including DAVID MEYER ., Daya Dadlani, JAVS and lebollet and 1 more. See dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
+Casa Amante Club is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including DAVID MEYER ., Daya Dadlani, JAVS and lebollet. See dates, start times and who's playing. Calle de Santiago, 3, 28013 Madrid, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | CA: Maik Miroux | Maik Miroux |
 | Fri, 6 Nov 2026 | CA: Kara + Andrea Ariana |  |
 | Sat, 7 Nov 2026 | CA: Carl Sant + Daya Dadlani | Daya Dadlani |
 | Sun, 8 Nov 2026 | TARDEO MIXTAPE | JAVS |
@@ -19,4 +18,4 @@ Casa Amante Club is a music venue in Madrid listed on soundcheck. 6 upcoming gig
 
 Calle de Santiago, 3, 28013 Madrid, España, Madrid
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/casa-amante-club/)*

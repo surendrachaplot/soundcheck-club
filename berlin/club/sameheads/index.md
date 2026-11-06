@@ -1,14 +1,13 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Bonkers Music Anniversay VII" on Thu, 5 Nov 2026.
+Sameheads is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "CUNTCORE with Dj handbag, FLOSS, Rakans, WHYTO" on Fri, 6 Nov 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Alexander Arpeggio, Amelia Holt, Yoshi (DE) and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Alexander Arpeggio, Amelia Holt, Yoshi (DE) and Andrea Zucca and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Bonkers Music Anniversay VII | Julia Konor, Ludviq, OTIS (3) |
 | Fri, 6 Nov 2026 | CUNTCORE with Dj handbag, FLOSS, Rakans, WHYTO | Dj handbag, FLOSS, Rakans |
 | Sat, 7 Nov 2026 | ELSI with Beppe Loda x Universal Waves (Record Release Party) | Beppe Loda, Denzel, Jimmie, Trent |
 | Thu, 12 Nov 2026 | KIMCHI RECORDS X Sameheads | IDA, Kim Bruun, Soliad |
@@ -18,9 +17,10 @@ Sameheads is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, wit
 | Fri, 27 Nov 2026 | HONEY TRAP | Amelia Holt, NAP (MX), Seth Magoon, SiSi (2), ZDBT |
 | Sat, 28 Nov 2026 | Have A Nice Day x Bite The Day with Idjut Boys, Sound Metaphors Djs and Spraoi Mór | Idjut Boys, Sound Metaphors Djs, Spraoi Mór |
 | Fri, 4 Dec 2026 | ZMAR x Sameheads | Andrea Zucca |
+| Fri, 11 Dec 2026 | Subject To Restrictions Discs pres. Nicolas Balmer • Jenne • SONOKI • Nive • Dominik André | Dominik André, Jenne, Nive, SONOKI |
 
 ## Address
 
 Richardstrasse 10; Neukölln; 12043 Berlin; Germany, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/sameheads/)*

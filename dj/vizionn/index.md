@@ -1,14 +1,15 @@
 # vizionn
 
-vizionn is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tranzit, Hamburg on Fri, 6 Nov 2026.
+vizionn is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tranzit, Hamburg on Fri, 6 Nov 2026.
 
-vizionn is a techno and trance artist based in France, with 83 gigs on soundcheck across Antwerp, Basel, Beijing and Berlin and 36 more. Often billed alongside DJ Reiz, The Jakob Sister and Parfait. Next up: Tranzit, Hamburg on Fri 6 Nov.
+vizionn is a techno and trance artist based in France, with 84 gigs on soundcheck across Antwerp, Basel, Beijing and Berlin and 36 more. Often billed alongside DJ Reiz, The Jakob Sister and Parfait. Next up: Tranzit, Hamburg on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Tranzit | Hamburg |
+| Sun, 6 Dec 2026 | La Cité Fertile | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ vizionn is a techno and trance artist based in France, with 83 gigs on soundchec
 
 DJ Reiz, The Jakob Sister, Parfait
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vizionn/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vizionn/)*

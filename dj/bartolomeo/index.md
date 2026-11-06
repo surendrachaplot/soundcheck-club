@@ -1,6 +1,6 @@
 # Bartolomeo
 
-Bartolomeo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
+Bartolomeo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
 
 Bartolomeo is a house and techno artist based in Italy, with 35 gigs on soundcheck across Barcelona, Berlin, Dubai and Florence and 10 more. Often billed alongside Damian Lazarus, Black Coffee and AGELESS. Next up: Club Twentyone, Florence on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Bartolomeo is a house and techno artist based in Italy, with 35 gigs on soundche
 
 Damian Lazarus, Black Coffee, AGELESS
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bartolomeo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bartolomeo/)*

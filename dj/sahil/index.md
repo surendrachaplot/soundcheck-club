@@ -1,6 +1,6 @@
 # Sahil
 
-Sahil is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
+Sahil is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Rolling Stock, London on Fri, 4 Dec 2026.
 
 Sahil is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Josh German, Rodney and A Hard Day's Dance. Next up: Rolling Stock, London on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sahil is a house and tech house artist based in United Kingdom, with 9 gigs on s
 
 Josh German, Rodney (3), A Hard Day's Dance
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sahil/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sahil/)*

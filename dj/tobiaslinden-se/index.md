@@ -1,14 +1,15 @@
 # Tobias Lindén
 
-Tobias Lindén is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Lions Den, Miami on Sat, 7 Nov 2026.
+Tobias Lindén is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Outer Heaven, New York City on Wed, 11 Nov 2026.
 
-Tobias Lindén is a house and deep house artist based in Sweden, with 33 gigs on soundcheck across Berlin, Lisbon, Miami and New York City and 4 more. Often billed alongside Daniel Bertholdsson, O.BEE and Tomas Station. Next up: Lions Den, Miami on Sat 7 Nov.
+Tobias Lindén is a house and deep house artist based in Sweden, with 34 gigs on soundcheck across Berlin, Lisbon, Miami and New York City and 4 more. Often billed alongside Daniel Bertholdsson, O.BEE and Tomas Station. Next up: Outer Heaven, New York City on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Lions Den | Miami |
+| Wed, 11 Nov 2026 | Outer Heaven | New York City |
+| Fri, 13 Nov 2026 | Lions Den | Miami |
 | Sat, 14 Nov 2026 | Flash | Washington DC |
 
 ## Recently played
@@ -26,4 +27,4 @@ Tobias Lindén is a house and deep house artist based in Sweden, with 33 gigs on
 
 Daniel Bertholdsson, O.BEE, Tomas Station
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslinden-se/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiaslinden-se/)*

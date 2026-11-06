@@ -1,6 +1,6 @@
 # Inpulse
 
-Inpulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Switch Bar, Barcelona on Fri, 6 Nov 2026.
+Inpulse is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Switch Bar, Barcelona on Fri, 6 Nov 2026.
 
 Inpulse is a techno and house artist based in Spain, with 52 gigs on soundcheck across Barcelona. Often billed alongside Baffa, DJ MELEJ and Onoffon. Next up: Switch Bar, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Inpulse is a techno and house artist based in Spain, with 52 gigs on soundcheck 
 
 Baffa, DJ MELEJ, Onoffon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inpulse/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inpulse/)*

@@ -1,6 +1,6 @@
 # Estúdio Lâmina
 
-Estúdio Lâmina is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "BADROOM, BAILEÁRICA e ERRADA APRESENTAM: TECNOMA" on Sat, 24 Oct 2026.
+Estúdio Lâmina is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Badroom, Baileárica E Errada Apresentam: Tecnoma" on Fri, 6 Nov 2026.
 
 Estúdio Lâmina is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Av. São João, 108 - 41 - Centro Histórico de São Paulo, São Paulo - SP, 01036-000.
 
@@ -8,10 +8,10 @@ Estúdio Lâmina is a music venue in Sao Paulo listed on soundcheck. 1 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | BADROOM, BAILEÁRICA e ERRADA APRESENTAM: TECNOMA |  |
+| Fri, 6 Nov 2026 | Badroom, Baileárica E Errada Apresentam: Tecnoma |  |
 
 ## Address
 
 Av. São João, 108 - 41 - Centro Histórico de São Paulo, São Paulo - SP, 01036-000, Sao Paulo
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/est-dio-l-mina/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/est-dio-l-mina/)*

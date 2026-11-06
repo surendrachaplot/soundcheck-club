@@ -1,6 +1,6 @@
 # Basswell
 
-Basswell is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Arts Club, Liverpool on Fri, 6 Nov 2026.
+Basswell is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Arts Club, Liverpool on Fri, 6 Nov 2026.
 
 Basswell is a techno and trance artist based in France, with 185 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 63 more. Often billed alongside Shlømo, Alignment and DYEN. Next up: Arts Club, Liverpool on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Basswell is a techno and trance artist based in France, with 185 gigs on soundch
 
 Shlømo, Alignment, DYEN
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basswell/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/basswell/)*

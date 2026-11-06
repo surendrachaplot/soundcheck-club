@@ -1,6 +1,6 @@
 # BROOS
 
-BROOS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at De Kreun, Belgium on Fri, 11 Dec 2026.
+BROOS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at De Kreun, Belgium on Fri, 11 Dec 2026.
 
 BROOS is a techno and trance artist based in Belgium, with 9 gigs on soundcheck across Antwerp, Belgium and Ghent. Often billed alongside MOKER, Matthias Geerts and AEREA. Next up: De Kreun, Belgium on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ BROOS is a techno and trance artist based in Belgium, with 9 gigs on soundcheck 
 
 MOKER, Matthias Geerts, AEREA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/broos/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/broos/)*

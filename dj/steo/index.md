@@ -1,14 +1,15 @@
 # Steo
 
-Steo is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Connollys of Leap, Cork on Fri, 11 Dec 2026.
+Steo is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Connollys of Leap, Cork on Fri, 11 Dec 2026.
 
-Steo is a drum & bass and techno artist based in Ireland, with 16 gigs on soundcheck across Amsterdam, Cork, Dublin and Istanbul and 2 more. Often billed alongside Lenzman, MC Fox and Zero T. Next up: Connollys of Leap, Cork on Fri 11 Dec.
+Steo is a drum & bass and techno artist based in Ireland, with 17 gigs on soundcheck across Amsterdam, Cork, Dublin and Istanbul and 2 more. Often billed alongside Lenzman, MC Fox and Zero T. Next up: Connollys of Leap, Cork on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Connollys of Leap | Cork |
+| Sat, 23 Jan 2027 | Phonox | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Steo is a drum & bass and techno artist based in Ireland, with 16 gigs on soundc
 
 Lenzman, MC Fox, Zero T
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steo/)*

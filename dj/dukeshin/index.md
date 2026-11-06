@@ -1,15 +1,18 @@
 # Duke Shin
 
-Duke Shin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Podlasie Club, Chicago on Fri, 6 Nov 2026.
+Duke Shin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Podlasie Club, Chicago on Fri, 6 Nov 2026.
 
-Duke Shin is a house and techno artist based in United States of America, with 135 gigs on soundcheck across Chicago, Detroit, New Orleans and San Diego. Often billed alongside Gene Hunt, Adorio and Merrick Brown. Next up: Podlasie Club, Chicago on Fri 6 Nov.
+Duke Shin is a house and techno artist based in United States of America, with 138 gigs on soundcheck across Chicago, Detroit, New Orleans and San Diego. Often billed alongside Gene Hunt, Adorio and Jevon Jackson. Next up: Podlasie Club, Chicago on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Podlasie Club | Chicago |
+| Thu, 12 Nov 2026 | Swig | Chicago |
 | Sat, 14 Nov 2026 | TBA | Chicago |
+| Thu, 19 Nov 2026 | Swig | Chicago |
+| Wed, 25 Nov 2026 | Swig | Chicago |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ Duke Shin is a house and techno artist based in United States of America, with 1
 
 ## Shares bills with
 
-Gene Hunt, Adorio, Merrick Brown
+Gene Hunt, Adorio, Jevon Jackson
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeshin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dukeshin/)*

@@ -1,6 +1,6 @@
 # Josh Tong
 
-Josh Tong is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Venue, Chicago on Sat, 14 Nov 2026.
+Josh Tong is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Venue, Chicago on Sat, 14 Nov 2026.
 
 Josh Tong is a techno and house artist based in United States of America, with 47 gigs on soundcheck across Chicago, Detroit and Minneapolis/St Paul. Often billed alongside Shanti, barbuhh and Brenda. Next up: TBA - Secret Venue, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Josh Tong is a techno and house artist based in United States of America, with 4
 
 Shanti, barbuhh, Brenda
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtong/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshtong/)*

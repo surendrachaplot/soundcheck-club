@@ -1,6 +1,6 @@
 # Unknown Electronics 24 at OT301
 
-Unknown Electronics 24 at OT301 on Sat 28 Nov, Amsterdam. 3 artists: Lorenzo Donato, PERAMORE and Plastique01. See the line-up on soundcheck.
+Unknown Electronics 24 at OT301 on Sat 28 Nov, Amsterdam. 4 artists: Aria Marzen, Lorenzo Donato, PERAMORE and Plastique01. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Unknown Electronics 24 at OT301 on Sat 28 Nov, Amsterdam. 3 artists: Lorenzo Don
 
 ## Line-up
 
+- Aria Marzen
 - Lorenzo Donato
 - PERAMORE
 - Plastique01

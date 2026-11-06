@@ -1,8 +1,8 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+Ueberrest is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
-Ueberrest is a techno and trance artist based in Switzerland, with 128 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 54 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
+Ueberrest is a techno and trance artist based in Switzerland, with 129 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 54 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Ueberrest is a techno and trance artist based in Switzerland, with 128 gigs on s
 
 Kobosil, Somewhen, KUKO
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

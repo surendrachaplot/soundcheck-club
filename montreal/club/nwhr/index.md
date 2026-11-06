@@ -1,6 +1,6 @@
 # NWHR
 
-NWHR is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Speakeasy" on Fri, 6 Nov 2026.
+NWHR is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Speakeasy" on Fri, 6 Nov 2026.
 
 NWHR is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Justine Perry, FAMÜ, Markus Suckut and Mechanic (CA) and 2 more. See dates, start times and who's playing. 1055 St Laurent Blvd Montreal, QC H2Z 1J6.
 
@@ -22,4 +22,4 @@ NWHR is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with li
 
 1055 St Laurent Blvd Montreal, QC H2Z 1J6, Montreal
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/nwhr/)*

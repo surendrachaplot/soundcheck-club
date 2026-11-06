@@ -1,6 +1,6 @@
 # CJ Slayer
 
-CJ Slayer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 13 Nov 2026.
+CJ Slayer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 13 Nov 2026.
 
 CJ Slayer is a techno and house artist based in Australia, with 35 gigs on soundcheck across Melbourne. Often billed alongside CAITY WATSON, Matt Radovich and Mike Callander. Next up: QQQ ST. Park, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ CJ Slayer is a techno and house artist based in Australia, with 35 gigs on sound
 
 CAITY WATSON, Matt Radovich, Mike Callander
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjslayer/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjslayer/)*

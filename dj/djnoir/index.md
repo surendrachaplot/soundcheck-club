@@ -1,6 +1,6 @@
 # DJ Noir
 
-DJ Noir is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Paragon, New York City on Fri, 6 Nov 2026.
+DJ Noir is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Paragon, New York City on Fri, 6 Nov 2026.
 
 DJ Noir is a club and house artist based in United States of America, with 50 gigs on soundcheck across Los Angeles, New York City, San Diego and Seattle. Often billed alongside JAE JBW, Alleygorgon and TR-666. Next up: Paragon, New York City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Noir is a club and house artist based in United States of America, with 50 gi
 
 JAE JBW, Alleygorgon, TR-666
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoir/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoir/)*

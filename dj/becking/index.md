@@ -1,14 +1,15 @@
 # Becking
 
-Becking is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 6 Nov 2026.
+Becking is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Skatecafe, Amsterdam on Fri, 6 Nov 2026.
 
-Becking is a garage and bass artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: Skatecafe, Amsterdam on Fri 6 Nov.
+Becking is a garage and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Leeds and Manchester. Often billed alongside Kirilski, Pura Pachanga and Snooz. Next up: Skatecafe, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Skatecafe | Amsterdam |
+| Fri, 13 Nov 2026 | Yellow House | Amsterdam |
 | Fri, 13 Nov 2026 | Yellow House | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Becking is a garage and bass artist based in Netherlands, with 19 gigs on soundc
 
 Kirilski, Pura Pachanga, Snooz
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/becking/)*

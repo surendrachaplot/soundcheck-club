@@ -1,6 +1,6 @@
 # Gian-Paul
 
-Gian-Paul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at All My Friends, London on Sat, 7 Nov 2026.
+Gian-Paul is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at All My Friends, London on Sat, 7 Nov 2026.
 
 Gian-Paul is a house and techno artist based in United States of America, with 78 gigs on soundcheck across Amsterdam, Bologna, Denver and Edinburgh and 2 more. Often billed alongside Dayna C, Alien Communications and J. Richards. Next up: All My Friends, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Gian-Paul is a house and techno artist based in United States of America, with 7
 
 Dayna C, Alien Communications, J. Richards
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gian-paul/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gian-paul/)*

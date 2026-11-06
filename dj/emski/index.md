@@ -1,14 +1,15 @@
 # Emski
 
-Emski is a Garage and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Golden Gate, Berlin on Fri, 6 Nov 2026.
+Emski is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Golden Gate, Berlin on Fri, 6 Nov 2026.
 
-Emski is a garage and deep house artist based in Germany, with 9 gigs on soundcheck across Berlin, Bristol and New York City. Often billed alongside Thrilogy, Milly on Air and Bubski. Next up: Golden Gate, Berlin on Fri 6 Nov.
+Emski is a techno and garage artist based in Germany, with 10 gigs on soundcheck across Austin, Berlin, Bristol and New York City. Often billed alongside Thrilogy, Milly on Air and Bubski. Next up: Golden Gate, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Golden Gate | Berlin |
+| Fri, 20 Nov 2026 | Stardust Garage | Austin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Emski is a garage and deep house artist based in Germany, with 9 gigs on soundch
 
 Thrilogy, Milly on Air, Bubski
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emski/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emski/)*

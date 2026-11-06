@@ -1,6 +1,6 @@
 # Neue Welle
 
-Neue Welle is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Reconnect with Schwesta P" on Sat, 7 Nov 2026.
+Neue Welle is a music venue in Leipzig with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Reconnect with Schwesta P" on Sat, 7 Nov 2026.
 
 Neue Welle is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, with line-ups including adamoandiamo, André Dancekowski, BENITO (DE) and DJ G1NA R. and 2 more. See dates, start times and who's playing. Rolf-Axen-Strasse 35 04229 Leipzig, Germany.
 
@@ -18,4 +18,4 @@ Neue Welle is a music venue in Leipzig listed on soundcheck. 5 upcoming gigs, wi
 
 Rolf-Axen-Strasse 35 04229 Leipzig, Germany, Leipzig
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-welle/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/neue-welle/)*

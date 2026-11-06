@@ -1,6 +1,6 @@
 # Jenna
 
-Jenna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Nué Seoul, Seoul on Fri, 6 Nov 2026.
+Jenna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nué Seoul, Seoul on Fri, 6 Nov 2026.
 
 Jenna is a house and techno artist based in South Korea, with 22 gigs on soundcheck across Seoul. Often billed alongside Mignon, Sebibadboy and DJ Botermelk. Next up: Nué Seoul, Seoul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jenna is a house and techno artist based in South Korea, with 22 gigs on soundch
 
 Mignon (2), Sebibadboy, DJ Botermelk
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenna/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenna/)*

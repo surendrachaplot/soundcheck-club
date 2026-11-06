@@ -1,6 +1,6 @@
 # Cieloterra
 
-Cieloterra is a music venue in Rome with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "TEK-HOLE pres LAMANNA" on Fri, 6 Nov 2026.
+Cieloterra is a music venue in Rome with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "TEK-HOLE pres LAMANNA" on Fri, 6 Nov 2026.
 
 Cieloterra is a music venue in Rome listed on soundcheck. 9 upcoming gigs, with line-ups including Antonio De Angelis, ANXHELA, BIIA and Ellen Allien and 2 more. See dates, start times and who's playing. Via Di Portonaccio 23/B - 00159 Roma (RM), Italy.
 
@@ -22,4 +22,4 @@ Cieloterra is a music venue in Rome listed on soundcheck. 9 upcoming gigs, with 
 
 Via Di Portonaccio 23/B - 00159 Roma (RM), Italy, Rome
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cieloterra/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/cieloterra/)*

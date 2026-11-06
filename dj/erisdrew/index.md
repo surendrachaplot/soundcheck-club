@@ -1,8 +1,8 @@
 # Eris Drew
 
-Eris Drew is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Eris Drew is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Eris Drew is a house and techno artist based in United States of America, with 207 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 66 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Eris Drew is a house and techno artist based in United States of America, with 209 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 66 more. Often billed alongside Octo Octa, CCL and Mike Servito. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -14,12 +14,15 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 | Sun, 8 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 14 Nov 2026 | Lx Factory | Lisbon |
 | Sun, 15 Nov 2026 | Secret Location | London |
+| Sat, 19 Dec 2026 | smartbar | Chicago |
 | Wed, 30 Dec 2026 | TBA | Minneapolis/St Paul |
 | Thu, 31 Dec 2026 | Tangent Gallery | Detroit |
+| Thu, 31 Dec 2026 | Nowadays | New York City |
 | Thu, 22 Jul 2027 | Great Fulford | West-wales |
 
 ## Recently played
 
+- TivoliVredenburg, Utrecht · Thu, 5 Nov 2026
 - Tangent Gallery, Detroit · Sat, 31 Oct 2026
 - Tangent Gallery, Detroit · Fri, 30 Oct 2026
 - Skatecafe, Amsterdam · Sun, 25 Oct 2026
@@ -27,10 +30,9 @@ Eris Drew is a house and techno artist based in United States of America, with 2
 - Het Rijk van de Keizer, Amsterdam · Fri, 23 Oct 2026
 - Iter Tenerife, Canary-islands · Fri, 16 Oct 2026
 - NUMBER 90 LONDON, London · Thu, 15 Oct 2026
-- Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Octo Octa, CCL, Mike Servito
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erisdrew/)*

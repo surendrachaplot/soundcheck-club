@@ -1,6 +1,6 @@
 # Mains D'œuvres
 
-Mains D'œuvres is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "NZE NZE, Malesa, HLM38, dominica dies" on Sat, 28 Nov 2026.
+Mains D'œuvres is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "NZE NZE, Malesa, HLM38, dominica dies" on Sat, 28 Nov 2026.
 
 Mains D'œuvres is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Malesa and NZE NZE. See dates, start times and who's playing. 1 Rue Charles Garnier, 93400 Saint-Ouen, France.
 
@@ -14,4 +14,4 @@ Mains D'œuvres is a music venue in Paris listed on soundcheck. 1 upcoming gig, 
 
 1 Rue Charles Garnier, 93400 Saint-Ouen, France, Paris
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mains-d-uvres/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/mains-d-uvres/)*

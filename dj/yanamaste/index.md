@@ -1,8 +1,8 @@
 # Yanamaste
 
-Yanamaste is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
+Yanamaste is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
 
-Yanamaste is a techno and house artist based in Georgia, with 273 gigs on soundcheck across Alicante, Amsterdam, Athens and Atlanta and 78 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
+Yanamaste is a techno and house artist based in Georgia, with 274 gigs on soundcheck across Alicante, Amsterdam, Athens and Atlanta and 79 more. Often billed alongside Alarico, Chlär and Grace Dahl. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Yanamaste is a techno and house artist based in Georgia, with 273 gigs on soundc
 
 Alarico, Chlär, Grace Dahl
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yanamaste/)*

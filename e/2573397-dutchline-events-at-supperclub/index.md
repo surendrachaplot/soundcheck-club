@@ -1,6 +1,6 @@
 # Dutchline Events at Supperclub
 
-Dutchline Events at Supperclub on Sat 5 Dec, Amsterdam. See the line-up on soundcheck.
+Dutchline Events at Supperclub on Sat 5 Dec, Amsterdam. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

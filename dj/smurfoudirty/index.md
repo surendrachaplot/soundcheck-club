@@ -1,6 +1,6 @@
 # SMURFOUDIRTY
 
-SMURFOUDIRTY is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Jupiter Disco, New York City on Sat, 21 Nov 2026.
+SMURFOUDIRTY is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Jupiter Disco, New York City on Sat, 21 Nov 2026.
 
 SMURFOUDIRTY is a house and disco artist based in United States of America, with 51 gigs on soundcheck across New York City. Often billed alongside Regis Noir, Deo'jorge and Anna Collecta. Next up: Jupiter Disco, New York City on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ SMURFOUDIRTY is a house and disco artist based in United States of America, with
 
 Regis Noir, Deo'jorge, Anna Collecta
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smurfoudirty/)*

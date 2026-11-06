@@ -1,6 +1,6 @@
 # Pazmal
 
-Pazmal is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Supernatural Haus, Miami on Fri, 6 Nov 2026.
+Pazmal is a Reggaeton and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Supernatural Haus, Miami on Fri, 6 Nov 2026.
 
 Pazmal is a reggaeton and neo perreo artist, with 16 gigs on soundcheck across Miami. Often billed alongside 74.97, Dotson and GRUE5OME. Next up: Supernatural Haus, Miami on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Pazmal is a reggaeton and neo perreo artist, with 16 gigs on soundcheck across M
 
 74.97, Dotson, GRUE5OME
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pazmal/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pazmal/)*

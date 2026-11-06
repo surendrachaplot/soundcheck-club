@@ -1,6 +1,6 @@
 # JOFF.
 
-JOFF. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Madame, Porto on Sat, 7 Nov 2026.
+JOFF. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Madame, Porto on Sat, 7 Nov 2026.
 
 JOFF. is a techno and house artist based in Portugal, with 13 gigs on soundcheck across Barcelona and Porto. Often billed alongside 9T2, Carlos Regadas and Christallo. Next up: Club Madame, Porto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ JOFF. is a techno and house artist based in Portugal, with 13 gigs on soundcheck
 
 9T2, Carlos Regadas, Christallo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joff./)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joff./)*

@@ -1,6 +1,6 @@
 # HOLDKEDVESET
 
-HOLDKEDVESET is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Secret Location, London on Thu, 19 Nov 2026.
+HOLDKEDVESET is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Secret Location, London on Thu, 19 Nov 2026.
 
 HOLDKEDVESET is a techno and industrial artist, with 8 gigs on soundcheck across Istanbul, London and Tbilisi. Often billed alongside kasra4k7, B-DRIVE and Farbodarwish. Next up: Secret Location, London on Thu 19 Nov.
 
@@ -24,4 +24,4 @@ HOLDKEDVESET is a techno and industrial artist, with 8 gigs on soundcheck across
 
 kasra4k7, B-DRIVE, Farbodarwish
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holdkedveset/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holdkedveset/)*

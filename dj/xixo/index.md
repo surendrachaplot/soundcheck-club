@@ -1,6 +1,6 @@
 # Xixo
 
-Xixo is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Pistil, Seoul on Fri, 6 Nov 2026.
+Xixo is a Bass and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pistil, Seoul on Fri, 6 Nov 2026.
 
 Xixo is a bass and club artist based in South Korea, with 7 gigs on soundcheck across Seoul. Often billed alongside KISEWA, KING SHE and Kitty. Next up: Pistil, Seoul on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Xixo is a bass and club artist based in South Korea, with 7 gigs on soundcheck a
 
 KISEWA, KING SHE, Kitty
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xixo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xixo/)*

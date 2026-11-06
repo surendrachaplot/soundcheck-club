@@ -1,6 +1,6 @@
 # Flava D
 
-Flava D is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 6 Nov 2026.
+Flava D is a Drum & Bass and Bass artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 6 Nov 2026.
 
 Flava D is a drum & bass and bass artist based in United Kingdom, with 116 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 40 more. Often billed alongside Andy C, P Money and Whiney. Next up: Razzmatazz, Barcelona on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Flava D is a drum & bass and bass artist based in United Kingdom, with 116 gigs 
 
 Andy C, P Money, Whiney
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flavad/)*

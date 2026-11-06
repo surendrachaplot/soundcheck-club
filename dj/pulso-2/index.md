@@ -1,6 +1,6 @@
 # Pulso (2)
 
-Pulso (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Under Club, Buenos Aires on Fri, 6 Nov 2026.
+Pulso (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Under Club, Buenos Aires on Fri, 6 Nov 2026.
 
 Pulso is a techno and club artist based in Argentina, with 27 gigs on soundcheck across Amsterdam, Beijing, Bogotá and Boston and 9 more. Often billed alongside DJ Crimson, HVL and Indirect Movement. Next up: Under Club, Buenos Aires on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Pulso is a techno and club artist based in Argentina, with 27 gigs on soundcheck
 
 DJ Crimson, HVL, Indirect Movement
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pulso-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pulso-2/)*

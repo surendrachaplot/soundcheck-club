@@ -1,6 +1,6 @@
 # P.O.U
 
-P.O.U is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ministry Of Sound, London on Sat, 7 Nov 2026.
+P.O.U is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ministry Of Sound, London on Sat, 7 Nov 2026.
 
 P.O.U is a techno and tech house artist based in Ireland, with 32 gigs on soundcheck across Amsterdam, Dublin, Geneva and Ibiza and 2 more. Often billed alongside Ginchy, Desyfer and Leena Punks. Next up: Ministry Of Sound, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ P.O.U is a techno and tech house artist based in Ireland, with 32 gigs on soundc
 
 Ginchy, Desyfer, Leena Punks
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p.o.u/)*

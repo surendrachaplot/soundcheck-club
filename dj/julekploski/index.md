@@ -1,14 +1,15 @@
 # julek ploski
 
-julek ploski is a Experimental and Post-Punk artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat, 7 Nov 2026.
+julek ploski is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat, 7 Nov 2026.
 
-julek ploski is an experimental and post-punk artist based in Poland, with 34 gigs on soundcheck across Belgrade, Berlin, Brussels and Budapest and 10 more. Often billed alongside 2K88, Emma DJ and Hermeneia. Next up: Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat 7 Nov.
+julek ploski is an experimental and club artist based in Poland, with 35 gigs on soundcheck across Belgrade, Berlin, Brussels and Budapest and 11 more. Often billed alongside 2K88, Emma DJ and Hermeneia. Next up: Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Kino Iluzjon Muzeum Sztuki Filmowej | Warsaw |
+| Sat, 28 Nov 2026 | SB – Space Between | Nürnberg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ julek ploski is an experimental and post-punk artist based in Poland, with 34 gi
 
 2K88, Emma DJ, Hermeneia
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julekploski/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julekploski/)*

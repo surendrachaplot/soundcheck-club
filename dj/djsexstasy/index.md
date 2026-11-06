@@ -1,6 +1,6 @@
 # DJ SEXSTASY
 
-DJ SEXSTASY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Los Angeles on Fri, 6 Nov 2026.
+DJ SEXSTASY is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Los Angeles on Fri, 6 Nov 2026.
 
 DJ SEXSTASY is a techno and trance artist based in Brazil, with 51 gigs on soundcheck across Amsterdam, Atlanta, Austin and Berlin and 19 more. Often billed alongside Rishka, Towicz and Cara Elizabeth. Next up: TBA, Los Angeles on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ DJ SEXSTASY is a techno and trance artist based in Brazil, with 51 gigs on sound
 
 Rishka, Towicz, Cara Elizabeth
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsexstasy/)*

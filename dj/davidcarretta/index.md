@@ -1,6 +1,6 @@
 # David Carretta
 
-David Carretta is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Virage, Paris on Fri, 6 Nov 2026.
+David Carretta is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Virage, Paris on Fri, 6 Nov 2026.
 
 David Carretta is an electro and ebm artist based in France, with 24 gigs on soundcheck across Barcelona, Berlin, Bucharest and Istanbul and 6 more. Often billed alongside Paty Vapor, Paty and Berlin Bunny. Next up: Virage, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ David Carretta is an electro and ebm artist based in France, with 24 gigs on sou
 
 Paty Vapor, Paty, Berlin Bunny
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcarretta/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidcarretta/)*

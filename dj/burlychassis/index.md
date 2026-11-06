@@ -1,6 +1,6 @@
 # Burly Chassis
 
-Burly Chassis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Loco Klub, Bristol on Fri, 4 Dec 2026.
+Burly Chassis is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Loco Klub, Bristol on Fri, 4 Dec 2026.
 
 Burly Chassis is a house and disco artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, Cardiff, London and Nottingham. Often billed alongside SPICYIVY, Safiye and Brad Bradley. Next up: The Loco Klub, Bristol on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Burly Chassis is a house and disco artist based in United Kingdom, with 21 gigs 
 
 SPICYIVY, Safiye, Brad Bradley
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burlychassis/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burlychassis/)*

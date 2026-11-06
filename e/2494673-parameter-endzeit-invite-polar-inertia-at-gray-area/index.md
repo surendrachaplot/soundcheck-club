@@ -1,6 +1,6 @@
 # Parameter & Endzeit Invite Polar Inertia at Gray Area
 
-Parameter & Endzeit Invite Polar Inertia at Gray Area on Fri 6 Nov, San Francisco/Oakland. 4 artists: .VRIL, Amma Ateria, Polar Inertia and Subversive. Techno and Experimental. See the line-up on soundcheck.
+Parameter & Endzeit Invite Polar Inertia at Gray Area on Fri 6 Nov, San Francisco/Oakland. 5 artists: .VRIL, Amma Ateria, Innersha and Polar Inertia and 1 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Parameter & Endzeit Invite Polar Inertia at Gray Area on Fri 6 Nov, San Francisc
 
 - .VRIL
 - Amma Ateria
+- Innersha
 - Polar Inertia
 - Subversive
 

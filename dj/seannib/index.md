@@ -1,14 +1,15 @@
 # Seanni B
 
-Seanni B is a Club and Breakcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The High Dive, Detroit on Sat, 7 Nov 2026.
+Seanni B is a Club and Breakcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The High Dive, Detroit on Sat, 7 Nov 2026.
 
-Seanni B is a club and breakcore artist based in United States of America, with 50 gigs on soundcheck across Chicago, Detroit and Philadelphia. Often billed alongside Obi-Wan Shinobi, Kuuma and madeofants. Next up: The High Dive, Detroit on Sat 7 Nov.
+Seanni B is a club and breakcore artist based in United States of America, with 51 gigs on soundcheck across Chicago, Detroit and Philadelphia. Often billed alongside Obi-Wan Shinobi, Kuuma and madeofants. Next up: The High Dive, Detroit on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The High Dive | Detroit |
+| Sat, 28 Nov 2026 | TBA | Detroit |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Seanni B is a club and breakcore artist based in United States of America, with 
 
 Obi-Wan Shinobi, Kuuma, madeofants
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seannib/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seannib/)*

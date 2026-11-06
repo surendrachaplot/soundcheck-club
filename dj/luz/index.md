@@ -1,6 +1,6 @@
 # Luz
 
-Luz is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Macadam, Nantes on Sat, 30 Jan 2027.
+Luz is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Macadam, Nantes on Sat, 30 Jan 2027.
 
 Luz is a house and bass artist based in Germany, with 12 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Leipzig and 4 more. Often billed alongside Stella Zekri, rRoxymore and BLEID. Next up: Macadam, Nantes on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Luz is a house and bass artist based in Germany, with 12 gigs on soundcheck acro
 
 Stella Zekri, rRoxymore, BLEID
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luz/)*

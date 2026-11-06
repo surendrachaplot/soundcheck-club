@@ -1,6 +1,6 @@
 # Coven HQ
 
-Coven HQ is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "COVEN presents: Trojan Takeover - TEASE" on Sat, 28 Nov 2026.
+Coven HQ is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "COVEN presents: Trojan Takeover - TEASE" on Sat, 28 Nov 2026.
 
 Coven HQ is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 30 Old Compton Street, W1D 4UR, London, UK.
 
@@ -14,4 +14,4 @@ Coven HQ is a music venue in London listed on soundcheck. 1 upcoming gig. See da
 
 30 Old Compton Street, W1D 4UR, London, UK, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/coven-hq/)*

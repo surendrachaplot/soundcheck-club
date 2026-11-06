@@ -1,6 +1,6 @@
 # Mooi Space
 
-Mooi Space is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "HEADACHE LIVE AT Mooi Space" on Sat, 7 Nov 2026.
+Mooi Space is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "HEADACHE LIVE AT Mooi Space" on Sat, 7 Nov 2026.
 
 Mooi Space is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including AceMo, amil raja, Chinelo and GOVI and 2 more. See dates, start times and who's playing. 75 Pelham Avenue, Toronto, ON, M6N1A5.
 
@@ -17,4 +17,4 @@ Mooi Space is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, wi
 
 75 Pelham Avenue, Toronto, ON, M6N1A5, Toronto
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/mooi-space/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/mooi-space/)*

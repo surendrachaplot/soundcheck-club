@@ -1,6 +1,6 @@
 # Sazky
 
-Sazky is a Electronica and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at berlinClub, Madrid on Sun, 8 Nov 2026.
+Sazky is a Electronica and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at berlinClub, Madrid on Sun, 8 Nov 2026.
 
 Sazky is an electronica and progressive house artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside Mar Bravo, Raisa and Djen. Next up: berlinClub, Madrid on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Sazky is an electronica and progressive house artist based in Spain, with 9 gigs
 
 Mar Bravo, Raisa, Djen
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sazky/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sazky/)*

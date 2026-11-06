@@ -1,6 +1,6 @@
 # Kieran Apter
 
-Kieran Apter is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 7 Nov 2026.
+Kieran Apter is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 7 Nov 2026.
 
 Kieran Apter is a house and club artist, with 14 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside Alexis Raphael, Lovebirds and Ben Pearce. Next up: Cabaret Voltaire, Edinburgh on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kieran Apter is a house and club artist, with 14 gigs on soundcheck across Edinb
 
 Alexis Raphael, Lovebirds, Ben Pearce
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kieranapter/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kieranapter/)*

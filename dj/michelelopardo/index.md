@@ -1,6 +1,6 @@
 # Michele Lopardo
 
-Michele Lopardo is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Chiesa delle Crocelle ai Mannesi, Naples on Sun, 8 Nov 2026.
+Michele Lopardo is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Chiesa delle Crocelle ai Mannesi, Naples on Sun, 8 Nov 2026.
 
 Michele Lopardo is a tech house and house artist based in Italy, with 9 gigs on soundcheck across Naples. Often billed alongside EKSPO, ALISHA and Aga. Next up: TBA - Chiesa delle Crocelle ai Mannesi, Naples on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Michele Lopardo is a tech house and house artist based in Italy, with 9 gigs on 
 
 EKSPO, ALISHA, Aga
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michelelopardo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michelelopardo/)*

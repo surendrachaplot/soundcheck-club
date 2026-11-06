@@ -1,6 +1,6 @@
 # THF Radio / Torhaus
 
-THF Radio / Torhaus is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Habitus at THF Radio" on Fri, 6 Nov 2026.
+THF Radio / Torhaus is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Habitus at THF Radio" on Fri, 6 Nov 2026.
 
 THF Radio / Torhaus is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including alizé.e, APRS, Arnav and cowtome and 2 more. See dates, start times and who's playing. Columbiadamm 10 12101 Berlin.
 
@@ -15,4 +15,4 @@ THF Radio / Torhaus is a music venue in Berlin listed on soundcheck. 2 upcoming 
 
 Columbiadamm 10 12101 Berlin, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/thf-radio-torhaus/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/thf-radio-torhaus/)*

@@ -1,6 +1,6 @@
 # Abyss Shanghai
 
-Abyss Shanghai is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "FāQ: 2 Years Anniversary w. Jovynn" on Fri, 6 Nov 2026.
+Abyss Shanghai is a music venue in Shanghai with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "FāQ: 2 Years Anniversary w. Jovynn" on Fri, 6 Nov 2026.
 
 Abyss Shanghai is a music venue in Shanghai listed on soundcheck. 2 upcoming gigs, with line-ups including DISCIPLINE, DJ Tallboy, Fischmonger and Hazel and 2 more. See dates, start times and who's playing. B1, TX Huaihai Youth Center, No.523-527, Huaihai Road, Huangpu District, Shanghai, China.
 
@@ -15,4 +15,4 @@ Abyss Shanghai is a music venue in Shanghai listed on soundcheck. 2 upcoming gig
 
 B1, TX Huaihai Youth Center, No.523-527, Huaihai Road, Huangpu District, Shanghai, China, Shanghai
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/abyss-shanghai/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/abyss-shanghai/)*

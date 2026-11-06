@@ -1,6 +1,6 @@
 # Michi
 
-Michi is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Core, Madrid on Fri, 13 Nov 2026.
+Michi is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Core, Madrid on Fri, 13 Nov 2026.
 
 Michi is a tech house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Chicago, Madrid and Seattle and 2 more. Often billed alongside 2 Girls 1 Club, 300km/h and ANDI A.. Next up: Core, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Michi is a tech house and techno artist based in Germany, with 9 gigs on soundch
 
 2 Girls 1 Club, 300km/h, ANDI A.
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michi/)*

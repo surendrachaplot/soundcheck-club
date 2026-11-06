@@ -1,6 +1,6 @@
 # Franky Rizardo
 
-Franky Rizardo is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Franky Rizardo is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Franky Rizardo is a house and tech house artist based in Netherlands, with 268 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 57 more. Often billed alongside Marco Carola, East End Dubs and Mason Collective. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -34,4 +34,4 @@ Franky Rizardo is a house and tech house artist based in Netherlands, with 268 g
 
 Marco Carola, East End Dubs, Mason Collective
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankyrizardo/)*

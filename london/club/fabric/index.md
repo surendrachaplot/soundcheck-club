@@ -1,14 +1,13 @@
 # fabric
 
-fabric is a music venue in London with 28 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Loukeman" on Thu, 5 Nov 2026.
+fabric is a music venue in London with 32 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "FABRICLIVE: Keyrah B2B Izco, Karen Nyame KG Zengxrl, Lorkestra, Jack Bagshaw, SHAYK" on Fri, 6 Nov 2026.
 
-fabric is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including 2 Bad Mice, AAT (NL), Adam Clark and Alexis Raphael and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
+fabric is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including 2 Bad Mice, Mariiin, AAT (NL) and Adam Clark and 2 more. See dates, start times and who's playing. 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Loukeman | Loukeman |
 | Fri, 6 Nov 2026 | FABRICLIVE: Keyrah B2B Izco, Karen Nyame KG Zengxrl, Lorkestra, Jack Bagshaw, SHAYK | Daviaa, Flores, Izco, Karen Nyame KG, Keyrah, Lorkestra, Mithun, Zengxrl |
 | Sat, 7 Nov 2026 | fabric: Marcel Dettmann, Ellen Allien, Shonky, Marie Montexier, Josh Keit, Nate Oldfield + more | Ellen Allien, Jayson Wynters, Josh Keit, Marcel Dettmann, Marie Montexier, Nate Oldfield, Serenne, Shonky |
 | Sun, 8 Nov 2026 | CAYA by fabric: Step Inside x All Day  - Rossko, Charlie Rice, FLX, Kayleigh Maria, Nay Barr,  | Rossko, Scon |
@@ -18,9 +17,10 @@ fabric is a music venue in London listed on soundcheck. 28 upcoming gigs, with l
 | Sun, 15 Nov 2026 | CAYA by fabric: Serenity Records - Theo Kottis, Annie Errez, JUXTA | Annie Errez, JUXTA, Theo Kottis |
 | Fri, 20 Nov 2026 | AVAION, Notre Dame, LF SYSTEM, Eats Everything, REMIXIA, Hayley Zalassi + more | AVAION, Eats Everything, Hayley Zalassi, LF SYSTEM, Matteo Diop, Notre Dame, Parea, REMIXIA |
 | Sat, 21 Nov 2026 | fabric: Parallelle (Live), Krystal Klear, Inland Knights, Goosey, FIFI FORTE, Tommy Gold + more | Adam Clark, Amy Os, FIFI FORTE, Goosey, Inland Knights, James O'Connell, Joe Morgan, Krystal Klear, Parallelle, Sarah Jae, Tommy Gold |
+| Sun, 22 Nov 2026 | CAYA by fabric: Redefy - FLORA THA EXPLORA, mance, Mason Talbot B2B Newsham | FLORA THA EXPLORA, Mason Talbot, mance |
 
 ## Address
 
 77a Charterhouse St; Clerkenwell; London EC1M 6HJ; United Kingdom, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/fabric/)*

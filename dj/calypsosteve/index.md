@@ -1,6 +1,6 @@
 # Calypso Steve
 
-Calypso Steve is a Dub and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Transit, Amsterdam on Fri, 11 Dec 2026.
+Calypso Steve is a Dub and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Transit, Amsterdam on Fri, 11 Dec 2026.
 
 Calypso Steve is a dub and disco artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Satoshi Yamamura, Alexander Robotnick and BK OWUSU. Next up: Transit, Amsterdam on Fri 11 Dec.
 
@@ -23,4 +23,4 @@ Calypso Steve is a dub and disco artist based in Netherlands, with 7 gigs on sou
 
 Satoshi Yamamura, Alexander Robotnick, BK OWUSU
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calypsosteve/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calypsosteve/)*

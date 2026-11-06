@@ -1,6 +1,6 @@
 # PALMA
 
-PALMA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at ZeyZey, Miami on Sat, 7 Nov 2026.
+PALMA is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ZeyZey, Miami on Sat, 7 Nov 2026.
 
 PALMA is a house and afro house artist based in France, with 10 gigs on soundcheck across Amsterdam, Miami, New York City and Seattle. Often billed alongside AMÉMÉ, Antonio Estrada and CISUMMI. Next up: ZeyZey, Miami on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ PALMA is a house and afro house artist based in France, with 10 gigs on soundche
 
 AMÉMÉ, Antonio Estrada, CISUMMI
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmasoundsystem/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/palmasoundsystem/)*

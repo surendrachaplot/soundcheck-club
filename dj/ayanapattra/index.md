@@ -1,6 +1,6 @@
 # Ayana Pattra
 
-Ayana Pattra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at R Lounge, Tokyo on Fri, 13 Nov 2026.
+Ayana Pattra is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at R Lounge, Tokyo on Fri, 13 Nov 2026.
 
 Ayana Pattra is a techno and house artist based in Japan, with 37 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), Shun Kurashima and MOTOKA. Next up: R Lounge, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ayana Pattra is a techno and house artist based in Japan, with 37 gigs on soundc
 
 SIGNAL (JP), Shun Kurashima, MOTOKA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanapattra/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayanapattra/)*

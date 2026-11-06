@@ -1,6 +1,6 @@
 # Reshio
 
-Reshio is a Tech House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at B side Athens, Athens on Sat, 7 Nov 2026.
+Reshio is a Tech House and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at B side Athens, Athens on Sat, 7 Nov 2026.
 
 Reshio is a tech house and trance artist based in Georgia, with 50 gigs on soundcheck across Athens, Barcelona, Berlin and Krakow and 1 more. Often billed alongside Trotsky, Gio Shengelia and Mtvare. Next up: B side Athens, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Reshio is a tech house and trance artist based in Georgia, with 50 gigs on sound
 
 Trotsky, Gio Shengelia, Mtvare
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reshio/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reshio/)*

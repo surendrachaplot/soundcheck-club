@@ -1,8 +1,8 @@
 # VRTL
 
-VRTL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location NK, Berlin on Fri, 20 Nov 2026.
+VRTL is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location NK, Berlin on Fri, 20 Nov 2026.
 
-VRTL is a house and techno artist based in Germany, with 40 gigs on soundcheck across Berlin, Dresden and Paris. Often billed alongside Lixi, materia hache and Flemish.Fetish. Next up: TBA - Secret Location NK, Berlin on Fri 20 Nov.
+VRTL is a house and techno artist based in Germany, with 41 gigs on soundcheck across Berlin, Dresden and Paris. Often billed alongside Lixi, materia hache and Aunty Nora. Next up: TBA - Secret Location NK, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VRTL is a house and techno artist based in Germany, with 40 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | TBA - Secret Location NK | Berlin |
 | Sun, 22 Nov 2026 | Paloma | Berlin |
+| Sat, 5 Dec 2026 | KREUZWERK | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ VRTL is a house and techno artist based in Germany, with 40 gigs on soundcheck a
 
 ## Shares bills with
 
-Lixi, materia hache, Flemish.Fetish
+Lixi, materia hache, Aunty Nora
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vertel/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vertel/)*

@@ -1,14 +1,14 @@
 # Erin Page
 
-Erin Page is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, New York City on Fri, 6 Nov 2026.
+Erin Page is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 303 Ten Eyck St., New York City on Fri, 6 Nov 2026.
 
-Erin Page is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Baltimore, Miami, New York City and Washington DC. Often billed alongside Cobrastrk, DJ AstroNat and j:drive. Next up: TBA - Secret Location, New York City on Fri 6 Nov.
+Erin Page is a house and techno artist based in United States of America, with 26 gigs on soundcheck across Baltimore, Miami, New York City and Washington DC. Often billed alongside Cobrastrk, DJ AstroNat and j:drive. Next up: 303 Ten Eyck St., New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Secret Location | New York City |
+| Fri, 6 Nov 2026 | 303 Ten Eyck St. | New York City |
 | Thu, 3 Dec 2026 | The Ground at Club Space | Miami |
 
 ## Recently played
@@ -26,4 +26,4 @@ Erin Page is a house and techno artist based in United States of America, with 2
 
 Cobrastrk, DJ AstroNat, j:drive
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erinpage/)*

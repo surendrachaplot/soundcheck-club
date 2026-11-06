@@ -1,6 +1,6 @@
 # NYXEA
 
-NYXEA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
+NYXEA is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 21 Nov 2026.
 
 NYXEA is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin, Dortmund / Essen, Dresden and Düsseldorf. Often billed alongside Milchgeld, RHYTMOX and Texo. Next up: PKH Warehouse, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ NYXEA is a techno and trance artist based in Germany, with 20 gigs on soundcheck
 
 Milchgeld, RHYTMOX, Texo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*

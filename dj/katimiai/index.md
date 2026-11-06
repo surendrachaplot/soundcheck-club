@@ -1,6 +1,6 @@
 # KATIMI AI
 
-KATIMI AI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at DJ Bar Bridge, Tokyo on Thu, 12 Nov 2026.
+KATIMI AI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at DJ Bar Bridge, Tokyo on Thu, 12 Nov 2026.
 
 KATIMI AI is a house and techno artist based in Japan, with 143 gigs on soundcheck across Bangkok and Tokyo. Often billed alongside DJ Emma, Drunken Kong and Louis Shannon. Next up: DJ Bar Bridge, Tokyo on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ KATIMI AI is a house and techno artist based in Japan, with 143 gigs on soundche
 
 DJ Emma, Drunken Kong, Louis Shannon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katimiai/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katimiai/)*

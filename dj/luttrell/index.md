@@ -1,6 +1,6 @@
 # Luttrell
 
-Luttrell is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at It'll Do, Dallas/Fort Worth on Fri, 15 Jan 2027.
+Luttrell is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at It'll Do, Dallas/Fort Worth on Fri, 15 Jan 2027.
 
 Luttrell is a deep house and progressive house artist based in United States of America, with 54 gigs on soundcheck across Adelaide, Auckland, Austin and Baltimore and 21 more. Often billed alongside Jody Wisternoff, Hana and CRi. Next up: It'll Do, Dallas/Fort Worth on Fri 15 Jan.
 
@@ -25,4 +25,4 @@ Luttrell is a deep house and progressive house artist based in United States of 
 
 Jody Wisternoff, Hana, CRi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luttrell/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luttrell/)*

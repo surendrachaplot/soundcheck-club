@@ -1,6 +1,6 @@
 # Lauravioli
 
-Lauravioli is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at C12, Brussels on Fri, 6 Nov 2026.
+Lauravioli is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at C12, Brussels on Fri, 6 Nov 2026.
 
 Lauravioli is a house and bass artist based in Belgium, with 12 gigs on soundcheck across Antwerp, Brussels, Ghent and Paris. Often billed alongside KŌMA, séa (BE) and Adi. Next up: C12, Brussels on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Lauravioli is a house and bass artist based in Belgium, with 12 gigs on soundche
 
 KŌMA (3), séa (BE), Adi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lauravioli/)*

@@ -1,6 +1,6 @@
 # X Private Club
 
-X Private Club is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "IMTRUDER W/ Cristian Merino" on Fri, 6 Nov 2026.
+X Private Club is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "IMTRUDER W/ Cristian Merino" on Fri, 6 Nov 2026.
 
 X Private Club is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Albano Bastonero, Bianca, Cristian Merino and Fran Lobato and 2 more. See dates, start times and who's playing. Madrid.
 
@@ -17,4 +17,4 @@ X Private Club is a music venue in Madrid listed on soundcheck. 4 upcoming gigs,
 
 Madrid, Madrid
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/x-private-club/)*

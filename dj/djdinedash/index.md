@@ -1,6 +1,6 @@
 # DJ Dine & Dash
 
-DJ Dine & Dash is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Common/UNDRGRND, Calgary on Fri, 6 Nov 2026.
+DJ Dine & Dash is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Common/UNDRGRND, Calgary on Fri, 6 Nov 2026.
 
 DJ Dine & Dash are a house and disco duo based in Canada, with 9 gigs on soundcheck across Calgary. Often billed alongside DJ Hannah, A G E and DJ D.Dee. Next up: Common/UNDRGRND, Calgary on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Dine & Dash are a house and disco duo based in Canada, with 9 gigs on soundch
 
 DJ Hannah, A G E, DJ D.Dee
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdinedash/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdinedash/)*

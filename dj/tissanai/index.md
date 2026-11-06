@@ -1,6 +1,6 @@
 # Tissanai
 
-Tissanai is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Siwilai Radical Club, Bangkok on Fri, 6 Nov 2026.
+Tissanai is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Siwilai Radical Club, Bangkok on Fri, 6 Nov 2026.
 
 Tissanai is a house and techno artist based in Thailand, with 15 gigs on soundcheck across Bangkok, Chongqing, Kuala Lumpur and Thailand. Often billed alongside Meltmode, IYY (TH) and DOTT. Next up: Siwilai Radical Club, Bangkok on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Tissanai is a house and techno artist based in Thailand, with 15 gigs on soundch
 
 Meltmode (2), IYY (TH), DOTT
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tissanai/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tissanai/)*

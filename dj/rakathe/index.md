@@ -1,6 +1,6 @@
 # Rakäthe
 
-Rakäthe is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Rakäthe is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Rakäthe is a downtempo and deep house artist based in Germany, with 34 gigs on soundcheck across Berlin, Hamburg, Munich and Zurich. Often billed alongside Borella, Robin Dey and Chris Schwarzwälder. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Rakäthe is a downtempo and deep house artist based in Germany, with 34 gigs on 
 
 Borella, Robin Dey, Chris Schwarzwälder
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rakathe/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rakathe/)*

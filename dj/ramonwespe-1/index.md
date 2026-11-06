@@ -1,6 +1,6 @@
 # Ramon Wespe (1)
 
-Ramon Wespe (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
+Ramon Wespe (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kauz, Zurich on Sat, 7 Nov 2026.
 
 Ramon Wespe is a techno and house artist based in Switzerland, with 3 gigs on soundcheck across Zurich. Often billed alongside Juli Lee, fabulus and AVEM. Next up: Kauz, Zurich on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Ramon Wespe is a techno and house artist based in Switzerland, with 3 gigs on so
 
 Juli Lee, fabulus, AVEM
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonwespe-1/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ramonwespe-1/)*

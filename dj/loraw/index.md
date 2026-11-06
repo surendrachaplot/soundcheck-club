@@ -1,6 +1,6 @@
 # Loraw
 
-Loraw is a Techno and Hard Drum artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 6 Nov 2026.
+Loraw is a Techno and Hard Drum artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 6 Nov 2026.
 
 Loraw is a techno and hard drum artist based in Germany, with 18 gigs on soundcheck across Barcelona, Bogotá, Cologne and Düsseldorf and 6 more. Often billed alongside Ropemaker, I.D.A and LEDH. Next up: Lehmann Club, Stuttgart on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Loraw is a techno and hard drum artist based in Germany, with 18 gigs on soundch
 
 Ropemaker, I.D.A, LEDH
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loraw/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loraw/)*

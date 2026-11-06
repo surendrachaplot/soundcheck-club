@@ -1,6 +1,6 @@
 # Das Zimmer
 
-Das Zimmer is a music venue in Mannheim with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Rasselbande Showcase" on Fri, 6 Nov 2026.
+Das Zimmer is a music venue in Mannheim with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Rasselbande Showcase" on Fri, 6 Nov 2026.
 
 Das Zimmer is a music venue in Mannheim listed on soundcheck. 9 upcoming gigs, with line-ups including alejandrø, DJ Unholy, FENIM0RE and Karotte and 2 more. See dates, start times and who's playing. Q5 Passage 14-22, 68161, Mannheim.
 
@@ -22,4 +22,4 @@ Das Zimmer is a music venue in Mannheim listed on soundcheck. 9 upcoming gigs, w
 
 Q5 Passage 14-22, 68161, Mannheim, Mannheim
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/das-zimmer/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/mannheim/club/das-zimmer/)*

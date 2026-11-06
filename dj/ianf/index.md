@@ -1,6 +1,6 @@
 # Ian F
 
-Ian F is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kader Grad Kodeljevo, Ljubljana on Fri, 13 Nov 2026.
+Ian F is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kader Grad Kodeljevo, Ljubljana on Fri, 13 Nov 2026.
 
 Ian F is an electronica and house artist based in Slovenia, with 8 gigs on soundcheck across Ljubljana, Milan, Vienna and Zagreb. Often billed alongside Kosta, Lottie (SI) and Rayya. Next up: Kader Grad Kodeljevo, Ljubljana on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Ian F is an electronica and house artist based in Slovenia, with 8 gigs on sound
 
 Kosta, Lottie (SI), Rayya
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianf/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ianf/)*

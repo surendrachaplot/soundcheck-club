@@ -1,6 +1,6 @@
 # Brockney C
 
-Brockney C is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Horse & Groom, London on Fri, 6 Nov 2026.
+Brockney C is a Deep House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Horse & Groom, London on Fri, 6 Nov 2026.
 
 Brockney C is a deep house and tech house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Ace Shyllon, Dominique Danielle and Kryss Kelly. Next up: The Horse & Groom, London on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Brockney C is a deep house and tech house artist based in United Kingdom, with 3
 
 Ace Shyllon, Dominique Danielle, Kryss Kelly
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brockneyc/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brockneyc/)*

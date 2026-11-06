@@ -1,6 +1,6 @@
 # Porter Robinson
 
-Porter Robinson is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Porter Robinson is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 Porter Robinson is a house and bass artist based in United States of America, with 22 gigs on soundcheck across Austin, Boston, Chicago and Dallas/Fort Worth and 10 more. Often billed alongside Chris Lorenzo, Mau P and Max Styler. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Porter Robinson is a house and bass artist based in United States of America, wi
 
 Chris Lorenzo, Mau P, Max Styler
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/porterrobinson/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/porterrobinson/)*

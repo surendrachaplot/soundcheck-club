@@ -1,6 +1,6 @@
 # TBA - Cambridge Location
 
-TBA - Cambridge Location is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "New (U)ntitled" on Sat, 7 Nov 2026.
+TBA - Cambridge Location is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "New (U)ntitled" on Sat, 7 Nov 2026.
 
 TBA - Cambridge Location is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including RY (US). See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Cambridge Location is a music venue in Boston listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | New (U)ntitled | RY (US) |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-cambridge-location/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/boston/club/tba-cambridge-location/)*

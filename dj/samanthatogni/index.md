@@ -1,6 +1,6 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at FOLD, London on Fri, 13 Nov 2026.
+Samantha Togni is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FOLD, London on Fri, 13 Nov 2026.
 
 Samantha Togni is a techno and house artist based in United Kingdom, with 176 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 51 more. Often billed alongside Mar/us, Nanzhen Yang and Lewis G. Burton. Next up: FOLD, London on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Samantha Togni is a techno and house artist based in United Kingdom, with 176 gi
 
 Mar/us, Nanzhen Yang, Lewis G. Burton
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samanthatogni/)*

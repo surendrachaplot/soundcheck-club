@@ -1,6 +1,6 @@
 # Deer Jade
 
-Deer Jade is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Deer Jade is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Deer Jade is a house and techno artist based in Switzerland, with 124 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 37 more. Often billed alongside Adriatique, Ben Böhmer and LP Giobbi. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Deer Jade is a house and techno artist based in Switzerland, with 124 gigs on so
 
 Adriatique, Ben Böhmer, LP Giobbi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deerjade/)*

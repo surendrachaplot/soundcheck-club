@@ -1,6 +1,6 @@
 # Yamen & EDA
 
-Yamen & EDA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Weetamix, Geneva on Sat, 7 Nov 2026.
+Yamen & EDA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Weetamix, Geneva on Sat, 7 Nov 2026.
 
 Yamen & EDA are a house and techno duo, with 11 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Budapest and 4 more. Often billed alongside Poggio, ALINA and Alex Vincent. Next up: Weetamix, Geneva on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Yamen & EDA are a house and techno duo, with 11 gigs on soundcheck across Barcel
 
 Poggio, ALINA (3), Alex Vincent
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yameneda/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yameneda/)*

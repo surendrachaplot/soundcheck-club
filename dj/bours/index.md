@@ -1,13 +1,14 @@
 # Bours?
 
-Bours? is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at KABUL à GoGo, Utrecht on Fri, 13 Nov 2026.
+Bours? is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at glimmer, Hamburg on Fri, 6 Nov 2026.
 
-Bours? is a techno and trance artist based in France, with 121 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 46 more. Often billed alongside The Chronics, ØTTA and Alex Nantaya. Next up: KABUL à GoGo, Utrecht on Fri 13 Nov.
+Bours? is a techno and trance artist based in France, with 122 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 46 more. Often billed alongside The Chronics, ØTTA and Alex Nantaya. Next up: glimmer, Hamburg on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | glimmer | Hamburg |
 | Fri, 13 Nov 2026 | KABUL à GoGo | Utrecht |
 
 ## Recently played
@@ -25,4 +26,4 @@ Bours? is a techno and trance artist based in France, with 121 gigs on soundchec
 
 The Chronics, ØTTA, Alex Nantaya
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bours/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bours/)*

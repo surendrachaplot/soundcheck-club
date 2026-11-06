@@ -1,6 +1,6 @@
 # Plot 22
 
-Plot 22 is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Soul Mass Transit System presents: Grand Soul Central - All Night Long - Sheffield - SOLD OUT" on Fri, 6 Nov 2026.
+Plot 22 is a music venue in Sheffield with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Soul Mass Transit System presents: Grand Soul Central - All Night Long - Sheffield - SOLD OUT" on Fri, 6 Nov 2026.
 
 Plot 22 is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, with line-ups including Archie Gray, Betsy Mae, Ebz and ELS (UK) and 2 more. See dates, start times and who's playing. 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS.
 
@@ -23,4 +23,4 @@ Plot 22 is a music venue in Sheffield listed on soundcheck. 10 upcoming gigs, wi
 
 20-22 Exchange St, Sheffield City Centre, Sheffield, S2 5TS, Sheffield
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/plot-22/)*

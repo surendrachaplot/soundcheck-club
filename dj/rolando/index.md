@@ -1,6 +1,6 @@
 # DJ Rolando
 
-DJ Rolando is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at public records, New York City on Fri, 20 Nov 2026.
+DJ Rolando is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at public records, New York City on Fri, 20 Nov 2026.
 
 DJ Rolando is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Amsterdam, Belfast, Berlin and Bratislava and 15 more. Often billed alongside Gerd Janson, James Ruskin and Lakuti. Next up: public records, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ DJ Rolando is a techno and house artist based in United States of America, with 
 
 Gerd Janson, James Ruskin, Lakuti
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rolando/)*

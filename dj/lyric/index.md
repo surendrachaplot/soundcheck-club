@@ -1,6 +1,6 @@
 # Lyric
 
-Lyric is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at RADION, Amsterdam on Fri, 5 Feb 2027.
+Lyric is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at RADION, Amsterdam on Fri, 5 Feb 2027.
 
 Lyric is a techno and house artist based in Germany, with 54 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 15 more. Often billed alongside Frederic., Phil Berg and Chlär. Next up: RADION, Amsterdam on Fri 5 Feb.
 
@@ -25,4 +25,4 @@ Lyric is a techno and house artist based in Germany, with 54 gigs on soundcheck 
 
 Frederic., Phil Berg, Chlär
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyric/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lyric/)*

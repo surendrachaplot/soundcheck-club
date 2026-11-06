@@ -1,6 +1,6 @@
 # MJK
 
-MJK is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
+MJK is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at M.O.T, London on Fri, 27 Nov 2026.
 
 MJK is a techno and bass artist based in United Kingdom, with 88 gigs on soundcheck across Amsterdam, Berlin, Bristol and Cologne and 13 more. Often billed alongside Oblig, Neffa-T and re:ni. Next up: M.O.T, London on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ MJK is a techno and bass artist based in United Kingdom, with 88 gigs on soundch
 
 Oblig, Neffa-T, re:ni
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mjk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mjk/)*

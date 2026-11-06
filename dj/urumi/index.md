@@ -1,6 +1,6 @@
 # Urumi
 
-Urumi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Silencio, Paris on Sat, 7 Nov 2026.
+Urumi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Silencio, Paris on Sat, 7 Nov 2026.
 
 Urumi is a techno and house artist based in Canada, with 42 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Vladimir Cauchemar, Mandragora and Von Bikräv. Next up: Silencio, Paris on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Urumi is a techno and house artist based in Canada, with 42 gigs on soundcheck a
 
 Vladimir Cauchemar, Mandragora, Von Bikräv
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urumi/)*

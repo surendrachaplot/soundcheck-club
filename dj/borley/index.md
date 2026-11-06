@@ -1,6 +1,6 @@
 # BORLEY
 
-BORLEY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Paradise Palms, Edinburgh on Sat, 7 Nov 2026.
+BORLEY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Paradise Palms, Edinburgh on Sat, 7 Nov 2026.
 
 BORLEY is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Edinburgh and Leeds. Often billed alongside PASO, ARWEN and BING (UK). Next up: Paradise Palms, Edinburgh on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ BORLEY is a house and techno artist based in United Kingdom, with 29 gigs on sou
 
 PASO, ARWEN, BING (UK)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borley/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/borley/)*

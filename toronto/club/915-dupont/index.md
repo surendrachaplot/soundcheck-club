@@ -1,6 +1,6 @@
 # 915 Dupont
 
-915 Dupont is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Canned Heat at 915 with Cidoine (MTL) and Roland Gonzales" on Fri, 6 Nov 2026.
+915 Dupont is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Canned Heat at 915 with Cidoine (MTL) and Roland Gonzales" on Fri, 6 Nov 2026.
 
 915 Dupont is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Cidoine, Roland Gonzales and Sakiko Nagai. See dates, start times and who's playing. 915 Dupont Street, Toronto, ON M6H 1Z1, Canada.
 
@@ -15,4 +15,4 @@
 
 915 Dupont Street, Toronto, ON M6H 1Z1, Canada, Toronto
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/915-dupont/)*

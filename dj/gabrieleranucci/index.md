@@ -1,6 +1,6 @@
 # Gabriele Ranucci
 
-Gabriele Ranucci is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Audioteca, Naples on Fri, 6 Nov 2026.
+Gabriele Ranucci is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Audioteca, Naples on Fri, 6 Nov 2026.
 
 Gabriele Ranucci is a tech house and house artist based in Italy, with 14 gigs on soundcheck across Amsterdam, Ibiza, London and Naples. Often billed alongside Key Eff, Alex Bohemien and Diego Cardarelli. Next up: Audioteca, Naples on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Gabriele Ranucci is a tech house and house artist based in Italy, with 14 gigs o
 
 Key Eff, Alex Bohemien, Diego Cardarelli
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieleranucci/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gabrieleranucci/)*

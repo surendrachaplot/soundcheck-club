@@ -1,6 +1,6 @@
 # Lowprofile
 
-Lowprofile is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at El Balcón de la Lola, Bilbao on Fri, 6 Nov 2026.
+Lowprofile is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at El Balcón de la Lola, Bilbao on Fri, 6 Nov 2026.
 
 Lowprofile is an electronic artist based in Spain, with 19 gigs on soundcheck across Barcelona and Bilbao. Often billed alongside Alvva, Jhort and PethbUri. Next up: El Balcón de la Lola, Bilbao on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Lowprofile is an electronic artist based in Spain, with 19 gigs on soundcheck ac
 
 Alvva, Jhort, PethbUri
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowprofile/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lowprofile/)*

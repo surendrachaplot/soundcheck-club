@@ -1,6 +1,6 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "C0DE & Rage Rave with Cancel [live, BEL]" on Fri, 6 Nov 2026.
+Kømplex Lisbon is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "C0DE & Rage Rave with Cancel [live, BEL]" on Fri, 6 Nov 2026.
 
 Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Cancel, Cunha.Techno, Lukas Galhardo and MAFAYA and 2 more. See dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
@@ -16,4 +16,4 @@ Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs
 
 Praceta Domingos Rodrigues Nr5 2685-327 Lisbon, Lisbon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/k-mplex-lisbon/)*

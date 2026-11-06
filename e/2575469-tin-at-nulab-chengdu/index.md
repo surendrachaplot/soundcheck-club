@@ -1,6 +1,6 @@
-# Tin - 浩室之徒 at Nulab Chengdu
+# 厅 | 浩室之徒 @Tin at Nulab Chengdu
 
-Tin - 浩室之徒 at Nulab Chengdu on Fri 20 Nov, Chengdu. 1 artist: Summer. Tech House and Deep House. See the line-up on soundcheck.
+厅 | 浩室之徒 @Tin at Nulab Chengdu on Fri 20 Nov, Chengdu. 1 artist: Summer. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

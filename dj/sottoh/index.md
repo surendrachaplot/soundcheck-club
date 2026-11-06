@@ -1,6 +1,6 @@
 # SOTTOH
 
-SOTTOH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Poisson Volant, Paris on Fri, 6 Nov 2026.
+SOTTOH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Poisson Volant, Paris on Fri, 6 Nov 2026.
 
 SOTTOH is a house and techno artist based in France, with 21 gigs on soundcheck across Paris and Prague. Often billed alongside Lea Occhi, COCKO and RÆZA. Next up: Le Poisson Volant, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SOTTOH is a house and techno artist based in France, with 21 gigs on soundcheck 
 
 Lea Occhi, COCKO, RÆZA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sottoh/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sottoh/)*

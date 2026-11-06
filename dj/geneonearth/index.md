@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 6 Nov 2026.
+Gene On Earth is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sekta Selekta, Krakow on Fri, 6 Nov 2026.
 
 Gene On Earth is a house and techno artist based in United States of America, with 227 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 64 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Sekta Selekta, Krakow on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ Gene On Earth is a house and techno artist based in United States of America, wi
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

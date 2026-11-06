@@ -1,6 +1,6 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Magic Power (Showcase)" on Fri, 6 Nov 2026.
+Tokonoma Club is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Magic Power (Showcase)" on Fri, 6 Nov 2026.
 
 Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including Adriana Lopez, Almedina, Anna Hjalmarsson and Answer Code Request and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
@@ -21,4 +21,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

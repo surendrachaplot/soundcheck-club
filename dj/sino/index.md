@@ -1,6 +1,6 @@
 # Sino
 
-Sino is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
+Sino is a House and Amapiano artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
 
 Sino is a house and amapiano artist based in Ireland, with 9 gigs on soundcheck across Barcelona, Dublin, London and Seoul and 1 more. Often billed alongside AiMii, COOK SWEET and Unkelchubbz. Next up: TBA, Seoul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Sino is a house and amapiano artist based in Ireland, with 9 gigs on soundcheck 
 
 AiMii, COOK SWEET, Unkelchubbz
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sino/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sino/)*

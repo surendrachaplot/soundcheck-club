@@ -1,6 +1,6 @@
 # DJ Soulscape
 
-DJ Soulscape is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bolero, Seoul on Fri, 6 Nov 2026.
+DJ Soulscape is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bolero, Seoul on Fri, 6 Nov 2026.
 
 DJ Soulscape is a club and house artist based in South Korea, with 120 gigs on soundcheck across Seoul and Tokyo. Often billed alongside ANDOW, JADA MORAES and DJ Jeyon. Next up: Bolero, Seoul on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ DJ Soulscape is a club and house artist based in South Korea, with 120 gigs on s
 
 ANDOW, JADA MORAES, DJ Jeyon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsoulscape/)*

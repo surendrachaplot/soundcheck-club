@@ -1,14 +1,13 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Live in Halle: Lord Spikeheart, Radon" on Thu, 5 Nov 2026.
+Zentralwäscherei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "ZW-FESTIVAL with HOLY TONGUE & ANGELFIGHTRRR" on Tue, 17 Nov 2026.
 
-Zentralwäscherei is a music venue in Zurich listed on soundcheck. 6 upcoming gigs, with line-ups including Lord Spikeheart, mad miran, Mukuna and ohjeelo and 2 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
+Zentralwäscherei is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including mad miran, Mukuna, ohjeelo and Phrex and 1 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Live in Halle: Lord Spikeheart, Radon | Lord Spikeheart |
 | Tue, 17 Nov 2026 | ZW-FESTIVAL with HOLY TONGUE & ANGELFIGHTRRR |  |
 | Sat, 21 Nov 2026 | ZW-FESTIVAL TILT #50 w/ Article15, Sepehr, ohjeelo, mad miran and others | Mukuna, Phrex, Sepehr, mad miran, ohjeelo |
 | Thu, 26 Nov 2026 | ZW-CONCERT CANDELA |  |
@@ -19,4 +18,4 @@ Zentralwäscherei is a music venue in Zurich listed on soundcheck. 6 upcoming gi
 
 Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich, Zurich
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zentralw-scherei/)*

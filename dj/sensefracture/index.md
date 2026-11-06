@@ -1,8 +1,8 @@
 # Sense Fracture
 
-Sense Fracture is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Circolo Amelia, Milan on Sat, 28 Nov 2026.
+Sense Fracture is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Circolo Amelia, Milan on Sat, 28 Nov 2026.
 
-Sense Fracture is an experimental and bass artist, with 14 gigs on soundcheck across Berlin, London, Milan and Montreal and 1 more. Often billed alongside JOA (IT), Mvcoko and Oxhy. Next up: Circolo Amelia, Milan on Sat 28 Nov.
+Sense Fracture is an experimental and bass artist based in Italy, with 14 gigs on soundcheck across Berlin, London, Milan and Montreal and 1 more. Often billed alongside JOA (IT), Mvcoko and Oxhy. Next up: Circolo Amelia, Milan on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Sense Fracture is an experimental and bass artist, with 14 gigs on soundcheck ac
 
 JOA (IT), Mvcoko, Oxhy
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sensefracture/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sensefracture/)*

@@ -1,18 +1,17 @@
 # The Old Hairdressers
 
-The Old Hairdressers is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Beau Wanzer + CLEG + LUGH" on Thu, 5 Nov 2026.
+The Old Hairdressers is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Phase Group x A Cut Above: O Yuki Conjugate, Love-Songs, Alliyah Enyo, dj peanut" on Mon, 30 Nov 2026.
 
-The Old Hairdressers is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including Alliyah Enyo, Beau Wanzer and dj peanut. See dates, start times and who's playing. 20 - 28 Renfield Lane, G2 6PH Glasgow.
+The Old Hairdressers is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including Alliyah Enyo and dj peanut. See dates, start times and who's playing. 20 - 28 Renfield Lane, G2 6PH Glasgow.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Beau Wanzer + CLEG + LUGH | Beau Wanzer |
 | Mon, 30 Nov 2026 | Phase Group x A Cut Above: O Yuki Conjugate, Love-Songs, Alliyah Enyo, dj peanut | Alliyah Enyo, dj peanut |
 
 ## Address
 
 20 - 28 Renfield Lane, G2 6PH Glasgow, Glasgow
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-hairdressers/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-old-hairdressers/)*

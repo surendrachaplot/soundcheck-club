@@ -1,14 +1,15 @@
 # Colin Dale
 
-Colin Dale is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Colin Dale is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
-Colin Dale is a house and techno artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Mr C, Grooverider and Miss C MCDJ. Next up: Marshall Arena, South East on Sat 7 Nov.
+Colin Dale is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Mr C, Grooverider and Miss C MCDJ. Next up: Marshall Arena, South East on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Marshall Arena | South-east |
+| Sat, 5 Dec 2026 | Arch535 | London |
 | Fri, 1 Jan 2027 | The Light Bar | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Colin Dale is a house and techno artist based in United Kingdom, with 40 gigs on
 
 Mr C, Grooverider, Miss C MCDJ
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colindale/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colindale/)*

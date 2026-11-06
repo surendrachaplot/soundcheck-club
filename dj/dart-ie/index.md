@@ -1,6 +1,6 @@
 # DART
 
-DART is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+DART is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 DART is a techno and house artist based in Ireland, with 121 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 28 more. Often billed alongside Kyle Starkey, Ben Hemsley and NewTone. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ DART is a techno and house artist based in Ireland, with 121 gigs on soundcheck 
 
 Kyle Starkey, Ben Hemsley, NewTone
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dart-ie/)*

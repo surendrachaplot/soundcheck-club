@@ -1,13 +1,14 @@
 # Raisa
 
-Raisa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at El Internacional, Madrid on Sat, 7 Nov 2026.
+Raisa is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cafe La Palma, Madrid on Fri, 6 Nov 2026.
 
-Raisa is a house and electronica artist based in Spain, with 38 gigs on soundcheck across Madrid and New York City. Often billed alongside DHERMIDA, (V)Vilches and Mar Bravo. Next up: El Internacional, Madrid on Sat 7 Nov.
+Raisa is a house and electronica artist based in Spain, with 39 gigs on soundcheck across Madrid and New York City. Often billed alongside DHERMIDA, (V)Vilches and Mar Bravo. Next up: Cafe La Palma, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Cafe La Palma | Madrid |
 | Sat, 7 Nov 2026 | El Internacional | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Raisa is a house and electronica artist based in Spain, with 38 gigs on soundche
 
 DHERMIDA, (V)Vilches, Mar Bravo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raisa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raisa/)*

@@ -1,6 +1,6 @@
 # Lovellious
 
-Lovellious is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Jazz Cafe, London on Thu, 10 Dec 2026.
+Lovellious is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Jazz Cafe, London on Thu, 10 Dec 2026.
 
 Lovellious is a house and jazz artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, Bogotá, Bristol and London and 1 more. Often billed alongside Santa Leticia, PIP. and ROSIE. Next up: The Jazz Cafe, London on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Lovellious is a house and jazz artist based in United Kingdom, with 16 gigs on s
 
 Santa Leticia, PIP., ROSIE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovellious/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovellious/)*

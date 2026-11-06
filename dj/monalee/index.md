@@ -1,6 +1,6 @@
 # Mona Lee
 
-Mona Lee is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bridge 48, Barcelona on Fri, 6 Nov 2026.
+Mona Lee is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bridge 48, Barcelona on Fri, 6 Nov 2026.
 
 Mona Lee is a house and disco artist based in Belgium, with 71 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Beniso, androosh and Derk. Next up: Bridge 48, Barcelona on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Mona Lee is a house and disco artist based in Belgium, with 71 gigs on soundchec
 
 Beniso, androosh, Derk
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monalee/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monalee/)*

@@ -1,6 +1,6 @@
-# Synthese - Klubnacht By Ouroboros Mit Im:puls & Tunnelblick at Stollen 134
+# SYNTHESE - KLUBNACHT by OUROBOROS mit IM:PULS & TUNNELBLICK at Stollen 134
 
-Synthese - Klubnacht By Ouroboros Mit Im:puls & Tunnelblick at Stollen 134 on Fri 27 Nov, Dortmund / Essen. Trance and Techno. See the line-up on soundcheck.
+SYNTHESE - KLUBNACHT by OUROBOROS mit IM:PULS & TUNNELBLICK at Stollen 134 on Fri 27 Nov, Dortmund / Essen. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

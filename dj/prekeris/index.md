@@ -1,6 +1,6 @@
 # prekeris
 
-prekeris is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 8 Nov 2026.
+prekeris is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Garage Noord, Amsterdam on Sun, 8 Nov 2026.
 
 prekeris is an experimental and techno artist based in Netherlands, with 3 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside YoungWoman, Bongoat and Helmond Lang. Next up: Garage Noord, Amsterdam on Sun 8 Nov.
 
@@ -19,4 +19,4 @@ prekeris is an experimental and techno artist based in Netherlands, with 3 gigs 
 
 YoungWoman, Bongoat, Helmond Lang
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prekeris/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prekeris/)*

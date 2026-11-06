@@ -1,6 +1,6 @@
 # FAMÜ
 
-FAMÜ is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at StereoBar, Montreal on Fri, 6 Nov 2026.
+FAMÜ is a Deep House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at StereoBar, Montreal on Fri, 6 Nov 2026.
 
 FAMÜ is a deep house and progressive house artist based in Canada, with 22 gigs on soundcheck across Montreal. Often billed alongside Crescenzo, ROUDY and Sevn. Next up: StereoBar, Montreal on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ FAMÜ is a deep house and progressive house artist based in Canada, with 22 gigs
 
 Crescenzo, ROUDY, Sevn
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/famu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/famu/)*

@@ -1,6 +1,6 @@
 # Jahsonic
 
-Jahsonic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Fri, 6 Nov 2026.
+Jahsonic is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Eighteenth Street Lounge (ESL), Washington DC on Fri, 6 Nov 2026.
 
 Jahsonic is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Washington DC. Often billed alongside DJ Underdog, Diyanna Monet and KayLaSoul. Next up: Eighteenth Street Lounge (ESL), Washington DC on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Jahsonic is a house and techno artist based in United States of America, with 30
 
 DJ Underdog, Diyanna Monet, KayLaSoul
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jahsonic/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jahsonic/)*

@@ -1,14 +1,15 @@
 # VE/RA
 
-VE/RA is a Techno and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at WestWeelde, Amsterdam on Sat, 14 Nov 2026.
+VE/RA is a Techno and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at WestWeelde, Amsterdam on Sat, 14 Nov 2026.
 
-VE/RA is a techno and deep house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Cologne and 13 more. Often billed alongside Amber Broos, BLONDEX and DIØN. Next up: WestWeelde, Amsterdam on Sat 14 Nov.
+VE/RA is a techno and deep house artist based in Netherlands, with 32 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Cologne and 14 more. Often billed alongside Amber Broos, BLONDEX and DIØN. Next up: WestWeelde, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | WestWeelde | Amsterdam |
+| Fri, 4 Dec 2026 | Tap1 | Copenhagen |
 | Sat, 5 Dec 2026 | De Spot | Netherlands |
 | Thu, 31 Dec 2026 | Plan B | Malmo |
 | Sat, 30 Jan 2027 | Turmquartier | Baden-w-rttemberg |
@@ -28,4 +29,4 @@ VE/RA is a techno and deep house artist based in Netherlands, with 31 gigs on so
 
 Amber Broos, BLONDEX, DIØN
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vera-nl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vera-nl/)*

@@ -1,6 +1,6 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
+NEGITIV is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
 NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 59 more. Often billed alongside Onlynumbers, Alex Farell and Nicolas Julian. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
@@ -34,4 +34,4 @@ NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundch
 
 Onlynumbers, Alex Farell, Nicolas Julian
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

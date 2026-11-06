@@ -1,6 +1,6 @@
 # Ben Nott
 
-Ben Nott is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ulu Cliffhouse, Bali on Sat, 7 Nov 2026.
+Ben Nott is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ulu Cliffhouse, Bali on Sat, 7 Nov 2026.
 
 Ben Nott is a house and deep house artist, with 60 gigs on soundcheck across Bali, Indonesia, Melbourne and New South Wales and 1 more. Often billed alongside Cassette, Lucca Tan and OLIIV. Next up: Ulu Cliffhouse, Bali on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Ben Nott is a house and deep house artist, with 60 gigs on soundcheck across Bal
 
 Cassette, Lucca Tan, OLIIV
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennott/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennott/)*

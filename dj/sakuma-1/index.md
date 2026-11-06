@@ -1,6 +1,6 @@
 # Sakuma
 
-Sakuma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Red Bar, Tokyo on Fri, 6 Nov 2026.
+Sakuma is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Red Bar, Tokyo on Fri, 6 Nov 2026.
 
 Sakuma is a techno and house artist based in Japan, with 119 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Celter, CHIDA and DJ Nobu. Next up: Red Bar, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Sakuma is a techno and house artist based in Japan, with 119 gigs on soundcheck 
 
 Celter, CHIDA, DJ Nobu
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuma-1/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakuma-1/)*

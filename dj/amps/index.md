@@ -1,6 +1,6 @@
 # Amps
 
-Amps is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 6 Nov 2026.
+Amps is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 6 Nov 2026.
 
 Amps is a house and tech house artist based in Japan, with 43 gigs on soundcheck across Buenos Aires, London and Tokyo. Often billed alongside Yuta Yamada, GooPer and ISPA. Next up: Z Maruyama, Tokyo on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Amps is a house and tech house artist based in Japan, with 43 gigs on soundcheck
 
 Yuta Yamada, GooPer, ISPA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amps/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amps/)*

@@ -1,6 +1,6 @@
 # Rob Rua
 
-Rob Rua is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Yamamori Tengu, Dublin on Thu, 31 Dec 2026.
+Rob Rua is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Yamamori Tengu, Dublin on Thu, 31 Dec 2026.
 
 Rob Rua is a bass and dubstep artist, with 16 gigs on soundcheck across Cork, Dublin and Galway. Often billed alongside Cormac Geraghty, DJ Egg and Hannah Hession. Next up: Yamamori Tengu, Dublin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Rob Rua is a bass and dubstep artist, with 16 gigs on soundcheck across Cork, Du
 
 Cormac Geraghty, DJ Egg, Hannah Hession
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robrua/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robrua/)*

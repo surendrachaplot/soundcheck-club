@@ -1,8 +1,8 @@
 # DJ YumYum
 
-DJ YumYum is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+DJ YumYum is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
-DJ YumYum is a techno and trance artist based in Germany, with 11 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Bunny Tsukino, DERICE and DJ Hitwave. Next up: Sensorium, Berlin on Fri 20 Nov.
+DJ YumYum is a techno and tech house artist based in Germany, with 12 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Bunny Tsukino, CEEE and DERICE. Next up: Sensorium, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ YumYum is a techno and trance artist based in Germany, with 11 gigs on soundc
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Sensorium | Berlin |
 | Fri, 4 Dec 2026 | ://about blank | Berlin |
+| Wed, 30 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ DJ YumYum is a techno and trance artist based in Germany, with 11 gigs on soundc
 
 ## Shares bills with
 
-Bunny Tsukino, DERICE, DJ Hitwave
+Bunny Tsukino, CEEE, DERICE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumyum/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djyumyum/)*

@@ -1,6 +1,6 @@
 # Julian Artur
 
-Julian Artur is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Under Bron, Stockholm on Sat, 21 Nov 2026.
+Julian Artur is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Under Bron, Stockholm on Sat, 21 Nov 2026.
 
 Julian Artur is a house and techno artist, with 23 gigs on soundcheck across Hamburg, London and Stockholm. Often billed alongside Kornél Kovács, Speckman and Josephine Moriko. Next up: Under Bron, Stockholm on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Julian Artur is a house and techno artist, with 23 gigs on soundcheck across Ham
 
 Kornél Kovács, Speckman, Josephine Moriko
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianartur/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julianartur/)*

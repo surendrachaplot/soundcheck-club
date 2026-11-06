@@ -1,6 +1,6 @@
 # Baffa
 
-Baffa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Switch Bar, Barcelona on Fri, 6 Nov 2026.
+Baffa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Switch Bar, Barcelona on Fri, 6 Nov 2026.
 
 Baffa is a house and techno artist based in Spain, with 69 gigs on soundcheck across Barcelona. Often billed alongside Matteo Floris, Paolo Meloni and Inpulse. Next up: Switch Bar, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Baffa is a house and techno artist based in Spain, with 69 gigs on soundcheck ac
 
 Matteo Floris, Paolo Meloni, Inpulse
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baffa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baffa/)*

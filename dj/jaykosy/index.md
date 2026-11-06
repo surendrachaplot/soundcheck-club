@@ -1,6 +1,6 @@
 # JayKosy
 
-JayKosy is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hala Odra, Poland on Sat, 21 Nov 2026.
+JayKosy is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Hala Odra, Poland on Sat, 21 Nov 2026.
 
 JayKosy is a techno and tech house artist based in Germany, with 25 gigs on soundcheck across Barcelona, Berlin, Poland and Wroclaw. Often billed alongside Hardy Hard, Cherry and Don Tom. Next up: Hala Odra, Poland on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ JayKosy is a techno and tech house artist based in Germany, with 25 gigs on soun
 
 Hardy Hard, Cherry, Don Tom
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaykosy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaykosy/)*

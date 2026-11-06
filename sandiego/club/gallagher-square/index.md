@@ -1,6 +1,6 @@
 # Gallagher Square
 
-Gallagher Square is a music venue in San Diego with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "LED presents Crankdat" on Fri, 13 Nov 2026.
+Gallagher Square is a music venue in San Diego with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "LED presents Crankdat" on Fri, 13 Nov 2026.
 
 Gallagher Square is a music venue in San Diego listed on soundcheck. 2 upcoming gigs, with line-ups including Emanuel Satie, Hot Since 82, MAGA and Max Styler and 1 more. See dates, start times and who's playing. 840 K St, San Diego, CA 92101, United States.
 
@@ -15,4 +15,4 @@ Gallagher Square is a music venue in San Diego listed on soundcheck. 2 upcoming 
 
 840 K St, San Diego, CA 92101, United States, San Diego
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/gallagher-square/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/gallagher-square/)*

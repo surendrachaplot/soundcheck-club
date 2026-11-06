@@ -1,6 +1,6 @@
 # Seven Angels
 
-Seven Angels is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Jolene, Copenhagen on Fri, 6 Nov 2026.
+Seven Angels is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jolene, Copenhagen on Fri, 6 Nov 2026.
 
 Seven Angels is a house and techno artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Milan and 4 more. Often billed alongside DAMN DANIEL, Kaikaina and CyberFairy777. Next up: Jolene, Copenhagen on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Seven Angels is a house and techno artist based in Netherlands, with 12 gigs on 
 
 DAMN DANIEL, Kaikaina, CyberFairy777
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenangels/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sevenangels/)*

@@ -1,6 +1,6 @@
 # BADSISTA
 
-BADSISTA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
+BADSISTA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Nowadays, New York City on Sat, 7 Nov 2026.
 
 BADSISTA is a house and techno artist based in Brazil, with 163 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bangkok and 55 more. Often billed alongside Cashu, Paulete Lindacelva and Ananda (BR). Next up: Nowadays, New York City on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ BADSISTA is a house and techno artist based in Brazil, with 163 gigs on soundche
 
 Cashu, Paulete Lindacelva, Ananda (BR)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badsista/)*

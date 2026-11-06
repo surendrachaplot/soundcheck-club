@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase on Tue 10 Nov, Berlin. 3 artists: Algerics, Cat Vermillion and Johnny Allwess. Trance and Techno. See the line-up on soundcheck.
+Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase on Tue 10 Nov, Berlin. 4 artists: Algerics, Cat Vermillion, Johnny Allwess and Sin Sonik. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Smash & HART ◢◤ Tuesday Rave [free entry until midnight*] at Der Weiße Hase
 - Algerics
 - Cat Vermillion
 - Johnny Allwess
+- Sin Sonik
 
 *Source: [soundcheck](https://soundcheck.club/e/2538517-smash-hart-tuesday-rave-free-entry-until-midnight-at-der-wei/)*

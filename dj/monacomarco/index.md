@@ -1,6 +1,6 @@
 # Monaco Marco
 
-Monaco Marco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 7 Nov 2026.
+Monaco Marco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 7 Nov 2026.
 
 Monaco Marco is a house and tech house artist based in Germany, with 12 gigs on soundcheck across Frankfurt and Munich. Often billed alongside Robin Koch, Javier Bähr and Apua. Next up: Tokonoma Club, Frankfurt on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Monaco Marco is a house and tech house artist based in Germany, with 12 gigs on 
 
 Robin Koch, Javier Bähr, Apua
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monacomarco/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monacomarco/)*

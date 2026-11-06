@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Elsewhere presents: Benwal, Kyle Starkey, Paige Tomlinson, STÜM at 99 Scott" on Sat, 7 Nov 2026.
+99 Scott Ave is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Elsewhere presents: Benwal, Kyle Starkey, Paige Tomlinson, STÜM at 99 Scott" on Sat, 7 Nov 2026.
 
 99 Scott Ave is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Benwal, Calussa, Charles D (US) and Chesster and 2 more. See dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

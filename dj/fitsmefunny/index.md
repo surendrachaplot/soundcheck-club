@@ -1,6 +1,6 @@
 # FITS ME FUNNY
 
-FITS ME FUNNY is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Dalston Den, London on Fri, 6 Nov 2026.
+FITS ME FUNNY is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Dalston Den, London on Fri, 6 Nov 2026.
 
 FITS ME FUNNY is a house and techno artist based in United Kingdom, with 61 gigs on soundcheck across Brighton, London and Manchester. Often billed alongside ANLON, DJ VALENTINE and Emile. Next up: Dalston Den, London on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ FITS ME FUNNY is a house and techno artist based in United Kingdom, with 61 gigs
 
 ANLON, DJ VALENTINE, Emile
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fitsmefunny/)*

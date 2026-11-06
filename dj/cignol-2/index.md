@@ -1,6 +1,6 @@
 # Cignol (2)
 
-Cignol (2) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at radial, London on Fri, 18 Dec 2026.
+Cignol (2) is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at radial, London on Fri, 18 Dec 2026.
 
 Cignol is an electro and house artist, with 8 gigs on soundcheck across Berlin, Dublin, Ghent and London and 2 more. Often billed alongside Alien Communications, Ancient Methods and Aura Nox. Next up: radial, London on Fri 18 Dec.
 
@@ -24,4 +24,4 @@ Cignol is an electro and house artist, with 8 gigs on soundcheck across Berlin, 
 
 Alien Communications, Ancient Methods, Aura Nox
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cignol-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cignol-2/)*

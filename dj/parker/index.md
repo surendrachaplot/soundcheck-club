@@ -1,6 +1,6 @@
 # Parker
 
-Parker is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
+Parker is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 26 Dec 2026.
 
 Parker is a tech house and house artist, with 12 gigs on soundcheck across Barcelona, Leeds, London and Manchester and 3 more. Often billed alongside Binyamhn, Dan Ghenacia and Gizelle. Next up: The Golden Sheaf, New South Wales on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Parker is a tech house and house artist, with 12 gigs on soundcheck across Barce
 
 Binyamhn, Dan Ghenacia, Gizelle
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parker/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parker/)*

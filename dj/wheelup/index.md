@@ -1,14 +1,15 @@
 # WheelUP
 
-WheelUP is a Broken Beat and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Wiper and True, Old Market Taproom, Bristol on Sat, 14 Nov 2026.
+WheelUP is a Broken Beat and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Wiper and True, Old Market Taproom, Bristol on Sat, 14 Nov 2026.
 
-WheelUP is a broken beat and jazz artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Bristol, Chongqing and London and 2 more. Often billed alongside Robert Luis, Cengiz and Kojay. Next up: Wiper and True, Old Market Taproom, Bristol on Sat 14 Nov.
+WheelUP is a broken beat and house artist based in United Kingdom, with 24 gigs on soundcheck across Brighton, Bristol, Chongqing and London and 2 more. Often billed alongside Robert Luis, Cengiz and Kojay. Next up: Wiper and True, Old Market Taproom, Bristol on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Wiper and True, Old Market Taproom | Bristol |
+| Fri, 27 Nov 2026 | Djoon | Paris |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ WheelUP is a broken beat and jazz artist based in United Kingdom, with 23 gigs o
 
 Robert Luis, Cengiz, Kojay
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wheelup/)*

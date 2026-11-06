@@ -1,6 +1,6 @@
 # Taimur
 
-Taimur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mad Radio Miami, Miami on Fri, 6 Nov 2026.
+Taimur is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mad Radio Miami, Miami on Fri, 6 Nov 2026.
 
 Taimur is a house and techno artist based in United States of America, with 85 gigs on soundcheck across Atlanta, Boston, Chicago and Cleveland and 11 more. Often billed alongside Ostara, Maksim and Brother Dan. Next up: Mad Radio Miami, Miami on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Taimur is a house and techno artist based in United States of America, with 85 g
 
 Ostara, Maksim, Brother Dan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taimur/)*

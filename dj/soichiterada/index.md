@@ -1,15 +1,13 @@
 # Soichi Terada
 
-Soichi Terada is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at La Gaîté Lyrique, Paris on Wed, 4 Nov 2026.
+Soichi Terada is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Wigwam, Dublin on Fri, 6 Nov 2026.
 
-Soichi Terada is a house and techno artist based in Japan, with 128 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 40 more. Often billed alongside Antal, SAMO (JP) and Moxie. Next up: La Gaîté Lyrique, Paris on Wed 4 Nov.
+Soichi Terada is a house and techno artist based in Japan, with 128 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 40 more. Often billed alongside Antal, SAMO (JP) and Moxie. Next up: Wigwam, Dublin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | La Gaîté Lyrique | Paris |
-| Wed, 4 Nov 2026 | La Gaîté Lyrique | Paris |
 | Fri, 6 Nov 2026 | Wigwam | Dublin |
 | Sat, 7 Nov 2026 | New Century Locker | Manchester |
 | Sat, 5 Dec 2026 | West Harlem | Kyoto |
@@ -32,4 +30,4 @@ Soichi Terada is a house and techno artist based in Japan, with 128 gigs on soun
 
 Antal, SAMO (JP), Moxie
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soichiterada/)*

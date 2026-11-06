@@ -1,6 +1,6 @@
 # Feel Fly
 
-Feel Fly is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Aula, Central on Sat, 14 Nov 2026.
+Feel Fly is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Aula, Central on Sat, 14 Nov 2026.
 
 Feel Fly is an electronica and techno artist based in Italy, with 17 gigs on soundcheck across Barcelona, Belgrade, Berlin and Brussels and 6 more. Often billed alongside Aura Safari, Coral Mambo (IT) and Giamma Soren. Next up: Aula, Central on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Feel Fly is an electronica and techno artist based in Italy, with 17 gigs on sou
 
 Aura Safari, Coral Mambo (IT), Giamma Soren
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feelfly/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feelfly/)*

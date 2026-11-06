@@ -1,6 +1,6 @@
 # Sam The Bastard
 
-Sam The Bastard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+Sam The Bastard is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
 Sam The Bastard is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across Liverpool and Manchester. Often billed alongside Luke Daniels, Means&3rd and Pattie Mac. Next up: renae, Manchester on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sam The Bastard is a techno and house artist based in United Kingdom, with 14 gi
 
 Luke Daniels, Means&3rd, Pattie Mac
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samthebastard/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samthebastard/)*

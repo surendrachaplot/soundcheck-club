@@ -1,6 +1,6 @@
 # Gizmo
 
-Gizmo is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
+Gizmo is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at KitKatClub, Berlin on Fri, 6 Nov 2026.
 
 Gizmo is a techno and house artist based in Germany, with 32 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ghent and 4 more. Often billed alongside Lazykid, Shabiki and Rad.Lez. Next up: KitKatClub, Berlin on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Gizmo is a techno and house artist based in Germany, with 32 gigs on soundcheck 
 
 Lazykid, Shabiki, Rad.Lez
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gizmo/)*

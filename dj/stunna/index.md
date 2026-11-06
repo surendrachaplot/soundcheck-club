@@ -1,6 +1,6 @@
 # Stunna
 
-Stunna is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at NOD, Moldova on Sat, 7 Nov 2026.
+Stunna is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at NOD, Moldova on Sat, 7 Nov 2026.
 
 Stunna is a drum & bass and jungle artist based in United States of America, with 17 gigs on soundcheck across Chicago, Denver, Ghent and Moldova and 2 more. Often billed alongside Renan, Danny The Wildchild and Mister Shifter. Next up: NOD, Moldova on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Stunna is a drum & bass and jungle artist based in United States of America, wit
 
 Renan, Danny The Wildchild, Mister Shifter
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stunna/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stunna/)*

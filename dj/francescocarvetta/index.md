@@ -1,6 +1,6 @@
 # Francesco Carvetta
 
-Francesco Carvetta is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+Francesco Carvetta is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
 Francesco Carvetta is a house and techno artist, with 38 gigs on soundcheck across Alicante, Barcelona, Berlin and Bologna and 10 more. Often billed alongside Hitch, Jorge Escribano and Avo (ES). Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Francesco Carvetta is a house and techno artist, with 38 gigs on soundcheck acro
 
 Hitch, Jorge Escribano, Avo (ES)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francescocarvetta/)*

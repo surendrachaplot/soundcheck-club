@@ -1,6 +1,6 @@
 # Avi Subban
 
-Avi Subban is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at And Club, Johannesburg on Fri, 6 Nov 2026.
+Avi Subban is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at And Club, Johannesburg on Fri, 6 Nov 2026.
 
 Avi Subban is a house and techno artist based in South Africa, with 8 gigs on soundcheck across Cape Town and Johannesburg. Often billed alongside Bloem, Dogstarr and ILLING. Next up: And Club, Johannesburg on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Avi Subban is a house and techno artist based in South Africa, with 8 gigs on so
 
 Bloem, Dogstarr, ILLING
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avisubban/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avisubban/)*

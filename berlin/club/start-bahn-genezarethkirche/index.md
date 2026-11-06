@@ -1,6 +1,6 @@
 # Start.Bahn - Genezarethkirche
 
-Start.Bahn - Genezarethkirche is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Ensemble for New Music Tallinn & Ensemble21 / Sound Plasma Berlin" on Fri, 6 Nov 2026.
+Start.Bahn - Genezarethkirche is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Ensemble for New Music Tallinn & Ensemble21 / Sound Plasma Berlin" on Fri, 6 Nov 2026.
 
 Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including APRS, bod [包家巷], inbuilt obsolescence and Javier Marimon and 2 more. See dates, start times and who's playing. Herrfurthplatz 14, 12049 Berlin.
 
@@ -19,4 +19,4 @@ Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 6
 
 Herrfurthplatz 14, 12049 Berlin, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/start-bahn-genezarethkirche/)*

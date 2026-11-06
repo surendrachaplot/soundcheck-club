@@ -1,8 +1,8 @@
 # Azyr
 
-Azyr is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
+Azyr is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
 
-Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, Charlie Sparks and I Hate Models. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
+Azyr is a techno and house artist based in United Kingdom, with 263 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 75 more. Often billed alongside LESSSS, Charlie Sparks and I Hate Models. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soun
 | Sat, 7 Nov 2026 | NX Newcastle | Newcastle |
 | Fri, 13 Nov 2026 | Club Cultural Lima | Peru |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
+| Fri, 20 Nov 2026 | Cardiff Students' Union - Y Plas | Cardiff |
 | Sat, 21 Nov 2026 | The Garage | Madrid |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 19 Dec 2026 | Pavilhão Carlos Lopes | Lisbon |
@@ -34,4 +35,4 @@ Azyr is a techno and house artist based in United Kingdom, with 262 gigs on soun
 
 LESSSS, Charlie Sparks, I Hate Models
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azyr/)*

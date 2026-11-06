@@ -1,6 +1,6 @@
 # Introspekt
 
-Introspekt is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Introspekt is a Garage and Bass artist with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Introspekt is a garage and bass artist based in United States of America, with 201 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 50 more. Often billed alongside Octo Octa, CCL and Angel D'lite. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -23,6 +23,7 @@ Introspekt is a garage and bass artist based in United States of America, with 2
 
 ## Recently played
 
+- TivoliVredenburg, Utrecht · Thu, 5 Nov 2026
 - nachbar, Amsterdam · Sat, 31 Oct 2026
 - FOLD, London · Fri, 23 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
@@ -30,10 +31,9 @@ Introspekt is a garage and bass artist based in United States of America, with 2
 - Palais, London · Fri, 2 Oct 2026
 - Nowadays, New York City · Sat, 26 Sept 2026
 - The Ground at Club Space, Miami · Fri, 25 Sept 2026
-- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Octo Octa, CCL, Angel D'lite
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/introspekt/)*

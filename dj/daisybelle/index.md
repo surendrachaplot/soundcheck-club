@@ -1,6 +1,6 @@
 # Daisybelle
 
-Daisybelle is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at KOKO, London on Fri, 6 Nov 2026.
+Daisybelle is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at KOKO, London on Fri, 6 Nov 2026.
 
 Daisybelle is a house and disco artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Barcelona and 15 more. Often billed alongside Carly Foxx, MiNNA and Eats Everything. Next up: KOKO, London on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Daisybelle is a house and disco artist based in United Kingdom, with 96 gigs on 
 
 Carly Foxx, MiNNA, Eats Everything
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisybelle/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisybelle/)*

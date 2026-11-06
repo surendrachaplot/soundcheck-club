@@ -1,13 +1,14 @@
 # Meskalino
 
-Meskalino is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Luzztro, Warsaw on Sat, 21 Nov 2026.
+Meskalino is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Luzztro, Warsaw on Sat, 7 Nov 2026.
 
-Meskalino is a techno and house artist based in Poland, with 55 gigs on soundcheck across London and Warsaw. Often billed alongside KEVS, Jerry M and HANICZ. Next up: Luzztro, Warsaw on Sat 21 Nov.
+Meskalino is a techno and house artist based in Poland, with 56 gigs on soundcheck across London and Warsaw. Often billed alongside KEVS, Jerry M and HANICZ. Next up: Luzztro, Warsaw on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Luzztro | Warsaw |
 | Sat, 21 Nov 2026 | Luzztro | Warsaw |
 
 ## Recently played
@@ -25,4 +26,4 @@ Meskalino is a techno and house artist based in Poland, with 55 gigs on soundche
 
 KEVS, Jerry M, HANICZ
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meskalino/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meskalino/)*

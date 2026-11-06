@@ -1,6 +1,6 @@
 # May Mc Laren
 
-May Mc Laren is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Niceto Club, Buenos Aires on Fri, 6 Nov 2026.
+May Mc Laren is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Niceto Club, Buenos Aires on Fri, 6 Nov 2026.
 
 May Mc Laren is a techno and house artist based in Argentina, with 55 gigs on soundcheck across Bogotá, Buenos Aires and Mexico City. Often billed alongside Berger Muzik, Dr. Oso and Camila Isabel. Next up: Niceto Club, Buenos Aires on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ May Mc Laren is a techno and house artist based in Argentina, with 55 gigs on so
 
 Berger Muzik, Dr. Oso, Camila Isabel
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maymclaren-ar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maymclaren-ar/)*

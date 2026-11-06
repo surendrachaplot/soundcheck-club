@@ -1,6 +1,6 @@
 # In Too Deep - 2nd Anniversary at Salon Daomé
 
-In Too Deep - 2nd Anniversary at Salon Daomé on Sat 21 Nov, Montreal. 5 artists: Flytz, Loops and Us, Markuss and PETER DAMIAN and 1 more. See the line-up on soundcheck.
+In Too Deep - 2nd Anniversary at Salon Daomé on Sat 21 Nov, Montreal. 6 artists: Flytz, FRANCOYS, Loops and Us and Markuss and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ In Too Deep - 2nd Anniversary at Salon Daomé on Sat 21 Nov, Montreal. 5 artists
 ## Line-up
 
 - Flytz
+- FRANCOYS
 - Loops and Us
 - Markuss
 - PETER DAMIAN

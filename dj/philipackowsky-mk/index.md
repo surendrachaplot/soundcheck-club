@@ -1,6 +1,6 @@
 # Philip Ackowsky
 
-Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
+Philip Ackowsky is a Techno and Minimal Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuchs2, Prague on Sat, 7 Nov 2026.
 
 Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, with 51 gigs on soundcheck across Amsterdam, Belgrade, Ibiza and Istanbul and 3 more. Often billed alongside Abdy, Alex Micca and GRVYWRLD. Next up: Fuchs2, Prague on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Philip Ackowsky is a techno and minimal techno artist based in North Macedonia, 
 
 Abdy, Alex Micca, GRVYWRLD
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philipackowsky-mk/)*

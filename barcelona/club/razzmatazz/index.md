@@ -1,6 +1,6 @@
 # Razzmatazz
 
-Razzmatazz is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "RAZZCLUBS: Egyptian Lover + Griffi + Alvaro Medina + BMT: Flava D" on Fri, 6 Nov 2026.
+Razzmatazz is a music venue in Barcelona with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "RAZZCLUB: Egyptian Lover + Griffi + Alvaro Medina + BMT: Flava D " on Fri, 6 Nov 2026.
 
 Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs, with line-ups including adobeprincess, Alex Wilcox, Alvaro Medina and Alvva and 2 more. See dates, start times and who's playing. C Almogavers 122 - C Pamplona 88; Barcelona; Spain.
 
@@ -8,7 +8,7 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | RAZZCLUBS: Egyptian Lover + Griffi + Alvaro Medina + BMT: Flava D | Alvaro Medina, Egyptian Lover, Flava D, Montenegro, RUXI, Yume (JP) |
+| Fri, 6 Nov 2026 | RAZZCLUB: Egyptian Lover + Griffi + Alvaro Medina + BMT: Flava D  | Alvaro Medina, Egyptian Lover, Flava D, Montenegro, RUXI, Yume (JP) |
 | Sat, 7 Nov 2026 | RAZZCLUBS: Shanti Celeste + NIKS - Powered By Greenlight Sound System | Arnic, DJ MELL G, Dsprfcto, Hi-Ki, Jhort, NIKS, Nadia Struiwigh, Olor Acre, Pelacha, Shanti Celeste, WLDV |
 | Fri, 13 Nov 2026 | SPORTS |  |
 | Fri, 13 Nov 2026 | RAZZCLUBS: Mainline Club: Maruwa + Cecilio G + Trance NXC: TOXE live | DJ2D2, JUMER, John Heaven, Marcelo Pantani, Maruwa, Nile Fee, PethbUri, Rattlesnakke, TOXE, Word of Command, gitano del futuro |
@@ -23,4 +23,4 @@ Razzmatazz is a music venue in Barcelona listed on soundcheck. 14 upcoming gigs,
 
 C Almogavers 122 - C Pamplona 88; Barcelona; Spain, Barcelona
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz/)*

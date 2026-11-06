@@ -1,6 +1,6 @@
 # Camden Assembly
 
-Camden Assembly is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "How to Follow NFL Action: App Access, TV Channels & Streaming Services" on Sat, 7 Nov 2026.
+Camden Assembly is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "How to Follow NFL Action: App Access, TV Channels & Streaming Services" on Sat, 7 Nov 2026.
 
 Camden Assembly is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including CBS, Fox (US), PC (MX) and ROKU. See dates, start times and who's playing. 49 Chalk Farm Rd London NW1 8AN.
 
@@ -14,4 +14,4 @@ Camden Assembly is a music venue in London listed on soundcheck. 1 upcoming gig,
 
 49 Chalk Farm Rd London NW1 8AN, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/camden-assembly/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/camden-assembly/)*

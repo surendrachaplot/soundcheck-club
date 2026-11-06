@@ -1,6 +1,6 @@
 # Axefield
 
-Axefield is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at club asia, Tokyo on Thu, 19 Nov 2026.
+Axefield is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at club asia, Tokyo on Thu, 19 Nov 2026.
 
 Axefield is a techno and bass artist, with 13 gigs on soundcheck across Amsterdam, Tokyo and Utrecht. Often billed alongside Emily Jeanne, LUXE and Zara. Next up: club asia, Tokyo on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Axefield is a techno and bass artist, with 13 gigs on soundcheck across Amsterda
 
 Emily Jeanne, LUXE, Zara
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axefield/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axefield/)*

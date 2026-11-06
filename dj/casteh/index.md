@@ -1,6 +1,6 @@
 # Casteh
 
-Casteh is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
+Casteh is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
 
 Casteh is a techno and club artist based in Spain, with 16 gigs on soundcheck across Barcelona and London. Often billed alongside I·AMME, Crisalide and Francis Dhuit. Next up: Bridge 48, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Casteh is a techno and club artist based in Spain, with 16 gigs on soundcheck ac
 
 I·AMME, Crisalide, Francis Dhuit
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casteh/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casteh/)*

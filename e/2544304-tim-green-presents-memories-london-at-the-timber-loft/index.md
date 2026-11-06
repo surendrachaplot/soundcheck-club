@@ -1,6 +1,6 @@
 # Tim Green presents: Memories - London at The Timber Loft
 
-Tim Green presents: Memories - London at The Timber Loft on Sat 21 Nov, London. 1 artist: Tim Green. House. See the line-up on soundcheck.
+Tim Green presents: Memories - London at The Timber Loft on Sat 21 Nov, London. 2 artists: Carina Lawrence and Tim Green. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Tim Green presents: Memories - London at The Timber Loft on Sat 21 Nov, London. 
 
 ## Line-up
 
+- Carina Lawrence
 - Tim Green
 
 *Source: [soundcheck](https://soundcheck.club/e/2544304-tim-green-presents-memories-london-at-the-timber-loft/)*

@@ -1,8 +1,8 @@
 # Lefto Early Bird
 
-Lefto Early Bird is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Funke, Ghent on Wed, 18 Nov 2026.
+Lefto Early Bird is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Funke, Ghent on Wed, 18 Nov 2026.
 
-Lefto Early Bird is a house and techno artist based in Belgium, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 31 more. Often billed alongside Marco Weibel, AliA and Bibi Seck. Next up: Funke, Ghent on Wed 18 Nov.
+Lefto Early Bird is a house and techno artist based in Belgium, with 131 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 32 more. Often billed alongside Marco Weibel, AliA and Bibi Seck. Next up: Funke, Ghent on Wed 18 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lefto Early Bird is a house and techno artist based in Belgium, with 130 gigs on
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Funke | Ghent |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
+| Fri, 27 Nov 2026 | Cupra City Garage Manchester | Manchester |
 | Sat, 28 Nov 2026 | Yellow Arch Studios | Sheffield |
 
 ## Recently played
@@ -27,4 +28,4 @@ Lefto Early Bird is a house and techno artist based in Belgium, with 130 gigs on
 
 Marco Weibel, AliA, Bibi Seck
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leftoearlybird/)*

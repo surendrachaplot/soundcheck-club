@@ -1,8 +1,8 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "WR Records: LITTLE BAD ASS [LBA] Release Party" on Fri, 6 Nov 2026.
+Wiggle Room is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "WR Records: LITTLE BAD ASS [LBA] Release Party" on Fri, 6 Nov 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including Anthony Cole, Barroness, Brash-B and Carabetta and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Anthony Cole, Barroness, Brash-B and Carabetta and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, 
 | Fri, 20 Nov 2026 | Change the Beat: Sydney Blu's Birthday Fundraiser | Miz Megs, Natalie Nox, SHERA, Sydney Blu |
 | Sat, 21 Nov 2026 | Animal Instinx: Hector Romero [NYC] | Hector Romero, TAKiN |
 | Sun, 22 Nov 2026 | Sunday SerVice: Manzone & Strong - FLIPSIDE - 4AM LAST CALL | Cozmic Cat, MC Flipside, Manzone & Strong |
-| Sun, 29 Nov 2026 | Sunday SerVice: Carabetta - Manzone & Strong - 4AM LAST CALL | Carabetta, Manzone & Strong |
+| Fri, 27 Nov 2026 | Dance Division 018 - NOV 27 - Guaranteed Dancing | Nour (CAN) |
 
 ## Address
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

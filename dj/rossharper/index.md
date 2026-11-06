@@ -1,6 +1,6 @@
 # Ross Harper
 
-Ross Harper is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Quarters, Brighton on Fri, 11 Dec 2026.
+Ross Harper is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Quarters, Brighton on Fri, 11 Dec 2026.
 
 Ross Harper is a techno and deep house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Brighton, Bristol and London and 1 more. Often billed alongside Gosia, Nathan Godolphin and Døra. Next up: Quarters, Brighton on Fri 11 Dec.
 
@@ -26,4 +26,4 @@ Ross Harper is a techno and deep house artist based in United Kingdom, with 49 g
 
 Gosia, Nathan Godolphin, Døra
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossharper/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossharper/)*

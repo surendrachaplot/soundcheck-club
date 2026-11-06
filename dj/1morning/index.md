@@ -1,8 +1,8 @@
 # 1morning
 
-1morning is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 314 Scholes, New York City on Fri, 13 Nov 2026.
+1morning is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 314 Scholes, New York City on Fri, 13 Nov 2026.
 
-1morning is a techno and club artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Akua, Regal86 and DJ Stingray 313. Next up: 314 Scholes, New York City on Fri 13 Nov.
+1morning is a techno and club artist based in United States of America, with 142 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 34 more. Often billed alongside Akua, Regal86 and DJ Stingray 313. Next up: 314 Scholes, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@
 | Fri, 20 Nov 2026 | Paragon | New York City |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sat, 12 Dec 2026 | Gaffe | London |
+| Sat, 19 Dec 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -28,4 +29,4 @@
 
 Akua, Regal86, DJ Stingray 313
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1morning/)*

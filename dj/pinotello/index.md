@@ -1,6 +1,6 @@
 # Pinotello
 
-Pinotello is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
+Pinotello is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Maimarkthalle, Mannheim on Sat, 5 Dec 2026.
 
 Pinotello is a hardcore and techno artist based in Netherlands, with 27 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 9 more. Often billed alongside The Dark Horror, Lekkerfaces and Major Conspiracy. Next up: Maimarkthalle, Mannheim on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Pinotello is a hardcore and techno artist based in Netherlands, with 27 gigs on 
 
 The Dark Horror, Lekkerfaces, Major Conspiracy
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinotello/)*

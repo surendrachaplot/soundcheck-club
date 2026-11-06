@@ -1,6 +1,6 @@
 # Minju
 
-Minju is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
+Minju is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Tokonoma Club, Frankfurt on Sat, 14 Nov 2026.
 
 Minju is a house and techno artist based in South Korea, with 11 gigs on soundcheck across Berlin, Frankfurt, Munich and Seoul. Often billed alongside Bell Towers, RIP Swirl and 2:cloudy. Next up: Tokonoma Club, Frankfurt on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Minju is a house and techno artist based in South Korea, with 11 gigs on soundch
 
 Bell Towers, RIP Swirl, 2:cloudy
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minju/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minju/)*

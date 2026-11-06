@@ -1,6 +1,6 @@
 # Sam Pratt
 
-Sam Pratt is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 6 Nov 2026.
+Sam Pratt is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cupra City Garage Manchester, Manchester on Fri, 6 Nov 2026.
 
 Sam Pratt is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Seth Chohan, AVIAX and A Little Bit Orange. Next up: Cupra City Garage Manchester, Manchester on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Sam Pratt is a house and tech house artist based in United Kingdom, with 75 gigs
 
 Seth Chohan, AVIAX, A Little Bit Orange
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampratt/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampratt/)*

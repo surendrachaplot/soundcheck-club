@@ -1,6 +1,6 @@
 # Zeyda
 
-Zeyda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sat, 7 Nov 2026.
+Zeyda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sat, 7 Nov 2026.
 
 Zeyda is a house and techno artist based in Canada, with 11 gigs on soundcheck across Vancouver. Often billed alongside HighCUE, Askfor T and Bryce Kenneth. Next up: Gorg-O-Mish, Vancouver on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Zeyda is a house and techno artist based in Canada, with 11 gigs on soundcheck a
 
 HighCUE, Askfor T, Bryce Kenneth
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyda/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zeyda/)*

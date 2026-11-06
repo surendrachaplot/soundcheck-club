@@ -1,6 +1,6 @@
 # Dani B
 
-Dani B is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Union Club, Vauxhall, London on Sat, 14 Nov 2026.
+Dani B is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Union Club, Vauxhall, London on Sat, 14 Nov 2026.
 
 Dani B is a tech house and house artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Bogotá and London. Often billed alongside Alex Rebel, Enrico Chirchiello and Dagga. Next up: Union Club, Vauxhall, London on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Dani B is a tech house and house artist based in United Kingdom, with 11 gigs on
 
 Alex Rebel, Enrico Chirchiello, Dagga
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danib/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danib/)*

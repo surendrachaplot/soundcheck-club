@@ -1,6 +1,6 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "VIPPER CLUB II ANIVERSARIO with Pendulum DJ SET, SOTA" on Fri, 6 Nov 2026.
+LAB theCLUB is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "VIPPER CLUB II ANIVERSARIO with Pendulum DJ SET, SOTA" on Fri, 6 Nov 2026.
 
 LAB theCLUB is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including AAfrAA, Abdon, ART NO LOGIA and BASHKKA and 2 more. See dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
@@ -14,7 +14,7 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, w
 | Sat, 14 Nov 2026 | COCOA pres ART NO LOGIA ALL NIGHT LONG | ART NO LOGIA |
 | Sat, 28 Nov 2026 | Noventeros |  |
 | Sat, 28 Nov 2026 | Wally Lopez World Tour Closing | Wally Lopez |
-| Sat, 5 Dec 2026 | ROOM ONE with Raúl Pacheco | Raúl Pacheco |
+| Sat, 5 Dec 2026 | ROOM ONE with Raúl Pacheco, Sebastian Ledher | Raúl Pacheco, Sebastian Ledher |
 | Sun, 6 Dec 2026 | MyPleasure // ANNIVERSARY WEEK // Climax | BASHKKA, Call Super, Ketiov |
 | Sat, 12 Dec 2026 | Esencia Pura by DJ Marta |  |
 | Sat, 19 Dec 2026 | SANPAPA CLUB at Especial Navidad |  |
@@ -23,4 +23,4 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, w
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

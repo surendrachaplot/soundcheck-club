@@ -1,8 +1,8 @@
 # Bradley Skeng
 
-Bradley Skeng is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fire, London on Fri, 13 Nov 2026.
+Bradley Skeng is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fire, London on Fri, 13 Nov 2026.
 
-Bradley Skeng is a house and techno artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Copenhagen and 2 more. Often billed alongside Joshua James, SYREETA and Viktor Victoria. Next up: Fire, London on Fri 13 Nov.
+Bradley Skeng is a house and techno artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Bristol, Cardiff and Copenhagen and 2 more. Often billed alongside Joshua James, SYREETA and Viktor Victoria. Next up: Fire, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bradley Skeng is a house and techno artist based in United Kingdom, with 37 gigs
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Fire | London |
 | Sat, 12 Dec 2026 | Culture Box | Copenhagen |
+| Sat, 19 Dec 2026 | Walthamstow Trades Hall | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Bradley Skeng is a house and techno artist based in United Kingdom, with 37 gigs
 
 Joshua James, SYREETA, Viktor Victoria
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradleyskeng/)*

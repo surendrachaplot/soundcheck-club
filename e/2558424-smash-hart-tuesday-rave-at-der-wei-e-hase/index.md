@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave at Der Weiße Hase on Tue 8 Dec, Berlin. 1 artist: Algerics. Techno and Industrial. See the line-up on soundcheck.
+Smash & HART ◢◤ Tuesday Rave at Der Weiße Hase on Tue 8 Dec, Berlin. 2 artists: Algerics and Sin Sonik. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Smash & HART ◢◤ Tuesday Rave at Der Weiße Hase on Tue 8 Dec, Berlin. 1 arti
 ## Line-up
 
 - Algerics
+- Sin Sonik
 
 *Source: [soundcheck](https://soundcheck.club/e/2558424-smash-hart-tuesday-rave-at-der-wei-e-hase/)*

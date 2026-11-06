@@ -1,6 +1,6 @@
 # tIJN
 
-tIJN is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Cut, Newcastle on Fri, 6 Nov 2026.
+tIJN is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Cut, Newcastle on Fri, 6 Nov 2026.
 
 tIJN is a minimal and house artist, with 17 gigs on soundcheck across Berlin, Denver, Leeds and Liverpool and 8 more. Often billed alongside Haydn, Lucas Hulan and 100hz. Next up: The Cut, Newcastle on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ tIJN is a minimal and house artist, with 17 gigs on soundcheck across Berlin, De
 
 Haydn, Lucas Hulan, 100hz
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tijn/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tijn/)*

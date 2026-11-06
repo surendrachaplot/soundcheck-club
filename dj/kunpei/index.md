@@ -1,8 +1,8 @@
 # KUNPEI
 
-KUNPEI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Forestlimit, Tokyo on Fri, 6 Nov 2026.
+KUNPEI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Forestlimit, Tokyo on Fri, 6 Nov 2026.
 
-KUNPEI is a techno and house artist based in Japan, with 38 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, LogicBeat and Louis Shannon. Next up: Forestlimit, Tokyo on Fri 6 Nov.
+KUNPEI is a techno and house artist based in Japan, with 39 gigs on soundcheck across Tokyo. Often billed alongside AMIDAdrive, LogicBeat and Louis Shannon. Next up: Forestlimit, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KUNPEI is a techno and house artist based in Japan, with 38 gigs on soundcheck a
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Forestlimit | Tokyo |
 | Sat, 14 Nov 2026 | WOMB | Tokyo |
+| Wed, 18 Nov 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ KUNPEI is a techno and house artist based in Japan, with 38 gigs on soundcheck a
 
 AMIDAdrive, LogicBeat, Louis Shannon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kunpei/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kunpei/)*

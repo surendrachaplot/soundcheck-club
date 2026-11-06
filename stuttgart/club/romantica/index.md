@@ -1,14 +1,13 @@
 # Romantica
 
-Romantica is a music venue in Stuttgart with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Katzengold Mit Kollektiv Hertzwärts" on Thu, 5 Nov 2026.
+Romantica is a music venue in Stuttgart with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Rythmo Romántico with Paul Valentin (Feines Tier . Berlin)" on Fri, 6 Nov 2026.
 
-Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, with line-ups including Carl Crocs, chaos.disco.club, Coppola (DE) and Danny Salas and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
+Romantica is a music venue in Stuttgart listed on soundcheck. 6 upcoming gigs, with line-ups including chaos.disco.club, Coppola (DE), Danny Salas and Femcat and 2 more. See dates, start times and who's playing. Hauptstatter Str. 40, Stuttgart.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Katzengold Mit Kollektiv Hertzwärts | Carl Crocs |
 | Fri, 6 Nov 2026 | Rythmo Romántico with Paul Valentin (Feines Tier . Berlin) | Jochen Junker |
 | Sat, 7 Nov 2026 | GLITZERPERLCHEN mit LAENK, Femcat & Marco Bastone | Femcat, Laenk, Marco Bastone |
 | Sun, 8 Nov 2026 | BUNTER HUND AM SONNTAG MIT ALVA (LEHMANN) |  |
@@ -20,4 +19,4 @@ Romantica is a music venue in Stuttgart listed on soundcheck. 7 upcoming gigs, w
 
 Hauptstatter Str. 40, Stuttgart, Stuttgart
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/romantica/)*

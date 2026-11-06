@@ -1,6 +1,6 @@
 # Groove Assassin
 
-Groove Assassin is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Space Leeds, Leeds on Sat, 7 Nov 2026.
+Groove Assassin is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Space Leeds, Leeds on Sat, 7 Nov 2026.
 
 Groove Assassin is a house and disco artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Belgrade, Birmingham and Edinburgh and 8 more. Often billed alongside Billy Cocks, DJ Murrell and Ronnie Herel. Next up: The Space Leeds, Leeds on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Groove Assassin is a house and disco artist based in United Kingdom, with 39 gig
 
 Billy Cocks, DJ Murrell, Ronnie Herel
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grooveassassin/)*

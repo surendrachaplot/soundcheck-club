@@ -1,6 +1,6 @@
 # Killing Time
 
-Killing Time is a music venue in Valencia with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Bust my moves. Hipnotica & friends" on Sat, 7 Nov 2026.
+Killing Time is a music venue in Valencia with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Bust my moves. Hipnotica & friends" on Sat, 7 Nov 2026.
 
 Killing Time is a music venue in Valencia listed on soundcheck. 3 upcoming gigs, with line-ups including Broken boy, Mr Blanet, Mundo D and Raszia and 2 more. See dates, start times and who's playing. Doctor Sumsi, 21 (Ruzafa), Valencia.
 
@@ -16,4 +16,4 @@ Killing Time is a music venue in Valencia listed on soundcheck. 3 upcoming gigs,
 
 Doctor Sumsi, 21 (Ruzafa), Valencia, Valencia
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/killing-time/)*

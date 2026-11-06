@@ -1,6 +1,6 @@
 # Samis Bar
 
-Samis Bar is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Forbidden Music Athens" on Fri, 6 Nov 2026.
+Samis Bar is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Forbidden Music Athens" on Fri, 6 Nov 2026.
 
 Samis Bar is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including babsko, DJ P€gga$u$, Dora Mask and GORO and 1 more. See dates, start times and who's playing. Filis 34, 10433, Athens, Greece.
 
@@ -15,4 +15,4 @@ Samis Bar is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with
 
 Filis 34, 10433, Athens, Greece, Athens
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/samis-bar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/samis-bar/)*

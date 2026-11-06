@@ -1,6 +1,6 @@
 # Otis Mensah
 
-Otis Mensah is a Hip-Hop and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Atemporal, Berlin on Sun, 8 Nov 2026.
+Otis Mensah is a Hip-Hop and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Atemporal, Berlin on Sun, 8 Nov 2026.
 
 Otis Mensah is a hip-hop and jazz artist based in United Kingdom, with 11 gigs on soundcheck across Berlin. Often billed alongside Abibi, Dakn and Gavsborg. Next up: Atemporal, Berlin on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Otis Mensah is a hip-hop and jazz artist based in United Kingdom, with 11 gigs o
 
 Abibi, Dakn, Gavsborg
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otismensah/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/otismensah/)*

@@ -1,6 +1,6 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "STROBE THERAPY" on Fri, 6 Nov 2026.
+Prozak 2.0 is a music venue in Krakow with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "STROBE THERAPY" on Fri, 6 Nov 2026.
 
 Prozak 2.0 is a music venue in Krakow listed on soundcheck. 10 upcoming gigs, with line-ups including Forest (PL), Kuriozum, LAMMER and Meg (PL) and 2 more. See dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
@@ -23,4 +23,4 @@ Prozak 2.0 is a music venue in Krakow listed on soundcheck. 10 upcoming gigs, wi
 
 plac Dominikański 6, 33-332 Kraków, Poland, Krakow
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/prozak-2-0/)*

@@ -1,8 +1,8 @@
 # DJ SS
 
-DJ SS is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+DJ SS is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
-DJ SS is a drum & bass and jungle artist based in United Kingdom, with 82 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Birmingham and 24 more. Often billed alongside Nicky Blackmarket, Bladerunner and Grooverider. Next up: Marshall Arena, South East on Sat 7 Nov.
+DJ SS is a drum & bass and jungle artist based in United Kingdom, with 83 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Birmingham and 24 more. Often billed alongside Nicky Blackmarket, Bladerunner and Grooverider. Next up: Marshall Arena, South East on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ SS is a drum & bass and jungle artist based in United Kingdom, with 82 gigs o
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Marshall Arena | South-east |
 | Sat, 14 Nov 2026 | Outernet Live | London |
+| Sat, 5 Dec 2026 | Electric Brixton | London |
 | Thu, 31 Dec 2026 | Tunnel Club | Birmingham |
 | Sat, 9 Jan 2027 | KOKO | London |
 | Sat, 6 Feb 2027 | The Warehouse | Leeds |
@@ -29,4 +30,4 @@ DJ SS is a drum & bass and jungle artist based in United Kingdom, with 82 gigs o
 
 Nicky Blackmarket, Bladerunner, Grooverider
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djss/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djss/)*

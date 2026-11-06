@@ -1,6 +1,6 @@
 # ärk at Club Metro
 
-ärk at Club Metro on Thu 26 Nov, Kyoto. 1 artist: rick. Techno and Tech House. See the line-up on soundcheck.
+ärk at Club Metro on Thu 26 Nov, Kyoto. 1 artist: rick. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

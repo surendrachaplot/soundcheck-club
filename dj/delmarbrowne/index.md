@@ -1,6 +1,6 @@
 # Delmar Browne
 
-Delmar Browne is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Livestream, Streamland on Sat, 7 Nov 2026.
+Delmar Browne is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Livestream, Streamland on Sat, 7 Nov 2026.
 
 Delmar Browne is a house and disco artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, New York City and Streamland. Often billed alongside Devid Dega, Feryne and Inez Akker. Next up: Livestream, Streamland on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Delmar Browne is a house and disco artist based in United States of America, wit
 
 Devid Dega, Feryne, Inez Akker
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delmarbrowne/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delmarbrowne/)*

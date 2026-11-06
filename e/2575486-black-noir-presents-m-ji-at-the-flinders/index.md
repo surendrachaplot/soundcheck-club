@@ -1,6 +1,6 @@
 # BLACK NOIR presents: MØJI at The Flinders
 
-BLACK NOIR presents: MØJI at The Flinders on Fri 11 Dec, Sydney. 5 artists: I-SO, MAVALU, MØJI and RAISER and 1 more. Techno. See the line-up on soundcheck.
+BLACK NOIR presents: MØJI at The Flinders on Fri 11 Dec, Sydney. 6 artists: I-SO, MAVALU, MØJI and RAISER and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ BLACK NOIR presents: MØJI at The Flinders on Fri 11 Dec, Sydney. 5 artists: I-S
 - MAVALU
 - MØJI
 - RAISER
+- RIZAREKT
 - Takydon
 
 *Source: [soundcheck](https://soundcheck.club/e/2575486-black-noir-presents-m-ji-at-the-flinders/)*

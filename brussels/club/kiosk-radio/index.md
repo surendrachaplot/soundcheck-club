@@ -1,6 +1,6 @@
 # Kiosk Radio
 
-Kiosk Radio is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Alozi at Kiosk Radio" on Sat, 7 Nov 2026.
+Kiosk Radio is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Alozi at Kiosk Radio" on Sat, 7 Nov 2026.
 
 Kiosk Radio is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Eleou. See dates, start times and who's playing. Place des Palais 10, 1000 Bruxelles, Belgique.
 
@@ -14,4 +14,4 @@ Kiosk Radio is a music venue in Brussels listed on soundcheck. 1 upcoming gig, w
 
 Place des Palais 10, 1000 Bruxelles, Belgique, Brussels
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/kiosk-radio/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/kiosk-radio/)*

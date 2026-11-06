@@ -1,8 +1,8 @@
 # CHRIS STASSY
 
-CHRIS STASSY is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Lenovo Garage, Madrid on Sun, 8 Nov 2026.
+CHRIS STASSY is a House and Techno artist with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Lenovo Garage, Madrid on Sun, 8 Nov 2026.
 
-CHRIS STASSY is a house and techno artist based in Netherlands, with 304 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 69 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: The Lenovo Garage, Madrid on Sun 8 Nov.
+CHRIS STASSY is a house and techno artist based in Netherlands, with 305 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Austin and 70 more. Often billed alongside Jamie Jones, Seth Troxler and Joseph Capriati. Next up: The Lenovo Garage, Madrid on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -17,9 +17,9 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 304 gigs on
 | Sun, 6 Dec 2026 | The Cause | London |
 | Fri, 18 Dec 2026 | Kaufleuten | Zurich |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Sat, 26 Dec 2026 | Kaiserlounge Ellmau | Austria |
 | Fri, 8 Jan 2027 | TBA - La Fabrica, Cordoba | Argentina |
 | Sun, 28 Feb 2027 | Ozone Reserve | Perth |
-| Fri, 5 Mar 2027 | Moyston | Melbourne |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ CHRIS STASSY is a house and techno artist based in Netherlands, with 304 gigs on
 
 Jamie Jones, Seth Troxler, Joseph Capriati
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisstussy/)*

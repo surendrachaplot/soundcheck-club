@@ -1,6 +1,6 @@
 # Home The Venue
 
-Home The Venue is a music venue in Sydney with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Old Skool Daze x House CLTR pres. Miguel Campbell (Outcross/Hot Creations)" on Sat, 7 Nov 2026.
+Home The Venue is a music venue in Sydney with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Old Skool Daze x House CLTR pres. Miguel Campbell (Outcross/Hot Creations)" on Sat, 7 Nov 2026.
 
 Home The Venue is a music venue in Sydney listed on soundcheck. 14 upcoming gigs, with line-ups including Aline Rocha, Domonique Dee, Electra and Horse Meat Disco and 2 more. See dates, start times and who's playing. 101 Wheat Rd; Darling Harbour, NSW 2000; Australia.
 
@@ -23,4 +23,4 @@ Home The Venue is a music venue in Sydney listed on soundcheck. 14 upcoming gigs
 
 101 Wheat Rd; Darling Harbour, NSW 2000; Australia, Sydney
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/home-the-venue/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/home-the-venue/)*

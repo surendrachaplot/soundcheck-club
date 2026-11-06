@@ -1,6 +1,6 @@
 # Henry (DE)
 
-Henry (DE) is a Minimal and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
+Henry (DE) is a Minimal and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 6 Nov 2026.
 
 Henry (DE) is a minimal and deep house artist based in Germany, with 3 gigs on soundcheck across Berlin and Hamburg. Often billed alongside 5euroGoldi, August Kind and Enchanted Rhythms. Next up: Humboldthain Club, Berlin on Fri 6 Nov.
 
@@ -19,4 +19,4 @@ Henry (DE) is a minimal and deep house artist based in Germany, with 3 gigs on s
 
 5euroGoldi, August Kind, Enchanted Rhythms
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henryde/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henryde/)*

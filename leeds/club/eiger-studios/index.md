@@ -1,6 +1,6 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Twister x Peppermint w/ Club Cosmos" on Fri, 6 Nov 2026.
+Eiger Studios is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Twister x Peppermint w/ Club Cosmos" on Fri, 6 Nov 2026.
 
 Eiger Studios is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
@@ -23,4 +23,4 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, 
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

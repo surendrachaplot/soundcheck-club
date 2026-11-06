@@ -1,6 +1,6 @@
 # Sway Of The Verses
 
-Sway Of The Verses is a Dub and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Block C, London on Fri, 13 Nov 2026.
+Sway Of The Verses is a Dub and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Block C, London on Fri, 13 Nov 2026.
 
 Sway Of The Verses is a dub and jazz artist based in United Kingdom, with 19 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside Amrisha, Mithun and the butcher bird. Next up: Block C, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sway Of The Verses is a dub and jazz artist based in United Kingdom, with 19 gig
 
 Amrisha, Mithun, the butcher bird
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swayoftheverses/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swayoftheverses/)*

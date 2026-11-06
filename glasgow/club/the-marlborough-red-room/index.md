@@ -1,6 +1,6 @@
 # The Marlborough Red Room
 
-The Marlborough Red Room is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "[CANCELLED] Sicrea Party" on Sat, 7 Nov 2026.
+The Marlborough Red Room is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "[CANCELLED] Sicrea Party" on Sat, 7 Nov 2026.
 
 The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Bellarosa, Dreamstate_2k, LAUZ and leahgte and 2 more. See dates, start times and who's playing. 26 Langside Avenue, Glasgow, G41 2QS, United Kingdom.
 
@@ -16,4 +16,4 @@ The Marlborough Red Room is a music venue in Glasgow listed on soundcheck. 3 upc
 
 26 Langside Avenue, Glasgow, G41 2QS, United Kingdom, Glasgow
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-marlborough-red-room/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-marlborough-red-room/)*

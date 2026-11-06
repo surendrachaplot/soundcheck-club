@@ -1,8 +1,8 @@
 # Larry Cadge
 
-Larry Cadge is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 8 Nov 2026.
+Larry Cadge is a House and Minimal artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 8 Nov 2026.
 
-Larry Cadge is a house and minimal artist based in United Kingdom, with 61 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Grittrip. Next up: Starlane Pizza Bar, London on Sun 8 Nov.
+Larry Cadge is a house and minimal artist based in United Kingdom, with 62 gigs on soundcheck across Barcelona, London and Milan. Often billed alongside Andrea Giudice, Irren and Mono Dust_. Next up: Starlane Pizza Bar, London on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Larry Cadge is a house and minimal artist based in United Kingdom, with 61 gigs 
 | Sun, 8 Nov 2026 | Starlane Pizza Bar | London |
 | Sat, 14 Nov 2026 | Colour Factory | London |
 | Sat, 19 Dec 2026 | Colour Factory | London |
+| Thu, 31 Dec 2026 | TBA - Hackney Wick Secret Location | London |
 | Sat, 16 Jan 2027 | Colour Factory | London |
 | Sat, 13 Feb 2027 | Colour Factory | London |
 | Sat, 13 Mar 2027 | Colour Factory | London |
@@ -30,6 +31,6 @@ Larry Cadge is a house and minimal artist based in United Kingdom, with 61 gigs 
 
 ## Shares bills with
 
-Andrea Giudice, Irren, Grittrip
+Andrea Giudice, Irren, Mono Dust_
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larrycadge/)*

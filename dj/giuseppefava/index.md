@@ -1,6 +1,6 @@
 # Giuseppe Fava
 
-Giuseppe Fava is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Apollo Club Milano, Milan on Fri, 6 Nov 2026.
+Giuseppe Fava is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Apollo Club Milano, Milan on Fri, 6 Nov 2026.
 
 Giuseppe Fava is a house and disco artist based in Italy, with 34 gigs on soundcheck across Berlin, Bologna, London and Milan and 3 more. Often billed alongside Obbi, ThanksMate and KARLOVE. Next up: Apollo Club Milano, Milan on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Giuseppe Fava is a house and disco artist based in Italy, with 34 gigs on soundc
 
 Obbi, ThanksMate, KARLOVE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppefava/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giuseppefava/)*

@@ -1,6 +1,6 @@
 # Mahony
 
-Mahony is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Sat, 7 Nov 2026.
+Mahony is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Sat, 7 Nov 2026.
 
 Mahony is a tech house and house artist, with 90 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Yaya, Paco Osuna and Marco Carola. Next up: TBA - Grand Hyatt JJ Mahoney's, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mahony is a tech house and house artist, with 90 gigs on soundcheck across Amste
 
 Yaya, Paco Osuna, Marco Carola
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Mahony/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Mahony/)*

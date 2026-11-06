@@ -1,8 +1,8 @@
 # Vasho
 
-Vasho is a Dub Techno and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cosies, Bristol on Sat, 7 Nov 2026.
+Vasho is a Dub Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cosies, Bristol on Sat, 7 Nov 2026.
 
-Vasho is a dub techno and ambient artist based in Canada, with 28 gigs on soundcheck across Bristol, Calgary, London and Vancouver. Often billed alongside Atrament, Willisist and Kai Bradley. Next up: Cosies, Bristol on Sat 7 Nov.
+Vasho is a dub techno and ambient artist based in Canada, with 29 gigs on soundcheck across Bristol, Calgary, London and Vancouver. Often billed alongside Atrament, Willisist and Kai Bradley. Next up: Cosies, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Vasho is a dub techno and ambient artist based in Canada, with 28 gigs on soundc
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Cosies | Bristol |
 | Thu, 19 Nov 2026 | Planet Wax | London |
+| Sat, 28 Nov 2026 | TBA - East Van | Vancouver |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Vasho is a dub techno and ambient artist based in Canada, with 28 gigs on soundc
 
 Atrament, Willisist, Kai Bradley
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vasho/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vasho/)*

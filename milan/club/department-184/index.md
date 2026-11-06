@@ -1,6 +1,6 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Technocrazia: Pure Wax with Hashashin" on Sat, 7 Nov 2026.
+Department 184 is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Technocrazia: Pure Wax with Hashashin" on Sat, 7 Nov 2026.
 
 Department 184 is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Brasile, Alinette and Hashashin. See dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
@@ -15,4 +15,4 @@ Department 184 is a music venue in Milan listed on soundcheck. 2 upcoming gigs, 
 
 Via Varesina, 184, 20156 Milano MI, Milan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/department-184/)*

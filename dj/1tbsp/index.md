@@ -1,6 +1,6 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+1tbsp is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 1tbsp is a house and electronica artist based in Australia, with 131 gigs on soundcheck across Atlanta, Auckland, Austin and Barcelona and 38 more. Often billed alongside Killian, Mietze Conte and SOLTERA. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -27,4 +27,4 @@
 
 Killian, Mietze Conte, SOLTERA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

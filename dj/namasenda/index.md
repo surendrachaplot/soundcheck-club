@@ -1,6 +1,6 @@
 # Namasenda
 
-Namasenda is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Distriktfem, Stockholm on Sat, 7 Nov 2026.
+Namasenda is a Pop and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Distriktfem, Stockholm on Sat, 7 Nov 2026.
 
 Namasenda is a pop and club artist based in Sweden, with 23 gigs on soundcheck across Barcelona, Brussels, Glasgow and Leipzig and 10 more. Often billed alongside Arthi, Boys Noize and CITYTRONIX. Next up: Distriktfem, Stockholm on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Namasenda is a pop and club artist based in Sweden, with 23 gigs on soundcheck a
 
 Arthi, Boys Noize, CITYTRONIX
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/namasenda/)*

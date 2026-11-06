@@ -1,6 +1,6 @@
 # dylliboi_91
 
-dylliboi_91 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Amp, Münster on Sat, 28 Nov 2026.
+dylliboi_91 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Amp, Münster on Sat, 28 Nov 2026.
 
 dylliboi_91 is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Dortmund / Essen, Düsseldorf and Münster. Often billed alongside snoritz, Valeby and Schwesta P. Next up: Amp, Münster on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ dylliboi_91 is a techno and trance artist based in Germany, with 57 gigs on soun
 
 snoritz, Valeby, Schwesta P
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylliboi_91/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dylliboi_91/)*

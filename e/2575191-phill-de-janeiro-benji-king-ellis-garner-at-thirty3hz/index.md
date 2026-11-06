@@ -1,6 +1,6 @@
 # Phill de Janeiro, Benji King & Ellis Garner at Thirty3hz
 
-Phill de Janeiro, Benji King & Ellis Garner at Thirty3hz on Sat 7 Nov, South East. 2 artists: Benji King and Phill de Janeiro. See the line-up on soundcheck.
+Phill de Janeiro, Benji King & Ellis Garner at Thirty3hz on Sat 7 Nov, South East. 3 artists: Benji King, Ellis Garner and Phill de Janeiro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Phill de Janeiro, Benji King & Ellis Garner at Thirty3hz on Sat 7 Nov, South Eas
 ## Line-up
 
 - Benji King
+- Ellis Garner
 - Phill de Janeiro
 
 *Source: [soundcheck](https://soundcheck.club/e/2575191-phill-de-janeiro-benji-king-ellis-garner-at-thirty3hz/)*

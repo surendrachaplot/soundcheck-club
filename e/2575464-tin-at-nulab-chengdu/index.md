@@ -1,6 +1,6 @@
-# Tin - 低速小说 @厅 at Nulab Chengdu
+# 厅 | 低速小说 @Tin at Nulab Chengdu
 
-Tin - 低速小说 @厅 at Nulab Chengdu on Fri 6 Nov, Chengdu. Techno and Deep House. See the line-up on soundcheck.
+厅 | 低速小说 @Tin at Nulab Chengdu on Fri 6 Nov, Chengdu. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

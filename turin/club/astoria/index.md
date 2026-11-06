@@ -1,6 +1,6 @@
 # Astoria
 
-Astoria is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Jin Synth (Semantica Records, On Board Music, KR3 Records /TW) hosted by Eclisse" on Fri, 6 Nov 2026.
+Astoria is a music venue in Turin with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Jin Synth (Semantica Records, On Board Music, KR3 Records /TW) hosted by Eclisse" on Fri, 6 Nov 2026.
 
 Astoria is a music venue in Turin listed on soundcheck. 6 upcoming gigs, with line-ups including BENZA, Delano Legito, Hellcatz and IDJayy and 2 more. See dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
@@ -19,4 +19,4 @@ Astoria is a music venue in Turin listed on soundcheck. 6 upcoming gigs, with li
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

@@ -1,6 +1,6 @@
 # Tucu (Tucu)
 
-Tucu (Tucu) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
+Tucu (Tucu) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
 
 Tucu (Tucu) is a house and techno artist based in Argentina, with 85 gigs on soundcheck across Madrid. Often billed alongside Brisa Then, Guidomik and TRIXXI. Next up: TBA - SECRET LOCATION - LA FINCA, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Tucu (Tucu) is a house and techno artist based in Argentina, with 85 gigs on sou
 
 Brisa Then, Guidomik, TRIXXI
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tucutucu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tucutucu/)*

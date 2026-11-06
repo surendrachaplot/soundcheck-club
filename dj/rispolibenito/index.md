@@ -1,6 +1,6 @@
 # Rispoli Benito
 
-Rispoli Benito is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Wall Club, Naples on Sat, 7 Nov 2026.
+Rispoli Benito is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Wall Club, Naples on Sat, 7 Nov 2026.
 
 Rispoli Benito is a techno and hardcore artist based in Italy, with 39 gigs on soundcheck across Aberdeen, Basel, Cologne and Florence and 3 more. Often billed alongside ACIDROB, Flour and Rian Wood. Next up: The Wall Club, Naples on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Rispoli Benito is a techno and hardcore artist based in Italy, with 39 gigs on s
 
 ACIDROB, Flour, Rian Wood
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rispolibenito/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rispolibenito/)*

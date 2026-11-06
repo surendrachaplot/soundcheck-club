@@ -1,6 +1,6 @@
 # Pete James
 
-Pete James is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Old Court, South-east on Sat, 7 Nov 2026.
+Pete James is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Old Court, South-east on Sat, 7 Nov 2026.
 
 Pete James is a techno and house artist based in United Kingdom, with 10 gigs on soundcheck across Leeds, Lisbon, London and South East. Often billed alongside Man on Wax, Chris MiMo and Kid Fiesta. Next up: The Old Court, South East on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Pete James is a techno and house artist based in United Kingdom, with 10 gigs on
 
 Man on Wax, Chris MiMo, Kid Fiesta
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petejames/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petejames/)*

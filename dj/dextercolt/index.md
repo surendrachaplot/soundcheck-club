@@ -1,8 +1,8 @@
 # Dexter Colt
 
-Dexter Colt is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at West Harlem, Kyoto on Fri, 6 Nov 2026.
+Dexter Colt is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at West Harlem, Kyoto on Fri, 6 Nov 2026.
 
-Dexter Colt is a house and techno artist based in Canada, with 64 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Kyoto and 5 more. Often billed alongside Daryl Knows, Bongomann and Dean Chew. Next up: West Harlem, Kyoto on Fri 6 Nov.
+Dexter Colt is a house and techno artist based in Canada, with 65 gigs on soundcheck across Bangkok, Hanoi, Hong Kong and Kyoto and 5 more. Often billed alongside Daryl Knows, Bongomann and Dean Chew. Next up: West Harlem, Kyoto on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Dexter Colt is a house and techno artist based in Canada, with 64 gigs on soundc
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | West Harlem | Kyoto |
 | Sat, 7 Nov 2026 | BAR Inc | Osaka |
+| Fri, 13 Nov 2026 | MIDNIGHT EAST | Tokyo |
 | Fri, 20 Nov 2026 | RASA | Singapore |
 | Sat, 12 Dec 2026 | 宀 Club | Hong Kong |
 
@@ -28,4 +29,4 @@ Dexter Colt is a house and techno artist based in Canada, with 64 gigs on soundc
 
 Daryl Knows, Bongomann, Dean Chew
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dextercolt/)*

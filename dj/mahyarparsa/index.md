@@ -1,6 +1,6 @@
 # Mahyar Parsa
 
-Mahyar Parsa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Saba Event Space Al Seef, Dubai on Sat, 7 Nov 2026.
+Mahyar Parsa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Saba Event Space Al Seef, Dubai on Sat, 7 Nov 2026.
 
 Mahyar Parsa is a techno and house artist, with 23 gigs on soundcheck across Dubai, Perth and Tbilisi. Often billed alongside Payam Parvizi, Kirill Zhan and Rose-End. Next up: Saba Event Space Al Seef, Dubai on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mahyar Parsa is a techno and house artist, with 23 gigs on soundcheck across Dub
 
 Payam Parvizi, Kirill Zhan, Rose-End
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahyarparsa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mahyarparsa/)*

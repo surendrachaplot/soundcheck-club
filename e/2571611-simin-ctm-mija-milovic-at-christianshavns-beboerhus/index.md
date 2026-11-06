@@ -1,6 +1,6 @@
 # Simin / CTM & Mija Milovic at Christianshavns Beboerhus
 
-Simin / CTM & Mija Milovic at Christianshavns Beboerhus on Fri 18 Dec, Copenhagen. 1 artist: CTM. See the line-up on soundcheck.
+Simin / CTM & Mija Milovic at Christianshavns Beboerhus on Fri 18 Dec, Copenhagen. 2 artists: CTM and Mija Milovic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Simin / CTM & Mija Milovic at Christianshavns Beboerhus on Fri 18 Dec, Copenhage
 ## Line-up
 
 - CTM (1)
+- Mija Milovic
 
 *Source: [soundcheck](https://soundcheck.club/e/2571611-simin-ctm-mija-milovic-at-christianshavns-beboerhus/)*

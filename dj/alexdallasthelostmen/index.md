@@ -1,15 +1,17 @@
 # Alex Dallas
 
-Alex Dallas is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
+Alex Dallas is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Golden Lion, Manchester on Fri, 13 Nov 2026.
 
-Alex Dallas is an electronica and house artist based in Switzerland, with 72 gigs on soundcheck across Berlin, Lausanne, Manchester and Mykonos and 1 more. Often billed alongside Kalabrese, Manuel Fischer and Jenny Cara. Next up: The Golden Lion, Manchester on Fri 13 Nov.
+Alex Dallas is an electronica and house artist based in Switzerland, with 74 gigs on soundcheck across Berlin, Lausanne, Manchester and Mykonos and 1 more. Often billed alongside Kalabrese, Manuel Fischer and KAYYAK. Next up: The Golden Lion, Manchester on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Golden Lion | Manchester |
+| Sat, 21 Nov 2026 | Kino Roland | Zurich |
 | Fri, 27 Nov 2026 | Amboss Rampe | Zurich |
+| Fri, 18 Dec 2026 | Kino Roland | Zurich |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ Alex Dallas is an electronica and house artist based in Switzerland, with 72 gig
 
 ## Shares bills with
 
-Kalabrese, Manuel Fischer, Jenny Cara
+Kalabrese, Manuel Fischer, KAYYAK
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdallasthelostmen/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexdallasthelostmen/)*

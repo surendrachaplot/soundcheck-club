@@ -1,6 +1,6 @@
 # DJ Budai
 
-DJ Budai is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Atno, Budapest on Sat, 21 Nov 2026.
+DJ Budai is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Atno, Budapest on Sat, 21 Nov 2026.
 
 DJ Budai is a techno and house artist based in Hungary, with 22 gigs on soundcheck across Budapest. Often billed alongside AESZTETIK, Falcao and Tolo. Next up: Atno, Budapest on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ DJ Budai is a techno and house artist based in Hungary, with 22 gigs on soundche
 
 AESZTETIK, Falcao, Tolo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbudai/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbudai/)*

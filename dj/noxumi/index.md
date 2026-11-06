@@ -1,14 +1,15 @@
 # Noxumi
 
-Noxumi is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+Noxumi is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
-Noxumi is a techno and tech house artist based in Turkey, with 12 gigs on soundcheck across Berlin and Leipzig. Often billed alongside EVYA, Nadia Bel Air and Vantavision. Next up: ://about blank, Berlin on Fri 4 Dec.
+Noxumi is a techno and tech house artist based in Turkey, with 13 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Vantavision, EVYA and Nadia Bel Air. Next up: ://about blank, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | ://about blank | Berlin |
+| Wed, 16 Dec 2026 | Sensorium | Berlin |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Noxumi is a techno and tech house artist based in Turkey, with 12 gigs on soundc
 
 ## Shares bills with
 
-EVYA, Nadia Bel Air, Vantavision
+Vantavision, EVYA, Nadia Bel Air
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noxumi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noxumi/)*

@@ -1,6 +1,6 @@
 # slowdancexo
 
-slowdancexo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
+slowdancexo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 27 Nov 2026.
 
 slowdancexo is a techno and trance artist based in United States of America, with 8 gigs on soundcheck across Austin, Denver, New York City and San Diego. Often billed alongside Ak-4ya, Al V Dam and Amado. Next up: The Chocolate Factory, New York City on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ slowdancexo is a techno and trance artist based in United States of America, wit
 
 Ak-4ya, Al V Dam, Amado
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowdancexo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slowdancexo/)*

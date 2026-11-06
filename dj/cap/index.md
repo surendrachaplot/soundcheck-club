@@ -1,6 +1,6 @@
 # Cap
 
-Cap is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Cap is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Cap is a house and minimal artist based in Romania, with 173 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 41 more. Often billed alongside Dan Andrei, Doudou MD and Rhadoo. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -16,6 +16,7 @@ Cap is a house and minimal artist based in Romania, with 173 gigs on soundcheck 
 
 ## Recently played
 
+- One Resort, Tunisia · Thu, 5 Nov 2026
 - Orlagh House, Dublin · Fri, 30 Oct 2026
 - Platforma Wolff, Bucharest · Fri, 30 Oct 2026
 - Blast Galaxy, Amsterdam · Sun, 25 Oct 2026
@@ -23,10 +24,9 @@ Cap is a house and minimal artist based in Romania, with 173 gigs on soundcheck 
 - TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Department 184, Milan · Sat, 17 Oct 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
-- Le Palazzo, Morocco · Wed, 30 Sept 2026
 
 ## Shares bills with
 
 Dan Andrei, Doudou MD, Rhadoo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cap/)*

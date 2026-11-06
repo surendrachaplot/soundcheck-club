@@ -1,14 +1,14 @@
 # kazarov
 
-kazarov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cavo Rooftop, Lisbon on Sat, 7 Nov 2026.
+kazarov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cavo Rooftop, Lisbon on Thu, 12 Nov 2026.
 
-kazarov is a house and techno artist based in Ukraine, with 13 gigs on soundcheck across Lisbon. Often billed alongside ELEVIN, Alberto Pizzarelli and Chris Veron. Next up: Cavo Rooftop, Lisbon on Sat 7 Nov.
+kazarov is a house and techno artist based in Ukraine, with 13 gigs on soundcheck across Lisbon. Often billed alongside ELEVIN, Alberto Pizzarelli and Chris Veron. Next up: Cavo Rooftop, Lisbon on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Cavo Rooftop | Lisbon |
+| Thu, 12 Nov 2026 | Cavo Rooftop | Lisbon |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ kazarov is a house and techno artist based in Ukraine, with 13 gigs on soundchec
 
 ELEVIN, Alberto Pizzarelli, Chris Veron
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazarov/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazarov/)*

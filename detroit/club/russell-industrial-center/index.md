@@ -1,6 +1,6 @@
 # Russell Industrial Center
 
-Russell Industrial Center is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Steve Aoki: Dim Mak 30 Tour" on Fri, 6 Nov 2026.
+Russell Industrial Center is a music venue in Detroit with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Steve Aoki: Dim Mak 30 Tour" on Fri, 6 Nov 2026.
 
 Russell Industrial Center is a music venue in Detroit listed on soundcheck. 7 upcoming gigs, with line-ups including Annicka, DJ SPHiNX, Layton Giordani and Nils Hoffmann and 2 more. See dates, start times and who's playing. 1600 Clay Street; Detroit; Michigan; 48211.
 
@@ -20,4 +20,4 @@ Russell Industrial Center is a music venue in Detroit listed on soundcheck. 7 up
 
 1600 Clay Street; Detroit; Michigan; 48211, Detroit
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/russell-industrial-center/)*

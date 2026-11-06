@@ -1,14 +1,13 @@
 # Atemporal
 
-Atemporal is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "LOST CHILDHOOD TAPES – The New" on Thu, 5 Nov 2026.
+Atemporal is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Teshi's Fine Hour: Entre Trópicos with Alejandro Tafur Fernández" on Sat, 7 Nov 2026.
 
-Atemporal is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including Julion De'Angelo, Ken Okuda, Okvsho and Otis Mensah. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
+Atemporal is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Julion De'Angelo, Ken Okuda, Okvsho and Otis Mensah. See dates, start times and who's playing. Boxhagener Str. 96 1st floor left, 10245 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | LOST CHILDHOOD TAPES – The New |  |
 | Sat, 7 Nov 2026 | Teshi's Fine Hour: Entre Trópicos with Alejandro Tafur Fernández |  |
 | Sun, 8 Nov 2026 | For the Luminous Warmth- Album Release |  |
 | Sun, 8 Nov 2026 | Otis Mensah's 'Come Beautify The Night' - ANALOGUE & ALIVE PRE-RELEASE LISTENING SESSSION | Otis Mensah |
@@ -18,9 +17,10 @@ Atemporal is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, wit
 | Thu, 19 Nov 2026 | 'Black Is...' presents Julion De'Angelo: Catalyst album listening | Julion De'Angelo |
 | Sat, 28 Nov 2026 | The Portal presents a double release evening with Kimi Recor and Yasemin Vollmond |  |
 | Sat, 28 Nov 2026 | Sattva Session |  |
+| Sun, 29 Nov 2026 | Okvsho - Listening Session | Okvsho |
 
 ## Address
 
 Boxhagener Str. 96 1st floor left, 10245 Berlin, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/atemporal/)*

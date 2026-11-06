@@ -1,6 +1,6 @@
 # yo haan
 
-yo haan is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kolektor, Prague on Fri, 6 Nov 2026.
+yo haan is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kolektor, Prague on Fri, 6 Nov 2026.
 
 yo haan is a techno and electro artist based in Czech Republic, with 39 gigs on soundcheck across Bratislava and Prague. Often billed alongside SJ Yellow, 3ever and Nina Farrina. Next up: Kolektor, Prague on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ yo haan is a techno and electro artist based in Czech Republic, with 39 gigs on 
 
 SJ Yellow, 3ever, Nina Farrina
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yohaan/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yohaan/)*

@@ -1,6 +1,6 @@
 # OHM at Débris
 
-OHM at Débris on Fri 20 Nov, Tokyo. 2 artists: SOGI and suimin. Techno and Minimal Techno. See the line-up on soundcheck.
+OHM at Débris on Fri 20 Nov, Tokyo. 3 artists: MonoGoi, SOGI and suimin. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OHM at Débris on Fri 20 Nov, Tokyo. 2 artists: SOGI and suimin. Techno and Mini
 
 ## Line-up
 
+- MonoGoi
 - SOGI
 - suimin
 

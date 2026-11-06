@@ -1,13 +1,14 @@
 # Lapilli
 
-Lapilli is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Paris Bar, Detroit on Sat, 14 Nov 2026.
+Lapilli is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
 
-Lapilli is a house and techno artist, with 19 gigs on soundcheck across Detroit, Nashville and New York City. Often billed alongside Volast, Nicholas Latiff and Mr. Murray. Next up: Paris Bar, Detroit on Sat 14 Nov.
+Lapilli is a house and techno artist, with 20 gigs on soundcheck across Detroit, Nashville and New York City. Often billed alongside Volast, Nicholas Latiff and Mr. Murray. Next up: TBA - Obedient Missionary, Detroit on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | TBA - Obedient Missionary | Detroit |
 | Sat, 14 Nov 2026 | Paris Bar | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lapilli is a house and techno artist, with 19 gigs on soundcheck across Detroit,
 
 Volast, Nicholas Latiff, Mr. Murray
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lapilli/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lapilli/)*

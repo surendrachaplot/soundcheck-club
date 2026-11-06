@@ -1,14 +1,15 @@
 # Timur Basha
 
-Timur Basha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
+Timur Basha is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
 
-Timur Basha is a techno and house artist based in Ukraine, with 46 gigs on soundcheck across Bangkok, Barcelona, Berlin and Hamburg and 10 more. Often billed alongside Shakolin, Karine and Yone-Ko. Next up: 1520, Manchester on Sat 7 Nov.
+Timur Basha is a techno and house artist based in Ukraine, with 47 gigs on soundcheck across Bangkok, Barcelona, Berlin and Hamburg and 10 more. Often billed alongside Shakolin, Karine and Yone-Ko. Next up: 1520, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | 1520 | Manchester |
+| Sun, 8 Nov 2026 | 1520 | Manchester |
 | Fri, 29 Jan 2027 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
@@ -26,4 +27,4 @@ Timur Basha is a techno and house artist based in Ukraine, with 46 gigs on sound
 
 Shakolin, Karine, Yone-Ko
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timurbasha/)*

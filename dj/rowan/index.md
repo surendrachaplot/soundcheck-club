@@ -1,6 +1,6 @@
 # Rowan
 
-Rowan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Recyclart, Brussels on Fri, 13 Nov 2026.
+Rowan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Recyclart, Brussels on Fri, 13 Nov 2026.
 
 Rowan is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside Desyn, Faciendo Soundsystem and Tom Morgan. Next up: Recyclart, Brussels on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Rowan is a house and tech house artist based in United Kingdom, with 15 gigs on 
 
 Desyn, Faciendo Soundsystem, Tom Morgan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rowan/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rowan/)*

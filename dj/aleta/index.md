@@ -1,6 +1,6 @@
 # Aleta
 
-Aleta is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at PRST, Vienna on Fri, 20 Nov 2026.
+Aleta is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at PRST, Vienna on Fri, 20 Nov 2026.
 
 Aleta is a techno and trance artist based in Austria, with 27 gigs on soundcheck across Berlin and Vienna. Often billed alongside BRX, KRAWALLBARBIE and Vanessa Sa. Next up: PRST, Vienna on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Aleta is a techno and trance artist based in Austria, with 27 gigs on soundcheck
 
 BRX (2), KRAWALLBARBIE, Vanessa Sa
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleta/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleta/)*

@@ -1,6 +1,6 @@
 # Fvbricia
 
-Fvbricia is a Afrobeat and Kuduro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Point Ephémère, Paris on Sat, 21 Nov 2026.
+Fvbricia is a Afrobeat and Kuduro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Point Ephémère, Paris on Sat, 21 Nov 2026.
 
 Fvbricia is an afrobeat and kuduro artist based in Portugal, with 35 gigs on soundcheck across Brussels, Geneva, Lisbon and Paris. Often billed alongside Saint Caboclo, BANU and Circa Papi. Next up: Point Ephémère, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Fvbricia is an afrobeat and kuduro artist based in Portugal, with 35 gigs on sou
 
 Saint Caboclo, BANU (2), Circa Papi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fvbricia/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fvbricia/)*

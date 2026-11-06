@@ -1,6 +1,6 @@
 # Rivo
 
-Rivo is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 7 Nov 2026.
+Rivo is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Rivo is a house and afro house artist based in France, with 69 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 29 more. Often billed alongside Eric Prydz, Bender and Miss Monique. Next up: Madarae San Francisco, San Francisco/Oakland on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Rivo is a house and afro house artist based in France, with 69 gigs on soundchec
 
 Eric Prydz, Bender, Miss Monique
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rivo/)*

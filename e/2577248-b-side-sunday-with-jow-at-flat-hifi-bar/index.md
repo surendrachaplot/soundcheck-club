@@ -1,10 +1,10 @@
 # B-Side Sunday with Jow at Flat HiFi Bar
 
-B-Side Sunday with Jow at Flat HiFi Bar on Sat 7 Nov, Madrid. See the line-up on soundcheck.
+B-Side Sunday with Jow at Flat HiFi Bar on Sun 15 Nov, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 7 Nov 2026 |
+| Date | Sun, 15 Nov 2026 |
 | Venue | Flat HiFi Bar |
 | City | Madrid |
 

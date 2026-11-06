@@ -1,8 +1,8 @@
 # Brother of Set
 
-Brother of Set is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
+Brother of Set is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Electrowerkz, London on Fri, 27 Nov 2026.
 
-Brother of Set is a techno and ebm artist based in United Kingdom, with 23 gigs on soundcheck across Bristol, Glasgow, Ljubljana and London and 3 more. Often billed alongside Wax Wings, Lewis G. Burton and Ricardo Castro. Next up: Electrowerkz, London on Fri 27 Nov.
+Brother of Set is a techno and ebm artist based in United Kingdom, with 24 gigs on soundcheck across Bristol, Glasgow, Ljubljana and London and 3 more. Often billed alongside Wax Wings, Lewis G. Burton and Ricardo Castro. Next up: Electrowerkz, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Brother of Set is a techno and ebm artist based in United Kingdom, with 23 gigs 
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Electrowerkz | London |
 | Sat, 28 Nov 2026 | Colours Hoxton | London |
+| Sat, 19 Dec 2026 | Walthamstow Trades Hall | London |
 | Sat, 13 Feb 2027 | The Old Church | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Brother of Set is a techno and ebm artist based in United Kingdom, with 23 gigs 
 
 Wax Wings, Lewis G. Burton, Ricardo Castro
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherofset/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brotherofset/)*

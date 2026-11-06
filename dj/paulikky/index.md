@@ -1,6 +1,6 @@
 # Paul Ikky
 
-Paul Ikky is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 6 Nov 2026.
+Paul Ikky is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Azul Rooftop Barceloneta, Barcelona on Fri, 6 Nov 2026.
 
 Paul Ikky is a progressive house and deep house artist based in Spain, with 8 gigs on soundcheck across Barcelona and Madrid. Often billed alongside pumbum, Jou Nielsen and Bill Hates. Next up: Azul Rooftop Barceloneta, Barcelona on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Paul Ikky is a progressive house and deep house artist based in Spain, with 8 gi
 
 pumbum, Jou Nielsen, Bill Hates
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulikky/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulikky/)*

@@ -1,6 +1,6 @@
 # Dan Shake
 
-Dan Shake is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
+Dan Shake is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Electric Studios, Sheffield on Fri, 6 Nov 2026.
 
 Dan Shake is a house and disco artist based in United Kingdom, with 209 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austria and 54 more. Often billed alongside Eliza Rose, MiNNA and Eats Everything. Next up: Electric Studios, Sheffield on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Dan Shake is a house and disco artist based in United Kingdom, with 209 gigs on 
 
 Eliza Rose, MiNNA, Eats Everything
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danshake/)*

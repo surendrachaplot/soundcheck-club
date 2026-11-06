@@ -1,14 +1,13 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 27 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "VICE VERSA Invites The Muffin Man" on Thu, 5 Nov 2026.
+The Berkeley Suite is a music venue in Glasgow with 26 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "The Berkeley Suite presents: Shanti Celeste" on Fri, 6 Nov 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 27 upcoming gigs, with line-ups including BAUGRUPPE90, Carmen Baía, Co-Accused and Crazy P and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 26 upcoming gigs, with line-ups including BAUGRUPPE90, Carmen Baía, Co-Accused and Crazy P and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | VICE VERSA Invites The Muffin Man | LAUZ, Mixfits (2), The Muffin Man |
 | Fri, 6 Nov 2026 | The Berkeley Suite presents: Shanti Celeste | Carmen Baía, Shanti Celeste, Sophia Constantinou |
 | Sat, 7 Nov 2026 | The Berkeley Suite presents - Erol Alkan // To the Rhythm All Night Long | Erol Alkan |
 | Tue, 10 Nov 2026 | CASA: INSOMNIA (EXTRA 90's, 00's RAVE CLASSICS) // 10TH NOVEMBER |  |
@@ -18,9 +17,10 @@ The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 27 upcoming
 | Sat, 14 Nov 2026 | The Berkeley Suite present: GOO W// Daniel Avery x Richard Fearless | Daniel Avery, Richard Fearless |
 | Wed, 18 Nov 2026 | PILOT |  |
 | Thu, 19 Nov 2026 | 2Passo // Tino |  |
+| Fri, 20 Nov 2026 | Polka Dot Disco Club ♡ The Berkeley Suite ♡ | Frankie Elyse |
 
 ## Address
 
 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom, Glasgow
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-berkeley-suite/)*

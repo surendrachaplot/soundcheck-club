@@ -1,14 +1,15 @@
 # ARSA
 
-ARSA is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Subcero Club, Madrid on Sat, 14 Nov 2026.
+ARSA is a Electronica and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Subcero Club, Madrid on Sat, 14 Nov 2026.
 
-ARSA is an electronica and techno artist, with 10 gigs on soundcheck across Madrid and Mexico City. Often billed alongside Vilor, Katire and La Vega. Next up: Subcero Club, Madrid on Sat 14 Nov.
+ARSA is an electronica and techno artist based in Spain, with 11 gigs on soundcheck across Madrid, Mexico City and North. Often billed alongside Katire, Vilor and Montse. Next up: Subcero Club, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Subcero Club | Madrid |
+| Fri, 1 Jan 2027 | TBA - Secret Location Burgos (casco historico) | North |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ARSA is an electronica and techno artist, with 10 gigs on soundcheck across Madr
 
 ## Shares bills with
 
-Vilor, Katire, La Vega
+Katire, Vilor, Montse
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arsa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arsa/)*

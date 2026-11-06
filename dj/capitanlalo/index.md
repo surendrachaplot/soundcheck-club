@@ -1,6 +1,6 @@
 # Capitan Lalo
 
-Capitan Lalo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Pimpernel, Munich on Fri, 13 Nov 2026.
+Capitan Lalo is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Pimpernel, Munich on Fri, 13 Nov 2026.
 
 Capitan Lalo is a house and electro artist based in Germany, with 17 gigs on soundcheck across Munich. Often billed alongside Felipe de M., B-ZEY and CHOOSE WHITE. Next up: Pimpernel, Munich on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Capitan Lalo is a house and electro artist based in Germany, with 17 gigs on sou
 
 Felipe de M., B-ZEY, CHOOSE WHITE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capitanlalo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capitanlalo/)*

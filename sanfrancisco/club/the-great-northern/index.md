@@ -1,6 +1,6 @@
 # The Great Northern
 
-The Great Northern is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Swordes (DJ Set)" on Fri, 6 Nov 2026.
+The Great Northern is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Swordes (DJ Set)" on Fri, 6 Nov 2026.
 
 The Great Northern is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including Alkemiss Erika, ALMAS, Anderson Bourne and Anthony Mansfield and 2 more. See dates, start times and who's playing. 119 Utah St, San Francisco, CA 94103.
 
@@ -9,7 +9,7 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Swordes (DJ Set) | EQ (Estratosfera + Qiri), Parallel Play, Swordes |
-| Fri, 13 Nov 2026 | Maceo Plex - The Great Northern | Alkemiss Erika, Combover, Emanate, MONĪ, Maceo Plex, Philco, Rooz |
+| Fri, 13 Nov 2026 | Maceo Plex - The Great Northern | Alkemiss Erika, Bo (Borzu), Combover, Emanate, MONĪ, Maceo Plex, Philco, Rooz |
 | Sat, 28 Nov 2026 | Polyglamorous x SQUISH: Sides featuring HAAi | BEYA, Beverly Chills, HAAi, Just Another Bitch, Mark O'Brien, Papa Xanny, likeholywine, nonsuit |
 | Sat, 5 Dec 2026 | Opulent Temple & Mioli's 4th Annual Holiday Party with Marten Hørger | ALMAS, Anderson Bourne, Emanate, Marten Hørger, Syd Gris |
 | Sat, 5 Dec 2026 | Opulent Temple & Mioli Music's 4th Annual Holiday Party | ALMAS, Anderson Bourne, Emanate, Marten Hørger, Syd Gris |
@@ -23,4 +23,4 @@ The Great Northern is a music venue in San Francisco/Oakland listed on soundchec
 
 119 Utah St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/the-great-northern/)*

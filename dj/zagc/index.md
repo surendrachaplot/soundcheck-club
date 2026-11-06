@@ -1,6 +1,6 @@
 # Zagc
 
-Zagc is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 7 Nov 2026.
+Zagc is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 7 Nov 2026.
 
 Zagc is a techno and house artist based in United States of America, with 28 gigs on soundcheck across Berlin, Chicago, Detroit and New York City and 2 more. Often billed alongside 11111111111, Miguel Cisne and Hameedullah. Next up: Bossa Nova Civic Club, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Zagc is a techno and house artist based in United States of America, with 28 gig
 
 11111111111, Miguel Cisne, Hameedullah
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zagc/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zagc/)*

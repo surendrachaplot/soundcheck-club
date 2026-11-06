@@ -1,6 +1,6 @@
 # Novopol
 
-Novopol is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Sucre, Lyon on Sat, 19 Dec 2026.
+Novopol is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Sucre, Lyon on Sat, 19 Dec 2026.
 
 Novopol is a techno and disco artist based in France, with 15 gigs on soundcheck across Lyon and Paris. Often billed alongside SUNT, Krimska and Mavy Aleah. Next up: Le Sucre, Lyon on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Novopol is a techno and disco artist based in France, with 15 gigs on soundcheck
 
 SUNT, Krimska, Mavy Aleah
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novopol/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/novopol/)*

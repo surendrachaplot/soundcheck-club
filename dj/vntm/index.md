@@ -1,6 +1,6 @@
 # VNTM
 
-VNTM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Lofi, Amsterdam on Sat, 14 Nov 2026.
+VNTM is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lofi, Amsterdam on Sat, 14 Nov 2026.
 
 VNTM is a techno and house artist based in Netherlands, with 60 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 11 more. Often billed alongside Beswerda, Hedda Stenberg and Mees Salomé. Next up: Lofi, Amsterdam on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ VNTM is a techno and house artist based in Netherlands, with 60 gigs on soundche
 
 Beswerda, Hedda Stenberg, Mees Salomé
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vntm/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vntm/)*

@@ -1,6 +1,6 @@
 # DXNBY
 
-DXNBY is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
+DXNBY is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
 
 DXNBY is a house and tech house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 23 more. Often billed alongside Ozzie Guven, ALISHA and East End Dubs. Next up: Mint XL, Leeds on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DXNBY is a house and tech house artist based in United Kingdom, with 120 gigs on
 
 Ozzie Guven, ALISHA, East End Dubs
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dxnby/)*

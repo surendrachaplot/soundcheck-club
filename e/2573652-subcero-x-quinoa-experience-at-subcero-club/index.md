@@ -1,6 +1,6 @@
 # Subcero x Quinoa Experience at Subcero Club
 
-Subcero x Quinoa Experience at Subcero Club on Sat 7 Nov, Madrid. 3 artists: Chris Gorrie, Gromma and Joy Boy. Electronica. See the line-up on soundcheck.
+Subcero x Quinoa Experience at Subcero Club on Sat 7 Nov, Madrid. 3 artists: Chris Gorrie, Gromma and JoyBoy. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ Subcero x Quinoa Experience at Subcero Club on Sat 7 Nov, Madrid. 3 artists: Chr
 
 - Chris Gorrie
 - Gromma
-- Joy Boy
+- JoyBoy
 
 *Source: [soundcheck](https://soundcheck.club/e/2573652-subcero-x-quinoa-experience-at-subcero-club/)*

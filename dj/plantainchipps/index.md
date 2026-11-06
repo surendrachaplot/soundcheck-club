@@ -1,6 +1,6 @@
 # Plantainchipps
 
-Plantainchipps is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Stereo, Glasgow on Fri, 6 Nov 2026.
+Plantainchipps is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Stereo, Glasgow on Fri, 6 Nov 2026.
 
 Plantainchipps is a techno and bass artist based in United Kingdom, with 48 gigs on soundcheck across Edinburgh, Glasgow, London and Sheffield. Often billed alongside Maveen, NAMÄN (UK) and Babyjaii. Next up: Stereo, Glasgow on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Plantainchipps is a techno and bass artist based in United Kingdom, with 48 gigs
 
 Maveen, NAMÄN (UK), Babyjaii
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plantainchipps/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plantainchipps/)*

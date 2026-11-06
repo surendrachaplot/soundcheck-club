@@ -1,6 +1,6 @@
 # ANNA
 
-ANNA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+ANNA is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 ANNA is a techno and house artist based in Brazil, with 122 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Vintage Culture, Carlita and Adam Beyer. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ ANNA is a techno and house artist based in Brazil, with 122 gigs on soundcheck a
 
 Vintage Culture, Carlita, Adam Beyer
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djanna/)*

@@ -1,6 +1,6 @@
 # Sophia Stel
 
-Sophia Stel is a Electronica and Pop artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
+Sophia Stel is a Electronica and Pop artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
 
 Sophia Stel is an electronica and pop artist based in Canada, with 15 gigs on soundcheck across Berlin, London, Los Angeles and Melbourne and 3 more. Often billed alongside Hannah Diamond, CITYTRONIX and GFOTY. Next up: The Echoplex, Los Angeles on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Sophia Stel is an electronica and pop artist based in Canada, with 15 gigs on so
 
 Hannah Diamond, CITYTRONIX, GFOTY
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiastel/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiastel/)*

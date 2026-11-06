@@ -1,13 +1,14 @@
 # Dubrunner
 
-Dubrunner is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
+Dubrunner is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais, London on Thu, 12 Nov 2026.
 
-Dubrunner is a bass and dub artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Breaka, Yushh and Katiusha. Next up: TBA, Berlin on Sat 14 Nov.
+Dubrunner is a bass and dub artist based in United Kingdom, with 52 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 12 more. Often billed alongside Breaka, Yushh and Katiusha. Next up: Palais, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Palais | London |
 | Sat, 14 Nov 2026 | TBA | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dubrunner is a bass and dub artist based in United Kingdom, with 51 gigs on soun
 
 Breaka, Yushh, Katiusha
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dubrunner/)*

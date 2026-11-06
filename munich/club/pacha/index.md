@@ -1,14 +1,17 @@
 # Pacha
 
-Pacha is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "World League with Kevin de Vries" on Fri, 6 Nov 2026.
+Pacha is a music venue in Munich with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "World League with Kevin de Vries" on Fri, 6 Nov 2026.
 
-Pacha is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including Kevin de Vries, Maurizio Schmitz and Sven Vath. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Pacha is a music venue in Munich listed on soundcheck. 6 upcoming gigs, with line-ups including BRANDO, Cirillo, Kevin de Vries and Malive and 2 more. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | World League with Kevin de Vries | Kevin de Vries |
+| Sat, 7 Nov 2026 | Saturday with Malive, DJ Linus | Malive |
+| Fri, 13 Nov 2026 | FreitagNacht with Noel Holler, Cirillo, Tonio Barrientos | Cirillo, Noel Holler, Tonio Barrientos |
+| Sat, 14 Nov 2026 | Saturday with Rossi., René Vaitl, BRANDO | BRANDO, Rossi |
 | Fri, 11 Dec 2026 | World League with Sven Väth | Maurizio Schmitz, Sven Vath |
 | Sat, 19 Dec 2026 | AANTA presents: Novak Munich |  |
 
@@ -16,4 +19,4 @@ Pacha is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with lin
 
 Maximiliansplatz 5; 80333 Munich; Germany, Munich
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/pacha/)*

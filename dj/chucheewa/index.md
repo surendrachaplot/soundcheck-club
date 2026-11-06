@@ -1,8 +1,8 @@
 # Chucheewa
 
-Chucheewa is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Casual, Hong Kong on Sat, 7 Nov 2026.
+Chucheewa is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Casual, Hong Kong on Sat, 7 Nov 2026.
 
-Chucheewa is a house and techno artist based in Thailand, with 41 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 10 more. Often billed alongside DJ Krit Morton, Mamie's and Yoongying. Next up: Casual, Hong Kong on Sat 7 Nov.
+Chucheewa is a house and techno artist based in Thailand, with 42 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 10 more. Often billed alongside DJ Krit Morton, Mamie's and Yoongying. Next up: Casual, Hong Kong on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Chucheewa is a house and techno artist based in Thailand, with 41 gigs on soundc
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Casual | Hong Kong |
 | Sun, 8 Nov 2026 | Casual | Hong Kong |
+| Thu, 26 Nov 2026 | Æther BKK | Bangkok |
 | Fri, 11 Dec 2026 | TBA - bamboo.base.camping, Nakhon Nayok | Bangkok |
 
 ## Recently played
@@ -27,4 +28,4 @@ Chucheewa is a house and techno artist based in Thailand, with 41 gigs on soundc
 
 DJ Krit Morton, Mamie's, Yoongying
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chucheewa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chucheewa/)*

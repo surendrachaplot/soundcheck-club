@@ -1,8 +1,8 @@
 # KD22LR
 
-KD22LR is a Experimental and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at PINK, Manchester on Fri, 6 Nov 2026.
+KD22LR is a Bass and Experimental artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at PINK, Manchester on Fri, 6 Nov 2026.
 
-KD22LR is an experimental and bass artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Glasgow, Leeds and London and 1 more. Often billed alongside Tom Boogizm, Medlock and Sockethead. Next up: PINK, Manchester on Fri 6 Nov.
+KD22LR is a bass and experimental artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Glasgow, Leeds and London and 1 more. Often billed alongside Tom Boogizm, Medlock and Sockethead. Next up: PINK, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ KD22LR is an experimental and bass artist based in United Kingdom, with 58 gigs 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | PINK | Manchester |
 | Sat, 21 Nov 2026 | Spanners | London |
+| Sat, 28 Nov 2026 | renae | Manchester |
 | Fri, 4 Dec 2026 | EXIT Glasgow | Glasgow |
 | Thu, 10 Dec 2026 | The White Hotel | Manchester |
 
@@ -28,4 +29,4 @@ KD22LR is an experimental and bass artist based in United Kingdom, with 58 gigs 
 
 Tom Boogizm, Medlock, Sockethead
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kd22lr/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kd22lr/)*

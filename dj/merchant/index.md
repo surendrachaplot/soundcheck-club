@@ -1,14 +1,15 @@
 # Merchant
 
-Merchant is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Night We Met, Nashville on Sat, 7 Nov 2026.
+Merchant is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Night We Met, Nashville on Sat, 7 Nov 2026.
 
-Merchant is a house and disco artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Cape Town, Edinburgh and London and 10 more. Often billed alongside Richard Fribert, Max Hammur and Boboxa. Next up: Night We Met, Nashville on Sat 7 Nov.
+Merchant is a house and disco artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Cape Town, Edinburgh and London and 10 more. Often billed alongside Richard Fribert, Max Hammur and Boboxa. Next up: Night We Met, Nashville on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Night We Met | Nashville |
+| Sat, 19 Dec 2026 | The Glove That Fits | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Merchant is a house and disco artist based in United Kingdom, with 35 gigs on so
 
 Richard Fribert, Max Hammur, Boboxa
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merchant/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/merchant/)*

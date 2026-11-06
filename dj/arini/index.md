@@ -1,14 +1,15 @@
 # ARINI
 
-ARINI is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at public records, New York City on Sun, 8 Nov 2026.
+ARINI is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at public records, New York City on Sun, 8 Nov 2026.
 
-ARINI is a house and club artist based in United States of America, with 27 gigs on soundcheck across Austin, Dallas/Fort Worth, Los Angeles and New York City and 2 more. Often billed alongside DJ ing, Brant Wolff and Mozn. Next up: public records, New York City on Sun 8 Nov.
+ARINI is a house and club artist based in United States of America, with 28 gigs on soundcheck across Austin, Dallas/Fort Worth, Los Angeles and New York City and 2 more. Often billed alongside DJ ing, Mozn and To The End.. Next up: public records, New York City on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | public records | New York City |
+| Sat, 21 Nov 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ ARINI is a house and club artist based in United States of America, with 27 gigs
 
 ## Shares bills with
 
-DJ ing, Brant Wolff, Mozn
+DJ ing, Mozn, To The End.
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arini/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arini/)*

@@ -1,0 +1,28 @@
+# Sam Valle
+
+Sam Valle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at SILO, New York City on Tue, 15 Dec 2026.
+
+Sam Valle is a techno and house artist based in United States of America, with 55 gigs on soundcheck across Amsterdam, New York City, San Francisco/Oakland and Tokyo. Often billed alongside SHRAY, Choo Choo and ceviché. Next up: SILO, New York City on Tue 15 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 15 Dec 2026 | SILO | New York City |
+
+## Recently played
+
+- Jupiter Disco, New York City · Wed, 14 Oct 2026
+- Bossa Nova Civic Club, New York City · Wed, 7 Oct 2026
+- The Deep End, New York City · Fri, 25 Sept 2026
+- Mood Ring, New York City · Thu, 27 Aug 2026
+- SILO, New York City · Thu, 20 Aug 2026
+- Music For A While, New York City · Fri, 31 Jul 2026
+- H0L0, New York City · Sat, 11 Jul 2026
+- public records, New York City · Thu, 2 Jul 2026
+
+## Shares bills with
+
+SHRAY, Choo Choo, ceviché
+
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samvalle/)*

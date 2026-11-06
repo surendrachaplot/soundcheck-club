@@ -1,6 +1,6 @@
 # NO.LINK
 
-NO.LINK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Paper, Seoul on Fri, 6 Nov 2026.
+NO.LINK is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Paper, Seoul on Fri, 6 Nov 2026.
 
 NO.LINK is a techno and electro artist based in South Korea, with 106 gigs on soundcheck across Seoul. Often billed alongside Honn, MOVIN.KR and Apachi. Next up: Paper, Seoul on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ NO.LINK is a techno and electro artist based in South Korea, with 106 gigs on so
 
 Honn, MOVIN.KR, Apachi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/no.link/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/no.link/)*

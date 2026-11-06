@@ -1,14 +1,15 @@
 # DJ ADHD
 
-DJ ADHD is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Clock Factory, Bristol on Sat, 7 Nov 2026.
+DJ ADHD is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Clock Factory, Bristol on Sat, 7 Nov 2026.
 
-DJ ADHD is a techno and bass artist based in United States of America, with 87 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 35 more. Often billed alongside Chloé Robinson, Nikki Nair and Papa Nugs. Next up: The Clock Factory, Bristol on Sat 7 Nov.
+DJ ADHD is a techno and bass artist based in United States of America, with 88 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 35 more. Often billed alongside Chloé Robinson, Nikki Nair and Papa Nugs. Next up: The Clock Factory, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Clock Factory | Bristol |
+| Sat, 5 Dec 2026 | Colour Factory | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ DJ ADHD is a techno and bass artist based in United States of America, with 87 g
 
 Chloé Robinson, Nikki Nair, Papa Nugs
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djadhd/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djadhd/)*

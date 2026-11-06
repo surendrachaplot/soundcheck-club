@@ -1,6 +1,6 @@
 # Maricón & HARD: GIOFROMDABLOCK(Live), Coyado, JOSELO, Tub.e, friedplatano, iCKY!, Pauli Cakes at Paragon
 
-Maricón & HARD: GIOFROMDABLOCK(Live), Coyado, JOSELO, Tub.e, friedplatano, iCKY!, Pauli Cakes at Paragon on Sat 7 Nov, New York City. 7 artists: Coyado, friedplatano, iCKY and JOSELO and 3 more. Baile Funk and Dembow. See the line-up on soundcheck.
+Maricón & HARD: GIOFROMDABLOCK(Live), Coyado, JOSELO, Tub.e, friedplatano, iCKY!, Pauli Cakes at Paragon on Sat 7 Nov, New York City. 7 artists: Coyado, friedplatano, ICKY! and JOSELO and 3 more. Baile Funk and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Maricón & HARD: GIOFROMDABLOCK(Live), Coyado, JOSELO, Tub.e, friedplatano, iCKY
 
 - Coyado
 - friedplatano
-- iCKY
+- ICKY!
 - JOSELO
 - Pauli Cakes
 - Tube (2)

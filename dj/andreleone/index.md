@@ -1,6 +1,6 @@
 # Andre Leone
 
-Andre Leone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at crobar, Cleveland on Thu, 12 Nov 2026.
+Andre Leone is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at crobar, Cleveland on Thu, 12 Nov 2026.
 
 Andre Leone is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Cleveland, Detroit and New York City. Often billed alongside Delish, Ian Mariano and Jesse Hawk. Next up: crobar, Cleveland on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Andre Leone is a house and techno artist based in United States of America, with
 
 Delish, Ian Mariano, Jesse Hawk
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreleone/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreleone/)*

@@ -1,14 +1,13 @@
 # Jasna 1
 
-Jasna 1 is a music venue in Warsaw with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "JASNA 4 ALL | OPEN DECKS" on Thu, 5 Nov 2026.
+Jasna 1 is a music venue in Warsaw with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "J1 - 999999999" on Fri, 6 Nov 2026.
 
-Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with line-ups including 999999999, BEXA, Botanica and Cyryl and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
+Jasna 1 is a music venue in Warsaw listed on soundcheck. 10 upcoming gigs, with line-ups including 999999999, BEXA, Botanica and Cyryl and 2 more. See dates, start times and who's playing. Jasna 1, 00-013 Warszawa.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | JASNA 4 ALL / OPEN DECKS |  |
 | Fri, 6 Nov 2026 | J1 - 999999999 | 999999999, Marta Kulpa, PLATTER, Pitti Schmitti, dzuma, g3kko |
 | Sat, 7 Nov 2026 | J1 - FJAAK | Botanica, Cyryl, FJAAK, Ferskja |
 | Sat, 7 Nov 2026 | fresh party pnw |  |
@@ -18,9 +17,10 @@ Jasna 1 is a music venue in Warsaw listed on soundcheck. 11 upcoming gigs, with 
 | Fri, 20 Nov 2026 | J1 - Freddy K | Freddy K, MKO (PL), PAWEL (PL), Sabre (PL), uszko |
 | Sat, 21 Nov 2026 | J1 - Laure Croft b2b Henning Baer, Hellix, Ola Teks | Hellix, Henning Baer, Laure Croft, Ola Teks |
 | Sat, 5 Dec 2026 | J1 - Solar Flare with Evian Christ | Evian Christ |
+| Sat, 19 Dec 2026 | J1 - Héctor Oaks, MAGDALENA MAY, MATRIX3K | Héctor Oaks, MAGDALENA MAY, MATRIX3K |
 
 ## Address
 
 Jasna 1, 00-013 Warszawa, Warsaw
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/jasna-1/)*

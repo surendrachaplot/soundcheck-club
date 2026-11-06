@@ -1,14 +1,15 @@
 # Cosmo
 
-Cosmo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Sameheads, Berlin on Sat, 14 Nov 2026.
+Cosmo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sameheads, Berlin on Sat, 14 Nov 2026.
 
-Cosmo is a house and techno artist based in Italy, with 50 gigs on soundcheck across Barcelona, Berlin, Bucharest and Chengdu and 14 more. Often billed alongside Cosmo (NY), Jordz and Kim.Qna. Next up: Sameheads, Berlin on Sat 14 Nov.
+Cosmo is a house and techno artist based in Italy, with 51 gigs on soundcheck across Barcelona, Berlin, Bucharest and Chengdu and 14 more. Often billed alongside Cosmo (NY), Jordz and Kim.Qna. Next up: Sameheads, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Sameheads | Berlin |
+| Thu, 31 Dec 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Cosmo is a house and techno artist based in Italy, with 50 gigs on soundcheck ac
 
 Cosmo (NY), Jordz, Kim.Qna
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosmo/)*

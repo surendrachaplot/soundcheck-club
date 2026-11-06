@@ -1,14 +1,15 @@
 # Data Flow
 
-Data Flow is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Melbourne on Sat, 19 Dec 2026.
+Data Flow is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Melbourne on Sat, 19 Dec 2026.
 
-Data Flow is a tech house and house artist based in Australia, with 21 gigs on soundcheck across London and Melbourne. Often billed alongside Inner West, Jiminy Watts and Rolo. Next up: TBA, Melbourne on Sat 19 Dec.
+Data Flow is a tech house and house artist based in Australia, with 22 gigs on soundcheck across London and Melbourne. Often billed alongside Inner West, Séarlait and Jiminy Watts. Next up: TBA, Melbourne on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 19 Dec 2026 | TBA | Melbourne |
+| Sat, 19 Dec 2026 | Angel Music Bar | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Data Flow is a tech house and house artist based in Australia, with 21 gigs on s
 
 ## Shares bills with
 
-Inner West, Jiminy Watts, Rolo (2)
+Inner West, Séarlait, Jiminy Watts
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dataflow/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dataflow/)*

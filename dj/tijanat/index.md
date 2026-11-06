@@ -1,6 +1,6 @@
 # Tijana T
 
-Tijana T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
+Tijana T is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 28 Nov 2026.
 
 Tijana T is a techno and house artist, with 123 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 44 more. Often billed alongside Marcel Dettmann, Sedef Adasï and Adiel. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Tijana T is a techno and house artist, with 123 gigs on soundcheck across Amster
 
 Marcel Dettmann, Sedef Adasï, Adiel
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tijanat/)*

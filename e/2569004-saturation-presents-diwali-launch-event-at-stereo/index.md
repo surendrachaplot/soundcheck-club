@@ -1,6 +1,6 @@
 # SATURATION presents: Diwali launch event at Stereo
 
-SATURATION presents: Diwali launch event at Stereo on Sat 14 Nov, Glasgow. 1 artist: 222babychai. Baile Funk and Jungle. See the line-up on soundcheck.
+SATURATION presents: Diwali launch event at Stereo on Sat 14 Nov, Glasgow. 2 artists: 222babychai and Baby Teeth. Baile Funk and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SATURATION presents: Diwali launch event at Stereo on Sat 14 Nov, Glasgow. 1 art
 ## Line-up
 
 - 222babychai
+- Baby Teeth
 
 *Source: [soundcheck](https://soundcheck.club/e/2569004-saturation-presents-diwali-launch-event-at-stereo/)*

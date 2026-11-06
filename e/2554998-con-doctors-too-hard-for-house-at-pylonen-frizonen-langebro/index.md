@@ -1,6 +1,6 @@
 # (Con)Doctors: Too Hard For House at Pylonen - Frizonen Langebro
 
-(Con)Doctors: Too Hard For House at Pylonen - Frizonen Langebro on Sat 14 Nov, Copenhagen. 3 artists: Emma Priis, Keith Chuckles and steamboi. Trance and Techno. See the line-up on soundcheck.
+(Con)Doctors: Too Hard For House at Pylonen - Frizonen Langebro on Sat 14 Nov, Copenhagen. 4 artists: Emma Priis, Gronk, Keith Chuckles and steamboi. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - Emma Priis
+- Gronk
 - Keith Chuckles
 - steamboi
 

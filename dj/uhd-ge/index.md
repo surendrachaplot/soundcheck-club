@@ -1,6 +1,6 @@
 # UHD
 
-UHD is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cakeshop, Seoul on Thu, 12 Nov 2026.
+UHD is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cakeshop, Seoul on Thu, 12 Nov 2026.
 
 UHD is a trance and techno artist based in Germany, with 14 gigs on soundcheck across Berlin, Cologne, Mannheim and Munich and 2 more. Often billed alongside Cleopard2000, DJ HÖRDE and FREE JIMI. Next up: Cakeshop, Seoul on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ UHD is a trance and techno artist based in Germany, with 14 gigs on soundcheck a
 
 Cleopard2000, DJ HÖRDE, FREE JIMI
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uhd-ge/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uhd-ge/)*

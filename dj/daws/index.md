@@ -1,6 +1,6 @@
 # DAWS
 
-DAWS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Port Beach Brewery, Perth on Sat, 7 Nov 2026.
+DAWS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Port Beach Brewery, Perth on Sat, 7 Nov 2026.
 
 DAWS is a house and techno artist based in Australia, with 73 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 9 more. Often billed alongside Baby G, Aldonna and Bertie. Next up: Port Beach Brewery, Perth on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ DAWS is a house and techno artist based in Australia, with 73 gigs on soundcheck
 
 Baby G, Aldonna, Bertie
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*

@@ -1,6 +1,6 @@
 # FSQ
 
-FSQ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Phonobar, San Francisco/Oakland on Fri, 6 Nov 2026.
+FSQ is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Phonobar, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 FSQ is a disco and house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Detroit, Los Angeles and Mexico City and 3 more. Often billed alongside Soul Clap, COLOURS 87 and DJ Minx. Next up: Phonobar, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ FSQ is a disco and house artist based in United States of America, with 39 gigs 
 
 Soul Clap, COLOURS 87, DJ Minx
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fsq/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fsq/)*

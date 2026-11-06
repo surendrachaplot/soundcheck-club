@@ -1,6 +1,6 @@
 # Club 77
 
-Club 77 is a music venue in Sydney with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Fridays at 77: Putrika, Mikkapedia, Scruffs" on Fri, 6 Nov 2026.
+Club 77 is a music venue in Sydney with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Fridays at 77: Putrika, Mikkapedia, Scruffs" on Fri, 6 Nov 2026.
 
 Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming gigs, with line-ups including A Guy Called Gerald, Ayebatonye, Ben Fester and Benny Chiu and 2 more. See dates, start times and who's playing. 77 William St, Darlinghurst NSW 2010.
 
@@ -9,7 +9,7 @@ Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming gigs, with 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Fridays at 77: Putrika, Mikkapedia, Scruffs | Scruffs |
-| Sat, 7 Nov 2026 | Club 77: Secret International Guest, Benny Chiu, Jun Wan | Benny Chiu, Jun Wan |
+| Sat, 7 Nov 2026 | Club 77: Tarzsa, Benny Chiu, Jun Wan | Benny Chiu, Jun Wan, Tarzsa |
 | Sun, 8 Nov 2026 | Sundays at 77: Secret International Guest, Pink Lloyd |  |
 | Wed, 11 Nov 2026 | Club 77: Simo Cell (FR), Piezo (IT), Rydeen | Piezo, Rydeen (AU), Simo Cell |
 | Fri, 13 Nov 2026 | Fridays at 77: Crÿbaby, Maz | Crybaby |
@@ -23,4 +23,4 @@ Club 77 is a music venue in Sydney listed on soundcheck. 14 upcoming gigs, with 
 
 77 William St, Darlinghurst NSW 2010, Sydney
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/club-77/)*

@@ -1,8 +1,8 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Art Club, Houston on Fri, 6 Nov 2026.
+shekdash is a Techno and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Art Club, Houston on Fri, 6 Nov 2026.
 
-shekdash is a techno and club artist based in United States of America, with 97 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 18 more. Often billed alongside Tromac, Dj Nico and DJ SWISHA. Next up: Art Club, Houston on Fri 6 Nov.
+shekdash is a techno and club artist based in United States of America, with 98 gigs on soundcheck across Atlanta, Baltimore, Boston and Chicago and 18 more. Often billed alongside Tromac, Dj Nico and DJ SWISHA. Next up: Art Club, Houston on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ shekdash is a techno and club artist based in United States of America, with 97 
 | Sat, 7 Nov 2026 | Poor Boy's | New Orleans |
 | Fri, 13 Nov 2026 | 314 Scholes | New York City |
 | Fri, 20 Nov 2026 | Descent | Boston |
+| Sat, 28 Nov 2026 | Good Room | New York City |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ shekdash is a techno and club artist based in United States of America, with 97 
 
 Tromac, Dj Nico, DJ SWISHA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shekdash/)*

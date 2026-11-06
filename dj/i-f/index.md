@@ -1,6 +1,6 @@
 # I-F
 
-I-F is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hall of Fame, Netherlands on Fri, 6 Nov 2026.
+I-F is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Hall of Fame, Netherlands on Fri, 6 Nov 2026.
 
 I-F is a disco and house artist based in Netherlands, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Intergalactic Gary, Esther Dune and Marsman. Next up: Hall of Fame, Netherlands on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ I-F is a disco and house artist based in Netherlands, with 95 gigs on soundcheck
 
 Intergalactic Gary, Esther Dune, Marsman
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i-f/)*

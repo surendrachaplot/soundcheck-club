@@ -1,6 +1,6 @@
 # Cité De La Musique
 
-Cité De La Musique is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Jeff Mills" on Sun, 6 Dec 2026.
+Cité De La Musique is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Jeff Mills" on Sun, 6 Dec 2026.
 
 Cité De La Musique is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Acid Arab and Jeff Mills. See dates, start times and who's playing. 221, Avenue Jean Jaurès, 75019 Paris, France.
 
@@ -16,4 +16,4 @@ Cité De La Musique is a music venue in Paris listed on soundcheck. 3 upcoming g
 
 221, Avenue Jean Jaurès, 75019 Paris, France, Paris
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cit-de-la-musique/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cit-de-la-musique/)*

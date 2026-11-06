@@ -1,6 +1,6 @@
 # ThanksMate
 
-ThanksMate is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Lento Hi Fi Bar, Naples on Sat, 7 Nov 2026.
+ThanksMate is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lento Hi Fi Bar, Naples on Sat, 7 Nov 2026.
 
 ThanksMate is a house and disco artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Florence, London and Milan and 3 more. Often billed alongside Obbi, Curcio and Mugman. Next up: Lento Hi Fi Bar, Naples on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ ThanksMate is a house and disco artist based in United Kingdom, with 59 gigs on 
 
 Obbi, Curcio, Mugman
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanksmate/)*

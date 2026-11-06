@@ -1,6 +1,6 @@
 # Amygdala
 
-Amygdala is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Downtown Manhattan Loft, New York City on Sat, 21 Nov 2026.
+Amygdala is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Downtown Manhattan Loft, New York City on Sat, 21 Nov 2026.
 
 Amygdala is a techno and hardcore artist based in Italy, with 34 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 11 more. Often billed alongside Mandragora, sellyourmania and 999999999. Next up: TBA - Downtown Manhattan Loft, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Amygdala is a techno and hardcore artist based in Italy, with 34 gigs on soundch
 
 Mandragora, sellyourmania, 999999999
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amygdala/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amygdala/)*

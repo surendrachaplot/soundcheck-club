@@ -1,6 +1,6 @@
 # Den Anden Side
 
-Den Anden Side is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "9HRS of ESCAPISM ft Octave One Live + Denis Horvat + Prom Night + Gabriella Vergilov & More" on Fri, 6 Nov 2026.
+Den Anden Side is a music venue in Copenhagen with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "9HRS of ESCAPISM ft Octave One Live + Denis Horvat + Prom Night + Gabriella Vergilov & More" on Fri, 6 Nov 2026.
 
 Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming gigs, with line-ups including abs8lute, Amphia, Anastasia Kristensen and Anders Horse and 2 more. See dates, start times and who's playing. Axeltorv 5 1609 Copenhagen, Denmark.
 
@@ -22,4 +22,4 @@ Den Anden Side is a music venue in Copenhagen listed on soundcheck. 9 upcoming g
 
 Axeltorv 5 1609 Copenhagen, Denmark, Copenhagen
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/den-anden-side/)*

@@ -1,13 +1,14 @@
 # DJ Barbi
 
-DJ Barbi is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bsmt 254, Toronto on Fri, 20 Nov 2026.
+DJ Barbi is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Standard Time, Toronto on Fri, 13 Nov 2026.
 
-DJ Barbi is an electro and house artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, Ard1n and Blkvirgo. Next up: Bsmt 254, Toronto on Fri 20 Nov.
+DJ Barbi is an electro and house artist based in Canada, with 8 gigs on soundcheck across Toronto. Often billed alongside 999ADJ, Ard1n and Blkvirgo. Next up: Standard Time, Toronto on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Standard Time | Toronto |
 | Fri, 20 Nov 2026 | Bsmt 254 | Toronto |
 
 ## Recently played
@@ -23,4 +24,4 @@ DJ Barbi is an electro and house artist based in Canada, with 7 gigs on soundche
 
 999ADJ, Ard1n, Blkvirgo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbarbi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbarbi/)*

@@ -1,8 +1,8 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sonorama, Medellin on Fri, 6 Nov 2026.
+East End Dubs is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sonorama, Medellin on Fri, 6 Nov 2026.
 
-East End Dubs is a house and tech house artist based in United Kingdom, with 293 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 55 more. Often billed alongside ALISHA, Max Dean and Jamback. Next up: Sonorama, Medellin on Fri 6 Nov.
+East End Dubs is a house and tech house artist based in United Kingdom, with 294 gigs on soundcheck across Amsterdam, Antwerp, Austin and Austria and 55 more. Often billed alongside ALISHA, Max Dean and Jamback. Next up: Sonorama, Medellin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 293
 | Fri, 13 Nov 2026 | NX Newcastle | Newcastle |
 | Sat, 14 Nov 2026 | Document | Bristol |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
+| Sat, 21 Nov 2026 | YoYo - Palais de Tokyo | Paris |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |
 | Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
@@ -35,4 +36,4 @@ East End Dubs is a house and tech house artist based in United Kingdom, with 293
 
 ALISHA, Max Dean, Jamback
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eastenddubs/)*

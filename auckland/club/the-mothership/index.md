@@ -1,6 +1,6 @@
 # The Mothership
 
-The Mothership is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Deep Dark And Dangerous Presents : TRUTH" on Sat, 7 Nov 2026.
+The Mothership is a music venue in Auckland with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Deep Dark And Dangerous Presents : TRUTH" on Sat, 7 Nov 2026.
 
 The Mothership is a music venue in Auckland listed on soundcheck. 5 upcoming gigs, with line-ups including Frank Booker, Marcellus Pittman, Sam Divine and Samuel Harmony and 1 more. See dates, start times and who's playing. 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand.
 
@@ -18,4 +18,4 @@ The Mothership is a music venue in Auckland listed on soundcheck. 5 upcoming gig
 
 7 Shortland Street, Auckland CBD, Auckland 1010, New Zealand, Auckland
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-mothership/)*

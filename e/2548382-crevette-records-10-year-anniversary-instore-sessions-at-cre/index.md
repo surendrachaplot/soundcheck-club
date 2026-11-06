@@ -1,6 +1,6 @@
 # CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS at Crevette Records
 
-CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS at Crevette Records on Wed 4 Nov, Brussels. 22 artists: Adi, Aroh, bonpublic and Celz and 18 more. Techno and Downtempo. See the line-up on soundcheck.
+CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS at Crevette Records on Wed 4 Nov, Brussels. 24 artists: Adi, Aroh, bonpublic and Celz and 20 more. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -32,5 +32,7 @@ CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS at Crevette Records on
 - Sookie
 - SVS (1)
 - Violently Happy
+- Vitamine
+- XOGN
 
 *Source: [soundcheck](https://soundcheck.club/e/2548382-crevette-records-10-year-anniversary-instore-sessions-at-cre/)*

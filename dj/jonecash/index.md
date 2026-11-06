@@ -1,6 +1,6 @@
 # Jon E Cash
 
-Jon E Cash is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Basing House, London on Sat, 7 Nov 2026.
+Jon E Cash is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Basing House, London on Sat, 7 Nov 2026.
 
 Jon E Cash is an afro house and house artist based in United Kingdom, with 15 gigs on soundcheck across Birmingham and London. Often billed alongside Gavin Wilson, Bobby Davis and L&F. Next up: Basing House, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Jon E Cash is an afro house and house artist based in United Kingdom, with 15 gi
 
 Gavin Wilson, Bobby Davis, L&F
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonecash/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonecash/)*

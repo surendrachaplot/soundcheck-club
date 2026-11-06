@@ -1,6 +1,6 @@
 # Bella Sarris
 
-Bella Sarris is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Macadam, Nantes on Sun, 8 Nov 2026.
+Bella Sarris is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Macadam, Nantes on Sun, 8 Nov 2026.
 
 Bella Sarris is a house and techno artist based in Sweden, with 89 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside ISAbella, THC and Angel D'lite. Next up: Macadam, Nantes on Sun 8 Nov.
 
@@ -28,4 +28,4 @@ Bella Sarris is a house and techno artist based in Sweden, with 89 gigs on sound
 
 ISAbella, THC, Angel D'lite
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellasarris/)*

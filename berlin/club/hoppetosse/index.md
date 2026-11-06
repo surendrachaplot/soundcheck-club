@@ -1,8 +1,8 @@
 # Hoppetosse
 
-Hoppetosse is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Extended PARTYBAR 3000 ∞ LETZTE WIESE" on Fri, 6 Nov 2026.
+Hoppetosse is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Extended PARTYBAR 3000 ∞ LETZTE WIESE" on Fri, 6 Nov 2026.
 
-Hoppetosse is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including 3RDV, Adolpho & Franky, Andrei Ciubuc and B.Love and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
+Hoppetosse is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including 3RDV, Adolpho & Franky, Andrei Ciubuc and B.Love and 2 more. See dates, start times and who's playing. Eichenstrasse 4; Treptow; 12435 Berlin; Germany.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, wi
 | Fri, 27 Nov 2026 | Betriebsfeier | 3RDV, Adolpho & Franky, Bonnie Ford, Caren Callas, Coco, EllA, Empro, Gitte Verfuehrt, Josephine Wedekind, Ray Okpara, Sonnensysteme, Stan Starry, Thomas Koob, Tobi Neumann, dinaLiks, eveava |
 | Sun, 29 Nov 2026 | Playground | DJ Rino, Dyed Soundorom, Eli Verveine, Shonky |
 | Fri, 4 Dec 2026 | Focal Point x Bizarre Trax | B.Love, Felon5, Jade Seatle, Matthew Dexter |
-| Sat, 12 Dec 2026 | Sekt&Brezeln presents Still Sparkling Vol.III |  |
+| Sat, 5 Dec 2026 | Pager Records | Klix, Markus Sommer, Rayya, Thilini, Tom Ries |
 
 ## Address
 
 Eichenstrasse 4; Treptow; 12435 Berlin; Germany, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/hoppetosse/)*

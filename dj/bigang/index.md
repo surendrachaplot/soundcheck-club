@@ -1,6 +1,6 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Peddler Warehouse, Sheffield on Sun, 8 Nov 2026.
+Big Ang is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Peddler Warehouse, Sheffield on Sun, 8 Nov 2026.
 
 Big Ang is a bass and garage artist based in United Kingdom, with 53 gigs on soundcheck across Bristol, Leeds, London and Manchester and 3 more. Often billed alongside Jamie Duggan, Silva Bumpa and Phatworld. Next up: Peddler Warehouse, Sheffield on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Big Ang is a bass and garage artist based in United Kingdom, with 53 gigs on sou
 
 Jamie Duggan, Silva Bumpa, Phatworld
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bigang/)*

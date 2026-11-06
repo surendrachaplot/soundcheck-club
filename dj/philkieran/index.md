@@ -1,13 +1,14 @@
 # Phil Kieran
 
-Phil Kieran is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Limelight, Belfast on Sat, 26 Dec 2026.
+Phil Kieran is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pleasure Club, Sydney on Sun, 15 Nov 2026.
 
-Phil Kieran is a techno and electro artist based in United Kingdom, with 13 gigs on soundcheck across Belfast, Dublin and Glasgow. Often billed alongside Conor Schmtz, Angel Negrin and Christopher Coe. Next up: The Limelight, Belfast on Sat 26 Dec.
+Phil Kieran is a techno and electro artist based in United Kingdom, with 14 gigs on soundcheck across Belfast, Dublin, Glasgow and Sydney. Often billed alongside Conor Schmtz, Angel Negrin and Christopher Coe. Next up: Pleasure Club, Sydney on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Pleasure Club | Sydney |
 | Sat, 26 Dec 2026 | The Limelight | Belfast |
 
 ## Recently played
@@ -25,4 +26,4 @@ Phil Kieran is a techno and electro artist based in United Kingdom, with 13 gigs
 
 Conor Schmtz, Angel Negrin, Christopher Coe
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philkieran/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/philkieran/)*

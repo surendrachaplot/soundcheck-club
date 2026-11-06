@@ -1,6 +1,6 @@
 # 2 Bad Mice
 
-2 Bad Mice is a Hardcore and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Concorde 2, Brighton on Sat, 7 Nov 2026.
+2 Bad Mice is a Hardcore and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Concorde 2, Brighton on Sat, 7 Nov 2026.
 
 2 Bad Mice is a hardcore and jungle artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 5 more. Often billed alongside Billy Daniel Bunter, Slipmatt and Jerome Hill. Next up: Concorde 2, Brighton on Sat 7 Nov.
 
@@ -30,4 +30,4 @@
 
 Billy Daniel Bunter, Slipmatt, Jerome Hill
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2badmice/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2badmice/)*

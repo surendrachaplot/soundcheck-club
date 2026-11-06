@@ -1,6 +1,6 @@
 # Islandman
 
-Islandman is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Islandman is a Electronica and Jazz artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 Islandman is an electronica and jazz artist based in Turkey, with 25 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 9 more. Often billed alongside Ameli Paul, AWEN and Balance. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ Islandman is an electronica and jazz artist based in Turkey, with 25 gigs on sou
 
 Ameli Paul, AWEN, Balance
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/islandman/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/islandman/)*

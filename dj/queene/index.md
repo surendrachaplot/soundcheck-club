@@ -1,6 +1,6 @@
 # Queen E
 
-Queen E is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
+Queen E is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
 
 Queen E is a house and techno artist based in Sweden, with 36 gigs on soundcheck across Berlin, Copenhagen, Ibiza and Stockholm. Often billed alongside Sean Fender, Dgeral and Billie Jo. Next up: Eventhuset, Stockholm on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Queen E is a house and techno artist based in Sweden, with 36 gigs on soundcheck
 
 Sean Fender, Dgeral, Billie Jo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/queene/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/queene/)*

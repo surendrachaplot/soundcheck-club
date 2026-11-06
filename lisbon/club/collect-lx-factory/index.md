@@ -1,6 +1,6 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "All Nice Records #2" on Fri, 13 Nov 2026.
+Collect LX Factory is a music venue in Lisbon with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "All Nice Records #2" on Fri, 13 Nov 2026.
 
 Collect LX Factory is a music venue in Lisbon listed on soundcheck. 6 upcoming gigs, with line-ups including 2jack4u, Amulador, Bobby Dreams and C3D-E and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
@@ -19,4 +19,4 @@ Collect LX Factory is a music venue in Lisbon listed on soundcheck. 6 upcoming g
 
 R. Rodrigues de Faria 103, 1300-501 Lisboa, Lisbon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/collect-lx-factory/)*

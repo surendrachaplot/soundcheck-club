@@ -1,6 +1,6 @@
 # Mëtro
 
-Mëtro is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - secret location, Barcelona on Fri, 13 Nov 2026.
+Mëtro is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - secret location, Barcelona on Fri, 13 Nov 2026.
 
 Mëtro is a techno and trance artist based in Denmark, with 16 gigs on soundcheck across Barcelona, Copenhagen and Hamburg. Often billed alongside KAMIKAZEM, Kardinal Bertram and Thiim. Next up: TBA - secret location, Barcelona on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Mëtro is a techno and trance artist based in Denmark, with 16 gigs on soundchec
 
 KAMIKAZEM, Kardinal Bertram, Thiim
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metro-dk/)*

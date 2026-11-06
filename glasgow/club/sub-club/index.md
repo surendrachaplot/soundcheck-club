@@ -1,14 +1,13 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 32 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "L.P. Rhythm Glasgow Weekender - Sub Club" on Thu, 5 Nov 2026.
+Sub Club is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Polka Dot Disco Club invites SHERELLE ♡ Sub Club ‪‪♡" on Fri, 6 Nov 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 32 upcoming gigs, with line-ups including FLETCH, Archie Hamilton, Ben Hemsley and Blasha & Allatt and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, with line-ups including FLETCH, Archie Hamilton, Ben Hemsley and Blasha & Allatt and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | L.P. Rhythm Glasgow Weekender - Sub Club |  |
 | Fri, 6 Nov 2026 | Polka Dot Disco Club invites SHERELLE ♡ Sub Club ‪‪♡ | Frankie Elyse, SHERELLE |
 | Sat, 7 Nov 2026 | Subculture w/ Domenic Cappello + Stevie Cox | Domenic Cappello, Stevie Cox |
 | Sun, 8 Nov 2026 | Through The Roof // Scott Steer [All Night Long] |  |
@@ -18,9 +17,10 @@ Sub Club is a music venue in Glasgow listed on soundcheck. 32 upcoming gigs, wit
 | Thu, 19 Nov 2026 | FLY - DJ BORING & Sam Alfred | DJ BORING, Sam Alfred |
 | Fri, 20 Nov 2026 | Co-Accused with Dave Clarke & Gary Beck | Co-Accused, Dave Clarke, Gary Beck |
 | Sat, 21 Nov 2026 | Subculture with Telford + François K | Francois K, Telford |
+| Thu, 26 Nov 2026 | FLY - Denis Sulta - Glasgow | Denis Sulta |
 
 ## Address
 
 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom, Glasgow
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/sub-club/)*

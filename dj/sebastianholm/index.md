@@ -1,6 +1,6 @@
 # Sebastian Holm
 
-Sebastian Holm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Stidilä, Helsinki on Sat, 7 Nov 2026.
+Sebastian Holm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Stidilä, Helsinki on Sat, 7 Nov 2026.
 
 Sebastian Holm is a house and techno artist based in Finland, with 38 gigs on soundcheck across Helsinki. Often billed alongside Denzel, DJ JVS and DJ Aleksi. Next up: Stidilä, Helsinki on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sebastian Holm is a house and techno artist based in Finland, with 38 gigs on so
 
 Denzel, DJ JVS, DJ Aleksi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianholm/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastianholm/)*

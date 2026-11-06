@@ -1,6 +1,6 @@
 # MYUMA
 
-MYUMA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 12 Nov 2026.
+MYUMA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 12 Nov 2026.
 
 MYUMA is a techno and house artist based in Japan, with 14 gigs on soundcheck across Tokyo. Often billed alongside ACHIRI, AKIRA TAKABAYASHI and Eichi Abe. Next up: Z Maruyama, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ MYUMA is a techno and house artist based in Japan, with 14 gigs on soundcheck ac
 
 ACHIRI, AKIRA TAKABAYASHI, Eichi Abe
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myuma/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myuma/)*

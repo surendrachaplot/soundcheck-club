@@ -1,19 +1,19 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and Italo Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Paradiso, Amsterdam on Thu, 5 Nov 2026.
+Alex Oxley is a Disco and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kantine am Berghain, Berlin on Fri, 6 Nov 2026.
 
-Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 25 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: Paradiso, Amsterdam on Thu 5 Nov.
+Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 25 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: Kantine am Berghain, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Paradiso | Amsterdam |
 | Fri, 6 Nov 2026 | Kantine am Berghain | Berlin |
 | Sun, 15 Nov 2026 | Holocene | Portland |
 
 ## Recently played
 
+- Paradiso, Amsterdam · Thu, 5 Nov 2026
 - Public Works, San Francisco/Oakland · Sat, 31 Oct 2026
 - Public Works Oddjob Loft, San Francisco/Oakland · Sat, 31 Oct 2026
 - ZeyZey, Miami · Fri, 30 Oct 2026
@@ -21,10 +21,9 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, with 63 gi
 - Zebulon, Los Angeles · Sat, 24 Oct 2026
 - Kiku Room, San Diego · Fri, 23 Oct 2026
 - House of Yes, New York City · Fri, 16 Oct 2026
-- The Onyx Room at House of Yes, New York City · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Roxanne Roll, Fleetmac Wood, Horror Hi-Fi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*

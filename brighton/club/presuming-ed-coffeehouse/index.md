@@ -1,6 +1,6 @@
 # Presuming Ed Coffeehouse
 
-Presuming Ed Coffeehouse is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Cadence - DECA DANCE - Ben GC, Haawwy, Delany" on Sat, 5 Dec 2026.
+Presuming Ed Coffeehouse is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Cadence - DECA DANCE - Ben GC, Haawwy, Delany" on Sat, 5 Dec 2026.
 
 Presuming Ed Coffeehouse is a music venue in Brighton listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 114-115 London Road, Brighton, BN1 4LJ.
 
@@ -14,4 +14,4 @@ Presuming Ed Coffeehouse is a music venue in Brighton listed on soundcheck. 1 up
 
 114-115 London Road, Brighton, BN1 4LJ, Brighton
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/presuming-ed-coffeehouse/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/presuming-ed-coffeehouse/)*

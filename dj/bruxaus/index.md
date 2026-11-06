@@ -1,6 +1,6 @@
 # BRUX (Aus)
 
-BRUX (Aus) is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at public records, New York City on Thu, 19 Nov 2026.
+BRUX (Aus) is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at public records, New York City on Thu, 19 Nov 2026.
 
 BRUX (Aus) is a bass and electronica artist based in Australia, with 12 gigs on soundcheck across Denver, London, Los Angeles and New York City and 3 more. Often billed alongside Audem, Badbadnotgood and Breaka. Next up: public records, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ BRUX (Aus) is a bass and electronica artist based in Australia, with 12 gigs on 
 
 Audem, Badbadnotgood, Breaka
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruxaus/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bruxaus/)*

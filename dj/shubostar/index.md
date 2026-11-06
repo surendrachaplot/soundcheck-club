@@ -1,6 +1,6 @@
 # Shubostar
 
-Shubostar is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Media One Hotel, Level 43, Dubai on Sat, 14 Nov 2026.
+Shubostar is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Media One Hotel, Level 43, Dubai on Sat, 14 Nov 2026.
 
 Shubostar is a house and techno artist based in South Korea, with 123 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 43 more. Often billed alongside Mano Le Tough, Âme and Peter Invasion. Next up: TBA - Media One Hotel, Level 43, Dubai on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Shubostar is a house and techno artist based in South Korea, with 123 gigs on so
 
 Mano Le Tough, Âme, Peter Invasion
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shubostar/)*

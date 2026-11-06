@@ -1,6 +1,6 @@
 # 8 YEARS Keyi Magazine x OXI at OXI
 
-8 YEARS Keyi Magazine x OXI on Fri 20 Nov, Berlin. 21 artists: bbecks, BERLIN, Berlin Bunny and DJ T-1000 and 17 more. See the line-up on soundcheck.
+8 YEARS Keyi Magazine x OXI on Fri 20 Nov, Berlin. 23 artists: bbecks, Benjamin Damage, BERLIN and Berlin Bunny and 19 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - bbecks
+- Benjamin Damage
 - BERLIN
 - Berlin Bunny
 - DJ T-1000
@@ -18,6 +19,7 @@
 - Eyesdice
 - HASLA
 - Ludmila Houben
+- Matrixxman
 - Miro Von
 - Moderna
 - Obscure Shape

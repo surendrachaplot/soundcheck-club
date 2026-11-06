@@ -1,6 +1,6 @@
 # Batıkan Abız
 
-Batıkan Abız is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kastel, Istanbul on Fri, 6 Nov 2026.
+Batıkan Abız is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kastel, Istanbul on Fri, 6 Nov 2026.
 
 Batıkan Abız is a house and minimal techno artist based in Turkey, with 7 gigs on soundcheck across Istanbul. Often billed alongside Batikan Tanrikulu, BARAN YILDIRIM and BURAK SARGIN. Next up: Kastel, Istanbul on Fri 6 Nov.
 
@@ -23,4 +23,4 @@ Batıkan Abız is a house and minimal techno artist based in Turkey, with 7 gigs
 
 Batikan Tanrikulu, BARAN YILDIRIM, BURAK SARGIN
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/batikanabiz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/batikanabiz/)*

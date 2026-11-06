@@ -1,6 +1,6 @@
 # Tera Kòrá
 
-Tera Kòrá is a Club and Kuduro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 6 Nov 2026.
+Tera Kòrá is a Club and Kuduro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 6 Nov 2026.
 
 Tera Kòrá is a club and kuduro artist, with 8 gigs on soundcheck across Amsterdam, Brussels, London and Rotterdam. Often billed alongside Ayce Bio, Bianca Oblivion and INA. Next up: SISSI'S Amsterdam, Amsterdam on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Tera Kòrá is a club and kuduro artist, with 8 gigs on soundcheck across Amster
 
 Ayce Bio, Bianca Oblivion, INA (1)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terakòra/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terakòra/)*

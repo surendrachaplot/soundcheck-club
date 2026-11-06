@@ -1,6 +1,6 @@
 # Comf
 
-Comf is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
+Comf is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
 
 Comf is a bass and dubstep artist based in Germany, with 9 gigs on soundcheck across Berlin, Ljubljana and Prague. Often billed alongside Genoe, Formella and Forward Sisters. Next up: TBA, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Comf is a bass and dubstep artist based in Germany, with 9 gigs on soundcheck ac
 
 Genoe, Formella, Forward Sisters
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comf/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/comf/)*

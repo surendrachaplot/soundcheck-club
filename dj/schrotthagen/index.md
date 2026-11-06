@@ -1,6 +1,6 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Die Halle, Cologne on Sat, 7 Nov 2026.
+Schrotthagen is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Die Halle, Cologne on Sat, 7 Nov 2026.
 
 Schrotthagen is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 24 more. Often billed alongside A.N.I., PRADA2000 and Kalte Liebe. Next up: Die Halle, Cologne on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Schrotthagen is a techno and trance artist based in Germany, with 64 gigs on sou
 
 A.N.I., PRADA2000, Kalte Liebe
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schrotthagen/)*

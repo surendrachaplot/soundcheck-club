@@ -1,6 +1,6 @@
 # Kymmy
 
-Kymmy is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - secret location, Barcelona on Sat, 21 Nov 2026.
+Kymmy is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - secret location, Barcelona on Sat, 21 Nov 2026.
 
 Kymmy is a techno and electronica artist based in Chile, with 10 gigs on soundcheck across Barcelona. Often billed alongside Bapho999, Dora Jeen and JAKKÖ. Next up: TBA - secret location, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Kymmy is a techno and electronica artist based in Chile, with 10 gigs on soundch
 
 Bapho999, Dora Jeen, JAKKÖ
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kymmy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kymmy/)*

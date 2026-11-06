@@ -1,6 +1,6 @@
 # Blue Communications
 
-Blue Communications is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Blue Communications is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Blue Communications is a house and disco artist based in Australia, with 5 gigs on soundcheck across Melbourne and New South Wales. Often billed alongside Aarti Jadu, AceMo and Bridget Small. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -21,4 +21,4 @@ Blue Communications is a house and disco artist based in Australia, with 5 gigs 
 
 Aarti Jadu, AceMo, Bridget Small (2)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommunications/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bluecommunications/)*

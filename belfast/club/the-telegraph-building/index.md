@@ -1,14 +1,14 @@
 # The Telegraph Building
 
-The Telegraph Building is a music venue in Belfast with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "[EXTRA DATE ADDED] SHINE -- Jamie Fielding" on Thu, 12 Nov 2026.
+The Telegraph Building is a music venue in Belfast with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "[EXTRA DATE ADDED] SHINE -- Jamie Fielding" on Thu, 12 Nov 2026.
 
-The Telegraph Building is a music venue in Belfast listed on soundcheck. 8 upcoming gigs, with line-ups including Cloudy, DIEBYVEG, DJ Heartstring and Duke Dumont and 2 more. See dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
+The Telegraph Building is a music venue in Belfast listed on soundcheck. 8 upcoming gigs, with line-ups including CAOIMHE, Cloudy, DIEBYVEG and DJ Heartstring and 2 more. See dates, start times and who's playing. 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 12 Nov 2026 | [EXTRA DATE ADDED] SHINE -- Jamie Fielding | Jamie Fielding |
+| Thu, 12 Nov 2026 | [EXTRA DATE ADDED] SHINE -- Jamie Fielding | CAOIMHE, Jamie Fielding, Lauren Lo Sung |
 | Sat, 14 Nov 2026 | SHINE -- JAZZY | Jazzy (IRL), Joe Rolét, Kayleigh Glynn |
 | Fri, 20 Nov 2026 | Duke Dumont | Duke Dumont |
 | Sat, 28 Nov 2026 | SHINE -- DJ Heartstring | DJ Heartstring, SAIDAH |
@@ -21,4 +21,4 @@ The Telegraph Building is a music venue in Belfast listed on soundcheck. 8 upcom
 
 124-144 Royal Avenue, Belfast, BT1 1ND, United Kingdom, Belfast
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/belfast/club/the-telegraph-building/)*

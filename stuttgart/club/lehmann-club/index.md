@@ -1,6 +1,6 @@
 # Lehmann Club
 
-Lehmann Club is a music venue in Stuttgart with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "LEHMANN Schranznacht with Ben Techy, Raxeller, Loraw" on Fri, 6 Nov 2026.
+Lehmann Club is a music venue in Stuttgart with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "LEHMANN Schranznacht with Ben Techy, Raxeller, Loraw" on Fri, 6 Nov 2026.
 
 Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs, with line-ups including Bastian Hill, Ben Hille, Ben Techy and Blasha & Allatt and 2 more. See dates, start times and who's playing. Seidenstraße 20, 70174, Stuttgart.
 
@@ -18,4 +18,4 @@ Lehmann Club is a music venue in Stuttgart listed on soundcheck. 5 upcoming gigs
 
 Seidenstraße 20, 70174, Stuttgart, Stuttgart
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/lehmann-club/)*

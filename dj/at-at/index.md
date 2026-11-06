@@ -1,6 +1,6 @@
 # at-at
 
-at-at is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
+at-at is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 at-at is a techno and club artist based in United States of America, with 26 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Skiis, Zero Idea and Vertigo. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ at-at is a techno and club artist based in United States of America, with 26 gig
 
 Skiis, Zero Idea, Vertigo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/at-at/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/at-at/)*

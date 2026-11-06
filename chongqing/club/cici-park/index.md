@@ -1,6 +1,6 @@
 # Cici Park
 
-Cici Park is a music venue in Chongqing with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "「LINK」w/ A-Tweed / MAKARII / Pacific Voltage" on Fri, 6 Nov 2026.
+Cici Park is a music venue in Chongqing with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "「LINK」w/ A-Tweed / MAKARII / Pacific Voltage" on Fri, 6 Nov 2026.
 
 Cici Park is a music venue in Chongqing listed on soundcheck. 11 upcoming gigs, with line-ups including A-Tweed, DE FEO, Kongsent and Makarii (DE) and 2 more. See dates, start times and who's playing. Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）.
 
@@ -23,4 +23,4 @@ Cici Park is a music venue in Chongqing listed on soundcheck. 11 upcoming gigs, 
 
 Youth Cultural Space, 2nd Floor, Opening Port Park Gate2, Long Men Hao Street, Ma An Shan No.56, NanAn District, Chongqing, China / 重庆市南岸区开埠遗址公园2号门（观光电梯下二楼 青年文化空间）, Chongqing
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/cici-park/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/cici-park/)*

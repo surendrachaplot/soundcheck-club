@@ -1,6 +1,6 @@
 # Yos.
 
-Yos. is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Suree, Tokyo on Sun, 8 Nov 2026.
+Yos. is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Suree, Tokyo on Sun, 8 Nov 2026.
 
 Yos. is a minimal and house artist based in Japan, with 49 gigs on soundcheck across Taipei and Tokyo. Often billed alongside DAIY, yyshuu and NABE. Next up: Suree, Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Yos. is a minimal and house artist based in Japan, with 49 gigs on soundcheck ac
 
 DAIY, yyshuu, NABE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yos./)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yos./)*

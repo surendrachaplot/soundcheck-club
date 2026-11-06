@@ -1,6 +1,6 @@
 # Karine
 
-Karine is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Nido Marseille, Marseille on Tue, 10 Nov 2026.
+Karine is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Nido Marseille, Marseille on Tue, 10 Nov 2026.
 
 Karine is a house and techno artist based in Ukraine, with 113 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Shakolin, Noizar and Timur Basha. Next up: Nido Marseille, Marseille on Tue 10 Nov.
 
@@ -28,4 +28,4 @@ Karine is a house and techno artist based in Ukraine, with 113 gigs on soundchec
 
 Shakolin, Noizar, Timur Basha
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karine/)*

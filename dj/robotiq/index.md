@@ -1,6 +1,6 @@
 # ROBOTIQ
 
-ROBOTIQ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Pimpernel, Munich on Sun, 8 Nov 2026.
+ROBOTIQ is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pimpernel, Munich on Sun, 8 Nov 2026.
 
 ROBOTIQ is a house and tech house artist based in Germany, with 111 gigs on soundcheck across Berlin and Munich. Often billed alongside Steffen Lengler, B-ZEY and CHOOSE WHITE. Next up: Pimpernel, Munich on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ ROBOTIQ is a house and tech house artist based in Germany, with 111 gigs on soun
 
 Steffen Lengler, B-ZEY, CHOOSE WHITE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robotiq/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robotiq/)*

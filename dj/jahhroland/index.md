@@ -1,6 +1,6 @@
 # Jahh Roland
 
-Jahh Roland is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hideout, Malta on Sat, 7 Nov 2026.
+Jahh Roland is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Hideout, Malta on Sat, 7 Nov 2026.
 
 Jahh Roland is a garage and drum & bass artist based in Malta, with 13 gigs on soundcheck across Gothenburg, Malta and Prague. Often billed alongside 2thirty8, Molario and MAAKS. Next up: Hideout, Malta on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jahh Roland is a garage and drum & bass artist based in Malta, with 13 gigs on s
 
 2thirty8, Molario, MAAKS
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jahhroland/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jahhroland/)*

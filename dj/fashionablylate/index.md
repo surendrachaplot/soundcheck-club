@@ -1,6 +1,6 @@
 # Fashionably Late
 
-Fashionably Late is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 8 Jan 2027.
+Fashionably Late is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 8 Jan 2027.
 
 Fashionably Late is a house and techno artist based in Australia, with 32 gigs on soundcheck across Sydney. Often billed alongside Deverence, Hotel 84 and PIX. Next up: Oxford Art Factory, Sydney on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Fashionably Late is a house and techno artist based in Australia, with 32 gigs o
 
 Deverence, Hotel 84, PIX
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fashionablylate/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fashionablylate/)*

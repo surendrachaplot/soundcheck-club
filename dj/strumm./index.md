@@ -1,6 +1,6 @@
 # STRUMM.
 
-STRUMM. is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Distillery, Leipzig on Tue, 17 Nov 2026.
+STRUMM. is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Distillery, Leipzig on Tue, 17 Nov 2026.
 
 STRUMM. is a techno and industrial artist based in Germany, with 16 gigs on soundcheck across Berlin and Leipzig. Often billed alongside DYROFF, FRÄNK and NACHTIGALL. Next up: Distillery, Leipzig on Tue 17 Nov.
 
@@ -25,4 +25,4 @@ STRUMM. is a techno and industrial artist based in Germany, with 16 gigs on soun
 
 DYROFF, FRÄNK, NACHTIGALL
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strumm./)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/strumm./)*

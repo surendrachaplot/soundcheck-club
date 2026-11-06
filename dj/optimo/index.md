@@ -1,8 +1,8 @@
 # Optimo (Espacio)
 
-Optimo (Espacio) is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Standard Time, Toronto on Sun, 8 Nov 2026.
+Optimo (Espacio) is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Standard Time, Toronto on Sun, 8 Nov 2026.
 
-Optimo (Espacio) is a house and techno artist based in United Kingdom, with 203 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Daniel Avery, HAAi and Erol Alkan. Next up: Standard Time, Toronto on Sun 8 Nov.
+Optimo (Espacio) is a house and techno artist based in United Kingdom, with 204 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 48 more. Often billed alongside Daniel Avery, HAAi and Erol Alkan. Next up: Standard Time, Toronto on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Optimo (Espacio) is a house and techno artist based in United Kingdom, with 203 
 | Sun, 8 Nov 2026 | Standard Time | Toronto |
 | Fri, 13 Nov 2026 | The Golden Lion | Manchester |
 | Sat, 21 Nov 2026 | Fairfield Club | Glasgow |
+| Fri, 27 Nov 2026 | Kino Roland | Zurich |
 | Sat, 5 Dec 2026 | Phonox | London |
 | Sat, 12 Dec 2026 | The Berkeley Suite | Glasgow |
 | Fri, 18 Dec 2026 | The White Hotel | Manchester |
@@ -34,4 +35,4 @@ Optimo (Espacio) is a house and techno artist based in United Kingdom, with 203 
 
 Daniel Avery, HAAi, Erol Alkan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/optimo/)*

@@ -1,6 +1,6 @@
 # TroyBoi
 
-TroyBoi is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+TroyBoi is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 TroyBoi is a bass and dubstep artist based in United Kingdom, with 31 gigs on soundcheck across Austin, Calgary, California and Chicago and 15 more. Often billed alongside Matroda, Alesso and Deorro. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ TroyBoi is a bass and dubstep artist based in United Kingdom, with 31 gigs on so
 
 Matroda, Alesso, Deorro
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/troyboi/)*

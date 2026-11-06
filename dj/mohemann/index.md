@@ -1,6 +1,6 @@
 # Mohemann
 
-Mohemann is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
+Mohemann is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
 
 Mohemann is a techno and minimal techno artist based in China, with 79 gigs on soundcheck across Beijing, Chengdu, Düsseldorf and Ho Chi Minh City and 5 more. Often billed alongside T.K.L, Weng Weng and Heiyuen. Next up: OIL Club, Shenzhen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mohemann is a techno and minimal techno artist based in China, with 79 gigs on s
 
 T.K.L, Weng Weng, Heiyuen
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mohemann/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mohemann/)*

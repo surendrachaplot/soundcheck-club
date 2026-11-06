@@ -1,14 +1,15 @@
 # nextdimensional
 
-nextdimensional is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Pisces, Atlanta on Fri, 6 Nov 2026.
+nextdimensional is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pisces, Atlanta on Fri, 6 Nov 2026.
 
-nextdimensional is a techno and club artist based in United States of America, with 99 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Minneapolis St Paul and 9 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: Pisces, Atlanta on Fri 6 Nov.
+nextdimensional is a techno and club artist based in United States of America, with 100 gigs on soundcheck across Atlanta, Chicago, Los Angeles and Minneapolis St Paul and 9 more. Often billed alongside HONEY B, RITCHRD and DJ CARO. Next up: Pisces, Atlanta on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Pisces | Atlanta |
+| Sun, 22 Nov 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ nextdimensional is a techno and club artist based in United States of America, w
 
 HONEY B, RITCHRD, DJ CARO
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nextdimensional/)*

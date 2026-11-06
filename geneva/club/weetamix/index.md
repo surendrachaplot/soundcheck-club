@@ -1,6 +1,6 @@
 # Weetamix
 
-Weetamix is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Farci with Yamen & EDA, Odeon, James & Raton" on Sat, 7 Nov 2026.
+Weetamix is a music venue in Geneva with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Farci with Yamen & EDA, Odeon, James & Raton" on Sat, 7 Nov 2026.
 
 Weetamix is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, with line-ups including Brady, Djack's, Hector Moreno and Hugze and 2 more. See dates, start times and who's playing. Chemin Jacques Philibert de Sauvage 37; 1219, Châtelaine; Geneva; Switzerland.
 
@@ -17,4 +17,4 @@ Weetamix is a music venue in Geneva listed on soundcheck. 4 upcoming gigs, with 
 
 Chemin Jacques Philibert de Sauvage 37; 1219, Châtelaine; Geneva; Switzerland, Geneva
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/weetamix/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/weetamix/)*

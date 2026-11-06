@@ -1,6 +1,6 @@
 # Jungle (UK)
 
-Jungle (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
+Jungle (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
 
 Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 39 more. Often billed alongside Bass, Bassline and Carlita. Next up: Factory Theatre, Sydney on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, with 86 
 
 Bass, Bassline, Carlita
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jungle-uk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jungle-uk/)*

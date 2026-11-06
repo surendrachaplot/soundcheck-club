@@ -1,6 +1,6 @@
 # Lane 8
 
-Lane 8 is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
+Lane 8 is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
 Lane 8 is a house and progressive house artist based in United States of America, with 42 gigs on soundcheck across Amsterdam, Austin, Belfast and Berlin and 17 more. Often billed alongside Sultan + Shepard, Kaskade and Elderbrook. Next up: Petco Park, San Diego on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lane 8 is a house and progressive house artist based in United States of America
 
 Sultan + Shepard, Kaskade, Elderbrook
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lane8/)*

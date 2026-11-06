@@ -1,13 +1,14 @@
 # PillowTalk
 
-PillowTalk is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 1 Jan 2027.
+PillowTalk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Winstons Bar, Adelaide on Sun, 22 Nov 2026.
 
-PillowTalk is a house and disco artist based in United States of America, with 17 gigs on soundcheck across Cape Town, Los Angeles, Miami and New York City and 3 more. Often billed alongside Shane One, Aaron F and Anthony Mansfield. Next up: The Great Northern, San Francisco/Oakland on Fri 1 Jan.
+PillowTalk is a house and disco artist based in United States of America, with 18 gigs on soundcheck across Adelaide, Cape Town, Los Angeles and Miami and 4 more. Often billed alongside Shane One, Aaron F and Anthony Mansfield. Next up: Winstons Bar, Adelaide on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Winstons Bar | Adelaide |
 | Fri, 1 Jan 2027 | The Great Northern | San Francisco/Oakland |
 
 ## Recently played
@@ -25,4 +26,4 @@ PillowTalk is a house and disco artist based in United States of America, with 1
 
 Shane One, Aaron F, Anthony Mansfield
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillowtalk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillowtalk/)*

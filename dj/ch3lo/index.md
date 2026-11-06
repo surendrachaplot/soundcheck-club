@@ -1,6 +1,6 @@
 # CH3LO
 
-CH3LO is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Core, Madrid on Fri, 6 Nov 2026.
+CH3LO is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Core, Madrid on Fri, 6 Nov 2026.
 
 CH3LO is a techno and electronica artist based in Spain, with 52 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 1 more. Often billed alongside Groovemami, Reitze and SAINT SINNER. Next up: Core, Madrid on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ CH3LO is a techno and electronica artist based in Spain, with 52 gigs on soundch
 
 Groovemami, Reitze, SAINT SINNER
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ch3lo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ch3lo/)*

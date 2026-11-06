@@ -1,6 +1,6 @@
 # LostBoy
 
-LostBoy is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Spkrbox, Detroit on Fri, 6 Nov 2026.
+LostBoy is a House and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Spkrbox, Detroit on Fri, 6 Nov 2026.
 
 LostBoy is a house and ghetto tech artist based in United States of America, with 34 gigs on soundcheck across Detroit, Melbourne and Stockholm. Often billed alongside JMT, Disc Jockey George and Sheefy McFly. Next up: Spkrbox, Detroit on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ LostBoy is a house and ghetto tech artist based in United States of America, wit
 
 JMT (2), Disc Jockey George, Sheefy McFly
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lostboy/)*

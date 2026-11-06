@@ -1,6 +1,6 @@
 # Funky G
 
-Funky G is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Duel Club, Naples on Sat, 7 Nov 2026.
+Funky G is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Duel Club, Naples on Sat, 7 Nov 2026.
 
 Funky G is a tech house and house artist, with 10 gigs on soundcheck across Barcelona, Madrid and Naples. Often billed alongside Luca Paone, Masy (IT) and Alex Bohemien. Next up: Duel Club, Naples on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Funky G is a tech house and house artist, with 10 gigs on soundcheck across Barc
 
 Luca Paone, Masy (IT), Alex Bohemien
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyg/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkyg/)*

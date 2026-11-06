@@ -1,14 +1,15 @@
 # k.tea
 
-k.tea is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at House of Yes, New York City on Fri, 11 Dec 2026.
+k.tea is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at House of Yes, New York City on Fri, 11 Dec 2026.
 
-k.tea is a house and deep house artist based in United States of America, with 43 gigs on soundcheck across Chicago, Los Angeles and New York City. Often billed alongside Donis, CTRLZORA and Kim Lightfoot. Next up: House of Yes, New York City on Fri 11 Dec.
+k.tea is a house and deep house artist based in United States of America, with 44 gigs on soundcheck across Chicago, Los Angeles and New York City. Often billed alongside Donis, CTRLZORA and Kim Lightfoot. Next up: House of Yes, New York City on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | House of Yes | New York City |
+| Thu, 31 Dec 2026 | Nowadays | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ k.tea is a house and deep house artist based in United States of America, with 4
 
 Donis, CTRLZORA, Kim Lightfoot
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.tea/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.tea/)*

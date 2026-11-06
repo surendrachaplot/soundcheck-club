@@ -1,6 +1,6 @@
 # Turito
 
-Turito is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Animal, New York City on Sun, 8 Nov 2026.
+Turito is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Animal, New York City on Sun, 8 Nov 2026.
 
 Turito is a pop and club artist based in United States of America, with 21 gigs on soundcheck across Austin, Los Angeles and New York City. Often billed alongside XOY, BabiBoi and p1nkstar. Next up: Animal, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Turito is a pop and club artist based in United States of America, with 21 gigs 
 
 XOY, BabiBoi, p1nkstar
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turito/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/turito/)*

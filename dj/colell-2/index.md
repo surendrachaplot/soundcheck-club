@@ -1,6 +1,6 @@
 # colell
 
-colell is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
+colell is a Trance and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - LFO, Madrid on Sat, 5 Dec 2026.
 
 colell is a trance and electronica artist based in Spain, with 47 gigs on soundcheck across Barcelona, Berlin, Leeds and Lisbon and 7 more. Often billed alongside HØLEIGH, April (UK) and Claws. Next up: TBA - LFO, Madrid on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ colell is a trance and electronica artist based in Spain, with 47 gigs on soundc
 
 HØLEIGH, April (UK), Claws
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colell-2/)*

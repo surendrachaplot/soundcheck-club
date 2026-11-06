@@ -1,6 +1,6 @@
 # Paquita Gordon
 
-Paquita Gordon is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at FOLD, London on Sat, 7 Nov 2026.
+Paquita Gordon is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FOLD, London on Sat, 7 Nov 2026.
 
 Paquita Gordon is a techno and house artist based in Italy, with 146 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Francesco Del Garda, BASHKKA and Marco Shuttle. Next up: FOLD, London on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Paquita Gordon is a techno and house artist based in Italy, with 146 gigs on sou
 
 Francesco Del Garda, BASHKKA, Marco Shuttle
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paquitagordon/)*

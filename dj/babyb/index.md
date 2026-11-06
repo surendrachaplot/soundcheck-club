@@ -1,6 +1,6 @@
 # BabyB
 
-BabyB is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Saba Event Space Al Seef, Dubai on Sat, 7 Nov 2026.
+BabyB is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Saba Event Space Al Seef, Dubai on Sat, 7 Nov 2026.
 
 BabyB is a techno and electro artist, with 14 gigs on soundcheck across Berlin, Dubai, Istanbul and Madrid and 3 more. Often billed alongside Iron Curtis, Johannes Albert and Mafille. Next up: Saba Event Space Al Seef, Dubai on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ BabyB is a techno and electro artist, with 14 gigs on soundcheck across Berlin, 
 
 Iron Curtis, Johannes Albert, Mafille
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyb/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babyb/)*

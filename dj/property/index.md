@@ -1,6 +1,6 @@
 # Property
 
-Property is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at ANTIA, Netherlands on Sat, 7 Nov 2026.
+Property is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at ANTIA, Netherlands on Sat, 7 Nov 2026.
 
 Property is a techno artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Copenhagen, Netherlands and Rotterdam. Often billed alongside No Intellectual Property, Woody92 and si'nedd. Next up: ANTIA, Netherlands on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Property is a techno artist based in Netherlands, with 8 gigs on soundcheck acro
 
 No Intellectual Property, Woody92, si'nedd
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/property/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/property/)*

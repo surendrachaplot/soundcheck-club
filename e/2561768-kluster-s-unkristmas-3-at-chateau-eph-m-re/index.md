@@ -1,6 +1,6 @@
 # Kluster'S UNKRISTMAS #3 at Chateau Ephémère
 
-Kluster'S UNKRISTMAS #3 at Chateau Ephémère on Sat 12 Dec, Paris. 6 artists: Albane, Aurian, egoh and Elona Prime and 2 more. Techno and Ambient. See the line-up on soundcheck.
+Kluster'S UNKRISTMAS #3 at Chateau Ephémère on Sat 12 Dec, Paris. 7 artists: Albane, Aurian, Benouze and egoh and 3 more. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Kluster'S UNKRISTMAS #3 at Chateau Ephémère on Sat 12 Dec, Paris. 6 artists: A
 
 - Albane
 - Aurian
+- Benouze
 - egoh
 - Elona Prime
 - MNBOO

@@ -1,6 +1,6 @@
 # Ilgattoelavolpe
 
-Ilgattoelavolpe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
+Ilgattoelavolpe is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
 
 Ilgattoelavolpe is a techno and house artist based in Italy, with 22 gigs on soundcheck across Central, Milan, Naples and North and 1 more. Often billed alongside kaizoku, DE12 and Zama. Next up: TBA - Secret Location, Central on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ilgattoelavolpe is a techno and house artist based in Italy, with 22 gigs on sou
 
 kaizoku, DE12, Zama
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilgattoelavolpe/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ilgattoelavolpe/)*

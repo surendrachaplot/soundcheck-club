@@ -1,6 +1,6 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at BASEMENT, New York City on Fri, 6 Nov 2026.
+Alex Kassian is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at BASEMENT, New York City on Fri, 6 Nov 2026.
 
 Alex Kassian is a house and techno artist based in Germany, with 205 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 68 more. Often billed alongside PARAMIDA, Running Hot and Job Jobse. Next up: BASEMENT, New York City on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Alex Kassian is a house and techno artist based in Germany, with 205 gigs on sou
 
 PARAMIDA, Running Hot, Job Jobse
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alkassian/)*

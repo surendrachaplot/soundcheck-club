@@ -1,6 +1,6 @@
 # Kerri Chandler
 
-Kerri Chandler is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - 131 McCormack St., Toronto on Fri, 6 Nov 2026.
+Kerri Chandler is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - 131 McCormack St., Toronto on Fri, 6 Nov 2026.
 
 Kerri Chandler is a house and techno artist based in United States of America, with 165 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside Seth Troxler, CHRIS STASSY and DJ Deep. Next up: TBA - 131 McCormack St., Toronto on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Kerri Chandler is a house and techno artist based in United States of America, w
 
 Seth Troxler, CHRIS STASSY, DJ Deep
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kerrichandler/)*

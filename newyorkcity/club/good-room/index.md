@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 19 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "22 Years of FIXED ft Kelly Lee Owens (dj set), JDH & Dave P, Ivan Berko (all night)" on Fri, 6 Nov 2026.
+Good Room is a music venue in New York City with 20 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "22 Years of FIXED ft Kelly Lee Owens (dj set), JDH & Dave P, Ivan Berko (all night)" on Fri, 6 Nov 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 19 upcoming gigs, with line-ups including Alinka, Anastazja, beewack and Benny Soto and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 20 upcoming gigs, with line-ups including Alinka, Anastazja, beewack and Benny Soto and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Good Room is a music venue in New York City listed on soundcheck. 19 upcoming gi
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

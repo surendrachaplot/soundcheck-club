@@ -1,6 +1,6 @@
 # Watchers
 
-Watchers is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+Watchers is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
 
 Watchers is a tech house and house artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Ellia Jaya, Gaskin and Julian Fijma. Next up: The Cause, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Watchers is a tech house and house artist based in United Kingdom, with 30 gigs 
 
 Ellia Jaya, Gaskin, Julian Fijma
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/watchers/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/watchers/)*

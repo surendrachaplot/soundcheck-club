@@ -1,6 +1,6 @@
 # Kriss Salas
 
-Kriss Salas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 50 | 50, Medellin on Sat, 7 Nov 2026.
+Kriss Salas is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 50 | 50, Medellin on Sat, 7 Nov 2026.
 
 Kriss Salas is a techno and house artist based in Colombia, with 61 gigs on soundcheck across Bogotá, Boston, Medellin and New York City. Often billed alongside Juli Monsalve, Paula Velez and Jano von Skorpio. Next up: 50 | 50, Medellin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kriss Salas is a techno and house artist based in Colombia, with 61 gigs on soun
 
 Juli Monsalve, Paula Velez, Jano von Skorpio
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krisssalas/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krisssalas/)*

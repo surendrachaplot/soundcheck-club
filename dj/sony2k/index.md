@@ -1,14 +1,15 @@
 # Sony2k
 
-Sony2k is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
+Sony2k is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
 
-Sony2k is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin, Hamburg, Leipzig and Madrid and 1 more. Often billed alongside Ben Derris, Amo (IT) and Deltapeak. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
+Sony2k is a techno and house artist based in Germany, with 23 gigs on soundcheck across Berlin, Hamburg, Leipzig and Madrid and 1 more. Often billed alongside Ben Derris, Amo (IT) and Deltapeak. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Grelle Forelle | Vienna |
+| Fri, 27 Nov 2026 | ÆDEN | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Sony2k is a techno and house artist based in Germany, with 22 gigs on soundcheck
 
 Ben Derris, Amo (IT), Deltapeak
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sony2k/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sony2k/)*

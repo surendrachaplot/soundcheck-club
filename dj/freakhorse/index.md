@@ -1,6 +1,6 @@
 # freakhorse
 
-freakhorse is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Artcade, Dallas/Fort Worth on Sat, 7 Nov 2026.
+freakhorse is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Artcade, Dallas/Fort Worth on Sat, 7 Nov 2026.
 
 freakhorse is a techno and trance artist, with 21 gigs on soundcheck across Austin, Chicago, Dallas/Fort Worth and Los Angeles. Often billed alongside Formless Ocean, $tinkworx and Baseck. Next up: Artcade, Dallas/Fort Worth on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ freakhorse is a techno and trance artist, with 21 gigs on soundcheck across Aust
 
 Formless Ocean, $tinkworx, Baseck
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freakhorse/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freakhorse/)*

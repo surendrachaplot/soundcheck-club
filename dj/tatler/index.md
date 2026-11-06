@@ -1,6 +1,6 @@
 # Tatler
 
-Tatler is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Tatler is a Minimal and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Tatler is a minimal and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Liverpool, London, Medellin and Tunisia and 1 more. Often billed alongside Flavio (CH), Rome (IT) and Sirol. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -12,6 +12,7 @@ Tatler is a minimal and deep house artist based in United Kingdom, with 8 gigs o
 
 ## Recently played
 
+- One Resort, Tunisia · Thu, 5 Nov 2026
 - Supermarket, Zurich · Sat, 27 Jun 2026
 - TBA - Secret Location, London · Sat, 30 Aug 2025
 - Supermarket, Zurich · Sat, 28 Jun 2025
@@ -24,4 +25,4 @@ Tatler is a minimal and deep house artist based in United Kingdom, with 8 gigs o
 
 Flavio (CH), Rome (IT), Sirol
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tatler/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tatler/)*

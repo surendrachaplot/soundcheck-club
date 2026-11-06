@@ -1,6 +1,6 @@
 # Sezer Uysal
 
-Sezer Uysal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Nordstern, Basel on Sat, 12 Dec 2026.
+Sezer Uysal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nordstern, Basel on Sat, 12 Dec 2026.
 
 Sezer Uysal is a techno and house artist based in Turkey, with 46 gigs on soundcheck across Amsterdam, Basel, Berlin and Bratislava and 18 more. Often billed alongside Afshin Momadi, Baime and VIIA. Next up: Nordstern, Basel on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Sezer Uysal is a techno and house artist based in Turkey, with 46 gigs on soundc
 
 Afshin Momadi, Baime, VIIA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sezeruysal/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sezeruysal/)*

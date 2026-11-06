@@ -1,6 +1,6 @@
 # Acud Macht NEU
 
-Acud Macht NEU is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Hyper Fog presents: HYD • ultra caro • s1m0nc3ll0 • DJ Hristos" on Fri, 6 Nov 2026.
+Acud Macht NEU is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Hyper Fog presents: HYD • ultra caro • s1m0nc3ll0 • DJ Hristos" on Fri, 6 Nov 2026.
 
 Acud Macht NEU is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Amowia, Bokaric, DJ Hristos and DJ Sea View and 2 more. See dates, start times and who's playing. Veteranenstraße 21, 10119 Berlin, Germany.
 
@@ -19,4 +19,4 @@ Acud Macht NEU is a music venue in Berlin listed on soundcheck. 6 upcoming gigs,
 
 Veteranenstraße 21, 10119 Berlin, Germany, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/acud-macht-neu/)*

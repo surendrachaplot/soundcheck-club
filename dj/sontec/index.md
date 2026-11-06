@@ -1,6 +1,6 @@
 # Sontec
 
-Sontec is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Viuz, Medellin on Sun, 8 Nov 2026.
+Sontec is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Viuz, Medellin on Sun, 8 Nov 2026.
 
 Sontec is a tech house and house artist, with 18 gigs on soundcheck across Barcelona and Medellin. Often billed alongside Andres Claro, D Jaguar and Matheo Velez. Next up: Viuz, Medellin on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Sontec is a tech house and house artist, with 18 gigs on soundcheck across Barce
 
 Andres Claro, D Jaguar, Matheo Velez
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sontec/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sontec/)*

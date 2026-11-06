@@ -1,8 +1,8 @@
 # Stones Taro
 
-Stones Taro is a House and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri, 6 Nov 2026.
+Stones Taro is a House and Bass artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri, 6 Nov 2026.
 
-Stones Taro is a house and bass artist based in Japan, with 133 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 23 more. Often billed alongside Lomax, KOTSU and FELINE (JP). Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri 6 Nov.
+Stones Taro is a house and bass artist based in Japan, with 134 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Berlin and 24 more. Often billed alongside Lomax, KOTSU and FELINE (JP). Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Stones Taro is a house and bass artist based in Japan, with 133 gigs on soundche
 | Fri, 6 Nov 2026 | 不眠遊戯ライオン - Music Bar Lion | Tokyo |
 | Sat, 7 Nov 2026 | Oba Camp Village | Tokyo |
 | Fri, 13 Nov 2026 | TBA - to ticket holders via email | Denver |
+| Fri, 20 Nov 2026 | Process PDX | Portland |
 | Sat, 28 Nov 2026 | West Harlem | Kyoto |
 | Fri, 11 Dec 2026 | BAR Inc | Osaka |
 
@@ -29,4 +30,4 @@ Stones Taro is a house and bass artist based in Japan, with 133 gigs on soundche
 
 Lomax, KOTSU, FELINE (JP)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stonestaro/)*

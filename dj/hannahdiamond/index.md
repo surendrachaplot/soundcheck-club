@@ -1,14 +1,15 @@
 # Hannah Diamond
 
-Hannah Diamond is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Hannah Diamond is a Pop and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
-Hannah Diamond is a pop and club artist based in United Kingdom, with 43 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 13 more. Often billed alongside Kane West, THELIMITDOESNOTEXIST and Doss. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
+Hannah Diamond is a pop and club artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 14 more. Often billed alongside Kane West, THELIMITDOESNOTEXIST and Doss. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
+| Fri, 27 Nov 2026 | Stereo | Glasgow |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Hannah Diamond is a pop and club artist based in United Kingdom, with 43 gigs on
 
 Kane West, THELIMITDOESNOTEXIST, Doss
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahdiamond/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahdiamond/)*

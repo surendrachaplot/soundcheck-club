@@ -1,6 +1,6 @@
 # Reka Zalan
 
-Reka Zalan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at control, Bucharest on Fri, 6 Nov 2026.
+Reka Zalan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at control, Bucharest on Fri, 6 Nov 2026.
 
 Reka Zalan is a techno and house artist based in Germany, with 122 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 27 more. Often billed alongside THNTS, Rill and V:SONNTAG. Next up: control, Bucharest on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Reka Zalan is a techno and house artist based in Germany, with 122 gigs on sound
 
 THNTS, Rill, V:SONNTAG
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rekazalan-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rekazalan-de/)*

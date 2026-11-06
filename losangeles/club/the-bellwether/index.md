@@ -1,6 +1,6 @@
 # The Bellwether
 
-The Bellwether is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Wuki" on Fri, 6 Nov 2026.
+The Bellwether is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Wuki" on Fri, 6 Nov 2026.
 
 The Bellwether is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Paul Oakenfold, The Crystal Method and Wuki. See dates, start times and who's playing. 333 S Boylston St, Los Angeles, CA 90017.
 
@@ -17,4 +17,4 @@ The Bellwether is a music venue in Los Angeles listed on soundcheck. 4 upcoming 
 
 333 S Boylston St, Los Angeles, CA 90017, Los Angeles
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-bellwether/)*

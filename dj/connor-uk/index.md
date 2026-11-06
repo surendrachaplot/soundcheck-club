@@ -1,6 +1,6 @@
 # Connor (UK)
 
-Connor (UK) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+Connor (UK) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
 Connor (UK) is a techno and house artist, with 33 gigs on soundcheck across Berlin, Bogotá, Liverpool and London and 4 more. Often billed alongside Deventi, Rosie (UK) and quarter ohm. Next up: renae, Manchester on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Connor (UK) is a techno and house artist, with 33 gigs on soundcheck across Berl
 
 Deventi, Rosie (UK), quarter ohm
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connor-uk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connor-uk/)*

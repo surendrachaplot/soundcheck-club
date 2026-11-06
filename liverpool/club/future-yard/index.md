@@ -1,6 +1,6 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 16 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "African Head Charge 45th Anniversary" on Sat, 7 Nov 2026.
+Future Yard is a music venue in Liverpool with 16 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "African Head Charge 45th Anniversary" on Sat, 7 Nov 2026.
 
 Future Yard is a music venue in Liverpool listed on soundcheck. 16 upcoming gigs, with line-ups including African Head Charge, Bodega, Congo Natty and corto.alto and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
@@ -23,4 +23,4 @@ Future Yard is a music venue in Liverpool listed on soundcheck. 16 upcoming gigs
 
 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB, Liverpool
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/future-yard/)*

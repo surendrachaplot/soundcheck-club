@@ -1,6 +1,6 @@
 # Thuishaven
 
-Thuishaven is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026" on Sat, 7 Nov 2026.
+Thuishaven is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SOLD OUT - Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026" on Sat, 7 Nov 2026.
 
 Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 2HOT2PLAY, Kepler, Abstract Division and A For Alpha and 2 more. See dates, start times and who's playing. Contactweg 68, 1014BW, Amsterdam, Nederland.
 
@@ -8,7 +8,7 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs,
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 | Alexander Koning, Dimitri (1), Eric de Man, Erick E, Franky Jones, Gizmo, HETTO, JP (RU), Jay Dee, Klubbheads, Lucien Foort, Marco V, Remy Unger, Sander van Doorn, Sidney (2), Ton TB |
+| Sat, 7 Nov 2026 | SOLD OUT - Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 | Alexander Koning, Dimitri (1), Eric de Man, Erick E, Franky Jones, Gizmo, HETTO, JP (RU), Jay Dee, Klubbheads, Lucien Foort, Marco V, Remy Unger, Sander van Doorn, Sidney (2), Ton TB |
 | Sun, 8 Nov 2026 | 08 - Thuishaven with Locklead / Job de Jong / Kepler | A For Alpha, Job de Jong, Kepler, Locklead, Ranger Trucco, Simone de Kunovich, Stefan Meser |
 | Sat, 14 Nov 2026 | JOY Autumn Festival | Cici Daze, Easttown, Hidde van Wee, Lewis Taylor, Paisley Jensen, Prunk, RUZE, Sidney Charles, Tommy Phillips |
 | Sun, 15 Nov 2026 | 15 NOV - Thuishaven with Cynthia Spiering / Sam Hofman / 2HOT2PLAY | 2HOT2PLAY, Clouds, Cynthia Spiering, Eva Vrijdag, Hurts, MOONYEAN, Sam Hofman, THISO |
@@ -23,4 +23,4 @@ Thuishaven is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs,
 
 Contactweg 68, 1014BW, Amsterdam, Nederland, Amsterdam
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/thuishaven/)*

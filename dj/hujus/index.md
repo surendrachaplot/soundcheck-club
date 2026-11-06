@@ -1,6 +1,6 @@
 # HUJUS
 
-HUJUS is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at RADION, Amsterdam on Fri, 6 Nov 2026.
+HUJUS is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at RADION, Amsterdam on Fri, 6 Nov 2026.
 
 HUJUS is a techno and trance artist based in Netherlands, with 60 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 11 more. Often billed alongside Adrian Mills, Beau Didier and Fran LF. Next up: RADION, Amsterdam on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ HUJUS is a techno and trance artist based in Netherlands, with 60 gigs on soundc
 
 Adrian Mills, Beau Didier, Fran LF
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hujus/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hujus/)*

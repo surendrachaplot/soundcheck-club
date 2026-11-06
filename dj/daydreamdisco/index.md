@@ -1,6 +1,6 @@
 # Daydream Disco
 
-Daydream Disco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Two More Years, London on Sat, 28 Nov 2026.
+Daydream Disco is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Two More Years, London on Sat, 28 Nov 2026.
 
 Daydream Disco is a disco and house artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Late Night Disco, Handson Family and Michael Gray. Next up: Two More Years, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Daydream Disco is a disco and house artist based in United Kingdom, with 14 gigs
 
 Late Night Disco, Handson Family, Michael Gray
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daydreamdisco/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daydreamdisco/)*

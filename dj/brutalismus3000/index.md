@@ -1,6 +1,6 @@
 # Brutalismus 3000
 
-Brutalismus 3000 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Brutalismus 3000 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Brutalismus 3000 is a techno and house artist based in Germany, with 85 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside DJ Gigola, MCR-T and 999999999. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ Brutalismus 3000 is a techno and house artist based in Germany, with 85 gigs on 
 
 DJ Gigola, MCR-T, 999999999
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brutalismus3000/)*

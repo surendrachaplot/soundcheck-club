@@ -1,8 +1,8 @@
 # Sedef Adasï
 
-Sedef Adasï is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 6 Nov 2026.
+Sedef Adasï is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 6 Nov 2026.
 
-Sedef Adasï is a techno and house artist based in Turkey, with 317 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Ankali & Planeta Za, Prague on Fri 6 Nov.
+Sedef Adasï is a techno and house artist based in Turkey, with 318 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 74 more. Often billed alongside BASHKKA, Gabrielle Kwarteng and Job Jobse. Next up: Ankali & Planeta Za, Prague on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Sedef Adasï is a techno and house artist based in Turkey, with 317 gigs on soun
 | Sat, 21 Nov 2026 | FOLD | London |
 | Fri, 27 Nov 2026 | CLUB RAUM | Amsterdam |
 | Wed, 2 Dec 2026 | Factory Town | Miami |
+| Sat, 5 Dec 2026 | Nowadays | New York City |
 | Sat, 26 Dec 2026 | Canoa Quebrada Beach | Brazil |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
@@ -35,4 +36,4 @@ Sedef Adasï is a techno and house artist based in Turkey, with 317 gigs on soun
 
 BASHKKA, Gabrielle Kwarteng, Job Jobse
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sedefadasi/)*

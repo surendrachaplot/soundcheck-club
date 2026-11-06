@@ -1,6 +1,6 @@
 # EllA
 
-EllA is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Deseo BS AS, Buenos Aires on Fri, 6 Nov 2026.
+EllA is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Deseo BS AS, Buenos Aires on Fri, 6 Nov 2026.
 
 EllA is a techno and tech house artist based in Germany, with 43 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and Sao Paulo. Often billed alongside Hans Hammer, Surreal (DE) and A.B.U.. Next up: Deseo BS AS, Buenos Aires on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ EllA is a techno and tech house artist based in Germany, with 43 gigs on soundch
 
 Hans Hammer, Surreal (DE), A.B.U.
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ella-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ella-de/)*

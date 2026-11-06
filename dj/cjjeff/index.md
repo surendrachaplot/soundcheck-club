@@ -1,6 +1,6 @@
 # CJ Jeff
 
-CJ Jeff is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Dybbuk, Athens on Fri, 6 Nov 2026.
+CJ Jeff is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Dybbuk, Athens on Fri, 6 Nov 2026.
 
 CJ Jeff is a tech house and house artist based in Greece, with 52 gigs on soundcheck across Athens, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Agent Greg, Dub Tiger and Diogo Accioly. Next up: Dybbuk, Athens on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ CJ Jeff is a tech house and house artist based in Greece, with 52 gigs on soundc
 
 Agent Greg, Dub Tiger, Diogo Accioly
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjjeff/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cjjeff/)*

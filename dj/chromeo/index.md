@@ -1,6 +1,6 @@
 # Chromeo
 
-Chromeo is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at It'll Do, Dallas/Fort Worth on Sat, 19 Dec 2026.
+Chromeo is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at It'll Do, Dallas/Fort Worth on Sat, 19 Dec 2026.
 
 Chromeo is a house and funk / soul artist based in Canada, with 49 gigs on soundcheck across Austin, Berlin, Boston and Budapest and 20 more. Often billed alongside Kapote, Purple Disco Machine and Athlete Whippet. Next up: It'll Do, Dallas/Fort Worth on Sat 19 Dec.
 
@@ -26,4 +26,4 @@ Chromeo is a house and funk / soul artist based in Canada, with 49 gigs on sound
 
 Kapote, Purple Disco Machine, Athlete Whippet
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chromeo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chromeo/)*

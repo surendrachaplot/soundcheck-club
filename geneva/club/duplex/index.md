@@ -1,6 +1,6 @@
 # Duplex
 
-Duplex is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "FOLNUI INTERSTELLAIRE 2026 / OUVERTURE (LIVES A/V)" on Sat, 7 Nov 2026.
+Duplex is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "FOLNUI INTERSTELLAIRE 2026 / OUVERTURE (LIVES A/V)" on Sat, 7 Nov 2026.
 
 Duplex is a music venue in Geneva listed on soundcheck. 1 upcoming gig, with line-ups including e-garbage. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Duplex is a music venue in Geneva listed on soundcheck. 1 upcoming gig, with lin
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | FOLNUI INTERSTELLAIRE 2026 / OUVERTURE (LIVES A/V) | e-garbage |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/duplex/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/duplex/)*

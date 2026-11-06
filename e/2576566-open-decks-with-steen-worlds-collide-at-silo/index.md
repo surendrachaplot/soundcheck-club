@@ -1,10 +1,10 @@
 # Open Decks with STEEN & Worlds Collide at SILO
 
-Open Decks with STEEN & Worlds Collide at SILO on Tue 10 Nov, New York City. 1 artist: STEEN. Techno and House. See the line-up on soundcheck.
+Open Decks with STEEN & Worlds Collide at SILO on Wed 16 Dec, New York City. 1 artist: STEEN. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Tue, 10 Nov 2026 |
+| Date | Wed, 16 Dec 2026 |
 | Venue | SILO |
 | City | New York City |
 

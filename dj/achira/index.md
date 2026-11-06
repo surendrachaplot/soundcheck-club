@@ -1,18 +1,18 @@
 # ACHIRĀ
 
-ACHIRĀ is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Stereo, Glasgow on Thu, 5 Nov 2026.
+ACHIRĀ is a Experimental and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Art School, Glasgow on Sat, 7 Nov 2026.
 
-ACHIRĀ is an experimental and club artist based in Italy, with 9 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Rahul.mp3, leahgte and ARMANA KHAN. Next up: Stereo, Glasgow on Thu 5 Nov.
+ACHIRĀ is an experimental and club artist based in Italy, with 9 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Rahul.mp3, leahgte and ARMANA KHAN. Next up: The Art School, Glasgow on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Stereo | Glasgow |
 | Sat, 7 Nov 2026 | The Art School | Glasgow |
 
 ## Recently played
 
+- Stereo, Glasgow · Thu, 5 Nov 2026
 - Sneaky Pete's, Edinburgh · Thu, 22 Oct 2026
 - EXIT Glasgow, Glasgow · Fri, 16 Oct 2026
 - La Chunky, Glasgow · Wed, 30 Sept 2026
@@ -25,4 +25,4 @@ ACHIRĀ is an experimental and club artist based in Italy, with 9 gigs on soundc
 
 Rahul.mp3, leahgte, ARMANA KHAN
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/achira/)*

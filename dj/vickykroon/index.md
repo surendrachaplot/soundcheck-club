@@ -1,6 +1,6 @@
 # Vicky Kroon
 
-Vicky Kroon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 14 Nov 2026.
+Vicky Kroon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sat, 14 Nov 2026.
 
 Vicky Kroon is a techno and house artist based in Spain, with 11 gigs on soundcheck across Berlin, Ho Chi Minh City, Ibiza and Istanbul and 5 more. Often billed alongside Animal Feelings, Bruz and Chaim. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Vicky Kroon is a techno and house artist based in Spain, with 11 gigs on soundch
 
 Animal Feelings, Bruz, Chaim
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vickykroon/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vickykroon/)*

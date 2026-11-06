@@ -1,6 +1,6 @@
 # A.L.C
 
-A.L.C is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Arches Social, Leeds on Sat, 5 Dec 2026.
+A.L.C is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Arches Social, Leeds on Sat, 5 Dec 2026.
 
 A.L.C is a techno and electro artist based in United Kingdom, with 27 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Joe Reece, Phil Warner and Ethan McNamara. Next up: The Arches Social, Leeds on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ A.L.C is a techno and electro artist based in United Kingdom, with 27 gigs on so
 
 Joe Reece, Phil Warner, Ethan McNamara
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.c/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.l.c/)*

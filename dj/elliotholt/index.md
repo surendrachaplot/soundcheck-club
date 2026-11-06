@@ -1,6 +1,6 @@
 # Elliot Holt
 
-Elliot Holt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Eiger Studios, Leeds on Fri, 6 Nov 2026.
+Elliot Holt is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Eiger Studios, Leeds on Fri, 6 Nov 2026.
 
 Elliot Holt is a house and techno artist based in United Kingdom, with 35 gigs on soundcheck across Leeds and West Wales. Often billed alongside Cosmikuro, Ellis Weeks and Simon Scott. Next up: Eiger Studios, Leeds on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Elliot Holt is a house and techno artist based in United Kingdom, with 35 gigs o
 
 Cosmikuro, Ellis Weeks, Simon Scott
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elliotholt/)*

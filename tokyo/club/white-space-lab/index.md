@@ -1,6 +1,6 @@
 # White Space Lab
 
-White Space Lab is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Room 9" on Fri, 6 Nov 2026.
+White Space Lab is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Room 9" on Fri, 6 Nov 2026.
 
 White Space Lab is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including 87, AOI BLOOM, DAIY and KIRIHARA and 2 more. See dates, start times and who's playing. 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044.
 
@@ -17,4 +17,4 @@ White Space Lab is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs,
 
 2-20 Maruyama-cho, Shibuya-ku, Tokyo, 150-0044, Tokyo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/white-space-lab/)*

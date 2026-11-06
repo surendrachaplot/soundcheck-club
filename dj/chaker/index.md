@@ -1,6 +1,6 @@
 # Chaker
 
-Chaker is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 20 Nov 2026.
+Chaker is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location, Berlin on Fri, 20 Nov 2026.
 
 Chaker is a house and minimal artist based in Germany, with 10 gigs on soundcheck across Berlin and Washington DC. Often billed alongside Clovis, SimoneakaEnea and Alexia. Next up: TBA - Secret Location, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Chaker is a house and minimal artist based in Germany, with 10 gigs on soundchec
 
 Clovis, SimoneakaEnea, Alexia (2)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaker/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaker/)*

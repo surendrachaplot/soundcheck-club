@@ -1,6 +1,6 @@
 # Evening
 
-Evening is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Evening" on Fri, 6 Nov 2026.
+Evening is a music venue in Seoul with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Evening" on Fri, 6 Nov 2026.
 
 Evening is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with line-ups including KYVU. See dates, start times and who's playing. 141, Itaewon-ro, Yongsan-gu, Seoul 04351, South Korea.
 
@@ -15,4 +15,4 @@ Evening is a music venue in Seoul listed on soundcheck. 2 upcoming gigs, with li
 
 141, Itaewon-ro, Yongsan-gu, Seoul 04351, South Korea, Seoul
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/evening/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/evening/)*

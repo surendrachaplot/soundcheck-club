@@ -1,6 +1,6 @@
 # Palazzo Cold Nights at Palazzo Permanens
 
-Palazzo Cold Nights at Palazzo Permanens on Fri 6 Nov, Budapest. 1 artist: GIGASET. Techno and Hip-Hop. See the line-up on soundcheck.
+Palazzo Cold Nights at Palazzo Permanens on Fri 6 Nov, Budapest. 2 artists: FlaFla and GIGASET. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Palazzo Cold Nights at Palazzo Permanens on Fri 6 Nov, Budapest. 1 artist: GIGAS
 
 ## Line-up
 
+- FlaFla
 - GIGASET
 
 *Source: [soundcheck](https://soundcheck.club/e/2569706-palazzo-cold-nights-at-palazzo-permanens/)*

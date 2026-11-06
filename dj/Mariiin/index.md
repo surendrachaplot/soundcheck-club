@@ -1,8 +1,8 @@
 # Mariiin
 
-Mariiin is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
+Mariiin is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Circolo Masada + Circolo Amelia, Milan on Sat, 21 Nov 2026.
 
-Mariiin is a techno and electro artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Bobby., Jos and Anna Wall. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
+Mariiin is a techno and electro artist based in United Kingdom, with 97 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 18 more. Often billed alongside Bobby., Jos and Anna Wall. Next up: TBA - Circolo Masada + Circolo Amelia, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mariiin is a techno and electro artist based in United Kingdom, with 96 gigs on 
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Circolo Masada + Circolo Amelia | Milan |
 | Sat, 19 Dec 2026 | Basic Club | Naples |
+| Fri, 1 Jan 2027 | fabric | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mariiin is a techno and electro artist based in United Kingdom, with 96 gigs on 
 
 Bobby., Jos, Anna Wall
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Mariiin/)*

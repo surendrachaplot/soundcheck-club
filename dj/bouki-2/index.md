@@ -1,6 +1,6 @@
 # BOUKI (2)
 
-BOUKI (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Les Studios du Rhin, Strasbourg on Sun, 8 Nov 2026.
+BOUKI (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Les Studios du Rhin, Strasbourg on Sun, 8 Nov 2026.
 
 BOUKI is a house and techno artist based in France, with 7 gigs on soundcheck across Paris and Strasbourg. Often billed alongside Tal Stef, DJ Deep and El Kazed. Next up: Les Studios du Rhin, Strasbourg on Sun 8 Nov.
 
@@ -23,4 +23,4 @@ BOUKI is a house and techno artist based in France, with 7 gigs on soundcheck ac
 
 Tal Stef, DJ Deep, El Kazed
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bouki-2/)*

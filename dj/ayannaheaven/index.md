@@ -1,6 +1,6 @@
 # Ayanna Heaven
 
-Ayanna Heaven is a Dancehall and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Signal, New York City on Sat, 7 Nov 2026.
+Ayanna Heaven is a Dancehall and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Signal, New York City on Sat, 7 Nov 2026.
 
 Ayanna Heaven is a dancehall and house artist based in United States of America, with 81 gigs on soundcheck across Athens, Baltimore, London and Manchester and 3 more. Often billed alongside Honey Bun, Akanbi and DJ Tara. Next up: Signal, New York City on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Ayanna Heaven is a dancehall and house artist based in United States of America,
 
 Honey Bun, Akanbi, DJ Tara
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*

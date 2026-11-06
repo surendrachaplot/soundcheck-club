@@ -1,6 +1,6 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at LAUT, Barcelona on Fri, 6 Nov 2026.
+Andy Martin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at LAUT, Barcelona on Fri, 6 Nov 2026.
 
 Andy Martin is a techno and house artist based in Mexico, with 107 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Niño Arbol, Alarico and DJ MARIA.. Next up: LAUT, Barcelona on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Andy Martin is a techno and house artist based in Mexico, with 107 gigs on sound
 
 Niño Arbol, Alarico, DJ MARIA.
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

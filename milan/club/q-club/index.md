@@ -1,6 +1,6 @@
 # Q Club
 
-Q Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "dkr x RÀTAVA with Akua - room 2 by Slumberloveparty" on Fri, 6 Nov 2026.
+Q Club is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "dkr x RÀTAVA with Akua - room 2 by Slumberloveparty" on Fri, 6 Nov 2026.
 
 Q Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Akua, Andromeda\Unchained, Evissimax and Juicy Hammer and 2 more. See dates, start times and who's playing. Via Padova 21, 20100 Milano (MI), Italy.
 
@@ -15,4 +15,4 @@ Q Club is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with lin
 
 Via Padova 21, 20100 Milano (MI), Italy, Milan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/q-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/q-club/)*

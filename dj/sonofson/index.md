@@ -1,6 +1,6 @@
 # Son of Son
 
-Son of Son is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
+Son of Son is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
 Son of Son is a techno and house artist based in Sweden, with 56 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 30 more. Often billed alongside 19:26, Anyma and Adriatique. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Son of Son is a techno and house artist based in Sweden, with 56 gigs on soundch
 
 19:26, Anyma, Adriatique
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonofson/)*

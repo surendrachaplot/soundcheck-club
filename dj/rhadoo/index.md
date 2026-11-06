@@ -1,8 +1,8 @@
 # Rhadoo
 
-Rhadoo is a Minimal and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Robert Johnson, Hesse on Fri, 13 Nov 2026.
+Rhadoo is a Minimal and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Robert Johnson, Hesse on Fri, 13 Nov 2026.
 
-Rhadoo is a minimal and house artist based in Romania, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Robert Johnson, Hesse on Fri 13 Nov.
+Rhadoo is a minimal and house artist based in Romania, with 198 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Raresh and RPR Soundsystem. Next up: Robert Johnson, Hesse on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Rhadoo is a minimal and house artist based in Romania, with 197 gigs on soundche
 | Fri, 11 Dec 2026 | fi | Cologne |
 | Sat, 12 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Ampere | Antwerp |
+| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -34,4 +35,4 @@ Rhadoo is a minimal and house artist based in Romania, with 197 gigs on soundche
 
 Petre Inspirescu, Raresh, RPR Soundsystem
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rhadoo/)*

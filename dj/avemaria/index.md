@@ -1,6 +1,6 @@
 # Ave Maria
 
-Ave Maria is a Garage and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Baggen, Copenhagen on Sat, 7 Nov 2026.
+Ave Maria is a Garage and Afrobeats artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Baggen, Copenhagen on Sat, 7 Nov 2026.
 
 Ave Maria is a garage and afrobeats artist based in Denmark, with 15 gigs on soundcheck across Copenhagen, Munich and Tallinn. Often billed alongside AVI.avi, Anton Goltermann and DJ Sprinter. Next up: Baggen, Copenhagen on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ave Maria is a garage and afrobeats artist based in Denmark, with 15 gigs on sou
 
 AVI.avi, Anton Goltermann, DJ Sprinter
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avemaria/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avemaria/)*

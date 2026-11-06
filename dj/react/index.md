@@ -1,6 +1,6 @@
 # Re/Act
 
-Re/Act is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Astron Club, Athens on Fri, 6 Nov 2026.
+Re/Act is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Astron Club, Athens on Fri, 6 Nov 2026.
 
 Re/Act is a techno and electro artist based in Greece, with 46 gigs on soundcheck across Athens and Berlin. Often billed alongside Petros Spatharos, Bekha Mujiri and DΛS. Next up: Astron Club, Athens on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Re/Act is a techno and electro artist based in Greece, with 46 gigs on soundchec
 
 Petros Spatharos, Bekha Mujiri, DΛS
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/react/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/react/)*

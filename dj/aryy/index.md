@@ -1,6 +1,6 @@
 # aryy
 
-aryy is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 6 Nov 2026.
+aryy is a Pop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Circus Tokyo, Tokyo on Fri, 6 Nov 2026.
 
 aryy is a pop and club artist based in Japan, with 14 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside Yoyou, yuzuha and Vís. Next up: Circus Tokyo, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ aryy is a pop and club artist based in Japan, with 14 gigs on soundcheck across 
 
 Yoyou, yuzuha, Vís (1)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aryy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aryy/)*

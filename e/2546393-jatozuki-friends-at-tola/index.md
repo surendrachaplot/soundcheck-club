@@ -1,6 +1,6 @@
 # Jatozuki & FRIENDS at Tola
 
-Jatozuki & FRIENDS at Tola on Sat 7 Nov, London. 3 artists: Dukesmith, Jatozuki and RIMIX. House and Afro House. See the line-up on soundcheck.
+Jatozuki & FRIENDS at Tola on Sat 7 Nov, London. 4 artists: DJ Shakaraa, Dukesmith, Jatozuki and RIMIX. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Jatozuki & FRIENDS at Tola on Sat 7 Nov, London. 3 artists: Dukesmith, Jatozuki 
 
 ## Line-up
 
+- DJ Shakaraa
 - Dukesmith
 - Jatozuki
 - RIMIX

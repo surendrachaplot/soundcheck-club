@@ -1,14 +1,13 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "FRESH FACES (FREE ENTRY): Alejo Romano, Alex Stauffer, Hilu, KLAPZEE" on Thu, 5 Nov 2026.
+Bulbul Berlin is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz" on Fri, 6 Nov 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including ALINUSH, Ashbeat, ATTA (GER) and Club Jerome and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including ALINUSH, Ashbeat, ATTA (GER) and Club Jerome and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | FRESH FACES (FREE ENTRY): Alejo Romano, Alex Stauffer, Hilu, KLAPZEE | Hilu (2) |
 | Fri, 6 Nov 2026 | KTV & Friends: ALINUSH, Vasile, Gaß b2b Hubz | ALINUSH, Hubz, Vasile |
 | Sat, 7 Nov 2026 | Absynth X Rotes Rauschen: Malte Scheibe b2b Pepi Soljanka, gio b2b truuufaith, melascha & More | Pepi Soljanka, Supergross, Walodja, melascha, truuufaith |
 | Thu, 12 Nov 2026 | Rouge 909: ATTA, JOJO PENSE, MAKSIM | ATTA (GER), JOJO PENSE |
@@ -18,9 +17,10 @@ Bulbul Berlin is a music venue in Berlin listed on soundcheck. 13 upcoming gigs,
 | Fri, 20 Nov 2026 | Crème Mullét: Haley, Gilbert, Club Jérôme, Delavas | Club Jerome, Delavas |
 | Sat, 21 Nov 2026 | wannadancewithsomebody?: Kawun, Head Matter, wannadosomething? (Gesine Kühne & Jakob Mandler) | Kawun, wannadosomething? |
 | Thu, 26 Nov 2026 | SÜMA - COMMON GROUND [002]: Moni von Pisani, Moodjo, Stark | Moni von Pisani, Moodjo, Stark |
+| Fri, 27 Nov 2026 | Nice Tries invites: Nice Tries & More |  |
 
 ## Address
 
 Skalitzer str. 114, 10999 Berlin, Germany, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/bulbul-berlin/)*

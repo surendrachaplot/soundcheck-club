@@ -1,6 +1,6 @@
 # Raya Noire
 
-Raya Noire is a Experimental and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Newspeak, Montreal on Fri, 6 Nov 2026.
+Raya Noire is a Experimental and New Wave artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Newspeak, Montreal on Fri, 6 Nov 2026.
 
 Raya Noire is an experimental and new wave artist based in Canada, with 8 gigs on soundcheck across Berlin, Brussels, Montreal and New York City. Often billed alongside online threat, Seren Realm and Tuchscreen. Next up: Newspeak, Montreal on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Raya Noire is an experimental and new wave artist based in Canada, with 8 gigs o
 
 online threat, Seren Realm, Tuchscreen
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayanoire/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayanoire/)*

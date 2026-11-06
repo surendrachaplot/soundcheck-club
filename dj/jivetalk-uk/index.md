@@ -1,6 +1,6 @@
 # Jive Talk
 
-Jive Talk is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, London on Sat, 28 Nov 2026.
+Jive Talk is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location, London on Sat, 28 Nov 2026.
 
 Jive Talk is a house and electro artist based in United Kingdom, with 74 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Bristol and 9 more. Often billed alongside Just Jam, Lulah Francs and Trixie (UK). Next up: TBA - Secret Location, London on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Jive Talk is a house and electro artist based in United Kingdom, with 74 gigs on
 
 Just Jam, Lulah Francs, Trixie (UK)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jivetalk-uk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jivetalk-uk/)*

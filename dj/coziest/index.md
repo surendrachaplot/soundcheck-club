@@ -1,6 +1,6 @@
 # Coziest
 
-Coziest is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
+Coziest is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cakeshop, Seoul on Fri, 13 Nov 2026.
 
 Coziest is a garage and bass artist, with 52 gigs on soundcheck across Barcelona, Bristol, London and Paris and 1 more. Often billed alongside h4rdy, BAAWLA and MAR VISTA. Next up: Cakeshop, Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Coziest is a garage and bass artist, with 52 gigs on soundcheck across Barcelona
 
 h4rdy, BAAWLA, MAR VISTA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coziest/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coziest/)*

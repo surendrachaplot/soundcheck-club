@@ -1,14 +1,15 @@
 # JKS
 
-JKS is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
+JKS is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
 
-JKS is a techno and house artist based in France, with 172 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Berlin and 63 more. Often billed alongside Bailey Ibbs, BENZA and François X. Next up: Schrotty, Cologne on Fri 20 Nov.
+JKS is a techno and house artist based in France, with 173 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Berlin and 64 more. Often billed alongside Bailey Ibbs, BENZA and François X. Next up: Schrotty, Cologne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Schrotty | Cologne |
+| Fri, 4 Dec 2026 | glimmer | Hamburg |
 | Fri, 11 Dec 2026 | Tresor / Globus | Berlin |
 | Wed, 30 Dec 2026 | MUENZE | Berlin |
 | Thu, 31 Dec 2026 | Mergener Hof | Rhineland-palatinate |
@@ -28,4 +29,4 @@ JKS is a techno and house artist based in France, with 172 gigs on soundcheck ac
 
 Bailey Ibbs, BENZA, François X
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jks/)*

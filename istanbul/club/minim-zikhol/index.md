@@ -1,6 +1,6 @@
 # Minimüzikhol
 
-Minimüzikhol is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Peninsulas presents: Elias Mazian & Bayram Ozcan" on Fri, 6 Nov 2026.
+Minimüzikhol is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Peninsulas presents: Elias Mazian & Bayram Ozcan" on Fri, 6 Nov 2026.
 
 Minimüzikhol is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including Bayram Ozcan, Bushwacka!, Elias Mazian and Fault and 2 more. See dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
 
@@ -17,4 +17,4 @@ Minimüzikhol is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs
 
 Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul, Istanbul
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/minim-zikhol/)*

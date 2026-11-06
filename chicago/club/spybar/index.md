@@ -1,6 +1,6 @@
 # Spybar
 
-Spybar is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SpyLounge Friday feat. POPS + friends" on Fri, 6 Nov 2026.
+Spybar is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SpyLounge Friday feat. POPS + friends" on Fri, 6 Nov 2026.
 
 Spybar is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including Franc Fala, JRynecki, Kai Castro and Luke Alexander and 2 more. See dates, start times and who's playing. 646 N Franklin St; Chicago, IL 60654; United States.
 
@@ -23,4 +23,4 @@ Spybar is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with 
 
 646 N Franklin St; Chicago, IL 60654; United States, Chicago
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/spybar/)*

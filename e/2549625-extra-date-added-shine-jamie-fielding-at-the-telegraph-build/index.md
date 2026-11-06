@@ -1,6 +1,6 @@
 # [EXTRA DATE ADDED] SHINE -- Jamie Fielding at The Telegraph Building
 
-[EXTRA DATE ADDED] SHINE -- Jamie Fielding at The Telegraph Building on Thu 12 Nov, Belfast. 1 artist: Jamie Fielding. See the line-up on soundcheck.
+[EXTRA DATE ADDED] SHINE -- Jamie Fielding at The Telegraph Building on Thu 12 Nov, Belfast. 3 artists: CAOIMHE, Jamie Fielding and Lauren Lo Sung. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@
 
 ## Line-up
 
+- CAOIMHE
 - Jamie Fielding
+- Lauren Lo Sung
 
 *Source: [soundcheck](https://soundcheck.club/e/2549625-extra-date-added-shine-jamie-fielding-at-the-telegraph-build/)*

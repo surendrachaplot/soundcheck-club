@@ -1,6 +1,6 @@
 # K39
 
-K39 is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "MOMENTUM x K39 with Bounce MC" on Fri, 6 Nov 2026.
+K39 is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "MOMENTUM x K39 with Bounce MC" on Fri, 6 Nov 2026.
 
 K39 is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Bounce MC, DJ Achim Feuervogel, doppeltes lottchen and EDDY and 2 more. See dates, start times and who's playing. Kaiserstraße 39, 60329 Frankfurt am Main.
 
@@ -20,4 +20,4 @@ K39 is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with li
 
 Kaiserstraße 39, 60329 Frankfurt am Main, Frankfurt
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/k39/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/k39/)*

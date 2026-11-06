@@ -1,6 +1,6 @@
 # Mezzanine - Tooting
 
-Mezzanine - Tooting is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Mezzanine Rinse Out - Teez Takeover UMAD invites" on Fri, 6 Nov 2026.
+Mezzanine - Tooting is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Mezzanine Rinse Out - Teez Takeover UMAD invites" on Fri, 6 Nov 2026.
 
 Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Amy Cutter, Counter Culture, C R T and Kritical Mass and 2 more. See dates, start times and who's playing. Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA.
 
@@ -22,4 +22,4 @@ Mezzanine - Tooting is a music venue in London listed on soundcheck. 9 upcoming 
 
 Unit 4, Tooting Market, 20 Totterdown St, London SW17 8TA, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/mezzanine-tooting/)*

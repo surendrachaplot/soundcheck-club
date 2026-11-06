@@ -1,6 +1,6 @@
 # Wuss
 
-Wuss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 14 Nov 2026.
+Wuss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 14 Nov 2026.
 
 Wuss is a house and club artist based in Slovakia, with 40 gigs on soundcheck across Prague. Often billed alongside duboisi, Kirill Astra and uber_acid. Next up: Ankali & Planeta Za, Prague on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Wuss is a house and club artist based in Slovakia, with 40 gigs on soundcheck ac
 
 duboisi, Kirill Astra, uber_acid
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wuss/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wuss/)*

@@ -1,6 +1,6 @@
 # V musique
 
-V musique is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+V musique is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
 
 V musique is a house and techno artist based in Belgium, with 14 gigs on soundcheck across Berlin, Tokyo and Vilnius. Often billed alongside Clicklounge, Roe Deers and Aiste Regina. Next up: Elastica, Vilnius on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ V musique is a house and techno artist based in Belgium, with 14 gigs on soundch
 
 Clicklounge, Roe Deers, Aiste Regina
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vmusique/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vmusique/)*

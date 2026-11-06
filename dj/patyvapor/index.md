@@ -1,8 +1,8 @@
 # Paty Vapor
 
-Paty Vapor is a EBM and Italo Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
+Paty Vapor is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Buzz, Berlin on Fri, 20 Nov 2026.
 
-Paty Vapor is an ebm and italo disco artist based in Brazil, with 92 gigs on soundcheck across Barcelona, Berlin, Bratislava and Brussels and 12 more. Often billed alongside Paty, Franz Scala and Berlin Bunny. Next up: The Buzz, Berlin on Fri 20 Nov.
+Paty Vapor is an ebm and techno artist based in Brazil, with 92 gigs on soundcheck across Barcelona, Berlin, Bratislava and Brussels and 12 more. Often billed alongside Paty, Franz Scala and Berlin Bunny. Next up: The Buzz, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -26,4 +26,4 @@ Paty Vapor is an ebm and italo disco artist based in Brazil, with 92 gigs on sou
 
 Paty, Franz Scala, Berlin Bunny
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patyvapor/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patyvapor/)*

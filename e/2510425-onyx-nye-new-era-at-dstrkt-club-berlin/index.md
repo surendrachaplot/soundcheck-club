@@ -1,6 +1,6 @@
 # ONYX NYE: 'NEW ERA' at DSTRKT Club Berlin
 
-ONYX NYE: 'NEW ERA' at DSTRKT Club Berlin on Wed 30 Dec, Berlin. 14 artists: 2HOT2PLAY, AREA ØNE, BENITO (DE) and BENNETT and 10 more. Trance and Techno. See the line-up on soundcheck.
+ONYX NYE: 'NEW ERA' at DSTRKT Club Berlin on Wed 30 Dec, Berlin. 15 artists: 2HOT2PLAY, AREA ØNE, BENITO (DE) and BENNETT and 11 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ ONYX NYE: 'NEW ERA' at DSTRKT Club Berlin on Wed 30 Dec, Berlin. 14 artists: 2HO
 - Bruno Brero
 - HANÀ
 - KARISH
+- Kimberly
 - L.zwo
 - MISS FRENXH
 - OLED

@@ -1,6 +1,6 @@
 # DJ Scallywag
 
-DJ Scallywag is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at public records, New York City on Fri, 27 Nov 2026.
+DJ Scallywag is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at public records, New York City on Fri, 27 Nov 2026.
 
 DJ Scallywag is a techno and house artist based in United States of America, with 11 gigs on soundcheck across Bogotá, Medellin and New York City. Often billed alongside Ben Zo, Biometric Systems and Lust Attraction. Next up: public records, New York City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Scallywag is a techno and house artist based in United States of America, wit
 
 Ben Zo, Biometric Systems, Lust Attraction
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djscallywag/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djscallywag/)*

@@ -1,6 +1,6 @@
 # FJAAK
 
-FJAAK is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fuchs2, Prague on Fri, 6 Nov 2026.
+FJAAK is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuchs2, Prague on Fri, 6 Nov 2026.
 
 FJAAK is a techno and house artist based in Germany, with 301 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 90 more. Often billed alongside Elli Acula, Anna Z. and Ben Klock. Next up: Fuchs2, Prague on Fri 6 Nov.
 
@@ -36,4 +36,4 @@ FJAAK is a techno and house artist based in Germany, with 301 gigs on soundcheck
 
 Elli Acula, Anna Z., Ben Klock
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fjaak/)*

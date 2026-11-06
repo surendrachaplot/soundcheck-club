@@ -1,6 +1,6 @@
 # Ingy
 
-Ingy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at La Fábrica de Hielo, Valencia on Fri, 27 Nov 2026.
+Ingy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at La Fábrica de Hielo, Valencia on Fri, 27 Nov 2026.
 
 Ingy is a house and disco artist based in Netherlands, with 8 gigs on soundcheck across Valencia. Often billed alongside Flowing, Flow and Robert Estrela. Next up: La Fábrica de Hielo, Valencia on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Ingy is a house and disco artist based in Netherlands, with 8 gigs on soundcheck
 
 Flowing, Flow, Robert Estrela
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ingy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ingy/)*

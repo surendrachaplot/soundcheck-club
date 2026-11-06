@@ -1,14 +1,15 @@
 # Buckley (UK)
 
-Buckley (UK) is a Garage and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Headrow House, Leeds on Fri, 6 Nov 2026.
+Buckley (UK) is a Garage and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Headrow House, Leeds on Fri, 6 Nov 2026.
 
-Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 80 gigs on soundcheck across Berlin, Bristol, Cardiff and Dundee and 9 more. Often billed alongside harpriya, Dawsons Kriek and Howie Booth. Next up: Headrow House, Leeds on Fri 6 Nov.
+Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 81 gigs on soundcheck across Berlin, Bristol, Cardiff and Dundee and 9 more. Often billed alongside harpriya, Dawsons Kriek and Howie Booth. Next up: Headrow House, Leeds on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Headrow House | Leeds |
+| Thu, 12 Nov 2026 | Palais | London |
 | Sat, 14 Nov 2026 | Ormside Projects | London |
 | Sat, 21 Nov 2026 | CANVAS | Dundee |
 
@@ -27,4 +28,4 @@ Buckley (UK) is a garage and dubstep artist based in United Kingdom, with 80 gig
 
 harpriya, Dawsons Kriek, Howie Booth
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley-uk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buckley-uk/)*

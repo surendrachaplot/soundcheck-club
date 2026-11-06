@@ -1,6 +1,6 @@
 # Berrakka
 
-Berrakka is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Floyd, Miami on Sun, 6 Dec 2026.
+Berrakka is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Floyd, Miami on Sun, 6 Dec 2026.
 
 Berrakka is a techno and club artist based in United States of America, with 65 gigs on soundcheck across Los Angeles, Medellin, Miami and New York City and 1 more. Often billed alongside v1fro, Pressure Point (US) and SATURNSARii. Next up: Floyd, Miami on Sun 6 Dec.
 
@@ -25,4 +25,4 @@ Berrakka is a techno and club artist based in United States of America, with 65 
 
 v1fro, Pressure Point (US), SATURNSARii
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Berrakka/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Berrakka/)*

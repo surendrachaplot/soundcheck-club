@@ -1,6 +1,6 @@
 # sorted 11YR ANNIVERSARY at TBA - Address revealed to ticket holders day of show
 
-sorted 11YR ANNIVERSARY at TBA - Address revealed to ticket holders day of show on Sat 7 Nov, Denver. 10 artists: Carré, Daniel Bell, Ehua and Erika and 6 more. Techno and Bass. See the line-up on soundcheck.
+sorted 11YR ANNIVERSARY at TBA - Address revealed to ticket holders day of show on Sat 7 Nov, Denver. 11 artists: Carré, Daniel Bell, Ehua and Erika and 7 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ sorted 11YR ANNIVERSARY at TBA - Address revealed to ticket holders day of show 
 - Daniel Bell
 - Ehua
 - Erika
+- f1 shifty
 - FCKDSKO
 - Hodge
 - J BOLIVAR

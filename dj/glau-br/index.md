@@ -1,6 +1,6 @@
 # Glau
 
-Glau is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TRAUMA, Rio de Janeiro on Fri, 6 Nov 2026.
+Glau is a Baile Funk and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TRAUMA, Rio de Janeiro on Fri, 6 Nov 2026.
 
 Glau is a baile funk and house artist based in Brazil, with 66 gigs on soundcheck across Berlin, Leipzig, Lisbon and Rio de Janeiro and 1 more. Often billed alongside Ananda (BR), Cuca and Alírio. Next up: TRAUMA, Rio de Janeiro on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Glau is a baile funk and house artist based in Brazil, with 66 gigs on soundchec
 
 Ananda (BR), Cuca, Alírio
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glau-br/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/glau-br/)*

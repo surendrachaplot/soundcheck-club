@@ -1,6 +1,6 @@
 # ZOËZO
 
-ZOËZO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cece Bar Urbana, Rotterdam on Sat, 7 Nov 2026.
+ZOËZO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cece Bar Urbana, Rotterdam on Sat, 7 Nov 2026.
 
 ZOËZO is a house and techno artist based in Netherlands, with 18 gigs on soundcheck across Amsterdam, Berlin, Rotterdam and The Hague. Often billed alongside Steve Riddm, Django and Moody Mehran. Next up: Cece Bar Urbana, Rotterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ZOËZO is a house and techno artist based in Netherlands, with 18 gigs on soundc
 
 Steve Riddm, Django, Moody Mehran
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo-nl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zoezo-nl/)*

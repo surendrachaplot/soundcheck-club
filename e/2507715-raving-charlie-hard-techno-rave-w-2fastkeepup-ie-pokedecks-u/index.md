@@ -1,6 +1,6 @@
-# RAVING CHARLIE: Hard Techno / Rave w/ 2FASTKEEPUP [IE] / POKEDECKS / UTOPIA at nachbar
+# RAVING CHARLIE: Hard Techno / Rave w/ 2FASTKEEPUP [IE] / POKEDECKS / UTOPIA / KYNØ at nachbar
 
-RAVING CHARLIE: Hard Techno / Rave w/ 2FASTKEEPUP [IE] / POKEDECKS / UTOPIA at nachbar on Wed 25 Nov, Amsterdam. 1 artist: AEZARYA. Techno and Hardcore. See the line-up on soundcheck.
+RAVING CHARLIE: Hard Techno / Rave w/ 2FASTKEEPUP [IE] / POKEDECKS / UTOPIA / KYNØ at nachbar on Wed 25 Nov, Amsterdam. 1 artist: AEZARYA. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,10 +1,10 @@
 # Blue Celebration at TBA - Gateway
 
-Blue Celebration at TBA - Gateway on Thu 5 Nov, Minneapolis/St Paul. See the line-up on soundcheck.
+Blue Celebration at TBA - Gateway on Fri 6 Nov, Minneapolis/St Paul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Thu, 5 Nov 2026 |
+| Date | Fri, 6 Nov 2026 |
 | Venue | TBA - Gateway |
 | City | Minneapolis/St Paul |
 

@@ -1,13 +1,14 @@
 # Ziggy Stardubb
 
-Ziggy Stardubb is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Culture Box, Copenhagen on Fri, 8 Jan 2027.
+Ziggy Stardubb is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at MODULE, Copenhagen on Thu, 19 Nov 2026.
 
-Ziggy Stardubb is a techno and house artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside avoN, B From E and Aerocell. Next up: Culture Box, Copenhagen on Fri 8 Jan.
+Ziggy Stardubb is a techno and trance artist based in Denmark, with 9 gigs on soundcheck across Copenhagen. Often billed alongside avoN, B From E and Aerocell. Next up: MODULE, Copenhagen on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 19 Nov 2026 | MODULE | Copenhagen |
 | Fri, 8 Jan 2027 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -24,4 +25,4 @@ Ziggy Stardubb is a techno and house artist based in Denmark, with 8 gigs on sou
 
 avoN, B From E, Aerocell
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggystardubb/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggystardubb/)*

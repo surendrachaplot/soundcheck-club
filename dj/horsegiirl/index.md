@@ -1,6 +1,6 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 6 Nov 2026.
+horsegiirL is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 6 Nov 2026.
 
 horsegiirL is a techno and house artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 53 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: Nitsa Club, Barcelona on Fri 6 Nov.
 
@@ -32,4 +32,4 @@ horsegiirL is a techno and house artist based in Germany, with 135 gigs on sound
 
 DJ Gigola, MCR-T, VTSS
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

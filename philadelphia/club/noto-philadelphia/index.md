@@ -1,15 +1,13 @@
 # Noto Philadelphia
 
-Noto Philadelphia is a music venue in Philadelphia with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "PTO: Joyhauser" on Thu, 5 Nov 2026.
+Noto Philadelphia is a music venue in Philadelphia with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Valentino Khan" on Fri, 6 Nov 2026.
 
-Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 12 upcoming gigs, with line-ups including ANDi MANDi, Angelinkast, Conrad Taylor and Joyhauser and 2 more. See dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
+Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 10 upcoming gigs, with line-ups including Angelinkast, Conrad Taylor, Magit Cacoon and Mha iri and 2 more. See dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | PTO: Joyhauser | ANDi MANDi, Joyhauser |
-| Thu, 5 Nov 2026 | PTO Thursdays: Joyhauser |  |
 | Fri, 6 Nov 2026 | Valentino Khan |  |
 | Thu, 12 Nov 2026 | PTO: Mha iri | Mha iri, Miss Powers |
 | Thu, 12 Nov 2026 | PTO Thursdays: Mha Iri |  |
@@ -18,9 +16,11 @@ Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 12 upco
 | Thu, 3 Dec 2026 | PTO: Magit Cacoon | Angelinkast, Magit Cacoon, Shadow Walker |
 | Fri, 4 Dec 2026 | Blasterjaxx |  |
 | Sat, 12 Dec 2026 | Philadelphia NOTO MiTis: Through The Dark EP Tour |  |
+| Thu, 31 Dec 2026 | NOTO NYE 27 |  |
+| Thu, 28 Jan 2027 | PTO: Conrad Taylor | Conrad Taylor |
 
 ## Address
 
 1209 Vine Street Philadelphia, Pennsylvania, Philadelphia
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*

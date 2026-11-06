@@ -1,6 +1,6 @@
 # Nailbiter
 
-Nailbiter is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Osler Records, Toronto on Sat, 28 Nov 2026.
+Nailbiter is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Osler Records, Toronto on Sat, 28 Nov 2026.
 
 Nailbiter is a techno and acid artist based in Canada, with 9 gigs on soundcheck across Toronto. Often billed alongside AADJA, City Dance Corporation and MIASALAV. Next up: Osler Records, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Nailbiter is a techno and acid artist based in Canada, with 9 gigs on soundcheck
 
 AADJA, City Dance Corporation, MIASALAV
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nailbiter/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nailbiter/)*

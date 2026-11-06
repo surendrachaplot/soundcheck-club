@@ -1,6 +1,6 @@
 # Hugo Kov
 
-Hugo Kov is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Jardin Hospice, Brussels on Fri, 6 Nov 2026.
+Hugo Kov is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jardin Hospice, Brussels on Fri, 6 Nov 2026.
 
 Hugo Kov is a techno and trance artist based in France, with 15 gigs on soundcheck across Brussels and Nantes. Often billed alongside Discostouf, kedakeda and Heidy Fly. Next up: Jardin Hospice, Brussels on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Hugo Kov is a techno and trance artist based in France, with 15 gigs on soundche
 
 Discostouf, kedakeda, Heidy Fly
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugokov/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugokov/)*

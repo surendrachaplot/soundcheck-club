@@ -1,6 +1,6 @@
 # Sophia Riv
 
-Sophia Riv is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Amma Cafe, New York City on Fri, 13 Nov 2026.
+Sophia Riv is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Amma Cafe, New York City on Fri, 13 Nov 2026.
 
 Sophia Riv is a techno and electro artist based in United States of America, with 19 gigs on soundcheck across New York City. Often billed alongside y2aura, Castillonaire and NIJEII. Next up: Amma Cafe, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sophia Riv is a techno and electro artist based in United States of America, wit
 
 y2aura, Castillonaire, NIJEII
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sophiariv/)*

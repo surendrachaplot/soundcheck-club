@@ -1,6 +1,6 @@
 # Beate Invites /// F*CD at Beate Uwe
 
-Beate Invites /// F*CD at Beate Uwe on Sat 5 Dec, Berlin. 6 artists: capitano (she/her), Dela Nesto, housekatze and myzelia and 2 more. Techno and House. See the line-up on soundcheck.
+Beate Invites /// F*CD at Beate Uwe on Sat 5 Dec, Berlin. 5 artists: capitano (she/her), housekatze, myzelia and Pilar Jordan and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Beate Invites /// F*CD at Beate Uwe on Sat 5 Dec, Berlin. 6 artists: capitano (s
 ## Line-up
 
 - capitano (she/her)
-- Dela Nesto
 - housekatze
 - myzelia
 - Pilar Jordan

@@ -1,6 +1,6 @@
 # MELOKO + La Hara at Volt Club Milano
 
-MELOKO + La Hara at Volt Club Milano on Fri 6 Nov, Milan. 1 artist: La Hara. Techno and Tech House. See the line-up on soundcheck.
+MELOKO + La Hara at Volt Club Milano on Fri 6 Nov, Milan. 2 artists: La Hara and Meloko. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ MELOKO + La Hara at Volt Club Milano on Fri 6 Nov, Milan. 1 artist: La Hara. Tec
 ## Line-up
 
 - La Hara
+- Meloko
 
 *Source: [soundcheck](https://soundcheck.club/e/2572112-meloko-la-hara-at-volt-club-milano/)*

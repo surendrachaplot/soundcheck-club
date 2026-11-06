@@ -1,6 +1,6 @@
 # DOK (IT)
 
-DOK (IT) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bagno Mundial, Bologna on Sat, 7 Nov 2026.
+DOK (IT) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bagno Mundial, Bologna on Sat, 7 Nov 2026.
 
 DOK (IT) is a house and acid artist based in Italy, with 7 gigs on soundcheck across Bologna, Istanbul and Milan. Often billed alongside Cristian Comes, 7CIRCLE and Alessio Collina. Next up: Bagno Mundial, Bologna on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ DOK (IT) is a house and acid artist based in Italy, with 7 gigs on soundcheck ac
 
 Cristian Comes, 7CIRCLE, Alessio Collina
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dokit/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dokit/)*

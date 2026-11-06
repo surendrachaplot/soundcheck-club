@@ -1,6 +1,6 @@
 # Franziska Berns
 
-Franziska Berns is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Franziska Berns is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Franziska Berns is a house and techno artist based in Germany, with 108 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 31 more. Often billed alongside dj sweet6teen, BASHKKA and JakoJako. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Franziska Berns is a house and techno artist based in Germany, with 108 gigs on 
 
 dj sweet6teen, BASHKKA, JakoJako
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franziskaberns-de/)*

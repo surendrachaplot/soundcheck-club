@@ -1,6 +1,6 @@
 # Alien Communications
 
-Alien Communications is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Love Inn, Bristol on Fri, 6 Nov 2026.
+Alien Communications is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Love Inn, Bristol on Fri, 6 Nov 2026.
 
 Alien Communications is an electro and techno artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 22 more. Often billed alongside Jos, Ste Roberts and De La Reef. Next up: The Love Inn, Bristol on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Alien Communications is an electro and techno artist based in United Kingdom, wi
 
 Jos, Ste Roberts, De La Reef
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aliencommunications/)*

@@ -1,6 +1,6 @@
 # Majid
 
-Majid is a House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Majid is a House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Majid is a house artist based in Saudi Arabia, with 9 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 2 more. Often billed alongside Always Late, Baloo (SA) and CHKLTE. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -13,6 +13,7 @@ Majid is a house artist based in Saudi Arabia, with 9 gigs on soundcheck across 
 
 ## Recently played
 
+- One Resort, Tunisia · Thu, 5 Nov 2026
 - Blast Galaxy, Amsterdam · Sun, 25 Oct 2026
 - Café Café Bar Amsterdam, Amsterdam · Sat, 25 Oct 2025
 - TBA, Athens · Sat, 18 Oct 2025
@@ -25,4 +26,4 @@ Majid is a house artist based in Saudi Arabia, with 9 gigs on soundcheck across 
 
 Always Late, Baloo (SA), CHKLTE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majid/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/majid/)*

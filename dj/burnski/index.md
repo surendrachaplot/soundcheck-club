@@ -1,6 +1,6 @@
 # Burnski
 
-Burnski is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cottiers Theatre, Glasgow on Sat, 7 Nov 2026.
+Burnski is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cottiers Theatre, Glasgow on Sat, 7 Nov 2026.
 
 Burnski is a house and tech house artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Bali, Barcelona and Birmingham and 15 more. Often billed alongside Kepler, Locklead and Sidney Charles. Next up: Cottiers Theatre, Glasgow on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Burnski is a house and tech house artist based in United Kingdom, with 73 gigs o
 
 Kepler, Locklead, Sidney Charles
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/burnski/)*

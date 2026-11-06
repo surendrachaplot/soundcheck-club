@@ -1,6 +1,6 @@
 # Nala Brown
 
-Nala Brown is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Cece Bar Urbana, Rotterdam on Sat, 7 Nov 2026.
+Nala Brown is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cece Bar Urbana, Rotterdam on Sat, 7 Nov 2026.
 
 Nala Brown is a techno and house artist based in Netherlands, with 115 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Lola Edo, Cinnaman and Identified Patient. Next up: Cece Bar Urbana, Rotterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Nala Brown is a techno and house artist based in Netherlands, with 115 gigs on s
 
 Lola Edo, Cinnaman, Identified Patient
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nalabrown/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nalabrown/)*

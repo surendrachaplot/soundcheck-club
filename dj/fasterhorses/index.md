@@ -1,6 +1,6 @@
 # Faster Horses
 
-Faster Horses is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Utopía Club, Costa-rica on Sat, 7 Nov 2026.
+Faster Horses is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Utopía Club, Costa-rica on Sat, 7 Nov 2026.
 
 Faster Horses is a techno and trance artist based in United Kingdom, with 266 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 66 more. Often billed alongside Azyr, Leaha and Kander. Next up: Utopía Club, Costa Rica on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ Faster Horses is a techno and trance artist based in United Kingdom, with 266 gi
 
 Azyr, Leaha, Kander
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fasterhorses/)*

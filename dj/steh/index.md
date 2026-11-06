@@ -1,6 +1,6 @@
 # Stëh
 
-Stëh is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Druckerei Solothurn, Bern on Sat, 7 Nov 2026.
+Stëh is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Druckerei Solothurn, Bern on Sat, 7 Nov 2026.
 
 Stëh is a techno and hardcore artist based in Brazil, with 87 gigs on soundcheck across Barcelona, Basel, Berlin and Bern and 12 more. Often billed alongside Madson Carpenter, Ornella and Taxsh. Next up: Druckerei Solothurn, Bern on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Stëh is a techno and hardcore artist based in Brazil, with 87 gigs on soundchec
 
 Madson Carpenter, Ornella, Taxsh
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steh/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steh/)*

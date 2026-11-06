@@ -1,6 +1,6 @@
 # Paul Oakenfold
 
-Paul Oakenfold is a Trance and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Music Box, San Diego on Fri, 6 Nov 2026.
+Paul Oakenfold is a Trance and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Music Box, San Diego on Fri, 6 Nov 2026.
 
 Paul Oakenfold is a trance and house artist based in United Kingdom, with 51 gigs on soundcheck across Athens, Atlanta, Bali and Baltimore and 23 more. Often billed alongside The Crystal Method, Jason Bye and Infected Mushroom. Next up: Music Box, San Diego on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Paul Oakenfold is a trance and house artist based in United Kingdom, with 51 gig
 
 The Crystal Method, Jason Bye, Infected Mushroom
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oakenfold/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oakenfold/)*

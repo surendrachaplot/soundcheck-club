@@ -1,6 +1,6 @@
 # Coolrnch
 
-Coolrnch is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Seoul Community Radio, Seoul on Sun, 8 Nov 2026.
+Coolrnch is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Seoul Community Radio, Seoul on Sun, 8 Nov 2026.
 
 Coolrnch is a disco and house artist based in South Korea, with 98 gigs on soundcheck across Berlin, Seoul and Tokyo. Often billed alongside Cozyhoon, Inés and Jaezae. Next up: Seoul Community Radio, Seoul on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Coolrnch is a disco and house artist based in South Korea, with 98 gigs on sound
 
 Cozyhoon, Inés, Jaezae
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coolrnch/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coolrnch/)*

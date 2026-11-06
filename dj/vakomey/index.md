@@ -1,6 +1,6 @@
 # Vakomey
 
-Vakomey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - LADO by Valiko Mansion, Tbilisi on Fri, 6 Nov 2026.
+Vakomey is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - LADO by Valiko Mansion, Tbilisi on Fri, 6 Nov 2026.
 
 Vakomey is a house and disco artist based in Georgia, with 16 gigs on soundcheck across Lausanne, Lisbon and Tbilisi. Often billed alongside Haverdi, Tobako Tween and Adolpho & Franky. Next up: TBA - LADO by Valiko Mansion, Tbilisi on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Vakomey is a house and disco artist based in Georgia, with 16 gigs on soundcheck
 
 Haverdi, Tobako Tween, Adolpho & Franky
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vakomey/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vakomey/)*

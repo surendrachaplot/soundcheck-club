@@ -1,6 +1,6 @@
 # Jacki Why
 
-Jacki Why is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 6 Nov 2026.
+Jacki Why is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 6 Nov 2026.
 
 Jacki Why is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Seattle. Often billed alongside KJ3 (US), Chance Sands and Danny Daze. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Jacki Why is a house and techno artist based in United States of America, with 8
 
 KJ3 (US), Chance Sands, Danny Daze
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiwhy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiwhy/)*

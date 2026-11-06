@@ -1,6 +1,6 @@
 # Danae
 
-Danae is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Rashõmon Club, Rome on Fri, 6 Nov 2026.
+Danae is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Rashõmon Club, Rome on Fri, 6 Nov 2026.
 
 Danae is a techno and electro artist based in Chile, with 12 gigs on soundcheck across Berlin, Bologna, Florence and Mexico City and 3 more. Often billed alongside DONALD - BIIG_DONNY, Munir Nadir and Alex Dima. Next up: Rashõmon Club, Rome on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Danae is a techno and electro artist based in Chile, with 12 gigs on soundcheck 
 
 DONALD - BIIG_DONNY, Munir Nadir, Alex Dima
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-de/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danae-de/)*

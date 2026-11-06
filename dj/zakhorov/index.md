@@ -1,6 +1,6 @@
 # Zakhorov
 
-Zakhorov is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Atno, Budapest on Sat, 14 Nov 2026.
+Zakhorov is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Atno, Budapest on Sat, 14 Nov 2026.
 
 Zakhorov is an electronica and bass artist based in Hungary, with 18 gigs on soundcheck across Budapest and Vienna. Often billed alongside Meo Culpa, OIEE and Csodaszoba. Next up: Atno, Budapest on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Zakhorov is an electronica and bass artist based in Hungary, with 18 gigs on sou
 
 Meo Culpa, OIEE, Csodaszoba
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zakhorov/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zakhorov/)*

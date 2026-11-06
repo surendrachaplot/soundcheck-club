@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 25 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "WEEKDAY ORDERS" on Thu, 5 Nov 2026.
+BAR Inc is a music venue in Osaka with 24 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "WEEKEND SELECTERS" on Fri, 6 Nov 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 25 upcoming gigs, with line-ups including Kaito Ksi, An-i, AOKI takamasa and cazbow and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 24 upcoming gigs, with line-ups including An-i, AOKI takamasa, cazbow and CH.0 and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | WEEKDAY ORDERS | Double Dancer, Kaito Ksi, TETSUO (2) |
 | Fri, 6 Nov 2026 | WEEKEND SELECTERS | Robbie Akbal, cazbow |
 | Sat, 7 Nov 2026 | WEEKEND SELECTERS -Darker Than Wax 15th Anniv.- | Daryl Knows, Dexter Colt, Marco Weibel |
 | Sun, 8 Nov 2026 | HOLIDAY ORDERS | Junki Akutagawa |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 25 upcoming gigs, with l
 | Fri, 13 Nov 2026 | WEEKEND SELECTERS | Peter Power, Thomash |
 | Sat, 14 Nov 2026 | WEEKEND SELECTERS | AOKI takamasa, Nicola Cruz, Silvia Ponce |
 | Sun, 15 Nov 2026 | HOLIDAY ORDERS | Jubilee |
+| Wed, 18 Nov 2026 | WEEKDAY ORDERS |  |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

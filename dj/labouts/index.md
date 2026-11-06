@@ -1,6 +1,6 @@
 # Labouts
 
-Labouts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 13 Nov 2026.
+Labouts is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 13 Nov 2026.
 
 Labouts is a house and techno artist based in France, with 38 gigs on soundcheck across Barcelona, Bordeaux, London and Paris and 2 more. Often billed alongside Woddd, Monile and Mari.te. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Labouts is a house and techno artist based in France, with 38 gigs on soundcheck
 
 Woddd, Monile, Mari.te
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labouts/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/labouts/)*

@@ -1,6 +1,6 @@
 # Melis Köke
 
-Melis Köke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Melis Köke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Melis Köke is a techno and house artist, with 45 gigs on soundcheck across Amsterdam, Athens, Berlin and Istanbul and 2 more. Often billed alongside 4-i, Cybersex and Nene H. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Melis Köke is a techno and house artist, with 45 gigs on soundcheck across Amst
 
 4-i, Cybersex, Nene H
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meliskoke/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meliskoke/)*

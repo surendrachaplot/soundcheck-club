@@ -1,8 +1,8 @@
 # Bjoern Few
 
-Bjoern Few is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 21 Nov 2026.
+Bjoern Few is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Tanzhaus West, Frankfurt on Sat, 21 Nov 2026.
 
-Bjoern Few is a techno and tech house artist, with 9 gigs on soundcheck across Frankfurt and Heidelberg. Often billed alongside Eric Wishes, Flo Circus and Ochs & Klick. Next up: Tanzhaus West, Frankfurt on Sat 21 Nov.
+Bjoern Few is a techno and tech house artist based in Germany, with 9 gigs on soundcheck across Frankfurt and Heidelberg. Often billed alongside Eric Wishes, Flo Circus and Ochs & Klick. Next up: Tanzhaus West, Frankfurt on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Bjoern Few is a techno and tech house artist, with 9 gigs on soundcheck across F
 
 Eric Wishes, Flo Circus, Ochs & Klick
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bjoernfew/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bjoernfew/)*

@@ -1,6 +1,6 @@
 # LIEBER x INFERNO with XIMA, Terra Twiins, Kimberly, Baby V, Slimegoat, phlipzee, Perry Green at Humboldthain Club
 
-LIEBER x INFERNO with XIMA, Terra Twiins, Kimberly, Baby V, Slimegoat, phlipzee, Perry Green at Humboldthain Club on Fri 13 Nov, Berlin. 6 artists: Perry Green, phlipzee, Sievert Serviert and Slimegoat144 and 2 more. Techno and Industrial. See the line-up on soundcheck.
+LIEBER x INFERNO with XIMA, Terra Twiins, Kimberly, Baby V, Slimegoat, phlipzee, Perry Green at Humboldthain Club on Fri 13 Nov, Berlin. 7 artists: Kimberly, Perry Green, phlipzee and Sievert Serviert and 3 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ LIEBER x INFERNO with XIMA, Terra Twiins, Kimberly, Baby V, Slimegoat, phlipzee,
 
 ## Line-up
 
+- Kimberly
 - Perry Green
 - phlipzee
 - Sievert Serviert

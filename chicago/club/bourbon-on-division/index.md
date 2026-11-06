@@ -1,6 +1,6 @@
 # Bourbon On Division
 
-Bourbon On Division is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "RAVENØIR feat. 2SIINZ" on Sat, 7 Nov 2026.
+Bourbon On Division is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "RAVENØIR feat. 2SIINZ" on Sat, 7 Nov 2026.
 
 Bourbon On Division is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including compil3r, Constantine (US), Current and dev.n and 2 more. See dates, start times and who's playing. 2050 W Division St, Chicago, IL 60622, USA.
 
@@ -17,4 +17,4 @@ Bourbon On Division is a music venue in Chicago listed on soundcheck. 4 upcoming
 
 2050 W Division St, Chicago, IL 60622, USA, Chicago
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/bourbon-on-division/)*

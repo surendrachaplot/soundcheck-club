@@ -1,6 +1,6 @@
 # George Smeddles
 
-George Smeddles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Concourse Project, Austin on Sat, 2 Jan 2027.
+George Smeddles is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Concourse Project, Austin on Sat, 2 Jan 2027.
 
 George Smeddles is a house and tech house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 23 more. Often billed alongside Darius Syrossian, GW Harrison and Prunk. Next up: The Concourse Project, Austin on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ George Smeddles is a house and tech house artist based in United Kingdom, with 7
 
 Darius Syrossian, GW Harrison, Prunk
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/georgesmeddles/)*

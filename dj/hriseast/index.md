@@ -1,13 +1,14 @@
 # Hris East
 
-Hris East is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Yellow House, Amsterdam on Sat, 14 Nov 2026.
+Hris East is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Yellow House, Amsterdam on Sat, 14 Nov 2026.
 
-Hris East is a house and tech house artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Be Lion, Sanne Dammers and Kirilski. Next up: Yellow House, Amsterdam on Sat 14 Nov.
+Hris East is a house and tech house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam and Netherlands. Often billed alongside Be Lion, Sanne Dammers and Kirilski. Next up: Yellow House, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Yellow House | Amsterdam |
 | Sat, 14 Nov 2026 | Yellow House | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hris East is a house and tech house artist based in Netherlands, with 10 gigs on
 
 Be Lion, Sanne Dammers, Kirilski
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hriseast/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hriseast/)*

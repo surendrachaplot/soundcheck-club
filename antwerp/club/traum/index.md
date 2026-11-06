@@ -1,6 +1,6 @@
 # TRAUM
 
-TRAUM is a music venue in Antwerp with 13 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Traum Nacht: Benga, Selmz + more TBA" on Fri, 6 Nov 2026.
+TRAUM is a music venue in Antwerp with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Traum Nacht: Benga, Selmz + more TBA" on Fri, 6 Nov 2026.
 
 TRAUM is a music venue in Antwerp listed on soundcheck. 13 upcoming gigs, with line-ups including Alexander Koning, Benga, Casper and Cheriii and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ TRAUM is a music venue in Antwerp listed on soundcheck. 13 upcoming gigs, with l
 | Sat, 5 Dec 2026 | Café d'Anvers Reunion | Alexander Koning, Dimitri Kneppers, Remy Unger, Steve Cop |
 | Fri, 11 Dec 2026 | Eigen Makelij: Cement |  |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/traum/)*

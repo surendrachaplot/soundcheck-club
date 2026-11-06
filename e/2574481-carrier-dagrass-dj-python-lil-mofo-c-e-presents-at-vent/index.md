@@ -1,6 +1,6 @@
 # CARRIER , DAGRASS , DJ Python , LIL' MOFO / C.E presents at VENT
 
-CARRIER , DAGRASS , DJ Python , LIL' MOFO / C.E presents at VENT on Sat 5 Dec, Tokyo. 3 artists: Carrier (Aus), DJ Python and Lil Mofo. Techno. See the line-up on soundcheck.
+CARRIER , DAGRASS , DJ Python , LIL' MOFO / C.E presents at VENT on Sat 5 Dec, Tokyo. 3 artists: Carrier, DJ Python and Lil Mofo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ CARRIER , DAGRASS , DJ Python , LIL' MOFO / C.E presents at VENT on Sat 5 Dec, T
 
 ## Line-up
 
-- Carrier (Aus)
+- Carrier
 - DJ Python
 - Lil Mofo
 

@@ -1,6 +1,6 @@
 # HunnyBunny
 
-HunnyBunny is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Danger Danger, New York City on Sat, 7 Nov 2026.
+HunnyBunny is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Danger Danger, New York City on Sat, 7 Nov 2026.
 
 HunnyBunny is a house and disco artist based in United States of America, with 38 gigs on soundcheck across Cleveland and New York City. Often billed alongside Blvck Truffle, Tim Lucent and Timo Lee. Next up: Danger Danger, New York City on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ HunnyBunny is a house and disco artist based in United States of America, with 3
 
 Blvck Truffle, Tim Lucent, Timo Lee
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnybunny/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunnybunny/)*

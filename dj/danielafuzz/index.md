@@ -1,6 +1,6 @@
 # Daniela Fuzz
 
-Daniela Fuzz is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - SPOT SECRETO, Santiago on Sat, 28 Nov 2026.
+Daniela Fuzz is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - SPOT SECRETO, Santiago on Sat, 28 Nov 2026.
 
 Daniela Fuzz is a techno and acid artist based in Chile, with 54 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Leipzig and 1 more. Often billed alongside Leonor Baesler, NPLNSSS and Elias Deepman. Next up: TBA - SPOT SECRETO, Santiago on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Daniela Fuzz is a techno and acid artist based in Chile, with 54 gigs on soundch
 
 Leonor Baesler, NPLNSSS, Elias Deepman
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielafuzz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielafuzz/)*

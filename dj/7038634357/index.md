@@ -1,6 +1,6 @@
 # 7038634357
 
-7038634357 is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Market Hotel, New York City on Sat, 21 Nov 2026.
+7038634357 is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Market Hotel, New York City on Sat, 21 Nov 2026.
 
 7038634357 is an experimental and ambient artist based in United States of America, with 26 gigs on soundcheck across Austin, Berlin, Brussels and Chicago and 11 more. Often billed alongside Shyboi, 2K88 and Ian Kim Judd. Next up: Market Hotel, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@
 
 Shyboi, 2K88, Ian Kim Judd
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7038634357/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/7038634357/)*

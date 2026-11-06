@@ -1,6 +1,6 @@
 # SAMA (NL)
 
-SAMA (NL) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+SAMA (NL) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 SAMA (NL) is a techno and house artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Colombia, Gothenburg and Ibiza and 7 more. Often billed alongside Vera Grace, SHE/HER and BIANKA. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ SAMA (NL) is a techno and house artist based in Netherlands, with 39 gigs on sou
 
 Vera Grace, SHE/HER, BIANKA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sama-nl/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sama-nl/)*

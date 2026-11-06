@@ -1,14 +1,15 @@
 # Carlos Alcañiz
 
-Carlos Alcañiz is a House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at EL SÓTANO, Madrid on Fri, 13 Nov 2026.
+Carlos Alcañiz is a House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at EL SÓTANO, Madrid on Fri, 13 Nov 2026.
 
-Carlos Alcañiz is a house artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside Gijonne and Lomas. Next up: EL SÓTANO, Madrid on Fri 13 Nov.
+Carlos Alcañiz is a house artist based in Spain, with 10 gigs on soundcheck across Madrid. Often billed alongside Gijonne and Lomas. Next up: EL SÓTANO, Madrid on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | EL SÓTANO | Madrid |
+| Fri, 11 Dec 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Carlos Alcañiz is a house artist based in Spain, with 9 gigs on soundcheck acro
 
 Gijonne, Lomas
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosalcaniz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlosalcaniz/)*

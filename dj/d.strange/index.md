@@ -1,6 +1,6 @@
 # D. Strange
 
-D. Strange is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Podlasie Club, Chicago on Fri, 20 Nov 2026.
+D. Strange is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Podlasie Club, Chicago on Fri, 20 Nov 2026.
 
 D. Strange is a techno and electro artist based in United States of America, with 57 gigs on soundcheck across Berlin, Chicago, Detroit and Los Angeles and 3 more. Often billed alongside Huey Mnemonic, Daniel Bell and Function. Next up: Podlasie Club, Chicago on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ D. Strange is a techno and electro artist based in United States of America, wit
 
 Huey Mnemonic, Daniel Bell, Function
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.strange/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d.strange/)*

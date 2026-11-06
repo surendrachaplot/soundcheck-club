@@ -1,6 +1,6 @@
 # Wax Thief
 
-Wax Thief is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 8 Nov 2026.
+Wax Thief is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Smith St Hotel, Melbourne on Sun, 8 Nov 2026.
 
 Wax Thief is a garage and house artist based in Australia, with 17 gigs on soundcheck across Leeds, Melbourne, Perth and Sheffield and 2 more. Often billed alongside KJONES, Vynes and 3LOAR. Next up: Smith St Hotel, Melbourne on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Wax Thief is a garage and house artist based in Australia, with 17 gigs on sound
 
 KJONES, Vynes, 3LOAR
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxthief/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waxthief/)*

@@ -1,6 +1,6 @@
 # Ballroom at Palais
 
-Ballroom at Palais is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Ballroom at Palais: Cami Layé Okún" on Sat, 7 Nov 2026.
+Ballroom at Palais is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Ballroom at Palais: Cami Layé Okún" on Sat, 7 Nov 2026.
 
 Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Bindās, Cami Layé Okún, FYI Robyn and ISHA and 2 more. See dates, start times and who's playing. 1a Rye Ln, London SE15 5EW.
 
@@ -11,7 +11,7 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming g
 | Sat, 7 Nov 2026 | Ballroom at Palais: Cami Layé Okún | Cami Layé Okún |
 | Sat, 7 Nov 2026 | Ballroom at Palais: Wednesday & Stress Less B2B Showermanjosh | Stress Less, Wednesday |
 | Fri, 13 Nov 2026 | Ballroom at Palais: FYI Robyn & ISHA B2B Diesel | FYI Robyn, ISHA |
-| Sat, 14 Nov 2026 | Ballroom at Palais: Linett Kamala |  |
+| Sat, 14 Nov 2026 | Ballroom at Palais: Linett Kamala | LINETT KAMALA |
 | Fri, 20 Nov 2026 | Ballroom at Palais: Daytimers | Bindās, vish |
 | Sat, 21 Nov 2026 | Ballroom at Palais: Type One Community | Kyle Parsley, LUMA (UK) |
 | Thu, 26 Nov 2026 | Ballroom at Palais: Open Decks |  |
@@ -22,4 +22,4 @@ Ballroom at Palais is a music venue in London listed on soundcheck. 9 upcoming g
 
 1a Rye Ln, London SE15 5EW, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/ballroom-at-palais/)*

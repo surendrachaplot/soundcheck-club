@@ -1,8 +1,8 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 6 Nov 2026.
+Donato Dozzy is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 6 Nov 2026.
 
-Donato Dozzy is a techno and house artist based in Italy, with 110 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Voices From The Lake, Spekki Webu and Batu. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 6 Nov.
+Donato Dozzy is a techno and house artist based in Italy, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Voices From The Lake, Batu and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Donato Dozzy is a techno and house artist based in Italy, with 110 gigs on sound
 | Sat, 21 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Brancaleone | Rome |
 | Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
+| Sat, 6 Mar 2027 | fabric | London |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ Donato Dozzy is a techno and house artist based in Italy, with 110 gigs on sound
 
 ## Shares bills with
 
-Voices From The Lake, Spekki Webu, Batu
+Voices From The Lake, Batu, Ogazón
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*

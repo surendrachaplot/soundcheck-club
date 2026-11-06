@@ -1,6 +1,6 @@
 # Flansie
 
-Flansie is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mono, Rotterdam on Fri, 6 Nov 2026.
+Flansie is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mono, Rotterdam on Fri, 6 Nov 2026.
 
 Flansie is a house and bass artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Rotterdam and Utrecht. Often billed alongside Sunnysoposted, Ansjowvis and JSPRV35. Next up: Mono, Rotterdam on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Flansie is a house and bass artist based in Netherlands, with 13 gigs on soundch
 
 Sunnysoposted, Ansjowvis, JSPRV35
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flansie/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flansie/)*

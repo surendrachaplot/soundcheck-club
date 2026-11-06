@@ -1,6 +1,6 @@
 # Room 2 Glasgow
 
-Room 2 Glasgow is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "2Passo Cottiers Theatre // After Party" on Sat, 7 Nov 2026.
+Room 2 Glasgow is a music venue in Glasgow with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "2Passo Cottiers Theatre // After Party" on Sat, 7 Nov 2026.
 
 Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming gigs, with line-ups including 6EJOU, Dominique., Frankie Elyse and Jalo and 2 more. See dates, start times and who's playing. 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom.
 
@@ -23,4 +23,4 @@ Room 2 Glasgow is a music venue in Glasgow listed on soundcheck. 12 upcoming gig
 
 69 Nelson Mandela Pl, Glasgow G2 1QY, United Kingdom, Glasgow
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/room-2-glasgow/)*

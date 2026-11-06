@@ -1,6 +1,6 @@
 # SHU (2)
 
-SHU (2) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Abyss Shanghai, Shanghai on Fri, 6 Nov 2026.
+SHU (2) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Abyss Shanghai, Shanghai on Fri, 6 Nov 2026.
 
 SHU is a techno and hardcore artist based in China, with 40 gigs on soundcheck across Amsterdam, Berlin, Chengdu and Seoul and 2 more. Often billed alongside Fischmonger, DISCIPLINE and SIGNAL (JP). Next up: Abyss Shanghai, Shanghai on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SHU is a techno and hardcore artist based in China, with 40 gigs on soundcheck a
 
 Fischmonger, DISCIPLINE, SIGNAL (JP)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shu-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shu-2/)*

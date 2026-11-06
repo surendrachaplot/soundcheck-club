@@ -1,6 +1,6 @@
 # Fabrizio Sala
 
-Fabrizio Sala is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Rashõmon Club, Rome on Fri, 6 Nov 2026.
+Fabrizio Sala is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Rashõmon Club, Rome on Fri, 6 Nov 2026.
 
 Fabrizio Sala is a house and techno artist, with 104 gigs on soundcheck across Berlin, Florence, London and Milan and 4 more. Often billed alongside Zerø, DANAE and Marcolino. Next up: Rashõmon Club, Rome on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Fabrizio Sala is a house and techno artist, with 104 gigs on soundcheck across B
 
 Zerø, DANAE, Marcolino
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziosala/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fabriziosala/)*

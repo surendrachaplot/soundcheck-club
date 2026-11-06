@@ -1,6 +1,6 @@
 # klarobsqr presents: EMBER at BABY01
 
-klarobsqr presents: EMBER at BABY01 on Sat 7 Nov, Berlin. 6 artists: ĀTMĀN, DMZ (DE), Lambertø and Matt Röder and 2 more. Techno and Dub Techno. See the line-up on soundcheck.
+klarobsqr presents: EMBER at BABY01 on Sat 7 Nov, Berlin. 7 artists: ĀTMĀN, BIZ.NA, DMZ (DE) and Lambertø and 3 more. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ klarobsqr presents: EMBER at BABY01 on Sat 7 Nov, Berlin. 6 artists: ĀTMĀN, DM
 ## Line-up
 
 - ĀTMĀN
+- BIZ.NA
 - DMZ (DE)
 - Lambertø
 - Matt Röder

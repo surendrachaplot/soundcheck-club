@@ -1,6 +1,6 @@
 # The Menendez Brothers & Friends (13th November) at E1
 
-The Menendez Brothers & Friends (13th November) at E1 on Fri 13 Nov, London. 6 artists: FLORA THA EXPLORA, Just Geo, Manu Gonzalez and The Menendez Brothers and 2 more. House and Tech House. See the line-up on soundcheck.
+The Menendez Brothers & Friends (13th November) at E1 on Fri 13 Nov, London. 7 artists: FLORA THA EXPLORA, Just Geo, Manu Gonzalez and Nualah and 3 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ The Menendez Brothers & Friends (13th November) at E1 on Fri 13 Nov, London. 6 a
 - FLORA THA EXPLORA
 - Just Geo
 - Manu Gonzalez
+- Nualah
 - The Menendez Brothers
 - THEOS (1)
 - Yasmin

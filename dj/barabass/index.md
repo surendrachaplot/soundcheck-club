@@ -1,6 +1,6 @@
 # Barabass
 
-Barabass is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Barabass is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
 Barabass is an electronic artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside Mwaah, Punching Polly and gemue. Next up: Südpol, Hamburg on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Barabass is an electronic artist based in Germany, with 8 gigs on soundcheck acr
 
 Mwaah, Punching Polly, gemue
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barabass/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barabass/)*

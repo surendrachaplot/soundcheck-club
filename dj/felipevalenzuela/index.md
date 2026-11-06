@@ -1,14 +1,15 @@
 # Felipe Valenzuela
 
-Felipe Valenzuela is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Oven Club, Valencia on Sat, 14 Nov 2026.
+Felipe Valenzuela is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Oven Club, Valencia on Sat, 14 Nov 2026.
 
-Felipe Valenzuela is a house and tech house artist based in Chile, with 69 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 12 more. Often billed alongside Dani Casarano, Abscal and Momo Trosman. Next up: Oven Club, Valencia on Sat 14 Nov.
+Felipe Valenzuela is a house and tech house artist based in Chile, with 70 gigs on soundcheck across Barcelona, Berlin, Bogotá and Buenos Aires and 12 more. Often billed alongside Dani Casarano, Abscal and Pau Pérez. Next up: Oven Club, Valencia on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Oven Club | Valencia |
+| Thu, 31 Dec 2026 | Spook Club | Valencia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Felipe Valenzuela is a house and tech house artist based in Chile, with 69 gigs 
 
 ## Shares bills with
 
-Dani Casarano, Abscal, Momo Trosman
+Dani Casarano, Abscal, Pau Pérez
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felipevalenzuela/)*

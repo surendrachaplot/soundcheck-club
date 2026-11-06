@@ -1,13 +1,14 @@
 # Princess P
 
-Princess P is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Leysin Ski Resort, Switzerland on Mon, 15 Mar 2027.
+Princess P is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kino Roland, Zurich on Fri, 27 Nov 2026.
 
-Princess P is a techno and house artist based in Switzerland, with 32 gigs on soundcheck across Basel, Belgrade, Dublin and Edinburgh and 5 more. Often billed alongside Leo Gretener, Kalabrese and Cio (Spezialmaterial). Next up: Leysin Ski Resort, Switzerland on Mon 15 Mar.
+Princess P is a house and techno artist based in Switzerland, with 33 gigs on soundcheck across Basel, Belgrade, Dublin and Edinburgh and 5 more. Often billed alongside Leo Gretener, Kalabrese and Optimo (Espacio). Next up: Kino Roland, Zurich on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Kino Roland | Zurich |
 | Mon, 15 Mar 2027 | Leysin Ski Resort | Switzerland |
 
 ## Recently played
@@ -23,6 +24,6 @@ Princess P is a techno and house artist based in Switzerland, with 32 gigs on so
 
 ## Shares bills with
 
-Leo Gretener, Kalabrese, Cio (Spezialmaterial)
+Leo Gretener, Kalabrese, Optimo (Espacio)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessp/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/princessp/)*

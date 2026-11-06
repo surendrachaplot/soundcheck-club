@@ -1,6 +1,6 @@
 # Main Leaf
 
-Main Leaf is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
+Main Leaf is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bridge 48, Barcelona on Sat, 7 Nov 2026.
 
 Main Leaf is a techno and house artist based in Italy, with 14 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Agustín Negri, Casteh and Ivan Pugliares. Next up: Bridge 48, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Main Leaf is a techno and house artist based in Italy, with 14 gigs on soundchec
 
 Agustín Negri, Casteh, Ivan Pugliares
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mainleaf/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mainleaf/)*

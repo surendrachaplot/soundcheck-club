@@ -1,6 +1,6 @@
 # Edward
 
-Edward is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Fuse, Brussels on Fri, 6 Nov 2026.
+Edward is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuse, Brussels on Fri, 6 Nov 2026.
 
 Edward is a house and minimal artist based in Germany, with 142 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Fuse, Brussels on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Edward is a house and minimal artist based in Germany, with 142 gigs on soundche
 
 Konstantin, Leafar Legov, Yamour
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edward/)*

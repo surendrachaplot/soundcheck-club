@@ -1,6 +1,6 @@
 # Katzengold
 
-Katzengold is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kowalski, Stuttgart on Fri, 20 Nov 2026.
+Katzengold is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kowalski, Stuttgart on Fri, 20 Nov 2026.
 
 Katzengold is a techno and tech house artist based in Germany, with 146 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 10 more. Often billed alongside justUS, Markus Klee and Mollono.Bass. Next up: Kowalski, Stuttgart on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Katzengold is a techno and tech house artist based in Germany, with 146 gigs on 
 
 justUS, Markus Klee, Mollono.Bass
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katzengold/)*

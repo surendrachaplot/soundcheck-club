@@ -1,6 +1,6 @@
 # Appleblim
 
-Appleblim is a Bass and Dub artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Arkaoda, Istanbul on Fri, 6 Nov 2026.
+Appleblim is a Bass and Dub artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Arkaoda, Istanbul on Fri, 6 Nov 2026.
 
 Appleblim is a bass and dub artist based in United Kingdom, with 58 gigs on soundcheck across Berlin, Bristol, Galway and Istanbul and 4 more. Often billed alongside Low End Activist, DJ Regret and Demdike Stare. Next up: Arkaoda, Istanbul on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Appleblim is a bass and dub artist based in United Kingdom, with 58 gigs on soun
 
 Low End Activist, DJ Regret, Demdike Stare
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/appleblim/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/appleblim/)*

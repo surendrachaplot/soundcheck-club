@@ -1,13 +1,14 @@
 # awhlkuhn
 
-awhlkuhn is a Dancehall and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Grey Space In The Middle, The Hague on Sat, 5 Dec 2026.
+awhlkuhn is a Dancehall and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Worm, Rotterdam on Sat, 21 Nov 2026.
 
-awhlkuhn is a dancehall and baile funk artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam, Berlin, London and New York City and 2 more. Often billed alongside Shinshan Salazar, amara and Jarreau Vandal. Next up: The Grey Space In The Middle, The Hague on Sat 5 Dec.
+awhlkuhn is a dancehall and club artist based in Netherlands, with 21 gigs on soundcheck across Amsterdam, Berlin, London and New York City and 2 more. Often billed alongside Shinshan Salazar, amara and Jarreau Vandal. Next up: Worm, Rotterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Worm | Rotterdam |
 | Sat, 5 Dec 2026 | The Grey Space In The Middle | The Hague |
 
 ## Recently played
@@ -25,4 +26,4 @@ awhlkuhn is a dancehall and baile funk artist based in Netherlands, with 20 gigs
 
 Shinshan Salazar, amara, Jarreau Vandal
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*

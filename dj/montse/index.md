@@ -1,8 +1,8 @@
 # Montse
 
-Montse is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Kiosk del Rec (Igualada), Barcelona on Sat, 7 Nov 2026.
+Montse is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Kiosk del Rec (Igualada), Barcelona on Sat, 7 Nov 2026.
 
-Montse is a techno and house artist based in Spain, with 20 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Netherlands and 1 more. Often billed alongside Joya Astou, Mees Javois and Prance. Next up: TBA - Kiosk del Rec (Igualada), Barcelona on Sat 7 Nov.
+Montse is a techno and house artist based in Spain, with 21 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Netherlands and 2 more. Often billed alongside ARSA, Joya Astou and Mees Javois. Next up: TBA - Kiosk del Rec (Igualada), Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Montse is a techno and house artist based in Spain, with 20 gigs on soundcheck a
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - Kiosk del Rec (Igualada) | Barcelona |
 | Sat, 28 Nov 2026 | Pier 15, Breda | Netherlands |
+| Fri, 1 Jan 2027 | TBA - Secret Location Burgos (casco historico) | North |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Montse is a techno and house artist based in Spain, with 20 gigs on soundcheck a
 
 ## Shares bills with
 
-Joya Astou, Mees Javois, Prance
+ARSA, Joya Astou, Mees Javois
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montse/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montse/)*

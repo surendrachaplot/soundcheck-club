@@ -1,6 +1,6 @@
 # Lorenzo Senni
 
-Lorenzo Senni is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
+Lorenzo Senni is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Maravilla Studios, Mexico City on Fri, 6 Nov 2026.
 
 Lorenzo Senni is an experimental and techno artist based in Italy, with 46 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 24 more. Often billed alongside Kode9, Marcel Dettmann and Amnesia Scanner. Next up: Maravilla Studios, Mexico City on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Lorenzo Senni is an experimental and techno artist based in Italy, with 46 gigs 
 
 Kode9, Marcel Dettmann, Amnesia Scanner
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzosenni/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lorenzosenni/)*

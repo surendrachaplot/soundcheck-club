@@ -1,6 +1,6 @@
 # Ilion Plus
 
-Ilion Plus is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Sound Rituals Present: Blakaut, Tyler Carry & eddie dark" on Sat, 7 Nov 2026.
+Ilion Plus is a music venue in Athens with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Sound Rituals Present: Blakaut, Tyler Carry & eddie dark" on Sat, 7 Nov 2026.
 
 Ilion Plus is a music venue in Athens listed on soundcheck. 4 upcoming gigs, with line-ups including .Fro., Blakaut, Fonoptikon and Karanikas and 2 more. See dates, start times and who's playing. Kodrigktonos 17, Athina 104 34, Greece.
 
@@ -17,4 +17,4 @@ Ilion Plus is a music venue in Athens listed on soundcheck. 4 upcoming gigs, wit
 
 Kodrigktonos 17, Athina 104 34, Greece, Athens
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/ilion-plus/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/athens/club/ilion-plus/)*

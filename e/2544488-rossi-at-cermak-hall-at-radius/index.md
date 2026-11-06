@@ -1,6 +1,6 @@
 # Rossi. at Cermak Hall at Radius
 
-Rossi. at Cermak Hall at Radius on Fri 6 Nov, Chicago. 1 artist: Rossi. Minimal. See the line-up on soundcheck.
+Rossi. at Cermak Hall at Radius on Fri 6 Nov, Chicago. 3 artists: Dean Turnley, Moorhaus and Rossi. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Rossi. at Cermak Hall at Radius on Fri 6 Nov, Chicago. 1 artist: Rossi. Minimal.
 
 ## Line-up
 
+- Dean Turnley
+- Moorhaus
 - Rossi
 
 *Source: [soundcheck](https://soundcheck.club/e/2544488-rossi-at-cermak-hall-at-radius/)*

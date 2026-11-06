@@ -1,0 +1,30 @@
+# SOLD OUT - Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 at Thuishaven
+
+SOLD OUT - Wooferland, The Beginning & Rave Tribe pres. The Rave Game 2026 at Thuishaven on Sat 7 Nov, Amsterdam. 16 artists: Alexander Koning, Dimitri, Eric de Man and Erick E and 12 more. Techno and Acid. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 7 Nov 2026 |
+| Venue | Thuishaven |
+| City | Amsterdam |
+
+## Line-up
+
+- Alexander Koning
+- Dimitri (1)
+- Eric de Man
+- Erick E
+- Franky Jones
+- Gizmo
+- HETTO
+- Jay Dee
+- JP (RU)
+- Klubbheads
+- Lucien Foort
+- Marco V
+- Remy Unger
+- Sander van Doorn
+- Sidney (2)
+- Ton TB
+
+*Source: [soundcheck](https://soundcheck.club/e/2404228-sold-out-wooferland-the-beginning-rave-tribe-pres-the-rave-g/)*

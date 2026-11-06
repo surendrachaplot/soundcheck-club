@@ -1,6 +1,6 @@
 # Vaninajaz.
 
-Vaninajaz. is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Imperial Private Club, Barcelona on Fri, 6 Nov 2026.
+Vaninajaz. is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Imperial Private Club, Barcelona on Fri, 6 Nov 2026.
 
 Vaninajaz. is a house and deep house artist based in Argentina, with 9 gigs on soundcheck across Barcelona. Often billed alongside Devicious, Dimarziio and LORZA. Next up: Imperial Private Club, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Vaninajaz. is a house and deep house artist based in Argentina, with 9 gigs on s
 
 Devicious, Dimarziio, LORZA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninajaz./)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninajaz./)*

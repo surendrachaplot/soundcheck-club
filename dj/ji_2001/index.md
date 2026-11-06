@@ -1,6 +1,6 @@
 # JI_2001
 
-JI_2001 is a Bass and Grime artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sun, 8 Nov 2026.
+JI_2001 is a Bass and Grime artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sun, 8 Nov 2026.
 
 JI_2001 is a bass and grime artist based in United Kingdom, with 115 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside Smiff, Lara Sinclair and DV60. Next up: Sneaky Pete's, Edinburgh on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ JI_2001 is a bass and grime artist based in United Kingdom, with 115 gigs on sou
 
 Smiff, Lara Sinclair, DV60
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ji_2001/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ji_2001/)*

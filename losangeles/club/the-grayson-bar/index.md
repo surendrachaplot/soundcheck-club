@@ -1,6 +1,6 @@
 # The Grayson Bar
 
-The Grayson Bar is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Bass Face" on Sat, 7 Nov 2026.
+The Grayson Bar is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Bass Face" on Sat, 7 Nov 2026.
 
 The Grayson Bar is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Grayson Bar is a music venue in Los Angeles listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Bass Face |  |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-grayson-bar/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/the-grayson-bar/)*

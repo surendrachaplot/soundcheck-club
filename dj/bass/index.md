@@ -1,6 +1,6 @@
 # Bass
 
-Bass is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
+Bass is a Drum & Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
 
 Bass is a drum & bass and techno artist based in Egypt, with 129 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 47 more. Often billed alongside Jungle (UK), Tekk and A². Next up: Factory Theatre, Sydney on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ Bass is a drum & bass and techno artist based in Egypt, with 129 gigs on soundch
 
 Jungle (UK), Tekk, A²
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bass/)*

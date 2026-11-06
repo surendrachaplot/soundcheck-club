@@ -1,6 +1,6 @@
 # Kewu
 
-Kewu is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Roxy, Prague on Sat, 7 Nov 2026.
+Kewu is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Roxy, Prague on Sat, 7 Nov 2026.
 
 Kewu is a techno and garage artist based in Czech Republic, with 49 gigs on soundcheck across Bratislava, Ljubljana and Prague. Often billed alongside Fembot, Big Lil and domizako. Next up: Roxy, Prague on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Kewu is a techno and garage artist based in Czech Republic, with 49 gigs on soun
 
 Fembot, Big Lil, domizako
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kewu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kewu/)*

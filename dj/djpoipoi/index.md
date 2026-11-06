@@ -1,6 +1,6 @@
 # DJ POIPOI
 
-DJ POIPOI is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 6 Nov 2026.
+DJ POIPOI is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Enter Shibuya, Tokyo on Fri, 6 Nov 2026.
 
 DJ POIPOI is a house and club artist based in Japan, with 66 gigs on soundcheck across Osaka, Shanghai and Tokyo. Often billed alongside HIBI BLISS, RUKE and INAE. Next up: Enter Shibuya, Tokyo on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ DJ POIPOI is a house and club artist based in Japan, with 66 gigs on soundcheck 
 
 HIBI BLISS, RUKE, INAE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoipoi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpoipoi/)*

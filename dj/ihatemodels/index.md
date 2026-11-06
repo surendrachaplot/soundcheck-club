@@ -1,8 +1,8 @@
 # I Hate Models
 
-I Hate Models is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+I Hate Models is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-I Hate Models is a techno and house artist based in France, with 327 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 94 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: Tinker Field, Orlando on Fri 6 Nov.
+I Hate Models is a techno and house artist based in France, with 328 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Argentina and 94 more. Often billed alongside 999999999, Nico Moreno and Charlie Sparks. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ I Hate Models is a techno and house artist based in France, with 327 gigs on sou
 
 999999999, Nico Moreno, Charlie Sparks
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ihatemodels/)*

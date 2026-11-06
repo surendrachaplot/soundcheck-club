@@ -1,14 +1,15 @@
 # Volodymyr Gnatenko
 
-Volodymyr Gnatenko is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
+Volodymyr Gnatenko is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 1520, Manchester on Sat, 7 Nov 2026.
 
-Volodymyr Gnatenko is a techno and trance artist based in Ukraine, with 31 gigs on soundcheck across Berlin, Frankfurt, Krakow and Lisbon and 12 more. Often billed alongside Shjva, stereometrix and CHEWCHEW. Next up: 1520, Manchester on Sat 7 Nov.
+Volodymyr Gnatenko is a techno and trance artist based in Ukraine, with 32 gigs on soundcheck across Berlin, Frankfurt, Krakow and Lisbon and 12 more. Often billed alongside Shjva, stereometrix and Allius. Next up: 1520, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | 1520 | Manchester |
+| Sun, 8 Nov 2026 | 1520 | Manchester |
 | Fri, 27 Nov 2026 | Bassiani | Tbilisi |
 | Fri, 2 Jul 2027 | Brithdir Hall | West-wales |
 
@@ -25,6 +26,6 @@ Volodymyr Gnatenko is a techno and trance artist based in Ukraine, with 31 gigs 
 
 ## Shares bills with
 
-Shjva, stereometrix, CHEWCHEW
+Shjva, stereometrix, Allius
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volodymyrgnatenko/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volodymyrgnatenko/)*

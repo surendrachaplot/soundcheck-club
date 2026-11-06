@@ -1,0 +1,28 @@
+# Rabibti áTable
+
+Rabibti áTable is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ÆDEN, Berlin on Sat, 19 Dec 2026.
+
+Rabibti áTable is a techno and disco artist, with 15 gigs on soundcheck across Berlin, Munich and Prague. Often billed alongside saHHar, Meriem S and MUNSEF. Next up: ÆDEN, Berlin on Sat 19 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 19 Dec 2026 | ÆDEN | Berlin |
+
+## Recently played
+
+- Import Export, Munich · Sat, 19 Sept 2026
+- migas, a listening bar, Berlin · Fri, 4 Sept 2026
+- Salöön (Säälchen/Holzmarkt 25), Berlin · Thu, 20 Aug 2026
+- Gretchen, Berlin · Fri, 10 Jul 2026
+- Xelor Kesselhaus, Berlin · Sat, 27 Jun 2026
+- Crack Bellmer, Berlin · Sat, 23 May 2026
+- Bar Neun, Berlin · Sun, 14 Dec 2025
+- TBA, Berlin · Sat, 29 Nov 2025
+
+## Shares bills with
+
+saHHar, Meriem S, MUNSEF
+
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabibtiatable/)*

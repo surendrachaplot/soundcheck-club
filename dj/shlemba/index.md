@@ -1,6 +1,6 @@
 # Shlemba
 
-Shlemba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Nué Seoul, Seoul on Sat, 7 Nov 2026.
+Shlemba is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nué Seoul, Seoul on Sat, 7 Nov 2026.
 
 Shlemba is a house and tech house artist based in South Korea, with 44 gigs on soundcheck across Seoul. Often billed alongside DJ Botermelk, Rob Goodspeed and Monika (KR). Next up: Nué Seoul, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Shlemba is a house and tech house artist based in South Korea, with 44 gigs on s
 
 DJ Botermelk, Rob Goodspeed, Monika (KR)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shlemba/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shlemba/)*

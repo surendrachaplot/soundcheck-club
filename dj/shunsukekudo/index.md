@@ -1,6 +1,6 @@
 # Shunsuke Kudo
 
-Shunsuke Kudo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 世田谷区立兵庫島公園, Tokyo on Sat, 7 Nov 2026.
+Shunsuke Kudo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 世田谷区立兵庫島公園, Tokyo on Sat, 7 Nov 2026.
 
 Shunsuke Kudo is a techno and house artist based in Japan, with 21 gigs on soundcheck across Brussels, Kyoto and Tokyo. Often billed alongside Lewo Chyba, JUN INAGAWA and Foodman. Next up: 世田谷区立兵庫島公園, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Shunsuke Kudo is a techno and house artist based in Japan, with 21 gigs on sound
 
 Lewo Chyba, JUN INAGAWA, Foodman
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shunsukekudo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shunsukekudo/)*

@@ -1,6 +1,6 @@
 # Luigi D'Alterio
 
-Luigi D'Alterio is a Tech House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Common Ground, Naples on Sat, 14 Nov 2026.
+Luigi D'Alterio is a Tech House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Common Ground, Naples on Sat, 14 Nov 2026.
 
 Luigi D'Alterio is a tech house and afro tech artist based in Italy, with 15 gigs on soundcheck across Barcelona and Naples. Often billed alongside Mario Selva, Alex Vibes and Sarra. Next up: Common Ground, Naples on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Luigi D'Alterio is a tech house and afro tech artist based in Italy, with 15 gig
 
 Mario Selva, Alex Vibes, Sarra (2)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidalterio/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luigidalterio/)*

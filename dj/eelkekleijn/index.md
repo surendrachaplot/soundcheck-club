@@ -1,14 +1,15 @@
 # Eelke Kleijn
 
-Eelke Kleijn is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - ERIA Sausalito, California on Sun, 8 Nov 2026.
+Eelke Kleijn is a Progressive House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - ERIA Sausalito, California on Sun, 8 Nov 2026.
 
-Eelke Kleijn is a progressive house and techno artist based in Netherlands, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 37 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: TBA - ERIA Sausalito, California on Sun 8 Nov.
+Eelke Kleijn is a progressive house and techno artist based in Netherlands, with 115 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 37 more. Often billed alongside Miss Melera, Corren Cavini and Nick Warren. Next up: TBA - ERIA Sausalito, California on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | TBA - ERIA Sausalito | California |
+| Sun, 8 Nov 2026 | Audio SF | San Francisco/Oakland |
 | Fri, 4 Dec 2026 | The Distillery Complex | Pittsburgh |
 | Sat, 5 Dec 2026 | House of Yes | New York City |
 | Fri, 11 Dec 2026 | Ozmozis | Toronto |
@@ -29,4 +30,4 @@ Eelke Kleijn is a progressive house and techno artist based in Netherlands, with
 
 Miss Melera, Corren Cavini, Nick Warren
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eelkekleijn/)*

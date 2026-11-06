@@ -1,6 +1,6 @@
 # Pixie Dust
 
-Pixie Dust is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Купе / Kupe, Sofia on Fri, 13 Nov 2026.
+Pixie Dust is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Купе / Kupe, Sofia on Fri, 13 Nov 2026.
 
 Pixie Dust is a techno and trance artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 13 more. Often billed alongside Morelia, YËDM and Amøn. Next up: Купе / Kupe, Sofia on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Pixie Dust is a techno and trance artist based in United States of America, with
 
 Morelia, YËDM, Amøn
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pixiedust/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pixiedust/)*

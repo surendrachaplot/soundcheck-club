@@ -1,6 +1,6 @@
 # Julia Linkogel
 
-Julia Linkogel is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Madam, Amsterdam on Sat, 12 Dec 2026.
+Julia Linkogel is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Madam, Amsterdam on Sat, 12 Dec 2026.
 
 Julia Linkogel is a techno and progressive house artist based in Germany, with 33 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 8 more. Often billed alongside Adriatique, Baime and Ae:ther. Next up: Madam, Amsterdam on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Julia Linkogel is a techno and progressive house artist based in Germany, with 3
 
 Adriatique, Baime, Ae:ther
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julialinkogel/)*

@@ -1,6 +1,6 @@
 # Ziggy Ostas
 
-Ziggy Ostas is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Under.Iolo, Warsaw on Sat, 21 Nov 2026.
+Ziggy Ostas is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Under.Iolo, Warsaw on Sat, 21 Nov 2026.
 
 Ziggy Ostas is a garage and house artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, London, Manchester and Sheffield and 1 more. Often billed alongside Ginster, Bushbaby and Caletti. Next up: Under.Iolo, Warsaw on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ziggy Ostas is a garage and house artist based in United Kingdom, with 10 gigs o
 
 Ginster, Bushbaby, Caletti
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyostas/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ziggyostas/)*

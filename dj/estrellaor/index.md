@@ -1,6 +1,6 @@
 # ESTRELLA OR
 
-ESTRELLA OR is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at High Club Room, Madrid on Sat, 7 Nov 2026.
+ESTRELLA OR is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at High Club Room, Madrid on Sat, 7 Nov 2026.
 
 ESTRELLA OR is an electronica and house artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Ninalash!, materia hache and Beni jung. Next up: High Club Room, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ESTRELLA OR is an electronica and house artist based in Spain, with 14 gigs on s
 
 Ninalash!, materia hache, Beni jung
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estrellaor/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/estrellaor/)*

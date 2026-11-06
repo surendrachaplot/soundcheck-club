@@ -1,6 +1,6 @@
 # Higgo
 
-Higgo is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at NT's Loft, London on Fri, 8 Jan 2027.
+Higgo is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at NT's Loft, London on Fri, 8 Jan 2027.
 
 Higgo is a garage and bass artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, Edinburgh, Leeds and Liverpool and 6 more. Often billed alongside BVNQUET, Hannah Lynch and LLEAHDAVIES. Next up: NT's Loft, London on Fri 8 Jan.
 
@@ -25,4 +25,4 @@ Higgo is a garage and bass artist based in United Kingdom, with 27 gigs on sound
 
 BVNQUET, Hannah Lynch, LLEAHDAVIES
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/higgo/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/higgo/)*

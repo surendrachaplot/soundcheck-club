@@ -1,6 +1,6 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 13 Nov 2026.
+Richard Akingbehin is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 13 Nov 2026.
 
 Richard Akingbehin is a techno and house artist based in United Kingdom, with 146 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Tikiman, Fadi Mohem and OK Williams. Next up: Tokonoma Club, Frankfurt on Fri 13 Nov.
 
@@ -32,4 +32,4 @@ Richard Akingbehin is a techno and house artist based in United Kingdom, with 14
 
 Tikiman, Fadi Mohem, OK Williams
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richardakingbehin/)*

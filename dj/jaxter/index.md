@@ -1,6 +1,6 @@
 # Jaxter
 
-Jaxter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
+Jaxter is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cercle Royal Gaulois, Belgium on Sun, 15 Nov 2026.
 
 Jaxter is a house and techno artist based in Belgium, with 10 gigs on soundcheck across Belgium, Berlin, Brussels and Ghent. Often billed alongside Don Cabron, GALAGO (BE) and Aytiwan. Next up: Cercle Royal Gaulois, Belgium on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Jaxter is a house and techno artist based in Belgium, with 10 gigs on soundcheck
 
 Don Cabron, GALAGO (BE), Aytiwan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxter/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaxter/)*

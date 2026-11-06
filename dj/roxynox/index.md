@@ -1,6 +1,6 @@
 # Roxy Nox
 
-Roxy Nox is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
+Roxy Nox is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Am Hawerkamp, Münster on Fri, 11 Dec 2026.
 
 Roxy Nox is a tech house and techno artist based in Germany, with 17 gigs on soundcheck across Amsterdam, Berlin, Dortmund / Essen and Münster. Often billed alongside Purple Palms, Vinylsurfer and Flo Mrzdk. Next up: Am Hawerkamp, Münster on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Roxy Nox is a tech house and techno artist based in Germany, with 17 gigs on sou
 
 Purple Palms, Vinylsurfer, Flo Mrzdk
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxynox/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxynox/)*

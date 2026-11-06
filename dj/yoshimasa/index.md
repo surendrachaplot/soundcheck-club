@@ -1,13 +1,14 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 5 Dec 2026.
+YOSHIMASA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
 
-YOSHIMASA is a techno and house artist based in Japan, with 96 gigs on soundcheck across Tokyo. Often billed alongside DJ 34, BEPPU and Remo-con. Next up: ZEROTOKYO, Tokyo on Sat 5 Dec.
+YOSHIMASA is a techno and house artist based in Japan, with 97 gigs on soundcheck across Tokyo. Often billed alongside DJ 34, BEPPU and Remo-con. Next up: Warp Shinjuku, Tokyo on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 15 Nov 2026 | Warp Shinjuku | Tokyo |
 | Sat, 5 Dec 2026 | ZEROTOKYO | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ YOSHIMASA is a techno and house artist based in Japan, with 96 gigs on soundchec
 
 DJ 34, BEPPU, Remo-con
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yoshimasa/)*

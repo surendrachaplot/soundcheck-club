@@ -1,8 +1,8 @@
 # Session Victim
 
-Session Victim is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
+Session Victim is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 20 Nov 2026.
 
-Session Victim is a house and disco artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Berlin, Brussels and Detroit and 26 more. Often billed alongside Black Loops, Chaos In The CBD and Folamour. Next up: Tresor / Globus, Berlin on Fri 20 Nov.
+Session Victim is a house and disco artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Berlin, Brussels and Detroit and 26 more. Often billed alongside Luca Olivotto, Marie Lung and Nephews. Next up: Tresor / Globus, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Session Victim is a house and disco artist based in Germany, with 74 gigs on sou
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 11 Dec 2026 | The Jazz Cafe | London |
+| Thu, 31 Dec 2026 | OXI | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Session Victim is a house and disco artist based in Germany, with 74 gigs on sou
 
 ## Shares bills with
 
-Black Loops, Chaos In The CBD, Folamour
+Luca Olivotto, Marie Lung, Nephews
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sessionvictim/)*

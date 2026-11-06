@@ -1,6 +1,6 @@
 # Minna-no-Kimochi
 
-Minna-no-Kimochi is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Minna-no-Kimochi is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 Minna-no-Kimochi is a techno and trance artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Beijing and 21 more. Often billed alongside KATRINA, KUAN and Sandy's Trace. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ Minna-no-Kimochi is a techno and trance artist based in United Kingdom, with 39 
 
 KATRINA, KUAN, Sandy's Trace
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minna-no-kimochi/)*

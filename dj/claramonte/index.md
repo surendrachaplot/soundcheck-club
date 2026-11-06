@@ -1,0 +1,28 @@
+# Claramonte
+
+Claramonte is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
+
+Claramonte is a techno and tech house artist based in Spain, with 20 gigs on soundcheck across Barcelona, Berlin, Dublin and Mallorca and 1 more. Often billed alongside Leo Cotrozo, ARDZ. and Alex TB. Next up: Sensorium, Berlin on Wed 16 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Wed, 16 Dec 2026 | Sensorium | Berlin |
+
+## Recently played
+
+- Sensorium, Berlin · Sun, 11 Oct 2026
+- City Hall, Barcelona · Wed, 29 Jul 2026
+- TBA - Rambla catalunya 65, Barcelona · Thu, 1 Jan 2026
+- TBA - Carrer Creu Coberta, 100, Barcelona · Fri, 21 Nov 2025
+- City Hall, Barcelona · Thu, 20 Nov 2025
+- Hard Club, Porto · Sat, 11 Oct 2025
+- M7 Club, Barcelona · Sun, 15 Jun 2025
+- M7 Club, Barcelona · Sun, 1 Jun 2025
+
+## Shares bills with
+
+Leo Cotrozo, ARDZ., Alex TB
+
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claramonte/)*

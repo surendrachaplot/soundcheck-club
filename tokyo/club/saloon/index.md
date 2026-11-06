@@ -1,6 +1,6 @@
 # Saloon
 
-Saloon is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Weekend Madman" on Fri, 6 Nov 2026.
+Saloon is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Weekend Madman" on Fri, 6 Nov 2026.
 
 Saloon is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including AJA, ALPHA, arpxp and Aya ( Human Elements ) and 2 more. See dates, start times and who's playing. 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan.
 
@@ -10,7 +10,7 @@ Saloon is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with lin
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Weekend Madman | MEGURO, YUVIE |
 | Fri, 6 Nov 2026 | Far East Geezer&WHITEND presents WEEKEND MADMAN | MEGURO, YUVIE |
-| Wed, 11 Nov 2026 | JUMADIBA KIBARASHI TOUR FINAL AFTERPARTY. NAMU NIGHT | Mando, WASP |
+| Wed, 11 Nov 2026 | JUMADIBA KIBARASHI TOUR FINAL AFTERPARTY. NAMU NIGHT | Mando, RUI HAYAKAWA, WASP |
 | Sat, 14 Nov 2026 | Strict City × SUN AND BASS | ALPHA (4), Aya ( Human Elements ), Fonts, Velocity, Zusan (3), arpxp |
 | Fri, 20 Nov 2026 | VINYLIZM | KZA, Kaoru Inoue |
 | Sun, 22 Nov 2026 | WEB-001 | Pholo, illequal |
@@ -20,4 +20,4 @@ Saloon is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with lin
 
 1-34-17 ZA House Bldg B3F, Ebisu-nishi, Shibuya-ku, Tokyo,  Japan, Tokyo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/saloon/)*

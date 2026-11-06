@@ -1,6 +1,6 @@
 # Swordes
 
-Swordes is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 6 Nov 2026.
+Swordes is a Electronica and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Swordes is an electronica and pop artist based in United States of America, with 12 gigs on soundcheck across Brussels, Copenhagen, New York City and Paris and 2 more. Often billed alongside Swami Sound, Vitesse X and 1ycia. Next up: The Great Northern, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Swordes is an electronica and pop artist based in United States of America, with
 
 Swami Sound, Vitesse X, 1ycia
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swordes/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swordes/)*

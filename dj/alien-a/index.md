@@ -1,6 +1,6 @@
 # ALIEN-A
 
-ALIEN-A is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 13 Nov 2026.
+ALIEN-A is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 13 Nov 2026.
 
 ALIEN-A is a techno and house artist based in Germany, with 30 gigs on soundcheck across Melbourne. Often billed alongside CAITY WATSON, AMY. and BDE. Next up: QQQ ST. Park, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ALIEN-A is a techno and house artist based in Germany, with 30 gigs on soundchec
 
 CAITY WATSON, AMY., BDE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alien-a/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alien-a/)*

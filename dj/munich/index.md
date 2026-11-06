@@ -1,6 +1,6 @@
 # Münich
 
-Münich is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Studionotte, Milan on Sat, 7 Nov 2026.
+Münich is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Studionotte, Milan on Sat, 7 Nov 2026.
 
 Münich is a techno and electronica artist based in Italy, with 21 gigs on soundcheck across Milan. Often billed alongside Diamantha, M.Vertigo and MISERIA. Next up: Studionotte, Milan on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Münich is a techno and electronica artist based in Italy, with 21 gigs on sound
 
 Diamantha, M.Vertigo, MISERIA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munich/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/munich/)*

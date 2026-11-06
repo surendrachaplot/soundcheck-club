@@ -1,6 +1,6 @@
 # Tatsuo Kitagawa
 
-Tatsuo Kitagawa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at White Space Lab, Tokyo on Fri, 20 Nov 2026.
+Tatsuo Kitagawa is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at White Space Lab, Tokyo on Fri, 20 Nov 2026.
 
 Tatsuo Kitagawa is a house and deep house artist based in Japan, with 61 gigs on soundcheck across Tokyo. Often billed alongside Naoki Iwata, SIGNAL (JP) and AOI BLOOM. Next up: White Space Lab, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Tatsuo Kitagawa is a house and deep house artist based in Japan, with 61 gigs on
 
 Naoki Iwata, SIGNAL (JP), AOI BLOOM
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tatsuokitagawa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tatsuokitagawa/)*

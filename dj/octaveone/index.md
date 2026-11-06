@@ -1,6 +1,6 @@
 # Octave One
 
-Octave One is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+Octave One is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
 
 Octave One is a techno and house artist based in United States of America, with 114 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 42 more. Often billed alongside Carl Craig, Kevin Saunderson and FJAAK. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
 
@@ -17,6 +17,7 @@ Octave One is a techno and house artist based in United States of America, with 
 
 ## Recently played
 
+- Base Sous-Marine de Bordeaux, Bordeaux · Thu, 5 Nov 2026
 - Q-Factory, Amsterdam · Fri, 23 Oct 2026
 - TBA, Los Angeles · Sat, 17 Oct 2026
 - Public Works, San Francisco/Oakland · Fri, 16 Oct 2026
@@ -24,10 +25,9 @@ Octave One is a techno and house artist based in United States of America, with 
 - Jaeger, Oslo · Fri, 9 Oct 2026
 - Plaza Monumental de Barcelona, Barcelona · Sat, 3 Oct 2026
 - FOLD, London · Fri, 18 Sept 2026
-- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Carl Craig, Kevin Saunderson, FJAAK
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

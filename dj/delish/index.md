@@ -1,6 +1,6 @@
 # Delish
 
-Delish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
+Delish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
 
 Delish is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Cleveland, Ohio and Toronto. Often billed alongside Joey Sardelle, Andre Leone and Den Hur. Next up: Cafe Bourbon Street, Ohio on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Delish is a house and techno artist based in United States of America, with 20 g
 
 Joey Sardelle, Andre Leone, Den Hur
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delish/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/delish/)*

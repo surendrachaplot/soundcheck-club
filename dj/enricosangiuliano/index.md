@@ -1,8 +1,8 @@
 # Enrico Sangiuliano
 
-Enrico Sangiuliano is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Audiodrome, Turin on Fri, 6 Nov 2026.
+Enrico Sangiuliano is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Audiodrome, Turin on Fri, 6 Nov 2026.
 
-Enrico Sangiuliano is a techno and house artist based in Italy, with 126 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Adam Beyer. Next up: Audiodrome, Turin on Fri 6 Nov.
+Enrico Sangiuliano is a techno and house artist based in Italy, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Charlotte de Witte, Anfisa Letyago and Pan-Pot. Next up: Audiodrome, Turin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Enrico Sangiuliano is a techno and house artist based in Italy, with 126 gigs on
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Sat, 21 Nov 2026 | Prysm Nightclub | Chicago |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
+| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
 
@@ -30,6 +31,6 @@ Enrico Sangiuliano is a techno and house artist based in Italy, with 126 gigs on
 
 ## Shares bills with
 
-Charlotte de Witte, Anfisa Letyago, Adam Beyer
+Charlotte de Witte, Anfisa Letyago, Pan-Pot
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/enricosangiuliano/)*

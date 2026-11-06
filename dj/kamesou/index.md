@@ -1,13 +1,14 @@
 # kamesou
 
-kamesou is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Joule, Osaka on Sat, 14 Nov 2026.
+kamesou is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Blvck Water, Osaka on Mon, 9 Nov 2026.
 
-kamesou is a techno and psytrance artist based in Japan, with 8 gigs on soundcheck across Osaka. Often billed alongside ZAGUN, dyn (JP) and Drunken Kong. Next up: Joule, Osaka on Sat 14 Nov.
+kamesou is a techno and psytrance artist based in Japan, with 9 gigs on soundcheck across Osaka. Often billed alongside ZAGUN, dyn (JP) and Kaoll. Next up: Blvck Water, Osaka on Mon 9 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 9 Nov 2026 | Blvck Water | Osaka |
 | Sat, 14 Nov 2026 | Joule | Osaka |
 | Sat, 14 Nov 2026 | Triangle | Osaka |
 | Sat, 14 Nov 2026 | Blvck Water | Osaka |
@@ -22,6 +23,6 @@ kamesou is a techno and psytrance artist based in Japan, with 8 gigs on soundche
 
 ## Shares bills with
 
-ZAGUN, dyn (JP), Drunken Kong
+ZAGUN, dyn (JP), Kaoll
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamesou/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamesou/)*

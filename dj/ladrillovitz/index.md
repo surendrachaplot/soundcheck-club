@@ -1,14 +1,15 @@
 # Ladrillovitz
 
-Ladrillovitz is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Oven Club, Valencia on Fri, 13 Nov 2026.
+Ladrillovitz is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Oven Club, Valencia on Fri, 13 Nov 2026.
 
-Ladrillovitz is a house and tech house artist based in Spain, with 69 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Ibiza and 2 more. Often billed alongside Ariezzz, CAMMMMM and blan.trrs. Next up: Oven Club, Valencia on Fri 13 Nov.
+Ladrillovitz is a house and tech house artist based in Spain, with 70 gigs on soundcheck across Barcelona, Berlin, Bordeaux and Ibiza and 2 more. Often billed alongside Ariezzz, CAMMMMM and Pau Pérez. Next up: Oven Club, Valencia on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Oven Club | Valencia |
+| Thu, 31 Dec 2026 | Spook Club | Valencia |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ladrillovitz is a house and tech house artist based in Spain, with 69 gigs on so
 
 ## Shares bills with
 
-Ariezzz, CAMMMMM, blan.trrs
+Ariezzz, CAMMMMM, Pau Pérez
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladrillovitz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladrillovitz/)*

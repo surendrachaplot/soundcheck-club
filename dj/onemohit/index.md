@@ -1,6 +1,6 @@
 # onemohit
 
-onemohit is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mothership, San Francisco/Oakland on Fri, 13 Nov 2026.
+onemohit is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mothership, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 onemohit is a club and house artist based in United States of America, with 17 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Joe Fro, Solar and Torie. Next up: Mothership, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ onemohit is a club and house artist based in United States of America, with 17 g
 
 Joe Fro, Solar, Torie
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onemohit/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onemohit/)*

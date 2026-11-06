@@ -1,6 +1,6 @@
 # Bremen
 
-Bremen is a Afrobeat and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Safestay Rooftop, Barcelona on Fri, 6 Nov 2026.
+Bremen is a Afrobeat and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Safestay Rooftop, Barcelona on Fri, 6 Nov 2026.
 
 Bremen is an afrobeat and deep house artist based in Spain, with 11 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Jazz K, Luca Radez and vonto. Next up: Safestay Rooftop, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bremen is an afrobeat and deep house artist based in Spain, with 11 gigs on soun
 
 Jazz K, Luca Radez, vonto
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bremen/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bremen/)*

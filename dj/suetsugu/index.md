@@ -1,6 +1,6 @@
 # SUETSUGU
 
-SUETSUGU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Oath, Tokyo on Fri, 6 Nov 2026.
+SUETSUGU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Oath, Tokyo on Fri, 6 Nov 2026.
 
 SUETSUGU is a techno and house artist based in Japan, with 114 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside RYOHEI, monielu.h and RINALUCKY. Next up: Oath, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ SUETSUGU is a techno and house artist based in Japan, with 114 gigs on soundchec
 
 RYOHEI, monielu.h, RINALUCKY
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suetsugu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suetsugu/)*

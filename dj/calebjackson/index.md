@@ -1,6 +1,6 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Barbary, Philadelphia on Fri, 6 Nov 2026.
+Caleb Jackson is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Barbary, Philadelphia on Fri, 6 Nov 2026.
 
 Caleb Jackson is a house and techno artist based in Australia, with 81 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 16 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: The Barbary, Philadelphia on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Caleb Jackson is a house and techno artist based in Australia, with 81 gigs on s
 
 Jacqui Cunningham, Bella Backe, Elijah Something
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calebjackson/)*

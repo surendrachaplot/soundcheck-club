@@ -1,6 +1,6 @@
 # Darian
 
-Darian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 24 Nov 2026.
+Darian is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 24 Nov 2026.
 
 Darian is a techno and house artist based in United States of America, with 24 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside nextdimensional, MoMA Ready and Nail Salon. Next up: Bossa Nova Civic Club, New York City on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Darian is a techno and house artist based in United States of America, with 24 g
 
 nextdimensional, MoMA Ready, Nail Salon (2)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darian/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darian/)*

@@ -1,6 +1,6 @@
 # Reactor Shanghai
 
-Reactor Shanghai is a music venue in Shanghai with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Antigen Pres.Herrensauna十周年showcase" on Fri, 6 Nov 2026.
+Reactor Shanghai is a music venue in Shanghai with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Antigen Pres.Herrensauna十周年showcase" on Fri, 6 Nov 2026.
 
 Reactor Shanghai is a music venue in Shanghai listed on soundcheck. 5 upcoming gigs, with line-ups including Afra, CEM, Drew McDowall and Finascia and 2 more. See dates, start times and who's playing. D-L1-03, B1, C·PARK, No. 638 Zhaohua Road, Changning District, Shanghai.
 
@@ -18,4 +18,4 @@ Reactor Shanghai is a music venue in Shanghai listed on soundcheck. 5 upcoming g
 
 D-L1-03, B1, C·PARK, No. 638 Zhaohua Road, Changning District, Shanghai, Shanghai
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/reactor-shanghai/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/shanghai/club/reactor-shanghai/)*

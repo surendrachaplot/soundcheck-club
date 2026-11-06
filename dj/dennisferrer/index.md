@@ -1,6 +1,6 @@
 # Dennis Ferrer
 
-Dennis Ferrer is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Studio Notre-Dame, Montreal on Sat, 7 Nov 2026.
+Dennis Ferrer is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Studio Notre-Dame, Montreal on Sat, 7 Nov 2026.
 
 Dennis Ferrer is a house and tech house artist based in United States of America, with 148 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 35 more. Often billed alongside HoneyLuv, Prunk and Sam Divine. Next up: Studio Notre-Dame, Montreal on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Dennis Ferrer is a house and tech house artist based in United States of America
 
 HoneyLuv, Prunk, Sam Divine
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dennisferrer/)*

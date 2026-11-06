@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 16 Dec, Berlin. 3 artists: Bee Lincoln, nixmoon and Viktor Kampf. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 16 Dec, Berlin. 11 artists: b.e.n.m, Bee Lincoln, Claramonte and Determiner and 7 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,8 +10,16 @@ TECHNO MITTWOCH at Sensorium on Wed 16 Dec, Berlin. 3 artists: Bee Lincoln, nixm
 
 ## Line-up
 
+- b.e.n.m
 - Bee Lincoln
+- Claramonte
+- Determiner
+- jaynetics
+- Leo Cotrozo
 - nixmoon
+- Noxumi
+- Vantavision
 - Viktor Kampf
+- zygonaut
 
 *Source: [soundcheck](https://soundcheck.club/e/2518138-techno-mittwoch-at-sensorium/)*

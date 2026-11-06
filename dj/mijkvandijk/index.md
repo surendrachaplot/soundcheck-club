@@ -1,6 +1,6 @@
 # Mijk van Dijk
 
-Mijk van Dijk is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 22 May 2027.
+Mijk van Dijk is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Stromwerk Dresden, Dresden on Sat, 22 May 2027.
 
 Mijk van Dijk is a techno and tech house artist based in Germany, with 52 gigs on soundcheck across Amsterdam, Berlin, Brandenburg and Bristol and 6 more. Often billed alongside Nat SuPrise, Felix Reichelt and Christian Grade. Next up: Stromwerk Dresden, Dresden on Sat 22 May.
 
@@ -26,4 +26,4 @@ Mijk van Dijk is a techno and tech house artist based in Germany, with 52 gigs o
 
 Nat SuPrise, Felix Reichelt, Christian Grade
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mijkvandijk/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mijkvandijk/)*

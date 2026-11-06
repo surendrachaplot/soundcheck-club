@@ -1,6 +1,6 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Palais, London on Fri, 6 Nov 2026.
+CC:DISCO! is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais, London on Fri, 6 Nov 2026.
 
 CC:DISCO! is a house and disco artist based in Australia, with 160 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 48 more. Often billed alongside Chima Isaaro, Erol Alkan and Jennifer Loveless. Next up: Palais, London on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ CC:DISCO! is a house and disco artist based in Australia, with 160 gigs on sound
 
 Chima Isaaro, Erol Alkan, Jennifer Loveless
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ccdisco/)*

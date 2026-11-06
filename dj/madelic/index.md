@@ -1,6 +1,6 @@
 # Madelic
 
-Madelic is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
+Madelic is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
 
 Madelic is a house and tech house artist based in Canada, with 48 gigs on soundcheck across London, Tokyo, Toronto and West Wales. Often billed alongside FITS ME FUNNY, AKWA and Elianne. Next up: M.O.T, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Madelic is a house and tech house artist based in Canada, with 48 gigs on soundc
 
 FITS ME FUNNY, AKWA, Elianne
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madelic/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madelic/)*

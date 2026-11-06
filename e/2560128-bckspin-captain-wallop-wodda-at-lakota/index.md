@@ -1,6 +1,6 @@
 # Bckspin: Captain Wallop, Wodda at Lakota
 
-Bckspin: Captain Wallop, Wodda at Lakota on Fri 13 Nov, Bristol. 2 artists: Captain Wallop and Wodda. House and Garage. See the line-up on soundcheck.
+Bckspin: Captain Wallop, Wodda at Lakota on Fri 13 Nov, Bristol. 3 artists: Captain Wallop, IZZIT and Wodda. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Bckspin: Captain Wallop, Wodda at Lakota on Fri 13 Nov, Bristol. 2 artists: Capt
 ## Line-up
 
 - Captain Wallop
+- IZZIT
 - Wodda
 
 *Source: [soundcheck](https://soundcheck.club/e/2560128-bckspin-captain-wallop-wodda-at-lakota/)*

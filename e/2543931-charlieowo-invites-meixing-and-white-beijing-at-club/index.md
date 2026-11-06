@@ -1,6 +1,6 @@
 # Charlieowo invites MeiXing and WhiTe (Beijing) at 宀 Club
 
-Charlieowo invites MeiXing and WhiTe (Beijing) at 宀 Club on Fri 6 Nov, Hong Kong. 1 artist: Charlieowo. Techno. See the line-up on soundcheck.
+Charlieowo invites MeiXing and WhiTe (Beijing) at 宀 Club on Fri 6 Nov, Hong Kong. 2 artists: Charlieowo and MeiXing. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Charlieowo invites MeiXing and WhiTe (Beijing) at 宀 Club on Fri 6 Nov, Hong Ko
 ## Line-up
 
 - Charlieowo
+- MeiXing
 
 *Source: [soundcheck](https://soundcheck.club/e/2543931-charlieowo-invites-meixing-and-white-beijing-at-club/)*

@@ -1,6 +1,6 @@
 # Pharah
 
-Pharah is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Kømplex Lisbon, Lisbon on Fri, 6 Nov 2026.
+Pharah is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kømplex Lisbon, Lisbon on Fri, 6 Nov 2026.
 
 Pharah is an industrial and techno artist based in Portugal, with 8 gigs on soundcheck across Lisbon. Often billed alongside MakeCatBleed, shoutz and Arzan. Next up: Kømplex Lisbon, Lisbon on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Pharah is an industrial and techno artist based in Portugal, with 8 gigs on soun
 
 MakeCatBleed, shoutz, Arzan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pharah/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pharah/)*

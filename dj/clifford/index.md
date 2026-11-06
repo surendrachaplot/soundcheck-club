@@ -1,6 +1,6 @@
 # Clifford
 
-Clifford is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 11 Dec 2026.
+Clifford is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Oxford Art Factory, Sydney on Fri, 11 Dec 2026.
 
 Clifford is a house and bass artist based in United Kingdom, with 17 gigs on soundcheck across Düsseldorf, London, Manchester and Melbourne and 1 more. Often billed alongside Arundel, Deens and Duzi. Next up: Oxford Art Factory, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Clifford is a house and bass artist based in United Kingdom, with 17 gigs on sou
 
 Arundel, Deens, Duzi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clifford/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clifford/)*

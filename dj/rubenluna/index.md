@@ -1,6 +1,6 @@
 # Ruben Luna
 
-Ruben Luna is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at X Private Club, Madrid on Fri, 6 Nov 2026.
+Ruben Luna is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at X Private Club, Madrid on Fri, 6 Nov 2026.
 
 Ruben Luna is a tech house and house artist based in Spain, with 16 gigs on soundcheck across Madrid. Often billed alongside Fran Lobato, Julio Machicado and Aaron Martin. Next up: X Private Club, Madrid on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Ruben Luna is a tech house and house artist based in Spain, with 16 gigs on soun
 
 Fran Lobato, Julio Machicado, Aaron Martin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenluna/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rubenluna/)*

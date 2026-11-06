@@ -1,6 +1,6 @@
 # SYMБИОЗА with Machinedrum at Купе / Kupe
 
-SYMБИОЗА with Machinedrum at Купе / Kupe on Thu 4 Feb, Sofia. 2 artists: Machinedrum and Soulnd. See the line-up on soundcheck.
+SYMБИОЗА with Machinedrum at Купе / Kupe on Thu 4 Feb, Sofia. 2 artists: Machinedrum and Soulnd. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nikitaurech
 
-Nikitaurech is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Elsewhere, New York City on Fri, 6 Nov 2026.
+Nikitaurech is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Elsewhere, New York City on Fri, 6 Nov 2026.
 
 Nikitaurech is a techno and industrial artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Firebunny, Moment of Terror and MyCube. Next up: Elsewhere, New York City on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Nikitaurech is a techno and industrial artist based in United States of America,
 
 Firebunny, Moment of Terror, MyCube
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitaurech/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nikitaurech/)*

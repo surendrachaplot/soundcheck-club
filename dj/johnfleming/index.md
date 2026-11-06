@@ -1,6 +1,6 @@
 # John '00' Fleming
 
-John '00' Fleming is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Vancouver on Sat, 28 Nov 2026.
+John '00' Fleming is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Vancouver on Sat, 28 Nov 2026.
 
 John '00' Fleming is a trance and techno artist based in United Kingdom, with 43 gigs on soundcheck across Auckland, Birmingham, Brighton and Bristol and 19 more. Often billed alongside Paul Van Dyk, Aly & Fila and Alex M.O.R.P.H.. Next up: TBA, Vancouver on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ John '00' Fleming is a trance and techno artist based in United Kingdom, with 43
 
 Paul Van Dyk, Aly & Fila, Alex M.O.R.P.H.
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfleming/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johnfleming/)*

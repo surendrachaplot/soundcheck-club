@@ -1,6 +1,6 @@
 # PRZ
 
-PRZ is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at radial, London on Fri, 18 Dec 2026.
+PRZ is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at radial, London on Fri, 18 Dec 2026.
 
 PRZ is an electro and italo disco artist, with 34 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside Koloah, Luke Eargoggle and AXT. Next up: radial, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ PRZ is an electro and italo disco artist, with 34 gigs on soundcheck across Amst
 
 Koloah, Luke Eargoggle, AXT
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prz-1/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prz-1/)*

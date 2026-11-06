@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Parque de la Exposición, Peru on Sun, 8 Nov 2026.
+Seth Troxler is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Parque de la Exposición, Peru on Sun, 8 Nov 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, with 353 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 65 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: Parque de la Exposición, Peru on Sun 8 Nov.
+Seth Troxler is a house and techno artist based in United States of America, with 354 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 65 more. Often billed alongside DJ Tennis, Chloé Caillet and Sossa. Next up: Parque de la Exposición, Peru on Sun 8 Nov.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 | Fri, 11 Dec 2026 | Mint XL | Leeds |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
 | Tue, 29 Dec 2026 | Du Port El Gouna | Egypt |
-| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
+| Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Seth Troxler is a house and techno artist based in United States of America, wit
 
 DJ Tennis, Chloé Caillet, Sossa
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sethtroxler/)*

@@ -1,6 +1,6 @@
 # Hot Hudson
 
-Hot Hudson is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 7 Nov 2026.
+Hot Hudson is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 7 Nov 2026.
 
 Hot Hudson is a techno and reggaeton artist based in Mexico, with 42 gigs on soundcheck across Mexico City. Often billed alongside Enya Botello, IRONBOARD and Deenia. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hot Hudson is a techno and reggaeton artist based in Mexico, with 42 gigs on sou
 
 Enya Botello, IRONBOARD, Deenia
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hothudson/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hothudson/)*

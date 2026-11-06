@@ -1,8 +1,8 @@
 # Moniura420
 
-Moniura420 is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 13 Nov 2026.
+Moniura420 is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 13 Nov 2026.
 
-Moniura420 is a latin bass and bass artist, with 9 gigs on soundcheck across Warsaw. Often billed alongside Kitty Sarcasm, Vicky Nasty and Agata (PL). Next up: Hydrozagadka, Warsaw on Fri 13 Nov.
+Moniura420 is a latin bass and bass artist based in Poland, with 9 gigs on soundcheck across Warsaw. Often billed alongside Kitty Sarcasm, Vicky Nasty and Agata (PL). Next up: Hydrozagadka, Warsaw on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Moniura420 is a latin bass and bass artist, with 9 gigs on soundcheck across War
 
 Kitty Sarcasm, Vicky Nasty, Agata (PL)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moniura420/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moniura420/)*

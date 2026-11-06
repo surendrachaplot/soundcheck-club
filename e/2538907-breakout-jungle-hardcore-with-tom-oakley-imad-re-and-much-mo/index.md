@@ -1,6 +1,6 @@
 # Breakout: Jungle, Hardcore with Tom Oakley, imad:re and much more at Off The Square
 
-Breakout: Jungle, Hardcore with Tom Oakley, imad:re and much more at Off The Square on Thu 19 Nov, Manchester. 3 artists: imad:re, stef the dj and Tom Oakley. Bass and Jungle. See the line-up on soundcheck.
+Breakout: Jungle, Hardcore with Tom Oakley, imad:re and much more at Off The Square on Thu 19 Nov, Manchester. 5 artists: Igg ee, imad:re, Ryan Brooks and stef the dj and 1 more. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,9 @@ Breakout: Jungle, Hardcore with Tom Oakley, imad:re and much more at Off The Squ
 
 ## Line-up
 
+- Igg ee
 - imad:re
+- Ryan Brooks
 - stef the dj
 - Tom Oakley
 

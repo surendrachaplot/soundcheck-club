@@ -1,6 +1,6 @@
 # Biagio Sibilla
 
-Biagio Sibilla is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Pracht, Frankfurt on Thu, 12 Nov 2026.
+Biagio Sibilla is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Pracht, Frankfurt on Thu, 12 Nov 2026.
 
 Biagio Sibilla is a tech house and techno artist based in Germany, with 48 gigs on soundcheck across Berlin and Frankfurt. Often billed alongside Another Life, Patrik Berg and CAY. Next up: Pracht, Frankfurt on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Biagio Sibilla is a tech house and techno artist based in Germany, with 48 gigs 
 
 Another Life, Patrik Berg, CAY (1)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biagiosibilla/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/biagiosibilla/)*

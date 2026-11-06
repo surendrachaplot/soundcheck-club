@@ -1,6 +1,6 @@
 # Barbara Preisinger
 
-Barbara Preisinger is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Loft 14, Montreal on Sat, 14 Nov 2026.
+Barbara Preisinger is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Loft 14, Montreal on Sat, 14 Nov 2026.
 
 Barbara Preisinger is a house and techno artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 16 more. Often billed alongside Foehn & Jerome, Alexander Skancke and Zip. Next up: Loft 14, Montreal on Sat 14 Nov.
 
@@ -31,4 +31,4 @@ Barbara Preisinger is a house and techno artist based in Germany, with 70 gigs o
 
 Foehn & Jerome, Alexander Skancke, Zip
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapreisinger/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbarapreisinger/)*

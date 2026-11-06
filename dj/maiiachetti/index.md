@@ -1,6 +1,6 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Mai iachetti is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Mai iachetti is a house and tech house artist based in United States of America, with 140 gigs on soundcheck across Atlanta, Boston, Buenos Aires and Chicago and 12 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Mai iachetti is a house and tech house artist based in United States of America,
 
 Danyelino, Ms. Mada, Natalia Roth
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*

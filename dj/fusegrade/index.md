@@ -1,6 +1,6 @@
 # Fusegrade
 
-Fusegrade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Spkrbox, Detroit on Fri, 6 Nov 2026.
+Fusegrade is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Spkrbox, Detroit on Fri, 6 Nov 2026.
 
 Fusegrade is a techno and house artist based in United States of America, with 58 gigs on soundcheck across Baltimore and Detroit. Often billed alongside Jorissen, James and Andrea Ghita. Next up: Spkrbox, Detroit on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Fusegrade is a techno and house artist based in United States of America, with 5
 
 Jorissen, James (6), Andrea Ghita
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fusegrade/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fusegrade/)*

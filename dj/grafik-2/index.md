@@ -1,6 +1,6 @@
 # Grafik (2)
 
-Grafik (2) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 12 Dec 2026.
+Grafik (2) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Ankali & Planeta Za, Prague on Sat, 12 Dec 2026.
 
 Grafik is a techno and dub techno artist based in Czech Republic, with 19 gigs on soundcheck across Prague. Often billed alongside Efectiv, anthró and Scannt. Next up: Ankali & Planeta Za, Prague on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Grafik is a techno and dub techno artist based in Czech Republic, with 19 gigs o
 
 Efectiv, anthró, Scannt
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grafik-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grafik-2/)*

@@ -1,6 +1,6 @@
 # HARUNA (2)
 
-HARUNA (2) is a Afro House and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri, 6 Nov 2026.
+HARUNA (2) is a Afro House and Afrobeats artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri, 6 Nov 2026.
 
 HARUNA is an afro house and afrobeats artist, with 36 gigs on soundcheck across Amsterdam, Barcelona, London and Paris and 2 more. Often billed alongside ZEE-2, JVINCENT and Sham Steele. Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ HARUNA is an afro house and afrobeats artist, with 36 gigs on soundcheck across 
 
 ZEE-2, JVINCENT, Sham Steele
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/haruna-2/)*

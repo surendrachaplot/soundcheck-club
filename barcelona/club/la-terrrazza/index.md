@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "[CANCELLED] Jackies Barcelona - Louie Vega" on Fri, 6 Nov 2026.
+La Terrrazza is a music venue in Barcelona with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "[CANCELLED] Jackies Barcelona - Louie Vega" on Fri, 6 Nov 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs, with line-ups including Bassel Darwish, DJ AMAZING, Lexlay and Louie Vega and 2 more. See dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -18,4 +18,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 5 upcoming gigs
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

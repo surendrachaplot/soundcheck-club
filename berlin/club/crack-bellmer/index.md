@@ -1,15 +1,14 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 4 Nov 2026.
+Crack Bellmer is a music venue in Berlin with 24 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "OPEN DECKS FOR FLINTA* PING PONG FOR ALL" on Wed, 4 Nov 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including 2727, 80HDJ, anna andersrum and Aphty Khéa and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 24 upcoming gigs, with line-ups including 2727, 80HDJ, Aphty Khéa and ARMANDO and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 4 Nov 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
-| Thu, 5 Nov 2026 | MACHINE LEARNING: residents + friends [free entry until 22:00!] | CCTV, DATA RYDER, Leba, Linnea Mae, anna andersrum |
 | Fri, 6 Nov 2026 | GÜAYOTA X NOFUTURE | Juana Valeria, Paulawar, Zoran, bad.dnny |
 | Fri, 6 Nov 2026 | GÜAYOTA X NOFUTURE | Juana Valeria, Paulawar, Zoran, bad.dnny |
 | Sat, 7 Nov 2026 | streamlines | Jona Sorger, PAUNA, Younes Jamil |
@@ -18,9 +17,10 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 24 upcoming gigs,
 | Fri, 13 Nov 2026 | LOGIA Label Night | Daniel Ö, De:Vir, Molly Lollen, NOHAR, NYCTO, PE JORA $$$, SAAMO |
 | Sat, 14 Nov 2026 | SPEAK UP Inline x Stories of Her with X Tin, degen, Ôneyra, Linda shiro & many more | Linda shiro, Rovin, UniKhatu, X Tin, degen, pink-panther, Ôneyra |
 | Sun, 15 Nov 2026 | ESTRO with ARMANDO, GEISTFREI, Origami, Söfia Kuz | ARMANDO, GEISTFREI, Origami, Söfia Kuz |
+| Wed, 18 Nov 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
 
 ## Address
 
 Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/crack-bellmer/)*

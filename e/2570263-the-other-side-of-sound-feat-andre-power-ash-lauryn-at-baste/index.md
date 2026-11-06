@@ -1,6 +1,6 @@
 # THE OTHER SIDE OF SOUND feat. Andre Power & Ash Lauryn at Bastet
 
-THE OTHER SIDE OF SOUND feat. Andre Power & Ash Lauryn at Bastet on Sat 28 Nov, Philadelphia. 4 artists: Andre Power, Ash Lauryn, DJ Dommis and KINGSPY. House. See the line-up on soundcheck.
+THE OTHER SIDE OF SOUND feat. Andre Power & Ash Lauryn at Bastet on Sat 28 Nov, Philadelphia. 4 artists: Andre Power, Ash Lauryn, DJ Dommis and KINGSPY. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

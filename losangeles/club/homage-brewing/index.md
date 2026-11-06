@@ -1,6 +1,6 @@
 # Homage Brewing
 
-Homage Brewing is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Darone Sassounian & Lara Sarkissian" on Fri, 6 Nov 2026.
+Homage Brewing is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Darone Sassounian & Lara Sarkissian" on Fri, 6 Nov 2026.
 
 Homage Brewing is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Darone Sassounian and Lara Sarkissian. See dates, start times and who's playing. 1219 N Main St, Los Angeles, CA 90012.
 
@@ -15,4 +15,4 @@ Homage Brewing is a music venue in Los Angeles listed on soundcheck. 2 upcoming 
 
 1219 N Main St, Los Angeles, CA 90012, Los Angeles
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/homage-brewing/)*

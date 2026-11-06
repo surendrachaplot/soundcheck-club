@@ -1,6 +1,6 @@
 # Volkoder
 
-Volkoder is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 6 Nov 2026.
+Volkoder is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 6 Nov 2026.
 
 Volkoder is a house and tech house artist based in Brazil, with 26 gigs on soundcheck across Amsterdam, Austin, Belgrade and Budapest and 12 more. Often billed alongside CamelPhat, KI/KI and Mahmut Orhan. Next up: The Chocolate Factory, New York City on Fri 6 Nov.
 
@@ -31,4 +31,4 @@ Volkoder is a house and tech house artist based in Brazil, with 26 gigs on sound
 
 CamelPhat, KI/KI, Mahmut Orhan
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/volkoder-br/)*

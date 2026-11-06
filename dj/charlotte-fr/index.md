@@ -1,6 +1,6 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mad Radio Medellín, Medellin on Fri, 6 Nov 2026.
+Charlotte (FR) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mad Radio Medellín, Medellin on Fri, 6 Nov 2026.
 
 Charlotte (FR) is a house and techno artist based in France, with 103 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 28 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: Mad Radio Medellín, Medellin on Fri 6 Nov.
 
@@ -28,4 +28,4 @@ Charlotte (FR) is a house and techno artist based in France, with 103 gigs on so
 
 tINI, ABI (FR), AMEX (UK)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotte-fr/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/charlotte-fr/)*

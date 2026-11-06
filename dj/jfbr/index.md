@@ -1,6 +1,6 @@
 # JF (BR)
 
-JF (BR) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - R. do Senado, 46 - 48 - Centro, Rio de Janeiro - RJ, 20231-006, Rio de Janeiro on Fri, 6 Nov 2026.
+JF (BR) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - R. do Senado, 46 - 48 - Centro, Rio de Janeiro - RJ, 20231-006, Rio de Janeiro on Fri, 6 Nov 2026.
 
 JF (BR) is a house and disco artist based in Brazil, with 22 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Capetini, Suze Ijó and Bida Sarô. Next up: TBA - R. do Senado, 46 - 48 - Centro, Rio de Janeiro - RJ, 20231-006, Rio de Janeiro on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ JF (BR) is a house and disco artist based in Brazil, with 22 gigs on soundcheck 
 
 Capetini, Suze Ijó, Bida Sarô
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfbr/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jfbr/)*

@@ -1,6 +1,6 @@
 # THANILA
 
-THANILA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Core, Madrid on Fri, 6 Nov 2026.
+THANILA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Core, Madrid on Fri, 6 Nov 2026.
 
 THANILA is a techno and house artist based in Spain, with 23 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Madrid and 1 more. Often billed alongside SANTANA, Drazzit and Suresh. Next up: Core, Madrid on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ THANILA is a techno and house artist based in Spain, with 23 gigs on soundcheck 
 
 SANTANA, Drazzit, Suresh
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanila/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thanila/)*

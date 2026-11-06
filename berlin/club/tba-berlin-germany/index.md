@@ -1,6 +1,6 @@
 # TBA - Berlin, Germany
 
-TBA - Berlin, Germany is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "KERNWERK — CONCRETE NEVER SLEEPS" on Sun, 8 Nov 2026.
+TBA - Berlin, Germany is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "KERNWERK — CONCRETE NEVER SLEEPS" on Sun, 8 Nov 2026.
 
 TBA - Berlin, Germany is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Berlin, Germany is a music venue in Berlin listed on soundcheck. 1 upcomin
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | KERNWERK — CONCRETE NEVER SLEEPS |  |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-berlin-germany/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-berlin-germany/)*

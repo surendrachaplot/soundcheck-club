@@ -1,6 +1,6 @@
 # Safiye
 
-Safiye is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at The Loco Klub, Bristol on Fri, 4 Dec 2026.
+Safiye is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Loco Klub, Bristol on Fri, 4 Dec 2026.
 
 Safiye is a house and disco artist based in United Kingdom, with 52 gigs on soundcheck across Bristol, Bucharest, Cardiff and Ibiza and 3 more. Often billed alongside SPICYIVY, Burly Chassis and Brad Bradley. Next up: The Loco Klub, Bristol on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Safiye is a house and disco artist based in United Kingdom, with 52 gigs on soun
 
 SPICYIVY, Burly Chassis, Brad Bradley
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safiye/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safiye/)*

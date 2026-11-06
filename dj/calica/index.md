@@ -1,6 +1,6 @@
 # Calicá
 
-Calicá is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Nest, Basel on Fri, 13 Nov 2026.
+Calicá is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nest, Basel on Fri, 13 Nov 2026.
 
 Calicá is a techno and breakbeat artist, with 10 gigs on soundcheck across Basel, Lausanne, Leipzig and Zurich. Often billed alongside Hermeth, Rogian and *Tia*. Next up: Nest, Basel on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Calicá is a techno and breakbeat artist, with 10 gigs on soundcheck across Base
 
 Hermeth, Rogian, *Tia*
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calica/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calica/)*

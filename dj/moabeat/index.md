@@ -1,6 +1,6 @@
 # MØABEAT
 
-MØABEAT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Der Weiße Hase, Berlin on Thu, 12 Nov 2026.
+MØABEAT is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Der Weiße Hase, Berlin on Thu, 12 Nov 2026.
 
 MØABEAT is a techno and trance artist based in Germany, with 57 gigs on soundcheck across Berlin. Often billed alongside L X S, Popsen and DaSoMaZo. Next up: Der Weiße Hase, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ MØABEAT is a techno and trance artist based in Germany, with 57 gigs on soundch
 
 L X S, Popsen, DaSoMaZo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moabeat/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moabeat/)*

@@ -1,6 +1,6 @@
 # LPV
 
-LPV is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Atlanta on Sat, 14 Nov 2026.
+LPV is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Atlanta on Sat, 14 Nov 2026.
 
 LPV is a techno and trance artist based in Italy, with 24 gigs on soundcheck across Athens, Atlanta, Bergen and Berlin and 10 more. Often billed alongside Lars Huismann, Audrey Danza and FENIM0RE. Next up: TBA, Atlanta on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ LPV is a techno and trance artist based in Italy, with 24 gigs on soundcheck acr
 
 Lars Huismann, Audrey Danza, FENIM0RE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lpv/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lpv/)*

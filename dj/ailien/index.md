@@ -1,6 +1,6 @@
 # AiLien
 
-AiLien is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Unmute, Hanoi on Fri, 27 Nov 2026.
+AiLien is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Unmute, Hanoi on Fri, 27 Nov 2026.
 
 AiLien is a techno and house artist based in Vietnam, with 46 gigs on soundcheck across Hanoi, Ho Chi Minh City and Munich. Often billed alongside Marco Yanes, TaoFu and Canicule. Next up: Unmute, Hanoi on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ AiLien is a techno and house artist based in Vietnam, with 46 gigs on soundcheck
 
 Marco Yanes, TaoFu, Canicule
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ailien/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ailien/)*

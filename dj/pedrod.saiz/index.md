@@ -1,14 +1,15 @@
 # Pedro D. Saiz
 
-Pedro D. Saiz is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 6 Nov 2026.
+Pedro D. Saiz is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Salon des Amateurs, Düsseldorf on Fri, 6 Nov 2026.
 
-Pedro D. Saiz is an electronica and experimental artist based in Spain, with 23 gigs on soundcheck across Barcelona, Düsseldorf, Kyoto and Madrid and 3 more. Often billed alongside Dichas, Bianca Lexis and 3rill. Next up: Salon des Amateurs, Düsseldorf on Fri 6 Nov.
+Pedro D. Saiz is an electronica and experimental artist based in Spain, with 24 gigs on soundcheck across Barcelona, Düsseldorf, Kyoto and Madrid and 3 more. Often billed alongside Dichas, Bianca Lexis and 3rill. Next up: Salon des Amateurs, Düsseldorf on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Salon des Amateurs | Düsseldorf |
+| Sat, 14 Nov 2026 | Acme Estudio | Madrid |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Pedro D. Saiz is an electronica and experimental artist based in Spain, with 23 
 
 Dichas, Bianca Lexis, 3rill
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrod.saiz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pedrod.saiz/)*

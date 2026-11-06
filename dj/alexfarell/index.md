@@ -1,6 +1,6 @@
 # Alex Farell
 
-Alex Farell is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Elsewhere, New York City on Fri, 6 Nov 2026.
+Alex Farell is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Elsewhere, New York City on Fri, 6 Nov 2026.
 
 Alex Farell is a techno and trance artist based in United Kingdom, with 131 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 44 more. Often billed alongside SIKOTI, Azyr and Faster Horses. Next up: Elsewhere, New York City on Fri 6 Nov.
 
@@ -33,4 +33,4 @@ Alex Farell is a techno and trance artist based in United Kingdom, with 131 gigs
 
 SIKOTI, Azyr, Faster Horses
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*

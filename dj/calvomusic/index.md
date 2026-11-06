@@ -1,6 +1,6 @@
 # CalvoMusic
 
-CalvoMusic is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
+CalvoMusic is a Club and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at M.O.T, London on Thu, 12 Nov 2026.
 
 CalvoMusic is a club and house artist based in United States of America, with 49 gigs on soundcheck across Baltimore, Berlin, Cape Town and Chicago and 5 more. Often billed alongside Kade Young, DJ-SUN and Tah. Next up: M.O.T, London on Thu 12 Nov.
 
@@ -27,4 +27,4 @@ CalvoMusic is a club and house artist based in United States of America, with 49
 
 Kade Young, DJ-SUN, Tah (1)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calvomusic/)*

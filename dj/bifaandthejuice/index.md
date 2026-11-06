@@ -1,6 +1,6 @@
 # Bifa and The Juice
 
-Bifa and The Juice is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Brillo, London on Fri, 13 Nov 2026.
+Bifa and The Juice is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Brillo, London on Fri, 13 Nov 2026.
 
 Bifa and The Juice are an electro and italo disco duo based in United Kingdom, with 38 gigs on soundcheck across Brighton, Edinburgh, London and Medellin. Often billed alongside Danandout, Rob Mello and Andrew Kay. Next up: Brillo, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Bifa and The Juice are an electro and italo disco duo based in United Kingdom, w
 
 Danandout, Rob Mello, Andrew Kay
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bifaandthejuice/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bifaandthejuice/)*

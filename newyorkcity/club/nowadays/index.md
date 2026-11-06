@@ -1,8 +1,8 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Binh All Night" on Fri, 6 Nov 2026.
+Nowadays is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Binh All Night" on Fri, 6 Nov 2026.
 
-Nowadays is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including AceMo, adobeprincess, Ali Coleman and Alima Lee and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in New York City listed on soundcheck. 30 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 15 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

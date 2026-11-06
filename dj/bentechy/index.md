@@ -1,6 +1,6 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 6 Nov 2026.
+Ben Techy is a Techno and Industrial artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 6 Nov 2026.
 
 Ben Techy is a techno and industrial artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Raxeller, SANTØS and Vendex. Next up: Lehmann Club, Stuttgart on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Ben Techy is a techno and industrial artist based in United Kingdom, with 60 gig
 
 Raxeller, SANTØS, Vendex
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

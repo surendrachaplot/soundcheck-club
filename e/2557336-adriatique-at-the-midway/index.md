@@ -1,6 +1,6 @@
 # Adriatique at The Midway
 
-Adriatique at The Midway on Fri 6 Nov, San Francisco/Oakland. 2 artists: Adriatique and Fahlberg. Techno and House. See the line-up on soundcheck.
+Adriatique at The Midway on Fri 6 Nov, San Francisco/Oakland. 3 artists: Adriatique, Emanate and Fahlberg. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Adriatique at The Midway on Fri 6 Nov, San Francisco/Oakland. 2 artists: Adriati
 ## Line-up
 
 - Adriatique
+- Emanate
 - Fahlberg
 
 *Source: [soundcheck](https://soundcheck.club/e/2557336-adriatique-at-the-midway/)*

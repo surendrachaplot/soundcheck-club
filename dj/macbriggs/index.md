@@ -1,14 +1,14 @@
 # Mac Briggs
 
-Mac Briggs is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Secret Location, New York City on Fri, 6 Nov 2026.
+Mac Briggs is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 303 Ten Eyck St., New York City on Fri, 6 Nov 2026.
 
-Mac Briggs is a house and tech house artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Erin Page, RICCI (US) and Armii1n. Next up: TBA - Secret Location, New York City on Fri 6 Nov.
+Mac Briggs is a house and tech house artist based in United States of America, with 9 gigs on soundcheck across New York City. Often billed alongside Erin Page, RICCI (US) and Armii1n. Next up: 303 Ten Eyck St., New York City on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Secret Location | New York City |
+| Fri, 6 Nov 2026 | 303 Ten Eyck St. | New York City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Mac Briggs is a house and tech house artist based in United States of America, w
 
 Erin Page, RICCI (US), Armii1n
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macbriggs/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/macbriggs/)*

@@ -1,6 +1,6 @@
-# KUBOTA,TAKESHI at DJ Bar Bridge
+# KUBOTA,TAKESHI & ラブリーサマーちゃん at DJ Bar Bridge
 
-KUBOTA,TAKESHI at DJ Bar Bridge on Wed 25 Nov, Tokyo. House. See the line-up on soundcheck.
+KUBOTA,TAKESHI & ラブリーサマーちゃん at DJ Bar Bridge on Wed 25 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

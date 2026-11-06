@@ -1,6 +1,6 @@
 # Moonpie
 
-Moonpie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 28 Nov 2026.
+Moonpie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Moonpie is a techno and club artist based in United States of America, with 50 gigs on soundcheck across San Francisco/Oakland. Often billed alongside 40split, SOBA and Vertigo. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Moonpie is a techno and club artist based in United States of America, with 50 g
 
 40split, SOBA, Vertigo
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonpie/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moonpie/)*

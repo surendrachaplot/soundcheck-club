@@ -1,6 +1,6 @@
 # Martha Pinel
 
-Martha Pinel is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri, 6 Nov 2026.
+Martha Pinel is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri, 6 Nov 2026.
 
 Martha Pinel is a house and disco artist based in Brazil, with 65 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Lisbon and 7 more. Often billed alongside Paco Cabana, Pino Henrique Pedra and Kapote. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Martha Pinel is a house and disco artist based in Brazil, with 65 gigs on soundc
 
 Paco Cabana, Pino Henrique Pedra, Kapote
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marthapinel/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marthapinel/)*

@@ -1,13 +1,14 @@
 # Naomi (1)
 
-Naomi (1) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Doka, Amsterdam on Sat, 14 Nov 2026.
+Naomi (1) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FVTVR, Paris on Tue, 10 Nov 2026.
 
-Naomi is a house and electro artist based in Portugal, with 13 gigs on soundcheck across Amsterdam, Berlin, Budapest and Ghent and 5 more. Often billed alongside Dj Heartbreak, Naomi (Berlin) and 2 Girls 1 Club. Next up: Doka, Amsterdam on Sat 14 Nov.
+Naomi is a house and electro artist based in Portugal, with 14 gigs on soundcheck across Amsterdam, Berlin, Budapest and Ghent and 5 more. Often billed alongside Dj Heartbreak, Naomi (Berlin) and 2 Girls 1 Club. Next up: FVTVR, Paris on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 10 Nov 2026 | FVTVR | Paris |
 | Sat, 14 Nov 2026 | Doka | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Naomi is a house and electro artist based in Portugal, with 13 gigs on soundchec
 
 Dj Heartbreak, Naomi (Berlin), 2 Girls 1 Club
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-1/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naomi-1/)*

@@ -1,8 +1,8 @@
 # EKIN
 
-EKIN is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Halle6, Munich on Sat, 28 Nov 2026.
+EKIN is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Halle6, Munich on Sat, 28 Nov 2026.
 
-EKIN is a house and experimental artist, with 14 gigs on soundcheck across Berlin and Munich. Often billed alongside Osman Emre, antyo and Terzenbreaker. Next up: Halle6, Munich on Sat 28 Nov.
+EKIN is a house and experimental artist based in Germany, with 14 gigs on soundcheck across Berlin and Munich. Often billed alongside Osman Emre, antyo and Terzenbreaker. Next up: Halle6, Munich on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ EKIN is a house and experimental artist, with 14 gigs on soundcheck across Berli
 
 Osman Emre, antyo, Terzenbreaker
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ekin/)*

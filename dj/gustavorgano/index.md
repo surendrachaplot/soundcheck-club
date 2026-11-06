@@ -1,6 +1,6 @@
 # Gustav Ørgano
 
-Gustav Ørgano is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Graf Karl, Kassel on Sat, 7 Nov 2026.
+Gustav Ørgano is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Graf Karl, Kassel on Sat, 7 Nov 2026.
 
 Gustav Ørgano is a techno and trance artist based in Germany, with 21 gigs on soundcheck across Cologne, Dortmund / Essen, Hannover and Karlsruhe and 4 more. Often billed alongside DVAID, Johannes Schuster and Pechschwarz. Next up: Graf Karl, Kassel on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Gustav Ørgano is a techno and trance artist based in Germany, with 21 gigs on s
 
 DVAID, Johannes Schuster, Pechschwarz
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavorgano/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavorgano/)*

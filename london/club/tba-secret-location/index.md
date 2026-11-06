@@ -1,6 +1,6 @@
 # TBA - secret location
 
-TBA - secret location is a music venue in London with 58 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "(Re)Candor II: Where Souls Meet" on Fri, 6 Nov 2026.
+TBA - secret location is a music venue in London with 58 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "(Re)Candor II: Where Souls Meet" on Fri, 6 Nov 2026.
 
 TBA - secret location is a music venue in London listed on soundcheck. 58 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
 
@@ -11,12 +11,12 @@ TBA - secret location is a music venue in London listed on soundcheck. 58 upcomi
 | Fri, 6 Nov 2026 | (Re)Candor II: Where Souls Meet | Amnati, MALAGÜERA, Rocotito, TAUBE, elva |
 | Fri, 6 Nov 2026 | **shmani** Album Release Party | LVL (CAN) |
 | Fri, 6 Nov 2026 | HardSleeper - 硬卧 | DotDash, INVERNO, Mithril, nixmoon |
-| Fri, 6 Nov 2026 | HOTWIRE: Ford Scott & Friends | Erin Page, Ford Scott, Jeny Michelle, Mac Briggs, RICCI (US), shanty mane |
 | Sat, 7 Nov 2026 | Primogemito: Divine Inspiration | CSCX, DJ TEETH, Minimal Larsen |
 | Sat, 7 Nov 2026 | Amandava - somewhere en el campo | Kyle Toole, ROMO (2) |
 | Sat, 7 Nov 2026 | Sojourn presents: Shvili (all night long) | Shvili |
 | Sat, 7 Nov 2026 | Introspect'n - Scorpio Szn | Bajjio, DeRizzio, HAIG, Moonz |
 | Sat, 7 Nov 2026 | Techno.abyss: Shanda Invites | AngeliKa, Cortecx, Finsent C, La Rose (2), Shanda, The Heman, VSLORIA |
 | Thu, 12 Nov 2026 | zumzumbaile | Mauricio Fleury |
+| Fri, 13 Nov 2026 | 10 Years of Easy People |  |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

@@ -1,6 +1,6 @@
 # ECHO 5 at Upper East
 
-ECHO 5 at Upper East on Sat 28 Nov, London. 6 artists: Dimanté, Erly Tepshi, Folek and MARIUS SEBASTIAN and 2 more. Techno and Minimal Techno. See the line-up on soundcheck.
+ECHO 5 at Upper East on Sat 28 Nov, London. 7 artists: Dimanté, Erly Tepshi, Folek and Karolkode and 3 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ ECHO 5 at Upper East on Sat 28 Nov, London. 6 artists: Dimanté, Erly Tepshi, Fo
 - Dimanté
 - Erly Tepshi
 - Folek
+- Karolkode
 - MARIUS SEBASTIAN
 - SCYLLA
 - TAGAPO

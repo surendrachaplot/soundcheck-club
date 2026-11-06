@@ -1,14 +1,13 @@
 # Secret Location
 
-Secret Location is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "BACKROOMsound" on Thu, 5 Nov 2026.
+Secret Location is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Opal Sunn Live (Alex Kassian & Hiroaki OBA) w/ ddwy & Tom VR" on Sat, 14 Nov 2026.
 
-Secret Location is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Adela, Alex Kassian, Benny Bysouth and Bluer and 2 more. See dates, start times and who's playing. To Be Announced.
+Secret Location is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Adela, Alex Kassian, Benny Bysouth and Bluer and 2 more. See dates, start times and who's playing. To Be Announced.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | BACKROOMsound | Growthrings |
 | Sat, 14 Nov 2026 | Opal Sunn Live (Alex Kassian & Hiroaki OBA) w/ ddwy & Tom VR | Alex Kassian, Hiroaki OBA, Opal Sunn, Tom VR, ddwy |
 | Sat, 14 Nov 2026 | SKANK |  |
 | Sun, 15 Nov 2026 | Eris Drew & Octo Octa (4HR Set) | Eris Drew, Octo Octa |
@@ -23,4 +22,4 @@ Secret Location is a music venue in London listed on soundcheck. 10 upcoming gig
 
 To Be Announced, London
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/secret-location/)*

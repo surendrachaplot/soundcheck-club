@@ -1,8 +1,8 @@
 # Jamie Fielding
 
-Jamie Fielding is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at block., Dublin on Sat, 7 Nov 2026.
+Jamie Fielding is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at block., Dublin on Sat, 7 Nov 2026.
 
-Jamie Fielding is a house and tech house artist based in United Kingdom, with 74 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 16 more. Often billed alongside Marsolo, Niteplan and Job de Jong. Next up: block., Dublin on Sat 7 Nov.
+Jamie Fielding is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 16 more. Often billed alongside Marsolo, Niteplan and Benji King. Next up: block., Dublin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 74
 | Sat, 5 Dec 2026 | The Cambridge Junction | South-east |
 | Sun, 13 Dec 2026 | Sub Club | Glasgow |
 | Mon, 14 Dec 2026 | Sub Club | Glasgow |
+| Fri, 1 Jan 2027 | OVO Arena Wembley | London |
 
 ## Recently played
 
@@ -30,6 +31,6 @@ Jamie Fielding is a house and tech house artist based in United Kingdom, with 74
 
 ## Shares bills with
 
-Marsolo, Niteplan, Job de Jong
+Marsolo, Niteplan, Benji King
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiefielding/)*

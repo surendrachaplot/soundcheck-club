@@ -1,6 +1,6 @@
 # Duty Free #6 at The Model
 
-Duty Free #6 at The Model on Fri 4 Dec, Nottingham. Trance and Tech House. See the line-up on soundcheck.
+Duty Free #6 at The Model on Fri 4 Dec, Nottingham. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

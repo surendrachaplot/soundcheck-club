@@ -1,6 +1,6 @@
 # OMAAR
 
-OMAAR is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Mexico City on Fri, 6 Nov 2026.
+OMAAR is a Bass and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Mexico City on Fri, 6 Nov 2026.
 
 OMAAR is a bass and drum & bass artist based in Mexico, with 27 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Crjs, Aria (MX) and Carm1na. Next up: TBA, Mexico City on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ OMAAR is a bass and drum & bass artist based in Mexico, with 27 gigs on soundche
 
 Crjs, Aria (MX), Carm1na
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omaar-mx/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omaar-mx/)*

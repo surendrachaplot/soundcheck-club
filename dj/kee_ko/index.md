@@ -1,6 +1,6 @@
 # Kee_ko
 
-Kee_ko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Oven Club, Valencia on Fri, 6 Nov 2026.
+Kee_ko is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Oven Club, Valencia on Fri, 6 Nov 2026.
 
 Kee_ko is a house and techno artist based in Portugal, with 188 gigs on soundcheck across Lisbon, London, Porto and Valencia. Often billed alongside Jorge Caiado, John-E and MURI. Next up: Oven Club, Valencia on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Kee_ko is a house and techno artist based in Portugal, with 188 gigs on soundche
 
 Jorge Caiado, John-E, MURI
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kee_ko/)*

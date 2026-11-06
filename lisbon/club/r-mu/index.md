@@ -1,6 +1,6 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Carpet 12 Years w/ DJ Dustin" on Fri, 6 Nov 2026.
+Rūmu is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Carpet 12 Years w/ DJ Dustin" on Fri, 6 Nov 2026.
 
 Rūmu is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with line-ups including Andrade, Bernardo Vaz, DJ Dustin and Jorge Caiado and 2 more. See dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
@@ -17,4 +17,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs, with lin
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

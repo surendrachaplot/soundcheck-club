@@ -1,14 +1,14 @@
 # Antonio Elgeta
 
-Antonio Elgeta is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA, Vancouver on Fri, 13 Nov 2026.
+Antonio Elgeta is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - East Vancouver, Vancouver on Fri, 13 Nov 2026.
 
-Antonio Elgeta is a techno and dub techno artist based in Canada, with 13 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Mark Adam, DJ Hannah and AWood. Next up: TBA, Vancouver on Fri 13 Nov.
+Antonio Elgeta is a techno and dub techno artist based in Canada, with 13 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Mark Adam, DJ Hannah and AWood. Next up: TBA - East Vancouver, Vancouver on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA | Vancouver |
+| Fri, 13 Nov 2026 | TBA - East Vancouver | Vancouver |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Antonio Elgeta is a techno and dub techno artist based in Canada, with 13 gigs o
 
 Mark Adam, DJ Hannah, AWood
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonioelgeta/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonioelgeta/)*

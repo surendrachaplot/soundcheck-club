@@ -1,6 +1,6 @@
-# BASS FACE // DNB, HOUSE:TECHNO, DISCO, UKG // E1 BOILER ROOM SPECIAL! LAST FREE TICKETS at E1
+# Bass Face // DNB, HOUSE:TECHNO, DISCO, UKG // E1 BOILER ROOM SPECIAL! Last Free Tickets at E1
 
-BASS FACE // DNB, HOUSE:TECHNO, DISCO, UKG // E1 BOILER ROOM SPECIAL! LAST FREE TICKETS on Sat 23 Jan, London. Drum & Bass and Tech House. See the line-up on soundcheck.
+Bass Face // DNB, HOUSE:TECHNO, DISCO, UKG // E1 BOILER ROOM SPECIAL! Last Free Tickets on Sat 23 Jan, London. Drum & Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

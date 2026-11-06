@@ -1,13 +1,14 @@
 # Bestrawa
 
-Bestrawa is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at MODULE, Copenhagen on Fri, 1 Jan 2027.
+Bestrawa is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tap1, Copenhagen on Fri, 4 Dec 2026.
 
-Bestrawa is a techno and trance artist based in Denmark, with 14 gigs on soundcheck across Copenhagen and New York City. Often billed alongside Kardinal Bertram, FA999 and KAMIKAZEM. Next up: MODULE, Copenhagen on Fri 1 Jan.
+Bestrawa is a techno and trance artist based in Denmark, with 15 gigs on soundcheck across Copenhagen and New York City. Often billed alongside Kardinal Bertram, DJ 2LATE and FA999. Next up: Tap1, Copenhagen on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Tap1 | Copenhagen |
 | Fri, 1 Jan 2027 | MODULE | Copenhagen |
 
 ## Recently played
@@ -23,6 +24,6 @@ Bestrawa is a techno and trance artist based in Denmark, with 14 gigs on soundch
 
 ## Shares bills with
 
-Kardinal Bertram, FA999, KAMIKAZEM
+Kardinal Bertram, DJ 2LATE, FA999
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestrawa/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bestrawa/)*

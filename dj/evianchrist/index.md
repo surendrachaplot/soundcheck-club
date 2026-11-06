@@ -1,6 +1,6 @@
 # Evian Christ
 
-Evian Christ is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Evian Christ is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
 
 Evian Christ is a trance and techno artist based in United Kingdom, with 95 gigs on soundcheck across Adelaide, Amsterdam, Athens and Bangkok and 34 more. Often billed alongside seretide, Torus and Malibu. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Evian Christ is a trance and techno artist based in United Kingdom, with 95 gigs
 
 seretide, Torus, Malibu
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/evianchrist/)*

@@ -1,6 +1,6 @@
 # KENYA20HZ
 
-KENYA20HZ is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at CC: Lado B, Rio de Janeiro on Fri, 6 Nov 2026.
+KENYA20HZ is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at CC: Lado B, Rio de Janeiro on Fri, 6 Nov 2026.
 
 KENYA20HZ is a house and techno artist based in Brazil, with 40 gigs on soundcheck across Berlin, Buenos Aires, Frankfurt and Helsinki and 7 more. Often billed alongside EVEHIVE, Tessuto and DJ DUE. Next up: CC: Lado B, Rio de Janeiro on Fri 6 Nov.
 
@@ -27,4 +27,4 @@ KENYA20HZ is a house and techno artist based in Brazil, with 40 gigs on soundche
 
 EVEHIVE, Tessuto, DJ DUE
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenya20hz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenya20hz/)*

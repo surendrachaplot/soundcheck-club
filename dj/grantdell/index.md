@@ -1,6 +1,6 @@
 # Grant Dell
 
-Grant Dell is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Grant Dell is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
 Grant Dell is a house and tech house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Boston and 13 more. Often billed alongside 3 Minds, Adam Collins and Laurence. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Grant Dell is a house and tech house artist based in United Kingdom, with 33 gig
 
 3 Minds, Adam Collins, Laurence
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/grantdell/)*

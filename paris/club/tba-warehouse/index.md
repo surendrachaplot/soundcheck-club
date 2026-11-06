@@ -1,6 +1,6 @@
 # TBA - WAREHOUSE
 
-TBA - WAREHOUSE is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "EMBRACE PARANOIA" on Sat, 7 Nov 2026.
+TBA - WAREHOUSE is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "EMBRACE PARANOIA" on Sat, 7 Nov 2026.
 
 TBA - WAREHOUSE is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including AEREA, Boss Priester, CEKTA and Dana Vicci and 2 more. See dates, start times and who's playing.
 
@@ -16,4 +16,4 @@ TBA - WAREHOUSE is a music venue in Paris listed on soundcheck. 7 upcoming gigs,
 | Wed, 25 Nov 2026 | MUSEO x Soundtech [Classified]: Warehouse Edit |  |
 | Sat, 19 Dec 2026 | Berlin Finest x Dark Hearts | Dana Vicci |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/tba-warehouse/)*

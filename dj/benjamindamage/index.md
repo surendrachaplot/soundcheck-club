@@ -1,13 +1,14 @@
 # Benjamin Damage
 
-Benjamin Damage is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Tresor.West, Dortmund / Essen on Sat, 5 Dec 2026.
+Benjamin Damage is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
-Benjamin Damage is a techno and bass artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Birmingham, Bogotá and Dortmund / Essen and 11 more. Often billed alongside Anetha, DVS1 and Lacchesi. Next up: Tresor.West, Dortmund / Essen on Sat 5 Dec.
+Benjamin Damage is a techno and house artist based in United Kingdom, with 28 gigs on soundcheck across Berlin, Birmingham, Bogotá and Dortmund / Essen and 11 more. Often billed alongside Anetha, DVS1 and Lacchesi. Next up: OXI, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | OXI | Berlin |
 | Sat, 5 Dec 2026 | Tresor.West | Dortmund / Essen |
 
 ## Recently played
@@ -25,4 +26,4 @@ Benjamin Damage is a techno and bass artist based in United Kingdom, with 27 gig
 
 Anetha, DVS1, Lacchesi
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamindamage/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjamindamage/)*

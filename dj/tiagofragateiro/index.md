@@ -1,6 +1,6 @@
 # Tiago Fragateiro
 
-Tiago Fragateiro is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Gare Porto, Porto on Sat, 14 Nov 2026.
+Tiago Fragateiro is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Gare Porto, Porto on Sat, 14 Nov 2026.
 
 Tiago Fragateiro is a techno and electronica artist based in Portugal, with 38 gigs on soundcheck across Lisbon and Porto. Often billed alongside Amulador, Yassine and Andre Cascais. Next up: Gare Porto, Porto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tiago Fragateiro is a techno and electronica artist based in Portugal, with 38 g
 
 Amulador, Yassine, Andre Cascais
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagofragateiro/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiagofragateiro/)*

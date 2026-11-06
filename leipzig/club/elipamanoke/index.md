@@ -1,6 +1,6 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "HeyCiao, Vacanza! #15" on Fri, 6 Nov 2026.
+elipamanoke is a music venue in Leipzig with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "HeyCiao, Vacanza! #15" on Fri, 6 Nov 2026.
 
 elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, with line-ups including :MUMM, Aio, AMBROXAN and BBetriebswirt and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
@@ -23,4 +23,4 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, 
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

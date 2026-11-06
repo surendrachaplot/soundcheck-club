@@ -1,6 +1,6 @@
 # Yetsuby
 
-Yetsuby is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Pistil, Seoul on Fri, 6 Nov 2026.
+Yetsuby is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pistil, Seoul on Fri, 6 Nov 2026.
 
 Yetsuby is a bass and techno artist based in South Korea, with 99 gigs on soundcheck across Beijing, Berlin, Chengdu and Hong Kong and 7 more. Often billed alongside Arexibo, KISEWA and Hyejin. Next up: Pistil, Seoul on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Yetsuby is a bass and techno artist based in South Korea, with 99 gigs on soundc
 
 Arexibo, KISEWA, Hyejin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yetsuby/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yetsuby/)*

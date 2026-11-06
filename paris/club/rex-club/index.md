@@ -1,14 +1,13 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "U.E.F.A Release party: DJ Football all night long" on Thu, 5 Nov 2026.
+Rex Club is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "BLEU MON JULES: Carla Mo, Babar, Iron Prado, Babuuh" on Fri, 6 Nov 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Antal, Avenir, Babar and DJ Football and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Abr., Antal, Avenir and Babar and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | U.E.F.A Release party: DJ Football all night long | DJ Football |
 | Fri, 6 Nov 2026 | BLEU MON JULES: Carla Mo, Babar, Iron Prado, Babuuh | Babar |
 | Sat, 7 Nov 2026 | Rex Club presents: Antal all night long | Antal |
 | Tue, 10 Nov 2026 | Rex Club presents: Gabriel Belabbas b2b Poggio all night long | Gabriel Belabbas, Poggio |
@@ -18,9 +17,10 @@ Rex Club is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with 
 | Thu, 19 Nov 2026 | Amd x Under Events Présentent: Hortense de Beauharnais ANL | Hortense de Beauharnais |
 | Fri, 20 Nov 2026 | Rex Club presents Hunee - Hunchin' all night long | Hunee |
 | Sat, 21 Nov 2026 | Rex Club presents: IAMBP all night long | IAMBP |
+| Wed, 25 Nov 2026 | Vice City presents: Myman, NTBR, Placiid | NTBR, Placiid |
 
 ## Address
 
 5 boulevard Poissonnière; 75002; Paris; France, Paris
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/rex-club/)*

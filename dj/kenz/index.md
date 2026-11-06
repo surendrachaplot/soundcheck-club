@@ -1,14 +1,15 @@
 # KENZ
 
-KENZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Fundbureau, Hamburg on Fri, 6 Nov 2026.
+KENZ is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fundbureau, Hamburg on Fri, 6 Nov 2026.
 
-KENZ is a techno and trance artist based in Germany, with 39 gigs on soundcheck across Glasgow and Hamburg. Often billed alongside SKKIN VELVET, Nina Hepburn and MKHXR. Next up: Fundbureau, Hamburg on Fri 6 Nov.
+KENZ is a techno and trance artist based in Germany, with 40 gigs on soundcheck across Glasgow and Hamburg. Often billed alongside SKKIN VELVET, Nina Hepburn and MKHXR. Next up: Fundbureau, Hamburg on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Fundbureau | Hamburg |
+| Sat, 12 Dec 2026 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ KENZ is a techno and trance artist based in Germany, with 39 gigs on soundcheck 
 
 SKKIN VELVET, Nina Hepburn, MKHXR
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenz/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenz/)*

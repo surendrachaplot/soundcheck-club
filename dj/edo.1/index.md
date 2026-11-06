@@ -1,6 +1,6 @@
 # Edo.1
 
-Edo.1 is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Katapoull, Paris on Sat, 21 Nov 2026.
+Edo.1 is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Katapoull, Paris on Sat, 21 Nov 2026.
 
 Edo.1 is a minimal and house artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, London and Paris. Often billed alongside Retrospect, Yard Customer and Adam Chapman. Next up: TBA - Katapoull, Paris on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Edo.1 is a minimal and house artist based in United Kingdom, with 20 gigs on sou
 
 Retrospect, Yard Customer, Adam Chapman
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edo.1/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edo.1/)*

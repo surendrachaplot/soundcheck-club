@@ -1,6 +1,6 @@
 # Trancecore Berlin with GIØ, Antonym, Amøn feat. Fronsi, VIVUS and FEROTONINO at Indiego Glocksee
 
-Trancecore Berlin with GIØ, Antonym, Amøn feat. Fronsi, VIVUS and FEROTONINO at Indiego Glocksee on Sat 7 Nov, Hannover. 6 artists: Amøn, Antonym, FEROTONINO and Fronsi and 2 more. Trance and Techno. See the line-up on soundcheck.
+Trancecore Berlin with GIØ, Antonym, Amøn feat. Fronsi, VIVUS and FEROTONINO at Indiego Glocksee on Sat 7 Nov, Hannover. 7 artists: Amøn, Antonym, BECCA and FEROTONINO and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Trancecore Berlin with GIØ, Antonym, Amøn feat. Fronsi, VIVUS and FEROTONINO a
 
 - Amøn
 - Antonym
+- BECCA
 - FEROTONINO
 - Fronsi
 - GIØ (1)

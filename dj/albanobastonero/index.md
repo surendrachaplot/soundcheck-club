@@ -1,6 +1,6 @@
 # Albano Bastonero
 
-Albano Bastonero is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at X Private Club, Madrid on Fri, 20 Nov 2026.
+Albano Bastonero is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at X Private Club, Madrid on Fri, 20 Nov 2026.
 
 Albano Bastonero is a progressive house and techno artist based in Argentina, with 24 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Ibiza and 2 more. Often billed alongside Tim Andresen, John Cosani and Nick Varon. Next up: X Private Club, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Albano Bastonero is a progressive house and techno artist based in Argentina, wi
 
 Tim Andresen, John Cosani, Nick Varon
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/albanobastonero/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/albanobastonero/)*

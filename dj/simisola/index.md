@@ -1,6 +1,6 @@
 # Simisola
 
-Simisola is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Mood Ring, New York City on Wed, 9 Dec 2026.
+Simisola is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mood Ring, New York City on Wed, 9 Dec 2026.
 
 Simisola is a club and techno artist, with 25 gigs on soundcheck across New York City and Pittsburgh. Often billed alongside Love Higher, wahala.wav and MORENXXX. Next up: Mood Ring, New York City on Wed 9 Dec.
 
@@ -25,4 +25,4 @@ Simisola is a club and techno artist, with 25 gigs on soundcheck across New York
 
 Love Higher, wahala.wav, MORENXXX
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simisola/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simisola/)*

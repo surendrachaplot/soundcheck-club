@@ -1,13 +1,14 @@
 # Abr.
 
-Abr. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Grand Sud, Lille on Fri, 18 Dec 2026.
+Abr. is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Rex Club, Paris on Thu, 10 Dec 2026.
 
-Abr. is a techno and trance artist based in France, with 21 gigs on soundcheck across Antwerp, Brussels, Cologne and Geneva and 7 more. Often billed alongside Asaya, MEYEM and Maudux. Next up: Le Grand Sud, Lille on Fri 18 Dec.
+Abr. is a techno and trance artist based in France, with 22 gigs on soundcheck across Antwerp, Brussels, Cologne and Geneva and 7 more. Often billed alongside Asaya, MEYEM and Maudux. Next up: Rex Club, Paris on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 10 Dec 2026 | Rex Club | Paris |
 | Fri, 18 Dec 2026 | Le Grand Sud | Lille |
 
 ## Recently played
@@ -25,4 +26,4 @@ Abr. is a techno and trance artist based in France, with 21 gigs on soundcheck a
 
 Asaya, MEYEM, Maudux
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abr./)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abr./)*

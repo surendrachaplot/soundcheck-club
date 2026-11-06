@@ -1,6 +1,6 @@
 # Joule
 
-Joule is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "SPECTACULAR 7th ANNIVERSARY feat.  Hernan Cattaneo" on Fri, 6 Nov 2026.
+Joule is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SPECTACULAR 7th ANNIVERSARY feat.  Hernan Cattaneo" on Fri, 6 Nov 2026.
 
 Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including _goodbyeforever_, DJ OGAWA, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
@@ -17,4 +17,4 @@ Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line
 
 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan, Osaka
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/joule/)*

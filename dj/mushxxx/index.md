@@ -1,6 +1,6 @@
 # MUSHXXX
 
-MUSHXXX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+MUSHXXX is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 MUSHXXX is a house and techno artist based in South Korea, with 45 gigs on soundcheck across Seoul and South Korea. Often billed alongside Youngseok, Gyusco and Minji. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MUSHXXX is a house and techno artist based in South Korea, with 45 gigs on sound
 
 Youngseok, Gyusco, Minji
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mushxxx/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mushxxx/)*

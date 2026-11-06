@@ -1,6 +1,6 @@
 # Innassi
 
-Innassi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Oddity Club, Athens on Sat, 28 Nov 2026.
+Innassi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Oddity Club, Athens on Sat, 28 Nov 2026.
 
 Innassi is a house and techno artist based in Greece, with 52 gigs on soundcheck across Amsterdam, Athens, Berlin and Frankfurt and 3 more. Often billed alongside ClubKid, OPHELIA and RNO. Next up: Oddity Club, Athens on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Innassi is a house and techno artist based in Greece, with 52 gigs on soundcheck
 
 ClubKid, OPHELIA (1), RNO (1)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innassi/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innassi/)*

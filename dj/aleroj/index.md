@@ -1,6 +1,6 @@
 # Aleroj
 
-Aleroj is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
+Aleroj is a Guaracha and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 13 Nov 2026.
 
 Aleroj is a guaracha and latin bass artist based in Colombia, with 84 gigs on soundcheck across Atlanta, Barcelona, Berlin and Bogot and 28 more. Often billed alongside Isablu, 2AT and CRRDR. Next up: Bossa Nova Civic Club, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Aleroj is a guaracha and latin bass artist based in Colombia, with 84 gigs on so
 
 Isablu, 2AT, CRRDR
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleroj/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleroj/)*

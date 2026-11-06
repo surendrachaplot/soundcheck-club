@@ -1,13 +1,14 @@
 # Peter Makto
 
-Peter Makto is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Óbuda Bay, Budapest on Sat, 21 Nov 2026.
+Peter Makto is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
 
-Peter Makto is a progressive house and deep house artist based in Hungary, with 83 gigs on soundcheck across Budapest, Glasgow, Ibiza and Ljubljana and 1 more. Often billed alongside Davko, Gregory S and Justrice. Next up: Óbuda Bay, Budapest on Sat 21 Nov.
+Peter Makto is a progressive house and deep house artist based in Hungary, with 84 gigs on soundcheck across Budapest, Glasgow, Ibiza and Ljubljana and 1 more. Often billed alongside Davko, Gregory S and Justrice. Next up: Turbina, Budapest on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Turbina | Budapest |
 | Sat, 21 Nov 2026 | Óbuda Bay | Budapest |
 
 ## Recently played
@@ -25,4 +26,4 @@ Peter Makto is a progressive house and deep house artist based in Hungary, with 
 
 Davko, Gregory S, Justrice
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petermakto/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/petermakto/)*

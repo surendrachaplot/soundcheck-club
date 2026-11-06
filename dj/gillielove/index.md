@@ -1,14 +1,15 @@
 # Gillielove
 
-Gillielove is a Bass and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+Gillielove is a Bass and Experimental artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
-Gillielove is a bass and experimental artist based in Australia, with 31 gigs on soundcheck across London, Melbourne, Nantes and Paris and 3 more. Often billed alongside Cotton Pills, DJ Mum and DJ Plead. Next up: Miscellania, Melbourne on Sat 14 Nov.
+Gillielove is a bass and experimental artist based in Australia, with 32 gigs on soundcheck across London, Melbourne, Nantes and Paris and 3 more. Often billed alongside Cotton Pills, DJ Mum and DJ Plead. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Miscellania | Melbourne |
+| Sat, 14 Nov 2026 | TBA - Marrickville NSW | Sydney |
 | Sun, 15 Nov 2026 | Miscellania | Melbourne |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
@@ -27,4 +28,4 @@ Gillielove is a bass and experimental artist based in Australia, with 31 gigs on
 
 Cotton Pills, DJ Mum, DJ Plead
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillielove/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gillielove/)*

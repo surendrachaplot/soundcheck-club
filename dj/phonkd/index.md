@@ -1,6 +1,6 @@
 # Phonk D
 
-Phonk D is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
+Phonk D is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kater, Berlin on Sat, 21 Nov 2026.
 
 Phonk D is a house and disco artist based in Germany, with 26 gigs on soundcheck across Bangkok, Berlin, Cologne and Darmstadt and 5 more. Often billed alongside Soundstream, Thomas Hammann and Snow (DE). Next up: Kater, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Phonk D is a house and disco artist based in Germany, with 26 gigs on soundcheck
 
 Soundstream, Thomas Hammann, Snow (DE)
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phonkd/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phonkd/)*

@@ -1,6 +1,6 @@
 # Hen's Teeth
 
-Hen's Teeth is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "The Pale Events 001: Hen's Teeth" on Fri, 6 Nov 2026.
+Hen's Teeth is a music venue in Dublin with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "The Pale Events 001: Hen's Teeth" on Fri, 6 Nov 2026.
 
 Hen's Teeth is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, with line-ups including DJ-CK, iasc and Tyvion Valentine. See dates, start times and who's playing. Hen's Teeth, Blackpitts, Dublin 8, D08 A9FD.
 
@@ -16,4 +16,4 @@ Hen's Teeth is a music venue in Dublin listed on soundcheck. 3 upcoming gigs, wi
 
 Hen's Teeth, Blackpitts, Dublin 8, D08 A9FD, Dublin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hen-s-teeth/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/hen-s-teeth/)*

@@ -1,6 +1,6 @@
 # MokkaKlang - KlangKnospe - 20 - 4 Uhr at Mokka Mitte Bar / James Simon Park
 
-MokkaKlang - KlangKnospe - 20 - 4 Uhr at Mokka Mitte Bar / James Simon Park on Fri 13 Nov, Berlin. 2 artists: cravings320 and Flohmarkt. Techno. See the line-up on soundcheck.
+MokkaKlang - KlangKnospe - 20 - 4 Uhr at Mokka Mitte Bar / James Simon Park on Fri 13 Nov, Berlin. 3 artists: Callado, cravings320 and Flohmarkt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ MokkaKlang - KlangKnospe - 20 - 4 Uhr at Mokka Mitte Bar / James Simon Park on F
 
 ## Line-up
 
+- Callado
 - cravings320
 - Flohmarkt
 

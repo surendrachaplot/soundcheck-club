@@ -1,6 +1,6 @@
 # Pierre Locher
 
-Pierre Locher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Coya Club, Dubai on Sun, 8 Nov 2026.
+Pierre Locher is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Coya Club, Dubai on Sun, 8 Nov 2026.
 
 Pierre Locher is a house and techno artist based in Switzerland, with 17 gigs on soundcheck across Berlin, Dubai and Geneva. Often billed alongside Clint Maximus, Eva Kim and John Bowtie. Next up: Coya Club, Dubai on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Pierre Locher is a house and techno artist based in Switzerland, with 17 gigs on
 
 Clint Maximus, Eva Kim, John Bowtie
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrelocher/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pierrelocher/)*

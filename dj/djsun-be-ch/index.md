@@ -1,6 +1,6 @@
 # DJ SUN (CH/DE)
 
-DJ SUN (CH/DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Vault Club, East on Fri, 6 Nov 2026.
+DJ SUN (CH/DE) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Vault Club, East on Fri, 6 Nov 2026.
 
 DJ SUN (CH/DE) is a techno and house artist based in Switzerland, with 25 gigs on soundcheck across Berlin, Brussels, East and Geneva and 3 more. Often billed alongside Chlär, Rødig and Alarico. Next up: Vault Club, East on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ DJ SUN (CH/DE) is a techno and house artist based in Switzerland, with 25 gigs o
 
 Chlär, Rødig, Alarico
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsun-be-ch/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsun-be-ch/)*

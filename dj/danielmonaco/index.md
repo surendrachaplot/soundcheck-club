@@ -1,6 +1,6 @@
 # Daniel Monaco
 
-Daniel Monaco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Club Malasaña, Madrid on Sat, 7 Nov 2026.
+Daniel Monaco is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Malasaña, Madrid on Sat, 7 Nov 2026.
 
 Daniel Monaco is a house and disco artist based in Italy, with 59 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 21 more. Often billed alongside Max NRG Supply, Jason K (IT) and Alden Tyrell. Next up: Club Malasaña, Madrid on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Daniel Monaco is a house and disco artist based in Italy, with 59 gigs on soundc
 
 Max NRG Supply, Jason K (IT), Alden Tyrell
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielmonaco/)*

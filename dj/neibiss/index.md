@@ -1,6 +1,6 @@
 # Neibiss
 
-Neibiss is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Mon, 16 Nov 2026.
+Neibiss is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 不眠遊戯ライオン - Music Bar Lion, Tokyo on Mon, 16 Nov 2026.
 
 Neibiss is a hip-hop and house artist, with 11 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside MARZY, Towa Tei and Ascalypso. Next up: 不眠遊戯ライオン - Music Bar Lion, Tokyo on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ Neibiss is a hip-hop and house artist, with 11 gigs on soundcheck across Kyoto, 
 
 MARZY, Towa Tei, Ascalypso
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neibiss/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neibiss/)*

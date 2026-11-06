@@ -1,6 +1,6 @@
 # Max Dewavrin
 
-Max Dewavrin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at THF Radio / Torhaus, Berlin on Fri, 6 Nov 2026.
+Max Dewavrin is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at THF Radio / Torhaus, Berlin on Fri, 6 Nov 2026.
 
 Max Dewavrin is a techno and house artist based in France, with 21 gigs on soundcheck across Berlin, Cape Town, Cologne and Ljubljana and 2 more. Often billed alongside Ogazón, OPH and VICE/VERSA. Next up: THF Radio / Torhaus, Berlin on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Max Dewavrin is a techno and house artist based in France, with 21 gigs on sound
 
 Ogazón, OPH, VICE/VERSA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdewavrin/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdewavrin/)*

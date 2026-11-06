@@ -1,6 +1,6 @@
 # Akira
 
-Akira is a Techno and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at Le Sucre, Lyon on Fri, 18 Dec 2026.
+Akira is a Techno and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Sucre, Lyon on Fri, 18 Dec 2026.
 
 Akira is a techno and hip-hop artist based in Belgium, with 72 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 18 more. Often billed alongside Kanti, Ophidian and BiBiYUA. Next up: Le Sucre, Lyon on Fri 18 Dec.
 
@@ -27,4 +27,4 @@ Akira is a techno and hip-hop artist based in Belgium, with 72 gigs on soundchec
 
 Kanti, Ophidian, BiBiYUA
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*

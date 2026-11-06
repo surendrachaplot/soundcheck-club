@@ -1,6 +1,6 @@
 # CC Blooms
 
-CC Blooms is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Thorny: III" on Sat, 7 Nov 2026.
+CC Blooms is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Thorny: III" on Sat, 7 Nov 2026.
 
 CC Blooms is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ CC Blooms is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Thorny: III |  |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cc-blooms/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/cc-blooms/)*

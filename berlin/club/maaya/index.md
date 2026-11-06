@@ -1,6 +1,6 @@
 # Maaya
 
-Maaya is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "La Kiffance" on Fri, 13 Nov 2026.
+Maaya is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "La Kiffance" on Fri, 13 Nov 2026.
 
 Maaya is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including DJ SET (Uk). See dates, start times and who's playing. Revalerstr. 99, 10245 Berlin.
 
@@ -17,4 +17,4 @@ Maaya is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with lin
 
 Revalerstr. 99, 10245 Berlin, Berlin
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/maaya/)*

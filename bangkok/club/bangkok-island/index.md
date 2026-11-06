@@ -1,6 +1,6 @@
 # Bangkok Island
 
-Bangkok Island is a music venue in Bangkok with 9 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Bangkok riddim syndicate 6 nov" on Fri, 6 Nov 2026.
+Bangkok Island is a music venue in Bangkok with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Bangkok riddim syndicate 6 nov" on Fri, 6 Nov 2026.
 
 Bangkok Island is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs, with line-ups including Katya, Selecta (ES), Unix and Yuval. See dates, start times and who's playing. 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120.
 
@@ -22,4 +22,4 @@ Bangkok Island is a music venue in Bangkok listed on soundcheck. 9 upcoming gigs
 
 499/1 Talat Chong Nonsi Alley, Chong Nonsi, Yan Nawa, Bangkok 10120, Bangkok
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/bangkok-island/)*

@@ -1,6 +1,6 @@
 # XuLü
 
-XuLü is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
+XuLü is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
 
 XuLü is a techno and electro artist based in China, with 40 gigs on soundcheck across Amsterdam, Beijing, Hong Kong and Miami and 3 more. Often billed alongside Grumpy Monkey, Kirilski and Ean Mack. Next up: Dada Beijing, Beijing on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ XuLü is a techno and electro artist based in China, with 40 gigs on soundcheck 
 
 Grumpy Monkey, Kirilski, Ean Mack
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xulu/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xulu/)*

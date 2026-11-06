@@ -1,6 +1,6 @@
 # Le Hasard Ludique
 
-Le Hasard Ludique is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Noise Workers x Parapente - s8jfou + Chewlie + Lyminal" on Fri, 29 Jan 2027.
+Le Hasard Ludique is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Noise Workers x Parapente - s8jfou + Chewlie + Lyminal" on Fri, 29 Jan 2027.
 
 Le Hasard Ludique is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including s8jfou. See dates, start times and who's playing. 128, avenue de Saint-Ouen, 75018 Paris, France.
 
@@ -14,4 +14,4 @@ Le Hasard Ludique is a music venue in Paris listed on soundcheck. 1 upcoming gig
 
 128, avenue de Saint-Ouen, 75018 Paris, France, Paris
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-hasard-ludique/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/le-hasard-ludique/)*

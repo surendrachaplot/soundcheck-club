@@ -1,8 +1,8 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+Logan D is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-Logan D is a drum & bass and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 10 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+Logan D is a drum & bass and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 10 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Logan D is a drum & bass and jungle artist based in United Kingdom, with 53 gigs
 | Sat, 21 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 28 Nov 2026 | Lab11 | Birmingham |
 | Fri, 4 Dec 2026 | The Prospect Building | Bristol |
+| Sat, 5 Dec 2026 | Electric Brixton | London |
 | Sat, 19 Dec 2026 | EartH | London |
 | Sun, 27 Dec 2026 | E1 | London |
 | Thu, 31 Dec 2026 | Fire | London |
@@ -31,4 +32,4 @@ Logan D is a drum & bass and jungle artist based in United Kingdom, with 53 gigs
 
 Eksman, Harry Shotta, Majistrate
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logand/)*
