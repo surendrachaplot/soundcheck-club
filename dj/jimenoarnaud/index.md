@@ -1,6 +1,6 @@
 # Jimeno Arnaud
 
-Jimeno Arnaud is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
+Jimeno Arnaud is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
 
 Jimeno Arnaud is a house and downtempo artist based in Mexico, with 47 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Barreto, Wolffer and Irena Stanisic. Next up: TBA - Caleta - Dr. Atl 62, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jimeno Arnaud is a house and downtempo artist based in Mexico, with 47 gigs on s
 
 Barreto, Wolffer, Irena Stanisic
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimenoarnaud/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimenoarnaud/)*

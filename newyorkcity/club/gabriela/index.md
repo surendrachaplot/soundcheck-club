@@ -1,14 +1,13 @@
 # Gabriela
 
-Gabriela is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Jubilee // ALL NIGHT LONG" on Fri, 6 Nov 2026.
+Gabriela is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Bouffant Bouffant // ALL NIGHT LONG" on Sat, 7 Nov 2026.
 
-Gabriela is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Amber Valentine, Bouffant Bouffant, Danny White and Andi and 2 more. See dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
+Gabriela is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Amber Valentine, Bouffant Bouffant, Danny White and Andi and 2 more. See dates, start times and who's playing. 90 Wythe Ave, Brooklyn, NY 11249.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Jubilee // ALL NIGHT LONG | Jubilee |
 | Sat, 7 Nov 2026 | Bouffant Bouffant // ALL NIGHT LONG | Bouffant Bouffant |
 | Thu, 12 Nov 2026 | ROMANCE w Eli Escobar | Eli Escobar |
 | Fri, 13 Nov 2026 | Planet B // ALL NIGHT LONG | Planet B |
@@ -23,4 +22,4 @@ Gabriela is a music venue in New York City listed on soundcheck. 10 upcoming gig
 
 90 Wythe Ave, Brooklyn, NY 11249, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/gabriela/)*

@@ -1,14 +1,13 @@
 # StereoBar
 
-StereoBar is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "FAMÜ & K.Lein" on Fri, 6 Nov 2026.
+StereoBar is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Jody Wisternhoff (All Night Long)" on Sat, 7 Nov 2026.
 
-StereoBar is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Brian Cuta, FAMÜ, GNMR and Hilel Lev and 2 more. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
+StereoBar is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including Brian Cuta, GNMR, Hilel Lev and Jody Wisternoff and 2 more. See dates, start times and who's playing. 856 Saint Catherine East, Montreal, Quebec, H2L2E3.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | FAMÜ & K.Lein | FAMÜ |
 | Sat, 7 Nov 2026 | Jody Wisternhoff (All Night Long) | Jody Wisternoff |
 | Fri, 13 Nov 2026 | Brian Cuta - Axel | Brian Cuta |
 | Sat, 14 Nov 2026 | Roy Rosenfeld (All Night Long) | Roy Rosenfeld |
@@ -21,4 +20,4 @@ StereoBar is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, wi
 
 856 Saint Catherine East, Montreal, Quebec, H2L2E3, Montreal
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/stereobar/)*

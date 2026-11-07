@@ -1,6 +1,6 @@
 # Vū
 
-Vū is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kantine am Berghain, Berlin on Thu, 4 Mar 2027.
+Vū is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kantine am Berghain, Berlin on Thu, 4 Mar 2027.
 
 Vū is a techno and experimental artist based in Germany, with 23 gigs on soundcheck across Berlin. Often billed alongside Mina Lord, Skrei and Fangarm. Next up: Kantine am Berghain, Berlin on Thu 4 Mar.
 
@@ -25,4 +25,4 @@ Vū is a techno and experimental artist based in Germany, with 23 gigs on soundc
 
 Mina Lord, Skrei, Fangarm
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vu/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vu/)*

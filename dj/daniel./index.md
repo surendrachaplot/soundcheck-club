@@ -1,6 +1,6 @@
 # Daniel.
 
-Daniel. is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Estabunk - Aarhus C, Aarhus on Sat, 7 Nov 2026.
+Daniel. is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Estabunk - Aarhus C, Aarhus on Sat, 7 Nov 2026.
 
 Daniel. is a techno and downtempo artist based in United Kingdom, with 7 gigs on soundcheck across Aarhus and London. Often billed alongside Antepop, Nils Edte and Badly Dressed Boy. Next up: Estabunk - Aarhus C, Aarhus on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Daniel. is a techno and downtempo artist based in United Kingdom, with 7 gigs on
 
 Antepop, Nils Edte, Badly Dressed Boy
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniel./)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daniel./)*

@@ -1,17 +1,18 @@
 # T7 Paris
 
-T7 Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "T7: Showtek" on Fri, 23 Oct 2026.
+T7 Paris is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "T7: David Löhlein ALL NIGHT LONG" on Sat, 7 Nov 2026.
 
-T7 Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Showtek. See dates, start times and who's playing. Place des Insurgés de Varsovie, 75015 Paris.
+T7 Paris is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Wann and David Löhlein. See dates, start times and who's playing. Place des Insurgés de Varsovie, 75015 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 23 Oct 2026 | T7: Showtek | Showtek |
+| Sat, 7 Nov 2026 | T7: David Löhlein ALL NIGHT LONG | David Löhlein |
+| Fri, 20 Nov 2026 | T7: Alex Wann | Alex Wann |
 
 ## Address
 
 Place des Insurgés de Varsovie, 75015 Paris, Paris
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/t7-paris/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/t7-paris/)*

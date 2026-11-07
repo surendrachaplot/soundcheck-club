@@ -1,14 +1,13 @@
 # New Century Locker
 
-New Century Locker is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Two Shell" on Fri, 6 Nov 2026.
+New Century Locker is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Soichi Terada presents Sumo x Apes" on Sat, 7 Nov 2026.
 
-New Century Locker is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Bimini, Charlie Bones, Dennis Bovell and Egyptian Lover and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
+New Century Locker is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Bimini, Charlie Bones, Dennis Bovell and Egyptian Lover and 2 more. See dates, start times and who's playing. 34 Hanover St Manchester M4 4AH.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Two Shell | Two Shell |
 | Sat, 7 Nov 2026 | Soichi Terada presents Sumo x Apes | Soichi Terada |
 | Fri, 13 Nov 2026 | Mad Professor + Dennis Bovell | Dennis Bovell, Mad Professor |
 | Sat, 14 Nov 2026 | Azadi: ZAINAB, JD Reid + Me Gusta | JD. REID, ZEEMUFFIN |
@@ -18,9 +17,10 @@ New Century Locker is a music venue in Manchester listed on soundcheck. 12 upcom
 | Sat, 5 Dec 2026 | Jyoty | Jyoty |
 | Fri, 11 Dec 2026 | Heidi | Heidi |
 | Sat, 19 Dec 2026 | Charlie Bones (All Night Long) | Charlie Bones |
+| Thu, 31 Dec 2026 | NYE: Kylie Wears Berghaus | Hannah Holland, KURLZ, Kylie Wears Berghaus |
 
 ## Address
 
 34 Hanover St Manchester M4 4AH, Manchester
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/new-century-locker/)*

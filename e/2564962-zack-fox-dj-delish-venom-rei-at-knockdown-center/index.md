@@ -1,6 +1,6 @@
 # Zack Fox, DJ Delish, Venom Rei at Knockdown Center
 
-Zack Fox, DJ Delish, Venom Rei at Knockdown Center on Fri 5 Feb, New York City. 2 artists: DJ Delish and Zack Fox. See the line-up on soundcheck.
+Zack Fox, DJ Delish, Venom Rei at Knockdown Center on Fri 5 Feb, New York City. 2 artists: DJ Delish and Zack Fox. Footwork and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

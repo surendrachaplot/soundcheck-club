@@ -1,6 +1,6 @@
 # Shinyoung
 
-Shinyoung is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 2 Nov 2026.
+Shinyoung is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Stoked&stoned, Seoul on Mon, 2 Nov 2026.
 
 Shinyoung is a house and techno artist based in South Korea, with 118 gigs on soundcheck across Seoul, South Korea and Tokyo. Often billed alongside SEOD, Youknowsong and JAEHAN. Next up: Stoked&stoned, Seoul on Mon 2 Nov.
 
@@ -13,6 +13,7 @@ Shinyoung is a house and techno artist based in South Korea, with 118 gigs on so
 
 ## Recently played
 
+- Nué Seoul, Seoul · Fri, 6 Nov 2026
 - Stoked&stoned, Seoul · Mon, 2 Nov 2026
 - Evening, Seoul · Sat, 31 Oct 2026
 - The Opera, Seoul · Fri, 9 Oct 2026
@@ -20,10 +21,9 @@ Shinyoung is a house and techno artist based in South Korea, with 118 gigs on so
 - Paper, Seoul · Sat, 3 Oct 2026
 - Evening, Seoul · Fri, 2 Oct 2026
 - Paper, Seoul · Fri, 25 Sept 2026
-- Hertz, Seoul · Wed, 23 Sept 2026
 
 ## Shares bills with
 
 SEOD, Youknowsong, JAEHAN (2)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyoung/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyoung/)*

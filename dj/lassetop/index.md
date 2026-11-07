@@ -1,6 +1,6 @@
 # Lasse Top
 
-Lasse Top is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at WestWeelde, Amsterdam on Fri, 20 Nov 2026.
+Lasse Top is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at WestWeelde, Amsterdam on Fri, 20 Nov 2026.
 
 Lasse Top is a house and tech house artist based in Netherlands, with 65 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Lasse, Michel de Hey and M-High. Next up: WestWeelde, Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Lasse Top is a house and tech house artist based in Netherlands, with 65 gigs on
 
 Lasse, Michel de Hey, M-High
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lassetop/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lassetop/)*

@@ -1,6 +1,6 @@
 # ABYSS 369
 
-ABYSS 369 is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Notorius Club, Central on Sat, 7 Nov 2026.
+ABYSS 369 is a Hardcore and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Notorius Club, Central on Sat, 7 Nov 2026.
 
 ABYSS 369 is a hardcore and industrial artist based in Italy, with 20 gigs on soundcheck across Central and Milan. Often billed alongside ANKKH, Dshock and STABILINDA. Next up: Notorius Club, Central on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ABYSS 369 is a hardcore and industrial artist based in Italy, with 20 gigs on so
 
 ANKKH, Dshock, STABILINDA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abyss369/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abyss369/)*

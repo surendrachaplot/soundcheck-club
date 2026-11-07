@@ -1,6 +1,6 @@
 # Owelle
 
-Owelle is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Studio Pro Arte, Baden-w-rttemberg on Sat, 21 Nov 2026.
+Owelle is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Studio Pro Arte, Baden-w-rttemberg on Sat, 21 Nov 2026.
 
 Owelle is a techno and electro artist based in Switzerland, with 36 gigs on soundcheck across Baden W Rttemberg, Barcelona, Basel and Geneva and 4 more. Often billed alongside e-garbage, Elena Colombi and Efe Ce Ele. Next up: Studio Pro Arte, Baden W Rttemberg on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Owelle is a techno and electro artist based in Switzerland, with 36 gigs on soun
 
 e-garbage, Elena Colombi, Efe Ce Ele
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owelle/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/owelle/)*

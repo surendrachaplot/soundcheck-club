@@ -1,6 +1,6 @@
 # Haze (GER)
 
-Haze (GER) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Legal, Munich on Fri, 13 Nov 2026.
+Haze (GER) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Legal, Munich on Fri, 13 Nov 2026.
 
 Haze (GER) is a house and tech house artist based in Germany, with 10 gigs on soundcheck across Amsterdam and Munich. Often billed alongside Vincent Lang, VSMR and Okarim. Next up: Legal, Munich on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Haze (GER) is a house and tech house artist based in Germany, with 10 gigs on so
 
 Vincent Lang, VSMR, Okarim
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazeger/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazeger/)*

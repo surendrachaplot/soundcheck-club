@@ -1,8 +1,8 @@
 # Christian AB
 
-Christian AB is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Jacobs Basement, Cardiff on Sat, 7 Nov 2026.
+Christian AB is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Jacobs Basement, Cardiff on Sat, 7 Nov 2026.
 
-Christian AB is a techno and house artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 24 more. Often billed alongside Christian AB, Francesco Del Garda and Ogazón. Next up: Jacobs Basement, Cardiff on Sat 7 Nov.
+Christian AB is a techno and house artist based in United Kingdom, with 46 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 24 more. Often billed alongside Christian AB, Francesco Del Garda and Ogazón. Next up: Jacobs Basement, Cardiff on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,7 +13,9 @@ Christian AB is a techno and house artist based in United Kingdom, with 44 gigs 
 | Fri, 20 Nov 2026 | Legal | Munich |
 | Sat, 5 Dec 2026 | Open Ground | Wuppertal |
 | Sat, 12 Dec 2026 | Phonox | London |
+| Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 19 Dec 2026 | Mint XL | Leeds |
+| Thu, 31 Dec 2026 | Concept Haus | Manchester |
 | Fri, 5 Feb 2027 | Night Tales | London |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -32,4 +34,4 @@ Christian AB is a techno and house artist based in United Kingdom, with 44 gigs 
 
 Christian AB, Francesco Del Garda, Ogazón
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianab/)*

@@ -1,6 +1,6 @@
 # Archypness
 
-Archypness is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Villa, Oslo on Fri, 4 Dec 2026.
+Archypness is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Villa, Oslo on Fri, 4 Dec 2026.
 
 Archypness is a techno and bass artist based in Poland, with 28 gigs on soundcheck across Berlin, Chengdu, Krakow and Manchester and 3 more. Often billed alongside Salat, Slowmode and 3ASiC. Next up: The Villa, Oslo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Archypness is a techno and bass artist based in Poland, with 28 gigs on soundche
 
 Salat, Slowmode, 3ASiC
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/archypness/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/archypness/)*

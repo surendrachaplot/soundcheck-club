@@ -1,6 +1,6 @@
 # Defex
 
-Defex is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Defex is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
 Defex is a house and tech house artist based in Germany, with 93 gigs on soundcheck across Austria, Barcelona, Berlin and Cologne and 13 more. Often billed alongside Camilo Miranda, Bushwacka! and CC:DISCO!. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ Defex is a house and tech house artist based in Germany, with 93 gigs on soundch
 
 Camilo Miranda, Bushwacka!, CC:DISCO!
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defex/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/defex/)*

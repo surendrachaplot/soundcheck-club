@@ -1,6 +1,6 @@
 # KOSAA
 
-KOSAA is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mastak, Warsaw on Sat, 19 Dec 2026.
+KOSAA is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mastak, Warsaw on Sat, 19 Dec 2026.
 
 KOSAA is a techno artist based in Poland, with 9 gigs on soundcheck across Manchester, Poznan and Warsaw. Often billed alongside Adrian Skiba, DJ Loose and FJAAK. Next up: Mastak, Warsaw on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ KOSAA is a techno artist based in Poland, with 9 gigs on soundcheck across Manch
 
 Adrian Skiba, DJ Loose, FJAAK
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kosaa/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kosaa/)*

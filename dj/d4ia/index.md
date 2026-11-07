@@ -1,6 +1,6 @@
 # d4ia
 
-d4ia is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sensorium, Berlin on Wed, 11 Nov 2026.
+d4ia is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sensorium, Berlin on Wed, 11 Nov 2026.
 
 d4ia is a techno and tech house artist based in France, with 6 gigs on soundcheck across Berlin. Often billed alongside Thyrse, VEGANICECREAM and Ankit. Next up: Sensorium, Berlin on Wed 11 Nov.
 
@@ -22,4 +22,4 @@ d4ia is a techno and tech house artist based in France, with 6 gigs on soundchec
 
 Thyrse, VEGANICECREAM, Ankit
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d4ia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d4ia/)*

@@ -1,6 +1,6 @@
 # Esbirra Ibiza
 
-Esbirra Ibiza is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "TIMEmACHINE presents Aka Jay, Donna Sami & 4Pleasure" on Sat, 7 Nov 2026.
+Esbirra Ibiza is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "TIMEmACHINE presents Aka Jay, Donna Sami & 4Pleasure" on Sat, 7 Nov 2026.
 
 Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, with line-ups including 4Pleasure, Los Suruba, Luna City Express and Pau Pérez and 2 more. See dates, start times and who's playing. Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears.
 
@@ -17,4 +17,4 @@ Esbirra Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, w
 
 Avinguda Punta Arabí, 228, 07849 es Canar, Illes Balears, Ibiza
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/esbirra-ibiza/)*

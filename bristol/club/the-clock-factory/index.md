@@ -1,6 +1,6 @@
 # The Clock Factory
 
-The Clock Factory is a music venue in Bristol with 18 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Teletech: Lobsta B [BRISTOL]" on Fri, 6 Nov 2026.
+The Clock Factory is a music venue in Bristol with 18 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Clock Factory presents: DJ ADHD B2B Addison Groove" on Sat, 7 Nov 2026.
 
 The Clock Factory is a music venue in Bristol listed on soundcheck. 18 upcoming gigs, with line-ups including Addison Groove, Amelia Leigh, Black Eye and Breaka and 2 more. See dates, start times and who's playing. 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG.
 
@@ -8,7 +8,6 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 18 upcoming 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Teletech: Lobsta B [BRISTOL] |  |
 | Sat, 7 Nov 2026 | Clock Factory presents: DJ ADHD B2B Addison Groove | Addison Groove, DJ ADHD |
 | Fri, 13 Nov 2026 | JACK MARLOW - Bristol 360° Headline [2 Hour Set] | JACK MARLOW |
 | Sat, 14 Nov 2026 | TimeWarp | Breaka, DJ Hybrid |
@@ -18,9 +17,10 @@ The Clock Factory is a music venue in Bristol listed on soundcheck. 18 upcoming 
 | Fri, 27 Nov 2026 | Nevermind: p-rallel + more | p-rallel |
 | Fri, 4 Dec 2026 | Dansu Discs: MAD.AGAIN & PAULY! - Bristol | Mad.Again (2), PAULY! |
 | Sat, 5 Dec 2026 | Clock Factory presents: Flux Pavilion & Culprate | Culprate, Flux Pavilion |
+| Fri, 11 Dec 2026 | Playback Events presents: Voigtmann | Drysdale, Ollie Kirk, Voigtmann |
 
 ## Address
 
 63 Union Gate 1st & 2nd Floor, Broadmead, Bristol BS1 2AG, Bristol
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/the-clock-factory/)*

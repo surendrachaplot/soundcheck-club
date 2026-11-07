@@ -1,6 +1,6 @@
 # Saint-James
 
-Saint-James is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at New Morning, Paris on Sat, 7 Nov 2026.
+Saint-James is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at New Morning, Paris on Sat, 7 Nov 2026.
 
 Saint-James is a disco and house artist based in France, with 14 gigs on soundcheck across Brussels and Paris. Often billed alongside Clémentine, Tour-Maubourg and Kaffe Crème. Next up: New Morning, Paris on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Saint-James is a disco and house artist based in France, with 14 gigs on soundch
 
 Clémentine, Tour-Maubourg, Kaffe Crème
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saint-james/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saint-james/)*

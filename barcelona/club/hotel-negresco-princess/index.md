@@ -1,6 +1,6 @@
 # Hotel Negresco Princess
 
-Hotel Negresco Princess is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "DISCO HOUSE ROOFTOP PARTY" on Sat, 7 Nov 2026.
+Hotel Negresco Princess is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DISCO HOUSE ROOFTOP PARTY" on Sat, 7 Nov 2026.
 
 Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Helen Me Lia. See dates, start times and who's playing. C/ de Roger de Llúria, 16, 18, 08010 Barcelona.
 
@@ -21,4 +21,4 @@ Hotel Negresco Princess is a music venue in Barcelona listed on soundcheck. 8 up
 
 C/ de Roger de Llúria, 16, 18, 08010 Barcelona, Barcelona
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hotel-negresco-princess/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/hotel-negresco-princess/)*

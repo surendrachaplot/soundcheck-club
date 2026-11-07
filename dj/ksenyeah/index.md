@@ -1,19 +1,20 @@
 # Ksenyeah
 
-Ksenyeah is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at H0L0, New York City on Fri, 6 Nov 2026.
+Ksenyeah is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
 
-Ksenyeah is a house and deep house artist based in Ukraine, with 47 gigs on soundcheck across New York City. Often billed alongside Manguito, Van Der Laan and OBA+FLIP. Next up: H0L0, New York City on Fri 6 Nov.
+Ksenyeah is a house and deep house artist based in Ukraine, with 48 gigs on soundcheck across New York City. Often billed alongside Manguito, Van Der Laan and Kate Simko. Next up: Refuge, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | H0L0 | New York City |
 | Sat, 7 Nov 2026 | Refuge | New York City |
+| Sat, 21 Nov 2026 | House of Yes | New York City |
 | Fri, 18 Dec 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
 
+- H0L0, New York City · Fri, 6 Nov 2026
 - Industry City, New York City · Fri, 30 Oct 2026
 - Knockdown Center, New York City · Sat, 17 Oct 2026
 - Creekside - Under The K Bridge, New York City · Sun, 11 Oct 2026
@@ -21,10 +22,9 @@ Ksenyeah is a house and deep house artist based in Ukraine, with 47 gigs on soun
 - TBA, New York City · Sat, 10 Oct 2026
 - Open Air Club, New York City · Sat, 10 Oct 2026
 - Elsewhere, New York City · Sun, 20 Sept 2026
-- Elsewhere, New York City · Sat, 22 Aug 2026
 
 ## Shares bills with
 
-Manguito, Van Der Laan, OBA+FLIP
+Manguito, Van Der Laan, Kate Simko
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksenyeah/)*

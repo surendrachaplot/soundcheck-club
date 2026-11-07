@@ -1,6 +1,6 @@
 # uszko
 
-uszko is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jasna 1, Warsaw on Fri, 20 Nov 2026.
+uszko is a Ambient and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Jasna 1, Warsaw on Fri, 20 Nov 2026.
 
 uszko is an ambient and acid artist based in Poland, with 11 gigs on soundcheck across Warsaw. Often billed alongside PLAL, Dyktando and Kovvalsky. Next up: Jasna 1, Warsaw on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ uszko is an ambient and acid artist based in Poland, with 11 gigs on soundcheck 
 
 PLAL, Dyktando, Kovvalsky
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uszko/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/uszko/)*

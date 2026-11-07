@@ -1,6 +1,6 @@
 # Ashlea Milinkovic
 
-Ashlea Milinkovic is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
+Ashlea Milinkovic is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
 
 Ashlea Milinkovic is a house and disco artist based in Australia, with 29 gigs on soundcheck across New South Wales and Sydney. Often billed alongside BRAD WATTS, SOHAIL and Lucy B. Next up: The Golden Sheaf, New South Wales on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ashlea Milinkovic is a house and disco artist based in Australia, with 29 gigs o
 
 BRAD WATTS, SOHAIL, Lucy B
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleamilinkovic/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashleamilinkovic/)*

@@ -1,6 +1,6 @@
 # Den Hur
 
-Den Hur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
+Den Hur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cafe Bourbon Street, Ohio on Fri, 13 Nov 2026.
 
 Den Hur is a house and disco artist, with 7 gigs on soundcheck across Cleveland, Detroit and Ohio. Often billed alongside Delish, Eddie Logix and Peter Croce. Next up: Cafe Bourbon Street, Ohio on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ Den Hur is a house and disco artist, with 7 gigs on soundcheck across Cleveland,
 
 Delish, Eddie Logix, Peter Croce
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denhur/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/denhur/)*

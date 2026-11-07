@@ -1,6 +1,6 @@
 # Moxes
 
-Moxes is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at nachbar, Amsterdam on Thu, 19 Nov 2026.
+Moxes is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at nachbar, Amsterdam on Thu, 19 Nov 2026.
 
 Moxes is a house and tech house artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Ibiza and 5 more. Often billed alongside Emvae, Essy and Kyra Khaldi. Next up: nachbar, Amsterdam on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ Moxes is a house and tech house artist based in Netherlands, with 73 gigs on sou
 
 Emvae, Essy, Kyra Khaldi
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moxes/)*

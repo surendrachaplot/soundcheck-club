@@ -1,8 +1,8 @@
 # Toï Toï, Le Zinc
 
-Toï Toï, Le Zinc is a music venue in Lyon with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "FROM SAND TO STARDUST + MEZCAL IN CACTUS + DESORDRE+ UMBRA DANSE" on Sat, 7 Nov 2026.
+Toï Toï, Le Zinc is a music venue in Lyon with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "FROM SAND TO STARDUST + MEZCAL IN CACTUS + DESORDRE+ UMBRA DANSE" on Sat, 7 Nov 2026.
 
-Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
+Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 9 upcoming gigs. See dates, start times and who's playing. 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne.
 
 ## What's on
 
@@ -14,10 +14,12 @@ Toï Toï, Le Zinc is a music venue in Lyon listed on soundcheck. 7 upcoming gig
 | Sat, 14 Nov 2026 | Marmaï sort son 1er Album - Freedom |  |
 | Fri, 20 Nov 2026 | ASSEMBLAGE - CONCERT RIOT GRRRL & Marché DIY |  |
 | Sat, 21 Nov 2026 | VLMV + DERIVE IN ME + YANN PONTHUS |  |
+| Thu, 26 Nov 2026 | Terremoto Mami x collectif Solidarité entre femmes à la rue |  |
 | Sat, 28 Nov 2026 | Nuit Amplifiée |  |
+| Sat, 19 Dec 2026 | Odyssée en BALKANATOLIE |  |
 
 ## Address
 
 17 - 19, rue Marcel Dutartre 69 100 Villeurbanne, Lyon
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/to-to-le-zinc/)*

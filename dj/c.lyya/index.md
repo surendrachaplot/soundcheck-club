@@ -1,6 +1,6 @@
 # C.LYYA
 
-C.LYYA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Pamela Club, Paris on Sat, 14 Nov 2026.
+C.LYYA is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Pamela Club, Paris on Sat, 14 Nov 2026.
 
 C.LYYA is a house and electro artist based in France, with 20 gigs on soundcheck across Paris. Often billed alongside Flabaire, GGGG and Mad Rey. Next up: Pamela Club, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ C.LYYA is a house and electro artist based in France, with 20 gigs on soundcheck
 
 Flabaire, GGGG, Mad Rey
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c.lyya/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/c.lyya/)*

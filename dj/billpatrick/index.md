@@ -1,6 +1,6 @@
 # Bill Patrick
 
-Bill Patrick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 14 Nov 2026.
+Bill Patrick is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Jolene Downtown Miami, Miami on Sat, 14 Nov 2026.
 
 Bill Patrick is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Chicago, Dubai, Ibiza and London and 6 more. Often billed alongside Seth Troxler, Greg Paulus and Maher Daniel. Next up: Jolene Downtown Miami, Miami on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bill Patrick is a house and techno artist based in United States of America, wit
 
 Seth Troxler, Greg Paulus, Maher Daniel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billpatrick/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/billpatrick/)*

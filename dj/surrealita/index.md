@@ -1,18 +1,18 @@
 # Surrealita
 
-Surrealita is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 6 Nov 2026.
+Surrealita is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Twist Bar, Prague on Sat, 7 Nov 2026.
 
-Surrealita is a techno and house artist, with 40 gigs on soundcheck across Prague. Often billed alongside Makropulos, Yan (CZ) and Exhausted Modern. Next up: Ankali & Planeta Za, Prague on Fri 6 Nov.
+Surrealita is a techno and house artist, with 40 gigs on soundcheck across Prague. Often billed alongside Makropulos, Yan (CZ) and Exhausted Modern. Next up: Twist Bar, Prague on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Ankali & Planeta Za | Prague |
 | Sat, 7 Nov 2026 | Twist Bar | Prague |
 
 ## Recently played
 
+- Ankali & Planeta Za, Prague · Fri, 6 Nov 2026
 - TBA - Bistro KuBar, Prague · Sat, 18 Jul 2026
 - TBA, Prague · Sat, 11 Jul 2026
 - Ankali & Planeta Za, Prague · Sat, 27 Jun 2026
@@ -20,10 +20,9 @@ Surrealita is a techno and house artist, with 40 gigs on soundcheck across Pragu
 - Tendance, Prague · Wed, 10 Jun 2026
 - Ankali & Planeta Za, Prague · Fri, 29 May 2026
 - Twist Bar, Prague · Sat, 14 Mar 2026
-- Ankali & Planeta Za, Prague · Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Makropulos, Yan (CZ), Exhausted Modern
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surrealita/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/surrealita/)*

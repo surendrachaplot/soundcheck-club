@@ -1,6 +1,6 @@
 # Dee Diggs
 
-Dee Diggs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Knockdown Center, New York City on Fri, 13 Nov 2026.
+Dee Diggs is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Knockdown Center, New York City on Fri, 13 Nov 2026.
 
 Dee Diggs is a house and techno artist based in United States of America, with 227 gigs on soundcheck across Amsterdam, Atlanta, Bali and Barcelona and 45 more. Often billed alongside Kilopatrah Jones, Avalon Emerson and Octo Octa. Next up: Knockdown Center, New York City on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Dee Diggs is a house and techno artist based in United States of America, with 2
 
 Kilopatrah Jones, Avalon Emerson, Octo Octa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deediggs/)*

@@ -1,6 +1,6 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Port Beach Garden Party ~ Ft. BODY CLINIC (IRE) & DAWS (NAARM)" on Sat, 7 Nov 2026.
+Port Beach Brewery is a music venue in Perth with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Port Beach Garden Party ~ Ft. BODY CLINIC (IRE) & DAWS (NAARM)" on Sat, 7 Nov 2026.
 
 Port Beach Brewery is a music venue in Perth listed on soundcheck. 9 upcoming gigs, with line-ups including Aline Rocha, Chicane, David Penn and DAWS and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
@@ -22,4 +22,4 @@ Port Beach Brewery is a music venue in Perth listed on soundcheck. 9 upcoming gi
 
 Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia, Perth
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/port-beach-brewery/)*

@@ -1,14 +1,13 @@
 # Wiggle Room
 
-Wiggle Room is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "WR Records: LITTLE BAD ASS [LBA] Release Party" on Fri, 6 Nov 2026.
+Wiggle Room is a music venue in Toronto with 16 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Madam Wiggle's Annual Unicorn Party" on Sat, 7 Nov 2026.
 
-Wiggle Room is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Anthony Cole, Barroness, Brash-B and Carabetta and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
+Wiggle Room is a music venue in Toronto listed on soundcheck. 16 upcoming gigs, with line-ups including Anthony Cole, Barroness, Brash-B and Carabetta and 2 more. See dates, start times and who's playing. 772 Dundas St W, Toronto, ON M6J 1V1, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | WR Records: LITTLE BAD ASS [LBA] Release Party |  |
 | Sat, 7 Nov 2026 | Madam Wiggle's Annual Unicorn Party | Barroness, Dick Diamonds, Nathan Barato, Nour (CAN), TAKiN, Tyler Hill |
 | Sun, 8 Nov 2026 | Sunday SerVice: SHERA - Manzone & Strong - 4AM LAST CALL | Manzone & Strong, SHERA |
 | Fri, 13 Nov 2026 | Beat Therapy with Flipside | Brash-B, Dan Medland, LX (CA), MC Flipside |
@@ -17,10 +16,11 @@ Wiggle Room is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, 
 | Fri, 20 Nov 2026 | Change the Beat: Sydney Blu's Birthday Fundraiser | Miz Megs, Natalie Nox, SHERA, Sydney Blu |
 | Sat, 21 Nov 2026 | Animal Instinx: Hector Romero [NYC] | Hector Romero, TAKiN |
 | Sun, 22 Nov 2026 | Sunday SerVice: Manzone & Strong - FLIPSIDE - 4AM LAST CALL | Cozmic Cat, MC Flipside, Manzone & Strong |
+| Thu, 26 Nov 2026 | Dancing with Jimmy | Barroness, Tyler Hill |
 | Fri, 27 Nov 2026 | Dance Division 018 - NOV 27 - Guaranteed Dancing | Nour (CAN) |
 
 ## Address
 
 772 Dundas St W, Toronto, ON M6J 1V1, Canada, Toronto
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/wiggle-room/)*

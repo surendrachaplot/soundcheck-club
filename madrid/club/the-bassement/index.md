@@ -1,6 +1,6 @@
 # The Bassement
 
-The Bassement is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN" on Sat, 7 Nov 2026.
+The Bassement is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Laster Club presents V ANNIVERSARY / 12H UNDER THE RED LIGHT AGAIN" on Sat, 7 Nov 2026.
 
 The Bassement is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including AEREA, Alarico, Amal Nemer and Ana Alves and 2 more. See dates, start times and who's playing. C. de Galileo, 2628015 Madrid.
 
@@ -17,10 +17,10 @@ The Bassement is a music venue in Madrid listed on soundcheck. 14 upcoming gigs,
 | Sat, 28 Nov 2026 | Laster Club presents Dasha Rush, Phara & Laia B2B Liszt | Dasha Rush, Laia, Liszt, Phara |
 | Fri, 4 Dec 2026 | ONGOING presents DJ Angel, Estella Boersma, Luxi Villar & Ania Bruster | Ania Bruster, DJ ANGEL (fr), Estella Boersma, Luxi Villar |
 | Sun, 6 Dec 2026 | Laster Club presents KANTINA SPECIAL 12H UNDER THE RED LIGHT / DECEMBER EDITION | Fadi Mohem, James Newmarch, Laia, Roll Dann, Voicedrone, Yanamaste, Yant |
-| Fri, 11 Dec 2026 | SWING pres. AEREA Live | AEREA, Ana Alves, Di3GO, TWO/THREE |
+| Fri, 11 Dec 2026 | [LAST 100 TICKETS] SWING pres. AEREA Live | AEREA, Ana Alves, Di3GO, TWO/THREE |
 
 ## Address
 
 C. de Galileo, 2628015 Madrid, Madrid
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/the-bassement/)*

@@ -1,6 +1,6 @@
 # Bins
 
-Bins is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Bangkok on Thu, 5 Nov 2026.
+Bins is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Bangkok on Thu, 5 Nov 2026.
 
 Bins is a house and techno artist, with 7 gigs on soundcheck across Bangkok, Hanoi, Manila and Thailand. Often billed alongside DOTT, Emel and Jirus (MELA). Next up: TBA, Bangkok on Thu 5 Nov.
 
@@ -24,4 +24,4 @@ Bins is a house and techno artist, with 7 gigs on soundcheck across Bangkok, Han
 
 DOTT, Emel, Jirus (MELA)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bins/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bins/)*

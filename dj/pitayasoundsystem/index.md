@@ -1,6 +1,6 @@
 # Pitaya Soundsystem
 
-Pitaya Soundsystem is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Subdeck, Bratislava on Fri, 20 Nov 2026.
+Pitaya Soundsystem is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Subdeck, Bratislava on Fri, 20 Nov 2026.
 
 Pitaya Soundsystem is a house and disco artist based in France, with 110 gigs on soundcheck across Bangkok, Barcelona, Beijing and Belgrade and 26 more. Often billed alongside Dirty Channels, Eternal Love and James Falco. Next up: Subdeck, Bratislava on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Pitaya Soundsystem is a house and disco artist based in France, with 110 gigs on
 
 Dirty Channels, Eternal Love, James Falco
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pitayasoundsystem/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pitayasoundsystem/)*

@@ -1,6 +1,6 @@
 # SUCCUBUS
 
-SUCCUBUS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 42 Marches, Paris on Sat, 7 Nov 2026.
+SUCCUBUS is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at 42 Marches, Paris on Sat, 7 Nov 2026.
 
 SUCCUBUS is a techno and industrial artist, with 30 gigs on soundcheck across Los Angeles, Paris, San Diego and San Francisco/Oakland and 1 more. Often billed alongside Y.oshit, Haphazard and LLY. Next up: 42 Marches, Paris on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SUCCUBUS is a techno and industrial artist, with 30 gigs on soundcheck across Lo
 
 Y.oshit, Haphazard, LLY
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/succubus/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/succubus/)*

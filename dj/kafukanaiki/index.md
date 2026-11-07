@@ -1,6 +1,6 @@
 # kafuka naiki
 
-kafuka naiki is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Enter Shibuya, Tokyo on Thu, 12 Nov 2026.
+kafuka naiki is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Enter Shibuya, Tokyo on Thu, 12 Nov 2026.
 
 kafuka naiki is a bass and dubstep artist based in Japan, with 4 gigs on soundcheck across Tokyo. Often billed alongside Lowki, Albino Sound and CITY1. Next up: Enter Shibuya, Tokyo on Thu 12 Nov.
 
@@ -20,4 +20,4 @@ kafuka naiki is a bass and dubstep artist based in Japan, with 4 gigs on soundch
 
 Lowki, Albino Sound, CITY1
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kafukanaiki/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kafukanaiki/)*

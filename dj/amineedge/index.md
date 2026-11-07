@@ -1,6 +1,6 @@
 # Amine Edge
 
-Amine Edge is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club A São Paulo, Sao Paulo on Sat, 9 Jan 2027.
+Amine Edge is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club A São Paulo, Sao Paulo on Sat, 9 Jan 2027.
 
 Amine Edge is a tech house and house artist based in United Kingdom, with 27 gigs on soundcheck across Brisbane, Dublin, Ibiza and Lisbon and 10 more. Often billed alongside Huxley, Shadow Child and Alex Mills. Next up: Club A São Paulo, Sao Paulo on Sat 9 Jan.
 
@@ -25,4 +25,4 @@ Amine Edge is a tech house and house artist based in United Kingdom, with 27 gig
 
 Huxley, Shadow Child, Alex Mills
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amineedge/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amineedge/)*

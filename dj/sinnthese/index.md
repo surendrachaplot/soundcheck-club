@@ -1,6 +1,6 @@
 # Sinnthese
 
-Sinnthese is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cave12, Geneva on Sat, 7 Nov 2026.
+Sinnthese is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cave12, Geneva on Sat, 7 Nov 2026.
 
 Sinnthese is an electronic artist, with 9 gigs on soundcheck across Amsterdam, Brussels, Frankfurt and Geneva and 2 more. Often billed alongside Jana Rush, Loto Retina and Melis Köke. Next up: Cave12, Geneva on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sinnthese is an electronic artist, with 9 gigs on soundcheck across Amsterdam, B
 
 Jana Rush, Loto Retina, Melis Köke
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnthese/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinnthese/)*

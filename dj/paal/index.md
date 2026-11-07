@@ -1,6 +1,6 @@
 # Paàl
 
-Paàl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Baalsaal, Hamburg on Sat, 14 Nov 2026.
+Paàl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Baalsaal, Hamburg on Sat, 14 Nov 2026.
 
 Paàl is a techno and house artist based in Germany, with 88 gigs on soundcheck across Austin, Beijing, Berlin and Bogotá and 28 more. Often billed alongside Grosera, Ketzaal and Parallx. Next up: Baalsaal, Hamburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Paàl is a techno and house artist based in Germany, with 88 gigs on soundcheck 
 
 Grosera, Ketzaal, Parallx
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paal/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paal/)*

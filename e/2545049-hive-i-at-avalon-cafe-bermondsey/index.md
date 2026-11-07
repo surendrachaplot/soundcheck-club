@@ -1,6 +1,6 @@
 # HIVE I at Avalon Cafe Bermondsey
 
-HIVE I at Avalon Cafe Bermondsey on Fri 5 Feb, London. 2 artists: ISORA and MI-ZI. See the line-up on soundcheck.
+HIVE I at Avalon Cafe Bermondsey on Fri 5 Feb, London. 2 artists: ISORA and MI-ZI. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

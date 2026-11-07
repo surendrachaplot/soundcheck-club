@@ -1,6 +1,6 @@
 # Pegasvs
 
-Pegasvs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bread & Butter Arch, London on Sun, 8 Nov 2026.
+Pegasvs is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bread & Butter Arch, London on Sun, 8 Nov 2026.
 
 Pegasvs is a house and techno artist based in United Kingdom, with 18 gigs on soundcheck across London, Mallorca and Santiago. Often billed alongside ARLYSS, ADJ and Alfaz. Next up: Bread & Butter Arch, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Pegasvs is a house and techno artist based in United Kingdom, with 18 gigs on so
 
 ARLYSS, ADJ, Alfaz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegasvs/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegasvs/)*

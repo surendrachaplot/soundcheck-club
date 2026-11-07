@@ -1,14 +1,13 @@
 # Avalon Cafe Bermondsey
 
-Avalon Cafe Bermondsey is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "COVERT at Avalon" on Fri, 6 Nov 2026.
+Avalon Cafe Bermondsey is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "IMPULSE CONTROL: Nexus, Keepsakes, TRSSX + more" on Sat, 7 Nov 2026.
 
-Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including B4mba, BobbyG, CHEZA LUCINA and ETHICS and 2 more. See dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
+Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including B4mba, BobbyG, CHEZA LUCINA and ETHICS and 2 more. See dates, start times and who's playing. Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | COVERT at Avalon |  |
 | Sat, 7 Nov 2026 | IMPULSE CONTROL: Nexus, Keepsakes, TRSSX + more | B4mba, CHEZA LUCINA, Keepsakes, Mooki6, New Flesh (2), TOOTHTAXI, TRSSX, Toni S |
 | Mon, 9 Nov 2026 | Atomiser presents: Nirosta Steel + Nina |  |
 | Sat, 14 Nov 2026 | Kinetic Sounds Records x ThisWayUp. in aid of 999 Club Charity | BobbyG, Francis Luca, Hector., Sleepy Jean, Thom de Visser |
@@ -20,4 +19,4 @@ Avalon Cafe Bermondsey is a music venue in London listed on soundcheck. 7 upcomi
 
 Unit D, Industrial Estate, Juno Way, London SE14 5RW, United Kingdom, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/avalon-cafe-bermondsey/)*

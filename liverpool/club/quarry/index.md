@@ -1,14 +1,13 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "HSP presents Two Blinks, I Love You & CJ Pandit" on Fri, 6 Nov 2026.
+Quarry is a music venue in Liverpool with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "MIRROR MOVES: Liverpool's Post Punk, New Wave, Synth Pop club night" on Sat, 7 Nov 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including MYOHMY, polymaas, Strathearn and The Cyclist and 1 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 8 upcoming gigs, with line-ups including MYOHMY, polymaas, Strathearn and The Cyclist and 1 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | HSP presents Two Blinks, I Love You & CJ Pandit |  |
 | Sat, 7 Nov 2026 | MIRROR MOVES: Liverpool's Post Punk, New Wave, Synth Pop club night |  |
 | Sun, 8 Nov 2026 | Superfan + Special Guests |  |
 | Thu, 12 Nov 2026 | Turnabout + Special Guests | Xavier (UK) |
@@ -22,4 +21,4 @@ Quarry is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with
 
 45 Hardman St, Liverpool L1 9AS, Liverpool
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/quarry/)*

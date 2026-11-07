@@ -1,6 +1,6 @@
 # Electric Brixton
 
-Electric Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "DJ EZ - London Weekender" on Fri, 13 Nov 2026.
+Electric Brixton is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DJ EZ - London Weekender" on Fri, 13 Nov 2026.
 
 Electric Brixton is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Ahadadream, Alex Farell, Aries and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom.
 
@@ -22,4 +22,4 @@ Electric Brixton is a music venue in London listed on soundcheck. 9 upcoming gig
 
 Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-brixton/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-brixton/)*

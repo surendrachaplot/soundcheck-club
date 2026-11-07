@@ -1,17 +1,17 @@
 # Fadi Mohem
 
-Fadi Mohem is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tokonoma Club, Frankfurt on Fri, 6 Nov 2026.
+Fadi Mohem is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fuse, Brussels on Sat, 7 Nov 2026.
 
-Fadi Mohem is a techno and house artist based in Germany, with 265 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 72 more. Often billed alongside Ben Klock, Rødhåd and Ogazón. Next up: Tokonoma Club, Frankfurt on Fri 6 Nov.
+Fadi Mohem is a techno and house artist based in Germany, with 266 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 72 more. Often billed alongside Ben Klock, Ogazón and Rødhåd. Next up: Fuse, Brussels on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tokonoma Club | Frankfurt |
 | Sat, 7 Nov 2026 | Fuse | Brussels |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 21 Nov 2026 | Tangent Gallery | Detroit |
+| Sat, 5 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sun, 6 Dec 2026 | The Bassement | Madrid |
 | Fri, 11 Dec 2026 | FVTVR | Paris |
 | Sat, 12 Dec 2026 | RADION | Amsterdam |
@@ -22,6 +22,7 @@ Fadi Mohem is a techno and house artist based in Germany, with 265 gigs on sound
 
 ## Recently played
 
+- Tokonoma Club, Frankfurt · Fri, 6 Nov 2026
 - TBA - Brooklyn, New-york-city · Sun, 1 Nov 2026
 - Fünk, Mexico City · Sat, 31 Oct 2026
 - TBA - Brooklyn, New York City · Fri, 30 Oct 2026
@@ -29,10 +30,9 @@ Fadi Mohem is a techno and house artist based in Germany, with 265 gigs on sound
 - De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - Bajes Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
-- EXIL, Zurich · Fri, 16 Oct 2026
 
 ## Shares bills with
 
-Ben Klock, Rødhåd, Ogazón
+Ben Klock, Ogazón, Rødhåd
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fadimohem/)*

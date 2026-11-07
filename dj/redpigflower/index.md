@@ -1,6 +1,6 @@
 # Red Pig Flower
 
-Red Pig Flower is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at La Ventana al Mar, Puerto-rico on Sat, 5 Dec 2026.
+Red Pig Flower is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at La Ventana al Mar, Puerto-rico on Sat, 5 Dec 2026.
 
 Red Pig Flower is a house and techno artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 20 more. Often billed alongside babxi, Daya Pruna and Minji. Next up: La Ventana al Mar, Puerto Rico on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Red Pig Flower is a house and techno artist based in Germany, with 94 gigs on so
 
 babxi, Daya Pruna, Minji
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redpigflower/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redpigflower/)*

@@ -1,6 +1,6 @@
 # Oli Leal
 
-Oli Leal is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
+Oli Leal is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Patterns, Brighton on Fri, 13 Nov 2026.
 
 Oli Leal is a house and minimal artist based in United Kingdom, with 18 gigs on soundcheck across Brighton and London. Often billed alongside Cramer, DJOM and Regan Funk. Next up: Patterns, Brighton on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Oli Leal is a house and minimal artist based in United Kingdom, with 18 gigs on 
 
 Cramer, DJOM, Regan Funk
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olileal/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olileal/)*

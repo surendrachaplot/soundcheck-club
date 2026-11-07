@@ -1,6 +1,6 @@
 # Caldera
 
-Caldera is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Autumn Three, London on Thu, 3 Dec 2026.
+Caldera is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Autumn Three, London on Thu, 3 Dec 2026.
 
 Caldera is a techno and bass artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 7 more. Often billed alongside Bitter Babe, Caligari_ and Cousin. Next up: Autumn Three, London on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Caldera is a techno and bass artist based in Germany, with 34 gigs on soundcheck
 
 Bitter Babe, Caligari_, Cousin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caldera/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caldera/)*

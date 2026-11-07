@@ -1,13 +1,14 @@
 # Aiste Regina
 
-Aiste Regina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at gallery 1986, Vilnius on Thu, 31 Dec 2026.
+Aiste Regina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at gallery 1986, Vilnius on Fri, 11 Dec 2026.
 
-Aiste Regina is a house and techno artist based in Lithuania, with 56 gigs on soundcheck across Berlin, Guadalajara, London and Lyon and 5 more. Often billed alongside Donatas Chipak, Clicklounge and Roe Deers. Next up: gallery 1986, Vilnius on Thu 31 Dec.
+Aiste Regina is a house and techno artist based in Lithuania, with 57 gigs on soundcheck across Berlin, Guadalajara, London and Lyon and 5 more. Often billed alongside Donatas Chipak, Clicklounge and Roe Deers. Next up: gallery 1986, Vilnius on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 11 Dec 2026 | gallery 1986 | Vilnius |
 | Thu, 31 Dec 2026 | gallery 1986 | Vilnius |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aiste Regina is a house and techno artist based in Lithuania, with 56 gigs on so
 
 Donatas Chipak, Clicklounge, Roe Deers
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aisteregina/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aisteregina/)*

@@ -1,6 +1,6 @@
 # Adam X
 
-Adam X is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 25 Nov 2026.
+Adam X is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 25 Nov 2026.
 
 Adam X is a techno and acid artist based in Germany, with 84 gigs on soundcheck across Amsterdam, Baltimore, Berlin and Brussels and 23 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: Bossa Nova Civic Club, New York City on Wed 25 Nov.
 
@@ -28,4 +28,4 @@ Adam X is a techno and acid artist based in Germany, with 84 gigs on soundcheck 
 
 MAEDON, Frankie Bones, Orphx
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adamx/)*

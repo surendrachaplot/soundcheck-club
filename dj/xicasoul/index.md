@@ -1,6 +1,6 @@
 # Xica Soul
 
-Xica Soul is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Signal, New York City on Sat, 21 Nov 2026.
+Xica Soul is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Signal, New York City on Sat, 21 Nov 2026.
 
 Xica Soul is a house and disco artist based in United States of America, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Masha Mar, Marco Weibel and Tottie. Next up: Signal, New York City on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Xica Soul is a house and disco artist based in United States of America, with 95
 
 Masha Mar, Marco Weibel, Tottie
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*

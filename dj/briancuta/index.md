@@ -1,6 +1,6 @@
 # Brian Cuta
 
-Brian Cuta is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at StereoBar, Montreal on Fri, 13 Nov 2026.
+Brian Cuta is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at StereoBar, Montreal on Fri, 13 Nov 2026.
 
 Brian Cuta is a techno and drum & bass artist based in Canada, with 23 gigs on soundcheck across Montreal, Quebec City, Sao Paulo and Toronto. Often billed alongside Mike Haddad, Adam Husa and Amine K. Next up: StereoBar, Montreal on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Brian Cuta is a techno and drum & bass artist based in Canada, with 23 gigs on s
 
 Mike Haddad, Adam Husa, Amine K
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/briancuta/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/briancuta/)*

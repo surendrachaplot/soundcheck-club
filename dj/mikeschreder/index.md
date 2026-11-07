@@ -1,6 +1,6 @@
 # Mike Schreder
 
-Mike Schreder is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at C'mon Everybody, New-york-city on Sat, 7 Nov 2026.
+Mike Schreder is a House and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at C'mon Everybody, New-york-city on Sat, 7 Nov 2026.
 
 Mike Schreder is a house and pop artist based in United States of America, with 23 gigs on soundcheck across New York City. Often billed alongside Kyle Hamilton, Kidbrother and ARMANA KHAN. Next up: C'mon Everybody, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mike Schreder is a house and pop artist based in United States of America, with 
 
 Kyle Hamilton, Kidbrother, ARMANA KHAN
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeschreder/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeschreder/)*

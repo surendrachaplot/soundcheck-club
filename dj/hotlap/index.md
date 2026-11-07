@@ -1,19 +1,19 @@
 # HotLap
 
-HotLap is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mott 32, Hong Kong on Fri, 6 Nov 2026.
+HotLap is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Waagnatie Expo & Events, Antwerp on Sat, 28 Nov 2026.
 
-HotLap is a house and afro house artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 12 more. Often billed alongside Cima, Romy Janssen and ADAPT (DK). Next up: Mott 32, Hong Kong on Fri 6 Nov.
+HotLap is a house and afro house artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Budapest and 12 more. Often billed alongside Cima, Romy Janssen and ADAPT (DK). Next up: Waagnatie Expo & Events, Antwerp on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Mott 32 | Hong Kong |
 | Sat, 28 Nov 2026 | Waagnatie Expo & Events | Antwerp |
 | Sat, 5 Dec 2026 | Mason Bar | Cyprus |
 
 ## Recently played
 
+- Mott 32, Hong Kong · Fri, 6 Nov 2026
 - 50:Hertz Club Train, Amsterdam · Sun, 25 Oct 2026
 - Dojo Boutique Club, Budapest · Sat, 17 Oct 2026
 - Volt Club Milano, Milan · Fri, 16 Oct 2026
@@ -21,10 +21,9 @@ HotLap is a house and afro house artist based in United States of America, with 
 - Slakthuset, Stockholm · Sat, 26 Sept 2026
 - TBA - Istanbul ( KARAKOY,BEYOGLU / Yacht Party ), Istanbul · Sun, 20 Sept 2026
 - BORIS CLUB, Barcelona · Sat, 27 Jun 2026
-- La Clairière, Paris · Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Cima, Romy Janssen, ADAPT (DK)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hotlap/)*

@@ -1,6 +1,6 @@
 # Timo Lee
 
-Timo Lee is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Danger Danger, New York City on Sat, 7 Nov 2026.
+Timo Lee is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Danger Danger, New York City on Sat, 7 Nov 2026.
 
 Timo Lee is a house and disco artist based in United States of America, with 119 gigs on soundcheck across Los Angeles, Mexico City, Miami and New York City and 5 more. Often billed alongside Yurk, Carozilla and Diskonnected. Next up: Danger Danger, New York City on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Timo Lee is a house and disco artist based in United States of America, with 119
 
 Yurk, Carozilla, Diskonnected
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/timolee/)*

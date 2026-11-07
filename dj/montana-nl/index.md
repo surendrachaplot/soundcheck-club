@@ -1,6 +1,6 @@
 # Montana
 
-Montana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Montana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 Montana is a techno and house artist based in Netherlands, with 222 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 62 more. Often billed alongside APP, Alaska and Debit. Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -13,6 +13,7 @@ Montana is a techno and house artist based in Netherlands, with 222 gigs on soun
 
 ## Recently played
 
+- TBA, Victoria · Fri, 6 Nov 2026
 - Institut fuer Zukunft (IfZ), Leipzig · Sat, 25 Jul 2026
 - XOYO Birmingham, Birmingham · Sat, 25 Jul 2026
 - Volt Club Milano, Milan · Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Montana is a techno and house artist based in Netherlands, with 222 gigs on soun
 - S-Factory Sector B, Seoul · Sat, 25 Jul 2026
 - NDSM Docklands, Amsterdam · Sat, 25 Jul 2026
 - 516 S Anderson Street, Los Angeles · Sat, 25 Jul 2026
-- Parc del Fòrum, Barcelona · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 APP, Alaska (2), Debit
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montana-nl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montana-nl/)*

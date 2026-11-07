@@ -1,6 +1,6 @@
 # TC
 
-TC is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Westhafen, Leipzig on Sat, 28 Nov 2026.
+TC is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Westhafen, Leipzig on Sat, 28 Nov 2026.
 
 TC is a drum & bass and jungle artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Bristol, Budapest and Glasgow and 5 more. Often billed alongside Jakes, Carasel and Danny Byrd. Next up: Westhafen, Leipzig on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ TC is a drum & bass and jungle artist based in United Kingdom, with 21 gigs on s
 
 Jakes, Carasel, Danny Byrd
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tc/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tc/)*

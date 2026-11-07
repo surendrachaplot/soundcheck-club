@@ -1,6 +1,6 @@
 # Behrad Tehrani
 
-Behrad Tehrani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Bside Radio, Vancouver on Sat, 7 Nov 2026.
+Behrad Tehrani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Bside Radio, Vancouver on Sat, 7 Nov 2026.
 
 Behrad Tehrani is a techno and house artist based in Iran, with 80 gigs on soundcheck across Calgary, Montreal, Toronto and Vancouver. Often billed alongside POPU, DK PAU and C-Star. Next up: TBA - Bside Radio, Vancouver on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Behrad Tehrani is a techno and house artist based in Iran, with 80 gigs on sound
 
 POPU, DK PAU, C-Star
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/behradtehrani/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/behradtehrani/)*

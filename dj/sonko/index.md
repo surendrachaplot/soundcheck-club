@@ -1,6 +1,6 @@
 # SONKO
 
-SONKO is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at THF Radio / Torhaus, Berlin on Sat, 7 Nov 2026.
+SONKO is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at THF Radio / Torhaus, Berlin on Sat, 7 Nov 2026.
 
 SONKO is a house and acid artist based in United Kingdom, with 15 gigs on soundcheck across Berlin. Often billed alongside cowtome, Louis Largo and Triqi. Next up: THF Radio / Torhaus, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SONKO is a house and acid artist based in United Kingdom, with 15 gigs on soundc
 
 cowtome, Louis Largo, Triqi
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonko/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonko/)*

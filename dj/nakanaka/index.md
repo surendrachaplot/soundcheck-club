@@ -1,6 +1,6 @@
 # Ñaka Ñaka
 
-Ñaka Ñaka is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Luzy, Mexico City on Sat, 7 Nov 2026.
+Ñaka Ñaka is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Luzy, Mexico City on Sat, 7 Nov 2026.
 
 Ñaka Ñaka is a techno and downtempo artist based in Mexico, with 11 gigs on soundcheck across Mexico City. Often billed alongside Nick Klein, AAAA and Alo. Next up: Luzy, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@
 
 Nick Klein, AAAA, Alo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakanaka/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakanaka/)*

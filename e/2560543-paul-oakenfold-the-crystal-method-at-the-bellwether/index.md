@@ -1,6 +1,6 @@
 # Paul Oakenfold + The Crystal Method at The Bellwether
 
-Paul Oakenfold + The Crystal Method at The Bellwether on Fri 5 Feb, Los Angeles. 2 artists: Paul Oakenfold and The Crystal Method. See the line-up on soundcheck.
+Paul Oakenfold + The Crystal Method at The Bellwether on Fri 5 Feb, Los Angeles. 2 artists: Paul Oakenfold and The Crystal Method. Acid and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

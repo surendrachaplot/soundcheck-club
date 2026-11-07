@@ -1,13 +1,13 @@
 # TBA - Inner West Warehouse
 
-TBA - Inner West Warehouse is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "DyK2k HALLOWEEN dOoF ';...;'" on Sat, 31 Oct 2026.
+TBA - Inner West Warehouse is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "HEADNOIZ ★ DAVID FOGARTY" on Sat, 28 Nov 2026.
 
-TBA - Inner West Warehouse is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including epoca_lipstick, Izata, MISHSQUISH and Naavikaran. See dates, start times and who's playing.
+TBA - Inner West Warehouse is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | DyK2k HALLOWEEN dOoF ';...;' | Izata, MISHSQUISH, Naavikaran, epoca_lipstick |
+| Sat, 28 Nov 2026 | HEADNOIZ ★ DAVID FOGARTY |  |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-warehouse/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-inner-west-warehouse/)*

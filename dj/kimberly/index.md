@@ -1,6 +1,6 @@
 # Kimberly
 
-Kimberly is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 13 Nov 2026.
+Kimberly is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Humboldthain Club, Berlin on Fri, 13 Nov 2026.
 
 Kimberly is a techno and trance artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside Treibende Kraft, 2HOT2PLAY and AREA ØNE. Next up: Humboldthain Club, Berlin on Fri 13 Nov.
 
@@ -16,4 +16,4 @@ Kimberly is a techno and trance artist based in Germany, with 3 gigs on soundche
 
 Treibende Kraft, 2HOT2PLAY, AREA ØNE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberly/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimberly/)*

@@ -1,6 +1,6 @@
 # Alexis mayer
 
-Alexis mayer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 7 Nov 2026.
+Alexis mayer is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Hangar48 Club, Madrid on Sat, 7 Nov 2026.
 
 Alexis mayer is a house and techno artist based in Argentina, with 17 gigs on soundcheck across Madrid. Often billed alongside Guidomik, Tucu (Tucu) and TRIXXI. Next up: Hangar48 Club, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Alexis mayer is a house and techno artist based in Argentina, with 17 gigs on so
 
 Guidomik, Tucu (Tucu), TRIXXI
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexismayer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexismayer/)*

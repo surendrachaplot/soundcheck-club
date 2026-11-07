@@ -1,6 +1,6 @@
 # tnseei
 
-tnseei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 030.Tokyo, Tokyo on Wed, 11 Nov 2026.
+tnseei is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at 030.Tokyo, Tokyo on Wed, 11 Nov 2026.
 
 tnseei is a techno and house artist based in Japan, with 82 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Yui (JP), Kurea and Lynta. Next up: 030.Tokyo, Tokyo on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ tnseei is a techno and house artist based in Japan, with 82 gigs on soundcheck a
 
 Yui (JP), Kurea, Lynta
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tnseei/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tnseei/)*

@@ -1,6 +1,6 @@
 # Jess Bays
 
-Jess Bays is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Jess Bays is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Jess Bays is a house and tech house artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Belfast, Birmingham and Brighton and 16 more. Often billed alongside Danny Howard, Steven Cee and Brian Smith. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -13,6 +13,7 @@ Jess Bays is a house and tech house artist based in United Kingdom, with 53 gigs
 
 ## Recently played
 
+- Butlin's Skegness Resort, Midlands · Fri, 6 Nov 2026
 - Union Club, Vauxhall, London · Fri, 30 Oct 2026
 - UNO MALTA, Malta · Thu, 24 Sept 2026
 - NUMBER 90 LONDON, London · Sat, 25 Jul 2026
@@ -20,10 +21,9 @@ Jess Bays is a house and tech house artist based in United Kingdom, with 53 gigs
 - Ministry Of Sound, London · Sat, 14 Feb 2026
 - Panama, Amsterdam · Wed, 22 Oct 2025
 - Stanmer Park, Brighton · Fri, 26 Sept 2025
-- 93 Feet East, London · Wed, 17 Sept 2025
 
 ## Shares bills with
 
 Danny Howard, Steven Cee, Brian Smith
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessbays/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jessbays/)*

@@ -1,6 +1,6 @@
 # Dan Böhler
 
-Dan Böhler is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Island Club Vigo, North on Sat, 7 Nov 2026.
+Dan Böhler is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Island Club Vigo, North on Sat, 7 Nov 2026.
 
 Dan Böhler is a techno and electro artist, with 10 gigs on soundcheck across Madrid and North. Often billed alongside Semuta, Aöcram and BETTS. Next up: TBA - Island Club Vigo, North on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dan Böhler is a techno and electro artist, with 10 gigs on soundcheck across Ma
 
 Semuta, Aöcram, BETTS
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danbohler/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danbohler/)*

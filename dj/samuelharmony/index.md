@@ -1,6 +1,6 @@
 # Samuel Harmony
 
-Samuel Harmony is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Mothership, Auckland on Fri, 20 Nov 2026.
+Samuel Harmony is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Mothership, Auckland on Fri, 20 Nov 2026.
 
 Samuel Harmony is a house and disco artist based in New Zealand, with 21 gigs on soundcheck across Auckland and Melbourne. Often billed alongside Frank Booker, Benny Chiu and Eden Burns. Next up: The Mothership, Auckland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Samuel Harmony is a house and disco artist based in New Zealand, with 21 gigs on
 
 Frank Booker, Benny Chiu, Eden Burns
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelharmony/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelharmony/)*

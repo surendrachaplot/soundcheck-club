@@ -1,6 +1,6 @@
 # Caballeri
 
-Caballeri is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Spook Club, Valencia on Thu, 31 Dec 2026.
+Caballeri is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Spook Club, Valencia on Thu, 31 Dec 2026.
 
 Caballeri is a house and tech house artist based in Spain, with 20 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Camiel Daamen, Pizzicatto and Varis. Next up: Spook Club, Valencia on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Caballeri is a house and tech house artist based in Spain, with 20 gigs on sound
 
 Camiel Daamen, Pizzicatto, Varis
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caballeri/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caballeri/)*

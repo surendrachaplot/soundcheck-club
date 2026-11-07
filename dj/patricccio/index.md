@@ -1,6 +1,6 @@
 # patricccio
 
-patricccio is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Twist Bar, Prague on Sat, 7 Nov 2026.
+patricccio is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Twist Bar, Prague on Sat, 7 Nov 2026.
 
 patricccio is a techno and latin bass artist based in Mexico, with 49 gigs on soundcheck across Berlin, Bratislava and Prague. Often billed alongside Atch22, Yan (CZ) and Alfred Czital. Next up: Twist Bar, Prague on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ patricccio is a techno and latin bass artist based in Mexico, with 49 gigs on so
 
 Atch22, Yan (CZ), Alfred Czital
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patricccio/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patricccio/)*

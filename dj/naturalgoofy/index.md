@@ -1,6 +1,6 @@
 # Natural Goofy
 
-Natural Goofy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Under Bron, Stockholm on Fri, 18 Dec 2026.
+Natural Goofy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Under Bron, Stockholm on Fri, 18 Dec 2026.
 
 Natural Goofy is a house and techno artist based in Spain, with 35 gigs on soundcheck across Barcelona, Berlin, East and Hamburg and 7 more. Often billed alongside Comik Sans, Arista and Cortazar. Next up: Under Bron, Stockholm on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Natural Goofy is a house and techno artist based in Spain, with 35 gigs on sound
 
 Comik Sans, Arista, Cortazar
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalgoofy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naturalgoofy/)*

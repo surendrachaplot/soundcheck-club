@@ -1,6 +1,6 @@
 # Jeff Straw
 
-Jeff Straw is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cardiff Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
+Jeff Straw is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cardiff Lounge, San Francisco/Oakland on Fri, 20 Nov 2026.
 
 Jeff Straw is a house and disco artist based in United States of America, with 86 gigs on soundcheck across Denver, Ibiza and San Francisco/Oakland. Often billed alongside HIDRA, Mode Leeloo and Major Trouble. Next up: Cardiff Lounge, San Francisco/Oakland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Jeff Straw is a house and disco artist based in United States of America, with 8
 
 HIDRA, Mode Leeloo, Major Trouble
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffstraw/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffstraw/)*

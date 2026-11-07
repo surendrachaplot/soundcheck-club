@@ -1,6 +1,6 @@
 # ADRIAN LECA
 
-ADRIAN LECA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Old Church, London on Sat, 21 Nov 2026.
+ADRIAN LECA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Old Church, London on Sat, 21 Nov 2026.
 
 ADRIAN LECA is a techno and house artist based in United Kingdom, with 10 gigs on soundcheck across Brighton and London. Often billed alongside Ting Run Run, HARDIP and LATO. Next up: The Old Church, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ ADRIAN LECA is a techno and house artist based in United Kingdom, with 10 gigs o
 
 Ting Run Run, HARDIP, LATO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianleca/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianleca/)*

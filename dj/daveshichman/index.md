@@ -1,6 +1,6 @@
 # Dave Shichman
 
-Dave Shichman is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Crown, New York City on Fri, 27 Nov 2026.
+Dave Shichman is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Crown, New York City on Fri, 27 Nov 2026.
 
 Dave Shichman is a drum & bass and jungle artist based in United States of America, with 48 gigs on soundcheck across Atlanta, Boston, Brighton and Miami and 4 more. Often billed alongside Agent 137, Dieselboy and DJ Strife. Next up: The Crown, New York City on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Dave Shichman is a drum & bass and jungle artist based in United States of Ameri
 
 Agent 137, Dieselboy, DJ Strife
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveshichman/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daveshichman/)*

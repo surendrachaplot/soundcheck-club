@@ -1,16 +1,14 @@
 # Laure Croft
 
-Laure Croft is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Domicile, Miami on Fri, 6 Nov 2026.
+Laure Croft is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Underground Atlanta, Atlanta on Sat, 7 Nov 2026.
 
-Laure Croft is a techno and house artist based in Netherlands, with 229 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 68 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Domicile, Miami on Fri 6 Nov.
+Laure Croft is a techno and house artist based in Netherlands, with 229 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 68 more. Often billed alongside Lacchesi, Spikey Lee and Carmen Electro. Next up: Underground Atlanta, Atlanta on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Domicile | Miami |
-| Fri, 6 Nov 2026 | Domicile | Miami |
-| Sat, 7 Nov 2026 | TBA | Atlanta |
+| Sat, 7 Nov 2026 | Underground Atlanta | Atlanta |
 | Sat, 14 Nov 2026 | TBA - LOCO PARK TBILISI, David Guramishvili Avenue 84 | Tbilisi |
 | Sat, 21 Nov 2026 | Jasna 1 | Warsaw |
 | Fri, 27 Nov 2026 | Studio Club Malaga | Malaga |
@@ -22,17 +20,17 @@ Laure Croft is a techno and house artist based in Netherlands, with 229 gigs on 
 
 ## Recently played
 
+- Domicile, Miami · Fri, 6 Nov 2026
+- Domicile, Miami · Fri, 6 Nov 2026
 - TBA - Los Angeles (Warehouse), Los Angeles · Sat, 31 Oct 2026
 - BASEMENT, New York City · Fri, 30 Oct 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
 - DRUMSHEDS, London · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Fri, 23 Oct 2026
 - Lofi, Amsterdam · Wed, 21 Oct 2026
-- Lutfi Kirdar Congress Center, Istanbul · Sat, 17 Oct 2026
-- TBA, Berlin · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Lacchesi, Spikey Lee, Carmen Electro
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurecroft/)*

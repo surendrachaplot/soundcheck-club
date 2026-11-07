@@ -1,14 +1,13 @@
 # Frankhan Selectist
 
-Frankhan Selectist is a music venue in Istanbul with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Friday: DJ Tennis, Kybba" on Fri, 6 Nov 2026.
+Frankhan Selectist is a music venue in Istanbul with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Ferhat Albayrak 'All Night Long'" on Sat, 7 Nov 2026.
 
-Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 14 upcoming gigs, with line-ups including Paula Tape, Aline Umber, Cabanne and Childplay and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
+Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 13 upcoming gigs, with line-ups including Paula Tape, Aline Umber, Cabanne and Childplay and 2 more. See dates, start times and who's playing. Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Friday: DJ Tennis, Kybba | DJ Tennis |
 | Sat, 7 Nov 2026 | Ferhat Albayrak 'All Night Long' | Ferhat Albayrak |
 | Sat, 7 Nov 2026 | Theo Parrish | Theo Parrish |
 | Fri, 13 Nov 2026 | Alan Power: A Night in Tennessee |  |
@@ -18,9 +17,10 @@ Frankhan Selectist is a music venue in Istanbul listed on soundcheck. 14 upcomin
 | Sat, 21 Nov 2026 | Sofia Kourtesis |  |
 | Fri, 27 Nov 2026 | Are You Disco? presents: Toy Tonics Jam | Gee Lane, Sam Ruffillo, Yasmin |
 | Sat, 28 Nov 2026 | Saturday: Cabanne, Naarly | Cabanne, Naarly |
+| Thu, 10 Dec 2026 | Apollo Brown x Skyzoo: The Easy Luxury Tour |  |
 
 ## Address
 
 Kemankeş Karamustafa Paşa, Kemankeş Cd. No:73, 34425 Beyoğlu/İstanbul, Istanbul
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/frankhan-selectist/)*

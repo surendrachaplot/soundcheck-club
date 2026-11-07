@@ -1,6 +1,6 @@
 # Alex Sourbis
 
-Alex Sourbis is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Lioncity, Brussels on Sat, 12 Dec 2026.
+Alex Sourbis is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Lioncity, Brussels on Sat, 12 Dec 2026.
 
 Alex Sourbis is a bass and techno artist, with 14 gigs on soundcheck across Berlin, Brussels and London. Often billed alongside Sixsixsixties, Dana Kuehr and Maito. Next up: Lioncity, Brussels on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Alex Sourbis is a bass and techno artist, with 14 gigs on soundcheck across Berl
 
 Sixsixsixties, Dana Kuehr, Maito
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsourbis/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexsourbis/)*

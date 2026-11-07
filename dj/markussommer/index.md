@@ -1,6 +1,6 @@
 # Markus Sommer
 
-Markus Sommer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Doka, Amsterdam on Sat, 7 Nov 2026.
+Markus Sommer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Doka, Amsterdam on Sat, 7 Nov 2026.
 
 Markus Sommer is a house and techno artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Tom Ries, Phil Evans and Tzena. Next up: Doka, Amsterdam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Markus Sommer is a house and techno artist based in Germany, with 77 gigs on sou
 
 Tom Ries, Phil Evans, Tzena
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/markussommer/)*

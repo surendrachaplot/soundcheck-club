@@ -1,6 +1,6 @@
 # Rayya
 
-Rayya is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Funkhaus, Vienna on Sat, 7 Nov 2026.
+Rayya is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Funkhaus, Vienna on Sat, 7 Nov 2026.
 
 Rayya is a house and club artist based in Austria, with 43 gigs on soundcheck across Berlin, Frankfurt, Munich and Vienna. Often billed alongside Stipo, Apua and Reinhard Zach. Next up: Funkhaus, Vienna on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Rayya is a house and club artist based in Austria, with 43 gigs on soundcheck ac
 
 Stipo, Apua, Reinhard Zach
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayya/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rayya/)*

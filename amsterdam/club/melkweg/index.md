@@ -1,15 +1,13 @@
 # Melkweg
 
-Melkweg is a music venue in Amsterdam with 30 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Ascension Invites Space Invaderz" on Fri, 6 Nov 2026.
+Melkweg is a music venue in Amsterdam with 29 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Skeler Nightfall World Tour" on Fri, 6 Nov 2026.
 
-Melkweg is a music venue in Amsterdam listed on soundcheck. 30 upcoming gigs, with line-ups including A.R.T., Artful Dodger, Cassius and Chenzo and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
+Melkweg is a music venue in Amsterdam listed on soundcheck. 29 upcoming gigs, with line-ups including A.R.T., Cassius, Chinese Daughter and Cinnaman and 2 more. See dates, start times and who's playing. Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Ascension Invites Space Invaderz | Chenzo |
-| Fri, 6 Nov 2026 | Garage Nation | Artful Dodger, DJ Cartier, MC Kie |
 | Fri, 6 Nov 2026 | Skeler Nightfall World Tour |  |
 | Mon, 9 Nov 2026 | Cheeky Monday: Silloh & MC Gusto | MC Gusto, Silloh |
 | Tue, 10 Nov 2026 | Techno Tuesday Amsterdam, Fiama Molina, Dexon, JP aka Lonestriker | Dexon, Fiama Molina |
@@ -18,9 +16,11 @@ Melkweg is a music venue in Amsterdam listed on soundcheck. 30 upcoming gigs, wi
 | Sat, 14 Nov 2026 | Luminosity pres. Factor B - Theatre of The Mind | Estiva |
 | Sat, 14 Nov 2026 | HIGH TEA presents: Kanine Reflections Amsterdam | Hoax (UK), Kanine |
 | Mon, 16 Nov 2026 | Cheeky Monday: Submorphics & T.R.A.C | Submorphics |
+| Tue, 17 Nov 2026 | Techno Tuesday Amsterdam, Michel Lauriola, Dexon, The Baptist | Dexon, Michel Lauriola |
+| Sat, 21 Nov 2026 | JACK SHORE - ALL NIGHT - IN THE MIDDLE |  |
 
 ## Address
 
 Lijnbaansgracht 234/a, 1017 Binnenstad, Amsterdam, Amsterdam
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/melkweg/)*

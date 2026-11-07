@@ -1,6 +1,6 @@
 # Yuta Yamada
 
-Yuta Yamada is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Oath, Tokyo on Sat, 7 Nov 2026.
+Yuta Yamada is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Oath, Tokyo on Sat, 7 Nov 2026.
 
 Yuta Yamada is a house and tech house artist based in Japan, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and London and 4 more. Often billed alongside Amps, GooPer and Aiko Inoue. Next up: Oath, Tokyo on Sat 7 Nov.
 
@@ -13,6 +13,7 @@ Yuta Yamada is a house and tech house artist based in Japan, with 80 gigs on sou
 
 ## Recently played
 
+- Z Maruyama, Tokyo · Fri, 6 Nov 2026
 - Enter Shibuya, Tokyo · Tue, 13 Oct 2026
 - Z Maruyama, Tokyo · Fri, 9 Oct 2026
 - The Cause, London · Sat, 26 Sept 2026
@@ -20,10 +21,9 @@ Yuta Yamada is a house and tech house artist based in Japan, with 80 gigs on sou
 - Pimpernel, Munich · Thu, 6 Aug 2026
 - Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 19 Jul 2026
 - Enter Shibuya, Tokyo · Fri, 3 Jul 2026
-- Z Maruyama, Tokyo · Wed, 17 Jun 2026
 
 ## Shares bills with
 
 Amps, GooPer, Aiko Inoue
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yutayamada/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yutayamada/)*

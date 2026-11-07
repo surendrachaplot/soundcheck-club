@@ -1,14 +1,13 @@
 # Bad Boombox
 
-Bad Boombox is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Nitsa Club, Barcelona on Fri, 6 Nov 2026.
+Bad Boombox is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Studio Club Malaga, Malaga on Sat, 7 Nov 2026.
 
-Bad Boombox is a techno and trance artist based in Bulgaria, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 71 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Nitsa Club, Barcelona on Fri 6 Nov.
+Bad Boombox is a techno and trance artist based in Bulgaria, with 244 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 71 more. Often billed alongside Mischluft, Janis Zielinski and Ollie Lishman. Next up: Studio Club Malaga, Malaga on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Nitsa Club | Barcelona |
 | Sat, 7 Nov 2026 | Studio Club Malaga | Malaga |
 | Sat, 21 Nov 2026 | Mia Mao | Paris |
 | Sun, 22 Nov 2026 | Le Sucre | Lyon |
@@ -19,6 +18,7 @@ Bad Boombox is a techno and trance artist based in Bulgaria, with 244 gigs on so
 
 ## Recently played
 
+- Nitsa Club, Barcelona · Fri, 6 Nov 2026
 - Kompass Klub, Ghent · Sat, 31 Oct 2026
 - RAWFACTORY, Amsterdam · Fri, 23 Oct 2026
 - Lofi, Amsterdam · Thu, 22 Oct 2026
@@ -26,10 +26,9 @@ Bad Boombox is a techno and trance artist based in Bulgaria, with 244 gigs on so
 - Mondo, Madrid · Sun, 11 Oct 2026
 - Peti Kupe, Zagreb · Sat, 3 Oct 2026
 - 888 Garage, San Francisco/Oakland · Sun, 13 Sept 2026
-- Avalon Hollywood, Los Angeles · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Mischluft, Janis Zielinski, Ollie Lishman
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badboombox/)*

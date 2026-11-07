@@ -1,6 +1,6 @@
 # secret handshake
 
-secret handshake is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
+secret handshake is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
 
 secret handshake is an electro and techno artist based in United States of America, with 16 gigs on soundcheck across New Orleans and Washington DC. Often billed alongside Nile Ashton, lady lavender and Bouffant Bouffant. Next up: El Secreto De Rosita, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ secret handshake is an electro and techno artist based in United States of Ameri
 
 Nile Ashton, lady lavender, Bouffant Bouffant
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secrethandshake/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secrethandshake/)*

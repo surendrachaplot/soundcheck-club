@@ -1,6 +1,6 @@
 # Patience
 
-Patience is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Bungalow Huntington Beach, Orange County on Sat, 7 Nov 2026.
+Patience is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Bungalow Huntington Beach, Orange County on Sat, 7 Nov 2026.
 
 Patience is a house and disco artist based in United States of America, with 16 gigs on soundcheck across California, Los Angeles, Montreal and Orange County and 1 more. Often billed alongside Tamara Lanza, Casmalia and Crimewave. Next up: The Bungalow Huntington Beach, Orange County on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Patience is a house and disco artist based in United States of America, with 16 
 
 Tamara Lanza, Casmalia, Crimewave
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patience/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patience/)*

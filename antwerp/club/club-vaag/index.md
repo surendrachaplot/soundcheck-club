@@ -1,6 +1,6 @@
 # Club Vaag
 
-Club Vaag is a music venue in Antwerp with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Club Vaag invites JAZZY & BLURRED MOVEMENT" on Fri, 13 Nov 2026.
+Club Vaag is a music venue in Antwerp with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Club Vaag invites JAZZY & BLURRED MOVEMENT" on Fri, 13 Nov 2026.
 
 Club Vaag is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, with line-ups including BAUGRUPPE90, Freya, GUTIERREZ and JAZZY and 2 more. See dates, start times and who's playing. Rijnkaai 4 2000 Antwerpen.
 
@@ -18,4 +18,4 @@ Club Vaag is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, wit
 
 Rijnkaai 4 2000 Antwerpen, Antwerp
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/antwerp/club/club-vaag/)*

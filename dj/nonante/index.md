@@ -1,6 +1,6 @@
 # nonante
 
-nonante is a Dub and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
+nonante is a Dub and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at La Source Beer Co, Brussels on Fri, 13 Nov 2026.
 
 nonante is a dub and electro artist based in Belgium, with 8 gigs on soundcheck across Brussels and Paris. Often billed alongside A. Brehme, Alex Kassian and Alfred Anders. Next up: La Source Beer Co, Brussels on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ nonante is a dub and electro artist based in Belgium, with 8 gigs on soundcheck 
 
 A. Brehme, Alex Kassian, Alfred Anders
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonante/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nonante/)*

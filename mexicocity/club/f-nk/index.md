@@ -1,6 +1,6 @@
 # Fünk
 
-Fünk is a music venue in Mexico City with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "tINI & THE GANG x Fünk" on Fri, 6 Nov 2026.
+Fünk is a music venue in Mexico City with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "tINI & THE GANG x Fünk" on Fri, 6 Nov 2026.
 
 Fünk is a music venue in Mexico City listed on soundcheck. 10 upcoming gigs, with line-ups including Argenis Brito, ATEQ, Bastard Love and Duke Skylocker (Disco Dust) and 2 more. See dates, start times and who's playing. Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico.
 
@@ -23,4 +23,4 @@ Fünk is a music venue in Mexico City listed on soundcheck. 10 upcoming gigs, wi
 
 Av. Insurgentes Sur 377, Hipódromo, Cuauhtémoc, 06100 Ciudad de México, CDMX, Mexico, Mexico City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/f-nk/)*

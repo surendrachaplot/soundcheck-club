@@ -1,13 +1,14 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 13 Nov 2026.
+David Löhlein is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at T7 Paris, Paris on Sat, 7 Nov 2026.
 
-David Löhlein is a techno and trance artist based in Germany, with 184 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 60 more. Often billed alongside Raphael Dincsoy, Rove Ranger and Clara Cuvé. Next up: Drugstore Beograd, Belgrade on Fri 13 Nov.
+David Löhlein is a techno and trance artist based in Germany, with 185 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 60 more. Often billed alongside Raphael Dincsoy, Rove Ranger and Clara Cuvé. Next up: T7 Paris, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | T7 Paris | Paris |
 | Fri, 13 Nov 2026 | Drugstore Beograd | Belgrade |
 | Sat, 14 Nov 2026 | TBA - Parking Garage Kresna Uprising | Skopje |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -32,4 +33,4 @@ David Löhlein is a techno and trance artist based in Germany, with 184 gigs on 
 
 Raphael Dincsoy, Rove Ranger, Clara Cuvé
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidlohlein/)*

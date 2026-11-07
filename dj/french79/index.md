@@ -1,6 +1,6 @@
 # French 79
 
-French 79 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at MTELUS, Montreal on Thu, 4 Feb 2027.
+French 79 is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at MTELUS, Montreal on Thu, 4 Feb 2027.
 
 French 79 is an electro and house artist, with 16 gigs on soundcheck across Brussels, Copenhagen, Hamburg and Los Angeles and 10 more. Often billed alongside A Strange Wedding, ABI (FR) and Akua. Next up: MTELUS, Montreal on Thu 4 Feb.
 
@@ -25,4 +25,4 @@ French 79 is an electro and house artist, with 16 gigs on soundcheck across Brus
 
 A Strange Wedding, ABI (FR), Akua
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/french79/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/french79/)*

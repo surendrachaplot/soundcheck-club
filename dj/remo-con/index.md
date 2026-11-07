@@ -1,6 +1,6 @@
 # Remo-con
 
-Remo-con is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Roop Sounds, Chubu on Sat, 14 Nov 2026.
+Remo-con is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Roop Sounds, Chubu on Sat, 14 Nov 2026.
 
 Remo-con is a techno and house artist based in Japan, with 52 gigs on soundcheck across Chubu, Kyoto, Osaka and Tokyo. Often billed alongside BEPPU, YOSHIMASA and Takami. Next up: Roop Sounds, Chubu on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Remo-con is a techno and house artist based in Japan, with 52 gigs on soundcheck
 
 BEPPU, YOSHIMASA, Takami
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remo-con/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remo-con/)*

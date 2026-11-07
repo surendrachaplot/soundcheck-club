@@ -1,6 +1,6 @@
 # Gerd Janson
 
-Gerd Janson is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Gerd Janson is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Gerd Janson is a house and techno artist based in Germany, with 341 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 88 more. Often billed alongside Marcel Dettmann, Âme and DJ Tennis. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ Gerd Janson is a house and techno artist based in Germany, with 341 gigs on soun
 
 Marcel Dettmann, Âme, DJ Tennis
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gerdjanson/)*

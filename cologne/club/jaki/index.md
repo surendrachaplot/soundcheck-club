@@ -1,6 +1,6 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Tom-Tom Discotec presents: Domingo de Cumbia with Dr. Calavera" on Sat, 7 Nov 2026.
+JAKI is a music venue in Cologne with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Tom-Tom Discotec presents: Domingo de Cumbia with Dr. Calavera" on Sat, 7 Nov 2026.
 
 JAKI is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with line-ups including Bogus, Buteo, clara luise and Kosta Kostov. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
@@ -18,4 +18,4 @@ JAKI is a music venue in Cologne listed on soundcheck. 5 upcoming gigs, with lin
 
 Venloer Str. 40,  50672 Cologne, Cologne
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/cologne/club/jaki/)*

@@ -1,6 +1,6 @@
 # CrisseMarqueur
 
-CrisseMarqueur is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ESC, Montreal on Fri, 27 Nov 2026.
+CrisseMarqueur is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at ESC, Montreal on Fri, 27 Nov 2026.
 
 CrisseMarqueur is a techno and electro artist based in Canada, with 74 gigs on soundcheck across Montreal and Toronto. Often billed alongside Pretty Privilege, Syana and Jade(MTL). Next up: ESC, Montreal on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ CrisseMarqueur is a techno and electro artist based in Canada, with 74 gigs on s
 
 Pretty Privilege, Syana, Jade(MTL)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crissemarqueur/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crissemarqueur/)*

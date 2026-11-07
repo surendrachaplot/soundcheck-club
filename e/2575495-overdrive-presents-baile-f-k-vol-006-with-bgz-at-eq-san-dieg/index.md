@@ -1,6 +1,6 @@
 # OVERDRIVE PRESENTS: BAILE F**K VOL. 006 with BGZ at EQ San Diego
 
-OVERDRIVE PRESENTS: BAILE F**K VOL. 006 with BGZ at EQ San Diego on Sun 29 Nov, San Diego. 1 artist: Nukumori. Bass and Baile Funk. See the line-up on soundcheck.
+OVERDRIVE PRESENTS: BAILE F**K VOL. 006 with BGZ at EQ San Diego on Sun 29 Nov, San Diego. 1 artist: Nukumori. Baile Funk and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

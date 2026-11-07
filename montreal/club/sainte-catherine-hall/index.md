@@ -1,6 +1,6 @@
 # Sainte-Catherine Hall
 
-Sainte-Catherine Hall is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Snack House presents: DJ Sexstasy" on Sat, 14 Nov 2026.
+Sainte-Catherine Hall is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Snack House presents: DJ Sexstasy" on Sat, 14 Nov 2026.
 
 Sainte-Catherine Hall is a music venue in Montreal listed on soundcheck. 2 upcoming gigs, with line-ups including Char.l.n, D.Blavatsky, DJ SEXSTASY and LESSSS and 2 more. See dates, start times and who's playing. 917 Ste-Catherine Est, Montreal, QC, Canada, Quebec.
 
@@ -15,4 +15,4 @@ Sainte-Catherine Hall is a music venue in Montreal listed on soundcheck. 2 upcom
 
 917 Ste-Catherine Est, Montreal, QC, Canada, Quebec, Montreal
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sainte-catherine-hall/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/sainte-catherine-hall/)*

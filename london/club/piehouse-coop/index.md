@@ -1,6 +1,6 @@
 # Piehouse Coop
 
-Piehouse Coop is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Piehouse presents: No Home, mem0, Dora Maludi & Mara Never" on Wed, 11 Nov 2026.
+Piehouse Coop is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Piehouse presents: No Home, mem0, Dora Maludi & Mara Never" on Wed, 11 Nov 2026.
 
 Piehouse Coop is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including GUREY and No Home. See dates, start times and who's playing. 213-214 Edward Pl, London SE8 5HD.
 
@@ -15,4 +15,4 @@ Piehouse Coop is a music venue in London listed on soundcheck. 2 upcoming gigs, 
 
 213-214 Edward Pl, London SE8 5HD, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/piehouse-coop/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/piehouse-coop/)*

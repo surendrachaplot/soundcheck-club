@@ -1,6 +1,6 @@
 # Bae Blade
 
-Bae Blade is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at KALT, Strasbourg on Sat, 7 Nov 2026.
+Bae Blade is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at KALT, Strasbourg on Sat, 7 Nov 2026.
 
 Bae Blade is a techno and trance artist, with 123 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 27 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: KALT, Strasbourg on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Bae Blade is a techno and trance artist, with 123 gigs on soundcheck across Amst
 
 Janis Zielinski, Cleopard2000, Juicy Romance
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*

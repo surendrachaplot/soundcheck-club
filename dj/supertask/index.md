@@ -1,6 +1,6 @@
 # Supertask
 
-Supertask is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 19 Dec 2026.
+Supertask is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 19 Dec 2026.
 
 Supertask is a bass and downtempo artist based in United States of America, with 16 gigs on soundcheck across Atlanta, Chicago, Denver and Houston and 11 more. Often billed alongside ATYYA, Agent O and Daizy. Next up: Public Works, San Francisco/Oakland on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Supertask is a bass and downtempo artist based in United States of America, with
 
 ATYYA, Agent O, Daizy
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supertask/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/supertask/)*

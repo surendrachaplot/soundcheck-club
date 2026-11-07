@@ -1,20 +1,20 @@
 # Terry Hunter
 
-Terry Hunter is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Pitch and Pour Supper Club, Chicago on Fri, 6 Nov 2026.
+Terry Hunter is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 21 Nov 2026.
 
-Terry Hunter is a house and deep house artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Chicago and 12 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: TBA - Pitch and Pour Supper Club, Chicago on Fri 6 Nov.
+Terry Hunter is a house and deep house artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Chicago and 12 more. Often billed alongside Mike Dunn, Wayne Williams and Adorio. Next up: Warehouse on Watts, Philadelphia on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Pitch and Pour Supper Club | Chicago |
 | Sat, 21 Nov 2026 | Warehouse on Watts | Philadelphia |
 | Wed, 25 Nov 2026 | The Chocolate Factory | New York City |
 | Sat, 28 Nov 2026 | Le Nocturne | Chicago |
 
 ## Recently played
 
+- TBA - Pitch and Pour Supper Club, Chicago · Fri, 6 Nov 2026
 - Le Nocturne, Chicago · Sat, 31 Oct 2026
 - Het Sieraad, Amsterdam · Sun, 25 Oct 2026
 - Vic's Bar, Amsterdam · Fri, 23 Oct 2026
@@ -22,10 +22,9 @@ Terry Hunter is a house and deep house artist based in United Kingdom, with 104 
 - Jackson Park, Chicago · Sat, 11 Jul 2026
 - smartbar, Chicago · Fri, 10 Jul 2026
 - Room 43, Chicago · Thu, 9 Jul 2026
-- Sound-Bar, Chicago · Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Mike Dunn, Wayne Williams, Adorio
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terryhunter/)*

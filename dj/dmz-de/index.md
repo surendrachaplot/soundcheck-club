@@ -1,6 +1,6 @@
 # DMZ (DE)
 
-DMZ (DE) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
+DMZ (DE) is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at BABY01, Berlin on Sat, 7 Nov 2026.
 
 DMZ (DE) is a techno and dub techno artist based in Germany, with 19 gigs on soundcheck across Berlin and Madrid. Often billed alongside CESTEK, Blind Nagata and (NOT) XCESS. Next up: BABY01, Berlin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DMZ (DE) is a techno and dub techno artist based in Germany, with 19 gigs on sou
 
 CESTEK, Blind Nagata, (NOT) XCESS
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmz-de/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dmz-de/)*

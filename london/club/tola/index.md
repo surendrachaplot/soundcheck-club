@@ -1,14 +1,13 @@
 # Tola
 
-Tola is a music venue in London with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Dubstep / Jungle" on Fri, 6 Nov 2026.
+Tola is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Bloom Sound presents: Blaqq & Why'd (London Debut)" on Sat, 7 Nov 2026.
 
-Tola is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Agility, ARLYSS, Blake and Blaqq & Why'd and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including ARLYSS, Blaqq & Why'd, Brandon Tourle and Chaitu and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | SubFusion - Free Entry Before 11.30pm - Garage / Breaks / Dubstep / Jungle | Agility, Blake (2), Bryn Brax, Whatsname, zoneSL |
 | Sat, 7 Nov 2026 | Bloom Sound presents: Blaqq & Why'd (London Debut) | Blaqq & Why'd, Brandon Tourle, Diego Gee, Jaden Pace, Wes Colstock |
 | Sat, 7 Nov 2026 | Jatozuki & FRIENDS | DJ Shakaraa, Dukesmith, Jatozuki, RIMIX |
 | Thu, 12 Nov 2026 | Tola Thursdays |  |
@@ -18,9 +17,10 @@ Tola is a music venue in London listed on soundcheck. 13 upcoming gigs, with lin
 | Sat, 21 Nov 2026 | The Lobster Café |  |
 | Thu, 26 Nov 2026 | Tola Thursdays |  |
 | Fri, 27 Nov 2026 | The Greater Good - Tola Takeover | Gravy Bois |
+| Sat, 28 Nov 2026 | LO MID HI - EVER AFTER (ALL NIGHT LONG) | Eleonora Cairati, Ryan Henry |
 
 ## Address
 
 56 Peckham High Street SE15 5DP, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/tola/)*

@@ -1,6 +1,6 @@
 # The Avalanches
 
-The Avalanches is a Electronica and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+The Avalanches is a Electronica and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
 The Avalanches is an electronica and house artist based in Australia, with 13 gigs on soundcheck across Adelaide, Bali, Bristol and Brussels and 7 more. Often billed alongside Flume, 2ManyDJs and 4am Kru. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ The Avalanches is an electronica and house artist based in Australia, with 13 gi
 
 Flume, 2ManyDJs, 4am Kru
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/avalanches/)*

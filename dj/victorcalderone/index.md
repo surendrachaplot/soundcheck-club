@@ -1,14 +1,15 @@
 # Victor Calderone
 
-Victor Calderone is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Brooklyn Pacha, New-york-city on Sat, 7 Nov 2026.
+Victor Calderone is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Brooklyn Pacha, New-york-city on Sat, 7 Nov 2026.
 
-Victor Calderone is a house and techno artist based in United States of America, with 73 gigs on soundcheck across Austin, Boston, Charlotte and Denver and 13 more. Often billed alongside Danyelino, Ms. Mada and Avision. Next up: Brooklyn Pacha, New York City on Sat 7 Nov.
+Victor Calderone is a techno and house artist based in United States of America, with 74 gigs on soundcheck across Austin, Boston, Charlotte and Denver and 13 more. Often billed alongside Danyelino, Ms. Mada and Avision. Next up: Brooklyn Pacha, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Brooklyn Pacha | New-york-city |
+| Thu, 3 Dec 2026 | public records | New York City |
 | Sat, 19 Dec 2026 | The Ave Live | Philadelphia |
 
 ## Recently played
@@ -26,4 +27,4 @@ Victor Calderone is a house and techno artist based in United States of America,
 
 Danyelino, Ms. Mada, Avision
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcalderone/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorcalderone/)*

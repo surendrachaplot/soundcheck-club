@@ -1,6 +1,6 @@
 # Paola Vigorito
 
-Paola Vigorito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Rua Líbero Badaró, 137 - Centro Histórico de São Paulo, São Paulo - SP, 01003-010, Brasil, Sao Paulo on Sat, 7 Nov 2026.
+Paola Vigorito is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Rua Líbero Badaró, 137 - Centro Histórico de São Paulo, São Paulo - SP, 01003-010, Brasil, Sao Paulo on Sat, 7 Nov 2026.
 
 Paola Vigorito is a house and techno artist based in Brazil, with 24 gigs on soundcheck across Lisbon and Sao Paulo. Often billed alongside Adnan Sharif, Bryto and A-CIDO. Next up: TBA - Rua Líbero Badaró, 137 - Centro Histórico de São Paulo, São Paulo - SP, 01003-010, Brasil, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Paola Vigorito is a house and techno artist based in Brazil, with 24 gigs on sou
 
 Adnan Sharif, Bryto, A-CIDO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paolavigorito/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paolavigorito/)*

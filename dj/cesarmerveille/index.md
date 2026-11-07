@@ -1,6 +1,6 @@
 # Cesar Merveille
 
-Cesar Merveille is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lion's Den, Miami on Sun, 8 Nov 2026.
+Cesar Merveille is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lion's Den, Miami on Sun, 8 Nov 2026.
 
 Cesar Merveille is a house and minimal artist based in Germany, with 79 gigs on soundcheck across Berlin, Brussels, Bucharest and Central and 19 more. Often billed alongside Viken Arman, Clovis and Rhadoo. Next up: Lion's Den, Miami on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Cesar Merveille is a house and minimal artist based in Germany, with 79 gigs on 
 
 Viken Arman, Clovis, Rhadoo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cesarmerveille/)*

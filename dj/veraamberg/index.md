@@ -1,6 +1,6 @@
 # Vera Amberg
 
-Vera Amberg is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nordstern, Basel on Fri, 27 Nov 2026.
+Vera Amberg is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nordstern, Basel on Fri, 27 Nov 2026.
 
 Vera Amberg is an electronic artist based in Switzerland, with 8 gigs on soundcheck across Basel, Switzerland and Zurich. Often billed alongside MARCISM, Yarbit and ADO (DE). Next up: Nordstern, Basel on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Vera Amberg is an electronic artist based in Switzerland, with 8 gigs on soundch
 
 MARCISM, Yarbit, ADO (DE)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veraamberg/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veraamberg/)*

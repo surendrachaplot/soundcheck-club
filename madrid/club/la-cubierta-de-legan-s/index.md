@@ -1,6 +1,6 @@
 # La Cubierta de Leganés
 
-La Cubierta de Leganés is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Blackworks New Year's Day Festival" on Fri, 1 Jan 2027.
+La Cubierta de Leganés is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Blackworks New Year's Day Festival" on Fri, 1 Jan 2027.
 
 La Cubierta de Leganés is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including Holy Priest and Restricted. See dates, start times and who's playing. Calle del Maestro, s/n, 28914 Leganés, Madrid, Spain.
 
@@ -14,4 +14,4 @@ La Cubierta de Leganés is a music venue in Madrid listed on soundcheck. 1 upcom
 
 Calle del Maestro, s/n, 28914 Leganés, Madrid, Spain, Madrid
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-cubierta-de-legan-s/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/la-cubierta-de-legan-s/)*

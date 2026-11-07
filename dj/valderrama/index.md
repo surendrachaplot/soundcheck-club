@@ -1,6 +1,6 @@
 # Valderrama
 
-Valderrama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at M.N.Roy, Mexico City on Sat, 7 Nov 2026.
+Valderrama is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at M.N.Roy, Mexico City on Sat, 7 Nov 2026.
 
 Valderrama is a techno and house artist based in Colombia, with 36 gigs on soundcheck across Austin, Barcelona, Berlin and Bogotá and 5 more. Often billed alongside NUUP, Thomas Hernandez and Kevin Ganora. Next up: M.N.Roy, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Valderrama is a techno and house artist based in Colombia, with 36 gigs on sound
 
 NUUP, Thomas Hernandez, Kevin Ganora
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valderrama/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valderrama/)*

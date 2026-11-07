@@ -1,6 +1,6 @@
 # DJ Beast
 
-DJ Beast is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Charlatan, Ghent on Sat, 5 Dec 2026.
+DJ Beast is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Charlatan, Ghent on Sat, 5 Dec 2026.
 
 DJ Beast is a club and house artist based in United States of America, with 15 gigs on soundcheck across Baltimore, Berlin, Ghent and Philadelphia. Often billed alongside Petty Penguin, Dagm and Ducky Dynamo. Next up: Charlatan, Ghent on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Beast is a club and house artist based in United States of America, with 15 g
 
 Petty Penguin, Dagm, Ducky Dynamo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeast/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbeast/)*

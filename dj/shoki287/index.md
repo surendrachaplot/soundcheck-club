@@ -1,6 +1,6 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Domicile, Miami on Sat, 7 Nov 2026.
+SHOKI287 is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Domicile, Miami on Sat, 7 Nov 2026.
 
 SHOKI287 is a techno and trance artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Antwerp, Athens and Augsburg and 36 more. Often billed alongside DJ Cringey, MCR-T and Justin Tinderdate. Next up: Domicile, Miami on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ SHOKI287 is a techno and trance artist based in Germany, with 115 gigs on soundc
 
 DJ Cringey, MCR-T, Justin Tinderdate
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shoki287/)*

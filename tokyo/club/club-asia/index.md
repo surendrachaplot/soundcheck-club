@@ -1,14 +1,13 @@
 # club asia
 
-club asia is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "'BEAT BOUTIQUE ll'" on Fri, 6 Nov 2026.
+club asia is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "VEXRA TOKYO: MUST DIE" on Sat, 7 Nov 2026.
 
-club asia is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including 80KIDZ, Acrocanthosaurus, Albino Sound and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
+club asia is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including 80KIDZ, Acrocanthosaurus, Albino Sound and Amps and 2 more. See dates, start times and who's playing. 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | 'BEAT BOUTIQUE ll' | JASS (JO), Olive Oil, POM (1) |
 | Sat, 7 Nov 2026 | VEXRA TOKYO: MUST DIE | Rëgret, kors k |
 | Wed, 11 Nov 2026 | EXODUS vol.258 |  |
 | Thu, 12 Nov 2026 | Clubasia Thursday |  |
@@ -18,9 +17,10 @@ club asia is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with
 | Wed, 18 Nov 2026 | EXODUS vol.259 | FUJI TRILL, KANT, Masaki, Yak, ban, ki (43), kyuuu, misa nakamura |
 | Thu, 19 Nov 2026 | DEJI | Sekitova, kiyota (2) |
 | Thu, 19 Nov 2026 | club asia THURSDAY | Albino Sound, Axefield, Nova, Romy Mats |
+| Fri, 20 Nov 2026 | MAD MAGIC ORCHESTRA | Can (8), DJ B2B, Eichi Abe, FELINE (JP), Kanamemandala, Naoki Ikawa, Pointhope, West Ape, roomquake |
 
 ## Address
 
 1-8 Maruyamacho, Shibuya-ku, Tokyo, 150-0044 Japan, Tokyo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/club-asia/)*

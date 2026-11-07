@@ -1,6 +1,6 @@
 # Monoky (2)
 
-Monoky (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Monoky (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Monoky is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across Miami and Orlando. Often billed alongside ChaseWest, Franky Rizardo and Inbal. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -12,6 +12,7 @@ Monoky is a house and tech house artist based in United States of America, with 
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Floyd, Miami · Sat, 10 Oct 2026
@@ -24,4 +25,4 @@ Monoky is a house and tech house artist based in United States of America, with 
 
 ChaseWest, Franky Rizardo, Inbal
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monoky-2/)*

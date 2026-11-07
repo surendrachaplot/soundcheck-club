@@ -1,6 +1,6 @@
 # Henry C
 
-Henry C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sat, 7 Nov 2026.
+Henry C is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Gorg-O-Mish, Vancouver on Sat, 7 Nov 2026.
 
 Henry C is a techno and house artist, with 18 gigs on soundcheck across Calgary and Vancouver. Often billed alongside Jay Di, Edgar Cal and Marist. Next up: Gorg-O-Mish, Vancouver on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Henry C is a techno and house artist, with 18 gigs on soundcheck across Calgary 
 
 Jay Di, Edgar Cal, Marist
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henryc/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henryc/)*

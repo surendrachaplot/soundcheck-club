@@ -1,6 +1,6 @@
 # Zagal
 
-Zagal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
+Zagal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
 
 Zagal is a house and techno artist based in Spain, with 10 gigs on soundcheck across Barcelona, Brussels and Madrid. Often billed alongside Killo, Cristal Roto and Ana Alves. Next up: TBA - El Invernadero, Madrid on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Zagal is a house and techno artist based in Spain, with 10 gigs on soundcheck ac
 
 Killo, Cristal Roto, Ana Alves
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zagal/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zagal/)*

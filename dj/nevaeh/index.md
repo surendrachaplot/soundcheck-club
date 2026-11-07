@@ -1,6 +1,6 @@
 # NEVAEH
 
-NEVAEH is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Morgan MFG., Chicago on Sat, 7 Nov 2026.
+NEVAEH is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Morgan MFG., Chicago on Sat, 7 Nov 2026.
 
 NEVAEH is a hardcore and techno artist, with 10 gigs on soundcheck across Chicago, Krakow and Warsaw. Often billed alongside Kacha, yerbby and ADHARDER. Next up: Morgan MFG., Chicago on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ NEVAEH is a hardcore and techno artist, with 10 gigs on soundcheck across Chicag
 
 Kacha, yerbby, ADHARDER
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevaeh/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevaeh/)*

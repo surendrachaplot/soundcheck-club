@@ -1,6 +1,6 @@
 # Ronnie Herel
 
-Ronnie Herel is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Space Leeds, Leeds on Sat, 7 Nov 2026.
+Ronnie Herel is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Space Leeds, Leeds on Sat, 7 Nov 2026.
 
 Ronnie Herel is a house and deep house artist based in United Kingdom, with 25 gigs on soundcheck across Leeds, Lisbon, London and Malaga. Often billed alongside Neil Pierce, DJ Murrell and DJ Spen. Next up: The Space Leeds, Leeds on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Ronnie Herel is a house and deep house artist based in United Kingdom, with 25 g
 
 Neil Pierce, DJ Murrell, DJ Spen
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnieherel/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronnieherel/)*

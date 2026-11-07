@@ -1,6 +1,6 @@
 # Aashofteh
 
-Aashofteh is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
+Aashofteh is a Tech House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri, 26 Mar 2027.
 
 Aashofteh is a tech house and downtempo artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside Miscmeg, Sofay and ATARANGI. Next up: TBA - Djargurd Wurrong Country (Victoria, Australia), Melbourne on Fri 26 Mar.
 
@@ -25,4 +25,4 @@ Aashofteh is a tech house and downtempo artist based in Australia, with 10 gigs 
 
 Miscmeg, Sofay, ATARANGI
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aashofteh/)*

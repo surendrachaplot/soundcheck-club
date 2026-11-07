@@ -1,6 +1,6 @@
 # e-garbage
 
-e-garbage is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Duplex, Geneva on Sat, 7 Nov 2026.
+e-garbage is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Duplex, Geneva on Sat, 7 Nov 2026.
 
 e-garbage is a techno and acid artist based in Switzerland, with 30 gigs on soundcheck across Bordeaux, Geneva, Lausanne and Lyon and 1 more. Often billed alongside Owelle, AUBE and Audrey Danza. Next up: Duplex, Geneva on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ e-garbage is a techno and acid artist based in Switzerland, with 30 gigs on soun
 
 Owelle, AUBE, Audrey Danza
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-garbage/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/e-garbage/)*

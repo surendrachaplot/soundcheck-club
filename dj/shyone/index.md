@@ -1,6 +1,6 @@
 # Shy One
 
-Shy One is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 24 Kitchen Street Green Room, Liverpool on Sat, 7 Nov 2026.
+Shy One is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at 24 Kitchen Street Green Room, Liverpool on Sat, 7 Nov 2026.
 
 Shy One is a house and techno artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 29 more. Often billed alongside Ruby Savage, NIKS and OK Williams. Next up: 24 Kitchen Street Green Room, Liverpool on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Shy One is a house and techno artist based in United Kingdom, with 133 gigs on s
 
 Ruby Savage, NIKS, OK Williams
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shyone/)*

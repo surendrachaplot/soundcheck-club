@@ -1,6 +1,6 @@
 # Raivo Sloan
 
-Raivo Sloan is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 21 Nov 2026.
+Raivo Sloan is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 21 Nov 2026.
 
 Raivo Sloan is an experimental and electronica artist based in United Kingdom, with 18 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside makaya, HUNTRESS and Isa Gordon. Next up: The Berkeley Suite, Glasgow on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Raivo Sloan is an experimental and electronica artist based in United Kingdom, w
 
 makaya, HUNTRESS, Isa Gordon
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raivosloan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raivosloan/)*

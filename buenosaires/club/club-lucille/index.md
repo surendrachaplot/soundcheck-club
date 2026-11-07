@@ -1,6 +1,6 @@
 # Club Lucille
 
-Club Lucille is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "La Once PINK - After Pride" on Sat, 7 Nov 2026.
+Club Lucille is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "La Once PINK - After Pride" on Sat, 7 Nov 2026.
 
 Club Lucille is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Club Lucille is a music venue in Buenos Aires listed on soundcheck. 1 upcoming g
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | La Once PINK - After Pride |  |
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/club-lucille/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/club-lucille/)*

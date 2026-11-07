@@ -1,14 +1,13 @@
 # Café Flora
 
-Café Flora is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Club Sandwich" on Fri, 6 Nov 2026.
+Café Flora is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Black Lamb" on Sat, 7 Nov 2026.
 
-Café Flora is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including LIZZN, Tobias Sommer and Triptyque. See dates, start times and who's playing. Parvis de Saint-Gilles, 16A ; 1060 Brussels.
+Café Flora is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including LIZZN and Tobias Sommer. See dates, start times and who's playing. Parvis de Saint-Gilles, 16A ; 1060 Brussels.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Club Sandwich | Triptyque |
 | Sat, 7 Nov 2026 | Black Lamb |  |
 | Sat, 12 Dec 2026 | Café Flora invites LIZZN b2b Tobias Sommer | LIZZN, Tobias Sommer |
 
@@ -16,4 +15,4 @@ Café Flora is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, 
 
 Parvis de Saint-Gilles, 16A ; 1060 Brussels, Brussels
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/caf-flora/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/caf-flora/)*

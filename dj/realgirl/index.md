@@ -1,6 +1,6 @@
 # Real Girl
 
-Real Girl is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Black Hart of St. Paul, Minneapolis/St Paul on Sat, 7 Nov 2026.
+Real Girl is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Black Hart of St. Paul, Minneapolis/St Paul on Sat, 7 Nov 2026.
 
 Real Girl is a house and disco artist based in United States of America, with 21 gigs on soundcheck across Minneapolis/St Paul. Often billed alongside Ori The Ghost, Beab and DJ Blue Funk. Next up: Black Hart of St. Paul, Minneapolis/St Paul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Real Girl is a house and disco artist based in United States of America, with 21
 
 Ori The Ghost, Beab, DJ Blue Funk
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/realgirl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/realgirl/)*

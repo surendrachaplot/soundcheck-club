@@ -1,14 +1,13 @@
 # Knockdown Center
 
-Knockdown Center is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "B3K INVITES NY" on Fri, 6 Nov 2026.
+Knockdown Center is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DJ Harvey, Kenny Dope, Dee Diggs" on Fri, 13 Nov 2026.
 
-Knockdown Center is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Ammo Avenue, Anish Kumar, Aumnï and Bonobo and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
+Knockdown Center is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including Ammo Avenue, Anish Kumar, Aumnï and Bonobo and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Queens, NY 11378 USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | B3K INVITES NY | Brutalismus 3000, Dorian Electra, Eera, Nurse (UK), SPFDJ |
 | Fri, 13 Nov 2026 | DJ Harvey, Kenny Dope, Dee Diggs | DJ Harvey, Dee Diggs, Kenny Dope |
 | Sat, 14 Nov 2026 | DAX J (Open to Close) | DAX J |
 | Sat, 28 Nov 2026 | MPH – NEW YORK, FOREVER with Honey Bun & Home Room | Honey Bun, MPH (1) |
@@ -23,4 +22,4 @@ Knockdown Center is a music venue in New York City listed on soundcheck. 10 upco
 
 52-19 Flushing Ave., Queens, NY 11378 USA, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/knockdown-center/)*

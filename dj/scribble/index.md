@@ -1,6 +1,6 @@
 # Scribble
 
-Scribble is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Gutter, New York City on Fri, 13 Nov 2026.
+Scribble is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Gutter, New York City on Fri, 13 Nov 2026.
 
 Scribble is a house and garage artist based in United States of America, with 24 gigs on soundcheck across New York City and Tokyo. Often billed alongside LoKho, ceviché and Abril IRL. Next up: The Gutter, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Scribble is a house and garage artist based in United States of America, with 24
 
 LoKho, ceviché, Abril IRL
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scribble/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scribble/)*

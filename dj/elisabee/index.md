@@ -1,6 +1,6 @@
 # Elisa Bee
 
-Elisa Bee is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 14 Nov 2026.
+Elisa Bee is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 14 Nov 2026.
 
 Elisa Bee is a techno and house artist based in Italy, with 82 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 18 more. Often billed alongside Industrial Romantico, Marthial and Acidalia. Next up: Tempio del Futuro Perduto, Milan on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Elisa Bee is a techno and house artist based in Italy, with 82 gigs on soundchec
 
 Industrial Romantico, Marthial, Acidalia
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabee/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elisabee/)*

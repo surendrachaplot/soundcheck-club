@@ -1,6 +1,6 @@
 # DJ Hazard
 
-DJ Hazard is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+DJ Hazard is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 DJ Hazard is a drum & bass and jungle artist based in United Kingdom, with 46 gigs on soundcheck across Adelaide, Bangkok, Belfast and Birmingham and 16 more. Often billed alongside DJ Hype, IC3 and Dillinja. Next up: XOYO, London on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ DJ Hazard is a drum & bass and jungle artist based in United Kingdom, with 46 gi
 
 DJ Hype, IC3, Dillinja
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhazard/)*

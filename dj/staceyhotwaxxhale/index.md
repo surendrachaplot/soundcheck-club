@@ -1,6 +1,6 @@
 # Stacey Hotwaxx Hale
 
-Stacey Hotwaxx Hale is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at HALO DETROIT, Detroit on Sat, 7 Nov 2026.
+Stacey Hotwaxx Hale is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at HALO DETROIT, Detroit on Sat, 7 Nov 2026.
 
 Stacey Hotwaxx Hale is a house and techno artist based in United States of America, with 150 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Darryl G, Rimarkable and Ashton Swinton. Next up: HALO DETROIT, Detroit on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Stacey Hotwaxx Hale is a house and techno artist based in United States of Ameri
 
 Darryl G, Rimarkable, Ashton Swinton
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staceyhotwaxxhale/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staceyhotwaxxhale/)*

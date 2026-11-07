@@ -1,6 +1,6 @@
 # Steve O'Sullivan
 
-Steve O'Sullivan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
+Steve O'Sullivan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
 
 Steve O'Sullivan is a house and techno artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Yossi Amoyal, Dana Ruh and Daniel Bell. Next up: The Garden Tisno, Croatia on Thu 26 Aug.
 
@@ -25,4 +25,4 @@ Steve O'Sullivan is a house and techno artist based in United Kingdom, with 25 g
 
 Yossi Amoyal, Dana Ruh, Daniel Bell
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveosullivan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveosullivan/)*

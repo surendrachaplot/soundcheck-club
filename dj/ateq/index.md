@@ -1,6 +1,6 @@
 # ATEQ
 
-ATEQ is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Masada, Milan on Sat, 7 Nov 2026.
+ATEQ is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Masada, Milan on Sat, 7 Nov 2026.
 
 ATEQ is a techno and house artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 16 more. Often billed alongside ORION (IT), skyra and Kancheli. Next up: Masada, Milan on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ ATEQ is a techno and house artist based in Germany, with 59 gigs on soundcheck a
 
 ORION (IT), skyra, Kancheli
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ateq/)*

@@ -1,6 +1,6 @@
 # Gorg-O-Mish
 
-Gorg-O-Mish is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "ANALOG // Jay Tripwire, AWood & Briser G // Vinyl Set" on Fri, 6 Nov 2026.
+Gorg-O-Mish is a music venue in Vancouver with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ANALOG // Jay Tripwire, AWood & Briser G // Vinyl Set" on Fri, 6 Nov 2026.
 
 Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs, with line-ups including AWood, Bryn Liedl, Henry C and Jay Tripwire and 1 more. See dates, start times and who's playing. 695 Smithe St; Vancouver, BC V6B 2C9; Canada.
 
@@ -15,4 +15,4 @@ Gorg-O-Mish is a music venue in Vancouver listed on soundcheck. 2 upcoming gigs,
 
 695 Smithe St; Vancouver, BC V6B 2C9; Canada, Vancouver
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/gorg-o-mish/)*

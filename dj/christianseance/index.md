@@ -1,6 +1,6 @@
 # Christian Séance
 
-Christian Séance is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - House of Ursa, Gothenburg on Mon, 20 Jun 2044.
+Christian Séance is a House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - House of Ursa, Gothenburg on Mon, 20 Jun 2044.
 
 Christian Séance is a house and minimal techno artist based in Germany, with 13 gigs on soundcheck across Gothenburg. Often billed alongside Ajaks, AndArc and Bomström. Next up: TBA - House of Ursa, Gothenburg on Mon 20 Jun.
 
@@ -25,4 +25,4 @@ Christian Séance is a house and minimal techno artist based in Germany, with 13
 
 Ajaks, AndArc, Bomström
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianseance/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianseance/)*

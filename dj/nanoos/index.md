@@ -1,6 +1,6 @@
 # Nanoos
 
-Nanoos is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sleeping Village, Chicago on Sat, 7 Nov 2026.
+Nanoos is a Club and Ghetto Tech artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sleeping Village, Chicago on Sat, 7 Nov 2026.
 
 Nanoos is a club and ghetto tech artist based in United States of America, with 94 gigs on soundcheck across Atlanta, Berlin, Boston and Chicago and 20 more. Often billed alongside Cquestt, Dj Nico and Fullbodydurag. Next up: Sleeping Village, Chicago on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Nanoos is a club and ghetto tech artist based in United States of America, with 
 
 Cquestt, Dj Nico, Fullbodydurag
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nanoos/)*

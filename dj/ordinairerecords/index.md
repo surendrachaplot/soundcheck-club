@@ -1,6 +1,6 @@
 # Ordinaire Records
 
-Ordinaire Records is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at La Kulture, Strasbourg on Sat, 7 Nov 2026.
+Ordinaire Records is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at La Kulture, Strasbourg on Sat, 7 Nov 2026.
 
 Ordinaire Records is a house and disco artist based in France, with 16 gigs on soundcheck across Berlin, Lyon and Strasbourg. Often billed alongside El Kazed, Evan Tail and Perruche. Next up: La Kulture, Strasbourg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ordinaire Records is a house and disco artist based in France, with 16 gigs on s
 
 El Kazed, Evan Tail, Perruche
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ordinairerecords/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ordinairerecords/)*

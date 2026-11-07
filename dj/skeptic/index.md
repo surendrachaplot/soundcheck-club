@@ -1,6 +1,6 @@
 # Skeptic
 
-Skeptic is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mono, Rotterdam on Sat, 21 Nov 2026.
+Skeptic is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Mono, Rotterdam on Sat, 21 Nov 2026.
 
 Skeptic is a garage and house artist based in United Kingdom, with 90 gigs on soundcheck across Aberdeen, Antwerp, Bangkok and Barcelona and 28 more. Often billed alongside Silva Bumpa, Dr Dubplate and Soul Mass Transit System. Next up: Mono, Rotterdam on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Skeptic is a garage and house artist based in United Kingdom, with 90 gigs on so
 
 Silva Bumpa, Dr Dubplate, Soul Mass Transit System
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptic/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skeptic/)*

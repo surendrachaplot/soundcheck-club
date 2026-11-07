@@ -1,6 +1,6 @@
 # Phijos
 
-Phijos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at La Paloma, Barcelona on Fri, 27 Nov 2026.
+Phijos is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at La Paloma, Barcelona on Fri, 27 Nov 2026.
 
 Phijos is a house and techno artist based in South Africa, with 17 gigs on soundcheck across Barcelona, Berlin, Cape Town and Leipzig and 2 more. Often billed alongside DRAGMOTHER, Pierre-Estienne and Amy Mauritz. Next up: La Paloma, Barcelona on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Phijos is a house and techno artist based in South Africa, with 17 gigs on sound
 
 DRAGMOTHER, Pierre-Estienne, Amy Mauritz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phijos/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/phijos/)*

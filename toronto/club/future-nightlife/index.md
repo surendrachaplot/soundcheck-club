@@ -1,14 +1,13 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Alex Wann Takes Over Future - November 6" on Fri, 6 Nov 2026.
+Future Nightlife is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Alive Saturdays" on Sat, 7 Nov 2026.
 
-Future Nightlife is a music venue in Toronto listed on soundcheck. 9 upcoming gigs, with line-ups including Alex Wann, Rafael Cerato, Rivo and Roger Sanchez and 1 more. See dates, start times and who's playing. 570 Queen Street West.
+Future Nightlife is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Rafael Cerato, Rivo, Roger Sanchez and Solardo. See dates, start times and who's playing. 570 Queen Street West.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Alex Wann Takes Over Future - November 6 | Alex Wann |
 | Sat, 7 Nov 2026 | Alive Saturdays |  |
 | Sat, 7 Nov 2026 | Kim Lee - Nov 7 inside FUTURE - Saturday Night |  |
 | Thu, 12 Nov 2026 | Rivo - Future's 2 Year Anniversary - Thursday, November 12 | Rivo |
@@ -22,4 +21,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 9 upcoming gi
 
 570 Queen Street West, Toronto
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

@@ -1,6 +1,6 @@
 # Youandewan
 
-Youandewan is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Chocolate Factory, New York City on Sat, 7 Nov 2026.
+Youandewan is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Chocolate Factory, New York City on Sat, 7 Nov 2026.
 
 Youandewan is a house and minimal artist based in Germany, with 125 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 41 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: The Chocolate Factory, New York City on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Youandewan is a house and minimal artist based in Germany, with 125 gigs on soun
 
 Huerta, Liquid Earth, Truly Madly
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/youandewan/)*

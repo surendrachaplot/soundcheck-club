@@ -1,6 +1,6 @@
 # SUBDIDI
 
-SUBDIDI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Vancouver on Fri, 20 Nov 2026.
+SUBDIDI is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Vancouver on Fri, 20 Nov 2026.
 
 SUBDIDI is a techno and house artist based in Canada, with 42 gigs on soundcheck across Toronto and Vancouver. Often billed alongside nalule, DR BPM and ADAM. Next up: TBA, Vancouver on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ SUBDIDI is a techno and house artist based in Canada, with 42 gigs on soundcheck
 
 nalule, DR BPM, ADAM (9)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subdidi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/subdidi/)*

@@ -1,6 +1,6 @@
 # Prichindel
 
-Prichindel is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Prichindel is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Prichindel is a house and minimal artist, with 76 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 21 more. Often billed alongside Dragos Ilici, Cap and Mark Dumitrescu. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Prichindel is a house and minimal artist, with 76 gigs on soundcheck across Barc
 
 Dragos Ilici, Cap, Mark Dumitrescu
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prichindel/)*

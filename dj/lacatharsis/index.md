@@ -1,6 +1,6 @@
 # LA CATHARSIS
 
-LA CATHARSIS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 8 Nov 2026.
+LA CATHARSIS is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at EL SÓTANO, Madrid on Sun, 8 Nov 2026.
 
 LA CATHARSIS is a techno and acid artist based in France, with 11 gigs on soundcheck across Madrid. Often billed alongside Arok Shiva, KZTÀ and Nitoryu. Next up: EL SÓTANO, Madrid on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ LA CATHARSIS is a techno and acid artist based in France, with 11 gigs on soundc
 
 Arok Shiva, KZTÀ, Nitoryu
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lacatharsis/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lacatharsis/)*

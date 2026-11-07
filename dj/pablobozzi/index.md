@@ -1,8 +1,8 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bien Public, Bordeaux on Fri, 13 Nov 2026.
+Pablo Bozzi is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bien Public, Bordeaux on Fri, 13 Nov 2026.
 
-Pablo Bozzi is a techno and house artist based in Germany, with 250 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 74 more. Often billed alongside Phase Fatale, Jen Cardini and Soft Crash. Next up: Bien Public, Bordeaux on Fri 13 Nov.
+Pablo Bozzi is a techno and house artist based in Germany, with 251 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 74 more. Often billed alongside Phase Fatale, Jen Cardini and DJ Gigola. Next up: Bien Public, Bordeaux on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Pablo Bozzi is a techno and house artist based in Germany, with 250 gigs on soun
 | Fri, 13 Nov 2026 | Bien Public | Bordeaux |
 | Sat, 14 Nov 2026 | Wigwam | Dublin |
 | Fri, 20 Nov 2026 | KHIDI | Tbilisi |
+| Fri, 18 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Thu, 31 Dec 2026 | fabric | London |
 
 ## Recently played
@@ -26,6 +27,6 @@ Pablo Bozzi is a techno and house artist based in Germany, with 250 gigs on soun
 
 ## Shares bills with
 
-Phase Fatale, Jen Cardini, Soft Crash
+Phase Fatale, Jen Cardini, DJ Gigola
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pablobozzi/)*

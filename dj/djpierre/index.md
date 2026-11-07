@@ -1,6 +1,6 @@
 # DJ Pierre
 
-DJ Pierre is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at World Headquarters, Newcastle on Sat, 7 Nov 2026.
+DJ Pierre is a Acid and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at World Headquarters, Newcastle on Sat, 7 Nov 2026.
 
 DJ Pierre is an acid and techno artist based in United States of America, with 49 gigs on soundcheck across Amsterdam, Atlanta, Baltimore and Berlin and 19 more. Often billed alongside Alex Pi, Posthuman and BLACKCLUB. Next up: World Headquarters, Newcastle on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ Pierre is an acid and techno artist based in United States of America, with 4
 
 Alex Pi, Posthuman, BLACKCLUB
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpierre/)*

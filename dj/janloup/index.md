@@ -1,6 +1,6 @@
 # Jan Loup
 
-Jan Loup is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Jan Loup is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Jan Loup is a bass and techno artist based in France, with 76 gigs on soundcheck across Amsterdam, Berlin, Bologna and Bordeaux and 28 more. Often billed alongside Maquis Son Sistèm, ojoo and A Strange Wedding. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -16,6 +16,7 @@ Jan Loup is a bass and techno artist based in France, with 76 gigs on soundcheck
 
 ## Recently played
 
+- Cité du Design Saint Etienne, Central · Fri, 6 Nov 2026
 - TBA, Berlin · Sun, 1 Nov 2026
 - Bal Chavaux, Paris · Sat, 24 Oct 2026
 - OHM, Berlin · Fri, 23 Oct 2026
@@ -23,10 +24,9 @@ Jan Loup is a bass and techno artist based in France, with 76 gigs on soundcheck
 - Ankali & Planeta Za, Prague · Fri, 9 Oct 2026
 - Mains D'œuvres, Paris · Sat, 3 Oct 2026
 - Sameheads, Berlin · Fri, 2 Oct 2026
-- Zoo, Geneva · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Maquis Son Sistèm, ojoo, A Strange Wedding
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janloup/)*

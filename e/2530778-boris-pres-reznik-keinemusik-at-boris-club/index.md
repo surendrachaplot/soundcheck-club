@@ -1,6 +1,6 @@
 # Boris pres. Reznik (Keinemusik) at BORIS CLUB
 
-Boris pres. Reznik (Keinemusik) at BORIS CLUB on Sat 7 Nov, Barcelona. 1 artist: Reznik. House and Deep House. See the line-up on soundcheck.
+Boris pres. Reznik (Keinemusik) at BORIS CLUB on Sat 7 Nov, Barcelona. 3 artists: K:ROL, Marcel BS and Reznik. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Boris pres. Reznik (Keinemusik) at BORIS CLUB on Sat 7 Nov, Barcelona. 1 artist:
 
 ## Line-up
 
+- K:ROL
+- Marcel BS
 - Reznik
 
 *Source: [soundcheck](https://soundcheck.club/e/2530778-boris-pres-reznik-keinemusik-at-boris-club/)*

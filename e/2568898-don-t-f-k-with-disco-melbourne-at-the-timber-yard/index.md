@@ -1,6 +1,6 @@
 # Don't F**k with Disco - Melbourne at The Timber Yard
 
-Don't F**k with Disco - Melbourne at The Timber Yard on Fri 5 Feb, Melbourne. 1 artist: Don't F**k with Disco. See the line-up on soundcheck.
+Don't F**k with Disco - Melbourne at The Timber Yard on Fri 5 Feb, Melbourne. 1 artist: Don't F**k with Disco. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

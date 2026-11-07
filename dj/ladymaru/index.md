@@ -1,6 +1,6 @@
 # Lady Maru
 
-Lady Maru is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Esplanade Wolfsburg, Lower-saxony on Sat, 7 Nov 2026.
+Lady Maru is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Esplanade Wolfsburg, Lower-saxony on Sat, 7 Nov 2026.
 
 Lady Maru is a techno and hardcore artist based in Italy, with 114 gigs on soundcheck across Beijing, Berlin, Bogotá and Bologna and 18 more. Often billed alongside Samantha Togni, fivequestionmarks and Metaraph. Next up: Esplanade Wolfsburg, Lower Saxony on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Lady Maru is a techno and hardcore artist based in Italy, with 114 gigs on sound
 
 Samantha Togni, fivequestionmarks, Metaraph
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymaru/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymaru/)*

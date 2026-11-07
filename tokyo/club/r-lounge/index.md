@@ -1,14 +1,13 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "STEPP UPP" on Fri, 6 Nov 2026.
+R Lounge is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Snitch -The Festival-" on Sat, 7 Nov 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including 063N13, 雷庵(RYan), Anri and ATT and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including 雷庵(RYan), Anri, ATT and Attik and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | STEPP UPP | 063N13, MileZ, NIGELTHREETIMES, Samo |
 | Sat, 7 Nov 2026 | Snitch -The Festival- | Cylon, IRY (1), Kato, PONTA, WATARU |
 | Sun, 8 Nov 2026 | terrordome Vol.55 | Kanon (2), MIDI War |
 | Thu, 12 Nov 2026 | LUEUR vol.6 | Anri (2) |
@@ -18,9 +17,10 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with 
 | Fri, 20 Nov 2026 | 3000Thirty feat. KOLOstyle & BOGL | Dayzero, Midnight Runner (2) |
 | Sun, 22 Nov 2026 | Osaka & Tokyo Collaboration Party | Cine, DADO, Nanako Yamane |
 | Sun, 22 Nov 2026 | H.O.F feat. Cisco De Sol | Ëmbyrblume |
+| Thu, 26 Nov 2026 | Resound | MOTOKA, SIGNAL (JP) |
 
 ## Address
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

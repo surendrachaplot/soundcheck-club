@@ -1,6 +1,6 @@
 # Ina Kacz
 
-Ina Kacz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
+Ina Kacz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OXI, Berlin on Thu, 31 Dec 2026.
 
 Ina Kacz is a techno and house artist based in France, with 56 gigs on soundcheck across Athens, Barcelona, Berlin and Bratislava and 16 more. Often billed alongside Luigi Tozzi, DJ Nobu and Erika. Next up: OXI, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Ina Kacz is a techno and house artist based in France, with 56 gigs on soundchec
 
 Luigi Tozzi, DJ Nobu, Erika
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inakacz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inakacz/)*

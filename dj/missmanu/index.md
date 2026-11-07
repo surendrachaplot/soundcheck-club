@@ -1,6 +1,6 @@
 # Miss Manu
 
-Miss Manu is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
+Miss Manu is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 19 Dec 2026.
 
 Miss Manu is a tech house and techno artist based in Italy, with 46 gigs on soundcheck across Barcelona, Berlin and Ibiza. Often billed alongside Jairo Uría, no_ip and Doctor Dru. Next up: Les Enfants Brillants, Barcelona on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Miss Manu is a tech house and techno artist based in Italy, with 46 gigs on soun
 
 Jairo Uría, no_ip, Doctor Dru
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missmanu/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/missmanu/)*

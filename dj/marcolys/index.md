@@ -1,6 +1,6 @@
 # Marco Lys
 
-Marco Lys is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Madam, Amsterdam on Sat, 5 Dec 2026.
+Marco Lys is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Madam, Amsterdam on Sat, 5 Dec 2026.
 
 Marco Lys is a house and tech house artist based in Italy, with 38 gigs on soundcheck across Amsterdam, Bali, Barcelona and Chicago and 16 more. Often billed alongside David Penn, FISHER and Benjamin Berg. Next up: Madam, Amsterdam on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Marco Lys is a house and tech house artist based in Italy, with 38 gigs on sound
 
 David Penn, FISHER, Benjamin Berg
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolys/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcolys/)*

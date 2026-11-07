@@ -1,6 +1,6 @@
 # ALXS
 
-ALXS is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nué Seoul, Seoul on Sat, 7 Nov 2026.
+ALXS is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nué Seoul, Seoul on Sat, 7 Nov 2026.
 
 ALXS is a house and progressive house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Liverpool, Mexico City and Seoul. Often billed alongside Todd Terry, Ferreck Dawn and Janika Tenn. Next up: Nué Seoul, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ALXS is a house and progressive house artist based in Netherlands, with 9 gigs o
 
 Todd Terry, Ferreck Dawn, Janika Tenn
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alxs/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alxs/)*

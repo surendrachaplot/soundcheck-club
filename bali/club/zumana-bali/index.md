@@ -1,6 +1,6 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Cameron Jack" on Sat, 7 Nov 2026.
+Zumana Bali is a music venue in Bali with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Cameron Jack" on Sat, 7 Nov 2026.
 
 Zumana Bali is a music venue in Bali listed on soundcheck. 12 upcoming gigs, with line-ups including Cameron Jack, Damian Lazarus, DJ Tennis and Francis Mercier and 2 more. See dates, start times and who's playing.
 
@@ -19,4 +19,4 @@ Zumana Bali is a music venue in Bali listed on soundcheck. 12 upcoming gigs, wit
 | Wed, 16 Dec 2026 | Kitty Amor | Kitty Amor |
 | Thu, 31 Dec 2026 | NYE - Francis Mercier PRESENTS SOLÈY | Francis Mercier |
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/zumana-bali/)*

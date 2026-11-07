@@ -1,6 +1,6 @@
 # Scruz
 
-Scruz is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
+Scruz is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
 Scruz is a garage and bass artist based in United Kingdom, with 60 gigs on soundcheck across Auckland, Brisbane, Bristol and Dublin and 10 more. Often billed alongside Tommy Villiers, Bad B!tch Dubz and DRIIA. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
@@ -26,4 +26,4 @@ Scruz is a garage and bass artist based in United Kingdom, with 60 gigs on sound
 
 Tommy Villiers, Bad B!tch Dubz, DRIIA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scruz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/scruz/)*

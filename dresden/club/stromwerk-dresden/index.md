@@ -1,6 +1,6 @@
 # Stromwerk Dresden
 
-Stromwerk Dresden is a music venue in Dresden with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "DJ Hell & Lars Eidinger" on Sat, 14 Nov 2026.
+Stromwerk Dresden is a music venue in Dresden with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DJ Hell & Lars Eidinger" on Sat, 14 Nov 2026.
 
 Stromwerk Dresden is a music venue in Dresden listed on soundcheck. 14 upcoming gigs, with line-ups including Alfred Heinrichs, Anna Reusch, ATB and Da Hool and 2 more. See dates, start times and who's playing. Kraftwerk Mitte 28, 01067 Dresden.
 
@@ -23,4 +23,4 @@ Stromwerk Dresden is a music venue in Dresden listed on soundcheck. 14 upcoming 
 
 Kraftwerk Mitte 28, 01067 Dresden, Dresden
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/stromwerk-dresden/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/stromwerk-dresden/)*

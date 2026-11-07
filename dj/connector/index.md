@@ -1,6 +1,6 @@
 # Connector
 
-Connector is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mood Ring, New York City on Fri, 20 Nov 2026.
+Connector is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mood Ring, New York City on Fri, 20 Nov 2026.
 
 Connector is an electro and house artist based in United States of America, with 33 gigs on soundcheck across New York City. Often billed alongside Kweku, ogd and LOSI (NY). Next up: Mood Ring, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Connector is an electro and house artist based in United States of America, with
 
 Kweku, ogd (1), LOSI (NY)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connector/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/connector/)*

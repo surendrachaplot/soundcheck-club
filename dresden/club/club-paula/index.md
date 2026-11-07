@@ -1,14 +1,13 @@
 # Club Paula
 
-Club Paula is a music venue in Dresden with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "RIDDIM OR DIE with CARESO & SVRGXON" on Fri, 6 Nov 2026.
+Club Paula is a music venue in Dresden with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "22 YRS Club Paula with ANTHONY ROTHER" on Sat, 7 Nov 2026.
 
-Club Paula is a music venue in Dresden listed on soundcheck. 9 upcoming gigs, with line-ups including 808 CRIME, Axoon, Coline and Dominik Eulberg and 2 more. See dates, start times and who's playing. Meschwitzstr. 14, 01099 Dresden.
+Club Paula is a music venue in Dresden listed on soundcheck. 8 upcoming gigs, with line-ups including 808 CRIME, Axoon, Coline and Dominik Eulberg and 2 more. See dates, start times and who's playing. Meschwitzstr. 14, 01099 Dresden.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | RIDDIM OR DIE with CARESO & SVRGXON | 808 CRIME, M/THREE/D |
 | Sat, 7 Nov 2026 | 22 YRS Club Paula with ANTHONY ROTHER |  |
 | Fri, 13 Nov 2026 | bratty • with charli xcx & other brat coded artists • dresden |  |
 | Fri, 20 Nov 2026 | D:CODE | Axoon, Coline, EMAILLE, Huey Mnemonic, Spunky |
@@ -22,4 +21,4 @@ Club Paula is a music venue in Dresden listed on soundcheck. 9 upcoming gigs, wi
 
 Meschwitzstr. 14, 01099 Dresden, Dresden
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dresden/club/club-paula/)*

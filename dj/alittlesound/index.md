@@ -1,6 +1,6 @@
 # A Little Sound
 
-A Little Sound is a Drum & Bass and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+A Little Sound is a Drum & Bass and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 A Little Sound is a drum & bass and house artist based in United Kingdom, with 65 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Birmingham and 32 more. Often billed alongside Bou (UK), Hedex and Wilkinson. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -17,6 +17,7 @@ A Little Sound is a drum & bass and house artist based in United Kingdom, with 6
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Wamu Theatre, Seattle · Fri, 30 Oct 2026
 - Depot, Cardiff · Fri, 16 Oct 2026
@@ -24,10 +25,9 @@ A Little Sound is a drum & bass and house artist based in United Kingdom, with 6
 - Aladin Music Hall, Bremen · Fri, 2 Oct 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
 - Tägi, Zurich · Fri, 10 Jul 2026
-- Bootshaus, Cologne · Sun, 24 May 2026
 
 ## Shares bills with
 
 Bou (UK), Hedex, Wilkinson
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alittlesound/)*

@@ -1,6 +1,6 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Macadam, Nantes on Fri, 13 Nov 2026.
+Prosumer is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Macadam, Nantes on Fri, 13 Nov 2026.
 
 Prosumer is a house and techno artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 51 more. Often billed alongside Horse Meat Disco, Peach and Gene On Earth. Next up: Macadam, Nantes on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Prosumer is a house and techno artist based in United Kingdom, with 178 gigs on 
 
 Horse Meat Disco, Peach, Gene On Earth
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prosumer/)*

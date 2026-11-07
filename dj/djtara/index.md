@@ -1,6 +1,6 @@
 # DJ Tara
 
-DJ Tara is a House and R&B artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Signal, New York City on Sat, 7 Nov 2026.
+DJ Tara is a House and R&B artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Signal, New York City on Sat, 7 Nov 2026.
 
 DJ Tara is a house and r&b artist based in United States of America, with 42 gigs on soundcheck across Berlin, Detroit, London and Los Angeles and 1 more. Often billed alongside FLORA, Toribio and Niyah West. Next up: Signal, New York City on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ DJ Tara is a house and r&b artist based in United States of America, with 42 gig
 
 FLORA, Toribio, Niyah West
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtara/)*

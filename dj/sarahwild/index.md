@@ -1,18 +1,18 @@
 # Sarah Wild
 
-Sarah Wild is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Culture Box, Copenhagen on Fri, 6 Nov 2026.
+Sarah Wild is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Muna, Jena on Sat, 7 Nov 2026.
 
-Sarah Wild is a house and techno artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Beijing, Berlin and Cologne and 18 more. Often billed alongside Kotoe, Britta Arnold and Chris Schwarzwälder. Next up: Culture Box, Copenhagen on Fri 6 Nov.
+Sarah Wild is a house and techno artist based in Germany, with 115 gigs on soundcheck across Amsterdam, Beijing, Berlin and Cologne and 18 more. Often billed alongside Kotoe, Britta Arnold and Chris Schwarzwälder. Next up: Muna, Jena on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Culture Box | Copenhagen |
 | Sat, 7 Nov 2026 | Muna | Jena |
 
 ## Recently played
 
+- Culture Box, Copenhagen · Fri, 6 Nov 2026
 - Smolna, Warsaw · Sun, 1 Nov 2026
 - PKH Warehouse, Berlin · Sat, 31 Oct 2026
 - Renate, Berlin · Thu, 29 Oct 2026
@@ -20,10 +20,9 @@ Sarah Wild is a house and techno artist based in Germany, with 115 gigs on sound
 - Hoppetosse, Berlin · Sat, 17 Oct 2026
 - Renate, Berlin · Fri, 16 Oct 2026
 - Südbrücke Open Air, Cologne · Sat, 5 Sept 2026
-- Houtrijk, Amsterdam · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Kotoe, Britta Arnold, Chris Schwarzwälder
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahwild/)*

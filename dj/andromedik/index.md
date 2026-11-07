@@ -1,6 +1,6 @@
 # Andromedik
 
-Andromedik is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Nest, Nottingham on Sat, 5 Dec 2026.
+Andromedik is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Nest, Nottingham on Sat, 5 Dec 2026.
 
 Andromedik is a drum & bass and bass artist based in Belgium, with 26 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bratislava and 16 more. Often billed alongside Jacidorex, A Little Sound and Ava Eva. Next up: The Nest, Nottingham on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Andromedik is a drum & bass and bass artist based in Belgium, with 26 gigs on so
 
 Jacidorex, A Little Sound, Ava Eva
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedik/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andromedik/)*

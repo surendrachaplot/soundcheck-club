@@ -1,6 +1,6 @@
 # STÜM
 
-STÜM is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 6 Nov 2026.
+STÜM is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 6 Nov 2026.
 
 STÜM is a techno and house artist based in Australia, with 78 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Austin and 27 more. Often billed alongside Kyle Starkey, Benwal and Ewan McVicar. Next up: The Ground at Club Space, Miami on Fri 6 Nov.
 
@@ -19,6 +19,7 @@ STÜM is a techno and house artist based in Australia, with 78 gigs on soundchec
 
 ## Recently played
 
+- The Ground at Club Space, Miami · Fri, 6 Nov 2026
 - Pllek, Amsterdam · Sat, 24 Oct 2026
 - H7 Warehouse, Amsterdam · Fri, 23 Oct 2026
 - The Liquid Room, Edinburgh · Sat, 17 Oct 2026
@@ -26,10 +27,9 @@ STÜM is a techno and house artist based in Australia, with 78 gigs on soundchec
 - Mondo, Madrid · Sat, 29 Aug 2026
 - Macadam, Nantes · Fri, 14 Aug 2026
 - Gianpula Village, Malta · Wed, 12 Aug 2026
-- Lokschuppen Berlin, Berlin · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Kyle Starkey, Benwal, Ewan McVicar
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stum/)*

@@ -1,6 +1,6 @@
 # Luna Fields
 
-Luna Fields is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Chinastraat, Ghent on Sat, 21 Nov 2026.
+Luna Fields is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Chinastraat, Ghent on Sat, 21 Nov 2026.
 
 Luna Fields is a techno and industrial artist based in Belgium, with 23 gigs on soundcheck across Antwerp, Berlin, Brussels and Dortmund / Essen and 6 more. Often billed alongside Low E, BYØRN and FØSS. Next up: Chinastraat, Ghent on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Luna Fields is a techno and industrial artist based in Belgium, with 23 gigs on 
 
 Low E (2), BYØRN, FØSS
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunafields/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lunafields/)*

@@ -1,6 +1,6 @@
 # goddard.
 
-goddard. is a Drum & Bass and Electronica artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Komplex 457, Zurich on Sat, 7 Nov 2026.
+goddard. is a Drum & Bass and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Komplex 457, Zurich on Sat, 7 Nov 2026.
 
 goddard. is a drum & bass and electronica artist based in United Kingdom, with 33 gigs on soundcheck across Adelaide, Auckland, Austin and Birmingham and 17 more. Often billed alongside DREAD MC, Hybrid Minds and Dada Jones. Next up: TBA - Komplex 457, Zurich on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ goddard. is a drum & bass and electronica artist based in United Kingdom, with 3
 
 DREAD MC, Hybrid Minds, Dada Jones
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goddard./)*

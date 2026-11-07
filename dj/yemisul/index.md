@@ -1,6 +1,6 @@
 # Yemisul
 
-Yemisul is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
+Yemisul is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
 Yemisul is a house and garage artist based in Australia, with 11 gigs on soundcheck across Sydney. Often billed alongside Farnozz, Kenfo and Tokyo Sexwale. Next up: TBA, Sydney on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Yemisul is a house and garage artist based in Australia, with 11 gigs on soundch
 
 Farnozz, Kenfo, Tokyo Sexwale
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yemisul/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yemisul/)*

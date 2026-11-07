@@ -1,14 +1,13 @@
 # Henri Bergmann
 
-Henri Bergmann is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Klein Phönix, Istanbul on Fri, 6 Nov 2026.
+Henri Bergmann is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
-Henri Bergmann is a techno and house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Klein Phönix, Istanbul on Fri 6 Nov.
+Henri Bergmann is a techno and house artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 41 more. Often billed alongside Agents Of Time, Argy and Brina Knauss. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Klein Phönix | Istanbul |
 | Sat, 7 Nov 2026 | Ritter Butzke | Berlin |
 | Sat, 14 Nov 2026 | New City Gas | Montreal |
 | Sat, 28 Nov 2026 | The Grand Social | Dublin |
@@ -16,6 +15,7 @@ Henri Bergmann is a techno and house artist based in United Kingdom, with 112 gi
 
 ## Recently played
 
+- Klein Phönix, Istanbul · Fri, 6 Nov 2026
 - Onyx (E1), London · Fri, 30 Oct 2026
 - Obudai Island, Budapest · Fri, 23 Oct 2026
 - Pasaje America, Mexico City · Sat, 3 Oct 2026
@@ -23,10 +23,9 @@ Henri Bergmann is a techno and house artist based in United Kingdom, with 112 gi
 - Maitland Showground, Sydney · Fri, 25 Sept 2026
 - Mediapark Köln, Cologne · Sat, 29 Aug 2026
 - Amnesia Ibiza, Ibiza · Wed, 26 Aug 2026
-- [UNVRS], Ibiza · Tue, 18 Aug 2026
 
 ## Shares bills with
 
 Agents Of Time, Argy, Brina Knauss
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henribergmann/)*

@@ -1,14 +1,15 @@
 # Guy J
 
-Guy J is a Progressive House and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Digital, Newcastle on Sat, 7 Nov 2026.
+Guy J is a Progressive House and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Digital, Newcastle on Sat, 7 Nov 2026.
 
-Guy J is a progressive house and house artist based in Israel, with 144 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 44 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: Digital, Newcastle on Sat 7 Nov.
+Guy J is a progressive house and house artist based in Israel, with 145 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 44 more. Often billed alongside Guy Mantzur, Sahar Z and Khen. Next up: Digital, Newcastle on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Digital | Newcastle |
+| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 21 Nov 2026 | Culture Box | Copenhagen |
 | Sat, 28 Nov 2026 | TBA - Autodromo de Buenos Aires, Villa Lugano | Buenos Aires |
 | Fri, 4 Dec 2026 | Public Works | San Francisco/Oakland |
@@ -31,4 +32,4 @@ Guy J is a progressive house and house artist based in Israel, with 144 gigs on 
 
 Guy Mantzur, Sahar Z, Khen
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/guyj/)*

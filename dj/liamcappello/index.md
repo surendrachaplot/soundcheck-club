@@ -1,6 +1,6 @@
 # Liam Cappello
 
-Liam Cappello is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bridge Gardens, Glasgow on Sat, 26 Dec 2026.
+Liam Cappello is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bridge Gardens, Glasgow on Sat, 26 Dec 2026.
 
 Liam Cappello is a techno and house artist based in United Kingdom, with 23 gigs on soundcheck across Edinburgh, Glasgow, Ibiza and Stuttgart. Often billed alongside Frazi.er, Domenic Cappello and DAX J. Next up: Bridge Gardens, Glasgow on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Liam Cappello is a techno and house artist based in United Kingdom, with 23 gigs
 
 Frazi.er, Domenic Cappello, DAX J
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liamcappello/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liamcappello/)*

@@ -1,6 +1,6 @@
 # HearThug
 
-HearThug is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+HearThug is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 HearThug is a house and electro artist based in Tunisia, with 63 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ HearThug is a house and electro artist based in Tunisia, with 63 gigs on soundch
 
 Occibel, IAMBP, Alyhas
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hearthug/)*

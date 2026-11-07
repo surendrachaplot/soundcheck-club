@@ -1,6 +1,6 @@
 # See-Scape
 
-See-Scape is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "EUROLICIOUS - The Party" on Fri, 13 Nov 2026.
+See-Scape is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "EUROLICIOUS - The Party" on Fri, 13 Nov 2026.
 
 See-Scape is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Audi Étoffe and Sixtroke. See dates, start times and who's playing. 347 Keele St, Toronto, ON M6P 2K6.
 
@@ -15,4 +15,4 @@ See-Scape is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, wit
 
 347 Keele St, Toronto, ON M6P 2K6, Toronto
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/see-scape/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/see-scape/)*

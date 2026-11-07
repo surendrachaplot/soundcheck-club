@@ -1,6 +1,6 @@
 # Brennan
 
-Brennan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
+Brennan is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
 
 Brennan is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 5 more. Often billed alongside Ferg, James Andrew and Allius. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Brennan is a house and tech house artist based in United Kingdom, with 24 gigs o
 
 Ferg, James Andrew, Allius
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brennan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brennan/)*

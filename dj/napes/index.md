@@ -1,8 +1,8 @@
 # Napes
 
-Napes is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at fabric, London on Fri, 13 Nov 2026.
+Napes is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at fabric, London on Fri, 13 Nov 2026.
 
-Napes is a drum & bass and jungle artist based in United Kingdom, with 92 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 18 more. Often billed alongside Samurai Breaks, Toby Ross and 4am Kru. Next up: fabric, London on Fri 13 Nov.
+Napes is a drum & bass and jungle artist based in United Kingdom, with 93 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 18 more. Often billed alongside Samurai Breaks, Toby Ross and 4am Kru. Next up: fabric, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Napes is a drum & bass and jungle artist based in United Kingdom, with 92 gigs o
 | Fri, 13 Nov 2026 | fabric | London |
 | Sat, 14 Nov 2026 | Digital | Newcastle |
 | Sat, 5 Dec 2026 | Wigwam | Dublin |
+| Thu, 10 Dec 2026 | Depot Mayfield | Manchester |
 | Fri, 11 Dec 2026 | Beaver Works | Leeds |
 | Sat, 12 Dec 2026 | OST | Berlin |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
@@ -30,4 +31,4 @@ Napes is a drum & bass and jungle artist based in United Kingdom, with 92 gigs o
 
 Samurai Breaks, Toby Ross, 4am Kru
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/napes/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/napes/)*

@@ -1,6 +1,6 @@
 # DJ Slimey
 
-DJ Slimey is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nightmoves, New York City on Sat, 7 Nov 2026.
+DJ Slimey is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nightmoves, New York City on Sat, 7 Nov 2026.
 
 DJ Slimey is a house and experimental artist based in United States of America, with 7 gigs on soundcheck across Detroit, New York City and Philadelphia. Often billed alongside Teeyam, John Barera and Ali Berger. Next up: Nightmoves, New York City on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ DJ Slimey is a house and experimental artist based in United States of America, 
 
 Teeyam, John Barera, Ali Berger
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimey/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djslimey/)*

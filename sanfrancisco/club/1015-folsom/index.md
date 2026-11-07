@@ -1,16 +1,13 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Mira" on Fri, 6 Nov 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Eli + Fur" on Fri, 13 Nov 2026.
 
-1015 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including 9-System, Above & Beyond, Adra and Andy C and 2 more. See dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
+1015 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 9 upcoming gigs, with line-ups including 9-System, Above & Beyond, Adra and Andy C and 2 more. See dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Mira | Mira |
-| Fri, 6 Nov 2026 | Main Phase | Dan Frandisco, Main Phase, Nightware |
-| Fri, 6 Nov 2026 | yaego | yaego |
 | Fri, 13 Nov 2026 | Eli + Fur | Eli & Fur |
 | Thu, 19 Nov 2026 | THROTTLE: DJ Stingray | DE ALMA, DJ Stingray 313, Discnogirl, sfcowboy |
 | Fri, 20 Nov 2026 | Westend | TOBEHONEST |
@@ -18,9 +15,11 @@
 | Fri, 27 Nov 2026 | THROTTLE: Blawan  southstar | 9-System, Adra, Blawan, Cinthie, nonsuit, southstar |
 | Fri, 4 Dec 2026 | Tara Yummy |  |
 | Fri, 11 Dec 2026 | Viperactive |  |
+| Fri, 18 Dec 2026 | GENESI | GENESI |
+| Thu, 31 Dec 2026 | Above & Beyond New Years Eve | Above & Beyond |
 
 ## Address
 
 1015 Folsom Street; San Francisco, CA 94103; United States, San Francisco/Oakland
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/1015-folsom/)*

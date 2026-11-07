@@ -1,6 +1,6 @@
 # Matilda
 
-Matilda is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Fri, 13 Nov 2026.
+Matilda is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nakano Heavysick Zero, Tokyo on Fri, 13 Nov 2026.
 
 Matilda is a techno and trance artist, with 12 gigs on soundcheck across Chicago, Detroit, Helsinki and Manchester and 6 more. Often billed alongside 131bpm, ACE and Adam Pecho. Next up: Nakano Heavysick Zero, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Matilda is a techno and trance artist, with 12 gigs on soundcheck across Chicago
 
 131bpm, ACE, Adam Pecho
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matilda/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matilda/)*

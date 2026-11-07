@@ -1,6 +1,6 @@
 # FUNKA04
 
-FUNKA04 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Specka, Madrid on Sat, 7 Nov 2026.
+FUNKA04 is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Specka, Madrid on Sat, 7 Nov 2026.
 
 FUNKA04 is a techno and house artist based in Germany, with 27 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Dresden and 9 more. Often billed alongside Skotsch, Dj Kero B and MATRIX3K. Next up: Specka, Madrid on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ FUNKA04 is a techno and house artist based in Germany, with 27 gigs on soundchec
 
 Skotsch, Dj Kero B, MATRIX3K
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funka04/)*

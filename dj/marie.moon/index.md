@@ -1,6 +1,6 @@
 # MARIE.MOON
 
-MARIE.MOON is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Void Club, Berlin on Fri, 20 Nov 2026.
+MARIE.MOON is a House and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Void Club, Berlin on Fri, 20 Nov 2026.
 
 MARIE.MOON is a house and drum & bass artist based in Germany, with 81 gigs on soundcheck across Berlin. Often billed alongside Upzet, No Silver Bullet and Caro Vola. Next up: Void Club, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ MARIE.MOON is a house and drum & bass artist based in Germany, with 81 gigs on s
 
 Upzet, No Silver Bullet, Caro Vola
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marie.moon/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marie.moon/)*

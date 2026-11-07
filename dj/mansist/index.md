@@ -1,6 +1,6 @@
 # Mansist
 
-Mansist is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at WDM, Hannover on Fri, 4 Dec 2026.
+Mansist is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at WDM, Hannover on Fri, 4 Dec 2026.
 
 Mansist is a techno and industrial artist based in Germany, with 48 gigs on soundcheck across Berlin, Dortmund / Essen, Hannover and Münster and 1 more. Often billed alongside KOWOLSKI, Davitte and IXOS. Next up: WDM, Hannover on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mansist is a techno and industrial artist based in Germany, with 48 gigs on soun
 
 KOWOLSKI, Davitte, IXOS
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansist/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mansist/)*

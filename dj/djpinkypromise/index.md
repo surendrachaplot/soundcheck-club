@@ -1,6 +1,6 @@
 # DJ Pinky Promise
 
-DJ Pinky Promise is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at glimmer, Hamburg on Fri, 27 Nov 2026.
+DJ Pinky Promise is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at glimmer, Hamburg on Fri, 27 Nov 2026.
 
 DJ Pinky Promise is a techno and trance artist based in Germany, with 74 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 3 more. Often billed alongside Antonym, Carluschka and KLARYOKO. Next up: glimmer, Hamburg on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ Pinky Promise is a techno and trance artist based in Germany, with 74 gigs on
 
 Antonym, Carluschka, KLARYOKO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpinkypromise/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpinkypromise/)*

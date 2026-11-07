@@ -1,6 +1,6 @@
 # Zach Davis
 
-Zach Davis is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at ErF Studios, New York City on Thu, 12 Nov 2026.
+Zach Davis is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ErF Studios, New York City on Thu, 12 Nov 2026.
 
 Zach Davis is a techno and experimental artist based in United States of America, with 3 gigs on soundcheck across New York City. Often billed alongside Friedberg, COVE(US) and DREAMINSLOW. Next up: ErF Studios, New York City on Thu 12 Nov.
 
@@ -19,4 +19,4 @@ Zach Davis is a techno and experimental artist based in United States of America
 
 Friedberg, COVE(US), DREAMINSLOW
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zachdavis/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zachdavis/)*

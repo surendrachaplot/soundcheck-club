@@ -1,19 +1,19 @@
 # Nico Morano
 
-Nico Morano is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 6 Nov 2026.
+Nico Morano is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Hive Club, Zurich on Fri, 20 Nov 2026.
 
-Nico Morano is a house and techno artist based in Belgium, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Do Not Sit On The Furniture, Miami on Fri 6 Nov.
+Nico Morano is a house and techno artist based in Belgium, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Hive Club, Zurich on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Do Not Sit On The Furniture | Miami |
 | Fri, 20 Nov 2026 | Hive Club | Zurich |
 | Thu, 3 Dec 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
+- Do Not Sit On The Furniture, Miami · Fri, 6 Nov 2026
 - Villa Blanca Lifestyle, Los Angeles · Sat, 31 Oct 2026
 - Wet Deck at W Hotel, Kuala Lumpur · Sat, 19 Sept 2026
 - Madam, Amsterdam · Sat, 12 Sept 2026
@@ -21,10 +21,9 @@ Nico Morano is a house and techno artist based in Belgium, with 74 gigs on sound
 - Ritter Butzke, Berlin · Fri, 4 Sept 2026
 - TBA - Alibi Room, Vancouver · Sat, 8 Aug 2026
 - Madarae San Francisco, San Francisco/Oakland · Fri, 7 Aug 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 EMJIE, Bibi Seck, NTO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*

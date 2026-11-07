@@ -1,18 +1,18 @@
 # stndrd
 
-stndrd is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sauvage Swinger Club, Barcelona on Fri, 6 Nov 2026.
+stndrd is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Village Underground Barcelona, Barcelona on Sat, 5 Dec 2026.
 
-stndrd is a techno and acid artist based in Portugal, with 23 gigs on soundcheck across Barcelona, Porto and Tbilisi. Often billed alongside Cyklos, ABSIS and Alderaan. Next up: Sauvage Swinger Club, Barcelona on Fri 6 Nov.
+stndrd is a techno and acid artist based in Portugal, with 23 gigs on soundcheck across Barcelona, Porto and Tbilisi. Often billed alongside Cyklos, ABSIS and Alderaan. Next up: Village Underground Barcelona, Barcelona on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Sauvage Swinger Club | Barcelona |
 | Sat, 5 Dec 2026 | Village Underground Barcelona | Barcelona |
 
 ## Recently played
 
+- Sauvage Swinger Club, Barcelona · Fri, 6 Nov 2026
 - Sauvage Swinger Club, Barcelona · Fri, 2 Oct 2026
 - Bridge 48, Barcelona · Thu, 24 Sept 2026
 - Razzmatazz 3, Barcelona · Sat, 4 Apr 2026
@@ -20,10 +20,9 @@ stndrd is a techno and acid artist based in Portugal, with 23 gigs on soundcheck
 - 7833 Soundlab, Barcelona · Sat, 21 Mar 2026
 - TBA - Spot Club, Porto · Fri, 26 Dec 2025
 - Macarena Club, Barcelona · Sun, 14 Sept 2025
-- Razzmatazz 3, Barcelona · Sat, 14 Jun 2025
 
 ## Shares bills with
 
 Cyklos, ABSIS, Alderaan
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stndrd/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stndrd/)*

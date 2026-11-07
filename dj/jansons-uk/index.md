@@ -1,6 +1,6 @@
 # Jansons
 
-Jansons is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
+Jansons is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
 Jansons is a house and tech house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Brighton and 11 more. Often billed alongside Prunk, Richy Ahmed and Hot Since 82. Next up: XOYO, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Jansons is a house and tech house artist based in United Kingdom, with 50 gigs o
 
 Prunk, Richy Ahmed, Hot Since 82
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jansons-uk/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jansons-uk/)*

@@ -1,6 +1,6 @@
 # High Note
 
-High Note is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "leverson x High Note" on Sat, 7 Nov 2026.
+High Note is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "leverson x High Note" on Sat, 7 Nov 2026.
 
 High Note is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Bridget Small, Elsie, leverson and Monfreaq and 1 more. See dates, start times and who's playing. 220 High St, Northcote.
 
@@ -16,4 +16,4 @@ High Note is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, w
 
 220 High St, Northcote, Melbourne
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/high-note/)*

@@ -1,8 +1,8 @@
 # Martinesque
 
-Martinesque is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Vault Club, East on Sat, 7 Nov 2026.
+Martinesque is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Vault Club, East on Sat, 7 Nov 2026.
 
-Martinesque is a house and techno artist based in Switzerland, with 17 gigs on soundcheck across Basel, East, Lausanne and Zurich. Often billed alongside Aline (CH), Ben Kaczor and Christopher Ledger. Next up: Vault Club, East on Sat 7 Nov.
+Martinesque is a house and techno artist based in Switzerland, with 18 gigs on soundcheck across Basel, East, Lausanne and Zurich. Often billed alongside Aline (CH), Jelena and Osiris. Next up: Vault Club, East on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Martinesque is a house and techno artist based in Switzerland, with 17 gigs on s
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Vault Club | East |
 | Sat, 19 Dec 2026 | Postkantine | Basel |
+| Thu, 31 Dec 2026 | Postkantine | Basel |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Martinesque is a house and techno artist based in Switzerland, with 17 gigs on s
 
 ## Shares bills with
 
-Aline (CH), Ben Kaczor, Christopher Ledger
+Aline (CH), Jelena, Osiris (4)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinesque-ch/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinesque-ch/)*

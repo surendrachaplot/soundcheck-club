@@ -1,6 +1,6 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Roxy, Prague on Sat, 7 Nov 2026.
+Yung Singh is a Garage and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Roxy, Prague on Sat, 7 Nov 2026.
 
 Yung Singh is a garage and house artist based in United Kingdom, with 193 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 67 more. Often billed alongside Bakey, Overmono and salute. Next up: Roxy, Prague on Sat 7 Nov.
 
@@ -34,4 +34,4 @@ Yung Singh is a garage and house artist based in United Kingdom, with 193 gigs o
 
 Bakey, Overmono, salute
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yungsingh/)*

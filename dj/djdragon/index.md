@@ -1,6 +1,6 @@
 # DJ Dragon
 
-DJ Dragon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri, 11 Dec 2026.
+DJ Dragon is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri, 11 Dec 2026.
 
 DJ Dragon is a techno and house artist based in Thailand, with 17 gigs on soundcheck across Bangkok. Often billed alongside DJ Krit Morton, Gishiyama and GodDam. Next up: TBA - bamboo.base.camping, Nakhon Nayok, Bangkok on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ DJ Dragon is a techno and house artist based in Thailand, with 17 gigs on soundc
 
 DJ Krit Morton, Gishiyama, GodDam
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdragon/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdragon/)*

@@ -1,6 +1,6 @@
 # Brady
 
-Brady is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bar v Krymský, Prague on Fri, 27 Nov 2026.
+Brady is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bar v Krymský, Prague on Fri, 27 Nov 2026.
 
 Brady is a techno and industrial artist based in Switzerland, with 4 gigs on soundcheck across Geneva and Prague. Often billed alongside Sad Paco, Christelle Angela and ALIASLOH. Next up: Bar v Krymský, Prague on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ Brady is a techno and industrial artist based in Switzerland, with 4 gigs on sou
 
 Sad Paco, Christelle Angela, ALIASLOH
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brady/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brady/)*

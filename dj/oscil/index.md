@@ -1,6 +1,6 @@
 # Oscil
 
-Oscil is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - VITAL Lower East Side, New York City on Sat, 14 Nov 2026.
+Oscil is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - VITAL Lower East Side, New York City on Sat, 14 Nov 2026.
 
 Oscil is a techno and house artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside alter.world, Uttaraa and Qtea. Next up: TBA - VITAL Lower East Side, New York City on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Oscil is a techno and house artist based in United States of America, with 14 gi
 
 alter.world, Uttaraa, Qtea
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oscil/)*

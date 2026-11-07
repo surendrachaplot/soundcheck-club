@@ -1,6 +1,6 @@
 # boomroom
 
-boomroom is a music venue in Perth with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Ernest & Young @ boomroom" on Sat, 7 Nov 2026.
+boomroom is a music venue in Perth with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Ernest & Young @ boomroom" on Sat, 7 Nov 2026.
 
 boomroom is a music venue in Perth listed on soundcheck. 6 upcoming gigs, with line-ups including Ahadadream, BASHKKA, CCL and deep creep and 2 more. See dates, start times and who's playing. Rear Laneway, 224 William Street, Northbridge.
 
@@ -19,4 +19,4 @@ boomroom is a music venue in Perth listed on soundcheck. 6 upcoming gigs, with l
 
 Rear Laneway, 224 William Street, Northbridge, Perth
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/boomroom/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/perth/club/boomroom/)*

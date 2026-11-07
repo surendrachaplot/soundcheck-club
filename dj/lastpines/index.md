@@ -1,6 +1,6 @@
 # Last Pines
 
-Last Pines is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sun, 27 Dec 2026.
+Last Pines is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Six Trees Bar And Kitchen Manchester, Manchester on Sun, 27 Dec 2026.
 
 Last Pines is a minimal and house artist, with 26 gigs on soundcheck across Barcelona, Berlin, Bristol and Budapest and 4 more. Often billed alongside Antja, A.B.U. and Josh Smith. Next up: Six Trees Bar And Kitchen Manchester, Manchester on Sun 27 Dec.
 
@@ -25,4 +25,4 @@ Last Pines is a minimal and house artist, with 26 gigs on soundcheck across Barc
 
 Antja, A.B.U., Josh Smith
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lastpines/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lastpines/)*

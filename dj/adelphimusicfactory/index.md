@@ -1,6 +1,6 @@
 # Adelphi Music Factory
 
-Adelphi Music Factory is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Pioneer Club, South-east on Sat, 19 Dec 2026.
+Adelphi Music Factory is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Pioneer Club, South-east on Sat, 19 Dec 2026.
 
 Adelphi Music Factory is a house and disco artist based in United Kingdom, with 13 gigs on soundcheck across Bristol, London, Madrid and Oslo and 2 more. Often billed alongside Trimtone, 1-800 GIRLS and 1111. Next up: The Pioneer Club, South East on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Adelphi Music Factory is a house and disco artist based in United Kingdom, with 
 
 Trimtone, 1-800 GIRLS, 1111
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adelphimusicfactory/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adelphimusicfactory/)*

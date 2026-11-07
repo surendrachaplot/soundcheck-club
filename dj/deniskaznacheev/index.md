@@ -1,6 +1,6 @@
 # Denis Kaznacheev
 
-Denis Kaznacheev is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
+Denis Kaznacheev is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at EL Tana, Colombia on Thu, 12 Nov 2026.
 
 Denis Kaznacheev is a minimal and minimal techno artist based in Germany, with 17 gigs on soundcheck across Bali, Bogotá, Buenos Aires and Colombia and 6 more. Often billed alongside Latex, Martin Leaves and Rozen. Next up: EL Tana, Colombia on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Denis Kaznacheev is a minimal and minimal techno artist based in Germany, with 1
 
 Latex (1), Martin Leaves, Rozen
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deniskaznacheev/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deniskaznacheev/)*

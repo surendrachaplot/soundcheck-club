@@ -1,14 +1,15 @@
 # Mirin Doja
 
-Mirin Doja is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Massive, Seattle on Thu, 19 Nov 2026.
+Mirin Doja is a Club and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Massive, Seattle on Thu, 19 Nov 2026.
 
-Mirin Doja is a club and bass artist based in United States of America, with 47 gigs on soundcheck across Los Angeles, New York City, Philadelphia and Portland and 2 more. Often billed alongside Korra the Kid, Hyeonje and Succubass. Next up: Massive, Seattle on Thu 19 Nov.
+Mirin Doja is a club and bass artist based in United States of America, with 48 gigs on soundcheck across Los Angeles, New York City, Philadelphia and Portland and 2 more. Often billed alongside Korra the Kid, Hyeonje and Succubass. Next up: Massive, Seattle on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Massive | Seattle |
+| Fri, 18 Dec 2026 | Kremwerk-Timbre Room-Cherry Complex | Seattle |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mirin Doja is a club and bass artist based in United States of America, with 47 
 
 Korra the Kid, Hyeonje, Succubass
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirindoja/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirindoja/)*

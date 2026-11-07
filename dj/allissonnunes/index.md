@@ -1,6 +1,6 @@
 # Allisson Nunes
 
-Allisson Nunes is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at berlinClub, Madrid on Sat, 7 Nov 2026.
+Allisson Nunes is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at berlinClub, Madrid on Sat, 7 Nov 2026.
 
 Allisson Nunes is a house and electronica artist, with 8 gigs on soundcheck across Madrid. Often billed alongside Framber Raaz, Ana Sant and Chris Figueroa. Next up: berlinClub, Madrid on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Allisson Nunes is a house and electronica artist, with 8 gigs on soundcheck acro
 
 Framber Raaz, Ana Sant, Chris Figueroa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allissonnunes/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/allissonnunes/)*

@@ -1,14 +1,13 @@
 # Ciel
 
-Ciel is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cafeteria, Toronto on Fri, 6 Nov 2026.
+Ciel is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 13 Nov 2026.
 
-Ciel is a techno and house artist based in Canada, with 235 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 63 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: Cafeteria, Toronto on Fri 6 Nov.
+Ciel is a techno and house artist based in Canada, with 235 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Atlanta and 63 more. Often billed alongside Milch, CCL and Venus in Foil. Next up: Abercrombie Hotel, Sydney on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Cafeteria | Toronto |
 | Fri, 13 Nov 2026 | Abercrombie Hotel | Sydney |
 | Sat, 14 Nov 2026 | Second Story Studios | Melbourne |
 | Sat, 28 Nov 2026 | TBA - Secret Location | Toronto |
@@ -18,6 +17,7 @@ Ciel is a techno and house artist based in Canada, with 235 gigs on soundcheck a
 
 ## Recently played
 
+- Cafeteria, Toronto · Fri, 6 Nov 2026
 - Le Sucre, Lyon · Sat, 31 Oct 2026
 - FOLD, London · Sat, 24 Oct 2026
 - ZENNER, Berlin · Fri, 16 Oct 2026
@@ -25,10 +25,9 @@ Ciel is a techno and house artist based in Canada, with 235 gigs on soundcheck a
 - Standard Time, Toronto · Sun, 4 Oct 2026
 - Rhythm, Toronto · Tue, 29 Sept 2026
 - Bassiani, Tbilisi · Fri, 18 Sept 2026
-- The Berkeley Suite, Glasgow · Wed, 16 Sept 2026
 
 ## Shares bills with
 
 Milch (1), CCL, Venus in Foil
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cl-ca/)*

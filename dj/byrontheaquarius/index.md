@@ -1,0 +1,28 @@
+# Byron The Aquarius
+
+Byron The Aquarius is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at public records, New York City on Fri, 11 Dec 2026.
+
+Byron The Aquarius is a house and deep house artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Baltimore and 29 more. Often billed alongside Kyle Hall, Carl Craig and Rimarkable. Next up: public records, New York City on Fri 11 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 11 Dec 2026 | public records | New York City |
+
+## Recently played
+
+- TBA, Los Angeles · Fri, 30 Oct 2026
+- Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
+- Firn, Seattle · Sat, 22 Aug 2026
+- Loso, Richmond · Fri, 14 Aug 2026
+- public records, New York City · Sat, 11 Jul 2026
+- 50 | 50, Medellin · Sat, 4 Jul 2026
+- The Mothership, Auckland · Sat, 6 Jun 2026
+- Abercrombie Hotel, Sydney · Sat, 30 May 2026
+
+## Shares bills with
+
+Kyle Hall, Carl Craig, Rimarkable
+
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/byrontheaquarius/)*

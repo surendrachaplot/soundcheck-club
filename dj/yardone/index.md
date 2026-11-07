@@ -1,6 +1,6 @@
 # Yard One
 
-Yard One is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+Yard One is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
 Yard One is a house and techno artist based in United Kingdom, with 8 gigs on soundcheck across Bangkok and Manchester. Often billed alongside Means&3rd, Sam The Bastard and CEEKAY. Next up: renae, Manchester on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Yard One is a house and techno artist based in United Kingdom, with 8 gigs on so
 
 Means&3rd, Sam The Bastard, CEEKAY
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yardone/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yardone/)*

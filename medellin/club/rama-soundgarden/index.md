@@ -1,14 +1,13 @@
 # Rama Soundgarden
 
-Rama Soundgarden is a music venue in Medellin with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Lost in Music @RamaSoundGarden / Pwrd by FunktionOne" on Fri, 6 Nov 2026.
+Rama Soundgarden is a music venue in Medellin with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "EVOLVE@RamaSoundGarden / Pwrd by FunktionOne" on Sat, 7 Nov 2026.
 
-Rama Soundgarden is a music venue in Medellin listed on soundcheck. 5 upcoming gigs, with line-ups including AISHA, Alvaro Medina, Denis Kaznacheev and D Jaguar and 2 more. See dates, start times and who's playing. Cr48#10-70 El Poblado, (Manila) - Medellin.
+Rama Soundgarden is a music venue in Medellin listed on soundcheck. 4 upcoming gigs, with line-ups including Alvaro Medina, Denis Kaznacheev, D Jaguar and DJ Skull and 2 more. See dates, start times and who's playing. Cr48#10-70 El Poblado, (Manila) - Medellin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Lost in Music @RamaSoundGarden / Pwrd by FunktionOne | AISHA |
 | Sat, 7 Nov 2026 | EVOLVE@RamaSoundGarden / Pwrd by FunktionOne | DJ Skull, Matheiu |
 | Fri, 13 Nov 2026 | RTS.FM W/ Denis Kaznacheev (Nervmusic, RU) | Denis Kaznacheev, Martin Leaves, Matheiu |
 | Sun, 29 Nov 2026 | EELF Presents - Medellin: Target Demographic (U.S), Pijus (LT), DJ Windows 7 (MX) | DJ WINDOWS 7, Pijus, Target Demographic |
@@ -18,4 +17,4 @@ Rama Soundgarden is a music venue in Medellin listed on soundcheck. 5 upcoming g
 
 Cr48#10-70 El Poblado, (Manila) - Medellin, Medellin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/rama-soundgarden/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/medellin/club/rama-soundgarden/)*

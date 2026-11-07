@@ -1,8 +1,8 @@
 # Inox Traxx
 
-Inox Traxx is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FVTVR, Paris on Sat, 7 Nov 2026.
+Inox Traxx is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FVTVR, Paris on Sat, 7 Nov 2026.
 
-Inox Traxx is a techno and house artist, with 96 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Charlotte de Witte, Ignez and Nastia Reigel. Next up: FVTVR, Paris on Sat 7 Nov.
+Inox Traxx is a techno and house artist, with 97 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside Charlotte de Witte, Ignez and Nastia Reigel. Next up: FVTVR, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Inox Traxx is a techno and house artist, with 96 gigs on soundcheck across Amste
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 21 Nov 2026 | E1 | London |
 | Fri, 27 Nov 2026 | Ääniwalli | Helsinki |
+| Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Inox Traxx is a techno and house artist, with 96 gigs on soundcheck across Amste
 
 Charlotte de Witte, Ignez, Nastia Reigel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inoxtraxx/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/inoxtraxx/)*

@@ -1,13 +1,14 @@
 # Chelita
 
-Chelita is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Chemist, Boston on Sat, 14 Nov 2026.
+Chelita is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Chemist, Boston on Fri, 13 Nov 2026.
 
-Chelita is a club and house artist, with 81 gigs on soundcheck across Boston, Chicago, Detroit and Miami and 3 more. Often billed alongside DJ maddog, p1no and Replicator. Next up: The Chemist, Boston on Sat 14 Nov.
+Chelita is a club and house artist, with 82 gigs on soundcheck across Boston, Chicago, Detroit and Miami and 3 more. Often billed alongside DJ maddog, p1no and Replicator. Next up: The Chemist, Boston on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | The Chemist | Boston |
 | Sat, 14 Nov 2026 | The Chemist | Boston |
 
 ## Recently played
@@ -25,4 +26,4 @@ Chelita is a club and house artist, with 81 gigs on soundcheck across Boston, Ch
 
 DJ maddog, p1no, Replicator
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chelita/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chelita/)*

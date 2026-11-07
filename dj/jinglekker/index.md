@@ -1,6 +1,6 @@
 # Jing Lekker
 
-Jing Lekker is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at OHM, Berlin on Thu, 26 Nov 2026.
+Jing Lekker is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OHM, Berlin on Thu, 26 Nov 2026.
 
 Jing Lekker is a techno and house artist, with 27 gigs on soundcheck across Bangkok, Beijing, Berlin and Bologna and 9 more. Often billed alongside Carly Zeng, Kerena and Tsui. Next up: OHM, Berlin on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Jing Lekker is a techno and house artist, with 27 gigs on soundcheck across Bang
 
 Carly Zeng, Kerena, Tsui
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinglekker/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinglekker/)*

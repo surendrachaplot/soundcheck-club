@@ -1,6 +1,6 @@
 # Malive
 
-Malive is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pacha, Munich on Sat, 7 Nov 2026.
+Malive is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Pacha, Munich on Sat, 7 Nov 2026.
 
 Malive is a house and tech house artist based in Brazil, with 44 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 20 more. Often billed alongside Claptone, Antdot and Betical. Next up: Pacha, Munich on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Malive is a house and tech house artist based in Brazil, with 44 gigs on soundch
 
 Claptone, Antdot, Betical
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

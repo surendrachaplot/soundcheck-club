@@ -1,6 +1,6 @@
 # Willy Gorgon
 
-Willy Gorgon is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
+Willy Gorgon is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Willy Gorgon is a house and deep house artist based in United States of America, with 18 gigs on soundcheck across Miami, New York City, San Francisco/Oakland and Tampa Bay. Often billed alongside shanty mane, EREZ.JPG and Jeny Michelle. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Willy Gorgon is a house and deep house artist based in United States of America,
 
 shanty mane, EREZ.JPG, Jeny Michelle
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/willygorgon/)*

@@ -1,6 +1,6 @@
 # Folamour
 
-Folamour is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Roig Arena, Valencia on Sat, 7 Nov 2026.
+Folamour is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Roig Arena, Valencia on Sat, 7 Nov 2026.
 
 Folamour is a house and disco artist based in France, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Roig Arena, Valencia on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Folamour is a house and disco artist based in France, with 162 gigs on soundchec
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

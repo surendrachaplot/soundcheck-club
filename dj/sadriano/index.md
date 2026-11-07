@@ -1,6 +1,6 @@
 # Sadriano
 
-Sadriano is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Suma Han, Istanbul on Fri, 13 Nov 2026.
+Sadriano is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Suma Han, Istanbul on Fri, 13 Nov 2026.
 
 Sadriano is a house and tech house artist based in Turkey, with 65 gigs on soundcheck across Istanbul. Often billed alongside MAH BOD, Alexandr Grecov and siohasht. Next up: Suma Han, Istanbul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sadriano is a house and tech house artist based in Turkey, with 65 gigs on sound
 
 MAH BOD, Alexandr Grecov, siohasht
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sadriano/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sadriano/)*

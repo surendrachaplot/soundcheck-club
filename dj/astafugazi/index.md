@@ -1,6 +1,6 @@
 # Asta Fugazi
 
-Asta Fugazi is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 28 Nov 2026.
+Asta Fugazi is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 28 Nov 2026.
 
 Asta Fugazi is a trance and techno artist based in Sweden, with 7 gigs on soundcheck across Brussels, Copenhagen and Malmo. Often billed alongside Araknyl, My Gander and Jidder. Next up: Den Anden Side, Copenhagen on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ Asta Fugazi is a trance and techno artist based in Sweden, with 7 gigs on soundc
 
 Araknyl, My Gander, Jidder
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astafugazi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/astafugazi/)*

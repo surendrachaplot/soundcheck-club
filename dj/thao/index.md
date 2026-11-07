@@ -1,6 +1,6 @@
 # Thao
 
-Thao is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Thao is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
 
 Thao is a techno and experimental artist, with 28 gigs on soundcheck across Bratislava, Idaho, Lyon and Paris and 1 more. Often billed alongside anxxxious_t, AXT and AfroNinja. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
 
@@ -25,4 +25,4 @@ Thao is a techno and experimental artist, with 28 gigs on soundcheck across Brat
 
 anxxxious_t, AXT, AfroNinja
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thao/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thao/)*

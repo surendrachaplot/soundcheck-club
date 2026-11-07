@@ -1,14 +1,13 @@
 # Bar v Krymský
 
-Bar v Krymský is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Sasha Nevolin" on Fri, 6 Nov 2026.
+Bar v Krymský is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Novelist Album Listening Party + Q&A with Haseeb Iqbal" on Sat, 7 Nov 2026.
 
-Bar v Krymský is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including Brady, Haseeb Iqbal, Lillou and Marcelo K2 and 2 more. See dates, start times and who's playing. Krymská 21, Praha.
+Bar v Krymský is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Brady, Haseeb Iqbal, Lillou and Marcelo K2 and 1 more. See dates, start times and who's playing. Krymská 21, Praha.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Sasha Nevolin | Sasha Nevolin |
 | Sat, 7 Nov 2026 | Novelist Album Listening Party + Q&A with Haseeb Iqbal | Haseeb Iqbal, Novelist |
 | Sat, 7 Nov 2026 | Marcelo K2 & VIK | Marcelo K2 |
 | Fri, 13 Nov 2026 | BE GOOD with Aiffel, johan, Mido |  |
@@ -23,4 +22,4 @@ Bar v Krymský is a music venue in Prague listed on soundcheck. 10 upcoming gigs
 
 Krymská 21, Praha, Prague
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bar-v-krymsk/)*

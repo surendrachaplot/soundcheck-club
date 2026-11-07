@@ -1,6 +1,6 @@
 # Samotar
 
-Samotar is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 7 Nov 2026.
+Samotar is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 7 Nov 2026.
 
 Samotar is a techno artist, with 3 gigs on soundcheck across Bratislava. Often billed alongside Hasky (SK), Marosh (SK) and Olivia Nebula. Next up: Radost Music Club, Bratislava on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ Samotar is a techno artist, with 3 gigs on soundcheck across Bratislava. Often b
 
 Hasky (SK), Marosh (SK), Olivia Nebula
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samotar/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samotar/)*

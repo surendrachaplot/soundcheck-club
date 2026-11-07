@@ -1,6 +1,6 @@
 # Caike.
 
-Caike. is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
+Caike. is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Carousel Bar & Ballroom, Sydney on Fri, 27 Nov 2026.
 
 Caike. is a techno and progressive house artist based in Brazil, with 11 gigs on soundcheck across Sydney. Often billed alongside Ravi Luchesi, LIIA and Manu Neves. Next up: Carousel Bar & Ballroom, Sydney on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Caike. is a techno and progressive house artist based in Brazil, with 11 gigs on
 
 Ravi Luchesi, LIIA, Manu Neves
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caike/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caike/)*

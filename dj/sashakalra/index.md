@@ -1,6 +1,6 @@
 # Sasha Kalra
 
-Sasha Kalra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 13 Nov 2026.
+Sasha Kalra is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Luu Bar, Ho Chi Minh City on Fri, 13 Nov 2026.
 
 Sasha Kalra is a house and techno artist based in Canada, with 23 gigs on soundcheck across Ho Chi Minh City, London, Seoul and Tokyo and 1 more. Often billed alongside Choirboi, High Tide and Host (CA). Next up: Luu Bar, Ho Chi Minh City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Sasha Kalra is a house and techno artist based in Canada, with 23 gigs on soundc
 
 Choirboi, High Tide, Host (CA)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashakalra/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sashakalra/)*

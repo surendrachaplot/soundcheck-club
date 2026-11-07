@@ -1,6 +1,6 @@
 # Rødhåd
 
-Rødhåd is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuse, Brussels on Sat, 7 Nov 2026.
+Rødhåd is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fuse, Brussels on Sat, 7 Nov 2026.
 
 Rødhåd is a techno and house artist based in Germany, with 261 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 81 more. Often billed alongside Ben Klock, Fadi Mohem and JakoJako. Next up: Fuse, Brussels on Sat 7 Nov.
 
@@ -36,4 +36,4 @@ Rødhåd is a techno and house artist based in Germany, with 261 gigs on soundch
 
 Ben Klock, Fadi Mohem, JakoJako
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodhad/)*

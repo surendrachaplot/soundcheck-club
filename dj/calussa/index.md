@@ -1,6 +1,6 @@
 # Calussa
 
-Calussa is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Calussa is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Calussa is a house and afro house artist based in United States of America, with 74 gigs on soundcheck across Austin, Barcelona, Bogotá and Buenos Aires and 22 more. Often billed alongside Andrea Oliva, Max Styler and ARODES. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ Calussa is a house and afro house artist based in United States of America, with
 
 Andrea Oliva, Max Styler, ARODES
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/calussa/)*

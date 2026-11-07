@@ -1,6 +1,6 @@
 # Serafin (AT)
 
-Serafin (AT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Exil, Vienna on Fri, 13 Nov 2026.
+Serafin (AT) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Exil, Vienna on Fri, 13 Nov 2026.
 
 Serafin (AT) is a techno and trance artist, with 8 gigs on soundcheck across Sofia and Vienna. Often billed alongside ASCHENBRENNER, Armin Hermann and Stratera. Next up: Club Exil, Vienna on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Serafin (AT) is a techno and trance artist, with 8 gigs on soundcheck across Sof
 
 ASCHENBRENNER, Armin Hermann, Stratera
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafinat/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serafinat/)*

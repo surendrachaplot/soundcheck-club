@@ -1,6 +1,6 @@
 # Kenji Takimi
 
-Kenji Takimi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at WOMB, Tokyo on Fri, 20 Nov 2026.
+Kenji Takimi is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at WOMB, Tokyo on Fri, 20 Nov 2026.
 
 Kenji Takimi is a house and disco artist based in Japan, with 95 gigs on soundcheck across Auckland, Bali, Dubai and Ho Chi Minh City and 6 more. Often billed alongside YAMARCHY, Monkey Timers and Kikiorix. Next up: WOMB, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kenji Takimi is a house and disco artist based in Japan, with 95 gigs on soundch
 
 YAMARCHY, Monkey Timers, Kikiorix
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenjitakimi/)*

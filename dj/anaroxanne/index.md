@@ -1,6 +1,6 @@
 # Ana Roxanne
 
-Ana Roxanne is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Ana Roxanne is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Ana Roxanne is an experimental and ambient artist based in United States of America, with 25 gigs on soundcheck across Barcelona, Berlin, Brussels and Glasgow and 13 more. Often billed alongside DJ Python, Dawuna and Dreamcrusher. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Ana Roxanne is an experimental and ambient artist based in United States of Amer
 
 DJ Python, Dawuna, Dreamcrusher
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaroxanne/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anaroxanne/)*

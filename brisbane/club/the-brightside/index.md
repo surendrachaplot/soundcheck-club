@@ -1,6 +1,6 @@
 # The Brightside
 
-The Brightside is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Steve Bug BRISBANE" on Sun, 15 Nov 2026.
+The Brightside is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Steve Bug BRISBANE" on Sun, 15 Nov 2026.
 
 The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Bensley, Brock Ferrar, Imanu and Steve Bug. See dates, start times and who's playing. 27 Warner St, Fortitude Valley.
 
@@ -15,4 +15,4 @@ The Brightside is a music venue in Brisbane listed on soundcheck. 2 upcoming gig
 
 27 Warner St, Fortitude Valley, Brisbane
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/brisbane/club/the-brightside/)*

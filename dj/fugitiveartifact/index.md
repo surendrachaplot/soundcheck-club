@@ -1,6 +1,6 @@
 # Fugitive Artifact
 
-Fugitive Artifact is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jupiter Disco, New York City on Sat, 14 Nov 2026.
+Fugitive Artifact is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Jupiter Disco, New York City on Sat, 14 Nov 2026.
 
 Fugitive Artifact is a bass and club artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside /KATA/, Lexicon and PUFF. Next up: Jupiter Disco, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Fugitive Artifact is a bass and club artist based in United States of America, w
 
 /KATA/, Lexicon, PUFF
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fugitiveartifact/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fugitiveartifact/)*

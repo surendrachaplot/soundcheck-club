@@ -1,6 +1,6 @@
 # KRIΣTIΛN
 
-KRIΣTIΛN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Frekuence, Tirana on Fri, 13 Nov 2026.
+KRIΣTIΛN is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Frekuence, Tirana on Fri, 13 Nov 2026.
 
 KRIΣTIΛN is a techno and industrial artist based in Albania, with 20 gigs on soundcheck across Athens and Tirana. Often billed alongside Gurthang, TECHKƎN and 010010*. Next up: Frekuence, Tirana on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ KRIΣTIΛN is a techno and industrial artist based in Albania, with 20 gigs on s
 
 Gurthang, TECHKƎN, 010010*
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristian-al/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kristian-al/)*

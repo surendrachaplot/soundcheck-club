@@ -1,8 +1,8 @@
 # Felixculpah
 
-Felixculpah is a Dubstep and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Protokultura, Wroclaw on Sat, 21 Nov 2026.
+Felixculpah is a Dubstep and Dub artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Protokultura, Wroclaw on Sat, 21 Nov 2026.
 
-Felixculpah is a dubstep and dub artist based in United Kingdom, with 37 gigs on soundcheck across Antwerp, Barcelona, Bucharest and Leeds and 5 more. Often billed alongside Breakfake, SGT Pokes and Kahn. Next up: Protokultura, Wroclaw on Sat 21 Nov.
+Felixculpah is a dubstep and dub artist based in United Kingdom, with 38 gigs on soundcheck across Antwerp, Barcelona, Bucharest and Leeds and 5 more. Often billed alongside Breakfake, SGT Pokes and Kahn. Next up: Protokultura, Wroclaw on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Felixculpah is a dubstep and dub artist based in United Kingdom, with 37 gigs on
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | Protokultura | Wroclaw |
 | Fri, 4 Dec 2026 | fabric | London |
+| Fri, 5 Feb 2027 | Hidden | Manchester |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Felixculpah is a dubstep and dub artist based in United Kingdom, with 37 gigs on
 
 Breakfake, SGT Pokes, Kahn
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixculpah/)*

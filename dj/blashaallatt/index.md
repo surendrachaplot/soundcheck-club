@@ -1,14 +1,13 @@
 # Blasha & Allatt
 
-Blasha & Allatt is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Zinkbad Eventhalle, Zurich on Fri, 6 Nov 2026.
+Blasha & Allatt is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Bassement, Madrid on Sat, 7 Nov 2026.
 
-Blasha & Allatt are a techno and house duo based in United Kingdom, with 313 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 65 more. Often billed alongside aalice, Freddy K and Steffi. Next up: Zinkbad Eventhalle, Zurich on Fri 6 Nov.
+Blasha & Allatt are a techno and house duo based in United Kingdom, with 313 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 65 more. Often billed alongside aalice, Freddy K and Steffi. Next up: The Bassement, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Zinkbad Eventhalle | Zurich |
 | Sat, 7 Nov 2026 | The Bassement | Madrid |
 | Fri, 13 Nov 2026 | The White Hotel | Manchester |
 | Sat, 14 Nov 2026 | block. | Dublin |
@@ -23,6 +22,7 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 313 gig
 
 ## Recently played
 
+- Zinkbad Eventhalle, Zurich · Fri, 6 Nov 2026
 - NUMBER 90 LONDON, London · Sun, 1 Nov 2026
 - Gewölbe, Cologne · Sat, 31 Oct 2026
 - Skatecafe, Amsterdam · Sun, 25 Oct 2026
@@ -30,10 +30,9 @@ Blasha & Allatt are a techno and house duo based in United Kingdom, with 313 gig
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 17 Oct 2026
 - Fuse, Brussels · Sat, 17 Oct 2026
-- Tokonoma Club, Frankfurt · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 aalice, Freddy K, Steffi
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blashaallatt/)*

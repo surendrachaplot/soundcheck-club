@@ -1,14 +1,13 @@
 # Vantavision
 
-Vantavision is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bollwerk Cologne, Cologne on Thu, 5 Nov 2026.
+Vantavision is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Prisma, Berlin on Tue, 10 Nov 2026.
 
-Vantavision is a techno and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin and Cologne. Often billed alongside EVYA, Noxumi and b.e.n.m. Next up: Bollwerk Cologne, Cologne on Thu 5 Nov.
+Vantavision is a techno and tech house artist based in Germany, with 10 gigs on soundcheck across Berlin and Cologne. Often billed alongside EVYA, Noxumi and b.e.n.m. Next up: Prisma, Berlin on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Bollwerk Cologne | Cologne |
 | Tue, 10 Nov 2026 | Prisma | Berlin |
 | Wed, 16 Dec 2026 | Sensorium | Berlin |
 
@@ -27,4 +26,4 @@ Vantavision is a techno and tech house artist based in Germany, with 10 gigs on 
 
 EVYA, Noxumi, b.e.n.m
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vantavision/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vantavision/)*

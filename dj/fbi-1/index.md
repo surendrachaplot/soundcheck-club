@@ -1,6 +1,6 @@
 # fbi (1)
 
-fbi (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kater, Berlin on Sat, 19 Dec 2026.
+fbi (1) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 19 Dec 2026.
 
 fbi is a house and techno artist based in Germany, with 37 gigs on soundcheck across Berlin, Hamburg, Leipzig and Prague. Often billed alongside KVLR, DJ SOURCE and yamagucci42. Next up: Kater, Berlin on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ fbi is a house and techno artist based in Germany, with 37 gigs on soundcheck ac
 
 KVLR, DJ SOURCE, yamagucci42
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fbi-1/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fbi-1/)*

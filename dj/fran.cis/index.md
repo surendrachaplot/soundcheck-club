@@ -1,6 +1,6 @@
 # Fran.cis
 
-Fran.cis is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Oven Club, Valencia on Sat, 7 Nov 2026.
+Fran.cis is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Oven Club, Valencia on Sat, 7 Nov 2026.
 
 Fran.cis is a house and deep house artist based in Spain, with 13 gigs on soundcheck across Valencia. Often billed alongside Sueezo, Tommaso Pizzelli and Pizzicatto. Next up: Oven Club, Valencia on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Fran.cis is a house and deep house artist based in Spain, with 13 gigs on soundc
 
 Sueezo, Tommaso Pizzelli, Pizzicatto
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fran.cis/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fran.cis/)*

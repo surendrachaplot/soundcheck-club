@@ -1,6 +1,6 @@
 # Toribio
 
-Toribio is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Little Shop of Soil, New York City on Sat, 7 Nov 2026.
+Toribio is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Little Shop of Soil, New York City on Sat, 7 Nov 2026.
 
 Toribio is a house and disco artist based in United States of America, with 237 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: TBA - Little Shop of Soil, New York City on Sat 7 Nov.
 
@@ -32,4 +32,4 @@ Toribio is a house and disco artist based in United States of America, with 237 
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

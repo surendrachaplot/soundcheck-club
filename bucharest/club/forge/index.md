@@ -1,6 +1,6 @@
 # Forge
 
-Forge is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "FELICIE @ROOM:010 - Fastgroove Techno" on Sat, 7 Nov 2026.
+Forge is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "FELICIE @ROOM:010 - Fastgroove Techno" on Sat, 7 Nov 2026.
 
 Forge is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including Clast, DA NA, Extrawelt and FAUST and 2 more. See dates, start times and who's playing. Șoseaua Pantelimon 1A, Bucharest, Romania 022401.
 
@@ -20,4 +20,4 @@ Forge is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with 
 
 Șoseaua Pantelimon 1A, Bucharest, Romania 022401, Bucharest
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/forge/)*

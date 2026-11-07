@@ -1,6 +1,6 @@
 # Lovelydaze
 
-Lovelydaze is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Gutter, New York City on Fri, 13 Nov 2026.
+Lovelydaze is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Gutter, New York City on Fri, 13 Nov 2026.
 
 Lovelydaze is a garage and drum & bass artist based in United States of America, with 46 gigs on soundcheck across New York City. Often billed alongside Lord of Ciphers, Sasha Rome and J.N.R.. Next up: The Gutter, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Lovelydaze is a garage and drum & bass artist based in United States of America,
 
 Lord of Ciphers, Sasha Rome, J.N.R.
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelydaze/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lovelydaze/)*

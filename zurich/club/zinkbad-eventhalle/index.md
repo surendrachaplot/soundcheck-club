@@ -1,14 +1,13 @@
 # Zinkbad Eventhalle
 
-Zinkbad Eventhalle is a music venue in Zurich with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Reverse X Demolate " on Fri, 6 Nov 2026.
+Zinkbad Eventhalle is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "FACE 2 FACE: ZURICH" on Sat, 14 Nov 2026.
 
-Zinkbad Eventhalle is a music venue in Zurich listed on soundcheck. 6 upcoming gigs, with line-ups including Blasha & Allatt, Cortez, DJ Ace and DJ DRECKISCH and 2 more. See dates, start times and who's playing. Geerenweg 2, 8048 Zürich, Schweiz.
+Zinkbad Eventhalle is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including DJ Ace, DJ DRECKISCH, DJ Hyperdrive and HiTMiLØW and 2 more. See dates, start times and who's playing. Geerenweg 2, 8048 Zürich, Schweiz.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Reverse X Demolate  | Blasha & Allatt, Cortez (2), GCOD, Jacom, Kaiser (K S R), Mefteh, SCNR, Scheppērt |
 | Sat, 14 Nov 2026 | FACE 2 FACE: ZURICH | DJ DRECKISCH, DJ Hyperdrive, HUMAN ERROR, HiTMiLØW, Mattia Trani, Part Time Killer, SANEM, Vagabund, Yasmin Gardezi, relajadita |
 | Sat, 28 Nov 2026 | Mad Fusion All night long | Mad Fusion |
 | Sat, 12 Dec 2026 | Explicit XXL | Liad Krispin, Megix, ONX (CH), Rakans, The Ginger Lash |
@@ -19,4 +18,4 @@ Zinkbad Eventhalle is a music venue in Zurich listed on soundcheck. 6 upcoming g
 
 Geerenweg 2, 8048 Zürich, Schweiz, Zurich
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zinkbad-eventhalle/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/zinkbad-eventhalle/)*

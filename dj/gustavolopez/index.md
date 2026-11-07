@@ -1,6 +1,6 @@
 # Gustavo Lopez
 
-Gustavo Lopez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Supermercat Gotico, Barcelona on Sat, 7 Nov 2026.
+Gustavo Lopez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Supermercat Gotico, Barcelona on Sat, 7 Nov 2026.
 
 Gustavo Lopez is a techno and house artist based in Spain, with 20 gigs on soundcheck across Barcelona. Often billed alongside Gato, Miguel Silva and Civaro. Next up: The Supermercat Gotico, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Gustavo Lopez is a techno and house artist based in Spain, with 20 gigs on sound
 
 Gato, Miguel Silva, Civaro
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavolopez/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gustavolopez/)*

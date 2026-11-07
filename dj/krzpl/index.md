@@ -1,6 +1,6 @@
 # KRZ (PL)
 
-KRZ (PL) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Las Palace, Poland on Sat, 7 Nov 2026.
+KRZ (PL) is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Las Palace, Poland on Sat, 7 Nov 2026.
 
 KRZ (PL) is a techno and hardcore artist based in Poland, with 21 gigs on soundcheck across Krakow, Poland and Wroclaw. Often billed alongside A.C., 2LAV and Hikikomori. Next up: Las Palace, Poland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ KRZ (PL) is a techno and hardcore artist based in Poland, with 21 gigs on soundc
 
 A.C., 2LAV, Hikikomori
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krzpl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krzpl/)*

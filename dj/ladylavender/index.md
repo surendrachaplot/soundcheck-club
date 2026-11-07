@@ -1,6 +1,6 @@
 # lady lavender
 
-lady lavender is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
+lady lavender is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at El Secreto De Rosita, Washington DC on Sat, 21 Nov 2026.
 
 lady lavender is a techno and house artist based in United States of America, with 94 gigs on soundcheck across Austin, Baltimore, New Orleans and New York City and 3 more. Often billed alongside Nile Ashton, secret handshake and D1ME. Next up: El Secreto De Rosita, Washington DC on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ lady lavender is a techno and house artist based in United States of America, wi
 
 Nile Ashton, secret handshake, D1ME
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladylavender/)*

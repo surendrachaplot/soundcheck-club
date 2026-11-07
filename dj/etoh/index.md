@@ -1,13 +1,14 @@
 # EtOH
 
-EtOH is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Biltmore Cabaret, Vancouver on Sat, 14 Nov 2026.
+EtOH is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Bside Radio, Vancouver on Sat, 7 Nov 2026.
 
-EtOH is a techno and hardcore artist based in Canada, with 72 gigs on soundcheck across Calgary and Vancouver. Often billed alongside TR4CK ID?, ANTI-NOTHING and ANGEL CANNON. Next up: Biltmore Cabaret, Vancouver on Sat 14 Nov.
+EtOH is a techno and hardcore artist based in Canada, with 73 gigs on soundcheck across Calgary and Vancouver. Often billed alongside TR4CK ID?, ANTI-NOTHING and ANGEL CANNON. Next up: TBA - Bside Radio, Vancouver on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | TBA - Bside Radio | Vancouver |
 | Sat, 14 Nov 2026 | Biltmore Cabaret | Vancouver |
 
 ## Recently played
@@ -25,4 +26,4 @@ EtOH is a techno and hardcore artist based in Canada, with 72 gigs on soundcheck
 
 TR4CK ID?, ANTI-NOTHING, ANGEL CANNON
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etoh/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etoh/)*

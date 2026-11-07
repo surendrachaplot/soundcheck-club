@@ -1,8 +1,8 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Pegassi is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Pegassi is a techno and trance artist based in Belgium, with 202 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 64 more. Often billed alongside Helena Lauwaert, Mischluft and Anetha. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Pegassi is a techno and trance artist based in Belgium, with 204 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 65 more. Often billed alongside Helena Lauwaert, Mischluft and Anetha. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -17,9 +17,12 @@ Pegassi is a techno and trance artist based in Belgium, with 202 gigs on soundch
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | The Wool Store | Melbourne |
 | Sat, 5 Dec 2026 | Carriageworks | Sydney |
+| Sat, 27 Feb 2027 | Tour & Taxis | Brussels |
+| Tue, 27 Apr 2027 | ‘T Zoet Breda | Netherlands |
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Descent, Boston · Thu, 5 Nov 2026
 - Sugarfactory, Amsterdam · Sun, 25 Oct 2026
 - Hemkade 48, Amsterdam · Fri, 23 Oct 2026
@@ -27,10 +30,9 @@ Pegassi is a techno and trance artist based in Belgium, with 202 gigs on soundch
 - Escala25, Lisbon · Sat, 10 Oct 2026
 - Gate Milano, Milan · Fri, 9 Oct 2026
 - Gate Milano, Milan · Fri, 9 Oct 2026
-- The Telegraph Building, Belfast · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Helena Lauwaert, Mischluft, Anetha
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

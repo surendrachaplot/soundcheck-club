@@ -1,6 +1,6 @@
 # OKTAY (2)
 
-OKTAY (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 33/45 Club, Valencia on Sat, 7 Nov 2026.
+OKTAY (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at 33/45 Club, Valencia on Sat, 7 Nov 2026.
 
 OKTAY is a techno and house artist based in Azerbaijan, with 8 gigs on soundcheck across Valencia. Often billed alongside Neonexus, Ayra Nishati and Broken boy. Next up: 33/45 Club, Valencia on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ OKTAY is a techno and house artist based in Azerbaijan, with 8 gigs on soundchec
 
 Neonexus, Ayra Nishati, Broken boy
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oktay-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oktay-2/)*

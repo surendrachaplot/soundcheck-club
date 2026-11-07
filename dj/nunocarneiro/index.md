@@ -1,6 +1,6 @@
 # Nuno Carneiro
 
-Nuno Carneiro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
+Nuno Carneiro is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
 
 Nuno Carneiro is a house and techno artist based in Portugal, with 38 gigs on soundcheck across Barcelona, Berlin, Lisbon and New York City and 2 more. Often billed alongside Alfonsvs, Adriana Ruas and Da Ni. Next up: Oneonefive., Porto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nuno Carneiro is a house and techno artist based in Portugal, with 38 gigs on so
 
 Alfonsvs, Adriana Ruas, Da Ni
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunocarneiro/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nunocarneiro/)*

@@ -1,6 +1,6 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Afrojack is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Afrojack is a house and progressive house artist based in Netherlands, with 61 gigs on soundcheck across Amsterdam, Athens, Boston and Buenos Aires and 23 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -14,6 +14,7 @@ Afrojack is a house and progressive house artist based in Netherlands, with 61 g
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Afas Live, Amsterdam · Sat, 24 Oct 2026
 - Echostage, Washington DC · Sat, 10 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
@@ -21,10 +22,9 @@ Afrojack is a house and progressive house artist based in Netherlands, with 61 g
 - Ushuaïa Ibiza, Ibiza · Mon, 5 Oct 2026
 - New City Gas, Montreal · Sat, 3 Oct 2026
 - E11EVEN MIAMI, Miami · Fri, 25 Sept 2026
-- Olympic Athletic Center of Athens, Athens · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 David Guetta, Paul Reynolds, Francis Mercier
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrojack/)*

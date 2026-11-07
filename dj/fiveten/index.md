@@ -1,6 +1,6 @@
 # Five Ten
 
-Five Ten is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Folklor, Lausanne on Fri, 13 Nov 2026.
+Five Ten is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Folklor, Lausanne on Fri, 13 Nov 2026.
 
 Five Ten is a techno and electro artist, with 9 gigs on soundcheck across Bangkok, Berlin, Hanoi and Lausanne and 2 more. Often billed alongside Genki Tanaka, Jeremy J and TORAO. Next up: Folklor, Lausanne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Five Ten is a techno and electro artist, with 9 gigs on soundcheck across Bangko
 
 Genki Tanaka, Jeremy J, TORAO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiveten/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiveten/)*

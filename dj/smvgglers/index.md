@@ -1,6 +1,6 @@
 # SMVGGLERS
 
-SMVGGLERS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sala Independance Club, Madrid on Thu, 12 Nov 2026.
+SMVGGLERS is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Sala Independance Club, Madrid on Thu, 12 Nov 2026.
 
 SMVGGLERS is a techno and trance artist based in Italy, with 9 gigs on soundcheck across Amsterdam, Cologne, Madrid and Milan. Often billed alongside Mark Neve, AIN'T GEORGE and ALKA. Next up: Sala Independance Club, Madrid on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ SMVGGLERS is a techno and trance artist based in Italy, with 9 gigs on soundchec
 
 Mark Neve, AIN'T GEORGE, ALKA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smvgglers/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smvgglers/)*

@@ -1,6 +1,6 @@
 # Giovani
 
-Giovani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
+Giovani is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bossa Nova Civic Club, New York City on Wed, 11 Nov 2026.
 
 Giovani is a techno and house artist based in United States of America, with 69 gigs on soundcheck across Berlin, Bogotá, Medellin and New York City and 2 more. Often billed alongside Secret Raver, Todd Fatjo and Pjay. Next up: Bossa Nova Civic Club, New York City on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Giovani is a techno and house artist based in United States of America, with 69 
 
 Secret Raver, Todd Fatjo, Pjay
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giovani/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giovani/)*

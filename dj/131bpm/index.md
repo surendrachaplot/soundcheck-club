@@ -1,20 +1,20 @@
 # 131bpm
 
-131bpm is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at KREUZWERK, Berlin on Fri, 6 Nov 2026.
+131bpm is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fitzroy, Berlin on Sat, 7 Nov 2026.
 
-131bpm is a house and techno artist, with 134 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Camilla Rae, Stella Zekri and Aaron Blau. Next up: KREUZWERK, Berlin on Fri 6 Nov.
+131bpm is a house and techno artist, with 134 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 28 more. Often billed alongside Camilla Rae, Stella Zekri and Aaron Blau. Next up: Fitzroy, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | KREUZWERK | Berlin |
 | Sat, 7 Nov 2026 | Fitzroy | Berlin |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
 | Sat, 28 Nov 2026 | ASIAT Park | Brussels |
 
 ## Recently played
 
+- KREUZWERK, Berlin · Fri, 6 Nov 2026
 - Tokonoma Club, Frankfurt · Sat, 31 Oct 2026
 - Fucine Vulcano, Milan · Sat, 10 Oct 2026
 - Renate, Berlin · Sat, 3 Oct 2026
@@ -22,10 +22,9 @@
 - KREUZWERK, Berlin · Fri, 21 Aug 2026
 - AMT, Berlin · Fri, 21 Aug 2026
 - Marmorbar, Berlin · Sat, 8 Aug 2026
-- Renate, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Camilla Rae, Stella Zekri, Aaron Blau
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/131bpm/)*

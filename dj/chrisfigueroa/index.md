@@ -1,6 +1,6 @@
 # Chris Figueroa
 
-Chris Figueroa is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Lula Club, Madrid on Thu, 12 Nov 2026.
+Chris Figueroa is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Lula Club, Madrid on Thu, 12 Nov 2026.
 
 Chris Figueroa is a tech house and house artist based in Spain, with 37 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside fajardo, jose fajardo and Djon. Next up: Lula Club, Madrid on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Chris Figueroa is a tech house and house artist based in Spain, with 37 gigs on 
 
 fajardo, jose fajardo, Djon
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfigueroa/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisfigueroa/)*

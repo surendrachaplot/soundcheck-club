@@ -1,6 +1,6 @@
 # MC Secret Agent
 
-MC Secret Agent is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 45 London, London on Sun, 29 Nov 2026.
+MC Secret Agent is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at 45 London, London on Sun, 29 Nov 2026.
 
 MC Secret Agent is a garage and house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Daniel Ward, Hermit and DJ Listener. Next up: 45 London, London on Sun 29 Nov.
 
@@ -21,4 +21,4 @@ MC Secret Agent is a garage and house artist based in United Kingdom, with 5 gig
 
 Daniel Ward, Hermit, DJ Listener
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcsecretagent/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mcsecretagent/)*

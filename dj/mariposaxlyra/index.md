@@ -1,6 +1,6 @@
 # Mariposa x Lyra
 
-Mariposa x Lyra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+Mariposa x Lyra is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
 Mariposa x Lyra are a techno and trance duo based in Germany, with 8 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Richie Rollin, DJ.PRO.PHET and *Tia*. Next up: ://about blank, Berlin on Fri 4 Dec.
 
@@ -24,4 +24,4 @@ Mariposa x Lyra are a techno and trance duo based in Germany, with 8 gigs on sou
 
 Richie Rollin, DJ.PRO.PHET, *Tia*
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposaxlyra/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariposaxlyra/)*

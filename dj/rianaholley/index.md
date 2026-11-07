@@ -1,6 +1,6 @@
 # Riana Holley
 
-Riana Holley is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
+Riana Holley is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bootshaus, Cologne on Sat, 7 Nov 2026.
 
 Riana Holley is a techno and trance artist based in Belgium, with 79 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 19 more. Often billed alongside Hurts, 2HOT2PLAY and 3LEEZA. Next up: Bootshaus, Cologne on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Riana Holley is a techno and trance artist based in Belgium, with 79 gigs on sou
 
 Hurts, 2HOT2PLAY, 3LEEZA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rianaholley/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rianaholley/)*

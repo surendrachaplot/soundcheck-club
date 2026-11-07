@@ -1,18 +1,18 @@
 # Sylvia (ES)
 
-Sylvia (ES) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Hangaren, Copenhagen on Fri, 6 Nov 2026.
+Sylvia (ES) is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 4 Dec 2026.
 
-Sylvia (ES) is a techno and electro artist based in Sweden, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside no.masc, Acidnena and Joey Stella. Next up: Hangaren, Copenhagen on Fri 6 Nov.
+Sylvia (ES) is a techno and electro artist based in Sweden, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside no.masc, Acidnena and Joey Stella. Next up: Razzmatazz, Barcelona on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Hangaren | Copenhagen |
 | Fri, 4 Dec 2026 | Razzmatazz | Barcelona |
 
 ## Recently played
 
+- Hangaren, Copenhagen · Fri, 6 Nov 2026
 - Nitsa Club, Barcelona · Sat, 31 Oct 2026
 - Les Enfants Brillants, Barcelona · Thu, 29 Oct 2026
 - Razzmatazz, Barcelona · Sat, 17 Oct 2026
@@ -20,10 +20,9 @@ Sylvia (ES) is a techno and electro artist based in Sweden, with 79 gigs on soun
 - Razzmatazz, Barcelona · Sat, 22 Aug 2026
 - The White Hotel, Manchester · Fri, 21 Aug 2026
 - TBA -  LFO, Madrid · Fri, 19 Jun 2026
-- Razzmatazz, Barcelona · Thu, 18 Jun 2026
 
 ## Shares bills with
 
 no.masc, Acidnena, Joey Stella
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvia-es/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sylvia-es/)*

@@ -1,6 +1,6 @@
 # Shengchou
 
-Shengchou is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
+Shengchou is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
 
 Shengchou is a techno and electro artist based in China, with 38 gigs on soundcheck across Beijing, Chongqing, Mongolia and Shanghai and 2 more. Often billed alongside LIUYANG, cisco and NYB. Next up: Dada Beijing, Beijing on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Shengchou is a techno and electro artist based in China, with 38 gigs on soundch
 
 LIUYANG, cisco (3), NYB (1)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shengchou/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shengchou/)*

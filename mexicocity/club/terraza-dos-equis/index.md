@@ -1,6 +1,6 @@
 # Terraza Dos Equis
 
-Terraza Dos Equis is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Sunset Music Sessions" on Sun, 8 Nov 2026.
+Terraza Dos Equis is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Sunset Music Sessions" on Sun, 8 Nov 2026.
 
 Terraza Dos Equis is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Isabel La Católica 68, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06080 Ciudad de México, CDMX.
 
@@ -17,4 +17,4 @@ Terraza Dos Equis is a music venue in Mexico City listed on soundcheck. 4 upcomi
 
 Isabel La Católica 68, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06080 Ciudad de México, CDMX, Mexico City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/terraza-dos-equis/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/terraza-dos-equis/)*

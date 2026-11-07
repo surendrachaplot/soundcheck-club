@@ -1,6 +1,6 @@
 # Mira Ló
 
-Mira Ló is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
+Mira Ló is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at FVTVR, Paris on Fri, 4 Dec 2026.
 
 Mira Ló is a house and electro artist based in France, with 50 gigs on soundcheck across Berlin, Chicago, London and Marseille and 1 more. Often billed alongside Maison Blanche, Tour-Maubourg and Kx9000. Next up: FVTVR, Paris on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Mira Ló is a house and electro artist based in France, with 50 gigs on soundche
 
 Maison Blanche, Tour-Maubourg, Kx9000
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miralo/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miralo/)*

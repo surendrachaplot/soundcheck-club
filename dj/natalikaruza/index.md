@@ -1,6 +1,6 @@
 # natali karuza
 
-natali karuza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 27 Nov 2026.
+natali karuza is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mali Barbarellas, Croatia on Fri, 27 Nov 2026.
 
 natali karuza is a techno and house artist based in Croatia, with 10 gigs on soundcheck across Belgrade, Croatia and Zagreb. Often billed alongside Vazdaisti, Parabelt and Orens K. Next up: Mali Barbarellas, Croatia on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ natali karuza is a techno and house artist based in Croatia, with 10 gigs on sou
 
 Vazdaisti, Parabelt, Orens K
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalikaruza/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalikaruza/)*

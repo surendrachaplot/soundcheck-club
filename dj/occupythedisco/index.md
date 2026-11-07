@@ -1,6 +1,6 @@
 # Occupy The Disco
 
-Occupy The Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Bain, New York City on Sun, 8 Nov 2026.
+Occupy The Disco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Le Bain, New York City on Sun, 8 Nov 2026.
 
 Occupy The Disco is a house and disco artist based in United States of America, with 100 gigs on soundcheck across New York City. Often billed alongside DJ RuBot, Danny Krivit and Eli Escobar. Next up: Le Bain, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Occupy The Disco is a house and disco artist based in United States of America, 
 
 DJ RuBot, Danny Krivit, Eli Escobar
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/occupythedisco/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/occupythedisco/)*

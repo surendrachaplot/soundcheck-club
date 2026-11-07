@@ -1,6 +1,6 @@
 # madeera
 
-madeera is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Well Done Goods, Detroit on Sun, 8 Nov 2026.
+madeera is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Well Done Goods, Detroit on Sun, 8 Nov 2026.
 
 madeera is a techno and house artist based in United States of America, with 24 gigs on soundcheck across Atlanta, Detroit, Dublin and Newcastle and 3 more. Often billed alongside Brent Shay, Antikkka and Cody Hammer. Next up: Well Done Goods, Detroit on Sun 8 Nov.
 
@@ -28,4 +28,4 @@ madeera is a techno and house artist based in United States of America, with 24 
 
 Brent Shay, Antikkka, Cody Hammer
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madeera/)*

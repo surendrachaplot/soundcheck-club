@@ -1,6 +1,6 @@
 # Sandar Sánchez
 
-Sandar Sánchez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Douala Ravensbrug, Baden-w-rttemberg on Sat, 7 Nov 2026.
+Sandar Sánchez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Douala Ravensbrug, Baden-w-rttemberg on Sat, 7 Nov 2026.
 
 Sandar Sánchez is a techno and house artist based in Germany, with 22 gigs on soundcheck across Baden W Rttemberg, Berlin, Budapest and Frankfurt and 6 more. Often billed alongside Alay, BOHO and Bonnie Ford. Next up: Club Douala Ravensbrug, Baden W Rttemberg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sandar Sánchez is a techno and house artist based in Germany, with 22 gigs on s
 
 Alay, BOHO, Bonnie Ford
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandarsanchez/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sandarsanchez/)*

@@ -1,6 +1,6 @@
 # Casper Tielrooij
 
-Casper Tielrooij is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at BASE Milano, Milan on Sat, 28 Nov 2026.
+Casper Tielrooij is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at BASE Milano, Milan on Sat, 28 Nov 2026.
 
 Casper Tielrooij is a house and techno artist based in Netherlands, with 53 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 24 more. Often billed alongside Dekmantel Soundsystem, Interstellar Funk and Young Marco. Next up: BASE Milano, Milan on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Casper Tielrooij is a house and techno artist based in Netherlands, with 53 gigs
 
 Dekmantel Soundsystem, Interstellar Funk, Young Marco
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caspertielrooij/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caspertielrooij/)*

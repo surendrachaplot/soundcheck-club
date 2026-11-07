@@ -1,6 +1,6 @@
 # Caucasian Opportunities
 
-Caucasian Opportunities is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
+Caucasian Opportunities is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Abbotsford Convent, Melbourne on Sat, 14 Nov 2026.
 
 Caucasian Opportunities is a techno and house artist based in Australia, with 65 gigs on soundcheck across Adelaide, Hobart, Melbourne and Perth and 1 more. Often billed alongside C.FRIM, Darcy Justice and Moopie. Next up: Abbotsford Convent, Melbourne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Caucasian Opportunities is a techno and house artist based in Australia, with 65
 
 C.FRIM, Darcy Justice, Moopie
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caucasianopportunities/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caucasianopportunities/)*

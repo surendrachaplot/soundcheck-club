@@ -1,6 +1,6 @@
 # KARBONI
 
-KARBONI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Melt Underground, Buenos Aires on Thu, 19 Nov 2026.
+KARBONI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Melt Underground, Buenos Aires on Thu, 19 Nov 2026.
 
 KARBONI is a house and techno artist based in Italy, with 55 gigs on soundcheck across Athens, Bangkok, Barcelona and Beijing and 11 more. Often billed alongside KARBO, Phill Prince and Carloalberto. Next up: Melt Underground, Buenos Aires on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ KARBONI is a house and techno artist based in Italy, with 55 gigs on soundcheck 
 
 KARBO, Phill Prince, Carloalberto
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karboni/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karboni/)*

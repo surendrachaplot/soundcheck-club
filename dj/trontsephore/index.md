@@ -1,6 +1,6 @@
 # Trontsephore
 
-Trontsephore is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Barebone, Dublin on Sun, 15 Nov 2026.
+Trontsephore is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Barebone, Dublin on Sun, 15 Nov 2026.
 
 Trontsephore is an acid and techno artist based in Ireland, with 12 gigs on soundcheck across Dublin and Leeds. Often billed alongside Nessa Johnston, John Paynter and Aero. Next up: Barebone, Dublin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Trontsephore is an acid and techno artist based in Ireland, with 12 gigs on soun
 
 Nessa Johnston, John Paynter, Aero (1)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trontsephore/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trontsephore/)*

@@ -1,6 +1,6 @@
 # TEMPERATURE #6 at Bizz'Art
 
-TEMPERATURE #6 at Bizz'Art on Sat 7 Nov, Paris. Hip-Hop and Afrobeat. See the line-up on soundcheck.
+TEMPERATURE #6 at Bizz'Art on Sat 7 Nov, Paris. Afrobeat and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

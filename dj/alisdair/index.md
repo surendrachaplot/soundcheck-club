@@ -1,6 +1,6 @@
 # Alisdair
 
-Alisdair is a Electro and Minimal artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
+Alisdair is a Electro and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 22 Nov 2026.
 
 Alisdair is an electro and minimal artist based in United Kingdom, with 21 gigs on soundcheck across Bristol, Leeds, London and Newcastle. Often billed alongside LEN., Aris (Ldn) and Chaddy. Next up: Starlane Pizza Bar, London on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Alisdair is an electro and minimal artist based in United Kingdom, with 21 gigs 
 
 LEN., Aris (Ldn), Chaddy
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisdair/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alisdair/)*

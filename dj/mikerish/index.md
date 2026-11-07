@@ -1,6 +1,6 @@
 # Mike Rish
 
-Mike Rish is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 7 Nov 2026.
+Mike Rish is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 7 Nov 2026.
 
 Mike Rish is a progressive house and house artist based in Australia, with 2 gigs on soundcheck across Melbourne and Sao Paulo. Often billed alongside Adnan Sharif, Catching Flies and Dosem. Next up: D-EDGE, Sao Paulo on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ Mike Rish is a progressive house and house artist based in Australia, with 2 gig
 
 Adnan Sharif, Catching Flies, Dosem
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikerish/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikerish/)*

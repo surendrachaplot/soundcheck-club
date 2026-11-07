@@ -1,14 +1,13 @@
 # Qncc
 
-Qncc is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "The Mother Particle " on Fri, 6 Nov 2026.
+Qncc is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "FACESTRAPPED Vol II" on Sat, 7 Nov 2026.
 
-Qncc is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including silkweb. See dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
+Qncc is a music venue in New York City listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing. 100 Hinsdale Street, Brooklyn, NY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Mother Particle  | silkweb |
 | Sat, 7 Nov 2026 | FACESTRAPPED Vol II |  |
 | Sun, 8 Nov 2026 | Cuéntame x Positive Deviance |  |
 | Sun, 8 Nov 2026 | Entangled Talks & Workshops |  |
@@ -19,4 +18,4 @@ Qncc is a music venue in New York City listed on soundcheck. 6 upcoming gigs, wi
 
 100 Hinsdale Street, Brooklyn, NY, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/qncc/)*

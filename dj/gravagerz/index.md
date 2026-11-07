@@ -1,6 +1,6 @@
 # Gravagerz
 
-Gravagerz is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Elsewhere, Gold-coast on Sun, 15 Nov 2026.
+Gravagerz is a House and Garage artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Elsewhere, Gold-coast on Sun, 15 Nov 2026.
 
 Gravagerz is a house and garage artist based in Italy, with 19 gigs on soundcheck across Amsterdam, Arizona, Boston and Copenhagen and 15 more. Often billed alongside James Hype (UK), Tini Gessler and Casey Club. Next up: Elsewhere, Gold Coast on Sun 15 Nov.
 
@@ -17,6 +17,7 @@ Gravagerz is a house and garage artist based in Italy, with 19 gigs on soundchec
 
 ## Recently played
 
+- The Night Cat, Melbourne · Fri, 6 Nov 2026
 - Westworld of Scottsdale, Arizona · Fri, 30 Oct 2026
 - Wamu Theatre, Seattle · Fri, 30 Oct 2026
 - Spirit of the Suwannee Music Park, Jacksonville · Thu, 22 Oct 2026
@@ -24,10 +25,9 @@ Gravagerz is a house and garage artist based in Italy, with 19 gigs on soundchec
 - Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
 - Fortune Sound Club, Vancouver · Sat, 12 Sept 2026
 - Boat Cruise Summer Series, Boston · Sat, 29 Aug 2026
-- fabric, London · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 James Hype (UK), Tini Gessler, Casey Club
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gravagerz/)*

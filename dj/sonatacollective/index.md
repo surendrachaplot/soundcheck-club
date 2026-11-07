@@ -1,6 +1,6 @@
 # Sonata Collective
 
-Sonata Collective is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Duo Clapham, London on Sat, 28 Nov 2026.
+Sonata Collective is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Duo Clapham, London on Sat, 28 Nov 2026.
 
 Sonata Collective is a tech house and deep house artist based in United Kingdom, with 9 gigs on soundcheck across Leeds and London. Often billed alongside Jo Cruz, KAYDNCE and SONATA. Next up: Duo Clapham, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sonata Collective is a tech house and deep house artist based in United Kingdom,
 
 Jo Cruz, KAYDNCE, SONATA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonatacollective/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sonatacollective/)*

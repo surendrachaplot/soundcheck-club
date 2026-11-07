@@ -1,6 +1,6 @@
 # Johann Boll
 
-Johann Boll is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Turtur, Hamburg on Sat, 7 Nov 2026.
+Johann Boll is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Turtur, Hamburg on Sat, 7 Nov 2026.
 
 Johann Boll is a techno artist, with 9 gigs on soundcheck across Hamburg and Prague. Often billed alongside Sabura, Finona Rider and Aio. Next up: Turtur, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Johann Boll is a techno artist, with 9 gigs on soundcheck across Hamburg and Pra
 
 Sabura, Finona Rider, Aio
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannboll/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johannboll/)*

@@ -1,8 +1,8 @@
 # DJ Colette
 
-DJ Colette is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Air Conditioned Lounge, San Diego on Thu, 12 Nov 2026.
+DJ Colette is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Air Conditioned Lounge, San Diego on Thu, 12 Nov 2026.
 
-DJ Colette is a house and deep house artist based in United States of America, with 84 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 13 more. Often billed alongside DJ Heather, DJ Dazy and Pete Moss. Next up: The Air Conditioned Lounge, San Diego on Thu 12 Nov.
+DJ Colette is a house and deep house artist based in United States of America, with 85 gigs on soundcheck across Chicago, Dallas/Fort Worth, Detroit and Los Angeles and 13 more. Often billed alongside DJ Heather, DJ Dazy and Pete Moss. Next up: The Air Conditioned Lounge, San Diego on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ Colette is a house and deep house artist based in United States of America, w
 | Thu, 12 Nov 2026 | The Air Conditioned Lounge | San Diego |
 | Fri, 13 Nov 2026 | The Air Conditioned Lounge | San Diego |
 | Sun, 15 Nov 2026 | Soulwerks | Los Angeles |
+| Wed, 25 Nov 2026 | Jungle Hollywood | Los Angeles |
 | Sat, 12 Dec 2026 | Jungle Hollywood | Los Angeles |
 
 ## Recently played
@@ -28,4 +29,4 @@ DJ Colette is a house and deep house artist based in United States of America, w
 
 DJ Heather, DJ Dazy, Pete Moss
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcolette/)*

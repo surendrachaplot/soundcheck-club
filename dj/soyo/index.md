@@ -1,18 +1,18 @@
 # Soyo
 
-Soyo is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Hertz, Seoul on Fri, 6 Nov 2026.
+Soyo is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Ring, Seoul on Fri, 13 Nov 2026.
 
-Soyo is a house and club artist based in South Korea, with 130 gigs on soundcheck across Bangkok, Beijing, Chengdu and Hanoi and 5 more. Often billed alongside Jucid, Jesse You and Jimin. Next up: Hertz, Seoul on Fri 6 Nov.
+Soyo is a house and club artist based in South Korea, with 130 gigs on soundcheck across Bangkok, Beijing, Chengdu and Hanoi and 5 more. Often billed alongside Jucid, Jesse You and Jimin. Next up: Ring, Seoul on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Hertz | Seoul |
 | Fri, 13 Nov 2026 | Ring | Seoul |
 
 ## Recently played
 
+- Hertz, Seoul · Fri, 6 Nov 2026
 - Hertz, Seoul · Sat, 31 Oct 2026
 - teller, Seoul · Sat, 17 Oct 2026
 - Faust, Seoul · Fri, 9 Oct 2026
@@ -20,10 +20,9 @@ Soyo is a house and club artist based in South Korea, with 130 gigs on soundchec
 - Hertz, Seoul · Sun, 4 Oct 2026
 - Paper, Seoul · Sat, 3 Oct 2026
 - Nyapi, Seoul · Thu, 1 Oct 2026
-- Hertz, Seoul · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Jucid, Jesse You, Jimin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soyo/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soyo/)*

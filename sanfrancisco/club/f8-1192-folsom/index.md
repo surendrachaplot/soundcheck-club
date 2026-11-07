@@ -1,14 +1,13 @@
 # F8 1192 Folsom
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SKYLER ULTRAVIOLET TOUR" on Fri, 6 Nov 2026.
+F8 1192 Folsom is a music venue in San Francisco/Oakland with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DVALITY PRESENTS INSOMNIA FEATURING EGODEATH ALL NIGHT LONG " on Sat, 7 Nov 2026.
 
-F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 12 upcoming gigs, with line-ups including Ardalan, at-at, BRUTE and Byter and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
+F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 11 upcoming gigs, with line-ups including Ardalan, at-at, BRUTE and Byter and 2 more. See dates, start times and who's playing. 1192 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | SKYLER ULTRAVIOLET TOUR |  |
 | Sat, 7 Nov 2026 | DVALITY PRESENTS INSOMNIA FEATURING EGODEATH ALL NIGHT LONG  |  |
 | Wed, 11 Nov 2026 | F8 Presents Run It Back feat. Dual State | DJ Parrot, JLittle, Taking Back Sundance |
 | Thu, 12 Nov 2026 | Teego SF presents Afro Thursdays Feat. MOSTASH | MOSTASH, Martinignaccio |
@@ -18,9 +17,10 @@ F8 1192 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 1
 | Sat, 21 Nov 2026 | Club Triste: DJ Paypal & Cakedog | DJ Paypal, Discnogirl, Mars Kasei, THA NXXT STEP, Tomu DJ, ray reck |
 | Thu, 26 Nov 2026 | Strut SF and F8 present Thanksgiving Eve Feat. Ardalan | Ardalan |
 | Sat, 28 Nov 2026 | program audio: Carlos Souffront | Carlos Souffront, Moonpie, Oso Feo, The Baptist, dj kelleyjane, lilia, sfcowboy |
+| Thu, 3 Dec 2026 | CONNECT DEC 2026 | JustJovani |
 
 ## Address
 
 1192 Folsom St, San Francisco, CA 94103, San Francisco/Oakland
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/f8-1192-folsom/)*

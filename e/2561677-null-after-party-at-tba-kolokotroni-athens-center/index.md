@@ -1,6 +1,6 @@
 # null ✣ after party at TBA - Kolokotroni Athens Center
 
-null ✣ after party at TBA - Kolokotroni Athens Center on Sun 8 Nov, Athens. 1 artist: Pètal. Techno. See the line-up on soundcheck.
+null ✣ after party at TBA - Kolokotroni Athens Center on Sun 8 Nov, Athens. 6 artists: Mariø, MATEA, MVRU and NEFARIOUS and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,11 @@ null ✣ after party at TBA - Kolokotroni Athens Center on Sun 8 Nov, Athens. 1 
 
 ## Line-up
 
+- Mariø
+- MATEA
+- MVRU
+- NEFARIOUS
 - Pètal
+- Ther3min
 
 *Source: [soundcheck](https://soundcheck.club/e/2561677-null-after-party-at-tba-kolokotroni-athens-center/)*

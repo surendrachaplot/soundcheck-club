@@ -1,6 +1,6 @@
 # Kohei
 
-Kohei is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 13 Nov 2026.
+Kohei is a Minimal and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 13 Nov 2026.
 
 Kohei is a minimal and techno artist based in Japan, with 82 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside AOKI takamasa, Shingo and ALUCA. Next up: Teranoma Tidepool, Osaka on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Kohei is a minimal and techno artist based in Japan, with 82 gigs on soundcheck 
 
 AOKI takamasa, Shingo, ALUCA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kohei/)*

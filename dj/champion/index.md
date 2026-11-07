@@ -1,6 +1,6 @@
 # Champion
 
-Champion is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Champion is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
 Champion is a garage and bass artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Champion is a garage and bass artist based in United Kingdom, with 51 gigs on so
 
 Oppidan, Bakey, MPH (1)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/champion/)*

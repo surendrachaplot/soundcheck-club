@@ -1,6 +1,6 @@
 # Medusa
 
-Medusa is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 27 Nov 2026.
+Medusa is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at La Machine Du Moulin Rouge, Paris on Fri, 27 Nov 2026.
 
 Medusa is a hardcore and gabber artist based in Germany, with 28 gigs on soundcheck across Basel, Bristol, Detroit and Dubai and 7 more. Often billed alongside Edgerunner, Pada and cyaabottom. Next up: La Machine Du Moulin Rouge, Paris on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Medusa is a hardcore and gabber artist based in Germany, with 28 gigs on soundch
 
 Edgerunner, Pada, cyaabottom
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/medusa/)*

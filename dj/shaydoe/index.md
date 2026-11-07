@@ -1,6 +1,6 @@
 # SHAY DOE
 
-SHAY DOE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Radio Bar, Melbourne on Sat, 14 Nov 2026.
+SHAY DOE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Radio Bar, Melbourne on Sat, 14 Nov 2026.
 
 SHAY DOE is a techno and industrial artist based in Germany, with 32 gigs on soundcheck across Canberra, Detroit, Melbourne and New York City. Often billed alongside CAITY WATSON, Mr. Rachele and Lincoln J. K. Webber. Next up: Radio Bar, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SHAY DOE is a techno and industrial artist based in Germany, with 32 gigs on sou
 
 CAITY WATSON, Mr. Rachele, Lincoln J. K. Webber
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydoe/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shaydoe/)*

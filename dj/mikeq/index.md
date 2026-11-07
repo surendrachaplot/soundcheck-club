@@ -1,6 +1,6 @@
 # MikeQ
 
-MikeQ is a Ballroom and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 20 Nov 2026.
+MikeQ is a Ballroom and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bossa Nova Civic Club, New York City on Fri, 20 Nov 2026.
 
 MikeQ is a ballroom and club artist based in United States of America, with 51 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 20 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: Bossa Nova Civic Club, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ MikeQ is a ballroom and club artist based in United States of America, with 51 g
 
 Sinjin Hawke, Leonce, Litney
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeq/)*

@@ -1,18 +1,18 @@
 # Pino Henrique Pedra
 
-Pino Henrique Pedra is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri, 6 Nov 2026.
+Pino Henrique Pedra is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 7 Nov 2026.
 
-Pino Henrique Pedra is a house and balearic artist based in Brazil, with 47 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Martha Pinel. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri 6 Nov.
+Pino Henrique Pedra is a house and balearic artist based in Brazil, with 47 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Gui Scott, Discos Baratos and Martha Pinel. Next up: Edifício Martinelli, Sao Paulo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Mauacba Skate Coffee & Skate Shop | Rio de Janeiro |
 | Sat, 7 Nov 2026 | Edifício Martinelli | Sao Paulo |
 
 ## Recently played
 
+- Mauacba Skate Coffee & Skate Shop, Rio de Janeiro · Fri, 6 Nov 2026
 - Mauacba Skate Coffee & Skate Shop, Rio de Janeiro · Sat, 24 Oct 2026
 - Edifício Martinelli, Sao Paulo · Fri, 23 Oct 2026
 - TBA - Rua do Senado, 1 - Centro, Rio de Janeiro - RJ, 20031-180, Brasil, Rio de Janeiro · Sat, 19 Sept 2026
@@ -20,10 +20,9 @@ Pino Henrique Pedra is a house and balearic artist based in Brazil, with 47 gigs
 - TBA - Rua do Senado, 1 - Centro, Rio de Janeiro, Rio de Janeiro · Sat, 29 Aug 2026
 - TBA, Rio de Janeiro · Sat, 25 Jul 2026
 - TBA - Rua do Monte 22, Morro da Providencia, Rio de Janeiro · Fri, 29 May 2026
-- Funilaria Bixiga, Sao Paulo · Sat, 9 May 2026
 
 ## Shares bills with
 
 Gui Scott, Discos Baratos, Martha Pinel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinohenriquepedra/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pinohenriquepedra/)*

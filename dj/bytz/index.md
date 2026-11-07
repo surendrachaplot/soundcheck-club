@@ -1,6 +1,6 @@
 # Bytz
 
-Bytz is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at OTA Clubhouse, Vietnam on Sat, 7 Nov 2026.
+Bytz is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at OTA Clubhouse, Vietnam on Sat, 7 Nov 2026.
 
 Bytz is an electronica and house artist based in United States of America, with 20 gigs on soundcheck across Bali, Bangkok, Chicago and Hanoi and 5 more. Often billed alongside DANE., JKIND and Manny. Next up: OTA Clubhouse, Vietnam on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Bytz is an electronica and house artist based in United States of America, with 
 
 DANE., JKIND, Manny (2)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bytz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bytz/)*

@@ -1,6 +1,6 @@
 # Sertac Sahin
 
-Sertac Sahin is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
+Sertac Sahin is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Distillery Complex, Pittsburgh on Fri, 4 Dec 2026.
 
 Sertac Sahin is a progressive house and house artist, with 9 gigs on soundcheck across Pittsburgh. Often billed alongside Dan Stark, Koopmusik and Doverspike. Next up: The Distillery Complex, Pittsburgh on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Sertac Sahin is a progressive house and house artist, with 9 gigs on soundcheck 
 
 Dan Stark, Koopmusik, Doverspike
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sertacsahin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sertacsahin/)*

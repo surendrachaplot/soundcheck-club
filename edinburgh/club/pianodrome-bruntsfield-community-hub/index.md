@@ -1,6 +1,6 @@
 # Pianodrome Bruntsfield Community Hub
 
-Pianodrome Bruntsfield Community Hub is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Friday the 13th // Spiritual Jazz Listening Session" on Fri, 13 Nov 2026.
+Pianodrome Bruntsfield Community Hub is a music venue in Edinburgh with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Friday the 13th // Spiritual Jazz Listening Session" on Fri, 13 Nov 2026.
 
 Pianodrome Bruntsfield Community Hub is a music venue in Edinburgh listed on soundcheck. 1 upcoming gig, with line-ups including Mark Quinn. See dates, start times and who's playing. 41 Montpelier Park, Edinburgh EH10 4NB.
 
@@ -14,4 +14,4 @@ Pianodrome Bruntsfield Community Hub is a music venue in Edinburgh listed on sou
 
 41 Montpelier Park, Edinburgh EH10 4NB, Edinburgh
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/pianodrome-bruntsfield-community-hub/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/pianodrome-bruntsfield-community-hub/)*

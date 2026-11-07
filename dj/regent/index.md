@@ -1,6 +1,6 @@
 # Regent
 
-Regent is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
+Regent is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at elipamanoke, Leipzig on Sat, 7 Nov 2026.
 
 Regent is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Bali, Berlin and Dortmund / Essen and 18 more. Often billed alongside SHDW, Chontane and Hemka. Next up: elipamanoke, Leipzig on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Regent is a techno and house artist based in Germany, with 47 gigs on soundcheck
 
 SHDW, Chontane, Hemka
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regent/)*

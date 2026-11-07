@@ -1,14 +1,13 @@
 # MAURER
 
-MAURER is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
+MAURER is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Liquid Club, Malta on Sat, 7 Nov 2026.
 
-MAURER is a techno and trance artist based in Spain, with 37 gigs on soundcheck across Berlin, Buenos Aires, Cologne and East and 10 more. Often billed alongside VOICEX, FILTRACK and FANK. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 6 Nov.
+MAURER is a techno and trance artist based in Spain, with 37 gigs on soundcheck across Berlin, Buenos Aires, Cologne and East and 10 more. Often billed alongside VOICEX, FILTRACK and FANK. Next up: Liquid Club, Malta on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Powered by: Void Acoustics | Madrid |
 | Sat, 7 Nov 2026 | Liquid Club | Malta |
 | Sat, 14 Nov 2026 | MTW | Frankfurt |
 | Sat, 21 Nov 2026 | Selva Club | East |
@@ -16,6 +15,7 @@ MAURER is a techno and trance artist based in Spain, with 37 gigs on soundcheck 
 
 ## Recently played
 
+- TBA - Powered by: Void Acoustics, Madrid · Fri, 6 Nov 2026
 - TBA - DTLA, Los Angeles · Sat, 24 Oct 2026
 - Gotec, Karlsruhe · Sat, 17 Oct 2026
 - Rex Club, Paris · Wed, 14 Oct 2026
@@ -23,10 +23,9 @@ MAURER is a techno and trance artist based in Spain, with 37 gigs on soundcheck 
 - STK 47 WAREHOUSE, Krakow · Sat, 19 Sept 2026
 - Else, Berlin · Sun, 13 Sept 2026
 - Specka, Madrid · Sat, 5 Sept 2026
-- ÆDEN, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 VOICEX, FILTRACK, FANK
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maurer/)*

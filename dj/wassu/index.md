@@ -1,6 +1,6 @@
 # Wassu
 
-Wassu is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Chemist, Boston on Sat, 12 Dec 2026.
+Wassu is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Chemist, Boston on Sat, 12 Dec 2026.
 
 Wassu is a progressive house and deep house artist based in United States of America, with 41 gigs on soundcheck across Austin, Baltimore, Boston and Chicago and 13 more. Often billed alongside ELIF, TOMMYLOGIK and Authentic. Next up: The Chemist, Boston on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Wassu is a progressive house and deep house artist based in United States of Ame
 
 ELIF, TOMMYLOGIK, Authentic
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wassu/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wassu/)*

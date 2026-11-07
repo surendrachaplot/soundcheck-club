@@ -1,8 +1,8 @@
 # Midland
 
-Midland is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
+Midland is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
 
-Midland is a house and techno artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 47 more. Often billed alongside NIKS, Peach and Moxie. Next up: Haven, Byron Bay on Fri 6 Nov.
+Midland is a house and techno artist based in United Kingdom, with 125 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 47 more. Often billed alongside NIKS, Peach and Shanti Celeste. Next up: Haven, Byron Bay on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Midland is a house and techno artist based in United Kingdom, with 124 gigs on s
 | Sat, 21 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 27 Nov 2026 | The White Hotel | Manchester |
 | Sat, 28 Nov 2026 | Quarters | Brighton |
+| Sat, 5 Dec 2026 | Den Anden Side | Copenhagen |
 | Thu, 31 Dec 2026 | Phonox | London |
 | Fri, 15 Jan 2027 | Carfax | Johannesburg |
 | Sat, 16 Jan 2027 | The Castle of Good Hope | Cape-town |
@@ -21,6 +22,7 @@ Midland is a house and techno artist based in United Kingdom, with 124 gigs on s
 
 ## Recently played
 
+- Haven, Byron Bay · Fri, 6 Nov 2026
 - Collingwood Children's Farm, Melbourne · Sat, 31 Oct 2026
 - Pllek, Amsterdam · Thu, 22 Oct 2026
 - FOLD, London · Sat, 17 Oct 2026
@@ -28,10 +30,9 @@ Midland is a house and techno artist based in United Kingdom, with 124 gigs on s
 - Den Anden Side, Copenhagen · Sat, 15 Aug 2026
 - Lux Fragil, Lisbon · Sat, 1 Aug 2026
 - Tunelowa, Warsaw · Sun, 19 Jul 2026
-- The Rooftop at Gianpula Village, Malta · Fri, 3 Jul 2026
 
 ## Shares bills with
 
-NIKS, Peach, Moxie
+NIKS, Peach, Shanti Celeste
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midland/)*

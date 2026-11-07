@@ -1,6 +1,6 @@
 # Bridge (NY)
 
-Bridge (NY) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Bridge (NY) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Bridge (NY) is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Amsterdam, Boston, Dublin and Lisbon and 9 more. Often billed alongside CRVM, Wolf Spritzer and DJ Shannon. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Bridge (NY) is a house and disco artist based in United States of America, with 
 
 CRVM, Wolf Spritzer, DJ Shannon
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bridge-ny/)*

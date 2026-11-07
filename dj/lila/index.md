@@ -1,6 +1,6 @@
 # Lila
 
-Lila is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jumbi, London on Fri, 20 Nov 2026.
+Lila is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Jumbi, London on Fri, 20 Nov 2026.
 
 Lila is a house and funk / soul artist based in Argentina, with 14 gigs on soundcheck across Brighton, Leeds and London. Often billed alongside Esk (UK), IG Culture and Izco. Next up: Jumbi, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Lila is a house and funk / soul artist based in Argentina, with 14 gigs on sound
 
 Esk (UK), IG Culture, Izco
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lila/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lila/)*

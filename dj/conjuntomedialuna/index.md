@@ -1,6 +1,6 @@
 # Conjunto Media Luna
 
-Conjunto Media Luna is a Latin Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sounds Jazz Club, Brussels on Thu, 12 Nov 2026.
+Conjunto Media Luna is a Latin Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sounds Jazz Club, Brussels on Thu, 12 Nov 2026.
 
 Conjunto Media Luna is a latin bass and bass artist based in Colombia, with 2 gigs on soundcheck across Brussels and Warsaw. Often billed alongside Adam Bkr, Cosaco and KarateKnur. Next up: Sounds Jazz Club, Brussels on Thu 12 Nov.
 
@@ -15,4 +15,4 @@ Conjunto Media Luna is a latin bass and bass artist based in Colombia, with 2 gi
 
 Adam Bkr, Cosaco, KarateKnur
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conjuntomedialuna/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conjuntomedialuna/)*

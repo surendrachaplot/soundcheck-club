@@ -1,6 +1,6 @@
 # Kettle
 
-Kettle is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Open Air Club, New York City on Sat, 7 Nov 2026.
+Kettle is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Open Air Club, New York City on Sat, 7 Nov 2026.
 
 Kettle is a house and techno artist based in United States of America, with 19 gigs on soundcheck across New York City. Often billed alongside Iggy Nuclear, Conduit and Rila. Next up: Open Air Club, New York City on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Kettle is a house and techno artist based in United States of America, with 19 g
 
 Iggy Nuclear, Conduit, Rila
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kettle-usa/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kettle-usa/)*

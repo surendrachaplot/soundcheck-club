@@ -1,14 +1,13 @@
 # DJ Tennis
 
-DJ Tennis is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Frankhan Selectist, Istanbul on Fri, 6 Nov 2026.
+DJ Tennis is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
 
-DJ Tennis is a house and techno artist based in Italy, with 338 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 70 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: Frankhan Selectist, Istanbul on Fri 6 Nov.
+DJ Tennis is a house and techno artist based in Italy, with 338 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 70 more. Often billed alongside Carlita, Seth Troxler and Chloé Caillet. Next up: The Warehouse By IT Quarter, Cyprus on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Frankhan Selectist | Istanbul |
 | Sat, 7 Nov 2026 | The Warehouse By IT Quarter | Cyprus |
 | Sun, 8 Nov 2026 | The Lenovo Garage | Madrid |
 | Sun, 8 Nov 2026 | The Bassement | Madrid |
@@ -20,9 +19,11 @@ DJ Tennis is a house and techno artist based in Italy, with 338 gigs on soundche
 | Sat, 28 Nov 2026 | Volt Club Milano | Milan |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
 | Fri, 11 Dec 2026 | Zumana Bali | Bali |
+| Thu, 7 Jan 2027 | TBA | Puerto-rico |
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul · Fri, 6 Nov 2026
 - Warehouse on Watts, Philadelphia · Sat, 31 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ DJ Tennis is a house and techno artist based in Italy, with 338 gigs on soundche
 - Fosbury and Sons, Amsterdam · Fri, 23 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - Crobar - Buenos Aires, Buenos-aires · Fri, 16 Oct 2026
-- Nitsa Club, Barcelona · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Carlita, Seth Troxler, Chloé Caillet
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtennis/)*

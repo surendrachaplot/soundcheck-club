@@ -1,6 +1,6 @@
 # 9T2
 
-9T2 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Madame, Porto on Sat, 7 Nov 2026.
+9T2 is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Madame, Porto on Sat, 7 Nov 2026.
 
 9T2 is a house and techno artist based in Portugal, with 34 gigs on soundcheck across Barcelona, Hamburg, Lisbon and London and 2 more. Often billed alongside JOFF., Carlos Regadas and Joff. Next up: Club Madame, Porto on Sat 7 Nov.
 
@@ -26,4 +26,4 @@
 
 JOFF., Carlos Regadas, Joff
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9t2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/9t2/)*

@@ -1,6 +1,6 @@
 # Thievery Corporation
 
-Thievery Corporation is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Independent, San Francisco/Oakland on Thu, 31 Dec 2026.
+Thievery Corporation is a Downtempo and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Independent, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 Thievery Corporation is a downtempo and electronica artist based in United States of America, with 17 gigs on soundcheck across Amsterdam, Chicago, Houston and Miami and 5 more. Often billed alongside DJ Shadow, 4 Hero and Acid Arab. Next up: The Independent, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Thievery Corporation is a downtempo and electronica artist based in United State
 
 DJ Shadow, 4 Hero, Acid Arab
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thieverycorporation/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thieverycorporation/)*

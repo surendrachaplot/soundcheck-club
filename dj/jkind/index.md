@@ -1,6 +1,6 @@
 # JKIND
 
-JKIND is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at OTA Clubhouse, Vietnam on Sat, 7 Nov 2026.
+JKIND is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OTA Clubhouse, Vietnam on Sat, 7 Nov 2026.
 
 JKIND is a techno and progressive house artist based in United States of America, with 9 gigs on soundcheck across San Francisco/Oakland and Vietnam. Often billed alongside Emanate, ALMAS and Bytz. Next up: OTA Clubhouse, Vietnam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ JKIND is a techno and progressive house artist based in United States of America
 
 Emanate, ALMAS, Bytz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkind/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jkind/)*

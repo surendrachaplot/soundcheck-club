@@ -1,6 +1,6 @@
 # Tell Me
 
-Tell Me is a music venue in Sofia with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Vescotec & Nikola Beshevliev" on Sat, 7 Nov 2026.
+Tell Me is a music venue in Sofia with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Vescotec & Nikola Beshevliev" on Sat, 7 Nov 2026.
 
 Tell Me is a music venue in Sofia listed on soundcheck. 3 upcoming gigs, with line-ups including Francis99, Laylla Dane, Sacha Mambo and Shjva and 1 more. See dates, start times and who's playing. 12 Ivan Vazov str., 1000 Sofia, Bulgaria.
 
@@ -16,4 +16,4 @@ Tell Me is a music venue in Sofia listed on soundcheck. 3 upcoming gigs, with li
 
 12 Ivan Vazov str., 1000 Sofia, Bulgaria, Sofia
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/tell-me/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/tell-me/)*

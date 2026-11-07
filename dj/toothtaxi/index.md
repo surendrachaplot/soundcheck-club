@@ -1,6 +1,6 @@
 # TOOTHTAXI
 
-TOOTHTAXI is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
+TOOTHTAXI is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
 TOOTHTAXI is a techno and experimental artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside DELARA, LIZAZA and Arrosa. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ TOOTHTAXI is a techno and experimental artist based in United Kingdom, with 26 g
 
 DELARA, LIZAZA, Arrosa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toothtaxi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toothtaxi/)*

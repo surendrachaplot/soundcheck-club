@@ -1,14 +1,13 @@
 # The Eagle
 
-The Eagle is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "The Boy Is Mine" on Fri, 6 Nov 2026.
+The Eagle is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Horse Meat Disco at Eagle London" on Sun, 8 Nov 2026.
 
-The Eagle is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Horse Meat Disco, Prosumer, Sophie Lloyd and Stuart Patterson and 1 more. See dates, start times and who's playing. 349 Kennington Ln, London SE11 5QY, United Kingdom.
+The Eagle is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Horse Meat Disco, Prosumer, Sophie Lloyd and Stuart Patterson and 1 more. See dates, start times and who's playing. 349 Kennington Ln, London SE11 5QY, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Boy Is Mine |  |
 | Sun, 8 Nov 2026 | Horse Meat Disco at Eagle London | Horse Meat Disco |
 | Sat, 14 Nov 2026 | Handsome's 14th Birthday Bash (Terry Farley / Stuart Patterson) | Stuart Patterson, Terry Farley |
 | Sun, 15 Nov 2026 | Horse Meat Disco at Eagle London | Horse Meat Disco |
@@ -20,4 +19,4 @@ The Eagle is a music venue in London listed on soundcheck. 7 upcoming gigs, with
 
 349 Kennington Ln, London SE11 5QY, United Kingdom, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-eagle/)*

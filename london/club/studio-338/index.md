@@ -1,6 +1,6 @@
 # Studio 338
 
-Studio 338 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "IllumiNaughty: 20 Years Of Chaos, with Vini Vici & More" on Sat, 7 Nov 2026.
+Studio 338 is a music venue in London with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "IllumiNaughty: 20 Years Of Chaos, with Vini Vici & More" on Sat, 7 Nov 2026.
 
 Studio 338 is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Beezo, Casey Spillman, DELTA LABS and DJ S (UK) and 2 more. See dates, start times and who's playing. 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom.
 
@@ -17,4 +17,4 @@ Studio 338 is a music venue in London listed on soundcheck. 4 upcoming gigs, wit
 
 338 Boord Street; Greenwich; London SE10 0PF; United Kingdom, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/studio-338/)*

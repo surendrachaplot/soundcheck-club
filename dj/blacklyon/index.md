@@ -1,6 +1,6 @@
 # BLACK LYON
 
-BLACK LYON is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Baalsaal, Hamburg on Sat, 7 Nov 2026.
+BLACK LYON is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Baalsaal, Hamburg on Sat, 7 Nov 2026.
 
 BLACK LYON is a techno artist based in Colombia, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside AH-N!CE, AIN'T GEORGE and AKIIM. Next up: Baalsaal, Hamburg on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ BLACK LYON is a techno artist based in Colombia, with 7 gigs on soundcheck acros
 
 AH-N!CE, AIN'T GEORGE, AKIIM
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklyon/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blacklyon/)*

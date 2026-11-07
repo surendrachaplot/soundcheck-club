@@ -1,6 +1,6 @@
 # D'Julz
 
-D'Julz is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Distrikt, Leeds on Sat, 21 Nov 2026.
+D'Julz is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Distrikt, Leeds on Sat, 21 Nov 2026.
 
 D'Julz is a house and minimal artist based in France, with 105 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Beijing and 36 more. Often billed alongside Alexander Skancke, DJ Senc and Shonky. Next up: Distrikt, Leeds on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ D'Julz is a house and minimal artist based in France, with 105 gigs on soundchec
 
 Alexander Skancke, DJ Senc, Shonky
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djulz/)*

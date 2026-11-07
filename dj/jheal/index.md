@@ -1,6 +1,6 @@
 # Jheal
 
-Jheal is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lanna Club, North on Sat, 7 Nov 2026.
+Jheal is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lanna Club, North on Sat, 7 Nov 2026.
 
 Jheal is a techno and dub techno artist based in Spain, with 12 gigs on soundcheck across Barcelona, Buenos Aires, London and Madrid and 4 more. Often billed alongside Dj Manglés, Hugo Rolan and Phase Fatale. Next up: Lanna Club, North on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Jheal is a techno and dub techno artist based in Spain, with 12 gigs on soundche
 
 Dj Manglés, Hugo Rolan, Phase Fatale
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jheal/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jheal/)*

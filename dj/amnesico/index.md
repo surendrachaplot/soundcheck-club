@@ -1,6 +1,6 @@
 # Amnesico
 
-Amnesico is a Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Nether Club, Bucharest on Fri, 20 Nov 2026.
+Amnesico is a Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Nether Club, Bucharest on Fri, 20 Nov 2026.
 
 Amnesico is a techno artist based in Romania, with 10 gigs on soundcheck across Bucharest. Often billed alongside AMEDEUS, KATHERYNE and Sandraz. Next up: Nether Club, Bucharest on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Amnesico is a techno artist based in Romania, with 10 gigs on soundcheck across 
 
 AMEDEUS, KATHERYNE, Sandraz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesico/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amnesico/)*

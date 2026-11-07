@@ -1,6 +1,6 @@
 # DJ Sundae
 
-DJ Sundae is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Maison de la Radio, Paris on Sat, 7 Nov 2026.
+DJ Sundae is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Maison de la Radio, Paris on Sat, 7 Nov 2026.
 
 DJ Sundae is a club and techno artist, with 50 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 14 more. Often billed alongside John Talabot, Lena Willikens and QRTR. Next up: Maison de la Radio, Paris on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ Sundae is a club and techno artist, with 50 gigs on soundcheck across Amsterd
 
 John Talabot, Lena Willikens, QRTR
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsundae/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsundae/)*

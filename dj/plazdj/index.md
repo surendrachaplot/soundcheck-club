@@ -1,6 +1,6 @@
 # plazdj
 
-plazdj is a Minimal and Techno artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Culture Cafe, Bangkok on Mon, 9 Nov 2026.
+plazdj is a Minimal and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Culture Cafe, Bangkok on Mon, 9 Nov 2026.
 
 plazdj is a minimal and techno artist based in Thailand, with 419 gigs on soundcheck across Bangkok. Often billed alongside Funkpheno, Yoongying and Krit Su. Next up: Culture Cafe, Bangkok on Mon 9 Nov.
 
@@ -33,4 +33,4 @@ plazdj is a minimal and techno artist based in Thailand, with 419 gigs on soundc
 
 Funkpheno, Yoongying, Krit Su
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plazdj/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plazdj/)*

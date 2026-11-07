@@ -1,6 +1,6 @@
 # Jusvybe
 
-Jusvybe is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Noce KRK, Krakow on Fri, 13 Nov 2026.
+Jusvybe is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Noce KRK, Krakow on Fri, 13 Nov 2026.
 
 Jusvybe is a techno and drum & bass artist based in Poland, with 8 gigs on soundcheck across Krakow. Often billed alongside Bartman, House Martin and MRV. Next up: Noce KRK, Krakow on Fri 13 Nov.
 
@@ -24,4 +24,4 @@ Jusvybe is a techno and drum & bass artist based in Poland, with 8 gigs on sound
 
 Bartman, House Martin, MRV (1)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jusvybe/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jusvybe/)*

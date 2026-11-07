@@ -1,6 +1,6 @@
 # TEDESCO
 
-TEDESCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
+TEDESCO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at ROSA, Berlin on Sat, 21 Nov 2026.
 
 TEDESCO is a techno and house artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 12 more. Often billed alongside JONE OF ARX, Ivicore and Twang. Next up: ROSA, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ TEDESCO is a techno and house artist based in United Kingdom, with 127 gigs on s
 
 JONE OF ARX, Ivicore, Twang
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tedesco/)*

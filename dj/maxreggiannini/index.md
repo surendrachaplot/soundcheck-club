@@ -1,6 +1,6 @@
 # Max Reggiannini
 
-Max Reggiannini is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Pracht, Frankfurt on Fri, 13 Nov 2026.
+Max Reggiannini is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Pracht, Frankfurt on Fri, 13 Nov 2026.
 
 Max Reggiannini is a house and minimal artist based in Germany, with 23 gigs on soundcheck across Frankfurt and Geneva. Often billed alongside Boutiq.808, Chris Beulich and Chris Wood. Next up: Pracht, Frankfurt on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Max Reggiannini is a house and minimal artist based in Germany, with 23 gigs on 
 
 Boutiq.808, Chris Beulich, Chris Wood
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxreggiannini/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxreggiannini/)*

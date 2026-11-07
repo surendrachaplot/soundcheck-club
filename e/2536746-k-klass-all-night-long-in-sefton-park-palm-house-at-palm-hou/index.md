@@ -1,6 +1,6 @@
 # K-Klass All Night Long in Sefton Park Palm House at Palm House
 
-K-Klass All Night Long in Sefton Park Palm House on Fri 5 Feb, Liverpool. 1 artist: K-Klass. See the line-up on soundcheck.
+K-Klass All Night Long in Sefton Park Palm House on Fri 5 Feb, Liverpool. 1 artist: K-Klass. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

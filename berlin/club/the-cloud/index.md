@@ -1,6 +1,6 @@
 # The Cloud
 
-The Cloud is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Renan Inquerito - TIREOIDE - European tour" on Sat, 7 Nov 2026.
+The Cloud is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Renan Inquerito - TIREOIDE - European tour" on Sat, 7 Nov 2026.
 
 The Cloud is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including DJ phellix, Mosher, Patrick Scuro and SIAAH. See dates, start times and who's playing. Alexanderstraße 7 / 10178 Berlin.
 
@@ -16,4 +16,4 @@ The Cloud is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with
 
 Alexanderstraße 7 / 10178 Berlin, Berlin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/the-cloud/)*

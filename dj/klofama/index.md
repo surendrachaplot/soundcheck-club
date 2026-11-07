@@ -1,14 +1,13 @@
 # KLOFAMA
 
-KLOFAMA is a Techno and Industrial artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
+KLOFAMA is a Techno and Industrial artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - DM ARENA KARLSRUHE, Karlsruhe on Sat, 14 Nov 2026.
 
-KLOFAMA is a techno and industrial artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: Bootshaus, Cologne on Fri 6 Nov.
+KLOFAMA is a techno and industrial artist based in Netherlands, with 113 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 47 more. Often billed alongside KARAH, SLVL and Fantasm. Next up: TBA - DM ARENA KARLSRUHE, Karlsruhe on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Bootshaus | Cologne |
 | Sat, 14 Nov 2026 | TBA - DM ARENA KARLSRUHE | Karlsruhe |
 | Fri, 27 Nov 2026 | Arzenal | Budapest |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
@@ -21,6 +20,7 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 113 gigs on
 
 ## Recently played
 
+- Bootshaus, Cologne · Fri, 6 Nov 2026
 - Afas Live, Amsterdam · Sun, 25 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Wed, 21 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
@@ -28,10 +28,9 @@ KLOFAMA is a techno and industrial artist based in Netherlands, with 113 gigs on
 - Bar Americas, Guadalajara · Sat, 10 Oct 2026
 - Sala Urbana, Mexico City · Fri, 9 Oct 2026
 - TBA - XOX Arena, Kuala Lumpur · Sat, 3 Oct 2026
-- The Yard Vienna, Vienna · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 KARAH, SLVL, Fantasm
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klofama/)*

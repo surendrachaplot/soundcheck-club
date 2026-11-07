@@ -1,6 +1,6 @@
 # PAST presents: Flug, .VRIL (live), Marteka Fair, RAH, THUMB5 at Green Room NYC
 
-PAST presents: Flug, .VRIL (live), Marteka Fair, RAH, THUMB5 at Green Room NYC on Sat 7 Nov, New York City. 3 artists: .VRIL, Marteka Fair and RAH (US). Techno. See the line-up on soundcheck.
+PAST presents: Flug, .VRIL (live), Marteka Fair, RAH, THUMB5 at Green Room NYC on Sat 7 Nov, New York City. 4 artists: .VRIL, Flug, Marteka Fair and RAH (US). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ PAST presents: Flug, .VRIL (live), Marteka Fair, RAH, THUMB5 at Green Room NYC o
 ## Line-up
 
 - .VRIL
+- Flug
 - Marteka Fair
 - RAH (US)
 

@@ -1,6 +1,6 @@
 # BAVR
 
-BAVR is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+BAVR is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 BAVR is a house and garage artist based in Belgium, with 57 gigs on soundcheck across Antwerp, Bristol, Brussels and Ghent and 3 more. Often billed alongside DC Noises, Arter and Bibi Seck. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ BAVR is a house and garage artist based in Belgium, with 57 gigs on soundcheck a
 
 DC Noises, Arter, Bibi Seck
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bavr/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bavr/)*

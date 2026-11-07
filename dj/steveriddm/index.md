@@ -1,6 +1,6 @@
 # Steve Riddm
 
-Steve Riddm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cece Bar Urbana, Rotterdam on Sat, 7 Nov 2026.
+Steve Riddm is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cece Bar Urbana, Rotterdam on Sat, 7 Nov 2026.
 
 Steve Riddm is a house and techno artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside ZOËZO, Cher Semain and HOTBOX COLLECTIVE. Next up: Cece Bar Urbana, Rotterdam on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Steve Riddm is a house and techno artist based in Netherlands, with 20 gigs on s
 
 ZOËZO, Cher Semain, HOTBOX COLLECTIVE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveriddm/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/steveriddm/)*

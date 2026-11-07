@@ -1,14 +1,13 @@
 # Sam Alfred
 
-Sam Alfred is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Sam Alfred is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Ghent, Ghent on Wed, 11 Nov 2026.
 
-Sam Alfred is a house and techno artist based in Egypt, with 160 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+Sam Alfred is a house and techno artist based in Egypt, with 160 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 53 more. Often billed alongside Club Angel, SAIDAH and X CLUB.. Next up: TBA - Ghent, Ghent on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Fri, 13 Nov 2026 | fabric | London |
 | Thu, 19 Nov 2026 | Sub Club | Glasgow |
@@ -23,6 +22,7 @@ Sam Alfred is a house and techno artist based in Egypt, with 160 gigs on soundch
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 6 Nov 2026
 - The Liquid Room, Edinburgh · Sat, 31 Oct 2026
 - GASHOUDER, Amsterdam · Sat, 24 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
@@ -30,10 +30,9 @@ Sam Alfred is a house and techno artist based in Egypt, with 160 gigs on soundch
 - Shelter Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - ZeyZey, Miami · Sun, 18 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
-- Substation, Seattle · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Club Angel, SAIDAH, X CLUB.
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samalfred/)*

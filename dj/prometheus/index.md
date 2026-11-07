@@ -1,6 +1,6 @@
 # Prometheus
 
-Prometheus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - RSVP on IG to get Location, Berlin on Sat, 7 Nov 2026.
+Prometheus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - RSVP on IG to get Location, Berlin on Sat, 7 Nov 2026.
 
 Prometheus is a techno and house artist based in Germany, with 7 gigs on soundcheck across Berlin, Morelos and South East. Often billed alongside Wiebe Roose, Act One and Alex Stein. Next up: TBA - RSVP on IG to get Location, Berlin on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Prometheus is a techno and house artist based in Germany, with 7 gigs on soundch
 
 Wiebe Roose, Act One, Alex Stein
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prometheus/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/prometheus/)*

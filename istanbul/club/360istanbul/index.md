@@ -1,18 +1,17 @@
 # 360Istanbul
 
-360Istanbul is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "360 Istanbul: Nocturne Nights" on Fri, 6 Nov 2026.
+360Istanbul is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "360 Istanbul / Queto &friends " on Sat, 14 Nov 2026.
 
-360Istanbul is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs, with line-ups including Alexandr Grecov, Anatoly and Queto. See dates, start times and who's playing. Istiklal Cad. Misir Apt. No:311 K:8 Beyoglu Istanbul 34330, Turkey.
+360Istanbul is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Queto. See dates, start times and who's playing. Istiklal Cad. Misir Apt. No:311 K:8 Beyoglu Istanbul 34330, Turkey.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | 360 Istanbul: Nocturne Nights | Alexandr Grecov, Anatoly |
 | Sat, 14 Nov 2026 | 360 Istanbul / Queto &friends  | Queto |
 
 ## Address
 
 Istiklal Cad. Misir Apt. No:311 K:8 Beyoglu Istanbul 34330, Turkey, Istanbul
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/360istanbul/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/360istanbul/)*

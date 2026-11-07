@@ -1,6 +1,6 @@
 # DJ FLUFFIE
 
-DJ FLUFFIE is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Fitzroy, Berlin on Fri, 27 Nov 2026.
+DJ FLUFFIE is a Hardcore and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fitzroy, Berlin on Fri, 27 Nov 2026.
 
 DJ FLUFFIE is a hardcore and trance artist based in United Kingdom, with 25 gigs on soundcheck across Berlin, Edinburgh and Glasgow. Often billed alongside DJ TinyHandz, Miss Cabbage and Babyjaii. Next up: Fitzroy, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ DJ FLUFFIE is a hardcore and trance artist based in United Kingdom, with 25 gigs
 
 DJ TinyHandz, Miss Cabbage, Babyjaii
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfluffie/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djfluffie/)*

@@ -1,6 +1,6 @@
 # Marcelo K2
 
-Marcelo K2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bar v Krymský, Prague on Sat, 7 Nov 2026.
+Marcelo K2 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bar v Krymský, Prague on Sat, 7 Nov 2026.
 
 Marcelo K2 is a house and techno artist based in Brazil, with 22 gigs on soundcheck across London and Prague. Often billed alongside Thomas Tesla, Cubik and Milano Parsley. Next up: Bar v Krymský, Prague on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Marcelo K2 is a house and techno artist based in Brazil, with 22 gigs on soundch
 
 Thomas Tesla, Cubik, Milano Parsley
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelok2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcelok2/)*

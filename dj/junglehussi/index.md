@@ -1,6 +1,6 @@
 # Junglehussi
 
-Junglehussi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - The Ceilidh Place Venue, Scotland on Sat, 14 Nov 2026.
+Junglehussi is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - The Ceilidh Place Venue, Scotland on Sat, 14 Nov 2026.
 
 Junglehussi is a house and club artist based in United Kingdom, with 62 gigs on soundcheck across Edinburgh, Glasgow, Manchester and Scotland. Often billed alongside Wheelman, Maveen and DIJA. Next up: TBA - The Ceilidh Place Venue, Scotland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Junglehussi is a house and club artist based in United Kingdom, with 62 gigs on 
 
 Wheelman, Maveen, DIJA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junglehussi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junglehussi/)*

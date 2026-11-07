@@ -1,20 +1,20 @@
 # João Melgueira
 
-João Melgueira is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Pink Wine Point, Lisbon on Fri, 6 Nov 2026.
+João Melgueira is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Pensão Amor, Lisbon on Tue, 17 Nov 2026.
 
-João Melgueira is a house and tech house artist based in Portugal, with 147 gigs on soundcheck across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: TBA - Pink Wine Point, Lisbon on Fri 6 Nov.
+João Melgueira is a house and tech house artist based in Portugal, with 147 gigs on soundcheck across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: TBA - Pensão Amor, Lisbon on Tue 17 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Pink Wine Point | Lisbon |
 | Tue, 17 Nov 2026 | TBA - Pensão Amor | Lisbon |
 | Fri, 20 Nov 2026 | Desterro | Lisbon |
 | Mon, 30 Nov 2026 | TBA - Pensão Amor | Lisbon |
 
 ## Recently played
 
+- TBA - Pink Wine Point, Lisbon · Fri, 6 Nov 2026
 - TBA - Pensão Amor, Lisbon · Mon, 2 Nov 2026
 - TBA - Pensão Amor, Lisbon · Wed, 28 Oct 2026
 - TBA - Pensão Amor, Lisbon · Fri, 23 Oct 2026
@@ -22,10 +22,9 @@ João Melgueira is a house and tech house artist based in Portugal, with 147 gig
 - TBA - Pensão Amor, Lisbon · Fri, 16 Oct 2026
 - o Bom, o Mau e o Vilão, Lisbon · Sat, 10 Oct 2026
 - TBA - Pensão Amor, Lisbon · Mon, 5 Oct 2026
-- o Bom, o Mau e o Vilão, Lisbon · Fri, 25 Sept 2026
 
 ## Shares bills with
 
 Vitor Domingos, Paixão, FURAVIA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joãomelgueira/)*

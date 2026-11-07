@@ -1,6 +1,6 @@
 # Gato
 
-Gato is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Malasaña, Madrid on Thu, 12 Nov 2026.
+Gato is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Malasaña, Madrid on Thu, 12 Nov 2026.
 
 Gato is a techno and electronica artist based in Colombia, with 58 gigs on soundcheck across Barcelona, Hamburg, Madrid and New York City and 1 more. Often billed alongside Gustavo Lopez, Le Nomad and KRYTE. Next up: Club Malasaña, Madrid on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Gato is a techno and electronica artist based in Colombia, with 58 gigs on sound
 
 Gustavo Lopez, Le Nomad, KRYTE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gato/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gato/)*

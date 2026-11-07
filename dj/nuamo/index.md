@@ -1,6 +1,6 @@
 # NuAmo
 
-NuAmo is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Prisma, Berlin on Sun, 8 Nov 2026.
+NuAmo is a Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Prisma, Berlin on Sun, 8 Nov 2026.
 
 NuAmo is a disco and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Pilar Jordan, L.OST and Tornadotoni. Next up: Prisma, Berlin on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ NuAmo is a disco and techno artist based in Germany, with 9 gigs on soundcheck a
 
 Pilar Jordan, L.OST, Tornadotoni
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuamo/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuamo/)*

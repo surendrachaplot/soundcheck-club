@@ -1,6 +1,6 @@
 # Wolf Auris
 
-Wolf Auris is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
+Wolf Auris is a Tech House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Amsterdam on Fri, 9 Apr 2027.
 
 Wolf Auris is a tech house and garage artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam and London. Often billed alongside Solartrak, Huck Finn and Shady Lady. Next up: TBA, Amsterdam on Fri 9 Apr.
 
@@ -25,4 +25,4 @@ Wolf Auris is a tech house and garage artist based in United Kingdom, with 16 gi
 
 Solartrak, Huck Finn, Shady Lady
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfauris/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wolfauris/)*

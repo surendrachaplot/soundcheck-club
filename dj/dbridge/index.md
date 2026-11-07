@@ -1,6 +1,6 @@
 # dBridge
 
-dBridge is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+dBridge is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
 dBridge is a drum & bass and bass artist based in United Kingdom, with 98 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 36 more. Often billed alongside DjRUM, SP:MC and Kia (AU). Next up: TBA, Victoria on Fri 6 Nov.
 
@@ -16,6 +16,7 @@ dBridge is a drum & bass and bass artist based in United Kingdom, with 98 gigs o
 
 ## Recently played
 
+- TBA, Victoria · Fri, 6 Nov 2026
 - ILLUM, Shanghai · Sat, 10 Oct 2026
 - ILLUM, Shanghai · Sat, 10 Oct 2026
 - RASA, Singapore · Sat, 3 Oct 2026
@@ -23,10 +24,9 @@ dBridge is a drum & bass and bass artist based in United Kingdom, with 98 gigs o
 - The Glove That Fits, London · Sat, 22 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 21 Aug 2026
 - The White Hotel, Manchester · Fri, 24 Jul 2026
-- Garage Noord, Amsterdam · Sat, 18 Jul 2026
 
 ## Shares bills with
 
 DjRUM, SP:MC, Kia (AU)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbridge/)*

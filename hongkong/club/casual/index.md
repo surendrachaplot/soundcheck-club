@@ -1,6 +1,6 @@
 # Casual
 
-Casual is a music venue in Hong Kong with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "TRANSMISSION: Chucheewa (Thailand)" on Sat, 7 Nov 2026.
+Casual is a music venue in Hong Kong with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "TRANSMISSION: Chucheewa (Thailand)" on Sat, 7 Nov 2026.
 
 Casual is a music venue in Hong Kong listed on soundcheck. 9 upcoming gigs, with line-ups including CASAMUSICA, Chucheewa, Emel and Mamie's and 2 more. See dates, start times and who's playing. 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island.
 
@@ -22,4 +22,4 @@ Casual is a music venue in Hong Kong listed on soundcheck. 9 upcoming gigs, with
 
 3rd Floor, 1 Lockhart Road, Wan Chai, Hong Kong Island, Hong Kong
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/casual/)*

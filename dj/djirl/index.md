@@ -1,6 +1,6 @@
 # DJirl
 
-DJirl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
+DJirl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
 
 DJirl is a techno and house artist based in United States of America, with 7 gigs on soundcheck across Detroit. Often billed alongside Tylr, Wax Assassin and autogyro. Next up: Menjo's, Detroit on Sat 28 Nov.
 
@@ -23,4 +23,4 @@ DJirl is a techno and house artist based in United States of America, with 7 gig
 
 Tylr, Wax Assassin, autogyro
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djirl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djirl/)*

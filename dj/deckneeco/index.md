@@ -1,6 +1,6 @@
 # Deckneeco
 
-Deckneeco is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Santeria Toscana 31, Milan on Sat, 7 Nov 2026.
+Deckneeco is a Electro and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Santeria Toscana 31, Milan on Sat, 7 Nov 2026.
 
 Deckneeco is an electro and italo disco artist based in Italy, with 14 gigs on soundcheck across Milan. Often billed alongside Hi/Fi, Pietro Fantin and Hutchee. Next up: Santeria Toscana 31, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Deckneeco is an electro and italo disco artist based in Italy, with 14 gigs on s
 
 Hi/Fi, Pietro Fantin, Hutchee
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deckneeco/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deckneeco/)*

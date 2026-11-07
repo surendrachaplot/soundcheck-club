@@ -1,6 +1,6 @@
 # Luca Fernandez
 
-Luca Fernandez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Versalles 64, Mexico City on Sat, 7 Nov 2026.
+Luca Fernandez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Versalles 64, Mexico City on Sat, 7 Nov 2026.
 
 Luca Fernandez is a techno and house artist based in Canada, with 17 gigs on soundcheck across Mexico City and Vancouver. Often billed alongside HighCUE, Jay Di and Ownside. Next up: Versalles 64, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Luca Fernandez is a techno and house artist based in Canada, with 17 gigs on sou
 
 HighCUE, Jay Di, Ownside
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucafernandez/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucafernandez/)*

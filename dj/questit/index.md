@@ -1,6 +1,6 @@
 # Quest (IT)
 
-Quest (IT) is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+Quest (IT) is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
 
 Quest (IT) is a house and techno artist based in Italy, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 63 more. Often billed alongside Christian AB, Francesco Del Garda and Adiel. Next up: FVTVR, Paris on Fri 6 Nov.
 
@@ -18,6 +18,7 @@ Quest (IT) is a house and techno artist based in Italy, with 191 gigs on soundch
 
 ## Recently played
 
+- FVTVR, Paris · Fri, 6 Nov 2026
 - Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
 - WestWeelde, Amsterdam · Fri, 23 Oct 2026
 - Parc d’Atraccions del Tibidabo, Barcelona · Fri, 9 Oct 2026
@@ -25,10 +26,9 @@ Quest (IT) is a house and techno artist based in Italy, with 191 gigs on soundch
 - Q35 WAREHOUSE, Turin · Sat, 26 Sept 2026
 - RSO.BERLIN, Berlin · Sat, 12 Sept 2026
 - H0L0, New York City · Thu, 10 Sept 2026
-- Union Park, Chicago · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Christian AB, Francesco Del Garda, Adiel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/questit/)*

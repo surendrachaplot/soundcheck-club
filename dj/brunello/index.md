@@ -1,6 +1,6 @@
 # Brunello
 
-Brunello is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Brunello is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Brunello is a house and tech house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Austin, Chicago and Guadalajara and 8 more. Often billed alongside VTSS, Brutalismus 3000 and Dennis Cruz. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -15,6 +15,7 @@ Brunello is a house and tech house artist based in United States of America, wit
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Ace*Mission, Los Angeles · Sat, 31 Oct 2026
 - Ijland, Amsterdam · Mon, 26 Oct 2026
 - Taets Art & Event Park, Amsterdam · Sun, 25 Oct 2026
@@ -22,10 +23,9 @@ Brunello is a house and tech house artist based in United States of America, wit
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
 - Knockdown Center, New York City · Sun, 20 Sept 2026
-- TBA, Toronto · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 VTSS, Brutalismus 3000, Dennis Cruz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brunello/)*

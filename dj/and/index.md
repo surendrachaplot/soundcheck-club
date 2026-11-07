@@ -1,6 +1,6 @@
 # AnD
 
-AnD is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Area City, Venice on Fri, 13 Nov 2026.
+AnD is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Area City, Venice on Fri, 13 Nov 2026.
 
 AnD is a techno and industrial artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 53 more. Often billed alongside CLTX, LESSSS and Dexphase. Next up: Area City, Venice on Fri 13 Nov.
 
@@ -9,6 +9,7 @@ AnD is a techno and industrial artist based in United Kingdom, with 158 gigs on 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Area City | Venice |
+| Fri, 5 Feb 2027 | TBA | Berlin |
 
 ## Recently played
 
@@ -16,13 +17,13 @@ AnD is a techno and industrial artist based in United Kingdom, with 158 gigs on 
 - TBA - Eivissa Event Ship - Danzigerkade 55, Amsterdam · Fri, 23 Oct 2026
 - Cinecittà World, Rome · Sat, 17 Oct 2026
 - Kømplex Lisbon, Lisbon · Fri, 16 Oct 2026
-- ÆDEN, Berlin · Fri, 7 Aug 2026
 - DV8 Bar & Venue, Dublin · Fri, 10 Jul 2026
 - AMP Studios, London · Fri, 26 Jun 2026
 - Drugstore Beograd, Belgrade · Sat, 13 Jun 2026
+- E-Wine, Marseille · Sat, 30 May 2026
 
 ## Shares bills with
 
 CLTX, LESSSS, Dexphase
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/and/)*

@@ -1,6 +1,6 @@
 # Jenia Tarsol
 
-Jenia Tarsol is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cielo Farms Malibu, Los Angeles on Sat, 14 Nov 2026.
+Jenia Tarsol is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cielo Farms Malibu, Los Angeles on Sat, 14 Nov 2026.
 
 Jenia Tarsol is a house and deep house artist based in Israel, with 40 gigs on soundcheck across Amsterdam, Athens, Berlin and Guadalajara and 15 more. Often billed alongside Echonomist, Chaim and JAMIIE. Next up: Cielo Farms Malibu, Los Angeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jenia Tarsol is a house and deep house artist based in Israel, with 40 gigs on s
 
 Echonomist, Chaim, JAMIIE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeniatarsol-es/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeniatarsol-es/)*

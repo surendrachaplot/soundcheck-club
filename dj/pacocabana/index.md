@@ -1,18 +1,18 @@
 # Paco Cabana
 
-Paco Cabana is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri, 6 Nov 2026.
+Paco Cabana is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Edifício Martinelli, Sao Paulo on Sat, 7 Nov 2026.
 
-Paco Cabana is a house and disco artist based in Brazil, with 53 gigs on soundcheck across Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside Martha Pinel, Pino Henrique Pedra and Zasou. Next up: Mauacba Skate Coffee & Skate Shop, Rio de Janeiro on Fri 6 Nov.
+Paco Cabana is a house and disco artist based in Brazil, with 53 gigs on soundcheck across Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside Martha Pinel, Pino Henrique Pedra and Zasou. Next up: Edifício Martinelli, Sao Paulo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Mauacba Skate Coffee & Skate Shop | Rio de Janeiro |
 | Sat, 7 Nov 2026 | Edifício Martinelli | Sao Paulo |
 
 ## Recently played
 
+- Mauacba Skate Coffee & Skate Shop, Rio de Janeiro · Fri, 6 Nov 2026
 - Frisson, Rio de Janeiro · Wed, 21 Oct 2026
 - Fatchia, Rio de Janeiro · Sun, 18 Oct 2026
 - Frisson, Rio de Janeiro · Wed, 7 Oct 2026
@@ -20,10 +20,9 @@ Paco Cabana is a house and disco artist based in Brazil, with 53 gigs on soundch
 - TBA - Marina da Glória, Rio de Janeiro · Mon, 7 Sept 2026
 - TBA - Rua do Senado, 1 - Centro, Rio de Janeiro - RJ, 20031-180, Brasil, Rio de Janeiro · Sat, 5 Sept 2026
 - TBA - Rua do Senado, 1 - Centro, Rio de Janeiro, Rio de Janeiro · Sat, 29 Aug 2026
-- TBA, Lisbon · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Martha Pinel, Pino Henrique Pedra, Zasou
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacocabana/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacocabana/)*

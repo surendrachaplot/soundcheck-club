@@ -1,14 +1,13 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "HOUSE ON THE HARBOR" on Fri, 6 Nov 2026.
+Podlasie Club is a music venue in Chicago with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Research & Development" on Sat, 7 Nov 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including Av0n, Boo Williams, Buzzi and CTRLZORA and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 9 upcoming gigs, with line-ups including Av0n, Boo Williams, Buzzi and CTRLZORA and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | HOUSE ON THE HARBOR | Duke Shin |
 | Sat, 7 Nov 2026 | Research & Development | Buzzi, Duck Trash, Zona Cinco |
 | Thu, 12 Nov 2026 | Market Research | DJ Mochi |
 | Fri, 13 Nov 2026 | The Cowrie | CTRLZORA, Whodat |
@@ -23,4 +22,4 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs
 
 2918 N Central Park Ave, Avondale, Chicago, IL, 60618, Chicago
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/podlasie-club/)*

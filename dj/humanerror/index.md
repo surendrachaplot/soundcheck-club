@@ -1,6 +1,6 @@
 # HUMAN ERROR
 
-HUMAN ERROR is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
+HUMAN ERROR is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Berlin on Fri, 13 Nov 2026.
 
 HUMAN ERROR is a techno and trance artist based in Germany, with 64 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 26 more. Often billed alongside WILDERÍCH, DVAID and zwilling.. Next up: TBA, Berlin on Fri 13 Nov.
 
@@ -31,4 +31,4 @@ HUMAN ERROR is a techno and trance artist based in Germany, with 64 gigs on soun
 
 WILDERÍCH, DVAID, zwilling.
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanerror/)*

@@ -1,6 +1,6 @@
 # SOFI TUKKER
 
-SOFI TUKKER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
+SOFI TUKKER is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
 
 SOFI TUKKER is a house and tech house artist based in United States of America, with 41 gigs on soundcheck across Arkansas, Austin, Buenos Aires and Chicago and 15 more. Often billed alongside Eli Brown, FISHER and Anabel Englund. Next up: The Momentary, Arkansas on Fri 6 Nov.
 
@@ -12,6 +12,7 @@ SOFI TUKKER is a house and tech house artist based in United States of America, 
 
 ## Recently played
 
+- The Momentary, Arkansas · Fri, 6 Nov 2026
 - Pacha New York, New York City · Fri, 2 Oct 2026
 - The Huntington Bank Pavilion at Northerly Island, Chicago · Fri, 25 Sept 2026
 - Deseo BS AS, Buenos Aires · Fri, 28 Aug 2026
@@ -19,10 +20,9 @@ SOFI TUKKER is a house and tech house artist based in United States of America, 
 - Ushuaïa Ibiza, Ibiza · Thu, 23 Jul 2026
 - Fair Park, Dallas/Fort Worth · Fri, 10 Apr 2026
 - Igloofest, Montreal · Fri, 16 Jan 2026
-- Ramova Theatre, Chicago · Sat, 30 Aug 2025
 
 ## Shares bills with
 
 Eli Brown, FISHER, Anabel Englund
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofitukker/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sofitukker/)*

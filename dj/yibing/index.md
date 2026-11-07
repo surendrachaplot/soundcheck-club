@@ -1,6 +1,6 @@
 # Yibing
 
-Yibing is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nowadays, New York City on Sat, 5 Dec 2026.
+Yibing is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nowadays, New York City on Sat, 5 Dec 2026.
 
 Yibing is a techno and house artist based in United States of America, with 60 gigs on soundcheck across Berlin, Miami, Montreal and New York City. Often billed alongside Alien D, Andrew Devlin and No Sir. Next up: Nowadays, New York City on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Yibing is a techno and house artist based in United States of America, with 60 g
 
 Alien D, Andrew Devlin, No Sir
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yibing/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yibing/)*

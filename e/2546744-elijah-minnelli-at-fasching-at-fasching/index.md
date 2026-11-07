@@ -1,6 +1,6 @@
 # Elijah Minnelli at Fasching at Fasching
 
-Elijah Minnelli at Fasching on Fri 5 Feb, Stockholm. 1 artist: Elijah Minnelli. See the line-up on soundcheck.
+Elijah Minnelli at Fasching on Fri 5 Feb, Stockholm. 1 artist: Elijah Minnelli. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

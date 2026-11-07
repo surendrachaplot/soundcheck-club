@@ -1,6 +1,6 @@
 # shanty mane
 
-shanty mane is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 303 Ten Eyck St., New York City on Fri, 6 Nov 2026.
+shanty mane is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at 303 Ten Eyck St., New York City on Fri, 6 Nov 2026.
 
 shanty mane is a house and tech house artist based in United States of America, with 46 gigs on soundcheck across Amsterdam, Detroit, Los Angeles and Mexico City and 5 more. Often billed alongside EREZ.JPG, Willy Gorgon and Jeny Michelle. Next up: 303 Ten Eyck St., New York City on Fri 6 Nov.
 
@@ -16,6 +16,7 @@ shanty mane is a house and tech house artist based in United States of America, 
 
 ## Recently played
 
+- 303 Ten Eyck St., New York City · Fri, 6 Nov 2026
 - feedbk, New York City · Thu, 5 Nov 2026
 - Basement Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - Green Room NYC, New-york-city · Sat, 17 Oct 2026
@@ -23,10 +24,9 @@ shanty mane is a house and tech house artist based in United States of America, 
 - Jupiter Disco, New York City · Sat, 26 Sept 2026
 - Outer Heaven, New York City · Fri, 25 Sept 2026
 - Rhythm, Toronto · Sat, 19 Sept 2026
-- Honey's, New York City · Sun, 6 Sept 2026
 
 ## Shares bills with
 
 EREZ.JPG, Willy Gorgon, Jeny Michelle
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shantymane/)*

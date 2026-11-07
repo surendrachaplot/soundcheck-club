@@ -1,6 +1,6 @@
 # Bellas
 
-Bellas is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Crust Basement, Athens on Sat, 7 Nov 2026.
+Bellas is a Italo Disco and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Crust Basement, Athens on Sat, 7 Nov 2026.
 
 Bellas is an italo disco and electro artist based in Greece, with 13 gigs on soundcheck across Athens. Often billed alongside Baby Jones, DeCoup and Sunshine Pedro. Next up: Crust Basement, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Bellas is an italo disco and electro artist based in Greece, with 13 gigs on sou
 
 Baby Jones, DeCoup, Sunshine Pedro
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellas/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bellas/)*

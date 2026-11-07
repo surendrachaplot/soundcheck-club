@@ -1,6 +1,6 @@
 # BASEMENT
 
-BASEMENT is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Aurora Halal / Altinbas / Roza Terenzi / Alex Kassian / Matas" on Fri, 6 Nov 2026.
+BASEMENT is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Aurora Halal / Altinbas / Roza Terenzi / Alex Kassian / Matas" on Fri, 6 Nov 2026.
 
 BASEMENT is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Justine Perry, LYDO, Alex Kassian and Altinbas and 2 more. See dates, start times and who's playing. 52-19 Flushing Ave., Maspeth, NY 11378 USA.
 
@@ -19,4 +19,4 @@ BASEMENT is a music venue in New York City listed on soundcheck. 6 upcoming gigs
 
 52-19 Flushing Ave., Maspeth, NY 11378 USA, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/basement/)*

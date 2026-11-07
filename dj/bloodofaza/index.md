@@ -1,6 +1,6 @@
 # Blood of Aza
 
-Blood of Aza is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 13 Nov 2026.
+Blood of Aza is a Experimental and Club artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Circolo Magnolia, Milan on Fri, 13 Nov 2026.
 
 Blood of Aza is an experimental and club artist based in United Kingdom, with 90 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Belgrade and 25 more. Often billed alongside Mvcoko, KAVARI and SISSY MISFIT. Next up: Circolo Magnolia, Milan on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Blood of Aza is an experimental and club artist based in United Kingdom, with 90
 
 Mvcoko, KAVARI, SISSY MISFIT
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bloodofaza/)*

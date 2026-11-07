@@ -1,6 +1,6 @@
 # BadKiss
 
-BadKiss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Manila, Philippines on Sat, 14 Nov 2026.
+BadKiss is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Manila, Philippines on Sat, 14 Nov 2026.
 
 BadKiss is a house and techno artist based in Philippines, with 12 gigs on soundcheck across Hanoi, Hong Kong, Manila and Philippines and 1 more. Often billed alongside Gubwubs, T33G33 and 1908. Next up: TBA - Manila, Philippines on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ BadKiss is a house and techno artist based in Philippines, with 12 gigs on sound
 
 Gubwubs, T33G33, 1908
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badkiss/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/badkiss/)*

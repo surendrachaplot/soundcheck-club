@@ -1,6 +1,6 @@
 # parashoot
 
-parashoot is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuchs2, Prague on Sat, 21 Nov 2026.
+parashoot is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fuchs2, Prague on Sat, 21 Nov 2026.
 
 parashoot is a garage and house artist based in Denmark, with 25 gigs on soundcheck across Copenhagen, London and Prague. Often billed alongside Mary Harp, ELOQ and DAISY. Next up: Fuchs2, Prague on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ parashoot is a garage and house artist based in Denmark, with 25 gigs on soundch
 
 Mary Harp, ELOQ, DAISY
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parashoot/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parashoot/)*

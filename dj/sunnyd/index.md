@@ -1,6 +1,6 @@
 # Sunny D
 
-Sunny D is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 19 Nov 2026.
+Sunny D is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Thu, 19 Nov 2026.
 
 Sunny D is a house and deep house artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Edinburgh, London and Manchester and 1 more. Often billed alongside Buddy., Mason Wild and BABA (SA). Next up: Do Not Sit On The Furniture, Miami on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ Sunny D is a house and deep house artist based in United Kingdom, with 35 gigs o
 
 Buddy. (2), Mason Wild, BABA (SA)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyd/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunnyd/)*

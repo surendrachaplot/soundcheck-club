@@ -1,6 +1,6 @@
 # samJ
 
-samJ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 13 Nov 2026.
+samJ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 13 Nov 2026.
 
 samJ is a techno and industrial artist based in Italy, with 34 gigs on soundcheck across Berlin, Milan, Tokyo and Toronto and 1 more. Often billed alongside ANKKH, Francesco Basari and HEMPTOTE. Next up: Z Maruyama, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ samJ is a techno and industrial artist based in Italy, with 34 gigs on soundchec
 
 ANKKH, Francesco Basari, HEMPTOTE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samj/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samj/)*

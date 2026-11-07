@@ -1,8 +1,8 @@
 # Damian Lazarus
 
-Damian Lazarus is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Damian Lazarus is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Damian Lazarus is a house and techno artist based in United Kingdom, with 227 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Black Coffee, Paul Reynolds and Airrica. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Damian Lazarus is a house and techno artist based in United Kingdom, with 228 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Black Coffee, Paul Reynolds and Airrica. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Damian Lazarus is a house and techno artist based in United Kingdom, with 227 gi
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 13 Nov 2026 | The Rady Shell at Jacobs Park | San Diego |
+| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 21 Nov 2026 | Savaya Bali | Bali |
 | Wed, 25 Nov 2026 | Zumana Bali | Bali |
 | Sat, 28 Nov 2026 | Kater | Berlin |
@@ -31,4 +32,4 @@ Damian Lazarus is a house and techno artist based in United Kingdom, with 227 gi
 
 Black Coffee, Paul Reynolds, Airrica
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/damianlazarus/)*

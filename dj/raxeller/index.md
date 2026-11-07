@@ -1,14 +1,13 @@
 # Raxeller
 
-Raxeller is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lehmann Club, Stuttgart on Fri, 6 Nov 2026.
+Raxeller is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Ivy, Sydney on Sat, 14 Nov 2026.
 
-Raxeller is a techno and industrial artist based in Netherlands, with 131 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside 6EJOU, KARAH and CARV. Next up: Lehmann Club, Stuttgart on Fri 6 Nov.
+Raxeller is a techno and industrial artist based in Netherlands, with 131 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 41 more. Often billed alongside 6EJOU, KARAH and CARV. Next up: The Ivy, Sydney on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Lehmann Club | Stuttgart |
 | Sat, 14 Nov 2026 | The Ivy | Sydney |
 | Sat, 21 Nov 2026 | You Club | North |
 | Sat, 28 Nov 2026 | Hangar 18 | Netherlands |
@@ -19,6 +18,7 @@ Raxeller is a techno and industrial artist based in Netherlands, with 131 gigs o
 
 ## Recently played
 
+- Lehmann Club, Stuttgart · Fri, 6 Nov 2026
 - La Cubierta de Leganés, Madrid · Fri, 30 Oct 2026
 - Supermarket, Zurich · Fri, 30 Oct 2026
 - Afas Live, Amsterdam · Sun, 25 Oct 2026
@@ -26,10 +26,9 @@ Raxeller is a techno and industrial artist based in Netherlands, with 131 gigs o
 - Uebel & Gefährlich, Hamburg · Sat, 19 Sept 2026
 - Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
 - Strantwerpen, Antwerp · Sat, 5 Sept 2026
-- Strantwerpen, Antwerp · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 6EJOU, KARAH, CARV
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raxeller/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raxeller/)*

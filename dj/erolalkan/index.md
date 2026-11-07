@@ -1,6 +1,6 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 7 Nov 2026.
+Erol Alkan is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Berkeley Suite, Glasgow on Sat, 7 Nov 2026.
 
 Erol Alkan is a house and techno artist based in United Kingdom, with 143 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 40 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: The Berkeley Suite, Glasgow on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Erol Alkan is a house and techno artist based in United Kingdom, with 143 gigs o
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

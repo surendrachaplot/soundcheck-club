@@ -1,14 +1,13 @@
 # Zoom Club
 
-Zoom Club is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Cocoon Frankfurt ZOOM" on Fri, 6 Nov 2026.
+Zoom Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is " NTO live in concert at ZOOM Frankfurt" on Sat, 7 Nov 2026.
 
-Zoom Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including Cara Elizabeth, Fedele, Marcel Dettmann and Maurizio Schmitz and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
+Zoom Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Cara Elizabeth, NTO, O.B.I. (DE) and Ornella and 2 more. See dates, start times and who's playing. Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Cocoon Frankfurt ZOOM | Fedele, Marcel Dettmann, Maurizio Schmitz, Ogazón, Raxon, Sublee |
 | Sat, 7 Nov 2026 |  NTO live in concert at ZOOM Frankfurt | NTO, Prismode, Solvane |
 | Sat, 7 Nov 2026 | King Kong Kicks • Indie Pop & Hypes • Zoom Frankfurt |  |
 | Sat, 7 Nov 2026 | Swimming Paul | Swimming Paul |
@@ -21,4 +20,4 @@ Zoom Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, w
 
 Carl-Benz-Straße 21, 60386 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/zoom-club/)*

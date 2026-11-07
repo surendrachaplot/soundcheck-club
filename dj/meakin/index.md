@@ -1,6 +1,6 @@
 # MEAKIN
 
-MEAKIN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Basing House, London on Sat, 21 Nov 2026.
+MEAKIN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Basing House, London on Sat, 21 Nov 2026.
 
 MEAKIN is a techno and trance artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam and London. Often billed alongside MARIUS SEBASTIAN, MAXYM and I-DA. Next up: Basing House, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ MEAKIN is a techno and trance artist based in United Kingdom, with 25 gigs on so
 
 MARIUS SEBASTIAN, MAXYM, I-DA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meakin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meakin/)*

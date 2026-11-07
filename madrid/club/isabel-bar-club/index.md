@@ -1,6 +1,6 @@
 # Isabel Bar & Club
 
-Isabel Bar & Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Beatroom Sessions" on Sat, 7 Nov 2026.
+Isabel Bar & Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Beatroom Sessions" on Sat, 7 Nov 2026.
 
 Isabel Bar & Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig, with line-ups including JUAN BELDARREIN, Sabrina and Savanna. See dates, start times and who's playing. C. de Caños Viejos, 3, Centro, 28005 Madrid.
 
@@ -14,4 +14,4 @@ Isabel Bar & Club is a music venue in Madrid listed on soundcheck. 1 upcoming gi
 
 C. de Caños Viejos, 3, Centro, 28005 Madrid, Madrid
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/isabel-bar-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/isabel-bar-club/)*

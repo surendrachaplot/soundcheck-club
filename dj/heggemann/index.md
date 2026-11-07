@@ -1,14 +1,13 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Fri, 6 Nov 2026.
+Mika Heggemann is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Kesselhaus Augsburg, Augsburg on Fri, 20 Nov 2026.
 
-Mika Heggemann is a techno and trance artist based in Germany, with 194 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 47 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: INPUT High Fidelity Dance Club, Barcelona on Fri 6 Nov.
+Mika Heggemann is a techno and trance artist based in Germany, with 194 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 47 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Kesselhaus Augsburg, Augsburg on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 20 Nov 2026 | Kesselhaus Augsburg | Augsburg |
 | Sat, 21 Nov 2026 | Graf Karl | Kassel |
 | Fri, 27 Nov 2026 | Mia Mao | Paris |
@@ -18,6 +17,7 @@ Mika Heggemann is a techno and trance artist based in Germany, with 194 gigs on 
 
 ## Recently played
 
+- INPUT High Fidelity Dance Club, Barcelona · Fri, 6 Nov 2026
 - Werksviertel Mitte, Munich · Sat, 31 Oct 2026
 - TBA - Fohrstraat, 9000 Gent, België, Belgium · Fri, 30 Oct 2026
 - Club Vaag, Antwerp · Fri, 30 Oct 2026
@@ -25,10 +25,9 @@ Mika Heggemann is a techno and trance artist based in Germany, with 194 gigs on 
 - H7 Warehouse, Amsterdam · Fri, 23 Oct 2026
 - Hangaren, Copenhagen · Sat, 17 Oct 2026
 - Ääniwalli, Helsinki · Fri, 16 Oct 2026
-- Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Cleopard2000, Trancemaster Krause, davyboi
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/heggemann/)*

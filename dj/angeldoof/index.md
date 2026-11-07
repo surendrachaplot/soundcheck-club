@@ -1,6 +1,6 @@
 # ANGELDOOF
 
-ANGELDOOF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
+ANGELDOOF is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nico's Bar, Glasgow on Fri, 13 Nov 2026.
 
 ANGELDOOF is a techno and trance artist based in United Kingdom, with 7 gigs on soundcheck across Glasgow. Often billed alongside MMS, COURTEZ and FIORENZA. Next up: Nico's Bar, Glasgow on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ ANGELDOOF is a techno and trance artist based in United Kingdom, with 7 gigs on 
 
 MMS (2), COURTEZ, FIORENZA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angeldoof/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angeldoof/)*

@@ -1,15 +1,13 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 19 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Bounce SF: Ueberrest, Flash Gea, & dj try" on Fri, 6 Nov 2026.
+Public Works is a music venue in San Francisco/Oakland with 17 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DR. GABBA, Narciss, Dazegxd presented by Public Works, STRAPT & Flux Aeterna" on Sat, 7 Nov 2026.
 
-Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 upcoming gigs, with line-ups including 40split, BabiDoll, Bandēs and Bianca Oblivion and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 17 upcoming gigs, with line-ups including 40split, BabiDoll, Bandēs and Bianca Oblivion and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Bounce SF: Ueberrest, Flash Gea, & dj try | DJ Try (US), Flash Gea, Lil Laurie, Ueberrest |
-| Fri, 6 Nov 2026 | fieldtest: DJ Koolt, Naone | DJ Koolt, Milli Meng, Naone |
 | Sat, 7 Nov 2026 | DR. GABBA, Narciss, Dazegxd presented by Public Works, STRAPT & Flux Aeterna | 40split, Buck Wilson, DR. GABBA, Dazegxd, Narciss, Quiet Pack, Taraneh |
 | Fri, 13 Nov 2026 | QUEEN OUT FINALE PT 1: Bianca Oblivion, BabiDoll | BabiDoll, Bianca Oblivion, MAMA SAN, Queermom |
 | Sat, 14 Nov 2026 | QTS: San Francisco (Farius - Gabriel & Dresden - Bandes) | Bandēs, Farius, Gabriel & Dresden |
@@ -18,9 +16,11 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 
 | Fri, 20 Nov 2026 | Jonny Wild - Who Let The Zoo Out |  |
 | Sat, 21 Nov 2026 | DEATHPACT: From Darkness, Comes Light: Eclipsed presented by Public Works & DJ Dials |  |
 | Fri, 27 Nov 2026 | Skream presented by Goldenvoice | Skream |
+| Fri, 4 Dec 2026 | Guy J presented by Public Works, Safra & Konnekted | Guy J |
+| Sat, 5 Dec 2026 | Desert Dwellers presented by Public Works & Bicycle Day |  |
 
 ## Address
 
 161 Erie Street, San Francisco, CA 94103, United States, San Francisco/Oakland
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/public-works/)*

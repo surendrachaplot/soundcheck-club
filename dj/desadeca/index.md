@@ -1,6 +1,6 @@
 # Desa Deca
 
-Desa Deca is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 27 Nov 2026.
+Desa Deca is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 27 Nov 2026.
 
 Desa Deca is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Chicago, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside nat the f*kn rat, Azyr and CRUSH3d. Next up: TBA - DTLA, Los Angeles on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Desa Deca is a techno and house artist based in United States of America, with 1
 
 nat the f*kn rat, Azyr, CRUSH3d
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desadeca/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desadeca/)*

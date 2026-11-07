@@ -1,18 +1,18 @@
 # Krai
 
-Krai is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Garage Noord, Amsterdam on Fri, 6 Nov 2026.
+Krai is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at De Sering, Amsterdam on Sat, 21 Nov 2026.
 
-Krai is an experimental and ambient artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Berlin and Copenhagen. Often billed alongside Celeb, EVER and Macrosoft. Next up: Garage Noord, Amsterdam on Fri 6 Nov.
+Krai is an experimental and ambient artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam, Berlin and Copenhagen. Often billed alongside Celeb, EVER and Macrosoft. Next up: De Sering, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Garage Noord | Amsterdam |
 | Sat, 21 Nov 2026 | De Sering | Amsterdam |
 
 ## Recently played
 
+- Garage Noord, Amsterdam · Fri, 6 Nov 2026
 - Garage Noord, Amsterdam · Sat, 10 Oct 2026
 - Skatecafe, Amsterdam · Sat, 25 Jul 2026
 - Ny Bastion, Copenhagen · Sat, 18 Jul 2026
@@ -20,10 +20,9 @@ Krai is an experimental and ambient artist based in Netherlands, with 14 gigs on
 - Leidsegracht 108, Amsterdam · Fri, 19 Jun 2026
 - OT301, Amsterdam · Fri, 1 May 2026
 - Garage Noord, Amsterdam · Fri, 27 Mar 2026
-- ISOamsterdam, Amsterdam · Sat, 14 Feb 2026
 
 ## Shares bills with
 
 Celeb, EVER, Macrosoft
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krai/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krai/)*

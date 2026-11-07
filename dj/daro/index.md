@@ -1,6 +1,6 @@
 # Daro
 
-Daro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Luzztro, Warsaw on Sat, 7 Nov 2026.
+Daro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Luzztro, Warsaw on Sat, 7 Nov 2026.
 
 Daro is a techno and house artist based in Poland, with 14 gigs on soundcheck across Frankfurt, Münster and Warsaw. Often billed alongside Mabu, HANICZ and KoZa. Next up: Luzztro, Warsaw on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Daro is a techno and house artist based in Poland, with 14 gigs on soundcheck ac
 
 Mabu, HANICZ, KoZa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daro/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daro/)*

@@ -1,6 +1,6 @@
 # Mystic Creatures at Kater
 
-Mystic Creatures at Kater on Fri 20 Nov, Berlin. 12 artists: Aio, Bonnie Spacey, Elias Goldmund and Horst Haller and 8 more. Techno and Tech House. See the line-up on soundcheck.
+Mystic Creatures at Kater on Fri 20 Nov, Berlin. 13 artists: Aio, Bonnie Spacey, Daya Pruna and Elias Goldmund and 9 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Mystic Creatures at Kater on Fri 20 Nov, Berlin. 12 artists: Aio, Bonnie Spacey,
 
 - Aio
 - Bonnie Spacey
+- Daya Pruna
 - Elias Goldmund
 - Horst Haller
 - HOVR

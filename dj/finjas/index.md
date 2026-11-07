@@ -1,6 +1,6 @@
 # Finjas
 
-Finjas is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
+Finjas is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Sensorium, Berlin on Fri, 20 Nov 2026.
 
 Finjas is a tech house and techno artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Jvhnq, DaSoMaZo and A.I.F.O.S.. Next up: Sensorium, Berlin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Finjas is a tech house and techno artist based in Germany, with 9 gigs on soundc
 
 Jvhnq, DaSoMaZo, A.I.F.O.S.
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finjas/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/finjas/)*

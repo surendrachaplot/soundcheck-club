@@ -1,6 +1,6 @@
 # Forester
 
-Forester is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Night We Met, Nashville on Fri, 20 Nov 2026.
+Forester is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Night We Met, Nashville on Fri, 20 Nov 2026.
 
 Forester is a house and deep house artist based in United States of America, with 15 gigs on soundcheck across Boston, Charlotte, Denver and Ibiza and 7 more. Often billed alongside 3LAU, Adventure Club and Andrew Rayel. Next up: Night We Met, Nashville on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Forester is a house and deep house artist based in United States of America, wit
 
 3LAU, Adventure Club, Andrew Rayel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forester/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/forester/)*

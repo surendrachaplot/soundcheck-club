@@ -1,6 +1,6 @@
 # SHELTER   -   XI at TBA - DTLA
 
-SHELTER   -   XI at TBA - DTLA on Sat 7 Nov, Los Angeles. 2 artists: Julie and R Levántate. Techno. See the line-up on soundcheck.
+SHELTER   -   XI at TBA - DTLA on Sat 7 Nov, Los Angeles. 3 artists: Innersha, Julie and R Levántate. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SHELTER   -   XI at TBA - DTLA on Sat 7 Nov, Los Angeles. 2 artists: Julie and R
 
 ## Line-up
 
+- Innersha
 - Julie
 - R Levántate
 

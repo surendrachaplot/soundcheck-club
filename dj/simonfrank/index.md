@@ -1,6 +1,6 @@
 # Simon Frank
 
-Simon Frank is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Heim Shanghai, Shanghai on Sat, 7 Nov 2026.
+Simon Frank is a EBM and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Heim Shanghai, Shanghai on Sat, 7 Nov 2026.
 
 Simon Frank is an ebm and techno artist based in Canada, with 29 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen and 2 more. Often billed alongside Illsee, chuan and KATRINA. Next up: Heim Shanghai, Shanghai on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Simon Frank is an ebm and techno artist based in Canada, with 29 gigs on soundch
 
 Illsee, chuan, KATRINA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfrank/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonfrank/)*

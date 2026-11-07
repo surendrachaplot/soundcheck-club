@@ -1,6 +1,6 @@
 # ISHA
 
-ISHA is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
+ISHA is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Palais, London on Fri, 13 Nov 2026.
 
 ISHA is a house and funk / soul artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Brussels, London and Poznan and 2 more. Often billed alongside Armând, Milad and Lola So. Next up: Palais, London on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ISHA is a house and funk / soul artist based in United Kingdom, with 34 gigs on 
 
 Armând, Milad, Lola So
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isha-uk/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isha-uk/)*

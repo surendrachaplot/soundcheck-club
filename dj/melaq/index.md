@@ -1,6 +1,6 @@
 # Mela Q
 
-Mela Q is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Douala Ravensbrug, Baden-w-rttemberg on Sat, 7 Nov 2026.
+Mela Q is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Douala Ravensbrug, Baden-w-rttemberg on Sat, 7 Nov 2026.
 
 Mela Q is a deep house and techno artist based in Italy, with 82 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Frankfurt and 9 more. Often billed alongside Yashar (UK), Lorenzo Dada and Allegra De Angelis. Next up: Club Douala Ravensbrug, Baden W Rttemberg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mela Q is a deep house and techno artist based in Italy, with 82 gigs on soundch
 
 Yashar (UK), Lorenzo Dada, Allegra De Angelis
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melaq/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melaq/)*

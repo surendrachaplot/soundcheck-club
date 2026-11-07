@@ -1,6 +1,6 @@
 # DJ HOTMAIL
 
-DJ HOTMAIL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Şahika, Istanbul on Sat, 14 Nov 2026.
+DJ HOTMAIL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Şahika, Istanbul on Sat, 14 Nov 2026.
 
 DJ HOTMAIL is a techno and trance artist, with 35 gigs on soundcheck across Berlin, Cologne, Istanbul and Milan and 2 more. Often billed alongside Amøn, DETOXX and ADEMES. Next up: Şahika, Istanbul on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ HOTMAIL is a techno and trance artist, with 35 gigs on soundcheck across Berl
 
 Amøn, DETOXX, ADEMES
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotmail/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhotmail/)*

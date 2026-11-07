@@ -1,6 +1,6 @@
 # Upercent
 
-Upercent is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Upercent is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Upercent is a techno and house artist, with 10 gigs on soundcheck across Barcelona, Berlin, Guadalajara and Malaga and 3 more. Often billed alongside Borella, Caleesi and Denis Horvat. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Upercent is a techno and house artist, with 10 gigs on soundcheck across Barcelo
 
 Borella, Caleesi, Denis Horvat
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/upercent/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/upercent/)*

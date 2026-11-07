@@ -1,6 +1,6 @@
 # Alex Pastore
 
-Alex Pastore is a Experimental and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location on the telegram group, Berlin on Sun, 8 Nov 2026.
+Alex Pastore is a Experimental and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location on the telegram group, Berlin on Sun, 8 Nov 2026.
 
 Alex Pastore is an experimental and drum & bass artist based in Germany, with 6 gigs on soundcheck across Berlin. Often billed alongside Krushak, RMW (DE) and DAHRAXT. Next up: TBA - Secret Location on the telegram group, Berlin on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ Alex Pastore is an experimental and drum & bass artist based in Germany, with 6 
 
 Krushak, RMW (DE), DAHRAXT
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastore/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexpastore/)*

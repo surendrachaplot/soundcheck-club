@@ -1,6 +1,6 @@
 # CHEZA LUCINA
 
-CHEZA LUCINA is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
+CHEZA LUCINA is a Jungle and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
 CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 62 gigs on soundcheck across Brighton, London, Nottingham and Paris. Often billed alongside THEMPRESS, Princess Xixi and Ivicore. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ CHEZA LUCINA is a jungle and techno artist based in United Kingdom, with 62 gigs
 
 THEMPRESS, Princess Xixi, Ivicore
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chezalucina/)*

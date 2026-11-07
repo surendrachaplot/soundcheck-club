@@ -1,6 +1,6 @@
 # Cosaco
 
-Cosaco is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 13 Nov 2026.
+Cosaco is a Reggaeton and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 13 Nov 2026.
 
 Cosaco is a reggaeton and latin bass artist based in Poland, with 60 gigs on soundcheck across Krakow, Warsaw and Wroclaw. Often billed alongside KarateKnur, Adobo (PL) and eylau. Next up: Hydrozagadka, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Cosaco is a reggaeton and latin bass artist based in Poland, with 60 gigs on sou
 
 KarateKnur, Adobo (PL), eylau
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosaco/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cosaco/)*

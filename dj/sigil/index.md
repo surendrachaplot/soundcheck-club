@@ -1,6 +1,6 @@
 # Sigil
 
-Sigil is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Rhythm, Toronto on Tue, 24 Nov 2026.
+Sigil is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Rhythm, Toronto on Tue, 24 Nov 2026.
 
 Sigil is a garage and drum & bass artist based in Canada, with 11 gigs on soundcheck across Istanbul, Leeds, Sheffield and Toronto. Often billed alongside Diana Benda, In Depth Subject and Kara Kara. Next up: Rhythm, Toronto on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ Sigil is a garage and drum & bass artist based in Canada, with 11 gigs on soundc
 
 Diana Benda, In Depth Subject, Kara Kara
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sigil/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sigil/)*

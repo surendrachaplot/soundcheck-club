@@ -1,6 +1,6 @@
 # Lawrence Lee
 
-Lawrence Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at RSO.BERLIN, Berlin on Thu, 31 Dec 2026.
+Lawrence Lee is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at RSO.BERLIN, Berlin on Thu, 31 Dec 2026.
 
 Lawrence Lee is a techno and house artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Beijing and 20 more. Often billed alongside HAO (CN), Jensen Interceptor and Cora (CN). Next up: RSO.BERLIN, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Lawrence Lee is a techno and house artist based in United States of America, wit
 
 HAO (CN), Jensen Interceptor, Cora (CN)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelee/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lawrencelee/)*

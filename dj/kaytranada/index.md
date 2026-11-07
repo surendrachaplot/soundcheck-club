@@ -1,6 +1,6 @@
 # Kaytranada
 
-Kaytranada is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at DRUMSHEDS, London on Sat, 2 Jan 2027.
+Kaytranada is a House and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at DRUMSHEDS, London on Sat, 2 Jan 2027.
 
 Kaytranada is a house and hip-hop artist based in Canada, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 30 more. Often billed alongside Justice, Disclosure and SG Lewis. Next up: DRUMSHEDS, London on Sat 2 Jan.
 
@@ -26,4 +26,4 @@ Kaytranada is a house and hip-hop artist based in Canada, with 71 gigs on soundc
 
 Justice, Disclosure, SG Lewis
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytranada/)*

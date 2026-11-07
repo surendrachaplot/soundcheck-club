@@ -1,14 +1,13 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "HYPNØ with SBTM, Viniar, Akaya" on Fri, 6 Nov 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "mésalliance: MOIA" on Sat, 7 Nov 2026.
 
-STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 10 upcoming gigs, with line-ups including Axel Karakasis, BOM83L, Forest (PL) and Grymek and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
+STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 9 upcoming gigs, with line-ups including Axel Karakasis, BOM83L, Forest (PL) and Józef Keuner and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | HYPNØ with SBTM, Viniar, Akaya | Grymek |
 | Sat, 7 Nov 2026 | mésalliance: MOIA | MOIA, Saint Peter |
 | Fri, 13 Nov 2026 | SCHISSMA: WRK, KRVZL & MORE | Józef Keuner, VRAXX, WRK (PL), marcelitumelis |
 | Sat, 14 Nov 2026 | WAREHOUSE TAKEOVER: DJ ZAMOCNO & toutestmagnifique | BOM83L, toutestmagnifique |
@@ -23,4 +22,4 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 10 upcoming gi
 
 Kraków, 30-727, Pana Tadeusza 6, Poland, Krakow
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/krakow/club/stk-47-warehouse/)*

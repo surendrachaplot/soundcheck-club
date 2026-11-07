@@ -1,6 +1,6 @@
 # rii (1)
 
-rii (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Tue, 24 Nov 2026.
+rii (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Tue, 24 Nov 2026.
 
 rii is a techno and tech house artist based in Estonia, with 16 gigs on soundcheck across Tallinn and Tokyo. Often billed alongside Alt666, Micaela Saraceno and Artur Lääts. Next up: SEL OCTAGON TOKYO, Tokyo on Tue 24 Nov.
 
@@ -25,4 +25,4 @@ rii is a techno and tech house artist based in Estonia, with 16 gigs on soundche
 
 Alt666, Micaela Saraceno, Artur Lääts
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rii-1/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rii-1/)*

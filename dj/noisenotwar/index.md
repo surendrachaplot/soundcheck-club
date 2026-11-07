@@ -1,14 +1,13 @@
 # Noise Not War
 
-Noise Not War is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Edelfettwerk, Hamburg on Fri, 6 Nov 2026.
+Noise Not War is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at objekt klein a, Dresden on Sat, 7 Nov 2026.
 
-Noise Not War is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bochum and 21 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: Edelfettwerk, Hamburg on Fri 6 Nov.
+Noise Not War is a techno and trance artist based in Germany, with 62 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bochum and 21 more. Often billed alongside Death of Mars, Filialleiter and SIKXTO. Next up: objekt klein a, Dresden on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Edelfettwerk | Hamburg |
 | Sat, 7 Nov 2026 | objekt klein a | Dresden |
 | Sat, 14 Nov 2026 | WDM | Hannover |
 | Fri, 27 Nov 2026 | Schrotty | Cologne |
@@ -16,6 +15,7 @@ Noise Not War is a techno and trance artist based in Germany, with 62 gigs on so
 
 ## Recently played
 
+- Edelfettwerk, Hamburg · Fri, 6 Nov 2026
 - TBA - Studio Orfei, Sofia · Sat, 31 Oct 2026
 - Airport Würzburg, Nürnberg · Fri, 30 Oct 2026
 - Hype Park, Krakow · Sat, 24 Oct 2026
@@ -23,10 +23,9 @@ Noise Not War is a techno and trance artist based in Germany, with 62 gigs on so
 - Roof 175, Frankfurt · Sat, 26 Sept 2026
 - DNA Club, Munich · Sat, 12 Sept 2026
 - Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
-- Delta Gelände, Dortmund / Essen · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Death of Mars, Filialleiter, SIKXTO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noisenotwar/)*

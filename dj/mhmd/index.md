@@ -1,6 +1,6 @@
 # MHMD
 
-MHMD is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Folklor, Lausanne on Fri, 20 Nov 2026.
+MHMD is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Folklor, Lausanne on Fri, 20 Nov 2026.
 
 MHMD is a tech house and deep house artist based in Switzerland, with 21 gigs on soundcheck across Basel, Geneva, Lausanne and Seoul. Often billed alongside Blaqq & Why'd, Goom Gum and ANDOW. Next up: Folklor, Lausanne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ MHMD is a tech house and deep house artist based in Switzerland, with 21 gigs on
 
 Blaqq & Why'd, Goom Gum, ANDOW
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mhmd/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mhmd/)*

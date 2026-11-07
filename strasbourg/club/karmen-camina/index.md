@@ -1,14 +1,13 @@
 # Karmen Camina
 
-Karmen Camina is a music venue in Strasbourg with 16 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Musik im Augenblick [Alice Gift (live) • DJ Marcelle • Oskar Haag (live) • Rachid Bowie]" on Fri, 6 Nov 2026.
+Karmen Camina is a music venue in Strasbourg with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE]" on Sat, 7 Nov 2026.
 
-Karmen Camina is a music venue in Strasbourg listed on soundcheck. 16 upcoming gigs, with line-ups including Arbo, BOUKI, Cryptofauna and Danilo Plessow and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
+Karmen Camina is a music venue in Strasbourg listed on soundcheck. 15 upcoming gigs, with line-ups including Arbo, BOUKI, Cryptofauna and Danilo Plessow and 2 more. See dates, start times and who's playing. 4 cour des Cigarières 67000 Strasbourg.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Musik im Augenblick [Alice Gift (live) • DJ Marcelle • Oskar Haag (live) • Rachid Bowie] | DJ Marcelle |
 | Sat, 7 Nov 2026 | KC [Ollie Lishman • RUIZ OSC1 • TristeTrans • VOIDE] | Ollie Lishman, RUIZ OSC1, teinture-mère |
 | Thu, 12 Nov 2026 | ALGORAVE [Crash server • Jia Liu & Michele Samarotto • Students] |  |
 | Fri, 13 Nov 2026 | KOLLECTIV • ZEST RADIO [Om Unit • Blakkstar • Trash Mc.Queen • RCB SOUNDSYSTEM] | Om Unit |
@@ -18,9 +17,10 @@ Karmen Camina is a music venue in Strasbourg listed on soundcheck. 16 upcoming g
 | Fri, 20 Nov 2026 | Keep Hush X SPECTR with DRIIA (uk), Noli (uk) | DRIIA, GTK (1) |
 | Sat, 21 Nov 2026 | KC [Randomer • Cryptofauna • Die Klar • Justine Maze • Staary] | Cryptofauna, Die Klar, Justine Maze, Randomer |
 | Sun, 22 Nov 2026 | SUNDAY CAMINA x BLINKD [Mija • MATATABI • Trouble Groove • Turbomat] | Mija |
+| Thu, 26 Nov 2026 | COMBO CLUB [Bouki, Makar] | BOUKI (2), Makar |
 
 ## Address
 
 4 cour des Cigarières 67000 Strasbourg, Strasbourg
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/strasbourg/club/karmen-camina/)*

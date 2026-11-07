@@ -1,6 +1,6 @@
 # Ellxandra
 
-Ellxandra is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Studio Notre-Dame, Montreal on Sat, 7 Nov 2026.
+Ellxandra is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Studio Notre-Dame, Montreal on Sat, 7 Nov 2026.
 
 Ellxandra is a house and minimal artist, with 44 gigs on soundcheck across Guadalajara, Mexico City, Montreal and Toronto. Often billed alongside Claire, Massyl and DJ Chris (CA). Next up: Studio Notre-Dame, Montreal on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ellxandra is a house and minimal artist, with 44 gigs on soundcheck across Guada
 
 Claire, Massyl, DJ Chris (CA)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellxandra/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellxandra/)*

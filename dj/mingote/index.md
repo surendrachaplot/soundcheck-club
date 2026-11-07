@@ -1,6 +1,6 @@
 # Mingote
 
-Mingote is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Gare Porto, Porto on Fri, 27 Nov 2026.
+Mingote is a Breakbeat and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Gare Porto, Porto on Fri, 27 Nov 2026.
 
 Mingote is a breakbeat and electro artist, with 23 gigs on soundcheck across Berlin, Lisbon, Porto and Tbilisi. Often billed alongside Catarina Silva, Ana Pacheco and Mister Teaser. Next up: Gare Porto, Porto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Mingote is a breakbeat and electro artist, with 23 gigs on soundcheck across Ber
 
 Catarina Silva, Ana Pacheco, Mister Teaser
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mingote/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mingote/)*

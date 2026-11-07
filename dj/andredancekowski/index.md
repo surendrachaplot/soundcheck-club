@@ -1,6 +1,6 @@
 # André Dancekowski
 
-André Dancekowski is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lenbachplatz 1, Munich on Sat, 7 Nov 2026.
+André Dancekowski is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lenbachplatz 1, Munich on Sat, 7 Nov 2026.
 
 André Dancekowski is a house and electro artist based in Germany, with 69 gigs on soundcheck across Berlin, Bologna, Brussels and Cologne and 13 more. Often billed alongside Mikey Gee, karete bu and Black Loops. Next up: Lenbachplatz 1, Munich on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ André Dancekowski is a house and electro artist based in Germany, with 69 gigs 
 
 Mikey Gee, karete bu, Black Loops
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andredancekowski/)*

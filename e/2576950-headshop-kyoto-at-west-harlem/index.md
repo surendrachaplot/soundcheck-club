@@ -1,6 +1,6 @@
-# Headshop Kyoto at West Harlem
+# HEADSHOP KYOTO at West Harlem
 
-Headshop Kyoto at West Harlem on Sun 8 Nov, Kyoto. See the line-up on soundcheck.
+HEADSHOP KYOTO at West Harlem on Sun 8 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

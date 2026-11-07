@@ -1,6 +1,6 @@
 # Neev.
 
-Neev. is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The DBA, Manchester on Sat, 7 Nov 2026.
+Neev. is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The DBA, Manchester on Sat, 7 Nov 2026.
 
 Neev. is an electro and techno artist based in United Kingdom, with 7 gigs on soundcheck across London and Manchester. Often billed alongside Josh Keit, ATST and Bunney. Next up: The DBA, Manchester on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Neev. is an electro and techno artist based in United Kingdom, with 7 gigs on so
 
 Josh Keit, ATST, Bunney
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neev./)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neev./)*

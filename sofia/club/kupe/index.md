@@ -1,6 +1,6 @@
 # Купе / Kupe
 
-Купе / Kupe is a music venue in Sofia with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "ТЕХНО ЗОНА 002" on Sat, 7 Nov 2026.
+Купе / Kupe is a music venue in Sofia with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ТЕХНО ЗОНА 002" on Sat, 7 Nov 2026.
 
 Купе / Kupe is a music venue in Sofia listed on soundcheck. 4 upcoming gigs, with line-ups including 5ogol, ANGL, Egor Sintsoff and ELYASA and 2 more. See dates, start times and who's playing.
 
@@ -13,4 +13,4 @@
 | Sat, 21 Nov 2026 | Cathartica: OSTROM SHOWCASE at CLUB K.U.P.E | 5ogol, GØBLIN, KASSIS, VAYROX, VIK B |
 | Thu, 4 Feb 2027 | SYMБИОЗА with Machinedrum | Machinedrum, Soulnd |
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/kupe/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/kupe/)*

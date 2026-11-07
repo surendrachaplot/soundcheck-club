@@ -1,6 +1,6 @@
 # BARdzo bardzo
 
-BARdzo bardzo is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "ETNO RAVE autumn edition" on Sat, 7 Nov 2026.
+BARdzo bardzo is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ETNO RAVE autumn edition" on Sat, 7 Nov 2026.
 
 BARdzo bardzo is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Janus Rasmussen. See dates, start times and who's playing. Nowogrodzka 11, 00-513 Warszawa.
 
@@ -15,4 +15,4 @@ BARdzo bardzo is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, 
 
 Nowogrodzka 11, 00-513 Warszawa, Warsaw
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/bardzo-bardzo/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/bardzo-bardzo/)*

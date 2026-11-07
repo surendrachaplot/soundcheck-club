@@ -1,6 +1,6 @@
 # SPLOT x Ciało with DjRUM at Ciało
 
-SPLOT x Ciało with DjRUM on Fri 4 Dec, Wroclaw. 4 artists: dadan karambolo, DjRUM, Glassz and Guiltee. Breakbeat and Bass. See the line-up on soundcheck.
+SPLOT x Ciało with DjRUM on Fri 4 Dec, Wroclaw. 6 artists: dadan karambolo, DjRUM, dobrawka and Glassz and 2 more. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,9 @@ SPLOT x Ciało with DjRUM on Fri 4 Dec, Wroclaw. 4 artists: dadan karambolo, DjR
 
 - dadan karambolo
 - DjRUM
+- dobrawka
 - Glassz
 - Guiltee
+- Loskop
 
 *Source: [soundcheck](https://soundcheck.club/e/2568321-splot-x-cia-o-with-djrum-at-cia-o/)*

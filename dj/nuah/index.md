@@ -1,6 +1,6 @@
 # NUAH
 
-NUAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
+NUAH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kasteel De Berckt, Netherlands on Fri, 20 Nov 2026.
 
 NUAH is a techno and house artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne, Copenhagen and Hamburg and 5 more. Often billed alongside Sahra Bass, FLAVE and Frida Darko. Next up: Kasteel De Berckt, Netherlands on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ NUAH is a techno and house artist based in Germany, with 29 gigs on soundcheck a
 
 Sahra Bass, FLAVE, Frida Darko
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuah/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuah/)*

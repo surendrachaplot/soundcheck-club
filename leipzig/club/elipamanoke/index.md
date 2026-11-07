@@ -1,14 +1,13 @@
 # elipamanoke
 
-elipamanoke is a music venue in Leipzig with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "HeyCiao, Vacanza! #15" on Fri, 6 Nov 2026.
+elipamanoke is a music venue in Leipzig with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "5YEARS PRAXIS13.5" on Sat, 7 Nov 2026.
 
-elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, with line-ups including :MUMM, Aio, AMBROXAN and BBetriebswirt and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
+elipamanoke is a music venue in Leipzig listed on soundcheck. 14 upcoming gigs, with line-ups including Aio, AMBROXAN, Cat-J and CAVEN and 2 more. See dates, start times and who's playing. Markranstädter Straße 4, 04229 Leipzig.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | HeyCiao, Vacanza! #15 | :MUMM, BBetriebswirt, Bertha, Brückmann, KRUE, MATHILDA (2), dj_kareless, raoul victor |
 | Sat, 7 Nov 2026 | 5YEARS PRAXIS13.5 | CAVEN, Humanoizer, Hypnosta, MOFS, Malena (2), Maze DK, NACHTIGALL, Napakee, Neptune, Regent |
 | Wed, 11 Nov 2026 | between x Vernetzt Leipzig |  |
 | Fri, 13 Nov 2026 | made2fade [secret lineup, 10€ entry] |  |
@@ -18,9 +17,10 @@ elipamanoke is a music venue in Leipzig listed on soundcheck. 15 upcoming gigs, 
 | Sat, 21 Nov 2026 | KOSMOS with Mehr is Mehr | Aio, Fennek, GIANNA, Mehr is Mehr, Randali, Shabiki |
 | Fri, 27 Nov 2026 | SCORN | AMBROXAN, Gretchen B, Johnnyaga, LARIOUS, Plateau Bitch, SPLINTER (2) |
 | Sat, 28 Nov 2026 | newfaces – weekend edition |  |
+| Fri, 4 Dec 2026 | STUDIO 69 w/ Josi Miller, Qnoe, Cufme, DJ Business, Eluzid, Shamzy, PIG, Shape | Cufme, DJ Business (2), Eluzid, Josi Miller (2), PIG (1), Qnoe |
 
 ## Address
 
 Markranstädter Straße 4, 04229 Leipzig, Leipzig
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/leipzig/club/elipamanoke/)*

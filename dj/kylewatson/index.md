@@ -1,6 +1,6 @@
 # Kyle Watson
 
-Kyle Watson is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Art Club, Houston on Fri, 20 Nov 2026.
+Kyle Watson is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Art Club, Houston on Fri, 20 Nov 2026.
 
 Kyle Watson is a house and tech house artist based in South Africa, with 56 gigs on soundcheck across Amsterdam, Austin, Boston and Brisbane and 20 more. Often billed alongside Walker & Royce, Vnssa and Wax Motif. Next up: Art Club, Houston on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Kyle Watson is a house and tech house artist based in South Africa, with 56 gigs
 
 Walker & Royce, Vnssa, Wax Motif
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewatson/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kylewatson/)*

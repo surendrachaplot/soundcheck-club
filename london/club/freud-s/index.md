@@ -1,6 +1,6 @@
 # Freud's
 
-Freud's is a music venue in London with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "DISTRESSD" on Thu, 12 Nov 2026.
+Freud's is a music venue in London with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "DISTRESSD" on Thu, 12 Nov 2026.
 
 Freud's is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Mica Levi and Sarahsson. See dates, start times and who's playing. 198 Shaftesbury Avenue , London, WC2H 8JL, United Kingdom.
 
@@ -14,4 +14,4 @@ Freud's is a music venue in London listed on soundcheck. 1 upcoming gig, with li
 
 198 Shaftesbury Avenue , London, WC2H 8JL, United Kingdom, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/freud-s/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/freud-s/)*

@@ -1,14 +1,13 @@
 # TRANSMISSION DC
 
-TRANSMISSION DC is a music venue in Washington DC with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "MÖYA AFROHOUSE EXPERIENCE" on Fri, 6 Nov 2026.
+TRANSMISSION DC is a music venue in Washington DC with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Mood II Swing" on Sat, 7 Nov 2026.
 
-TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcoming gigs, with line-ups including 6 SENSE, Bodegaparty, Daniro and DAX J and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
+TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 12 upcoming gigs, with line-ups including 6 SENSE, Bodegaparty, Daniro and DAX J and 2 more. See dates, start times and who's playing. 1353 H st NE, Washington, DC, 20002.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | MÖYA AFROHOUSE EXPERIENCE |  |
 | Sat, 7 Nov 2026 | Mood II Swing | Diyanna Monet, Mood II Swing, My Friend Jack |
 | Thu, 12 Nov 2026 | Substrate Pres. FJAAK, 6SENSE | 6 SENSE, FJAAK |
 | Fri, 13 Nov 2026 | DAX J pres by TRANSMISSION | DAX J |
@@ -18,9 +17,10 @@ TRANSMISSION DC is a music venue in Washington DC listed on soundcheck. 13 upcom
 | Fri, 20 Nov 2026 | People's House: discostan | discostan |
 | Sat, 21 Nov 2026 | Club Ghetto Tech: Vol. 10 | DJ KORIS, Daniro, Grabba Ranks, SKY JETTA, flotussin |
 | Fri, 27 Nov 2026 | Twerk 2 Freedom | Bodegaparty, Tromac, znorthy |
+| Sat, 5 Dec 2026 | Metalheadz Pres. Goldie + Photek | Dee Clark, Goldie, Photek |
 
 ## Address
 
 1353 H st NE, Washington, DC, 20002, Washington DC
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/transmission-dc/)*

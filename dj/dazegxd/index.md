@@ -1,6 +1,6 @@
 # Dazegxd
 
-Dazegxd is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 7 Nov 2026.
+Dazegxd is a Jungle and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Dazegxd is a jungle and house artist based in United States of America, with 109 gigs on soundcheck across Atlanta, Austin, Boston and Bristol and 18 more. Often billed alongside Yesterdayneverhappened, gum.mp3 and Swami Sound. Next up: Public Works, San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Dazegxd is a jungle and house artist based in United States of America, with 109
 
 Yesterdayneverhappened, gum.mp3, Swami Sound
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dazegxd/)*

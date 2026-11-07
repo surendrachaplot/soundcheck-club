@@ -1,6 +1,6 @@
 # Andhim
 
-Andhim is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at UNLOCKED, London on Fri, 20 Nov 2026.
+Andhim is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at UNLOCKED, London on Fri, 20 Nov 2026.
 
 Andhim is a house and techno artist based in Germany, with 130 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Rafael Da Cruz, Claptone and HOSH. Next up: UNLOCKED, London on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Andhim is a house and techno artist based in Germany, with 130 gigs on soundchec
 
 Rafael Da Cruz, Claptone, HOSH
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andhim/)*

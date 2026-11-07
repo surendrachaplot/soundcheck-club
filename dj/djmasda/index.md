@@ -1,14 +1,13 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Studionotte, Milan on Fri, 6 Nov 2026.
+DJ Masda is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
 
-DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 61 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Studionotte, Milan on Fri 6 Nov.
+DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 61 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Studionotte | Milan |
 | Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
@@ -20,9 +19,11 @@ DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundchec
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 | Fri, 11 Dec 2026 | Club Metro | Kyoto |
 | Thu, 31 Dec 2026 | Home of Plenty | South-australia |
+| Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
 
 ## Recently played
 
+- Studionotte, Milan · Fri, 6 Nov 2026
 - Platforma Wolff, Bucharest · Fri, 30 Oct 2026
 - Skatecafe, Amsterdam · Sun, 25 Oct 2026
 - Café Café Bar Amsterdam, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundchec
 - fabric, London · Sat, 17 Oct 2026
 - Pérola Negra Club, Porto · Sat, 17 Oct 2026
 - essaim, Paris · Sat, 10 Oct 2026
-- Club Twentyone, Florence · Thu, 8 Oct 2026
 
 ## Shares bills with
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*

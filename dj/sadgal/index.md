@@ -1,6 +1,6 @@
 # sadgal
 
-sadgal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Versalles 64, Mexico City on Sat, 7 Nov 2026.
+sadgal is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Versalles 64, Mexico City on Sat, 7 Nov 2026.
 
 sadgal is a techno and house artist based in Mexico, with 128 gigs on soundcheck across Barcelona, Bogotá, Guadalajara and Madrid and 2 more. Often billed alongside Celice Monnette, Dj Fucci and Enya Botello. Next up: Versalles 64, Mexico City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ sadgal is a techno and house artist based in Mexico, with 128 gigs on soundcheck
 
 Celice Monnette, Dj Fucci, Enya Botello
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sadgal/)*

@@ -1,21 +1,22 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Quinta Las Rosas, Mendoza, Argentina on Fri, 6 Nov 2026.
+Adam Beyer is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - La Fabrica, Cordoba, Argentina on Sat, 7 Nov 2026.
 
-Adam Beyer is a techno and tech house artist based in Sweden, with 216 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 62 more. Often billed alongside Bart Skils, Eric Prydz and Patrick Topping. Next up: TBA - Quinta Las Rosas, Mendoza, Argentina on Fri 6 Nov.
+Adam Beyer is a techno and tech house artist based in Sweden, with 217 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Athens and 62 more. Often billed alongside Bart Skils, Eric Prydz and Patrick Topping. Next up: TBA - La Fabrica, Cordoba, Argentina on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Quinta Las Rosas, Mendoza | Argentina |
 | Sat, 7 Nov 2026 | TBA - La Fabrica, Cordoba | Argentina |
+| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 28 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Fri, 29 Jan 2027 | Roxy | Prague |
 
 ## Recently played
 
+- TBA - Quinta Las Rosas, Mendoza, Argentina · Fri, 6 Nov 2026
 - TBA - Lurin live, Peru · Sat, 31 Oct 2026
 - Sugarfactory, Amsterdam · Thu, 22 Oct 2026
 - O der Klub, Vienna · Fri, 16 Oct 2026
@@ -23,10 +24,9 @@ Adam Beyer is a techno and tech house artist based in Sweden, with 216 gigs on s
 - Auditorio Málaga Cortijo de Torres, South · Sat, 10 Oct 2026
 - Amnesia Milano, Milan · Sat, 10 Oct 2026
 - LAB theCLUB, Madrid · Fri, 9 Oct 2026
-- TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore, Singapore · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Bart Skils, Eric Prydz, Patrick Topping
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adambeyer/)*

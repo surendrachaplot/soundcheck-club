@@ -1,6 +1,6 @@
 # Mia Banks
 
-Mia Banks is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at De Waagh, Nijmegen on Sat, 7 Nov 2026.
+Mia Banks is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at De Waagh, Nijmegen on Sat, 7 Nov 2026.
 
 Mia Banks is a disco and house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam. Often billed alongside Crystal Touch, Dan Cluskey and Lenzz. Next up: De Waagh, Nijmegen on Sat 7 Nov.
 
@@ -22,4 +22,4 @@ Mia Banks is a disco and house artist based in Netherlands, with 6 gigs on sound
 
 Crystal Touch, Dan Cluskey, Lenzz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miabanks/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miabanks/)*

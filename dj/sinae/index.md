@@ -1,6 +1,6 @@
 # SINAE
 
-SINAE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 4 Nov 2026.
+SINAE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 4 Nov 2026.
 
 SINAE is a techno and house artist based in South Korea, with 41 gigs on soundcheck across Seoul. Often billed alongside Cy Nico, Short Finger and Yeonju. Next up: Graphic Hangang, Seoul on Wed 4 Nov.
 
@@ -26,4 +26,4 @@ SINAE is a techno and house artist based in South Korea, with 41 gigs on soundch
 
 Cy Nico, Short Finger, Yeonju
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinae/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinae/)*

@@ -1,6 +1,6 @@
 # Kacy
 
-Kacy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
+Kacy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at MTW, Frankfurt on Sat, 28 Nov 2026.
 
 Kacy is a techno and trance artist based in Germany, with 86 gigs on soundcheck across Augsburg, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Polytoxic, CiKi and DeGuzman. Next up: MTW, Frankfurt on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Kacy is a techno and trance artist based in Germany, with 86 gigs on soundcheck 
 
 Polytoxic, CiKi, DeGuzman
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kacy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kacy/)*

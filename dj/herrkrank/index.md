@@ -1,6 +1,6 @@
 # Herr Krank
 
-Herr Krank is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Goya Social Club, Madrid on Fri, 20 Nov 2026.
+Herr Krank is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Goya Social Club, Madrid on Fri, 20 Nov 2026.
 
 Herr Krank is a house and techno artist based in France, with 60 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 18 more. Often billed alongside Deborah Aime La Bagarre, Emma B and Baccus. Next up: Goya Social Club, Madrid on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Herr Krank is a house and techno artist based in France, with 60 gigs on soundch
 
 Deborah Aime La Bagarre, Emma B, Baccus
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herrkrank/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/herrkrank/)*

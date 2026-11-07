@@ -1,6 +1,6 @@
 # ViV:On
 
-ViV:On is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - 288 Green St. Cambridge, Boston on Sat, 5 Dec 2026.
+ViV:On is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - 288 Green St. Cambridge, Boston on Sat, 5 Dec 2026.
 
 ViV:On is a house and progressive house artist based in Italy, with 31 gigs on soundcheck across Boston, Milan and New York City. Often billed alongside FRANZIV, AleBCostantino and DJ Bookworm. Next up: TBA - 288 Green St. Cambridge, Boston on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ ViV:On is a house and progressive house artist based in Italy, with 31 gigs on s
 
 FRANZIV, AleBCostantino, DJ Bookworm
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivon/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vivon/)*

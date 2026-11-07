@@ -1,6 +1,6 @@
 # Nirvan
 
-Nirvan is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Gallery, London on Thu, 19 Nov 2026.
+Nirvan is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Gallery, London on Thu, 19 Nov 2026.
 
 Nirvan is a house and minimal artist based in Belgium, with 30 gigs on soundcheck across Brussels, Ibiza and London. Often billed alongside AOB, DJOM and Elioss. Next up: Gallery, London on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Nirvan is a house and minimal artist based in Belgium, with 30 gigs on soundchec
 
 AOB, DJOM, Elioss
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nirvan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nirvan/)*

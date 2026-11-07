@@ -1,6 +1,6 @@
 # Rolling Stock
 
-Rolling Stock is a music venue in London with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "The House Of Osiris presents:" on Sat, 7 Nov 2026.
+Rolling Stock is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "The House Of Osiris presents:" on Sat, 7 Nov 2026.
 
 Rolling Stock is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alan Banks, Caren G., Cat Caesura and DJ Black Moses and 2 more. See dates, start times and who's playing. 48 Kingsland Road, Shoreditch E2 8AA.
 
@@ -23,4 +23,4 @@ Rolling Stock is a music venue in London listed on soundcheck. 10 upcoming gigs,
 
 48 Kingsland Road, Shoreditch E2 8AA, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/rolling-stock/)*

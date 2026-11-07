@@ -1,14 +1,13 @@
 # DJ Hyperdrive
 
-DJ Hyperdrive is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bootshaus, Cologne on Fri, 6 Nov 2026.
+DJ Hyperdrive is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Schrotty, Cologne on Wed, 11 Nov 2026.
 
-DJ Hyperdrive is a techno and trance artist based in Germany, with 242 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside future.666, ÜBERKIKZ and DJ Cringey. Next up: Bootshaus, Cologne on Fri 6 Nov.
+DJ Hyperdrive is a techno and trance artist based in Germany, with 242 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 63 more. Often billed alongside future.666, ÜBERKIKZ and DJ Cringey. Next up: Schrotty, Cologne on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Bootshaus | Cologne |
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
 | Fri, 13 Nov 2026 | TBA | Berlin |
 | Fri, 13 Nov 2026 | DSTRKT Club Berlin | Berlin |
@@ -23,6 +22,7 @@ DJ Hyperdrive is a techno and trance artist based in Germany, with 242 gigs on s
 
 ## Recently played
 
+- Bootshaus, Cologne · Fri, 6 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 31 Oct 2026
 - Kilomètre25, Paris · Sat, 31 Oct 2026
 - La Fabriek, Brussels · Sat, 24 Oct 2026
@@ -30,10 +30,9 @@ DJ Hyperdrive is a techno and trance artist based in Germany, with 242 gigs on s
 - Yellow House, Amsterdam · Wed, 21 Oct 2026
 - Universe Athens, Athens · Sat, 17 Oct 2026
 - Dockland, Münster · Sat, 3 Oct 2026
-- TBA - Rheinstrandbad , Karlsruhe · Sat, 19 Sept 2026
 
 ## Shares bills with
 
 future.666, ÜBERKIKZ, DJ Cringey
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djhyperdrive/)*

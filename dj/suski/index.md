@@ -1,6 +1,6 @@
 # Suski
 
-Suski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Stidilä, Helsinki on Sun, 8 Nov 2026.
+Suski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Stidilä, Helsinki on Sun, 8 Nov 2026.
 
 Suski is a house and techno artist based in Finland, with 39 gigs on soundcheck across Helsinki. Often billed alongside Emma Valtonen, Uha and Denzel. Next up: Stidilä, Helsinki on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Suski is a house and techno artist based in Finland, with 39 gigs on soundcheck 
 
 Emma Valtonen, Uha, Denzel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suski/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suski/)*

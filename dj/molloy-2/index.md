@@ -1,6 +1,6 @@
 # Molloy
 
-Molloy is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Meraki, Liverpool on Fri, 18 Dec 2026.
+Molloy is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Meraki, Liverpool on Fri, 18 Dec 2026.
 
 Molloy is a techno and minimal techno artist based in United Kingdom, with 21 gigs on soundcheck across Glasgow, Liverpool, London and Manchester and 2 more. Often billed alongside riccard.o0, Faster Horses and djcd. Next up: Meraki, Liverpool on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Molloy is a techno and minimal techno artist based in United Kingdom, with 21 gi
 
 riccard.o0, Faster Horses, djcd
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/molloy-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/molloy-2/)*

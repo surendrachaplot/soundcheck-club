@@ -1,6 +1,6 @@
 # MTELUS
 
-MTELUS is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "îLESONIQ présente: Virtual Riot & Blanke - Far From Home Tour" on Fri, 18 Dec 2026.
+MTELUS is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "îLESONIQ présente: Virtual Riot & Blanke - Far From Home Tour" on Fri, 18 Dec 2026.
 
 MTELUS is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including French 79. See dates, start times and who's playing. 59 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada.
 
@@ -16,4 +16,4 @@ MTELUS is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with 
 
 59 Sainte-Catherine St E; Montreal, QC H2X 1K5; Canada, Montreal
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/mtelus/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/mtelus/)*

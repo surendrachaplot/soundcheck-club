@@ -1,6 +1,6 @@
 # Soulmates
 
-Soulmates is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Chiesa delle Crocelle ai Mannesi, Naples on Sun, 8 Nov 2026.
+Soulmates is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Chiesa delle Crocelle ai Mannesi, Naples on Sun, 8 Nov 2026.
 
 Soulmates is a house and tech house artist based in Italy, with 13 gigs on soundcheck across Naples. Often billed alongside Masy (IT), Darius Syrossian and Alex Vibes. Next up: Chiesa delle Crocelle ai Mannesi, Naples on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Soulmates is a house and tech house artist based in Italy, with 13 gigs on sound
 
 Masy (IT), Darius Syrossian, Alex Vibes
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmates/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulmates/)*

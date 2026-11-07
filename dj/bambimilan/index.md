@@ -1,6 +1,6 @@
 # Bambi Milan
 
-Bambi Milan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at MODULE, Copenhagen on Fri, 27 Nov 2026.
+Bambi Milan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at MODULE, Copenhagen on Fri, 27 Nov 2026.
 
 Bambi Milan is a techno and house artist based in Denmark, with 10 gigs on soundcheck across Copenhagen. Often billed alongside ENNA, Rosa Maluna and Alegrando. Next up: MODULE, Copenhagen on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Bambi Milan is a techno and house artist based in Denmark, with 10 gigs on sound
 
 ENNA, Rosa Maluna, Alegrando
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimilan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambimilan/)*

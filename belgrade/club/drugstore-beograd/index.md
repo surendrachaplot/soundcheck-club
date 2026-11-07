@@ -1,14 +1,13 @@
 # Drugstore Beograd
 
-Drugstore Beograd is a music venue in Belgrade with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Manevarim 500 with Marcal and Locals" on Fri, 6 Nov 2026.
+Drugstore Beograd is a music venue in Belgrade with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "MRAK with David Löhlein" on Fri, 13 Nov 2026.
 
-Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming gigs, with line-ups including .Paragon, Alarico, aleksssa and Ana Rs and 2 more. See dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
+Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 7 upcoming gigs, with line-ups including .Paragon, Alarico, aleksssa and Ana Rs and 2 more. See dates, start times and who's playing. Bulevar Despota Stefana 115 - Poenkareova.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Manevarim 500 with Marcal and Locals | Luka Jukic, Marcal, aleksssa |
 | Fri, 13 Nov 2026 | MRAK with David Löhlein | David Löhlein |
 | Fri, 20 Nov 2026 | ALTEREGO - ALL YOU CAN ACID II - Chris Liberator | Chris Liberator, Deeda, Matej Rusmir |
 | Sat, 21 Nov 2026 | Hali Gali: Banzai |  |
@@ -21,4 +20,4 @@ Drugstore Beograd is a music venue in Belgrade listed on soundcheck. 8 upcoming 
 
 Bulevar Despota Stefana 115 - Poenkareova, Belgrade
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/drugstore-beograd/)*

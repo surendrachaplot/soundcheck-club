@@ -1,6 +1,6 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fünk, Mexico City on Fri, 6 Nov 2026.
+Giammarco Orsini is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fünk, Mexico City on Fri, 6 Nov 2026.
 
 Giammarco Orsini is a house and techno artist based in Italy, with 188 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 46 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Fünk, Mexico City on Fri 6 Nov.
 
@@ -16,6 +16,7 @@ Giammarco Orsini is a house and techno artist based in Italy, with 188 gigs on s
 
 ## Recently played
 
+- Fünk, Mexico City · Fri, 6 Nov 2026
 - Starlane São Paulo, Sao Paulo · Thu, 29 Oct 2026
 - TILLATEC, Amsterdam · Sat, 24 Oct 2026
 - Klaproos, Amsterdam · Fri, 23 Oct 2026
@@ -23,10 +24,9 @@ Giammarco Orsini is a house and techno artist based in Italy, with 188 gigs on s
 - Meet Berlage, Amsterdam · Thu, 22 Oct 2026
 - Night Tales, London · Sat, 17 Oct 2026
 - Platforma Wolff, Bucharest · Fri, 25 Sept 2026
-- Bunker, Turin · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 PARAMIDA, Marcolino, Anthea
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

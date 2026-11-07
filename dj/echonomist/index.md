@@ -1,6 +1,6 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
+Echonomist is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Warehouse By IT Quarter, Cyprus on Sat, 7 Nov 2026.
 
 Echonomist is a house and techno artist based in Greece, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 43 more. Often billed alongside Jenia Tarsol, Denis Horvat and Avangart Tabldot. Next up: The Warehouse By IT Quarter, Cyprus on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Echonomist is a house and techno artist based in Greece, with 148 gigs on soundc
 
 Jenia Tarsol, Denis Horvat, Avangart Tabldot
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/echonomist/)*

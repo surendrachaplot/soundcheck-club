@@ -1,6 +1,6 @@
 # Emilio
 
-Emilio is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 12 Nov 2026.
+Emilio is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Z Maruyama, Tokyo on Thu, 12 Nov 2026.
 
 Emilio is a techno and industrial artist based in Norway, with 43 gigs on soundcheck across Barcelona, Berlin, Bologna and Brussels and 7 more. Often billed alongside EVE, LØST and Monk000. Next up: Z Maruyama, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Emilio is a techno and industrial artist based in Norway, with 43 gigs on soundc
 
 EVE (1), LØST, Monk000
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilio/)*

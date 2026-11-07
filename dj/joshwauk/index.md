@@ -1,6 +1,6 @@
 # Joshwa
 
-Joshwa is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Joshwa is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Joshwa is a tech house and house artist based in United Kingdom, with 91 gigs on soundcheck across Bergen, Boston, Chicago and Copenhagen and 32 more. Often billed alongside Sammy Porter, George Mensah and Charlotte Van de Peer. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -14,6 +14,7 @@ Joshwa is a tech house and house artist based in United Kingdom, with 91 gigs on
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Wamu Theatre, Seattle · Fri, 30 Oct 2026
 - XOYO, London · Sat, 17 Oct 2026
 - Pygmalion, Dublin · Fri, 25 Sept 2026
@@ -21,10 +22,9 @@ Joshwa is a tech house and house artist based in United Kingdom, with 91 gigs on
 - Club Vinyl, Denver · Sun, 6 Sept 2026
 - SWG3, Glasgow · Fri, 28 Aug 2026
 - The Barbary, Philadelphia · Sat, 22 Aug 2026
-- Prysm Nightclub, Chicago · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Sammy Porter, George Mensah, Charlotte Van de Peer
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joshwauk/)*

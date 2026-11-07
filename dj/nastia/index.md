@@ -1,14 +1,13 @@
 # Nastia
 
-Nastia is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+Nastia is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at CLUB RAUM, Amsterdam on Fri, 13 Nov 2026.
 
-Nastia is a techno and house artist based in Ukraine, with 203 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 78 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
+Nastia is a techno and house artist based in Ukraine, with 203 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 78 more. Often billed alongside Stef Mendesidis, The Advent and DJ Bone. Next up: CLUB RAUM, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Fri, 13 Nov 2026 | KABUL à GoGo | Utrecht |
 | Sat, 5 Dec 2026 | Fuse | Brussels |
@@ -31,4 +30,4 @@ Nastia is a techno and house artist based in Ukraine, with 203 gigs on soundchec
 
 Stef Mendesidis, The Advent, DJ Bone
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nastia/)*

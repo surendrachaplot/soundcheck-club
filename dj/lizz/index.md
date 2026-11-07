@@ -1,6 +1,6 @@
 # Lizz
 
-Lizz is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 12 Dec 2026.
+Lizz is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 12 Dec 2026.
 
 Lizz is a minimal and house artist based in Romania, with 89 gigs on soundcheck across Bangkok, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Cosmjn, Gescu and ELV/RA. Next up: Uebel & Gefährlich, Hamburg on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Lizz is a minimal and house artist based in Romania, with 89 gigs on soundcheck 
 
 Cosmjn, Gescu, ELV/RA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lizz/)*

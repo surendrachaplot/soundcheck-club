@@ -1,6 +1,6 @@
 # DJ Service
 
-DJ Service is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Switch Bar, Barcelona on Sat, 14 Nov 2026.
+DJ Service is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Switch Bar, Barcelona on Sat, 14 Nov 2026.
 
 DJ Service is a house and electro artist based in Spain, with 59 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 1 more. Often billed alongside CMYK, Nick (IT) and Quim Clausell. Next up: Switch Bar, Barcelona on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ Service is a house and electro artist based in Spain, with 59 gigs on soundch
 
 CMYK, Nick (IT), Quim Clausell
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djservice/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djservice/)*

@@ -1,6 +1,6 @@
 # Yulia Niko
 
-Yulia Niko is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Yulia Niko is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Yulia Niko is a house and techno artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside ARODES, DJ Tennis and Damian Lazarus. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Yulia Niko is a house and techno artist based in Germany, with 124 gigs on sound
 
 ARODES, DJ Tennis, Damian Lazarus
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/YuliaNiko/)*

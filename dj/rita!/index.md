@@ -1,6 +1,6 @@
 # Rita!
 
-Rita! is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bolero, Seoul on Sat, 7 Nov 2026.
+Rita! is a Club and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bolero, Seoul on Sat, 7 Nov 2026.
 
 Rita! is a club and breakbeat artist, with 8 gigs on soundcheck across Seoul. Often billed alongside MOHOHOMO, AUS10 and HAGY. Next up: Bolero, Seoul on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Rita! is a club and breakbeat artist, with 8 gigs on soundcheck across Seoul. Of
 
 MOHOHOMO, AUS10, HAGY
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rita!/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rita!/)*

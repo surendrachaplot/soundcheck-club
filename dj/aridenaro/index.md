@@ -1,14 +1,13 @@
 # Ari Denaro
 
-Ari Denaro is a Techno and Psytrance artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 6 Nov 2026.
+Ari Denaro is a Techno and Psytrance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at KitKatClub, Berlin on Thu, 12 Nov 2026.
 
-Ari Denaro is a techno and psytrance artist based in Germany, with 17 gigs on soundcheck across Berlin and Milan. Often billed alongside Epicx, Bisk and Anubix. Next up: Der Weiße Hase, Berlin on Fri 6 Nov.
+Ari Denaro is a techno and psytrance artist based in Germany, with 17 gigs on soundcheck across Berlin and Milan. Often billed alongside Epicx, Bisk and Anubix. Next up: KitKatClub, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Der Weiße Hase | Berlin |
 | Thu, 12 Nov 2026 | KitKatClub | Berlin |
 | Fri, 13 Nov 2026 | ROSA | Berlin |
 | Thu, 19 Nov 2026 | Der Weiße Hase | Berlin |
@@ -16,6 +15,7 @@ Ari Denaro is a techno and psytrance artist based in Germany, with 17 gigs on so
 
 ## Recently played
 
+- Der Weiße Hase, Berlin · Fri, 6 Nov 2026
 - Lime Milano, Milan · Sat, 31 Oct 2026
 - Company Club, Milan · Sat, 31 Oct 2026
 - KitKatClub, Berlin · Fri, 9 Oct 2026
@@ -23,10 +23,9 @@ Ari Denaro is a techno and psytrance artist based in Germany, with 17 gigs on so
 - KitKatClub, Berlin · Thu, 10 Sept 2026
 - Der Weiße Hase, Berlin · Sat, 5 Sept 2026
 - Der Weiße Hase, Berlin · Fri, 28 Aug 2026
-- KitKatClub, Berlin · Fri, 21 Aug 2026
 
 ## Shares bills with
 
 Epicx, Bisk, Anubix
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aridenaro/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aridenaro/)*

@@ -1,8 +1,8 @@
 # Insolate
 
-Insolate is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 13 Nov 2026.
+Insolate is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Peti Kupe, Zagreb on Fri, 13 Nov 2026.
 
-Insolate is a techno and house artist based in Croatia, with 60 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 17 more. Often billed alongside GLIA, Asarri and Lady Starlight. Next up: Peti Kupe, Zagreb on Fri 13 Nov.
+Insolate is a techno and house artist based in Croatia, with 61 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside GLIA, Asarri and Lady Starlight. Next up: Peti Kupe, Zagreb on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Insolate is a techno and house artist based in Croatia, with 60 gigs on soundche
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Peti Kupe | Zagreb |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Sat, 19 Dec 2026 | public records | New York City |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Insolate is a techno and house artist based in Croatia, with 60 gigs on soundche
 
 GLIA, Asarri, Lady Starlight
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insolate/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/insolate/)*

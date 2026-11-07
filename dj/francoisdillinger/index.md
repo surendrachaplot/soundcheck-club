@@ -1,6 +1,6 @@
 # Francois Dillinger
 
-Francois Dillinger is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Marble Bar, Detroit on Fri, 27 Nov 2026.
+Francois Dillinger is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Marble Bar, Detroit on Fri, 27 Nov 2026.
 
 Francois Dillinger is a techno and ambient artist based in United States of America, with 17 gigs on soundcheck across Detroit and Toronto. Often billed alongside ADMN, ACE and Craig Gonzalez. Next up: Marble Bar, Detroit on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Francois Dillinger is a techno and ambient artist based in United States of Amer
 
 ADMN, ACE, Craig Gonzalez
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisdillinger/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francoisdillinger/)*

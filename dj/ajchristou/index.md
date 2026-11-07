@@ -1,14 +1,13 @@
 # AJ Christou
 
-AJ Christou is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bar Oriente, Mexico City on Fri, 6 Nov 2026.
+AJ Christou is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Vera Cocina & بار, Washington DC on Fri, 13 Nov 2026.
 
-AJ Christou is a tech house and house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 29 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Bar Oriente, Mexico City on Fri 6 Nov.
+AJ Christou is a tech house and house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 29 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Vera Cocina & بار, Washington DC on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Bar Oriente | Mexico City |
 | Fri, 13 Nov 2026 | Vera Cocina & بار | Washington DC |
 | Sat, 14 Nov 2026 | Formation Brewery | Phoenix |
 | Sat, 28 Nov 2026 | Refuge | New York City |
@@ -16,6 +15,7 @@ AJ Christou is a tech house and house artist based in United Kingdom, with 120 g
 
 ## Recently played
 
+- Bar Oriente, Mexico City · Fri, 6 Nov 2026
 - Mediahaven - Minervahaven, Amsterdam · Fri, 23 Oct 2026
 - Coda, Toronto · Fri, 16 Oct 2026
 - Club Space Miami, Miami · Sat, 10 Oct 2026
@@ -23,10 +23,9 @@ AJ Christou is a tech house and house artist based in United Kingdom, with 120 g
 - Stratus Lounge, Philadelphia · Sun, 30 Aug 2026
 - Smith's Olde Bar, Atlanta · Sat, 29 Aug 2026
 - Thuishaven, Amsterdam · Sun, 23 Aug 2026
-- [UNVRS], Ibiza · Wed, 19 Aug 2026
 
 ## Shares bills with
 
 Mason Collective, Fleur Shore, Jesse Calosso
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*

@@ -1,6 +1,6 @@
 # Aninha
 
-Aninha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 13 Nov 2026.
+Aninha is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at D-Edge RIO, Rio de Janeiro on Fri, 13 Nov 2026.
 
 Aninha is a house and techno artist based in Brazil, with 13 gigs on soundcheck across Brazil, Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside DJ Marky, Amanda Mussi and Ana Dimco. Next up: D-Edge RIO, Rio de Janeiro on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Aninha is a house and techno artist based in Brazil, with 13 gigs on soundcheck 
 
 DJ Marky, Amanda Mussi, Ana Dimco
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aninha/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aninha/)*

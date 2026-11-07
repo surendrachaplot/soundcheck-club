@@ -1,6 +1,6 @@
 # Lauren Thompson
 
-Lauren Thompson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
+Lauren Thompson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at fabric, London on Sat, 28 Nov 2026.
 
 Lauren Thompson is a house and disco artist based in United Kingdom, with 23 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside Davide Del Vecchio, Ronnie Herel and DJ Murrell. Next up: fabric, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Lauren Thompson is a house and disco artist based in United Kingdom, with 23 gig
 
 Davide Del Vecchio, Ronnie Herel, DJ Murrell
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenthompson/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenthompson/)*

@@ -1,6 +1,6 @@
 # Popof
 
-Popof is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Salon Amador, Medellin on Sat, 7 Nov 2026.
+Popof is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Salon Amador, Medellin on Sat, 7 Nov 2026.
 
 Popof is a techno and tech house artist based in France, with 58 gigs on soundcheck across Austin, Bangkok, Barcelona and Bogotá and 22 more. Often billed alongside Space 92, KRS and Anfisa Letyago. Next up: Salon Amador, Medellin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Popof is a techno and tech house artist based in France, with 58 gigs on soundch
 
 Space 92, KRS, Anfisa Letyago
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/popof/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/popof/)*

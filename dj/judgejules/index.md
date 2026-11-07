@@ -1,6 +1,6 @@
 # Judge Jules
 
-Judge Jules is a Trance and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lakota, Bristol on Sat, 7 Nov 2026.
+Judge Jules is a Trance and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lakota, Bristol on Sat, 7 Nov 2026.
 
 Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs on soundcheck across Aberdeen, Adelaide, Auckland and Belfast and 17 more. Often billed alongside Seb Fontaine, Mauro Picotto and Billy Gillies. Next up: Lakota, Bristol on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Judge Jules is a trance and house artist based in United Kingdom, with 37 gigs o
 
 Seb Fontaine, Mauro Picotto, Billy Gillies
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/judgejules/)*

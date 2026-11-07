@@ -1,6 +1,6 @@
 # Arca
 
-Arca is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Take It Easy x Rinse with Dr Banana" on Sat, 7 Nov 2026.
+Arca is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Take It Easy x Rinse with Dr Banana" on Sat, 7 Nov 2026.
 
 Arca is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including BLUME, Bugsy, Davide D'Amico and Diamantha and 2 more. See dates, start times and who's playing. Via Rimini, 38 20142 Milan, Italy.
 
@@ -18,4 +18,4 @@ Arca is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-
 
 Via Rimini, 38 20142 Milan, Italy, Milan
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/arca/)*

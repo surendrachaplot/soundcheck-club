@@ -1,6 +1,6 @@
 # Brigado Crew
 
-Brigado Crew is a Techno and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Weekend, Berlin on Fri, 18 Dec 2026.
+Brigado Crew is a Techno and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Weekend, Berlin on Fri, 18 Dec 2026.
 
 Brigado Crew is a techno and progressive house artist based in Argentina, with 73 gigs on soundcheck across Antwerp, Argentina, Bangalore and Barcelona and 22 more. Often billed alongside Konstantin Sibold, VMM DJ For Fun and ACCARD. Next up: Weekend, Berlin on Fri 18 Dec.
 
@@ -29,4 +29,4 @@ Brigado Crew is a techno and progressive house artist based in Argentina, with 7
 
 Konstantin Sibold, VMM DJ For Fun, ACCARD
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brigadocrew/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brigadocrew/)*

@@ -1,6 +1,6 @@
 # Radius
 
-Radius is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tigris, Detroit on Sat, 7 Nov 2026.
+Radius is a Experimental and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tigris, Detroit on Sat, 7 Nov 2026.
 
 Radius is an experimental and hip-hop artist based in United States of America, with 18 gigs on soundcheck across Berlin, Chicago, Detroit and Mexico City and 2 more. Often billed alongside Ben Diggins, Alex Pi and Armand. Next up: Tigris, Detroit on Sat 7 Nov.
 
@@ -9,7 +9,7 @@ Radius is an experimental and hip-hop artist based in United States of America, 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Tigris | Detroit |
-| Thu, 12 Nov 2026 | Public Works Gallery | Chicago |
+| Fri, 13 Nov 2026 | Public Works Gallery | Chicago |
 
 ## Recently played
 
@@ -26,4 +26,4 @@ Radius is an experimental and hip-hop artist based in United States of America, 
 
 Ben Diggins, Alex Pi, Armand
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radius/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/radius/)*

@@ -1,6 +1,6 @@
 # Metamoksha
 
-Metamoksha is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Blank Site, Seoul on Sat, 21 Nov 2026.
+Metamoksha is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Blank Site, Seoul on Sat, 21 Nov 2026.
 
 Metamoksha is a techno and hardcore artist based in Singapore, with 24 gigs on soundcheck across Bangkok, Ho Chi Minh City, Kuala Lumpur and Seoul and 1 more. Often billed alongside rEmPiT g0dDe$$, howrøng and nydthakid. Next up: Blank Site, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Metamoksha is a techno and hardcore artist based in Singapore, with 24 gigs on s
 
 rEmPiT g0dDe$$, howrøng, nydthakid
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metamoksha/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metamoksha/)*

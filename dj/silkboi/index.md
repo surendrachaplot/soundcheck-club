@@ -1,6 +1,6 @@
 # SilkBoi
 
-SilkBoi is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 7 Nov 2026.
+SilkBoi is a Hip-Hop and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 7 Nov 2026.
 
 SilkBoi is a hip-hop and club artist based in China, with 33 gigs on soundcheck across Beijing, Chengdu, Hong Kong and Seoul and 2 more. Often billed alongside Kilo Vee, kongbb and Tohji. Next up: Reactor Shanghai, Shanghai on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ SilkBoi is a hip-hop and club artist based in China, with 33 gigs on soundcheck 
 
 Kilo Vee, kongbb, Tohji
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silkboi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silkboi/)*

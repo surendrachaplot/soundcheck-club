@@ -1,6 +1,6 @@
 # ROXY
 
-ROXY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Shelter, Seoul on Sat, 7 Nov 2026.
+ROXY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Shelter, Seoul on Sat, 7 Nov 2026.
 
 ROXY is a techno and house artist based in South Korea, with 61 gigs on soundcheck across Barcelona, Madrid and Seoul. Often billed alongside Cy Nico, GaGi and Gumi. Next up: Shelter, Seoul on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ ROXY is a techno and house artist based in South Korea, with 61 gigs on soundche
 
 Cy Nico, GaGi, Gumi
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/roxy/)*

@@ -1,6 +1,6 @@
 # SJAYY
 
-SJAYY is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
+SJAYY is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
 
 SJAYY is a club and hip-hop artist based in United States of America, with 37 gigs on soundcheck across Chicago, Los Angeles, New York City and Philadelphia and 3 more. Often billed alongside VICTORIA MOURA, baby.com and Giselle Peppers. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
 
@@ -12,6 +12,7 @@ SJAYY is a club and hip-hop artist based in United States of America, with 37 gi
 
 ## Recently played
 
+- TBA - DTLA, Los Angeles · Fri, 6 Nov 2026
 - Lovenote, Los Angeles · Sat, 3 Oct 2026
 - TBA - DTLA, Los Angeles · Fri, 28 Aug 2026
 - De La Playa Records & Leisure, Los Angeles · Sat, 25 Jul 2026
@@ -19,10 +20,9 @@ SJAYY is a club and hip-hop artist based in United States of America, with 37 gi
 - The Virgil, Los Angeles · Sat, 11 Jul 2026
 - TBA - DTLA, Los Angeles · Fri, 26 Jun 2026
 - Mi Sabor Cafe, New York City · Sat, 20 Jun 2026
-- TBA - DTLA, Los Angeles · Fri, 22 May 2026
 
 ## Shares bills with
 
 VICTORIA MOURA, baby.com, Giselle Peppers
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sjayy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sjayy/)*

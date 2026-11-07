@@ -1,6 +1,6 @@
 # Cameron Kelly
 
-Cameron Kelly is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bob and Barbara’s Lounge, Philadelphia on Fri, 6 Nov 2026.
+Cameron Kelly is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bob and Barbara’s Lounge, Philadelphia on Fri, 6 Nov 2026.
 
 Cameron Kelly is a house and disco artist based in United States of America, with 17 gigs on soundcheck across New Orleans, New York City and Philadelphia. Often billed alongside Tommy HoGunz, 1CLUE. and Anne Fahn. Next up: Bob and Barbara’s Lounge, Philadelphia on Fri 6 Nov.
 
@@ -13,6 +13,7 @@ Cameron Kelly is a house and disco artist based in United States of America, wit
 
 ## Recently played
 
+- Bob and Barbara’s Lounge, Philadelphia · Fri, 6 Nov 2026
 - Penn Treaty Park, Philadelphia · Sun, 18 Oct 2026
 - Penn Treaty Park, Philadelphia · Sun, 9 Aug 2026
 - Penn Treaty Park, Philadelphia · Sun, 12 Jul 2026
@@ -20,10 +21,9 @@ Cameron Kelly is a house and disco artist based in United States of America, wit
 - Penn Treaty Park, Philadelphia · Sun, 12 Apr 2026
 - Penn Treaty Park, Philadelphia · Sun, 12 Oct 2025
 - Philly Aids Thrift, Philadelphia · Fri, 10 Oct 2025
-- Penn Treaty Park, Philadelphia · Sun, 14 Sept 2025
 
 ## Shares bills with
 
 Tommy HoGunz, 1CLUE., Anne Fahn
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronkelly/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cameronkelly/)*

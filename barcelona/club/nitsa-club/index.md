@@ -1,14 +1,13 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · Acidnena · AMANTRA" on Fri, 6 Nov 2026.
+Nitsa Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Reinier Zonneveld Live · Lucia Gea / Bambounou · CCINNI" on Sat, 7 Nov 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including 2ManyDJs, Acidnena, AMANTRA and Bad Boombox and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including 2ManyDJs, Bambounou, Bofirax and CCINNI and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Hot Meal Records: Bad Boombox · Mija · lizaliza / horsegiirL · Acidnena · AMANTRA | AMANTRA, Acidnena, Bad Boombox, Mija, horsegiirL, lizaliza |
 | Sat, 7 Nov 2026 | Reinier Zonneveld Live · Lucia Gea / Bambounou · CCINNI | Bambounou, CCINNI, Lucía Gea, Reinier Zonneveld |
 | Fri, 13 Nov 2026 | oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy | Bofirax, DJ Python, Isa Rojas, RHR, oskar med k |
 | Sat, 14 Nov 2026 | SOUNDIT Club: Palms Trax All Night Long / POGO: Mietze Conte · ideasforconversations | Mietze Conte, Palms Trax |
@@ -22,4 +21,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, 
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

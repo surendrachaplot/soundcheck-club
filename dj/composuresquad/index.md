@@ -1,6 +1,6 @@
 # Composuresquad
 
-Composuresquad is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Swig, Chicago on Thu, 19 Nov 2026.
+Composuresquad is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Swig, Chicago on Thu, 19 Nov 2026.
 
 Composuresquad is a club and techno artist, with 19 gigs on soundcheck across Chicago and Mexico City. Often billed alongside COBRA B, CQQCHiFRUIT and Duke Shin. Next up: Swig, Chicago on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Composuresquad is a club and techno artist, with 19 gigs on soundcheck across Ch
 
 COBRA B, CQQCHiFRUIT, Duke Shin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/composuresquad/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/composuresquad/)*

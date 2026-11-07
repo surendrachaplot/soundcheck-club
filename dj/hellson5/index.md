@@ -1,6 +1,6 @@
 # Hellson5
 
-Hellson5 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Notorius Club, Central on Sat, 7 Nov 2026.
+Hellson5 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Notorius Club, Central on Sat, 7 Nov 2026.
 
 Hellson5 is a techno and trance artist based in Italy, with 13 gigs on soundcheck across Central, Milan, Rome and Turin. Often billed alongside RESA UTOPICA, Amo (IT) and DOCTOR MÜCKE. Next up: Notorius Club, Central on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hellson5 is a techno and trance artist based in Italy, with 13 gigs on soundchec
 
 RESA UTOPICA, Amo (IT), DOCTOR MÜCKE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellson5/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellson5/)*

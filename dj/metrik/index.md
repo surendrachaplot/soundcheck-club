@@ -1,6 +1,6 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
+Metrik is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
 
 Metrik is a drum & bass and bass artist based in United Kingdom, with 69 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 29 more. Often billed alongside Degs, Camo & Krooked and Whiney. Next up: Mina Museum, Cluj Napoca on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Metrik is a drum & bass and bass artist based in United Kingdom, with 69 gigs on
 
 Degs, Camo & Krooked, Whiney
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/metrik/)*

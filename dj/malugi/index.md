@@ -1,6 +1,6 @@
 # MALUGI
 
-MALUGI is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+MALUGI is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 MALUGI is a techno and house artist based in Germany, with 256 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 68 more. Often billed alongside Marlon Hoffstadt, Surf 2 Glory and DJ Heartstring. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -20,6 +20,7 @@ MALUGI is a techno and house artist based in Germany, with 256 gigs on soundchec
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Refuge, New York City · Thu, 5 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
@@ -27,10 +28,9 @@ MALUGI is a techno and house artist based in Germany, with 256 gigs on soundchec
 - The Loft Amsterdam, Amsterdam · Thu, 22 Oct 2026
 - Paradiso, Amsterdam · Wed, 21 Oct 2026
 - Depot Mayfield, Manchester · Sat, 10 Oct 2026
-- De Papierfabriek, Nijmegen · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Marlon Hoffstadt, Surf 2 Glory, DJ Heartstring
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malugi/)*

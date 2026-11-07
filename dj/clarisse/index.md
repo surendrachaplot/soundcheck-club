@@ -1,6 +1,6 @@
 # Clarisse
 
-Clarisse is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at AMT, Berlin on Tue, 10 Nov 2026.
+Clarisse is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at AMT, Berlin on Tue, 10 Nov 2026.
 
 Clarisse is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Calcium Channel, GIA and Hypatia. Next up: AMT, Berlin on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Clarisse is a techno and trance artist based in Germany, with 14 gigs on soundch
 
 Calcium Channel, GIA, Hypatia
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisse/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/clarisse/)*

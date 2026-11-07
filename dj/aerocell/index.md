@@ -1,6 +1,6 @@
 # Aerocell
 
-Aerocell is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at MODULE, Copenhagen on Thu, 19 Nov 2026.
+Aerocell is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at MODULE, Copenhagen on Thu, 19 Nov 2026.
 
 Aerocell is a techno and trance artist based in Denmark, with 3 gigs on soundcheck across Copenhagen. Often billed alongside Ziggy Stardubb, avoN and B From E. Next up: MODULE, Copenhagen on Thu 19 Nov.
 
@@ -19,4 +19,4 @@ Aerocell is a techno and trance artist based in Denmark, with 3 gigs on soundche
 
 Ziggy Stardubb, avoN, B From E
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerocell/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerocell/)*

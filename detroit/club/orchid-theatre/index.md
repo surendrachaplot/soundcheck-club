@@ -1,6 +1,6 @@
 # Orchid Theatre
 
-Orchid Theatre is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "RAVECLUB: Indie Sleaze" on Fri, 6 Nov 2026.
+Orchid Theatre is a music venue in Detroit with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "RAVECLUB: Indie Sleaze" on Fri, 6 Nov 2026.
 
 Orchid Theatre is a music venue in Detroit listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 141 W Nine Mile Rd, Ferndale, MI 48220.
 
@@ -14,4 +14,4 @@ Orchid Theatre is a music venue in Detroit listed on soundcheck. 1 upcoming gig.
 
 141 W Nine Mile Rd, Ferndale, MI 48220, Detroit
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/orchid-theatre/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/orchid-theatre/)*

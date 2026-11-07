@@ -1,6 +1,6 @@
 # A.tari
 
-A.tari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Sendlinger-tor-platz 11, 80336 München, Munich on Fri, 18 Dec 2026.
+A.tari is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Sendlinger-tor-platz 11, 80336 München, Munich on Fri, 18 Dec 2026.
 
 A.tari is a house and disco artist based in Germany, with 30 gigs on soundcheck across Berlin and Munich. Often billed alongside Kapote, Arpy Brown and Max NRG Supply. Next up: TBA - Sendlinger-tor-platz 11, 80336 München, Munich on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ A.tari is a house and disco artist based in Germany, with 30 gigs on soundcheck 
 
 Kapote, Arpy Brown, Max NRG Supply
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.tari/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a.tari/)*

@@ -1,6 +1,6 @@
 # A-Sides
 
-A-Sides is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+A-Sides is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
 A-Sides is a drum & bass and jungle artist based in United Kingdom, with 13 gigs on soundcheck across Amsterdam, Brighton, Budapest and Dubai and 2 more. Often billed alongside Bryan Gee, Dillinja and IC3. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ A-Sides is a drum & bass and jungle artist based in United Kingdom, with 13 gigs
 
 Bryan Gee, Dillinja, IC3
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asides/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asides/)*

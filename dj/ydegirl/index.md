@@ -1,6 +1,6 @@
 # Ydegirl
 
-Ydegirl is a R&B and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mayhem, Copenhagen on Fri, 13 Nov 2026.
+Ydegirl is a R&B and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mayhem, Copenhagen on Fri, 13 Nov 2026.
 
 Ydegirl is a r&b and techno artist based in Denmark, with 11 gigs on soundcheck across Brussels, Copenhagen and London. Often billed alongside Xenia Xamanek, Malika Mahmoud and Melodi Ghazal. Next up: Mayhem, Copenhagen on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Ydegirl is a r&b and techno artist based in Denmark, with 11 gigs on soundcheck 
 
 Xenia Xamanek, Malika Mahmoud, Melodi Ghazal
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ydegirl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ydegirl/)*

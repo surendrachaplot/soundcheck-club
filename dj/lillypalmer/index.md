@@ -1,6 +1,6 @@
 # Lilly Palmer
 
-Lilly Palmer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ministry Of Sound, London on Sat, 7 Nov 2026.
+Lilly Palmer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Ministry Of Sound, London on Sat, 7 Nov 2026.
 
 Lilly Palmer is a techno and house artist based in Switzerland, with 173 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 69 more. Often billed alongside Gregor Tresher, I Hate Models and Reinier Zonneveld. Next up: Ministry Of Sound, London on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Lilly Palmer is a techno and house artist based in Switzerland, with 173 gigs on
 
 Gregor Tresher, I Hate Models, Reinier Zonneveld
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lillypalmer/)*

@@ -1,6 +1,6 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at REC Napoli, Naples on Sat, 7 Nov 2026.
+Jen Cardini is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at REC Napoli, Naples on Sat, 7 Nov 2026.
 
 Jen Cardini is a techno and house artist based in France, with 294 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 78 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: REC Napoli, Naples on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Jen Cardini is a techno and house artist based in France, with 294 gigs on sound
 
 Pablo Bozzi, BASHKKA, KI/KI
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jencardini/)*

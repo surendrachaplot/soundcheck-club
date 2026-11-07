@@ -1,14 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Texture with Pariah b2b Verraco" on Fri, 6 Nov 2026.
+Marble Bar is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "SPECTRO 006" on Sat, 7 Nov 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, with line-ups including 1-800-CALL-ASH, Adam X, AIDEL and Amino and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including 1-800-CALL-ASH, Adam X, AIDEL and Amino and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Texture with Pariah b2b Verraco | Green River Haze, Pariah, Verraco |
 | Sat, 7 Nov 2026 | SPECTRO 006 | 1-800-CALL-ASH, Curmudgeon, Detroit Techno Militia 2x4, LATEX GIRL |
 | Sat, 7 Nov 2026 | Amtrac [live] with A Jaske | Amtrac |
 | Fri, 13 Nov 2026 | GHETTOTECHTOPIA | Blackmoonchild, Isaac Prieto, Sheefy McFly |
@@ -18,9 +17,10 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 11 upcoming gigs, w
 | Sat, 21 Nov 2026 | 12 Hour Party feat. John Acquaviva | John Acquaviva |
 | Fri, 27 Nov 2026 | Adam X - Craig Gonzalez b2b Francois Dillinger - + more - Marble Bar | Adam X, Craig Gonzalez, Francois Dillinger, Fusegrade, Kobe Dupree, mira (5) |
 | Thu, 10 Dec 2026 | The Occasional Thursday Party with S.P.Y and Friends | MagickTraxx, S.P.Y, The Chancellor |
+| Thu, 31 Dec 2026 | New Year's Eve with Reptant (live), Pearson Sound, Roman Flugel, DJ Pierre, | DJ Pierre, Eddie Fowlkes, Norm Talley, Pearson Sound, Reptant, Roman Flügel, Whodat, mirepoix |
 
 ## Address
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

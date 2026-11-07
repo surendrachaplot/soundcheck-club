@@ -1,6 +1,6 @@
 # Juno (NY)
 
-Juno (NY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nowadays, New York City on Sat, 19 Dec 2026.
+Juno (NY) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nowadays, New York City on Sat, 19 Dec 2026.
 
 Juno (NY) is a techno and house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Berlin, Chicago and Cologne and 7 more. Often billed alongside LINDA (US), 1morning and KYRUH. Next up: Nowadays, New York City on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Juno (NY) is a techno and house artist based in United States of America, with 3
 
 LINDA (US), 1morning, KYRUH
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juno-2/)*

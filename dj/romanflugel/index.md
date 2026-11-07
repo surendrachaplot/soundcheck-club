@@ -1,14 +1,13 @@
 # Roman Flügel
 
-Roman Flügel is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at RASA, Singapore on Fri, 6 Nov 2026.
+Roman Flügel is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Modeci, Seoul on Thu, 12 Nov 2026.
 
-Roman Flügel is a techno and house artist based in Germany, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 79 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: RASA, Singapore on Fri 6 Nov.
+Roman Flügel is a techno and house artist based in Germany, with 233 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 79 more. Often billed alongside Gerd Janson, Sven Vath and Ivan Smagghe. Next up: Modeci, Seoul on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | RASA | Singapore |
 | Thu, 12 Nov 2026 | Modeci | Seoul |
 | Fri, 13 Nov 2026 | WOMB | Tokyo |
 | Tue, 17 Nov 2026 | GASHOUDER | Amsterdam |
@@ -16,12 +15,14 @@ Roman Flügel is a techno and house artist based in Germany, with 232 gigs on so
 | Sat, 28 Nov 2026 | Bassiani | Tbilisi |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
 | Sat, 5 Dec 2026 | DRUMSHEDS | London |
+| Sat, 19 Dec 2026 | Specka | Madrid |
 | Sat, 26 Dec 2026 | Galerie Kurzweil | Darmstadt |
 | Thu, 31 Dec 2026 | Marble Bar | Detroit |
 | Thu, 31 Dec 2026 | Signal | New York City |
 
 ## Recently played
 
+- RASA, Singapore · Fri, 6 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 31 Oct 2026
 - Karmakoma, Belgrade · Fri, 30 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
@@ -29,10 +30,9 @@ Roman Flügel is a techno and house artist based in Germany, with 232 gigs on so
 - 3oz Dive Club, San Diego · Sat, 10 Oct 2026
 - TBA - DTLA, Los Angeles · Fri, 9 Oct 2026
 - control, Bucharest · Sat, 3 Oct 2026
-- FOLD, London · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Gerd Janson, Sven Vath, Ivan Smagghe
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanflugel/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romanflugel/)*

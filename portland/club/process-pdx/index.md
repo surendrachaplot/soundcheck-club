@@ -1,14 +1,13 @@
 # Process PDX
 
-Process PDX is a music venue in Portland with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Process Club Night - re:ni, Hodge, Succubass" on Fri, 6 Nov 2026.
+Process PDX is a music venue in Portland with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Process Residency Night - Neutron Dance: Derek Plaslaiko all night long" on Sat, 7 Nov 2026.
 
-Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming gigs, with line-ups including Amtrac, Danny Goliger, Derek Plaslaiko and DJ Eft and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
+Process PDX is a music venue in Portland listed on soundcheck. 8 upcoming gigs, with line-ups including Amtrac, Danny Goliger, Derek Plaslaiko and DJ Eft and 2 more. See dates, start times and who's playing. 5040 SE Milwaukie Ave. Portland, OR, 97202.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Process Club Night - re:ni, Hodge, Succubass | Hodge, Succubass, re:ni |
 | Sat, 7 Nov 2026 | Process Residency Night - Neutron Dance: Derek Plaslaiko all night long | Derek Plaslaiko |
 | Fri, 13 Nov 2026 | Peace Portal 10 Year Anniversary | 'nohup', Feu du Camp, Petite Syrah, Seelene |
 | Fri, 13 Nov 2026 | Party Politics: A Panel presented by Peace Portal | 'nohup', Seelene, Trustfall |
@@ -22,4 +21,4 @@ Process PDX is a music venue in Portland listed on soundcheck. 9 upcoming gigs, 
 
 5040 SE Milwaukie Ave. Portland, OR, 97202, Portland
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/process-pdx/)*

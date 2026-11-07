@@ -1,13 +1,14 @@
 # Posner
 
-Posner is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Blå, Oslo on Sat, 19 Dec 2026.
+Posner is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Villa, Oslo on Fri, 13 Nov 2026.
 
-Posner is a techno and breakbeat artist based in Norway, with 26 gigs on soundcheck across Bergen, Helsinki, Oslo and Tokyo. Often billed alongside HIMAWARI, Niilas and Abiu. Next up: Blå, Oslo on Sat 19 Dec.
+Posner is a techno and bass artist based in Norway, with 27 gigs on soundcheck across Bergen, Helsinki, Oslo and Tokyo. Often billed alongside HIMAWARI, Niilas and Abiu. Next up: The Villa, Oslo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | The Villa | Oslo |
 | Sat, 19 Dec 2026 | Blå | Oslo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Posner is a techno and breakbeat artist based in Norway, with 26 gigs on soundch
 
 HIMAWARI, Niilas, Abiu
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/posner/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/posner/)*

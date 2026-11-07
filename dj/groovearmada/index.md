@@ -1,6 +1,6 @@
 # Groove Armada
 
-Groove Armada is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
+Groove Armada is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 7 Nov 2026.
 
 Groove Armada is a house and disco artist based in United Kingdom, with 89 gigs on soundcheck across Antwerp, Athens, Auckland and Austria and 22 more. Often billed alongside Eats Everything, The Shapeshifters and Melvo Baptiste. Next up: Depot Mayfield, Manchester on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Groove Armada is a house and disco artist based in United Kingdom, with 89 gigs 
 
 Eats Everything, The Shapeshifters, Melvo Baptiste
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovearmada/)*

@@ -1,6 +1,6 @@
 # Vitling
 
-Vitling is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 22 Nov 2026.
+Vitling is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 22 Nov 2026.
 
 Vitling is a bass and house artist based in United Kingdom, with 16 gigs on soundcheck across Berlin. Often billed alongside Robot Girlfriend, 80HDJ and Heath Swedger. Next up: Crack Bellmer, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Vitling is a bass and house artist based in United Kingdom, with 16 gigs on soun
 
 Robot Girlfriend, 80HDJ, Heath Swedger
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitling/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vitling/)*

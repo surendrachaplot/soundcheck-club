@@ -1,6 +1,6 @@
 # Nils Primas
 
-Nils Primas is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
+Nils Primas is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Schrotty, Cologne on Fri, 20 Nov 2026.
 
 Nils Primas is a techno and trance artist based in Germany, with 28 gigs on soundcheck across Berlin, Cologne, Dortmund / Essen and Frankfurt and 1 more. Often billed alongside Kacy, Amilli and Formale Bassgestaltung. Next up: Schrotty, Cologne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nils Primas is a techno and trance artist based in Germany, with 28 gigs on soun
 
 Kacy, Amilli, Formale Bassgestaltung
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsprimas/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nilsprimas/)*

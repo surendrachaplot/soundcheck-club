@@ -1,6 +1,6 @@
 # Lauschangriff
 
-Lauschangriff is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is ">>How many Mics?!?<< (Open Mic with DJ BOOM BAP)" on Thu, 19 Nov 2026.
+Lauschangriff is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is ">>How many Mics?!?<< (Open Mic with DJ BOOM BAP)" on Thu, 19 Nov 2026.
 
 Lauschangriff is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rigaer Strasse 103; Friedrichshain; 10247 Berlin; Germany.
 
@@ -14,4 +14,4 @@ Lauschangriff is a music venue in Berlin listed on soundcheck. 1 upcoming gig. S
 
 Rigaer Strasse 103; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lauschangriff/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lauschangriff/)*

@@ -1,6 +1,6 @@
 # SINN3R
 
-SINN3R is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Mash House, Edinburgh on Thu, 19 Nov 2026.
+SINN3R is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Mash House, Edinburgh on Thu, 19 Nov 2026.
 
 SINN3R is a techno and electronica artist based in United Kingdom, with 14 gigs on soundcheck across Dundee and Edinburgh. Often billed alongside Dan Jakson, ROXAN (UK) and EVSKA. Next up: The Mash House, Edinburgh on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ SINN3R is a techno and electronica artist based in United Kingdom, with 14 gigs 
 
 Dan Jakson, ROXAN (UK), EVSKA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinn3r/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinn3r/)*

@@ -1,6 +1,6 @@
 # MAVALU
 
-MAVALU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Flinders, Sydney on Fri, 11 Dec 2026.
+MAVALU is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Flinders, Sydney on Fri, 11 Dec 2026.
 
 MAVALU is a techno and industrial artist based in Germany, with 19 gigs on soundcheck across Munich and Sydney. Often billed alongside Medusa, Noise Not War and NØMERCY. Next up: The Flinders, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ MAVALU is a techno and industrial artist based in Germany, with 19 gigs on sound
 
 Medusa, Noise Not War, NØMERCY
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mavalu/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mavalu/)*

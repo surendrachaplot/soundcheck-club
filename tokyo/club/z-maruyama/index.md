@@ -1,14 +1,13 @@
 # Z Maruyama
 
-Z Maruyama is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "PLAY OF COLOR PRESENTS 'THE SWIRL' VOL.7 FEAT. FIRZA (DEEP TECH / TECH HOUSE / HOUSE)" on Fri, 6 Nov 2026.
+Z Maruyama is a music venue in Tokyo with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "PARADIGM × SYNTH (TECHNO / HOUSE)" on Sat, 7 Nov 2026.
 
-Z Maruyama is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including ACHIRI, AHREUM, Amps and ASSIGN and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
+Z Maruyama is a music venue in Tokyo listed on soundcheck. 13 upcoming gigs, with line-ups including ACHIRI, AHREUM, ASSIGN and B and 2 more. See dates, start times and who's playing. 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | PLAY OF COLOR PRESENTS 'THE SWIRL' VOL.7 FEAT. FIRZA (DEEP TECH / TECH HOUSE / HOUSE) | Amps, FIRZA, GooPer, ISPA, Saeri, Yuta Yamada |
 | Sat, 7 Nov 2026 | PARADIGM × SYNTH (TECHNO / HOUSE) | B (379), Rickey Shannon |
 | Thu, 12 Nov 2026 | FLAT401: DIG DEEPER (TECHNO) | ACHIRI, Emilio, MYUMA |
 | Fri, 13 Nov 2026 | NERO 2nd Anniversary - Face 2 Face (HARD TECHNO) | DALJAE, IPPØ, KAITO (5), KATSU (2), samJ |
@@ -17,10 +16,11 @@ Z Maruyama is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, wit
 | Thu, 19 Nov 2026 | Bunker × Encode Welcomes Florian Picasso |  |
 | Fri, 20 Nov 2026 | MYSTIC PULSE -GET FUNKY, STAY GROOVY- (HOUSE) | RUKE, dj yumi-cco |
 | Sat, 21 Nov 2026 | Otakutokyo Presents Progressive Session (PROGRESSIVE HOUSE / TECHNO) | Conures (DJ Tokunaga), Drunken Kong, SHIRO, Tuyetmizuno |
-| Sun, 22 Nov 2026 | JAZZTRONIK 'SAMURAI' DJ TOUR IN TOKYO WITH The Library | The Library |
+| Sun, 22 Nov 2026 | JAZZTRONIK 'SAMURAI' DJ TOUR IN TOKYO WITH The Library (HOUSE) | The Library |
+| Fri, 27 Nov 2026 | HOUSE SESSION WITH RED RUBY (HOUSE / TECH HOUSE) | Chika Luna, GooPer, Onsawa&tkc |
 
 ## Address
 
 1F 2-4 Maruyamacho Shibuya-ku Tokyo 150-0044, Tokyo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/z-maruyama/)*

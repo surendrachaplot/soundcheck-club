@@ -1,6 +1,6 @@
 # Ferg
 
-Ferg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
+Ferg is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 5 Dec 2026.
 
 Ferg is a house and tech house artist based in United Kingdom, with 14 gigs on soundcheck across Barcelona, Berlin, Cardiff and Ibiza and 5 more. Often billed alongside Brennan, Brennan and James Andrew. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ferg is a house and tech house artist based in United Kingdom, with 14 gigs on s
 
 Brennan, Brennan (2), James Andrew
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferg/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferg/)*

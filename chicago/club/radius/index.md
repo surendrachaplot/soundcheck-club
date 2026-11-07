@@ -1,15 +1,13 @@
 # Radius
 
-Radius is a music venue in Chicago with 27 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Kaskade" on Fri, 6 Nov 2026.
+Radius is a music venue in Chicago with 26 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Carl Cox" on Sat, 7 Nov 2026.
 
-Radius is a music venue in Chicago listed on soundcheck. 27 upcoming gigs, with line-ups including 10cust, Adiel, AEREA and Armand Van Helden and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
+Radius is a music venue in Chicago listed on soundcheck. 26 upcoming gigs, with line-ups including 10cust, Adiel, AEREA and Armand Van Helden and 2 more. See dates, start times and who's playing. 640 West Cermak Road Chicago, Illinois 60616, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Kaskade | Kaskade |
-| Fri, 6 Nov 2026 | Rossi. at Cermak Hall | Dean Turnley, Moorhaus, Rossi |
 | Sat, 7 Nov 2026 | Carl Cox | Carl Cox, Toman |
 | Thu, 12 Nov 2026 | Frost Children | Frost Children |
 | Fri, 13 Nov 2026 | Westend at Cermak Hall |  |
@@ -18,9 +16,11 @@ Radius is a music venue in Chicago listed on soundcheck. 27 upcoming gigs, with 
 | Fri, 20 Nov 2026 | PROSPA presents Prophecy |  |
 | Fri, 20 Nov 2026 | AEREA at Cermak Hall | AEREA, Adiel, Clara Cuvé |
 | Sat, 21 Nov 2026 | Madeon | Madeon |
+| Wed, 25 Nov 2026 | Bonobo (Live) | Bonobo |
+| Fri, 27 Nov 2026 | Josh Baker | Josh Baker |
 
 ## Address
 
 640 West Cermak Road Chicago, Illinois 60616, USA, Chicago
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/radius/)*

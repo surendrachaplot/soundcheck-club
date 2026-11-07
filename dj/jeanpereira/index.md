@@ -1,6 +1,6 @@
 # Jean Pereira
 
-Jean Pereira is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Praça Olavo Bilac, 87 - Campos Elíseos, São Paulo - SP, 01201-050, Brasil, Sao Paulo on Sat, 7 Nov 2026.
+Jean Pereira is a Balearic and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Praça Olavo Bilac, 87 - Campos Elíseos, São Paulo - SP, 01201-050, Brasil, Sao Paulo on Sat, 7 Nov 2026.
 
 Jean Pereira is a balearic and disco artist, with 12 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Veraneio, Akin/Non Exist and Paulete Lindacelva. Next up: TBA - Praça Olavo Bilac, 87 - Campos Elíseos, São Paulo - SP, 01201-050, Brasil, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Jean Pereira is a balearic and disco artist, with 12 gigs on soundcheck across R
 
 Veraneio, Akin/Non Exist, Paulete Lindacelva
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpereira/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeanpereira/)*

@@ -1,6 +1,6 @@
 # Carlita
 
-Carlita is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Carlita is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
 Carlita is a house and techno artist based in Turkey, with 213 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside DJ Tennis, Seth Troxler and Prospa. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Carlita is a house and techno artist based in Turkey, with 213 gigs on soundchec
 
 DJ Tennis, Seth Troxler, Prospa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carlita/)*

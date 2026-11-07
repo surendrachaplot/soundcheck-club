@@ -1,6 +1,6 @@
 # DJ Assault
 
-DJ Assault is a Ghetto Tech and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
+DJ Assault is a Ghetto Tech and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
 
 DJ Assault is a ghetto tech and techno artist based in United States of America, with 184 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 51 more. Often billed alongside Fullbodydurag, Detroit In Effect and DJ Godfather. Next up: The Ground at Club Space, Miami on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ DJ Assault is a ghetto tech and techno artist based in United States of America,
 
 Fullbodydurag, Detroit In Effect, DJ Godfather
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djassault/)*

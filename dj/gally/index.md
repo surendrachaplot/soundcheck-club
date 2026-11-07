@@ -1,6 +1,6 @@
 # GALLY
 
-GALLY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 7 Nov 2026.
+GALLY is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cabaret Voltaire, Edinburgh on Sat, 7 Nov 2026.
 
 GALLY is a house and tech house artist based in United Kingdom, with 8 gigs on soundcheck across Edinburgh, Leeds and London. Often billed alongside AUDIO DUNE, Cam Foster and Dean Campbell. Next up: Cabaret Voltaire, Edinburgh on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ GALLY is a house and tech house artist based in United Kingdom, with 8 gigs on s
 
 AUDIO DUNE, Cam Foster, Dean Campbell
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gally/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gally/)*

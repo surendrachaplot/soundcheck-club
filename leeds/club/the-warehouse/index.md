@@ -1,6 +1,6 @@
 # The Warehouse
 
-The Warehouse is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Culture Shock" on Sat, 7 Nov 2026.
+The Warehouse is a music venue in Leeds with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Culture Shock" on Sat, 7 Nov 2026.
 
 The Warehouse is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, with line-ups including Andy C, ATRIP, Charlotte Ord and Culture Shock and 2 more. See dates, start times and who's playing. 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom.
 
@@ -20,4 +20,4 @@ The Warehouse is a music venue in Leeds listed on soundcheck. 7 upcoming gigs, w
 
 19-21 Somers Street; Leeds; LS1 2RG; United Kingdom, Leeds
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-warehouse/)*

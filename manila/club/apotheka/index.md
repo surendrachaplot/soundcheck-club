@@ -1,14 +1,13 @@
 # Apotheka
 
-Apotheka is a music venue in Manila with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Eighth Floor: Temple of Rhythm" on Fri, 6 Nov 2026.
+Apotheka is a music venue in Manila with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ADM/IT presents: GI-BUNAL, A New Wave from Mindanao" on Sat, 7 Nov 2026.
 
-Apotheka is a music venue in Manila listed on soundcheck. 5 upcoming gigs, with line-ups including Duality, Kugel and Shaoxing. See dates, start times and who's playing. G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines.
+Apotheka is a music venue in Manila listed on soundcheck. 4 upcoming gigs, with line-ups including Duality, Kugel and Shaoxing. See dates, start times and who's playing. G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Eighth Floor: Temple of Rhythm |  |
 | Sat, 7 Nov 2026 | ADM/IT presents: GI-BUNAL, A New Wave from Mindanao |  |
 | Thu, 12 Nov 2026 | NEW META presented by SOMEWAREZ NETWORK |  |
 | Fri, 13 Nov 2026 | After The Noon presents: Wings 'N' Vibes with SYNCCITY |  |
@@ -18,4 +17,4 @@ Apotheka is a music venue in Manila listed on soundcheck. 5 upcoming gigs, with 
 
 G/F, White Rabbit Blg, 5672 Dona Carmen St, Cor General Luna, Makati, 1210 Metro Manila, Philippines, Manila
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/manila/club/apotheka/)*

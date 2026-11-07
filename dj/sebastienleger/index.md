@@ -1,13 +1,14 @@
 # Sebastien Leger
 
-Sebastien Leger is a House and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Sebastien Leger is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-Sebastien Leger is a house and progressive house artist based in France, with 157 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
+Sebastien Leger is a house and progressive house artist based in France, with 158 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Fri, 25 Dec 2026 | Do Not Sit On The Furniture | Miami |
 | Thu, 31 Dec 2026 | Zamna Tulum | Tulum |
@@ -28,4 +29,4 @@ Sebastien Leger is a house and progressive house artist based in France, with 15
 
 Roy Rosenfeld, Tim Green, Khen
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebastienleger/)*

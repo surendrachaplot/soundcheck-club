@@ -1,6 +1,6 @@
 # Cave12
 
-Cave12 is a music venue in Geneva with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SINNTHESE + FAIRYMARICHEL + Passage de disques" on Sat, 7 Nov 2026.
+Cave12 is a music venue in Geneva with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "SINNTHESE + FAIRYMARICHEL + Passage de disques" on Sat, 7 Nov 2026.
 
 Cave12 is a music venue in Geneva listed on soundcheck. 3 upcoming gigs, with line-ups including JUDGITZU, Kutin and Sinnthese. See dates, start times and who's playing. Geneva, Switzerland.
 
@@ -16,4 +16,4 @@ Cave12 is a music venue in Geneva listed on soundcheck. 3 upcoming gigs, with li
 
 Geneva, Switzerland, Geneva
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/cave12/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/cave12/)*

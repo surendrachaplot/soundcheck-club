@@ -1,6 +1,6 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Trabendo, Paris on Sat, 7 Nov 2026.
+Fafi Abdel Nour is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Le Trabendo, Paris on Sat, 7 Nov 2026.
 
 Fafi Abdel Nour is a house and techno artist based in Netherlands, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Jennifer Loveless, Shanti Celeste and ISAbella. Next up: Le Trabendo, Paris on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 232 gigs
 
 Jennifer Loveless, Shanti Celeste, ISAbella
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fafiabdelnour/)*

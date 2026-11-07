@@ -1,6 +1,6 @@
 # Armii1n
 
-Armii1n is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at H0L0, New York City on Sat, 7 Nov 2026.
+Armii1n is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at H0L0, New York City on Sat, 7 Nov 2026.
 
 Armii1n is a house and techno artist based in Iran, with 138 gigs on soundcheck across Miami and New York City. Often billed alongside Choukroun, Zayd and Monk. Next up: H0L0, New York City on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Armii1n is a house and techno artist based in Iran, with 138 gigs on soundcheck 
 
 Choukroun, Zayd, Monk (2)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armii1n/)*

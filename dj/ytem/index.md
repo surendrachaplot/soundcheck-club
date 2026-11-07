@@ -1,6 +1,6 @@
 # Ytem
 
-Ytem is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Thila Ground, Seoul on Fri, 11 Dec 2026.
+Ytem is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Thila Ground, Seoul on Fri, 11 Dec 2026.
 
 Ytem is a club and experimental artist based in France, with 18 gigs on soundcheck across Amsterdam, Beijing, Glasgow and Hong Kong and 9 more. Often billed alongside IRL, sean pain and AKUMU. Next up: Thila Ground, Seoul on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ytem is a club and experimental artist based in France, with 18 gigs on soundche
 
 IRL (2), sean pain, AKUMU
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ytem/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ytem/)*

@@ -1,6 +1,6 @@
 # Katya
 
-Katya is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 14 Nov 2026.
+Katya is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bangkok Island, Bangkok on Sat, 14 Nov 2026.
 
 Katya is a techno and electro artist based in United Kingdom, with 55 gigs on soundcheck across Bangkok, Berlin, Bristol and London and 2 more. Often billed alongside Alien Communications, Bobby. and Greg Brockmann. Next up: Bangkok Island, Bangkok on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Katya is a techno and electro artist based in United Kingdom, with 55 gigs on so
 
 Alien Communications, Bobby., Greg Brockmann
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katya/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katya/)*

@@ -1,6 +1,6 @@
 # Man Power
 
-Man Power is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at World Headquarters, Newcastle on Sat, 7 Nov 2026.
+Man Power is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at World Headquarters, Newcastle on Sat, 7 Nov 2026.
 
 Man Power is a house and techno artist based in United Kingdom, with 107 gigs on soundcheck across Bali, Bangkok, Barcelona and Belfast and 29 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: World Headquarters, Newcastle on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Man Power is a house and techno artist based in United Kingdom, with 107 gigs on
 
 ROSIE, Megan Leo, Ewan McVicar
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*

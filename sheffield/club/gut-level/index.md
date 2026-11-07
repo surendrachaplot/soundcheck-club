@@ -1,19 +1,19 @@
 # Gut Level
 
-Gut Level is a music venue in Sheffield with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Happy Endings" on Fri, 6 Nov 2026.
+Gut Level is a music venue in Sheffield with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "CYB3R 5TH ANNIVERSARY W/ GFOTY" on Sat, 7 Nov 2026.
 
-Gut Level is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bethan and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
+Gut Level is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, with line-ups including Aquamarine, Backseat Driver, Ben Vince and Bubbles (UK) and 2 more. See dates, start times and who's playing. 32-34 Chapel Walk, Sheffield, S1 2PD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Happy Endings | Bethan, FAFF, Jeon Q, Perrin (UK), Ugly Drugless |
 | Sat, 7 Nov 2026 | CYB3R 5TH ANNIVERSARY W/ GFOTY | GFOTY |
 | Fri, 13 Nov 2026 | Sleazy Peelers (02) w/ Rosie Ama, Kay Fabe, Betty & Paniolo | Kay Fabe, Paniolo, Rosie Ama |
 | Sat, 14 Nov 2026 | LEATHERDYKE - 4 YEARS OF PISS, SWEAT, AND TEARS | MYNA, TB-316 |
 | Thu, 19 Nov 2026 | Gut Level presents: Ben Vince, Leo Hermitt & Phoneutrian | Ben Vince |
 | Sat, 21 Nov 2026 | Who Needs Guitars Anyway |  |
+| Sun, 22 Nov 2026 | Silicone Carbide X Leatherdyke | Rasa (IN), TB-316 |
 | Fri, 27 Nov 2026 | Kitchen Radio's 2nd Birthday |  |
 | Sat, 5 Dec 2026 | Fast & Bi-Furious Sheffield | Buggery Grips, Thorpey |
 | Fri, 11 Dec 2026 | Club Rez 011 |  |
@@ -23,4 +23,4 @@ Gut Level is a music venue in Sheffield listed on soundcheck. 11 upcoming gigs, 
 
 32-34 Chapel Walk, Sheffield, S1 2PD, Sheffield
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/gut-level/)*

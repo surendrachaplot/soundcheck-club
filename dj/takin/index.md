@@ -1,6 +1,6 @@
 # TAKiN
 
-TAKiN is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Wiggle Room, Toronto on Sat, 7 Nov 2026.
+TAKiN is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Wiggle Room, Toronto on Sat, 7 Nov 2026.
 
 TAKiN is a tech house and house artist based in Canada, with 126 gigs on soundcheck across Toronto, Vancouver and Washington DC. Often billed alongside Barroness, Tyler Hill and Manzone & Strong. Next up: Wiggle Room, Toronto on Sat 7 Nov.
 
@@ -10,7 +10,7 @@ TAKiN is a tech house and house artist based in Canada, with 126 gigs on soundch
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Wiggle Room | Toronto |
 | Sat, 21 Nov 2026 | Wiggle Room | Toronto |
-| Wed, 25 Nov 2026 | TBA - Secret Location | Washington DC |
+| Wed, 25 Nov 2026 | TBA - Secret Location - Washington DC | Washington DC |
 | Sat, 19 Dec 2026 | Wiggle Room | Toronto |
 
 ## Recently played
@@ -28,4 +28,4 @@ TAKiN is a tech house and house artist based in Canada, with 126 gigs on soundch
 
 Barroness, Tyler Hill, Manzone & Strong
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takin/)*

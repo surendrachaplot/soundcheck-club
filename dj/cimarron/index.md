@@ -1,6 +1,6 @@
 # Cimarrón
 
-Cimarrón is a Electronica and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jet Lag, Paraguay on Sat, 7 Nov 2026.
+Cimarrón is a Electronica and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Jet Lag, Paraguay on Sat, 7 Nov 2026.
 
 Cimarrón is an electronica and latin bass artist, with 15 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 6 more. Often billed alongside OJOSFINOS, Basho and ADAKEO. Next up: Jet Lag, Paraguay on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Cimarrón is an electronica and latin bass artist, with 15 gigs on soundcheck ac
 
 OJOSFINOS, Basho, ADAKEO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cimarron/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cimarron/)*

@@ -1,6 +1,6 @@
 # The Blaze
 
-The Blaze is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Lenovo Garage, Madrid on Sat, 7 Nov 2026.
+The Blaze is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Lenovo Garage, Madrid on Sat, 7 Nov 2026.
 
 The Blaze is a house and techno artist based in France, with 58 gigs on soundcheck across Amsterdam, Barcelona, Bordeaux and Brussels and 27 more. Often billed alongside Jayda G, Miss Monique and Eliza Rose. Next up: The Lenovo Garage, Madrid on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ The Blaze is a house and techno artist based in France, with 58 gigs on soundche
 
 Jayda G, Miss Monique, Eliza Rose
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theblaze/)*

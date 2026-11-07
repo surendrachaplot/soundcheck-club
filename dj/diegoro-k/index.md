@@ -1,6 +1,6 @@
 # Diego Ro-k
 
-Diego Ro-k is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Supermercat Gotico, Barcelona on Sat, 7 Nov 2026.
+Diego Ro-k is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Supermercat Gotico, Barcelona on Sat, 7 Nov 2026.
 
 Diego Ro-k is a techno and house artist based in Argentina, with 16 gigs on soundcheck across Barcelona, Buenos Aires and Ibiza. Often billed alongside Bad Educated, Bart Ricardo and Carlos Lamar. Next up: The Supermercat Gotico, Barcelona on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Diego Ro-k is a techno and house artist based in Argentina, with 16 gigs on soun
 
 Bad Educated, Bart Ricardo, Carlos Lamar
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoro-k/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/diegoro-k/)*

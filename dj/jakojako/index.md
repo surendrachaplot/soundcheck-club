@@ -1,6 +1,6 @@
 # JakoJako
 
-JakoJako is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Wigwam, Dublin on Sat, 7 Nov 2026.
+JakoJako is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Wigwam, Dublin on Sat, 7 Nov 2026.
 
 JakoJako is a techno and house artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Rødhåd, Barker and Fadi Mohem. Next up: Wigwam, Dublin on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ JakoJako is a techno and house artist based in Germany, with 183 gigs on soundch
 
 Rødhåd, Barker, Fadi Mohem
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakojako/)*

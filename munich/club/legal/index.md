@@ -1,14 +1,13 @@
 # Legal
 
-Legal is a music venue in Munich with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SENTAKU SHOWCASE w./ Massaï, Almedina, III Spleen, Goiaba & Olli Rubber" on Fri, 6 Nov 2026.
+Legal is a music venue in Munich with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Legal KLUNBACHT w./ Hanno, Jorkes, Seba, Fajan & tanjuesch" on Sat, 7 Nov 2026.
 
-Legal is a music venue in Munich listed on soundcheck. 10 upcoming gigs, with line-ups including Almedina, Andi Britz, Andre Zimmer and Bliss Inc. and 2 more. See dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
+Legal is a music venue in Munich listed on soundcheck. 9 upcoming gigs, with line-ups including Almedina, Andi Britz, Andre Zimmer and Bliss Inc. and 2 more. See dates, start times and who's playing. Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | SENTAKU SHOWCASE w./ Massaï, Almedina, III Spleen, Goiaba & Olli Rubber | Almedina (2), Goiaba, Massaï, Olli Rubber |
 | Sat, 7 Nov 2026 | Legal KLUNBACHT w./ Hanno, Jorkes, Seba, Fajan & tanjuesch | Hanno, Jorkes, Seba, tanjuesch |
 | Fri, 13 Nov 2026 | Legal x STRING with Andre Zimmer, VINCI, Haze, WITTGENSTEIN, VSMR | Andre Zimmer, Haze (GER), Okarim, VSMR, WITTGENSTEIN |
 | Fri, 13 Nov 2026 | STRING w./ Andre Zimmer, Haze, VINCI, VSMR, WITTGENSTEIN, B2H, Cheek2Cheek, Fraz S. & Okarim | Andre Zimmer, Haze (1), Okarim, VSMR, WITTGENSTEIN |
@@ -23,4 +22,4 @@ Legal is a music venue in Munich listed on soundcheck. 10 upcoming gigs, with li
 
 Sendlinger Tor, Thalkirchener Strasse 2, 80337 Munchen, Munich
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/legal/)*

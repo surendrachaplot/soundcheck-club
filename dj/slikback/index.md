@@ -1,6 +1,6 @@
 # Slikback
 
-Slikback is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+Slikback is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
 Slikback is an experimental and bass artist based in Kenya, with 67 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 30 more. Often billed alongside ojoo, Brodinski and upsammy. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Slikback is an experimental and bass artist based in Kenya, with 67 gigs on soun
 
 ojoo, Brodinski, upsammy
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/slikback/)*

@@ -1,6 +1,6 @@
 # alko
 
-alko is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+alko is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 alko is a house and deep house artist, with 18 gigs on soundcheck across Berlin, Chicago, Miami and New York City. Often billed alongside Caleesi, Kotoe and Mira. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ alko is a house and deep house artist, with 18 gigs on soundcheck across Berlin,
 
 Caleesi, Kotoe, Mira
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alko/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alko/)*

@@ -1,6 +1,6 @@
 # DJ Loose
 
-DJ Loose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at underiolo, Warsaw on Sat, 7 Nov 2026.
+DJ Loose is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at underiolo, Warsaw on Sat, 7 Nov 2026.
 
 DJ Loose is a techno and house artist based in Ukraine, with 16 gigs on soundcheck across Warsaw. Often billed alongside Abrew, bolo and PayoYayo. Next up: underiolo, Warsaw on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Loose is a techno and house artist based in Ukraine, with 16 gigs on soundche
 
 Abrew, bolo, PayoYayo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djloose/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djloose/)*

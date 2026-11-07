@@ -1,6 +1,6 @@
 # ANTØNIØ.
 
-ANTØNIØ. is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Glove That Fits, London on Sun, 20 Dec 2026.
+ANTØNIØ. is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Glove That Fits, London on Sun, 20 Dec 2026.
 
 ANTØNIØ. is a techno and electronica artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Bratislava and London. Often billed alongside Noah Tauber, TOOTHTAXI and Bleim01. Next up: The Glove That Fits, London on Sun 20 Dec.
 
@@ -25,4 +25,4 @@ ANTØNIØ. is a techno and electronica artist based in United Kingdom, with 10 g
 
 Noah Tauber, TOOTHTAXI, Bleim01
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonio./)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonio./)*

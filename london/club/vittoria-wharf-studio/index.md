@@ -1,6 +1,6 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "KOBA presents: Dunmore Brothers, JNJS & JIMO Fi" on Sat, 7 Nov 2026.
+Vittoria Wharf Studio is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "KOBA presents: Dunmore Brothers, JNJS & JIMO Fi" on Sat, 7 Nov 2026.
 
 Vittoria Wharf Studio is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including AKWA, Andrew Robertson, Basement Maxx and Bekefi and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
@@ -23,4 +23,4 @@ Vittoria Wharf Studio is a music venue in London listed on soundcheck. 15 upcomi
 
 Vittoria Wharf Yard, Hackney Wick, E3 2NT, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vittoria-wharf-studio/)*

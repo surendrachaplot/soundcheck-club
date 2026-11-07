@@ -1,6 +1,6 @@
 # Perish
 
-Perish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Corktown Tavern, Detroit on Sat, 7 Nov 2026.
+Perish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Corktown Tavern, Detroit on Sat, 7 Nov 2026.
 
 Perish is a house and techno artist based in United States of America, with 22 gigs on soundcheck across Denver and Detroit. Often billed alongside Taylor Monai, Xan Bishop and Adriel Fantastique!. Next up: Corktown Tavern, Detroit on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Perish is a house and techno artist based in United States of America, with 22 g
 
 Taylor Monai, Xan Bishop, Adriel Fantastique!
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perish/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/perish/)*

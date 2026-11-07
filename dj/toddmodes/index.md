@@ -1,6 +1,6 @@
 # Todd Modes
 
-Todd Modes is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 7 Nov 2026.
+Todd Modes is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 7 Nov 2026.
 
 Todd Modes is a house and disco artist based in United States of America, with 41 gigs on soundcheck across Detroit and Toronto. Often billed alongside Ryan Spencer, Blair French and Eastside Jon. Next up: Northern Lights Lounge, Detroit on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Todd Modes is a house and disco artist based in United States of America, with 4
 
 Ryan Spencer, Blair French, Eastside Jon
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddmodes/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddmodes/)*

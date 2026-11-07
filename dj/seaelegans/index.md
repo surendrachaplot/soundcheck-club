@@ -1,6 +1,6 @@
 # sea elegans
 
-sea elegans is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Bullingdon, South-east on Wed, 25 Nov 2026.
+sea elegans is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Bullingdon, South-east on Wed, 25 Nov 2026.
 
 sea elegans is an electronic artist, with 8 gigs on soundcheck across London and South East. Often billed alongside Michael Diamond, att0sec and mani (UK). Next up: The Bullingdon, South East on Wed 25 Nov.
 
@@ -24,4 +24,4 @@ sea elegans is an electronic artist, with 8 gigs on soundcheck across London and
 
 Michael Diamond, att0sec, mani (UK)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaelegans/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaelegans/)*

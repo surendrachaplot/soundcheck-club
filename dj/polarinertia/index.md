@@ -1,6 +1,6 @@
 # Polar Inertia
 
-Polar Inertia is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
+Polar Inertia is a Techno and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 Polar Inertia is a techno and breakbeat artist based in France, with 33 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 14 more. Often billed alongside Priori, A Strange Wedding and Anthony Linell. Next up: Gray Area, San Francisco/Oakland on Fri 6 Nov.
 
@@ -14,6 +14,7 @@ Polar Inertia is a techno and breakbeat artist based in France, with 33 gigs on 
 
 ## Recently played
 
+- Gray Area, San Francisco/Oakland · Fri, 6 Nov 2026
 - FVTVR, Paris · Sat, 17 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
 - Fuse, Brussels · Sat, 26 Sept 2026
@@ -21,10 +22,9 @@ Polar Inertia is a techno and breakbeat artist based in France, with 33 gigs on 
 - AMT, Berlin · Sat, 18 Jul 2026
 - TILLATEC, Amsterdam · Sat, 30 May 2026
 - Karmen Camina, Strasbourg · Sat, 16 May 2026
-- ASIAT Park, Brussels · Thu, 14 May 2026
 
 ## Shares bills with
 
 Priori, A Strange Wedding, Anthony Linell
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polarinertia/)*

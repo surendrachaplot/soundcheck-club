@@ -1,6 +1,6 @@
 # Skiis
 
-Skiis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
+Skiis is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Monarch, San Francisco/Oakland on Sat, 14 Nov 2026.
 
 Skiis is a techno and house artist based in Mexico, with 49 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Clearcast, Vertigo and bad juuju. Next up: Monarch, San Francisco/Oakland on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Skiis is a techno and house artist based in Mexico, with 49 gigs on soundcheck a
 
 Clearcast, Vertigo, bad juuju
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skiis/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skiis/)*

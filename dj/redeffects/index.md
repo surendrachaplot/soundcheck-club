@@ -1,6 +1,6 @@
 # Red Effects
 
-Red Effects is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Goya Social Club, Madrid on Sat, 7 Nov 2026.
+Red Effects is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Goya Social Club, Madrid on Sat, 7 Nov 2026.
 
 Red Effects is a house and tech house artist based in Spain, with 18 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Fran Lobato, Adrian Mart and Alci. Next up: Goya Social Club, Madrid on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Red Effects is a house and tech house artist based in Spain, with 18 gigs on sou
 
 Fran Lobato, Adrian Mart, Alci
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redeffects/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/redeffects/)*

@@ -1,14 +1,13 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "F33L ROUGE" on Fri, 6 Nov 2026.
+Panic Room is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DISCOBAU" on Sat, 7 Nov 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Vice Experience. See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Vice Experience. See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | F33L ROUGE |  |
 | Sat, 7 Nov 2026 | DISCOBAU |  |
 | Tue, 10 Nov 2026 | TILT |  |
 | Wed, 11 Nov 2026 | BDE IFM |  |
@@ -18,9 +17,10 @@ Panic Room is a music venue in Paris listed on soundcheck. 16 upcoming gigs, wit
 | Wed, 18 Nov 2026 | SOUS LE RADAR |  |
 | Thu, 19 Nov 2026 | ECHOES COLLECTIVE |  |
 | Fri, 20 Nov 2026 | MADELEINE RECORDS |  |
+| Sat, 21 Nov 2026 | SOLDD6 |  |
 
 ## Address
 
 101 rue Amelot; 75011; Paris; France, Paris
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/panic-room/)*

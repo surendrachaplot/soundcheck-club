@@ -1,6 +1,6 @@
 # Jeny Michelle
 
-Jeny Michelle is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 303 Ten Eyck St., New York City on Fri, 6 Nov 2026.
+Jeny Michelle is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at 303 Ten Eyck St., New York City on Fri, 6 Nov 2026.
 
 Jeny Michelle is a house and minimal artist based in Mexico, with 77 gigs on soundcheck across London, Mexico City, Monterrey and New York City and 2 more. Often billed alongside Auphoria, shanty mane and Amba. Next up: 303 Ten Eyck St., New York City on Fri 6 Nov.
 
@@ -12,6 +12,7 @@ Jeny Michelle is a house and minimal artist based in Mexico, with 77 gigs on sou
 
 ## Recently played
 
+- 303 Ten Eyck St., New York City · Fri, 6 Nov 2026
 - feedbk, New York City · Thu, 5 Nov 2026
 - Nublu, New York City · Fri, 16 Oct 2026
 - Outer Heaven, New York City · Sun, 11 Oct 2026
@@ -19,10 +20,9 @@ Jeny Michelle is a house and minimal artist based in Mexico, with 77 gigs on sou
 - House of Yes, New York City · Sat, 26 Sept 2026
 - Signal, New York City · Thu, 10 Sept 2026
 - Moondog Hifi, New York City · Mon, 7 Sept 2026
-- Echostage, Washington DC · Sat, 5 Sept 2026
 
 ## Shares bills with
 
 Auphoria, shanty mane, Amba
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenymichelle/)*

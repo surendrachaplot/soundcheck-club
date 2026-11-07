@@ -1,6 +1,6 @@
 # Nari (2)
 
-Nari (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at WOMB, Tokyo on Thu, 12 Nov 2026.
+Nari (2) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at WOMB, Tokyo on Thu, 12 Nov 2026.
 
 Nari is a house and techno artist based in Japan, with 122 gigs on soundcheck across Amsterdam, Kyoto, New York City and Osaka and 3 more. Often billed alongside KOTSU, DNG and V_R_A_P. Next up: WOMB, Tokyo on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Nari is a house and techno artist based in Japan, with 122 gigs on soundcheck ac
 
 KOTSU, DNG (1), V_R_A_P
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nari-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nari-2/)*

@@ -1,6 +1,6 @@
 # Cal Lyall
 
-Cal Lyall is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bushbash, Tokyo on Fri, 13 Nov 2026.
+Cal Lyall is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bushbash, Tokyo on Fri, 13 Nov 2026.
 
 Cal Lyall is an experimental and electronica artist based in Canada, with 9 gigs on soundcheck across Tokyo. Often billed alongside DJ MEMAI, Ritsuko Sakata and Compuma. Next up: Bushbash, Tokyo on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Cal Lyall is an experimental and electronica artist based in Canada, with 9 gigs
 
 DJ MEMAI, Ritsuko Sakata, Compuma
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callyall/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callyall/)*

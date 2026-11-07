@@ -1,6 +1,6 @@
 # babysquid
 
-babysquid is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 13 Nov 2026.
+babysquid is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Pylonen - Frizonen Langebro, Copenhagen on Fri, 13 Nov 2026.
 
 babysquid is a techno and house artist based in Romania, with 40 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside DJ BENDER, DJ Greatfruit Grapefruit and ASTA MARI. Next up: Pylonen - Frizonen Langebro, Copenhagen on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ babysquid is a techno and house artist based in Romania, with 40 gigs on soundch
 
 DJ BENDER, DJ Greatfruit Grapefruit, ASTA MARI
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babysquid/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babysquid/)*

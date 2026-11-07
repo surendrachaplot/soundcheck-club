@@ -1,6 +1,6 @@
 # DJ Räucherlaks
 
-DJ Räucherlaks is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Seilerstraße Zwickau, Chemnitz on Sat, 7 Nov 2026.
+DJ Räucherlaks is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Seilerstraße Zwickau, Chemnitz on Sat, 7 Nov 2026.
 
 DJ Räucherlaks is a trance and techno artist based in Germany, with 27 gigs on soundcheck across Berlin, Bochum, Chemnitz and Cologne and 6 more. Often billed alongside DJ Tallboy, KLING&KLANG and 9LALEY. Next up: Club Seilerstraße Zwickau, Chemnitz on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Räucherlaks is a trance and techno artist based in Germany, with 27 gigs on 
 
 DJ Tallboy, KLING&KLANG, 9LALEY
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djraucherlaks/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djraucherlaks/)*

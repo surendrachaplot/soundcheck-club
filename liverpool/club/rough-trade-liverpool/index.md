@@ -1,14 +1,13 @@
 # Rough Trade Liverpool
 
-Rough Trade Liverpool is a music venue in Liverpool with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Basement Tracks: Launch Gig" on Fri, 6 Nov 2026.
+Rough Trade Liverpool is a music venue in Liverpool with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Promenade Cinema + The Brides of The Blackroom + IAmImperfect" on Sun, 8 Nov 2026.
 
-Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 5 upcoming gigs, with line-ups including Karman and Parviz. See dates, start times and who's playing. Hanover St, Liverpool L1 4AF.
+Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, with line-ups including Parviz. See dates, start times and who's playing. Hanover St, Liverpool L1 4AF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Basement Tracks: Launch Gig | Karman |
 | Sun, 8 Nov 2026 | Promenade Cinema + The Brides of The Blackroom + IAmImperfect |  |
 | Thu, 19 Nov 2026 | Parviz + Wiffeney | Parviz |
 | Wed, 2 Dec 2026 | BexBlu & Paul Stephan: Live + Signing |  |
@@ -18,4 +17,4 @@ Rough Trade Liverpool is a music venue in Liverpool listed on soundcheck. 5 upco
 
 Hanover St, Liverpool L1 4AF, Liverpool
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/rough-trade-liverpool/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/rough-trade-liverpool/)*

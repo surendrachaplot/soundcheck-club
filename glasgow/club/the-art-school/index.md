@@ -1,6 +1,6 @@
 # The Art School
 
-The Art School is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Glasstattoo " on Sat, 7 Nov 2026.
+The Art School is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Glasstattoo " on Sat, 7 Nov 2026.
 
 The Art School is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs, with line-ups including ACHIRĀ, Bristol Luke, CU-S1TH and Divergence and 2 more. See dates, start times and who's playing. 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom.
 
@@ -20,4 +20,4 @@ The Art School is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs
 
 20 Scott Street, Glasgow, G3 6RQ, Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-art-school/)*

@@ -1,6 +1,6 @@
 # Formula LDN
 
-Formula LDN is a Drum & Bass and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
+Formula LDN is a Drum & Bass and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Sawmills, Bristol on Thu, 31 Dec 2026.
 
 Formula LDN is a drum & bass and minimal artist based in United Kingdom, with 11 gigs on soundcheck across Brighton, Bristol, Cologne and London and 2 more. Often billed alongside Jamie Fielding, AC13 and Adam Locke. Next up: Sawmills, Bristol on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Formula LDN is a drum & bass and minimal artist based in United Kingdom, with 11
 
 Jamie Fielding, AC13, Adam Locke
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formula-ldn/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/formula-ldn/)*

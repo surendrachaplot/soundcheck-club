@@ -1,13 +1,14 @@
 # Pato Mallet
 
-Pato Mallet is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
+Pato Mallet is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 4 Nov 2026.
 
-Pato Mallet is a house and deep house artist based in Mexico, with 51 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Loïc, Signo and Pabels. Next up: TBA - Caleta - Dr. Atl 62, Mexico City on Sat 7 Nov.
+Pato Mallet is a house and deep house artist based in Mexico, with 51 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Loïc, Signo and Pabels. Next up: ROCA HIFI, Mexico City on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 4 Nov 2026 | ROCA HIFI | Mexico City |
 | Sat, 7 Nov 2026 | TBA - Caleta - Dr. Atl 62 | Mexico-city |
 
 ## Recently played
@@ -25,4 +26,4 @@ Pato Mallet is a house and deep house artist based in Mexico, with 51 gigs on so
 
 Loïc, Signo, Pabels
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patomallet/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/patomallet/)*

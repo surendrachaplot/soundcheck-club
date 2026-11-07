@@ -1,6 +1,6 @@
 # Bonita Applebumz
 
-Bonita Applebumz is a Electro and Footwork artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Supernatural Haus, Miami on Fri, 20 Nov 2026.
+Bonita Applebumz is a Electro and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Supernatural Haus, Miami on Fri, 20 Nov 2026.
 
 Bonita Applebumz is an electro and footwork artist based in United States of America, with 11 gigs on soundcheck across Miami. Often billed alongside //DLM, Duality (US) and GRUE5OME. Next up: Supernatural Haus, Miami on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Bonita Applebumz is an electro and footwork artist based in United States of Ame
 
 //DLM, Duality (US), GRUE5OME
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonitaapplebumz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bonitaapplebumz/)*

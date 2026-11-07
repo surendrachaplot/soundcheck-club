@@ -1,14 +1,13 @@
 # Grow
 
-Grow is a music venue in London with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Salotto Sounds X Daydream Disco" on Fri, 6 Nov 2026.
+Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Cengiz presents: blissy e, Entek" on Sat, 7 Nov 2026.
 
-Grow is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Alfaz, Alfie Panaiotis, ARLYSS and Beavs and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alfie Panaiotis, Beavs, blissy e and Cengiz and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Salotto Sounds X Daydream Disco | ARLYSS, Alfaz, Bowlcut |
 | Sat, 7 Nov 2026 | Cengiz presents: blissy e, Entek | Cengiz, Entek, blissy e |
 | Sat, 14 Nov 2026 | DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman | Handson Family, Vanessa Freeman |
 | Fri, 20 Nov 2026 | SWEET ONES: Zak Miller, Richie, Rhiavas, Komanche   | Komanche, Rhiavas, Zak Miller |
@@ -18,9 +17,10 @@ Grow is a music venue in London listed on soundcheck. 11 upcoming gigs, with lin
 | Sun, 29 Nov 2026 | Fresh Beats by London School of Electronic Music |  |
 | Sat, 5 Dec 2026 | Grow CHRISTMAS PARTY: CSGRV & DEMACQUE + SPECIAL GUEST | CSGRV |
 | Sat, 12 Dec 2026 | GIRLZ B LIKE GLITTER AND GOLD BALL: Marcia Carr // KINKY D + SPECIAL GUESTS | Marcia Carr |
+| Thu, 31 Dec 2026 | New Year's Eve: Tumbaito [Live], Alfie Panaiotis, Paloma, Tall Nico | Alfie Panaiotis, Paloma (DJ), Tall Nico |
 
 ## Address
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

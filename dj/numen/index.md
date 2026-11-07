@@ -1,6 +1,6 @@
 # Numen
 
-Numen is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
+Numen is a Electronica and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Beate Uwe, Berlin on Sun, 8 Nov 2026.
 
 Numen is an electronica and deep house artist based in Mexico, with 8 gigs on soundcheck across Berlin, Madrid and Mexico City. Often billed alongside Em Boss, Martin Parra and Umek. Next up: Beate Uwe, Berlin on Sun 8 Nov.
 
@@ -24,4 +24,4 @@ Numen is an electronica and deep house artist based in Mexico, with 8 gigs on so
 
 Em Boss, Martin Parra, Umek
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/numen/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/numen/)*

@@ -1,6 +1,6 @@
 # A-DEE
 
-A-DEE is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lenbachplatz 1, Munich on Sat, 7 Nov 2026.
+A-DEE is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lenbachplatz 1, Munich on Sat, 7 Nov 2026.
 
 A-DEE is a house and disco artist based in Germany, with 42 gigs on soundcheck across Berlin, Munich and Stuttgart. Often billed alongside A-Dee and Dasmo, Karl B. and Julie Fleischer. Next up: Lenbachplatz 1, Munich on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ A-DEE is a house and disco artist based in Germany, with 42 gigs on soundcheck a
 
 A-Dee and Dasmo, Karl B., Julie Fleischer
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a-dee/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/a-dee/)*

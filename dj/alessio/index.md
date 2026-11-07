@@ -1,14 +1,13 @@
 # Al.Essio
 
-Al.Essio is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Combo Torino, Turin on Thu, 5 Nov 2026.
+Al.Essio is a Deep House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Combo Torino, Turin on Thu, 26 Nov 2026.
 
-Al.Essio is a deep house and disco artist based in Italy, with 6 gigs on soundcheck across Turin. Often billed alongside Don Carlos, LTJ Edits and Luca Trevisi. Next up: Combo Torino, Turin on Thu 5 Nov.
+Al.Essio is a deep house and disco artist based in Italy, with 6 gigs on soundcheck across Turin. Often billed alongside Don Carlos, LTJ Edits and Luca Trevisi. Next up: Combo Torino, Turin on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Combo Torino | Turin |
 | Thu, 26 Nov 2026 | Combo Torino | Turin |
 
 ## Recently played
@@ -23,4 +22,4 @@ Al.Essio is a deep house and disco artist based in Italy, with 6 gigs on soundch
 
 Don Carlos, LTJ Edits, Luca Trevisi
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessio/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alessio/)*

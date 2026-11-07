@@ -1,6 +1,6 @@
 # Ned Bennett
 
-Ned Bennett is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Ghent, Ghent on Wed, 11 Nov 2026.
+Ned Bennett is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Ghent, Ghent on Wed, 11 Nov 2026.
 
 Ned Bennett is a techno and house artist based in Australia, with 78 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Berlin and 16 more. Often billed alongside KSMBA, Bella Claxton and Prizefight. Next up: TBA - Ghent, Ghent on Wed 11 Nov.
 
@@ -30,4 +30,4 @@ Ned Bennett is a techno and house artist based in Australia, with 78 gigs on sou
 
 KSMBA, Bella Claxton, Prizefight
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nedbennett/)*

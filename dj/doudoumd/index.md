@@ -1,14 +1,13 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Radio Radio, Amsterdam on Fri, 6 Nov 2026.
+Doudou MD is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Digital, Newcastle on Fri, 13 Nov 2026.
 
-Doudou MD is a house and techno artist based in Netherlands, with 239 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 56 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: Radio Radio, Amsterdam on Fri 6 Nov.
+Doudou MD is a house and techno artist based in Netherlands, with 239 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 56 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: Digital, Newcastle on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Radio Radio | Amsterdam |
 | Fri, 13 Nov 2026 | Digital | Newcastle |
 | Sat, 21 Nov 2026 | BRET | Amsterdam |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
@@ -18,6 +17,7 @@ Doudou MD is a house and techno artist based in Netherlands, with 239 gigs on so
 
 ## Recently played
 
+- Radio Radio, Amsterdam · Fri, 6 Nov 2026
 - NUMBER 90 LONDON, London · Sat, 31 Oct 2026
 - Kater, Berlin · Fri, 30 Oct 2026
 - The Loft Amsterdam, Amsterdam · Mon, 26 Oct 2026
@@ -25,10 +25,9 @@ Doudou MD is a house and techno artist based in Netherlands, with 239 gigs on so
 - Levenslang Amsterdam, Amsterdam · Sat, 24 Oct 2026
 - TILLATEC, Amsterdam · Sat, 24 Oct 2026
 - Skatecafe, Amsterdam · Thu, 22 Oct 2026
-- Sawmills, Bristol · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Samuel Deep, DJ Senc, Fumiya Tanaka
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

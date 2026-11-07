@@ -1,6 +1,6 @@
 # Héctor Oaks
 
-Héctor Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Spook Club, Valencia on Sat, 7 Nov 2026.
+Héctor Oaks is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Spook Club, Valencia on Sat, 7 Nov 2026.
 
 Héctor Oaks is a techno and house artist based in Spain, with 298 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 94 more. Often billed alongside Patrick Mason, Adiel and Richie Hawtin. Next up: Spook Club, Valencia on Sat 7 Nov.
 
@@ -32,4 +32,4 @@ Héctor Oaks is a techno and house artist based in Spain, with 298 gigs on sound
 
 Patrick Mason, Adiel, Richie Hawtin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hectoroaks/)*

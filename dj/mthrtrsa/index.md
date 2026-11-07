@@ -1,6 +1,6 @@
 # MTHR TRSA
 
-MTHR TRSA is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 9 Nov 2026.
+MTHR TRSA is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bossa Nova Civic Club, New York City on Mon, 9 Nov 2026.
 
 MTHR TRSA is a club and experimental artist based in United States of America, with 22 gigs on soundcheck across London and New York City. Often billed alongside Buffy, ARCHANGEL (US) and Soo Intoit. Next up: Bossa Nova Civic Club, New York City on Mon 9 Nov.
 
@@ -26,4 +26,4 @@ MTHR TRSA is a club and experimental artist based in United States of America, w
 
 Buffy, ARCHANGEL (US), Soo Intoit
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mthrtrsa/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mthrtrsa/)*

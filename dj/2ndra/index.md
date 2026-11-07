@@ -1,6 +1,6 @@
 # 2NDRA
 
-2NDRA is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Centrála, Prague on Sat, 21 Nov 2026.
+2NDRA is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Centrála, Prague on Sat, 21 Nov 2026.
 
 2NDRA is a techno and acid artist based in Canada, with 69 gigs on soundcheck across Czech Republic, Lisbon and Prague. Often billed alongside RiVid, Nøteleks and NEUWERTH. Next up: Centrála, Prague on Sat 21 Nov.
 
@@ -27,4 +27,4 @@
 
 RiVid, Nøteleks, NEUWERTH
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2ndra/)*

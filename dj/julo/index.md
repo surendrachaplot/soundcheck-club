@@ -1,6 +1,6 @@
 # Julo
 
-Julo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sigma, Ibiza on Sat, 7 Nov 2026.
+Julo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Sigma, Ibiza on Sat, 7 Nov 2026.
 
 Julo is a house and tech house artist based in France, with 11 gigs on soundcheck across Ibiza, Paris, Tampa Bay and Vienna and 1 more. Often billed alongside SEMREH, Gune 909 and AntZ. Next up: Sigma, Ibiza on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Julo is a house and tech house artist based in France, with 11 gigs on soundchec
 
 SEMREH, Gune 909, AntZ (2)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julo/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/julo/)*

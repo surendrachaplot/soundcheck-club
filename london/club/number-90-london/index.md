@@ -1,8 +1,8 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Klub Verboten x LONDON" on Fri, 13 Nov 2026.
+NUMBER 90 LONDON is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Klub Verboten x LONDON" on Fri, 13 Nov 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Alba Heidari, Alisdair, Amaliah and Anish Kumar and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Alba Heidari, Alisdair, Amaliah and Anish Kumar and 2 more. See dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 13 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

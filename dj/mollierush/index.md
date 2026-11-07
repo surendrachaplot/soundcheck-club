@@ -1,6 +1,6 @@
 # Mollie Rush
 
-Mollie Rush is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
+Mollie Rush is a Hardcore and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
 
 Mollie Rush is a hardcore and drum & bass artist based in United Kingdom, with 34 gigs on soundcheck across Bristol, Edinburgh, Leeds and London and 4 more. Often billed alongside alterum, CBABY and K-Rush. Next up: Maassilo, Rotterdam on Sat 27 Feb.
 
@@ -25,4 +25,4 @@ Mollie Rush is a hardcore and drum & bass artist based in United Kingdom, with 3
 
 alterum, CBABY, K-Rush
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mollierush/)*

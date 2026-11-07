@@ -1,6 +1,6 @@
 # SOLSA
 
-SOLSA is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Luzhou Industrial District, Taipei on Sat, 21 Nov 2026.
+SOLSA is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Luzhou Industrial District, Taipei on Sat, 21 Nov 2026.
 
 SOLSA is a techno and bass artist based in Australia, with 15 gigs on soundcheck across Beijing, Berlin, Brussels and Melbourne and 2 more. Often billed alongside Thick Owens, Female Wizard and DJ Marcelle. Next up: TBA - Luzhou Industrial District, Taipei on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ SOLSA is a techno and bass artist based in Australia, with 15 gigs on soundcheck
 
 Thick Owens, Female Wizard, DJ Marcelle
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solsa/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solsa/)*

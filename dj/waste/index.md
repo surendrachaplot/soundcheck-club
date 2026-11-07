@@ -1,6 +1,6 @@
 # Waste
 
-Waste is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Naos, Athens on Fri, 13 Nov 2026.
+Waste is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Naos, Athens on Fri, 13 Nov 2026.
 
 Waste is a techno and electro artist based in Greece, with 30 gigs on soundcheck across Athens, Oslo and Sao Paulo. Often billed alongside Ayshel, Andreas Palmer and Avatos. Next up: Naos, Athens on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Waste is a techno and electro artist based in Greece, with 30 gigs on soundcheck
 
 Ayshel, Andreas Palmer, Avatos
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waste/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/waste/)*

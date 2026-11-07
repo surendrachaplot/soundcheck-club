@@ -1,6 +1,6 @@
 # Turtur
 
-Turtur is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "ALL CLEAN, ALL BRIGHT" on Sat, 7 Nov 2026.
+Turtur is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ALL CLEAN, ALL BRIGHT" on Sat, 7 Nov 2026.
 
 Turtur is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including Ali Rajat, Atomlui, Audio Werner and Bouncing Mirrors and 2 more. See dates, start times and who's playing. Am Veringhof 13, 21107, Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Turtur is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with l
 
 Am Veringhof 13, 21107, Hamburg, Germany, Hamburg
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/turtur/)*

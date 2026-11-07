@@ -1,6 +1,6 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 7 Nov 2026.
+Ollie Lishman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Karmen Camina, Strasbourg on Sat, 7 Nov 2026.
 
 Ollie Lishman is a techno and trance artist based in Australia, with 151 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 46 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Karmen Camina, Strasbourg on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Ollie Lishman is a techno and trance artist based in Australia, with 151 gigs on
 
 Bad Boombox, Janis Zielinski, Mischluft
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollielishman/)*

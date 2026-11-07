@@ -1,6 +1,6 @@
 # Last Men On Earth
 
-Last Men On Earth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Last Men On Earth is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Last Men On Earth is a house and techno artist based in Argentina, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Agustin Giri, Djolee and Gespona. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Last Men On Earth is a house and techno artist based in Argentina, with 28 gigs 
 
 Agustin Giri, Djolee, Gespona
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lastmenonearth/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lastmenonearth/)*

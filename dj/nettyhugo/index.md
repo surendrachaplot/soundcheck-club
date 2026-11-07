@@ -1,6 +1,6 @@
 # Netty Hugo
 
-Netty Hugo is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Rockhal, Luxembourg on Sat, 19 Dec 2026.
+Netty Hugo is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Rockhal, Luxembourg on Sat, 19 Dec 2026.
 
 Netty Hugo is a techno and idm artist based in Luxembourg, with 15 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 4 more. Often billed alongside Bolster, Jayzo and Monster Mush. Next up: Rockhal, Luxembourg on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Netty Hugo is a techno and idm artist based in Luxembourg, with 15 gigs on sound
 
 Bolster, Jayzo, Monster Mush
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nettyhugo/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nettyhugo/)*

@@ -1,6 +1,6 @@
 # Origin
 
-Origin is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Mira, Viken Arman, & MXGPU" on Sat, 7 Nov 2026.
+Origin is a music venue in Los Angeles with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Mira, Viken Arman, & MXGPU" on Sat, 7 Nov 2026.
 
 Origin is a music venue in Los Angeles listed on soundcheck. 12 upcoming gigs, with line-ups including Alice Longyu Gao, Breakbot, Cquestt and Eelke Kleijn and 2 more. See dates, start times and who's playing. 613 Imperial St., Los Angeles, CA 90021.
 
@@ -23,4 +23,4 @@ Origin is a music venue in Los Angeles listed on soundcheck. 12 upcoming gigs, w
 
 613 Imperial St., Los Angeles, CA 90021, Los Angeles
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/origin/)*

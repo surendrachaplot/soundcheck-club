@@ -1,6 +1,6 @@
 # Ksaar
 
-Ksaar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Nashaz, Brussels on Sun, 8 Nov 2026.
+Ksaar is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Nashaz, Brussels on Sun, 8 Nov 2026.
 
 Ksaar is a techno and trance artist based in Belgium, with 2 gigs on soundcheck across Brussels. Often billed alongside Yōkai.. Next up: Nashaz, Brussels on Sun 8 Nov.
 
@@ -15,4 +15,4 @@ Ksaar is a techno and trance artist based in Belgium, with 2 gigs on soundcheck 
 
 Yōkai.
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksaar/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ksaar/)*

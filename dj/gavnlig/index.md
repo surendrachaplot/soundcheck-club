@@ -1,14 +1,15 @@
 # Gavnlig
 
-Gavnlig is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 20 Nov 2026.
+Gavnlig is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Den Anden Side, Copenhagen on Fri, 20 Nov 2026.
 
-Gavnlig is a house and techno artist based in Denmark, with 82 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Dgeral, HAKEEM and Baltza. Next up: Den Anden Side, Copenhagen on Fri 20 Nov.
+Gavnlig is a house and techno artist based in Denmark, with 83 gigs on soundcheck across Berlin and Copenhagen. Often billed alongside Dgeral, HAKEEM and N.E.GIRL. Next up: Den Anden Side, Copenhagen on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Den Anden Side | Copenhagen |
+| Fri, 5 Feb 2027 | Pumpehuset | Copenhagen |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Gavnlig is a house and techno artist based in Denmark, with 82 gigs on soundchec
 
 ## Shares bills with
 
-Dgeral, HAKEEM (2), Baltza
+Dgeral, HAKEEM (2), N.E.GIRL
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gavnlig/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gavnlig/)*

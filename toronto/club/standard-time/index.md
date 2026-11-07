@@ -1,14 +1,13 @@
 # Standard Time
 
-Standard Time is a music venue in Toronto with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Benji B and Immigrant Muscle" on Fri, 6 Nov 2026.
+Standard Time is a music venue in Toronto with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "FORMAT x Standard Time: Altinbas / Measure Divide / anise" on Sat, 7 Nov 2026.
 
-Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs, with line-ups including 999ADJ, Adrian Sherwood, Altinbas and Andrew Ross and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
+Standard Time is a music venue in Toronto listed on soundcheck. 12 upcoming gigs, with line-ups including 999ADJ, Adrian Sherwood, Altinbas and Andrew Ross and 2 more. See dates, start times and who's playing. 165 Geary Ave Toronto, ON M6H 2B8, Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Benji B and Immigrant Muscle | Benji B, Immigrant Muscle |
 | Sat, 7 Nov 2026 | FORMAT x Standard Time: Altinbas / Measure Divide / anise | Altinbas, Measure Divide, anise |
 | Sun, 8 Nov 2026 | OPTIMO and Friends - Day Into Night   | Andrew Ross, DJ Craigslist, Optimo (Espacio) |
 | Fri, 13 Nov 2026 | DJ Barbi, Miss Kleio, Kika, SWAP MEET, maxedvisa & 999adj   | 999ADJ, DJ Barbi, Kika (4), Miss Kleio, maxedvisa |
@@ -18,9 +17,10 @@ Standard Time is a music venue in Toronto listed on soundcheck. 13 upcoming gigs
 | Sun, 22 Nov 2026 | TWIST presents: ketia open-to-close | ketia |
 | Sat, 28 Nov 2026 | Frits Wentink presented by Untold Stories x House of Lords | Frits Wentink, House of Lords, Zoi (CA) |
 | Sat, 5 Dec 2026 | DJ Marcelle and Destiny presented by Sem Forma and Standard Time | DJ Marcelle, Destiny (CA) |
+| Sat, 19 Dec 2026 | Darwin, Gremlinz and Rhythmo presented by Bass Station x Standard Time | Darwin, Gremlinz, Rhythmo |
 
 ## Address
 
 165 Geary Ave Toronto, ON M6H 2B8, Canada, Toronto
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/standard-time/)*

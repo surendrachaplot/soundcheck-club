@@ -1,6 +1,6 @@
 # DJ Fuckoff, dragongirl, NAT at Hangaren
 
-DJ Fuckoff, dragongirl, NAT at Hangaren on Sat 5 Dec, Copenhagen. 3 artists: DJ Fuckoff, dragongirl and NAT(SK). Trance and House. See the line-up on soundcheck.
+DJ Fuckoff, dragongirl, NAT at Hangaren on Sat 5 Dec, Copenhagen. 3 artists: DJ Fuckoff, dragongirl and NAT (SK). Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ DJ Fuckoff, dragongirl, NAT at Hangaren on Sat 5 Dec, Copenhagen. 3 artists: DJ 
 
 - DJ Fuckoff
 - dragongirl
-- NAT(SK)
+- NAT (SK)
 
 *Source: [soundcheck](https://soundcheck.club/e/2534826-dj-fuckoff-dragongirl-nat-at-hangaren/)*

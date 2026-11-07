@@ -1,0 +1,28 @@
+# Kasia (OFC)
+
+Kasia (OFC) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Eventpyramide Vösendorf, Austria on Fri, 11 Dec 2026.
+
+Kasia (OFC) is a techno and house artist based in Poland, with 100 gigs on soundcheck across Amsterdam, Athens, Austin and Austria and 40 more. Often billed alongside Adam Beyer, Anyma and Kevin de Vries. Next up: Eventpyramide Vösendorf, Austria on Fri 11 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 11 Dec 2026 | Eventpyramide Vösendorf | Austria |
+
+## Recently played
+
+- Bsmnt, Boston · Fri, 23 Oct 2026
+- The Concourse Project, Austin · Sat, 26 Sept 2026
+- Hï Ibiza, Ibiza · Wed, 9 Sept 2026
+- Bsmnt, Boston · Sun, 6 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 12 Aug 2026
+- [UNVRS], Ibiza · Tue, 4 Aug 2026
+- Gianpula Village, Malta · Fri, 31 Jul 2026
+
+## Shares bills with
+
+Adam Beyer, Anyma, Kevin de Vries
+
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kasia-ofc/)*

@@ -1,6 +1,6 @@
 # DJ G1NA R.
 
-DJ G1NA R. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Neue Welle, Leipzig on Fri, 20 Nov 2026.
+DJ G1NA R. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Neue Welle, Leipzig on Fri, 20 Nov 2026.
 
 DJ G1NA R. is a house and techno artist based in Germany, with 24 gigs on soundcheck across Berlin, Cologne and Leipzig. Often billed alongside mp.ulle, MIDNXGHT and DJ SOFTICE. Next up: Neue Welle, Leipzig on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ G1NA R. is a house and techno artist based in Germany, with 24 gigs on soundc
 
 mp.ulle, MIDNXGHT, DJ SOFTICE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djg1nar./)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djg1nar./)*

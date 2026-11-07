@@ -1,6 +1,6 @@
 # COLAS
 
-COLAS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Ulu Cliffhouse, Bali on Sat, 7 Nov 2026.
+COLAS is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Ulu Cliffhouse, Bali on Sat, 7 Nov 2026.
 
 COLAS is a house and techno artist based in France, with 55 gigs on soundcheck across Bali, Bangkok, Hong Kong and Lausanne and 4 more. Often billed alongside Raff Track, Julian B. and Sanpé. Next up: Ulu Cliffhouse, Bali on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ COLAS is a house and techno artist based in France, with 55 gigs on soundcheck a
 
 Raff Track, Julian B., Sanpé
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colas/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colas/)*

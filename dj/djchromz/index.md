@@ -1,6 +1,6 @@
 # DJ Chromz
 
-DJ Chromz is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at OST, Berlin on Sat, 12 Dec 2026.
+DJ Chromz is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OST, Berlin on Sat, 12 Dec 2026.
 
 DJ Chromz is a jungle and garage artist based in Germany, with 28 gigs on soundcheck across Berlin, Bristol, Frankfurt and London. Often billed alongside Vali NME Click, KaraKara and Shifty Rogue. Next up: OST, Berlin on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DJ Chromz is a jungle and garage artist based in Germany, with 28 gigs on soundc
 
 Vali NME Click, KaraKara, Shifty Rogue
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchromz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djchromz/)*

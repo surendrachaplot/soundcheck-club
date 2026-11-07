@@ -1,6 +1,6 @@
 # Steve Bleas
 
-Steve Bleas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Revolver Upstairs, Melbourne on Mon, 9 Nov 2026.
+Steve Bleas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Revolver Upstairs, Melbourne on Mon, 9 Nov 2026.
 
 Steve Bleas is a house and techno artist based in Australia, with 22 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Jack Colletta, Christian Kamitsis and SNAXX. Next up: Revolver Upstairs, Melbourne on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ Steve Bleas is a house and techno artist based in Australia, with 22 gigs on sou
 
 Jack Colletta, Christian Kamitsis, SNAXX
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebleas/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevebleas/)*

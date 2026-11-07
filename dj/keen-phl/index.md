@@ -1,6 +1,6 @@
 # Keen
 
-Keen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at feedbk, New York City on Sat, 7 Nov 2026.
+Keen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at feedbk, New York City on Sat, 7 Nov 2026.
 
 Keen is a house and techno artist based in United States of America, with 71 gigs on soundcheck across Austin, Boston, Dublin and Lisbon and 7 more. Often billed alongside John Raffaele, Rob Paine and Sweater. Next up: feedbk, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Keen is a house and techno artist based in United States of America, with 71 gig
 
 John Raffaele, Rob Paine, Sweater
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keen-phl/)*

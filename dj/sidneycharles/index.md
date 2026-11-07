@@ -1,6 +1,6 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Sidney Charles is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Sidney Charles is a house and tech house artist based in Germany, with 231 gigs on soundcheck across Aberdeen, Amsterdam, Atlanta and Austin and 47 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -18,6 +18,7 @@ Sidney Charles is a house and tech house artist based in Germany, with 231 gigs 
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Ironworks, London · Sat, 31 Oct 2026
 - SWG3, Glasgow · Sat, 31 Oct 2026
 - SWG3, Glasgow · Sat, 31 Oct 2026
@@ -25,10 +26,9 @@ Sidney Charles is a house and tech house artist based in Germany, with 231 gigs 
 - Pllek, Amsterdam · Sat, 24 Oct 2026
 - Pllek, Amsterdam · Sat, 24 Oct 2026
 - Ndsm Wharf, Amsterdam · Fri, 23 Oct 2026
-- Digital, Newcastle · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Prunk, ALISHA, Gaskin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidneycharles/)*

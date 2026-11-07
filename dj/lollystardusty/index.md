@@ -1,6 +1,6 @@
 # Lolly Stardusty
 
-Lolly Stardusty is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Fabrique, Sao Paulo on Sat, 7 Nov 2026.
+Lolly Stardusty is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fabrique, Sao Paulo on Sat, 7 Nov 2026.
 
 Lolly Stardusty is a techno and acid artist based in Brazil, with 17 gigs on soundcheck across Rio de Janeiro and Sao Paulo. Often billed alongside Acid Asian, Angelica Moller and Lorio. Next up: Fabrique, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Lolly Stardusty is a techno and acid artist based in Brazil, with 17 gigs on sou
 
 Acid Asian, Angelica Moller, Lorio
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lollystardusty/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lollystardusty/)*

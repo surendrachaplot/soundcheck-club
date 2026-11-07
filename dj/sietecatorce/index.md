@@ -1,6 +1,6 @@
 # Siete Catorce
 
-Siete Catorce is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
+Siete Catorce is a Latin Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 13 Nov 2026.
 
 Siete Catorce is a latin bass and club artist based in Mexico, with 24 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Kyiv and 9 more. Often billed alongside SIETE, DJ JUANNY and Kode9. Next up: SISSI'S Amsterdam, Amsterdam on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Siete Catorce is a latin bass and club artist based in Mexico, with 24 gigs on s
 
 SIETE, DJ JUANNY, Kode9
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sietecatorce/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sietecatorce/)*

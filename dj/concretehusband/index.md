@@ -1,6 +1,6 @@
 # Concrete Husband
 
-Concrete Husband is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Downtown Manhattan Loft, New York City on Sat, 21 Nov 2026.
+Concrete Husband is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Downtown Manhattan Loft, New York City on Sat, 21 Nov 2026.
 
 Concrete Husband is a techno and house artist based in United States of America, with 130 gigs on soundcheck across Amsterdam, Berlin, Boston and Copenhagen and 7 more. Often billed alongside ALL EXITS, Juana and VILE. Next up: TBA - Downtown Manhattan Loft, New York City on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Concrete Husband is a techno and house artist based in United States of America,
 
 ALL EXITS, Juana, VILE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/concretehusband/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/concretehusband/)*

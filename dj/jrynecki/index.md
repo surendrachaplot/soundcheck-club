@@ -1,6 +1,6 @@
 # JRynecki
 
-JRynecki is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Spybar, Chicago on Wed, 11 Nov 2026.
+JRynecki is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Spybar, Chicago on Wed, 11 Nov 2026.
 
 JRynecki is a house and deep house artist, with 11 gigs on soundcheck across Chicago. Often billed alongside Kai Castro, Holo and Jacqui Mateo. Next up: Spybar, Chicago on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ JRynecki is a house and deep house artist, with 11 gigs on soundcheck across Chi
 
 Kai Castro, Holo (2), Jacqui Mateo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jrynecki/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jrynecki/)*

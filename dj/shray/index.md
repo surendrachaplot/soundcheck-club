@@ -1,6 +1,6 @@
 # SHRAY
 
-SHRAY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Honey's, New York City on Fri, 4 Dec 2026.
+SHRAY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Honey's, New York City on Fri, 4 Dec 2026.
 
 SHRAY is a techno and house artist based in United States of America, with 36 gigs on soundcheck across New York City and Tokyo. Often billed alongside ceviché, Sam Valle and dj mangovape. Next up: Honey's, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ SHRAY is a techno and house artist based in United States of America, with 36 gi
 
 ceviché, Sam Valle, dj mangovape
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shray/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shray/)*

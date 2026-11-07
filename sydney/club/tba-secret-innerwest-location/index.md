@@ -1,13 +1,13 @@
 # TBA - Secret Innerwest Location
 
-TBA - Secret Innerwest Location is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Yūgen - Penumbra - b_man, KushKusshhh and Lilac" on Sat, 7 Nov 2026.
+TBA - Secret Innerwest Location is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Yūgen - Penumbra - b_man, KushKusshhh and Lilac" on Sat, 7 Nov 2026.
 
-TBA - Secret Innerwest Location is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Kushkusshhh. See dates, start times and who's playing.
+TBA - Secret Innerwest Location is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including b_man (AU), Kushkusshhh and Lilac. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Yūgen - Penumbra - b_man, KushKusshhh and Lilac | Kushkusshhh |
+| Sat, 7 Nov 2026 | Yūgen - Penumbra - b_man, KushKusshhh and Lilac | Kushkusshhh, Lilac, b_man (AU) |
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-secret-innerwest-location/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/tba-secret-innerwest-location/)*

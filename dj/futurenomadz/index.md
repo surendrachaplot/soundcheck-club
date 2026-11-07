@@ -1,6 +1,6 @@
 # Future Nomadz
 
-Future Nomadz is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Forte Prenestino, Rome on Fri, 27 Nov 2026.
+Future Nomadz is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Forte Prenestino, Rome on Fri, 27 Nov 2026.
 
 Future Nomadz is an electronica and techno artist based in Italy, with 20 gigs on soundcheck across Berlin, Milan, Rome and Turin. Often billed alongside Cosimo Damiano, Neel and Bluemarina. Next up: Forte Prenestino, Rome on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Future Nomadz is an electronica and techno artist based in Italy, with 20 gigs o
 
 Cosimo Damiano, Neel, Bluemarina
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/futurenomadz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/futurenomadz/)*

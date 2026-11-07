@@ -1,6 +1,6 @@
 # Freight Brixton
 
-Freight Brixton is a music venue in London with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Marvin Humes presents Noughties Baby" on Sat, 7 Nov 2026.
+Freight Brixton is a music venue in London with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Marvin Humes presents Noughties Baby" on Sat, 7 Nov 2026.
 
 Freight Brixton is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including CHÉ WAX and Marvin Humes. See dates, start times and who's playing. 33 Brixton Station Road, SW9 8PB.
 
@@ -16,4 +16,4 @@ Freight Brixton is a music venue in London listed on soundcheck. 3 upcoming gigs
 
 33 Brixton Station Road, SW9 8PB, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/freight-brixton/)*

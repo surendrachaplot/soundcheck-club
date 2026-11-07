@@ -1,20 +1,20 @@
 # LSB
 
-LSB is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Cell, Nottingham on Fri, 6 Nov 2026.
+LSB is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Flash, Washington DC on Thu, 10 Dec 2026.
 
-LSB is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 33 more. Often billed alongside DRS, Workforce and MC Fox. Next up: The Cell, Nottingham on Fri 6 Nov.
+LSB is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Auckland and 33 more. Often billed alongside DRS, Workforce and MC Fox. Next up: Flash, Washington DC on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Cell | Nottingham |
 | Thu, 10 Dec 2026 | Flash | Washington DC |
 | Thu, 10 Dec 2026 | Flash | Washington DC |
 | Sat, 19 Dec 2026 | M.O.T | London |
 
 ## Recently played
 
+- The Cell, Nottingham · Fri, 6 Nov 2026
 - Volks, Brighton · Sat, 31 Oct 2026
 - Phonox, London · Sat, 24 Oct 2026
 - Sound Machine, Toronto · Sat, 17 Oct 2026
@@ -22,10 +22,9 @@ LSB is a drum & bass and jungle artist based in United Kingdom, with 75 gigs on 
 - Depot Mayfield, Manchester · Fri, 9 Oct 2026
 - Gretchen, Berlin · Sat, 19 Sept 2026
 - UNO MALTA, Malta · Thu, 3 Sept 2026
-- The Cause, London · Sat, 22 Aug 2026
 
 ## Shares bills with
 
 DRS, Workforce, MC Fox
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsb/)*

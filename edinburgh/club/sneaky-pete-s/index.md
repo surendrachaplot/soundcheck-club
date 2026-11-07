@@ -1,6 +1,6 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 32 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Hot Mess: Queer Dance Party" on Fri, 6 Nov 2026.
+Sneaky Pete's is a music venue in Edinburgh with 32 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Athens of the North Disco Club" on Sat, 7 Nov 2026.
 
 Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gigs, with line-ups including YVI, Amber Leith, Big Miz and billybawbags and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
@@ -8,7 +8,6 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Hot Mess: Queer Dance Party | Simonotron |
 | Sat, 7 Nov 2026 | Athens of the North Disco Club | Euan Fryer, Lel Palfrey |
 | Sun, 8 Nov 2026 | Dusky: Free Time - Signals Tour | Dusky, Sally Swan |
 | Sun, 8 Nov 2026 | Postal 5th Birthday | Buckfast Barbie, DV60, Fierro Grande, JI_2001, Lara Sinclair, Mixfits (2) |
@@ -18,9 +17,10 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 32 upcoming gi
 | Thu, 12 Nov 2026 | Refracta & Pals | Coben, Refracta, Torso |
 | Fri, 13 Nov 2026 | Palidrone: Dansa (LUCKYME) & rudi | Dansa |
 | Sun, 15 Nov 2026 | GOO (Daniel Avery b2b Richard Fearless) - Free Time | Daniel Avery, Richard Fearless |
+| Sun, 15 Nov 2026 | Postal: Amber Leith | Amber Leith |
 
 ## Address
 
 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom, Edinburgh
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/edinburgh/club/sneaky-pete-s/)*

@@ -1,6 +1,6 @@
 # Pelacha
 
-Pelacha is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
+Pelacha is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
 
 Pelacha is a techno and electro artist based in Spain, with 27 gigs on soundcheck across Amsterdam, Barcelona, Madrid and Malaga and 1 more. Often billed alongside Dzeko, The Zenobit3 and Xpansul. Next up: Razzmatazz, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Pelacha is a techno and electro artist based in Spain, with 27 gigs on soundchec
 
 Dzeko, The Zenobit3, Xpansul
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pelacha/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pelacha/)*

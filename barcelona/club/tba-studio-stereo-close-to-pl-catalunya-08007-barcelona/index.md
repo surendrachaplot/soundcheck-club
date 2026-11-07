@@ -1,22 +1,22 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 31 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Studio Stereo x DSS! x Muelle pres. Max Sprauer (Barcelona debut)" on Fri, 6 Nov 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 30 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Studio Stereo x Mirador pres. Méni" on Sat, 7 Nov 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 31 upcoming gigs, with line-ups including .cosm, Alex Garcia, BERNOUT and CVD and 2 more. See dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 30 upcoming gigs, with line-ups including .cosm, Alexey Orlov, Alex Garcia and BERNOUT and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Studio Stereo x DSS! x Muelle pres. Max Sprauer (Barcelona debut) | Edu C, LM, Manchon, Max Sprauer |
 | Sat, 7 Nov 2026 | Studio Stereo x Mirador pres. Méni | Méni |
 | Thu, 12 Nov 2026 | Studio Stereo x Pulsar pres. Tamarindo | BERNOUT, Dimarziio, Polisha, Tamarindo |
 | Fri, 13 Nov 2026 | Studio Stereo x TiZi pres. Monile b2b Labouts (Yoyaku Selectors) all night long | Cyril The Great, Labouts, Monile |
 | Sat, 14 Nov 2026 | Studio Stereo x &friends pres. Giuliano Lomonte |  |
 | Thu, 19 Nov 2026 | Studio Stereo pres. Spanked Records showcase | .cosm, Julia Konor, Mila Morr, shiritaki |
 | Fri, 20 Nov 2026 | Studio Stereo x Kommuna pres. Kumquat |  |
-| Sat, 21 Nov 2026 | Studio Stereo TBA |  |
+| Sat, 21 Nov 2026 | Studio Stereo x Soundmate pres. Luna Ludmila |  |
 | Thu, 26 Nov 2026 | Studio Stereo TBA |  |
 | Fri, 27 Nov 2026 | Studio Stereo x Seguim pres. Sarah Neptune | Alex Garcia (2), CVD (1), Vince Void |
+| Sat, 28 Nov 2026 | Studio Stereo x MASS pres. Harold Heath | .cosm, Joe Howey |
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/tba-studio-stereo-close-to-pl-catalunya-08007-barcelona/)*

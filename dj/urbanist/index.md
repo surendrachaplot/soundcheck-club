@@ -1,6 +1,6 @@
 # URBANIST
 
-URBANIST is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Das Werk, Vienna on Sat, 7 Nov 2026.
+URBANIST is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Das Werk, Vienna on Sat, 7 Nov 2026.
 
 URBANIST is a techno artist based in Austria, with 3 gigs on soundcheck across Austria and Vienna. Often billed alongside Albin Brezlan, Crazy Sonic and Dana Melissa. Next up: Das Werk, Vienna on Sat 7 Nov.
 
@@ -19,4 +19,4 @@ URBANIST is a techno artist based in Austria, with 3 gigs on soundcheck across A
 
 Albin Brezlan, Crazy Sonic, Dana Melissa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbanist/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/urbanist/)*

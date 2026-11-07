@@ -1,6 +1,6 @@
 # Mali
 
-Mali is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Zanzibar - Various Venues, Tanzania on Thu, 14 Jan 2027.
+Mali is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Zanzibar - Various Venues, Tanzania on Thu, 14 Jan 2027.
 
 Mali is a tech house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester and 2 more. Often billed alongside Yass, Julian Anthony and Nightmares on Wax. Next up: Zanzibar - Various Venues, Tanzania on Thu 14 Jan.
 
@@ -25,4 +25,4 @@ Mali is a tech house and techno artist based in United Kingdom, with 11 gigs on 
 
 Yass, Julian Anthony, Nightmares on Wax
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mali/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mali/)*

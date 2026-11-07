@@ -1,6 +1,6 @@
 # DJ-SUN
 
-DJ-SUN is a Club and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Podlasie Club, Chicago on Sat, 14 Nov 2026.
+DJ-SUN is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Podlasie Club, Chicago on Sat, 14 Nov 2026.
 
 DJ-SUN is a club and house artist based in United States of America, with 72 gigs on soundcheck across Baltimore, Chicago, Los Angeles and New Orleans and 4 more. Often billed alongside Tromac, flotussin and CalvoMusic. Next up: Podlasie Club, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ-SUN is a club and house artist based in United States of America, with 72 gig
 
 Tromac, flotussin, CalvoMusic
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dj-sun/)*

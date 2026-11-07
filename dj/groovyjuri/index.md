@@ -1,6 +1,6 @@
 # groovyjuri
 
-groovyjuri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+groovyjuri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 groovyjuri is a house and techno artist based in Germany, with 37 gigs on soundcheck across Berlin, Lausanne and Munich. Often billed alongside Almost Famous, Christa K and Smau. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ groovyjuri is a house and techno artist based in Germany, with 37 gigs on soundc
 
 Almost Famous, Christa K, Smau
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovyjuri/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/groovyjuri/)*

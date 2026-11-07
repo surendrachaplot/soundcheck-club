@@ -1,6 +1,6 @@
 # XXHARDBIT3S
 
-XXHARDBIT3S is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Chicago on Sat, 7 Nov 2026.
+XXHARDBIT3S is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Chicago on Sat, 7 Nov 2026.
 
 XXHARDBIT3S is a hardcore and gabber artist based in United States of America, with 59 gigs on soundcheck across Baltimore, Boston, Chicago and Denver and 7 more. Often billed alongside JESSXO, 3mouth and Yesterdayneverhappened. Next up: TBA, Chicago on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ XXHARDBIT3S is a hardcore and gabber artist based in United States of America, w
 
 JESSXO, 3mouth, Yesterdayneverhappened
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xxhardbit3s/)*

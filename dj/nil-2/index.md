@@ -1,6 +1,6 @@
 # Nil (2)
 
-Nil (2) is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Metepec, Estado-de-m-xico on Sat, 7 Nov 2026.
+Nil (2) is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Metepec, Estado-de-m-xico on Sat, 7 Nov 2026.
 
 Nil is a drum & bass artist based in Georgia, with 9 gigs on soundcheck across Estado De M Xico, Tbilisi and Tokyo. Often billed alongside 2ciu, Audrey Danza and Aurora Halal. Next up: TBA - Metepec, Estado De M Xico on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Nil is a drum & bass artist based in Georgia, with 9 gigs on soundcheck across E
 
 2ciu, Audrey Danza, Aurora Halal
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nil-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nil-2/)*

@@ -1,6 +1,6 @@
 # Ricardo Lin
 
-Ricardo Lin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at D-EDGE, Sao Paulo on Sun, 8 Nov 2026.
+Ricardo Lin is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at D-EDGE, Sao Paulo on Sun, 8 Nov 2026.
 
 Ricardo Lin is a house and tech house artist, with 4 gigs on soundcheck across Brazil and Sao Paulo. Often billed alongside DJ ZAC, JONATAS C and Maya Fourteen. Next up: D-EDGE, Sao Paulo on Sun 8 Nov.
 
@@ -20,4 +20,4 @@ Ricardo Lin is a house and tech house artist, with 4 gigs on soundcheck across B
 
 DJ ZAC, JONATAS C, Maya Fourteen
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardolin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardolin/)*

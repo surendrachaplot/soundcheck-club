@@ -1,6 +1,6 @@
 # DRUMSHEDS
 
-DRUMSHEDS is a music venue in London with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Worried About Henry with Wilkinson, Bou, Kanine, Luude and many more " on Sat, 7 Nov 2026.
+DRUMSHEDS is a music venue in London with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Worried About Henry with Wilkinson, Bou, Kanine, Luude and many more " on Sat, 7 Nov 2026.
 
 DRUMSHEDS is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Kepler, ADMNTi, Adrian Mills and Alex Farell and 2 more. See dates, start times and who's playing. 6 Glover Drive, Edmonton, London, N18 3HF.
 
@@ -23,4 +23,4 @@ DRUMSHEDS is a music venue in London listed on soundcheck. 14 upcoming gigs, wit
 
 6 Glover Drive, Edmonton, London, N18 3HF, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/drumsheds/)*

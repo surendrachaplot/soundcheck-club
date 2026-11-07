@@ -1,6 +1,6 @@
 # Ininin
 
-Ininin is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Volnost, Seoul on Sat, 21 Nov 2026.
+Ininin is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Volnost, Seoul on Sat, 21 Nov 2026.
 
 Ininin is a techno and ebm artist based in South Korea, with 31 gigs on soundcheck across Seoul and Tokyo. Often billed alongside SIJIN, Bumho and 501A. Next up: Volnost, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ininin is a techno and ebm artist based in South Korea, with 31 gigs on soundche
 
 SIJIN, Bumho, 501A
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ininin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ininin/)*

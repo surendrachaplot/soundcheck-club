@@ -1,14 +1,13 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE]" on Fri, 6 Nov 2026.
+The Dolphin is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "EAST COAST POWER DYNAMICS THROBBING GRISTLE THANKSGIVING WSG EBGIII" on Thu, 12 Nov 2026.
 
-The Dolphin is a music venue in Philadelphia listed on soundcheck. 7 upcoming gigs, with line-ups including America Loves Me, Ariel Zetina, Brad Scott and Dave Tidey and 2 more. See dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
+The Dolphin is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including America Loves Me, Ariel Zetina, Brad Scott and David Atlas and 2 more. See dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE] | Dave Tidey, G I N A |
 | Thu, 12 Nov 2026 | EAST COAST POWER DYNAMICS THROBBING GRISTLE THANKSGIVING WSG EBGIII | Mike Textbeak, ebgiii |
 | Fri, 13 Nov 2026 | PUBLIC ACCESS presents: PRIME TIME @ The Dolphin | America Loves Me, RRRROMAINE, moistbreezy |
 | Sat, 14 Nov 2026 | ABBARAMA: All-Vinyl 70s/80s Disco Party - 8 Year Anniversary | David Atlas |
@@ -20,4 +19,4 @@ The Dolphin is a music venue in Philadelphia listed on soundcheck. 7 upcoming gi
 
 1539 S Broad St, Philadelphia, PA 19147, Philadelphia
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/the-dolphin/)*

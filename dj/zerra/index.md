@@ -1,6 +1,6 @@
 # Zerra
 
-Zerra is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at John Doe, Amsterdam on Tue, 10 Nov 2026.
+Zerra is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at John Doe, Amsterdam on Tue, 10 Nov 2026.
 
 Zerra is a techno and industrial artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside TRANZ, Ahku and 2LS. Next up: John Doe, Amsterdam on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Zerra is a techno and industrial artist based in Netherlands, with 9 gigs on sou
 
 TRANZ, Ahku, 2LS (1)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zerra/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zerra/)*

@@ -1,6 +1,6 @@
 # Chris Wolter
 
-Chris Wolter is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
+Chris Wolter is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Happy Buddha, Vietnam on Thu, 31 Dec 2026.
 
 Chris Wolter is a techno and minimal techno artist based in Vietnam, with 13 gigs on soundcheck across Ho Chi Minh City and Vietnam. Often billed alongside Moth1, B.A.X. and 1DAN. Next up: Happy Buddha, Vietnam on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Chris Wolter is a techno and minimal techno artist based in Vietnam, with 13 gig
 
 Moth1, B.A.X., 1DAN
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswolter/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriswolter/)*

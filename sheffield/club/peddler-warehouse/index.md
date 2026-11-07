@@ -1,6 +1,6 @@
 # Peddler Warehouse
 
-Peddler Warehouse is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Sterling pres: Day & Night w/ Big Ang, Mella Dee & Silva Bumpa" on Sun, 8 Nov 2026.
+Peddler Warehouse is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Sterling pres: Day & Night w/ Big Ang, Mella Dee & Silva Bumpa" on Sun, 8 Nov 2026.
 
 Peddler Warehouse is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, with line-ups including Andrea Montalto, Big Ang, Linga Sound and Mella Dee and 2 more. See dates, start times and who's playing. 92 Burton Rd, Sheffield, S3 8BX, United Kingdom.
 
@@ -16,4 +16,4 @@ Peddler Warehouse is a music venue in Sheffield listed on soundcheck. 3 upcoming
 
 92 Burton Rd, Sheffield, S3 8BX, United Kingdom, Sheffield
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/peddler-warehouse/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/peddler-warehouse/)*

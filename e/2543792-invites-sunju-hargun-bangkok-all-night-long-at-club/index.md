@@ -1,6 +1,6 @@
 # 宀 Invites Sunju Hargun (宀, Bangkok) [All Night Long] at 宀 Club
 
-宀 Invites Sunju Hargun (宀, Bangkok) [All Night Long] at 宀 Club on Fri 5 Feb, Hong Kong. 1 artist: Sunju Hargun. See the line-up on soundcheck.
+宀 Invites Sunju Hargun (宀, Bangkok) [All Night Long] at 宀 Club on Fri 5 Feb, Hong Kong. 1 artist: Sunju Hargun. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

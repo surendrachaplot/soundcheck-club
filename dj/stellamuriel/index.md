@@ -1,6 +1,6 @@
 # Stella Muriel
 
-Stella Muriel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
+Stella Muriel is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Gotec, Karlsruhe on Sat, 21 Nov 2026.
 
 Stella Muriel is a techno and trance artist, with 24 gigs on soundcheck across Barcelona, Berlin, Brussels and Heidelberg and 4 more. Often billed alongside LUIGI323, Shwabi and JBox. Next up: Gotec, Karlsruhe on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Stella Muriel is a techno and trance artist, with 24 gigs on soundcheck across B
 
 LUIGI323, Shwabi, JBox
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellamuriel/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stellamuriel/)*

@@ -1,6 +1,6 @@
 # Iker Lobo
 
-Iker Lobo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 13 Nov 2026.
+Iker Lobo is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Say No More Madrid, Madrid on Fri, 13 Nov 2026.
 
 Iker Lobo is a house and tech house artist based in Mexico, with 11 gigs on soundcheck across Madrid. Often billed alongside Daya Dadlani, Hugo Carter and Alex Sosa. Next up: Say No More Madrid, Madrid on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Iker Lobo is a house and tech house artist based in Mexico, with 11 gigs on soun
 
 Daya Dadlani, Hugo Carter, Alex Sosa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ikerlobo/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ikerlobo/)*

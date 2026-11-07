@@ -1,6 +1,6 @@
 # Used
 
-Used is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Brno Exhibition Centre, Brno on Sat, 4 Dec 2027.
+Used is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Brno Exhibition Centre, Brno on Sat, 4 Dec 2027.
 
 Used is a drum & bass and bass artist, with 17 gigs on soundcheck across Amsterdam, Antwerp, Bratislava and Brisbane and 12 more. Often billed alongside Mozey, Delta Heavy and A Little Sound. Next up: Brno Exhibition Centre, Brno on Sat 4 Dec.
 
@@ -25,4 +25,4 @@ Used is a drum & bass and bass artist, with 17 gigs on soundcheck across Amsterd
 
 Mozey, Delta Heavy, A Little Sound
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/used/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/used/)*

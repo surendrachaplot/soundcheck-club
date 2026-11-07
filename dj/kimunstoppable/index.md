@@ -1,6 +1,6 @@
 # Kim Unstoppable
 
-Kim Unstoppable is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at glimmer, Hamburg on Sat, 7 Nov 2026.
+Kim Unstoppable is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at glimmer, Hamburg on Sat, 7 Nov 2026.
 
 Kim Unstoppable is a trance and techno artist, with 16 gigs on soundcheck across Berlin and Hamburg. Often billed alongside DJ Hellfire, Cyberboi3000 and Eva Nyx. Next up: glimmer, Hamburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kim Unstoppable is a trance and techno artist, with 16 gigs on soundcheck across
 
 DJ Hellfire, Cyberboi3000, Eva Nyx
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimunstoppable/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimunstoppable/)*

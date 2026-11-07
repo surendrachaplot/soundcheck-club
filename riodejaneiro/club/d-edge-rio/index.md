@@ -1,14 +1,13 @@
 # D-Edge RIO
 
-D-Edge RIO is a music venue in Rio de Janeiro with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "D-Edge Rio apresenta Beltran" on Fri, 6 Nov 2026.
+D-Edge RIO is a music venue in Rio de Janeiro with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "D-Edge Rio apresenta DJ MARKY & FRIENDS" on Sat, 7 Nov 2026.
 
-D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 9 upcoming gigs, with line-ups including AIKO, Aninha, Beltran and DiskoTekaa* and 2 more. See dates, start times and who's playing. Av. Rodrigues Alves, 293, Saúde.
+D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 8 upcoming gigs, with line-ups including AIKO, Aninha, DiskoTekaa* and Gabe Live and 2 more. See dates, start times and who's playing. Av. Rodrigues Alves, 293, Saúde.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | D-Edge Rio apresenta Beltran | Beltran |
 | Sat, 7 Nov 2026 | D-Edge Rio apresenta DJ MARKY & FRIENDS |  |
 | Fri, 13 Nov 2026 | D-Edge Rio apresenta TULIPA & TROMMEL | Aninha, Magda, tINI |
 | Sat, 14 Nov 2026 | D-Edge Rio apresenta D-NOX & BECKERS |  |
@@ -22,4 +21,4 @@ D-Edge RIO is a music venue in Rio de Janeiro listed on soundcheck. 9 upcoming g
 
 Av. Rodrigues Alves, 293, Saúde, Rio de Janeiro
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/d-edge-rio/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/riodejaneiro/club/d-edge-rio/)*

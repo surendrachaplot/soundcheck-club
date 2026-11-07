@@ -1,6 +1,6 @@
 # Roberto Maqueda
 
-Roberto Maqueda is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at u.House, Buenos Aires on Sat, 7 Nov 2026.
+Roberto Maqueda is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at u.House, Buenos Aires on Sat, 7 Nov 2026.
 
 Roberto Maqueda is an experimental and electronica artist based in Spain, with 11 gigs on soundcheck across Basel, Berlin, Buenos Aires and Glasgow and 4 more. Often billed alongside Andriy K., Mitospora and AXT. Next up: u.House, Buenos Aires on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Roberto Maqueda is an experimental and electronica artist based in Spain, with 1
 
 Andriy K., Mitospora, AXT
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertomaqueda/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertomaqueda/)*

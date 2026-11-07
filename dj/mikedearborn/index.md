@@ -1,6 +1,6 @@
 # Mike Dearborn
 
-Mike Dearborn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Morgan MFG., Chicago on Sat, 7 Nov 2026.
+Mike Dearborn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Morgan MFG., Chicago on Sat, 7 Nov 2026.
 
 Mike Dearborn is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Chicago, Detroit and New York City and 1 more. Often billed alongside Mike Dunn, Adam Pecho and Adorio. Next up: Morgan MFG., Chicago on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mike Dearborn is a techno and house artist based in United States of America, wi
 
 Mike Dunn, Adam Pecho, Adorio
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedearborn/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikedearborn/)*

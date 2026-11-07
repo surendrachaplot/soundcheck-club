@@ -1,6 +1,6 @@
 # Peppou
 
-Peppou is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Code, Bulgaria on Sat, 7 Nov 2026.
+Peppou is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Code, Bulgaria on Sat, 7 Nov 2026.
 
 Peppou is a techno and tech house artist based in Bulgaria, with 47 gigs on soundcheck across Bulgaria, Singapore and Sofia. Often billed alongside Pavel Petrov, Bagerziev and METODI. Next up: Club Code, Bulgaria on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Peppou is a techno and tech house artist based in Bulgaria, with 47 gigs on soun
 
 Pavel Petrov, Bagerziev, METODI
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peppou/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peppou/)*

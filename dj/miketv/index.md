@@ -1,6 +1,6 @@
 # Mike Buhl
 
-Mike Buhl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Coil, Melbourne on Sat, 7 Nov 2026.
+Mike Buhl is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Coil, Melbourne on Sat, 7 Nov 2026.
 
 Mike Buhl is a techno and house artist based in Australia, with 9 gigs on soundcheck across Melbourne. Often billed alongside DJ Kiti, .VRIL and Eddie Hale. Next up: Coil, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mike Buhl is a techno and house artist based in Australia, with 9 gigs on soundc
 
 DJ Kiti, .VRIL, Eddie Hale
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miketv/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miketv/)*

@@ -1,14 +1,13 @@
 # berlinClub
 
-berlinClub is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Sound of Fashion: Le Masquerade Ball" on Fri, 6 Nov 2026.
+berlinClub is a music venue in Madrid with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Girando la Tarde · After Siesta" on Sat, 7 Nov 2026.
 
-berlinClub is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Aleksandir, Allisson Nunes, Eder Croket and El cuerpo del Disco and 2 more. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
+berlinClub is a music venue in Madrid listed on soundcheck. 5 upcoming gigs, with line-ups including Aleksandir, Allisson Nunes, Eder Croket and El cuerpo del Disco and 2 more. See dates, start times and who's playing. Costanilla de los Ángeles, 20, 28013 Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Sound of Fashion: Le Masquerade Ball |  |
 | Sat, 7 Nov 2026 | Girando la Tarde · After Siesta | Allisson Nunes, Nebari |
 | Sat, 7 Nov 2026 | Papaia Club: Gaspar & Elena - All Night Long | Gaspar Antuña, Le Nomad |
 | Sun, 8 Nov 2026 | Teleparthy · Mar Bravo + Nina Prica + Sazky | Mar Bravo, Sazky |
@@ -19,4 +18,4 @@ berlinClub is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, wit
 
 Costanilla de los Ángeles, 20, 28013 Madrid, Madrid
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/berlinclub/)*

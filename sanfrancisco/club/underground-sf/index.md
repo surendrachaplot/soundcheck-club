@@ -1,14 +1,13 @@
 # Underground SF
 
-Underground SF is a music venue in San Francisco/Oakland with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Party for No Reason" on Fri, 6 Nov 2026.
+Underground SF is a music venue in San Francisco/Oakland with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Mother Armenia presents Sha Ray & DJ Haram: Critical Thot Live" on Sat, 7 Nov 2026.
 
-Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 10 upcoming gigs, with line-ups including 480P (US), 9-System, Aepricity and ALICE STRIBLING and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
+Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 9 upcoming gigs, with line-ups including 480P (US), 9-System, Aepricity and ALICE STRIBLING and 2 more. See dates, start times and who's playing. 424 Haight St, San Francisco, CA 94117, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Party for No Reason |  |
 | Sat, 7 Nov 2026 | Mother Armenia presents Sha Ray & DJ Haram: Critical Thot Live | DJ Ari B, DJ Haram, Discnogirl |
 | Thu, 12 Nov 2026 | Just Another Bitch EP Release Party | Aepricity, Arreola Grande, Davey Ultra, Just Another Bitch, Koreaboo, Oso Feo, ZZ (4), ek:), likeholywine, nonsuit, xxveneco |
 | Fri, 13 Nov 2026 | CLUB MUSIC 11/13 at UndergroundSF | Andy411, Camillionaire |
@@ -23,4 +22,4 @@ Underground SF is a music venue in San Francisco/Oakland listed on soundcheck. 1
 
 424 Haight St, San Francisco, CA 94117, United States, San Francisco/Oakland
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sanfrancisco/club/underground-sf/)*

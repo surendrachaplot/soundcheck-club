@@ -1,6 +1,6 @@
 # Leon Haller
 
-Leon Haller is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lenbachplatz 1, Munich on Sat, 7 Nov 2026.
+Leon Haller is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lenbachplatz 1, Munich on Sat, 7 Nov 2026.
 
 Leon Haller is a techno and house artist based in Germany, with 67 gigs on soundcheck across Baden W Rttemberg, Berlin, Munich and Stuttgart and 1 more. Often billed alongside Louis EMP, MRTI and Alicea. Next up: Lenbachplatz 1, Munich on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Leon Haller is a techno and house artist based in Germany, with 67 gigs on sound
 
 Louis EMP, MRTI, Alicea
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonhaller/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leonhaller/)*

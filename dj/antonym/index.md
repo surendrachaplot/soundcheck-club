@@ -1,6 +1,6 @@
 # Antonym
 
-Antonym is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
+Antonym is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Indiego Glocksee, Hannover on Sat, 7 Nov 2026.
 
 Antonym is a techno and trance artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Antwerp, Belgium and Berlin and 19 more. Often billed alongside DJ Pinky Promise, Carluschka and Elon Bass. Next up: Indiego Glocksee, Hannover on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Antonym is a techno and trance artist based in Germany, with 113 gigs on soundch
 
 DJ Pinky Promise, Carluschka, Elon Bass
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonym/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antonym/)*

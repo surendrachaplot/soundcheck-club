@@ -1,6 +1,6 @@
 # INGI
 
-INGI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at OHM, Berlin on Thu, 10 Dec 2026.
+INGI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OHM, Berlin on Thu, 10 Dec 2026.
 
 INGI is a house and techno artist based in Iceland, with 17 gigs on soundcheck across Berlin, London and Tokyo. Often billed alongside Cam Joon, DDREAM and Klahrk. Next up: OHM, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ INGI is a house and techno artist based in Iceland, with 17 gigs on soundcheck a
 
 Cam Joon, DDREAM, Klahrk
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ingi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ingi/)*

@@ -1,6 +1,6 @@
 # MightyKat
 
-MightyKat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Loft 14, Montreal on Sat, 14 Nov 2026.
+MightyKat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Loft 14, Montreal on Sat, 14 Nov 2026.
 
 MightyKat is a house and techno artist based in Canada, with 25 gigs on soundcheck across Berlin, Montreal, Quebec City and Toronto. Often billed alongside Luc Raymond, Soundshaper and Artphorm. Next up: Loft 14, Montreal on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MightyKat is a house and techno artist based in Canada, with 25 gigs on soundche
 
 Luc Raymond, Soundshaper, Artphorm
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mightykat/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mightykat/)*

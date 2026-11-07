@@ -1,14 +1,13 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 6 Nov 2026.
+Jay Duncan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Greyhound, London on Fri, 13 Nov 2026.
 
-Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: Cobalt Studios, Newcastle on Fri 6 Nov.
+Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: The Greyhound, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Cobalt Studios | Newcastle |
 | Fri, 13 Nov 2026 | The Greyhound | London |
 | Fri, 20 Nov 2026 | The Love Inn | Bristol |
 | Sat, 28 Nov 2026 | Low Profile Studios | London |
@@ -16,6 +15,7 @@ Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on
 
 ## Recently played
 
+- Cobalt Studios, Newcastle · Fri, 6 Nov 2026
 - M.O.T, London · Thu, 29 Oct 2026
 - 桃園玉山街影視基地, Taipei · Sat, 24 Oct 2026
 - The Carpet Shop, London · Sat, 3 Oct 2026
@@ -23,10 +23,9 @@ Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on
 - Gaffe, London · Sun, 30 Aug 2026
 - Signal, New York City · Fri, 21 Aug 2026
 - Ballroom at Palais, London · Fri, 17 Jul 2026
-- TBA - Near Salisbury, London · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Lukas Wigflex, Bethan, FAFF
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*

@@ -1,6 +1,6 @@
 # Hocking
 
-Hocking is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Comma Bar, Hanoi on Sat, 7 Nov 2026.
+Hocking is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Comma Bar, Hanoi on Sat, 7 Nov 2026.
 
 Hocking is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Bangkok, Hanoi, Ho Chi Minh City and London. Often billed alongside Feelz, George Adore and K-Sang. Next up: TBA - Comma Bar, Hanoi on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hocking is a house and techno artist based in United Kingdom, with 56 gigs on so
 
 Feelz, George Adore, K-Sang
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hocking/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hocking/)*

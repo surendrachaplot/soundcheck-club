@@ -1,14 +1,13 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "LOCALS × LIQUID: 2026 FINALE [2 STAGES]  " on Fri, 6 Nov 2026.
+Liquid Club is a music venue in Malta with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "TRIKKI - MAURER + RARE MAMBA" on Sat, 7 Nov 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, with line-ups including Alex Micca, Acidulant, Andrea Giordani and Anna Amato and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Micca, Acidulant, Andrea Giordani and Anna Amato and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | LOCALS × LIQUID: 2026 FINALE [2 STAGES]   | Cheech, Georg MT, Joshua Calleja, OBLX, Visualizer, iNK MT |
 | Sat, 7 Nov 2026 | TRIKKI - MAURER + RARE MAMBA | MAURER, Reactant |
 | Fri, 13 Nov 2026 | Kore Hypnotica - VINYL SESSION - Viktoria Spielmann, Yazmin, Andrea Giordani | Andrea Giordani, Viktoria Spielmann, YAZMIN (MT) |
 | Fri, 13 Nov 2026 | Techno Pulse | Alex Micca, Eddy D'Amato, Mikeonacid, Philip Ackowsky |
@@ -18,9 +17,10 @@ Liquid Club is a music venue in Malta listed on soundcheck. 12 upcoming gigs, wi
 | Fri, 27 Nov 2026 | 77CELLAR: Anna Amato, GVZ, MAAKS B2B Molario, P RISCO | Anna Amato, GVZ (1), MAAKS MT, Molario, P RISCO |
 | Fri, 27 Nov 2026 | BUNKER RAVE presents Felicie | Ashibane, Florian François, Félicie, ØZZY |
 | Sat, 28 Nov 2026 | IMPULSE DIVISION | Anna V., FIASKA, Joshua Calleja, OBLX, iNK MT |
+| Fri, 4 Dec 2026 | Techno Agency (OSMWSTA) (2 STAGE) | DJ Nasty Deluxe, Philip Ackowsky, The Electronic Advance |
 
 ## Address
 
 Triq Hal-Gharghur, San Ġwann, Malta, Malta
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/malta/club/liquid-club/)*

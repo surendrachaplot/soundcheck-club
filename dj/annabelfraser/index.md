@@ -1,6 +1,6 @@
 # Annabel Fraser
 
-Annabel Fraser is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
+Annabel Fraser is a Industrial and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The White Hotel, Manchester on Sat, 7 Nov 2026.
 
 Annabel Fraser is an industrial and experimental artist based in United Kingdom, with 36 gigs on soundcheck across Berlin, Düsseldorf, Edinburgh and Glasgow and 2 more. Often billed alongside Jon K, Elle Andrews and Conor Thomas. Next up: The White Hotel, Manchester on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Annabel Fraser is an industrial and experimental artist based in United Kingdom,
 
 Jon K, Elle Andrews, Conor Thomas
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelfraser/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annabelfraser/)*

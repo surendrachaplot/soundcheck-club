@@ -1,6 +1,6 @@
 # BZZHOUND
 
-BZZHOUND is a Techno and Guaracha artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Core, Madrid on Fri, 27 Nov 2026.
+BZZHOUND is a Techno and Guaracha artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Core, Madrid on Fri, 27 Nov 2026.
 
 BZZHOUND is a techno and guaracha artist based in Colombia, with 66 gigs on soundcheck across Barcelona, Berlin, Bogotá and Leipzig and 5 more. Often billed alongside Linapary, DJ2D2 and 2AT. Next up: Core, Madrid on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ BZZHOUND is a techno and guaracha artist based in Colombia, with 66 gigs on soun
 
 Linapary, DJ2D2, 2AT
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bzzhound/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bzzhound/)*

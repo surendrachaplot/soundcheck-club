@@ -1,6 +1,6 @@
 # KIM AHLF
 
-KIM AHLF is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Roof 175, Frankfurt on Sat, 7 Nov 2026.
+KIM AHLF is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Roof 175, Frankfurt on Sat, 7 Nov 2026.
 
 KIM AHLF is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Athens, Augsburg, Bavaria and Berlin and 10 more. Often billed alongside Mark Dekoda, Frank Rayo and Sylvie Miles. Next up: Roof 175, Frankfurt on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ KIM AHLF is a techno and trance artist based in Germany, with 51 gigs on soundch
 
 Mark Dekoda, Frank Rayo, Sylvie Miles
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimahlf/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimahlf/)*

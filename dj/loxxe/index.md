@@ -1,6 +1,6 @@
 # Loxxe
 
-Loxxe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Coil, Melbourne on Sat, 7 Nov 2026.
+Loxxe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Coil, Melbourne on Sat, 7 Nov 2026.
 
 Loxxe is a techno and house artist based in Canada, with 14 gigs on soundcheck across Melbourne and Toronto. Often billed alongside Landan Brawley, SouthPawBrown and Aerodroemme. Next up: Coil, Melbourne on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Loxxe is a techno and house artist based in Canada, with 14 gigs on soundcheck a
 
 Landan Brawley, SouthPawBrown, Aerodroemme
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loxxe/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loxxe/)*

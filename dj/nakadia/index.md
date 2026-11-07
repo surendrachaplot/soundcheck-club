@@ -1,6 +1,6 @@
 # Nakadia
 
-Nakadia is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cliff Social, Cyprus on Sat, 7 Nov 2026.
+Nakadia is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cliff Social, Cyprus on Sat, 7 Nov 2026.
 
 Nakadia is a techno and tech house artist based in Thailand, with 99 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 37 more. Often billed alongside Dr. Motte, Dub Tiger and James Taylor (AU). Next up: Cliff Social, Cyprus on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Nakadia is a techno and tech house artist based in Thailand, with 99 gigs on sou
 
 Dr. Motte, Dub Tiger, James Taylor (AU)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nakadia/)*

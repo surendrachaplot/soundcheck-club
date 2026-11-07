@@ -1,6 +1,6 @@
 # S1LVERLUV
 
-S1LVERLUV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at UNDERCITY, Seoul on Fri, 13 Nov 2026.
+S1LVERLUV is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at UNDERCITY, Seoul on Fri, 13 Nov 2026.
 
 S1LVERLUV is a techno and hardcore artist based in France, with 14 gigs on soundcheck across Seoul. Often billed alongside D.E.F, Rivako and PONGPONG. Next up: UNDERCITY, Seoul on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ S1LVERLUV is a techno and hardcore artist based in France, with 14 gigs on sound
 
 D.E.F, Rivako, PONGPONG
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s1lverluv/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s1lverluv/)*

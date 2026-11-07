@@ -1,6 +1,6 @@
 # RENÊ
 
-RENÊ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at M.N.Roy, Mexico City on Sat, 7 Nov 2026.
+RENÊ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at M.N.Roy, Mexico City on Sat, 7 Nov 2026.
 
 RENÊ is a house and techno artist, with 26 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 5 more. Often billed alongside Dan Mlinar, VALOUR and Calypsis. Next up: M.N.Roy, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ RENÊ is a house and techno artist, with 26 gigs on soundcheck across Barcelona,
 
 Dan Mlinar, VALOUR, Calypsis
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renê/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renê/)*

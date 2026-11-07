@@ -1,6 +1,6 @@
 # El Kazed
 
-El Kazed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at La Kulture, Strasbourg on Sat, 7 Nov 2026.
+El Kazed is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at La Kulture, Strasbourg on Sat, 7 Nov 2026.
 
 El Kazed is a house and techno artist based in France, with 13 gigs on soundcheck across Berlin, Rotterdam and Strasbourg. Often billed alongside Ordinaire Records, Tal Stef and BOUKI. Next up: La Kulture, Strasbourg on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ El Kazed is a house and techno artist based in France, with 13 gigs on soundchec
 
 Ordinaire Records, Tal Stef, BOUKI (2)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elkazed/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elkazed/)*

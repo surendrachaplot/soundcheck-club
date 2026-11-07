@@ -1,6 +1,6 @@
 # Monster
 
-Monster is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
+Monster is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at SCHRON, Poznan on Fri, 6 Nov 2026.
 
 Monster is a techno and trance artist based in Poland, with 76 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 14 more. Often billed alongside Alegria, Bambi Uzi and DiV4. Next up: SCHRON, Poznan on Fri 6 Nov.
 
@@ -12,6 +12,7 @@ Monster is a techno and trance artist based in Poland, with 76 gigs on soundchec
 
 ## Recently played
 
+- SCHRON, Poznan · Fri, 6 Nov 2026
 - Geheimclub, Saxony-anhalt · Fri, 30 Oct 2026
 - Pałac Kultury i Nauki, Warsaw · Fri, 30 Oct 2026
 - SCHRON, Poznan · Sat, 24 Oct 2026
@@ -19,10 +20,9 @@ Monster is a techno and trance artist based in Poland, with 76 gigs on soundchec
 - SCHRON, Poznan · Sat, 5 Sept 2026
 - Jasna 1, Warsaw · Sat, 20 Jun 2026
 - TBA - See Telegram, Berlin · Sat, 6 Jun 2026
-- SCHRON, Poznan · Fri, 29 May 2026
 
 ## Shares bills with
 
 Alegria, Bambi Uzi, DiV4
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monster/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monster/)*

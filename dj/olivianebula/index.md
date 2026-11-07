@@ -1,6 +1,6 @@
 # Olivia Nebula
 
-Olivia Nebula is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 7 Nov 2026.
+Olivia Nebula is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 7 Nov 2026.
 
 Olivia Nebula is a techno and house artist based in Slovakia, with 8 gigs on soundcheck across Berlin, Bratislava, Prague and Warsaw. Often billed alongside Gabrielle (DE), ZANDOLY and Loktibrada. Next up: Radost Music Club, Bratislava on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Olivia Nebula is a techno and house artist based in Slovakia, with 8 gigs on sou
 
 Gabrielle (DE), ZANDOLY, Loktibrada
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivianebula/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olivianebula/)*

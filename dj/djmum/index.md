@@ -1,6 +1,6 @@
 # DJ Mum
 
-DJ Mum is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
+DJ Mum is a Bass and Dubstep artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Miscellania, Melbourne on Sat, 14 Nov 2026.
 
 DJ Mum is a bass and dubstep artist based in Australia, with 26 gigs on soundcheck across Melbourne and Perth. Often billed alongside Emelyne, Brown Suga Princess and Gillielove. Next up: Miscellania, Melbourne on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ DJ Mum is a bass and dubstep artist based in Australia, with 26 gigs on soundche
 
 Emelyne, Brown Suga Princess, Gillielove
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmum/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmum/)*

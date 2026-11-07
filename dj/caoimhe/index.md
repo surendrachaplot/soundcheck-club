@@ -1,6 +1,6 @@
 # CAOIMHE
 
-CAOIMHE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Telegraph Building, Belfast on Thu, 12 Nov 2026.
+CAOIMHE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Telegraph Building, Belfast on Thu, 12 Nov 2026.
 
 CAOIMHE is a house and techno artist, with 29 gigs on soundcheck across Belfast and Galway. Often billed alongside Danse Intermission, Holly Lester and Inside Moves. Next up: The Telegraph Building, Belfast on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ CAOIMHE is a house and techno artist, with 29 gigs on soundcheck across Belfast 
 
 Danse Intermission, Holly Lester, Inside Moves
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caoimhe/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/caoimhe/)*

@@ -1,6 +1,6 @@
 # Bar 13
 
-Bar 13 is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Cabros Chicos: Omar Courtz Tribute - Dance Party In UNION SQUARE" on Sat, 7 Nov 2026.
+Bar 13 is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Cabros Chicos: Omar Courtz Tribute - Dance Party In UNION SQUARE" on Sat, 7 Nov 2026.
 
 Bar 13 is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Bradford James and Zak Zodiak. See dates, start times and who's playing. 35 East 13th Street; New York, NY 10003; United States.
 
@@ -19,4 +19,4 @@ Bar 13 is a music venue in New York City listed on soundcheck. 6 upcoming gigs, 
 
 35 East 13th Street; New York, NY 10003; United States, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-13/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/bar-13/)*

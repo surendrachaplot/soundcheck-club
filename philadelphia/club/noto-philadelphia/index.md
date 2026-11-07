@@ -1,14 +1,13 @@
 # Noto Philadelphia
 
-Noto Philadelphia is a music venue in Philadelphia with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Valentino Khan" on Fri, 6 Nov 2026.
+Noto Philadelphia is a music venue in Philadelphia with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "PTO: Mha iri" on Thu, 12 Nov 2026.
 
-Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 10 upcoming gigs, with line-ups including Angelinkast, Conrad Taylor, Magit Cacoon and Mha iri and 2 more. See dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
+Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 9 upcoming gigs, with line-ups including Angelinkast, Conrad Taylor, Magit Cacoon and Mha iri and 2 more. See dates, start times and who's playing. 1209 Vine Street Philadelphia, Pennsylvania.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Valentino Khan |  |
 | Thu, 12 Nov 2026 | PTO: Mha iri | Mha iri, Miss Powers |
 | Thu, 12 Nov 2026 | PTO Thursdays: Mha Iri |  |
 | Sat, 14 Nov 2026 | Philly NOTO Indo Warehouse: Spice Trade Tour 11/14 |  |
@@ -23,4 +22,4 @@ Noto Philadelphia is a music venue in Philadelphia listed on soundcheck. 10 upco
 
 1209 Vine Street Philadelphia, Pennsylvania, Philadelphia
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/noto-philadelphia/)*

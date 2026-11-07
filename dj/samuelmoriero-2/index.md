@@ -1,14 +1,13 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Psytrance artist with 16 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Gate Milano, Milan on Fri, 6 Nov 2026.
+Samuel Moriero (2) is a Techno and Psytrance artist with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 23 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Gate Milano, Milan on Fri 6 Nov.
+Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Barcelona and 23 more. Often billed alongside Onlynumbers, ASLO and Adam Bartas. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Gate Milano | Milan |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
@@ -20,9 +19,11 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
 | Fri, 15 Jan 2027 | Arena Joondalup | Perth |
+| Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
 
 ## Recently played
 
+- Gate Milano, Milan · Fri, 6 Nov 2026
 - Razzmatazz, Barcelona · Sun, 1 Nov 2026
 - Parc des Expositions Paris Nord, Paris · Fri, 30 Oct 2026
 - Afas Live, Amsterdam · Sun, 25 Oct 2026
@@ -30,10 +31,9 @@ Samuel Moriero is a techno and psytrance artist based in Italy, with 35 gigs on 
 - 821 Runnymede Rd, Toronto · Fri, 16 Oct 2026
 - TBA, Toronto · Sat, 10 Oct 2026
 - TBA, Toronto · Sat, 3 Oct 2026
-- 314 Scholes, New York City · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Onlynumbers, ASLO, Adam Bartas
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/samuelmoriero-2/)*

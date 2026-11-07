@@ -1,6 +1,6 @@
 # M.N.Roy
 
-M.N.Roy is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Gespona + LORENA" on Fri, 6 Nov 2026.
+M.N.Roy is a music venue in Mexico City with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Gespona + LORENA" on Fri, 6 Nov 2026.
 
 M.N.Roy is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, with line-ups including Gespona, Ian Martz, LORENA (MX) and Marc DePulse and 2 more. See dates, start times and who's playing. Mérida 186  06700 Mexico City, Mexico.
 
@@ -17,4 +17,4 @@ M.N.Roy is a music venue in Mexico City listed on soundcheck. 4 upcoming gigs, w
 
 Mérida 186  06700 Mexico City, Mexico, Mexico City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/m-n-roy/)*

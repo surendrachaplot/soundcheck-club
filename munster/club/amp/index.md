@@ -1,14 +1,13 @@
 # Amp
 
-Amp is a music venue in Münster with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Amp pres. Valeby All Night Long" on Fri, 6 Nov 2026.
+Amp is a music venue in Münster with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Shift" on Sat, 14 Nov 2026.
 
-Amp is a music venue in Münster listed on soundcheck. 10 upcoming gigs, with line-ups including Cali Caracho, Delm, dylliboi_91 and kichererbsenstampf and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
+Amp is a music venue in Münster listed on soundcheck. 9 upcoming gigs, with line-ups including Cali Caracho, Delm, dylliboi_91 and kichererbsenstampf and 2 more. See dates, start times and who's playing. Am Hawerkamp 1, 48155 Münster.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Amp pres. Valeby All Night Long | Valeby |
 | Sat, 14 Nov 2026 | Shift |  |
 | Fri, 20 Nov 2026 | Sachsentrance | Luzinka, RaverPik, The Jakob Sister |
 | Sat, 21 Nov 2026 | BCCO | Noise Mafia |
@@ -23,4 +22,4 @@ Amp is a music venue in Münster listed on soundcheck. 10 upcoming gigs, with li
 
 Am Hawerkamp 1, 48155 Münster, Münster
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/amp/)*

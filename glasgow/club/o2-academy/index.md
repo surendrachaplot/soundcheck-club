@@ -1,6 +1,6 @@
 # O2 Academy
 
-O2 Academy is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "An Evening With Chicane - Glasgow" on Sat, 14 Nov 2026.
+O2 Academy is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "An Evening With Chicane - Glasgow" on Sat, 14 Nov 2026.
 
 O2 Academy is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Bmberjck, Chicane, Dual Damage and Sickmode. See dates, start times and who's playing. 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom.
 
@@ -16,4 +16,4 @@ O2 Academy is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, wi
 
 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom, Glasgow
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/o2-academy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/o2-academy/)*

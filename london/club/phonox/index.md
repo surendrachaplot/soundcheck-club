@@ -1,14 +1,13 @@
 # Phonox
 
-Phonox is a music venue in London with 45 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party)" on Fri, 6 Nov 2026.
+Phonox is a music venue in London with 45 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Dusky presents Take A Trip: Dusky (All Day Long)" on Sat, 7 Nov 2026.
 
-Phonox is a music venue in London listed on soundcheck. 45 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Angel D'lite, Billy Daniel Bunter and Cameo Blush and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 45 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Angel D'lite, Billy Daniel Bunter and Chinese Daughter and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party) | Cameo Blush, Ross From Friends |
 | Sat, 7 Nov 2026 | Dusky presents Take A Trip: Dusky (All Day Long) | Dusky |
 | Sat, 7 Nov 2026 | George FitzGerald (All Night Long) | George FitzGerald |
 | Thu, 12 Nov 2026 | Insomnia: DJ Storm, Chinese Daughter & Friends | Chinese Daughter, DJ Storm, Darkstepper, H3L3NA, Priscilla |
@@ -18,9 +17,10 @@ Phonox is a music venue in London listed on soundcheck. 45 upcoming gigs, with l
 | Thu, 19 Nov 2026 | Insomnia: Kessler, Ned Spencer & YAZ | Kessler, Ned Spencer |
 | Fri, 20 Nov 2026 | Ross From Friends & LOVEFOXY: 4 Fridays at Phonox (20th Nov) | LOVEFOXY, Ross From Friends |
 | Sat, 21 Nov 2026 | Dusky: Originals (2010 - 2025 Set) | Dusky |
+| Sat, 21 Nov 2026 | Phonox: Truly Madly, Facta & K-LONE | Facta, K-LONE, Truly Madly |
 
 ## Address
 
 418 Brixton Road Brixton London SW9 7AY, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/phonox/)*

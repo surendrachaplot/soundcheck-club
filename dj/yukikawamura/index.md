@@ -1,6 +1,6 @@
 # Yuki Kawamura
 
-Yuki Kawamura is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at DAN Oiso, Kanto on Sat, 7 Nov 2026.
+Yuki Kawamura is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at DAN Oiso, Kanto on Sat, 7 Nov 2026.
 
 Yuki Kawamura is a house and experimental artist based in Japan, with 13 gigs on soundcheck across Kanto, Seoul and Tokyo. Often billed alongside heykazma, Cityboy from Seoul and Ash Park. Next up: DAN Oiso, Kanto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Yuki Kawamura is a house and experimental artist based in Japan, with 13 gigs on
 
 heykazma, Cityboy from Seoul, Ash Park
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukikawamura/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yukikawamura/)*

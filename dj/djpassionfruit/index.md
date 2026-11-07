@@ -1,6 +1,6 @@
 # DJ Passion Fruit
 
-DJ Passion Fruit is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 7 Nov 2026.
+DJ Passion Fruit is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Crossroads Cafe, New York City on Sat, 7 Nov 2026.
 
 DJ Passion Fruit is a deep house and house artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside Caratastrophe, DJ Courtney K and Dune45. Next up: Crossroads Cafe, New York City on Sat 7 Nov.
 
@@ -20,4 +20,4 @@ DJ Passion Fruit is a deep house and house artist based in United States of Amer
 
 Caratastrophe, DJ Courtney K, Dune45
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpassionfruit/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpassionfruit/)*

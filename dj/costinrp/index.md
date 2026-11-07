@@ -1,6 +1,6 @@
 # Costin Rp
 
-Costin Rp is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at NEU, Stockholm on Sat, 21 Nov 2026.
+Costin Rp is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at NEU, Stockholm on Sat, 21 Nov 2026.
 
 Costin Rp is a techno and house artist based in Romania, with 15 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 4 more. Often billed alongside &ME, Ajaks and Alci. Next up: NEU, Stockholm on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Costin Rp is a techno and house artist based in Romania, with 15 gigs on soundch
 
 &ME, Ajaks, Alci
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/costinrp/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/costinrp/)*

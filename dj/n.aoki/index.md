@@ -1,6 +1,6 @@
 # N.AOKI
 
-N.AOKI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at or, Tokyo on Sun, 8 Nov 2026.
+N.AOKI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at or, Tokyo on Sun, 8 Nov 2026.
 
 N.AOKI is a techno and house artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside YOSHI KANOU, AiMii and Luke Hobbs. Next up: or, Tokyo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ N.AOKI is a techno and house artist based in Japan, with 9 gigs on soundcheck ac
 
 YOSHI KANOU, AiMii, Luke Hobbs
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n.aoki/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/n.aoki/)*

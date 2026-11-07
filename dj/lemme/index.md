@@ -1,6 +1,6 @@
 # LEMME
 
-LEMME is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
+LEMME is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Circolo Amelia, Milan on Sat, 7 Nov 2026.
 
 LEMME is a techno and house artist based in Italy, with 18 gigs on soundcheck across Milan and Turin. Often billed alongside Galilea, Ragliaz and AMBRA. Next up: Circolo Amelia, Milan on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ LEMME is a techno and house artist based in Italy, with 18 gigs on soundcheck ac
 
 Galilea, Ragliaz, AMBRA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemme/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lemme/)*

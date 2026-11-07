@@ -1,6 +1,6 @@
 # Vault Sessions 12YRS WKNDR at RADION
 
-Vault Sessions 12YRS WKNDR at RADION on Fri 5 Feb, Amsterdam. 17 artists: Adriana Lopez, BENZA, Blasha & Allatt and FENIM0RE and 13 more. See the line-up on soundcheck.
+Vault Sessions 12YRS WKNDR at RADION on Fri 5 Feb, Amsterdam. 17 artists: Adriana Lopez, BENZA, Blasha & Allatt and FENIM0RE and 13 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

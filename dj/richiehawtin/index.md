@@ -1,14 +1,13 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
+Richie Hawtin is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at MoN Takanawa, Tokyo on Fri, 20 Nov 2026.
 
-Richie Hawtin is a techno and house artist based in United Kingdom, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Adiel, Héctor Oaks and Nina Kraviz. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
+Richie Hawtin is a techno and house artist based in United Kingdom, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 61 more. Often billed alongside Adiel, Héctor Oaks and Nina Kraviz. Next up: MoN Takanawa, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 20 Nov 2026 | MoN Takanawa | Tokyo |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 | Sat, 12 Dec 2026 | Spook Club | Valencia |
@@ -18,6 +17,7 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 204 gig
 
 ## Recently played
 
+- Palais 12 / Paleis 12 (ING Arena), Brussels · Fri, 6 Nov 2026
 - Gold Bar Hangar, California · Fri, 30 Oct 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Institut du Monde Arabe, Paris · Sat, 24 Oct 2026
@@ -25,10 +25,9 @@ Richie Hawtin is a techno and house artist based in United Kingdom, with 204 gig
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Adiel, Héctor Oaks, Nina Kraviz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/richiehawtin/)*

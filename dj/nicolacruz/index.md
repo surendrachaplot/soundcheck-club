@@ -1,6 +1,6 @@
 # Nicola Cruz
 
-Nicola Cruz is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Nicola Cruz is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Nicola Cruz is a techno and house artist based in Ecuador, with 126 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 49 more. Often billed alongside Shvili, Cosmic JD and Hiroko Yamamura. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
@@ -9,8 +9,6 @@ Nicola Cruz is a techno and house artist based in Ecuador, with 126 gigs on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
-| Fri, 6 Nov 2026 | Say No More Madrid | Madrid |
-| Fri, 6 Nov 2026 | Nômade Temple Madrid | Madrid |
 | Sat, 14 Nov 2026 | BAR Inc | Osaka |
 | Fri, 20 Nov 2026 | Club (o)Utopos | Chubu |
 | Sun, 22 Nov 2026 | Mitsuki | Tokyo |
@@ -19,17 +17,17 @@ Nicola Cruz is a techno and house artist based in Ecuador, with 126 gigs on soun
 
 ## Recently played
 
+- Fira Barcelona, Barcelona · Fri, 6 Nov 2026
+- Say No More Madrid, Madrid · Fri, 6 Nov 2026
+- Nômade Temple Madrid, Madrid · Fri, 6 Nov 2026
 - Nowadays, New York City · Sat, 17 Oct 2026
 - Deseo BS AS, Buenos Aires · Sat, 26 Sept 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
 - Kaiku, Helsinki · Fri, 21 Aug 2026
 - Le Sucre, Lyon · Sun, 16 Aug 2026
-- essaim, Paris · Sat, 15 Aug 2026
-- FOLD, London · Sat, 8 Aug 2026
-- The Loft, Manchester · Fri, 7 Aug 2026
 
 ## Shares bills with
 
 Shvili, Cosmic JD, Hiroko Yamamura
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolacruz/)*

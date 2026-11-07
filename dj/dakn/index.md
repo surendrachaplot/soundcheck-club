@@ -1,6 +1,6 @@
 # Dakn
 
-Dakn is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at OHM, Berlin on Sat, 28 Nov 2026.
+Dakn is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OHM, Berlin on Sat, 28 Nov 2026.
 
 Dakn is a drum & bass and bass artist based in Palestine, with 31 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 5 more. Often billed alongside Miri Malek, Dangermami and Hilary C/B. Next up: OHM, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Dakn is a drum & bass and bass artist based in Palestine, with 31 gigs on soundc
 
 Miri Malek, Dangermami, Hilary C/B
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dakn/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dakn/)*

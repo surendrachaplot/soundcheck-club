@@ -1,6 +1,6 @@
 # Paul Panther
 
-Paul Panther is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at SASS Music Club, Vienna on Sat, 14 Nov 2026.
+Paul Panther is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at SASS Music Club, Vienna on Sat, 14 Nov 2026.
 
 Paul Panther is a house and minimal artist, with 15 gigs on soundcheck across Vienna. Often billed alongside Philipp Blecha, Thomas Grün and Flani. Next up: SASS Music Club, Vienna on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Paul Panther is a house and minimal artist, with 15 gigs on soundcheck across Vi
 
 Philipp Blecha, Thomas Grün, Flani (2)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpanther/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulpanther/)*

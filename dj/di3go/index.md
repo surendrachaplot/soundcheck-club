@@ -1,6 +1,6 @@
 # Di3GO
 
-Di3GO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Bassement, Madrid on Fri, 11 Dec 2026.
+Di3GO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Bassement, Madrid on Fri, 11 Dec 2026.
 
 Di3GO is a house and techno artist based in Japan, with 41 gigs on soundcheck across Madrid, Milan and Tokyo. Often billed alongside DJ NIKO, Terax and Lazuli. Next up: The Bassement, Madrid on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Di3GO is a house and techno artist based in Japan, with 41 gigs on soundcheck ac
 
 DJ NIKO, Terax, Lazuli
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/di3go/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/di3go/)*

@@ -1,14 +1,13 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Garden" on Fri, 6 Nov 2026.
+Compufunk Records is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DON'T BULLSHIT ME" on Sat, 7 Nov 2026.
 
-Compufunk Records is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including Ashikaga, DJ Compufunk, DJ KAZUMA and IKUZO and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
+Compufunk Records is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including Ashikaga, DJ Compufunk, DJ KAZUMA and IKUZO and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Garden |  |
 | Sat, 7 Nov 2026 | DON'T BULLSHIT ME |  |
 | Fri, 13 Nov 2026 | MATRIX feat Serenne | DJ Compufunk, Serenne |
 | Sat, 21 Nov 2026 | MINT | DJ KAZUMA, Koji Nakamura |
@@ -19,4 +18,4 @@ Compufunk Records is a music venue in Osaka listed on soundcheck. 6 upcoming gig
 
 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan, Osaka
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/compufunk-records/)*

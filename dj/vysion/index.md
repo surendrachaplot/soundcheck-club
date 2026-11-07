@@ -1,6 +1,6 @@
 # Vysion
 
-Vysion is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 15 Nov 2026.
+Vysion is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lokschuppen Berlin, Berlin on Sun, 15 Nov 2026.
 
 Vysion is a techno and trance artist based in Germany, with 36 gigs on soundcheck across Berlin. Often billed alongside Schicktanz, WLLKR and BENZA. Next up: Lokschuppen Berlin, Berlin on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ Vysion is a techno and trance artist based in Germany, with 36 gigs on soundchec
 
 Schicktanz, WLLKR, BENZA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vysion/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vysion/)*

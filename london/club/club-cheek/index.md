@@ -1,14 +1,13 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Private Funktion: Nina Yamada, Offie Mag DJs, Hiren Parmar & Eman Pav" on Fri, 6 Nov 2026.
+Club Cheek is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "BIO-TECH LDN 010 feat Amit & B-Key" on Sat, 7 Nov 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Ruby SD, Amit, Ariane V and batgirl and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Ruby SD, Amit, Ariane V and batgirl and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Private Funktion: Nina Yamada, Offie Mag DJs, Hiren Parmar & Eman Pav | Emanuel Pavlova, Nina Yamada, OFFIE MAG DJs |
 | Sat, 7 Nov 2026 | BIO-TECH LDN 010 feat Amit & B-Key | Amit, Facs, Primitivizm, Xanadu |
 | Fri, 13 Nov 2026 | [CANCELLED] Amadeus presents: Ariane V, Serious Hots, WildWood (Live) and Flash Mitra | Ariane V, Flash Mitra |
 | Sat, 14 Nov 2026 | Girls of the Internet (Live) | Girls of the Internet |
@@ -18,9 +17,10 @@ Club Cheek is a music venue in London listed on soundcheck. 14 upcoming gigs, wi
 | Fri, 27 Nov 2026 | Meet In The MIDI | Karim Bitar, T.NO, Tovsky, mi-el, siân manee |
 | Sat, 28 Nov 2026 | Elevation: 4 Year Celebration with Special Guests | Cosmo Sofi, K15, joey manzi, nath eps |
 | Fri, 4 Dec 2026 | Floor Play presents: Lola Haro  | Lola Haro, Ruby SD, batgirl |
+| Sat, 5 Dec 2026 | The 2 Bears |  |
 
 ## Address
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

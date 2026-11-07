@@ -1,6 +1,6 @@
 # Hiro Kone
 
-Hiro Kone is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Reactor Shanghai, Shanghai on Wed, 11 Nov 2026.
+Hiro Kone is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Reactor Shanghai, Shanghai on Wed, 11 Nov 2026.
 
 Hiro Kone is an experimental and ambient artist based in United States of America, with 15 gigs on soundcheck across Beijing, Berlin, Bratislava and Glasgow and 7 more. Often billed alongside Drew McDowall, Ale Hop and Amnesia Scanner. Next up: Reactor Shanghai, Shanghai on Wed 11 Nov.
 
@@ -27,4 +27,4 @@ Hiro Kone is an experimental and ambient artist based in United States of Americ
 
 Drew McDowall, Ale Hop, Amnesia Scanner
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokone/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokone/)*

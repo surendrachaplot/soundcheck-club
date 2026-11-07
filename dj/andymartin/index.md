@@ -1,25 +1,27 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at LAUT, Barcelona on Fri, 6 Nov 2026.
+Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Zoo, Geneva on Sat, 7 Nov 2026.
 
-Andy Martin is a techno and house artist based in Mexico, with 107 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Niño Arbol, Alarico and DJ MARIA.. Next up: LAUT, Barcelona on Fri 6 Nov.
+Andy Martin is a techno and house artist based in Mexico, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Niño Arbol, Richard Akingbehin and Alarico. Next up: Zoo, Geneva on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | LAUT | Barcelona |
 | Sat, 7 Nov 2026 | Zoo | Geneva |
 | Sat, 14 Nov 2026 | UMI | Brussels |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | TBA - Saint-Denis | Paris |
+| Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 19 Dec 2026 | The Wall | El-paso |
+| Sat, 19 Dec 2026 | public records | New York City |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 | Fri, 26 Mar 2027 | TBA - Djargurd Wurrong Country (Victoria, Australia) | Melbourne |
 
 ## Recently played
 
+- LAUT, Barcelona · Fri, 6 Nov 2026
 - The Love Inn, Bristol · Fri, 30 Oct 2026
 - Lofi, Amsterdam · Sun, 25 Oct 2026
 - TILLATEC, Amsterdam · Fri, 23 Oct 2026
@@ -27,10 +29,9 @@ Andy Martin is a techno and house artist based in Mexico, with 107 gigs on sound
 - Cadavra, Madrid · Fri, 16 Oct 2026
 - FOLD, London · Sat, 10 Oct 2026
 - Lux Fragil, Lisbon · Fri, 9 Oct 2026
-- The Loom, San Francisco/Oakland · Fri, 2 Oct 2026
 
 ## Shares bills with
 
-Niño Arbol, Alarico, DJ MARIA.
+Niño Arbol, Richard Akingbehin, Alarico
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

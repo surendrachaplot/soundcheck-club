@@ -1,6 +1,6 @@
 # Nathalie Seres
 
-Nathalie Seres is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 7 Nov 2026.
+Nathalie Seres is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Les Enfants Brillants, Barcelona on Sat, 7 Nov 2026.
 
 Nathalie Seres is a house and techno artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgium and 18 more. Often billed alongside DJ Senc, Steffi and Adiel. Next up: Les Enfants Brillants, Barcelona on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Nathalie Seres is a house and techno artist based in Germany, with 80 gigs on so
 
 DJ Senc, Steffi, Adiel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nathalieseres/)*

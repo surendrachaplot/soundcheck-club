@@ -1,6 +1,6 @@
 # Bushwacka!
 
-Bushwacka! is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Minimüzikhol, Istanbul on Sat, 14 Nov 2026.
+Bushwacka! is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Minimüzikhol, Istanbul on Sat, 14 Nov 2026.
 
 Bushwacka! is a house and disco artist based in United Kingdom, with 47 gigs on soundcheck across Berlin, Bucharest, Cardiff and Ibiza and 12 more. Often billed alongside Defex, Camilo Miranda and Daniel Dutts. Next up: Minimüzikhol, Istanbul on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Bushwacka! is a house and disco artist based in United Kingdom, with 47 gigs on 
 
 Defex, Camilo Miranda, Daniel Dutts
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushwacka/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushwacka/)*

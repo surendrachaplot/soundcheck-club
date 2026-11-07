@@ -1,6 +1,6 @@
 # Couch Mechanic
 
-Couch Mechanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Couch Mechanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Couch Mechanic is a techno and house artist based in Australia, with 30 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Jane Decks, Casual P and Elijah Something. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Couch Mechanic is a techno and house artist based in Australia, with 30 gigs on 
 
 Jane Decks, Casual P, Elijah Something
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/couchmechanic/)*

@@ -1,6 +1,6 @@
 # MPeach
 
-MPeach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Friends & Lovers, New York City on Sat, 7 Nov 2026.
+MPeach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Friends & Lovers, New York City on Sat, 7 Nov 2026.
 
 MPeach is a techno and house artist based in Venezuela, with 35 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 5 more. Often billed alongside zorenLo, 8888 and JOSELO. Next up: Friends & Lovers, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MPeach is a techno and house artist based in Venezuela, with 35 gigs on soundche
 
 zorenLo, 8888, JOSELO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mpeach/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mpeach/)*

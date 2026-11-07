@@ -1,6 +1,6 @@
 # Plaza Mayor de El Poble Espanyol
 
-Plaza Mayor de El Poble Espanyol is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "FUSE - Hivernacle Barcelona" on Sat, 21 Nov 2026.
+Plaza Mayor de El Poble Espanyol is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "FUSE - Hivernacle Barcelona" on Sat, 21 Nov 2026.
 
 Plaza Mayor de El Poble Espanyol is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Adam Beyer, Anna Tur, Bart Skils and Enzo Siragusa and 2 more. See dates, start times and who's playing. Avda. Francesc Ferrer i Guardia, 13 08038 Barcelona.
 
@@ -15,4 +15,4 @@ Plaza Mayor de El Poble Espanyol is a music venue in Barcelona listed on soundch
 
 Avda. Francesc Ferrer i Guardia, 13 08038 Barcelona, Barcelona
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-mayor-de-el-poble-espanyol/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/plaza-mayor-de-el-poble-espanyol/)*

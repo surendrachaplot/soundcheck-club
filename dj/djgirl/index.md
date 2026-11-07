@@ -1,6 +1,6 @@
 # DJ Girl
 
-DJ Girl is a Electro and Gabber artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Marble Bar, Detroit on Sat, 14 Nov 2026.
+DJ Girl is a Electro and Gabber artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Marble Bar, Detroit on Sat, 14 Nov 2026.
 
 DJ Girl is an electro and gabber artist based in United States of America, with 15 gigs on soundcheck across Atlanta, Detroit, New York City and San Francisco/Oakland. Often billed alongside Seanni B, madeofants and Charles Trees. Next up: Marble Bar, Detroit on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ DJ Girl is an electro and gabber artist based in United States of America, with 
 
 Seanni B, madeofants, Charles Trees
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgirl/)*

@@ -1,6 +1,6 @@
 # DJ Vivona
 
-DJ Vivona is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Country Discoclub, Sicily on Sat, 14 Nov 2026.
+DJ Vivona is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Country Discoclub, Sicily on Sat, 14 Nov 2026.
 
 DJ Vivona is a house and uk funky artist based in Italy, with 12 gigs on soundcheck across Amsterdam, Bali, Berlin and Ibiza and 3 more. Often billed alongside Bianchetti, TWOEF and ADEZ. Next up: Country Discoclub, Sicily on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Vivona is a house and uk funky artist based in Italy, with 12 gigs on soundch
 
 Bianchetti, TWOEF, ADEZ
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djvivona/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djvivona/)*

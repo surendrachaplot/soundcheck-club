@@ -1,14 +1,13 @@
 # The Social
 
-The Social is a music venue in London with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "LOCALISM: CHÉ WAX" on Fri, 6 Nov 2026.
+The Social is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Timelines" on Sat, 7 Nov 2026.
 
-The Social is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Abby Daze, Ben Repertoire, CHÉ WAX and Dj magic touch and 2 more. See dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
+The Social is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Abby Daze, Ben Repertoire, Dj magic touch and DJ Ron and 2 more. See dates, start times and who's playing. 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | LOCALISM: CHÉ WAX | CHÉ WAX |
 | Sat, 7 Nov 2026 | Timelines | Abby Daze, Ben Repertoire, Dj magic touch, Lemon D, Sicknote |
 | Sat, 7 Nov 2026 | SILO | Dorléac |
 | Fri, 20 Nov 2026 | LOCALISM: Rio Tashan | Rio Tashan |
@@ -20,4 +19,4 @@ The Social is a music venue in London listed on soundcheck. 7 upcoming gigs, wit
 
 5 Little Portland Street; Fitzrovia; London W1W 7JD; United Kingdom, London
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-social/)*

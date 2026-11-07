@@ -1,6 +1,6 @@
 # DJ Tallboy
 
-DJ Tallboy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Abyss Shanghai, Shanghai on Sat, 7 Nov 2026.
+DJ Tallboy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Abyss Shanghai, Shanghai on Sat, 7 Nov 2026.
 
 DJ Tallboy is a techno and trance artist based in Germany, with 75 gigs on soundcheck across Berlin, Bologna, Bremen and Cologne and 16 more. Often billed alongside DJ Discostoff, Rosilicious and ANDATA. Next up: Abyss Shanghai, Shanghai on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ DJ Tallboy is a techno and trance artist based in Germany, with 75 gigs on sound
 
 DJ Discostoff, Rosilicious, ANDATA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtallboy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djtallboy/)*

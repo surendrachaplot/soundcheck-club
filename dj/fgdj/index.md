@@ -1,6 +1,6 @@
 # Fgdj
 
-Fgdj is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
+Fgdj is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 20 Nov 2026.
 
 Fgdj is a techno and minimal techno artist based in Spain, with 16 gigs on soundcheck across Madrid. Often billed alongside Pylerinstinct1, Rodri Martin and Wisje Dj. Next up: TBA - Secret Location, Madrid on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Fgdj is a techno and minimal techno artist based in Spain, with 16 gigs on sound
 
 Pylerinstinct1, Rodri Martin, Wisje Dj
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fgdj/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fgdj/)*

@@ -1,6 +1,6 @@
 # DJ WÜRM
 
-DJ WÜRM is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Doop, Shanghai on Sat, 7 Nov 2026.
+DJ WÜRM is a Club and Experimental artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Doop, Shanghai on Sat, 7 Nov 2026.
 
 DJ WÜRM is a club and experimental artist based in Belgium, with 12 gigs on soundcheck across Brussels, Ljubljana, Nürnberg and Paris and 2 more. Often billed alongside Illsee, Valentina Magaletti and Andriana-Yaroslava Saienko. Next up: Doop, Shanghai on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ WÜRM is a club and experimental artist based in Belgium, with 12 gigs on sou
 
 Illsee, Valentina Magaletti, Andriana-Yaroslava Saienko
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwurm/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djwurm/)*

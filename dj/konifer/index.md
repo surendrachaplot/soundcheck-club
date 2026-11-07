@@ -1,6 +1,6 @@
 # Konifer
 
-Konifer is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Seattle on Sat, 7 Nov 2026.
+Konifer is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Seattle on Sat, 7 Nov 2026.
 
 Konifer is a house and electro artist based in United States of America, with 9 gigs on soundcheck across Los Angeles, Sao Paulo, Seattle and Vancouver. Often billed alongside Kinjo, Brune and DJ Magal. Next up: TBA, Seattle on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Konifer is a house and electro artist based in United States of America, with 9 
 
 Kinjo, Brune, DJ Magal
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konifer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konifer/)*

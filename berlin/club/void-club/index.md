@@ -1,14 +1,13 @@
 # Void Club
 
-Void Club is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Dionys x Tenpercent | Hardtechno x Trance/Bounce Rave (2 Floors)" on Fri, 6 Nov 2026.
+Void Club is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Out Of Mind with Upzet, Ed Shepherd, Mxnxnxke, Kumatai, DE.fine, Dino S b2b IRAD, LOUPING" on Sat, 7 Nov 2026.
 
-Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including AAguilAA, Abriss Andrej, access:dance and Alex Pastore and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
+Void Club is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including AAguilAA, Abriss Andrej, access:dance and Alex Pastore and 2 more. See dates, start times and who's playing. Wiesenweg 5-9, 10365.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Dionys x Tenpercent / Hardtechno x Trance/Bounce Rave (2 Floors) | Brizze, ELZIRA, JUWLZ, Joshkabonna, Kopflos, Sievert Serviert, Sonse |
 | Sat, 7 Nov 2026 | Out Of Mind with Upzet, Ed Shepherd, Mxnxnxke, Kumatai, DE.fine, Dino S b2b IRAD, LOUPING | DE.fine, Dino S, Ed Shepherd, IRAD, LOUPING, Upzet |
 | Fri, 13 Nov 2026 | VOID x VANTA.NYX VII with Tudse, Sofi Lucius, access:dance, K.EULE, Aynaet, Sagrivox, Upzet | Aynaet, K.EULE, Sagrivox, Sofi Lucius, Tudse, Upzet, access:dance, buktuu |
 | Sat, 14 Nov 2026 | BRAINFIRE -25TH INFERNO- | Jensen, Outrage, Robsen |
@@ -18,9 +17,10 @@ Void Club is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, wit
 | Sat, 28 Nov 2026 | 8 Years Expedicion with Mountain (JP), Jabba, Jumpat, Upzet, Iza, edgarwilles, Astraluna | IZA (6), Upzet, edgarwilles |
 | Fri, 11 Dec 2026 | Face 2 Face by Kinder der Nacht | GHOST DE, Rob Robsen, Talla 2XLC |
 | Fri, 11 Dec 2026 | Face 2 Face by Kinder der Nacht - with Talla 2XLC | Bonq, Bouras, Førehand, GHOST DE, LEPIDO, Lale Hepborn, Marc van Linden, Rob Robsen, Talla 2XLC |
+| Sat, 12 Dec 2026 | Dionys x I Love Modus: Hardtechno x Trance/Bounce Rave (2 Floors) | Brizze, e.leptic |
 
 ## Address
 
 Wiesenweg 5-9, 10365, Berlin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/void-club/)*

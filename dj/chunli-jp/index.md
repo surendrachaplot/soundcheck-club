@@ -1,6 +1,6 @@
 # 春麗 Chun Li
 
-春麗 Chun Li is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at club asia, Tokyo on Thu, 12 Nov 2026.
+春麗 Chun Li is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at club asia, Tokyo on Thu, 12 Nov 2026.
 
 春麗 Chun Li is a techno and bass artist based in Japan, with 46 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside ast midori, Vís and Aspara. Next up: club asia, Tokyo on Thu 12 Nov.
 
@@ -25,4 +25,4 @@
 
 ast midori, Vís (1), Aspara
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chunli-jp/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chunli-jp/)*

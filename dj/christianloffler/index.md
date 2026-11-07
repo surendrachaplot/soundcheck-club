@@ -1,6 +1,6 @@
 # Christian Löffler
 
-Christian Löffler is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at ZeyZey, Miami on Fri, 13 Nov 2026.
+Christian Löffler is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ZeyZey, Miami on Fri, 13 Nov 2026.
 
 Christian Löffler is a house and deep house artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Parra for Cuva, ELIF and Holly North. Next up: ZeyZey, Miami on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Christian Löffler is a house and deep house artist based in Germany, with 110 g
 
 Parra for Cuva, ELIF, Holly North
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christianloffler/)*

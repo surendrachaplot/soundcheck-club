@@ -1,6 +1,6 @@
 # ananke
 
-ananke is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Skin Club, Madrid on Sun, 29 Nov 2026.
+ananke is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Skin Club, Madrid on Sun, 29 Nov 2026.
 
 ananke is a techno and electronica artist based in Spain, with 4 gigs on soundcheck across Madrid. Often billed alongside Esther Summer, LUIS MIRANDA and M3LO. Next up: Skin Club, Madrid on Sun 29 Nov.
 
@@ -20,4 +20,4 @@ ananke is a techno and electronica artist based in Spain, with 4 gigs on soundch
 
 Esther Summer, LUIS MIRANDA, M3LO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ananke/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ananke/)*

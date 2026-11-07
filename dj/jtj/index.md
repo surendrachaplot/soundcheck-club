@@ -1,0 +1,28 @@
+# JTJ
+
+JTJ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Level 8 DTLA, Los Angeles on Sat, 7 Nov 2026.
+
+JTJ is a house and techno artist based in United States of America, with 20 gigs on soundcheck across Leeds, Los Angeles, Orange County and Sheffield. Often billed alongside Tamara Lanza, Jamie Duggan and Burgaboy. Next up: Level 8 DTLA, Los Angeles on Sat 7 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 7 Nov 2026 | Level 8 DTLA | Los Angeles |
+
+## Recently played
+
+- Somewhere Special, Los Angeles · Sat, 31 Oct 2026
+- TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND, Los Angeles · Thu, 15 Oct 2026
+- Level 8 DTLA, Los Angeles · Fri, 2 Oct 2026
+- TBA, Los Angeles · Fri, 28 Aug 2026
+- The Bungalow Huntington Beach, Orange County · Sat, 11 Jul 2026
+- TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles · Thu, 25 Jun 2026
+- Level 8 DTLA, Los Angeles · Sun, 31 May 2026
+- Level 8 DTLA, Los Angeles · Fri, 20 Mar 2026
+
+## Shares bills with
+
+Tamara Lanza, Jamie Duggan, Burgaboy
+
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jtj/)*

@@ -1,6 +1,6 @@
 # Power Squad
 
-Power Squad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
+Power Squad is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Oneonefive., Porto on Sat, 7 Nov 2026.
 
 Power Squad is a house and techno artist based in Germany, with 53 gigs on soundcheck across Athens, Berlin, Cologne and Düsseldorf and 6 more. Often billed alongside Dj Norma, Greta Spark and Natalie Robinson. Next up: Oneonefive., Porto on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Power Squad is a house and techno artist based in Germany, with 53 gigs on sound
 
 Dj Norma, Greta Spark, Natalie Robinson
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/powersquad/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/powersquad/)*

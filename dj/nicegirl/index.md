@@ -1,6 +1,6 @@
 # Nice Girl
 
-Nice Girl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
+Nice Girl is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Haven, Byron Bay on Fri, 6 Nov 2026.
 
 Nice Girl is a house and techno artist based in New Zealand, with 25 gigs on soundcheck across Auckland, Bali, Berlin and Brussels and 7 more. Often billed alongside Eden Burns, Frank Booker and DJ City. Next up: Haven, Byron Bay on Fri 6 Nov.
 
@@ -13,6 +13,7 @@ Nice Girl is a house and techno artist based in New Zealand, with 25 gigs on sou
 
 ## Recently played
 
+- Haven, Byron Bay · Fri, 6 Nov 2026
 - Runner Up Rooftop Bar, Melbourne · Sun, 18 Oct 2026
 - Angel Music Bar, Melbourne · Fri, 18 Sept 2026
 - Klymax Discotheque, Bali · Sat, 15 Aug 2026
@@ -20,10 +21,9 @@ Nice Girl is a house and techno artist based in New Zealand, with 25 gigs on sou
 - Abbotsford Convent, Melbourne · Sat, 29 Nov 2025
 - Section 8, Melbourne · Thu, 2 Oct 2025
 - Milneys, Melbourne · Sat, 28 Jun 2025
-- The Third Day, Melbourne · Sat, 31 May 2025
 
 ## Shares bills with
 
 Eden Burns, Frank Booker, DJ City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicegirl/)*

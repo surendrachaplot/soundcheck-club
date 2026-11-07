@@ -1,6 +1,6 @@
 # DJ Bone
 
-DJ Bone is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TV Lounge, Detroit on Sat, 7 Nov 2026.
+DJ Bone is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TV Lounge, Detroit on Sat, 7 Nov 2026.
 
 DJ Bone is a techno and house artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 43 more. Often billed alongside Azucy, Yeti Mind Tricks and Jack Fresia. Next up: TV Lounge, Detroit on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ DJ Bone is a techno and house artist based in United States of America, with 141
 
 Azucy, Yeti Mind Tricks, Jack Fresia
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*

@@ -1,6 +1,6 @@
 # Marlie
 
-Marlie is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+Marlie is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
 
 Marlie is a house and tech house artist, with 140 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austria and 32 more. Often billed alongside Enzo Siragusa, Traumer and PACH. Next up: FVTVR, Paris on Fri 6 Nov.
 
@@ -20,6 +20,7 @@ Marlie is a house and tech house artist, with 140 gigs on soundcheck across Amst
 
 ## Recently played
 
+- FVTVR, Paris · Fri, 6 Nov 2026
 - Chelmsford City Racecourse, London · Sun, 1 Nov 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
@@ -27,10 +28,9 @@ Marlie is a house and tech house artist, with 140 gigs on soundcheck across Amst
 - Gaswrx Birmingham, Birmingham · Sat, 17 Oct 2026
 - Ushuaïa Ibiza, Ibiza · Sat, 10 Oct 2026
 - Depot Mayfield, Manchester · Sat, 3 Oct 2026
-- fabric, London · Sun, 27 Sept 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Traumer, PACH
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marlie/)*

@@ -1,6 +1,6 @@
 # b_man (AU)
 
-b_man (AU) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Innerwest Location, Sydney on Sat, 7 Nov 2026.
+b_man (AU) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Innerwest Location, Sydney on Sat, 7 Nov 2026.
 
 b_man (AU) is a techno and house artist based in Australia, with 16 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Lilac, Alison Belle and Justin Muscat. Next up: TBA - Secret Innerwest Location, Sydney on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ b_man (AU) is a techno and house artist based in Australia, with 16 gigs on soun
 
 Lilac, Alison Belle, Justin Muscat
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b_manau/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b_manau/)*

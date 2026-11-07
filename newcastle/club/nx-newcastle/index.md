@@ -1,6 +1,6 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Azyr b2b Partiboi69" on Sat, 7 Nov 2026.
+NX Newcastle is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Azyr b2b Partiboi69" on Sat, 7 Nov 2026.
 
 NX Newcastle is a music venue in Newcastle listed on soundcheck. 15 upcoming gigs, with line-ups including Azyr, D.O.D., DREAD MC and East End Dubs and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
@@ -23,4 +23,4 @@ NX Newcastle is a music venue in Newcastle listed on soundcheck. 15 upcoming gig
 
 Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom, Newcastle
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*

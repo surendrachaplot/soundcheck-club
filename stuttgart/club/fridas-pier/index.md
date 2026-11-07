@@ -1,14 +1,13 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 17 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "HERZ & SEELE w./ Kaufmann, Karla Blum, Konfusia, tim|bre" on Fri, 6 Nov 2026.
+Fridas Pier is a music venue in Stuttgart with 16 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Elektronisch Draussen – Unterdeck Session" on Sat, 7 Nov 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming gigs, with line-ups including Bjørnson, Danilo Filipe, Dejago and DJ Gysi and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 16 upcoming gigs, with line-ups including Bjørnson, Danilo Filipe, Dejago and DJ Gysi and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | HERZ & SEELE w./ Kaufmann, Karla Blum, Konfusia, tim/bre | Karla Blum, Kaufmann, Konfusia, tim/bre |
 | Sat, 7 Nov 2026 | Elektronisch Draussen – Unterdeck Session | Samy Bell |
 | Fri, 13 Nov 2026 | AMBUSH BY VORTEX | Kili (3), ORBIT141 |
 | Sat, 14 Nov 2026 | Karotte | Karotte |
@@ -18,9 +17,10 @@ Fridas Pier is a music venue in Stuttgart listed on soundcheck. 17 upcoming gigs
 | Fri, 27 Nov 2026 | TRANCEPORT | Danilo Filipe, FANXI B, Vagabund |
 | Sat, 28 Nov 2026 | NAIS mit HERZ & SEELE | Domenic D'Agnelli, Moonbootica |
 | Fri, 4 Dec 2026 | Entrance | Hjalte, Juri Heidemann, Stereo Visions |
+| Fri, 11 Dec 2026 | Klaudia Gawlas, Pappenheimer | Bjørnson, Klaudia Gawlas |
 
 ## Address
 
 Uferstraße 107, 70188 Stuttgart, Germany, Stuttgart
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/stuttgart/club/fridas-pier/)*

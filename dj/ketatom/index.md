@@ -1,6 +1,6 @@
 # Ketato M
 
-Ketato M is a Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Left Bank, Tbilisi on Sat, 7 Nov 2026.
+Ketato M is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Left Bank, Tbilisi on Sat, 7 Nov 2026.
 
 Ketato M is a techno artist based in Georgia, with 33 gigs on soundcheck across Berlin, Poznan and Tbilisi. Often billed alongside Seqta, Sevda and Mancho. Next up: Left Bank, Tbilisi on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Ketato M is a techno artist based in Georgia, with 33 gigs on soundcheck across 
 
 Seqta, Sevda, Mancho
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketatom/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ketatom/)*

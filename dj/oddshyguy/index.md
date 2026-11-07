@@ -1,6 +1,6 @@
 # Odd Shy Guy
 
-Odd Shy Guy is a Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 13 Nov 2026.
+Odd Shy Guy is a Bass and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 13 Nov 2026.
 
 Odd Shy Guy is a bass and electronica artist based in Italy, with 32 gigs on soundcheck across Berlin, Bologna, Bristol and London and 4 more. Often billed alongside Rose Again, Volantis and Katatonic Silentio. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Odd Shy Guy is a bass and electronica artist based in Italy, with 32 gigs on sou
 
 Rose Again, Volantis, Katatonic Silentio
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oddshyguy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oddshyguy/)*

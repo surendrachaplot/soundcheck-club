@@ -1,6 +1,6 @@
 # Spartacus Potsdam
 
-Spartacus Potsdam is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Pace X Cymatics" on Fri, 6 Nov 2026.
+Spartacus Potsdam is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Pace X Cymatics" on Fri, 6 Nov 2026.
 
 Spartacus Potsdam is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Ben Reymann, Denise Rabe, evah and Galaxaura and 2 more. See dates, start times and who's playing. Friedrich-Engels-Straße 22, 14473 Potsdam, Germany.
 
@@ -16,4 +16,4 @@ Spartacus Potsdam is a music venue in Berlin listed on soundcheck. 3 upcoming gi
 
 Friedrich-Engels-Straße 22, 14473 Potsdam, Germany, Berlin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spartacus-potsdam/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/spartacus-potsdam/)*

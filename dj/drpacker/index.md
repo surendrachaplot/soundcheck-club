@@ -1,6 +1,6 @@
 # Dr Packer
 
-Dr Packer is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Port Beach Brewery, Perth on Sun, 14 Mar 2027.
+Dr Packer is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Port Beach Brewery, Perth on Sun, 14 Mar 2027.
 
 Dr Packer is a disco and house artist based in Australia, with 19 gigs on soundcheck across Barcelona, Glasgow, Ibiza and Kuala Lumpur and 8 more. Often billed alongside Melvo Baptiste, Natasha Diggs and Simon Dunmore. Next up: Port Beach Brewery, Perth on Sun 14 Mar.
 
@@ -25,4 +25,4 @@ Dr Packer is a disco and house artist based in Australia, with 19 gigs on soundc
 
 Melvo Baptiste, Natasha Diggs, Simon Dunmore
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drpacker/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drpacker/)*

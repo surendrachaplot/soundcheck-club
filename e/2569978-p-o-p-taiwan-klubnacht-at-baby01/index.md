@@ -1,6 +1,6 @@
 # 跑趴 pǎo pā: Taiwan Klubnacht at BABY01
 
-跑趴 pǎo pā: Taiwan Klubnacht at BABY01 on Fri 13 Nov, Berlin. 4 artists: ( ether o ), Bézier, Dungi Sapor and elliephunk. Techno and House. See the line-up on soundcheck.
+跑趴 pǎo pā: Taiwan Klubnacht at BABY01 on Fri 13 Nov, Berlin. 5 artists: ( ether o ), BB Deng, Bézier and Dungi Sapor and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@
 ## Line-up
 
 - ( ether o )
+- BB Deng
 - Bézier
 - Dungi Sapor
 - elliephunk

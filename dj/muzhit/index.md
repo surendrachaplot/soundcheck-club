@@ -1,6 +1,6 @@
 # muzhit
 
-muzhit is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Glove That Fits, London on Thu, 26 Nov 2026.
+muzhit is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Glove That Fits, London on Thu, 26 Nov 2026.
 
 muzhit is a trance and techno artist based in United Kingdom, with 3 gigs on soundcheck across Bristol and London. Often billed alongside Amor Ante, Berwick (Live) and Egyptian Lover. Next up: The Glove That Fits, London on Thu 26 Nov.
 
@@ -19,4 +19,4 @@ muzhit is a trance and techno artist based in United Kingdom, with 3 gigs on sou
 
 Amor Ante, Berwick (Live), Egyptian Lover
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muzhit/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/muzhit/)*

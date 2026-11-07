@@ -1,6 +1,6 @@
 # SAUANI
 
-SAUANI is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
+SAUANI is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Caleta - Dr. Atl 62, Mexico-city on Sat, 7 Nov 2026.
 
 SAUANI is a house and deep house artist based in Mexico, with 46 gigs on soundcheck across Barcelona, Mexico City, Munich and Paris. Often billed alongside papa jazz, EM2K and Alo. Next up: TBA - Caleta - Dr. Atl 62, Mexico City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ SAUANI is a house and deep house artist based in Mexico, with 46 gigs on soundch
 
 papa jazz, EM2K, Alo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sauani/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sauani/)*

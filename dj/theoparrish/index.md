@@ -1,6 +1,6 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 7 Nov 2026.
+Theo Parrish is a House and Funk / Soul artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 7 Nov 2026.
 
 Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Frankhan Selectist, Istanbul on Sat 7 Nov.
 
@@ -35,4 +35,4 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

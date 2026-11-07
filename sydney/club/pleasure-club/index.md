@@ -1,6 +1,6 @@
 # Pleasure Club
 
-Pleasure Club is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Videodrone w/ Phil Kieran (UK) & Tunnel Signs" on Sun, 15 Nov 2026.
+Pleasure Club is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Videodrone w/ Phil Kieran (UK) & Tunnel Signs" on Sun, 15 Nov 2026.
 
 Pleasure Club is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Dreems, Jocelyn (AU), La Figa and MADAMI and 2 more. See dates, start times and who's playing. 6 Wilson St, Newtown NSW 2042.
 
@@ -15,4 +15,4 @@ Pleasure Club is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, 
 
 6 Wilson St, Newtown NSW 2042, Sydney
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/pleasure-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/pleasure-club/)*

@@ -1,6 +1,6 @@
 # DJ Clent
 
-DJ Clent is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Toranoko Shokudo, Tokyo on Sat, 7 Nov 2026.
+DJ Clent is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Toranoko Shokudo, Tokyo on Sat, 7 Nov 2026.
 
 DJ Clent is a footwork and ghetto tech artist based in United States of America, with 33 gigs on soundcheck across Berlin, Bristol, Chicago and Detroit and 8 more. Often billed alongside DJ PJ, Traxman and DJ Slugo. Next up: Toranoko Shokudo, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ DJ Clent is a footwork and ghetto tech artist based in United States of America,
 
 DJ PJ, Traxman, DJ Slugo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djclent/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djclent/)*

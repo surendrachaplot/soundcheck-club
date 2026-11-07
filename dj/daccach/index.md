@@ -1,6 +1,6 @@
 # Daccach
 
-Daccach is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Salon Amador, Medellin on Sat, 7 Nov 2026.
+Daccach is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Salon Amador, Medellin on Sat, 7 Nov 2026.
 
 Daccach is a house and tech house artist based in Colombia, with 63 gigs on soundcheck across Bogotá, Medellin and Miami. Often billed alongside Systm, Obando and Ogmaz. Next up: Salon Amador, Medellin on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Daccach is a house and tech house artist based in Colombia, with 63 gigs on soun
 
 Systm, Obando, Ogmaz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daccach/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daccach/)*

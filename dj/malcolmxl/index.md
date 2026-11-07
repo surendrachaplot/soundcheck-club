@@ -1,6 +1,6 @@
 # Malcolm XL
 
-Malcolm XL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Oberon, New York City on Sat, 7 Nov 2026.
+Malcolm XL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Oberon, New York City on Sat, 7 Nov 2026.
 
 Malcolm XL is a techno and house artist based in United States of America, with 14 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Robyn DaBank, Gagbert and DJ Freedem. Next up: Oberon, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Malcolm XL is a techno and house artist based in United States of America, with 
 
 Robyn DaBank, Gagbert, DJ Freedem
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmxl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malcolmxl/)*

@@ -1,6 +1,6 @@
 # quarter ohm
 
-quarter ohm is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
+quarter ohm is a Techno and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
 
 quarter ohm is a techno and garage artist based in United Kingdom, with 17 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Connor (UK), Deventi and Egui. Next up: Eiger Studios, Leeds on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ quarter ohm is a techno and garage artist based in United Kingdom, with 17 gigs 
 
 Connor (UK), Deventi, Egui
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterohm/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/quarterohm/)*

@@ -1,6 +1,6 @@
 # Cast Lov
 
-Cast Lov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Basing House, London on Sat, 21 Nov 2026.
+Cast Lov is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Basing House, London on Sat, 21 Nov 2026.
 
 Cast Lov is a techno and house artist based in Colombia, with 21 gigs on soundcheck across Amsterdam, Bogotá and London. Often billed alongside MAXYM, MARIUS SEBASTIAN and MEAKIN. Next up: Basing House, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Cast Lov is a techno and house artist based in Colombia, with 21 gigs on soundch
 
 MAXYM, MARIUS SEBASTIAN, MEAKIN
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castlov/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castlov/)*

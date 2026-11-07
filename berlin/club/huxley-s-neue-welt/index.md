@@ -1,8 +1,8 @@
 # Huxley's Neue Welt
 
-Huxley's Neue Welt is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Overmono - Pure Devotion Live - World Tour" on Thu, 12 Nov 2026.
+Huxley's Neue Welt is a music venue in Berlin with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Overmono - Pure Devotion Live - World Tour" on Thu, 12 Nov 2026.
 
-Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Blawan, DJ_Dave, horsegiirL and Overmono and 1 more. See dates, start times and who's playing. Hasenheide 107 - 113, Neukölln, 10967 Berlin.
+Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 5 upcoming gigs, with line-ups including Blawan, DJ_Dave, horsegiirL and Overmono and 1 more. See dates, start times and who's playing. Hasenheide 107 - 113, Neukölln, 10967 Berlin.
 
 ## What's on
 
@@ -12,9 +12,10 @@ Huxley's Neue Welt is a music venue in Berlin listed on soundcheck. 4 upcoming g
 | Wed, 25 Nov 2026 | horsegiirL | DJ_Dave, horsegiirL |
 | Wed, 9 Dec 2026 | Mighty Oaks |  |
 | Wed, 27 Jan 2027 | Levin Liam |  |
+| Fri, 5 Feb 2027 | OG LU - Alle Chayas Alle Bitches Tour 2027 |  |
 
 ## Address
 
 Hasenheide 107 - 113, Neukölln, 10967 Berlin, Berlin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/huxley-s-neue-welt/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/huxley-s-neue-welt/)*

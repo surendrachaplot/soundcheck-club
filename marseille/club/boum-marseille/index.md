@@ -1,6 +1,6 @@
 # BOUM MARSEILLE
 
-BOUM MARSEILLE is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Mon, 2 Nov 2026. The next is "Queerz by Christophe dans le sud" on Mon, 2 Nov 2026.
+BOUM MARSEILLE is a music venue in Marseille with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Demain C'est Ferie" on Tue, 10 Nov 2026.
 
 BOUM MARSEILLE is a music venue in Marseille listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 21 rue André Poggioli, 13006 Marseille.
 
@@ -8,10 +8,10 @@ BOUM MARSEILLE is a music venue in Marseille listed on soundcheck. 1 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 2 Nov 2026 | Queerz by Christophe dans le sud |  |
+| Tue, 10 Nov 2026 | Demain C'est Ferie |  |
 
 ## Address
 
 21 rue André Poggioli, 13006 Marseille, Marseille
 
-*Updated Mon, 2 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/boum-marseille/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/marseille/club/boum-marseille/)*

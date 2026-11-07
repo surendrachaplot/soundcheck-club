@@ -1,6 +1,6 @@
 # Anapol
 
-Anapol is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location , Tokyo on Fri, 20 Nov 2026.
+Anapol is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location , Tokyo on Fri, 20 Nov 2026.
 
 Anapol is a techno and house artist based in Japan, with 20 gigs on soundcheck across Tokyo. Often billed alongside Drinkss, uuu7 and Takumi's Afterparty. Next up: TBA - Secret Location , Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Anapol is a techno and house artist based in Japan, with 20 gigs on soundcheck a
 
 Drinkss, uuu7, Takumi's Afterparty
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anapol/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anapol/)*

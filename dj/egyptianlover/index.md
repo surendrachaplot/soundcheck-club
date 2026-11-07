@@ -1,14 +1,13 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Razzmatazz, Barcelona on Fri, 6 Nov 2026.
+Egyptian Lover is a Electro and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Spook Club, Valencia on Sat, 7 Nov 2026.
 
-Egyptian Lover is an electro and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside DJ Godfather, FREAKENSTEIN and Binh. Next up: Razzmatazz, Barcelona on Fri 6 Nov.
+Egyptian Lover is an electro and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside DJ Godfather, FREAKENSTEIN and Binh. Next up: Spook Club, Valencia on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Razzmatazz | Barcelona |
 | Sat, 7 Nov 2026 | Spook Club | Valencia |
 | Sun, 8 Nov 2026 | Lula Club | Madrid |
 | Sat, 9 Jan 2027 | 3oz Dive Club | San Diego |
@@ -22,6 +21,7 @@ Egyptian Lover is an electro and house artist based in United States of America,
 
 ## Recently played
 
+- Razzmatazz, Barcelona · Fri, 6 Nov 2026
 - Ironworks, London · Sat, 31 Oct 2026
 - Sawmills, Bristol · Sat, 31 Oct 2026
 - Peti Kupe, Zagreb · Fri, 30 Oct 2026
@@ -29,10 +29,9 @@ Egyptian Lover is an electro and house artist based in United States of America,
 - The Bernard Shaw, Dublin · Sat, 24 Oct 2026
 - Melkweg, Amsterdam · Fri, 23 Oct 2026
 - Garagen, Cologne · Sat, 10 Oct 2026
-- Humboldthain Club, Berlin · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 DJ Godfather, FREAKENSTEIN, Binh
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/egyptianlover/)*

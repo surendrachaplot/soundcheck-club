@@ -1,6 +1,6 @@
 # Mothafunk
 
-Mothafunk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
+Mothafunk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
 Mothafunk is a house and disco artist based in United States of America, with 75 gigs on soundcheck across Chicago, Los Angeles, Melbourne and New York City and 1 more. Often billed alongside Zjoso, Chris NG and Kgomotso. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
@@ -13,6 +13,7 @@ Mothafunk is a house and disco artist based in United States of America, with 75
 
 ## Recently played
 
+- New Guernica, Melbourne · Fri, 6 Nov 2026
 - My Aeon, Melbourne · Sat, 31 Oct 2026
 - Music Room, Melbourne · Fri, 30 Oct 2026
 - New Guernica, Melbourne · Fri, 23 Oct 2026
@@ -20,10 +21,9 @@ Mothafunk is a house and disco artist based in United States of America, with 75
 - Wax Music Lounge, Melbourne · Fri, 9 Oct 2026
 - Podlasie Club, Chicago · Sat, 5 Sept 2026
 - TBA, Chicago · Fri, 4 Sept 2026
-- Apotheke, Los Angeles · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Zjoso, Chris NG, Kgomotso
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mothafunk/)*

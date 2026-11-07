@@ -1,6 +1,6 @@
 # Nest
 
-Nest is a music venue in Basel with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "LIMEFACTORY - Kollegin, Jeronimo, LLLealuisa, F3lx" on Fri, 6 Nov 2026.
+Nest is a music venue in Basel with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "LIMEFACTORY - Kollegin, Jeronimo, LLLealuisa, F3lx" on Fri, 6 Nov 2026.
 
 Nest is a music venue in Basel listed on soundcheck. 7 upcoming gigs, with line-ups including Calicá, DJ Glentan, Dominik André and Esengo and 2 more. See dates, start times and who's playing. Nachtigallenwäldeli 9, 4051 Basel.
 
@@ -20,4 +20,4 @@ Nest is a music venue in Basel listed on soundcheck. 7 upcoming gigs, with line-
 
 Nachtigallenwäldeli 9, 4051 Basel, Basel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/basel/club/nest/)*

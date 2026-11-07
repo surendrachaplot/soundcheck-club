@@ -1,6 +1,6 @@
 # Mordecai
 
-Mordecai is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Levelthree Premium Venue, Johannesburg on Sat, 7 Nov 2026.
+Mordecai is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Levelthree Premium Venue, Johannesburg on Sat, 7 Nov 2026.
 
 Mordecai is a garage and jungle artist based in South Korea, with 37 gigs on soundcheck across Johannesburg, Seoul and Tokyo. Often billed alongside Shins, Hyejin and J'Laurel. Next up: Levelthree Premium Venue, Johannesburg on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mordecai is a garage and jungle artist based in South Korea, with 37 gigs on sou
 
 Shins, Hyejin, J'Laurel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mordecai/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mordecai/)*

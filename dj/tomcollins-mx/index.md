@@ -1,8 +1,8 @@
 # Tom & Collins
 
-Tom & Collins is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Baja-california-sur on Wed, 11 Nov 2026.
+Tom & Collins is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Baja-california-sur on Wed, 11 Nov 2026.
 
-Tom & Collins are a house and tech house duo based in Mexico, with 70 gigs on soundcheck across Austin, Baja California Sur, Bogotá and Boston and 27 more. Often billed alongside Claptone, Hugel and Yamagucci. Next up: TBA, Baja California Sur on Wed 11 Nov.
+Tom & Collins are a house and tech house duo based in Mexico, with 71 gigs on soundcheck across Austin, Baja California Sur, Bogotá and Boston and 27 more. Often billed alongside Claptone, Hugel and Yamagucci. Next up: TBA, Baja California Sur on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tom & Collins are a house and tech house duo based in Mexico, with 70 gigs on so
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | TBA | Baja-california-sur |
 | Wed, 11 Nov 2026 | Crania | San-jos-del-cabo |
+| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
 
 ## Recently played
@@ -27,4 +28,4 @@ Tom & Collins are a house and tech house duo based in Mexico, with 70 gigs on so
 
 Claptone, Hugel, Yamagucci
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcollins-mx/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomcollins-mx/)*

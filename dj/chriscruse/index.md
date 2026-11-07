@@ -1,6 +1,6 @@
 # Chris Cruse
 
-Chris Cruse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Stud, San Francisco/Oakland on Sat, 7 Nov 2026.
+Chris Cruse is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Stud, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Chris Cruse is a house and techno artist based in United States of America, with 121 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Luigi Di Venere, Massimiliano Pagliara and Cormac. Next up: The Stud, San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Chris Cruse is a house and techno artist based in United States of America, with
 
 Luigi Di Venere, Massimiliano Pagliara, Cormac
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chriscruse/)*

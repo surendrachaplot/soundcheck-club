@@ -1,15 +1,14 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+D.Dan is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-D.Dan is a techno and house artist based in United States of America, with 237 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
+D.Dan is a techno and house artist based in United States of America, with 238 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 76 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
-| Fri, 6 Nov 2026 | ELYSIUM SEVILLA | South |
 | Fri, 13 Nov 2026 | Turbina | Budapest |
 | Sat, 14 Nov 2026 | FOLD | London |
 | Fri, 20 Nov 2026 | Bassiani | Tbilisi |
@@ -18,22 +17,23 @@ D.Dan is a techno and house artist based in United States of America, with 237 g
 | Wed, 2 Dec 2026 | Factory Town | Miami |
 | Fri, 4 Dec 2026 | Descent | Boston |
 | Sat, 5 Dec 2026 | Art Club | Houston |
+| Thu, 10 Dec 2026 | Kingdom Nightclub | Austin |
 | Fri, 11 Dec 2026 | The Wall | El-paso |
 | Sat, 12 Dec 2026 | TBA - Denver | Denver |
 
 ## Recently played
 
+- TILLATEC, Amsterdam · Fri, 6 Nov 2026
+- ELYSIUM SEVILLA, South · Fri, 6 Nov 2026
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - VENT, Tokyo · Sun, 11 Oct 2026
 - UNDERCITY, Seoul · Sat, 10 Oct 2026
 - The Opera, Seoul · Fri, 9 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Sidney Myer Music Bowl, Melbourne · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 DJ TOOL, Hyperaktivist, Yazzus
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ddan/)*

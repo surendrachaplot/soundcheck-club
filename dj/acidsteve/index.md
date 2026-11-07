@@ -1,6 +1,6 @@
 # Acid Steve
 
-Acid Steve is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Distillery N17, London on Sat, 7 Nov 2026.
+Acid Steve is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Distillery N17, London on Sat, 7 Nov 2026.
 
 Acid Steve is a techno and acid artist based in United Kingdom, with 12 gigs on soundcheck across London and Valencia. Often billed alongside PacMan (IT), Raymundo Rodriguez and Chris Liberator. Next up: Distillery N17, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Acid Steve is a techno and acid artist based in United Kingdom, with 12 gigs on 
 
 PacMan (IT), Raymundo Rodriguez, Chris Liberator
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsteve/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidsteve/)*

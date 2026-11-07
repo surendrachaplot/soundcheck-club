@@ -1,6 +1,6 @@
 # Jack n Danny
 
-Jack n Danny is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Studio 338, London on Sat, 5 Dec 2026.
+Jack n Danny is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Studio 338, London on Sat, 5 Dec 2026.
 
 Jack n Danny is a tech house and deep house artist, with 8 gigs on soundcheck across London. Often billed alongside Jerome Six, DJ S (UK) and JAYDAA. Next up: Studio 338, London on Sat 5 Dec.
 
@@ -24,4 +24,4 @@ Jack n Danny is a tech house and deep house artist, with 8 gigs on soundcheck ac
 
 Jerome Six, DJ S (UK), JAYDAA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackndanny/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackndanny/)*

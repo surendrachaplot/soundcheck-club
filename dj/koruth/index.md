@@ -1,6 +1,6 @@
 # Koruth
 
-Koruth is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
+Koruth is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Ankali & Planeta Za, Prague on Fri, 4 Dec 2026.
 
 Koruth is a techno and ambient artist based in Czech Republic, with 23 gigs on soundcheck across Prague. Often billed alongside ionai, Qow and Alfred Czital. Next up: Ankali & Planeta Za, Prague on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Koruth is a techno and ambient artist based in Czech Republic, with 23 gigs on s
 
 ionai, Qow, Alfred Czital
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koruth/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koruth/)*

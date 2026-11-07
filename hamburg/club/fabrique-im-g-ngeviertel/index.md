@@ -1,6 +1,6 @@
 # Fabrique im Gängeviertel
 
-Fabrique im Gängeviertel is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "DANS x Widersetzen Clubnacht" on Sat, 7 Nov 2026.
+Fabrique im Gängeviertel is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DANS x Widersetzen Clubnacht" on Sat, 7 Nov 2026.
 
 Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including Ani con Gas, Bent, Felicious and k.meower and 2 more. See dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 4 up
 
 Valentinskamp 34A, 20355 Hamburg, Germany, Hamburg
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/fabrique-im-g-ngeviertel/)*

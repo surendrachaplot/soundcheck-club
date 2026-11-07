@@ -1,6 +1,6 @@
 # monielu.h
 
-monielu.h is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Koara, Tokyo on Thu, 26 Nov 2026.
+monielu.h is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Koara, Tokyo on Thu, 26 Nov 2026.
 
 monielu.h is a house and techno artist based in Japan, with 109 gigs on soundcheck across Tokyo. Often billed alongside RAHA, SUETSUGU and RYOHEI. Next up: Koara, Tokyo on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ monielu.h is a house and techno artist based in Japan, with 109 gigs on soundche
 
 RAHA, SUETSUGU, RYOHEI
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monielu.h/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monielu.h/)*

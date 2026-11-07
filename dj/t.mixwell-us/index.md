@@ -1,6 +1,6 @@
 # T. Mixwell
 
-T. Mixwell is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bridgeport Records, Chicago on Sun, 8 Nov 2026.
+T. Mixwell is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bridgeport Records, Chicago on Sun, 8 Nov 2026.
 
 T. Mixwell is a house and deep house artist based in United States of America, with 36 gigs on soundcheck across Chicago. Often billed alongside DJ Heather, Derrick Carter and samantha rad. Next up: Bridgeport Records, Chicago on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ T. Mixwell is a house and deep house artist based in United States of America, w
 
 DJ Heather, Derrick Carter, samantha rad
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.mixwell-us/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t.mixwell-us/)*

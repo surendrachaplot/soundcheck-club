@@ -1,6 +1,6 @@
 # Robot Girlfriend
 
-Robot Girlfriend is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 22 Nov 2026.
+Robot Girlfriend is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 22 Nov 2026.
 
 Robot Girlfriend is a house and bass artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Vitling, 80HDJ and Heath Swedger. Next up: Crack Bellmer, Berlin on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Robot Girlfriend is a house and bass artist based in Germany, with 13 gigs on so
 
 Vitling, 80HDJ, Heath Swedger
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robotgirlfriend/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robotgirlfriend/)*

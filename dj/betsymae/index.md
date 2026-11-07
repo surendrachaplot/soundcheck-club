@@ -1,6 +1,6 @@
 # Betsy Mae
 
-Betsy Mae is a Jungle and Garage artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Spit & Sawdust, Cardiff on Sat, 7 Nov 2026.
+Betsy Mae is a Jungle and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Spit & Sawdust, Cardiff on Sat, 7 Nov 2026.
 
 Betsy Mae is a jungle and garage artist based in United Kingdom, with 63 gigs on soundcheck across Barcelona, Brighton, Bristol and Cardiff and 4 more. Often billed alongside Sexy Lady Massive, ASIAN BRAT and Missy P. Next up: Spit & Sawdust, Cardiff on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Betsy Mae is a jungle and garage artist based in United Kingdom, with 63 gigs on
 
 Sexy Lady Massive, ASIAN BRAT, Missy P
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betsymae/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/betsymae/)*

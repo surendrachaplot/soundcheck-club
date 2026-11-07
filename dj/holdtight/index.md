@@ -1,6 +1,6 @@
 # HOLDTight
 
-HOLDTight is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Pamela Club, Paris on Sat, 14 Nov 2026.
+HOLDTight is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Pamela Club, Paris on Sat, 14 Nov 2026.
 
 HOLDTight is a house and disco artist based in France, with 17 gigs on soundcheck across Brighton, Nantes, Paris and Strasbourg and 1 more. Often billed alongside Gee Lane, Man Called Dylan and BANANA-CHAN. Next up: Pamela Club, Paris on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ HOLDTight is a house and disco artist based in France, with 17 gigs on soundchec
 
 Gee Lane, Man Called Dylan, BANANA-CHAN
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holdtight/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holdtight/)*

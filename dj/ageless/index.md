@@ -1,6 +1,6 @@
 # AGELESS
 
-AGELESS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
+AGELESS is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
 
 AGELESS is a house and techno artist based in Italy, with 121 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 22 more. Often billed alongside Sossa, Seth Troxler and DJ Tennis. Next up: Club Twentyone, Florence on Thu 19 Nov.
 
@@ -28,4 +28,4 @@ AGELESS is a house and techno artist based in Italy, with 121 gigs on soundcheck
 
 Sossa, Seth Troxler, DJ Tennis
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ageless/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ageless/)*

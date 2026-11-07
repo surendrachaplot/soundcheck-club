@@ -1,6 +1,6 @@
 # BARROSKINI
 
-BARROSKINI is a Reggaeton and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at nachbar, Amsterdam on Sat, 28 Nov 2026.
+BARROSKINI is a Reggaeton and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at nachbar, Amsterdam on Sat, 28 Nov 2026.
 
 BARROSKINI is a reggaeton and tech house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside DIORA, angelboy and Slimfit. Next up: nachbar, Amsterdam on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ BARROSKINI is a reggaeton and tech house artist based in Netherlands, with 22 gi
 
 DIORA, angelboy, Slimfit
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barroskini/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barroskini/)*

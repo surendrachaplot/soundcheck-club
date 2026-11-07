@@ -1,14 +1,13 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 29 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Nico Morano" on Fri, 6 Nov 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 28 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Valentin Huedo" on Sat, 7 Nov 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 29 upcoming gigs, with line-ups including Anthony Middleton, Armen Miran, baez and Britta Arnold and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 28 upcoming gigs, with line-ups including Anthony Middleton, Armen Miran, Britta Arnold and DAVI and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Nico Morano | Nico Morano, baez |
 | Sat, 7 Nov 2026 | Valentin Huedo | Valentin Huedo |
 | Wed, 11 Nov 2026 | Jessy & Friends | Holosound, Jessy Nimni, maux |
 | Thu, 12 Nov 2026 | Secret Thursdays |  |
@@ -18,9 +17,10 @@ Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 29 u
 | Fri, 20 Nov 2026 | Halo Varga [ H Foundation / Muted Noise] | Halo Varga |
 | Sat, 21 Nov 2026 | Fernando Olaya [The Soundgarden / Balance Music] | Fernando Olaya, Lucas Zarate |
 | Thu, 26 Nov 2026 | Secret Thursdays | Less |
+| Fri, 27 Nov 2026 | Sander Kleinenberg [Armada Music] | Lucas Zarate, Sander Kleinenberg |
 
 ## Address
 
 423 16th St, Miami Beach, FL 33139, Miami
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/miami/club/do-not-sit-on-the-furniture/)*

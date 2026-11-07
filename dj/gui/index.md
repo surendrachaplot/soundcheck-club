@@ -1,6 +1,6 @@
 # Gui (PT)
 
-Gui (PT) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Nué Seoul, Seoul on Sat, 7 Nov 2026.
+Gui (PT) is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Nué Seoul, Seoul on Sat, 7 Nov 2026.
 
 Gui (PT) is a drum & bass and jungle artist, with 10 gigs on soundcheck across Amsterdam, Brighton, London and Oslo and 2 more. Often billed alongside MYNX, Woody92 and ADHI. Next up: Nué Seoul, Seoul on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Gui (PT) is a drum & bass and jungle artist, with 10 gigs on soundcheck across A
 
 MYNX, Woody92, ADHI
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gui/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gui/)*

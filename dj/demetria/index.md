@@ -1,6 +1,6 @@
 # Demetria
 
-Demetria is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at O2 Academy Bristol, Bristol on Sat, 28 Nov 2026.
+Demetria is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at O2 Academy Bristol, Bristol on Sat, 28 Nov 2026.
 
 Demetria is a drum & bass and bass artist based in United Kingdom, with 26 gigs on soundcheck across Brighton, Bristol and Leeds. Often billed alongside RAYBAY, Dorpy and Burt Cope. Next up: O2 Academy Bristol, Bristol on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Demetria is a drum & bass and bass artist based in United Kingdom, with 26 gigs 
 
 RAYBAY, Dorpy, Burt Cope
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demetria/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/demetria/)*

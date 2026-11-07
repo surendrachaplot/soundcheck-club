@@ -1,6 +1,6 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Echo Room, Atlanta on Sat, 7 Nov 2026.
+Ash Lauryn is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Echo Room, Atlanta on Sat, 7 Nov 2026.
 
 Ash Lauryn is a house and techno artist based in United States of America, with 154 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 40 more. Often billed alongside The AM/AMX, JADALAREIGN and Kai Alce. Next up: Echo Room, Atlanta on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Ash Lauryn is a house and techno artist based in United States of America, with 
 
 The AM/AMX, JADALAREIGN, Kai Alce
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ashlauryn/)*

@@ -1,8 +1,8 @@
 # Warehouse
 
-Warehouse is a music venue in Nantes with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Club de Jour invite Bellaire & Dimitri From Paris" on Sat, 7 Nov 2026.
+Warehouse is a music venue in Nantes with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Club de Jour invite Bellaire & Dimitri From Paris" on Sat, 7 Nov 2026.
 
-Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, with line-ups including Akalex, AMOR MUSIC, Bellaire and billx and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
+Warehouse is a music venue in Nantes listed on soundcheck. 11 upcoming gigs, with line-ups including Akalex, AMOR MUSIC, Bellaire and billx and 2 more. See dates, start times and who's playing. 21 quai des Antilles 44200 Nantes.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Warehouse is a music venue in Nantes listed on soundcheck. 10 upcoming gigs, wit
 | Sat, 12 Dec 2026 | Club de Jour invite The Avener (Dj set) | Dan Bono, The Avener |
 | Sat, 19 Dec 2026 | Astropolis X Club de Jour with Kittin, DJ Hell, Sonic Crew | DJ Hell, Miss Kittin |
 | Sat, 23 Jan 2027 | CLUB DE JOUR with Myd, Mayou Picchu & Akalex | Akalex, Myd |
+| Fri, 5 Feb 2027 | Cult Collective x Le Diable Au Corps au Warehouse Nantes |  |
 | Sat, 6 Feb 2027 | CLUB DE JOUR with Worakls présente OVERTURE feat. Ekaterina Shelehova & Antonin Winter | Dan Bono, Quentin Schneider, Worakls |
-| Fri, 19 Feb 2027 | Amor, Piazza, Sowa by SOLEA | AMOR MUSIC |
 
 ## Address
 
 21 quai des Antilles 44200 Nantes, Nantes
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/warehouse/)*

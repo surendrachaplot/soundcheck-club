@@ -1,6 +1,6 @@
 # AKA AKA
 
-AKA AKA is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Circle Club Offenburg, Freiburg on Sat, 28 Nov 2026.
+AKA AKA is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Circle Club Offenburg, Freiburg on Sat, 28 Nov 2026.
 
 AKA AKA is a techno and tech house artist based in Germany, with 56 gigs on soundcheck across Austria, Berlin, Cologne and Dresden and 9 more. Often billed alongside Moonbootica, LOVRA and Paraçek. Next up: Circle Club Offenburg, Freiburg on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ AKA AKA is a techno and tech house artist based in Germany, with 56 gigs on soun
 
 Moonbootica, LOVRA, Paraçek
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akaaka/)*

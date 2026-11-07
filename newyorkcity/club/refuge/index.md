@@ -1,6 +1,6 @@
 # Refuge
 
-Refuge is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Refuge Friday with Joss Dean, Gigsta, Claudio. and Rana Iravani" on Fri, 6 Nov 2026.
+Refuge is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Refuge Friday with Joss Dean, Gigsta, Claudio. and Rana Iravani" on Fri, 6 Nov 2026.
 
 Refuge is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including DANILO BRACA, AJ Christou, BASHKKA and Bella Mutino and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
@@ -23,4 +23,4 @@ Refuge is a music venue in New York City listed on soundcheck. 18 upcoming gigs,
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

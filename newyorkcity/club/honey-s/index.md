@@ -1,6 +1,6 @@
 # Honey's
 
-Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Cause & Effect: Shameless Deejay & Union" on Fri, 13 Nov 2026.
+Honey's is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Cause & Effect: Shameless Deejay & Union" on Fri, 13 Nov 2026.
 
 Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including ANICHE, Ash, Bea Levy and Caire and 2 more. See dates, start times and who's playing. 93 Scott Avenue, Brooklyn, NY 11237.
 
@@ -19,4 +19,4 @@ Honey's is a music venue in New York City listed on soundcheck. 6 upcoming gigs,
 
 93 Scott Avenue, Brooklyn, NY 11237, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/honey-s/)*

@@ -1,6 +1,6 @@
 # The Concourse Project
 
-The Concourse Project is a music venue in Austin with 22 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Seismic Dance Event 9.0" on Fri, 13 Nov 2026.
+The Concourse Project is a music venue in Austin with 22 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Seismic Dance Event 9.0" on Fri, 13 Nov 2026.
 
 The Concourse Project is a music venue in Austin listed on soundcheck. 22 upcoming gigs, with line-ups including 1tbsp, Above & Beyond, Adam Sellouk and Avision and 2 more. See dates, start times and who's playing. 8509 Burleson Rd, Building 1, Austin, TX 78719, USA.
 
@@ -23,4 +23,4 @@ The Concourse Project is a music venue in Austin listed on soundcheck. 22 upcomi
 
 8509 Burleson Rd, Building 1, Austin, TX 78719, USA, Austin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/austin/club/the-concourse-project/)*

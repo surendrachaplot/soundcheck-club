@@ -1,14 +1,13 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 23 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "༄ Patchwork. x Foundry ༄ w/ Trixie & Gourlay b2b Decno" on Fri, 6 Nov 2026.
+La Cheetah Club is a music venue in Glasgow with 22 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Burst" on Sat, 7 Nov 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 23 upcoming gigs, with line-ups including Alliyah Enyo, Angel Negrin, Arlo Duke and Bonzai Bonner and 2 more. See dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 22 upcoming gigs, with line-ups including Alliyah Enyo, Angel Negrin, Arlo Duke and Bonzai Bonner and 2 more. See dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | ༄ Patchwork. x Foundry ༄ w/ Trixie & Gourlay b2b Decno | Decno, Gourlay, Trixie (UK) |
 | Sat, 7 Nov 2026 | Burst |  |
 | Sat, 7 Nov 2026 | Burst | UA |
 | Sat, 7 Nov 2026 | L.P. Rhythm Glasgow Weekender - La Cheetah | L.P. Rhythm |
@@ -18,9 +17,10 @@ La Cheetah Club is a music venue in Glasgow listed on soundcheck. 23 upcoming gi
 | Sat, 14 Nov 2026 | Elisco: Craig Moog & Fourth Precinct | Fourth Precinct |
 | Sun, 15 Nov 2026 | KEEP ON with OOFT! & David Barbarossa | David Barbarossa, OOFT |
 | Fri, 20 Nov 2026 | Bedroom Traxx Presents: Nyra | Lewis Doherty, Nyra |
+| Sat, 21 Nov 2026 | Soft Serve: Yu Su | Alliyah Enyo, Yu Su, slyn |
 
 ## Address
 
 Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom, Glasgow
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/la-cheetah-club/)*

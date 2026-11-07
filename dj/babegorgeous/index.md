@@ -1,6 +1,6 @@
 # Babe Gorgeous
 
-Babe Gorgeous is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Private Venue, Berlin on Fri, 11 Dec 2026.
+Babe Gorgeous is a Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Private Venue, Berlin on Fri, 11 Dec 2026.
 
 Babe Gorgeous is a bass and jungle artist based in Ireland, with 24 gigs on soundcheck across Berlin. Often billed alongside jass:minute, Dub Isotope and Ubax. Next up: TBA - Private Venue, Berlin on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Babe Gorgeous is a bass and jungle artist based in Ireland, with 24 gigs on soun
 
 jass:minute, Dub Isotope, Ubax
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babegorgeous/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babegorgeous/)*

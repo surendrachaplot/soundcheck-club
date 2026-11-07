@@ -1,6 +1,6 @@
 # Kazuma Onishi
 
-Kazuma Onishi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Upsidedown, Osaka on Sat, 28 Nov 2026.
+Kazuma Onishi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Upsidedown, Osaka on Sat, 28 Nov 2026.
 
 Kazuma Onishi is a techno and house artist based in Japan, with 44 gigs on soundcheck across Brisbane, Melbourne, Osaka and Sydney and 1 more. Often billed alongside Mas Kato, Løst Reflexion and Kamome. Next up: Upsidedown, Osaka on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Kazuma Onishi is a techno and house artist based in Japan, with 44 gigs on sound
 
 Mas Kato, Løst Reflexion, Kamome
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazumaonishi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazumaonishi/)*

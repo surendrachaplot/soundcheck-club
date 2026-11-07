@@ -1,14 +1,13 @@
 # The Fox & Newt Pub
 
-The Fox & Newt Pub is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "RDZ, AMWG, MATTROBSON" on Fri, 6 Nov 2026.
+The Fox & Newt Pub is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Ambient Leeds: Giulio Stermieri // Ben Gaunt // namke communications" on Sun, 15 Nov 2026.
 
-The Fox & Newt Pub is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Giulio Stermieri. See dates, start times and who's playing. 9 Burley Street, Leeds, West Yorkshire, LS3 1LD.
+The Fox & Newt Pub is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Giulio Stermieri. See dates, start times and who's playing. 9 Burley Street, Leeds, West Yorkshire, LS3 1LD.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | RDZ, AMWG, MATTROBSON |  |
 | Sun, 15 Nov 2026 | Ambient Leeds: Giulio Stermieri // Ben Gaunt // namke communications | Giulio Stermieri |
 | Sun, 13 Dec 2026 | Ambient Leeds: Lines of Silence // Kosmischeboy // OWA // guising |  |
 
@@ -16,4 +15,4 @@ The Fox & Newt Pub is a music venue in Leeds listed on soundcheck. 3 upcoming gi
 
 9 Burley Street, Leeds, West Yorkshire, LS3 1LD, Leeds
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-fox-newt-pub/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/the-fox-newt-pub/)*

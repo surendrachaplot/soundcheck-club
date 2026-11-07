@@ -1,17 +1,16 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Magic Power (Showcase)" on Fri, 6 Nov 2026.
+Tokonoma Club is a music venue in Frankfurt with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "CIRCLE X LEGAL" on Sat, 7 Nov 2026.
 
-Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gigs, with line-ups including Adriana Lopez, Almedina, Anna Hjalmarsson and Answer Code Request and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
+Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 7 upcoming gigs, with line-ups including Adriana Lopez, Almedina, Anna Hjalmarsson and Answer Code Request and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Magic Power (Showcase) | Beste Hira, Fadi Mohem, Franziska Berns, Lara Fein, Phil Evans, Victor (DE), ZSZS, jewelry |
 | Sat, 7 Nov 2026 | CIRCLE X LEGAL | Almedina (2), Anthea, Monaco Marco, Olli Rubber, The Hacker, not even noticed |
 | Fri, 13 Nov 2026 | A PRINCIPLE OF HOPE | BAUGRUPPE90, CAIVA, Doreen, Richard Akingbehin, livwutang |
-| Sat, 14 Nov 2026 | CIRCLE (WDC Closing) | Adriana Lopez, Anna Hjalmarsson, Max Best, Minju, Red Rooms, Wigbert |
+| Sat, 14 Nov 2026 | CIRCLE (WDC Closing) | Adriana Lopez, Anna Hjalmarsson, Max Best, Minju, Red Rooms, Soyoon, Wigbert |
 | Fri, 20 Nov 2026 | CIRCLE x STORNO (anniversary) | Carmen Electro, GERKE, SHDW |
 | Sat, 21 Nov 2026 | CIRCLE | DJ ZBB, DJoy, David Böning, Eileen, Onur Özer, Robin RB |
 | Fri, 27 Nov 2026 | (FULL CIRCLE) | Answer Code Request, Bliss Inc., Byron Yeates, DJ Hyperdrive, DJ MELL G, DJ Stingray 313, JSPRV35, Maruwa, Massimiliano Pagliara, Meilgaarden, Sansibar, Silverlining, The Lady Machine, Tiago Walter, Vera, not even noticed |
@@ -21,4 +20,4 @@ Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 8 upcoming gig
 
 Gutleutstraße 320,60327 Frankfurt, Frankfurt
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/tokonoma-club/)*

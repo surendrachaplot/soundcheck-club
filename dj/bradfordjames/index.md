@@ -1,6 +1,6 @@
 # Bradford James
 
-Bradford James is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bar 13, New York City on Sat, 14 Nov 2026.
+Bradford James is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bar 13, New York City on Sat, 14 Nov 2026.
 
 Bradford James is a deep house and afro house artist, with 31 gigs on soundcheck across Boston and New York City. Often billed alongside Zak Zodiak, Ameer Brooks and Coflo. Next up: Bar 13, New York City on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bradford James is a deep house and afro house artist, with 31 gigs on soundcheck
 
 Zak Zodiak, Ameer Brooks, Coflo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradfordjames/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bradfordjames/)*

@@ -1,6 +1,6 @@
 # Sala Cocó
 
-Sala Cocó is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Skin On Skin / Gerardo Niva" on Sat, 7 Nov 2026.
+Sala Cocó is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Skin On Skin / Gerardo Niva" on Sat, 7 Nov 2026.
 
 Sala Cocó is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Clouds, DJ Heartstring, DJ SWISHERMAN and doccudder and 2 more. See dates, start times and who's playing. Calle Alcalá 20, 28014 Madrid, Spain.
 
@@ -23,4 +23,4 @@ Sala Cocó is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, wi
 
 Calle Alcalá 20, 28014 Madrid, Spain, Madrid
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/sala-coc/)*

@@ -1,6 +1,6 @@
 # Cici
 
-Cici is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mott 32, Hong Kong on Sat, 7 Nov 2026.
+Cici is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Mott 32, Hong Kong on Sat, 7 Nov 2026.
 
 Cici is a house and techno artist based in Ireland, with 81 gigs on soundcheck across Amsterdam, Baltimore, Barcelona and Berlin and 35 more. Often billed alongside Sossa, Skream and Saoirse. Next up: Mott 32, Hong Kong on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Cici is a house and techno artist based in Ireland, with 81 gigs on soundcheck a
 
 Sossa, Skream, Saoirse
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cici/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cici/)*

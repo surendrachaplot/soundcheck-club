@@ -1,6 +1,6 @@
 # Moksha
 
-Moksha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Igrejinha Bar, Sao Paulo on Sat, 7 Nov 2026.
+Moksha is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Igrejinha Bar, Sao Paulo on Sat, 7 Nov 2026.
 
 Moksha is a techno and trance artist, with 10 gigs on soundcheck across Ghent, Nantes, Paris and Sao Paulo. Often billed alongside Combe, MAIA and Maï-Linh. Next up: Igrejinha Bar, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Moksha is a techno and trance artist, with 10 gigs on soundcheck across Ghent, N
 
 Combe, MAIA, Maï-Linh
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moksha/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moksha/)*

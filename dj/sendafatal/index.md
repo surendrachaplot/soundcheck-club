@@ -1,6 +1,6 @@
 # SENDA FATAL
 
-SENDA FATAL is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Paraje Natural de la Ermita de los Tres Juanes, South on Fri, 28 May 2027.
+SENDA FATAL is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Paraje Natural de la Ermita de los Tres Juanes, South on Fri, 28 May 2027.
 
 SENDA FATAL is a techno and electronica artist based in Spain, with 10 gigs on soundcheck across Madrid and South. Often billed alongside Nachine, Axis Mundi and BOUNCE BRIGADE. Next up: Paraje Natural de la Ermita de los Tres Juanes, South on Fri 28 May.
 
@@ -25,4 +25,4 @@ SENDA FATAL is a techno and electronica artist based in Spain, with 10 gigs on s
 
 Nachine, Axis Mundi, BOUNCE BRIGADE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sendafatal/)*

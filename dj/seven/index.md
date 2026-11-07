@@ -1,6 +1,6 @@
 # Seven
 
-Seven is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Artheater, Cologne on Wed, 11 Nov 2026.
+Seven is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Artheater, Cologne on Wed, 11 Nov 2026.
 
 Seven is a techno and club artist based in United Kingdom, with 15 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Cologne and 4 more. Often billed alongside Ropemaker, GIULIO PERRELLA and Kalsa. Next up: Artheater, Cologne on Wed 11 Nov.
 
@@ -25,4 +25,4 @@ Seven is a techno and club artist based in United Kingdom, with 15 gigs on sound
 
 Ropemaker, GIULIO PERRELLA, Kalsa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seven/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seven/)*

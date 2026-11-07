@@ -1,14 +1,13 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Sound Canteen with Blossom Hill" on Fri, 6 Nov 2026.
+Orangerie Neukölln is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "D'Frac mini Club Night" on Sat, 7 Nov 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including aaandscha, Bijon, Blossom Hill and Dario Radisic and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including aaandscha, Bijon, Dario Radisic and Green Ink and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Sound Canteen with Blossom Hill | Blossom Hill |
 | Sat, 7 Nov 2026 | D'Frac mini Club Night | Olsvangèr |
 | Thu, 12 Nov 2026 | Naked Grapes with Ru.i | Ru.i |
 | Fri, 13 Nov 2026 | Sound Canteen with Dario Radišić | Dario Radisic |
@@ -18,9 +17,10 @@ Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 11 upcoming
 | Sat, 28 Nov 2026 | Behind the Groove with Bijon, Saul Good | Bijon |
 | Sat, 12 Dec 2026 | Altered States with aaandscha, Chatbot Caro, Rapha b2b Green Ink | Green Ink, aaandscha |
 | Thu, 7 Jan 2027 | Naked Grapes with Sisi Savidge |  |
+| Fri, 29 Jan 2027 | Sound Canteen with mnm |  |
 
 ## Address
 
 Schierker Str. 8, 12051 Berlin, Germany, Berlin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*

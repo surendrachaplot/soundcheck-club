@@ -1,6 +1,6 @@
 # Lupreme
 
-Lupreme is a Reggaeton and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Supernatural Haus, Miami on Fri, 27 Nov 2026.
+Lupreme is a Reggaeton and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Supernatural Haus, Miami on Fri, 27 Nov 2026.
 
 Lupreme is a reggaeton and electronica artist based in United States of America, with 11 gigs on soundcheck across Miami and New York City. Often billed alongside Ale Acosta, Berrakka and DAY/DEM. Next up: Supernatural Haus, Miami on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lupreme is a reggaeton and electronica artist based in United States of America,
 
 Ale Acosta, Berrakka, DAY/DEM
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lupreme/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lupreme/)*

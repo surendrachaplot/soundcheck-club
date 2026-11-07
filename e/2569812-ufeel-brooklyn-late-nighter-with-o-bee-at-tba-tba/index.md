@@ -1,6 +1,6 @@
 # UFeel Brooklyn Late Nighter with O.BEE at TBA - TBA
 
-UFeel Brooklyn Late Nighter with O.BEE at TBA - TBA on Fri 13 Nov, New York City. 4 artists: Akin (NYC), O.BEE, Úrsula and Zayd. See the line-up on soundcheck.
+UFeel Brooklyn Late Nighter with O.BEE at TBA - TBA on Fri 13 Nov, New York City. 5 artists: Akin (NYC), O.BEE, Orazio Rispo and Úrsula and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ UFeel Brooklyn Late Nighter with O.BEE at TBA - TBA on Fri 13 Nov, New York City
 
 - Akin (NYC)
 - O.BEE
+- Orazio Rispo
 - Úrsula
 - Zayd
 

@@ -1,6 +1,6 @@
 # Antonio Pica Dj
 
-Antonio Pica Dj is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Ariano Irpino, South on Sat, 14 Nov 2026.
+Antonio Pica Dj is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Ariano Irpino, South on Sat, 14 Nov 2026.
 
 Antonio Pica Dj is a tech house and house artist based in Italy, with 17 gigs on soundcheck across Barcelona, Bogotá, Bucharest and Buenos Aires and 5 more. Often billed alongside Elio Riso, Ale De Tuglie and Cloonee. Next up: TBA - Ariano Irpino, South on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Antonio Pica Dj is a tech house and house artist based in Italy, with 17 gigs on
 
 Elio Riso, Ale De Tuglie, Cloonee
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniopicadj/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/antoniopicadj/)*

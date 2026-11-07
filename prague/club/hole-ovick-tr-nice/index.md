@@ -1,6 +1,6 @@
 # Holešovická Tržnice
 
-Holešovická Tržnice is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Compact Disco: Skate warehouse w/ Balearic Banana (Berlin)" on Fri, 13 Nov 2026.
+Holešovická Tržnice is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Compact Disco: Skate warehouse w/ Balearic Banana (Berlin)" on Fri, 13 Nov 2026.
 
 Holešovická Tržnice is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Austin Powers, Balearic Banana, Jak Sen and Old & Rich. See dates, start times and who's playing. Bubenské nábř. 306/13, 170 00 Praha 7 Holešovice.
 
@@ -14,4 +14,4 @@ Holešovická Tržnice is a music venue in Prague listed on soundcheck. 1 upcomi
 
 Bubenské nábř. 306/13, 170 00 Praha 7 Holešovice, Prague
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/hole-ovick-tr-nice/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/hole-ovick-tr-nice/)*

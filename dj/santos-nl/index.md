@@ -1,14 +1,13 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tempo, Glasgow on Fri, 6 Nov 2026.
+SANTØS is a Techno and Industrial artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Panama, Amsterdam on Sat, 21 Nov 2026.
 
-SANTØS is a techno and industrial artist based in Netherlands, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: Tempo, Glasgow on Fri 6 Nov.
+SANTØS is a techno and industrial artist based in Netherlands, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 35 more. Often billed alongside KARAH, KLOFAMA and 6EJOU. Next up: Panama, Amsterdam on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tempo | Glasgow |
 | Sat, 21 Nov 2026 | Panama | Amsterdam |
 | Fri, 27 Nov 2026 | Media Center | Ljubljana |
 | Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
@@ -19,6 +18,7 @@ SANTØS is a techno and industrial artist based in Netherlands, with 117 gigs on
 
 ## Recently played
 
+- Tempo, Glasgow · Fri, 6 Nov 2026
 - Maassilo, Rotterdam · Sat, 31 Oct 2026
 - TBA - Autodromo di Imola, Central · Sat, 31 Oct 2026
 - Autodromo Enzo e Dino Ferrari, Bologna · Sat, 31 Oct 2026
@@ -26,10 +26,9 @@ SANTØS is a techno and industrial artist based in Netherlands, with 117 gigs on
 - OCZKI, Warsaw · Sat, 24 Oct 2026
 - Afas Live, Amsterdam · Sat, 24 Oct 2026
 - TBA - Amsterdam Central Station , Amsterdam · Fri, 23 Oct 2026
-- Edelfettwerk, Hamburg · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 KARAH, KLOFAMA, 6EJOU
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/santos-nl/)*

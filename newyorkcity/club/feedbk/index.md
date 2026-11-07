@@ -1,14 +1,13 @@
 # feedbk
 
-feedbk is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "feedbk with Jacky Sommer, Manny, CAMILLA" on Fri, 6 Nov 2026.
+feedbk is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "feedbk x subsurface with John Raffaele and Keen, Hugo and Taiga" on Sat, 7 Nov 2026.
 
-feedbk is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Bruno (DO), Burchan Acar, CAMILLA and Fonte and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
+feedbk is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Bruno (DO), Burchan Acar, Fonte and Free Zing and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | feedbk with Jacky Sommer, Manny, CAMILLA | CAMILLA, Jacky Sommer |
 | Sat, 7 Nov 2026 | feedbk x subsurface with John Raffaele and Keen, Hugo and Taiga | Hugo (US), John Raffaele, Keen, Taiga |
 | Sun, 8 Nov 2026 | feedbk with Free Zing | Bruno (DO), Free Zing, Quim Clausell |
 | Thu, 12 Nov 2026 | feedbk x Nomads NY with Truly Madly |  |
@@ -20,4 +19,4 @@ feedbk is a music venue in New York City listed on soundcheck. 7 upcoming gigs, 
 
 153 Morgan Avenue, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/feedbk/)*

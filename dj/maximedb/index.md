@@ -1,6 +1,6 @@
 # Maxime dB
 
-Maxime dB is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lion's Den, Miami on Thu, 3 Dec 2026.
+Maxime dB is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lion's Den, Miami on Thu, 3 Dec 2026.
 
 Maxime dB is a house and techno artist, with 127 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 33 more. Often billed alongside Aline Umber, Aline Brooklyn and Krol. Next up: Lion's Den, Miami on Thu 3 Dec.
 
@@ -29,4 +29,4 @@ Maxime dB is a house and techno artist, with 127 gigs on soundcheck across Amste
 
 Aline Umber, Aline Brooklyn, Krol
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maximedb/)*

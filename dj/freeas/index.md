@@ -1,6 +1,6 @@
 # FreeAs
 
-FreeAs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Rachdingue, Barcelona on Sat, 14 Nov 2026.
+FreeAs is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Rachdingue, Barcelona on Sat, 14 Nov 2026.
 
 FreeAs is a techno and house artist based in Spain, with 10 gigs on soundcheck across Barcelona. Often billed alongside Doug Bass, Julian Ess and Malinka. Next up: Rachdingue, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ FreeAs is a techno and house artist based in Spain, with 10 gigs on soundcheck a
 
 Doug Bass, Julian Ess, Malinka
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freeas/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/freeas/)*

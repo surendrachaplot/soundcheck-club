@@ -1,6 +1,6 @@
 # Costa (2)
 
-Costa (2) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sala ART, Madrid on Sat, 7 Nov 2026.
+Costa (2) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sala ART, Madrid on Sat, 7 Nov 2026.
 
 Costa is a techno artist based in Spain, with 5 gigs on soundcheck across Madrid. Often billed alongside CHEFFF, JAIROSKUN and PÜCH. Next up: Sala ART, Madrid on Sat 7 Nov.
 
@@ -21,4 +21,4 @@ Costa is a techno artist based in Spain, with 5 gigs on soundcheck across Madrid
 
 CHEFFF, JAIROSKUN, PÜCH
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/costa-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/costa-2/)*

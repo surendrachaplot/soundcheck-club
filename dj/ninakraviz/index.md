@@ -1,6 +1,6 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - 131 McCormack St., Toronto on Sat, 7 Nov 2026.
+Nina Kraviz is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - 131 McCormack St., Toronto on Sat, 7 Nov 2026.
 
 Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: TBA - 131 McCormack St., Toronto on Sat 7 Nov.
 
@@ -32,4 +32,4 @@ Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on sound
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

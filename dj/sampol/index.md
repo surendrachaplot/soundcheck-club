@@ -1,6 +1,6 @@
 # Sampol
 
-Sampol is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Powsounds Club, Venezuela on Fri, 13 Nov 2026.
+Sampol is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Powsounds Club, Venezuela on Fri, 13 Nov 2026.
 
 Sampol is a house and electro artist based in Spain, with 120 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 19 more. Often billed alongside Alex (ES), Hitch and MARYO. Next up: Powsounds Club, Venezuela on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Sampol is a house and electro artist based in Spain, with 120 gigs on soundcheck
 
 Alex (ES), Hitch, MARYO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sampol/)*

@@ -1,20 +1,20 @@
 # Eric Yaz
 
-Eric Yaz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Secret Location DC, Washington DC on Fri, 6 Nov 2026.
+Eric Yaz is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Pandora Café, Richmond on Sat, 7 Nov 2026.
 
-Eric Yaz is a techno and house artist based in United States of America, with 77 gigs on soundcheck across Baltimore, Detroit, Miami and New York City and 3 more. Often billed alongside SPCL.K, Xav (US) and Stagira. Next up: TBA - Secret Location DC, Washington DC on Fri 6 Nov.
+Eric Yaz is a techno and house artist based in United States of America, with 77 gigs on soundcheck across Baltimore, Detroit, Miami and New York City and 3 more. Often billed alongside SPCL.K, Xav (US) and Stagira. Next up: Pandora Café, Richmond on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Secret Location DC | Washington DC |
 | Sat, 7 Nov 2026 | Pandora Café | Richmond |
 | Fri, 11 Dec 2026 | Strand DC | Washington DC |
 | Wed, 16 Dec 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
+- TBA - 618 H ST NW, 2nd Floor, Washington DC · Fri, 6 Nov 2026
 - Spkrbox, Detroit · Sat, 31 Oct 2026
 - Flash, Washington DC · Sat, 10 Oct 2026
 - Eighteenth Street Lounge (ESL), Washington DC · Sat, 3 Oct 2026
@@ -22,10 +22,9 @@ Eric Yaz is a techno and house artist based in United States of America, with 77
 - 618 DC, Washington DC · Fri, 28 Aug 2026
 - La Fabrica, Washington DC · Sat, 15 Aug 2026
 - Flash, Washington DC · Sat, 1 Aug 2026
-- La Fabrica, Washington DC · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 SPCL.K, Xav (US), Stagira
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericyaz/)*

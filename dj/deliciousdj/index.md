@@ -1,6 +1,6 @@
 # Delicious DJ
 
-Delicious DJ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Osler Records, Toronto on Sat, 21 Nov 2026.
+Delicious DJ is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Osler Records, Toronto on Sat, 21 Nov 2026.
 
 Delicious DJ is a house and disco artist based in Canada, with 30 gigs on soundcheck across Toronto. Often billed alongside Prince Batrick, DR 4SKYN and LArA. Next up: Osler Records, Toronto on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Delicious DJ is a house and disco artist based in Canada, with 30 gigs on soundc
 
 Prince Batrick, DR 4SKYN, LArA (5)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deliciousdj/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deliciousdj/)*

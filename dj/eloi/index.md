@@ -1,6 +1,6 @@
 # Eloi
 
-Eloi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Rex Club, Paris on Fri, 27 Nov 2026.
+Eloi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Rex Club, Paris on Fri, 27 Nov 2026.
 
 Eloi is a techno and electro artist based in France, with 17 gigs on soundcheck across Bangkok, Barcelona, Brussels and Geneva and 7 more. Often billed alongside Lenn Reich, SHAY and AGY3NA. Next up: Rex Club, Paris on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Eloi is a techno and electro artist based in France, with 17 gigs on soundcheck 
 
 Lenn Reich, SHAY, AGY3NA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eloi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eloi/)*

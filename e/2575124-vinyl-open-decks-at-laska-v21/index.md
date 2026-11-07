@@ -1,6 +1,6 @@
 # Vinyl Open Decks at Laska V21
 
-Vinyl Open Decks at Laska V21 on Sun 8 Nov, Riga. Acid and Downtempo. See the line-up on soundcheck.
+Vinyl Open Decks at Laska V21 on Sun 8 Nov, Riga. Downtempo and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

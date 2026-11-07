@@ -1,6 +1,6 @@
 # Nic Cammelli
 
-Nic Cammelli is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Gallery, London on Thu, 26 Nov 2026.
+Nic Cammelli is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Gallery, London on Thu, 26 Nov 2026.
 
 Nic Cammelli is a techno and deep house artist based in United Kingdom, with 27 gigs on soundcheck across London. Often billed alongside Tear of Joy, Yashar (UK) and STRAY SON. Next up: Gallery, London on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Nic Cammelli is a techno and deep house artist based in United Kingdom, with 27 
 
 Tear of Joy, Yashar (UK), STRAY SON
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niccammelli/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/niccammelli/)*

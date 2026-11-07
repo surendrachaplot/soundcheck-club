@@ -1,6 +1,6 @@
 # relajadita
 
-relajadita is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sala Cocó, Madrid on Thu, 12 Nov 2026.
+relajadita is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sala Cocó, Madrid on Thu, 12 Nov 2026.
 
 relajadita is a techno and trance artist based in Spain, with 38 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Adrian Mills, DVAID and HUMAN ERROR. Next up: Sala Cocó, Madrid on Thu 12 Nov.
 
@@ -32,4 +32,4 @@ relajadita is a techno and trance artist based in Spain, with 38 gigs on soundch
 
 Adrian Mills, DVAID, HUMAN ERROR
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/relajadita/)*

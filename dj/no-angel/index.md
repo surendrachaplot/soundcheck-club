@@ -1,6 +1,6 @@
 # NO-ANGEL
 
-NO-ANGEL is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Silly (Bosi), London on Sat, 7 Nov 2026.
+NO-ANGEL is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Silly (Bosi), London on Sat, 7 Nov 2026.
 
 NO-ANGEL is an electronic artist based in United Kingdom, with 10 gigs on soundcheck across London. Often billed alongside CITIZEN, INSECT CRUSHA and OS:MAN. Next up: Club Silly (Bosi), London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ NO-ANGEL is an electronic artist based in United Kingdom, with 10 gigs on soundc
 
 CITIZEN, INSECT CRUSHA, OS:MAN
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/no-angel/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/no-angel/)*

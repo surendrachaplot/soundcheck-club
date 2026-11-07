@@ -1,6 +1,6 @@
 # tomo (Poznan)
 
-tomo (Poznan) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Las Palace, Poland on Sat, 7 Nov 2026.
+tomo (Poznan) is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Las Palace, Poland on Sat, 7 Nov 2026.
 
 tomo (Poznan) is a techno and minimal artist based in Poland, with 12 gigs on soundcheck across Berlin, Poland, Poznan and Warsaw and 1 more. Often billed alongside deKai, Patrick Arbez and eliXenia. Next up: Las Palace, Poland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ tomo (Poznan) is a techno and minimal artist based in Poland, with 12 gigs on so
 
 deKai, Patrick Arbez, eliXenia
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomopoznan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomopoznan/)*

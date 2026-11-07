@@ -1,6 +1,6 @@
 # Bronsön
 
-Bronsön is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Bside Radio, Vancouver on Sat, 7 Nov 2026.
+Bronsön is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Bside Radio, Vancouver on Sat, 7 Nov 2026.
 
 Bronsön is a techno and minimal techno artist based in United Kingdom, with 54 gigs on soundcheck across Montreal and Vancouver. Often billed alongside kish, DK PAU and Fizch. Next up: TBA - Bside Radio, Vancouver on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Bronsön is a techno and minimal techno artist based in United Kingdom, with 54 
 
 kish, DK PAU, Fizch
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bronson-ca/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bronson-ca/)*

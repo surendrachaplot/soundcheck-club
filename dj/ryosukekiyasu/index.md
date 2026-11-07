@@ -1,6 +1,6 @@
 # Ryosuke Kiyasu
 
-Ryosuke Kiyasu is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Multiple Venues, Barcelona on Wed, 28 Apr 2027.
+Ryosuke Kiyasu is a Noise and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Multiple Venues, Barcelona on Wed, 28 Apr 2027.
 
 Ryosuke Kiyasu is a noise and experimental artist, with 19 gigs on soundcheck across Antwerp, Barcelona, Copenhagen and Florence and 10 more. Often billed alongside FUJI TRILL, Isabelle Beaucamp and YUUKI YOSHIYAMA. Next up: TBA - Multiple Venues, Barcelona on Wed 28 Apr.
 
@@ -25,4 +25,4 @@ Ryosuke Kiyasu is a noise and experimental artist, with 19 gigs on soundcheck ac
 
 FUJI TRILL, Isabelle Beaucamp, YUUKI YOSHIYAMA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryosukekiyasu/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ryosukekiyasu/)*

@@ -1,6 +1,6 @@
 # Montezuma (DE)
 
-Montezuma (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
+Montezuma (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Spartacus Potsdam, Berlin on Fri, 6 Nov 2026.
 
 Montezuma (DE) is a techno and house artist based in Germany, with 35 gigs on soundcheck across Barcelona, Berlin, Dresden and Hamburg and 5 more. Often billed alongside Beqqi, Maschérie and MIO (ES). Next up: Spartacus Potsdam, Berlin on Fri 6 Nov.
 
@@ -12,6 +12,7 @@ Montezuma (DE) is a techno and house artist based in Germany, with 35 gigs on so
 
 ## Recently played
 
+- Spartacus Potsdam, Berlin · Fri, 6 Nov 2026
 - Distillery, Leipzig · Sat, 19 Sept 2026
 - OXI, Berlin · Sun, 30 Aug 2026
 - Woodlands, Hannover · Sat, 22 Aug 2026
@@ -19,10 +20,9 @@ Montezuma (DE) is a techno and house artist based in Germany, with 35 gigs on so
 - Bonavista Rooftop, Barcelona · Sat, 16 May 2026
 - elipamanoke, Leipzig · Thu, 30 Apr 2026
 - Südpol, Hamburg · Fri, 24 Apr 2026
-- Ritter Butzke, Berlin · Sat, 31 Jan 2026
 
 ## Shares bills with
 
 Beqqi, Maschérie, MIO (ES)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montezuma-de/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/montezuma-de/)*

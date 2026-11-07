@@ -1,6 +1,6 @@
 # DJ Matpat
 
-DJ Matpat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 28 Nov 2026.
+DJ Matpat is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Warehouse on Watts, Philadelphia on Sat, 28 Nov 2026.
 
 DJ Matpat is a house and techno artist based in United States of America, with 65 gigs on soundcheck across Boston, Detroit, Glasgow and Miami and 5 more. Often billed alongside Shang, Elvin T and kraftwitch. Next up: Warehouse on Watts, Philadelphia on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ Matpat is a house and techno artist based in United States of America, with 6
 
 Shang, Elvin T, kraftwitch
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatpat/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmatpat/)*

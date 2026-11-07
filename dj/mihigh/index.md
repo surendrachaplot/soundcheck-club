@@ -1,6 +1,6 @@
 # Mihigh
 
-Mihigh is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
+Mihigh is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
 
 Mihigh is a minimal and house artist based in Romania, with 60 gigs on soundcheck across Barcelona, Bogotá, Brussels and Bucharest and 12 more. Often billed alongside CEZAR, Gescu and Arapu. Next up: Club Guesthouse, Bucharest on Fri 6 Nov.
 
@@ -13,6 +13,7 @@ Mihigh is a minimal and house artist based in Romania, with 60 gigs on soundchec
 
 ## Recently played
 
+- Club Guesthouse, Bucharest · Fri, 6 Nov 2026
 - Supermarket, Zurich · Thu, 29 Oct 2026
 - Supermarket, Zurich · Fri, 7 Aug 2026
 - Starlane Pizza Bar, London · Sun, 21 Jun 2026
@@ -20,10 +21,9 @@ Mihigh is a minimal and house artist based in Romania, with 60 gigs on soundchec
 - UMI, Brussels · Sun, 17 May 2026
 - LA Rítmica Club, Valencia · Sat, 25 Apr 2026
 - Bikini Club, Barcelona · Fri, 24 Apr 2026
-- Supermarket, Zurich · Thu, 2 Apr 2026
 
 ## Shares bills with
 
 CEZAR, Gescu, Arapu
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihigh/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mihigh/)*

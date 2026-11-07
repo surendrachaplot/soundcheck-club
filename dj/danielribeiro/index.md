@@ -1,6 +1,6 @@
 # Daniel Ribeiro
 
-Daniel Ribeiro is a Electronica and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Plano B, Porto on Sat, 14 Nov 2026.
+Daniel Ribeiro is a Electronica and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Plano B, Porto on Sat, 14 Nov 2026.
 
 Daniel Ribeiro is an electronica and dub techno artist based in Portugal, with 15 gigs on soundcheck across Lisbon and Porto. Often billed alongside Frank Maurel, Moses and Nuno Carneiro. Next up: Plano B, Porto on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Daniel Ribeiro is an electronica and dub techno artist based in Portugal, with 1
 
 Frank Maurel, Moses, Nuno Carneiro
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielribeiro/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielribeiro/)*

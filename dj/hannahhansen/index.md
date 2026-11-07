@@ -1,6 +1,6 @@
 # HANNAHHANSEN
 
-HANNAHHANSEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kater, Berlin on Thu, 10 Dec 2026.
+HANNAHHANSEN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Thu, 10 Dec 2026.
 
 HANNAHHANSEN is a techno and house artist based in Germany, with 22 gigs on soundcheck across Berlin. Often billed alongside Max Muth, V (NYC) and Marc Eisenberg. Next up: Kater, Berlin on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ HANNAHHANSEN is a techno and house artist based in Germany, with 22 gigs on soun
 
 Max Muth, V (NYC), Marc Eisenberg
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahhansen/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahhansen/)*

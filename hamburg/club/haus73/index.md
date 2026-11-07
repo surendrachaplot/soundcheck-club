@@ -1,6 +1,6 @@
 # Haus73
 
-Haus73 is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Joy Dispenser" on Sat, 7 Nov 2026.
+Haus73 is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Joy Dispenser" on Sat, 7 Nov 2026.
 
 Haus73 is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including Enchanted Rhythms, FUNKA04, G-Lamour and Henry (DE) and 1 more. See dates, start times and who's playing. Schulterblatt 73, 20357 Hamburg, Germany.
 
@@ -17,4 +17,4 @@ Haus73 is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with l
 
 Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/haus73/)*

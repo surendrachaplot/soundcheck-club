@@ -1,6 +1,6 @@
 # SID MEHANI
 
-SID MEHANI is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Prisma, Berlin on Sun, 8 Nov 2026.
+SID MEHANI is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Prisma, Berlin on Sun, 8 Nov 2026.
 
 SID MEHANI is a house and deep house artist based in Algeria, with 11 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Wave Particle Singularity, HEAR and Julie Marghilano. Next up: Prisma, Berlin on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ SID MEHANI is a house and deep house artist based in Algeria, with 11 gigs on so
 
 Wave Particle Singularity, HEAR, Julie Marghilano
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidmehani/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sidmehani/)*

@@ -1,6 +1,6 @@
 # MAIA
 
-MAIA is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Igrejinha Bar, Sao Paulo on Sat, 7 Nov 2026.
+MAIA is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Igrejinha Bar, Sao Paulo on Sat, 7 Nov 2026.
 
 MAIA is a minimal techno and tech house artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, London, Los Angeles and Sao Paulo and 1 more. Often billed alongside Andrea Giudice, Reeno and Pas2problemes. Next up: Igrejinha Bar, Sao Paulo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MAIA is a minimal techno and tech house artist based in United Kingdom, with 34 
 
 Andrea Giudice, Reeno, Pas2problemes
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maia/)*

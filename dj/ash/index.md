@@ -1,6 +1,6 @@
 # Ash
 
-Ash is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Neck of the Woods, Auckland on Fri, 20 Nov 2026.
+Ash is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Neck of the Woods, Auckland on Fri, 20 Nov 2026.
 
 Ash is a house and techno artist based in Egypt, with 34 gigs on soundcheck across Auckland, Austin, Barcelona and Basel and 16 more. Often billed alongside Gacha, Lava and Anyma. Next up: Neck of the Woods, Auckland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Ash is a house and techno artist based in Egypt, with 34 gigs on soundcheck acro
 
 Gacha, Lava, Anyma
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ash/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ash/)*

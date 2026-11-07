@@ -1,6 +1,6 @@
 # Female Wizard
 
-Female Wizard is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Milneys, Melbourne on Fri, 13 Nov 2026.
+Female Wizard is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Milneys, Melbourne on Fri, 13 Nov 2026.
 
 Female Wizard is an experimental and techno artist based in Australia, with 26 gigs on soundcheck across Adelaide, Berlin, Melbourne and New York City and 1 more. Often billed alongside SOLSA, Thick Owens and Aaliyah Salem. Next up: Milneys, Melbourne on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Female Wizard is an experimental and techno artist based in Australia, with 26 g
 
 SOLSA, Thick Owens, Aaliyah Salem
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femalewizard/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/femalewizard/)*

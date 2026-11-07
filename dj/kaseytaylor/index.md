@@ -1,6 +1,6 @@
 # Kasey Taylor
 
-Kasey Taylor is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+Kasey Taylor is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
 Kasey Taylor is a progressive house and techno artist based in Australia, with 14 gigs on soundcheck across Amsterdam, Buenos Aires, Glasgow and Lisbon and 5 more. Often billed alongside Gai Barone, Anthony Pappa and Boundless. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Kasey Taylor is a progressive house and techno artist based in Australia, with 1
 
 Gai Barone, Anthony Pappa, Boundless (1)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseytaylor/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseytaylor/)*

@@ -1,6 +1,6 @@
 # SWIM - AU Tour with Live Orchestra at The Fortitude Music Hall
 
-SWIM - AU Tour with Live Orchestra at The Fortitude Music Hall on Fri 5 Feb, Brisbane. 1 artist: SWIM (AU). See the line-up on soundcheck.
+SWIM - AU Tour with Live Orchestra at The Fortitude Music Hall on Fri 5 Feb, Brisbane. 1 artist: SWIM (AU). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

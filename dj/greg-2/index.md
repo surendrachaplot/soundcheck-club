@@ -1,6 +1,6 @@
 # Greg (2)
 
-Greg (2) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Trabendo, Paris on Fri, 4 Dec 2026.
+Greg (2) is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Le Trabendo, Paris on Fri, 4 Dec 2026.
 
 Greg is a techno and club artist based in Mauritius, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 14 more. Often billed alongside Tatyana Jane, Busy P and Erna (FR). Next up: Le Trabendo, Paris on Fri 4 Dec.
 
@@ -26,4 +26,4 @@ Greg is a techno and club artist based in Mauritius, with 68 gigs on soundcheck 
 
 Tatyana Jane, Busy P, Erna (FR)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greg-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/greg-2/)*

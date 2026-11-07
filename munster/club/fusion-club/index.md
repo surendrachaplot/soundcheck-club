@@ -1,6 +1,6 @@
 # Fusion Club
 
-Fusion Club is a music venue in Münster with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SubCircus Vol.2" on Sat, 7 Nov 2026.
+Fusion Club is a music venue in Münster with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "SubCircus Vol.2" on Sat, 7 Nov 2026.
 
 Fusion Club is a music venue in Münster listed on soundcheck. 6 upcoming gigs, with line-ups including Alexia K., aylinnja, Chris Liebing and Felix Kröcher and 2 more. See dates, start times and who's playing. Am Hawerkamp 32; 48155 Münster; Germany.
 
@@ -19,4 +19,4 @@ Fusion Club is a music venue in Münster listed on soundcheck. 6 upcoming gigs, 
 
 Am Hawerkamp 32; 48155 Münster; Germany, Münster
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/munster/club/fusion-club/)*

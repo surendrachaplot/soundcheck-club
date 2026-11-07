@@ -1,6 +1,6 @@
 # canna
 
-canna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Joey Smalls, Melbourne on Sat, 14 Nov 2026.
+canna is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Joey Smalls, Melbourne on Sat, 14 Nov 2026.
 
 canna is a house and techno artist, with 14 gigs on soundcheck across Bologna, Dublin, Melbourne and Tokyo. Often billed alongside HAUSWiFE, JOVE and Joey Coco. Next up: Joey Smalls, Melbourne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ canna is a house and techno artist, with 14 gigs on soundcheck across Bologna, D
 
 HAUSWiFE, JOVE, Joey Coco
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/canna/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/canna/)*

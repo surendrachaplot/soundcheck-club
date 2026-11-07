@@ -1,6 +1,6 @@
 # Acid Gigi
 
-Acid Gigi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Frissón, Rome on Sun, 8 Nov 2026.
+Acid Gigi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Frissón, Rome on Sun, 8 Nov 2026.
 
 Acid Gigi is a house and techno artist based in Italy, with 10 gigs on soundcheck across Berlin, Florence, Madrid and Milan and 1 more. Often billed alongside Acidgigi, Riccardo BHI and AGNES (IT). Next up: Frissón, Rome on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Acid Gigi is a house and techno artist based in Italy, with 10 gigs on soundchec
 
 Acidgigi, Riccardo BHI, AGNES (IT)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidgigi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidgigi/)*

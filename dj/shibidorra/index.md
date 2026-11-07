@@ -1,6 +1,6 @@
 # ShibiDorra
 
-ShibiDorra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Radost Music Club, Bratislava on Fri, 20 Nov 2026.
+ShibiDorra is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Radost Music Club, Bratislava on Fri, 20 Nov 2026.
 
 ShibiDorra is a techno and electronica artist based in Serbia, with 17 gigs on soundcheck across Belgrade, Bratislava, Zagreb and Zurich. Often billed alongside Emma H, vagabond and .Paragon. Next up: Radost Music Club, Bratislava on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ShibiDorra is a techno and electronica artist based in Serbia, with 17 gigs on s
 
 Emma H, vagabond, .Paragon
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shibidorra/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shibidorra/)*

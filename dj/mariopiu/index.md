@@ -1,6 +1,6 @@
 # Mario Piu
 
-Mario Piu is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Move, West-wales on Sat, 7 Nov 2026.
+Mario Piu is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Move, West-wales on Sat, 7 Nov 2026.
 
 Mario Piu is a techno and progressive house artist based in Italy, with 7 gigs on soundcheck across Leeds, Milan, Turin and West Wales and 1 more. Often billed alongside 00Zicky, Luca Pechino and Agnelli & Nelson. Next up: Move, West Wales on Sat 7 Nov.
 
@@ -23,4 +23,4 @@ Mario Piu is a techno and progressive house artist based in Italy, with 7 gigs o
 
 00Zicky, Luca Pechino, Agnelli & Nelson
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopiu/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariopiu/)*

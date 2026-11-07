@@ -1,6 +1,6 @@
 # COOK SWEET
 
-COOK SWEET is a Amapiano and Bass artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
+COOK SWEET is a Amapiano and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Seoul on Sat, 14 Nov 2026.
 
 COOK SWEET is an amapiano and bass artist based in United Kingdom, with 6 gigs on soundcheck across Seoul. Often billed alongside Unkelchubbz, Sino and Coziest. Next up: TBA, Seoul on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ COOK SWEET is an amapiano and bass artist based in United Kingdom, with 6 gigs o
 
 Unkelchubbz, Sino, Coziest
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cooksweet/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cooksweet/)*

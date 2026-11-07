@@ -1,6 +1,6 @@
 # Wire One
 
-Wire One is a Electro and Electronica artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The High Dive, Detroit on Sat, 7 Nov 2026.
+Wire One is a Electro and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The High Dive, Detroit on Sat, 7 Nov 2026.
 
 Wire One is an electro and electronica artist based in United States of America, with 3 gigs on soundcheck across Detroit, Los Angeles and San Francisco/Oakland. Often billed alongside 1ycia, Denimontaro and Pablo R. Ruiz. Next up: The High Dive, Detroit on Sat 7 Nov.
 
@@ -16,4 +16,4 @@ Wire One is an electro and electronica artist based in United States of America,
 
 1ycia, Denimontaro, Pablo R. Ruiz
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wireone/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wireone/)*

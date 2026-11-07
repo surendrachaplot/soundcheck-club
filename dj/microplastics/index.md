@@ -1,6 +1,6 @@
 # Microplastics
 
-Microplastics is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Microplastics is a Club and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
 Microplastics is a club and experimental artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Central, London and Manchester and 4 more. Often billed alongside 96 Back, aya and Jennifer Walton. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
@@ -14,6 +14,7 @@ Microplastics is a club and experimental artist based in United Kingdom, with 15
 
 ## Recently played
 
+- Cité du Design Saint Etienne, Central · Fri, 6 Nov 2026
 - TBA - Various Venues, Guimarães, PT, Portugal · Thu, 29 Oct 2026
 - Komuna Warszawa, Warsaw · Fri, 12 Jun 2026
 - różne lokalizacje / various venues, Warsaw · Mon, 8 Jun 2026
@@ -21,10 +22,9 @@ Microplastics is a club and experimental artist based in United Kingdom, with 15
 - M.O.T, London · Sat, 4 Oct 2025
 - M.O.T, London · Thu, 18 Sept 2025
 - SET Vault, London · Sat, 31 May 2025
-- OIL Club, Shenzhen · Fri, 28 Mar 2025
 
 ## Shares bills with
 
 96 Back, aya, Jennifer Walton
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/microplastics/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/microplastics/)*

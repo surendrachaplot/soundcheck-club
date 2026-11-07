@@ -1,6 +1,6 @@
 # LIUYANG
 
-LIUYANG is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
+LIUYANG is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Dada Beijing, Beijing on Sat, 7 Nov 2026.
 
 LIUYANG is a techno and electro artist based in China, with 64 gigs on soundcheck across Amsterdam, Beijing, Chengdu and Chongqing and 8 more. Often billed alongside Shengchou, S.M.S.H and cisco. Next up: Dada Beijing, Beijing on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ LIUYANG is a techno and electro artist based in China, with 64 gigs on soundchec
 
 Shengchou, S.M.S.H, cisco (3)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liuyang/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/liuyang/)*

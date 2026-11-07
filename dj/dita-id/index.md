@@ -1,6 +1,6 @@
 # DITA (ID)
 
-DITA (ID) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
+DITA (ID) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Chang Chui Creative Park, Bangkok on Sat, 7 Nov 2026.
 
 DITA (ID) is a house and disco artist based in Indonesia, with 124 gigs on soundcheck across Amsterdam, Bali, Bangkok and Berlin and 19 more. Often billed alongside Fafi Abdel Nour, Peach and Archie Dennis. Next up: Chang Chui Creative Park, Bangkok on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ DITA (ID) is a house and disco artist based in Indonesia, with 124 gigs on sound
 
 Fafi Abdel Nour, Peach, Archie Dennis
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dita-id/)*

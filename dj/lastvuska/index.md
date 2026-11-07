@@ -1,6 +1,6 @@
 # Lastvuska
 
-Lastvuska is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at La Gare / Le Gore, Paris on Sat, 28 Nov 2026.
+Lastvuska is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at La Gare / Le Gore, Paris on Sat, 28 Nov 2026.
 
 Lastvuska is a techno and trance artist based in France, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Jolly (FR), Maryu and HORS-SOL. Next up: La Gare / Le Gore, Paris on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Lastvuska is a techno and trance artist based in France, with 87 gigs on soundch
 
 Jolly (FR), Maryu, HORS-SOL
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lastvuska/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lastvuska/)*

@@ -1,6 +1,6 @@
 # Goodlooking Bastard (2)
 
-Goodlooking Bastard (2) is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
+Goodlooking Bastard (2) is a Techno and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Outline, Mexico City on Sat, 7 Nov 2026.
 
 Goodlooking Bastard is a techno and reggaeton artist based in Mexico, with 31 gigs on soundcheck across Guadalajara and Mexico City. Often billed alongside Avant-Garde Institute, Eliel Capa and Enya Botello. Next up: Outline, Mexico City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Goodlooking Bastard is a techno and reggaeton artist based in Mexico, with 31 gi
 
 Avant-Garde Institute, Eliel Capa, Enya Botello
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodlookingbastard-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goodlookingbastard-2/)*

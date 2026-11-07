@@ -1,6 +1,6 @@
 # Matthias (1)
 
-Matthias (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Matthias (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Matthias is a house and techno artist based in Germany, with 117 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 39 more. Often billed alongside So-Fi, Ancut and Brasi. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -15,6 +15,7 @@ Matthias is a house and techno artist based in Germany, with 117 gigs on soundch
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Signal, New York City · Fri, 30 Oct 2026
 - TBA - 333, New York City · Fri, 30 Oct 2026
 - DURO, Milan · Sat, 24 Oct 2026
@@ -22,10 +23,9 @@ Matthias is a house and techno artist based in Germany, with 117 gigs on soundch
 - Tokonoma Club, Frankfurt · Fri, 2 Oct 2026
 - Club de Pescadores Buenos Aires, Buenos Aires · Fri, 18 Sept 2026
 - Bunker, Turin · Sat, 12 Sept 2026
-- Sonnenraum, Berlin · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 So-Fi, Ancut, Brasi
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthias-1/)*

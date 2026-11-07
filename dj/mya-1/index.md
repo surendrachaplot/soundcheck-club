@@ -1,6 +1,6 @@
 # Mya (1)
 
-Mya (1) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Amber's, Manchester on Sat, 7 Nov 2026.
+Mya (1) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Amber's, Manchester on Sat, 7 Nov 2026.
 
 Mya is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Ibiza, London and Mallorca and 1 more. Often billed alongside Benji King, Phill de Janeiro and Jude Lenihan. Next up: Amber's, Manchester on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Mya is a house and tech house artist based in United Kingdom, with 19 gigs on so
 
 Benji King, Phill de Janeiro, Jude Lenihan
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mya-1/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mya-1/)*

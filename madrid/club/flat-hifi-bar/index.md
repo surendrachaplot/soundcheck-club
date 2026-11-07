@@ -1,14 +1,13 @@
 # Flat HiFi Bar
 
-Flat HiFi Bar is a music venue in Madrid with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "The Flat: Moulin & Kai Kai" on Fri, 6 Nov 2026.
+Flat HiFi Bar is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "The Flat: M.T" on Sat, 7 Nov 2026.
 
-Flat HiFi Bar is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, with line-ups including DIGUES, Jorge Padilla, MIGO and Moulin. See dates, start times and who's playing. C. del Cardenal Cisneros, 10b, Chamberí, 28010, Madrid.
+Flat HiFi Bar is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including DIGUES, Jorge Padilla and MIGO. See dates, start times and who's playing. C. del Cardenal Cisneros, 10b, Chamberí, 28010, Madrid.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Flat: Moulin & Kai Kai | Moulin |
 | Sat, 7 Nov 2026 | The Flat: M.T |  |
 | Sun, 8 Nov 2026 | Sunday Listening Session: MIGO & Cale | MIGO |
 | Thu, 12 Nov 2026 | The Flat: Sofi Dijons |  |
@@ -20,4 +19,4 @@ Flat HiFi Bar is a music venue in Madrid listed on soundcheck. 7 upcoming gigs, 
 
 C. del Cardenal Cisneros, 10b, Chamberí, 28010, Madrid, Madrid
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/flat-hifi-bar/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/flat-hifi-bar/)*

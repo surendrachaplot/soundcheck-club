@@ -1,6 +1,6 @@
 # 2Maj
 
-2Maj is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA -  Austria - Linz, Linz on Sat, 21 Nov 2026.
+2Maj is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA -  Austria - Linz, Linz on Sat, 21 Nov 2026.
 
 2Maj is an acid and house artist based in Turkey, with 7 gigs on soundcheck across Istanbul, Linz and London. Often billed alongside Anahita Shamsaei, Sita Shah and Araam. Next up: TBA -  Austria - Linz, Linz on Sat 21 Nov.
 
@@ -23,4 +23,4 @@
 
 Anahita Shamsaei, Sita Shah, Araam
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2maj/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/2maj/)*

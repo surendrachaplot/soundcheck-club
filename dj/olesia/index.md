@@ -1,6 +1,6 @@
 # olesia
 
-olesia is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Hannover on Sat, 28 Nov 2026.
+olesia is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Hannover on Sat, 28 Nov 2026.
 
 olesia is a techno and trance artist, with 61 gigs on soundcheck across Barcelona, Beijing, Berlin and Bordeaux and 15 more. Often billed alongside Melati, THEMPRESS and Donnie Sunshine. Next up: TBA, Hannover on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ olesia is a techno and trance artist, with 61 gigs on soundcheck across Barcelon
 
 Melati, THEMPRESS, Donnie Sunshine
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olesia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olesia/)*

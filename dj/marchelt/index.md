@@ -1,6 +1,6 @@
 # Marc Helt
 
-Marc Helt is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jolene, Copenhagen on Sat, 7 Nov 2026.
+Marc Helt is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Jolene, Copenhagen on Sat, 7 Nov 2026.
 
 Marc Helt is a techno and bass artist based in Denmark, with 8 gigs on soundcheck across Copenhagen. Often billed alongside Ludvig Poll, Michael Nadjé and FRSS. Next up: Jolene, Copenhagen on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Marc Helt is a techno and bass artist based in Denmark, with 8 gigs on soundchec
 
 Ludvig Poll, Michael Nadjé, FRSS
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marchelt/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marchelt/)*

@@ -1,6 +1,6 @@
 # Frankie $
 
-Frankie $ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Frankie $ is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
 Frankie $ is a house and techno artist based in Japan, with 128 gigs on soundcheck across Kyoto, Osaka, Prague and Tbilisi and 1 more. Often billed alongside Hayato Iwaki, Al Jones and YANNY. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Frankie $ is a house and techno artist based in Japan, with 128 gigs on soundche
 
 Hayato Iwaki, Al Jones, YANNY (1)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/frankie-jp/)*

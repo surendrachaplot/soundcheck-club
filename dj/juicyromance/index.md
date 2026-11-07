@@ -1,14 +1,13 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Depot Mayfield, Manchester on Fri, 6 Nov 2026.
+Juicy Romance is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Amsterdam on Sat, 14 Nov 2026.
 
-Juicy Romance is a techno and house artist based in Australia, with 162 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Barcelona and 56 more. Often billed alongside Partiboi69, Mischluft and X CLUB.. Next up: Depot Mayfield, Manchester on Fri 6 Nov.
+Juicy Romance is a techno and house artist based in Australia, with 162 gigs on soundcheck across Aberdeen, Adelaide, Amsterdam and Barcelona and 56 more. Often billed alongside Partiboi69, Mischluft and X CLUB.. Next up: TBA, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 14 Nov 2026 | TBA | Amsterdam |
 | Fri, 27 Nov 2026 | The Cause | London |
 | Sat, 28 Nov 2026 | Sala Cocó | Madrid |
@@ -20,6 +19,7 @@ Juicy Romance is a techno and house artist based in Australia, with 162 gigs on 
 
 ## Recently played
 
+- Depot Mayfield, Manchester · Fri, 6 Nov 2026
 - Smolna, Warsaw · Fri, 30 Oct 2026
 - DRUMSHEDS, London · Fri, 23 Oct 2026
 - The Warehouse, Leeds · Sat, 3 Oct 2026
@@ -27,10 +27,9 @@ Juicy Romance is a techno and house artist based in Australia, with 162 gigs on 
 - Virage, Paris · Sat, 26 Sept 2026
 - Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
 - Else, Berlin · Sun, 30 Aug 2026
-- Ääniwalli, Helsinki · Sun, 9 Aug 2026
 
 ## Shares bills with
 
 Partiboi69, Mischluft, X CLUB.
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juicyromance/)*

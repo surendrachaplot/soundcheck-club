@@ -1,6 +1,6 @@
 # Conduit
 
-Conduit is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Open Air Club, New York City on Sat, 7 Nov 2026.
+Conduit is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Open Air Club, New York City on Sat, 7 Nov 2026.
 
 Conduit is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Ho Chi Minh City, Liverpool and New York City. Often billed alongside Kettle, Iggy Nuclear and Amelia Holt. Next up: Open Air Club, New York City on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Conduit is a house and techno artist based in United States of America, with 12 
 
 Kettle, Iggy Nuclear, Amelia Holt
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Conduit_US/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/Conduit_US/)*

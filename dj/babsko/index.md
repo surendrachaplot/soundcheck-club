@@ -1,6 +1,6 @@
 # babsko
 
-babsko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Samis Bar, Athens on Sat, 7 Nov 2026.
+babsko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Samis Bar, Athens on Sat, 7 Nov 2026.
 
 babsko is a techno and trance artist based in United Kingdom, with 10 gigs on soundcheck across Athens, Copenhagen, London and Warsaw. Often billed alongside WE.LL, dgbt and Saroor. Next up: Samis Bar, Athens on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ babsko is a techno and trance artist based in United Kingdom, with 10 gigs on so
 
 WE.LL, dgbt, Saroor
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/babsko/)*

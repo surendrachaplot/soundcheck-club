@@ -1,6 +1,6 @@
 # DJ MATERIA PRIMA
 
-DJ MATERIA PRIMA is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 7 Nov 2026.
+DJ MATERIA PRIMA is a Afro House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Say No More Madrid, Madrid on Sat, 7 Nov 2026.
 
 DJ MATERIA PRIMA is an afro house and afro tech artist based in Spain, with 19 gigs on soundcheck across Madrid. Often billed alongside DJ MBA, DJ Mois and BLCKWA. Next up: Say No More Madrid, Madrid on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ DJ MATERIA PRIMA is an afro house and afro tech artist based in Spain, with 19 g
 
 DJ MBA, DJ Mois, BLCKWA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmateriaprima/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmateriaprima/)*

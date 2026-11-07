@@ -1,6 +1,6 @@
 # Nick Morgan
 
-Nick Morgan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mercer Labs, New York City on Fri, 13 Nov 2026.
+Nick Morgan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mercer Labs, New York City on Fri, 13 Nov 2026.
 
 Nick Morgan is a house and deep house artist based in United Kingdom, with 31 gigs on soundcheck across Athens, Barcelona, Berlin and Birmingham and 12 more. Often billed alongside Guy Gerber, Damian Lazarus and Kaz James. Next up: Mercer Labs, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nick Morgan is a house and deep house artist based in United Kingdom, with 31 gi
 
 Guy Gerber, Damian Lazarus, Kaz James
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmorgan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nickmorgan/)*

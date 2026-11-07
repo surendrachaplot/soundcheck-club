@@ -1,6 +1,6 @@
 # Underground System
 
-Underground System is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Madrone Art Bar, San Francisco/Oakland on Sat, 28 Nov 2026.
+Underground System is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Madrone Art Bar, San Francisco/Oakland on Sat, 28 Nov 2026.
 
 Underground System is a house and disco artist, with 19 gigs on soundcheck across Detroit, London, Mexico City and Miami and 3 more. Often billed alongside Peter Matson, JKriv and Aaron Dae. Next up: Madrone Art Bar, San Francisco/Oakland on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Underground System is a house and disco artist, with 19 gigs on soundcheck acros
 
 Peter Matson, JKriv, Aaron Dae
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundsystem/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/undergroundsystem/)*

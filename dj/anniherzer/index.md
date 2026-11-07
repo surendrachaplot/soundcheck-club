@@ -1,6 +1,6 @@
 # Anni Herzer
 
-Anni Herzer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at SASS Music Club, Vienna on Fri, 13 Nov 2026.
+Anni Herzer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at SASS Music Club, Vienna on Fri, 13 Nov 2026.
 
 Anni Herzer is a house and techno artist based in Austria, with 86 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside Paul Mile, LizN and MIA MIA. Next up: SASS Music Club, Vienna on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Anni Herzer is a house and techno artist based in Austria, with 86 gigs on sound
 
 Paul Mile, LizN, MIA MIA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anniherzer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anniherzer/)*

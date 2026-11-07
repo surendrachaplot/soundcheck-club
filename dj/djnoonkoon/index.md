@@ -1,6 +1,6 @@
 # DJnoonkoon
 
-DJnoonkoon is a electronic artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - club RED, Chubu on Sat, 7 Nov 2026.
+DJnoonkoon is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - club RED, Chubu on Sat, 7 Nov 2026.
 
 DJnoonkoon is an electronic artist based in Japan, with 2 gigs on soundcheck across Chubu. Often billed alongside CRZKNY, File Explorer and MileZ. Next up: TBA - club RED, Chubu on Sat 7 Nov.
 
@@ -15,4 +15,4 @@ DJnoonkoon is an electronic artist based in Japan, with 2 gigs on soundcheck acr
 
 CRZKNY, File Explorer, MileZ
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoonkoon/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djnoonkoon/)*

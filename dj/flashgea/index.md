@@ -1,14 +1,13 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+Flash Gea is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
-Flash Gea is a techno and trance artist based in United States of America, with 32 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Miami and 6 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
+Flash Gea is a techno and trance artist based in United States of America, with 32 gigs on soundcheck across Baltimore, Chicago, Dallas/Fort Worth and Miami and 6 more. Often billed alongside Conrad Taylor, DomnRob and Ueberrest. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Public Works | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Casa Nube Wynwood | Miami |
 | Fri, 27 Nov 2026 | The Chocolate Factory | New York City |
 | Sat, 2 Jan 2027 | Pier 80 Warehouse | San Francisco/Oakland |
@@ -16,6 +15,7 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 
 ## Recently played
 
+- Public Works, San Francisco/Oakland · Fri, 6 Nov 2026
 - Concord Music Hall, Chicago · Fri, 30 Oct 2026
 - Industry City, New York City · Sat, 5 Sept 2026
 - The Ground at Club Space, Miami · Sat, 15 Aug 2026
@@ -23,10 +23,9 @@ Flash Gea is a techno and trance artist based in United States of America, with 
 - Kremwerk-Timbre Room-Cherry Complex, Seattle · Sat, 18 Jul 2026
 - EQ San Diego, San Diego · Fri, 10 Jul 2026
 - Superior Ingredients, New York City · Thu, 2 Jul 2026
-- Superior Ingredients, New York City · Thu, 2 Jul 2026
 
 ## Shares bills with
 
 Conrad Taylor, DomnRob, Ueberrest
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/flashgea/)*

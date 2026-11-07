@@ -1,6 +1,6 @@
 # Trockener Sekt
 
-Trockener Sekt is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 14 Nov 2026.
+Trockener Sekt is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Sat, 14 Nov 2026.
 
 Trockener Sekt is a house and electro artist, with 10 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside Tante Kante, Norman Weber and AGNY. Next up: Schlachthof Wiesbaden, Frankfurt on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Trockener Sekt is a house and electro artist, with 10 gigs on soundcheck across 
 
 Tante Kante, Norman Weber, AGNY
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trockenersekt/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trockenersekt/)*

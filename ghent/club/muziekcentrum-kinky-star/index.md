@@ -1,6 +1,6 @@
 # Muziekcentrum Kinky Star
 
-Muziekcentrum Kinky Star is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Dark Entries Night: Darkvolt & The Ordure" on Sat, 7 Nov 2026.
+Muziekcentrum Kinky Star is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Dark Entries Night: Darkvolt & The Ordure" on Sat, 7 Nov 2026.
 
 Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Castor W. and Jaquarius. See dates, start times and who's playing. Vlasmarkt 9, 9000 Gent.
 
@@ -18,4 +18,4 @@ Muziekcentrum Kinky Star is a music venue in Ghent listed on soundcheck. 5 upcom
 
 Vlasmarkt 9, 9000 Gent, Ghent
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/muziekcentrum-kinky-star/)*

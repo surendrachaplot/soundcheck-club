@@ -1,18 +1,18 @@
 # Rikuto
 
-Rikuto is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Muse Café & Cocktail Bar, Berlin on Fri, 6 Nov 2026.
+Rikuto is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Daphnia, Osaka on Sat, 5 Dec 2026.
 
-Rikuto is a techno and house artist based in Japan, with 109 gigs on soundcheck across Berlin, Brisbane, Osaka and Seoul and 1 more. Often billed alongside Rikuto Shibazaki, Goodrug and KCD(JP). Next up: Muse Café & Cocktail Bar, Berlin on Fri 6 Nov.
+Rikuto is a techno and house artist based in Japan, with 109 gigs on soundcheck across Berlin, Brisbane, Osaka and Seoul and 1 more. Often billed alongside Rikuto Shibazaki, Goodrug and KCD(JP). Next up: Club Daphnia, Osaka on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Muse Café & Cocktail Bar | Berlin |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
 
 ## Recently played
 
+- Muse Café & Cocktail Bar, Berlin · Fri, 6 Nov 2026
 - Mitsuki, Tokyo · Tue, 6 Oct 2026
 - Red Bar, Tokyo · Tue, 28 Jul 2026
 - Blvck Water, Osaka · Sun, 19 Jul 2026
@@ -20,10 +20,9 @@ Rikuto is a techno and house artist based in Japan, with 109 gigs on soundcheck 
 - Blvck Water, Osaka · Wed, 15 Jul 2026
 - Blvck Water, Osaka · Fri, 10 Jul 2026
 - Blvck Water, Osaka · Sat, 27 Jun 2026
-- Blvck Water, Osaka · Wed, 24 Jun 2026
 
 ## Shares bills with
 
 Rikuto Shibazaki, Goodrug, KCD(JP)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rikuto/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rikuto/)*

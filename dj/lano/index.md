@@ -1,13 +1,14 @@
 # Lano
 
-Lano is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kinki, Manila on Sat, 7 Nov 2026.
+Lano is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ROCA HIFI, Mexico City on Wed, 4 Nov 2026.
 
-Lano is a house and minimal artist based in France, with 14 gigs on soundcheck across Manila, Mexico City and Paris. Often billed alongside Majer, Barreto and Céline. Next up: Kinki, Manila on Sat 7 Nov.
+Lano is a house and minimal artist based in France, with 14 gigs on soundcheck across Manila, Mexico City and Paris. Often billed alongside Majer, Barreto and Céline. Next up: ROCA HIFI, Mexico City on Wed 4 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 4 Nov 2026 | ROCA HIFI | Mexico City |
 | Sat, 7 Nov 2026 | Kinki | Manila |
 
 ## Recently played
@@ -25,4 +26,4 @@ Lano is a house and minimal artist based in France, with 14 gigs on soundcheck a
 
 Majer, Barreto, Céline
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lano/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lano/)*

@@ -1,14 +1,13 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 16 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Radius, Chicago on Fri, 6 Nov 2026.
+Rossi is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TESTBED, Leeds on Fri, 13 Nov 2026.
 
-Rossi is a house and tech house artist based in United Kingdom, with 257 gigs on soundcheck across Amsterdam, Auckland, Austin and Austria and 58 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Radius, Chicago on Fri 6 Nov.
+Rossi is a house and tech house artist based in United Kingdom, with 257 gigs on soundcheck across Amsterdam, Auckland, Austin and Austria and 58 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: TESTBED, Leeds on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Radius | Chicago |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
 | Sat, 14 Nov 2026 | Pacha | Munich |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
@@ -20,9 +19,11 @@ Rossi is a house and tech house artist based in United Kingdom, with 257 gigs on
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Wed, 6 Jan 2027 | Carriageworks | Sydney |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
+| Sat, 9 Jan 2027 | Gloucester Park | Perth |
 
 ## Recently played
 
+- Radius, Chicago · Fri, 6 Nov 2026
 - Brooklyn Storehouse, New-york-city · Sun, 1 Nov 2026
 - Brooklyn Storehouse, New York City · Sat, 31 Oct 2026
 - 1015 Folsom, San Francisco/Oakland · Thu, 29 Oct 2026
@@ -30,10 +31,9 @@ Rossi is a house and tech house artist based in United Kingdom, with 257 gigs on
 - The Loft Amsterdam, Amsterdam · Mon, 26 Oct 2026
 - GASHOUDER, Amsterdam · Sat, 24 Oct 2026
 - Nxt Museum, Amsterdam · Thu, 22 Oct 2026
-- Blackstone Street Warehouse, Liverpool · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Josh Baker, Enzo Siragusa, Jamback
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rossi/)*

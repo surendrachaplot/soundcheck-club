@@ -1,6 +1,6 @@
 # Silhouettes VI // Isabel Soto, Kkantra, Nestor, Loftik at Stage and Radio
 
-Silhouettes VI // Isabel Soto, Kkantra, Nestor, Loftik at Stage and Radio on Sat 7 Nov, Manchester. 4 artists: Isabel Soto, Kkantra, Loftik and Nestor. Techno. See the line-up on soundcheck.
+Silhouettes VI // Isabel Soto, Kkantra, Nestor, Loftik at Stage and Radio on Sat 7 Nov, Manchester. 4 artists: Isabel Soto, Kkantra, Loftik and Nestor (IE). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Silhouettes VI // Isabel Soto, Kkantra, Nestor, Loftik at Stage and Radio on Sat
 - Isabel Soto
 - Kkantra
 - Loftik
-- Nestor
+- Nestor (IE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2515711-silhouettes-vi-isabel-soto-kkantra-nestor-loftik-at-stage-an/)*

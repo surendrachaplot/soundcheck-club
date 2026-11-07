@@ -1,6 +1,6 @@
 # Hooker
 
-Hooker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
+Hooker is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Glamorama, Melbourne on Sat, 7 Nov 2026.
 
 Hooker is a house and techno artist based in Australia, with 22 gigs on soundcheck across Melbourne. Often billed alongside Josh Heywood, Fosters and Love, Jess. Next up: Glamorama, Melbourne on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Hooker is a house and techno artist based in Australia, with 22 gigs on soundche
 
 Josh Heywood, Fosters, Love, Jess
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hooker/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hooker/)*

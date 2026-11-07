@@ -1,14 +1,13 @@
 # Eiger Studios
 
-Eiger Studios is a music venue in Leeds with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Twister x Peppermint w/ Club Cosmos" on Fri, 6 Nov 2026.
+Eiger Studios is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ROGUE PUPPET presents: Decka" on Sat, 7 Nov 2026.
 
-Eiger Studios is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
+Eiger Studios is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including basic chanel, Benny Bysouth, Bobby. and BUTCHABOI and 2 more. See dates, start times and who's playing. Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Twister x Peppermint w/ Club Cosmos | Elliot Holt, Jordan Walker, Richard Gregory, Simon Scott |
 | Sat, 7 Nov 2026 | ROGUE PUPPET presents: Decka | Decka, Kessie, nilehn, quarter ohm |
 | Thu, 12 Nov 2026 | Limousine Dream: Secrets Launch Party [Gene On Earth + Wallace] | Gene On Earth, Wallace |
 | Fri, 13 Nov 2026 | keep going presents: švedka w / mentz krueger, shizIa + durgy | Shizla, švedka |
@@ -18,9 +17,10 @@ Eiger Studios is a music venue in Leeds listed on soundcheck. 13 upcoming gigs, 
 | Fri, 27 Nov 2026 | desire line with mad miran & residents | Constance, Eve Lizard, mad miran |
 | Sat, 28 Nov 2026 | Introducing Voltage | BUTCHABOI, SUBVISIONS |
 | Fri, 4 Dec 2026 | Biodiversity 004 - basic chanel b2b Dj wiggles | Dj wiggles, Joe FM, Joe Shaw, basic chanel |
+| Sat, 5 Dec 2026 | Club Eiger x MUSAR: DMX Krew (live), Dweedo, Oscar (Mitha) & Ruby Ruby | DMX Krew, Dweedo, Oscar (MITHA), Ruby Ruby |
 
 ## Address
 
 Unit 1, Fairfield House, New Craven Gate Industrial Estate, Leeds, LS11 5NF, Leeds
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/eiger-studios/)*

@@ -1,6 +1,6 @@
 # La Porteña y los Piratas
 
-La Porteña y los Piratas is a Latin Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ateneu del Raval, Barcelona on Sat, 7 Nov 2026.
+La Porteña y los Piratas is a Latin Bass and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Ateneu del Raval, Barcelona on Sat, 7 Nov 2026.
 
 La Porteña y los Piratas is a latin bass and hip-hop artist based in Spain, with 12 gigs on soundcheck across Barcelona. Often billed alongside La Portenya DJ. Next up: Ateneu del Raval, Barcelona on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ La Porteña y los Piratas is a latin bass and hip-hop artist based in Spain, wit
 
 La Portenya DJ
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laportenaylospiratas/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laportenaylospiratas/)*

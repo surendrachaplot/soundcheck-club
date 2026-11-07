@@ -1,6 +1,6 @@
 # Sean Innit
 
-Sean Innit is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 16beat.Club, North on Sat, 7 Nov 2026.
+Sean Innit is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at 16beat.Club, North on Sat, 7 Nov 2026.
 
 Sean Innit is a disco and funk / soul artist based in United Kingdom, with 49 gigs on soundcheck across London and North. Often billed alongside Matt Young, Neil Thornton and Ray Juss. Next up: 16beat.Club, North on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Sean Innit is a disco and funk / soul artist based in United Kingdom, with 49 gi
 
 Matt Young, Neil Thornton, Ray Juss
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaninnit/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/seaninnit/)*

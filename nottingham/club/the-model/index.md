@@ -1,14 +1,13 @@
 # The Model
 
-The Model is a music venue in Nottingham with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Cold Brewed Diwali w/ Freshta, harpriya, M75 & Jimmy Rocket" on Fri, 6 Nov 2026.
+The Model is a music venue in Nottingham with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "klub mush w Sol Service" on Sat, 7 Nov 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming gigs, with line-ups including Anna Wall, CONFLICT BUREAU, Detroit In Effect and dj come and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 9 upcoming gigs, with line-ups including Anna Wall, CONFLICT BUREAU, Detroit In Effect and dj come and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Cold Brewed Diwali w/ Freshta, harpriya, M75 & Jimmy Rocket | Freshta, Jimmy Rocket, M75, harpriya |
 | Sat, 7 Nov 2026 | klub mush w Sol Service | Mush Love (UK), dj sneaze |
 | Thu, 12 Nov 2026 | Detroit In Effect | Detroit In Effect |
 | Fri, 13 Nov 2026 | DubFat |  |
@@ -23,4 +22,4 @@ The Model is a music venue in Nottingham listed on soundcheck. 10 upcoming gigs,
 
 23 Goose Gate, Nottingham, NG1 3FE, Nottingham
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-model/)*

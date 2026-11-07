@@ -1,14 +1,13 @@
 # Prysm Nightclub
 
-Prysm Nightclub is a music venue in Chicago with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "LAB TESTS: Red Achinelli & Holts" on Fri, 6 Nov 2026.
+Prysm Nightclub is a music venue in Chicago with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "THE LAB: Janesita, Mr Moore, Kerrsiv, Lazzo" on Sat, 7 Nov 2026.
 
-Prysm Nightclub is a music venue in Chicago listed on soundcheck. 7 upcoming gigs, with line-ups including Enrico Sangiuliano, Iváno Lima, Kapote and Kellie Allen and 2 more. See dates, start times and who's playing. 1543 N Kingsbury St.
+Prysm Nightclub is a music venue in Chicago listed on soundcheck. 6 upcoming gigs, with line-ups including Enrico Sangiuliano, Iváno Lima, Kapote and Natalia Roth and 2 more. See dates, start times and who's playing. 1543 N Kingsbury St.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | LAB TESTS: Red Achinelli & Holts | Kellie Allen |
 | Sat, 7 Nov 2026 | THE LAB: Janesita, Mr Moore, Kerrsiv, Lazzo |  |
 | Sat, 14 Nov 2026 | SERUM: Ragie Ban & Braydon Terzo |  |
 | Fri, 20 Nov 2026 | THE LAB: Natalia Roth | Iváno Lima, Natalia Roth |
@@ -20,4 +19,4 @@ Prysm Nightclub is a music venue in Chicago listed on soundcheck. 7 upcoming gig
 
 1543 N Kingsbury St, Chicago
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/prysm-nightclub/)*

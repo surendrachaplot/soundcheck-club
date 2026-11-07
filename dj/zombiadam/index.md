@@ -1,6 +1,6 @@
 # Zombi Adam
 
-Zombi Adam is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Madame X, New York City on Thu, 12 Nov 2026.
+Zombi Adam is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Madame X, New York City on Thu, 12 Nov 2026.
 
 Zombi Adam is a techno and psytrance artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Chillosophy, baby-g and ACIDMOM. Next up: Madame X, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Zombi Adam is a techno and psytrance artist based in United States of America, w
 
 Chillosophy, baby-g, ACIDMOM
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiadam/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zombiadam/)*

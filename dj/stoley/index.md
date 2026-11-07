@@ -1,6 +1,6 @@
 # Stoley
 
-Stoley is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Wurstküche Restaurant Venice Beach, Los Angeles on Sat, 14 Nov 2026.
+Stoley is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Wurstküche Restaurant Venice Beach, Los Angeles on Sat, 14 Nov 2026.
 
 Stoley is a house and tech house artist based in United States of America, with 22 gigs on soundcheck across Los Angeles, Miami, New York City and San Diego and 1 more. Often billed alongside Kaveh, Sosh & Mosh and FISHER. Next up: Wurstküche Restaurant Venice Beach, Los Angeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Stoley is a house and tech house artist based in United States of America, with 
 
 Kaveh, Sosh & Mosh, FISHER
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stoley/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stoley/)*

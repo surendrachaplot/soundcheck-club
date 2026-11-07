@@ -1,6 +1,6 @@
 # Xenia
 
-Xenia is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Hakkabar 院吧, Chengdu on Sat, 7 Nov 2026.
+Xenia is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Hakkabar 院吧, Chengdu on Sat, 7 Nov 2026.
 
 Xenia is a techno and trance artist based in Ukraine, with 62 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 29 more. Often billed alongside Don Woezik, KARAH and Parsa Jafari. Next up: Hakkabar 院吧, Chengdu on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Xenia is a techno and trance artist based in Ukraine, with 62 gigs on soundcheck
 
 Don Woezik, KARAH, Parsa Jafari
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xenia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xenia/)*

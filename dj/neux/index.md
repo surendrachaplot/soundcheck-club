@@ -1,14 +1,13 @@
 # NEUX
 
-NEUX is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at RASA, Singapore on Fri, 6 Nov 2026.
+NEUX is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 14 Nov 2026.
 
-NEUX is a techno and tech house artist based in Georgia, with 94 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 27 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: RASA, Singapore on Fri 6 Nov.
+NEUX is a techno and tech house artist based in Georgia, with 94 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 27 more. Often billed alongside Ben Klock, Sevda and Vulkanski. Next up: Tresor / Globus, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | RASA | Singapore |
 | Sat, 14 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 21 Nov 2026 | BASEMENT | New York City |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
@@ -16,6 +15,7 @@ NEUX is a techno and tech house artist based in Georgia, with 94 gigs on soundch
 
 ## Recently played
 
+- RASA, Singapore · Fri, 6 Nov 2026
 - Pawnshop, Taipei · Sat, 31 Oct 2026
 - POTENT, Shanghai · Fri, 30 Oct 2026
 - Patronaat, Netherlands · Sat, 10 Oct 2026
@@ -23,10 +23,9 @@ NEUX is a techno and tech house artist based in Georgia, with 94 gigs on soundch
 - TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin · Sat, 26 Sept 2026
 - E1, London · Sat, 19 Sept 2026
 - KHIDI, Tbilisi · Fri, 11 Sept 2026
-- Mia Mao, Paris · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Ben Klock, Sevda, Vulkanski
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/neux/)*

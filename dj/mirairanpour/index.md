@@ -1,6 +1,6 @@
 # Mira Iranpour
 
-Mira Iranpour is a EBM and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at House of Q, Stockholm on Sat, 7 Nov 2026.
+Mira Iranpour is a EBM and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at House of Q, Stockholm on Sat, 7 Nov 2026.
 
 Mira Iranpour is an ebm and trance artist based in Iran, with 9 gigs on soundcheck across Berlin, Gothenburg and Stockholm. Often billed alongside Marcus Christiansen. Next up: House of Q, Stockholm on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mira Iranpour is an ebm and trance artist based in Iran, with 9 gigs on soundche
 
 Marcus Christiansen
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirairanpour/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mirairanpour/)*

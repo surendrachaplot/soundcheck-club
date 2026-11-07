@@ -1,6 +1,6 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "The Tumblr. Party" on Fri, 6 Nov 2026.
+Market Hotel is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "The Tumblr. Party" on Fri, 6 Nov 2026.
 
 Market Hotel is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including 7038634357 and Chloe Scarlett. See dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
@@ -18,4 +18,4 @@ Market Hotel is a music venue in New York City listed on soundcheck. 5 upcoming 
 
 1140 Myrtle Avenue; Brooklyn, NY 11206; United States, New York City
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/market-hotel/)*

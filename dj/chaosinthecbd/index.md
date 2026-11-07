@@ -1,14 +1,13 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Djoon, Paris on Fri, 6 Nov 2026.
+Chaos In The CBD is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lofi, Amsterdam on Sat, 7 Nov 2026.
 
-Chaos In The CBD is a house and techno artist based in New Zealand, with 230 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 67 more. Often billed alongside Sally C, Ben UFO and Seth Troxler. Next up: Djoon, Paris on Fri 6 Nov.
+Chaos In The CBD is a house and techno artist based in New Zealand, with 230 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 67 more. Often billed alongside Sally C, Ben UFO and Seth Troxler. Next up: Lofi, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Djoon | Paris |
 | Sat, 7 Nov 2026 | Lofi | Amsterdam |
 | Sat, 14 Nov 2026 | FOLD | London |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
@@ -19,6 +18,7 @@ Chaos In The CBD is a house and techno artist based in New Zealand, with 230 gig
 
 ## Recently played
 
+- Djoon, Paris · Fri, 6 Nov 2026
 - Mojo, Hamburg · Sat, 31 Oct 2026
 - Kapsule, Liverpool · Sat, 24 Oct 2026
 - The Trinity Centre, Bristol · Fri, 23 Oct 2026
@@ -26,10 +26,9 @@ Chaos In The CBD is a house and techno artist based in New Zealand, with 230 gig
 - UMI, Brussels · Sat, 3 Oct 2026
 - 528 Ibiza, Ibiza · Tue, 29 Sept 2026
 - smartbar, Chicago · Sun, 6 Sept 2026
-- Union Park, Chicago · Fri, 4 Sept 2026
 
 ## Shares bills with
 
 Sally C, Ben UFO, Seth Troxler
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chaosinthecbd/)*

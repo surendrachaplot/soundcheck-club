@@ -1,6 +1,6 @@
 # anxxxious_t
 
-anxxxious_t is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Vienna on Sat, 7 Nov 2026.
+anxxxious_t is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Vienna on Sat, 7 Nov 2026.
 
 anxxxious_t is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Hamburg, Prague and Vienna. Often billed alongside Yves, zey and DJ WKStA. Next up: TBA, Vienna on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ anxxxious_t is a techno and house artist based in Germany, with 31 gigs on sound
 
 Yves (2), zey, DJ WKStA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anxxxious_t/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anxxxious_t/)*

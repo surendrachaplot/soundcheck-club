@@ -1,6 +1,6 @@
 # TS Kahuna
 
-TS Kahuna is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
+TS Kahuna is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Renate, Berlin on Sat, 28 Nov 2026.
 
 TS Kahuna is a techno and minimal artist based in Italy, with 29 gigs on soundcheck across Berlin, Copenhagen, Mexico City and Milan and 2 more. Often billed alongside DJ JM, Studio Natura and Thodén. Next up: Renate, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ TS Kahuna is a techno and minimal artist based in Italy, with 29 gigs on soundch
 
 DJ JM, Studio Natura, Thodén
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tskahuna/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tskahuna/)*

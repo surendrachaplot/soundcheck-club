@@ -1,14 +1,13 @@
 # M-BIA
 
-M-BIA is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORGE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16" on Fri, 6 Nov 2026.
+M-BIA is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "GOA MAGIC Special pres Reverence" on Sat, 7 Nov 2026.
 
-M-BIA is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including BrettHit, Daora, DELTA LABS and INTOX and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
+M-BIA is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including BrettHit, Daora, DELTA LABS and INTOX and 2 more. See dates, start times and who's playing. Dircksenstr. 123, 10178 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | 9Y TEKKNOLOGIE  • D-FENCE • FABITEKK • BEATFORGE • WOLLI • EYCER • KOKSBERG • PHIEISI • SNAKE16 | Sei A, TEKKO, Techno Frühstück, Tekk, Tekk DJ'z, Tekk Nikk, Tekknik |
 | Sat, 7 Nov 2026 | GOA MAGIC Special pres Reverence | Daora, John Kotti, Lewii (2), Støffwechsel |
 | Fri, 13 Nov 2026 | One Night with Greb Levah & Bassmassage |  |
 | Sat, 14 Nov 2026 | Inception with Luminatix | DELTA LABS, Momentune |
@@ -23,4 +22,4 @@ M-BIA is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with li
 
 Dircksenstr. 123, 10178 Berlin, Berlin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/m-bia/)*

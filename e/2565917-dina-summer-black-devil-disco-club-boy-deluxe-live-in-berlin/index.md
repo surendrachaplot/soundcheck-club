@@ -1,6 +1,6 @@
 # Dina Summer / Black Devil Disco Club / Boy Deluxe LIVE in Berlin at Hole44
 
-Dina Summer / Black Devil Disco Club / Boy Deluxe LIVE in Berlin at Hole44 on Fri 5 Feb, Berlin. 2 artists: Black Devil Disco Club and Dina Summer. See the line-up on soundcheck.
+Dina Summer / Black Devil Disco Club / Boy Deluxe LIVE in Berlin at Hole44 on Fri 5 Feb, Berlin. 2 artists: Black Devil Disco Club and Dina Summer. EBM and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

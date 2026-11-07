@@ -1,6 +1,6 @@
 # LUPA (2)
 
-LUPA (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ://about blank, Berlin on Sat, 19 Dec 2026.
+LUPA (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at ://about blank, Berlin on Sat, 19 Dec 2026.
 
 LUPA is a trance and techno artist, with 8 gigs on soundcheck across Berlin and Munich. Often billed alongside Limoncello, Charleen Herzig and alemiko. Next up: ://about blank, Berlin on Sat 19 Dec.
 
@@ -24,4 +24,4 @@ LUPA is a trance and techno artist, with 8 gigs on soundcheck across Berlin and 
 
 Limoncello, Charleen Herzig, alemiko
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lupa-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lupa-2/)*

@@ -1,6 +1,6 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Refuge, New York City on Fri, 6 Nov 2026.
+Joss Dean is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Refuge, New York City on Fri, 6 Nov 2026.
 
 Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Refuge, New York City on Fri 6 Nov.
 
@@ -19,6 +19,7 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs
 
 ## Recently played
 
+- Refuge, New York City · Fri, 6 Nov 2026
 - Spybar, Chicago · Fri, 30 Oct 2026
 - Taets Art and Event Park, Netherlands · Fri, 23 Oct 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
@@ -26,10 +27,9 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs
 - Amnesia Ibiza, Ibiza · Mon, 5 Oct 2026
 - DRUMSHEDS, London · Sat, 3 Oct 2026
 - Electric Studios, Sheffield · Fri, 2 Oct 2026
-- Mint Warehouse, Leeds · Mon, 21 Sept 2026
 
 ## Shares bills with
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

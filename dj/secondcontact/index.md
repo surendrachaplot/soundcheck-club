@@ -1,6 +1,6 @@
 # Second Contact
 
-Second Contact is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Open Air Club, New York City on Sat, 7 Nov 2026.
+Second Contact is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Open Air Club, New York City on Sat, 7 Nov 2026.
 
 Second Contact is a house and techno artist based in United States of America, with 63 gigs on soundcheck across Berlin, Düsseldorf, Helsinki and Mexico City and 4 more. Often billed alongside Amelia Holt, 98dots and Elena Colombi. Next up: Open Air Club, New York City on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Second Contact is a house and techno artist based in United States of America, w
 
 Amelia Holt, 98dots, Elena Colombi
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcontact/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/secondcontact/)*

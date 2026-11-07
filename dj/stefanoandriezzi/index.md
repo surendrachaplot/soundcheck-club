@@ -1,6 +1,6 @@
 # Stefano Andriezzi
 
-Stefano Andriezzi is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Babour Sauvage, Paris on Sat, 7 Nov 2026.
+Stefano Andriezzi is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Babour Sauvage, Paris on Sat, 7 Nov 2026.
 
 Stefano Andriezzi is an electro and house artist based in Venezuela, with 60 gigs on soundcheck across Barcelona, Brussels, Buenos Aires and Cologne and 8 more. Often billed alongside Sampol, Brieela and LM. Next up: Babour Sauvage, Paris on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Stefano Andriezzi is an electro and house artist based in Venezuela, with 60 gig
 
 Sampol, Brieela, LM
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanoandriezzi/)*

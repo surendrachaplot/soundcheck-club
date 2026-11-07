@@ -1,6 +1,6 @@
 # Scientist at Fasching at Fasching
 
-Scientist at Fasching on Fri 5 Feb, Stockholm. 1 artist: The Scientist. See the line-up on soundcheck.
+Scientist at Fasching on Fri 5 Feb, Stockholm. 1 artist: The Scientist. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

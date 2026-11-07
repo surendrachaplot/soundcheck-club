@@ -1,6 +1,6 @@
 # The Shapeshifters
 
-The Shapeshifters is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - 11/20 Midnight, Toronto on Fri, 20 Nov 2026.
+The Shapeshifters is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - 11/20 Midnight, Toronto on Fri, 20 Nov 2026.
 
 The Shapeshifters is a house and disco artist based in United Kingdom, with 131 gigs on soundcheck across Adelaide, Amsterdam, Barcelona and Birmingham and 34 more. Often billed alongside Melvo Baptiste, Aline Rocha and Horse Meat Disco. Next up: TBA - 11/20 Midnight, Toronto on Fri 20 Nov.
 
@@ -31,4 +31,4 @@ The Shapeshifters is a house and disco artist based in United Kingdom, with 131 
 
 Melvo Baptiste, Aline Rocha, Horse Meat Disco
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shapeshifters/)*

@@ -1,14 +1,15 @@
 # Lucky Lube
 
-Lucky Lube is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at ÆDEN, Berlin on Sat, 21 Nov 2026.
+Lucky Lube is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ÆDEN, Berlin on Sat, 21 Nov 2026.
 
-Lucky Lube is a house and techno artist based in Denmark, with 93 gigs on soundcheck across Berlin, Brussels, Copenhagen and Dublin and 11 more. Often billed alongside Frederik Tollund, Baltza and Harrison Heat. Next up: ÆDEN, Berlin on Sat 21 Nov.
+Lucky Lube is a house and techno artist based in Denmark, with 94 gigs on soundcheck across Berlin, Brussels, Copenhagen and Dublin and 11 more. Often billed alongside Frederik Tollund, Baltza and Cockwhore & Macho. Next up: ÆDEN, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | ÆDEN | Berlin |
+| Sat, 5 Dec 2026 | Den Anden Side | Copenhagen |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Lucky Lube is a house and techno artist based in Denmark, with 93 gigs on soundc
 
 ## Shares bills with
 
-Frederik Tollund, Baltza, Harrison Heat
+Frederik Tollund, Baltza, Cockwhore & Macho
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylube/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luckylube/)*

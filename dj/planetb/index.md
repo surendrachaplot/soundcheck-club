@@ -1,6 +1,6 @@
 # Planet B
 
-Planet B is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Gabriela, New York City on Fri, 13 Nov 2026.
+Planet B is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Gabriela, New York City on Fri, 13 Nov 2026.
 
 Planet B is a house and disco artist based in United States of America, with 153 gigs on soundcheck across Mexico City, Miami, Montreal and Munich and 7 more. Often billed alongside beewack, Eli Escobar and Toribio. Next up: Gabriela, New York City on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Planet B is a house and disco artist based in United States of America, with 153
 
 beewack, Eli Escobar, Toribio
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planetb/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/planetb/)*

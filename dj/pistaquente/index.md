@@ -1,6 +1,6 @@
 # Pista Quente
 
-Pista Quente is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat, 7 Nov 2026.
+Pista Quente is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat, 7 Nov 2026.
 
 Pista Quente is a house and balearic artist based in Brazil, with 70 gigs on soundcheck across Lisbon, Rio de Janeiro and Sao Paulo. Often billed alongside Akin/Non Exist, Benjamin Sallum and Capetini. Next up: TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Pista Quente is a house and balearic artist based in Brazil, with 70 gigs on sou
 
 Akin/Non Exist, Benjamin Sallum, Capetini
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaquente/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pistaquente/)*

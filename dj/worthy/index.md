@@ -1,6 +1,6 @@
 # Mz Worthy
 
-Mz Worthy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Quartyard, San Diego on Sat, 5 Dec 2026.
+Mz Worthy is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Quartyard, San Diego on Sat, 5 Dec 2026.
 
 Mz Worthy is a house and tech house artist based in United States of America, with 21 gigs on soundcheck across Denver, Los Angeles, Miami and New York City and 2 more. Often billed alongside Ardalan, Baby Weight and n808. Next up: Quartyard, San Diego on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Mz Worthy is a house and tech house artist based in United States of America, wi
 
 Ardalan, Baby Weight, n808
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worthy/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/worthy/)*

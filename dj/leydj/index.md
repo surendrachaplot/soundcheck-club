@@ -1,8 +1,8 @@
 # Ley DJ
 
-Ley DJ is a electronic artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Macarena Club, Barcelona on Sat, 12 Dec 2026.
+Ley DJ is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Macarena Club, Barcelona on Sat, 12 Dec 2026.
 
-Ley DJ is an electronic artist, with 8 gigs on soundcheck across Barcelona. Often billed alongside Bojak, Budino and Confidence Man. Next up: Macarena Club, Barcelona on Sat 12 Dec.
+Ley DJ is an electronic artist based in Spain, with 8 gigs on soundcheck across Barcelona. Often billed alongside Bojak, Budino and Confidence Man. Next up: Macarena Club, Barcelona on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -24,4 +24,4 @@ Ley DJ is an electronic artist, with 8 gigs on soundcheck across Barcelona. Ofte
 
 Bojak, Budino, Confidence Man
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leydj/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leydj/)*

@@ -1,14 +1,13 @@
 # Club 1
 
-Club 1 is a music venue in Santiago with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "06 de Noviembre en CLUB 1: Anavel - Das Es - Gravüz" on Fri, 6 Nov 2026.
+Club 1 is a music venue in Santiago with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "07 de Noviembre en CLUB 1: Carrot Vega - Ismael Quezada - Valløk" on Sat, 7 Nov 2026.
 
-Club 1 is a music venue in Santiago listed on soundcheck. 10 upcoming gigs, with line-ups including Andrea Riffo, Der Nautilus, FRVNCCSCV and NPLNSSS and 2 more. See dates, start times and who's playing. Bombero Nuñez 1. Recoleta..
+Club 1 is a music venue in Santiago listed on soundcheck. 9 upcoming gigs, with line-ups including Andrea Riffo, Der Nautilus, FRVNCCSCV and NPLNSSS and 2 more. See dates, start times and who's playing. Bombero Nuñez 1. Recoleta..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | 06 de Noviembre en CLUB 1: Anavel - Das Es - Gravüz |  |
 | Sat, 7 Nov 2026 | 07 de Noviembre en CLUB 1: Carrot Vega - Ismael Quezada - Valløk |  |
 | Thu, 12 Nov 2026 | 12 de Noviembre en CLUB 1: Der Nautilus - Le Mort | Der Nautilus (2) |
 | Fri, 13 Nov 2026 | 13 de Noviembre en CLUB 1: Cote Costa - NSPERGER - Welkom | NSPERGER |
@@ -23,4 +22,4 @@ Club 1 is a music venue in Santiago listed on soundcheck. 10 upcoming gigs, with
 
 Bombero Nuñez 1. Recoleta., Santiago
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/club-1/)*

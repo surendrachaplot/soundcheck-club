@@ -1,14 +1,13 @@
 # Vico Deep
 
-Vico Deep is a Progressive House and Techno artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Barco Sound House, Madrid on Fri, 6 Nov 2026.
+Vico Deep is a Progressive House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - SECRET LOCATION - LA FINCA, Madrid on Sat, 7 Nov 2026.
 
-Vico Deep is a progressive house and techno artist based in Spain, with 66 gigs on soundcheck across Lisbon and Madrid. Often billed alongside Unai García, ALEX FÖX and Javi Garza. Next up: Barco Sound House, Madrid on Fri 6 Nov.
+Vico Deep is a progressive house and techno artist based in Spain, with 66 gigs on soundcheck across Lisbon and Madrid. Often billed alongside Unai García, ALEX FÖX and Javi Garza. Next up: TBA - SECRET LOCATION - LA FINCA, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Barco Sound House | Madrid |
 | Sat, 7 Nov 2026 | TBA - SECRET LOCATION - LA FINCA | Madrid |
 | Sat, 14 Nov 2026 | Under Bridge Madrid | Madrid |
 | Fri, 20 Nov 2026 | X Private Club | Madrid |
@@ -16,6 +15,7 @@ Vico Deep is a progressive house and techno artist based in Spain, with 66 gigs 
 
 ## Recently played
 
+- Barco Sound House, Madrid · Fri, 6 Nov 2026
 - X Private Club, Madrid · Fri, 30 Oct 2026
 - EL SÓTANO, Madrid · Fri, 23 Oct 2026
 - X Private Club, Madrid · Sat, 10 Oct 2026
@@ -23,10 +23,9 @@ Vico Deep is a progressive house and techno artist based in Spain, with 66 gigs 
 - Rastro Live Studio, Madrid · Sat, 26 Sept 2026
 - X Private Club, Madrid · Fri, 18 Sept 2026
 - EL SÓTANO, Madrid · Fri, 21 Aug 2026
-- X Private Club, Madrid · Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Unai García, ALEX FÖX, Javi Garza
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicodeep/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vicodeep/)*

@@ -1,6 +1,6 @@
 # Tau Car
 
-Tau Car is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+Tau Car is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
 
 Tau Car is a house and techno artist based in France, with 124 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 34 more. Often billed alongside International Mac, Konstantin and Edward. Next up: FVTVR, Paris on Fri 6 Nov.
 
@@ -14,6 +14,7 @@ Tau Car is a house and techno artist based in France, with 124 gigs on soundchec
 
 ## Recently played
 
+- FVTVR, Paris · Fri, 6 Nov 2026
 - TBA - Downtown Los Angeles, Los Angeles · Sat, 31 Oct 2026
 - Klaproos, Amsterdam · Sun, 25 Oct 2026
 - Radio Pirate, Paris · Sat, 3 Oct 2026
@@ -21,10 +22,9 @@ Tau Car is a house and techno artist based in France, with 124 gigs on soundchec
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 4 Sept 2026
 - Zur Insel, Frankfurt · Sat, 8 Aug 2026
 - Club der Visionaere, Berlin · Sun, 2 Aug 2026
-- TBA - Secret Location, London · Fri, 17 Jul 2026
 
 ## Shares bills with
 
 International Mac, Konstantin, Edward
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucar/)*

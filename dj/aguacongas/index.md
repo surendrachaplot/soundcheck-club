@@ -1,6 +1,6 @@
 # Agua con gas
 
-Agua con gas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Left Bank, Tbilisi on Sat, 7 Nov 2026.
+Agua con gas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Left Bank, Tbilisi on Sat, 7 Nov 2026.
 
 Agua con gas is a house and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Buenos Aires, Cape Town and Tbilisi. Often billed alongside SENERGI, Aaron Blau and CHRANDY. Next up: Left Bank, Tbilisi on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Agua con gas is a house and techno artist based in Germany, with 26 gigs on soun
 
 SENERGI, Aaron Blau, CHRANDY
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aguacongas/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aguacongas/)*

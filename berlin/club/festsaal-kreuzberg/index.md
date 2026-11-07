@@ -1,6 +1,6 @@
 # Festsaal Kreuzberg
 
-Festsaal Kreuzberg is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "20 Years F-Cat Festival" on Sat, 14 Nov 2026.
+Festsaal Kreuzberg is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "20 Years F-Cat Festival" on Sat, 14 Nov 2026.
 
 Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Jersey and Kraak & Smaak. See dates, start times and who's playing. Am Flutgraben 2, 12435 Berlin.
 
@@ -15,4 +15,4 @@ Festsaal Kreuzberg is a music venue in Berlin listed on soundcheck. 2 upcoming g
 
 Am Flutgraben 2, 12435 Berlin, Berlin
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/festsaal-kreuzberg/)*

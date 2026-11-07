@@ -1,6 +1,6 @@
 # Tender
 
-Tender is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SunooM" on Sat, 7 Nov 2026.
+Tender is a music venue in Melbourne with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "SunooM" on Sat, 7 Nov 2026.
 
 Tender is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Albrecht, Art (AU), Lawrence and Martinou and 1 more. See dates, start times and who's playing. 535 Sydney Road.
 
@@ -16,4 +16,4 @@ Tender is a music venue in Melbourne listed on soundcheck. 3 upcoming gigs, with
 
 535 Sydney Road, Melbourne
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/tender/)*

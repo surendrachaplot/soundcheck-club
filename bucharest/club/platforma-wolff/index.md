@@ -1,14 +1,13 @@
 # Platforma Wolff
 
-Platforma Wolff is a music venue in Bucharest with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "PW Club Season • DJ Fart in the Club, Twodoor, Jokey" on Fri, 6 Nov 2026.
+Platforma Wolff is a music venue in Bucharest with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "PW x DeDans • Mareena, Cosmin TRG" on Sat, 7 Nov 2026.
 
-Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming gigs, with line-ups including Arnic, Barbu, Cosmin TRG and Detroit In Effect and 2 more. See dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
+Platforma Wolff is a music venue in Bucharest listed on soundcheck. 7 upcoming gigs, with line-ups including Arnic, Barbu, Cosmin TRG and Detroit In Effect and 2 more. See dates, start times and who's playing. 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | PW Club Season • DJ Fart in the Club, Twodoor, Jokey | DJ Fart in the Club, Twodoor |
 | Sat, 7 Nov 2026 | PW x DeDans • Mareena, Cosmin TRG | Cosmin TRG, Mareena |
 | Fri, 13 Nov 2026 | PW x Flipside • Stipo, SunnySun, Barbu | Barbu, Stipo, SunnySun |
 | Sat, 14 Nov 2026 | PW Club Season • Harry McCanna, Koler, Paul Popa | Harry McCanna, Paul Popa |
@@ -21,4 +20,4 @@ Platforma Wolff is a music venue in Bucharest listed on soundcheck. 8 upcoming g
 
 1, Doctor Constantin Istrati Street, Sector 4, 040542, Bucharest, Bucharest
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/platforma-wolff/)*

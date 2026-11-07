@@ -1,6 +1,6 @@
 # Christopher Tubbs
 
-Christopher Tubbs is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Christopher Tubbs is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Christopher Tubbs is a disco and house artist based in United Kingdom, with 9 gigs on soundcheck across Auckland, Christchurch and Melbourne. Often billed alongside Eden Burns, Bella Claxton and Fletchy Boy. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Christopher Tubbs is a disco and house artist based in United Kingdom, with 9 gi
 
 Eden Burns, Bella Claxton, Fletchy Boy
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christophertubbs/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/christophertubbs/)*

@@ -1,6 +1,6 @@
 # Fuchs2
 
-Fuchs2 is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "TECHNO ALLIANCE: FJAAK ☆ Nina Farrina ☆ Midirama" on Fri, 6 Nov 2026.
+Fuchs2 is a music venue in Prague with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Rave Generation | Fuchs2+ - Bike Jesus - Techno Agency" on Sat, 7 Nov 2026.
 
 Fuchs2 is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with line-ups including 2NDRA, AddlyMuff, Asher and DDK and 2 more. See dates, start times and who's playing. Štvanice, 17000 Prague.
 
@@ -8,7 +8,6 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TECHNO ALLIANCE: FJAAK ☆ Nina Farrina ☆ Midirama | FJAAK, Midirama, Nina Farrina |
 | Sat, 7 Nov 2026 | Rave Generation / Fuchs2+ - Bike Jesus - Techno Agency | DjEgo, GRVYWRLD, KJAER, Kerrie, Lucas Hulan, Mirka, Paul Krist, Philip Ackowsky, Raul Young, Rudeboy |
 | Thu, 12 Nov 2026 | SALO: Lovačka Srca Takeover | VLZQUES |
 | Fri, 13 Nov 2026 | TECHNO ALLIANCE: Kike Pravda ☆ Marie Pravda ☆ DDK ☆ Miss Univers ☆ TerminusTechnikus | DDK (1), Kike Pravda, Marie Pravda, Miss Univers, TerminusTechnikus |
@@ -18,9 +17,10 @@ Fuchs2 is a music venue in Prague listed on soundcheck. 13 upcoming gigs, with l
 | Fri, 20 Nov 2026 | HIGH SPEED FAIRYTALES: LIIA ☆ Theya ☆ DJ KING KOBRA ☆ tmk | DJ KING KOBRA, Theya, tmk (CZ) |
 | Sat, 21 Nov 2026 | Family Therapy 4 | Asher, parashoot |
 | Thu, 26 Nov 2026 | LATIN CORE THURSDAYS: Addly Muff ☆ Gatita Tribalera ☆ Swine Daily | AddlyMuff, VLZQUES, weimar |
+| Fri, 27 Nov 2026 | WRONG 10 YEARS with Prison Religion, Wick, Zaffer 9 | ESTER., Prison Religion, tmk (CZ) |
 
 ## Address
 
 Štvanice, 17000 Prague, Prague
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/fuchs2/)*

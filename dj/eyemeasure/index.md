@@ -1,6 +1,6 @@
 # Eye Measure
 
-Eye Measure is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Sucre, Lyon on Fri, 6 Nov 2026.
+Eye Measure is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Le Sucre, Lyon on Fri, 6 Nov 2026.
 
 Eye Measure is an experimental and techno artist, with 13 gigs on soundcheck across Bristol, Leeds, London and Lyon and 2 more. Often billed alongside Yaxu, Damu and Rian Treanor. Next up: Le Sucre, Lyon on Fri 6 Nov.
 
@@ -12,6 +12,7 @@ Eye Measure is an experimental and techno artist, with 13 gigs on soundcheck acr
 
 ## Recently played
 
+- Le Sucre, Lyon · Fri, 6 Nov 2026
 - Howard Assembly Room, Leeds · Fri, 11 Sept 2026
 - Sidney & Matilda, Sheffield · Thu, 30 Jul 2026
 - Walthamstow Trades Hall, London · Fri, 3 Jul 2026
@@ -19,10 +20,9 @@ Eye Measure is an experimental and techno artist, with 13 gigs on soundcheck acr
 - N/OM, Manchester · Sat, 7 Jun 2025
 - Hope Works, Sheffield · Fri, 11 Oct 2024
 - Corsica Studios, London · Wed, 26 Jun 2024
-- Hope Works, Sheffield · Fri, 20 Oct 2023
 
 ## Shares bills with
 
 Yaxu, Damu, Rian Treanor
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemeasure/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eyemeasure/)*

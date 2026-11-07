@@ -1,6 +1,6 @@
 # Desa Kitsune
 
-Desa Kitsune is a music venue in Bali with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Baron" on Tue, 10 Nov 2026.
+Desa Kitsune is a music venue in Bali with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Baron" on Tue, 10 Nov 2026.
 
 Desa Kitsune is a music venue in Bali listed on soundcheck. 9 upcoming gigs, with line-ups including AMÉMÉ, Baron, Benja and Carl Cox and 2 more. See dates, start times and who's playing.
 
@@ -18,4 +18,4 @@ Desa Kitsune is a music venue in Bali listed on soundcheck. 9 upcoming gigs, wit
 | Tue, 8 Dec 2026 | AMÉMÉ | AMÉMÉ |
 | Tue, 5 Jan 2027 | Carl Cox | Carl Cox |
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/desa-kitsune/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/desa-kitsune/)*

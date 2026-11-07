@@ -1,14 +1,13 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Schlachthof Wiesbaden, Frankfurt on Fri, 6 Nov 2026.
+DJ DRECKISCH is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Nordstern, Basel on Sat, 7 Nov 2026.
 
-DJ DRECKISCH is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Kacy, 3LEEZA and DJ Achim Feuervogel. Next up: Schlachthof Wiesbaden, Frankfurt on Fri 6 Nov.
+DJ DRECKISCH is a techno and trance artist based in Germany, with 101 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside Kacy, 3LEEZA and DJ Achim Feuervogel. Next up: Nordstern, Basel on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Schlachthof Wiesbaden | Frankfurt |
 | Sat, 7 Nov 2026 | Nordstern | Basel |
 | Sat, 14 Nov 2026 | Zinkbad Eventhalle | Zurich |
 | Fri, 4 Dec 2026 | Lokschuppen Berlin | Berlin |
@@ -22,6 +21,7 @@ DJ DRECKISCH is a techno and trance artist based in Germany, with 101 gigs on so
 
 ## Recently played
 
+- Schlachthof Wiesbaden, Frankfurt · Fri, 6 Nov 2026
 - Das Zimmer, Mannheim · Fri, 30 Oct 2026
 - Toekomstmuziek, Amsterdam · Sat, 24 Oct 2026
 - Edelfettwerk, Hamburg · Fri, 9 Oct 2026
@@ -29,10 +29,9 @@ DJ DRECKISCH is a techno and trance artist based in Germany, with 101 gigs on so
 - Bootshaus, Cologne · Sat, 26 Sept 2026
 - Z-Bau, Nürnberg · Sat, 5 Sept 2026
 - Sommerbad Neukölln, Berlin · Sun, 30 Aug 2026
-- Schlachthof Wiesbaden, Frankfurt · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Kacy, 3LEEZA, DJ Achim Feuervogel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdreckisch/)*

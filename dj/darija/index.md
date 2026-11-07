@@ -1,6 +1,6 @@
 # Darija
 
-Darija is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kult, Belgrade on Sat, 7 Nov 2026.
+Darija is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kult, Belgrade on Sat, 7 Nov 2026.
 
 Darija is a house and techno artist based in Serbia, with 8 gigs on soundcheck across Belgrade. Often billed alongside KACANSKY, dundzava and 011bpm. Next up: Kult, Belgrade on Sat 7 Nov.
 
@@ -24,4 +24,4 @@ Darija is a house and techno artist based in Serbia, with 8 gigs on soundcheck a
 
 KACANSKY, dundzava, 011bpm
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darija/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/darija/)*

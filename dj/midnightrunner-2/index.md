@@ -1,6 +1,6 @@
 # Midnight Runner (2)
 
-Midnight Runner (2) is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Midnight Runner (2) is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
 Midnight Runner is a drum & bass and bass artist based in Japan, with 20 gigs on soundcheck across London, Seoul, Taiwan and Tokyo. Often billed alongside maidable, snobo and Dayzero. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Midnight Runner is a drum & bass and bass artist based in Japan, with 20 gigs on
 
 maidable, snobo (2), Dayzero
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightrunner-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/midnightrunner-2/)*

@@ -1,6 +1,6 @@
 # Millos Kaiser
 
-Millos Kaiser is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat, 7 Nov 2026.
+Millos Kaiser is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat, 7 Nov 2026.
 
 Millos Kaiser is a house and balearic artist based in Brazil, with 100 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Edinburgh and 14 more. Often billed alongside Craig Ouar, Giu Nunez and Mendel. Next up: TBA - CLUBE - Av. Consolação, 1813 - Consolação/ SP, Sao Paulo on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Millos Kaiser is a house and balearic artist based in Brazil, with 100 gigs on s
 
 Craig Ouar, Giu Nunez, Mendel
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milloskaiser/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/milloskaiser/)*

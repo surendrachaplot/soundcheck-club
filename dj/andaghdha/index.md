@@ -1,6 +1,6 @@
 # An Daghdha
 
-An Daghdha is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Pav, Cork on Sat, 7 Nov 2026.
+An Daghdha is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Pav, Cork on Sat, 7 Nov 2026.
 
 An Daghdha is a techno and tech house artist based in Brazil, with 13 gigs on soundcheck across Cork. Often billed alongside CHACHØU, AMR and Franco Cepulo. Next up: The Pav, Cork on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ An Daghdha is a techno and tech house artist based in Brazil, with 13 gigs on so
 
 CHACHØU, AMR, Franco Cepulo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andaghdha/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andaghdha/)*

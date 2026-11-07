@@ -1,6 +1,6 @@
 # Schwofdrossel
 
-Schwofdrossel is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
+Schwofdrossel is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Goldener Salon, Hamburg on Sun, 15 Nov 2026.
 
 Schwofdrossel is a downtempo and techno artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Copenhagen and 3 more. Often billed alongside Anders HP, Baime and Bomchello. Next up: Goldener Salon, Hamburg on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Schwofdrossel is a downtempo and techno artist based in Germany, with 22 gigs on
 
 Anders HP, Baime, Bomchello
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwofdrossel/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwofdrossel/)*

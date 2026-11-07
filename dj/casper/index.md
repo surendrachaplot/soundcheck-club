@@ -1,6 +1,6 @@
 # Casper
 
-Casper is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TRAUM, Antwerp on Sat, 7 Nov 2026.
+Casper is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TRAUM, Antwerp on Sat, 7 Nov 2026.
 
 Casper is a techno and house artist, with 38 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 5 more. Often billed alongside Shoplifter, Mankiyan and PALA10. Next up: TRAUM, Antwerp on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Casper is a techno and house artist, with 38 gigs on soundcheck across Amsterdam
 
 Shoplifter, Mankiyan, PALA10
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casper/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/casper/)*

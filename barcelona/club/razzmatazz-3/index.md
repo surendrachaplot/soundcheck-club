@@ -1,6 +1,6 @@
 # Razzmatazz 3
 
-Razzmatazz 3 is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Jafunk en microdosis - Razzmatazz 3, Barcelona" on Wed, 11 Nov 2026.
+Razzmatazz 3 is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Svaneborg Kardyb en microdosis - Razzmatazz 3, Barcelona" on Tue, 17 Nov 2026.
 
 Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Jafunk. See dates, start times and who's playing. Calle Pamplona 88 Barcelona.
 
@@ -8,11 +8,11 @@ Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 11 Nov 2026 | Jafunk en microdosis - Razzmatazz 3, Barcelona | Jafunk |
 | Tue, 17 Nov 2026 | Svaneborg Kardyb en microdosis - Razzmatazz 3, Barcelona |  |
+| Thu, 4 Feb 2027 | Jafunk en microdosis - Razzmatazz 3, Barcelona | Jafunk |
 
 ## Address
 
 Calle Pamplona 88 Barcelona, Barcelona
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz-3/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/razzmatazz-3/)*

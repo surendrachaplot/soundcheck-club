@@ -1,6 +1,6 @@
 # Kani
 
-Kani is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Péniche Loupika, Lyon on Sat, 14 Nov 2026.
+Kani is a Jungle and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Péniche Loupika, Lyon on Sat, 14 Nov 2026.
 
 Kani is a jungle and garage artist based in United Kingdom, with 16 gigs on soundcheck across London, Lyon, Manchester and Paris. Often billed alongside Tom Oakley, DJ Oscillate and Crookes. Next up: Péniche Loupika, Lyon on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Kani is a jungle and garage artist based in United Kingdom, with 16 gigs on soun
 
 Tom Oakley, DJ Oscillate, Crookes
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kani/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kani/)*

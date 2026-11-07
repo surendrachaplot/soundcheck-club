@@ -1,6 +1,6 @@
 # Paul Lution
 
-Paul Lution is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
+Paul Lution is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Last Arch, London on Fri, 13 Nov 2026.
 
 Paul Lution is a techno and house artist based in Italy, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bologna and 12 more. Often billed alongside Munir Nadir, OTIS and Alex Dima. Next up: Last Arch, London on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Paul Lution is a techno and house artist based in Italy, with 45 gigs on soundch
 
 Munir Nadir, OTIS (3), Alex Dima
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paullution/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paullution/)*

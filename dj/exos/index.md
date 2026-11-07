@@ -1,6 +1,6 @@
 # Exos
 
-Exos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Gdynia, Gdansk on Fri, 13 Nov 2026.
+Exos is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Gdynia, Gdansk on Fri, 13 Nov 2026.
 
 Exos is a techno and house artist based in Iceland, with 81 gigs on soundcheck across Athens, Austin, Bali and Bangkok and 40 more. Often billed alongside SHDW, Disguised and BLACK ANTHEM RESTORE. Next up: TBA - Gdynia, Gdansk on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Exos is a techno and house artist based in Iceland, with 81 gigs on soundcheck a
 
 SHDW, Disguised, BLACK ANTHEM RESTORE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exos/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/exos/)*

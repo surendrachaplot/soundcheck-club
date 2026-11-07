@@ -1,6 +1,6 @@
 # KUWAMAN
 
-KUWAMAN is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 13 Nov 2026.
+KUWAMAN is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 13 Nov 2026.
 
 KUWAMAN is a minimal and house artist based in Japan, with 41 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside YU-MA, Takuto and Kohei. Next up: Teranoma Tidepool, Osaka on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ KUWAMAN is a minimal and house artist based in Japan, with 41 gigs on soundcheck
 
 YU-MA, Takuto, Kohei
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuwaman/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuwaman/)*

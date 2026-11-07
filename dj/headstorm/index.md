@@ -1,6 +1,6 @@
 # Headstorm
 
-Headstorm is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Blue Velvet, Berlin on Sat, 21 Nov 2026.
+Headstorm is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Blue Velvet, Berlin on Sat, 21 Nov 2026.
 
 Headstorm is a techno and trance artist, with 3 gigs on soundcheck across Berlin. Often billed alongside Subtrax, 4NOUK and Armaville. Next up: Blue Velvet, Berlin on Sat 21 Nov.
 
@@ -19,4 +19,4 @@ Headstorm is a techno and trance artist, with 3 gigs on soundcheck across Berlin
 
 Subtrax, 4NOUK, Armaville
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headstorm/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/headstorm/)*

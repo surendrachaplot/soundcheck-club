@@ -1,14 +1,15 @@
 # Emilion Dollar Baby
 
-Emilion Dollar Baby is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Prisma, Berlin on Thu, 19 Nov 2026.
+Emilion Dollar Baby is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Prisma, Berlin on Thu, 19 Nov 2026.
 
-Emilion Dollar Baby is a house and techno artist based in Spain, with 39 gigs on soundcheck across Berlin and London. Often billed alongside Kazuki Takahashi, Yukari and Kalimanda. Next up: Prisma, Berlin on Thu 19 Nov.
+Emilion Dollar Baby is a house and techno artist based in Spain, with 40 gigs on soundcheck across Berlin and London. Often billed alongside Kazuki Takahashi, Yukari and Kalimanda. Next up: Prisma, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Prisma | Berlin |
+| Fri, 20 Nov 2026 | The Door Club | Berlin |
 | Sun, 22 Nov 2026 | Union Club, Vauxhall | London |
 | Sat, 28 Nov 2026 | 45 London | London |
 | Sun, 29 Nov 2026 | Prisma | Berlin |
@@ -28,4 +29,4 @@ Emilion Dollar Baby is a house and techno artist based in Spain, with 39 gigs on
 
 Kazuki Takahashi, Yukari, Kalimanda
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliondollarbaby/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliondollarbaby/)*

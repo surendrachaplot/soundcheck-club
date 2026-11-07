@@ -1,14 +1,13 @@
 # Supermarket
 
-Supermarket is a music venue in Zurich with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Blurry Apple - Ohm Hourani all night long" on Fri, 6 Nov 2026.
+Supermarket is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Camouflage - 12 years together" on Sat, 7 Nov 2026.
 
-Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, with line-ups including 2M, Alci, Aline (CH) and Aron (CH) and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
+Supermarket is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 2M, Alci, Aline (CH) and Aron (CH) and 2 more. See dates, start times and who's playing. Geroldstrasse 17; 8005, Zürich; Switzerland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Blurry Apple - Ohm Hourani all night long | Ohm Hourani |
 | Sat, 7 Nov 2026 | Camouflage - 12 years together | NURI (CH), Sirol, Yarbit |
 | Fri, 13 Nov 2026 | Roxy |  |
 | Sat, 14 Nov 2026 | Grocery | 2M, Alci, Aline (CH), Christian AB, Flavio (CH), Ryan Elliott |
@@ -18,9 +17,10 @@ Supermarket is a music venue in Zurich listed on soundcheck. 12 upcoming gigs, w
 | Thu, 26 Nov 2026 | Planet Voltage | Aron (CH), Bohnenblust |
 | Fri, 27 Nov 2026 | Ruhige | Locklead |
 | Sat, 28 Nov 2026 | 9 Jahre Unique - 24 hours rave | Juzz, Paul K, Petre Inspirescu |
+| Sun, 6 Dec 2026 | Hyper Heidi |  |
 
 ## Address
 
 Geroldstrasse 17; 8005, Zürich; Switzerland, Zurich
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/supermarket/)*

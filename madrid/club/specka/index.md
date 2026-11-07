@@ -1,6 +1,6 @@
 # Specka
 
-Specka is a music venue in Madrid with 17 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Tributo a Rivers'59 I Temática" on Fri, 6 Nov 2026.
+Specka is a music venue in Madrid with 17 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "S[o]lo The Club X Operation I Specka Club" on Sat, 7 Nov 2026.
 
 Specka is a music venue in Madrid listed on soundcheck. 17 upcoming gigs, with line-ups including ananke, Blaark, Cilla (AU) and David Ponziano and 2 more. See dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
@@ -8,7 +8,6 @@ Specka is a music venue in Madrid listed on soundcheck. 17 upcoming gigs, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tributo a Rivers'59 I Temática |  |
 | Sat, 7 Nov 2026 | S[o]lo The Club X Operation I Specka Club | FUNKA04, KRAWL & TRØIDA, nØr3mors3 |
 | Sat, 7 Nov 2026 | SYSTOLIC Showcase 360° Rave #03 - Specka Club Tardes |  |
 | Sun, 8 Nov 2026 | L.Taipán & Alejo L5 I Rap Lord x Blackout I Specka Live |  |
@@ -18,9 +17,10 @@ Specka is a music venue in Madrid listed on soundcheck. 17 upcoming gigs, with l
 | Sun, 15 Nov 2026 | Kwartz & Deep Universe I 100x100 Techno | Blaark, Kwartz, MÄEM |
 | Fri, 20 Nov 2026 | Imox x Casa Pangea I Specka Club | Cilla (AU), Imox, Luci B, Os Irmãos |
 | Sat, 21 Nov 2026 | Mantra Club - Specka Club (Tardes) |  |
+| Sat, 21 Nov 2026 | 50 AÑOS - BASSDRUM I Operation Room | VNSTY |
 
 ## Address
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

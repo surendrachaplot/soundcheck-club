@@ -1,6 +1,6 @@
 # Garrett David
 
-Garrett David is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+Garrett David is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
 
 Garrett David is a house and disco artist based in United States of America, with 216 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 41 more. Often billed alongside Michael Serafini, Derrick Carter and Tomas Station. Next up: The Cause, London on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ Garrett David is a house and disco artist based in United States of America, wit
 
 Michael Serafini, Derrick Carter, Tomas Station
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garrettdavid/)*

@@ -1,6 +1,6 @@
 # Jay Tripwire
 
-Jay Tripwire is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Gorg-O-Mish, Vancouver on Fri, 6 Nov 2026.
+Jay Tripwire is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Gorg-O-Mish, Vancouver on Fri, 6 Nov 2026.
 
 Jay Tripwire is a house and minimal artist based in Canada, with 100 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Auckland and 36 more. Often billed alongside Tyler Stadius, Maher Daniel and Danyelino. Next up: Gorg-O-Mish, Vancouver on Fri 6 Nov.
 
@@ -15,6 +15,7 @@ Jay Tripwire is a house and minimal artist based in Canada, with 100 gigs on sou
 
 ## Recently played
 
+- Gorg-O-Mish, Vancouver · Fri, 6 Nov 2026
 - TBA, San Francisco/Oakland · Fri, 30 Oct 2026
 - Utopia, Los Angeles · Fri, 2 Oct 2026
 - Gorg-O-Mish, Vancouver · Fri, 25 Sept 2026
@@ -22,10 +23,9 @@ Jay Tripwire is a house and minimal artist based in Canada, with 100 gigs on sou
 - Gorg-O-Mish, Vancouver · Fri, 4 Sept 2026
 - Crobar - Buenos Aires, Buenos Aires · Sun, 16 Aug 2026
 - Gorg-O-Mish, Vancouver · Sat, 8 Aug 2026
-- TBA, San Diego · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Tyler Stadius, Maher Daniel, Danyelino
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaytripwire/)*

@@ -1,6 +1,6 @@
 # Jongho
 
-Jongho is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
+Jongho is a Minimal and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
 
 Jongho is a minimal and minimal techno artist based in South Korea, with 107 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Milan and 4 more. Often billed alongside Kibum, Mihak and Nomal. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Jongho is a minimal and minimal techno artist based in South Korea, with 107 gig
 
 Kibum, Mihak, Nomal
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jongho/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jongho/)*

@@ -1,8 +1,8 @@
 # Korolova
 
-Korolova is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
+Korolova is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Khoroum Valley, Egypt on Fri, 20 Nov 2026.
 
-Korolova is a techno and house artist based in Portugal, with 145 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Artbat, Adam Beyer and Argy. Next up: Khoroum Valley, Egypt on Fri 20 Nov.
+Korolova is a techno and house artist based in Portugal, with 146 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Artbat, Adam Beyer and Kasia (OFC). Next up: Khoroum Valley, Egypt on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Korolova is a techno and house artist based in Portugal, with 145 gigs on soundc
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Khoroum Valley | Egypt |
 | Sun, 6 Dec 2026 | Foro Costanera Norte (FCN) | Buenos Aires |
+| Fri, 11 Dec 2026 | Eventpyramide Vösendorf | Austria |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Korolova is a techno and house artist based in Portugal, with 145 gigs on soundc
 
 ## Shares bills with
 
-Artbat, Adam Beyer, Argy
+Artbat, Adam Beyer, Kasia (OFC)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/korolova/)*

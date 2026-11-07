@@ -1,6 +1,6 @@
 # Jimpster
 
-Jimpster is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Old Court, South-east on Sat, 7 Nov 2026.
+Jimpster is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Old Court, South-east on Sat, 7 Nov 2026.
 
 Jimpster is a house and deep house artist based in United Kingdom, with 96 gigs on soundcheck across Alicante, Amsterdam, Atlanta and Barcelona and 40 more. Often billed alongside Conrad Lee, Hudson’s Choice and Neil Pierce. Next up: The Old Court, South East on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Jimpster is a house and deep house artist based in United Kingdom, with 96 gigs 
 
 Conrad Lee, Hudson’s Choice, Neil Pierce
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jimpster/)*

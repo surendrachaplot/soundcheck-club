@@ -1,14 +1,15 @@
 # Electric Boutique
 
-Electric Boutique is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Very Small Club, Budapest on Fri, 20 Nov 2026.
+Electric Boutique is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Very Small Club, Budapest on Fri, 20 Nov 2026.
 
-Electric Boutique is a house and minimal artist based in Hungary, with 113 gigs on soundcheck across Budapest. Often billed alongside Monoclick, Lost in Details and Claudio Imperatrice. Next up: Very Small Club, Budapest on Fri 20 Nov.
+Electric Boutique is a house and minimal artist based in Hungary, with 114 gigs on soundcheck across Budapest. Often billed alongside Monoclick, Lost in Details and Claudio Imperatrice. Next up: Very Small Club, Budapest on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Very Small Club | Budapest |
+| Fri, 18 Dec 2026 | Very Small Club | Budapest |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Electric Boutique is a house and minimal artist based in Hungary, with 113 gigs 
 
 Monoclick, Lost in Details, Claudio Imperatrice
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electricboutique/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/electricboutique/)*

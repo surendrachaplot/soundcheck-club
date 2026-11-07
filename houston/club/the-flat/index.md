@@ -1,6 +1,6 @@
 # The Flat
 
-The Flat is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "SORA" on Sat, 7 Nov 2026.
+The Flat is a music venue in Houston with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "SORA" on Sat, 7 Nov 2026.
 
 The Flat is a music venue in Houston listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Flat is a music venue in Houston listed on soundcheck. 1 upcoming gig. See d
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | SORA |  |
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/the-flat/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/houston/club/the-flat/)*

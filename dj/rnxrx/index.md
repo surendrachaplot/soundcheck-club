@@ -1,6 +1,6 @@
 # RNXRX
 
-RNXRX is a Electro and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Multiple Venues, Barcelona on Wed, 28 Apr 2027.
+RNXRX is a Electro and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Multiple Venues, Barcelona on Wed, 28 Apr 2027.
 
 RNXRX is an electro and trance artist based in Spain, with 18 gigs on soundcheck across Athens, Barcelona and Valencia. Often billed alongside Ed Warner, Marianella and Dolorosa. Next up: TBA - Multiple Venues, Barcelona on Wed 28 Apr.
 
@@ -25,4 +25,4 @@ RNXRX is an electro and trance artist based in Spain, with 18 gigs on soundcheck
 
 Ed Warner, Marianella, Dolorosa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rnxrx/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rnxrx/)*

@@ -1,17 +1,18 @@
 # Frisbee
 
-Frisbee is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "United Chutney Jam Sit-Down Service with Mikey" on Fri, 6 Nov 2026.
+Frisbee is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Ella's Random Sit_down Service" on Wed, 25 Nov 2026.
 
-Frisbee is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Mikey (UK). See dates, start times and who's playing. Tagensvej 41, 2200 Copenhagen N.
+Frisbee is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Tagensvej 41, 2200 Copenhagen N.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | United Chutney Jam Sit-Down Service with Mikey | Mikey (UK) |
+| Wed, 25 Nov 2026 | Ella's Random Sit_down Service |  |
+| Sun, 29 Nov 2026 | Dazed Sunday w. Cirkeline |  |
 
 ## Address
 
 Tagensvej 41, 2200 Copenhagen N, Copenhagen
 
-*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/frisbee/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/frisbee/)*

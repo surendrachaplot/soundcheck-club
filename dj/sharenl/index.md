@@ -1,6 +1,6 @@
 # SHARE (NL)
 
-SHARE (NL) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 516 S Anderson Street, Los Angeles on Sat, 7 Nov 2026.
+SHARE (NL) is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at 516 S Anderson Street, Los Angeles on Sat, 7 Nov 2026.
 
 SHARE (NL) is a house and electronica artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 16 more. Often billed alongside BOHEM, KAHMEYA and Konstantin Sibold. Next up: 516 S Anderson Street, Los Angeles on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ SHARE (NL) is a house and electronica artist based in Netherlands, with 46 gigs 
 
 BOHEM, KAHMEYA, Konstantin Sibold
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sharenl/)*

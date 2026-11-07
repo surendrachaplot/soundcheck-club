@@ -1,6 +1,6 @@
 # VELLA
 
-VELLA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Nutone Sofia, Sofia on Sat, 14 Nov 2026.
+VELLA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nutone Sofia, Sofia on Sat, 14 Nov 2026.
 
 VELLA is a techno and hardcore artist, with 18 gigs on soundcheck across Sofia. Often billed alongside Miss Lidiya, Shade. and Morøder. Next up: Nutone Sofia, Sofia on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ VELLA is a techno and hardcore artist, with 18 gigs on soundcheck across Sofia. 
 
 Miss Lidiya, Shade., Morøder
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vella/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vella/)*

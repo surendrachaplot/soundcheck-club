@@ -1,6 +1,6 @@
 # Bontan
 
-Bontan is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 7 Nov 2026.
+Bontan is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 7 Nov 2026.
 
 Bontan is a house and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 33 more. Often billed alongside Jamie Jones, AMÉMÉ and Archie Hamilton. Next up: Blackstone Street Warehouse, Liverpool on Sat 7 Nov.
 
@@ -30,4 +30,4 @@ Bontan is a house and tech house artist based in United Kingdom, with 124 gigs o
 
 Jamie Jones, AMÉMÉ, Archie Hamilton
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bontan/)*

@@ -1,14 +1,13 @@
 # Karmakoma
 
-Karmakoma is a music venue in Belgrade with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Luton & Šćepa Live, intro by Knower" on Fri, 6 Nov 2026.
+Karmakoma is a music venue in Belgrade with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Evanora Unlimited" on Sat, 7 Nov 2026.
 
-Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, with line-ups including Ali Guney, Aneri, Ben UFO and Cormac and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
+Karmakoma is a music venue in Belgrade listed on soundcheck. 12 upcoming gigs, with line-ups including Ali Guney, Aneri, Ben UFO and Cormac and 2 more. See dates, start times and who's playing. Poenkareova 32, 11000 Belgrade.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Luton & Šćepa Live, intro by Knower | Knower, Luton, Scepa |
 | Sat, 7 Nov 2026 | Evanora Unlimited | Evanora Unlimited |
 | Sat, 7 Nov 2026 | Karmakoma's 3rd Birthday with Ben UFO | Ali Guney, Ben UFO, Nikola Vemic |
 | Fri, 13 Nov 2026 | Apgrade with Cormac | Cormac, Felver, Matej Rusmir |
@@ -18,9 +17,10 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 13 upcoming gigs, w
 | Sat, 21 Nov 2026 | Mindless 21/11 |  |
 | Thu, 26 Nov 2026 | Rouzi LIVE feat. RADAR Crew |  |
 | Fri, 27 Nov 2026 | Kedr Livanskiy | Kedr Livanskiy |
+| Sat, 28 Nov 2026 | Steven Julien, Igor Jadranin | Igor Jadranin, Steven Julien |
 
 ## Address
 
 Poenkareova 32, 11000 Belgrade, Belgrade
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/karmakoma/)*

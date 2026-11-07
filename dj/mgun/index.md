@@ -1,6 +1,6 @@
 # MGUN
 
-MGUN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 7 Nov 2026.
+MGUN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Northern Lights Lounge, Detroit on Sat, 7 Nov 2026.
 
 MGUN is a techno and house artist based in United States of America, with 91 gigs on soundcheck across Detroit, New York City, San Francisco/Oakland and Washington DC. Often billed alongside Ryan Spencer, Isaac Prieto and Max Watts. Next up: Northern Lights Lounge, Detroit on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ MGUN is a techno and house artist based in United States of America, with 91 gig
 
 Ryan Spencer, Isaac Prieto, Max Watts
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mgun/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mgun/)*

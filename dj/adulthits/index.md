@@ -1,6 +1,6 @@
 # Adult Hits
 
-Adult Hits is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
+Adult Hits is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
 
 Adult Hits is a house and disco artist based in United States of America, with 21 gigs on soundcheck across Chicago and Los Angeles. Often billed alongside Capes, James Axon and Club Tularosa. Next up: TBA, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Adult Hits is a house and disco artist based in United States of America, with 2
 
 Capes, James Axon, Club Tularosa
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adulthits/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adulthits/)*

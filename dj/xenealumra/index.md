@@ -1,6 +1,6 @@
 # XENEA LUMRA
 
-XENEA LUMRA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
+XENEA LUMRA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fuchs2, Prague on Fri, 4 Dec 2026.
 
 XENEA LUMRA is a techno and trance artist based in Czech Republic, with 16 gigs on soundcheck across Prague. Often billed alongside Katrixia, SAVBEA and 2NDRA. Next up: Fuchs2, Prague on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ XENEA LUMRA is a techno and trance artist based in Czech Republic, with 16 gigs 
 
 Katrixia, SAVBEA, 2NDRA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xenealumra/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xenealumra/)*

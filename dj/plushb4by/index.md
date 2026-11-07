@@ -1,6 +1,6 @@
 # PLUSHB4BY
 
-PLUSHB4BY is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Unit 58, London on Fri, 18 Dec 2026.
+PLUSHB4BY is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Unit 58, London on Fri, 18 Dec 2026.
 
 PLUSHB4BY is a techno and club artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Brussels, Edinburgh and Helsinki and 2 more. Often billed alongside KLAUDIO, Mvcoko and Blood of Aza. Next up: Unit 58, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ PLUSHB4BY is a techno and club artist based in United Kingdom, with 27 gigs on s
 
 KLAUDIO, Mvcoko, Blood of Aza
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plushb4by/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/plushb4by/)*

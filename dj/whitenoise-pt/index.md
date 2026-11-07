@@ -1,6 +1,6 @@
 # Whitenoise (PT)
 
-Whitenoise (PT) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Club Madame, Porto on Sat, 7 Nov 2026.
+Whitenoise (PT) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Madame, Porto on Sat, 7 Nov 2026.
 
 Whitenoise (PT) is a house and techno artist based in Portugal, with 44 gigs on soundcheck across Lisbon, Madrid, Porto and Valencia. Often billed alongside DJ Nox, Fragoso and Cuba (PT). Next up: Club Madame, Porto on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Whitenoise (PT) is a house and techno artist based in Portugal, with 44 gigs on 
 
 DJ Nox, Fragoso, Cuba (PT)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whitenoise-pt/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/whitenoise-pt/)*

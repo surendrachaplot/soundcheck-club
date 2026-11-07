@@ -1,6 +1,6 @@
 # nebbieri
 
-nebbieri is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bassiani, Tbilisi on Thu, 31 Dec 2026.
+nebbieri is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bassiani, Tbilisi on Thu, 31 Dec 2026.
 
 nebbieri is a techno and electro artist based in Georgia, with 48 gigs on soundcheck across Amsterdam, Athens, Berlin and Copenhagen and 8 more. Often billed alongside Kancheli, Ndrx and Sophie Phare. Next up: Bassiani, Tbilisi on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ nebbieri is a techno and electro artist based in Georgia, with 48 gigs on soundc
 
 Kancheli, Ndrx, Sophie Phare
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebbieri/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nebbieri/)*

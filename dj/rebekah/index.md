@@ -1,6 +1,6 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Rebekah is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 Rebekah is a techno and hardcore artist based in United Kingdom, with 189 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 75 more. Often billed alongside DYEN, Kobosil and SNTS. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -13,6 +13,7 @@ Rebekah is a techno and hardcore artist based in United Kingdom, with 189 gigs o
 | Fri, 4 Dec 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 11 Dec 2026 | The Comfort Zone | Toronto |
 | Fri, 18 Dec 2026 | OST | Berlin |
+| Fri, 5 Feb 2027 | TBA | Berlin |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Rebekah is a techno and hardcore artist based in United Kingdom, with 189 gigs o
 
 DYEN, Kobosil, SNTS
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

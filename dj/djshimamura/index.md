@@ -1,6 +1,6 @@
 # DJ Shimamura
 
-DJ Shimamura is a Hardcore and Club artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 7 Nov 2026.
+DJ Shimamura is a Hardcore and Club artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat, 7 Nov 2026.
 
 DJ Shimamura is a hardcore and club artist based in Japan, with 56 gigs on soundcheck across Bangkok, Chubu, Kanto and Osaka and 1 more. Often billed alongside M-Project, MIDI War and NATSUMI. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sat 7 Nov.
 
@@ -29,4 +29,4 @@ DJ Shimamura is a hardcore and club artist based in Japan, with 56 gigs on sound
 
 M-Project, MIDI War, NATSUMI
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshimamura/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djshimamura/)*

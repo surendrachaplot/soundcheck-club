@@ -1,14 +1,13 @@
 # Shingo Nakamura
 
-Shingo Nakamura is a Progressive House and Trance artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at VENT, Tokyo on Fri, 6 Nov 2026.
+Shingo Nakamura is a Progressive House and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Ximxim Bar, Seoul on Sat, 7 Nov 2026.
 
-Shingo Nakamura is a progressive house and trance artist based in Japan, with 60 gigs on soundcheck across Boston, Houston, Leeds and London and 13 more. Often billed alongside Conures (DJ Tokunaga), DJ NECO and Dominant Space. Next up: VENT, Tokyo on Fri 6 Nov.
+Shingo Nakamura is a progressive house and trance artist based in Japan, with 60 gigs on soundcheck across Boston, Houston, Leeds and London and 13 more. Often billed alongside Conures (DJ Tokunaga), DJ NECO and Dominant Space. Next up: Ximxim Bar, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | VENT | Tokyo |
 | Sat, 7 Nov 2026 | Ximxim Bar | Seoul |
 | Sat, 14 Nov 2026 | The Fibre Penthouse | Leeds |
 | Sat, 14 Nov 2026 | The Lower Third | London |
@@ -16,6 +15,7 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, with 60
 
 ## Recently played
 
+- VENT, Tokyo · Fri, 6 Nov 2026
 - Circus Tokyo, Tokyo · Sat, 10 Oct 2026
 - 620 Jones, San Francisco/Oakland · Sat, 3 Oct 2026
 - R Lounge, Tokyo · Wed, 30 Sept 2026
@@ -23,10 +23,9 @@ Shingo Nakamura is a progressive house and trance artist based in Japan, with 60
 - Z Maruyama, Tokyo · Sat, 12 Sept 2026
 - R Lounge, Tokyo · Sat, 25 Jul 2026
 - TBA - Takanawa Gateway City, Tokyo · Sat, 27 Jun 2026
-- Newspeak, Montreal · Fri, 12 Jun 2026
 
 ## Shares bills with
 
 Conures (DJ Tokunaga), DJ NECO, Dominant Space
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shingonakamura/)*

@@ -1,6 +1,6 @@
 # Coach Chris
 
-Coach Chris is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Animal, New York City on Sat, 7 Nov 2026.
+Coach Chris is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Animal, New York City on Sat, 7 Nov 2026.
 
 Coach Chris is a house and disco artist based in United States of America, with 18 gigs on soundcheck across New York City, Seattle and Toronto. Often billed alongside Boomer Banks, DJ Dawson and DROPO. Next up: Animal, New York City on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Coach Chris is a house and disco artist based in United States of America, with 
 
 Boomer Banks, DJ Dawson, DROPO
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coachchris/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coachchris/)*

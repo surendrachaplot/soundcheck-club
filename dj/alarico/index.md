@@ -1,14 +1,13 @@
 # Alarico
 
-Alarico is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Gare Porto, Porto on Fri, 6 Nov 2026.
+Alarico is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Bassement, Madrid on Sat, 7 Nov 2026.
 
-Alarico is a techno and house artist based in Italy, with 319 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 90 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Gare Porto, Porto on Fri 6 Nov.
+Alarico is a techno and house artist based in Italy, with 319 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 90 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: The Bassement, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Gare Porto | Porto |
 | Sat, 7 Nov 2026 | The Bassement | Madrid |
 | Sat, 14 Nov 2026 | Magasins Généraux | Paris |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
@@ -20,9 +19,11 @@ Alarico is a techno and house artist based in Italy, with 319 gigs on soundcheck
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
 | Fri, 11 Dec 2026 | Drugstore Beograd | Belgrade |
 | Sat, 19 Dec 2026 | SMUT Athens | Athens |
+| Sat, 26 Dec 2026 | Spook Club | Valencia |
 
 ## Recently played
 
+- Gare Porto, Porto · Fri, 6 Nov 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - RADION, Amsterdam · Sun, 25 Oct 2026
 - Bajes Amsterdam, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ Alarico is a techno and house artist based in Italy, with 319 gigs on soundcheck
 - Studio Club Malaga, Malaga · Fri, 16 Oct 2026
 - KALT, Strasbourg · Sat, 10 Oct 2026
 - Sub Club, Glasgow · Fri, 9 Oct 2026
-- Anfiteatro de Pedra, Lisbon · Sat, 26 Sept 2026
 
 ## Shares bills with
 
 Chlär, Funk Assault, Yanamaste
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alarico/)*

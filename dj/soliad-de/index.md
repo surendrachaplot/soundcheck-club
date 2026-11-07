@@ -1,6 +1,6 @@
 # Soliad
 
-Soliad is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sameheads, Berlin on Thu, 12 Nov 2026.
+Soliad is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sameheads, Berlin on Thu, 12 Nov 2026.
 
 Soliad is a house and electro artist based in Germany, with 16 gigs on soundcheck across Barcelona, Berlin, Malaga and Valencia. Often billed alongside Lenut, Bouch and Ed Warner. Next up: Sameheads, Berlin on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Soliad is a house and electro artist based in Germany, with 16 gigs on soundchec
 
 Lenut, Bouch, Ed Warner
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soliad-de/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soliad-de/)*

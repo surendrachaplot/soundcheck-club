@@ -1,6 +1,6 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Octo Octa is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Octo Octa is a house and techno artist based in United States of America, with 231 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 77 more. Often billed alongside Eris Drew, CCL and ISAbella. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -21,6 +21,7 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 
 ## Recently played
 
+- Cité du Design Saint Etienne, Central · Fri, 6 Nov 2026
 - TivoliVredenburg, Utrecht · Thu, 5 Nov 2026
 - Tangent Gallery, Detroit · Sat, 31 Oct 2026
 - Tangent Gallery, Detroit · Fri, 30 Oct 2026
@@ -28,10 +29,9 @@ Octo Octa is a house and techno artist based in United States of America, with 2
 - CLUB RAUM, Amsterdam · Fri, 23 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Fri, 23 Oct 2026
 - Pllek, Amsterdam · Thu, 22 Oct 2026
-- Iter Tenerife, Canary-islands · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Eris Drew, CCL, ISAbella
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octoocta/)*

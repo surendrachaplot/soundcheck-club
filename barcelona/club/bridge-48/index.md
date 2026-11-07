@@ -1,15 +1,13 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "B48 LIVE x THE GROOVE TELLERS #03" on Thu, 5 Nov 2026.
+Bridge 48 is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "UMBRAL Techno Culture" on Sat, 7 Nov 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Ale Hope, Alice Youngling, Angie (CY) and Atari Stacey and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Alice Youngling, Angie (CY), Atari Stacey and Aude and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | B48 LIVE x THE GROOVE TELLERS #03 | Hi/Fi, Hutchee, IvaNNa |
-| Fri, 6 Nov 2026 | BRIDGE 48 — 2 ROOMS Sound Immersive Experience | Ale Hope, Beniso, Cucut, Dadame, Mona Lee, SAYARI |
 | Sat, 7 Nov 2026 | UMBRAL Techno Culture | Casteh, Diffuse Reality, JKEY, Main Leaf, Oscar Zillini, RHITA, Rakel, Squaric |
 | Mon, 9 Nov 2026 | AUDE Listening Session: Massive Attack, Blue Lines (1991) | Massive Attack |
 | Tue, 10 Nov 2026 | AUDE Listening Session: Madonna, Ray of Light (1998) |  |
@@ -23,4 +21,4 @@ Bridge 48 is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, 
 
 Carrer de Llull, 48, 08005 Barcelona, España, Barcelona
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/bridge-48/)*

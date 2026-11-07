@@ -1,6 +1,6 @@
 # TERMINAL 4
 
-TERMINAL 4 is a Afro House and Amapiano artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Rumble Rooms, Midlands on Sat, 7 Nov 2026.
+TERMINAL 4 is a Afro House and Amapiano artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Rumble Rooms, Midlands on Sat, 7 Nov 2026.
 
 TERMINAL 4 is an afro house and amapiano artist based in United Kingdom, with 10 gigs on soundcheck across London and Midlands. Often billed alongside Supa D, DJ Majesty and Shenin Amara. Next up: Rumble Rooms, Midlands on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ TERMINAL 4 is an afro house and amapiano artist based in United Kingdom, with 10
 
 Supa D, DJ Majesty, Shenin Amara
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/terminal4/)*

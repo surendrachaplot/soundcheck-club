@@ -1,15 +1,13 @@
 # Octave One
 
-Octave One is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+Octave One is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Stinsen, Stockholm on Fri, 27 Nov 2026.
 
-Octave One is a techno and house artist based in United States of America, with 114 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 42 more. Often billed alongside Carl Craig, Kevin Saunderson and FJAAK. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
+Octave One is a techno and house artist based in United States of America, with 114 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Belgrade and 42 more. Often billed alongside Carl Craig, Kevin Saunderson and FJAAK. Next up: Stinsen, Stockholm on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
-| Fri, 6 Nov 2026 | Den Anden Side | Copenhagen |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Fri, 4 Dec 2026 | Bajes Amsterdam | Amsterdam |
 | Mon, 7 Dec 2026 | Basic Club | Naples |
@@ -17,6 +15,7 @@ Octave One is a techno and house artist based in United States of America, with 
 
 ## Recently played
 
+- Den Anden Side, Copenhagen · Fri, 6 Nov 2026
 - Base Sous-Marine de Bordeaux, Bordeaux · Thu, 5 Nov 2026
 - Q-Factory, Amsterdam · Fri, 23 Oct 2026
 - TBA, Los Angeles · Sat, 17 Oct 2026
@@ -24,10 +23,9 @@ Octave One is a techno and house artist based in United States of America, with 
 - Fabrik, Madrid · Sun, 11 Oct 2026
 - Jaeger, Oslo · Fri, 9 Oct 2026
 - Plaza Monumental de Barcelona, Barcelona · Sat, 3 Oct 2026
-- FOLD, London · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Carl Craig, Kevin Saunderson, FJAAK
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/octaveone/)*

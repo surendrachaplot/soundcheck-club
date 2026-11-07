@@ -1,6 +1,6 @@
 # Carmelina
 
-Carmelina is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
+Carmelina is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fitzroy, Berlin on Sat, 5 Dec 2026.
 
 Carmelina is a house and tech house artist based in Germany, with 14 gigs on soundcheck across Berlin, Frankfurt, Greece and Lisbon. Often billed alongside Elia Nafzger, Marc. and Alexia. Next up: Fitzroy, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Carmelina is a house and tech house artist based in Germany, with 14 gigs on sou
 
 Elia Nafzger, Marc., Alexia (2)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carmelina-de/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carmelina-de/)*

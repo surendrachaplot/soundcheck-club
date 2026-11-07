@@ -1,14 +1,13 @@
 # MÄX
 
-MÄX is a music venue in Zurich with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "SOMA presents Third Party" on Fri, 6 Nov 2026.
+MÄX is a music venue in Zurich with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Poltergst x Zurich" on Sat, 7 Nov 2026.
 
-MÄX is a music venue in Zurich listed on soundcheck. 14 upcoming gigs, with line-ups including 1luu, Alle Farben, andris and BIIANCO and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
+MÄX is a music venue in Zurich listed on soundcheck. 13 upcoming gigs, with line-ups including 1luu, Alle Farben, andris and BIIANCO and 2 more. See dates, start times and who's playing. Hardstrasse 219, 8005 Zurich.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | SOMA presents Third Party | Third Party |
 | Sat, 7 Nov 2026 | Poltergst x Zurich |  |
 | Fri, 13 Nov 2026 | Schranz Nacht with O.B.I. & Ornella | O.B.I. (DE), Ornella |
 | Sat, 14 Nov 2026 | All Stars 2000 |  |
@@ -18,9 +17,10 @@ MÄX is a music venue in Zurich listed on soundcheck. 14 upcoming gigs, with lin
 | Sat, 28 Nov 2026 | Daft Funk Live – Zurich | Daft Funk Live |
 | Sat, 5 Dec 2026 | Alle Farben - Club Tour | Alle Farben |
 | Sat, 12 Dec 2026 | Jazzy - All Night Long | JAZZY (2) |
+| Sat, 19 Dec 2026 | Liquicity Zurich 2026 | Etherwood, Maduk, Muzz Khan |
 
 ## Address
 
 Hardstrasse 219, 8005 Zurich, Zurich
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/zurich/club/m-x/)*

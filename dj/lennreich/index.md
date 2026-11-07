@@ -1,6 +1,6 @@
 # Lenn Reich
 
-Lenn Reich is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Horn, Bangkok on Fri, 27 Nov 2026.
+Lenn Reich is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Horn, Bangkok on Fri, 27 Nov 2026.
 
 Lenn Reich is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Bangkok, Belgrade, Hamburg and Hannover. Often billed alongside J-DEK, Mansist and bauhof. Next up: Horn, Bangkok on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Lenn Reich is a techno and trance artist based in Germany, with 38 gigs on sound
 
 J-DEK, Mansist, bauhof
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennreich/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lennreich/)*

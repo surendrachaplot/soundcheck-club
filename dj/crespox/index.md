@@ -1,6 +1,6 @@
 # crespox
 
-crespox is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Goya Social Club, Madrid on Fri, 20 Nov 2026.
+crespox is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Goya Social Club, Madrid on Fri, 20 Nov 2026.
 
 crespox is a house and tech house artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside Palimpseste, Ander Race and Awk. Next up: Goya Social Club, Madrid on Fri 20 Nov.
 
@@ -23,4 +23,4 @@ crespox is a house and tech house artist based in Spain, with 7 gigs on soundche
 
 Palimpseste, Ander Race, Awk (2)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crespox/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/crespox/)*

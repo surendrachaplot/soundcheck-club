@@ -1,6 +1,6 @@
 # Technokool
 
-Technokool is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Turbina, Budapest on Fri, 27 Nov 2026.
+Technokool is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Turbina, Budapest on Fri, 27 Nov 2026.
 
 Technokool is a techno and trance artist based in Hungary, with 138 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 16 more. Often billed alongside Akác, Kamafaka and CRIME. Next up: Turbina, Budapest on Fri 27 Nov.
 
@@ -27,4 +27,4 @@ Technokool is a techno and trance artist based in Hungary, with 138 gigs on soun
 
 Akác, Kamafaka, CRIME
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/technokool/)*

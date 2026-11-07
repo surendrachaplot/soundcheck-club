@@ -1,14 +1,13 @@
 # AEREA
 
-AEREA is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Elsewhere, New York City on Fri, 6 Nov 2026.
+AEREA is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 7 Nov 2026.
 
-AEREA is a techno and trance artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 51 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Elsewhere, New York City on Fri 6 Nov.
+AEREA is a techno and trance artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Antwerp, Athens and Azerbaijan and 51 more. Often billed alongside future.666, DJ Hyperdrive and ÜBERKIKZ. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Elsewhere | New York City |
 | Sat, 7 Nov 2026 | Ex Fabrica de Harina Anden Tacuba | Mexico City |
 | Thu, 12 Nov 2026 | Tigres de la Noche | Washington DC |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
@@ -20,9 +19,11 @@ AEREA is a techno and trance artist based in Spain, with 85 gigs on soundcheck a
 | Fri, 4 Dec 2026 | Fuse | Brussels |
 | Fri, 11 Dec 2026 | The Bassement | Madrid |
 | Sat, 19 Dec 2026 | Soul SKG | Thessaloniki |
+| Sun, 20 Dec 2026 | Mia Mao | Paris |
 
 ## Recently played
 
+- Elsewhere, New York City · Fri, 6 Nov 2026
 - RSO.BERLIN, Berlin · Sat, 31 Oct 2026
 - Sound Department, South · Sat, 24 Oct 2026
 - Uebel & Gefährlich, Hamburg · Fri, 23 Oct 2026
@@ -30,10 +31,9 @@ AEREA is a techno and trance artist based in Spain, with 85 gigs on soundcheck a
 - TBA - Port of Belgrade, Belgrade · Fri, 2 Oct 2026
 - Baku Auto Mall Parking, Azerbaijan · Fri, 2 Oct 2026
 - control, Bucharest · Fri, 25 Sept 2026
-- Arzenal, Budapest · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 future.666, DJ Hyperdrive, ÜBERKIKZ
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aerea/)*

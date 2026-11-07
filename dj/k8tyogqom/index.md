@@ -1,6 +1,6 @@
 # K8 (TYO GQOM)
 
-K8 (TYO GQOM) is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at club asia, Tokyo on Sat, 21 Nov 2026.
+K8 (TYO GQOM) is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at club asia, Tokyo on Sat, 21 Nov 2026.
 
 K8 (TYO GQOM) is a house and bass artist based in Japan, with 104 gigs on soundcheck across Chengdu, Kyoto, Osaka and Taipei and 3 more. Often billed alongside FELINE (JP), mitokon and AMANE. Next up: club asia, Tokyo on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ K8 (TYO GQOM) is a house and bass artist based in Japan, with 104 gigs on soundc
 
 FELINE (JP), mitokon, AMANE
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k8tyogqom/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k8tyogqom/)*

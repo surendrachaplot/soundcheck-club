@@ -1,6 +1,6 @@
 # bawab
 
-bawab is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu, 5 Nov 2026.
+bawab is a Downtempo and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu, 5 Nov 2026.
 
 bawab is a downtempo and deep house artist based in United States of America, with 39 gigs on soundcheck across Berlin, Chicago, Leipzig and Los Angeles and 8 more. Often billed alongside Sydka, Antaares and Dysco-official. Next up: TBA - Zipolite (Apapacha · beach · forest), Oaxaca on Thu 5 Nov.
 
@@ -25,4 +25,4 @@ bawab is a downtempo and deep house artist based in United States of America, wi
 
 Sydka, Antaares, Dysco-official
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bawab/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bawab/)*

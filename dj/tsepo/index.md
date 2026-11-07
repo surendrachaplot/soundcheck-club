@@ -1,6 +1,6 @@
 # Tsepo
 
-Tsepo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cece Bar Urbana, Rotterdam on Sat, 7 Nov 2026.
+Tsepo is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cece Bar Urbana, Rotterdam on Sat, 7 Nov 2026.
 
 Tsepo is a house and techno artist based in Netherlands, with 131 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Lucky Done Gone, Eversines and dj sweet6teen. Next up: Cece Bar Urbana, Rotterdam on Sat 7 Nov.
 
@@ -31,4 +31,4 @@ Tsepo is a house and techno artist based in Netherlands, with 131 gigs on soundc
 
 Lucky Done Gone, Eversines, dj sweet6teen
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tsepo/)*

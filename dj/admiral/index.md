@@ -1,6 +1,6 @@
 # Admiral
 
-Admiral is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 7 Nov 2026.
+Admiral is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Madarae San Francisco, San Francisco/Oakland on Sat, 7 Nov 2026.
 
 Admiral is a deep house and afro house artist based in Spain, with 17 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside IZIK, Vann Essa and Alan Dixon. Next up: Madarae San Francisco, San Francisco/Oakland on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Admiral is a deep house and afro house artist based in Spain, with 17 gigs on so
 
 IZIK, Vann Essa, Alan Dixon
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/admiral/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/admiral/)*

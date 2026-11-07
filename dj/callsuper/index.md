@@ -1,14 +1,13 @@
 # Call Super
 
-Call Super is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bassiani, Tbilisi on Fri, 6 Nov 2026.
+Call Super is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fidelity Studio, Dublin on Fri, 13 Nov 2026.
 
-Call Super is a house and techno artist based in United Kingdom, with 240 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 79 more. Often billed alongside Shanti Celeste, Ogazón and Ryan Elliott. Next up: Bassiani, Tbilisi on Fri 6 Nov.
+Call Super is a house and techno artist based in United Kingdom, with 240 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Bali and 79 more. Often billed alongside Shanti Celeste, Ogazón and Ryan Elliott. Next up: Fidelity Studio, Dublin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Bassiani | Tbilisi |
 | Fri, 13 Nov 2026 | Fidelity Studio | Dublin |
 | Fri, 20 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 21 Nov 2026 | Open Ground | Wuppertal |
@@ -21,6 +20,7 @@ Call Super is a house and techno artist based in United Kingdom, with 240 gigs o
 
 ## Recently played
 
+- Bassiani, Tbilisi · Fri, 6 Nov 2026
 - Skatecafe, Amsterdam · Sun, 25 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Sat, 24 Oct 2026
 - Klaproos, Amsterdam · Sat, 24 Oct 2026
@@ -28,10 +28,9 @@ Call Super is a house and techno artist based in United Kingdom, with 240 gigs o
 - Klaproos, Amsterdam · Thu, 22 Oct 2026
 - TBA - East Williamsburg, New York City · Sat, 17 Oct 2026
 - Cockatoo Island, Sydney · Sun, 4 Oct 2026
-- Cockatoo Island, Sydney · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Shanti Celeste, Ogazón, Ryan Elliott
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/callsuper/)*

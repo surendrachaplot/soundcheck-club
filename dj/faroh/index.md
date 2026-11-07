@@ -1,6 +1,6 @@
 # FAROH
 
-FAROH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Horn, Bangkok on Sat, 7 Nov 2026.
+FAROH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Horn, Bangkok on Sat, 7 Nov 2026.
 
 FAROH is a techno and house artist, with 18 gigs on soundcheck across Bangkok and Ho Chi Minh City. Often billed alongside IYY (TH), Takky and Biliguudei. Next up: Horn, Bangkok on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ FAROH is a techno and house artist, with 18 gigs on soundcheck across Bangkok an
 
 IYY (TH), Takky, Biliguudei
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faroh/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faroh/)*

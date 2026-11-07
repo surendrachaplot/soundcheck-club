@@ -1,6 +1,6 @@
 # Kimby (US)
 
-Kimby (US) is a Club and Balearic artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mood Ring, New York City on Sat, 7 Nov 2026.
+Kimby (US) is a Club and Balearic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mood Ring, New York City on Sat, 7 Nov 2026.
 
 Kimby (US) is a club and balearic artist based in United States of America, with 12 gigs on soundcheck across New York City. Often billed alongside Eleou, Asphodèle and James Park.. Next up: Mood Ring, New York City on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Kimby (US) is a club and balearic artist based in United States of America, with
 
 Eleou, Asphodèle, James Park.
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimby-us/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kimby-us/)*

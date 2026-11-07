@@ -1,6 +1,6 @@
 # DB Cooper
 
-DB Cooper is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kemistry, Florida on Sat, 12 Dec 2026.
+DB Cooper is a Bass and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kemistry, Florida on Sat, 12 Dec 2026.
 
 DB Cooper is a bass and drum & bass artist based in United States of America, with 31 gigs on soundcheck across Chicago, Florida and Miami. Often billed alongside DJ Tamsom, Topher the Alien and Roll-e. Next up: Kemistry, Florida on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ DB Cooper is a bass and drum & bass artist based in United States of America, wi
 
 DJ Tamsom, Topher the Alien, Roll-e
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbcooper/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dbcooper/)*

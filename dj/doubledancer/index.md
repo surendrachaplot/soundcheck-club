@@ -1,6 +1,6 @@
 # Double Dancer
 
-Double Dancer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Sound Bar Normal, Chubu on Sat, 7 Nov 2026.
+Double Dancer is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Sound Bar Normal, Chubu on Sat, 7 Nov 2026.
 
 Double Dancer is a house and techno artist based in Norway, with 11 gigs on soundcheck across Berlin, Chubu, Kanto and Kyoto and 2 more. Often billed alongside KAITO., Tetsuo and Aquarium. Next up: TBA - Sound Bar Normal, Chubu on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Double Dancer is a house and techno artist based in Norway, with 11 gigs on soun
 
 KAITO., Tetsuo, Aquarium
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doubledancer/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doubledancer/)*

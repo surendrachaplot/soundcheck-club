@@ -1,6 +1,6 @@
 # 坚果NUTS
 
-坚果NUTS is a music venue in Chongqing with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "CNM！劲迪俱乐部-东北银驻川渝办事处" on Sat, 7 Nov 2026.
+坚果NUTS is a music venue in Chongqing with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "CNM！劲迪俱乐部-东北银驻川渝办事处" on Sat, 7 Nov 2026.
 
 坚果NUTS is a music venue in Chongqing listed on soundcheck. 3 upcoming gigs, with line-ups including Pei. See dates, start times and who's playing. 重庆两江新区龙湖新壹街C馆1F（1F Building C,Xinyijie, District Liangjiangxinqu,Chongqing,China）.
 
@@ -16,4 +16,4 @@
 
 重庆两江新区龙湖新壹街C馆1F（1F Building C,Xinyijie, District Liangjiangxinqu,Chongqing,China）, Chongqing
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/nuts/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/chongqing/club/nuts/)*

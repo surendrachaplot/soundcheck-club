@@ -1,6 +1,6 @@
 # Brody (2)
 
-Brody (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 20 Feb 2027.
+Brody (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 20 Feb 2027.
 
 Brody is a techno and house artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside M. Freelance, ESSTI and Augusto Taito. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ Brody is a techno and house artist based in Spain, with 9 gigs on soundcheck acr
 
 M. Freelance, ESSTI, Augusto Taito
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brody-2/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brody-2/)*

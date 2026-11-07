@@ -1,6 +1,6 @@
 # Mantas T
 
-Mantas T is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Kultūra, Lithuania on Sat, 7 Nov 2026.
+Mantas T is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Kultūra, Lithuania on Sat, 7 Nov 2026.
 
 Mantas T is a techno and electro artist based in Lithuania, with 16 gigs on soundcheck across Lithuania and Vilnius. Often billed alongside Jaroška, IP:VIII and Phase Line. Next up: TBA - Kultūra, Lithuania on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mantas T is a techno and electro artist based in Lithuania, with 16 gigs on soun
 
 Jaroška, IP:VIII, Phase Line
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mantast/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mantast/)*

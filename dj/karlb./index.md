@@ -1,6 +1,6 @@
 # Karl B.
 
-Karl B. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Lenbachplatz 1, Munich on Sat, 7 Nov 2026.
+Karl B. is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Lenbachplatz 1, Munich on Sat, 7 Nov 2026.
 
 Karl B. is a house and electro artist based in Germany, with 20 gigs on soundcheck across Munich. Often billed alongside A-DEE, A-Dee and Dasmo and Leon Haller. Next up: Lenbachplatz 1, Munich on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Karl B. is a house and electro artist based in Germany, with 20 gigs on soundche
 
 A-DEE, A-Dee and Dasmo, Leon Haller
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlb./)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karlb./)*

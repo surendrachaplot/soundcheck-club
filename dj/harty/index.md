@@ -1,6 +1,6 @@
 # HARTY
 
-HARTY is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at UNLOCKED, London on Sat, 7 Nov 2026.
+HARTY is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at UNLOCKED, London on Sat, 7 Nov 2026.
 
 HARTY is a tech house and house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Jerome Six, Brian Smith and JAYDAA. Next up: UNLOCKED, London on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ HARTY is a tech house and house artist based in United Kingdom, with 50 gigs on 
 
 Jerome Six, Brian Smith, JAYDAA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*

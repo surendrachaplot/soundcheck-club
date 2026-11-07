@@ -1,6 +1,6 @@
 # Olly Junglist
 
-Olly Junglist is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Basement 45, Bristol on Sat, 7 Nov 2026.
+Olly Junglist is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Basement 45, Bristol on Sat, 7 Nov 2026.
 
 Olly Junglist is a drum & bass and jungle artist based in United States of America, with 12 gigs on soundcheck across Bristol, Chicago, Detroit and San Francisco/Oakland. Often billed alongside Seanni B, Kuuma and OMO (US). Next up: Basement 45, Bristol on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Olly Junglist is a drum & bass and jungle artist based in United States of Ameri
 
 Seanni B, Kuuma, OMO (US)
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollyjunglist/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ollyjunglist/)*

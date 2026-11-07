@@ -1,6 +1,6 @@
 # ITZA
 
-ITZA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kingdom Nightclub, Austin on Fri, 20 Nov 2026.
+ITZA is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kingdom Nightclub, Austin on Fri, 20 Nov 2026.
 
 ITZA is a techno and acid artist based in United States of America, with 17 gigs on soundcheck across Austin, Dallas/Fort Worth and Mexico City. Often billed alongside JAViii, The Electric Pearl and AMANDA KOONTZ. Next up: Kingdom Nightclub, Austin on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ITZA is a techno and acid artist based in United States of America, with 17 gigs
 
 JAViii, The Electric Pearl, AMANDA KOONTZ
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itza/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/itza/)*

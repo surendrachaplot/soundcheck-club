@@ -1,14 +1,13 @@
 # Colin Benders
 
-Colin Benders is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Fri, 6 Nov 2026.
+Colin Benders is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Universe Athens, Athens on Sat, 7 Nov 2026.
 
-Colin Benders is a techno and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Dasha Rush, Speedy J and Chlär. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Fri 6 Nov.
+Colin Benders is a techno and house artist based in Netherlands, with 104 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 40 more. Often billed alongside Dasha Rush, Speedy J and Chlär. Next up: Universe Athens, Athens on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 7 Nov 2026 | Universe Athens | Athens |
 | Fri, 13 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 14 Nov 2026 | Lofi | Amsterdam |
@@ -20,6 +19,7 @@ Colin Benders is a techno and house artist based in Netherlands, with 104 gigs o
 
 ## Recently played
 
+- Palais 12 / Paleis 12 (ING Arena), Brussels · Fri, 6 Nov 2026
 - Elysia, Basel · Sat, 31 Oct 2026
 - Elastica, Vilnius · Fri, 30 Oct 2026
 - Mediahaven - Minervahaven, Amsterdam · Sat, 24 Oct 2026
@@ -27,10 +27,9 @@ Colin Benders is a techno and house artist based in Netherlands, with 104 gigs o
 - essaim, Paris · Fri, 16 Oct 2026
 - TBA - Secret Location, Toronto · Sun, 11 Oct 2026
 - Flash, Washington DC · Sat, 10 Oct 2026
-- Refuge, New-york-city · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Dasha Rush, Speedy J, Chlär
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/colinbenders/)*

@@ -1,6 +1,6 @@
 # Meduza
 
-Meduza is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Meduza is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
 Meduza is a house and techno artist based in Italy, with 183 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 39 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
@@ -15,6 +15,7 @@ Meduza is a house and techno artist based in Italy, with 183 gigs on soundcheck 
 
 ## Recently played
 
+- Tinker Field, Orlando · Fri, 6 Nov 2026
 - Cipriani Wall Street, New York City · Sat, 31 Oct 2026
 - Factory Town, Miami · Fri, 30 Oct 2026
 - Melkweg, Amsterdam · Thu, 22 Oct 2026
@@ -22,10 +23,9 @@ Meduza is a house and techno artist based in Italy, with 183 gigs on soundcheck 
 - Echostage, Washington DC · Sat, 3 Oct 2026
 - Santa Monica Pier, Los Angeles · Sat, 3 Oct 2026
 - Wollman Rink, New York City · Fri, 2 Oct 2026
-- Hï Ibiza, Ibiza · Wed, 30 Sept 2026
 
 ## Shares bills with
 
 James Hype (UK), David Guetta, Arielle Free
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meduza/)*

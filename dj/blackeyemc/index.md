@@ -1,6 +1,6 @@
 # Blackeye MC
 
-Blackeye MC is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at M.O.T, London on Sat, 7 Nov 2026.
+Blackeye MC is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at M.O.T, London on Sat, 7 Nov 2026.
 
 Blackeye MC is a jungle and drum & bass artist based in United Kingdom, with 78 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Mantra, Double O and Tim Reaper. Next up: M.O.T, London on Sat 7 Nov.
 
@@ -28,4 +28,4 @@ Blackeye MC is a jungle and drum & bass artist based in United Kingdom, with 78 
 
 Mantra, Double O, Tim Reaper
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackeyemc/)*

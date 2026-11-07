@@ -1,6 +1,6 @@
 # Axoon
 
-Axoon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat, 7 Nov 2026.
+Axoon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat, 7 Nov 2026.
 
 Axoon is a techno and house artist based in Germany, with 16 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside Mit B., phillson and Coline. Next up: TBA - Volkssternwarte Adolph Diesterweg, Dresden on Sat 7 Nov.
 
@@ -27,4 +27,4 @@ Axoon is a techno and house artist based in Germany, with 16 gigs on soundcheck 
 
 Mit B., phillson, Coline
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axoon/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/axoon/)*

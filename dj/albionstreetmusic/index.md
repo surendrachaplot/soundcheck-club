@@ -1,13 +1,14 @@
 # Albion Street Music
 
-Albion Street Music is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
+Albion Street Music is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Hedge Coffee, San Francisco/Oakland on Sat, 21 Nov 2026.
 
-Albion Street Music is a deep house and house artist based in United States of America, with 12 gigs on soundcheck across Budapest, Croatia, London and San Francisco/Oakland. Often billed alongside Monoclick, A Guy Called Gerald and Admo. Next up: The Garden Tisno, Croatia on Thu 26 Aug.
+Albion Street Music is a deep house and house artist based in United States of America, with 13 gigs on soundcheck across Budapest, Croatia, London and San Francisco/Oakland. Often billed alongside Monoclick, A Guy Called Gerald and Admo. Next up: Hedge Coffee, San Francisco/Oakland on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Hedge Coffee | San Francisco/Oakland |
 | Thu, 26 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
@@ -25,4 +26,4 @@ Albion Street Music is a deep house and house artist based in United States of A
 
 Monoclick, A Guy Called Gerald, Admo
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/albionstreetmusic/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/albionstreetmusic/)*

@@ -1,6 +1,6 @@
 # Fischmonger
 
-Fischmonger is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Abyss Shanghai, Shanghai on Sat, 7 Nov 2026.
+Fischmonger is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Abyss Shanghai, Shanghai on Sat, 7 Nov 2026.
 
 Fischmonger is a techno and hardcore artist based in China, with 63 gigs on soundcheck across Amsterdam, Beijing, Berlin and Freiburg and 7 more. Often billed alongside SHU, Meguru and PRYMARA. Next up: Abyss Shanghai, Shanghai on Sat 7 Nov.
 
@@ -26,4 +26,4 @@ Fischmonger is a techno and hardcore artist based in China, with 63 gigs on soun
 
 SHU (2), Meguru, PRYMARA
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fischmonger/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fischmonger/)*
