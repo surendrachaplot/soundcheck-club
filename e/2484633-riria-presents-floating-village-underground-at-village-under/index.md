@@ -1,6 +1,6 @@
 # RIRIA presents 'Floating' - Village Underground at Village Underground
 
-RIRIA presents 'Floating' - Village Underground on Sat 5 Dec, London. 1 artist: RIRIA. See the line-up on soundcheck.
+RIRIA presents 'Floating' - Village Underground on Sat 5 Dec, London. 4 artists: Girls Don't Sync, Matty Chiabi, RIRIA and SHUFFA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,9 @@ RIRIA presents 'Floating' - Village Underground on Sat 5 Dec, London. 1 artist: 
 
 ## Line-up
 
+- Girls Don't Sync
+- Matty Chiabi
 - RIRIA
+- SHUFFA
 
 *Source: [soundcheck](https://soundcheck.club/e/2484633-riria-presents-floating-village-underground-at-village-under/)*

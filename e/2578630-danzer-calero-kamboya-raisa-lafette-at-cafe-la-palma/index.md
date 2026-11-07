@@ -1,6 +1,6 @@
-# Danzer CALERO + KAMBOYA + Raisa + LAFETTE at Cafe La Palma
+# Danzer! Calero + Kamboya + Raisa + Lafette at Cafe La Palma
 
-Danzer CALERO + KAMBOYA + Raisa + LAFETTE at Cafe La Palma on Fri 6 Nov, Madrid. 1 artist: Raisa. Electro and Electronica. See the line-up on soundcheck.
+Danzer! Calero + Kamboya + Raisa + Lafette at Cafe La Palma on Fri 6 Nov, Madrid. 1 artist: Raisa. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

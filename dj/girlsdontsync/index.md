@@ -1,13 +1,14 @@
 # Girls Don't Sync
 
-Girls Don't Sync is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ashton Court Estate, Bristol on Sat, 29 May 2027.
+Girls Don't Sync is a Garage and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Village Underground, London on Sat, 5 Dec 2026.
 
-Girls Don't Sync is a garage and house artist based in United Kingdom, with 124 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 28 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Eats Everything. Next up: Ashton Court Estate, Bristol on Sat 29 May.
+Girls Don't Sync is a garage and house artist based in United Kingdom, with 125 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 28 more. Often billed alongside Interplanetary Criminal, Sophia Violet and Eats Everything. Next up: Village Underground, London on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 5 Dec 2026 | Village Underground | London |
 | Sat, 29 May 2027 | Ashton Court Estate | Bristol |
 | Thu, 15 Jul 2027 | Shipping Hill Farm | West-wales |
 

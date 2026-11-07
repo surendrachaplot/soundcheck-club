@@ -1,13 +1,14 @@
 # K:ROL
 
-K:ROL is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 21 Nov 2026.
+K:ROL is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at BORIS CLUB, Barcelona on Sat, 7 Nov 2026.
 
-K:ROL is a house and techno artist based in Spain, with 60 gigs on soundcheck across Barcelona. Often billed alongside Ivan Pugliares, Andrea Castells and Cipy. Next up: BORIS CLUB, Barcelona on Sat 21 Nov.
+K:ROL is a house and techno artist based in Spain, with 61 gigs on soundcheck across Barcelona. Often billed alongside Ivan Pugliares, Andrea Castells and Marcel BS. Next up: BORIS CLUB, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | BORIS CLUB | Barcelona |
 | Sat, 21 Nov 2026 | BORIS CLUB | Barcelona |
 
 ## Recently played
@@ -23,6 +24,6 @@ K:ROL is a house and techno artist based in Spain, with 60 gigs on soundcheck ac
 
 ## Shares bills with
 
-Ivan Pugliares, Andrea Castells, Cipy
+Ivan Pugliares, Andrea Castells, Marcel BS
 
 *Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/krol/)*

@@ -1,14 +1,15 @@
 # CESAR ALMENA
 
-CESAR ALMENA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+CESAR ALMENA is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
-CESAR ALMENA is a techno and tech house artist based in Spain, with 74 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Lisbon and 4 more. Often billed alongside Nuke, Parsa Jafari and Raul Ortiz. Next up: Fabrik, Madrid on Sat 14 Nov.
+CESAR ALMENA is a techno and tech house artist based in Spain, with 75 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Lisbon and 4 more. Often billed alongside Nuke, Parsa Jafari and Raul Ortiz. Next up: Fabrik, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Fri, 20 Nov 2026 | ART Madrid Club | Madrid |
 
 ## Recently played
 

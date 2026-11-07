@@ -2,14 +2,14 @@
 
 Chelmsford City Racecourse is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "POSHFUNK - The Winter Ball" on Sat, 21 Nov 2026.
 
-Chelmsford City Racecourse is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Kepler, Benji King, Billy Daniel Bunter and Captain Wallop and 2 more. See dates, start times and who's playing. Chelmsford City Racecourse, Chelmsford, Essex CM3 1QP.
+Chelmsford City Racecourse is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Kepler, Beave, Benji King and Billy Daniel Bunter and 2 more. See dates, start times and who's playing. Chelmsford City Racecourse, Chelmsford, Essex CM3 1QP.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | POSHFUNK - The Winter Ball |  |
-| Thu, 31 Dec 2026 | Run Away Festival - New Years Eve | Benji King, Billy Daniel Bunter, Captain Wallop, Chopper (UK), DAISY, Dr Banana, Dr Dubplate, Enzo is Burning, George Mensah, Goody (UK), Job de Jong, Joss Dean, Kepler, Kolter, Phill de Janeiro, Prunk, Reeshy, Rue Jay, Sam Supplier, Sammy Porter, Sidney Charles, Smokey Bubblin' B, Tilli Murphy, hitty |
+| Thu, 31 Dec 2026 | Run Away Festival - New Years Eve | Beave, Benji King, Billy Daniel Bunter, Captain Wallop, Chopper (UK), DAISY, Dr Banana, Dr Dubplate, Enzo is Burning, George Mensah, Goody (UK), Job de Jong, Joss Dean, Kepler, Kolter, Phill de Janeiro, Prunk, Reeshy, Rue Jay, Sam Supplier, Sammy Porter, Sidney Charles, Smokey Bubblin' B, Tilli Murphy, hitty |
 
 ## Address
 

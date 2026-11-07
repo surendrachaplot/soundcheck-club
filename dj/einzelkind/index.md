@@ -1,13 +1,14 @@
 # Arno aka Einzelkind
 
-Arno aka Einzelkind is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Block1, Berlin on Fri, 20 Nov 2026.
+Arno aka Einzelkind is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Renate, Berlin on Fri, 6 Nov 2026.
 
-Arno aka Einzelkind is a techno and house artist based in Germany, with 27 gigs on soundcheck across Barcelona, Berlin, Bucharest and Greece and 5 more. Often billed alongside Alexia, Cap and Eli Verveine. Next up: Block1, Berlin on Fri 20 Nov.
+Arno aka Einzelkind is a house and techno artist based in Germany, with 28 gigs on soundcheck across Barcelona, Berlin, Bucharest and Greece and 5 more. Often billed alongside Alexia, Cap and Eli Verveine. Next up: Renate, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Renate | Berlin |
 | Fri, 20 Nov 2026 | Block1 | Berlin |
 
 ## Recently played

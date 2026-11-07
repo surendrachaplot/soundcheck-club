@@ -1,6 +1,6 @@
 # Gloria
 
-Gloria is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Groove Merchant B-Day Bash" on Sat, 7 Nov 2026.
+Gloria is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Groove Merchant B-Day Bash" on Sat, 7 Nov 2026.
 
 Gloria is a music venue in Ghent listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Gloria is a music venue in Ghent listed on soundcheck. 1 upcoming gig. See dates
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Groove Merchant B-Day Bash |  |
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/gloria/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/gloria/)*

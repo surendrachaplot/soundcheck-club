@@ -1,6 +1,6 @@
 # SYNTHETIC REALITY at OT301
 
-SYNTHETIC REALITY at OT301 on Fri 6 Nov, Amsterdam. 3 artists: Feralia Planitia, Feryne and MAX DURANTE. Electro and Acid. See the line-up on soundcheck.
+SYNTHETIC REALITY at OT301 on Fri 6 Nov, Amsterdam. 3 artists: Feralia Planitia, Feryne and MAX DURANTE. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

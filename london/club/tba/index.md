@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 296 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "WomandBass Europe Tour" on Sat, 31 Oct 2026.
+TBA is a music venue in London with 297 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "WomandBass Europe Tour" on Sat, 31 Oct 2026.
 
-TBA is a music venue in London listed on soundcheck. 296 upcoming gigs, with line-ups including 11:68PM, 2727, 2flowers and 4BLISS# and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 297 upcoming gigs, with line-ups including 11:68PM, 2727, 2flowers and 4BLISS# and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

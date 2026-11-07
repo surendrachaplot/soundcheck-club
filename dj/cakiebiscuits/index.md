@@ -1,13 +1,14 @@
 # Cakiebiscuits
 
-Cakiebiscuits is a Hip-Hop and Grime artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sun, 29 Nov 2026.
+Cakiebiscuits is a Hip-Hop and Grime artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bramble, Edinburgh on Fri, 6 Nov 2026.
 
-Cakiebiscuits is a hip-hop and grime artist based in United Kingdom, with 10 gigs on soundcheck across Edinburgh. Often billed alongside Humza, m1 and monicat. Next up: Sneaky Pete's, Edinburgh on Sun 29 Nov.
+Cakiebiscuits is a hip-hop and grime artist based in United Kingdom, with 11 gigs on soundcheck across Edinburgh. Often billed alongside Humza, m1 and monicat. Next up: Bramble, Edinburgh on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | Bramble | Edinburgh |
 | Sun, 29 Nov 2026 | Sneaky Pete's | Edinburgh |
 
 ## Recently played

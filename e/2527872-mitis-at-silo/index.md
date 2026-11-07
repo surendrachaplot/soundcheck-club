@@ -1,6 +1,6 @@
 # MitiS at SILO
 
-MitiS at SILO on Fri 6 Nov, New York City. Drum & Bass and Dubstep. See the line-up on soundcheck.
+MitiS at SILO on Fri 6 Nov, New York City. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

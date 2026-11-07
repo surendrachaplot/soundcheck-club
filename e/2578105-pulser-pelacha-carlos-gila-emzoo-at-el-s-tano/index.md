@@ -1,6 +1,6 @@
-# Pulser: Pelacha, Carlos Gila, Emzoo at EL SÓTANO
+# Pulser: Pelacha, Carlos Gila, EMZOO at EL SÓTANO
 
-Pulser: Pelacha, Carlos Gila, Emzoo at EL SÓTANO on Fri 25 Dec, Madrid. 1 artist: Pelacha. Techno. See the line-up on soundcheck.
+Pulser: Pelacha, Carlos Gila, EMZOO at EL SÓTANO on Fri 25 Dec, Madrid. 1 artist: Pelacha. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

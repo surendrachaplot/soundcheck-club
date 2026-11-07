@@ -1,6 +1,6 @@
 # Ulu Cliffhouse
 
-Ulu Cliffhouse is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Blueprint - Cliffside" on Sat, 7 Nov 2026.
+Ulu Cliffhouse is a music venue in Bali with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "Blueprint - Cliffside" on Sat, 7 Nov 2026.
 
 Ulu Cliffhouse is a music venue in Bali listed on soundcheck. 1 upcoming gig, with line-ups including Ben Nott, Francesco Castelli, COLAS and Scotty Cal. See dates, start times and who's playing. Jl. Labuan Sait No. 315, Padang-Padang, Bali, Indonesia.
 
@@ -14,4 +14,4 @@ Ulu Cliffhouse is a music venue in Bali listed on soundcheck. 1 upcoming gig, wi
 
 Jl. Labuan Sait No. 315, Padang-Padang, Bali, Indonesia, Bali
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/ulu-cliffhouse/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/bali/club/ulu-cliffhouse/)*

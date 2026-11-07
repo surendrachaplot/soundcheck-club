@@ -1,8 +1,8 @@
 # Phonox
 
-Phonox is a music venue in London with 44 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party)" on Fri, 6 Nov 2026.
+Phonox is a music venue in London with 45 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party)" on Fri, 6 Nov 2026.
 
-Phonox is a music venue in London listed on soundcheck. 44 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Angel D'lite, Billy Daniel Bunter and Cameo Blush and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 45 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Angel D'lite, Billy Daniel Bunter and Cameo Blush and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 

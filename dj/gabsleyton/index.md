@@ -1,14 +1,15 @@
 # Gabs Leyton
 
-Gabs Leyton is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
+Gabs Leyton is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Studio dB, Berlin on Fri, 13 Nov 2026.
 
-Gabs Leyton is a house and techno artist, with 33 gigs on soundcheck across Berlin. Often billed alongside Javier Anxiety, Lea Czychy and Moehecan. Next up: Studio dB, Berlin on Fri 13 Nov.
+Gabs Leyton is a house and disco artist, with 34 gigs on soundcheck across Berlin. Often billed alongside Javier Anxiety, Lea Czychy and Moehecan. Next up: Studio dB, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Studio dB | Berlin |
+| Sat, 21 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 

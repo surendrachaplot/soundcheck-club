@@ -1,8 +1,8 @@
 # Jane Fitz
 
-Jane Fitz is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Jane Fitz is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
 
-Jane Fitz is a techno and house artist based in United Kingdom, with 197 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Carl H. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Jane Fitz is a techno and house artist based in United Kingdom, with 198 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Marco Shuttle, Francesco Del Garda and Carl H. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Jane Fitz is a techno and house artist based in United Kingdom, with 197 gigs on
 | Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
 | Fri, 2 Apr 2027 | TBA | Sheffield |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |
-| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
+| Fri, 28 May 2027 | Paraje Natural de la Ermita de los Tres Juanes | South |
 
 ## Recently played
 

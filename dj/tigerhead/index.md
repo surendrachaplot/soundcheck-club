@@ -1,14 +1,13 @@
 # Tigerhead
 
-Tigerhead is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 6 Nov 2026.
+Tigerhead is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at AUX Club, Athens on Sat, 14 Nov 2026.
 
-Tigerhead is a techno and trance artist, with 76 gigs on soundcheck across Athens, Atlanta, Basel and Berlin and 31 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: Pisco Bar, Kuala Lumpur on Fri 6 Nov.
+Tigerhead is a techno and trance artist, with 76 gigs on soundcheck across Athens, Atlanta, Basel and Berlin and 31 more. Often billed alongside Ellen Allien, Bours? and Beau Didier. Next up: AUX Club, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Pisco Bar | Kuala Lumpur |
 | Sat, 14 Nov 2026 | AUX Club | Athens |
 | Sat, 12 Dec 2026 | OST | Berlin |
 

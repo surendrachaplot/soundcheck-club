@@ -1,8 +1,8 @@
-# maxi.milian
+# Maxi
 
-maxi.milian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
+Maxi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 28 Nov 2026.
 
-maxi.milian is a house and techno artist based in China, with 15 gigs on soundcheck across Hong Kong. Often billed alongside suz eq, enzyme and Vence. Next up: 宀 Club, Hong Kong on Sat 28 Nov.
+Maxi is a house and techno artist based in China, with 15 gigs on soundcheck across Hong Kong. Often billed alongside suz eq, enzyme and Vence. Next up: 宀 Club, Hong Kong on Sat 28 Nov.
 
 ## Upcoming shows
 

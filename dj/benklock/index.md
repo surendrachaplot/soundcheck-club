@@ -1,8 +1,8 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Universe Athens, Athens on Sat, 7 Nov 2026.
+Ben Klock is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Universe Athens, Athens on Sat, 7 Nov 2026.
 
-Ben Klock is a techno and house artist based in Germany, with 302 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 74 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: Universe Athens, Athens on Sat 7 Nov.
+Ben Klock is a techno and house artist based in Germany, with 303 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 75 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: Universe Athens, Athens on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Ben Klock is a techno and house artist based in Germany, with 302 gigs on soundc
 | Sat, 5 Dec 2026 | fabric | London |
 | Sat, 12 Dec 2026 | Phantom, Paris | Paris |
 | Fri, 18 Dec 2026 | Gate Milano | Milan |
+| Sat, 19 Dec 2026 | Open Ground | Wuppertal |
 | Sat, 20 Feb 2027 | TBA - Warehouse Location | Toronto |
 | Sat, 27 Mar 2027 | NDSM Docklands | Amsterdam |
 | Sat, 3 Apr 2027 | Maimarkthalle | Mannheim |

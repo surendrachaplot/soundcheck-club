@@ -8,7 +8,7 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 19 
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Bounce SF: Ueberrest, Flash Gea, & dj try | Flash Gea, Lil Laurie, Ueberrest, dj try (US) |
+| Fri, 6 Nov 2026 | Bounce SF: Ueberrest, Flash Gea, & dj try | DJ Try (US), Flash Gea, Lil Laurie, Ueberrest |
 | Fri, 6 Nov 2026 | fieldtest: DJ Koolt, Naone | DJ Koolt, Milli Meng, Naone |
 | Sat, 7 Nov 2026 | DR. GABBA, Narciss, Dazegxd presented by Public Works, STRAPT & Flux Aeterna | 40split, Buck Wilson, DR. GABBA, Dazegxd, Narciss, Quiet Pack, Taraneh |
 | Fri, 13 Nov 2026 | QUEEN OUT FINALE PT 1: Bianca Oblivion, BabiDoll | BabiDoll, Bianca Oblivion, MAMA SAN, Queermom |

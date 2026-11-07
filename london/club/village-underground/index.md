@@ -10,13 +10,13 @@ Village Underground is a music venue in London listed on soundcheck. 16 upcoming
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Eastern Margins x Asian Paper: DJ Billybool & More | amil raja |
 | Fri, 13 Nov 2026 | Red Axes - Village Underground | Harri Pepper, Red Axes |
-| Sat, 14 Nov 2026 | Mechatok & Natural Mind presents: Peace of Mind | Mechatok, Mobilegirl, TOXE, aeriform |
+| Sat, 14 Nov 2026 | Natural Mind: Mechatok, TOXE, Mobilegirl, sixzino +++ more  | Mechatok, Mobilegirl, TOXE, aeriform |
 | Sat, 14 Nov 2026 | TOXE (Live) - Village Underground | TOXE |
 | Sat, 14 Nov 2026 | sixzino - Village Underground |  |
 | Fri, 27 Nov 2026 | Labyrinth presents: Distruction Boyz |  |
 | Sat, 28 Nov 2026 | Keeno LIVE ft Vibre Strings | Keeno |
 | Sat, 28 Nov 2026 | Ella Knight's House Party | Ella Knight |
-| Sat, 5 Dec 2026 | RIRIA presents 'Floating' - Village Underground | RIRIA |
+| Sat, 5 Dec 2026 | RIRIA presents 'Floating' - Village Underground | Girls Don't Sync, Matty Chiabi, RIRIA, SHUFFA |
 | Sat, 12 Dec 2026 | Dubstep Since Dubstep: Caspa, N-Type, Warrior Queen, SGT Pokes ++more [Powered by PK Sound]  | Caspa, Deep Tempo, N-Type, SGT Pokes, Warrior Queen |
 
 ## Address

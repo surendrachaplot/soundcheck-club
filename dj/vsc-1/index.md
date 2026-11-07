@@ -1,8 +1,8 @@
 # VSC (1)
 
-VSC (1) is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+VSC (1) is a Bass and Dub artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
-VSC is a bass and dub artist based in Italy, with 16 gigs on soundcheck across Amsterdam, Berlin and Rome. Often billed alongside Her Nice Too, Mantis (IT) and Prest. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
+VSC is a bass and dub artist based in Italy, with 17 gigs on soundcheck across Amsterdam, Berlin and Rome. Often billed alongside Her Nice Too, Mantis (IT) and Prest. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ VSC is a bass and dub artist based in Italy, with 16 gigs on soundcheck across A
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TILLATEC | Amsterdam |
 | Sat, 7 Nov 2026 | Renate | Berlin |
+| Sat, 21 Nov 2026 | Brancaleone | Rome |
 
 ## Recently played
 

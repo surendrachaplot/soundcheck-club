@@ -1,14 +1,15 @@
 # Kike Pravda
 
-Kike Pravda is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuchs2, Prague on Fri, 13 Nov 2026.
+Kike Pravda is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Fuchs2, Prague on Fri, 13 Nov 2026.
 
-Kike Pravda is a techno and dub techno artist based in Spain, with 25 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bratislava and 9 more. Often billed alongside Dexon, Marco Ramos and Nebari. Next up: Fuchs2, Prague on Fri 13 Nov.
+Kike Pravda is a techno and dub techno artist based in Spain, with 26 gigs on soundcheck across Amsterdam, Athens, Barcelona and Bratislava and 9 more. Often billed alongside Dexon, Marco Ramos and Nebari. Next up: Fuchs2, Prague on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Fuchs2 | Prague |
+| Sat, 12 Dec 2026 | TBA - ENTITY poderes by Void Acostics | Madrid |
 
 ## Recently played
 

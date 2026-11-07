@@ -10,7 +10,7 @@ Colour Factory is a music venue in London listed on soundcheck. 27 upcoming gigs
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Labyrinth presents: J Gadget - Groove with Gadget |  |
 | Sat, 7 Nov 2026 | Fever 105: Breakbot, System Olympia, Theon Bower, Metroplane + more | Aeroplane, Alex Metric, Breakbot, System Olympia, Theon Bower |
-| Fri, 13 Nov 2026 | Origins: DJ Assault + more TBA | DJ Assault |
+| Fri, 13 Nov 2026 | Origins: DJ Assault + more TBA | DJ Assault, Zaleel |
 | Fri, 13 Nov 2026 | PETERBLUE - The Mezz, Colour Factory | Lolli, PETERBLUE |
 | Sat, 14 Nov 2026 | Bubbledee: House Music Haven in Hackney Wick at Colour Factory Loft | Andrea Giudice, Grittrip, Larry Cadge, Mono Dust_ |
 | Sat, 14 Nov 2026 | Jensen Interceptor, Darwin, Jay Carder, and Tim Reaper | Darwin, Jay Carder, Jensen Interceptor, Tim Reaper |

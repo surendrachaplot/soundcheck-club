@@ -1,8 +1,8 @@
 # Fafi Abdel Nour
 
-Fafi Abdel Nour is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Trabendo, Paris on Sat, 7 Nov 2026.
+Fafi Abdel Nour is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Le Trabendo, Paris on Sat, 7 Nov 2026.
 
-Fafi Abdel Nour is a house and techno artist based in Netherlands, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Jennifer Loveless, Shanti Celeste and ISAbella. Next up: Le Trabendo, Paris on Sat 7 Nov.
+Fafi Abdel Nour is a house and techno artist based in Netherlands, with 232 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Jennifer Loveless, Shanti Celeste and ISAbella. Next up: Le Trabendo, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Fafi Abdel Nour is a house and techno artist based in Netherlands, with 231 gigs
 | Wed, 11 Nov 2026 | TBA - Ghent | Ghent |
 | Sat, 14 Nov 2026 | fabric | London |
 | Fri, 11 Dec 2026 | FLUCC | Vienna |
+| Fri, 18 Dec 2026 | Ancienne Belgique (AB) | Brussels |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 | Sun, 27 Dec 2026 | Lofi | Amsterdam |
 | Thu, 31 Dec 2026 | OXI | Berlin |

@@ -1,14 +1,15 @@
 # Kovvalsky
 
-Kovvalsky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Mastak, Warsaw on Fri, 6 Nov 2026.
+Kovvalsky is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Mastak, Warsaw on Fri, 6 Nov 2026.
 
-Kovvalsky is a techno and house artist based in Poland, with 92 gigs on soundcheck across Berlin, Krakow, Milan and New York City and 6 more. Often billed alongside Pitti Schmitti, dd (PL) and Olivia. Next up: Mastak, Warsaw on Fri 6 Nov.
+Kovvalsky is a techno and house artist based in Poland, with 93 gigs on soundcheck across Berlin, Krakow, Milan and New York City and 6 more. Often billed alongside Pitti Schmitti, dd (PL) and Olivia. Next up: Mastak, Warsaw on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Mastak | Warsaw |
+| Sat, 28 Nov 2026 | Jasna 1 | Warsaw |
 
 ## Recently played
 

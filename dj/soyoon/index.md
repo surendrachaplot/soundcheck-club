@@ -1,14 +1,15 @@
 # Soyoon
 
-Soyoon is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at A-Side, Paris on Fri, 13 Nov 2026.
+Soyoon is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at A-Side, Paris on Fri, 13 Nov 2026.
 
-Soyoon is a techno and trance artist based in South Korea, with 106 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 15 more. Often billed alongside Maï-Linh, GTI and Youl. Next up: A-Side, Paris on Fri 13 Nov.
+Soyoon is a techno and trance artist based in South Korea, with 107 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bordeaux and 16 more. Often billed alongside Maï-Linh, GTI and Youl. Next up: A-Side, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | A-Side | Paris |
+| Sat, 14 Nov 2026 | Tokonoma Club | Frankfurt |
 
 ## Recently played
 

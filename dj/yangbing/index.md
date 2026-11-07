@@ -1,14 +1,13 @@
 # Yang Bing
 
-Yang Bing is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Comeout Rider Station, Chongqing on Fri, 6 Nov 2026.
+Yang Bing is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Cici Park, Chongqing on Sat, 12 Dec 2026.
 
-Yang Bing is a techno and house artist based in China, with 82 gigs on soundcheck across Beijing, Belgrade, Berlin and Chengdu and 3 more. Often billed alongside DJ-BLUE, Jeff Chong and DJ Eric Lee. Next up: Comeout Rider Station, Chongqing on Fri 6 Nov.
+Yang Bing is a techno and house artist based in China, with 82 gigs on soundcheck across Beijing, Belgrade, Berlin and Chengdu and 3 more. Often billed alongside DJ-BLUE, Jeff Chong and DJ Eric Lee. Next up: Cici Park, Chongqing on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Comeout Rider Station | Chongqing |
 | Sat, 12 Dec 2026 | Cici Park | Chongqing |
 
 ## Recently played

@@ -1,6 +1,6 @@
 # Katernacht with Lea Lisa, Monty Luke, Mike Shannon, Sabine Hoffmann + more at Kater
 
-Katernacht with Lea Lisa, Monty Luke, Mike Shannon, Sabine Hoffmann + more on Sat 5 Dec, Berlin. 9 artists: Balthazar Martinez, Lea Lisa, Manolo. (DE) and Mike Shannon and 5 more. House and Minimal. See the line-up on soundcheck.
+Katernacht with Lea Lisa, Monty Luke, Mike Shannon, Sabine Hoffmann + more on Sat 5 Dec, Berlin. 10 artists: Balthazar Martinez, Karl Kobs, Lea Lisa and Manolo. (DE) and 6 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Katernacht with Lea Lisa, Monty Luke, Mike Shannon, Sabine Hoffmann + more on Sa
 ## Line-up
 
 - Balthazar Martinez
+- Karl Kobs
 - Lea Lisa
 - Manolo. (DE)
 - Mike Shannon

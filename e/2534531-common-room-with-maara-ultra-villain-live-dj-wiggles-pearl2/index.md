@@ -1,6 +1,6 @@
 # common room with Maara (Ultra Villain live) / Dj wiggles / Pearl2 (live) / Nusheen at Ormside Projects
 
-common room with Maara (Ultra Villain live) / Dj wiggles / Pearl2 (live) / Nusheen at Ormside Projects on Fri 20 Nov, London. 3 artists: Dj wiggles, Maara and Nusheen. Downtempo and Experimental. See the line-up on soundcheck.
+common room with Maara (Ultra Villain live) / Dj wiggles / Pearl2 (live) / Nusheen at Ormside Projects on Fri 20 Nov, London. 3 artists: Dj wiggles, Maara and Nusheen. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

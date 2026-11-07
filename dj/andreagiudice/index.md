@@ -21,7 +21,7 @@ Andrea Giudice is a house and tech house artist based in Italy, with 114 gigs on
 
 - TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London · Sat, 31 Oct 2026
 - Colour Factory, London · Sat, 24 Oct 2026
-- Colour Factory, London · Sat, 24 Oct 2026
+- Colour Factory, London · Sat, 17 Oct 2026
 - Fabwick, London · Sun, 20 Sept 2026
 - Colour Factory, London · Sat, 19 Sept 2026
 - Gallery, London · Thu, 6 Aug 2026

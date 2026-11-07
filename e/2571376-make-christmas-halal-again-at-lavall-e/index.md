@@ -1,6 +1,6 @@
 # Make Christmas Halal Again at Lavallée
 
-Make Christmas Halal Again at Lavallée on Fri 4 Dec, Brussels. 1 artist: Sherine Falasteen. Disco and Pop. See the line-up on soundcheck.
+Make Christmas Halal Again at Lavallée on Fri 4 Dec, Brussels. 1 artist: Sherine Falasteen. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

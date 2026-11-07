@@ -10,7 +10,7 @@ M.O.T is a music venue in London listed on soundcheck. 38 upcoming gigs, with li
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Suplex Round 3: The Bermondsey Body Slam w/ Minor Science & livwutang | Compliments, DJ Trebuchet, Daksh, Minor Science, livwutang |
 | Fri, 6 Nov 2026 | Slipline with Felix Dickinson & Noizar | Felix Dickinson, Noizar, Thoughtful Ken |
-| Sat, 7 Nov 2026 | Workforce (Extended Set), Ephyra (Liquid Set), Blackeye MC at Venue M.O.T  | Blackeye MC, Workforce |
+| Sat, 7 Nov 2026 | Workforce (Extended Set), Ephyra (Liquid Set), Blackeye MC ++3 unannounced guests @ Venue MOT  | Blackeye MC, Workforce |
 | Sat, 7 Nov 2026 | Perc, Ansome (live), Livid, SISSY MISFIT, Baba Ibra | Ansome, Livid (UK), Perc, SISSY MISFIT, Strahlung |
 | Wed, 11 Nov 2026 | MADDISON WINDFARM / WEHMUT + more |  |
 | Wed, 11 Nov 2026 | genre[fatigue] - AV | m-onz, m̶a̶h̶[alias] |

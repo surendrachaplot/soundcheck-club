@@ -1,6 +1,6 @@
 # Transit
 
-Transit is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Broken Mokum - broken beat" on Fri, 27 Nov 2026.
+Transit is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "Broken Mokum - broken beat" on Fri, 27 Nov 2026.
 
 Transit is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Calypso Steve and Nikolai. See dates, start times and who's playing. Aambeeldstraat 38, 1021 KB Amsterdam.
 
@@ -15,4 +15,4 @@ Transit is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, wit
 
 Aambeeldstraat 38, 1021 KB Amsterdam, Amsterdam
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/transit/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/transit/)*

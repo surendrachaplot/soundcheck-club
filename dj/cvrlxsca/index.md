@@ -9,7 +9,7 @@ CVRLXS CA is a techno artist based in Spain, with 6 gigs on soundcheck across Ma
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Lasociaciøn | Madrid |
-| Sat, 12 Dec 2026 | Studio76 Club | Madrid |
+| Sat, 12 Dec 2026 | TBA - ENTITY poderes by Void Acostics | Madrid |
 
 ## Recently played
 

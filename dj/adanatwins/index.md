@@ -1,14 +1,15 @@
 # Adana Twins
 
-Adana Twins is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Kastel, Istanbul on Fri, 20 Nov 2026.
+Adana Twins is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kastel, Istanbul on Fri, 20 Nov 2026.
 
-Adana Twins is a techno and house artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Andhim, Cole Knight and Colyn. Next up: Kastel, Istanbul on Fri 20 Nov.
+Adana Twins is a techno and house artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Andhim, Colyn and Cole Knight. Next up: Kastel, Istanbul on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Kastel | Istanbul |
+| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Adana Twins is a techno and house artist based in Germany, with 86 gigs on sound
 
 ## Shares bills with
 
-Andhim, Cole Knight, Colyn
+Andhim, Colyn, Cole Knight
 
 *Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adanatwins/)*

@@ -1,13 +1,14 @@
 # Gai Barone
 
-Gai Barone is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Gai Barone is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-Gai Barone is a progressive house and deep house artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Ljubljana and 7 more. Often billed alongside Aubrey Fry, Kasey Taylor and Not Demure. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
+Gai Barone is a progressive house and deep house artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Ibiza and 8 more. Often billed alongside Kasey Taylor, Aubrey Fry and Not Demure. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | TBA | Buenos Aires |
 | Sat, 5 Dec 2026 | TBA - Hacienda La Luna, Morelos Mexico. | Morelos |
 
 ## Recently played
@@ -23,6 +24,6 @@ Gai Barone is a progressive house and deep house artist based in Italy, with 22 
 
 ## Shares bills with
 
-Aubrey Fry, Kasey Taylor, Not Demure
+Kasey Taylor, Aubrey Fry, Not Demure
 
 *Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gaibarone/)*

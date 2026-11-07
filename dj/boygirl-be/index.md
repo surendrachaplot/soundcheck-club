@@ -1,0 +1,26 @@
+# BOY&GIRL
+
+BOY&GIRL is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Ancienne Belgique (AB), Brussels on Fri, 18 Dec 2026.
+
+BOY&GIRL is a techno and trance artist based in Belgium, with 7 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Ghent. Often billed alongside L.zwo, 2HOT2PLAY and ASLO. Next up: Ancienne Belgique (AB), Brussels on Fri 18 Dec.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 18 Dec 2026 | Ancienne Belgique (AB) | Brussels |
+
+## Recently played
+
+- The Bulldog Palace, Amsterdam · Sat, 24 Oct 2026
+- Amsterdam Central Station, Amsterdam · Sat, 24 Oct 2026
+- Kompass Klub, Ghent · Fri, 2 Oct 2026
+- Château Moderne, Brussels · Sat, 19 Sept 2026
+- Antwerp Expo, Antwerp · Sun, 23 Aug 2026
+- Mont des Arts, Brussels · Sat, 20 Jun 2026
+
+## Shares bills with
+
+L.zwo, 2HOT2PLAY, ASLO
+
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boygirl-be/)*

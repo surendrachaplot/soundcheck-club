@@ -1,13 +1,14 @@
 # Rowland
 
-Rowland is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Concept Haus, Manchester on Sat, 21 Nov 2026.
+Rowland is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
 
-Rowland is a techno and house artist based in United Kingdom, with 16 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Mezla, Lucky Penny and Basic Function. Next up: Concept Haus, Manchester on Sat 21 Nov.
+Rowland is a techno and house artist based in United Kingdom, with 17 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Mezla, Lucky Penny and Basic Function. Next up: Hoxton Cabin, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Hoxton Cabin | London |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
 
 ## Recently played

@@ -2,7 +2,7 @@
 
 AKOMPANIAMENT is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Paramour, Brussels on Sat, 5 Dec 2026.
 
-AKOMPANIAMENT is a techno and bass artist, with 28 gigs on soundcheck across Antwerp, Berlin, Brussels and Gdansk and 4 more. Often billed alongside MATRIX3K, Buchan and Contakt (PL). Next up: Paramour, Brussels on Sat 5 Dec.
+AKOMPANIAMENT is a techno and bass artist based in Poland, with 28 gigs on soundcheck across Antwerp, Berlin, Brussels and Gdansk and 4 more. Often billed alongside MATRIX3K, Buchan and Contakt (PL). Next up: Paramour, Brussels on Sat 5 Dec.
 
 ## Upcoming shows
 

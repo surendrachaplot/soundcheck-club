@@ -1,6 +1,6 @@
 # VERBIND - Season Opening at Studionotte at Studionotte
 
-VERBIND - Season Opening at Studionotte on Sat 7 Nov, Milan. 7 artists: Arkan, Border One, Ditzy and Exergic and 3 more. Techno and Electronica. See the line-up on soundcheck.
+VERBIND - Season Opening at Studionotte on Sat 7 Nov, Milan. 8 artists: Arkan, Border One, Ditzy and Exergic and 4 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ VERBIND - Season Opening at Studionotte on Sat 7 Nov, Milan. 7 artists: Arkan, B
 - Exergic
 - KLËRR
 - Münich
+- Nuance
 - RIBLX
 
 *Source: [soundcheck](https://soundcheck.club/e/2556109-verbind-season-opening-at-studionotte-at-studionotte/)*

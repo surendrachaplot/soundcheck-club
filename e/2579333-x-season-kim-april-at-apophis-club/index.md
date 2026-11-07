@@ -1,0 +1,15 @@
+# X Season: Kim April at Apophis Club
+
+X Season: Kim April at Apophis Club on Sat 28 Nov, Milan. 1 artist: Kim April. Deep House and Electronica. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 28 Nov 2026 |
+| Venue | Apophis Club |
+| City | Milan |
+
+## Line-up
+
+- Kim April
+
+*Source: [soundcheck](https://soundcheck.club/e/2579333-x-season-kim-april-at-apophis-club/)*

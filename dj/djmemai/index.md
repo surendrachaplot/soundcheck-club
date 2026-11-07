@@ -1,13 +1,14 @@
 # DJ MEMAI
 
-DJ MEMAI is a Experimental and Noise artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Forestlimit, Tokyo on Thu, 19 Nov 2026.
+DJ MEMAI is a Experimental and Noise artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Forestlimit, Tokyo on Sat, 14 Nov 2026.
 
-DJ MEMAI is an experimental and noise artist based in Japan, with 17 gigs on soundcheck across Tokyo. Often billed alongside Cal Lyall, POPPO and Yan (CZ). Next up: Forestlimit, Tokyo on Thu 19 Nov.
+DJ MEMAI is an experimental and noise artist based in Japan, with 18 gigs on soundcheck across Tokyo. Often billed alongside Cal Lyall, Oshi and POPPO. Next up: Forestlimit, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Forestlimit | Tokyo |
 | Thu, 19 Nov 2026 | Forestlimit | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ MEMAI is an experimental and noise artist based in Japan, with 17 gigs on sou
 
 ## Shares bills with
 
-Cal Lyall, POPPO, Yan (CZ)
+Cal Lyall, Oshi, POPPO
 
 *Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmemai/)*

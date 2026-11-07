@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Playhaus at Tresor / Globus
 
-Tresor New Faces hosted by Playhaus at Tresor / Globus on Wed 9 Dec, Berlin. 3 artists: Bridontknow, Neutran and STAANA. Techno and House. See the line-up on soundcheck.
+Tresor New Faces hosted by Playhaus at Tresor / Globus on Wed 9 Dec, Berlin. 4 artists: Bridontknow, Neutran, STAANA and V€$T MANNIE. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,5 +13,6 @@ Tresor New Faces hosted by Playhaus at Tresor / Globus on Wed 9 Dec, Berlin. 3 a
 - Bridontknow
 - Neutran
 - STAANA
+- V€$T MANNIE
 
 *Source: [soundcheck](https://soundcheck.club/e/2572486-tresor-new-faces-hosted-by-playhaus-at-tresor-globus/)*

@@ -1,14 +1,13 @@
 # Taichi Nagayama
 
-Taichi Nagayama is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Azumaya, Tokyo on Fri, 6 Nov 2026.
+Taichi Nagayama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Daikanyama ORD., Tokyo on Wed, 25 Nov 2026.
 
-Taichi Nagayama is a house and techno artist based in Japan, with 43 gigs on soundcheck across Tokyo. Often billed alongside MIZUKI OGISU, Masahide Ohno and niwa. Next up: Azumaya, Tokyo on Fri 6 Nov.
+Taichi Nagayama is a house and techno artist based in Japan, with 43 gigs on soundcheck across Tokyo. Often billed alongside MIZUKI OGISU, Masahide Ohno and niwa. Next up: Daikanyama ORD., Tokyo on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Azumaya | Tokyo |
 | Wed, 25 Nov 2026 | Daikanyama ORD. | Tokyo |
 
 ## Recently played

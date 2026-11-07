@@ -1,13 +1,14 @@
 # Nestor (IE)
 
-Nestor (IE) is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Eastern Bloc Records, Manchester on Sat, 28 Nov 2026.
+Nestor (IE) is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Stage and Radio, Manchester on Sat, 7 Nov 2026.
 
-Nestor (IE) is a techno and electro artist based in Ireland, with 16 gigs on soundcheck across Cork, Dublin and Manchester. Often billed alongside GFA, Gary Sloan and Kerrie. Next up: Eastern Bloc Records, Manchester on Sat 28 Nov.
+Nestor (IE) is a techno and electro artist based in Ireland, with 17 gigs on soundcheck across Cork, Dublin and Manchester. Often billed alongside GFA, Gary Sloan and Kerrie. Next up: Stage and Radio, Manchester on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Stage and Radio | Manchester |
 | Sat, 28 Nov 2026 | Eastern Bloc Records | Manchester |
 | Sat, 12 Dec 2026 | The White Hotel | Manchester |
 

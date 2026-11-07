@@ -1,14 +1,15 @@
 # Mimmo Errico
 
-Mimmo Errico is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Akira Back Club , Rome on Sat, 7 Nov 2026.
+Mimmo Errico is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Akira Back Club , Rome on Sat, 7 Nov 2026.
 
-Mimmo Errico is a house and afro house artist based in Italy, with 47 gigs on soundcheck across Barcelona, Hannover, Ibiza and Los Angeles and 2 more. Often billed alongside Viktor Martini, Frank Master and Dexter. Next up: TBA - Akira Back Club , Rome on Sat 7 Nov.
+Mimmo Errico is an afro house and house artist based in Italy, with 48 gigs on soundcheck across Barcelona, Hannover, Ibiza and Los Angeles and 2 more. Often billed alongside Viktor Martini, Frank Master and Dexter. Next up: TBA - Akira Back Club , Rome on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | TBA - Akira Back Club  | Rome |
+| Thu, 12 Nov 2026 | TBA - Chorus Club | Rome |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # Run Away Festival - New Years Eve at Chelmsford City Racecourse
 
-Run Away Festival - New Years Eve at Chelmsford City Racecourse on Thu 31 Dec, London. 24 artists: Benji King, Billy Daniel Bunter, Captain Wallop and Chopper (UK) and 20 more. House. See the line-up on soundcheck.
+Run Away Festival - New Years Eve at Chelmsford City Racecourse on Thu 31 Dec, London. 25 artists: Beave, Benji King, Billy Daniel Bunter and Captain Wallop and 21 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Run Away Festival - New Years Eve at Chelmsford City Racecourse on Thu 31 Dec, L
 
 ## Line-up
 
+- Beave
 - Benji King
 - Billy Daniel Bunter
 - Captain Wallop

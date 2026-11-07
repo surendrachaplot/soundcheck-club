@@ -1,6 +1,6 @@
 # 06 DEC - Thuishaven with Mr. Belt & Wezol / Hidde van Wee / Beave at Thuishaven
 
-06 DEC - Thuishaven with Mr. Belt & Wezol / Hidde van Wee / Beave on Sun 6 Dec, Amsterdam. 4 artists: Hidde van Wee, James Poole, Marijn Jansen and Mr. Belt & Wezol. See the line-up on soundcheck.
+06 DEC - Thuishaven with Mr. Belt & Wezol / Hidde van Wee / Beave on Sun 6 Dec, Amsterdam. 5 artists: Beave, Hidde van Wee, James Poole and Marijn Jansen and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@
 
 ## Line-up
 
+- Beave
 - Hidde van Wee
 - James Poole
 - Marijn Jansen

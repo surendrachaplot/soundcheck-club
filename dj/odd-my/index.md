@@ -1,14 +1,13 @@
 # Odd (MY)
 
-Odd (MY) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 6 Nov 2026.
+Odd (MY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Pisco Bar, Kuala Lumpur on Fri, 13 Nov 2026.
 
-Odd (MY) is a techno and house artist based in Malaysia, with 47 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Meliha and JonnyVicious. Next up: Pisco Bar, Kuala Lumpur on Fri 6 Nov.
+Odd (MY) is a techno and house artist based in Malaysia, with 47 gigs on soundcheck across Kuala Lumpur. Often billed alongside Alam, Meliha and JonnyVicious. Next up: Pisco Bar, Kuala Lumpur on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Pisco Bar | Kuala Lumpur |
 | Fri, 13 Nov 2026 | Pisco Bar | Kuala Lumpur |
 | Sat, 14 Nov 2026 | TBA - JOLOKO | Kuala Lumpur |
 

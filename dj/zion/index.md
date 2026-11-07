@@ -1,13 +1,14 @@
 # Zion
 
-Zion is a Afrobeats and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bolero, Seoul on Sat, 14 Nov 2026.
+Zion is a Afrobeats and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bolero, Seoul on Sat, 14 Nov 2026.
 
-Zion is an afrobeats and house artist based in South Korea, with 108 gigs on soundcheck across Hong Kong, Osaka and Seoul. Often billed alongside Xena (KR), Minish and Yuzo. Next up: Bolero, Seoul on Sat 14 Nov.
+Zion is an afrobeats and house artist based in South Korea, with 109 gigs on soundcheck across Hong Kong, Osaka and Seoul. Often billed alongside Xena (KR), Minish and Yuzo. Next up: Bolero, Seoul on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Bolero | Seoul |
 | Sat, 14 Nov 2026 | Bolero | Seoul |
 
 ## Recently played

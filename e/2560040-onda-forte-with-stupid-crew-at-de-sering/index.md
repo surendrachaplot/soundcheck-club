@@ -1,6 +1,6 @@
 # ONDA FORTE with Stupid Crew at De Sering
 
-ONDA FORTE with Stupid Crew at De Sering on Fri 6 Nov, Amsterdam. 5 artists: AAlva, Guiz, Not Yet and Pedro da Mata and 1 more. Bass and Baile Funk. See the line-up on soundcheck.
+ONDA FORTE with Stupid Crew at De Sering on Fri 6 Nov, Amsterdam. 5 artists: AAlva, Guiz, Not Yet and Pedro da Mata and 1 more. Baile Funk and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

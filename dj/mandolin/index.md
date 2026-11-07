@@ -1,14 +1,15 @@
 # Mandolin
 
-Mandolin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Liquidate, Manchester on Fri, 6 Nov 2026.
+Mandolin is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Liquidate, Manchester on Fri, 6 Nov 2026.
 
-Mandolin is a house and disco artist based in United Kingdom, with 5 gigs on soundcheck across Bristol and Manchester. Often billed alongside AdomasLP, Old Child and Tommy Cross. Next up: Liquidate, Manchester on Fri 6 Nov.
+Mandolin is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across Bristol and Manchester. Often billed alongside Old Child, AdomasLP and Babs. Next up: Liquidate, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Liquidate | Manchester |
+| Sat, 12 Dec 2026 | Morgan's Bar | Manchester |
 | Fri, 29 Jan 2027 | Eastern Bloc Records | Manchester |
 
 ## Recently played
@@ -19,6 +20,6 @@ Mandolin is a house and disco artist based in United Kingdom, with 5 gigs on sou
 
 ## Shares bills with
 
-AdomasLP, Old Child, Tommy Cross
+Old Child, AdomasLP, Babs (3)
 
 *Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mandolin/)*

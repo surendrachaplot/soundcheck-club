@@ -9,7 +9,7 @@ THANILA is a techno and house artist based in Spain, with 23 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Core | Madrid |
-| Sat, 7 Nov 2026 | TBA - LISBOA | Lisbon |
+| Sat, 7 Nov 2026 | Zero Club | Lisbon |
 | Thu, 19 Nov 2026 | Meteoro | Barcelona |
 
 ## Recently played

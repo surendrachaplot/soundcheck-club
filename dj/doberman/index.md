@@ -1,14 +1,13 @@
 # DOBERMAN
 
-DOBERMAN is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Grand Hyatt JJ Mahoney's, Seoul on Fri, 6 Nov 2026.
+DOBERMAN is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bolero, Seoul on Fri, 13 Nov 2026.
 
-DOBERMAN is a club and hip-hop artist based in South Korea, with 150 gigs on soundcheck across Kyoto, London and Seoul. Often billed alongside SKiiDA, ANDOW and Multivsn. Next up: TBA - Grand Hyatt JJ Mahoney's, Seoul on Fri 6 Nov.
+DOBERMAN is a club and hip-hop artist based in South Korea, with 150 gigs on soundcheck across Kyoto, London and Seoul. Often billed alongside SKiiDA, ANDOW and Multivsn. Next up: Bolero, Seoul on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Grand Hyatt JJ Mahoney's | Seoul |
 | Fri, 13 Nov 2026 | Bolero | Seoul |
 
 ## Recently played

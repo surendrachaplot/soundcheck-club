@@ -1,14 +1,15 @@
 # KMRU
 
-KMRU is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+KMRU is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-KMRU is an experimental and techno artist based in Kenya, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Carmen Villain, The Bug and Aho Ssan. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+KMRU is an experimental and techno artist based in Kenya, with 48 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 23 more. Often billed alongside Carmen Villain, The Bug and Aho Ssan. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
+| Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

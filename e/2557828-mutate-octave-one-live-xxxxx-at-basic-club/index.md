@@ -1,6 +1,6 @@
 # MUTATE • Octave One live + XXXXX at Basic Club
 
-MUTATE • Octave One live + XXXXX at Basic Club on Mon 7 Dec, Naples. 1 artist: Octave One. See the line-up on soundcheck.
+MUTATE • Octave One live + XXXXX at Basic Club on Mon 7 Dec, Naples. 1 artist: Octave One. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -2,7 +2,7 @@
 
 ELZACE is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at MODULE, Copenhagen on Sat, 14 Nov 2026.
 
-ELZACE is a house and deep house artist, with 8 gigs on soundcheck across Copenhagen and London. Often billed alongside Anja Schneider, BRADII and Brandon Marlo. Next up: MODULE, Copenhagen on Sat 14 Nov.
+ELZACE is a house and deep house artist based in United Kingdom, with 8 gigs on soundcheck across Copenhagen and London. Often billed alongside Anja Schneider, BRADII and Brandon Marlo. Next up: MODULE, Copenhagen on Sat 14 Nov.
 
 ## Upcoming shows
 

@@ -1,14 +1,13 @@
 # Savaya Bali
 
-Savaya Bali is a music venue in Bali with 24 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "¥ØU$UK€ ¥UK1MAT$U" on Fri, 6 Nov 2026.
+Savaya Bali is a music venue in Bali with 23 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Patrick Mason" on Sat, 7 Nov 2026.
 
-Savaya Bali is a music venue in Bali listed on soundcheck. 24 upcoming gigs, with line-ups including AMÉMÉ, Argy, BLOND:ISH and CamelPhat and 2 more. See dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
+Savaya Bali is a music venue in Bali listed on soundcheck. 23 upcoming gigs, with line-ups including AMÉMÉ, Argy, BLOND:ISH and CamelPhat and 2 more. See dates, start times and who's playing. Jl. Belimbing Sari, Banjar Tambiyak, Pecatu, Uluwatu, Kabupaten Badung, Bali 80364, Indonesia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | ¥ØU$UK€ ¥UK1MAT$U | ¥ØU$UK€ ¥UK1MAT$U |
 | Sat, 7 Nov 2026 | Patrick Mason | Patrick Mason |
 | Sun, 8 Nov 2026 | Elvis Guetta |  |
 | Sat, 14 Nov 2026 | MK | Marc Kinchen |
@@ -18,6 +17,7 @@ Savaya Bali is a music venue in Bali listed on soundcheck. 24 upcoming gigs, wit
 | Sat, 28 Nov 2026 | DJ Habibeats | DJ Habibeats |
 | Sun, 29 Nov 2026 | Joseph Capriati | Joseph Capriati |
 | Fri, 4 Dec 2026 | Defected | Sam Divine, TSHA |
+| Sat, 5 Dec 2026 | Mind Against | Mind Against |
 
 ## Address
 

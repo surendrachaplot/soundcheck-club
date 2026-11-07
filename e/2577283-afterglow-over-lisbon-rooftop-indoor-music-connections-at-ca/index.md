@@ -1,0 +1,15 @@
+# Afterglow: Over Lisbon · Rooftop & Indoor · music & connections at Cavo Rooftop
+
+Afterglow: Over Lisbon · Rooftop & Indoor · music & connections at Cavo Rooftop on Thu 12 Nov, Lisbon. 1 artist: kazarov. House and Tech House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Thu, 12 Nov 2026 |
+| Venue | Cavo Rooftop |
+| City | Lisbon |
+
+## Line-up
+
+- kazarov
+
+*Source: [soundcheck](https://soundcheck.club/e/2577283-afterglow-over-lisbon-rooftop-indoor-music-connections-at-ca/)*

@@ -1,14 +1,15 @@
 # Kokoprisci
 
-Kokoprisci is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at La Java, Paris on Fri, 13 Nov 2026.
+Kokoprisci is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at La Java, Paris on Fri, 13 Nov 2026.
 
-Kokoprisci is a house and techno artist based in France, with 39 gigs on soundcheck across Amsterdam, Bordeaux, Marseille and Oslo and 1 more. Often billed alongside Hyas, Tatyana Jane and Boys Noize. Next up: La Java, Paris on Fri 13 Nov.
+Kokoprisci is a house and techno artist based in France, with 40 gigs on soundcheck across Amsterdam, Bordeaux, Marseille and Oslo and 1 more. Often billed alongside Hyas, Tatyana Jane and Boys Noize. Next up: La Java, Paris on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | La Java | Paris |
+| Thu, 3 Dec 2026 | Le Poisson Volant | Paris |
 
 ## Recently played
 

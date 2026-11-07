@@ -1,6 +1,6 @@
 # KINKY GUIDE x STUDIO LOVEMASTERS: PRE-NYE SESSION at Coda Club
 
-KINKY GUIDE x STUDIO LOVEMASTERS: PRE-NYE SESSION at Coda Club on Wed 30 Dec, Hamburg. 3 artists: Henny Freiheit, Katja Ruge and Rausch & Farbe. Techno and House. See the line-up on soundcheck.
+KINKY GUIDE x STUDIO LOVEMASTERS: PRE-NYE SESSION at Coda Club on Wed 30 Dec, Hamburg. 4 artists: ENIDA, Henny Freiheit, Katja Ruge and Rausch & Farbe. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ KINKY GUIDE x STUDIO LOVEMASTERS: PRE-NYE SESSION at Coda Club on Wed 30 Dec, Ha
 
 ## Line-up
 
+- ENIDA
 - Henny Freiheit
 - Katja Ruge
 - Rausch & Farbe

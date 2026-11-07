@@ -1,14 +1,15 @@
 # NDSTPS
 
-NDSTPS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
+NDSTPS is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - El Invernadero, Madrid on Sat, 21 Nov 2026.
 
-NDSTPS is a techno and house artist based in Spain, with 28 gigs on soundcheck across Amsterdam, Berlin and Madrid. Often billed alongside Yeiks, BENZA and Reptile (ES). Next up: TBA - El Invernadero, Madrid on Sat 21 Nov.
+NDSTPS is a techno and house artist based in Spain, with 29 gigs on soundcheck across Amsterdam, Berlin and Madrid. Often billed alongside Yeiks, BENZA and Reptile (ES). Next up: TBA - El Invernadero, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - El Invernadero | Madrid |
+| Thu, 17 Dec 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
 

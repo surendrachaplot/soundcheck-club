@@ -2,7 +2,7 @@
 
 NOERA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Revolver Upstairs, Melbourne on Fri, 13 Nov 2026.
 
-NOERA is a house and techno artist, with 8 gigs on soundcheck across Melbourne, Milan and Rome. Often billed alongside ASURA., Aristo G and Dasha SPRW. Next up: Revolver Upstairs, Melbourne on Fri 13 Nov.
+NOERA is a house and techno artist based in Italy, with 8 gigs on soundcheck across Melbourne, Milan and Rome. Often billed alongside ASURA., Aristo G and Dasha SPRW. Next up: Revolver Upstairs, Melbourne on Fri 13 Nov.
 
 ## Upcoming shows
 

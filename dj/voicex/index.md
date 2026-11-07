@@ -1,14 +1,15 @@
 # VOICEX
 
-VOICEX is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
+VOICEX is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Fri, 6 Nov 2026.
 
-VOICEX is a techno and tech house artist based in Spain, with 22 gigs on soundcheck across Berlin, Hamburg and Madrid. Often billed alongside MAURER, PØVE and Cobb Douglas. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 6 Nov.
+VOICEX is a techno and tech house artist based in Spain, with 23 gigs on soundcheck across Berlin, Hamburg and Madrid. Often billed alongside MAURER, PØVE and Cobb Douglas. Next up: TBA - Powered by: Void Acoustics, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA - Powered by: Void Acoustics | Madrid |
+| Fri, 27 Nov 2026 | MS Stubnitz | Hamburg |
 
 ## Recently played
 

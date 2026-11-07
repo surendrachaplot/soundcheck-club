@@ -1,14 +1,15 @@
 # Rohan Rakhit
 
-Rohan Rakhit is a Broken Beat and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at NT's Loft, London on Fri, 4 Dec 2026.
+Rohan Rakhit is a Broken Beat and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at NT's Loft, London on Fri, 4 Dec 2026.
 
-Rohan Rakhit is a broken beat and house artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Leeds, Liverpool and London. Often billed alongside dOnüt, Soph and Raji Rags. Next up: NT's Loft, London on Fri 4 Dec.
+Rohan Rakhit is a broken beat and house artist based in United Kingdom, with 60 gigs on soundcheck across Berlin, Leeds, Liverpool and London. Often billed alongside dOnüt, Soph and Raji Rags. Next up: NT's Loft, London on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | NT's Loft | London |
+| Sun, 13 Dec 2026 | The Carpet Shop | London |
 
 ## Recently played
 

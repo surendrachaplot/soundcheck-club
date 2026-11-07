@@ -1,6 +1,6 @@
 # barStudio
 
-barStudio is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "disco rewind | karla brumi, erna frelli & hiroszyma" on Fri, 6 Nov 2026.
+barStudio is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "disco rewind | karla brumi, erna frelli & hiroszyma" on Fri, 6 Nov 2026.
 
 barStudio is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including Lazy1. See dates, start times and who's playing. plac Defilad 1, 00-901 Warszawa.
 
@@ -15,4 +15,4 @@ barStudio is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with
 
 plac Defilad 1, 00-901 Warszawa, Warsaw
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barstudio/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/barstudio/)*

@@ -1,8 +1,8 @@
 # Emily Jeanne
 
-Emily Jeanne is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 09h30-05h30, Antwerp on Sat, 7 Nov 2026.
+Emily Jeanne is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at 09h30-05h30, Antwerp on Sat, 7 Nov 2026.
 
-Emily Jeanne is a techno and house artist based in Belgium, with 112 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Carrier, DjRUM and upsammy. Next up: 09h30-05h30, Antwerp on Sat 7 Nov.
+Emily Jeanne is a techno and house artist based in Belgium, with 113 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Carrier, DjRUM and upsammy. Next up: 09h30-05h30, Antwerp on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Emily Jeanne is a techno and house artist based in Belgium, with 112 gigs on sou
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | 09h30-05h30 | Antwerp |
 | Sat, 28 Nov 2026 | Unmute | Hanoi |
+| Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

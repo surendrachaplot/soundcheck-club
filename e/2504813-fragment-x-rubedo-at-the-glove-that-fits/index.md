@@ -1,6 +1,6 @@
 # Fragment x Rubedo at The Glove That Fits
 
-Fragment x Rubedo at The Glove That Fits on Sun 20 Dec, London. 6 artists: Aniaef, dj people's princess, Noah Tauber and Shayleen Rose and 2 more. Techno. See the line-up on soundcheck.
+Fragment x Rubedo at The Glove That Fits on Sun 20 Dec, London. 7 artists: Aniaef, ANTØNIØ., dj people's princess and Noah Tauber and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Fragment x Rubedo at The Glove That Fits on Sun 20 Dec, London. 6 artists: Aniae
 ## Line-up
 
 - Aniaef
+- ANTØNIØ.
 - dj people's princess
 - Noah Tauber
 - Shayleen Rose

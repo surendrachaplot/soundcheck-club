@@ -1,14 +1,15 @@
 # annna (2)
 
-annna (2) is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Ikii, Berlin on Sun, 15 Nov 2026.
+annna (2) is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Ikii, Berlin on Sun, 15 Nov 2026.
 
-annna is a house and progressive house artist based in Bulgaria, with 36 gigs on soundcheck across Barcelona, Berlin, Frankfurt and London and 2 more. Often billed alongside cccvvv, Spray and DJ TEETH. Next up: Ikii, Berlin on Sun 15 Nov.
+annna is a house and progressive house artist based in Bulgaria, with 37 gigs on soundcheck across Barcelona, Berlin, Frankfurt and London and 2 more. Often billed alongside cccvvv, Spray and DJ TEETH. Next up: Ikii, Berlin on Sun 15 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 15 Nov 2026 | Ikii | Berlin |
+| Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

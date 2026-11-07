@@ -1,14 +1,15 @@
 # Holly Why
 
-Holly Why is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at fabric, London on Sun, 29 Nov 2026.
+Holly Why is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at fabric, London on Sun, 29 Nov 2026.
 
-Holly Why is a minimal and house artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Birmingham, Leeds and Liverpool and 3 more. Often billed alongside Damian Nova, Josh Demello and Kearun. Next up: fabric, London on Sun 29 Nov.
+Holly Why is a minimal and house artist based in United Kingdom, with 35 gigs on soundcheck across Berlin, Birmingham, Leeds and Liverpool and 3 more. Often billed alongside Damian Nova, Josh Demello and Kearun. Next up: fabric, London on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | fabric | London |
+| Sat, 16 Jan 2027 | Last Arch | London |
 
 ## Recently played
 

@@ -1,14 +1,13 @@
 # Kuzco
 
-Kuzco is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Angel Music Bar, Melbourne on Fri, 6 Nov 2026.
+Kuzco is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Kuzco is a house and deep house artist based in Australia, with 38 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Mike Gurrieri, Harvey Sutherland and RAH. Next up: Angel Music Bar, Melbourne on Fri 6 Nov.
+Kuzco is a house and deep house artist based in Australia, with 38 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Mike Gurrieri, Harvey Sutherland and RAH. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Angel Music Bar | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 20 Nov 2026 | Miscellania | Melbourne |

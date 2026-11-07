@@ -1,14 +1,13 @@
 # The Night Cat
 
-The Night Cat is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Gravagerz" on Fri, 6 Nov 2026.
+The Night Cat is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Hercules & Love Affair (DJ Set)" on Sat, 14 Nov 2026.
 
-The Night Cat is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Elsie, Flamingo Pier, Gravagerz and Hercules & Love Affair and 2 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
+The Night Cat is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including Elsie, Flamingo Pier, Hercules & Love Affair and NALIITA and 1 more. See dates, start times and who's playing. 137-141 Johnston St, Fitzroy VIC 3065, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Gravagerz | Gravagerz |
 | Sat, 14 Nov 2026 | Hercules & Love Affair (DJ Set) | Hercules & Love Affair |
 | Fri, 20 Nov 2026 | VENNA - MELBOURNE - The Night Cat |  |
 | Sat, 21 Nov 2026 | Louis The Child (US) |  |

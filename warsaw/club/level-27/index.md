@@ -1,6 +1,6 @@
 # Level 27
 
-Level 27 is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "DOWNTOWN FRIDAY NIGHT | SIMON C" on Fri, 6 Nov 2026.
+Level 27 is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 5 Nov 2026. The next is "DOWNTOWN FRIDAY NIGHT | SIMON C" on Fri, 6 Nov 2026.
 
 Level 27 is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Al. Jerozolimskie 123A, 02-017 Warszawa.
 
@@ -15,4 +15,4 @@ Level 27 is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs. See d
 
 Al. Jerozolimskie 123A, 02-017 Warszawa, Warsaw
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/level-27/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/level-27/)*

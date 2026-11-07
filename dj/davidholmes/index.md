@@ -1,13 +1,14 @@
 # David Holmes
 
-David Holmes is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at The Garden Tisno, Croatia on Wed, 7 Jul 2027.
+David Holmes is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Sat, 30 Jan 2027.
 
-David Holmes is a house and electronica artist based in Ireland, with 43 gigs on soundcheck across Belfast, Birmingham, Cork and Croatia and 8 more. Often billed alongside Sean Johnston, Optimo (Espacio) and Daniel Avery. Next up: The Garden Tisno, Croatia on Wed 7 Jul.
+David Holmes is a house and electronica artist based in Ireland, with 44 gigs on soundcheck across Belfast, Birmingham, Cork and Croatia and 8 more. Often billed alongside Sean Johnston, Optimo (Espacio) and Daniel Avery. Next up: Port of Leith Distillery, Edinburgh on Sat 30 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 30 Jan 2027 | Port of Leith Distillery | Edinburgh |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played

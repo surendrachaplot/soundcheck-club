@@ -2,7 +2,7 @@
 
 The Glove That Fits is a music venue in London with 18 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "2 Years of Crudo Audio" on Fri, 6 Nov 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Alaïs, Amor Ante, Aniaef and Antonio De Angelis and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Alaïs, Amor Ante, Aniaef and ANTØNIØ. and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 

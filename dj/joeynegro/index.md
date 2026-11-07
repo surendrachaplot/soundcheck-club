@@ -1,8 +1,8 @@
 # Dave Lee
 
-Dave Lee is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sala Villanos, Madrid on Fri, 6 Nov 2026.
+Dave Lee is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sala Villanos, Madrid on Fri, 6 Nov 2026.
 
-Dave Lee is a house and disco artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 24 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Sala Villanos, Madrid on Fri 6 Nov.
+Dave Lee is a house and disco artist based in United Kingdom, with 100 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 25 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Sala Villanos, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Dave Lee is a house and disco artist based in United Kingdom, with 99 gigs on so
 | Fri, 6 Nov 2026 | Sala Villanos | Madrid |
 | Sat, 21 Nov 2026 | Moon Club | Bristol |
 | Fri, 27 Nov 2026 | Cabaret Sauvage | Paris |
+| Sat, 28 Nov 2026 | Bien Public | Bordeaux |
 | Fri, 11 Dec 2026 | Night Tales | London |
 | Sat, 19 Dec 2026 | Joshua Brooks | Manchester |
 | Sat, 23 Jan 2027 | The Greenwood Hotel | Sydney |

@@ -1,8 +1,8 @@
 # YAMARCHY
 
-YAMARCHY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at West Harlem, Kyoto on Sat, 7 Nov 2026.
+YAMARCHY is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at West Harlem, Kyoto on Sat, 7 Nov 2026.
 
-YAMARCHY is a house and techno artist based in Japan, with 351 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 15 more. Often billed alongside Monkey Timers, CHIDA and FFAN. Next up: West Harlem, Kyoto on Sat 7 Nov.
+YAMARCHY is a house and techno artist based in Japan, with 352 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 15 more. Often billed alongside Monkey Timers, CHIDA and FFAN. Next up: West Harlem, Kyoto on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ YAMARCHY is a house and techno artist based in Japan, with 351 gigs on soundchec
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | West Harlem | Kyoto |
 | Sat, 21 Nov 2026 | Noon + Cafe | Osaka |
+| Sat, 12 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

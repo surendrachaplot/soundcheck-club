@@ -1,6 +1,6 @@
 # EN1GMACLUB 4 YEARS ANNIVERSARY at Studio76 Club
 
-EN1GMACLUB 4 YEARS ANNIVERSARY at Studio76 Club on Fri 27 Nov, Madrid. 5 artists: Cerescente, FUKCNORMAL, Luska and Rubén Secaduras and 1 more. See the line-up on soundcheck.
+EN1GMACLUB 4 YEARS ANNIVERSARY at Studio76 Club on Fri 27 Nov, Madrid. 6 artists: Cerescente, FUKCNORMAL, FYLJA and Luska and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ EN1GMACLUB 4 YEARS ANNIVERSARY at Studio76 Club on Fri 27 Nov, Madrid. 5 artists
 
 - Cerescente
 - FUKCNORMAL
+- FYLJA
 - Luska
 - Rubén Secaduras
 - THC

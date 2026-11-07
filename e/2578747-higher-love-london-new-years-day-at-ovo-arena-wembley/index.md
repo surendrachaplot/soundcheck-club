@@ -1,6 +1,6 @@
 # Higher Love London - New Years Day at OVO Arena Wembley
 
-Higher Love London - New Years Day at OVO Arena Wembley on Fri 1 Jan, London. 7 artists: Benji King, Jamie Aramayo, Jamie Fielding and Joss Dean and 3 more. House. See the line-up on soundcheck.
+Higher Love London - New Years Day at OVO Arena Wembley on Fri 1 Jan, London. 8 artists: Beave, Benji King, Jamie Aramayo and Jamie Fielding and 4 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Higher Love London - New Years Day at OVO Arena Wembley on Fri 1 Jan, London. 7 
 
 ## Line-up
 
+- Beave
 - Benji King
 - Jamie Aramayo
 - Jamie Fielding

@@ -1,13 +1,14 @@
 # Onelia
 
-Onelia is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Sala Villanos, Madrid on Fri, 18 Dec 2026.
+Onelia is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Sat, 21 Nov 2026.
 
-Onelia is a house and electronica artist based in Spain, with 8 gigs on soundcheck across Madrid and Tokyo. Often billed alongside Cherry Pie, Marcos Boricua and Nebu Mitte. Next up: Sala Villanos, Madrid on Fri 18 Dec.
+Onelia is a house and electronica artist based in Spain, with 9 gigs on soundcheck across Madrid and Tokyo. Often billed alongside Cherry Pie, Marcos Boricua and Nebu Mitte. Next up: DJ Bar Bridge Shinjuku, Tokyo on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Fri, 18 Dec 2026 | Sala Villanos | Madrid |
 
 ## Recently played

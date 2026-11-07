@@ -1,6 +1,6 @@
 # Rabbithole Radio X GONE FISHIN' Secret canal boat party at TBA
 
-Rabbithole Radio X GONE FISHIN' Secret canal boat party at TBA on Fri 27 Nov, London. Breakbeat and Baile Funk. See the line-up on soundcheck.
+Rabbithole Radio X GONE FISHIN' Secret canal boat party at TBA on Fri 27 Nov, London. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

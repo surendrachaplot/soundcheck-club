@@ -1,6 +1,6 @@
 # Florence for Palestine – Sama' Abdulhadi at CDP - Grassina (FI)
 
-Florence for Palestine – Sama' Abdulhadi at CDP - Grassina (FI) on Sat 14 Nov, Florence. 1 artist: Sama' Abdulhadi. Techno. See the line-up on soundcheck.
+Florence for Palestine – Sama' Abdulhadi at CDP - Grassina (FI) on Sat 14 Nov, Florence. 2 artists: Hertz Collision and Sama' Abdulhadi. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Florence for Palestine – Sama' Abdulhadi at CDP - Grassina (FI) on Sat 14 Nov,
 
 ## Line-up
 
+- Hertz Collision
 - Sama' Abdulhadi
 
 *Source: [soundcheck](https://soundcheck.club/e/2565738-florence-for-palestine-sama-abdulhadi-at-cdp-grassina-fi/)*

@@ -1,8 +1,8 @@
 # E1
 
-E1 is a music venue in London with 33 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "ALIVE: Paolo Ferrara (All Night Long)" on Fri, 6 Nov 2026.
+E1 is a music venue in London with 32 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "ALIVE: Paolo Ferrara (All Night Long)" on Fri, 6 Nov 2026.
 
-E1 is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including Paolo Ferrara, ABEL (UK), ACOR and Ade Smilez and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
+E1 is a music venue in London listed on soundcheck. 32 upcoming gigs, with line-ups including Paolo Ferrara, ABEL (UK), ACOR and Ade Smilez and 2 more. See dates, start times and who's playing. 110 Pennington Street, Wapping, London E1W 2BB.
 
 ## What's on
 

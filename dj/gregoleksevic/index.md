@@ -2,7 +2,7 @@
 
 Greg Oleksevic is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Flux Studios D2, Dublin on Fri, 20 Nov 2026.
 
-Greg Oleksevic is a techno and ambient artist based in Ireland, with 11 gigs on soundcheck across Dublin, Krakow and Limerick. Often billed alongside LeSaR, ACKERMAN and Ana Rs. Next up: Flux Studios D2, Dublin on Fri 20 Nov.
+Greg Oleksevic is a techno and ambient artist based in Ireland, with 11 gigs on soundcheck across Dublin, Krakow and Limerick. Often billed alongside LeSaR, Papal State and ACKERMAN. Next up: Flux Studios D2, Dublin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Greg Oleksevic is a techno and ambient artist based in Ireland, with 11 gigs on 
 
 ## Shares bills with
 
-LeSaR, ACKERMAN, Ana Rs
+LeSaR, Papal State, ACKERMAN
 
 *Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gregoleksevic/)*

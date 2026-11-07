@@ -13,7 +13,7 @@ NT's Loft is a music venue in London listed on soundcheck. 23 upcoming gigs, wit
 | Fri, 13 Nov 2026 | NT's Loft: Azadi: ZAINAB, Clara Rosa & Nadine Noor | Clara Rosa, Nadine Noor, ZEEMUFFIN |
 | Sat, 14 Nov 2026 | NT's Loft: babyschön Residency w/ Jonny Rock | Jonny Rock, babyschön |
 | Sat, 14 Nov 2026 | NT's Loft: A Day with Dublon | Dublon |
-| Fri, 20 Nov 2026 | NT's Loft: Detroit In Effect [Extended Set] | Detroit In Effect |
+| Fri, 20 Nov 2026 | NT's Loft: Detroit In Effect [Extended Set] + Katya | Detroit In Effect, Katya |
 | Sat, 21 Nov 2026 | NT's Loft: babyschön Residency w/ Rosie Ama | Rosie Ama, babyschön |
 | Mon, 23 Nov 2026 | [Panel Talk] - DIY Music & Club Culture |  |
 | Fri, 27 Nov 2026 | NT's Loft: FS Green | FS Green |

@@ -1,6 +1,6 @@
 # Lens: Moving Mad UK Tour - Manchester at Hidden
 
-Lens: Moving Mad UK Tour - Manchester at Hidden on Sat 14 Nov, Manchester. 1 artist: Lens. Drum & Bass and Dubstep. See the line-up on soundcheck.
+Lens: Moving Mad UK Tour - Manchester at Hidden on Sat 14 Nov, Manchester. 2 artists: imad:re and Lens. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Lens: Moving Mad UK Tour - Manchester at Hidden on Sat 14 Nov, Manchester. 1 art
 
 ## Line-up
 
+- imad:re
 - Lens (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2528516-lens-moving-mad-uk-tour-manchester-at-hidden/)*

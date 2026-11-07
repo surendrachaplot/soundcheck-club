@@ -1,14 +1,13 @@
 # machìna
 
-machìna is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Sub Club Melbourne, Melbourne on Fri, 6 Nov 2026.
+machìna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Modeci, Seoul on Sat, 7 Nov 2026.
 
-machìna is a techno and house artist based in South Korea, with 56 gigs on soundcheck across Beijing, Berlin, Brussels and Denver and 16 more. Often billed alongside Richie Hawtin, Nicola Cruz and AADJA. Next up: Sub Club Melbourne, Melbourne on Fri 6 Nov.
+machìna is a techno and house artist based in South Korea, with 56 gigs on soundcheck across Beijing, Berlin, Brussels and Denver and 16 more. Often billed alongside Richie Hawtin, Nicola Cruz and AADJA. Next up: Modeci, Seoul on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Sub Club Melbourne | Melbourne |
 | Sat, 7 Nov 2026 | Modeci | Seoul |
 | Sat, 21 Nov 2026 | VENT | Tokyo |
 

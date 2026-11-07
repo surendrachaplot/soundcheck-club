@@ -1,14 +1,15 @@
 # Rasa (IN)
 
-Rasa (IN) is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais, London on Fri, 20 Nov 2026.
+Rasa (IN) is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Palais, London on Fri, 20 Nov 2026.
 
-Rasa (IN) is a bass and garage artist based in India, with 17 gigs on soundcheck across Bangkok, Barcelona, Berlin and Hanoi and 9 more. Often billed alongside Anna Morgan, Clava and Kivi. Next up: Palais, London on Fri 20 Nov.
+Rasa (IN) is a bass and garage artist based in India, with 18 gigs on soundcheck across Bangkok, Barcelona, Berlin and Hanoi and 10 more. Often billed alongside Anna Morgan, Clava and Kivi. Next up: Palais, London on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Palais | London |
+| Sun, 22 Nov 2026 | Gut Level | Sheffield |
 
 ## Recently played
 

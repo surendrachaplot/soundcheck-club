@@ -1,0 +1,28 @@
+# Panooc
+
+Panooc is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Hoxton Cabin, London on Fri, 20 Nov 2026.
+
+Panooc is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Edinburgh and 6 more. Often billed alongside Robin Flux, Michelle Manetti and materia hache. Next up: Hoxton Cabin, London on Fri 20 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 20 Nov 2026 | Hoxton Cabin | London |
+
+## Recently played
+
+- Renate, Berlin · Sat, 31 Oct 2026
+- Bulbul Berlin, Berlin · Thu, 29 Oct 2026
+- Dalston Superstore, London · Fri, 9 Oct 2026
+- Şahika, Istanbul · Fri, 2 Oct 2026
+- Kater, Berlin · Fri, 28 Aug 2026
+- Crate Brewery, London · Fri, 17 Jul 2026
+- Cafe 1001, London · Fri, 3 Jul 2026
+- Sneaky Pete's, Edinburgh · Fri, 19 Jun 2026
+
+## Shares bills with
+
+Robin Flux, Michelle Manetti, materia hache
+
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panooc/)*

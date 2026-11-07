@@ -10,7 +10,7 @@ teller is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with lin
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | THE AIR HOUSE AFTER PARTY | Evan Baggs, Kibum, Yeonjun |
 | Sat, 7 Nov 2026 | Invites Kensa | Hakim., Kensa, Oho. |
-| Sun, 8 Nov 2026 | HUME 002: AFTER SUNSET | Mihak, Nomal, Yumi |
+| Sun, 8 Nov 2026 | HUME 002: AFTER SUNSET | Mihak, Nomal, Yu Mi |
 | Fri, 13 Nov 2026 | Subtrance | Krijka, Sunghoon, Xanexx, hcy. |
 | Sat, 14 Nov 2026 | Invites Mari.te | .2ndfloor, Mari.te |
 | Thu, 19 Nov 2026 | Invites Serenne | Krijka, Oho., Serenne |

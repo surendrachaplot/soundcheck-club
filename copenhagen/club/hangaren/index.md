@@ -17,7 +17,7 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, 
 | Fri, 27 Nov 2026 | Mac Declos (all night long) | Mac Declos |
 | Sat, 28 Nov 2026 | Britta Arnold, MiniMalene, OnsBerg | Britta Arnold, MiniMalene (2), OnsBerg |
 | Fri, 4 Dec 2026 | Diffrent, samgood, DRABER666 | DRABER666, Diffrent, samgood |
-| Sat, 5 Dec 2026 | DJ Fuckoff, dragongirl, NAT | DJ Fuckoff, NAT (SK), dragongirl |
+| Sat, 5 Dec 2026 | DJ Fuckoff, dragongirl, NAT | DJ Fuckoff, NAT(SK), dragongirl |
 
 ## Address
 

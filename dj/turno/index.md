@@ -1,14 +1,13 @@
 # Turno
 
-Turno is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Assembly, Christchurch on Fri, 6 Nov 2026.
+Turno is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Lab11, Birmingham on Sat, 28 Nov 2026.
 
-Turno is a drum & bass and jungle artist based in United Kingdom, with 79 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 29 more. Often billed alongside Hedex, BassLayerz and Bou (UK). Next up: The Assembly, Christchurch on Fri 6 Nov.
+Turno is a drum & bass and jungle artist based in United Kingdom, with 79 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bangkok and 29 more. Often billed alongside Hedex, BassLayerz and Bou (UK). Next up: Lab11, Birmingham on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Assembly | Christchurch |
 | Sat, 28 Nov 2026 | Lab11 | Birmingham |
 | Fri, 11 Dec 2026 | The Drake Hotel | Toronto |
 | Sat, 12 Dec 2026 | The Beehive | Los Angeles |

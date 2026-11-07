@@ -1,13 +1,14 @@
 # 4000 Hz
 
-4000 Hz is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Cause, London on Fri, 20 Nov 2026.
+4000 Hz is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Clock Factory, Bristol on Fri, 6 Nov 2026.
 
-4000 Hz is a techno and trance artist based in France, with 15 gigs on soundcheck across Berlin, Karlsruhe, London and Manchester and 2 more. Often billed alongside Alex Farell, AREA ØNE and Cloudy. Next up: The Cause, London on Fri 20 Nov.
+4000 Hz is a techno and trance artist based in France, with 16 gigs on soundcheck across Berlin, Bristol, Karlsruhe and London and 3 more. Often billed alongside Alex Farell, AREA ØNE and Cloudy. Next up: The Clock Factory, Bristol on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | The Clock Factory | Bristol |
 | Fri, 20 Nov 2026 | The Cause | London |
 | Sat, 28 Nov 2026 | Depot Mayfield | Manchester |
 

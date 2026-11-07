@@ -1,0 +1,28 @@
+# Mic Ostap
+
+Mic Ostap is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Jasna 1, Warsaw on Sat, 28 Nov 2026.
+
+Mic Ostap is a house and techno artist based in Poland, with 11 gigs on soundcheck across Warsaw. Often billed alongside Jacek Sienkiewicz, Feelaz and Kovvalsky. Next up: Jasna 1, Warsaw on Sat 28 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 28 Nov 2026 | Jasna 1 | Warsaw |
+
+## Recently played
+
+- K-Bar Powiśle, Warsaw · Fri, 7 Aug 2026
+- Miami Wars, Warsaw · Sat, 11 Jul 2026
+- Jasna 1, Warsaw · Fri, 24 Apr 2026
+- Jasna 1, Warsaw · Sat, 7 Feb 2026
+- Lunapark, Warsaw · Sun, 21 Sept 2025
+- Lunapark, Warsaw · Sun, 14 Sept 2025
+- Jasna 1, Warsaw · Sat, 15 Mar 2025
+- Jasna 1, Warsaw · Fri, 8 Nov 2024
+
+## Shares bills with
+
+Jacek Sienkiewicz, Feelaz, Kovvalsky
+
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/micostap/)*

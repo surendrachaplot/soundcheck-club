@@ -1,13 +1,14 @@
 # Dustin Zahn
 
-Dustin Zahn is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at TBA - Brooklyn, New York City on Wed, 27 Jan 2027.
+Dustin Zahn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 19 Dec 2026.
 
-Dustin Zahn is a techno and house artist based in United States of America, with 67 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 20 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: TBA - Brooklyn, New York City on Wed 27 Jan.
+Dustin Zahn is a techno and house artist based in United States of America, with 68 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 20 more. Often billed alongside Centrific, Chami and Henry Chow. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 
 ## Recently played

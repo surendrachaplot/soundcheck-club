@@ -1,8 +1,8 @@
 # Alba Heidari
 
-Alba Heidari is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FOLD, London on Fri, 6 Nov 2026.
+Alba Heidari is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at FOLD, London on Fri, 6 Nov 2026.
 
-Alba Heidari is a techno and house artist based in Spain, with 53 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dortmund / Essen and 4 more. Often billed alongside James Newmarch, Voicedrone and Anabel Arroyo. Next up: FOLD, London on Fri 6 Nov.
+Alba Heidari is a techno and house artist based in Spain, with 54 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Dortmund / Essen and 4 more. Often billed alongside James Newmarch, Voicedrone and Anabel Arroyo. Next up: FOLD, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alba Heidari is a techno and house artist based in Spain, with 53 gigs on soundc
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Distillery N17 | London |
+| Fri, 11 Dec 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 

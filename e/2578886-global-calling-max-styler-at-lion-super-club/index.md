@@ -1,6 +1,6 @@
-# Global calling Max Styler at Lion Super Club
+# GLOBAL CALLING Max Styler at Lion Super Club
 
-Global calling Max Styler at Lion Super Club on Thu 17 Dec, Seoul. 1 artist: Max Styler. See the line-up on soundcheck.
+GLOBAL CALLING Max Styler at Lion Super Club on Thu 17 Dec, Seoul. 1 artist: Max Styler. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

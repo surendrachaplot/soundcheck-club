@@ -1,14 +1,15 @@
 # Skatman
 
-Skatman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Vernissage Club, Brazil on Sat, 7 Nov 2026.
+Skatman is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Vernissage Club, Brazil on Sat, 7 Nov 2026.
 
-Skatman is a house and techno artist based in Tunisia, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Ede, JAMIIE and Tal Fussman. Next up: Vernissage Club, Brazil on Sat 7 Nov.
+Skatman is a house and techno artist based in Tunisia, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Ede, JAMIIE and Tal Fussman. Next up: Vernissage Club, Brazil on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Vernissage Club | Brazil |
+| Fri, 11 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 

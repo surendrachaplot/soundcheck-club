@@ -1,0 +1,11 @@
+# LAST FREE TICKETS + FREE DRINK - RnB, Reggaeton, Afrohouse, Latin House, Pop - MOTIVE PARTY at Egg London
+
+LAST FREE TICKETS + FREE DRINK - RnB, Reggaeton, Afrohouse, Latin House, Pop - MOTIVE PARTY at Egg London on Sat 7 Nov, London. R&B and Reggaeton. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 7 Nov 2026 |
+| Venue | Egg London |
+| City | London |
+
+*Source: [soundcheck](https://soundcheck.club/e/2518107-last-free-tickets-free-drink-rnb-reggaeton-afrohouse-latin-h/)*

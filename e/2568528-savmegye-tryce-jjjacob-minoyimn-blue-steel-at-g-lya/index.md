@@ -1,6 +1,6 @@
 # savmegye: TRYCE, jjjacob, minoyimn, blue steel at Gólya
 
-savmegye: TRYCE, jjjacob, minoyimn, blue steel at Gólya on Fri 6 Nov, Budapest. 3 artists: ItsLucid, jjjacob and TRYCE. Ambient and Experimental. See the line-up on soundcheck.
+savmegye: TRYCE, jjjacob, minoyimn, blue steel at Gólya on Fri 6 Nov, Budapest. 4 artists: asvany, ItsLucid, jjjacob and TRYCE. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ savmegye: TRYCE, jjjacob, minoyimn, blue steel at Gólya on Fri 6 Nov, Budapest.
 
 ## Line-up
 
+- asvany
 - ItsLucid
 - jjjacob
 - TRYCE

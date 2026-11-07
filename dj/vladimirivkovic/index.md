@@ -1,6 +1,6 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kino Siska, Ljubljana on Thu, 5 Nov 2026.
+Vladimir Ivkovic is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Kino Siska, Ljubljana on Thu, 5 Nov 2026.
 
 Vladimir Ivkovic is a techno and house artist based in Germany, with 240 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 79 more. Often billed alongside Lena Willikens, Ivan Smagghe and Jane Fitz. Next up: Kino Siska, Ljubljana on Thu 5 Nov.
 
@@ -10,7 +10,6 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 240 gigs on
 | --- | --- | --- |
 | Thu, 5 Nov 2026 | Kino Siska | Ljubljana |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
-| Fri, 6 Nov 2026 | Miscellania | Melbourne |
 | Sun, 8 Nov 2026 | TBA | Sydney |
 | Sun, 15 Nov 2026 | Burger Disco Club | Athens |
 | Fri, 20 Nov 2026 | Dabadaba | North |
@@ -20,6 +19,7 @@ Vladimir Ivkovic is a techno and house artist based in Germany, with 240 gigs on
 | Mon, 7 Dec 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
 | Tue, 1 Jun 2027 | TBA - Casale dell'arte - Catania  | Sicily |
+| Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

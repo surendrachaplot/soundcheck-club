@@ -1,6 +1,6 @@
 # Rasung Spa, Seongsu-Dong, Seoul
 
-Rasung Spa, Seongsu-Dong, Seoul is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "JJIMJILBANGDAZE IV" on Fri, 20 Nov 2026.
+Rasung Spa, Seongsu-Dong, Seoul is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 5 Nov 2026. The next is "JJIMJILBANGDAZE IV" on Fri, 20 Nov 2026.
 
 Rasung Spa, Seongsu-Dong, Seoul is a music venue in Seoul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Rasung Spa, Seongsu-Dong, Seoul is a music venue in Seoul listed on soundcheck. 
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | JJIMJILBANGDAZE IV |  |
 
-*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/rasung-spa-seongsu-dong-seoul/)*
+*Updated Thu, 5 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/rasung-spa-seongsu-dong-seoul/)*

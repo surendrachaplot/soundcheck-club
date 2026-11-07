@@ -1,6 +1,6 @@
 # After Seven at DeTour
 
-After Seven at DeTour on Fri 6 Nov, Tokyo. 2 artists: Antoniexx and You Liang. House and Tech House. See the line-up on soundcheck.
+After Seven at DeTour on Fri 6 Nov, Tokyo. 2 artists: Antoniexx and You Liang. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

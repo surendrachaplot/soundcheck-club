@@ -1,8 +1,8 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 13 Nov 2026.
+mad miran is a Techno and Bass artist with 11 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 13 Nov 2026.
 
-mad miran is a techno and bass artist based in Netherlands, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 13 Nov.
+mad miran is a techno and bass artist based in Netherlands, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 60 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ mad miran is a techno and bass artist based in Netherlands, with 230 gigs on sou
 | Sat, 12 Dec 2026 | The White Hotel | Manchester |
 | Fri, 1 Jan 2027 | REC Napoli | Naples |
 | Sat, 23 Jan 2027 | Palais | London |
+| Fri, 28 May 2027 | Paraje Natural de la Ermita de los Tres Juanes | South |
 | Thu, 22 Jul 2027 | The Garden Tisno | London |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 

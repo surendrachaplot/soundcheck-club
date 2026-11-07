@@ -12,7 +12,7 @@ Tola is a music venue in London listed on soundcheck. 13 upcoming gigs, with lin
 | Sat, 7 Nov 2026 | Bloom Sound presents: Blaqq & Why'd (London Debut) | Blaqq & Why'd, Brandon Tourle, Diego Gee, Jaden Pace, Wes Colstock |
 | Sat, 7 Nov 2026 | Jatozuki & FRIENDS | DJ Shakaraa, Dukesmith, Jatozuki, RIMIX |
 | Thu, 12 Nov 2026 | Tola Thursdays |  |
-| Sat, 14 Nov 2026 | Vinyl Bitch Takeover Peckham | ARLYSS, DJ-HOTLINE 333, Kidcat, Love Sensation, MADDØG |
+| Sat, 14 Nov 2026 | Vinyl Bitch Takeover @ Tola Peckham | ARLYSS, DJ-HOTLINE 333, Kidcat, Love Sensation, MADDØG |
 | Thu, 19 Nov 2026 | Tola Thursdays |  |
 | Fri, 20 Nov 2026 | Parallel Sounds with Frazer Ray | Frazer Ray, Nick Parallel, j.O.a |
 | Sat, 21 Nov 2026 | The Lobster Café |  |

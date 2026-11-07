@@ -1,6 +1,6 @@
 # SECCO DAY CLUB - DOUBLE TROUBLE EDITION powered by daenz at Lieberscholli
 
-SECCO DAY CLUB - DOUBLE TROUBLE EDITION powered by daenz at Lieberscholli on Sat 14 Nov, Munich. 1 artist: ZHTA. Tech House and Downtempo. See the line-up on soundcheck.
+SECCO DAY CLUB - DOUBLE TROUBLE EDITION powered by daenz at Lieberscholli on Sat 14 Nov, Munich. 2 artists: Louisianaha and ZHTA. Tech House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SECCO DAY CLUB - DOUBLE TROUBLE EDITION powered by daenz at Lieberscholli on Sat
 
 ## Line-up
 
+- Louisianaha
 - ZHTA
 
 *Source: [soundcheck](https://soundcheck.club/e/2557659-secco-day-club-double-trouble-edition-powered-by-daenz-at-li/)*

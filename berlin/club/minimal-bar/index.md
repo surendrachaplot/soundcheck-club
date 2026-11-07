@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 80 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "BEATHEIM night with Bruno Otranto & Friends" on Fri, 6 Nov 2026.
+Minimal Bar is a music venue in Berlin with 81 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "BEATHEIM night with Bruno Otranto & Friends" on Fri, 6 Nov 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming gigs, with line-ups including Beshy, CEEE, Danilo Schneider and DAZA and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 81 upcoming gigs, with line-ups including Beshy, CEEE, Danilo Schneider and DAZA and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 

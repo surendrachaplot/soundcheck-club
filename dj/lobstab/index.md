@@ -1,13 +1,14 @@
 # Lobsta B
 
-Lobsta B is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at La Cheetah Club, Glasgow on Thu, 12 Nov 2026.
+Lobsta B is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at The Clock Factory, Bristol on Fri, 6 Nov 2026.
 
-Lobsta B is a techno and trance artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 22 more. Often billed alongside 3DMA, Peggy Viennetta and alterum. Next up: La Cheetah Club, Glasgow on Thu 12 Nov.
+Lobsta B is a techno and trance artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 22 more. Often billed alongside 3DMA, Peggy Viennetta and alterum. Next up: The Clock Factory, Bristol on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 6 Nov 2026 | The Clock Factory | Bristol |
 | Thu, 12 Nov 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played

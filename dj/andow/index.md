@@ -1,6 +1,6 @@
 # ANDOW
 
-ANDOW is a Club and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Bolero, Seoul on Fri, 6 Nov 2026.
+ANDOW is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Bolero, Seoul on Fri, 6 Nov 2026.
 
 ANDOW is a club and hip-hop artist based in South Korea, with 171 gigs on soundcheck across Seoul. Often billed alongside DJ Co.kr, DOBERMAN and DJ Soulscape. Next up: Bolero, Seoul on Fri 6 Nov.
 
@@ -9,7 +9,6 @@ ANDOW is a club and hip-hop artist based in South Korea, with 171 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Bolero | Seoul |
-| Fri, 6 Nov 2026 | TBA - Grand Hyatt JJ Mahoney's | Seoul |
 
 ## Recently played
 

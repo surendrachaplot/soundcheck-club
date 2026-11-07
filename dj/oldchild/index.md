@@ -1,14 +1,15 @@
 # Old Child
 
-Old Child is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. Next at Liquidate, Manchester on Fri, 6 Nov 2026.
+Old Child is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Liquidate, Manchester on Fri, 6 Nov 2026.
 
-Old Child is a house and disco artist based in United Kingdom, with 11 gigs on soundcheck across Leeds and Manchester. Often billed alongside Babs, DJ Subaru and Freddie Noonan. Next up: Liquidate, Manchester on Fri 6 Nov.
+Old Child is a house and disco artist based in United Kingdom, with 12 gigs on soundcheck across Leeds and Manchester. Often billed alongside Babs, DJ Subaru and Mandolin. Next up: Liquidate, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Liquidate | Manchester |
+| Sat, 12 Dec 2026 | Morgan's Bar | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Old Child is a house and disco artist based in United Kingdom, with 11 gigs on s
 
 ## Shares bills with
 
-Babs (3), DJ Subaru, Freddie Noonan
+Babs (3), DJ Subaru, Mandolin
 
 *Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oldchild/)*

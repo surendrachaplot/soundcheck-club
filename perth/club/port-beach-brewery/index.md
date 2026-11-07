@@ -1,14 +1,13 @@
 # Port Beach Brewery
 
-Port Beach Brewery is a music venue in Perth with 10 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "PUNKY GOES TO AUSTRALIA" on Fri, 6 Nov 2026.
+Port Beach Brewery is a music venue in Perth with 9 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "Port Beach Garden Party ~ Ft. BODY CLINIC (IRE) & DAWS (NAARM)" on Sat, 7 Nov 2026.
 
-Port Beach Brewery is a music venue in Perth listed on soundcheck. 10 upcoming gigs, with line-ups including Aline Rocha, Chicane, Daes and David Penn and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
+Port Beach Brewery is a music venue in Perth listed on soundcheck. 9 upcoming gigs, with line-ups including Aline Rocha, Chicane, David Penn and DAWS and 2 more. See dates, start times and who's playing. Port Beach Brewery, 44 Tydeman Road, Fremantle, WA 6169, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | PUNKY GOES TO AUSTRALIA | Daes, KESSIN |
 | Sat, 7 Nov 2026 | Port Beach Garden Party ~ Ft. BODY CLINIC (IRE) & DAWS (NAARM) | DAWS, PTMC |
 | Fri, 13 Nov 2026 | House CLTR Perth feat. Miguel Campbell (Hot Creations) | Miguel Campbell |
 | Fri, 27 Nov 2026 | House CLTR Perth feat. wAFF (Nature, Hot Creations) | wAFF |

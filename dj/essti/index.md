@@ -1,14 +1,15 @@
 # ESSTI
 
-ESSTI is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cadavra, Madrid on Fri, 6 Nov 2026.
+ESSTI is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at Cadavra, Madrid on Fri, 6 Nov 2026.
 
-ESSTI is an electronica and house artist based in Spain, with 9 gigs on soundcheck across Madrid. Often billed alongside Brody, Luska and frankydrama. Next up: Cadavra, Madrid on Fri 6 Nov.
+ESSTI is an electronica and house artist based in Spain, with 10 gigs on soundcheck across Madrid. Often billed alongside Brody, Luska and frankydrama. Next up: Cadavra, Madrid on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Cadavra | Madrid |
+| Sun, 8 Nov 2026 | Rastro Live Studio | Madrid |
 | Thu, 31 Dec 2026 | Cadavra | Madrid |
 
 ## Recently played

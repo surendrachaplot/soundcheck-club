@@ -1,6 +1,6 @@
 # APEPA/NOB/tzbasa at Mitsuki
 
-APEPA/NOB/tzbasa at Mitsuki on Thu 5 Nov, Tokyo. 2 artists: APEPA and DJ NOB. House and Electro. See the line-up on soundcheck.
+APEPA/NOB/tzbasa at Mitsuki on Thu 5 Nov, Tokyo. 2 artists: APEPA and NOB. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ APEPA/NOB/tzbasa at Mitsuki on Thu 5 Nov, Tokyo. 2 artists: APEPA and DJ NOB. Ho
 ## Line-up
 
 - APEPA
-- DJ NOB
+- NOB (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2572821-apepa-nob-tzbasa-at-mitsuki/)*

@@ -1,14 +1,13 @@
 # kazuma
 
-kazuma is a Club and Electro artist with 8 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Fri, 6 Nov 2026.
+kazuma is a Club and Electro artist with 7 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Sat, 7 Nov 2026.
 
-kazuma is a club and electro artist based in Japan, with 24 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Lemi, Miki and Zukky. Next up: SEL OCTAGON TOKYO, Tokyo on Fri 6 Nov.
+kazuma is a club and electro artist based in Japan, with 24 gigs on soundcheck across Kyoto, Osaka, Seoul and Tokyo. Often billed alongside Lemi, Miki and Zukky. Next up: SEL OCTAGON TOKYO, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Sat, 7 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Tue, 10 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |
 | Fri, 13 Nov 2026 | SEL OCTAGON TOKYO | Tokyo |

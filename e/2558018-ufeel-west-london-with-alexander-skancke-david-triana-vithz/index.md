@@ -1,6 +1,6 @@
 # UFeel West London with Alexander Skancke, David Triana, Vithz, Ad Sol at TBA - NOTTING HILL WEST LONDON 
 
-UFeel West London with Alexander Skancke, David Triana, Vithz, Ad Sol at TBA - NOTTING HILL WEST LONDON  on Fri 27 Nov, London. 4 artists: ad Sol Collective, Alexander Skancke, David Triana and Vithz. House. See the line-up on soundcheck.
+UFeel West London with Alexander Skancke, David Triana, Vithz, Ad Sol at TBA - NOTTING HILL WEST LONDON  on Fri 27 Nov, London. 5 artists: ad Sol Collective, Alessandro Miranda, Alexander Skancke and David Triana and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ UFeel West London with Alexander Skancke, David Triana, Vithz, Ad Sol at TBA - N
 ## Line-up
 
 - ad Sol Collective
+- Alessandro Miranda
 - Alexander Skancke
 - David Triana
 - Vithz
