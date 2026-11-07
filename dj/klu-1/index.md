@@ -1,14 +1,13 @@
 # klu (1)
 
-klu (1) is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Woori Studio, Taipei on Sat, 7 Nov 2026.
+klu (1) is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Pawnshop, Taipei on Sat, 21 Nov 2026.
 
-klu is a disco and house artist based in United States of America, with 27 gigs on soundcheck across Bangkok, Berlin and Taipei. Often billed alongside Pocari Sweaty, LYM and Diskonnected. Next up: Woori Studio, Taipei on Sat 7 Nov.
+klu is a disco and house artist based in United States of America, with 27 gigs on soundcheck across Bangkok, Berlin and Taipei. Often billed alongside Pocari Sweaty, LYM and Diskonnected. Next up: Pawnshop, Taipei on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Woori Studio | Taipei |
 | Sat, 21 Nov 2026 | Pawnshop | Taipei |
 | Sat, 28 Nov 2026 | Pawnshop | Taipei |
 

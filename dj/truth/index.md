@@ -1,14 +1,13 @@
 # Truth
 
-Truth is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Mothership, Auckland on Sat, 7 Nov 2026.
+Truth is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Chocolate Factory, New York City on Fri, 20 Nov 2026.
 
-Truth is a dubstep and bass artist based in New Zealand, with 36 gigs on soundcheck across Adelaide, Auckland, Baltimore and Chicago and 15 more. Often billed alongside Paige Julia, Hypho and Mala. Next up: The Mothership, Auckland on Sat 7 Nov.
+Truth is a dubstep and bass artist based in New Zealand, with 36 gigs on soundcheck across Adelaide, Auckland, Baltimore and Chicago and 15 more. Often billed alongside Paige Julia, Hypho and Mala. Next up: The Chocolate Factory, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | The Mothership | Auckland |
 | Fri, 20 Nov 2026 | The Chocolate Factory | New York City |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # MAYURASHKA
 
-MAYURASHKA is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Woori Studio, Taipei on Sat, 7 Nov 2026.
+MAYURASHKA is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at WOMB, Tokyo on Fri, 20 Nov 2026.
 
-MAYURASHKA is a house and techno artist based in Japan, with 40 gigs on soundcheck across Berlin, Bristol, Croatia and Hong Kong and 10 more. Often billed alongside John Talabot, levolant and Samo. Next up: Woori Studio, Taipei on Sat 7 Nov.
+MAYURASHKA is a house and techno artist based in Japan, with 40 gigs on soundcheck across Berlin, Bristol, Croatia and Hong Kong and 10 more. Often billed alongside John Talabot, levolant and Samo. Next up: WOMB, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Woori Studio | Taipei |
 | Fri, 20 Nov 2026 | WOMB | Tokyo |
 | Fri, 18 Dec 2026 | VENT | Tokyo |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |

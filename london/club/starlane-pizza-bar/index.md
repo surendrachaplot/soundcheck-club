@@ -1,8 +1,8 @@
 # Starlane Pizza Bar
 
-Starlane Pizza Bar is a music venue in London with 19 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Nitty Gritty x Dustbin Digs" on Sat, 7 Nov 2026.
+Starlane Pizza Bar is a music venue in London with 21 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Nitty Gritty x Dustbin Digs" on Sat, 7 Nov 2026.
 
-Starlane Pizza Bar is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including 3 Minds, 4Pleasure, Aldo and Alisdair and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
+Starlane Pizza Bar is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including 3 Minds, 4Pleasure, Aldo and Alisdair and 2 more. See dates, start times and who's playing. 12 Cody Road, E16 4SR London, United Kingdom.
 
 ## What's on
 

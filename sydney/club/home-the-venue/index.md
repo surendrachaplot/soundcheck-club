@@ -1,14 +1,13 @@
 # Home The Venue
 
-Home The Venue is a music venue in Sydney with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Old Skool Daze x House CLTR pres. Miguel Campbell (Outcross/Hot Creations)" on Sat, 7 Nov 2026.
+Home The Venue is a music venue in Sydney with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "S.P.Y (Extended Set) - Sydney" on Fri, 4 Dec 2026.
 
-Home The Venue is a music venue in Sydney listed on soundcheck. 14 upcoming gigs, with line-ups including Aline Rocha, Domonique Dee, Electra and Horse Meat Disco and 2 more. See dates, start times and who's playing. 101 Wheat Rd; Darling Harbour, NSW 2000; Australia.
+Home The Venue is a music venue in Sydney listed on soundcheck. 13 upcoming gigs, with line-ups including Aline Rocha, Electra, Horse Meat Disco and Kate Savage and 2 more. See dates, start times and who's playing. 101 Wheat Rd; Darling Harbour, NSW 2000; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Old Skool Daze x House CLTR pres. Miguel Campbell (Outcross/Hot Creations) | Domonique Dee, Miguel Campbell |
 | Fri, 4 Dec 2026 | S.P.Y (Extended Set) - Sydney | Electra (2), Kate Savage, OOLIA, S.P.Y |
 | Thu, 31 Dec 2026 | JS-VAR-TEST |  |
 | Thu, 31 Dec 2026 | RA Picks — New Year Special |  |
@@ -18,6 +17,7 @@ Home The Venue is a music venue in Sydney listed on soundcheck. 14 upcoming gigs
 | Thu, 31 Dec 2026 | RA Club Night — Berghain Residents |  |
 | Thu, 31 Dec 2026 | RA Live — Boiler Room Special |  |
 | Thu, 31 Dec 2026 | RA Events — Warehouse Party |  |
+| Thu, 31 Dec 2026 | RA Selects — House & Techno |  |
 
 ## Address
 

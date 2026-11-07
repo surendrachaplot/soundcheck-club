@@ -1,14 +1,13 @@
 # Halcyon
 
-Halcyon is a music venue in San Francisco/Oakland with 22 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Pete Tong" on Fri, 6 Nov 2026.
+Halcyon is a music venue in San Francisco/Oakland with 21 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "FOVOS" on Sat, 7 Nov 2026.
 
-Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 22 upcoming gigs, with line-ups including Paolo Ferrara, BENSY, Bontan and Cameron Jack and 2 more. See dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
+Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 21 upcoming gigs, with line-ups including Paolo Ferrara, BENSY, Bontan and Cameron Jack and 2 more. See dates, start times and who's playing. 314 11th St, San Francisco, California, 94103.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Pete Tong | Pete Tong |
 | Sat, 7 Nov 2026 | FOVOS |  |
 | Fri, 13 Nov 2026 | Bontan | Bontan |
 | Sat, 14 Nov 2026 | Deborah De Luca | Deborah De Luca |
@@ -18,6 +17,7 @@ Halcyon is a music venue in San Francisco/Oakland listed on soundcheck. 22 upcom
 | Sat, 28 Nov 2026 | Mandragora | Mandragora |
 | Fri, 4 Dec 2026 | Solardo | Solardo |
 | Sat, 5 Dec 2026 | Cameron Jack | Cameron Jack |
+| Fri, 11 Dec 2026 | Malone MOREZ | Malone |
 
 ## Address
 

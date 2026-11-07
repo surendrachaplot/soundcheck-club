@@ -1,8 +1,8 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Max Dean is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Max Dean is a house and tech house artist based in United Kingdom, with 246 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 46 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 46 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 

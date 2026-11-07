@@ -1,14 +1,13 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 24 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "NICKELMAN / Mangoes II Release Party" on Sat, 7 Nov 2026.
+Socore Factory is a music venue in Osaka with 23 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "imakinn records presents Texas Is The Reason Japan Tour 2026" on Sun, 8 Nov 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 24 upcoming gigs, with line-ups including AKIHIRO, AOKI takamasa, Ayato and Can and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 23 upcoming gigs, with line-ups including AKIHIRO, AOKI takamasa, Ayato and Can and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | NICKELMAN / Mangoes II Release Party | GEBO |
 | Sun, 8 Nov 2026 | imakinn records presents Texas Is The Reason Japan Tour 2026 |  |
 | Tue, 10 Nov 2026 | ナインティーズは突然に |  |
 | Thu, 12 Nov 2026 | stiffslack presents Joshua Japan Tour 2026 | Joshua (3) |
@@ -18,6 +17,7 @@ Socore Factory is a music venue in Osaka listed on soundcheck. 24 upcoming gigs,
 | Mon, 16 Nov 2026 | Tim Holehouse JAPAN TOUR IN OSAKA |  |
 | Wed, 18 Nov 2026 | Socore Day Factory #06 ~JunIzawa(LITE/CONTRASTZ) 　'Core Ep' Release Party in Osaka~ | WÖNDER GIRL |
 | Thu, 19 Nov 2026 | C.A.R. (Germany) JAPAN TOUR IN OSAKA | MMM |
+| Fri, 20 Nov 2026 | CABIN | Ayato |
 
 ## Address
 

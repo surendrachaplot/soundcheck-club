@@ -1,14 +1,13 @@
 # Kana Hishiya
 
-Kana Hishiya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location DTLA , Los Angeles on Fri, 6 Nov 2026.
+Kana Hishiya is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - ON Website, Los Angeles on Fri, 13 Nov 2026.
 
-Kana Hishiya is a house and techno artist based in Japan, with 62 gigs on soundcheck across Detroit, Los Angeles, New York City and Orange County and 3 more. Often billed alongside Artur (US), Enzo Muro and H.U.D.L. Next up: TBA - Secret Location DTLA , Los Angeles on Fri 6 Nov.
+Kana Hishiya is a house and techno artist based in Japan, with 62 gigs on soundcheck across Detroit, Los Angeles, New York City and Orange County and 3 more. Often billed alongside Artur (US), Enzo Muro and H.U.D.L. Next up: TBA - ON Website, Los Angeles on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Secret Location DTLA  | Los Angeles |
 | Fri, 13 Nov 2026 | TBA - ON Website | Los Angeles |
 
 ## Recently played

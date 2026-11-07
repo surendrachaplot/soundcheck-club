@@ -1,14 +1,15 @@
 # James Lavelle
 
-James Lavelle is a Hip-Hop and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Komedia Brighton, Brighton on Tue, 29 Dec 2026.
+James Lavelle is a Hip-Hop and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Komedia Brighton, Brighton on Tue, 29 Dec 2026.
 
-James Lavelle is a hip-hop and house artist based in United Kingdom, with 36 gigs on soundcheck across Athens, Belfast, Birmingham and Brighton and 12 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: Komedia Brighton, Brighton on Tue 29 Dec.
+James Lavelle is a hip-hop and house artist based in United Kingdom, with 37 gigs on soundcheck across Athens, Belfast, Birmingham and Brighton and 12 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: Komedia Brighton, Brighton on Tue 29 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 29 Dec 2026 | Komedia Brighton | Brighton |
+| Sun, 4 Jul 2027 | Tofte Manor | London |
 
 ## Recently played
 

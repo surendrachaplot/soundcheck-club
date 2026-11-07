@@ -1,14 +1,13 @@
 # Marc Homer
 
-Marc Homer is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 6 Nov 2026.
+Marc Homer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Menjo's, Detroit on Sat, 28 Nov 2026.
 
-Marc Homer is a techno and house artist based in Germany, with 40 gigs on soundcheck across Atlanta, Berlin, Detroit and Los Angeles and 3 more. Often billed alongside Wax Assassin, we1sman and Khloe. Next up: TBA - Los Angeles, Los Angeles on Fri 6 Nov.
+Marc Homer is a techno and house artist based in Germany, with 40 gigs on soundcheck across Atlanta, Berlin, Detroit and Los Angeles and 3 more. Often billed alongside Wax Assassin, we1sman and Khloe. Next up: Menjo's, Detroit on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 28 Nov 2026 | Menjo's | Detroit |
 | Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
 

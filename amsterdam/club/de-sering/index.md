@@ -8,7 +8,7 @@ De Sering is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, w
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | SCENE presents Club Season: | Polli Panda, Taylor Taylor (NL) |
+| Sat, 14 Nov 2026 | SCENE presents Club Season: | Polli Panda, Taylor Taylor |
 | Fri, 20 Nov 2026 | Spooky-J [ - ] EP Release | Junn |
 | Sat, 21 Nov 2026 | Klub Krai | Krai, Sodomland |
 

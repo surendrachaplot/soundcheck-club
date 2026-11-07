@@ -12,6 +12,7 @@ Luca Agnelli is a techno and hardcore artist based in Italy, with 121 gigs on so
 | Fri, 20 Nov 2026 | Club Vinyl | Denver |
 | Fri, 27 Nov 2026 | The Wall Club | Naples |
 | Fri, 4 Dec 2026 | BASIS | Utrecht |
+| Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
 
 ## Recently played
 

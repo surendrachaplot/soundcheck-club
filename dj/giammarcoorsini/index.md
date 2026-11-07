@@ -1,14 +1,13 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fünk, Mexico City on Fri, 6 Nov 2026.
+Giammarco Orsini is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 8 Nov 2026.
 
-Giammarco Orsini is a house and techno artist based in Italy, with 188 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 46 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: Fünk, Mexico City on Fri 6 Nov.
+Giammarco Orsini is a house and techno artist based in Italy, with 188 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 46 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: El Rio Hostel, Colombia on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Fünk | Mexico City |
 | Sun, 8 Nov 2026 | El Rio Hostel | Colombia |
 | Fri, 13 Nov 2026 | Goya Social Club | Madrid |
 | Sat, 21 Nov 2026 | Bien Public | Bordeaux |

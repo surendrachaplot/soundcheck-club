@@ -8,7 +8,7 @@ Lula Club is a music venue in Madrid listed on soundcheck. 26 upcoming gigs, wit
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Adam Ten | Adam Ten |
+| Sat, 7 Nov 2026 | Adam Ten | Adam Ten, CAMET, JP Candela, Torrione |
 | Sun, 8 Nov 2026 | Jazzy pres. Egyptian Lover | Egyptian Lover |
 | Thu, 12 Nov 2026 | NO NAME | Chris Figueroa |
 | Fri, 13 Nov 2026 | Notre Dame presents PARANORMAL showcase | CAMET, JP Candela, Notre Dame |

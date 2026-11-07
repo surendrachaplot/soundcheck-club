@@ -1,6 +1,6 @@
 # Temperate Sounds: Into the Jungle at Sneaky Pete's
 
-Temperate Sounds: Into the Jungle at Sneaky Pete's on Thu 19 Nov, Edinburgh. 3 artists: FIFI LA ROUX, Shep and YVI. Jungle. See the line-up on soundcheck.
+Temperate Sounds: Into the Jungle at Sneaky Pete's on Thu 19 Nov, Edinburgh. 3 artists: FIFI, Shep and YVI. Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Temperate Sounds: Into the Jungle at Sneaky Pete's on Thu 19 Nov, Edinburgh. 3 a
 
 ## Line-up
 
-- FIFI LA ROUX
+- FIFI (2)
 - Shep (2)
 - YVI
 

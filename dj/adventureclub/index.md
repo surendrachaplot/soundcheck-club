@@ -1,8 +1,8 @@
 # Adventure Club
 
-Adventure Club is a Dubstep and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Adventure Club is a Dubstep and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Adventure Club is a dubstep and tech house artist based in Canada, with 17 gigs on soundcheck across Amsterdam, Denver, Houston and Los Angeles and 7 more. Often billed alongside KREAM, Chris Lake and Ian Asher. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Adventure Club is a dubstep and tech house artist based in Canada, with 18 gigs on soundcheck across Amsterdam, Dallas Fort Worth, Denver and Houston and 8 more. Often billed alongside KREAM, Steve Aoki and Chris Lake. Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Adventure Club is a dubstep and tech house artist based in Canada, with 17 gigs 
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 20 Nov 2026 | Barceló Riviera Maya Resort | Playa-del-carmen |
+| Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Adventure Club is a dubstep and tech house artist based in Canada, with 17 gigs 
 
 ## Shares bills with
 
-KREAM, Chris Lake, Ian Asher
+KREAM, Steve Aoki, Chris Lake
 
 *Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adventureclub/)*

@@ -12,7 +12,7 @@ Egg London is a music venue in London listed on soundcheck. 47 upcoming gigs, wi
 | Sat, 7 Nov 2026 | XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS! LAST FREE TICKETS + FREE DRINK |  |
 | Sat, 7 Nov 2026 | LAST FREE TICKETS + FREE DRINK: Freshers 2026 – House & Disco ALL NIGHT LONG |  |
 | Sat, 7 Nov 2026 | LAST FREE TICKETS + FREE DRINK - RnB, Reggaeton, Afrohouse, Latin House, Pop - MOTIVE PARTY |  |
-| Sat, 7 Nov 2026 | BLEND | DRSJ |
+| Sat, 7 Nov 2026 | [CANCELLED] BLEND | DRSJ |
 | Sun, 8 Nov 2026 | THE RITUALS | Dr. Lu, Dres Codex, KIM HUNTER, Lau.tastic |
 | Wed, 11 Nov 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |
 | Fri, 13 Nov 2026 | ACCUSED BY ACA at EGG London (LOFT) | ACA (YU), Drako, FINKY, FIRZA, HARRIE SUMMERS, James Cooper (UK), Luke Welsh, Mene |

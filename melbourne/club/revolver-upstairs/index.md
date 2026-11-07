@@ -1,14 +1,13 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "REVOLVER BANDROOM: BRO58 — THE COUNTDOWN ALBUM LAUNCH" on Sat, 7 Nov 2026.
+Revolver Upstairs is a music venue in Melbourne with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "The Late Show" on Sat, 7 Nov 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 15 upcoming gigs, with line-ups including archiLo, Aristo G, Ben Silver and Boogs and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 14 upcoming gigs, with line-ups including archiLo, Aristo G, Ben Silver and Boogs and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | REVOLVER BANDROOM: BRO58 — THE COUNTDOWN ALBUM LAUNCH | DJ Rellik |
 | Sat, 7 Nov 2026 | The Late Show | Gay Roberto, Lewis Cancut, Shannon, archiLo |
 | Sun, 8 Nov 2026 | Mike Morrisey (UK) — Inner Mind, Good Times & Revolver Sundays | Mike Morrisey |
 | Mon, 9 Nov 2026 | Revolver Sundays | Ben Silver, Boogs, Steve Bleas, Tilly Hardy |
@@ -18,6 +17,7 @@ Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 15 upcomin
 | Sat, 14 Nov 2026 | Eric Duncan (US) — The Late Show | Eric Duncan |
 | Sun, 15 Nov 2026 | Bouncy & Friends — Bounce Melb & Revolver Sundays | Fosters, NOERA, San Dee |
 | Fri, 20 Nov 2026 | Michael Mayer (Kompakt - DE) — Revolver Fridays | Eluize, Michael Mayer, Mike Callander |
+| Fri, 20 Nov 2026 | Shadows | Lost Memories |
 
 ## Address
 

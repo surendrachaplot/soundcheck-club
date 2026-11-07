@@ -1,14 +1,13 @@
 # Refuge
 
-Refuge is a music venue in New York City with 18 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Refuge Friday with Joss Dean, Gigsta, Claudio. and Rana Iravani" on Fri, 6 Nov 2026.
+Refuge is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Refuge Saturday Daytime with Coco & Breezy, Lincoln Jesser, Ksenyeah and L3Ni" on Sat, 7 Nov 2026.
 
-Refuge is a music venue in New York City listed on soundcheck. 18 upcoming gigs, with line-ups including DANILO BRACA, AJ Christou, BASHKKA and Bella Mutino and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including DANILO BRACA, AJ Christou, BASHKKA and Bella Mutino and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Refuge Friday with Joss Dean, Gigsta, Claudio. and Rana Iravani | Joss Dean, Rana Iravani |
 | Sat, 7 Nov 2026 | Refuge Saturday Daytime with Coco & Breezy, Lincoln Jesser, Ksenyeah and L3Ni | Coco & Breezy, Ksenyeah, L3Ni |
 | Sat, 7 Nov 2026 | Refuge Saturday: Balance w/ BASHKKA, Satoshi Tomiie, Kim Anh, Justin Cudmore and More | BASHKKA, DANILO BRACA, Justin Cudmore, Kim Anh, Satoshi Tomiie |
 | Fri, 13 Nov 2026 | Refuge Friday with Jeremy Olander | Jeremy Olander |
@@ -18,6 +17,7 @@ Refuge is a music venue in New York City listed on soundcheck. 18 upcoming gigs,
 | Thu, 19 Nov 2026 | Refuge Thursday with Enrico Sangiuliano | Enrico Sangiuliano |
 | Thu, 26 Nov 2026 | David Morales | David Morales |
 | Fri, 27 Nov 2026 | Refuge Friday: Patrice Bäumel, Simon Vuarambon | Patrice Bäumel, Simon Vuarambon |
+| Sat, 28 Nov 2026 | Refuge Saturday Daytime: PNK Records Showcase |  |
 
 ## Address
 

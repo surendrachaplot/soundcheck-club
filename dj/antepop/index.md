@@ -1,14 +1,15 @@
 # Antepop
 
-Antepop is a Deep House and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bricks, London on Sat, 14 Nov 2026.
+Antepop is a Deep House and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bricks, London on Sat, 14 Nov 2026.
 
-Antepop is a deep house and dub techno artist based in United Kingdom, with 28 gigs on soundcheck across London. Often billed alongside Mihail, Daniel. and Dying in Beauty. Next up: Bricks, London on Sat 14 Nov.
+Antepop is a deep house and dub techno artist based in United Kingdom, with 29 gigs on soundcheck across London. Often billed alongside Mihail, Daniel. and Dying in Beauty. Next up: Bricks, London on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Bricks | London |
+| Sat, 28 Nov 2026 | Inverted Audio Record Store | London |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Flux Pavilion
 
-Flux Pavilion is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Clock Factory, Bristol on Sat, 5 Dec 2026.
+Flux Pavilion is a Dubstep and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Clock Factory, Bristol on Sat, 5 Dec 2026.
 
-Flux Pavilion is a dubstep and bass artist based in United Kingdom, with 25 gigs on soundcheck across Austin, Baltimore, Bristol and Denver and 11 more. Often billed alongside Doctor P, Delta Heavy and Dirtyphonics. Next up: The Clock Factory, Bristol on Sat 5 Dec.
+Flux Pavilion is a dubstep and bass artist based in United Kingdom, with 26 gigs on soundcheck across Austin, Baltimore, Bristol and Dallas Fort Worth and 12 more. Often billed alongside Doctor P, Delta Heavy and Dimension. Next up: The Clock Factory, Bristol on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | The Clock Factory | Bristol |
+| Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Flux Pavilion is a dubstep and bass artist based in United Kingdom, with 25 gigs
 
 ## Shares bills with
 
-Doctor P, Delta Heavy, Dirtyphonics
+Doctor P, Delta Heavy, Dimension
 
 *Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fluxpavilion/)*

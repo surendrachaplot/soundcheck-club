@@ -1,8 +1,8 @@
 # Ricardo Castro
 
-Ricardo Castro is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Ricardo Castro is a EBM and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
-Ricardo Castro is a techno and ebm artist based in United Kingdom, with 110 gigs on soundcheck across Berlin and London. Often billed alongside Steve Weeks, Arrosa and Elander Ziggy. Next up: OXI, Berlin on Fri 20 Nov.
+Ricardo Castro is an ebm and techno artist based in United Kingdom, with 111 gigs on soundcheck across Berlin and London. Often billed alongside Steve Weeks, Arrosa and Elander Ziggy. Next up: OXI, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ricardo Castro is a techno and ebm artist based in United Kingdom, with 110 gigs
 | Fri, 20 Nov 2026 | OXI | Berlin |
 | Fri, 27 Nov 2026 | Electrowerkz | London |
 | Sat, 19 Dec 2026 | The Old Church | London |
+| Sat, 19 Dec 2026 | Colours Hoxton | London |
 
 ## Recently played
 

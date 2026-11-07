@@ -17,7 +17,7 @@ Ormside Projects is a music venue in London listed on soundcheck. 15 upcoming gi
 | Fri, 20 Nov 2026 | common room with Maara (Ultra Villain live) / Dj wiggles / Pearl2 (live) / Nusheen | Dj wiggles, Maara, Nusheen |
 | Sat, 21 Nov 2026 | Touching Bass meets Don't Touch My Fro! | Alex Rita, Baba T, CTRLZORA, Errol, Tolu |
 | Thu, 26 Nov 2026 | BBBwithluv x AFRICANPU$$Y presents AFREECAN IN LONDON | XT1ANA, midnightswami |
-| Fri, 27 Nov 2026 | Unsound London x Tropical Waste: RP Boo, Kode9  | Hermeneia, Kode9, RP Boo, Seb (Tropical Waste), k means |
+| Fri, 27 Nov 2026 | [FINAL 20 TICKETS] Unsound London x Tropical Waste: RP Boo, Kode9  | Hermeneia, Kode9, RP Boo, Seb (Tropical Waste), k means |
 
 ## Address
 

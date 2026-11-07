@@ -1,14 +1,13 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at BASEMENT, New York City on Fri, 6 Nov 2026.
+Altinbas is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Standard Time, Toronto on Sat, 7 Nov 2026.
 
-Altinbas is a techno and house artist based in Belgium, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: BASEMENT, New York City on Fri 6 Nov.
+Altinbas is a techno and house artist based in Belgium, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 62 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Standard Time, Toronto on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | BASEMENT | New York City |
 | Sat, 7 Nov 2026 | Standard Time | Toronto |
 | Sat, 14 Nov 2026 | Fuse | Brussels |
 | Sat, 14 Nov 2026 | Tresor.West | Dortmund / Essen |

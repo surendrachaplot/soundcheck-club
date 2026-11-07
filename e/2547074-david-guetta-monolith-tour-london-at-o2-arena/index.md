@@ -1,6 +1,6 @@
 # David Guetta Monolith Tour London at O2 Arena
 
-David Guetta Monolith Tour London at O2 Arena on Sat 5 Jun, London. 1 artist: David Guetta. See the line-up on soundcheck.
+David Guetta Monolith Tour London at O2 Arena on Sat 5 Jun, London. 1 artist: David Guetta. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

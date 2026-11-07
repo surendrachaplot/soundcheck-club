@@ -1,13 +1,14 @@
 # Tre Reynolds
 
-Tre Reynolds is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Floyd, Miami on Fri, 13 Nov 2026.
+Tre Reynolds is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at XOYO, London on Sat, 7 Nov 2026.
 
-Tre Reynolds is a tech house and house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside Danny Howard, Fatzo and Oden. Next up: Floyd, Miami on Fri 13 Nov.
+Tre Reynolds is a tech house and house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 15 more. Often billed alongside Danny Howard, Fatzo and Oden. Next up: XOYO, London on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | XOYO | London |
 | Fri, 13 Nov 2026 | Floyd | Miami |
 | Fri, 20 Nov 2026 | Elsewhere | New York City |
 | Sat, 21 Nov 2026 | Spybar | Chicago |

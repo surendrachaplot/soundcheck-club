@@ -14,7 +14,7 @@ Irren is a house and tech house artist based in Moldova, with 19 gigs on soundch
 
 - TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London · Sat, 31 Oct 2026
 - Colour Factory, London · Sat, 24 Oct 2026
-- Colour Factory, London · Sat, 17 Oct 2026
+- Colour Factory, London · Sat, 24 Oct 2026
 - Colour Factory, London · Sat, 13 Jun 2026
 - TBA - Secret East London Warehouse, London · Sat, 28 Mar 2026
 - Colour Factory, London · Fri, 20 Feb 2026

@@ -1,6 +1,6 @@
 # Barfly
 
-Barfly is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "[RESCHEDULED] SleazeBox: free unofficial SLAYYYTER Club Night" on Fri, 27 Nov 2026.
+Barfly is a music venue in London with 2 upcoming gigs listed on soundcheck as of Fri, 6 Nov 2026. The next is "[RESCHEDULED] SleazeBox: free unofficial SLAYYYTER Club Night" on Fri, 27 Nov 2026.
 
 Barfly is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Zkeletonz. See dates, start times and who's playing. 49 Chalk Farm Road; Camden Town; London NW1 8AN; United Kingdom.
 
@@ -15,4 +15,4 @@ Barfly is a music venue in London listed on soundcheck. 2 upcoming gigs, with li
 
 49 Chalk Farm Road; Camden Town; London NW1 8AN; United Kingdom, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/barfly/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/barfly/)*

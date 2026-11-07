@@ -1,14 +1,13 @@
 # Rana Iravani
 
-Rana Iravani is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Refuge, New York City on Fri, 6 Nov 2026.
+Rana Iravani is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Green Room NYC, New York City on Sat, 14 Nov 2026.
 
-Rana Iravani is a house and tech house artist based in United States of America, with 47 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Jack Mulqueen and shanty mane. Next up: Refuge, New York City on Fri 6 Nov.
+Rana Iravani is a house and tech house artist based in United States of America, with 47 gigs on soundcheck across Dubai, Miami and New York City. Often billed alongside Auphoria, Jack Mulqueen and shanty mane. Next up: Green Room NYC, New York City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Refuge | New York City |
 | Sat, 14 Nov 2026 | Green Room NYC | New York City |
 | Sat, 5 Dec 2026 | Paraiso Estereo | Miami |
 

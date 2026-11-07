@@ -1,15 +1,13 @@
 # leverson
 
-leverson is a R&B and Hip-Hop artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Runner Up Rooftop Bar, Melbourne on Sat, 7 Nov 2026.
+leverson is a R&B and Hip-Hop artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Section 8, Melbourne on Sun, 8 Nov 2026.
 
-leverson is a r&b and hip-hop artist based in United Kingdom, with 193 gigs on soundcheck across Amsterdam, Auckland, Birmingham and London and 3 more. Often billed alongside Signorina, Omari King and Omari. Next up: Runner Up Rooftop Bar, Melbourne on Sat 7 Nov.
+leverson is a r&b and hip-hop artist based in United Kingdom, with 193 gigs on soundcheck across Amsterdam, Auckland, Birmingham and London and 3 more. Often billed alongside Signorina, Omari King and Omari. Next up: Section 8, Melbourne on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Runner Up Rooftop Bar | Melbourne |
-| Sat, 7 Nov 2026 | High Note | Melbourne |
 | Sun, 8 Nov 2026 | Section 8 | Melbourne |
 | Mon, 9 Nov 2026 | Wax Music Lounge | Melbourne |
 | Thu, 12 Nov 2026 | Vespertine | Sydney |

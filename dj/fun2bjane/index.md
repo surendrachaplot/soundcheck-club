@@ -1,14 +1,13 @@
 # fun2bjane
 
-fun2bjane is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 6 Nov 2026.
+fun2bjane is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Kiso, Los Angeles on Sat, 7 Nov 2026.
 
-fun2bjane is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Etari, Capes and mad gavs. Next up: TBA - DTLA, Los Angeles on Fri 6 Nov.
+fun2bjane is a techno and house artist based in United States of America, with 38 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Etari, Capes and mad gavs. Next up: Kiso, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - DTLA | Los Angeles |
 | Sat, 7 Nov 2026 | Kiso | Los Angeles |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |
 

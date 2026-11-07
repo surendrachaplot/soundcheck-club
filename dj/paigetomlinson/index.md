@@ -1,14 +1,13 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 19 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 6 Nov 2026.
+Paige Tomlinson is a House and Techno artist with 18 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at 99 Scott Ave, New York City on Sat, 7 Nov 2026.
 
-Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: The Ground at Club Space, Miami on Fri 6 Nov.
+Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: 99 Scott Ave, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 7 Nov 2026 | 99 Scott Ave | New York City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 13 Nov 2026 | Club Vinyl | Denver |
@@ -20,6 +19,7 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, with 177 g
 | Fri, 27 Nov 2026 | Night Tales | London |
 | Sat, 28 Nov 2026 | Lijm & Cultuur | Netherlands |
 | Sat, 28 Nov 2026 | Complex Maastricht | Netherlands |
+| Sun, 29 Nov 2026 | Sparty | Budapest |
 
 ## Recently played
 

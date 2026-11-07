@@ -1,14 +1,13 @@
 # AWood
 
-AWood is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Gorg-O-Mish, Vancouver on Fri, 6 Nov 2026.
+AWood is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - East Vancouver, Vancouver on Fri, 13 Nov 2026.
 
-AWood is a techno and house artist based in Canada, with 47 gigs on soundcheck across Calgary, Toronto and Vancouver. Often billed alongside Lucci (CA), DK PAU and Fizch. Next up: Gorg-O-Mish, Vancouver on Fri 6 Nov.
+AWood is a techno and house artist based in Canada, with 47 gigs on soundcheck across Calgary, Toronto and Vancouver. Often billed alongside Lucci (CA), DK PAU and Fizch. Next up: TBA - East Vancouver, Vancouver on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Gorg-O-Mish | Vancouver |
 | Fri, 13 Nov 2026 | TBA - East Vancouver | Vancouver |
 
 ## Recently played

@@ -1,14 +1,13 @@
 # Henry Saiz
 
-Henry Saiz is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cafe Del Mar, Sydney on Sat, 7 Nov 2026.
+Henry Saiz is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at HI-SO Rooftop Bar, Auckland on Sun, 8 Nov 2026.
 
-Henry Saiz is a progressive house and house artist based in Spain, with 68 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 22 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: Cafe Del Mar, Sydney on Sat 7 Nov.
+Henry Saiz is a progressive house and house artist based in Spain, with 68 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 22 more. Often billed alongside Amadori, Luciano Lozz and Gespona. Next up: HI-SO Rooftop Bar, Auckland on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Cafe Del Mar | Sydney |
 | Sun, 8 Nov 2026 | HI-SO Rooftop Bar | Auckland |
 | Sat, 14 Nov 2026 | The Industrique | Melbourne |
 

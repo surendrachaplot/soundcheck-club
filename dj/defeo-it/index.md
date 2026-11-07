@@ -1,14 +1,15 @@
 # DE FEO
 
-DE FEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cici Park, Chongqing on Sat, 7 Nov 2026.
+DE FEO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cici Park, Chongqing on Sat, 7 Nov 2026.
 
-DE FEO is a techno and house artist based in Italy, with 27 gigs on soundcheck across Amsterdam, Berlin, Chongqing and Hong Kong and 4 more. Often billed alongside Pooja B, BOHO and Eclectic Elektra. Next up: Cici Park, Chongqing on Sat 7 Nov.
+DE FEO is a techno and house artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Berlin, Chongqing and Hong Kong and 4 more. Often billed alongside Pooja B, BOHO and Eclectic Elektra. Next up: Cici Park, Chongqing on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Cici Park | Chongqing |
+| Fri, 13 Nov 2026 | POTENT | Shanghai |
 
 ## Recently played
 

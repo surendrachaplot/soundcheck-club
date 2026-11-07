@@ -12,6 +12,7 @@ Goodjacobbe is a house and deep house artist based in Italy, with 43 gigs on sou
 
 ## Recently played
 
+- Millenium Club, Bologna · Wed, 28 Oct 2026
 - Millenium Club, Bologna · Sat, 24 Oct 2026
 - Millenium Club, Bologna · Sat, 25 Apr 2026
 - Millenium Club, Bologna · Sat, 14 Mar 2026
@@ -19,7 +20,6 @@ Goodjacobbe is a house and deep house artist based in Italy, with 43 gigs on sou
 - Millenium Club, Bologna · Sat, 14 Feb 2026
 - Millenium Club, Bologna · Sat, 31 Jan 2026
 - Millenium Club, Bologna · Sat, 17 Jan 2026
-- Dumbo, Bologna · Thu, 25 Dec 2025
 
 ## Shares bills with
 

@@ -1,14 +1,13 @@
 # Coffintexts
 
-Coffintexts is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Los Angeles on Fri, 6 Nov 2026.
+Coffintexts is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Compound, Baltimore on Sat, 7 Nov 2026.
 
-Coffintexts is a techno and house artist based in United States of America, with 146 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 39 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: TBA, Los Angeles on Fri 6 Nov.
+Coffintexts is a techno and house artist based in United States of America, with 146 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 39 more. Often billed alongside Sister System, SATURNSARii and Berrakka. Next up: The Compound, Baltimore on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA | Los Angeles |
 | Sat, 7 Nov 2026 | The Compound | Baltimore |
 | Fri, 13 Nov 2026 | Barn Radio | Portland |
 | Sat, 14 Nov 2026 | TBA - Private Location | Vancouver |

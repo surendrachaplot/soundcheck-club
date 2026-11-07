@@ -4921,6 +4921,29 @@ a.fst-t:hover{text-decoration:underline}
       .fp-sk-rt{ display:flex; } .fp-sk-rt:empty{ display:none; }
       .fp-sk-rtb{ display:none; }
     }
+    /* WHOLE DIARY (Paper NEXT "Diary of everything — B · One timeline", 7 Nov 2026): your own Diary tab.
+       Set rows use the Friends feed's row rules above (.frd, .tl); these add the date line + rating line. */
+    .dtl{ max-width:720px; }
+    .dtl-chips{ margin:16px 0 4px; }
+    .dtl .dst{ padding:0 0 40px; gap:0; }
+    .dtl .dst-grid{ grid-template-columns:minmax(0,1fr); }
+    .dtl .fp-sk-ch{ display:flex; align-items:center; gap:5px; margin:0; white-space:nowrap; font:600 var(--fs-2xs)/var(--lh-2xs) var(--font-mono); }
+    .dtl .fp-sk-mw{ display:none; } .dtl .fp-sk-mp{ display:inline; overflow:hidden; text-overflow:ellipsis; }
+    .dtl .fp-sk-gl{ display:block; width:14px; height:14px; flex:none; color:var(--muted); }
+    .dtl .fp-sk-rt{ display:flex; } .dtl .fp-sk-rt:empty{ display:none; } .dtl .fp-sk-rtb{ display:none; }
+    .dtl-day{ padding:22px 0 2px; font:700 var(--fs-2xs)/16px var(--font-mono); letter-spacing:.1em; text-transform:uppercase; color:var(--faint); }
+    .dtl-verb{ display:flex; justify-content:space-between; gap:12px; padding:12px 0 6px; font:700 13px/18px var(--body); color:var(--fg); }
+    .dtl-verb i{ font-style:normal; font-weight:500; color:var(--muted); }
+    .dtl-verb time{ font:700 11px/18px var(--font-mono); color:var(--faint); flex:none; }
+    .dtl-art{ display:flex; align-items:center; gap:12px; padding:2px 0 4px; cursor:pointer; }
+    .dtl-av{ width:40px; height:40px; border-radius:50%; flex:none; background:var(--surface-2) center/cover; display:flex; align-items:center; justify-content:center; font:700 15px var(--body); color:var(--muted); }
+    .dtl-at{ flex:1; min-width:0; display:flex; flex-direction:column; gap:2px; }
+    .dtl-an{ font:700 15px/19px var(--body); color:var(--fg); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .dtl-as{ font:400 13px/17px var(--body); color:var(--muted); }
+    .dtl-art .nh{ flex:none; }
+    .dtl-fold{ display:block; width:100%; text-align:left; margin:10px 0 0; padding:12px 14px; border:1px dashed var(--line-2); border-radius:12px; background:none; font:400 13px/19px var(--body); color:var(--muted); cursor:pointer; }
+    .dtl-fold b{ color:var(--fg); }
+    .dtl-end{ height:1px; }
     .rt-sh{ display:flex; flex-direction:column; align-items:center; gap:8px; padding:10px 12px 4px; }
     .rt-q{ font:800 16px/20px var(--head); color:var(--fg); }
     .rt-stars{ display:flex; }
@@ -5376,15 +5399,15 @@ a.fst-t:hover{text-decoration:underline}
     .frd .dst{ padding:0; }
     .frd .dst-grid{ grid-template-columns:minmax(0,1fr); }
     /* the ONE set row, as a row at every width (the phone layout of .fp-skw) */
-    .frd .fp-skw{ display:flex; align-items:center; gap:12px; padding:0; }
-    .frd .fp-sk{ flex-direction:row; align-items:center; gap:12px; flex:1 1 auto; width:auto; }
-    .frd .fp-sk-th{ width:80px; height:45px; aspect-ratio:auto; flex:none; }
-    .frd .fp-sk-th .gen{ padding:5px; }
-    .frd .fp-sk-th .gen .gt, .frd .fp-sk-dur{ display:none; }
-    .frd .fp-sk-tx{ display:flex; flex-direction:column; gap:2px; flex:1 1 auto; }
-    .frd .fp-sk-ti{ font:700 var(--fs-base)/19px var(--body); letter-spacing:0; margin:0; min-height:0; }
-    .frd .fp-sk-ar{ margin:0; }
-    .frd .fp-sk-acts{ flex:none; margin:0 -13px 0 0; }
+    .frd .fp-skw, .dtl .fp-skw{ display:flex; align-items:center; gap:12px; padding:0; }
+    .frd .fp-sk, .dtl .fp-sk{ flex-direction:row; align-items:center; gap:12px; flex:1 1 auto; width:auto; }
+    .frd .fp-sk-th, .dtl .fp-sk-th{ width:80px; height:45px; aspect-ratio:auto; flex:none; }
+    .frd .fp-sk-th .gen, .dtl .fp-sk-th .gen{ padding:5px; }
+    .frd .fp-sk-th .gen .gt, .frd .fp-sk-dur, .dtl .fp-sk-th .gen .gt, .dtl .fp-sk-dur{ display:none; }
+    .frd .fp-sk-tx, .dtl .fp-sk-tx{ display:flex; flex-direction:column; gap:2px; flex:1 1 auto; }
+    .frd .fp-sk-ti, .dtl .fp-sk-ti{ font:700 var(--fs-base)/19px var(--body); letter-spacing:0; margin:0; min-height:0; }
+    .frd .fp-sk-ar, .dtl .fp-sk-ar{ margin:0; }
+    .frd .fp-sk-acts, .dtl .fp-sk-acts{ flex:none; margin:0 -13px 0 0; }
     /* the line-up artist row: face, name + heart, the next gig under the name, play */
     .frd .fp-lu{ display:grid; grid-template-columns:48px minmax(0,1fr) 44px; grid-template-areas:"f tx pl" "f at pl"; align-items:center; column-gap:8px; row-gap:3px; padding:0; border:0; }
     .frd .fp-lu-face{ grid-area:f; width:48px; height:48px; }
@@ -5418,7 +5441,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1793990704483">
+<meta name="sc-build" content="1794066265088">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5478,7 +5501,7 @@ a.fst-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-06/">Fri 6 Nov <span class="c">96 events</span></a></li><li><a href="/london/2026-11-07/">Sat 7 Nov <span class="c">140 events</span></a></li><li><a href="/london/2026-11-08/">Sun 8 Nov <span class="c">24 events</span></a></li><li><a href="/london/2026-11-09/">Mon 9 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">13 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">36 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-07/">Sat 7 Nov <span class="c">139 events</span></a></li><li><a href="/london/2026-11-08/">Sun 8 Nov <span class="c">25 events</span></a></li><li><a href="/london/2026-11-09/">Mon 9 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">12 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">36 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">106 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -11484,6 +11507,104 @@ a.fst-t:hover{text-decoration:underline}
         .then(function(r){ if(!r.ok) throw 0; showToast('Removed from your diary'); if(onChange) onChange(); })
         .catch(function(){ if(btn) btn.disabled=false; showToast('Couldn’t remove that. Try again.'); });
     }
+    // ── WHOLE DIARY (Paper NEXT "Diary of everything — B · One timeline", founder 7 Nov 2026) ──
+    // Your own Diary tab: everything you did, newest first, by day. A verb line over the part we
+    // already draw: the set row, the stub, an artist row. Other people's diaries keep the stubs.
+    var TL_CHIPS=[['all','All'],['gigs','Gigs'],['sets','Sets'],['artists','Artists']], _tlSets=[];
+    var TL_FOLD={ listened:['Listened to',' sets'], saved:['Saved',' sets'], rated:['Rated',' sets'], gig:['Logged',' gigs'], wanna_see:['Want to see',' artists'], seen:['Seen live:',' artists'] };
+    function tlMount(db, diary, handle, onChange){
+      var kind='all', next=null, busy=false, lastDay=null, run=0;
+      diary.forEach(function(d){ if(d.id!=null) _diaryById[d.id]=d; });
+      db.innerHTML='<div class="dtl"><div class="lsn-chips dtl-chips" role="tablist">'+TL_CHIPS.map(function(c){ var on=c[0]==='all';
+          return '<button class="qchip'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-tlk="'+c[0]+'">'+c[1]+(c[0]==='gigs'&&diary.length?' <span class="c">'+diary.length+'</span>':'')+'</button>'; }).join('')+
+        '</div><div class="dst dtl-list" data-handle="'+esc(handle||'')+'"></div><div class="dtl-end" aria-hidden="true"></div></div>';
+      var list=db.querySelector('.dtl-list'), end=db.querySelector('.dtl-end');
+      wireDiary(db, true, onChange);
+      db.querySelectorAll('[data-tlk]').forEach(function(b){ b.addEventListener('click', function(){
+        if(b.dataset.tlk===kind) return; kind=b.dataset.tlk;
+        db.querySelectorAll('[data-tlk]').forEach(function(x){ var on=x===b; x.classList.toggle('on',on); x.setAttribute('aria-selected',on); });
+        list.innerHTML=''; next=null; lastDay=null; load(true);
+      }); });
+      list.addEventListener('click', function(e){
+        var f=e.target.closest('.dtl-fold'); if(f){ var h=f.nextElementSibling; if(h) h.hidden=false; f.remove(); return; }
+        var a=e.target.closest('.dtl-art[data-artist]'); if(a && !e.target.closest('.nh')) openArtist(a.dataset.artist);
+      });
+      list.addEventListener('keydown', function(e){ var a=e.target.closest&&e.target.closest('.dtl-art'); if(a && (e.key==='Enter'||e.key===' ')){ e.preventDefault(); openArtist(a.dataset.artist); } });
+      if(window.IntersectionObserver) new IntersectionObserver(function(en){ if(en[0].isIntersecting) load(false); }, { rootMargin:'600px' }).observe(end);
+      load(true);
+      function load(first){
+        if(busy && !first) return; if(!first && !next) return;
+        // Gigs = the stack of stubs as before, with its year strip (a redesign keeps every feature)
+        if(kind==='gigs'){ ++run; busy=false; next=null; list.innerHTML=diaryTLHTML(diary, true, handle); var lg=document.getElementById('diary-log2'); if(lg) lg.addEventListener('click', function(){ openLog(); }); return; }
+        var me=++run; busy=true;
+        authedFetch('/api/me/timeline?limit=60&kind='+kind+(!first&&next?'&before='+encodeURIComponent(next):''))
+          .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+          .then(function(j){
+            if(me!==run) return; busy=false; next=j.next||null;
+            var html=page(j.items||[]);
+            if(first && !html){ list.innerHTML=kind==='all'||kind==='gigs' ? diaryTLHTML([], true, handle) : '<p class="lsn-empty">Nothing here yet.</p>'; var lb=document.getElementById('diary-log2'); if(lb) lb.addEventListener('click', function(){ openLog(); }); return; }
+            list.insertAdjacentHTML('beforeend', html);
+          })
+          .catch(function(){
+            if(me!==run) return; busy=false;
+            if(first && kind==='all'){ db.innerHTML=diaryTLHTML(diary, true, handle); wireDiary(db, true, onChange); }   // the old stack, never a blank tab
+          });
+      }
+      // One page of items: day heads, then runs of the same verb (3+ fold behind "Show N more").
+      function page(items){
+        var out='', runs=[];
+        items.forEach(function(it){
+          var day=frdISO(new Date(it.at).getTime()), vk=tlVerbKey(it), h=tlItemHTML(it); if(!h) return;
+          var last=runs[runs.length-1];
+          if(last && last.day===day && last.vk===vk) last.h.push(h); else runs.push({ day:day, vk:vk, h:[h] });
+        });
+        runs.forEach(function(r){
+          if(r.day!==lastDay){ var y=r.day.slice(0,4), lbl=frdDayLabel(r.day)+(y!==String(new Date().getFullYear())?' '+y:''); out+='<div class="dtl-day">'+esc(lbl)+'</div>'; lastDay=r.day; }
+          out+=r.h.slice(0,2).join('');
+          if(r.h.length>2){ var f=TL_FOLD[r.vk]||['Did',' things'];
+            out+='<button class="dtl-fold" type="button"><b>'+esc(f[0])+' '+r.h.length+esc(f[1])+'</b> · Show '+(r.h.length-2)+' more</button><div hidden>'+r.h.slice(2).join('')+'</div>'; }
+        });
+        return out;
+      }
+    }
+    function tlVerbKey(it){ return it.kind==='gig' ? 'gig' : it.kind==='artist' ? it.status : (it.did.indexOf('listened')>=0?'listened':it.did.indexOf('rated')>=0?'rated':'saved'); }
+    // "now" / "5m" / "2h" today, then the weekday for 6 days, then "26 Sep"
+    function tlTime(iso){
+      var w=frdTime(iso); if(w) return w;
+      var t=new Date(iso), d=(Date.now()-t.getTime())/864e5; if(isNaN(d)) return '';
+      return t.toLocaleDateString('en-GB', d<7 ? { weekday:'short' } : { day:'numeric', month:'short' }).replace('Sept','Sep');
+    }
+    function tlVerbHTML(b, rest, iso){ return '<div class="dtl-verb"><span>'+esc(b)+(rest?'<i> · '+esc(rest)+'</i>':'')+'</span><time>'+esc(tlTime(iso))+'</time></div>'; }
+    function tlItemHTML(it){
+      if(it.kind==='gig'){
+        var d=_diaryById[it.entryId]; if(!d) return '';
+        return tlVerbHTML('Logged a gig', d.gig_no?'Nº '+d.gig_no:'', it.at)+'<div class="dst-grid">'+dstStubHTML(d, true)+'</div>';
+      }
+      if(it.kind==='artist'){
+        var ws=it.status==='wanna_see';
+        return tlVerbHTML(ws?'Want to see':'Seen live', '', it.at)+
+          '<div class="dtl-art" role="link" tabindex="0" data-artist="'+esc(it.slug)+'"><span class="dtl-av"'+(it.image?' style="background-image:url(\''+esc(it.image)+'\')"':'')+'>'+(it.image?'':esc((it.name||it.slug||'?').charAt(0).toUpperCase()))+'</span>'+
+          '<span class="dtl-at"><span class="dtl-an">'+esc(it.name||it.slug)+'</span><span class="dtl-as">'+(ws?'You want to see them':'You saw them live')+'</span></span>'+(ws?nameHeartHTML(it.slug, it.name):'')+'</div>';
+      }
+      if(!it.title) return '';
+      var did=it.did||[], parts=[];
+      if(did.indexOf('listened')>=0) parts.push('Listened');
+      if(did.indexOf('rated')>=0 && it.stars) parts.push('rated it '+it.stars);
+      if(did.indexOf('saved')>=0) parts.push('saved it');
+      if(!parts.length) parts.push('Saved');
+      parts[0]=parts[0]==='saved it'?'Saved':parts[0].charAt(0).toUpperCase()+parts[0].slice(1);
+      var i=_tlSets.push(it)-1, sk=lsnKey(it.id, it.source);
+      var save=sk?setAddHTML(sk, { artistSlug:it.artistSlug, artistName:it.artistName, title:it.title, duration:it.duration, thumb:it.thumb, publishedAt:it.publishedAt }):'';
+      return tlVerbHTML(parts[0], parts.slice(1).join(' · '), it.at)+
+        setCardHTML({ i:i, attr:'data-tli', thumb:it.thumb, title:it.title, dur:fmtSetDur(it.duration), date:it.publishedAt, src:it.source==='yt'?'YouTube':it.source==='nts'?'NTS':'SoundCloud',
+          key:sk?lsnK(sk):'', save:save, slug:it.artistSlug, name:it.artistName, url:it.source==='yt'?'https://youtu.be/'+it.id:it.id });
+    }
+    document.addEventListener('click', function(e){
+      var b=e.target.closest && e.target.closest('.fp-sk[data-tli]'), it=b && _tlSets[+b.dataset.tli]; if(!it) return;
+      trkWant('row');
+      if(it.source==='yt') playYtList([{ slug:it.artistSlug, name:it.artistName, title:it.title, videoId:it.id, poster:'' }], 0);
+      else playScUrl(it.id, it.title, it.thumb, it.source==='nts'?'NTS Radio':'SoundCloud', { name:it.artistName, slug:it.artistSlug });
+    });
     function wireDiary(scope, isMe, onChange){
       if(!scope) return;
       var st=scope.querySelector('.dst'), handle=st?st.dataset.handle:'';
@@ -12058,8 +12179,9 @@ a.fst-t:hover{text-decoration:underline}
       if(db){ if(isMe || diary.length){
         // Log a gig sits ABOVE the diary (empty state keeps its own nudge button)
         // No button over the stack: Log a gig is in the header and the bottom bar (the empty state keeps its own).
-        db.innerHTML=diaryTLHTML(diary, isMe, p.handle);
-        wireDiary(db, isMe, function(){ openProfile(p.handle); });
+        if(isMe && currentUser) tlMount(db, diary, p.handle, function(){ openProfile(p.handle); });
+        else { db.innerHTML=diaryTLHTML(diary, isMe, p.handle);
+        wireDiary(db, isMe, function(){ openProfile(p.handle); }); }
         ['diary-log2'].forEach(function(id){ var b=document.getElementById(id); if(b) b.addEventListener('click',function(){ openLog(); }); });
       } else db.remove(); }
       // Seen live / Wanna see boxes (spacious grids)

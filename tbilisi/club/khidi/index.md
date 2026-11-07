@@ -1,14 +1,13 @@
 # KHIDI
 
-KHIDI is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "KHIDI: Boyd Schidt, Delano Legito, Dual Pistols, Frequency Shifter, KXAH, Regal" on Fri, 6 Nov 2026.
+KHIDI is a music venue in Tbilisi with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "G2: Highlimiter, Julia Maria, SHE/HER" on Sat, 7 Nov 2026.
 
-KHIDI is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with line-ups including 00rt, AgainstMe, Boyd Schidt and Delano Legito and 2 more. See dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
+KHIDI is a music venue in Tbilisi listed on soundcheck. 2 upcoming gigs, with line-ups including 00rt, AgainstMe, Julia Maria and OTHR and 2 more. See dates, start times and who's playing. Vakhushti Bagrationi Bridge, Right Embankment, 0160 Tbilisi.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | KHIDI: Boyd Schidt, Delano Legito, Dual Pistols, Frequency Shifter, KXAH, Regal | Boyd Schidt, Delano Legito, Dual Pistols, Frequency Shifter, IAMEA, KXAH, Obri, Philipp Drube, Regal |
 | Sat, 7 Nov 2026 | G2: Highlimiter, Julia Maria, SHE/HER | Julia Maria, SHE/HER |
 | Fri, 20 Nov 2026 | KHIDI 中 BITE: 00rt, AgainstMe & more | 00rt, AgainstMe, OTHR, Pablo Bozzi, Phase Fatale, Sharlese, Unhuman |
 

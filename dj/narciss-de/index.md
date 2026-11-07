@@ -1,14 +1,13 @@
 # Narciss
 
-Narciss is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 6 Nov 2026.
+Narciss is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Public Works, San Francisco/Oakland on Sat, 7 Nov 2026.
 
-Narciss is a techno and house artist based in Germany, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Morphena, DJ Gigola and MALUGI. Next up: TBA - Los Angeles, Los Angeles on Fri 6 Nov.
+Narciss is a techno and house artist based in Germany, with 230 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 67 more. Often billed alongside Morphena, DJ Gigola and MALUGI. Next up: Public Works, San Francisco/Oakland on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 7 Nov 2026 | Public Works | San Francisco/Oakland |
 | Fri, 26 Mar 2027 | TBA - Eagle Ridge Event Park, Tallarook | Victoria |
 

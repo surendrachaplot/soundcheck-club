@@ -1,14 +1,13 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at BASEMENT, New York City on Fri, 6 Nov 2026.
+Aurora Halal is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Downtown, Los Angeles on Fri, 13 Nov 2026.
 
-Aurora Halal is a techno and house artist based in United States of America, with 252 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 63 more. Often billed alongside DJ Nobu, Avalon Emerson and Ben UFO. Next up: BASEMENT, New York City on Fri 6 Nov.
+Aurora Halal is a techno and house artist based in United States of America, with 252 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 63 more. Often billed alongside DJ Nobu, Avalon Emerson and Ben UFO. Next up: TBA - Downtown, Los Angeles on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | BASEMENT | New York City |
 | Fri, 13 Nov 2026 | TBA - Downtown | Los Angeles |
 | Sat, 14 Nov 2026 | Monument SF | San Francisco/Oakland |
 | Fri, 20 Nov 2026 | Laak | The Hague |
@@ -20,6 +19,7 @@ Aurora Halal is a techno and house artist based in United States of America, wit
 | Sat, 12 Dec 2026 | FOLD | London |
 | Fri, 18 Dec 2026 | Post Bar | Helsinki |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 26 Dec 2026 | Flash | Washington DC |
 
 ## Recently played
 

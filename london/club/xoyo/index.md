@@ -9,7 +9,7 @@ XOYO is a music venue in London listed on soundcheck. 40 upcoming gigs, with lin
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Drum and Bass Classics - London All Dayer - XOYO | Crissy Criss, DJ Hazard, Dillinja, Fabio, Funsta, Gumbo, IC3, MC GQ, Moose, Optical, Trimer, Vortex x |
-| Sat, 7 Nov 2026 | Kaluki London: Tre Reynolds, Jansons, Pirate Copy + more | Jansons, Kim April, Pirate Copy, Reelow |
+| Sat, 7 Nov 2026 | Kaluki London: Tre Reynolds, Jansons, Pirate Copy + more | Jansons, Kim April, Pirate Copy, Reelow, Tre Reynolds |
 | Mon, 9 Nov 2026 | MOTION Every Monday |  |
 | Wed, 11 Nov 2026 | PARADOX | Jackopo, Savio Testa |
 | Thu, 12 Nov 2026 | Cherry - House & Disco - XOYO | BTAY |

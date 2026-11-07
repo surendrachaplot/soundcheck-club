@@ -2,7 +2,7 @@
 
 WLDV is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
 
-WLDV is an electronic artist, with 6 gigs on soundcheck across Barcelona, Berlin, Madrid and Rotterdam. Often billed alongside Ancient Methods, Andi and Annechoic. Next up: Razzmatazz, Barcelona on Sat 7 Nov.
+WLDV is an electronic artist based in Spain, with 6 gigs on soundcheck across Barcelona, Berlin, Madrid and Rotterdam. Often billed alongside Ancient Methods, Andi and Annechoic. Next up: Razzmatazz, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 

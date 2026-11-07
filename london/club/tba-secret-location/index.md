@@ -1,8 +1,8 @@
-# TBA - secret location
+# TBA - Secret Location
 
-TBA - secret location is a music venue in London with 56 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Primogemito: Divine Inspiration" on Sat, 7 Nov 2026.
+TBA - Secret Location is a music venue in London with 56 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Primogemito: Divine Inspiration" on Sat, 7 Nov 2026.
 
-TBA - secret location is a music venue in London listed on soundcheck. 56 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 56 upcoming gigs, with line-ups including 0dysseus, AINES, Alexia and Allan and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

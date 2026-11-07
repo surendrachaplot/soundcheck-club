@@ -1,13 +1,14 @@
 # CAMET
 
-CAMET is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lula Club, Madrid on Fri, 13 Nov 2026.
+CAMET is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lula Club, Madrid on Sat, 7 Nov 2026.
 
-CAMET is a house and electronica artist based in United Kingdom, with 39 gigs on soundcheck across Barcelona, Berlin, Cyprus and Madrid. Often billed alongside Torrione, COLLISION and JP Candela. Next up: Lula Club, Madrid on Fri 13 Nov.
+CAMET is a house and electronica artist based in United Kingdom, with 40 gigs on soundcheck across Barcelona, Berlin, Cyprus and Madrid. Often billed alongside Torrione, JP Candela and COLLISION. Next up: Lula Club, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 7 Nov 2026 | Lula Club | Madrid |
 | Fri, 13 Nov 2026 | Lula Club | Madrid |
 | Sat, 21 Nov 2026 | Mason Bar | Cyprus |
 
@@ -24,6 +25,6 @@ CAMET is a house and electronica artist based in United Kingdom, with 39 gigs on
 
 ## Shares bills with
 
-Torrione, COLLISION, JP Candela
+Torrione, JP Candela, COLLISION
 
 *Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camet/)*

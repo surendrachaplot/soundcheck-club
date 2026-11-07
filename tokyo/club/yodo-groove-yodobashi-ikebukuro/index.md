@@ -1,14 +1,13 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Localize! Open Air – Tokyo Drum & Bass / Jungle Rooftop Party" on Sat, 7 Nov 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Drunken Kong & Yamato — TOKYO ROOFTOP TECHNO at YODO GROOVE" on Sun, 8 Nov 2026.
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including ANZU, ATT, DJ Emma and DJ MIYU and 2 more. See dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including ANZU, ATT, DJ Emma and DJ SAWA and 2 more. See dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Localize! Open Air – Tokyo Drum & Bass / Jungle Rooftop Party | DJ MIYU, DJ Shimamura, Kirk (US), TAIKI |
 | Sun, 8 Nov 2026 | Drunken Kong & Yamato — TOKYO ROOFTOP TECHNO at YODO GROOVE | Drunken Kong, Shogo Ito, WAKA XINXI, Yamato |
 | Sun, 15 Nov 2026 | SKY MUSIC JOURNEY – Steven Soji Wright (LA) - Tokyo Rooftop Party | GOLDEN ROA, Steven Wright |
 | Sat, 21 Nov 2026 | URBAN MELODIES -  90s & 2000s Dance Classics | Takaya |

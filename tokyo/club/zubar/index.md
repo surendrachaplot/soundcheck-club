@@ -1,14 +1,13 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 22 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DUB RESONANCE" on Sat, 7 Nov 2026.
+ZUBAR is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "深空 -Shinkuu-" on Sun, 8 Nov 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with line-ups including AKARI, cirra, Futa and Katie (NL) and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including AKARI, cirra, Futa and Katie (NL) and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | DUB RESONANCE | Ken Sugai, Oshi, Risa |
 | Sun, 8 Nov 2026 | 深空 -Shinkuu- | Slopy |
 | Wed, 11 Nov 2026 | Atmosphere |  |
 | Thu, 12 Nov 2026 | MAGIC BUS | Yume |
@@ -18,6 +17,7 @@ ZUBAR is a music venue in Tokyo listed on soundcheck. 22 upcoming gigs, with lin
 | Sun, 15 Nov 2026 | Lounge Heaven |  |
 | Thu, 19 Nov 2026 | PALE GREEN |  |
 | Fri, 20 Nov 2026 | 馬込頭バー移転１周年パーティー | KIMURA, Mars (FR), TOSHIHISA HIRANO |
+| Sat, 21 Nov 2026 | 【記録】 |  |
 
 ## Address
 

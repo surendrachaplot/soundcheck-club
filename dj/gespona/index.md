@@ -1,14 +1,13 @@
 # Gespona
 
-Gespona is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at M.N.Roy, Mexico City on Fri, 6 Nov 2026.
+Gespona is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
-Gespona is a progressive house and house artist based in Spain, with 110 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 15 more. Often billed alongside Amadori, Djolee and Martin Cozar. Next up: M.N.Roy, Mexico City on Fri 6 Nov.
+Gespona is a progressive house and house artist based in Spain, with 110 gigs on soundcheck across Amsterdam, Azerbaijan, Barcelona and Berlin and 15 more. Often billed alongside Amadori, Djolee and Martin Cozar. Next up: Kater, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | M.N.Roy | Mexico City |
 | Sat, 28 Nov 2026 | Kater | Berlin |
 
 ## Recently played

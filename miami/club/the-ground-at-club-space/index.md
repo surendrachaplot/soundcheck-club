@@ -1,14 +1,13 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Paige Tomlinson + LAMMER + STÜM" on Fri, 6 Nov 2026.
+The Ground at Club Space is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "808 Life: DJ Assault + DJ Godfather" on Sat, 7 Nov 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including ALEJO (US), Alexx in Chainss, Bakke and DJ Assault and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including Alexx in Chainss, Bakke, DJ Assault and Dj Flashdrive and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Paige Tomlinson + LAMMER + STÜM | ALEJO (US), LAMMER, Paige Tomlinson, STÜM |
 | Sat, 7 Nov 2026 | 808 Life: DJ Assault + DJ Godfather | Alexx in Chainss, DJ Assault, DJ Godfather, Roll-e, Sel.6 |
 | Fri, 13 Nov 2026 | Notion | Dj Flashdrive, Notion, Violeta |
 | Sat, 14 Nov 2026 | suero x STAS: EQ | EQ (Estratosfera + Qiri) |

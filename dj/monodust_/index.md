@@ -15,7 +15,7 @@ Mono Dust_ is a house and minimal artist based in United Kingdom, with 6 gigs on
 
 - TBA - Fabwick Hackney Wick E9 5EN + Secret Afterparty Hackney Wick, London · Sat, 31 Oct 2026
 - Colour Factory, London · Sat, 24 Oct 2026
-- Colour Factory, London · Sat, 17 Oct 2026
+- Colour Factory, London · Sat, 24 Oct 2026
 - Colour Factory, London · Sat, 19 Sept 2026
 
 ## Shares bills with

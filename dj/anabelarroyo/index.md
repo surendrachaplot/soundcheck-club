@@ -1,8 +1,8 @@
 # Anabel Arroyo
 
-Anabel Arroyo is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
+Anabel Arroyo is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FOLD, London on Sat, 28 Nov 2026.
 
-Anabel Arroyo is a techno and house artist based in Spain, with 121 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside James Newmarch, Voicedrone and Blasha & Allatt. Next up: FOLD, London on Sat 28 Nov.
+Anabel Arroyo is a techno and house artist based in Spain, with 122 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 28 more. Often billed alongside James Newmarch, Voicedrone and Blasha & Allatt. Next up: FOLD, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Anabel Arroyo is a techno and house artist based in Spain, with 121 gigs on soun
 | Sat, 28 Nov 2026 | FOLD | London |
 | Sat, 5 Dec 2026 | RSO.BERLIN | Berlin |
 | Thu, 31 Dec 2026 | Studio Club Malaga | Malaga |
+| Fri, 1 Jan 2027 | Pandora Sevilla | South |
 
 ## Recently played
 

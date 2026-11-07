@@ -1,14 +1,13 @@
 # LAMMER
 
-LAMMER is a Trance and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Ground at Club Space, Miami on Fri, 6 Nov 2026.
+LAMMER is a Trance and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
 
-LAMMER is a trance and techno artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Lisa Korver, Bella Claxton and SAIDAH. Next up: The Ground at Club Space, Miami on Fri 6 Nov.
+LAMMER is a trance and techno artist based in Netherlands, with 130 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Lisa Korver, Bella Claxton and SAIDAH. Next up: Maassilo, Rotterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Ground at Club Space | Miami |
 | Sat, 14 Nov 2026 | Maassilo | Rotterdam |
 | Fri, 20 Nov 2026 | Colour Factory | London |
 | Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |

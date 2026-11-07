@@ -1,6 +1,6 @@
 # Woori Studio
 
-Woori Studio is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Mango Season Open Air" on Sat, 7 Nov 2026.
+Woori Studio is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Fri, 6 Nov 2026. The next is "Mango Season Open Air" on Sat, 7 Nov 2026.
 
 Woori Studio is a music venue in Taipei listed on soundcheck. 1 upcoming gig, with line-ups including klu, LYM, MAYURASHKA and Pocari Sweaty. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Woori Studio is a music venue in Taipei listed on soundcheck. 1 upcoming gig, wi
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Mango Season Open Air | LYM (2), MAYURASHKA, Pocari Sweaty, klu (1) |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/woori-studio/)*
+*Updated Fri, 6 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/woori-studio/)*

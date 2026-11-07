@@ -15,7 +15,7 @@
 | Sat, 21 Nov 2026 | [CANCELLED] HOST 8TH ANNIVERSARY with Bouffant Bouffant (New Orleans) & Sulk (Taipei) | Bouffant Bouffant, Sulk |
 | Sat, 21 Nov 2026 | The Sound Of 宀 with Anyss (VG+, Hong Kong) b2b Sunsiaré (宀, Hong Kong) | Anyss, Sunsiaré |
 | Fri, 27 Nov 2026 | FOLD x 宀 with James Newmarch & Voicedrone (FOLD, London) + Faxtory & Scott B (Distrikt, HK) | Faxtory, James Newmarch, Scott B, Voicedrone |
-| Sat, 28 Nov 2026 | enzyme invites Yubu + Yu Mi (Yummy Trax, Amsterdam) | Maxi, Yubu, Yumi, enzyme, suz eq |
+| Sat, 28 Nov 2026 | enzyme invites Yubu + Yu Mi (Yummy Trax, Amsterdam) | Maxi, Yu Mi, Yubu, enzyme, suz eq |
 | Fri, 4 Dec 2026 | Jane Fitz (宀, London) & Luisa (andco, Lisbon) | Jane Fitz, Luisa |
 | Fri, 11 Dec 2026 | Entropy 熵 with SSTROM (The Trilogy Tape, Stockholm) + Marco Yu (TRI) + Nanogram (Entropy 熵) | MarcoYu, Nanogram, SSTROM |
 

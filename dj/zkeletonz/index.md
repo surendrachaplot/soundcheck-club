@@ -1,6 +1,6 @@
 # Zkeletonz
 
-Zkeletonz is a New Wave and Post-Punk artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Good Mixer, London on Sat, 21 Nov 2026.
+Zkeletonz is a New Wave and Post-Punk artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Good Mixer, London on Sat, 21 Nov 2026.
 
 Zkeletonz is a new wave and post-punk artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Emergency Loop, Hyperfunk and JustElliot. Next up: The Good Mixer, London on Sat 21 Nov.
 
@@ -9,8 +9,6 @@ Zkeletonz is a new wave and post-punk artist based in United Kingdom, with 25 gi
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | The Good Mixer | London |
-| Fri, 27 Nov 2026 | Barfly | London |
-| Fri, 27 Nov 2026 | Barfly | London |
 | Sat, 23 Jan 2027 | BJs White Swan | London |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # More (3)
 
-More (3) is a Reggaeton and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
+More (3) is a Reggaeton and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at 8MM, Berlin on Fri, 13 Nov 2026.
 
-More is a reggaeton and techno artist based in Italy, with 35 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Cologne and 12 more. Often billed alongside 2HOT2PLAY, 4am Kru and Afem Syko. Next up: 8MM, Berlin on Fri 13 Nov.
+More is a reggaeton and techno artist based in Italy, with 36 gigs on soundcheck across Bangkok, Berlin, Bordeaux and Chubu and 13 more. Often billed alongside 2HOT2PLAY, 4am Kru and Afem Syko. Next up: 8MM, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | 8MM | Berlin |
+| Sat, 5 Dec 2026 | Club (o)Utopos | Chubu |
 
 ## Recently played
 

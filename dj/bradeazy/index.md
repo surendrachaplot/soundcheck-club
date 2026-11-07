@@ -1,14 +1,15 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at BERHTA, Washington DC on Fri, 11 Dec 2026.
+bradeazy is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at BERHTA, Washington DC on Fri, 11 Dec 2026.
 
-bradeazy is a tech house and house artist based in United States of America, with 45 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 26 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: BERHTA, Washington DC on Fri 11 Dec.
+bradeazy is a tech house and house artist based in United States of America, with 46 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 26 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: BERHTA, Washington DC on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | BERHTA | Washington DC |
+| Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
 
 ## Recently played
 

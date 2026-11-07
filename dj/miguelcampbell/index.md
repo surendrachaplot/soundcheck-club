@@ -1,14 +1,13 @@
 # Miguel Campbell
 
-Miguel Campbell is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Home The Venue, Sydney on Sat, 7 Nov 2026.
+Miguel Campbell is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Port Beach Brewery, Perth on Fri, 13 Nov 2026.
 
-Miguel Campbell is a house and deep house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Edinburgh and 10 more. Often billed alongside Alexis Raphael, Shadow Child and Steven Cee. Next up: Home The Venue, Sydney on Sat 7 Nov.
+Miguel Campbell is a house and deep house artist based in United Kingdom, with 39 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Edinburgh and 10 more. Often billed alongside Alexis Raphael, Shadow Child and Steven Cee. Next up: Port Beach Brewery, Perth on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Home The Venue | Sydney |
 | Fri, 13 Nov 2026 | Port Beach Brewery | Perth |
 | Fri, 27 Nov 2026 | fabric | London |
 
