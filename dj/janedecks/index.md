@@ -1,6 +1,6 @@
 # Jane Decks
 
-Jane Decks is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+Jane Decks is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
 
 Jane Decks is a house and techno artist based in Australia, with 40 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Lily FM, Max Cherry and Bouki. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
 
@@ -26,4 +26,4 @@ Jane Decks is a house and techno artist based in Australia, with 40 gigs on soun
 
 Lily FM, Max Cherry, Bouki
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janedecks/)*

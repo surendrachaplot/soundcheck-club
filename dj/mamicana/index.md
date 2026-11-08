@@ -1,6 +1,6 @@
 # MAMICANA
 
-MAMICANA is a Dembow and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Smoke & Mirrors, Chicago on Wed, 25 Nov 2026.
+MAMICANA is a Dembow and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Smoke & Mirrors, Chicago on Wed, 25 Nov 2026.
 
 MAMICANA is a dembow and club artist, with 37 gigs on soundcheck across Chicago and New York City. Often billed alongside NoahG, LEI and Mondai. Next up: Smoke & Mirrors, Chicago on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ MAMICANA is a dembow and club artist, with 37 gigs on soundcheck across Chicago 
 
 NoahG, LEI, Mondai
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamicana/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mamicana/)*

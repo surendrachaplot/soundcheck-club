@@ -1,6 +1,6 @@
 # 3kelves
 
-3kelves is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Thu, 31 Dec 2026.
+3kelves is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 3kelves is a house and disco artist based in United States of America, with 25 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Dylan C. Greene, Supertaste and A-Trak. Next up: Pier 48's Shed A, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@
 
 Dylan C. Greene, Supertaste, A-Trak
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3kelves/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3kelves/)*

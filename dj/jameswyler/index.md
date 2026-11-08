@@ -1,6 +1,6 @@
 # James Wyler
 
-James Wyler is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
+James Wyler is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Refuge, New York City on Sat, 28 Nov 2026.
 
 James Wyler is a tech house and house artist based in United States of America, with 28 gigs on soundcheck across Austin, Boston, Chicago and Denver and 6 more. Often billed alongside Shahar, AJ Christou and Jeff Sorkowitz. Next up: Refuge, New York City on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ James Wyler is a tech house and house artist based in United States of America, 
 
 Shahar, AJ Christou, Jeff Sorkowitz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameswyler/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameswyler/)*

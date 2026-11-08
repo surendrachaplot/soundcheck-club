@@ -1,6 +1,6 @@
 # Serge
 
-Serge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 28 Nov 2026.
+Serge is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Reactor Shanghai, Shanghai on Sat, 28 Nov 2026.
 
 Serge is a techno and house artist based in Netherlands, with 72 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 17 more. Often billed alongside Afra, Alberta Balsam and Detroit In Effect. Next up: Reactor Shanghai, Shanghai on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Serge is a techno and house artist based in Netherlands, with 72 gigs on soundch
 
 Afra, Alberta Balsam, Detroit In Effect
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/serge/)*

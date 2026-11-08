@@ -1,6 +1,6 @@
 # SUSKA
 
-SUSKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OST, Berlin on Sat, 14 Nov 2026.
+SUSKA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OST, Berlin on Sat, 14 Nov 2026.
 
 SUSKA is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Bern, Cologne and Dortmund / Essen and 3 more. Often billed alongside Johannes Schuster, Vagabund and Alignment. Next up: OST, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ SUSKA is a techno and trance artist based in Germany, with 23 gigs on soundcheck
 
 Johannes Schuster, Vagabund, Alignment
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suska/)*

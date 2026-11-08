@@ -1,14 +1,13 @@
 # Cristian Marras
 
-Cristian Marras is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at POTENT, Shanghai on Sat, 7 Nov 2026.
+Cristian Marras is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
-Cristian Marras is a techno and house artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 18 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: POTENT, Shanghai on Sat 7 Nov.
+Cristian Marras is a techno and house artist based in Germany, with 77 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bologna and 18 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | POTENT | Shanghai |
 | Fri, 13 Nov 2026 | KitKatClub | Berlin |
 | Sat, 21 Nov 2026 | Skin Club | Madrid |
 | Fri, 22 Jan 2027 | KitKatClub | Berlin |
@@ -16,6 +15,7 @@ Cristian Marras is a techno and house artist based in Germany, with 77 gigs on s
 
 ## Recently played
 
+- POTENT, Shanghai · Sat, 7 Nov 2026
 - Foundationclub, Nanjing · Fri, 6 Nov 2026
 - Pawnshop, Taipei · Sun, 1 Nov 2026
 - Horn, Bangkok · Sat, 24 Oct 2026
@@ -23,10 +23,9 @@ Cristian Marras is a techno and house artist based in Germany, with 77 gigs on s
 - RADION, Amsterdam · Sat, 10 Oct 2026
 - Fuchs2, Prague · Sat, 3 Oct 2026
 - Life Club Milano, Milan · Fri, 18 Sept 2026
-- ÆDEN, Berlin · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Mar/us, Metaraph, OCD
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristianmarras-de/)*

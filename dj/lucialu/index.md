@@ -1,6 +1,6 @@
 # Lucia Lu
 
-Lucia Lu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
+Lucia Lu is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Elastica, Vilnius on Thu, 12 Nov 2026.
 
 Lucia Lu is a techno and house artist based in Germany, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Charlie Sparks, 999999999 and DJ Hyperdrive. Next up: Elastica, Vilnius on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Lucia Lu is a techno and house artist based in Germany, with 148 gigs on soundch
 
 Charlie Sparks, 999999999, DJ Hyperdrive
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucialu/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucialu/)*

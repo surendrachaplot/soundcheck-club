@@ -1,6 +1,6 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "RUN DA BASS" on Wed, 11 Nov 2026.
+Triangle is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "RUN DA BASS" on Wed, 11 Nov 2026.
 
 Triangle is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including _goodbyeforever_, Dj Quien, Drunken Kong and dyn (JP) and 2 more. See dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
@@ -17,4 +17,4 @@ Triangle is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with l
 
 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan, Osaka
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/triangle/)*

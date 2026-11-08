@@ -1,18 +1,18 @@
 # bolo
 
-bolo is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at underiolo, Warsaw on Sat, 7 Nov 2026.
+bolo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-bolo is a techno and house artist based in Poland, with 49 gigs on soundcheck across Austin, Los Angeles, Medellin and Nashville and 2 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: underiolo, Warsaw on Sat 7 Nov.
+bolo is a techno and house artist based in Poland, with 49 gigs on soundcheck across Austin, Los Angeles, Medellin and Nashville and 2 more. Often billed alongside Abrew, Kobayashkn and PayoYayo. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | underiolo | Warsaw |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
+- underiolo, Warsaw · Sat, 7 Nov 2026
 - K-Bar Powiśle, Warsaw · Fri, 6 Nov 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - K-Bar Powiśle, Warsaw · Sat, 19 Sept 2026
@@ -20,10 +20,9 @@ bolo is a techno and house artist based in Poland, with 49 gigs on soundcheck ac
 - Plac Zabaw nad Wisłą, Warsaw · Thu, 27 Aug 2026
 - Smolna, Warsaw · Sat, 8 Aug 2026
 - K-Bar Powiśle, Warsaw · Fri, 31 Jul 2026
-- Night We Met, Nashville · Fri, 24 Jul 2026
 
 ## Shares bills with
 
 Abrew, Kobayashkn, PayoYayo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bolo/)*

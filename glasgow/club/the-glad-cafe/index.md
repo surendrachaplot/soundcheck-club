@@ -1,6 +1,6 @@
 # The Glad Cafe
 
-The Glad Cafe is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Pop Mutations & Freakender presents: J Zunz" on Fri, 13 Nov 2026.
+The Glad Cafe is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Pop Mutations & Freakender presents: J Zunz" on Fri, 13 Nov 2026.
 
 The Glad Cafe is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including Gigi Masin. See dates, start times and who's playing. 1006A Pollokshaws Rd, Glasgow G41 2HG.
 
@@ -15,4 +15,4 @@ The Glad Cafe is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs,
 
 1006A Pollokshaws Rd, Glasgow G41 2HG, Glasgow
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-glad-cafe/)*

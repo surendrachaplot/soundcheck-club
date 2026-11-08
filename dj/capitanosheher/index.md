@@ -1,6 +1,6 @@
 # capitano (she/her)
 
-capitano (she/her) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Beate Uwe, Berlin on Sat, 5 Dec 2026.
+capitano (she/her) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Beate Uwe, Berlin on Sat, 5 Dec 2026.
 
 capitano (she/her) is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Pilar Jordan, ailin and Dana Ruh. Next up: Beate Uwe, Berlin on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ capitano (she/her) is a techno and house artist based in Germany, with 5 gigs on
 
 Pilar Jordan, ailin, Dana Ruh
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capitanosheher/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/capitanosheher/)*

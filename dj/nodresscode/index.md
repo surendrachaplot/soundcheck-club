@@ -1,6 +1,6 @@
 # NODRESSCODE
 
-NODRESSCODE is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 20 Feb 2027.
+NODRESSCODE is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 20 Feb 2027.
 
 NODRESSCODE is a techno artist based in Spain, with 10 gigs on soundcheck across Madrid and Seoul. Often billed alongside enjundia94, Mamba Nera and Sonic Selva. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 20 Feb.
 
@@ -25,4 +25,4 @@ NODRESSCODE is a techno artist based in Spain, with 10 gigs on soundcheck across
 
 enjundia94, Mamba Nera, Sonic Selva
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nodresscode/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nodresscode/)*

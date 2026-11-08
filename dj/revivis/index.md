@@ -1,18 +1,18 @@
 # Revivis
 
-Revivis is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at YSY, Berlin on Sat, 7 Nov 2026.
+Revivis is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OXI, Berlin on Fri, 13 Nov 2026.
 
-Revivis is a house and techno artist based in United Kingdom, with 22 gigs on soundcheck across Barcelona, Belgrade, Berlin and Frankfurt and 3 more. Often billed alongside Running Hot, Christa K and LIA. Next up: YSY, Berlin on Sat 7 Nov.
+Revivis is a house and techno artist based in United Kingdom, with 22 gigs on soundcheck across Barcelona, Belgrade, Berlin and Frankfurt and 3 more. Often billed alongside Running Hot, Christa K and LIA. Next up: OXI, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | YSY | Berlin |
 | Fri, 13 Nov 2026 | OXI | Berlin |
 
 ## Recently played
 
+- YSY, Berlin · Sat, 7 Nov 2026
 - Studio La Flor, Berlin · Sat, 24 Oct 2026
 - Fitzroy, Berlin · Fri, 16 Oct 2026
 - Sacré, Paris · Sat, 13 Jun 2026
@@ -20,10 +20,9 @@ Revivis is a house and techno artist based in United Kingdom, with 22 gigs on so
 - Tresor / Globus, Berlin · Sat, 18 Apr 2026
 - Kult, Belgrade · Sat, 14 Feb 2026
 - Sacré, Paris · Fri, 6 Feb 2026
-- Renate, Berlin · Fri, 19 Dec 2025
 
 ## Shares bills with
 
 Running Hot, Christa K, LIA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/revivis/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/revivis/)*

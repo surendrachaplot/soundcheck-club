@@ -1,14 +1,13 @@
 # KinAhau
 
-KinAhau is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+KinAhau is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at THE BATHS, Austin on Sat, 21 Nov 2026.
 
-KinAhau is a house and tech house artist based in Mexico, with 73 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 24 more. Often billed alongside ChaseWest, Beltran and Ben Sterling. Next up: Tinker Field, Orlando on Fri 6 Nov.
+KinAhau is a house and tech house artist based in Mexico, with 73 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 24 more. Often billed alongside ChaseWest, Beltran and Ben Sterling. Next up: THE BATHS, Austin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 21 Nov 2026 | THE BATHS | Austin |
 | Thu, 3 Dec 2026 | Factory Town | Miami |
 | Sun, 6 Dec 2026 | Factory Town | Miami |
@@ -29,4 +28,4 @@ KinAhau is a house and tech house artist based in Mexico, with 73 gigs on soundc
 
 ChaseWest, Beltran, Ben Sterling
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinahau/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kinahau/)*

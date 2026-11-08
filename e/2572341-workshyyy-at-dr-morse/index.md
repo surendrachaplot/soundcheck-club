@@ -1,6 +1,6 @@
 # Workshyyy at Dr Morse
 
-Workshyyy at Dr Morse on Fri 13 Nov, Melbourne. 1 artist: Mullen. House and Tech House. See the line-up on soundcheck.
+Workshyyy at Dr Morse on Fri 13 Nov, Melbourne. 1 artist: Mullen. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

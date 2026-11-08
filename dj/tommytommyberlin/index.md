@@ -1,14 +1,13 @@
 # TommyTommyBerlin
 
-TommyTommyBerlin is a Techno artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cliff Social, Cyprus on Sat, 7 Nov 2026.
+TommyTommyBerlin is a Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Ammos Beach Bar, Cyprus on Sun, 8 Nov 2026.
 
-TommyTommyBerlin is a techno artist based in Germany, with 15 gigs on soundcheck across Berlin and Cyprus. Often billed alongside Nakadia, ZweiE and 92Groovz. Next up: Cliff Social, Cyprus on Sat 7 Nov.
+TommyTommyBerlin is a techno artist based in Germany, with 15 gigs on soundcheck across Berlin and Cyprus. Often billed alongside Nakadia, ZweiE and 92Groovz. Next up: Ammos Beach Bar, Cyprus on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Cliff Social | Cyprus |
 | Sun, 8 Nov 2026 | Ammos Beach Bar | Cyprus |
 | Fri, 27 Nov 2026 | Berlin.Meets | Cyprus |
 | Sat, 28 Nov 2026 | Sandy Beach Paphos | Cyprus |
@@ -23,6 +22,7 @@ TommyTommyBerlin is a techno artist based in Germany, with 15 gigs on soundcheck
 
 ## Recently played
 
+- Cliff Social, Cyprus · Sat, 7 Nov 2026
 - Berlin.Meets, Cyprus · Fri, 6 Nov 2026
 - Traffic Experience, Cyprus · Sat, 31 Oct 2026
 - Golden Flamingo, Berlin · Sat, 11 Jul 2026
@@ -31,4 +31,4 @@ TommyTommyBerlin is a techno artist based in Germany, with 15 gigs on soundcheck
 
 Nakadia, ZweiE, 92Groovz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommytommyberlin/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommytommyberlin/)*

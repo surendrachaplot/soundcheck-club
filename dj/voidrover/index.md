@@ -1,8 +1,8 @@
 # voidrover
 
-voidrover is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+voidrover is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
-voidrover is a house and tech house artist, with 6 gigs on soundcheck across Seoul and South Korea. Often billed alongside Bagagee Viphex13, Better and PIERRE BLANCHE. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
+voidrover is a house and tech house artist based in South Korea, with 6 gigs on soundcheck across Seoul and South Korea. Often billed alongside Bagagee Viphex13, Better and PIERRE BLANCHE. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -22,4 +22,4 @@ voidrover is a house and tech house artist, with 6 gigs on soundcheck across Seo
 
 Bagagee Viphex13, Better, PIERRE BLANCHE
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voidrover/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/voidrover/)*

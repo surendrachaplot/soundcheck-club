@@ -1,6 +1,6 @@
 # Finches with Oli Best b2b Vipond, Josh Padgett + LoveSic Nic at komunal
 
-Finches with Oli Best b2b Vipond, Josh Padgett + LoveSic Nic at komunal on Fri 13 Nov, Birmingham. Electro and Acid. See the line-up on soundcheck.
+Finches with Oli Best b2b Vipond, Josh Padgett + LoveSic Nic at komunal on Fri 13 Nov, Birmingham. Acid and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

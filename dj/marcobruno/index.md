@@ -1,6 +1,6 @@
 # Marco Bruno
 
-Marco Bruno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
+Marco Bruno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
 
 Marco Bruno is a techno and house artist based in Italy, with 9 gigs on soundcheck across Berlin and Rome. Often billed alongside Bertrand., Anjawah and Asymptote. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
 
@@ -12,6 +12,7 @@ Marco Bruno is a techno and house artist based in Italy, with 9 gigs on soundche
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Sat, 7 Nov 2026
 - Hb55, Berlin · Thu, 23 Jul 2026
 - Urban Spree, Berlin · Fri, 15 May 2026
 - migas, a listening bar, Berlin · Sat, 6 Dec 2025
@@ -19,10 +20,9 @@ Marco Bruno is a techno and house artist based in Italy, with 9 gigs on soundche
 - ÆDEN, Berlin · Fri, 7 Jul 2023
 - Renate, Berlin · Sat, 6 May 2023
 - Cieloterra, Rome · Thu, 30 Mar 2023
-- AVA Club, Berlin · Sat, 4 Feb 2023
 
 ## Shares bills with
 
 Bertrand., Anjawah, Asymptote
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobruno/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcobruno/)*

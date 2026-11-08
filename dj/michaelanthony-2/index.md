@@ -1,6 +1,6 @@
 # Michael Anthony (2)
 
-Michael Anthony (2) is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Rail, San Diego on Sat, 19 Dec 2026.
+Michael Anthony (2) is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Rail, San Diego on Sat, 19 Dec 2026.
 
 Michael Anthony is a progressive house and house artist based in United States of America, with 7 gigs on soundcheck across Chicago, Miami, New York City and San Diego. Often billed alongside Cristoph, SunrYse and Carbon Nerve. Next up: The Rail, San Diego on Sat 19 Dec.
 
@@ -23,4 +23,4 @@ Michael Anthony is a progressive house and house artist based in United States o
 
 Cristoph, SunrYse, Carbon Nerve
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelanthony-2/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelanthony-2/)*

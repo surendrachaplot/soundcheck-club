@@ -1,6 +1,6 @@
 # PARAMIDA
 
-PARAMIDA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
+PARAMIDA is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Amsterdam on Fri, 13 Nov 2026.
 
 PARAMIDA is a house and techno artist based in Germany, with 280 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 62 more. Often billed alongside Alex Kassian, Ryan Elliott and tINI. Next up: TBA, Amsterdam on Fri 13 Nov.
 
@@ -33,4 +33,4 @@ PARAMIDA is a house and techno artist based in Germany, with 280 gigs on soundch
 
 Alex Kassian, Ryan Elliott, tINI
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paramida/)*

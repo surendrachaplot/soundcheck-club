@@ -1,6 +1,6 @@
 # BB Deng
 
-BB Deng is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at BABY01, Berlin on Fri, 13 Nov 2026.
+BB Deng is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at BABY01, Berlin on Fri, 13 Nov 2026.
 
 BB Deng is a techno and tech house artist, with 61 gigs on soundcheck across Bangkok, Berlin, Hong Kong and Leipzig and 4 more. Often billed alongside Sika Akis, Nils Ohrmann and Kaminka Merel. Next up: BABY01, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ BB Deng is a techno and tech house artist, with 61 gigs on soundcheck across Ban
 
 Sika Akis, Nils Ohrmann, Kaminka Merel
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbdeng-tw/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bbdeng-tw/)*

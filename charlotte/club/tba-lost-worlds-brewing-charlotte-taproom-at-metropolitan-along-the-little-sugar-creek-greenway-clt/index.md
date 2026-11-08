@@ -1,6 +1,6 @@
 # TBA - Lost Worlds Brewing - Charlotte Taproom at Metropolitan along the Little Sugar Creek Greenway (CLT) 
 
-TBA - Lost Worlds Brewing - Charlotte Taproom at Metropolitan along the Little Sugar Creek Greenway (CLT)  is a music venue in Charlotte with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "No Bad Fridays [NBT032]" on Fri, 4 Dec 2026.
+TBA - Lost Worlds Brewing - Charlotte Taproom at Metropolitan along the Little Sugar Creek Greenway (CLT)  is a music venue in Charlotte with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "No Bad Fridays [NBT032]" on Fri, 4 Dec 2026.
 
 TBA - Lost Worlds Brewing - Charlotte Taproom at Metropolitan along the Little Sugar Creek Greenway (CLT)  is a music venue in Charlotte listed on soundcheck. 1 upcoming gig, with line-ups including Bill Hicks. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Lost Worlds Brewing - Charlotte Taproom at Metropolitan along the Little S
 | --- | --- | --- |
 | Fri, 4 Dec 2026 | No Bad Fridays [NBT032] | Bill Hicks |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/charlotte/club/tba-lost-worlds-brewing-charlotte-taproom-at-metropolitan-along-the-little-sugar-creek-greenway-clt/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/charlotte/club/tba-lost-worlds-brewing-charlotte-taproom-at-metropolitan-along-the-little-sugar-creek-greenway-clt/)*

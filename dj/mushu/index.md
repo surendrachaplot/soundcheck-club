@@ -1,6 +1,6 @@
 # Mushu
 
-Mushu is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Factory Theatre, Sydney on Fri, 20 Nov 2026.
+Mushu is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Factory Theatre, Sydney on Fri, 20 Nov 2026.
 
 Mushu is a dubstep and drum & bass artist based in Australia, with 16 gigs on soundcheck across Geneva, Melbourne and Sydney. Often billed alongside UBERMOON, Howabout and Gnomu. Next up: Factory Theatre, Sydney on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Mushu is a dubstep and drum & bass artist based in Australia, with 16 gigs on so
 
 UBERMOON, Howabout, Gnomu
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mushu/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mushu/)*

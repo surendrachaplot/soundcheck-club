@@ -1,14 +1,14 @@
 # Ravelston
 
-Ravelston is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at McNeills, Glasgow on Sat, 14 Nov 2026.
+Ravelston is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at La Cheetah Club, Glasgow on Sat, 14 Nov 2026.
 
-Ravelston is a house and electronica artist based in United Kingdom, with 38 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Nikki Kent, otisworming and Ann Tweak. Next up: McNeills, Glasgow on Sat 14 Nov.
+Ravelston is a house and electronica artist based in United Kingdom, with 38 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Nikki Kent, otisworming and Ann Tweak. Next up: La Cheetah Club, Glasgow on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | McNeills | Glasgow |
+| Sat, 14 Nov 2026 | La Cheetah Club | Glasgow |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Ravelston is a house and electronica artist based in United Kingdom, with 38 gig
 
 Nikki Kent, otisworming, Ann Tweak
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravelston/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ravelston/)*

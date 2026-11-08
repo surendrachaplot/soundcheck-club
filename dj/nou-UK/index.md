@@ -1,6 +1,6 @@
 # Nou (UK)
 
-Nou (UK) is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Dalston Den, London on Fri, 11 Dec 2026.
+Nou (UK) is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dalston Den, London on Fri, 11 Dec 2026.
 
 Nou (UK) is a garage and dubstep artist, with 9 gigs on soundcheck across London. Often billed alongside Donnie on a Bike, Dome Zero and sinny. Next up: Dalston Den, London on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Nou (UK) is a garage and dubstep artist, with 9 gigs on soundcheck across London
 
 Donnie on a Bike, Dome Zero, sinny
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nou-UK/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nou-UK/)*

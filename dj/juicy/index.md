@@ -1,6 +1,6 @@
 # juicy
 
-juicy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
+juicy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
 juicy is a techno and house artist based in United States of America, with 20 gigs on soundcheck across Atlanta, Berlin, Brussels and Detroit and 5 more. Often billed alongside Disc Jockey George, Dollushka and JMT. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ juicy is a techno and house artist based in United States of America, with 20 gi
 
 Disc Jockey George, Dollushka, JMT (2)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juicy/)*

@@ -1,14 +1,13 @@
 # Chris Lorenzo
 
-Chris Lorenzo is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Chris Lorenzo is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Chris Lorenzo is a house and tech house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Austin, Boston and Calgary and 20 more. Often billed alongside Kaskade, FISHER and Green Velvet. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Chris Lorenzo is a house and tech house artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Austin, Boston and Calgary and 20 more. Often billed alongside Kaskade, FISHER and Green Velvet. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Club Space Miami | Miami |
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
@@ -29,4 +28,4 @@ Chris Lorenzo is a house and tech house artist based in United Kingdom, with 60 
 
 Kaskade, FISHER, Green Velvet
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrislorenzo/)*

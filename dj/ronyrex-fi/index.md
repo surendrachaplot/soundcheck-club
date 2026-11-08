@@ -1,6 +1,6 @@
 # Rony Rex
 
-Rony Rex is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fonoteek, Tallinn on Sat, 14 Nov 2026.
+Rony Rex is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fonoteek, Tallinn on Sat, 14 Nov 2026.
 
 Rony Rex is a techno and tech house artist based in Finland, with 9 gigs on soundcheck across Helsinki, Milan and Tallinn. Often billed alongside Diron, C4KE and DJ WUF. Next up: Fonoteek, Tallinn on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Rony Rex is a techno and tech house artist based in Finland, with 9 gigs on soun
 
 Diron, C4KE, DJ WUF
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronyrex-fi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronyrex-fi/)*

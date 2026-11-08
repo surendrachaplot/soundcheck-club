@@ -1,6 +1,6 @@
 # Pingpong
 
-Pingpong is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+Pingpong is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
 Pingpong is a house and hip-hop artist based in Germany, with 18 gigs on soundcheck across Paris, Seoul and South Korea. Often billed alongside Adroit Joe, Better and Grace Kim. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Pingpong is a house and hip-hop artist based in Germany, with 18 gigs on soundch
 
 Adroit Joe, Better, Grace Kim
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pingpong/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pingpong/)*

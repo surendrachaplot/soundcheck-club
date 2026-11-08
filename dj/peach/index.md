@@ -1,6 +1,6 @@
 # Peach
 
-Peach is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at CLUB RAUM, Amsterdam on Sun, 8 Nov 2026.
+Peach is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at CLUB RAUM, Amsterdam on Sun, 8 Nov 2026.
 
 Peach is a house and techno artist based in Canada, with 241 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 63 more. Often billed alongside Shanti Celeste, Gabrielle Kwarteng and Saoirse. Next up: CLUB RAUM, Amsterdam on Sun 8 Nov.
 
@@ -35,4 +35,4 @@ Peach is a house and techno artist based in Canada, with 241 gigs on soundcheck 
 
 Shanti Celeste, Gabrielle Kwarteng, Saoirse
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peach/)*

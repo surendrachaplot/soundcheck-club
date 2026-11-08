@@ -1,6 +1,6 @@
 # Stefan Meser
 
-Stefan Meser is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 8 Nov 2026.
+Stefan Meser is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Thuishaven, Amsterdam on Sun, 8 Nov 2026.
 
 Stefan Meser is a house and tech house artist based in Netherlands, with 22 gigs on soundcheck across Amsterdam, Düsseldorf, Münster and Rotterdam and 2 more. Often billed alongside Karim Soliman, SANTØS and Ammé. Next up: Thuishaven, Amsterdam on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Stefan Meser is a house and tech house artist based in Netherlands, with 22 gigs
 
 Karim Soliman, SANTØS, Ammé
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmeser/)*

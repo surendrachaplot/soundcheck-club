@@ -1,6 +1,6 @@
 # Aleksandir
 
-Aleksandir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at berlinClub, Madrid on Fri, 13 Nov 2026.
+Aleksandir is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at berlinClub, Madrid on Fri, 13 Nov 2026.
 
 Aleksandir is a house and techno artist, with 55 gigs on soundcheck across Bangkok, Beijing, Berlin and Brussels and 15 more. Often billed alongside Supu, Miqui Brightside and Pijus. Next up: berlinClub, Madrid on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Aleksandir is a house and techno artist, with 55 gigs on soundcheck across Bangk
 
 Supu, Miqui Brightside, Pijus
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandir/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aleksandir/)*

@@ -1,6 +1,6 @@
 # Yarra (2)
 
-Yarra (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OneSixOne, Melbourne on Fri, 20 Nov 2026.
+Yarra (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OneSixOne, Melbourne on Fri, 20 Nov 2026.
 
 Yarra is a house and techno artist based in Australia, with 54 gigs on soundcheck across Melbourne. Often billed alongside Adam Trace, Amber Ferraro and Jmcee. Next up: OneSixOne, Melbourne on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Yarra is a house and techno artist based in Australia, with 54 gigs on soundchec
 
 Adam Trace, Amber Ferraro, Jmcee
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yarra-2/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yarra-2/)*

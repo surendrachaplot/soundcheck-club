@@ -1,14 +1,13 @@
 # TOC Hostel
 
-TOC Hostel is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ATYPICAL: Afterwork + Open Mixer + Other Side Boiler with Leandro B2B Moonatik, Vanta" on Fri, 6 Nov 2026.
+TOC Hostel is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry" on Wed, 11 Nov 2026.
 
-TOC Hostel is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Leandro Montivero and MøønkiZa. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 580, 08011 Barcelona.
+TOC Hostel is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including MøønkiZa. See dates, start times and who's playing. Gran Via de les Corts Catalanes, 580, 08011 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | ATYPICAL: Afterwork + Open Mixer + Other Side Boiler with Leandro B2B Moonatik, Vanta | Leandro Montivero |
 | Wed, 11 Nov 2026 | Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry |  |
 | Fri, 13 Nov 2026 | ATYPICAL: Afterwork + Open Mixer + Art Expo + Good Vibes |  |
 | Wed, 18 Nov 2026 | Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry |  |
@@ -23,4 +22,4 @@ TOC Hostel is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 
 Gran Via de les Corts Catalanes, 580, 08011 Barcelona, Barcelona
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/toc-hostel/)*

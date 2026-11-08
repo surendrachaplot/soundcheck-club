@@ -1,14 +1,15 @@
 # Kovvalsky
 
-Kovvalsky is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Jasna 1, Warsaw on Sat, 28 Nov 2026.
+Kovvalsky is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Jasna 1, Warsaw on Sat, 28 Nov 2026.
 
-Kovvalsky is a techno and house artist based in Poland, with 93 gigs on soundcheck across Berlin, Krakow, Milan and New York City and 6 more. Often billed alongside Pitti Schmitti, dd (PL) and Olivia. Next up: Jasna 1, Warsaw on Sat 28 Nov.
+Kovvalsky is a techno and house artist based in Poland, with 94 gigs on soundcheck across Berlin, Krakow, Milan and New York City and 6 more. Often billed alongside Pitti Schmitti, dd (PL) and Olivia. Next up: Jasna 1, Warsaw on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Jasna 1 | Warsaw |
+| Fri, 11 Dec 2026 | Ciało | Wroclaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kovvalsky is a techno and house artist based in Poland, with 93 gigs on soundche
 
 Pitti Schmitti, dd (PL), Olivia
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kovvalsky/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kovvalsky/)*

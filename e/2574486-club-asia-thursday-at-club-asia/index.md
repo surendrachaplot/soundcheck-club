@@ -1,6 +1,6 @@
 # club asia THURSDAY at club asia
 
-club asia THURSDAY on Thu 26 Nov, Tokyo. 3 artists: Acrocanthosaurus, MoEPiKA and RYUU. Techno and Bass. See the line-up on soundcheck.
+club asia THURSDAY on Thu 26 Nov, Tokyo. 4 artists: Acrocanthosaurus, miute, MoEPiKA and RYUU. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ club asia THURSDAY on Thu 26 Nov, Tokyo. 3 artists: Acrocanthosaurus, MoEPiKA an
 ## Line-up
 
 - Acrocanthosaurus
+- miute
 - MoEPiKA
 - RYUU
 

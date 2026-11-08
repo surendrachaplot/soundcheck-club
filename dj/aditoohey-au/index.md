@@ -1,6 +1,6 @@
 # Adi Toohey
 
-Adi Toohey is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 8 Nov 2026.
+Adi Toohey is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Poor Toms Oltra, Sydney on Sun, 8 Nov 2026.
 
 Adi Toohey is a house and techno artist based in Australia, with 30 gigs on soundcheck across Hobart, Melbourne and Sydney. Often billed alongside Ben Fester, Bria and DJ Earl Grey. Next up: Poor Toms Oltra, Sydney on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Adi Toohey is a house and techno artist based in Australia, with 30 gigs on soun
 
 Ben Fester, Bria, DJ Earl Grey
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aditoohey-au/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aditoohey-au/)*

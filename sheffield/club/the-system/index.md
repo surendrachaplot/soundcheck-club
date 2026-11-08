@@ -1,14 +1,13 @@
 # The System
 
-The System is a music venue in Sheffield with 16 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Apricot Ballroom (November)" on Sat, 7 Nov 2026.
+The System is a music venue in Sheffield with 15 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G" on Fri, 13 Nov 2026.
 
-The System is a music venue in Sheffield listed on soundcheck. 16 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Charlie Dark and DAISY and 2 more. See dates, start times and who's playing.
+The System is a music venue in Sheffield listed on soundcheck. 15 upcoming gigs, with line-ups including Arkane, Ashley Holmes, Charlie Dark and DAISY and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Apricot Ballroom (November) | Joi La Frique, Nonna Fab, Vinyl Richiee |
 | Fri, 13 Nov 2026 | Puzzle Pieces - Jpeg, Esmé, Joi L.F, Ol.G | Esmé, JPEG (3), Joi L.F, Ol.G |
 | Sat, 14 Nov 2026 | Love To Dance x Milestones presents: Charlie Dark [3-Hour Set] | Charlie Dark, Mucho Maas, Sirrey |
 | Sun, 15 Nov 2026 | SELEUCID x BURNING BUG SOUND MEET | Lewis Bennett |
@@ -18,5 +17,6 @@ The System is a music venue in Sheffield listed on soundcheck. 16 upcoming gigs,
 | Sat, 21 Nov 2026 | The Cantina 1st Birthday | Freddie Grisbi, The Doobskins, obviouslyalex |
 | Thu, 26 Nov 2026 | Sound Service Station: Dub Epistemologies w/ Ashley Holmes | Ashley Holmes |
 | Fri, 27 Nov 2026 | Alto 014 | Arkane, INLIMEN, Sam J |
+| Fri, 27 Nov 2026 | Footprints Jazz Club: Steve Edwards + Khamra |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/the-system/)*

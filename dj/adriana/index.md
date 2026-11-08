@@ -1,6 +1,6 @@
 # Adriana (1)
 
-Adriana (1) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Royal Botanic Gardens, Melbourne on Fri, 20 Nov 2026.
+Adriana (1) is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Royal Botanic Gardens, Melbourne on Fri, 20 Nov 2026.
 
 Adriana is a house and disco artist based in Australia, with 54 gigs on soundcheck across Adelaide, Amsterdam, Athens and Auckland and 9 more. Often billed alongside Milo Eastwood, Zjoso and Elsie. Next up: Royal Botanic Gardens, Melbourne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Adriana is a house and disco artist based in Australia, with 54 gigs on soundche
 
 Milo Eastwood, Zjoso, Elsie
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriana/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/adriana/)*

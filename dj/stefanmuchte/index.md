@@ -1,6 +1,6 @@
 # Stefan Muchte
 
-Stefan Muchte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 27 Nov 2026.
+Stefan Muchte is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Der Weiße Hase, Berlin on Fri, 27 Nov 2026.
 
 Stefan Muchte is a house and techno artist based in Germany, with 50 gigs on soundcheck across Berlin, Frankfurt, Leipzig and Munich and 1 more. Often billed alongside Bøgen, Vlad Yaki and BOHO. Next up: Der Weiße Hase, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Stefan Muchte is a house and techno artist based in Germany, with 50 gigs on sou
 
 Bøgen, Vlad Yaki, BOHO
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmuchte/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanmuchte/)*

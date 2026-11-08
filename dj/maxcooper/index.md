@@ -1,14 +1,13 @@
 # Max Cooper
 
-Max Cooper is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Max Cooper is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at La Riviera, Madrid on Sun, 8 Nov 2026.
 
-Max Cooper is a techno and electronica artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 54 more. Often billed alongside Richie Hawtin, Actress and Blawan. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
+Max Cooper is a techno and electronica artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 54 more. Often billed alongside Richie Hawtin, Actress and Blawan. Next up: La Riviera, Madrid on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 | Sun, 8 Nov 2026 | La Riviera | Madrid |
 | Fri, 13 Nov 2026 | Club Wintercircus | Ghent |
 | Sat, 14 Nov 2026 | Club Wintercircus | Ghent |
@@ -30,4 +29,4 @@ Max Cooper is a techno and electronica artist based in United Kingdom, with 133 
 
 Richie Hawtin, Actress, Blawan
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxcooper/)*

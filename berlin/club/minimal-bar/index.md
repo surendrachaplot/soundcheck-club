@@ -1,14 +1,13 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 81 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DAZA & freunde" on Sat, 7 Nov 2026.
+Minimal Bar is a music venue in Berlin with 80 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Lazy.Sunday with Dhoza" on Sun, 8 Nov 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 81 upcoming gigs, with line-ups including Beshy, CEEE, Danilo Schneider and DAZA and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 80 upcoming gigs, with line-ups including Beshy, CEEE, Danilo Schneider and DAZA and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | DAZA & freunde | DAZA |
 | Sun, 8 Nov 2026 | Lazy.Sunday with Dhoza |  |
 | Mon, 9 Nov 2026 | Manic.Monday with Fineberg |  |
 | Tue, 10 Nov 2026 | U10247: Marshmallow Beach (feat. maniac&me and Roy Mansur) !Free.Entry | Roy Mansur, maniac&me |
@@ -18,9 +17,10 @@ Minimal Bar is a music venue in Berlin listed on soundcheck. 81 upcoming gigs, w
 | Fri, 13 Nov 2026 | friends.zone mit Fritz Funke & Ian Fog | Fritz Funke |
 | Sat, 14 Nov 2026 | ENOUGH! MUSIC mit Danilo Schneider & Freunde | Danilo Schneider |
 | Sun, 15 Nov 2026 | Lazy.Sunday with Tasting Notes | Tasting Notes |
+| Mon, 16 Nov 2026 | manic.monday mit Pablo Cornejo (Chile) | Pablo Cornejo |
 
 ## Address
 
 Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/minimal-bar/)*

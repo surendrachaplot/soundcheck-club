@@ -1,6 +1,6 @@
 # Tina Tornade
 
-Tina Tornade is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Super5, Lyon on Fri, 20 Nov 2026.
+Tina Tornade is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Super5, Lyon on Fri, 20 Nov 2026.
 
 Tina Tornade is a techno and bass artist based in France, with 47 gigs on soundcheck across Lyon, Nantes, Paris and Strasbourg. Often billed alongside KUSS, Alys LF and Or'l. Next up: Super5, Lyon on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Tina Tornade is a techno and bass artist based in France, with 47 gigs on soundc
 
 KUSS, Alys LF, Or'l
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatornade/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tinatornade/)*

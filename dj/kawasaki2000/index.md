@@ -1,6 +1,6 @@
 # kawasaki2000
 
-kawasaki2000 is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fitzroy, Berlin on Sun, 29 Nov 2026.
+kawasaki2000 is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fitzroy, Berlin on Sun, 29 Nov 2026.
 
 kawasaki2000 is a bass and dubstep artist based in Germany, with 16 gigs on soundcheck across Berlin and Nürnberg. Often billed alongside Ulf Herold, Ben Sleia and iarna. Next up: Fitzroy, Berlin on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ kawasaki2000 is a bass and dubstep artist based in Germany, with 16 gigs on soun
 
 Ulf Herold, Ben Sleia, iarna
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kawasaki2000/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kawasaki2000/)*

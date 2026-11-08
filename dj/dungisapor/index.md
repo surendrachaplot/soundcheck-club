@@ -1,6 +1,6 @@
 # Dungi Sapor
 
-Dungi Sapor is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at BABY01, Berlin on Fri, 13 Nov 2026.
+Dungi Sapor is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at BABY01, Berlin on Fri, 13 Nov 2026.
 
 Dungi Sapor is a techno and bass artist based in Taiwan, with 11 gigs on soundcheck across Amsterdam, Berlin, Sheffield and Taipei and 1 more. Often billed alongside Molly Lin, WEIZO and Twisted Jack. Next up: BABY01, Berlin on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Dungi Sapor is a techno and bass artist based in Taiwan, with 11 gigs on soundch
 
 Molly Lin, WEIZO, Twisted Jack
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dungisapor/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dungisapor/)*

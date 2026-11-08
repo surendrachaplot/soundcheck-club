@@ -1,18 +1,18 @@
 # Anhauser
 
-Anhauser is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Archi Club, Costanera, Buenos Aires on Sat, 7 Nov 2026.
+Anhauser is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
 
-Anhauser is a progressive house and techno artist based in Argentina, with 22 gigs on soundcheck across Buenos Aires. Often billed alongside Danny Howells, Guy Mantzur and Matador. Next up: TBA - Archi Club, Costanera, Buenos Aires on Sat 7 Nov.
+Anhauser is a progressive house and techno artist based in Argentina, with 22 gigs on soundcheck across Buenos Aires. Often billed alongside Danny Howells, Guy Mantzur and Matador. Next up: TBA, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA - Archi Club, Costanera | Buenos Aires |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 
 ## Recently played
 
+- TBA - Archi Club, Costanera, Buenos Aires · Sat, 7 Nov 2026
 - TBA - Club Morocco, Costa Salguero, Buenos Aires · Fri, 4 Sept 2026
 - TBA - Archi Club, Costanera, Buenos Aires · Sun, 8 Feb 2026
 - TBA - Club Morocco, Costa Salguero, Buenos Aires · Fri, 19 Dec 2025
@@ -20,10 +20,9 @@ Anhauser is a progressive house and techno artist based in Argentina, with 22 gi
 - TBA - Piazzolla Tango, Microcentro, Buenos Aires · Sun, 17 Aug 2025
 - TBA - Bali, Costa Salguero, Buenos Aires · Sat, 9 Aug 2025
 - TBA - Autodromo Galvez, Villa Lugano, Buenos Aires · Tue, 1 Apr 2025
-- TBA - Bali, Costa Salguero, Buenos Aires · Sat, 22 Feb 2025
 
 ## Shares bills with
 
 Danny Howells, Guy Mantzur, Matador
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anhauser/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anhauser/)*

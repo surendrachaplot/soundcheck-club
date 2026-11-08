@@ -1,6 +1,6 @@
 # Nojan
 
-Nojan is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Gallery, London on Thu, 19 Nov 2026.
+Nojan is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Gallery, London on Thu, 19 Nov 2026.
 
 Nojan is a tech house and deep house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam and London. Often billed alongside P2UYA, Juandez and Wellzee. Next up: Gallery, London on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Nojan is a tech house and deep house artist based in United Kingdom, with 25 gig
 
 P2UYA, Juandez, Wellzee
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nojan/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nojan/)*

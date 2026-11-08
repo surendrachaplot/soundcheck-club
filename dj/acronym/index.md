@@ -1,6 +1,6 @@
 # Acronym
 
-Acronym is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
+Acronym is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
 
 Acronym is a techno and house artist based in Sweden, with 11 gigs on soundcheck across Berlin, Bratislava, Brussels and London and 1 more. Often billed alongside Basement Space, Jessie Granqvist and towLie. Next up: Buda BXL, Brussels on Sat 7 Nov.
 
@@ -12,6 +12,7 @@ Acronym is a techno and house artist based in Sweden, with 11 gigs on soundcheck
 
 ## Recently played
 
+- Buda BXL, Brussels · Sat, 7 Nov 2026
 - Berghain | Panorama Bar | Säule, Berlin · Thu, 17 Sept 2026
 - Subdeck, Bratislava · Fri, 12 Jun 2026
 - TBA - Open Air, Stockholm · Sat, 28 Jun 2025
@@ -19,10 +20,9 @@ Acronym is a techno and house artist based in Sweden, with 11 gigs on soundcheck
 - Fållan, Stockholm · Sat, 1 Jun 2024
 - Blivande, Stockholm · Sat, 25 May 2024
 - OHM, Berlin · Sat, 4 May 2024
-- Blivande, Stockholm · Fri, 29 Mar 2024
 
 ## Shares bills with
 
 Basement Space, Jessie Granqvist, towLie
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acronym/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acronym/)*

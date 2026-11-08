@@ -1,14 +1,13 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Carousel x Rhythm: Tomoki Tamura, Mary" on Sat, 7 Nov 2026.
+Rhythm is a music venue in Toronto with 14 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Curfew" on Sun, 8 Nov 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, with line-ups including Ankathesia, Arapu, AUX_ID and Barbara Preisinger and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 14 upcoming gigs, with line-ups including Ankathesia, Arapu, AUX_ID and Barbara Preisinger and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Carousel x Rhythm: Tomoki Tamura, Mary | Mary (5), Tomoki Tamura |
 | Sun, 8 Nov 2026 | Curfew |  |
 | Wed, 11 Nov 2026 | Rhythm Workshop Series: Club Check |  |
 | Thu, 12 Nov 2026 | Long Play: Concept Albums | Burnin' Vernon |
@@ -18,9 +17,10 @@ Rhythm is a music venue in Toronto listed on soundcheck. 15 upcoming gigs, with 
 | Thu, 19 Nov 2026 | ABOVE AVERAGE Toronto 007 - Nick Muir & Carerra & Tavares | Carerra & Tavares, Nick Muir, Sasha |
 | Fri, 20 Nov 2026 | Rhythm: Barbara Preisinger and Mary | Barbara Preisinger, Mary (5) |
 | Sat, 21 Nov 2026 | Kaleidoscope presents: MURAT, AUX_ID, Marivs | AUX_ID, Marivs |
+| Sun, 22 Nov 2026 | Radiance (光芒) vol.002 - sound bath + vinyl |  |
 
 ## Address
 
 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA, Toronto
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/rhythm/)*

@@ -1,6 +1,6 @@
 # Franzoh
 
-Franzoh is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
+Franzoh is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Location, Central on Sat, 5 Dec 2026.
 
 Franzoh is a techno and electro artist based in Italy, with 30 gigs on soundcheck across Barcelona, Berlin, Bologna and Central and 7 more. Often billed alongside Valerio Della Notte, Alexio and Dizzy. Next up: TBA - Secret Location, Central on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Franzoh is a techno and electro artist based in Italy, with 30 gigs on soundchec
 
 Valerio Della Notte, Alexio, Dizzy
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franzoh/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/franzoh/)*

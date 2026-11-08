@@ -1,6 +1,6 @@
 # KAKERU
 
-KAKERU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Enter Shibuya, Tokyo on Thu, 19 Nov 2026.
+KAKERU is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Enter Shibuya, Tokyo on Thu, 19 Nov 2026.
 
 KAKERU is a house and techno artist based in Japan, with 76 gigs on soundcheck across Osaka and Tokyo. Often billed alongside MIZUKI OGISU, TORAO and Celter. Next up: Enter Shibuya, Tokyo on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ KAKERU is a house and techno artist based in Japan, with 76 gigs on soundcheck a
 
 MIZUKI OGISU, TORAO, Celter
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kakeru/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kakeru/)*

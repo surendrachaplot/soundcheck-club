@@ -1,6 +1,6 @@
 # DAR DISKU
 
-DAR DISKU is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+DAR DISKU is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 DAR DISKU is a house and disco artist based in Bahrain, with 45 gigs on soundcheck across Birmingham, Bristol, Bucharest and Dubai and 5 more. Often billed alongside Millie McKee, Sofie K and Cheb Mimo. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -26,4 +26,4 @@ DAR DISKU is a house and disco artist based in Bahrain, with 45 gigs on soundche
 
 Millie McKee, Sofie K, Cheb Mimo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dardisku/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dardisku/)*

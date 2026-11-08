@@ -1,6 +1,6 @@
 # LonnyJoco
 
-LonnyJoco is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
+LonnyJoco is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
 
 LonnyJoco is a house and funk / soul artist, with 10 gigs on soundcheck across Rotterdam, The Hague and Utrecht. Often billed alongside Fish Tapes, Ambu Bambu and Andy (NL). Next up: export, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ LonnyJoco is a house and funk / soul artist, with 10 gigs on soundcheck across R
 
 Fish Tapes, Ambu Bambu, Andy (NL)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lonnyjoco/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lonnyjoco/)*

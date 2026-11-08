@@ -1,6 +1,6 @@
 # HAZ (GB)
 
-HAZ (GB) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at 99 Regent Street, London on Thu, 19 Nov 2026.
+HAZ (GB) is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at 99 Regent Street, London on Thu, 19 Nov 2026.
 
 HAZ (GB) is an afro house and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside D8V!, LOKI and PEI Z. Next up: 99 Regent Street, London on Thu 19 Nov.
 
@@ -23,4 +23,4 @@ HAZ (GB) is an afro house and house artist based in United Kingdom, with 7 gigs 
 
 D8V!, LOKI (3), PEI Z
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazgb/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazgb/)*

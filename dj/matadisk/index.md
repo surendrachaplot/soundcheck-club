@@ -1,6 +1,6 @@
 # Mata Disk
 
-Mata Disk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
+Mata Disk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
 
 Mata Disk is a techno and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Copenhagen and Rotterdam. Often billed alongside Oberman, BERTON and Crinkhoff. Next up: export, Rotterdam on Fri 27 Nov.
 
@@ -24,4 +24,4 @@ Mata Disk is a techno and house artist based in Netherlands, with 8 gigs on soun
 
 Oberman, BERTON, Crinkhoff
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matadisk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matadisk/)*

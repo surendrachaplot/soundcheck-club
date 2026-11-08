@@ -1,6 +1,6 @@
 # Justin Cudmore
 
-Justin Cudmore is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
+Justin Cudmore is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
 
 Justin Cudmore is a house and techno artist based in United States of America, with 109 gigs on soundcheck across Amsterdam, Berlin, Chicago and Detroit and 9 more. Often billed alongside Mike Servito, Lauren Flax and Hiroko Yamamura. Next up: Refuge, New York City on Sat 7 Nov.
 
@@ -13,6 +13,7 @@ Justin Cudmore is a house and techno artist based in United States of America, w
 
 ## Recently played
 
+- Refuge, New York City · Sat, 7 Nov 2026
 - Club Rawhide, New York City · Fri, 6 Nov 2026
 - KREUZWERK, Berlin · Sat, 12 Sept 2026
 - XOYO, London · Fri, 11 Sept 2026
@@ -20,10 +21,9 @@ Justin Cudmore is a house and techno artist based in United States of America, w
 - BASEMENT, New York City · Sat, 1 Aug 2026
 - Qncc, New York City · Sat, 11 Jul 2026
 - Refuge, New York City · Fri, 10 Jul 2026
-- The New Hot Mass, Pittsburgh · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Mike Servito, Lauren Flax, Hiroko Yamamura
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justincudmore/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/justincudmore/)*

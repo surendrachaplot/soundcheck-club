@@ -1,6 +1,6 @@
 # Juan Soto
 
-Juan Soto is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Topazdeluxe, Monterrey on Fri, 6 Nov 2026.
+Juan Soto is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Topazdeluxe, Monterrey on Fri, 6 Nov 2026.
 
 Juan Soto is a house and deep house artist based in Mexico, with 51 gigs on soundcheck across Bogotá, Guadalajara, Mexico City and Monterrey and 1 more. Often billed alongside Barreto, Monsieur Van Pratt and papa jazz. Next up: Topazdeluxe, Monterrey on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Juan Soto is a house and deep house artist based in Mexico, with 51 gigs on soun
 
 Barreto, Monsieur Van Pratt, papa jazz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juansoto/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juansoto/)*

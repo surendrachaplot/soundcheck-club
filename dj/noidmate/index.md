@@ -1,19 +1,19 @@
 # NOIDMATE
 
-NOIDMATE is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Dubai on Sat, 7 Nov 2026.
+NOIDMATE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at radial, London on Sat, 21 Nov 2026.
 
-NOIDMATE is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Dubai, Edinburgh, London and Nottingham. Often billed alongside SCCO, Jude Lenihan and 3 Minds. Next up: TBA, Dubai on Sat 7 Nov.
+NOIDMATE is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Dubai, Edinburgh, London and Nottingham. Often billed alongside SCCO, Jude Lenihan and 3 Minds. Next up: radial, London on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA | Dubai |
 | Sat, 21 Nov 2026 | radial | London |
 | Sat, 16 Jan 2027 | People's Leisure Club | Edinburgh |
 
 ## Recently played
 
+- TBA, Dubai · Sat, 7 Nov 2026
 - The Model, Nottingham · Fri, 30 Oct 2026
 - Endeavour, London · Fri, 2 Oct 2026
 - Starlane Pizza Bar, London · Sat, 26 Sept 2026
@@ -26,4 +26,4 @@ NOIDMATE is a house and tech house artist based in United Kingdom, with 10 gigs 
 
 SCCO, Jude Lenihan, 3 Minds
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/noidmate/)*

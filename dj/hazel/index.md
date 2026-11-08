@@ -1,6 +1,6 @@
 # Hazel
 
-Hazel is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - taoyuan - abandoned museum , Taiwan on Sat, 21 Nov 2026.
+Hazel is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - taoyuan - abandoned museum , Taiwan on Sat, 21 Nov 2026.
 
 Hazel is a techno and hardcore artist, with 30 gigs on soundcheck across Basel, Chengdu, London and Manchester and 2 more. Often billed alongside DISCIPLINE, PRYMARA and Gerger. Next up: TBA - taoyuan - abandoned museum , Taiwan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Hazel is a techno and hardcore artist, with 30 gigs on soundcheck across Basel, 
 
 DISCIPLINE, PRYMARA, Gerger
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazel/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hazel/)*

@@ -1,6 +1,6 @@
 # Tanz in Frankfurt with Len Faki, GiGi FM at Tokonoma Club
 
-Tanz in Frankfurt with Len Faki, GiGi FM at Tokonoma Club on Fri 11 Dec, Frankfurt. 7 artists: Anna Hjalmarsson, GiGi FM, Len Faki and Oblique and 3 more. Techno and House. See the line-up on soundcheck.
+Tanz in Frankfurt with Len Faki, GiGi FM at Tokonoma Club on Fri 11 Dec, Frankfurt. 7 artists: Anna Hjalmarsson, GiGi FM, Len Faki and oblique (DE) and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ Tanz in Frankfurt with Len Faki, GiGi FM at Tokonoma Club on Fri 11 Dec, Frankfu
 - Anna Hjalmarsson
 - GiGi FM
 - Len Faki
-- Oblique
+- oblique (DE)
 - Q NANi
 - Q'uwa
 - Wigbert

@@ -1,6 +1,6 @@
 # Juhani Oivo
 
-Juhani Oivo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 29 Nov 2026.
+Juhani Oivo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Location, Berlin on Sun, 29 Nov 2026.
 
 Juhani Oivo is a house and techno artist based in Finland, with 32 gigs on soundcheck across Bergen, Berlin, Bristol and Helsinki and 7 more. Often billed alongside Mesak, Julie Silset and 0dysseus. Next up: TBA - Secret Location, Berlin on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Juhani Oivo is a house and techno artist based in Finland, with 32 gigs on sound
 
 Mesak, Julie Silset, 0dysseus
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juhanioivo/)*

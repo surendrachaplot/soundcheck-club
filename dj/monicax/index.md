@@ -1,6 +1,6 @@
 # Monica X
 
-Monica X is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
+Monica X is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fabrik, Madrid on Sat, 30 Jan 2027.
 
 Monica X is a club and hip-hop artist based in Spain, with 7 gigs on soundcheck across London, Madrid and Tokyo. Often billed alongside Black Mood, DJ Marta and DJ Quietstorm. Next up: Fabrik, Madrid on Sat 30 Jan.
 
@@ -23,4 +23,4 @@ Monica X is a club and hip-hop artist based in Spain, with 7 gigs on soundcheck 
 
 Black Mood, DJ Marta, DJ Quietstorm
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monicax/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/monicax/)*

@@ -1,6 +1,6 @@
 # Boundless (1)
 
-Boundless (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
+Boundless (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat, 5 Dec 2026.
 
 Boundless is a techno and tech house artist based in Portugal, with 21 gigs on soundcheck across Berlin, Copenhagen, Lisbon and London and 5 more. Often billed alongside Ben Jammin, George Ellis and Jorge Martins. Next up: TBA - Hacienda La Luna, Morelos Mexico., Morelos on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Boundless is a techno and tech house artist based in Portugal, with 21 gigs on s
 
 Ben Jammin, George Ellis, Jorge Martins
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boundless-1/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boundless-1/)*

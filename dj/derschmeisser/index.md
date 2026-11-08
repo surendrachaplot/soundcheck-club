@@ -1,6 +1,6 @@
 # Der Schmeisser
 
-Der Schmeisser is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Golden Gate, Berlin on Sat, 7 Nov 2026.
+Der Schmeisser is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Golden Gate, Berlin on Sat, 7 Nov 2026.
 
 Der Schmeisser is an electronic artist, with 6 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Nils Ohrmann, AALIYAH and Antoine Baiser. Next up: Golden Gate, Berlin on Sat 7 Nov.
 
@@ -12,6 +12,7 @@ Der Schmeisser is an electronic artist, with 6 gigs on soundcheck across Berlin 
 
 ## Recently played
 
+- Golden Gate, Berlin · Sat, 7 Nov 2026
 - Golden Gate, Berlin · Fri, 7 Nov 2025
 - Kater, Berlin · Fri, 29 Aug 2025
 - Golden Gate, Berlin · Sat, 14 Dec 2024
@@ -22,4 +23,4 @@ Der Schmeisser is an electronic artist, with 6 gigs on soundcheck across Berlin 
 
 Nils Ohrmann, AALIYAH, Antoine Baiser
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derschmeisser/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derschmeisser/)*

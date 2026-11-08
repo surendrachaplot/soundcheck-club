@@ -1,19 +1,19 @@
 # Seb Fontaine
 
-Seb Fontaine is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at WaV, Liverpool on Sat, 7 Nov 2026.
+Seb Fontaine is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bar Andrews Leicester, Midlands on Fri, 27 Nov 2026.
 
-Seb Fontaine is a house and trance artist based in United Kingdom, with 52 gigs on soundcheck across Aberdeen, Auckland, Belfast and Birmingham and 11 more. Often billed alongside Tall Paul, Judge Jules and K-Klass. Next up: WaV, Liverpool on Sat 7 Nov.
+Seb Fontaine is a house and trance artist based in United Kingdom, with 52 gigs on soundcheck across Aberdeen, Auckland, Belfast and Birmingham and 11 more. Often billed alongside Tall Paul, Judge Jules and K-Klass. Next up: Bar Andrews Leicester, Midlands on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | WaV | Liverpool |
 | Fri, 27 Nov 2026 | Bar Andrews Leicester | Midlands |
 | Thu, 31 Dec 2026 | The Steel Yard | London |
 
 ## Recently played
 
+- WaV, Liverpool · Sat, 7 Nov 2026
 - Fire & Lightbox, London · Sat, 31 Oct 2026
 - TBA - The Manor House, Tunbridge Wells, South-east · Sat, 10 Oct 2026
 - 02 Victoria Warehouse, Manchester · Sat, 26 Sept 2026
@@ -21,10 +21,9 @@ Seb Fontaine is a house and trance artist based in United Kingdom, with 52 gigs 
 - Amnesia Ibiza, Ibiza · Wed, 23 Sept 2026
 - 528 Ibiza, Ibiza · Sat, 8 Aug 2026
 - The Limelight, Belfast · Sat, 8 Aug 2026
-- Orrell Hill Woods, Liverpool · Sat, 27 Jun 2026
 
 ## Shares bills with
 
 Tall Paul, Judge Jules, K-Klass
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebfontaine/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sebfontaine/)*

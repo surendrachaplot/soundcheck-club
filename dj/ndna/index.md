@@ -1,6 +1,6 @@
 # NDNA
 
-NDNA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 5 Dec 2026.
+NDNA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ritter Butzke, Berlin on Sat, 5 Dec 2026.
 
 NDNA is a techno and tech house artist, with 15 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside BOHO, Miss UNLEASHED and Barbur. Next up: Ritter Butzke, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ NDNA is a techno and tech house artist, with 15 gigs on soundcheck across Amster
 
 BOHO, Miss UNLEASHED, Barbur
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ndna/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ndna/)*

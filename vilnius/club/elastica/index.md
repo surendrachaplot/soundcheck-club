@@ -1,6 +1,6 @@
 # Elastica
 
-Elastica is a music venue in Vilnius with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Labirintas 2026" on Thu, 12 Nov 2026.
+Elastica is a music venue in Vilnius with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Labirintas 2026" on Thu, 12 Nov 2026.
 
 Elastica is a music venue in Vilnius listed on soundcheck. 3 upcoming gigs, with line-ups including 999999999, Acidless, Dominetrix and Et Cetera and 2 more. See dates, start times and who's playing. Geležinkelio 6, Vilnius, Lithuania.
 
@@ -16,4 +16,4 @@ Elastica is a music venue in Vilnius listed on soundcheck. 3 upcoming gigs, with
 
 Geležinkelio 6, Vilnius, Lithuania, Vilnius
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/elastica/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/vilnius/club/elastica/)*

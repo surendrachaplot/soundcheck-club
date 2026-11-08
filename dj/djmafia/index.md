@@ -1,6 +1,6 @@
 # DJ MAFIA
 
-DJ MAFIA is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 12 Nov 2026.
+DJ MAFIA is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Lux Fragil, Lisbon on Thu, 12 Nov 2026.
 
 DJ MAFIA is an electronic artist based in Portugal, with 6 gigs on soundcheck across Lisbon. Often billed alongside 420@ôa, Cativo and MINERVA. Next up: Lux Fragil, Lisbon on Thu 12 Nov.
 
@@ -22,4 +22,4 @@ DJ MAFIA is an electronic artist based in Portugal, with 6 gigs on soundcheck ac
 
 420@ôa, Cativo, MINERVA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmafia/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmafia/)*

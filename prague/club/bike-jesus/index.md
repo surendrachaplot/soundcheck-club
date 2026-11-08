@@ -1,6 +1,6 @@
 # Bike Jesus
 
-Bike Jesus is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Lick with Bobok & Teoman, Gökdeniz, Fembot, Keo Jesse & Dash" on Fri, 13 Nov 2026.
+Bike Jesus is a music venue in Prague with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Lick with Bobok & Teoman, Gökdeniz, Fembot, Keo Jesse & Dash" on Fri, 13 Nov 2026.
 
 Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, with line-ups including Alejandro Molinari, BERLIN, Blackloud and Credit 00 and 2 more. See dates, start times and who's playing. ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia.
 
@@ -23,4 +23,4 @@ Bike Jesus is a music venue in Prague listed on soundcheck. 10 upcoming gigs, wi
 
 ostrov Štvanice 1125, 170 00 Praha 7-Holešovice, Czechia, Prague
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bike-jesus/)*

@@ -1,14 +1,13 @@
 # Grow
 
-Grow is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Cengiz presents: blissy e, Entek" on Sat, 7 Nov 2026.
+Grow is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman" on Sat, 14 Nov 2026.
 
-Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Alfie Panaiotis, Beavs, blissy e and Cengiz and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
+Grow is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alfie Panaiotis, Beavs, CSGRV and Handson Family and 2 more. See dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Cengiz presents: blissy e, Entek | Cengiz, Entek, blissy e |
 | Sat, 14 Nov 2026 | DeepDig: Handson Family (4 Hour Set) // Vanessa Freeman | Handson Family, Vanessa Freeman |
 | Fri, 20 Nov 2026 | SWEET ONES: Zak Miller, Richie, Rhiavas, Komanche   | Komanche, Rhiavas, Zak Miller |
 | Sat, 21 Nov 2026 | Love Is Everywhere #9: Tina Edwards // Paul Murphy // Masumi Endo // Foot Notes | Tina Edwards |
@@ -23,4 +22,4 @@ Grow is a music venue in London listed on soundcheck. 10 upcoming gigs, with lin
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

@@ -1,6 +1,6 @@
 # Wayward
 
-Wayward is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Wayward NYE27 Baltimore" on Thu, 31 Dec 2026.
+Wayward is a music venue in Baltimore with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Wayward NYE27 Baltimore" on Thu, 31 Dec 2026.
 
 Wayward is a music venue in Baltimore listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Wayward is a music venue in Baltimore listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | Wayward NYE27 Baltimore |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/wayward/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/baltimore/club/wayward/)*

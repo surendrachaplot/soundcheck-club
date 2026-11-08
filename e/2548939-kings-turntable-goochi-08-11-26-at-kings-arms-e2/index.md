@@ -1,6 +1,6 @@
 # Kings Turntable: Goochi [08.11.26] at Kings Arms E2
 
-Kings Turntable: Goochi [08.11.26] at Kings Arms E2 on Sun 8 Nov, London. Balearic and Disco. See the line-up on soundcheck.
+Kings Turntable: Goochi [08.11.26] at Kings Arms E2 on Sun 8 Nov, London. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

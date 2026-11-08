@@ -26,7 +26,7 @@ Breakfast Club: The (Final) First Dance at RADION on Fri 1 Jan, Amsterdam. 18 ar
 - Silverlining
 - Tsepo
 - Vasco
-- Yu Mi
 - Yubu
+- Yumi
 
 *Source: [soundcheck](https://soundcheck.club/e/2578041-breakfast-club-the-final-first-dance-at-radion/)*

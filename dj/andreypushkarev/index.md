@@ -1,14 +1,13 @@
 # Andrey Pushkarev
 
-Andrey Pushkarev is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Vault Club, East on Sat, 7 Nov 2026.
+Andrey Pushkarev is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tempo Club, Santiago-de-quer-taro on Sat, 14 Nov 2026.
 
-Andrey Pushkarev is a house and minimal artist, with 113 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 48 more. Often billed alongside Lola Palmer, Mihai Popoviciu and Priku. Next up: Vault Club, East on Sat 7 Nov.
+Andrey Pushkarev is a house and minimal artist, with 113 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 48 more. Often billed alongside Lola Palmer, Mihai Popoviciu and Priku. Next up: Tempo Club, Santiago De Quer Taro on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Vault Club | East |
 | Sat, 14 Nov 2026 | Tempo Club | Santiago-de-quer-taro |
 | Sat, 28 Nov 2026 | Turbina | Budapest |
 | Sat, 12 Dec 2026 | Club Guesthouse | Bucharest |
@@ -16,6 +15,7 @@ Andrey Pushkarev is a house and minimal artist, with 113 gigs on soundcheck acro
 
 ## Recently played
 
+- Vault Club, East · Sat, 7 Nov 2026
 - Noorderlicht Café, Amsterdam · Sun, 25 Oct 2026
 - Tokonoma Club, Frankfurt · Fri, 23 Oct 2026
 - Terraza Music Park, Brazil · Sat, 17 Oct 2026
@@ -23,10 +23,9 @@ Andrey Pushkarev is a house and minimal artist, with 113 gigs on soundcheck acro
 - Frankielanuit!, Toulouse · Sat, 19 Sept 2026
 - Supermarket, Zurich · Sat, 5 Sept 2026
 - Wicked West, San Diego · Sat, 29 Aug 2026
-- public records, New York City · Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Lola Palmer, Mihai Popoviciu, Priku
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andreypushkarev/)*

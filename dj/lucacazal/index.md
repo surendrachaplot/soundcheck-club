@@ -1,6 +1,6 @@
 # Luca Cazal
 
-Luca Cazal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location, Puerto Escondido, Puerto-escondido on Sat, 14 Nov 2026.
+Luca Cazal is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Location, Puerto Escondido, Puerto-escondido on Sat, 14 Nov 2026.
 
 Luca Cazal is a house and techno artist based in Italy, with 20 gigs on soundcheck across Barcelona, Beijing, Berlin and Ibiza and 9 more. Often billed alongside Maxime dB, AD:mE and Claudia Kane. Next up: TBA - Secret Location, Puerto Escondido, Puerto Escondido on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Luca Cazal is a house and techno artist based in Italy, with 20 gigs on soundche
 
 Maxime dB, AD:mE, Claudia Kane
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacazal/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lucacazal/)*

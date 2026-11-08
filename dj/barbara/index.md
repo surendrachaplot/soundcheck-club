@@ -1,13 +1,14 @@
 # Barbara
 
-Barbara is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Barbara is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Barraca, Valencia on Sat, 21 Nov 2026.
 
-Barbara is a club and house artist, with 9 gigs on soundcheck across Idaho, Kyoto, New York City and Prague and 1 more. Often billed alongside AMPRS&ND, Bachtroy and Balance. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
+Barbara is a techno and club artist, with 10 gigs on soundcheck across Idaho, Kyoto, New York City and Prague and 2 more. Often billed alongside AMPRS&ND, Ayra Nishati and Bachtroy. Next up: Barraca, Valencia on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Barraca | Valencia |
 | Wed, 31 Mar 2027 | Treefort Music Hall | Idaho |
 
 ## Recently played
@@ -23,6 +24,6 @@ Barbara is a club and house artist, with 9 gigs on soundcheck across Idaho, Kyot
 
 ## Shares bills with
 
-AMPRS&ND, Bachtroy, Balance
+AMPRS&ND, Ayra Nishati, Bachtroy
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbara/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/barbara/)*

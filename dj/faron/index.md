@@ -1,6 +1,6 @@
 # faron
 
-faron is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
+faron is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at K-Bar Powiśle, Warsaw on Fri, 27 Nov 2026.
 
 faron is a bass and breakbeat artist based in Poland, with 68 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Some Guest, iffi and dd (PL). Next up: K-Bar Powiśle, Warsaw on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ faron is a bass and breakbeat artist based in Poland, with 68 gigs on soundcheck
 
 Some Guest, iffi, dd (PL)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/faron/)*

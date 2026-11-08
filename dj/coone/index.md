@@ -1,30 +1,28 @@
 # Coone
 
-Coone is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
+Coone is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Poolen, Copenhagen on Sat, 28 Nov 2026.
 
-Coone is a techno and hardcore artist based in Belgium, with 26 gigs on soundcheck across Amsterdam, Brussels, Copenhagen and Düsseldorf and 10 more. Often billed alongside Da Tweekaz, Brennan Heart and Alok. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
+Coone is a techno and hardcore artist based in Belgium, with 26 gigs on soundcheck across Amsterdam, Brussels, Copenhagen and Düsseldorf and 10 more. Often billed alongside Da Tweekaz, Brennan Heart and Alok. Next up: Poolen, Copenhagen on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
-| Sat, 7 Nov 2026 | Phantom, Paris | Paris |
 | Sat, 28 Nov 2026 | Poolen | Copenhagen |
 
 ## Recently played
 
+- Palais 12 / Paleis 12 (ING Arena), Brussels · Sat, 7 Nov 2026
+- Phantom, Paris, Paris · Sat, 7 Nov 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - Chicago Social Club, Amsterdam · Wed, 21 Oct 2026
 - Unidad Deportiva Atanasio Girardot, Medellin · Sat, 10 Oct 2026
 - Electrisize, Düsseldorf · Fri, 7 Aug 2026
 - NOS Event Center, Los Angeles · Fri, 27 Mar 2026
 - Fabrik, Madrid · Sat, 21 Feb 2026
-- Epic Prague, Prague · Fri, 13 Feb 2026
-- T7 Paris, Paris · Sat, 29 Nov 2025
 
 ## Shares bills with
 
 Da Tweekaz, Brennan Heart, Alok
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/coone/)*

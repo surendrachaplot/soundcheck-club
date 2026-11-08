@@ -1,18 +1,18 @@
 # Klint
 
-Klint is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Malta on Sat, 7 Nov 2026.
+Klint is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Delgalleria - Espa, Helsinki on Sat, 14 Nov 2026.
 
-Klint is a techno and club artist based in France, with 14 gigs on soundcheck across Belgrade, Berlin, Bratislava and Gothenburg and 8 more. Often billed alongside AUCO, Airod and Alan Fitzpatrick. Next up: TBA, Malta on Sat 7 Nov.
+Klint is a techno and club artist based in France, with 14 gigs on soundcheck across Belgrade, Berlin, Bratislava and Gothenburg and 8 more. Often billed alongside AUCO, Airod and Alan Fitzpatrick. Next up: Delgalleria - Espa, Helsinki on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA | Malta |
 | Sat, 14 Nov 2026 | Delgalleria - Espa | Helsinki |
 
 ## Recently played
 
+- TBA, Malta · Sat, 7 Nov 2026
 - Radost Music Club, Bratislava · Fri, 2 Oct 2026
 - Tresor / Globus, Berlin · Wed, 3 Jun 2026
 - fabric, London · Sat, 30 May 2026
@@ -20,10 +20,9 @@ Klint is a techno and club artist based in France, with 14 gigs on soundcheck ac
 - Fabrik, Madrid · Sat, 6 Dec 2025
 - Trafick, Lausanne · Sat, 29 Nov 2025
 - TBA, Gothenburg · Sat, 19 Apr 2025
-- Tresor / Globus, Berlin · Wed, 7 Aug 2024
 
 ## Shares bills with
 
 AUCO, Airod, Alan Fitzpatrick
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klint/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/klint/)*

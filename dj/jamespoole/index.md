@@ -1,6 +1,6 @@
 # James Poole
 
-James Poole is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ark (Melb), Melbourne on Sat, 14 Nov 2026.
+James Poole is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at ark (Melb), Melbourne on Sat, 14 Nov 2026.
 
 James Poole is a house and minimal artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Eindhoven, Glasgow and Ibiza and 7 more. Often billed alongside East End Dubs, Hidde van Wee and Julian Fijma. Next up: ark (Melb), Melbourne on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ James Poole is a house and minimal artist based in United Kingdom, with 12 gigs 
 
 East End Dubs, Hidde van Wee, Julian Fijma
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamespoole/)*

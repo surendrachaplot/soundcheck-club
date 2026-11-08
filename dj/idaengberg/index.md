@@ -1,6 +1,6 @@
 # Ida Engberg
 
-Ida Engberg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Zamna Tulum, Tulum on Thu, 31 Dec 2026.
+Ida Engberg is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Zamna Tulum, Tulum on Thu, 31 Dec 2026.
 
 Ida Engberg is a techno and house artist based in Sweden, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 40 more. Often billed alongside Carl Cox, Kölsch and Indira Paganotto. Next up: Zamna Tulum, Tulum on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ Ida Engberg is a techno and house artist based in Sweden, with 114 gigs on sound
 
 Carl Cox, Kölsch, Indira Paganotto
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/idaengberg/)*

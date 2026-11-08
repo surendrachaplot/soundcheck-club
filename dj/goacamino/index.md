@@ -1,6 +1,6 @@
 # Goa Camino
 
-Goa Camino is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kulturbrauerei, Berlin on Thu, 31 Dec 2026.
+Goa Camino is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kulturbrauerei, Berlin on Thu, 31 Dec 2026.
 
 Goa Camino is a techno and psytrance artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside Enantion, BERLIN and DJ Jordan. Next up: Kulturbrauerei, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Goa Camino is a techno and psytrance artist based in Germany, with 16 gigs on so
 
 Enantion, BERLIN, DJ Jordan
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goacamino/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goacamino/)*

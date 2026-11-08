@@ -1,8 +1,8 @@
 # Donato Dozzy
 
-Donato Dozzy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
+Donato Dozzy is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at FOLD, London on Sat, 21 Nov 2026.
 
-Donato Dozzy is a techno and house artist based in Italy, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Voices From The Lake, Batu and Ogazón. Next up: FOLD, London on Sat 21 Nov.
+Donato Dozzy is a techno and house artist based in Italy, with 112 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 37 more. Often billed alongside Voices From The Lake, Batu and Ogazón. Next up: FOLD, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Donato Dozzy is a techno and house artist based in Italy, with 111 gigs on sound
 | Sat, 28 Nov 2026 | Brancaleone | Rome |
 | Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 | Sat, 6 Mar 2027 | fabric | London |
+| Thu, 17 Jun 2027 | TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night) | Barcelona |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Donato Dozzy is a techno and house artist based in Italy, with 111 gigs on sound
 
 Voices From The Lake, Batu, Ogazón
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donatodozzy/)*

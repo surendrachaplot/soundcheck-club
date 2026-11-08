@@ -1,6 +1,6 @@
 # Tasuik
 
-Tasuik is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Bassement, Madrid on Thu, 19 Nov 2026.
+Tasuik is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Bassement, Madrid on Thu, 19 Nov 2026.
 
 Tasuik is a trance and techno artist based in Spain, with 44 gigs on soundcheck across Barcelona, Berlin, Cologne and Madrid and 1 more. Often billed alongside JRG, Møstroh and Bluntz. Next up: The Bassement, Madrid on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Tasuik is a trance and techno artist based in Spain, with 44 gigs on soundcheck 
 
 JRG, Møstroh, Bluntz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasuik/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tasuik/)*

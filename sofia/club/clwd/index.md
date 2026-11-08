@@ -1,16 +1,15 @@
 # Clwd
 
-Clwd is a music venue in Sofia with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "BERLIN CALLING" on Sat, 7 Nov 2026.
+Clwd is a music venue in Sofia with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "EXE pres. Marco Faraone" on Sat, 14 Nov 2026.
 
-Clwd is a music venue in Sofia listed on soundcheck. 4 upcoming gigs, with line-ups including Gallya, LUKAS & FRANK, Marco Faraone and MODERN and 2 more. See dates, start times and who's playing.
+Clwd is a music venue in Sofia listed on soundcheck. 3 upcoming gigs, with line-ups including Gallya, LUKAS & FRANK, Marco Faraone and Vendex and 1 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | BERLIN CALLING | MODERN, Speedy J, Vorick |
 | Sat, 14 Nov 2026 | EXE pres. Marco Faraone | Gallya, Marco Faraone |
 | Fri, 27 Nov 2026 | House of LUKAS & FRANK live in Sofia | LUKAS & FRANK |
 | Sat, 28 Nov 2026 | EXE pres. Vendex | Vendex, Vorick |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/clwd/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/clwd/)*

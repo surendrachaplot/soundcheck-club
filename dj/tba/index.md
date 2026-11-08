@@ -1,14 +1,13 @@
 # TBA
 
-TBA is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Electric Ballroom, London on Sat, 7 Nov 2026.
+TBA is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kult, Belgrade on Wed, 11 Nov 2026.
 
-TBA is a techno and house artist based in Georgia, with 275 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 48 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Electric Ballroom, London on Sat 7 Nov.
+TBA is a techno and house artist based in Georgia, with 275 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 48 more. Often billed alongside PARIS (AU), Gerald VDH and Natalie Beridze. Next up: Kult, Belgrade on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Electric Ballroom | London |
 | Wed, 11 Nov 2026 | Kult | Belgrade |
 | Fri, 13 Nov 2026 | Temple SF | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Shelter Amsterdam | Amsterdam |
@@ -20,9 +19,11 @@ TBA is a techno and house artist based in Georgia, with 275 gigs on soundcheck a
 | Sat, 28 Nov 2026 | Slaktkyrkan | Stockholm |
 | Sat, 5 Dec 2026 | Electric Ballroom | London |
 | Sat, 12 Dec 2026 | Electric Ballroom | London |
+| Sat, 12 Dec 2026 | 93 Feet East | London |
 
 ## Recently played
 
+- Electric Ballroom, London · Sat, 7 Nov 2026
 - Kult, Belgrade · Wed, 28 Oct 2026
 - Electric Ballroom, London · Sat, 24 Oct 2026
 - Bridge 48, Barcelona · Fri, 23 Oct 2026
@@ -30,10 +31,9 @@ TBA is a techno and house artist based in Georgia, with 275 gigs on soundcheck a
 - Odonien, Cologne · Wed, 21 Oct 2026
 - Electric Ballroom, London · Sat, 17 Oct 2026
 - Electric Ballroom, London · Sat, 10 Oct 2026
-- teller, Seoul · Thu, 8 Oct 2026
 
 ## Shares bills with
 
 PARIS (AU), Gerald VDH, Natalie Beridze
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tba/)*

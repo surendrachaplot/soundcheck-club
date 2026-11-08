@@ -1,14 +1,13 @@
 # Housequake
 
-Housequake is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Mezz, Netherlands on Sat, 7 Nov 2026.
+Housequake is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 14 Nov 2026.
 
-Housequake is a house and tech house artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Nashville, Netherlands and Nijmegen and 3 more. Often billed alongside Erick E, ROOG and Funkerman. Next up: Mezz, Netherlands on Sat 7 Nov.
+Housequake is a house and tech house artist based in Netherlands, with 26 gigs on soundcheck across Amsterdam, Nashville, Netherlands and Nijmegen and 3 more. Often billed alongside Erick E, ROOG and Funkerman. Next up: Warehouse Elementenstraat, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Mezz | Netherlands |
 | Sat, 14 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 28 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 19 Dec 2026 | Patronaat | Netherlands |
@@ -18,6 +17,7 @@ Housequake is a house and tech house artist based in Netherlands, with 26 gigs o
 
 ## Recently played
 
+- Mezz, Netherlands · Sat, 7 Nov 2026
 - Grand Hotel Amrâth Kurhaus, The Hague · Sat, 31 Oct 2026
 - Simplon, Netherlands · Fri, 16 Oct 2026
 - De Achtertuin, Nijmegen · Sat, 10 Oct 2026
@@ -25,10 +25,9 @@ Housequake is a house and tech house artist based in Netherlands, with 26 gigs o
 - Millers Beach, The Hague · Sun, 13 Sept 2026
 - Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
 - Azorra Beachclub, The Hague · Fri, 15 May 2026
-- TBA - Laurenskerk Rotterdam, Rotterdam · Sat, 14 Mar 2026
 
 ## Shares bills with
 
 Erick E, ROOG, Funkerman
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/housequake/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/housequake/)*

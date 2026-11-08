@@ -1,6 +1,6 @@
 # Shjva
 
-Shjva is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
+Shjva is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Buda BXL, Brussels on Sat, 7 Nov 2026.
 
 Shjva is a techno and trance artist based in Ukraine, with 89 gigs on soundcheck across Athens, Berlin, Brussels and Cologne and 19 more. Often billed alongside Samogulov, Plastik and Volodymyr Gnatenko. Next up: Buda BXL, Brussels on Sat 7 Nov.
 
@@ -15,6 +15,7 @@ Shjva is a techno and trance artist based in Ukraine, with 89 gigs on soundcheck
 
 ## Recently played
 
+- Buda BXL, Brussels · Sat, 7 Nov 2026
 - TBA - Neukölln, Berlin · Sun, 1 Nov 2026
 - Sekta Selekta, Krakow · Sat, 12 Sept 2026
 - TBA - secret location, Copenhagen · Fri, 11 Sept 2026
@@ -22,10 +23,9 @@ Shjva is a techno and trance artist based in Ukraine, with 89 gigs on soundcheck
 - Sonnenraum, Berlin · Sat, 29 Aug 2026
 - Mastak, Warsaw · Fri, 21 Aug 2026
 - Miami Wars, Warsaw · Sat, 18 Jul 2026
-- UMI, Brussels · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Samogulov, Plastik (1), Volodymyr Gnatenko
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shjva/)*

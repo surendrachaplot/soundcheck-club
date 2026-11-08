@@ -1,6 +1,6 @@
 # Giammarco Orsini
 
-Giammarco Orsini is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 8 Nov 2026.
+Giammarco Orsini is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at El Rio Hostel, Colombia on Sun, 8 Nov 2026.
 
 Giammarco Orsini is a house and techno artist based in Italy, with 188 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 46 more. Often billed alongside PARAMIDA, Marcolino and Anthea. Next up: El Rio Hostel, Colombia on Sun 8 Nov.
 
@@ -28,4 +28,4 @@ Giammarco Orsini is a house and techno artist based in Italy, with 188 gigs on s
 
 PARAMIDA, Marcolino, Anthea
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giammarcoorsini/)*

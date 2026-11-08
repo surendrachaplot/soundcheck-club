@@ -1,6 +1,6 @@
 # CYLLA
 
-CYLLA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cafeteria, Toronto on Sat, 28 Nov 2026.
+CYLLA is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cafeteria, Toronto on Sat, 28 Nov 2026.
 
 CYLLA is a club and techno artist based in Canada, with 9 gigs on soundcheck across Toronto. Often billed alongside moii-chan, 999ADJ and Akkai. Next up: Cafeteria, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ CYLLA is a club and techno artist based in Canada, with 9 gigs on soundcheck acr
 
 moii-chan, 999ADJ, Akkai (2)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cylla/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cylla/)*

@@ -1,14 +1,13 @@
 # SG Lewis
 
-SG Lewis is a House and Electronica artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Frontón Bucareli, Mexico City on Sat, 7 Nov 2026.
+SG Lewis is a House and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-SG Lewis is a house and electronica artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: Frontón Bucareli, Mexico City on Sat 7 Nov.
+SG Lewis is a house and electronica artist based in United Kingdom, with 95 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Gorgon City, Dom Dolla and Eliza Rose. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Frontón Bucareli | Mexico City |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Sun, 15 Nov 2026 | The Concourse Project | Austin |
 | Wed, 2 Dec 2026 | ZeyZey | Miami |
@@ -18,6 +17,7 @@ SG Lewis is a house and electronica artist based in United Kingdom, with 95 gigs
 
 ## Recently played
 
+- Frontón Bucareli, Mexico City · Sat, 7 Nov 2026
 - TBA - Passeio Marítimo de Algés, Portugal, Lisbon · Sat, 10 Oct 2026
 - The Great Northern, San Francisco/Oakland · Sun, 27 Sept 2026
 - TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
@@ -25,10 +25,9 @@ SG Lewis is a house and electronica artist based in United Kingdom, with 95 gigs
 - Index, Dublin · Sat, 19 Sept 2026
 - The Cause, London · Fri, 18 Sept 2026
 - Hï Ibiza, Ibiza · Sat, 12 Sept 2026
-- Valby Parken, Copenhagen · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Gorgon City, Dom Dolla, Eliza Rose
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sglewis/)*

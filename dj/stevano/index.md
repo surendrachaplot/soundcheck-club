@@ -1,6 +1,6 @@
 # Stevano
 
-Stevano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Eagle of Detroit, Detroit on Fri, 13 Nov 2026.
+Stevano is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Eagle of Detroit, Detroit on Fri, 13 Nov 2026.
 
 Stevano is a house and techno artist based in United States of America, with 127 gigs on soundcheck across Detroit. Often billed alongside Tylr, Al Ester and Savannah G. Next up: The Eagle of Detroit, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Stevano is a house and techno artist based in United States of America, with 127
 
 Tylr, Al Ester, Savannah G
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevano/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevano/)*

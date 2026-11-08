@@ -1,6 +1,6 @@
 # The Chainsmokers
 
-The Chainsmokers is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
+The Chainsmokers is a House and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Woodshop, New York City on Fri, 13 Nov 2026.
 
 The Chainsmokers is a house and dubstep artist based in United States of America, with 23 gigs on soundcheck across Arizona, Austin, Bali and Brisbane and 12 more. Often billed alongside Alesso, Gryffin and Tiesto. Next up: The Woodshop, New York City on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ The Chainsmokers is a house and dubstep artist based in United States of America
 
 Alesso, Gryffin, Tiesto
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thechainsmokers/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/thechainsmokers/)*

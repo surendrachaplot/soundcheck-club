@@ -1,6 +1,6 @@
 # Stacie Fields
 
-Stacie Fields is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
+Stacie Fields is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Golden Sheaf, New-south-wales on Sat, 14 Nov 2026.
 
 Stacie Fields is a house and tech house artist based in Australia, with 28 gigs on soundcheck across Cardiff, Ibiza, London and Melbourne and 3 more. Often billed alongside Ben Horton, Jamback and Bella Backe. Next up: The Golden Sheaf, New South Wales on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Stacie Fields is a house and tech house artist based in Australia, with 28 gigs 
 
 Ben Horton, Jamback, Bella Backe
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staciefields/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/staciefields/)*

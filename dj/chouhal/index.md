@@ -1,14 +1,15 @@
 # chouhal
 
-chouhal is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
+chouhal is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Liquid Club, Malta on Sat, 14 Nov 2026.
 
-chouhal is a techno and trance artist based in Malta, with 29 gigs on soundcheck across Malta. Often billed alongside Damz, Dicentra and Gordon Flash. Next up: Liquid Club, Malta on Sat 14 Nov.
+chouhal is a techno and trance artist based in Malta, with 30 gigs on soundcheck across Malta. Often billed alongside Damz, Dicentra and Gordon Flash. Next up: Liquid Club, Malta on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Liquid Club | Malta |
+| Sat, 21 Nov 2026 | Beachaven Complex | Malta |
 | Fri, 4 Dec 2026 | MFCC Arena | Malta |
 
 ## Recently played
@@ -26,4 +27,4 @@ chouhal is a techno and trance artist based in Malta, with 29 gigs on soundcheck
 
 Damz, Dicentra, Gordon Flash
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chouhal/)*

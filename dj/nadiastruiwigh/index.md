@@ -1,14 +1,13 @@
 # Nadia Struiwigh
 
-Nadia Struiwigh is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 7 Nov 2026.
+Nadia Struiwigh is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at CLUB RAUM, Amsterdam on Sat, 5 Dec 2026.
 
-Nadia Struiwigh is a techno and electronica artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside .VRIL, DJ MELL G and Fireground. Next up: Razzmatazz, Barcelona on Sat 7 Nov.
+Nadia Struiwigh is a techno and electronica artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 21 more. Often billed alongside .VRIL, DJ MELL G and Fireground. Next up: CLUB RAUM, Amsterdam on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Razzmatazz | Barcelona |
 | Sat, 5 Dec 2026 | CLUB RAUM | Amsterdam |
 | Thu, 31 Dec 2026 | Tempio del Futuro Perduto | Milan |
 | Fri, 29 Jan 2027 | Berghain / Panorama Bar / Säule | Berlin |
@@ -16,6 +15,7 @@ Nadia Struiwigh is a techno and electronica artist based in Germany, with 95 gig
 
 ## Recently played
 
+- Razzmatazz, Barcelona · Sat, 7 Nov 2026
 - De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - Loods6, Amsterdam · Fri, 23 Oct 2026
 - OT301, Amsterdam · Fri, 23 Oct 2026
@@ -23,10 +23,9 @@ Nadia Struiwigh is a techno and electronica artist based in Germany, with 95 gig
 - THE OTHER SIDE, Amsterdam · Wed, 21 Oct 2026
 - Tresor / Globus, Berlin · Fri, 2 Oct 2026
 - Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin · Thu, 17 Sept 2026
 
 ## Shares bills with
 
 .VRIL, DJ MELL G, Fireground
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiastruiwigh/)*

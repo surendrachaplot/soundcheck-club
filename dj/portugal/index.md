@@ -1,6 +1,6 @@
 # Portugal
 
-Portugal is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Pasaje America, Mexico City on Sat, 28 Nov 2026.
+Portugal is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Pasaje America, Mexico City on Sat, 28 Nov 2026.
 
 Portugal is a house and techno artist based in Mexico, with 92 gigs on soundcheck across Bali, Barcelona, Guadalajara and Lisbon and 3 more. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Enya Botello. Next up: Pasaje America, Mexico City on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Portugal is a house and techno artist based in Mexico, with 92 gigs on soundchec
 
 Duke Skylocker (Disco Dust), Miss Voltaghe, Enya Botello
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/portugal/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/portugal/)*

@@ -1,6 +1,6 @@
 # Claudio PRC
 
-Claudio PRC is a Techno and Experimental artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Claudio PRC is a Techno and Experimental artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Claudio PRC is a techno and experimental artist based in Italy, with 185 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 59 more. Often billed alongside Isabel Soto, Luigi Tozzi and Adriana Lopez. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -35,4 +35,4 @@ Claudio PRC is a techno and experimental artist based in Italy, with 185 gigs on
 
 Isabel Soto, Luigi Tozzi, Adriana Lopez
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/claudioprc/)*

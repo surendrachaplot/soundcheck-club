@@ -1,6 +1,6 @@
 # Kay Fabe
 
-Kay Fabe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Gut Level, Sheffield on Fri, 13 Nov 2026.
+Kay Fabe is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Gut Level, Sheffield on Fri, 13 Nov 2026.
 
 Kay Fabe is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across London, Nottingham and Sheffield. Often billed alongside Evil Woman, dj come and rPal. Next up: Gut Level, Sheffield on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Kay Fabe is a techno and house artist based in United Kingdom, with 21 gigs on s
 
 Evil Woman, dj come, rPal
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayfabe/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kayfabe/)*

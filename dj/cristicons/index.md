@@ -1,6 +1,6 @@
 # Cristi Cons
 
-Cristi Cons is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Cristi Cons is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Cristi Cons is a house and minimal artist based in Romania, with 123 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 39 more. Often billed alongside Vlad Caia, SIT Amphia and Sublee. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -28,4 +28,4 @@ Cristi Cons is a house and minimal artist based in Romania, with 123 gigs on sou
 
 Vlad Caia, SIT Amphia, Sublee
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristicons/)*

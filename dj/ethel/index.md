@@ -1,6 +1,6 @@
 # Ethel
 
-Ethel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Legal, Munich on Sat, 21 Nov 2026.
+Ethel is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Legal, Munich on Sat, 21 Nov 2026.
 
 Ethel is a house and electro artist, with 48 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 13 more. Often billed alongside Melody RA+RE, ABI (FR) and Harmonic. Next up: Legal, Munich on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Ethel is a house and electro artist, with 48 gigs on soundcheck across Barcelona
 
 Melody RA+RE, ABI (FR), Harmonic
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethel/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ethel/)*

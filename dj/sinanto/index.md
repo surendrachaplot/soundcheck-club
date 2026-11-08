@@ -1,8 +1,8 @@
 # Sin Anto
 
-Sin Anto is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Tigullio, Malta on Fri, 13 Nov 2026.
+Sin Anto is a Guaracha and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tigullio, Malta on Fri, 13 Nov 2026.
 
-Sin Anto is a guaracha and latin bass artist, with 7 gigs on soundcheck across Malta. Often billed alongside 5AJAAK, Alex Micca and BOXFiSH. Next up: Tigullio, Malta on Fri 13 Nov.
+Sin Anto is a guaracha and latin bass artist based in Italy, with 7 gigs on soundcheck across Malta. Often billed alongside 5AJAAK, Alex Micca and BOXFiSH. Next up: Tigullio, Malta on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ Sin Anto is a guaracha and latin bass artist, with 7 gigs on soundcheck across M
 
 5AJAAK, Alex Micca, BOXFiSH
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinanto/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinanto/)*

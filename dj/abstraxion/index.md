@@ -1,6 +1,6 @@
 # Abstraxion
 
-Abstraxion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at La Gare / Le Gore, Paris on Sun, 8 Nov 2026.
+Abstraxion is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at La Gare / Le Gore, Paris on Sun, 8 Nov 2026.
 
 Abstraxion is a techno and house artist based in France, with 31 gigs on soundcheck across Berlin, Copenhagen, Malmo and Marseille and 3 more. Often billed alongside Sean Fender, Vio PRG and Delavas. Next up: La Gare / Le Gore, Paris on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Abstraxion is a techno and house artist based in France, with 31 gigs on soundch
 
 Sean Fender, Vio PRG, Delavas
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraxion/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abstraxion/)*

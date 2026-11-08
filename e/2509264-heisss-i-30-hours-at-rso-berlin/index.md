@@ -1,6 +1,6 @@
 # HEISSS I 30 hours at RSO.BERLIN
 
-HEISSS I 30 hours at RSO.BERLIN on Sat 19 Dec, Berlin. 13 artists: Cirkle, Elvin, Eoin DJ and Idu Berg and 9 more. Techno and House. See the line-up on soundcheck.
+HEISSS I 30 hours at RSO.BERLIN on Sat 19 Dec, Berlin. 14 artists: Cirkle, Elvin, Eoin DJ and Fafi Abdel Nour and 10 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ HEISSS I 30 hours at RSO.BERLIN on Sat 19 Dec, Berlin. 13 artists: Cirkle, Elvin
 - Cirkle
 - Elvin
 - Eoin DJ
+- Fafi Abdel Nour
 - Idu Berg
 - Jelena
 - Jessie Granqvist

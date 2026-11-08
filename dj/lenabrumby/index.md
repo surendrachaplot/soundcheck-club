@@ -1,6 +1,6 @@
 # Lena Brumby
 
-Lena Brumby is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
+Lena Brumby is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at ://about blank, Berlin on Sat, 21 Nov 2026.
 
 Lena Brumby is a house and deep house artist based in Germany, with 45 gigs on soundcheck across Berlin. Often billed alongside Jessamine, Alex.Do and Rodmin. Next up: ://about blank, Berlin on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Lena Brumby is a house and deep house artist based in Germany, with 45 gigs on s
 
 Jessamine, Alex.Do, Rodmin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrumby/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lenabrumby/)*

@@ -1,6 +1,6 @@
 # Jonny Rock
 
-Jonny Rock is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Fri, 13 Nov 2026.
+Jonny Rock is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Fri, 13 Nov 2026.
 
 Jonny Rock is a house and techno artist based in United Kingdom, with 131 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 33 more. Often billed alongside O.BEE, Tomas Station and Seth Troxler. Next up: Galerie Kurzweil, Darmstadt on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Jonny Rock is a house and techno artist based in United Kingdom, with 131 gigs o
 
 O.BEE, Tomas Station, Seth Troxler
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jonnyrock/)*

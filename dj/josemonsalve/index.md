@@ -1,6 +1,6 @@
 # jose monsalve
 
-jose monsalve is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Ardiente Rooftop Metepec, Estado-de-m-xico on Sat, 5 Dec 2026.
+jose monsalve is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Ardiente Rooftop Metepec, Estado-de-m-xico on Sat, 5 Dec 2026.
 
 jose monsalve is a techno and electronica artist based in Colombia, with 23 gigs on soundcheck across Barcelona, Bergen, Berlin and Estado De M Xico and 4 more. Often billed alongside Jose M, Espen Lauritzen and The Fabric Of Reality. Next up: TBA - Ardiente Rooftop Metepec, Estado De M Xico on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ jose monsalve is a techno and electronica artist based in Colombia, with 23 gigs
 
 Jose M, Espen Lauritzen, The Fabric Of Reality
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josemonsalve/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/josemonsalve/)*

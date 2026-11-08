@@ -1,6 +1,6 @@
 # Curby
 
-Curby is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - SECRET LOCATION, ROCHFORD ESSEX, South-east on Thu, 31 Dec 2026.
+Curby is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - SECRET LOCATION, ROCHFORD ESSEX, South-east on Thu, 31 Dec 2026.
 
 Curby is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Bristol, London and South East. Often billed alongside Ben Lucas, Mitch Barclay and Robin Graham. Next up: TBA - SECRET LOCATION, ROCHFORD ESSEX, South East on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Curby is a house and tech house artist based in United Kingdom, with 24 gigs on 
 
 Ben Lucas, Mitch Barclay, Robin Graham
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curby/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/curby/)*

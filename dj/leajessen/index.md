@@ -1,6 +1,6 @@
 # Lea Jessen
 
-Lea Jessen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Distillery, Leipzig on Sat, 21 Nov 2026.
+Lea Jessen is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Distillery, Leipzig on Sat, 21 Nov 2026.
 
 Lea Jessen is a techno and house artist based in Germany, with 13 gigs on soundcheck across Leipzig. Often billed alongside Dorsch, Robag Wruhme and noxsonos. Next up: Distillery, Leipzig on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Lea Jessen is a techno and house artist based in Germany, with 13 gigs on soundc
 
 Dorsch, Robag Wruhme, noxsonos
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leajessen/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leajessen/)*

@@ -1,14 +1,13 @@
 # Atdge Seoul
 
-Atdge Seoul is a music venue in Seoul with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Hyenam, TR, Eazy" on Sat, 7 Nov 2026.
+Atdge Seoul is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Stann Lumo, NUSNOOM" on Wed, 11 Nov 2026.
 
-Atdge Seoul is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, with line-ups including ccb, Haemi Park, Hwiah and Hyenam and 2 more. See dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
+Atdge Seoul is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including ccb, Haemi Park, Hwiah and J.bin and 2 more. See dates, start times and who's playing. 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Hyenam, TR, Eazy | Hyenam |
 | Wed, 11 Nov 2026 | Stann Lumo, NUSNOOM | NUSNOOM, Stann Lumo |
 | Fri, 13 Nov 2026 | SAEONG, ccb, Yeji | SAEONG, Yeji, ccb |
 | Sat, 14 Nov 2026 | Rocket, Seo Youngcha, Lupion, NON IDENTITY | Lupion, NON IDENTITY, Seo Youngcha |
@@ -22,4 +21,4 @@ Atdge Seoul is a music venue in Seoul listed on soundcheck. 9 upcoming gigs, wit
 
 29, Bogwang-ro 59-gil, Yongsan-gu, Seoul, Seoul
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/atdge-seoul/)*

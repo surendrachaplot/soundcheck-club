@@ -1,6 +1,6 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Last Dance: Michelle Manetti, Adam Curtain" on Fri, 13 Nov 2026.
+Unit 58 is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Last Dance: Michelle Manetti, Adam Curtain" on Fri, 13 Nov 2026.
 
 Unit 58 is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including AC (dot robot), Adam Curtain, Baptist (UK) and Bloomii and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
@@ -19,4 +19,4 @@ Unit 58 is a music venue in London listed on soundcheck. 6 upcoming gigs, with l
 
 Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unit-58/)*

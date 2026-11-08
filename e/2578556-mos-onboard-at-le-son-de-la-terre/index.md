@@ -1,6 +1,6 @@
 # Mos ONBOARD at Le Son de la Terre
 
-Mos ONBOARD at Le Son de la Terre on Fri 13 Nov, Paris. Afrobeat and Hip-Hop. See the line-up on soundcheck.
+Mos ONBOARD at Le Son de la Terre on Fri 13 Nov, Paris. Hip-Hop and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

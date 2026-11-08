@@ -1,6 +1,6 @@
 # Lopez Dj
 
-Lopez Dj is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Transformator, Wroclaw on Sat, 9 Jan 2027.
+Lopez Dj is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Transformator, Wroclaw on Sat, 9 Jan 2027.
 
 Lopez Dj is a techno and minimal techno artist based in Poland, with 8 gigs on soundcheck across Warsaw and Wroclaw. Often billed alongside Damian S, tomo (Poznan) and Aura. Next up: Transformator, Wroclaw on Sat 9 Jan.
 
@@ -24,4 +24,4 @@ Lopez Dj is a techno and minimal techno artist based in Poland, with 8 gigs on s
 
 Damian S, tomo (Poznan), Aura
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lopezdj/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lopezdj/)*

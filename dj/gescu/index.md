@@ -1,14 +1,13 @@
 # Gescu
 
-Gescu is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Guesthouse, Bucharest on Fri, 6 Nov 2026.
+Gescu is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kristal Club, Bucharest on Fri, 13 Nov 2026.
 
-Gescu is a minimal and house artist based in Romania, with 80 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside CEZAR, BILA and Arapu. Next up: Club Guesthouse, Bucharest on Fri 6 Nov.
+Gescu is a minimal and house artist based in Romania, with 80 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside CEZAR, BILA and Arapu. Next up: Kristal Club, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Club Guesthouse | Bucharest |
 | Fri, 13 Nov 2026 | Kristal Club | Bucharest |
 
 ## Recently played
@@ -26,4 +25,4 @@ Gescu is a minimal and house artist based in Romania, with 80 gigs on soundcheck
 
 CEZAR, BILA, Arapu
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gescu/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gescu/)*

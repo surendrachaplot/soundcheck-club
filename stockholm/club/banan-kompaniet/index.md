@@ -1,17 +1,17 @@
 # Banan-Kompaniet
 
-Banan-Kompaniet is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "Fatboy Slim checks in at Hotel Grand Stade" on Sat, 31 Oct 2026.
+Banan-Kompaniet is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "BICEP LIVE" on Sat, 6 Mar 2027.
 
-Banan-Kompaniet is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Fatboy Slim. See dates, start times and who's playing. Frihamnsgatan 14, 11556, Stockholm.
+Banan-Kompaniet is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Bicep. See dates, start times and who's playing. Frihamnsgatan 14, 11556, Stockholm.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Fatboy Slim checks in at Hotel Grand Stade | Fatboy Slim |
+| Sat, 6 Mar 2027 | BICEP LIVE | Bicep |
 
 ## Address
 
 Frihamnsgatan 14, 11556, Stockholm, Stockholm
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/banan-kompaniet/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/banan-kompaniet/)*

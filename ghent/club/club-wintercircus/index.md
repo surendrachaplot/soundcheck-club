@@ -1,14 +1,13 @@
 # Club Wintercircus
 
-Club Wintercircus is a music venue in Ghent with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "𝗠𝗼' 𝗝𝘂𝗶𝗰𝗲 𝗫 𝗖𝘂𝗿𝗳𝗲𝘄" on Sat, 7 Nov 2026.
+Club Wintercircus is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Spreey x Ksawery Komputery ✱ Wintercircus - Arena & Club" on Tue, 10 Nov 2026.
 
-Club Wintercircus is a music venue in Ghent listed on soundcheck. 7 upcoming gigs, with line-ups including Forbidden Fruit, Kamma, Masalo and Max Cooper and 2 more. See dates, start times and who's playing. Miriam Makebaplein 2, 9000 Gent.
+Club Wintercircus is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line-ups including Max Cooper and Pongo. See dates, start times and who's playing. Miriam Makebaplein 2, 9000 Gent.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | 𝗠𝗼' 𝗝𝘂𝗶𝗰𝗲 𝗫 𝗖𝘂𝗿𝗳𝗲𝘄 | Forbidden Fruit, Kamma, Masalo, Nico Juice |
 | Tue, 10 Nov 2026 | Spreey x Ksawery Komputery ✱ Wintercircus - Arena & Club |  |
 | Fri, 13 Nov 2026 | Max Cooper - 3D/AV Live | Max Cooper |
 | Sat, 14 Nov 2026 | Max Cooper: 3D A/V LIVE | Max Cooper |
@@ -20,4 +19,4 @@ Club Wintercircus is a music venue in Ghent listed on soundcheck. 7 upcoming gig
 
 Miriam Makebaplein 2, 9000 Gent, Ghent
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*

@@ -1,6 +1,6 @@
 # MOTORGROOVE
 
-MOTORGROOVE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Terminal Zero, Barcelona on Sat, 14 Nov 2026.
+MOTORGROOVE is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Terminal Zero, Barcelona on Sat, 14 Nov 2026.
 
 MOTORGROOVE is a tech house and house artist based in Spain, with 20 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Alessa (ES), Alex Rush and BIØY. Next up: Terminal Zero, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MOTORGROOVE is a tech house and house artist based in Spain, with 20 gigs on sou
 
 Alessa (ES), Alex Rush, BIØY
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motorgroove/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/motorgroove/)*

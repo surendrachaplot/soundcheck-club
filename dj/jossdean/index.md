@@ -1,14 +1,13 @@
 # Joss Dean
 
-Joss Dean is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tigres de la Noche, Washington DC on Sat, 7 Nov 2026.
+Joss Dean is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: Tigres de la Noche, Washington DC on Sat 7 Nov.
+Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 32 more. Often billed alongside Tommy Phillips, Max Dean and Ozzie Guven. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Tigres de la Noche | Washington DC |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Club Six | San Francisco/Oakland |
 | Sat, 21 Nov 2026 | Spin | San Diego |
@@ -18,6 +17,7 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs
 
 ## Recently played
 
+- Tigres de la Noche, Washington DC · Sat, 7 Nov 2026
 - Refuge, New York City · Fri, 6 Nov 2026
 - Spybar, Chicago · Fri, 30 Oct 2026
 - Taets Art and Event Park, Netherlands · Fri, 23 Oct 2026
@@ -25,10 +25,9 @@ Joss Dean is a house and tech house artist based in United Kingdom, with 95 gigs
 - Camp and Furnace, Liverpool · Fri, 9 Oct 2026
 - Amnesia Ibiza, Ibiza · Mon, 5 Oct 2026
 - DRUMSHEDS, London · Sat, 3 Oct 2026
-- Electric Studios, Sheffield · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Tommy Phillips, Max Dean, Ozzie Guven
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jossdean/)*

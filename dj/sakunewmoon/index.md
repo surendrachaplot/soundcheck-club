@@ -1,6 +1,6 @@
 # Saku NewMoon
 
-Saku NewMoon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at White Space Lab, Tokyo on Fri, 20 Nov 2026.
+Saku NewMoon is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at White Space Lab, Tokyo on Fri, 20 Nov 2026.
 
 Saku NewMoon is a house and techno artist based in Japan, with 52 gigs on soundcheck across Tokyo. Often billed alongside Gara, Issyo and Kaw. Next up: White Space Lab, Tokyo on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Saku NewMoon is a house and techno artist based in Japan, with 52 gigs on soundc
 
 Gara, Issyo, Kaw (1)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakunewmoon/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sakunewmoon/)*

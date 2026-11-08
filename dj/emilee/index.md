@@ -1,6 +1,6 @@
 # Emi Lee
 
-Emi Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 21 Nov 2026.
+Emi Lee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 21 Nov 2026.
 
 Emi Lee is a house and techno artist based in Italy, with 23 gigs on soundcheck across Milan. Often billed alongside Giamma Soren, Vannelli Bros and CharlieBoy. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Emi Lee is a house and techno artist based in Italy, with 23 gigs on soundcheck 
 
 Giamma Soren, Vannelli Bros, CharlieBoy
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilee/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emilee/)*

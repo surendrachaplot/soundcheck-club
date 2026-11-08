@@ -1,6 +1,6 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Digital, Newcastle on Fri, 13 Nov 2026.
+Doudou MD is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Digital, Newcastle on Fri, 13 Nov 2026.
 
 Doudou MD is a house and techno artist based in Netherlands, with 239 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 56 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: Digital, Newcastle on Fri 13 Nov.
 
@@ -30,4 +30,4 @@ Doudou MD is a house and techno artist based in Netherlands, with 239 gigs on so
 
 Samuel Deep, DJ Senc, Fumiya Tanaka
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/doudoumd/)*

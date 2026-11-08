@@ -1,18 +1,18 @@
 # AALIYAH
 
-AALIYAH is a Techno and R&B artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
+AALIYAH is a Techno and R&B artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Outernet Live, London on Sat, 12 Dec 2026.
 
-AALIYAH is a techno and r&b artist based in Germany, with 34 gigs on soundcheck across Berlin, Dresden, Hamburg and London and 3 more. Often billed alongside Ciara, Drake (DE) and Nelly. Next up: Kater, Berlin on Sat 7 Nov.
+AALIYAH is a techno and r&b artist based in Germany, with 34 gigs on soundcheck across Berlin, Dresden, Hamburg and London and 3 more. Often billed alongside Ciara, Drake (DE) and Nelly. Next up: Outernet Live, London on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Kater | Berlin |
 | Sat, 12 Dec 2026 | Outernet Live | London |
 
 ## Recently played
 
+- Kater, Berlin · Sat, 7 Nov 2026
 - Goldener Salon, Hamburg · Sun, 18 Oct 2026
 - objekt klein a, Dresden · Fri, 16 Oct 2026
 - Klunkerkranich, Berlin · Thu, 10 Sept 2026
@@ -20,10 +20,9 @@ AALIYAH is a techno and r&b artist based in Germany, with 34 gigs on soundcheck 
 - Jonny Knüppel, Berlin · Sat, 20 Jun 2026
 - Trapeze Bar, London · Sat, 16 May 2026
 - Klunkerkranich, Berlin · Sat, 9 May 2026
-- Klunkerkranich, Berlin · Sat, 9 May 2026
 
 ## Shares bills with
 
 Ciara, Drake (DE), Nelly
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyah/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaliyah/)*

@@ -1,6 +1,6 @@
 # TBA - Secret location Neuköln
 
-TBA - Secret location Neuköln is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "BLURRY NEW YEAR RAVE" on Thu, 31 Dec 2026.
+TBA - Secret location Neuköln is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "BLURRY NEW YEAR RAVE" on Thu, 31 Dec 2026.
 
 TBA - Secret location Neuköln is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Secret location Neuköln is a music venue in Berlin listed on soundcheck. 
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | BLURRY NEW YEAR RAVE |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-secret-location-neuk-ln/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/tba-secret-location-neuk-ln/)*

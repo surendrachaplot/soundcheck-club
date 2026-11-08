@@ -1,6 +1,6 @@
 # Kobold
 
-Kobold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Loco Club, North on Fri, 13 Nov 2026.
+Kobold is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Loco Club, North on Fri, 13 Nov 2026.
 
 Kobold is a techno and house artist based in Italy, with 26 gigs on soundcheck across Berlin, Bologna, Naples and North and 1 more. Often billed alongside Davide Brosco, Nilo and Amiran. Next up: Loco Club, North on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kobold is a techno and house artist based in Italy, with 26 gigs on soundcheck a
 
 Davide Brosco, Nilo, Amiran
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobold/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kobold/)*

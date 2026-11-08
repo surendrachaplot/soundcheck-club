@@ -1,6 +1,6 @@
 # Junho
 
-Junho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 4 Nov 2026.
+Junho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Graphic Hangang, Seoul on Wed, 4 Nov 2026.
 
 Junho is a techno and house artist based in South Korea, with 18 gigs on soundcheck across Chongqing and Seoul. Often billed alongside Chae, Cityboy from Seoul and FOI (SK). Next up: Graphic Hangang, Seoul on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Junho is a techno and house artist based in South Korea, with 18 gigs on soundch
 
 Chae, Cityboy from Seoul, FOI (SK)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junho/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/junho/)*

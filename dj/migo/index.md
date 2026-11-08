@@ -1,6 +1,6 @@
 # MIGO
 
-MIGO is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Flat HiFi Bar, Madrid on Sun, 8 Nov 2026.
+MIGO is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Flat HiFi Bar, Madrid on Sun, 8 Nov 2026.
 
 MIGO is a house and electronica artist based in Italy, with 24 gigs on soundcheck across Hamburg, Madrid, Manila and Milan and 1 more. Often billed alongside Hugo Carter, Hugo Fontaine and Joy Boy. Next up: Flat HiFi Bar, Madrid on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ MIGO is a house and electronica artist based in Italy, with 24 gigs on soundchec
 
 Hugo Carter, Hugo Fontaine, Joy Boy
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/migo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/migo/)*

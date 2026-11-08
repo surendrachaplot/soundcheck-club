@@ -1,14 +1,13 @@
 # William Basinski
 
-William Basinski is a Ambient and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at First Unitarian Church, Philadelphia on Sat, 7 Nov 2026.
+William Basinski is a Ambient and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at BERHTA, Washington DC on Sun, 8 Nov 2026.
 
-William Basinski is an ambient and experimental artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 27 more. Often billed alongside Buttechno, Chantal Michelle and Dasha Rush. Next up: First Unitarian Church, Philadelphia on Sat 7 Nov.
+William Basinski is an ambient and experimental artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 27 more. Often billed alongside Buttechno, Chantal Michelle and Dasha Rush. Next up: BERHTA, Washington DC on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | First Unitarian Church | Philadelphia |
 | Sun, 8 Nov 2026 | BERHTA | Washington DC |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Mon, 9 Nov 2026 | public records | New York City |
@@ -17,6 +16,7 @@ William Basinski is an ambient and experimental artist based in United States of
 
 ## Recently played
 
+- First Unitarian Church, Philadelphia · Sat, 7 Nov 2026
 - Gabriel Loci, Prague · Mon, 21 Sept 2026
 - Teatar 78, Belgrade · Sat, 19 Sept 2026
 - Kaserne Basel, Basel · Thu, 17 Sept 2026
@@ -24,10 +24,9 @@ William Basinski is an ambient and experimental artist based in United States of
 - Royal Exhibition Building, Melbourne · Sat, 22 Aug 2026
 - TBA - Takanawa Gateway City, Tokyo · Sun, 28 Jun 2026
 - CENART, Mexico City · Sat, 9 May 2026
-- Gray Area, San Francisco/Oakland · Thu, 30 Apr 2026
 
 ## Shares bills with
 
 Buttechno, Chantal Michelle, Dasha Rush
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williambasinski/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/williambasinski/)*

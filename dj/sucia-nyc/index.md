@@ -1,6 +1,6 @@
 # SUCIA!
 
-SUCIA! is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
+SUCIA! is a Club and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mood Ring, New York City on Thu, 19 Nov 2026.
 
 SUCIA! is a club and house artist based in United States of America, with 26 gigs on soundcheck across Chicago, Los Angeles, Miami and New York City and 1 more. Often billed alongside Mars Kasei, Sel.6 and AG. Next up: Mood Ring, New York City on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ SUCIA! is a club and house artist based in United States of America, with 26 gig
 
 Mars Kasei, Sel.6, AG (1)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sucia-nyc/)*

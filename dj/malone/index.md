@@ -1,6 +1,6 @@
 # Malone
 
-Malone is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Malone is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Malone is a tech house and house artist based in United States of America, with 106 gigs on soundcheck across Austin, Barcelona, Boston and Buenos Aires and 23 more. Often billed alongside Amal Nemer, Bakke and Ms. Mada. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -28,4 +28,4 @@ Malone is a tech house and house artist based in United States of America, with 
 
 Amal Nemer, Bakke, Ms. Mada
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malone/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malone/)*

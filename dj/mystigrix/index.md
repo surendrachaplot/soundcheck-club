@@ -1,6 +1,6 @@
 # Mystigrix
 
-Mystigrix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 14 Nov 2026.
+Mystigrix is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Orangerie Neukölln, Berlin on Sat, 14 Nov 2026.
 
 Mystigrix is a house and techno artist based in France, with 42 gigs on soundcheck across Berlin, Budapest, Cologne and Hamburg and 5 more. Often billed alongside Cardi-O, Atréju Mensah and Balthazar Martinez. Next up: Orangerie Neukölln, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Mystigrix is a house and techno artist based in France, with 42 gigs on soundche
 
 Cardi-O, Atréju Mensah, Balthazar Martinez
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mystigrix/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mystigrix/)*

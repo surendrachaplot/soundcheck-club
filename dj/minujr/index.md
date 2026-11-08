@@ -1,6 +1,6 @@
 # Minù Jr
 
-Minù Jr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Lyon/Villeurbanne, Lyon on Sat, 21 Nov 2026.
+Minù Jr is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Lyon/Villeurbanne, Lyon on Sat, 21 Nov 2026.
 
 Minù Jr is a techno and house artist based in France, with 17 gigs on soundcheck across Barcelona, Berlin, Lyon and Nantes. Often billed alongside RIGO, Minimum Djs and CallBackSami. Next up: TBA - Lyon/Villeurbanne, Lyon on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Minù Jr is a techno and house artist based in France, with 17 gigs on soundchec
 
 RIGO, Minimum Djs, CallBackSami
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minujr/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minujr/)*

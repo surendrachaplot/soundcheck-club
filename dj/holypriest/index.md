@@ -1,15 +1,13 @@
 # Holy Priest
 
-Holy Priest is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Holy Priest is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Litexpo, Vilnius on Sat, 14 Nov 2026.
 
-Holy Priest is a techno and hardcore artist based in Germany, with 155 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 67 more. Often billed alongside elMefti, Fantasm and Onlynumbers. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Holy Priest is a techno and hardcore artist based in Germany, with 156 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside elMefti, Fantasm and Onlynumbers. Next up: Litexpo, Vilnius on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
-| Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Sat, 14 Nov 2026 | Litexpo | Vilnius |
 | Sat, 21 Nov 2026 | Martiniplaza | Amsterdam |
 | Fri, 4 Dec 2026 | Fabrique | Milan |
@@ -20,9 +18,12 @@ Holy Priest is a techno and hardcore artist based in Germany, with 155 gigs on s
 | Fri, 1 Jan 2027 | La Cubierta de Leganés | Madrid |
 | Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
 | Sat, 23 Jan 2027 | Melbourne Showgrounds | Melbourne |
+| Sat, 23 Jan 2027 | Morphettville Racecourse | Adelaide |
+| Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
 
 ## Recently played
 
+- Palais 12 / Paleis 12 (ING Arena), Brussels · Sat, 7 Nov 2026
 - Tinker Field, Orlando · Fri, 6 Nov 2026
 - DRUMSHEDS, London · Fri, 23 Oct 2026
 - D! Club, Lausanne · Sun, 18 Oct 2026
@@ -30,10 +31,9 @@ Holy Priest is a techno and hardcore artist based in Germany, with 155 gigs on s
 - The Concourse Project, Austin · Sun, 11 Oct 2026
 - The Concourse Project, Austin · Sat, 10 Oct 2026
 - Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
-- UNO MALTA, Malta · Thu, 13 Aug 2026
 
 ## Shares bills with
 
 elMefti, Fantasm, Onlynumbers
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/holypriest/)*

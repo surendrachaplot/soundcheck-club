@@ -1,6 +1,6 @@
 # Simmo.
 
-Simmo. is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Amber's, Manchester on Fri, 20 Nov 2026.
+Simmo. is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Amber's, Manchester on Fri, 20 Nov 2026.
 
 Simmo. is a jungle and drum & bass artist based in United Kingdom, with 9 gigs on soundcheck across Manchester. Often billed alongside Amelia Leigh, Sweetly and DAIZ. Next up: Amber's, Manchester on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Simmo. is a jungle and drum & bass artist based in United Kingdom, with 9 gigs o
 
 Amelia Leigh, Sweetly, DAIZ
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo./)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simmo./)*

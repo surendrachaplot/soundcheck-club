@@ -1,6 +1,6 @@
 # Jens Lissat
 
-Jens Lissat is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bootshaus, Cologne on Sat, 14 Nov 2026.
+Jens Lissat is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bootshaus, Cologne on Sat, 14 Nov 2026.
 
 Jens Lissat is a disco and house artist based in Germany, with 9 gigs on soundcheck across Brussels, Cologne, Dresden and Ibiza. Often billed alongside Peacharoo, Eric Sneo and V I V I D. Next up: Bootshaus, Cologne on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jens Lissat is a disco and house artist based in Germany, with 9 gigs on soundch
 
 Peacharoo, Eric Sneo, V I V I D
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenslissat/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jenslissat/)*

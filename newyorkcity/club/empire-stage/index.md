@@ -1,6 +1,6 @@
 # Empire Stage
 
-Empire Stage is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Queer Vinyl Collective: 1 YEAR ANNIVERSARY" on Fri, 20 Nov 2026.
+Empire Stage is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Queer Vinyl Collective: 1 YEAR ANNIVERSARY" on Fri, 20 Nov 2026.
 
 Empire Stage is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Niyah West, theoretic and Tre D'Ambrocia. See dates, start times and who's playing. 229 Empire Blvd, Brooklyn, NY 11225, USA.
 
@@ -15,4 +15,4 @@ Empire Stage is a music venue in New York City listed on soundcheck. 2 upcoming 
 
 229 Empire Blvd, Brooklyn, NY 11225, USA, New York City
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/empire-stage/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/empire-stage/)*

@@ -1,14 +1,15 @@
 # Pamela Rave
 
-Pamela Rave is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ÆDEN, Berlin on Sat, 14 Nov 2026.
+Pamela Rave is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at ÆDEN, Berlin on Sat, 14 Nov 2026.
 
-Pamela Rave is a techno and trance artist based in Germany, with 29 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside Bouncy Bitch, DJ Discostoff and SPEEDO. Next up: ÆDEN, Berlin on Sat 14 Nov.
+Pamela Rave is a techno and trance artist based in Germany, with 30 gigs on soundcheck across Berlin, Cologne and Frankfurt. Often billed alongside Bouncy Bitch, DJ Discostoff and SPEEDO. Next up: ÆDEN, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | ÆDEN | Berlin |
+| Wed, 25 Nov 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 19 Dec 2026 | ://about blank | Berlin |
 | Sat, 30 Jan 2027 | Helios37 | Cologne |
 | Sat, 30 Jan 2027 | ://about blank | Berlin |
@@ -28,4 +29,4 @@ Pamela Rave is a techno and trance artist based in Germany, with 29 gigs on soun
 
 Bouncy Bitch, DJ Discostoff, SPEEDO (2)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelarave/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pamelarave/)*

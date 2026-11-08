@@ -1,6 +1,6 @@
 # DAYZZI
 
-DAYZZI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Marrickville NSW, Sydney on Sat, 14 Nov 2026.
+DAYZZI is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Marrickville NSW, Sydney on Sat, 14 Nov 2026.
 
 DAYZZI is a techno and house artist based in Australia, with 40 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DAUG, Silly Lily and Caleb Jackson. Next up: TBA - Marrickville NSW, Sydney on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DAYZZI is a techno and house artist based in Australia, with 40 gigs on soundche
 
 DAUG, Silly Lily, Caleb Jackson
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzzi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dayzzi/)*

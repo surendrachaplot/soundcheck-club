@@ -1,6 +1,6 @@
 # HWXXNG
 
-HWXXNG is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Blank Site, Seoul on Sat, 21 Nov 2026.
+HWXXNG is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Blank Site, Seoul on Sat, 21 Nov 2026.
 
 HWXXNG is an experimental and bass artist, with 15 gigs on soundcheck across Berlin, Hamburg, Milan and Seoul. Often billed alongside Pisitakun, EuroEyez and KLAUDIO. Next up: Blank Site, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ HWXXNG is an experimental and bass artist, with 15 gigs on soundcheck across Ber
 
 Pisitakun, EuroEyez, KLAUDIO
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hwxxng/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hwxxng/)*

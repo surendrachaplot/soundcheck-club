@@ -1,8 +1,8 @@
 # Tiga
 
-Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
+Tiga is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Parque Fundidora, Monterrey on Fri, 13 Nov 2026.
 
-Tiga is a techno and house artist based in Canada, with 131 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside DJ Holographic, DJ Tennis and Avalon Emerson. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
+Tiga is a techno and house artist based in Canada, with 132 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 45 more. Often billed alongside DJ Holographic, DJ Tennis and Avalon Emerson. Next up: Parque Fundidora, Monterrey on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -21,6 +21,7 @@ Tiga is a techno and house artist based in Canada, with 131 gigs on soundcheck a
 
 ## Recently played
 
+- Brooklyn Pacha, New York City · Fri, 6 Nov 2026
 - Pier 48's Shed A, San Francisco/Oakland · Sat, 31 Oct 2026
 - RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
 - BRET, Amsterdam · Thu, 22 Oct 2026
@@ -28,10 +29,9 @@ Tiga is a techno and house artist based in Canada, with 131 gigs on soundcheck a
 - TBA - Metropolis Venue, Lithuania · Sat, 10 Oct 2026
 - FOLD, London · Fri, 9 Oct 2026
 - OCZKI, Warsaw · Sat, 3 Oct 2026
-- Tama, Poznan · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 DJ Holographic, DJ Tennis, Avalon Emerson
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

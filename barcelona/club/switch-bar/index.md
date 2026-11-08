@@ -1,14 +1,13 @@
 # Switch Bar
 
-Switch Bar is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Johan Solo" on Sat, 7 Nov 2026.
+Switch Bar is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Vultur all night long" on Wed, 11 Nov 2026.
 
-Switch Bar is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Service, Golden Bug, Johan Solo and Konnin and 2 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
+Switch Bar is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including DJ Service, Golden Bug, Konnin and LeMichael and 1 more. See dates, start times and who's playing. Carrer Francisco Giner, 24, 08012 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Johan Solo | Johan Solo |
 | Wed, 11 Nov 2026 | Vultur all night long |  |
 | Thu, 12 Nov 2026 | HiFi: Tito, Deza |  |
 | Fri, 13 Nov 2026 | Golden Bug | Golden Bug |
@@ -21,4 +20,4 @@ Switch Bar is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, 
 
 Carrer Francisco Giner, 24, 08012 Barcelona, Spain, Barcelona
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/switch-bar/)*

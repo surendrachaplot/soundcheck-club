@@ -1,6 +1,6 @@
 # tanitomo8
 
-tanitomo8 is a House and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at West Harlem, Kyoto on Fri, 13 Nov 2026.
+tanitomo8 is a House and New Wave artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at West Harlem, Kyoto on Fri, 13 Nov 2026.
 
 tanitomo8 is a house and new wave artist based in Japan, with 2 gigs on soundcheck across Kyoto. Often billed alongside DJ Master Kohta and Kaory. Next up: West Harlem, Kyoto on Fri 13 Nov.
 
@@ -15,4 +15,4 @@ tanitomo8 is a house and new wave artist based in Japan, with 2 gigs on soundche
 
 DJ Master Kohta, Kaory
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanitomo8/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tanitomo8/)*

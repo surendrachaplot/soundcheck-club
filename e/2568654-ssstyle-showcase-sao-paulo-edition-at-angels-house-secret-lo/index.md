@@ -1,10 +1,10 @@
 # SSSTYLE SHOWCASE -SAO PAULO EDITION at Angels House (Secret Loft)
 
-SSSTYLE SHOWCASE -SAO PAULO EDITION at Angels House (Secret Loft) on Sat 7 Nov, Sao Paulo. Electro and Pop. See the line-up on soundcheck.
+SSSTYLE SHOWCASE -SAO PAULO EDITION at Angels House (Secret Loft) on Sat 14 Nov, Sao Paulo. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Sat, 7 Nov 2026 |
+| Date | Sat, 14 Nov 2026 |
 | Venue | Angels House (Secret Loft) |
 | City | Sao Paulo |
 

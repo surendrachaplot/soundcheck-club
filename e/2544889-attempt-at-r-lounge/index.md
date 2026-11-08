@@ -1,6 +1,6 @@
 # Attempt at R Lounge
 
-Attempt at R Lounge on Fri 13 Nov, Tokyo. 7 artists: Ayana Pattra, CHIC, Gonno and ki and 3 more. Techno and House. See the line-up on soundcheck.
+Attempt at R Lounge on Fri 13 Nov, Tokyo. 6 artists: Ayana Pattra, Gonno, ki and MOTOKA and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Attempt at R Lounge on Fri 13 Nov, Tokyo. 7 artists: Ayana Pattra, CHIC, Gonno a
 ## Line-up
 
 - Ayana Pattra
-- CHIC
 - Gonno
 - ki (43)
 - MOTOKA

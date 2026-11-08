@@ -1,14 +1,13 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "PURBA-001" on Sat, 7 Nov 2026.
+Toekomstmuziek is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Incidence Unleash The Beast" on Fri, 13 Nov 2026.
 
-Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Audiofools, Christoph Cham, ilse dorine and LGNA and 2 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
+Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Audiofools, Christoph Cham, ilse dorine and LGNA and 1 more. See dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | PURBA-001 | Peak w/ Vic |
 | Fri, 13 Nov 2026 | Incidence Unleash The Beast |  |
 | Sat, 21 Nov 2026 | Roda da Holanda |  |
 | Sat, 28 Nov 2026 | PomPEPS at Toekomstmuziek |  |
@@ -22,4 +21,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 9 upcoming gi
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

@@ -1,6 +1,6 @@
 # malix
 
-malix is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
+malix is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at NUMBER 90 LONDON, London on Fri, 27 Nov 2026.
 
 malix is a house and afro house artist based in United Kingdom, with 37 gigs on soundcheck across Amsterdam, Ibiza, Lisbon and London and 1 more. Often billed alongside Kojay, Arthi and FS Green. Next up: NUMBER 90 LONDON, London on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ malix is a house and afro house artist based in United Kingdom, with 37 gigs on 
 
 Kojay, Arthi, FS Green
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/malix/)*

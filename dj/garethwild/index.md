@@ -1,6 +1,6 @@
 # Gareth Wild
 
-Gareth Wild is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Secret Location, London on Sat, 21 Nov 2026.
+Gareth Wild is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Secret Location, London on Sat, 21 Nov 2026.
 
 Gareth Wild is a techno and house artist based in United Kingdom, with 29 gigs on soundcheck across Barcelona, Berlin, Dortmund / Essen and Glasgow and 6 more. Often billed alongside Alba Heidari, Anabel Arroyo and James Newmarch. Next up: Secret Location, London on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Gareth Wild is a techno and house artist based in United Kingdom, with 29 gigs o
 
 Alba Heidari, Anabel Arroyo, James Newmarch
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garethwild/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/garethwild/)*

@@ -1,6 +1,6 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
+Dean Turnley is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Matakana Country Park, Auckland on Sun, 27 Dec 2026.
 
 Dean Turnley is a house and tech house artist based in Australia, with 35 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Belfast and 26 more. Often billed alongside Hamdi, Jamback and MPH. Next up: Matakana Country Park, Auckland on Sun 27 Dec.
 
@@ -32,4 +32,4 @@ Dean Turnley is a house and tech house artist based in Australia, with 35 gigs o
 
 Hamdi, Jamback, MPH (1)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deanturnley/)*

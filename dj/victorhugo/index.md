@@ -1,14 +1,13 @@
 # Victor Hugo
 
-Victor Hugo is a House and Electronica artist with 22 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Chica Club, Barcelona on Sat, 7 Nov 2026.
+Victor Hugo is a House and Electronica artist with 21 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sidecar, Barcelona on Sun, 8 Nov 2026.
 
-Victor Hugo is a house and electronica artist based in Mexico, with 98 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City and 2 more. Often billed alongside INOFF, PINI and Eudald Selva. Next up: Chica Club, Barcelona on Sat 7 Nov.
+Victor Hugo is a house and electronica artist based in Mexico, with 98 gigs on soundcheck across Barcelona, Ibiza, Madrid and Mexico City and 2 more. Often billed alongside INOFF, PINI and Eudald Selva. Next up: Sidecar, Barcelona on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Chica Club | Barcelona |
 | Sun, 8 Nov 2026 | Sidecar | Barcelona |
 | Wed, 11 Nov 2026 | Chica Club | Barcelona |
 | Sun, 15 Nov 2026 | Sidecar | Barcelona |
@@ -20,9 +19,11 @@ Victor Hugo is a house and electronica artist based in Mexico, with 98 gigs on s
 | Sun, 6 Dec 2026 | Sidecar | Barcelona |
 | Wed, 9 Dec 2026 | Chica Club | Barcelona |
 | Sun, 13 Dec 2026 | Sidecar | Barcelona |
+| Wed, 16 Dec 2026 | Chica Club | Barcelona |
 
 ## Recently played
 
+- Chica Club, Barcelona · Sat, 7 Nov 2026
 - Chica Club, Barcelona · Wed, 4 Nov 2026
 - Sidecar, Barcelona · Sun, 1 Nov 2026
 - Chica Club, Barcelona · Wed, 28 Oct 2026
@@ -30,10 +31,9 @@ Victor Hugo is a house and electronica artist based in Mexico, with 98 gigs on s
 - Chica Club, Barcelona · Wed, 21 Oct 2026
 - Sidecar, Barcelona · Sun, 18 Oct 2026
 - Chica Club, Barcelona · Wed, 14 Oct 2026
-- Sidecar, Barcelona · Sun, 11 Oct 2026
 
 ## Shares bills with
 
 INOFF, PINI, Eudald Selva
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/victorhugo/)*

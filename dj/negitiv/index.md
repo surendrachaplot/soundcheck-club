@@ -1,14 +1,13 @@
 # NEGITIV
 
-NEGITIV is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Palais 12 / Paleis 12 (ING Arena), Brussels on Sat, 7 Nov 2026.
+NEGITIV is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Hungexpo Budapest, Budapest on Fri, 13 Nov 2026.
 
-NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 59 more. Often billed alongside Onlynumbers, Alex Farell and Nicolas Julian. Next up: Palais 12 / Paleis 12 (ING Arena), Brussels on Sat 7 Nov.
+NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Baden W Rttemberg and 59 more. Often billed alongside Onlynumbers, Alex Farell and Nicolas Julian. Next up: Hungexpo Budapest, Budapest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Palais 12 / Paleis 12 (ING Arena) | Brussels |
 | Fri, 13 Nov 2026 | Hungexpo Budapest | Budapest |
 | Sat, 14 Nov 2026 | Lokschuppen Dillingen | Baden-w-rttemberg |
 | Sat, 21 Nov 2026 | 74 Hall | Istanbul |
@@ -21,6 +20,7 @@ NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundch
 
 ## Recently played
 
+- Palais 12 / Paleis 12 (ING Arena), Brussels · Sat, 7 Nov 2026
 - Afas Live, Amsterdam · Sat, 24 Oct 2026
 - Inter Expo Centre, Sofia · Sat, 17 Oct 2026
 - Inter Expo Centre, Sofia · Fri, 16 Oct 2026
@@ -28,10 +28,9 @@ NEGITIV is a techno and trance artist based in Germany, with 124 gigs on soundch
 - Audiodrome, Turin · Sat, 10 Oct 2026
 - Sektor 6D, Warsaw · Fri, 9 Oct 2026
 - Sektor 6D, Warsaw · Fri, 9 Oct 2026
-- Uebel & Gefährlich, Hamburg · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Onlynumbers, Alex Farell, Nicolas Julian
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/negitiv/)*

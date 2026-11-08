@@ -1,6 +1,6 @@
 # Veri Peri
 
-Veri Peri is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bourbon On Division, Chicago on Fri, 13 Nov 2026.
+Veri Peri is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bourbon On Division, Chicago on Fri, 13 Nov 2026.
 
 Veri Peri is a techno and club artist based in United States of America, with 33 gigs on soundcheck across Chicago. Often billed alongside Flores Negras, JULLS and Jon McCray. Next up: Bourbon On Division, Chicago on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Veri Peri is a techno and club artist based in United States of America, with 33
 
 Flores Negras, JULLS, Jon McCray
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/veriperi/)*

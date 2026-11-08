@@ -1,8 +1,8 @@
 # Bassjackers
 
-Bassjackers is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
+Bassjackers is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
-Bassjackers is a techno and house artist based in Netherlands, with 35 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cologne and 15 more. Often billed alongside Charlie Sparks, Dimitri Vegas & Like Mike and A.N.I.. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
+Bassjackers is a techno and house artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Cologne and 16 more. Often billed alongside Charlie Sparks, Dimitri Vegas & Like Mike and 2HOT2PLAY. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bassjackers is a techno and house artist based in Netherlands, with 35 gigs on s
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Sat, 20 Feb 2027 | Phantom, Paris | Paris |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Bassjackers is a techno and house artist based in Netherlands, with 35 gigs on s
 
 ## Shares bills with
 
-Charlie Sparks, Dimitri Vegas & Like Mike, A.N.I.
+Charlie Sparks, Dimitri Vegas & Like Mike, 2HOT2PLAY
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassjackers/)*

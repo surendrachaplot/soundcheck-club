@@ -1,6 +1,6 @@
 # Random B
 
-Random B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
+Random B is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Porcupine Hills, Bot River, Cape Town on Thu, 19 Nov 2026.
 
 Random B is a house and techno artist based in France, with 23 gigs on soundcheck across Berlin, Brussels, Cape Town and Lisbon and 1 more. Often billed alongside Carmelina, DJ Pipe and DJ Tjizza. Next up: TBA - Porcupine Hills, Bot River, Cape Town on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Random B is a house and techno artist based in France, with 23 gigs on soundchec
 
 Carmelina, DJ Pipe, DJ Tjizza
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomb/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/randomb/)*

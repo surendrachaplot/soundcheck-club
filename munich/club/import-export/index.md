@@ -1,6 +1,6 @@
 # Import Export
 
-Import Export is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Taxi Salon: FUJI||||||||||TA + Amina Hocine + Mazen Kerbaj" on Thu, 12 Nov 2026.
+Import Export is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Taxi Salon: FUJI||||||||||TA + Amina Hocine + Mazen Kerbaj" on Thu, 12 Nov 2026.
 
 Import Export is a music venue in Munich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Schwere-Reiter-Str. 2h, 80636 Munich, Germany.
 
@@ -14,4 +14,4 @@ Import Export is a music venue in Munich listed on soundcheck. 1 upcoming gig. S
 
 Schwere-Reiter-Str. 2h, 80636 Munich, Germany, Munich
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/import-export/)*

@@ -1,6 +1,6 @@
 # Kito Jempere
 
-Kito Jempere is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at BAR Inc, Osaka on Fri, 4 Dec 2026.
+Kito Jempere is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at BAR Inc, Osaka on Fri, 4 Dec 2026.
 
 Kito Jempere is a house and jazz artist, with 12 gigs on soundcheck across Dubai, Osaka and Tokyo. Often billed alongside Kenji Takimi, Lipelis and Toshiya Kawasaki. Next up: BAR Inc, Osaka on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Kito Jempere is a house and jazz artist, with 12 gigs on soundcheck across Dubai
 
 Kenji Takimi, Lipelis, Toshiya Kawasaki
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitojempere/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kitojempere/)*

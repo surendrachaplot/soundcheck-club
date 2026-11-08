@@ -1,18 +1,18 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Red Room, Vancouver on Sat, 7 Nov 2026.
+Alix Perez is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Chop Shop & 1st Ward, Chicago on Thu, 12 Nov 2026.
 
-Alix Perez is a drum & bass and bass artist based in United Kingdom, with 64 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 30 more. Often billed alongside SP:MC, Cesco and Visages. Next up: The Red Room, Vancouver on Sat 7 Nov.
+Alix Perez is a drum & bass and bass artist based in United Kingdom, with 64 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 30 more. Often billed alongside SP:MC, Cesco and Visages. Next up: Chop Shop & 1st Ward, Chicago on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | The Red Room | Vancouver |
 | Thu, 12 Nov 2026 | Chop Shop & 1st Ward | Chicago |
 
 ## Recently played
 
+- The Red Room, Vancouver · Sat, 7 Nov 2026
 - Soundwell, Salt-lake-city · Thu, 5 Nov 2026
 - Open Ground, Wuppertal · Sat, 5 Sept 2026
 - Outernet Live, London · Fri, 4 Sept 2026
@@ -20,10 +20,9 @@ Alix Perez is a drum & bass and bass artist based in United Kingdom, with 64 gig
 - Nordstern, Basel · Sat, 29 Aug 2026
 - Club Colette, Birmingham · Fri, 28 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin · Fri, 21 Aug 2026
-- A38, Budapest · Wed, 19 Aug 2026
 
 ## Shares bills with
 
 SP:MC, Cesco, Visages
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alixperez/)*

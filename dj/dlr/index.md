@@ -1,13 +1,14 @@
 # DLR
 
-DLR is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 19 Dec 2026.
+DLR is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Black Box, Denver on Fri, 18 Dec 2026.
 
-DLR is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 25 more. Often billed alongside MC Gusto, Gusto and Break. Next up: TBA - DTLA, Los Angeles on Sat 19 Dec.
+DLR is a drum & bass and jungle artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 25 more. Often billed alongside MC Gusto, Gusto and Break. Next up: The Black Box, Denver on Fri 18 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 18 Dec 2026 | The Black Box | Denver |
 | Sat, 19 Dec 2026 | TBA - DTLA | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ DLR is a drum & bass and jungle artist based in United Kingdom, with 73 gigs on 
 
 MC Gusto, Gusto, Break
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlr/)*

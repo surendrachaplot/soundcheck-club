@@ -1,14 +1,13 @@
 # J. Worra
 
-J. Worra is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
+J. Worra is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Quartyard, San Diego on Sun, 29 Nov 2026.
 
-J. Worra is a house and tech house artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Arkansas, Austin and Boston and 19 more. Often billed alongside Matroda, Eli Brown and Dom Dolla. Next up: The Momentary, Arkansas on Fri 6 Nov.
+J. Worra is a house and tech house artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Arkansas, Austin and Boston and 19 more. Often billed alongside Matroda, Eli Brown and Dom Dolla. Next up: Quartyard, San Diego on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Momentary | Arkansas |
 | Sun, 29 Nov 2026 | Quartyard | San Diego |
 | Fri, 4 Dec 2026 | Bsmnt | Boston |
 | Sat, 5 Dec 2026 | 99 Scott Ave | New York City |
@@ -28,4 +27,4 @@ J. Worra is a house and tech house artist based in United States of America, wit
 
 Matroda, Eli Brown, Dom Dolla
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jworra/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jworra/)*

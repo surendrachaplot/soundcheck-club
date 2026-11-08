@@ -1,17 +1,18 @@
 # MKO
 
-MKO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 7 Nov 2026.
+MKO is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Fri, 11 Dec 2026.
 
-MKO is a tech house and house artist based in Italy, with 11 gigs on soundcheck across Berlin, Los Angeles, Paris and Poznan and 2 more. Often billed alongside Danté, MIHVU and Private Press. Next up: MONKEY LOVE, Warsaw on Sat 7 Nov.
+MKO is a tech house and house artist based in Italy, with 12 gigs on soundcheck across Berlin, Los Angeles, Paris and Poznan and 2 more. Often billed alongside Spectribe, Danté and MIHVU. Next up: Ciało, Wroclaw on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | MONKEY LOVE | Warsaw |
+| Fri, 11 Dec 2026 | Ciało | Wroclaw |
 
 ## Recently played
 
+- MONKEY LOVE, Warsaw · Sat, 7 Nov 2026
 - Tunelowa, Warsaw · Sun, 19 Jul 2026
 - Tunelowa, Warsaw · Sun, 5 Jul 2026
 - Else, Berlin · Sat, 2 May 2026
@@ -19,10 +20,9 @@ MKO is a tech house and house artist based in Italy, with 11 gigs on soundcheck 
 - Tama, Poznan · Fri, 31 Jan 2025
 - Lunapark, Warsaw · Sun, 11 Aug 2024
 - Ciało, Wroclaw · Fri, 2 Aug 2024
-- Lunapark, Warsaw · Sun, 21 Jul 2024
 
 ## Shares bills with
 
-Danté, MIHVU, Private Press
+Spectribe, Danté, MIHVU
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mko/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mko/)*

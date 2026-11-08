@@ -1,6 +1,6 @@
 # Fraser Park
 
-Fraser Park is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Planet Trip & Club 77: Places & Spaces" on Sat, 19 Dec 2026.
+Fraser Park is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Planet Trip & Club 77: Places & Spaces" on Sat, 19 Dec 2026.
 
 Fraser Park is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Ben Fester, CC:DISCO!, Jura Soundsystem and MADAMI and 2 more. See dates, start times and who's playing. 100 Marrickville Road, Marrickville.
 
@@ -14,4 +14,4 @@ Fraser Park is a music venue in Sydney listed on soundcheck. 1 upcoming gig, wit
 
 100 Marrickville Road, Marrickville, Sydney
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/fraser-park/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sydney/club/fraser-park/)*

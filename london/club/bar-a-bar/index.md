@@ -1,6 +1,6 @@
 # Bar A Bar
 
-Bar A Bar is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "LAVA.LIQUID.LONDON Vol.004 - [HEADLINER RUEBEN]" on Fri, 13 Nov 2026.
+Bar A Bar is a music venue in London with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "LAVA.LIQUID.LONDON Vol.004 - [HEADLINER RUEBEN]" on Fri, 13 Nov 2026.
 
 Bar A Bar is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Cristi Cons, ILIE (RO) and Trofin. See dates, start times and who's playing. 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom.
 
@@ -18,4 +18,4 @@ Bar A Bar is a music venue in London listed on soundcheck. 5 upcoming gigs, with
 
 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-a-bar/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/bar-a-bar/)*

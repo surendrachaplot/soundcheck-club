@@ -1,6 +1,6 @@
 # DJ POOL
 
-DJ POOL is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bolero, Seoul on Sun, 8 Nov 2026.
+DJ POOL is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bolero, Seoul on Sun, 8 Nov 2026.
 
 DJ POOL is a club and hip-hop artist based in South Korea, with 126 gigs on soundcheck across Seoul. Often billed alongside FAKEDEEPLEE, bojvck and DJ Co.kr. Next up: Bolero, Seoul on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ DJ POOL is a club and hip-hop artist based in South Korea, with 126 gigs on soun
 
 FAKEDEEPLEE, bojvck, DJ Co.kr
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpool/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djpool/)*

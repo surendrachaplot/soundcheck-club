@@ -1,14 +1,13 @@
 # Toribio
 
-Toribio is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Little Shop of Soil, New York City on Sat, 7 Nov 2026.
+Toribio is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Good Room, New York City on Fri, 20 Nov 2026.
 
-Toribio is a house and disco artist based in United States of America, with 237 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: TBA - Little Shop of Soil, New York City on Sat 7 Nov.
+Toribio is a house and disco artist based in United States of America, with 237 gigs on soundcheck across Amsterdam, Athens, Atlanta and Barcelona and 24 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Good Room, New York City on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA - Little Shop of Soil | New York City |
 | Fri, 20 Nov 2026 | Good Room | New York City |
 | Sat, 21 Nov 2026 | Moondog Hifi | New York City |
 | Sat, 5 Dec 2026 | TV Lounge | Detroit |
@@ -19,6 +18,7 @@ Toribio is a house and disco artist based in United States of America, with 237 
 
 ## Recently played
 
+- TBA - Little Shop of Soil, New York City · Sat, 7 Nov 2026
 - Loso, Richmond · Sat, 31 Oct 2026
 - TBA - Club House on Fulton, New York City · Sun, 25 Oct 2026
 - Green Room NYC, New York City · Fri, 23 Oct 2026
@@ -26,10 +26,9 @@ Toribio is a house and disco artist based in United States of America, with 237 
 - Brooklyn Roots Collective, New York City · Fri, 2 Oct 2026
 - shyboy hifi, Dallas/Fort Worth · Fri, 25 Sept 2026
 - TBA - Club House, New York City · Sun, 20 Sept 2026
-- NUMBER 90 LONDON, London · Sun, 30 Aug 2026
 
 ## Shares bills with
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

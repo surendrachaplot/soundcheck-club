@@ -1,6 +1,6 @@
 # Baby Bummit at The Bongo Club
 
-Baby Bummit at The Bongo Club on Mon 9 Nov, Edinburgh. 1 artist: FIFI. Techno and Jungle. See the line-up on soundcheck.
+Baby Bummit at The Bongo Club on Mon 9 Nov, Edinburgh. 1 artist: FIFI LA ROUX. Techno and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,6 @@ Baby Bummit at The Bongo Club on Mon 9 Nov, Edinburgh. 1 artist: FIFI. Techno an
 
 ## Line-up
 
-- FIFI (2)
+- FIFI LA ROUX
 
 *Source: [soundcheck](https://soundcheck.club/e/2579085-baby-bummit-at-the-bongo-club/)*

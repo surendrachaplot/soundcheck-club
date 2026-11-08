@@ -1,6 +1,6 @@
 # Theodor Luv
 
-Theodor Luv is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fitzroy, Berlin on Thu, 12 Nov 2026.
+Theodor Luv is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fitzroy, Berlin on Thu, 12 Nov 2026.
 
 Theodor Luv is a house and electro artist, with 11 gigs on soundcheck across Berlin and Cape Town. Often billed alongside Levi Dry, Emo Rugene and FoxMind. Next up: Fitzroy, Berlin on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Theodor Luv is a house and electro artist, with 11 gigs on soundcheck across Ber
 
 Levi Dry, Emo Rugene, FoxMind
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theodorluv/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theodorluv/)*

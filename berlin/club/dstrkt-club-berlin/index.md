@@ -1,14 +1,13 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax" on Sat, 7 Nov 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "KALTBAU: DJ Hyperdrive, HUJUS, DJ Cringey, HUMAN ERROR, relajadita" on Fri, 13 Nov 2026.
 
-DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including 2HOT2PLAY, Al Aslan, Alex Friday and Andreas Henneberg and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
+DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, Al Aslan, Alex Friday and Andreas Henneberg and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax |  |
 | Fri, 13 Nov 2026 | KALTBAU: DJ Hyperdrive, HUJUS, DJ Cringey, HUMAN ERROR, relajadita | Al Aslan, Brauer, Caniche, DJ Cringey, DJ Hyperdrive, HUJUS, HUMAN ERROR, Johannes Wohlgeschaffen, Katta Lana, Katy Rough, L-AUX, LISTORIO, SEKTOR69, Slimegoat144, TONI BA, Yanor, cell1, cravings320, relajadita, tokenbeats |
 | Fri, 27 Nov 2026 | PURE PLEASURE | DBBD, HARD CANDY (GER), INEXXSTABLE, LOVEFOXY, Only Fire, Shanti Celeste |
 | Sat, 28 Nov 2026 | T.I.M.E.F.A.L.L. - Umek - DjHell - A.Galuzzi - Teenage Mutants - A.Henneberg  uvm | Andreas Henneberg, BLYSS, Bombata, Cat Vermillion, DJ Hell, JOANNA COELHO, Jil Tanner, Rose, Teenage Mutants, Umek |
@@ -18,9 +17,10 @@ DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 11 upcoming 
 | Fri, 29 Jan 2027 | ONYX pres. Ueberrest: 'RECHARGE' | Alex Friday, Bruno Brero, Danilo Filipe, Ueberrest |
 | Sat, 13 Mar 2027 | ONYX pres. Somewhen [EXTENDED SET]: 'PRESSURE' | Somewhen |
 | Sat, 1 May 2027 | ONYX 'MAYDAY' | DJ Achim Feuervogel, DJ DRECKISCH, Eva Charley, NYCO (NL) |
+| Sat, 24 Jul 2027 | ONYX 'AFTER PRIDE' | DICE, DJ SUSI, Dj Schnake, HANÀ, Paraçek |
 
 ## Address
 
 Storkower Straße 123, 10407 Berlin, Deutschland, Berlin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/dstrkt-club-berlin/)*

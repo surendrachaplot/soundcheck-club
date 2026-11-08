@@ -1,6 +1,6 @@
 # High Fade
 
-High Fade is a Funk / Soul and Disco artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Oran Mor, Glasgow on Sat, 28 Nov 2026.
+High Fade is a Funk / Soul and Disco artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Oran Mor, Glasgow on Sat, 28 Nov 2026.
 
 High Fade is a funk / soul and disco artist based in United Kingdom, with 26 gigs on soundcheck across Barcelona, Brighton, Bristol and Dublin and 8 more. Often billed alongside DJ Football, Dj Schnake and Eloi. Next up: Oran Mor, Glasgow on Sat 28 Nov.
 
@@ -29,4 +29,4 @@ High Fade is a funk / soul and disco artist based in United Kingdom, with 26 gig
 
 DJ Football, Dj Schnake, Eloi
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highfade/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/highfade/)*

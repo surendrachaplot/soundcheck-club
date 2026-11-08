@@ -1,6 +1,6 @@
 # Takydon
 
-Takydon is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Flinders, Sydney on Fri, 11 Dec 2026.
+Takydon is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Flinders, Sydney on Fri, 11 Dec 2026.
 
 Takydon is a techno and bass artist based in New Zealand, with 28 gigs on soundcheck across Auckland, Seoul and Sydney. Often billed alongside Concussion, Valks and EMMYJ. Next up: The Flinders, Sydney on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Takydon is a techno and bass artist based in New Zealand, with 28 gigs on soundc
 
 Concussion, Valks, EMMYJ
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takydon/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/takydon/)*

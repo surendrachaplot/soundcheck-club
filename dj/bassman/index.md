@@ -1,18 +1,18 @@
 # Bassman
 
-Bassman is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Bassman is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tunnel Club, Birmingham on Thu, 31 Dec 2026.
 
-Bassman is a drum & bass and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Birmingham, London, Manchester and Sheffield and 1 more. Often billed alongside DJ SS, Kenny Ken and Nicky Blackmarket. Next up: Marshall Arena, South East on Sat 7 Nov.
+Bassman is a drum & bass and jungle artist based in United Kingdom, with 12 gigs on soundcheck across Birmingham, London, Manchester and Sheffield and 1 more. Often billed alongside DJ SS, Kenny Ken and Nicky Blackmarket. Next up: Tunnel Club, Birmingham on Thu 31 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Marshall Arena | South-east |
 | Thu, 31 Dec 2026 | Tunnel Club | Birmingham |
 
 ## Recently played
 
+- Marshall Arena, South-east · Sat, 7 Nov 2026
 - Air, Birmingham · Sun, 24 Aug 2025
 - Network, Sheffield · Fri, 20 Dec 2024
 - XOYO Birmingham, Birmingham · Fri, 5 Apr 2024
@@ -20,10 +20,9 @@ Bassman is a drum & bass and jungle artist based in United Kingdom, with 12 gigs
 - PST Club, Birmingham · Sat, 19 Aug 2023
 - Lab11, Birmingham · Fri, 14 Jul 2023
 - LDN East, London · Sat, 20 May 2023
-- Sector 57, Birmingham · Sun, 7 May 2023
 
 ## Shares bills with
 
 DJ SS, Kenny Ken, Nicky Blackmarket
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassman/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bassman/)*

@@ -1,14 +1,13 @@
 # Unmute
 
-Unmute is a music venue in Hanoi with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Unmute 3RD ANNIVERSARY DAY I & II & III" on Thu, 5 Nov 2026.
+Unmute is a music venue in Hanoi with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Unmute with Mari.te (Resolute, Tresydos/ESP)" on Fri, 13 Nov 2026.
 
-Unmute is a music venue in Hanoi listed on soundcheck. 13 upcoming gigs, with line-ups including AiLien, Animistic Beliefs, Artmony and Bakey and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
+Unmute is a music venue in Hanoi listed on soundcheck. 12 upcoming gigs, with line-ups including AiLien, Animistic Beliefs, Artmony and Bakey and 2 more. See dates, start times and who's playing. Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | Unmute 3RD ANNIVERSARY DAY I & II & III | CON.R, Emmytee, Erik Luebs, Hibiya Line, Isabella Mavleeva, Kiki Raikkonen, Komga, Lam Dao, Nam Phùng, PH00000NG, Park:ING, TaoFu, Tiny Giant, Viet Anh, YASMIN (2), YELLOWUHURU, YKK (CN) |
 | Fri, 13 Nov 2026 | Unmute with Mari.te (Resolute, Tresydos/ESP) | K-Sang, Mari.te, Zwi |
 | Sat, 14 Nov 2026 | Unmute W/ Animistic Beliefs,  kimmah, PH00000NG, HDMi | Animistic Beliefs, HDMI?, PH00000NG, kimmah |
 | Fri, 20 Nov 2026 | Unmute W/ Piezo, Yang B2B Kway, Tanohi | Kway, Piezo, Tanohi, Yang (VN) |
@@ -18,9 +17,10 @@ Unmute is a music venue in Hanoi listed on soundcheck. 13 upcoming gigs, with li
 | Fri, 11 Dec 2026 | Unmute with Wata Igarashi | Wata Igarashi |
 | Sat, 12 Dec 2026 | Unmute with Pariah | Pariah |
 | Fri, 25 Dec 2026 | Unmute with PICTURE B2B DJ Central | Central |
+| Sat, 26 Dec 2026 | Unmute with Nono Gigsta | Nono Gigsta |
 
 ## Address
 
 Floors 4F and 5&6F, 169 Phuc Tan, Hoan Kiem, Hanoi, Hanoi
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/unmute/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/hanoi/club/unmute/)*

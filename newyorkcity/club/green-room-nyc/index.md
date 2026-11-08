@@ -1,6 +1,6 @@
 # Green Room NYC
 
-Green Room NYC is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "PAST presents: Flug, .VRIL (live), Marteka Fair, RAH, THUMB5" on Sat, 7 Nov 2026.
+Green Room NYC is a music venue in New York City with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "PAST presents: Flug, .VRIL (live), Marteka Fair, RAH, THUMB5" on Sat, 7 Nov 2026.
 
 Green Room NYC is a music venue in New York City listed on soundcheck. 5 upcoming gigs, with line-ups including Aline Brooklyn, Armii1n, Cesar Merveille and Eli Escobar and 2 more. See dates, start times and who's playing. 195 Morgan Ave, Brooklyn, NY 11237.
 
@@ -18,4 +18,4 @@ Green Room NYC is a music venue in New York City listed on soundcheck. 5 upcomin
 
 195 Morgan Ave, Brooklyn, NY 11237, New York City
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/green-room-nyc/)*

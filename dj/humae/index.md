@@ -1,6 +1,6 @@
 # humae
 
-humae is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Absturz, Leipzig on Sat, 14 Nov 2026.
+humae is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Absturz, Leipzig on Sat, 14 Nov 2026.
 
 humae is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Berlin, Dresden and Leipzig. Often billed alongside ESCALEA, JUNiQUE and KIVI. Next up: Absturz, Leipzig on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ humae is a trance and techno artist based in Germany, with 9 gigs on soundcheck 
 
 ESCALEA, JUNiQUE, KIVI (3)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humae/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humae/)*

@@ -1,6 +1,6 @@
 # AOS W/ Janis Zielinski, Speckman & MORE SOON at Prince Charles
 
-AOS W/ Janis Zielinski, Speckman & MORE SOON at Prince Charles on Sat 19 Dec, Berlin. 2 artists: Janis Zielinski and Speckman. Techno and House. See the line-up on soundcheck.
+AOS W/ Janis Zielinski, Speckman & MORE SOON at Prince Charles on Sat 19 Dec, Berlin. 3 artists: Janis Zielinski, Speckman and Talia Dorr. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ AOS W/ Janis Zielinski, Speckman & MORE SOON at Prince Charles on Sat 19 Dec, Be
 
 - Janis Zielinski
 - Speckman
+- Talia Dorr
 
 *Source: [soundcheck](https://soundcheck.club/e/2577108-aos-w-janis-zielinski-speckman-more-soon-at-prince-charles/)*

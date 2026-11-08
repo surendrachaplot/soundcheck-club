@@ -1,6 +1,6 @@
 # ARMANDO
 
-ARMANDO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 15 Nov 2026.
+ARMANDO is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Crack Bellmer, Berlin on Sun, 15 Nov 2026.
 
 ARMANDO is a techno and house artist based in Portugal, with 36 gigs on soundcheck across Berlin, London, Milan and Stuttgart. Often billed alongside IKIIR, Hertz Collision and Lady Goccia. Next up: Crack Bellmer, Berlin on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ ARMANDO is a techno and house artist based in Portugal, with 36 gigs on soundche
 
 IKIIR, Hertz Collision, Lady Goccia
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/armando/)*

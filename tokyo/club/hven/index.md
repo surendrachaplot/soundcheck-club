@@ -1,14 +1,13 @@
 # HVEN
 
-HVEN is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "BEATNYX & Casimir" on Sat, 7 Nov 2026.
+HVEN is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "SYNFAR vol.2" on Mon, 9 Nov 2026.
 
-HVEN is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including AiMii, AMANE, Azumai and Casimir and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
+HVEN is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AiMii, AMANE, Azumai and CRAZYHYUGA and 2 more. See dates, start times and who's playing. 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | BEATNYX & Casimir | Casimir (2), FELINE (JP), MAYUDEPTH |
 | Mon, 9 Nov 2026 | SYNFAR vol.2 | AiMii, DJason, ELYSIUM, LUKE (3), Nono THING, Pei, YOSHI KANOU |
 | Fri, 13 Nov 2026 | Halfmoo'n' feat Purpose | AMANE, Azumai, CRAZYHYUGA, Light.aka, SN_Yeah, YASUKI, ron3lyscript |
 
@@ -16,4 +15,4 @@ HVEN is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-
 
 1-6-10 , Kamimeguro, Meguro-ku, Tokyo, 153-0051, Japan, Tokyo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/hven/)*

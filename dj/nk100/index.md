@@ -1,6 +1,6 @@
 # NK100
 
-NK100 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at OIL Club, Shenzhen on Fri, 20 Nov 2026.
+NK100 is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at OIL Club, Shenzhen on Fri, 20 Nov 2026.
 
 NK100 is a techno and club artist based in China, with 24 gigs on soundcheck across Hanoi, Shanghai and Shenzhen. Often billed alongside DJ 86, Beibeilon and Sulk. Next up: OIL Club, Shenzhen on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ NK100 is a techno and club artist based in China, with 24 gigs on soundcheck acr
 
 DJ 86, Beibeilon, Sulk
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nk100/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nk100/)*

@@ -1,14 +1,13 @@
 # Margaux Gazur
 
-Margaux Gazur is a Ambient and Experimental artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Oblò Sonic, Lausanne on Fri, 6 Nov 2026.
+Margaux Gazur is a Ambient and Experimental artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
 
-Margaux Gazur is an ambient and experimental artist based in France, with 24 gigs on soundcheck across Barcelona, Berlin, Hamburg and Helsinki and 8 more. Often billed alongside Edward, Lawrence and Alex Jenkin. Next up: Oblò Sonic, Lausanne on Fri 6 Nov.
+Margaux Gazur is an ambient and experimental artist based in France, with 24 gigs on soundcheck across Barcelona, Berlin, Hamburg and Helsinki and 8 more. Often billed alongside Edward, Lawrence and Alex Jenkin. Next up: TBA, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Oblò Sonic | Lausanne |
 | Sat, 14 Nov 2026 | TBA | Berlin |
 | Wed, 18 Nov 2026 | Videnie.Space | Sofia |
 | Thu, 10 Dec 2026 | Start.Bahn - Genezarethkirche | Berlin |
@@ -28,4 +27,4 @@ Margaux Gazur is an ambient and experimental artist based in France, with 24 gig
 
 Edward, Lawrence, Alex Jenkin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/margauxgazur/)*

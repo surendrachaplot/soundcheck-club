@@ -1,14 +1,13 @@
 # UNLOCKED
 
-UNLOCKED is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "RAVE IN SPACE" on Sat, 7 Nov 2026.
+UNLOCKED is a music venue in London with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "WE LUV GARAGE 360°" on Thu, 12 Nov 2026.
 
-UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Andhim, Don Diablo, HARTY and IDEMI and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
+UNLOCKED is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including Andhim, Don Diablo, IDEMI and Nat Gohl and 2 more. See dates, start times and who's playing. 118, Curtain Road, London, EC2A 3AY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | RAVE IN SPACE | HARTY, JAYDAA, Jnr Windross, Summer Ghemati |
 | Thu, 12 Nov 2026 | WE LUV GARAGE 360° |  |
 | Fri, 20 Nov 2026 | Parable: Andhim, TIMANTI, Nat Gohl | Andhim, Nat Gohl, TIMANTI |
 | Thu, 26 Nov 2026 | Jadu Heart - ALBUM POP UP |  |
@@ -20,4 +19,4 @@ UNLOCKED is a music venue in London listed on soundcheck. 7 upcoming gigs, with 
 
 118, Curtain Road, London, EC2A 3AY, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/unlocked/)*

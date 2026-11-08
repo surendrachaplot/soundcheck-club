@@ -1,6 +1,6 @@
 # LLEAHDAVIES
 
-LLEAHDAVIES is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at ark (Melb), Melbourne on Sat, 6 Feb 2027.
+LLEAHDAVIES is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ark (Melb), Melbourne on Sat, 6 Feb 2027.
 
 LLEAHDAVIES is a garage and house artist based in United Kingdom, with 18 gigs on soundcheck across Belfast, Bristol, Cardiff and Dublin and 7 more. Often billed alongside BVNQUET, 4am Kru and Akira (Buntai). Next up: ark (Melb), Melbourne on Sat 6 Feb.
 
@@ -25,4 +25,4 @@ LLEAHDAVIES is a garage and house artist based in United Kingdom, with 18 gigs o
 
 BVNQUET, 4am Kru, Akira (Buntai)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lleahdavies/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lleahdavies/)*

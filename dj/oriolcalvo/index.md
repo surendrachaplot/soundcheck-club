@@ -1,6 +1,6 @@
 # Oriol Calvo
 
-Oriol Calvo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 28 Nov 2026.
+Oriol Calvo is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at INPUT High Fidelity Dance Club, Barcelona on Sat, 28 Nov 2026.
 
 Oriol Calvo is a house and deep house artist based in Spain, with 45 gigs on soundcheck across Barcelona, Ibiza, Lisbon and Madrid and 5 more. Often billed alongside Viktor Olle, Igor Marijuan and Mike Gannu. Next up: INPUT High Fidelity Dance Club, Barcelona on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Oriol Calvo is a house and deep house artist based in Spain, with 45 gigs on sou
 
 Viktor Olle, Igor Marijuan, Mike Gannu
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolcalvo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oriolcalvo/)*

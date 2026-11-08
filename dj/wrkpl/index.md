@@ -1,14 +1,15 @@
 # WRK (PL)
 
-WRK (PL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 13 Nov 2026.
+WRK (PL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 13 Nov 2026.
 
-WRK (PL) is a techno and house artist based in Poland, with 29 gigs on soundcheck across Berlin, Krakow, London and Poznan and 2 more. Often billed alongside ANXHELA, BRAVO GRL and Carla Roca. Next up: STK 47 WAREHOUSE, Krakow on Fri 13 Nov.
+WRK (PL) is a techno and house artist based in Poland, with 30 gigs on soundcheck across Berlin, Krakow, London and Poznan and 2 more. Often billed alongside ANXHELA, BRAVO GRL and Carla Roca. Next up: STK 47 WAREHOUSE, Krakow on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | STK 47 WAREHOUSE | Krakow |
+| Fri, 20 Nov 2026 | Ciało | Wroclaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ WRK (PL) is a techno and house artist based in Poland, with 29 gigs on soundchec
 
 ANXHELA, BRAVO GRL, Carla Roca
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wrkpl/)*

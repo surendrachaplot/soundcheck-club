@@ -1,6 +1,6 @@
 # Aton
 
-Aton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
+Aton is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bunker, Turin on Sat, 14 Nov 2026.
 
 Aton is a techno and house artist based in Italy, with 38 gigs on soundcheck across Barcelona, Berlin, Bologna and London and 8 more. Often billed alongside Mattia Lumee, Basse Frequenze Soundsystem and Francesco Salvadori. Next up: Bunker, Turin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Aton is a techno and house artist based in Italy, with 38 gigs on soundcheck acr
 
 Mattia Lumee, Basse Frequenze Soundsystem, Francesco Salvadori
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aton/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aton/)*

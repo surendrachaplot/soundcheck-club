@@ -1,6 +1,6 @@
 # Any Koh
 
-Any Koh is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
+Any Koh is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Brixton Radio, London on Sat, 21 Nov 2026.
 
 Any Koh is a techno and electro artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Dimanté, Moonz and Phåro. Next up: Brixton Radio, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Any Koh is a techno and electro artist based in United Kingdom, with 9 gigs on s
 
 Dimanté, Moonz, Phåro (2)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anykoh/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anykoh/)*

@@ -1,6 +1,6 @@
 # Soph
 
-Soph is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Carpet Shop, London on Sun, 13 Dec 2026.
+Soph is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Carpet Shop, London on Sun, 13 Dec 2026.
 
 Soph is a bass and techno artist, with 27 gigs on soundcheck across Barcelona, Liverpool, London and Sheffield. Often billed alongside Rohan Rakhit, Vandorta and Jaime Rosso. Next up: The Carpet Shop, London on Sun 13 Dec.
 
@@ -25,4 +25,4 @@ Soph is a bass and techno artist, with 27 gigs on soundcheck across Barcelona, L
 
 Rohan Rakhit, Vandorta, Jaime Rosso
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soph/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soph/)*

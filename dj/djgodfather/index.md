@@ -1,14 +1,13 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Ghetto Tech artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Ground at Club Space, Miami on Sat, 7 Nov 2026.
+DJ Godfather is a Techno and Ghetto Tech artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Doop, Shanghai on Fri, 20 Nov 2026.
 
-DJ Godfather is a techno and ghetto tech artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 26 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: The Ground at Club Space, Miami on Sat 7 Nov.
+DJ Godfather is a techno and ghetto tech artist based in United States of America, with 88 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bangkok and 26 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: Doop, Shanghai on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | The Ground at Club Space | Miami |
 | Fri, 20 Nov 2026 | Doop | Shanghai |
 | Sat, 21 Nov 2026 | Bar Temp. | Bangkok |
 | Sat, 28 Nov 2026 | OIL Club | Shenzhen |
@@ -17,6 +16,7 @@ DJ Godfather is a techno and ghetto tech artist based in United States of Americ
 
 ## Recently played
 
+- The Ground at Club Space, Miami · Sat, 7 Nov 2026
 - Lincoln Factory, Detroit · Sat, 31 Oct 2026
 - Razzmatazz, Barcelona · Sat, 24 Oct 2026
 - RADION, Amsterdam · Fri, 23 Oct 2026
@@ -24,10 +24,9 @@ DJ Godfather is a techno and ghetto tech artist based in United States of Americ
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - BASIS, Utrecht · Fri, 9 Oct 2026
 - 3oz Dive Club, San Diego · Sat, 3 Oct 2026
-- TBA - Downtown LA, Los Angeles · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Sheefy McFly, Disc Jockey George, Stacey Hotwaxx Hale
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgodfather/)*

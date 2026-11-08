@@ -1,6 +1,6 @@
 # ZOLATEC
 
-ZOLATEC is a Pop and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The DBA, Manchester on Thu, 3 Dec 2026.
+ZOLATEC is a Pop and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The DBA, Manchester on Thu, 3 Dec 2026.
 
 ZOLATEC is a pop and hardcore artist based in United Kingdom, with 14 gigs on soundcheck across Manchester and Sheffield. Often billed alongside Jase Jeffery, 1127 and AMiiNA. Next up: The DBA, Manchester on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ ZOLATEC is a pop and hardcore artist based in United Kingdom, with 14 gigs on so
 
 Jase Jeffery, 1127, AMiiNA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zolatec/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zolatec/)*

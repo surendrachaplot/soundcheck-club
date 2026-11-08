@@ -1,6 +1,6 @@
 # Solus
 
-Solus is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Textilgyár, Budapest on Fri, 27 Nov 2026.
+Solus is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Textilgyár, Budapest on Fri, 27 Nov 2026.
 
 Solus is a house and tech house artist based in Hungary, with 27 gigs on soundcheck across Amsterdam, Budapest, Gothenburg and Manchester and 2 more. Often billed alongside kD (HU), Artic Yoyo and Sam Gittis. Next up: Textilgyár, Budapest on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Solus is a house and tech house artist based in Hungary, with 27 gigs on soundch
 
 kD (HU), Artic Yoyo, Sam Gittis
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solus/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solus/)*

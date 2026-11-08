@@ -1,6 +1,6 @@
 # Kate Savage
 
-Kate Savage is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
+Kate Savage is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Factory Theatre, Sydney on Sun, 29 Nov 2026.
 
 Kate Savage is a drum & bass and jungle artist based in Australia, with 23 gigs on soundcheck across London and Sydney. Often billed alongside Thierry D, Jay See and UBERMOON. Next up: Factory Theatre, Sydney on Sun 29 Nov.
 
@@ -26,4 +26,4 @@ Kate Savage is a drum & bass and jungle artist based in Australia, with 23 gigs 
 
 Thierry D, Jay See, UBERMOON
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katesavage/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katesavage/)*

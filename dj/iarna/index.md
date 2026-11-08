@@ -1,6 +1,6 @@
 # iarna
 
-iarna is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Dec 2026.
+iarna is a Jungle and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Dec 2026.
 
 iarna is a jungle and techno artist based in Romania, with 13 gigs on soundcheck across Berlin, Bucharest, Hanoi and Nürnberg. Often billed alongside kawasaki2000, Ben Sleia and DJ Carlita. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ iarna is a jungle and techno artist based in Romania, with 13 gigs on soundcheck
 
 kawasaki2000, Ben Sleia, DJ Carlita
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iarna/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/iarna/)*

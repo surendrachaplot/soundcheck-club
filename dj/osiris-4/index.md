@@ -1,6 +1,6 @@
 # Osiris (4)
 
-Osiris (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
+Osiris (4) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
 
 Osiris is a techno and house artist based in Switzerland, with 6 gigs on soundcheck across Basel. Often billed alongside Elsa (CH), Martinesque and Agonis. Next up: Postkantine, Basel on Thu 31 Dec.
 
@@ -22,4 +22,4 @@ Osiris is a techno and house artist based in Switzerland, with 6 gigs on soundch
 
 Elsa (CH), Martinesque, Agonis
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osiris-4/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/osiris-4/)*

@@ -1,6 +1,6 @@
 # Room 26
 
-Room 26 is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "NEON pres Marco Faraone at Roome26" on Sat, 5 Dec 2026.
+Room 26 is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "NEON pres Marco Faraone at Roome26" on Sat, 5 Dec 2026.
 
 Room 26 is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Marco Faraone. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Room 26 is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line
 | --- | --- | --- |
 | Sat, 5 Dec 2026 | NEON pres Marco Faraone at Roome26 | Marco Faraone |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/room-26/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/room-26/)*

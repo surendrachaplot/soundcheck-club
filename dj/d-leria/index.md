@@ -1,6 +1,6 @@
 # D-Leria
 
-D-Leria is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+D-Leria is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
 D-Leria is a techno and house artist based in Italy, with 136 gigs on soundcheck across Amsterdam, Athens, Bali and Basel and 45 more. Often billed alongside Key Clef, Functional Disorder and Claudio PRC. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
@@ -17,6 +17,7 @@ D-Leria is a techno and house artist based in Italy, with 136 gigs on soundcheck
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 7 Nov 2026
 - Mia Mao, Paris · Fri, 30 Oct 2026
 - FOLD, London · Sat, 10 Oct 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 2 Oct 2026
@@ -24,10 +25,9 @@ D-Leria is a techno and house artist based in Italy, with 136 gigs on soundcheck
 - Jasna 1, Warsaw · Sat, 19 Sept 2026
 - Q Club, Milan · Fri, 4 Sept 2026
 - THE MAGICK BAR, Rome · Thu, 3 Sept 2026
-- OIL Club, Shenzhen · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Key Clef, Functional Disorder, Claudio PRC
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/d-leria/)*

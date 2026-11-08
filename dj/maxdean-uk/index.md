@@ -1,14 +1,13 @@
 # Max Dean
 
-Max Dean is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Max Dean is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - 546 Collins Street, Melbourne, Melbourne on Fri, 20 Nov 2026.
 
-Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 46 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs on soundcheck across Amsterdam, Atlanta, Auckland and Austin and 46 more. Often billed alongside Luke Dean_, Josh Baker and East End Dubs. Next up: TBA - 546 Collins Street, Melbourne, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 20 Nov 2026 | TBA - 546 Collins Street, Melbourne | Melbourne |
 | Sat, 21 Nov 2026 | Fleet Steps - Mrs Macquaries Point | Sydney |
 | Sat, 21 Nov 2026 | The Ivy | Sydney |
@@ -20,6 +19,7 @@ Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Sat, 2 Jan 2027 | The Concourse Project | Austin |
 | Mon, 5 Apr 2027 | TBA - Mayrhofen, Austria | Austria |
+| Sat, 5 Jun 2027 | High Lights - Barking Park | London |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Max Dean is a house and tech house artist based in United Kingdom, with 247 gigs
 
 Luke Dean_, Josh Baker, East End Dubs
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxdean-uk/)*

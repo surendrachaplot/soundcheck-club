@@ -1,6 +1,6 @@
 # Baerg
 
-Baerg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
+Baerg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kauz, Zurich on Fri, 11 Dec 2026.
 
 Baerg is a house and techno artist based in Switzerland, with 28 gigs on soundcheck across Berlin and Zurich. Often billed alongside Juli Lee, fabulus and Playlove. Next up: Kauz, Zurich on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Baerg is a house and techno artist based in Switzerland, with 28 gigs on soundch
 
 Juli Lee, fabulus, Playlove
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baerg/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/baerg/)*

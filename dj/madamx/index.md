@@ -1,6 +1,6 @@
 # Madam X
 
-Madam X is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Marble Bar, Detroit on Sat, 14 Nov 2026.
+Madam X is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Marble Bar, Detroit on Sat, 14 Nov 2026.
 
 Madam X is a bass and techno artist based in United Kingdom, with 112 gigs on soundcheck across Athens, Atlanta, Auckland and Baltimore and 37 more. Often billed alongside Poor J’Darr, Jay Carder and Debba. Next up: Marble Bar, Detroit on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Madam X is a bass and techno artist based in United Kingdom, with 112 gigs on so
 
 Poor J’Darr, Jay Carder, Debba
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/madamx/)*

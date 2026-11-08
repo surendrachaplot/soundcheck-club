@@ -1,8 +1,8 @@
 # myu:sa
 
-myu:sa is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+myu:sa is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
-myu:sa is a techno and trance artist based in Belgium, with 80 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 17 more. Often billed alongside Lolalita, waltur and Bollmann. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
+myu:sa is a techno and trance artist based in Belgium, with 81 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Barcelona and 18 more. Often billed alongside Lolalita, waltur and Bollmann. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ myu:sa is a techno and trance artist based in Belgium, with 80 gigs on soundchec
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 28 Nov 2026 | Kompass Klub | Ghent |
+| Sat, 12 Dec 2026 | Ciało | Wroclaw |
 | Thu, 31 Dec 2026 | Garage Klub | Antwerp |
 | Thu, 31 Dec 2026 | Afas Live | Amsterdam |
 
@@ -28,4 +29,4 @@ myu:sa is a techno and trance artist based in Belgium, with 80 gigs on soundchec
 
 Lolalita, waltur, Bollmann
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myusa/)*

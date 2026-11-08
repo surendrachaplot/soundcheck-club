@@ -1,6 +1,6 @@
 # Fletchy Boy
 
-Fletchy Boy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Fletchy Boy is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
 
 Fletchy Boy is a house and deep house artist based in New Zealand, with 30 gigs on soundcheck across Auckland, Berlin, Cape Town and Christchurch and 2 more. Often billed alongside SILAS (DE), Jean Mauj and Mu dB. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Fletchy Boy is a house and deep house artist based in New Zealand, with 30 gigs 
 
 SILAS (DE), Jean Mauj, Mu dB
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchyboy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fletchyboy/)*

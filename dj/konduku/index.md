@@ -1,14 +1,13 @@
 # Konduku
 
-Konduku is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FOLD, London on Sat, 7 Nov 2026.
+Konduku is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Lux Fragil, Lisbon on Fri, 13 Nov 2026.
 
-Konduku is a techno and house artist based in Netherlands, with 198 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside DJ Nobu, Woody92 and Kia (AU). Next up: FOLD, London on Sat 7 Nov.
+Konduku is a techno and house artist based in Netherlands, with 198 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 52 more. Often billed alongside DJ Nobu, Woody92 and Kia (AU). Next up: Lux Fragil, Lisbon on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | FOLD | London |
 | Fri, 13 Nov 2026 | Lux Fragil | Lisbon |
 | Sat, 14 Nov 2026 | Dabadaba | North |
 | Sat, 21 Nov 2026 | Nowadays | New York City |
@@ -21,6 +20,7 @@ Konduku is a techno and house artist based in Netherlands, with 198 gigs on soun
 
 ## Recently played
 
+- FOLD, London · Sat, 7 Nov 2026
 - Tresor / Globus, Berlin · Fri, 6 Nov 2026
 - TBA, West-wales · Sat, 31 Oct 2026
 - TILLATEC, Amsterdam · Mon, 26 Oct 2026
@@ -28,10 +28,9 @@ Konduku is a techno and house artist based in Netherlands, with 198 gigs on soun
 - TILLATEC, Amsterdam · Fri, 23 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
 - essaim, Paris · Sat, 17 Oct 2026
-- Lasociaciøn, Madrid · Sun, 11 Oct 2026
 
 ## Shares bills with
 
 DJ Nobu, Woody92, Kia (AU)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/konduku/)*

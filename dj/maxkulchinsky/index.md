@@ -1,6 +1,6 @@
 # Max Kulchinsky
 
-Max Kulchinsky is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mood Ring, New York City on Fri, 20 Nov 2026.
+Max Kulchinsky is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mood Ring, New York City on Fri, 20 Nov 2026.
 
 Max Kulchinsky is a house and funk / soul artist, with 12 gigs on soundcheck across New York City, Philadelphia and Tokyo. Often billed alongside Billy Bevevino, Castillonaire and Connector. Next up: Mood Ring, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Max Kulchinsky is a house and funk / soul artist, with 12 gigs on soundcheck acr
 
 Billy Bevevino, Castillonaire, Connector
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkulchinsky/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maxkulchinsky/)*

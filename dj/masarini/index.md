@@ -1,6 +1,6 @@
 # Masarini
 
-Masarini is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 21 Nov 2026.
+Masarini is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Acud Macht NEU, Berlin on Sat, 21 Nov 2026.
 
 Masarini is a techno artist based in Croatia, with 11 gigs on soundcheck across Berlin. Often billed alongside Bokaric, EÒNAN and Jame Zname. Next up: Acud Macht NEU, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Masarini is a techno artist based in Croatia, with 11 gigs on soundcheck across 
 
 Bokaric, EÒNAN, Jame Zname
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masarini/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masarini/)*

@@ -1,6 +1,6 @@
 # PAZ WAZ HERE
 
-PAZ WAZ HERE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Plano B, Porto on Fri, 27 Nov 2026.
+PAZ WAZ HERE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Plano B, Porto on Fri, 27 Nov 2026.
 
 PAZ WAZ HERE is a house and techno artist based in Portugal, with 64 gigs on soundcheck across Barcelona, Lisbon and Porto. Often billed alongside Rele, XipNoize and Alexxx. Next up: Plano B, Porto on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ PAZ WAZ HERE is a house and techno artist based in Portugal, with 64 gigs on sou
 
 Rele, XipNoize, Alexxx
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pazwazhere/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pazwazhere/)*

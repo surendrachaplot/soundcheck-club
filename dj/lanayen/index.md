@@ -1,14 +1,14 @@
 # LANA:YEN
 
-LANA:YEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at PKH Warehouse, Berlin on Sat, 12 Dec 2026.
+LANA:YEN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - instagram | telegram: @klangsubstanz, Berlin on Sat, 12 Dec 2026.
 
-LANA:YEN is a house and techno artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Maltesar, Joshua Liebe and Wolperdinger. Next up: PKH Warehouse, Berlin on Sat 12 Dec.
+LANA:YEN is a house and techno artist based in Germany, with 14 gigs on soundcheck across Berlin. Often billed alongside Maltesar, Joshua Liebe and Wolperdinger. Next up: TBA - instagram | telegram: @klangsubstanz, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 12 Dec 2026 | PKH Warehouse | Berlin |
+| Sat, 12 Dec 2026 | TBA - instagram / telegram: @klangsubstanz | Berlin |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ LANA:YEN is a house and techno artist based in Germany, with 14 gigs on soundche
 
 Maltesar, Joshua Liebe, Wolperdinger
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lanayen/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lanayen/)*

@@ -1,6 +1,6 @@
 # DJ Dawson
 
-DJ Dawson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Banya Brooklyn, New York City on Sun, 8 Nov 2026.
+DJ Dawson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Banya Brooklyn, New York City on Sun, 8 Nov 2026.
 
 DJ Dawson is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Mexico City, New York City and Philadelphia. Often billed alongside DROPO, Mitch Ferrino and Boomer Banks. Next up: Banya Brooklyn, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ DJ Dawson is a house and techno artist based in United States of America, with 4
 
 DROPO, Mitch Ferrino, Boomer Banks
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdawson/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djdawson/)*

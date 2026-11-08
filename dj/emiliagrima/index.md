@@ -1,14 +1,13 @@
 # Emilia Grima
 
-Emilia Grima is a Bass and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Emilia Grima is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu, 11 Mar 2027.
 
-Emilia Grima is a bass and breakbeat artist based in Spain, with 38 gigs on soundcheck across Barcelona, Central, Dublin and Hamburg and 4 more. Often billed alongside Jan Swam, servei and Atrice. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Emilia Grima is a bass and breakbeat artist based in Spain, with 38 gigs on soundcheck across Barcelona, Central, Dublin and Hamburg and 4 more. Often billed alongside Jan Swam, servei and Atrice. Next up: Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona on Thu 11 Mar.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Thu, 11 Mar 2027 | Casa Montjuïc & Vall d'Hebron Olympic Pavilion | Barcelona |
 
 ## Recently played
@@ -26,4 +25,4 @@ Emilia Grima is a bass and breakbeat artist based in Spain, with 38 gigs on soun
 
 Jan Swam, servei, Atrice
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliagrima/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emiliagrima/)*

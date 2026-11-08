@@ -1,14 +1,13 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "HIHATDANCER INVITA" on Sat, 7 Nov 2026.
+Under Club is a music venue in Buenos Aires with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "RI7MO DEL GHETTO" on Fri, 20 Nov 2026.
 
-Under Club is a music venue in Buenos Aires listed on soundcheck. 8 upcoming gigs, with line-ups including Ana Hagen, Ben Sims, Bondarük and Fergus Sweetland and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenos Aires listed on soundcheck. 7 upcoming gigs, with line-ups including Ana Hagen, Ben Sims, Bondarük and Fergus Sweetland and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | HIHATDANCER INVITA | HIHATDANCER |
 | Fri, 20 Nov 2026 | RI7MO DEL GHETTO | Fergus Sweetland, HERS, JXXXO, Lucas Sosa (AR), West Code |
 | Fri, 20 Nov 2026 | RI7MO DEL GHETTO X Under Club | Fergus Sweetland, HERS, JXXXO, Lucas Sosa (AR), West Code |
 | Sat, 21 Nov 2026 | Ana Hagen - DEE JASON - Floorplan | Ana Hagen, Floorplan |
@@ -21,4 +20,4 @@ Under Club is a music venue in Buenos Aires listed on soundcheck. 8 upcoming gig
 
 Niceto Vega 5699, 1425, Ciudad de Buenos Aires, Buenos Aires
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/buenosaires/club/under-club/)*

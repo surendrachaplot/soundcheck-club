@@ -1,6 +1,6 @@
 # Joanna O.
 
-Joanna O. is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Loso, Richmond on Sat, 13 Feb 2027.
+Joanna O. is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Loso, Richmond on Sat, 13 Feb 2027.
 
 Joanna O. is a drum & bass and jungle artist based in United States of America, with 7 gigs on soundcheck across New York City, Richmond and Washington DC. Often billed alongside BLCKLST, Cryostatik and DJ Nope. Next up: Loso, Richmond on Sat 13 Feb.
 
@@ -23,4 +23,4 @@ Joanna O. is a drum & bass and jungle artist based in United States of America, 
 
 BLCKLST, Cryostatik, DJ Nope
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joannao./)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joannao./)*

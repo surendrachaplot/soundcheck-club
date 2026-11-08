@@ -1,6 +1,6 @@
 # Bunny
 
-Bunny is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Drop inn, Birmingham on Sat, 26 Dec 2026.
+Bunny is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Drop inn, Birmingham on Sat, 26 Dec 2026.
 
 Bunny is a techno and minimal techno artist, with 21 gigs on soundcheck across Berlin, Birmingham, Hamburg and Manchester and 1 more. Often billed alongside Elliott Boyd, Croft and Adam Shelton. Next up: The Drop inn, Birmingham on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ Bunny is a techno and minimal techno artist, with 21 gigs on soundcheck across B
 
 Elliott Boyd, Croft (1), Adam Shelton
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bunny/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bunny/)*

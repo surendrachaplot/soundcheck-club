@@ -1,6 +1,6 @@
 # dlktek
 
-dlktek is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Akropolis, Prague on Sat, 28 Nov 2026.
+dlktek is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Akropolis, Prague on Sat, 28 Nov 2026.
 
 dlktek is a garage and dubstep artist based in Czech Republic, with 6 gigs on soundcheck across Prague. Often billed alongside Dj Alyaz, Zeek and Blen. Next up: Akropolis, Prague on Sat 28 Nov.
 
@@ -22,4 +22,4 @@ dlktek is a garage and dubstep artist based in Czech Republic, with 6 gigs on so
 
 Dj Alyaz, Zeek (2), Blen (3)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlktek/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dlktek/)*

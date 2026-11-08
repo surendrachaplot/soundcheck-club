@@ -1,8 +1,8 @@
 # Larain
 
-Larain is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bluesquare, Milan on Sat, 21 Nov 2026.
+Larain is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bluesquare, Milan on Sat, 21 Nov 2026.
 
-Larain is a house and electronica artist, with 11 gigs on soundcheck across Milan. Often billed alongside Fexsays, Marcomassi and giano. Next up: Bluesquare, Milan on Sat 21 Nov.
+Larain is a house and electronica artist based in Italy, with 11 gigs on soundcheck across Milan. Often billed alongside Fexsays, Marcomassi and giano. Next up: Bluesquare, Milan on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Larain is a house and electronica artist, with 11 gigs on soundcheck across Mila
 
 Fexsays, Marcomassi, giano
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larain/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larain/)*

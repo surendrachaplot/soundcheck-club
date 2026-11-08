@@ -1,6 +1,6 @@
 # Amotik
 
-Amotik is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Amotik is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Amotik is a techno and house artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 52 more. Often billed alongside Lea Occhi, Answer Code Request and Olivia Mendez. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ Amotik is a techno and house artist based in United Kingdom, with 155 gigs on so
 
 Lea Occhi, Answer Code Request, Olivia Mendez
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amotik/)*

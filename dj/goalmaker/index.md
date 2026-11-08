@@ -1,6 +1,6 @@
 # Goalmaker
 
-Goalmaker is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Vybe Ibiza, Ibiza on Sat, 14 Nov 2026.
+Goalmaker is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Vybe Ibiza, Ibiza on Sat, 14 Nov 2026.
 
 Goalmaker is a house and tech house artist based in Spain, with 34 gigs on soundcheck across Barcelona, Copenhagen, Ibiza and Madrid and 2 more. Often billed alongside Boranimals, AAPAES and Gregori. Next up: Vybe Ibiza, Ibiza on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Goalmaker is a house and tech house artist based in Spain, with 34 gigs on sound
 
 Boranimals, AAPAES, Gregori
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goalmaker/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/goalmaker/)*

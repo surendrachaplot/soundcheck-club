@@ -1,6 +1,6 @@
 # Alex Farell
 
-Alex Farell is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Sun, 8 Nov 2026.
+Alex Farell is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Silo Dallas, Dallas/Fort Worth on Sun, 8 Nov 2026.
 
 Alex Farell is a techno and trance artist based in United Kingdom, with 131 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 44 more. Often billed alongside SIKOTI, Azyr and Faster Horses. Next up: Silo Dallas, Dallas/Fort Worth on Sun 8 Nov.
 
@@ -32,4 +32,4 @@ Alex Farell is a techno and trance artist based in United Kingdom, with 131 gigs
 
 SIKOTI, Azyr, Faster Horses
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexfarell/)*

@@ -1,14 +1,13 @@
 # SNTS
 
-SNTS is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Teatro Albéniz, Gijón, North on Sat, 7 Nov 2026.
+SNTS is a Techno and Industrial artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at BASIS, Utrecht on Fri, 13 Nov 2026.
 
-SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Charlie Sparks, 999999999 and DYEN. Next up: Teatro Albéniz, Gijón, North on Sat 7 Nov.
+SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Charlie Sparks, 999999999 and DYEN. Next up: BASIS, Utrecht on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Teatro Albéniz, Gijón | North |
 | Fri, 13 Nov 2026 | BASIS | Utrecht |
 | Sat, 28 Nov 2026 | Hangar 18 | Netherlands |
 | Sat, 28 Nov 2026 | Patronaat | Amsterdam |
@@ -17,6 +16,7 @@ SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundc
 
 ## Recently played
 
+- Teatro Albéniz, Gijón, North · Sat, 7 Nov 2026
 - Recinto Ferial de Cáceres, South · Sun, 1 Nov 2026
 - Pandora Sevilla, South · Sun, 1 Nov 2026
 - La Cubierta de Leganés, Madrid · Fri, 30 Oct 2026
@@ -24,10 +24,9 @@ SNTS is a techno and industrial artist based in Germany, with 204 gigs on soundc
 - Complejo Embrujo, South · Sat, 3 Oct 2026
 - Drugstore Beograd, Belgrade · Sat, 19 Sept 2026
 - Hard Club, Porto · Sat, 19 Sept 2026
-- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 Charlie Sparks, 999999999, DYEN
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/snts/)*

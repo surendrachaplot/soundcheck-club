@@ -1,6 +1,6 @@
 # shirlz
 
-shirlz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Rose, New York City on Mon, 16 Nov 2026.
+shirlz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Rose, New York City on Mon, 16 Nov 2026.
 
 shirlz is a techno and house artist based in United States of America, with 33 gigs on soundcheck across New York City. Often billed alongside MISS VEE, AJACENT and Petite Nhi. Next up: The Rose, New York City on Mon 16 Nov.
 
@@ -25,4 +25,4 @@ shirlz is a techno and house artist based in United States of America, with 33 g
 
 MISS VEE, AJACENT, Petite Nhi
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shirlz/)*

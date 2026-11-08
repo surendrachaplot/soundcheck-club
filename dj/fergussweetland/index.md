@@ -1,6 +1,6 @@
 # Fergus Sweetland
 
-Fergus Sweetland is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Palacete, Sao Paulo on Fri, 13 Nov 2026.
+Fergus Sweetland is a Techno and Electro artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Palacete, Sao Paulo on Fri, 13 Nov 2026.
 
 Fergus Sweetland is a techno and electro artist, with 39 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 13 more. Often billed alongside Philippa Pacho, Oscar Mulero and Toobris. Next up: Palacete, Sao Paulo on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Fergus Sweetland is a techno and electro artist, with 39 gigs on soundcheck acro
 
 Philippa Pacho, Oscar Mulero, Toobris
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fergussweetland/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fergussweetland/)*

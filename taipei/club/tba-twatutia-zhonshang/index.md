@@ -1,6 +1,6 @@
 # TBA - Twatutia Zhonshang
 
-TBA - Twatutia Zhonshang is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Coffee & Boogies" on Sun, 29 Nov 2026.
+TBA - Twatutia Zhonshang is a music venue in Taipei with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Coffee & Boogies" on Sun, 29 Nov 2026.
 
 TBA - Twatutia Zhonshang is a music venue in Taipei listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Twatutia Zhonshang is a music venue in Taipei listed on soundcheck. 1 upco
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Coffee & Boogies |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/tba-twatutia-zhonshang/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/taipei/club/tba-twatutia-zhonshang/)*

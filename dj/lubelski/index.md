@@ -1,6 +1,6 @@
 # Lubelski
 
-Lubelski is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
+Lubelski is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
 
 Lubelski is a house and tech house artist based in United States of America, with 59 gigs on soundcheck across Chicago, Detroit, Los Angeles and Miami and 6 more. Often billed alongside Tottie, Afriqua and Club Tularosa. Next up: TBA, Los Angeles on Wed 25 Nov.
 
@@ -25,4 +25,4 @@ Lubelski is a house and tech house artist based in United States of America, wit
 
 Tottie, Afriqua, Club Tularosa
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lubelski/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lubelski/)*

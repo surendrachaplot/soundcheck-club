@@ -1,6 +1,6 @@
 # Utopia
 
-Utopia is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Catch Every NFL Game: Cord-Cutters Guide to Sunday Night Football" on Sat, 7 Nov 2026.
+Utopia is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Catch Every NFL Game: Cord-Cutters Guide to Sunday Night Football" on Sat, 7 Nov 2026.
 
 Utopia is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including CBS, DON ERGY, Fox (US) and Kimonos and 2 more. See dates, start times and who's playing. 2233 JESSE ST..
 
@@ -17,4 +17,4 @@ Utopia is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, wi
 
 2233 JESSE ST., Los Angeles
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/utopia/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/utopia/)*

@@ -1,6 +1,6 @@
 # Rage.inald
 
-Rage.inald is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nowadays, New York City on Sat, 12 Dec 2026.
+Rage.inald is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Nowadays, New York City on Sat, 12 Dec 2026.
 
 Rage.inald is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Baltimore, New York City and Philadelphia. Often billed alongside MIRA MIRA, Raw Unkut and Pamela_ and her sons. Next up: Nowadays, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Rage.inald is a techno and house artist based in United States of America, with 
 
 MIRA MIRA, Raw Unkut, Pamela_ and her sons
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rageinald/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rageinald/)*

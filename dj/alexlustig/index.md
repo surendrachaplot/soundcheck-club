@@ -1,6 +1,6 @@
 # Alex Lustig
 
-Alex Lustig is a Ambient and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sugu Kyoto, Kyoto on Sun, 22 Nov 2026.
+Alex Lustig is a Ambient and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sugu Kyoto, Kyoto on Sun, 22 Nov 2026.
 
 Alex Lustig is an ambient and house artist based in Canada, with 47 gigs on soundcheck across Amsterdam, Atlanta, Austin and Baltimore and 30 more. Often billed alongside JENNO and Rampa. Next up: Sugu Kyoto, Kyoto on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ Alex Lustig is an ambient and house artist based in Canada, with 47 gigs on soun
 
 JENNO (2), Rampa
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexlustig/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexlustig/)*

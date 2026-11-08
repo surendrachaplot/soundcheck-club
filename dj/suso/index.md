@@ -1,6 +1,6 @@
 # SUSØ
 
-SUSØ is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Safestay Rooftop, Barcelona on Fri, 13 Nov 2026.
+SUSØ is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Safestay Rooftop, Barcelona on Fri, 13 Nov 2026.
 
 SUSØ is a house and afro house artist based in Spain, with 7 gigs on soundcheck across Barcelona. Often billed alongside Fat-P, Giuliano and Eze k. Next up: Safestay Rooftop, Barcelona on Fri 13 Nov.
 
@@ -23,4 +23,4 @@ SUSØ is a house and afro house artist based in Spain, with 7 gigs on soundcheck
 
 Fat-P, Giuliano, Eze k
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suso/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/suso/)*

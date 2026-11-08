@@ -1,6 +1,6 @@
 # silver pearl
 
-silver pearl is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
+silver pearl is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at export, Rotterdam on Fri, 27 Nov 2026.
 
 silver pearl is a bass and techno artist based in Slovakia, with 33 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brno and 4 more. Often billed alongside Microchic, Andriy K. and Helmond Lang. Next up: export, Rotterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ silver pearl is a bass and techno artist based in Slovakia, with 33 gigs on soun
 
 Microchic, Andriy K., Helmond Lang
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpearl/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/silverpearl/)*

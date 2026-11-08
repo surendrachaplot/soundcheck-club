@@ -1,6 +1,6 @@
 # Ricardo Albuquerque
 
-Ricardo Albuquerque is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Marina Da Glória, Rio de Janeiro on Sat, 28 Nov 2026.
+Ricardo Albuquerque is a Deep House and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Marina Da Glória, Rio de Janeiro on Sat, 28 Nov 2026.
 
 Ricardo Albuquerque is a deep house and house artist based in Brazil, with 11 gigs on soundcheck across Brazil, Buenos Aires, Miami and Rio de Janeiro and 2 more. Often billed alongside Kike Roldan, Patrick M and Brian Cid. Next up: Marina Da Glória, Rio de Janeiro on Sat 28 Nov.
 
@@ -27,4 +27,4 @@ Ricardo Albuquerque is a deep house and house artist based in Brazil, with 11 gi
 
 Kike Roldan, Patrick M, Brian Cid
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoalbuquerque/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardoalbuquerque/)*

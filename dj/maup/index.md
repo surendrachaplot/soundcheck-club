@@ -1,14 +1,13 @@
 # Mau P
 
-Mau P is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Mau P is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - CREST 72, Seoul on Fri, 11 Dec 2026.
 
-Mau P is a house and tech house artist based in Netherlands, with 173 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 48 more. Often billed alongside Joseph Capriati, Charlotte de Witte and Seth Troxler. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Mau P is a house and tech house artist based in Netherlands, with 173 gigs on soundcheck across Amsterdam, Atlanta, Austin and Barcelona and 48 more. Often billed alongside Joseph Capriati, Charlotte de Witte and Seth Troxler. Next up: TBA - CREST 72, Seoul on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 11 Dec 2026 | TBA - CREST 72 | Seoul |
 | Sat, 12 Dec 2026 | ZEROTOKYO | Tokyo |
 | Sat, 2 Jan 2027 | TBA - Open Park, Punta del Este | Uruguay |
@@ -29,4 +28,4 @@ Mau P is a house and tech house artist based in Netherlands, with 173 gigs on so
 
 Joseph Capriati, Charlotte de Witte, Seth Troxler
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maup/)*

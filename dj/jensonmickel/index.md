@@ -1,6 +1,6 @@
 # Jenson Mickel
 
-Jenson Mickel is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 11 Nov 2026.
+Jenson Mickel is a House and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Berkeley Suite, Glasgow on Wed, 11 Nov 2026.
 
 Jenson Mickel is a house and jungle artist, with 6 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside A Pavlo, Trucha and Bengalist. Next up: The Berkeley Suite, Glasgow on Wed 11 Nov.
 
@@ -22,4 +22,4 @@ Jenson Mickel is a house and jungle artist, with 6 gigs on soundcheck across Edi
 
 A Pavlo, Trucha, Bengalist
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jensonmickel/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jensonmickel/)*

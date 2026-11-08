@@ -1,6 +1,6 @@
 # MEJMI
 
-MEJMI is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
+MEJMI is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Pawn Shop, Dublin on Fri, 27 Nov 2026.
 
 MEJMI is a techno and electro artist based in Ireland, with 51 gigs on soundcheck across Berlin, Cork, Dublin and Galway and 2 more. Often billed alongside Hooligan, Jamie Behan and Ashes. Next up: Pawn Shop, Dublin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ MEJMI is a techno and electro artist based in Ireland, with 51 gigs on soundchec
 
 Hooligan, Jamie Behan, Ashes (2)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mejmi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mejmi/)*

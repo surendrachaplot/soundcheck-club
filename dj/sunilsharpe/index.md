@@ -1,6 +1,6 @@
 # Sunil Sharpe
 
-Sunil Sharpe is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 5 Dec 2026.
+Sunil Sharpe is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 5 Dec 2026.
 
 Sunil Sharpe is a techno and electro artist based in Ireland, with 103 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 32 more. Often billed alongside Kerrie, Newa and IMOGEN. Next up: Tresor / Globus, Berlin on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Sunil Sharpe is a techno and electro artist based in Ireland, with 103 gigs on s
 
 Kerrie, Newa, IMOGEN
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sunilsharpe/)*

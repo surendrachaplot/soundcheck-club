@@ -1,6 +1,6 @@
 # Sesli
 
-Sesli is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lunchbox, Atlanta on Sat, 5 Dec 2026.
+Sesli is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Lunchbox, Atlanta on Sat, 5 Dec 2026.
 
 Sesli is a techno and house artist based in United States of America, with 12 gigs on soundcheck across Atlanta, Los Angeles, New York City and Philadelphia and 1 more. Often billed alongside Black Box, Alexion and Angelinkast. Next up: Lunchbox, Atlanta on Sat 5 Dec.
 
@@ -28,4 +28,4 @@ Sesli is a techno and house artist based in United States of America, with 12 gi
 
 Black Box, Alexion, Angelinkast
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sesli/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sesli/)*

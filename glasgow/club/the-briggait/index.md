@@ -1,6 +1,6 @@
 # The Briggait
 
-The Briggait is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Ross From Friends & Friends: Dreams Warehouse +21" on Fri, 11 Dec 2026.
+The Briggait is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Ross From Friends & Friends: Dreams Warehouse +21" on Fri, 11 Dec 2026.
 
 The Briggait is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including Laurence Guy, Ross From Friends and Stevie Cox. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ The Briggait is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, w
 | --- | --- | --- |
 | Fri, 11 Dec 2026 | Ross From Friends & Friends: Dreams Warehouse +21 | Laurence Guy, Ross From Friends, Stevie Cox |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-briggait/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-briggait/)*

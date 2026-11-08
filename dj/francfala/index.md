@@ -1,14 +1,13 @@
 # Franc Fala
 
-Franc Fala is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Silencio, Paris on Wed, 4 Nov 2026.
+Franc Fala is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Spybar, Chicago on Sat, 14 Nov 2026.
 
-Franc Fala is a house and afro house artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 13 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Silencio, Paris on Wed 4 Nov.
+Franc Fala is a house and afro house artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 13 more. Often billed alongside Benja, Benja (NL) and Cincity. Next up: Spybar, Chicago on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 4 Nov 2026 | Silencio | Paris |
 | Sat, 14 Nov 2026 | Spybar | Chicago |
 | Sun, 15 Nov 2026 | Floyd | Miami |
 | Tue, 24 Nov 2026 | Desa Kitsune | Bali |
@@ -28,4 +27,4 @@ Franc Fala is a house and afro house artist based in Netherlands, with 41 gigs o
 
 Benja, Benja (NL), Cincity
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/francfala/)*

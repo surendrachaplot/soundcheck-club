@@ -1,6 +1,6 @@
 # Exchange
 
-Exchange is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "OPENHAUS PRESENTS: Arctic Groove (TICKET LINK IN DECSRIPTION)" on Sat, 5 Dec 2026.
+Exchange is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "OPENHAUS PRESENTS: Arctic Groove (TICKET LINK IN DECSRIPTION)" on Sat, 5 Dec 2026.
 
 Exchange is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with line-ups including SUFI. See dates, start times and who's playing. 72-73 Old Market; Bristol BS2 0EJ; United Kingdom.
 
@@ -14,4 +14,4 @@ Exchange is a music venue in Bristol listed on soundcheck. 1 upcoming gig, with 
 
 72-73 Old Market; Bristol BS2 0EJ; United Kingdom, Bristol
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*

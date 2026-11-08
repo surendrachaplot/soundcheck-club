@@ -1,6 +1,6 @@
 # EREZ (US)
 
-EREZ (US) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
+EREZ (US) is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Monarch, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 EREZ (US) is a house and club artist based in United States of America, with 16 gigs on soundcheck across Los Angeles, Madrid, Miami and New York City and 2 more. Often billed alongside Elderbrook, Alex Wann and Empire Of The Sun. Next up: Monarch, San Francisco/Oakland on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ EREZ (US) is a house and club artist based in United States of America, with 16 
 
 Elderbrook, Alex Wann, Empire Of The Sun
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erez-us/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/erez-us/)*

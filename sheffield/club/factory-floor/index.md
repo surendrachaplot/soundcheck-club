@@ -1,14 +1,13 @@
 # Factory Floor
 
-Factory Floor is a music venue in Sheffield with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Polyphonic: Moving Parts" on Fri, 6 Nov 2026.
+Factory Floor is a music venue in Sheffield with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Bangers N Mash w/Mashytka" on Fri, 13 Nov 2026.
 
-Factory Floor is a music venue in Sheffield listed on soundcheck. 4 upcoming gigs, with line-ups including Holon._ and Julion De'Angelo. See dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
+Factory Floor is a music venue in Sheffield listed on soundcheck. 3 upcoming gigs, with line-ups including Holon._ and Julion De'Angelo. See dates, start times and who's playing. 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Polyphonic: Moving Parts |  |
 | Fri, 13 Nov 2026 | Bangers N Mash w/Mashytka |  |
 | Thu, 19 Nov 2026 | Sounds 4 Sanctuary |  |
 | Sat, 28 Nov 2026 | Side5tep: Julion De'Angelo | Holon._, Julion De'Angelo |
@@ -17,4 +16,4 @@ Factory Floor is a music venue in Sheffield listed on soundcheck. 4 upcoming gig
 
 92 Burton Rd, Neepsend, Sheffield S3 8BX, United Kingdom, Sheffield
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sheffield/club/factory-floor/)*

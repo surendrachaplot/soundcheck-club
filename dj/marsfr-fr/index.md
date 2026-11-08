@@ -1,6 +1,6 @@
 # Mars (FR)
 
-Mars (FR) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Mars (FR) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Mars (FR) is a techno and house artist based in France, with 13 gigs on soundcheck across Amsterdam, Birmingham, Buenos Aires and Chicago and 3 more. Often billed alongside AMORAL, ANiIIIIiiiKii and Abstract Division. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -29,4 +29,4 @@ Mars (FR) is a techno and house artist based in France, with 13 gigs on soundche
 
 AMORAL, ANiIIIIiiiKii, Abstract Division
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsfr-fr/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marsfr-fr/)*

@@ -1,6 +1,6 @@
 # Cristian Gardeta
 
-Cristian Gardeta is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Terminal Zero, Barcelona on Sat, 14 Nov 2026.
+Cristian Gardeta is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Terminal Zero, Barcelona on Sat, 14 Nov 2026.
 
 Cristian Gardeta is a tech house and techno artist based in Spain, with 39 gigs on soundcheck across Barcelona. Often billed alongside Seba Ruiz, DANIEL PRADO and RAY RICCH. Next up: Terminal Zero, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Cristian Gardeta is a tech house and techno artist based in Spain, with 39 gigs 
 
 Seba Ruiz, DANIEL PRADO, RAY RICCH
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiangardeta/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cristiangardeta/)*

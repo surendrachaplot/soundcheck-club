@@ -1,8 +1,8 @@
 # IZREAL
 
-IZREAL is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
+IZREAL is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Jacks Bar, South-korea on Sat, 14 Nov 2026.
 
-IZREAL is a techno and tech house artist, with 19 gigs on soundcheck across Manila, Osaka, Seoul and South Korea and 1 more. Often billed alongside Mukthi, HAO (CN) and R.I.M. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
+IZREAL is a techno and tech house artist based in South Korea, with 19 gigs on soundcheck across Manila, Osaka, Seoul and South Korea and 1 more. Often billed alongside Mukthi, HAO (CN) and R.I.M. Next up: TBA - Jacks Bar, South Korea on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ IZREAL is a techno and tech house artist, with 19 gigs on soundcheck across Mani
 
 Mukthi, HAO (CN), R.I.M
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izreal/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/izreal/)*

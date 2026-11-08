@@ -1,6 +1,6 @@
 # Observer (uk)
 
-Observer (uk) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
+Observer (uk) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Island, Bristol on Thu, 31 Dec 2026.
 
 Observer (uk) is a bass and club artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside TAKAKO, k means and 33EMYBW. Next up: The Island, Bristol on Thu 31 Dec.
 
@@ -23,4 +23,4 @@ Observer (uk) is a bass and club artist based in United Kingdom, with 7 gigs on 
 
 TAKAKO, k means, 33EMYBW
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/observeruk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/observeruk/)*

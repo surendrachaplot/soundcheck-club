@@ -1,6 +1,6 @@
 # James Axon
 
-James Axon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
+James Axon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Los Angeles on Wed, 25 Nov 2026.
 
 James Axon is a house and techno artist based in United States of America, with 74 gigs on soundcheck across Los Angeles, Mexico City, New York City and Philadelphia and 3 more. Often billed alongside Masha Mar, Sergio Rodriguez and Jason Kendig. Next up: TBA, Los Angeles on Wed 25 Nov.
 
@@ -27,4 +27,4 @@ James Axon is a house and techno artist based in United States of America, with 
 
 Masha Mar, Sergio Rodriguez, Jason Kendig
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesaxon/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesaxon/)*

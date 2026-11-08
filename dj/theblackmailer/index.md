@@ -1,6 +1,6 @@
 # The Blackmailer
 
-The Blackmailer is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
+The Blackmailer is a Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at OXI, Berlin on Sat, 14 Nov 2026.
 
 The Blackmailer is a techno artist based in Germany, with 15 gigs on soundcheck across Berlin and London. Often billed alongside Marcey99, Parisha and Damien Barthet. Next up: OXI, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ The Blackmailer is a techno artist based in Germany, with 15 gigs on soundcheck 
 
 Marcey99, Parisha, Damien Barthet (2)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackmailer/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theblackmailer/)*

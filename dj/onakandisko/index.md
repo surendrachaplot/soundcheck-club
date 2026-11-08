@@ -1,8 +1,8 @@
 # Onakan Disko
 
-Onakan Disko is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Vice Versa, Paris on Fri, 20 Nov 2026.
+Onakan Disko is a Disco and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Vice Versa, Paris on Fri, 20 Nov 2026.
 
-Onakan Disko is a disco and house artist based in Japan, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside TonyDeepDisco, James Park. and Bizzarro Universe. Next up: Vice Versa, Paris on Fri 20 Nov.
+Onakan Disko is a disco and house artist based in Japan, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 9 more. Often billed alongside TonyDeepDisco, James Park. and Bizzarro Universe. Next up: Vice Versa, Paris on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Onakan Disko is a disco and house artist based in Japan, with 42 gigs on soundch
 | Fri, 20 Nov 2026 | Vice Versa | Paris |
 | Sat, 21 Nov 2026 | L'altitude | Brussels |
 | Fri, 27 Nov 2026 | Le Discobar | Paris |
+| Sat, 23 Jan 2027 | Eavesdrop | New York City |
 | Thu, 18 Feb 2027 | Mr. Melo | New-york-state |
 
 ## Recently played
@@ -28,4 +29,4 @@ Onakan Disko is a disco and house artist based in Japan, with 42 gigs on soundch
 
 TonyDeepDisco, James Park., Bizzarro Universe
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onakandisko/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/onakandisko/)*

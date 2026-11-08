@@ -1,14 +1,13 @@
 # DALJAE
 
-DALJAE is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tide Tokyo, Tokyo on Sun, 8 Nov 2026.
+DALJAE is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Z Maruyama, Tokyo on Fri, 13 Nov 2026.
 
-DALJAE is a techno and industrial artist based in Japan, with 109 gigs on soundcheck across Amsterdam, Milan, Osaka and Seoul and 3 more. Often billed alongside Kaito, KAITO and YUXI. Next up: Tide Tokyo, Tokyo on Sun 8 Nov.
+DALJAE is a techno and industrial artist based in Japan, with 109 gigs on soundcheck across Amsterdam, Milan, Osaka and Seoul and 3 more. Often billed alongside Kaito, KAITO and YUXI. Next up: Z Maruyama, Tokyo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 8 Nov 2026 | Tide Tokyo | Tokyo |
 | Fri, 13 Nov 2026 | Z Maruyama | Tokyo |
 | Fri, 20 Nov 2026 | Tide Tokyo | Tokyo |
 | Sat, 28 Nov 2026 | ZEROTOKYO | Tokyo |
@@ -28,4 +27,4 @@ DALJAE is a techno and industrial artist based in Japan, with 109 gigs on soundc
 
 Kaito, KAITO (5), YUXI
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daljae/)*

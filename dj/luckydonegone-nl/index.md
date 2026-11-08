@@ -1,14 +1,13 @@
 # Lucky Done Gone
 
-Lucky Done Gone is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at De Zoeten Laboratorium, Netherlands on Fri, 6 Nov 2026.
+Lucky Done Gone is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Paradiso, Amsterdam on Fri, 27 Nov 2026.
 
-Lucky Done Gone is a house and techno artist based in Netherlands, with 116 gigs on soundcheck across Amsterdam, Bali, Barcelona and Ho Chi Minh City and 7 more. Often billed alongside Moody Mehran, Tjade and Tsepo. Next up: De Zoeten Laboratorium, Netherlands on Fri 6 Nov.
+Lucky Done Gone is a house and techno artist based in Netherlands, with 116 gigs on soundcheck across Amsterdam, Bali, Barcelona and Ho Chi Minh City and 7 more. Often billed alongside Moody Mehran, Tjade and Tsepo. Next up: Paradiso, Amsterdam on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | De Zoeten Laboratorium | Netherlands |
 | Fri, 27 Nov 2026 | Paradiso | Amsterdam |
 | Sat, 28 Nov 2026 | Inter-City | The Hague |
 | Sun, 20 Dec 2026 | Thuishaven | Amsterdam |
@@ -30,4 +29,4 @@ Lucky Done Gone is a house and techno artist based in Netherlands, with 116 gigs
 
 Moody Mehran, Tjade, Tsepo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luckydonegone-nl/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luckydonegone-nl/)*

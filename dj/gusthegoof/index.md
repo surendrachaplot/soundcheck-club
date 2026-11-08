@@ -1,6 +1,6 @@
 # Gus The Goof
 
-Gus The Goof is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bar Temp., Bangkok on Sat, 21 Nov 2026.
+Gus The Goof is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bar Temp., Bangkok on Sat, 21 Nov 2026.
 
 Gus The Goof is an electro and techno artist based in Thailand, with 35 gigs on soundcheck across Bangkok. Often billed alongside DJ Krit Morton, DukeDumb and Yoongying. Next up: Bar Temp., Bangkok on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Gus The Goof is an electro and techno artist based in Thailand, with 35 gigs on 
 
 DJ Krit Morton, DukeDumb, Yoongying
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gusthegoof/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gusthegoof/)*

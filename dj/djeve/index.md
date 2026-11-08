@@ -1,6 +1,6 @@
 # DJ Eve
 
-DJ Eve is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Gateway, Minneapolis/St Paul on Sat, 14 Nov 2026.
+DJ Eve is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Gateway, Minneapolis/St Paul on Sat, 14 Nov 2026.
 
 DJ Eve is a house and techno artist based in United States of America, with 10 gigs on soundcheck across Minneapolis/St Paul. Often billed alongside Matriarch, Akko and Dazzle. Next up: TBA - Gateway, Minneapolis/St Paul on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ DJ Eve is a house and techno artist based in United States of America, with 10 g
 
 Matriarch, Akko, Dazzle
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeve/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeve/)*

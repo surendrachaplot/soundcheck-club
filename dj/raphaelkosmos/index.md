@@ -1,19 +1,19 @@
 # Raphael Kosmos
 
-Raphael Kosmos is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Ungelt, Prague on Sat, 7 Nov 2026.
+Raphael Kosmos is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bike Jesus, Prague on Fri, 20 Nov 2026.
 
-Raphael Kosmos is a techno and electro artist based in Czech Republic, with 100 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 2 more. Often billed alongside Olinstvi, Manntracs and Midirama. Next up: Ungelt, Prague on Sat 7 Nov.
+Raphael Kosmos is a techno and electro artist based in Czech Republic, with 100 gigs on soundcheck across Belgrade, Berlin, Bratislava and Brussels and 2 more. Often billed alongside Olinstvi, Manntracs and Midirama. Next up: Bike Jesus, Prague on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Ungelt | Prague |
 | Fri, 20 Nov 2026 | Bike Jesus | Prague |
 | Fri, 27 Nov 2026 | Twist Bar | Prague |
 
 ## Recently played
 
+- Ungelt, Prague · Sat, 7 Nov 2026
 - Fuchs2, Prague · Fri, 9 Oct 2026
 - Klub K4, Ljubljana · Fri, 18 Sept 2026
 - Bar v Krymský, Prague · Sat, 5 Sept 2026
@@ -21,10 +21,9 @@ Raphael Kosmos is a techno and electro artist based in Czech Republic, with 100 
 - TBA, Bratislava · Sat, 29 Aug 2026
 - Altenburg 1964, Prague · Fri, 28 Aug 2026
 - arkaoda Berlin, Berlin · Sat, 22 Aug 2026
-- Vila Štvanice, Prague · Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Olinstvi, Manntracs, Midirama
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelkosmos/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/raphaelkosmos/)*

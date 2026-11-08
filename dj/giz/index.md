@@ -1,6 +1,6 @@
 # GiZ
 
-GiZ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at KOKO, London on Sat, 28 Nov 2026.
+GiZ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at KOKO, London on Sat, 28 Nov 2026.
 
 GiZ is a house and techno artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Berlin, Cape Town and Ghent and 15 more. Often billed alongside Oliver Koletzki, TOOKER and Fabian Krooss. Next up: KOKO, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ GiZ is a house and techno artist based in Germany, with 51 gigs on soundcheck ac
 
 Oliver Koletzki, TOOKER, Fabian Krooss
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/giz/)*

@@ -1,6 +1,6 @@
 # Hayato Iwaki
 
-Hayato Iwaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at VENT, Tokyo on Sun, 22 Nov 2026.
+Hayato Iwaki is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at VENT, Tokyo on Sun, 22 Nov 2026.
 
 Hayato Iwaki is a house and techno artist based in Japan, with 133 gigs on soundcheck across Tokyo. Often billed alongside Leo Gabriel, Hayato and RIHO ASAEDA. Next up: VENT, Tokyo on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Hayato Iwaki is a house and techno artist based in Japan, with 133 gigs on sound
 
 Leo Gabriel, Hayato, RIHO ASAEDA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatoiwaki/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hayatoiwaki/)*

@@ -1,6 +1,6 @@
 # hero
 
-hero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
+hero is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at AMT, Berlin on Fri, 27 Nov 2026.
 
 hero is a house and techno artist based in Germany, with 19 gigs on soundcheck across Berlin, Detroit, Hamburg and Tokyo. Often billed alongside STEFFOO, Tákyi and AKIIM. Next up: AMT, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ hero is a house and techno artist based in Germany, with 19 gigs on soundcheck a
 
 STEFFOO, Tákyi, AKIIM
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hero-de/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hero-de/)*

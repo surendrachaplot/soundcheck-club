@@ -1,6 +1,6 @@
 # DON ERGY
 
-DON ERGY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Utopia, Los Angeles on Sat, 7 Nov 2026.
+DON ERGY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Utopia, Los Angeles on Sat, 7 Nov 2026.
 
 DON ERGY is a techno and house artist, with 8 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside RCKSLVR, Ben Vardi and Borak. Next up: Utopia, Los Angeles on Sat 7 Nov.
 
@@ -12,6 +12,7 @@ DON ERGY is a techno and house artist, with 8 gigs on soundcheck across Los Ange
 
 ## Recently played
 
+- Utopia, Los Angeles · Sat, 7 Nov 2026
 - TBA - 1930 Wilshire Blv , Los Angeles · Sat, 28 Mar 2026
 - TBA - JADE BEVERLY HILLS, Los Angeles · Fri, 13 Mar 2026
 - Berlin, Los Angeles · Sat, 13 Dec 2025
@@ -24,4 +25,4 @@ DON ERGY is a techno and house artist, with 8 gigs on soundcheck across Los Ange
 
 RCKSLVR, Ben Vardi, Borak
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donergy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/donergy/)*

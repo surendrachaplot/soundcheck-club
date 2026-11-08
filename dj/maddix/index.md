@@ -1,15 +1,13 @@
 # Maddix
 
-Maddix is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Maddix is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-Maddix is a techno and trance artist based in Netherlands, with 198 gigs on soundcheck across Amsterdam, Arizona, Atlanta and Austin and 74 more. Often billed alongside The Rocketman, Billy Gillies and Lilly Palmer. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Maddix is a techno and trance artist based in Netherlands, with 198 gigs on soundcheck across Amsterdam, Arizona, Atlanta and Austin and 74 more. Often billed alongside The Rocketman, Billy Gillies and Lilly Palmer. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
-| Sun, 8 Nov 2026 | Margaritaville Resort Orlando | Orlando |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Fri, 20 Nov 2026 | Melbourne Showgrounds | Melbourne |
 | Sat, 21 Nov 2026 | Randwick Racecourse | Sydney |
@@ -31,4 +29,4 @@ Maddix is a techno and trance artist based in Netherlands, with 198 gigs on soun
 
 The Rocketman, Billy Gillies, Lilly Palmer
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maddix/)*

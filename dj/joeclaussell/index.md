@@ -1,14 +1,13 @@
 # Joe Claussell
 
-Joe Claussell is a House and Deep House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Basic Club, Naples on Sat, 7 Nov 2026.
+Joe Claussell is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Audioteca, Naples on Sun, 8 Nov 2026.
 
-Joe Claussell is a house and deep house artist based in United States of America, with 98 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 27 more. Often billed alongside Danny Krivit, Francois K and Ron Trent. Next up: Basic Club, Naples on Sat 7 Nov.
+Joe Claussell is a house and deep house artist based in United States of America, with 98 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 27 more. Often billed alongside Danny Krivit, Francois K and Ron Trent. Next up: Audioteca, Naples on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Basic Club | Naples |
 | Sun, 8 Nov 2026 | Audioteca | Naples |
 | Thu, 12 Nov 2026 | essaim | Paris |
 | Sat, 21 Nov 2026 | Cosmic Arts | New York City |
@@ -17,6 +16,7 @@ Joe Claussell is a house and deep house artist based in United States of America
 
 ## Recently played
 
+- Basic Club, Naples · Sat, 7 Nov 2026
 - Cosmic Arts, New York City · Sat, 24 Oct 2026
 - Longboat Hall, Toronto · Sun, 18 Oct 2026
 - Karmakoma, Belgrade · Sat, 26 Sept 2026
@@ -24,10 +24,9 @@ Joe Claussell is a house and deep house artist based in United States of America
 - Locust Grove, New York City · Sat, 5 Sept 2026
 - Lunchbox, Atlanta · Fri, 4 Sept 2026
 - Knockdown Center, New York City · Sat, 29 Aug 2026
-- Circle Line Cruises, New York City · Sun, 23 Aug 2026
 
 ## Shares bills with
 
 Danny Krivit, Francois K, Ron Trent
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/joeclaussell/)*

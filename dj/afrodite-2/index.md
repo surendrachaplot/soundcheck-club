@@ -1,6 +1,6 @@
 # Afrodite (2)
 
-Afrodite (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Afrodite (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Afrodite is a house and techno artist, with 109 gigs on soundcheck across Hanoi, Hong Kong, Seoul and South Korea and 4 more. Often billed alongside Moeuv, Gumi and Doyeon. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Afrodite is a house and techno artist, with 109 gigs on soundcheck across Hanoi,
 
 Moeuv, Gumi, Doyeon
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afrodite-2/)*

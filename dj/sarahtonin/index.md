@@ -1,6 +1,6 @@
 # Sarahtonin
 
-Sarahtonin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Carpet Shop, London on Sat, 21 Nov 2026.
+Sarahtonin is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Carpet Shop, London on Sat, 21 Nov 2026.
 
 Sarahtonin is a house and disco artist based in United Kingdom, with 78 gigs on soundcheck across Austin, Berlin, Bristol and Glasgow and 5 more. Often billed alongside Bill Brewster, Frank Broughton and Ariane V. Next up: The Carpet Shop, London on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Sarahtonin is a house and disco artist based in United Kingdom, with 78 gigs on 
 
 Bill Brewster, Frank Broughton, Ariane V
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahtonin/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sarahtonin/)*

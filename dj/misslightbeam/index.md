@@ -1,18 +1,18 @@
 # Miss Lightbeam
 
-Miss Lightbeam is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Studio 338, London on Sat, 7 Nov 2026.
+Miss Lightbeam is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Basing House, London on Sat, 19 Dec 2026.
 
-Miss Lightbeam is a psytrance and techno artist based in United Kingdom, with 10 gigs on soundcheck across Bristol and London. Often billed alongside Psibindi, Nikki S and Act One. Next up: Studio 338, London on Sat 7 Nov.
+Miss Lightbeam is a psytrance and techno artist based in United Kingdom, with 10 gigs on soundcheck across Bristol and London. Often billed alongside Psibindi, Nikki S and Act One. Next up: Basing House, London on Sat 19 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Studio 338 | London |
 | Sat, 19 Dec 2026 | Basing House | London |
 
 ## Recently played
 
+- Studio 338, London · Sat, 7 Nov 2026
 - Unit 58, London · Fri, 23 Oct 2026
 - The Trinity Centre, Bristol · Sat, 31 Jan 2026
 - Distillery N17, London · Sat, 6 Sept 2025
@@ -20,10 +20,9 @@ Miss Lightbeam is a psytrance and techno artist based in United Kingdom, with 10
 - Basing House, London · Sat, 15 Mar 2025
 - TBA - Secret location, East London, London · Sat, 23 Nov 2024
 - East London TBA, London · Sat, 11 May 2024
-- The Steel Yard, London · Fri, 17 Mar 2023
 
 ## Shares bills with
 
 Psibindi, Nikki S, Act One
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misslightbeam/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misslightbeam/)*

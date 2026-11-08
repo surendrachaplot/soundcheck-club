@@ -1,6 +1,6 @@
 # John Everett
 
-John Everett is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Outer Heaven, New York City on Fri, 20 Nov 2026.
+John Everett is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Outer Heaven, New York City on Fri, 20 Nov 2026.
 
 John Everett is a house and techno artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside Armii1n, Monk and Choukroun. Next up: Outer Heaven, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ John Everett is a house and techno artist based in United States of America, wit
 
 Armii1n, Monk (2), Choukroun
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johneverett/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/johneverett/)*

@@ -1,6 +1,6 @@
 # Lea Occhi
 
-Lea Occhi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
+Lea Occhi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Brussels, Brussels on Sat, 21 Nov 2026.
 
 Lea Occhi is a techno and house artist based in France, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Amotik, Lobster (NL) and Toscan Haas. Next up: TBA - Brussels, Brussels on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ Lea Occhi is a techno and house artist based in France, with 213 gigs on soundch
 
 Amotik, Lobster (NL), Toscan Haas
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leaocchi/)*

@@ -1,6 +1,6 @@
 # Henry Neely
 
-Henry Neely is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Open Air Club, New York City on Thu, 19 Nov 2026.
+Henry Neely is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Open Air Club, New York City on Thu, 19 Nov 2026.
 
 Henry Neely is a house and deep house artist, with 8 gigs on soundcheck across Austin and New York City. Often billed alongside Antiics, Artek and Francesca Lombardo. Next up: Open Air Club, New York City on Thu 19 Nov.
 
@@ -24,4 +24,4 @@ Henry Neely is a house and deep house artist, with 8 gigs on soundcheck across A
 
 Antiics, Artek, Francesca Lombardo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henryneely/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/henryneely/)*

@@ -1,8 +1,8 @@
 # Weval
 
-Weval is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Centre Point, Dublin on Fri, 20 Nov 2026.
+Weval is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Centre Point, Dublin on Fri, 20 Nov 2026.
 
-Weval is a house and electro artist based in Netherlands, with 63 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 26 more. Often billed alongside Ross From Friends, Actress and CHRIS STASSY. Next up: Centre Point, Dublin on Fri 20 Nov.
+Weval is a house and electro artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangalore and 27 more. Often billed alongside Ross From Friends, Actress and CHRIS STASSY. Next up: Centre Point, Dublin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Weval is a house and electro artist based in Netherlands, with 63 gigs on soundc
 | Fri, 20 Nov 2026 | Centre Point | Dublin |
 | Fri, 27 Nov 2026 | Mezz | Netherlands |
 | Sat, 28 Nov 2026 | Radio Radio | Amsterdam |
+| Sat, 5 Dec 2026 | TBA - Foothills of Nandi, Karahalli | Bangalore |
 | Fri, 18 Dec 2026 | Fuse | Brussels |
 
 ## Recently played
@@ -28,4 +29,4 @@ Weval is a house and electro artist based in Netherlands, with 63 gigs on soundc
 
 Ross From Friends, Actress, CHRIS STASSY
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weval/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/weval/)*

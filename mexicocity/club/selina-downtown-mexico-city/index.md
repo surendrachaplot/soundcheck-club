@@ -1,6 +1,6 @@
 # Selina Downtown Mexico City
 
-Selina Downtown Mexico City is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Combo Loco Musica" on Thu, 12 Nov 2026.
+Selina Downtown Mexico City is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Combo Loco Musica" on Thu, 12 Nov 2026.
 
 Selina Downtown Mexico City is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Selina Downtown Mexico City is a music venue in Mexico City listed on soundcheck
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Combo Loco Musica |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/selina-downtown-mexico-city/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/mexicocity/club/selina-downtown-mexico-city/)*

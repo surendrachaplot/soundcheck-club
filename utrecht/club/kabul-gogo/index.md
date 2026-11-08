@@ -1,6 +1,6 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "24 HOUR DUB" on Sat, 7 Nov 2026.
+KABUL à GoGo is a music venue in Utrecht with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "24 HOUR DUB" on Sat, 7 Nov 2026.
 
 KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 5 upcoming gigs, with line-ups including 36framez, Aba Shanti-I, Azu Tiwaline and Bours? and 2 more. See dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
@@ -18,4 +18,4 @@ KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 5 upcoming gigs,
 
 Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands, Utrecht
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/kabul-gogo/)*

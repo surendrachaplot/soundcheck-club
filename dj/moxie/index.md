@@ -1,6 +1,6 @@
 # Moxie
 
-Moxie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Plaza Mayor de El Poble Espanyol, Barcelona on Sat, 21 Nov 2026.
+Moxie is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Plaza Mayor de El Poble Espanyol, Barcelona on Sat, 21 Nov 2026.
 
 Moxie is a house and techno artist based in United Kingdom, with 205 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 59 more. Often billed alongside Leon Vynehall, Shanti Celeste and NIKS. Next up: Plaza Mayor de El Poble Espanyol, Barcelona on Sat 21 Nov.
 
@@ -30,4 +30,4 @@ Moxie is a house and techno artist based in United Kingdom, with 205 gigs on sou
 
 Leon Vynehall, Shanti Celeste, NIKS
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moxie/)*

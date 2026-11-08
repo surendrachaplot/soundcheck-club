@@ -1,6 +1,6 @@
 # Kazizi
 
-Kazizi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Zona Torrida, Okinawa on Fri, 27 Nov 2026.
+Kazizi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Zona Torrida, Okinawa on Fri, 27 Nov 2026.
 
 Kazizi is a house and techno artist based in Japan, with 7 gigs on soundcheck across Okinawa and Tokyo. Often billed alongside Cup & String, Ueno and CALPISS. Next up: Zona Torrida, Okinawa on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Kazizi is a house and techno artist based in Japan, with 7 gigs on soundcheck ac
 
 Cup & String, Ueno, CALPISS
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazizi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazizi/)*

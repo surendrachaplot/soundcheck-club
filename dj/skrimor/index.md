@@ -1,6 +1,6 @@
 # Skrimor
 
-Skrimor is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cross Club, Prague on Fri, 20 Nov 2026.
+Skrimor is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cross Club, Prague on Fri, 20 Nov 2026.
 
 Skrimor is a drum & bass and dubstep artist based in Poland, with 11 gigs on soundcheck across Athens, Cologne, Dresden and London and 4 more. Often billed alongside Neonlight, Phace and Shmido. Next up: Cross Club, Prague on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Skrimor is a drum & bass and dubstep artist based in Poland, with 11 gigs on sou
 
 Neonlight, Phace, Shmido
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skrimor/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skrimor/)*

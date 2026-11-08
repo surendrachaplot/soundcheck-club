@@ -1,6 +1,6 @@
 # Conducta
 
-Conducta is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Yes, Manchester on Thu, 19 Nov 2026.
+Conducta is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Yes, Manchester on Thu, 19 Nov 2026.
 
 Conducta is a garage and house artist based in United Kingdom, with 207 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 61 more. Often billed alongside Oppidan, Tim Reaper and Notion. Next up: Yes, Manchester on Thu 19 Nov.
 
@@ -29,4 +29,4 @@ Conducta is a garage and house artist based in United Kingdom, with 207 gigs on 
 
 Oppidan, Tim Reaper, Notion
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/conducta/)*

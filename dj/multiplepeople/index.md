@@ -1,6 +1,6 @@
 # Multiple People
 
-Multiple People is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Forestlimit, Tokyo on Fri, 4 Dec 2026.
+Multiple People is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Forestlimit, Tokyo on Fri, 4 Dec 2026.
 
 Multiple People is an experimental and ambient artist, with 15 gigs on soundcheck across Berlin, Brussels, London and Los Angeles and 3 more. Often billed alongside pollensource, Cwondo and Patch+. Next up: Forestlimit, Tokyo on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Multiple People is an experimental and ambient artist, with 15 gigs on soundchec
 
 pollensource, Cwondo, Patch+
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/multiplepeople/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/multiplepeople/)*

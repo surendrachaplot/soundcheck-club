@@ -1,6 +1,6 @@
 # Acid Boner
 
-Acid Boner is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Stereo, Glasgow on Thu, 26 Nov 2026.
+Acid Boner is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Stereo, Glasgow on Thu, 26 Nov 2026.
 
 Acid Boner is an acid and techno artist based in United Kingdom, with 33 gigs on soundcheck across Aberdeen, Barcelona, Dundee and Edinburgh and 2 more. Often billed alongside Illogical Operator, Cornetta and Is Kill. Next up: Stereo, Glasgow on Thu 26 Nov.
 
@@ -25,4 +25,4 @@ Acid Boner is an acid and techno artist based in United Kingdom, with 33 gigs on
 
 Illogical Operator, Cornetta, Is Kill
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidboner/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acidboner/)*

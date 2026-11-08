@@ -1,6 +1,6 @@
 # Eder Croket
 
-Eder Croket is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at berlinClub, Madrid on Sat, 14 Nov 2026.
+Eder Croket is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at berlinClub, Madrid on Sat, 14 Nov 2026.
 
 Eder Croket is a house and electronica artist based in Spain, with 37 gigs on soundcheck across Berlin and Madrid. Often billed alongside El cuerpo del Disco, Fer Xplosion and Fuentes-Guerra. Next up: berlinClub, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Eder Croket is a house and electronica artist based in Spain, with 37 gigs on so
 
 El cuerpo del Disco, Fer Xplosion, Fuentes-Guerra
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edercroket/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/edercroket/)*

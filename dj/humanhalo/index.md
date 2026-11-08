@@ -1,6 +1,6 @@
 # Human Halo
 
-Human Halo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
+Human Halo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Next Clubbing, Madrid on Sat, 28 Nov 2026.
 
 Human Halo is a house and techno artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside Giorgio Robles, Vincent Giumelli and Elop. Next up: Next Clubbing, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Human Halo is a house and techno artist based in Spain, with 12 gigs on soundche
 
 Giorgio Robles, Vincent Giumelli, Elop
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanhalo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanhalo/)*

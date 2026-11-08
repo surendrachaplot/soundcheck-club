@@ -1,6 +1,6 @@
 # AC (dot robot)
 
-AC (dot robot) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Unit 58, London on Fri, 18 Dec 2026.
+AC (dot robot) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Unit 58, London on Fri, 18 Dec 2026.
 
 AC (dot robot) is a techno and trance artist based in China, with 32 gigs on soundcheck across Chengdu, Krakow, London and Paris and 3 more. Often billed alongside it_dont_Matt.er, pa de haan. and Morpheus. Next up: Unit 58, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ AC (dot robot) is a techno and trance artist based in China, with 32 gigs on sou
 
 it_dont_Matt.er, pa de haan., Morpheus
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acdotrobot/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/acdotrobot/)*

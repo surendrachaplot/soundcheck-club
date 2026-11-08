@@ -1,14 +1,13 @@
 # Theo Parrish
 
-Theo Parrish is a House and Funk / Soul artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Frankhan Selectist, Istanbul on Sat, 7 Nov 2026.
+Theo Parrish is a House and Funk / Soul artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Solotech Studios, Los Angeles on Thu, 12 Nov 2026.
 
-Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Frankhan Selectist, Istanbul on Sat 7 Nov.
+Theo Parrish is a house and funk / soul artist based in United States of America, with 136 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 35 more. Often billed alongside Avalon Emerson, Moodymann and Batu. Next up: Solotech Studios, Los Angeles on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Frankhan Selectist | Istanbul |
 | Thu, 12 Nov 2026 | Solotech Studios | Los Angeles |
 | Fri, 13 Nov 2026 | TBA | Los Angeles |
 | Sun, 15 Nov 2026 | Audio SF | San Francisco/Oakland |
@@ -22,6 +21,7 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 
 ## Recently played
 
+- Frankhan Selectist, Istanbul · Sat, 7 Nov 2026
 - Basic Club, Naples · Sat, 31 Oct 2026
 - Lingotto Fiere, Turin · Thu, 29 Oct 2026
 - The White Hotel, Manchester · Fri, 23 Oct 2026
@@ -29,10 +29,9 @@ Theo Parrish is a house and funk / soul artist based in United States of America
 - Empire Polo Club, Palm-springs · Sat, 10 Oct 2026
 - Part Time Lover Hifi, San Diego · Fri, 2 Oct 2026
 - TBA - Theo Parrish Location, Los Angeles · Sun, 27 Sept 2026
-- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Avalon Emerson, Moodymann, Batu
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theoparrish/)*

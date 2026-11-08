@@ -1,6 +1,6 @@
 # Carole Fe
 
-Carole Fe is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Miniwax, Paris on Sun, 8 Nov 2026.
+Carole Fe is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Miniwax, Paris on Sun, 8 Nov 2026.
 
 Carole Fe is a house and electro artist based in France, with 13 gigs on soundcheck across Paris. Often billed alongside DJ Sundae, Gabbor and Adam Spielman. Next up: Miniwax, Paris on Sun 8 Nov.
 
@@ -26,4 +26,4 @@ Carole Fe is a house and electro artist based in France, with 13 gigs on soundch
 
 DJ Sundae, Gabbor, Adam Spielman
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carolefe/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/carolefe/)*

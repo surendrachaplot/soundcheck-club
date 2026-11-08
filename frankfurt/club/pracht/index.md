@@ -1,14 +1,13 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "PrachtNACHT with ELIF, Dario Milkovic, THYS B2B Corios · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘" on Sat, 7 Nov 2026.
+Pracht is a music venue in Frankfurt with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "feierabend. X BARGROOVES with Biagio Sibilla" on Thu, 12 Nov 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 10 upcoming gigs, with line-ups including Andrale, Animal Trainer, Benja Asima and Biagio Sibilla and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 9 upcoming gigs, with line-ups including Andrale, Animal Trainer, Benja Asima and Biagio Sibilla and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | PrachtNACHT with ELIF, Dario Milkovic, THYS B2B Corios · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘 | Corios, Dario Milkovic, ELIF, THYS (2) |
 | Thu, 12 Nov 2026 | feierabend. X BARGROOVES with Biagio Sibilla | Biagio Sibilla |
 | Fri, 13 Nov 2026 | Pracht PRES. with RED GROOVE SYSTEM, Chris Beulich & Max Reggiannini | Chris Beulich, Max Reggiannini, RED GROOVE SYSTEM |
 | Sat, 14 Nov 2026 | PrachtNACHT with MARA BRAVO, Claudius & NØAH · 𝗧𝗜𝗖𝗞𝗘𝗧𝗦 𝗢𝗡 𝗦𝗔𝗟𝗘 | Claudius (DE), MARA BRAVO, NØAH |
@@ -23,4 +22,4 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 10 upcoming gigs, wit
 
 Niddastr. 54, 60327 Frankfurt am Main, Germany, Frankfurt
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/frankfurt/club/pracht/)*

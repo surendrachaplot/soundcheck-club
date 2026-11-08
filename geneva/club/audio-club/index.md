@@ -1,14 +1,13 @@
 # Audio Club
 
-Audio Club is a music venue in Geneva with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "BRAXE + FALCON · DJ Reas · DEAF MUTE · KAIZERSOZE" on Sat, 7 Nov 2026.
+Audio Club is a music venue in Geneva with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "MELOKO · Loulou Ferrari · Several Definitions" on Fri, 13 Nov 2026.
 
-Audio Club is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, with line-ups including Alan Braxe, Andrea Oliva, Black Loops and Chloe Martinez and 2 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
+Audio Club is a music venue in Geneva listed on soundcheck. 6 upcoming gigs, with line-ups including Andrea Oliva, Black Loops, Chloe Martinez and DJ Tennis and 2 more. See dates, start times and who's playing. Boissonnas 20,  1227 Les Acacias - Genève.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | BRAXE + FALCON · DJ Reas · DEAF MUTE · KAIZERSOZE | Alan Braxe, DJ F16 Falcon, DJ Reas |
 | Fri, 13 Nov 2026 | MELOKO · Loulou Ferrari · Several Definitions | Loulou Ferrari, Melokolektiv, Several Definitions |
 | Sat, 14 Nov 2026 | Andrea Oliva · TWOFORALL · ASTRAZUL · RIMBU · JON CERUTTI | Andrea Oliva, Rimbu (CH) |
 | Fri, 20 Nov 2026 | Stephan Bodzin Live · CHLOÉ MARTINEZ · ENAH | Chloe Martinez, Stephan Bodzin |
@@ -20,4 +19,4 @@ Audio Club is a music venue in Geneva listed on soundcheck. 7 upcoming gigs, wit
 
 Boissonnas 20,  1227 Les Acacias - Genève, Geneva
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/geneva/club/audio-club/)*

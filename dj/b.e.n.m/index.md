@@ -1,6 +1,6 @@
 # b.e.n.m
 
-b.e.n.m is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
+b.e.n.m is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sensorium, Berlin on Wed, 16 Dec 2026.
 
 b.e.n.m is a tech house and techno artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Vantavision, Ankit and Bee Lincoln. Next up: Sensorium, Berlin on Wed 16 Dec.
 
@@ -21,4 +21,4 @@ b.e.n.m is a tech house and techno artist based in Germany, with 5 gigs on sound
 
 Vantavision, Ankit, Bee Lincoln
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.e.n.m/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/b.e.n.m/)*

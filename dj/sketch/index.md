@@ -1,6 +1,6 @@
 # SKETCH
 
-SKETCH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Autumn Three, London on Sun, 29 Nov 2026.
+SKETCH is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Autumn Three, London on Sun, 29 Nov 2026.
 
 SKETCH is a techno and house artist based in United Kingdom, with 14 gigs on soundcheck across Bangkok, Bristol, London and Singapore. Often billed alongside Al Wootton, Aletha and Boulderhead. Next up: Autumn Three, London on Sun 29 Nov.
 
@@ -25,4 +25,4 @@ SKETCH is a techno and house artist based in United Kingdom, with 14 gigs on sou
 
 Al Wootton, Aletha, Boulderhead
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sketch/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sketch/)*

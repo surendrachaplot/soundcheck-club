@@ -1,6 +1,6 @@
 # DJ Syncbutton
 
-DJ Syncbutton is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Dojo Boutique Club, Budapest on Fri, 20 Nov 2026.
+DJ Syncbutton is a House and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dojo Boutique Club, Budapest on Fri, 20 Nov 2026.
 
 DJ Syncbutton is a house and ebm artist based in Hungary, with 22 gigs on soundcheck across Budapest. Often billed alongside Sobek, Arash Ete and Galactic Jackson. Next up: Dojo Boutique Club, Budapest on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ DJ Syncbutton is a house and ebm artist based in Hungary, with 22 gigs on soundc
 
 Sobek, Arash Ete, Galactic Jackson
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsyncbutton/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsyncbutton/)*

@@ -1,6 +1,6 @@
 # AB
 
-AB is a Dancehall and Classical artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Noce KRK, Krakow on Fri, 18 Dec 2026.
+AB is a Dancehall and Classical artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Noce KRK, Krakow on Fri, 18 Dec 2026.
 
 AB is a dancehall and classical artist based in United States of America, with 18 gigs on soundcheck across Krakow, Kyoto, Mexico City and Toronto. Often billed alongside Ferraz, Alacrán del Amor and Bastian Bell. Next up: Noce KRK, Krakow on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ AB is a dancehall and classical artist based in United States of America, with 1
 
 Ferraz, Alacrán del Amor, Bastian Bell
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ab/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ab/)*

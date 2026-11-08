@@ -1,14 +1,13 @@
 # Andy Martin
 
-Andy Martin is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Zoo, Geneva on Sat, 7 Nov 2026.
+Andy Martin is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at UMI, Brussels on Sat, 14 Nov 2026.
 
-Andy Martin is a techno and house artist based in Mexico, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Niño Arbol, Richard Akingbehin and Alarico. Next up: Zoo, Geneva on Sat 7 Nov.
+Andy Martin is a techno and house artist based in Mexico, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 38 more. Often billed alongside Niño Arbol, Richard Akingbehin and Alarico. Next up: UMI, Brussels on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Zoo | Geneva |
 | Sat, 14 Nov 2026 | UMI | Brussels |
 | Fri, 20 Nov 2026 | Expo Santa Fe | Mexico City |
 | Sat, 28 Nov 2026 | TBA - Saint-Denis | Paris |
@@ -21,6 +20,7 @@ Andy Martin is a techno and house artist based in Mexico, with 109 gigs on sound
 
 ## Recently played
 
+- Zoo, Geneva · Sat, 7 Nov 2026
 - LAUT, Barcelona · Fri, 6 Nov 2026
 - The Love Inn, Bristol · Fri, 30 Oct 2026
 - Lofi, Amsterdam · Sun, 25 Oct 2026
@@ -28,10 +28,9 @@ Andy Martin is a techno and house artist based in Mexico, with 109 gigs on sound
 - Masada, Milan · Sat, 17 Oct 2026
 - Cadavra, Madrid · Fri, 16 Oct 2026
 - FOLD, London · Sat, 10 Oct 2026
-- Lux Fragil, Lisbon · Fri, 9 Oct 2026
 
 ## Shares bills with
 
 Niño Arbol, Richard Akingbehin, Alarico
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andymartin/)*

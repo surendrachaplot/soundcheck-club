@@ -1,18 +1,18 @@
 # Viels
 
-Viels is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Masada, Milan on Sat, 7 Nov 2026.
+Viels is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Masada, Milan on Sat, 5 Dec 2026.
 
-Viels is a techno and electronica artist based in Italy, with 58 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Münch, Outburst Knobs and Dixie. Next up: Masada, Milan on Sat 7 Nov.
+Viels is a techno and electronica artist based in Italy, with 58 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 15 more. Often billed alongside Münch, Outburst Knobs and Dixie. Next up: Masada, Milan on Sat 5 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Masada | Milan |
 | Sat, 5 Dec 2026 | Masada | Milan |
 
 ## Recently played
 
+- Masada, Milan · Sat, 7 Nov 2026
 - Lasociaciøn, Madrid · Fri, 30 Oct 2026
 - Circolo Amelia, Milan · Sat, 3 Oct 2026
 - Gare Porto, Porto · Fri, 31 Jul 2026
@@ -20,10 +20,9 @@ Viels is a techno and electronica artist based in Italy, with 58 gigs on soundch
 - Masada, Milan · Sat, 23 May 2026
 - Bodies in Space, Brussels · Sun, 3 May 2026
 - Masada, Milan · Sat, 25 Apr 2026
-- Masada, Milan · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 Münch, Outburst Knobs, Dixie
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viels-it/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/viels-it/)*

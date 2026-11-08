@@ -1,14 +1,13 @@
 # Arca
 
-Arca is a Experimental and Electronica artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+Arca is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Maravilla Studios, Mexico City on Sat, 28 Nov 2026.
 
-Arca is an experimental and electronica artist based in United States of America, with 37 gigs on soundcheck across Athens, Barcelona, Berlin and Buenos Aires and 15 more. Often billed alongside Nick León, Mica Levi and Juliana Huxtable. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
+Arca is an experimental and electronica artist based in United States of America, with 37 gigs on soundcheck across Athens, Barcelona, Berlin and Buenos Aires and 15 more. Often billed alongside Nick León, Mica Levi and Juliana Huxtable. Next up: Maravilla Studios, Mexico City on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Fira Barcelona | Barcelona |
 | Sat, 28 Nov 2026 | Maravilla Studios | Mexico City |
 | Sat, 5 Dec 2026 | Autódromo de Interlagos | Sao Paulo |
 | Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |
@@ -28,4 +27,4 @@ Arca is an experimental and electronica artist based in United States of America
 
 Nick León, Mica Levi, Juliana Huxtable
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arca/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arca/)*

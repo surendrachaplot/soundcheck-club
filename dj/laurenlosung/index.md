@@ -1,6 +1,6 @@
 # Lauren Lo Sung
 
-Lauren Lo Sung is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Telegraph Building, Belfast on Thu, 12 Nov 2026.
+Lauren Lo Sung is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Telegraph Building, Belfast on Thu, 12 Nov 2026.
 
 Lauren Lo Sung is a house and tech house artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 32 more. Often billed alongside Fabe, Luuk van Dijk and Prunk. Next up: The Telegraph Building, Belfast on Thu 12 Nov.
 
@@ -30,4 +30,4 @@ Lauren Lo Sung is a house and tech house artist based in United Kingdom, with 11
 
 Fabe, Luuk van Dijk, Prunk
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/laurenlosung/)*

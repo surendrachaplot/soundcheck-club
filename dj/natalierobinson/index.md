@@ -1,6 +1,6 @@
 # Natalie Robinson
 
-Natalie Robinson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
+Natalie Robinson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at OXI, Berlin on Sat, 21 Nov 2026.
 
 Natalie Robinson is a house and techno artist based in Germany, with 140 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 29 more. Often billed alongside Katy De Jesus, Naomi (Berlin) and Mike Starr. Next up: OXI, Berlin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Natalie Robinson is a house and techno artist based in Germany, with 140 gigs on
 
 Katy De Jesus, Naomi (Berlin), Mike Starr
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natalierobinson/)*

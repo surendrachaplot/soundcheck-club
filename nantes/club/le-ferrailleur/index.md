@@ -1,6 +1,6 @@
 # Le Ferrailleur
 
-Le Ferrailleur is a music venue in Nantes with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Cane Corso x Rayquaza: NYE" on Thu, 31 Dec 2026.
+Le Ferrailleur is a music venue in Nantes with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Cane Corso x Rayquaza: NYE" on Thu, 31 Dec 2026.
 
 Le Ferrailleur is a music venue in Nantes listed on soundcheck. 1 upcoming gig, with line-ups including bdstf and MARIAD. See dates, start times and who's playing. Quai des Antilles, 44200 Nantes, France.
 
@@ -14,4 +14,4 @@ Le Ferrailleur is a music venue in Nantes listed on soundcheck. 1 upcoming gig, 
 
 Quai des Antilles, 44200 Nantes, France, Nantes
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/le-ferrailleur/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/le-ferrailleur/)*

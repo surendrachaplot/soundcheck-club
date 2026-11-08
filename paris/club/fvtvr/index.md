@@ -1,15 +1,13 @@
 # FVTVR
 
-FVTVR is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Automatic x imagine FAMILY" on Fri, 6 Nov 2026.
+FVTVR is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Desert Land x Orange Crush invites Shonky, Naomi, Lernon" on Tue, 10 Nov 2026.
 
-FVTVR is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including Aline Brooklyn, ABI (FR), Automatic Writing and Black Loops and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
+FVTVR is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Black Loops, Blasha & Allatt, Chami and Claudio PRC and 2 more. See dates, start times and who's playing. 34 quai d'Austerlitz, 75013 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Automatic x imagine FAMILY | ABI (FR), Aline Brooklyn, Automatic Writing, Charonne, DJ Senc, El Hey, Francesco Del Garda, Fumiya Tanaka, Josepha, Krol, Marc Anthony Bowen, Marlie, Nesta, Quest (IT), Tau Car, Yamour |
-| Sat, 7 Nov 2026 | Fvtvr presents Regal, Inox Traxx & Propolys | Inox Traxx, Regal |
 | Tue, 10 Nov 2026 | Desert Land x Orange Crush invites Shonky, Naomi, Lernon | Naomi (1), Vernon |
 | Fri, 13 Nov 2026 | Fvtvr 001 — LABEL LAUNCH NIGHT | Ignez, Kian Gast, Mathys Lenne, Rebecca Delle Piane, Steve Bicknell, Tau Ceti |
 | Sat, 14 Nov 2026 | TRANSGENIK | Danilo Filipe, GI.O, Lilith, PETERBLUE |
@@ -22,4 +20,4 @@ FVTVR is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line
 
 34 quai d'Austerlitz, 75013 Paris, Paris
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/fvtvr/)*

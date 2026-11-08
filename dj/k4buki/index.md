@@ -1,6 +1,6 @@
 # K4BUKI
 
-K4BUKI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
+K4BUKI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ZEROTOKYO, Tokyo on Fri, 13 Nov 2026.
 
 K4BUKI is a techno and trance artist based in Japan, with 6 gigs on soundcheck across Tokyo. Often billed alongside CHIKA, Calavera and Kino Carey. Next up: ZEROTOKYO, Tokyo on Fri 13 Nov.
 
@@ -22,4 +22,4 @@ K4BUKI is a techno and trance artist based in Japan, with 6 gigs on soundcheck a
 
 CHIKA, Calavera, Kino Carey
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k4buki/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k4buki/)*

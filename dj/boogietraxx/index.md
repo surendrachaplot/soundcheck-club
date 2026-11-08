@@ -1,6 +1,6 @@
 # Boogietraxx
 
-Boogietraxx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Beaumont Studios, Vancouver on Sat, 20 Mar 2027.
+Boogietraxx is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Beaumont Studios, Vancouver on Sat, 20 Mar 2027.
 
 Boogietraxx is a house and disco artist based in United States of America, with 21 gigs on soundcheck across Austin, Mexico City, New York City and Seattle and 1 more. Often billed alongside JAKEGATEWOOD, Brett Johnson and Monsieur Van Pratt. Next up: The Beaumont Studios, Vancouver on Sat 20 Mar.
 
@@ -25,4 +25,4 @@ Boogietraxx is a house and disco artist based in United States of America, with 
 
 JAKEGATEWOOD, Brett Johnson, Monsieur Van Pratt
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boogietraxx/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boogietraxx/)*

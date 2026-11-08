@@ -1,6 +1,6 @@
 # Afem Syko
 
-Afem Syko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Valsemøllen, Bergen on Sat, 12 Dec 2026.
+Afem Syko is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Valsemøllen, Bergen on Sat, 12 Dec 2026.
 
 Afem Syko is a techno and trance artist based in Germany, with 201 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Atlanta and 65 more. Often billed alongside In Verruf, Johannes Schuster and Somewhen. Next up: Valsemøllen, Bergen on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Afem Syko is a techno and trance artist based in Germany, with 201 gigs on sound
 
 In Verruf, Johannes Schuster, Somewhen
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/afemsyko/)*

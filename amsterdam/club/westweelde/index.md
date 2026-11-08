@@ -1,15 +1,13 @@
 # WestWeelde
 
-WestWeelde is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Zwarte Liefde x WestWeelde" on Fri, 6 Nov 2026.
+WestWeelde is a music venue in Amsterdam with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "7 Vibes Journey in Amsterdam" on Sat, 14 Nov 2026.
 
-WestWeelde is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including Alec Dienaar, Analog Kitchen, Andhim and Boris Coelman and 2 more. See dates, start times and who's playing. Klönneplein 4.
+WestWeelde is a music venue in Amsterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Alec Dienaar, Analog Kitchen, Andhim and Boris Coelman and 2 more. See dates, start times and who's playing. Klönneplein 4.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Zwarte Liefde x WestWeelde |  |
-| Sat, 7 Nov 2026 | John Digweed - Bedrock | John Digweed |
 | Sat, 14 Nov 2026 | 7 Vibes Journey in Amsterdam | Ed Noodle, Mona Pirzad, VE/RA |
 | Fri, 20 Nov 2026 | SKDG WestWeelde - Moody Mehran, Lasse Top, Boris Coelman, Alec Dienaar | Alec Dienaar, Boris Coelman, Lasse Top, Moody Mehran |
 | Sat, 21 Nov 2026 | Komm Schon Alter - Andhim XL set | Andhim, Rose Ringed |
@@ -23,4 +21,4 @@ WestWeelde is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs,
 
 Klönneplein 4, Amsterdam
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/westweelde/)*

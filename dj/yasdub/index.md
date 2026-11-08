@@ -1,6 +1,6 @@
 # YASDUB
 
-YASDUB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Chika-Ikkai, Osaka on Fri, 13 Nov 2026.
+YASDUB is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Chika-Ikkai, Osaka on Fri, 13 Nov 2026.
 
 YASDUB is a house and techno artist based in Japan, with 35 gigs on soundcheck across Detroit, Kyoto, London and Osaka and 1 more. Often billed alongside CH.0, Bushmind and OG Militant B. Next up: Chika-Ikkai, Osaka on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ YASDUB is a house and techno artist based in Japan, with 35 gigs on soundcheck a
 
 CH.0, Bushmind, OG Militant B
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasdub/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yasdub/)*

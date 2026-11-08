@@ -1,13 +1,14 @@
 # kuniii
 
-kuniii is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Azumaya, Tokyo on Mon, 16 Nov 2026.
+kuniii is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Aoyama Hachi, Tokyo on Sat, 14 Nov 2026.
 
-kuniii is a house and techno artist based in Japan, with 35 gigs on soundcheck across Tokyo. Often billed alongside judgeman, SOGI and Aki Dolanikov. Next up: Azumaya, Tokyo on Mon 16 Nov.
+kuniii is a house and techno artist based in Japan, with 36 gigs on soundcheck across Tokyo. Often billed alongside judgeman, SOGI and Aki Dolanikov. Next up: Aoyama Hachi, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Aoyama Hachi | Tokyo |
 | Mon, 16 Nov 2026 | Azumaya | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ kuniii is a house and techno artist based in Japan, with 35 gigs on soundcheck a
 
 judgeman, SOGI, Aki Dolanikov
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniii/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kuniii/)*

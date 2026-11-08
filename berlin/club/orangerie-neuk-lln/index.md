@@ -1,14 +1,13 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "D'Frac mini Club Night" on Sat, 7 Nov 2026.
+Orangerie Neukölln is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Naked Grapes with Ru.i" on Thu, 12 Nov 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including aaandscha, Bijon, Dario Radisic and Green Ink and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including aaandscha, Bijon, Dario Radisic and Green Ink and 2 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | D'Frac mini Club Night | Olsvangèr |
 | Thu, 12 Nov 2026 | Naked Grapes with Ru.i | Ru.i |
 | Fri, 13 Nov 2026 | Sound Canteen with Dario Radišić | Dario Radisic |
 | Sat, 14 Nov 2026 | Flirt Records x Emotional Support Dog | Mystigrix, Stevo Bajski |
@@ -23,4 +22,4 @@ Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 10 upcoming
 
 Schierker Str. 8, 12051 Berlin, Germany, Berlin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/orangerie-neuk-lln/)*

@@ -1,14 +1,13 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Rhythm, Toronto on Sat, 7 Nov 2026.
+Tomoki Tamura is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Galerie Kurzweil, Darmstadt on Fri, 13 Nov 2026.
 
-Tomoki Tamura is a house and techno artist based in Germany, with 120 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Baltimore and 45 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Rhythm, Toronto on Sat 7 Nov.
+Tomoki Tamura is a house and techno artist based in Germany, with 120 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Baltimore and 45 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: Galerie Kurzweil, Darmstadt on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Rhythm | Toronto |
 | Fri, 13 Nov 2026 | Galerie Kurzweil | Darmstadt |
 | Sat, 14 Nov 2026 | Opium Botanical Garden | Dublin |
 | Sat, 12 Dec 2026 | Cobalt Studios | Newcastle |
@@ -17,6 +16,7 @@ Tomoki Tamura is a house and techno artist based in Germany, with 120 gigs on so
 
 ## Recently played
 
+- Rhythm, Toronto · Sat, 7 Nov 2026
 - TBA, San Diego · Fri, 6 Nov 2026
 - TBA - Outdoor Location: 1926 E 7th Pl, Los Angeles, CA 90021, Los Angeles · Sun, 1 Nov 2026
 - Flash, Washington DC · Sat, 31 Oct 2026
@@ -24,10 +24,9 @@ Tomoki Tamura is a house and techno artist based in Germany, with 120 gigs on so
 - Read The Room, Atlanta · Thu, 29 Oct 2026
 - Klaproos, Amsterdam · Sat, 24 Oct 2026
 - Benelux BAR, Amsterdam · Thu, 22 Oct 2026
-- Benelux BAR, Amsterdam · Thu, 22 Oct 2026
 
 ## Shares bills with
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

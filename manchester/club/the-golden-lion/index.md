@@ -1,6 +1,6 @@
 # The Golden Lion
 
-The Golden Lion is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Zukunft X Optimo at Golden Lion Todmorden" on Fri, 13 Nov 2026.
+The Golden Lion is a music venue in Manchester with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Zukunft X Optimo at Golden Lion Todmorden" on Fri, 13 Nov 2026.
 
 The Golden Lion is a music venue in Manchester listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Dallas, Balrog, Cio (Spezialmaterial) and Danny Howells and 2 more. See dates, start times and who's playing. Fielden Square, Todmorden, OL14 6LZ, United Kingdom.
 
@@ -21,4 +21,4 @@ The Golden Lion is a music venue in Manchester listed on soundcheck. 8 upcoming 
 
 Fielden Square, Todmorden, OL14 6LZ, United Kingdom, Manchester
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/the-golden-lion/)*

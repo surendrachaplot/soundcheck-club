@@ -1,6 +1,6 @@
 # Yess
 
-Yess is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 12 Nov 2026.
+Yess is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at ZEROTOKYO, Tokyo on Thu, 12 Nov 2026.
 
 Yess is a bass and garage artist based in Japan, with 10 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside SAKO, IYO and MOOTOE. Next up: ZEROTOKYO, Tokyo on Thu 12 Nov.
 
@@ -26,4 +26,4 @@ Yess is a bass and garage artist based in Japan, with 10 gigs on soundcheck acro
 
 SAKO, IYO (1), MOOTOE
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yess/)*

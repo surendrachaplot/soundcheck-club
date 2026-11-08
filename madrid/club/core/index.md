@@ -1,14 +1,13 @@
 # Core
 
-Core is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Core con Hanna, OLI BEDIA y Alba Ruptura" on Sat, 7 Nov 2026.
+Core is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Spook feat. KIWITEK23 + Biondo" on Thu, 12 Nov 2026.
 
-Core is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including AddlyMuff, ALOT, Varo and Baby Pantera and 2 more. See dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
+Core is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including AddlyMuff, ALOT, Varo and Baby Pantera and 2 more. See dates, start times and who's playing. Madrid, 28013, Calle de Tetuán, 27, España.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Core con Hanna, OLI BEDIA y Alba Ruptura | OLI BEDIA |
 | Thu, 12 Nov 2026 | Spook feat. KIWITEK23 + Biondo | Biondo |
 | Fri, 13 Nov 2026 | Faraday con neumoniia, Lucía Reina, Michi, Flamenk | Michi, neumoniia |
 | Sat, 14 Nov 2026 | El Ático con KATIA, Varo y Nachine | KATIA, Nachine, Varo |
@@ -23,4 +22,4 @@ Core is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with lin
 
 Madrid, 28013, Calle de Tetuán, 27, España, Madrid
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/core/)*

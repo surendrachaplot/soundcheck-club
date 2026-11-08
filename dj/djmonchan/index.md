@@ -1,6 +1,6 @@
 # DJ Monchan
 
-DJ Monchan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Socore Factory, Osaka on Thu, 10 Dec 2026.
+DJ Monchan is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Socore Factory, Osaka on Thu, 10 Dec 2026.
 
 DJ Monchan is a house and deep house artist based in Japan, with 14 gigs on soundcheck across Osaka and Tokyo. Often billed alongside AKIHIRO, COTA and For Future's Sake. Next up: Socore Factory, Osaka on Thu 10 Dec.
 
@@ -25,4 +25,4 @@ DJ Monchan is a house and deep house artist based in Japan, with 14 gigs on soun
 
 AKIHIRO, COTA, For Future's Sake
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmonchan/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmonchan/)*

@@ -1,14 +1,13 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "HORN x HOTBOXX: A Raw Hypnotic Techno Hardgroove Cage Rave - invites Yrsen" on Sat, 7 Nov 2026.
+The Grand Social is a music venue in Dublin with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "MGNA Crrrta & ideasforconversations" on Sun, 8 Nov 2026.
 
-The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming gigs, with line-ups including Connect, Henri Bergmann and Yrsen. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
+The Grand Social is a music venue in Dublin listed on soundcheck. 6 upcoming gigs, with line-ups including Connect and Henri Bergmann. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | HORN x HOTBOXX: A Raw Hypnotic Techno Hardgroove Cage Rave - invites Yrsen | Yrsen |
 | Sun, 8 Nov 2026 | MGNA Crrrta & ideasforconversations |  |
 | Thu, 12 Nov 2026 | End of an Error |  |
 | Fri, 13 Nov 2026 | The Daft Punk Experience |  |
@@ -20,4 +19,4 @@ The Grand Social is a music venue in Dublin listed on soundcheck. 7 upcoming gig
 
 35 Lower Liffey Street, Dublin, Ireland, Dublin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/the-grand-social/)*

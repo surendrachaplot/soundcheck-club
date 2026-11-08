@@ -1,6 +1,6 @@
 # harold. (ES)
 
-harold. (ES) is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Casabanchel, Madrid on Fri, 11 Dec 2026.
+harold. (ES) is a Dubstep and Dub artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Casabanchel, Madrid on Fri, 11 Dec 2026.
 
 harold. (ES) is a dubstep and dub artist based in Spain, with 6 gigs on soundcheck across Berlin and Madrid. Often billed alongside AERAE, Andrae Durden and Arthur Baron. Next up: Casabanchel, Madrid on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ harold. (ES) is a dubstep and dub artist based in Spain, with 6 gigs on soundche
 
 AERAE, Andrae Durden, Arthur Baron
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harold.es/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/harold.es/)*

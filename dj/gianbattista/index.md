@@ -1,6 +1,6 @@
 # Gian Battista
 
-Gian Battista is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Gian Battista is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Gian Battista is a techno and tech house artist based in Italy, with 5 gigs on soundcheck across Amsterdam and Sao Paulo. Often billed alongside Jaspol, Boris and CARISTA. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -22,4 +22,4 @@ Gian Battista is a techno and tech house artist based in Italy, with 5 gigs on s
 
 Jaspol, Boris, CARISTA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gianbattista/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gianbattista/)*

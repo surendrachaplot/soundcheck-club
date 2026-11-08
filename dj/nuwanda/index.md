@@ -1,6 +1,6 @@
 # Nuwanda
 
-Nuwanda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
+Nuwanda is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Twentyone, Florence on Thu, 19 Nov 2026.
 
 Nuwanda is a house and techno artist based in South Korea, with 6 gigs on soundcheck across Florence, Mexico City and Seoul. Often billed alongside AGELESS, Bartolomeo and DJ Funny. Next up: Club Twentyone, Florence on Thu 19 Nov.
 
@@ -22,4 +22,4 @@ Nuwanda is a house and techno artist based in South Korea, with 6 gigs on soundc
 
 AGELESS, Bartolomeo, DJ Funny
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuwanda/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuwanda/)*

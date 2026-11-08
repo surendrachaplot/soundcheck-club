@@ -1,14 +1,13 @@
 # renae
 
-renae is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "renae: Angus b2b Rikki" on Sat, 7 Nov 2026.
+renae is a music venue in Manchester with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Golden Ratio Frequencies: Sonic Meditation" on Sun, 8 Nov 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including atalaya, Ayy Den, BANSHII and Bruno Bellissimo and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 10 upcoming gigs, with line-ups including atalaya, Ayy Den, BANSHII and Bruno Bellissimo and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | renae: Angus b2b Rikki |  |
 | Sun, 8 Nov 2026 | Golden Ratio Frequencies: Sonic Meditation |  |
 | Sun, 8 Nov 2026 | renae: Mudline |  |
 | Fri, 13 Nov 2026 | The Other People Place: Polyamore | Bruno Bellissimo, Camilla Reghenzi |
@@ -18,9 +17,10 @@ renae is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, wit
 | Sat, 28 Nov 2026 | T.O.P.P: Just 4 U with DR MYSTERY & KD22LR all night  | DR MYSTERY, KD22LR |
 | Wed, 2 Dec 2026 | renae x Saturama presents Room To: Immerse | Werkha |
 | Fri, 4 Dec 2026 | renae labs: Neffa-T Masterclass | Neffa-T |
+| Fri, 18 Dec 2026 | Migrant Melodics | Ayy Den, DANCING WITH STANLEY, DR MYSTERY, atalaya |
 
 ## Address
 
 45-47 Thomas St, Manchester M4 1NA, Manchester
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/renae/)*

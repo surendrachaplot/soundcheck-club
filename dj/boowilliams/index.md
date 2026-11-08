@@ -1,6 +1,6 @@
 # Boo Williams
 
-Boo Williams is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Podlasie Club, Chicago on Sat, 21 Nov 2026.
+Boo Williams is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Podlasie Club, Chicago on Sat, 21 Nov 2026.
 
 Boo Williams is a house and deep house artist based in United States of America, with 31 gigs on soundcheck across Austin, Belgrade, Berlin and Chicago and 3 more. Often billed alongside Glenn Underground, CTRLZORA and Mike Dunn. Next up: Podlasie Club, Chicago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Boo Williams is a house and deep house artist based in United States of America,
 
 Glenn Underground, CTRLZORA, Mike Dunn
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boowilliams/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/boowilliams/)*

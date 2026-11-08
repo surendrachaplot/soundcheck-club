@@ -1,6 +1,6 @@
 # B2 Rīga
 
-B2 Rīga is a music venue in Riga with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "MICRONICA 9TH ANNIVERSARY - Per Hammar [Dirty Hands, SWE]" on Fri, 13 Nov 2026.
+B2 Rīga is a music venue in Riga with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "MICRONICA 9TH ANNIVERSARY - Per Hammar [Dirty Hands, SWE]" on Fri, 13 Nov 2026.
 
 B2 Rīga is a music venue in Riga listed on soundcheck. 5 upcoming gigs, with line-ups including Aeden, Barseghian, Brenna Ryan and D I N and 2 more. See dates, start times and who's playing. Bruņinieku iela 2, Rīga.
 
@@ -18,4 +18,4 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 5 upcoming gigs, with li
 
 Bruņinieku iela 2, Rīga, Riga
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/riga/club/b2-r-ga/)*

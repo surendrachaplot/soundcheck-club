@@ -1,6 +1,6 @@
 # Marco Maldarella
 
-Marco Maldarella is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
+Marco Maldarella is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
 
 Marco Maldarella is a techno and trance artist based in Italy, with 51 gigs on soundcheck across Amsterdam, Athens, Berlin and Bologna and 16 more. Often billed alongside Abo Abo, Woody92 and Amanita. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ Marco Maldarella is a techno and trance artist based in Italy, with 51 gigs on s
 
 Abo Abo, Woody92, Amanita
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcomaldarella/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marcomaldarella/)*

@@ -1,6 +1,6 @@
 # PANA (Ger)
 
-PANA (Ger) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
+PANA (Ger) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
 PANA (Ger) is a techno and trance artist based in Germany, with 14 gigs on soundcheck across Basel, Berlin, Cologne and Karlsruhe and 3 more. Often billed alongside DJ Cringey, Athina and Paraçek. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ PANA (Ger) is a techno and trance artist based in Germany, with 14 gigs on sound
 
 DJ Cringey, Athina, Paraçek
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pana-ger/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pana-ger/)*

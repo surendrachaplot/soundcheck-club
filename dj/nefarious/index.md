@@ -1,6 +1,6 @@
 # NEFARIOUS
 
-NEFARIOUS is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Kolokotroni Athens Center, Athens on Sun, 8 Nov 2026.
+NEFARIOUS is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Kolokotroni Athens Center, Athens on Sun, 8 Nov 2026.
 
 NEFARIOUS is a techno artist based in Greece, with 11 gigs on soundcheck across Athens, Manchester and Prague. Often billed alongside Dom K, 16G. and Counterstrike. Next up: TBA - Kolokotroni Athens Center, Athens on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ NEFARIOUS is a techno artist based in Greece, with 11 gigs on soundcheck across 
 
 Dom K, 16G., Counterstrike
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nefarious/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nefarious/)*

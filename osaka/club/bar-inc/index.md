@@ -1,14 +1,13 @@
 # BAR Inc
 
-BAR Inc is a music venue in Osaka with 23 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "WEEKEND SELECTERS -Darker Than Wax 15th Anniv.-" on Sat, 7 Nov 2026.
+BAR Inc is a music venue in Osaka with 22 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "HOLIDAY ORDERS" on Sun, 8 Nov 2026.
 
-BAR Inc is a music venue in Osaka listed on soundcheck. 23 upcoming gigs, with line-ups including An-i, AOKI takamasa, CH.0 and CRAZY-T and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
+BAR Inc is a music venue in Osaka listed on soundcheck. 22 upcoming gigs, with line-ups including An-i, AOKI takamasa, CH.0 and CRAZY-T and 2 more. See dates, start times and who's playing. B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | WEEKEND SELECTERS -Darker Than Wax 15th Anniv.- | Daryl Knows, Dexter Colt, Marco Weibel |
 | Sun, 8 Nov 2026 | HOLIDAY ORDERS | Junki Akutagawa |
 | Mon, 9 Nov 2026 | WEEKDAY ORDERS | MAX PELA |
 | Wed, 11 Nov 2026 | WEEKDAY ORDERS |  |
@@ -18,9 +17,10 @@ BAR Inc is a music venue in Osaka listed on soundcheck. 23 upcoming gigs, with l
 | Sun, 15 Nov 2026 | HOLIDAY ORDERS | Jubilee |
 | Wed, 18 Nov 2026 | WEEKDAY ORDERS |  |
 | Fri, 20 Nov 2026 | WEEKEND SELECTERS | MUSCLECARS |
+| Sat, 21 Nov 2026 | Weekend Selectors | Ground (1) |
 
 ## Address
 
 B1F, 3-10-19 Minamisenba, Chuo-ku, Osaka 542-0081, Japan, Osaka
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/bar-inc/)*

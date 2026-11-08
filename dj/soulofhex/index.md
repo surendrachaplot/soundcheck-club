@@ -1,6 +1,6 @@
 # Soul Of Hex
 
-Soul Of Hex is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fünk, Mexico City on Fri, 27 Nov 2026.
+Soul Of Hex is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fünk, Mexico City on Fri, 27 Nov 2026.
 
 Soul Of Hex is a house and disco artist based in Mexico, with 35 gigs on soundcheck across Guadalajara, Los Angeles, Mexico City and Paris and 4 more. Often billed alongside Alena Vox, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Fünk, Mexico City on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Soul Of Hex is a house and disco artist based in Mexico, with 35 gigs on soundch
 
 Alena Vox, Duke Skylocker (Disco Dust), Miss Voltaghe
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulofhex/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/soulofhex/)*

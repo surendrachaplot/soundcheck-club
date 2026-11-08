@@ -1,6 +1,6 @@
 # Avve
 
-Avve is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ALTER EGO: AFTER HOURS" on Fri, 20 Nov 2026.
+Avve is a music venue in Bangkok with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "ALTER EGO: AFTER HOURS" on Fri, 20 Nov 2026.
 
 Avve is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with line-ups including Em-J, Jorgium, NEBESNY and POKOLENIE MIKROZAYMOV and 1 more. See dates, start times and who's playing. 25 Edison alley.
 
@@ -15,4 +15,4 @@ Avve is a music venue in Bangkok listed on soundcheck. 2 upcoming gigs, with lin
 
 25 Edison alley, Bangkok
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/avve/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bangkok/club/avve/)*

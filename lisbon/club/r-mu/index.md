@@ -1,6 +1,6 @@
 # Rūmu
 
-Rūmu is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ROOM: Carpet & Friends with Alexis Perdomo (Emile Club / UY)" on Wed, 11 Nov 2026.
+Rūmu is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "ROOM: Carpet & Friends with Alexis Perdomo (Emile Club / UY)" on Wed, 11 Nov 2026.
 
 Rūmu is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including Andrade, Sakro and Stereociti. See dates, start times and who's playing. R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal.
 
@@ -16,4 +16,4 @@ Rūmu is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with lin
 
 R. Nova da Trindade 5G, 1200-445 Lisboa, Portugal, Lisbon
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/lisbon/club/r-mu/)*

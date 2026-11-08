@@ -1,6 +1,6 @@
 # Saint Bernard
 
-Saint Bernard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+Saint Bernard is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
 Saint Bernard is a house and techno artist based in China, with 45 gigs on soundcheck across Hong Kong and Taipei. Often billed alongside Anyss, Berthom and DJ Kirby. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Saint Bernard is a house and techno artist based in China, with 45 gigs on sound
 
 Anyss, Berthom, DJ Kirby
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintbernard/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saintbernard/)*

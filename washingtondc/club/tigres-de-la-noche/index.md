@@ -1,14 +1,13 @@
 # Tigres de la Noche
 
-Tigres de la Noche is a music venue in Washington DC with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Nü Androids presents SünDown: Joss Dean" on Sat, 7 Nov 2026.
+Tigres de la Noche is a music venue in Washington DC with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Nü Androids presents: AEREA" on Thu, 12 Nov 2026.
 
-Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 11 upcoming gigs, with line-ups including AEREA, Durante, Joss Dean and RUZE and 1 more. See dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
+Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 10 upcoming gigs, with line-ups including AEREA, Durante, RUZE and William Kiss. See dates, start times and who's playing. Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Nü Androids presents SünDown: Joss Dean | Joss Dean |
 | Thu, 12 Nov 2026 | Nü Androids presents: AEREA | AEREA |
 | Fri, 13 Nov 2026 | Nü Androids presents: Sem Jacobs |  |
 | Fri, 13 Nov 2026 | Space Between 006 with Talmont, Blindstares |  |
@@ -18,9 +17,10 @@ Tigres de la Noche is a music venue in Washington DC listed on soundcheck. 11 up
 | Fri, 20 Nov 2026 | Nü Androids presents: RUZE | RUZE |
 | Sat, 21 Nov 2026 | Nü Androids presents: William Kiss | William Kiss |
 | Sat, 21 Nov 2026 | Nü Androids presents: 49th and Main |  |
+| Sat, 30 Jan 2027 | Nü Androids presents: Durante | Durante |
 
 ## Address
 
 Alley Entrance, 405 Morse Street Northeast 2nd Floor, Washington, DC 20002, USA, Washington DC
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/tigres-de-la-noche/)*

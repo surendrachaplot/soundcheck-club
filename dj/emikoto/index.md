@@ -1,6 +1,6 @@
 # Emi Koto
 
-Emi Koto is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cadavra, Madrid on Sat, 14 Nov 2026.
+Emi Koto is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Cadavra, Madrid on Sat, 14 Nov 2026.
 
 Emi Koto is an electronica and house artist based in Spain, with 25 gigs on soundcheck across Madrid. Often billed alongside Certain People, Le Nomad and Arque. Next up: Cadavra, Madrid on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Emi Koto is an electronica and house artist based in Spain, with 25 gigs on soun
 
 Certain People, Le Nomad, Arque
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emikoto/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/emikoto/)*

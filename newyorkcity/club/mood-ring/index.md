@@ -1,6 +1,6 @@
 # Mood Ring
 
-Mood Ring is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "BOUNCY by she.they.dj" on Sat, 7 Nov 2026.
+Mood Ring is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Hand to Phone" on Wed, 11 Nov 2026.
 
 Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including Abril IRL, AG, ARINI and asapalena and 2 more. See dates, start times and who's playing. 1260 Myrtle Ave, Brooklyn, NY 11221, USA.
 
@@ -8,7 +8,6 @@ Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | BOUNCY by she.they.dj | Kimby (US), Nymph (NY), comput3r.grl |
 | Wed, 11 Nov 2026 | Hand to Phone | Ivy Oh |
 | Thu, 12 Nov 2026 | RENDERS.003 | Abril IRL, Sasha Rome, entity_A |
 | Fri, 13 Nov 2026 | Protein 2 Year Celebration | BUNZ, DJ Primo, Dirtyfinger, Henry Jennings, Peregrine (US), nataliepops |
@@ -18,9 +17,10 @@ Mood Ring is a music venue in New York City listed on soundcheck. 17 upcoming gi
 | Wed, 18 Nov 2026 | Errant Forms: Retrograde's Shadow | EEVEE (3), Love Higher, NATALIA., Sade James, softesthan |
 | Thu, 19 Nov 2026 | Slayer's Happy Hour | Caratastrophe, DJ Passion Fruit |
 | Thu, 19 Nov 2026 | Club Massive | AG (1), Petal, SUCIA!, kstrobez, ogd (1) |
+| Fri, 20 Nov 2026 | Crash Test | Castillonaire, Connector, Max Kulchinsky, Varist, asapalena |
 
 ## Address
 
 1260 Myrtle Ave, Brooklyn, NY 11221, USA, New York City
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mood-ring/)*

@@ -1,6 +1,6 @@
 # Hangar
 
-Hangar is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ØOMO pres. Avalon Emerson & Young Marco" on Fri, 20 Nov 2026.
+Hangar is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "ØOMO pres. Avalon Emerson & Young Marco" on Fri, 20 Nov 2026.
 
 Hangar is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Avalon Emerson, Cosmic G, Fatima Hajji and Optimuss and 2 more. See dates, start times and who's playing. Zorza Klemansoa 37, 11000 Belgrade, Serbia.
 
@@ -15,4 +15,4 @@ Hangar is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with 
 
 Zorza Klemansoa 37, 11000 Belgrade, Serbia, Belgrade
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/hangar/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/hangar/)*

@@ -1,6 +1,6 @@
 # Ziegrastraße 11
 
-Ziegrastraße 11 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "KIMCHI RECORDS X ZIECRET LOCATION" on Sun, 15 Nov 2026.
+Ziegrastraße 11 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "KIMCHI RECORDS X ZIECRET LOCATION" on Sun, 15 Nov 2026.
 
 Ziegrastraße 11 is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Ed Warner, ki:ke, Kim Bruun and Soliad. See dates, start times and who's playing. Ziegrastraße 11, 12057 Berlin, Germany.
 
@@ -14,4 +14,4 @@ Ziegrastraße 11 is a music venue in Berlin listed on soundcheck. 1 upcoming gig
 
 Ziegrastraße 11, 12057 Berlin, Germany, Berlin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ziegrastra-e-11/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/ziegrastra-e-11/)*

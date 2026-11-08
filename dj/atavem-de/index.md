@@ -1,6 +1,6 @@
 # ATAVEM
 
-ATAVEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 20 Nov 2026.
+ATAVEM is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Golden Pudel Club, Hamburg on Fri, 20 Nov 2026.
 
 ATAVEM is a techno and house artist based in Germany, with 33 gigs on soundcheck across Hamburg. Often billed alongside EliaHaze, Danya (DE) and Harre. Next up: Golden Pudel Club, Hamburg on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ ATAVEM is a techno and house artist based in Germany, with 33 gigs on soundcheck
 
 EliaHaze, Danya (DE), Harre
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atavem-de/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/atavem-de/)*

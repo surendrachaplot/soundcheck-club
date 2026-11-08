@@ -1,6 +1,6 @@
 # TORUKK
 
-TORUKK is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at or, Tokyo on Sat, 30 Jan 2027.
+TORUKK is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at or, Tokyo on Sat, 30 Jan 2027.
 
 TORUKK is a trance and techno artist based in Japan, with 48 gigs on soundcheck across Hong Kong, London, San Diego and Tokyo. Often billed alongside Nanlaze, DJ 34 and You Liang. Next up: or, Tokyo on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ TORUKK is a trance and techno artist based in Japan, with 48 gigs on soundcheck 
 
 Nanlaze, DJ 34, You Liang
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torukk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/torukk/)*

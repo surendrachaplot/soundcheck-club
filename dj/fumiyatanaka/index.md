@@ -1,14 +1,13 @@
 # Fumiya Tanaka
 
-Fumiya Tanaka is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at FVTVR, Paris on Fri, 6 Nov 2026.
+Fumiya Tanaka is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Moon Club, Bristol on Sat, 21 Nov 2026.
 
-Fumiya Tanaka is a house and techno artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Samuel Deep, Doudou MD and Laidlaw. Next up: FVTVR, Paris on Fri 6 Nov.
+Fumiya Tanaka is a house and techno artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 33 more. Often billed alongside Samuel Deep, Doudou MD and Laidlaw. Next up: Moon Club, Bristol on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | FVTVR | Paris |
 | Sat, 21 Nov 2026 | Moon Club | Bristol |
 | Fri, 27 Nov 2026 | The Brickworks | Nottingham |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
@@ -31,4 +30,4 @@ Fumiya Tanaka is a house and techno artist based in Japan, with 134 gigs on soun
 
 Samuel Deep, Doudou MD, Laidlaw
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fumiyatanaka/)*

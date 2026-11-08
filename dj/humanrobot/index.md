@@ -1,6 +1,6 @@
 # Human Robot
 
-Human Robot is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 4 Dec 2026.
+Human Robot is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Moondog Cafe, Detroit on Fri, 4 Dec 2026.
 
 Human Robot is a techno and electronica artist based in Brazil, with 116 gigs on soundcheck across Detroit. Often billed alongside Gary Martin, Body Mechanic and DJ Krazy. Next up: Moondog Cafe, Detroit on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Human Robot is a techno and electronica artist based in Brazil, with 116 gigs on
 
 Gary Martin, Body Mechanic, DJ Krazy
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrobot/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/humanrobot/)*

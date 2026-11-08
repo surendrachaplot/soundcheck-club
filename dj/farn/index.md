@@ -1,8 +1,8 @@
 # Farn
 
-Farn is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Beate Uwe, Berlin on Thu, 26 Nov 2026.
+Farn is a Downtempo and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Beate Uwe, Berlin on Thu, 26 Nov 2026.
 
-Farn is a downtempo and techno artist, with 20 gigs on soundcheck across Berlin, Paris and Zurich. Often billed alongside Temple Tears, luçïd and Horst Haller. Next up: Beate Uwe, Berlin on Thu 26 Nov.
+Farn is a downtempo and techno artist based in France, with 20 gigs on soundcheck across Berlin, Paris and Zurich. Often billed alongside Temple Tears, luçïd and Horst Haller. Next up: Beate Uwe, Berlin on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Farn is a downtempo and techno artist, with 20 gigs on soundcheck across Berlin,
 
 Temple Tears, luçïd, Horst Haller
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farn/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/farn/)*

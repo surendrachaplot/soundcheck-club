@@ -1,6 +1,6 @@
 # DJ PLUS PLUS
 
-DJ PLUS PLUS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Goldener Reiter, Munich on Sat, 28 Nov 2026.
+DJ PLUS PLUS is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Goldener Reiter, Munich on Sat, 28 Nov 2026.
 
 DJ PLUS PLUS is a house and disco artist, with 15 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside Arninho, HiHat and Annemalie. Next up: Goldener Reiter, Munich on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ DJ PLUS PLUS is a house and disco artist, with 15 gigs on soundcheck across Berl
 
 Arninho, HiHat, Annemalie
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplusplus/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djplusplus/)*

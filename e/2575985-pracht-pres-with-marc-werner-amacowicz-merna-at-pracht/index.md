@@ -1,6 +1,6 @@
 # Pracht PRES. with MARC WERNER, AMacowicz & Merna at Pracht
 
-Pracht PRES. with MARC WERNER, AMacowicz & Merna on Fri 20 Nov, Frankfurt. 1 artist: MARC WERNER. House and Afro House. See the line-up on soundcheck.
+Pracht PRES. with MARC WERNER, AMacowicz & Merna on Fri 20 Nov, Frankfurt. 1 artist: MARC WERNER. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

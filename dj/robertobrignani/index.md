@@ -1,6 +1,6 @@
 # Roberto Brignani
 
-Roberto Brignani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Masters, Zagreb on Fri, 27 Nov 2026.
+Roberto Brignani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Masters, Zagreb on Fri, 27 Nov 2026.
 
 Roberto Brignani is a techno and electro artist, with 12 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Monorail, Nikola Pap and Allan. Next up: Masters, Zagreb on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Roberto Brignani is a techno and electro artist, with 12 gigs on soundcheck acro
 
 Monorail, Nikola Pap, Allan
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertobrignani/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/robertobrignani/)*

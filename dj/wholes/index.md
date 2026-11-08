@@ -1,6 +1,6 @@
 # Wholes
 
-Wholes is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cakeshop, Seoul on Fri, 4 Dec 2026.
+Wholes is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cakeshop, Seoul on Fri, 4 Dec 2026.
 
 Wholes is a bass and club artist based in South Korea, with 26 gigs on soundcheck across Ghent, Seoul and Shanghai. Often billed alongside Kitty, NET GALA and KOLLIN. Next up: Cakeshop, Seoul on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Wholes is a bass and club artist based in South Korea, with 26 gigs on soundchec
 
 Kitty, NET GALA, KOLLIN
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wholes/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wholes/)*

@@ -1,6 +1,6 @@
 # Ebru Al
 
-Ebru Al is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Not For Sale Gallery, London on Sat, 5 Dec 2026.
+Ebru Al is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Not For Sale Gallery, London on Sat, 5 Dec 2026.
 
 Ebru Al is a techno and house artist based in United Kingdom, with 11 gigs on soundcheck across Antwerp and London. Often billed alongside EARPRINT, Mensih and R4VF. Next up: Not For Sale Gallery, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Ebru Al is a techno and house artist based in United Kingdom, with 11 gigs on so
 
 EARPRINT, Mensih, R4VF
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebrual/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ebrual/)*

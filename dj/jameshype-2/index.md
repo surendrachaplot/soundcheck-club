@@ -1,6 +1,6 @@
 # James Hype (UK)
 
-James Hype (UK) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+James Hype (UK) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 James Hype (UK) is a house and tech house artist based in United Kingdom, with 185 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 47 more. Often billed alongside Meduza, David Guetta and Hannah Laing. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ James Hype (UK) is a house and tech house artist based in United Kingdom, with 1
 
 Meduza, David Guetta, Hannah Laing
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshype-2/)*

@@ -1,6 +1,6 @@
 # gramma (SI)
 
-gramma (SI) is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 13 Nov 2026.
+gramma (SI) is a Baile Funk and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Channel Zero, Ljubljana on Fri, 13 Nov 2026.
 
 gramma (SI) is a baile funk and house artist based in Slovenia, with 9 gigs on soundcheck across Ljubljana. Often billed alongside 93kb, DVS and BZZHOUND. Next up: Channel Zero, Ljubljana on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ gramma (SI) is a baile funk and house artist based in Slovenia, with 9 gigs on s
 
 93kb, DVS, BZZHOUND
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gramma-si/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/gramma-si/)*

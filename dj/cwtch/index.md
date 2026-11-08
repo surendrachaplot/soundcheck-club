@@ -1,14 +1,13 @@
 # Cwtch
 
-Cwtch is a electronic artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Cwtch is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Nido Marseille, Marseille on Sat, 14 Nov 2026.
 
-Cwtch is an electronic artist based in France, with 4 gigs on soundcheck across Central, Marseille and Rennes. Often billed alongside Blood of Aza, Katarina Gryvul and 69DB. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Cwtch is an electronic artist based in France, with 4 gigs on soundcheck across Central, Marseille and Rennes. Often billed alongside Blood of Aza, Katarina Gryvul and 69DB. Next up: Nido Marseille, Marseille on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Sat, 14 Nov 2026 | Nido Marseille | Marseille |
 
 ## Recently played
@@ -21,4 +20,4 @@ Cwtch is an electronic artist based in France, with 4 gigs on soundcheck across 
 
 Blood of Aza, Katarina Gryvul, 69DB
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cwtch/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cwtch/)*

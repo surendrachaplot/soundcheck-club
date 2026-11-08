@@ -1,6 +1,6 @@
 # Werkha
 
-Werkha is a Jazz and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at renae, Manchester on Wed, 2 Dec 2026.
+Werkha is a Jazz and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at renae, Manchester on Wed, 2 Dec 2026.
 
 Werkha is a jazz and electronica artist based in United Kingdom, with 15 gigs on soundcheck across Austin, London and Manchester. Often billed alongside Danuka, Yadava and Bolts. Next up: renae, Manchester on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Werkha is a jazz and electronica artist based in United Kingdom, with 15 gigs on
 
 Danuka, Yadava, Bolts
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/werkha/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/werkha/)*

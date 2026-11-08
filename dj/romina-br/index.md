@@ -1,6 +1,6 @@
 # Romina (BR)
 
-Romina (BR) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at D-EDGE, Sao Paulo on Sun, 8 Nov 2026.
+Romina (BR) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at D-EDGE, Sao Paulo on Sun, 8 Nov 2026.
 
 Romina (BR) is a house and tech house artist based in Brazil, with 13 gigs on soundcheck across Sao Paulo. Often billed alongside nat consentino, Another Dudx and Avante. Next up: D-EDGE, Sao Paulo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Romina (BR) is a house and tech house artist based in Brazil, with 13 gigs on so
 
 nat consentino, Another Dudx, Avante
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romina-br/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/romina-br/)*

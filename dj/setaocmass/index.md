@@ -1,16 +1,16 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Motel Campo, Geneva on Sat, 7 Nov 2026.
+Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Stadion Strahov, Prague on Fri, 13 Nov 2026.
 
-Setaoc Mass is a techno and house artist based in United Kingdom, with 221 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 76 more. Often billed alongside Philippa Pacho, Blasha & Allatt and Altinbas. Next up: Motel Campo, Geneva on Sat 7 Nov.
+Setaoc Mass is a techno and house artist based in United Kingdom, with 222 gigs on soundcheck across Adelaide, Amsterdam, Athens and Atlanta and 77 more. Often billed alongside Philippa Pacho, Blasha & Allatt and Altinbas. Next up: Stadion Strahov, Prague on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Motel Campo | Geneva |
 | Fri, 13 Nov 2026 | Stadion Strahov | Prague |
 | Sat, 14 Nov 2026 | Under Bron | Stockholm |
+| Sat, 21 Nov 2026 | L'Ostra Club | East |
 | Sat, 28 Nov 2026 | FOLD | London |
 | Sat, 28 Nov 2026 | Razzmatazz | Barcelona |
 | Fri, 4 Dec 2026 | Ministerium Club | Lisbon |
@@ -20,6 +20,7 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 221 gigs 
 
 ## Recently played
 
+- Motel Campo, Geneva · Sat, 7 Nov 2026
 - ELYSIUM SEVILLA, South · Fri, 6 Nov 2026
 - Blast Galaxy, Amsterdam · Fri, 23 Oct 2026
 - TILLATEC, Amsterdam · Wed, 21 Oct 2026
@@ -27,10 +28,9 @@ Setaoc Mass is a techno and house artist based in United Kingdom, with 221 gigs 
 - Liquid Club, Malta · Sat, 10 Oct 2026
 - The Bassement, Madrid · Fri, 9 Oct 2026
 - Sound Department, South · Sat, 3 Oct 2026
-- Mõss Club Valladolid, North · Fri, 2 Oct 2026
 
 ## Shares bills with
 
 Philippa Pacho, Blasha & Allatt, Altinbas
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/setaocmass/)*

@@ -1,6 +1,6 @@
 # Peverelist
 
-Peverelist is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Peverelist is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
 Peverelist is a techno and bass artist based in United Kingdom, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 14 more. Often billed alongside Hodge, Livity Sound and re:ni. Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
@@ -27,4 +27,4 @@ Peverelist is a techno and bass artist based in United Kingdom, with 62 gigs on 
 
 Hodge, Livity Sound, re:ni
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*

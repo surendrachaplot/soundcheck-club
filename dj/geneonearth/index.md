@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Eiger Studios, Leeds on Thu, 12 Nov 2026.
+Gene On Earth is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Eiger Studios, Leeds on Thu, 12 Nov 2026.
 
 Gene On Earth is a house and tech house artist based in United States of America, with 227 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bali and 64 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Eiger Studios, Leeds on Thu 12 Nov.
 
@@ -35,4 +35,4 @@ Gene On Earth is a house and tech house artist based in United States of America
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

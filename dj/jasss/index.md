@@ -1,14 +1,13 @@
 # JASSS
 
-JASSS is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Palais, London on Sat, 7 Nov 2026.
+JASSS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at OHM, Berlin on Sun, 29 Nov 2026.
 
-JASSS is a techno and house artist based in Spain, with 189 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: Palais, London on Sat 7 Nov.
+JASSS is a techno and house artist based in Spain, with 189 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 51 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: OHM, Berlin on Sun 29 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Palais | London |
 | Sun, 29 Nov 2026 | OHM | Berlin |
 | Fri, 11 Dec 2026 | De Kreun | Belgium |
 | Sat, 12 Dec 2026 | Lofi | Amsterdam |
@@ -18,6 +17,7 @@ JASSS is a techno and house artist based in Spain, with 189 gigs on soundcheck a
 
 ## Recently played
 
+- Palais, London · Sat, 7 Nov 2026
 - Casa Capitão, Lisbon · Sat, 24 Oct 2026
 - Voce - Triennale, Milan · Sat, 17 Oct 2026
 - Mezz, Netherlands · Sat, 10 Oct 2026
@@ -25,10 +25,9 @@ JASSS is a techno and house artist based in Spain, with 189 gigs on soundcheck a
 - Various venues - Warsaw & Krakow, Poland · Fri, 2 Oct 2026
 - TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
 - Nowadays, New York City · Sat, 19 Sept 2026
-- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 CEM, MCMLXXXV, Dj Saliva
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jasss/)*

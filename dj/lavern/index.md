@@ -1,6 +1,6 @@
 # LAVERN
 
-LAVERN is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
+LAVERN is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at NOS Event Center, Los-angeles on Thu, 31 Dec 2026.
 
 LAVERN is a house and progressive house artist based in Netherlands, with 62 gigs on soundcheck across Austin, Boston, Brisbane and Budapest and 30 more. Often billed alongside Martin Garrix, TroyBoi and Jackie Hollander. Next up: NOS Event Center, Los Angeles on Thu 31 Dec.
 
@@ -26,4 +26,4 @@ LAVERN is a house and progressive house artist based in Netherlands, with 62 gig
 
 Martin Garrix, TroyBoi, Jackie Hollander
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lavern/)*

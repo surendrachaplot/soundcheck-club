@@ -1,15 +1,13 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "SPECTRO 006" on Sat, 7 Nov 2026.
+Marble Bar is a music venue in Detroit with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "GHETTOTECHTOPIA" on Fri, 13 Nov 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, with line-ups including 1-800-CALL-ASH, Adam X, AIDEL and Amino and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 8 upcoming gigs, with line-ups including Adam X, AIDEL, Amino and Blackmoonchild and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | SPECTRO 006 | 1-800-CALL-ASH, Curmudgeon, Detroit Techno Militia 2x4, LATEX GIRL |
-| Sat, 7 Nov 2026 | Amtrac [live] with A Jaske | Amtrac |
 | Fri, 13 Nov 2026 | GHETTOTECHTOPIA | Blackmoonchild, Isaac Prieto, Sheefy McFly |
 | Fri, 13 Nov 2026 | GHETTOTECHTOPIA | Blackmoonchild, Isaac Prieto, Sheefy McFly |
 | Sat, 14 Nov 2026 | XOXR4YR | DJ Girl, Garrison XR, HOOCHIE (1), Madam X, SWIMMIE, X(S)INA, we1sman |
@@ -23,4 +21,4 @@ Marble Bar is a music venue in Detroit listed on soundcheck. 10 upcoming gigs, w
 
 1501 Holden St, Detroit, MI 48208, USA, Detroit
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/detroit/club/marble-bar/)*

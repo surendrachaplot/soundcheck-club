@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Benji B, Cosmo / Louise Chen, Hidden Spheres / Francis Harris & Tal" on Sat, 7 Nov 2026.
+public records is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Tarka 3-Year Anniversary: ZAINAB, Bianca Maieli, Chaia, Zara Dekho b2b Dynoman, Rohana, + more" on Sun, 8 Nov 2026.
 
 public records is a music venue in New York City listed on soundcheck. 33 upcoming gigs, with line-ups including 320, MORENXXX, Abby Echiverri and Afrikan Sciences and 2 more. See dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -8,7 +8,6 @@ public records is a music venue in New York City listed on soundcheck. 33 upcomi
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Benji B, Cosmo / Louise Chen, Hidden Spheres / Francis Harris & Tal | Benji B, Cosmo (NY), Francis Harris, Hidden Spheres, Louise Chen |
 | Sun, 8 Nov 2026 | Tarka 3-Year Anniversary: ZAINAB, Bianca Maieli, Chaia, Zara Dekho b2b Dynoman, Rohana, + more | ARINI, Bergsonist, Bianca Maieli, Chaia, Dynoman, ZEEMUFFIN, Zara Dekho, jaag (US) |
 | Mon, 9 Nov 2026 | DURATIONS Festival 2026 | Abby Echiverri, Afrikan Sciences, Ayanna Heaven, Buttechno, Chantal Michelle, Claudio PRC, Courtney Bailey, DJ Sprinkles, Dasha Rush, Decoder, Eden Aurelius, Eiko Ishibashi, Francis Harris, Ghost Dubs, Human Space Machine, Innersha, JJJJJerome Ellis, K Wata, Kara-Lis Coverdale, Klein, LEYA, MORENXXX, Matana Roberts, Molina, Naone, Russell E.L. Butler, Significant Other, Suzanne Ciani, Terre Thaemlitz, William Basinski, Yu Su |
 | Mon, 9 Nov 2026 | DURATIONS: William Basinski, Cholla | William Basinski |
@@ -18,9 +17,10 @@ public records is a music venue in New York City listed on soundcheck. 33 upcomi
 | Fri, 13 Nov 2026 | DURATIONS: Suzanne Ciani, Courtney Bailey | Courtney Bailey, Suzanne Ciani |
 | Fri, 13 Nov 2026 | DURATIONS: Afrikan Sciences, Claudio PRC, Dasha Rush, Decoder, Francis Harris, + more | Afrikan Sciences, Claudio PRC, Dasha Rush, Decoder, Francis Harris, Human Space Machine, Innersha |
 | Sat, 14 Nov 2026 | DURATIONS: DJ Sprinkles, [g] / Naone, Abby Echiverri / Eden Aurelius | Abby Echiverri, DJ Sprinkles, Eden Aurelius, Naone, Russell E.L. Butler |
+| Sat, 14 Nov 2026 | DURATIONS: JJJJJerome Ellis, Fred Moten & Brandon Lopez | JJJJJerome Ellis |
 
 ## Address
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

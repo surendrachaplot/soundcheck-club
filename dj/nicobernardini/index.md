@@ -1,6 +1,6 @@
 # Nico Bernardini
 
-Nico Bernardini is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Nico Bernardini is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Nico Bernardini is a house and tech house artist based in Italy, with 12 gigs on soundcheck across Ibiza, Miami, New York City and Sao Paulo. Often billed alongside WhoMadeWho, BLOND:ISH and VITÉRI. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -25,4 +25,4 @@ Nico Bernardini is a house and tech house artist based in Italy, with 12 gigs on
 
 WhoMadeWho, BLOND:ISH, VITÉRI
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicobernardini/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicobernardini/)*

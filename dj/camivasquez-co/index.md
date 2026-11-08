@@ -1,6 +1,6 @@
 # Cami Vásquez
 
-Cami Vásquez is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at GATE CLUB, Bogotá on Sat, 28 Nov 2026.
+Cami Vásquez is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at GATE CLUB, Bogotá on Sat, 28 Nov 2026.
 
 Cami Vásquez is a techno and trance artist based in Colombia, with 33 gigs on soundcheck across Berlin, Bogotá, Buenos Aires and Heidelberg and 3 more. Often billed alongside Briela Veneno, Sánchez Jr. and Joris Voorn. Next up: GATE CLUB, Bogotá on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Cami Vásquez is a techno and trance artist based in Colombia, with 33 gigs on s
 
 Briela Veneno, Sánchez Jr., Joris Voorn
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camivasquez-co/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/camivasquez-co/)*

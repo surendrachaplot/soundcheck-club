@@ -1,6 +1,6 @@
 # Daisy-it
 
-Daisy-it is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 28 Nov 2026.
+Daisy-it is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ZEROTOKYO, Tokyo on Sat, 28 Nov 2026.
 
 Daisy-it is a techno and electro artist based in Italy, with 10 gigs on soundcheck across Florence, Ibiza, London and Madrid and 2 more. Often billed alongside Mattia Trani, Gianni Di Bernardo and KLOFAMA. Next up: ZEROTOKYO, Tokyo on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Daisy-it is a techno and electro artist based in Italy, with 10 gigs on soundche
 
 Mattia Trani, Gianni Di Bernardo, KLOFAMA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-it/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/daisy-it/)*

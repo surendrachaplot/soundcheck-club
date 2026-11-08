@@ -1,6 +1,6 @@
 # SKY JETTA
 
-SKY JETTA is a Ghetto Tech and Club artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Location Distributed Day Of, Chicago on Thu, 12 Nov 2026.
+SKY JETTA is a Ghetto Tech and Club artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Location Distributed Day Of, Chicago on Thu, 12 Nov 2026.
 
 SKY JETTA is a ghetto tech and club artist based in United States of America, with 43 gigs on soundcheck across Atlanta, Chicago, Detroit and Houston and 6 more. Often billed alongside DJ KILLA SQUID, Daniro and Donavan Glover. Next up: TBA - Location Distributed Day Of, Chicago on Thu 12 Nov.
 
@@ -31,4 +31,4 @@ SKY JETTA is a ghetto tech and club artist based in United States of America, wi
 
 DJ KILLA SQUID, Daniro, Donavan Glover
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyjetta/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/skyjetta/)*

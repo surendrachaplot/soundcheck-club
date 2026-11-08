@@ -1,6 +1,6 @@
 # Angie (CY)
 
-Angie (CY) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bridge 48, Barcelona on Sat, 28 Nov 2026.
+Angie (CY) is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bridge 48, Barcelona on Sat, 28 Nov 2026.
 
 Angie (CY) is a techno and progressive house artist based in Cyprus, with 8 gigs on soundcheck across Athens, Barcelona, Berlin and Cyprus and 2 more. Often billed alongside Matteo Bigliardi, Amyrran and Ben Dust. Next up: Bridge 48, Barcelona on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Angie (CY) is a techno and progressive house artist based in Cyprus, with 8 gigs
 
 Matteo Bigliardi, Amyrran, Ben Dust
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angie-cy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/angie-cy/)*

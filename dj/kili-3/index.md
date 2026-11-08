@@ -1,6 +1,6 @@
 # Kili (3)
 
-Kili (3) is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 13 Nov 2026.
+Kili (3) is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Fridas Pier, Stuttgart on Fri, 13 Nov 2026.
 
 Kili is a hardcore and techno artist based in Netherlands, with 14 gigs on soundcheck across Cologne, Frankfurt, Glasgow and Madrid and 6 more. Often billed alongside Angerfist, Evil Activities and Lekkerfaces. Next up: Fridas Pier, Stuttgart on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Kili is a hardcore and techno artist based in Netherlands, with 14 gigs on sound
 
 Angerfist, Evil Activities, Lekkerfaces
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kili-3/)*

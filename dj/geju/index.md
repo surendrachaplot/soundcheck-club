@@ -1,8 +1,8 @@
 # Geju
 
-Geju is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Geju is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
-Geju is a house and techno artist, with 25 gigs on soundcheck across Bali, Berlin, Hamburg and Istanbul and 6 more. Often billed alongside Mira, Sven Dohse and Chris Schwarzwälder. Next up: Kater, Berlin on Sat 28 Nov.
+Geju is a house and techno artist based in Russia, with 25 gigs on soundcheck across Bali, Berlin, Hamburg and Istanbul and 6 more. Often billed alongside Mira, Sven Dohse and Chris Schwarzwälder. Next up: Kater, Berlin on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Geju is a house and techno artist, with 25 gigs on soundcheck across Bali, Berli
 
 Mira, Sven Dohse, Chris Schwarzwälder
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geju/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/geju/)*

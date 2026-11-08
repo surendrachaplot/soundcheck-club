@@ -1,14 +1,13 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Audio Porn - onesixone Saturday's" on Sat, 7 Nov 2026.
+OneSixOne is a music venue in Melbourne with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Ruby Lou - onesixone Thursday's" on Thu, 12 Nov 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Trace, Agent 86, Amber Ferraro and Amity and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 5 upcoming gigs, with line-ups including Adam Trace, Amber Ferraro, Amity and Fosters and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Audio Porn - onesixone Saturday's | Agent 86, Cara Murphy, Chris NG, Jay Ramon |
 | Thu, 12 Nov 2026 | Ruby Lou - onesixone Thursday's | Ruby Lou |
 | Fri, 13 Nov 2026 | CIOZ (LIVE) | Amity, Fosters, The Journey |
 | Thu, 19 Nov 2026 | Nico Bloom - onesixone Thursday's |  |
@@ -19,4 +18,4 @@ OneSixOne is a music venue in Melbourne listed on soundcheck. 6 upcoming gigs, w
 
 161 High St; Prahran, VIC 3181; Australia, Melbourne
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/onesixone/)*

@@ -1,6 +1,6 @@
 # Ngly
 
-Ngly is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kongresai, Vilnius on Sat, 12 Dec 2026.
+Ngly is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kongresai, Vilnius on Sat, 12 Dec 2026.
 
 Ngly is a techno and electro artist based in Germany, with 16 gigs on soundcheck across Athens, Bali, Beijing and Belgrade and 7 more. Often billed alongside Burago, ALF CHAMPION and Aire. Next up: Kongresai, Vilnius on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Ngly is a techno and electro artist based in Germany, with 16 gigs on soundcheck
 
 Burago, ALF CHAMPION, Aire
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ngly/)*

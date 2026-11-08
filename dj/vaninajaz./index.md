@@ -1,6 +1,6 @@
 # Vaninajaz.
 
-Vaninajaz. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 8 Nov 2026.
+Vaninajaz. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at BUS Hexperience, Barcelona on Sun, 8 Nov 2026.
 
 Vaninajaz. is a house and deep house artist based in Argentina, with 9 gigs on soundcheck across Barcelona. Often billed alongside Devicious, Dimarziio and LORZA. Next up: BUS Hexperience, Barcelona on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Vaninajaz. is a house and deep house artist based in Argentina, with 9 gigs on s
 
 Devicious, Dimarziio, LORZA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninajaz./)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vaninajaz./)*

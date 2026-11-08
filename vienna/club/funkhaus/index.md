@@ -1,14 +1,13 @@
 # Funkhaus
 
-Funkhaus is a music venue in Vienna with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "traveling without moving" on Sat, 7 Nov 2026.
+Funkhaus is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "club fatale w. KRN" on Fri, 13 Nov 2026.
 
-Funkhaus is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with line-ups including Alice (AT), Bambalan, Diskohengst and Felix Rupprecht and 2 more. See dates, start times and who's playing.
+Funkhaus is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with line-ups including Alice (AT), Bambalan, Diskohengst and Felix Wolfs and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | traveling without moving | Felix Rupprecht, Pancratio, Rayya |
 | Fri, 13 Nov 2026 | club fatale w. KRN | Alice (AT), Bambalan, KRN, foxloe |
 | Sat, 14 Nov 2026 | Once in a Blue Moon, Kiki ball + Afterparty |  |
 | Fri, 27 Nov 2026 | Cafe Disko x Firlefunk | Diskohengst, Felix Wolfs |
@@ -19,4 +18,4 @@ Funkhaus is a music venue in Vienna listed on soundcheck. 10 upcoming gigs, with
 | Sat, 19 Dec 2026 | traveling without moving |  |
 | Sat, 16 Jan 2027 | traveling without moving |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/funkhaus/)*

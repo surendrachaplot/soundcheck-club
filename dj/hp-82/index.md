@@ -1,14 +1,14 @@
 # HP-82
 
-HP-82 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - VEF, Riga on Fri, 13 Nov 2026.
+HP-82 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - VEF KVARTĀLS, Riga on Fri, 13 Nov 2026.
 
-HP-82 is a techno and house artist based in Latvia, with 34 gigs on soundcheck across Riga. Often billed alongside Ikss, Ksenia Kamikaza and Sundown. Next up: TBA - VEF, Riga on Fri 13 Nov.
+HP-82 is a techno and house artist based in Latvia, with 34 gigs on soundcheck across Riga. Often billed alongside Ikss, Ksenia Kamikaza and Sundown. Next up: TBA - VEF KVARTĀLS, Riga on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | TBA - VEF | Riga |
+| Fri, 13 Nov 2026 | TBA - VEF KVARTĀLS | Riga |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ HP-82 is a techno and house artist based in Latvia, with 34 gigs on soundcheck a
 
 Ikss, Ksenia Kamikaza, Sundown
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hp-82/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hp-82/)*

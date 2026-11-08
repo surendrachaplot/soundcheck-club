@@ -1,6 +1,6 @@
 # BLACK CROW
 
-BLACK CROW is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Azimut Club, Turin on Mon, 7 Dec 2026.
+BLACK CROW is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Azimut Club, Turin on Mon, 7 Dec 2026.
 
 BLACK CROW is a techno and electronica artist based in Italy, with 11 gigs on soundcheck across Milan, Tokyo and Turin. Often billed alongside EMPTY(IT), Alberto Tolo and Distorted Planet. Next up: Azimut Club, Turin on Mon 7 Dec.
 
@@ -25,4 +25,4 @@ BLACK CROW is a techno and electronica artist based in Italy, with 11 gigs on so
 
 EMPTY(IT), Alberto Tolo, Distorted Planet
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcrow/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/blackcrow/)*

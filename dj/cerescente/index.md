@@ -1,6 +1,6 @@
 # Cerescente
 
-Cerescente is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sala Siroco, Madrid on Sat, 21 Nov 2026.
+Cerescente is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sala Siroco, Madrid on Sat, 21 Nov 2026.
 
 Cerescente is a house and techno artist based in Spain, with 7 gigs on soundcheck across Madrid. Often billed alongside FUKCNORMAL, LVL1 and Presunta. Next up: Sala Siroco, Madrid on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Cerescente is a house and techno artist based in Spain, with 7 gigs on soundchec
 
 FUKCNORMAL, LVL1, Presunta (2)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cerescente/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cerescente/)*

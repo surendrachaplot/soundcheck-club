@@ -1,6 +1,6 @@
 # Taigo Onez
 
-Taigo Onez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Indigo Mrkto, Chicago on Sat, 14 Nov 2026.
+Taigo Onez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Indigo Mrkto, Chicago on Sat, 14 Nov 2026.
 
 Taigo Onez is a techno and house artist based in United States of America, with 9 gigs on soundcheck across Chicago and Detroit. Often billed alongside Antonio Lombardo, Microdot and Aaron Chase. Next up: Indigo Mrkto, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Taigo Onez is a techno and house artist based in United States of America, with 
 
 Antonio Lombardo, Microdot, Aaron Chase
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taigoonez-us/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taigoonez-us/)*

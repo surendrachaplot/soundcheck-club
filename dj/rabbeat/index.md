@@ -1,6 +1,6 @@
 # RABBeAT
 
-RABBeAT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
+RABBeAT is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Maassilo, Rotterdam on Sat, 27 Feb 2027.
 
 RABBeAT is a techno and hardcore artist based in France, with 7 gigs on soundcheck across Berlin, Lyon, New York City and Paris and 2 more. Often billed alongside Kilbourne, Manu Le Malin and Densha Crisis. Next up: Maassilo, Rotterdam on Sat 27 Feb.
 
@@ -23,4 +23,4 @@ RABBeAT is a techno and hardcore artist based in France, with 7 gigs on soundche
 
 Kilbourne, Manu Le Malin, Densha Crisis
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabbeat/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rabbeat/)*

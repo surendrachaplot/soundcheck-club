@@ -1,8 +1,8 @@
 # Simon Vuarambon
 
-Simon Vuarambon is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Refuge, New York City on Fri, 27 Nov 2026.
+Simon Vuarambon is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Refuge, New York City on Fri, 27 Nov 2026.
 
-Simon Vuarambon is a progressive house and deep house artist based in Switzerland, with 79 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 28 more. Often billed alongside John Digweed, Guy Mantzur and Henry Saiz. Next up: Refuge, New York City on Fri 27 Nov.
+Simon Vuarambon is a progressive house and deep house artist based in Switzerland, with 80 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 29 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: Refuge, New York City on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Simon Vuarambon is a progressive house and deep house artist based in Switzerlan
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Refuge | New York City |
 | Sat, 5 Dec 2026 | TBA - Bosques Cacheuta, Mendoza | Argentina |
+| Mon, 21 Dec 2026 | TBA | Uruguay |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Simon Vuarambon is a progressive house and deep house artist based in Switzerlan
 
 ## Shares bills with
 
-John Digweed, Guy Mantzur, Henry Saiz
+Guy Mantzur, John Digweed, Henry Saiz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonvuarambon/)*

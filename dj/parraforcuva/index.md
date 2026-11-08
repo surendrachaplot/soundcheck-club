@@ -1,18 +1,19 @@
 # Parra for Cuva
 
-Parra for Cuva is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at BERHTA, Washington DC on Sat, 7 Nov 2026.
+Parra for Cuva is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at ZeyZey, Miami on Sun, 8 Nov 2026.
 
-Parra for Cuva is a house and deep house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 35 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: BERHTA, Washington DC on Sat 7 Nov.
+Parra for Cuva is a house and deep house artist based in Germany, with 79 gigs on soundcheck across Amsterdam, Athens, Bangalore and Barcelona and 36 more. Often billed alongside Christian Löffler, Natascha Polké and Deer Jade. Next up: ZeyZey, Miami on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | BERHTA | Washington DC |
 | Sun, 8 Nov 2026 | ZeyZey | Miami |
+| Sat, 5 Dec 2026 | TBA - Foothills of Nandi, Karahalli | Bangalore |
 
 ## Recently played
 
+- BERHTA, Washington DC · Sat, 7 Nov 2026
 - Cervantes' Masterpiece Ballroom, Denver · Thu, 5 Nov 2026
 - The Bellwether, Los Angeles · Sat, 31 Oct 2026
 - The Roundhouse, London · Sat, 17 Oct 2026
@@ -20,10 +21,9 @@ Parra for Cuva is a house and deep house artist based in Germany, with 78 gigs o
 - Akropolis, Prague · Thu, 8 Oct 2026
 - Komplex Klub, Zurich · Sun, 4 Oct 2026
 - La Cigale, Paris · Fri, 2 Oct 2026
-- Carlswerk Victoria, Cologne · Thu, 1 Oct 2026
 
 ## Shares bills with
 
 Christian Löffler, Natascha Polké, Deer Jade
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parraforcuva/)*

@@ -1,19 +1,19 @@
 # JME
 
-JME is a Grime and Garage artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+JME is a Grime and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North-island on Wed, 30 Dec 2026.
 
-JME is a grime and garage artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Copenhagen, Dublin and London and 2 more. Often billed alongside Duppy, Kruz Leone and 4am Kru. Next up: The Cause, London on Sat 7 Nov.
+JME is a grime and garage artist based in United Kingdom, with 10 gigs on soundcheck across Bristol, Copenhagen, Dublin and London and 2 more. Often billed alongside Duppy, Kruz Leone and 4am Kru. Next up: TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573, North Island on Wed 30 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | The Cause | London |
 | Wed, 30 Dec 2026 | TBA - 433 Settlement Road , Kaiwaka, New Zealand 0573 | North-island |
 | Sat, 9 Jan 2027 | Saywell Street Block Party | Sydney |
 
 ## Recently played
 
+- The Cause, London · Sat, 7 Nov 2026
 - Colour Factory, London · Fri, 24 Apr 2026
 - Index, Dublin · Sat, 4 Apr 2026
 - VEGA, Copenhagen · Thu, 2 Oct 2025
@@ -26,4 +26,4 @@ JME is a grime and garage artist based in United Kingdom, with 10 gigs on soundc
 
 Duppy, Kruz Leone, 4am Kru
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jme-de/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jme-de/)*

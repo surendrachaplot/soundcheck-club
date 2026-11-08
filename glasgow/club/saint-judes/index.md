@@ -1,6 +1,6 @@
 # Saint Judes
 
-Saint Judes is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DJ Rankin - I Am A Raver (Reloaded) Tour" on Sat, 12 Dec 2026.
+Saint Judes is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "DJ Rankin - I Am A Raver (Reloaded) Tour" on Sat, 12 Dec 2026.
 
 Saint Judes is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 190 Bath Street; Glasgow, G2 4HG; Scotland.
 
@@ -15,4 +15,4 @@ Saint Judes is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs. S
 
 190 Bath Street; Glasgow, G2 4HG; Scotland, Glasgow
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/saint-judes/)*

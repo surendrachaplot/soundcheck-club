@@ -1,6 +1,6 @@
 # Persona - NYE & NYD 28 Hour Celebration - PART 1 AT CONCEPT HAUS at Concept Haus
 
-Persona - NYE & NYD 28 Hour Celebration - PART 1 AT CONCEPT HAUS at Concept Haus on Thu 31 Dec, Manchester. 11 artists: Carl H, Christian AB, Francesco Del Garda and FROND and 7 more. Progressive House and Tech House. See the line-up on soundcheck.
+Persona - NYE & NYD 28 Hour Celebration - PART 1 AT CONCEPT HAUS at Concept Haus on Thu 31 Dec, Manchester. 12 artists: Carl H, Christian AB, Francesco Del Garda and FROND and 8 more. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -15,6 +15,7 @@ Persona - NYE & NYD 28 Hour Celebration - PART 1 AT CONCEPT HAUS at Concept Haus
 - Francesco Del Garda
 - FROND
 - Gabriel Rai
+- Inner Zone
 - Jude Race
 - Louie G
 - Neb Spook

@@ -1,6 +1,6 @@
 # ayaka
 
-ayaka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Wed, 11 Nov 2026.
+ayaka is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at SEL OCTAGON TOKYO, Tokyo on Wed, 11 Nov 2026.
 
 ayaka is a techno and house artist based in Japan, with 101 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside FLEDtokyo, Neon Noir and Crazy Neo. Next up: SEL OCTAGON TOKYO, Tokyo on Wed 11 Nov.
 
@@ -26,4 +26,4 @@ ayaka is a techno and house artist based in Japan, with 101 gigs on soundcheck a
 
 FLEDtokyo, Neon Noir, Crazy Neo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayaka/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ayaka/)*

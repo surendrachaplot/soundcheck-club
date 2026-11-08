@@ -1,6 +1,6 @@
 # Wittes
 
-Wittes is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at OIL Club, Shenzhen on Sat, 28 Nov 2026.
+Wittes is a Techno and Jungle artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at OIL Club, Shenzhen on Sat, 28 Nov 2026.
 
 Wittes is a techno and jungle artist based in Germany, with 26 gigs on soundcheck across Berlin, Dublin, Oslo and Seoul and 2 more. Often billed alongside DJ KILLING, Miley Serious and Soultrain MC. Next up: OIL Club, Shenzhen on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Wittes is a techno and jungle artist based in Germany, with 26 gigs on soundchec
 
 DJ KILLING, Miley Serious, Soultrain MC
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wittes/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wittes/)*

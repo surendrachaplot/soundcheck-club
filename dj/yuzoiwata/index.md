@@ -1,6 +1,6 @@
 # Yuzo Iwata
 
-Yuzo Iwata is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
+Yuzo Iwata is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at OXI, Berlin on Fri, 20 Nov 2026.
 
 Yuzo Iwata is a house and techno artist based in Japan, with 48 gigs on soundcheck across Bangkok, Berlin, Kyoto and Manila and 7 more. Often billed alongside Courtney Bailey, Alicia Carrera and David Fogarty. Next up: OXI, Berlin on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Yuzo Iwata is a house and techno artist based in Japan, with 48 gigs on soundche
 
 Courtney Bailey, Alicia Carrera, David Fogarty
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuzoiwata/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yuzoiwata/)*

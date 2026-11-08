@@ -1,6 +1,6 @@
 # Kat Davids
 
-Kat Davids is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bassiani, Tbilisi on Thu, 31 Dec 2026.
+Kat Davids is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bassiani, Tbilisi on Thu, 31 Dec 2026.
 
 Kat Davids is a house and techno artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogotá and 12 more. Often billed alongside Cecilia Tosh, MASCHA and Jana Falcon. Next up: Bassiani, Tbilisi on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Kat Davids is a house and techno artist based in Germany, with 66 gigs on soundc
 
 Cecilia Tosh, MASCHA, Jana Falcon
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katdavids/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katdavids/)*

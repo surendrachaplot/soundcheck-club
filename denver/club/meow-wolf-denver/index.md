@@ -1,18 +1,17 @@
 # Meow Wolf Denver
 
-Meow Wolf Denver is a music venue in Denver with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Cut Copy (DJ Set)" on Sat, 7 Nov 2026.
+Meow Wolf Denver is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Bag Raiders" on Fri, 20 Nov 2026.
 
-Meow Wolf Denver is a music venue in Denver listed on soundcheck. 2 upcoming gigs, with line-ups including Bag Raiders and Cut Copy. See dates, start times and who's playing. 1338 1st St, Denver, CO 80204.
+Meow Wolf Denver is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Bag Raiders. See dates, start times and who's playing. 1338 1st St, Denver, CO 80204.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Cut Copy (DJ Set) | Cut Copy |
 | Fri, 20 Nov 2026 | Bag Raiders | Bag Raiders |
 
 ## Address
 
 1338 1st St, Denver, CO 80204, Denver
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/meow-wolf-denver/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/denver/club/meow-wolf-denver/)*

@@ -1,6 +1,6 @@
 # Yanko Kral
 
-Yanko Kral is a Electronica and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 14 Nov 2026.
+Yanko Kral is a Electronica and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Radost Music Club, Bratislava on Sat, 14 Nov 2026.
 
 Yanko Kral is an electronica and hip-hop artist, with 21 gigs on soundcheck across Berlin and Bratislava. Often billed alongside MIKLEI, OTEC MIREC and UrbnMowgli. Next up: Radost Music Club, Bratislava on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Yanko Kral is an electronica and hip-hop artist, with 21 gigs on soundcheck acro
 
 MIKLEI, OTEC MIREC, UrbnMowgli
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yankokral/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yankokral/)*

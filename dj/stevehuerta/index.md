@@ -1,6 +1,6 @@
 # Huerta
 
-Huerta is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Strange Brew, Bristol on Sat, 14 Nov 2026.
+Huerta is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Strange Brew, Bristol on Sat, 14 Nov 2026.
 
 Huerta is a house and techno artist based in United States of America, with 137 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Bali and 49 more. Often billed alongside Youandewan, DJ Pipe and Liquid Earth. Next up: Strange Brew, Bristol on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Huerta is a house and techno artist based in United States of America, with 137 
 
 Youandewan, DJ Pipe, Liquid Earth
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stevehuerta/)*

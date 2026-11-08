@@ -1,15 +1,13 @@
 # SASS Music Club
 
-SASS Music Club is a music venue in Vienna with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Cyclic Existence #12" on Sat, 7 Nov 2026.
+SASS Music Club is a music venue in Vienna with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Morgengymnastik with Ulfersson, Thomas Grün" on Sun, 8 Nov 2026.
 
-SASS Music Club is a music venue in Vienna listed on soundcheck. 9 upcoming gigs, with line-ups including André (OF), Andrija Mlacovic, Anni Herzer and Crazy Sonic and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
+SASS Music Club is a music venue in Vienna listed on soundcheck. 7 upcoming gigs, with line-ups including Andrija Mlacovic, Anni Herzer, Crazy Sonic and DJ Deadlift and 2 more. See dates, start times and who's playing. Karlsplatz 1, 1010 Wien, Austria.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Cyclic Existence #12 | André (OF) |
-| Sat, 7 Nov 2026 | Cyclic Existence |  |
 | Sun, 8 Nov 2026 | Morgengymnastik with Ulfersson, Thomas Grün | Thomas Grün, Ulfersson |
 | Thu, 12 Nov 2026 | Green Light Collective | Andrija Mlacovic, Grenco |
 | Fri, 13 Nov 2026 | HERZZZ | Anni Herzer, Felix Rupprecht, Julani |
@@ -22,4 +20,4 @@ SASS Music Club is a music venue in Vienna listed on soundcheck. 9 upcoming gigs
 
 Karlsplatz 1, 1010 Wien, Austria, Vienna
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/sass-music-club/)*

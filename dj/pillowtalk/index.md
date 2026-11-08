@@ -1,6 +1,6 @@
 # PillowTalk
 
-PillowTalk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Winstons Bar, Adelaide on Sun, 22 Nov 2026.
+PillowTalk is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Winstons Bar, Adelaide on Sun, 22 Nov 2026.
 
 PillowTalk is a house and disco artist based in United States of America, with 18 gigs on soundcheck across Adelaide, Cape Town, Los Angeles and Miami and 4 more. Often billed alongside Shane One, Aaron F and Anthony Mansfield. Next up: Winstons Bar, Adelaide on Sun 22 Nov.
 
@@ -26,4 +26,4 @@ PillowTalk is a house and disco artist based in United States of America, with 1
 
 Shane One, Aaron F, Anthony Mansfield
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillowtalk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pillowtalk/)*

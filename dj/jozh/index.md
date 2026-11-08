@@ -1,6 +1,6 @@
 # Jozh
 
-Jozh is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
+Jozh is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tanzhaus West, Frankfurt on Fri, 20 Nov 2026.
 
 Jozh is a techno and dub techno artist based in Germany, with 17 gigs on soundcheck across Frankfurt and Nürnberg. Often billed alongside Orakel, Øscil and SLOPEZZ. Next up: Tanzhaus West, Frankfurt on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Jozh is a techno and dub techno artist based in Germany, with 17 gigs on soundch
 
 Orakel, Øscil, SLOPEZZ
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jozh/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jozh/)*

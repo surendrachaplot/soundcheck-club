@@ -1,6 +1,6 @@
 # Host (CA)
 
-Host (CA) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fabricxx, London on Sat, 28 Nov 2026.
+Host (CA) is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Fabricxx, London on Sat, 28 Nov 2026.
 
 Host (CA) is a house and garage artist based in Canada, with 31 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 9 more. Often billed alongside Cardiac, Choirboi and Craft. Next up: Fabricxx, London on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Host (CA) is a house and garage artist based in Canada, with 31 gigs on soundche
 
 Cardiac, Choirboi, Craft
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/host-ca/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/host-ca/)*

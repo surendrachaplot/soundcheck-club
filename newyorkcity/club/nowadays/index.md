@@ -1,6 +1,6 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 29 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick León + more" on Sat, 7 Nov 2026.
+Nowadays is a music venue in New York City with 29 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "TraTraTrax Nonstop: Verraco, Pariah, PLO Man, BADSISTA, Gabrielle Kwarteng, Nick León + more" on Sat, 7 Nov 2026.
 
 Nowadays is a music venue in New York City listed on soundcheck. 29 upcoming gigs, with line-ups including 1morning, 8ULENTINA, MORENXXX and Paula Tape and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
@@ -23,4 +23,4 @@ Nowadays is a music venue in New York City listed on soundcheck. 29 upcoming gig
 
 56-06 Cooper Ave. Ridgewood, NY 11385 USA, New York City
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/nowadays/)*

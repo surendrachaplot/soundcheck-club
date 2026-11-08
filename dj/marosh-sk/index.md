@@ -1,6 +1,6 @@
 # Marosh (SK)
 
-Marosh (SK) is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Radost Music Club, Bratislava on Fri, 20 Nov 2026.
+Marosh (SK) is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Radost Music Club, Bratislava on Fri, 20 Nov 2026.
 
 Marosh (SK) is a techno and ebm artist based in Slovakia, with 23 gigs on soundcheck across Bratislava, Krakow, Manchester and Prague. Often billed alongside Ema Veld, F141 and Minna Murra. Next up: Radost Music Club, Bratislava on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Marosh (SK) is a techno and ebm artist based in Slovakia, with 23 gigs on soundc
 
 Ema Veld, F141, Minna Murra
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marosh-sk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marosh-sk/)*

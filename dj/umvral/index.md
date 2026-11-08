@@ -1,6 +1,6 @@
 # Umvral
 
-Umvral is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bajo Mundo, Mexico City on Fri, 4 Dec 2026.
+Umvral is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bajo Mundo, Mexico City on Fri, 4 Dec 2026.
 
 Umvral is a techno and trance artist based in Mexico, with 27 gigs on soundcheck across Mexico City. Often billed alongside Praqqa, Deenia and Vekan. Next up: Bajo Mundo, Mexico City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Umvral is a techno and trance artist based in Mexico, with 27 gigs on soundcheck
 
 Praqqa, Deenia, Vekan
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umvral/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umvral/)*

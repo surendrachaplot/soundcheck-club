@@ -1,6 +1,6 @@
 # Jamie xx
 
-Jamie xx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Thu, 31 Dec 2026.
+Jamie xx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Thu, 31 Dec 2026.
 
 Jamie xx is a house and techno artist based in United Kingdom, with 55 gigs on soundcheck across Austin, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Honey Dijon, Chloé Caillet and DJ Tennis. Next up: Pier 48's Shed A, San Francisco/Oakland on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Jamie xx is a house and techno artist based in United Kingdom, with 55 gigs on s
 
 Honey Dijon, Chloé Caillet, DJ Tennis
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiexx/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiexx/)*

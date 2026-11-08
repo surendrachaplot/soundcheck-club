@@ -1,6 +1,6 @@
 # hypebeck
 
-hypebeck is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bar  Milagro, New York City on Thu, 12 Nov 2026.
+hypebeck is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bar  Milagro, New York City on Thu, 12 Nov 2026.
 
 hypebeck is a house and techno artist based in United States of America, with 26 gigs on soundcheck across New York City. Often billed alongside DJ Erewhon, Guarionex Jr and Pressure Assist. Next up: Bar  Milagro, New York City on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ hypebeck is a house and techno artist based in United States of America, with 26
 
 DJ Erewhon, Guarionex Jr, Pressure Assist
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypebeck/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hypebeck/)*

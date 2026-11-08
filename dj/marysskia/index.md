@@ -1,6 +1,6 @@
 # marysskia
 
-marysskia is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 13 Nov 2026.
+marysskia is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Hydrozagadka, Warsaw on Fri, 13 Nov 2026.
 
 marysskia is a techno and bass artist based in Poland, with 10 gigs on soundcheck across Warsaw. Often billed alongside KANCIAK, Edvvin and Generator42. Next up: Hydrozagadka, Warsaw on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ marysskia is a techno and bass artist based in Poland, with 10 gigs on soundchec
 
 KANCIAK, Edvvin, Generator42
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marysskia/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/marysskia/)*

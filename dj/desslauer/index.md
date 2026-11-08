@@ -1,6 +1,6 @@
 # Desslauer
 
-Desslauer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Dot Club, Hamburg on Sat, 14 Nov 2026.
+Desslauer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dot Club, Hamburg on Sat, 14 Nov 2026.
 
 Desslauer is a techno and house artist based in Germany, with 6 gigs on soundcheck across Hamburg. Often billed alongside SAIDEX, Teenage Mutants and Timeless Moments. Next up: Dot Club, Hamburg on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Desslauer is a techno and house artist based in Germany, with 6 gigs on soundche
 
 SAIDEX, Teenage Mutants, Timeless Moments
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desslauer/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/desslauer/)*

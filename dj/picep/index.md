@@ -1,6 +1,6 @@
 # Picep
 
-Picep is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Dear Darling, London on Sat, 21 Nov 2026.
+Picep is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dear Darling, London on Sat, 21 Nov 2026.
 
 Picep is a tech house and techno artist based in United Kingdom, with 33 gigs on soundcheck across London. Often billed alongside Dimanté, MEERA (UK) and Enrico Chirchiello. Next up: Dear Darling, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Picep is a tech house and techno artist based in United Kingdom, with 33 gigs on
 
 Dimanté, MEERA (UK), Enrico Chirchiello
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/picep/)*

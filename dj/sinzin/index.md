@@ -1,6 +1,6 @@
 # SINZIN
 
-SINZIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Organ Bar, Tokyo on Mon, 9 Nov 2026.
+SINZIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Organ Bar, Tokyo on Mon, 9 Nov 2026.
 
 SINZIN is a techno and house artist based in Japan, with 95 gigs on soundcheck across Tokyo. Often billed alongside SIGNAL (JP), TOBI and Da Yama. Next up: Organ Bar, Tokyo on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ SINZIN is a techno and house artist based in Japan, with 95 gigs on soundcheck a
 
 SIGNAL (JP), TOBI, Da Yama
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinzin/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinzin/)*

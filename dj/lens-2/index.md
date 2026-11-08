@@ -1,14 +1,13 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Mina Museum, Cluj-napoca on Sat, 7 Nov 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at XOYO Birmingham, Birmingham on Fri, 13 Nov 2026.
 
-Lens is a drum & bass and dubstep artist based in United Kingdom, with 37 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 26 more. Often billed alongside Degs, Mozey and MPH. Next up: Mina Museum, Cluj Napoca on Sat 7 Nov.
+Lens is a drum & bass and dubstep artist based in United Kingdom, with 37 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 26 more. Often billed alongside Degs, Mozey and MPH. Next up: XOYO Birmingham, Birmingham on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Mina Museum | Cluj-napoca |
 | Fri, 13 Nov 2026 | XOYO Birmingham | Birmingham |
 | Sat, 14 Nov 2026 | Hidden | Manchester |
 | Sat, 28 Nov 2026 | Patterns | Brighton |
@@ -23,6 +22,7 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 37 gigs o
 
 ## Recently played
 
+- Mina Museum, Cluj-napoca · Sat, 7 Nov 2026
 - Z-Bau, Nürnberg · Fri, 6 Nov 2026
 - CCO La Rayonne, Lyon · Sat, 24 Oct 2026
 - NUMBER 90 LONDON, London · Fri, 23 Oct 2026
@@ -30,10 +30,9 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 37 gigs o
 - Holocene, Portland · Sun, 11 Oct 2026
 - 1720, Los Angeles · Sat, 10 Oct 2026
 - Urban Lounge, Salt-lake-city · Fri, 9 Oct 2026
-- Flash, Washington DC · Thu, 8 Oct 2026
 
 ## Shares bills with
 
 Degs, Mozey, MPH (1)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lens-2/)*

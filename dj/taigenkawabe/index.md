@@ -1,6 +1,6 @@
 # Taigen Kawabe
 
-Taigen Kawabe is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Caravan Records, London on Sun, 8 Nov 2026.
+Taigen Kawabe is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Caravan Records, London on Sun, 8 Nov 2026.
 
 Taigen Kawabe is an experimental and techno artist based in Japan, with 48 gigs on soundcheck across Kyoto, London, Osaka and Tokyo. Often billed alongside Foodman, HSC and NTsKi. Next up: Caravan Records, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Taigen Kawabe is an experimental and techno artist based in Japan, with 48 gigs 
 
 Foodman, HSC (1), NTsKi
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taigenkawabe/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taigenkawabe/)*

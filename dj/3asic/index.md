@@ -1,6 +1,6 @@
 # 3ASiC
 
-3ASiC is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
+3ASiC is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OIL Club, Shenzhen on Fri, 4 Dec 2026.
 
 3ASiC is a club and techno artist, with 18 gigs on soundcheck across Beijing, Chengdu, Shanghai and Shenzhen. Often billed alongside Knopha, FEIYI and Kaishandao. Next up: OIL Club, Shenzhen on Fri 4 Dec.
 
@@ -25,4 +25,4 @@
 
 Knopha, FEIYI, Kaishandao
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3asic/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/3asic/)*

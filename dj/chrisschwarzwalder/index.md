@@ -1,6 +1,6 @@
 # Chris Schwarzwälder
 
-Chris Schwarzwälder is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Odonien, Cologne on Fri, 20 Nov 2026.
+Chris Schwarzwälder is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Odonien, Cologne on Fri, 20 Nov 2026.
 
 Chris Schwarzwälder is a house and techno artist based in Germany, with 98 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 23 more. Often billed alongside Mira, Britta Arnold and Sven Dohse. Next up: Odonien, Cologne on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Chris Schwarzwälder is a house and techno artist based in Germany, with 98 gigs
 
 Mira, Britta Arnold, Sven Dohse
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisschwarzwalder/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chrisschwarzwalder/)*

@@ -1,14 +1,13 @@
 # Lofi
 
-Lofi is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Chaos In The CBD pres. In Dust We Trust" on Sat, 7 Nov 2026.
+Lofi is a music venue in Amsterdam with 17 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Loco Dice [all night long]" on Fri, 13 Nov 2026.
 
-Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including 36framez, Aaron J, AAT (NL) and Agents Of Time and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
+Lofi is a music venue in Amsterdam listed on soundcheck. 17 upcoming gigs, with line-ups including 36framez, Aaron J, AAT (NL) and Agents Of Time and 2 more. See dates, start times and who's playing. Basisweg 63, Amsterdam 1043AN, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Chaos In The CBD pres. In Dust We Trust | Chaos In The CBD, Elias Mazian, Jennifer Loveless, Ryan Elliott |
 | Fri, 13 Nov 2026 | Loco Dice [all night long] | Loco Dice |
 | Sat, 14 Nov 2026 | Sala | ASEC, Bastienne, Beste Hira, Colin Benders, Len Faki, Shed, VNTM |
 | Fri, 20 Nov 2026 | [CANCELLED] Agents Of Time - all night long | Agents Of Time |
@@ -18,9 +17,10 @@ Lofi is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with 
 | Fri, 4 Dec 2026 | Amsterdub weekender by King Shiloh Soundystem | Ital Power, King Shiloh |
 | Sat, 12 Dec 2026 | Sven Väth [3hr set], Luna Ludmila [live], Kyra Khaldi | Kyra Khaldi, Luna Ludmila, Sven Vath |
 | Sat, 12 Dec 2026 | Herrensauna | Boris, CEM, JASSS, MCMLXXXV, SALOME |
+| Sun, 13 Dec 2026 | Sunday by MALUGI [sold out] | MALUGI |
 
 ## Address
 
 Basisweg 63, Amsterdam 1043AN, Netherlands, Amsterdam
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/lofi/)*

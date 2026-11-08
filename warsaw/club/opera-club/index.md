@@ -1,6 +1,6 @@
 # Opera Club
 
-Opera Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Impreza Party В Варшаве" on Tue, 10 Nov 2026.
+Opera Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Impreza Party В Варшаве" on Tue, 10 Nov 2026.
 
 Opera Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Opera Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See 
 | --- | --- | --- |
 | Tue, 10 Nov 2026 | Impreza Party В Варшаве |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/opera-club/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/opera-club/)*

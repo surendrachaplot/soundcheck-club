@@ -1,6 +1,6 @@
 # Shango.
 
-Shango. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bande Passante, Montreal on Sun, 15 Nov 2026.
+Shango. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bande Passante, Montreal on Sun, 15 Nov 2026.
 
 Shango. is a techno and house artist based in Canada, with 6 gigs on soundcheck across Montreal. Often billed alongside somebody3lse, Luminescu and Pheek. Next up: Bande Passante, Montreal on Sun 15 Nov.
 
@@ -22,4 +22,4 @@ Shango. is a techno and house artist based in Canada, with 6 gigs on soundcheck 
 
 somebody3lse, Luminescu, Pheek
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shango-ca/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shango-ca/)*

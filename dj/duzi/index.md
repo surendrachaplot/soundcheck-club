@@ -1,6 +1,6 @@
 # Duzi
 
-Duzi is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
+Duzi is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Sydney on Sat, 14 Nov 2026.
 
 Duzi is a garage and drum & bass artist based in Canada, with 6 gigs on soundcheck across Sydney. Often billed alongside Deens, Clifford and Maxcherry. Next up: TBA, Sydney on Sat 14 Nov.
 
@@ -22,4 +22,4 @@ Duzi is a garage and drum & bass artist based in Canada, with 6 gigs on soundche
 
 Deens, Clifford, Maxcherry
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duzi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/duzi/)*

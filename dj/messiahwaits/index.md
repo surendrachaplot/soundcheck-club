@@ -1,6 +1,6 @@
 # Messiahwaits
 
-Messiahwaits is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Blvck Water, Osaka on Sat, 19 Dec 2026.
+Messiahwaits is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Blvck Water, Osaka on Sat, 19 Dec 2026.
 
 Messiahwaits is a techno and industrial artist based in South Korea, with 98 gigs on soundcheck across Amsterdam, Bangkok, Basel and Beijing and 22 more. Often billed alongside NO1ELSE, FENGX2 and EMILIO. Next up: Blvck Water, Osaka on Sat 19 Dec.
 
@@ -25,4 +25,4 @@ Messiahwaits is a techno and industrial artist based in South Korea, with 98 gig
 
 NO1ELSE, FENGX2, EMILIO (3)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/messiahwaits/)*

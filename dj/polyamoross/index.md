@@ -1,6 +1,6 @@
 # Polyamoross
 
-Polyamoross is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Unveiled, New York City on Fri, 20 Nov 2026.
+Polyamoross is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Unveiled, New York City on Fri, 20 Nov 2026.
 
 Polyamoross is a techno and house artist based in United Kingdom, with 13 gigs on soundcheck across Bristol, Lisbon, London and Los Angeles and 1 more. Often billed alongside Michelle Manetti, Ruthlss and Jaye Ward. Next up: Unveiled, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Polyamoross is a techno and house artist based in United Kingdom, with 13 gigs o
 
 Michelle Manetti, Ruthlss, Jaye Ward
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polyamoross/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/polyamoross/)*

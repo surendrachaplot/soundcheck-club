@@ -1,6 +1,6 @@
 # Castillonaire
 
-Castillonaire is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Mood Ring, New York City on Fri, 20 Nov 2026.
+Castillonaire is a Club and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Mood Ring, New York City on Fri, 20 Nov 2026.
 
 Castillonaire is a club and electronica artist based in United States of America, with 37 gigs on soundcheck across Detroit, Los Angeles, Manila and Melbourne and 5 more. Often billed alongside rogue.wav, WILHELMINA and Choo Choo. Next up: Mood Ring, New York City on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Castillonaire is a club and electronica artist based in United States of America
 
 rogue.wav, WILHELMINA, Choo Choo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castillonaire/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/castillonaire/)*

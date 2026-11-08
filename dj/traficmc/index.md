@@ -1,6 +1,6 @@
 # Trafic MC
 
-Trafic MC is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Stealth, Nottingham on Fri, 20 Nov 2026.
+Trafic MC is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Stealth, Nottingham on Fri, 20 Nov 2026.
 
 Trafic MC is a drum & bass and jungle artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside Crossy, Inja and Aries. Next up: Stealth, Nottingham on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Trafic MC is a drum & bass and jungle artist based in United Kingdom, with 34 gi
 
 Crossy, Inja, Aries
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traficmc/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/traficmc/)*

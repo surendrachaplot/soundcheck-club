@@ -1,6 +1,6 @@
 # Christianshavns Beboerhus
 
-Christianshavns Beboerhus is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Scorpio Red special feat. Xenia Xamanek / Kelman Duran / Ans M / IMSOBABY" on Fri, 13 Nov 2026.
+Christianshavns Beboerhus is a music venue in Copenhagen with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Scorpio Red special feat. Xenia Xamanek / Kelman Duran / Ans M / IMSOBABY" on Fri, 13 Nov 2026.
 
 Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 4 upcoming gigs, with line-ups including Ans M, CTM, Emil F and Frederik Valentin and 2 more. See dates, start times and who's playing. Dronningensgade 34, 1420 Copenhagen K.
 
@@ -17,4 +17,4 @@ Christianshavns Beboerhus is a music venue in Copenhagen listed on soundcheck. 4
 
 Dronningensgade 34, 1420 Copenhagen K, Copenhagen
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/christianshavns-beboerhus/)*

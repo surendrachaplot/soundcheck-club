@@ -1,6 +1,6 @@
 # Sinister Dosage
 
-Sinister Dosage is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Detroit on Sat, 28 Nov 2026.
+Sinister Dosage is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Detroit on Sat, 28 Nov 2026.
 
 Sinister Dosage is a drum & bass and jungle artist based in United States of America, with 12 gigs on soundcheck across Detroit. Often billed alongside Brent Shay, 3chocat and A K. Next up: TBA, Detroit on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Sinister Dosage is a drum & bass and jungle artist based in United States of Ame
 
 Brent Shay, 3chocat, A K
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinisterdosage/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinisterdosage/)*

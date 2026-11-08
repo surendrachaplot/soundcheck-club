@@ -1,6 +1,6 @@
 # Feydh Rotan
 
-Feydh Rotan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at halle02, Heidelberg on Fri, 13 Nov 2026.
+Feydh Rotan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at halle02, Heidelberg on Fri, 13 Nov 2026.
 
 Feydh Rotan is a techno and house artist based in Germany, with 14 gigs on soundcheck across Heidelberg. Often billed alongside Labohr, MP-Nuts and DJ Dag. Next up: halle02, Heidelberg on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Feydh Rotan is a techno and house artist based in Germany, with 14 gigs on sound
 
 Labohr, MP-Nuts, DJ Dag
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feydhrotan/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/feydhrotan/)*

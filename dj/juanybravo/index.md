@@ -1,6 +1,6 @@
 # Juany Bravo
 
-Juany Bravo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Ministry Of Sound, London on Fri, 13 Nov 2026.
+Juany Bravo is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ministry Of Sound, London on Fri, 13 Nov 2026.
 
 Juany Bravo is an afro house and house artist based in United States of America, with 39 gigs on soundcheck across Amsterdam, Atlanta, Bangkok and Barcelona and 18 more. Often billed alongside Hugel, Eran Hersh and Miss Monique. Next up: Ministry Of Sound, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Juany Bravo is an afro house and house artist based in United States of America,
 
 Hugel, Eran Hersh, Miss Monique
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanybravo/)*

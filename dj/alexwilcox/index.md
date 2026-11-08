@@ -1,20 +1,20 @@
 # Alex Wilcox
 
-Alex Wilcox is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Alex Wilcox is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Greyhound, London on Thu, 12 Nov 2026.
 
-Alex Wilcox is a techno and trance artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
+Alex Wilcox is a techno and trance artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Atlanta, Austin and Bangkok and 42 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: The Greyhound, London on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
 | Thu, 12 Nov 2026 | The Greyhound | London |
 | Fri, 27 Nov 2026 | Razzmatazz | Barcelona |
 | Fri, 21 May 2027 | Lumen Firenze | Florence |
 
 ## Recently played
 
+- Various Venues, Bristol, Bristol · Sat, 7 Nov 2026
 - Panke, Berlin · Fri, 6 Nov 2026
 - Le Sucre, Lyon · Sat, 3 Oct 2026
 - Virage, Paris · Fri, 2 Oct 2026
@@ -22,10 +22,9 @@ Alex Wilcox is a techno and trance artist based in United States of America, wit
 - Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 - Supamolly, Berlin · Fri, 12 Jun 2026
 - Unité.22, Marseille · Fri, 15 May 2026
-- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
 
 ## Shares bills with
 
 Ben UFO, DJ Nobu, DVS1
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwilcox/)*

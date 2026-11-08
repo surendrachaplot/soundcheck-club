@@ -1,6 +1,6 @@
 # q-rt
 
-q-rt is a House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
+q-rt is a House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Postkantine, Basel on Thu, 31 Dec 2026.
 
 q-rt is a house artist, with 14 gigs on soundcheck across Basel. Often billed alongside Colyn, Doma and Galopp. Next up: Postkantine, Basel on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ q-rt is a house artist, with 14 gigs on soundcheck across Basel. Often billed al
 
 Colyn, Doma, Galopp
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/q-rt/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/q-rt/)*

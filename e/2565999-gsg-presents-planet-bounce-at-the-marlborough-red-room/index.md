@@ -1,6 +1,6 @@
 # GSG presents: Planet Bounce at The Marlborough Red Room
 
-GSG presents: Planet Bounce at The Marlborough Red Room on Sat 14 Nov, Glasgow. 4 artists: Dreamstate_2k, LAUZ, McMSTR and Orla Halligan. Trance and Techno. See the line-up on soundcheck.
+GSG presents: Planet Bounce at The Marlborough Red Room on Sat 14 Nov, Glasgow. 5 artists: Dreamstate_2k, LA MAISON, LAUZ and McMSTR and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ GSG presents: Planet Bounce at The Marlborough Red Room on Sat 14 Nov, Glasgow. 
 ## Line-up
 
 - Dreamstate_2k
+- LA MAISON
 - LAUZ
 - McMSTR
 - Orla Halligan

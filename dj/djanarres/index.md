@@ -1,8 +1,8 @@
 # DJ Anarres
 
-DJ Anarres is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 24 Nov 2026.
+DJ Anarres is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bossa Nova Civic Club, New-york-city on Tue, 24 Nov 2026.
 
-DJ Anarres is a techno and house artist, with 13 gigs on soundcheck across New York City, Philadelphia, Pittsburgh and Washington DC. Often billed alongside ADAB, Associate and DJ Sour. Next up: Bossa Nova Civic Club, New York City on Tue 24 Nov.
+DJ Anarres is a techno and house artist based in United States of America, with 13 gigs on soundcheck across New York City, Philadelphia, Pittsburgh and Washington DC. Often billed alongside ADAB, Associate and DJ Sour. Next up: Bossa Nova Civic Club, New York City on Tue 24 Nov.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ DJ Anarres is a techno and house artist, with 13 gigs on soundcheck across New Y
 
 ADAB, Associate, DJ Sour
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djanarres/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djanarres/)*

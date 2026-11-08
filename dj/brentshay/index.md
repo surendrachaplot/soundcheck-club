@@ -1,14 +1,15 @@
 # Brent Shay
 
-Brent Shay is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Well Done Goods, Detroit on Sun, 8 Nov 2026.
+Brent Shay is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Well Done Goods, Detroit on Sun, 8 Nov 2026.
 
-Brent Shay is a techno and house artist based in United States of America, with 103 gigs on soundcheck across Detroit, London, New York City and Orlando and 3 more. Often billed alongside Dj Disc, Pitchblnd and madeera. Next up: Well Done Goods, Detroit on Sun 8 Nov.
+Brent Shay is a techno and house artist based in United States of America, with 104 gigs on soundcheck across Detroit, London, New York City and Orlando and 3 more. Often billed alongside Dj Disc, Pitchblnd and madeera. Next up: Well Done Goods, Detroit on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 8 Nov 2026 | Well Done Goods | Detroit |
+| Wed, 25 Nov 2026 | Corktown Tavern | Detroit |
 | Sat, 5 Dec 2026 | TBA - 310 W 7 MILE | Detroit |
 
 ## Recently played
@@ -26,4 +27,4 @@ Brent Shay is a techno and house artist based in United States of America, with 
 
 Dj Disc, Pitchblnd, madeera
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/brentshay/)*

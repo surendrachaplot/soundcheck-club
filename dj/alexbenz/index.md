@@ -1,6 +1,6 @@
 # Alex Benz
 
-Alex Benz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 27 Nov 2026.
+Alex Benz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at MS Stubnitz, Hamburg on Fri, 27 Nov 2026.
 
 Alex Benz is a techno and house artist based in Germany, with 37 gigs on soundcheck across Berlin, Hamburg, Leipzig and Medellin and 1 more. Often billed alongside djcob, Bailey Brown and Madman. Next up: MS Stubnitz, Hamburg on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Alex Benz is a techno and house artist based in Germany, with 37 gigs on soundch
 
 djcob, Bailey Brown, Madman
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbenz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexbenz/)*

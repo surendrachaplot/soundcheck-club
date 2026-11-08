@@ -1,6 +1,6 @@
 # Sept
 
-Sept is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Crackhouse, Gdansk on Sat, 21 Nov 2026.
+Sept is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Crackhouse, Gdansk on Sat, 21 Nov 2026.
 
 Sept is a techno and house artist based in Poland, with 135 gigs on soundcheck across Amsterdam, Athens, Barcelona and Beijing and 33 more. Often billed alongside Danté, DLV and Lucinee. Next up: Crackhouse, Gdansk on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Sept is a techno and house artist based in Poland, with 135 gigs on soundcheck a
 
 Danté, DLV, Lucinee
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sept/)*

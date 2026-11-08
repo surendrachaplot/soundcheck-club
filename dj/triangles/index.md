@@ -1,6 +1,6 @@
 # Triangles
 
-Triangles is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mood Ring, New York City on Sun, 22 Nov 2026.
+Triangles is a House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mood Ring, New York City on Sun, 22 Nov 2026.
 
 Triangles is a house and club artist, with 15 gigs on soundcheck across Miami and New York City. Often billed alongside Nicole GS, SAY3 and nextdimensional. Next up: Mood Ring, New York City on Sun 22 Nov.
 
@@ -25,4 +25,4 @@ Triangles is a house and club artist, with 15 gigs on soundcheck across Miami an
 
 Nicole GS, SAY3, nextdimensional
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triangles/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/triangles/)*

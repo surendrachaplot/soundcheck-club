@@ -1,6 +1,6 @@
 # T78
 
-T78 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 12 Dec 2026.
+T78 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Halcyon, San Francisco/Oakland on Sat, 12 Dec 2026.
 
 T78 is a techno and trance artist based in Italy, with 103 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 42 more. Often billed alongside BIIA, Alignment and Aphøtic. Next up: Halcyon, San Francisco/Oakland on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ T78 is a techno and trance artist based in Italy, with 103 gigs on soundcheck ac
 
 BIIA, Alignment, Aphøtic
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/t78/)*

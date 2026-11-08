@@ -1,14 +1,13 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "queso con Daniel Monaco, Ryan O Gorman (Vitalik 20th anniversary)" on Sat, 7 Nov 2026.
+Club Malasaña is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Soundbaths con Gato y LEA" on Thu, 12 Nov 2026.
 
-Club Malasaña is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Cabin Luv Affair, Calabasa, CINCOCEROSEIS and Daniel Monaco and 2 more. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
+Club Malasaña is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including Cabin Luv Affair, Calabasa, CINCOCEROSEIS and David Cabrera and 2 more. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | queso con Daniel Monaco, Ryan O Gorman (Vitalik 20th anniversary) | Daniel Monaco, Ryan O Gorman |
 | Thu, 12 Nov 2026 | Soundbaths con Gato y LEA | Gato |
 | Fri, 13 Nov 2026 | Roots con Alex y Calabasa | Calabasa |
 | Sat, 14 Nov 2026 | Kick con MICH, David Cabrera y Ninalash! b2b Dj Homie | David Cabrera, Dj Homie, Ninalash! |
@@ -23,4 +22,4 @@ Club Malasaña is a music venue in Madrid listed on soundcheck. 10 upcoming gigs
 
 Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain, Madrid
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/club-malasa-a/)*

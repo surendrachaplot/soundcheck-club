@@ -1,14 +1,13 @@
 # Seaseaclub Barcelona
 
-Seaseaclub Barcelona is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Les Enfants at SEASEACLUB pres. DJ Masda, Mathew Jonson live, Tal Fussman, Sansibar live" on Sat, 7 Nov 2026.
+Seaseaclub Barcelona is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "TSOA: X Years w. Jan Blomqvist (Open Air)" on Sun, 8 Nov 2026.
 
-Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, ATMEN and Binh and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
+Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including Agatha Pher, Alec Falconer, ATMEN and Binh and 2 more. See dates, start times and who's playing. Carrer Port Esportiu, 14P, 08930 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Les Enfants at SEASEACLUB pres. DJ Masda, Mathew Jonson live, Tal Fussman, Sansibar live | C4m., Charlotte (FR), DJ Masda, Francesco Carvetta, Gabriel Belabbas, Marco Spalletta, Mathew Jonson, Poggio, Sansibar, Tal Fussman |
 | Sun, 8 Nov 2026 | TSOA: X Years w. Jan Blomqvist (Open Air) | Agatha Pher, Brizas, Jan Blomqvist |
 | Sat, 14 Nov 2026 | LOST x REECORDS | ATMEN, HANIE, Reelow, Simon Erar |
 | Sat, 21 Nov 2026 | Half Baked x Les Enfants at SEASEACLUB with Margaret Dygas, Tristan da Cunha & More | Alec Falconer, INDRA TRAFERRI, Margaret Dygas, Sam Bangura, Tristan da Cunha |
@@ -22,4 +21,4 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 9 upcom
 
 Carrer Port Esportiu, 14P, 08930 Barcelona, Barcelona
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/seaseaclub-barcelona/)*

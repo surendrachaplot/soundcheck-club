@@ -1,6 +1,6 @@
 # Nadia Summer
 
-Nadia Summer is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 4 Dec 2026.
+Nadia Summer is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at NX Newcastle, Newcastle on Fri, 4 Dec 2026.
 
 Nadia Summer is a house and garage artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Bristol, Edinburgh and Glasgow and 2 more. Often billed alongside PASO, Archie Holmes and Oakley Carter. Next up: NX Newcastle, Newcastle on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Nadia Summer is a house and garage artist based in United Kingdom, with 53 gigs 
 
 PASO, Archie Holmes, Oakley Carter
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiasummer/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nadiasummer/)*

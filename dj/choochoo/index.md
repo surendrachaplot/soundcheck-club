@@ -1,6 +1,6 @@
 # Choo Choo
 
-Choo Choo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Honey's, New York City on Fri, 4 Dec 2026.
+Choo Choo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Honey's, New York City on Fri, 4 Dec 2026.
 
 Choo Choo is a house and techno artist based in United States of America, with 34 gigs on soundcheck across New York City, San Francisco/Oakland, Tokyo and Vienna. Often billed alongside Sam Valle, SHRAY and ceviché. Next up: Honey's, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Choo Choo is a house and techno artist based in United States of America, with 3
 
 Sam Valle, SHRAY, ceviché
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choochoo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/choochoo/)*

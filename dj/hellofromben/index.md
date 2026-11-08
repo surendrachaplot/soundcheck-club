@@ -1,18 +1,18 @@
 # Hello From Ben
 
-Hello From Ben is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - The Church, Canal St., Manchester on Sat, 7 Nov 2026.
+Hello From Ben is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Bag Factory, Manchester on Thu, 26 Nov 2026.
 
-Hello From Ben is a house and disco artist based in United Kingdom, with 8 gigs on soundcheck across Manchester. Often billed alongside DJ Scissher, Lenny Ye$ and D-LIA. Next up: TBA - The Church, Canal St., Manchester on Sat 7 Nov.
+Hello From Ben is a house and disco artist based in United Kingdom, with 8 gigs on soundcheck across Manchester. Often billed alongside DJ Scissher, Lenny Ye$ and D-LIA. Next up: The Bag Factory, Manchester on Thu 26 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA - The Church, Canal St. | Manchester |
 | Thu, 26 Nov 2026 | The Bag Factory | Manchester |
 
 ## Recently played
 
+- TBA - The Church, Canal St., Manchester · Sat, 7 Nov 2026
 - The Proud Place, Manchester · Sat, 3 Oct 2026
 - Honey Street Studio, Manchester · Sat, 15 Aug 2026
 - Redlight, Manchester · Thu, 30 Jul 2026
@@ -24,4 +24,4 @@ Hello From Ben is a house and disco artist based in United Kingdom, with 8 gigs 
 
 DJ Scissher, Lenny Ye$, D-LIA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellofromben/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hellofromben/)*

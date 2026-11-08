@@ -1,6 +1,6 @@
 # Kamome
 
-Kamome is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mitsuki, Tokyo on Mon, 9 Nov 2026.
+Kamome is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mitsuki, Tokyo on Mon, 9 Nov 2026.
 
 Kamome is a house and techno artist based in Australia, with 55 gigs on soundcheck across Melbourne, Osaka and Tokyo. Often billed alongside YAMARCHY, Kazuma Onishi and DJ Emma. Next up: Mitsuki, Tokyo on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ Kamome is a house and techno artist based in Australia, with 55 gigs on soundche
 
 YAMARCHY, Kazuma Onishi, DJ Emma
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamome/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kamome/)*

@@ -1,14 +1,13 @@
 # radial
 
-radial is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Void. Sazzle (TraTraTrax), Seyer (FAW), Terry Cotta (PM+)" on Sat, 7 Nov 2026.
+radial is a music venue in London with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends" on Fri, 13 Nov 2026.
 
-radial is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Seyer (UK), Adam Curtain, ADHDj (UK) and Alien Communications and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
+radial is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Adam Curtain, ADHDj (UK), Alien Communications and Amy Cutter and 2 more. See dates, start times and who's playing. 39b Markfield Rd, N154QA, London, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Void. Sazzle (TraTraTrax), Seyer (FAW), Terry Cotta (PM+) | Sazzle, Seyer (UK), Terry Cotta |
 | Fri, 13 Nov 2026 | Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends | ADHDj (UK), FITS ME FUNNY, Inafekt, Teecra, pearl |
 | Sun, 15 Nov 2026 | Satiate | Ivy F, LO-LOW, Milly on Air, Ms.G, Oliver Scala, Selecky, Someone Sunny |
 | Fri, 20 Nov 2026 | Electrobar: James Shinra live + Alien Communications + Plant43 live + Tania Atyabi | Alien Communications, James Shinra, Plant43, Tania Atyabi |
@@ -18,9 +17,10 @@ radial is a music venue in London listed on soundcheck. 13 upcoming gigs, with l
 | Sun, 29 Nov 2026 | family affair presents: a sunday for Palestine | Cem Ozden, Redshift (2), Sam Bangura, Sheriff Boo, Sleepy Jean, batgirl |
 | Fri, 4 Dec 2026 | Tom VR b2b Hodge + Caroune + Black Prius | Caroune, Hodge, Tom VR |
 | Sat, 5 Dec 2026 | ToadLick | Amy Cutter, Baby Rollén, Georgia Girl, Kenny Blacksmith, Louis Polturak, just bill. |
+| Sat, 12 Dec 2026 | theoracle with Melody & Theo Kottis | Melody RA+RE, Theo Kottis |
 
 ## Address
 
 39b Markfield Rd, N154QA, London, United Kingdom, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/radial/)*

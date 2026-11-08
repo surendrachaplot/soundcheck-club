@@ -1,6 +1,6 @@
 # DJ Koolt
 
-DJ Koolt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Seattle on Sat, 7 Nov 2026.
+DJ Koolt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Seattle on Sat, 7 Nov 2026.
 
 DJ Koolt is a techno and house artist based in Uruguay, with 106 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belgrade and 35 more. Often billed alongside Sugar Free, ASIA (DE) and Ogazón. Next up: TBA, Seattle on Sat 7 Nov.
 
@@ -13,6 +13,7 @@ DJ Koolt is a techno and house artist based in Uruguay, with 106 gigs on soundch
 
 ## Recently played
 
+- TBA, Seattle · Sat, 7 Nov 2026
 - Public Works, San Francisco/Oakland · Fri, 6 Nov 2026
 - Nowadays, New York City · Fri, 30 Oct 2026
 - TBA - Club House, Santiago · Sat, 24 Oct 2026
@@ -20,10 +21,9 @@ DJ Koolt is a techno and house artist based in Uruguay, with 106 gigs on soundch
 - Seaseaclub Barcelona, Barcelona · Thu, 10 Sept 2026
 - nachbar, Amsterdam · Fri, 4 Sept 2026
 - Crobar - Buenos Aires, Buenos Aires · Fri, 28 Aug 2026
-- Les Enfants Brillants, Barcelona · Sat, 8 Aug 2026
 
 ## Shares bills with
 
 Sugar Free, ASIA (DE), Ogazón
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djkoolt/)*

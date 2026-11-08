@@ -1,6 +1,6 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sun, 8 Nov 2026.
+Jan Blomqvist is a House and Deep House artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sun, 8 Nov 2026.
 
 Jan Blomqvist is a house and deep house artist based in Germany, with 157 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Bedouin, Kölsch and WhoMadeWho. Next up: Seaseaclub Barcelona, Barcelona on Sun 8 Nov.
 
@@ -31,4 +31,4 @@ Jan Blomqvist is a house and deep house artist based in Germany, with 157 gigs o
 
 Bedouin, Kölsch, WhoMadeWho
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/janblomqvist/)*

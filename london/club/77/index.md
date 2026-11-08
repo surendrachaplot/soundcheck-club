@@ -1,14 +1,13 @@
 # 77
 
-77 is a music venue in London with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "77: MASAKA AFRICANA FT MICKEY DASTINZ" on Sat, 7 Nov 2026.
+77 is a music venue in London with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "77: Wheats" on Fri, 13 Nov 2026.
 
-77 is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Alan Dixon, AliTR, Deb FA and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alan Dixon, AliTR, Deb FA and DOVnROBS and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | 77: MASAKA AFRICANA FT MICKEY DASTINZ |  |
 | Fri, 13 Nov 2026 | 77: Wheats | Wheats |
 | Sat, 14 Nov 2026 | Lone Collective x 77 present: Jamek Ortega | AliTR, Jezza, Yoel Telyaz, yaman (3) |
 | Fri, 20 Nov 2026 | 77: Alan Dixon | Alan Dixon, Deb FA, Sam Holland |
@@ -21,4 +20,4 @@
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

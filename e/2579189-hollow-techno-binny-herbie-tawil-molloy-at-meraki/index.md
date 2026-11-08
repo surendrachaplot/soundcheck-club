@@ -1,6 +1,6 @@
 # Hollow Techno: Binny / Herbie Tawil / Molloy at Meraki
 
-Hollow Techno: Binny / Herbie Tawil / Molloy at Meraki on Fri 18 Dec, Liverpool. 2 artists: Binny and Molloy. Techno and Minimal Techno. See the line-up on soundcheck.
+Hollow Techno: Binny / Herbie Tawil / Molloy at Meraki on Fri 18 Dec, Liverpool. 2 artists: Binny and Molloy. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

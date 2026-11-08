@@ -1,6 +1,6 @@
 # Decaz
 
-Decaz is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Planet Wax, London on Fri, 11 Dec 2026.
+Decaz is a Drum & Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Planet Wax, London on Fri, 11 Dec 2026.
 
 Decaz is a drum & bass and electronica artist, with 6 gigs on soundcheck across London, Newcastle and Vienna. Often billed alongside Acris, con:volute and CHERCHES. Next up: Planet Wax, London on Fri 11 Dec.
 
@@ -22,4 +22,4 @@ Decaz is a drum & bass and electronica artist, with 6 gigs on soundcheck across 
 
 Acris, con:volute, CHERCHES
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decaz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decaz/)*

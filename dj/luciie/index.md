@@ -1,6 +1,6 @@
 # LUCIIE
 
-LUCIIE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Phonox, London on Thu, 10 Dec 2026.
+LUCIIE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Phonox, London on Thu, 10 Dec 2026.
 
 LUCIIE is a house and techno artist based in Ireland, with 4 gigs on soundcheck across Dublin and London. Often billed alongside FITS ME FUNNY, Danté and AKWA. Next up: Phonox, London on Thu 10 Dec.
 
@@ -20,4 +20,4 @@ LUCIIE is a house and techno artist based in Ireland, with 4 gigs on soundcheck 
 
 FITS ME FUNNY, Danté, AKWA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciie/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/luciie/)*

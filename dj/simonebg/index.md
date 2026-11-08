@@ -1,6 +1,6 @@
 # Simone BG
 
-Simone BG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Monkey Loft, Seattle on Sat, 21 Nov 2026.
+Simone BG is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Monkey Loft, Seattle on Sat, 21 Nov 2026.
 
 Simone BG is a house and techno artist, with 15 gigs on soundcheck across Seattle. Often billed alongside Eliogold, Interwave Surfer and Parker Mills. Next up: The Monkey Loft, Seattle on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Simone BG is a house and techno artist, with 15 gigs on soundcheck across Seattl
 
 Eliogold, Interwave Surfer, Parker Mills
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonebg/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/simonebg/)*

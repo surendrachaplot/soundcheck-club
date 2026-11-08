@@ -1,6 +1,6 @@
 # KEVIN KOFII
 
-KEVIN KOFII is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
+KEVIN KOFII is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Razzmatazz, Barcelona on Sat, 14 Nov 2026.
 
 KEVIN KOFII is a garage and house artist based in Belgium, with 29 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 5 more. Often billed alongside DC Noises, BAVR and Arter. Next up: Razzmatazz, Barcelona on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ KEVIN KOFII is a garage and house artist based in Belgium, with 29 gigs on sound
 
 DC Noises, BAVR, Arter
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkofii/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinkofii/)*

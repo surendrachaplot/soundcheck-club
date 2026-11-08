@@ -1,6 +1,6 @@
 # oomfhaver
 
-oomfhaver is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mood Ring, New York City on Fri, 4 Dec 2026.
+oomfhaver is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mood Ring, New York City on Fri, 4 Dec 2026.
 
 oomfhaver is a bass and dubstep artist based in United States of America, with 13 gigs on soundcheck across New York City. Often billed alongside Max Parkinson, Minhas and Tone Troy. Next up: Mood Ring, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ oomfhaver is a bass and dubstep artist based in United States of America, with 1
 
 Max Parkinson, Minhas, Tone Troy
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oomfhaver/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oomfhaver/)*

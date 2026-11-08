@@ -1,6 +1,6 @@
 # .if presents: Carl Finlow, talk[2]frank, Carl Hastings at A L P H A B E T
 
-.if presents: Carl Finlow, talk[2]frank, Carl Hastings at A L P H A B E T on Sat 5 Dec, Brighton. 3 artists: Carl Finlow, Carl Hastings and talk[2]frank. Acid and Electro. See the line-up on soundcheck.
+.if presents: Carl Finlow, talk[2]frank, Carl Hastings at A L P H A B E T on Sat 5 Dec, Brighton. 3 artists: Carl Finlow, Carl Hastings and talk[2]frank. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

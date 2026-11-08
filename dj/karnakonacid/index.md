@@ -1,6 +1,6 @@
 # Karnak On Acid
 
-Karnak On Acid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Outer Heaven, New York City on Sat, 12 Dec 2026.
+Karnak On Acid is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Outer Heaven, New York City on Sat, 12 Dec 2026.
 
 Karnak On Acid is a house and techno artist based in Italy, with 20 gigs on soundcheck across Bali, Bangkok, Berlin and Hanoi and 8 more. Often billed alongside Rakim Under, Tony Serban and Jonny Rock. Next up: Outer Heaven, New York City on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Karnak On Acid is a house and techno artist based in Italy, with 20 gigs on soun
 
 Rakim Under, Tony Serban, Jonny Rock
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karnakonacid/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/karnakonacid/)*

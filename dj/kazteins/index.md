@@ -1,6 +1,6 @@
 # Kazteins
 
-Kazteins is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Astron Club, Athens on Fri, 20 Nov 2026.
+Kazteins is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Astron Club, Athens on Fri, 20 Nov 2026.
 
 Kazteins is an electro and techno artist based in Germany, with 30 gigs on soundcheck across Athens and Berlin. Often billed alongside Datalogs, IMPVLSIV and DJ Problems. Next up: Astron Club, Athens on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kazteins is an electro and techno artist based in Germany, with 30 gigs on sound
 
 Datalogs, IMPVLSIV, DJ Problems
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazteins/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kazteins/)*

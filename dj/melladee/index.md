@@ -1,14 +1,13 @@
 # Mella Dee
 
-Mella Dee is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Cause, London on Sat, 7 Nov 2026.
+Mella Dee is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Peddler Warehouse, Sheffield on Sun, 8 Nov 2026.
 
-Mella Dee is a house and techno artist based in United Kingdom, with 179 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: The Cause, London on Sat 7 Nov.
+Mella Dee is a house and techno artist based in United Kingdom, with 179 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 55 more. Often billed alongside Saoirse, Reeshy and Locklead. Next up: Peddler Warehouse, Sheffield on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | The Cause | London |
 | Sun, 8 Nov 2026 | Peddler Warehouse | Sheffield |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 4 Dec 2026 | The Loft | Manchester |
@@ -21,6 +20,7 @@ Mella Dee is a house and techno artist based in United Kingdom, with 179 gigs on
 
 ## Recently played
 
+- The Cause, London · Sat, 7 Nov 2026
 - The Cause, London · Sun, 1 Nov 2026
 - Chelmsford City Racecourse, London · Sun, 1 Nov 2026
 - Ouseburn Garden, Newcastle · Sat, 31 Oct 2026
@@ -28,10 +28,9 @@ Mella Dee is a house and techno artist based in United Kingdom, with 179 gigs on
 - BRET, Amsterdam · Wed, 21 Oct 2026
 - Circuit, South-east · Sat, 17 Oct 2026
 - [UNVRS], Ibiza · Sat, 10 Oct 2026
-- Under The Arches, Leeds · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Saoirse, Reeshy, Locklead
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melladee/)*

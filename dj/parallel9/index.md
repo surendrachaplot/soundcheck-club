@@ -1,6 +1,6 @@
 # Parallel 9
 
-Parallel 9 is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
+Parallel 9 is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Leighton's Farm, Auckland on Wed, 30 Dec 2026.
 
 Parallel 9 is a psytrance and techno artist based in Netherlands, with 2 gigs on soundcheck across Auckland and Croatia. Often billed alongside Sterac Electronics, ADRIATIC COASTING and AROHA. Next up: Leighton's Farm, Auckland on Wed 30 Dec.
 
@@ -15,4 +15,4 @@ Parallel 9 is a psytrance and techno artist based in Netherlands, with 2 gigs on
 
 Sterac Electronics, ADRIATIC COASTING, AROHA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parallel9/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/parallel9/)*

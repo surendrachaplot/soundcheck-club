@@ -1,6 +1,6 @@
 # Bastian Bux
 
-Bastian Bux is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Luz De Gas, Barcelona on Fri, 20 Nov 2026.
+Bastian Bux is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Luz De Gas, Barcelona on Fri, 20 Nov 2026.
 
 Bastian Bux is a house and tech house artist based in Spain, with 100 gigs on soundcheck across Amsterdam, Bali, Barcelona and Boston and 22 more. Often billed alongside Eats Everything, Tini Gessler and Paco Osuna. Next up: Luz De Gas, Barcelona on Fri 20 Nov.
 
@@ -28,4 +28,4 @@ Bastian Bux is a house and tech house artist based in Spain, with 100 gigs on so
 
 Eats Everything, Tini Gessler, Paco Osuna
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bastianbux/)*

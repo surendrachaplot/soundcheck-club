@@ -1,14 +1,13 @@
 # Nina Kraviz
 
-Nina Kraviz is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - 131 McCormack St., Toronto on Sat, 7 Nov 2026.
+Nina Kraviz is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Le Studio TD, Montreal on Sun, 8 Nov 2026.
 
-Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: TBA - 131 McCormack St., Toronto on Sat 7 Nov.
+Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 58 more. Often billed alongside Adiel, Héctor Oaks and Richie Hawtin. Next up: Le Studio TD, Montreal on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA - 131 McCormack St. | Toronto |
 | Sun, 8 Nov 2026 | Le Studio TD | Montreal |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
@@ -19,6 +18,7 @@ Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on sound
 
 ## Recently played
 
+- TBA - 131 McCormack St., Toronto · Sat, 7 Nov 2026
 - NOS Event Center, Los Angeles · Fri, 30 Oct 2026
 - essaim, Paris · Sun, 25 Oct 2026
 - THE OTHER SIDE, Amsterdam · Sun, 25 Oct 2026
@@ -26,10 +26,9 @@ Nina Kraviz is a techno and house artist based in Russia, with 181 gigs on sound
 - Sonora Bordeaux, Bordeaux · Fri, 16 Oct 2026
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - Parc d’Atraccions del Tibidabo, Barcelona · Fri, 9 Oct 2026
-- Amnesia Ibiza, Ibiza · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Adiel, Héctor Oaks, Richie Hawtin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninakraviz/)*

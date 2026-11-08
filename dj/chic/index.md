@@ -1,14 +1,13 @@
 # CHIC
 
-CHIC is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at R Lounge, Tokyo on Fri, 13 Nov 2026.
+CHIC is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Clifton Downs, Bristol on Sun, 8 Aug 2027.
 
-CHIC is a house and techno artist based in United States of America, with 6 gigs on soundcheck across Bristol, London, Nashville and Paris and 1 more. Often billed alongside Nile Rodgers, Dimitri From Paris and Alex Gopher. Next up: R Lounge, Tokyo on Fri 13 Nov.
+CHIC is a house and disco artist based in United States of America, with 5 gigs on soundcheck across Bristol, London, Nashville and Paris. Often billed alongside Nile Rodgers, Dimitri From Paris and Alex Gopher. Next up: Clifton Downs, Bristol on Sun 8 Aug.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 13 Nov 2026 | R Lounge | Tokyo |
 | Sun, 8 Aug 2027 | Clifton Downs | Bristol |
 
 ## Recently played
@@ -22,4 +21,4 @@ CHIC is a house and techno artist based in United States of America, with 6 gigs
 
 Nile Rodgers, Dimitri From Paris, Alex Gopher
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chic/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chic/)*

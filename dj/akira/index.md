@@ -1,6 +1,6 @@
 # Akira
 
-Akira is a Techno and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Jupiter Disco, New York City on Sun, 15 Nov 2026.
+Akira is a Techno and Hip-Hop artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Jupiter Disco, New York City on Sun, 15 Nov 2026.
 
 Akira is a techno and hip-hop artist based in Belgium, with 73 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 19 more. Often billed alongside Kanti, Ophidian and BiBiYUA. Next up: Jupiter Disco, New York City on Sun 15 Nov.
 
@@ -28,4 +28,4 @@ Akira is a techno and hip-hop artist based in Belgium, with 73 gigs on soundchec
 
 Kanti, Ophidian, BiBiYUA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/akira/)*

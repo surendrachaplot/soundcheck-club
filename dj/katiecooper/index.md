@@ -1,6 +1,6 @@
 # KATIE COOPER
 
-KATIE COOPER is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cafeteria, Toronto on Sat, 28 Nov 2026.
+KATIE COOPER is a Garage and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cafeteria, Toronto on Sat, 28 Nov 2026.
 
 KATIE COOPER is a garage and uk funky artist based in United Kingdom, with 20 gigs on soundcheck across Manchester and Toronto. Often billed alongside Elixah, Freeza Chin and Geezr. Next up: Cafeteria, Toronto on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ KATIE COOPER is a garage and uk funky artist based in United Kingdom, with 20 gi
 
 Elixah, Freeza Chin, Geezr
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiecooper/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/katiecooper/)*

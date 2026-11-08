@@ -1,16 +1,13 @@
 # Jamback
 
-Jamback is a House and Tech House artist with 22 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 7 Nov 2026.
+Jamback is a House and Tech House artist with 19 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at 93 Feet East, London on Sun, 8 Nov 2026.
 
-Jamback is a house and tech house artist based in Netherlands, with 216 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: Blackstone Street Warehouse, Liverpool on Sat 7 Nov.
+Jamback is a house and tech house artist based in Netherlands, with 216 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 49 more. Often billed alongside East End Dubs, Marsolo and Rossi. Next up: 93 Feet East, London on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
-| Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
-| Sat, 7 Nov 2026 | Amber's | Manchester |
 | Sun, 8 Nov 2026 | 93 Feet East | London |
 | Thu, 12 Nov 2026 | Unit 51 | Aberdeen |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
@@ -20,20 +17,23 @@ Jamback is a house and tech house artist based in Netherlands, with 216 gigs on 
 | Sat, 21 Nov 2026 | Mint XL | Leeds |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sun, 29 Nov 2026 | Thuishaven | Amsterdam |
+| Wed, 2 Dec 2026 | Factory Town | Miami |
+| Thu, 3 Dec 2026 | Jolene Downtown Miami | Miami |
+| Sat, 12 Dec 2026 | Coda | Toronto |
 
 ## Recently played
 
+- Blackstone Street Warehouse, Liverpool · Sat, 7 Nov 2026
+- Blackstone Street Warehouse, Liverpool · Sat, 7 Nov 2026
+- Amber's, Manchester · Sat, 7 Nov 2026
 - Brooklyn Storehouse, New York City · Sat, 31 Oct 2026
 - Club Space Miami, Miami · Sat, 31 Oct 2026
 - Art Club, Houston · Fri, 30 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Thuishaven, Amsterdam · Sat, 24 Oct 2026
-- Taets Art and Event Park, Netherlands · Fri, 23 Oct 2026
-- Depot, Cardiff · Sat, 17 Oct 2026
-- Circuit, South-east · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 East End Dubs, Marsolo, Rossi
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamback/)*

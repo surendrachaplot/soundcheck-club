@@ -1,14 +1,13 @@
 # Jin Synth
 
-Jin Synth is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Om Being, London on Sat, 7 Nov 2026.
+Jin Synth is a Techno and Experimental artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Macadam, Nantes on Sat, 14 Nov 2026.
 
-Jin Synth is a techno and experimental artist, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Luigi Tozzi, Efdemin and Quelza. Next up: Om Being, London on Sat 7 Nov.
+Jin Synth is a techno and experimental artist, with 64 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Luigi Tozzi, Efdemin and Quelza. Next up: Macadam, Nantes on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Om Being | London |
 | Sat, 14 Nov 2026 | Macadam | Nantes |
 | Fri, 20 Nov 2026 | TBA - San Francisco | San Francisco/Oakland |
 | Fri, 27 Nov 2026 | public records | New York City |
@@ -17,6 +16,7 @@ Jin Synth is a techno and experimental artist, with 64 gigs on soundcheck across
 
 ## Recently played
 
+- Om Being, London · Sat, 7 Nov 2026
 - Astoria, Turin · Fri, 6 Nov 2026
 - Astoria, Turin · Fri, 6 Nov 2026
 - Gaffe, London · Sat, 24 Oct 2026
@@ -24,10 +24,9 @@ Jin Synth is a techno and experimental artist, with 64 gigs on soundcheck across
 - TBA - Paris, Paris · Sat, 10 Oct 2026
 - The Island, Bristol · Fri, 9 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 26 Sept 2026
-- Very Small Club, Budapest · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Luigi Tozzi, Efdemin, Quelza
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jinsynth/)*

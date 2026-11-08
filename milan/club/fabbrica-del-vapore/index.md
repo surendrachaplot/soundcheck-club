@@ -1,6 +1,6 @@
 # Fabbrica del Vapore
 
-Fabbrica del Vapore is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Le Cannibale Milano Music Week - Emmanuelle, Bárbara Boeing" on Sat, 21 Nov 2026.
+Fabbrica del Vapore is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Le Cannibale Milano Music Week - Emmanuelle, Bárbara Boeing" on Sat, 21 Nov 2026.
 
 Fabbrica del Vapore is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Barbara Boeing, Emmanuelle (BR) and Nesa Azadikhah. See dates, start times and who's playing. Via Giulio Cesare Procaccini, 4, 20154 Milano, Italy.
 
@@ -15,4 +15,4 @@ Fabbrica del Vapore is a music venue in Milan listed on soundcheck. 2 upcoming g
 
 Via Giulio Cesare Procaccini, 4, 20154 Milano, Italy, Milan
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/fabbrica-del-vapore/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/fabbrica-del-vapore/)*

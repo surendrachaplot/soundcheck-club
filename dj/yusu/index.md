@@ -1,8 +1,8 @@
 # Yu Su
 
-Yu Su is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
+Yu Su is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
-Yu Su is a house and techno artist based in China, with 168 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 53 more. Often billed alongside Leon Vynehall, Antal and OK Williams. Next up: public records, New York City on Mon 9 Nov.
+Yu Su is a house and techno artist based in China, with 169 gigs on soundcheck across Adelaide, Amsterdam, Austin and Bali and 53 more. Often billed alongside Leon Vynehall, Antal and Job Jobse. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Yu Su is a house and techno artist based in China, with 168 gigs on soundcheck a
 | Sat, 21 Nov 2026 | La Cheetah Club | Glasgow |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Fri, 4 Dec 2026 | NDR2 Red Room | London |
+| Thu, 17 Jun 2027 | TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night) | Barcelona |
 | Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 | Thu, 19 Aug 2027 | The Garden Tisno | Croatia |
 
@@ -31,6 +32,6 @@ Yu Su is a house and techno artist based in China, with 168 gigs on soundcheck a
 
 ## Shares bills with
 
-Leon Vynehall, Antal, OK Williams
+Leon Vynehall, Antal, Job Jobse
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yusu/)*

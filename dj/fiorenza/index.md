@@ -1,6 +1,6 @@
 # FIORENZA
 
-FIORENZA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Back Room Leeds, Leeds on Sun, 8 Nov 2026.
+FIORENZA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Back Room Leeds, Leeds on Sun, 8 Nov 2026.
 
 FIORENZA is a techno and house artist based in United Kingdom, with 3 gigs on soundcheck across Edinburgh, Glasgow and Leeds. Often billed alongside ANGELDOOF, COURTEZ and Justyyna. Next up: The Back Room Leeds, Leeds on Sun 8 Nov.
 
@@ -19,4 +19,4 @@ FIORENZA is a techno and house artist based in United Kingdom, with 3 gigs on so
 
 ANGELDOOF, COURTEZ, Justyyna
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiorenza/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fiorenza/)*

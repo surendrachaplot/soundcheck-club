@@ -1,6 +1,6 @@
 # sweetestcape
 
-sweetestcape is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
+sweetestcape is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Vittoria Wharf Studio, London on Sun, 15 Nov 2026.
 
 sweetestcape is a house and techno artist based in United Kingdom, with 34 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: Vittoria Wharf Studio, London on Sun 15 Nov.
 
@@ -26,4 +26,4 @@ sweetestcape is a house and techno artist based in United Kingdom, with 34 gigs 
 
 Amphia, THEMPRESS, ASHTREY
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sweetestcape/)*

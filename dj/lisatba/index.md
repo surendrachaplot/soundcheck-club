@@ -1,6 +1,6 @@
 # lisa tba
 
-lisa tba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+lisa tba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 lisa tba is a techno and house artist based in Germany, with 44 gigs on soundcheck across Berlin, Dresden, Hamburg and Ho Chi Minh City and 2 more. Often billed alongside Bamela Paywatch, Gwen Wayne and AGILY. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ lisa tba is a techno and house artist based in Germany, with 44 gigs on soundche
 
 Bamela Paywatch, Gwen Wayne, AGILY
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lisatba/)*

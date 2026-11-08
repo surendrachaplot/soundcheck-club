@@ -1,6 +1,6 @@
 # Jamie Bissmire
 
-Jamie Bissmire is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 27 Nov 2026.
+Jamie Bissmire is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Drugstore Beograd, Belgrade on Fri, 27 Nov 2026.
 
 Jamie Bissmire is a techno and experimental artist based in United Kingdom, with 7 gigs on soundcheck across Belgrade, Dublin, Madrid and Medellin and 1 more. Often billed alongside Dario Zenker, Deetron and Dorisburg. Next up: Drugstore Beograd, Belgrade on Fri 27 Nov.
 
@@ -23,4 +23,4 @@ Jamie Bissmire is a techno and experimental artist based in United Kingdom, with
 
 Dario Zenker, Deetron, Dorisburg
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebissmire/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiebissmire/)*

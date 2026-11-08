@@ -1,14 +1,13 @@
 # NTO
 
-NTO is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Zoom Club, Frankfurt on Sat, 7 Nov 2026.
+NTO is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Live Music Hall, Cologne on Fri, 13 Nov 2026.
 
-NTO is a techno and house artist based in France, with 145 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Zoom Club, Frankfurt on Sat 7 Nov.
+NTO is a techno and house artist based in France, with 145 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Prismode, Solvane and Joachim Pastor. Next up: Live Music Hall, Cologne on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Zoom Club | Frankfurt |
 | Fri, 13 Nov 2026 | Live Music Hall | Cologne |
 | Sat, 14 Nov 2026 | O der Klub | Vienna |
 | Fri, 20 Nov 2026 | D! Club | Lausanne |
@@ -20,6 +19,7 @@ NTO is a techno and house artist based in France, with 145 gigs on soundcheck ac
 
 ## Recently played
 
+- Zoom Club, Frankfurt · Sat, 7 Nov 2026
 - Tonhalle, Munich · Fri, 6 Nov 2026
 - Chicago Social Club, Amsterdam · Sat, 24 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Fri, 23 Oct 2026
@@ -27,10 +27,9 @@ NTO is a techno and house artist based in France, with 145 gigs on soundcheck ac
 - Kompass Klub, Ghent · Sat, 17 Oct 2026
 - Ritter Butzke, Berlin · Sat, 10 Oct 2026
 - Docks, Hamburg · Fri, 9 Oct 2026
-- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
 
 ## Shares bills with
 
 Prismode, Solvane, Joachim Pastor
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nto/)*

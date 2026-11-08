@@ -1,6 +1,6 @@
 # zzzzach
 
-zzzzach is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sinners and Saints, Washington DC on Sat, 14 Nov 2026.
+zzzzach is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sinners and Saints, Washington DC on Sat, 14 Nov 2026.
 
 zzzzach is a club and house artist based in United States of America, with 12 gigs on soundcheck across Detroit, Los Angeles, New York City and Washington DC. Often billed alongside Adelaide, Christinathesaintt and kuntress. Next up: Sinners and Saints, Washington DC on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ zzzzach is a club and house artist based in United States of America, with 12 gi
 
 Adelaide (1), Christinathesaintt, kuntress
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zzzzach/)*

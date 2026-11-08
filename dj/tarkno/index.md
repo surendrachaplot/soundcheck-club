@@ -1,6 +1,6 @@
 # Tarkno
 
-Tarkno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Jasna 1, Warsaw on Tue, 10 Nov 2026.
+Tarkno is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Jasna 1, Warsaw on Tue, 10 Nov 2026.
 
 Tarkno is a techno and house artist based in Australia, with 117 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 39 more. Often billed alongside slin, Carmen Electro and RUIZ OSC1. Next up: Jasna 1, Warsaw on Tue 10 Nov.
 
@@ -25,4 +25,4 @@ Tarkno is a techno and house artist based in Australia, with 117 gigs on soundch
 
 slin, Carmen Electro, RUIZ OSC1
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tarkno/)*

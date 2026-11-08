@@ -1,6 +1,6 @@
 # Decliner
 
-Decliner is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Strays, Detroit on Sat, 14 Nov 2026.
+Decliner is a EBM and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Strays, Detroit on Sat, 14 Nov 2026.
 
 Decliner is an ebm and industrial artist based in United States of America, with 11 gigs on soundcheck across Detroit. Often billed alongside Green River Haze, Justin Carver and AK (US). Next up: The Strays, Detroit on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Decliner is an ebm and industrial artist based in United States of America, with
 
 Green River Haze, Justin Carver, AK (US)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decliner/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/decliner/)*

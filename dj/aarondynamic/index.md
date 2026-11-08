@@ -1,6 +1,6 @@
 # Aaron Dynamic
 
-Aaron Dynamic is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Bunker, Sheffield on Sat, 5 Dec 2026.
+Aaron Dynamic is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Bunker, Sheffield on Sat, 5 Dec 2026.
 
 Aaron Dynamic is an electro and techno artist based in United Kingdom, with 35 gigs on soundcheck across London, Nottingham and Sheffield. Often billed alongside Wow & Flutter, Chapel Walk and Hames. Next up: TBA - Bunker, Sheffield on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Aaron Dynamic is an electro and techno artist based in United Kingdom, with 35 g
 
 Wow & Flutter, Chapel Walk, Hames
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondynamic/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aarondynamic/)*

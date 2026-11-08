@@ -1,18 +1,18 @@
 # Loading...
 
-Loading... is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Corktown Tavern, Detroit on Sat, 7 Nov 2026.
+Loading... is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at 1Fox Precinct, Johannesburg on Sat, 12 Dec 2026.
 
-Loading... is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Detroit, Johannesburg and Miami. Often billed alongside Loading... (US), DJ DARIA and Eddie Fowlkes. Next up: Corktown Tavern, Detroit on Sat 7 Nov.
+Loading... is a house and techno artist based in United States of America, with 44 gigs on soundcheck across Detroit, Johannesburg and Miami. Often billed alongside Loading... (US), DJ DARIA and Eddie Fowlkes. Next up: 1Fox Precinct, Johannesburg on Sat 12 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Corktown Tavern | Detroit |
 | Sat, 12 Dec 2026 | 1Fox Precinct | Johannesburg |
 
 ## Recently played
 
+- Corktown Tavern, Detroit · Sat, 7 Nov 2026
 - Temple Bar, Detroit · Sat, 3 Oct 2026
 - Temple Bar, Detroit · Sat, 2 Aug 2025
 - Spkrbox, Detroit · Sat, 7 Jun 2025
@@ -20,10 +20,9 @@ Loading... is a house and techno artist based in United States of America, with 
 - Spkrbox, Detroit · Sat, 5 Apr 2025
 - Spkrbox, Detroit · Sat, 8 Mar 2025
 - Spkrbox, Detroit · Sat, 18 Jan 2025
-- Spkrbox, Detroit · Sat, 11 Jan 2025
 
 ## Shares bills with
 
 Loading... (US), DJ DARIA, Eddie Fowlkes
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loading.../)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loading.../)*

@@ -1,14 +1,13 @@
 # Low Profile Studios
 
-Low Profile Studios is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Digger's Paradise w./ Ralph Lawson" on Sat, 7 Nov 2026.
+Low Profile Studios is a music venue in London with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "SPICED: SUPERSTITION" on Fri, 13 Nov 2026.
 
-Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including AKnight, ANNX, Arrosa and Chester Hayes and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
+Low Profile Studios is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including AKnight, ANNX, Arrosa and Chester Hayes and 2 more. See dates, start times and who's playing. 94 Vale Rd, Harringay Warehouse District, London N4 1PT.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Digger's Paradise w./ Ralph Lawson | Isaac Reuben, Ralph Lawson |
 | Fri, 13 Nov 2026 | SPICED: SUPERSTITION |  |
 | Fri, 13 Nov 2026 | Technodrome: Friday The 13th - Warehouse Rave | Arrosa, Fvck Totvm, Labåzuy, Lady Maru, Lau.tastic, MARIEEEA, TECHSIA |
 | Fri, 20 Nov 2026 | Spice Palace: ddwy & Galo | Galo (2), ddwy |
@@ -23,4 +22,4 @@ Low Profile Studios is a music venue in London listed on soundcheck. 10 upcoming
 
 94 Vale Rd, Harringay Warehouse District, London N4 1PT, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/low-profile-studios/)*

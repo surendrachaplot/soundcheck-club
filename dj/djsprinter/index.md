@@ -1,6 +1,6 @@
 # DJ Sprinter
 
-DJ Sprinter is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Black Bear Lodge, Brisbane on Fri, 13 Nov 2026.
+DJ Sprinter is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Black Bear Lodge, Brisbane on Fri, 13 Nov 2026.
 
 DJ Sprinter is a bass and breakbeat artist, with 18 gigs on soundcheck across Amsterdam, Brisbane, Bristol and Copenhagen and 7 more. Often billed alongside ELOQ, Ave Maria and Svebbe. Next up: Black Bear Lodge, Brisbane on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ DJ Sprinter is a bass and breakbeat artist, with 18 gigs on soundcheck across Am
 
 ELOQ, Ave Maria, Svebbe
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinter/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djsprinter/)*

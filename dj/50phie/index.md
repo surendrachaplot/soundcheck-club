@@ -1,13 +1,14 @@
 # 50PHIE
 
-50PHIE is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Distillery, Leipzig on Sat, 28 Nov 2026.
+50PHIE is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Golden Pudel Club, Hamburg on Thu, 12 Nov 2026.
 
-50PHIE is a techno and house artist based in Germany, with 44 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 2 more. Often billed alongside Jacob Knob, Christian Kluge and Vy Tran. Next up: Distillery, Leipzig on Sat 28 Nov.
+50PHIE is a techno and house artist based in Germany, with 45 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Hannover and 2 more. Often billed alongside Christian Kluge, Jacob Knob and Vy Tran. Next up: Golden Pudel Club, Hamburg on Thu 12 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 12 Nov 2026 | Golden Pudel Club | Hamburg |
 | Sat, 28 Nov 2026 | Distillery | Leipzig |
 
 ## Recently played
@@ -23,6 +24,6 @@
 
 ## Shares bills with
 
-Jacob Knob, Christian Kluge, Vy Tran
+Christian Kluge, Jacob Knob, Vy Tran
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/50phie/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/50phie/)*

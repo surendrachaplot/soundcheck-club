@@ -1,6 +1,6 @@
 # Ritope
 
-Ritope is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TAG Culture Rome, Rome on Sun, 15 Nov 2026.
+Ritope is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TAG Culture Rome, Rome on Sun, 15 Nov 2026.
 
 Ritope is a techno and electro artist based in United Kingdom, with 16 gigs on soundcheck across London and Rome. Often billed alongside Gianmarco Gazzillo, Desiree' and Manlio. Next up: TAG Culture Rome, Rome on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Ritope is a techno and electro artist based in United Kingdom, with 16 gigs on s
 
 Gianmarco Gazzillo, Desiree', Manlio
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ritope/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ritope/)*

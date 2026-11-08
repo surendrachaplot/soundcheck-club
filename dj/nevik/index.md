@@ -1,18 +1,18 @@
 # NEVIK
 
-NEVIK is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Analog Brewing, Alberta on Sat, 7 Nov 2026.
+NEVIK is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Skunkworks, Calgary on Fri, 13 Nov 2026.
 
-NEVIK is an experimental and techno artist based in Canada, with 9 gigs on soundcheck across Alberta and Calgary. Often billed alongside Mildew, Sven K and CHAMOKINGS. Next up: Analog Brewing, Alberta on Sat 7 Nov.
+NEVIK is an experimental and techno artist based in Canada, with 9 gigs on soundcheck across Alberta and Calgary. Often billed alongside Mildew, Sven K and CHAMOKINGS. Next up: Skunkworks, Calgary on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Analog Brewing | Alberta |
 | Fri, 13 Nov 2026 | Skunkworks | Calgary |
 
 ## Recently played
 
+- Analog Brewing, Alberta · Sat, 7 Nov 2026
 - Skunkworks, Calgary · Fri, 2 Oct 2026
 - Skunkworks, Calgary · Sat, 19 Sept 2026
 - Skunkworks, Calgary · Fri, 4 Sept 2026
@@ -25,4 +25,4 @@ NEVIK is an experimental and techno artist based in Canada, with 9 gigs on sound
 
 Mildew, Sven K, CHAMOKINGS
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevik/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nevik/)*

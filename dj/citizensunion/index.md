@@ -1,6 +1,6 @@
 # Citizens Union
 
-Citizens Union is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
+Citizens Union is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at KitKatClub, Berlin on Fri, 13 Nov 2026.
 
 Citizens Union is a house and techno artist based in Georgia, with 46 gigs on soundcheck across Berlin, Leipzig, Stuttgart and Tbilisi. Often billed alongside Natuta, Knaughty and VINVAR. Next up: KitKatClub, Berlin on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Citizens Union is a house and techno artist based in Georgia, with 46 gigs on so
 
 Natuta, Knaughty, VINVAR
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/citizensunion/)*

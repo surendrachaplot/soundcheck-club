@@ -1,14 +1,13 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Reinier Zonneveld Live · Lucia Gea / Bambounou · CCINNI" on Sat, 7 Nov 2026.
+Nitsa Club is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy" on Fri, 13 Nov 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, with line-ups including 2ManyDJs, Bambounou, Bofirax and CCINNI and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including 2ManyDJs, Bofirax, Cloonee and Dengue Dengue Dengue and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Reinier Zonneveld Live · Lucia Gea / Bambounou · CCINNI | Bambounou, CCINNI, Lucía Gea, Reinier Zonneveld |
 | Fri, 13 Nov 2026 | oskar med k · Bofirax · Isa Rojas / DJ Python · RHR · selectya Glossy | Bofirax, DJ Python, Isa Rojas, RHR, oskar med k |
 | Sat, 14 Nov 2026 | SOUNDIT Club: Palms Trax All Night Long / POGO: Mietze Conte · ideasforconversations | Mietze Conte, Palms Trax |
 | Fri, 20 Nov 2026 | Maribou State DJ Set · MAF / Minna-no-Kimochi · Hekt · Oliver Lieb · Julietta Ferrari | Hekt, Julietta Ferrari, MAF, Maribou State, Minna-no-Kimochi, Oliver Lieb |
@@ -21,4 +20,4 @@ Nitsa Club is a music venue in Barcelona listed on soundcheck. 8 upcoming gigs, 
 
 Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain, Barcelona
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/nitsa-club/)*

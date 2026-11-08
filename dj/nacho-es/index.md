@@ -1,6 +1,6 @@
 # Nacho
 
-Nacho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Nacho is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Nacho is a techno and house artist based in Spain, with 21 gigs on soundcheck across Amsterdam, Barcelona, Lisbon and Madrid and 1 more. Often billed alongside Valody, Anika Kunst and GAZTAMBIDE. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Nacho is a techno and house artist based in Spain, with 21 gigs on soundcheck ac
 
 Valody, Anika Kunst, GAZTAMBIDE
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nacho-es/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nacho-es/)*

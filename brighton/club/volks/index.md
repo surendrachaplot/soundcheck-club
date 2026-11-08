@@ -1,14 +1,13 @@
 # Volks
 
-Volks is a music venue in Brighton with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Rough Times Party: Calyx" on Sat, 7 Nov 2026.
+Volks is a music venue in Brighton with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "30 Years of Volks presents: Todd Edwards" on Fri, 13 Nov 2026.
 
-Volks is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with line-ups including Benny L, Calyx, Cleveland Watkiss and Diverge and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
+Volks is a music venue in Brighton listed on soundcheck. 8 upcoming gigs, with line-ups including Benny L, Cleveland Watkiss, Diverge and DJ Brockie and 2 more. See dates, start times and who's playing. 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Rough Times Party: Calyx | Calyx |
 | Fri, 13 Nov 2026 | 30 Years of Volks presents: Todd Edwards | Todd Edwards |
 | Fri, 20 Nov 2026 | Sub-liminal Recordings: Wiley (Jungle Set) | DJ Brockie, Funsta, Heist, Wiley |
 | Sat, 21 Nov 2026 | Delirium X: The Final Show | HLZ (2), Loxy, Seba, Sloe, Vergano |
@@ -22,4 +21,4 @@ Volks is a music venue in Brighton listed on soundcheck. 9 upcoming gigs, with l
 
 3 Madeira Drive; Brighton; BN2 1PS; United Kingdom, Brighton
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/brighton/club/volks/)*

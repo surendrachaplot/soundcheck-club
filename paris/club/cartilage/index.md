@@ -1,6 +1,6 @@
 # Cartilage
 
-Cartilage is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "LA BUCHE DEGOUT A CARTILAGE/ ELECTRO, POST PUNK & PERF" on Tue, 10 Nov 2026.
+Cartilage is a music venue in Paris with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "LA BUCHE DEGOUT A CARTILAGE/ ELECTRO, POST PUNK & PERF" on Tue, 10 Nov 2026.
 
 Cartilage is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with line-ups including Edgussss, Ixpé, James Marceau and Munsinger and 2 more. See dates, start times and who's playing. 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France.
 
@@ -18,4 +18,4 @@ Cartilage is a music venue in Paris listed on soundcheck. 5 upcoming gigs, with 
 
 210 Rue du Faubourg Saint-Antoine, 75012 Paris, France, Paris
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/cartilage/)*

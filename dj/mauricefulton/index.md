@@ -1,6 +1,6 @@
 # Maurice Fulton
 
-Maurice Fulton is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
+Maurice Fulton is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Colour Factory, London on Sat, 14 Nov 2026.
 
 Maurice Fulton is a house and disco artist based in United States of America, with 115 gigs on soundcheck across Adelaide, Amsterdam, Athens and Austin and 38 more. Often billed alongside MUSCLECARS, Tama Sumo and Lakuti. Next up: Colour Factory, London on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Maurice Fulton is a house and disco artist based in United States of America, wi
 
 MUSCLECARS, Tama Sumo, Lakuti
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricefulton/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mauricefulton/)*

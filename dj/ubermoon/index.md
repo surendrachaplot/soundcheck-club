@@ -1,6 +1,6 @@
 # UBERMOON
 
-UBERMOON is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Factory Theatre, Sydney on Fri, 20 Nov 2026.
+UBERMOON is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Factory Theatre, Sydney on Fri, 20 Nov 2026.
 
 UBERMOON is a drum & bass and dubstep artist based in Australia, with 58 gigs on soundcheck across Canberra and Sydney. Often billed alongside Karnotix, Gnomu and Mushu. Next up: Factory Theatre, Sydney on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ UBERMOON is a drum & bass and dubstep artist based in Australia, with 58 gigs on
 
 Karnotix, Gnomu, Mushu
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ubermoon/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ubermoon/)*

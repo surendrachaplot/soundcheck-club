@@ -1,6 +1,6 @@
 # V.X (US)
 
-V.X (US) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
+V.X (US) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Flash, Washington DC on Sat, 14 Nov 2026.
 
 V.X (US) is a house and tech house artist, with 15 gigs on soundcheck across Washington DC. Often billed alongside BE EZY, Figgy and Bridget. Next up: Flash, Washington DC on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ V.X (US) is a house and tech house artist, with 15 gigs on soundcheck across Was
 
 BE EZY, Figgy, Bridget
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v.xusa/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/v.xusa/)*

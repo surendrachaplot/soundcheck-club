@@ -1,6 +1,6 @@
 # Hataken
 
-Hataken is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Wildsidetokyo, Tokyo on Mon, 9 Nov 2026.
+Hataken is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Wildsidetokyo, Tokyo on Mon, 9 Nov 2026.
 
 Hataken is an electro and techno artist based in Japan, with 21 gigs on soundcheck across Beijing, Berlin, Osaka and Seoul and 1 more. Often billed alongside OYKNI, Espinoza and Masayoshi Sakaguchi. Next up: Wildsidetokyo, Tokyo on Mon 9 Nov.
 
@@ -25,4 +25,4 @@ Hataken is an electro and techno artist based in Japan, with 21 gigs on soundche
 
 OYKNI, Espinoza, Masayoshi Sakaguchi
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hataken/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hataken/)*

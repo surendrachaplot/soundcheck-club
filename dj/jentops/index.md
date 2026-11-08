@@ -1,6 +1,6 @@
 # Jen Tops
 
-Jen Tops is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Address revealed to ticket holders day of show, Denver on Sat, 7 Nov 2026.
+Jen Tops is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Address revealed to ticket holders day of show, Denver on Sat, 7 Nov 2026.
 
 Jen Tops is a drum & bass and bass artist based in United States of America, with 6 gigs on soundcheck across Denver and Seattle. Often billed alongside Amit, Carré and Coco Bryce. Next up: TBA - Address revealed to ticket holders day of show, Denver on Sat 7 Nov.
 
@@ -12,6 +12,7 @@ Jen Tops is a drum & bass and bass artist based in United States of America, wit
 
 ## Recently played
 
+- TBA - Address revealed to ticket holders day of show, Denver · Sat, 7 Nov 2026
 - The Black Box, Denver · Sat, 8 Aug 2026
 - Intimät Basement, Denver · Fri, 21 Nov 2025
 - TBA, Denver · Fri, 7 Mar 2025
@@ -22,4 +23,4 @@ Jen Tops is a drum & bass and bass artist based in United States of America, wit
 
 Amit, Carré, Coco Bryce
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jentops/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jentops/)*

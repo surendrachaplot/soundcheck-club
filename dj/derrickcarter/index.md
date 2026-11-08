@@ -1,14 +1,13 @@
 # Derrick Carter
 
-Derrick Carter is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Audio SF, San Francisco/Oakland on Sat, 7 Nov 2026.
+Derrick Carter is a House and Disco artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at smartbar, Chicago on Sun, 8 Nov 2026.
 
-Derrick Carter is a house and disco artist based in United States of America, with 339 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 32 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: Audio SF, San Francisco/Oakland on Sat 7 Nov.
+Derrick Carter is a house and disco artist based in United States of America, with 339 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 32 more. Often billed alongside Michael Serafini, Shaun J. Wright and Garrett David. Next up: smartbar, Chicago on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Audio SF | San Francisco/Oakland |
 | Sun, 8 Nov 2026 | smartbar | Chicago |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 | Sun, 15 Nov 2026 | smartbar | Chicago |
@@ -23,6 +22,7 @@ Derrick Carter is a house and disco artist based in United States of America, wi
 
 ## Recently played
 
+- Audio SF, San Francisco/Oakland · Sat, 7 Nov 2026
 - smartbar, Chicago · Sun, 1 Nov 2026
 - TBA - Downtown Los Angeles, Los Angeles · Fri, 30 Oct 2026
 - smartbar, Chicago · Sun, 25 Oct 2026
@@ -30,10 +30,9 @@ Derrick Carter is a house and disco artist based in United States of America, wi
 - smartbar, Chicago · Sun, 11 Oct 2026
 - Knockdown Center, New York City · Sat, 10 Oct 2026
 - broad hall., Philadelphia · Fri, 9 Oct 2026
-- smartbar, Chicago · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Michael Serafini, Shaun J. Wright, Garrett David
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derrickcarter/)*

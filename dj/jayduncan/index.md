@@ -1,6 +1,6 @@
 # Jay Duncan
 
-Jay Duncan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Greyhound, London on Fri, 13 Nov 2026.
+Jay Duncan is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Greyhound, London on Fri, 13 Nov 2026.
 
 Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Bristol, Brussels and Copenhagen and 13 more. Often billed alongside Lukas Wigflex, Bethan and FAFF. Next up: The Greyhound, London on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ Jay Duncan is a techno and house artist based in United Kingdom, with 76 gigs on
 
 Lukas Wigflex, Bethan, FAFF
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jayduncan/)*

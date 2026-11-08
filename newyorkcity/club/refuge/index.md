@@ -1,14 +1,13 @@
 # Refuge
 
-Refuge is a music venue in New York City with 17 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Refuge Saturday Daytime with Coco & Breezy, Lincoln Jesser, Ksenyeah and L3Ni" on Sat, 7 Nov 2026.
+Refuge is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Refuge Saturday: Balance w/ BASHKKA, Satoshi Tomiie, Kim Anh, Justin Cudmore and More" on Sat, 7 Nov 2026.
 
-Refuge is a music venue in New York City listed on soundcheck. 17 upcoming gigs, with line-ups including DANILO BRACA, AJ Christou, BASHKKA and Bella Mutino and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
+Refuge is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including DANILO BRACA, AJ Christou, BASHKKA and Bella Mutino and 2 more. See dates, start times and who's playing. 366 Ten Eyck St, Brooklyn, NY 11206.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Refuge Saturday Daytime with Coco & Breezy, Lincoln Jesser, Ksenyeah and L3Ni | Coco & Breezy, Ksenyeah, L3Ni |
 | Sat, 7 Nov 2026 | Refuge Saturday: Balance w/ BASHKKA, Satoshi Tomiie, Kim Anh, Justin Cudmore and More | BASHKKA, DANILO BRACA, Justin Cudmore, Kim Anh, Satoshi Tomiie |
 | Fri, 13 Nov 2026 | Refuge Friday with Jeremy Olander | Jeremy Olander |
 | Sat, 14 Nov 2026 | Refuge Saturday Daytime: Shermanology presents D'EAUPE | Dennis Free, Rayzir, Shermanology, nish. |
@@ -18,9 +17,10 @@ Refuge is a music venue in New York City listed on soundcheck. 17 upcoming gigs,
 | Thu, 26 Nov 2026 | David Morales | David Morales |
 | Fri, 27 Nov 2026 | Refuge Friday: Patrice Bäumel, Simon Vuarambon | Patrice Bäumel, Simon Vuarambon |
 | Sat, 28 Nov 2026 | Refuge Saturday Daytime: PNK Records Showcase |  |
+| Sat, 28 Nov 2026 | Refuge Saturday: RISQUÉ with AJ Christou, Shahar, James Wyler, Flair Gambit | AJ Christou, James Wyler, Shahar |
 
 ## Address
 
 366 Ten Eyck St, Brooklyn, NY 11206, New York City
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/refuge/)*

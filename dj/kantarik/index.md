@@ -1,6 +1,6 @@
 # Kantarik
 
-Kantarik is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Vault Club, East on Fri, 27 Nov 2026.
+Kantarik is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Vault Club, East on Fri, 27 Nov 2026.
 
 Kantarik is a tech house and house artist based in Switzerland, with 17 gigs on soundcheck across East, Lausanne and Zurich. Often billed alongside Lou Combo, Alex Kennon and And Hazel. Next up: Vault Club, East on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Kantarik is a tech house and house artist based in Switzerland, with 17 gigs on 
 
 Lou Combo, Alex Kennon, And Hazel
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kantarik/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kantarik/)*

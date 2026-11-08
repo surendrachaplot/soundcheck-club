@@ -1,15 +1,13 @@
 # Future Nightlife
 
-Future Nightlife is a music venue in Toronto with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Alive Saturdays" on Sat, 7 Nov 2026.
+Future Nightlife is a music venue in Toronto with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Rivo - Future's 2 Year Anniversary - Thursday, November 12" on Thu, 12 Nov 2026.
 
-Future Nightlife is a music venue in Toronto listed on soundcheck. 8 upcoming gigs, with line-ups including Rafael Cerato, Rivo, Roger Sanchez and Solardo. See dates, start times and who's playing. 570 Queen Street West.
+Future Nightlife is a music venue in Toronto listed on soundcheck. 6 upcoming gigs, with line-ups including Rafael Cerato, Rivo, Roger Sanchez and Solardo. See dates, start times and who's playing. 570 Queen Street West.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Alive Saturdays |  |
-| Sat, 7 Nov 2026 | Kim Lee - Nov 7 inside FUTURE - Saturday Night |  |
 | Thu, 12 Nov 2026 | Rivo - Future's 2 Year Anniversary - Thursday, November 12 | Rivo |
 | Fri, 13 Nov 2026 | Solardo / Future's 2 Year Anniversary - Friday, November 13 | Solardo |
 | Fri, 20 Nov 2026 | Roger Sanchez | Roger Sanchez |
@@ -21,4 +19,4 @@ Future Nightlife is a music venue in Toronto listed on soundcheck. 8 upcoming gi
 
 570 Queen Street West, Toronto
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/future-nightlife/)*

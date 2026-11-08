@@ -1,6 +1,6 @@
 # Rodrigo Gallardo
 
-Rodrigo Gallardo is a Minimal Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Lismore Turf Club, New-south-wales on Sat, 14 Nov 2026.
+Rodrigo Gallardo is a Minimal Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Lismore Turf Club, New-south-wales on Sat, 14 Nov 2026.
 
 Rodrigo Gallardo is a minimal techno and house artist based in Chile, with 8 gigs on soundcheck across Barcelona, Melbourne, Mexico City and Montreal and 4 more. Often billed alongside Barac, Joplyn and Nico Stojan. Next up: Lismore Turf Club, New South Wales on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Rodrigo Gallardo is a minimal techno and house artist based in Chile, with 8 gig
 
 Barac, Joplyn, Nico Stojan
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigogallardo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rodrigogallardo/)*

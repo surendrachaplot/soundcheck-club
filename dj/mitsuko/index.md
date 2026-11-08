@@ -1,6 +1,6 @@
 # Mitsuko
 
-Mitsuko is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at NOC - Not Only Coffee, Berlin on Sat, 14 Nov 2026.
+Mitsuko is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at NOC - Not Only Coffee, Berlin on Sat, 14 Nov 2026.
 
 Mitsuko is a house and deep house artist based in Germany, with 29 gigs on soundcheck across Berlin and Tokyo. Often billed alongside LIZZN, Miss Kitchen and ADAM REC.. Next up: NOC - Not Only Coffee, Berlin on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Mitsuko is a house and deep house artist based in Germany, with 29 gigs on sound
 
 LIZZN, Miss Kitchen, ADAM REC.
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mitsuko/)*

@@ -1,6 +1,6 @@
 # Lily London
 
-Lily London is a Broken Beat and Bass artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Ninety One, London on Sat, 14 Nov 2026.
+Lily London is a Broken Beat and Bass artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Ninety One, London on Sat, 14 Nov 2026.
 
 Lily London is a broken beat and bass artist based in United Kingdom, with 35 gigs on soundcheck across Brighton and London. Often billed alongside Dreamrdreamr, Earful of Wax and Joe Milli. Next up: Ninety One, London on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Lily London is a broken beat and bass artist based in United Kingdom, with 35 gi
 
 Dreamrdreamr, Earful of Wax, Joe Milli
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylondon/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lilylondon/)*

@@ -1,6 +1,6 @@
 # Melati
 
-Melati is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Autumn Three, London on Thu, 3 Dec 2026.
+Melati is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Autumn Three, London on Thu, 3 Dec 2026.
 
 Melati is a techno and trance artist based in United Kingdom, with 57 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 9 more. Often billed alongside Saroor, olesia and Cosmic Caz. Next up: Autumn Three, London on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Melati is a techno and trance artist based in United Kingdom, with 57 gigs on so
 
 Saroor, olesia, Cosmic Caz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melati/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/melati/)*

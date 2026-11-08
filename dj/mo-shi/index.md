@@ -1,6 +1,6 @@
 # Mo-Shi
 
-Mo-Shi is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
+Mo-Shi is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat, 21 Nov 2026.
 
 Mo-Shi is a house and deep house artist based in France, with 33 gigs on soundcheck across Bali, Bangkok, Beijing and Dubai and 4 more. Often billed alongside Milam, Leon (FR) and Nino (FR). Next up: Hong Kong Observation Wheel & AIA Vitality Park, Hong Kong on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Mo-Shi is a house and deep house artist based in France, with 33 gigs on soundch
 
 Milam, Leon (FR), Nino (FR)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mo-shi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mo-shi/)*

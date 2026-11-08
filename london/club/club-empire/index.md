@@ -1,14 +1,13 @@
 # Club Empire
 
-Club Empire is a music venue in London with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Club Empire Launch Party: House/Disco (Unannounced Line Up)" on Sat, 7 Nov 2026.
+Club Empire is a music venue in London with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "4 Hours With: Asa Tate & Zaltsman" on Fri, 13 Nov 2026.
 
-Club Empire is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Asa Tate, Daisybelle, Emerald and Funster and 2 more. See dates, start times and who's playing. Club Empire, 289 Mare Street, Hackney, London, E8 1EJ, United Kingdom.
+Club Empire is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Asa Tate, Daisybelle, Emerald and Funster and 2 more. See dates, start times and who's playing. Club Empire, 289 Mare Street, Hackney, London, E8 1EJ, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Club Empire Launch Party: House/Disco (Unannounced Line Up) |  |
 | Fri, 13 Nov 2026 | 4 Hours With: Asa Tate & Zaltsman | Asa Tate, Zaltsman |
 | Sat, 14 Nov 2026 | 4 Hours With: Thris Tian | Global Roots, Thris Tian |
 | Fri, 20 Nov 2026 | 4 Hours With: Miche | Miche |
@@ -18,9 +17,10 @@ Club Empire is a music venue in London listed on soundcheck. 11 upcoming gigs, w
 | Sat, 5 Dec 2026 | 4 Hours With: Nina Yamada | Nina Yamada |
 | Fri, 11 Dec 2026 | 4 Hours With: Lily London | Lily London |
 | Sat, 12 Dec 2026 | 4 Hours With: Wolf Music | Wolf Music |
+| Fri, 18 Dec 2026 | 4 Hours With: Emerald | Emerald |
 
 ## Address
 
 Club Empire, 289 Mare Street, Hackney, London, E8 1EJ, United Kingdom, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-empire/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-empire/)*

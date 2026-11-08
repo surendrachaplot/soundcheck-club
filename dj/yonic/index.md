@@ -1,6 +1,6 @@
 # Yonic
 
-Yonic is a Jungle and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 5 Dec 2026.
+Yonic is a Jungle and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at PIP Den Haag, The Hague on Sat, 5 Dec 2026.
 
 Yonic is a jungle and electronica artist based in Netherlands, with 5 gigs on soundcheck across Athens, Manchester, Manila and Medellin and 1 more. Often billed alongside Amir, CHEX and Daccach. Next up: PIP Den Haag, The Hague on Sat 5 Dec.
 
@@ -21,4 +21,4 @@ Yonic is a jungle and electronica artist based in Netherlands, with 5 gigs on so
 
 Amir, CHEX, Daccach
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonic/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yonic/)*

@@ -1,15 +1,14 @@
 # teller
 
-teller is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Invites Kensa" on Sat, 7 Nov 2026.
+teller is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "HUME 002: AFTER SUNSET" on Sun, 8 Nov 2026.
 
-teller is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including .2ndfloor, Hakim., hcy. and Ion Ludwig and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
+teller is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with line-ups including .2ndfloor, hcy., Ion Ludwig and Jongho and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Invites Kensa | Hakim., Kensa, Oho. |
-| Sun, 8 Nov 2026 | HUME 002: AFTER SUNSET | Mihak, Nomal, Yu Mi |
+| Sun, 8 Nov 2026 | HUME 002: AFTER SUNSET | Mihak, Nomal, Yumi |
 | Fri, 13 Nov 2026 | Subtrance | Krijka, Sunghoon, Xanexx, hcy. |
 | Sat, 14 Nov 2026 | Invites Mari.te | .2ndfloor, Mari.te |
 | Thu, 19 Nov 2026 | Invites Serenne | Krijka, Oho., Serenne |
@@ -21,4 +20,4 @@ teller is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with lin
 
 B1, 39, Usadan-ro, Yongsan-gu, Seoul, Seoul
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/teller/)*

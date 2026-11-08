@@ -1,6 +1,6 @@
 # ECSTA
 
-ECSTA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Estraperlo, Barcelona on Fri, 11 Dec 2026.
+ECSTA is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Estraperlo, Barcelona on Fri, 11 Dec 2026.
 
 ECSTA is a drum & bass and jungle artist based in Spain, with 20 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside CAPITANA, BALA and Basstripper. Next up: Estraperlo, Barcelona on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ ECSTA is a drum & bass and jungle artist based in Spain, with 20 gigs on soundch
 
 CAPITANA, BALA (3), Basstripper
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ecsta/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ecsta/)*

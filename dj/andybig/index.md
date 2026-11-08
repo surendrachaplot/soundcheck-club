@@ -1,6 +1,6 @@
 # Andy Big
 
-Andy Big is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Flash, Washington DC on Sat, 21 Nov 2026.
+Andy Big is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Flash, Washington DC on Sat, 21 Nov 2026.
 
 Andy Big is a deep house and house artist, with 7 gigs on soundcheck across Baltimore and Washington DC. Often billed alongside Hoppa, ADREE and Cassia. Next up: Flash, Washington DC on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Andy Big is a deep house and house artist, with 7 gigs on soundcheck across Balt
 
 Hoppa, ADREE, Cassia
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andybig/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/andybig/)*

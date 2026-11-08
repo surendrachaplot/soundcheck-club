@@ -1,8 +1,8 @@
 # Jackie Hollander
 
-Jackie Hollander is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Night We Met, Nashville on Fri, 13 Nov 2026.
+Jackie Hollander is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Night We Met, Nashville on Fri, 13 Nov 2026.
 
-Jackie Hollander is a house and tech house artist based in United States of America, with 62 gigs on soundcheck across Austin, Bali, Baltimore and Boston and 23 more. Often billed alongside Gorgon City, Riordan and Max Styler. Next up: Night We Met, Nashville on Fri 13 Nov.
+Jackie Hollander is a house and tech house artist based in United States of America, with 63 gigs on soundcheck across Austin, Bali, Baltimore and Boston and 24 more. Often billed alongside Gorgon City, Riordan and Max Styler. Next up: Night We Met, Nashville on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Jackie Hollander is a house and tech house artist based in United States of Amer
 | Thu, 31 Dec 2026 | Petco Park | San-diego |
 | Thu, 21 Jan 2027 | Royal Caribbean Cruise Ship | Miami |
 | Wed, 17 Mar 2027 | Happy Bay Beach | Saint-martin |
+| Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Jackie Hollander is a house and tech house artist based in United States of Amer
 
 Gorgon City, Riordan, Max Styler
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jackiehollander/)*

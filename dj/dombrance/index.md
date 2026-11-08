@@ -1,6 +1,6 @@
 # Dombrance
 
-Dombrance is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sunday Sunday, Mexico City on Sun, 8 Nov 2026.
+Dombrance is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sunday Sunday, Mexico City on Sun, 8 Nov 2026.
 
 Dombrance is a disco and house artist based in France, with 46 gigs on soundcheck across Barcelona, Berlin, Bogotá and Brighton and 14 more. Often billed alongside Discolypso Crew, Isaac Ferry and Freudenthal. Next up: Sunday Sunday, Mexico City on Sun 8 Nov.
 
@@ -27,4 +27,4 @@ Dombrance is a disco and house artist based in France, with 46 gigs on soundchec
 
 Discolypso Crew, Isaac Ferry, Freudenthal
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dombrance/)*

@@ -1,6 +1,6 @@
 # Okouru
 
-Okouru is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
+Okouru is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Renate, Berlin on Thu, 31 Dec 2026.
 
 Okouru is a techno and trance artist based in France, with 34 gigs on soundcheck across Berlin, Copenhagen, London and Marseille and 2 more. Often billed alongside Harrison Heat, Matriark and Trancesetters of Westphalia. Next up: Renate, Berlin on Thu 31 Dec.
 
@@ -25,4 +25,4 @@ Okouru is a techno and trance artist based in France, with 34 gigs on soundcheck
 
 Harrison Heat, Matriark, Trancesetters of Westphalia
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okouru/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/okouru/)*

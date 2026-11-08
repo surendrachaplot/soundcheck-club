@@ -1,6 +1,6 @@
 # Logan_olm
 
-Logan_olm is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 4 Dec 2026.
+Logan_olm is a Grime and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at RSO.BERLIN, Berlin on Fri, 4 Dec 2026.
 
 Logan_olm is a grime and dubstep artist based in United Kingdom, with 15 gigs on soundcheck across Belgrade, Berlin, Bristol and Brussels and 4 more. Often billed alongside Duppy, Kruz Leone and Oblig. Next up: RSO.BERLIN, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Logan_olm is a grime and dubstep artist based in United Kingdom, with 15 gigs on
 
 Duppy, Kruz Leone, Oblig
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logan_olm/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/logan_olm/)*

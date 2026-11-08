@@ -1,6 +1,6 @@
 # David Holmes
 
-David Holmes is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Sat, 30 Jan 2027.
+David Holmes is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Port of Leith Distillery, Edinburgh on Sat, 30 Jan 2027.
 
 David Holmes is a house and electronica artist based in Ireland, with 44 gigs on soundcheck across Belfast, Birmingham, Cork and Croatia and 8 more. Often billed alongside Sean Johnston, Optimo (Espacio) and Daniel Avery. Next up: Port of Leith Distillery, Edinburgh on Sat 30 Jan.
 
@@ -26,4 +26,4 @@ David Holmes is a house and electronica artist based in Ireland, with 44 gigs on
 
 Sean Johnston, Optimo (Espacio), Daniel Avery
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidholmes/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/davidholmes/)*

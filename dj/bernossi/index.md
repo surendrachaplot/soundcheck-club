@@ -1,6 +1,6 @@
 # Bernossi
 
-Bernossi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at glimmer, Hamburg on Sat, 14 Nov 2026.
+Bernossi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at glimmer, Hamburg on Sat, 14 Nov 2026.
 
 Bernossi is a techno and trance artist based in Germany, with 38 gigs on soundcheck across Berlin, Hamburg, Madrid and Munich and 2 more. Often billed alongside DJ Mischkonsum, Mondaiji and TSAVAGE. Next up: glimmer, Hamburg on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Bernossi is a techno and trance artist based in Germany, with 38 gigs on soundch
 
 DJ Mischkonsum, Mondaiji, TSAVAGE
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bernossi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bernossi/)*

@@ -1,6 +1,6 @@
 # Gina Demarchi
 
-Gina Demarchi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at WDM, Hannover on Sat, 30 Jan 2027.
+Gina Demarchi is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at WDM, Hannover on Sat, 30 Jan 2027.
 
 Gina Demarchi is a techno and house artist based in Germany, with 67 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 25 more. Often billed alongside Amanda Mussi, Anders Horse and Chris Liebing. Next up: WDM, Hannover on Sat 30 Jan.
 
@@ -25,4 +25,4 @@ Gina Demarchi is a techno and house artist based in Germany, with 67 gigs on sou
 
 Amanda Mussi, Anders Horse, Chris Liebing
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ginademarchi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ginademarchi/)*

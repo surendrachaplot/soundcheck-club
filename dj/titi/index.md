@@ -1,6 +1,6 @@
 # TiTi
 
-TiTi is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
+TiTi is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Maassilo, Rotterdam on Sat, 14 Nov 2026.
 
 TiTi is a techno and industrial artist based in China, with 26 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 12 more. Often billed alongside BLNK, LIEKS and BØĘRY. Next up: Maassilo, Rotterdam on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ TiTi is a techno and industrial artist based in China, with 26 gigs on soundchec
 
 BLNK, LIEKS, BØĘRY
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/titi/)*

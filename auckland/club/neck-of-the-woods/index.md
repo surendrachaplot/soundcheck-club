@@ -1,6 +1,6 @@
 # Neck of the Woods
 
-Neck of the Woods is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "KRITIKAL" on Fri, 13 Nov 2026.
+Neck of the Woods is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "KRITIKAL" on Fri, 13 Nov 2026.
 
 Neck of the Woods is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Ash, JSquare, Kritical and Lady Shaka and 2 more. See dates, start times and who's playing. 155 Karangahape Road, Auckland 1010, New Zealand.
 
@@ -17,4 +17,4 @@ Neck of the Woods is a music venue in Auckland listed on soundcheck. 4 upcoming 
 
 155 Karangahape Road, Auckland 1010, New Zealand, Auckland
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/neck-of-the-woods/)*

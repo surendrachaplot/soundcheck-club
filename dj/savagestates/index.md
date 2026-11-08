@@ -1,6 +1,6 @@
 # Savage States
 
-Savage States is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Blvck Water, Osaka on Sat, 12 Dec 2026.
+Savage States is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Blvck Water, Osaka on Sat, 12 Dec 2026.
 
 Savage States is a hardcore and jungle artist based in Japan, with 45 gigs on soundcheck across Bristol, Osaka and Tokyo. Often billed alongside matres, merupo and ZAGUN. Next up: Blvck Water, Osaka on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Savage States is a hardcore and jungle artist based in Japan, with 45 gigs on so
 
 matres, merupo, ZAGUN
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savagestates/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/savagestates/)*

@@ -1,6 +1,6 @@
 # dobrawka
 
-dobrawka is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Ciało, Wroclaw on Fri, 4 Dec 2026.
+dobrawka is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Fri, 4 Dec 2026.
 
 dobrawka is a bass and trance artist, with 7 gigs on soundcheck across Krakow, Poznan, Warsaw and Wroclaw. Often billed alongside Loskop, Adelix and Berna (PL). Next up: Ciało, Wroclaw on Fri 4 Dec.
 
@@ -23,4 +23,4 @@ dobrawka is a bass and trance artist, with 7 gigs on soundcheck across Krakow, P
 
 Loskop, Adelix, Berna (PL)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dobrawka/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dobrawka/)*

@@ -1,6 +1,6 @@
 # Yōkai.
 
-Yōkai. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nashaz, Brussels on Sun, 8 Nov 2026.
+Yōkai. is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Nashaz, Brussels on Sun, 8 Nov 2026.
 
 Yōkai. is a techno and trance artist based in Belgium, with 6 gigs on soundcheck across Brussels and Paris. Often billed alongside TeaOtim, DND (BE) and Ksaar. Next up: Nashaz, Brussels on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ Yōkai. is a techno and trance artist based in Belgium, with 6 gigs on soundchec
 
 TeaOtim, DND (BE), Ksaar
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yokai./)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/yokai./)*

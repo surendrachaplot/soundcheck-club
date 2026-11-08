@@ -1,6 +1,6 @@
 # Meltem Yazar
 
-Meltem Yazar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Meltem Yazar is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Meltem Yazar is a techno and house artist based in Turkey, with 18 gigs on soundcheck across Berlin, Cologne, London and Rotterdam. Often billed alongside Madelic, AKWA and Hardt Antoine. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Meltem Yazar is a techno and house artist based in Turkey, with 18 gigs on sound
 
 Madelic, AKWA, Hardt Antoine
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltemyazar/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/meltemyazar/)*

@@ -1,6 +1,6 @@
 # Ether Pleaser
 
-Ether Pleaser is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sinners and Saints, Washington DC on Sat, 14 Nov 2026.
+Ether Pleaser is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sinners and Saints, Washington DC on Sat, 14 Nov 2026.
 
 Ether Pleaser is a techno and club artist based in United States of America, with 56 gigs on soundcheck across Baltimore, New York City, Philadelphia and Richmond and 1 more. Often billed alongside znorthy, Franxx and CYB3R T0NIN. Next up: Sinners and Saints, Washington DC on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Ether Pleaser is a techno and club artist based in United States of America, wit
 
 znorthy, Franxx, CYB3R T0NIN
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etherpleaser/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etherpleaser/)*

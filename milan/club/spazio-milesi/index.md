@@ -1,6 +1,6 @@
 # Spazio Milesi
 
-Spazio Milesi is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "DELTA MATTER" on Fri, 20 Nov 2026.
+Spazio Milesi is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "DELTA MATTER" on Fri, 20 Nov 2026.
 
 Spazio Milesi is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Spazio Milesi is a music venue in Milan listed on soundcheck. 1 upcoming gig. Se
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | DELTA MATTER |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/spazio-milesi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/milan/club/spazio-milesi/)*

@@ -1,18 +1,19 @@
 # FRAGK
 
-FRAGK is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at B side Athens, Athens on Sat, 7 Nov 2026.
+FRAGK is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dybbuk, Athens on Sat, 14 Nov 2026.
 
-FRAGK is a house and techno artist, with 9 gigs on soundcheck across Athens. Often billed alongside Bonso, ClubKid and 22. Next up: B side Athens, Athens on Sat 7 Nov.
+FRAGK is a house and techno artist, with 9 gigs on soundcheck across Athens. Often billed alongside Bonso, ClubKid and 22. Next up: Dybbuk, Athens on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | B side Athens | Athens |
 | Sat, 14 Nov 2026 | Dybbuk | Athens |
 
 ## Recently played
 
+- B side Athens, Athens · Sat, 7 Nov 2026
+- Skull Bar, Athens · Sat, 7 Nov 2026
 - Crust Basement, Athens · Fri, 6 Nov 2026
 - Astron Club, Athens · Fri, 23 Oct 2026
 - Crust Basement, Athens · Sat, 10 Oct 2026
@@ -24,4 +25,4 @@ FRAGK is a house and techno artist, with 9 gigs on soundcheck across Athens. Oft
 
 Bonso, ClubKid, 22 (1)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fragk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fragk/)*

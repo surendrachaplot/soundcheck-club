@@ -1,6 +1,6 @@
 # Larix
 
-Larix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mastak, Warsaw on Sat, 5 Dec 2026.
+Larix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mastak, Warsaw on Sat, 5 Dec 2026.
 
 Larix is a techno and house artist based in Poland, with 9 gigs on soundcheck across Warsaw. Often billed alongside SKFF, KoZa and Angelo Mike. Next up: Mastak, Warsaw on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Larix is a techno and house artist based in Poland, with 9 gigs on soundcheck ac
 
 SKFF, KoZa, Angelo Mike
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larix/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/larix/)*

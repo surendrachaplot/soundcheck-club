@@ -1,6 +1,6 @@
 # Zorza
 
-Zorza is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Smoke & Mirrors, Chicago on Sat, 26 Dec 2026.
+Zorza is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Smoke & Mirrors, Chicago on Sat, 26 Dec 2026.
 
 Zorza is a techno and trance artist based in Canada, with 113 gigs on soundcheck across Atlanta, Austin, Barcelona and Beijing and 41 more. Often billed alongside TDJ, Shlømo and Cera Khin. Next up: Smoke & Mirrors, Chicago on Sat 26 Dec.
 
@@ -29,4 +29,4 @@ Zorza is a techno and trance artist based in Canada, with 113 gigs on soundcheck
 
 TDJ, Shlømo, Cera Khin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zorza/)*

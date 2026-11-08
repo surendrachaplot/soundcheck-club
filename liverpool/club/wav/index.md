@@ -1,14 +1,13 @@
 # WaV
 
-WaV is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Seb Fontaine presents Prototype" on Sat, 7 Nov 2026.
+WaV is a music venue in Liverpool with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Ravelife: Event 6 at WAV" on Sat, 14 Nov 2026.
 
-WaV is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Aidyscape, Daxson, Hidde van Wee and John Kelly and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
+WaV is a music venue in Liverpool listed on soundcheck. 9 upcoming gigs, with line-ups including Aidyscape, Daxson, Hidde van Wee and John Kelly and 2 more. See dates, start times and who's playing. 8 Glegg Street, Liverpool , L3 7DX.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Seb Fontaine presents Prototype | Seb Fontaine |
 | Sat, 14 Nov 2026 | Ravelife: Event 6 at WAV | Klubfiller, Nanna Makina |
 | Sat, 28 Nov 2026 | 909 x WAV presents Seladoria |  |
 | Fri, 4 Dec 2026 | Commune Presents: Hidde Van Wee 4 Hour Set | Hidde van Wee |
@@ -23,4 +22,4 @@ WaV is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with l
 
 8 Glegg Street, Liverpool , L3 7DX, Liverpool
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/wav/)*

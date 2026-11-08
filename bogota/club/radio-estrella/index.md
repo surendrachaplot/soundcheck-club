@@ -1,15 +1,14 @@
 # Radio Estrella
 
-Radio Estrella is a music venue in Bogotá with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Aftermath Take Over" on Sat, 7 Nov 2026.
+Radio Estrella is a music venue in Bogotá with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Pink Noise by Keith Barrera" on Sat, 14 Nov 2026.
 
-Radio Estrella is a music venue in Bogotá listed on soundcheck. 3 upcoming gigs, with line-ups including Assailants, B444DLOVE, Ben Sims and Frau Troffea and 2 more. See dates, start times and who's playing.
+Radio Estrella is a music venue in Bogotá listed on soundcheck. 2 upcoming gigs, with line-ups including Assailants, B444DLOVE, Ben Sims and Keith barrera and 1 more. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Aftermath Take Over | Frau Troffea, Gabo Forero |
 | Sat, 14 Nov 2026 | Pink Noise by Keith Barrera | Keith barrera (3) |
 | Thu, 19 Nov 2026 | Assailants (Ben Sims + Truncate) | Assailants, B444DLOVE, Ben Sims, Truncate |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/radio-estrella/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/bogota/club/radio-estrella/)*

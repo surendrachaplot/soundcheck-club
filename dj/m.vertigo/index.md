@@ -1,6 +1,6 @@
 # M.Vertigo
 
-M.Vertigo is a Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Arca, Milan on Sun, 8 Nov 2026.
+M.Vertigo is a Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Arca, Milan on Sun, 8 Nov 2026.
 
 M.Vertigo is a techno artist based in Italy, with 6 gigs on soundcheck across Milan. Often billed alongside Münich, Diamantha and AllaDerivaLontano. Next up: Arca, Milan on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ M.Vertigo is a techno artist based in Italy, with 6 gigs on soundcheck across Mi
 
 Münich, Diamantha, AllaDerivaLontano
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.vertigo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/m.vertigo/)*

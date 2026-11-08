@@ -1,6 +1,6 @@
 # .JPG
 
-.JPG is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Powsounds Club, Venezuela on Fri, 13 Nov 2026.
+.JPG is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Powsounds Club, Venezuela on Fri, 13 Nov 2026.
 
 .JPG is a house and electro artist based in Venezuela, with 12 gigs on soundcheck across Barcelona, Bogotá, Madrid and Venezuela. Often billed alongside Moig, LM and Sampol. Next up: Powsounds Club, Venezuela on Fri 13 Nov.
 
@@ -25,4 +25,4 @@
 
 Moig, LM, Sampol
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.jpg/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/.jpg/)*

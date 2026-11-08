@@ -1,6 +1,6 @@
 # s.talbot
 
-s.talbot is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bande Passante, Montreal on Sun, 15 Nov 2026.
+s.talbot is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bande Passante, Montreal on Sun, 15 Nov 2026.
 
 s.talbot is a techno and electro artist based in Belgium, with 29 gigs on soundcheck across Montreal. Often billed alongside esme (US), Lilaiza and Miette. Next up: Bande Passante, Montreal on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ s.talbot is a techno and electro artist based in Belgium, with 29 gigs on soundc
 
 esme (US), Lilaiza, Miette
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.talbot/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/s.talbot/)*

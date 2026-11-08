@@ -1,14 +1,13 @@
 # Deorro
 
-Deorro is a House and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Deorro is a House and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Panther Island Pavilion, Dallas-fort-worth on Fri, 23 Apr 2027.
 
-Deorro is a house and latin bass artist based in United States of America, with 33 gigs on soundcheck across Arizona, Austin, Boston and Charlotte and 13 more. Often billed alongside Kaskade, Nico Moreno and Seven Lions. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Deorro is a house and latin bass artist based in United States of America, with 33 gigs on soundcheck across Arizona, Austin, Boston and Charlotte and 13 more. Often billed alongside Kaskade, Nico Moreno and Seven Lions. Next up: Panther Island Pavilion, Dallas Fort Worth on Fri 23 Apr.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 23 Apr 2027 | Panther Island Pavilion | Dallas-fort-worth |
 
 ## Recently played
@@ -26,4 +25,4 @@ Deorro is a house and latin bass artist based in United States of America, with 
 
 Kaskade, Nico Moreno, Seven Lions
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deorro/)*

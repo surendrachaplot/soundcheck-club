@@ -1,6 +1,6 @@
 # DJ Ramon Sucesso
 
-DJ Ramon Sucesso is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
+DJ Ramon Sucesso is a Baile Funk and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Autódromo de Interlagos, Sao Paulo on Sat, 5 Dec 2026.
 
 DJ Ramon Sucesso is a baile funk and techno artist based in Brazil, with 15 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Lisbon and 5 more. Often billed alongside Carlos do Complexo, DJ RaMeMes and LARINHX. Next up: Autódromo de Interlagos, Sao Paulo on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ DJ Ramon Sucesso is a baile funk and techno artist based in Brazil, with 15 gigs
 
 Carlos do Complexo, DJ RaMeMes, LARINHX
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djramonsucesso/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djramonsucesso/)*

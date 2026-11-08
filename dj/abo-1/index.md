@@ -1,18 +1,18 @@
 # Abo Abo
 
-Abo Abo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Brancaleone, Rome on Sat, 7 Nov 2026.
+Abo Abo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 19 Nov 2026.
 
-Abo Abo is a techno and trance artist, with 63 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 17 more. Often billed alongside Plastique01, TOMO and Marco Maldarella. Next up: Brancaleone, Rome on Sat 7 Nov.
+Abo Abo is a techno and trance artist, with 63 gigs on soundcheck across Amsterdam, Berlin, Bologna and Brussels and 17 more. Often billed alongside Plastique01, TOMO and Marco Maldarella. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 19 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Brancaleone | Rome |
 | Thu, 19 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 
 ## Recently played
 
+- Brancaleone, Rome · Sat, 7 Nov 2026
 - TBA - SECRET LOCATION, Florence · Fri, 9 Oct 2026
 - ex Centrale, Bologna · Fri, 2 Oct 2026
 - Gattaccio, Florence · Tue, 29 Sept 2026
@@ -20,10 +20,9 @@ Abo Abo is a techno and trance artist, with 63 gigs on soundcheck across Amsterd
 - Hausmania, Oslo · Thu, 13 Aug 2026
 - Gattaccio, Florence · Tue, 30 Jun 2026
 - Lumen Firenze, Florence · Sun, 28 Jun 2026
-- Slot, Hamburg · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Plastique01, TOMO (2), Marco Maldarella
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abo-1/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/abo-1/)*

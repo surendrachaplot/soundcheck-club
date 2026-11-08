@@ -1,6 +1,6 @@
 # EQ (Estratosfera + Qiri)
 
-EQ (Estratosfera + Qiri) is a Club and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
+EQ (Estratosfera + Qiri) is a Club and Electronica artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Echoplex, Los Angeles on Fri, 6 Nov 2026.
 
 EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with 27 gigs on soundcheck across Amsterdam, Atlanta, Barcelona and Berlin and 20 more. Often billed alongside Bclip, Jawnino and Ahadadream. Next up: The Echoplex, Los Angeles on Fri 6 Nov.
 
@@ -30,4 +30,4 @@ EQ (Estratosfera + Qiri) are a club and electronica duo based in Argentina, with
 
 Bclip, Jawnino, Ahadadream
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eqestratosferaqiri/)*

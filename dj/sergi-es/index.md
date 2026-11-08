@@ -1,18 +1,18 @@
 # Sergi (ES)
 
-Sergi (ES) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 7 Nov 2026.
+Sergi (ES) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 14 Nov 2026.
 
-Sergi (ES) is a house and techno artist based in Spain, with 47 gigs on soundcheck across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA - Tibidabo Area, Barcelona on Sat 7 Nov.
+Sergi (ES) is a house and techno artist based in Spain, with 47 gigs on soundcheck across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | TBA - Tibidabo Area | Barcelona |
 | Sat, 14 Nov 2026 | TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) | Barcelona |
 
 ## Recently played
 
+- TBA - Tibidabo Area, Barcelona · Sat, 7 Nov 2026
 - TBA - Tibidabo Area, Barcelona · Sat, 17 Oct 2026
 - Heave Festival, Madrid · Fri, 25 Sept 2026
 - TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Thu, 28 May 2026
@@ -20,10 +20,9 @@ Sergi (ES) is a house and techno artist based in Spain, with 47 gigs on soundche
 - TBA - VRABA, Barcelona · Fri, 19 Dec 2025
 - Buena Onda Social Club, Barcelona · Sat, 26 Jul 2025
 - Les Enfants Brillants, Barcelona · Fri, 4 Jul 2025
-- TBA - SECRET OFF BEACH OASIS, Barcelona · Fri, 13 Jun 2025
 
 ## Shares bills with
 
 Demofather, LAUCY, Tamborero
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergi-es/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sergi-es/)*

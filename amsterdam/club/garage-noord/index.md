@@ -1,14 +1,13 @@
 # Garage Noord
 
-Garage Noord is a music venue in Amsterdam with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Mirror Zone" on Sat, 7 Nov 2026.
+Garage Noord is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Tempo Marauders 2 year anniversary" on Sun, 8 Nov 2026.
 
-Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming gigs, with line-ups including 2tongues, Anthony Linell, AUCO and baby ganoush and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
+Garage Noord is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including 2tongues, Anthony Linell, AUCO and baby ganoush and 2 more. See dates, start times and who's playing. Gedempt Hamerkanaal 40, 1012 KM Amsterdam.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Mirror Zone | Sean H, Spekki Webu, Stenny, Synthbiont & Anassimandrus |
 | Sun, 8 Nov 2026 | Tempo Marauders 2 year anniversary | Bongoat, YoungWoman, baby ganoush, prekeris |
 | Fri, 13 Nov 2026 | DJ Narciso, Honeydrip (live), Slimfit | DJ Narciso, Honeydrip, Slimfit |
 | Sat, 14 Nov 2026 | Dek Bass & Shana Qru bar40: dr boobless!: top surgery fundraiser | 2tongues, DEROZAN, GOYA, Honey Jazz, Jo FLM, TiZi (NL), drum song (dj) |
@@ -23,4 +22,4 @@ Garage Noord is a music venue in Amsterdam listed on soundcheck. 10 upcoming gig
 
 Gedempt Hamerkanaal 40, 1012 KM Amsterdam, Amsterdam
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/garage-noord/)*

@@ -1,18 +1,18 @@
 # Moses Joses
 
-Moses Joses is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at LAUT, Barcelona on Sat, 7 Nov 2026.
+Moses Joses is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Renate, Berlin on Fri, 20 Nov 2026.
 
-Moses Joses is an acid and house artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 6 more. Often billed alongside Marie Pravda, atomal and Erika Lowin. Next up: LAUT, Barcelona on Sat 7 Nov.
+Moses Joses is an acid and house artist based in Germany, with 24 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bratislava and 6 more. Often billed alongside Marie Pravda, atomal and Erika Lowin. Next up: Renate, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | LAUT | Barcelona |
 | Fri, 20 Nov 2026 | Renate | Berlin |
 
 ## Recently played
 
+- LAUT, Barcelona · Sat, 7 Nov 2026
 - Time is the new space, Rotterdam · Fri, 16 Oct 2026
 - Hope House, Leeds · Sat, 26 Sept 2026
 - Renate, Berlin · Fri, 17 Apr 2026
@@ -20,10 +20,9 @@ Moses Joses is an acid and house artist based in Germany, with 24 gigs on soundc
 - San Francisco, Amsterdam · Thu, 27 Nov 2025
 - TBA, Berlin · Sun, 19 Oct 2025
 - Crack Bellmer, Berlin · Sun, 7 Sept 2025
-- Yachtklub, Frankfurt · Fri, 13 Jun 2025
 
 ## Shares bills with
 
 Marie Pravda, atomal, Erika Lowin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesjoses/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mosesjoses/)*

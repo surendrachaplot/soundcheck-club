@@ -1,6 +1,6 @@
 # Chris Cruse (US) + DE FEO (DE) at POTENT
 
-Chris Cruse (US) + DE FEO (DE) at POTENT on Fri 13 Nov, Shanghai. 3 artists: Chris Cruse, DE FEO and Sonny Sun. See the line-up on soundcheck.
+Chris Cruse (US) + DE FEO (DE) at POTENT on Fri 13 Nov, Shanghai. 3 artists: Chris Cruse, DE FEO and Sonny Sun. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

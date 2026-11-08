@@ -1,6 +1,6 @@
 # Trepanado
 
-Trepanado is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Cine Iris, Rua da Carioca, 49 - Centro, Rio de Janeiro - RJ, 20050-008, Rio de Janeiro on Sat, 14 Nov 2026.
+Trepanado is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Cine Iris, Rua da Carioca, 49 - Centro, Rio de Janeiro - RJ, 20050-008, Rio de Janeiro on Sat, 14 Nov 2026.
 
 Trepanado is a house and disco artist based in Brazil, with 67 gigs on soundcheck across Amsterdam, Berlin, Brazil and Buenos Aires and 11 more. Often billed alongside Paulete Lindacelva, Leo Janeiro and Zopelar. Next up: TBA - Cine Iris, Rua da Carioca, 49 - Centro, Rio de Janeiro - RJ, 20050-008, Rio de Janeiro on Sat 14 Nov.
 
@@ -27,4 +27,4 @@ Trepanado is a house and disco artist based in Brazil, with 67 gigs on soundchec
 
 Paulete Lindacelva, Leo Janeiro, Zopelar
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trepanado/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/trepanado/)*

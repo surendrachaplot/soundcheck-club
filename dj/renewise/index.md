@@ -1,8 +1,8 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
+Rene Wise is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 7 Nov 2026.
 
-Rene Wise is a techno and house artist based in United Kingdom, with 286 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
+Rene Wise is a techno and house artist based in United Kingdom, with 287 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 92 more. Often billed alongside MARRØN, Blasha & Allatt and Ogazón. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,15 +14,16 @@ Rene Wise is a techno and house artist based in United Kingdom, with 286 gigs on
 | Fri, 20 Nov 2026 | ART Madrid Club | Madrid |
 | Sat, 21 Nov 2026 | KALT | Strasbourg |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Fri, 4 Dec 2026 | Mdlr | Singapore |
 | Sat, 12 Dec 2026 | fabric | London |
 | Fri, 18 Dec 2026 | Hive Club | Zurich |
 | Sat, 19 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Thu, 31 Dec 2026 | TBA | Lisbon |
 | Fri, 1 Jan 2027 | Lofi | Amsterdam |
-| Fri, 1 Jan 2027 | Lofi | Amsterdam |
 
 ## Recently played
 
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 7 Nov 2026
 - Flash, Washington DC · Fri, 30 Oct 2026
 - Nowadays, New York City · Fri, 30 Oct 2026
 - H7 Warehouse, Amsterdam · Sat, 24 Oct 2026
@@ -30,10 +31,9 @@ Rene Wise is a techno and house artist based in United Kingdom, with 286 gigs on
 - BRET, Amsterdam · Fri, 23 Oct 2026
 - Circolo Amelia, Milan · Sat, 17 Oct 2026
 - Studio Club Malaga, Malaga · Fri, 16 Oct 2026
-- fi, Cologne · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 MARRØN, Blasha & Allatt, Ogazón
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/renewise/)*

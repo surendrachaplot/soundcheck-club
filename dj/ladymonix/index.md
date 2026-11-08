@@ -1,6 +1,6 @@
 # LADYMONIX
 
-LADYMONIX is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Doka, Amsterdam on Fri, 11 Dec 2026.
+LADYMONIX is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Doka, Amsterdam on Fri, 11 Dec 2026.
 
 LADYMONIX is a house and techno artist based in United States of America, with 163 gigs on soundcheck across Amsterdam, Atlanta, Berlin and Boston and 25 more. Often billed alongside Rimarkable, Waajeed and Stacey Hotwaxx Hale. Next up: Doka, Amsterdam on Fri 11 Dec.
 
@@ -28,4 +28,4 @@ LADYMONIX is a house and techno artist based in United States of America, with 1
 
 Rimarkable, Waajeed, Stacey Hotwaxx Hale
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ladymonix/)*

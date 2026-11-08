@@ -1,18 +1,18 @@
 # Softdrive
 
-Softdrive is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at La Cova, Hamburg on Sat, 7 Nov 2026.
+Softdrive is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Fri, 20 Nov 2026.
 
-Softdrive is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside BNZN, Antonym and CRITICAL ERROR 404. Next up: La Cova, Hamburg on Sat 7 Nov.
+Softdrive is a trance and techno artist based in Germany, with 26 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside BNZN, Antonym and CRITICAL ERROR 404. Next up: Uebel & Gefährlich, Hamburg on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | La Cova | Hamburg |
 | Fri, 20 Nov 2026 | Uebel & Gefährlich | Hamburg |
 
 ## Recently played
 
+- La Cova, Hamburg · Sat, 7 Nov 2026
 - Fundbureau, Hamburg · Sat, 31 Oct 2026
 - ://about blank, Berlin · Sat, 17 Oct 2026
 - Fundbureau, Hamburg · Sat, 3 Oct 2026
@@ -20,10 +20,9 @@ Softdrive is a trance and techno artist based in Germany, with 26 gigs on soundc
 - Südpol, Hamburg · Sat, 22 Aug 2026
 - Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
 - Fundbureau, Hamburg · Sat, 15 Aug 2026
-- Uebel & Gefährlich, Hamburg · Sat, 25 Jul 2026
 
 ## Shares bills with
 
 BNZN, Antonym, CRITICAL ERROR 404
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softdrive/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/softdrive/)*

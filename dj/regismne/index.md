@@ -1,6 +1,6 @@
 # Regis (MNE)
 
-Regis (MNE) is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Paris, Paris on Thu, 8 Jun 2028.
+Regis (MNE) is a Club and Dancehall artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Paris, Paris on Thu, 8 Jun 2028.
 
 Regis (MNE) is a club and dancehall artist based in Montenegro, with 7 gigs on soundcheck across Belgrade, New York City and Paris. Often billed alongside ARTEM (FR), BEARCAT and BRAVA. Next up: TBA - Paris, Paris on Thu 8 Jun.
 
@@ -23,4 +23,4 @@ Regis (MNE) is a club and dancehall artist based in Montenegro, with 7 gigs on s
 
 ARTEM (FR), BEARCAT, BRAVA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regismne/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regismne/)*

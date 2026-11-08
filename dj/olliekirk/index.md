@@ -1,6 +1,6 @@
 # Ollie Kirk
 
-Ollie Kirk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Clock Factory, Bristol on Fri, 11 Dec 2026.
+Ollie Kirk is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Clock Factory, Bristol on Fri, 11 Dec 2026.
 
 Ollie Kirk is a house and techno artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Bristol, London and Manchester and 1 more. Often billed alongside Boulderhead, Hannd and Monika Taneska. Next up: The Clock Factory, Bristol on Fri 11 Dec.
 
@@ -25,4 +25,4 @@ Ollie Kirk is a house and techno artist based in United Kingdom, with 34 gigs on
 
 Boulderhead, Hannd, Monika Taneska
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olliekirk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olliekirk/)*

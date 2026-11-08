@@ -1,6 +1,6 @@
 # Granada
 
-Granada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Cellar, London on Sat, 12 Dec 2026.
+Granada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Cellar, London on Sat, 12 Dec 2026.
 
 Granada is a house and techno artist, with 6 gigs on soundcheck across London. Often billed alongside Angela Rose, Artist Lebo and Brink. Next up: Cellar, London on Sat 12 Dec.
 
@@ -22,4 +22,4 @@ Granada is a house and techno artist, with 6 gigs on soundcheck across London. O
 
 Angela Rose, Artist Lebo, Brink
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/granada/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/granada/)*

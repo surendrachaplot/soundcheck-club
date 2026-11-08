@@ -1,6 +1,6 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
+BASHKKA is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Refuge, New York City on Sat, 7 Nov 2026.
 
 BASHKKA is a techno and house artist based in Germany, with 333 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 71 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Refuge, New York City on Sat 7 Nov.
 
@@ -22,6 +22,7 @@ BASHKKA is a techno and house artist based in Germany, with 333 gigs on soundche
 
 ## Recently played
 
+- Refuge, New York City · Sat, 7 Nov 2026
 - Jolene Downtown Miami, Miami · Fri, 6 Nov 2026
 - Bajes Amsterdam, Amsterdam · Sun, 25 Oct 2026
 - GASHOUDER, Amsterdam · Fri, 23 Oct 2026
@@ -29,10 +30,9 @@ BASHKKA is a techno and house artist based in Germany, with 333 gigs on soundche
 - Klaproos, Amsterdam · Fri, 23 Oct 2026
 - San Francisco, Amsterdam · Thu, 22 Oct 2026
 - Zwart Goud Record Store, Amsterdam · Wed, 21 Oct 2026
-- Palais, London · Sat, 17 Oct 2026
 
 ## Shares bills with
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

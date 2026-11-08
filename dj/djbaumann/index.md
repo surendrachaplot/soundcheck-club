@@ -1,6 +1,6 @@
 # DJBAUMANN
 
-DJBAUMANN is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Live & Loud, Sofia on Fri, 20 Nov 2026.
+DJBAUMANN is a Industrial and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Live & Loud, Sofia on Fri, 20 Nov 2026.
 
 DJBAUMANN is an industrial and techno artist based in Bulgaria, with 6 gigs on soundcheck across Sofia. Often billed alongside CMDR WAUU, Cviata and Y.E.B.O.K. Next up: Live & Loud, Sofia on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ DJBAUMANN is an industrial and techno artist based in Bulgaria, with 6 gigs on s
 
 CMDR WAUU, Cviata, Y.E.B.O.K
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaumann/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djbaumann/)*

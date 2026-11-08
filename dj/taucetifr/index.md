@@ -1,6 +1,6 @@
 # Tauceti (FR)
 
-Tauceti (FR) is a Techno and Minimal Techno artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
+Tauceti (FR) is a Techno and Minimal Techno artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 7 Nov 2026.
 
 Tauceti (FR) is a techno and minimal techno artist based in France, with 93 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 32 more. Often billed alongside Tommy Four Seven, Decoder and Kangding Ray. Next up: RSO.BERLIN, Berlin on Sat 7 Nov.
 
@@ -21,6 +21,7 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 93 gigs
 
 ## Recently played
 
+- RSO.BERLIN, Berlin · Sat, 7 Nov 2026
 - De Thomaskerk, Amsterdam · Fri, 23 Oct 2026
 - CLUB RAUM, Amsterdam · Thu, 22 Oct 2026
 - Bien Public, Bordeaux · Sat, 17 Oct 2026
@@ -28,10 +29,9 @@ Tauceti (FR) is a techno and minimal techno artist based in France, with 93 gigs
 - Plage Privée Parc de Miribel, Lyon · Sat, 10 Oct 2026
 - Super7, Lyon · Sun, 27 Sept 2026
 - AMT, Berlin · Fri, 25 Sept 2026
-- Super7, Lyon · Thu, 24 Sept 2026
 
 ## Shares bills with
 
 Tommy Four Seven, Decoder, Kangding Ray
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/taucetifr/)*

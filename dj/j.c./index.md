@@ -1,6 +1,6 @@
 # J.C.
 
-J.C. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
+J.C. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 28 Nov 2026.
 
 J.C. is a techno and house artist based in Spain, with 18 gigs on soundcheck across Madrid and Tokyo. Often billed alongside DJ S (UK), F. Vinuesa and Laia. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ J.C. is a techno and house artist based in Spain, with 18 gigs on soundcheck acr
 
 DJ S (UK), F. Vinuesa, Laia
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.c./)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/j.c./)*

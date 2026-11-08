@@ -1,6 +1,6 @@
 # Mixtape 5
 
-Mixtape 5 is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Fri, 23 Oct 2026. The next is "METAFIZIQ: BEYOND DISTANCE II — DISPLACED - Ogonek & ANGIE LIVE" on Sat, 24 Oct 2026.
+Mixtape 5 is a music venue in Sofia with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT" on Fri, 27 Nov 2026.
 
 Mixtape 5 is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with line-ups including Ogonek. See dates, start times and who's playing.
 
@@ -8,6 +8,6 @@ Mixtape 5 is a music venue in Sofia listed on soundcheck. 1 upcoming gig, with l
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 24 Oct 2026 | METAFIZIQ: BEYOND DISTANCE II — DISPLACED - Ogonek & ANGIE LIVE | Ogonek |
+| Fri, 27 Nov 2026 | METAFIZIQ: BEYOND DISTANCE III — NO RETURN - DRUM & BASS NIGHT | Ogonek |
 
-*Updated Fri, 23 Oct 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/mixtape-5/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sofia/club/mixtape-5/)*

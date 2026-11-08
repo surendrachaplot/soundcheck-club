@@ -1,6 +1,6 @@
 # TODDZ
 
-TODDZ is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Timber Loft, London on Sun, 8 Nov 2026.
+TODDZ is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Timber Loft, London on Sun, 8 Nov 2026.
 
 TODDZ is a minimal and house artist based in United Kingdom, with 12 gigs on soundcheck across Bristol and London. Often billed alongside Ben Donne, Finn Mcilrath and Gracey Grey. Next up: The Timber Loft, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ TODDZ is a minimal and house artist based in United Kingdom, with 12 gigs on sou
 
 Ben Donne, Finn Mcilrath, Gracey Grey
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/toddz/)*

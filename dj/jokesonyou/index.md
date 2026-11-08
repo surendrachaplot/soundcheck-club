@@ -1,6 +1,6 @@
 # JOKESONYOU
 
-JOKESONYOU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
+JOKESONYOU is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at glimmer, Hamburg on Sat, 21 Nov 2026.
 
 JOKESONYOU is a techno and trance artist based in Australia, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 34 more. Often billed alongside 3LEEZA, Mika Heggemann and The Muffin Man. Next up: glimmer, Hamburg on Sat 21 Nov.
 
@@ -28,4 +28,4 @@ JOKESONYOU is a techno and trance artist based in Australia, with 78 gigs on sou
 
 3LEEZA, Mika Heggemann, The Muffin Man
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jokesonyou/)*

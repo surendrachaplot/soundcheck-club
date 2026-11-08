@@ -1,6 +1,6 @@
 # Poté
 
-Poté is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Djoon, Paris on Sat, 21 Nov 2026.
+Poté is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Djoon, Paris on Sat, 21 Nov 2026.
 
 Poté is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across London, Lyon, Mexico City and Paris. Often billed alongside Bonobo, Broodoo Ramses and DJ Gigola. Next up: Djoon, Paris on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Poté is a house and techno artist based in United Kingdom, with 17 gigs on soun
 
 Bonobo, Broodoo Ramses, DJ Gigola
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pote/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pote/)*

@@ -1,6 +1,6 @@
 # Violent Magic Orchestra
 
-Violent Magic Orchestra is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Dom im Berg, Austria on Thu, 4 Mar 2027.
+Violent Magic Orchestra is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dom im Berg, Austria on Thu, 4 Mar 2027.
 
 Violent Magic Orchestra is a techno and experimental artist based in Japan, with 57 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 25 more. Often billed alongside VMO, hOLysHiT and Marie Davidson. Next up: Dom im Berg, Austria on Thu 4 Mar.
 
@@ -25,4 +25,4 @@ Violent Magic Orchestra is a techno and experimental artist based in Japan, with
 
 VMO, hOLysHiT, Marie Davidson
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/violentmagicorchestra/)*

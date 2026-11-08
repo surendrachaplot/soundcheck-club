@@ -1,6 +1,6 @@
 # TBA - Oudegracht
 
-TBA - Oudegracht is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "DOMM NYE with Tafkap Devy & Floppy & more" on Thu, 31 Dec 2026.
+TBA - Oudegracht is a music venue in Utrecht with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "DOMM NYE with Tafkap Devy & Floppy & more" on Thu, 31 Dec 2026.
 
 TBA - Oudegracht is a music venue in Utrecht listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ TBA - Oudegracht is a music venue in Utrecht listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Thu, 31 Dec 2026 | DOMM NYE with Tafkap Devy & Floppy & more |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tba-oudegracht/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/utrecht/club/tba-oudegracht/)*

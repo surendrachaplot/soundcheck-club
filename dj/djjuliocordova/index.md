@@ -1,6 +1,6 @@
 # J. Córdova
 
-J. Córdova is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location, Chicago on Sat, 21 Nov 2026.
+J. Córdova is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Location, Chicago on Sat, 21 Nov 2026.
 
 J. Córdova is a techno and club artist based in United States of America, with 45 gigs on soundcheck across Chicago, New York City and San Francisco/Oakland. Often billed alongside karennoid, DJ Aguara'i and Ariel Zetina. Next up: TBA - Secret Location, Chicago on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ J. Córdova is a techno and club artist based in United States of America, with 
 
 karennoid, DJ Aguara'i, Ariel Zetina
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuliocordova/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djjuliocordova/)*

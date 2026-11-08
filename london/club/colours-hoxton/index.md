@@ -1,6 +1,6 @@
 # Colours Hoxton
 
-Colours Hoxton is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "HOMOSTASH Wild Circus Rave" on Sat, 28 Nov 2026.
+Colours Hoxton is a music venue in London with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "HOMOSTASH Wild Circus Rave" on Sat, 28 Nov 2026.
 
 Colours Hoxton is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Arrosa, Brother of Set, Ricardo Castro and Tafkanik and 1 more. See dates, start times and who's playing. 2-4 Hoxton Square, London N1 6NU, United Kingdom.
 
@@ -15,4 +15,4 @@ Colours Hoxton is a music venue in London listed on soundcheck. 2 upcoming gigs,
 
 2-4 Hoxton Square, London N1 6NU, United Kingdom, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colours-hoxton/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/colours-hoxton/)*

@@ -1,6 +1,6 @@
 # Eli Nissan
 
-Eli Nissan is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 2 Jan 2027.
+Eli Nissan is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Do Not Sit On The Furniture, Miami on Sat, 2 Jan 2027.
 
 Eli Nissan is a progressive house and house artist based in Israel, with 38 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Budapest and 14 more. Often billed alongside Khen, Roy Rosenfeld and Sebastien Leger. Next up: Do Not Sit On The Furniture, Miami on Sat 2 Jan.
 
@@ -25,4 +25,4 @@ Eli Nissan is a progressive house and house artist based in Israel, with 38 gigs
 
 Khen, Roy Rosenfeld, Sebastien Leger
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elinissan/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elinissan/)*

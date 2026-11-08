@@ -1,6 +1,6 @@
 # REA (AL)
 
-REA (AL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at fabric, London on Fri, 13 Nov 2026.
+REA (AL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at fabric, London on Fri, 13 Nov 2026.
 
 REA (AL) is a techno and house artist based in Albania, with 15 gigs on soundcheck across Amsterdam, Barcelona, Bristol and London and 3 more. Often billed alongside BUSSI, Black Box and ESC. Next up: fabric, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ REA (AL) is a techno and house artist based in Albania, with 15 gigs on soundche
 
 BUSSI, Black Box, ESC (5)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rea-al/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rea-al/)*

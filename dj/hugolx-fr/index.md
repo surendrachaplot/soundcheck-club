@@ -1,6 +1,6 @@
 # Hugo LX
 
-Hugo LX is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+Hugo LX is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
 
 Hugo LX is a house and disco artist based in France, with 94 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 26 more. Often billed alongside Danilo Plessow, Theo Terev and Folamour. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Hugo LX is a house and disco artist based in France, with 94 gigs on soundcheck 
 
 Danilo Plessow, Theo Terev, Folamour
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugolx-fr/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hugolx-fr/)*

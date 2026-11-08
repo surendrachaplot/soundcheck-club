@@ -1,13 +1,13 @@
 # Studio B7
 
-Studio B7 is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Fri, 30 Oct 2026. The next is "CFU Halloween - StudioB7 - Club Opening" on Sat, 31 Oct 2026.
+Studio B7 is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Silvester at Studio B7" on Thu, 31 Dec 2026.
 
-Studio B7 is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Marcel Dusk, Møhr and Taberia. See dates, start times and who's playing.
+Studio B7 is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including Marcel Dusk, SASHTY and Shishmish. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | CFU Halloween - StudioB7 - Club Opening | Marcel Dusk, Møhr, Taberia |
+| Thu, 31 Dec 2026 | Silvester at Studio B7 | Marcel Dusk, SASHTY, Shishmish |
 
-*Updated Fri, 30 Oct 2026 · source: [soundcheck](https://soundcheck.club/munich/club/studio-b7/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/munich/club/studio-b7/)*

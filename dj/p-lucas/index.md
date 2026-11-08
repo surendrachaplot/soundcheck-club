@@ -1,6 +1,6 @@
 # P-Lucas
 
-P-Lucas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
+P-Lucas is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at M.O.T, London on Fri, 20 Nov 2026.
 
 P-Lucas is a house and deep house artist based in United Kingdom, with 26 gigs on soundcheck across London. Often billed alongside Kojay, Kanem and LEV (UK). Next up: M.O.T, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ P-Lucas is a house and deep house artist based in United Kingdom, with 26 gigs o
 
 Kojay, Kanem, LEV (UK)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p-lucas/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/p-lucas/)*

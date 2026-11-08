@@ -1,6 +1,6 @@
 # Kōma
 
-Kōma is a Club and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TRAUM, Antwerp on Fri, 4 Dec 2026.
+Kōma is a Club and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TRAUM, Antwerp on Fri, 4 Dec 2026.
 
 Kōma is a club and breakbeat artist based in Belgium, with 3 gigs on soundcheck across Antwerp and Brussels. Often billed alongside Anz, BOY&GIRL and Conducta. Next up: TRAUM, Antwerp on Fri 4 Dec.
 
@@ -19,4 +19,4 @@ Kōma is a club and breakbeat artist based in Belgium, with 3 gigs on soundcheck
 
 Anz, BOY&GIRL, Conducta
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koma/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/koma/)*

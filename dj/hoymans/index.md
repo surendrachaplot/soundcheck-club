@@ -1,6 +1,6 @@
 # Hoymans
 
-Hoymans is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Casa Tisoc Cusco, Peru on Thu, 12 Nov 2026.
+Hoymans is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Casa Tisoc Cusco, Peru on Thu, 12 Nov 2026.
 
 Hoymans is a techno and trance artist based in France, with 30 gigs on soundcheck across Berlin, Bogotá, London and Lyon and 4 more. Often billed alongside Aasi, Katia Val and Klud. Next up: Casa Tisoc Cusco, Peru on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Hoymans is a techno and trance artist based in France, with 30 gigs on soundchec
 
 Aasi, Katia Val, Klud
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoymans/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hoymans/)*

@@ -1,6 +1,6 @@
 # Catch25
 
-Catch25 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Pioneer Club, South-east on Sat, 19 Dec 2026.
+Catch25 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Pioneer Club, South-east on Sat, 19 Dec 2026.
 
 Catch25 is a house and techno artist based in Australia, with 6 gigs on soundcheck across London, South East and Sydney. Often billed alongside Jane Decks, 1111 and A.N.T. Next up: The Pioneer Club, South East on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Catch25 is a house and techno artist based in Australia, with 6 gigs on soundche
 
 Jane Decks, 1111, A.N.T
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catch25/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/catch25/)*

@@ -1,6 +1,6 @@
 # CHÉ WAX
 
-CHÉ WAX is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Freight Brixton, London on Fri, 20 Nov 2026.
+CHÉ WAX is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Freight Brixton, London on Fri, 20 Nov 2026.
 
 CHÉ WAX is a house and disco artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Bangkok, Liverpool and London and 1 more. Often billed alongside DMC., Dan Soulsmith and Greg Wilson. Next up: Freight Brixton, London on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ CHÉ WAX is a house and disco artist based in United Kingdom, with 28 gigs on so
 
 DMC., Dan Soulsmith, Greg Wilson
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/chewax/)*

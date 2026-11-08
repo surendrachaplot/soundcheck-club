@@ -1,6 +1,6 @@
 # Aurelius
 
-Aurelius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
+Aurelius is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Slakthuset, Stockholm on Sat, 14 Nov 2026.
 
 Aurelius is a house and techno artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, Copenhagen and Stockholm. Often billed alongside ItsOk, Tsepo and charlie.pxls. Next up: Slakthuset, Stockholm on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Aurelius is a house and techno artist based in Netherlands, with 28 gigs on soun
 
 ItsOk, Tsepo, charlie.pxls
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurelius/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aurelius/)*

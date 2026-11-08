@@ -1,8 +1,8 @@
 # Sol Ortega
 
-Sol Ortega is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Sol Ortega is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
-Sol Ortega is a techno and house artist based in Argentina, with 103 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside ANNĒ, Adiel and Elli Acula. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
+Sol Ortega is a techno and house artist based in Argentina, with 104 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside ANNĒ, Adiel and Elli Acula. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sol Ortega is a techno and house artist based in Argentina, with 103 gigs on sou
 | --- | --- | --- |
 | Sat, 21 Nov 2026 | TBA - Lurín live / Lima, Perú. | Peru |
 | Fri, 11 Dec 2026 | Club Ciudad de Buenos Aires | Buenos Aires |
+| Mon, 21 Dec 2026 | TBA | Uruguay |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Sol Ortega is a techno and house artist based in Argentina, with 103 gigs on sou
 
 ANNĒ, Adiel, Elli Acula
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solortega/)*

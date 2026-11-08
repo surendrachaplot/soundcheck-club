@@ -1,6 +1,6 @@
 # Varis
 
-Varis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Oven Club, Valencia on Fri, 20 Nov 2026.
+Varis is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Oven Club, Valencia on Fri, 20 Nov 2026.
 
 Varis is a house and tech house artist based in Spain, with 41 gigs on soundcheck across Barcelona, Berlin, Budapest and Helsinki and 2 more. Often billed alongside Pizzicatto, Sueezo and Pau Pérez. Next up: Oven Club, Valencia on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Varis is a house and tech house artist based in Spain, with 41 gigs on soundchec
 
 Pizzicatto, Sueezo, Pau Pérez
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/varis/)*

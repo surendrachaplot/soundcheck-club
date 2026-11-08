@@ -1,6 +1,6 @@
 # Pastel
 
-Pastel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Le Zeralda, Paris on Sat, 21 Nov 2026.
+Pastel is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Le Zeralda, Paris on Sat, 21 Nov 2026.
 
 Pastel is a house and electro artist based in France, with 32 gigs on soundcheck across Budapest, Lyon, Marseille and Nantes and 1 more. Often billed alongside ABI (FR), Abn - P2z and Baka G. Next up: Le Zeralda, Paris on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Pastel is a house and electro artist based in France, with 32 gigs on soundcheck
 
 ABI (FR), Abn - P2z, Baka G
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastel/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastel/)*

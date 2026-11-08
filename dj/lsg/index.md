@@ -1,6 +1,6 @@
 # LSG
 
-LSG is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Wed, 11 Nov 2026.
+LSG is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Stadtgarten Konzertsaal / Cafe, Cologne on Wed, 11 Nov 2026.
 
 LSG is a techno and trance artist based in United Kingdom, with 41 gigs on soundcheck across Aberdeen, Berlin, Cologne and Frankfurt and 5 more. Often billed alongside nordcorreia.mp3, MAURO and Gourski. Next up: Stadtgarten Konzertsaal / Cafe, Cologne on Wed 11 Nov.
 
@@ -27,4 +27,4 @@ LSG is a techno and trance artist based in United Kingdom, with 41 gigs on sound
 
 nordcorreia.mp3, MAURO, Gourski
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lsg/)*

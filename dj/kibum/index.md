@@ -1,6 +1,6 @@
 # Kibum
 
-Kibum is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
+Kibum is a Minimal and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Binae Island, South-korea on Sun, 8 Nov 2026.
 
 Kibum is a minimal and minimal techno artist based in South Korea, with 109 gigs on soundcheck across Seoul and South Korea. Often billed alongside Jongho, Mihak and kimmtae. Next up: TBA - Binae Island, South Korea on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Kibum is a minimal and minimal techno artist based in South Korea, with 109 gigs
 
 Jongho, Mihak, kimmtae
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kibum/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kibum/)*

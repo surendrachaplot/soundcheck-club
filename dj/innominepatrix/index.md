@@ -1,6 +1,6 @@
 # innominepatrix
 
-innominepatrix is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Noce KRK, Krakow on Sat, 14 Nov 2026.
+innominepatrix is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Noce KRK, Krakow on Sat, 14 Nov 2026.
 
 innominepatrix is a gabber and hardcore artist based in Poland, with 21 gigs on soundcheck across Ghent, Krakow, New York City and Poznan and 2 more. Often billed alongside 4wallzz, AZDRA and MATRIX3K. Next up: Noce KRK, Krakow on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ innominepatrix is a gabber and hardcore artist based in Poland, with 21 gigs on 
 
 4wallzz, AZDRA, MATRIX3K
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innominepatrix/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innominepatrix/)*

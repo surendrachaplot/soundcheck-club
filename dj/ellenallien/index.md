@@ -1,17 +1,17 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at fabric, London on Sat, 7 Nov 2026.
+Ellen Allien is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Signal, New York City on Fri, 13 Nov 2026.
 
-Ellen Allien is a techno and house artist based in Germany, with 299 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 81 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: fabric, London on Sat 7 Nov.
+Ellen Allien is a techno and house artist based in Germany, with 300 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 82 more. Often billed alongside Dr. Rubinstein, Shaleen and Daria Kolosova. Next up: Signal, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | fabric | London |
 | Fri, 13 Nov 2026 | Signal | New York City |
 | Fri, 13 Nov 2026 | Stereo | Montreal |
 | Fri, 20 Nov 2026 | RSO.BERLIN | Berlin |
+| Fri, 27 Nov 2026 | Ciało | Wroclaw |
 | Sat, 28 Nov 2026 | TRAUM | Antwerp |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
@@ -23,6 +23,7 @@ Ellen Allien is a techno and house artist based in Germany, with 299 gigs on sou
 
 ## Recently played
 
+- fabric, London · Sat, 7 Nov 2026
 - Gewölbe, Cologne · Fri, 6 Nov 2026
 - TBA - Downtown Los Angeles, Los Angeles · Sat, 31 Oct 2026
 - TBA - Secret Location, Atlanta · Fri, 30 Oct 2026
@@ -30,10 +31,9 @@ Ellen Allien is a techno and house artist based in Germany, with 299 gigs on sou
 - SMUT Athens, Athens · Sat, 17 Oct 2026
 - RSO.BERLIN, Berlin · Sat, 10 Oct 2026
 - Le Cargö, West · Wed, 7 Oct 2026
-- REC Napoli, Naples · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Dr. Rubinstein, Shaleen, Daria Kolosova
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

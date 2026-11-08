@@ -1,14 +1,13 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 8 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Vera Cocina & بار, Washington DC on Sat, 7 Nov 2026.
+Alex Wann is a Afro House and House artist with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Bohemia Beach Club, Dubai on Sat, 14 Nov 2026.
 
-Alex Wann is an afro house and house artist based in France, with 159 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: Vera Cocina & بار, Washington DC on Sat 7 Nov.
+Alex Wann is an afro house and house artist based in France, with 159 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Notre Dame, Andrea Oliva and Shimza. Next up: Bohemia Beach Club, Dubai on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Vera Cocina & بار | Washington DC |
 | Sat, 14 Nov 2026 | Bohemia Beach Club | Dubai |
 | Thu, 19 Nov 2026 | Folklor | Lausanne |
 | Fri, 20 Nov 2026 | T7 Paris | Paris |
@@ -19,6 +18,7 @@ Alex Wann is an afro house and house artist based in France, with 159 gigs on so
 
 ## Recently played
 
+- Vera Cocina & بار, Washington DC · Sat, 7 Nov 2026
 - Future Nightlife, Toronto · Fri, 6 Nov 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sat, 24 Oct 2026
 - The Loft Amsterdam, Amsterdam · Fri, 23 Oct 2026
@@ -26,10 +26,9 @@ Alex Wann is an afro house and house artist based in France, with 159 gigs on so
 - Westlight Rooftop at The William Vale, New York City · Fri, 16 Oct 2026
 - Revolver Upstairs, Melbourne · Sun, 11 Oct 2026
 - The Ivy, Sydney · Sat, 10 Oct 2026
-- Savaya Bali, Bali · Sun, 4 Oct 2026
 
 ## Shares bills with
 
 Notre Dame, Andrea Oliva, Shimza
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alexwann/)*

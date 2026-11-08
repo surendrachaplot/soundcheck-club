@@ -1,6 +1,6 @@
 # Mason Collective
 
-Mason Collective is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
+Mason Collective is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Lurín live / Lima, Perú., Peru on Sat, 21 Nov 2026.
 
 Mason Collective is a tech house and house artist based in United Kingdom, with 233 gigs on soundcheck across Amsterdam, Barcelona, Basel and Birmingham and 40 more. Often billed alongside Franky Rizardo, Jamie Jones and Marco Carola. Next up: TBA - Lurín live / Lima, Perú., Peru on Sat 21 Nov.
 
@@ -29,4 +29,4 @@ Mason Collective is a tech house and house artist based in United Kingdom, with 
 
 Franky Rizardo, Jamie Jones, Marco Carola
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*

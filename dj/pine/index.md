@@ -1,6 +1,6 @@
 # Pine
 
-Pine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
+Pine is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 27 Nov 2026.
 
 Pine is a house and techno artist based in Japan, with 106 gigs on soundcheck across Hong Kong, Kyoto, Manchester and Okinawa and 3 more. Often billed alongside Romy Mats, Albino Sound and AMANE. Next up: MIDNIGHT EAST, Tokyo on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Pine is a house and techno artist based in Japan, with 106 gigs on soundcheck ac
 
 Romy Mats, Albino Sound, AMANE
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pine/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pine/)*

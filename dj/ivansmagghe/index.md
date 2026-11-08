@@ -1,19 +1,17 @@
 # Ivan Smagghe
 
-Ivan Smagghe is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at 宀 Club, Hong Kong on Sat, 7 Nov 2026.
+Ivan Smagghe is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Cobalt Studios, Newcastle on Fri, 13 Nov 2026.
 
-Ivan Smagghe is a techno and house artist based in France, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: 宀 Club, Hong Kong on Sat 7 Nov.
+Ivan Smagghe is a techno and house artist based in France, with 217 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Manfredas, Craig Richards and Chez de Milo. Next up: Cobalt Studios, Newcastle on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | 宀 Club | Hong Kong |
 | Fri, 13 Nov 2026 | Cobalt Studios | Newcastle |
 | Sat, 14 Nov 2026 | The White Hotel | Manchester |
 | Sat, 21 Nov 2026 | TBA - Circolo Masada + Circolo Amelia | Milan |
 | Fri, 27 Nov 2026 | FOLD | London |
-| Mon, 7 Dec 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 18 Dec 2026 | The Carpet Shop | London |
 | Sat, 19 Dec 2026 | Gewölbe | Cologne |
 | Fri, 1 Jan 2027 | Bosc Tancat / Diverbosc | Barcelona |
@@ -23,6 +21,7 @@ Ivan Smagghe is a techno and house artist based in France, with 217 gigs on soun
 
 ## Recently played
 
+- 宀 Club, Hong Kong · Sat, 7 Nov 2026
 - Modeci, Seoul · Fri, 6 Nov 2026
 - WOMB, Tokyo · Sat, 31 Oct 2026
 - Dada Beijing, Beijing · Fri, 30 Oct 2026
@@ -30,10 +29,9 @@ Ivan Smagghe is a techno and house artist based in France, with 217 gigs on soun
 - RADION, Amsterdam · Sat, 24 Oct 2026
 - San Francisco, Amsterdam · Sat, 24 Oct 2026
 - fabric, London · Sat, 17 Oct 2026
-- Rex Club, Paris · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Manfredas, Craig Richards, Chez de Milo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ivansmagghe/)*

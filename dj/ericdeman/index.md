@@ -1,19 +1,19 @@
 # Eric de Man
 
-Eric de Man is a Acid and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+Eric de Man is a Acid and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Ruis Alkmaar, Amsterdam on Sat, 28 Nov 2026.
 
-Eric de Man is an acid and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Alexander Koning, Remy Unger and Erick E. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
+Eric de Man is an acid and house artist based in Netherlands, with 20 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside Alexander Koning, Remy Unger and Erick E. Next up: Ruis Alkmaar, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 28 Nov 2026 | Ruis Alkmaar | Amsterdam |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- Thuishaven, Amsterdam · Sat, 7 Nov 2026
 - Thuishaven, Amsterdam · Sat, 1 Aug 2026
 - Tuinen van West, Amsterdam · Sat, 23 May 2026
 - Thuishaven, Amsterdam · Sat, 7 Mar 2026
@@ -21,10 +21,9 @@ Eric de Man is an acid and house artist based in Netherlands, with 20 gigs on so
 - Het Sieraad, Amsterdam · Sat, 19 Apr 2025
 - Thuishaven, Amsterdam · Sat, 12 Apr 2025
 - Paradiso, Amsterdam · Sat, 22 Mar 2025
-- Warmoes, Utrecht · Sun, 5 Jan 2025
 
 ## Shares bills with
 
 Alexander Koning, Remy Unger, Erick E
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericdeman/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericdeman/)*

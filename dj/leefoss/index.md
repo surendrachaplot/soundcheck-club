@@ -1,8 +1,8 @@
 # Lee Foss
 
-Lee Foss is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Charlotte on Sat, 14 Nov 2026.
+Lee Foss is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Charlotte on Sat, 14 Nov 2026.
 
-Lee Foss is a house and tech house artist based in United States of America, with 96 gigs on soundcheck across Atlanta, Austin, Barcelona and Bogotá and 32 more. Often billed alongside Claptone, Deeper Purpose and Joshwa. Next up: TBA, Charlotte on Sat 14 Nov.
+Lee Foss is a house and tech house artist based in United States of America, with 97 gigs on soundcheck across Atlanta, Austin, Barcelona and Bogotá and 33 more. Often billed alongside Claptone, Deeper Purpose and Joshwa. Next up: TBA, Charlotte on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Lee Foss is a house and tech house artist based in United States of America, wit
 | Fri, 27 Nov 2026 | fabric | London |
 | Sat, 28 Nov 2026 | NX Newcastle | Newcastle |
 | Fri, 4 Dec 2026 | Edge Miami | Miami |
+| Sun, 13 Dec 2026 | Florida Park | Madrid |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Lee Foss is a house and tech house artist based in United States of America, wit
 
 Claptone, Deeper Purpose, Joshwa
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/leefoss/)*

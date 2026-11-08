@@ -1,6 +1,6 @@
 # Solma
 
-Solma is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - secret location, Zagreb on Fri, 13 Nov 2026.
+Solma is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - secret location, Zagreb on Fri, 13 Nov 2026.
 
 Solma is a techno and bass artist based in France, with 37 gigs on soundcheck across Barcelona, Beijing, Brussels and Changsha and 12 more. Often billed alongside Jan Swam, Fluid Matter and EMA. Next up: TBA - secret location, Zagreb on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Solma is a techno and bass artist based in France, with 37 gigs on soundcheck ac
 
 Jan Swam, Fluid Matter, EMA (1)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solma/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/solma/)*

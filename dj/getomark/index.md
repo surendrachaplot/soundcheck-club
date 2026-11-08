@@ -1,6 +1,6 @@
 # Geto Mark
 
-Geto Mark is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Simone's, Chicago on Fri, 13 Nov 2026.
+Geto Mark is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Simone's, Chicago on Fri, 13 Nov 2026.
 
 Geto Mark is a house and deep house artist based in United States of America, with 40 gigs on soundcheck across Chicago. Often billed alongside Karl Almaria, Adorio and Mazi. Next up: Simone's, Chicago on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Geto Mark is a house and deep house artist based in United States of America, wi
 
 Karl Almaria, Adorio, Mazi
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/getomark/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/getomark/)*

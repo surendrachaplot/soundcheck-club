@@ -1,6 +1,6 @@
 # TBA - Via di Monte Testaccio 67, Rome
 
-TBA - Via di Monte Testaccio 67, Rome is a music venue in Rome with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Reveries: Weekly Shelter" on Thu, 12 Nov 2026.
+TBA - Via di Monte Testaccio 67, Rome is a music venue in Rome with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Reveries: Weekly Shelter" on Thu, 12 Nov 2026.
 
 TBA - Via di Monte Testaccio 67, Rome is a music venue in Rome listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing.
 
@@ -15,4 +15,4 @@ TBA - Via di Monte Testaccio 67, Rome is a music venue in Rome listed on soundch
 | Thu, 10 Dec 2026 | Reveries: Weekly Shelter |  |
 | Thu, 24 Dec 2026 | Reveries: Weekly Shelter |  |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-via-di-monte-testaccio-67-rome/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/rome/club/tba-via-di-monte-testaccio-67-rome/)*

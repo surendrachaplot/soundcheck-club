@@ -1,13 +1,14 @@
 # Wukah
 
-Wukah is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Not For Sale Gallery, London on Sat, 5 Dec 2026.
+Wukah is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The General Assembly, London on Sat, 28 Nov 2026.
 
-Wukah is a progressive house and deep house artist based in Ireland, with 8 gigs on soundcheck across London and Malta. Often billed alongside Alex Taliana, Tris (UK) and MXV (UK). Next up: Not For Sale Gallery, London on Sat 5 Dec.
+Wukah is a progressive house and deep house artist based in Ireland, with 9 gigs on soundcheck across London and Malta. Often billed alongside Alex Taliana, Tris (UK) and MXV (UK). Next up: The General Assembly, London on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 28 Nov 2026 | The General Assembly | London |
 | Sat, 5 Dec 2026 | Not For Sale Gallery | London |
 
 ## Recently played
@@ -24,4 +25,4 @@ Wukah is a progressive house and deep house artist based in Ireland, with 8 gigs
 
 Alex Taliana, Tris (UK), MXV (UK)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wukah/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wukah/)*

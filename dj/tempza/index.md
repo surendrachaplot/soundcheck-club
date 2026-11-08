@@ -1,6 +1,6 @@
 # Tempza
 
-Tempza is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Document, Bristol on Sat, 5 Dec 2026.
+Tempza is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Document, Bristol on Sat, 5 Dec 2026.
 
 Tempza is a drum & bass and garage artist based in United Kingdom, with 30 gigs on soundcheck across Auckland, Birmingham, Brighton and Bristol and 12 more. Often billed alongside Hybrid Minds, Andy C and Hedex. Next up: Document, Bristol on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Tempza is a drum & bass and garage artist based in United Kingdom, with 30 gigs 
 
 Hybrid Minds, Andy C, Hedex
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempza/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tempza/)*

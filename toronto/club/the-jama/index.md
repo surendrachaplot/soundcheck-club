@@ -1,6 +1,6 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "AQUAPHOR" on Fri, 13 Nov 2026.
+The Jama is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "AQUAPHOR" on Fri, 13 Nov 2026.
 
 The Jama is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including Ana Luisa, anise, Brock Stacey and Daniel Bell and 2 more. See dates, start times and who's playing. 961 College Street.
 
@@ -20,4 +20,4 @@ The Jama is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with
 
 961 College Street, Toronto
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/toronto/club/the-jama/)*

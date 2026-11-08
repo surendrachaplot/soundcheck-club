@@ -1,6 +1,6 @@
 # Promenaden Eck
 
-Promenaden Eck is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "FLUX by PF: Afterwork" on Thu, 12 Nov 2026.
+Promenaden Eck is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "FLUX by PF: Afterwork" on Thu, 12 Nov 2026.
 
 Promenaden Eck is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including __iwana__, Alexander Paulski, Artfx! and Bin Okin and 2 more. See dates, start times and who's playing. Schillerpromenade 11, 12049 Berlin.
 
@@ -16,4 +16,4 @@ Promenaden Eck is a music venue in Berlin listed on soundcheck. 3 upcoming gigs,
 
 Schillerpromenade 11, 12049 Berlin, Berlin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/promenaden-eck/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/promenaden-eck/)*

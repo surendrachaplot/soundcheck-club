@@ -1,14 +1,13 @@
 # Grand Central Hall
 
-Grand Central Hall is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "In Search Of Sunrise | Liverpool ft. Markus Schulz & more" on Sat, 7 Nov 2026.
+Grand Central Hall is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Armand Van Helden - Liverpool" on Fri, 27 Nov 2026.
 
-Grand Central Hall is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Andy Moor, Armand Van Helden, Chapter 47 and Danny Tenaglia and 2 more. See dates, start times and who's playing. 35 Renshaw Street, Liverpool L1 2SF.
+Grand Central Hall is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs, with line-ups including Armand Van Helden, Chapter 47 and Danny Tenaglia. See dates, start times and who's playing. 35 Renshaw Street, Liverpool L1 2SF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | In Search Of Sunrise / Liverpool ft. Markus Schulz & more | Andy Moor, Markus Schulz, Super8 & Tab |
 | Fri, 27 Nov 2026 | Armand Van Helden - Liverpool | Armand Van Helden, Chapter 47 |
 | Fri, 11 Dec 2026 | Colours House Party Presents Danny Tenaglia | Danny Tenaglia |
 
@@ -16,4 +15,4 @@ Grand Central Hall is a music venue in Liverpool listed on soundcheck. 3 upcomin
 
 35 Renshaw Street, Liverpool L1 2SF, Liverpool
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/grand-central-hall/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/grand-central-hall/)*

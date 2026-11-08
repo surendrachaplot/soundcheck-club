@@ -1,6 +1,6 @@
 # Reiss
 
-Reiss is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Reiss is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Reiss is a house and techno artist based in Netherlands, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dubai and 11 more. Often billed alongside Alexia Glensy, Ferro and Hannecart. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Reiss is a house and techno artist based in Netherlands, with 81 gigs on soundch
 
 Alexia Glensy, Ferro, Hannecart
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reiss/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/reiss/)*

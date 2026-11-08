@@ -1,6 +1,6 @@
 # Sinvergüenza
 
-Sinvergüenza is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Twiga Milano, Milan on Thu, 12 Nov 2026.
+Sinvergüenza is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Twiga Milano, Milan on Thu, 12 Nov 2026.
 
 Sinvergüenza is a tech house and house artist based in Italy, with 11 gigs on soundcheck across London, Medellin and Milan. Often billed alongside Çesc, Alexander de Roi and Davide Dev. Next up: Twiga Milano, Milan on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Sinvergüenza is a tech house and house artist based in Italy, with 11 gigs on s
 
 Çesc, Alexander de Roi, Davide Dev
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinverguenza/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sinverguenza/)*

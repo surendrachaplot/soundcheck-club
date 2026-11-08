@@ -1,6 +1,6 @@
 # Arundel
 
-Arundel is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Aura Nightclub, North on Sat, 21 Nov 2026.
+Arundel is a Drum & Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Aura Nightclub, North on Sat, 21 Nov 2026.
 
 Arundel is a drum & bass and garage artist, with 13 gigs on soundcheck across Liverpool, London, North and Sydney. Often billed alongside Miggs, Amber Rose and DAIZ. Next up: Aura Nightclub, North on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Arundel is a drum & bass and garage artist, with 13 gigs on soundcheck across Li
 
 Miggs, Amber Rose, DAIZ
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arundel/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arundel/)*

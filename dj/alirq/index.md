@@ -1,6 +1,6 @@
 # ali rq
 
-ali rq is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Thu, 19 Nov 2026.
+ali rq is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Thu, 19 Nov 2026.
 
 ali rq is a club and techno artist based in United States of America, with 48 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 8 more. Often billed alongside 10cust, Cannelle and Eurohead. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Thu 19 Nov.
 
@@ -27,4 +27,4 @@ ali rq is a club and techno artist based in United States of America, with 48 gi
 
 10cust, Cannelle, Eurohead
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/alirq/)*

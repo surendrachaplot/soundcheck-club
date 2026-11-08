@@ -1,6 +1,6 @@
 # Naydiaa
 
-Naydiaa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 21 Nov 2026.
+Naydiaa is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tempio del Futuro Perduto, Milan on Sat, 21 Nov 2026.
 
 Naydiaa is a house and techno artist based in Switzerland, with 48 gigs on soundcheck across Barcelona, Basel and Milan. Often billed alongside Acidalia, Alimac and Industrial Romantico. Next up: Tempio del Futuro Perduto, Milan on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Naydiaa is a house and techno artist based in Switzerland, with 48 gigs on sound
 
 Acidalia, Alimac, Industrial Romantico
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naydiaa/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/naydiaa/)*

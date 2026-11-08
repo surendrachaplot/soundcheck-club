@@ -1,6 +1,6 @@
 # Kirill
 
-Kirill is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Dugattyús, Budapest on Fri, 13 Nov 2026.
+Kirill is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dugattyús, Budapest on Fri, 13 Nov 2026.
 
 Kirill is a house and deep house artist, with 13 gigs on soundcheck across Amsterdam, Budapest and Detroit. Often billed alongside Kernel, Electric Boutique and Galactic Jackson. Next up: Dugattyús, Budapest on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Kirill is a house and deep house artist, with 13 gigs on soundcheck across Amste
 
 Kernel, Electric Boutique, Galactic Jackson
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirill/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kirill/)*

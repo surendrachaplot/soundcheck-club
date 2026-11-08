@@ -1,6 +1,6 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Telegraph Building, Belfast on Sat, 28 Nov 2026.
+DJ Heartstring is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Telegraph Building, Belfast on Sat, 28 Nov 2026.
 
 DJ Heartstring is a techno and trance artist based in Germany, with 246 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 76 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: The Telegraph Building, Belfast on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ DJ Heartstring is a techno and trance artist based in Germany, with 246 gigs on 
 
 MALUGI, Partiboi69, KETTAMA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djheartstring/)*

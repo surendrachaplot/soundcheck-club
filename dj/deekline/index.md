@@ -1,6 +1,6 @@
 # Deekline
 
-Deekline is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Brixton Jamm, London on Sat, 5 Dec 2026.
+Deekline is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Brixton Jamm, London on Sat, 5 Dec 2026.
 
 Deekline is a drum & bass and jungle artist based in United Kingdom, with 87 gigs on soundcheck across Bali, Bangkok, Birmingham and Boston and 27 more. Often billed alongside Benny Page, Serial Killaz and Navigator. Next up: Brixton Jamm, London on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Deekline is a drum & bass and jungle artist based in United Kingdom, with 87 gig
 
 Benny Page, Serial Killaz, Navigator
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deekline/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/deekline/)*

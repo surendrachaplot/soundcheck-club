@@ -1,14 +1,13 @@
 # ark (Melb)
 
-ark (Melb) is a music venue in Melbourne with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "ark // Crÿbaby - MASSI. - Harry Connell " on Sat, 7 Nov 2026.
+ark (Melb) is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL]" on Sat, 14 Nov 2026.
 
-ark (Melb) is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs, with line-ups including Auramatic, Crybaby, Cybernet and DAARONS and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
+ark (Melb) is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Auramatic, Cybernet, Dan Newman and DJ Optimism and 2 more. See dates, start times and who's playing. 2 Geddes Lane, Melbourne, VIC.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | ark // Crÿbaby - MASSI. - Harry Connell  | Crybaby, DAARONS, Harry Connell, MASSI., N.Y.A |
 | Sat, 14 Nov 2026 | ark // James Poole [UK] - Jim Jonathan [NL] - KELLAR [NL] | James Poole, KELLAR |
 | Sat, 21 Nov 2026 | ark // Ellia Jaya [UK] - Dark x Guerrilla Afterparty | Ellia Jaya |
 | Sat, 28 Nov 2026 | ark // Auramatic [UK] - Dan Newman [UK] - Merel Helderman [NL] | Auramatic, Dan Newman, Merel Helderman |
@@ -18,9 +17,10 @@ ark (Melb) is a music venue in Melbourne listed on soundcheck. 11 upcoming gigs,
 | Sat, 26 Dec 2026 | ark // Hannah D - Lex | Hannah D, Lex |
 | Sat, 2 Jan 2027 | DUSKY (UK) 'Signals World Tour' - Melbourne | Dusky, Jack Colletta, Vynes, Yarra |
 | Sat, 9 Jan 2027 | ark // Joe Hunt [UK] - ????? - Myles Mac b2b DJ Possum | DJ Possum, Myles Mac |
+| Sat, 6 Feb 2027 | ark // LLEAHDAVIES [UK] -  | LLEAHDAVIES |
 
 ## Address
 
 2 Geddes Lane, Melbourne, VIC, Melbourne
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/ark-melb/)*

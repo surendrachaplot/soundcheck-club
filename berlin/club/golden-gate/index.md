@@ -1,14 +1,13 @@
 # Golden Gate
 
-Golden Gate is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Klubnacht + Afterhour" on Fri, 6 Nov 2026.
+Golden Gate is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Nightshade Family" on Sat, 7 Nov 2026.
 
-Golden Gate is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including A. Brehme, Alex New, Ancut and Anderson and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
+Golden Gate is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including A. Brehme, Alex New, Ancut and Anderson and 2 more. See dates, start times and who's playing. Dircksenstrasse 78; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Klubnacht + Afterhour | Anna Schreit, Emski, Fanfarrosa, Jack Clark, Jan, Utip |
 | Sat, 7 Nov 2026 | Nightshade Family | Der Schmeisser, Nils Ohrmann |
 | Thu, 12 Nov 2026 | Silvi Recordings | Brizman, Joss, Vanaenae |
 | Fri, 13 Nov 2026 | Santa Musica + Easy Latino Records Afterhour | Clemente (DE), Frania, Juan Ferreyra, Laurence, Qasio, Vale Colvin, Victoria |
@@ -22,4 +21,4 @@ Golden Gate is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, wi
 
 Dircksenstrasse 78; Mitte; 10178 Berlin; Germany, Berlin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/golden-gate/)*

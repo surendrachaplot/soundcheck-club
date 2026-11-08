@@ -1,14 +1,13 @@
 # Innersha
 
-Innersha is a Techno and Experimental artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Gray Area, San Francisco/Oakland on Fri, 6 Nov 2026.
+Innersha is a Techno and Experimental artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 7 Nov 2026.
 
-Innersha is a techno and experimental artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 17 more. Often billed alongside Dasha Rush, Polar Inertia and Spekki Webu. Next up: Gray Area, San Francisco/Oakland on Fri 6 Nov.
+Innersha is a techno and experimental artist based in Armenia, with 32 gigs on soundcheck across Amsterdam, Armenia, Berlin and Brussels and 17 more. Often billed alongside Dasha Rush, Polar Inertia and Spekki Webu. Next up: TBA - DTLA, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Gray Area | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | TBA - DTLA | Los Angeles |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Fri, 13 Nov 2026 | public records | New York City |
@@ -20,6 +19,7 @@ Innersha is a techno and experimental artist based in Armenia, with 32 gigs on s
 
 ## Recently played
 
+- TBA - DTLA, Los Angeles · Sat, 7 Nov 2026
 - Gray Area, San Francisco/Oakland · Fri, 6 Nov 2026
 - TBA - MOXIR, Armenia · Sat, 17 Oct 2026
 - Herdade do Aguilhão, Lisbon · Fri, 2 Oct 2026
@@ -27,10 +27,9 @@ Innersha is a techno and experimental artist based in Armenia, with 32 gigs on s
 - MaHalla, Berlin · Fri, 3 Jul 2026
 - Ankali & Planeta Za, Prague · Fri, 12 Jun 2026
 - TBA - Toledo, Madrid · Fri, 29 May 2026
-- Gare Porto, Porto · Sat, 23 May 2026
 
 ## Shares bills with
 
 Dasha Rush, Polar Inertia, Spekki Webu
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/innersha/)*

@@ -1,18 +1,18 @@
 # ODF (1)
 
-ODF (1) is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+ODF (1) is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Otherways Site, Mallorca, Mallorca on Fri, 30 Apr 2027.
 
-ODF is a garage and house artist based in United Kingdom, with 67 gigs on soundcheck across Brighton, Brisbane, Bristol and Cork and 11 more. Often billed alongside Fiaa, Jackum and Just Jane. Next up: DRUMSHEDS, London on Sat 7 Nov.
+ODF is a garage and house artist based in United Kingdom, with 67 gigs on soundcheck across Brighton, Brisbane, Bristol and Cork and 11 more. Often billed alongside Fiaa, Jackum and Just Jane. Next up: TBA - Otherways Site, Mallorca, Mallorca on Fri 30 Apr.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | DRUMSHEDS | London |
 | Fri, 30 Apr 2027 | TBA - Otherways Site, Mallorca | Mallorca |
 
 ## Recently played
 
+- DRUMSHEDS, London · Sat, 7 Nov 2026
 - Stealth, Nottingham · Fri, 6 Nov 2026
 - Mint XL, Leeds · Fri, 30 Oct 2026
 - The Clock Factory, Bristol · Fri, 25 Sept 2026
@@ -20,10 +20,9 @@ ODF is a garage and house artist based in United Kingdom, with 67 gigs on soundc
 - Boston Manor Park, London · Fri, 31 Jul 2026
 - The Cause, London · Sat, 27 Jun 2026
 - XLR, Manchester · Fri, 8 May 2026
-- Distrikt, Leeds · Fri, 24 Apr 2026
 
 ## Shares bills with
 
 Fiaa, Jackum, Just Jane
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/odf-1/)*

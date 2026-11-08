@@ -1,6 +1,6 @@
 # Rooz
 
-Rooz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
+Rooz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 13 Nov 2026.
 
 Rooz is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Athens, Frankfurt, San Francisco/Oakland and Tampa Bay. Often billed alongside Bo (Borzu), Anthony Mansfield and David Harness. Next up: The Great Northern, San Francisco/Oakland on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Rooz is a house and techno artist based in United States of America, with 33 gig
 
 Bo (Borzu), Anthony Mansfield, David Harness
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rooz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rooz/)*

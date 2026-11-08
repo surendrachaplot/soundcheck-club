@@ -1,6 +1,6 @@
 # Swift Inc.
 
-Swift Inc. is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Swift Inc. is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Swift Inc. is an electronic artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Hannecart, Ici Sans Merci and Moody Mehran. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -24,4 +24,4 @@ Swift Inc. is an electronic artist, with 7 gigs on soundcheck across Amsterdam. 
 
 Hannecart, Ici Sans Merci, Moody Mehran
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swiftinc./)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/swiftinc./)*

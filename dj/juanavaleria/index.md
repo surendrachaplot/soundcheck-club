@@ -1,6 +1,6 @@
 # Juana Valeria
 
-Juana Valeria is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
+Juana Valeria is a Latin Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Void Hall, Berlin on Sat, 21 Nov 2026.
 
 Juana Valeria is a latin bass and bass artist based in Colombia, with 28 gigs on soundcheck across Berlin, Bogotá, Freiburg and Karlsruhe and 2 more. Often billed alongside Noise Casino, SEPBTT and Trexeter. Next up: Void Hall, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Juana Valeria is a latin bass and bass artist based in Colombia, with 28 gigs on
 
 Noise Casino, SEPBTT, Trexeter
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanavaleria/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/juanavaleria/)*

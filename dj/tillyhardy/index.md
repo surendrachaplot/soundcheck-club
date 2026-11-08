@@ -1,6 +1,6 @@
 # Tilly Hardy
 
-Tilly Hardy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Revolver Upstairs, Melbourne on Mon, 9 Nov 2026.
+Tilly Hardy is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Revolver Upstairs, Melbourne on Mon, 9 Nov 2026.
 
 Tilly Hardy is a house and techno artist based in Australia, with 4 gigs on soundcheck across Melbourne. Often billed alongside Ben Silver, Boogs and Dj Bouncy. Next up: Revolver Upstairs, Melbourne on Mon 9 Nov.
 
@@ -20,4 +20,4 @@ Tilly Hardy is a house and techno artist based in Australia, with 4 gigs on soun
 
 Ben Silver, Boogs, Dj Bouncy
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillyhardy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tillyhardy/)*

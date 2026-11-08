@@ -1,6 +1,6 @@
 # Isidore
 
-Isidore is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Cello, Basel on Sat, 19 Dec 2026.
+Isidore is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Cello, Basel on Sat, 19 Dec 2026.
 
 Isidore is a deep house and tech house artist based in Switzerland, with 6 gigs on soundcheck across Basel. Often billed alongside Dominik Auderset, Blaqq & Why'd and Duorhythm. Next up: Club Cello, Basel on Sat 19 Dec.
 
@@ -22,4 +22,4 @@ Isidore is a deep house and tech house artist based in Switzerland, with 6 gigs 
 
 Dominik Auderset, Blaqq & Why'd, Duorhythm
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isidore/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isidore/)*

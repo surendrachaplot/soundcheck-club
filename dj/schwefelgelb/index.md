@@ -1,20 +1,20 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Daina | Kaunas, Lithuania on Sat, 7 Nov 2026.
+Schwefelgelb is a Techno and EBM artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Tresor / Globus, Berlin on Mon, 9 Nov 2026.
 
-Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: Daina | Kaunas, Lithuania on Sat 7 Nov.
+Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Barcelona, Beijing and Berlin and 34 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: Tresor / Globus, Berlin on Mon 9 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Daina / Kaunas | Lithuania |
 | Mon, 9 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 13 Nov 2026 | BASEMENT | New York City |
 | Sat, 19 Dec 2026 | Le Trabendo | Paris |
 
 ## Recently played
 
+- Daina | Kaunas, Lithuania · Sat, 7 Nov 2026
 - Elastica, Vilnius · Fri, 6 Nov 2026
 - Abyss Shanghai, Shanghai · Fri, 30 Oct 2026
 - Faust, Seoul · Sat, 24 Oct 2026
@@ -22,10 +22,9 @@ Schwefelgelb is a techno and ebm artist based in Germany, with 78 gigs on soundc
 - Pillbox Beijing, Beijing · Sat, 17 Oct 2026
 - RSO.BERLIN, Berlin · Fri, 2 Oct 2026
 - OXI, Berlin · Tue, 15 Sept 2026
-- Skatehalle Berlin, Berlin · Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Ancient Methods, OTHR, Parrish Smith
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/schwefelgelb/)*

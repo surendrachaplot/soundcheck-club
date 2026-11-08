@@ -1,6 +1,6 @@
 # Jun (+886)
 
-Jun (+886) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
+Jun (+886) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
 
 Jun (+886) is a techno and psytrance artist based in Taiwan, with 35 gigs on soundcheck across New York City, Okinawa, Osaka and Taipei and 1 more. Often billed alongside Drunken Kong, Ken Ishii and AoWu. Next up: or, Tokyo on Mon 23 Nov.
 
@@ -25,4 +25,4 @@ Jun (+886) is a techno and psytrance artist based in Taiwan, with 35 gigs on sou
 
 Drunken Kong, Ken Ishii, AoWu
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jun-886/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jun-886/)*

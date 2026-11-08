@@ -1,14 +1,13 @@
 # Shonky
 
-Shonky is a House and Minimal artist with 12 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at fabric, London on Sat, 7 Nov 2026.
+Shonky is a House and Minimal artist with 11 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kapsule, Liverpool on Sat, 21 Nov 2026.
 
-Shonky is a house and minimal artist based in France, with 256 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: fabric, London on Sat 7 Nov.
+Shonky is a house and minimal artist based in France, with 256 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Kapsule, Liverpool on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | fabric | London |
 | Sat, 21 Nov 2026 | Kapsule | Liverpool |
 | Fri, 27 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
@@ -23,6 +22,7 @@ Shonky is a house and minimal artist based in France, with 256 gigs on soundchec
 
 ## Recently played
 
+- fabric, London · Sat, 7 Nov 2026
 - Balboa Salzburg Nightclub, Austria · Sat, 24 Oct 2026
 - Blast Galaxy, Amsterdam · Fri, 23 Oct 2026
 - TBA - Union Nautique de Marseille, Marseille · Fri, 16 Oct 2026
@@ -30,10 +30,9 @@ Shonky is a house and minimal artist based in France, with 256 gigs on soundchec
 - DURO, Milan · Fri, 9 Oct 2026
 - DURO, Milan · Fri, 9 Oct 2026
 - Berghain | Panorama Bar | Säule, Berlin · Sat, 3 Oct 2026
-- Radio Pirate, Paris · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Dyed Soundorom, Dan Ghenacia, Apollonia
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shonky/)*

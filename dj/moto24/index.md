@@ -1,6 +1,6 @@
 # MOTO 24
 
-MOTO 24 is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
+MOTO 24 is a Bass and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Berlin on Sat, 14 Nov 2026.
 
 MOTO 24 is a bass and downtempo artist, with 9 gigs on soundcheck across Berlin. Often billed alongside 4BLISS#, 2727 and Strobe. Next up: TBA, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ MOTO 24 is a bass and downtempo artist, with 9 gigs on soundcheck across Berlin.
 
 4BLISS#, 2727, Strobe
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moto24/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moto24/)*

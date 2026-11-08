@@ -1,6 +1,6 @@
 # Remcord
 
-Remcord is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Remcord is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Remcord is a house and techno artist based in France, with 23 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 7 more. Often billed alongside Mira, Caleesi and Mila Stern. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Remcord is a house and techno artist based in France, with 23 gigs on soundcheck
 
 Mira, Caleesi, Mila Stern
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remcord/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/remcord/)*

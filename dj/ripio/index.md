@@ -1,6 +1,6 @@
 # Ripio
 
-Ripio is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Bliss Club Headquarters, Cerro Bellavista, Valparaiso, Santiago on Sat, 5 Dec 2026.
+Ripio is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Bliss Club Headquarters, Cerro Bellavista, Valparaiso, Santiago on Sat, 5 Dec 2026.
 
 Ripio is a house and electronica artist, with 7 gigs on soundcheck across Guadalajara, Mexico City and Santiago. Often billed alongside Allison Trench, BANANA-CHAN and Boris. Next up: TBA - Bliss Club Headquarters, Cerro Bellavista, Valparaiso, Santiago on Sat 5 Dec.
 
@@ -23,4 +23,4 @@ Ripio is a house and electronica artist, with 7 gigs on soundcheck across Guadal
 
 Allison Trench, BANANA-CHAN, Boris
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ripio/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ripio/)*

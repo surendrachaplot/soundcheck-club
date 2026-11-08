@@ -1,19 +1,19 @@
 # Mikee (Athens)
 
-Mikee (Athens) is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 7 Nov 2026.
+Mikee (Athens) is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Eleusis LFC Music Studio, Athens on Sat, 28 Nov 2026.
 
-Mikee (Athens) is a techno and tech house artist based in Greece, with 45 gigs on soundcheck across Athens and Mykonos. Often billed alongside Manolaco, Pan-Pot and Chris Liebing. Next up: Eleusis LFC Music Studio, Athens on Sat 7 Nov.
+Mikee (Athens) is a techno and tech house artist based in Greece, with 45 gigs on soundcheck across Athens and Mykonos. Often billed alongside Manolaco, Pan-Pot and Chris Liebing. Next up: Eleusis LFC Music Studio, Athens on Sat 28 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Eleusis LFC Music Studio | Athens |
 | Sat, 28 Nov 2026 | Eleusis LFC Music Studio | Athens |
 | Sat, 5 Dec 2026 | Telekom Center Athens | Athens |
 
 ## Recently played
 
+- Eleusis LFC Music Studio, Athens · Sat, 7 Nov 2026
 - Eleusis LFC Music Studio, Athens · Sat, 24 Oct 2026
 - Burger Disco Club, Athens · Wed, 21 Oct 2026
 - Eleusis LFC Music Studio, Athens · Sat, 10 Oct 2026
@@ -21,10 +21,9 @@ Mikee (Athens) is a techno and tech house artist based in Greece, with 45 gigs o
 - IT Athens, Athens · Fri, 12 Jun 2026
 - Burger Disco Club, Athens · Fri, 27 Mar 2026
 - Oddity Club, Athens · Sat, 21 Mar 2026
-- Oddity Club, Athens · Sat, 21 Feb 2026
 
 ## Shares bills with
 
 Manolaco, Pan-Pot, Chris Liebing
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeeathens/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeeathens/)*

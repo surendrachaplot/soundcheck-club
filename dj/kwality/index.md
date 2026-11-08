@@ -1,6 +1,6 @@
 # kwality
 
-kwality is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 20 Nov 2026.
+kwality is a Bass and Dub artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Fri, 20 Nov 2026.
 
 kwality is a bass and dub artist based in Italy, with 4 gigs on soundcheck across London and Milan. Often billed alongside DNN, Ormeye and Addison Groove. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Fri 20 Nov.
 
@@ -20,4 +20,4 @@ kwality is a bass and dub artist based in Italy, with 4 gigs on soundcheck acros
 
 DNN, Ormeye, Addison Groove
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwality/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kwality/)*

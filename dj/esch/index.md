@@ -1,6 +1,6 @@
 # Esch
 
-Esch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
+Esch is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Oma Doris, Dortmund / Essen on Sat, 12 Dec 2026.
 
 Esch is a techno and house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Cologne, Dortmund / Essen and Rotterdam and 2 more. Often billed alongside SUSKA, Tschatsching and 909 RACING TEAM. Next up: Oma Doris, Dortmund / Essen on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ Esch is a techno and house artist based in Netherlands, with 9 gigs on soundchec
 
 SUSKA, Tschatsching, 909 RACING TEAM
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esch/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/esch/)*

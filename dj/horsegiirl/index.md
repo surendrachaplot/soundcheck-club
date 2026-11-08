@@ -1,14 +1,13 @@
 # horsegiirL
 
-horsegiirL is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at La Riviera, Madrid on Sat, 7 Nov 2026.
+horsegiirL is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
-horsegiirL is a techno and house artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 53 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: La Riviera, Madrid on Sat 7 Nov.
+horsegiirL is a techno and house artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 53 more. Often billed alongside DJ Gigola, MCR-T and VTSS. Next up: The Concourse Project, Austin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | La Riviera | Madrid |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 | Sat, 14 Nov 2026 | The Concourse Project | Austin |
 | Wed, 25 Nov 2026 | Huxley's Neue Welt | Berlin |
@@ -18,6 +17,7 @@ horsegiirL is a techno and house artist based in Germany, with 135 gigs on sound
 
 ## Recently played
 
+- La Riviera, Madrid · Sat, 7 Nov 2026
 - Nitsa Club, Barcelona · Fri, 6 Nov 2026
 - Roadrunner, Boston · Sat, 31 Oct 2026
 - Terminal 5, New York City · Fri, 30 Oct 2026
@@ -25,10 +25,9 @@ horsegiirL is a techno and house artist based in Germany, with 135 gigs on sound
 - BERHTA, Washington DC · Sat, 24 Oct 2026
 - The Fillmore, Philadelphia · Fri, 23 Oct 2026
 - Club Space Miami, Miami · Sat, 17 Oct 2026
-- Mana Wynwood, Miami · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 DJ Gigola, MCR-T, VTSS
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/horsegiirl/)*

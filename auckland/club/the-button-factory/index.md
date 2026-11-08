@@ -1,6 +1,6 @@
 # The Button Factory
 
-The Button Factory is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Reggae Republic #11" on Fri, 13 Nov 2026.
+The Button Factory is a music venue in Auckland with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Reggae Republic #11" on Fri, 13 Nov 2026.
 
 The Button Factory is a music venue in Auckland listed on soundcheck. 4 upcoming gigs, with line-ups including Deep Tempo, Strategy and submarine. See dates, start times and who's playing. 2 Abbey Street, Auckland CBD, Auckland 1010.
 
@@ -17,4 +17,4 @@ The Button Factory is a music venue in Auckland listed on soundcheck. 4 upcoming
 
 2 Abbey Street, Auckland CBD, Auckland 1010, Auckland
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-button-factory/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/auckland/club/the-button-factory/)*

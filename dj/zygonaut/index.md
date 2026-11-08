@@ -1,6 +1,6 @@
 # zygonaut
 
-zygonaut is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Prisma, Berlin on Thu, 19 Nov 2026.
+zygonaut is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Prisma, Berlin on Thu, 19 Nov 2026.
 
 zygonaut is a techno and tech house artist based in India, with 2 gigs on soundcheck across Berlin. Often billed alongside Bee Lincoln, Claramonte and Determiner. Next up: Prisma, Berlin on Thu 19 Nov.
 
@@ -15,4 +15,4 @@ zygonaut is a techno and tech house artist based in India, with 2 gigs on soundc
 
 Bee Lincoln, Claramonte, Determiner
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zygonaut/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/zygonaut/)*

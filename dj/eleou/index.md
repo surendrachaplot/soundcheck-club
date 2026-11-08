@@ -1,6 +1,6 @@
 # Eleou
 
-Eleou is a IDM and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Kiosk Radio, Brussels on Sat, 7 Nov 2026.
+Eleou is a IDM and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Kiosk Radio, Brussels on Sat, 7 Nov 2026.
 
 Eleou is an idm and house artist based in United States of America, with 37 gigs on soundcheck across Athens, Barcelona, Brussels and Greece and 5 more. Often billed alongside True Vine, Bort and Ostara. Next up: Kiosk Radio, Brussels on Sat 7 Nov.
 
@@ -14,6 +14,7 @@ Eleou is an idm and house artist based in United States of America, with 37 gigs
 
 ## Recently played
 
+- Kiosk Radio, Brussels · Sat, 7 Nov 2026
 - Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
 - feedbk, New York City · Thu, 24 Sept 2026
 - Silence Please, New York City · Fri, 18 Sept 2026
@@ -21,10 +22,9 @@ Eleou is an idm and house artist based in United States of America, with 37 gigs
 - Buda BXL, Brussels · Sat, 8 Aug 2026
 - Don't be a Dick, Athens · Sun, 21 Jun 2026
 - Second Child, Athens · Tue, 21 Apr 2026
-- Apollo Studio, New York City · Sat, 28 Mar 2026
 
 ## Shares bills with
 
 True Vine, Bort, Ostara
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/eleou/)*

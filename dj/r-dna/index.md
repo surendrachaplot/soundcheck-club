@@ -1,19 +1,19 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Bossa Nova Civic Club, New York City on Sat, 7 Nov 2026.
+R-DNA is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - East Williamsburg, New York City on Fri, 13 Nov 2026.
 
-R-DNA is a techno and baile funk artist based in Ukraine, with 35 gigs on soundcheck across New York City and Quebec City. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Bossa Nova Civic Club, New York City on Sat 7 Nov.
+R-DNA is a techno and baile funk artist based in Ukraine, with 35 gigs on soundcheck across New York City and Quebec City. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: TBA - East Williamsburg, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Bossa Nova Civic Club | New York City |
 | Fri, 13 Nov 2026 | TBA - East Williamsburg | New York City |
 | Sun, 15 Nov 2026 | Parking.Radio | Quebec City |
 
 ## Recently played
 
+- Bossa Nova Civic Club, New York City · Sat, 7 Nov 2026
 - telos.haus, New York City · Thu, 29 Oct 2026
 - Mood Ring, New York City · Wed, 28 Oct 2026
 - H0L0, New York City · Wed, 21 Oct 2026
@@ -21,10 +21,9 @@ R-DNA is a techno and baile funk artist based in Ukraine, with 35 gigs on soundc
 - Reforesters Laboratory, New York City · Sat, 10 Oct 2026
 - Bogart House, New York City · Sat, 12 Sept 2026
 - Mood Ring, New York City · Thu, 27 Aug 2026
-- Honey's, New York City · Sun, 23 Aug 2026
 
 ## Shares bills with
 
 masha latte, 1ol1v1a, SEDENTARY
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/r-dna/)*

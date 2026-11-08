@@ -1,14 +1,13 @@
 # Paula Koski
 
-Paula Koski is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Post Bar, Helsinki on Sat, 7 Nov 2026.
+Paula Koski is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 21 Nov 2026.
 
-Paula Koski is a techno and house artist based in Finland, with 146 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Justine Perry, CEB (FI) and Ben Klock. Next up: Post Bar, Helsinki on Sat 7 Nov.
+Paula Koski is a techno and house artist based in Finland, with 146 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Justine Perry, CEB (FI) and Ben Klock. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Post Bar | Helsinki |
 | Sat, 21 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | Lasociaciøn | Madrid |
 | Sat, 28 Nov 2026 | FOLD | London |
@@ -18,6 +17,7 @@ Paula Koski is a techno and house artist based in Finland, with 146 gigs on soun
 
 ## Recently played
 
+- Post Bar, Helsinki · Sat, 7 Nov 2026
 - essaim, Paris · Fri, 6 Nov 2026
 - TILLATEC, Amsterdam · Thu, 22 Oct 2026
 - Tresor / Globus, Berlin · Sat, 10 Oct 2026
@@ -25,10 +25,9 @@ Paula Koski is a techno and house artist based in Finland, with 146 gigs on soun
 - rake?raka?, Osaka · Tue, 22 Sept 2026
 - Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 19 Sept 2026
 - POTENT, Shanghai · Sat, 12 Sept 2026
-- Pillbox Beijing, Beijing · Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Justine Perry, CEB (FI), Ben Klock
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/paulakoski/)*

@@ -1,6 +1,6 @@
 # PENCIL
 
-PENCIL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at MÄX, Zurich on Fri, 27 Nov 2026.
+PENCIL is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at MÄX, Zurich on Fri, 27 Nov 2026.
 
 PENCIL is a techno and industrial artist based in Switzerland, with 4 gigs on soundcheck across Basel and Zurich. Often billed alongside 1luu, A.N.I. and BINA. Next up: MÄX, Zurich on Fri 27 Nov.
 
@@ -20,4 +20,4 @@ PENCIL is a techno and industrial artist based in Switzerland, with 4 gigs on so
 
 1luu, A.N.I., BINA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pencil/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pencil/)*

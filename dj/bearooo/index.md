@@ -1,6 +1,6 @@
 # BearoOo
 
-BearoOo is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
+BearoOo is a Techno and Pop artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at KitKatClub, Berlin on Fri, 22 Jan 2027.
 
 BearoOo is a techno and pop artist based in Syria, with 8 gigs on soundcheck across Berlin. Often billed alongside Cristian Marras, Zomkrad and ADAM MUNNINGS. Next up: KitKatClub, Berlin on Fri 22 Jan.
 
@@ -24,4 +24,4 @@ BearoOo is a techno and pop artist based in Syria, with 8 gigs on soundcheck acr
 
 Cristian Marras, Zomkrad, ADAM MUNNINGS
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bearooo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bearooo/)*

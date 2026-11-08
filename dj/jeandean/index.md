@@ -1,6 +1,6 @@
 # Jean Dean
 
-Jean Dean is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 30 Jan 2027.
+Jean Dean is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Location, Berlin on Sat, 30 Jan 2027.
 
 Jean Dean is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Bokaric, Mattone and Mike G. Next up: TBA - Secret Location, Berlin on Sat 30 Jan.
 
@@ -24,4 +24,4 @@ Jean Dean is a house and techno artist based in Germany, with 8 gigs on soundche
 
 Bokaric, Mattone, Mike G
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeandean/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jeandean/)*

@@ -1,6 +1,6 @@
 # UMAFRICANA
 
-UMAFRICANA is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Haggerston, London on Sat, 14 Nov 2026.
+UMAFRICANA is a Afro House and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Haggerston, London on Sat, 14 Nov 2026.
 
 UMAFRICANA is an afro house and club artist based in Portugal, with 26 gigs on soundcheck across Lisbon, London and Paris. Often billed alongside Von Di, Marcolan and Saint Caboclo. Next up: The Haggerston, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ UMAFRICANA is an afro house and club artist based in Portugal, with 26 gigs on s
 
 Von Di, Marcolan, Saint Caboclo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umafricana/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/umafricana/)*

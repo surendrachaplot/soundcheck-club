@@ -1,14 +1,13 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cadavra, Madrid on Sat, 7 Nov 2026.
+Anna Wall is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Radio Radio, Amsterdam on Fri, 13 Nov 2026.
 
-Anna Wall is a house and techno artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Cadavra, Madrid on Sat 7 Nov.
+Anna Wall is a house and techno artist based in United Kingdom, with 127 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 27 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: Radio Radio, Amsterdam on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Cadavra | Madrid |
 | Fri, 13 Nov 2026 | Radio Radio | Amsterdam |
 | Sat, 14 Nov 2026 | TBA - 75013 | Paris |
 | Sun, 22 Nov 2026 | Starlane Pizza Bar | London |
@@ -17,6 +16,7 @@ Anna Wall is a house and techno artist based in United Kingdom, with 127 gigs on
 
 ## Recently played
 
+- Cadavra, Madrid · Sat, 7 Nov 2026
 - The Timber Loft, London · Sun, 1 Nov 2026
 - NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 24 Oct 2026
 - Platforma Wolff, Bucharest · Fri, 23 Oct 2026
@@ -24,10 +24,9 @@ Anna Wall is a house and techno artist based in United Kingdom, with 127 gigs on
 - Sameheads, Berlin · Fri, 9 Oct 2026
 - KPGT, Belgrade · Fri, 2 Oct 2026
 - TBA, London · Sat, 12 Sept 2026
-- Starlane Pizza Bar, London · Sat, 29 Aug 2026
 
 ## Shares bills with
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

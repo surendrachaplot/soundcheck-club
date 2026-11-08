@@ -1,6 +1,6 @@
 # My Flower
 
-My Flower is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Signal, New York City on Sun, 8 Nov 2026.
+My Flower is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Signal, New York City on Sun, 8 Nov 2026.
 
 My Flower is a techno and house artist, with 9 gigs on soundcheck across Barcelona, Chicago, Madrid and Montreal and 3 more. Often billed alongside CZ Wang, FEEM and Fergus Clark. Next up: Signal, New York City on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ My Flower is a techno and house artist, with 9 gigs on soundcheck across Barcelo
 
 CZ Wang, FEEM, Fergus Clark
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myflower/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/myflower/)*

@@ -1,14 +1,15 @@
 # kEczuP
 
-kEczuP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
+kEczuP is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Ciało, Wroclaw on Fri, 13 Nov 2026.
 
-kEczuP is a techno and house artist based in Poland, with 62 gigs on soundcheck across Berlin, Krakow, Warsaw and Wroclaw. Often billed alongside Trans Timmermans, LuLu Malina and Spectribe. Next up: Ciało, Wroclaw on Fri 13 Nov.
+kEczuP is a techno and house artist based in Poland, with 63 gigs on soundcheck across Berlin, Krakow, Warsaw and Wroclaw. Often billed alongside Trans Timmermans, LuLu Malina and Spectribe. Next up: Ciało, Wroclaw on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Ciało | Wroclaw |
+| Sat, 5 Dec 2026 | Ciało | Wroclaw |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ kEczuP is a techno and house artist based in Poland, with 62 gigs on soundcheck 
 
 Trans Timmermans, LuLu Malina, Spectribe
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keczup/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/keczup/)*

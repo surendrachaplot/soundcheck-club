@@ -1,6 +1,6 @@
 # Theo T
 
-Theo T is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Flipdog, London on Sat, 14 Nov 2026.
+Theo T is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Flipdog, London on Sat, 14 Nov 2026.
 
 Theo T is a techno and afro house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Dyl Payne, Henry Dummett and Fikayo. Next up: Flipdog, London on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Theo T is a techno and afro house artist based in United Kingdom, with 18 gigs o
 
 Dyl Payne, Henry Dummett, Fikayo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theot/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/theot/)*

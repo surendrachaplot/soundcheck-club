@@ -1,6 +1,6 @@
 # Regue
 
-Regue is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 4 Dec 2026.
+Regue is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Secret Location, Madrid on Fri, 4 Dec 2026.
 
 Regue is an electronica and trance artist based in Spain, with 15 gigs on soundcheck across Berlin, Madrid, Malaga and Porto. Often billed alongside Avo (ES), Jorge Escribano and Abdulla A.. Next up: TBA - Secret Location, Madrid on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Regue is an electronica and trance artist based in Spain, with 15 gigs on soundc
 
 Avo (ES), Jorge Escribano, Abdulla A.
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regue/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/regue/)*

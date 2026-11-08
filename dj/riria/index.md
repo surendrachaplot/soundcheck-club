@@ -1,15 +1,13 @@
 # RIRIA
 
-RIRIA is a Bass and Garage artist with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Roxy, Prague on Sat, 7 Nov 2026.
+RIRIA is a Bass and Garage artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Quarters, Brighton on Fri, 13 Nov 2026.
 
-RIRIA is a bass and garage artist based in Japan, with 111 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 43 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: Roxy, Prague on Sat 7 Nov.
+RIRIA is a bass and garage artist based in Japan, with 111 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 43 more. Often billed alongside Diffrent, Yung Singh and ryota dj. Next up: Quarters, Brighton on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Roxy | Prague |
-| Sat, 7 Nov 2026 | Roxy | Prague |
 | Fri, 13 Nov 2026 | Quarters | Brighton |
 | Sat, 14 Nov 2026 | The Loft | Manchester |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
@@ -21,17 +19,17 @@ RIRIA is a bass and garage artist based in Japan, with 111 gigs on soundcheck ac
 
 ## Recently played
 
+- Roxy, Prague · Sat, 7 Nov 2026
+- Roxy, Prague · Sat, 7 Nov 2026
 - Wigwam, Dublin · Fri, 6 Nov 2026
 - Brussels Gate, Brussels · Sat, 31 Oct 2026
 - GASHOUDER, Amsterdam · Sat, 24 Oct 2026
 - PRE-Reserved, Netherlands · Sat, 24 Oct 2026
 - Het Rijk van de Keizer, Amsterdam · Fri, 23 Oct 2026
 - Shelter Amsterdam, Amsterdam · Thu, 22 Oct 2026
-- The Nest, Nottingham · Sat, 17 Oct 2026
-- Elsewhere, New York City · Sat, 3 Oct 2026
 
 ## Shares bills with
 
 Diffrent, Yung Singh, ryota dj
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/riria/)*

@@ -1,14 +1,13 @@
 # Spook Club
 
-Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Hector Oaks all night long + Egyptian Lover" on Sat, 7 Nov 2026.
+Spook Club is a music venue in Valencia with 10 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Vendex + invitados" on Sat, 14 Nov 2026.
 
-Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, Andres Campo, Ariezzz and Blanch and 2 more. See dates, start times and who's playing. Pinedo Valencia.
+Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, with line-ups including Alarico, alvar., Andres Campo and Ariezzz and 2 more. See dates, start times and who's playing. Pinedo Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Hector Oaks all night long + Egyptian Lover | Egyptian Lover, Héctor Oaks |
 | Sat, 14 Nov 2026 | Vendex + invitados | Ariezzz, ENGALANAN, Lucía Gea, M8NSE, Vendex |
 | Sat, 21 Nov 2026 | Spook conection + Special K |  |
 | Sat, 21 Nov 2026 | Special-K with Shoal, Marie Pravda (guest list in bio) | Marie Pravda, Moy Santana, Pizzicatto, Shoal |
@@ -16,6 +15,7 @@ Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, 
 | Mon, 7 Dec 2026 | 42 anniversary: Onlynumbers + invitados | Ariezzz, Finalversion3, Lucía Gea, Onlynumbers |
 | Sat, 12 Dec 2026 | Richie Hawtin + invitados & Cartulis with Unai Trotti + Vass | Fase Bipolar, Richie Hawtin, SCHRZØ, Unai Trotti, Vass |
 | Sat, 19 Dec 2026 | Andres Campo (extended set) + invitados | Andres Campo |
+| Fri, 25 Dec 2026 | BUGANVILLA · 5º ANIVERSARIO: Christmas Special - Sunbox/Spook Club | Clemente (ES), Fes Bondat, Gurrex, alvar. |
 | Sat, 26 Dec 2026 | Alarico + invitados | Alarico |
 | Thu, 31 Dec 2026 | NYE Special-k (tickets in bio) | Blanch, Caballeri, Camiel Daamen, Elena Megi, Felipe Valenzuela, Fran.cis, KATIA, Ladrillovitz, Lazystep, Not A Headliner, Olga Korol, Pau Pérez, Pin, Pizzicatto, Sueezo, The Ghost, Tommaso Pizzelli, Varis |
 
@@ -23,4 +23,4 @@ Spook Club is a music venue in Valencia listed on soundcheck. 10 upcoming gigs, 
 
 Pinedo Valencia, Valencia
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/spook-club/)*

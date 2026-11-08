@@ -1,6 +1,6 @@
 # Mysthy
 
-Mysthy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Weetamix, Geneva on Fri, 18 Dec 2026.
+Mysthy is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Weetamix, Geneva on Fri, 18 Dec 2026.
 
 Mysthy is a techno and house artist based in Switzerland, with 17 gigs on soundcheck across Berlin, Geneva and Lausanne. Often billed alongside ALIASLOH, Herone and Reita D Russo. Next up: Weetamix, Geneva on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Mysthy is a techno and house artist based in Switzerland, with 17 gigs on soundc
 
 ALIASLOH, Herone, Reita D Russo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysthy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysthy/)*

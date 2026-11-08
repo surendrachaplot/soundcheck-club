@@ -1,6 +1,6 @@
 # Valentina Magaletti
 
-Valentina Magaletti is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Valentina Magaletti is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
 Valentina Magaletti is an experimental and electronica artist based in Italy, with 84 gigs on soundcheck across Adelaide, Amsterdam, Antwerp and Athens and 32 more. Often billed alongside upsammy, Al Wootton and Nídia. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
@@ -27,4 +27,4 @@ Valentina Magaletti is an experimental and electronica artist based in Italy, wi
 
 upsammy, Al Wootton, Nídia
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinamagaletti/)*

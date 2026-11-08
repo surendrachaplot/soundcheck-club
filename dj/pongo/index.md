@@ -1,6 +1,6 @@
 # Pongo
 
-Pongo is a Kuduro and Afrobeat artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Botanique, Brussels on Thu, 3 Dec 2026.
+Pongo is a Kuduro and Afrobeat artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Botanique, Brussels on Thu, 3 Dec 2026.
 
 Pongo is a kuduro and afrobeat artist based in Angola, with 15 gigs on soundcheck across Amsterdam, Berlin, Brussels and Ghent and 6 more. Often billed alongside Bona Léa, Miss Monique and AARON. Next up: Botanique, Brussels on Thu 3 Dec.
 
@@ -27,4 +27,4 @@ Pongo is a kuduro and afrobeat artist based in Angola, with 15 gigs on soundchec
 
 Bona Léa, Miss Monique, AARON
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pongo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pongo/)*

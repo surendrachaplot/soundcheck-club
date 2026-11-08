@@ -1,6 +1,6 @@
 # Nicole Gallamini
 
-Nicole Gallamini is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
+Nicole Gallamini is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Factory Town, Miami on Thu, 3 Dec 2026.
 
 Nicole Gallamini is a house and tech house artist based in United States of America, with 54 gigs on soundcheck across Atlanta, Los Angeles, Miami and New York City and 1 more. Often billed alongside DIFFER, Thunderpony and Berrakka. Next up: Factory Town, Miami on Thu 3 Dec.
 
@@ -25,4 +25,4 @@ Nicole Gallamini is a house and tech house artist based in United States of Amer
 
 DIFFER, Thunderpony, Berrakka
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicolegallamini/)*

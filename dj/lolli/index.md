@@ -1,19 +1,19 @@
 # Lolli
 
-Lolli is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sawmills, Bristol on Sat, 7 Nov 2026.
+Lolli is a Garage and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Colour Factory, London on Fri, 13 Nov 2026.
 
-Lolli is a garage and bass artist based in United Kingdom, with 23 gigs on soundcheck across Bristol, Glasgow, London and Sao Paulo and 1 more. Often billed alongside AÆE, DASHY and Azumei. Next up: Sawmills, Bristol on Sat 7 Nov.
+Lolli is a garage and bass artist based in United Kingdom, with 23 gigs on soundcheck across Bristol, Glasgow, London and Sao Paulo and 1 more. Often billed alongside AÆE, DASHY and Azumei. Next up: Colour Factory, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Sawmills | Bristol |
 | Fri, 13 Nov 2026 | Colour Factory | London |
 | Sat, 28 Nov 2026 | The Prospect Building | Bristol |
 
 ## Recently played
 
+- Sawmills, Bristol · Sat, 7 Nov 2026
 - Crono Club, Sao Paulo · Sat, 22 Aug 2026
 - Allenford Farms, Southampton · Fri, 26 Jun 2026
 - The Love Inn, Bristol · Fri, 5 Jun 2026
@@ -21,10 +21,9 @@ Lolli is a garage and bass artist based in United Kingdom, with 23 gigs on sound
 - Lakota, Bristol · Sat, 9 May 2026
 - The Underground, Bristol · Fri, 27 Feb 2026
 - The Jam Jar, Bristol · Sat, 24 Jan 2026
-- The Prospect Building, Bristol · Wed, 31 Dec 2025
 
 ## Shares bills with
 
 AÆE, DASHY, Azumei
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolli/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lolli/)*

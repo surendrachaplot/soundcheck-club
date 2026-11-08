@@ -1,6 +1,6 @@
 # Kia (DE)
 
-Kia (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at VENT, Tokyo on Fri, 18 Dec 2026.
+Kia (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at VENT, Tokyo on Fri, 18 Dec 2026.
 
 Kia (DE) is a house and techno artist based in Germany, with 19 gigs on soundcheck across Amsterdam, Barcelona, Bordeaux and Brussels and 6 more. Often billed alongside Angel D'lite, Elias Mazian and Eva. Next up: VENT, Tokyo on Fri 18 Dec.
 
@@ -26,4 +26,4 @@ Kia (DE) is a house and techno artist based in Germany, with 19 gigs on soundche
 
 Angel D'lite, Elias Mazian, Eva
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-de/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kia-de/)*

@@ -1,19 +1,19 @@
 # Jay Dee
 
-Jay Dee is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+Jay Dee is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 9 Jan 2027.
 
-Jay Dee is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Amsterdam, Berlin, Ghent and New York City and 2 more. Often billed alongside Alexander Koning, Remy Unger and Dimitri. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
+Jay Dee is a house and techno artist based in United States of America, with 17 gigs on soundcheck across Amsterdam, Berlin, Ghent and New York City and 2 more. Often billed alongside Alexander Koning, Remy Unger and Dimitri. Next up: Thuishaven, Amsterdam on Sat 9 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 | Sat, 13 Feb 2027 | Lofi | Amsterdam |
 
 ## Recently played
 
+- Thuishaven, Amsterdam · Sat, 7 Nov 2026
 - Maassilo, Rotterdam · Sat, 3 Oct 2026
 - Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
 - AMT, Berlin · Sat, 15 Aug 2026
@@ -21,10 +21,9 @@ Jay Dee is a house and techno artist based in United States of America, with 17 
 - Thuishaven, Amsterdam · Sat, 7 Mar 2026
 - Thuishaven, Amsterdam · Sat, 8 Nov 2025
 - Maassilo, Rotterdam · Sat, 4 Oct 2025
-- Althea's Rooftop, New York City · Fri, 27 Jun 2025
 
 ## Shares bills with
 
 Alexander Koning, Remy Unger, Dimitri (1)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydee/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydee/)*

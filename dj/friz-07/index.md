@@ -1,6 +1,6 @@
 # Friz07
 
-Friz07 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
+Friz07 is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Südpol, Hamburg on Fri, 27 Nov 2026.
 
 Friz07 is a house and techno artist based in Germany, with 28 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Rangø, Hans Hammer and Surreal (DE). Next up: Südpol, Hamburg on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Friz07 is a house and techno artist based in Germany, with 28 gigs on soundcheck
 
 Rangø, Hans Hammer, Surreal (DE)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friz-07/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/friz-07/)*

@@ -1,6 +1,6 @@
 # Mister Wallace
 
-Mister Wallace is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sayat Nova, Chicago on Fri, 13 Nov 2026.
+Mister Wallace is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sayat Nova, Chicago on Fri, 13 Nov 2026.
 
 Mister Wallace is a techno and house artist based in United States of America, with 62 gigs on soundcheck across Berlin, Chicago, Detroit and Houston and 5 more. Often billed alongside Mister Hoochiemama, Shaun J. Wright and Sterling Juan Diaz. Next up: Sayat Nova, Chicago on Fri 13 Nov.
 
@@ -27,4 +27,4 @@ Mister Wallace is a techno and house artist based in United States of America, w
 
 Mister Hoochiemama, Shaun J. Wright, Sterling Juan Diaz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwallace/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/misterwallace/)*

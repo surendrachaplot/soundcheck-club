@@ -1,6 +1,6 @@
 # S.Moreira
 
-S.Moreira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
+S.Moreira is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Garden Tisno, Croatia on Thu, 26 Aug 2027.
 
 S.Moreira is a house and techno artist based in Spain, with 31 gigs on soundcheck across Barcelona, Berlin, Bucharest and Croatia and 5 more. Often billed alongside Cecilio, Laurine and Jorge Escribano. Next up: The Garden Tisno, Croatia on Thu 26 Aug.
 
@@ -25,4 +25,4 @@ S.Moreira is a house and techno artist based in Spain, with 31 gigs on soundchec
 
 Cecilio, Laurine, Jorge Escribano
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smoreira/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/smoreira/)*

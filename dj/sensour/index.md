@@ -1,6 +1,6 @@
 # sensour
 
-sensour is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Mashroom, Krakow on Sat, 28 Nov 2026.
+sensour is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Mashroom, Krakow on Sat, 28 Nov 2026.
 
 sensour is a tech house and minimal artist based in Ukraine, with 15 gigs on soundcheck across Berlin, Krakow, Prague and Warsaw. Often billed alongside Solyr, Fuunkt and nuarrrrr. Next up: Mashroom, Krakow on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ sensour is a tech house and minimal artist based in Ukraine, with 15 gigs on sou
 
 Solyr, Fuunkt, nuarrrrr
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sensour/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sensour/)*

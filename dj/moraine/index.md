@@ -1,6 +1,6 @@
 # moraine
 
-moraine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Distillery, Leipzig on Sat, 21 Nov 2026.
+moraine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Distillery, Leipzig on Sat, 21 Nov 2026.
 
 moraine is a techno and house artist based in Germany, with 9 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Murky fm, V:SONNTAG and Kontinum. Next up: Distillery, Leipzig on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ moraine is a techno and house artist based in Germany, with 9 gigs on soundcheck
 
 Murky fm, V:SONNTAG, Kontinum
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moraine/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moraine/)*

@@ -1,6 +1,6 @@
 # Jakes
 
-Jakes is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Clock Factory, Bristol on Sat, 14 Nov 2026.
+Jakes is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Clock Factory, Bristol on Sat, 14 Nov 2026.
 
 Jakes is a drum & bass and jungle artist based in United Kingdom, with 68 gigs on soundcheck across Bali, Bristol, Bucharest and Budapest and 7 more. Often billed alongside Carasel, Enei and SP:MC. Next up: The Clock Factory, Bristol on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Jakes is a drum & bass and jungle artist based in United Kingdom, with 68 gigs o
 
 Carasel, Enei, SP:MC
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jakes/)*

@@ -1,14 +1,13 @@
 # Hardwell
 
-Hardwell is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Hardwell is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Peru on Fri, 13 Nov 2026.
 
-Hardwell is a techno and progressive house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Bucharest, Ibiza and Kuala Lumpur and 7 more. Often billed alongside Artbat, Afrojack and Mau P. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Hardwell is a techno and progressive house artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Bucharest, Ibiza and Kuala Lumpur and 7 more. Often billed alongside Artbat, Afrojack and Mau P. Next up: TBA, Peru on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Fri, 13 Nov 2026 | TBA | Peru |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 
@@ -27,4 +26,4 @@ Hardwell is a techno and progressive house artist based in Netherlands, with 12 
 
 Artbat, Afrojack, Mau P
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardwell/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hardwell/)*

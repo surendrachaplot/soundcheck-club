@@ -1,6 +1,6 @@
 # Vortek's
 
-Vortek's is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
+Vortek's is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Brussels Expo, Brussels on Wed, 30 Dec 2026.
 
 Vortek's is a techno and hardcore artist based in France, with 29 gigs on soundcheck across Antwerp, Barcelona, Brussels and Kuala Lumpur and 12 more. Often billed alongside OMAKS, CARV and Holy Priest. Next up: Brussels Expo, Brussels on Wed 30 Dec.
 
@@ -25,4 +25,4 @@ Vortek's is a techno and hardcore artist based in France, with 29 gigs on soundc
 
 OMAKS, CARV, Holy Priest
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks-ca/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/vorteks-ca/)*

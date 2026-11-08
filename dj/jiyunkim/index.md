@@ -1,6 +1,6 @@
 # jiyun kim
 
-jiyun kim is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
+jiyun kim is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Golden Gate, Berlin on Thu, 19 Nov 2026.
 
 jiyun kim is a house and techno artist based in Germany, with 37 gigs on soundcheck across Barcelona, Berlin, Detroit and New York City. Often billed alongside Ana Molina, Lavan and 4AM NYC. Next up: Golden Gate, Berlin on Thu 19 Nov.
 
@@ -26,4 +26,4 @@ jiyun kim is a house and techno artist based in Germany, with 37 gigs on soundch
 
 Ana Molina, Lavan, 4AM NYC
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiyunkim/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jiyunkim/)*

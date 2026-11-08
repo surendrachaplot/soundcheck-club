@@ -1,6 +1,6 @@
 # AJ Christou
 
-AJ Christou is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Vera Cocina & بار, Washington DC on Fri, 13 Nov 2026.
+AJ Christou is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Vera Cocina & بار, Washington DC on Fri, 13 Nov 2026.
 
 AJ Christou is a tech house and house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Atlanta, Bali and Bangkok and 29 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Vera Cocina & بار, Washington DC on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ AJ Christou is a tech house and house artist based in United Kingdom, with 120 g
 
 Mason Collective, Fleur Shore, Jesse Calosso
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*

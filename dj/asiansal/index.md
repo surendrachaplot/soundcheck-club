@@ -1,6 +1,6 @@
 # Asian Sal
 
-Asian Sal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Fuse, Brussels on Fri, 4 Dec 2026.
+Asian Sal is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fuse, Brussels on Fri, 4 Dec 2026.
 
 Asian Sal is a techno and house artist based in Belgium, with 30 gigs on soundcheck across Antwerp, Brussels, Ghent and Nantes. Often billed alongside Fais Le Beau, BAVR and She The DJ. Next up: Fuse, Brussels on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Asian Sal is a techno and house artist based in Belgium, with 30 gigs on soundch
 
 Fais Le Beau, BAVR, She The DJ
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asiansal/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/asiansal/)*

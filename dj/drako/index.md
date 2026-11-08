@@ -1,18 +1,18 @@
 # Drako
 
-Drako is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Ringside Shoreditch, London on Sat, 7 Nov 2026.
+Drako is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Egg London, London on Fri, 13 Nov 2026.
 
-Drako is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Bristol and London. Often billed alongside JAYDAA, Jerome Six and Shenin Amara. Next up: Ringside Shoreditch, London on Sat 7 Nov.
+Drako is a house and tech house artist based in United Kingdom, with 24 gigs on soundcheck across Bristol and London. Often billed alongside JAYDAA, Jerome Six and Shenin Amara. Next up: Egg London, London on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Ringside Shoreditch | London |
 | Fri, 13 Nov 2026 | Egg London | London |
 
 ## Recently played
 
+- Ringside Shoreditch, London · Sat, 7 Nov 2026
 - Starlane Pizza Bar, London · Sat, 11 Jul 2026
 - HWK, London · Sat, 2 Aug 2025
 - Basing House, London · Sat, 5 Jul 2025
@@ -20,10 +20,9 @@ Drako is a house and tech house artist based in United Kingdom, with 24 gigs on 
 - 93 Feet East, London · Sun, 29 Dec 2024
 - HWK, London · Fri, 11 Oct 2024
 - Basing House, London · Sat, 22 Jun 2024
-- Parlay E18, London · Fri, 3 May 2024
 
 ## Shares bills with
 
 JAYDAA, Jerome Six, Shenin Amara
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drako/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drako/)*

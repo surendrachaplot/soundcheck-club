@@ -1,6 +1,6 @@
 # Espacio Riesco Expo Centre
 
-Espacio Riesco Expo Centre is a music venue in Santiago with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Respira Primavera" on Sat, 21 Nov 2026.
+Espacio Riesco Expo Centre is a music venue in Santiago with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Respira Primavera" on Sat, 21 Nov 2026.
 
 Espacio Riesco Expo Centre is a music venue in Santiago listed on soundcheck. 3 upcoming gigs, with line-ups including 6EJOU, 999999999, ALT8 and Angerfist and 2 more. See dates, start times and who's playing. Av El Salto 5000; Huechuraba; Santiago; Chile.
 
@@ -16,4 +16,4 @@ Espacio Riesco Expo Centre is a music venue in Santiago listed on soundcheck. 3 
 
 Av El Salto 5000; Huechuraba; Santiago; Chile, Santiago
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/espacio-riesco-expo-centre/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/santiago/club/espacio-riesco-expo-centre/)*

@@ -1,6 +1,6 @@
 # Bushy Squirrel
 
-Bushy Squirrel is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Hackney Bridge, London on Sat, 5 Dec 2026.
+Bushy Squirrel is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Hackney Bridge, London on Sat, 5 Dec 2026.
 
 Bushy Squirrel is a techno and progressive house artist based in United Kingdom, with 19 gigs on soundcheck across London and Manchester. Often billed alongside Sara P, AVANTIME and Photrix. Next up: Hackney Bridge, London on Sat 5 Dec.
 
@@ -26,4 +26,4 @@ Bushy Squirrel is a techno and progressive house artist based in United Kingdom,
 
 Sara P, AVANTIME, Photrix
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushysquirrel/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bushysquirrel/)*

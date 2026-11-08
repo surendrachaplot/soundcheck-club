@@ -1,6 +1,6 @@
 # ANICHE
 
-ANICHE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Honey's, New York City on Fri, 4 Dec 2026.
+ANICHE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Honey's, New York City on Fri, 4 Dec 2026.
 
 ANICHE is a house and techno artist based in India, with 40 gigs on soundcheck across New York City, San Francisco/Oakland and Tokyo. Often billed alongside Choo Choo, ceviché and $EJ. Next up: Honey's, New York City on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ ANICHE is a house and techno artist based in India, with 40 gigs on soundcheck a
 
 Choo Choo, ceviché, $EJ
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aniche/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aniche/)*

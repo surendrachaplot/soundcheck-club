@@ -1,8 +1,8 @@
 # KRYZ
 
-KRYZ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
+KRYZ is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Casa Nube Wynwood, Miami on Sat, 21 Nov 2026.
 
-KRYZ is a techno and industrial artist, with 7 gigs on soundcheck across Miami. Often billed alongside iCKY, CÛLTÛS VÎS and Dadrev. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
+KRYZ is a techno and industrial artist based in United States of America, with 7 gigs on soundcheck across Miami. Often billed alongside iCKY, CÛLTÛS VÎS and Dadrev. Next up: Casa Nube Wynwood, Miami on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -23,4 +23,4 @@ KRYZ is a techno and industrial artist, with 7 gigs on soundcheck across Miami. 
 
 iCKY, CÛLTÛS VÎS, Dadrev
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kryz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kryz/)*

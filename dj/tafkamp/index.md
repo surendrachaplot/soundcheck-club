@@ -1,19 +1,19 @@
 # TAFKAMP
 
-TAFKAMP is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Amboss Rampe, Zurich on Sat, 7 Nov 2026.
+TAFKAMP is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Jasna 1, Warsaw on Tue, 10 Nov 2026.
 
-TAFKAMP is a techno and house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brussels and 22 more. Often billed alongside Bastienne, Grace Dahl and Lobster (NL). Next up: Amboss Rampe, Zurich on Sat 7 Nov.
+TAFKAMP is a techno and house artist based in Netherlands, with 91 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brussels and 22 more. Often billed alongside Bastienne, Grace Dahl and Lobster (NL). Next up: Jasna 1, Warsaw on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Amboss Rampe | Zurich |
 | Tue, 10 Nov 2026 | Jasna 1 | Warsaw |
 | Sat, 28 Nov 2026 | Inter-City | The Hague |
 
 ## Recently played
 
+- Amboss Rampe, Zurich · Sat, 7 Nov 2026
 - Tresor / Globus, Berlin · Sat, 31 Oct 2026
 - Frame, Dublin · Sun, 25 Oct 2026
 - Café Katoen, Amsterdam · Sat, 24 Oct 2026
@@ -21,10 +21,9 @@ TAFKAMP is a techno and house artist based in Netherlands, with 91 gigs on sound
 - OHM, Berlin · Sat, 3 Oct 2026
 - Muovitehdas, Finland · Fri, 25 Sept 2026
 - Lofi, Amsterdam · Sat, 19 Sept 2026
-- BRET, Amsterdam · Sun, 19 Jul 2026
 
 ## Shares bills with
 
 Bastienne, Grace Dahl, Lobster (NL)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tafkamp/)*

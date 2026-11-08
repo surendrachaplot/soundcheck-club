@@ -1,6 +1,6 @@
 # Hunter (2)
 
-Hunter (2) is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
+Hunter (2) is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Turbina, Budapest on Sat, 14 Nov 2026.
 
 Hunter is a bass and trance artist based in Colombia, with 9 gigs on soundcheck across Amsterdam, Budapest, Christchurch and Seoul and 1 more. Often billed alongside Kühl, Lisun and Rich. Next up: Turbina, Budapest on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Hunter is a bass and trance artist based in Colombia, with 9 gigs on soundcheck 
 
 Kühl, Lisun, Rich
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunter-2/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/hunter-2/)*

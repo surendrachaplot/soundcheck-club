@@ -1,6 +1,6 @@
 # Kassita
 
-Kassita is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
+Kassita is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Abercrombie Hotel, Sydney on Fri, 20 Nov 2026.
 
 Kassita is a techno and house artist based in United Kingdom, with 30 gigs on soundcheck across Ibiza, London, Manchester and New York City and 2 more. Often billed alongside Zerdazi, Kurd Maverick and Nelson Reis. Next up: Abercrombie Hotel, Sydney on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Kassita is a techno and house artist based in United Kingdom, with 30 gigs on so
 
 Zerdazi, Kurd Maverick, Nelson Reis
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassita/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kassita/)*

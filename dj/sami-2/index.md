@@ -1,6 +1,6 @@
 # Sami (2)
 
-Sami (2) is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Panke, Berlin on Fri, 27 Nov 2026.
+Sami (2) is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Panke, Berlin on Fri, 27 Nov 2026.
 
 Sami is a bass and dubstep artist based in Palestine, with 17 gigs on soundcheck across Berlin and Warsaw. Often billed alongside Muqata'a, Yuko Asanuma and B4mba. Next up: Panke, Berlin on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Sami is a bass and dubstep artist based in Palestine, with 17 gigs on soundcheck
 
 Muqata'a, Yuko Asanuma, B4mba
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sami-2/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/sami-2/)*

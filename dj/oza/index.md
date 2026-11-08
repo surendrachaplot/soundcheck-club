@@ -1,6 +1,6 @@
 # OZA
 
-OZA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+OZA is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at The Concourse Project, Austin on Fri, 13 Nov 2026.
 
 OZA is a techno and trance artist based in United States of America, with 85 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: The Concourse Project, Austin on Fri 13 Nov.
 
@@ -28,4 +28,4 @@ OZA is a techno and trance artist based in United States of America, with 85 gig
 
 DJ Gigola, MCR-T, PALMA (US)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oza/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/oza/)*

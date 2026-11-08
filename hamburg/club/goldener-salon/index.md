@@ -1,6 +1,6 @@
 # Goldener Salon
 
-Goldener Salon is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Martha and Adi's Bday Bash: MAD (75 Years Of Madness)" on Fri, 13 Nov 2026.
+Goldener Salon is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Martha and Adi's Bday Bash: MAD (75 Years Of Madness)" on Fri, 13 Nov 2026.
 
 Goldener Salon is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including ANNAWAFFEL, Daisy Weweh, DJ KILLING and DSGNRPSSY and 2 more. See dates, start times and who's playing. Große Elbstraße 84, 22767 Hamburg.
 
@@ -15,4 +15,4 @@ Goldener Salon is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs
 
 Große Elbstraße 84, 22767 Hamburg, Hamburg
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/goldener-salon/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/goldener-salon/)*

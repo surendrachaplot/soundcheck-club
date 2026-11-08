@@ -1,6 +1,6 @@
 # Earthbender
 
-Earthbender is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Blank Site, Seoul on Sat, 21 Nov 2026.
+Earthbender is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Blank Site, Seoul on Sat, 21 Nov 2026.
 
 Earthbender is a club and bass artist, with 20 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Dieman, MAZE (KR) and dayoung. Next up: Blank Site, Seoul on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Earthbender is a club and bass artist, with 20 gigs on soundcheck across Bangkok
 
 Dieman, MAZE (KR), dayoung
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earthbender/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/earthbender/)*

@@ -1,6 +1,6 @@
 # Ander Race
 
-Ander Race is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Dusty Munky Bar, Cyprus on Fri, 20 Nov 2026.
+Ander Race is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Dusty Munky Bar, Cyprus on Fri, 20 Nov 2026.
 
 Ander Race is a house and afro house artist based in Spain, with 30 gigs on soundcheck across Amsterdam, Barcelona, Cyprus and London and 2 more. Often billed alongside Rick Offen, Awk and AN5 (SP). Next up: Dusty Munky Bar, Cyprus on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Ander Race is a house and afro house artist based in Spain, with 30 gigs on soun
 
 Rick Offen, Awk (2), AN5 (SP)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anderrace/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/anderrace/)*

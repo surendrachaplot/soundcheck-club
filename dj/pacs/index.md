@@ -1,13 +1,14 @@
 # PACS
 
-PACS is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA, Buenos Aires on Fri, 20 Nov 2026.
+PACS is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at D-EDGE, Sao Paulo on Sat, 14 Nov 2026.
 
-PACS is a techno and progressive house artist based in Brazil, with 10 gigs on soundcheck across Buenos Aires, Dubai, Ibiza and Mexico City and 2 more. Often billed alongside Doguez, Stephan Bodzin and 19:26. Next up: TBA, Buenos Aires on Fri 20 Nov.
+PACS is a techno and progressive house artist based in Brazil, with 11 gigs on soundcheck across Buenos Aires, Dubai, Ibiza and Mexico City and 3 more. Often billed alongside Doguez, Stephan Bodzin and 19:26. Next up: D-EDGE, Sao Paulo on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | D-EDGE | Sao Paulo |
 | Fri, 20 Nov 2026 | TBA | Buenos Aires |
 
 ## Recently played
@@ -25,4 +26,4 @@ PACS is a techno and progressive house artist based in Brazil, with 10 gigs on s
 
 Doguez, Stephan Bodzin, 19:26
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacs/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pacs/)*

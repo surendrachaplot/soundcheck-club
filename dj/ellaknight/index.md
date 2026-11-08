@@ -1,6 +1,6 @@
 # Ella Knight
 
-Ella Knight is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Village Underground, London on Sat, 28 Nov 2026.
+Ella Knight is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Village Underground, London on Sat, 28 Nov 2026.
 
 Ella Knight is a house and disco artist based in United Kingdom, with 122 gigs on soundcheck across Amsterdam, Austria, Barcelona and Berlin and 18 more. Often billed alongside Dan Shake, Scarlett O'Malley and Kirollus. Next up: Village Underground, London on Sat 28 Nov.
 
@@ -28,4 +28,4 @@ Ella Knight is a house and disco artist based in United Kingdom, with 122 gigs o
 
 Dan Shake, Scarlett O'Malley, Kirollus
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaknight/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ellaknight/)*

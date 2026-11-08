@@ -1,6 +1,6 @@
 # Ko Kimura
 
-Ko Kimura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
+Ko Kimura is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at or, Tokyo on Mon, 23 Nov 2026.
 
 Ko Kimura is a techno and house artist based in Japan, with 33 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KIMURA, DJ Emma and Q'hey. Next up: or, Tokyo on Mon 23 Nov.
 
@@ -27,4 +27,4 @@ Ko Kimura is a techno and house artist based in Japan, with 33 gigs on soundchec
 
 KIMURA, DJ Emma, Q'hey
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kokimura/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kokimura/)*

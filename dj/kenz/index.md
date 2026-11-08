@@ -1,6 +1,6 @@
 # KENZ
 
-KENZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 12 Dec 2026.
+KENZ is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Uebel & Gefährlich, Hamburg on Sat, 12 Dec 2026.
 
 KENZ is a techno and trance artist based in Germany, with 40 gigs on soundcheck across Glasgow and Hamburg. Often billed alongside SKKIN VELVET, Nina Hepburn and MKHXR. Next up: Uebel & Gefährlich, Hamburg on Sat 12 Dec.
 
@@ -25,4 +25,4 @@ KENZ is a techno and trance artist based in Germany, with 40 gigs on soundcheck 
 
 SKKIN VELVET, Nina Hepburn, MKHXR
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kenz/)*

@@ -1,6 +1,6 @@
 # Nico Morano
 
-Nico Morano is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Hive Club, Zurich on Fri, 20 Nov 2026.
+Nico Morano is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Hive Club, Zurich on Fri, 20 Nov 2026.
 
 Nico Morano is a house and techno artist based in Belgium, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside EMJIE, Bibi Seck and NTO. Next up: Hive Club, Zurich on Fri 20 Nov.
 
@@ -26,4 +26,4 @@ Nico Morano is a house and techno artist based in Belgium, with 74 gigs on sound
 
 EMJIE, Bibi Seck, NTO
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nicomorano/)*

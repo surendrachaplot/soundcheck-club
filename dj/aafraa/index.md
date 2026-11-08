@@ -1,6 +1,6 @@
 # AAfrAA
 
-AAfrAA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 25 Dec 2026.
+AAfrAA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at LAB theCLUB, Madrid on Fri, 25 Dec 2026.
 
 AAfrAA is a house and tech house artist based in Spain, with 11 gigs on soundcheck across Madrid, Malaga and Mallorca. Often billed alongside Nic Vesperi, Claptone and Crusy. Next up: LAB theCLUB, Madrid on Fri 25 Dec.
 
@@ -25,4 +25,4 @@ AAfrAA is a house and tech house artist based in Spain, with 11 gigs on soundche
 
 Nic Vesperi, Claptone, Crusy
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aafraa/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aafraa/)*

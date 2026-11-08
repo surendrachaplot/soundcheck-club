@@ -1,6 +1,6 @@
 # OMAR  C
 
-OMAR  C is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+OMAR  C is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 OMAR  C is a minimal and house artist based in Tunisia, with 6 gigs on soundcheck across Barcelona, Istanbul, Madrid and Paris and 2 more. Often billed alongside Atef, Omar Khe and Adema. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ OMAR  C is a minimal and house artist based in Tunisia, with 6 gigs on soundchec
 
 Atef, Omar Khe, Adema
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarc/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarc/)*

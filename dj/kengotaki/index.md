@@ -1,14 +1,13 @@
 # kengotaki
 
-kengotaki is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Circus Osaka, Osaka on Sat, 7 Nov 2026.
+kengotaki is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Mitsuki, Tokyo on Wed, 11 Nov 2026.
 
-kengotaki is a house and techno artist based in Japan, with 181 gigs on soundcheck across Kyushu, Okinawa, Osaka and Sydney and 1 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Circus Osaka, Osaka on Sat 7 Nov.
+kengotaki is a house and techno artist based in Japan, with 181 gigs on soundcheck across Kyushu, Okinawa, Osaka and Sydney and 1 more. Often billed alongside r1ku, SAMO (JP) and YUVIE. Next up: Mitsuki, Tokyo on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Circus Osaka | Osaka |
 | Wed, 11 Nov 2026 | Mitsuki | Tokyo |
 | Fri, 20 Nov 2026 | Kieth Flack | Kyushu |
 | Thu, 3 Dec 2026 | Circus Osaka | Osaka |
@@ -16,6 +15,7 @@ kengotaki is a house and techno artist based in Japan, with 181 gigs on soundche
 
 ## Recently played
 
+- Circus Osaka, Osaka · Sat, 7 Nov 2026
 - 不眠遊戯ライオン - Music Bar Lion, Tokyo · Fri, 6 Nov 2026
 - Little Rockers, Okinawa · Thu, 5 Nov 2026
 - Saloon, Tokyo · Mon, 2 Nov 2026
@@ -23,10 +23,9 @@ kengotaki is a house and techno artist based in Japan, with 181 gigs on soundche
 - Enter Shibuya, Tokyo · Sat, 31 Oct 2026
 - Circus Tokyo, Tokyo · Sat, 24 Oct 2026
 - National Art School, Sydney · Sun, 18 Oct 2026
-- club asia, Tokyo · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 r1ku, SAMO (JP), YUVIE
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kengotaki/)*

@@ -1,18 +1,17 @@
 # Charlies Loft
 
-Charlies Loft is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Electric Dreams" on Sat, 7 Nov 2026.
+Charlies Loft is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Beardyman plus support" on Fri, 20 Nov 2026.
 
-Charlies Loft is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including Beardyman. See dates, start times and who's playing. 14 Stewart St, Milngavie, Glasgow G62 6BY.
+Charlies Loft is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including Beardyman. See dates, start times and who's playing. 14 Stewart St, Milngavie, Glasgow G62 6BY.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Electric Dreams |  |
 | Fri, 20 Nov 2026 | Beardyman plus support | Beardyman |
 
 ## Address
 
 14 Stewart St, Milngavie, Glasgow G62 6BY, Glasgow
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/charlies-loft/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/charlies-loft/)*

@@ -1,6 +1,6 @@
 # Litney
 
-Litney is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Twisted Element, Calgary on Sat, 28 Nov 2026.
+Litney is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Twisted Element, Calgary on Sat, 28 Nov 2026.
 
 Litney is a club and baile funk artist based in Canada, with 93 gigs on soundcheck across Berlin, Calgary, Chicago and Houston and 7 more. Often billed alongside Ard1n, HVN and myst milano.. Next up: Twisted Element, Calgary on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Litney is a club and baile funk artist based in Canada, with 93 gigs on soundche
 
 Ard1n, HVN (1), myst milano.
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/litney/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/litney/)*

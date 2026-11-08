@@ -1,6 +1,6 @@
 # Venus X
 
-Venus X is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Venus X is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Venus X is a club and techno artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Berlin, Detroit and Frankfurt and 6 more. Often billed alongside EDEN BEKELE, 7ieben.Leben and A-Trak. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Venus X is a club and techno artist based in United States of America, with 20 g
 
 EDEN BEKELE, 7ieben.Leben, A-Trak
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venusx/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/venusx/)*

@@ -1,14 +1,13 @@
 # essaim
 
-essaim is a music venue in Paris with 21 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Nicolas Lutz - all night long" on Sat, 7 Nov 2026.
+essaim is a music venue in Paris with 20 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "extended - Aleqs Notal, Octo Octa, Sweely" on Sun, 8 Nov 2026.
 
-essaim is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with line-ups including abs8lute, Aleqs Notal, amin/a and Anetha and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+essaim is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with line-ups including abs8lute, Aleqs Notal, amin/a and Anetha and 2 more. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Nicolas Lutz - all night long | Nicolas Lutz |
 | Sun, 8 Nov 2026 | extended - Aleqs Notal, Octo Octa, Sweely | Aleqs Notal, Octo Octa, Sweely |
 | Tue, 10 Nov 2026 | KUSS & Sicion - all night long | KUSS, Sicion |
 | Thu, 12 Nov 2026 | RA25: Paris : Joe Claussell b2b Ron Trent - Open to close | Joe Claussell, Ron Trent |
@@ -18,9 +17,10 @@ essaim is a music venue in Paris listed on soundcheck. 21 upcoming gigs, with li
 | Fri, 20 Nov 2026 | tribalism - Cleric, CVNSUMED b2b Ey.rah | CVNSUMED, Cleric, Ey.rah |
 | Sat, 21 Nov 2026 | reshape - Skee Mask b2b Vlada - all night long | Skee Mask, Vlada |
 | Sun, 22 Nov 2026 | extended - Evan Baggs & Ryan Elliott | Evan Baggs, Ryan Elliott |
+| Fri, 27 Nov 2026 | tribalism - Orphx Live, Tommy Four Seven, TSIEG | Orphx, Tommy Four Seven |
 
 ## Address
 
 14 Rue Philippe de Girard, 75010 Paris, Paris
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/paris/club/essaim/)*

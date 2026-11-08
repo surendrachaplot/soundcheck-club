@@ -1,6 +1,6 @@
 # Saraga
 
-Saraga is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
+Saraga is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Romaero - Baneasa, Bucharest on Sat, 21 Nov 2026.
 
 Saraga is a house and tech house artist, with 82 gigs on soundcheck across Amsterdam, Barcelona, Bucharest and Ibiza and 17 more. Often billed alongside Guy Gerber, Bedouin and Ramyen. Next up: Romaero - Baneasa, Bucharest on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Saraga is a house and tech house artist, with 82 gigs on soundcheck across Amste
 
 Guy Gerber, Bedouin, Ramyen
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/saraga/)*

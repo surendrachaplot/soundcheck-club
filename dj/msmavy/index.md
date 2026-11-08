@@ -1,6 +1,6 @@
 # Ms Mavy
 
-Ms Mavy is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Fri, 20 Nov 2026.
+Ms Mavy is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Fri, 20 Nov 2026.
 
 Ms Mavy is an amapiano and afro house artist based in Belgium, with 6 gigs on soundcheck across Brussels, New York City and Washington DC. Often billed alongside Blck Mamba, Caire and RICHTANNER. Next up: AB Club (Ancienne Belgique), Brussels on Fri 20 Nov.
 
@@ -22,4 +22,4 @@ Ms Mavy is an amapiano and afro house artist based in Belgium, with 6 gigs on so
 
 Blck Mamba, Caire, RICHTANNER
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/msmavy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/msmavy/)*

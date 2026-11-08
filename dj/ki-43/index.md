@@ -1,6 +1,6 @@
 # ki (43)
 
-ki (43) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at R Lounge, Tokyo on Fri, 13 Nov 2026.
+ki (43) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at R Lounge, Tokyo on Fri, 13 Nov 2026.
 
 ki is a techno and house artist based in Japan, with 22 gigs on soundcheck across Barcelona and Tokyo. Often billed alongside SIGNAL (JP), MOTOKA and TECSTONE. Next up: R Lounge, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ ki is a techno and house artist based in Japan, with 22 gigs on soundcheck acros
 
 SIGNAL (JP), MOTOKA, TECSTONE
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-43/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ki-43/)*

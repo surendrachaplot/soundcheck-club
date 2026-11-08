@@ -1,6 +1,6 @@
 # The Sonder Bar
 
-The Sonder Bar is a music venue in Portland with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "GROW Sunday / Mercedes / Drew Cornwall / Nathan Paul Rice / C33.Soul / Seb Chevrel" on Sun, 8 Nov 2026.
+The Sonder Bar is a music venue in Portland with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "GROW Sunday / Mercedes / Drew Cornwall / Nathan Paul Rice / C33.Soul / Seb Chevrel" on Sun, 8 Nov 2026.
 
 The Sonder Bar is a music venue in Portland listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 1925 NE 42nd Ave, Portland, OR 97213.
 
@@ -17,4 +17,4 @@ The Sonder Bar is a music venue in Portland listed on soundcheck. 4 upcoming gig
 
 1925 NE 42nd Ave, Portland, OR 97213, Portland
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-sonder-bar/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-sonder-bar/)*

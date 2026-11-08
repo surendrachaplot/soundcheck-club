@@ -1,6 +1,6 @@
 # Benny Benacid
 
-Benny Benacid is a Progressive House and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at 42 Marches, Paris on Sat, 21 Nov 2026.
+Benny Benacid is a Progressive House and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at 42 Marches, Paris on Sat, 21 Nov 2026.
 
 Benny Benacid is a progressive house and bass artist based in France, with 5 gigs on soundcheck across Paris. Often billed alongside ANKA, Aiden Francis and Bérou. Next up: 42 Marches, Paris on Sat 21 Nov.
 
@@ -21,4 +21,4 @@ Benny Benacid is a progressive house and bass artist based in France, with 5 gig
 
 ANKA (4), Aiden Francis, Bérou
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenacid/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenacid/)*

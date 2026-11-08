@@ -1,8 +1,8 @@
 # Buday
 
-Buday is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
+Buday is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Brown Alley, Melbourne on Sun, 1 Nov 2026.
 
-Buday is a techno and house artist based in France, with 20 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brussels and 3 more. Often billed alongside Mar/us, Cristian Marras and BOYCA. Next up: Brown Alley, Melbourne on Sun 1 Nov.
+Buday is a techno and house artist based in France, with 21 gigs on soundcheck across Amsterdam, Berlin, Bratislava and Brussels and 4 more. Often billed alongside Mar/us, Cristian Marras and BOYCA. Next up: Brown Alley, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Buday is a techno and house artist based in France, with 20 gigs on soundcheck a
 
 ## Recently played
 
+- The Jackhammer Chicago, Chicago · Fri, 6 Nov 2026
 - UBQ, Melbourne · Tue, 3 Nov 2026
 - Brown Alley, Melbourne · Sun, 1 Nov 2026
 - Barrio Cafe, Brussels · Sat, 17 Oct 2026
@@ -22,10 +23,9 @@ Buday is a techno and house artist based in France, with 20 gigs on soundcheck a
 - KREUZWERK, Berlin · Fri, 25 Sept 2026
 - KitKatClub, Berlin · Fri, 11 Sept 2026
 - ://about blank, Berlin · Fri, 21 Aug 2026
-- KitKatClub, Berlin · Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Mar/us, Cristian Marras, BOYCA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/buday-fr/)*

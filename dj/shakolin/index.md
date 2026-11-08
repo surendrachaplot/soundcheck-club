@@ -1,13 +1,14 @@
 # Shakolin
 
-Shakolin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fünk, Mexico City on Thu, 19 Nov 2026.
+Shakolin is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA, Mexico City on Sat, 14 Nov 2026.
 
-Shakolin is a house and techno artist based in Ukraine, with 120 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 34 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: Fünk, Mexico City on Thu 19 Nov.
+Shakolin is a house and techno artist based in Ukraine, with 121 gigs on soundcheck across Adelaide, Amsterdam, Atlanta and Austin and 34 more. Often billed alongside Karine, Timur Basha and Noizar. Next up: TBA, Mexico City on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | TBA | Mexico City |
 | Thu, 19 Nov 2026 | Fünk | Mexico City |
 | Fri, 27 Nov 2026 | UMI | Brussels |
 | Fri, 11 Dec 2026 | gallery 1986 | Vilnius |
@@ -28,4 +29,4 @@ Shakolin is a house and techno artist based in Ukraine, with 120 gigs on soundch
 
 Karine, Timur Basha, Noizar
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shakolin/)*

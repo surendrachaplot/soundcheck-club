@@ -1,6 +1,6 @@
 # Wheats
 
-Wheats is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sub Club, Glasgow on Thu, 12 Nov 2026.
+Wheats is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sub Club, Glasgow on Thu, 12 Nov 2026.
 
 Wheats is a tech house and house artist based in United Kingdom, with 135 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 28 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: Sub Club, Glasgow on Thu 12 Nov.
 
@@ -29,4 +29,4 @@ Wheats is a tech house and house artist based in United Kingdom, with 135 gigs o
 
 ALISHA, East End Dubs, wAFF
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wheats/)*

@@ -1,6 +1,6 @@
 # Ferry Corsten
 
-Ferry Corsten is a Trance and Progressive House artist with 6 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
+Ferry Corsten is a Trance and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Butlin's Skegness Resort, Midlands on Fri, 6 Nov 2026.
 
 Ferry Corsten is a trance and progressive house artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Austin, Brisbane and Bristol and 31 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: Butlin's Skegness Resort, Midlands on Fri 6 Nov.
 
@@ -9,7 +9,6 @@ Ferry Corsten is a trance and progressive house artist based in Netherlands, wit
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
-| Sat, 7 Nov 2026 | Industrie Bännli | Switzerland |
 | Sat, 14 Nov 2026 | DRUMSHEDS | London |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Fri, 18 Dec 2026 | The Concourse Project | Austin |
@@ -17,6 +16,7 @@ Ferry Corsten is a trance and progressive house artist based in Netherlands, wit
 
 ## Recently played
 
+- Industrie Bännli, Switzerland · Sat, 7 Nov 2026
 - Butlin's Skegness Resort, Midlands · Fri, 6 Nov 2026
 - 50:Hertz Club Train, Amsterdam · Sun, 25 Oct 2026
 - Escape, Amsterdam · Fri, 23 Oct 2026
@@ -24,10 +24,9 @@ Ferry Corsten is a trance and progressive house artist based in Netherlands, wit
 - ZEROTOKYO, Tokyo · Sun, 11 Oct 2026
 - Amnesia Ibiza, Ibiza · Sat, 26 Sept 2026
 - 02 Victoria Warehouse, Manchester · Sat, 26 Sept 2026
-- Avalon Hollywood, Los Angeles · Sat, 15 Aug 2026
 
 ## Shares bills with
 
 Amy Wiles, Billy Gillies, Aly & Fila
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*

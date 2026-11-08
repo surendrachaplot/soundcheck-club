@@ -1,6 +1,6 @@
 # Elena Bi
 
-Elena Bi is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Prince Charles, Berlin on Sat, 21 Nov 2026.
+Elena Bi is a House and Ambient artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Prince Charles, Berlin on Sat, 21 Nov 2026.
 
 Elena Bi is a house and ambient artist based in Ecuador, with 11 gigs on soundcheck across Berlin. Often billed alongside ISA (ES), nadia (npc) and AYURI. Next up: Prince Charles, Berlin on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Elena Bi is a house and ambient artist based in Ecuador, with 11 gigs on soundch
 
 ISA (ES), nadia (npc), AYURI
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/elenabi/)*

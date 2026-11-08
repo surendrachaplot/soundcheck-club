@@ -1,8 +1,8 @@
 # Dolly Rockers
 
-Dolly Rockers is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The Steel Yard, London on Thu, 31 Dec 2026.
+Dolly Rockers is a House and UK Funky artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Steel Yard, London on Thu, 31 Dec 2026.
 
-Dolly Rockers is a house and uk funky artist, with 11 gigs on soundcheck across Ibiza and London. Often billed alongside Dean Lambert, Tenacious and Ratpack. Next up: The Steel Yard, London on Thu 31 Dec.
+Dolly Rockers is a house and uk funky artist based in United Kingdom, with 11 gigs on soundcheck across Ibiza and London. Often billed alongside Dean Lambert, Tenacious and Ratpack. Next up: The Steel Yard, London on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Dolly Rockers is a house and uk funky artist, with 11 gigs on soundcheck across 
 
 Dean Lambert, Tenacious, Ratpack
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dollyrockers/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dollyrockers/)*

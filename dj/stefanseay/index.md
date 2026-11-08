@@ -1,6 +1,6 @@
 # Stefan Seay
 
-Stefan Seay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 7 Nov 2026.
+Stefan Seay is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - DTLA, Los Angeles on Sat, 7 Nov 2026.
 
 Stefan Seay is a house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Los Angeles. Often billed alongside Michael Fam, A.S.S and AGILY. Next up: TBA - DTLA, Los Angeles on Sat 7 Nov.
 
@@ -12,6 +12,7 @@ Stefan Seay is a house and techno artist based in Germany, with 11 gigs on sound
 
 ## Recently played
 
+- TBA - DTLA, Los Angeles · Sat, 7 Nov 2026
 - YSY, Berlin · Thu, 10 Sept 2026
 - Gestrandet An Der Jannowitzbrücke, Berlin · Fri, 21 Aug 2026
 - OXI, Berlin · Sun, 28 Jun 2026
@@ -19,10 +20,9 @@ Stefan Seay is a house and techno artist based in Germany, with 11 gigs on sound
 - Atlantik bar, Berlin · Sat, 24 Jan 2026
 - TBA - Secret Location, Berlin · Fri, 8 Aug 2025
 - Marla Records, Berlin · Sun, 23 Mar 2025
-- Crack Bellmer, Berlin · Thu, 22 Aug 2024
 
 ## Shares bills with
 
 Michael Fam, A.S.S, AGILY
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanseay/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/stefanseay/)*

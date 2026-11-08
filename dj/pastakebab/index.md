@@ -1,6 +1,6 @@
 # Pasta Kebab
 
-Pasta Kebab is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Sauna Social Club, London on Fri, 13 Nov 2026.
+Pasta Kebab is a Dub and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sauna Social Club, London on Fri, 13 Nov 2026.
 
 Pasta Kebab is a dub and bass artist based in United Kingdom, with 18 gigs on soundcheck across Bristol and London. Often billed alongside Alicia (UK), Allecto and Bluetoof. Next up: Sauna Social Club, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Pasta Kebab is a dub and bass artist based in United Kingdom, with 18 gigs on so
 
 Alicia (UK), Allecto, Bluetoof
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastakebab/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pastakebab/)*

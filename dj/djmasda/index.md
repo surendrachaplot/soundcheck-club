@@ -1,14 +1,13 @@
 # DJ Masda
 
-DJ Masda is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 7 Nov 2026.
+DJ Masda is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at SWG3, Glasgow on Fri, 13 Nov 2026.
 
-DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 61 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: Seaseaclub Barcelona, Barcelona on Sat 7 Nov.
+DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 61 more. Often billed alongside Binh, Nicolas Lutz and Craig Richards. Next up: SWG3, Glasgow on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
 | Fri, 13 Nov 2026 | SWG3 | Glasgow |
@@ -20,9 +19,11 @@ DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundchec
 | Fri, 11 Dec 2026 | Club Metro | Kyoto |
 | Thu, 31 Dec 2026 | Home of Plenty | South-australia |
 | Fri, 16 Apr 2027 | Higashi Izu Cross Country Course | Chubu |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 
+- Seaseaclub Barcelona, Barcelona · Sat, 7 Nov 2026
 - Studionotte, Milan · Fri, 6 Nov 2026
 - Platforma Wolff, Bucharest · Fri, 30 Oct 2026
 - Skatecafe, Amsterdam · Sun, 25 Oct 2026
@@ -30,10 +31,9 @@ DJ Masda is a techno and house artist based in Japan, with 235 gigs on soundchec
 - OXI, Berlin · Fri, 23 Oct 2026
 - fabric, London · Sat, 17 Oct 2026
 - Pérola Negra Club, Porto · Sat, 17 Oct 2026
-- essaim, Paris · Sat, 10 Oct 2026
 
 ## Shares bills with
 
 Binh, Nicolas Lutz, Craig Richards
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djmasda/)*

@@ -1,18 +1,18 @@
 # Mystic Bill
 
-Mystic Bill is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Morgan MFG., Chicago on Sat, 7 Nov 2026.
+Mystic Bill is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
 
-Mystic Bill is a house and disco artist based in United States of America, with 52 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Danny Daze, Terence Tabeau and Sister System. Next up: Morgan MFG., Chicago on Sat 7 Nov.
+Mystic Bill is a house and disco artist based in United States of America, with 52 gigs on soundcheck across Austin, Chicago, Detroit and Los Angeles and 8 more. Often billed alongside Danny Daze, Terence Tabeau and Sister System. Next up: The Pickle, Miami on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Morgan MFG. | Chicago |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
+- Morgan MFG., Chicago · Sat, 7 Nov 2026
 - Mana Wynwood, Miami · Fri, 16 Oct 2026
 - Dead Letter No. 9, New York City · Fri, 9 Oct 2026
 - Sunday Sunday, Mexico City · Sun, 30 Aug 2026
@@ -20,10 +20,9 @@ Mystic Bill is a house and disco artist based in United States of America, with 
 - TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle · Sat, 18 Jul 2026
 - Yerba Buena Estudios, San Francisco/Oakland · Fri, 17 Jul 2026
 - Bar Mezzo, Tampa Bay · Sat, 27 Jun 2026
-- MAD Club Live, Miami · Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Danny Daze, Terence Tabeau, Sister System
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mysticbill/)*

@@ -1,6 +1,6 @@
 # OLHA
 
-OLHA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 26 Dec 2026.
+OLHA is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at RSO.BERLIN, Berlin on Sat, 26 Dec 2026.
 
 OLHA is a techno and trance artist based in Ukraine, with 58 gigs on soundcheck across Amsterdam, Antwerp, Beijing and Berlin and 13 more. Often billed alongside SOCIAL VLAD, Matriark and Ellen Allien. Next up: RSO.BERLIN, Berlin on Sat 26 Dec.
 
@@ -25,4 +25,4 @@ OLHA is a techno and trance artist based in Ukraine, with 58 gigs on soundcheck 
 
 SOCIAL VLAD, Matriark, Ellen Allien
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olha/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/olha/)*

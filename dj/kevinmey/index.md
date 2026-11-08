@@ -1,6 +1,6 @@
 # Kevin Mey
 
-Kevin Mey is a electronic artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Golden Gate, Berlin on Thu, 26 Nov 2026.
+Kevin Mey is a electronic artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Golden Gate, Berlin on Thu, 26 Nov 2026.
 
 Kevin Mey is an electronic artist based in Luxembourg, with 7 gigs on soundcheck across Berlin and Cologne. Often billed alongside Alex New, André Galluzzi and Christian Burkhardt. Next up: Golden Gate, Berlin on Thu 26 Nov.
 
@@ -23,4 +23,4 @@ Kevin Mey is an electronic artist based in Luxembourg, with 7 gigs on soundcheck
 
 Alex New, André Galluzzi, Christian Burkhardt
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinmey/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kevinmey/)*

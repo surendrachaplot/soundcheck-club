@@ -1,6 +1,6 @@
 # Pangölin
 
-Pangölin is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
+Pangölin is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at renae, Manchester on Fri, 27 Nov 2026.
 
 Pangölin is a progressive house and house artist based in United Kingdom, with 16 gigs on soundcheck across Manchester. Often billed alongside WeeDot, Róisín W and The Brokers. Next up: renae, Manchester on Fri 27 Nov.
 
@@ -26,4 +26,4 @@ Pangölin is a progressive house and house artist based in United Kingdom, with 
 
 WeeDot, Róisín W, The Brokers
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pangolin/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/pangolin/)*

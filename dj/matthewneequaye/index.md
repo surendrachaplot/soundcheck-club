@@ -1,6 +1,6 @@
 # Matthew Neequaye
 
-Matthew Neequaye is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 20 Nov 2026.
+Matthew Neequaye is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 20 Nov 2026.
 
 Matthew Neequaye is a house and techno artist, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 15 more. Often billed alongside Shanti Celeste, Mari.te and Sugar Free. Next up: SISSI'S Amsterdam, Amsterdam on Fri 20 Nov.
 
@@ -27,4 +27,4 @@ Matthew Neequaye is a house and techno artist, with 57 gigs on soundcheck across
 
 Shanti Celeste, Mari.te, Sugar Free
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/matthewneequaye/)*

@@ -1,6 +1,6 @@
 # KOZLOW
 
-KOZLOW is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Open Air Club, New York City on Fri, 20 Nov 2026.
+KOZLOW is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Open Air Club, New York City on Fri, 20 Nov 2026.
 
 KOZLOW is a house and deep house artist based in United States of America, with 22 gigs on soundcheck across London, Mexico City and New York City. Often billed alongside Tolga, Orson and Orson.NYC. Next up: Open Air Club, New York City on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ KOZLOW is a house and deep house artist based in United States of America, with 
 
 Tolga, Orson (2), Orson.NYC
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlow/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kozlow/)*

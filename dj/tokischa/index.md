@@ -1,6 +1,6 @@
 # Tokischa
 
-Tokischa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
+Tokischa is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu, 17 Jun 2027.
 
 Tokischa is a house and electronica artist based in Dominican Republic, with 14 gigs on soundcheck across Barcelona, Berlin, London and Los Angeles and 6 more. Often billed alongside Jyoty, Charlotte de Witte and Confidence Man. Next up: TBA - Barcelona (Sónar by Day) & Fira Gran Via (Sónar by Night), Barcelona on Thu 17 Jun.
 
@@ -25,4 +25,4 @@ Tokischa is a house and electronica artist based in Dominican Republic, with 14 
 
 Jyoty, Charlotte de Witte, Confidence Man
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tokischa/)*

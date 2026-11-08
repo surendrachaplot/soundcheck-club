@@ -1,6 +1,6 @@
 # Panik Attak
 
-Panik Attak is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Rock Cafè, North on Sun, 8 Nov 2026.
+Panik Attak is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Rock Cafè, North on Sun, 8 Nov 2026.
 
 Panik Attak is a techno and electro artist based in United Kingdom, with 7 gigs on soundcheck across Bratislava, London, Milan and North. Often billed alongside Bleim01, Mattia Fois and ANTØNIØ.. Next up: Rock Cafè, North on Sun 8 Nov.
 
@@ -23,4 +23,4 @@ Panik Attak is a techno and electro artist based in United Kingdom, with 7 gigs 
 
 Bleim01, Mattia Fois, ANTØNIØ.
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panikattak/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/panikattak/)*

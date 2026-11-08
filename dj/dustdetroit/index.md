@@ -1,6 +1,6 @@
 # dust (Detroit)
 
-dust (Detroit) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
+dust (Detroit) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Obedient Missionary, Detroit on Fri, 13 Nov 2026.
 
 dust (Detroit) is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Detroit. Often billed alongside Alex Pan (Det), britty. and Lo Dazz. Next up: TBA - Obedient Missionary, Detroit on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ dust (Detroit) is a house and techno artist based in United States of America, w
 
 Alex Pan (Det), britty., Lo Dazz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustdetroit/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dustdetroit/)*

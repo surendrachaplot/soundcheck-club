@@ -1,6 +1,6 @@
 # FITNESSS (2)
 
-FITNESSS (2) is a Experimental and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Silent Green, Berlin on Sat, 23 Jan 2027.
+FITNESSS (2) is a Experimental and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Silent Green, Berlin on Sat, 23 Jan 2027.
 
 FITNESSS is an experimental and reggaeton artist based in United States of America, with 13 gigs on soundcheck across Atlanta, Berlin, Denver and Los Angeles and 4 more. Often billed alongside Kevin Peter He, moth.sanctuary and Authentically Plastic. Next up: Silent Green, Berlin on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ FITNESSS is an experimental and reggaeton artist based in United States of Ameri
 
 Kevin Peter He, moth.sanctuary, Authentically Plastic
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fitnesss-2/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fitnesss-2/)*

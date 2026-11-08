@@ -1,6 +1,6 @@
 # Ron Mercy
 
-Ron Mercy is a Breakbeat and Footwork artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Urban Drinkery, Florida on Sun, 8 Nov 2026.
+Ron Mercy is a Breakbeat and Footwork artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Urban Drinkery, Florida on Sun, 8 Nov 2026.
 
 Ron Mercy is a breakbeat and footwork artist based in United States of America, with 6 gigs on soundcheck across Chicago, Florida, Miami and Tampa Bay. Often billed alongside //DLM, Bell Curve and Bonita Applebumz. Next up: Urban Drinkery, Florida on Sun 8 Nov.
 
@@ -22,4 +22,4 @@ Ron Mercy is a breakbeat and footwork artist based in United States of America, 
 
 //DLM, Bell Curve, Bonita Applebumz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmercy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ronmercy/)*

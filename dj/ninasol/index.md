@@ -1,6 +1,6 @@
 # nina sol
 
-nina sol is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - ZANZI, 19 Grand Ave Oakland, San Francisco/Oakland on Sat, 21 Nov 2026.
+nina sol is a Deep House and Afro House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - ZANZI, 19 Grand Ave Oakland, San Francisco/Oakland on Sat, 21 Nov 2026.
 
 nina sol is a deep house and afro house artist based in United States of America, with 72 gigs on soundcheck across Los Angeles, Mexico City, New York City and San Francisco/Oakland and 2 more. Often billed alongside Patrick Wilson, David Harness and Charles Hawthorne. Next up: TBA - ZANZI, 19 Grand Ave Oakland, San Francisco/Oakland on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ nina sol is a deep house and afro house artist based in United States of America
 
 Patrick Wilson, David Harness, Charles Hawthorne
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninasol/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ninasol/)*

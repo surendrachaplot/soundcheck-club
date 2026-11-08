@@ -1,18 +1,18 @@
 # Sven K
 
-Sven K is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Analog Brewing, Alberta on Sat, 7 Nov 2026.
+Sven K is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Skunkworks, Calgary on Fri, 13 Nov 2026.
 
-Sven K is an experimental and techno artist based in Canada, with 6 gigs on soundcheck across Alberta, Calgary and Toronto. Often billed alongside Mildew, NEVIK and Text Chunk. Next up: Analog Brewing, Alberta on Sat 7 Nov.
+Sven K is an experimental and techno artist based in Canada, with 6 gigs on soundcheck across Alberta, Calgary and Toronto. Often billed alongside Mildew, NEVIK and Text Chunk. Next up: Skunkworks, Calgary on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Analog Brewing | Alberta |
 | Fri, 13 Nov 2026 | Skunkworks | Calgary |
 
 ## Recently played
 
+- Analog Brewing, Alberta · Sat, 7 Nov 2026
 - Skunkworks, Calgary · Fri, 28 Aug 2026
 - Loophole Coffee Bar, Calgary · Sat, 23 Nov 2024
 - Juice, Toronto · Sat, 17 Aug 2024
@@ -22,4 +22,4 @@ Sven K is an experimental and techno artist based in Canada, with 6 gigs on soun
 
 Mildew, NEVIK, Text Chunk
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/svenk/)*

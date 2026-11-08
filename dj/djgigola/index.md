@@ -1,14 +1,13 @@
 # DJ Gigola
 
-DJ Gigola is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sektor 6D, Warsaw on Sat, 7 Nov 2026.
+DJ Gigola is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Coliseo Medplus, Bogot on Fri, 4 Dec 2026.
 
-DJ Gigola is a techno and house artist based in Germany, with 282 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 78 more. Often billed alongside MCR-T, Anetha and KI/KI. Next up: Sektor 6D, Warsaw on Sat 7 Nov.
+DJ Gigola is a techno and house artist based in Germany, with 282 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 78 more. Often billed alongside MCR-T, Anetha and KI/KI. Next up: Coliseo Medplus, Bogot on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Sektor 6D | Warsaw |
 | Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 | Fri, 18 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
@@ -16,6 +15,7 @@ DJ Gigola is a techno and house artist based in Germany, with 282 gigs on soundc
 
 ## Recently played
 
+- Sektor 6D, Warsaw · Sat, 7 Nov 2026
 - Depot Mayfield, Manchester · Fri, 6 Nov 2026
 - Sugarfactory, Amsterdam · Sun, 25 Oct 2026
 - RAWFACTORY, Amsterdam · Sat, 24 Oct 2026
@@ -23,10 +23,9 @@ DJ Gigola is a techno and house artist based in Germany, with 282 gigs on soundc
 - Parc des Expositions de Bordeaux lac, Bordeaux · Fri, 16 Oct 2026
 - FVTVR, Paris · Sat, 3 Oct 2026
 - Depot Mayfield, Manchester · Sat, 26 Sept 2026
-- Brooklyn Army Terminal, New York City · Sun, 13 Sept 2026
 
 ## Shares bills with
 
 MCR-T, Anetha, KI/KI
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djgigola/)*

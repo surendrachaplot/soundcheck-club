@@ -1,6 +1,6 @@
 # Aunty Nora
 
-Aunty Nora is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
+Aunty Nora is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at KREUZWERK, Berlin on Sat, 5 Dec 2026.
 
 Aunty Nora is a techno and house artist based in New Zealand, with 16 gigs on soundcheck across Berlin, London and Sydney. Often billed alongside Lixi, Sub Sahara and Ojos de miel. Next up: KREUZWERK, Berlin on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Aunty Nora is a techno and house artist based in New Zealand, with 16 gigs on so
 
 Lixi, Sub Sahara, Ojos de miel
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auntynora/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/auntynora/)*

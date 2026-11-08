@@ -1,15 +1,13 @@
 # Erick E
 
-Erick E is a House and Acid artist with 11 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+Erick E is a House and Acid artist with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Warehouse Elementenstraat, Amsterdam on Sat, 14 Nov 2026.
 
-Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
+Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Netherlands, Nijmegen and Rotterdam and 2 more. Often billed alongside ROOG, Alexander Koning and Lucien Foort. Next up: Warehouse Elementenstraat, Amsterdam on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Thuishaven | Amsterdam |
-| Sat, 7 Nov 2026 | Mezz | Netherlands |
 | Sat, 14 Nov 2026 | Warehouse Elementenstraat | Amsterdam |
 | Sat, 28 Nov 2026 | TivoliVredenburg | Utrecht |
 | Sat, 12 Dec 2026 | Thuishaven | Amsterdam |
@@ -22,17 +20,17 @@ Erick E is a house and acid artist based in Netherlands, with 73 gigs on soundch
 
 ## Recently played
 
+- Thuishaven, Amsterdam · Sat, 7 Nov 2026
+- Mezz, Netherlands · Sat, 7 Nov 2026
 - Grand Hotel Amrâth Kurhaus, The Hague · Sat, 31 Oct 2026
 - Grand Café Heineken Hoek, Amsterdam · Sat, 24 Oct 2026
 - Simplon, Netherlands · Fri, 16 Oct 2026
 - De Achtertuin, Nijmegen · Sat, 10 Oct 2026
 - Ijland, Amsterdam · Sat, 3 Oct 2026
 - De Heuvel Gallery, Netherlands · Fri, 2 Oct 2026
-- Millers Beach, The Hague · Sun, 13 Sept 2026
-- Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
 
 ## Shares bills with
 
 ROOG, Alexander Koning, Lucien Foort
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ericke/)*

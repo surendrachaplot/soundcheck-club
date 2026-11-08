@@ -1,14 +1,13 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Tobiahs - Montréal" on Sat, 7 Nov 2026.
+Société des arts technologiques is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Nia Archives - Montréal" on Tue, 10 Nov 2026.
 
-Société des arts technologiques is a music venue in Montreal listed on soundcheck. 9 upcoming gigs, with line-ups including Adrian Sherwood, Bambii, Dick Lee and Evita and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
+Société des arts technologiques is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including Adrian Sherwood, Bambii, Dick Lee and Evita and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Tobiahs - Montréal | Rim SDL |
 | Tue, 10 Nov 2026 | Nia Archives - Montréal | Bambii, Nia Archives |
 | Thu, 12 Nov 2026 | BEATS x SAT — [Unfolded] | Myriam Bleau |
 | Fri, 20 Nov 2026 | Club SAT — Turbine (Live A/V) • Musik Me Luv (Melek b3b Dick Lee b3b nad) | Dick Lee, Melek, Turbine |
@@ -22,4 +21,4 @@ Société des arts technologiques is a music venue in Montreal listed on soundch
 
 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada, Montreal
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/montreal/club/soci-t-des-arts-technologiques/)*

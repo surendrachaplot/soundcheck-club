@@ -1,14 +1,13 @@
 # The Paradise Now
 
-The Paradise Now is a music venue in Düsseldorf with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Denoir - The Paradise Now" on Sat, 7 Nov 2026.
+The Paradise Now is a music venue in Düsseldorf with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Ninetoes - The Paradise Now" on Sat, 14 Nov 2026.
 
-The Paradise Now is a music venue in Düsseldorf listed on soundcheck. 4 upcoming gigs, with line-ups including Denoir, JANE RYSE, Josef Schumacher and Ninetoes. See dates, start times and who's playing. Hammer Str. 27, 40219 Düsseldorf, Germany.
+The Paradise Now is a music venue in Düsseldorf listed on soundcheck. 3 upcoming gigs, with line-ups including JANE RYSE, Josef Schumacher and Ninetoes. See dates, start times and who's playing. Hammer Str. 27, 40219 Düsseldorf, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Denoir - The Paradise Now | Denoir |
 | Sat, 14 Nov 2026 | Ninetoes - The Paradise Now | Ninetoes |
 | Fri, 20 Nov 2026 | JANE RYSE - DISCOTECA - The Paradise Now | JANE RYSE, Josef Schumacher |
 | Sat, 21 Nov 2026 | Alexander Zimmermann - The Paradise Now |  |
@@ -17,4 +16,4 @@ The Paradise Now is a music venue in Düsseldorf listed on soundcheck. 4 upcomin
 
 Hammer Str. 27, 40219 Düsseldorf, Germany, Düsseldorf
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/the-paradise-now/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dusseldorf/club/the-paradise-now/)*

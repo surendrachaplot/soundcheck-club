@@ -1,6 +1,6 @@
 # safire
 
-safire is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 27 Nov 2026.
+safire is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 27 Nov 2026.
 
 safire is a drum & bass and dubstep artist based in Australia, with 22 gigs on soundcheck across Auckland, Christchurch and Melbourne. Often billed alongside MELTA, Sistym and Azifm. Next up: QQQ ST. Park, Melbourne on Fri 27 Nov.
 
@@ -13,6 +13,7 @@ safire is a drum & bass and dubstep artist based in Australia, with 22 gigs on s
 
 ## Recently played
 
+- Nevermind Bar, Melbourne · Sat, 7 Nov 2026
 - Howler, Melbourne · Sat, 19 Sept 2026
 - QQQ ST. Park, Melbourne · Sat, 18 Jul 2026
 - Sydenham Underpass, Christchurch · Sat, 6 Jun 2026
@@ -20,10 +21,9 @@ safire is a drum & bass and dubstep artist based in Australia, with 22 gigs on s
 - QQQ ST. Park, Melbourne · Sun, 31 May 2026
 - QQQ ST. Park, Melbourne · Fri, 15 May 2026
 - QQQ ST. Park, Melbourne · Sat, 28 Feb 2026
-- QQQ ST. Park, Melbourne · Sun, 25 Jan 2026
 
 ## Shares bills with
 
 MELTA, Sistym, Azifm
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safire/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/safire/)*

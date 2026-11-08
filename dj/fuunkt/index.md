@@ -1,6 +1,6 @@
 # Fuunkt
 
-Fuunkt is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Minimal Bar, Berlin on Sun, 24 Jan 2027.
+Fuunkt is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Minimal Bar, Berlin on Sun, 24 Jan 2027.
 
 Fuunkt is a techno and minimal artist based in Spain, with 60 gigs on soundcheck across Berlin and Krakow. Often billed alongside nuarrrrr, ATIKIN and albeiro. Next up: Minimal Bar, Berlin on Sun 24 Jan.
 
@@ -25,4 +25,4 @@ Fuunkt is a techno and minimal artist based in Spain, with 60 gigs on soundcheck
 
 nuarrrrr, ATIKIN, albeiro
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuunkt/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fuunkt/)*

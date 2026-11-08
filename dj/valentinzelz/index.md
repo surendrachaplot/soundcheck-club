@@ -1,6 +1,6 @@
 # Valentin Zelz
 
-Valentin Zelz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at PRST, Vienna on Sat, 14 Nov 2026.
+Valentin Zelz is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at PRST, Vienna on Sat, 14 Nov 2026.
 
 Valentin Zelz is a house and techno artist based in Germany, with 8 gigs on soundcheck across Berlin, Munich, Stuttgart and Vienna. Often billed alongside Inspektor Lenny, Jeyrototo and ANTI ANTI. Next up: PRST, Vienna on Sat 14 Nov.
 
@@ -24,4 +24,4 @@ Valentin Zelz is a house and techno artist based in Germany, with 8 gigs on soun
 
 Inspektor Lenny, Jeyrototo, ANTI ANTI
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinzelz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/valentinzelz/)*

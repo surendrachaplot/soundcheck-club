@@ -1,6 +1,6 @@
 # Villain Mode
 
-Villain Mode is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at D-EDGE, Sao Paulo on Sun, 8 Nov 2026.
+Villain Mode is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at D-EDGE, Sao Paulo on Sun, 8 Nov 2026.
 
 Villain Mode is a house and tech house artist based in Brazil, with 10 gigs on soundcheck across Sao Paulo. Often billed alongside Adnan Sharif, Anderson Noise and Diogo Accioly. Next up: D-EDGE, Sao Paulo on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Villain Mode is a house and tech house artist based in Brazil, with 10 gigs on s
 
 Adnan Sharif, Anderson Noise, Diogo Accioly
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/villainmode/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/villainmode/)*

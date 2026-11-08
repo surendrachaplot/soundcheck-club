@@ -1,6 +1,6 @@
 # Methylman
 
-Methylman is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Sonorama, Medellin on Sun, 15 Nov 2026.
+Methylman is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Sonorama, Medellin on Sun, 15 Nov 2026.
 
 Methylman is a house and electro artist based in United States of America, with 16 gigs on soundcheck across Medellin. Often billed alongside Cami España, Martin Leaves and Salvador Hören. Next up: Sonorama, Medellin on Sun 15 Nov.
 
@@ -25,4 +25,4 @@ Methylman is a house and electro artist based in United States of America, with 
 
 Cami España, Martin Leaves, Salvador Hören
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/methylman/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/methylman/)*

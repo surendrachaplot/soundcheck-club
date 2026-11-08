@@ -1,6 +1,6 @@
 # Atari Stacey
 
-Atari Stacey is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bridge 48, Barcelona on Sat, 21 Nov 2026.
+Atari Stacey is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bridge 48, Barcelona on Sat, 21 Nov 2026.
 
 Atari Stacey is a disco and house artist based in United Kingdom, with 10 gigs on soundcheck across Barcelona. Often billed alongside Dagger, Gabs Terry and Vitorio Testa. Next up: Bridge 48, Barcelona on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Atari Stacey is a disco and house artist based in United Kingdom, with 10 gigs o
 
 Dagger, Gabs Terry, Vitorio Testa
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ataristacey/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ataristacey/)*

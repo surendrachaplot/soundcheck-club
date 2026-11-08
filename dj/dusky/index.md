@@ -1,15 +1,13 @@
 # Dusky
 
-Dusky is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Phonox, London on Sat, 7 Nov 2026.
+Dusky is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sneaky Pete's, Edinburgh on Sun, 8 Nov 2026.
 
-Dusky is a house and techno artist based in United Kingdom, with 114 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 40 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: Phonox, London on Sat 7 Nov.
+Dusky is a house and techno artist based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 41 more. Often billed alongside Dan Shake, Denham Audio and Ella Knight. Next up: Sneaky Pete's, Edinburgh on Sun 8 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Phonox | London |
-| Sat, 7 Nov 2026 | Faith in Strangers | South-east |
 | Sun, 8 Nov 2026 | Sneaky Pete's | Edinburgh |
 | Fri, 13 Nov 2026 | Culture Box | Copenhagen |
 | Sat, 14 Nov 2026 | Phonox | London |
@@ -19,21 +17,23 @@ Dusky is a house and techno artist based in United Kingdom, with 114 gigs on sou
 | Fri, 4 Dec 2026 | The Limelight | Belfast |
 | Sat, 12 Dec 2026 | TBA | Los Angeles |
 | Sat, 19 Dec 2026 | Depot Mayfield | Manchester |
+| Thu, 31 Dec 2026 | Towradgi Beach Hotel & Waves | New-south-wales |
 | Thu, 31 Dec 2026 | Selina's | Sydney |
+| Fri, 1 Jan 2027 | elsewhere | Brisbane |
 
 ## Recently played
 
+- Phonox, London · Sat, 7 Nov 2026
+- Faith in Strangers, South-east · Sat, 7 Nov 2026
 - Sacré, Paris · Fri, 6 Nov 2026
 - Patterns, Brighton · Sat, 31 Oct 2026
 - Electric Bristol, Bristol · Fri, 30 Oct 2026
 - Joshua Brooks, Manchester · Sat, 24 Oct 2026
 - Shelter Amsterdam, Amsterdam · Fri, 23 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
-- Hangar 34, Liverpool · Sat, 17 Oct 2026
-- Electric Studios, Sheffield · Fri, 16 Oct 2026
 
 ## Shares bills with
 
 Dan Shake, Denham Audio, Ella Knight
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dusky/)*

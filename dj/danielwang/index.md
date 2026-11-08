@@ -1,14 +1,13 @@
 # Daniel Wang
 
-Daniel Wang is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at The Ivory Hotel, Glasgow on Fri, 6 Nov 2026.
+Daniel Wang is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Paloma, Berlin on Fri, 13 Nov 2026.
 
-Daniel Wang is a disco and house artist based in Germany, with 99 gigs on soundcheck across Athens, Barcelona, Belfast and Belgrade and 16 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: The Ivory Hotel, Glasgow on Fri 6 Nov.
+Daniel Wang is a disco and house artist based in Germany, with 99 gigs on soundcheck across Athens, Barcelona, Belfast and Belgrade and 16 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: Paloma, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | The Ivory Hotel | Glasgow |
 | Fri, 13 Nov 2026 | Paloma | Berlin |
 | Fri, 11 Dec 2026 | OXI | Berlin |
 
@@ -27,4 +26,4 @@ Daniel Wang is a disco and house artist based in Germany, with 99 gigs on soundc
 
 ADAM MUNNINGS, AAguilAA, DJ Petite
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/danielwang/)*

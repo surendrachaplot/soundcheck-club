@@ -1,6 +1,6 @@
 # Maudux
 
-Maudux is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
+Maudux is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Turbinenhalle, Oberhausen on Sat, 14 Nov 2026.
 
 Maudux is a techno and trance artist based in France, with 34 gigs on soundcheck across Amsterdam, Berlin, Finland and Geneva and 7 more. Often billed alongside MATRAKK, Nico Moreno and 1luu. Next up: Turbinenhalle, Oberhausen on Sat 14 Nov.
 
@@ -26,4 +26,4 @@ Maudux is a techno and trance artist based in France, with 34 gigs on soundcheck
 
 MATRAKK, Nico Moreno, 1luu
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/maudux/)*

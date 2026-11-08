@@ -1,6 +1,6 @@
 # Kingsmo
 
-Kingsmo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at La Douche Froide Metz, East on Tue, 10 Nov 2026.
+Kingsmo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at La Douche Froide Metz, East on Tue, 10 Nov 2026.
 
 Kingsmo is a techno and tech house artist based in France, with 20 gigs on soundcheck across Amsterdam, Athens, Barcelona and Dortmund / Essen and 4 more. Often billed alongside Naomi Baldacchino, Gouzz and JAKKAR. Next up: La Douche Froide Metz, East on Tue 10 Nov.
 
@@ -26,4 +26,4 @@ Kingsmo is a techno and tech house artist based in France, with 20 gigs on sound
 
 Naomi Baldacchino, Gouzz, JAKKAR
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kingsmo/)*

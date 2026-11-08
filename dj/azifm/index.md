@@ -1,6 +1,6 @@
 # Azifm
 
-Azifm is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 4 Dec 2026.
+Azifm is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at QQQ ST. Park, Melbourne on Fri, 4 Dec 2026.
 
 Azifm is a jungle and drum & bass artist based in New Zealand, with 5 gigs on soundcheck across Melbourne. Often billed alongside Hound, safire and Aaron Static. Next up: QQQ ST. Park, Melbourne on Fri 4 Dec.
 
@@ -21,4 +21,4 @@ Azifm is a jungle and drum & bass artist based in New Zealand, with 5 gigs on so
 
 Hound, safire, Aaron Static
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azifm/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/azifm/)*

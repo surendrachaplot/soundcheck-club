@@ -1,6 +1,6 @@
 # 50Minimals
 
-50Minimals is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at VENT, Tokyo on Fri, 18 Dec 2026.
+50Minimals is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at VENT, Tokyo on Fri, 18 Dec 2026.
 
 50Minimals is a house and disco artist based in Japan, with 34 gigs on soundcheck across Tokyo. Often billed alongside An toi, Soichi Terada and HIMAWARI. Next up: VENT, Tokyo on Fri 18 Dec.
 
@@ -25,4 +25,4 @@
 
 An toi, Soichi Terada, HIMAWARI
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/50minimals/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/50minimals/)*

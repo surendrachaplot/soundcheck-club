@@ -1,6 +1,6 @@
 # DJ Crash Course
 
-DJ Crash Course is a Electro artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
+DJ Crash Course is a Electro artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at The DBA, Manchester on Wed, 25 Nov 2026.
 
 DJ Crash Course is an electro artist based in United Kingdom, with 6 gigs on soundcheck across Manchester. Often billed alongside Willow J, Lucky Bunny and Formby Beach. Next up: The DBA, Manchester on Wed 25 Nov.
 
@@ -22,4 +22,4 @@ DJ Crash Course is an electro artist based in United Kingdom, with 6 gigs on sou
 
 Willow J, Lucky Bunny, Formby Beach
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcrashcourse/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djcrashcourse/)*

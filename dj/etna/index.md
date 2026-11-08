@@ -1,6 +1,6 @@
 # ETNA
 
-ETNA is a Tech House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Forma, Naples on Sat, 21 Nov 2026.
+ETNA is a Tech House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Forma, Naples on Sat, 21 Nov 2026.
 
 ETNA is a tech house and electronica artist based in Italy, with 47 gigs on soundcheck across Athens, Ibiza, Milan and Naples and 1 more. Often billed alongside ALDAVE, Vice Luna and Words of Niō. Next up: Forma, Naples on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ ETNA is a tech house and electronica artist based in Italy, with 47 gigs on soun
 
 ALDAVE, Vice Luna, Words of Niō
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etna/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/etna/)*

@@ -1,6 +1,6 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
+Dr. Rubinstein is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Pawnshop, Taipei on Fri, 13 Nov 2026.
 
 Dr. Rubinstein is a techno and house artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 67 more. Often billed alongside Ellen Allien, Freddy K and Hyperaktivist. Next up: Pawnshop, Taipei on Fri 13 Nov.
 
@@ -29,4 +29,4 @@ Dr. Rubinstein is a techno and house artist based in Germany, with 216 gigs on s
 
 Ellen Allien, Freddy K, Hyperaktivist
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.rubinstein/)*

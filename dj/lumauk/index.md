@@ -1,6 +1,6 @@
 # LUMA (UK)
 
-LUMA (UK) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Ballroom at Palais, London on Sat, 21 Nov 2026.
+LUMA (UK) is a Bass and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Ballroom at Palais, London on Sat, 21 Nov 2026.
 
 LUMA (UK) is a bass and club artist based in United Kingdom, with 37 gigs on soundcheck across Brighton, London and Newcastle. Often billed alongside Aisha Mirza, Calm Stiege and Fita. Next up: Ballroom at Palais, London on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ LUMA (UK) is a bass and club artist based in United Kingdom, with 37 gigs on sou
 
 Aisha Mirza, Calm Stiege, Fita
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumauk/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/lumauk/)*

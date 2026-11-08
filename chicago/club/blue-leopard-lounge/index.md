@@ -1,6 +1,6 @@
 # Blue Leopard Lounge
 
-Blue Leopard Lounge is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Velvet Hours" on Sat, 28 Nov 2026.
+Blue Leopard Lounge is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "Velvet Hours" on Sat, 28 Nov 2026.
 
 Blue Leopard Lounge is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Sean Parks, Twan (US) and Wyser. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Blue Leopard Lounge is a music venue in Chicago listed on soundcheck. 1 upcoming
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | Velvet Hours | Sean Parks, Twan (US), Wyser |
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/blue-leopard-lounge/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/blue-leopard-lounge/)*

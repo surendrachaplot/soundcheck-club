@@ -1,14 +1,13 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 14 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "NEUHM 15th Anniversary • Joe Claussell + Palms Trax + Gigi Testa" on Sat, 7 Nov 2026.
+Basic Club is a music venue in Naples with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "ROOF x BASIC • Domenico Rosa + TONY IANNICELLI" on Fri, 13 Nov 2026.
 
-Basic Club is a music venue in Naples listed on soundcheck. 14 upcoming gigs, with line-ups including Mariiin, Aldo Rosati, Antonio Grassia and Antonio Memoli and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
+Basic Club is a music venue in Naples listed on soundcheck. 13 upcoming gigs, with line-ups including Mariiin, Aldo Rosati, Antonio Grassia and Antonio Memoli and 2 more. See dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | NEUHM 15th Anniversary • Joe Claussell + Palms Trax + Gigi Testa | Gigi Testa, Joe Claussell, Palms Trax |
 | Fri, 13 Nov 2026 | ROOF x BASIC • Domenico Rosa + TONY IANNICELLI | Domenico Rosa, TONY IANNICELLI |
 | Sat, 14 Nov 2026 | ROOTS • Antonio Grassia, Petty Rose, Antonio AM | Antonio Grassia, Antonio Memoli |
 | Fri, 20 Nov 2026 | BITDAY • 9th Anniversary | Bijei |
@@ -18,9 +17,10 @@ Basic Club is a music venue in Naples listed on soundcheck. 14 upcoming gigs, wi
 | Sat, 5 Dec 2026 | BASIC • Gigi Testa + Fabrizio Fattore live | Fabrizio Fattore, Gigi Testa |
 | Mon, 7 Dec 2026 | MUTATE • Octave One live + XXXXX | Octave One |
 | Sat, 19 Dec 2026 | BASIC • Ben UFO + Mariiin | Ben UFO, Mariiin |
+| Fri, 25 Dec 2026 | BASIC Xmas • Napoli Segreta | Napoli Segreta |
 
 ## Address
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

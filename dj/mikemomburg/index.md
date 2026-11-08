@@ -1,18 +1,18 @@
 # Mike Momburg
 
-Mike Momburg is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Gewölbe, Cologne on Sat, 7 Nov 2026.
+Mike Momburg is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Artheater, Cologne on Fri, 20 Nov 2026.
 
-Mike Momburg is a house and trance artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 10 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Gewölbe, Cologne on Sat 7 Nov.
+Mike Momburg is a house and trance artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 10 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Artheater, Cologne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Gewölbe | Cologne |
 | Fri, 20 Nov 2026 | Artheater | Cologne |
 
 ## Recently played
 
+- Gewölbe, Cologne · Sat, 7 Nov 2026
 - Mojo, Hamburg · Sat, 31 Oct 2026
 - Ijland, Amsterdam · Sat, 24 Oct 2026
 - Thuishaven, Amsterdam · Fri, 23 Oct 2026
@@ -20,10 +20,9 @@ Mike Momburg is a house and trance artist based in Germany, with 93 gigs on soun
 - Schrotty, Cologne · Sat, 8 Aug 2026
 - Mondo, Madrid · Sat, 1 Aug 2026
 - Odonien, Cologne · Fri, 31 Jul 2026
-- TBA - Galopprennbahn Freudenau, Vienna, Vienna · Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Domenik Deckert, DAVINA, Carl Bergé
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemomburg/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mikemomburg/)*

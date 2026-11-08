@@ -1,14 +1,13 @@
 # Ship Sket
 
-Ship Sket is a Experimental and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+Ship Sket is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Fuchs2, Prague on Fri, 11 Dec 2026.
 
-Ship Sket is an experimental and bass artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside KAVARI, Proc Fiskal and Blood of Aza. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+Ship Sket is an experimental and bass artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 23 more. Often billed alongside KAVARI, Proc Fiskal and Blood of Aza. Next up: Fuchs2, Prague on Fri 11 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 | Fri, 11 Dec 2026 | Fuchs2 | Prague |
 
 ## Recently played
@@ -26,4 +25,4 @@ Ship Sket is an experimental and bass artist based in United Kingdom, with 85 gi
 
 KAVARI, Proc Fiskal, Blood of Aza
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shipsket/)*

@@ -1,6 +1,6 @@
 # Kaesar
 
-Kaesar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
+Kaesar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kassa Boat, Budapest on Fri, 18 Dec 2026.
 
 Kaesar is a house and techno artist based in Portugal, with 100 gigs on soundcheck across Budapest, Lisbon, Malaga and Porto and 1 more. Often billed alongside Bernardo Vaz, Gear and Kokeshi. Next up: Kassa Boat, Budapest on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ Kaesar is a house and techno artist based in Portugal, with 100 gigs on soundche
 
 Bernardo Vaz, Gear, Kokeshi
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaesar/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kaesar/)*

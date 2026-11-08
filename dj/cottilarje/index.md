@@ -1,6 +1,6 @@
 # Cottí Larje
 
-Cottí Larje is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 19 Nov 2026.
+Cottí Larje is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Bahnwärter Thiel, Munich on Thu, 19 Nov 2026.
 
 Cottí Larje is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin and Munich. Often billed alongside antyo, Terzenbreaker and Arkinice. Next up: Bahnwärter Thiel, Munich on Thu 19 Nov.
 
@@ -25,4 +25,4 @@ Cottí Larje is a techno and trance artist based in Germany, with 23 gigs on sou
 
 antyo, Terzenbreaker, Arkinice
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cottilarje/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/cottilarje/)*

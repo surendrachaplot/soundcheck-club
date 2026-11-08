@@ -1,6 +1,6 @@
 # Scree Running
 
-Scree Running is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - East Van, Vancouver on Sat, 28 Nov 2026.
+Scree Running is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - East Van, Vancouver on Sat, 28 Nov 2026.
 
 Scree Running is an experimental and techno artist, with 8 gigs on soundcheck across Vancouver. Often billed alongside Vasho, Bronwyn and Col the Doctor. Next up: TBA - East Van, Vancouver on Sat 28 Nov.
 
@@ -24,4 +24,4 @@ Scree Running is an experimental and techno artist, with 8 gigs on soundcheck ac
 
 Vasho, Bronwyn, Col the Doctor
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/screerunning/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/screerunning/)*

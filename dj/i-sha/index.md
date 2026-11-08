@@ -1,6 +1,6 @@
 # i-sha
 
-i-sha is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Sawmills, Bristol on Sat, 14 Nov 2026.
+i-sha is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Sawmills, Bristol on Sat, 14 Nov 2026.
 
 i-sha is an experimental and techno artist based in United Kingdom, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside k means, Batu and Anina. Next up: Sawmills, Bristol on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ i-sha is an experimental and techno artist based in United Kingdom, with 85 gigs
 
 k means, Batu, Anina
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/i-sha/)*

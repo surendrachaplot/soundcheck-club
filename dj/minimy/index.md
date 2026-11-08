@@ -1,6 +1,6 @@
 # Minimy
 
-Minimy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 14 Nov 2026.
+Minimy is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Den Anden Side, Copenhagen on Sat, 14 Nov 2026.
 
 Minimy is a techno and trance artist based in Sweden, with 21 gigs on soundcheck across Copenhagen and Malmo. Often billed alongside Danza Mortale, sore point and UBER KNAST. Next up: Den Anden Side, Copenhagen on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Minimy is a techno and trance artist based in Sweden, with 21 gigs on soundcheck
 
 Danza Mortale, sore point, UBER KNAST
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minimy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/minimy/)*

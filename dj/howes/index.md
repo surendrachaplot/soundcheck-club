@@ -1,6 +1,6 @@
 # Howes
 
-Howes is a Dub Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
+Howes is a Dub Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tresor / Globus, Berlin on Sat, 21 Nov 2026.
 
 Howes is a dub techno and experimental artist based in United Kingdom, with 7 gigs on soundcheck across Berlin, Glasgow, London and Manchester. Often billed alongside Sam Purcell, Lack (UK) and Alicia (UK). Next up: Tresor / Globus, Berlin on Sat 21 Nov.
 
@@ -23,4 +23,4 @@ Howes is a dub techno and experimental artist based in United Kingdom, with 7 gi
 
 Sam Purcell, Lack (UK), Alicia (UK)
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howes/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/howes/)*

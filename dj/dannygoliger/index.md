@@ -1,6 +1,6 @@
 # Danny Goliger
 
-Danny Goliger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Process PDX, Portland on Fri, 20 Nov 2026.
+Danny Goliger is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Process PDX, Portland on Fri, 20 Nov 2026.
 
 Danny Goliger is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Denver, London, Los Angeles and Mexico City and 6 more. Often billed alongside Farsight, Gay Felony and sysk. Next up: Process PDX, Portland on Fri 20 Nov.
 
@@ -25,4 +25,4 @@ Danny Goliger is a techno and house artist based in United States of America, wi
 
 Farsight, Gay Felony, sysk
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygoliger/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/dannygoliger/)*

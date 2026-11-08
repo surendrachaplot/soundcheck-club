@@ -1,6 +1,6 @@
 # Benjamin Berg
 
-Benjamin Berg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
+Benjamin Berg is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 27 Nov 2026.
 
 Benjamin Berg is a house and techno artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and Lisbon and 6 more. Often billed alongside D Stone, Nathan Alzon and Litmus. Next up: Shelter Amsterdam, Amsterdam on Fri 27 Nov.
 
@@ -25,4 +25,4 @@ Benjamin Berg is a house and techno artist based in Netherlands, with 58 gigs on
 
 D Stone, Nathan Alzon, Litmus
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminberg/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminberg/)*

@@ -1,6 +1,6 @@
 # Isla Den
 
-Isla Den is a Pop and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
+Isla Den is a Pop and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Igloofest, Montreal on Sat, 23 Jan 2027.
 
 Isla Den is a pop and trance artist based in Canada, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside ESP, Malibu and Outback. Next up: Igloofest, Montreal on Sat 23 Jan.
 
@@ -25,4 +25,4 @@ Isla Den is a pop and trance artist based in Canada, with 35 gigs on soundcheck 
 
 ESP, Malibu, Outback
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isladen/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/isladen/)*

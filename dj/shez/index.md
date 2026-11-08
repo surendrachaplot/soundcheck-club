@@ -1,6 +1,6 @@
 # Shez
 
-Shez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Dahlia Stereo, Manchester on Sat, 21 Nov 2026.
+Shez is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dahlia Stereo, Manchester on Sat, 21 Nov 2026.
 
 Shez is a house and tech house artist based in United Kingdom, with 19 gigs on soundcheck across Denver, Leeds, Lisbon and London and 1 more. Often billed alongside Tom Craven, Jonna and Lopaski. Next up: Dahlia Stereo, Manchester on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Shez is a house and tech house artist based in United Kingdom, with 19 gigs on s
 
 Tom Craven, Jonna, Lopaski
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shez/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/shez/)*

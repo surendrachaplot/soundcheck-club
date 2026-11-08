@@ -1,6 +1,6 @@
 # Irren
 
-Irren is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 8 Nov 2026.
+Irren is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Starlane Pizza Bar, London on Sun, 8 Nov 2026.
 
 Irren is a house and tech house artist based in Moldova, with 19 gigs on soundcheck across London. Often billed alongside Larry Cadge, Andrea Giudice and Mono Dust_. Next up: Starlane Pizza Bar, London on Sun 8 Nov.
 
@@ -25,4 +25,4 @@ Irren is a house and tech house artist based in Moldova, with 19 gigs on soundch
 
 Larry Cadge, Andrea Giudice, Mono Dust_
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irren/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/irren/)*

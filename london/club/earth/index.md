@@ -1,6 +1,6 @@
 # EartH
 
-EartH is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Pola & Bryson Live (World Debut)" on Sat, 14 Nov 2026.
+EartH is a music venue in London with 13 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Pola & Bryson Live (World Debut)" on Sat, 14 Nov 2026.
 
 EartH is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Abdullah Miniawy, Anz, The Avalanches and Buttechno and 2 more. See dates, start times and who's playing. 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK.
 
@@ -23,4 +23,4 @@ EartH is a music venue in London listed on soundcheck. 13 upcoming gigs, with li
 
 13 Stoke Newington Rd, Stoke Newington, London N16 8BH, UK, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/earth/)*

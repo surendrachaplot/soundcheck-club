@@ -1,6 +1,6 @@
 # Loki
 
-Loki is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Mon, 28 Dec 2026.
+Loki is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Mon, 28 Dec 2026.
 
 Loki is a techno and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Barcelona, Berlin and London. Often billed alongside Uncle G, Dexta and Slundarq. Next up: Kesselhaus & Maschinenhaus Kulturbrauerei Berlin, Berlin on Mon 28 Dec.
 
@@ -25,4 +25,4 @@ Loki is a techno and drum & bass artist based in United Kingdom, with 16 gigs on
 
 Uncle G, Dexta, Slundarq
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loki/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/loki/)*

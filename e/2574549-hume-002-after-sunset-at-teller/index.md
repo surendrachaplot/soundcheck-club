@@ -1,6 +1,6 @@
 # HUME 002: AFTER SUNSET at teller
 
-HUME 002: AFTER SUNSET at teller on Sun 8 Nov, Seoul. 3 artists: Mihak, Nomal and Yu Mi. Electro and Minimal Techno. See the line-up on soundcheck.
+HUME 002: AFTER SUNSET at teller on Sun 8 Nov, Seoul. 3 artists: Mihak, Nomal and Yumi. Electro and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,6 @@ HUME 002: AFTER SUNSET at teller on Sun 8 Nov, Seoul. 3 artists: Mihak, Nomal an
 
 - Mihak
 - Nomal
-- Yu Mi
+- Yumi
 
 *Source: [soundcheck](https://soundcheck.club/e/2574549-hume-002-after-sunset-at-teller/)*

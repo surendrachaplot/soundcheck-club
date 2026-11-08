@@ -1,6 +1,6 @@
 # Derek Ryan
 
-Derek Ryan is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
+Derek Ryan is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Warp Shinjuku, Tokyo on Sun, 15 Nov 2026.
 
 Derek Ryan is a trance and progressive house artist based in United States of America, with 8 gigs on soundcheck across Tokyo. Often billed alongside DJ NECO, DJ 34 and BEPPU. Next up: Warp Shinjuku, Tokyo on Sun 15 Nov.
 
@@ -24,4 +24,4 @@ Derek Ryan is a trance and progressive house artist based in United States of Am
 
 DJ NECO, DJ 34, BEPPU
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derekryan/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/derekryan/)*

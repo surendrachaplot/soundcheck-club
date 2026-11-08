@@ -1,14 +1,13 @@
 # Epic Prague
 
-Epic Prague is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Sickmode" on Sat, 7 Nov 2026.
+Epic Prague is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "SLVL" on Fri, 20 Nov 2026.
 
-Epic Prague is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including Dimitri K, Odium, Sickmode and SLVL and 1 more. See dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
+Epic Prague is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including Dimitri K, SLVL and Yoshiko. See dates, start times and who's playing. 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Sickmode | Odium, Sickmode |
 | Fri, 20 Nov 2026 | SLVL | SLVL |
 | Fri, 11 Dec 2026 | Dimitri K x Yoshiko | Dimitri K, Yoshiko |
 
@@ -16,4 +15,4 @@ Epic Prague is a music venue in Prague listed on soundcheck. 3 upcoming gigs, wi
 
 1003/3 Revoluční, Staré Město 1, 110 00 Praha, Czechia, Prague
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/prague/club/epic-prague/)*

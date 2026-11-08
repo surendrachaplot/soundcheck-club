@@ -1,14 +1,13 @@
 # NX Newcastle
 
-NX Newcastle is a music venue in Newcastle with 15 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Azyr b2b Partiboi69" on Sat, 7 Nov 2026.
+NX Newcastle is a music venue in Newcastle with 14 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "East End Dubs" on Fri, 13 Nov 2026.
 
-NX Newcastle is a music venue in Newcastle listed on soundcheck. 15 upcoming gigs, with line-ups including Azyr, D.O.D., DREAD MC and East End Dubs and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
+NX Newcastle is a music venue in Newcastle listed on soundcheck. 14 upcoming gigs, with line-ups including D.O.D., DREAD MC, East End Dubs and Ellie Scougall and 2 more. See dates, start times and who's playing. Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Azyr b2b Partiboi69 | Azyr, Partiboi69, sim0ne |
 | Fri, 13 Nov 2026 | East End Dubs | East End Dubs, Kitty Hall, Wildish |
 | Fri, 20 Nov 2026 | Second Speed: Onlynumbers | Onlynumbers |
 | Sat, 21 Nov 2026 | Interplanetary Criminal | Interplanetary Criminal, La La, Lauren Lo Sung, Maya, Milion |
@@ -18,9 +17,10 @@ NX Newcastle is a music venue in Newcastle listed on soundcheck. 15 upcoming gig
 | Fri, 4 Dec 2026 | D.O.D | D.O.D., Ellie Scougall, Nadia Summer, Solardo |
 | Fri, 11 Dec 2026 | Locklead | Locklead |
 | Fri, 11 Dec 2026 | Locklead + more TBA | Locklead |
+| Sat, 12 Dec 2026 | Rudimental | DREAD MC, Rudimental, goddard. |
 
 ## Address
 
 Westgate Road, Newcastle upon Tyne, Tyne and Wear, England, NE1 1SW, United Kingdom, Newcastle
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/nx-newcastle/)*

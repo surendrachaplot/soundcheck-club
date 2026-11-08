@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "UNZUSTÄNDIG" on Sat, 7 Nov 2026.
+Eschschloraque is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "MissVergnügen presents SHE WILL LISTEN - live" on Wed, 11 Nov 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Jan Pyroman, MissVergnügen and nuarrrrr. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including MissVergnügen and nuarrrrr. See dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | UNZUSTÄNDIG | Jan Pyroman |
 | Wed, 11 Nov 2026 | MissVergnügen presents SHE WILL LISTEN - live | MissVergnügen |
 | Fri, 13 Nov 2026 | Dj nuarrrrr | nuarrrrr |
 | Sat, 14 Nov 2026 | DISCO ELECTRONICA – 4th Anniversary |  |
@@ -23,4 +22,4 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

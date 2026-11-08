@@ -1,6 +1,6 @@
 # Nuke
 
-Nuke is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Nuke is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 Nuke is a techno and tech house artist based in Spain, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside CESAR ALMENA, Parsa Jafari and Raul Ortiz. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -29,4 +29,4 @@ Nuke is a techno and tech house artist based in Spain, with 99 gigs on soundchec
 
 CESAR ALMENA, Parsa Jafari, Raul Ortiz
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuke/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/nuke/)*

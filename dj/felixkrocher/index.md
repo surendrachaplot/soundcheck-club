@@ -1,14 +1,13 @@
 # Felix Kröcher
 
-Felix Kröcher is a Techno and Electro artist with 9 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Club Seilerstraße Zwickau, Chemnitz on Sat, 7 Nov 2026.
+Felix Kröcher is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Schrotty, Cologne on Wed, 11 Nov 2026.
 
-Felix Kröcher is a techno and electro artist based in Germany, with 79 gigs on soundcheck across Austria, Bangkok, Barcelona and Basel and 19 more. Often billed alongside Karla Blum, LOVRA and Anna Tur. Next up: Club Seilerstraße Zwickau, Chemnitz on Sat 7 Nov.
+Felix Kröcher is a techno and electro artist based in Germany, with 79 gigs on soundcheck across Austria, Bangkok, Barcelona and Basel and 19 more. Often billed alongside Karla Blum, LOVRA and Anna Tur. Next up: Schrotty, Cologne on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Club Seilerstraße Zwickau | Chemnitz |
 | Wed, 11 Nov 2026 | Schrotty | Cologne |
 | Fri, 13 Nov 2026 | Uebel & Gefährlich | Hamburg |
 | Sat, 14 Nov 2026 | Fusion Club | Münster |
@@ -20,6 +19,7 @@ Felix Kröcher is a techno and electro artist based in Germany, with 79 gigs on 
 
 ## Recently played
 
+- Club Seilerstraße Zwickau, Chemnitz · Sat, 7 Nov 2026
 - Die Rakete, Nürnberg · Fri, 30 Oct 2026
 - Mobilat Club, Stuttgart · Sat, 3 Oct 2026
 - OST, Berlin · Fri, 18 Sept 2026
@@ -27,10 +27,9 @@ Felix Kröcher is a techno and electro artist based in Germany, with 79 gigs on 
 - Dürener Badesee, Cologne · Fri, 28 Aug 2026
 - Airport Würzburg, Nürnberg · Fri, 28 Aug 2026
 - Junkyard Dortmund, Dortmund / Essen · Sat, 22 Aug 2026
-- Artheater, Cologne · Fri, 14 Aug 2026
 
 ## Shares bills with
 
 Karla Blum, LOVRA, Anna Tur
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/felixkrocher/)*

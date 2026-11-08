@@ -1,6 +1,6 @@
 # Jesse Perez
 
-Jesse Perez is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
+Jesse Perez is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Factory Town, Miami on Wed, 2 Dec 2026.
 
 Jesse Perez is a house and tech house artist based in United States of America, with 23 gigs on soundcheck across Los Angeles, Miami, New York City and Philadelphia and 3 more. Often billed alongside DJ Sneak, Coffintexts and salute. Next up: Factory Town, Miami on Wed 2 Dec.
 
@@ -26,4 +26,4 @@ Jesse Perez is a house and tech house artist based in United States of America, 
 
 DJ Sneak, Coffintexts, salute
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseperez/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jesseperez/)*

@@ -1,6 +1,6 @@
 # Tesdorpf
 
-Tesdorpf is a Acid and Trance artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Nest, Basel on Sat, 28 Nov 2026.
+Tesdorpf is a Acid and Trance artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Nest, Basel on Sat, 28 Nov 2026.
 
 Tesdorpf is an acid and trance artist based in Switzerland, with 19 gigs on soundcheck across Basel, Tbilisi and Zurich. Often billed alongside Mark Lando, Gomorra and Herrrouine. Next up: Nest, Basel on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ Tesdorpf is an acid and trance artist based in Switzerland, with 19 gigs on soun
 
 Mark Lando, Gomorra, Herrrouine
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tesdorpf/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tesdorpf/)*

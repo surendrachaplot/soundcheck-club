@@ -1,6 +1,6 @@
 # nat the f*kn rat
 
-nat the f*kn rat is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 27 Nov 2026.
+nat the f*kn rat is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - DTLA, Los Angeles on Fri, 27 Nov 2026.
 
 nat the f*kn rat is a techno and trance artist based in United States of America, with 6 gigs on soundcheck across Los Angeles. Often billed alongside Desa Deca, SØMOS and Aleroj. Next up: TBA - DTLA, Los Angeles on Fri 27 Nov.
 
@@ -22,4 +22,4 @@ nat the f*kn rat is a techno and trance artist based in United States of America
 
 Desa Deca, SØMOS, Aleroj
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natthefknrat/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/natthefknrat/)*

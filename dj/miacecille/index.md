@@ -1,6 +1,6 @@
 # Mia Cecille
 
-Mia Cecille is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - Announced day of , New York City on Sat, 14 Nov 2026.
+Mia Cecille is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at TBA - Announced day of , New York City on Sat, 14 Nov 2026.
 
 Mia Cecille is a house and techno artist based in Netherlands, with 97 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 16 more. Often billed alongside Marie K, Daan Donk and 42nd Avenue. Next up: TBA - Announced day of , New York City on Sat 14 Nov.
 
@@ -28,4 +28,4 @@ Mia Cecille is a house and techno artist based in Netherlands, with 97 gigs on s
 
 Marie K (1), Daan Donk, 42nd Avenue
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miacecille/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/miacecille/)*

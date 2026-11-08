@@ -1,0 +1,18 @@
+# SIGNALS - 5€ Tickets - MËRO, MIMI404, Pamela Rave b2b Bouncy Bitch at Lokschuppen Berlin
+
+SIGNALS - 5€ Tickets - MËRO, MIMI404, Pamela Rave b2b Bouncy Bitch at Lokschuppen Berlin on Wed 25 Nov, Berlin. 4 artists: Bouncy Bitch, MËRO, MIMI404 and Pamela Rave. Trance and Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Wed, 25 Nov 2026 |
+| Venue | Lokschuppen Berlin |
+| City | Berlin |
+
+## Line-up
+
+- Bouncy Bitch
+- MËRO
+- MIMI404
+- Pamela Rave
+
+*Source: [soundcheck](https://soundcheck.club/e/2495994-signals-5-tickets-m-ro-mimi404-pamela-rave-b2b-bouncy-bitch/)*

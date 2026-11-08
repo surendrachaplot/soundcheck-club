@@ -1,6 +1,6 @@
 # k.o (PL)
 
-k.o (PL) is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
+k.o (PL) is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at objekt klein a, Dresden on Fri, 13 Nov 2026.
 
 k.o (PL) is a drum & bass and bass artist based in Poland, with 27 gigs on soundcheck across Berlin, Dresden, Krakow and Leipzig and 3 more. Often billed alongside Alegria, Bambi Uzi and Anthila. Next up: objekt klein a, Dresden on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ k.o (PL) is a drum & bass and bass artist based in Poland, with 27 gigs on sound
 
 Alegria, Bambi Uzi, Anthila
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.o-pl/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/k.o-pl/)*

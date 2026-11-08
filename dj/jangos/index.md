@@ -1,6 +1,6 @@
 # Jango S
 
-Jango S is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kunst Block Balve, Munich on Sat, 14 Nov 2026.
+Jango S is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kunst Block Balve, Munich on Sat, 14 Nov 2026.
 
 Jango S is a techno and acid artist, with 7 gigs on soundcheck across Berlin and Munich. Often billed alongside ANNĒ, Aaron Leviz and Alicea. Next up: Kunst Block Balve, Munich on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Jango S is a techno and acid artist, with 7 gigs on soundcheck across Berlin and
 
 ANNĒ, Aaron Leviz, Alicea
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jangos/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/jangos/)*

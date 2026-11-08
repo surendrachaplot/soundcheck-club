@@ -1,15 +1,13 @@
 # Vespers Club
 
-Vespers Club is a music venue in London with 20 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Echo State - Aphotic Presence" on Sat, 7 Nov 2026.
+Vespers Club is a music venue in London with 18 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "patch_t41b" on Wed, 11 Nov 2026.
 
-Vespers Club is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Abobo, Aïsha Devi, Ama (UK) and Bryan Gee and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
+Vespers Club is a music venue in London listed on soundcheck. 18 upcoming gigs, with line-ups including Abobo, Aïsha Devi, Ama (UK) and Bryan Gee and 2 more. See dates, start times and who's playing. 133A Rye Lane, London, SE15 4BQ, UK.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Echo State - Aphotic Presence | Chadzing Kung, FLOCO, Marcus Herne |
-| Sat, 7 Nov 2026 | OBSCURA X-01: AFTERPARTY |  |
 | Wed, 11 Nov 2026 | patch_t41b |  |
 | Thu, 12 Nov 2026 | DUSK presents: Cinna Peyghamy, Detraex Corp, Psyclo | Cinna Peyghamy, Psyclo, SKYAPNEA |
 | Fri, 13 Nov 2026 | Sanctuary Realm presents: FRIDAY THE 13TH |  |
@@ -18,9 +16,11 @@ Vespers Club is a music venue in London listed on soundcheck. 20 upcoming gigs, 
 | Sat, 21 Nov 2026 | Fixity: Plus | Femi, Glayden, MFM (FI), TRYCE |
 | Thu, 26 Nov 2026 | inklingroom & Złom | Aïsha Devi, leisure fm, lil replica |
 | Fri, 27 Nov 2026 | Pye Corner Audio | Pye Corner Audio |
+| Sat, 28 Nov 2026 | Cubicle Culture | Abobo, Hans Raider, Munkwerk |
+| Sun, 29 Nov 2026 | Half East and Most Christmas Grotto |  |
 
 ## Address
 
 133A Rye Lane, London, SE15 4BQ, UK, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/vespers-club/)*

@@ -1,14 +1,13 @@
 # Aaron Hibell
 
-Aaron Hibell is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Aaron Hibell is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Club Hípico de Santiago, Santiago on Sat, 14 Nov 2026.
 
-Aaron Hibell is a techno and trance artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 27 more. Often billed alongside Kotiēr, Adam Beyer and Alesso. Next up: Tinker Field, Orlando on Fri 6 Nov.
+Aaron Hibell is a techno and trance artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 27 more. Often billed alongside Kotiēr, Adam Beyer and Alesso. Next up: Club Hípico de Santiago, Santiago on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | Tinker Field | Orlando |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Thu, 31 Dec 2026 | Ritter Butzke | Berlin |
@@ -28,4 +27,4 @@ Aaron Hibell is a techno and trance artist based in United Kingdom, with 49 gigs
 
 Kotiēr, Adam Beyer, Alesso
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aaronhibell/)*

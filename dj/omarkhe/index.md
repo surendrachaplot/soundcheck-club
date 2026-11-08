@@ -1,6 +1,6 @@
 # Omar Khe
 
-Omar Khe is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Weetamix, Geneva on Sat, 14 Nov 2026.
+Omar Khe is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Weetamix, Geneva on Sat, 14 Nov 2026.
 
 Omar Khe is a minimal and house artist based in France, with 7 gigs on soundcheck across Athens, Barcelona, Geneva and Madrid and 2 more. Often billed alongside Nadim_, Doudeh and OMAR  C. Next up: Weetamix, Geneva on Sat 14 Nov.
 
@@ -23,4 +23,4 @@ Omar Khe is a minimal and house artist based in France, with 7 gigs on soundchec
 
 Nadim_, Doudeh, OMAR  C
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarkhe/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/omarkhe/)*

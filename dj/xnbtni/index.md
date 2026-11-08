@@ -1,6 +1,6 @@
 # XNBTNI
 
-XNBTNI is a Hardcore and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Unit 58, London on Fri, 18 Dec 2026.
+XNBTNI is a Hardcore and Dubstep artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Unit 58, London on Fri, 18 Dec 2026.
 
 XNBTNI is a hardcore and dubstep artist based in United Kingdom, with 24 gigs on soundcheck across Barcelona, Berlin, Brussels and Glasgow and 6 more. Often billed alongside Slayphex Twins, pissxie and Blood of Aza. Next up: Unit 58, London on Fri 18 Dec.
 
@@ -25,4 +25,4 @@ XNBTNI is a hardcore and dubstep artist based in United Kingdom, with 24 gigs on
 
 Slayphex Twins, pissxie, Blood of Aza
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xnbtni/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xnbtni/)*

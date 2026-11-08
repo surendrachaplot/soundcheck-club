@@ -1,14 +1,13 @@
 # Union Club, Vauxhall
 
-Union Club, Vauxhall is a music venue in London with 16 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "DESIRE - Weekly Thursday After Party - SPECIAL GUEST" on Thu, 5 Nov 2026.
+Union Club, Vauxhall is a music venue in London with 15 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Orbit Sunday night / Monday morning after party" on Sun, 8 Nov 2026.
 
-Union Club, Vauxhall is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Rebel, Armooniaman, Billa Bazz and Dani B and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
+Union Club, Vauxhall is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alex Rebel, Armooniaman, Billa Bazz and Dani B and 2 more. See dates, start times and who's playing. 66 Albert Embankment, Lambeth, London SE1 7TW.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 5 Nov 2026 | DESIRE - Weekly Thursday After Party - SPECIAL GUEST | Dhez, Duwat?, Elisa Nau. |
 | Sun, 8 Nov 2026 | Orbit Sunday night / Monday morning after party | Billa Bazz, Thomas Galbardi, Vortex (BR) |
 | Thu, 12 Nov 2026 | DESIRE - Weekly Thursday After Party - ELISA NAU | Dhez, Duwat?, Elisa Nau. |
 | Fri, 13 Nov 2026 | AFTER PARTY at FOX IN THE BOX (ALL FEMALES DJS) | El Cassar, Moonz, PERILOUS P, SUNI SIDE UP |
@@ -18,9 +17,10 @@ Union Club, Vauxhall is a music venue in London listed on soundcheck. 16 upcomin
 | Thu, 19 Nov 2026 | DESIRE - Weekly Thursday After Party - LEONARDO CRUZ | Dhez, Duwat?, Elisa Nau., Leonardo Cruz DJ |
 | Sun, 22 Nov 2026 | Orbit Sunday night / Monday morning after party | Emilion Dollar Baby, Kazuki Takahashi, Thomas Galbardi, Yukari |
 | Thu, 26 Nov 2026 | DESIRE - Weekly Thursday After Party - Armooniaman | Armooniaman, Dhez, Duwat?, Elisa Nau. |
+| Sun, 29 Nov 2026 | Orbit Sunday night / Monday morning after party | Giusy S (2), Thomas Galbardi |
 
 ## Address
 
 66 Albert Embankment, Lambeth, London SE1 7TW, London
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/london/club/union-club-vauxhall/)*

@@ -1,6 +1,6 @@
 # Moez
 
-Moez is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Moez is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
 Moez is a house and progressive house artist based in France, with 6 gigs on soundcheck across Geneva, Lebanon, Paris and Tunisia. Often billed alongside Emine, Hitsh and Joren. Next up: One Resort, Tunisia on Thu 5 Nov.
 
@@ -23,4 +23,4 @@ Moez is a house and progressive house artist based in France, with 6 gigs on sou
 
 Emine (2), Hitsh, Joren
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moez/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/moez/)*

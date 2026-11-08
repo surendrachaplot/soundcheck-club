@@ -1,6 +1,6 @@
 # Memory Box with Legowelt (LIVE) at Patterns
 
-Memory Box with Legowelt (LIVE) at Patterns on Sat 21 Nov, Brighton. 2 artists: Legowelt and Robin Ball. Acid and Electro. See the line-up on soundcheck.
+Memory Box with Legowelt (LIVE) at Patterns on Sat 21 Nov, Brighton. 2 artists: Legowelt and Robin Ball. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

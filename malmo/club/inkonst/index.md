@@ -1,14 +1,13 @@
 # Inkonst
 
-Inkonst is a music venue in Malmo with 10 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Kontra-Musik Release Club: TM404 & Ulf Eriksson" on Sat, 7 Nov 2026.
+Inkonst is a music venue in Malmo with 9 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "TEKNO Festival" on Thu, 12 Nov 2026.
 
-Inkonst is a music venue in Malmo listed on soundcheck. 10 upcoming gigs, with line-ups including Barbara Boeing, Behrang Mohammadi, Carly Zeng and Ekaliff and 2 more. See dates, start times and who's playing. Bergsgatan 29, 214 22 Malmö, Sweden.
+Inkonst is a music venue in Malmo listed on soundcheck. 9 upcoming gigs, with line-ups including Barbara Boeing, Behrang Mohammadi, Carly Zeng and Ekaliff and 2 more. See dates, start times and who's playing. Bergsgatan 29, 214 22 Malmö, Sweden.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Kontra-Musik Release Club: TM404 & Ulf Eriksson |  |
 | Thu, 12 Nov 2026 | TEKNO Festival | Sóley |
 | Fri, 13 Nov 2026 | Feeler Rec TEKNO Takeover | Ekaliff |
 | Sat, 14 Nov 2026 | Fredfades b2b Barbara Boeing (BR) | Barbara Boeing, Fredfades |
@@ -23,4 +22,4 @@ Inkonst is a music venue in Malmo listed on soundcheck. 10 upcoming gigs, with l
 
 Bergsgatan 29, 214 22 Malmö, Sweden, Malmo
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/malmo/club/inkonst/)*

@@ -1,6 +1,6 @@
 # Toto Chiavetta
 
-Toto Chiavetta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
+Toto Chiavetta is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Kater, Berlin on Sat, 28 Nov 2026.
 
 Toto Chiavetta is a techno and house artist based in Italy, with 41 gigs on soundcheck across Amsterdam, Bali, Berlin and Bogotá and 23 more. Often billed alongside Agents Of Time, Brina Knauss and Henri Bergmann. Next up: Kater, Berlin on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ Toto Chiavetta is a techno and house artist based in Italy, with 41 gigs on soun
 
 Agents Of Time, Brina Knauss, Henri Bergmann
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totochiavetta/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/totochiavetta/)*

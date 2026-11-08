@@ -1,6 +1,6 @@
 # RTGL
 
-RTGL is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Tunnel, Milan on Sat, 14 Nov 2026.
+RTGL is a Electronica and Tech House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Tunnel, Milan on Sat, 14 Nov 2026.
 
 RTGL is an electronica and tech house artist, with 26 gigs on soundcheck across Milan. Often billed alongside Aznamir, Buza and KAT3X. Next up: Tunnel, Milan on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ RTGL is an electronica and tech house artist, with 26 gigs on soundcheck across 
 
 Aznamir, Buza, KAT3X
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rtgl/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/rtgl/)*

@@ -1,6 +1,6 @@
 # Martinignaccio
 
-Martinignaccio is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 12 Nov 2026.
+Martinignaccio is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Thu, 12 Nov 2026.
 
 Martinignaccio is an afro house and house artist based in Argentina, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Moonvvater, Deiv Schon and HIDRA. Next up: F8 1192 Folsom, San Francisco/Oakland on Thu 12 Nov.
 
@@ -25,4 +25,4 @@ Martinignaccio is an afro house and house artist based in Argentina, with 12 gig
 
 Moonvvater, Deiv Schon, HIDRA
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinignaccio/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martinignaccio/)*

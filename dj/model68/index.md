@@ -1,18 +1,18 @@
 # Model 68
 
-Model 68 is a Tech House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Dom Technika, Poznan on Sat, 7 Nov 2026.
+Model 68 is a Tech House and Minimal artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dom Technika, Poznan on Sat, 21 Nov 2026.
 
-Model 68 is a tech house and minimal artist based in Poland, with 8 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside Rhuth, Robert Błaszczyk and CL-ljud. Next up: Dom Technika, Poznan on Sat 7 Nov.
+Model 68 is a tech house and minimal artist based in Poland, with 8 gigs on soundcheck across Poznan, Warsaw and Wroclaw. Often billed alongside Rhuth, Robert Błaszczyk and CL-ljud. Next up: Dom Technika, Poznan on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Dom Technika | Poznan |
 | Sat, 21 Nov 2026 | Dom Technika | Poznan |
 
 ## Recently played
 
+- Dom Technika, Poznan · Sat, 7 Nov 2026
 - Dom Technika, Poznan · Sat, 12 Sept 2026
 - ŚLINA, Poznan · Sat, 28 Feb 2026
 - VVOSK RECORDS, Warsaw · Fri, 27 Feb 2026
@@ -24,4 +24,4 @@ Model 68 is a tech house and minimal artist based in Poland, with 8 gigs on soun
 
 Rhuth, Robert Błaszczyk, CL-ljud
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/model68/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/model68/)*

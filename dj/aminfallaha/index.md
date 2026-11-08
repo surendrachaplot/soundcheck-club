@@ -1,6 +1,6 @@
 # Amin Fallaha
 
-Amin Fallaha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
+Amin Fallaha is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at ://about blank, Berlin on Fri, 4 Dec 2026.
 
 Amin Fallaha is a techno and house artist based in Germany, with 31 gigs on soundcheck across Barcelona, Berlin and Frankfurt. Often billed alongside Caroux, Eluzid and Ones.. Next up: ://about blank, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Amin Fallaha is a techno and house artist based in Germany, with 31 gigs on soun
 
 Caroux, Eluzid, Ones.
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aminfallaha/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/aminfallaha/)*

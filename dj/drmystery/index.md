@@ -1,6 +1,6 @@
 # DR MYSTERY
 
-DR MYSTERY is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at renae, Manchester on Sat, 28 Nov 2026.
+DR MYSTERY is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at renae, Manchester on Sat, 28 Nov 2026.
 
 DR MYSTERY is a techno and bass artist based in Latvia, with 34 gigs on soundcheck across London, Manchester, Riga and Sheffield. Often billed alongside Obeka, Henzo and KD22LR. Next up: renae, Manchester on Sat 28 Nov.
 
@@ -26,4 +26,4 @@ DR MYSTERY is a techno and bass artist based in Latvia, with 34 gigs on soundche
 
 Obeka, Henzo, KD22LR
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drmystery/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/drmystery/)*

@@ -1,18 +1,18 @@
 # Bambi Uzi
 
-Bambi Uzi is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat, 7 Nov 2026.
+Bambi Uzi is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Crackhouse, Gdansk on Fri, 20 Nov 2026.
 
-Bambi Uzi is a drum & bass and bass artist based in Poland, with 52 gigs on soundcheck across Berlin, Brighton, Cork and Gdansk and 6 more. Often billed alongside Alegria, k.o (PL) and Abuelita. Next up: Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw on Sat 7 Nov.
+Bambi Uzi is a drum & bass and bass artist based in Poland, with 52 gigs on soundcheck across Berlin, Brighton, Cork and Gdansk and 6 more. Often billed alongside Alegria, k.o (PL) and Abuelita. Next up: Crackhouse, Gdansk on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 7 Nov 2026 | Kino Iluzjon Muzeum Sztuki Filmowej | Warsaw |
 | Fri, 20 Nov 2026 | Crackhouse | Gdansk |
 
 ## Recently played
 
+- Kino Iluzjon Muzeum Sztuki Filmowej, Warsaw · Sat, 7 Nov 2026
 - SCHRON, Poznan · Sat, 24 Oct 2026
 - TBA - DOKI 1, Gdansk · Fri, 2 Oct 2026
 - Pod Gigantami nad Wisłą, Warsaw · Sun, 30 Aug 2026
@@ -20,10 +20,9 @@ Bambi Uzi is a drum & bass and bass artist based in Poland, with 52 gigs on soun
 - Nurt Poznan, Poznan · Sat, 15 Aug 2026
 - Jasna 1, Warsaw · Fri, 31 Jul 2026
 - BarKa, Warsaw · Thu, 18 Jun 2026
-- SCHRON, Poznan · Sat, 16 May 2026
 
 ## Shares bills with
 
 Alegria, k.o (PL), Abuelita
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuzi/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuzi/)*

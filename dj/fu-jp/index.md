@@ -1,6 +1,6 @@
 # FU (JP)
 
-FU (JP) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
+FU (JP) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 13 Nov 2026.
 
 FU (JP) is a house and techno artist based in Japan, with 70 gigs on soundcheck across Bangkok, Guadalajara, Hamburg and Istanbul and 4 more. Often billed alongside Joe O, CHIDA and Hanzo Tono. Next up: MIDNIGHT EAST, Tokyo on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ FU (JP) is a house and techno artist based in Japan, with 70 gigs on soundcheck 
 
 Joe O, CHIDA, Hanzo Tono
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fu-jp/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/fu-jp/)*

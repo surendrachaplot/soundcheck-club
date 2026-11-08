@@ -1,6 +1,6 @@
 # Marie Dior
 
-Marie Dior is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
+Marie Dior is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Arroz Estúdios, Lisbon on Wed, 11 Nov 2026.
 
 Marie Dior is an electronica and experimental artist based in Germany, with 6 gigs on soundcheck across Berlin and Lisbon. Often billed alongside A lake by the mõõn, 7777 の天使 and Aires. Next up: Arroz Estúdios, Lisbon on Wed 11 Nov.
 
@@ -22,4 +22,4 @@ Marie Dior is an electronica and experimental artist based in Germany, with 6 gi
 
 A lake by the mõõn, 7777 の天使, Aires
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedior/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mariedior/)*

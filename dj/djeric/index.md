@@ -1,6 +1,6 @@
 # Eric (UA)
 
-Eric (UA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
+Eric (UA) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at TILLATEC, Amsterdam on Fri, 6 Nov 2026.
 
 Eric (UA) is a techno and house artist based in Ukraine, with 10 gigs on soundcheck across Amsterdam, Berlin, Warsaw and Zurich. Often billed alongside Elnur, ACID FLORA and Animal Trainer. Next up: TILLATEC, Amsterdam on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Eric (UA) is a techno and house artist based in Ukraine, with 10 gigs on soundch
 
 Elnur, ACID FLORA, Animal Trainer
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeric/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/djeric/)*

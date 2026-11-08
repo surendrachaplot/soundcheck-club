@@ -1,13 +1,14 @@
 # ANSY
 
-ANSY is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at TBA - OBLK, Sofia on Sat, 21 Nov 2026.
+ANSY is a Techno and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Купе / Kupe, Sofia on Sat, 14 Nov 2026.
 
-ANSY is a techno and downtempo artist based in Bulgaria, with 6 gigs on soundcheck across Sofia. Often billed alongside Royal Flush, ALICE VR and ARLECIN. Next up: TBA - OBLK, Sofia on Sat 21 Nov.
+ANSY is a techno and downtempo artist based in Bulgaria, with 7 gigs on soundcheck across Sofia. Often billed alongside LPG, Royal Flush and ALICE VR. Next up: Купе / Kupe, Sofia on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Купе / Kupe | Sofia |
 | Sat, 21 Nov 2026 | TBA - OBLK | Sofia |
 
 ## Recently played
@@ -20,6 +21,6 @@ ANSY is a techno and downtempo artist based in Bulgaria, with 6 gigs on soundche
 
 ## Shares bills with
 
-Royal Flush, ALICE VR, ARLECIN
+LPG (2), Royal Flush, ALICE VR
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ansy/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/ansy/)*

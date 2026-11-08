@@ -1,6 +1,6 @@
 # Spriitzz
 
-Spriitzz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Paradigm, Netherlands on Sat, 27 Feb 2027.
+Spriitzz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Paradigm, Netherlands on Sat, 27 Feb 2027.
 
 Spriitzz is a techno and house artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Belfast, Brussels and Cork and 7 more. Often billed alongside Spray, Mall Grab and Sally C. Next up: Paradigm, Netherlands on Sat 27 Feb.
 
@@ -25,4 +25,4 @@ Spriitzz is a techno and house artist based in Germany, with 14 gigs on soundche
 
 Spray, Mall Grab, Sally C
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spriitzz/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/spriitzz/)*

@@ -1,6 +1,6 @@
 # [119]
 
-[119] is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sat, 7 Nov 2026. The next is "Core Memories" on Sat, 28 Nov 2026.
+[119] is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. The next is "Core Memories" on Sat, 28 Nov 2026.
 
 [119] is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Act One, Afgang, Agata (PL) and AYIM and 2 more. See dates, start times and who's playing. Storkower Straße 119, 10407 Berlin.
 
@@ -16,4 +16,4 @@
 
 Storkower Straße 119, 10407 Berlin, Berlin
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/119/)*

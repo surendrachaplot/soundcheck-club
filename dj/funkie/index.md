@@ -1,6 +1,6 @@
 # Funkie
 
-Funkie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
+Funkie is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at OIL Club, Shenzhen on Sat, 5 Dec 2026.
 
 Funkie is a techno and club artist based in China, with 27 gigs on soundcheck across Beijing and Shenzhen. Often billed alongside Nebulae, DJ 86 and Fatalis. Next up: OIL Club, Shenzhen on Sat 5 Dec.
 
@@ -25,4 +25,4 @@ Funkie is a techno and club artist based in China, with 27 gigs on soundcheck ac
 
 Nebulae, DJ 86, Fatalis
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkie/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/funkie/)*

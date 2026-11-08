@@ -1,13 +1,14 @@
 # AMY (BG)
 
-AMY (BG) is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Nivo, Sofia on Fri, 27 Nov 2026.
+AMY (BG) is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Sun, 8 Nov 2026. Next at Купе / Kupe, Sofia on Sat, 14 Nov 2026.
 
-AMY (BG) is a techno and industrial artist based in Bulgaria, with 22 gigs on soundcheck across Berlin and Sofia. Often billed alongside KASSIS, Arweenn and ALICE VR. Next up: Nivo, Sofia on Fri 27 Nov.
+AMY (BG) is a techno and industrial artist based in Bulgaria, with 23 gigs on soundcheck across Berlin and Sofia. Often billed alongside KASSIS, Arweenn and ALICE VR. Next up: Купе / Kupe, Sofia on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Купе / Kupe | Sofia |
 | Fri, 27 Nov 2026 | Nivo | Sofia |
 
 ## Recently played
@@ -25,4 +26,4 @@ AMY (BG) is a techno and industrial artist based in Bulgaria, with 22 gigs on so
 
 KASSIS, Arweenn, ALICE VR
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amy-bg/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/amy-bg/)*

@@ -1,6 +1,6 @@
 # Wookie
 
-Wookie is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. Next at Dahlia Stereo, Manchester on Tue, 29 Dec 2026.
+Wookie is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. Next at Dahlia Stereo, Manchester on Tue, 29 Dec 2026.
 
 Wookie is a garage and house artist based in United Kingdom, with 37 gigs on soundcheck across Birmingham, Edinburgh, Liverpool and London and 3 more. Often billed alongside Matt Jam Lamont, DJ Spoony and Mark Radford. Next up: Dahlia Stereo, Manchester on Tue 29 Dec.
 
@@ -25,4 +25,4 @@ Wookie is a garage and house artist based in United Kingdom, with 37 gigs on sou
 
 Matt Jam Lamont, DJ Spoony, Mark Radford
 
-*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*
+*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/wookiedj/)*
