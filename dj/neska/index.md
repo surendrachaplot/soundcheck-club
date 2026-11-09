@@ -1,8 +1,8 @@
-# neska
+# Neska
 
-neska is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at export, Rotterdam on Sat, 14 Nov 2026.
+Neska is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at export, Rotterdam on Sat, 14 Nov 2026.
 
-neska is a techno and house artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 9 more. Often billed alongside Naone, dirtydms and BERTON. Next up: export, Rotterdam on Sat 14 Nov.
+Neska is a techno and house artist based in Spain, with 83 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Central and 9 more. Often billed alongside Naone, dirtydms and BERTON. Next up: export, Rotterdam on Sat 14 Nov.
 
 ## Upcoming shows
 

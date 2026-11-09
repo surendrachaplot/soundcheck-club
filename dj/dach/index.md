@@ -2,7 +2,7 @@
 
 Dach is a Techno and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Rebellion, Manchester on Thu, 31 Dec 2026.
 
-Dach is a techno and drum & bass artist, with 9 gigs on soundcheck across Berlin, Guadalajara, Manchester and Zagreb. Often billed alongside Brizze, DaSoMaZo and Jordan.nsx. Next up: Rebellion, Manchester on Thu 31 Dec.
+Dach is a techno and drum & bass artist based in Croatia, with 9 gigs on soundcheck across Berlin, Guadalajara, Manchester and Zagreb. Often billed alongside Brizze, DaSoMaZo and Jordan.nsx. Next up: Rebellion, Manchester on Thu 31 Dec.
 
 ## Upcoming shows
 

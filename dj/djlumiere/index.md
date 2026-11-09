@@ -1,14 +1,15 @@
 # DJ Lumiere
 
-DJ Lumiere is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 14 Nov 2026.
+DJ Lumiere is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bukanyr Boat, Prague on Sat, 14 Nov 2026.
 
-DJ Lumiere is a house and techno artist based in Czech Republic, with 62 gigs on soundcheck across Prague. Often billed alongside Ondrej K, Hugorieri and Daniel Neighbour. Next up: Bukanyr Boat, Prague on Sat 14 Nov.
+DJ Lumiere is a house and techno artist based in Czech Republic, with 63 gigs on soundcheck across Prague. Often billed alongside Ondrej K, Hugorieri and Daniel Neighbour. Next up: Bukanyr Boat, Prague on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Bukanyr Boat | Prague |
+| Sat, 5 Dec 2026 | Bukanyr Boat | Prague |
 
 ## Recently played
 

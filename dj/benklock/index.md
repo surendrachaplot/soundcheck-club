@@ -1,8 +1,8 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fuse, Brussels on Sat, 14 Nov 2026.
+Ben Klock is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fuse, Brussels on Sat, 14 Nov 2026.
 
-Ben Klock is a techno and house artist based in Germany, with 305 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 75 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: Fuse, Brussels on Sat 14 Nov.
+Ben Klock is a techno and house artist based in Germany, with 306 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 75 more. Often billed alongside Fadi Mohem, Marcel Dettmann and Rødhåd. Next up: Fuse, Brussels on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Ben Klock is a techno and house artist based in Germany, with 305 gigs on soundc
 | Fri, 18 Dec 2026 | Gate Milano | Milan |
 | Sat, 19 Dec 2026 | Open Ground | Wuppertal |
 | Sat, 19 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 13 Feb 2027 | Fuse | Brussels |
 | Sat, 20 Feb 2027 | TBA - Warehouse Location | Toronto |
-| Sat, 27 Mar 2027 | NDSM Docklands | Amsterdam |
 
 ## Recently played
 

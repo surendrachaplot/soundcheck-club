@@ -2,7 +2,7 @@
 
 Insical is a Techno and Deep House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Los Angeles, Los Angeles on Thu, 31 Dec 2026.
 
-Insical is a techno and deep house artist, with 18 gigs on soundcheck across Los Angeles. Often billed alongside Frida Henson, GiGi and JIA. Next up: TBA - Los Angeles, Los Angeles on Thu 31 Dec.
+Insical is a techno and deep house artist based in United States of America, with 18 gigs on soundcheck across Los Angeles. Often billed alongside Frida Henson, GiGi and JIA. Next up: TBA - Los Angeles, Los Angeles on Thu 31 Dec.
 
 ## Upcoming shows
 

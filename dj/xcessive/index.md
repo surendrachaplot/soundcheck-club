@@ -1,13 +1,14 @@
 # xcessive
 
-xcessive is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Smolna, Warsaw on Sat, 14 Nov 2026.
+xcessive is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Smolna, Warsaw on Sat, 14 Nov 2026.
 
-xcessive is a techno and trance artist based in Poland, with 49 gigs on soundcheck across Bucharest, Hamburg, Krakow and Malta and 3 more. Often billed alongside marcelitumelis, SCHELLT and Józef Keuner. Next up: Smolna, Warsaw on Sat 14 Nov.
+xcessive is a techno and trance artist based in Poland, with 50 gigs on soundcheck across Bucharest, Hamburg, Krakow and Malta and 3 more. Often billed alongside marcelitumelis, SCHELLT and VRAXX. Next up: Smolna, Warsaw on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Smolna | Warsaw |
 | Sat, 14 Nov 2026 | Smolna | Warsaw |
 | Fri, 20 Nov 2026 | SCHRON | Poznan |
 
@@ -24,6 +25,6 @@ xcessive is a techno and trance artist based in Poland, with 49 gigs on soundche
 
 ## Shares bills with
 
-marcelitumelis, SCHELLT, Józef Keuner
+marcelitumelis, SCHELLT, VRAXX
 
 *Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/xcessive/)*

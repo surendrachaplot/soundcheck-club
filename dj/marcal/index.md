@@ -11,7 +11,7 @@ Marcal is a techno and house artist based in Brazil, with 117 gigs on soundcheck
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
 | Sat, 26 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
-| Thu, 31 Dec 2026 | TBA | Lisbon |
+| Thu, 31 Dec 2026 | TBA - Lisboa | Lisbon |
 | Fri, 1 Jan 2027 | ELYSIUM SEVILLA | South |
 | Wed, 27 Jan 2027 | TBA - Brooklyn | New York City |
 

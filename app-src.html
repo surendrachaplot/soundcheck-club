@@ -3244,7 +3244,6 @@ a.fst-t:hover{text-decoration:underline}
 .bio-src:hover{text-decoration:underline}
 /* "You caught them" (Paper NEXT 30 Oct, one left edge): a sibling of Friends inside
    .fp-hx, so it shares the text column at every width. Same heading as Friends. */
-.fp-hero > .fp-hx > .ap-seen{align-self:stretch;max-width:680px}
 /* YOUR OWN LOG of this night, on the EVENT page. The apps have had this since
    the diary shipped; web returned `ev.mine` from the same endpoint and never
    drew it, so a night you had already written up went on offering "log a gig"
@@ -3329,7 +3328,83 @@ a.fst-t:hover{text-decoration:underline}
 .ev-mine-acts{font:500 var(--fs-sm)/var(--lh-sm) var(--body);color:var(--muted);margin-top:6px}
 .ev-mine-note{font:400 var(--fs-base)/var(--lh-base) var(--body);color:var(--muted);margin-top:6px}
 .ev-mine-edit{margin-top:10px;background:none;border:0;padding:0;cursor:pointer;font:800 var(--fs-2xs)/var(--lh-2xs) var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
-.ap-seen h3 span{margin-left:8px;font:500 var(--fs-base)/20px var(--body);letter-spacing:0;color:var(--lilac,#B8A8D0)}
+/* ═══ "You and <artist>" (founder 9 Nov 2026; Paper NEXT "V5 STAMPS · Artist web · STATE 1–5") ═══
+   Below the hero, on the hero's own grid from 760 up: the level under the picture (320), your gig stubs
+   and the stamp album under the words. Phones: one column, the album scrolls sideways. */
+.yas{display:flex;flex-direction:column;gap:24px;margin:28px 0 0;padding-top:28px;border-top:1px solid var(--border)}
+.yas[hidden]{display:none}
+.yas-l,.yas-r{display:flex;flex-direction:column;gap:16px;min-width:0}
+.yas-r{gap:24px}
+.yas-sec{display:flex;flex-direction:column;gap:12px;min-width:0}
+.yas-h{margin:0;font:800 20px/24px var(--head);letter-spacing:-.01em;color:var(--fg)}
+.yas-h span{margin-left:10px;font:500 var(--fs-base)/20px var(--body);letter-spacing:0;color:var(--muted)}
+.yas-hr{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.yas-all{flex:none;font:700 14px/18px var(--body);color:var(--muted);text-decoration:none}
+.yas-all:hover{color:var(--fg)}
+.yas-lv{display:flex;align-items:center;gap:18px}
+.yas-seal{position:relative;flex:none;width:104px;height:104px;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.yas-seal svg{position:absolute;inset:0;width:100%;height:100%;transform:rotate(-90deg)}
+.yas-seal circle{fill:none}
+.yas-seal .t{stroke:var(--line-2);stroke-width:5}
+.yas-seal .p{stroke:url(#rt-g);stroke-width:5;stroke-linecap:round;stroke-dasharray:301.6}
+.yas-seal .d{stroke:var(--line-2);stroke-width:1;stroke-dasharray:2 4}
+.yas-seal b{font:800 36px/36px var(--head);color:var(--fg)}
+.yas-seal span{font:700 9px/12px var(--font-mono);letter-spacing:.14em;color:var(--muted)}
+.yas-lt{display:flex;flex-direction:column;gap:4px;min-width:0}
+.yas-k{font:700 10px/12px var(--font-mono);letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+.yas-nm{font:800 34px/36px var(--head);letter-spacing:-.02em;background:var(--accent-grad);-webkit-background-clip:text;background-clip:text;color:transparent}
+.yas-to{font:500 14px/18px var(--body);color:var(--muted)}
+.yas-to b{color:var(--fg)}
+.yas-step{position:relative;height:40px;margin:0 6px}
+.yas-tr,.yas-dn{position:absolute;left:0;top:5px;height:2px}
+.yas-tr{right:0;background:var(--line-2)}
+.yas-dn{background:var(--accent-grad)}
+.yas-dot{position:absolute;top:0;width:12px;height:12px;margin-left:-6px;border-radius:50%;background:var(--bg);border:2px solid var(--line-2)}
+.yas-dot.on{border:0;background:var(--accent-grad)}
+.yas-dot.you{top:-3px;width:18px;height:18px;margin-left:-9px;border:3px solid #ff5e7e}
+.yas-dot em{position:absolute;top:22px;left:50%;transform:translateX(-50%);font:700 10px/12px var(--font-mono);font-style:normal;letter-spacing:.08em;text-transform:uppercase;white-space:nowrap;color:var(--muted)}
+.yas-dot.you em{top:25px;color:var(--fg)}
+.yas-dot:first-of-type em{left:0;transform:none}.yas-dot:last-of-type em{left:auto;right:0;transform:none}
+.yas-dot.you:first-of-type em{left:-3px}
+.ast-grid.yas-g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+@media(max-width:759.98px){.ast-grid.yas-g3{grid-template-columns:minmax(0,1fr)}}
+/* the album: postage stamps (cream paper, perforated edge, art, the part you heard, a postmark when you heard it all) */
+.yas-album{display:flex;gap:10px;overflow-x:auto;scrollbar-width:none;margin-right:calc(-1 * var(--gut,18px));padding-right:var(--gut,18px)}
+.yas-album::-webkit-scrollbar{display:none}
+.yst,.yst-more{flex:0 0 96px;display:flex;flex-direction:column;gap:6px;text-decoration:none}
+.yst-p{position:relative;width:96px;height:120px;padding:0;border:0;cursor:pointer;background:#fdf3ec url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='120'%3E%3Cdefs%3E%3Cpattern id='h' width='8' height='120' patternUnits='userSpaceOnUse'%3E%3Ccircle cx='4' cy='0' r='3.2' fill='%2316102a'/%3E%3Ccircle cx='4' cy='120' r='3.2' fill='%2316102a'/%3E%3C/pattern%3E%3Cpattern id='v' width='96' height='8' patternUnits='userSpaceOnUse'%3E%3Ccircle cx='0' cy='4' r='3.2' fill='%2316102a'/%3E%3Ccircle cx='96' cy='4' r='3.2' fill='%2316102a'/%3E%3C/pattern%3E%3C/defs%3E%3Crect width='96' height='120' fill='url(%23h)'/%3E%3Crect width='96' height='120' fill='url(%23v)'/%3E%3C/svg%3E") 0 0/96px 120px no-repeat;-webkit-tap-highlight-color:transparent}
+.yst-p:focus-visible{outline:2px solid var(--sel);outline-offset:3px}
+.yst-a{position:absolute;left:8px;top:8px;width:80px;height:80px;overflow:hidden;background:var(--surface-2) center/cover no-repeat}
+.yst-a svg{width:100%;height:100%}
+.yst-bar{position:absolute;left:8px;top:96px;width:80px;height:3px;background:rgba(42,13,20,.15)}
+.yst-bar i{display:block;height:100%;background:var(--accent-grad)}
+.yst-m{position:absolute;left:8px;top:103px;width:80px;display:flex;justify-content:space-between;font:700 9px/11px var(--font-mono);letter-spacing:.06em;color:var(--ink)}
+.yst-m span+span{opacity:.55}
+.yst-pm{position:absolute;left:52px;top:46px;width:46px;height:46px;transform:rotate(-12deg);overflow:visible;fill:none;stroke:url(#rt-g);stroke-width:2}
+.yst-pm .i{stroke-width:1}.yst-pm path{stroke-width:1.6}
+.yst-u{display:flex;flex-direction:column;gap:2px;min-height:30px}
+.yst-u .rt-5{display:flex;gap:1px;height:16px;align-items:center}
+.yst-u .rt-5 .rt-s{width:12px;height:12px}
+.yst-rt{display:inline-flex;align-items:center;gap:3px;align-self:flex-start;min-height:16px;padding:0;border:0;background:none;cursor:pointer;font:700 12px/16px var(--body);color:var(--muted)}
+.yst-rt .rt-s{width:12px;height:12px}
+.yst-l{font:700 12px/16px var(--body);color:var(--muted)}
+.yst-d{font:700 10px/12px var(--font-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);opacity:.75}
+.yst-e{width:96px;height:120px;flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:4px;border:1.5px dashed var(--border)}
+.yst-e b{font:800 22px/24px var(--head);color:var(--line-2)}
+.yst-e span{font:700 9px/11px var(--font-mono);letter-spacing:.12em;text-transform:uppercase;color:var(--line-2)}
+.yst-next .yst-e{border-color:var(--line-2)}
+.yst-next .yst-e svg{width:18px;height:18px;fill:var(--muted)}
+.yst-next .yst-e span{color:var(--muted)}
+.yst-more .yst-e{border-color:var(--line-2)}
+.yst-more .yst-e b{font-size:26px;line-height:28px;color:var(--fg)}
+.yst-more .yst-e span{color:var(--muted)}
+.yst-empty{min-height:156px}
+@media(min-width:760px){
+  .yas{flex-direction:row;gap:48px;margin:32px 0 0;padding-top:32px}
+  .yas-l{flex:0 0 320px}
+  .yas-r{flex:1 1 0}
+  .yas-album{justify-content:space-between;overflow:visible;margin-right:0;padding-right:0}
+}
 .ast-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
 @media(max-width:759.98px){.ast-grid{grid-template-columns:minmax(0,1fr)}}
 /* the small stub: the diary stub's paper, notches and tear-off, 64 tall. Tap = the full stub */
@@ -5441,7 +5516,7 @@ a.fst-t:hover{text-decoration:underline}
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1794066265088">
+<meta name="sc-build" content="1794242908690">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20171%20cities" />
 </head>
@@ -5501,7 +5576,7 @@ a.fst-t:hover{text-decoration:underline}
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-07/">Sat 7 Nov <span class="c">139 events</span></a></li><li><a href="/london/2026-11-08/">Sun 8 Nov <span class="c">25 events</span></a></li><li><a href="/london/2026-11-09/">Mon 9 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">12 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">36 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">106 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-11-09/">Mon 9 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-10/">Tue 10 Nov <span class="c">5 events</span></a></li><li><a href="/london/2026-11-11/">Wed 11 Nov <span class="c">13 events</span></a></li><li><a href="/london/2026-11-12/">Thu 12 Nov <span class="c">36 events</span></a></li><li><a href="/london/2026-11-13/">Fri 13 Nov <span class="c">107 events</span></a></li><li><a href="/london/2026-11-14/">Sat 14 Nov <span class="c">134 events</span></a></li><li><a href="/london/2026-11-15/">Sun 15 Nov <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 171 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          h1 in the DOM (on home and city pages; build-seo makes it an h2 elsewhere), so it is
@@ -8774,6 +8849,12 @@ a.fst-t:hover{text-decoration:underline}
         if(w.dataset.rk!==k) return;
         var l=w.querySelector('.fp-sk-rt'), b=w.querySelector('.fp-sk-rtb');
         if(l) l.innerHTML=rtLineHTML(k); if(b) b.innerHTML=rtBtnHTML(k);
+      });
+      // the stamps on an artist page ("You and <artist>"): Rate it ⇄ your stars
+      document.querySelectorAll('.yst-rt[data-k], .yst[data-k]').forEach(function(el){
+        var w=el.closest('.yst'); if(!w || (w.dataset.k||el.dataset.k)!==k) return; w.dataset.k=k;
+        var m=_rt.mine[k], u=w.querySelector('.yst-u'), first=u&&u.firstElementChild; if(!first) return;
+        if(m){ var st=''; for(var i=1;i<=5;i++) st+=rtS(i<=m?'on':'off'); first.outerHTML='<span class="rt-5">'+st+'</span>'; }
       });
       rtDockPaint();
     }
@@ -13437,6 +13518,89 @@ a.fst-t:hover{text-decoration:underline}
     // D5 review helpers — one aggregate stat + one 1–5 picker row.
     // country code for a city slug (→ flag), via the baked CITY_LIST
     function cityCC(slug){ if(!slug || typeof CITY_LIST==='undefined') return ''; for(var i=0;i<CITY_LIST.length;i++){ if(CITY_LIST[i].slug===slug) return CITY_LIST[i].country||''; } return ''; }
+    // ── "You and <artist>" (founder 9 Nov 2026, Paper NEXT "V5 STAMPS · Artist web · STATE 1–5") ──
+    // Your gig stubs with this artist, a postage stamp for every set of theirs you played (any play =
+    // a saved place, see RESUME), and a level from the two together. No gigs and no sets = no block.
+    // ponytail: stamps = their set list ∩ your saved places (the 400 newest, synced); no new API.
+    var YAS_LV=[[1,'First stamp'],[5,'Regular'],[10,'Devotee'],[25,'Lifer']], YAS_PLACES=7;
+    function yasLevel(n){
+      var i=0; while(i<YAS_LV.length-1 && n>=YAS_LV[i+1][0]) i++;
+      var nx=YAS_LV[i+1]||null;
+      return { i:i, name:YAS_LV[i][1], next:nx, f:nx ? Math.max(0,Math.min(1,(n-YAS_LV[i][0])/(nx[0]-YAS_LV[i][0]))) : 1 };
+    }
+    function yasDay(ms){ var d=new Date(ms); return isNaN(d) ? '' : (d.getDate()+' '+['JAN','FEB','MAR','APR','MAY','JUN','JUL','AUG','SEP','OCT','NOV','DEC'][d.getMonth()]); }
+    function yasStampHTML(s){
+      var pct=Math.round(s.f*100), m=_rt.mine[s.k], stars='';
+      if(m){ for(var i=1;i<=5;i++) stars+=rtS(i<=m?'on':'off'); }
+      return '<div class="yst" data-k="'+esc(s.k)+'"><button class="yst-p" type="button" data-i="'+s.i+'" aria-label="'+attrEsc('Play '+(s.it.title||'this set')+', '+(pct>=100?'heard it all':pct+'% heard'))+'">'+
+          '<span class="yst-a"'+(s.it.thumb?' style="background-image:url(\''+esc(s.it.thumb)+'\')"':'')+'>'+(s.it.thumb?'':genPoster(s.it.title||'Set'))+'</span>'+
+          '<span class="yst-bar"><i style="width:'+pct+'%"></i></span>'+
+          '<span class="yst-m"><span>'+pct+'%</span><span>'+esc(s.it.badge||'')+'</span></span>'+
+          (pct>=100?'<svg class="yst-pm" viewBox="0 0 46 46" aria-hidden="true"><circle cx="23" cy="23" r="17"/><circle cx="23" cy="23" r="12.5" class="i"/><path d="M-6 18q5-3 10 0t10 0M-6 23q5-3 10 0t10 0M-6 28q5-3 10 0t10 0"/></svg>':'')+
+        '</button>'+
+        '<span class="yst-u">'+(m?'<span class="rt-5">'+stars+'</span>':'<button class="yst-rt" type="button" data-k="'+esc(s.k)+'" data-i="'+s.i+'">'+rtS('off')+'Rate it</button>')+
+        '<span class="yst-d">'+esc(yasDay(s.t))+'</span></span></div>';
+    }
+    async function apYouMount(slug, a){
+      var box=document.getElementById('ap-you'); if(!box || !currentUser) return;
+      var nm=a.name||slug;
+      var got=await Promise.all([
+        authedFetch('/api/artist/seen?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).catch(function(){ return {}; }),
+        artistSetItems(slug, nm).catch(function(){ return { items:[] }; })
+      ]);
+      if(!document.body.contains(box)) return;
+      var nights=got[0].nights||[], items=(got[1]&&got[1].items)||[], ra=resAll(), st=[];
+      items.forEach(function(it, i){
+        var k=resKeyOf(it.kind==='yt' ? 'https://youtu.be/'+it.videoId : (it.url||'')), s=k&&ra[k];
+        if(s && s[0]>5) st.push({ it:it, i:i, k:k, f:(s[1]>0 && s[0]<s[1]-RES_END) ? Math.min(1,s[0]/s[1]) : 1, t:s[2]||0 });
+      });
+      st.sort(function(x,y){ return y.t-x.t; });
+      var total=nights.length+st.length;
+      if(!total){ box.hidden=true; return; }   // state 1: nothing with them yet = no block
+      // your stars on the stamps: the same /api/ratings/get the set rows use
+      var ask=st.map(function(s){ return s.k; }).filter(function(k){ return !(k in _rt.mine); });
+      if(ask.length) await authedFetch('/api/ratings/get',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ keys:ask.slice(0,100) }) })
+        .then(function(r){ return r.ok?r.json():null; }).then(function(j){ if(j){ Object.assign(_rt.mine, j.mine||{}); Object.assign(_rt.agg, j.agg||{}); } }).catch(function(){});
+      var lv=yasLevel(total), steps=YAS_LV.length-1, done=(lv.i+lv.f)/steps*100;
+      var left='<div class="yas-l"><h3 class="yas-h">You and '+esc(nm)+'</h3>'+
+        '<div class="yas-lv"><div class="yas-seal"><svg viewBox="0 0 104 104" aria-hidden="true"><circle cx="52" cy="52" r="48" class="t"/><circle cx="52" cy="52" r="48" class="p" style="stroke-dashoffset:'+(301.6*(1-(lv.next?lv.f:1))).toFixed(1)+'"/><circle cx="52" cy="52" r="39" class="d"/></svg><b>'+total+'</b><span>'+(total===1?'STAMP':'STAMPS')+'</span></div>'+
+          '<div class="yas-lt"><span class="yas-k">Level '+(lv.i+1)+' of '+YAS_LV.length+'</span><b class="yas-nm">'+esc(lv.name)+'</b>'+
+          '<span class="yas-to">'+(lv.next ? (lv.next[0]-total)+' more stamp'+(lv.next[0]-total===1?'':'s')+' to <b>'+esc(lv.next[1])+'</b>' : 'The top level')+'</span></div></div>'+
+        '<div class="yas-step" role="img" aria-label="'+attrEsc('Level '+(lv.i+1)+' of '+YAS_LV.length+': '+lv.name)+'"><i class="yas-tr"></i><i class="yas-dn" style="width:'+done.toFixed(1)+'%"></i>'+
+          YAS_LV.map(function(L, j){ return '<span class="yas-dot'+(j<lv.i?' on':j===lv.i?' you':'')+'" style="left:'+(j/steps*100).toFixed(2)+'%"><em>'+esc(L[1].replace(' stamp',''))+'</em></span>'; }).join('')+
+        '</div></div>';
+      var right='<div class="yas-r">';
+      if(nights.length){
+        // the live "You caught them" stubs, unchanged (Paper NEXT 30 Oct, B). No count at one gig: the stub says it.
+        right+='<div class="yas-sec"><h3 class="yas-h">You caught them'+(nights.length>1?'<span>'+nights.length+'×</span>':'')+'</h3><div class="ast-grid'+(nights.length>2?' yas-g3':'')+'">'+nights.map(function(g){
+          _diaryById[g.id]=g;
+          var eye=[dstDay(g), g.city?cityLabel(g.city):''].filter(Boolean).join(' · '), v=g.venue||dstTitle(g);
+          return '<button class="ast" type="button" data-entry="'+esc(String(g.id))+'" aria-label="'+attrEsc(dstTitle(g)+', '+eye+', open the stub')+'">'+
+            '<span class="ast-p"'+(g.poster_url?' style="background-image:url(\''+esc(imgUrl(g.poster_url,160))+'\')"':'')+'>'+(g.poster_url?'':esc(v.trim().charAt(0).toUpperCase()))+'</span>'+
+            '<span class="ast-b"><span class="ast-e">'+esc(eye)+'</span><span class="ast-v">'+esc(v)+'</span></span>'+
+            (g.gig_no!=null?'<span class="ast-n">Nº '+esc(String(g.gig_no))+'</span>':'')+'</button>';
+        }).join('')+'</div></div>';
+      }
+      // The stamp album: always YAS_PLACES places. More stamps than places = the newest + "+N"; fewer = the next
+      // place says "play any set", the rest are faint empty places, the one that reaches the next level says so.
+      var cells=[], more=st.length>YAS_PLACES ? st.length-(YAS_PLACES-1) : 0;
+      (more ? st.slice(0,YAS_PLACES-1) : st).forEach(function(s){ cells.push(yasStampHTML(s)); });
+      if(more) cells.push('<a class="yst-more nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(currentUser.handle)+'/#diary')+'"><span class="yst-e"><b>+'+more+'</b><span>More sets</span></span><span class="yst-u"><span class="yst-l">Show all</span><span class="yst-d">'+st.length+' sets</span></span></a>');
+      else {
+        var lvAt=lv.next ? st.length+(lv.next[0]-total)-1 : -1;   // the place whose stamp reaches the next level
+        for(var p=st.length; p<YAS_PLACES; p++){
+          if(p===st.length) cells.push('<div class="yst yst-next"><span class="yst-e"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4l13 8-13 8z"/></svg><span>Next</span></span><span class="yst-u"><span class="yst-l">Play any set</span><span class="yst-d">= a stamp</span></span></div>');
+          else cells.push('<div class="yst yst-empty" aria-hidden="true"><span class="yst-e">'+(p===lvAt?'<b>'+lv.next[0]+'</b><span>'+esc(lv.next[1])+'</span>':'')+'</span></div>');
+        }
+      }
+      right+='<div class="yas-sec"><div class="yas-hr"><h3 class="yas-h">Set stamps<span>'+(st.length ? st.length+' set'+(st.length===1?'':'s') : 'none yet')+'</span></h3>'+
+          '<a class="yas-all nav" href="'+esc(SC_BASE+'u/'+encodeURIComponent(currentUser.handle)+'/#diary')+'">'+(total>1?'All '+total+' in your Diary':'Your Diary')+' &rarr;</a></div>'+
+        '<div class="yas-album">'+cells.join('')+'</div></div></div>';
+      box.innerHTML=left+right; box.hidden=false;
+      box.querySelectorAll('.ast').forEach(function(b){ b.addEventListener('click',function(){ dstOpen(_diaryById[b.dataset.entry], currentUser.handle, true); }); });
+      box.querySelectorAll('.yst-p').forEach(function(b){ b.addEventListener('click',function(){ playSetItem(items, +b.dataset.i, slug, nm, a.image); }); });
+      box.querySelectorAll('.yst-rt').forEach(function(b){ b.addEventListener('click',function(){ var it=items[+b.dataset.i]||{}; rtOpen(b, b.dataset.k, { title:it.title, thumb:it.thumb }); }); });
+    }
     async function openArtist(slug){
       /**
        * A tab hash belongs to the artist it was opened on, NOT to the next one.
@@ -13504,9 +13668,10 @@ a.fst-t:hover{text-decoration:underline}
                 '<button class="fp-ab" id="ap-list" data-ic="list" type="button" aria-label="Add to list"><span>List</span></button>'+
               '</div>'+
               '<div class="cue-st" id="ap-cues" hidden></div>'+
-              '<div class="cue-st ap-seen" id="ap-seen-panel" hidden></div>'+
             '</div>'+
-          '</div>';
+          '</div>'+
+          // "You and <artist>": your gig stubs + set stamps + level, on the hero's grid (apYouMount)
+          '<section class="yas" id="ap-you" hidden></section>';
         // Sections as in-page tabs — one URL, tap swaps the panel below (no reload). Only
         // tabs with content; "More like X" merges similar-sound + shares-bills artists.
         var up=a.upcoming||[], secTabs=[];
@@ -13581,26 +13746,7 @@ a.fst-t:hover{text-decoration:underline}
         // Upcoming + Past events → the SAME homepage card/list template (poster on desktop, .lvr list on mobile) — consistent with every other event list
         if(up.length){ var _auc=document.getElementById('ap-upcoming-cards'); if(_auc) mountDatedEventCards(document.getElementById('ap-upcoming-strip'), _auc, up, {showCity:true}); }
         if((a.history||[]).length){ var _apc=document.getElementById('ap-past-cards'); if(_apc) mountEventCards(_apc, a.history, {showCity:true}); }
-        if(currentUser){
-          var _anm=a.name||slug;
-          authedFetch('/api/artist/seen?slug='+encodeURIComponent(slug)).then(function(r){ return r.json(); }).then(function(sd){
-            var box=document.getElementById('ap-seen-panel'); if(!box) return;
-            var c=sd.count||0, nights=sd.nights||[];
-            if(c>0){
-              // Paper NEXT 30 Oct, B: a small stub each. No count at one gig: the stub says it.
-              box.innerHTML='<h3>You caught them'+(c>1?'<span>'+c+'×</span>':'')+'</h3><div class="ast-grid">'+nights.map(function(g){
-                _diaryById[g.id]=g;
-                var eye=[dstDay(g), g.city?cityLabel(g.city):''].filter(Boolean).join(' · '), v=g.venue||dstTitle(g);
-                return '<button class="ast" type="button" data-entry="'+esc(String(g.id))+'" aria-label="'+attrEsc(dstTitle(g)+', '+eye+', open the stub')+'">'+
-                  '<span class="ast-p"'+(g.poster_url?' style="background-image:url(\''+esc(imgUrl(g.poster_url,160))+'\')"':'')+'>'+(g.poster_url?'':esc(v.trim().charAt(0).toUpperCase()))+'</span>'+
-                  '<span class="ast-b"><span class="ast-e">'+esc(eye)+'</span><span class="ast-v">'+esc(v)+'</span></span>'+
-                  (g.gig_no!=null?'<span class="ast-n">Nº '+esc(String(g.gig_no))+'</span>':'')+'</button>';
-              }).join('')+'</div>';
-              box.hidden=false;
-              box.querySelectorAll('.ast').forEach(function(b){ b.addEventListener('click',function(){ dstOpen(_diaryById[b.dataset.entry], currentUser.handle, true); }); });
-            } else { box.hidden=true; }   // no empty-state nudge — Log a gig already lives in the header actions
-          }).catch(function(){});
-        }
+        if(currentUser) apYouMount(slug, a);
         // The "Sets" panel is filled lazily — one /api/youtube/sets call the first time it's shown.
         var _setsLoaded=false;
         function loadSetsTab(){

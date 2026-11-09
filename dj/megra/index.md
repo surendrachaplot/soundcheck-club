@@ -1,13 +1,14 @@
 # Megra
 
-Megra is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Centre Point, Dublin on Fri, 27 Nov 2026.
+Megra is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kaiku, Helsinki on Sat, 21 Nov 2026.
 
-Megra is a techno and house artist based in Sweden, with 30 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Brighton and 11 more. Often billed alongside Sam Alfred, Duskus and Faster Horses. Next up: Centre Point, Dublin on Fri 27 Nov.
+Megra is a techno and house artist based in Sweden, with 31 gigs on soundcheck across Amsterdam, Antwerp, Belfast and Brighton and 12 more. Often billed alongside Sam Alfred, Duskus and Faster Horses. Next up: Kaiku, Helsinki on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Kaiku | Helsinki |
 | Fri, 27 Nov 2026 | Centre Point | Dublin |
 | Sat, 30 Jan 2027 | Klokgebouw | Eindhoven |
 

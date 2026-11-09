@@ -1,14 +1,15 @@
 # GLASSBASS
 
-GLASSBASS is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Rollbergstr. 26 12053, Berlin on Fri, 13 Nov 2026.
+GLASSBASS is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Rollbergstr. 26 12053, Berlin on Fri, 13 Nov 2026.
 
-GLASSBASS is a techno and industrial artist based in Germany, with 60 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 7 more. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: TBA - Rollbergstr. 26 12053, Berlin on Fri 13 Nov.
+GLASSBASS is a techno and industrial artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Basel, Berlin and Budapest and 7 more. Often billed alongside Gabrielle (DE), ATR DJ-TEAM and JOTAno. Next up: TBA - Rollbergstr. 26 12053, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TBA - Rollbergstr. 26 12053 | Berlin |
+| Sat, 28 Nov 2026 | Turbina | Budapest |
 | Sat, 5 Dec 2026 | The Glove That Fits | London |
 
 ## Recently played

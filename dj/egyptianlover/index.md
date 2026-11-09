@@ -1,14 +1,15 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 3oz Dive Club, San Diego on Sat, 9 Jan 2027.
+Egyptian Lover is a Electro and House artist with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at 3oz Dive Club, San Diego on Sat, 9 Jan 2027.
 
-Egyptian Lover is an electro and house artist based in United States of America, with 110 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside DJ Godfather, FREAKENSTEIN and Binh. Next up: 3oz Dive Club, San Diego on Sat 9 Jan.
+Egyptian Lover is an electro and house artist based in United States of America, with 111 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 43 more. Often billed alongside DJ Godfather, FREAKENSTEIN and Binh. Next up: 3oz Dive Club, San Diego on Sat 9 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 9 Jan 2027 | 3oz Dive Club | San Diego |
+| Sat, 30 Jan 2027 | Luma | Milan |
 | Fri, 12 Feb 2027 | The Jazz Cafe | London |
 | Sat, 13 Feb 2027 | New Century Locker | Manchester |
 | Thu, 18 Feb 2027 | The Art School | Glasgow |

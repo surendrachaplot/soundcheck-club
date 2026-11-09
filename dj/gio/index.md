@@ -1,8 +1,8 @@
 # GI.O
 
-GI.O is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Sat, 14 Nov 2026.
+GI.O is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Sat, 14 Nov 2026.
 
-GI.O is a techno and trance artist based in Brazil, with 88 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 18 more. Often billed alongside Sabu!, The Jakob Sister and Cara Elizabeth. Next up: FVTVR, Paris on Sat 14 Nov.
+GI.O is a techno and trance artist based in Brazil, with 87 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 18 more. Often billed alongside Sabu!, The Jakob Sister and Cara Elizabeth. Next up: FVTVR, Paris on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,7 +11,6 @@ GI.O is a techno and trance artist based in Brazil, with 88 gigs on soundcheck a
 | Sat, 14 Nov 2026 | FVTVR | Paris |
 | Fri, 20 Nov 2026 | Südpol | Hamburg |
 | Sat, 21 Nov 2026 | Lokschuppen Berlin | Berlin |
-| Fri, 27 Nov 2026 | ÆDEN | Berlin |
 | Sun, 13 Dec 2026 | Blue Velvet | Berlin |
 | Sat, 19 Dec 2026 | La Cova | Hamburg |
 

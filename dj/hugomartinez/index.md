@@ -1,13 +1,14 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Pickle, Miami on Thu, 3 Dec 2026.
+Hugo Martinez is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Pacha Ibiza, Ibiza on Sat, 14 Nov 2026.
 
-Hugo Martinez is a house and techno artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 15 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: The Pickle, Miami on Thu 3 Dec.
+Hugo Martinez is a house and minimal artist based in Spain, with 86 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bordeaux and 15 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Pacha Ibiza, Ibiza on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Pacha Ibiza | Ibiza |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Sat, 5 Dec 2026 | Signal | New York City |
 | Thu, 21 Jan 2027 | Soundscapes Zanzi | Tanzania |

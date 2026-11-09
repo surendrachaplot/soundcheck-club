@@ -1,6 +1,6 @@
 # Spin San Diego
 
-Spin San Diego is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Sun, 8 Nov 2026. The next is "HOT/Liv! LA Clippers vs Golden State Warriors LiveStreams" on Sat, 7 Nov 2026.
+Spin San Diego is a music venue in San Diego with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "HOT/Liv! LA Clippers vs Golden State Warriors LiveStreams" on Sat, 7 Nov 2026.
 
 Spin San Diego is a music venue in San Diego listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Spin San Diego is a music venue in San Diego listed on soundcheck. 1 upcoming gi
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | HOT/Liv! LA Clippers vs Golden State Warriors LiveStreams |  |
 
-*Updated Sun, 8 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin-san-diego/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/sandiego/club/spin-san-diego/)*

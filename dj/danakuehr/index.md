@@ -9,7 +9,7 @@ Dana Kuehr is a house and techno artist based in United States of America, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | TBA - TBA | North |
-| Fri, 4 Dec 2026 | TBA | Lisbon |
+| Fri, 4 Dec 2026 | TBA - Lisboa | Lisbon |
 
 ## Recently played
 

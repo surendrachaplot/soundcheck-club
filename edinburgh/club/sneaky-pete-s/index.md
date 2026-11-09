@@ -17,7 +17,7 @@ Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 29 upcoming gi
 | Sun, 15 Nov 2026 | Postal: Amber Leith | Amber Leith |
 | Mon, 16 Nov 2026 | Konversion |  |
 | Wed, 18 Nov 2026 | Borley Room: Freddi | BORLEY, Freddi, Ryan Murphy (2) |
-| Thu, 19 Nov 2026 | Temperate Sounds: Into the Jungle | FIFI LA ROUX, Shep (2), YVI |
+| Thu, 19 Nov 2026 | Temperate Sounds: Into the Jungle | FIFI (2), Shep (2), YVI |
 
 ## Address
 

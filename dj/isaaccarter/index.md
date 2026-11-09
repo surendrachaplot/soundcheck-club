@@ -19,12 +19,12 @@ Isaac Carter is a house and deep house artist based in United Kingdom, with 103 
 
 - Chelmsford City Racecourse, London · Sun, 1 Nov 2026
 - The Loft, Manchester · Thu, 29 Oct 2026
+- Millenium Club, Bologna · Wed, 28 Oct 2026
 - NDSM Scheepsbouwloods, Amsterdam · Sun, 25 Oct 2026
 - Madam, Amsterdam · Thu, 22 Oct 2026
 - A'DAM Toren, Amsterdam · Wed, 21 Oct 2026
 - The Love Inn, Bristol · Sat, 17 Oct 2026
 - Tenuta Tor De' Sordi, Rome · Sat, 10 Oct 2026
-- MONKEY LOVE, Warsaw · Fri, 2 Oct 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # DRIFT - Perth / Boorloo at Ozone Reserve
 
-DRIFT - Perth / Boorloo at Ozone Reserve on Sun 28 Feb, Perth. 11 artists: Alycia Bezgo, CHRIS STASSY, Clouds and Cloudy and 7 more. See the line-up on soundcheck.
+DRIFT - Perth / Boorloo at Ozone Reserve on Sun 28 Feb, Perth. 11 artists: Alycia Bezgo, Chris Stussy, Clouds and Cloudy and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,7 @@ DRIFT - Perth / Boorloo at Ozone Reserve on Sun 28 Feb, Perth. 11 artists: Alyci
 ## Line-up
 
 - Alycia Bezgo
-- CHRIS STASSY
+- Chris Stussy
 - Clouds
 - Cloudy
 - DJ BORING

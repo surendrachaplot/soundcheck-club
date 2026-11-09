@@ -1,6 +1,6 @@
 # THE LINE presents CHRIS STASSY at Kaiserlounge Ellmau
 
-THE LINE presents CHRIS STASSY at Kaiserlounge Ellmau on Sat 26 Dec, Austria. 3 artists: CHRIS STASSY, Human Rias and Mino Abadier. See the line-up on soundcheck.
+THE LINE presents CHRIS STASSY at Kaiserlounge Ellmau on Sat 26 Dec, Austria. 3 artists: Chris Stussy, Human Rias and Mino Abadier. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ THE LINE presents CHRIS STASSY at Kaiserlounge Ellmau on Sat 26 Dec, Austria. 3 
 
 ## Line-up
 
-- CHRIS STASSY
+- Chris Stussy
 - Human Rias
 - Mino Abadier
 

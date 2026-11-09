@@ -1,8 +1,8 @@
 # Liquid Club
 
-Liquid Club is a music venue in Malta with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Kore Hypnotica - VINYL SESSION - Viktoria Spielmann, Yazmin, Andrea Giordani" on Fri, 13 Nov 2026.
+Liquid Club is a music venue in Malta with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Kore Hypnotica - VINYL SESSION - Viktoria Spielmann, Yazmin, Andrea Giordani" on Fri, 13 Nov 2026.
 
-Liquid Club is a music venue in Malta listed on soundcheck. 10 upcoming gigs, with line-ups including Alex Micca, Acidulant, Andrea Giordani and Anna Amato and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
+Liquid Club is a music venue in Malta listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Micca, Acidulant, Andrea Giordani and Anna Amato and 2 more. See dates, start times and who's playing. Triq Hal-Gharghur, San Ġwann, Malta.
 
 ## What's on
 

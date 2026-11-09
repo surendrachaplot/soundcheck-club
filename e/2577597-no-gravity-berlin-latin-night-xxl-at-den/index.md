@@ -1,6 +1,6 @@
 # No Gravity Berlin Latin Night XXL at ÆDEN
 
-No Gravity Berlin Latin Night XXL at ÆDEN on Fri 27 Nov, Berlin. 15 artists: 4NOUK, Chili con Sosa, futurristic and GI.O and 11 more. Techno and Reggaeton. See the line-up on soundcheck.
+No Gravity Berlin Latin Night XXL at ÆDEN on Fri 27 Nov, Berlin. 14 artists: 4NOUK, Chili con Sosa, futurristic and Headstorm and 10 more. Techno and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ No Gravity Berlin Latin Night XXL at ÆDEN on Fri 27 Nov, Berlin. 15 artists: 4N
 - 4NOUK
 - Chili con Sosa
 - futurristic
-- GI.O
 - Headstorm
 - LAURIX (DE)
 - Lisek

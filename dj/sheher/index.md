@@ -1,8 +1,8 @@
 # SHE/HER
 
-SHE/HER is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
+SHE/HER is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at KREUZWERK, Berlin on Fri, 13 Nov 2026.
 
-SHE/HER is a techno and house artist based in Netherlands, with 68 gigs on soundcheck across Amsterdam, Berlin, Milan and Netherlands and 4 more. Often billed alongside Flits, Lasse and Isaiah (NL). Next up: KREUZWERK, Berlin on Fri 13 Nov.
+SHE/HER is a techno and house artist based in Netherlands, with 69 gigs on soundcheck across Amsterdam, Berlin, Milan and Netherlands and 4 more. Often billed alongside Flits, Lasse and Isaiah (NL). Next up: KREUZWERK, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ SHE/HER is a techno and house artist based in Netherlands, with 68 gigs on sound
 | Fri, 13 Nov 2026 | KREUZWERK | Berlin |
 | Fri, 20 Nov 2026 | Kasteel De Berckt | Netherlands |
 | Sun, 22 Nov 2026 | BRET | Amsterdam |
+| Fri, 18 Dec 2026 | De Fik Garden | Amsterdam |
 
 ## Recently played
 

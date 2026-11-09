@@ -1,8 +1,8 @@
 # Shjva
 
-Shjva is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mastak, Warsaw on Fri, 13 Nov 2026.
+Shjva is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mastak, Warsaw on Fri, 13 Nov 2026.
 
-Shjva is a techno and trance artist based in Ukraine, with 89 gigs on soundcheck across Athens, Berlin, Brussels and Cologne and 19 more. Often billed alongside Samogulov, Plastik and Volodymyr Gnatenko. Next up: Mastak, Warsaw on Fri 13 Nov.
+Shjva is a techno and trance artist based in Ukraine, with 90 gigs on soundcheck across Athens, Berlin, Brussels and Cologne and 19 more. Often billed alongside Samogulov, Plastik and Volodymyr Gnatenko. Next up: Mastak, Warsaw on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Shjva is a techno and trance artist based in Ukraine, with 89 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Mastak | Warsaw |
 | Fri, 27 Nov 2026 | Tell Me | Sofia |
+| Fri, 11 Dec 2026 | Mastak | Warsaw |
 | Wed, 3 Mar 2027 | El Rio Hostel | Colombia |
 
 ## Recently played

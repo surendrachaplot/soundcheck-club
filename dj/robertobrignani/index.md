@@ -2,7 +2,7 @@
 
 Roberto Brignani is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Masters, Zagreb on Fri, 27 Nov 2026.
 
-Roberto Brignani is a techno and electro artist, with 12 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Monorail, Nikola Pap and Allan. Next up: Masters, Zagreb on Fri 27 Nov.
+Roberto Brignani is a techno and electro artist based in Croatia, with 12 gigs on soundcheck across Belgrade and Zagreb. Often billed alongside Monorail, Nikola Pap and Allan. Next up: Masters, Zagreb on Fri 27 Nov.
 
 ## Upcoming shows
 

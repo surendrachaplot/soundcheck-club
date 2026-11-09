@@ -12,7 +12,7 @@ Gare Porto is a music venue in Porto listed on soundcheck. 7 upcoming gigs, with
 | Sat, 14 Nov 2026 | Boston 168 [live], 1000A, Tiago Fragateiro | Boston 168, Tiago Fragateiro |
 | Fri, 20 Nov 2026 | Stef Mendesidis [live], Amulador | Amulador, Stef Mendesidis |
 | Sat, 21 Nov 2026 | Analytical Convenience with M3STR [live], Fjäll, Nocivo - FREE ENTRY | Fjäll, M3STR |
-| Fri, 27 Nov 2026 | Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote b2b Ricki | Banditst4r, Catarina Silva, Mingote, System Sophie |
+| Fri, 27 Nov 2026 | Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote | Banditst4r, Catarina Silva, Mingote, System Sophie |
 | Sat, 28 Nov 2026 | Perf with /end/, ⌐\ I\I \_ [live], dawn dani (FREE ENTRY) | dawn dani |
 | Mon, 30 Nov 2026 | Yanamaste, sepypes | Yanamaste, sepypes |
 

@@ -2,7 +2,7 @@
 
 Dork is a Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Turbina, Budapest on Fri, 20 Nov 2026.
 
-Dork is a techno artist, with 26 gigs on soundcheck across Budapest. Often billed alongside isu, Mode and AGA2L. Next up: Turbina, Budapest on Fri 20 Nov.
+Dork is a techno artist based in Hungary, with 26 gigs on soundcheck across Budapest. Often billed alongside isu, Mode and AGA2L. Next up: Turbina, Budapest on Fri 20 Nov.
 
 ## Upcoming shows
 

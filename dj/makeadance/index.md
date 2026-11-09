@@ -1,8 +1,8 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Outer Heaven, New York City on Fri, 13 Nov 2026.
+Make A Dance is a House and Disco artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Outer Heaven, New York City on Fri, 13 Nov 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, with 142 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 41 more. Often billed alongside Paula Tape, Lulah Francs and Tash LC. Next up: Outer Heaven, New York City on Fri 13 Nov.
+Make A Dance is a house and disco artist based in United Kingdom, with 141 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Bali and 40 more. Often billed alongside Paula Tape, Lulah Francs and Tash LC. Next up: Outer Heaven, New York City on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Make A Dance is a house and disco artist based in United Kingdom, with 142 gigs 
 | Wed, 2 Dec 2026 | Floyd | Miami |
 | Thu, 3 Dec 2026 | The Pickle | Miami |
 | Fri, 4 Dec 2026 | Factory Town | Miami |
-| Fri, 18 Dec 2026 | Smolna | Warsaw |
 | Thu, 31 Dec 2026 | KOKO | London |
 | Thu, 7 Jan 2027 | TBA | Puerto-rico |
 | Thu, 14 Jan 2027 | Igloofest | Montreal |
+| Wed, 7 Jul 2027 | The Garden Tisno | Croatia |
 
 ## Recently played
 

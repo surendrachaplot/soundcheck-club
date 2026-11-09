@@ -14,7 +14,7 @@ Dan Andrei is a house and minimal artist based in Romania, with 126 gigs on soun
 
 ## Recently played
 
-- TBA - Central London Location TBA, London · Sat, 7 Nov 2026
+- TBA - East London Location TBA, London · Sat, 7 Nov 2026
 - Club Guesthouse, Bucharest · Fri, 23 Oct 2026
 - Mitsuki, Tokyo · Sat, 10 Oct 2026
 - Mitsuki, Tokyo · Sat, 10 Oct 2026

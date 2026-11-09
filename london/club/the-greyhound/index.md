@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 15 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "H31R" on Wed, 11 Nov 2026.
+The Greyhound is a music venue in London with 16 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "H31R" on Wed, 11 Nov 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 15 upcoming gigs, with line-ups including Alex Wilcox, Anna Kost, Awedinary and Beton Brut and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Wilcox, Anna Kost, Awedinary and Beton Brut and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 
@@ -10,7 +10,7 @@ The Greyhound is a music venue in London listed on soundcheck. 15 upcoming gigs,
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | H31R |  |
 | Thu, 12 Nov 2026 | Alex Wilcox | Alex Wilcox |
-| Thu, 12 Nov 2026 | [Vinyl Only] Open Decks with Mark Shadow |  |
+| Thu, 12 Nov 2026 | Open Decks with Mark Shadow [Vinyl Only] | FrezZ, Samir (DVS), mark shadow |
 | Fri, 13 Nov 2026 | fête accomplie presents: Jay Duncan | DJ Tutorial, FRNTLEFT, Jay Duncan, flxclxc, jb sport |
 | Sat, 14 Nov 2026 | in two minds 002 • Tayls, Shottel, DJ Glug b2b DJ Jug | Tayls |
 | Fri, 20 Nov 2026 | HIFI/LOFI goes to London: Franz Matthews (Live), Beyond The Struttosphere | Franz Matthews |

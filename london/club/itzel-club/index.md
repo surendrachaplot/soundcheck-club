@@ -1,8 +1,8 @@
 # Itzel Club
 
-Itzel Club is a music venue in London with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Swae Lee" on Thu, 12 Nov 2026.
+Itzel Club is a music venue in London with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Swae Lee" on Thu, 12 Nov 2026.
 
-Itzel Club is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Kidflo and Nicolas Sasson. See dates, start times and who's playing. 15 Berkeley Street, London W1J 8DY.
+Itzel Club is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Kidflo, Moojo and Nicolas Sasson. See dates, start times and who's playing. 15 Berkeley Street, London W1J 8DY.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Itzel Club is a music venue in London listed on soundcheck. 2 upcoming gigs, wit
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Swae Lee |  |
 | Fri, 13 Nov 2026 | Sasson at Itzel Club | Kidflo, Nicolas Sasson |
+| Fri, 27 Nov 2026 | Moojo | Moojo |
 
 ## Address
 

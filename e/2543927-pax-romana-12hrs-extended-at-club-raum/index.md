@@ -1,0 +1,22 @@
+# PAX-ROMANA: 12HRS EXTENDED at CLUB RAUM
+
+PAX-ROMANA: 12HRS EXTENDED at CLUB RAUM on Sat 21 Nov, Amsterdam. 8 artists: Budino, D-Leria, Elisa Batti and Irakli and 4 more. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 21 Nov 2026 |
+| Venue | CLUB RAUM |
+| City | Amsterdam |
+
+## Line-up
+
+- Budino
+- D-Leria
+- Elisa Batti
+- Irakli
+- Julie
+- Massimiliano Pagliara
+- Nèna
+- Tammo Hesselink
+
+*Source: [soundcheck](https://soundcheck.club/e/2543927-pax-romana-12hrs-extended-at-club-raum/)*

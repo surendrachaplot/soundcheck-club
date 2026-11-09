@@ -2,7 +2,7 @@
 
 BabiDoll is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Public Works, San Francisco/Oakland on Fri, 13 Nov 2026.
 
-BabiDoll is a techno and club artist, with 7 gigs on soundcheck across Austin, Los Angeles, Portland and San Francisco/Oakland. Often billed alongside BabiBoi, ARMANA KHAN and Bianca Oblivion. Next up: Public Works, San Francisco/Oakland on Fri 13 Nov.
+BabiDoll is a techno and club artist based in United States of America, with 7 gigs on soundcheck across Austin, Los Angeles, Portland and San Francisco/Oakland. Often billed alongside BabiBoi, ARMANA KHAN and Bianca Oblivion. Next up: Public Works, San Francisco/Oakland on Fri 13 Nov.
 
 ## Upcoming shows
 

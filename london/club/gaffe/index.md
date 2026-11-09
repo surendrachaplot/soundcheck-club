@@ -13,7 +13,7 @@ Gaffe is a music venue in London listed on soundcheck. 9 upcoming gigs, with lin
 | Fri, 20 Nov 2026 | Gaffe presents x Deaf Tech w Batu, Cosmo & Ploy  | Batu, Ploy |
 | Sat, 28 Nov 2026 | Central - Sibil, Andrew James Gustav, Legram VG | Andrew James Gustav, Dembinski, LEGRAM VG, O.WEBSTER, Sibil (1) |
 | Sat, 5 Dec 2026 | outransa 8th Anniversary | Kensa, Melina Serser, Nicky Macha, Saro, So-Fi |
-| Fri, 11 Dec 2026 | Rolling Ritmo & Night Tube with … |  |
+| Fri, 11 Dec 2026 | Rolling Ritmo & Night Tube: Vladimir Ivkovic b2b Lena Willikens, Enrica Falqui, Hendrik Brown |  |
 | Sat, 12 Dec 2026 | WIGS 5th Birthday: Skee Mask, IMOGEN (Live), 1morning & Jay Duncan B2B Dyslecta | 1morning, Dyslecta, IMOGEN, Jay Duncan, Skee Mask |
 | Fri, 18 Dec 2026 | XTD - 013 - Priku | Eksish, Priku |
 | Thu, 31 Dec 2026 | Wiggle x Zuku: NYE | 3 Minds, Dig This, Eddie Richards, Penelope (2), Terry Francis |

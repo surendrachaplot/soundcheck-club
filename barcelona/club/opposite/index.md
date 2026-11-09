@@ -9,7 +9,7 @@ Opposite is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Secret Location x Plethoric | Frucula, Lautaro Deem, Lucas Frank, Martin Cozar, Maxi Degrassi |
-| Fri, 20 Nov 2026 | alboroto at Opposite III | Dellavega |
+| Fri, 20 Nov 2026 | alboroto with Dellavega, neloh, eric ferro, diego ibañez | Dellavega |
 | Fri, 18 Dec 2026 | alboroto at Opposite IV |  |
 
 ## Address

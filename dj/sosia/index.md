@@ -1,13 +1,14 @@
 # Sosia
 
-Sosia is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at MONKEY LOVE, Warsaw on Sat, 14 Nov 2026.
+Sosia is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
 
-Sosia is a house and disco artist based in Poland, with 23 gigs on soundcheck across Warsaw. Often billed alongside Sam Karol, Cougar (PL) and Mitura. Next up: MONKEY LOVE, Warsaw on Sat 14 Nov.
+Sosia is a house and disco artist based in Poland, with 24 gigs on soundcheck across Warsaw. Often billed alongside Sam Karol, Cougar (PL) and Mitura. Next up: Smolna, Warsaw on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Smolna | Warsaw |
 | Sat, 14 Nov 2026 | MONKEY LOVE | Warsaw |
 
 ## Recently played

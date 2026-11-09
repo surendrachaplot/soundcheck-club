@@ -1,8 +1,8 @@
 # Greg Wilson
 
-Greg Wilson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Floyd, Miami on Sun, 22 Nov 2026.
+Greg Wilson is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Floyd, Miami on Sun, 22 Nov 2026.
 
-Greg Wilson is a house and disco artist based in United Kingdom, with 70 gigs on soundcheck across Birmingham, Brighton, Bristol and Brussels and 18 more. Often billed alongside Graeme Park, Todd Terry and DJ Paulette. Next up: Floyd, Miami on Sun 22 Nov.
+Greg Wilson is a house and disco artist based in United Kingdom, with 71 gigs on soundcheck across Birmingham, Brighton, Bristol and Brussels and 18 more. Often billed alongside Graeme Park, Todd Terry and DJ Paulette. Next up: Floyd, Miami on Sun 22 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Greg Wilson is a house and disco artist based in United Kingdom, with 70 gigs on
 | --- | --- | --- |
 | Sun, 22 Nov 2026 | Floyd | Miami |
 | Sat, 28 Nov 2026 | Palm House | Liverpool |
+| Sat, 12 Dec 2026 | The Fox and Firkin | London |
 
 ## Recently played
 

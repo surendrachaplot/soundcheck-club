@@ -1,6 +1,6 @@
 # Electronic Beer Fest at Station Live Club
 
-Electronic Beer Fest at Station Live Club on Fri 18 Dec, Milan. 3 artists: Ariberto, Sdrumbi and Sunday Lapolees. House and Electronica. See the line-up on soundcheck.
+Electronic Beer Fest at Station Live Club on Fri 18 Dec, Milan. 5 artists: Ariberto, Manuel Benvegnù, Memo (CO) and Sdrumbi and 1 more. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,8 @@ Electronic Beer Fest at Station Live Club on Fri 18 Dec, Milan. 3 artists: Aribe
 ## Line-up
 
 - Ariberto
+- Manuel Benvegnù
+- Memo (CO)
 - Sdrumbi
 - Sunday Lapolees
 

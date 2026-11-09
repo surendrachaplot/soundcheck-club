@@ -17,7 +17,7 @@ Rene Wise is a techno and house artist based in United Kingdom, with 287 gigs on
 | Sat, 12 Dec 2026 | fabric | London |
 | Fri, 18 Dec 2026 | Hive Club | Zurich |
 | Sat, 19 Dec 2026 | INPUT High Fidelity Dance Club | Barcelona |
-| Thu, 31 Dec 2026 | TBA | Lisbon |
+| Thu, 31 Dec 2026 | TBA - Lisboa | Lisbon |
 | Fri, 1 Jan 2027 | Lofi | Amsterdam |
 | Fri, 1 Jan 2027 | Lofi | Amsterdam |
 

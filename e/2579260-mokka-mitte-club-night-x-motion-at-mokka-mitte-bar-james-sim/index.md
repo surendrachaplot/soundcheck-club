@@ -1,6 +1,6 @@
 # Mokka Mitte Club Night x Motion at Mokka Mitte Bar / James Simon Park
 
-Mokka Mitte Club Night x Motion at Mokka Mitte Bar / James Simon Park on Sat 14 Nov, Berlin. 3 artists: cell1, Sievert Serviert and TommyB. Techno and House. See the line-up on soundcheck.
+Mokka Mitte Club Night x Motion at Mokka Mitte Bar / James Simon Park on Sat 14 Nov, Berlin. 4 artists: cell1, Najka, Sievert Serviert and TommyB. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Mokka Mitte Club Night x Motion at Mokka Mitte Bar / James Simon Park on Sat 14 
 ## Line-up
 
 - cell1
+- Najka
 - Sievert Serviert
 - TommyB (2)
 

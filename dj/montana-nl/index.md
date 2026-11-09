@@ -1,14 +1,13 @@
 # Montana
 
-Montana is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Montana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Port Beach Brewery, Perth on Sun, 27 Dec 2026.
 
-Montana is a techno and house artist based in Netherlands, with 222 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 62 more. Often billed alongside APP, Alaska and Debit. Next up: TBA, Victoria on Fri 6 Nov.
+Montana is a techno and house artist based in Netherlands, with 222 gigs on soundcheck across Amsterdam, Antwerp, Bali and Baltimore and 62 more. Often billed alongside APP, Alaska and Debit. Next up: Port Beach Brewery, Perth on Sun 27 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA | Victoria |
 | Sun, 27 Dec 2026 | Port Beach Brewery | Perth |
 
 ## Recently played

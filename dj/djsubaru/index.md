@@ -1,14 +1,13 @@
 # DJ Subaru
 
-DJ Subaru is a Italo Disco and House artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+DJ Subaru is a Italo Disco and House artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bells Beach Brewing, Victoria on Fri, 13 Nov 2026.
 
-DJ Subaru is an italo disco and house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 14 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: TBA, Victoria on Fri 6 Nov.
+DJ Subaru is an italo disco and house artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brighton and 14 more. Often billed alongside babyschön, Sound Metaphors Djs and Michael Upson. Next up: Bells Beach Brewing, Victoria on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA | Victoria |
 | Fri, 13 Nov 2026 | Bells Beach Brewing | Victoria |
 | Sat, 14 Nov 2026 | TBA | Melbourne |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |

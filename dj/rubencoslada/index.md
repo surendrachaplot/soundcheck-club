@@ -1,13 +1,14 @@
 # Ruben Coslada
 
-Ruben Coslada is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Hive Club, Zurich on Sat, 28 Nov 2026.
+Ruben Coslada is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Haus von Klaus, Zurich on Sat, 21 Nov 2026.
 
-Ruben Coslada is a house and techno artist based in Switzerland, with 36 gigs on soundcheck across Berlin, Madrid, Medellin and Zurich. Often billed alongside Natch, Animal Trainer and David Puron. Next up: Hive Club, Zurich on Sat 28 Nov.
+Ruben Coslada is a house and techno artist based in Switzerland, with 37 gigs on soundcheck across Berlin, Madrid, Medellin and Zurich. Often billed alongside Natch, Animal Trainer and David Puron. Next up: Haus von Klaus, Zurich on Sat 21 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 21 Nov 2026 | Haus von Klaus | Zurich |
 | Sat, 28 Nov 2026 | Hive Club | Zurich |
 
 ## Recently played

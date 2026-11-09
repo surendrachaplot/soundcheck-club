@@ -1,13 +1,14 @@
 # Kømplex Lisbon
 
-Kømplex Lisbon is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Disturb & Kømplex NYE Festival" on Thu, 31 Dec 2026.
+Kømplex Lisbon is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Quee(r)n Moustache: WILD" on Sat, 14 Nov 2026.
 
-Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
+Kømplex Lisbon is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs, with line-ups including AZM, Francisco Berberan, Natalie Robinson and Nicolle Velcro and 1 more. See dates, start times and who's playing. Praceta Domingos Rodrigues Nr5 2685-327 Lisbon.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Quee(r)n Moustache: WILD | AZM (1), Francisco Berberan, Natalie Robinson, Nicolle Velcro, Opalia |
 | Thu, 31 Dec 2026 | Disturb & Kømplex NYE Festival |  |
 
 ## Address

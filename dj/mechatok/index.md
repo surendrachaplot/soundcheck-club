@@ -10,7 +10,7 @@ Mechatok is an experimental and electro artist based in Germany, with 80 gigs on
 | --- | --- | --- |
 | Thu, 12 Nov 2026 | Elastica | Vilnius |
 | Sat, 14 Nov 2026 | Village Underground | London |
-| Fri, 27 Nov 2026 | Copenhagen Contemporary | Copenhagen |
+| Sat, 28 Nov 2026 | Copenhagen Contemporary | Copenhagen |
 
 ## Recently played
 

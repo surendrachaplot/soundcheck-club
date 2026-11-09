@@ -1,14 +1,13 @@
 # Elsie
 
-Elsie is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Elsie is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Elsie is a house and electronica artist based in Australia, with 40 gigs on soundcheck across Canberra, Melbourne and Victoria. Often billed alongside Babycino, Bridget Small and Zjoso. Next up: TBA, Victoria on Fri 6 Nov.
+Elsie is a house and electronica artist based in Australia, with 40 gigs on soundcheck across Canberra, Melbourne and Victoria. Often billed alongside Babycino, Bridget Small and Zjoso. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA | Victoria |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Sat, 28 Nov 2026 | High Note | Melbourne |
 | Sat, 5 Dec 2026 | The Night Cat | Melbourne |

@@ -10,7 +10,7 @@ Enzo Siragusa is a house and tech house artist based in United Kingdom, with 208
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Flash | Washington DC |
 | Sat, 14 Nov 2026 | Refuge | New York City |
-| Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
+| Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Thu, 3 Dec 2026 | The Pickle | Miami |

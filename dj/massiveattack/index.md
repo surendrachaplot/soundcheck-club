@@ -2,7 +2,7 @@
 
 Massive Attack is a Funk / Soul and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bridge 48, Barcelona on Mon, 9 Nov 2026.
 
-Massive Attack is a funk / soul and hip-hop artist, with 11 gigs on soundcheck across Barcelona, Berlin, Bristol and Copenhagen and 5 more. Often billed alongside Jungle (UK), horsegiirL and 1-800-Lolita. Next up: Bridge 48, Barcelona on Mon 9 Nov.
+Massive Attack is a funk / soul and hip-hop artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Berlin, Bristol and Copenhagen and 5 more. Often billed alongside Jungle (UK), horsegiirL and 1-800-Lolita. Next up: Bridge 48, Barcelona on Mon 9 Nov.
 
 ## Upcoming shows
 

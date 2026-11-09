@@ -1,6 +1,6 @@
 # A Day with Vladimir Dubyshkin [Origins x Percolate] at Night Tales
 
-A Day with Vladimir Dubyshkin [Origins x Percolate] at Night Tales on Sat 21 Nov, London. 1 artist: Vladimir Dubyshkin. Techno. See the line-up on soundcheck.
+A Day with Vladimir Dubyshkin [Origins x Percolate] at Night Tales on Sat 21 Nov, London. 3 artists: Aquamarine, LIL DARK ONE and Vladimir Dubyshkin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ A Day with Vladimir Dubyshkin [Origins x Percolate] at Night Tales on Sat 21 Nov
 
 ## Line-up
 
+- Aquamarine
+- LIL DARK ONE
 - Vladimir Dubyshkin
 
 *Source: [soundcheck](https://soundcheck.club/e/2518432-a-day-with-vladimir-dubyshkin-origins-x-percolate-at-night-t/)*

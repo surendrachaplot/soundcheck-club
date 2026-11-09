@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 25 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Origins: DJ Assault + more TBA" on Fri, 13 Nov 2026.
+Colour Factory is a music venue in London with 26 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Origins: DJ Assault + more TBA" on Fri, 13 Nov 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 25 upcoming gigs, with line-ups including 3MR., AMBRR, Andrea Giudice and ASHTATTZ and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 26 upcoming gigs, with line-ups including 3MR., AMBRR, Andrea Giudice and ASHTATTZ and 2 more. See dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 

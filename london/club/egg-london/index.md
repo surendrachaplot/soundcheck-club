@@ -10,10 +10,10 @@ Egg London is a music venue in London listed on soundcheck. 41 upcoming gigs, wi
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |
 | Fri, 13 Nov 2026 | ACCUSED BY ACA at EGG London (LOFT) | ACA (YU), Drako, FINKY, FIRZA, HARRIE SUMMERS, James Cooper (UK), Luke Welsh, Mene |
-| Fri, 13 Nov 2026 | LAST FREE TICKET + FREE DRINK – RNB, REGGAETON, POP – MALOKA CLUB |  |
-| Fri, 13 Nov 2026 | LAST FREE TICKETS + FREE DRINK – LATIN HOUSE, TRIBAL, FUNK – MALOKA CLUB |  |
-| Fri, 13 Nov 2026 | LAST FREE TICKETS + FREE DRINK – AFROHOUSE, AFROBEAT, SOCA – MALOKA CLUB |  |
-| Fri, 13 Nov 2026 | LAST FREE TICKETS + FREE DRINK – CHART, HIP HOP, HOUSE – MALOKA CLUB |  |
+| Fri, 13 Nov 2026 | MALOKA CLUB – RnB, Reggaeton, Pop – FREE TICKETS + FREE DRINKS |  |
+| Fri, 13 Nov 2026 | MALOKA CLUB – Latin House, Tribal, Funk – FREE TICKETS + FREE DRINKS |  |
+| Fri, 13 Nov 2026 | MALOKA CLUB – Afrohouse, Afrobeat, Soca – FREE TICKETS + FREE DRINKS |  |
+| Fri, 13 Nov 2026 | MALOKA CLUB – Chart, Hip Hop, House – FREE TICKETS + FREE DRINKS |  |
 | Fri, 13 Nov 2026 | Maloka Club: House, Latin, Afro House |  |
 | Sat, 14 Nov 2026 | House Of Silk - (OVER 25s) AUTUMN SPECIAL | B3, DJ Majesty, DJ S (UK), Jerome Six, Mark Radford, Shenin Amara, Supa D, TERMINAL 4 |
 | Wed, 18 Nov 2026 | Wednesday Club: House, Tech House, Electro & Hip Hop |  |

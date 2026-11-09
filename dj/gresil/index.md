@@ -2,7 +2,7 @@
 
 Gresil is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Buenos Aires on Sat, 14 Nov 2026.
 
-Gresil is a techno and club artist, with 22 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and London and 5 more. Often billed alongside Bruno Ledesma, Gonzalo Trejo and Ludmila Lettieri. Next up: TBA, Buenos Aires on Sat 14 Nov.
+Gresil is a techno and club artist based in Argentina, with 22 gigs on soundcheck across Berlin, Buenos Aires, Hamburg and London and 5 more. Often billed alongside Bruno Ledesma, Gonzalo Trejo and Ludmila Lettieri. Next up: TBA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 

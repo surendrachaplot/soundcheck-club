@@ -1,13 +1,15 @@
 # Hugorieri
 
-Hugorieri is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sky Lounge 360, Prague on Thu, 31 Dec 2026.
+Hugorieri is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Sky Lounge 360, Prague on Fri, 27 Nov 2026.
 
-Hugorieri is a house and techno artist based in Czech Republic, with 70 gigs on soundcheck across Berlin and Prague. Often billed alongside Ondrej K, Blackloud and DJ Lumiere. Next up: Sky Lounge 360, Prague on Thu 31 Dec.
+Hugorieri is a house and techno artist based in Czech Republic, with 72 gigs on soundcheck across Berlin and Prague. Often billed alongside Ondrej K, Blackloud and DJ Lumiere. Next up: Sky Lounge 360, Prague on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 27 Nov 2026 | Sky Lounge 360 | Prague |
+| Fri, 4 Dec 2026 | Bukanyr Boat | Prague |
 | Thu, 31 Dec 2026 | Sky Lounge 360 | Prague |
 
 ## Recently played

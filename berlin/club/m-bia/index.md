@@ -14,7 +14,7 @@ M-BIA is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with lin
 | Sat, 21 Nov 2026 | GOA Herbst Edition [pres. Naturalize, Vertigos] |  |
 | Fri, 27 Nov 2026 | Mega 90er Rave - DJ QUICKSILVER |  |
 | Sat, 28 Nov 2026 | PsyLab – Escape the Grey |  |
-| Fri, 4 Dec 2026 | HARD SOLUTION |  |
+| Fri, 4 Dec 2026 | HARD SOLUTION • SUMMIT • MISS PEPPER • PHIESI&ABZOCKA • GENETekk • SLEDGE  | Sei A, TEKKO, Techno Frühstück, Tekk, Tekk DJ'z, Tekk Nikk, Tekknik |
 | Fri, 11 Dec 2026 | VEXED presents BERBA | BrettHit, LISA LOCA |
 | Fri, 25 Dec 2026 | SHØCC X-MAS special |  |
 

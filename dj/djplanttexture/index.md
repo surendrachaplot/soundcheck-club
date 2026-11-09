@@ -1,14 +1,15 @@
 # DJ Plant Texture
 
-DJ Plant Texture is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 13 Nov 2026.
+DJ Plant Texture is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Yamamori Tengu, Dublin on Fri, 13 Nov 2026.
 
-DJ Plant Texture is a techno and breakbeat artist based in Italy, with 86 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 36 more. Often billed alongside Ireen Amnes, SDN and AliA. Next up: Yamamori Tengu, Dublin on Fri 13 Nov.
+DJ Plant Texture is a techno and breakbeat artist based in Italy, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 36 more. Often billed alongside Ireen Amnes, SDN and AliA. Next up: Yamamori Tengu, Dublin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Yamamori Tengu | Dublin |
+| Sat, 20 Mar 2027 | fabric | London |
 
 ## Recently played
 

@@ -1,13 +1,14 @@
 # Olefonken
 
-Olefonken is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Teranoma Tidepool, Osaka on Fri, 27 Nov 2026.
+Olefonken is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Blå, Oslo on Fri, 13 Nov 2026.
 
-Olefonken is a house and techno artist based in Norway, with 82 gigs on soundcheck across Bergen, Osaka and Oslo. Often billed alongside Øyvind Morken, G-HA and Olanskii. Next up: Teranoma Tidepool, Osaka on Fri 27 Nov.
+Olefonken is a house and techno artist based in Norway, with 83 gigs on soundcheck across Bergen, Osaka and Oslo. Often billed alongside Øyvind Morken, G-HA and Olanskii. Next up: Blå, Oslo on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Blå | Oslo |
 | Fri, 27 Nov 2026 | Teranoma Tidepool | Osaka |
 
 ## Recently played

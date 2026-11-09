@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 11 Nov, Berlin. 9 artists: Bee Lincoln, Blck-Swan, Bouquet and d4ia and 5 more. Techno and Tech House. See the line-up on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 11 Nov, Berlin. 8 artists: Alicia (IT), Bee Lincoln, Blck-Swan and Bouquet and 4 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,12 +10,11 @@ TECHNO MITTWOCH at Sensorium on Wed 11 Nov, Berlin. 9 artists: Bee Lincoln, Blck
 
 ## Line-up
 
+- Alicia (IT)
 - Bee Lincoln
 - Blck-Swan
 - Bouquet
-- d4ia
-- Julka (2)
-- LA BITCHENCIO
+- Lars Löffler
 - sapskt
 - Thyrse
 - VEGANICECREAM

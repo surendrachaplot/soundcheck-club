@@ -9,7 +9,7 @@ Saoirse is a house and techno artist based in Ireland, with 198 gigs on soundche
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 20 Nov 2026 | Gate Milano | Milan |
-| Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
+| Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 28 Nov 2026 | GASHOUDER | Amsterdam |
 | Sat, 28 Nov 2026 | Hito Scheveningen | The Hague |

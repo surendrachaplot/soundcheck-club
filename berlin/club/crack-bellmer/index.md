@@ -9,7 +9,7 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 20 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 11 Nov 2026 | OPEN DECKS FOR FLINTA* PING PONG FOR ALL |  |
-| Thu, 12 Nov 2026 | Arcane XIII: La Mort (Free Entry*) | Dima Kachan, Lola Kay, MAXIMILIANØ, Pamela Svart, VIKTORIIA |
+| Thu, 12 Nov 2026 | Arcane XIII: La Mort  | Dima Kachan, Lola Kay, MAXIMILIANØ, Pamela Svart, VIKTORIIA |
 | Fri, 13 Nov 2026 | LOGIA Label Night | Daniel Ö, De:Vir, Molly Lollen, NOHAR, NYCTO, PE JORA $$$, SAAMO |
 | Sat, 14 Nov 2026 | SPEAK UP Inline x Stories of Her with X Tin, degen, Ôneyra, Linda shiro & many more | Linda shiro, Rovin, UniKhatu, X Tin, degen, pink-panther, Ôneyra |
 | Sun, 15 Nov 2026 | ESTRO with ARMANDO, GEISTFREI, Origami, Söfia Kuz | ARMANDO, GEISTFREI, Origami, Söfia Kuz |

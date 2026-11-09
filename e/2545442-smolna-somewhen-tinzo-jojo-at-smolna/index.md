@@ -1,6 +1,6 @@
 # Smolna: Somewhen, Tinzo + Jojo at Smolna
 
-Smolna: Somewhen, Tinzo + Jojo on Fri 13 Nov, Warsaw. 5 artists: CZART, Jojo Lorenzo, Kuriozum and Somewhen and 1 more. Techno and House. See the line-up on soundcheck.
+Smolna: Somewhen, Tinzo + Jojo on Fri 13 Nov, Warsaw. 7 artists: CZART, Jojo Lorenzo, Kuriozum and RĀMZĪ and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,9 @@ Smolna: Somewhen, Tinzo + Jojo on Fri 13 Nov, Warsaw. 5 artists: CZART, Jojo Lor
 - CZART
 - Jojo Lorenzo
 - Kuriozum
+- RĀMZĪ
 - Somewhen
+- Sosia
 - Tinzo
 
 *Source: [soundcheck](https://soundcheck.club/e/2545442-smolna-somewhen-tinzo-jojo-at-smolna/)*

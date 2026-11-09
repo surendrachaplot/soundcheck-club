@@ -11,7 +11,7 @@ Phara is a techno and house artist based in Belgium, with 199 gigs on soundcheck
 | Sat, 14 Nov 2026 | Circolo Amelia | Milan |
 | Sat, 28 Nov 2026 | The Bassement | Madrid |
 | Sat, 5 Dec 2026 | Tresor.West | Dortmund / Essen |
-| Thu, 31 Dec 2026 | TBA | Lisbon |
+| Thu, 31 Dec 2026 | TBA - Lisboa | Lisbon |
 
 ## Recently played
 

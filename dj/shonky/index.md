@@ -1,13 +1,14 @@
 # Shonky
 
-Shonky is a House and Minimal artist with 11 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Kapsule, Liverpool on Sat, 21 Nov 2026.
+Shonky is a House and Minimal artist with 12 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at FVTVR, Paris on Tue, 10 Nov 2026.
 
-Shonky is a house and minimal artist based in France, with 256 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Kapsule, Liverpool on Sat 21 Nov.
+Shonky is a house and minimal artist based in France, with 257 gigs on soundcheck across Amsterdam, Antwerp, Athens and Atlanta and 76 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: FVTVR, Paris on Tue 10 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 10 Nov 2026 | FVTVR | Paris |
 | Sat, 21 Nov 2026 | Kapsule | Liverpool |
 | Fri, 27 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |

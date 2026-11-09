@@ -11,7 +11,7 @@ Ryan Elliott is a house and techno artist based in United States of America, wit
 | Fri, 13 Nov 2026 | Folklor | Lausanne |
 | Sat, 14 Nov 2026 | Supermarket | Zurich |
 | Fri, 20 Nov 2026 | Gate Milano | Milan |
-| Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
+| Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Sun, 22 Nov 2026 | essaim | Paris |
 | Wed, 25 Nov 2026 | Nowadays | New York City |
 | Fri, 27 Nov 2026 | Ace*Mission | Los Angeles |

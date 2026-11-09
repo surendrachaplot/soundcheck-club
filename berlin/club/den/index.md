@@ -15,7 +15,7 @@
 | Sat, 21 Nov 2026 | Cuddles Therapy (Cuddles x Group Therapy) | Aaron Blau, Bella Sarris, DJ AYA, Dj Saliva, Frederik Tollund, Jessica Nightlife, Lucky Lube, Posture, Selma, puppy |
 | Wed, 25 Nov 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE ✦ |  |
 | Thu, 26 Nov 2026 | CANCELLED - OBXENE |  |
-| Fri, 27 Nov 2026 | No Gravity Berlin Latin Night XXL | 4NOUK, Chili con Sosa, GI.O, Headstorm, LAURIX (DE), Lisek, Nadia Bel Air, SALCHIKILLER, SARIAN, Sony2k, Subtrax, futurristic, mølly (on molly), saya (DE), zicke kuh |
+| Fri, 27 Nov 2026 | No Gravity Berlin Latin Night XXL | 4NOUK, Chili con Sosa, Headstorm, LAURIX (DE), Lisek, Nadia Bel Air, SALCHIKILLER, SARIAN, Sony2k, Subtrax, futurristic, mølly (on molly), saya (DE), zicke kuh |
 | Sat, 28 Nov 2026 | CANDYFLIP with Sköne, ARPL, LÄUFF, YOVA  | ARPL, Dj Kuschelschal, Florelle, Kaltgepresst, LÄUFF, Megaira, Melanchromie, Rabe Rax, Sköne, YOVA, brvder jakob, elfie, subga |
 | Fri, 11 Dec 2026 | Anechoic | August Kind, djbounty3000 |
 

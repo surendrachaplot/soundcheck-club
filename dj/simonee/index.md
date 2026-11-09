@@ -9,7 +9,7 @@ Simonee is a house and techno artist based in Italy, with 3 gigs on soundcheck a
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 29 Nov 2026 | Carmo Rooftop | Lisbon |
-| Fri, 4 Dec 2026 | TBA | Lisbon |
+| Fri, 4 Dec 2026 | TBA - Lisboa | Lisbon |
 
 ## Recently played
 

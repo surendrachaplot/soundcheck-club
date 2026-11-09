@@ -1,6 +1,6 @@
 # Scientist - 'Rids The World Of The Evil Curse Of The Vampires' at Ääniwalli
 
-Scientist - 'Rids The World Of The Evil Curse Of The Vampires' at Ääniwalli on Sun 7 Feb, Helsinki. 1 artist: The Scientist. See the line-up on soundcheck.
+Scientist - 'Rids The World Of The Evil Curse Of The Vampires' at Ääniwalli on Sun 7 Feb, Helsinki. 1 artist: The Scientist. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

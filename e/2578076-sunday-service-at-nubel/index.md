@@ -1,6 +1,6 @@
 # SUNDAY SERVICE at Nubel
 
-SUNDAY SERVICE at Nubel on Sun 15 Nov, Madrid. 1 artist: Iker Lobo. Disco and Italo Disco. See the line-up on soundcheck.
+SUNDAY SERVICE at Nubel on Sun 15 Nov, Madrid. 2 artists: Diego and Iker Lobo. Disco and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ SUNDAY SERVICE at Nubel on Sun 15 Nov, Madrid. 1 artist: Iker Lobo. Disco and It
 
 ## Line-up
 
+- Diego (8)
 - Iker Lobo
 
 *Source: [soundcheck](https://soundcheck.club/e/2578076-sunday-service-at-nubel/)*

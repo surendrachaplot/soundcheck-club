@@ -1,6 +1,6 @@
 # CHARgD at Basing House
 
-CHARgD at Basing House on Fri 27 Nov, London. 7 artists: CHLO (UK), El Cassar, Jay Francisco and Lee De Rosa and 3 more. House and Deep House. See the line-up on soundcheck.
+CHARgD at Basing House on Fri 27 Nov, London. 8 artists: Billy Golden, CHLO (UK), El Cassar and Jay Francisco and 4 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ CHARgD at Basing House on Fri 27 Nov, London. 7 artists: CHLO (UK), El Cassar, J
 
 ## Line-up
 
+- Billy Golden
 - CHLO (UK)
 - El Cassar
 - Jay Francisco

@@ -1,14 +1,13 @@
 # Radart
 
-Radart is a Electronica and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Radart is a Electronica and Downtempo artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Collingwood Children's Farm, Melbourne on Sat, 30 Jan 2027.
 
-Radart is an electronica and downtempo artist based in Australia, with 15 gigs on soundcheck across Berlin, Brussels, Melbourne and The Hague and 1 more. Often billed alongside Mike Midnight, Paper-Cuts and Bridget Small. Next up: TBA, Victoria on Fri 6 Nov.
+Radart is an electronica and downtempo artist based in Australia, with 15 gigs on soundcheck across Berlin, Brussels, Melbourne and The Hague and 1 more. Often billed alongside Mike Midnight, Paper-Cuts and Bridget Small. Next up: Collingwood Children's Farm, Melbourne on Sat 30 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA | Victoria |
 | Sat, 30 Jan 2027 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played

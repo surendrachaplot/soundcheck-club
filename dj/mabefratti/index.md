@@ -1,13 +1,14 @@
 # Mabe Fratti
 
-Mabe Fratti is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Treefort Music Hall, Idaho on Wed, 31 Mar 2027.
+Mabe Fratti is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Barbican Hall, London on Sun, 24 Jan 2027.
 
-Mabe Fratti is an experimental and ambient artist based in Guatemala, with 7 gigs on soundcheck across Buenos Aires, Idaho, Krakow and Mexico City and 3 more. Often billed alongside Clarissa Connelly, Juliana Huxtable and Mark William Lewis. Next up: Treefort Music Hall, Idaho on Wed 31 Mar.
+Mabe Fratti is an experimental and electro artist based in Guatemala, with 8 gigs on soundcheck across Buenos Aires, Idaho, Krakow and London and 4 more. Often billed alongside Clarissa Connelly, Mark William Lewis and Juliana Huxtable. Next up: The Barbican Hall, London on Sun 24 Jan.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 24 Jan 2027 | The Barbican Hall | London |
 | Wed, 31 Mar 2027 | Treefort Music Hall | Idaho |
 
 ## Recently played
@@ -21,6 +22,6 @@ Mabe Fratti is an experimental and ambient artist based in Guatemala, with 7 gig
 
 ## Shares bills with
 
-Clarissa Connelly, Juliana Huxtable, Mark William Lewis
+Clarissa Connelly, Mark William Lewis, Juliana Huxtable
 
 *Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/mabefratti/)*

@@ -9,7 +9,7 @@ B-SIDE is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Saw Spins with Marlon Clark & Bohan [live] & user228322 | Bohan, Marlon Clark, user228322 |
-| Sat, 21 Nov 2026 | HEX | Brussi, Elvira, Oshana |
+| Sat, 21 Nov 2026 | Hex pres. Oshana | Brussi, Elvira, Oshana |
 
 ## Address
 

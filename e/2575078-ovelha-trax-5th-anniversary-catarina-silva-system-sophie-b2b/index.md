@@ -1,6 +1,6 @@
-# Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote b2b Ricki at Gare Porto
+# Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote at Gare Porto
 
-Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote b2b Ricki at Gare Porto on Fri 27 Nov, Porto. 4 artists: Banditst4r, Catarina Silva, Mingote and System Sophie. Breakbeat and Electro. See the line-up on soundcheck.
+Ovelha Trax 5th Anniversary - Catarina Silva, System Sophie b2b Bandidt4r, Mingote at Gare Porto on Fri 27 Nov, Porto. 4 artists: Banditst4r, Catarina Silva, Mingote and System Sophie. Breakbeat and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

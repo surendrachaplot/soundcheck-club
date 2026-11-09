@@ -17,6 +17,7 @@ SMUT Athens is a music venue in Athens listed on soundcheck. 9 upcoming gigs, wi
 | Sat, 26 Dec 2026 | SMUT x GiGi FM x Haruka x Kr!z | GiGi FM, Haruka, Kr!z |
 | Thu, 31 Dec 2026 | SMUT x NYE 2026/27 w/ Robert Hood,Dasha Rush,Ignez,Quelza | Dasha Rush, Ignez, Quelza, Robert Hood |
 | Sat, 2 Jan 2027 | Yanamaste x SMUT x ALL NIGHT LONG | Yanamaste |
+| Sat, 9 Jan 2027 | NON SERIES QUINCE X SMUT with Erik Luebs (live), Psyk b2b ORBE, Tauceti | Erik Luebs, ORBE, Psyk, Tauceti (FR) |
 
 ## Address
 

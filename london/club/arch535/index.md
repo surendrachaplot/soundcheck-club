@@ -9,7 +9,7 @@ Arch535 is a music venue in London listed on soundcheck. 3 upcoming gigs, with l
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | UNDERGROUND CONNECTION | Ace Shyllon, Brockney C, Kryss Kelly, VIBRANT C |
-| Sat, 5 Dec 2026 | GATE: 003 | Colin Dale, Dan Perrin, Drivetrain |
+| Sat, 5 Dec 2026 | GATE: 003 - Drivetrain, Colin Dale, Carbon Unit, Dan Perrin | Colin Dale, Dan Perrin, Drivetrain |
 | Sat, 12 Dec 2026 | Down To Earth | Drew Karma, Junior Richards, Scott Braithwaite |
 
 ## Address

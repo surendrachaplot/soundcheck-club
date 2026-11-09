@@ -1,14 +1,15 @@
 # Nala Brown
 
-Nala Brown is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
+Nala Brown is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Tresor / Globus, Berlin on Fri, 27 Nov 2026.
 
-Nala Brown is a techno and house artist based in Netherlands, with 115 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Lola Edo, Cinnaman and Identified Patient. Next up: Tresor / Globus, Berlin on Fri 27 Nov.
+Nala Brown is a techno and house artist based in Netherlands, with 116 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Lola Edo, Cinnaman and Identified Patient. Next up: Tresor / Globus, Berlin on Fri 27 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 27 Nov 2026 | Tresor / Globus | Berlin |
+| Wed, 2 Dec 2026 | Bimhuis | Amsterdam |
 
 ## Recently played
 

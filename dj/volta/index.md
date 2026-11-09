@@ -2,7 +2,7 @@
 
 Volta is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Folklor, Lausanne on Fri, 27 Nov 2026.
 
-Volta is a techno and breakbeat artist, with 12 gigs on soundcheck across Lausanne and Paris. Often billed alongside Evan Preston, Steven Sanchez and ATØNAL. Next up: Folklor, Lausanne on Fri 27 Nov.
+Volta is a techno and breakbeat artist based in Switzerland, with 12 gigs on soundcheck across Lausanne and Paris. Often billed alongside Evan Preston, Steven Sanchez and ATØNAL. Next up: Folklor, Lausanne on Fri 27 Nov.
 
 ## Upcoming shows
 

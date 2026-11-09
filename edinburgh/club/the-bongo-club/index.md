@@ -8,8 +8,8 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 14 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 9 Nov 2026 | Baby Bummit | FIFI LA ROUX |
-| Thu, 12 Nov 2026 | 𖤓SOLASTA II𖤓 | Carmen Baía, FIFI LA ROUX, zohra |
+| Mon, 9 Nov 2026 | Baby Bummit | FIFI (2) |
+| Thu, 12 Nov 2026 | 𖤓SOLASTA II𖤓 | Carmen Baía, FIFI (2), zohra |
 | Fri, 13 Nov 2026 | Tektite x FoxBam: A Night of Acid Exploration | Egebamyasi, Rodent |
 | Sat, 14 Nov 2026 | Messenger Sound System  Winter Warmer |  |
 | Thu, 19 Nov 2026 | Origins: n4tee | BORLEY, Mixfits (2), Rònan White, Slateford, n4tee |

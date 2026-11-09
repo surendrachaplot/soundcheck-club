@@ -1,6 +1,6 @@
-# Signal: Photek, Special Request at Phonox
+# Signal: Photek & Special Request at Phonox
 
-Signal: Photek, Special Request at Phonox on Sat 30 Jan, London. 1 artist: Photek. See the line-up on soundcheck.
+Signal: Photek & Special Request at Phonox on Sat 30 Jan, London. 2 artists: Photek and Special Request. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Signal: Photek, Special Request at Phonox on Sat 30 Jan, London. 1 artist: Phote
 ## Line-up
 
 - Photek
+- Special Request
 
 *Source: [soundcheck](https://soundcheck.club/e/2551032-signal-photek-special-request-at-phonox/)*

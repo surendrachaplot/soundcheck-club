@@ -1,14 +1,16 @@
 # Voce - Triennale
 
-Voce - Triennale is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Un filo di Voce HÅN, DJ Set (Band)" on Sun, 15 Nov 2026.
+Voce - Triennale is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Elettronica ieri, elettronica oggi [TALK]" on Sat, 14 Nov 2026.
 
-Voce - Triennale is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including DJ SET (Uk). See dates, start times and who's playing. Viale Emilio Alemagna, 6, 20121 Milano MI, Italy.
+Voce - Triennale is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including DJ SET (Uk). See dates, start times and who's playing. Viale Emilio Alemagna, 6, 20121 Milano MI, Italy.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | Elettronica ieri, elettronica oggi [TALK] |  |
 | Sun, 15 Nov 2026 | Un filo di Voce HÅN, DJ Set (Band) | DJ SET (Uk) |
+| Sun, 29 Nov 2026 | Matinée Hanne Lippard, Renato Grieco |  |
 
 ## Address
 

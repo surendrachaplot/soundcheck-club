@@ -1,14 +1,15 @@
 # TerminusTechnikus
 
-TerminusTechnikus is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Fuchs2, Prague on Fri, 13 Nov 2026.
+TerminusTechnikus is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Fuchs2, Prague on Fri, 13 Nov 2026.
 
-TerminusTechnikus is a techno and trance artist based in Czech Republic, with 56 gigs on soundcheck across Bratislava and Prague. Often billed alongside Zuzana Hakl, Epoché and mata rubia. Next up: Fuchs2, Prague on Fri 13 Nov.
+TerminusTechnikus is a techno and trance artist based in Czech Republic, with 57 gigs on soundcheck across Bratislava and Prague. Often billed alongside Zuzana Hakl, Epoché and mata rubia. Next up: Fuchs2, Prague on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Fuchs2 | Prague |
+| Sat, 14 Nov 2026 | Bike Jesus | Prague |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
 # DHOLERO at Bolero
 
-DHOLERO at Bolero on Thu 19 Nov, Seoul. 6 artists: COOK SWEET, Dj Bal-T, KING SHE and Silly Silky and 2 more. UK Funky and Amapiano. See the line-up on soundcheck.
+DHOLERO at Bolero on Thu 19 Nov, Seoul. 7 artists: COOK SWEET, Dj Bal-T, KING SHE and NW10 and 3 more. UK Funky and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ DHOLERO at Bolero on Thu 19 Nov, Seoul. 6 artists: COOK SWEET, Dj Bal-T, KING SH
 - COOK SWEET
 - Dj Bal-T
 - KING SHE
+- NW10
 - Silly Silky
 - Unkelchubbz
 - Y1VB0

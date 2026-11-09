@@ -1,13 +1,14 @@
 # Arasion
 
-Arasion is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Sky Lounge 360, Prague on Thu, 31 Dec 2026.
+Arasion is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bukanyr Boat, Prague on Fri, 4 Dec 2026.
 
-Arasion is a house and techno artist, with 2 gigs on soundcheck across Prague. Often billed alongside Hugorieri, Luke Nova and Ondrej K. Next up: Sky Lounge 360, Prague on Thu 31 Dec.
+Arasion is a techno and house artist, with 3 gigs on soundcheck across Prague. Often billed alongside Hugorieri, Kloos and Luke Nova. Next up: Bukanyr Boat, Prague on Fri 4 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 4 Dec 2026 | Bukanyr Boat | Prague |
 | Thu, 31 Dec 2026 | Sky Lounge 360 | Prague |
 
 ## Recently played
@@ -16,6 +17,6 @@ Arasion is a house and techno artist, with 2 gigs on soundcheck across Prague. O
 
 ## Shares bills with
 
-Hugorieri, Luke Nova, Ondrej K
+Hugorieri, Kloos, Luke Nova
 
 *Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/arasion/)*

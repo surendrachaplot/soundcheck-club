@@ -1,6 +1,6 @@
 # SCENE presents Club Season: at De Sering
 
-SCENE presents Club Season: at De Sering on Sat 14 Nov, Amsterdam. 2 artists: Polli Panda and Taylor Taylor (NL). Electro and Minimal Techno. See the line-up on soundcheck.
+SCENE presents Club Season: at De Sering on Sat 14 Nov, Amsterdam. 2 artists: Polli Panda and Taylor Taylor. Electro and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,6 @@ SCENE presents Club Season: at De Sering on Sat 14 Nov, Amsterdam. 2 artists: Po
 ## Line-up
 
 - Polli Panda
-- Taylor Taylor (NL)
+- Taylor Taylor
 
 *Source: [soundcheck](https://soundcheck.club/e/2550040-scene-presents-club-season-at-de-sering/)*

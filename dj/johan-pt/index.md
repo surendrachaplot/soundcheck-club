@@ -1,13 +1,14 @@
 # Johan (PT)
 
-Johan (PT) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Bootshaus, Cologne on Fri, 27 Nov 2026.
+Johan (PT) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Collect - Cais do Sodre, Lisbon on Mon, 16 Nov 2026.
 
-Johan (PT) is a techno and house artist based in Portugal, with 26 gigs on soundcheck across Berlin, Brussels, Cologne and Hamburg and 2 more. Often billed alongside Francisca Urbano, .Bernardo and 999999999. Next up: Bootshaus, Cologne on Fri 27 Nov.
+Johan (PT) is a techno and house artist based in Portugal, with 27 gigs on soundcheck across Berlin, Brussels, Cologne and Hamburg and 2 more. Often billed alongside Francisca Urbano, .Bernardo and 999999999. Next up: Collect - Cais do Sodre, Lisbon on Mon 16 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Mon, 16 Nov 2026 | Collect - Cais do Sodre | Lisbon |
 | Fri, 27 Nov 2026 | Bootshaus | Cologne |
 
 ## Recently played

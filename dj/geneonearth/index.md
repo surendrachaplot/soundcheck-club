@@ -11,7 +11,7 @@ Gene On Earth is a house and tech house artist based in United States of America
 | Thu, 12 Nov 2026 | Eiger Studios | Leeds |
 | Fri, 13 Nov 2026 | The Loft | Manchester |
 | Fri, 20 Nov 2026 | Lux Fragil | Lisbon |
-| Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
+| Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Fri, 27 Nov 2026 | Sub Club | Glasgow |
 | Sat, 28 Nov 2026 | Mia Mao | Paris |
 | Sat, 12 Dec 2026 | fabric | London |

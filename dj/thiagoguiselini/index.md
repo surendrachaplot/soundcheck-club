@@ -1,13 +1,14 @@
 # Thiago Guiselini
 
-Thiago Guiselini is a House and Club artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Disaster, Lisbon on Sat, 21 Nov 2026.
+Thiago Guiselini is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Collect LX Factory, Lisbon on Tue, 17 Nov 2026.
 
-Thiago Guiselini is a house and club artist based in Brazil, with 32 gigs on soundcheck across Lisbon, Porto, Rio de Janeiro and Sao Paulo. Often billed alongside Francisco Berberan, CVLT and Adam Purnell. Next up: Disaster, Lisbon on Sat 21 Nov.
+Thiago Guiselini is a house and techno artist based in Brazil, with 33 gigs on soundcheck across Lisbon, Porto, Rio de Janeiro and Sao Paulo. Often billed alongside Francisco Berberan, CVLT and Adam Purnell. Next up: Collect LX Factory, Lisbon on Tue 17 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Tue, 17 Nov 2026 | Collect LX Factory | Lisbon |
 | Sat, 21 Nov 2026 | Disaster | Lisbon |
 
 ## Recently played

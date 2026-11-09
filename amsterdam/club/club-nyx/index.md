@@ -9,7 +9,7 @@ Club NYX is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Vrijdag is NYX 13/11 | Nanno, Nathalie Henriette |
-| Sat, 14 Nov 2026 | 3xNYX: Bootylicious | Babs op de beat, MXV (1), MeRas |
+| Sat, 14 Nov 2026 | 3xNYX: Bootylicious | Babs op de beat, MXV (1), MeRas, NT-FRAGILE |
 | Sat, 28 Nov 2026 | 3xNYX: Burn The House Down | Emma Champagne Queen, FREY., Gabriell, Kutkyle |
 | Thu, 31 Dec 2026 | NYX & NEW: House of Chaos (NYE) |  |
 

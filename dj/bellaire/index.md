@@ -1,8 +1,8 @@
 # Bellaire
 
-Bellaire is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Liquid Room, Edinburgh on Fri, 13 Nov 2026.
+Bellaire is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Liquid Room, Edinburgh on Fri, 13 Nov 2026.
 
-Bellaire is a house and disco artist based in France, with 58 gigs on soundcheck across Amsterdam, Antwerp, Bordeaux and Brighton and 22 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: The Liquid Room, Edinburgh on Fri 13 Nov.
+Bellaire is a house and disco artist based in France, with 59 gigs on soundcheck across Amsterdam, Antwerp, Bordeaux and Brighton and 22 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: The Liquid Room, Edinburgh on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Bellaire is a house and disco artist based in France, with 58 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | The Liquid Room | Edinburgh |
 | Fri, 27 Nov 2026 | Le Bikini | South-east |
+| Fri, 4 Dec 2026 | FVTVR | Paris |
 | Sun, 20 Dec 2026 | DRUMSHEDS | London |
 | Fri, 26 Feb 2027 | The Night Cat | Melbourne |
 

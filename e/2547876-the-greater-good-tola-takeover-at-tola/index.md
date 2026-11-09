@@ -1,6 +1,6 @@
 # The Greater Good - Tola Takeover at Tola
 
-The Greater Good - Tola Takeover on Fri 27 Nov, London. 1 artist: Gravy Bois. House and Disco. See the line-up on soundcheck.
+The Greater Good - Tola Takeover on Fri 27 Nov, London. 3 artists: Gravy Bois, landfill. and Rowland. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,7 @@ The Greater Good - Tola Takeover on Fri 27 Nov, London. 1 artist: Gravy Bois. Ho
 ## Line-up
 
 - Gravy Bois
+- landfill.
+- Rowland
 
 *Source: [soundcheck](https://soundcheck.club/e/2547876-the-greater-good-tola-takeover-at-tola/)*

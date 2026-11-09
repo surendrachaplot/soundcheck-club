@@ -1,14 +1,15 @@
 # Clarissa Connelly
 
-Clarissa Connelly is a electronic artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at DR Koncerthuset, Copenhagen on Wed, 25 Nov 2026.
+Clarissa Connelly is a Electronica and Electro artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at DR Koncerthuset, Copenhagen on Wed, 25 Nov 2026.
 
-Clarissa Connelly is an electronic artist based in Denmark, with 9 gigs on soundcheck across Copenhagen, Krakow, Paris and Poland and 1 more. Often billed alongside Mabe Fratti, Mark William Lewis and Muskila. Next up: DR Koncerthuset, Copenhagen on Wed 25 Nov.
+Clarissa Connelly is an electronica and electro artist based in Denmark, with 10 gigs on soundcheck across Copenhagen, Krakow, London and Paris and 2 more. Often billed alongside Mabe Fratti, Mark William Lewis and Muskila. Next up: DR Koncerthuset, Copenhagen on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 25 Nov 2026 | DR Koncerthuset | Copenhagen |
+| Sun, 24 Jan 2027 | The Barbican Hall | London |
 
 ## Recently played
 

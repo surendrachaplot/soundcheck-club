@@ -10,7 +10,7 @@ Commune is a music venue in Liverpool listed on soundcheck. 4 upcoming gigs, wit
 | --- | --- | --- |
 | Thu, 19 Nov 2026 | Homesick presents: Malissa + support | Malissa |
 | Thu, 3 Dec 2026 | RADIANCE (Ambient Evening) | J. Conley, Paula Salurand, aaypea |
-| Fri, 11 Dec 2026 | Herbivox with Monks (DJ Set), Taylor Taylor, RoomToo, DJ Debauchery, Ken & Thomas H | Ken(UK), RoomToo, Taylor Taylor (NL) |
+| Fri, 11 Dec 2026 | Herbivox with Monks (DJ Set), Taylor Taylor, RoomToo, DJ Debauchery, Ken & Thomas H | Ken(UK), RoomToo, Taylor Taylor |
 | Sat, 12 Dec 2026 | BLORG PRESENTS: RUSH TAKEOVER | Big Nige |
 
 ## Address

@@ -1,14 +1,15 @@
 # TommyB (2)
 
-TommyB (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 14 Nov 2026.
+TommyB (2) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 14 Nov 2026.
 
-TommyB is a techno and house artist based in Germany, with 4 gigs on soundcheck across Berlin. Often billed alongside Sievert Serviert, cell1 and Blachord. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 14 Nov.
+TommyB is a techno and house artist based in Germany, with 5 gigs on soundcheck across Berlin. Often billed alongside Sievert Serviert, cell1 and Lisatrix. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Mokka Mitte Bar / James Simon Park | Berlin |
+| Sat, 5 Dec 2026 | PKH Warehouse | Berlin |
 
 ## Recently played
 
@@ -18,6 +19,6 @@ TommyB is a techno and house artist based in Germany, with 4 gigs on soundcheck 
 
 ## Shares bills with
 
-Sievert Serviert, cell1, Blachord
+Sievert Serviert, cell1, Lisatrix
 
 *Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/tommyb-2/)*

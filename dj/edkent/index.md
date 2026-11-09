@@ -1,14 +1,13 @@
 # Ed Kent
 
-Ed Kent is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Ed Kent is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Solace, Melbourne on Sat, 14 Nov 2026.
 
-Ed Kent is a house and techno artist based in Australia, with 84 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Sydney and 1 more. Often billed alongside Hannah D, Mabel and Moopie. Next up: TBA, Victoria on Fri 6 Nov.
+Ed Kent is a house and techno artist based in Australia, with 84 gigs on soundcheck across Berlin, Ho Chi Minh City, Melbourne and Sydney and 1 more. Often billed alongside Hannah D, Mabel and Moopie. Next up: Solace, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA | Victoria |
 | Sat, 14 Nov 2026 | Solace | Melbourne |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
 | Sat, 19 Dec 2026 | ark (Melb) | Melbourne |

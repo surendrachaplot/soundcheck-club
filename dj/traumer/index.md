@@ -10,7 +10,7 @@ Traumer is a house and techno artist based in France, with 348 gigs on soundchec
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | TESTBED | Leeds |
 | Fri, 20 Nov 2026 | fi | Cologne |
-| Sat, 21 Nov 2026 | Plaza Mayor de El Poble Espanyol | Barcelona |
+| Sat, 21 Nov 2026 | Carpa & Picnic of El Poble Espanyol | Barcelona |
 | Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sun, 29 Nov 2026 | Smolna | Warsaw |

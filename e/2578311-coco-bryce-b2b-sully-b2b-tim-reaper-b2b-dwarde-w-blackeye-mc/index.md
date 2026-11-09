@@ -1,6 +1,6 @@
 # Coco Bryce b2b Sully b2b Tim Reaper b2b Dwarde w/ Blackeye MC at The Cause
 
-Coco Bryce b2b Sully b2b Tim Reaper b2b Dwarde w/ Blackeye MC at The Cause on Fri 29 Jan, London. 6 artists: Blackeye MC, Coco Bryce, Dj Sofa and Dwarde and 2 more. Drum & Bass and Jungle. See the line-up on soundcheck.
+Coco Bryce b2b Sully b2b Tim Reaper b2b Dwarde w/ Blackeye MC at The Cause on Fri 29 Jan, London. 5 artists: Blackeye MC, Coco Bryce, Dwarde and Sully and 1 more. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,6 @@ Coco Bryce b2b Sully b2b Tim Reaper b2b Dwarde w/ Blackeye MC at The Cause on Fr
 
 - Blackeye MC
 - Coco Bryce
-- Dj Sofa (2)
 - Dwarde
 - Sully
 - Tim Reaper

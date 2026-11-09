@@ -9,7 +9,7 @@ Mokka Mitte Bar / James Simon Park is a music venue in Berlin listed on soundche
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | MokkaKlang - KlangKnospe - 20 - 4 Uhr  5€ | Callado, Flohmarkt, cravings320 |
-| Sat, 14 Nov 2026 | Mokka Mitte Club Night x Motion | Sievert Serviert, TommyB (2), cell1 |
+| Sat, 14 Nov 2026 | Mokka Mitte Club Night x Motion | Najka, Sievert Serviert, TommyB (2), cell1 |
 | Sat, 28 Nov 2026 | SØUL 1€ EVENT |  |
 | Sat, 12 Dec 2026 | Weniger Ist Mehr | DJ NEAR MiNT, Kat_Es, Mark van der Ree, Vanree |
 

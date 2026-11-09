@@ -1,14 +1,14 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Unknown at Pacha" on Sat, 14 Nov 2026.
+Pacha Ibiza is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "The Unknown with Tania Vulcano, Hugo Martinez, Carlos Vila, Angel Linde" on Sat, 14 Nov 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming gig, with line-ups including Angel Linde, Carlos Vila, Hugo Martinez and Tania Vulcano. See dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | Unknown at Pacha |  |
+| Sat, 14 Nov 2026 | The Unknown with Tania Vulcano, Hugo Martinez, Carlos Vila, Angel Linde | Angel Linde, Carlos Vila, Hugo Martinez, Tania Vulcano |
 
 ## Address
 

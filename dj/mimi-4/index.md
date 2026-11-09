@@ -9,7 +9,7 @@ Mimi is a house and techno artist based in Portugal, with 18 gigs on soundcheck 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | PBOX STND | Tokyo |
-| Fri, 4 Dec 2026 | TBA | Lisbon |
+| Fri, 4 Dec 2026 | TBA - Lisboa | Lisbon |
 
 ## Recently played
 

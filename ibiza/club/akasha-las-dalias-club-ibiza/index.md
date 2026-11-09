@@ -11,7 +11,7 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 1
 | Sat, 14 Nov 2026 | Supernova | Bruz, Vicky Kroon |
 | Sun, 15 Nov 2026 | Nido | SHARE (NL), Words of Niō |
 | Sat, 21 Nov 2026 | Supernova |  |
-| Sat, 21 Nov 2026 | Akasha 5th Anniversary |  |
+| Sat, 21 Nov 2026 | Akasha 5th Anniversary | Igor Marijuan, Kerala Dust, Luca Saporito (Audiofly) |
 | Sun, 22 Nov 2026 | Nido | YazzMin |
 | Sat, 28 Nov 2026 | Supernova | Bakean, IBÁN MENDOZA |
 | Sun, 29 Nov 2026 | Nido | HADA, Kanedo, Sorä |

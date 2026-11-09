@@ -1,13 +1,14 @@
 # GAEL
 
-GAEL is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at AMT, Berlin on Tue, 24 Nov 2026.
+GAEL is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at [119], Berlin on Sat, 14 Nov 2026.
 
-GAEL is a techno and house artist based in Ukraine, with 58 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 10 more. Often billed alongside Skungal, job sifre and Tweeman. Next up: AMT, Berlin on Tue 24 Nov.
+GAEL is a techno and house artist based in Ukraine, with 59 gigs on soundcheck across Amsterdam, Berlin, Bogotá and Cologne and 10 more. Often billed alongside Skungal, job sifre and Tweeman. Next up: [119], Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 14 Nov 2026 | [119] | Berlin |
 | Tue, 24 Nov 2026 | AMT | Berlin |
 
 ## Recently played

@@ -1,14 +1,15 @@
 # Kutmah
 
-Kutmah is a Hip-Hop and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Dec 2026.
+Kutmah is a Hip-Hop and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 3 Dec 2026.
 
-Kutmah is a hip-hop and ambient artist, with 13 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Opium Hum, Neana and The Gaslamp Killer. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Dec.
+Kutmah is a hip-hop and ambient artist, with 14 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Opium Hum, Neana and The Gaslamp Killer. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 3 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 3 Dec 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sun, 7 Feb 2027 | Gretchen | Berlin |
 
 ## Recently played
 

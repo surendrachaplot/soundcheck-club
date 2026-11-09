@@ -1,14 +1,15 @@
 # Bjørn Torske
 
-Bjørn Torske is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at control, Bucharest on Fri, 13 Nov 2026.
+Bjørn Torske is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at control, Bucharest on Fri, 13 Nov 2026.
 
-Bjørn Torske is a house and techno artist based in Norway, with 42 gigs on soundcheck across Bergen, Bucharest, Copenhagen and London and 3 more. Often billed alongside Olefonken, Skatebård and DJ Sotofett. Next up: control, Bucharest on Fri 13 Nov.
+Bjørn Torske is a house and techno artist based in Norway, with 43 gigs on soundcheck across Bergen, Bucharest, Copenhagen and London and 3 more. Often billed alongside Olefonken, Skatebård and DJ Sotofett. Next up: control, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | control | Bucharest |
+| Sat, 21 Nov 2026 | Blå | Oslo |
 
 ## Recently played
 

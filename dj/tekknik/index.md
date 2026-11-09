@@ -1,14 +1,15 @@
 # Tekknik
 
-Tekknik is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Crackhouse, Gdansk on Sat, 14 Nov 2026.
+Tekknik is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Crackhouse, Gdansk on Sat, 14 Nov 2026.
 
-Tekknik is a techno and hardcore artist based in Poland, with 41 gigs on soundcheck across Berlin, Gdansk, Krakow and Poznan and 2 more. Often billed alongside somnifobia, PUZZ and Furie. Next up: Crackhouse, Gdansk on Sat 14 Nov.
+Tekknik is a techno and hardcore artist based in Poland, with 42 gigs on soundcheck across Berlin, Gdansk, Krakow and Poznan and 2 more. Often billed alongside somnifobia, PUZZ and Furie. Next up: Crackhouse, Gdansk on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Crackhouse | Gdansk |
+| Fri, 4 Dec 2026 | M-BIA | Berlin |
 
 ## Recently played
 

@@ -13,7 +13,7 @@ NT's Loft is a music venue in London listed on soundcheck. 21 upcoming gigs, wit
 | Sat, 14 Nov 2026 | NT's Loft: A Day with Dublon | Dublon |
 | Fri, 20 Nov 2026 | NT's Loft: Detroit In Effect [Extended Set] + Katya | Detroit In Effect, Katya |
 | Sat, 21 Nov 2026 | NT's Loft: babyschön Residency w/ Rosie Ama | Rosie Ama, babyschön |
-| Mon, 23 Nov 2026 | [Panel Talk] - DIY Music & Club Culture |  |
+| Mon, 23 Nov 2026 | [Panel Talk] - DIY Music & Club Culture | Sophia Constantinou |
 | Fri, 27 Nov 2026 | NT's Loft: FS Green | FS Green |
 | Sat, 28 Nov 2026 | NT's Loft: babyschön Residency [All Night Long]  | babyschön |
 | Fri, 4 Dec 2026 | DISCO TEHRAN IN LONDON | Liminal People, MIRZA, Rohan Rakhit |

@@ -1,8 +1,8 @@
 # LORA S
 
-LORA S is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Cheek, London on Sat, 14 Nov 2026.
+LORA S is a House and Club artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Club Cheek, London on Sat, 14 Nov 2026.
 
-LORA S is a house and club artist based in United Kingdom, with 56 gigs on soundcheck across Hannover and London. Often billed alongside Mr. Redley, Kojay and dOnüt. Next up: Club Cheek, London on Sat 14 Nov.
+LORA S is a house and club artist based in United Kingdom, with 57 gigs on soundcheck across Hannover and London. Often billed alongside Mr. Redley, Kojay and dOnüt. Next up: Club Cheek, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ LORA S is a house and club artist based in United Kingdom, with 56 gigs on sound
 | Sat, 14 Nov 2026 | Club Cheek | London |
 | Fri, 20 Nov 2026 | Jumbi | London |
 | Fri, 27 Nov 2026 | NUMBER 90 LONDON | London |
+| Fri, 11 Dec 2026 | The Jago | London |
 
 ## Recently played
 

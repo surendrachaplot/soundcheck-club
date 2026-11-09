@@ -1,6 +1,6 @@
 # Ziber BERLIN ☆ THIEVES at Void Club
 
-Ziber BERLIN ☆ THIEVES at Void Club on Sat 21 Nov, Berlin. 10 artists: AAguilAA, BLEACH.LIVE, Glotzer and ilbroccolovolante and 6 more. See the line-up on soundcheck.
+Ziber BERLIN ☆ THIEVES at Void Club on Sat 21 Nov, Berlin. 11 artists: AAguilAA, BLEACH.LIVE, ELITEWASTE and Glotzer and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Ziber BERLIN ☆ THIEVES at Void Club on Sat 21 Nov, Berlin. 10 artists: AAguilA
 
 - AAguilAA
 - BLEACH.LIVE
+- ELITEWASTE
 - Glotzer
 - ilbroccolovolante
 - Melanie Havens

@@ -1,14 +1,15 @@
 # Kelman Duran
 
-Kelman Duran is a Experimental and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 13 Nov 2026.
+Kelman Duran is a Experimental and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Christianshavns Beboerhus, Copenhagen on Fri, 13 Nov 2026.
 
-Kelman Duran is an experimental and reggaeton artist based in Dominican Republic, with 89 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside BAE BAE, Loraine James and Nick León. Next up: Christianshavns Beboerhus, Copenhagen on Fri 13 Nov.
+Kelman Duran is an experimental and reggaeton artist based in Dominican Republic, with 90 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 25 more. Often billed alongside Loraine James, BAE BAE and Nick León. Next up: Christianshavns Beboerhus, Copenhagen on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Christianshavns Beboerhus | Copenhagen |
+| Sun, 24 Jan 2027 | The Barbican Hall | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Kelman Duran is an experimental and reggaeton artist based in Dominican Republic
 
 ## Shares bills with
 
-BAE BAE, Loraine James, Nick León
+Loraine James, BAE BAE, Nick León
 
 *Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/kelmanduran/)*

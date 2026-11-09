@@ -1,14 +1,14 @@
 # Viénce
 
-Viénce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA -  Vidigueira, Lisbon on Sat, 14 Nov 2026.
+Viénce is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA - Lisboa, Lisbon on Sat, 14 Nov 2026.
 
-Viénce is a house and techno artist, with 20 gigs on soundcheck across Amsterdam, Berlin and Lisbon. Often billed alongside Otal, SELESSA T. and CBR (Berlin). Next up: TBA -  Vidigueira, Lisbon on Sat 14 Nov.
+Viénce is a house and techno artist, with 20 gigs on soundcheck across Amsterdam, Berlin and Lisbon. Often billed alongside Otal, SELESSA T. and CBR (Berlin). Next up: TBA - Lisboa, Lisbon on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 14 Nov 2026 | TBA -  Vidigueira | Lisbon |
+| Sat, 14 Nov 2026 | TBA - Lisboa | Lisbon |
 
 ## Recently played
 

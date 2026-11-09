@@ -1,6 +1,6 @@
 # Pager Records at Hoppetosse
 
-Pager Records at Hoppetosse on Sat 5 Dec, Berlin. 5 artists: Klix, Markus Sommer, Rayya and Thilini and 1 more. See the line-up on soundcheck.
+Pager Records at Hoppetosse on Sat 5 Dec, Berlin. 5 artists: Klix (DE), Markus Sommer, Rayya and Thilini and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Pager Records at Hoppetosse on Sat 5 Dec, Berlin. 5 artists: Klix, Markus Sommer
 
 ## Line-up
 
-- Klix
+- Klix (DE)
 - Markus Sommer
 - Rayya
 - Thilini

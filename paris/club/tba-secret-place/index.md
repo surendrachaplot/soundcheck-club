@@ -1,8 +1,8 @@
-# TBA - SECRET PLACE
+# TBA - Secret Place
 
-TBA - SECRET PLACE is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "disc·o·patio: close·knit session: foundry return" on Sat, 28 Nov 2026.
+TBA - Secret Place is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "disc·o·patio: close·knit session: foundry return" on Sat, 28 Nov 2026.
 
-TBA - SECRET PLACE is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Nantaya, Antigone, Elli Acula and Enshade and 2 more. See dates, start times and who's playing.
+TBA - Secret Place is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Alex Nantaya, Antigone, Elli Acula and Enshade and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

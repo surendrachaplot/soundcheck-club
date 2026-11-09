@@ -1,13 +1,14 @@
 # Martyna Basta
 
-Martyna Basta is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Botanique, Brussels on Sat, 28 Nov 2026.
+Martyna Basta is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Milton Court Concert Hall, London on Wed, 25 Nov 2026.
 
-Martyna Basta is an experimental and ambient artist based in Poland, with 20 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 8 more. Often billed alongside Heinali, Deena Abdelwahed and Kitty Sarcasm. Next up: Botanique, Brussels on Sat 28 Nov.
+Martyna Basta is an experimental and ambient artist based in Poland, with 21 gigs on soundcheck across Barcelona, Berlin, Brussels and Frankfurt and 8 more. Often billed alongside Heinali, 2K88 and Deena Abdelwahed. Next up: Milton Court Concert Hall, London on Wed 25 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 25 Nov 2026 | Milton Court Concert Hall | London |
 | Sat, 28 Nov 2026 | Botanique | Brussels |
 
 ## Recently played
@@ -23,6 +24,6 @@ Martyna Basta is an experimental and ambient artist based in Poland, with 20 gig
 
 ## Shares bills with
 
-Heinali, Deena Abdelwahed, Kitty Sarcasm
+Heinali, 2K88, Deena Abdelwahed
 
 *Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/dj/martynabasta/)*

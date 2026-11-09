@@ -1,0 +1,15 @@
+# Strictly Wax presents: Slim at Hang Dai Chinese
+
+Strictly Wax presents: Slim at Hang Dai Chinese on Sat 12 Dec, Dublin. 1 artist: Slim (IE). Progressive House and Minimal Techno. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 12 Dec 2026 |
+| Venue | Hang Dai Chinese |
+| City | Dublin |
+
+## Line-up
+
+- Slim (IE)
+
+*Source: [soundcheck](https://soundcheck.club/e/2521460-strictly-wax-presents-slim-at-hang-dai-chinese/)*

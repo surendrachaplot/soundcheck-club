@@ -2,7 +2,7 @@
 
 Angel Rocket is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at AB Club (Ancienne Belgique), Brussels on Sat, 12 Dec 2026.
 
-Angel Rocket is a techno and experimental artist, with 8 gigs on soundcheck across Brussels and London. Often billed alongside Two Shell, Drime and Ship Sket. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
+Angel Rocket is a techno and experimental artist based in United Kingdom, with 8 gigs on soundcheck across Brussels and London. Often billed alongside Two Shell, Drime and Ship Sket. Next up: AB Club (Ancienne Belgique), Brussels on Sat 12 Dec.
 
 ## Upcoming shows
 

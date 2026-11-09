@@ -2,7 +2,7 @@
 
 ENK3I is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at 1983, Riga on Sat, 21 Nov 2026.
 
-ENK3I is a dubstep and bass artist, with 7 gigs on soundcheck across Riga. Often billed alongside Breakfake, q100 and Aizvakardiena. Next up: 1983, Riga on Sat 21 Nov.
+ENK3I is a dubstep and bass artist based in Latvia, with 7 gigs on soundcheck across Riga. Often billed alongside Breakfake, q100 and Aizvakardiena. Next up: 1983, Riga on Sat 21 Nov.
 
 ## Upcoming shows
 

@@ -15,7 +15,7 @@ Hoppetosse is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 27 Nov 2026 | Betriebsfeier | 3RDV, Adolpho & Franky, Bonnie Ford, Caren Callas, Coco, EllA, Empro, Gitte Verfuehrt, Josephine Wedekind, Ray Okpara, Sonnensysteme, Stan Starry, Thomas Koob, Tobi Neumann, dinaLiks, eveava |
 | Sun, 29 Nov 2026 | Playground | DJ Rino, Dyed Soundorom, Eli Verveine, Shonky |
 | Fri, 4 Dec 2026 | Focal Point x Bizarre Trax | B.Love, Felon5, Jade Seatle, Matthew Dexter |
-| Sat, 5 Dec 2026 | Pager Records | Klix, Markus Sommer, Rayya, Thilini, Tom Ries |
+| Sat, 5 Dec 2026 | Pager Records | Klix (DE), Markus Sommer, Rayya, Thilini, Tom Ries |
 | Sat, 12 Dec 2026 | Sekt&Brezeln presents Still Sparkling Vol.III |  |
 | Sun, 13 Dec 2026 | ♡ Sound Metaphors 11th Anniversary ♡ | Sound Metaphors Djs |
 

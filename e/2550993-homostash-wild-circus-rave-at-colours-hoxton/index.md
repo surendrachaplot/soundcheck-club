@@ -1,6 +1,6 @@
 # HOMOSTASH Wild Circus Rave at Colours Hoxton
 
-HOMOSTASH Wild Circus Rave at Colours Hoxton on Sat 28 Nov, London. 3 artists: Brother of Set, Tafkanik and Tomkinascious. Techno and Disco. See the line-up on soundcheck.
+HOMOSTASH Wild Circus Rave at Colours Hoxton on Sat 28 Nov, London. 4 artists: Alexei Byzone, Brother of Set, Tafkanik and Tomkinascious. Techno and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ HOMOSTASH Wild Circus Rave at Colours Hoxton on Sat 28 Nov, London. 3 artists: B
 
 ## Line-up
 
+- Alexei Byzone
 - Brother of Set
 - Tafkanik
 - Tomkinascious

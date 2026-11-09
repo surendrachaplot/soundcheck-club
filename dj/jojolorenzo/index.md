@@ -1,13 +1,14 @@
 # Jojo Lorenzo
 
-Jojo Lorenzo is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Bus Palladium, Paris on Sat, 14 Nov 2026.
+Jojo Lorenzo is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Smolna, Warsaw on Fri, 13 Nov 2026.
 
-Jojo Lorenzo is a house and disco artist based in United States of America, with 131 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 25 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: Bus Palladium, Paris on Sat 14 Nov.
+Jojo Lorenzo is a house and disco artist based in United States of America, with 132 gigs on soundcheck across Atlanta, Austin, Barcelona and Boston and 26 more. Often billed alongside Tinzo, RaeCola and Varist. Next up: Smolna, Warsaw on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Smolna | Warsaw |
 | Sat, 14 Nov 2026 | Bus Palladium | Paris |
 | Sat, 5 Dec 2026 | The Fruit | North-carolina |
 | Thu, 31 Dec 2026 | 99 Scott Ave | New York City |

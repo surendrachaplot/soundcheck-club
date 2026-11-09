@@ -1,8 +1,8 @@
 # Spray
 
-Spray is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at WAS., Utrecht on Fri, 1 Jan 2027.
+Spray is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at WAS., Utrecht on Fri, 1 Jan 2027.
 
-Spray is a techno and house artist based in Ireland, with 213 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: WAS., Utrecht on Fri 1 Jan.
+Spray is a house and techno artist based in Ireland, with 217 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 64 more. Often billed alongside Sally C, Job Jobse and Spriitzz. Next up: WAS., Utrecht on Fri 1 Jan.
 
 ## Upcoming shows
 
@@ -10,6 +10,10 @@ Spray is a techno and house artist based in Ireland, with 213 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 1 Jan 2027 | WAS. | Utrecht |
 | Fri, 1 Jan 2027 | CLUB RAUM | Amsterdam |
+| Fri, 8 Jan 2027 | Palais | London |
+| Fri, 15 Jan 2027 | Palais | London |
+| Fri, 22 Jan 2027 | Palais | London |
+| Fri, 29 Jan 2027 | Palais | London |
 
 ## Recently played
 

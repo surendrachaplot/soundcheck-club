@@ -1,14 +1,13 @@
 # Intermood
 
-Intermood is a House and Jazz artist with 5 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
+Intermood is a House and Jazz artist with 4 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at The Wildlands, Melbourne on Fri, 20 Nov 2026.
 
-Intermood is a house and jazz artist based in Australia, with 16 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Moopie, DJ Possum and Drifting Clouds. Next up: TBA, Victoria on Fri 6 Nov.
+Intermood is a house and jazz artist based in Australia, with 16 gigs on soundcheck across Melbourne and Victoria. Often billed alongside Moopie, DJ Possum and Drifting Clouds. Next up: The Wildlands, Melbourne on Fri 20 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 6 Nov 2026 | TBA | Victoria |
 | Fri, 20 Nov 2026 | The Wildlands | Melbourne |
 | Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 | Sat, 6 Feb 2027 | TBA - Coburg Lake Reserve | Melbourne |

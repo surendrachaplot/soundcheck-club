@@ -1,8 +1,8 @@
 # The Jago
 
-The Jago is a music venue in London with 7 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Swimming Lessons" on Fri, 13 Nov 2026.
+The Jago is a music venue in London with 8 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. The next is "Swimming Lessons" on Fri, 13 Nov 2026.
 
-The Jago is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including chrs apula, Ernesto Chahoud and Joseph Russell. See dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
+The Jago is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including chrs apula, Ernesto Chahoud, Joseph Russell and LORA S and 1 more. See dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
 ## What's on
 
@@ -14,6 +14,7 @@ The Jago is a music venue in London listed on soundcheck. 7 upcoming gigs, with 
 | Sat, 14 Nov 2026 | Back In Studio 54 (Disco Party) | chrs apula |
 | Sat, 21 Nov 2026 | Candela Wax w/ La Mandarina |  |
 | Fri, 27 Nov 2026 | A Night in Paradise: Tribute to Larry Levan |  |
+| Fri, 11 Dec 2026 | Heaven on Hertz | LORA S, Malur |
 | Sat, 16 Jan 2027 | ONLINE FOREVER |  |
 
 ## Address

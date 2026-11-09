@@ -12,7 +12,7 @@ Setlist @ Somerset House is a music venue in London listed on soundcheck. 10 upc
 | Sat, 14 Nov 2026 | SETLIFE present KWAMZ ORIGINAL PT 2 | Jacinta |
 | Fri, 20 Nov 2026 | R&B and FUNKY HOUSE NIGHT |  |
 | Sat, 21 Nov 2026 | SETLIFE present Supa D & Larizzle | Larizzle, Supa D |
-| Sat, 28 Nov 2026 | Setlife presents Ethan Porte | Ethan Porte, IFE (1), mastaque |
+| Sat, 28 Nov 2026 | Setlife presents Dr VADES & Ethan Porte | Ethan Porte, IFE (1), mastaque |
 | Sun, 29 Nov 2026 | Big Fish Little Fish Festive Family Rave |  |
 | Sat, 5 Dec 2026 | SETLIFE presents Ladies Love Dankie |  |
 | Sat, 12 Dec 2026 | SETLIFE presents Supa D | Supa D |

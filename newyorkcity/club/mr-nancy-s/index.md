@@ -1,6 +1,6 @@
 # Mr. Nancy’s
 
-Mr. Nancy’s is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. The next is "Oscil All Night" on Fri, 11 Dec 2026.
+Mr. Nancy’s is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Sat, 7 Nov 2026. The next is "Oscil All Night" on Fri, 11 Dec 2026.
 
 Mr. Nancy’s is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Oscil. See dates, start times and who's playing. 7-02 Seneca Ave, Ridgewood, NY 11385.
 
@@ -14,4 +14,4 @@ Mr. Nancy’s is a music venue in New York City listed on soundcheck. 1 upcoming
 
 7-02 Seneca Ave, Ridgewood, NY 11385, New York City
 
-*Updated Mon, 9 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mr-nancy-s/)*
+*Updated Sat, 7 Nov 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/mr-nancy-s/)*

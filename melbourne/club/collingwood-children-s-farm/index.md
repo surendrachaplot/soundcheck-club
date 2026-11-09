@@ -9,7 +9,7 @@ Collingwood Children's Farm is a music venue in Melbourne listed on soundcheck. 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 28 Nov 2026 | 10 Years of Lucid with Animalia & WAT Artists | BASHKKA, Jennifer Loveless, Kia (AU), Kiernan Laveaux, Marley Swain, Pariah, Ploy, Séarlait, deep creep |
-| Thu, 31 Dec 2026 | When Pigs Fly NYE 2026 | AceMo, Blue Communications, Cuerpo Negro, DJ Matab, DJ PGZ, DJ rahaan, Drifting Clouds, Intermood, JALE, Mikalah Watego, SELENA, SIMONA, Silentjay, Suze Ijó, Tornado Wallace |
+| Thu, 31 Dec 2026 | When Pigs Fly NYE 2026 | AceMo, Blue Communications, Cuerpo Negro, DJ Matab, DJ PGZ, Drifting Clouds, Intermood, JALE, Mikalah Watego, Rahaan, SELENA, SIMONA, Silentjay, Suze Ijó, Tornado Wallace |
 | Sat, 30 Jan 2027 | Butter Sessions presents: Freaks of Nature | Birdsnake, Bridget Small (2), CHEAHDX, Command D (1), DJ PGZ, DJ Possum, Gabriola, Hannah D, Haruka, Headhunters, Hybrid Man, Mabel, Myles Mac, RBI (Aus), Radart, Reptant, Sleep D, Tornado Wallace, Yuzo Iwata, Zara |
 
 ## Address

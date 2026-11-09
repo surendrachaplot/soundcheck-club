@@ -11,7 +11,7 @@ Bolero is a music venue in Seoul listed on soundcheck. 5 upcoming gigs, with lin
 | Fri, 13 Nov 2026 | BASH X FULLHOUSE | DOBERMAN, Multivsn, SKiiDA, TAKENOKO, cazbow, nazanael |
 | Sat, 14 Nov 2026 | Pasa Passa × CLUB.WAV (UK) | Begonia, HARUNA (2), RHODE (1), Xena (KR), ZEE-2, Zion |
 | Sat, 14 Nov 2026 | Bolero: PASA PASSA × CLUB.WAV (UK) | Begonia, HARUNA (2), RHODE (1), Xena (KR), ZEE-2, Zion |
-| Thu, 19 Nov 2026 | DHOLERO | COOK SWEET, Dj Bal-T, KING SHE, Silly Silky, Unkelchubbz, Y1VB0 |
+| Thu, 19 Nov 2026 | DHOLERO | COOK SWEET, Dj Bal-T, KING SHE, NW10, Silly Silky, Unkelchubbz, Y1VB0 |
 | Sun, 22 Nov 2026 | Bolero: STAY HIGH presents DIORVSYOU LIVE IN SEOUL |  |
 
 ## Address

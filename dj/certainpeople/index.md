@@ -1,14 +1,15 @@
 # Certain People
 
-Certain People is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Mon, 9 Nov 2026. Next at Cadavra, Madrid on Sat, 14 Nov 2026.
+Certain People is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Cadavra, Madrid on Sat, 14 Nov 2026.
 
-Certain People is a house and electronica artist based in Spain, with 62 gigs on soundcheck across Barcelona, Guadalajara, Ibiza and London and 4 more. Often billed alongside Fuentes-Guerra, Javi Redondo and Emi Koto. Next up: Cadavra, Madrid on Sat 14 Nov.
+Certain People is a house and electronica artist based in Spain, with 63 gigs on soundcheck across Barcelona, Guadalajara, Ibiza and Lisbon and 5 more. Often billed alongside Fuentes-Guerra, Javi Redondo and Emi Koto. Next up: Cadavra, Madrid on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | Cadavra | Madrid |
+| Wed, 25 Nov 2026 | Collect LX Factory | Lisbon |
 
 ## Recently played
 

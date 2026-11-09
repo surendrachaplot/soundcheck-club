@@ -1,6 +1,6 @@
 # Timelines x Loop Progression at The Social
 
-Timelines x Loop Progression at The Social on Sat 6 Feb, London. 2 artists: Ben Repertoire and Deselecta. Drum & Bass and Jungle. See the line-up on soundcheck.
+Timelines x Loop Progression at The Social on Sat 6 Feb, London. 3 artists: Ben Repertoire, Deselecta and Pixl. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,5 +12,6 @@ Timelines x Loop Progression at The Social on Sat 6 Feb, London. 2 artists: Ben 
 
 - Ben Repertoire
 - Deselecta
+- Pixl
 
 *Source: [soundcheck](https://soundcheck.club/e/2578911-timelines-x-loop-progression-at-the-social/)*

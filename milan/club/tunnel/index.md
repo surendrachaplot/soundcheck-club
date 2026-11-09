@@ -10,7 +10,7 @@ Tunnel is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with lin
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | UNDERPASS 8TH ANNIVERSARY | M-High, WHITE OFF |
 | Sat, 14 Nov 2026 | LOVE GENERATION : 30 YEARS OF TECHNO, TRANCE AND PROGRESSIVE | O.P.S., RTGL |
-| Sat, 12 Dec 2026 | Metempsicosi in Milan | 00Zicky, Mario Piu, Y-DAPT |
+| Sat, 12 Dec 2026 | Metempsicosi in Milan with Mario Piu, 00Zicky  | 00Zicky, Mario Piu, Y-DAPT |
 
 ## Address
 

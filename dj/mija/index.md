@@ -1,13 +1,14 @@
 # Mija
 
-Mija is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Das Zimmer, Mannheim on Sat, 14 Nov 2026.
+Mija is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Mon, 9 Nov 2026. Next at Grelle Forelle, Vienna on Fri, 13 Nov 2026.
 
-Mija is a techno and trance artist based in United States of America, with 157 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 60 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Das Zimmer, Mannheim on Sat 14 Nov.
+Mija is a techno and trance artist based in United States of America, with 158 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Austin and 60 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: Grelle Forelle, Vienna on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Grelle Forelle | Vienna |
 | Sat, 14 Nov 2026 | Das Zimmer | Mannheim |
 | Sat, 21 Nov 2026 | Mia Mao | Paris |
 | Sun, 22 Nov 2026 | Karmen Camina | Strasbourg |
